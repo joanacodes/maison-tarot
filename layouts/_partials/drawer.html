@@ -1,0 +1,19 @@
+<div class="drawer" id="drawer" aria-hidden="true">
+  <div class="scrim"></div>
+  <div class="panel" role="dialog" aria-modal="true" aria-label="{{ i18n "menu" }}">
+    <div class="top">
+      <span class="brand">{{ site.Params.brand }}</span>
+      <button type="button" class="pill" data-close>{{ i18n "close" }}</button>
+    </div>
+    <div class="search-inline"><input type="search" data-search-open placeholder="{{ if eq .Language.Lang "fr" }}Rechercher…{{ else }}Search…{{ end }}" aria-label="{{ if eq .Language.Lang "fr" }}Rechercher{{ else }}Search{{ end }}" readonly></div>
+    <nav>
+      {{ range .Site.Menus.main }}<a href="{{ .URL }}"{{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }} aria-current="page"{{ end }}>{{ .Name }}</a>{{ end }}
+      {{ range first 2 .Site.Menus.footer }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}
+    </nav>
+    {{ partial "socials.html" (slice "instagram" "youtube" "tiktok" "facebook" "threads") }}
+    <div class="foot">
+      {{ partial "theme-toggle.html" . }}
+      {{ range after 2 .Site.Menus.footer }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}
+    </div>
+  </div>
+</div>

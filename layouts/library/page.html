@@ -1,0 +1,28 @@
+{{ define "main" }}
+{{- $fr := eq .Language.Lang "fr" -}}
+<article class="wrap page-top">
+  {{ partial "breadcrumb.html" . }}
+  {{ if .Params.image }}
+  <div class="article-head">
+    <div>{{ with .Params.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}<h1>{{ .Params.h1 | default .Title | safeHTML }}</h1>{{ with .Params.lede }}<p class="lede" style="margin-top:1.2rem">{{ . }}</p>{{ end }}</div>
+    <div class="visual" data-reveal>{{ partial "image.html" (dict "page" . "src" .Params.image "alt" (.Params.imageAlt | default .Title) "ratio" "tall" "loading" "eager") }}</div>
+    <div>{{ with .Params.standfirst }}<p class="standfirst">{{ . }}</p>{{ end }}{{ with .Params.facts }}<div class="facts" style="grid-template-columns:1fr">{{ range . }}<div><div class="k">{{ .k }}</div><div class="v">{{ .v }}</div></div>{{ end }}</div>{{ end }}</div>
+  </div>
+  {{ else }}
+  <div class="grid" style="align-items:end">
+    <div class="s8"><h1 class="mt-0">{{ .Params.h1 | default .Title | safeHTML }}{{ partial "sym.html" .Title }}</h1></div>
+    <div class="s4">{{ with .Params.lede }}<p class="lede" style="font-size:var(--t-0)">{{ . }}</p>{{ end }}</div>
+  </div>
+  {{ end }}
+  <div class="article-body">
+    <aside class="rail">
+      {{ with .TableOfContents }}<p class="label">{{ if $fr }}Sur cette page{{ else }}On this page{{ end }}</p><nav class="toc">{{ . }}</nav>{{ end }}
+      {{ with .Params.related }}<p class="label" style="margin-top:2rem">{{ i18n "inLibrary" }}</p><ul class="index-list">{{ range . }}{{ with $.Site.GetPage . }}<li><a href="{{ .RelPermalink }}"><span class="title" style="font-size:var(--t-0)">{{ .Title }}</span><span class="arrow">→</span></a></li>{{ end }}{{ end }}</ul>{{ end }}
+    </aside>
+    <div class="prose">{{ .Content }}</div>
+    <aside class="sticky">
+      {{ partial "guide-form.html" . }}
+    </aside>
+  </div>
+</article>
+{{ end }}

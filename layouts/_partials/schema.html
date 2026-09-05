@@ -1,0 +1,44 @@
+{{- /* JSON-LD. Rien d'inventé : Person seulement si un nom est renseigné ; jamais de Review/AggregateRating. */ -}}
+{{- $lang := .Language.Lang -}}
+{{- $orgId := printf "%s#org" site.BaseURL -}}
+{{- $authorId := printf "%s#author" site.BaseURL -}}
+{{- $nodes := slice -}}
+{{- $org := dict "@type" "Organization" "@id" $orgId "name" site.Params.brand "url" site.BaseURL "sameAs" site.Params.author.sameAs -}}
+{{- with .Site.Language.Params.email }}{{ $org = merge $org (dict "email" .) }}{{ end -}}
+{{- $nodes = $nodes | append $org -}}
+{{- $nodes = $nodes | append (dict "@type" "WebSite" "@id" (printf "%s#website" site.BaseURL) "name" site.Params.brand "url" site.BaseURL "inLanguage" (slice "fr" "en") "publisher" (dict "@id" $orgId)) -}}
+{{- if site.Params.author.name -}}
+  {{- $nodes = $nodes | append (dict "@type" "Person" "@id" $authorId "name" site.Params.author.name "url" (.Site.GetPage (cond (eq $lang "fr") "/a-propos" "/about")).Permalink "sameAs" site.Params.author.sameAs "worksFor" (dict "@id" $orgId) "knowsLanguage" (slice "fr" "en") "homeLocation" (dict "@type" "Place" "name" site.Params.author.basedIn)) -}}
+{{- end -}}
+{{- $author := cond (ne site.Params.author.name "") (dict "@id" $authorId) (dict "@id" $orgId) -}}
+{{- if eq .Type "blog" -}}
+  {{- if .IsPage -}}
+  {{- $nodes = $nodes | append (dict "@type" "Article" "headline" .Title "description" .Params.description "url" .Permalink "inLanguage" $lang "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02") "author" $author "publisher" (dict "@id" $orgId) "mainEntityOfPage" .Permalink) -}}
+  {{- end -}}
+{{- else if in (slice "library" "cards") .Type -}}
+  {{- if .IsPage -}}
+  {{- $nodes = $nodes | append (dict "@type" "Article" "headline" .Title "description" .Params.description "url" .Permalink "inLanguage" $lang "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02") "author" $author "publisher" (dict "@id" $orgId)) -}}
+  {{- end -}}
+{{- else if in (slice "offer" "metro" "country") .Type -}}
+  {{- $nodes = $nodes | append (dict "@type" "Service" "name" .Title "description" .Params.description "url" .Permalink "provider" (dict "@id" $orgId) "serviceType" (cond (eq $lang "fr") "Sessions et ateliers de tarot (divertissement)" "Tarot sessions and workshops (entertainment)") "availableLanguage" (slice "fr" "en") "areaServed" (.Params.areaServed | default (slice))) -}}
+{{- else if eq .Type "events" -}}
+  {{- if .IsPage -}}
+  {{- $loc := cond (eq .Params.mode "online") (dict "@type" "VirtualLocation" "url" (.Params.link | default .Permalink)) (dict "@type" "Place" "name" (.Params.venue | default .Params.city) "address" (.Params.city | default "")) -}}
+  {{- $ev := dict "@type" "Event" "name" .Title "description" .Params.description "url" .Permalink "startDate" (.Params.start | default (.Date.Format "2006-01-02T15:04:05-07:00")) "eventAttendanceMode" (cond (eq .Params.mode "online") "https://schema.org/OnlineEventAttendanceMode" "https://schema.org/OfflineEventAttendanceMode") "eventStatus" "https://schema.org/EventScheduled" "location" $loc "organizer" (dict "@id" $orgId) "inLanguage" $lang "isAccessibleForFree" (eq (.Params.price | default "free") "free") -}}
+  {{- with .Params.end }}{{ $ev = merge $ev (dict "endDate" .) }}{{ end -}}
+  {{- $nodes = $nodes | append $ev -}}
+  {{- end -}}
+{{- end -}}
+{{- with .Params.faq -}}
+  {{- $q := slice -}}
+  {{- range . }}{{ $q = $q | append (dict "@type" "Question" "name" .q "acceptedAnswer" (dict "@type" "Answer" "text" .a)) }}{{ end -}}
+  {{- $nodes = $nodes | append (dict "@type" "FAQPage" "mainEntity" $q) -}}
+{{- end -}}
+{{- if and (not .IsHome) (gt (len .Ancestors) 0) -}}
+  {{- $items := slice -}}
+  {{- $i := 1 -}}
+  {{- range .Ancestors.Reverse }}{{ $items = $items | append (dict "@type" "ListItem" "position" $i "name" (cond .IsHome site.Params.brand (.Params.navTitle | default .Title)) "item" .Permalink) }}{{ $i = add $i 1 }}{{ end -}}
+  {{- $items = $items | append (dict "@type" "ListItem" "position" $i "name" (.Params.navTitle | default .Title) "item" .Permalink) -}}
+  {{- $nodes = $nodes | append (dict "@type" "BreadcrumbList" "itemListElement" $items) -}}
+{{- end -}}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $nodes | jsonify | safeJS }}</script>

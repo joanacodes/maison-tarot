@@ -1,0 +1,11 @@
+{{- $n := site.Params.numbers -}}
+{{- $method := .Site.GetPage (cond (eq .Language.Lang "fr") "/methode" "/method") -}}
+<table class="ledger">
+  <caption>{{ i18n "ledgerCaption" }}</caption>
+  <tbody>
+    <tr><th scope="row">{{ i18n "ledgerReadings" }}</th><td>{{ $n.readings }}</td></tr>
+    <tr><th scope="row">{{ i18n "ledgerHit" }}</th><td>{{ $n.hitRate }}</td></tr>
+    {{ if not .compact }}<tr><th scope="row">{{ i18n "ledgerChart" }}</th><td>{{ $n.chartOverall }}</td></tr><tr><th scope="row">{{ i18n "ledgerSLC" }}</th><td>{{ $n.chartSLC }}</td></tr>{{ end }}
+  </tbody>
+  <tfoot><tr><th scope="row" colspan="2">{{ i18n "ledgerFoot" }} <a href="{{ $method.RelPermalink }}">{{ $method.Title }}</a>.</th></tr></tfoot>
+</table>

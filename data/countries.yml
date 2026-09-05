@@ -1,0 +1,11 @@
+# Hubs pays : clé = nom du dossier dans content/<lang>/
+france:     { weight: 1, lang: fr, name: France,          hreflang: fr-FR, currency: EUR, tz: [Europe/Paris] }
+quebec:     { weight: 2, lang: fr, name: Québec,          hreflang: fr-CA, currency: CAD, tz: [America/Toronto], note: "Sessions en français, créneaux en heure de l’Est." }
+belgique:   { weight: 3, lang: fr, name: Belgique,        hreflang: fr-BE, currency: EUR, tz: [Europe/Brussels] }
+suisse:     { weight: 4, lang: fr, name: Suisse romande,  hreflang: fr-CH, currency: CHF, tz: [Europe/Zurich] }
+luxembourg: { weight: 5, lang: fr, name: Luxembourg,      hreflang: fr-LU, currency: EUR, tz: [Europe/Luxembourg] }
+monaco:     { weight: 6, lang: fr, name: Monaco,          hreflang: fr-MC, currency: EUR, tz: [Europe/Monaco] }
+usa:        { weight: 1, lang: en, name: United States,   hreflang: en-US, currency: USD, tz: [America/New_York, America/Chicago, America/Denver, America/Los_Angeles], note: "Online from Paris. No Pennsylvania pages, by design." }
+canada:     { weight: 2, lang: en, name: Canada,          hreflang: en-CA, currency: CAD, tz: [America/Toronto, America/Winnipeg, America/Edmonton, America/Vancouver] }
+uk:         { weight: 3, lang: en, name: United Kingdom,  hreflang: en-GB, currency: GBP, tz: [Europe/London] }
+australia:  { weight: 4, lang: en, name: Australia,       hreflang: en-AU, currency: AUD, tz: [Australia/Sydney, Australia/Brisbane, Australia/Adelaide, Australia/Perth] }

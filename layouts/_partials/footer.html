@@ -1,0 +1,15 @@
+{{- $lang := .Language.Lang -}}
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="top">
+      <div class="wordmark">Maison<br>Tarot</div>
+      <p class="disclaimer">{{ if eq $lang "fr" }}Tout ce qu’on propose ici l’est à des fins de divertissement, pour les plus de 18 ans. Le reste tient sur une page — et on l’assume.{{ else }}Everything here is offered for entertainment, for people over 18. The rest fits on one page — and we own it.{{ end }} {{ partial "see-disclaimers.html" (dict "ctx" . "gold" true) }}</p>
+    </div>
+    <div class="cols">
+      <div><h4>{{ if eq $lang "fr" }}La maison{{ else }}The house{{ end }}</h4><ul>{{ range .Site.Menus.main }}<li><a href="{{ .URL }}">{{ .Name }}</a></li>{{ end }}</ul></div>
+      <div><h4>{{ if eq $lang "fr" }}Pratique{{ else }}Practical{{ end }}</h4><ul>{{ range .Site.Menus.footer }}<li><a href="{{ .URL }}">{{ .Name }}</a></li>{{ end }}</ul></div>
+      <div><h4>@{{ site.Params.author.handle }}</h4><ul>{{ range site.Params.author.sameAs }}{{ $host := index (split (replaceRE "^https?://(www\\.)?" "" .) "/") 0 }}{{ $parts := split $host "." }}{{ $label := index $parts 0 }}{{ if gt (len $parts) 2 }}{{ $label = index $parts (sub (len $parts) 2) }}{{ end }}<li><a href="{{ . }}" rel="me noopener">{{ $label }}</a></li>{{ end }}</ul></div>
+    </div>
+    <div class="bottom"><span>© {{ now.Year }} {{ site.Params.brand }} · {{ i18n "madeIn" }}</span><span>{{ site.Params.tagline }}</span></div>
+  </div>
+</footer>

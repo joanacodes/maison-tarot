@@ -1,0 +1,6 @@
+{{- if .items -}}
+<aside class="box" aria-labelledby="notclaim">
+  <h3 id="notclaim" class="mt-0" style="font-family:var(--font-body);font-size:var(--t-0);font-weight:600">{{ i18n "notClaim" }}</h3>
+  <ul>{{ range .items }}<li>{{ . }}</li>{{ end }}</ul>
+</aside>
+{{- end -}}

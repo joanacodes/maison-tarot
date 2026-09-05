@@ -1,0 +1,11 @@
+{{- $fr := eq .Language.Lang "fr" -}}
+<article class="episode-card">
+  {{ partial "image.html" (dict "page" . "src" (.Params.image | default "cover.jpg") "alt" .Title "ratio" "square" "sizes" "(min-width:640px) 9rem, 100vw") }}
+  <div class="body">
+    <p class="m">{{ if $fr }}Épisode{{ else }}Episode{{ end }} {{ .Params.episode }}{{ with .Params.guest }} · {{ . }}{{ end }}{{ with .Params.duration }} · {{ . }}{{ end }} · {{ .Date.Format .Site.Language.Params.dateFormat }}</p>
+    <h3><a href="{{ .RelPermalink }}" style="text-decoration:none">{{ .Title }}</a></h3>
+    <p class="muted small">{{ .Params.description }}</p>
+    {{ with .Params.audio }}<div class="player"><audio controls preload="none" src="{{ . }}"></audio></div>{{ end }}
+    <p style="margin:.8rem 0 0"><a class="link-arrow" href="{{ .RelPermalink }}">{{ if $fr }}Page de l’épisode{{ else }}Episode page{{ end }}</a></p>
+  </div>
+</article>

@@ -1,0 +1,34 @@
+{{- /* Dialogue d'inscription : détails à gauche, formulaire à droite. Appelé avec la page événement. */ -}}
+{{- $fr := eq .Language.Lang "fr" -}}{{ $t := time .Params.start }}
+<div class="dialog" data-dialog="{{ .File.UniqueID }}" aria-hidden="true">
+  <div class="scrim" style="position:absolute;inset:0"></div>
+  <div class="panel glass" role="dialog" aria-modal="true" aria-labelledby="dlg-{{ .File.UniqueID }}" style="position:relative">
+    <button type="button" class="pill close" data-close>{{ i18n "close" }}</button>
+    <div class="details">
+      <p class="eyebrow">{{ $t.Format .Site.Language.Params.dateFormat }}{{ with .Params.time }} · {{ . }}{{ end }}</p>
+      <h2 id="dlg-{{ .File.UniqueID }}">{{ .Title }}</h2>
+      <p class="lede" style="font-size:var(--t-0)">{{ .Params.description }}</p>
+      <div class="tags" style="display:flex;gap:.5rem;flex-wrap:wrap;margin:.5rem 0 1rem">
+        <span class="tag">{{ if eq .Params.mode "online" }}{{ i18n "online" }}{{ else }}{{ .Params.venue }}, {{ .Params.city }}{{ end }}</span>
+        {{ if eq (.Params.price | default "free") "free" }}<span class="tag tag-gold">{{ i18n "free" }}</span>{{ end }}
+      </div>
+      <div class="prose small">{{ .Content }}</div>
+      <p>{{ partial "see-disclaimers.html" (dict "ctx" . "anchor" "evenements") }}</p>
+    </div>
+    <div>
+      <p class="label">{{ if $fr }}S’inscrire{{ else }}Register{{ end }}</p>
+      {{ with site.Params.eventFormAction }}
+      <form method="post" action="{{ . }}">
+        <input type="hidden" name="EVENT" value="{{ $.Title }} — {{ $.Params.start }}">
+        <div class="field"><label>{{ if $fr }}Prénom{{ else }}First name{{ end }}</label><input type="text" name="FIRSTNAME" required autocomplete="given-name"></div>
+        <div class="field"><label>{{ i18n "guideEmail" }}</label><input type="email" name="EMAIL" required autocomplete="email"></div>
+        <label class="check"><input type="checkbox" name="OPT_IN" required> <span>{{ if $fr }}J’ai plus de 18 ans et j’ai lu les avertissements. Je recevrai le lien de connexion par email.{{ else }}I’m over 18 and I’ve read the disclaimers. I’ll receive the link by email.{{ end }}</span></label>
+        <button class="btn btn-solid btn-arrow" type="submit">{{ if $fr }}Réserver ma place{{ else }}Save my seat{{ end }}</button>
+      </form>
+      {{ else }}
+        {{ with $.Params.link }}<p class="muted small">{{ if $fr }}L’inscription se fait sur la page de l’événement :{{ else }}Registration happens on the event page:{{ end }}</p><a class="btn btn-solid btn-arrow" href="{{ . }}" rel="noopener" data-external-register>{{ if $fr }}S’inscrire{{ else }}Register{{ end }}</a>
+        {{ else }}<p class="muted small">{{ if $fr }}Les inscriptions ouvrent bientôt. Le Guide du lecteur vous prévient.{{ else }}Registration opens soon. The Readers’ Guide will let you know.{{ end }}</p>{{ end }}
+      {{ end }}
+    </div>
+  </div>
+</div>

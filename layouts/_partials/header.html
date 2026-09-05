@@ -1,0 +1,16 @@
+{{- $other := partial "lang-switch-url.html" . -}}
+<header class="site-header">
+  <div class="wrap bar">
+    <div class="left">
+      <a class="brand" href="{{ .Site.Home.RelPermalink }}" aria-label="{{ site.Params.brand }}">{{ site.Params.brand }}</a>
+      {{ partial "socials.html" (slice "instagram" "youtube" "facebook" "threads") }}
+    </div>
+    <nav aria-label="{{ i18n "menu" }}">
+      {{ range .Site.Menus.main }}<a href="{{ .URL }}"{{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }} aria-current="page"{{ end }}>{{ .Name }}</a>{{ end }}
+      <a class="pill" href="{{ $other.url }}" hreflang="{{ $other.lang }}" lang="{{ $other.lang }}" aria-label="{{ i18n "switchAria" }}" data-lang-switch>{{ i18n "switchTo" }}</a>
+      {{ partial "search-button.html" . }}
+    </nav>
+  </div>
+</header>
+<div class="theme-dock">{{ partial "theme-toggle.html" . }}</div>
+<div class="brand-gold" aria-hidden="true"><div class="wrap bar"><span class="brand">{{ site.Params.brand }}</span></div></div>

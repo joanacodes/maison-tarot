@@ -1,0 +1,10 @@
+{{- /* Symboles à côté d'un mot : partial "sym.html" "Mars en Scorpion" → ♂ ♏ ; éléments en SVG. */ -}}
+{{- $t := . -}}
+{{- $el := dict "Terre" "earth" "Earth" "earth" "Eau" "water" "Water" "water" "Feu" "fire" "Fire" "fire" "Air" "air" -}}
+{{- $u := dict "Soleil" "☉" "Sun" "☉" "Lune" "☽" "Moon" "☽" "Mercure" "☿" "Mercury" "☿" "Vénus" "♀" "Venus" "♀" "Mars" "♂" "Jupiter" "♃" "Saturne" "♄" "Saturn" "♄" "Uranus" "♅" "Neptune" "♆" "Pluton" "♇" "Pluto" "♇" "Bélier" "♈" "Aries" "♈" "Taureau" "♉" "Taurus" "♉" "Gémeaux" "♊" "Gemini" "♊" "Cancer" "♋" "Lion" "♌" "Leo" "♌" "Vierge" "♍" "Virgo" "♍" "Balance" "♎" "Libra" "♎" "Scorpion" "♏" "Scorpio" "♏" "Sagittaire" "♐" "Sagittarius" "♐" "Capricorne" "♑" "Capricorn" "♑" "Verseau" "♒" "Aquarius" "♒" "Poissons" "♓" "Pisces" "♓" -}}
+{{- $svg := dict "fire" `<svg viewBox="0 0 20 20"><path d="M10 3 17 16H3z"/></svg>` "water" `<svg viewBox="0 0 20 20"><path d="M10 17 3 4h14z"/></svg>` "air" `<svg viewBox="0 0 20 20"><path d="M10 3 17 16H3z"/><path d="M5 11h10"/></svg>` "earth" `<svg viewBox="0 0 20 20"><path d="M10 17 3 4h14z"/><path d="M5 9h10"/></svg>` -}}
+{{- $out := slice -}}
+{{- range $w := split (replaceRE "[^\\p{L}]+" " " $t) " " -}}
+  {{- with index $el $w }}{{ $out = $out | append (index $svg .) }}{{ else }}{{ with index $u $w }}{{ $out = $out | append . }}{{ end }}{{ end -}}
+{{- end -}}
+{{- with $out }}<span class="sym" aria-hidden="true">{{ delimit . " " | safeHTML }}</span>{{ end -}}

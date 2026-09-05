@@ -1,0 +1,32 @@
+{{ define "main" }}
+{{- $fr := eq .Language.Lang "fr" -}}
+<section class="hero hero-ink"><div class="hatch"></div>
+  <div class="hero-split">
+    <div class="text">
+      <p class="crumbs" style="color:var(--muted)"><a href="{{ .Site.Home.RelPermalink }}">{{ site.Params.brand }}</a><span>›</span><a href="{{ .Parent.RelPermalink }}">{{ .Parent.Params.navTitle | default .Parent.Title }}</a><span>›</span>{{ if $fr }}Épisode{{ else }}Episode{{ end }} {{ .Params.episode }}</p>
+      <p class="eyebrow">{{ if $fr }}Épisode{{ else }}Episode{{ end }} {{ .Params.episode }}{{ with .Params.guest }} · {{ . }}{{ end }}{{ with .Params.duration }} · {{ . }}{{ end }}</p>
+      <h1>{{ .Title }}</h1>
+      <p class="lede">{{ .Params.description }}</p>
+      {{ partial "platforms.html" (dict "ctx" . "urls" .Params) }}
+    </div>
+    <div class="visual">{{ partial "image.html" (dict "page" . "src" (.Params.image | default "cover.jpg") "alt" .Title "ratio" "portrait" "loading" "eager") }}</div>
+  </div>
+</section>
+<section class="wrap" style="margin-top:-2.5rem;position:relative;z-index:2">
+  <div class="episode-card glass" style="grid-template-columns:1fr">
+    <div class="body" style="padding:1.4rem 1.6rem">
+      {{ with .Params.youtube }}<iframe class="embed" src="https://www.youtube-nocookie.com/embed/{{ . }}" title="{{ $.Title }}" loading="lazy" allow="accelerometer; encrypted-media; picture-in-picture" allowfullscreen></iframe>{{ end }}
+      {{ with .Params.audio }}<div class="player"><audio controls preload="none" src="{{ . }}"></audio></div>{{ end }}
+      {{ if not (or .Params.youtube .Params.audio) }}<p class="todo">{{ if $fr }}audio ou vidéo à renseigner (audio: / youtube:){{ else }}audio or video to add (audio: / youtube:){{ end }}</p>{{ end }}
+    </div>
+  </div>
+</section>
+<section class="wrap band"><div class="article-body" style="border:0;margin-top:0;padding-top:0">
+  <aside class="rail">{{ with .TableOfContents }}<p class="label">{{ if $fr }}Dans cet épisode{{ else }}In this episode{{ end }}</p><nav class="toc">{{ . }}</nav>{{ end }}<p>{{ partial "see-disclaimers.html" (dict "ctx" .) }}</p></aside>
+  <div class="prose">{{ .Content }}</div>
+  <aside class="sticky">
+    {{ $others := where .Parent.RegularPages "Permalink" "ne" .Permalink }}{{ with first 3 $others }}<p class="label">{{ if $fr }}Autres épisodes{{ else }}More episodes{{ end }}</p><ul class="index-list">{{ range . }}<li><a href="{{ .RelPermalink }}"><span class="title" style="font-size:var(--t-0)">{{ .Title }}</span><span class="arrow">→</span></a></li>{{ end }}</ul>{{ end }}
+    <div style="margin-top:1.5rem">{{ partial "guide-form.html" . }}</div>
+  </aside>
+</div></section>
+{{ end }}

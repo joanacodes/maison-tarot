@@ -1,0 +1,1 @@
+<blockquote><p>{{ .Inner | markdownify | replaceRE "^<p>|</p>$" "" | safeHTML }}</p>{{ with .Get "by" }}<cite>{{ . }}</cite>{{ end }}</blockquote>

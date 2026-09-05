@@ -1,0 +1,18 @@
+{{- /* Le Guide : bouton « Télécharger » → champ email apparaît → le fichier se télécharge, sans nouvelle page. */ -}}
+{{- $ctx := . }}{{ $photo := "" }}{{ if reflect.IsMap . }}{{ if isset . "ctx" }}{{ $ctx = .ctx }}{{ $photo = .photo }}{{ end }}{{ end -}}
+{{- $lang := $ctx.Language.Lang -}}{{ $file := $ctx.Site.Language.Params.guideFile }}
+{{ if $photo }}<div class="over-photo"><div class="photo">{{ partial "image.html" (dict "page" $ctx "src" $photo "alt" "" "ratio" "landscape") }}</div>{{ end }}
+<section class="glass glass-gold guide" {{ if not $photo }}style="padding:clamp(1.4rem,3vw,2.2rem)"{{ end }} data-reveal data-guide data-file="{{ $file }}" data-action="{{ site.Params.formAction }}">
+  <p class="eyebrow">{{ i18n "free" }}</p>
+  <h3 class="mt-0">{{ i18n "guideTitle" }}</h3>
+  <p class="muted">{{ i18n "guideText" }}</p>
+  <button type="button" class="btn btn-solid btn-arrow" data-guide-open>{{ i18n "download" }}</button>
+  <form class="dl-form" hidden>
+    <p class="small muted">{{ i18n "downloadHint" }}</p>
+    <div class="field"><label for="guide-email-{{ $ctx.File.UniqueID | default "x" }}">{{ i18n "guideEmail" }}</label><input id="guide-email-{{ $ctx.File.UniqueID | default "x" }}" type="email" name="EMAIL" required autocomplete="email"></div>
+    <label class="check"><input type="checkbox" name="OPT_IN" required> <span>{{ i18n "guideConsent" }}</span></label>
+    <input type="hidden" name="LANG" value="{{ $lang }}">
+    <button class="btn btn-solid btn-arrow" type="submit">{{ i18n "downloadGo" }}</button>
+  </form>
+</section>
+{{ if $photo }}</div>{{ end }}

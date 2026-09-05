@@ -1,0 +1,237 @@
+# Maison Tarot — configuration Hugo
+# Un seul domaine canonique. Remplacer avant le premier déploiement (et dans .github/workflows/deploy.yml).
+baseURL = "https://www.maisontarot.example/"
+title = "Maison Tarot"
+enableRobotsTXT = true
+timeZone = "Europe/Paris"
+disableKinds = ["taxonomy", "term"]
+
+# ——— Langues : l'anglais est le site principal (racine), le français vit sous /fr/. Bandeau qui propose, jamais de redirection.
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.fr]
+    label = "Français"
+    locale = "fr-FR"
+    contentDir = "content/fr"
+    weight = 2
+    [languages.fr.params]
+      locale = "fr_FR"
+      dateFormat = "2 January 2006"
+      email = "bonjour@maisontarot.fr"
+      bookedUntil = "février 2027"      # vide = pas de badge
+      bookedLabel = "Disponible en"
+      guideFile = "/guide/maison-tarot-guide-du-lecteur.pdf"
+  [languages.en]
+    label = "English"
+    locale = "en-GB"
+    contentDir = "content/en"
+    weight = 1
+    [languages.en.params]
+      locale = "en_GB"
+      dateFormat = "2 January 2006"
+      email = "hello@maisontarot.com"
+      bookedUntil = "February 2027"
+      bookedLabel = "Available in"
+      guideFile = "/guide/maison-tarot-readers-guide.pdf"
+
+[params]
+  brand = "Maison Tarot"
+  tagline = "Demystify mysticism."
+  # Cal.com : "utilisateur/type" (vide = réservation fermée, aucun bouton mort)
+  calLink = ""
+  # Brevo (ou autre) : URL d'action du formulaire du Guide du lecteur (vide = formulaire désactivé)
+  formAction = ""
+  # Formulaire d'inscription aux événements (vide = le dialogue affiche « bientôt » ; le lien de l'événement reste utilisable)
+  eventFormAction = ""
+  [params.podcast]
+    spotify = ""     # URL de l'émission sur chaque plateforme (vide = bouton masqué)
+    apple = ""
+    deezer = ""
+    youtube = ""
+    cadence_fr = "Nouvel épisode tous les jeudis"
+    cadence_en = "New episodes every Thursday"
+  [params.author]
+    name = ""            # [À COMPLÉTER] — sans nom, aucun schema Person n'est émis
+    handle = "maisontarot"
+    basedIn = "Paris"
+    email = "hello@maisontarot.com"   # contact par langue : languages.<lang>.params.email
+    sameAs = [
+      "https://instagram.com/maisontarot",
+      "https://www.youtube.com/@maisontarot",
+      "https://www.tiktok.com/@maisontarot",
+      "https://www.threads.net/@maisontarot",
+      "https://x.com/maisontarot",
+      "https://www.facebook.com/maisontarot",
+      "https://www.reddit.com/user/maisontarot",
+      "https://www.pinterest.com/maisontarot",
+      "https://maisontarot.tumblr.com",
+      "https://medium.com/@maisontarot",
+      "https://maisontarot.substack.com",
+    ]
+  [params.legal]
+    publisherName = ""   # [À COMPLÉTER]
+    status = ""          # [À COMPLÉTER] ex. Entrepreneur individuel
+    address = ""         # [À COMPLÉTER]
+    siren = ""           # [À COMPLÉTER]
+    hostName = "GitHub, Inc."
+    hostAddress = "88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA"
+    mediator = ""        # [À COMPLÉTER] médiateur de la consommation
+  [params.numbers]
+    readings = 300
+    hitRate = "≈ 90 %"
+    chartOverall = "30–40 %"
+    chartSLC = "75–90 %"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.goldmark.extensions]
+    typographer = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 2
+
+[imaging]
+  quality = 82
+  resampleFilter = "Lanczos"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "SearchIndex"]
+  section = ["HTML"]
+  page = ["HTML"]
+
+[minify]
+  minifyOutput = true
+
+[security]
+  enableInlineShortcodes = false
+
+# ——— Menus (un par langue ; l'ordre = l'ordre d'affichage) ———
+[languages.fr.menus]
+  [[languages.fr.menus.main]]
+    name = "Sessions"
+    pageRef = "/sessions"
+    weight = 10
+  [[languages.fr.menus.main]]
+    name = "Ateliers"
+    pageRef = "/ateliers"
+    weight = 20
+  [[languages.fr.menus.main]]
+    name = "Événements"
+    pageRef = "/evenements"
+    weight = 30
+  [[languages.fr.menus.main]]
+    name = "Méthode"
+    pageRef = "/methode"
+    weight = 40
+  [[languages.fr.menus.main]]
+    name = "Bibliothèque"
+    pageRef = "/bibliotheque"
+    weight = 50
+  [[languages.fr.menus.main]]
+    name = "Blog"
+    pageRef = "/blog"
+    weight = 60
+  [[languages.fr.menus.main]]
+    name = "Podcast"
+    pageRef = "/podcast"
+    weight = 65
+  [[languages.fr.menus.main]]
+    name = "À propos"
+    pageRef = "/a-propos"
+    weight = 70
+  [[languages.fr.menus.footer]]
+    name = "Le Guide du lecteur"
+    pageRef = "/guide"
+    weight = 10
+  [[languages.fr.menus.footer]]
+    name = "Contact"
+    pageRef = "/contact"
+    weight = 20
+  [[languages.fr.menus.footer]]
+    name = "Avertissements"
+    pageRef = "/avertissements"
+    weight = 25
+  [[languages.fr.menus.footer]]
+    name = "Mentions légales"
+    pageRef = "/mentions-legales"
+    weight = 30
+  [[languages.fr.menus.footer]]
+    name = "CGV"
+    pageRef = "/cgv"
+    weight = 40
+  [[languages.fr.menus.footer]]
+    name = "Confidentialité"
+    pageRef = "/confidentialite"
+    weight = 50
+
+[languages.en.menus]
+  [[languages.en.menus.main]]
+    name = "Sessions"
+    pageRef = "/sessions"
+    weight = 10
+  [[languages.en.menus.main]]
+    name = "Workshops"
+    pageRef = "/workshops"
+    weight = 20
+  [[languages.en.menus.main]]
+    name = "Events"
+    pageRef = "/events"
+    weight = 30
+  [[languages.en.menus.main]]
+    name = "Method"
+    pageRef = "/method"
+    weight = 40
+  [[languages.en.menus.main]]
+    name = "Library"
+    pageRef = "/library"
+    weight = 50
+  [[languages.en.menus.main]]
+    name = "Blog"
+    pageRef = "/blog"
+    weight = 60
+  [[languages.en.menus.main]]
+    name = "Podcast"
+    pageRef = "/podcast"
+    weight = 65
+  [[languages.en.menus.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 70
+  [[languages.en.menus.footer]]
+    name = "The Readers’ Guide"
+    pageRef = "/guide"
+    weight = 10
+  [[languages.en.menus.footer]]
+    name = "Contact"
+    pageRef = "/contact"
+    weight = 20
+  [[languages.en.menus.footer]]
+    name = "Disclaimers"
+    pageRef = "/disclaimers"
+    weight = 25
+  [[languages.en.menus.footer]]
+    name = "Legal notice"
+    pageRef = "/legal-notice"
+    weight = 30
+  [[languages.en.menus.footer]]
+    name = "Terms"
+    pageRef = "/terms"
+    weight = 40
+  [[languages.en.menus.footer]]
+    name = "Privacy"
+    pageRef = "/privacy"
+    weight = 50
+
+# ——— Index de recherche (un JSON par langue : /fr/index.json, /en/index.json) ———
+[outputFormats.SearchIndex]
+  mediaType = "application/json"
+  baseName = "index"
+  isPlainText = true
+  notAlternative = true

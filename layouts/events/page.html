@@ -1,0 +1,28 @@
+{{ define "main" }}
+{{- $t := time .Params.start -}}{{ $fr := eq .Language.Lang "fr" }}
+<article class="wrap page-top">
+  {{ partial "breadcrumb.html" . }}
+  <div class="grid" style="align-items:end">
+    <div class="s8">
+      <p class="eyebrow">{{ if eq .Params.kind "webinar" }}Webinar{{ else if eq .Params.kind "reading" }}{{ if $fr }}Lectures gratuites{{ else }}Free readings{{ end }}{{ else }}{{ if $fr }}Rencontre{{ else }}Meetup{{ end }}{{ end }} · {{ if eq .Params.mode "online" }}{{ i18n "online" }}{{ else }}{{ .Params.venue }}, {{ .Params.city }}{{ end }}</p>
+      <h1 class="mt-0">{{ .Title }}</h1>
+    </div>
+    <div class="s4"><p class="lede" style="font-size:var(--t-0)">{{ .Params.description }}</p></div>
+  </div>
+  <div class="grid" style="align-items:start;margin-top:clamp(2rem,5vw,4rem);padding-top:2rem;border-top:1px solid var(--fg)">
+    <div class="s4">
+      <p class="xl display mb-0" style="line-height:.9">{{ $t.Format "02" }}</p>
+      <p class="mono muted">{{ $t.Format .Site.Language.Params.dateFormat }}{{ with .Params.time }}<br>{{ . }}{{ end }}</p>
+      <div class="countdown" style="margin:1.5rem 0" data-countdown="{{ .Params.start }}{{ with .Params.startTime }}T{{ . }}{{ end }}">
+        <div><b data-d>00</b><small>{{ if $fr }}jours{{ else }}days{{ end }}</small></div><div><b data-h>00</b><small>{{ if $fr }}heures{{ else }}hours{{ end }}</small></div><div><b data-m>00</b><small>min</small></div><div><b data-s>00</b><small>sec</small></div>
+      </div>
+      <div class="actions">
+        <a class="btn btn-solid btn-arrow" href="#register" data-register="{{ .File.UniqueID }}">{{ if $fr }}S’inscrire{{ else }}Register{{ end }}</a>
+        {{ if eq (.Params.price | default "free") "free" }}<span class="tag tag-gold" style="align-self:center">{{ i18n "free" }}</span>{{ end }}
+      </div>
+    </div>
+    <div class="s7 o6 prose">{{ .Content }}<p style="margin-top:2rem">{{ partial "see-disclaimers.html" (dict "ctx" . "anchor" "evenements") }}</p></div>
+  </div>
+</article>
+{{ partial "event-dialog.html" . }}
+{{ end }}

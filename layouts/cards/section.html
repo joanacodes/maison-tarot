@@ -1,0 +1,66 @@
+{{ define "main" }}
+{{- $lang := .Language.Lang -}}{{ $fr := eq $lang "fr" }}
+{{- $all := .RegularPages -}}
+<div class="preloader" data-preloader aria-hidden="true"><div><p>{{ range $i, $w := split (i18n "preloader") " " }}<span style="animation-delay:{{ mul $i 0.06 }}s">{{ $w }}</span> {{ end }}</p><i></i></div></div>
+{{/* ——— Accordéon plein écran : une maison par panneau, diaporama des cartes de la maison ——— */}}
+<section class="suits" data-suits>
+  {{ range $i, $s := hugo.Data.suits }}
+  {{ $t := index $s $lang }}
+  {{ $cards := sort (where $all "Params.suit" $s.key) "Params.number" "asc" }}
+  <div class="suit{{ if eq $i 0 }} is-open{{ end }}" data-suit="{{ $s.key }}" role="button" tabindex="0" aria-expanded="{{ if eq $i 0 }}true{{ else }}false{{ end }}">
+    <div class="slides" data-slides>
+      {{ range $j, $c := $cards }}{{ with resources.Get $c.Params.image }}{{ $r := .Resize "700x webp q78" }}<img src="{{ $r.RelPermalink }}" alt="" loading="{{ if lt $j 2 }}eager{{ else }}lazy{{ end }}"{{ if eq $j 0 }} class="on"{{ end }}>{{ end }}{{ end }}
+    </div>
+    <span class="vname">{{ $t.name }}</span>
+    <div class="cap">
+      <div class="k">{{ $t.count }} · {{ $t.element }}{{ partial "sym.html" $t.element }}</div>
+      <h2>{{ $t.name }}</h2>
+      <div class="more">
+        <p>{{ $t.kw }}</p>
+        <p>{{ $t.text }}</p>
+        <div class="facts">
+          <div><div class="k">{{ if $fr }}Élément{{ else }}Element{{ end }}</div><div class="v">{{ $t.element }}</div></div>
+          <div><div class="k">{{ if $fr }}Énergie{{ else }}Energy{{ end }}</div><div class="v">{{ $t.energy }}</div></div>
+          <div><div class="k">{{ if $fr }}Cartes{{ else }}Cards{{ end }}</div><div class="v">{{ len $cards }}</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+</section>
+{{/* Mobile : le contenu de la maison active, sous le défilé (ref. musée) */}}
+{{ range $i, $s := hugo.Data.suits }}{{ $t := index $s $lang }}
+<div class="suit-info" data-suit-info="{{ $s.key }}"{{ if ne $i 0 }} hidden{{ end }}>
+  <p class="eyebrow">{{ $t.count }} · {{ $t.element }}{{ partial "sym.html" $t.element }}</p>
+  <h2 class="mt-0" style="font-size:var(--t-2)">{{ $t.name }}</h2>
+  <div class="facts"><div><div class="k">{{ if $fr }}Élément{{ else }}Element{{ end }}</div><div class="v">{{ $t.element }}</div></div><div><div class="k">{{ if $fr }}Énergie{{ else }}Energy{{ end }}</div><div class="v">{{ $t.energy }}</div></div><div><div class="k">{{ if $fr }}Cartes{{ else }}Cards{{ end }}</div><div class="v">{{ len (where $all "Params.suit" $s.key) }}</div></div></div>
+  <p class="lede" style="font-size:var(--t-0)">{{ $t.kw }}</p>
+  <p class="muted">{{ $t.text }}</p>
+</div>
+{{ end }}
+
+<section class="wrap band" data-cards>
+  <div class="grid" style="align-items:end">
+    <div class="s8"><p class="eyebrow">{{ i18n "free" }}</p><h1 class="mt-0">{{ .Params.h1 | default .Title | safeHTML }}</h1></div>
+    <div class="s4"><p class="lede" style="font-size:var(--t-0)">{{ .Params.lede }}</p></div>
+  </div>
+  <div class="filters" role="group" aria-label="{{ if $fr }}Filtrer{{ else }}Filter{{ end }}">
+    <button class="chip" type="button" data-filter="rank" data-value="" aria-pressed="true">{{ if $fr }}Toutes{{ else }}All{{ end }}</button>
+    <button class="chip" type="button" data-filter="rank" data-value="pip" aria-pressed="false">{{ if $fr }}As → Dix{{ else }}Ace → Ten{{ end }}</button>
+    <button class="chip" type="button" data-filter="rank" data-value="court" aria-pressed="false">{{ if $fr }}Cour{{ else }}Court{{ end }}</button>
+    <span style="width:100%"></span>
+    {{ range hugo.Data.suits }}<button class="chip" type="button" data-filter="suit" data-value="{{ .key }}" aria-pressed="false">{{ (index . $lang).name }}</button>{{ end }}
+  </div>
+  {{ range $s := hugo.Data.suits }}
+  {{ $t := index $s $lang }}
+  {{ $cards := sort (where $all "Params.suit" $s.key) "Params.number" "asc" }}
+  <div class="suit-block rule" data-suit-block="{{ $s.key }}" style="padding-top:1.5rem;margin-bottom:2rem">
+    <div class="grid" style="align-items:start">
+      <div class="s3"><h2 class="mt-0" style="font-size:var(--t-2)" id="{{ $s.key }}">{{ $t.name }}{{ partial "sym.html" $t.element }}</h2><p class="mono muted">{{ len $cards }} / {{ if eq $s.key "major" }}22{{ else }}14{{ end }}</p><p class="muted small">{{ $t.kw }}</p></div>
+      <div class="s9"><div class="cards-grid">{{ range $cards }}<a class="card-thumb" href="{{ .RelPermalink }}" data-rank="{{ if or (eq .Params.suit "major") (le .Params.number 10) }}pip{{ else }}court{{ end }}">{{ partial "image.html" (dict "page" . "src" .Params.image "alt" .Params.navTitle "ratio" "card" "sizes" "(min-width:1000px) 12vw, 45vw") }}<span class="cap"><span class="t">{{ .Params.navTitle }}</span><span class="c">{{ .Params.number }} · {{ .Params.element }}{{ partial "sym.html" .Params.element }}</span></span></a>{{ end }}</div></div>
+    </div>
+  </div>
+  {{ end }}
+  <div class="prose">{{ .Content }}</div>
+</section>
+{{ end }}

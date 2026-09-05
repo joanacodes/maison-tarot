@@ -1,0 +1,49 @@
+{{ define "main" }}
+{{- $lang := .Language.Lang -}}{{ $fr := eq $lang "fr" }}
+{{- $p := .Params -}}
+<article class="wrap page-top">
+  {{ partial "breadcrumb.html" . }}
+  <div class="article-head">
+    <div>
+      <p class="eyebrow">{{ $p.number }} · {{ $p.suitLabel }}</p>
+      <h1>{{ $p.h1 | default .Title | safeHTML }}</h1>
+      <p class="lede" style="margin-top:1.2rem">{{ $p.lede }}</p>
+      <div class="lens-row">
+        {{ with $.Site.GetPage (cond $fr "/bibliotheque/nombres" "/library/numbers") }}<a href="{{ .RelPermalink }}">{{ if $fr }}Les nombres{{ else }}Numbers{{ end }}</a>{{ end }}
+        {{ with index $p.related 1 }}{{ with $.Site.GetPage . }}<a href="{{ .RelPermalink }}">{{ .Params.navTitle | default .Title }}</a>{{ end }}{{ end }}
+        {{ with $.Site.GetPage (cond $fr "/bibliotheque/couleurs" "/library/colours") }}<a href="{{ .RelPermalink }}">{{ if $fr }}Les couleurs{{ else }}Colours{{ end }}</a>{{ end }}
+        {{ if $p.astrology }}{{ with $.Site.GetPage (cond $fr "/bibliotheque/astrologie" "/library/astrology") }}<a href="{{ .RelPermalink }}">{{ if $fr }}L’astrologie{{ else }}Astrology{{ end }}</a>{{ end }}{{ end }}
+        {{ with $.Site.GetPage (cond $fr "/bibliotheque/energies" "/library/energies") }}<a href="{{ .RelPermalink }}">{{ if $fr }}Les énergies{{ else }}Energies{{ end }}</a>{{ end }}
+      </div>
+    </div>
+    <div class="visual" data-reveal>{{ partial "image.html" (dict "page" . "src" $p.image "alt" (printf "%s — Rider-Waite-Smith, 1909" .Title) "ratio" "card" "loading" "eager" "sizes" "(min-width:1000px) 30vw, 80vw") }}</div>
+    <div>
+      <p class="label">{{ if $fr }}Les lentilles{{ else }}The lenses{{ end }}</p>
+      <div class="facts two">
+        <div><div class="k">{{ if $fr }}Famille{{ else }}House{{ end }}</div><div class="v">{{ $p.suitLabel }}</div></div>
+        {{ with $p.numerology }}<div><div class="k">{{ if $fr }}Nombre{{ else }}Number{{ end }}</div><div class="v" style="font-size:var(--t-0)">{{ . }}</div></div>{{ end }}
+        {{ with $p.element }}<div><div class="k">{{ if $fr }}Élément{{ else }}Element{{ end }}</div><div class="v">{{ . }}{{ partial "sym.html" . }}</div></div>{{ end }}
+        {{ with $p.astrology }}<div><div class="k">{{ if $fr }}Astrologie{{ else }}Astrology{{ end }}</div><div class="v">{{ . }}{{ partial "sym.html" . }}</div></div>{{ end }}
+        {{ with $p.energy }}<div><div class="k">{{ if $fr }}Énergie{{ else }}Energy{{ end }}</div><div class="v">{{ . }}</div></div>{{ end }}
+        {{ with $p.kabbalah }}<div><div class="k">{{ if $fr }}Kabbale{{ else }}Kabbalah{{ end }}</div><div class="v">{{ . }}</div></div>{{ end }}
+      </div>
+      <p class="article-meta" style="margin-top:1rem">{{ if $fr }}Illustration : Pamela Colman Smith, 1909 (domaine public).{{ else }}Illustration: Pamela Colman Smith, 1909 (public domain).{{ end }}</p>
+    </div>
+  </div>
+  <div class="article-body">
+    <aside class="rail">
+      {{ with .TableOfContents }}<p class="label">{{ if $fr }}Sur cette page{{ else }}On this page{{ end }}</p><nav class="toc">{{ . }}</nav>{{ end }}
+      <p style="margin-top:1.5rem">{{ partial "see-disclaimers.html" (dict "ctx" . "anchor" "lectures") }}</p>
+    </aside>
+    <div class="prose">
+      {{ .Content }}
+      {{ with $p.faq }}<h2 id="faq">{{ i18n "faq" }}</h2>{{ range . }}<details><summary class="q">{{ .q }}</summary><p>{{ .a }}</p></details>{{ end }}{{ end }}
+    </div>
+    <aside class="sticky">
+      {{ $siblings := where (where .Parent.RegularPages "Params.suit" $p.suit) "Permalink" "ne" .Permalink }}
+      {{ with $siblings }}<p class="label">{{ if $fr }}Même famille{{ else }}Same house{{ end }}</p><div class="cards-grid" style="grid-template-columns:repeat(3,1fr);gap:.6rem">{{ range first 6 (sort . "Params.number" "asc") }}<a class="card-thumb" href="{{ .RelPermalink }}" title="{{ .Params.navTitle }}">{{ partial "image.html" (dict "page" . "src" .Params.image "alt" .Params.navTitle "ratio" "card" "sizes" "10vw") }}<span class="cap"><span class="t" style="font-size:var(--t-xs)">{{ .Params.navTitle }}</span></span></a>{{ end }}</div><p class="small" style="margin-top:.6rem"><a class="link-arrow" href="{{ $.Parent.RelPermalink }}">{{ if $fr }}Toutes les cartes{{ else }}All the cards{{ end }}</a></p>{{ end }}
+      <div style="margin-top:1.5rem">{{ partial "guide-form.html" . }}</div>
+    </aside>
+  </div>
+</article>
+{{ end }}

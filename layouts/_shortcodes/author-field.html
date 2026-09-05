@@ -1,0 +1,1 @@
+{{- $v := index site.Params.author (.Get "key") -}}{{ if $v }}{{ $v }}{{ else }}<span class="todo">[À COMPLÉTER : {{ .Get "label" }}]</span>{{ end -}}

@@ -1,0 +1,86 @@
+{{ define "main" }}
+{{- $lang := .Language.Lang -}}
+{{- $p := .Params -}}
+{{- $fr := eq $lang "fr" -}}
+<section class="hero hero-ink">
+  <div class="hatch"></div>
+  <div class="hero-split">
+    <div class="text">
+      <p class="eyebrow" data-reveal>{{ site.Params.tagline }}</p>
+      <h1 data-reveal="2">{{ $p.h1 | safeHTML }}</h1>
+      <p class="lede" data-reveal="3">{{ $p.lede }}</p>
+      <div class="actions" data-reveal="3">
+        <a class="btn btn-solid btn-arrow" href="{{ (.Site.GetPage $p.ctaPrimary.ref).RelPermalink }}">{{ $p.ctaPrimary.label }}</a>
+        <a class="btn" href="{{ (.Site.GetPage $p.ctaSecondary.ref).RelPermalink }}">{{ $p.ctaSecondary.label }}</a>
+      </div>
+    </div>
+    <div class="visual" data-reveal="2">{{ partial "image.html" (dict "page" . "src" $p.heroImage "alt" $p.heroAlt "ratio" "portrait" "loading" "eager") }}</div>
+  </div>
+</section>
+
+<div class="ticker" aria-hidden="true"><div class="track">{{ range seq 10 }}{{ range $p.ticker }}<span>{{ . }}</span>{{ end }}{{ end }}</div></div>
+
+<section class="wrap statement">
+  <p class="eyebrow" style="justify-content:center" data-reveal>{{ if $fr }}La maison{{ else }}The house{{ end }}</p>
+  <h2 class="mt-0" data-reveal="2">{{ $p.statement | safeHTML }}</h2>
+  <div class="lede" data-reveal="3">{{ .Content }}</div>
+</section>
+<div class="wrap trio">
+  {{ range $p.offers }}<a href="{{ ($.Site.GetPage .ref).RelPermalink }}">{{ .title }}</a>{{ end }}
+</div>
+
+<section class="wrap band">
+  <div class="grid" style="align-items:end;margin-bottom:2.5rem">
+    <div class="s7"><p class="eyebrow">{{ if $fr }}Comment on apprend ici{{ else }}How you learn here{{ end }}</p><h2 class="mt-0">{{ $p.stepsTitle | safeHTML }}</h2></div>
+    <div class="s4 o9"><p class="muted">{{ $p.stepsText }}</p></div>
+  </div>
+  <ol class="steps">
+    {{ range $i, $s := $p.steps }}<li data-reveal="{{ add $i 1 }}">{{ partial "image.html" (dict "page" $ "src" $s.image "alt" $s.alt "ratio" "landscape") }}<strong>{{ $s.title }}</strong><span>{{ $s.text }}</span></li>{{ end }}
+  </ol>
+</section>
+
+<section class="band band-ink">
+  <div class="wrap">
+    <p class="eyebrow">{{ i18n "ledgerCaption" }}</p>
+    <div class="stats">
+      {{ $n := site.Params.numbers }}
+      <div data-reveal><div class="n">{{ $n.readings }}</div><div class="l">{{ i18n "ledgerReadings" }}</div></div>
+      <div data-reveal="2"><div class="n">{{ $n.hitRate }}</div><div class="l">{{ i18n "ledgerHit" }}</div></div>
+      <div data-reveal="3"><div class="n">{{ $n.chartOverall }}</div><div class="l">{{ i18n "ledgerChart" }}</div></div>
+      <div data-reveal="3"><div class="n">{{ $n.chartSLC }}</div><div class="l">{{ i18n "ledgerSLC" }}</div></div>
+    </div>
+    <p class="mono muted" style="margin-top:2.5rem">{{ i18n "ledgerFoot" }} <a href="{{ (.Site.GetPage (cond $fr "/methode" "/method")).RelPermalink }}" style="color:var(--gold)">{{ i18n "readMethod" }}</a>.</p>
+  </div>
+</section>
+
+{{ partial "testimonials.html" . }}
+<section class="wrap" style="padding-top:clamp(2rem,5vw,4rem)">
+  <p class="eyebrow">{{ if $fr }}Ce qu’on y fait{{ else }}What happens here{{ end }}</p>
+  {{ range $i, $o := $p.offers }}
+  <div class="offer-row">
+    <div data-reveal>{{ partial "image.html" (dict "page" $ "src" $o.image "alt" $o.alt "ratio" "landscape") }}</div>
+    <div data-reveal="2">
+      <span class="label">{{ $o.kicker }}</span>
+      <h3>{{ $o.title }}</h3>
+      <p class="lede" style="font-size:var(--t-0)">{{ $o.text }}</p>
+      {{ range $o.details }}<details><summary>{{ .q }}</summary><p>{{ .a }}</p></details>{{ end }}
+      <div class="actions"><a class="btn btn-arrow" href="{{ ($.Site.GetPage $o.ref).RelPermalink }}">{{ $o.cta }}</a></div>
+    </div>
+  </div>
+  {{ end }}
+</section>
+
+<section class="wrap band">
+  <div class="grid" style="align-items:start">
+    <div class="s5">
+      <p class="eyebrow">{{ if $fr }}Où{{ else }}Where{{ end }}</p>
+      <h2 class="mt-0">{{ $p.whereTitle }}</h2>
+      <ul class="index-list">
+        {{ $mine := slice }}{{ range $key, $c := hugo.Data.countries }}{{ if eq $c.lang $lang }}{{ $mine = $mine | append (merge $c (dict "key" $key)) }}{{ end }}{{ end }}
+        {{ range sort $mine "weight" "asc" }}{{ $c := . }}{{ with $.Site.GetPage (printf "/%s" .key) }}<li><a href="{{ .RelPermalink }}"><span><span class="title">{{ $c.name }}</span>{{ with $c.note }}<span class="meta">{{ . }}</span>{{ end }}</span><span class="arrow">→</span></a></li>{{ end }}{{ end }}
+      </ul>
+    </div>
+    <div class="s6 o7">{{ partial "guide-form.html" (dict "ctx" . "photo" "guide.jpg") }}</div>
+  </div>
+</section>
+{{ end }}

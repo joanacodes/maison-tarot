@@ -1,0 +1,43 @@
+{{ define "main" }}
+{{- $fr := eq .Language.Lang "fr" -}}
+{{- $posts := .RegularPages -}}
+{{- $latest := index $posts 0 -}}
+{{- $featured := index (where $posts "Params.featured" true) 0 -}}
+{{- $cats := slice }}{{ range $posts }}{{ range .Params.categories }}{{ $cats = $cats | append . }}{{ end }}{{ end }}{{ $cats = uniq $cats -}}
+<section class="wrap page-top">
+  <p class="crumbs"><a href="{{ .Site.Home.RelPermalink }}">{{ site.Params.brand }}</a><span>›</span>{{ .Params.navTitle | default .Title }}</p>
+  {{ with $latest }}
+  <div class="post-hero">
+    <div>
+      <p class="eyebrow">{{ i18n "latest" }}</p>
+      <h1 class="mt-0" style="font-size:var(--t-3)"><a href="{{ .RelPermalink }}" style="text-decoration:none">{{ .Title }}</a></h1>
+      <p class="lede" style="font-size:var(--t-0)">{{ .Params.summary | default .Params.description }}</p>
+      <p class="article-meta">{{ .Date.Format .Site.Language.Params.dateFormat }} · {{ .ReadingTime }} {{ i18n "minRead" }}{{ with .Params.categories }} · {{ delimit . ", " }}{{ end }}</p>
+      <div class="actions"><a class="btn btn-arrow" href="{{ .RelPermalink }}">{{ if $fr }}Lire{{ else }}Read{{ end }}</a></div>
+    </div>
+    <a class="visual" href="{{ .RelPermalink }}" data-reveal>{{ partial "image.html" (dict "page" . "src" (.Params.image | default "cover.jpg") "alt" .Title "ratio" "landscape" "loading" "eager" "sizes" "(min-width:1000px) 50vw, 100vw") }}</a>
+  </div>
+  {{ else }}<h1>{{ .Params.h1 | default .Title | safeHTML }}</h1><p class="muted">{{ i18n "noPosts" }}</p>{{ end }}
+  {{ with $featured }}{{ if ne . $latest }}
+  <a class="post-featured" href="{{ .RelPermalink }}" style="text-decoration:none">
+    <div>{{ partial "image.html" (dict "page" . "src" (.Params.image | default "cover.jpg") "alt" .Title "ratio" "landscape" "sizes" "(min-width:800px) 30vw, 100vw") }}</div>
+    <div><p class="eyebrow">{{ i18n "featured" }}</p><h2 class="mt-0" style="font-size:var(--t-2)">{{ .Title }}</h2><p class="muted">{{ .Params.description }}</p></div>
+  </a>
+  {{ end }}{{ end }}
+  {{ if $posts }}
+  <div class="grid" style="align-items:start">
+  <div class="s8">
+  <div class="post-tools" data-posts-tools>
+    <div class="field"><label for="post-q">{{ i18n "searchArticles" }}</label><input id="post-q" type="search" data-post-search autocomplete="off"></div>
+    <div class="filters" style="margin:0"><button class="chip" type="button" data-filter="cat" data-value="" aria-pressed="true">{{ if $fr }}Tout{{ else }}All{{ end }}</button>{{ range $cats }}<button class="chip" type="button" data-filter="cat" data-value="{{ . | urlize }}" aria-pressed="false">{{ . }}</button>{{ end }}</div>
+  </div>
+  <div class="post-grid" data-posts data-batch="8" style="grid-template-columns:1fr 1fr">
+    {{ range $posts }}<a class="post-card" href="{{ .RelPermalink }}" data-cat="{{ with .Params.categories }}{{ delimit (apply . "urlize" ".") " " }}{{ end }}" data-text="{{ .Title | lower }} {{ .Params.description | lower }} {{ with .Params.tags }}{{ delimit . " " | lower }}{{ end }}" hidden>{{ partial "image.html" (dict "page" . "src" (.Params.image | default "cover.jpg") "alt" .Title "ratio" "landscape" "sizes" "(min-width:800px) 40vw, 100vw") }}<span class="t">{{ .Title }}</span><span class="m">{{ .Date.Format .Site.Language.Params.dateFormat }} · {{ .ReadingTime }} {{ i18n "minRead" }}{{ with .Params.categories }} · {{ delimit . ", " }}{{ end }}</span><span class="d">{{ .Params.description }}</span></a>{{ end }}
+  </div>
+  <p class="mono muted center" data-posts-end hidden style="margin-top:2rem">{{ i18n "noMore" }}</p>
+  </div>
+  <div class="s4 sticky" style="padding-top:1.5rem">{{ partial "guide-form.html" . }}</div>
+  </div>
+  {{ end }}
+</section>
+{{ end }}

@@ -1,0 +1,5 @@
+{{- $items := index hugo.Data.refusals .Language.Lang -}}
+<section class="box box-gold">
+  <p class="label">{{ i18n "refusalsTitle" }}</p>
+  <ul class="mb-0">{{ range $items }}<li>{{ . }}</li>{{ end }}</ul>
+</section>

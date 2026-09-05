@@ -1,0 +1,7 @@
+{{ define "main" }}
+<section class="wrap statement page-top">
+  <p class="eyebrow" style="justify-content:center">404</p>
+  <h1 class="xl mt-0">{{ if eq .Language.Lang "fr" }}Cette pièce n’existe pas.{{ else }}This room doesn’t exist.{{ end }}</h1>
+  <div class="actions" style="justify-content:center"><a class="btn btn-arrow" href="/fr/">Entrer en français</a><a class="btn btn-arrow" href="/">Enter in English</a></div>
+</section>
+{{ end }}

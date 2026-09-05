@@ -1,0 +1,34 @@
+{{ define "main" }}
+{{- $lang := .Language.Lang -}}{{ $fr := eq $lang "fr" }}
+{{- $p := .Params -}}
+{{- $key := path.Base .File.Dir -}}
+{{- $c := index hugo.Data.countries $key -}}
+{{- $workshops := .Site.GetPage (cond $fr "/ateliers" "/workshops") -}}
+{{- $events := .Site.GetPage (cond $fr "/evenements" "/events") -}}
+<article class="wrap page-top">
+  {{ partial "breadcrumb.html" . }}
+  <div class="grid" style="align-items:end">
+    <div class="s7"><p class="eyebrow">{{ $p.city }}{{ with $p.region }} · {{ . }}{{ end }} · {{ $c.currency }}</p><h1 class="mt-0">{{ $p.h1 | default .Title | safeHTML }}</h1></div>
+    <div class="s5"><p class="lede" style="font-size:var(--t-0)">{{ $p.intro }}</p><p class="mono muted">{{ i18n "priceIn" }} {{ $c.currency }} · {{ i18n "slotsIn" }} {{ $p.timezoneLabel }}.</p></div>
+  </div>
+</article>
+<div class="wrap trio" style="margin-top:2rem">
+  <a href="{{ $workshops.RelPermalink }}">{{ i18n "seeWorkshops" }}</a>
+  <a href="{{ (.Site.GetPage "/sessions").RelPermalink }}">{{ i18n "seeSessions" }}</a>
+  <a href="{{ $events.RelPermalink }}">{{ i18n "seeEvents" }}</a>
+</div>
+<section class="wrap band"><div class="grid" style="align-items:start">
+  <div class="s7">
+    {{ $local := where (where $events.RegularPages "Params.city" $p.city) "Params.start" "ge" (now.Format "2006-01-02") }}
+    {{ with $local }}<h2 class="mt-0" style="font-size:var(--t-2)">{{ if $fr }}Prochainement à {{ $p.city }}{{ else }}Coming up in {{ $p.city }}{{ end }}</h2>{{ range sort . "Params.start" "asc" }}{{ partial "event-row.html" . }}{{ partial "event-dialog.html" . }}{{ end }}{{ end }}
+    <h2 class="mt-0" style="font-size:var(--t-2)">{{ i18n "localTitle" }} {{ $p.city }}</h2>
+    <div class="prose">{{ .Content }}</div>
+    {{ with $p.faq }}<h2 style="font-size:var(--t-2)">{{ i18n "faq" }}</h2>{{ range . }}<details><summary class="q">{{ .q }}</summary><p>{{ .a }}</p></details>{{ end }}{{ end }}
+  </div>
+  <aside class="s4 o9 sticky">
+    {{ partial "image.html" (dict "page" . "src" (printf "%s.jpg" (path.Base .File.BaseFileName)) "alt" $p.city "ratio" "portrait") }}
+    <blockquote style="margin-top:1.5rem"><p>{{ if $fr }}Les cartes ne sont pas magiques. Vous, si.{{ else }}Cards aren’t magic. You are.{{ end }}</p><cite>{{ site.Params.brand }}</cite></blockquote>
+  </aside>
+</div></section>
+<section class="wrap" style="padding-bottom:clamp(3rem,7vw,6rem)">{{ partial "booking.html" (dict "ctx" . "photo" "booking.jpg") }}</section>
+{{ end }}

@@ -1,0 +1,6 @@
+{{- $pages := where .Site.RegularPages "Params.noindex" "ne" true -}}
+{{- $sections := where .Site.Pages "Kind" "section" -}}
+{{- $out := slice -}}
+{{- range $sections }}{{ $out = $out | append (dict "title" (.Params.navTitle | default .Title) "url" .RelPermalink "description" .Params.description "section" (.Params.navTitle | default .Title) "content" (.Params.lede | default "")) }}{{ end -}}
+{{- range $pages }}{{ $out = $out | append (dict "title" (.Params.navTitle | default .Title) "url" .RelPermalink "description" (.Params.description | default "") "section" (cond (gt (len .Ancestors) 0) (.Parent.Params.navTitle | default .Parent.Title) "") "content" (printf "%s %s" (delimit (.Params.tags | default (slice)) " ") (substr (.Plain | htmlUnescape) 0 1200))) }}{{ end -}}
+{{ $out | jsonify }}

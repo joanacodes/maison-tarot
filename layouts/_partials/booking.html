@@ -1,0 +1,18 @@
+{{- $ctx := . }}{{ $photo := "" }}{{ if reflect.IsMap . }}{{ if isset . "ctx" }}{{ $ctx = .ctx }}{{ $photo = .photo }}{{ end }}{{ end -}}
+<section class="booking" id="booking">
+  {{ with site.Params.calLink }}
+    <h2 class="mt-0">{{ i18n "book" }}</h2>
+    <div data-cal-embed data-cal-link="{{ . }}" style="min-height:560px"></div>
+    <p class="small muted">{{ i18n "bookTz" }}</p>
+  {{ else }}
+    <div class="over-photo">
+      <div class="photo">{{ partial "image.html" (dict "page" $ctx "src" ($photo | default "booking.jpg") "alt" "" "ratio" "landscape") }}</div>
+      <div class="glass">
+        <p class="eyebrow">{{ i18n "book" }}</p>
+        <h3 class="mt-0">{{ i18n "bookSoon" }}</h3>
+        <p class="muted">{{ i18n "bookSoonHint" }} {{ i18n "bookTz" }}</p>
+        <p class="small mb-0">{{ i18n "disclaimer" }} {{ partial "see-disclaimers.html" (dict "ctx" $ctx) }}</p>
+      </div>
+    </div>
+  {{ end }}
+</section>

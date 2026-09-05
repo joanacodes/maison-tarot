@@ -1,0 +1,14 @@
+{{- $t := time .Params.start -}}{{ $fr := eq .Language.Lang "fr" }}
+<article class="event">
+  <div class="date">{{ $t.Format "02" }}<small>{{ $t.Format "Jan 2006" }}</small></div>
+  <div>
+    <h3><a href="{{ .RelPermalink }}" style="text-decoration:none">{{ .Title }}</a></h3>
+    <p class="muted small mb-0">{{ .Params.description }}</p>
+    <div class="tags">
+      <span class="tag">{{ if eq .Params.kind "webinar" }}Webinar{{ else if eq .Params.kind "reading" }}{{ if $fr }}Lectures gratuites{{ else }}Free readings{{ end }}{{ else if eq .Params.kind "meetup" }}{{ if $fr }}Rencontre{{ else }}Meetup{{ end }}{{ else }}{{ .Params.kind }}{{ end }}</span>
+      <span class="tag">{{ if eq .Params.mode "online" }}{{ i18n "online" }}{{ else }}{{ i18n "inPerson" }} · {{ .Params.city }}{{ end }}</span>
+      {{ if eq (.Params.price | default "free") "free" }}<span class="tag tag-gold">{{ i18n "free" }}</span>{{ else }}<span class="tag">{{ .Params.price }}</span>{{ end }}
+    </div>
+  </div>
+  <a class="link-arrow go" href="{{ .RelPermalink }}" data-register="{{ .File.UniqueID }}">{{ if $fr }}Détails et inscription{{ else }}Details and registration{{ end }}</a>
+</article>

@@ -1,0 +1,1036 @@
+- id: ar00
+  suit: major
+  number: 0
+  name_fr: Le Mat
+  name_en: The Fool
+  slug_fr: le-mat
+  slug_en: the-fool
+  element_fr: Air
+  element_en: Air
+  astro_fr: Uranus
+  astro_en: Uranus
+  kabbalah: Aleph
+  energy_fr: Masculine
+  energy_en: Masculine
+- id: ar01
+  suit: major
+  number: 1
+  name_fr: Le Magicien
+  name_en: The Magician
+  slug_fr: le-magicien
+  slug_en: the-magician
+  element_fr: Air
+  element_en: Air
+  astro_fr: Mercure
+  astro_en: Mercury
+  kabbalah: Beth
+  energy_fr: Masculine
+  energy_en: Masculine
+- id: ar02
+  suit: major
+  number: 2
+  name_fr: La Grande Prêtresse
+  name_en: The High Priestess
+  slug_fr: la-grande-pretresse
+  slug_en: the-high-priestess
+  element_fr: Eau
+  element_en: Water
+  astro_fr: Lune
+  astro_en: Moon
+  kabbalah: Gimel
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: ar03
+  suit: major
+  number: 3
+  name_fr: L’Impératrice
+  name_en: The Empress
+  slug_fr: l-imperatrice
+  slug_en: the-empress
+  element_fr: Terre
+  element_en: Earth
+  astro_fr: Vénus
+  astro_en: Venus
+  kabbalah: Daleth
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: ar04
+  suit: major
+  number: 4
+  name_fr: L’Empereur
+  name_en: The Emperor
+  slug_fr: l-empereur
+  slug_en: the-emperor
+  element_fr: Feu
+  element_en: Fire
+  astro_fr: Bélier
+  astro_en: Aries
+  kabbalah: Hé
+  energy_fr: Masculine
+  energy_en: Masculine
+- id: ar05
+  suit: major
+  number: 5
+  name_fr: Le Hiérophante
+  name_en: The Hierophant
+  slug_fr: le-hierophante
+  slug_en: the-hierophant
+  element_fr: Terre
+  element_en: Earth
+  astro_fr: Taureau
+  astro_en: Taurus
+  kabbalah: Vav
+  energy_fr: Masculine
+  energy_en: Masculine
+- id: ar06
+  suit: major
+  number: 6
+  name_fr: Les Amoureux
+  name_en: The Lovers
+  slug_fr: les-amoureux
+  slug_en: the-lovers
+  element_fr: Air
+  element_en: Air
+  astro_fr: Gémeaux
+  astro_en: Gemini
+  kabbalah: Zayin
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: ar07
+  suit: major
+  number: 7
+  name_fr: Le Chariot
+  name_en: The Chariot
+  slug_fr: le-chariot
+  slug_en: the-chariot
+  element_fr: Eau
+  element_en: Water
+  astro_fr: Cancer
+  astro_en: Cancer
+  kabbalah: Cheth
+  energy_fr: Masculine
+  energy_en: Masculine
+- id: ar08
+  suit: major
+  number: 8
+  name_fr: La Force
+  name_en: Strength
+  slug_fr: la-force
+  slug_en: strength
+  element_fr: Feu
+  element_en: Fire
+  astro_fr: Lion
+  astro_en: Leo
+  kabbalah: Teth
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: ar09
+  suit: major
+  number: 9
+  name_fr: L’Ermite
+  name_en: The Hermit
+  slug_fr: l-ermite
+  slug_en: the-hermit
+  element_fr: Terre
+  element_en: Earth
+  astro_fr: Vierge
+  astro_en: Virgo
+  kabbalah: Yod
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: ar10
+  suit: major
+  number: 10
+  name_fr: La Roue de Fortune
+  name_en: Wheel of Fortune
+  slug_fr: la-roue-de-fortune
+  slug_en: wheel-of-fortune
+  element_fr: Feu
+  element_en: Fire
+  astro_fr: Jupiter
+  astro_en: Jupiter
+  kabbalah: Kaph
+  energy_fr: Masculine
+  energy_en: Masculine
+- id: ar11
+  suit: major
+  number: 11
+  name_fr: La Justice
+  name_en: Justice
+  slug_fr: la-justice
+  slug_en: justice
+  element_fr: Air
+  element_en: Air
+  astro_fr: Balance
+  astro_en: Libra
+  kabbalah: Lamed
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: ar12
+  suit: major
+  number: 12
+  name_fr: Le Pendu
+  name_en: The Hanged Man
+  slug_fr: le-pendu
+  slug_en: the-hanged-man
+  element_fr: Eau
+  element_en: Water
+  astro_fr: Neptune
+  astro_en: Neptune
+  kabbalah: Mem
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: ar13
+  suit: major
+  number: 13
+  name_fr: La Mort
+  name_en: Death
+  slug_fr: la-mort
+  slug_en: death
+  element_fr: Eau
+  element_en: Water
+  astro_fr: Scorpion
+  astro_en: Scorpio
+  kabbalah: Nun
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: ar14
+  suit: major
+  number: 14
+  name_fr: Tempérance
+  name_en: Temperance
+  slug_fr: temperance
+  slug_en: temperance
+  element_fr: Feu
+  element_en: Fire
+  astro_fr: Sagittaire
+  astro_en: Sagittarius
+  kabbalah: Samekh
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: ar15
+  suit: major
+  number: 15
+  name_fr: Le Diable
+  name_en: The Devil
+  slug_fr: le-diable
+  slug_en: the-devil
+  element_fr: Terre
+  element_en: Earth
+  astro_fr: Capricorne
+  astro_en: Capricorn
+  kabbalah: Ayin
+  energy_fr: Masculine
+  energy_en: Masculine
+- id: ar16
+  suit: major
+  number: 16
+  name_fr: La Tour
+  name_en: The Tower
+  slug_fr: la-tour
+  slug_en: the-tower
+  element_fr: Feu
+  element_en: Fire
+  astro_fr: Mars
+  astro_en: Mars
+  kabbalah: Pé
+  energy_fr: Masculine
+  energy_en: Masculine
+- id: ar17
+  suit: major
+  number: 17
+  name_fr: L’Étoile
+  name_en: The Star
+  slug_fr: l-etoile
+  slug_en: the-star
+  element_fr: Air
+  element_en: Air
+  astro_fr: Verseau
+  astro_en: Aquarius
+  kabbalah: Tsadé
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: ar18
+  suit: major
+  number: 18
+  name_fr: La Lune
+  name_en: The Moon
+  slug_fr: la-lune
+  slug_en: the-moon
+  element_fr: Eau
+  element_en: Water
+  astro_fr: Poissons
+  astro_en: Pisces
+  kabbalah: Qoph
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: ar19
+  suit: major
+  number: 19
+  name_fr: Le Soleil
+  name_en: The Sun
+  slug_fr: le-soleil
+  slug_en: the-sun
+  element_fr: Feu
+  element_en: Fire
+  astro_fr: Soleil
+  astro_en: Sun
+  kabbalah: Resh
+  energy_fr: Masculine
+  energy_en: Masculine
+- id: ar20
+  suit: major
+  number: 20
+  name_fr: Le Jugement
+  name_en: Judgement
+  slug_fr: le-jugement
+  slug_en: judgement
+  element_fr: Feu
+  element_en: Fire
+  astro_fr: Pluton
+  astro_en: Pluto
+  kabbalah: Shin
+  energy_fr: Masculine
+  energy_en: Masculine
+- id: ar21
+  suit: major
+  number: 21
+  name_fr: Le Monde
+  name_en: The World
+  slug_fr: le-monde
+  slug_en: the-world
+  element_fr: Terre
+  element_en: Earth
+  astro_fr: Saturne
+  astro_en: Saturn
+  kabbalah: Tav
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: waac
+  suit: wands
+  number: 1
+  name_fr: As de Bâtons
+  name_en: Ace of Wands
+  slug_fr: as-de-batons
+  slug_en: ace-of-wands
+  element_fr: Feu
+  element_en: Fire
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Racine de Feu
+  astro_en: Root of Fire
+- id: wa02
+  suit: wands
+  number: 2
+  name_fr: Deux de Bâtons
+  name_en: Two of Wands
+  slug_fr: deux-de-batons
+  slug_en: two-of-wands
+  element_fr: Feu
+  element_en: Fire
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Mars en Bélier
+  astro_en: Mars in Aries
+- id: wa03
+  suit: wands
+  number: 3
+  name_fr: Trois de Bâtons
+  name_en: Three of Wands
+  slug_fr: trois-de-batons
+  slug_en: three-of-wands
+  element_fr: Feu
+  element_en: Fire
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Soleil en Bélier
+  astro_en: Sun in Aries
+- id: wa04
+  suit: wands
+  number: 4
+  name_fr: Quatre de Bâtons
+  name_en: Four of Wands
+  slug_fr: quatre-de-batons
+  slug_en: four-of-wands
+  element_fr: Feu
+  element_en: Fire
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Vénus en Bélier
+  astro_en: Venus in Aries
+- id: wa05
+  suit: wands
+  number: 5
+  name_fr: Cinq de Bâtons
+  name_en: Five of Wands
+  slug_fr: cinq-de-batons
+  slug_en: five-of-wands
+  element_fr: Feu
+  element_en: Fire
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Saturne en Lion
+  astro_en: Saturn in Leo
+- id: wa06
+  suit: wands
+  number: 6
+  name_fr: Six de Bâtons
+  name_en: Six of Wands
+  slug_fr: six-de-batons
+  slug_en: six-of-wands
+  element_fr: Feu
+  element_en: Fire
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Jupiter en Lion
+  astro_en: Jupiter in Leo
+- id: wa07
+  suit: wands
+  number: 7
+  name_fr: Sept de Bâtons
+  name_en: Seven of Wands
+  slug_fr: sept-de-batons
+  slug_en: seven-of-wands
+  element_fr: Feu
+  element_en: Fire
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Mars en Lion
+  astro_en: Mars in Leo
+- id: wa08
+  suit: wands
+  number: 8
+  name_fr: Huit de Bâtons
+  name_en: Eight of Wands
+  slug_fr: huit-de-batons
+  slug_en: eight-of-wands
+  element_fr: Feu
+  element_en: Fire
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Mercure en Sagittaire
+  astro_en: Mercury in Sagittarius
+- id: wa09
+  suit: wands
+  number: 9
+  name_fr: Neuf de Bâtons
+  name_en: Nine of Wands
+  slug_fr: neuf-de-batons
+  slug_en: nine-of-wands
+  element_fr: Feu
+  element_en: Fire
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Lune en Sagittaire
+  astro_en: Moon in Sagittarius
+- id: wa10
+  suit: wands
+  number: 10
+  name_fr: Dix de Bâtons
+  name_en: Ten of Wands
+  slug_fr: dix-de-batons
+  slug_en: ten-of-wands
+  element_fr: Feu
+  element_en: Fire
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Saturne en Sagittaire
+  astro_en: Saturn in Sagittarius
+- id: wapa
+  suit: wands
+  number: 11
+  name_fr: Valet de Bâtons
+  name_en: Page of Wands
+  slug_fr: valet-de-batons
+  slug_en: page-of-wands
+  element_fr: Terre de Feu
+  element_en: Earth of Fire
+  astro_fr: ''
+  astro_en: ''
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: wakn
+  suit: wands
+  number: 12
+  name_fr: Cavalier de Bâtons
+  name_en: Knight of Wands
+  slug_fr: cavalier-de-batons
+  slug_en: knight-of-wands
+  element_fr: Air de Feu
+  element_en: Air of Fire
+  astro_fr: ''
+  astro_en: ''
+  energy_fr: Masculine
+  energy_en: Masculine
+- id: waqu
+  suit: wands
+  number: 13
+  name_fr: Reine de Bâtons
+  name_en: Queen of Wands
+  slug_fr: reine-de-batons
+  slug_en: queen-of-wands
+  element_fr: Eau de Feu
+  element_en: Water of Fire
+  astro_fr: ''
+  astro_en: ''
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: waki
+  suit: wands
+  number: 14
+  name_fr: Roi de Bâtons
+  name_en: King of Wands
+  slug_fr: roi-de-batons
+  slug_en: king-of-wands
+  element_fr: Feu de Feu
+  element_en: Fire of Fire
+  astro_fr: ''
+  astro_en: ''
+  energy_fr: Masculine
+  energy_en: Masculine
+- id: cuac
+  suit: cups
+  number: 1
+  name_fr: As de Coupes
+  name_en: Ace of Cups
+  slug_fr: as-de-coupes
+  slug_en: ace-of-cups
+  element_fr: Eau
+  element_en: Water
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Racine de Eau
+  astro_en: Root of Water
+- id: cu02
+  suit: cups
+  number: 2
+  name_fr: Deux de Coupes
+  name_en: Two of Cups
+  slug_fr: deux-de-coupes
+  slug_en: two-of-cups
+  element_fr: Eau
+  element_en: Water
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Vénus en Cancer
+  astro_en: Venus in Cancer
+- id: cu03
+  suit: cups
+  number: 3
+  name_fr: Trois de Coupes
+  name_en: Three of Cups
+  slug_fr: trois-de-coupes
+  slug_en: three-of-cups
+  element_fr: Eau
+  element_en: Water
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Mercure en Cancer
+  astro_en: Mercury in Cancer
+- id: cu04
+  suit: cups
+  number: 4
+  name_fr: Quatre de Coupes
+  name_en: Four of Cups
+  slug_fr: quatre-de-coupes
+  slug_en: four-of-cups
+  element_fr: Eau
+  element_en: Water
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Lune en Cancer
+  astro_en: Moon in Cancer
+- id: cu05
+  suit: cups
+  number: 5
+  name_fr: Cinq de Coupes
+  name_en: Five of Cups
+  slug_fr: cinq-de-coupes
+  slug_en: five-of-cups
+  element_fr: Eau
+  element_en: Water
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Mars en Scorpion
+  astro_en: Mars in Scorpio
+- id: cu06
+  suit: cups
+  number: 6
+  name_fr: Six de Coupes
+  name_en: Six of Cups
+  slug_fr: six-de-coupes
+  slug_en: six-of-cups
+  element_fr: Eau
+  element_en: Water
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Soleil en Scorpion
+  astro_en: Sun in Scorpio
+- id: cu07
+  suit: cups
+  number: 7
+  name_fr: Sept de Coupes
+  name_en: Seven of Cups
+  slug_fr: sept-de-coupes
+  slug_en: seven-of-cups
+  element_fr: Eau
+  element_en: Water
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Vénus en Scorpion
+  astro_en: Venus in Scorpio
+- id: cu08
+  suit: cups
+  number: 8
+  name_fr: Huit de Coupes
+  name_en: Eight of Cups
+  slug_fr: huit-de-coupes
+  slug_en: eight-of-cups
+  element_fr: Eau
+  element_en: Water
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Saturne en Poissons
+  astro_en: Saturn in Pisces
+- id: cu09
+  suit: cups
+  number: 9
+  name_fr: Neuf de Coupes
+  name_en: Nine of Cups
+  slug_fr: neuf-de-coupes
+  slug_en: nine-of-cups
+  element_fr: Eau
+  element_en: Water
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Jupiter en Poissons
+  astro_en: Jupiter in Pisces
+- id: cu10
+  suit: cups
+  number: 10
+  name_fr: Dix de Coupes
+  name_en: Ten of Cups
+  slug_fr: dix-de-coupes
+  slug_en: ten-of-cups
+  element_fr: Eau
+  element_en: Water
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Mars en Poissons
+  astro_en: Mars in Pisces
+- id: cupa
+  suit: cups
+  number: 11
+  name_fr: Valet de Coupes
+  name_en: Page of Cups
+  slug_fr: valet-de-coupes
+  slug_en: page-of-cups
+  element_fr: Terre de Eau
+  element_en: Earth of Water
+  astro_fr: ''
+  astro_en: ''
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: cukn
+  suit: cups
+  number: 12
+  name_fr: Cavalier de Coupes
+  name_en: Knight of Cups
+  slug_fr: cavalier-de-coupes
+  slug_en: knight-of-cups
+  element_fr: Air de Eau
+  element_en: Air of Water
+  astro_fr: ''
+  astro_en: ''
+  energy_fr: Masculine
+  energy_en: Masculine
+- id: cuqu
+  suit: cups
+  number: 13
+  name_fr: Reine de Coupes
+  name_en: Queen of Cups
+  slug_fr: reine-de-coupes
+  slug_en: queen-of-cups
+  element_fr: Eau de Eau
+  element_en: Water of Water
+  astro_fr: ''
+  astro_en: ''
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: cuki
+  suit: cups
+  number: 14
+  name_fr: Roi de Coupes
+  name_en: King of Cups
+  slug_fr: roi-de-coupes
+  slug_en: king-of-cups
+  element_fr: Feu de Eau
+  element_en: Fire of Water
+  astro_fr: ''
+  astro_en: ''
+  energy_fr: Masculine
+  energy_en: Masculine
+- id: swac
+  suit: swords
+  number: 1
+  name_fr: As de Épées
+  name_en: Ace of Swords
+  slug_fr: as-de-epees
+  slug_en: ace-of-swords
+  element_fr: Air
+  element_en: Air
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Racine de Air
+  astro_en: Root of Air
+- id: sw02
+  suit: swords
+  number: 2
+  name_fr: Deux de Épées
+  name_en: Two of Swords
+  slug_fr: deux-de-epees
+  slug_en: two-of-swords
+  element_fr: Air
+  element_en: Air
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Lune en Balance
+  astro_en: Moon in Libra
+- id: sw03
+  suit: swords
+  number: 3
+  name_fr: Trois de Épées
+  name_en: Three of Swords
+  slug_fr: trois-de-epees
+  slug_en: three-of-swords
+  element_fr: Air
+  element_en: Air
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Saturne en Balance
+  astro_en: Saturn in Libra
+- id: sw04
+  suit: swords
+  number: 4
+  name_fr: Quatre de Épées
+  name_en: Four of Swords
+  slug_fr: quatre-de-epees
+  slug_en: four-of-swords
+  element_fr: Air
+  element_en: Air
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Jupiter en Balance
+  astro_en: Jupiter in Libra
+- id: sw05
+  suit: swords
+  number: 5
+  name_fr: Cinq de Épées
+  name_en: Five of Swords
+  slug_fr: cinq-de-epees
+  slug_en: five-of-swords
+  element_fr: Air
+  element_en: Air
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Vénus en Verseau
+  astro_en: Venus in Aquarius
+- id: sw06
+  suit: swords
+  number: 6
+  name_fr: Six de Épées
+  name_en: Six of Swords
+  slug_fr: six-de-epees
+  slug_en: six-of-swords
+  element_fr: Air
+  element_en: Air
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Mercure en Verseau
+  astro_en: Mercury in Aquarius
+- id: sw07
+  suit: swords
+  number: 7
+  name_fr: Sept de Épées
+  name_en: Seven of Swords
+  slug_fr: sept-de-epees
+  slug_en: seven-of-swords
+  element_fr: Air
+  element_en: Air
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Lune en Verseau
+  astro_en: Moon in Aquarius
+- id: sw08
+  suit: swords
+  number: 8
+  name_fr: Huit de Épées
+  name_en: Eight of Swords
+  slug_fr: huit-de-epees
+  slug_en: eight-of-swords
+  element_fr: Air
+  element_en: Air
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Jupiter en Gémeaux
+  astro_en: Jupiter in Gemini
+- id: sw09
+  suit: swords
+  number: 9
+  name_fr: Neuf de Épées
+  name_en: Nine of Swords
+  slug_fr: neuf-de-epees
+  slug_en: nine-of-swords
+  element_fr: Air
+  element_en: Air
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Mars en Gémeaux
+  astro_en: Mars in Gemini
+- id: sw10
+  suit: swords
+  number: 10
+  name_fr: Dix de Épées
+  name_en: Ten of Swords
+  slug_fr: dix-de-epees
+  slug_en: ten-of-swords
+  element_fr: Air
+  element_en: Air
+  energy_fr: Masculine
+  energy_en: Masculine
+  astro_fr: Soleil en Gémeaux
+  astro_en: Sun in Gemini
+- id: swpa
+  suit: swords
+  number: 11
+  name_fr: Valet de Épées
+  name_en: Page of Swords
+  slug_fr: valet-de-epees
+  slug_en: page-of-swords
+  element_fr: Terre de Air
+  element_en: Earth of Air
+  astro_fr: ''
+  astro_en: ''
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: swkn
+  suit: swords
+  number: 12
+  name_fr: Cavalier de Épées
+  name_en: Knight of Swords
+  slug_fr: cavalier-de-epees
+  slug_en: knight-of-swords
+  element_fr: Air de Air
+  element_en: Air of Air
+  astro_fr: ''
+  astro_en: ''
+  energy_fr: Masculine
+  energy_en: Masculine
+- id: swqu
+  suit: swords
+  number: 13
+  name_fr: Reine de Épées
+  name_en: Queen of Swords
+  slug_fr: reine-de-epees
+  slug_en: queen-of-swords
+  element_fr: Eau de Air
+  element_en: Water of Air
+  astro_fr: ''
+  astro_en: ''
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: swki
+  suit: swords
+  number: 14
+  name_fr: Roi de Épées
+  name_en: King of Swords
+  slug_fr: roi-de-epees
+  slug_en: king-of-swords
+  element_fr: Feu de Air
+  element_en: Fire of Air
+  astro_fr: ''
+  astro_en: ''
+  energy_fr: Masculine
+  energy_en: Masculine
+- id: peac
+  suit: pentacles
+  number: 1
+  name_fr: As de Pentacles
+  name_en: Ace of Pentacles
+  slug_fr: as-de-pentacles
+  slug_en: ace-of-pentacles
+  element_fr: Terre
+  element_en: Earth
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Racine de Terre
+  astro_en: Root of Earth
+- id: pe02
+  suit: pentacles
+  number: 2
+  name_fr: Deux de Pentacles
+  name_en: Two of Pentacles
+  slug_fr: deux-de-pentacles
+  slug_en: two-of-pentacles
+  element_fr: Terre
+  element_en: Earth
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Jupiter en Capricorne
+  astro_en: Jupiter in Capricorn
+- id: pe03
+  suit: pentacles
+  number: 3
+  name_fr: Trois de Pentacles
+  name_en: Three of Pentacles
+  slug_fr: trois-de-pentacles
+  slug_en: three-of-pentacles
+  element_fr: Terre
+  element_en: Earth
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Mars en Capricorne
+  astro_en: Mars in Capricorn
+- id: pe04
+  suit: pentacles
+  number: 4
+  name_fr: Quatre de Pentacles
+  name_en: Four of Pentacles
+  slug_fr: quatre-de-pentacles
+  slug_en: four-of-pentacles
+  element_fr: Terre
+  element_en: Earth
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Soleil en Capricorne
+  astro_en: Sun in Capricorn
+- id: pe05
+  suit: pentacles
+  number: 5
+  name_fr: Cinq de Pentacles
+  name_en: Five of Pentacles
+  slug_fr: cinq-de-pentacles
+  slug_en: five-of-pentacles
+  element_fr: Terre
+  element_en: Earth
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Mercure en Taureau
+  astro_en: Mercury in Taurus
+- id: pe06
+  suit: pentacles
+  number: 6
+  name_fr: Six de Pentacles
+  name_en: Six of Pentacles
+  slug_fr: six-de-pentacles
+  slug_en: six-of-pentacles
+  element_fr: Terre
+  element_en: Earth
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Lune en Taureau
+  astro_en: Moon in Taurus
+- id: pe07
+  suit: pentacles
+  number: 7
+  name_fr: Sept de Pentacles
+  name_en: Seven of Pentacles
+  slug_fr: sept-de-pentacles
+  slug_en: seven-of-pentacles
+  element_fr: Terre
+  element_en: Earth
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Saturne en Taureau
+  astro_en: Saturn in Taurus
+- id: pe08
+  suit: pentacles
+  number: 8
+  name_fr: Huit de Pentacles
+  name_en: Eight of Pentacles
+  slug_fr: huit-de-pentacles
+  slug_en: eight-of-pentacles
+  element_fr: Terre
+  element_en: Earth
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Soleil en Vierge
+  astro_en: Sun in Virgo
+- id: pe09
+  suit: pentacles
+  number: 9
+  name_fr: Neuf de Pentacles
+  name_en: Nine of Pentacles
+  slug_fr: neuf-de-pentacles
+  slug_en: nine-of-pentacles
+  element_fr: Terre
+  element_en: Earth
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Vénus en Vierge
+  astro_en: Venus in Virgo
+- id: pe10
+  suit: pentacles
+  number: 10
+  name_fr: Dix de Pentacles
+  name_en: Ten of Pentacles
+  slug_fr: dix-de-pentacles
+  slug_en: ten-of-pentacles
+  element_fr: Terre
+  element_en: Earth
+  energy_fr: Féminine
+  energy_en: Feminine
+  astro_fr: Mercure en Vierge
+  astro_en: Mercury in Virgo
+- id: pepa
+  suit: pentacles
+  number: 11
+  name_fr: Valet de Pentacles
+  name_en: Page of Pentacles
+  slug_fr: valet-de-pentacles
+  slug_en: page-of-pentacles
+  element_fr: Terre de Terre
+  element_en: Earth of Earth
+  astro_fr: ''
+  astro_en: ''
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: pekn
+  suit: pentacles
+  number: 12
+  name_fr: Cavalier de Pentacles
+  name_en: Knight of Pentacles
+  slug_fr: cavalier-de-pentacles
+  slug_en: knight-of-pentacles
+  element_fr: Air de Terre
+  element_en: Air of Earth
+  astro_fr: ''
+  astro_en: ''
+  energy_fr: Masculine
+  energy_en: Masculine
+- id: pequ
+  suit: pentacles
+  number: 13
+  name_fr: Reine de Pentacles
+  name_en: Queen of Pentacles
+  slug_fr: reine-de-pentacles
+  slug_en: queen-of-pentacles
+  element_fr: Eau de Terre
+  element_en: Water of Earth
+  astro_fr: ''
+  astro_en: ''
+  energy_fr: Féminine
+  energy_en: Feminine
+- id: peki
+  suit: pentacles
+  number: 14
+  name_fr: Roi de Pentacles
+  name_en: King of Pentacles
+  slug_fr: roi-de-pentacles
+  slug_en: king-of-pentacles
+  element_fr: Feu de Terre
+  element_en: Fire of Earth
+  astro_fr: ''
+  astro_en: ''
+  energy_fr: Masculine
+  energy_en: Masculine

@@ -1,0 +1,58 @@
+{{ define "main" }}
+{{- $lang := .Language.Lang -}}{{ $fr := eq $lang "fr" }}
+{{- $p := .Params -}}
+<section class="hero hero-ink">
+  <div class="hatch"></div>
+  <div class="hero-split">
+    <div class="text">
+      <p class="eyebrow" data-reveal>{{ $p.eyebrow }}</p>
+      <div data-reveal>{{ partial "booked.html" . }}</div>
+      <h1 data-reveal="2">{{ $p.h1 | default .Title | safeHTML }}</h1>
+      <p class="lede" data-reveal="3">{{ $p.lede }}</p>
+      <div class="actions" data-reveal="3"><a class="btn btn-solid btn-arrow" href="#booking">{{ i18n "bookCta" }}</a><a class="btn" href="#formats">{{ $p.formatsTitle }}</a></div>
+    </div>
+    <div class="visual" data-reveal="2">{{ partial "image.html" (dict "page" . "src" $p.image "alt" $p.imageAlt "ratio" "portrait" "loading" "eager") }}</div>
+  </div>
+</section>
+<div class="ticker" aria-hidden="true"><div class="track">{{ range seq 10 }}{{ range $p.formats }}<span>{{ .title }} — {{ .kicker }}</span>{{ end }}{{ end }}</div></div>
+
+<section class="wrap band" id="formats" style="padding-bottom:0">
+  <div class="grid" style="align-items:end;margin-bottom:1rem">
+    <div class="s7"><p class="eyebrow">{{ $p.formatsTitle }}</p><h2 class="mt-0">{{ $p.formatsH2 | default $p.formatsTitle | safeHTML }}</h2></div>
+    <div class="s4 o9"><p class="muted small">{{ $p.formatsNote }}</p></div>
+  </div>
+  {{ range $i, $f := $p.formats }}
+  <div class="offer-row">
+    <div data-reveal>{{ partial "image.html" (dict "page" $ "src" $f.image "alt" $f.title "ratio" "landscape") }}</div>
+    <div data-reveal="2">
+      <span class="label">{{ $f.kicker }}</span>
+      <h3>{{ $f.title }}</h3>
+      <p>{{ $f.text }}</p>
+      {{ with $f.included }}<details><summary>{{ if $fr }}Ce qui est inclus{{ else }}What’s included{{ end }}</summary><ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul></details>{{ end }}
+      {{ with $f.how }}<details><summary>{{ if $fr }}Déroulé{{ else }}How it goes{{ end }}</summary><p>{{ . }}</p></details>{{ end }}
+      <details><summary>{{ if $fr }}Prix et paiement{{ else }}Price and payment{{ end }}</summary><p>{{ with $f.price }}{{ . }}{{ else }}<span class="todo">{{ if $fr }}prix affiché après validation du processeur de paiement{{ else }}price shown once the payment processor is approved{{ end }}</span>{{ end }} — {{ $p.formatsNote }}</p></details>
+      <div class="actions"><a class="btn btn-solid btn-arrow" href="#booking">{{ i18n "bookCta" }}</a></div>
+    </div>
+  </div>
+  {{ end }}
+</section>
+
+<section class="wrap band">
+  <p class="eyebrow">{{ $p.stepsTitle }}</p>
+  <ol class="steps">{{ range $p.steps }}<li data-reveal>{{ partial "image.html" (dict "page" $ "src" .image "alt" .title "ratio" "landscape") }}<strong>{{ .title }}</strong><span>{{ .text }}</span></li>{{ end }}</ol>
+</section>
+
+<section class="band band-2"><div class="wrap grid" style="align-items:start">
+  <div class="s7 prose" data-reveal>{{ .Content }}</div>
+  <div class="s4 o9 sticky" data-reveal="2">{{ partial "refusals.html" . }}<p>{{ partial "see-disclaimers.html" (dict "ctx" .) }}</p></div>
+</div></section>
+
+{{ partial "testimonials.html" . }}
+{{ with $p.faq }}
+<section class="wrap band"><div class="grid" style="align-items:start">
+  <div class="s4"><p class="eyebrow">{{ i18n "faq" }}</p><h2 class="mt-0">{{ if $fr }}Avant de réserver{{ else }}Before you book{{ end }}</h2></div>
+  <div class="s7 o6">{{ range . }}<details><summary class="q">{{ .q }}</summary><p>{{ .a }}</p></details>{{ end }}</div>
+</div></section>
+{{ end }}
+<section class="wrap" style="padding-bottom:clamp(3rem,7vw,6rem)">{{ partial "booking.html" (dict "ctx" . "photo" "booking.jpg") }}</section>
+{{ end }}

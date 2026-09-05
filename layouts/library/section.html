@@ -1,0 +1,48 @@
+{{ define "main" }}
+{{- $lang := .Language.Lang -}}{{ $fr := eq $lang "fr" }}
+<section class="wrap page-top">
+  {{ if gt (len .Ancestors) 1 }}{{ partial "breadcrumb.html" . }}{{ end }}
+  <div class="grid" style="align-items:end">
+    <div class="s8"><p class="eyebrow">{{ .Params.eyebrow | default (i18n "free") }}</p><h1 class="mt-0">{{ .Params.h1 | default .Title | safeHTML }}</h1></div>
+    <div class="s4"><p class="lede" style="font-size:var(--t-0)">{{ .Params.lede }}</p></div>
+  </div>
+</section>
+<section class="wrap band" style="padding-top:clamp(2rem,4vw,3rem)">
+  {{ $sections := where .Pages "Kind" "section" }}
+  {{ $pages := where .Pages "Kind" "page" }}
+  {{ if $sections }}
+  {{ if eq (len .Ancestors) 1 }}
+  <div class="rule" style="padding-top:1.5rem;margin-bottom:2rem">
+    <p class="label">{{ i18n "readOrder" }}</p>
+    <p class="muted small" style="max-width:40em">{{ i18n "readOrderText" }}</p>
+    <nav class="readmap" aria-label="{{ i18n "readOrder" }}">
+      {{ $order := cond $fr (slice "couleurs" "elements" "nombres" "energies" "modes") (slice "colours" "elements" "numbers" "energies" "modes") }}
+      {{ range $i, $k := $order }}{{ with $.Site.GetPage (printf "/%s/%s" (path.Base $.File.Dir) $k) }}<a href="{{ .RelPermalink }}"{{ if eq $k "modes" }} class="last"{{ end }}><strong>{{ .Params.navTitle | default .Title }}</strong>{{ .Params.short | default "" }}</a>{{ end }}{{ end }}
+    </nav>
+  </div>
+  <div class="filters" role="group"><button class="chip" type="button" data-filter="kind" data-value="" aria-pressed="true">{{ if $fr }}Tout{{ else }}All{{ end }}</button><button class="chip" type="button" data-filter="kind" data-value="lens" aria-pressed="false">{{ if $fr }}Les lentilles{{ else }}The lenses{{ end }}</button><button class="chip" type="button" data-filter="kind" data-value="cards" aria-pressed="false">{{ if $fr }}Les cartes{{ else }}The cards{{ end }}</button><button class="chip" type="button" data-filter="kind" data-value="context" aria-pressed="false">{{ if $fr }}Histoire et traditions{{ else }}History and traditions{{ end }}</button></div>{{ end }}
+  <div class="grid" style="align-items:start">
+    <div class="s1" style="grid-column:span 1;display:none"></div>
+    <div class="s12" style="grid-column:span 12">
+    <div class="tiles">
+      {{ range sort $sections "Weight" "asc" }}
+      {{ $n := len .RegularPages }}
+      <a class="tile{{ if eq .Type "cards" }} ink big slideshow{{ end }}" href="{{ .RelPermalink }}" data-kind="{{ if eq .Type "cards" }}cards{{ else if in (slice "symboles" "symbols" "kabbale" "kabbalah" "histoire" "history" "figures") (path.Base .File.Dir) }}context{{ else }}lens{{ end }}" data-reveal>
+        {{ if eq .Type "cards" }}{{ range $j, $c := first 8 (shuffle .RegularPages) }}{{ with resources.Get $c.Params.image }}{{ $r := .Resize "600x webp q75" }}<img src="{{ $r.RelPermalink }}" alt="" loading="lazy"{{ if eq $j 0 }} class="on"{{ end }}>{{ end }}{{ end }}{{ end }}<span class="c">{{ if gt $n 0 }}{{ $n }} {{ if $fr }}page{{ if gt $n 1 }}s{{ end }}{{ else }}page{{ if gt $n 1 }}s{{ end }}{{ end }}{{ else }}{{ if $fr }}bientôt{{ else }}soon{{ end }}{{ end }}</span>
+        <span class="t">{{ .Title }}</span>
+        <span class="d">{{ .Params.description }}</span>
+      </a>
+      {{ end }}
+    </div>
+    </div>
+  </div>
+  {{ end }}
+  {{ with $pages }}
+  <div class="grid" style="margin-top:2rem;align-items:start">
+    <div class="s8"><ul class="index-list big">{{ range sort . "Weight" "asc" }}<li><a href="{{ .RelPermalink }}"><span><span class="title">{{ .Title }}</span>{{ with .Params.description }}<span class="meta">{{ . }}</span>{{ end }}</span><span class="arrow">→</span></a></li>{{ end }}</ul></div>
+    <div class="s4 sticky">{{ partial "guide-form.html" $ }}</div>
+  </div>
+  {{ else }}{{ if not $sections }}<p class="muted">{{ if $fr }}Pages en cours d’écriture.{{ else }}Pages being written.{{ end }}</p>{{ end }}{{ end }}
+  {{ if $sections }}<div class="prose" style="margin-top:2.5rem">{{ .Content }}</div>{{ end }}
+</section>
+{{ end }}

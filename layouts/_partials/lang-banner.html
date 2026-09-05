@@ -1,0 +1,9 @@
+{{- $other := partial "lang-switch-url.html" . -}}
+{{- if $other.twin -}}
+{{- $t := cond (eq $other.lang "fr") (dict "text" "Cette page existe en français." "go" "La voir en français" "stay" "Rester ici") (dict "text" "This page exists in English." "go" "View it in English" "stay" "Stay here") -}}
+<div class="lang-banner glass" hidden data-lang-banner data-target="{{ $other.lang }}" lang="{{ $other.lang }}">
+  <span>{{ $t.text }}</span>
+  <a class="btn" href="{{ $other.url }}" hreflang="{{ $other.lang }}">{{ $t.go }}</a>
+  <button type="button" class="link" data-lang-close>{{ $t.stay }}</button>
+</div>
+{{- end -}}

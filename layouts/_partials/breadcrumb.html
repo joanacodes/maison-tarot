@@ -1,0 +1,1 @@
+<p class="crumbs">{{ range .Ancestors.Reverse }}<a href="{{ .RelPermalink }}">{{ cond .IsHome site.Params.brand (.Params.navTitle | default .Title) }}</a><span>›</span>{{ end }}{{ .Params.navTitle | default .Title }}</p>

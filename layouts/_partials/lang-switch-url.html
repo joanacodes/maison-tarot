@@ -1,0 +1,8 @@
+{{- /* Renvoie {url, lang, twin} : la jumelle exacte si elle existe, sinon le hub de l'autre langue. Jamais un 404, jamais la racine. */ -}}
+{{- $lang := .Language.Lang -}}
+{{- $otherLang := cond (eq $lang "fr") "en" "fr" -}}
+{{- $url := "" -}}
+{{- $twin := false -}}
+{{- range .Translations }}{{ if eq .Language.Lang $otherLang }}{{ $url = .RelPermalink }}{{ $twin = true }}{{ end }}{{ end -}}
+{{- if not $url }}{{ range hugo.Sites }}{{ if eq .Language.Lang $otherLang }}{{ $url = .Home.RelPermalink }}{{ end }}{{ end }}{{ end -}}
+{{- return (dict "url" $url "lang" $otherLang "twin" $twin) -}}

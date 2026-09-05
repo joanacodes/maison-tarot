@@ -1,0 +1,3 @@
+{{- /* {{< six >}} — six images d'explication visuelle depuis le front matter `gallery:` (src, title, text) */ -}}
+{{- $g := .Page.Params.gallery -}}
+<div class="six">{{ range $i := seq 0 5 }}{{ $it := index $g $i }}<figure>{{ partial "image.html" (dict "page" $.Page "src" (cond (ne $it nil) $it.src (printf "visual-%d.jpg" (add $i 1))) "alt" (cond (ne $it nil) $it.title "") "ratio" "portrait" "sizes" "(min-width:800px) 30vw, 45vw") }}<figcaption>{{ if $it }}<b>{{ $it.title }}</b>{{ $it.text }}{{ else }}<span class="todo">{{ if eq $.Page.Language.Lang "fr" }}visuel {{ add $i 1 }} — à décrire{{ else }}visual {{ add $i 1 }} — to describe{{ end }}</span>{{ end }}</figcaption></figure>{{ end }}</div>

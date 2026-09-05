@@ -1,0 +1,17 @@
+{{ define "main" }}
+<article class="wrap page-top">
+  {{ if gt (len .Ancestors) 1 }}{{ partial "breadcrumb.html" . }}{{ end }}
+  <div class="grid" style="align-items:end">
+    <div class="s8">{{ with .Params.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}<h1 class="mt-0">{{ .Params.h1 | default .Title | safeHTML }}</h1></div>
+    <div class="s4">{{ with .Params.lede }}<p class="lede" style="font-size:var(--t-0)">{{ . }}</p>{{ end }}</div>
+  </div>
+  <div class="grid" style="align-items:start;margin-top:clamp(2rem,5vw,4rem);padding-top:2rem;border-top:1px solid var(--fg)">
+    <div class="s7 prose">{{ .Content }}</div>
+    <aside class="s4 o9 sticky">
+      {{ with .Params.image }}{{ partial "image.html" (dict "page" $ "src" . "alt" ($.Params.imageAlt | default $.Title) "ratio" "portrait") }}{{ end }}
+      {{ with .Params.notClaim }}{{ partial "not-claim.html" (dict "items" . "lang" $.Language.Lang) }}{{ end }}
+      {{ if ne .Params.hideGuide true }}<div style="margin-top:1.5rem">{{ partial "guide-form.html" . }}</div>{{ end }}
+    </aside>
+  </div>
+</article>
+{{ end }}

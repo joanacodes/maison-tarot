@@ -1,0 +1,17 @@
+{{- /* Usage : partial "image.html" (dict "page" . "src" "hero.jpg" "alt" "…" "ratio" "portrait" "sizes" "…" "loading" "eager")
+     src = ressource de page (content/…/hero.jpg) OU chemin dans assets/ (ex. "cards/ar00.jpg"). WebP en 3 largeurs.
+     Image absente → placeholder texturé qui dit ce qui manque. */ -}}
+{{- $ratio := .ratio | default "landscape" -}}
+{{- $res := "" -}}
+{{- with .src }}{{ $res = $.page.Resources.Get . }}{{ if not $res }}{{ $res = resources.Get . }}{{ end }}{{ end -}}
+{{- if $res -}}
+  {{- $w := slice 480 900 1400 -}}
+  {{- $set := slice -}}
+  {{- range $w }}{{ if lt . (add $res.Width 1) }}{{ $r := $res.Resize (printf "%dx webp q82" .) }}{{ $set = $set | append (printf "%s %dw" $r.RelPermalink .) }}{{ end }}{{ end -}}
+  {{- $fallback := $res.Resize (printf "%dx webp q82" (cond (lt $res.Width 900) $res.Width 900)) -}}
+  <figure class="img-reveal {{ $ratio }}">
+    <img src="{{ $fallback.RelPermalink }}"{{ with $set }} srcset="{{ delimit . ", " }}"{{ end }} sizes="{{ $.sizes | default "(min-width: 1000px) 50vw, 100vw" }}" alt="{{ $.alt }}" width="{{ $fallback.Width }}" height="{{ $fallback.Height }}" loading="{{ $.loading | default "lazy" }}" decoding="async">
+  </figure>
+{{- else -}}
+  <div class="img-placeholder {{ $ratio }}" role="img" aria-label="{{ .alt }}">{{ .alt | default "image" }}<br>[{{ .src | default "à fournir" }}]</div>
+{{- end -}}

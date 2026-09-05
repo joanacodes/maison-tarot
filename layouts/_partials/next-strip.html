@@ -1,0 +1,13 @@
+{{- /* Bandeau mobile « Prochain événement » — masqué par JS une fois la personne inscrite (localStorage) */ -}}
+{{- $fr := eq .Language.Lang "fr" -}}
+{{- $events := .Site.GetPage (cond $fr "/evenements" "/events") -}}
+{{- with $events -}}
+{{- $up := sort (where .RegularPages "Params.start" "ge" (now.Format "2006-01-02")) "Params.start" "asc" -}}
+{{- with index $up 0 -}}
+{{- $t := time .Params.start -}}{{ $ev := . }}
+<a class="next-strip" href="{{ .Parent.RelPermalink }}#next" data-next-strip data-event="{{ .File.UniqueID }}">
+  <div class="ticker" aria-hidden="true"><div class="track">{{ range seq 10 }}<span>{{ if $fr }}Prochain événement{{ else }}Next event{{ end }} — {{ $ev.Title }} — {{ $t.Format $ev.Site.Language.Params.dateFormat }}</span>{{ end }}</div></div>
+  <span class="visually-hidden">{{ if $fr }}Prochain événement{{ else }}Next event{{ end }} : {{ .Title }}</span>
+</a>
+{{- end -}}
+{{- end -}}

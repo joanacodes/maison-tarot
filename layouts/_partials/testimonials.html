@@ -1,0 +1,22 @@
+{{- $ctx := . }}{{ $photo := "testimonials.jpg" }}{{ if reflect.IsMap . }}{{ if isset . "ctx" }}{{ $ctx = .ctx }}{{ $photo = .photo | default $photo }}{{ end }}{{ end -}}
+{{- $lang := $ctx.Language.Lang }}{{ $fr := eq $lang "fr" -}}
+{{- $items := where hugo.Data.testimonials "lang" $lang -}}
+{{- if $items -}}
+<section class="wrap wordwall">
+  <div class="bg" aria-hidden="true"><span>{{ i18n "testimonialsTitle" }}</span><span>{{ i18n "testimonialsTitle" }}</span><span>{{ i18n "testimonialsTitle" }}</span></div>
+  <div class="testimonials">
+    <div data-reveal>{{ partial "image.html" (dict "page" $ctx "src" $photo "alt" "" "ratio" "landscape") }}</div>
+    <div data-reveal="2">
+      <p class="eyebrow">{{ i18n "testimonialsTitle" }}</p>
+      <h2 class="mt-0">{{ if $fr }}Ils ont lu une carte qu’ils n’avaient <em>jamais vue</em>.{{ else }}They read a card they had <em>never seen</em>.{{ end }}</h2>
+      {{ range first 2 $items }}
+      <div class="testimonial">
+        <div class="who">{{ with .photo }}{{ partial "image.html" (dict "page" $ctx "src" . "alt" $.name "ratio" "square") }}{{ end }}</div>
+        <div><q>{{ .quote }}</q><span class="n">{{ .name }} · {{ .context }}</span></div>
+      </div>
+      {{ end }}
+      <p class="xs muted" style="margin-top:1rem">{{ i18n "testimonialsSource" }} <a href="https://www.facebook.com/MaisonTarot/reviews" rel="noopener">facebook.com/MaisonTarot/reviews</a></p>
+    </div>
+  </div>
+</section>
+{{- end -}}

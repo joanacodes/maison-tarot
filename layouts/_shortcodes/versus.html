@@ -1,0 +1,6 @@
+{{- /* {{< versus left="Énergie féminine" right="Énergie masculine" >}} ligne | ligne {{< /versus >}} — une ligne = "gauche | droite" */ -}}
+{{- $rows := split (trim .Inner "\n ") "\n" -}}
+<div class="versus">
+  <div><h4>{{ .Get "left" }}</h4><ul>{{ range $rows }}{{ $p := split . "|" }}<li>{{ trim (index $p 0) " " }}</li>{{ end }}</ul></div>
+  <div><h4>{{ .Get "right" }}</h4><ul>{{ range $rows }}{{ $p := split . "|" }}{{ if gt (len $p) 1 }}<li>{{ trim (index $p 1) " " }}</li>{{ end }}{{ end }}</ul></div>
+</div>

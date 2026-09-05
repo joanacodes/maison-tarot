@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{- $lang := .Language.Lang -}}{{ $fr := eq $lang "fr" }}
+{{- $key := path.Base .File.Dir -}}
+{{- $c := index hugo.Data.countries $key -}}
+<div class="hero-duo">
+  {{ partial "image.html" (dict "page" . "src" "country-1.jpg" "alt" (printf "%s — 1" $c.name) "ratio" "landscape" "loading" "eager") }}
+  {{ partial "image.html" (dict "page" . "src" "country-2.jpg" "alt" (printf "%s — 2" $c.name) "ratio" "landscape" "loading" "eager") }}
+</div>
+<section class="wrap statement">
+  <p class="eyebrow" style="justify-content:center">{{ $c.name }} · {{ $c.currency }}</p>
+  <h1 class="mt-0">{{ .Params.h1 | default .Title | safeHTML }}</h1>
+  <p class="lede">{{ .Params.lede }}</p>
+</section>
+<div class="wrap trio">
+  <a href="{{ (.Site.GetPage (cond $fr "/ateliers" "/workshops")).RelPermalink }}">{{ i18n "seeWorkshops" }}</a>
+  <a href="{{ (.Site.GetPage "/sessions").RelPermalink }}">{{ i18n "seeSessions" }}</a>
+  <a href="{{ (.Site.GetPage (cond $fr "/evenements" "/events")).RelPermalink }}">{{ i18n "seeEvents" }}</a>
+</div>
+<section class="wrap band"><div class="grid" style="align-items:start">
+  <div class="s7">
+    <div class="prose">{{ .Content }}</div>
+    <h2 style="font-size:var(--t-2)">{{ i18n "cities" }}</h2>
+    {{ $cities := .RegularPages }}
+    {{ if $cities }}<ul class="index-list">{{ range sort $cities "Params.tier" "asc" }}<li><a href="{{ .RelPermalink }}"><span><span class="title">{{ .Params.city }}</span><span class="meta">{{ .Params.description }}</span></span><span class="arrow">→</span></a></li>{{ end }}</ul>{{ else }}<p class="muted">{{ i18n "noCities" }}</p>{{ end }}
+    <p class="small muted" style="margin-top:1.5rem">{{ if $fr }}Fuseaux couverts{{ else }}Time zones covered{{ end }} : {{ delimit $c.tz " · " }}. {{ i18n "bookTz" }}</p>
+  </div>
+  <div class="s4 o9 sticky">{{ partial "guide-form.html" . }}</div>
+</div></section>
+{{ end }}

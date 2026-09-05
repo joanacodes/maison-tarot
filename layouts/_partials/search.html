@@ -1,0 +1,8 @@
+<div class="search" data-search data-index="{{ .Site.Home.RelPermalink }}index.json" aria-hidden="true">
+  <div class="scrim" style="position:absolute;inset:0"></div>
+  <div class="panel glass" role="dialog" aria-modal="true" aria-label="{{ if eq .Language.Lang "fr" }}Rechercher{{ else }}Search{{ end }}" style="position:relative">
+    <input type="search" placeholder="{{ if eq .Language.Lang "fr" }}Chercher une carte, une lentille, un article…{{ else }}Search a card, a lens, an article…{{ end }}" autocomplete="off">
+    <p class="hint" hidden>{{ if eq .Language.Lang "fr" }}Rien trouvé — essayez un autre mot.{{ else }}Nothing found — try another word.{{ end }}</p>
+    <ul class="results"></ul>
+  </div>
+</div>

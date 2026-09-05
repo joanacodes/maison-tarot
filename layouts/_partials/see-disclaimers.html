@@ -1,0 +1,4 @@
+{{- $ctx := . }}{{ $anchor := "" }}{{ $gold := false }}{{ if reflect.IsMap . }}{{ $ctx = .ctx }}{{ $anchor = .anchor }}{{ $gold = .gold }}{{ end -}}
+{{- $fr := eq $ctx.Language.Lang "fr" -}}
+{{- $page := $ctx.Site.GetPage (cond $fr "/avertissements" "/disclaimers") -}}
+{{- with $page }}<a class="see-disclaimers{{ if $gold }} gold{{ end }}" href="{{ .RelPermalink }}{{ with $anchor }}#{{ . }}{{ end }}"><i>i</i>{{ if $fr }}Voir les avertissements{{ else }}See the disclaimers{{ end }}</a>{{ end -}}

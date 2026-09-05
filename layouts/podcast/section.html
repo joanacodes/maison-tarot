@@ -1,0 +1,39 @@
+{{ define "main" }}
+{{- $fr := eq .Language.Lang "fr" -}}
+{{- $eps := .RegularPages -}}
+{{- $today := now.Format "2006-01-02" -}}
+{{- $next := index (sort (where $eps "Params.start" "ge" $today) "Params.start" "asc") 0 -}}
+{{- $published := where $eps "Date" "le" now -}}
+{{- $latest := index $published 0 -}}
+{{- $cadence := index site.Params.podcast (printf "cadence_%s" .Language.Lang) -}}
+<section class="wrap page-top">
+  <p class="crumbs"><a href="{{ .Site.Home.RelPermalink }}">{{ site.Params.brand }}</a><span>›</span>{{ .Params.navTitle | default .Title }}</p>
+  <div class="grid" style="align-items:center">
+    <div class="s6">
+      <p class="eyebrow">{{ if $fr }}Ne le manquez pas{{ else }}Don’t miss out{{ end }}</p>
+      <h1 class="mt-0">{{ .Params.h1 | default .Title | safeHTML }}</h1>
+      <p class="lede">{{ .Params.lede }}</p>
+      {{ partial "platforms.html" (dict "ctx" . "urls" dict) }}
+    </div>
+    <div class="s5 o8">
+      {{ with $next }}
+      <p class="label">{{ if $fr }}Prochain épisode{{ else }}Next episode{{ end }} — {{ .Title }}</p>
+      <div class="countdown" data-countdown="{{ .Params.start }}{{ with .Params.startTime }}T{{ . }}{{ end }}"><div><b data-d>00</b><small>{{ if $fr }}jours{{ else }}days{{ end }}</small></div><div><b data-h>00</b><small>{{ if $fr }}heures{{ else }}hours{{ end }}</small></div><div><b data-m>00</b><small>min</small></div><div><b data-s>00</b><small>sec</small></div></div>
+      {{ else }}{{ with $latest }}{{ partial "image.html" (dict "page" . "src" (.Params.image | default "cover.jpg") "alt" .Title "ratio" "square") }}{{ end }}{{ end }}
+    </div>
+  </div>
+</section>
+<div class="ticker ink" aria-hidden="true" style="margin-top:2rem"><div class="track">{{ range seq 10 }}<span>{{ $cadence }}</span>{{ end }}</div></div>
+<section class="wrap band">
+  <p class="eyebrow">{{ if $fr }}Dernier entretien{{ else }}Latest interview{{ end }}</p>
+  {{ with $latest }}{{ partial "episode-card.html" . }}{{ else }}<p class="muted">{{ if $fr }}Le premier épisode arrive.{{ else }}The first episode is on its way.{{ end }}</p>{{ end }}
+  <div class="prose" style="margin-top:2rem">{{ .Content }}</div>
+</section>
+{{ $prev := after 1 $published }}
+{{ with $prev }}
+<section class="wrap" style="padding-bottom:clamp(3rem,7vw,6rem)">
+  <p class="eyebrow">{{ if $fr }}Épisodes précédents{{ else }}Previous episodes{{ end }}</p>
+  <div class="post-grid">{{ range . }}<a class="post-card" href="{{ .RelPermalink }}">{{ partial "image.html" (dict "page" . "src" (.Params.image | default "cover.jpg") "alt" .Title "ratio" "landscape") }}<span class="t">{{ .Title }}</span><span class="m">{{ if $fr }}Épisode{{ else }}Episode{{ end }} {{ .Params.episode }}{{ with .Params.guest }} · {{ . }}{{ end }} · {{ .Date.Format .Site.Language.Params.dateFormat }}</span><span class="d">{{ .Params.description }}</span></a>{{ end }}</div>
+</section>
+{{ end }}
+{{ end }}

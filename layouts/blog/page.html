@@ -1,0 +1,24 @@
+{{ define "main" }}
+{{- $lang := .Language.Lang -}}{{ $fr := eq $lang "fr" }}
+{{- $method := .Site.GetPage (cond $fr "/methode" "/method") -}}
+<article class="wrap page-top">
+  <p class="crumbs"><a href="{{ .Site.Home.RelPermalink }}">{{ site.Params.brand }}</a><span>›</span><a href="{{ .Parent.RelPermalink }}">{{ .Parent.Params.navTitle | default .Parent.Title }}</a><span>›</span>{{ .Title }}</p>
+  <div class="grid" style="align-items:end">
+    <div class="s8"><h1 class="mt-0">{{ .Title }}</h1></div>
+    <div class="s4">
+      <p class="article-meta"><b>{{ i18n "published" }}</b> {{ .Date.Format .Site.Language.Params.dateFormat }}{{ if ne .Lastmod .Date }} · <b>{{ i18n "updated" }}</b> {{ .Lastmod.Format .Site.Language.Params.dateFormat }}{{ end }} · {{ .ReadingTime }} {{ i18n "minRead" }}{{ with site.Params.author.name }} · {{ . }}{{ end }}</p>
+      {{ with .Params.summary }}<aside class="box short-answer" style="margin:1rem 0 0"><p class="eyebrow">{{ i18n "shortAnswer" }}</p><p>{{ . }}</p><p class="read-full mb-0">{{ i18n "readFull" }}</p></aside>{{ end }}
+    </div>
+  </div>
+  {{ with .Params.image }}<div style="margin-top:2rem" data-reveal>{{ partial "image.html" (dict "page" $ "src" . "alt" ($.Params.imageAlt | default $.Title) "ratio" "landscape" "loading" "eager" "sizes" "100vw") }}</div>{{ end }}
+  <div class="article-body">
+    <aside class="rail">
+      {{ with .TableOfContents }}<p class="label">{{ if $fr }}Dans cet article{{ else }}In this article{{ end }}</p><nav class="toc">{{ . }}</nav>{{ end }}
+      <p class="small muted" style="margin-top:2rem">{{ if $fr }}La méthode derrière cet article :{{ else }}The method behind this article:{{ end }} <a href="{{ $method.RelPermalink }}">{{ $method.Params.navTitle | default $method.Title }}</a>.</p>
+      <p>{{ partial "see-disclaimers.html" (dict "ctx" . "anchor" (cond $fr "pretentions" "claims")) }}</p>
+    </aside>
+    <div class="prose">{{ .Content }}</div>
+    <aside class="sticky">{{ partial "guide-form.html" . }}</aside>
+  </div>
+</article>
+{{ end }}
