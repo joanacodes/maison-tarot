@@ -54,6 +54,9 @@ Mêmes règles, même suffixe. Toutes dans `content/fr/` et `content/en/`.
 - `cover.jpg` par article (`content/fr/blog/<slug>/cover.jpg`, portrait 3:4) — une image par article, générée d'après son sujet.
 - `country-1.jpg`, `country-2.jpg` par pays (paysage 16:11) — pas de cliché touristique : une pièce, une fenêtre, une table ; la ville se devine, elle ne s'affiche pas.
 
+### Vignettes des sections de la Bibliothèque
+`tile.jpg` dans chaque dossier de section (`content/fr/bibliotheque/couleurs/tile.jpg`, etc. — même image copiée côté `content/en/library/…`). Paysage 5:2, très simple, une seule idée par image : couleurs = cinq bandes de peinture ; éléments = terre, eau, feu, air en quatre objets ; nombres = dix cailloux alignés ; énergies = deux mains, l'une ouverte l'autre fermée ; modes = un départ, une pause, un virage ; astrologie = une carte du ciel dessinée ; symboles = un détail gravé très agrandi ; Kabbale = un arbre stylisé ; histoire = un jeu ancien sur une table ; figures = un portrait de dos.
+
 ### Six visuels par lentille (fin de chaque page de la Bibliothèque, sauf les cartes)
 Fichiers `visual-1.jpg` … `visual-6.jpg` dans le dossier de la page (`content/fr/bibliotheque/elements/eau/visual-1.jpg` — la page devient alors un dossier avec `index.md`). Portrait 4:5. Chaque image illustre une idée de la page, sans texte. Décrivez-les dans le front matter (`gallery:` — src, title, text).
 > Exemple pour l'Eau : (1) une goutte qui s'infiltre dans du bois, (2) une maison dont un mur est moisi, (3) une rivière calme qui porte une barque, (4) deux personnes en conversation chaleureuse, (5) une tasse renversée sur une table, (6) un verre d'eau plein, en plein soleil.

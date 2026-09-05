@@ -695,3 +695,26 @@ body.menu-open { overflow: hidden; }
 /* page cartes : héros et header noirs, quel que soit le thème */
 .suits { background: #0a0a0a; margin-top: 0; padding-top: calc(var(--header-h) + 0.35rem); }
 @media (max-width: 999px) { .suits { margin-top: 0; padding-top: calc(var(--header-h) + 0.5rem); } }
+
+/* ——— Dossier « Glossaire » (mobile) ——— */
+.folder { display: none; }
+@media (max-width: 999px) {
+  .article-body .rail { display: none; }
+  .folder { display: block; }
+  .folder-panel { position: fixed; left: 0; right: 0; bottom: calc(var(--bottom-bar) + var(--strip-h, 0px) + env(safe-area-inset-bottom)); z-index: 57; max-height: 70svh; overflow: visible; background: var(--bg); color: var(--fg); border-top: 5px solid var(--gold); padding: 1rem var(--gutter) 1.5rem; transform: translateY(calc(100% - 5px)); transition: transform 0.6s var(--ease); background: rgba(122, 98, 52, 0.75); -webkit-backdrop-filter: blur(18px); backdrop-filter: blur(18px); color: #fff; --fg: #fff; --fg-2: #f4f4f4; --muted: rgba(255, 255, 255, 0.72); --line: rgba(255, 255, 255, 0.22); }
+  .folder-body { opacity: 0; transition: opacity 0.4s var(--ease); }
+  body.folder-open .folder-panel { transform: none; box-shadow: 0 -20px 50px rgba(0, 0, 0, 0.18); }
+  .folder-body { max-height: 62svh; overflow: auto; }
+  body.folder-open .folder-body { opacity: 1; transition-delay: 0.2s; }
+  .folder-tab { position: absolute; right: 0; bottom: 100%; margin-bottom: 0; background: var(--gold); color: #fff; border: 0; font: 500 var(--t-xs) var(--font-mono); letter-spacing: 0.04em; padding: 0.7rem 1.1rem 0.7rem 1.6rem; clip-path: polygon(0.9rem 0, 100% 0, 100% 100%, 0 100%); cursor: pointer; }
+  .folder-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8rem; }
+  .folder-head .mono { color: #fff; }
+  .folder-panel .pill { color: #fff; border-color: rgba(255, 255, 255, 0.6); }
+  .folder-panel .toc a, .folder-panel .index-list .title { color: #fff; }
+  .folder-panel .index-list .arrow { color: #fff; }
+}
+
+/* ——— Vignette des tuiles de la Bibliothèque ——— */
+.tile .tile-img { margin: -1.1rem -1.2rem 0.9rem; }
+.tile .tile-img .img-reveal, .tile .tile-img .img-placeholder { aspect-ratio: 5 / 2; border-radius: var(--r) var(--r) 0 0; font-size: 0.7rem; }
+.tile .tile-img .img-reveal img { filter: none; }

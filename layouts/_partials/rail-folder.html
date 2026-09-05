@@ -1,0 +1,14 @@
+{{- /* Mobile : dossier doré en bas à droite → panneau qui monte avec « Sur cette page » + « Dans la Bibliothèque ». Un seul par page. */ -}}
+{{- $fr := eq .Language.Lang "fr" -}}
+{{- if or .TableOfContents .Params.related -}}
+<div class="folder" data-folder>
+  <div class="folder-panel" id="folder-panel">
+    <button type="button" class="folder-tab" data-folder-open aria-expanded="false" aria-controls="folder-panel">{{ if $fr }}Glossaire — Sur cette page{{ else }}Glossary — On this page{{ end }}</button>
+    <div class="folder-body">
+    <div class="folder-head"><span class="mono">{{ if $fr }}Glossaire{{ else }}Glossary{{ end }}</span><button type="button" class="pill" data-folder-close>{{ i18n "close" }}</button></div>
+    {{ with .TableOfContents }}<p class="label">{{ if $fr }}Sur cette page{{ else }}On this page{{ end }}</p><nav class="toc">{{ . }}</nav>{{ end }}
+    {{ with .Params.related }}<p class="label" style="margin-top:1.5rem">{{ i18n "inLibrary" }}</p><ul class="index-list">{{ range . }}{{ with $.Site.GetPage . }}<li><a href="{{ .RelPermalink }}"><span class="title" style="font-size:var(--t-0)">{{ .Params.navTitle | default .Title }}</span><span class="arrow">→</span></a></li>{{ end }}{{ end }}</ul>{{ end }}
+    </div>
+  </div>
+</div>
+{{- end -}}

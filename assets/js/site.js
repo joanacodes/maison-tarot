@@ -262,6 +262,20 @@
     }
   }
 
+  /* — Dossier « Glossaire » (mobile) — */
+  const folder = d.querySelector('[data-folder]');
+  if (folder) {
+    const openF = () => { body.classList.add('folder-open'); folder.querySelector('[data-folder-open]').setAttribute('aria-expanded', 'true'); };
+    const closeF = () => { body.classList.remove('folder-open'); folder.querySelector('[data-folder-open]').setAttribute('aria-expanded', 'false'); };
+    folder.querySelector('[data-folder-open]')?.addEventListener('click', () => (body.classList.contains('folder-open') ? closeF() : openF()));
+    folder.querySelector('[data-folder-close]')?.addEventListener('click', closeF);
+    folder.querySelectorAll('.folder-panel a').forEach((a) => a.addEventListener('click', closeF));
+    d.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeF(); });
+    const strip = d.querySelector('[data-next-strip]');
+    const setStrip = () => d.documentElement.style.setProperty('--strip-h', strip && !strip.hidden ? strip.offsetHeight + 'px' : '0px');
+    setStrip(); addEventListener('resize', setStrip);
+  }
+
   /* — Langue : proposer, mémoriser, ne jamais rediriger — */
   const KEY = 'mt_lang';
   const read = () => d.cookie.split('; ').find((c) => c.startsWith(KEY + '='))?.split('=')[1];
