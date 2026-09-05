@@ -5,6 +5,6 @@ translationKey: podcast
 navTitle: "Podcast"
 type: podcast
 h1: "Nouvel épisode <em>disponible</em>."
-lede: "Des lecteurs qui parlent aux lecteurs. Un invité, une lentille, une conversation honnête sur ce qui marche, ce qui ne marche pas, et comment on compte."
+lede: "Des lecteurs qui parlent aux lecteurs. Un invité, une clé de lecture, une conversation honnête sur ce qui marche, ce qui ne marche pas, et comment on compte."
 ---
 Maison Tarot est une maison pour les lecteurs autant que pour les curieux. Le podcast, c’est là où les lecteurs comparent leurs notes.

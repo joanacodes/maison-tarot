@@ -8,4 +8,4 @@ h1: "Lenses, not <em>meanings</em>."
 lede: "Everything the House knows is here, for free. Not a list of 78 meanings to learn: systems — colours, numbers, elements, energies, astrology — you lay over any card to read it. Every card has its page, linked to its lenses."
 navTitle: "Library"
 ---
-Start with [colours](/library/colours/) or [elements](/library/elements/): they’re the fastest lenses. Then [numbers](/library/numbers/). Once you hold those three, you already read half the deck without having learned it. The rest — astrology, Kabbalah, symbols, history — is there for those who want to go further, and none of it is mandatory.
+Start with [colours](/library/tarot-colours/) or [elements](/library/four-elements/): they’re the fastest lenses. Then [numbers](/library/numerology/). Once you hold those three, you already read half the deck without having learned it. The rest — astrology, Kabbalah, symbols, history — is there for those who want to go further, and none of it is mandatory.

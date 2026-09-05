@@ -9,16 +9,16 @@
       <h1>{{ $p.h1 | default .Title | safeHTML }}</h1>
       <p class="lede" style="margin-top:1.2rem">{{ $p.lede }}</p>
       <div class="lens-row">
-        {{ with $.Site.GetPage (cond $fr "/bibliotheque/nombres" "/library/numbers") }}<a href="{{ .RelPermalink }}">{{ if $fr }}Les nombres{{ else }}Numbers{{ end }}</a>{{ end }}
+        {{ with $.Site.GetPage (cond $fr "/bibliotheque/numerologie" "/library/numerology") }}<a href="{{ .RelPermalink }}">{{ if $fr }}Les nombres{{ else }}Numbers{{ end }}</a>{{ end }}
         {{ with index $p.related 1 }}{{ with $.Site.GetPage . }}<a href="{{ .RelPermalink }}">{{ .Params.navTitle | default .Title }}</a>{{ end }}{{ end }}
-        {{ with $.Site.GetPage (cond $fr "/bibliotheque/couleurs" "/library/colours") }}<a href="{{ .RelPermalink }}">{{ if $fr }}Les couleurs{{ else }}Colours{{ end }}</a>{{ end }}
+        {{ with $.Site.GetPage (cond $fr "/bibliotheque/couleurs-tarot" "/library/tarot-colours") }}<a href="{{ .RelPermalink }}">{{ if $fr }}Les couleurs{{ else }}Colours{{ end }}</a>{{ end }}
         {{ if $p.astrology }}{{ with $.Site.GetPage (cond $fr "/bibliotheque/astrologie" "/library/astrology") }}<a href="{{ .RelPermalink }}">{{ if $fr }}L’astrologie{{ else }}Astrology{{ end }}</a>{{ end }}{{ end }}
-        {{ with $.Site.GetPage (cond $fr "/bibliotheque/energies" "/library/energies") }}<a href="{{ .RelPermalink }}">{{ if $fr }}Les énergies{{ else }}Energies{{ end }}</a>{{ end }}
+        {{ with $.Site.GetPage (cond $fr "/bibliotheque/energies-feminine-masculine" "/library/feminine-masculine-energies") }}<a href="{{ .RelPermalink }}">{{ if $fr }}Les énergies{{ else }}Energies{{ end }}</a>{{ end }}
       </div>
     </div>
     <div class="visual" data-reveal>{{ partial "image.html" (dict "page" . "src" $p.image "alt" (printf "%s — Rider-Waite-Smith, 1909" .Title) "ratio" "card" "loading" "eager" "sizes" "(min-width:1000px) 30vw, 80vw") }}</div>
     <div>
-      <p class="label">{{ if $fr }}Les lentilles{{ else }}The lenses{{ end }}</p>
+      <p class="label">{{ if $fr }}Les clés de lecture{{ else }}The lenses{{ end }}</p>
       <div class="facts two">
         <div><div class="k">{{ if $fr }}Famille{{ else }}House{{ end }}</div><div class="v">{{ $p.suitLabel }}</div></div>
         {{ with $p.numerology }}<div><div class="k">{{ if $fr }}Nombre{{ else }}Number{{ end }}</div><div class="v" style="font-size:var(--t-0)">{{ . }}</div></div>{{ end }}

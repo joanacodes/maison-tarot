@@ -14,7 +14,7 @@ stepsTitle: "On essaie d’abord. On explique <em>après</em>."
 stepsText: "Ce qu’on ressent en lisant une carte ne se raconte pas. Alors vous tirez une carte dans les dix premières minutes, et le reste vient de là."
 steps:
   - { title: "Vous tirez", text: "Une carte que vous n’avez jamais vue, tout de suite. Sans vocabulaire, sans significations. Juste ce que vous voyez.", image: "step-1.jpg", alt: "Une main retourne une carte" }
-  - { title: "Vous lisez avec une lentille", text: "Les couleurs, le nombre, l’élément. Une seule à la fois. La carte se met à parler sans que vous l’ayez apprise.", image: "step-2.jpg", alt: "Une carte, un carnet, une note" }
+  - { title: "Vous lisez avec une clé de lecture", text: "Les couleurs, le nombre, l’élément. Une seule à la fois. La carte se met à parler sans que vous l’ayez apprise.", image: "step-2.jpg", alt: "Une carte, un carnet, une note" }
   - { title: "On compare", text: "Vous lisez, je lis, on regarde ce qui colle et ce qui ne colle pas. Le moment où vous vous dites « je sais faire ça » — c’est le but.", image: "step-3.jpg", alt: "Deux personnes penchées sur un tirage" }
 offers:
   - kicker: "seul·e avec l’hôte · 60 min · visio"
@@ -25,19 +25,19 @@ offers:
     image: "session.jpg"
     alt: "Un ordinateur, une carte, une main"
     details:
-      - { q: "Ce qui est inclus", a: "Une heure en visio, un tirage lu à deux, les lentilles utilisées envoyées par écrit après. Aucun abonnement." }
+      - { q: "Ce qui est inclus", a: "Une heure en visio, un tirage lu à deux, les clés de lecture utilisées envoyées par écrit après. Aucun abonnement." }
       - { q: "Déroulé", a: "Vous ne me dites rien. On tire, vous lisez d’abord, je lis ensuite, on compare." }
       - { q: "Prix", a: "Affiché dès que le processeur de paiement est validé. Une session s’offre." }
   - kicker: "en groupe · 3 h · 12 personnes"
     title: "Ateliers"
-    text: "Une lentille par atelier : les couleurs, les nombres, les éléments et les énergies. À la fin, vous lisez une carte inconnue devant les autres."
+    text: "Une clé de lecture par atelier : les couleurs, les nombres, les éléments et les énergies. À la fin, vous lisez une carte inconnue devant les autres."
     cta: "Voir les ateliers"
     ref: "/ateliers"
     image: "workshop.jpg"
     alt: "Une table longue, des cartes étalées"
     details:
-      - { q: "Ce qui est inclus", a: "Trois heures, douze personnes au plus, la grille de la lentille par écrit, un exercice de lecture à l’aveugle." }
-      - { q: "Déroulé", a: "On essaie dans les dix premières minutes. Puis on tourne la lentille dans tous les sens jusqu’à ce qu’elle devienne un réflexe." }
+      - { q: "Ce qui est inclus", a: "Trois heures, douze personnes au plus, la grille de la clé de lecture par écrit, un exercice de lecture à l’aveugle." }
+      - { q: "Déroulé", a: "On essaie dans les dix premières minutes. Puis on tourne la clé de lecture dans tous les sens jusqu’à ce qu’elle devienne un réflexe." }
       - { q: "Prix", a: "Affiché dès que le processeur de paiement est validé. Pas de niveaux, pas de certificat." }
   - kicker: "gratuit · en ligne et en personne"
     title: "Événements"
@@ -57,6 +57,6 @@ whereTitle: "Où la Maison reçoit, en français"
 ---
 Bienvenue à Maison Tarot. Ici, on apprend à lire les cartes, on vérifie si ça marche, et on garde ce qui tient.
 
-Il y a une hôte. Elle a fait 300 tirages pour des inconnus qui ne lui disaient rien, elle a compté, et elle publie ses chiffres — y compris ses erreurs. Elle ne vend pas de don, parce qu’elle n’en a pas que vous n’ayez pas. Elle enseigne une méthode : des lentilles pour lire une carte que vous n’avez jamais vue, sans mémoriser les 78.
+Il y a une hôte. Elle a fait 300 tirages pour des inconnus qui ne lui disaient rien, elle a compté, et elle publie ses chiffres — y compris ses erreurs. Elle ne vend pas de don, parce qu’elle n’en a pas que vous n’ayez pas. Elle enseigne une méthode : des clés de lecture pour lire une carte que vous n’avez jamais vue, sans mémoriser les 78.
 
 La Maison a des règles. Pas de hiérarchie entre lecteurs, pas de dépendance, pas de gourou. Vous êtes la personne qui décide ; les cartes ne sont qu’un écran. Le but, écrit noir sur blanc : que vous n’ayez plus besoin de nous.

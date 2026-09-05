@@ -15,19 +15,19 @@ formats:
     title: "Session"
     image: "session.jpg"
     text: "Vous arrivez avec une question ou avec rien. On tire, vous lisez d’abord, je lis ensuite, on compare. Vous repartez avec une chose que vous savez faire de plus."
-    included: ["Une heure en visio, dans votre heure locale", "Un tirage lu à deux", "Les lentilles utilisées, envoyées par écrit après la session", "Aucun abonnement, aucune suite obligatoire"]
+    included: ["Une heure en visio, dans votre heure locale", "Un tirage lu à deux", "Les clés de lecture utilisées, envoyées par écrit après la session", "Aucun abonnement, aucune suite obligatoire"]
     price: ""
 formatsNote: "Prix TTC, en euros ou dans votre devise, affiché dès que le processeur de paiement est validé. Une session s’offre — à soi, ou à quelqu’un."
 stepsTitle: "Comment ça se passe"
 steps:
   - { title: "Vous réservez un créneau", text: "Il s’affiche dans votre heure locale, que vous soyez à Montréal, Bruxelles ou Genève.", image: "step-1.jpg" }
   - { title: "Vous ne me dites rien", text: "Ni votre question, ni votre situation. C’est la règle de la Maison, et c’est ce qui rend l’exercice vérifiable.", image: "step-2.jpg" }
-  - { title: "On lit, vous d’abord", text: "Je vous donne une lentille, vous lisez, je lis à mon tour, et on compare. Quand ça ne colle pas, on regarde pourquoi : c’est là qu’on apprend.", image: "step-3.jpg" }
+  - { title: "On lit, vous d’abord", text: "Je vous donne une clé de lecture, vous lisez, je lis à mon tour, et on compare. Quand ça ne colle pas, on regarde pourquoi : c’est là qu’on apprend.", image: "step-3.jpg" }
 faq:
   - q: "Est-ce une lecture ou un cours ?"
     a: "Un cours. La lecture y sert de matière, comme un texte sert de matière à un cours de langue. Si vous voulez seulement être lu·e, les événements gratuits sont faits pour ça."
   - q: "Faut-il déjà connaître les cartes ?"
-    a: "Non. On commence par lire, pas par réciter. Les 78 significations ne sont jamais à apprendre par cœur : les lentilles — nombres, éléments, couleurs — font le travail."
+    a: "Non. On commence par lire, pas par réciter. Les 78 significations ne sont jamais à apprendre par cœur : les clés de lecture — nombres, éléments, couleurs — font le travail."
   - q: "Quel jeu ?"
     a: "Le Rider-Waite-Smith. Si vous n’en avez pas encore, je vous dis lequel prendre et pourquoi ce choix compte moins qu’on ne le croit."
   - q: "Et si la lecture est fausse ?"

@@ -1,10 +1,10 @@
 ---
-title: "Ateliers de tarot — trois heures, une lentille, douze personnes"
-description: "Les ateliers Maison Tarot : en ligne ou en personne, trois heures, douze personnes, une lentille à la fois — couleurs, nombres, éléments, énergies, astrologie. Pratique d’abord."
+title: "Ateliers de tarot — trois heures, une clé de lecture, douze personnes"
+description: "Les ateliers Maison Tarot : en ligne ou en personne, trois heures, douze personnes, une clé de lecture à la fois — couleurs, nombres, éléments, énergies, astrologie. Pratique d’abord."
 translationKey: workshops
 type: offer
 eyebrow: "en groupe"
-h1: "Une lentille à la fois, et vous lisez une carte que vous n’avez <em>jamais vue</em>."
+h1: "Une clé de lecture à la fois, et vous lisez une carte que vous n’avez <em>jamais vue</em>."
 lede: "Un atelier, c’est trois heures, douze personnes au plus, et une seule chose à apprendre : lire par les couleurs, ou par les nombres, ou par les éléments. À la fin, vous lisez une carte inconnue devant les autres. Ça marche presque toujours, et c’est ce moment-là qui compte."
 image: "workshop.jpg"
 imageAlt: "Une table longue, des cartes étalées, des gens penchés dessus"
@@ -29,11 +29,11 @@ formats:
     text: "Terre, eau, feu, air ; féminin, masculin. Quatre familles et deux dynamiques qui suffisent à lire la moitié du jeu."
     included: ["Trois heures, douze personnes", "Les quatre éléments et les deux énergies, par écrit", "Un exercice de lecture à l’aveugle"]
     price: ""
-formatsNote: "Prix TTC, affichés dès que le processeur de paiement est validé. Pas de niveaux, pas de certificat, pas de parcours obligatoire : on commence par la lentille qui vous parle. Un atelier s’offre."
+formatsNote: "Prix TTC, affichés dès que le processeur de paiement est validé. Pas de niveaux, pas de certificat, pas de parcours obligatoire : on commence par la clé de lecture qui vous parle. Un atelier s’offre."
 stepsTitle: "Comment ça se passe"
 steps:
   - { title: "On essaie avant d’expliquer", text: "Vous tirez une carte dans les dix premières minutes. Ce que vous ressentez à ce moment-là ne se raconte pas ; il faut le vivre.", image: "step-1.jpg" }
-  - { title: "Une seule lentille", text: "Trois heures sur une chose, pas trente minutes sur dix. On la tourne dans tous les sens jusqu’à ce qu’elle devienne un réflexe.", image: "step-2.jpg" }
+  - { title: "Une seule clé de lecture", text: "Trois heures sur une chose, pas trente minutes sur dix. On la tourne dans tous les sens jusqu’à ce qu’elle devienne un réflexe.", image: "step-2.jpg" }
   - { title: "Lecture à l’aveugle", text: "À la fin, chacun lit une carte qu’il ne connaît pas, devant les autres. Le moment où vous vous dites « ah, je sais faire ça » — c’est pour ça qu’on est là.", image: "step-3.jpg" }
 faq:
   - q: "Faut-il avoir suivi un atelier avant un autre ?"

@@ -127,6 +127,10 @@ defaultContentLanguageInSubdir = false
     pageRef = "/evenements"
     weight = 30
   [[languages.fr.menus.main]]
+    name = "Apprendre"
+    pageRef = "/apprendre-le-tarot"
+    weight = 35
+  [[languages.fr.menus.main]]
     name = "Méthode"
     pageRef = "/methode"
     weight = 40
@@ -184,6 +188,10 @@ defaultContentLanguageInSubdir = false
     name = "Events"
     pageRef = "/events"
     weight = 30
+  [[languages.en.menus.main]]
+    name = "Learn"
+    pageRef = "/learn-tarot"
+    weight = 35
   [[languages.en.menus.main]]
     name = "Method"
     pageRef = "/method"
