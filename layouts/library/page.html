@@ -19,7 +19,7 @@
       {{ with .TableOfContents }}<p class="label">{{ if $fr }}Sur cette page{{ else }}On this page{{ end }}</p><nav class="toc">{{ . }}</nav>{{ end }}
       {{ with .Params.related }}<p class="label" style="margin-top:2rem">{{ i18n "inLibrary" }}</p><ul class="index-list">{{ range . }}{{ with $.Site.GetPage . }}<li><a href="{{ .RelPermalink }}"><span class="title" style="font-size:var(--t-0)">{{ .Title }}</span><span class="arrow">→</span></a></li>{{ end }}{{ end }}</ul>{{ end }}
     </aside>
-    <div class="prose">{{ .Content }}</div>
+    <div class="prose">{{ .Content }}{{ partial "author.html" . }}</div>
     <aside class="sticky">
       {{ partial "guide-form.html" . }}
     </aside>

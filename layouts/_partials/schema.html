@@ -8,16 +8,21 @@
 {{- $nodes = $nodes | append $org -}}
 {{- $nodes = $nodes | append (dict "@type" "WebSite" "@id" (printf "%s#website" site.BaseURL) "name" site.Params.brand "url" site.BaseURL "inLanguage" (slice "fr" "en") "publisher" (dict "@id" $orgId)) -}}
 {{- if site.Params.author.name -}}
-  {{- $nodes = $nodes | append (dict "@type" "Person" "@id" $authorId "name" site.Params.author.name "url" (.Site.GetPage (cond (eq $lang "fr") "/a-propos" "/about")).Permalink "sameAs" site.Params.author.sameAs "worksFor" (dict "@id" $orgId) "knowsLanguage" (slice "fr" "en") "homeLocation" (dict "@type" "Place" "name" site.Params.author.basedIn)) -}}
+  {{- $person := dict "@type" "Person" "@id" $authorId "name" site.Params.author.name "url" (.Site.GetPage (cond (eq $lang "fr") "/a-propos" "/about")).Permalink "sameAs" site.Params.author.sameAs "worksFor" (dict "@id" $orgId) "knowsLanguage" (slice "fr" "en") "homeLocation" (dict "@type" "Place" "name" site.Params.author.basedIn) "jobTitle" site.Params.author.jobTitle -}}
+  {{- with .Site.Language.Params.authorShortDescription }}{{ $person = merge $person (dict "description" .) }}{{ end -}}
+  {{- with resources.Get site.Params.author.image }}{{ $person = merge $person (dict "image" (.Fill "600x600 webp q82").Permalink) }}{{ end -}}
+  {{- $nodes = $nodes | append $person -}}
 {{- end -}}
 {{- $author := cond (ne site.Params.author.name "") (dict "@id" $authorId) (dict "@id" $orgId) -}}
-{{- if eq .Type "blog" -}}
+{{- $pageImg := "" }}{{ with .Params.image }}{{ with $.Resources.Get . }}{{ $pageImg = (.Fill "1200x630 webp q80").Permalink }}{{ else }}{{ with resources.Get . }}{{ $pageImg = (.Fill "1200x630 webp q80").Permalink }}{{ end }}{{ end }}{{ end }}{{ if not $pageImg }}{{ $pageImg = site.Params.defaultImage | absURL }}{{ end -}}
+{{- $nodes = $nodes | append (dict "@type" "WebPage" "@id" (printf "%s#webpage" .Permalink) "url" .Permalink "name" .Title "description" .Params.description "inLanguage" $lang "isPartOf" (dict "@id" (printf "%s#website" site.BaseURL)) "primaryImageOfPage" $pageImg "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02")) -}}
+{{- if in (slice "blog" "library" "cards" "podcast") .Type -}}
   {{- if .IsPage -}}
-  {{- $nodes = $nodes | append (dict "@type" "Article" "headline" .Title "description" .Params.description "url" .Permalink "inLanguage" $lang "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02") "author" $author "publisher" (dict "@id" $orgId) "mainEntityOfPage" .Permalink) -}}
-  {{- end -}}
-{{- else if in (slice "library" "cards") .Type -}}
-  {{- if .IsPage -}}
-  {{- $nodes = $nodes | append (dict "@type" "Article" "headline" .Title "description" .Params.description "url" .Permalink "inLanguage" $lang "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02") "author" $author "publisher" (dict "@id" $orgId)) -}}
+  {{- $art := dict "@type" (cond (eq .Type "blog") "BlogPosting" "Article") "headline" .Title "description" .Params.description "url" .Permalink "inLanguage" $lang "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02") "author" $author "publisher" (dict "@id" $orgId) "mainEntityOfPage" (dict "@id" (printf "%s#webpage" .Permalink)) "image" $pageImg "wordCount" .WordCount -}}
+  {{- with .Params.tags }}{{ $art = merge $art (dict "keywords" (delimit . ", ")) }}{{ end -}}
+  {{- with .Params.categories }}{{ $art = merge $art (dict "articleSection" (index . 0)) }}{{ end -}}
+  {{- if eq .Type "cards" }}{{ $art = merge $art (dict "about" (dict "@type" "Thing" "name" (printf "%s (Rider-Waite-Smith tarot)" .Params.navTitle))) }}{{ end -}}
+  {{- $nodes = $nodes | append $art -}}
   {{- end -}}
 {{- else if in (slice "offer" "metro" "country") .Type -}}
   {{- $nodes = $nodes | append (dict "@type" "Service" "name" .Title "description" .Params.description "url" .Permalink "provider" (dict "@id" $orgId) "serviceType" (cond (eq $lang "fr") "Sessions et ateliers de tarot (divertissement)" "Tarot sessions and workshops (entertainment)") "availableLanguage" (slice "fr" "en") "areaServed" (.Params.areaServed | default (slice))) -}}

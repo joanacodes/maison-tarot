@@ -23,7 +23,7 @@
 </section>
 <section class="wrap band"><div class="article-body" style="border:0;margin-top:0;padding-top:0">
   <aside class="rail">{{ with .TableOfContents }}<p class="label">{{ if $fr }}Dans cet épisode{{ else }}In this episode{{ end }}</p><nav class="toc">{{ . }}</nav>{{ end }}<p>{{ partial "see-disclaimers.html" (dict "ctx" .) }}</p></aside>
-  <div class="prose">{{ .Content }}</div>
+  <div class="prose">{{ .Content }}{{ partial "author.html" . }}</div>
   <aside class="sticky">
     {{ $others := where .Parent.RegularPages "Permalink" "ne" .Permalink }}{{ with first 3 $others }}<p class="label">{{ if $fr }}Autres épisodes{{ else }}More episodes{{ end }}</p><ul class="index-list">{{ range . }}<li><a href="{{ .RelPermalink }}"><span class="title" style="font-size:var(--t-0)">{{ .Title }}</span><span class="arrow">→</span></a></li>{{ end }}</ul>{{ end }}
     <div style="margin-top:1.5rem">{{ partial "guide-form.html" . }}</div>

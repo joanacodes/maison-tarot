@@ -6,6 +6,6 @@
     <div class="s4">{{ with .Params.lede }}<p class="lede" style="font-size:var(--t-0)">{{ . }}</p>{{ end }}</div>
   </div>
   <div class="prose" style="margin-top:2rem">{{ .Content }}</div>
-  <ul class="index-list" style="margin-top:2rem;max-width:var(--measure)">{{ range .Pages }}<li><a href="{{ .RelPermalink }}"><span><span class="title">{{ .Title }}</span>{{ with .Params.description }}<span class="meta">{{ . }}</span>{{ end }}</span><span class="arrow">→</span></a></li>{{ end }}</ul>
+  <ul class="index-list" style="margin-top:2rem;max-width:var(--measure)">{{ range .Pages }}<li><a href="{{ .RelPermalink }}"><span><span class="title">{{ .Params.navTitle | default .Title }}</span>{{ with .Params.description }}<span class="meta">{{ . }}</span>{{ end }}</span><span class="arrow">→</span></a></li>{{ end }}</ul>
 </section>
 {{ end }}

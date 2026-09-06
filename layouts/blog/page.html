@@ -17,7 +17,7 @@
       <p class="small muted" style="margin-top:2rem">{{ if $fr }}La méthode derrière cet article :{{ else }}The method behind this article:{{ end }} <a href="{{ $method.RelPermalink }}">{{ $method.Params.navTitle | default $method.Title }}</a>.</p>
       <p>{{ partial "see-disclaimers.html" (dict "ctx" . "anchor" (cond $fr "pretentions" "claims")) }}</p>
     </aside>
-    <div class="prose">{{ .Content }}</div>
+    <div class="prose">{{ .Content }}{{ partial "author.html" . }}</div>
     <aside class="sticky">{{ partial "guide-form.html" . }}</aside>
   </div>
 </article>

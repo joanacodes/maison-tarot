@@ -20,6 +20,7 @@ defaultContentLanguageInSubdir = false
       locale = "fr_FR"
       dateFormat = "2 January 2006"
       email = "bonjour@maisontarot.fr"
+      authorShortDescription = ""   # ex. « Lectrice et enseignante de tarot à Paris. 300 tirages à l’aveugle, comptés. » (vide = ligne masquée)
       bookedUntil = "février 2027"      # vide = pas de badge
       bookedLabel = "Disponible en"
       guideFile = "/guide/maison-tarot-guide-du-lecteur.pdf"
@@ -32,6 +33,7 @@ defaultContentLanguageInSubdir = false
       locale = "en_GB"
       dateFormat = "2 January 2006"
       email = "hello@maisontarot.com"
+      authorShortDescription = ""   # e.g. "Tarot reader and teacher in Paris. 300 blind readings, counted." (empty = line hidden)
       bookedUntil = "February 2027"
       bookedLabel = "Available in"
       guideFile = "/guide/maison-tarot-readers-guide.pdf"
@@ -39,6 +41,7 @@ defaultContentLanguageInSubdir = false
 [params]
   brand = "Maison Tarot"
   tagline = "Demystify mysticism."
+  defaultImage = "/og-default.png"   # image de partage par défaut (1200×630)
   # Cal.com : "utilisateur/type" (vide = réservation fermée, aucun bouton mort)
   calLink = ""
   # Brevo (ou autre) : URL d'action du formulaire du Guide du lecteur (vide = formulaire désactivé)
@@ -54,6 +57,8 @@ defaultContentLanguageInSubdir = false
     cadence_en = "New episodes every Thursday"
   [params.author]
     name = ""            # [À COMPLÉTER] — sans nom, aucun schema Person n'est émis
+    image = "author.jpg"  # portrait dans assets/ (carré, ≥ 800 px) — placeholder tant qu'il manque
+    jobTitle = "Tarot reader and teacher"
     handle = "maisontarot"
     basedIn = "Paris"
     email = "hello@maisontarot.com"   # contact par langue : languages.<lang>.params.email
@@ -83,6 +88,11 @@ defaultContentLanguageInSubdir = false
     hitRate = "≈ 90 %"
     chartOverall = "30–40 %"
     chartSLC = "75–90 %"
+
+enableGitInfo = true
+
+[frontmatter]
+  lastmod = [":git", "lastmod", "date"]
 
 [markup]
   [markup.goldmark.renderer]

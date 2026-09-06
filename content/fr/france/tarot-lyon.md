@@ -1,41 +1,63 @@
 ---
-# MODÈLE de page métro — copier vers tarot-<ville>.md dans le dossier du pays. Le nom du fichier = l'URL.
-# RÈGLE : si le corps ne peut pas être rempli avec du VRAI (boutiques vérifiées, événements datés,
-# traditions réelles), la page reste draft: true. Un événement en personne dans la ville s'affiche
-# automatiquement sur la page (via Params.city de l'événement).
-title: "Ateliers et tarot à Lyon — en ligne, en français, et en personne quand la Maison passe"
-description: "Tarot à Lyon : ateliers en ligne en heure de Paris, ateliers en personne quand la Maison passe, et où trouver un lecteur, une boutique, un événement sur place."
+title: Ateliers de tarot à Lyon — en ligne et en personne, en français
+description: 'Apprendre à lire le tarot depuis Lyon (Auvergne-Rhône-Alpes) : ateliers
+  et sessions en ligne à votre heure, prix en EUR, ateliers en personne quand la Maison
+  passe, et lectures gratuites en événement. Méthode documentée, 300 tirages comptés.'
 type: metro
-draft: true
 city: Lyon
 region: Auvergne-Rhône-Alpes
+country: France
 tier: 1
-timezoneLabel: Paris
+timezone: Europe/Paris
+timezoneLabel: Lyon
 hreflangRegion: fr-FR
-areaServed: ["Lyon, France"]
-h1: "Le tarot à <em>Lyon</em>"
-intro: "Depuis Paris, la Maison propose aux Lyonnais des sessions et des ateliers en ligne, en heure de Paris — et passe en personne quand un événement s’organise. En dessous : les adresses réelles de la ville, vérifiées, pour lire, acheter un jeu ou rencontrer d’autres lecteurs."
+areaServed:
+- Lyon, France
+h1: Le tarot à <em>Lyon</em>
+intro: 'Depuis Paris, la Maison propose aux gens de Lyon des sessions et des ateliers
+  en ligne, en français, à votre heure — et passe en personne quand un événement s’organise.
+  Rien à réciter, pas de don requis : cinq clés de lecture et une méthode qui compte
+  ses erreurs.'
+navTitle: Lyon
+categories:
+- Villes
+tags:
+- tarot Lyon
+- atelier tarot Lyon
+- cours de tarot Lyon
 faq:
-  - { q: "Un atelier en ligne vaut-il un atelier en personne ?", a: "Le contenu est le même ; la différence est dans la lecture à l’aveugle finale, qui se fait devant l’écran au lieu de la table. Sur mes 300 tirages gratuits, la grande majorité était à distance, sans différence notable." }
-  - { q: "La Maison vient-elle à Lyon ?", a: "Quand un événement s’organise. Il s’affiche sur cette page et sur la page Événements, et le Guide du lecteur vous prévient." }
-  - { q: "Où acheter un Rider-Waite-Smith à Lyon ?", a: "Les adresses vérifiées sont plus haut sur cette page." }
-  - { q: "Le tarot est-il légal en France ?", a: "Oui. Il est proposé à des fins de divertissement, dans le cadre du droit de la consommation." }
-  - { q: "Refusez-vous certaines questions ?", a: "Oui : santé, décès, grossesse, procédures en cours, placements. La liste complète est sur la page À propos." }
-sources: []
-lastLocalCheck:
+- q: Les ateliers en ligne sont-ils à l’heure de Lyon ?
+  a: Ils sont annoncés en heure de Paris et s’affichent dans votre fuseau à la réservation.
+    Les ateliers en ligne sont à l’heure de Paris, la vôtre.
+- q: Puis-je payer en EUR ?
+  a: Oui. Les prix s’affichent en EUR à la réservation, TTC, dès que le processeur
+    de paiement est validé.
+- q: La Maison fait-elle des lectures à Lyon ?
+  a: Pas de lectures payantes, nulle part. Les lectures ont lieu en événement, gratuitement,
+    en ligne et parfois en personne.
+- q: Faut-il un jeu pour commencer ?
+  a: 'Un Rider-Waite-Smith. Si vous n’en avez pas, dites-le à la réservation : il
+    y a des solutions.'
+local:
+  shops: []
+  events: []
+  traditions: []
+translationKey: metro-france-lyon
 ---
-### Boutiques et librairies
+## Apprendre le tarot depuis Lyon {#depuis}
 
-{{< todo >}}À COMPLÉTER — 3 à 6 adresses réelles (nom, quartier, ce qu’on y trouve), vérifiées le …{{< /todo >}}
+Tout ce que la Maison enseigne s’apprend en ligne, en visio, à douze personnes au plus pour les [ateliers](/fr/ateliers/) et seul·e avec l’hôte pour les [sessions](/fr/sessions/). Les ateliers en ligne sont à l’heure de Paris, la vôtre. Les créneaux s’affichent automatiquement dans votre fuseau, et les prix en EUR.
 
-### Événements
+Vous ne payez jamais une lecture : les lectures ont lieu en [événement](/fr/evenements/), gratuitement. Ce que vous payez, c’est la leçon.
 
-{{< todo >}}À COMPLÉTER — dates réelles (salons, rencontres), mises à jour deux fois par an.{{< /todo >}}
+## Par quoi commencer {#commencer}
 
-### Traditions
+Par une carte, aujourd’hui, avant tout cours : [le parcours](/fr/apprendre-le-tarot/) explique les cinq clés — [couleurs](/fr/bibliotheque/couleurs-tarot/), [éléments](/fr/bibliotheque/quatre-elements/), [numérologie](/fr/bibliotheque/numerologie/), [énergies](/fr/bibliotheque/energies-feminine-masculine/), [modes](/fr/bibliotheque/modes-astrologiques/) — et l’article [Comment lire les cartes quand on débute](/fr/blog/apprendre-a-lire-le-tarot-debutant/) donne la phrase à se dire avant le premier tirage. Le [Guide du lecteur](/fr/guide/) est gratuit.
 
-{{< todo >}}À COMPLÉTER — Lyon : Allan Kardec y est né ; le spiritisme, Fourvière, etc. Uniquement ce qui est vrai et sourcé.{{< /todo >}}
+## Quand la Maison vient à Lyon {#en-personne}
 
-### Si vous préférez une lecture en personne à Lyon
+Les ateliers en personne s’organisent ville par ville, quand il y a assez de monde pour une table de douze. Ils s’affichent sur cette page et sur la page [Événements](/fr/evenements/) dès qu’ils existent ; le Guide vous prévient. Si vous êtes plusieurs à Lyon à vouloir un atelier, [écrivez-nous](/fr/contact/) : c’est comme ça qu’ils naissent.
 
-{{< todo >}}À COMPLÉTER — oui, renvoyer vers des lecteurs locaux : ça prouve que la page sert le lecteur, pas seulement la Maison.{{< /todo >}}
+## Ce que la Maison ne fait pas, à Lyon comme ailleurs {#refus}
+
+Pas de lecture sur la santé, la mort, la grossesse, une procédure en cours ou vos finances ; pas de « malédiction à lever ». Tout est proposé à des fins de divertissement, pour les plus de 18 ans. [Les avertissements, tous au même endroit](/fr/avertissements/).

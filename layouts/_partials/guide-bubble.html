@@ -1,0 +1,9 @@
+{{- /* Bulle « Guide du lecteur » : en bas à gauche, refermable, mémorisée pour la session. */ -}}
+{{- $fr := eq .Language.Lang "fr" -}}
+<aside class="guide-bubble glass glass-gold" data-guide-bubble hidden>
+  <button type="button" class="pill" data-bubble-close aria-label="{{ i18n "close" }}">×</button>
+  <p class="eyebrow" style="margin-bottom:.4rem">{{ i18n "free" }}</p>
+  <p class="author-name" style="margin:0 0 .3rem">{{ i18n "guideTitle" }}</p>
+  <p class="small muted" style="margin:0 0 .8rem">{{ if $fr }}Les cinq clés en quelques pages, et les prochains événements.{{ else }}The five lenses in a few pages, and the next events.{{ end }}</p>
+  <a class="btn btn-solid btn-arrow" href="{{ (.Site.GetPage "/guide").RelPermalink }}" style="font-size:var(--t-xs)">{{ i18n "download" }}</a>
+</aside>

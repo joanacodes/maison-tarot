@@ -10,7 +10,7 @@
   <div class="post-hero">
     <div>
       <p class="eyebrow">{{ i18n "latest" }}</p>
-      <h1 class="mt-0" style="font-size:var(--t-3)"><a href="{{ .RelPermalink }}" style="text-decoration:none">{{ .Title }}</a></h1>
+      <h1 class="mt-0" style="font-size:var(--t-2)"><a href="{{ .RelPermalink }}" style="text-decoration:none">{{ .Title }}</a></h1>
       <p class="lede" style="font-size:var(--t-0)">{{ .Params.summary | default .Params.description }}</p>
       <p class="article-meta">{{ .Date.Format .Site.Language.Params.dateFormat }} · {{ .ReadingTime }} {{ i18n "minRead" }}{{ with .Params.categories }} · {{ delimit . ", " }}{{ end }}</p>
       <div class="actions"><a class="btn btn-arrow" href="{{ .RelPermalink }}">{{ if $fr }}Lire{{ else }}Read{{ end }}</a></div>
@@ -25,19 +25,15 @@
   </a>
   {{ end }}{{ end }}
   {{ if $posts }}
-  <div class="grid" style="align-items:start">
-  <div class="s8">
   <div class="post-tools" data-posts-tools>
     <div class="field"><label for="post-q">{{ i18n "searchArticles" }}</label><input id="post-q" type="search" data-post-search autocomplete="off"></div>
     <div class="filters" style="margin:0"><button class="chip" type="button" data-filter="cat" data-value="" aria-pressed="true">{{ if $fr }}Tout{{ else }}All{{ end }}</button>{{ range $cats }}<button class="chip" type="button" data-filter="cat" data-value="{{ . | urlize }}" aria-pressed="false">{{ . }}</button>{{ end }}</div>
   </div>
-  <div class="post-grid" data-posts data-batch="8" style="grid-template-columns:1fr 1fr">
+  <div class="post-grid three" data-posts data-batch="9">
     {{ range $posts }}<a class="post-card" href="{{ .RelPermalink }}" data-cat="{{ with .Params.categories }}{{ delimit (apply . "urlize" ".") " " }}{{ end }}" data-text="{{ .Title | lower }} {{ .Params.description | lower }} {{ with .Params.tags }}{{ delimit . " " | lower }}{{ end }}" hidden>{{ partial "image.html" (dict "page" . "src" (.Params.image | default "cover.jpg") "alt" .Title "ratio" "landscape" "sizes" "(min-width:800px) 40vw, 100vw") }}<span class="t">{{ .Title }}</span><span class="m">{{ .Date.Format .Site.Language.Params.dateFormat }} · {{ .ReadingTime }} {{ i18n "minRead" }}{{ with .Params.categories }} · {{ delimit . ", " }}{{ end }}</span><span class="d">{{ .Params.description }}</span></a>{{ end }}
   </div>
   <p class="mono muted center" data-posts-end hidden style="margin-top:2rem">{{ i18n "noMore" }}</p>
-  </div>
-  <div class="s4 sticky" style="padding-top:1.5rem">{{ partial "guide-form.html" . }}</div>
-  </div>
   {{ end }}
 </section>
+{{ partial "guide-bubble.html" . }}
 {{ end }}

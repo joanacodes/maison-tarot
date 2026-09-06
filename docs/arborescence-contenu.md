@@ -39,11 +39,11 @@ Slugs de la Bibliothèque : numerologie / numerology · quatre-elements / four-e
 ### Les cinq essentiels — 27 pages
 | Section | Pages | État | Source |
 | --- | --- | --- | --- |
-| Couleurs | intro + rouge, orange, jaune, vert, bleu, blanc, noir, gris, violet, or/brun (10) | ⬜ | 📝 colorimétrie (une ligne par couleur → à développer) |
+| Couleurs | intro + rouge, orange, jaune, vert, bleu, blanc, noir, gris, violet, or/brun (10) | ✅ | 📝 colorimétrie |
 | Éléments | intro + terre, eau, feu, air (4) | ✅ | 📝 |
-| Nombres | intro + 1 à 10 (10) + valet, cavalier, reine, roi (4) | ⬜ — **le 1 est l'échantillon** | 📝 numérologie + exemple Instagram |
+| Nombres | intro + 1 à 10 (10) + valet, cavalier, reine, roi (4) | ✅ (rangs 🧠) | 📝 numérologie + exemple Instagram |
 | Énergies | intro + féminin/masculin (1) | ✅ | 📝 |
-| Modes | intro + cardinal, fixe, mutable (3) | ⬜ | 📝 (une ligne par signe) + 🧠 |
+| Modes | intro + cardinal, fixe, mutable (3) | ✅ | 📝 + 🧠 |
 
 ### Pour aller plus loin
 | Section | Pages | État | Source |
@@ -58,12 +58,12 @@ Slugs de la Bibliothèque : numerologie / numerology · quatre-elements / four-e
 ## 3. Blog — 30 articles au lancement (6 fondateurs en priorité)
 
 Cluster 1 · Méthode et preuve (6 fondateurs)
-1. **Apprendre à lire le tarot : dites-vous que vous allez dire n'importe quoi** — 📝 « Reading tarot for beginners » — **l'échantillon**
-2. Le tarot marche-t-il vraiment ? 300 tirages, voici les chiffres — 📝 méthode
-3. Pourquoi vous devriez arrêter de tirer les cartes — 📝 « Why you should quit »
-4. Le tarot est-il maléfique ? — 📝 « Tarot and the Devil » (l'histoire du grand-père japonais, sans le vocabulaire de 2021)
-5. Comment j'ai testé mon thème astral, case par case — 📝 personal experience + chiffres
-6. Ce qu'il faut savoir avant un tirage gratuit en ligne — 📝
+1. ✅ Comment lire les cartes de tarot quand on débute
+2. ✅ Le tarot marche-t-il vraiment ? 300 tirages
+3. ✅ Pourquoi vous devriez arrêter de tirer les cartes
+4. ✅ Le tarot est-il maléfique ?
+5. ✅ J'ai testé mon thème astral case par case
+6. ✅ Ce qu'il faut savoir avant une lecture gratuite en ligne
 
 Cluster 2 · Apprendre (8) : lire une carte inconnue en trois clés de lecture · les cartes renversées, oui ou non · quel jeu choisir · comment compter ses tirages · la règle du silence · lire pour ses amis sans faire de dégâts · les tirages, faut-il en connaître · le carnet de lecture.
 Cluster 3 · Anti-arnaque (5) : reconnaître un faux voyant · « lever une malédiction » : l'arnaque expliquée · lectures payantes en ligne, ce qui est normal et ce qui ne l'est pas · le tarot n'est pas une autorité · astrologie, pas une excuse.
@@ -73,8 +73,8 @@ Cluster 5 · Idées reçues (6) : la carte de la Mort · « éveil spirituel » 
 ## 4. Podcast — 12 premiers épisodes (📝 Podcast subjects, sélection)
 Mon expérience avec le tarot, partie 1 · Lire pour des inconnus · Le tarot est-il l'œuvre du diable · Pourquoi arrêter le tarot · Éveil spirituel ou maladie mentale, la ligne fine · Le tarot peut-il prédire l'avenir · Les pouvoirs psychiques, réels ou manipulation · La carte de la Mort · Le tarot et la thérapie · Tarot et réseaux sociaux · Les trucs les plus fous vus en lecture · Le bypass spirituel.
 
-## 5. Villes — 74 pages, après le lancement
-Une page ne se publie que remplie de vrai (adresses vérifiées, événements datés). Tier 1 d'abord : Paris, Lyon, Marseille, Bruxelles, Genève, Montréal, Londres, New York, Toronto, Sydney.
+## 5. Villes — 74 pages ✅
+Toutes générées avec une conversion horaire réelle (19 h Paris → heure locale, hiver/été), devise, FAQ locale, hreflang régional. Les sections « boutiques / rendez-vous / traditions » n'apparaissent que si `local:` est rempli dans le front matter — jamais de contenu inventé.
 
 ## 6. Fichiers techniques — ✅ générés : sitemap par langue avec hreflang, robots.txt (IA autorisées), llms.txt, index de recherche. À ajuster au domaine final.
 

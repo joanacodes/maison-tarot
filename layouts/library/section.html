@@ -29,8 +29,8 @@
       {{ $n := len .RegularPages }}
       <a class="tile{{ if eq .Type "cards" }} ink big slideshow{{ end }}" href="{{ .RelPermalink }}" data-kind="{{ if eq .Type "cards" }}cards{{ else if in (slice "symboles-tarot" "tarot-symbols" "kabbale" "kabbalah" "histoire-du-tarot" "tarot-history" "figures-du-tarot" "tarot-figures") (path.Base .File.Dir) }}context{{ else }}lens{{ end }}" data-reveal>
         {{ if ne .Type "cards" }}<div class="tile-img">{{ partial "image.html" (dict "page" . "src" "tile.jpg" "alt" (.Params.tileAlt | default .Title) "ratio" "landscape" "sizes" "(min-width:1000px) 20vw, 50vw") }}</div>{{ end }}{{ if eq .Type "cards" }}{{ range $j, $c := first 8 (shuffle .RegularPages) }}{{ with resources.Get $c.Params.image }}{{ $r := .Resize "600x webp q75" }}<img src="{{ $r.RelPermalink }}" alt="" loading="lazy"{{ if eq $j 0 }} class="on"{{ end }}>{{ end }}{{ end }}{{ end }}<span class="c">{{ if gt $n 0 }}{{ $n }} {{ if $fr }}page{{ if gt $n 1 }}s{{ end }}{{ else }}page{{ if gt $n 1 }}s{{ end }}{{ end }}{{ else }}{{ if $fr }}bientôt{{ else }}soon{{ end }}{{ end }}</span>
-        <span class="t">{{ .Title }}</span>
-        <span class="d">{{ .Params.description }}</span>
+        <span class="t">{{ .Params.navTitle | default .Title }}</span>
+        <span class="d">{{ .Params.short | default (.Params.description | truncate 110) }}</span>
       </a>
       {{ end }}
     </div>
@@ -39,7 +39,7 @@
   {{ end }}
   {{ with $pages }}
   <div class="grid" style="margin-top:2rem;align-items:start">
-    <div class="s8"><ul class="index-list big">{{ range sort . "Weight" "asc" }}<li><a href="{{ .RelPermalink }}"><span><span class="title">{{ .Title }}</span>{{ with .Params.description }}<span class="meta">{{ . }}</span>{{ end }}</span><span class="arrow">→</span></a></li>{{ end }}</ul></div>
+    <div class="s8"><ul class="index-list big">{{ range sort . "Weight" "asc" }}<li><a href="{{ .RelPermalink }}"><span><span class="title">{{ .Params.navTitle | default .Title }}</span>{{ with .Params.description }}<span class="meta">{{ . }}</span>{{ end }}</span><span class="arrow">→</span></a></li>{{ end }}</ul></div>
     <div class="s4 sticky">{{ partial "guide-form.html" $ }}</div>
   </div>
   {{ else }}{{ if not $sections }}<p class="muted">{{ if $fr }}Pages en cours d’écriture.{{ else }}Pages being written.{{ end }}</p>{{ end }}{{ end }}

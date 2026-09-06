@@ -21,8 +21,12 @@
   <div class="s7">
     {{ $local := where (where $events.RegularPages "Params.city" $p.city) "Params.start" "ge" (now.Format "2006-01-02") }}
     {{ with $local }}<h2 class="mt-0" style="font-size:var(--t-2)">{{ if $fr }}Prochainement à {{ $p.city }}{{ else }}Coming up in {{ $p.city }}{{ end }}</h2>{{ range sort . "Params.start" "asc" }}{{ partial "event-row.html" . }}{{ partial "event-dialog.html" . }}{{ end }}{{ end }}
-    <h2 class="mt-0" style="font-size:var(--t-2)">{{ i18n "localTitle" }} {{ $p.city }}</h2>
     <div class="prose">{{ .Content }}</div>
+    {{ with $p.local }}
+      {{ with .shops }}<h2 style="font-size:var(--t-2)">{{ if $fr }}Où trouver un jeu à {{ $p.city }}{{ else }}Where to find a deck in {{ $p.city }}{{ end }}</h2><ul>{{ range . }}<li><strong>{{ .name }}</strong>{{ with .area }} — {{ . }}{{ end }}{{ with .note }}. {{ . }}{{ end }}</li>{{ end }}</ul>{{ end }}
+      {{ with .events }}<h2 style="font-size:var(--t-2)">{{ if $fr }}Rendez-vous réguliers{{ else }}Regular gatherings{{ end }}</h2><ul>{{ range . }}<li><strong>{{ .name }}</strong>{{ with .when }} — {{ . }}{{ end }}{{ with .note }}. {{ . }}{{ end }}</li>{{ end }}</ul>{{ end }}
+      {{ with .traditions }}<h2 style="font-size:var(--t-2)">{{ if $fr }}Traditions locales{{ else }}Local traditions{{ end }}</h2>{{ range . }}<p>{{ . }}</p>{{ end }}{{ end }}
+    {{ end }}
     {{ with $p.faq }}<h2 style="font-size:var(--t-2)">{{ i18n "faq" }}</h2>{{ range . }}<details><summary class="q">{{ .q }}</summary><p>{{ .a }}</p></details>{{ end }}{{ end }}
   </div>
   <aside class="s4 o9 sticky">

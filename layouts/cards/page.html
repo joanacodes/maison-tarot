@@ -38,6 +38,7 @@
     <div class="prose">
       {{ .Content }}
       {{ with $p.faq }}<h2 id="faq">{{ i18n "faq" }}</h2>{{ range . }}<details><summary class="q">{{ .q }}</summary><p>{{ .a }}</p></details>{{ end }}{{ end }}
+      {{ partial "author.html" . }}
     </div>
     <aside class="sticky">
       {{ $siblings := where (where .Parent.RegularPages "Params.suit" $p.suit) "Permalink" "ne" .Permalink }}

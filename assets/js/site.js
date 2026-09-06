@@ -276,6 +276,14 @@
     setStrip(); addEventListener('resize', setStrip);
   }
 
+  /* — Bulle Guide (blog) : apparaît après 2 s, se ferme pour la session — */
+  const bubble = d.querySelector('[data-guide-bubble]');
+  if (bubble) {
+    let seen = false; try { seen = sessionStorage.getItem('mt_bubble') === '1'; } catch (e) {}
+    if (!seen) setTimeout(() => { bubble.hidden = false; }, 2000);
+    bubble.querySelector('[data-bubble-close]')?.addEventListener('click', () => { bubble.hidden = true; try { sessionStorage.setItem('mt_bubble', '1'); } catch (e) {} });
+  }
+
   /* — Langue : proposer, mémoriser, ne jamais rediriger — */
   const KEY = 'mt_lang';
   const read = () => d.cookie.split('; ').find((c) => c.startsWith(KEY + '='))?.split('=')[1];
