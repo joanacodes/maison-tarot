@@ -34,8 +34,7 @@
       <input id="post-q" type="search" data-post-search autocomplete="off" aria-label="{{ i18n "searchArticles" }}" data-type-words="{{ if $fr }}le tarot marche-t-il ?|lecture gratuite|thème astral|arrêter de tirer les cartes|débuter{{ else }}does tarot work?|free reading|birth chart|quit tarot|beginners{{ end }}">
       <span class="type-ghost" aria-hidden="true"><span data-type-text></span><i>|</i></span>
     </div>
-    <div class="filters" style="margin:0"><button class="chip" type="button" data-filter="cat" data-value="" aria-pressed="true">{{ if $fr }}Tout{{ else }}All{{ end }}</button>{{ range $cats }}<button class="chip" type="button" data-filter="cat" data-value="{{ . | urlize }}" aria-pressed="false">{{ . }}</button>{{ end }}</div>
-    <div class="funnel-wrap">
+<div class="funnel-wrap">
       <button type="button" class="chip funnel" data-funnel aria-expanded="false" aria-label="{{ if $fr }}Plus de filtres{{ else }}More filters{{ end }}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 6h18M6 12h12M10 18h4"/></svg></button>
       <div class="funnel-menu glass" hidden>
         <p class="label">{{ if $fr }}Trier{{ else }}Sort{{ end }}</p>
@@ -49,6 +48,7 @@
         <button type="button" class="chip" data-filter="len" data-value="l" aria-pressed="false">&gt; 4 min</button>
       </div>
     </div>
+    <div class="filters" style="margin:0"><button class="chip" type="button" data-filter="cat" data-value="" aria-pressed="true">{{ if $fr }}Tout{{ else }}All{{ end }}</button>{{ range $cats }}<button class="chip" type="button" data-filter="cat" data-value="{{ . | urlize }}" aria-pressed="false">{{ . }}</button>{{ end }}</div>
   </div>
   <div class="post-grid three" data-posts data-batch="9">
     {{ range $posts }}<a class="post-card" href="{{ .RelPermalink }}" data-cat="{{ with .Params.categories }}{{ delimit (apply . "urlize" ".") " " }}{{ end }}" data-date="{{ .Date.Unix }}" data-min="{{ .ReadingTime }}" data-text="{{ .Title | lower }} {{ .Params.description | lower }} {{ with .Params.tags }}{{ delimit . " " | lower }}{{ end }}" hidden>{{ partial "image.html" (dict "page" . "src" (.Params.image | default "cover.jpg") "alt" .Title "ratio" "landscape" "sizes" "(min-width:800px) 40vw, 100vw") }}<span class="t">{{ .Title }}</span><span class="m">{{ .Date.Format .Site.Language.Params.dateFormat }} · {{ .ReadingTime }} {{ i18n "minRead" }}{{ with .Params.categories }} · {{ delimit . ", " }}{{ end }}</span><span class="d clamp">{{ .Params.description }}</span></a>{{ end }}

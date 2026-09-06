@@ -48,7 +48,7 @@ Slugs de la Bibliothèque : numerologie / numerology · quatre-elements / four-e
 ### Pour aller plus loin
 | Section | Pages | État | Source |
 | --- | --- | --- | --- |
-| Astrologie | intro + 12 signes + 12 astres (Soleil, Lune, Mercure, Vénus, Mars, Jupiter, Saturne, Uranus, Neptune, Pluton, Lilith, Chiron) = 24 | ⬜ | 📝 signes (Poissons à réécrire) · 🧠 astres |
+| Astrologie | intro + 12 signes + 12 astres = 24 | ✅ | 📝 signes · 🧠 astres |
 | Symboles | intro + 30 | ⬜ | 🧠 |
 | Les 78 cartes | 78 | 🟡 1 écrite (le Mat), 77 squelettes | 📝 « ce que la Maison en dit » · 🧠 description, couleurs, astrologie |
 | Kabbale | intro + 10 sephiroth + 22 lettres = 33 | ⬜ fin de projet | 📚 |
