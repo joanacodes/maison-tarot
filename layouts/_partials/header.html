@@ -7,7 +7,7 @@
     </div>
     <nav aria-label="{{ i18n "menu" }}">
       {{ range .Site.Menus.main }}<a href="{{ .URL }}"{{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }} aria-current="page"{{ end }}>{{ .Name }}</a>{{ end }}
-      <a class="pill" href="{{ $other.url }}" hreflang="{{ $other.lang }}" lang="{{ $other.lang }}" aria-label="{{ i18n "switchAria" }}" data-lang-switch>{{ i18n "switchTo" }}</a>
+      <a class="pill" href="{{ $other.url }}" hreflang="{{ $other.lang }}" lang="{{ $other.lang }}" aria-label="{{ i18n "switchAria" }}" data-lang-switch title="{{ i18n "switchAria" }}">{{ i18n "langName" }} ⇄</a>
       {{ partial "search-button.html" . }}
     </nav>
   </div>

@@ -1,9 +1,9 @@
 {{- $other := partial "lang-switch-url.html" . -}}
 {{- $book := .Site.GetPage "/sessions" -}}
 <div class="bottom-bar">
+  <a class="lang-pill glass" href="{{ $other.url }}" hreflang="{{ $other.lang }}" lang="{{ $other.lang }}" aria-label="{{ i18n "switchAria" }}" data-lang-switch>{{ upper .Language.Lang }}</a>
   <div class="left">
-    <a class="lang-pill glass" href="{{ $other.url }}" hreflang="{{ $other.lang }}" lang="{{ $other.lang }}" aria-label="{{ i18n "switchAria" }}" data-lang-switch>{{ upper $other.lang }}</a>
     {{ with $book }}<a class="btn btn-solid cta" href="{{ .RelPermalink }}#booking">{{ i18n "book" }}</a>{{ end }}
+    <button class="burger" type="button" aria-expanded="false" aria-controls="drawer" aria-label="{{ i18n "menu" }}"><span></span></button>
   </div>
-  <button class="burger" type="button" aria-expanded="false" aria-controls="drawer" aria-label="{{ i18n "menu" }}"><span></span></button>
 </div>
