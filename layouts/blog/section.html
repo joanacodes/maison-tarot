@@ -2,7 +2,7 @@
 {{- $fr := eq .Language.Lang "fr" -}}
 {{- $posts := .RegularPages -}}
 {{- $latest := index $posts 0 -}}
-{{- $featured := index (where $posts "Params.featured" true) 0 -}}
+{{- $featured := first 2 (where (where $posts "Params.featured" true) "Permalink" "ne" $latest.Permalink) -}}
 {{- $cats := slice }}{{ range $posts }}{{ range .Params.categories }}{{ $cats = $cats | append . }}{{ end }}{{ end }}{{ $cats = uniq $cats -}}
 <section class="wrap page-top">
   <p class="crumbs"><a href="{{ .Site.Home.RelPermalink }}">{{ site.Params.brand }}</a><span>›</span>{{ .Params.navTitle | default .Title }}</p>
@@ -18,19 +18,40 @@
     <a class="visual" href="{{ .RelPermalink }}" data-reveal>{{ partial "image.html" (dict "page" . "src" (.Params.image | default "cover.jpg") "alt" .Title "ratio" "landscape" "loading" "eager" "sizes" "(min-width:1000px) 50vw, 100vw") }}</a>
   </div>
   {{ else }}<h1>{{ .Params.h1 | default .Title | safeHTML }}</h1><p class="muted">{{ i18n "noPosts" }}</p>{{ end }}
-  {{ with $featured }}{{ if ne . $latest }}
-  <a class="post-featured" href="{{ .RelPermalink }}" style="text-decoration:none">
-    <div>{{ partial "image.html" (dict "page" . "src" (.Params.image | default "cover.jpg") "alt" .Title "ratio" "landscape" "sizes" "(min-width:800px) 30vw, 100vw") }}</div>
-    <div><p class="eyebrow">{{ i18n "featured" }}</p><h2 class="mt-0" style="font-size:var(--t-2)">{{ .Title }}</h2><p class="muted">{{ .Params.description }}</p></div>
-  </a>
-  {{ end }}{{ end }}
+  {{ with $featured }}
+  <div class="rule" style="padding-top:1.5rem"><p class="eyebrow">{{ i18n "featured" }}</p>
+  <div class="post-featured-row">
+    {{ range . }}<a class="post-featured" href="{{ .RelPermalink }}" style="text-decoration:none;border:0;padding:0">
+      <div>{{ partial "image.html" (dict "page" . "src" (.Params.image | default "cover.jpg") "alt" .Title "ratio" "landscape" "sizes" "(min-width:800px) 20vw, 100vw") }}</div>
+      <div><h2 class="mt-0" style="font-size:var(--t-1)">{{ .Title }}</h2><p class="muted small clamp">{{ .Params.description }}</p></div>
+    </a>{{ end }}
+  </div></div>
+  {{ end }}
   {{ if $posts }}
   <div class="post-tools" data-posts-tools>
-    <div class="field"><label for="post-q">{{ i18n "searchArticles" }}</label><input id="post-q" type="search" data-post-search autocomplete="off"></div>
+    <div class="search-field">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="post-q" type="search" data-post-search autocomplete="off" aria-label="{{ i18n "searchArticles" }}" data-type-words="{{ if $fr }}le tarot marche-t-il ?|lecture gratuite|thème astral|arrêter de tirer les cartes|débuter{{ else }}does tarot work?|free reading|birth chart|quit tarot|beginners{{ end }}">
+      <span class="type-ghost" aria-hidden="true"><span data-type-text></span><i>|</i></span>
+    </div>
     <div class="filters" style="margin:0"><button class="chip" type="button" data-filter="cat" data-value="" aria-pressed="true">{{ if $fr }}Tout{{ else }}All{{ end }}</button>{{ range $cats }}<button class="chip" type="button" data-filter="cat" data-value="{{ . | urlize }}" aria-pressed="false">{{ . }}</button>{{ end }}</div>
+    <div class="funnel-wrap">
+      <button type="button" class="chip funnel" data-funnel aria-expanded="false" aria-label="{{ if $fr }}Plus de filtres{{ else }}More filters{{ end }}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 6h18M6 12h12M10 18h4"/></svg></button>
+      <div class="funnel-menu glass" hidden>
+        <p class="label">{{ if $fr }}Trier{{ else }}Sort{{ end }}</p>
+        <button type="button" class="chip" data-sort="new" aria-pressed="true">{{ if $fr }}Plus récents{{ else }}Newest{{ end }}</button>
+        <button type="button" class="chip" data-sort="old" aria-pressed="false">{{ if $fr }}Plus anciens{{ else }}Oldest{{ end }}</button>
+        <button type="button" class="chip" data-sort="short" aria-pressed="false">{{ if $fr }}Lecture courte{{ else }}Short read{{ end }}</button>
+        <button type="button" class="chip" data-sort="long" aria-pressed="false">{{ if $fr }}Lecture longue{{ else }}Long read{{ end }}</button>
+        <p class="label" style="margin-top:.8rem">{{ if $fr }}Durée{{ else }}Reading time{{ end }}</p>
+        <button type="button" class="chip" data-filter="len" data-value="" aria-pressed="true">{{ if $fr }}Toutes{{ else }}Any{{ end }}</button>
+        <button type="button" class="chip" data-filter="len" data-value="s" aria-pressed="false">≤ 4 min</button>
+        <button type="button" class="chip" data-filter="len" data-value="l" aria-pressed="false">&gt; 4 min</button>
+      </div>
+    </div>
   </div>
   <div class="post-grid three" data-posts data-batch="9">
-    {{ range $posts }}<a class="post-card" href="{{ .RelPermalink }}" data-cat="{{ with .Params.categories }}{{ delimit (apply . "urlize" ".") " " }}{{ end }}" data-text="{{ .Title | lower }} {{ .Params.description | lower }} {{ with .Params.tags }}{{ delimit . " " | lower }}{{ end }}" hidden>{{ partial "image.html" (dict "page" . "src" (.Params.image | default "cover.jpg") "alt" .Title "ratio" "landscape" "sizes" "(min-width:800px) 40vw, 100vw") }}<span class="t">{{ .Title }}</span><span class="m">{{ .Date.Format .Site.Language.Params.dateFormat }} · {{ .ReadingTime }} {{ i18n "minRead" }}{{ with .Params.categories }} · {{ delimit . ", " }}{{ end }}</span><span class="d">{{ .Params.description }}</span></a>{{ end }}
+    {{ range $posts }}<a class="post-card" href="{{ .RelPermalink }}" data-cat="{{ with .Params.categories }}{{ delimit (apply . "urlize" ".") " " }}{{ end }}" data-date="{{ .Date.Unix }}" data-min="{{ .ReadingTime }}" data-text="{{ .Title | lower }} {{ .Params.description | lower }} {{ with .Params.tags }}{{ delimit . " " | lower }}{{ end }}" hidden>{{ partial "image.html" (dict "page" . "src" (.Params.image | default "cover.jpg") "alt" .Title "ratio" "landscape" "sizes" "(min-width:800px) 40vw, 100vw") }}<span class="t">{{ .Title }}</span><span class="m">{{ .Date.Format .Site.Language.Params.dateFormat }} · {{ .ReadingTime }} {{ i18n "minRead" }}{{ with .Params.categories }} · {{ delimit . ", " }}{{ end }}</span><span class="d clamp">{{ .Params.description }}</span></a>{{ end }}
   </div>
   <p class="mono muted center" data-posts-end hidden style="margin-top:2rem">{{ i18n "noMore" }}</p>
   {{ end }}

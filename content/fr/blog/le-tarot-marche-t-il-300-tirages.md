@@ -6,6 +6,7 @@ type: blog
 date: 2026-09-06
 categories: ["Méthode"]
 tags: ["le tarot marche-t-il", "300 tirages", "méthode", "preuve", "taux de justesse"]
+featured: true
 image: "cover.jpg"
 imageAlt: "Un carnet de comptage ouvert sur une table en bois, à côté de trois cartes"
 summary: "Oui, à un taux que je peux dire : sur 300 tirages gratuits pour des inconnus qui ne me disaient rien, environ neuf sur dix ont été confirmés comme justes par la personne, souvent avec des détails précis. J’ai compté à la main, le décompte n’est pas audité, et un sur dix était faux. Je ne sais pas pourquoi ça marche. Je sais dans quelles conditions ça marche mieux, et c’est ce que j’enseigne."

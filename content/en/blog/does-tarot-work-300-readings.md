@@ -6,6 +6,7 @@ type: blog
 date: 2026-09-06
 categories: ["Method"]
 tags: ["does tarot work", "300 readings", "method", "proof", "hit rate"]
+featured: true
 image: "cover.jpg"
 imageAlt: "A tally notebook open on a wooden table beside three cards"
 summary: "Yes, at a rate I can state: over 300 free readings for strangers who told me nothing, roughly nine in ten were confirmed by the person as accurate, often with specific details. I counted by hand, the count isn't audited, and one in ten was wrong. I don't know why it works. I know the conditions under which it works better, and those are what I teach."
