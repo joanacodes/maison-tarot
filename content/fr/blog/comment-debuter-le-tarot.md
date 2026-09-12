@@ -1,7 +1,7 @@
 ---
 title: "Règle du silence au tarot : pourquoi la personne ne me dit rien avant le tirage"
 description: "La règle du silence au tarot : la personne que je lis ne me dit ni sa question ni son contexte. Pourquoi je m’y tiens, ce que ça change, et comment l’essayer chez vous."
-translationKey: post-silence-rule
+translationKey: post-beginners
 type: blog
 date: 2026-09-12
 categories: ["Méthode"]
