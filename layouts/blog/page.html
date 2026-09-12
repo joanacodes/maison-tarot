@@ -21,5 +21,21 @@
     <aside class="sticky">{{ partial "guide-form.html" . }}</aside>
   </div>
 </article>
+{{- $fr := eq .Language.Lang "fr" -}}
+{{- $blog := where .Site.RegularPages "Type" "blog" -}}
+{{- $related := first 3 (where (.Site.RegularPages.Related .) "Type" "blog") -}}
+{{- $latest := first 3 (where $blog "Permalink" "ne" .Permalink) -}}
+{{ with $related }}
+<section class="wrap band" style="padding-top:0">
+  <p class="eyebrow">{{ if $fr }}À lire aussi{{ else }}You might also read{{ end }}</p>
+  <div class="post-grid three">{{ range . }}<a class="post-card" href="{{ .RelPermalink }}">{{ partial "image.html" (dict "page" . "src" (.Params.image | default "cover.jpg") "alt" .Title "ratio" "landscape" "sizes" "(min-width:800px) 30vw, 100vw") }}<span class="t">{{ .Title }}</span><span class="m">{{ .Date.Format .Site.Language.Params.dateFormat }} · {{ .ReadingTime }} {{ i18n "minRead" }}</span></a>{{ end }}</div>
+</section>
+{{ end }}
+{{ with $latest }}
+<section class="wrap" style="padding-bottom:clamp(3rem,7vw,6rem)">
+  <p class="eyebrow">{{ if $fr }}Les derniers articles{{ else }}Latest articles{{ end }}</p>
+  <ul class="index-list">{{ range . }}<li><a href="{{ .RelPermalink }}"><span><span class="title" style="font-size:var(--t-0)">{{ .Title }}</span><span class="sub">{{ .Date.Format .Site.Language.Params.dateFormat }} · {{ with .Params.categories }}{{ index . 0 }}{{ end }}</span></span><span class="arrow">→</span></a></li>{{ end }}</ul>
+</section>
+{{ end }}
 {{ partial "rail-folder.html" . }}
 {{ end }}

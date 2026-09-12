@@ -94,6 +94,17 @@ enableGitInfo = true
 [frontmatter]
   lastmod = [":git", "lastmod", "date"]
 
+[related]
+  includeNewer = true
+  threshold = 50
+  toLower = true
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+  [[related.indices]]
+    name = "categories"
+    weight = 40
+
 [markup]
   [markup.goldmark.renderer]
     unsafe = true

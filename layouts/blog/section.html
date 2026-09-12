@@ -53,6 +53,7 @@
   <div class="post-grid three" data-posts data-batch="9">
     {{ range $posts }}<a class="post-card" href="{{ .RelPermalink }}" data-cat="{{ with .Params.categories }}{{ delimit (apply . "urlize" ".") " " }}{{ end }}" data-date="{{ .Date.Unix }}" data-min="{{ .ReadingTime }}" data-text="{{ .Title | lower }} {{ .Params.description | lower }} {{ with .Params.tags }}{{ delimit . " " | lower }}{{ end }}" hidden>{{ partial "image.html" (dict "page" . "src" (.Params.image | default "cover.jpg") "alt" .Title "ratio" "landscape" "sizes" "(min-width:800px) 40vw, 100vw") }}<span class="t">{{ .Title }}</span><span class="m">{{ .Date.Format .Site.Language.Params.dateFormat }} · {{ .ReadingTime }} {{ i18n "minRead" }}{{ with .Params.categories }} · {{ delimit . ", " }}{{ end }}</span><span class="d clamp">{{ .Params.description }}</span></a>{{ end }}
   </div>
+  <div data-posts-sentinel aria-hidden="true" style="height:1px"></div>
   <p class="mono muted center" data-posts-end hidden style="margin-top:2rem">{{ i18n "noMore" }}</p>
   {{ end }}
 </section>

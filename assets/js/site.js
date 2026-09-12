@@ -259,8 +259,9 @@
     const more = () => { pool.slice(shown, shown + batch).forEach((c) => (c.hidden = false)); shown = Math.min(pool.length, shown + batch); end.hidden = shown < pool.length; };
     d.querySelector('[data-post-search]')?.addEventListener('input', reflow);
     d.querySelectorAll('[data-filter="cat"]').forEach((b) => b.addEventListener('click', () => setTimeout(reflow, 0)));
-    const sentinel = new IntersectionObserver((en) => { if (en[0].isIntersecting && shown < pool.length) more(); }, { rootMargin: '400px' });
-    if (end) sentinel.observe(end);
+    const sent = d.querySelector('[data-posts-sentinel]');
+    const sentinel = new IntersectionObserver((en) => { if (en[0].isIntersecting && shown < pool.length) more(); }, { rootMargin: '600px' });
+    if (sent) sentinel.observe(sent);
     reflow();
   }
 
