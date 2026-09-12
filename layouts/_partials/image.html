@@ -12,6 +12,6 @@
   <figure class="img-reveal {{ $ratio }}">
     <img src="{{ $fallback.RelPermalink }}"{{ with $set }} srcset="{{ delimit . ", " }}"{{ end }} sizes="{{ $.sizes | default "(min-width: 1000px) 50vw, 100vw" }}" alt="{{ $.alt }}" width="{{ $fallback.Width }}" height="{{ $fallback.Height }}" loading="{{ $.loading | default "lazy" }}" decoding="async">
   </figure>
-{{- else -}}
+{{- else if hugo.IsServer -}}
   <div class="img-placeholder {{ $ratio }}" role="img" aria-label="{{ .alt }}">{{ .alt | default "image" }}<br>[{{ .src | default "à fournir" }}]</div>
 {{- end -}}
