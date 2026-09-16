@@ -1,7 +1,7 @@
 ---
 title: "Tarot ethics: the short version a real reader can actually keep"
 description: "The industry writes long codes of ethics nobody reads. Mine fits on a card: consent, the silence rule, a list of refused subjects, naming the misses, no upsell, and no authority over anyone’s decisions. What each one means at the table."
-translationKey: post-tarot-ethics
+translationKey: "post-tarot-ethics-short-version"
 type: blog
 date: 2026-09-11
 categories: ["For readers"]
