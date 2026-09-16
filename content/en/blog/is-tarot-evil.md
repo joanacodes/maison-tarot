@@ -1,7 +1,7 @@
 ---
 title: "Is tarot evil? What 300 readings and one very polite grandfather taught me"
 description: "People ask whether tarot is the devil’s work. From my experience: tarot has given me more clarity and more honest compassion than any belief or practice — and it has never once flattered me. Here’s what it actually does, what it doesn’t, and the strangest thing that ever happened after a reading."
-translationKey: post-evil
+translationKey: "post-is-tarot-evil"
 type: blog
 date: 2026-09-06
 categories: ["Ideas we refuse"]
