@@ -1,7 +1,7 @@
 ---
 title: "Le tarot est-il maléfique ? Ce que 300 tirages et un grand-père très poli m’ont appris"
 description: "On me demande si le tarot est l’œuvre du diable. Par expérience : le tarot m’a apporté plus de clarté et plus de compassion honnête que n’importe quelle croyance ou pratique — et il ne m’a jamais flattée. Ce qu’il fait vraiment, ce qu’il ne fait pas, et la chose la plus étrange qui me soit arrivée après une lecture."
-translationKey: post-evil
+translationKey: "post-is-tarot-evil"
 type: blog
 date: 2026-09-06
 categories: ["Idées reçues"]
