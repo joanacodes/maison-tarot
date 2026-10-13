@@ -31,4 +31,4 @@ And because not everything is about spirits. Sometimes it’s psychological, som
 
 ## Get in touch
 
-For a session or a workshop, use the [booking](/sessions/). For everything else, the [contact](/contact/) page.
+For a session or a workshop, use the [booking](/sessions/). For everything else, the [contact](/contact/) page, or write to {{< lang-email >}}.

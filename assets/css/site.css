@@ -31,7 +31,9 @@
   --r: 6px;
   --r-lg: 16px;
   --bottom-bar: 4.25rem;
-  --header-h: 4.5rem;
+  --bar-h: 4.5rem;
+  --notice-h: 2rem;
+  --header-h: calc(var(--bar-h) + var(--notice-h));
 
   /* clair */
   --bg: #ffffff;
@@ -360,7 +362,12 @@ details > *:not(summary) { padding-bottom: 1.2rem; max-width: var(--measure); fo
 .tag-gold { border-color: var(--gold-soft); color: var(--gold); }
 
 /* ——— Header ——— */
-.site-header { position: fixed; top: 0; left: 0; right: 0; z-index: 50; height: var(--header-h); display: flex; align-items: center; transition: background var(--dur) var(--ease), box-shadow var(--dur) var(--ease), color var(--dur) var(--ease); color: var(--fg); }
+/* Bandeau « site en construction » : au-dessus du header, fond or, texte blanc */
+.construction { position: fixed; top: 0; left: 0; right: 0; z-index: 53; height: var(--notice-h); display: flex; align-items: center; justify-content: center; gap: 0.55em; padding: 0 var(--gutter); background: var(--gold); color: #fff; font-family: var(--font-mono); font-size: var(--t-xs); letter-spacing: 0.04em; text-align: center; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.construction-star { display: inline-block; line-height: 1; font-size: 1.35em; font-family: 'Segoe UI Symbol', 'Apple Symbols', 'Noto Sans Symbols 2', var(--font-body); animation: construction-spin 8s linear infinite; }
+@keyframes construction-spin { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .construction-star { animation: none; } }
+.site-header { position: fixed; top: var(--notice-h); left: 0; right: 0; z-index: 50; height: var(--bar-h); display: flex; align-items: center; transition: background var(--dur) var(--ease), box-shadow var(--dur) var(--ease), color var(--dur) var(--ease); color: var(--fg); }
 .site-header .bar { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; }
 .brand { font-family: var(--font-display); font-size: 1rem; letter-spacing: 0.16em; font-weight: 500; text-decoration: none; text-transform: uppercase; }
 .brand img { height: 1.4rem; width: auto; }
@@ -374,7 +381,7 @@ details > *:not(summary) { padding-bottom: 1.2rem; max-width: var(--measure); fo
 @media (max-width: 999px) {
   .site-header { mix-blend-mode: difference; color: #fff; }
   .site-header .brand { color: #fff; }
-  .brand-gold { position: fixed; top: 0; left: 0; right: 0; z-index: 51; height: var(--header-h); display: flex; align-items: center; pointer-events: none; mix-blend-mode: multiply; }
+  .brand-gold { position: fixed; top: var(--notice-h); left: 0; right: 0; z-index: 51; height: var(--bar-h); display: flex; align-items: center; pointer-events: none; mix-blend-mode: multiply; }
   .brand-gold .bar { display: flex; align-items: center; }
   .site-header .brand, .brand-gold .brand { line-height: 1; display: inline-block; }
   .brand-gold .brand { color: var(--gold); -webkit-text-stroke: 0.25px var(--gold); paint-order: stroke fill; }

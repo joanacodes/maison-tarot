@@ -31,4 +31,4 @@ Et parce que tout n’est pas une histoire d’esprits. Parfois c’est psycholo
 
 ## Me contacter
 
-Pour une session ou un atelier, passez par la [réservation](/fr/sessions/). Pour tout le reste, la page [contact](/fr/contact/).
+Pour une session ou un atelier, passez par la [réservation](/fr/sessions/). Pour tout le reste, la page [contact](/fr/contact/), ou écrivez à {{< lang-email >}}.

@@ -32,7 +32,7 @@ defaultContentLanguageInSubdir = false
     [languages.en.params]
       locale = "en_GB"
       dateFormat = "2 January 2006"
-      email = "hello@maisontarot.com"
+      email = "hello@maisontarot.co.uk"
       authorShortDescription = ""   # e.g. "Tarot reader and teacher in Paris. 300 blind readings, counted." (empty = line hidden)
       bookedUntil = "February 2027"
       bookedLabel = "Available in"
@@ -61,7 +61,7 @@ defaultContentLanguageInSubdir = false
     jobTitle = "Tarot reader and teacher"
     handle = "maisontarot"
     basedIn = "Paris"
-    email = "hello@maisontarot.com"   # contact par langue : languages.<lang>.params.email
+    email = "hello@maisontarot.co.uk"   # contact par langue : languages.<lang>.params.email
     sameAs = [
       "https://instagram.com/maisontarot",
       "https://www.youtube.com/@maisontarot",

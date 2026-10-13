@@ -35,7 +35,7 @@ Puis http://localhost:1313/ — la racine est le site anglais ; le français est
 - **Recherche** : index JSON par langue (`/fr/index.json`, `/en/index.json`, gabarit `layouts/home.searchindex.json`), overlay verre, raccourci Ctrl/⌘ K.
 - **Cartes** : `data/cards.yml` (78 cartes, lentilles Golden Dawn — à valider par l'hôte), images 1909 dans `assets/cards/` (domaine public), page index en accordéon plein écran avec diaporama aléatoire, filtres.
 - **Événements** : inscription dans un dialogue (verre) sans changer de page ; `eventFormAction` dans `hugo.toml` ; bandeau mobile « prochain événement » qui disparaît après inscription.
-- **Contact** : `languages.<lang>.params.email` (bonjour@maisontarot.fr / hello@maisontarot.com).
+- **Contact** : `languages.<lang>.params.email` (bonjour@maisontarot.fr / hello@maisontarot.co.uk).
 
 ## Ajouts v4
 
