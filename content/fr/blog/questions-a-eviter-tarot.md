@@ -9,7 +9,7 @@ tags: ["questions à poser au tarot", "questions à éviter au tarot", "question
 image: "covers/questions-to-avoid-asking-tarot.jpg"
 imageAlt: "Deux tasses de thé sur une table de cuisine, une chaise reculée, un jeu de cartes fermé posé entre les deux"
 imagePrompt: "Two cups of tea on a kitchen table, one chair pulled back, a closed deck of cards lying between the cups. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Les questions à éviter au tarot sont les plus lourdes : la santé, la mort, la grossesse, les procédures en cours, les décisions d’argent, et ce que pense ou fera quelqu’un qui n’est pas là. On les pose par peur ou par amour, et cela mérite de l’attention. Mais une carte ne voit pas l’intérieur d’un corps, ne lit ni un dossier ni un contrat, et ne parle pas à la place d’un autre ; sur ces sujets, une phrase de travers fait de vrais dégâts. Chacune a une question plus douce qu’une carte peut porter — sur l’attente, sur vous, sur ce que vous pouvez faire maintenant — et un professionnel pour le reste."
+summary: "Les questions à éviter au tarot sont les plus lourdes : la santé, la mort, la grossesse, les procédures en cours, les décisions d’argent, et ce que pense ou fera quelqu’un qui n’est pas là. On les pose par peur ou par amour, et cela mérite de l’attention. Mais une carte ne voit pas l’intérieur d’un corps, ne lit pas un contrat et ne parle pas à la place d’un autre ; ici, une phrase de travers fait de vrais dégâts. Chacune a une question plus douce qu’une carte peut porter — sur l’attente, sur vous, sur ce que vous pouvez faire — et un professionnel pour le reste."
 ---
 Je ne lis pas sur la santé, la mort, la grossesse, les procès, les décisions d’argent, ni sur ce que pense quelqu’un qui n’est pas dans la pièce. Ces questions-là, on les apporte parce qu’on a peur, ou parce qu’on aime quelqu’un, et ça mérite autre chose qu’une porte fermée. Alors pour chacune, voici pourquoi les cartes ne sont pas le bon outil, et la question que je poserais à la place.
 
@@ -30,7 +30,7 @@ Derrière chacune, il y a de la peur, de l’amour ou un désir, parfois les tro
 Ce que les cartes peuvent porter, en attendant, c’est l’attente elle-même. Des questions plus douces :
 
 - « Qu’est-ce qui peut m’aider à traverser l’attente des résultats ? »
-- « Comment être présente pour ma grand-mère ce mois-ci ? »
+- « Comment être là pour ma grand-mère ce mois-ci ? »
 - « De quoi ai-je besoin pour moi, pendant qu’on essaie ? »
 
 Imaginons quelqu’un qui attend des résultats, pose la première, et tire le Quatre d’Épées.
@@ -63,7 +63,7 @@ Les questions plus douces se retournent vers vous :
 
 - « De quoi ai-je besoin dans cette relation ? »
 - « Que ferais-je si je connaissais déjà la réponse ? »
-- « Comment ai-je envie d’être traitée ? »
+- « Comment ai-je envie qu’on me traite ? »
 
 La question de l’ex a [un article à elle seule](/fr/blog/va-t-il-revenir-tarot/), parce que c’est celle que j’entends le plus, et celle qui fait le plus mal à force d’être reposée. Et si votre question ne fonctionne qu’en oui ou en non, [voici ce que je propose à la place d’un verdict](/fr/blog/tirage-oui-non-tarot/).
 

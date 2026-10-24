@@ -42,15 +42,25 @@ Read the digit, not the repetition. The repetition says “look”; the digit sa
 | 999 | 9 — the home stretch | What’s ending, and what’s the last effort? |
 | 000 | 0 or 10 — the transition | Which two rooms am I standing between? |
 
-The four in the title, a little closer:
+The four in the title, a little closer.
 
-**111** is the start of a cycle. Its advice is humility, because we are all students our whole life. Its card is the Magician, who knows how to do everything — and can pretend.
+### 111: something begins {#111}
 
-**222** is two parties binding themselves: a contract, a relationship, a promise. Read the small print, weigh the pros and cons. Its minus is stubbornness.
+111 is the start of a cycle. Its advice is humility, because we are all students our whole life. Its card is the Magician, who knows how to do everything — and can pretend.
 
-**444** is the 2 doubled: the contract has held, and now there’s something stable and built. The advice is to stay open to what you hadn’t planned. The minus is carrying on when you should stop.
+### 222: an agreement {#222}
 
-**777** is patience and analysis before action. And the advice I like best in the whole cycle: everything is temporary, good or bad.
+222 is two parties binding themselves: a contract, a relationship, a promise. Read the small print, weigh the pros and cons. Its minus is stubbornness.
+
+### 444: what you’ve built {#444}
+
+444 is the 2 doubled: the contract has held, and now there’s something stable and built. The advice is to stay open to what you hadn’t planned. The minus is carrying on when you should stop — holding a structure in place out of habit, after it has stopped holding you.
+
+### 777: wait, and think {#777}
+
+777 is patience and analysis before action, the moment to negotiate rather than charge. And the advice I like best in the whole cycle: everything is temporary, good or bad.
+
+In the major arcana, the four digits of the title are the Magician, the High Priestess, the Emperor and the Chariot — one card each, if you’d like a picture to go with the question.
 
 {{< cards "ar01 ar02 ar04 ar07" >}}
 

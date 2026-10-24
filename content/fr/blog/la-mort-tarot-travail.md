@@ -1,6 +1,6 @@
 ---
 title: "La Mort au travail : lire la lame sans en faire un présage"
-description: "La Mort dans un tirage sur le travail n’annonce pas un licenciement : c’est une saison professionnelle qui finit — changement, reconversion — et une question plus douce."
+description: "La Mort dans un tirage travail n’annonce pas un licenciement : c’est une saison professionnelle qui finit — changement, reconversion — et une question plus douce."
 translationKey: "post-death-tarot-career"
 type: blog
 date: 2026-10-24

@@ -1,6 +1,6 @@
 ---
 title: "L’Impératrice au travail : créer, faire grandir, prendre soin d’un projet"
-description: "L’Impératrice dans un tirage sur le travail : un projet qui grandit parce qu’on le nourrit. Ses clés, son revers — étouffer ou s’épuiser — et comment en prendre soin."
+description: "L’Impératrice dans un tirage sur le travail : un projet qui grandit parce qu’on le nourrit. Ses clés, son revers — étouffer ou s’épuiser — et comment le soigner."
 translationKey: "post-empress-tarot-career"
 type: blog
 date: 2026-10-24
