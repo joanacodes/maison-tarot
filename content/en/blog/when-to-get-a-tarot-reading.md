@@ -27,6 +27,8 @@ The Ten of Wands is someone carrying a bundle of wands so big they can’t see w
 
 **A check-up reads the present, not the future.** It won’t tell you what happens next month. It can show you how you’re walking into it, which is the part you can change. Every few months is plenty; once a week stops being a check-up.
 
+Write down the two or three sentences that struck you, and read them again at the next check-up. Putting two readings side by side, months apart, often tells you more than either one did on the day.
+
 ## For shadow work {#shadow-work}
 
 Shadow work means dealing with the things you keep pushing away so you can get through the day — the things that, left alone long enough, end up holding you back. It’s like a cell where you’ve put everything you never wanted to look at, or couldn’t deal with at the time.

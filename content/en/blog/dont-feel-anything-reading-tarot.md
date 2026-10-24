@@ -19,7 +19,7 @@ We all receive impressions: images, sounds, words, smells, sensations, emotions.
 
 More often, it feels like your own thought. A word turns up — "kitchen", "brother", "too late" — and it sounds exactly like you. That's why so many beginners decide they felt nothing: what came was quiet and ordinary, and they threw it away while waiting for the real thing.
 
-Say you draw a card for a friend and the word “staircase” crosses your mind. It seems random, so you keep it to yourself and wait for a feeling. That word was the feeling. Say it — “I don’t know why, but a staircase” — and let her tell you afterwards whether it meant anything.
+Say you draw a card for a friend and the word "staircase" crosses your mind. It seems random, so you keep it to yourself and wait for a feeling. That word was the feeling. Say it — "I don't know why, but a staircase" — and let her tell you afterwards whether it meant anything.
 
 **What you're waiting for is usually louder than what comes.** I've tried to describe [what reading a card feels like from the inside](/blog/what-reading-tarot-feels-like/), and the most honest word I have is "ordinary".
 
