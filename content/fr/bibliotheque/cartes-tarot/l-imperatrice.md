@@ -77,7 +77,7 @@ Beaucoup de gens espèrent ou redoutent que cette carte annonce une grossesse, e
 
 Renversée, le soin devient lourd ou se tarit. Soit l’Impératrice retient trop fort — le parent qui ne lâche rien, la responsable qui refait le travail de toute l’équipe —, soit elle a cessé de nourrir, souvent elle-même en premier.
 
-À côté de l’[Empereur](/fr/bibliotheque/cartes-tarot/l-empereur/), 3 à côté de 4 : ce qui pousse à côté de ce qui structure. À côté du [Quatre de Pentacles](/fr/bibliotheque/cartes-tarot/quatre-de-pentacles/), le soin se change en possession. À côté du [Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/), une femme seule dans sa vigne, l’abondance revient à celle qui l’a fait pousser. **L’Impératrice donne ; la question est toujours de savoir si elle garde quelque chose pour elle.**
+À côté de l’[Empereur](/fr/bibliotheque/cartes-tarot/l-empereur/), c’est 3 puis 4 : ce qui pousse, puis ce qui structure. À côté du [Quatre de Pentacles](/fr/bibliotheque/cartes-tarot/quatre-de-pentacles/), le soin se change en possession. À côté du [Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/), une femme seule dans sa vigne, l’abondance revient à celle qui l’a fait pousser. **L’Impératrice donne ; la question est toujours de savoir si elle garde quelque chose pour elle.**
 
 {{< cards "ar04 pe04 pe09" >}}
 

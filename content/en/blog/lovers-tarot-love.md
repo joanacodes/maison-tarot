@@ -25,7 +25,7 @@ The older decks say it even more plainly. In the Marseille tarot the card is cal
 
 Then the lenses.
 
-The number is 6: in my notes, “3 exalted”. Three is the machine running; six is the machine running fast — success, harmony regained, exchange, the moment you can rest. Its advice: stay calm and humble when things flow. In love, 6 is the relationship that works. Its risk is the same as its gift: when everything runs smoothly, you stop checking whether you’d still choose it.
+The number is 6: in my notes, “3 exalted”. Three is the machine running; six is the machine running fast — success, harmony regained, exchange, the moment you can rest. Its advice: stay calm and humble when things flow. In love, 6 is the relationship that works. Its risk comes from the same place as its strength: when everything runs smoothly, you stop checking whether you’d still choose it.
 
 The element is [Air](/library/four-elements/air-element/): decisions, thinking, analysis, communication. Air sees everything at once, which makes it the best decision-maker of the four — Fire is too impulsive, Water too emotional, Earth too stubborn. That’s why the Lovers surprises people. A Water card would talk about feelings. This one talks about choosing, with your eyes open.
 
@@ -71,7 +71,7 @@ Next to the Two of Cups, it’s the exchange made concrete: two people facing ea
 
 It’s the question this card attracts more than any other, and I understand it. You’ve met someone, it feels important, and you’d love a guarantee before you open your heart further.
 
-I don’t read on that question, and here’s why. “The one” turns a choice into a fate, and the Lovers is precisely the card that says love is chosen. The other person isn’t in the room either; what they feel and what they’ll decide are theirs. A card that told you “yes, it’s them” would be taking a decision away from both of you.
+I don’t read on that question, and here’s why. “The one” turns a choice into something written in advance, and the Lovers is precisely the card that says love is chosen. The other person isn’t in the room either; what they feel and what they’ll decide are theirs. A card that told you “yes, it’s them” would be taking a decision away from both of you.
 
 A gentler question: “What am I choosing when I choose this person — and would I choose it again today?” Or: “What do I want a relationship to feel like on an ordinary day?” Those questions have answers inside you. They also make you better company for the other person, whoever they turn out to be.
 

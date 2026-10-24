@@ -25,11 +25,13 @@ The number: 18 becomes 1 + 8 = [9](/library/numerology/number-9/), the finish li
 
 The colours: the blue of emotions, the yellow of the moon, the grey of the towers. The energy is feminine — the intangible, imagination, what stays behind the scenes. And the astrology, if it speaks to you, is Pisces: from the outside the surface is still, and underneath the world teems with life. **The Moon doesn’t say someone is hiding something; it says not everything is visible yet.** Every lens is on [the card’s own page](/library/tarot-cards/the-moon/).
 
+Put the lenses together and you have a sentence before any book. Say someone draws this card and tells you nothing. Emotion, a last stretch, something rising from the bottom, imagination at work. What you might say out loud: “You’re nearly through something, and the hardest part is that you can’t see the end of it — your mind is filling the dark with things that may not be there.” Then you check it, and listen.
+
 ## What it means single, together, after a break-up {#relationship}
 
 When you’re single, the Moon often shows projection: someone you barely know, turned into a whole story by your imagination. It’s a lovely feeling and a fragile one. The card asks you to meet the real person before the moonlit one.
 
-When you’re together, it can be a vague unease you can’t name, things left unsaid on both sides, or simply a period you can’t read yet — a new job, a move, one of you going quiet for reasons that have nothing to do with the other.
+When you’re together, it can be a vague unease you can’t name, things left unsaid on both sides, or a period you can’t read yet — a new job, a move, one of you going quiet for reasons that have nothing to do with the other. Say your partner has been distant for three weeks. The Moon doesn’t tell you why. It tells you that you don’t know yet, and that the story you’ve built in the meantime is yours, not theirs.
 
 After a break-up, it’s the not-understanding. Why it ended, what was true. The path between the towers is there; it’s only dark.
 
@@ -50,6 +52,8 @@ The Moon is the card people read as deception, so it often arrives with this que
 I don’t read on someone who isn’t in the room, and here’s why. They haven’t agreed to be read. And the Moon is the card of projection: ask it to confirm a suspicion and it will look like confirmation, because you’ll see your fear in it. I’ve written more on [reading tarot about someone else](/blog/reading-tarot-about-someone-else/).
 
 The gentler question: “What do I actually know, what am I imagining, and what would I need to ask him directly?” Three columns on a sheet of paper. The first is usually shorter than you expect, and the third is where the answer lives.
+
+There’s also the dog and the wolf on the card, howling at the same light. Fear at night is old and very human. Being afraid of the dark can be being afraid of your own shadow — the place where we put what we never wanted to look at. I’ve written about [being afraid of the dark](/blog/afraid-of-the-dark/), and what changed for me when I stopped waiting for a light before walking into a room.
 
 ## Where to go from here {#next-step}
 
