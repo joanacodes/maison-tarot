@@ -1,6 +1,6 @@
 ---
 title: "Binah (l’Intelligence) et le tarot : la sephirah et ses quatre cartes"
-description: "Binah, l’Intelligence, troisième sephirah de l’Arbre de Vie : son sens dans la Kabbale juive, les quatre Trois et les Reines, Saturne, et ce qu’elle apporte au tirage."
+description: "Binah, l’Intelligence, troisième sephirah de l’Arbre de Vie : son sens dans la Kabbale juive, les quatre Trois et les Reines, Saturne, et ce qu’elle apporte."
 translationKey: "kab-binah"
 type: library
 navTitle: "Binah"
@@ -48,7 +48,7 @@ Le nombre dit déjà que la machine tourne : le [3](/fr/bibliotheque/numerologie
 
 Le Livre T, le manuscrit de la Golden Dawn sur le tarot, range les quatre rangs de la cour sur l’Arbre selon les quatre lettres du Nom, YHVH. La deuxième lettre, He, l’Eau de chaque série, revient à Binah. Sa figure est une Reine sur un trône : pour les Bâtons, la « Reine des Trônes de Flamme ».
 
-La façon dont les figures du Rider-Waite-Smith se rangent sous les titres de la Golden Dawn fait débat — surtout pour les Rois et les Cavaliers, comme l’explique la page de Hokhmah — et des autrices comme Benebell Wen le disent ouvertement. **Les Reines sont le seul rang qui garde son nom d’un système à l’autre.** Les quatre siègent en Binah, chacune l’Eau de sa série, comme sur les pages de cartes de ce site, où la Reine de Coupes est Eau d’Eau.
+Le passage des titres de la Golden Dawn aux figures du Rider-Waite-Smith fait débat — surtout pour les Rois et les Cavaliers, voir Hokhmah — et des autrices comme Benebell Wen le disent ouvertement. **Les Reines sont le seul rang qui garde son nom d’un système à l’autre.** Les quatre siègent en Binah, chacune l’Eau de sa série, comme sur les pages de cartes de ce site, où la Reine de Coupes est Eau d’Eau.
 
 {{< cards "waqu cuqu swqu pequ" >}}
 
@@ -56,7 +56,7 @@ Quatre femmes assises sur un trône, aucune ne part nulle part. Dans ma lecture,
 
 ## Binah et l’astrologie : Saturne {#astrologie}
 
-La Golden Dawn donne à Binah [Saturne](/fr/bibliotheque/astrologie/saturne/) : le temps, les limites, la structure, la leçon qui prend des années. C’est la première vraie planète en descendant l’Arbre, après le Premier Mobile de Keter et le zodiaque de Hokhmah, et la plus lente des sept planètes que voyaient les Anciens. Une carte rend le lien visible : le Trois d’Épées, Binah dans la série de l’Air, est Saturne en Balance.
+La Golden Dawn donne à Binah [Saturne](/fr/bibliotheque/astrologie/saturne/) : le temps, les limites, la structure, la leçon qui prend des années. C’est la première vraie planète en descendant l’Arbre, et la plus lente des sept que voyaient les Anciens. Une carte rend le lien visible : le Trois d’Épées, Binah dans la série de l’Air, est Saturne en Balance.
 
 Quand j’ai testé l’astrologie sur mon thème et sur ceux des autres, Saturne a fait partie des trois placements qui tenaient le mieux. C’est mon décompte, pas une étude — mais c’est pourquoi le rapprochement ne me paraît pas tiré par les cheveux : la forme, comme Saturne, fait durer les choses, et c’est aussi elle qui fait mal.
 
@@ -66,13 +66,13 @@ Binah apporte une question sur la forme : cette idée a-t-elle trouvé son conte
 
 L’inverse marche aussi. Un tirage plein de Deux et sans Trois peut décrire quelqu’un qui voit clair mais ne s’est pas encore assis pour travailler. Binah ne lui dit pas quoi faire ; elle nomme l’étape.
 
-C’est tout ce que cette clé de lecture prétend. Elle reste un supplément, à côté du nombre, de l’élément et de la couleur, et un tirage tient très bien sans elle.
+Cette clé de lecture ne prétend rien de plus. C’est un supplément, à côté du nombre, de l’élément et de la couleur ; un tirage tient très bien sans elle.
 
 ## Sources {#sources}
 
 Toutes en anglais.
 
-- [Sefaria, « Bina »](https://www.sefaria.org/topics/bina2) — la sephirah dans les sources juives : comprendre une chose à partir d’une autre, recevoir la lumière de la sagesse, le partsouf Imma.
+- [Sefaria, « Bina »](https://www.sefaria.org/topics/bina2) — la sephirah dans les sources juives : comprendre une chose à partir d’une autre, le partsouf Imma.
 - [Encyclopædia Britannica, « Sefira »](https://www.britannica.com/topic/sefira) — les dix sephirot comme émanations, du Sefer Yetsira à la Kabbale plus tardive.
-- [Benebell Wen, « The Kings/Knights: Tarot Card Meanings »](https://benebellwen.com/2019/08/17/the-kings-knights-tarot-card-meanings/) — une autrice de tarot sur la correspondance entre les titres de la Golden Dawn et les figures du Rider-Waite-Smith et du Thoth, et pourquoi elle fait débat.
+- [Benebell Wen, « The Kings/Knights: Tarot Card Meanings »](https://benebellwen.com/2019/08/17/the-kings-knights-tarot-card-meanings/) — les titres de la Golden Dawn face aux figures du Rider-Waite-Smith et du Thoth, et pourquoi c’est discuté.
 - [Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983)](https://discovery.nypl.org/research/research-catalog/bib/b10815500) — notice de bibliothèque d’une étude du tarot de la Golden Dawn sur l’Arbre de Vie, avec les Reines en Binah.
