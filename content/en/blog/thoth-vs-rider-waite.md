@@ -52,7 +52,7 @@ The court cards become Knight, Queen, Prince and Princess. Many readers map them
 
 ## What it changes for you as a reader {#for-you}
 
-First, the scene shortcut disappears. With a Rider-Waite-Smith Five of Cups, you read the bowed figure and the two cups still standing. With the Thoth, you read the number, the element, the colours and the title. **The lenses still work on the Thoth; the picture just stops doing half the work for you.** Colour carries much more of the meaning, so [the colour lens](/library/tarot-colours/) becomes your first door rather than your third.
+First, the scene shortcut disappears. With a Rider-Waite-Smith Five of Cups, you read the bowed figure and the two cups still standing. With the Thoth, you read the number, the element, the colours and the title. **The lenses still work on the Thoth; the picture stops doing half the work for you.** Colour carries much more of the meaning, so [the colour lens](/library/tarot-colours/) becomes your first door rather than your third.
 
 Second, the titles steer you. “Sorrow” tells you what to feel before you've looked. That's clear and quick, and it also leaves less room for your own first impression — which, in my way of reading, is where most of the useful material comes from.
 

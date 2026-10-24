@@ -31,7 +31,7 @@ Writing a title on every trump became a French habit, and the Marseille pattern,
 
 Why it settled in, nobody wrote down. There are three explanations people usually give:
 
-1. *A reluctance to write the word.* Naming death on a card in a game felt like tempting fate. It's the most common explanation, and plausible, but I haven't found a document that proves it.
+1. *A reluctance to write the word.* Writing death on a card used in a game might have felt like inviting it in. It's the most common explanation, and plausible, but I haven't found a document that proves it.
 2. *The picture already said it.* A skeleton with a scythe was one of the most familiar images in Europe. A title added nothing.
 3. *Copying.* Card makers cut their woodblocks after each other's decks. Once a widely copied model had an empty banner, the empty banner travelled.
 

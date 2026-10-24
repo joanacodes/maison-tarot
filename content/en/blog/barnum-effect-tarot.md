@@ -19,6 +19,8 @@ The Barnum effect, also called the Forer effect, is the habit we all have of acc
 
 The classic demonstration is simple. In 1948 the psychologist Bertram Forer gave his students a personality test, then handed each of them “their” personal analysis. Every student received the same text, assembled largely from a newsstand astrology book. Asked to rate how well it described them, from zero to five, they gave it on average just over four. The experiment has been repeated many times since, with similar results.
 
+You’ve met the effect outside tarot too: the horoscope in a free newspaper, the online quiz that tells you which character you are, the profile a personality test hands back at work. All of them lean on the same kind of sentence.
+
 Barnum statements share a few features:
 
 - *They’re true of almost every adult.* “You give more than you receive.” “There’s someone you haven’t fully forgiven.”
@@ -38,7 +40,7 @@ Say someone draws the Two of Swords, the Moon and the Five of Cups.
 
 {{< cards "sw02 ar18 cu05" >}}
 
-The easy reading writes itself: “You’re avoiding a decision. Something isn’t clear to you yet. And there’s a disappointment you’re still carrying.” Every one of those sentences is true of most people, most weeks. Said warmly, in a quiet room, they’ll land.
+The vague reading writes itself: “You’re avoiding a decision. Something isn’t clear to you yet. And there’s a disappointment you’re still carrying.” Every one of those sentences is true of most people, most weeks. Said warmly, in a quiet room, they’ll land.
 
 The second thing is the setting. People usually come to a reading with something on their mind. They’re primed to hear it, and they’ll connect almost any sentence to it within a second — without being foolish, because that’s how attention works.
 
@@ -81,6 +83,8 @@ That last sentence is a hypothetical, built from two cards: the Eight of Swords 
 In my notes, the Eight of Swords is someone prisoner of themselves while holding every tool they need — the blindfold can come off. The Four of Wands is foundations: marriage, building a family. The Barnum version stays at “you feel stuck”. The specific version names a situation, a role and a cause.
 
 **A sentence that can be wrong is the only kind worth counting.** If the person says no, it’s a miss and I write it down. If they say yes, it means something, because it could easily have been no.
+
+When I catch a vague sentence on its way out of my mouth, I try to push it one step further: not “you feel stuck”, but stuck where, with whom, since when. If nothing more specific comes, I’d rather leave the sentence unsaid.
 
 I ran the same test on my own birth chart when I was testing astrology: a tick if a placement described me in a way I couldn’t have written about anyone else, a cross if it would fit my neighbour. Overall, about 30 to 40% held. That story is in [I tested my birth chart box by box](/blog/i-tested-my-birth-chart/).
 
