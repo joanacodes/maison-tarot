@@ -1,1 +1,2 @@
-<p class="todo">{{ .Inner }}</p>
+{{- /* Note de rédaction : visible en local (hugo server) pour qu'on la remplisse, jamais en ligne, comme les images manquantes. */ -}}
+{{- if hugo.IsServer }}<p class="todo">{{ .Inner }}</p>{{ end -}}

@@ -11,13 +11,13 @@ number: 1
 cardId: peac
 element: Terre
 numerology: un — le début, le diamant brut
-astrology: Racine de Terre
+astrology: Racine de la Terre
 energy: Féminine
 kabbalah: ''
 image: cards/peac.webp
 h1: As de Pentacles — <em>un</em>, la Terre
 lede: 'Avant de chercher ce que « signifie » As de Pentacles, regardez ce que vous
-  avez déjà : un, l’élément Terre, Racine de Terre. Vous lisez la carte. Le nombre
+  avez déjà : un, l’élément Terre, Racine de la Terre. Vous lisez la carte. Le nombre
   dit un — le début, le diamant brut ; l’élément dit la matière, ce qui tient. Posez
   les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà —
   le reste de la page vous montre comment.'
@@ -38,7 +38,7 @@ categories:
 tags:
 - As de Pentacles
 - Terre
-- Racine de Terre
+- Racine de la Terre
 - arcane mineur
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
@@ -67,7 +67,7 @@ Le pentacle est [doré](/fr/bibliotheque/couleurs-tarot/or-et-brun/) : la valeur
 
 Lisez les couleurs avant la carte et vous avez déjà : quelque chose de précieux, offert proprement, au-dessus d’une terre où les choses peuvent pousser.
 
-## Par l’astrologie : Racine de Terre {#astrologie}
+## Par l’astrologie : Racine de la Terre {#astrologie}
 
 Dans la tradition Golden Dawn, les As n’ont ni planète ni signe. Chacun est la racine de son élément — ici, « la Racine des Pouvoirs de la Terre » : la Terre entière, avant d’être partagée entre le Taureau, la Vierge et le Capricorne, dont les décans reviennent aux cartes du Deux au Dix.
 

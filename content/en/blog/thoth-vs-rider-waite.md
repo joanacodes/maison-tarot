@@ -19,7 +19,7 @@ The Thoth is a 78-card tarot, like the Rider-Waite-Smith, built on the same skel
 
 [Aleister Crowley](/library/tarot-figures/aleister-crowley/), an English occultist who had been through the Golden Dawn before founding his own system, Thelema, wrote the symbolism. [Frieda Harris](/library/tarot-figures/frieda-harris/), a painter, made the paintings, redoing many of them as the project grew. It was meant to take six months; it took about five years. Crowley's book on the deck, *The Book of Thoth*, came out in 1944 in a small edition; the cards themselves had to wait another quarter of a century.
 
-Harris's original paintings belong to the Warburg Institute in London, which showed them in 2025, for the first time in England since her death ([the Warburg's exhibition page](https://warburg.sas.ac.uk/news-events/news/tarot-origins-afterlives-opening-soon-warburg-institute)).
+Harris's original paintings are kept at the Warburg Institute in London, which showed them in 2025, for the first time in England since her death ([the Warburg's exhibition page](https://warburg.sas.ac.uk/news-events/news/tarot-origins-afterlives-opening-soon-warburg-institute)).
 
 ## What changes in the major arcana {#major-arcana}
 

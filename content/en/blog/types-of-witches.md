@@ -41,7 +41,7 @@ Other words describe the shape of a practice rather than its material.
 
 And some words are about belief.
 
-- *Wiccan.* A follower of Wicca, a modern pagan religion that took shape in England in the mid-twentieth century, with its own deities, ethics and eight seasonal festivals — Samhain, on 31 October, is one of them ([Samhain and tarot](/blog/samhain-tarot/) is coming up). Wiccans generally practise witchcraft; not every witch is Wiccan.
+- *Wiccan.* A follower of Wicca, a modern pagan religion that took shape in England in the mid-twentieth century, with its own deities, ethics and eight seasonal festivals — Samhain, on 31 October, is one of them; I've written about [Samhain and tarot](/blog/samhain-tarot/). Wiccans generally practise witchcraft; not every witch is Wiccan.
 - *Pagan witch.* Practises within a pagan religion other than Wicca, often a modern revival of an older one, Norse or Celtic for instance.
 - *Secular witch.* Practises without religious belief: rituals as a way to focus, plants as plants, the moon as a calendar. For many people this is where witchcraft and everyday life meet most easily.
 
@@ -53,7 +53,7 @@ There is one place where the two meet, though. On many witches' altars sit four 
 
 {{< cards "ar01 waac cuac swac peac" >}}
 
-In my notes, the Magician is the card of the four elements — wand, cup, sword, pentacle — plus the ether: someone who knows how to use everything on the table. Its weak side is that he can pretend. A tool on an altar does nothing on its own; the person holding it does.
+In my notes, the Magician is the card of the four elements — wand, cup, sword, pentacle — plus the ether: someone who knows how to use everything on the table. His weak side: he can pretend. A tool on an altar does nothing on its own; the person holding it does.
 
 ## Which witch am I? {#which-witch-am-i}
 

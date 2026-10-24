@@ -62,4 +62,4 @@ Tôt ou tard, un quiz vous demandera si vous êtes une sorcière verte, une sorc
 
 ## Votre premier pas cette semaine {#etape-suivante}
 
-Choisissez une des trois pratiques ci-dessus et gardez-la un mois, carnet ouvert. Si ce sont les cartes qui vous attirent, le [parcours gratuit pour apprendre le tarot](/fr/apprendre-le-tarot/) commence par une seule carte et cinq clés de lecture — sans coffret de débutante.
+Choisissez une des trois pratiques ci-dessus et gardez-la un mois, carnet ouvert. Si ce sont les cartes qui vous attirent, le [parcours gratuit pour apprendre le tarot](/fr/apprendre-le-tarot/) commence par une seule carte et cinq clés de lecture — sans coffret pour débutants.

@@ -1,6 +1,6 @@
 ---
 title: "Lots of Cups in a tarot spread: what it’s telling you"
-description: "Lots of Cups in a tarot spread puts feelings and relationships at the centre, whatever the question. How many count as a lot, and how to read which way the water flows."
+description: "Lots of Cups in a tarot spread puts feelings and relationships at the centre. How many count as a lot, and how to read which way the water is flowing."
 translationKey: "post-lots-of-cups-in-a-reading"
 type: blog
 date: 2026-10-24
