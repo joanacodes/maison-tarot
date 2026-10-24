@@ -1,6 +1,6 @@
 ---
 title: "Tarot for decision making: using the cards without letting them decide"
-description: "Tarot for decision making works when the cards lay out the choice and you make it. A three-card method, the questions to leave out, and how to keep deciding yourself."
+description: "Tarot for decision making works when the cards lay out the choice and you make it. A three-card method, what to leave out, and how to keep deciding for yourself."
 translationKey: "post-tarot-for-decision-making"
 type: blog
 date: 2026-10-24

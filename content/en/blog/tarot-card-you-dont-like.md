@@ -50,7 +50,7 @@ When you’ve found both sides of a card you dislike, you can read it for someon
 3. Write one line in your notebook.
 4. At the end of the week, put it back, and notice how it feels the next time it turns up.
 
-The same image reads differently from one day to the next, and a card you look at fresh every morning slowly stops being the card you’d decided it was. This is one of the exercises in [practising tarot with nobody to read for](/blog/practise-tarot-alone/).
+The same image reads differently from one day to the next, and a card you look at fresh every morning slowly stops being the card you’d decided it was. It works like the daily card in [practising tarot with nobody to read for](/blog/practise-tarot-alone/), with one card held still for a whole week.
 
 ## When the dislike is a memory {#memory}
 

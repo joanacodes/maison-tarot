@@ -1,6 +1,6 @@
 ---
 title: "How many tarot cards should you pull? A rule of thumb by question"
-description: "How many tarot cards to pull: one for a day, three for a stuck situation, five for a choice, ten for a real crossroads. Decide before you shuffle — here’s why it matters."
+description: "How many tarot cards to pull: one for a day, three for a stuck situation, five for a choice, ten for a real crossroads — and why you choose before you shuffle."
 translationKey: "post-how-many-tarot-cards-to-pull"
 type: blog
 date: 2026-10-24

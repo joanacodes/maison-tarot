@@ -1,6 +1,6 @@
 ---
 title: "Cold reading vs tarot reading: how to tell which one you just had"
-description: "Cold reading vs tarot: what cold reading is, why a reader who seems spot on about your past may be reading you, not the cards, and six questions to tell the two apart."
+description: "Cold reading vs tarot: what cold reading is, why a reader spot on about your past may be reading you rather than the cards, and six questions to tell them apart."
 translationKey: "post-cold-reading-vs-tarot"
 type: blog
 date: 2026-10-24

@@ -1,6 +1,6 @@
 ---
 title: "Faire un retour à un autre tarologue avec bienveillance"
-description: "Faire un retour à un autre tarologue avec bienveillance : citer mot pour mot ce qui a résonné, nommer simplement les ratés, et garder les remarques de style pour après."
+description: "Faire un retour à un autre tarologue avec bienveillance : citer mot pour mot ce qui a résonné, nommer les ratés sans détour, garder la forme pour plus tard."
 translationKey: "post-feedback-to-tarot-reader"
 type: blog
 date: 2026-10-24
@@ -45,7 +45,7 @@ Deux lecteurs peuvent regarder le même tirage, y voir deux histoires différent
 
 ## Deux compliments à laisser de côté {#a-laisser-de-cote}
 
-« Tu as un don. » C’est dit avec chaleur, et je comprends pourquoi on le dit. Mais ce compliment sort la lecture des mains du lecteur : si c’est un don, il n’y a rien à travailler ni à vérifier. Il n’y a pas d’élus, seulement quelqu’un qui a lâché prise au bon moment, et ça peut se refaire. Nommez plutôt ce qu’il a fait — « vous avez fait confiance à la première image et vous l’avez dite tout de suite » — pour qu’il sache quoi refaire. J’explique pourquoi je rends gentiment ce compliment dans [« Tu as un don »](/fr/blog/tu-as-un-don/).
+« Tu as un don. » C’est dit avec chaleur, et je comprends pourquoi on le dit. Mais ce compliment sort la lecture des mains du lecteur : si c’est un don, il n’y a rien à travailler ni à vérifier. Il n’y a pas d’élus, seulement quelqu’un qui a lâché prise au bon moment, et ça peut se refaire. Nommez plutôt ce qu’il a fait — « vous avez fait confiance à la première image et vous l’avez dite tout de suite » — pour qu’il sache quoi refaire. J’explique pourquoi dans [le compliment que je rends gentiment](/fr/blog/tu-as-un-don/).
 
 « Vous êtes meilleur que le dernier tarologue que j’ai vu. » Les comparaisons ont l’air généreuses et n’apprennent rien ; le lecteur ne peut rien en faire. Restez sur ce tirage, cette phrase, cette carte.
 

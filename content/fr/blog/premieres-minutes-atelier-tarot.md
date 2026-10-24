@@ -39,7 +39,7 @@ Deux choses peuvent se passer, et les deux vont très bien.
 
 Quelque chose vient. Vous le dites, avec un peu de surprise, sans trop savoir d’où ça sort. Parfait : c’est pour ça qu’on est là.
 
-Rien ne vient. Ça arrive aussi, et c’est presque toujours la pression : vous voulez bien faire, alors la porte reste fermée. Décrivez alors ce qu’il y a sur la carte — les couleurs, le personnage, le décor. Ça compte déjà, et on en parle ensemble. J’ai écrit un article sur [ce qu’on peut faire quand on ne ressent rien](/fr/blog/je-ne-ressens-rien-tarot/).
+Rien ne vient. Ça arrive aussi, et c’est le plus souvent la pression : vous voulez bien faire, alors la porte reste fermée. Décrivez plutôt ce qu’il y a sur la carte — les couleurs, le personnage, le décor. Ça compte déjà, et on en parle ensemble. J’ai écrit un article sur [ce qu’on peut faire quand on ne ressent rien](/fr/blog/je-ne-ressens-rien-tarot/).
 
 Personne n’est noté. Vous vous tromperez pendant ces trois heures, et on regardera pourquoi ensemble : c’est là qu’on apprend le plus. Quand quelqu’un d’autre lit, vous vous entraînerez à dire ce qui a résonné pour vous — [faire un retour avec bienveillance](/fr/blog/faire-un-retour-a-un-tarologue/) fait partie du travail.
 

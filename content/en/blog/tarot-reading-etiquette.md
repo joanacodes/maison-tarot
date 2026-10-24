@@ -1,6 +1,6 @@
 ---
 title: "Tarot reading etiquette: what to do before, during and after"
-description: "Tarot reading etiquette for both chairs: what to keep to yourself before a reading, how to sit through it, and the honest feedback afterwards that makes it worth having."
+description: "Tarot reading etiquette for both chairs: what to keep to yourself before, how to sit through a reading, and the honest feedback after that makes it worth having."
 translationKey: "post-tarot-reading-etiquette"
 type: blog
 date: 2026-10-24
@@ -36,7 +36,7 @@ Say the reader turns over the Three of Swords and you gasp.
 
 {{< cards "sw03" >}}
 
-You’ve just told them the card hit something painful, and probably what kind of pain. **Your reactions can do the reading for the reader, so give them as few as you can.** Not because it’s a test, but because you want to know afterwards what came from where.
+You’ve just told them the card hit something painful, and probably what kind of pain. That’s the raw material of [cold reading](/blog/cold-reading-vs-tarot/), even with a perfectly sincere reader. **Your reactions can do the reading for the reader, so give them as few as you can.** Not because it’s a test, but because you want to know afterwards what came from where.
 
 Ask before you touch someone else’s deck. There’s nothing mystical in it; it’s their tool, the way you’d ask before picking up someone’s guitar.
 
@@ -66,7 +66,7 @@ The reader’s manners matter as much, and they’re a little stricter.
 2. Say what you don’t read on before you start, gently and early.
 3. Tell the person they can stop you whenever they like.
 4. Say “that’s a miss” when it’s a miss. No reshuffle, no extra card to rescue it.
-5. Watch your own tiredness. Interpreting takes energy; I sometimes stop after two hours of readings, out of caution, and I’m never sorry I did.
+5. Watch your own tiredness. Interpreting takes energy; I sometimes stop after two hours of readings, out of caution. If you leave a session [feeling drained](/blog/energy-after-tarot-reading/), rest before the next one.
 6. End the reading on purpose rather than letting it trail off — there’s a whole piece on [how to end a tarot reading well](/blog/how-to-end-a-tarot-reading/).
 
 ## The short version {#short-version}

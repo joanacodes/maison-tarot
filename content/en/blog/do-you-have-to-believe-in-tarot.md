@@ -19,6 +19,8 @@ In the way I read, belief doesn’t enter the process at any point. The person t
 
 There’s no step in that loop where the person has to believe anything. There is a step where they have to be honest. That’s a much smaller ask, and a more useful one.
 
+Say you sit down convinced it’s all nonsense. That costs the reading nothing. What would cost it something is telling me your question first, or nodding along to every sentence to be polite. Doubt leaves the test clean; politeness muddies it.
+
 ## Why doubtful people are the best people to read {#doubt}
 
 I wrote it in my [guide to reading for beginners](/blog/how-to-read-tarot-beginners/) and I still think it: when someone is doubtful during a reading, they’re in the best state a person can be in.
@@ -33,11 +35,13 @@ Openness, the way I use the word, means you’ve agreed to be read. You’re in 
 
 It matters because someone who doesn’t know they’re being read isn’t open, and you only get half a sentence from them, then build a whole statement on it. That’s one of the reasons I don’t [read people who haven’t asked](/blog/reading-tarot-about-someone-else/). As I put it in my notes: this is only my experience and the hypothesis I make from it; nothing has been proven scientifically.
 
-What tends to close a reading, in my experience, isn’t doubt. It’s fear. Sometimes I can’t see anything in the cards, and it’s either my own block — too much pressure to get it right — or the other person’s, because they’re afraid of what they might hear. When that happens I stop and we talk. I reassure them. A person who thinks the whole thing is nonsense is often easier to read than a person who is frightened of it.
+What tends to close a reading, in my experience, isn’t doubt. It’s fear. Sometimes I can’t see anything in the cards, and it’s either my own block — too much pressure to get it right — or the other person’s, because they’re afraid of what they might hear. When that happens I stop and we talk. I reassure them. A person who thinks the whole thing is nonsense can be easier to read than a person who is frightened of it.
 
 ## Does the reader have to believe? {#the-reader}
 
-Not in the way people usually mean. Before every reading I tell myself: *I’m about to talk nonsense.* The lower I set the expectation, the more accurate it gets. A reader who is sure of their gift tends to start rescuing readings instead of saying what comes.
+Not in the way people usually mean. I started reading on 26 December 2020, expecting to need months of training before anything landed. My first reading was accurate. I hadn’t believed it would be; it happened anyway.
+
+Before every reading now, I tell myself: *I’m about to talk nonsense.* The lower I set the expectation, the more accurate it gets. A reader who is sure of their gift tends to start rescuing readings instead of saying what comes.
 
 I don’t know how tarot works. I’ve laid out [the four explanations people give](/blog/how-does-tarot-work/), and I don’t need any of them to read. What I have instead of belief is a count, misses included. If you’re a sceptic wondering whether you could learn anyway, I came to astrology to laugh at it, and I tell that story in [can a sceptic learn tarot](/blog/can-a-sceptic-learn-tarot/).
 

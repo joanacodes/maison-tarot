@@ -1,6 +1,6 @@
 ---
 title: "The cross spread: a five-card layout popular in France"
-description: "The cross spread is a five-card tarot layout: for, against, the way through, where it’s heading, and a centre card you add up. How to lay it, read it, and when to skip it."
+description: "The cross spread is a five-card layout: for, against, the way through, where it’s heading, and a centre you add up. How to lay it, read it, and when to skip it."
 translationKey: "post-cross-tarot-spread"
 type: blog
 date: 2026-10-24
