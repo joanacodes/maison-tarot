@@ -1,6 +1,6 @@
 ---
 title: "Les premiers tarots : les tarocchi italiens du XVe siècle"
-description: "Le tarot naît dans l’Italie du XVe siècle sous le nom de trionfi, un jeu de cartes à atouts : les premières traces, les jeux Visconti-Sforza et où les voir, le mot tarocchi."
+description: "Le tarot naît dans l’Italie du XVe siècle sous le nom de trionfi, un jeu à atouts : les premières traces, les jeux Visconti-Sforza et où les voir, le mot tarocchi."
 translationKey: "hist-italian-tarocchi"
 type: library
 navTitle: "Les tarots italiens"
@@ -29,7 +29,7 @@ Les plus anciennes mentions du jeu datent des années 1440 et 1450. Le 16 septem
 
 C’était un jeu de levées, comme la belote : chacun pose une carte, la plus forte emporte le pli. Un triomphe bat n’importe quelle carte des quatre enseignes. Le jeu de tarot auquel on joue encore en France, avec ses vingt et un atouts et son Excuse, en est un lointain descendant. Michael Dummett, dont le livre *The Game of Tarot* (1980) a fondé l’histoire sérieuse du sujet, pensait que le tarot avait été inventé précisément pour jouer avec cette idée neuve d’atout.
 
-**Les vingt-deux cartes qu’on lit aujourd’hui pour leur sens ont d’abord été les cartes les plus fortes d’un jeu.**
+**Les arcanes majeurs qu’on lit aujourd’hui pour leur sens ont d’abord été les atouts d’un jeu de cartes.**
 
 Il existe un curieux précurseur. Au début du siècle, Filippo Maria Visconti, duc de Milan, avait fait imaginer par son secrétaire et astrologue, Marziano da Tortona, un jeu à seize figures de dieux et de héros antiques, avec quatre enseignes d’oiseaux ; le peintre Michelino da Besozzo en réalisa les cartes. Ce jeu est perdu, et ce n’était pas, à proprement parler, un tarot. Mais il ajoutait déjà des cartes allégoriques à un jeu, ce que fera le tarot.
 

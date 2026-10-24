@@ -47,7 +47,7 @@ Les cartes mineures n’ont pas de scènes. Un Cinq de Coupes, ce sont cinq coup
 
 Le nom est une étiquette du XIXe siècle : l’International Playing-Card Society note qu’il a été forgé à cette époque, par des érudits comme par des occultistes. Les occultistes ont pris ce modèle pour référence. En 1889, [Oswald Wirth](/fr/bibliotheque/figures-du-tarot/oswald-wirth/) dessine vingt-deux arcanes majeurs étroitement inspirés du Tarot de Marseille, publiés la même année avec le livre de Papus sur le tarot ; [la page sur le tarot occultiste](/fr/bibliotheque/histoire-du-tarot/tarot-occultiste-xixe-siecle/) raconte la suite.
 
-Le XXe siècle a fixé le nom. En 1930, Paul Marteau, qui dirige alors la maison Grimaud, publie *L’Ancien Tarot de Marseille*. Malgré le mot « ancien », c’est une édition du XXe siècle fondée sur des modèles du XVIIIe, et son titre a installé le nom.
+C’est le XXe siècle qui a installé le nom. En 1930, Paul Marteau, qui dirige alors la maison Grimaud, publie *L’Ancien Tarot de Marseille*. Malgré le mot « ancien », c’est une édition du XXe siècle fondée sur des modèles du XVIIIe.
 
 Une correction tranquille, donc. Le Tarot de Marseille n’est pas le tarot « originel », ni un livre secret du Moyen Âge : c’est un modèle français de l’époque moderne, descendu d’un jeu italien, dont le plus ancien exemple conservé est parisien.
 

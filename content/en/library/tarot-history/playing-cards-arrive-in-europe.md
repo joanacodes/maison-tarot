@@ -28,7 +28,7 @@ In March 1377, the government of Florence passed a ban on a card game it called 
 
 The same year, a Dominican friar wrote the oldest detailed description of cards in Europe. He is known as Johannes of Rheinfelden, though his treatise says he was born in Freiburg. His Latin text, the *Ludus cartularum moralisatus*, uses the game as a mirror of society, the way an older friar, Jacobus de Cessolis, had used chess. By the friar’s own account, the game had reached his country that very year. He describes packs with kings and queens, others with officers called marshals, and packs with four, five or even six suits: the Europeans were still experimenting.
 
-Then the mentions multiply. The International Playing-Card Society counts cards reliably reported by 1380 in places as far apart as Florence, Basel, Regensburg, Brabant, Paris and Barcelona. A ban in Bern dated 1367 is sometimes quoted as earlier, but its text survives in a copy made around 1398, and historians such as Hellmut Rosenfeld have argued the line on cards was added then.
+Then the mentions multiply. The International Playing-Card Society (IPCS) counts cards reliably reported by 1380 in places as far apart as Florence, Basel, Regensburg, Brabant, Paris and Barcelona. A ban in Bern dated 1367 is sometimes quoted as earlier, but its text survives in a copy made around 1398, and historians such as Hellmut Rosenfeld have argued the line on cards was added then.
 
 **The shape of the evidence is the point: nothing, then a burst of records within a few years, several of them describing the game as new.** A chronicle of Viterbo, for instance, says a game called *nayb* was brought there in 1379 by a “Saracen”.
 

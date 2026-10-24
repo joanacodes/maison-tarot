@@ -66,7 +66,7 @@ Crowley’s Thoth tarot, painted by [Frieda Harris](/library/tarot-figures/fried
 
 I treat the Golden Dawn’s correspondences as one more lens, not as the truth of the cards. They’re useful when you read older books, when you read the Thoth deck, or when [astrology](/library/astrology/) speaks to you. They are optional when you start.
 
-Say someone draws the Emperor next to the Four of Wands. Without any system, you already see red, a throne, a structure, a celebration. The Golden Dawn adds Aries to the Emperor and Venus in Aries to the Four of Wands: two fiery signs, a start that wants to last. Useful, if it helps. Leave it aside if it doesn’t.
+Say someone draws the Emperor next to the Four of Wands. Without any system, you already see red, a throne, a structure, a celebration. The Golden Dawn adds Aries to the Emperor and Venus in Aries to the Four of Wands: Aries twice, a start that wants to last. Useful, if it helps. Leave it aside if it doesn’t.
 
 ## Sources {#sources}
 

@@ -1,6 +1,6 @@
 ---
 title: "Le tarot occultiste au XIXe siècle : Lévi, Papus et le lien avec la Kabbale"
-description: "Comment les occultistes français ont fait du tarot un système magique : Dogme et rituel de Lévi (1856), les 22 lettres hébraïques, Papus et Wirth en 1889, le mythe des Roms."
+description: "Comment les occultistes français font du tarot un système magique : Lévi et son Dogme et rituel (1856), les lettres hébraïques, Papus et Wirth, le mythe des Roms."
 translationKey: "hist-occult-tarot-19th-century"
 type: library
 navTitle: "Le tarot occultiste"

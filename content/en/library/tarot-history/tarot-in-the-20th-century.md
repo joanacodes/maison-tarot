@@ -39,7 +39,15 @@ The Golden Dawn’s tarot teaching didn’t stay in the lodge for long. In 1912,
 
 [Aleister Crowley](/library/tarot-figures/aleister-crowley/) went on to design his own deck, the Thoth tarot, painted by Frieda Harris. It keeps the Golden Dawn’s astrology and decans and changes the look of everything else. [Thoth or Rider-Waite-Smith](/blog/thoth-vs-rider-waite/) compares the two for a reader.
 
-{{< todo >}}Add here: the 1960s–70s boom, once checked against sources — Eden Gray’s books, the date U.S. Games Systems licensed the Rider-Waite deck (1971?), and the Thoth deck’s dates (painted 1938–1943, published 1969). Not verified in this pass.{{< /todo >}}
+The Thoth deck itself waited: Harris painted it between 1938 and 1943, and it was first printed as cards only after both of them had died, in an edition usually dated 1969.
+
+## The 1960s and 70s: tarot reaches the bookshop {#boom}
+
+In New York, Eden Gray ran a bookshop and small publishing house, Inspiration House, which brought out her first book, *The Tarot Revealed*, in 1960. Her *Complete Guide to the Tarot* followed in 1970, and its closing chapter gave teachers a phrase they still use: the Fool’s Journey, the 22 major arcana read as the stages of one trip. Her books were built on the Rider-Waite-Smith images, so a whole generation of new readers learned on that deck.
+
+**The deck everyone reads today owes its shelf space to a 1960s bookseller and a 1970s card publisher as much as to 1909.**
+
+Around the same time, U.S. Games Systems, founded by Stuart Kaplan in 1968, acquired the rights to reprint the Rider-Waite deck (sources give 1970 or 1971), and its editions have kept it in shops ever since.
 
 ## France: the Marseille gets a standard edition {#france}
 
@@ -63,3 +71,5 @@ If you’re starting out, start where Smith’s pictures make it possible: look 
 - [The Morgan Library & Museum, *Tarot! Renaissance Symbols, Modern Visions*, press release](https://www.themorgan.org/press/2026/tarot-exhibition) — the 2026 exhibition, from the Milanese decks to modern artists.
 - [Museum of Witchcraft and Magic, Israel Regardie, *The Golden Dawn*](https://museumofwitchcraftandmagic.co.uk/library/314-golden-dawn-the/) — the 1937–1940 volumes that put the Order’s teaching into print.
 - [Yale University Library, *Ancien Tarot de Marseille* (Grimaud)](https://collections.library.yale.edu/catalog/10991686) — the catalogue record for Paul Marteau’s edition.
+- [Mary K. Greer, “Eden Gray’s Fool’s Journey”](https://marykgreer.com/2008/03/27/eden-grays-fools-journey/) — tarot historian and author: Eden Gray’s books and where the Fool’s Journey comes from.
+- [U.S. Games Systems](https://en.wikipedia.org/wiki/U.S._Games_Systems) — Wikipedia: the company, its founding in 1968 and the Rider-Waite rights.

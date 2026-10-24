@@ -1,6 +1,6 @@
 ---
 title: Histoire de la divination
-description: "D’où vient le tarot, période par période : les premières cartes en Europe vers 1377, les trionfi italiens, le modèle de Marseille, le tournant occulte, le XXe siècle."
+description: "D’où vient le tarot, période par période : les premières cartes en Europe vers 1377, les trionfi italiens, le modèle de Marseille, l’occultisme, le XXe siècle."
 translationKey: lib-history
 type: library
 weight: 90

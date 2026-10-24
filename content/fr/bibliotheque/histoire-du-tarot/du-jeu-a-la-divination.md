@@ -1,6 +1,6 @@
 ---
 title: "Du jeu de cartes à la divination : le tournant du XVIIIe siècle"
-description: "Comment le tarot est devenu un outil de divination dans la France du XVIIIe siècle : une feuille de Bologne, l’Égypte de Court de Gébelin en 1781, le comte de Mellet, Etteilla."
+description: "Comment le tarot devient un outil de divination au XVIIIe siècle : une feuille de Bologne, l’Égypte de Court de Gébelin en 1781, le comte de Mellet et Etteilla."
 translationKey: "hist-from-game-to-divination"
 type: library
 navTitle: "Du jeu à la divination"
@@ -25,7 +25,7 @@ Le tarot est devenu un outil de divination en France, dans les années 1780. On 
 
 ## Avant 1781 : la bonne aventure avec des cartes ordinaires {#avant}
 
-La cartomancie a précédé le tarot. Le jeu de piquet, ses 32 cartes, est passé en premier : l’homme qui signera Etteilla publie en 1770 un livre pour le lire. Michael Dummett, l’historien du jeu, en concluait que le tarot n’a été pris pour la cartomancie que dans les années 1780, quand la bonne aventure avec les cartes ordinaires était installée depuis une vingtaine d’années.
+On a tiré les cartes ordinaires avant de tirer le tarot. Le jeu de piquet, avec ses 32 cartes, en faisait partie : l’homme qui signera Etteilla publie en 1770 un livre pour le lire. Michael Dummett, l’historien du jeu, en concluait que le tarot n’a été pris pour la cartomancie que dans les années 1780, quand la bonne aventure avec les cartes ordinaires était installée depuis une vingtaine d’années.
 
 Il existe une trace plus ancienne. Le chercheur italien Franco Pratesi a retrouvé à Bologne une feuille unique qui donne de courts mots-clés divinatoires pour 35 cartes du tarot local. On la date en général du milieu du XVIIIe siècle, et sa date exacte est discutée. Elle montre qu’à Bologne, on attachait des sens à certaines cartes. Elle ne montre ni un système, ni une théorie, ni un livre.
 
@@ -35,7 +35,7 @@ Il existe une trace plus ancienne. Le chercheur italien Franco Pratesi a retrouv
 
 Le même tome contient un second essai, signé « M. le C. de M.*** », que l’on identifie aujourd’hui à Louis-Raphaël-Lucrèce de Fayolle, comte de Mellet. Il relie les atouts aux lettres de l’alphabet hébreu et décrit une manière de tirer l’avenir avec les cartes. Les historiens du tarot jugent son essai le plus influent des deux.
 
-**Il n’y avait aucune preuve de l’origine égyptienne en 1781, et on n’en a trouvé aucune depuis.** Ce qu’on trouve, dans les archives et les musées, c’est une piste de jeux de cartes italiens qui commence dans les années 1440. L’idée de Court de Gébelin mérite quand même d’être connue : presque tous les « mystères antiques » des livres de tarot coulent de ces pages-là.
+**Il n’y avait aucune preuve de l’origine égyptienne en 1781, et on n’en a trouvé aucune depuis.** Ce qu’on trouve, dans les archives et les musées, c’est une piste de jeux de cartes italiens qui commence dans les années 1440. L’idée de Court de Gébelin mérite quand même d’être connue : une bonne part des « mystères antiques » des livres de tarot coule de ces pages-là.
 
 ## Etteilla, le premier à en vivre {#etteilla}
 
@@ -49,7 +49,7 @@ Sa page de figure raconte sa vie. Pour cette période, l’essentiel tient en un
 
 Le jeu ne disparaît pas ; on continue d’y jouer. Ce qui change, c’est qu’une seconde vie s’ouvre à côté de la première, dans un petit cercle parisien. L’association du tarot à l’occulte ne se répand vraiment qu’au XIXe siècle, quand [les occultistes de la génération suivante](/fr/bibliotheque/histoire-du-tarot/tarot-occultiste-xixe-siecle/) poussent les idées de Court de Gébelin beaucoup plus loin.
 
-Deux idées reçues prennent racine pendant cette décennie ou juste après. L’égyptienne naît ici. Celle des Roms vient plus tard, au XIXe siècle ; [la première page de cette histoire](/fr/bibliotheque/histoire-du-tarot/arrivee-des-cartes-en-europe/) montre pourquoi les dates l’excluent.
+Deux idées reçues prennent racine pendant cette décennie ou peu après. L’égyptienne naît ici. Celle des Roms vient plus tard, au XIXe siècle ; [la première page de cette histoire](/fr/bibliotheque/histoire-du-tarot/arrivee-des-cartes-en-europe/) montre pourquoi les dates l’excluent.
 
 ## Ce que j’en garde {#lecture}
 

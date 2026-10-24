@@ -29,7 +29,7 @@ The earliest references to the game date from the 1440s and 1450s. On 16 Septemb
 
 The game was a trick-taking game, like whist or bridge: each player lays a card, the strongest takes the trick. A triumph beats any card of the four suits, and our English word “trump” comes from the Italian *trionfo*. Michael Dummett, whose 1980 book *The Game of Tarot* founded the serious history of the subject, argued that tarot was invented precisely to play with that new idea.
 
-**The 22 cards people now read for their meaning were, first, the strongest cards in a game.**
+**The major arcana people now read for their meaning were, first, the trumps of a card game.**
 
 There is a curious forerunner. Early in the century, Filippo Maria Visconti, Duke of Milan, had his secretary and astrologer, Marziano da Tortona, devise a game with sixteen figures of ancient gods and heroes and four suits of birds; the painter Michelino da Besozzo made the cards. The deck is lost, and strictly speaking it wasn’t a tarot. But it already added allegorical cards to a pack, which is the move tarot made.
 
@@ -67,4 +67,3 @@ So when a book says a card has meant something “since the Middle Ages”, reme
 - [The Morgan Library & Museum, “Visconti Tarot Decks”](https://www.themorgan.org/exhibitions/online/tarot/1) — the three decks from the Bembo workshop and their gold grounds.
 - [The Metropolitan Museum of Art, “Before Fortune-Telling: The History and Structure of Tarot Cards”](https://www.metmuseum.org/blogs/in-season/2016/tarot) — trionfi, the first references, the word “trump”.
 - [Yale University Library, “In the cards”](https://library.yale.edu/news/cards-library-partners-work-together-solve-mysteries-rare-tarot-deck) — the Cary-Yale deck at the Beinecke and new research on who painted it.
-- [The Morgan Library & Museum, *Tarot! Renaissance Symbols, Modern Visions*](https://www.themorgan.org/exhibitions/tarot) — the 2026 exhibition that reunited the Milanese decks.

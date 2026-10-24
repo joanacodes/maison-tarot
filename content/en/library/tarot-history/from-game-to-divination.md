@@ -25,7 +25,7 @@ Tarot became a fortune-telling tool in France in the 1780s. People had read ordi
 
 ## Before 1781: fortunes from ordinary cards {#before}
 
-Fortune-telling with cards came before tarot did. The ordinary 32-card pack used for piquet came first: the man who would sign himself Etteilla published a book on reading it in 1770. Michael Dummett, the historian of the game, concluded that tarot was only taken up for cartomancy in the 1780s, once fortune-telling with regular cards had been around for a couple of decades.
+Fortune-telling with ordinary cards came before fortune-telling with tarot. One pack people read was the 32-card pack used for piquet: the man who would sign himself Etteilla published a book on reading it in 1770. Michael Dummett, the historian of the game, concluded that tarot was only taken up for cartomancy in the 1780s, once fortune-telling with regular cards had been around for a couple of decades.
 
 There is one older trace. The Italian researcher Franco Pratesi found a single sheet from Bologna that gives short divinatory keywords for 35 cards of the local tarot pack. It is usually dated to around the middle of the 18th century, and its exact date is debated. It shows people in Bologna attaching meanings to some cards. It doesn’t show a system, a theory or a book.
 
@@ -35,7 +35,7 @@ There is one older trace. The Italian researcher Franco Pratesi found a single s
 
 The same volume carries a second essay, signed “M. le C. de M.***”, now identified as Louis-Raphaël-Lucrèce de Fayolle, Comte de Mellet. He linked the trumps to the letters of the Hebrew alphabet and described a way of telling fortunes with the cards. Historians of tarot judge his essay the more influential of the two.
 
-**There was no evidence for the Egyptian story in 1781, and none has turned up since.** What there is, in archives and museums, is a trail of Italian card games starting in the 1440s. Court de Gébelin’s idea is still worth knowing, because nearly every “ancient mystery” you’ll meet in tarot books flows from those pages.
+**There was no evidence for the Egyptian story in 1781, and none has turned up since.** What there is, in archives and museums, is a trail of Italian card games starting in the 1440s. Court de Gébelin’s idea is still worth knowing, because much of the “ancient mystery” you’ll meet in tarot books flows from those pages.
 
 ## Etteilla: the first to make a living from it {#etteilla}
 
@@ -49,7 +49,7 @@ His figure page tells his life. For this period, the point is that tarot now had
 
 The game didn’t disappear; it went on being played. What changed was that a second life opened beside the first, in a small Parisian circle. Tarot’s association with the occult only became widespread in the 19th century, when [the occultists of the next generation](/library/tarot-history/occult-tarot-19th-century/) took Court de Gébelin’s ideas much further.
 
-Two myths take root in this decade or just after it. The Egyptian one starts here. The Romani one comes later, in the 19th century; [the first page of this history](/library/tarot-history/playing-cards-arrive-in-europe/) shows why the dates rule it out.
+Two myths take root in this decade or shortly after it. The Egyptian one starts here. The Romani one comes later, in the 19th century; [the first page of this history](/library/tarot-history/playing-cards-arrive-in-europe/) shows why the dates rule it out.
 
 ## What I keep from it {#reading}
 
