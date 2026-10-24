@@ -21,6 +21,12 @@ That’s content: made once, for many people at the same time. There’s nothing
 
 What the feed rewards, though, is the post people stop on: the most beautiful, the most reassuring, the most frequently published. None of that tells you whether the person behind it can read.
 
+Say two accounts post the Star on the same morning.
+
+{{< cards "ar17" >}}
+
+The first writes: “Hope is coming. Everything is about to get better.” It’s warm, it’s shareable, and it would fit any card with a bright sky. The second writes: “A woman kneeling at the water’s edge, one foot on land, one in the pool, pouring from two jugs at once. What are you giving back to, and what are you letting go of?” The first post will probably travel further. The second one shows you someone who looks at the picture, and that’s the habit you want in a reader.
+
 ## What a pick-a-card can do {#pick-a-card}
 
 I don’t say that to dismiss it. A pick-a-card video by Kloee Taylor made me sob. It put words on my situation for the first time, and partway through, the reader cried too.
