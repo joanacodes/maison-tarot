@@ -1,6 +1,6 @@
 ---
 title: "Tarot et argent : lire les Pentacles les pieds sur terre"
-description: "Tarot et argent, sans s’affoler : ce que les Pentacles disent vraiment de la valeur, du travail et de la sécurité — et pourquoi vos décisions d’argent restent les vôtres."
+description: "Tarot et argent, sans s’affoler : ce que les Pentacles disent de la valeur, du travail et de la sécurité — et pourquoi vos décisions d’argent restent les vôtres."
 translationKey: "post-tarot-cards-for-money"
 type: blog
 date: 2026-10-24
@@ -17,7 +17,7 @@ Les Pentacles sont la famille de l’argent, mais ils parlent de valeur plus que
 
 Les Pentacles appartiennent à la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, la prospérité, ce qui a de la valeur pour vous. Lus par leurs nombres, ils racontent toute une histoire de sécurité.
 
-L’As de Pentacles est une pièce tendue au-dessus d’un jardin — du concret sur quoi bâtir. Le Quatre serre sa pièce des deux bras : une sécurité qui ne lâche rien. Le Cinq marche dans la neige sous une fenêtre éclairée : la dureté, avec une chaleur plus proche qu’il n’y paraît. Le Six tient une balance : connaître la valeur, donner et recevoir avec justesse. La Neuf se tient dans sa vigne : profiter de ce qui est là, la gratitude pour ce qu’on a. Le Dix réunit toute une famille sous une arche : l’abondance complète au foyer.
+L’As de Pentacles est une pièce tendue au-dessus d’un jardin — du concret sur quoi bâtir. Le Quatre serre sa pièce des deux bras : une sécurité qui ne lâche rien. Le Cinq marche dans la neige sous une fenêtre éclairée : la dureté, avec une chaleur plus proche qu’il n’y paraît. Le Six tient une balance : connaître la valeur, donner et recevoir avec justesse. Le Neuf montre une femme dans sa vigne : profiter de ce qui est là, la gratitude pour ce qu’on a. Le Dix réunit toute une famille sous une arche : l’abondance complète au foyer.
 
 {{< cards "peac pe04 pe05 pe06 pe09 pe10" >}}
 
@@ -56,7 +56,7 @@ Plusieurs Pentacles dans un tirage disent que la situation est affaire de matiè
 
 Les voisines changent le sujet. À côté des Coupes, la valeur rencontre le sentiment : ce que quelque chose vaut pour vous, pas sur le marché — un héritage, un cadeau, une maison de famille. À côté des Épées, c’est une décision sur du concret, et c’est précisément là que je vous rends la décision. À côté des Bâtons, c’est une idée qui cherche son budget.
 
-Imaginons que le Huit de Pentacles sorte à côté du Dix de Bâtons : le savoir-faire et l’effort, puis une charge portée trop loin. Je dirais : « Vous êtes doué pour ce que vous faites, et vous en portez plus que vous ne devriez. » Pour les questions de travail, le [tirage travail](/fr/blog/tirage-tarot-travail/) est conçu pour lire une situation sans choisir à votre place.
+Imaginons que le Huit de Pentacles sorte à côté du Dix de Bâtons : le savoir-faire et l’effort, puis une charge portée trop loin. Je dirais : « Vous savez faire, et vous en portez plus que vous ne devriez. » Pour les questions de travail, le [tirage travail](/fr/blog/tirage-tarot-travail/) est conçu pour lire une situation sans choisir à votre place.
 
 ## À essayer cette semaine {#a-essayer}
 
