@@ -47,7 +47,7 @@ Dans l’excès, le calme tourne au contrôle : se servir de sa compréhension d
 
 À côté de la Reine d’Épées, le cœur et la tête s’assoient côte à côte : un cœur calme et des mots clairs, dans un même couple ou chez une même personne ([la Reine d’Épées en amour](/fr/blog/reine-depees-amour/)).
 
-À côté de la Tempérance, le calme est authentique : l’émotion mélangée à la patience, rien d’écrasé.
+À côté de Tempérance, le calme est authentique : l’émotion mélangée à la patience, rien d’écrasé.
 
 À côté du Cinq de Coupes, c’est celui qui a fait son deuil et gardé sa coupe droite — une maturité venue de la perte, pas de l’absence de perte ([le Cinq de Coupes en amour](/fr/blog/cinq-de-coupes-amour/)).
 

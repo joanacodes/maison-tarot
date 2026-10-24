@@ -59,7 +59,7 @@ Trois voisines qui la changent en amour :
 
 ## « Va-t-il revenir ? » — et une question plus douce {#question-plus-douce}
 
-C’est la question que presque tout le monde apporte avec cette carte, et elle se comprend parfaitement. Devant les coupes renversées, on voudrait qu’on nous promette qu’elles seront de nouveau pleines.
+C’est la question que presque tout le monde apporte avec cette carte, et elle se comprend parfaitement. Devant les coupes renversées, on voudrait entendre qu’elles seront de nouveau pleines.
 
 Je ne lis pas ce qu’une autre personne ressentira ou fera : elle n’est pas dans la pièce, et son choix lui appartient. Et la question garde vos yeux exactement là où sont ceux de la silhouette : sur ce qui s’est répandu. J’en parle plus longuement dans [ce que la question « va-t-il revenir ? » vous fait](/fr/blog/va-t-il-revenir-tarot/).
 
