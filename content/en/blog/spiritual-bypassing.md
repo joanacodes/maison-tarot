@@ -66,4 +66,4 @@ Gently, and roughly in this order:
 3. Be as gentle and tolerant with yourself as you are with others. That line is from my own notes on shadow work, and it’s the one I come back to most.
 4. When it’s heavier than cards can hold, open another door. Not everything is about spirits: sometimes it’s psychological, and a therapist is the right person. [I say where that door is](/disclaimers/#therapy), and seeing one isn’t your practice failing.
 
-If you want somewhere to start, [shadow work for beginners](/blog/shadow-work-beginners/) begins with one card and one honest question about the thing you’ve been walking around.
+If you want somewhere to start, [shadow work for beginners](/blog/shadow-work-beginners/) starts with one card, a few honest questions and a notebook, aimed at the thing you’ve been walking around.
