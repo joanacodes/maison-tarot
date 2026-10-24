@@ -1,6 +1,6 @@
 ---
 title: "Faut-il des tirages structurés ? Quand une disposition aide, et quand elle encombre"
-description: "Faut-il des tirages structurés au tarot ? Non, mais une disposition aide dans quatre cas et encombre dans d’autres. Comment le voir, lire sans, et quoi essayer ce soir."
+description: "Faut-il des tirages structurés ? Non, mais une disposition aide dans quatre cas et encombre dans d’autres. Comment le voir, lire sans, et quoi essayer ce soir."
 translationKey: "post-do-you-need-tarot-spreads"
 type: blog
 date: 2026-10-24
@@ -25,9 +25,9 @@ Quand vous débutez. Trois cartes sans positions peuvent parler toutes en même 
 
 Quand vous comparerez dans le temps. Si vous posez les mêmes cinq positions chaque mois, vous pouvez mettre les lectures côte à côte dans votre carnet et voir ce qui a bougé. Une disposition improvisée différente à chaque fois rend la comparaison impossible.
 
-Quand vous lisez pour quelqu’un d’autre. De bonnes positions vous gardent du bon côté de la ligne. Dans [un tirage amour construit ainsi](/fr/blog/tirage-tarot-amour/), chaque position parle de la personne et de la relation, jamais de ce que pense l’autre, et les questions qui font mal n’ont tout simplement pas de case.
+Quand vous lisez pour quelqu’un d’autre. De bonnes positions vous gardent du bon côté de la ligne. Dans [un tirage amour construit ainsi](/fr/blog/tirage-tarot-amour/), chaque position parle de la personne et de la relation, jamais de ce que pense l’autre, et les questions qui font mal n’y ont jamais de case.
 
-Quand vous voulez pouvoir être vérifiée. « La carte trois, c’est ce qui bloque » est une affirmation. La personne peut dire oui ou non, et vous pouvez noter sa réponse. **Une position transforme une impression floue en une phrase qu’on peut confirmer ou contredire.**
+Quand vous voulez des phrases vérifiables. « La carte trois, c’est ce qui bloque » est une affirmation. La personne peut dire oui ou non, et vous pouvez noter sa réponse. **Une position transforme une impression floue en une phrase qu’on peut confirmer ou contredire.**
 
 ## Quand elle encombre {#quand-ca-encombre}
 
