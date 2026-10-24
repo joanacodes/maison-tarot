@@ -41,6 +41,8 @@ A sales hook is built backwards from a payment. The reading exists to open a gap
 
 It usually has three parts. An open loop: “there’s something else I’m seeing, but I can’t go into it here.” A fear: a block, a danger, a rival, a curse. And a next step: a longer session, a ritual, a subscription, a number that charges by the minute. Each part looks harmless on its own. Together they turn a reading into a funnel.
 
+Say you comment under a video and receive a free three-card reading by message. It’s warm, and some of it fits. It ends: “There’s a shadow around your relationship that I’d need a full session to look at. I have one slot left tomorrow.” All three parts of the hook are in those two sentences.
+
 Notice that the hook doesn’t need the cards at all. Swap the deck for a pendulum or a horoscope and the script runs the same way. The best-known version, act by act, is [the “lift the curse” scam](/blog/lift-the-curse-scam/), and I’ve listed the warning signs one by one in [how to spot a fake tarot reader](/blog/how-to-spot-a-fake-tarot-reader/). I won’t repeat them here. I’d rather give you one test.
 
 ## The test: what happens at the end {#the-test}
