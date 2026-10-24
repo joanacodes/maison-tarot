@@ -35,12 +35,12 @@ The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of
 
 {{< cards "wa10 cu10 sw10 pe10" >}}
 
-| Card | Decan (Golden Dawn) | What Malkhut adds |
+| Card | Golden Dawn title (decan) | What Malkhut adds |
 |---|---|---|
-| [Ten of Wands](/library/tarot-cards/ten-of-wands/) | Saturn in Sagittarius | the load carried all the way home |
-| [Ten of Cups](/library/tarot-cards/ten-of-cups/) | Mars in Pisces | happiness in a real house, with real people |
-| [Ten of Swords](/library/tarot-cards/ten-of-swords/) | Sun in Gemini | the end touched, and the dawn behind it |
-| [Ten of Pentacles](/library/tarot-cards/ten-of-pentacles/) | Mercury in Virgo | three generations, the Tree drawn in coins |
+| [Ten of Wands](/library/tarot-cards/ten-of-wands/) | Lord of Oppression (Saturn in Sagittarius) | the load carried all the way home |
+| [Ten of Cups](/library/tarot-cards/ten-of-cups/) | Lord of Perfected Success (Mars in Pisces) | happiness in a real house, with real people |
+| [Ten of Swords](/library/tarot-cards/ten-of-swords/) | Lord of Ruin (Sun in Gemini) | the end touched, and the dawn behind it |
+| [Ten of Pentacles](/library/tarot-cards/ten-of-pentacles/) | Lord of Wealth (Mercury in Virgo) | three generations, the Tree drawn in coins |
 
 The number gives the frame: [ten](/library/numerology/number-10/) is the transition between two stages, the corridor between two rooms; its minus is that it can be short-lived, and it tells you to start something else. In my notes, the Ten of Pentacles is complete wealth at home, the whole family present; the Golden Dawn calls it the Lord of Wealth. Malkhut adds the landing. Through this lens, a Ten is the cycle arrived somewhere you can touch.
 
