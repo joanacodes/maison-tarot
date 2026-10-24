@@ -11,7 +11,7 @@ imageAlt: "Un jeu de tarot fermé et quelques pièces de monnaie posés côte à
 imagePrompt: "A closed tarot deck and a few coins side by side on a plain wooden table. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Le tarot n’a pas à être gratuit, et faire payer un tirage n’a rien de malhonnête : le temps, la formation et l’attention d’une personne qui lit sont du travail. Ce qui change quand une pratique devient un produit, c’est ce qu’elle récompense. Un produit vit des visites répétées, des options et des questions les plus demandées, qui sont souvent les plus risquées. Le gratuit n’est pas pur pour autant : il peut servir d’appât. Ma réponse : je vends des cours et je donne les tirages aux événements gratuits, pour que rien ne me pousse à faire revenir qui que ce soit."
 ---
-Non, le tarot n’a pas à être gratuit, et quelqu’un qui fait payer ses tirages ne fait rien de mal. Toute peine mérite salaire : le temps, la formation et l’attention sont du travail. Ce qui m’intéresse, c’est ce que l’argent fait à une pratique quand elle devient un produit — parce que ça change les choses en douce, même chez des gens bien — et pourquoi j’ai fini par vendre des cours et donner les tirages.
+Non, le tarot n’a pas à être gratuit, et quelqu’un qui fait payer ses tirages ne fait rien de mal. Toute peine mérite salaire : le temps, la formation et l’attention sont du travail. Ce qui m’intéresse, c’est ce que l’argent fait à une pratique quand elle devient un produit — elle change les choses en douce, même chez des gens bien — et pourquoi j’ai fini par vendre des cours et donner les tirages.
 
 ## Pourquoi on dit que le tarot devrait être gratuit {#pourquoi-gratuit}
 
@@ -27,7 +27,7 @@ Sous le slogan, pourtant, il y a une inquiétude légitime. Quand on dit « ça 
 
 Un tirage prend plus de temps que le tirage. Il y a la préparation, l’heure elle-même, et la fatigue d’après : interpréter demande de l’énergie, et j’ai appris à m’arrêter au bout de deux heures. Et quelqu’un qui en vit a un loyer et des cotisations, comme tout le monde.
 
-Un prix pose aussi un cadre. Il dit quand la séance commence, quand elle finit, et ce qui a été convenu. Sans lui, lire pour des inconnus peut glisser vers l’astreinte permanente : des messages à minuit, et « une toute petite question » qui n’est jamais petite.
+Un prix pose aussi un cadre : un début, une fin, un accord. Sans lui, lire pour des inconnus peut glisser vers l’astreinte : des messages à minuit, et « une toute petite question » qui n’est jamais petite.
 
 Deux cartes portent ce côté du débat pour moi. Le Huit de Pentacles, c’est l’artisan à son établi : la maîtrise, l’effort nécessaire, une affaire qui marche parce que le travail est bien fait. Le Six de Pentacles tient la balance : connaître la valeur de ce qu’on donne et de ce qu’on prend.
 
@@ -37,7 +37,7 @@ Je ne demande donc pas si quelqu’un fait payer, mais ce que je demanderais à 
 
 ## Ce qui arrive quand une pratique devient un produit {#pratique-produit}
 
-Ce qui change, c’est l’intérêt. Une pratique se demande : « est-ce que ça a aidé ? ». Un produit se demande : « est-ce que la personne va revenir, et qu’est-ce que je peux lui vendre d’autre ? ». Personne n’a besoin d’être cupide pour que la deuxième question prenne le volant ; c’est de l’arithmétique.
+Une pratique se demande : « est-ce que ça a aidé ? ». Un produit : « est-ce que la personne va revenir, et que puis-je lui vendre d’autre ? ». Personne n’a besoin d’être cupide pour que la deuxième question prenne le volant ; c’est de l’arithmétique.
 
 La dérive prend trois directions :
 
@@ -51,7 +51,7 @@ La gratuité a ses propres pièges. Un tirage gratuit est souvent le premier cou
 
 Le gratuit peut aussi épuiser la personne qui lit, à force de tirer les cartes pendant des heures pour des gens qui ne pensent pas à lui demander comment elle va.
 
-Et je vais être honnête sur mes propres événements. Ils sont gratuits, rien n’y est vendu, mais c’est aussi là que les gens me rencontrent avant de s’inscrire à un atelier. J’en parle une fois, à la fin de la soirée. Le gratuit, chez Maison Tarot, fait donc partie d’une activité — qui ne vend pas de tirages.
+Je vais être honnête : mes événements sont gratuits et rien n’y est vendu, mais c’est aussi là qu’on me rencontre avant de s’inscrire à un atelier. J’en parle une fois, à la fin de la soirée. Le gratuit, chez Maison Tarot, fait donc partie d’une activité — qui ne vend pas de tirages.
 
 Je peux me le permettre parce que les cours me font vivre. Tout le monde n’a pas cette possibilité, et juger quelqu’un qui ne l’a pas serait injuste.
 
@@ -61,7 +61,7 @@ Je vends des cours : des séances individuelles d’une heure, et des ateliers d
 
 Toujours pour une question d’intérêt. Une pratique qui vit des tirages a besoin qu’on revienne pour des tirages. Une pratique qui vit de l’enseignement a besoin qu’on reparte en sachant plus, et en ayant moins besoin de moi. Et à un événement gratuit, dire « celui-là est raté » ne me coûte rien, alors je le dis à chaque fois. Un raté est un raté.
 
-J’ai détaillé à part [ce que je fais payer et ce que je donne](/fr/blog/ce-que-je-fais-payer/), je ne le répète pas ici. Si vous comparez plutôt des tarologues payants, [ce qui se cache dans le prix d’un tirage](/fr/blog/prix-tirage-tarot/) est le complément de cette page.
+J’ai détaillé à part [ce que je fais payer et ce que je donne](/fr/blog/ce-que-je-fais-payer/). Pour comparer des tarologues payants, voyez [ce qui se cache dans le prix d’un tirage](/fr/blog/prix-tirage-tarot/).
 
 ## Reconnaître un tirage payant honnête {#tirage-payant-honnete}
 

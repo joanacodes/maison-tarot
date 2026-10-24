@@ -37,11 +37,11 @@ Because the feedback is immediate. You draw a card for someone who has told you 
 
 Because anyone can do it. Every single person I’ve helped to read managed it somewhere between the first and the third try. You don’t need seventy-eight memorised meanings; you need one way of looking — the colours, the number, the element — and the nerve to say what comes. It’s how [the learn-tarot path](/learn-tarot/) begins.
 
-And because it surprised me too. My friends gave me my first deck for Christmas — I’d been expecting an astrology book. I gave my first reading on 26 December 2020, and it was accurate, when I’d assumed I’d need months of training. **Tarot lets you find out in one evening whether you can read; astrology takes a season to tell you whether it’s right.**
+And because it surprised me too. My friends gave me my first deck for Christmas — I’d been expecting an astrology book. I gave my first reading on 26 December 2020, and it was accurate, when I’d expected to need training first. **Tarot lets you find out in one evening whether you can read; astrology takes a season to tell you whether it’s right.**
 
 ## Why astrology still earns its place {#why-astrology}
 
-I came to astrology to laugh at it, read my own chart, and found it too precise for comfort. So I tested it, box by box, on me and then on others. Overall, 30 to 40% held. Saturn, Lilith and Chiron held 75 to 90%. The [whole test is told here](/blog/i-tested-my-birth-chart/); the short version is that a third is enough to be useful and not enough to be trusted.
+I came to astrology to laugh at it, read my own chart, and found it too precise. So I tested it, box by box, on me and then on others. Overall, 30 to 40% held. Saturn, Lilith and Chiron held 75 to 90%. The [whole test is told here](/blog/i-tested-my-birth-chart/); the short version is that a third is enough to be useful and not enough to be trusted.
 
 Inside the deck, that usefulness is concrete. In the Golden Dawn tradition, twelve major arcana carry a sign and the minor cards from 2 to 10 carry a planet in a sign. The Emperor is Aries, Strength is Leo, Death is Scorpio.
 
@@ -51,7 +51,7 @@ When Death comes out, Scorpio hands you a verb (“I desire”), an element (Wat
 
 ## Why I keep both {#why-both}
 
-Because they don’t answer the same question. The chart talks about tendencies you carry everywhere; a reading talks about the moment. Together, they let you see a habit and the situation it’s playing out in.
+Because they don’t answer the same question. The chart talks about tendencies you carry everywhere; a reading talks about the moment. Together, they let you see a habit and the situation it’s playing out in. There’s even a bridge between the two: [the tarot birth card](/blog/tarot-birth-card/) starts from your date of birth, as a chart does, and lands on a pair of major arcana you can get to know properly.
 
 And because neither gets the last word. Tarot is not an authority: you act on what you feel. Astrology is not an excuse: “I’m a Scorpio” explains nothing about how you treated someone. I keep both as lenses, and the [disclaimers say so plainly](/disclaimers/#astrology).
 
