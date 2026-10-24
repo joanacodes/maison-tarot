@@ -53,6 +53,8 @@ What to look for on a profile before you book:
 - Misses mentioned somewhere, even once.
 - No message out of the blue saying they “picked something up” about you. That’s a sales opening, not a reading.
 
+And you can ask. A reader with a method is usually glad to explain it, misses included. If the answer to “how do you read?” is a discount code, you have your answer.
+
 ## When following turns into checking {#following-into-checking}
 
 A feed has a rhythm, and it can become yours. You check the card of the day before deciding what to wear, then before sending a message, then before answering one. You swipe through piles until one says what you hoped to hear.
