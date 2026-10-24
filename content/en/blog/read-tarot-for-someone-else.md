@@ -49,7 +49,7 @@ If you’re very empathic, you may start to feel the other person’s sadness as
 
 ## Reading for friends without losing one {#friends}
 
-Friends are where almost everyone starts, and it’s a good place. It’s also where I first saw what makes teaching worth it: friends and family trying a card, saying something true, and being shocked by what they’d said. A few rules keep it a pleasure:
+Friends are where almost everyone starts, and it’s a good place. It’s also where I saw what makes teaching worth it: friends and family trying a card, saying something true, and being shocked by what they’d said. A few rules keep it a pleasure:
 
 1. A friend can say “stop” at any point, and you stop without asking why.
 2. Don’t use a reading to say what you haven’t dared say as a friend. If you think their partner treats them badly, that’s a conversation, not a card.

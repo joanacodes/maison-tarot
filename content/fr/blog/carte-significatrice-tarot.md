@@ -34,7 +34,7 @@ Voici ce que donne la première méthode dans une seule famille.
 
 {{< cards "waki wakn waqu wapa" >}}
 
-Le Roi, le Cavalier, la Reine et le Valet de Bâtons. Selon la règle de Waite, les Bâtons vont aux personnes très blondes aux yeux bleus, et le rang suit l’âge et le sexe : le Roi pour un homme jeune, le Cavalier pour un homme de plus de quarante ans, la Reine pour une femme de plus de quarante ans, le Valet pour une femme plus jeune. Oui, c’est le Cavalier qui est l’homme mûr ; c’est ainsi que Waite l’a écrit.
+Le Roi, le Cavalier, la Reine et le Valet de Bâtons. Selon la règle de Waite, les Bâtons vont aux personnes très claires, cheveux blonds ou roux et yeux bleus, et le rang suit l’âge et le sexe : le Roi pour un homme jeune, le Cavalier pour un homme de plus de quarante ans, la Reine pour une femme de plus de quarante ans, le Valet pour une femme plus jeune. Oui, c’est le Cavalier qui est l’homme mûr ; c’est ainsi que Waite l’a écrit.
 
 ## Pourquoi je lis sans {#pourquoi-sans}
 

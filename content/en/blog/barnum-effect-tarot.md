@@ -108,4 +108,4 @@ You don’t need to trust my numbers. Don’t take my words as ultimate truth. T
 4. Of what’s left, mark what was confirmed and what wasn’t.
 5. Do this ten times before you draw any conclusion about yourself.
 
-The gap between the accuracy you felt and the accuracy you scored is the most useful thing a reader can see. If you’d rather do it with someone watching, come to one of the [free events](/events/), where readings are drawn at random and compared at the end.
+The gap between the accuracy you felt and the accuracy you scored is the most useful thing a reader can see. If you’d rather do it with someone watching, come to one of the [free events](/events/), where the people read are drawn at random and every reading is compared at the end.

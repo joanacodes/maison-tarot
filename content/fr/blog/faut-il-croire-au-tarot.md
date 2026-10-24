@@ -1,6 +1,6 @@
 ---
 title: "Faut-il croire au tarot pour que ça marche ?"
-description: "Faut-il croire au tarot pour que ça marche ? Non. Les personnes qui doutent sont même, pour moi, les meilleures à lire. Ce qu’un tirage demande à la place, et comment le tester."
+description: "Faut-il croire au tarot pour que ça marche ? Non : ceux qui doutent sont même, pour moi, les meilleurs à lire. Ce qu’un tirage demande à la place, et comment tester."
 translationKey: "post-do-you-have-to-believe-in-tarot"
 type: blog
 date: 2026-10-24
