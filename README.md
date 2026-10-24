@@ -46,6 +46,8 @@ Puis http://localhost:1313/ — la racine est le site anglais ; le français est
 - Bibliothèque : ligne de lecture (ordre), filtres (`categories`/`tags` sur chaque page), tuile 78 cartes en diaporama.
 - Blog : dernier article en héros, article `featured: true`, recherche + filtres par `categories`, grille infinie.
 - Shortcodes `{{% six %}}` (six visuels depuis `gallery:`, muet tant qu’aucune image n’est déposée), `{{< cards "ar00 cu03" >}}` (rangée de cartes 1909) et `{{< versus >}}`.
+- Images : `docs/IMAGES.md` (générateur conseillé, étapes) et `tools/images.py` (génère couvertures et visuels à partir des prompts du front matter ; liste dans `docs/image-prompts.csv`).
+- Relecture : `docs/REVIEW.md` — décisions à prendre, notes `{{< todo >}}` (visibles seulement avec `hugo server`), articles à mettre à jour.
 
 ## Ajouts v5
 

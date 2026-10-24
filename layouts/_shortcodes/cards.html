@@ -6,7 +6,7 @@
 {{- range split (trim (.Get 0) " ") " " -}}
   {{- $id := trim . " " -}}
   {{- if $id -}}
-  {{- $c := false }}{{ range first 1 (where site.Data.cards "id" $id) }}{{ $c = . }}{{ end -}}
+  {{- $c := false }}{{ range first 1 (where hugo.Data.cards "id" $id) }}{{ $c = . }}{{ end -}}
   {{- if not $c }}{{ errorf "cards shortcode: unknown card id %q in %s" $id $.Page.File.Path }}{{ end -}}
   {{- $name := cond $fr $c.name_fr $c.name_en -}}
   {{- $page := site.GetPage (printf "%s/%s" $section (cond $fr $c.slug_fr $c.slug_en)) -}}

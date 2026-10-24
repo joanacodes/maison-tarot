@@ -47,7 +47,7 @@ These pages were already online, so I haven't touched their text. Each line give
 | blog/become-a-tarot-reader (heading) | What will you refuse? | What will you gently say no to? |
 | blog/devenir-tarologue (heading) | Qu’allez-vous refuser ? | À quoi direz-vous non, avec douceur ? |
 | terms / cgv (heading) | 6. What the publisher refuses / Ce que l’éditeur refuse | 6. What I don’t offer / Ce que je ne propose pas |
-| 40-odd city pages (heading) | Ce que la Maison ne fait pas, à … comme ailleurs | Ce que je ne lis pas, à … comme ailleurs — et ce que je propose à la place |
+| 24 French city pages (heading) | Ce que la Maison ne fait pas, à … comme ailleurs | Ce que je ne lis pas, à … comme ailleurs — et ce que je propose à la place |
 
 ## To update regularly (trends and dates)
 
@@ -113,7 +113,7 @@ Each of these depends on what platforms, apps or the calendar look like now (aut
 - **Tarot certificates and lineages: what they can and can't prove** — `/blog/tarot-certificates/` · `/fr/blog/certificat-tarologue/` — *positioning*
 - **North Node and South Node: what they mean in a birth chart** — `/blog/north-node-south-node/` · `/fr/blog/noeud-nord-noeud-sud/` — *not tested*
 
-## Questions only you can answer (92 notes on 69 pages)
+## Questions only you can answer (90 notes on 68 pages)
 
 Each line is a gold note inside the page. Answer it in the page (replace the whole `{{< todo >}}…{{< /todo >}}` with your sentence), or delete the note if you’d rather leave the gap.
 
@@ -138,18 +138,15 @@ Each line is a gold note inside the page. Answer it in the page (replace the who
   - TO FILL — free cancellation window, rescheduling, no-shows, cancellation by the publisher (full refund). Special case: a person in distress → free rescheduling, always.
 - `content/en/workshops.md`
   - TO WRITE, by you — the exact run of a first workshop, minute by minute if you like; what you have people do from the very start.
-- `content/en/library/tarot-figures/paul-foster-case.md`
-  - Add here: his birthplace, the occult order he belonged to before founding B.O.T.A., and the year and city of the founding, each checked against a reliable source.
-  - Add here: two or three verified sources on Case, such as the B.O.T.A.’s own history page and a library catalogue record of his books, to replace this line.
 - `content/en/blog/afraid-of-the-dark.md`
   - Add here: what changed between waiting for the light and walking in the dark, if you can name it — a period, a move, a practice, or nothing in particular.
 - `content/en/blog/best-tarot-decks.md`
   - Add here: which of these decks you have held yourself, and any you’d remove or add
 - `content/en/blog/cleanse-tarot-deck.md`
-  - Add here: why you stopped selling, in your own words — facts.md only says that you stopped, and that nothing in it improved a reading.
+  - Add here: why you stopped selling, in your own words — your notes only say that you stopped, and that nothing in it improved a reading.
   - Add here (optional): a sentence on what the “channelled” cards were, if you’d like readers to know.
 - `content/en/blog/crystals-and-tarot.md`
-  - Add here: whether crystals were part of what you sold in 2021 (facts.md mentions sage, candles and channelled cards only)
+  - Add here: whether crystals were part of what you sold in 2021 (your notes mention sage, candles and channelled cards only)
 - `content/en/blog/energy-after-tarot-reading.md`
   - Add here: what the tiredness felt like for you after a long evening of readings
 - `content/en/blog/father-calling-premonition.md`
@@ -235,7 +232,7 @@ Each line is a gold note inside the page. Answer it in the page (replace the who
 - `content/fr/blog/conjonction-saturne-neptune-2026.md`
   - À ajouter ici : ce que vous avez remarqué ou noté vous-même autour du 20 février 2026, s’il y a lieu — sinon supprimez cette ligne.
 - `content/fr/blog/cristaux-et-tarot.md`
-  - À ajouter ici : si des cristaux faisaient partie de ce que vous vendiez en 2021 (facts.md ne mentionne que la sauge, les bougies et les cartes channelisées)
+  - À ajouter ici : si des cristaux faisaient partie de ce que vous vendiez en 2021 (vos notes ne mentionnent que la sauge, les bougies et les cartes channelisées)
 - `content/fr/blog/energie-apres-un-tirage.md`
   - À ajouter ici : ce que vous ressentiez concrètement après une longue soirée de tirages
 - `content/fr/blog/eveil-spirituel.md`
@@ -260,7 +257,7 @@ Each line is a gold note inside the page. Answer it in the page (replace the who
 - `content/fr/blog/prix-tirage-tarot.md`
   - À ajouter ici : les fourchettes de prix actuelles en France (à la séance et à la minute), chacune avec une source fiable — mes recherches n’ont trouvé que les grilles tarifaires de tarologues individuels
 - `content/fr/blog/purifier-son-jeu-de-tarot.md`
-  - À ajouter ici : pourquoi vous avez arrêté de vendre, avec vos mots — facts.md dit seulement que vous avez arrêté, et que rien de tout ça n’a amélioré un tirage.
+  - À ajouter ici : pourquoi vous avez arrêté de vendre, avec vos mots — vos notes disent seulement que vous avez arrêté, et que rien de tout ça n’a amélioré un tirage.
   - À ajouter ici (facultatif) : une phrase sur ce qu’étaient ces cartes « canalisées », si vous souhaitez que vos lecteurs le sachent.
 - `content/fr/blog/que-ressent-on-en-tirant-les-cartes.md`
   - À ajouter ici : ce que vous ressentez dans votre corps quand vous lisez, s’il y a quelque chose — une ou deux phrases, avec vos mots.
@@ -285,19 +282,18 @@ What each writer flagged, batch by batch. Lines marked FIXED are already correct
 
 ### French adaptations batch 2 (B10–B17)
 - B10 curse scam (EN published): body uses "blessed" (banned word) — left as is. FR drops the unverified "retired teacher in the French documentary"; FR adds SignalConso + police complaint as reporting routes — confirm.
-- B11 no contact (EN): "I've watched people do a reading every day for a month" isn't in the facts file — FR made it general.
+- B11 no contact (EN): "I've watched people do a reading every day for a month" isn't in your notes — FR made it general.
 - B13 shadow work / B14 mental health (EN): mention depression in general terms (not her story) — FR uses other words. B14 FR adds 3114 (French suicide prevention line, 24/7, free) and 15/112 — confirm.
 - B15 TarotTok (EN + FR): two unsourced claims — a 2025 TV investigation (reader charging €12 per question) and surveys saying belief is highest among 18–24s → verify or cut. FR adds a Minitel/phone-psychic reference.
-- B16 twin flame (EN): "I've watched it keep someone waiting for three years" isn't in the facts file — FR made it general.
+- B16 twin flame (EN): "I've watched it keep someone waiting for three years" isn't in your notes — FR made it general.
 - B17 feel accurate (EN): the three-sentence example is presented as "from my notebook" (not in facts); EN says "switch off all three" after listing four mechanisms (FR says four) — small fix to make in EN.
 ### Card pages — Wands 8–King
 - Golden Dawn titles named on Eight/Nine/Ten of Wands (Lord of Swiftness, Great Strength, Oppression) — keep or drop.
 - Ten of Wands: a gentle health note (bodily exhaustion → a doctor) + mention of her Saturn result.
 - Pages run ~700–940 words (a little above the 550–800 target).
-- TODO (me): French Swords names fixed to « d’Épées » in data/cards.yml + numbering pages + Swords 8–K; Swords Ace–7 to fix after its writer finishes.
 ### French adaptations batch 1 (B1–B9) + English silence-rule article
-- FIXED (me): 12 broken links in published articles pointed to old planned slugs — repointed to the pages that now cover those subjects.
-- FIXED (me): is-tarot-a-sin said her father called "from six thousand kilometres away" (London–Paris ≈ 340 km) → "as if from the next room" (facts file). The planned story title was corrected too.
+- FIXED: 12 broken links in published articles pointed to old planned slugs — repointed to the pages that now cover those subjects.
+- FIXED: is-tarot-a-sin said her father called "from six thousand kilometres away" (London–Paris ≈ 340 km) → "as if from the next room" (your notes). The planned story title was corrected too.
 - B2/B6 (EN): imageAlt quotes text on a note/message that a no-text image can't show; prompts say it's blurred.
 - B6 FR adds French specifics (SignalConso, surcharged phone psychics, « retour de l’être aimé » flyers). B9 FR adds the French card game and the Marseille habit.
 - B9 (EN): "four centuries later" (1440s → 1780s is closer to three) — consider "three centuries".
@@ -312,7 +308,7 @@ What each writer flagged, batch by batch. Lines marked FIXED are already correct
 - Year-ahead: one todo line (your own year-ahead reading); the month-by-month method is written as yours — confirm it matches what you do.
 ### Card pages — majors 8–14, 15–21, Cups 8–King
 - FIXED (me, checked against the 1909 scans): colour pages said Strength's robe is red and Temperance's robe is blue (both white) and that the Wheel's background is orange (only the wheel is); FR red page said « les ailes du lion des Amoureux » (it's the angel). Fool page said the Golden Dawn gave the Fool Uranus (it gave it Air; Uranus is modern) — corrected EN+FR.
-- FIXED (me): French elisions in card data (« Terre de Eau », « Huit de Épées » → « Terre d’Eau », « Huit d’Épées »).
+- FIXED: French elisions in card data (« Terre de Eau », « Huit de Épées » → « Terre d’Eau », « Huit d’Épées »).
 - Strength: lion's tail between its legs and Waite's "closing the jaws" — from memory, glance at the scan. Waite swapped Strength (8) and Justice (11) vs Marseille — stated on the page.
 - Justice: gentle note that you don't read on ongoing court cases (lawyer + refusals link). White shoe detail from memory.
 - Hanged Man / Judgement: the astrology sections say the Golden Dawn gave them Water / Fire and that Neptune / Pluto are modern links (accurate; the outline headings show the modern planet).
@@ -323,7 +319,7 @@ What each writer flagged, batch by batch. Lines marked FIXED are already correct
 - Card bodies run 750–970 words (above the 550–800 aim).
 - The Fool page (written before) tells its example reading as if it happened ("She had resigned the week before…") — not in your facts; consider making it hypothetical like the others.
 ### Card pages — Wands Ace–7, Swords Ace–7, majors 15–21 re-check
-- FIXED (me): 10 of the 78 card .jpg files in assets/cards showed the wrong card (e.g. swki.jpg was the Two of Wands). The site only uses the .webp files (correct), so nothing wrong was ever shown; all .jpg files are now regenerated from the correct .webp.
+- FIXED: 10 of the 78 card .jpg files in assets/cards showed the wrong card (e.g. swki.jpg was the Two of Wands). The site only uses the .webp files (correct), so nothing wrong was ever shown; all .jpg files are now regenerated from the correct .webp.
 - Majors 15–21 re-checked against the scans: Devil (inverted star between the horns; the couple drawn in the creature's orange), Sun (banner streams beside the child), World (crossed red bands) — corrected.
 - Golden Dawn titles named on Swords and Wands minors (from general knowledge) — keep or drop.
 - Four of Wands: gentle passage on hoping for a wedding or a baby (cards give no dates; pregnancy → doctors). Five of Wands quotes Waite "mimic warfare" (checked).
@@ -337,12 +333,12 @@ What each writer flagged, batch by batch. Lines marked FIXED are already correct
 - Empress / Sun / Ten of Cups / Four of Wands: gentle pregnancy passages pointing to a doctor.
 - Magician: covers the "manifestation card" label without endorsing it.
 - Drawings for majors 1–7 written from knowledge of the 1909 cards — worth a glance against the scans.
-- FIXED (me): French Ace labels now « Racine du Feu / de l’Eau / de l’Air / de la Terre ».
+- FIXED: French Ace labels now « Racine du Feu / de l’Eau / de l’Air / de la Terre ».
 ### Love readings 1 (Death, Tower, Lovers, Devil, Three/Ten of Swords, Moon)
 - Death in love: glance at drawing details (child looking up; sun between two towers). Lovers: gazes (man → woman, woman → angel) and the angel's purple robe.
 - Tower / Devil in love: a gentle step for anyone afraid of a partner — not a card question; points to a professional/support line (no numbers given; you may want to add France's 3919 and the UK's National Domestic Abuse Helpline after checking them).
 - FR quotes « Chagrin d’amour dure toute la vie », « Choisir, c’est renoncer », « Il n’y a pas de fumée sans feu ».
-- The Moon in love retells your Discord first-reading story (as in the facts file).
+- The Moon in love retells your Discord first-reading story (as in your notes).
 ### Love readings 2 (Hanged Man, Star, Fool, Wheel, Judgement, Empress, Two of Cups)
 - French version of your saying "You can't be told what it's like. You can only try." written as « On ne peut pas vous raconter ce que ça fait. On ne peut qu’essayer. » — confirm or give yours.
 - Empress in love: the pregnancy question answered gently (doctor / fertility specialist).
@@ -370,15 +366,15 @@ What each writer flagged, batch by batch. Lines marked FIXED are already correct
 ### Card pages — Pentacles 8–King
 - Ten of Pentacles / Knight / King: gentle money passages (decisions stay yours); FAQs "does it mean money is coming?" answered the same way.
 - Ten of Pentacles states the ten coins form the Tree of Life diagram.
-- IMPORTANT: the Fool page (EN+FR, written before this work) tells its example as a real reading ("She had resigned the week before to retrain in a manual trade"). It isn't in your facts file. If it happened, keep it; if not, it should be made hypothetical like all the other card pages.
+- IMPORTANT: the Fool page (EN+FR, written before this work) tells its example as a real reading ("She had resigned the week before to retrain in a manual trade"). It isn't in your your notes. If it happened, keep it; if not, it should be made hypothetical like all the other card pages.
 ### Card pages — Pentacles Ace–7; Practice 1 (reversals, spreads, Celtic Cross, love and career spreads)
 - ALL 78 CARD PAGES NOW FINISHED in both languages; none shows a TO-WRITE box.
 - Pentacles: classical-astrology statements (Jupiter in fall in Capricorn, Mars exalted in Capricorn, Moon exalted in Taurus) — standard tradition, not your notes. FR adds Notre-Dame's rebuilding (Three), Harpagon (Four), La Fontaine (Seven), the CCAS for help (Five — the sensitive poverty/illness page).
 - Celtic Cross: says Waite printed the spread in his guide (checked, not cited). Love spread uses your "snooping in a bedroom" consent comparison.
-- CHANGED (me): {{< todo >}} notes now appear only in local preview (hugo server), never online — like missing images. Run `hugo server -D` to see them all.
+- CHANGED: {{< todo >}} notes now appear only in local preview (hugo server), never online — like missing images. Run `hugo server -D` to see them all.
 ### Learn 2 (oracle vs tarot, learning from a book, Marseille vs RWS, runes/pendulum/I Ching, dreams, baby witch, types of witches)
 - Learning from a book: one todo line — the exact title of the Corrine Kenner book you recommend.
-- Dreams (personal story): your late-2020 dreams told as in the facts file, including "I dreamt I was dying, and I was disappointed to wake up" — sensitive; please reread. A separate general paragraph points readers to a doctor/therapist.
+- Dreams (personal story): your late-2020 dreams told as in your notes, including "I dreamt I was dying, and I was disappointed to wake up" — sensitive; please reread. A separate general paragraph points readers to a doctor/therapist.
 - FR additions: Oracle Belline, Mona Chollet's *Sorcières*, *Ma sorcière bien-aimée*, the French card game (l’Excuse, le petit au bout).
 - Unsourced general facts: ideomotor effect for pendulums; I Ching ~3,000 years; Marseille woodblock/stencil printing.
 ### Happiest cards + careers (Ten/Three of Swords, Hanged Man, Judgement, Magician) + Magician in love
@@ -386,8 +382,7 @@ What each writer flagged, batch by batch. Lines marked FIXED are already correct
 - Ten of Swords at work FR names France Travail. Happiest cards: one sentence answers the hope that the Ten of Cups means a baby (→ doctor).
 ### Six pictures — colours, elements, energies, modes (36 pages)
 - Water uses your own six pictures, in your order.
-- FIXED (me): the purple page's prompts no longer say "no purple". The French Air page now shows its card row.
-- The fixed style says "single natural window light" even for outdoor subjects (fields, river, beach) — fine to keep, or drop "window" for those.
+- FIXED: the purple page's prompts no longer say "no purple". The French Air page now shows its card row.
 - The black page's flip side uses « dépression » from your own colour grid (Noir : … dépression …) — that's your definition, not your story; keep or change.
 ### Card-meaning hubs (major arcana, minor arcana, combinations, pregnancy, money, love, scariest)
 - Major arcana hub: 22 drawings described from memory — glance at them. Minor arcana hub: court-card elements (Page Earth, Knight Air, Queen Water, King Fire) presented as "the convention I use".
@@ -395,7 +390,7 @@ What each writer flagged, batch by batch. Lines marked FIXED are already correct
 - Money FR names the Banque de France over-indebtedness commission as help — confirm.
 - Scariest cards tells the voice story (your closest friend's death, the other friend's accident) — sensitive; your brand book allows it "in your own articles when you choose".
 ### Learn 3 (journal, intuition, one-card pull, later in life, glossary, best deck, gifted deck)
-- Gifted first deck: your notes say your very first reading (26 Dec 2020) was accurate; the facts file's first reading for a stranger (Discord) seemed to miss and was confirmed days later. Both are told — confirm they don't clash (one for yourself/friends, one for a stranger?).
+- Gifted first deck: your notes say your very first reading (26 Dec 2020) was accurate; your notes’ first reading for a stranger (Discord) seemed to miss and was confirmed days later. Both are told — confirm they don't clash (one for yourself/friends, one for a stranger?).
 - Best deck: "I still read with the Rider-Waite-Smith" is inferred from your facts — confirm.
 - Later in life: a short passage on subjects you don't read (mentions waiting for a medical result) — check tone.
 ### Researched: eclipses 2027, Rider-Waite-Smith, Lenormand, Thoth, card with no name, decans
@@ -434,7 +429,7 @@ What each writer flagged, batch by batch. Lines marked FIXED are already correct
 - Bad news: tells the voice story, including that you were furious after losing your closest friend, and uses the admired friend's chart as an example of saying a hard thing kindly. Check you're comfortable with both.
 - Someone cries: one todo asks for a time someone cried during one of your readings.
 - French title of "Why a reading can be wrong" says « le prénom de mon amie » (feminine). Your notes don't say whether that friend is a man or a woman, so confirm or tell me the right word.
-- Six pictures: the style line now says "one soft light source (daylight or a lamp)" instead of "natural window light", so night scenes (the Moon kitchen, the Chiron torch) no longer contradict it.
+- CHANGED: Six pictures: the style line now says "one soft light source (daylight or a lamp)" instead of "natural window light", so night scenes (the Moon kitchen, the Chiron torch) no longer contradict it.
 ### Ideas 3 (two readers, what I charge for, do readers believe, disagreements, is tarot a scam, reading about someone else, health/pregnancy/death)
 - What I charge for: no prices; sends readers to /sessions/ and /workshops/, which show no price yet. Tells the 2021 sage/candles/"channelled" cards story.
 - What readers disagree about: "decide what each position means before you turn the cards over" extends your "decide before you shuffle" rule — confirm.
@@ -525,3 +520,31 @@ What each writer flagged, batch by batch. Lines marked FIXED are already correct
 - Yesod's place on the body is named plainly ("the organ of generation, marked by the covenant of circumcision", after the Jewish Virtual Library and Chabad) — read once.
 - Malkhut: "the ten coins of the Ten of Pentacles form the Tree of Life" is common in tarot books, not scholarly. I added the four Golden Dawn titles of the Tens (Oppression, Perfected Success, Ruin, Wealth) to its table, like the other pages.
 - Sources include Book T (PDF hosted by Benebell Wen) and a hermetics.org transcription; the Jewish side relies on the Jewish Virtual Library, Sefaria and Chabad.
+### Library — historical figures (10) + section intro (researched)
+- Checked through search results only (opening pages was blocked); click each source once. Where sources disagree, the pages say less rather than pick one: Smith's exact death day and the year she moved to the Lizard; Waite's place of death; Harris's death date; Court de Gébelin's birth (around 1725, Nîmes by most accounts); where Lévi, Etteilla and Wirth died (left out).
+- Smith: no fee figure is documented, so "a flat fee"; her 1909 "a little cash" letter is paraphrased, not quoted. Her monogram is on most cards, not all (checked on the scans).
+- Crowley: the Thoth deck's first printing "usually dated 1969" (some date it 1971–72).
+- Etteilla: his tarot deck dated about 1788–1789 (not 1785, which is his book); "often called the first professional reader", with why.
+- Lenormand: the prediction to Joséphine is told as a story the Fondation Napoléon retells, not as fact.
+- Wirth: weakest sources (Wikipedia, learntarot.com, a library record); strengthen if you find a BnF entry.
+- Paul Foster Case: completed by me after the writer ran out of searches — born 1884 in Fairport (NY), Alpha et Omega, 1921 break with Moina Mathers, B.O.T.A. founded about a year later, died 1954 in Mexico City; deck printed uncoloured for students; book first published 1947 (Macoy). Sources: Wikipedia ×2, Benebell Wen, a library catalogue record.
+### Library — history of tarot (7) + section intro (researched)
+- Checked through search results only; click each source once (especially the AIM25 and Museum of Witchcraft records on the Golden Dawn pages, and the Morgan's 2026 *Tarot!* exhibition page).
+- Corrections to the plan, following the sources: Etteilla's deck about 1788–1789 (1783–1785 is his book); Noblet "about 1659, often given as around 1650"; the "Tarot de Marseille" name coined by 19th-century scholars and occultists and fixed by Paul Marteau's 1930 Grimaud edition; Florence's ban dated March 1377.
+- The Morgan's "Time" card is identified as the Hermit by the writer.
+- 20th century: I filled the 1960s–70s gap (Eden Gray's *The Tarot Revealed* 1960 and *Complete Guide* 1970 with the Fool's Journey; U.S. Games, founded 1968, Rider-Waite rights in 1970 or 1971; the Thoth deck printed in an edition usually dated 1969). Sources added: Mary K. Greer, Wikipedia.
+### Library — symbols 1–10 (dog, sun, moon, stars, water, river, sea, mountain, cloud, hand from a cloud) + symbols and energies section intros
+- Cards checked on the 1909 scans; anything not clearly visible was left out (the Three of Wands' sea, a river on the Emperor, moons on the Swords court thrones).
+- Worth a glance: the Hermit's lantern light "drawn like a star, half hidden behind the bars"; the High Priestess's headdress "many readers see as the moon in its phases"; the Temperance angel's forehead circle with a dot as "the old sign for the sun"; the Wheel's jackal-headed figure "usually identified as Anubis".
+- French: « Il n’est pire eau que l’eau qui dort » is used loosely about still water — swap if you prefer.
+- The energies section intro is built on your feminine/masculine definition.
+### Library — symbols 21–30 (bird, rose, lily, sunflower, pomegranate, grapes, key, path, tower, child)
+- Every card checked on the scans; left out when unclear (butterflies/birds on the Knight of Swords' harness, a castle on the Ace of Wands' hill, a road on Death).
+- Hedged as "usually read as…": the Hierophant monk's lilies, the Two of Wands' roses and lilies, the Queen of Wands' throne sunflowers. Grapes on the Ten of Pentacles' robe: fairly sure but small.
+- Key: the Hierophant's are the only keys in the deck; a second labelled row shows cards about access without a key.
+- Unsourced background (standard): Peter's keys, Persephone, the ibis of Thoth, Annunciation lilies, Noah's dove, the eagle as Scorpio; FR: grenade (weapon) from the fruit, la paulée.
+- Pregnancy and fertility FAQs on the child and pomegranate pages follow the compassion pattern.
+### Six pictures — symbols (30 pages)
+- No celestial bodies drawn: the moon page uses street lamps and night streets, the stars page a lighthouse and a lit window, the sun page daylight scenes. Angels, snakes, crowns and thrones appear as everyday objects (a stone angel on a façade, a grass snake, paper party crowns, armchairs).
+- Grapes are green or golden (the style line bans purple). Children appear only as hands or from behind — check child pictures 2 and 5 once generated. Path picture 4 is fog: make sure it doesn't come out looking like smoke.
+- Lion picture 4 and pillars picture 4 are the most detailed prompts; they may need a second try.
