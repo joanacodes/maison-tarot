@@ -60,7 +60,7 @@ The famous swap comes out of that rule. Counting from the Fool, card VIII landed
 
 The Rider-Waite-Smith of 1909 follows the Golden Dawn: [Strength](/library/tarot-cards/strength/) is VIII, Justice XI, and the astrology on this site’s card pages comes from the same scheme. Waite and Smith had been members; when the Order split, Smith followed Waite into the branch he led. [The 20th-century page](/library/tarot-history/tarot-in-the-20th-century/) tells what happened to their deck.
 
-Crowley’s Thoth tarot, painted by [Frieda Harris](/library/tarot-figures/frieda-harris/), keeps the Order’s zodiac attributions and its decans, and the Golden Dawn’s names for the court cards. Only three modern planets on this site’s card pages — Uranus, Neptune and Pluto, for the Fool, the Hanged Man and Judgement — are later additions; the Order gave those three cards elements.
+Crowley’s Thoth tarot, painted by [Frieda Harris](/library/tarot-figures/frieda-harris/), keeps the Order’s zodiac attributions and its decans, and the Golden Dawn’s names for the court cards. One difference to know: on this site’s card pages, three trumps carry a modern planet — Uranus for the Fool, Neptune for the Hanged Man, Pluto for Judgement. Those are later additions; the Order gave these three cards elements.
 
 ## How I use it {#reading}
 

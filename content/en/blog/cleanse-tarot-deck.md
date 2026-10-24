@@ -37,7 +37,7 @@ Each of these does one thing for certain: it makes you stop for a moment before 
 
 In 2021, I sold sage, candles and “channelled” cards. I stopped. Nothing in any of it improved a reading.
 
-{{< todo >}}Add here: why you stopped selling, in your own words — facts.md only says that you stopped, and that nothing in it improved a reading.{{< /todo >}}
+{{< todo >}}Add here: why you stopped selling, in your own words — your notes only say that you stopped, and that nothing in it improved a reading.{{< /todo >}}
 
 That last sentence is the one that matters to me, so let me say what I mean by it. When I talk about a reading improving, I mean the only thing I measure: whether what I say holds when the person checks it. A reading is the person in front of me, what I see, and what I say. None of those three lives in a bundle of sage.
 

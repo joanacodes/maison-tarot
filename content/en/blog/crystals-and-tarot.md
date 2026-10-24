@@ -27,7 +27,7 @@ People who love crystals often describe a feeling of calm, of being held, of the
 
 Not in anything I’ve been able to see. In 2021 I sold sage, candles and “channelled” cards, the whole set of things people buy to go around a deck. I stopped, because nothing in it improved a reading.
 
-{{< todo >}}Add here: whether crystals were part of what you sold in 2021 (facts.md mentions sage, candles and channelled cards only){{< /todo >}}
+{{< todo >}}Add here: whether crystals were part of what you sold in 2021 (your notes mention sage, candles and channelled cards only){{< /todo >}}
 
 What I have seen change a reading is already at the table. Whether the person told me anything before I started. Whether I’d been reading for two hours and was tired. Whether I was trying to be right instead of saying what came. None of those can be fixed with an object, and none of them need one.
 

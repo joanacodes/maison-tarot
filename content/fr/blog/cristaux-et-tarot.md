@@ -27,7 +27,7 @@ Ceux qui aiment les cristaux décrivent souvent une sensation de calme, l’impr
 
 Pas d’après ce que j’ai pu observer. En 2021, je vendais de la sauge, des bougies et des cartes « channelisées », tout ce qu’on achète pour accompagner un jeu. J’ai arrêté, parce que rien de tout ça n’améliorait une lecture.
 
-{{< todo >}}À ajouter ici : si des cristaux faisaient partie de ce que vous vendiez en 2021 (facts.md ne mentionne que la sauge, les bougies et les cartes channelisées){{< /todo >}}
+{{< todo >}}À ajouter ici : si des cristaux faisaient partie de ce que vous vendiez en 2021 (vos notes ne mentionnent que la sauge, les bougies et les cartes channelisées){{< /todo >}}
 
 Ce que j’ai vu changer une lecture se trouve déjà sur la table. La personne m’a-t-elle dit quelque chose avant que je commence ? Est-ce que je lisais depuis deux heures, fatiguée ? Est-ce que j’essayais d’avoir raison au lieu de dire ce qui venait ? Aucun objet ne règle ces trois questions, et aucune n’en a besoin.
 
