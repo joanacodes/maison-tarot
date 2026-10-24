@@ -46,7 +46,7 @@ The number already says the machine is running: [three](/library/numerology/numb
 
 ## The Queens {#court}
 
-Book T, the Golden Dawn’s tarot manuscript, places the four court ranks on the Tree after the four letters of the Name, YHVH. The second letter, Heh, the Water of each suit, goes to Binah. Its figure is a Queen on a throne: for Wands, the Queen of the Thrones of Flame.
+Book T, the Golden Dawn’s tarot manuscript, places the four court ranks on the Tree after the four letters of the Name, YHVH. The second letter, He, the Water of each suit, goes to Binah. Its figure is a Queen on a throne: for Wands, the Queen of the Thrones of Flame.
 
 How the Rider-Waite-Smith courts map onto the Golden Dawn’s titles is debated — the Kings and the Knights above all, as the Chokhmah page explains — and tarot authors such as Benebell Wen say so openly. **The Queens are the one rank that keeps its name in both systems.** All four sit in Binah, each the Water of her suit, as on this site’s card pages, where the Queen of Cups is Water of Water.
 

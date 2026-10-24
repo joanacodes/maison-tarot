@@ -16,7 +16,7 @@ related:
 - /library/astrology
 faq:
 - q: "Which Hebrew letter goes with the Fool?"
-  a: "Aleph in the Golden Dawn system, used on this site and in most English-language books. In the French tradition of Éliphas Lévi and Oswald Wirth, the Fool takes Shin and Aleph goes to the Magician."
+  a: "Aleph in the Golden Dawn system, which this site and the Rider-Waite-Smith tradition follow. In the French tradition of Éliphas Lévi and Oswald Wirth, the Fool takes Shin and Aleph goes to the Magician."
 - q: "Why do Strength and Justice have different numbers in different decks?"
   a: "The Golden Dawn gave Teth (Leo, the lion) to Strength and Lamed (Libra, the scales) to Justice, which meant swapping their old places. The 1909 Rider-Waite-Smith prints Strength as VIII and Justice as XI; Marseille decks keep Justice VIII and Strength XI."
 gallery: []
@@ -60,11 +60,11 @@ One honest limit: the versions of Sefer Yetzirah don’t agree on which planet g
 | ש Shin | tooth | mother: Fire | XX Judgement | The Fool (unnumbered) |
 | ת Tav | mark | double: Saturn | XXI The World | XXI The World |
 
-The meanings are the Golden Dawn’s readings of the names. For He, Teth, Tsade and Qoph, the original meaning of the name is uncertain.
+The meanings are the usual readings of the names, the ones the Golden Dawn used. For He, Teth, Tsade and Qoph the original meaning is uncertain: window, serpent, fish-hook and back of the head are the Golden Dawn’s readings.
 
 ## The three mother letters {#mothers}
 
-Aleph (א), the ox. A mother letter: air, in Sefer Yetzirah. The Golden Dawn gave it to the card numbered zero, the Fool, the trump of [Air](/library/four-elements/air-element/). The contrast is worth a look: the heaviest farm animal on the lightest card.
+Aleph (א), the ox. A mother letter: air, in Sefer Yetzirah. The Golden Dawn gave it to the card numbered zero, the Fool, the trump of [Air](/library/four-elements/air-element/). The contrast is worth a look: the plodding ox on the lightest card in the deck.
 
 Mem (מ) means water, and Sefer Yetzirah makes it the water letter. It goes to the Hanged Man, the Water trump: a man upside down, still, waiting. Water at rest, not water rushing.
 
@@ -110,7 +110,7 @@ Lamed (ל), ox-goad, and the tallest letter. Libra, the scales, so Justice, now 
 
 {{< cards "ar04 ar05 ar06 ar07 ar08 ar09" >}}
 
-Nun (נ), fish (the word is Aramaic). Scorpio, a water sign, so Death: an ending that clears the ground, rarely death itself.
+Nun (נ), fish (the word is Aramaic). Scorpio, a water sign, so Death: an ending that clears the ground, not death itself.
 
 Samekh (ס), prop, support. Sagittarius, so Temperance: an angel keeping the balance between two cups.
 

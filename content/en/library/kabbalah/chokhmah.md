@@ -50,9 +50,9 @@ The number gives the ground: [two](/library/numerology/number-2/) is cooperation
 
 Book T, the Golden Dawn’s tarot manuscript, also puts the court cards on the Tree. The four ranks follow the four letters of the Name, YHVH. The first letter, Yod, the Fire of each suit, goes to Chokhmah; the Queens go to Binah, the Princes to Tiferet, the Princesses to Malkhut.
 
-The Chokhmah figure is a crowned rider on horseback. Book T titles him Knight and describes him as a king: for Wands, “Lord of the Flame and the Lightning, King of the Spirits of Fire”.
+The Chokhmah figure is a crowned rider on horseback, and the Golden Dawn’s own papers give him two names. Decks drawn from them, like Robert Wang’s, call him the King; Book T’s card titles call him the Knight and describe him as a king — for Wands, “Lord of the Flame and the Lightning, King of the Spirits of Fire”.
 
-**Which Rider-Waite-Smith card sits here is debated.** Waite’s deck keeps the older names — King, Queen, Knight, Page — and they don’t line up one to one with the Golden Dawn’s. Read by rank, the senior male figure is the King, so the four [Kings](/library/numerology/king/) take Chokhmah. That’s how Benebell Wen teaches it for the Rider-Waite-Smith (she puts the Knights here for the Thoth deck), and she says openly that the point is argued. It’s also the reading the card pages on this site follow: the King of Wands is Fire of Fire. Read by picture, the rider is the [Knight](/library/numerology/knight/), and some authors put the Knights here instead.
+**Which Rider-Waite-Smith card sits here is debated.** Waite’s deck keeps the older names — King, Queen, Knight, Page — and they don’t line up one to one with the Golden Dawn’s. Read by title and rank, the Rider-Waite-Smith King is the Golden Dawn King, so the four [Kings](/library/numerology/king/) take Chokhmah. That’s how Benebell Wen teaches it for the Rider-Waite-Smith (she puts the Knights here for the Thoth deck), and she says openly that the point is argued. It’s also the reading the card pages on this site follow: the King of Wands is Fire of Fire. Read by picture, the rider is the [Knight](/library/numerology/knight/), and some authors put the Knights here instead.
 
 {{< cards "waki cuki swki peki" >}}
 
