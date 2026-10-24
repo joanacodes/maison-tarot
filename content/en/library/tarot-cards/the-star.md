@@ -53,7 +53,7 @@ After the Tower’s 7, the assessment, 8 is what you rebuild on. In the Instagra
 
 ## By element: Air {#element}
 
-The Star is an [Air](/library/four-elements/air-element/) card, though it’s full of water, and that’s worth stopping on. Air is the mind, decision, communication; it has access to everything at once, which makes it the best decision-maker of the four. The water here isn’t a flood. It’s poured: chosen, measured, directed.
+The Star is an [Air](/library/four-elements/air-element/) card, though it’s full of water, and that’s worth stopping on. Air is the mind, decision, communication; it has access to everything at once, which makes it the best decision-maker of the four. The water here isn’t a flood. It’s poured: deliberate, measured, directed.
 
 So the Star is hope as a decision rather than a mood — you decide where your attention and your care go. Air’s risk is the usual one: an idea you keep pouring without checking whether anything grows.
 

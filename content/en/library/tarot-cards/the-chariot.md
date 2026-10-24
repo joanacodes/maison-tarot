@@ -72,7 +72,7 @@ Upright, the Chariot says: go, with a direction. A move, a project pushed throug
 
 Reversed, the sphinxes pull apart. The person pushes ahead without knowing where to, or stops dead because two parts of them want opposite things — the job and the family, the head and the heart. It can also be the warrior who never takes the armour off, still driving long after the race is over.
 
-Next to [the Emperor](/library/tarot-cards/the-emperor/), the one who gives orders sits beside the one who receives them: who is driving whom? Next to [Strength](/library/tarot-cards/strength/), it’s 7 then 8, the will that drives and then the gentleness that tames. Next to the [Seven of Cups](/library/tarot-cards/seven-of-cups/), seven cups of illusions floating in the clouds, it’s the same number in two moods: one has chosen a direction, the other can’t. **The Chariot moves because the driver is clear, not because the road is.**
+Next to [the Emperor](/library/tarot-cards/the-emperor/), the one who gives orders lies next to the one who receives them: who is driving whom? Next to [Strength](/library/tarot-cards/strength/), it’s 7 then 8, the will that drives and then the gentleness that tames. Next to the [Seven of Cups](/library/tarot-cards/seven-of-cups/), seven cups of illusions floating in the clouds, it’s the same number in two moods: one has picked a direction, the other can’t. **The Chariot moves because the driver is clear, not because the road is.**
 
 {{< cards "ar04 ar08 cu07" >}}
 

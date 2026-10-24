@@ -43,7 +43,7 @@ tags:
 
 A tall grey stone tower stands on a rocky peak against a black sky. A bolt of lightning strikes the top and knocks off its roof, which is shaped like a crown. Flames burst from the windows. Two people fall headfirst, one of them still wearing a crown, and small yellow flames shaped like drops fall all around them.
 
-Look at what the drawing leaves out: no one inside fighting the fire, no rain, no ground where they land. **Pamela Colman Smith stopped the picture at the moment of the fall, not after it.** The drawing is about a structure that couldn’t hold, and the second it gives way.
+Look at what the drawing leaves out: no one inside fighting the fire, no rain, and we never see anyone land. **Pamela Colman Smith stopped the picture at the moment of the fall, not after it.** The drawing is about a structure that couldn’t hold, and the second it gives way.
 
 ## By number: 16 {#number}
 

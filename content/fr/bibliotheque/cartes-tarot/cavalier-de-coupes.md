@@ -1,7 +1,7 @@
 ---
 title: 'Cavalier de Coupes (Knight of Cups) — tarot Rider-Waite-Smith : lire la carte
   par ses clés de lecture'
-description: 'Cavalier de Coupes : un chevalier au casque ailé avance au pas, une coupe tendue. Le rang, l’Air d’Eau et les couleurs disent une offre faite avec le cœur, et son épreuve.'
+description: 'Cavalier de Coupes : un chevalier au casque ailé avance au pas, une coupe tendue. Le rang, l’Air d’Eau et les couleurs disent une offre faite avec le cœur.'
 translationKey: card-cukn
 type: cards
 navTitle: Cavalier de Coupes
