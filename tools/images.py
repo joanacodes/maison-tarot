@@ -9,6 +9,8 @@ Sources des prompts (une seule saisie, dans le front matter) :
   - couverture d'article : `imagePrompt` → assets/covers/<slug anglais>.jpg (le français réutilise l'image anglaise) ;
   - six visuels de la Bibliothèque : `gallery[].prompt` → assets/visuals/<translationKey>/<n>.jpg.
 Un fichier déjà présent n'est jamais régénéré : pour refaire une image, supprimez-la.
+Quand le sujet d'un prompt nomme une carte du jeu de 1909, le scan de cette carte (assets/cards/<id>.webp) part avec
+le prompt : un générateur qui redessine une carte de mémoire la trahit toujours (mauvais personnages, texte inventé).
 Il faut Pillow (`pip install pillow`) pour enregistrer en JPEG ce que l'API renvoie en PNG.
 """
 import argparse, base64, csv, io, json, os, re, sys, time, urllib.error, urllib.request
@@ -29,6 +31,23 @@ def front_matter(path):
     return yaml.safe_load(m.group(1)) or {}
 
 
+def card_ids(prompt):
+    """Les cartes que nomme la première phrase d'un prompt « … from the 1909 Rider-Waite-Smith deck … »."""
+    subject = prompt.split('. ')[0]
+    if '1909 Rider-Waite-Smith' not in subject:
+        return []
+    import yaml
+    cards = yaml.safe_load(open(os.path.join(ROOT, 'data', 'cards.yml'), encoding='utf-8'))
+    found = []
+    # Les noms longs d'abord : « Ten of Swords » ne doit pas aussi trouver « The Sun » dans « The Sun and … »
+    for c in sorted(cards, key=lambda c: -len(c['name_en'])):
+        name = re.sub(r'^The ', '', c['name_en'])
+        m = re.search(r'\b(?:the )?' + re.escape(name) + r'\b', subject, re.I)
+        if m and not any(a <= m.start() < b for a, b, _ in found):
+            found.append((m.start(), m.end(), c['id']))
+    return [i for _, _, i in sorted(found)][:4]
+
+
 def jobs():
     """Une ligne par image attendue, dédoublonnée : l'anglais et le français partagent le même fichier."""
     seen = {}
@@ -43,16 +62,28 @@ def jobs():
                     continue
                 img, prompt = fm.get('image'), fm.get('imagePrompt')
                 if isinstance(img, str) and img.startswith('covers/') and prompt:
-                    seen.setdefault(img, dict(kind='covers', target='assets/' + img, aspect='4:3', prompt=prompt, page=os.path.relpath(p, ROOT)))
+                    seen.setdefault(img, dict(kind='covers', target='assets/' + img, aspect='4:3', prompt=prompt, page=os.path.relpath(p, ROOT), cards=' '.join(card_ids(prompt))))
                 for g in fm.get('gallery') or []:
                     if isinstance(g, dict) and g.get('src') and g.get('prompt'):
-                        seen.setdefault(g['src'], dict(kind='visuals', target='assets/' + g['src'], aspect='4:5', prompt=g['prompt'], page=os.path.relpath(p, ROOT)))
+                        seen.setdefault(g['src'], dict(kind='visuals', target='assets/' + g['src'], aspect='4:5', prompt=g['prompt'], page=os.path.relpath(p, ROOT), cards=' '.join(card_ids(g['prompt']))))
     return list(seen.values())
 
 
+def card_part(card_id):
+    from PIL import Image
+    buf = io.BytesIO()
+    Image.open(os.path.join(ROOT, 'assets', 'cards', card_id + '.webp')).convert('RGB').save(buf, 'PNG')
+    return {'inlineData': {'mimeType': 'image/png', 'data': base64.b64encode(buf.getvalue()).decode()}}
+
+
 def generate(job, model, key):
+    parts = [card_part(i) for i in job['cards'].split()]
+    text = job['prompt']
+    if parts:
+        text = ('The attached image(s) are scans of the real cards. Show each card exactly as scanned: same drawing, '
+                'same colours, same title, nothing redrawn or added. ' + text)
     body = {
-        'contents': [{'parts': [{'text': job['prompt']}]}],
+        'contents': [{'parts': parts + [{'text': text}]}],
         'generationConfig': {'responseModalities': ['IMAGE'], 'imageConfig': {'aspectRatio': job['aspect']}},
     }
     req = urllib.request.Request(API.format(model=model), data=json.dumps(body).encode(),
@@ -94,7 +125,7 @@ def main():
     missing = [j for j in all_jobs if not os.path.exists(os.path.join(ROOT, j['target']))]
     os.makedirs(os.path.join(ROOT, 'docs'), exist_ok=True)
     with open(os.path.join(ROOT, 'docs', 'image-prompts.csv'), 'w', newline='', encoding='utf-8') as f:
-        w = csv.DictWriter(f, fieldnames=['kind', 'target', 'aspect', 'exists', 'page', 'prompt'])
+        w = csv.DictWriter(f, fieldnames=['kind', 'target', 'aspect', 'exists', 'page', 'cards', 'prompt'])
         w.writeheader()
         for j in all_jobs:
             w.writerow({**j, 'exists': 'yes' if j not in missing else 'no'})
