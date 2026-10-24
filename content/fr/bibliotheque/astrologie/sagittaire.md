@@ -32,7 +32,31 @@ faq:
   a: C’est une entrée, pas une identité. La carte parle à n’importe qui de la même
     chose ; votre signe vous aide seulement à la reconnaître plus vite. L’astrologie
     n’est pas une excuse.
-gallery: []
+gallery:
+- src: "visuals/sign-sagittarius/1.jpg"
+  title: "Apprendre en partant"
+  text: "Un van garé sur une route de montagne, porte ouverte : le Sagittaire apprend à force de partir."
+  prompt: "An old camper van parked on a mountain road at sunrise, sliding door open, a traveller seen from behind sitting on the step with a folded paper map showing no readable text. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-sagittarius/2.jpg"
+  title: "Je vois, j’essaie"
+  text: "Goûter un plat inconnu à un étal de marché : « je vois, j’essaie » — la curiosité d’abord, le jugement après."
+  prompt: "A traveller seen from behind tasting an unfamiliar dish from a paper bowl at a busy street-food stall far from home, steam rising from the pans. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-sagittarius/3.jpg"
+  title: "Partager ce qu’il a appris"
+  text: "De retour, raconter à table ce que le voyage a appris : le Sagittaire aime partager ce qu’il sait."
+  prompt: "A traveller with a sun-tanned forearm telling a story with wide gestures to friends around a kitchen table, a backpack still on the floor, everyone seen from behind or in profile. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-sagittarius/4.jpg"
+  title: "Entendre tous les camps"
+  text: "À l’écoute à une longue table d’inconnus : l’un des signes les plus sociables, et lent à juger."
+  prompt: "A long shared table in a busy guesthouse courtyard with people of many backgrounds talking, one person seen from behind leaning in to listen. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-sagittarius/5.jpg"
+  title: "Mélanger pour voir"
+  text: "Deux mélanges d’épices dans un seul mortier : ce que la route a appris, mêlé pour voir ce que ça donne."
+  prompt: "Hands tipping two spice mixes of different colours into one stone mortar on a wooden table, the pestle ready, spices scattered around. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-sagittarius/6.jpg"
+  title: "Ne s’installer nulle part"
+  text: "Les sacs du dernier voyage à moitié défaits, le prochain déjà prêt : le revers, c’est la dispersion."
+  prompt: "A narrow hallway with half-unpacked travel bags spilling souvenirs on the floor, and a new packed backpack already waiting by the front door. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## En une ligne {#en-une-ligne}
 

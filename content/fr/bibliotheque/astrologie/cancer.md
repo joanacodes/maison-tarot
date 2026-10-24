@@ -33,7 +33,31 @@ faq:
   a: C’est une entrée, pas une identité. La carte parle à n’importe qui de la même
     chose ; votre signe vous aide seulement à la reconnaître plus vite. L’astrologie
     n’est pas une excuse.
-gallery: []
+gallery:
+- src: "visuals/sign-cancer/1.jpg"
+  title: "Le foyer qui tient"
+  text: "Une cuisine où tout le monde se retrouve : le Cancer fait du foyer un endroit où il fait bon vivre."
+  prompt: "A warm family kitchen in the evening, several people gathered around a wooden table with bowls, one person at the stove serving soup, everyone seen from behind or in profile. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-cancer/2.jpg"
+  title: "Tendre dedans, carapace dehors"
+  text: "Un crabe sur le sable mouillé, carapace dressée : tendre dedans, protégé dehors — le Cancer ressent et contient."
+  prompt: "A green shore crab on wet sand at the edge of the sea, claws raised, the foam of a small wave behind it. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-cancer/3.jpg"
+  title: "Pas le même poids"
+  text: "Deux haltères identiques en apparence, l’un bien plus lourd : le Cancer porte plus que ce qu’on voit."
+  prompt: "Two pairs of hands in a plain gym each lifting a dumbbell that looks identical, one lifted lightly, the other with veins and strain showing in the forearm. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-cancer/4.jpg"
+  title: "Râleur, mais solide"
+  text: "Les bras chargés, on monte quand même : le Cancer peut râler, mais il est solide et fait le travail."
+  prompt: "A parent seen from behind climbing a narrow stairwell with a sleeping child on one shoulder, shopping bags and a schoolbag in the other hand. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-cancer/5.jpg"
+  title: "Celui qui tient la porte"
+  text: "Quelqu’un qui retient une lourde porte pendant que les autres passent : le protecteur, celui qui tient."
+  prompt: "A person seen from behind bracing a heavy wooden door open with shoulder and back in the rain, while other people hurry through into the warm light inside. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-cancer/6.jpg"
+  title: "Le yoyo émotionnel"
+  text: "Des bateaux échoués à marée basse sous la ligne des hautes eaux : le revers du Cancer, c’est le yoyo émotionnel."
+  prompt: "Small fishing boats lying tilted on the mud of a harbour at low tide, the stone quay marked with a dark line where the high water reaches. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## En une ligne {#en-une-ligne}
 

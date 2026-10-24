@@ -96,7 +96,7 @@ It predicts instant agreement. The very first reading I gave a stranger went the
 
 That’s one story, and one story proves nothing on its own. I don’t know why the specific hits happen, and I don’t claim to. What I can say is that once the vague sentences are struck, something is left over, at a rate I can state, with misses I name. I wrote about the mechanics in [why tarot readings feel so accurate](/blog/why-tarot-readings-feel-accurate/).
 
-The other honest limit is me. My checks reduce the Barnum effect; they don’t remove it. I still catch vague sentences in my own notebook. Readers who say they never do probably aren’t looking.
+The other honest limit is me. My checks reduce the Barnum effect; they don’t remove it. I still catch vague sentences in my own notebook, and I expect I always will. Finding them is the work.
 
 ## Try it on your next reading {#try-it}
 

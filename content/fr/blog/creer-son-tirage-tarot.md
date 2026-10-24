@@ -13,19 +13,19 @@ summary: "Pour créer votre propre tirage de tarot, répondez par écrit à quat
 ---
 Un tirage, c’est une série de positions, chacune portant une question, décidées avant de mélanger. Vous pouvez construire le vôtre avec quatre questions : qu’est-ce que je veux savoir, qu’ai-je besoin de voir pour y répondre, combien de cartes faut-il, et comment saurai-je si la lecture a tenu.
 
-Répondez-y sur papier, et vous aurez un tirage plus ajusté à votre question que n’importe quel schéma recopié.
+Répondez-y sur papier : vous aurez un tirage plus ajusté que n’importe quel schéma recopié.
 
 ## Question 1 : qu’est-ce que je veux vraiment savoir ? {#ce-que-je-veux-savoir}
 
 Écrivez-la en une phrase. S’il en faut trois, vous avez trois questions, et sans doute trois tirages.
 
-Vérifiez ensuite que les cartes peuvent la porter. Les bonnes questions parlent de votre vie à vous, au présent, avec quelque chose sur quoi vous pouvez agir. « Qu’est-ce qui m’empêche de finir mon dossier de candidature ? » fonctionne. « Est-ce qu’il va la quitter ? » est plus délicat : la question porte sur quelqu’un qui n’est pas là, et elle demande aux cartes de trancher à la place de quelqu’un d’autre. La santé, la grossesse, les procédures en cours et les décisions d’argent sont aussi des sujets sur lesquels je ne lis pas, parce qu’un mot de travers y coûte trop cher. J’ai rassemblé [des façons plus douces de poser les questions qui se cachent derrière](/fr/blog/questions-a-eviter-tarot/).
+Vérifiez ensuite que les cartes peuvent la porter. Les bonnes questions parlent de votre vie, au présent, et vous laissent une prise pour agir. « Qu’est-ce qui m’empêche de finir mon dossier de candidature ? » fonctionne. « Est-ce qu’il va la quitter ? » est plus délicat : la question porte sur quelqu’un qui n’est pas là, et elle demande aux cartes de trancher à la place de quelqu’un d’autre. La santé, la grossesse, les procédures en cours et les décisions d’argent sont aussi des sujets sur lesquels je ne lis pas, parce qu’un mot de travers y coûte trop cher. J’ai rassemblé [des façons plus douces de poser les questions qui se cachent derrière](/fr/blog/questions-a-eviter-tarot/).
 
 **Un tirage ne vaut jamais mieux que la question autour de laquelle il est construit.**
 
 ## Question 2 : qu’ai-je besoin de voir pour y répondre ? {#les-positions}
 
-Faites la liste de ce que vous aimeriez comprendre de la situation. Chaque élément devient une position, et chaque position s’écrit comme une question.
+Faites la liste de ce que vous aimeriez comprendre de la situation. Chaque élément devient une position, écrite comme une question.
 
 Pour un projet qui patine : qu’est-ce qui m’y attire encore, qu’est-ce qui bloque, qu’est-ce qui m’aiderait à faire le pas suivant. Trois positions. Pour un choix entre deux chemins : ce que chacun offre, ce que chacun coûte, ce que j’évite de regarder. Cinq.
 
@@ -33,7 +33,7 @@ Deux règles gardent les positions utiles et bienveillantes. Chacune parle de la
 
 ## Question 3 : combien de cartes, et dans quelle forme ? {#la-forme}
 
-Le moins possible. Une carte répond à une chose. Trois cartes tiennent une situation où quelque chose coince — c’est pour ça que je fais commencer par [trois cartes au présent](/fr/blog/tirage-passe-present-futur/) plutôt que par le passé-présent-futur classique. Cinq laissent la place à un vrai carrefour. Au-delà de sept, la plupart des débutants arrêtent de lire et commencent à énumérer.
+Le moins possible. Une carte répond à une chose. Trois cartes tiennent une situation où quelque chose coince — c’est pour ça que je fais commencer par [trois cartes au présent](/fr/blog/tirage-passe-present-futur/). Cinq laissent la place à un vrai carrefour. Au-delà de sept, la plupart des débutants arrêtent de lire et commencent à énumérer.
 
 La forme compte moins qu’on ne le croit, mais elle fait quelque chose. Une ligne se lit de gauche à droite, comme une phrase. Une croix met une carte au centre et appuie les autres sur elle. Un cercle n’a pas de première carte, ce qui convient aux questions qui reviennent sans cesse.
 
@@ -45,7 +45,7 @@ Relisez chaque position à voix haute et demandez-vous : quelle que soit la cart
 
 **Si aucune carte ne peut donner tort à une position, cette position ne pose aucune question.**
 
-Notez ensuite le tirage, les cartes et vos phrases dans [votre carnet de tirages](/fr/blog/carnet-de-tirage-tarot/), avec la date. Si vous comptez revenir sur le même domaine — le travail, un déménagement, un long projet —, gardez les mêmes positions la fois suivante : vous pourrez poser deux lectures côte à côte et voir ce qui a bougé.
+Notez ensuite le tirage, les cartes et vos phrases dans [votre carnet de tirages](/fr/blog/carnet-de-tirage-tarot/), avec la date. Si vous revenez sur le même domaine, le travail ou un long projet, gardez les mêmes positions : vous pourrez poser deux lectures côte à côte et voir ce qui a bougé.
 
 ## Un tirage construit de A à Z {#exemple}
 

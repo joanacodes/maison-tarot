@@ -31,7 +31,31 @@ faq:
 - q: 'I''m a Capricorn: is this card ''my'' card?'
   a: A way in, not an identity. The card says the same thing to anyone; your sign
     only helps you recognise it faster. Astrology is not an excuse.
-gallery: []
+gallery:
+- src: "visuals/sign-capricorn/1.jpg"
+  title: "One hold at a time"
+  text: "A goat sure-footed on a steep ledge: Capricorn climbs steadily, calm, one hold at a time."
+  prompt: "A mountain goat standing sure-footed on a narrow ledge of a steep rock face, the valley far below, early light. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-capricorn/2.jpg"
+  title: "Focused on the task"
+  text: "Alone at the workbench at dawn: Capricorn stops for no one, because it’s focused on the task."
+  prompt: "A carpenter seen from behind working alone at a workbench at dawn in a dark wood workshop, tools hung in exact order on the wall. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-capricorn/3.jpg"
+  title: "Passing on the tools"
+  text: "An older hand guiding an apprentice’s on a chisel: Capricorn knows every tool and enjoys passing it on."
+  prompt: "Close-up of the weathered hand of an older craftsman guiding the hand of a young apprentice on a chisel against a piece of oak. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-capricorn/4.jpg"
+  title: "The calm chief"
+  text: "Standing at the head of the table, calm: the chief who speaks only to say something constructive."
+  prompt: "A person in a dark coat standing at the head of a long meeting table, seen from behind, a team seated and listening, plain room, grey daylight. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-capricorn/5.jpg"
+  title: "Lost in the effort"
+  text: "Dinner gone cold beside plans redrawn again: Capricorn can lose itself in the effort and miss the present."
+  prompt: "A plate of dinner gone cold on the corner of a desk covered with the same plan redrawn many times, crumpled sheets on the floor, an empty chair pushed back. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-capricorn/6.jpg"
+  title: "The tool as master"
+  text: "A briefcase chained to a wrist, clasp open: the tool become master — and a chain that could come off."
+  prompt: "A black briefcase attached by a short chain to a wrist in a dark suit sleeve, the cuff clasp hanging open, close-up. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## In one line {#in-one-line}
 

@@ -19,16 +19,16 @@ That last one is my word. I read and I teach. I don't predict.
 
 I read and teach in both languages, and the same word doesn't sell the same thing on each side of the Channel.
 
-In French, *voyance* is the everyday word for the whole trade: the phone lines, the websites, the person in a back room with a pack of cards. In English, “clairvoyance” is narrower and a little old-fashioned; most people say “psychic reading”. And there's a trap for English readers: in everyday French, *clairvoyance* mostly means lucidity, seeing a situation clearly. A French colleague who calls you *clairvoyant* is praising your judgement, not your powers.
+In French, *voyance* is the everyday word for the whole trade: the phone lines, the websites, the reader at a table with a pack of cards. In English, “clairvoyance” is narrower and a little old-fashioned; most people say “psychic reading”. And there's a trap for English readers: in everyday French, *clairvoyance* mostly means lucidity, seeing a situation clearly. A French colleague who calls you *clairvoyant* is praising your judgement, not your powers.
 
 ## The words, defined {#the-words}
 
 Here they are, in plain terms, with the French word beside each.
 
 - *Clairvoyance* (French *voyance*). The claim to perceive what the senses can't reach — usually the future, sometimes hidden facts — with or without a tool. A clairvoyant (*voyant*, *voyante*) might tell you: “You'll move house before the summer.” In English the word is narrow: “clear seeing”, one of several claimed abilities named after a sense, beside clairaudience (hearing) and clairsentience (feeling). For the trade as a whole, English speakers say psychic reading.
-- *Guidance* (the same word in French, which took it from English). Messages meant to help you find a direction: advice for a coming period, often presented as channelled. On French social media, *une guidance* usually means a collective reading — “guidance for Scorpios, November”. In English you'd call that a general reading or a pick-a-card.
+- *Guidance* (the same word in French, which took it from English). Messages meant to help you find a direction: advice for a coming period, often presented as channelled. On French social media, *une guidance* often means a collective reading — “guidance for Scorpios, November”. In English you'd call that a general reading or a pick-a-card.
 - *Cartomancy* (French *cartomancie*). Divination with cards of any kind: tarot, oracle decks, Lenormand, ordinary playing cards. It's an everyday word in French, where a *cartomancienne* is a woman who reads cards, and a rare one in English, where people say card reading. Lenormand is the clearest example of [a card system with its own grammar](/blog/lenormand-vs-tarot/).
-- *Tarology* (French *tarologie*). The practice of reading tarot specifically; the person who does it is a *tarologue*. English has no common single word — we say tarot reader. In French you'll sometimes see *tarologie*, reading the cards as a mirror of the present, set against *taromancie*, using them to foretell.
+- *Tarology* (French *tarologie*). The practice of reading tarot specifically; the person who does it is a *tarologue*. English has no common single word; people say tarot reader. In French you'll sometimes see *tarologie*, reading the cards as a mirror of the present, set against *taromancie*, using them to foretell.
 - *Fortune-telling* (French *dire la bonne aventure*). The old, plain phrase for telling someone what's going to happen to them, traditionally for a coin at a fair; the *diseuse de bonne aventure* is the fortune-teller. It's the image most people still have of tarot.
 - *Medium* (French *médium*). Someone who says they pass on messages from the dead. A different claim from all the others.
 - *Reading* (French *lecture*). The plainest word. Someone looks at the cards and says what they see. It promises nothing about the future.

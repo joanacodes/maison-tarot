@@ -31,7 +31,31 @@ faq:
 - q: 'I''m a Virgo: is this card ''my'' card?'
   a: A way in, not an identity. The card says the same thing to anyone; your sign
     only helps you recognise it faster. Astrology is not an excuse.
-gallery: []
+gallery:
+- src: "visuals/sign-virgo/1.jpg"
+  title: "I analyse"
+  text: "Hands sorting screws by size: Virgo analyses, sorts, and puts each thing where it serves."
+  prompt: "Careful hands sorting screws and bolts by size into the compartments of a grey metal box on a workbench. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-virgo/2.jpg"
+  title: "Alone, for something bigger"
+  text: "An engineer bent over a drawing, alone: solitary by nature, yet working for something bigger."
+  prompt: "An engineer seen from behind bent over a large technical drawing at a drafting table by a window, ruler and pencil in hand, the drawing all lines and no text. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-virgo/3.jpg"
+  title: "The solution nobody saw"
+  text: "A hand reaching into a stalled engine while others watch: Virgo finds a way even when it’s complicated."
+  prompt: "A forearm reaching deep into the open engine of a broken-down van on a roadside, while two people stand back watching with arms folded, faces out of frame. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-virgo/4.jpg"
+  title: "The excellent executor"
+  text: "One cook plating with tweezers in a busy kitchen: the excellent executor, the perfect element of a team."
+  prompt: "A cook plating a dish precisely with tweezers at a steel pass in a busy restaurant kitchen, other cooks moving in a blur around her, head bent to the plate. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-virgo/5.jpg"
+  title: "The adviser to the throne"
+  text: "An adviser leaning in behind a chair: Virgo serves power, and doesn’t always ask whose."
+  prompt: "A person in a grey suit leaning down to speak quietly into the ear of someone seated in a high-backed chair at the head of a long table, both seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-virgo/6.jpg"
+  title: "Serving the wrong cause"
+  text: "A sealed envelope handed over without a question: the flip side is service to the wrong cause."
+  prompt: "A neat hand with a crisp shirt cuff sliding a plain sealed envelope across a polished desk toward a gloved hand, in a dim office. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## In one line {#in-one-line}
 

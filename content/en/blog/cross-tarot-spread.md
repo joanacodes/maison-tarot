@@ -35,7 +35,7 @@ The “where it’s heading” card deserves a light hand. I read the present fa
 
 What makes the French cross different is its centre. Traditionally you don’t draw the fifth card. You calculate it: add the numbers of the four cards, and if the total is over 22, add its digits together. The result is a major arcanum, and that card goes in the middle.
 
-The tradition comes from the Tarot de Marseille, usually read with the 22 majors alone. Two things change if you use the Rider-Waite-Smith deck, as I do:
+In France the cross is usually taught with the Tarot de Marseille, often with the 22 majors alone. Two things change if you use the Rider-Waite-Smith deck, as I do:
 
 - Strength and Justice swap places. In the Marseille deck, Justice is 8 and Strength 11; in the Rider-Waite-Smith, Strength is 8 and Justice 11. Use the numbers printed on your own deck.
 - The minor arcana join in. Aces count as 1 and the pip cards at face value. Court cards have no number, so either leave them out of the sum or draw the centre card instead.

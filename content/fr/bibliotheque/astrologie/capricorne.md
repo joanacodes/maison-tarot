@@ -33,7 +33,31 @@ faq:
   a: C’est une entrée, pas une identité. La carte parle à n’importe qui de la même
     chose ; votre signe vous aide seulement à la reconnaître plus vite. L’astrologie
     n’est pas une excuse.
-gallery: []
+gallery:
+- src: "visuals/sign-capricorn/1.jpg"
+  title: "Une prise après l’autre"
+  text: "Une chèvre au pied sûr sur une corniche raide : le Capricorne grimpe avec calme, une prise après l’autre."
+  prompt: "A mountain goat standing sure-footed on a narrow ledge of a steep rock face, the valley far below, early light. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-capricorn/2.jpg"
+  title: "Concentré sur la tâche"
+  text: "Seul à l’établi à l’aube : le Capricorne ne s’arrête pour personne, parce qu’il est concentré sur sa tâche."
+  prompt: "A carpenter seen from behind working alone at a workbench at dawn in a dark wood workshop, tools hung in exact order on the wall. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-capricorn/3.jpg"
+  title: "Transmettre les outils"
+  text: "Une main âgée guide celle d’un apprenti sur un ciseau : le Capricorne connaît ses outils et aime les transmettre."
+  prompt: "Close-up of the weathered hand of an older craftsman guiding the hand of a young apprentice on a chisel against a piece of oak. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-capricorn/4.jpg"
+  title: "Le chef calme"
+  text: "Debout au bout de la table, calme : le chef qui ne parle que pour dire quelque chose de constructif."
+  prompt: "A person in a dark coat standing at the head of a long meeting table, seen from behind, a team seated and listening, plain room, grey daylight. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-capricorn/5.jpg"
+  title: "Perdu dans l’effort"
+  text: "Un dîner refroidi à côté de plans redessinés encore : le Capricorne peut se perdre dans l’effort et oublier le présent."
+  prompt: "A plate of dinner gone cold on the corner of a desk covered with the same plan redrawn many times, crumpled sheets on the floor, an empty chair pushed back. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-capricorn/6.jpg"
+  title: "L’outil devenu maître"
+  text: "Une mallette enchaînée au poignet, fermoir ouvert : l’outil devenu maître — et une chaîne qu’on peut retirer."
+  prompt: "A black briefcase attached by a short chain to a wrist in a dark suit sleeve, the cuff clasp hanging open, close-up. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## En une ligne {#en-une-ligne}
 

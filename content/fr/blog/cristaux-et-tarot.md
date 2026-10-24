@@ -1,6 +1,6 @@
 ---
 title: "Cristaux et tarot : en a-t-on besoin ? Ce à quoi ils servent vraiment"
-description: "Faut-il des cristaux pour tirer les cartes ? Non, un jeu et votre attention suffisent. Ce à quoi ils servent, ce qu’ils ne changent pas, et pourquoi j’ai cessé de vendre l’attirail."
+description: "Faut-il des cristaux pour tirer les cartes ? Non. Ce à quoi ils servent vraiment, ce qu’ils ne changent pas, et pourquoi j’ai cessé de vendre l’attirail."
 translationKey: "post-crystals-and-tarot"
 type: blog
 date: 2026-10-24

@@ -1,6 +1,6 @@
 ---
 title: "Lecture froide ou tirage de tarot : comment savoir ce que vous venez de vivre"
-description: "Lecture froide ou tarot : ce qu’est la lecture froide, pourquoi un tarologue qui « vise juste sur le passé » vous lit peut-être, vous, et six questions pour trancher."
+description: "Lecture froide ou tarot : ce qu’est la lecture froide, pourquoi un voyant qui « vise juste sur le passé » vous lit peut-être, vous, et six questions pour trancher."
 translationKey: "post-cold-reading-vs-tarot"
 type: blog
 date: 2026-10-24

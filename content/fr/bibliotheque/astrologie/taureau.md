@@ -33,7 +33,31 @@ faq:
   a: C’est une entrée, pas une identité. La carte parle à n’importe qui de la même
     chose ; votre signe vous aide seulement à la reconnaître plus vite. L’astrologie
     n’est pas une excuse.
-gallery: []
+gallery:
+- src: "visuals/sign-taurus/1.jpg"
+  title: "Le sens du beau"
+  text: "Une table dressée avec soin pour un long déjeuner : Vénus donne au Taureau le sens de l’esthétique et du confort."
+  prompt: "A long wooden table laid with care for a Sunday lunch in a country garden, linen napkins, fresh bread, a jug of pale green and mauve garden flowers, no people. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-taurus/2.jpg"
+  title: "J’ai, je garde"
+  text: "Un cellier rempli de conserves maison : « j’ai » — le Taureau rassemble, garde et fait durer."
+  prompt: "A pantry shelf lined with rows of homemade jams and vegetable preserves in unlabelled glass jars, a hand placing one more jar at the end of the row. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-taurus/3.jpg"
+  title: "Forte sur la durée"
+  text: "Une vache qui broute sans se presser dans un pré vert : l’énergie du Taureau est patiente, forte sur la durée."
+  prompt: "A cow grazing unhurried in a lush green meadow, low warm light, an old wooden fence in the foreground. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-taurus/4.jpg"
+  title: "La gardienne du jardin"
+  text: "Des mains gantées qui attachent un pied de tomate à son tuteur : la gardienne du jardin, celle qui entretient."
+  prompt: "Gloved hands tying a heavy tomato plant to a wooden stake in a well-kept kitchen garden, the gardener seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-taurus/5.jpg"
+  title: "Impossible à déplacer"
+  text: "Un taureau planté au milieu d’un chemin de campagne : l’entêtement, c’est le revers de la stabilité."
+  prompt: "A bull standing square and unmoving in the middle of a narrow country lane, a small car stopped and waiting in front of it. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sign-taurus/6.jpg"
+  title: "Ce qu’on ne lâche plus"
+  text: "Des mains serrées autour d’une tirelire : bien garder devient posséder quand on ne lâche plus rien."
+  prompt: "Two hands clasped tightly around an old ceramic money box on a kitchen table, knuckles pale. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## En une ligne {#en-une-ligne}
 
