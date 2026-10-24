@@ -21,7 +21,7 @@ Un des avis que j’ai reçus sur Facebook dit que la personne a eu des frissons
 
 Je l’aime parce qu’il est très précis. Pas « super tirage », pas « très juste » : un mot, parmi les centaines prononcés pendant un tirage, qui a assez touché pour qu’on l’écrive après coup.
 
-C’est étrange à voir depuis la place de celle qui lit. Vous dites ce qui vient, dans l’ordre, sans savoir quelle phrase comptera. Puis quelqu’un vous le dit, et c’est souvent une phrase que vous auriez rangée dans les détails. C’est une des raisons pour lesquelles je dis aux débutants de ne pas trier ce qu’ils reçoivent. La partie qui vous paraît bizarre est peut-être la seule qui était pour l’autre.
+C’est étrange à voir depuis la place de celle qui lit. Vous dites ce qui vient, dans l’ordre, sans savoir quelle phrase comptera. Puis quelqu’un vous le dit, et c’est souvent une phrase que vous auriez rangée dans les détails. C’est une bonne raison de ne pas trier ce que vous recevez. La partie qui vous paraît bizarre est peut-être la seule qui était pour l’autre.
 
 Un autre avis vient de quelqu’un que j’avais lu pendant un live. On se souvient d’un tirage autrement que celle qui l’a fait, et c’est cette mémoire-là qui compte.
 

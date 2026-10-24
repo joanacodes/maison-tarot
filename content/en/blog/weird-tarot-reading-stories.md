@@ -21,7 +21,7 @@ One of the reviews I received on Facebook says the person got chills when I ment
 
 I like it because it’s so specific. Not “great reading”, not “very accurate”: one word, out of the hundreds said in a reading, that landed hard enough to write down afterwards.
 
-That’s a strange thing to see from the reader’s side. You say what comes, in order, without knowing which sentence will matter. Then someone tells you, and it’s often a sentence you’d have called a detail. It’s one reason I tell beginners not to trim what they receive. The part that sounds odd to you may be the only part that was for them.
+That’s a strange thing to see from the reader’s side. You say what comes, in order, without knowing which sentence will matter. Then someone tells you, and it’s often a sentence you’d have called a detail. It’s a good reason not to trim what you receive. The part that sounds odd to you may be the only part that was for them.
 
 Another review came from someone I read during a live. People remember a reading differently from the reader, and their memory is the one that counts.
 

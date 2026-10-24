@@ -1,6 +1,6 @@
 ---
 title: "A-t-on encore besoin des cartes quand on sait lire ? Pourquoi je garde les miennes sur la table"
-description: "A-t-on encore besoin des cartes quand on sait lire ? Il m’arrive de recevoir un message avant de mélanger, mais je les garde, pour deux raisons qui n’ont rien d’un pouvoir."
+description: "A-t-on encore besoin des cartes quand on sait lire ? Un message vient parfois avant que je mélange, mais je les garde, pour deux raisons qui n’ont rien d’un pouvoir."
 translationKey: "post-do-you-still-need-tarot-cards"
 type: blog
 date: 2026-10-24
