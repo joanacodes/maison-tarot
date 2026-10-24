@@ -9,9 +9,9 @@ tags: ["Rider-Waite-Smith", "Rider-Waite tarot", "Pamela Colman Smith", "A. E. W
 image: "covers/rider-waite-smith-tarot.jpg"
 imageAlt: "A worn tarot deck spread in a loose fan on a wooden table beside a small cloth-bound book"
 imagePrompt: "A worn Rider-Waite-Smith tarot deck spread in a loose fan on a plain wooden table beside a small cloth-bound book. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "The Rider-Waite-Smith is the 78-card tarot deck published in London in December 1909, designed under the direction of Arthur Edward Waite and drawn by Pamela Colman Smith. ‘Rider’ is the publisher, William Rider & Son, not a person who drew or wrote anything. It became the standard for three reasons: every card, minors included, shows a scene a beginner can read; an affordable American edition from 1971 put it in bookshops and in most tarot books; and the 1909 drawings are now in the public domain, so countless decks and sites reuse them."
+summary: "The Rider-Waite-Smith is the 78-card tarot deck published in London in December 1909, designed under the direction of Arthur Edward Waite and drawn by Pamela Colman Smith. ‘Rider’ is the publisher, William Rider & Son, not a person who drew or wrote anything. It became the standard for three reasons: every card, minors included, shows a scene a beginner can read; an affordable American edition from the early 1970s put it in bookshops and in most tarot books; and the 1909 drawings are now in the public domain, so countless decks and sites reuse them."
 ---
-The Rider-Waite-Smith is the 78-card tarot deck published in London in December 1909: designed under the direction of Arthur Edward Waite, drawn by Pamela Colman Smith, printed by William Rider & Son. “Rider” is the publisher, not a person who drew or wrote anything. It became the standard for three reasons — a scene on every card, a cheap American edition from 1971, and drawings that are now public domain — and it's the deck I teach with.
+The Rider-Waite-Smith is the 78-card tarot deck published in London in December 1909: designed under the direction of Arthur Edward Waite, drawn by Pamela Colman Smith, printed by William Rider & Son. “Rider” is the publisher, not a person who drew or wrote anything. It became the standard for three reasons — a scene on every card, a cheap American edition in the early 1970s, and drawings that are now public domain — and it's the deck I teach with.
 
 ## What the Rider-Waite-Smith deck is {#what-it-is}
 
@@ -41,7 +41,7 @@ She had a model. The Sola Busca, an Italian deck from the end of the fifteenth c
 
 ### A cheap edition in the United States
 
-In 1968, an American businessman, Stuart Kaplan, brought a Swiss tarot deck back from the Nuremberg toy fair and sold it to bookshops. It did well enough for him to found a company, U.S. Games Systems, which at the start of the 1970s obtained the rights to publish the Rider-Waite in the United States ([the Penn Gazette tells the story](https://thepenngazette.com/the-collector/)). The deck arrived just as interest in tarot was growing. Most of the tarot books written from then on used its images; learners bought the deck the books showed; the next books used it again. That loop is still turning.
+In 1968, an American businessman, Stuart Kaplan, brought a Swiss tarot deck back from the Nuremberg toy fair and sold it to bookshops. It did well enough for him to found a company, U.S. Games Systems, which at the start of the 1970s obtained the rights to publish the Rider-Waite in the United States ([the Penn Gazette tells the story](https://thepenngazette.com/the-collector/)). The deck arrived just as interest in tarot was growing. Many of the tarot books written from then on used its images; learners bought the deck the books showed; the next books used it again. That loop is still turning.
 
 ### Drawings anyone can use
 
