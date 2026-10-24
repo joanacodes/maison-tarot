@@ -1,6 +1,6 @@
 ---
 title: "Le tarot est-il dangereux ? Trois situations où je repose les cartes"
-description: "Le tarot est-il dangereux ? Un jeu de cartes, non. Une lecture peut l’être dans trois cas : la détresse, la dépendance, une carte prise pour une autorité. Ce que je propose alors."
+description: "Le tarot est-il dangereux ? Le jeu, non. Une lecture peut l’être dans trois cas : détresse, dépendance, carte prise pour une autorité. Ce que je propose à la place."
 translationKey: "post-is-tarot-dangerous"
 type: blog
 date: 2026-10-24
