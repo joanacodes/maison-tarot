@@ -1,7 +1,6 @@
 ---
 title: 'Eight of Swords — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'Eight of Swords: what’s on the card, then the number, the element (Air),
-  the colours and Jupiter in Gemini. Read the card without having learned it.'
+description: 'Eight of Swords in the Rider-Waite-Smith tarot: a blindfolded woman among eight swords, her legs free, the front open. Read it by number, Air and colours.'
 translationKey: card-sw08
 type: cards
 navTitle: Eight of Swords
@@ -28,12 +27,11 @@ related:
 - /library/astrology
 faq:
 - q: What does Eight of Swords mean?
-  a: 'There isn’t one meaning to memorise: Eight of Swords is read through its number
-    (eight), its element (Air) and its colours. The page above lays them out one by
-    one.'
+  a: 'Feeling trapped by a situation that is held together mostly by your own thoughts. Eight is structure and control, Air is the mind: here the mind has built its own cage. The drawing also shows the way out — the bands only hold her arms, and the front of the circle is open.'
 - q: What about Eight of Swords reversed?
-  a: The same card, slowed down or in excess. Look first at what the card says upright,
-    then at what blocks or overflows.
+  a: 'The same cage, loosening or tightening. Loosening: a band slips, someone says out loud what you’d been telling yourself, and it suddenly sounds less true. Tightening: you add the swords yourself, finding a reason against every way out.'
+- q: 'What does the Eight of Swords mean in love?'
+  a: 'Often feeling stuck in a relationship, or stuck outside one, with a whole story about why you can’t move. I read it for the person in front of me: which bands are theirs to loosen, not what someone else is thinking.'
 categories:
 - Swords
 tags:
@@ -44,28 +42,46 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-{{< todo >}}TO WRITE — describe Pamela Colman Smith’s drawing, detail by detail: figures, objects, posture, what’s missing.{{< /todo >}}
+A woman stands in a long red-orange robe, a pale cloth tied over her eyes. Grey bands wrap her upper body several times and hold her arms against her sides. Around her, eight swords are planted in the ground, hilts up: three on her left, five on her right, like the bars of a fence. Behind her, under a pale grey sky, a castle with red roofs stands on a rocky height.
+
+Now look closer. The bands stop at her waist: her legs are free. The swords stand around her; none of them touches her. The front of the circle, the side she faces, is open. Her feet stand in mud and shallow puddles. Nobody guards her.
+
+**The drawing is about a prison that holds mostly because she can’t see it.**
 
 ## By number: eight {#number}
 
-**eight — movement, mastery, the fruit of work.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**eight — movement, mastery, the fruit of work.** Eight is 4 exalted: the empire, structure become power. It’s also control — lay an 8 on its side and you get the Magician’s infinity sign. In the Eight of Swords, that control has turned inwards. In my notes, this card is someone who is a prisoner of themselves while holding every tool they need, and who can take the blindfold off.
+
+At its eighth stage, Instagram was an empire making billions a year, so established that nobody imagined it doing anything else. That’s the trap of this eight: a structure so solid in your head that you forget you built it, and that you could walk out. The advice of [number 8](/library/numerology/number-8/) is to keep working as if nothing were secured; here, the work is noticing which bars are real.
 
 ## By element: Air {#element}
 
-{{< todo >}}TO WRITE — what [Air](/library/four-elements/air-element/) brings here: what the card is about.{{< /todo >}}
+Swords are [Air](/library/four-elements/air-element/): thinking, analysing, deciding. Air reaches everything at once, which makes it the best decision-maker — and it can also block, or obsess. The Eight of Swords is Air blocked. Every option has been thought through, and each one has a sword planted in front of it: “I can’t leave, because…”, “I can’t say it, because…”.
+
+My archetype for Air is the leader who takes the decisions nobody else can, and who can turn into a tyrant. On this card the tyrant lives inside the head, and the person obeying is the same one.
 
 ## By colours {#colours}
 
-{{< todo >}}TO WRITE — the dominant colours and what they say before the card ([the colour grid](/library/tarot-colours/)).{{< /todo >}}
+The [red](/library/tarot-colours/red/) of the robe is the warmest thing on the card: passion, action, strength, drive. All of it is wrapped in [grey](/library/tarot-colours/grey/) — the bands, the sky, the castle — the colour of neutrality, of no particular will. That’s the card in two colours: energy tied up in indecision. The blue puddles at her feet are emotion, pooled and still. Before you know the card’s name, you already have it: plenty of drive, held still, standing in feelings that have stopped moving.
 
 ## By astrology: Jupiter in Gemini {#astrology}
 
-{{< todo >}}TO WRITE — Jupiter in Gemini, in the Golden Dawn tradition; what it adds, and whether it’s worth keeping ([astrology](/library/astrology/)).{{< /todo >}}
+In the Golden Dawn tradition, the Eight of Swords is Jupiter in the first decan of [Gemini](/library/astrology/gemini/), with the title Lord of Shortened Force. Gemini is “I think”. Jupiter is expansion, confidence, excess. Together: thoughts that grow bigger than the situation, a mind that inflates every risk. “Shortened force” fits the drawing — the strength is all there, cut short at the arms. Optional, like every astrological lens.
 
 ## In a reading {#reading}
 
-{{< todo >}}TO WRITE — upright, reversed, with neighbouring cards. One thing to remember, in bold.{{< /todo >}}
+Upright, the Eight of Swords is feeling stuck: in a job, a relationship, a decision, a story about yourself. Some situations really are hard to leave, and the card doesn’t pretend otherwise. What it asks is which bands are yours to loosen — the fear, the “what will people say”, the belief that you don’t have what it takes. **The Eight of Swords holds every tool it needs to get out; the first one is taking off the blindfold.**
+
+Reversed, the same cage is loosening or tightening. Loosening: one band slips, someone says out loud what you’ve been telling yourself in silence, and it suddenly sounds less true. Tightening: you add the swords yourself, finding a reason against every exit, and the waiting turns into a habit.
+
+Next to the [Two of Swords](/library/tarot-cards/two-of-swords/), the blindfold appears twice: a choice put off has become a cage. Next to [the Devil](/library/tarot-cards/the-devil/), the chains you could take off get louder — look how loosely they hang on his two prisoners. Next to the [Ace of Swords](/library/tarot-cards/ace-of-swords/), one clear idea cuts the bands. For relationships, there’s [feeling trapped in love, and the way out you already have](/blog/eight-of-swords-tarot-love/).
+
+{{< cards "sw02 ar15 swac" >}}
 
 ## A reading, as an example {#example}
 
-{{< todo >}}TO WRITE — a real anonymised spread: lenses first, the sentence said, what the person confirmed.{{< /todo >}}
+Say someone sits down, tells you nothing, and draws the Eight of Swords next to the [Page of Pentacles](/library/tarot-cards/page-of-pentacles/). Lenses first. Eight then a Page: a structure that holds you, then the student. Air then Earth: a cage made of thoughts, then something concrete to learn. Grey and red, then a young man in a green field holding up a coin.
+
+Out loud, you might say: “You feel stuck where you are, and you tell yourself you don’t know enough to leave. You know more than you think, and what gets you out is learning one practical thing.”
+
+Then check: “Is there a place in your life where you feel you can’t move right now?” If the answer is yes, ask what they think they’re missing. If it’s no, it’s a miss: write it down as one.

@@ -31,7 +31,7 @@ Every card has a plus and a minus, and Judgement holds both evenly. Its plus is 
 
 *If you’re single*, Judgement often points to a look back before a step forward: what have your past relationships taught you, and what are you ready to stop repeating? Sometimes it’s an ex who gets in touch again. The card doesn’t say yes or no to them; it asks you to weigh the message with the eyes you have now, not the ones you had then.
 
-*If you’re together*, it’s a review — a conversation about where you both are, a difficult period that forces you to look, or a renewal: deciding again, consciously, to stay. A relationship can be chosen twice, once on impulse and once with open eyes. The second choice is often the stronger one.
+*If you’re together*, it’s a review — a conversation about where you both are, a difficult period that forces you to look, or a renewal: deciding again, consciously, to stay. A relationship can be chosen twice, once on impulse and once with open eyes. To me, the second choice is often the stronger one.
 
 *After a break-up*, Judgement is the time to understand rather than to blame — including yourself. What was the contract, who kept which part, what did you learn? The answers belong to you whether or not anyone comes back.
 
