@@ -1,5 +1,5 @@
 ---
-title: "Les étoiles dans le tarot : ce que le symbole veut dire, et les cartes où elles apparaissent"
+title: "Les étoiles dans le tarot : ce que le symbole veut dire, et les cartes où il apparaît"
 description: "Les étoiles dans le tarot Rider-Waite-Smith : une lumière lointaine qui guide. Les cartes où elles sont dessinées, de l’Étoile au Diable, et comment les lire."
 translationKey: "sym-stars"
 type: library
