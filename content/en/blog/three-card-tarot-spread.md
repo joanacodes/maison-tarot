@@ -47,7 +47,7 @@ What’s here: the Five of Wands — five young men with staffs who seem to figh
 
 What’s in the way: the [Eight of Swords](/library/tarot-cards/eight-of-swords/) — a woman blindfolded and loosely bound, eight swords planted around her, a castle on a hill behind. Air, number 8. In my notes this card is being a prisoner of yourself while you hold every tool: the blindfold can come off. The block is a thought, not a wall.
 
-What you can do: the Six of Cups — two children in a village garden, one handing the other a cup full of white flowers, under a yellow sky. Water, number 6: taking time for yourself, childhood, harmony. And yellow, in my colour grid, is joy and the inner child.
+What you can do: the Six of Cups — two children in a village garden, one handing the other a cup full of white flowers, the whole scene in warm yellows. Water, number 6: taking time for yourself, childhood, harmony. And yellow, in my colour grid, is joy and the inner child.
 
 Read across: Fire, then Air, then Water — noise, then a thought, then a feeling. Numbers 5, 8, 6: the conflict, the stuck point, the breathing space. The sentence out loud: “There’s a lot of noise around you and everyone pulls their own way; what keeps you stuck is a belief that you can’t move; this week, do something small and kind for yourself, the sort of thing you did as a child.”
 
