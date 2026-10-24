@@ -1,6 +1,6 @@
 ---
 title: "Where to find people to read tarot for (who'll tell you nothing)"
-description: "Where to find people to read tarot for while you learn: online groups, letters to strangers, friends who play by the rules, free events — and how to ask with consent."
+description: "Where to find people to read tarot for while you learn: online groups, letters to strangers, friends who play by the rules, free events, and how to ask with consent."
 translationKey: "post-where-to-find-people-to-read-for"
 type: blog
 date: 2026-10-24
@@ -19,11 +19,11 @@ My first reading for a stranger happened on a Discord group I’d found through 
 
 A few months after I started, I was reading in Facebook tarot groups too, including lives: one person at a time, in front of the others. Groups like these exist because people want readings and readers want practice, and both sides know it.
 
-Before you offer, read the group’s rules. Some only allow readings in a dedicated thread, some ask beginners to say they’re beginners. Respect that, and you’ll be welcome for a long time.
+Before you offer, read the group’s rules about readings, and say that you’re learning. Groups tend to welcome beginners who are honest about it far more than beginners who pretend.
 
 ## Letters to strangers {#letters}
 
-The most unusual place I practised was a pen-pal app. People there wrote to strangers; I wrote “letters” to strangers who had asked for messages, and the message came from the cards.
+The most unusual place I practised was a pen-pal app. I wrote “letters” to strangers who had asked for messages, and the message came from the cards.
 
 Writing is a good school. You have no face to watch and no reaction to adjust to, so you can’t steer by the person’s expression. It’s the silence rule in its purest form.
 
@@ -31,7 +31,7 @@ One man wrote back asking whether I could read minds, or whether I was a magicia
 
 ## Friends and family, with the rules {#friends}
 
-When I started, I read for around a hundred people, and many of them were close to me. Friends are willing, patient and honest. Their one problem is that you know their lives: you can’t always tell whether you’re reading the card or remembering last Sunday’s conversation.
+At first I read for around a hundred people, before the long run of blind readings for strangers. I also made my own friends and family try reading for each other, which is how I found out I wanted to teach. Friends are willing, patient and honest. Their one problem is that you know their lives: you can’t always tell whether you’re reading the card or remembering last Sunday’s conversation.
 
 So ask them for two things. First, tell you nothing — not the question, not even the area of life. Second, be honest afterwards, including “no, that doesn’t fit at all”. A friend who says yes to everything to be nice is a kind friend and a useless check. Why I hold to the first rule so firmly is in [the silence rule](/blog/the-silence-rule/).
 
@@ -39,7 +39,7 @@ So ask them for two things. First, tell you nothing — not the question, not ev
 
 Reading someone without asking is like walking into their bedroom and opening the drawers. It’s also less accurate: someone who doesn’t know they’re being read isn’t open, and you end up building a whole statement on half a sentence. Consent comes first, every time.
 
-Here is what I’d agree on before you start:
+You can keep it to one sentence: “I’m learning tarot and practising with volunteers; it’s free, don’t tell me your question, and tell me afterwards what landed and what didn’t.” Behind that sentence, here is what I’d agree on before you start:
 
 1. Say you’re practising, and that it’s free.
 2. Ask for no question and no context; they keep it to themselves.
@@ -51,10 +51,10 @@ Here is what I’d agree on before you start:
 
 ## Free events where readers meet {#events}
 
-If you’d rather practise somewhere set up for it, Maison Tarot runs [free events](/events/), online and in person. At the meetups we read, compare and talk; at the online evenings, a few people are drawn at random and read in front of the others. Either way, everyone in the room knows why they’re there, and nobody minds being read.
+If you’d rather practise somewhere set up for it, Maison Tarot runs [free events](/events/), online and in person. The in-person meetups are where we read, compare and talk. The online evenings are for watching first: a few people drawn at random each get a reading in front of the others, which is a good way to see the silence rule at work before you try it yourself.
 
 ## Before the first person sits down {#before-you-start}
 
 You don’t need to be ready. Every person I’ve helped to read managed it on the first to third try, and you’ll learn more from ten real readings than from a hundred alone. Until you find your first person, the drills in [practising tarot with nobody to read for](/blog/practise-tarot-alone/) will keep your eye sharp.
 
-When someone says yes, the basics of reading for another person with care — how to open, what to say when something lands hard — are in [how to read tarot for someone else](/blog/read-tarot-for-someone-else/).
+When someone says yes, the basics of reading for another person with care are in [how to read tarot for someone else](/blog/read-tarot-for-someone-else/).

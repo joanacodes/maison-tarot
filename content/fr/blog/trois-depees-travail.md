@@ -1,6 +1,6 @@
 ---
 title: "Le Trois d’Épées au travail : quand le travail fait mal, et comment s’en remettre"
-description: "Le Trois d’Épées dans un tirage travail : un mot qui blesse, une trahison, une équipe brisée — ou un pacte de sang. Ce qu’il dit, inversé, et ce qui aide à s’en remettre."
+description: "Le Trois d’Épées au travail : un mot qui blesse, une trahison, une équipe brisée — ou un pacte de sang. Ce qu’il dit, inversé, et ce qui aide à s’en remettre."
 translationKey: "post-three-of-swords-tarot-career"
 type: blog
 date: 2026-10-24
