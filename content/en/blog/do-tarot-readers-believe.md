@@ -11,50 +11,50 @@ imageAlt: "A person seen from behind sitting by a window, a single card lying fa
 imagePrompt: "A person seen from behind sitting by a window, a single card lying face down on the sill beside a cup of coffee. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Tarot readers don’t all believe the same thing, and “believe in it” hides several questions: in the cards as objects, in spirits, in the future, in a gift, in whether it works at all. Some readers speak of guides, some see the cards as a mirror, some hold it all loosely, and a few sell certainty they don’t feel. I don’t believe the cards are magic or that anyone has a gift, and I don’t know how reading works. I came to it as a sceptic, and I count. The more useful question for any reader is: how do you check?"
 ---
-Some do, some don't, and many hold something in between. "Believe in it" hides several questions at once, and readers answer each of them differently. Here's how I'd split the question, where I stand on each part, and what I'd ask a reader instead.
+Some do, some don’t, and many hold something in between. “Believe in it” hides several questions at once, and readers answer each of them differently. Here’s how I’d split the question, where I stand on each part, and what I’d ask a reader instead.
 
-I should say where I'm speaking from. I'm paid to teach tarot, not to read it; my readings are free, at events. So I'm a professional of sorts, and you can weigh my answer with that in mind.
+I should say where I’m speaking from. I’m paid to teach tarot, not to read it; my readings are free, at events. So I’m a professional of sorts, and you can weigh my answer with that in mind.
 
 ## “Believe in it” is several questions {#several-questions}
 
-When people ask whether readers believe, they usually mean one of a handful of things. Do the cards themselves have power? Is something, a guide, a spirit, someone who has died, speaking through them? Can a reading see the future? Does the reader have a gift other people lack? Or simply: does it work?
+When people ask whether readers believe, they usually mean one of a handful of things. Do the cards themselves have power? Is something, a guide, a spirit, someone who has died, speaking through them? Can a reading see the future? Does the reader have a gift other people lack? Or, most often: does it work at all?
 
-Readers answer those in every combination. Some speak openly of guides. Some treat the cards as a mirror and talk about psychology. Some hold the whole thing loosely and read anyway. And a few, sadly, sell a certainty they don't feel, because certainty sells.
+Readers answer those in every combination. Some speak openly of guides. Some treat the cards as a mirror and talk about psychology. Some hold the whole thing loosely and read anyway. And a few, sadly, sell a certainty they don’t feel, because certainty sells.
 
 **“Do you believe?” is less interesting than “in what, exactly?”**
 
-## What I don't believe {#what-i-dont-believe}
+## What I don’t believe {#what-i-dont-believe}
 
-I don't believe the cards are magic. They're 78 pictures drawn in 1909 by Pamela Colman Smith, and a cheap print reads as well as a beautiful one. Cards aren't magic, you are: the deck helps you focus, or unfocus, so your own thoughts and biases step aside.
+I don’t believe the cards are magic. They’re 78 pictures drawn in 1909 by Pamela Colman Smith, and a cheap print reads as well as a beautiful one. Cards aren’t magic, you are: the deck helps you focus, or unfocus, so your own thoughts and biases step aside.
 
-I don't believe in a gift, either. Every person I've helped to read managed it within one to three tries.
+I don’t believe in a gift, either. Every person I’ve helped to read managed it within one to three tries.
 
-And I don't claim to know how it works. Nobody does, including the people who sell certainty about it. I walk through the four serious explanations in [how does tarot actually work?](/blog/how-does-tarot-work/) and still end on "I don't know".
+And I don’t claim to know how it works. Nobody does, including the people who sell certainty about it. I walk through the four serious explanations in [how does tarot actually work?](/blog/how-does-tarot-work/) and still end on “I don’t know”.
 
 ## What I do believe, because I counted {#what-i-counted}
 
 I came to all this as a sceptic. I put on an astrology video to laugh at it, read my own chart, and found it too precise for comfort. So I tested it box by box, then on family, friends and strangers. Overall about 30 to 40% held, and Saturn, Lilith and Chiron held at 75 to 90%. The whole test is in [I tested my birth chart box by box](/blog/i-tested-my-birth-chart/).
 
-I did the same with tarot. I read for strangers who told me nothing and wrote down, every time, what I'd said and what they confirmed. About nine readings in ten held. About one in ten missed, and I say so.
+I did the same with tarot. I read for strangers who told me nothing and wrote down, every time, what I’d said and what they confirmed. About nine readings in ten held. About one in ten missed, and I say so.
 
-So what I believe in is a rate, under conditions. It's a manual count, not a study. It's enough for me to keep reading and teaching, and not enough to promise anyone anything.
+So what I believe in is a rate, under conditions. It’s a manual count, not a study. It’s enough for me to keep reading and teaching, and not enough to promise anyone anything.
 
-## The things I can't explain {#what-i-cant-explain}
+## The things I can’t explain {#what-i-cant-explain}
 
-Some things have happened that a count doesn't cover. After I'd read for a friend, I felt someone with me at home: her grandfather, a strict Japanese man with a lot of love in him. I told him I didn't want anyone in my house, adding "sir". He seemed to speak Japanese, so I drew what came instead: the number five, again and again, and "under the house". My friend went down to storage cell number five in her building's basement, which wasn't hers and was already open, and found it full of paint pots. That was the whole message: there's a lot of paint in cell five. I tell it in full in [is tarot evil?](/blog/is-tarot-evil/)
+Some things have happened that a count doesn’t cover. After I’d read for a friend, I felt someone with me at home: her grandfather, a strict Japanese man with a lot of love in him. I told him I didn’t want anyone in my house, adding “sir”. He seemed to speak Japanese, so I drew what came instead: the number five, again and again, and “under the house”. My friend went down to storage cell number five in her building’s basement, which wasn’t hers and was already open, and found it full of paint pots. That was the whole message: there’s a lot of paint in cell five. I tell it in full in [is tarot evil?](/blog/is-tarot-evil/)
 
-I can't explain it, and I don't build anything on it. It wasn't a prophecy; it was paint. My working definition of [magic](/blog/what-is-magic/) fits here: the things we know exist but are unable to explain.
+I can’t explain it, and I don’t build anything on it. It wasn’t a prophecy; it was paint. My working definition of [magic](/blog/what-is-magic/) fits here: the things we know exist but are unable to explain.
 
-That's as close to belief as I get. Not faith, not dismissal: an honest "I don't know", with the evidence kept on the table.
+That’s as close to belief as I get. Not faith, not dismissal: an honest “I don’t know”, with the evidence kept on the table.
 
 ## The question to ask a reader instead {#the-better-question}
 
-"Do you believe in it?" tells you very little. A reader who believes completely can be as risky as one who believes nothing. The first may never admit a miss, because the cards can't be wrong. The second may never admit one either, because admitting it could cost a client.
+“Do you believe in it?” tells you very little. A reader who believes completely can be as risky as one who believes nothing. The first may never admit a miss, because the cards can’t be wrong. The second may never admit one either, because admitting it could cost a client.
 
-So ask: how do you check? Do you count your misses? Do you ask me to tell you nothing first? Which questions do you step back from? A reader who can answer those has done the work, whatever they believe. One who can't may be doing something else, and from the chair, [cold reading can look a lot like tarot](/blog/cold-reading-vs-tarot/).
+So ask: how do you check? Do you count your misses? Do you ask me to tell you nothing first? Which questions do you step back from? A reader who can answer those has done the work, whatever they believe. One who can’t may be doing something else, and from the chair, [cold reading can look a lot like tarot](/blog/cold-reading-vs-tarot/).
 
 ## Do you have to believe to try? {#do-you-have-to-believe}
 
-No. I didn't. You can come as a sceptic, read for someone who tells you nothing, and write down what happens. If you'd like to know what belief changes in a reading and what it doesn't, I've written about [whether you have to believe in tarot for it to work](/blog/do-you-have-to-believe-in-tarot/).
+No. I didn’t. You can come as a sceptic, read for someone who tells you nothing, and write down what happens. If you’d like to know what belief changes in a reading and what it doesn’t, I’ve written about [whether you have to believe in tarot for it to work](/blog/do-you-have-to-believe-in-tarot/).
 
 Or come to one of the [free events](/events/) and watch with your arms crossed. Nobody minds.
