@@ -52,7 +52,7 @@ What’s missing: contact — their hands don’t touch. No ring, no crowd, no c
 
 **6 — six — harmony regained, exchange.** The [number 6](/library/numerology/number-6/) is 3 exalted: the machine is launched and fast, and harmony comes back after the trial of 5. On this card the 6 is the exchange between two people — and the choice it implies, because agreeing with someone means saying yes to them and no to something else.
 
-In the story of Instagram on my numerology pages, 6 is Facebook deciding to invest: the threat of the 5 becomes the engine, everything speeds up, and nobody reads the conditions any more. That’s worth remembering with the Lovers. The advice of 6 is to stay calm and humble while it’s going well; a happy union still deserves a look at its terms.
+In the Instagram story on my numerology pages, 6 is Facebook deciding to invest: the threat of the 5 becomes the engine, everything speeds up, and nobody reads the conditions any more. The advice of 6 is to stay calm and humble while it’s going well; a happy union still deserves a look at its terms.
 
 ## By element: Air {#element}
 
@@ -86,7 +86,7 @@ Next to the [Two of Cups](/library/tarot-cards/two-of-cups/), two people exchang
 
 Say someone sits down, tells you nothing, and draws the Lovers next to the [Two of Pentacles](/library/tarot-cards/two-of-pentacles/): a young man juggling two pentacles joined by a ribbon in a figure of eight, with ships riding high waves behind him.
 
-Lenses first. Numbers: 6 then 2, a choice that should bring harmony, next to a 2 that is still weighing. Elements: Air then Earth, a decision that touches something concrete — money, time, a job, a place to live. Colours: the Lovers’ red and yellow, a decision in full light, next to a card in motion.
+Lenses first. 6 then 2: a choice that should bring harmony, next to a 2 still weighing. Air then Earth: a decision about something concrete — money, time, a job, a home. The Lovers’ red and yellow, a decision in full light, next to a card in motion.
 
 The sentence I’d say out loud: “There’s a choice in front of you, and you’ve been juggling both options so you don’t have to pick one.”
 

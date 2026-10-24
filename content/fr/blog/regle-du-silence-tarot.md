@@ -48,7 +48,7 @@ C’est l’objection que j’entends le plus souvent, et elle est légitime. Si
 
 Ma réponse, après quelques années à faire ça : la carte parle rarement à côté. Quand quelqu’un s’assied avec une préoccupation qui lui prend la tête, c’est ce qui sort. Je n’ai pas besoin qu’on me le dise pour que ça arrive ; j’ai besoin qu’on ne me le dise pas pour être sûre que ça arrive tout seul.
 
-Et quand ça ne sort pas, c’est aussi une information. Parfois la personne vient pour son couple et le tirage lui parle de son père. Elle proteste, puis elle réfléchit, puis elle admet que les deux sujets se tiennent. Je n’aurais jamais fait ce détour si elle m’avait posé sa question en premier. C’est aussi pour ça que j’écris ailleurs que [la meilleure question à poser au tarot](/fr/blog/comment-poser-une-question-au-tarot/) est souvent aucune.
+Et quand ça ne sort pas, c’est aussi une information. Parfois la personne vient pour son couple et le tirage lui parle de son père. Elle proteste, puis elle réfléchit, puis elle admet que les deux sujets se tiennent. Je n’aurais jamais fait ce détour si elle m’avait posé sa question en premier. C’est aussi pour ça que j’écris ailleurs que [la meilleure question à poser au tarot](/fr/blog/questions-a-eviter-tarot/) est souvent aucune.
 
 **Vous gardez votre question pour vous, et vous vérifiez à la fin si elle a reçu une réponse.** Si oui, vous savez que ce n’est pas moi qui l’ai fabriquée.
 
@@ -56,7 +56,7 @@ Et quand ça ne sort pas, c’est aussi une information. Parfois la personne vie
 
 Soyons honnêtes sur les limites, parce qu’une règle qu’on ne critique pas devient un dogme.
 
-Le silence ne rend pas la lecture juste. À mon décompte, environ un tirage sur dix rate, silence ou pas. Ce qu’il fait, c’est rendre le raté visible : quand la personne me dit « non, rien de tout ça », je n’ai aucune information à laquelle me raccrocher pour sauver la face. [Je dis « celui-là est raté »](/fr/blog/tirage-rate/), je le note, je ne tire pas de carte de clarification.
+Le silence ne rend pas la lecture juste. À mon décompte, environ un tirage sur dix rate, silence ou pas. Ce qu’il fait, c’est rendre le raté visible : quand la personne me dit « non, rien de tout ça », je n’ai aucune information à laquelle me raccrocher pour sauver la face. [Je dis « celui-là est raté »](/fr/blog/tirage-faux-que-faire/), je le note, je ne tire pas de carte de clarification.
 
 Le silence ne me dispense pas non plus de mes refus. Si, au milieu d’une lecture, je sens qu’on dérive vers la santé, un décès, une grossesse, une procédure en cours ou une décision d’argent, j’arrête. Je ne peux pas le savoir à l’avance puisqu’on ne m’a rien dit ; je le découvre en route, et j’applique [les mêmes refus](/fr/avertissements/#refus) qu’en pleine connaissance de cause. Le silence n’est pas une excuse pour aller partout.
 

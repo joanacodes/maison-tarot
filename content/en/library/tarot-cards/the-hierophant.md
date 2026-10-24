@@ -1,6 +1,6 @@
 ---
 title: 'The Hierophant — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'The Hierophant tarot card: two pillars, two keys, the number 5, Earth and Taurus. What teachers and tradition mean in a reading, upright and reversed, and where they stop.'
+description: 'The Hierophant tarot card: two keys, the number 5, Earth and Taurus. What teachers and tradition mean in a reading, upright and reversed, and where they stop.'
 translationKey: card-ar05
 type: cards
 navTitle: The Hierophant
@@ -42,15 +42,15 @@ tags:
 
 A religious figure sits on a throne between two grey stone pillars, facing you. He wears a triple crown and a red robe. His right hand is raised with two fingers lifted, the gesture of a priest giving a blessing; his left holds a tall staff topped with a triple cross. Two crossed keys lie at his feet.
 
-Two men kneel in front of him with their backs to us, their heads shaved on top like monks. One wears a robe patterned with roses, the other a robe patterned with lilies.
+Two tonsured monks kneel before him with their backs to us, one robe patterned with roses, the other with lilies.
 
-The name is an old Greek title: the hierophant was the priest who showed initiates the mysteries at Eleusis. What’s missing here is a sky, a landscape, any way out. We’re indoors, in a closed space, and everyone is in their place. **The drawing is about transmission — a teacher between two pillars, passing on what he was given to the people in front of him.**
+The name is an old Greek title: the hierophant was the priest who showed initiates the mysteries at Eleusis. What’s missing: a sky, a landscape, a way out. Everyone is indoors, in their place. **The drawing is about transmission — a teacher between two pillars, passing on what he was given to the people in front of him.**
 
 ## By number: 5 {#number}
 
 **5 — five — conflict, trial, making do with what’s left.** A pope as a 5 can look odd, until you see what 5 does. The [number 5](/library/numerology/number-5/) is the trial that measures: you meet something that tests you, and you find out what holds. For the Hierophant, the trial is the rule — school, a tradition, a faith, a company’s way of doing things — and the question of what you keep of it.
 
-In the story of Instagram on my numerology pages, 5 is Facebook arriving to buy the company: a large institution walks in with its rules, and you discover what you’re willing to give up. The advice of 5 suits this card: avoid useless conflicts, and be honest with yourself about the situation. Its minus is denial — following the rule so you never have to ask whether it’s still yours.
+In the Instagram story on my numerology pages, 5 is Facebook arriving to buy the company, an institution walking in with its rules. The advice of 5 suits this card: avoid useless conflicts, and be honest with yourself about the situation. Its minus is denial — following the rule so you never have to ask whether it’s still yours.
 
 ## By element: Earth {#element}
 
@@ -61,8 +61,6 @@ That’s the plus: knowledge that holds, a method, a teacher, a ceremony that ma
 ## By colours {#colours}
 
 Grey dominates: the background and the pillars. In [my colour grid](/library/tarot-colours/grey/), grey is neutrality, stability, the absence of personal will — on this card, the institution, what judges without emotion. Red on the robe: action, authority, someone who speaks for the group. Gold on the crown and the staff: value, what has been earned or inherited. Red and white again on the kneeling men, roses and lilies: desire and purity, side by side.
-
-Read before the card: a structure, a voice, something precious being handed down.
 
 ## By astrology: Taurus {#astrology}
 
@@ -82,7 +80,7 @@ Next to [the Emperor](/library/tarot-cards/the-emperor/), it’s 4 then 5: the l
 
 Say someone sits down, tells you nothing, and draws the Hierophant next to the [Page of Pentacles](/library/tarot-cards/page-of-pentacles/): a young man standing in a field, holding up a pentacle and studying it.
 
-Lenses first. Numbers: 5 then a Page, the trial of the rule next to the student. Elements: Earth and Earth, so this is concrete — work, study, money, a skill. Colours: the grey and red of the institution, then the green of an open field.
+Lenses first. 5 then a Page: the trial of the rule next to the student. Earth and Earth: something concrete — work, study, money, a skill. The grey and red of the institution, then the green of an open field.
 
 The sentence I’d say out loud: “You’re learning something by the book, and part of you wants to know whether the book is right.”
 

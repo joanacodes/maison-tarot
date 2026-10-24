@@ -23,7 +23,7 @@ If you belong to one of these, the person to ask is the one who guides you in it
 
 ## What I saw at home {#at-home}
 
-My father prays. The night I heard him call my name from six thousand kilometres away — I was in London, he was in Paris, at his temple, thinking about me — he wasn't reading cards, he was praying. I've told that story elsewhere; what matters here is that nothing in it asked me to choose. He didn't stop praying because his daughter started reading. I didn't stop being his daughter because I did.
+My father prays. The night I heard him call my name as if from the next room — I was in London, he was in Paris, at his temple, thinking about me — he wasn't reading cards, he was praying. I've told that story elsewhere; what matters here is that nothing in it asked me to choose. He didn't stop praying because his daughter started reading. I didn't stop being his daughter because I did.
 
 I grew up between two ways of taking the invisible seriously, and what I learned is that they weren't competing for the same space. One was devotion. The other was attention. You can hold both.
 
@@ -31,7 +31,7 @@ I grew up between two ways of taking the invisible seriously, and what I learned
 
 Most of what religious objections target isn't in my practice, because I removed it for other reasons.
 
-I don't predict. I read a person's present, and I say so. I don't summon, invoke, cleanse, protect or channel anything — [I sold sage in 2021 and stopped](/blog/should-you-cleanse-your-tarot-deck/), because it wasn't doing anything. I don't tell people what to do; [the cards aren't an authority](/disclaimers/#readings). I don't claim a gift. I refuse the questions where a wrong word does damage — health, death, pregnancy — and I refuse anything to do with curses.
+I don't predict. I read a person's present, and I say so. I don't summon, invoke, cleanse, protect or channel anything — [I sold sage in 2021 and stopped](/blog/cleanse-tarot-deck/), because it wasn't doing anything. I don't tell people what to do; [the cards aren't an authority](/disclaimers/#readings). I don't claim a gift. I refuse the questions where a wrong word does damage — health, death, pregnancy — and I refuse anything to do with curses.
 
 Take away prediction, ritual, authority and spirits, and what's left is a person looking at a picture and saying what they see. If that's a sin, so is a novel.
 

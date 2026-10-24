@@ -29,7 +29,7 @@ Pluto moved into Aquarius in three goes, because from Earth it appears to back u
 
 [Cafe Astrology's page on the transit](https://cafeastrology.com/pluto-aquarius-transit.html) lists the full set, and the UK astrologer [Sally Kirkman](https://sallykirkman.com/pluto-enters-aquarius-power-to-the-people/) gives the 2024 dates in British time.
 
-Why so long? Pluto takes about 248 years to go round the Sun, on an orbit so stretched that it spends anything from about twelve to more than thirty years in a sign. Aquarius gets twenty. The last time Pluto was there was from the late 1770s to 1798. In 2006 astronomers reclassified it as a dwarf planet; astrologers kept it, and so does the [Library page on Pluto](/library/astrology/pluto/), because it's in every chart people bring.
+Why so long? Pluto takes about 248 years to go round the Sun, on an orbit so stretched that it spends anything from about twelve to more than thirty years in a sign. Aquarius gets twenty. The last time Pluto was there was from the late 1770s to 1798. In 2006 astronomers reclassified it as a dwarf planet; astrologers kept it, and so does the [Library page on Pluto](/library/astrology/pluto/), because it's in every chart you'll ever print.
 
 ## What astrologers say it means {#meaning}
 

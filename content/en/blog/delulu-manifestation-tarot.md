@@ -25,7 +25,7 @@ The turn happens in two steps.
 
 First: from "belief helps" to "belief is enough". Manifestation content skips the part where you prepare, apply, ask, work, and gets straight to *vibrating at the frequency of your desire*. The vision board replaces the application. The cards get pulled to "confirm it's coming" rather than to see where you are.
 
-Second, and this is the cruel one: from "belief is enough" to "if it didn't happen, you didn't believe enough". That's the law of attraction's dark side, and it's structural, not accidental. If thoughts create reality, then the person whose diagnosis came back bad, whose business failed, whose partner left, *attracted* it. I've heard this said to grieving people by well-meaning friends. It's [spiritual bypassing](/blog/spiritual-bypassing-tarot/) with a smile, and it blames the victim by definition.
+Second, and this is the cruel one: from "belief is enough" to "if it didn't happen, you didn't believe enough". That's the law of attraction's dark side, and it's structural, not accidental. If thoughts create reality, then the person whose diagnosis came back bad, whose business failed, whose partner left, *attracted* it. I've heard this said to grieving people by well-meaning friends. It's [spiritual bypassing](/blog/spiritual-bypassing/) with a smile, and it blames the victim by definition.
 
 ## Where tarot gets dragged in {#tarot-dragged-in}
 

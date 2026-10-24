@@ -17,7 +17,7 @@ People usually ask me this right after a reading lands, in the same breath as "y
 
 Not roughly. In a notebook, two columns: what I said, what was confirmed. I kept one from the start, for every stranger I read, and by my own manual count about one reading in ten misses. It isn't a study. It is a number, and a number is more than most readers who charge can offer.
 
-Memory is a terrible bookkeeper. It keeps the reading where the woman gasped and quietly drops the three where she nodded politely and left. **If you can't say how often you're wrong, you aren't ready to charge for being right.** [Counting your readings](/blog/how-to-count-your-readings/) is the first professional act, and it costs nothing.
+Memory is a terrible bookkeeper. It keeps the reading where the woman gasped and quietly drops the three where she nodded politely and left. **If you can't say how often you're wrong, you aren't ready to charge for being right.** [Counting your readings](/blog/tarot-journal/) is the first professional act, and it costs nothing.
 
 ## What will you refuse? {#refuse}
 
@@ -29,13 +29,13 @@ Now the uncomfortable part. Those are the questions people pay the most for. "Is
 
 At a free event this is easy. Nothing happened, I got it wrong, I say so, we move on. Money changes the incentive in a way you can feel in your chest: a paying client didn't come to hear "no", and there are three ready-made rescues waiting. "It may make sense later." "This might be about someone close to you." One more card, to clarify.
 
-A miss is a miss. No reframing, no clarifier. The professional version of that sentence is "that didn't land, tell me where I went wrong", followed by a refund if it was paid. If you can't imagine [saying it out loud](/blog/tarot-reading-miss/) to someone holding a receipt, the business card will train you out of honesty faster than any bad habit could.
+A miss is a miss. No reframing, no clarifier. The professional version of that sentence is "that didn't land, tell me where I went wrong", followed by a refund if it was paid. If you can't imagine [saying it out loud](/blog/tarot-reading-wrong/) to someone holding a receipt, the business card will train you out of honesty faster than any bad habit could.
 
 ## What are you selling: readings, or the ability to read? {#what-you-sell}
 
 I sell lessons. Sixty-minute sessions, three-hour workshops with twelve people, one lens at a time. I have never sold a reading, and readings still happen constantly, free, drawn at random at events. This is the choice I'd press you hardest on.
 
-A practice that lives on readings needs people to come back for readings. That isn't a moral failing; it's arithmetic, and it quietly shapes everything, from how a session ends to which questions you stop refusing in a slow month. A practice that lives on teaching needs people to leave knowing more and needing you less. [What I charge for, and what I give away](/blog/should-tarot-readers-charge/), is the shape of that arithmetic.
+A practice that lives on readings needs people to come back for readings. That isn't a moral failing; it's arithmetic, and it quietly shapes everything, from how a session ends to which questions you stop refusing in a slow month. A practice that lives on teaching needs people to leave knowing more and needing you less. [What I charge for, and what I give away](/blog/what-i-charge-for/), is the shape of that arithmetic.
 
 I'll add the part I'm not proud of. In 2021 I sold sage, candles and "channelled" cards alongside everything else. I stopped, because nothing in that box ever improved a reading, and because the shop is where the easy money is and where the honesty goes first. If your plan includes a shop, ask what the objects are for.
 
@@ -43,13 +43,13 @@ I'll add the part I'm not proud of. In 2021 I sold sage, candles and "channelled
 
 Reading for two hours and then closing the deck, even when there are people waiting, is a rule I keep out of caution. I don't fully understand what tires me after two hours; I know that what I say after that point is worth less, and I'd rather not find out how much less on someone who trusted me.
 
-A professional calendar wants the day filled. Twelve slots, back to back, a lunch break if you're organised. Before you commit to that, [read about what two hours do to a reader](/blog/tarot-reader-fatigue/), and take a break from your cards now and then. Dependency runs in both directions.
+A professional calendar wants the day filled. Twelve slots, back to back, a lunch break if you're organised. Before you commit to that, [read about what two hours do to a reader](/blog/energy-after-tarot-reading/), and take a break from your cards now and then. Dependency runs in both directions.
 
 ## What to do before the card {#before-the-card}
 
 None of the five questions can be answered from a chair. So, in order:
 
-1. Read for strangers who tell you nothing. No name, no question, no context. [Finding them online](/blog/find-people-to-read-tarot-for/) is the least glamorous and most useful thing you'll do this year.
+1. Read for strangers who tell you nothing. No name, no question, no context. [Finding them online](/blog/where-to-find-people-to-read-for/) is the least glamorous and most useful thing you'll do this year.
 2. Write both columns after every reading. Count after a hundred.
 3. Say "that's a miss" out loud, at least once, to someone's face.
 4. Draft your refusals list and imagine turning down the person who'd have paid you most.

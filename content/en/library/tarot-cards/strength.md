@@ -50,7 +50,7 @@ The lion’s tail is tucked between its hind legs. Around them, a green plain, a
 
 **8 — eight — movement, mastery, the fruit of work.** In my reading of [the number 8](/library/numerology/number-8/), eight is the empire: 4 doubled, structure turned into power, mastery proved by a gesture repeated until it no longer shows. Look above the woman’s head — the infinity sign is an 8 lying down. The number is drawn on the card. Here the empire isn’t a territory; it’s the hold you have over yourself.
 
-In the Instagram story, 8 is the moment the app becomes infrastructure and nobody asks any more whether it works. Strength is that stage inside a person. One note if you also own a Marseille deck: there, Strength is 11 and Justice is 8. Waite swapped them, and on this site I read in the Rider-Waite-Smith order.
+In the Instagram story, 8 is the moment the app becomes infrastructure and nobody asks any more whether it works. Strength is that stage inside a person. (In Marseille decks Strength is 11 and Justice 8; Waite swapped them, and I read in the Rider-Waite-Smith order.)
 
 ## By element: Fire {#element}
 
@@ -68,7 +68,7 @@ Read them in that order and you have the card before its name: a peaceful will h
 
 In the Golden Dawn tradition, Strength corresponds to [Leo](/library/astrology/leo/), and the lion on the card makes it hard to miss. Leo is play, pride and expressiveness, the sign whose verb is “I will” — the opera singer who wants to be seen. The card shows Leo at its best: the will is all there, and it no longer needs an audience.
 
-It’s a useful extra if astrology speaks to you. If not, the number, the element and the colours have already given you the card.
+Keep it if astrology speaks to you; if not, the other three lenses have already given you the card.
 
 ## In a reading {#reading}
 

@@ -15,7 +15,7 @@ Samhain is the old Gaelic festival that closes the harvest and opens winter, and
 
 ## What is Samhain? {#what-is-samhain}
 
-Samhain (say it “SOW-in”) is a Gaelic seasonal festival that marks the end of the harvest and the start of winter, the darker half of the year. It runs from sunset on 31 October to sunset on 1 November, because the day used to begin at nightfall, roughly halfway between the autumn equinox and the winter solstice. It’s one of four Gaelic seasonal festivals, with Imbolc, Bealtaine and Lughnasa.
+Samhain (say it “SOW-in”) is a Gaelic seasonal festival that marks the end of the harvest and the start of winter, the darker half of the year. It runs from sunset on 31 October to sunset on 1 November (the day used to begin at nightfall), roughly halfway between the autumn equinox and the winter solstice. It’s one of four Gaelic seasonal festivals, with Imbolc, Bealtaine and Lughnasa.
 
 It was kept in Ireland, Scotland and the Isle of Man, with cousins elsewhere: Calan Gaeaf in Wales, Kalan Goañv in Brittany. Bonfires, feasting, dressing up and fortune-telling games all belonged to the night, and many Halloween customs come from it. Today, many modern Pagans and witches celebrate it as one of the eight festivals of the Wheel of the Year, often by remembering their ancestors.
 
@@ -31,7 +31,7 @@ There is a veil in the deck, by the way: behind the High Priestess, between her 
 
 ## Why October is when people finally ask {#why-october}
 
-Because for a few weeks, tarot is allowed. It’s in shop windows, on party tables, in every feed. Someone who would never ask for a reading in March will pull a card at a Halloween party, and the question they’ve carried since spring comes out with it.
+Because for a few weeks, tarot is allowed. It’s in shop windows, on party tables, in every feed. Someone who wouldn’t think of asking for a reading in March will pull a card at a Halloween party, and the question they’ve carried since spring comes out with it.
 
 Three other things push the same way. The end of the year comes into view, and people count what worked. The evenings close in, and we turn inward. And this is the season of the dead — All Saints, All Souls, the Day of the Dead — so a grief that sat quietly all year rises to the surface. If that’s where you are, [what tarot can hold in grief, and when you need a person](/blog/tarot-for-grief/) is worth reading before any spread.
 

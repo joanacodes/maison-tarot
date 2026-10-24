@@ -1,7 +1,6 @@
 ---
 title: 'La Mort (Death) — tarot Rider-Waite-Smith : lire la carte par ses clés de lecture'
-description: 'La Mort : ce qu’on voit sur la carte, puis le nombre, l’élément (Eau),
-  les couleurs et Scorpion. Lire la carte sans l’avoir apprise.'
+description: 'La Mort au tarot n’annonce pas un décès. Ce que montre la carte de 1909, le 13, l’Eau et le Scorpion, et comment lire avec douceur la fin dont elle parle vraiment.'
 translationKey: card-ar13
 type: cards
 navTitle: La Mort
@@ -27,11 +26,11 @@ related:
 - /bibliotheque/astrologie
 faq:
 - q: Que signifie La Mort ?
-  a: 'Il n’y a pas une signification à apprendre : La Mort se lit par son nombre (13),
-    son élément (Eau) et ses couleurs. La page ci-dessus les pose une à une.'
-- q: La Mort renversé, ça change quoi ?
-  a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
-    l’endroit, puis ce qui bloque ou déborde.
+  a: 'La Mort, c’est une transformation : quelque chose arrive à sa fin naturelle pour que quelque chose d’autre puisse commencer. Elle n’annonce le décès de personne ; elle est plus proche d’une moisson, où l’on fauche ce qui est mûr pour pouvoir semer à nouveau.'
+- q: La Mort renversée, ça change quoi ?
+  a: 'La fin est refusée ou elle traîne : une situation terminée qu’on maintient, un changement fait à moitié. La question qu’elle pose : qu’est-ce que vous tenez encore et qui est déjà fini ?'
+- q: La carte de la Mort annonce-t-elle un décès ?
+  a: 'Non. Une carte n’annonce ni un décès ni une maladie, et je ne lis pas sur ces questions, parce qu’un mot de travers peut faire peur pour rien. Si la santé de quelqu’un vous inquiète, c’est un médecin qu’il faut voir ; un tirage peut porter le changement que vous traversez.'
 categories:
 - Arcane majeur
 tags:
@@ -42,28 +41,54 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-{{< todo >}}À ÉCRIRE — décrire le dessin de Pamela Colman Smith, détail par détail : personnages, objets, posture, ce qui manque.{{< /todo >}}
+D’abord, au cas où cette carte serait sortie pour vous et vous aurait fait peur : la Mort n’annonce pas un décès. Ni le vôtre, ni celui de personne. Elle parle de quelque chose qui se termine pour que quelque chose d’autre puisse pousser.
+
+Un squelette en armure noire monte un cheval blanc. Il porte un étendard noir orné d’une rose blanche à cinq pétales, et un plumet rouge se dresse sur son casque. Devant le cheval, un roi gît à terre, sa couronne tombée à côté de lui. Un évêque en robe dorée et mitre se tient face au cavalier, les mains jointes. Une jeune femme agenouillée détourne le visage ; à côté d’elle, un enfant à genoux lève les yeux droit vers le cavalier. Derrière, une rivière coule, avec un bateau, et à l’horizon, entre deux tours, le soleil — levant ou couchant, le dessin ne le dit pas.
+
+Ce qui manque : la faux que les jeux plus anciens mettaient entre les mains du squelette, et le moindre sang, la moindre tombe, le moindre combat. **Le dessin parle d’une fin avec laquelle personne ne négocie — et du soleil qui reste à l’horizon derrière elle.**
 
 ## Par le nombre : 13 {#nombre}
 
-**13 — 1 + 3 = 4 — les fondations, la stabilité.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**13 — 1 + 3 = 4 — les fondations, la stabilité.** Additionnez les chiffres et 13 devient le [chiffre 4](/fr/bibliotheque/numerologie/chiffre-4/) : les fondations, la structure, le fruit du travail. Ça semble l’inverse de la Mort, jusqu’à ce qu’on regarde le revers du 4 : continuer alors qu’il faudrait s’arrêter. La Mort répond à ce revers-là. Elle dégage ce qui ne marche plus pour qu’on puisse bâtir du solide sur un terrain propre.
+
+Dans l’histoire d’Instagram, le 4, c’est l’application à son plus solide — le moment où une entreprise commence à croire qu’elle ne changera plus jamais. La Mort, c’est la carte qui rappelle que si.
 
 ## Par l’élément : Eau {#element}
 
-{{< todo >}}À ÉCRIRE — ce que [Eau](/fr/bibliotheque/quatre-elements/element-eau/) apporte ici : de quoi la carte parle.{{< /todo >}}
+La Mort est une carte d’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les émotions, ce qui coule, ce qui s’infiltre. L’eau travaille lentement. Le feu détruit d’un coup ; l’eau qu’on laisse faire va plus profond et prend plus de temps, comme l’humidité qui gagne un mur et ronge peu à peu les fondations d’une maison.
+
+C’est pour ça que la Mort est si rarement brutale en tirage. Le plus souvent, c’est la fin de quelque chose qui finissait depuis un moment — et les émotions qui viennent quand on lâche. Regardez la rivière derrière le cavalier : elle continue de couler.
 
 ## Par les couleurs {#couleurs}
 
-{{< todo >}}À ÉCRIRE — les couleurs dominantes et ce qu’elles disent avant la carte ([la grille des couleurs](/fr/bibliotheque/couleurs-tarot/)).{{< /todo >}}
+Du noir et du blanc, presque rien d’autre. Le noir de l’armure et de l’étendard, c’est l’absence, le vide, faire place nette — et, dans ma grille, la réalité ([le noir](/fr/bibliotheque/couleurs-tarot/noir/)). Le blanc du cheval et de la rose, c’est la pureté, la paix, ce qui repart à neuf. L’or de la robe de l’évêque et du soleil : la volonté, la lumière.
+
+Avant même le nom, les couleurs disent : un vide qu’on fait, une page blanche, une lumière derrière.
 
 ## Par l’astrologie : Scorpion {#astrologie}
 
-{{< todo >}}À ÉCRIRE — Scorpion, dans la tradition Golden Dawn ; ce que ça ajoute, et si ça vaut la peine de le garder ([astrologie](/fr/bibliotheque/astrologie/)).{{< /todo >}}
+Dans la tradition Golden Dawn, la Mort correspond au [Scorpion](/fr/bibliotheque/astrologie/scorpion/), le signe dont le verbe est « Je désire ». Le Scorpion, c’est l’intensité, l’observation attentive, la transformation menée jusqu’au bout, voulue ou non. Il donne de la profondeur à la carte : ce qui se termine ici, c’est quelque chose auquel on tenait.
+
+Clé facultative : le nombre et l’élément ont déjà tout dit.
 
 ## En lecture {#lecture}
 
-{{< todo >}}À ÉCRIRE — à l’endroit, renversée, selon les cartes voisines. Une chose à retenir en gras.{{< /todo >}}
+À l’endroit, la Mort est une transformation. Un emploi, une relation, une habitude, une version de vous-même arrive à sa fin naturelle. Ma propre note sur cette carte parle de moisson : la Mort est liée au fait de recommencer, à la personne qui a perdu son but et veut rendre sa vie fertile à nouveau. On fauche ce qui est mûr pour pouvoir semer — ce n’est pas un hasard si on l’appelle la Faucheuse. Au tarot de Marseille, c’est l’[arcane sans nom](/fr/blog/arcane-sans-nom-tarot/), la treizième lame, qui ne porte pas de titre.
+
+Si vous êtes ici parce que la santé de quelqu’un vous inquiète, je comprends ; le nom de la carte fait cet effet-là. Mais une carte n’annonce ni un décès ni une maladie, et je ne lis pas sur ces questions — elles reviennent à un médecin et aux personnes proches de vous. J’explique pourquoi dans [santé, grossesse, décès : pourquoi je ne lis pas ces questions](/fr/blog/sante-grossesse-deces-tarot/). Ce qu’un tirage peut porter, c’est le changement que vous traversez.
+
+Renversée, la fin est refusée ou elle traîne : quelque chose de terminé qu’on maintient en vie, le poste qu’on a déjà quitté dans sa tête, un changement à moitié fait — ni l’ancienne vie, ni la nouvelle.
+
+À côté de la [Tour](/fr/bibliotheque/cartes-tarot/la-tour/), le changement est brutal ; seule, la Mort est le plus souvent lente. À côté de l’[As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/), la moisson est suivie d’une graine : quelque chose de concret commence sur le terrain dégagé. Pour le couple et le travail : [la Mort en amour](/fr/blog/la-mort-tarot-amour/) et [la Mort au travail](/fr/blog/la-mort-tarot-travail/).
+
+{{< cards "ar16 peac" >}}
+
+**La Mort fauche ce qui est mûr pour que la terre puisse être semée à nouveau.**
 
 ## Exemple de tirage {#exemple}
 
-{{< todo >}}À ÉCRIRE — un tirage réel anonymisé : clés de lecture d’abord, phrase dite, ce que la personne a confirmé.{{< /todo >}}
+Imaginons : quelqu’un s’assoit, ne vous dit rien, et tire la Mort à côté de l’As de Pentacles. Les clés de lecture d’abord : 13, donc 4, puis 1 — des fondations dégagées, puis un nouveau départ. L’Eau puis la Terre : les sentiments d’abord, ensuite quelque chose de concret. Du noir et du blanc d’un côté ; de l’or et du vert de l’autre.
+
+La phrase que je dirais : « Quelque chose s’est terminé pour vous, ou se termine, et ça a été lourd — mais juste derrière, il y a un nouveau départ très concret, quelque chose que vous pouvez construire de vos mains. »
+
+Puis la vérification. Un chapitre s’est-il fermé récemment — un travail, un logement, une façon de vivre ? Un nouveau projet se rapproche-t-il ? Si rien ne tient, c’est un raté, et je le dirais sans l’enrober.

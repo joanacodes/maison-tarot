@@ -1,6 +1,6 @@
 ---
 title: 'The Chariot — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'The Chariot tarot card: two sphinxes and no reins, the number 7, Water and Cancer. How to read its drive upright and reversed, and why it only works when the driver is clear.'
+description: 'The Chariot tarot card: two sphinxes and no reins, the number 7, Water and Cancer. How to read its drive upright and reversed, and why the driver must be clear.'
 translationKey: card-ar07
 type: cards
 navTitle: The Chariot
@@ -50,7 +50,7 @@ What’s missing: reins. He holds nothing that steers the sphinxes, and they are
 
 **7 — seven — doubt, assessment, patience.** A card in motion filed under the patient 7 looks like a contradiction. It isn’t: the [number 7](/library/numerology/number-7/) is analysis before action, the pause where you look at what you have and decide what comes next. The Chariot is the 7 that has done its thinking and moves because it knows where it’s going.
 
-In the story of Instagram on my numerology pages, 7 is Facebook deciding to turn the app into an advertising platform: neither triumph nor fall, but a negotiating table where you choose what the thing will become. The advice of 7 suits a driver: everything is temporary. The position you’re in, good or bad, will move — which is a reason to steer rather than to grip.
+In the Instagram story on my numerology pages, 7 is Facebook turning the app into an advertising platform: neither triumph nor fall, a negotiating table where you choose what the thing will become. The advice of 7 suits a driver: everything is temporary. The position you’re in, good or bad, will move — which is a reason to steer rather than to grip.
 
 ## By element: Water {#element}
 
@@ -61,8 +61,6 @@ In my notes this card is a warrior with both a feminine and a masculine spirit �
 ## By colours {#colours}
 
 Yellow fills the sky. In [my colour grid](/library/tarot-colours/yellow/), yellow is will, pride, self-expression — what you want, wanted in daylight. Blue on the canopy: emotion, Water, held overhead like a roof. Black and white on the sphinxes: absence and presence, the void and the clean start, two forces that would pull apart if left alone. Grey on the stone of the chariot: stability, a vehicle built to last.
-
-Read before the card: will, emotion under control, two opposites, and something solid carrying them.
 
 ## By astrology: Cancer {#astrology}
 
@@ -82,7 +80,7 @@ Next to [the Emperor](/library/tarot-cards/the-emperor/), the one who gives orde
 
 Say someone sits down, tells you nothing, and draws the Chariot next to the [Four of Swords](/library/tarot-cards/four-of-swords/): the effigy of a knight lying on a tomb in a church, hands joined, one sword beneath him and three on the wall.
 
-Lenses first. Numbers: 7 then 4, a will in motion next to a stillness. Elements: Water then Air, feelings held steady, then a mind that needs quiet. Colours: the Chariot’s bright yellow sky next to the grey stillness of a closed room.
+Lenses first. 7 then 4: a will in motion next to a stillness. Water then Air: feelings held steady, then a mind that needs quiet. The Chariot’s bright yellow sky next to the grey of a closed room.
 
 The sentence I’d say out loud: “You’ve been driving everything forward with no reins for a while, and the next move is to stop on purpose, before something stops you.”
 

@@ -33,6 +33,8 @@ The colours: black for reality, the bare thing without varnish; white for what i
 
 And the astrology, if it speaks to you: Scorpio, the sign whose verb is “I desire”. Intensity, and a transformation carried through, wanted or not. You can leave it aside; the number, the element and the colours already say it. The card has [its own page, with every lens](/library/tarot-cards/death/), if you want to go further.
 
+Lay the lenses over each other — foundations, emotion, bare reality, a slow inner change — and the sentence I’d say out loud with this card is rarely “something is ending”. It’s closer to: “Something you built has done its job, and you’re allowed to rebuild it differently.” Then I check it with the person. If it doesn’t land, it’s a miss, and I say so rather than bend the card until it fits.
+
 ## What Death means in a relationship: single, together, after a break-up {#relationship}
 
 **Death talks about an end inside the story, rarely the end of the story.** What ends depends on where you stand.
@@ -41,7 +43,7 @@ When you’re single, Death usually points at a pattern rather than a person. Th
 
 When you’re together, it often describes a couple changing shape. The first years end and something steadier begins. A move, a child leaving home, one of you changing jobs, a new way of arguing that finally goes somewhere — one chapter closes so the relationship can carry on as something else. The king on the ground is often a habit that ruled the house for years: who always gives in, who always decides, the Sunday that has to look like every other Sunday. Nobody misses him once he’s gone.
 
-After a break-up, Death tends to talk about the waiting. The part of you that still checks their profile, still rehearses the conversation, still keeps their side of the wardrobe empty. The card doesn’t say whether they’ll come back — that’s a different question, and I’ve written about [what “will they come back?” does to you](/blog/will-they-come-back-tarot/). It says the season of waiting can end, whatever the other person does.
+After a break-up, Death tends to talk about the waiting. The part of you that still checks their profile, still rehearses the conversation, still keeps their side of the wardrobe empty. The card doesn’t say whether they’ll come back — that’s a different question, and I’ve written about [what “will they come back?” does to you](/blog/will-they-come-back-tarot/). It says the season of waiting can end, whatever the other person does. In practice that might be small: the evening you don’t open the conversation thread, the photo you move to a folder instead of looking at it every night, the first plan you make that doesn’t leave a gap for them.
 
 One thing to say plainly, because the name frightens people: Death doesn’t announce anyone’s death, and it says nothing about anyone’s health. Those are questions I don’t read on at all, and I’ve explained [why careful readers step back from them](/blog/health-pregnancy-death-tarot/).
 

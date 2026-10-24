@@ -17,7 +17,7 @@ Samhain est l’ancienne fête gaélique qui clôt les récoltes et ouvre l’hi
 
 Samhain (prononcez à peu près « saou-ine ») est une fête saisonnière gaélique qui marque la fin des récoltes et l’entrée dans l’hiver, la moitié sombre de l’année. Elle va du coucher du soleil le 31 octobre à celui du 1er novembre — la journée commençait autrefois à la tombée de la nuit —, à mi-chemin entre l’équinoxe d’automne et le solstice d’hiver. C’est l’une des quatre fêtes saisonnières gaéliques, avec Imbolc, Bealtaine et Lughnasa.
 
-On la fêtait en Irlande, en Écosse et sur l’île de Man, et elle a des cousines : Calan Gaeaf au pays de Galles et, chez nous en Bretagne, Kalan Goañv, « les calendes de l’hiver », le nom breton du 1er novembre. Feux, festins, déguisements et jeux de divination appartenaient à cette nuit, et bien des coutumes d’Halloween en viennent. Aujourd’hui, de nombreux païens modernes et sorcières la célèbrent comme l’une des huit fêtes de la Roue de l’année, souvent en se souvenant de leurs ancêtres.
+On la fêtait en Irlande, en Écosse et sur l’île de Man, et elle a des cousines : Calan Gaeaf au pays de Galles et, en Bretagne, Kalan Goañv, « les calendes de l’hiver », le nom breton du 1er novembre. Feux, festins, déguisements et jeux de divination appartenaient à cette nuit, et bien des coutumes d’Halloween en viennent. Aujourd’hui, de nombreux païens modernes et sorcières la célèbrent comme l’une des huit fêtes de la Roue de l’année, souvent en se souvenant de leurs ancêtres.
 
 Imaginez une ferme le dernier soir d’octobre : la récolte est rentrée, les bêtes sont redescendues des pâturages d’été, le feu est allumé, et l’on compte ce qu’on a pour passer l’hiver. **Samhain, c’est d’abord un inventaire.**
 
@@ -25,7 +25,7 @@ Imaginez une ferme le dernier soir d’octobre : la récolte est rentrée, les b
 
 « Le voile s’amincit » veut dire ceci : à Samhain, la frontière entre notre monde et l’autre — les morts, le peuple des fées, l’Autre Monde des vieux récits irlandais — serait au plus ouvert. Les esprits passent plus facilement, et les vivants les perçoivent mieux.
 
-Ma position est plus étroite. Je ne me sers pas du tarot pour appeler qui que ce soit, à Samhain ou un autre soir, parce qu’avec les esprits, on ne sait pas qui l’on appelle. Et quand une lecture d’octobre me paraît plus lourde, je regarde d’abord la personne en face de moi : la nuit qui tombe à 17 h depuis le passage à l’heure d’hiver, l’anniversaire qu’elle n’a pas mentionné. Tout n’est pas une histoire d’esprits. Parfois, c’est un deuil ; parfois, c’est [une porte qui est celle d’un thérapeute, pas la mienne](/fr/avertissements/#therapie).
+Ma position est plus étroite. Je ne me sers pas du tarot pour appeler qui que ce soit, à Samhain ou un autre soir, parce qu’avec les esprits, on ne sait pas qui l’on appelle. Et quand une lecture d’octobre me paraît plus lourde, je regarde d’abord la personne en face de moi : la nuit qui tombe vers 17 h depuis le passage à l’heure d’hiver, l’anniversaire qu’elle n’a pas mentionné. Tout n’est pas une histoire d’esprits. Parfois, c’est un deuil ; parfois, c’est [une porte qui est celle d’un thérapeute, pas la mienne](/fr/avertissements/#therapie).
 
 Il y a d’ailleurs un voile dans le jeu : derrière la Grande Prêtresse, entre ses deux colonnes, brodé de grenades. Elle ne le soulève pas ; elle est assise devant, calme, et en sait plus qu’elle n’en dit. Voir [ce que le voile signifie au tarot](/fr/bibliotheque/symboles-tarot/voile/).
 

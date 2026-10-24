@@ -1,8 +1,7 @@
 ---
 title: 'Le Pendu (The Hanged Man) — tarot Rider-Waite-Smith : lire la carte par ses
   clés de lecture'
-description: 'Le Pendu : ce qu’on voit sur la carte, puis le nombre, l’élément (Eau),
-  les couleurs et Neptune. Lire la carte sans l’avoir apprise.'
+description: 'Le Pendu au tarot : une pause acceptée, le 12, l’Eau et Neptune. Ce que montre la carte de 1909, et comment la lire à l’endroit, renversée et à côté d’autres cartes.'
 translationKey: card-ar12
 type: cards
 navTitle: Le Pendu
@@ -28,11 +27,11 @@ related:
 - /bibliotheque/astrologie
 faq:
 - q: Que signifie Le Pendu ?
-  a: 'Il n’y a pas une signification à apprendre : Le Pendu se lit par son nombre
-    (12), son élément (Eau) et ses couleurs. La page ci-dessus les pose une à une.'
+  a: 'Le Pendu, c’est une pause acceptée : on arrête de forcer pour voir la situation sous un autre angle. En lecture, il parle d’attente, de recul, et de lâcher le contrôle pendant un temps.'
 - q: Le Pendu renversé, ça change quoi ?
-  a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
-    l’endroit, puis ce qui bloque ou déborde.
+  a: 'La pause est subie plutôt que choisie, ou elle a trop duré et devient une excuse. Ce peut être aussi l’inverse : tant d’agitation que rien ne se pose assez longtemps pour être vu autrement.'
+- q: Le Pendu est-il une mauvaise carte ?
+  a: 'Non. Il est suspendu par une cheville, pas par le cou, et son visage est calme. C’est une carte de pause et de point de vue, pas de punition.'
 categories:
 - Arcane majeur
 tags:
@@ -43,28 +42,50 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-{{< todo >}}À ÉCRIRE — décrire le dessin de Pamela Colman Smith, détail par détail : personnages, objets, posture, ce qui manque.{{< /todo >}}
+Un homme est suspendu la tête en bas, attaché par une cheville à une poutre en forme de T, en bois vivant — des feuilles vertes y poussent. Son autre jambe est repliée derrière la jambe tendue et dessine un 4. Ses mains sont dans son dos, coudes écartés, si bien que ses bras et sa tête forment un triangle. Il porte une tunique bleue et des chausses rouges. Une auréole jaune brille autour de sa tête, et son visage est calme, presque serein. Le fond est d’un gris uni.
+
+Remarquez ce qui manque : pas de corde au cou, pas de bourreau, pas de lutte, aucun signe de douleur. Personne ne le retient. **Le dessin parle d’une pause acceptée — le monde vu à l’envers par quelqu’un qui a cessé de lutter contre lui.**
 
 ## Par le nombre : 12 {#nombre}
 
-**12 — 1 + 2 = 3 — créer, célébrer, le premier résultat.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**12 — 1 + 2 = 3 — créer, célébrer, le premier résultat.** Douze se réduit au [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/) : la machine se lance, la première chose fonctionne. Pour une carte où l’on reste suspendu, c’est surprenant, et c’est la clé. Le résultat du Pendu, c’est un nouveau point de vue, la première chose qui sort de la pause — et il y a un triangle dessiné dans ses propres bras.
+
+Le conseil du 3 lui va aussi : finir un projet avant d’en commencer un autre. Dans l’histoire d’Instagram, le 3, c’est le lancement qui tourne sans qu’on le pousse : les gens reviennent d’eux-mêmes. C’est la leçon du Pendu — parfois les choses avancent parce qu’on a arrêté de pousser.
 
 ## Par l’élément : Eau {#element}
 
-{{< todo >}}À ÉCRIRE — ce que [Eau](/fr/bibliotheque/quatre-elements/element-eau/) apporte ici : de quoi la carte parle.{{< /todo >}}
+Le Pendu est une carte d’[Eau](/fr/bibliotheque/quatre-elements/element-eau/). L’Eau, c’est l’émotion, les relations, les forces cachées. Elle vous porte d’un point A à un point B quand vous la laissez faire, et elle peut vous noyer quand vous luttez contre elle. C’est la carte en une image : quelqu’un qui a cessé de nager à contre-courant.
+
+Une eau calme, ce sont des émotions posées. Le risque, c’est l’autre visage de l’eau qui ne bouge pas : y rester si longtemps qu’elle finit par croupir.
 
 ## Par les couleurs {#couleurs}
 
-{{< todo >}}À ÉCRIRE — les couleurs dominantes et ce qu’elles disent avant la carte ([la grille des couleurs](/fr/bibliotheque/couleurs-tarot/)).{{< /todo >}}
+La tunique bleue, c’est l’émotion, l’eau — l’élément de la carte, porté sur le corps ([le bleu](/fr/bibliotheque/couleurs-tarot/bleu/)). Les chausses rouges, c’est l’action, l’impulsion, mais à l’envers et à l’arrêt. L’auréole jaune, c’est la volonté et l’expression de soi, une lumière qui n’apparaît que dans cette position. Le fond gris, c’est la neutralité, l’absence de volonté particulière ([le gris](/fr/bibliotheque/couleurs-tarot/gris/)). Et les feuilles vertes sur le bois disent que la vie continue.
+
+Lue sans le titre : une énergie en suspens, des sentiments apaisés, et une tête qui s’est allumée.
 
 ## Par l’astrologie : Neptune {#astrologie}
 
-{{< todo >}}À ÉCRIRE — Neptune, dans la tradition Golden Dawn ; ce que ça ajoute, et si ça vaut la peine de le garder ([astrologie](/fr/bibliotheque/astrologie/)).{{< /todo >}}
+La Golden Dawn rattachait cette carte à l’élément Eau lui-même ; le lien avec [Neptune](/fr/bibliotheque/astrologie/neptune/) est venu plus tard, chez les lecteurs modernes, et il tient. Neptune, c’est le rêve, l’intuition, l’illusion, le flou entre soi et le reste.
+
+Je m’en méfie un peu, parce que c’est le placement qu’on utilise le plus pour excuser ce qu’on ne veut pas regarder. Je le lis à la manière du Pendu : un point de vue à retourner, pas un brouillard où s’installer. Si l’astrologie n’est pas votre clé, laissez-la de côté.
 
 ## En lecture {#lecture}
 
-{{< todo >}}À ÉCRIRE — à l’endroit, renversée, selon les cartes voisines. Une chose à retenir en gras.{{< /todo >}}
+À l’endroit, le Pendu est une pause qui sert à quelque chose : une attente acceptée, la vitesse échangée contre le recul. Un projet en suspens, une décision qu’on ne peut pas encore prendre, une situation qu’on ne peut pas changer de l’extérieur — alors on change d’angle. C’est souvent la carte du « j’ai tout essayé », et sa réponse, c’est d’arrêter d’essayer un moment pour regarder autrement : prendre son mal en patience, mais les yeux ouverts.
+
+Renversé, la pause est subie plutôt que choisie, ou elle dure trop. L’attente devient une excuse : « j’attends le bon moment », trois ans de suite. Ou l’inverse — tant d’agitation que rien ne se pose assez longtemps pour être vu autrement.
+
+À côté de la [Mort](/fr/bibliotheque/cartes-tarot/la-mort/), la carte qui le suit, la pause prépare une fin qui doit arriver. À côté du [Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/), la différence, c’est le choix : elle est ligotée, les yeux bandés, et se croit incapable de bouger ; lui est attaché et l’a accepté. À côté du [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/), c’est du repos, tout bonnement. J’ai écrit à part sur [le Pendu en amour](/fr/blog/le-pendu-tarot-amour/) et [le Pendu au travail](/fr/blog/le-pendu-tarot-travail/).
+
+{{< cards "ar13 sw08 sw04" >}}
+
+**Le Pendu s’arrête pour voir ; la pause, c’est le travail.**
 
 ## Exemple de tirage {#exemple}
 
-{{< todo >}}À ÉCRIRE — un tirage réel anonymisé : clés de lecture d’abord, phrase dite, ce que la personne a confirmé.{{< /todo >}}
+Imaginons : quelqu’un s’assoit, ne vous dit rien, et tire le Pendu à côté du Huit de Coupes. Les clés de lecture d’abord : 12, donc 3, puis 8 — un premier résultat, puis quelque chose de construit qu’on quitte. Deux fois l’Eau : des sentiments du début à la fin. Du bleu et du gris sur une carte ; sur l’autre, une silhouette en rouge qui s’éloigne sous un ciel de nuit.
+
+La phrase que je dirais : « Vous attendez depuis un moment quelque chose qui compte pour vous, et pendant cette attente vous avez commencé à le voir autrement — assez pour que partir ne vous fasse plus peur. »
+
+Puis la vérification. Y a-t-il quelque chose que la personne a arrêté de forcer ? L’idée de passer à autre chose lui semble-t-elle plus légère qu’avant ? Si ça ne tient pas, c’est un raté, et je préfère le dire que tordre la lecture pour qu’elle colle.

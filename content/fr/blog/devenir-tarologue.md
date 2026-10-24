@@ -17,7 +17,7 @@ On me pose cette question juste après une lecture qui a touché juste, dans la 
 
 Pas à la louche. Dans un carnet, deux colonnes : ce que j'ai dit, ce qui a été confirmé. J'en ai tenu un dès le début, pour chaque inconnu à qui j'ai lu les cartes, et selon mon propre décompte manuel, environ une lecture sur dix rate. Ce n'est pas une étude. C'est un chiffre, et un chiffre, c'est plus que ce que peuvent offrir la plupart des tarologues qui font payer.
 
-La mémoire est une très mauvaise comptable. Elle garde la lecture où la dame a écarquillé les yeux et laisse tomber discrètement les trois où elle a hoché la tête poliment avant de partir. **Si vous ne savez pas dire à quelle fréquence vous vous trompez, vous n'êtes pas prêt à faire payer pour avoir raison.** [Compter ses tirages](/fr/blog/compter-ses-tirages/) est le premier geste professionnel, et il ne coûte rien.
+La mémoire est une très mauvaise comptable. Elle garde la lecture où la dame a écarquillé les yeux et laisse tomber discrètement les trois où elle a hoché la tête poliment avant de partir. **Si vous ne savez pas dire à quelle fréquence vous vous trompez, vous n'êtes pas prêt à faire payer pour avoir raison.** [Compter ses tirages](/fr/blog/carnet-de-tirage-tarot/) est le premier geste professionnel, et il ne coûte rien.
 
 ## Qu'allez-vous refuser ? {#refus}
 
@@ -29,13 +29,13 @@ Maintenant, la partie qui gratte. Ce sont précisément les questions pour lesqu
 
 Lors d'un événement gratuit, c'est facile. Rien ne s'est passé, je me suis trompée, je le dis, on passe à la suite. L'argent change l'incitation d'une façon qu'on sent dans la poitrine : un client qui a payé n'est pas venu entendre « non », et trois bouées de sauvetage sont déjà prêtes. « Ça prendra peut-être sens plus tard. » « C'est peut-être quelqu'un de votre entourage. » Une carte de plus, pour clarifier.
 
-Un raté est un raté. Pas de recadrage, pas de carte de clarification. La version professionnelle de cette phrase, c'est « ça n'a pas fait mouche, dites-moi où je me suis trompée », suivie d'un remboursement si c'était payant. Si vous n'arrivez pas à vous imaginer [le dire à voix haute](/fr/blog/tirage-rate/) à quelqu'un qui tient un reçu, la carte de visite vous désapprendra l'honnêteté plus vite que n'importe quelle mauvaise habitude.
+Un raté est un raté. Pas de recadrage, pas de carte de clarification. La version professionnelle de cette phrase, c'est « ça n'a pas fait mouche, dites-moi où je me suis trompée », suivie d'un remboursement si c'était payant. Si vous n'arrivez pas à vous imaginer [le dire à voix haute](/fr/blog/tirage-faux-que-faire/) à quelqu'un qui tient un reçu, la carte de visite vous désapprendra l'honnêteté plus vite que n'importe quelle mauvaise habitude.
 
 ## Que vendez-vous : des lectures, ou la capacité de lire ? {#ce-que-vous-vendez}
 
 Je vends des cours. Des sessions de soixante minutes, des ateliers de trois heures à douze personnes, une clé de lecture à la fois. Je n'ai jamais vendu une lecture, et les lectures ont pourtant lieu en permanence, gratuites, tirées au sort lors des événements. C'est le choix sur lequel j'insisterais le plus.
 
-Une activité qui vit des lectures a besoin que les gens reviennent pour des lectures. Ce n'est pas une faute morale ; c'est de l'arithmétique, et elle façonne tout en silence, de la façon dont une séance se termine aux questions qu'on cesse de refuser pendant un mois creux. Une activité qui vit de l'enseignement a besoin que les gens repartent en sachant plus et en ayant moins besoin de vous. [Ce que je fais payer et ce que je donne](/fr/blog/tarif-tarologue/), c'est la forme de cette arithmétique.
+Une activité qui vit des lectures a besoin que les gens reviennent pour des lectures. Ce n'est pas une faute morale ; c'est de l'arithmétique, et elle façonne tout en silence, de la façon dont une séance se termine aux questions qu'on cesse de refuser pendant un mois creux. Une activité qui vit de l'enseignement a besoin que les gens repartent en sachant plus et en ayant moins besoin de vous. [Ce que je fais payer et ce que je donne](/fr/blog/ce-que-je-fais-payer/), c'est la forme de cette arithmétique.
 
 J'ajoute la partie dont je ne suis pas fière. En 2021, je vendais de la sauge, des bougies et des cartes « canalisées » à côté du reste. J'ai arrêté, parce que rien dans ce carton n'a jamais amélioré une lecture, et parce que la boutique, c'est là où l'argent est facile et où l'honnêteté part en premier. Si votre plan comprend une boutique, demandez-vous à quoi servent les objets.
 

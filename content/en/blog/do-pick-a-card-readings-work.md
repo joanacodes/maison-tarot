@@ -21,7 +21,7 @@ I pressed play anyway, because I'd learned what happens when I'm sure.
 
 Silence. Then I was crying. Not tearing up — sobbing. The reader, Kloee Taylor, was saying my situation. Not vaguely: the exact shape of it, the thing I hadn't been able to explain to anyone, the reason I felt like I was speaking another language from everyone around me. I'd never heard someone else put words on it. And partway through, she started crying too. It felt, absurdly, like we were synced.
 
-I've called it the beginning of my awakening, and I've also written that I find that word cringe — [both are true](/blog/spiritual-awakening-the-word/). What I know is that a recorded reading for thousands of strangers reached one of them completely, and that stranger was me.
+I've called it the beginning of my awakening, and I've also written that I find that word cringe — [both are true](/blog/spiritual-awakening/). What I know is that a recorded reading for thousands of strangers reached one of them completely, and that stranger was me.
 
 ## So do they work? {#do-they-work}
 

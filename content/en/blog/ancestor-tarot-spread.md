@@ -21,7 +21,7 @@ Samhain is a natural time for it. Many traditions set these weeks aside for the 
 
 Say you lay it out thinking of the grandmother who taught you to knit. You aren’t asking her anything. You’re asking yourself what she left in your hands.
 
-**If your family is a painful subject, you choose who you remember.** Nobody owes thanks to someone who hurt them, and a chosen ancestor counts as much as a blood one.
+**If your family is a painful subject, you choose who you remember.** Nobody owes thanks to someone who hurt them, and an ancestor of the heart counts as much as one by blood.
 
 ## The five positions {#positions}
 

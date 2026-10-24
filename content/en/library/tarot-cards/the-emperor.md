@@ -1,6 +1,6 @@
 ---
 title: 'The Emperor — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'The Emperor tarot card: a stone throne, armour under the robe, the number 4, Fire and Aries. How to read his authority upright and reversed, and when walls stop protecting.'
+description: 'The Emperor tarot card: a stone throne, hidden armour, the number 4, Fire and Aries. Read his authority upright and reversed, and see when walls stop protecting.'
 translationKey: card-ar04
 type: cards
 navTitle: The Emperor
@@ -56,13 +56,11 @@ In the story of Instagram on my numerology pages, 4 is the big success that came
 
 The Emperor is a [Fire](/library/four-elements/fire-element/) card: creation, destruction, impulse. In my notes he is the father, and Fire explains his kind of authority — he forges, he protects, he lights the way. He gives orders; he doesn’t receive them.
 
-A 4 of Fire is fire in a hearth: contained, useful, keeping the house warm. Under his king’s robe he is ready for war, and that is the minus I note for this card: like fire, he can destroy everything, fast, when nobody is watching the flames. The strength that protects a house can also burn it down.
+A 4 of Fire is fire in a hearth: contained, useful, keeping the house warm. Under his king’s robe he is ready for war, and that is the minus I note for this card: like fire, he can destroy everything, fast, when nobody is watching the flames.
 
 ## By colours {#colours}
 
 Red and orange dominate: the robe, the sky, the mountains. In [my colour grid](/library/tarot-colours/red/), red is passion, action, strength, impulse — masculine energy, a body doing something. The Emperor’s is a deep, mature red; in my grid that shade leans towards purple, the colour of the one a group puts in charge. Grey on the throne: stability, matter that doesn’t move. Gold on the crown and the orb: power that has been earned, or taken.
-
-Read before the card: action, authority, something solid, and heat under the stone.
 
 ## By astrology: Aries {#astrology}
 
@@ -82,7 +80,7 @@ Next to [the Empress](/library/tarot-cards/the-empress/), it’s 3 then 4: what 
 
 Say someone sits down, tells you nothing, and draws the Emperor next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/): a woman bound and blindfolded, surrounded by swords planted in the ground, a castle behind her.
 
-Lenses first. Numbers: 4 then 8 — a structure, then the 4 exalted, control pushed to its limit. Elements: Fire then Air, a will followed by thoughts that go round in circles. Colours: the Emperor’s red and orange say will and heat; set beside a figure who can’t see, that heat has nowhere to go.
+Lenses first. 4 then 8: a structure, then the 4 exalted, control pushed to its limit. Fire then Air: a will, then thoughts going round in circles. The Emperor’s red and orange say will and heat; beside a figure who can’t see, that heat has nowhere to go.
 
 The sentence I’d say out loud: “You’ve built rules to protect yourself, and now they’re walls you can’t see past.”
 

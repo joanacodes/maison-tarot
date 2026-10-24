@@ -1,7 +1,7 @@
 ---
 title: 'Dix de Coupes (Ten of Cups) — tarot Rider-Waite-Smith : lire la carte par
   ses clés de lecture'
-description: 'Dix de Coupes : un couple salue un arc-en-ciel de dix coupes pendant que les enfants dansent. Le nombre, l’Eau, les couleurs et Mars en Poissons : le bonheur, et son revers.'
+description: 'Dix de Coupes : un couple salue un arc-en-ciel de dix coupes ; deux enfants dansent. Le nombre, l’Eau, les couleurs et Mars en Poissons : le bonheur, et son revers.'
 translationKey: card-cu10
 type: cards
 navTitle: Dix de Coupes

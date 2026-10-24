@@ -41,7 +41,7 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-First, in case this card came up for you and frightened you: Death doesn’t announce a death. Not yours, not anyone’s. It talks about something ending so that something else can grow, and the drawing says so if you look closely.
+First, in case this card came up for you and frightened you: Death doesn’t announce a death. Not yours, not anyone’s. It talks about something ending so that something else can grow.
 
 A skeleton in black armour rides a white horse. He carries a black banner with a white five-petalled rose, and a red plume rises from his helmet. In front of the horse, a king lies on the ground, his crown fallen beside him. A bishop in a golden robe and mitre stands facing the rider, hands joined. A young woman kneels and turns her face away; next to her, a child kneels and looks straight up at the rider. Behind them a river flows, with a boat on it, and on the horizon, between two towers, the sun — rising or setting, the drawing doesn’t say.
 
@@ -61,9 +61,9 @@ That’s why Death is so rarely sudden in a reading. Usually it’s the end of s
 
 ## By colours {#colours}
 
-Black and white, almost nothing else. The black of the armour and the banner is absence, void, emptying out — and, in my grid, reality ([black](/library/tarot-colours/black/)). The white of the horse and the rose is purity, peace, what starts clean. A touch of red on the helmet: action, still there. The gold of the bishop’s robe and of the sun: will, light.
+Black and white, almost nothing else. The black of the armour and the banner is absence, void, emptying out — and, in my grid, reality ([black](/library/tarot-colours/black/)). The white of the horse and the rose is purity, peace, what starts clean. The gold of the bishop’s robe and of the sun: will, light.
 
-Read the colours before the name and the card already tells you: an emptying, a clean slate, and a light behind it.
+Before the name, the colours already say it: an emptying, a clean slate, a light behind.
 
 ## By astrology: Scorpio {#astrology}
 
@@ -87,7 +87,7 @@ Next to [the Tower](/library/tarot-cards/the-tower/), the change is sudden; alon
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws Death next to the Ace of Pentacles. Lenses first: 13, so 4, then 1 — foundations cleared, then a new start. Water then Earth: feelings first, then something concrete. Black and white on one card; gold and green on the other, a garden behind the coin.
+Say someone sits down, tells you nothing, and draws Death next to the Ace of Pentacles. Lenses first: 13, so 4, then 1 — foundations cleared, then a new start. Water then Earth: feelings first, then something concrete. Black and white on one card; gold and green on the other.
 
 The sentence I’d say: “Something has ended for you, or is ending, and it’s been heavy — but right behind it there’s a very concrete new start, something you can build with your hands.”
 

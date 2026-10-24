@@ -1,7 +1,6 @@
 ---
 title: 'Le Monde (The World) — tarot Rider-Waite-Smith : lire la carte par ses clés de lecture'
-description: 'Le Monde : ce qu’on voit sur la carte, puis le nombre, l’élément (Terre),
-  les couleurs et Saturne. Lire la carte sans l’avoir apprise.'
+description: 'Le Monde au tarot, lu par ses clés de lecture : 21 devient 3, la Terre, le vert et le violet, Saturne — un cycle bouclé, tout qui travaille ensemble, et la suite.'
 translationKey: card-ar21
 type: cards
 navTitle: Le Monde
@@ -26,12 +25,12 @@ related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
-- q: Que signifie Le Monde ?
-  a: 'Il n’y a pas une signification à apprendre : Le Monde se lit par son nombre
-    (21), son élément (Terre) et ses couleurs. La page ci-dessus les pose une à une.'
-- q: Le Monde renversé, ça change quoi ?
-  a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
-    l’endroit, puis ce qui bloque ou déborde.
+- q: 'Que signifie Le Monde ?'
+  a: 'Le Monde, c’est l’accomplissement : un cycle se ferme, un projet aboutit, une étape de vie est terminée et vous le sentez. Dans mes notes, c’est l’action menée par le tout, tout ce que vous avez rassemblé qui travaille ensemble. Il se lit par son nombre (21, qui se ramène à 3), son élément (la Terre) et son vert et son violet.'
+- q: 'Le Monde renversé, ça change quoi ?'
+  a: 'Renversé, le Monde, c’est le même accomplissement au ralenti, les derniers pas qu’on n’arrive pas à faire. Ou en excès : fêter la fin si longtemps qu’on ne laisse jamais commencer la suite.'
+- q: 'Le Monde, c’est un oui ?'
+  a: 'Si vous lisez en oui ou non, le Monde penche vers le oui, parce que quelque chose est accompli. Je préfère quand même demander ce qui se termine et ce que vous voulez commencer, puisque c’est la partie qui vous revient.'
 categories:
 - Arcane majeur
 tags:
@@ -42,28 +41,48 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-{{< todo >}}À ÉCRIRE — décrire le dessin de Pamela Colman Smith, détail par détail : personnages, objets, posture, ce qui manque.{{< /todo >}}
+Une femme danse dans les airs, au centre d’une grande couronne ovale de feuilles vertes, nouée en haut et en bas par des rubans rouges croisés comme le signe de l’infini. Elle est nue, à part une longue écharpe violette enroulée autour du corps, et tient une courte baguette dans chaque main. Une jambe se croise derrière l’autre. Aux quatre coins, des têtes apparaissent dans les nuages : un visage humain, un aigle, un taureau et un lion — les mêmes que sur la Roue de Fortune.
+
+Rien n’est inachevé sur cette carte. Pas de sol sous ses pieds, pas de route, pas de tâche en cours : deux baguettes, tenues légèrement. **La boucle est bouclée, et l’on s’y meut avec aisance.** C’est tout le dessin.
 
 ## Par le nombre : 21 {#nombre}
 
-**21 — 2 + 1 = 3 — créer, célébrer, le premier résultat.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**21 — 2 + 1 = 3 — créer, célébrer, le premier résultat.** Vingt et un se ramène à [3](/fr/bibliotheque/numerologie/chiffre-3/), le nombre de l’Impératrice : le bon rythme, la machine qui tourne, un contrat qui marche. Son conseil : finir un projet avant d’en commencer un autre ; son moins : lancer du neuf avant d’avoir fini l’ancien.
+
+Sur la dernière carte des arcanes majeurs, le 3 dit que le travail est devenu un résultat, et que ce résultat tourne tout seul. Dans l’histoire d’Instagram, le 3, c’est le lancement qui marche : les gens s’inscrivent, postent, reviennent, et pour la première fois la chose tourne sans qu’on la pousse. C’est la danseuse dans sa couronne : aucun effort visible, tout en mouvement.
 
 ## Par l’élément : Terre {#element}
 
-{{< todo >}}À ÉCRIRE — ce que [Terre](/fr/bibliotheque/quatre-elements/element-terre/) apporte ici : de quoi la carte parle.{{< /todo >}}
+Le Monde est une carte de [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, ce qui a de la valeur pour vous, le résultat du travail. La Terre, c’est la ténacité et l’endurance, ce qui fait durer les choses — ce qui convient à la fin des majeurs : vingt et une cartes d’effort, et voici enfin quelque chose sur quoi tenir debout.
+
+Dans mes notes, le Monde, c’est l’action menée par le tout : les deux baguettes. Pas un seul outil qui pousse dans une seule direction, comme l’unique baguette levée du Magicien, mais tout ce que vous avez rassemblé qui travaille ensemble. Le moins de la Terre est le même que d’habitude : s’accrocher si longtemps à ce qui est fini qu’on ne peut plus commencer la suite.
 
 ## Par les couleurs {#couleurs}
 
-{{< todo >}}À ÉCRIRE — les couleurs dominantes et ce qu’elles disent avant la carte ([la grille des couleurs](/fr/bibliotheque/couleurs-tarot/)).{{< /todo >}}
+Le [vert](/fr/bibliotheque/couleurs-tarot/vert/) de la couronne : la croissance, la vie, la prospérité. Le [violet](/fr/bibliotheque/couleurs-tarot/violet/) de l’écharpe : dans ma grille, un rouge mûri — un rôle que les autres vous confient, une place qu’ils reconnaissent. Le rouge des rubans : l’action, la force, qui ferment le cercle. Le bleu du ciel derrière elle : des émotions apaisées. Lisez les couleurs avant la carte et vous avez déjà : quelque chose qui a poussé, une place que les autres reconnaissent, et un calme bien mérité.
 
 ## Par l’astrologie : Saturne {#astrologie}
 
-{{< todo >}}À ÉCRIRE — Saturne, dans la tradition Golden Dawn ; ce que ça ajoute, et si ça vaut la peine de le garder ([astrologie](/fr/bibliotheque/astrologie/)).{{< /todo >}}
+Dans la tradition Golden Dawn, le Monde revient à [Saturne](/fr/bibliotheque/astrologie/saturne/), et à la Terre aussi. Saturne, c’est la leçon la plus dure : là où l’on est limité, tenu de faire ses preuves, en retard sur ce qu’on voulait — et là où, avec le temps, on devient solide précisément parce que ça a été difficile. Quand j’ai testé l’astrologie case par case, Saturne a fait partie des trois placements justes de 75 à 90 % du temps, et c’est ce résultat qui m’a fait garder l’astrologie. Je lis donc cette carte comme la récompense de Saturne : ce qu’on a fini par construire. Clé facultative ; le nombre et l’élément le disent aussi.
 
 ## En lecture {#lecture}
 
-{{< todo >}}À ÉCRIRE — à l’endroit, renversée, selon les cartes voisines. Une chose à retenir en gras.{{< /todo >}}
+À l’endroit, le Monde, c’est l’accomplissement : un cycle se ferme, un projet aboutit, une étape de vie est terminée et vous le sentez. Ce peut être aussi le voyage, le vaste monde, le fait d’être bien à sa place. Son plus, c’est la plénitude ; son moins, c’est qu’une chose finie peut devenir un endroit qu’on a peur de quitter.
+
+Renversé, c’est le même accomplissement au ralenti : les derniers pas qu’on n’arrive pas à faire, la case qu’on refuse de cocher. Ou en excès : fêter la fin si longtemps que la suite n’arrive jamais à commencer.
+
+À côté du [Mat](/fr/bibliotheque/cartes-tarot/le-mat/), qui vient après lui quand le jeu recommence, le Monde dit : c’est fini, et prêt à repartir léger. À côté de [la Roue de Fortune](/fr/bibliotheque/cartes-tarot/la-roue-de-fortune/), qui porte les mêmes quatre créatures, c’est la différence entre un cycle qui vous fait tourner et un cycle que vous avez accompli. À côté du [Trois de Coupes](/fr/bibliotheque/cartes-tarot/trois-de-coupes/), un autre 3, c’est la fête avec celles et ceux qui ont aidé.
+
+{{< cards "ar00 ar10 cu03" >}}
+
+**Le Monde n’est pas la fin de l’histoire ; c’est la fin d’un chapitre que vous avez pu terminer.** C’est aussi le dernier des vingt-deux : vous trouverez [tous les arcanes majeurs sur une seule page](/fr/blog/arcanes-majeurs-signification/).
 
 ## Exemple de tirage {#exemple}
 
-{{< todo >}}À ÉCRIRE — un tirage réel anonymisé : clés de lecture d’abord, phrase dite, ce que la personne a confirmé.{{< /todo >}}
+Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Monde à côté de l’[As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/).
+
+Les clés de lecture d’abord. Les nombres : 21 se ramène à 3, le premier résultat ; l’As est un 1, un diamant brut, le début d’un cycle, dont le conseil est l’humilité — se préparer à apprendre. Les éléments : Terre et Terre, donc du concret, quelque chose qu’on peut tenir. Les images : la couronne verte du Monde et, sur l’As, une main sortant d’un nuage qui offre une pièce d’or au-dessus d’un jardin.
+
+La phrase que vous diriez à voix haute : « Quelque chose sur quoi vous travaillez depuis longtemps est accompli, et la suite est déjà dans votre main. Elle est plus petite, et c’est normal : vous voilà de nouveau au début, avec tout ce que vous avez appris. »
+
+Puis vérifiez. Demandez à la personne ce que cela lui évoque, et laissez-la dire ce qui se termine et ce qui commence. Si ça ne colle pas, c’est un raté. Si ça colle, ce qu’elle en fait lui appartient : je lis ; vous décidez.
