@@ -11,13 +11,13 @@ number: 1
 cardId: cuac
 element: Eau
 numerology: un — le début, le diamant brut
-astrology: Racine de Eau
+astrology: Racine de l’Eau
 energy: Féminine
 kabbalah: ''
 image: cards/cuac.webp
 h1: As de Coupes — <em>un</em>, l’Eau
 lede: 'Avant de chercher ce que « signifie » As de Coupes, regardez ce que vous avez
-  déjà : un, l’élément Eau, Racine de Eau. Vous lisez la carte. Le nombre dit un —
+  déjà : un, l’élément Eau, Racine de l’Eau. Vous lisez la carte. Le nombre dit un —
   le début, le diamant brut ; l’élément dit les émotions, ce qui circule. Posez les
   deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
   de la page vous montre comment.'
@@ -38,7 +38,7 @@ categories:
 tags:
 - As de Coupes
 - Eau
-- Racine de Eau
+- Racine de l’Eau
 - arcane mineur
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
@@ -67,7 +67,7 @@ Au centre, la coupe est jaune doré. Dans ma grille, le [jaune](/fr/bibliotheque
 
 Reste le gris du fond : la neutralité, aucune volonté particulière. Avant d’avoir lu un mot sur la carte, vous avez déjà une joie qui ne vise encore personne, une eau claire, et un espace vide qui attend quelqu’un.
 
-## Par l’astrologie : Racine de Eau {#astrologie}
+## Par l’astrologie : Racine de l’Eau {#astrologie}
 
 La Golden Dawn, la tradition dont viennent les correspondances du Rider-Waite-Smith, n’a donné aux As ni signe ni planète. Chaque As est la « Racine des pouvoirs » de son élément : ici, l’Eau à l’état brut, avant qu’elle ne se partage entre les trois signes d’Eau — Cancer, Scorpion, Poissons — que se répartissent les cartes du Deux au Dix de Coupes.
 

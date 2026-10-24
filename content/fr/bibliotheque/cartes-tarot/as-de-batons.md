@@ -11,13 +11,13 @@ number: 1
 cardId: waac
 element: Feu
 numerology: un — le début, le diamant brut
-astrology: Racine de Feu
+astrology: Racine du Feu
 energy: Masculine
 kabbalah: ''
 image: cards/waac.webp
 h1: As de Bâtons — <em>un</em>, le Feu
 lede: 'Avant de chercher ce que « signifie » As de Bâtons, regardez ce que vous avez
-  déjà : un, l’élément Feu, Racine de Feu. Vous lisez la carte. Le nombre dit un —
+  déjà : un, l’élément Feu, Racine du Feu. Vous lisez la carte. Le nombre dit un —
   le début, le diamant brut ; l’élément dit l’élan, ce qu’on lance. Posez les deux
   l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
   de la page vous montre comment.'
@@ -38,7 +38,7 @@ categories:
 tags:
 - As de Bâtons
 - Feu
-- Racine de Feu
+- Racine du Feu
 - arcane mineur
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
@@ -65,7 +65,7 @@ Le brun-[orange](/fr/bibliotheque/couleurs-tarot/orange/) de la branche, c’est
 
 Ensemble, avant toute signification : quelque chose de chaud et de vivant, tendu au-dessus d’une terre verte. C’est déjà une lecture.
 
-## Par l’astrologie : Racine de Feu {#astrologie}
+## Par l’astrologie : Racine du Feu {#astrologie}
 
 Dans le système de la Golden Dawn, les mineurs du Deux au Dix reçoivent chacun un décan, une planète dans un signe. Pas les As : chacun est la « racine » de son élément, et celui-ci porte le titre de Racine des Pouvoirs du Feu (Root of the Powers of Fire). Ce n’est pas une position qu’on trouve dans un thème natal ; c’est la source où puise toute la famille, du Deux en Bélier au Dix en Sagittaire.
 

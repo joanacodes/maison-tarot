@@ -317,7 +317,7 @@
   element_en: Fire
   energy_fr: Masculine
   energy_en: Masculine
-  astro_fr: Racine de Feu
+  astro_fr: Racine du Feu
   astro_en: Root of Fire
 - id: wa02
   suit: wands
@@ -499,7 +499,7 @@
   element_en: Water
   energy_fr: Féminine
   energy_en: Feminine
-  astro_fr: Racine d’Eau
+  astro_fr: Racine de l’Eau
   astro_en: Root of Water
 - id: cu02
   suit: cups
@@ -681,7 +681,7 @@
   element_en: Air
   energy_fr: Masculine
   energy_en: Masculine
-  astro_fr: Racine d’Air
+  astro_fr: Racine de l’Air
   astro_en: Root of Air
 - id: sw02
   suit: swords
@@ -863,7 +863,7 @@
   element_en: Earth
   energy_fr: Féminine
   energy_en: Feminine
-  astro_fr: Racine de Terre
+  astro_fr: Racine de la Terre
   astro_en: Root of Earth
 - id: pe02
   suit: pentacles

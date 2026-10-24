@@ -11,13 +11,13 @@ number: 1
 cardId: swac
 element: Air
 numerology: un — le début, le diamant brut
-astrology: Racine d’Air
+astrology: Racine de l’Air
 energy: Masculine
 kabbalah: ''
 image: cards/swac.webp
 h1: As d’Épées — <em>un</em>, l’Air
 lede: 'Avant de chercher ce que « signifie » As d’Épées, regardez ce que vous avez
-  déjà : un, l’élément Air, Racine d’Air. Vous lisez la carte. Le nombre dit un —
+  déjà : un, l’élément Air, Racine de l’Air. Vous lisez la carte. Le nombre dit un —
   le début, le diamant brut ; l’élément dit le mental, ce qu’on décide. Posez les
   deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
   de la page vous montre comment.'
@@ -38,7 +38,7 @@ categories:
 tags:
 - As d’Épées
 - Air
-- Racine d’Air
+- Racine de l’Air
 - arcane mineur
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
@@ -63,7 +63,7 @@ L’Air, c’est aussi la communication, bonne ou mauvaise. La même lame peut d
 
 Le fond est presque entièrement [gris](/fr/bibliotheque/couleurs-tarot/gris/) : la neutralité, une stabilité qui attend. Dessus, le blanc de la main, ce qui n’a pas encore été touché, et le bleu froid de l’acier. Puis les touches qui comptent : l’or de la couronne et les gouttes jaunes, la joie et la volonté ; le vert des rameaux, la croissance ; de minuscules pierres rouges, un peu d’élan. Lisez les couleurs avant la carte ([la grille des couleurs](/fr/bibliotheque/couleurs-tarot/)) et vous avez déjà l’essentiel : un sol calme, une clarté froide, une couronne de possibles suspendue à la pointe.
 
-## Par l’astrologie : Racine d’Air {#astrologie}
+## Par l’astrologie : Racine de l’Air {#astrologie}
 
 Dans la tradition Golden Dawn, les As n’ont ni signe ni planète. Ce sont les racines de leur élément : l’As d’Épées est la « Racine des puissances de l’Air », la graine d’où pousse toute la famille, tandis que les autres Épées se partagent les trois signes d’Air — Balance, Verseau et Gémeaux. L’As les contient donc tous les trois en germe : la pesée de la Balance, l’idée neuve du Verseau, la parole rapide des Gémeaux. Si l’[astrologie](/fr/bibliotheque/astrologie/) vous parle, gardez cette image ; sinon, le nombre et l’élément ont déjà dit l’essentiel.
 
