@@ -13,7 +13,7 @@
         {{ if eq (.Params.price | default "free") "free" }}<span class="tag tag-gold">{{ i18n "free" }}</span>{{ end }}
       </div>
       <div class="prose small">{{ .Content }}</div>
-      <p>{{ partial "see-disclaimers.html" (dict "ctx" . "anchor" "evenements") }}</p>
+      <p>{{ partial "see-disclaimers.html" (dict "ctx" . "anchor" (cond (eq .Language.Lang "fr") "evenements" "events")) }}</p>
     </div>
     <div>
       <p class="label">{{ if $fr }}S’inscrire{{ else }}Register{{ end }}</p>

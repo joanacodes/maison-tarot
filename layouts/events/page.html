@@ -21,7 +21,7 @@
         {{ if eq (.Params.price | default "free") "free" }}<span class="tag tag-gold" style="align-self:center">{{ i18n "free" }}</span>{{ end }}
       </div>
     </div>
-    <div class="s7 o6 prose">{{ .Content }}<p style="margin-top:2rem">{{ partial "see-disclaimers.html" (dict "ctx" . "anchor" "evenements") }}</p></div>
+    <div class="s7 o6 prose">{{ .Content }}<p style="margin-top:2rem">{{ partial "see-disclaimers.html" (dict "ctx" . "anchor" (cond $fr "evenements" "events")) }}</p></div>
   </div>
 </article>
 {{ partial "event-dialog.html" . }}

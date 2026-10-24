@@ -33,7 +33,7 @@
   <div class="article-body">
     <aside class="rail">
       {{ with .TableOfContents }}<p class="label">{{ if $fr }}Sur cette page{{ else }}On this page{{ end }}</p><nav class="toc">{{ . }}</nav>{{ end }}
-      <p style="margin-top:1.5rem">{{ partial "see-disclaimers.html" (dict "ctx" . "anchor" "lectures") }}</p>
+      <p style="margin-top:1.5rem">{{ partial "see-disclaimers.html" (dict "ctx" . "anchor" (cond $fr "lectures" "readings")) }}</p>
     </aside>
     <div class="prose">
       {{ .Content }}

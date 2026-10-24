@@ -29,7 +29,7 @@ La qualité du tirage se joue avant de toucher le jeu. « Est-ce qu'il va m'écr
 
 Évitez les questions fermées pour un premier tirage. Elles transforment la carte en pièce de monnaie, et une pièce de monnaie n'a pas besoin de 78 images.
 
-Certains sujets restent hors table, quelle que soit la formulation : la santé, la mort, la grossesse, un procès en cours, une décision d'argent, les malédictions, et les personnes qui n'ont pas demandé qu'on lise pour elles. Les raisons sont sur [la page des refus](/fr/avertissements/#refusals), et elles valent à votre table de cuisine autant qu'à la mienne.
+Certains sujets restent hors table, quelle que soit la formulation : la santé, la mort, la grossesse, un procès en cours, une décision d'argent, les malédictions, et les personnes qui n'ont pas demandé qu'on lise pour elles. Les raisons sont sur [la page des refus](/fr/avertissements/#refus), et elles valent à votre table de cuisine autant qu'à la mienne.
 
 Dites la question une fois à voix haute. Ça vous empêche de la retoucher discrètement après avoir vu la carte.
 

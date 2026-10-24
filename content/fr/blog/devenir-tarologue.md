@@ -21,7 +21,7 @@ La mémoire est une très mauvaise comptable. Elle garde la lecture où la dame 
 
 ## Qu'allez-vous refuser ? {#refus}
 
-Voici la liste avec laquelle je travaille : la santé, la mort, la grossesse, les procès en cours, les décisions d'argent, les malédictions, et toute personne qui n'est pas dans la pièce et n'a rien demandé. [Maison Tarot refuse tout cela](/fr/avertissements/#refusals), non pas parce qu'une carte ne peut pas tomber sur ces sujets, mais parce qu'un mot de travers y fait de vrais dégâts, et j'ai établi que je me trompe une fois sur dix.
+Voici la liste avec laquelle je travaille : la santé, la mort, la grossesse, les procès en cours, les décisions d'argent, les malédictions, et toute personne qui n'est pas dans la pièce et n'a rien demandé. [Maison Tarot refuse tout cela](/fr/avertissements/#refus), non pas parce qu'une carte ne peut pas tomber sur ces sujets, mais parce qu'un mot de travers y fait de vrais dégâts, et j'ai établi que je me trompe une fois sur dix.
 
 Maintenant, la partie qui gratte. Ce sont précisément les questions pour lesquelles on paie le plus. « Est-ce qu'il me trompe », « vais-je tomber enceinte », « dois-je accepter cet argent » : c'est le moteur du marché payant. Les refuser n'est pas une note de bas de page sur votre site ; c'est une décision sur ce que vous allez gagner. Un tarologue qui répond à tout est un tarologue qui n'a pas réfléchi à l'idée de se tromper. Décidez lequel vous êtes avant de décider d'un tarif.
 
