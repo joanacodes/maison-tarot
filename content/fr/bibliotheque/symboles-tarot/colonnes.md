@@ -1,6 +1,6 @@
 ---
 title: "Les colonnes dans le tarot : ce que le symbole veut dire, et les cartes où il apparaît"
-description: "Les colonnes dans le tarot Rider-Waite-Smith : la Grande Prêtresse, le Hiérophante, la Justice. Ce que disent deux piliers d’un seuil ou d’un choix, et comment les lire."
+description: "Les colonnes dans le tarot Rider-Waite-Smith : la Grande Prêtresse, le Hiérophante, la Justice. Ce que disent deux piliers d’un seuil ou d’un choix, et leur lecture."
 translationKey: "sym-pillars"
 type: library
 navTitle: "Les colonnes"
