@@ -1,0 +1,66 @@
+---
+title: "Faut-il annoncer une mauvaise nouvelle pendant un tirage ? Dire les choses dures avec douceur"
+description: "Faut-il annoncer une mauvaise nouvelle pendant un tirage ? Oui, avec soin. Ce qu’on dit, ce qu’on laisse aux professionnels, et comment dire une carte dure sans blesser."
+translationKey: "post-bad-news-tarot-reading"
+type: blog
+date: 2026-10-24
+categories: ["Idées reçues"]
+tags: ["mauvaise nouvelle tirage", "annoncer une carte difficile", "cartes qui font peur", "déontologie tarologue", "tirer les cartes pour quelqu’un", "conseils tarologue"]
+image: "covers/bad-news-tarot-reading.jpg"
+imageAlt: "Les mains de deux personnes de part et d’autre d’une petite table en bois, quelques cartes de tarot retournées entre elles"
+imagePrompt: "Two people’s hands resting on either side of a small wooden table, one hand reaching gently towards the other, a few tarot cards laid face up between them, no faces in frame. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
+summary: "Oui, dites ce qui vient, la partie dure comprise : cacher une carte, ou se taire avec un air inquiet, fait plus peur que des mots. Mais la manière compte autant que le contenu. Décrivez la carte avant de l’interpréter, parlez du présent plutôt que de l’avenir, demandez au lieu d’annoncer, et rendez la décision à la personne. Certains sujets — santé, mort, grossesse, procès en cours, décisions d’argent — relèvent d’un professionnel, pas d’un jeu de cartes. Et si la personne n’est pas prête, ralentissez et adaptez vos mots."
+---
+Oui : dites ce qui vient, la partie dure comprise. Cacher une carte est une forme de mensonge, et un silence inquiet fait bien plus peur que des mots. Mais une chose dure peut se dire avec douceur et rester vraie, et certains sujets ne sont tout simplement pas les miens.
+
+## Faut-il cacher une carte difficile ? {#cacher-ou-dire}
+
+Non. Si vous avez accepté de lire pour quelqu’un, vous lui devez ce que vous voyez, pas seulement la moitié agréable. Chaque carte a un plus et un moins, et ça marche dans les deux sens : les cartes joyeuses ont leur ombre, et les cartes dures ont un passage.
+
+Ce qui fait le plus mal, en général, ce n’est pas la phrase dure. C’est le silence qui précède un « hum, je préfère ne pas vous le dire ». La personne remplit ce silence avec la pire chose qu’elle puisse imaginer, et c’est presque toujours pire que ce qui est sur la table.
+
+On dit que toute vérité n’est pas bonne à dire. Je dirais plutôt : toute vérité n’est pas bonne à dire n’importe comment. Et les choses dures d’un tirage sont souvent plus petites et plus personnelles qu’on ne le craint. Dans mon premier tirage pour une inconnue, la partie inconfortable n’avait rien d’une catastrophe : elle n’avait pas été très tendre avec l’autre personne. C’est dur à entendre. C’était aussi vrai, et c’était à elle de le savoir.
+
+## Ce sur quoi je ne lis pas du tout {#ce-que-je-ne-lis-pas}
+
+Certaines mauvaises nouvelles ne regardent pas les cartes. La santé, la mort, une grossesse, un procès en cours, une décision d’argent : je ne lis pas là-dessus, et si un tirage y dérive, je m’arrête et j’explique pourquoi. Les gens posent ces questions parce qu’ils ont peur ou parce qu’ils aiment quelqu’un, et ça mérite du respect. Mais un mot de travers à cet endroit fait de vrais dégâts, et une carte n’est pas le bon outil pour l’annoncer. Le médecin, l’avocat ou le conseiller, si ; ce qu’un tirage peut porter en attendant, c’est la façon dont la personne vit tout ça. J’explique plus longuement [pourquoi un tarologue prudent ne lit pas ces questions](/fr/blog/sante-grossesse-deces-tarot/).
+
+D’ailleurs, la Mort — l’arcane sans nom du tarot de Marseille — ne parle pas de mort. Dans mes notes, elle est liée à la moisson et au fait de recommencer : quelqu’un qui a perdu son cap et veut rendre sa vie fertile de nouveau. La Tour, c’est quelque chose qui avait l’air solide et qui tremble. Le Trois d’Épées est un cœur transpercé de trois épées sous la pluie, et mes notes ajoutent que c’est aussi, parfois, un pacte de sang. Le Dix d’Épées est l’image la plus dure du jeu, une silhouette face contre terre avec dix épées dans le dos, et pourtant le ciel s’éclaircit à l’horizon.
+
+{{< cards "ar13 ar16 sw03 sw10" >}}
+
+[Les lames qui font peur sont plus douces qu’elles n’en ont l’air](/fr/blog/cartes-tarot-qui-font-peur/), et les lire comme des verdicts est la première erreur à abandonner.
+
+## Une mauvaise nouvelle se trompe souvent sur l’essentiel {#se-trompe-sur-lessentiel}
+
+Avant d’annoncer quelque chose de dur, rappelez-vous combien les messages durs se trompent — parfois pas sur l’événement, mais sur ce qu’il veut dire.
+
+Un jour, folle de rage après la mort de quelqu’un de très proche, j’ai demandé en silence : « à qui le tour ? » J’ai entendu une voix d’homme me donner le prénom de quelqu’un d’autre parmi mes proches, et dire que cette personne allait avoir un accident. Deux semaines plus tard, sa voiture a été percutée par un camion. Cette personne va très bien aujourd’hui. L’information était juste sur un événement et fausse sur l’essentiel. Dite telle quelle de l’autre côté d’une table, elle aurait appris à quelqu’un à redouter le pire, et le pire n’est jamais venu. C’est [pour ça qu’un tirage peut se tromper](/fr/blog/tirage-faux-tarot/) : le moment, et l’interprétation.
+
+Depuis, les impressions dures vont sur une étagère dans ma tête, avec une étiquette : « sceptique, mais si ça arrive, j’étais prévenue ». Elles ne finissent pas sur les genoux de quelqu’un sous forme de prédiction.
+
+## Comment dire une chose dure avec douceur {#comment-le-dire}
+
+1. Décrivez la carte avant de l’interpréter. « Trois épées dans un cœur, de la pluie derrière » est une image. « Quelqu’un va vous briser le cœur » est un verdict.
+2. Parlez de maintenant, pas de plus tard. « Il y a une blessure ici » plutôt que « vous allez être blessé ».
+3. Demandez au lieu d’annoncer. « Est-ce que ça ressemble à quelque chose que vous vivez, ou à quelque chose de passé ? »
+4. Donnez honnêtement l’autre face de la carte. Pas du sucre : son propre plus.
+5. Rendez la décision. Je lis ; vous décidez.
+
+Voici la différence en pratique. Version dure : « Cette relation est finie. La Tour le dit. » Version douce : « Je vois quelque chose qui tremble ici, quelque chose qui avait l’air solide. Ça peut faire mal, et ça peut aussi vous montrer ce qui tenait vraiment l’ensemble. Est-ce que ça vous parle ? »
+
+**Une chose dure dite avec douceur reste vraie ; dite durement, elle n’en est pas plus honnête.**
+
+Quand j’ai lu le thème d’un ami que j’admirais, il était juste et dur. Ce que j’ai dit à voix haute, c’est : « Ta vie a été dure, mais on dirait que, d’une certaine façon, tu aimes ça. » Il m’a répondu que c’était vrai, d’une certaine façon. La partie dure était là, le respect aussi. J’ai raconté [l’histoire de cette phrase](/fr/blog/lire-pour-quelquun-que-jadmirais/) à part.
+
+## Quand la personne n’est pas prête {#pas-prete}
+
+Parfois, on sent qu’il ne faut pas dire quelque chose, ou qu’il faut le dire autrement, parce que la personne n’est pas prête, qu’elle a peur, ou qu’elle se méfie. Mes notes sont claires : adaptez votre attitude et vos mots. Ce n’est pas cacher. C’est doser.
+
+Ralentissez. Dites moins. Guettez les bras qui se croisent, un visage qui se fige, un rire qui vient trop vite. « Je continue ? » est une question légitime, et « pas aujourd’hui » une réponse légitime. Parfois, rien ne vient du tout, parce que la personne a peur de ce qu’elle pourrait entendre ; parlez avec elle alors, et rassurez-la avant d’aller plus loin.
+
+Si une phrase touche trop fort malgré tout, il y a un chemin de retour, et j’ai écrit sur [quoi dire quand un tirage touche trop fort](/fr/blog/tirage-qui-touche-trop-fort/). Si les larmes viennent, [que faire quand quelqu’un pleure](/fr/blog/pleurer-pendant-un-tirage/) tient surtout en deux mots : rester calme, rester là.
+
+## Après la partie dure {#apres}
+
+Terminez sur ce que la personne peut faire, pas sur ce que la carte a montré. Un tirage n’est pas un jugement, et [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/) : elle agit selon ce qu’elle ressent. La prochaine fois que vous lisez, essayez la règle « décrire d’abord » sur la carte la plus dure que vous tirerez. Vous entendrez la différence dans votre propre voix avant même la personne en face.

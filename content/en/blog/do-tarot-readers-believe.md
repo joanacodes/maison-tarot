@@ -35,7 +35,7 @@ And I don’t claim to know how it works. Nobody does, including the people who 
 
 I came to all this as a sceptic. I put on an astrology video to laugh at it, read my own chart, and found it too precise for comfort. So I tested it box by box, then on family, friends and strangers. Overall about 30 to 40% held, and Saturn, Lilith and Chiron held at 75 to 90%. The whole test is in [I tested my birth chart box by box](/blog/i-tested-my-birth-chart/).
 
-I did the same with tarot. I read for strangers who told me nothing and wrote down, every time, what I’d said and what they confirmed. About nine readings in ten held. About one in ten missed, and I say so.
+I did the same with tarot. I read for strangers who told me nothing and wrote down, every time, what I’d said and what they confirmed. About nine readings in ten held. About one in ten missed, and I say so. The misses are the part I trust most: a reader who can’t tell you how often they’re wrong is asking you to take everything else on faith.
 
 So what I believe in is a rate, under conditions. It’s a manual count, not a study. It’s enough for me to keep reading and teaching, and not enough to promise anyone anything.
 
