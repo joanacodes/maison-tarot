@@ -31,15 +31,15 @@ Writing a title on every trump became a French habit, and the Marseille pattern,
 
 Why it settled in, nobody wrote down. There are three explanations people usually give:
 
-1. **A reluctance to write the word.** Naming death on a card in a game felt like tempting fate. It's the most common explanation, and plausible, but I haven't found a document that proves it.
-2. **The picture already said it.** A skeleton with a scythe was one of the most familiar images in Europe. A title added nothing.
-3. **Copying.** Card makers cut their woodblocks after each other's decks. Once a widely copied model had an empty banner, the empty banner travelled.
+1. *A reluctance to write the word.* Naming death on a card in a game felt like tempting fate. It's the most common explanation, and plausible, but I haven't found a document that proves it.
+2. *The picture already said it.* A skeleton with a scythe was one of the most familiar images in Europe. A title added nothing.
+3. *Copying.* Card makers cut their woodblocks after each other's decks. Once a widely copied model had an empty banner, the empty banner travelled.
 
 We don't know which is true, or whether it's a mix. I'd rather tell you that plainly than choose the prettiest story. And the name *l'Arcane sans nom* comes from readers, not from card makers: it's what people started calling a card that had no title of its own.
 
 ## Why the Rider-Waite-Smith calls it Death {#rws-death}
 
-Arthur Edward Waite didn't share the Marseille reluctance. He printed the name at the bottom of the card, DEATH, and he asked Pamela Colman Smith for a different picture. In his own book, [*The Pictorial Key to the Tarot*](https://sacred-texts.com/tarot/pkt/pktar13.htm), he explains why: “The veil or mask of life is perpetuated in change, transformation and passage from lower to higher, and this is more fitly represented in the rectified Tarot by one of the apocalyptic visions than by the crude notion of the reaping skeleton.”
+Arthur Edward Waite didn't share the Marseille reluctance. He printed the name at the bottom of the card, DEATH, and he asked Pamela Colman Smith for a different picture. In his own book, [*The Pictorial Key to the Tarot*](https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot), he explains why: “The veil or mask of life is perpetuated in change, transformation and passage from lower to higher, and this is more fitly represented in the rectified Tarot by one of the apocalyptic visions than by the crude notion of the reaping skeleton.”
 
 In plain words: the skeleton with the scythe was too blunt for what he meant, which was change and passage. So Smith drew a skeleton in black armour on a white horse, carrying a black banner with a white rose. A king lies fallen, a bishop stands with joined hands, a young woman turns away, a child looks straight up. Behind them a river flows, and on the horizon, between two towers, the sun.
 

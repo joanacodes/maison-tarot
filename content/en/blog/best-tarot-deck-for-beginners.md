@@ -25,7 +25,7 @@ The Five of Pentacles shows two figures in the snow passing a lit church window:
 
 **A scene is something you can read the first evening; a symbol is something you have to learn first.** That's the whole reason I start people here.
 
-It isn't the only deck people read well with. Plenty of readers learned on something else and read beautifully. The Rider-Waite-Smith is simply the shortest road from opening the box to saying something true about a card.
+It isn't the only deck people read well with. Plenty of readers learned on something else and read beautifully. The Rider-Waite-Smith is the shortest road I know from opening the box to saying something true about a card.
 
 ## The lenses are built in {#lenses}
 
