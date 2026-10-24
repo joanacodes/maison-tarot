@@ -16,7 +16,7 @@ related:
 - /library/astrology
 - /library/tarot-colours
 notClaim:
-- These two words are inherited vocabulary — tarot’s and astrology’s. The House keeps
+- These two words are inherited vocabulary — tarot’s and astrology’s. Maison Tarot keeps
   them because the cards use them, not because they describe women and men.
 - Neither energy sits above the other. Each has as many good sides as bad.
 navTitle: Feminine and masculine
@@ -69,8 +69,4 @@ The spy — see without being seen | The scout — see first
 Logistics — feed, heal, hold | The assault — take, hold, advance
 {{< /versus >}}
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

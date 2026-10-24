@@ -57,8 +57,4 @@ A spread dominated by mutable says: **it's changing, and the next shape isn't he
 
 To start, to hold, to change. The other two: [cardinal](/library/astrological-modes/cardinal/) · [fixed](/library/astrological-modes/fixed/). And the [full table of signs](/library/astrology/) to see all three at once.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

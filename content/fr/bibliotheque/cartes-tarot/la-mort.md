@@ -10,20 +10,19 @@ suitLabel: Arcane majeur
 number: 13
 cardId: ar13
 element: Eau
-numerology: 13 — trois — créer, célébrer, le premier résultat
+numerology: 13 — 1 + 3 = 4 — les fondations, la stabilité
 astrology: Scorpion
 energy: Féminine
 kabbalah: Nun
 image: cards/ar13.webp
 h1: La Mort — <em>13</em>, l’Eau
 lede: 'Avant de chercher ce que « signifie » La Mort, regardez ce que vous avez déjà
-  : 13, l’élément Eau, Scorpion. Vous lisez la carte. Le nombre dit 13 — trois — créer,
-  célébrer, le premier résultat ; l’élément dit les émotions, ce qui circule. Posez
+  : 13, l’élément Eau, Scorpion. Vous lisez la carte. Le nombre dit 13 — 1 + 3 = 4 — les fondations, la stabilité ; l’élément dit les émotions, ce qui circule. Posez
   les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà —
   le reste de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/eau
+- /bibliotheque/quatre-elements/element-eau
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## Par le nombre : 13 {#nombre}
 
-**13 — trois — créer, célébrer, le premier résultat.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**13 — 1 + 3 = 4 — les fondations, la stabilité.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
 
 ## Par l’élément : Eau {#element}
 

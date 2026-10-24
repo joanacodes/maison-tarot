@@ -30,7 +30,7 @@ When a reading doesn't land, I say "that one's a miss" and I write it down. I do
 
 ## 5. Nothing to sell afterwards {#no-upsell}
 
-A reading at the House ends when it ends. No "book a deeper session", no clearing, no follow-up needed. This is easy for me because [I don't sell readings at all](/method/) — I teach — but the principle stands for anyone: if your reading has a funnel after it, the funnel is shaping the reading.
+A reading at Maison Tarot ends when it ends. No "book a deeper session", no clearing, no follow-up needed. This is easy for me because [I don't sell readings at all](/method/) — I teach — but the principle stands for anyone: if your reading has a funnel after it, the funnel is shaping the reading.
 
 ## 6. The card is not a reason {#not-authority}
 

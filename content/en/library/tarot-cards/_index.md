@@ -8,7 +8,7 @@ weight: 75
 short: "You read everything"
 bodyClass: page-ink
 h1: "The 78 cards, read through their <em>lenses</em>."
-lede: "One page per card. At the top, the lens table — house, number, element, astrology, energy — that's what lets you read the card without having learned it. Below, what's on the 1909 drawing, what the House says about it, and a real reading as an example."
+lede: "One page per card. At the top, the lens table — house, number, element, astrology, energy — that's what lets you read the card without having learned it. Below, what's on the 1909 drawing, what Maison Tarot says about it, and a real reading as an example."
 ---
 ## How the deck is built {#the-deck}
 
@@ -18,7 +18,7 @@ Every house is an [element](/library/four-elements/); every number a step in the
 
 ## There isn't only one way to read {#not-one-way}
 
-Every card has a definition, and it's only a point to focus on. In reality what a card says changes with what the reader is living through at that moment and with the person asking the question. Every symbol is there for a reason; it doesn't stop you seeing, sometimes, the exact opposite of what the card "indicates". That's why the House counts its readings instead of reciting meanings.
+Every card has a definition, and it's only a point to focus on. In reality what a card says changes with what the reader is living through at that moment and with the person asking the question. Every symbol is there for a reason; it doesn't stop you seeing, sometimes, the exact opposite of what the card "indicates". That's why Maison Tarot counts its readings instead of reciting meanings.
 
 Reversed cards? Some readers read them, others never. The pages below treat them as the same card, held back or in excess.
 

@@ -37,15 +37,15 @@ steps:
   - { title: "Blind reading", text: "At the end, everyone reads a card they don’t know, in front of the others. The moment you think “oh — I can actually do this” is what we’re here for.", image: "step-3.jpg" }
 faq:
   - q: "Do I need one workshop before another?"
-    a: "No. Each stands alone. There’s no level 1, 2, 3: the House doesn’t like hierarchies, even between workshops."
+    a: "No. Each stands alone. There’s no level 1, 2, 3: Maison Tarot doesn’t like hierarchies, even between workshops."
   - q: "Online or in person?"
-    a: "Both exist. Online, in your time zone. In person, in Paris and in the cities the House visits — dates are on the Events page."
+    a: "Both exist. Online, in your time zone. In person, in Paris and in the cities Maison Tarot visits — dates are on the Events page."
   - q: "Do I need a deck?"
     a: "Yes, a Rider-Waite-Smith. If you don’t have one, say so when booking; there are solutions."
   - q: "Are there grades or exams?"
     a: "No. There’s practice, feedback, and the moment you read an unknown card in front of the others. That’s the only exam, and everyone passes."
   - q: "I want to make it a job."
-    a: "That isn’t the House’s goal, and it isn’t what it teaches. What it teaches is reading for yourself and the people around you — humbly, knowing it doesn’t always work."
+    a: "That isn’t Maison Tarot’s goal, and it isn’t what it teaches. What it teaches is reading for yourself and the people around you — humbly, knowing it doesn’t always work."
 navTitle: "Workshops"
 ---
 ## What you won’t do here

@@ -10,20 +10,19 @@ suitLabel: Arcane majeur
 number: 16
 cardId: ar16
 element: Feu
-numerology: 16 — six — l’harmonie retrouvée, l’échange
+numerology: 16 — 1 + 6 = 7 — le doute, l’évaluation, la patience
 astrology: Mars
 energy: Masculine
 kabbalah: Pé
 image: cards/ar16.webp
 h1: La Tour — <em>16</em>, le Feu
 lede: 'Avant de chercher ce que « signifie » La Tour, regardez ce que vous avez déjà
-  : 16, l’élément Feu, Mars. Vous lisez la carte. Le nombre dit 16 — six — l’harmonie
-  retrouvée, l’échange ; l’élément dit l’élan, ce qu’on lance. Posez les deux l’une
+  : 16, l’élément Feu, Mars. Vous lisez la carte. Le nombre dit 16 — 1 + 6 = 7 — le doute, l’évaluation, la patience ; l’élément dit l’élan, ce qu’on lance. Posez les deux l’une
   sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste de la
   page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/feu
+- /bibliotheque/quatre-elements/element-feu
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## Par le nombre : 16 {#nombre}
 
-**16 — six — l’harmonie retrouvée, l’échange.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**16 — 1 + 6 = 7 — le doute, l’évaluation, la patience.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
 
 ## Par l’élément : Feu {#element}
 

@@ -61,8 +61,4 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 
 Un 7 dans un tirage dit : **prenez le temps de regarder avant de décider.** Le Sept de Pentacles contemple sa récolte, le Sept de Coupes hésite entre des illusions, le Sept d’Épées agit en douce, le Sept de Bâtons tient sa position. Le Chariot est le 7 de la volonté : il avance parce qu’il a analysé où il va.
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire.
-
-{{< six >}}
+{{% six %}}

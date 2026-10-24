@@ -51,8 +51,4 @@ Red's flip side is brutality: the impulse that won't stop, anger, the passion th
 
 Colour gives the tone; the [element](/library/four-elements/) says the field, the [number](/library/numerology/) the step. Lay all three and the card speaks. [The complete path](/learn-tarot/) puts them in order.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

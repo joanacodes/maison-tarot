@@ -10,20 +10,19 @@ suitLabel: Major arcana
 number: 16
 cardId: ar16
 element: Fire
-numerology: 16 — six — harmony regained, exchange
+numerology: 16 — 1 + 6 = 7 — doubt, assessment, patience
 astrology: Mars
 energy: Masculine
 kabbalah: Pé
 image: cards/ar16.webp
 h1: The Tower — <em>16</em>, Fire
 lede: 'Before looking up what The Tower “means”, look at what you already have: 16,
-  the element Fire, Mars. You’re reading the card. The number says 16 — six — harmony
-  regained, exchange; the element says drive, what you launch. Lay the two over each
+  the element Fire, Mars. You’re reading the card. The number says 16 — 1 + 6 = 7 — doubt, assessment, patience; the element says drive, what you launch. Lay the two over each
   other, add the colours, and the card is already talking — the rest of the page shows
   you how.'
 related:
 - /library/numerology
-- /library/four-elements/fire
+- /library/four-elements/fire-element
 - /library/tarot-colours
 - /library/astrology
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## By number: 16 {#number}
 
-**16 — six — harmony regained, exchange.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**16 — 1 + 6 = 7 — doubt, assessment, patience.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
 
 ## By element: Fire {#element}
 

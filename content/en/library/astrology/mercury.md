@@ -2,7 +2,7 @@
 title: 'Mercury in astrology and tarot: what it says in a chart, its card, and what
   the test showed'
 description: 'Mercury read as a tarot lens: its card (The Magician), the sign it rules
-  (Gemini and Virgo), what it describes in a birth chart, and its result in the host''s
+  (Gemini and Virgo), what it describes in a birth chart, and its result in my
   test — about one time in three.'
 translationKey: body-mercury
 type: library
@@ -43,12 +43,8 @@ The Magician, arcana I: the four tools on the table, the raised hand, the intell
 
 ## What the test showed {#test}
 
-A third accurate. The House uses it for one precise thing: knowing whether a person reads a card with words or with eyes. A Mercury in Air comments; a Mercury in Earth checks. Useful in a workshop, not in a reading.
+A third accurate. I use it for one precise thing: knowing whether a person reads a card with words or with eyes. A Mercury in Air comments; a Mercury in Earth checks. Useful in a workshop, not in a reading.
 
-A reminder of the frame: the host checked her chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
+A reminder of the frame: I checked my chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

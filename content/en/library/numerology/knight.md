@@ -58,8 +58,4 @@ A Knight in a spread says: **it's moving, and fast.** A departure, a decision ta
 
 [Page](/library/numerology/page/) — [Knight](/library/numerology/knight/) — [Queen](/library/numerology/queen/) — [King](/library/numerology/king/): learn, act, hold, decide. Temperaments more than steps, and [feminine and masculine energies](/library/feminine-masculine-energies/) explain why Queen and King are equals.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

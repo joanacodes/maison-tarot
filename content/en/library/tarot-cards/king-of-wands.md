@@ -23,7 +23,7 @@ lede: 'Before looking up what King of Wands “means”, look at what you alread
   of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/fire
+- /library/four-elements/fire-element
 - /library/tarot-colours
 - /library/astrology
 faq:

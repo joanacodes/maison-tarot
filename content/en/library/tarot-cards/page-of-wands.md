@@ -23,7 +23,7 @@ lede: 'Before looking up what Page of Wands “means”, look at what you alread
   — the rest of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/fire
+- /library/four-elements/fire-element
 - /library/tarot-colours
 - /library/astrology
 faq:

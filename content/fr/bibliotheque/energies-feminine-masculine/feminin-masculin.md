@@ -72,8 +72,4 @@ L’espion — voir sans être vu | L’éclaireur — voir en premier
 La logistique — nourrir, soigner, tenir | L’assaut — prendre, tenir, avancer
 {{< /versus >}}
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire. 
-
-{{< six >}}
+{{% six %}}

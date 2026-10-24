@@ -2,7 +2,7 @@
 title: 'Saturn in astrology and tarot: what it says in a chart, its card, and what
   the test showed'
 description: 'Saturn read as a tarot lens: its card (The World), the sign it rules
-  (Capricorn), what it describes in a birth chart, and its result in the host''s test
+  (Capricorn), what it describes in a birth chart, and its result in my test
   — 75 to 90%.'
 translationKey: body-saturn
 type: library
@@ -27,11 +27,11 @@ related:
 - /library/astrology/chiron
 faq:
 - q: Why does Saturn hold so well in the test?
-  a: 'The host''s hypothesis: because it describes a difficulty, and people remember
+  a: 'My hypothesis: because it describes a difficulty, and people remember
     their difficulties more precisely than their qualities. A hypothesis, not an explanation.'
 - q: Is the Saturn return real?
   a: Around 29, Saturn comes back to its birth position. A lot of people change their
-    lives around that age. Whether that's Saturn or being 29, the House doesn't know.
+    lives around that age. Whether that's Saturn or being 29, I don't know.
 gallery: []
 ---
 ## What it does in a chart {#chart}
@@ -44,12 +44,8 @@ The World, arcana XXI: the laurel wreath, the end of the cycle, what you ended u
 
 ## What the test showed {#test}
 
-**75 to 90% in the test.** That's the result that made the House keep astrology. Wherever Saturn sat, the person recognised their hardest lesson almost every time, often in the exact words. The House reads Saturn as the World and the Devil: what you ended up building, and what chained you in the meantime.
+**75 to 90% in the test.** That's the result that made me keep astrology. Wherever Saturn sat, the person recognised their hardest lesson almost every time, often in the exact words. I read Saturn as the World and the Devil: what you ended up building, and what chained you in the meantime.
 
-A reminder of the frame: the host checked her chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
+A reminder of the frame: I checked my chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

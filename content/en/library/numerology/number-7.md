@@ -61,8 +61,4 @@ You don't have to memorise them. The number says the step; the [element](/librar
 
 A 7 in a spread says: **take the time to look before deciding.** The Seven of Pentacles contemplates its harvest, the Seven of Cups hesitates between illusions, the Seven of Swords acts on the sly, the Seven of Wands holds its ground. The Chariot is the 7 of will: it moves because it has analysed where it's going.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

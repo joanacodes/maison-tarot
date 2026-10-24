@@ -2,7 +2,7 @@
 title: 'Pluto in astrology and tarot: what it says in a chart, its card, and what
   the test showed'
 description: 'Pluto read as a tarot lens: its card (Judgement), the sign it rules
-  (Scorpio), what it describes in a birth chart, and its result in the host''s test
+  (Scorpio), what it describes in a birth chart, and its result in my test
   — hard to test.'
 translationKey: body-pluto
 type: library
@@ -42,12 +42,8 @@ Judgement, arcana XX: the graves opening, the call, what rises. Through Scorpio,
 
 ## What the test showed {#test}
 
-Hard to test as such. But the House notes that Lilith and Chiron — two points tied to what Pluto describes, the wound and the shadow — held 75 to 90% in the test. Pluto may be too big for one life; its small cousins speak better.
+Hard to test as such. But I note that Lilith and Chiron — two points tied to what Pluto describes, the wound and the shadow — held 75 to 90% in the test. Pluto may be too big for one life; its small cousins speak better.
 
-A reminder of the frame: the host checked her chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
+A reminder of the frame: I checked my chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

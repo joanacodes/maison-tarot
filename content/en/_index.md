@@ -3,11 +3,11 @@ title: "Learn to read tarot — sessions, workshops, events"
 description: "Maison Tarot: a house where you learn to read the cards, in English, from Paris. Sessions, workshops, free events. A documented method: 300 blind readings, numbers published."
 translationKey: home
 h1: "Cards aren’t magic. <em>You</em> are."
-lede: "A house where you learn to read tarot — and then find out you never needed the cards. Sessions, workshops, free events, from Paris. And a host who counts her misses."
+lede: "A house where you learn to read tarot — and then find out you never needed the cards. Sessions, workshops, free events, from Paris. And I count my misses."
 ctaPrimary: { label: "See the workshops", ref: "/workshops" }
 ctaSecondary: { label: "Read the method", ref: "/method" }
 heroImage: "hero.jpg"
-heroAlt: "The host of the House, cards in hand, in a wood-panelled room"
+heroAlt: "A tarot reader, cards in hand, in a wood-panelled room"
 ticker: ["Cards aren’t magic. You are.", "Don’t force yourself.", "Don’t take my words as truth: test it.", "Take a break from your cards.", "Demystify mysticism."]
 statement: "A school, a library, a tea room. <em>No guru.</em>"
 stepsTitle: "We try first. We explain <em>after</em>."
@@ -53,10 +53,10 @@ methodImage: "method.jpg"
 methodAlt: "The tally notebook of the 300 readings, open on a table"
 methodTitle: "Before every reading, I tell myself I’m about to talk <em>nonsense</em>."
 methodText: "The lower I set the expectation, the more accurate it gets. I did 300 free readings for strangers who told me nothing, kept count, and I publish the result — misses included."
-whereTitle: "Where the House receives, in English"
+whereTitle: "Where Maison Tarot welcomes you, in English"
 ---
 Welcome to Maison Tarot. This is a house where you learn to read the cards, check whether it works, and keep what holds up.
 
-There’s a host. She’s done 300 readings for strangers who told her nothing, kept count, and publishes the numbers — misses included. She doesn’t sell a gift, because she hasn’t got one you don’t have. She teaches a method: lenses for reading a card you’ve never seen, without memorising all 78.
+I’ve done 300 readings for strangers who told me nothing, kept count, and I publish the numbers — misses included. I don’t sell a gift, because I haven’t got one you don’t have. I teach a method: lenses for reading a card you’ve never seen, without memorising all 78.
 
-The House has rules. No ranks among readers, no dependency, no guru. You’re the one who decides; the cards are only a screen. The goal, in plain words: that you stop needing us.
+Maison Tarot has rules. No ranks among readers, no dependency, no guru. You’re the one who decides; the cards are only a screen. The goal, in plain words: that you stop needing us.

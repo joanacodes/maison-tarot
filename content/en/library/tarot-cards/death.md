@@ -10,20 +10,19 @@ suitLabel: Major arcana
 number: 13
 cardId: ar13
 element: Water
-numerology: 13 — three — to create, to celebrate, the first result
+numerology: 13 — 1 + 3 = 4 — foundations, stability
 astrology: Scorpio
 energy: Feminine
 kabbalah: Nun
 image: cards/ar13.webp
 h1: Death — <em>13</em>, Water
 lede: 'Before looking up what Death “means”, look at what you already have: 13, the
-  element Water, Scorpio. You’re reading the card. The number says 13 — three — to
-  create, to celebrate, the first result; the element says emotions, what flows. Lay
+  element Water, Scorpio. You’re reading the card. The number says 13 — 1 + 3 = 4 — foundations, stability; the element says emotions, what flows. Lay
   the two over each other, add the colours, and the card is already talking — the
   rest of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/water
+- /library/four-elements/water-element
 - /library/tarot-colours
 - /library/astrology
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## By number: 13 {#number}
 
-**13 — three — to create, to celebrate, the first result.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**13 — 1 + 3 = 4 — foundations, stability.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
 
 ## By element: Water {#element}
 

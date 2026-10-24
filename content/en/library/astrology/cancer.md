@@ -56,12 +56,8 @@ The mother or the father at home. Hodor, in Game of Thrones: the one who holds t
 
 When the High Priestess comes out, Cancer is there: something is felt and not said, someone is containing. Well placed, it's the intuition that protects. Badly placed, it's the feeling going up and down for no known reason. Cancer doesn't take; it gives. The card has [its own page](/library/tarot-cards/the-high-priestess/), with all its lenses.
 
-## What the House doesn't say {#limits}
+## What Maison Tarot doesn't say {#limits}
 
-This sign explains no one. The host tested her chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)
+This sign explains no one. I tested my chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

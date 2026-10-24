@@ -46,8 +46,4 @@ Difficile à tester en tant que tel. Mais la Maison note que Lilith et Chiron �
 
 Rappel du cadre : l’hôte a vérifié son thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire.
-
-{{< six >}}
+{{% six %}}

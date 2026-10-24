@@ -23,7 +23,7 @@ lede: 'Before looking up what Nine of Pentacles “means”, look at what you al
   the rest of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/earth
+- /library/four-elements/earth-element
 - /library/tarot-colours
 - /library/astrology
 faq:

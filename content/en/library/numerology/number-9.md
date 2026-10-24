@@ -61,8 +61,4 @@ You don't have to memorise them. The number says the step; the [element](/librar
 
 A 9 in a spread says: **you're almost there, and it shows.** The Nine of Pentacles enjoys alone what it built, the Nine of Cups has what it wanted, the Nine of Wands stands, wounded, the Nine of Swords can't sleep from thinking about it. The Hermit is the 9 that looks inward: the lantern before the last step.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

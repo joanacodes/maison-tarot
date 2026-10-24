@@ -46,8 +46,4 @@ La personne chaleureuse avec qui l’on se sent bien, chez qui l’on se sent ch
 
 Le Cinq de Coupes, pour quelqu’un qui ne vous a rien dit. *Cinq* : le conflit, l’épreuve, faire avec ce qu’il reste. *Eau* : les émotions, une relation. Vous pouvez déjà dire qu’il y a un deuil de quelque chose, et que l’attention est sur ce qui a été renversé plutôt que sur ce qui reste debout. Sans avoir appris la carte.
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire. 
-
-{{< six >}}
+{{% six %}}

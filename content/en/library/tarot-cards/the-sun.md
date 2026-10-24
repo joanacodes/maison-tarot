@@ -10,20 +10,19 @@ suitLabel: Major arcana
 number: 19
 cardId: ar19
 element: Fire
-numerology: 19 — nine — near completion, almost there
+numerology: 19 — 1 + 9 = 10 — the end of the cycle, transition
 astrology: Sun
 energy: Masculine
 kabbalah: Resh
 image: cards/ar19.webp
 h1: The Sun — <em>19</em>, Fire
 lede: 'Before looking up what The Sun “means”, look at what you already have: 19,
-  the element Fire, Sun. You’re reading the card. The number says 19 — nine — near
-  completion, almost there; the element says drive, what you launch. Lay the two over
+  the element Fire, Sun. You’re reading the card. The number says 19 — 1 + 9 = 10 — the end of the cycle, transition; the element says drive, what you launch. Lay the two over
   each other, add the colours, and the card is already talking — the rest of the page
   shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/fire
+- /library/four-elements/fire-element
 - /library/tarot-colours
 - /library/astrology
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## By number: 19 {#number}
 
-**19 — nine — near completion, almost there.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**19 — 1 + 9 = 10 — the end of the cycle, transition.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
 
 ## By element: Fire {#element}
 

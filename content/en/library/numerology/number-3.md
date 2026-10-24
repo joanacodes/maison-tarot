@@ -61,8 +61,4 @@ You don't have to memorise them. The number says the step; the [element](/librar
 
 A 3 in a spread says: **it works, and it shows.** The Three of Cups celebrates, the Three of Pentacles builds together, the Three of Wands watches its ships leave, the Three of Swords — the only painful 3 — shows that when three hearts are involved, the cadence can also break. The Empress is the 3 that produces: fertility in the widest sense.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

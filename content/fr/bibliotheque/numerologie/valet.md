@@ -60,8 +60,4 @@ Un Valet dans un tirage dit : **quelqu’un apprend, ou une nouvelle arrive.** L
 
 [Valet](/fr/bibliotheque/numerologie/valet/) — [Cavalier](/fr/bibliotheque/numerologie/cavalier/) — [Reine](/fr/bibliotheque/numerologie/reine/) — [Roi](/fr/bibliotheque/numerologie/roi/) : apprendre, agir, tenir, décider. Ce sont des tempéraments plus que des étapes, et les [énergies féminine et masculine](/fr/bibliotheque/energies-feminine-masculine/) expliquent pourquoi Reine et Roi se valent.
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire.
-
-{{< six >}}
+{{% six %}}

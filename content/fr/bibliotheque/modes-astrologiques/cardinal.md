@@ -58,8 +58,4 @@ Un tirage dominé par le cardinal dit : **ça commence, ou il est temps de comme
 
 Commencer, tenir, changer. Les deux autres : [fixe](/fr/bibliotheque/modes-astrologiques/fixe/) · [mutable](/fr/bibliotheque/modes-astrologiques/mutable/). Et la [table complète des signes](/fr/bibliotheque/astrologie/) pour voir les trois à la fois.
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire.
-
-{{< six >}}
+{{% six %}}

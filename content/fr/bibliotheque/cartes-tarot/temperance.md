@@ -11,20 +11,19 @@ suitLabel: Arcane majeur
 number: 14
 cardId: ar14
 element: Feu
-numerology: 14 — quatre — les fondations, la stabilité
+numerology: 14 — 1 + 4 = 5 — le conflit, l’épreuve, faire avec ce qui reste
 astrology: Sagittaire
 energy: Féminine
 kabbalah: Samekh
 image: cards/ar14.webp
 h1: Tempérance — <em>14</em>, le Feu
 lede: 'Avant de chercher ce que « signifie » Tempérance, regardez ce que vous avez
-  déjà : 14, l’élément Feu, Sagittaire. Vous lisez la carte. Le nombre dit 14 — quatre
-  — les fondations, la stabilité ; l’élément dit l’élan, ce qu’on lance. Posez les
+  déjà : 14, l’élément Feu, Sagittaire. Vous lisez la carte. Le nombre dit 14 — 1 + 4 = 5 — le conflit, l’épreuve, faire avec ce qui reste ; l’élément dit l’élan, ce qu’on lance. Posez les
   deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
   de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/feu
+- /bibliotheque/quatre-elements/element-feu
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
@@ -48,7 +47,7 @@ tags:
 
 ## Par le nombre : 14 {#nombre}
 
-**14 — quatre — les fondations, la stabilité.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**14 — 1 + 4 = 5 — le conflit, l’épreuve, faire avec ce qui reste.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
 
 ## Par l’élément : Feu {#element}
 

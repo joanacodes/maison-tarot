@@ -1,12 +1,12 @@
 ---
 # EXAMPLE EPISODE — to visualise the layout. Delete when the first real episode is published.
 title: "Example episode — What 300 blind readings taught me about being wrong"
-description: "An example episode so you can see the page. The host on the silence rule, the tally notebook, and the one time in ten it goes wrong."
+description: "An example episode so you can see the page. I talk about the silence rule, the tally notebook, and the one time in ten it goes wrong."
 translationKey: ep-demo
 type: podcast
 date: 2026-09-01
 episode: 0
-guest: "the host"
+guest: "Maison Tarot"
 duration: "38 min"
 image: "cover.jpg"
 audio: ""

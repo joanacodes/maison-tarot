@@ -48,4 +48,4 @@ And the audience is the people the books never reached. When a reader with twent
 
 ## What I'd want TarotTok to be {#what-id-want}
 
-The same thing I want from any reader: told nothing, specific over flattering, misses said out loud, nothing to sell at the end. It's a high bar for a fifteen-second video, and a few people clear it. [The free event format at the House](/events/) is my attempt at the honest version — public, drawn at random, notebook open. It's TarotTok with the funnel removed, which turns out to be most of what needed removing.
+The same thing I want from any reader: told nothing, specific over flattering, misses said out loud, nothing to sell at the end. It's a high bar for a fifteen-second video, and a few people clear it. [The free event format at Maison Tarot](/events/) is my attempt at the honest version — public, drawn at random, notebook open. It's TarotTok with the funnel removed, which turns out to be most of what needed removing.

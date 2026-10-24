@@ -10,20 +10,19 @@ suitLabel: Major arcana
 number: 15
 cardId: ar15
 element: Earth
-numerology: 15 — five — conflict, trial, making do with what’s left
+numerology: 15 — 1 + 5 = 6 — harmony regained, exchange
 astrology: Capricorn
 energy: Masculine
 kabbalah: Ayin
 image: cards/ar15.webp
 h1: The Devil — <em>15</em>, Earth
 lede: 'Before looking up what The Devil “means”, look at what you already have: 15,
-  the element Earth, Capricorn. You’re reading the card. The number says 15 — five
-  — conflict, trial, making do with what’s left; the element says matter, what holds.
+  the element Earth, Capricorn. You’re reading the card. The number says 15 — 1 + 5 = 6 — harmony regained, exchange; the element says matter, what holds.
   Lay the two over each other, add the colours, and the card is already talking —
   the rest of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/earth
+- /library/four-elements/earth-element
 - /library/tarot-colours
 - /library/astrology
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## By number: 15 {#number}
 
-**15 — five — conflict, trial, making do with what’s left.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**15 — 1 + 5 = 6 — harmony regained, exchange.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
 
 ## By element: Earth {#element}
 

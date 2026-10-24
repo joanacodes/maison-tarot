@@ -34,4 +34,4 @@ Text. **One thing to remember per section, in bold.** At least one number or con
 
 At least two internal links — [the method](/method/), [the workshops](/workshops/) — and one external link to a serious source.
 
-{{< quote by="The host" >}}Cards aren’t magic. You are.{{< /quote >}}
+{{< quote by="Maison Tarot" >}}Cards aren’t magic. You are.{{< /quote >}}

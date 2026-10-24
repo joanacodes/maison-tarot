@@ -10,7 +10,7 @@ h1: "Four elements, four houses, and you already know <em>what the card is about
 lede: "Every minor card belongs to a house, and every house is an element. Earth speaks of what has value, Water of what you feel, Fire of what you launch, Air of what you decide. Four pages, one per element, and half the deck reads without having been learned."
 faq:
   - q: "Which element goes with which suit?"
-    a: "In the Rider-Waite-Smith: Pentacles → Earth, Cups → Water, Wands → Fire, Swords → Air. Some schools swap Fire and Air; the House follows the Rider-Waite-Smith."
+    a: "In the Rider-Waite-Smith: Pentacles → Earth, Cups → Water, Wands → Fire, Swords → Air. Some schools swap Fire and Air; Maison Tarot follows the Rider-Waite-Smith."
   - q: "Do the major arcana have an element?"
     a: "Yes, through their astrological attribution: the Emperor (Aries) is Fire, the High Priestess (Moon) is Water. Each card page says which."
   - q: "What does a spread dominated by one element mean?"

@@ -55,12 +55,8 @@ Jinx in Arcane; the engineer, the adviser to the throne, the manager.
 
 When the Hermit comes out, Virgo is there: someone has withdrawn to understand, analyses before acting, lights one step at a time. Well placed, it's the solution nobody saw. Badly placed, it's service rendered to the wrong cause. The card has [its own page](/library/tarot-cards/the-hermit/), with all its lenses.
 
-## What the House doesn't say {#limits}
+## What Maison Tarot doesn't say {#limits}
 
-This sign explains no one. The host tested her chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)
+This sign explains no one. I tested my chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

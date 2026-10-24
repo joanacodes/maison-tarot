@@ -1,7 +1,7 @@
 ---
 # EPISODE TEMPLATE — copy to <slug>.md, fill in, set draft to false. Add `start:` (date) to announce a future episode with a countdown.
 title: "Reading for strangers: what 300 blind readings taught me"
-description: "The host on the silence rule, the tally notebook, and the one in ten that goes wrong."
+description: "I talk about the silence rule, the tally notebook, and the one in ten that goes wrong."
 translationKey: ep-example
 type: podcast
 draft: true

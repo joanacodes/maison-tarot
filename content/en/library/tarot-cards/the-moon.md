@@ -10,20 +10,19 @@ suitLabel: Major arcana
 number: 18
 cardId: ar18
 element: Water
-numerology: 18 — eight — movement, mastery, the fruit of work
+numerology: 18 — 1 + 8 = 9 — near completion, almost there
 astrology: Pisces
 energy: Feminine
 kabbalah: Qoph
 image: cards/ar18.webp
 h1: The Moon — <em>18</em>, Water
 lede: 'Before looking up what The Moon “means”, look at what you already have: 18,
-  the element Water, Pisces. You’re reading the card. The number says 18 — eight —
-  movement, mastery, the fruit of work; the element says emotions, what flows. Lay
+  the element Water, Pisces. You’re reading the card. The number says 18 — 1 + 8 = 9 — near completion, almost there; the element says emotions, what flows. Lay
   the two over each other, add the colours, and the card is already talking — the
   rest of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/water
+- /library/four-elements/water-element
 - /library/tarot-colours
 - /library/astrology
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## By number: 18 {#number}
 
-**18 — eight — movement, mastery, the fruit of work.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**18 — 1 + 8 = 9 — near completion, almost there.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
 
 ## By element: Water {#element}
 

@@ -44,4 +44,4 @@ If you make this content, or you're deciding whose to watch:
 
 The medium is a mirror on a stick, held up to a crowd. A good reader angles it carefully and tells you when the reflection's off. A bad one paints a smile on the glass. Neither is TikTok's fault.
 
-If you want to see the honest version of a public reading, that's the [free event](/events/) format at the House — drawn at random, told nothing, misses said out loud, in front of everyone. It's pick-a-card with the funnel removed. It turns out that's most of what needed removing.
+If you want to see the honest version of a public reading, that's the [free event](/events/) format at Maison Tarot — drawn at random, told nothing, misses said out loud, in front of everyone. It's pick-a-card with the funnel removed. It turns out that's most of what needed removing.

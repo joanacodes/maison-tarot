@@ -10,20 +10,19 @@ suitLabel: Arcane majeur
 number: 11
 cardId: ar11
 element: Air
-numerology: 11 — un — le début, le diamant brut
+numerology: 11 — 1 + 1 = 2 — se lier, peser, coopérer
 astrology: Balance
 energy: Féminine
 kabbalah: Lamed
 image: cards/ar11.webp
 h1: La Justice — <em>11</em>, l’Air
 lede: 'Avant de chercher ce que « signifie » La Justice, regardez ce que vous avez
-  déjà : 11, l’élément Air, Balance. Vous lisez la carte. Le nombre dit 11 — un —
-  le début, le diamant brut ; l’élément dit le mental, ce qu’on décide. Posez les
+  déjà : 11, l’élément Air, Balance. Vous lisez la carte. Le nombre dit 11 — 1 + 1 = 2 — se lier, peser, coopérer ; l’élément dit le mental, ce qu’on décide. Posez les
   deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
   de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/air
+- /bibliotheque/quatre-elements/element-air
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## Par le nombre : 11 {#nombre}
 
-**11 — un — le début, le diamant brut.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**11 — 1 + 1 = 2 — se lier, peser, coopérer.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
 
 ## Par l’élément : Air {#element}
 

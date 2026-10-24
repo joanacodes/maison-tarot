@@ -24,7 +24,7 @@ lede: 'Avant de chercher ce que « signifie » Dix de Pentacles, regardez ce que
   — le reste de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/terre
+- /bibliotheque/quatre-elements/element-terre
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:

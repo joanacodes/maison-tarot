@@ -2,7 +2,7 @@
 title: 'The Sun in astrology and tarot: what it says in a chart, its card, and what
   the test showed'
 description: 'The Sun read as a tarot lens: its card (The Sun), the sign it rules
-  (Leo), what it describes in a birth chart, and its result in the host''s test —
+  (Leo), what it describes in a birth chart, and its result in my test —
   about one time in three.'
 translationKey: body-sun
 type: library
@@ -34,7 +34,7 @@ gallery: []
 ---
 ## What it does in a chart {#chart}
 
-The Sun is the sign everyone knows — the one you give when someone asks 'what are you?'. It says the centre: what the person organises their life around, the light they want to project. It's also the easiest placement to flatter, and the one the host found least reliable in her test. Sign ruled: Leo.
+The Sun is the sign everyone knows — the one you give when someone asks 'what are you?'. It says the centre: what the person organises their life around, the light they want to project. It's also the easiest placement to flatter, and the one I found least reliable in my test. Sign ruled: Leo.
 
 ## The cards that carry it {#cards}
 
@@ -42,12 +42,8 @@ The Sun, arcana XIX: the child on the white horse, the sunflowers, unreserved jo
 
 ## What the test showed {#test}
 
-A third accurate in the test — the shop window, not the shop. The House reads it like the Sun card: what shows itself willingly. Useful for knowing where the person wants to be seen; useless for knowing what they hide.
+A third accurate in the test — the shop window, not the shop. I read it like the Sun card: what shows itself willingly. Useful for knowing where the person wants to be seen; useless for knowing what they hide.
 
-A reminder of the frame: the host checked her chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
+A reminder of the frame: I checked my chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

@@ -65,7 +65,7 @@ Four things, none of them magic.
 5. Say it out loud, in plain words, to the person. Not "the Three of Cups means celebration" — "three people, cups raised, a lot of yellow: something got finished and it's being celebrated. Does that land?"
 6. Let them answer. If it doesn't land, say so, and don't rescue the reading. Write it down as a miss.
 
-That's it. The first time is strange, and the strangeness is the point. What you feel while you're doing it can't be described; it has to be experienced. It's why every [workshop](/workshops/) at the House starts with a card in the first ten minutes and the explanation after.
+That's it. The first time is strange, and the strangeness is the point. What you feel while you're doing it can't be described; it has to be experienced. It's why every [workshop](/workshops/) at Maison Tarot starts with a card in the first ten minutes and the explanation after.
 
 ## What not to do {#what-not-to-do}
 

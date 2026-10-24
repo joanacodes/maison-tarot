@@ -57,8 +57,4 @@ A spread dominated by cardinal says: **it's starting, or it's time to.** A decis
 
 To start, to hold, to change. The other two: [fixed](/library/astrological-modes/fixed/) · [mutable](/library/astrological-modes/mutable/). And the [full table of signs](/library/astrology/) to see all three at once.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

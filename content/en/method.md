@@ -4,7 +4,7 @@ description: "Before every reading I tell myself I’ll talk nonsense, and the p
 translationKey: method
 eyebrow: "the method"
 h1: "I expect to talk nonsense, and the person tells me <em>nothing</em>."
-lede: "This is the most important page in the House, and the host writes it herself. Meanwhile: the structure, the numbers, and what she doesn’t claim."
+lede: "This is the most important page on this site, and I’m writing it myself. Meanwhile: the structure, the numbers, and what I don’t claim."
 navTitle: "Method"
 ---
 {{< short-answer >}}
@@ -43,7 +43,7 @@ Act on what you feel, not on what was said during a reading. The cards aren’t 
 
 ## What I don’t claim
 
-It’s on the disclaimers page, with everything else, because we decided to stop repeating it everywhere: [what the host doesn’t claim](/disclaimers/#claims).
+It’s on the disclaimers page, with everything else, because we decided to stop repeating it everywhere: [what I don’t claim](/disclaimers/#claims).
 
 ## What now?
 

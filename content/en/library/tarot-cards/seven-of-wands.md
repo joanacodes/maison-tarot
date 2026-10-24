@@ -23,7 +23,7 @@ lede: 'Before looking up what Seven of Wands “means”, look at what you alrea
   of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/fire
+- /library/four-elements/fire-element
 - /library/tarot-colours
 - /library/astrology
 faq:

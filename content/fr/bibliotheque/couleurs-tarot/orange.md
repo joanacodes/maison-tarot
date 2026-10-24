@@ -51,8 +51,4 @@ Le revers de l’orange est l’aridité : le sol craquelé, la chaleur sans eau
 
 La couleur donne le ton ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le domaine, le [nombre](/fr/bibliotheque/numerologie/) l’étape. Posez les trois, et la carte parle. [Le parcours complet](/fr/apprendre-le-tarot/) les met dans l’ordre.
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire.
-
-{{< six >}}
+{{% six %}}

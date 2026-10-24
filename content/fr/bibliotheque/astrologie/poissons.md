@@ -62,8 +62,4 @@ Quand la Lune sort, le Poissons est là : ce qui se passe sous la surface, l’i
 
 Ce signe n’explique personne. L’hôte a testé son thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire.
-
-{{< six >}}
+{{% six %}}

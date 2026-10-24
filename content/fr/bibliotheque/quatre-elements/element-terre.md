@@ -46,8 +46,4 @@ Le manager d’un artiste. Il travaille dans l’ombre, de façon constante et s
 
 Vous tirez le Dix de Pentacles pour quelqu’un qui ne vous a rien dit. Avant de chercher ce que « veut dire » cette carte, vous avez déjà deux choses : *dix* — la fin d’un cycle, la transition ([les nombres](/fr/bibliotheque/numerologie/)) — et *Terre* — ce qui a de la valeur, ce qui a été construit. Vous pouvez déjà parler d’un héritage, d’une maison, d’un patrimoine qui change de mains. Vous n’avez rien mémorisé.
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire. 
-
-{{< six >}}
+{{% six %}}

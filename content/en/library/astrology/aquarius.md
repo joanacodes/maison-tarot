@@ -54,12 +54,8 @@ The mad scientist, the clown, the start-up founder, the tech YouTuber.
 
 When the Star comes out, Aquarius is there: the ideal, the hope that won't let go, the new idea poured out for everyone. Well placed, it's the drive that repairs. Badly placed, it's the idea you think you know and never checked. The card has [its own page](/library/tarot-cards/the-star/), with all its lenses.
 
-## What the House doesn't say {#limits}
+## What Maison Tarot doesn't say {#limits}
 
-This sign explains no one. The host tested her chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)
+This sign explains no one. I tested my chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

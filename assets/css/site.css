@@ -640,6 +640,9 @@ body.menu-open { overflow: hidden; }
 .six .img-reveal { aspect-ratio: 4 / 5; }
 .six figcaption { font-size: var(--t-s); color: var(--fg-2); margin-top: 0.5rem; }
 .six figcaption b { display: block; font-family: var(--font-display); font-weight: 500; color: var(--fg); }
+/* Rangée de cartes ({{< cards >}}) : les scans restent en couleur et entiers, jamais rognés */
+.card-row { display: grid; gap: 0.8rem; grid-template-columns: repeat(auto-fill, minmax(5.5rem, 1fr)); margin: 1.5rem 0 2rem; max-width: 40rem; }
+.card-row .card-thumb .t { font-size: var(--t-xs); }
 .versus { display: grid; gap: 1rem; grid-template-columns: 1fr 1fr; margin: 2rem 0; }
 .versus > div { border: 1px solid var(--line-2); border-radius: var(--r); padding: 1.2rem; }
 .versus h4 { margin-top: 0; }

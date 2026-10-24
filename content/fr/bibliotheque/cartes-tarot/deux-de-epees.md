@@ -24,7 +24,7 @@ lede: 'Avant de chercher ce que « signifie » Deux de Épées, regardez ce que 
   le reste de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/air
+- /bibliotheque/quatre-elements/element-air
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:

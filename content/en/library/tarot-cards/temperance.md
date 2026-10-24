@@ -10,20 +10,19 @@ suitLabel: Major arcana
 number: 14
 cardId: ar14
 element: Fire
-numerology: 14 — four — foundations, stability
+numerology: 14 — 1 + 4 = 5 — conflict, trial, making do with what’s left
 astrology: Sagittarius
 energy: Feminine
 kabbalah: Samekh
 image: cards/ar14.webp
 h1: Temperance — <em>14</em>, Fire
 lede: 'Before looking up what Temperance “means”, look at what you already have: 14,
-  the element Fire, Sagittarius. You’re reading the card. The number says 14 — four
-  — foundations, stability; the element says drive, what you launch. Lay the two over
+  the element Fire, Sagittarius. You’re reading the card. The number says 14 — 1 + 4 = 5 — conflict, trial, making do with what’s left; the element says drive, what you launch. Lay the two over
   each other, add the colours, and the card is already talking — the rest of the page
   shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/fire
+- /library/four-elements/fire-element
 - /library/tarot-colours
 - /library/astrology
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## By number: 14 {#number}
 
-**14 — four — foundations, stability.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**14 — 1 + 4 = 5 — conflict, trial, making do with what’s left.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
 
 ## By element: Fire {#element}
 

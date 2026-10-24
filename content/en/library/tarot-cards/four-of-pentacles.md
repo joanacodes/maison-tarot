@@ -24,7 +24,7 @@ lede: 'Before looking up what Four of Pentacles “means”, look at what you al
   of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/earth
+- /library/four-elements/earth-element
 - /library/tarot-colours
 - /library/astrology
 faq:

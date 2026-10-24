@@ -28,7 +28,7 @@ related:
 faq:
 - q: Is 10 the Fool (0)?
   a: 'They touch. Ten closes, 0 opens, and the instant between the two is the same:
-    nothing of before, nothing of after yet. The House reads 0 with the Fool and 10
+    nothing of before, nothing of after yet. Maison Tarot reads 0 with the Fool and 10
     with the Wheel.'
 - q: Does the Ten of Swords announce a catastrophe?
   a: It shows an ending you can no longer deny — ten blades, on the ground. And behind,
@@ -61,8 +61,4 @@ You don't have to memorise them. The number says the step; the [element](/librar
 
 A 10 in a spread says: **a page is turning.** The Ten of Cups closes the cycle in joy, the Ten of Pentacles hands it on, the Ten of Wands carries it to the end, bent double, the Ten of Swords finishes it on the ground — the worst image in the deck, and yet there's dawn at the back. The Wheel of Fortune is the 10 that turns: nothing stays up, nothing stays down.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

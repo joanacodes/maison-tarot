@@ -2,7 +2,7 @@
 title: 'Neptune in astrology and tarot: what it says in a chart, its card, and what
   the test showed'
 description: 'Neptune read as a tarot lens: its card (The Hanged Man), the sign it
-  rules (Pisces), what it describes in a birth chart, and its result in the host''s
+  rules (Pisces), what it describes in a birth chart, and its result in my
   test — hard to test.'
 translationKey: body-neptune
 type: library
@@ -42,12 +42,8 @@ The Hanged Man, arcana XII: suspended, head down, seeing the world the other way
 
 ## What the test showed {#test}
 
-Hard to test, and the House is careful with it for a precise reason: it's the placement most used to excuse what people don't want to look at. 'It's my Neptune.' No. The House reads it as the Hanged Man: a viewpoint to turn over, not a fog to live in.
+Hard to test, and I'm careful with it for a precise reason: it's the placement most used to excuse what people don't want to look at. 'It's my Neptune.' No. I read it as the Hanged Man: a viewpoint to turn over, not a fog to live in.
 
-A reminder of the frame: the host checked her chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
+A reminder of the frame: I checked my chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

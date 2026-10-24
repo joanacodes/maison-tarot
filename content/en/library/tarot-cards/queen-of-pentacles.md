@@ -23,7 +23,7 @@ lede: 'Before looking up what Queen of Pentacles “means”, look at what you a
   rest of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/earth
+- /library/four-elements/earth-element
 - /library/tarot-colours
 - /library/astrology
 faq:

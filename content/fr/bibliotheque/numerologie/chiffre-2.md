@@ -62,8 +62,4 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 
 Un 2 dans un tirage dit : **il y a deux parties, et le lien entre elles est la question.** Un couple, un associé, un choix entre deux options tenues à égale distance. Le Deux de Coupes noue, le Deux d’Épées retient, le Deux de Bâtons regarde au loin avant de partir, le Deux de Pentacles jongle. La Grande Prêtresse, elle, garde le lien secret : c’est un 2 qui ne dit pas encore.
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire.
-
-{{< six >}}
+{{% six %}}

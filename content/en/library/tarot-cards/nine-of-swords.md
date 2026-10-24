@@ -23,7 +23,7 @@ lede: 'Before looking up what Nine of Swords “means”, look at what you alrea
   the rest of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/air
+- /library/four-elements/air-element
 - /library/tarot-colours
 - /library/astrology
 faq:

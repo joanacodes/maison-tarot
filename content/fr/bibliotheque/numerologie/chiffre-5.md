@@ -62,8 +62,4 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 
 Un 5 dans un tirage dit : **il y a un conflit, et la question est ce qu’on en fait.** Le Cinq de Bâtons se bagarre, le Cinq d’Épées gagne en perdant des alliés, le Cinq de Coupes pleure ce qui est renversé au lieu de voir ce qui reste debout, le Cinq de Pentacles marche dans la neige devant une fenêtre allumée. Le Hiérophante est le 5 des institutions : l’épreuve de la règle.
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire.
-
-{{< six >}}
+{{% six %}}

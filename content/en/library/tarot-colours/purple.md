@@ -24,7 +24,7 @@ related:
 - /library/feminine-masculine-energies
 faq:
 - q: Isn't purple the colour of spirituality?
-  a: 'That''s what everyone says, and what the House doesn''t. In the Rider-Waite-Smith,
+  a: 'That''s what everyone says, and what Maison Tarot doesn''t. In the Rider-Waite-Smith,
     purple is a garment of office: whoever wears it was chosen by others.'
 - q: Why so little purple?
   a: Because you aren't chosen every day. When the colour appears, look at who gave
@@ -45,14 +45,10 @@ Purple says **appointed, mandated, chosen by others**. A purple card is about a 
 
 ## The flip side {#flip-side}
 
-Purple's flip side is the title without the merit — the chosen one who thinks himself special because he was chosen — and the loneliness of office. The House reminds you there are no Chosen Ones; only people chosen for a time.
+Purple's flip side is the title without the merit — the chosen one who thinks himself special because he was chosen — and the loneliness of office. Maison Tarot reminds you there are no Chosen Ones; only people chosen for a time.
 
 ## With the other lenses {#lenses}
 
 Colour gives the tone; the [element](/library/four-elements/) says the field, the [number](/library/numerology/) the step. Lay all three and the card speaks. [The complete path](/learn-tarot/) puts them in order.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

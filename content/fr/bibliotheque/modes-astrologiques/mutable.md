@@ -56,8 +56,4 @@ Un tirage dominé par le mutable dit : **c’est en train de changer, et la form
 
 Commencer, tenir, changer. Les deux autres : [cardinal](/fr/bibliotheque/modes-astrologiques/cardinal/) · [fixe](/fr/bibliotheque/modes-astrologiques/fixe/). Et la [table complète des signes](/fr/bibliotheque/astrologie/) pour voir les trois à la fois.
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire.
-
-{{< six >}}
+{{% six %}}

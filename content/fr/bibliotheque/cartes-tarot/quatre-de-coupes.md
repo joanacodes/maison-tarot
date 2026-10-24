@@ -24,7 +24,7 @@ lede: 'Avant de chercher ce que « signifie » Quatre de Coupes, regardez ce que
   — le reste de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/eau
+- /bibliotheque/quatre-elements/element-eau
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:

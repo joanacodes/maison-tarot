@@ -7,7 +7,7 @@ type: library
 weight: 40
 short: "What a colour says before the card"
 h1: "Colours: the <em>fastest</em> lens."
-lede: "Before you know which card you're holding, you already see its colour. And colour speaks: yellow says joy, red says action, blue says emotion, black says absence. Pamela Colman Smith coloured nothing at random in 1909, and it's the first thing the House teaches you to read."
+lede: "Before you know which card you're holding, you already see its colour. And colour speaks: yellow says joy, red says action, blue says emotion, black says absence. Pamela Colman Smith coloured nothing at random in 1909, and it's the first thing Maison Tarot teaches you to read."
 faq:
   - q: "Do tarot colours have fixed meanings?"
     a: "In the Rider-Waite-Smith, largely yes: the painter used a consistent palette across 78 cards. That's what makes this lens reliable. Other decks have other palettes; the grid below is the Rider-Waite-Smith's."
@@ -40,7 +40,7 @@ The Fool walks under a yellow sky with a white dog: joy and innocence, before yo
 
 ## Why start here {#why}
 
-Because it's the only lens that needs *no* knowledge at all. The [number](/library/numerology/) assumes you know the cycle; the [element](/library/four-elements/) assumes you recognise the house. Colour, you could see at three years old. That's why the House's first [workshop](/workshops/) is the colours one, and why [the path](/learn-tarot/) starts here.
+Because it's the only lens that needs *no* knowledge at all. The [number](/library/numerology/) assumes you know the cycle; the [element](/library/four-elements/) assumes you recognise the house. Colour, you could see at three years old. That's why the first [workshop](/workshops/) at Maison Tarot is the colours one, and why [the path](/learn-tarot/) starts here.
 
 ## What this lens doesn't do {#limits}
 

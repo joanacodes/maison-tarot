@@ -24,7 +24,7 @@ lede: 'Avant de chercher ce que « signifie » As de Bâtons, regardez ce que vo
   de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/feu
+- /bibliotheque/quatre-elements/element-feu
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:

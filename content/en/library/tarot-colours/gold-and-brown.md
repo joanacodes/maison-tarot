@@ -23,7 +23,7 @@ related:
 - /library/four-elements
 - /library/feminine-masculine-energies
 faq:
-- q: Is gold the House's colour?
+- q: Is gold Maison Tarot's colour?
   a: 'It uses it as a thread, never a surface — like the deck: one pentacle, one crown,
     never a whole sky.'
 - q: Does brown mean poverty?
@@ -51,8 +51,4 @@ Gold's flip side is greed — the Four of Pentacles clutching its coins — and 
 
 Colour gives the tone; the [element](/library/four-elements/) says the field, the [number](/library/numerology/) the step. Lay all three and the card speaks. [The complete path](/learn-tarot/) puts them in order.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

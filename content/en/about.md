@@ -1,13 +1,13 @@
 ---
-title: "About — the House, and its host"
-description: "Maison Tarot is a house; the host teaches you to read the cards there. She came to astrology to mock it; 300 blind readings later, she publishes her numbers."
+title: "About — Maison Tarot, and me"
+description: "Maison Tarot is a house where I teach you to read the cards. I came to astrology to mock it; 300 blind readings later, I publish my numbers."
 translationKey: about
 eyebrow: "about"
-h1: "A house, a host, and no <em>gift</em>."
-lede: "Maison Tarot is a house: a school, a library, a tea room, a place that smells of wood and plants. The host lives in it. She welcomes you, teaches you to read, and counts her misses."
+h1: "A house, a teacher, and no <em>gift</em>."
+lede: "Maison Tarot is a house: a school, a library, a tea room, a place that smells of wood and plants. I live in it. I welcome you, teach you to read, and count my misses."
 navTitle: "About"
 ---
-## The host
+## Who I am
 
 My name is {{< todo >}}[First Last — in hugo.toml]{{< /todo >}}. I read tarot from Paris, in French and in English, and mostly I teach it.
 
@@ -15,7 +15,7 @@ I came to all this through the back door. I wanted to understand why people beli
 
 What I like most isn’t reading. It’s getting someone to read for the first time and watching them be shocked by what they just said. That can’t be told; it has to be tried.
 
-## What the House believes
+## What Maison Tarot believes
 
 There are no Chosen Ones. This capacity is in everyone — easier for some, different for others — and it can be learned, like a language or an instrument. The cards are only a screen; the message is yours. One day you won’t need the cards at all. Tarot is kindergarten.
 

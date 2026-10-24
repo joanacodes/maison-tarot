@@ -57,8 +57,4 @@ Un tirage dominé par le fixe dit : **ça tient — la question est si c’est u
 
 Commencer, tenir, changer. Les deux autres : [cardinal](/fr/bibliotheque/modes-astrologiques/cardinal/) · [mutable](/fr/bibliotheque/modes-astrologiques/mutable/). Et la [table complète des signes](/fr/bibliotheque/astrologie/) pour voir les trois à la fois.
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire.
-
-{{< six >}}
+{{% six %}}

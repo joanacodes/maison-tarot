@@ -45,7 +45,7 @@ Puis http://localhost:1313/ — la racine est le site anglais ; le français est
 - Cartes : préchargeur, accordéon au clavier (← →), mobile en défilement horizontal ; symboles via `partials/sym.html`.
 - Bibliothèque : ligne de lecture (ordre), filtres (`categories`/`tags` sur chaque page), tuile 78 cartes en diaporama.
 - Blog : dernier article en héros, article `featured: true`, recherche + filtres par `categories`, grille infinie.
-- Shortcodes `{{< six >}}` (six visuels depuis `gallery:`) et `{{< versus >}}`.
+- Shortcodes `{{% six %}}` (six visuels depuis `gallery:`, muet tant qu’aucune image n’est déposée), `{{< cards "ar00 cu03" >}}` (rangée de cartes 1909) et `{{< versus >}}`.
 
 ## Ajouts v5
 

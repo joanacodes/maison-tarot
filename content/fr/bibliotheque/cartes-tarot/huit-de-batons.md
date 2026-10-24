@@ -24,7 +24,7 @@ lede: 'Avant de chercher ce que « signifie » Huit de Bâtons, regardez ce que 
   et la carte vous parle déjà — le reste de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/feu
+- /bibliotheque/quatre-elements/element-feu
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:

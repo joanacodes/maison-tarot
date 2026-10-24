@@ -21,7 +21,7 @@
 <div class="ticker" aria-hidden="true"><div class="track">{{ range seq 10 }}{{ range $p.ticker }}<span>{{ . }}</span>{{ end }}{{ end }}</div></div>
 
 <section class="wrap statement">
-  <p class="eyebrow" style="justify-content:center" data-reveal>{{ if $fr }}La maison{{ else }}The house{{ end }}</p>
+  <p class="eyebrow" style="justify-content:center" data-reveal>Maison Tarot</p>
   <h2 class="mt-0" data-reveal="2">{{ $p.statement | safeHTML }}</h2>
   <div class="lede" data-reveal="3">{{ .Content }}</div>
 </section>

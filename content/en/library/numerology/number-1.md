@@ -58,7 +58,7 @@ When 1 comes out, the advice fits in one word: **humility**.
 
 In 2010, Kevin Systrom and Mike Krieger built a small location-sharing app called Burbn. It didn't really work. They kept the only feature people used — sharing a photo — and renamed it Instagram.
 
-At that moment they had a 1: an idea that fits in the hand, no proof it's worth anything, and only one right move available — staying a student of what they'd just launched. The rest of the cycle, from [2](/library/numerology/number-2/) (investors signing) to [10](/library/numerology/number-10/) (a platform nobody recognises any more), is the story of the same company. That's why the House uses Instagram as its running example: you already know the ending, so you can see the cycle.
+At that moment they had a 1: an idea that fits in the hand, no proof it's worth anything, and only one right move available — staying a student of what they'd just launched. The rest of the cycle, from [2](/library/numerology/number-2/) (investors signing) to [10](/library/numerology/number-10/) (a platform nobody recognises any more), is the story of the same company. That's why Maison Tarot uses Instagram as its running example: you already know the ending, so you can see the cycle.
 
 ## The five cards that carry 1 {#cards}
 
@@ -76,8 +76,4 @@ A 1 in a spread says: **something has just started, or is about to**. Look at th
 
 A whole spread with no 1 in it says something else: nothing is starting here, everything is already under way. That's information too.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

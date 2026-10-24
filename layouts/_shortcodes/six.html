@@ -1,3 +1,16 @@
-{{- /* {{< six >}} — six images d'explication visuelle depuis le front matter `gallery:` (src, title, text) */ -}}
-{{- $g := .Page.Params.gallery -}}
-<div class="six">{{ range $i := seq 0 5 }}{{ $it := index $g $i }}<figure>{{ partial "image.html" (dict "page" $.Page "src" (cond (ne $it nil) $it.src (printf "visual-%d.jpg" (add $i 1))) "alt" (cond (ne $it nil) $it.title "") "ratio" "portrait" "sizes" "(min-width:800px) 30vw, 45vw") }}<figcaption>{{ if $it }}<b>{{ $it.title }}</b>{{ $it.text }}{{ else }}<span class="todo">{{ if eq $.Page.Language.Lang "fr" }}visuel {{ add $i 1 }} — à décrire{{ else }}visual {{ add $i 1 }} — to describe{{ end }}</span>{{ end }}</figcaption></figure>{{ end }}</div>
+{{- /* {{% six %}} — six images d'explication visuelle depuis le front matter `gallery:` (src, title, text, prompt).
+     Tant qu'aucune des images n'est déposée, le bloc entier (titre compris) reste muet : un visiteur ne doit pas voir une galerie vide.
+     Appelé avec % pour que le titre « En images » entre dans la table des matières quand il apparaît. */ -}}
+{{- $g := .Page.Params.gallery | default slice -}}
+{{- $fr := eq .Page.Language.Lang "fr" -}}
+{{- $found := false -}}
+{{- range $g }}{{ with .src }}{{ if or ($.Page.Resources.Get .) (resources.Get .) }}{{ $found = true }}{{ end }}{{ end }}{{ end -}}
+{{- if $found -}}
+{{ if $fr }}## En images {#en-images}
+
+Six visuels pour comprendre sans lire.{{ else }}## In pictures {#in-pictures}
+
+Six visuals to understand without reading.{{ end }}
+
+<div class="six">{{ range $i := seq 0 5 }}{{ $it := index $g $i }}<figure>{{ partial "image.html" (dict "page" $.Page "src" (cond (ne $it nil) $it.src (printf "visual-%d.jpg" (add $i 1))) "alt" (cond (ne $it nil) $it.title "") "ratio" "portrait" "sizes" "(min-width:800px) 30vw, 45vw") }}{{ with $it }}<figcaption><b>{{ .title }}</b>{{ .text }}</figcaption>{{ end }}</figure>{{ end }}</div>
+{{- end -}}

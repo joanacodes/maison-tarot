@@ -54,12 +54,8 @@ The opera singer; kids playing Action Man.
 
 When Strength comes out, Leo is there: mastery through gentleness, the hand on the lion's jaw. Well placed, it's the courage that doesn't need to shout. Badly placed, it's the need to be seen coming before what you do. The card has [its own page](/library/tarot-cards/strength/), with all its lenses.
 
-## What the House doesn't say {#limits}
+## What Maison Tarot doesn't say {#limits}
 
-This sign explains no one. The host tested her chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)
+This sign explains no one. I tested my chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

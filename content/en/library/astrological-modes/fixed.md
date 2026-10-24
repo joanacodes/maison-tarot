@@ -57,8 +57,4 @@ A spread dominated by fixed says: **it holds — the question is whether that's 
 
 To start, to hold, to change. The other two: [cardinal](/library/astrological-modes/cardinal/) · [mutable](/library/astrological-modes/mutable/). And the [full table of signs](/library/astrology/) to see all three at once.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

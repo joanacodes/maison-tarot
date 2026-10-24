@@ -10,20 +10,19 @@ suitLabel: Major arcana
 number: 21
 cardId: ar21
 element: Earth
-numerology: 21 — one — the beginning, the rough diamond
+numerology: 21 — 2 + 1 = 3 — to create, to celebrate, the first result
 astrology: Saturn
 energy: Feminine
 kabbalah: Tav
 image: cards/ar21.webp
 h1: The World — <em>21</em>, Earth
 lede: 'Before looking up what The World “means”, look at what you already have: 21,
-  the element Earth, Saturn. You’re reading the card. The number says 21 — one — the
-  beginning, the rough diamond; the element says matter, what holds. Lay the two over
+  the element Earth, Saturn. You’re reading the card. The number says 21 — 2 + 1 = 3 — to create, to celebrate, the first result; the element says matter, what holds. Lay the two over
   each other, add the colours, and the card is already talking — the rest of the page
   shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/earth
+- /library/four-elements/earth-element
 - /library/tarot-colours
 - /library/astrology
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## By number: 21 {#number}
 
-**21 — one — the beginning, the rough diamond.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**21 — 2 + 1 = 3 — to create, to celebrate, the first result.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
 
 ## By element: Earth {#element}
 

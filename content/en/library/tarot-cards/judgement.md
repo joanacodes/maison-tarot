@@ -10,20 +10,19 @@ suitLabel: Major arcana
 number: 20
 cardId: ar20
 element: Fire
-numerology: 20 — ten — the end of the cycle, transition
+numerology: 20 — 2 + 0 = 2 — to bind, to weigh, to cooperate
 astrology: Pluto
 energy: Masculine
 kabbalah: Shin
 image: cards/ar20.webp
 h1: Judgement — <em>20</em>, Fire
 lede: 'Before looking up what Judgement “means”, look at what you already have: 20,
-  the element Fire, Pluto. You’re reading the card. The number says 20 — ten — the
-  end of the cycle, transition; the element says drive, what you launch. Lay the two
+  the element Fire, Pluto. You’re reading the card. The number says 20 — 2 + 0 = 2 — to bind, to weigh, to cooperate; the element says drive, what you launch. Lay the two
   over each other, add the colours, and the card is already talking — the rest of
   the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/fire
+- /library/four-elements/fire-element
 - /library/tarot-colours
 - /library/astrology
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## By number: 20 {#number}
 
-**20 — ten — the end of the cycle, transition.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**20 — 2 + 0 = 2 — to bind, to weigh, to cooperate.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
 
 ## By element: Fire {#element}
 

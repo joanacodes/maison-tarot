@@ -10,20 +10,19 @@ suitLabel: Arcane majeur
 number: 15
 cardId: ar15
 element: Terre
-numerology: 15 — cinq — le conflit, l’épreuve, faire avec ce qui reste
+numerology: 15 — 1 + 5 = 6 — l’harmonie retrouvée, l’échange
 astrology: Capricorne
 energy: Masculine
 kabbalah: Ayin
 image: cards/ar15.webp
 h1: Le Diable — <em>15</em>, la Terre
 lede: 'Avant de chercher ce que « signifie » Le Diable, regardez ce que vous avez
-  déjà : 15, l’élément Terre, Capricorne. Vous lisez la carte. Le nombre dit 15 —
-  cinq — le conflit, l’épreuve, faire avec ce qui reste ; l’élément dit la matière,
+  déjà : 15, l’élément Terre, Capricorne. Vous lisez la carte. Le nombre dit 15 — 1 + 5 = 6 — l’harmonie retrouvée, l’échange ; l’élément dit la matière,
   ce qui tient. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte
   vous parle déjà — le reste de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/terre
+- /bibliotheque/quatre-elements/element-terre
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## Par le nombre : 15 {#nombre}
 
-**15 — cinq — le conflit, l’épreuve, faire avec ce qui reste.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**15 — 1 + 5 = 6 — l’harmonie retrouvée, l’échange.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
 
 ## Par l’élément : Terre {#element}
 

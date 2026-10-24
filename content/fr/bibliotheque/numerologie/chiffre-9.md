@@ -62,8 +62,4 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 
 Un 9 dans un tirage dit : **on y est presque, et ça se sent.** Le Neuf de Pentacles jouit seul de ce qu’il a construit, le Neuf de Coupes a ce qu’il voulait, le Neuf de Bâtons tient debout, blessé, le Neuf d’Épées ne dort plus à force d’y penser. L’Ermite est le 9 qui regarde en lui : la lanterne avant le dernier pas.
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire.
-
-{{< six >}}
+{{% six %}}

@@ -1,0 +1,16 @@
+{{- /* {{< cards "ar13 sw10 cu03" >}} — une rangée de cartes (scans 1909, en couleur), chacune mène à sa page. Identifiants : data/cards.yml.
+     Un identifiant inconnu arrête la compilation : une carte fantôme ne doit pas partir en ligne. */ -}}
+{{- $fr := eq .Page.Language.Lang "fr" -}}
+{{- $section := cond $fr "/bibliotheque/cartes-tarot" "/library/tarot-cards" -}}
+<div class="card-row">
+{{- range split (trim (.Get 0) " ") " " -}}
+  {{- $id := trim . " " -}}
+  {{- if $id -}}
+  {{- $c := false }}{{ range first 1 (where site.Data.cards "id" $id) }}{{ $c = . }}{{ end -}}
+  {{- if not $c }}{{ errorf "cards shortcode: unknown card id %q in %s" $id $.Page.File.Path }}{{ end -}}
+  {{- $name := cond $fr $c.name_fr $c.name_en -}}
+  {{- $page := site.GetPage (printf "%s/%s" $section (cond $fr $c.slug_fr $c.slug_en)) -}}
+  <a class="card-thumb" href="{{ with $page }}{{ .RelPermalink }}{{ end }}">{{ partial "image.html" (dict "page" $.Page "src" (printf "cards/%s.webp" $id) "alt" (printf "%s — Rider-Waite-Smith, 1909" $name) "ratio" "card" "sizes" "(min-width:800px) 14vw, 30vw") }}<span class="cap"><span class="t">{{ $name }}</span></span></a>
+  {{- end -}}
+{{- end -}}
+</div>

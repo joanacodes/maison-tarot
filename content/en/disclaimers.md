@@ -1,6 +1,6 @@
 ---
 title: "Disclaimers — everything we have to say, on one page"
-description: "All of Maison Tarot’s disclaimers in one place: entertainment, adults only, what the host refuses, what she doesn’t claim, and why tarot is not an authority."
+description: "All of Maison Tarot’s disclaimers in one place: entertainment, adults only, what I don’t read, what I don’t claim, and why tarot is not an authority."
 translationKey: disclaimers
 navTitle: "Disclaimers"
 type: legal
@@ -18,17 +18,17 @@ That’s the sentence the law expects, and we think it’s fair. Not because we 
 
 For people over 18. No readings for minors, no readings “about” minors either. If you’re seventeen and a half, come back in six months: the cards will still be here.
 
-## What the host refuses to read {#refusals}
+## What I don’t read {#refusals}
 
 {{< refusals >}}
 
 This isn’t prudishness. These are the subjects where a card, even well read, can do damage. Tarot doesn’t diagnose, doesn’t plead, doesn’t invest, and doesn’t “lift” any curse — anyone offering you the last one for a fee has an excellent reason to: you.
 
-## What the host doesn’t claim {#claims}
+## What I don’t claim {#claims}
 
-- To know **how** it works. She knows it works at a certain rate, under certain conditions, and she says which.
-- To have a **gift**. She has none you don’t have.
-- That her count is a **scientific study**. It’s a manual tally, not audited. “Accurate” means: the person said it was.
+- To know **how** it works. I know it works at a certain rate, under certain conditions, and I say which.
+- To have a **gift**. I have none you don’t have.
+- That my count is a **scientific study**. It’s a manual tally, not audited. “Accurate” means: the person said it was.
 - To predict **the future**. A reading reads your emotional world at the moment it happens. The future rarely arrives the way you imagined, and that’s fine.
 
 ## Tarot is not an authority {#readings}
@@ -41,11 +41,11 @@ And if you see evil everywhere: tarot is only evil for those who see evil everyw
 
 ## Not everything is about spirits {#therapy}
 
-Sometimes it’s psychological, sometimes psychiatric. In those cases the right door isn’t the House’s, and the host will tell you — plainly, but kindly. Seeing a therapist isn’t your cards failing; it’s the right tool for the right job.
+Sometimes it’s psychological, sometimes psychiatric. In those cases the right door isn’t mine, and I’ll tell you — plainly, but kindly. Seeing a therapist isn’t your cards failing; it’s the right tool for the right job.
 
 ## Astrology is not an excuse {#astrology}
 
-“It’s because I’m a Scorpio.” No. A birth chart describes tendencies, not permissions. The host tested hers box by box and publishes the result; it never once excused her from being responsible for what she does.
+“It’s because I’m a Scorpio.” No. A birth chart describes tendencies, not permissions. I tested mine box by box and publish the result; it never once excused me from being responsible for what I do.
 
 ## Events {#events}
 

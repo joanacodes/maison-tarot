@@ -23,7 +23,7 @@ lede: 'Before looking up what Wheel of Fortune “means”, look at what you alr
   rest of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/fire
+- /library/four-elements/fire-element
 - /library/tarot-colours
 - /library/astrology
 faq:

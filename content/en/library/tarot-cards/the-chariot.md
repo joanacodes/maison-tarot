@@ -23,7 +23,7 @@ lede: 'Before looking up what The Chariot “means”, look at what you already 
   the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/water
+- /library/four-elements/water-element
 - /library/tarot-colours
 - /library/astrology
 faq:

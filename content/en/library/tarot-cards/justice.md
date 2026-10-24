@@ -10,20 +10,19 @@ suitLabel: Major arcana
 number: 11
 cardId: ar11
 element: Air
-numerology: 11 — one — the beginning, the rough diamond
+numerology: 11 — 1 + 1 = 2 — to bind, to weigh, to cooperate
 astrology: Libra
 energy: Feminine
 kabbalah: Lamed
 image: cards/ar11.webp
 h1: Justice — <em>11</em>, Air
 lede: 'Before looking up what Justice “means”, look at what you already have: 11,
-  the element Air, Libra. You’re reading the card. The number says 11 — one — the
-  beginning, the rough diamond; the element says the mind, what you decide. Lay the
+  the element Air, Libra. You’re reading the card. The number says 11 — 1 + 1 = 2 — to bind, to weigh, to cooperate; the element says the mind, what you decide. Lay the
   two over each other, add the colours, and the card is already talking — the rest
   of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/air
+- /library/four-elements/air-element
 - /library/tarot-colours
 - /library/astrology
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## By number: 11 {#number}
 
-**11 — one — the beginning, the rough diamond.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**11 — 1 + 1 = 2 — to bind, to weigh, to cooperate.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
 
 ## By element: Air {#element}
 

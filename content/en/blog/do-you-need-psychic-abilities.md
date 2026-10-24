@@ -42,6 +42,6 @@ I'm not saying nobody has unusual perception. I've had experiences I can't expla
 
 ## No Chosen Ones {#no-chosen-ones}
 
-It's a House principle and it's the reason the House teaches rather than reads. If reading required a gift, teaching it would be fraud. It doesn't, so I teach it, and I count what my students do the same way I count what I do. Their notebooks look like mine.
+It's a Maison Tarot principle and it's the reason I teach rather than read. If reading required a gift, teaching it would be fraud. It doesn't, so I teach it, and I count what my students do the same way I count what I do. Their notebooks look like mine.
 
 If you'd like to try with someone watching, the [free events](/events/) are for that — you'll be read, and then, if you want, you'll read. Ten minutes. No gift required, and none granted.

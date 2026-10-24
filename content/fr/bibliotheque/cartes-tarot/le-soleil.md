@@ -10,20 +10,19 @@ suitLabel: Arcane majeur
 number: 19
 cardId: ar19
 element: Feu
-numerology: 19 — neuf — l’aboutissement, presque au bout
+numerology: 19 — 1 + 9 = 10 — la fin du cycle, la transition
 astrology: Soleil
 energy: Masculine
 kabbalah: Resh
 image: cards/ar19.webp
 h1: Le Soleil — <em>19</em>, le Feu
 lede: 'Avant de chercher ce que « signifie » Le Soleil, regardez ce que vous avez
-  déjà : 19, l’élément Feu, Soleil. Vous lisez la carte. Le nombre dit 19 — neuf —
-  l’aboutissement, presque au bout ; l’élément dit l’élan, ce qu’on lance. Posez les
+  déjà : 19, l’élément Feu, Soleil. Vous lisez la carte. Le nombre dit 19 — 1 + 9 = 10 — la fin du cycle, la transition ; l’élément dit l’élan, ce qu’on lance. Posez les
   deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
   de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/feu
+- /bibliotheque/quatre-elements/element-feu
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## Par le nombre : 19 {#nombre}
 
-**19 — neuf — l’aboutissement, presque au bout.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**19 — 1 + 9 = 10 — la fin du cycle, la transition.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
 
 ## Par l’élément : Feu {#element}
 

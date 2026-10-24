@@ -11,20 +11,19 @@ suitLabel: Arcane majeur
 number: 20
 cardId: ar20
 element: Feu
-numerology: 20 — dix — la fin du cycle, la transition
+numerology: 20 — 2 + 0 = 2 — se lier, peser, coopérer
 astrology: Pluton
 energy: Masculine
 kabbalah: Shin
 image: cards/ar20.webp
 h1: Le Jugement — <em>20</em>, le Feu
 lede: 'Avant de chercher ce que « signifie » Le Jugement, regardez ce que vous avez
-  déjà : 20, l’élément Feu, Pluton. Vous lisez la carte. Le nombre dit 20 — dix —
-  la fin du cycle, la transition ; l’élément dit l’élan, ce qu’on lance. Posez les
+  déjà : 20, l’élément Feu, Pluton. Vous lisez la carte. Le nombre dit 20 — 2 + 0 = 2 — se lier, peser, coopérer ; l’élément dit l’élan, ce qu’on lance. Posez les
   deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
   de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/feu
+- /bibliotheque/quatre-elements/element-feu
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
@@ -48,7 +47,7 @@ tags:
 
 ## Par le nombre : 20 {#nombre}
 
-**20 — dix — la fin du cycle, la transition.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**20 — 2 + 0 = 2 — se lier, peser, coopérer.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
 
 ## Par l’élément : Feu {#element}
 

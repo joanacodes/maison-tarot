@@ -2,8 +2,7 @@
 title: 'Jupiter in astrology and tarot: what it says in a chart, its card, and what
   the test showed'
 description: 'Jupiter read as a tarot lens: its card (Wheel of Fortune), the sign
-  it rules (Sagittarius), what it describes in a birth chart, and its result in the
-  host''s test — about one time in three.'
+  it rules (Sagittarius), what it describes in a birth chart, and its result in my test — about one time in three.'
 translationKey: body-jupiter
 type: library
 navTitle: Jupiter
@@ -42,12 +41,8 @@ The Wheel of Fortune, arcana X: what goes up, what goes down, and the fact that 
 
 ## What the test showed {#test}
 
-A third — and the House distrusts it more than the others, because it's the placement that makes people say 'it'll be fine'. Jupiter on a card is useful for one thing: recognising the Six, expansion, and remembering the advice that goes with it — stay humble.
+A third — and I distrust it more than the others, because it's the placement that makes people say 'it'll be fine'. Jupiter on a card is useful for one thing: recognising the Six, expansion, and remembering the advice that goes with it — stay humble.
 
-A reminder of the frame: the host checked her chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
+A reminder of the frame: I checked my chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

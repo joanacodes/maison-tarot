@@ -1,6 +1,6 @@
 ---
 title: "Shadow work for beginners: what it is, what it isn’t, and one card to start"
-description: "‘Shadow work’ is everywhere on TikTok and it mostly means journaling about things you don’t like about yourself. Where the idea comes from, what the House version looks like without the therapy-speak, a three-card spread that fits on a napkin, and the point where it stops being yours to do alone."
+description: "‘Shadow work’ is everywhere on TikTok and it mostly means journaling about things you don’t like about yourself. Where the idea comes from, what the Maison Tarot version looks like without the therapy-speak, a three-card spread that fits on a napkin, and the point where it stops being yours to do alone."
 translationKey: post-shadow-work
 type: blog
 date: 2026-09-11

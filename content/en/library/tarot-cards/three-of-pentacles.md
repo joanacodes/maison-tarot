@@ -24,7 +24,7 @@ lede: 'Before looking up what Three of Pentacles “means”, look at what you a
   already talking — the rest of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/earth
+- /library/four-elements/earth-element
 - /library/tarot-colours
 - /library/astrology
 faq:

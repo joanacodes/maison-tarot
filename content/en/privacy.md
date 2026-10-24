@@ -10,7 +10,7 @@ Data controller: {{< legal-field key="publisherName" label="publisher" >}} — {
 ## What data is collected?
 
 - **Booking**: name, email, time zone, slot — via the booking tool (Cal.com) and the payment provider. Purpose: delivering the service. Retention: {{< todo >}}TO FILL, e.g. 3 years after the last service{{< /todo >}}.
-- **The Readers’ Guide**: your email, with your explicit consent (double opt-in), to send you the Guide and news from the House. One-click unsubscribe. Tool: {{< todo >}}TO FILL (Brevo — hosted in France){{< /todo >}}.
+- **The Readers’ Guide**: your email, with your explicit consent (double opt-in), to send you the Guide and news from Maison Tarot. One-click unsubscribe. Tool: {{< todo >}}TO FILL (Brevo — hosted in France){{< /todo >}}.
 - **Contact**: your email and message, for as long as it takes to reply.
 - **Language preference**: one functional cookie (`mt_lang`, 30 days) remembers your FR/EN choice. It does nothing else.
 

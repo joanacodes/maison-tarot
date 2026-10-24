@@ -61,8 +61,4 @@ You don't have to memorise them. The number says the step; the [element](/librar
 
 An 8 in a spread says: **it's solid, and it lasts.** The Eight of Pentacles works piece after piece, the Eight of Wands flies — speed mastered — the Eight of Cups leaves what's built to look for something else, the Eight of Swords thinks itself prisoner of what it built. Strength is the 8 of inner mastery: the gentleness that holds the lion.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

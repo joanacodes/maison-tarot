@@ -11,20 +11,19 @@ suitLabel: Arcane majeur
 number: 12
 cardId: ar12
 element: Eau
-numerology: 12 — deux — se lier, peser, coopérer
+numerology: 12 — 1 + 2 = 3 — créer, célébrer, le premier résultat
 astrology: Neptune
 energy: Féminine
 kabbalah: Mem
 image: cards/ar12.webp
 h1: Le Pendu — <em>12</em>, l’Eau
 lede: 'Avant de chercher ce que « signifie » Le Pendu, regardez ce que vous avez déjà
-  : 12, l’élément Eau, Neptune. Vous lisez la carte. Le nombre dit 12 — deux — se
-  lier, peser, coopérer ; l’élément dit les émotions, ce qui circule. Posez les deux
+  : 12, l’élément Eau, Neptune. Vous lisez la carte. Le nombre dit 12 — 1 + 2 = 3 — créer, célébrer, le premier résultat ; l’élément dit les émotions, ce qui circule. Posez les deux
   l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
   de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/eau
+- /bibliotheque/quatre-elements/element-eau
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
@@ -48,7 +47,7 @@ tags:
 
 ## Par le nombre : 12 {#nombre}
 
-**12 — deux — se lier, peser, coopérer.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**12 — 1 + 2 = 3 — créer, célébrer, le premier résultat.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
 
 ## Par l’élément : Eau {#element}
 

@@ -24,7 +24,7 @@ lede: 'Avant de chercher ce que « signifie » Le Magicien, regardez ce que vous
   de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/air
+- /bibliotheque/quatre-elements/element-air
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:

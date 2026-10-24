@@ -20,7 +20,7 @@ lede: 'Avant de chercher ce que « signifie » Le Mat, regardez ce que vous avez
   : zéro, l’élément Air, Uranus. Vous lisez la carte.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/air
+- /bibliotheque/quatre-elements/element-air
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:

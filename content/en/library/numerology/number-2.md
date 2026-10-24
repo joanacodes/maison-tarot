@@ -62,8 +62,4 @@ You don't have to memorise them. The number says the step; the [element](/librar
 
 A 2 in a spread says: **there are two parties, and the bond between them is the question.** A couple, a partner, a choice between two options held at equal distance. The Two of Cups ties, the Two of Swords holds back, the Two of Wands looks far before leaving, the Two of Pentacles juggles. The High Priestess keeps the bond secret: a 2 that doesn't say yet.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

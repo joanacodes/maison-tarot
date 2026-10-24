@@ -58,8 +58,4 @@ A Page in a spread says: **someone is learning, or news is coming.** The Page of
 
 [Page](/library/numerology/page/) — [Knight](/library/numerology/knight/) — [Queen](/library/numerology/queen/) — [King](/library/numerology/king/): learn, act, hold, decide. Temperaments more than steps, and [feminine and masculine energies](/library/feminine-masculine-energies/) explain why Queen and King are equals.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

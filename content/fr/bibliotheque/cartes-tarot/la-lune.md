@@ -10,20 +10,19 @@ suitLabel: Arcane majeur
 number: 18
 cardId: ar18
 element: Eau
-numerology: 18 — huit — le mouvement, la maîtrise, le fruit du travail
+numerology: 18 — 1 + 8 = 9 — l’aboutissement, presque au bout
 astrology: Poissons
 energy: Féminine
 kabbalah: Qoph
 image: cards/ar18.webp
 h1: La Lune — <em>18</em>, l’Eau
 lede: 'Avant de chercher ce que « signifie » La Lune, regardez ce que vous avez déjà
-  : 18, l’élément Eau, Poissons. Vous lisez la carte. Le nombre dit 18 — huit — le
-  mouvement, la maîtrise, le fruit du travail ; l’élément dit les émotions, ce qui
+  : 18, l’élément Eau, Poissons. Vous lisez la carte. Le nombre dit 18 — 1 + 8 = 9 — l’aboutissement, presque au bout ; l’élément dit les émotions, ce qui
   circule. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous
   parle déjà — le reste de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/eau
+- /bibliotheque/quatre-elements/element-eau
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## Par le nombre : 18 {#nombre}
 
-**18 — huit — le mouvement, la maîtrise, le fruit du travail.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**18 — 1 + 8 = 9 — l’aboutissement, presque au bout.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
 
 ## Par l’élément : Eau {#element}
 

@@ -62,8 +62,4 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 
 Un 6 dans un tirage dit : **ça réussit, et ça va vite.** Le Six de Bâtons défile en vainqueur, le Six de Pentacles a assez pour donner, le Six de Coupes retrouve la douceur d’avant, le Six d’Épées traverse vers une rive plus calme. Les Amoureux sont le 6 du choix heureux : l’union — et le choix qu’elle implique.
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire.
-
-{{< six >}}
+{{% six %}}

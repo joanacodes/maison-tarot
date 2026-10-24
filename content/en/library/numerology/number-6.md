@@ -61,8 +61,4 @@ You don't have to memorise them. The number says the step; the [element](/librar
 
 A 6 in a spread says: **it's succeeding, and it's fast.** The Six of Wands parades as the winner, the Six of Pentacles has enough to give, the Six of Cups finds the sweetness of before, the Six of Swords crosses to a calmer shore. The Lovers are the 6 of the happy choice: union — and the choice it implies.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

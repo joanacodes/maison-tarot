@@ -2,7 +2,7 @@
 title: 'The Moon in astrology and tarot: what it says in a chart, its card, and what
   the test showed'
 description: 'The Moon read as a tarot lens: its card (The High Priestess), the sign
-  it rules (Cancer), what it describes in a birth chart, and its result in the host''s
+  it rules (Cancer), what it describes in a birth chart, and its result in my
   test — a little over one time in three.'
 translationKey: body-moon
 type: library
@@ -43,12 +43,8 @@ The High Priestess, arcana II, in the Golden Dawn tradition: the moon at her fee
 
 ## What the test showed {#test}
 
-A little over a third in the test, but with a bias: it's the placement people most readily say 'yes, that's it' to, because it describes what they already know about themselves. The House uses it as a lens on the Water cards, not as a portrait.
+A little over a third in the test, but with a bias: it's the placement people most readily say 'yes, that's it' to, because it describes what they already know about themselves. I use it as a lens on the Water cards, not as a portrait.
 
-A reminder of the frame: the host checked her chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
+A reminder of the frame: I checked my chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

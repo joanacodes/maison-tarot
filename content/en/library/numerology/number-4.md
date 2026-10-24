@@ -61,8 +61,4 @@ You don't have to memorise them. The number says the step; the [element](/librar
 
 A 4 in a spread says: **it holds.** The Four of Wands celebrates a home, the Four of Pentacles clutches what it has, the Four of Cups is bored in its comfort, the Four of Swords rests. The Emperor is the 4 that structures: the rule, the throne, the frame. Look at whether the stability protects or confines.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

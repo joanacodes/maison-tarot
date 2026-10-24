@@ -50,8 +50,4 @@ White's flip side is naivety — the innocence that doesn't see it coming — an
 
 Colour gives the tone; the [element](/library/four-elements/) says the field, the [number](/library/numerology/) the step. Lay all three and the card speaks. [The complete path](/learn-tarot/) puts them in order.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

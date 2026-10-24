@@ -23,7 +23,7 @@ lede: 'Before looking up what Seven of Cups “means”, look at what you alread
   the rest of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/water
+- /library/four-elements/water-element
 - /library/tarot-colours
 - /library/astrology
 faq:

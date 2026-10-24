@@ -15,7 +15,7 @@ related:
 - /library/feminine-masculine-energies
 notClaim:
 - Element–suit correspondences are those of the Rider-Waite-Smith tradition. Some
-  schools swap Air and Fire; the House follows the Rider-Waite-Smith.
+  schools swap Air and Fire; Maison Tarot follows the Rider-Waite-Smith.
 - An element tells you what the card is about, not what will happen.
 categories:
 - Elements
@@ -43,8 +43,4 @@ The chief, the leader, the authority figure who takes the decisions nobody else 
 
 The Two of Swords, for someone who has told you nothing. *Two*: cooperation, binding, weighing pros and cons. *Air*: the mind, the decision. You can already talk about a choice being postponed with eyes closed, two options held at equal distance. Nothing memorised.
 
-## In pictures {#in-pictures}
-
-Six visuals to understand without reading.
-
-{{< six >}}
+{{% six %}}

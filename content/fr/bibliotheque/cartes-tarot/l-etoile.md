@@ -10,20 +10,19 @@ suitLabel: Arcane majeur
 number: 17
 cardId: ar17
 element: Air
-numerology: 17 — sept — le doute, l’évaluation, la patience
+numerology: 17 — 1 + 7 = 8 — le mouvement, la maîtrise, le fruit du travail
 astrology: Verseau
 energy: Féminine
 kabbalah: Tsadé
 image: cards/ar17.webp
 h1: L’Étoile — <em>17</em>, l’Air
 lede: 'Avant de chercher ce que « signifie » L’Étoile, regardez ce que vous avez déjà
-  : 17, l’élément Air, Verseau. Vous lisez la carte. Le nombre dit 17 — sept — le
-  doute, l’évaluation, la patience ; l’élément dit le mental, ce qu’on décide. Posez
+  : 17, l’élément Air, Verseau. Vous lisez la carte. Le nombre dit 17 — 1 + 7 = 8 — le mouvement, la maîtrise, le fruit du travail ; l’élément dit le mental, ce qu’on décide. Posez
   les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà —
   le reste de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/air
+- /bibliotheque/quatre-elements/element-air
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## Par le nombre : 17 {#nombre}
 
-**17 — sept — le doute, l’évaluation, la patience.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**17 — 1 + 7 = 8 — le mouvement, la maîtrise, le fruit du travail.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
 
 ## Par l’élément : Air {#element}
 

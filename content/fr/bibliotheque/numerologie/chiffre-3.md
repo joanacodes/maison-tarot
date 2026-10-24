@@ -61,8 +61,4 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 
 Un 3 dans un tirage dit : **ça fonctionne, et c’est visible.** Le Trois de Coupes fête, le Trois de Pentacles construit à plusieurs, le Trois de Bâtons regarde ses bateaux partir, le Trois d’Épées — le seul 3 douloureux — montre que quand trois cœurs sont en jeu, la cadence peut aussi se rompre. L’Impératrice est le 3 qui produit : la fertilité, au sens le plus large.
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire.
-
-{{< six >}}
+{{% six %}}

@@ -28,7 +28,7 @@ Some witches use tarot. Some don't. Most tarot readers aren't witches. The overl
 
 Because the bundling has two costs.
 
-The first is for the curious. Someone who'd like to learn to read cards sees the candles, the moon phases, the "cleanse your deck under the full moon" advice, and decides this isn't for them — when none of it is required. The [House's whole method](/learn-tarot/) runs without a single ritual: five lenses, a notebook, someone who tells you nothing.
+The first is for the curious. Someone who'd like to learn to read cards sees the candles, the moon phases, the "cleanse your deck under the full moon" advice, and decides this isn't for them — when none of it is required. The [whole Maison Tarot method](/learn-tarot/) runs without a single ritual: five lenses, a notebook, someone who tells you nothing.
 
 The second is for the believer. Someone whose religion forbids witchcraft assumes tarot falls under it, and never finds out that a deck of pictures used for reflection is a different thing. [I've written separately about tarot and religion](/blog/is-tarot-a-sin/); the short version is that most of the objections target things I don't do.
 

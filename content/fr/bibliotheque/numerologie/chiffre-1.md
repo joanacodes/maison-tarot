@@ -78,8 +78,4 @@ Un 1 dans un tirage dit : **quelque chose vient de commencer, ou est sur le poin
 
 Un tirage entier sans aucun 1 dit autre chose : rien ne commence ici, tout est déjà en cours. C’est une information aussi.
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire.
-
-{{< six >}}
+{{% six %}}

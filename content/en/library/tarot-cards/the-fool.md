@@ -20,7 +20,7 @@ lede: 'Before looking up what The Fool “means”, look at what you already hav
   the element Air, Uranus. You’re reading the card.'
 related:
 - /library/numerology
-- /library/four-elements/air
+- /library/four-elements/air-element
 - /library/tarot-colours
 - /library/astrology
 faq:

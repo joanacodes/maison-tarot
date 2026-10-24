@@ -61,8 +61,4 @@ Quand l’Ermite sort, la Vierge est là : quelqu’un s’est retiré pour comp
 
 Ce signe n’explique personne. L’hôte a testé son thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire.
-
-{{< six >}}
+{{% six %}}

@@ -5,7 +5,7 @@ translationKey: learn
 navTitle: "Learn tarot"
 eyebrow: "the path"
 h1: "Learn tarot without learning <em>78 cards</em>."
-lede: "There are two ways to learn tarot. Memorise 78 meanings and recite them — it's slow, and it collapses on the first card you forget. Or learn five lenses and lay them over any card. The House teaches the second. Here is the path, free, in order."
+lede: "There are two ways to learn tarot. Memorise 78 meanings and recite them — it's slow, and it collapses on the first card you forget. Or learn five lenses and lay them over any card. Maison Tarot teaches the second. Here is the path, free, in order."
 image: "learn.jpg"
 imageAlt: "Five cards in a row on a table, a hand pointing at one"
 categories: ["Learn"]
@@ -14,7 +14,7 @@ faq:
   - q: "How long does it take to learn tarot?"
     a: "With the lenses, you read an unknown card in the first hour. Reading *well* — knowing when you're wrong — takes a few dozen counted readings. Not years."
   - q: "Do you need a gift to read cards?"
-    a: "No. There are no Chosen Ones. Over 300 free readings for strangers, the host of the House counted what held and what didn't; the method is published, and it can be learned."
+    a: "No. There are no Chosen Ones. Over 300 free readings for strangers, I counted what held and what didn't; the method is published, and it can be learned."
   - q: "Which tarot deck should a beginner choose?"
     a: "The 1909 Rider-Waite-Smith. Every card is a scene you can read without a book, and the whole Library is built on it."
   - q: "Should I read reversed cards?"
@@ -42,9 +42,9 @@ Draw a card at random. Before looking for its name, say what you see: its domina
 
 The rest — the sentence to say first, the silence rule, the notebook for counting — is in [How to read tarot cards for beginners](/blog/how-to-read-tarot-beginners/). That's the article to start with.
 
-## What the House has checked {#checked}
+## What I've checked {#checked}
 
-The host did 300 free readings for strangers who told her nothing, and she counted. The result — about nine times in ten by her count, misses included — and the way of counting are on the [Method](/method/) page. You don't have to believe it: the method is there so you can test it.
+I did 300 free readings for strangers who told me nothing, and I counted. The result — about nine times in ten by my count, misses included — and the way of counting are on the [Method](/method/) page. You don't have to believe it: the method is there so you can test it.
 
 ## When you want someone in front of you {#in-front}
 

@@ -50,8 +50,4 @@ Le revers du gris est l’indifférence — la neutralité devenue absence de vi
 
 La couleur donne le ton ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le domaine, le [nombre](/fr/bibliotheque/numerologie/) l’étape. Posez les trois, et la carte parle. [Le parcours complet](/fr/apprendre-le-tarot/) les met dans l’ordre.
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire.
-
-{{< six >}}
+{{% six %}}

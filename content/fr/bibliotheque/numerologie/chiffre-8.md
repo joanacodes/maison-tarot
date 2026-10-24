@@ -61,8 +61,4 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 
 Un 8 dans un tirage dit : **c’est solide, et ça dure.** Le Huit de Pentacles travaille pièce après pièce, le Huit de Bâtons file — la vitesse maîtrisée —, le Huit de Coupes quitte ce qui est construit pour chercher autre chose, le Huit d’Épées se croit prisonnier de ce qu’il a bâti. La Force est le 8 de la maîtrise intérieure : la douceur qui tient le lion.
 
-## En images {#en-images}
-
-Six visuels pour comprendre sans lire.
-
-{{< six >}}
+{{% six %}}

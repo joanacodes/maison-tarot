@@ -10,20 +10,19 @@ suitLabel: Major arcana
 number: 17
 cardId: ar17
 element: Air
-numerology: 17 — seven — doubt, assessment, patience
+numerology: 17 — 1 + 7 = 8 — movement, mastery, the fruit of work
 astrology: Aquarius
 energy: Feminine
 kabbalah: Tsadé
 image: cards/ar17.webp
 h1: The Star — <em>17</em>, Air
 lede: 'Before looking up what The Star “means”, look at what you already have: 17,
-  the element Air, Aquarius. You’re reading the card. The number says 17 — seven —
-  doubt, assessment, patience; the element says the mind, what you decide. Lay the
+  the element Air, Aquarius. You’re reading the card. The number says 17 — 1 + 7 = 8 — movement, mastery, the fruit of work; the element says the mind, what you decide. Lay the
   two over each other, add the colours, and the card is already talking — the rest
   of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/air
+- /library/four-elements/air-element
 - /library/tarot-colours
 - /library/astrology
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## By number: 17 {#number}
 
-**17 — seven — doubt, assessment, patience.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**17 — 1 + 7 = 8 — movement, mastery, the fruit of work.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
 
 ## By element: Air {#element}
 

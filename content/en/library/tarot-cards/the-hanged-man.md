@@ -10,20 +10,19 @@ suitLabel: Major arcana
 number: 12
 cardId: ar12
 element: Water
-numerology: 12 — two — to bind, to weigh, to cooperate
+numerology: 12 — 1 + 2 = 3 — to create, to celebrate, the first result
 astrology: Neptune
 energy: Feminine
 kabbalah: Mem
 image: cards/ar12.webp
 h1: The Hanged Man — <em>12</em>, Water
 lede: 'Before looking up what The Hanged Man “means”, look at what you already have:
-  12, the element Water, Neptune. You’re reading the card. The number says 12 — two
-  — to bind, to weigh, to cooperate; the element says emotions, what flows. Lay the
+  12, the element Water, Neptune. You’re reading the card. The number says 12 — 1 + 2 = 3 — to create, to celebrate, the first result; the element says emotions, what flows. Lay the
   two over each other, add the colours, and the card is already talking — the rest
   of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/water
+- /library/four-elements/water-element
 - /library/tarot-colours
 - /library/astrology
 faq:
@@ -48,7 +47,7 @@ tags:
 
 ## By number: 12 {#number}
 
-**12 — two — to bind, to weigh, to cooperate.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**12 — 1 + 2 = 3 — to create, to celebrate, the first result.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
 
 ## By element: Water {#element}
 

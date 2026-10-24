@@ -9,6 +9,6 @@
     <p class="label">{{ if $fr }}Écrit par{{ else }}Written by{{ end }}</p>
     <p class="author-name">{{ with $a.name }}{{ . }}{{ else }}<span class="todo">{{ if $fr }}nom de l’auteure{{ else }}author name{{ end }}</span>{{ end }}</p>
     {{ with .Site.Language.Params.authorShortDescription }}<p class="small muted">{{ . }}</p>{{ end }}
-    {{ with $about }}<a class="link-arrow" href="{{ .RelPermalink }}">{{ if $fr }}À propos de l’hôte{{ else }}About the host{{ end }}</a>{{ end }}
+    {{ with $about }}<a class="link-arrow" href="{{ .RelPermalink }}">{{ if $fr }}À propos de moi{{ else }}About me{{ end }}</a>{{ end }}
   </div>
 </aside>

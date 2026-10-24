@@ -23,7 +23,7 @@ lede: 'Avant de chercher ce que « signifie » La Force, regardez ce que vous av
   de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/feu
+- /bibliotheque/quatre-elements/element-feu
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:

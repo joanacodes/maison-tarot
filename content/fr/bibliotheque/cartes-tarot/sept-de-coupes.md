@@ -24,7 +24,7 @@ lede: 'Avant de chercher ce que « signifie » Sept de Coupes, regardez ce que v
   vous parle déjà — le reste de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/eau
+- /bibliotheque/quatre-elements/element-eau
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:

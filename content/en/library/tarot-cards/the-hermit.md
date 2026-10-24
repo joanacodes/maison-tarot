@@ -23,7 +23,7 @@ lede: 'Before looking up what The Hermit “means”, look at what you already h
   shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/earth
+- /library/four-elements/earth-element
 - /library/tarot-colours
 - /library/astrology
 faq:

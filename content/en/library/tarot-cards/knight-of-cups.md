@@ -23,7 +23,7 @@ lede: 'Before looking up what Knight of Cups “means”, look at what you alrea
   of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/water
+- /library/four-elements/water-element
 - /library/tarot-colours
 - /library/astrology
 faq:

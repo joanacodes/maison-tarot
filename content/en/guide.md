@@ -4,7 +4,7 @@ description: "The Maison Tarot Readers’ Guide: how to read a card you’ve nev
 translationKey: guide
 eyebrow: "free"
 h1: "Read a card you’ve <em>never seen</em>."
-lede: "The Readers’ Guide fits in a few pages: the lenses — colours, numbers, elements, energies — and a way to lay them over any Rider-Waite-Smith card. It’s what the House will always give away for free."
+lede: "The Readers’ Guide fits in a few pages: the lenses — colours, numbers, elements, energies — and a way to lay them over any Rider-Waite-Smith card. It’s what Maison Tarot will always give away for free."
 navTitle: "The Readers’ Guide"
 ---
 {{< guide >}}
@@ -21,4 +21,4 @@ navTitle: "The Readers’ Guide"
 
 No “meanings” to memorise. No ritual. No promise. And nothing you can’t check for yourself — that’s the principle.
 
-You get the Guide, then news from the House when there is some. One-click unsubscribe, data never shared.
+You get the Guide, then news from Maison Tarot when there is some. One-click unsubscribe, data never shared.

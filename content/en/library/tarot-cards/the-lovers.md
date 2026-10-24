@@ -23,7 +23,7 @@ lede: 'Before looking up what The Lovers “means”, look at what you already h
   shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/air
+- /library/four-elements/air-element
 - /library/tarot-colours
 - /library/astrology
 faq:

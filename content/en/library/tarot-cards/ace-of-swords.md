@@ -23,7 +23,7 @@ lede: 'Before looking up what Ace of Swords “means”, look at what you alread
   the rest of the page shows you how.'
 related:
 - /library/numerology
-- /library/four-elements/air
+- /library/four-elements/air-element
 - /library/tarot-colours
 - /library/astrology
 faq:

@@ -36,7 +36,7 @@ You can catch it early. A reader who asks for a lot of personal detail before st
 
 Nothing. There is no curse card. The frightening cards — [Death](/library/tarot-cards/death/), [the Tower](/library/tarot-cards/the-tower/), [the Devil](/library/tarot-cards/the-devil/) — describe transformation, sudden change and self-made chains, and every one of them has a way out drawn into the picture. A reader who sees a curse in a spread is not reading the spread.
 
-The House refuses the subject entirely: [no curses, no blocks, no attachments, no protection rituals](/disclaimers/#refusals). Not as a policy against superstition, but because the moment a reader accepts the premise, the con is one step away.
+I step back from the subject entirely: [no curses, no blocks, no attachments, no protection rituals](/disclaimers/#refusals). Not as a policy against superstition, but because the moment a reader accepts the premise, the con is one step away.
 
 ## What to do if it's happening to you {#what-to-do}
 

@@ -7,7 +7,7 @@ type: library
 weight: 30
 short: "The 1–10 cycle"
 h1: "Tarot numerology: a cycle you <em>already know</em>."
-lede: "The numbers on the cards aren't codes to learn. They're the ten steps of a cycle you find everywhere — a company, a relationship, a project, a life. The House tells it with the story of Instagram, because you already know how it ends."
+lede: "The numbers on the cards aren't codes to learn. They're the ten steps of a cycle you find everywhere — a company, a relationship, a project, a life. Maison Tarot tells it with the story of Instagram, because you already know how it ends."
 faq:
   - q: "How do you read the number on a tarot card?"
     a: "Look at it before the picture. A 1 begins, a 5 fights, a 10 turns the page. Then the element says in which area: the Five of Cups is a conflict of feelings, the Five of Pentacles a conflict of means."
@@ -35,7 +35,7 @@ A detail people miss about 10: from the outside, you might think the person is d
 
 ## Why Instagram and not a Greek myth {#why-instagram}
 
-Because you know the ending. Tarot books illustrate the numbers with allegories nobody has lived; the House takes a story everyone watched happen. When you know how it ends you see the whole cycle at once — and then you recognise it in your own life, which doesn't have a known ending yet.
+Because you know the ending. Tarot books illustrate the numbers with allegories nobody has lived; Maison Tarot takes a story everyone watched happen. When you know how it ends you see the whole cycle at once — and then you recognise it in your own life, which doesn't have a known ending yet.
 
 ## Reading a number in a spread {#reading}
 

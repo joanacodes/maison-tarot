@@ -40,7 +40,7 @@ The opposite is the test I use. Tell the reader nothing. If they can't work with
 
 The free reading leads to the paid one. The paid one leads to the "deeper" one. The deeper one needs a "clearing", which needs a follow-up. Legitimate readers may see clients more than once, but the shape is different: you come back because you want to, not because the last session ended on a cliffhanger.
 
-At the House there is nothing to sell after a reading, because [readings aren't sold at all](/method/) — only lessons. That's a structural choice, and it's the simplest way I know to remove the incentive.
+At Maison Tarot there is nothing to sell after a reading, because [readings aren't sold at all](/method/) — only lessons. That's a structural choice, and it's the simplest way I know to remove the incentive.
 
 ## 6. They promise outcomes {#outcomes}
 

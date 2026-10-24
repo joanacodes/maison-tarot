@@ -10,20 +10,19 @@ suitLabel: Arcane majeur
 number: 21
 cardId: ar21
 element: Terre
-numerology: 21 — un — le début, le diamant brut
+numerology: 21 — 2 + 1 = 3 — créer, célébrer, le premier résultat
 astrology: Saturne
 energy: Féminine
 kabbalah: Tav
 image: cards/ar21.webp
 h1: Le Monde — <em>21</em>, la Terre
 lede: 'Avant de chercher ce que « signifie » Le Monde, regardez ce que vous avez déjà
-  : 21, l’élément Terre, Saturne. Vous lisez la carte. Le nombre dit 21 — un — le
-  début, le diamant brut ; l’élément dit la matière, ce qui tient. Posez les deux
+  : 21, l’élément Terre, Saturne. Vous lisez la carte. Le nombre dit 21 — 2 + 1 = 3 — créer, célébrer, le premier résultat ; l’élément dit la matière, ce qui tient. Posez les deux
   l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
   de la page vous montre comment.'
 related:
 - /bibliotheque/numerologie
-- /bibliotheque/quatre-elements/terre
+- /bibliotheque/quatre-elements/element-terre
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
@@ -47,7 +46,7 @@ tags:
 
 ## Par le nombre : 21 {#nombre}
 
-**21 — un — le début, le diamant brut.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**21 — 2 + 1 = 3 — créer, célébrer, le premier résultat.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
 
 ## Par l’élément : Terre {#element}
 
