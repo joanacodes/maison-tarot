@@ -50,11 +50,11 @@ The whole drawing says one thing: **a balance kept by refusing to look.**
 
 ## By number: two {#number}
 
-**two — to bind, to weigh, to cooperate.** Two is the contract between two parties, and its advice is the most sensible in the cycle: read the contract, weigh the pros and cons. The Two of Swords is that weighing done blindfold — two options held at exactly equal distance, so that neither ever wins. Instagram’s second stage was signing with investors, the first moment you can lose something other than your own time. Here the person is still at the table, pen in hand, not signing. The minus of [number 2](/library/numerology/number-2/) is on the card too: stubbornness, solitude, the mind talking to itself.
+**two — to bind, to weigh, to cooperate.** Two is the contract between two parties, and its advice is to read the contract and weigh the pros and cons. The Two of Swords is that weighing done blindfold: two options held at equal distance, so that neither ever wins. Instagram’s second stage was signing with investors, the first moment you can lose something other than your own time. Here the person is still at the table, pen in hand, not signing. The minus of [number 2](/library/numerology/number-2/) is on the card too: stubbornness, solitude, the mind talking to itself.
 
 ## By element: Air {#element}
 
-[Air](/library/four-elements/air-element/) is the element that decides, because it sees everything at once. In the Two of Swords, Air is turned against itself: the mind is so busy weighing that it can’t cut. It isn’t a lack of information; often the person knows exactly what the two options are. It’s that every new thought balances out the one before. Air can block or obsess, and this is the block — a decision held in mid-air, arms crossed.
+[Air](/library/four-elements/air-element/) is the element that decides, because it sees everything at once. In the Two of Swords, Air is turned against itself: the mind is so busy weighing that it can’t cut. The person often knows both options perfectly well; it’s that every new thought balances out the one before. Air can block or obsess, and this is the block — a decision held in mid-air, arms crossed.
 
 ## By colours {#colours}
 
@@ -66,9 +66,9 @@ In the Golden Dawn tradition, the Two of Swords is the Moon in the first decan o
 
 ## In a reading {#reading}
 
-Upright, the Two of Swords is a choice postponed. Two options, two people, two versions of a life, held at arm’s length so as not to lose either. It can also be a truce: a conflict put on hold, a peace kept by not mentioning the subject. That calm is real, and sometimes useful — for a while.
+Upright, the Two of Swords is a choice postponed: two options, two people, two versions of a life, held at arm’s length so as not to lose either. It can also be a truce, a peace kept by not mentioning the subject. That calm is real, and sometimes useful — for a while.
 
-Reversed, the blindfold slips. Either the decision comes all at once, the arms uncross and one sword drops: often a relief, sometimes a brutal one. Or it tips into excess — the person drowning in other people’s opinions, everyone’s advice at once, until the balance turns into confusion.
+Reversed, the blindfold slips. Either the decision comes all at once, the arms uncross and one sword drops: often a relief, sometimes a brutal one. Or it tips into excess, everyone’s advice at once, until the balance turns into confusion.
 
 Next to [Justice](/library/tarot-cards/justice/), the difference jumps out: Justice holds the scale with her eyes open, so the decision will be made, and fairly. Next to [the High Priestess](/library/tarot-cards/the-high-priestess/), another 2 under the Moon, it’s someone who knows more than they’re saying. Next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/), the blindfold is back with ties around the body: the waiting has turned into a trap.
 

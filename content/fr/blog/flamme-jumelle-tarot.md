@@ -11,7 +11,7 @@ imageAlt: "Deux tasses de café sur une table de cuisine, l’une pleine, l’au
 imagePrompt: "Two coffee cups on a kitchen table, one full and one empty, the chair opposite pushed in. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "La « flamme jumelle » est une histoire qui transforme une relation douloureuse, déséquilibrée ou abandonnée en destin spirituel découpé en étapes : le fuyant, le poursuivant, la séparation, l’union. Les tirages construits dessus vous vendent l’étape où vous en êtes. Je ne lis pas ces tirages, parce que cette histoire a surtout pour effet de vous faire attendre quelqu’un qui est parti. Ce que je vous propose à la place parle de vous, et n’a pas d’étapes."
 ---
-Il y a quelques sujets sur lesquels je ne lis pas, et la plupart vont de soi : la santé, la mort, les procès en cours. Celui-ci ne va pas de soi, et c’est celui qu’on me demande le plus souvent quand on va le plus mal. Il mérite donc une explication, et un peu de douceur.
+Il y a quelques sujets sur lesquels je ne lis pas, et la plupart vont de soi : la santé, la mort, les procès en cours. Celui-ci ne va pas de soi, et c’est celui qu’on me demande le plus souvent quand on va le plus mal. Il mérite une explication, et un peu de douceur.
 
 ## Ce qu’est la flamme jumelle {#lidee}
 
@@ -33,7 +33,7 @@ Je comprends d’où vient la demande : quand quelqu’un qu’on aime s’en va
 
 Les cartes ont beaucoup à dire sur une personne qui attend. Le Huit de Coupes, qui s’éloigne de ce qui a été construit. Le Deux d’Épées, les yeux bandés, qui tient deux lames en équilibre parce que décider est insupportable. Le Diable, aux chaînes lâches. Et l’Étoile, enfin, qui verse son eau sans rien retenir.
 
-Aucune ne parle de l’autre personne. Toutes parlent de celle qui est assise en face de moi. C’est le tirage que je fais : sans que vous m’ayez rien dit, une carte ou trois, sur *vous*. Ce que vous retenez, ce que vous évitez, ce que le mot « attendre » remplace. Il n’a pas d’étapes, et il ne promet pas de retrouvailles. Il se termine parfois par quelqu’un qui pose le jeu et passe un coup de fil qu’il repoussait depuis des mois. C’est une plus belle issue que « l’union ».
+Aucune ne parle de l’autre personne. Toutes parlent de celle qui est assise en face de moi. C’est le tirage que je fais : sans que vous m’ayez rien dit, une carte ou trois, sur *vous*. Ce que vous retenez, ce que vous évitez, ce que le mot « attendre » remplace. Il n’a pas d’étapes, et il ne promet pas de retrouvailles. Il se termine parfois par quelqu’un qui pose le jeu et passe un coup de fil repoussé depuis des mois. C’est une plus belle issue que « l’union ».
 
 ## Si c’est votre histoire {#si-cest-vous}
 
