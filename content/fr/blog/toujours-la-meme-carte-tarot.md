@@ -1,6 +1,6 @@
 ---
 title: "Pourquoi je tire toujours la même carte ? Trois explications"
-description: "Pourquoi vous tirez toujours la même carte : le mélange, ce que votre mémoire retient, et le thème autour duquel vous tournez — et que faire la prochaine fois qu’elle sort."
+description: "Pourquoi vous tirez toujours la même carte : le mélange, ce que votre mémoire retient, le thème autour duquel vous tournez — et que faire quand elle ressort."
 translationKey: "post-same-tarot-card-keeps-coming-up"
 type: blog
 date: 2026-10-24
@@ -15,7 +15,7 @@ Quand la même carte revient encore et encore, il y a trois explications, et ell
 
 ## Première explication : le mélange {#le-melange}
 
-Les cartes sont des objets. Un jeu neuf colle. Le mélange « à la française », par petits paquets d’une main à l’autre, déplace les cartes en blocs, si bien que les voisines restent souvent voisines. Une carte un peu cornée, usée sur la tranche ou souvent à l’envers se coupe plus facilement, parce qu’elle laisse un petit jour. Si vous mélangez de la même façon et coupez au même endroit tous les matins, vous aidez les mêmes cartes à revenir.
+Les cartes sont des objets. Un jeu neuf colle. Le mélange le plus courant, par petits paquets qu’on fait passer d’une main à l’autre, déplace les cartes en blocs, si bien que les voisines restent souvent voisines. Une carte un peu cornée, usée sur la tranche ou souvent à l’envers se coupe plus facilement, parce qu’elle laisse un petit jour. Si vous mélangez de la même façon et coupez au même endroit tous les matins, vous aidez les mêmes cartes à revenir.
 
 Vient ensuite le calcul, qui surprend presque tout le monde. Tirez une carte par jour dans un jeu complet de 78, bien mélangé. Au bout de deux semaines, la probabilité qu’au moins une carte soit déjà sortie deux fois est d’environ sept sur dix. Au bout d’un mois, une répétition est quasi certaine, et il y a à peu près quatre chances sur dix qu’une carte soit sortie trois fois. Tirez trois cartes chaque matin pendant un mois, et il y a environ neuf chances sur dix qu’une carte apparaisse quatre fois ou plus.
 
@@ -27,7 +27,7 @@ Commencez donc par là. Changez de mélange pendant une semaine : étalez les ca
 
 Vous retenez la carte qui compte pour vous et oubliez les vingt qui sont passées. Si la Tour vous fait peur, chaque Tour compte ; le Deux de Pentacles passe sans qu’on le remarque. C’est la mémoire sélective ordinaire, et les tarologues l’ont aussi.
 
-Le test, c’est de compter. Notez chaque carte tirée pendant un mois, avec la date, dans un carnet — la même habitude que je décris dans [tenir un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/). À la fin, regardez le vrai décompte. Parfois, la carte dont vous étiez sûr qu’elle vous poursuivait est sortie deux fois, comme plusieurs autres que vous n’aviez pas remarquées. Parfois, elle est vraiment sortie plus souvent que les autres. Dans les deux cas, vous le saurez au lieu de le ressentir.
+Le test, c’est de compter. Notez chaque carte tirée pendant un mois, avec la date, dans un carnet — la même habitude que je décris dans [tenir un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/). À la fin, regardez le vrai décompte. Parfois, la carte qui semblait vous poursuivre est sortie deux fois, comme plusieurs autres que vous n’aviez pas remarquées. Parfois, elle est vraiment sortie plus souvent que les autres. Dans les deux cas, vous le saurez au lieu de le ressentir.
 
 Ne prenez pas mes mots pour une vérité absolue. Testez, et faites-en l’expérience vous-même.
 

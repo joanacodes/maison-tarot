@@ -1,6 +1,6 @@
 ---
 title: "Tarot card combinations: how to read two cards together (with 20 pairs)"
-description: "Tarot card combinations, read without a dictionary: how to read two cards together through number, element and colour, then 20 pairs worked through, from Tower to Star."
+description: "Tarot card combinations without a dictionary: how to read two cards together through number, element and colour, then 20 pairs worked through, Tower to Star."
 translationKey: "post-tarot-card-combinations"
 type: blog
 date: 2026-10-24

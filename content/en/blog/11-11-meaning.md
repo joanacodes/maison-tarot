@@ -28,10 +28,12 @@ The readings people give it vary. The best known is a custom many of us learned 
 There are three ways to read it, and they don’t contradict each other.
 
 - The 1, four times. In the cycle I teach, 1 is the initiator, the rough diamond, the start of something. Its advice is humility: get ready to learn.
-- The 11. Many numerologists call it a master number and leave it as it is. I reduce it the way I reduce the major arcana: 1 + 1 = 2. And [number 2](/library/numerology/number-2/) is cooperation between two parties, a contract, a bond. Its advice: read the contract, weigh the pros and cons.
+- The 11. Many numerologists call it a master number and leave it as it is. I reduce it the way I reduce the major arcana: 1 + 1 = 2. And [number 2](/library/numerology/number-2/) is cooperation between two parties, a contract, a bond. Its advice: read the contract, weigh the pros and cons. Its flip side: stubbornness, solitude, the ego digging in.
 - The whole thing. 1 + 1 + 1 + 1 = 4: stability, what’s been built.
 
 I start from the 2, because that’s how I read every 11 in the deck. In the Rider-Waite-Smith, card 11 is [Justice](/library/tarot-cards/justice/): a figure seated between two pillars, a sword raised in one hand, scales in the other. Weighing, then deciding. The 1 is the Magician; the 2 is the High Priestess.
+
+Put together, 11:11 reads as a choice between two things, waiting to be weighed honestly. Say someone keeps seeing it during a week when they’re hesitating between two job offers. The number doesn’t pick one for them. It asks whether they’ve really read both contracts — and what each one would bind them to.
 
 {{< cards "ar11 ar01 ar02" >}}
 

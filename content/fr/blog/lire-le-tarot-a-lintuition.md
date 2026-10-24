@@ -1,6 +1,6 @@
 ---
 title: "Lire le tarot à l’intuition (et pouvoir quand même vérifier)"
-description: "Lire le tarot à l’intuition, c’est dire ce qui vient avant de savoir si c’est juste, puis vérifier. Comment lâcher prise, que faire quand rien ne vient, et pourquoi y aller doucement."
+description: "Lire le tarot à l’intuition : dire ce qui vient avant de savoir si c’est juste, puis vérifier. Lâcher prise, que faire quand rien ne vient, pourquoi aller doucement."
 translationKey: "post-read-tarot-intuitively"
 type: blog
 date: 2026-10-24
