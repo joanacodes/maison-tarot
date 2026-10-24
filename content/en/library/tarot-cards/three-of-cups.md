@@ -1,6 +1,6 @@
 ---
 title: 'Three of Cups — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'Three of Cups in the Rider-Waite-Smith tarot: three women dance with raised cups over a harvest. Read it through number three, Water and colour: friendship that works.'
+description: 'Three of Cups in the Rider-Waite-Smith tarot: three women dance with raised cups over a harvest. Read it through three, Water and colour: friendship that works.'
 translationKey: card-cu03
 type: cards
 navTitle: Three of Cups

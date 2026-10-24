@@ -1,6 +1,6 @@
 ---
 title: 'Six of Cups — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'Six of Cups in the Rider-Waite-Smith tarot: a boy hands a girl a cup of white flowers in a quiet courtyard. Read it through six, Water, yellow and the Sun in Scorpio.'
+description: 'Six of Cups in the Rider-Waite-Smith tarot: a boy hands a girl a cup of white flowers in a courtyard. Read it through six, Water, yellow and Sun in Scorpio.'
 translationKey: card-cu06
 type: cards
 navTitle: Six of Cups

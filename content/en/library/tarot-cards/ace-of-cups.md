@@ -58,7 +58,7 @@ The advice of [number one](/library/numerology/number-1/) is humility: get ready
 
 The Cups are [Water](/library/four-elements/water-element/): emotions, relationships, what feeds you from the inside. Water carries you from A to B when you let it, and it can drown you. In the Ace it’s pure source. It hasn’t chosen a riverbed yet; it runs over the rim on every side without aiming at anyone.
 
-Moving water means strong emotions, and this water is all movement. That’s why the Ace of Cups so often comes out for people who feel something before they can name it. The card doesn’t say who the feeling is for. It says the tap is open.
+Moving water means strong emotions, and this water is all movement. That’s why the Ace of Cups speaks to people who feel something before they can name it. The card doesn’t say who the feeling is for. It says the tap is open.
 
 ## By colours {#colours}
 
@@ -76,7 +76,7 @@ So astrology adds little to this card, and that is the information: the feeling 
 
 Upright, the Ace of Cups is **a feeling that’s been offered — the question is whether you hold out your hand.** A new attraction, a friendship starting, a reconciliation, a creative urge that comes from the heart rather than the head. Sometimes it’s plain relief: the moment you can laugh, or cry, again. It talks about a start, not an outcome.
 
-Reversed, the cup tips the other way. Either the feeling is held back — you sense something and keep the lid on because it’s too soon, too risky, too much — or it pours out with nobody to receive it, and you give until the cup is empty. I ask which one it is; people usually know within a sentence.
+Reversed, the cup tips the other way. Either the feeling is held back — you sense something and keep the lid on because it’s too soon, too risky, too much — or it pours out with nobody to receive it, and you give until the cup is empty. I ask which one it is rather than guessing.
 
 Next to the [Four of Cups](/library/tarot-cards/four-of-cups/), it’s the same hand from a cloud — and someone who doesn’t look up. Next to the [Two of Cups](/library/tarot-cards/two-of-cups/), the feeling finds its answer: someone holds out a cup in return. Next to [the Star](/library/tarot-cards/the-star/), another card where water is poured freely, it’s hope coming back after a hard stretch.
 

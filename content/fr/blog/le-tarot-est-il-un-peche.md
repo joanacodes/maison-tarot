@@ -1,6 +1,6 @@
 ---
 title: "Le tarot est-il un péché ? Tarot et religion, par quelqu’un qui a grandi entre deux"
-description: "Le tarot est-il un péché ? Tout dépend de qui répond, et la vraie question est souvent plus intime que la doctrine. Ce que disent les traditions, et ce que j’ai vu chez moi."
+description: "Le tarot est-il un péché ? Tout dépend de qui répond, et la vraie question est souvent plus intime. Ce que disent les traditions, et ce que j’ai vu chez moi."
 translationKey: "post-tarot-sin"
 type: blog
 date: 2026-10-24
