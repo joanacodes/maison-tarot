@@ -3,7 +3,7 @@ title: 'Chiron en astrologie et au tarot : ce qu’il dit dans un thème, sa car
   ce que le test a montré'
 description: 'Chiron lu comme clé de lecture du tarot : sa carte (L’Ermite), le signe
   qu’il régit (aucun signe — un astéroïde), ce qu’il décrit dans un thème astral,
-  et son résultat au test de l’hôte — 75 à 90 %.'
+  et son résultat dans mon test — 75 à 90 %.'
 translationKey: body-chiron
 type: library
 navTitle: Chiron
@@ -48,6 +48,6 @@ Pas d’attribution ancienne. La Maison le lit avec l’Ermite, arcane IX : celu
 
 **75 à 90 % au test.** Le troisième des trois placements qui ont tenu. La Maison remarque que Saturne, Lilith et Chiron parlent tous d’une difficulté — la leçon, le caché, la blessure — et que c’est peut-être ce que les gens savent le mieux d’eux-mêmes. Elle s’en sert pour une chose : rappeler qu’un bon lecteur lit avec sa propre blessure, pas malgré elle.
 
-Rappel du cadre : l’hôte a vérifié son thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
+Rappel du cadre : j’ai vérifié mon thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
 
 {{% six %}}

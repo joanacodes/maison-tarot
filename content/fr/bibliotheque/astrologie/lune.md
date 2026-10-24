@@ -3,7 +3,7 @@ title: 'La Lune en astrologie et au tarot : ce qu’elle dit dans un thème, sa 
   et ce que le test a montré'
 description: 'La Lune lu comme clé de lecture du tarot : sa carte (La Grande Prêtresse),
   le signe qu’il régit (Cancer), ce qu’il décrit dans un thème astral, et son résultat
-  au test de l’hôte — un peu plus d’une fois sur trois.'
+  dans mon test — un peu plus d’une fois sur trois.'
 translationKey: body-moon
 type: library
 navTitle: La Lune
@@ -48,6 +48,6 @@ La Grande Prêtresse, arcane II, par la tradition Golden Dawn : la lune à ses p
 
 Un peu plus d’un tiers au test, mais avec un biais : c’est le placement dont la personne dit le plus facilement « oui, c’est ça », parce qu’il décrit ce qu’elle sait déjà d’elle. La Maison s’en sert comme clé sur les cartes d’Eau, pas comme portrait.
 
-Rappel du cadre : l’hôte a vérifié son thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
+Rappel du cadre : j’ai vérifié mon thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
 
 {{% six %}}

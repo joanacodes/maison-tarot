@@ -2,8 +2,8 @@
 title: 'Neptune en astrologie et au tarot : ce qu’il dit dans un thème, sa carte,
   et ce que le test a montré'
 description: 'Neptune lu comme clé de lecture du tarot : sa carte (Le Pendu), le signe
-  qu’il régit (Poissons), ce qu’il décrit dans un thème astral, et son résultat au
-  test de l’hôte — difficile à tester.'
+  qu’il régit (Poissons), ce qu’il décrit dans un thème astral, et son résultat dans
+  mon test — difficile à tester.'
 translationKey: body-neptune
 type: library
 navTitle: Neptune
@@ -46,6 +46,6 @@ Le Pendu, arcane XII : suspendu, la tête en bas, voyant le monde autrement. Par
 
 Difficile à tester, et la Maison est prudente avec lui pour une raison précise : c’est le placement dont on se sert le plus pour excuser ce qu’on ne veut pas regarder. « C’est mon Neptune. » Non. La Maison le lit comme le Pendu : un point de vue à retourner, pas une brume à habiter.
 
-Rappel du cadre : l’hôte a vérifié son thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
+Rappel du cadre : j’ai vérifié mon thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
 
 {{% six %}}

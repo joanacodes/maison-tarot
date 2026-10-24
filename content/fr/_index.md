@@ -3,11 +3,11 @@ title: "Apprendre à lire le tarot — sessions, ateliers, événements"
 description: "Maison Tarot : une maison où l’on apprend à lire les cartes, en français, depuis Paris. Sessions, ateliers, événements gratuits. Une méthode documentée : 300 tirages à l’aveugle, chiffres publiés."
 translationKey: home
 h1: "Les cartes ne sont pas magiques. <em>Vous</em>, si."
-lede: "Une maison où l’on apprend à lire le tarot — puis où l’on découvre qu’on n’avait pas besoin des cartes. Sessions, ateliers, événements gratuits, depuis Paris. Et une hôte qui compte ses erreurs."
+lede: "Une maison où l’on apprend à lire le tarot — puis où l’on découvre qu’on n’avait pas besoin des cartes. Sessions, ateliers, événements gratuits, depuis Paris. Et je compte mes erreurs."
 ctaPrimary: { label: "Voir les ateliers", ref: "/ateliers" }
 ctaSecondary: { label: "Lire la méthode", ref: "/methode" }
 heroImage: "hero.jpg"
-heroAlt: "L’hôte de la Maison, cartes en main, dans une pièce boisée"
+heroAlt: "Une tarologue, cartes en main, dans une pièce boisée"
 ticker: ["Les cartes ne sont pas magiques. Vous, si.", "Ne vous forcez pas.", "Ne prenez pas mes mots pour une vérité : testez.", "Faites une pause avec vos cartes.", "Demystify mysticism."]
 statement: "Une école, une bibliothèque, un salon de thé. <em>Pas de gourou.</em>"
 stepsTitle: "On essaie d’abord. On explique <em>après</em>."
@@ -17,7 +17,7 @@ steps:
   - { title: "Vous lisez avec une clé de lecture", text: "Les couleurs, le nombre, l’élément. Une seule à la fois. La carte se met à parler sans que vous l’ayez apprise.", image: "step-2.jpg", alt: "Une carte, un carnet, une note" }
   - { title: "On compare", text: "Vous lisez, je lis, on regarde ce qui colle et ce qui ne colle pas. Le moment où vous vous dites « je sais faire ça » — c’est le but.", image: "step-3.jpg", alt: "Deux personnes penchées sur un tirage" }
 offers:
-  - kicker: "seul·e avec l’hôte · 60 min · visio"
+  - kicker: "en tête-à-tête avec moi · 60 min · visio"
     title: "Sessions"
     text: "Une heure, dans votre fuseau. Vous payez la leçon ; une lecture peut y servir de matière — jamais d’oracle."
     cta: "Voir les sessions"
@@ -57,6 +57,6 @@ whereTitle: "Où la Maison reçoit, en français"
 ---
 Bienvenue à Maison Tarot. Ici, on apprend à lire les cartes, on vérifie si ça marche, et on garde ce qui tient.
 
-Il y a une hôte. Elle a fait 300 tirages pour des inconnus qui ne lui disaient rien, elle a compté, et elle publie ses chiffres — y compris ses erreurs. Elle ne vend pas de don, parce qu’elle n’en a pas que vous n’ayez pas. Elle enseigne une méthode : des clés de lecture pour lire une carte que vous n’avez jamais vue, sans mémoriser les 78.
+J’ai fait 300 tirages pour des inconnus qui ne me disaient rien, j’ai compté, et je publie mes chiffres — y compris mes erreurs. Je ne vends pas de don, parce que je n’en ai pas que vous n’ayez pas. J’enseigne une méthode : des clés de lecture pour lire une carte que vous n’avez jamais vue, sans mémoriser les 78.
 
 La Maison a des règles. Pas de hiérarchie entre lecteurs, pas de dépendance, pas de gourou. Vous êtes la personne qui décide ; les cartes ne sont qu’un écran. Le but, écrit noir sur blanc : que vous n’ayez plus besoin de nous.

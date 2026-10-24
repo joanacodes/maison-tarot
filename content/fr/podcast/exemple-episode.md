@@ -1,12 +1,12 @@
 ---
 # ÉPISODE EXEMPLE — pour visualiser la mise en page. À supprimer quand le premier vrai épisode est publié.
 title: "Épisode exemple — Ce que 300 tirages à l’aveugle m’ont appris sur le fait de se tromper"
-description: "Un épisode exemple pour voir la page. L’hôte sur la règle du silence, le carnet de comptage, et la fois sur dix où ça rate."
+description: "Un épisode exemple pour voir la page. Je parle de la règle du silence, du carnet de comptage, et de la fois sur dix où ça rate."
 translationKey: ep-demo
 type: podcast
 date: 2026-09-01
 episode: 0
-guest: "l’hôte"
+guest: "Maison Tarot"
 duration: "38 min"
 image: "cover.jpg"
 audio: ""

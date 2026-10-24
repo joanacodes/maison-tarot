@@ -3,7 +3,7 @@ title: 'Pluton en astrologie et au tarot : ce qu’il dit dans un thème, sa car
   ce que le test a montré'
 description: 'Pluton lu comme clé de lecture du tarot : sa carte (Le Jugement), le
   signe qu’il régit (Scorpion), ce qu’il décrit dans un thème astral, et son résultat
-  au test de l’hôte — difficile à tester.'
+  dans mon test — difficile à tester.'
 translationKey: body-pluto
 type: library
 navTitle: Pluton
@@ -46,6 +46,6 @@ Le Jugement, arcane XX : les tombes qui s’ouvrent, l’appel, ce qui se relèv
 
 Difficile à tester en tant que tel. Mais la Maison note que Lilith et Chiron — deux points liés à ce que Pluton décrit, la blessure et l’ombre — ont tenu 75 à 90 % au test. Pluton est peut-être trop grand pour une seule vie ; ses petits cousins parlent mieux.
 
-Rappel du cadre : l’hôte a vérifié son thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
+Rappel du cadre : j’ai vérifié mon thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
 
 {{% six %}}

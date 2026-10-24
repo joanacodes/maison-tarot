@@ -34,4 +34,4 @@ Texte. **Une chose à retenir par section, en gras.** Au moins une donnée chiff
 
 Au moins deux liens internes — [la méthode](/fr/methode/), [les ateliers](/fr/ateliers/) — et un lien externe vers une source sérieuse.
 
-{{< quote by="L’hôte" >}}Les cartes ne sont pas magiques. Vous, si.{{< /quote >}}
+{{< quote by="Maison Tarot" >}}Les cartes ne sont pas magiques. Vous, si.{{< /quote >}}

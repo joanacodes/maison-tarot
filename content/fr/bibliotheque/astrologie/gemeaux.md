@@ -60,6 +60,6 @@ Quand les Amoureux sortent, les Gémeaux parlent : un choix entre deux, une conv
 
 ## Ce que la Maison ne dit pas {#limites}
 
-Ce signe n’explique personne. L’hôte a testé son thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)
+Ce signe n’explique personne. J’ai testé mon thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)
 
 {{% six %}}

@@ -46,7 +46,7 @@ translationKey: metro-belgique-charleroi
 ---
 ## Apprendre le tarot depuis Charleroi {#depuis}
 
-Tout ce que la Maison enseigne s’apprend en ligne, en visio, à douze personnes au plus pour les [ateliers](/fr/ateliers/) et seul·e avec l’hôte pour les [sessions](/fr/sessions/). Un atelier en ligne à 19 h, heure de Paris, c’est 19 h à Charleroi. Les créneaux s’affichent automatiquement dans votre fuseau, et les prix en EUR.
+Tout ce que la Maison enseigne s’apprend en ligne, en visio, à douze personnes au plus pour les [ateliers](/fr/ateliers/) et en tête-à-tête avec moi pour les [sessions](/fr/sessions/). Un atelier en ligne à 19 h, heure de Paris, c’est 19 h à Charleroi. Les créneaux s’affichent automatiquement dans votre fuseau, et les prix en EUR.
 
 Vous ne payez jamais une lecture : les lectures ont lieu en [événement](/fr/evenements/), gratuitement. Ce que vous payez, c’est la leçon.
 

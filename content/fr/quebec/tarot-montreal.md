@@ -46,7 +46,7 @@ translationKey: metro-quebec-montreal
 ---
 ## Apprendre le tarot depuis Montréal {#depuis}
 
-Montréal est le meilleur endroit du monde pour apprendre le tarot en français hors de France : une ville francophone, curieuse, et une scène ésotérique vivante. Tout ce que la Maison enseigne s’apprend en ligne, en visio, à douze personnes au plus pour les [ateliers](/fr/ateliers/) et seul·e avec l’hôte pour les [sessions](/fr/sessions/). Un atelier en ligne à 19 h, heure de Paris, c’est 13 h à Montréal. Les créneaux s’affichent automatiquement dans votre fuseau, et les prix en CAD.
+Montréal est le meilleur endroit du monde pour apprendre le tarot en français hors de France : une ville francophone, curieuse, et une scène ésotérique vivante. Tout ce que la Maison enseigne s’apprend en ligne, en visio, à douze personnes au plus pour les [ateliers](/fr/ateliers/) et en tête-à-tête avec moi pour les [sessions](/fr/sessions/). Un atelier en ligne à 19 h, heure de Paris, c’est 13 h à Montréal. Les créneaux s’affichent automatiquement dans votre fuseau, et les prix en CAD.
 
 Vous ne payez jamais une lecture : les lectures ont lieu en [événement](/fr/evenements/), gratuitement. Ce que vous payez, c’est la leçon.
 

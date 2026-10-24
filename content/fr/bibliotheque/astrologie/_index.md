@@ -1,13 +1,13 @@
 ---
 title: "Astrologie et tarot : les 12 signes du zodiaque et leur carte, testés plutôt que crus"
-description: "Chaque signe astrologique correspond à une carte du tarot Rider-Waite-Smith : Bélier l’Empereur, Taureau l’Impératrice, Gémeaux les Amoureux, Cancer la Grande Prêtresse, Lion la Force, Vierge l’Ermite, Balance la Justice, Scorpion la Mort, Sagittaire Tempérance, Capricorne le Diable, Verseau l’Étoile, Poissons la Lune. La table complète, avec verbe, planète, élément, mode et couleur — et ce que le test de l’hôte a montré."
+description: "Chaque signe astrologique correspond à une carte du tarot Rider-Waite-Smith : Bélier l’Empereur, Taureau l’Impératrice, Gémeaux les Amoureux, Cancer la Grande Prêtresse, Lion la Force, Vierge l’Ermite, Balance la Justice, Scorpion la Mort, Sagittaire Tempérance, Capricorne le Diable, Verseau l’Étoile, Poissons la Lune. La table complète, avec verbe, planète, élément, mode et couleur — et ce que mon test a montré."
 translationKey: lib-astrology
 navTitle: "Astrologie"
 type: library
 weight: 60
 short: "Signes et planètes"
 h1: "L’astrologie comme clé de lecture, <em>pas comme croyance</em>."
-lede: "L’hôte de la Maison est venue à l’astrologie pour s’en moquer. Elle a testé son thème case par case : 30 à 40 % de juste dans l’ensemble, 75 à 90 % pour Saturne, Lilith et Chiron. Alors elle la garde — comme une clé, à poser sur les cartes qui portent un signe, et pas comme une explication du monde."
+lede: "Je suis venue à l’astrologie pour m’en moquer. J’ai testé mon thème case par case : 30 à 40 % de juste dans l’ensemble, 75 à 90 % pour Saturne, Lilith et Chiron. Alors je la garde — comme une clé, à poser sur les cartes qui portent un signe, et pas comme une explication du monde."
 faq:
   - q: "Faut-il connaître l’astrologie pour lire le tarot ?"
     a: "Non. Les couleurs, les éléments et les nombres suffisent à lire le jeu. L’astrologie ajoute une couche sur douze arcanes majeurs et sur les cartes de 2 à 10 ; elle est utile, pas obligatoire."
@@ -33,11 +33,11 @@ faq:
 | Verseau | L’Étoile | Je sais | Uranus, Saturne | Air | Fixe | Masculine | Bleu électrique |
 | Poissons | La Lune | Je crois | Neptune, Jupiter | Eau | Mutable | Féminine | Vert d’eau, violet |
 
-Chaque signe aura sa page, avec ses mots-clés, ses côtés favorables et défavorables, son archétype et son animal — à partir des notes de l’hôte, qui ne sont pas des horoscopes.
+Chaque signe aura sa page, avec ses mots-clés, ses côtés favorables et défavorables, son archétype et son animal — à partir de mes notes, qui ne sont pas des horoscopes.
 
 ## Ce que le test a montré {#le-test}
 
-L’hôte a pris son thème astral et l’a vérifié case par case, comme on vérifie une facture. Dans l’ensemble : 30 à 40 % de juste. Pour trois corps en particulier — Saturne, Lilith, Chiron — 75 à 90 %. C’est peu et beaucoup à la fois : assez pour garder l’astrologie comme clé, pas assez pour lui confier une décision. Le détail est sur la page [Méthode](/fr/methode/), et les articles du blog racontent le test corps par corps.
+J’ai pris mon thème astral et je l’ai vérifié case par case, comme on vérifie une facture. Dans l’ensemble : 30 à 40 % de juste. Pour trois corps en particulier — Saturne, Lilith, Chiron — 75 à 90 %. C’est peu et beaucoup à la fois : assez pour garder l’astrologie comme clé, pas assez pour lui confier une décision. Le détail est sur la page [Méthode](/fr/methode/), et les articles du blog racontent le test corps par corps.
 
 ## Comment poser cette clé sur une carte {#comment}
 

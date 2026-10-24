@@ -14,7 +14,7 @@ faq:
   - q: "Combien de temps faut-il pour apprendre le tarot ?"
     a: "Avec les clés, vous lisez une carte inconnue dès la première heure. Lire *bien* — c’est-à-dire savoir quand vous vous trompez — prend quelques dizaines de tirages comptés. Pas des années."
   - q: "Faut-il un don pour lire les cartes ?"
-    a: "Non. Il n’y a pas d’Élus. Sur 300 tirages gratuits pour des inconnus, l’hôte de la Maison a compté ce qui tenait et ce qui ne tenait pas ; la méthode est publiée, et elle s’apprend."
+    a: "Non. Il n’y a pas d’Élus. Sur 300 tirages gratuits pour des inconnus, j’ai compté ce qui tenait et ce qui ne tenait pas ; la méthode est publiée, et elle s’apprend."
   - q: "Quel jeu de tarot choisir pour débuter ?"
     a: "Le Rider-Waite-Smith de 1909. Chaque carte est une scène qui se lit sans livre, et toute la Bibliothèque est construite dessus."
   - q: "Faut-il lire les cartes renversées ?"
@@ -42,9 +42,9 @@ Prenez une carte au hasard. Avant de chercher son nom, dites ce que vous voyez :
 
 La suite — la phrase à se dire avant, la règle du silence, le carnet pour compter — est dans [Comment lire les cartes de tarot quand on débute](/fr/blog/apprendre-a-lire-le-tarot-debutant/). C’est l’article par lequel commencer.
 
-## Ce que la Maison a vérifié {#verifie}
+## Ce que j’ai vérifié {#verifie}
 
-L’hôte a fait 300 tirages gratuits pour des inconnus qui ne lui disaient rien, et elle a compté. Le résultat — environ neuf fois sur dix, à son décompte, avec les ratés inclus — et la façon de compter sont sur la page [Méthode](/fr/methode/). Vous n’avez pas à la croire : la méthode est là pour que vous la testiez.
+J’ai fait 300 tirages gratuits pour des inconnus qui ne me disaient rien, et j’ai compté. Le résultat — environ neuf fois sur dix, à mon décompte, avec les ratés inclus — et la façon de compter sont sur la page [Méthode](/fr/methode/). Vous n’avez pas à me croire : la méthode est là pour que vous la testiez.
 
 ## Quand vous voulez quelqu’un en face {#en-face}
 

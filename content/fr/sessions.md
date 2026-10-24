@@ -1,11 +1,11 @@
 ---
-title: "Sessions de tarot en visio — une heure, seul·e avec l’hôte"
+title: "Sessions de tarot en visio — une heure, en tête-à-tête avec moi"
 description: "Une session Maison Tarot : une heure en visio, dans votre fuseau, pour apprendre à lire. Vous payez la leçon ; une lecture peut y servir de matière. Divertissement uniquement."
 translationKey: sessions
 type: offer
-eyebrow: "seul·e avec l’hôte"
+eyebrow: "en tête-à-tête avec moi"
 h1: "Une heure pour apprendre à lire, <em>pas pour vous faire lire</em>."
-lede: "Une session, c’est vous, l’hôte, un jeu de cartes et une heure en visio dans votre fuseau. Vous payez la leçon. Si une lecture a lieu, c’est comme matière à travailler — jamais comme oracle."
+lede: "Une session, c’est vous, moi, un jeu de cartes et une heure en visio dans votre fuseau. Vous payez la leçon. Si une lecture a lieu, c’est comme matière à travailler — jamais comme oracle."
 image: "session.jpg"
 imageAlt: "Deux mains posent une carte sur une table en bois, vue de dessus"
 areaServed: ["France", "Belgique", "Suisse", "Luxembourg", "Monaco", "Canada"]
@@ -38,10 +38,10 @@ navTitle: "Sessions"
 ---
 ## Ce que la session n’est pas
 
-Ce n’est pas une consultation de voyance, et ce n’est pas un rendez-vous où quelqu’un décide pour vous. L’hôte lit ; vous décidez. Tout ce qui est dit pendant une session est proposé à des fins de divertissement, et vous restez responsable de vos choix — c’est écrit partout, parce que c’est vrai.
+Ce n’est pas une consultation de voyance, et ce n’est pas un rendez-vous où quelqu’un décide pour vous. Je lis ; vous décidez. Tout ce qui est dit pendant une session est proposé à des fins de divertissement, et vous restez responsable de vos choix — c’est écrit partout, parce que c’est vrai.
 
 ## Pour qui
 
-Pour les curieux, les candides, les gens qui posent des questions et qui ne boivent pas les paroles de l’hôte comme une vérité. Si vous voulez vous sentir au-dessus des autres parce que vous connaissez un peu les cartes, ce n’est pas la bonne maison. Si vous cherchez quelqu’un qui remplace votre thérapeute, non plus.
+Pour les curieux, les candides, les gens qui posent des questions et qui ne boivent pas mes paroles comme une vérité. Si vous voulez vous sentir au-dessus des autres parce que vous connaissez un peu les cartes, ce n’est pas la bonne maison. Si vous cherchez quelqu’un qui remplace votre thérapeute, non plus.
 
 {{< todo >}}À COMPLÉTER par vous — un paragraphe sur ce qu’on ressent pendant, et le cadre que vous demandez : au calme, personne d’autre dans la pièce, un jeu de cartes sous la main.{{< /todo >}}

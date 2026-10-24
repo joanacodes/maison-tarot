@@ -3,7 +3,7 @@ title: 'Vénus en astrologie et au tarot : ce qu’il dit dans un thème, sa car
   ce que le test a montré'
 description: 'Vénus lu comme clé de lecture du tarot : sa carte (L’Impératrice), le
   signe qu’il régit (Taureau et Balance), ce qu’il décrit dans un thème astral, et
-  son résultat au test de l’hôte — environ une fois sur trois.'
+  son résultat dans mon test — environ une fois sur trois.'
 translationKey: body-venus
 type: library
 navTitle: Vénus
@@ -46,6 +46,6 @@ L’Impératrice, arcane III : Vénus est inscrite sur son bouclier, littéralem
 
 Un tiers de juste, et une règle : la Maison ne lit pas « est-ce qu’il m’aime » avec Vénus ni avec autre chose. Vénus sert à lire une carte de Coupes — le Deux de Coupes est régi par Vénus, et ça se voit — pas à prédire un sentiment.
 
-Rappel du cadre : l’hôte a vérifié son thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
+Rappel du cadre : j’ai vérifié mon thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
 
 {{% six %}}

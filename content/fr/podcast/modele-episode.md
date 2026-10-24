@@ -1,7 +1,7 @@
 ---
 # MODÈLE d'épisode — copier vers <slug>.md, remplir, passer draft à false. Ajouter `start:` (date) pour annoncer un épisode à venir avec compte à rebours.
 title: "Lire pour des inconnus : ce que 300 tirages à l’aveugle m’ont appris"
-description: "L’hôte sur la règle du silence, le carnet de comptage, et la fois sur dix où ça rate."
+description: "Je parle de la règle du silence, du carnet de comptage, et de la fois sur dix où ça rate."
 translationKey: ep-example
 type: podcast
 draft: true

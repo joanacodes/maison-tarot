@@ -3,7 +3,7 @@ title: 'Lilith en astrologie et au tarot : ce qu’elle dit dans un thème, sa c
   et ce que le test a montré'
 description: 'Lilith lu comme clé de lecture du tarot : sa carte (Le Diable), le signe
   qu’il régit (aucun signe — un point, pas un astre), ce qu’il décrit dans un thème
-  astral, et son résultat au test de l’hôte — 75 à 90 %.'
+  astral, et son résultat dans mon test — 75 à 90 %.'
 translationKey: body-lilith
 type: library
 navTitle: Lilith
@@ -47,6 +47,6 @@ Pas d’attribution Golden Dawn — Lilith est postérieure au système. La Mais
 
 **75 à 90 % au test.** Avec Saturne et Chiron, le placement qui a le mieux tenu — souvent le plus dur à dire à voix haute, parce que la personne le savait et n’avait jamais entendu quelqu’un le dire. La Maison lit Lilith avec précaution : c’est une clé qui ouvre une porte fermée exprès. On frappe avant.
 
-Rappel du cadre : l’hôte a vérifié son thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
+Rappel du cadre : j’ai vérifié mon thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
 
 {{% six %}}

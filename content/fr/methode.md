@@ -4,7 +4,7 @@ description: "Avant chaque tirage, je me dis que je vais dire n’importe quoi, 
 translationKey: method
 eyebrow: "la méthode"
 h1: "Je m’attends à dire n’importe quoi, et la personne ne me dit <em>rien</em>."
-lede: "C’est la page la plus importante de la Maison, et l’hôte l’écrit elle-même. En attendant, la structure, les chiffres, et ce qu’elle ne prétend pas."
+lede: "C’est la page la plus importante de la Maison, et je l’écris moi-même. En attendant, la structure, les chiffres, et ce que je ne prétends pas."
 navTitle: "Méthode"
 ---
 {{< short-answer >}}
@@ -43,7 +43,7 @@ Agissez sur ce que vous ressentez, pas sur ce qui a été dit pendant une lectur
 
 ## Ce que je ne prétends pas
 
-C’est sur la page des avertissements, avec tout le reste, parce qu’on a décidé d’arrêter de le répéter partout : [ce que l’hôte ne prétend pas](/fr/avertissements/#pretentions).
+C’est sur la page des avertissements, avec tout le reste, parce qu’on a décidé d’arrêter de le répéter partout : [ce que je ne prétends pas](/fr/avertissements/#pretentions).
 
 ## Et maintenant ?
 

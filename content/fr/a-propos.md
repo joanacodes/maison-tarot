@@ -1,13 +1,13 @@
 ---
-title: "À propos — la Maison, et son hôte"
-description: "Maison Tarot est une maison ; l’hôte y enseigne à lire les cartes. Venue à l’astrologie pour s’en moquer, 300 tirages à l’aveugle plus tard, elle publie ses chiffres."
+title: "À propos — Maison Tarot, et moi"
+description: "Maison Tarot est une maison où je vous apprends à lire les cartes. Je suis venue à l’astrologie pour m’en moquer ; 300 tirages à l’aveugle plus tard, je publie mes chiffres."
 translationKey: about
 eyebrow: "à propos"
-h1: "Une maison, une hôte, et aucun <em>don</em>."
-lede: "Maison Tarot est une maison : une école, une bibliothèque, un salon de thé, une pièce qui sent le bois et les plantes. L’hôte y vit. Elle vous accueille, elle vous apprend à lire, et elle compte ses erreurs."
+h1: "Une maison, une enseignante, et aucun <em>don</em>."
+lede: "Maison Tarot est une maison : une école, une bibliothèque, un salon de thé, une pièce qui sent le bois et les plantes. J’y vis. Je vous accueille, je vous apprends à lire, et je compte mes erreurs."
 navTitle: "À propos"
 ---
-## L’hôte
+## Qui je suis
 
 Je m’appelle {{< todo >}}[Prénom Nom — dans hugo.toml]{{< /todo >}}. Je lis le tarot depuis Paris, en français et en anglais, et surtout je l’enseigne.
 

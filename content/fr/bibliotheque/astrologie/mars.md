@@ -2,8 +2,8 @@
 title: 'Mars en astrologie et au tarot : ce qu’il dit dans un thème, sa carte, et
   ce que le test a montré'
 description: 'Mars lu comme clé de lecture du tarot : sa carte (La Tour), le signe
-  qu’il régit (Bélier), ce qu’il décrit dans un thème astral, et son résultat au test
-  de l’hôte — un peu moins d’une fois sur deux.'
+  qu’il régit (Bélier), ce qu’il décrit dans un thème astral, et son résultat dans mon
+  test — un peu moins d’une fois sur deux.'
 translationKey: body-mars
 type: library
 navTitle: Mars
@@ -46,6 +46,6 @@ La Tour, arcane XVI : la foudre, la couronne qui tombe, ce qui s’effondre d’
 
 Un peu moins d’une fois sur deux : mieux que la moyenne. La Maison lit Mars comme la Tour et l’Empereur ensemble — la même force, selon qu’elle a un plan ou non. Sur une carte de Bâtons, Mars dit la vitesse ; sur une carte d’Épées, la dureté.
 
-Rappel du cadre : l’hôte a vérifié son thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
+Rappel du cadre : j’ai vérifié mon thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
 
 {{% six %}}

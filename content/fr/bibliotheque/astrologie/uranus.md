@@ -2,8 +2,8 @@
 title: 'Uranus en astrologie et au tarot : ce qu’il dit dans un thème, sa carte, et
   ce que le test a montré'
 description: 'Uranus lu comme clé de lecture du tarot : sa carte (Le Mat), le signe
-  qu’il régit (Verseau), ce qu’il décrit dans un thème astral, et son résultat au
-  test de l’hôte — difficile à tester.'
+  qu’il régit (Verseau), ce qu’il décrit dans un thème astral, et son résultat dans
+  mon test — difficile à tester.'
 translationKey: body-uranus
 type: library
 navTitle: Uranus
@@ -46,6 +46,6 @@ Le Mat, arcane 0 : le pas au-dessus du vide, le départ que rien ne justifie. Pa
 
 Difficile à tester : ce qu’Uranus décrit arrive rarement au moment où l’on vérifie. La Maison s’en sert pour lire le Mat — le saut — et ne lui demande rien de plus.
 
-Rappel du cadre : l’hôte a vérifié son thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
+Rappel du cadre : j’ai vérifié mon thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
 
 {{% six %}}
