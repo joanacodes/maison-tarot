@@ -1,6 +1,6 @@
 ---
 title: "La lune dans le tarot : ce que le symbole veut dire, et les cartes où elle apparaît"
-description: "La lune dans le tarot Rider-Waite-Smith : la lumière de la nuit, l’intuition, ce qui change et ce qui se cache. Les cinq cartes où elle est dessinée, et comment la lire."
+description: "La lune dans le tarot Rider-Waite-Smith : lumière de la nuit, intuition, ce qui change et se cache. Les cinq cartes où elle est dessinée, et comment la lire."
 translationKey: "sym-moon"
 type: library
 navTitle: "La lune"

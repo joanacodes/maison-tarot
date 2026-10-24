@@ -1,6 +1,6 @@
 ---
 title: "The stars in tarot: what the symbol means, and the cards where it appears"
-description: "The stars in the Rider-Waite-Smith tarot: a far light you steer by. The cards where they’re drawn, from the Star to the Devil and the Pentacles, and how to read them."
+description: "The stars in the Rider-Waite-Smith tarot: a far light you steer by. The cards where they’re drawn, from the Star to the Pentacles, and how to read them."
 translationKey: "sym-stars"
 type: library
 navTitle: "The stars"

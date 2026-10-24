@@ -1,6 +1,6 @@
 ---
 title: "Le soleil dans le tarot : ce que le symbole veut dire, et les cartes où il apparaît"
-description: "Le soleil dans le tarot Rider-Waite-Smith : la lumière, la chaleur, le fait d’être vu. Les six cartes où il est dessiné, du Mat à la Mort, et ce qu’il ajoute à un tirage."
+description: "Le soleil dans le tarot Rider-Waite-Smith : lumière, chaleur, le fait d’être vu. Les six cartes où il est dessiné, du Mat à la Mort, et ce qu’il ajoute à un tirage."
 translationKey: "sym-sun"
 type: library
 navTitle: "Le soleil"
