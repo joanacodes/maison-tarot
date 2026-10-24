@@ -19,7 +19,7 @@ My first reading for a stranger happened on a Discord group I’d found through 
 
 A few months after I started, I was reading in Facebook tarot groups too, including lives: one person at a time, in front of the others. Groups like these exist because people want readings and readers want practice, and both sides know it.
 
-Before you offer, read the group’s rules about readings, and say that you’re learning. Groups tend to welcome beginners who are honest about it far more than beginners who pretend.
+Before you offer, read the group’s rules about readings, and say that you’re learning. Being honest about where you are is the surest way to be welcome, and it takes the pressure off you too.
 
 ## Letters to strangers {#letters}
 
@@ -31,7 +31,7 @@ One man wrote back asking whether I could read minds, or whether I was a magicia
 
 ## Friends and family, with the rules {#friends}
 
-At first I read for around a hundred people, before the long run of blind readings for strangers. I also made my own friends and family try reading for each other, which is how I found out I wanted to teach. Friends are willing, patient and honest. Their one problem is that you know their lives: you can’t always tell whether you’re reading the card or remembering last Sunday’s conversation.
+At first I read for around a hundred people, before the long run of blind readings for strangers. I also made my own friends and family try reading, which is how I found out I wanted to teach. Friends are willing, patient and honest. Their one problem is that you know their lives: you can’t always tell whether you’re reading the card or remembering last Sunday’s conversation.
 
 So ask them for two things. First, tell you nothing — not the question, not even the area of life. Second, be honest afterwards, including “no, that doesn’t fit at all”. A friend who says yes to everything to be nice is a kind friend and a useless check. Why I hold to the first rule so firmly is in [the silence rule](/blog/the-silence-rule/).
 
