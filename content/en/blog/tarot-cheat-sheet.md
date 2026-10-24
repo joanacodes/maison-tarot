@@ -20,10 +20,10 @@ Start with colour, because it asks for no knowledge at all. Look at the colour t
 | Colour | What it says |
 |---|---|
 | Red | Passion, action, strength, impulse |
-| Orange | Creativity, dryness, desire |
+| Orange | Creativity, dryness, libido |
 | Yellow | Joy, optimism, pride, the inner child, will |
 | Green | Nature, growth, birth, prosperity |
-| Blue | Emotions, water, making clean, vitality |
+| Blue | Emotions, water, purifying, vitality |
 | White | Purity, innocence, peace |
 | Black | Absence, emptiness, dark thoughts, reality |
 | Grey | Neutrality, no particular will, stability |

@@ -53,7 +53,7 @@ To be honest about it, the old fear didn't vanish with the scythe. Waite's own l
 
 Look at the Marseille card without its title and what you see is someone mowing, with plants growing between the bones. That's very close to my own note on this card: Death is linked to the harvest and to starting again, like someone who has lost their goal and wants to make life fertile again. You cut what's ripe so the field can be sown.
 
-Look at the Rider-Waite-Smith card and you read DEATH before you notice the rising sun or the child looking up. People react to the word, then sometimes never get to the drawing.
+Look at the Rider-Waite-Smith card and you read DEATH before you notice the sun on the horizon or the child looking up. People react to the word, then sometimes never get to the drawing.
 
 The lenses help either way. Thirteen reduces to 1 + 3 = 4, and [the number 4](/library/numerology/number-4/) is foundations, structure — with a minus side: carrying on when you should stop. Death answers that minus. It's a Water card, slow rather than sudden, and the Golden Dawn tradition gives it Scorpio. All of this is on [the Death card page](/library/tarot-cards/death/).
 

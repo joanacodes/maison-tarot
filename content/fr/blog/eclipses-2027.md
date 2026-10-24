@@ -25,7 +25,7 @@ Une éclipse solaire, c’est la Lune qui passe entre la Terre et le Soleil et e
 | Lundi 2 août | Solaire totale | 9°55′ Lion | 12 h 07 | Totalité du sud de l’Espagne à la Somalie. Partielle en France |
 | Mardi 17 août | Lunaire par la pénombre | 24°12′ Verseau | 9 h 14 | Amériques et Pacifique. Pas depuis la France |
 
-Le « maximum », c’est l’instant où l’éclipse est la plus profonde quelque part sur Terre, pas l’heure où vous la verrez chez vous. Le 20 février, la Lune ne fait qu’effleurer l’ombre : vers minuit et quart, vous verrez peut-être un léger voile gris sur un bord. Celle de juillet est si faible qu’on parle parfois de presque-éclipse.
+Le « maximum », c’est l’instant où l’éclipse est la plus profonde quelque part sur Terre, pas l’heure où vous la verrez chez vous. Le 20 février, la Lune passe juste à côté du cœur sombre de l’ombre : vers minuit et quart, vous verrez peut-être un voile gris sur un bord. Celle de juillet est si faible qu’on parle parfois de presque-éclipse.
 
 Les heures viennent des [tables d’éclipses de la NASA pour 2027](https://eclipse.gsfc.nasa.gov/OH/OH2027.html) ; les signes sont les positions astrologiques habituelles, identiques dans les éphémérides que j’ai consultées.
 
@@ -41,7 +41,7 @@ Depuis la France, l’éclipse est partielle. À Paris, elle commence vers 10 h 
 
 En astrologie, une éclipse solaire se lit comme une nouvelle lune au volume poussé : un début, souvent un qu’on n’avait pas prévu. Une éclipse lunaire se lit comme une pleine lune au volume poussé : quelque chose arrive à son terme ou se referme. Les éclipses viennent par saisons ; en 2027, elles tombent en février et entre fin juillet et août.
 
-L’axe dont les astrologues vont parler, c’est le [Lion](/fr/bibliotheque/astrologie/lion/) et le [Verseau](/fr/bibliotheque/astrologie/verseau/) : les deux éclipses solaires et l’éclipse lunaire d’août s’y trouvent. Le verbe du Lion, c’est « je veux » : l’expression de soi, la fierté, le cœur qui a besoin d’être vu. Celui du Verseau, « je sais » : le groupe, les idées, ce qui vient. Lus ensemble, ils parlent du tiraillement entre moi et nous. Si vous aimez donner une carte à chaque signe, la tradition de la Golden Dawn place la Force sur le Lion et l’Étoile sur le Verseau.
+L’axe dont les astrologues vont parler, c’est le [Lion](/fr/bibliotheque/astrologie/lion/) et le [Verseau](/fr/bibliotheque/astrologie/verseau/) : les deux éclipses solaires et l’éclipse lunaire d’août s’y trouvent. Le verbe du Lion, c’est « je vais » : l’expression de soi, la fierté, le cœur qui a besoin d’être vu. Celui du Verseau, « je sais » : le groupe, les idées, ce qui vient. Lus ensemble, ils parlent du tiraillement entre moi et nous. Si vous aimez donner une carte à chaque signe, la tradition de la Golden Dawn place la Force sur le Lion et l’Étoile sur le Verseau.
 
 {{< cards "ar08 ar17" >}}
 
@@ -55,7 +55,7 @@ Je préfère faire l’inverse : un tirage par saison, noté, puis les cartes re
 
 ## Un tirage tout en douceur pour les éclipses de 2027 {#tirage}
 
-Trois cartes, une fois en février et une fois en août. Pas à chaque éclipse, ni tous les jours de la saison.
+Trois cartes, une fois en février et une fois en août. Pas à chaque éclipse, ni chaque jour.
 
 1. *Qu’est-ce qui est prêt à se terminer tout seul ?* La carte lunaire : quelque chose qui a fait son temps.
 2. *Qu’est-ce qui commence sans bruit ?* La carte solaire : un début que vous n’avez peut-être pas encore remarqué.

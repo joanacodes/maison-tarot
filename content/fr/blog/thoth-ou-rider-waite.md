@@ -36,7 +36,7 @@ Huit des 22 majeurs changent de nom, et deux changent de numéro. Les noms du Th
 | XX Le Jugement | XX The Aeon (l’Éon) |
 | XXI Le Monde | XXI The Universe (l’Univers) |
 
-Lust en XI et Adjustment en VIII, c’est l’ordre ancien, celui du tarot de Marseille ; c’est Waite qui les avait intervertis en 1909. Les nouveaux noms contiennent déjà une interprétation. « Ajustement » évoque moins un tribunal que « Justice » : un équilibre qui se cherche, plutôt qu’un verdict qui tombe. « Art » pour Tempérance met l’accent sur le mélange, sur le fait de fabriquer.
+Lust en XI et Adjustment en VIII, c’est l’ordre ancien, celui du tarot de Marseille ; c’est le Rider-Waite-Smith qui les avait intervertis en 1909, à la suite de la Golden Dawn. Les nouveaux noms contiennent déjà une interprétation. « Ajustement » évoque moins un tribunal que « Justice » : un équilibre qui se cherche, plutôt qu’un verdict qui tombe. « Art » pour Tempérance met l’accent sur le mélange, sur le fait de fabriquer.
 
 Dans le Rider-Waite-Smith, voici les lames dont le nom change le plus :
 

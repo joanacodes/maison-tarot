@@ -17,7 +17,7 @@ People to read for are easier to find than you’d think: online groups where pe
 
 My first reading for a stranger happened on a Discord group I’d found through Tumblr. I asked who wanted a reading, someone said yes, and I had nothing but a username. The reading came out about a relationship; she said it didn’t resonate, because she wasn’t looking for one. Three or four days later she texted me, shocked: it had all happened. I tell the whole story in [my first reading was “wrong”](/blog/first-tarot-reading-story/).
 
-A few months after I started, I was reading in Facebook tarot groups too, including lives: one person at a time, in front of the others. Groups like these exist because people want readings and readers want practice, and both sides know it.
+A few months after I started, I was reading in Facebook tarot groups too, and doing lives there. Groups like these exist because people want readings and readers want practice, and both sides know it.
 
 Before you offer, read the group’s rules about readings, and say that you’re learning. Being honest about where you are is the surest way to be welcome, and it takes the pressure off you too.
 
@@ -25,7 +25,7 @@ Before you offer, read the group’s rules about readings, and say that you’re
 
 The most unusual place I practised was a pen-pal app. I wrote “letters” to strangers who had asked for messages, and the message came from the cards.
 
-Writing is a good school. You have no face to watch and no reaction to adjust to, so you can’t steer by the person’s expression. It’s the silence rule in its purest form.
+Writing is a good school. You have no face to watch and no reaction to adjust to, so you can’t steer by the person’s expression. It’s the silence rule in its purest form. If you try it, keep each letter short — the cards you drew, what you see, what you receive — and ask for a reply, even two lines. Without one, your notebook has no second column.
 
 One man wrote back asking whether I could read minds, or whether I was a magician. It made me laugh. It’s also a fair question from someone who has received a letter about his life from a person he’s never met — which is one more reason to say clearly, from the start, what you’re doing and why.
 
@@ -55,6 +55,6 @@ If you’d rather practise somewhere set up for it, Maison Tarot runs [free even
 
 ## Before the first person sits down {#before-you-start}
 
-You don’t need to be ready. Every person I’ve helped to read managed it on the first to third try, and you’ll learn more from ten real readings than from a hundred alone. Until you find your first person, the drills in [practising tarot with nobody to read for](/blog/practise-tarot-alone/) will keep your eye sharp.
+You don’t need to be ready. Every person I’ve helped to read managed it on the first to third try, and a handful of real readings will teach you things that practice alone can’t. Until you find your first person, the drills in [practising tarot with nobody to read for](/blog/practise-tarot-alone/) will keep your eye sharp.
 
 When someone says yes, the basics of reading for another person with care are in [how to read tarot for someone else](/blog/read-tarot-for-someone-else/).

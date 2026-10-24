@@ -35,7 +35,7 @@ La croix celtique a l’air du « vrai » tarot, alors on s’y lance le deuxiè
 
 ### 5. Chercher le sens avant de regarder la carte
 
-On tire, on jette un œil, on attrape son téléphone. La carte n’a aucune chance. Dites d’abord ce que vous voyez, à voix haute et avec des mots de tous les jours — « un homme qui porte trop de bâtons, tête baissée, la ville encore loin » — et ensuite seulement ouvrez le livre, si vous en avez encore besoin. Vous serez surpris de voir combien de fois vous l’aviez déjà dit.
+On tire, on jette un œil, on attrape son téléphone. La carte n’a aucune chance. Dites d’abord ce que vous voyez, à voix haute et avec des mots de tous les jours — « un homme qui porte trop de bâtons, la tête enfouie dans le fagot, une maison plus très loin » — et ensuite seulement ouvrez le livre, si vous en avez encore besoin. Vous serez surpris de voir combien de fois vous l’aviez déjà dit.
 
 {{< cards "wa10" >}}
 

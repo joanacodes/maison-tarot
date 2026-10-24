@@ -30,7 +30,7 @@ None of these stages needs a gift, a certificate or 78 memorised meanings. They 
 
 Draw one card and ask it three questions: which colour takes up the most room, what number is it, which element does it belong to. Then say one sentence that joins the three. That's a reading. The [three-question cheat sheet](/blog/tarot-cheat-sheet/) gives you the grid.
 
-Say the card is the Nine of Pentacles: yellow nearly everywhere, a nine, Earth. Joy, the home stretch, material things. “You're near the end of a long effort, and starting to enjoy what it's brought you.” You didn't need to know the card's name to say that.
+Say the card is the Nine of Pentacles: a yellow sky over green vines, a nine, Earth. Joy resting on something that grows, the home stretch, material things. “You're near the end of a long effort, and starting to enjoy what it's brought you.” You didn't need to know the card's name to say that.
 
 {{< cards "pe09" >}}
 

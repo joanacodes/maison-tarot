@@ -35,7 +35,7 @@ The Celtic Cross looks like real tarot, so people try it on day two. Ten cards t
 
 ### 5. Looking it up before looking at it
 
-Draw, glance, reach for the phone. The card never gets a chance. Say what you see first, out loud and in plain words — “a man carrying too many sticks, head down, the town still far away” — and only then open the book, if at all. You'll be surprised how often you'd already said it.
+Draw, glance, reach for the phone. The card never gets a chance. Say what you see first, out loud and in plain words — “a man carrying too many sticks, head buried in the bundle, a house not far ahead” — and only then open the book, if at all. You'll be surprised how often you'd already said it.
 
 {{< cards "wa10" >}}
 

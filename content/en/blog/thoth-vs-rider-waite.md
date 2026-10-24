@@ -36,7 +36,7 @@ Eight of the 22 majors are renamed, and two of them change number.
 | XX Judgement | XX The Aeon |
 | XXI The World | XXI The Universe |
 
-Lust at XI and Adjustment at VIII is the older order, the one of the Tarot de Marseille; it's Waite who had swapped them in 1909. The new names already carry an interpretation. “Adjustment” sounds less like a courtroom than “Justice”: balance being found, rather than a verdict handed down. “Art” for Temperance puts the accent on mixing and making.
+Lust at XI and Adjustment at VIII is the older order, the one of the Tarot de Marseille; it's the Rider-Waite-Smith that had swapped them in 1909, following the Golden Dawn. The new names already carry an interpretation. “Adjustment” sounds less like a courtroom than “Justice”: balance being found, rather than a verdict handed down. “Art” for Temperance puts the accent on mixing and making.
 
 In the Rider-Waite-Smith, these are the cards whose names change most:
 

@@ -51,7 +51,7 @@ Smith elle-même a été oubliée pendant des décennies ; des expositions comme
 
 ## Pourquoi j’enseigne avec ce jeu {#pourquoi-ce-jeu}
 
-Parce que les clés de lecture que j’enseigne se lisent directement sur le dessin. Le ciel jaune derrière le Mat et le Magicien dit la joie et la volonté avant même que vous connaissiez leur nom. Le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/) est, dans mes notes, la carte la plus lourde du jeu : la perte, l’émotion sombre, la solitude face à ses problèmes. Et pourtant Smith a dessiné deux coupes encore debout derrière la silhouette en cape noire, et un pont qui mène à une maison. Vous voyez le moins et le plus d’un seul regard.
+Parce que les clés de lecture que j’enseigne se lisent directement sur le dessin. Le ciel jaune derrière le Mat et le Magicien dit la joie et la volonté avant même que vous connaissiez leur nom. Le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/) est, dans mes notes, la carte la plus lourde du jeu : la perte, l’émotion sombre, la solitude face à ses problèmes. Et pourtant Smith a dessiné deux coupes encore debout derrière la silhouette en cape noire, et un pont sur la rivière. Vous voyez le moins et le plus d’un seul regard.
 
 C’est ce qu’une scène apporte à un débutant : quelque chose de juste à dire avant d’avoir appris quoi que ce soit par cœur. Les cartes ne sont pas magiques, vous l’êtes — mais un bon dessin aide à démarrer.
 
@@ -59,4 +59,4 @@ La limite, honnêtement : le Rider-Waite-Smith n’est ni plus ancien, ni plus p
 
 ## Et maintenant {#et-maintenant}
 
-Si vous choisissez votre premier jeu, j’explique [pourquoi je fais commencer tout le monde par le Rider-Waite-Smith](/fr/blog/quel-jeu-de-tarot-choisir/), et quelles éditions chercher. Si vous en avez déjà un et que vous avez envie d’un jeu plus déroutant, [le tarot de Thoth](/fr/blog/thoth-ou-rider-waite/) est souvent l’étape suivante — celle où la plupart des scènes disparaissent.
+Si vous choisissez votre premier jeu, j’explique [pourquoi je fais commencer tout le monde par le Rider-Waite-Smith](/fr/blog/quel-jeu-de-tarot-choisir/). Si vous en avez déjà un et que vous avez envie d’un jeu plus déroutant, [le tarot de Thoth](/fr/blog/thoth-ou-rider-waite/) est souvent l’étape suivante — celle où la plupart des scènes disparaissent.

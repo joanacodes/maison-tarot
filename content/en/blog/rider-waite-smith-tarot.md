@@ -51,7 +51,7 @@ Smith herself was largely forgotten for decades; exhibitions such as the one [Pr
 
 ## Why I teach with it {#why-i-teach-with-it}
 
-Because the lenses I teach read straight off the drawing. The yellow sky behind the Fool and the Magician says joy and will before you know either card's name. The [Five of Cups](/library/tarot-cards/five-of-cups/) is, in my notes, the heaviest card in the deck: losing, dark emotion, alone with your problems. And yet Smith drew two cups still standing behind the cloaked figure, and a bridge leading to a house. You see the minus and the plus in one glance.
+Because the lenses I teach read straight off the drawing. The yellow sky behind the Fool and the Magician says joy and will before you know either card's name. The [Five of Cups](/library/tarot-cards/five-of-cups/) is, in my notes, the heaviest card in the deck: losing, dark emotion, alone with your problems. And yet Smith drew two cups still standing behind the cloaked figure, and a bridge across the river. You see the minus and the plus in one glance.
 
 That's what a scene gives a beginner: something true to say before you've memorised anything. Cards aren't magic, you are — but a good drawing helps you get started.
 
@@ -59,4 +59,4 @@ The honest limit: the Rider-Waite-Smith isn't older, purer or more “authentic�
 
 ## Where to go from here {#next-step}
 
-If you're choosing your first deck, I explain [why I start everyone on the Rider-Waite-Smith](/blog/best-tarot-deck-for-beginners/), and which editions to look for. If you already have one and want to try something stranger, [the Thoth tarot](/blog/thoth-vs-rider-waite/) is where many readers go next — and where most of the scenes disappear.
+If you're choosing your first deck, I explain [why I start everyone on the Rider-Waite-Smith](/blog/best-tarot-deck-for-beginners/). If you already have one and want to try something stranger, [the Thoth tarot](/blog/thoth-vs-rider-waite/) is where many readers go next — and where most of the scenes disappear.

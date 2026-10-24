@@ -25,7 +25,7 @@ A solar eclipse is when the Moon passes between the Earth and the Sun and hides 
 | Monday 2 August | Total solar | 9°55′ Leo | 11:07 BST | Totality from southern Spain to Somalia. Partial in the UK |
 | Tuesday 17 August | Penumbral lunar | 24°12′ Aquarius | 08:14 BST | The Americas and the Pacific. Not from the UK |
 
-“Greatest eclipse” is the moment the eclipse is deepest somewhere on Earth, not the time you'll see it where you live. On 20 February the Moon only grazes the shadow: from the UK you might catch a faint grey shading on one edge around 23:13. The July one is so shallow that some astrologers call it an almost-eclipse.
+“Greatest eclipse” is the moment the eclipse is deepest somewhere on Earth, not the time you'll see it where you live. On 20 February the Moon passes just outside the dark core of the shadow: from the UK you might catch a faint grey shading on one edge around 23:13. The July one is so shallow that some astrologers call it an almost-eclipse.
 
 The times come from [NASA's eclipse tables for 2027](https://eclipse.gsfc.nasa.gov/OH/OH2027.html); the signs are the usual astrological positions, which agree across the ephemerides I checked.
 
@@ -39,7 +39,7 @@ From the UK it's a partial eclipse, in the morning. In London it starts at about
 
 ## What astrologers read in the 2027 eclipses {#signs}
 
-In astrology, a solar eclipse is read as a new moon with the volume turned up: a beginning, often one you didn't plan. A lunar eclipse is read as a full moon turned up: something comes to a head or closes. Eclipses come in seasons, a few weeks apart, and in 2027 the two seasons fall in February and in late July–August.
+In astrology, a solar eclipse is read as a new moon with the volume turned up: a beginning, often one you didn't plan. A lunar eclipse is read as a full moon turned up: something comes to a head or closes. Eclipses come in seasons, two or three within a few weeks, and in 2027 the seasons fall in February and in late July–August.
 
 The axis astrologers will talk about is [Leo](/library/astrology/leo/) and [Aquarius](/library/astrology/aquarius/): both solar eclipses and the August lunar one sit on it. Leo's verb is “I will”: self-expression, pride, the heart that wants to be seen. Aquarius's is “I know”: the group, ideas, what's coming next. Read together, the theme is the pull between me and us. If you like to give each sign a card, the Golden Dawn tradition puts Strength on Leo and the Star on Aquarius.
 

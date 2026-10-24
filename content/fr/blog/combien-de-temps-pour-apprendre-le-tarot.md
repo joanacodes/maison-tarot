@@ -30,7 +30,7 @@ Aucune de ces étapes ne demande de don, de diplôme ni 78 sens appris par cœur
 
 Tirez une carte et posez-lui trois questions : quelle couleur prend le plus de place, quel est son nombre, à quel élément appartient-elle. Puis dites une phrase qui relie les trois. C’est une lecture. [L’antisèche en trois questions](/fr/blog/antiseche-tarot/) vous donne la grille.
 
-Prenons le Neuf de Pentacles : du jaune presque partout, un neuf, la Terre. La joie, la dernière ligne droite, le concret. « Vous arrivez au bout d’un long effort, et vous commencez à profiter de ce qu’il vous a apporté. » Pas besoin de connaître le nom de la carte pour dire ça.
+Prenons le Neuf de Pentacles : un ciel jaune au-dessus de vignes vertes, un neuf, la Terre. La joie posée sur ce qui pousse, la dernière ligne droite, le concret. « Vous arrivez au bout d’un long effort, et vous commencez à profiter de ce qu’il vous a apporté. » Pas besoin de connaître le nom de la carte pour dire ça.
 
 {{< cards "pe09" >}}
 

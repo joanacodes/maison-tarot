@@ -19,11 +19,11 @@ That isn’t modesty. It’s the condition for the cards being useful at all.
 
 A card won’t tell you which option is right. What it does well is shift your attention for a minute, so your usual arguments step aside and something else gets a word in. The more I read, the more I’ve seen the cards work as a way to focus or unfocus, so your own thoughts and biases stop running the show.
 
-Say you’re torn between staying in a job and leaving it, and you draw two cards: the Eight of Cups and the Four of Pentacles.
+Say you’re torn between staying in a job and leaving it, and you draw two cards: the Eight of Cups and the Eight of Pentacles.
 
-{{< cards "cu08 pe04" >}}
+{{< cards "cu08 pe08" >}}
 
-The Eight of Cups is someone walking away from cups they set up themselves — moving on from what you’re already doing. The Four of Pentacles is someone holding on tight: stability, structure, and on its flip side, carrying on when you should stop.
+Both are Eights, the number of mastery and solid ground. The Eight of Cups is someone walking away from cups they stacked themselves — moving on from what you’re already doing. The Eight of Pentacles is someone bent over the bench, coin after coin: mastery, and the effort it still asks. Same number, two directions.
 
 Now notice your body. Which card made your shoulders drop, and which made your jaw tighten? **That reaction is information about you, not a forecast.** It’s often the first honest thing you’ve heard on the subject in weeks.
 
