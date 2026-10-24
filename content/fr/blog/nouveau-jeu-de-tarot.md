@@ -1,6 +1,6 @@
 ---
 title: "Faire connaissance avec un nouveau jeu de tarot : une première semaine plutôt qu’un rituel"
-description: "Apprivoiser un nouveau jeu de tarot en sept courtes séances : regarder, décrire, comparer, tirer pour quelqu’un. Et le tirage d’interview du jeu, en version plus légère."
+description: "Apprivoiser un nouveau jeu de tarot en sept courtes séances : regarder, décrire, comparer, tirer pour quelqu’un. Et l’interview du jeu, en version plus légère."
 translationKey: "post-new-tarot-deck"
 type: blog
 date: 2026-10-24
@@ -58,7 +58,7 @@ C’est l’ordre que j’enseigne pour n’importe quel jeu : une carte par jou
 
 Beaucoup de jeux vendus aujourd’hui suivent le Rider-Waite-Smith de 1909 : mêmes scènes, nouveau style. La question du quatrième jour est la porte d’entrée la plus rapide, carte après carte : qu’est-ce qui a changé ? Un Trois de Coupes peint en bleus et en gris plutôt qu’en jaunes chauds ne se lit pas pareil par la clé de lecture des couleurs, même avec les trois mêmes personnages.
 
-Certains jeux ne sont pas des variantes du tout. En France, beaucoup ont d’abord croisé le tarot de Marseille : ses cartes mineures montrent des symboles de couleur disposés, pas des scènes, alors on s’appuie sur le nombre et la famille plutôt que sur un dessin. Je compare les deux dans [tarot de Marseille ou Rider-Waite-Smith](/fr/blog/tarot-de-marseille-ou-rider-waite/). Le Thoth, peint par Frieda Harris pour Aleister Crowley, est très développé et bien plus occulte — un jeu à explorer plus tard. Si c’est votre premier jeu, je commencerais par le Rider-Waite-Smith, pour les raisons que je donne dans [quel jeu de tarot choisir pour commencer](/fr/blog/quel-jeu-de-tarot-choisir/).
+Certains jeux ne sont pas des variantes du tout. En France, beaucoup ont d’abord croisé le tarot de Marseille : ses cartes mineures montrent des bâtons, des coupes, des épées ou des deniers disposés en motif, pas des scènes, alors on s’appuie sur le nombre et la famille plutôt que sur un dessin. Je compare les deux dans [tarot de Marseille ou Rider-Waite-Smith](/fr/blog/tarot-de-marseille-ou-rider-waite/). Le Thoth, peint par Frieda Harris pour Aleister Crowley, est très développé et bien plus occulte — un jeu à explorer plus tard. Si c’est votre premier jeu, je commencerais par le Rider-Waite-Smith, pour les raisons que je donne dans [quel jeu de tarot choisir pour commencer](/fr/blog/quel-jeu-de-tarot-choisir/).
 
 ## Si le jeu ne vous parle pas {#pas-le-declic}
 

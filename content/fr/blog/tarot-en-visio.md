@@ -1,6 +1,6 @@
 ---
 title: "Le tarot marche-t-il en visio ? Ce que mes lectures en ligne m’ont montré"
-description: "Le tarot marche-t-il en visio ? La plupart de mes lectures se sont faites en ligne, souvent avec un pseudo et une voix. Ce que l’écran change, et ce qu’il ne change pas."
+description: "Le tarot marche-t-il en visio ? Mes lectures se sont faites surtout en ligne, souvent avec un pseudo et une voix. Ce que l’écran change, et ce qu’il laisse intact."
 translationKey: "post-tarot-over-video-call"
 type: blog
 date: 2026-10-24
