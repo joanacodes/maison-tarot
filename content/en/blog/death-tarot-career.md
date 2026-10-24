@@ -19,13 +19,15 @@ The Death card in a career reading doesn’t announce that you’ll lose your jo
 
 The drawing: a skeleton in black armour rides a white horse, carrying a black banner with a white rose. A king lies on the ground, his crown fallen; a bishop stands with joined hands; a young woman turns her face away; a child looks straight up. Behind them, a river, and the sun on the horizon between two towers. At work, those four figures are four ways of meeting change: the one who loses a title, the one who negotiates, the one who can’t look, the one who looks without fear.
 
-The number: 13 becomes 1 + 3 = [4](/library/numerology/number-4/), foundations and structure. Four’s minus is carrying on when you should stop — the job kept out of habit, the project nobody dares to close. Death is the answer to that minus.
+The number: 13 becomes 1 + 3 = [4](/library/numerology/number-4/), foundations and structure. Four’s minus is carrying on when you should stop — the job kept out of habit, the project nobody dares to close. Death is the answer to that minus. In the Instagram story I use for numbers, 4 is the company at its most settled, sure that nothing will ever have to change. At work, Death is the card that disagrees.
 
 The element is Water: feelings, slow and deep. That’s why Death at work is rarely sudden; it’s usually the end of something that had been ending for a while. The colours agree: black for reality and emptying out, white for a clean start, gold where the sun sits. If astrology speaks to you, add Scorpio: transformation carried through, wanted or not. [The Death card’s own page](/library/tarot-cards/death/) lays out each lens.
 
 ## What Death means at work: change, a job ending, retraining {#work}
 
 In a job you’re staying in, Death usually describes a way of working that’s ending. The team is reorganised, the role has quietly become something else — or you have, and the old job description no longer fits. The card asks what you’re still doing out of habit.
+
+Say someone sits down, tells me nothing, and draws Death. Before any meaning: 13, so 4, foundations; Water, feelings; black and white. The sentence I’d say out loud: “Something in your work has finished, even if your contract hasn’t — and you already know which part.” Then I ask whether that lands. If it doesn’t, I note it as a miss and leave it there.
 
 When a job is already ending — a contract reaching its term, a resignation handed in, a restructuring announced — Death describes the passage: the feelings, the clearing, the odd quiet afterwards. It doesn’t announce an ending that hasn’t happened, and I don’t read it that way.
 
