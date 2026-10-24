@@ -1,8 +1,7 @@
 ---
 title: 'Huit de Pentacles (Eight of Pentacles) — tarot Rider-Waite-Smith : lire la
   carte par ses clés de lecture'
-description: 'Huit de Pentacles : ce qu’on voit sur la carte, puis le nombre, l’élément
-  (Terre), les couleurs et Soleil en Vierge. Lire la carte sans l’avoir apprise.'
+description: 'Huit de Pentacles : un artisan qui grave pièce après pièce à son établi. Lire la maîtrise et le travail patient par le 8, la Terre et le Soleil en Vierge.'
 translationKey: card-pe08
 type: cards
 navTitle: Huit de Pentacles
@@ -28,13 +27,12 @@ related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
-- q: Que signifie Huit de Pentacles ?
-  a: 'Il n’y a pas une signification à apprendre : Huit de Pentacles se lit par son
-    nombre (huit), son élément (Terre) et ses couleurs. La page ci-dessus les pose
-    une à une.'
-- q: Huit de Pentacles renversé, ça change quoi ?
-  a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
-    l’endroit, puis ce qui bloque ou déborde.
+- q: 'Que signifie Huit de Pentacles ?'
+  a: 'La maîtrise par la répétition : quelqu’un à l’établi, qui refait le même geste soigné jusqu’à ce qu’il tienne. Le 8 est le nombre de l’empire, la Terre l’élément de la matière : la carte parle d’un travail qui commence à porter ses fruits — et de l’effort qu’il demande encore.'
+- q: 'Huit de Pentacles renversé, ça change quoi ?'
+  a: 'Le même travail, freiné ou excessif. Freiné : le geste fait en pilote automatique, un poste où l’on n’apprend plus rien. Excessif : le perfectionnisme, la même pièce polie pour la dixième fois pendant que la vie attend dehors.'
+- q: 'Que dit le Huit de Pentacles sur le travail ?'
+  a: 'C’est l’une des cartes du travail les plus claires du jeu : une formation, un métier, un projet amélioré pièce après pièce. Elle décrit où en est le travail, pas quel poste prendre ni quoi faire de votre salaire — ces choix vous appartiennent.'
 categories:
 - Pentacles
 tags:
@@ -45,28 +43,52 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-{{< todo >}}À ÉCRIRE — décrire le dessin de Pamela Colman Smith, détail par détail : personnages, objets, posture, ce qui manque.{{< /todo >}}
+Un jeune homme aux cheveux bouclés est assis sur un banc de bois bas, penché sur son ouvrage. Marteau dans la main droite, ciseau dans la gauche, il grave un pentacle dans un disque calé devant lui. Tunique bleue, tablier noir, chausses rouges. Ses yeux ne quittent pas la pièce.
+
+À droite, un grand poteau de bois porte le travail fini : cinq pentacles accrochés l’un au-dessus de l’autre, un sixième à son pied. Un autre est posé par terre, près de ses pieds. Six de faits, un sous le ciseau, un qui attend : huit.
+
+Derrière lui, presque rien : un ciel gris pâle et, tout petit dans le coin en bas à gauche, une ville aux murs blancs et une tour sur une colline verte — dans son dos. **La carte parle du geste répété jusqu’à devenir maîtrise, et de ce qu’on laisse de côté pendant qu’on le répète.**
 
 ## Par le nombre : huit {#nombre}
 
-**huit — le mouvement, la maîtrise, le fruit du travail.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**huit — le mouvement, la maîtrise, le fruit du travail.** [Le 8, c’est l’empire](/fr/bibliotheque/numerologie/chiffre-8/) : le 4 exalté, la structure devenue force durable. Ma note pour cette carte tient en une ligne — entreprise prospère, maîtrise, effort nécessaire — et la fin compte autant que le début. Couchez un 8 sur le côté et vous obtenez le signe de l’infini au-dessus de la tête du Magicien : le contrôle, un geste qui revient sur lui-même.
+
+Dans l’histoire d’Instagram, le 8, c’est l’application devenue empire. Cette carte en montre la face discrète : les heures à l’établi que personne ne filme.
 
 ## Par l’élément : Terre {#element}
 
-{{< todo >}}À ÉCRIRE — ce que [Terre](/fr/bibliotheque/quatre-elements/element-terre/) apporte ici : de quoi la carte parle.{{< /todo >}}
+Les Pentacles, c’est la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, ce qui a de la valeur à vos yeux, le résultat du travail. Ici, la Terre n’est ni un champ ni un trésor ; c’est un matériau qu’on façonne, avec ténacité, persévérance, endurance.
+
+Le revers de la Terre, c’est l’entêtement, et il habite aussi cette carte : la même pièce, de la même façon, parce que « ça s’est toujours fait comme ça ». Toutes les richesses ne sont pas en or : le savoir-faire qu’il a dans les mains vaut plus que les six pièces du poteau.
 
 ## Par les couleurs {#couleurs}
 
-{{< todo >}}À ÉCRIRE — les couleurs dominantes et ce qu’elles disent avant la carte ([la grille des couleurs](/fr/bibliotheque/couleurs-tarot/)).{{< /todo >}}
+Le ciel est [gris](/fr/bibliotheque/couleurs-tarot/gris/) et occupe la moitié de la carte : neutralité, stabilité, pas de volonté particulière. Rien ne se passe là-haut, et c’est tout l’intérêt — rien ne le distrait. Le tablier noir le dit autrement : l’énergie absorbée, l’esprit vidé, la réalité.
+
+Puis le corps : une tunique bleue pour les émotions apaisées et la vitalité, des chausses rouges pour l’élan, dans les jambes, là où le travail prend appui, et le jaune doré des pièces qui apparaissent une à une.
 
 ## Par l’astrologie : Soleil en Vierge {#astrologie}
 
-{{< todo >}}À ÉCRIRE — Soleil en Vierge, dans la tradition Golden Dawn ; ce que ça ajoute, et si ça vaut la peine de le garder ([astrologie](/fr/bibliotheque/astrologie/)).{{< /todo >}}
+Dans le système de la Golden Dawn, cette carte correspond au Soleil dans le premier décan de la [Vierge](/fr/bibliotheque/astrologie/vierge/), sous le titre « Seigneur de la Prudence ». Le verbe de la Vierge, c’est « j’analyse » — l’ingénieur, l’exécutant hors pair — et le Soleil, ce autour de quoi une vie s’organise. Ensemble : quelqu’un dont le centre est de bien faire les choses.
+
+À garder ici comme petite confirmation : la carte majeure de la Vierge est l’Ermite, et cet homme est un ermite avec un marteau. Si l’[astrologie](/fr/bibliotheque/astrologie/) n’est pas votre clé de lecture, laissez-la de côté ; le nombre et l’élément ont déjà tout dit.
 
 ## En lecture {#lecture}
 
-{{< todo >}}À ÉCRIRE — à l’endroit, renversée, selon les cartes voisines. Une chose à retenir en gras.{{< /todo >}}
+À l’endroit : un travail en cours, et qui avance bien. Une formation, un apprentissage, un métier, un projet amélioré pièce après pièce ; la personne qui reste tard parce qu’elle veut que ce soit juste. **La maîtrise, c’est le même geste bien fait, encore et encore — la carte ne promet pas de raccourci, et n’en a pas besoin.**
+
+Renversée, le même établi, freiné ou excessif. Freiné : le geste fait en pilote automatique, l’apprentissage abandonné à la sixième pièce. Excessif : le perfectionnisme, ou tant d’heures à l’établi que la ville du coin, et les gens qui y vivent, se fondent dans l’horizon.
+
+À côté du [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/), le travail de l’artisan est regardé par d’autres. À côté de [l’Ermite](/fr/bibliotheque/cartes-tarot/l-ermite/), la Vierge deux fois : le retrait pour l’ouvrage, très bien tant qu’il a une fin. À côté du [Mat](/fr/bibliotheque/cartes-tarot/le-mat/), quelque chose qu’on quitte sans plan, et un savoir-faire qu’on apprend en faisant.
+
+{{< cards "pe03 ar09 ar00" >}}
+
+Si la question de fond porte sur l’argent — une augmentation, un placement, quitter un poste —, je comprends qu’elle surgisse avec cette carte. La décision vous appartient ; la carte décrit où en est le travail, et j’explique [comment je lis les Pentacles quand l’argent est sur la table](/fr/blog/tarot-et-argent/).
 
 ## Exemple de tirage {#exemple}
 
-{{< todo >}}À ÉCRIRE — un tirage réel anonymisé : clés de lecture d’abord, phrase dite, ce que la personne a confirmé.{{< /todo >}}
+Mettons qu’une personne s’assoie, ne vous dise rien, et tire le Huit de Pentacles à côté du Sept de Coupes. Les clés de lecture d’abord. Huit puis sept : une maîtrise en construction, puis la réflexion — et, dans mes notes, l’embarras du choix. Terre puis Eau : les mains dans la matière, puis une tête pleine d’envies. Un homme qui ne voit que sa pièce, puis une silhouette face à sept coupes qui flottent dans un nuage.
+
+À voix haute : « Vous savez faire quelque chose bien, et vous le faites. Mais une partie de vous regarde d’autres vies possibles, et n’est pas sûre que l’établi suffise. »
+
+Puis vérifiez : « Est-ce que ça vous parle ? » Si oui, demandez quelle coupe tente le plus la personne. Si non, c’est un raté : dites-le, notez-le, et laissez le jeu où il est.

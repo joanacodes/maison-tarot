@@ -1,7 +1,6 @@
 ---
 title: 'Queen of Pentacles — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'Queen of Pentacles: what’s on the card, then the number, the element
-  (Water of Earth), the colours. Read the card without having learned it.'
+description: 'Queen of Pentacles: a queen under an arch of roses, a coin in her lap, a rabbit nearby. Read care, comfort and smothering through rank, Water of Earth and colour.'
 translationKey: card-pequ
 type: cards
 navTitle: Queen of Pentacles
@@ -28,12 +27,11 @@ related:
 - /library/astrology
 faq:
 - q: What does Queen of Pentacles mean?
-  a: 'There isn’t one meaning to memorise: Queen of Pentacles is read through its
-    number (the Queen), its element (Water of Earth) and its colours. The page above
-    lays them out one by one.'
+  a: 'Care made concrete: someone who makes a home, a team or a garden liveable, and looks after people with practical things — a meal, a warm room, a problem solved. The Queen is inner mastery and Earth is matter, so her care is the kind you can touch.'
 - q: What about Queen of Pentacles reversed?
-  a: The same card, slowed down or in excess. Look first at what the card says upright,
-    then at what blocks or overflows.
+  a: 'The same care, slowed down or overdone. Slowed: the person who looks after everyone forgets to look after themselves, or runs out. Overdone: care turns into control, and protection starts to smother.'
+- q: What does the Queen of Pentacles mean in love?
+  a: 'Warmth, loyalty and a home that feels safe. Reversed or badly surrounded, it can describe someone who gives so much that the relationship starts to feel like a job.'
 categories:
 - Pentacles
 tags:
@@ -43,24 +41,44 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-{{< todo >}}TO WRITE — describe Pamela Colman Smith’s drawing, detail by detail: figures, objects, posture, what’s missing.{{< /todo >}}
+A queen sits outdoors on a carved stone throne, holding a large pentacle in her lap with both hands. Her head is bent towards it, the way you look at something you’re taking care of. She wears a gold crown, a red dress with white sleeves, and a long green veil that falls from the crown down her back to the ground.
+
+An arch of roses and leaves frames the top of the card. Around her: flowering plants, brown earth and grass, blue mountains and water in the distance, a few trees. In the bottom right corner, a rabbit in the grass. The sky is yellow.
+
+She’s on her own land, and she isn’t going anywhere. **The card is about care you can touch: holding what has value close, and letting things grow around you.**
 
 ## By number: the Queen {#number}
 
-**the Queen — inner mastery, welcome.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**the Queen — inner mastery, welcome.** The [Queen](/library/numerology/queen/) is seated: she knows, and has nothing to prove. Every Queen holds her house’s tool like something familiar; this one holds hers like a loaf of bread, or a child. The rank’s advice is to hold without holding on. At her best she welcomes and lets things grow; at her worst she keeps — people, things, worries — and mistakes care for control.
+
+An example everyone knows: the person in a family whose kitchen is always open, who knows who’s coming to Sunday lunch and what they don’t eat. Nobody asked; it’s how she masters her world.
 
 ## By element: Earth {#element}
 
-{{< todo >}}TO WRITE — what [Earth](/library/four-elements/earth-element/) brings here: what the card is about.{{< /todo >}}
+The Queen of Pentacles is Water of Earth: the suit is [Earth](/library/four-elements/earth-element/) — matter, prosperity, what has value for you — and her own share is [Water](/library/four-elements/water-element/): emotions, relationships, hidden strengths. Water in Earth is what makes soil fertile. It turns feeling into something concrete: a meal, a garden, a warm room. Water’s archetype, in my notes, is the warm person you feel at home with. This Queen is that person, with a garden.
+
+The flip side comes from both elements. Earth is stubborn; neglected Water seeps in slowly, like damp in a wall. A Queen who gives everything and never says what she feels can end up exhausted — or holding everyone a little too tight.
 
 ## By colours {#colours}
 
-{{< todo >}}TO WRITE — the dominant colours and what they say before the card ([the colour grid](/library/tarot-colours/)).{{< /todo >}}
+[Red](/library/tarot-colours/red/) is her dress: passion, action, strength. This Queen isn’t passive; she works. [Green](/library/tarot-colours/green/) is her veil and the garden: nature, growth, life, prosperity. Red and green together are also the colours of the roses above her — of anything that grows because someone tends it. The yellow sky adds joy, the white sleeves a touch of peace.
+
+Read before the card: active warmth, growth, and a quiet kind of contentment.
 
 ## In a reading {#reading}
 
-{{< todo >}}TO WRITE — upright, reversed, with neighbouring cards. One thing to remember, in bold.{{< /todo >}}
+Upright: care made practical. Someone who makes a place liveable — a home, a team, a family — and looks after people with real things. It can be a person around you or a state you’re in: grounded, generous, at ease in your body and your home. It isn’t about sex: a man can be this Queen, and many are. **The best care leaves people stronger, not more dependent.**
+
+Reversed, the same care, slowed down or overdone. Slowed: the one who feeds everyone forgets to eat, and the garden goes untended because there’s nothing left to give. Overdone: protection that smothers — my note on the Empress, who can smother with her maternal presence, applies here too — or comfort that becomes the only goal.
+
+Next to [the Empress](/library/tarot-cards/the-empress/), the earth mother twice, and the same question: feeding, or keeping? Next to the [King of Pentacles](/library/tarot-cards/king-of-pentacles/), the household complete: one tends, the other manages. Next to the [Five of Pentacles](/library/tarot-cards/five-of-pentacles/) — two figures in the snow passing a lit church window — her warmth is what’s missing, or what someone needs to ask for.
+
+{{< cards "ar03 peki pe05" >}}
 
 ## A reading, as an example {#example}
 
-{{< todo >}}TO WRITE — a real anonymised spread: lenses first, the sentence said, what the person confirmed.{{< /todo >}}
+Say someone sits down, tells you nothing, and draws the Queen of Pentacles next to the [Four of Swords](/library/tarot-cards/four-of-swords/). Lenses first. Queen then four: inner mastery, then stability — a pause, a structure. Earth then Air: care with the hands, then a mind that needs to stop. A queen holding her coin, then a knight lying on a tomb, hands joined, swords hanging on the wall above him.
+
+Out loud: “You look after a lot of people, and you do it well. These cards are asking who looks after you — and suggesting a rest that isn’t a reward. Only a rest.”
+
+Then check: “Does that sound like you, or like someone close to you?” If it doesn’t, it’s a miss; note it and leave it there.

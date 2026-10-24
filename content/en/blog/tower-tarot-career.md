@@ -66,6 +66,6 @@ These help in the days after a shake.
 1. Don’t decide in the flash. Seven is analysis before action: resigning, accepting, confronting — none of it has to be settled today.
 2. Make two lists: what fell, and what’s still standing — your skills, the people who answer your calls. The second list is usually longer than you expect.
 3. Get the facts in writing: dates, what was said, what’s proposed. Fire makes memory unreliable.
-4. If your contract, your rights or your money are at stake, that’s one for an employment adviser, a union rep or a lawyer. I don’t read on legal cases or money decisions ([what I don’t read, and why](/disclaimers/#refusals)).
+4. If your contract, your rights or your money are at stake, that’s one for an employment adviser, a union rep or a lawyer. I don’t read on ongoing court cases or money decisions ([what I don’t read, and why](/disclaimers/#refusals)).
 5. Take a break from your cards now and then — especially now. Pulling a card every hour after a shock is the shock talking.
 6. When the dust settles, lay three cards: what fell, what’s still standing, what I want to build on it. Read them again in a month. For a fuller layout, my [career spread](/blog/career-tarot-spread/) reads a work decision without letting the cards take it.

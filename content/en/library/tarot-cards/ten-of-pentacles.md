@@ -1,7 +1,6 @@
 ---
 title: 'Ten of Pentacles — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'Ten of Pentacles: what’s on the card, then the number, the element (Earth),
-  the colours and Mercury in Virgo. Read the card without having learned it.'
+description: 'Ten of Pentacles: three generations under a stone arch, two white dogs, ten coins. Read home, legacy and what lasts through 10, Earth and Mercury in Virgo.'
 translationKey: card-pe10
 type: cards
 navTitle: Ten of Pentacles
@@ -28,12 +27,11 @@ related:
 - /library/astrology
 faq:
 - q: What does Ten of Pentacles mean?
-  a: 'There isn’t one meaning to memorise: Ten of Pentacles is read through its number
-    (ten), its element (Earth) and its colours. The page above lays them out one by
-    one.'
+  a: 'Complete wealth at home: a family gathered, something built that is now being handed on. Ten closes a cycle and opens the next, so the card speaks of a legacy — and reminds you that a full house is also a moment.'
 - q: What about Ten of Pentacles reversed?
-  a: The same card, slowed down or in excess. Look first at what the card says upright,
-    then at what blocks or overflows.
+  a: 'The same house, slowed down or overdone. Slowed: everyone is there and nobody talks, or the inheritance weighs more than it gives. Overdone: the cocoon becomes the whole world, and leaving it starts to feel like betrayal.'
+- q: Does the Ten of Pentacles mean money is coming?
+  a: 'Many readers link it to wealth and inheritance, and it’s natural to hope for a windfall. I don’t read on money predictions or decisions; I’d rather look at what the card shows — who is around you, and what is being handed down.'
 categories:
 - Pentacles
 tags:
@@ -44,28 +42,48 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-{{< todo >}}TO WRITE — describe Pamela Colman Smith’s drawing, detail by detail: figures, objects, posture, what’s missing.{{< /todo >}}
+An old man with white hair and beard sits in the foreground, on the left, in a cloak covered in patterns: checks, flowers, little bunches of grapes. Two white dogs come up to him; one lifts its head towards his hand.
+
+Behind him, under a stone archway, a man with his back to us holds a long staff and faces a woman in red, who turns her head towards him. A small child in blue holds on to her dress and puts a hand on one of the dogs. Through the arch: a red house, a tall slim tower, trees, a blue sky. On the stone, on the left, a coat of arms with a castle.
+
+Over the whole scene, ten pentacles are laid out in a pattern that ignores the people: the Tree of Life of the Kabbalah, the diagram the Golden Dawn used to order the whole deck. **The card is a household complete for a moment — three generations, the animals, the house — with the old man at the edge who made it possible.**
 
 ## By number: ten {#number}
 
-**ten — the end of the cycle, transition.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**ten — the end of the cycle, transition.** [Ten is transition](/library/numerology/number-10/): the corridor between two rooms. My note for this card is one of my longest: complete wealth at home, celebration, the whole family present — may be short-lived; if you leave the cocoon, it will still be there.
+
+In the story of Instagram, 10 is the platform turned into something else entirely. Here the cycle of building closes: the house exists, and can be handed on. A ten also tells you to start something else — and the young couple already stand under the arch, turned towards what lies beyond it.
 
 ## By element: Earth {#element}
 
-{{< todo >}}TO WRITE — what [Earth](/library/four-elements/earth-element/) brings here: what the card is about.{{< /todo >}}
+[Earth](/library/four-elements/earth-element/) is matter, value, the result of work — whatever has value for you, money or sentimental. Here both meet: a house, a coat of arms, and also the dogs, the child, the people.
+
+The flip side is Earth’s stubbornness on a family scale: the house that must stay as it is, the trade you’re expected to take over. Not every inheritance is a gift; this card can also describe a cocoon grown a little tight.
 
 ## By colours {#colours}
 
-{{< todo >}}TO WRITE — the dominant colours and what they say before the card ([the colour grid](/library/tarot-colours/)).{{< /todo >}}
+It’s the busiest card of the suit. The archway is [grey](/library/tarot-colours/grey/): stability, a structure that holds without a word. The woman’s dress and the house are red: passion, action, life going on. The sky is blue, and the old man’s cloak is every colour at once, as if a whole life were sewn into it. The ten gold coins float over everything, in nobody’s hands. Read before the card: a solid frame, people alive inside it, value laid over the whole scene.
 
 ## By astrology: Mercury in Virgo {#astrology}
 
-{{< todo >}}TO WRITE — Mercury in Virgo, in the Golden Dawn tradition; what it adds, and whether it’s worth keeping ([astrology](/library/astrology/)).{{< /todo >}}
+In the Golden Dawn system, this card is [Mercury](/library/astrology/mercury/) in the third decan of [Virgo](/library/astrology/virgo/), titled “Lord of Wealth”. Mercury rules Virgo, so here it’s at home: the mind that counts, sorts and passes things on. It’s also the planet of exchange, fitting for a card about what passes between generations. Worth keeping, as a reminder that an inheritance is also a conversation; if astrology isn’t your lens, the number already said transmission.
 
 ## In a reading {#reading}
 
-{{< todo >}}TO WRITE — upright, reversed, with neighbouring cards. One thing to remember, in bold.{{< /todo >}}
+Upright: a home that holds, a family gathered, something built and now handed on. It can be literal — a house, a family business, a celebration with everyone present — or a feeling: belonging to something older and larger than you. **A full house is a moment, not a fortress: enjoy it, and know you can leave and find it still there.**
+
+Reversed, the same house, slowed down or overdone. Slowed: everyone is present and nobody talks; the inheritance becomes a weight or a quarrel. Overdone: the cocoon becomes the whole world, and leaving it feels like betrayal.
+
+Many people hope this card means an inheritance or a windfall. I understand: money worries are real, and heavy. But I don’t read on money predictions or decisions — I read; you decide. The card can show who is around you and what’s being passed down; more in [how I read the Pentacles around money](/blog/tarot-cards-for-money/).
+
+Next to the [Ten of Cups](/library/tarot-cards/ten-of-cups/), the same family seen from the heart — in my notes, happiness, family, children. Next to the [Eight of Cups](/library/tarot-cards/eight-of-cups/), someone walks out of the full house: the cocoon left, and still there. Next to the [Four of Pentacles](/library/tarot-cards/four-of-pentacles/), the house kept rather than handed on.
+
+{{< cards "cu10 cu08 pe04" >}}
 
 ## A reading, as an example {#example}
 
-{{< todo >}}TO WRITE — a real anonymised spread: lenses first, the sentence said, what the person confirmed.{{< /todo >}}
+Say someone sits down, tells you nothing, and draws the Ten of Pentacles next to the Page of Wands. Lenses first. Ten then Page: a cycle closing, then a student starting something. Earth then Fire: a house that holds, then a new urge. Three generations under an archway, then a young man alone in a desert, looking up at a wand that sprouts leaves.
+
+Out loud: “Something at home is complete, and it’s good. And someone young, maybe you, wants to try something of their own. It doesn’t have to be a break.”
+
+Then check: “Does that speak to you?” If nothing fits, it’s a miss — say so, note it, and don’t draw another card to rescue it.

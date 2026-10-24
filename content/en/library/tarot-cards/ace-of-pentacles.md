@@ -50,7 +50,7 @@ There’s nobody in the garden: no one to take the coin, no one on the path. **T
 
 ## By number: one {#number}
 
-**one — the beginning, the rough diamond.** [Number one](/library/numerology/number-1/) is the initiator, the start of a cycle: something precious that can’t be used yet. On a Pentacles card the rough diamond is almost literal. A coin, a resource, a concrete opening whose real value nobody knows yet — a job offer, a first client, a deposit, a plot to dig.
+**one — the beginning, the rough diamond.** [Number one](/library/numerology/number-1/) is the initiator, the start of a cycle: something precious that can’t be used yet. On a Pentacles card the rough diamond is almost literal. A coin, a resource, a concrete opening whose real value nobody knows yet — a job offer, a first client, a plot to dig.
 
 The advice of 1, in my notes, is humility: get ready to learn. Its minus is the lack of it — treating the coin as a fortune already made, when we’re all students our whole life. In the Instagram story, this is Burbn becoming Instagram: two people keep the one feature that works and start again with something small enough to fit in one hand.
 
@@ -62,13 +62,13 @@ Earth is also tenacity and endurance — and stubbornness. A Pentacles beginning
 
 ## By colours {#colours}
 
-The pentacle is [gold](/library/tarot-colours/gold-and-brown/): value earned, matter, what you can keep. The hand is white — something clean, not handled yet. The sky is grey, and in my grid grey is neutrality: the card doesn’t push you either way. At the bottom, green grass and a green hedge: nature, growth, prosperity. The red flowers add a touch of desire; the blue mountains, far off, are where the path leads.
+The pentacle is [gold](/library/tarot-colours/gold-and-brown/): value earned, matter, what you can keep. The hand is white — something clean, not handled yet. The grey sky is neutral: the card doesn’t push you either way. At the bottom, green grass and a green hedge: nature, growth, prosperity. The red flowers add a touch of desire; the blue mountains, far off, are where the path leads.
 
 Read the colours before the card and you already have: something valuable, offered cleanly, above ground where things can grow.
 
 ## By astrology: Root of Earth {#astrology}
 
-In the Golden Dawn tradition, the Aces get no planet and no sign. Each one is the root of its element — here, the Root of the Powers of Earth: Earth whole, before it’s shared out among Taurus, Virgo and Capricorn, whose decans go to the Two to the Ten. That’s why this heading names no planet.
+In the Golden Dawn tradition, the Aces get no planet and no sign. Each one is the root of its element — here, the Root of the Powers of Earth: Earth whole, before it’s shared out among Taurus, Virgo and Capricorn, whose decans go to the Two to the Ten.
 
 What it adds is one idea: the Ace holds the whole suit in seed, and every Pentacle after it grows from this coin. Keep it if [astrology](/library/astrology/) speaks to you; the number and the element have already said the essential.
 
@@ -76,7 +76,7 @@ What it adds is one idea: the Ace holds the whole suit in seed, and every Pentac
 
 Upright, the Ace of Pentacles is a concrete start: an offer, an opening, a resource arriving, a project that finally has a base. **It shows something real being held out — not whether the person will take it, nor what it will be worth.** The hand on the card is open; the person’s hand still has to close.
 
-Reversed, the same coin slows down or slips. The offer is there and nobody takes it: hesitation, a gate seen and not walked through, an opportunity left on the palm until it’s gone. In excess, it’s a 1 without humility — the fortune spent before anything has grown.
+Reversed, the same coin slows down or slips: hesitation, a gate seen and not walked through, an opportunity left on the palm until it’s gone. In excess, it’s a 1 without humility — the fortune spent before anything has grown.
 
 People often bring money questions to this card, and I understand why: it looks like money arriving. I don’t read on money decisions. Whether to accept, sign or invest stays with you, and with an adviser who can see your figures. What the card can show is how you’re meeting the offer — often the more useful half ([how I read the Pentacles around money](/blog/tarot-cards-for-money/)). In love, it’s something solid to build on: [the Ace of Pentacles in love](/blog/ace-of-pentacles-tarot-love/) has its own article.
 

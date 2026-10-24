@@ -1,0 +1,74 @@
+---
+title: "Les questions à éviter au tarot, et celles à poser à la place"
+description: "Santé, décès, grossesse, procès, argent, les autres : les questions à éviter au tarot, pourquoi elles font plus de mal que de bien, et une plus douce pour chacune."
+translationKey: "post-questions-to-avoid-asking-tarot"
+type: blog
+date: 2026-10-24
+categories: ["Tirages"]
+tags: ["questions à poser au tarot", "questions à éviter au tarot", "question tirage tarot", "comment formuler une question au tarot", "déontologie tarot", "tarot et santé"]
+image: "covers/questions-to-avoid-asking-tarot.jpg"
+imageAlt: "Deux tasses de thé sur une table de cuisine, une chaise reculée, un jeu de cartes fermé posé entre les deux"
+imagePrompt: "Two cups of tea on a kitchen table, one chair pulled back, a closed deck of cards lying between the cups. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
+summary: "Les questions à éviter au tarot sont les plus lourdes : la santé, la mort, la grossesse, les procédures en cours, les décisions d’argent, et ce que pense ou fera quelqu’un qui n’est pas là. On les pose par peur ou par amour, et cela mérite de l’attention. Mais une carte ne voit pas l’intérieur d’un corps, ne lit ni un dossier ni un contrat, et ne parle pas à la place d’un autre ; sur ces sujets, une phrase de travers fait de vrais dégâts. Chacune a une question plus douce qu’une carte peut porter — sur l’attente, sur vous, sur ce que vous pouvez faire maintenant — et un professionnel pour le reste."
+---
+Je ne lis pas sur la santé, la mort, la grossesse, les procès, les décisions d’argent, ni sur ce que pense quelqu’un qui n’est pas dans la pièce. Ces questions-là, on les apporte parce qu’on a peur, ou parce qu’on aime quelqu’un, et ça mérite autre chose qu’une porte fermée. Alors pour chacune, voici pourquoi les cartes ne sont pas le bon outil, et la question que je poserais à la place.
+
+## Pourquoi certaines questions ne regardent pas les cartes {#pourquoi}
+
+Une carte lit un moment, en images. Elle ne pose pas de diagnostic, ne plaide pas, ne lit pas un contrat, n’entre pas dans la tête de quelqu’un d’autre. Ces sujets figurent sur [la liste de ce que je ne lis pas](/fr/avertissements/#refus), et ce n’est pas par pudeur.
+
+Le risque n’est pas qu’aucune carte ne tombe. Il en tombe toujours une. Le risque, c’est ce qu’une personne inquiète fait de la phrase qui l’accompagne. À mon propre décompte, environ une lecture sur dix rate. Quand la question est « qu’est-ce qui m’occupe cette semaine ? », un raté fait hausser les épaules. Quand la question est « est-ce que cette grosseur est grave ? », un raté peut empêcher quelqu’un de dormir pendant un mois, ou lui faire repousser un rendez-vous.
+
+**Plus la question est lourde, plus un raté coûte cher — et les cartes ne savent pas quelles questions sont lourdes.**
+
+## La santé, la mort et la grossesse {#sante-mort-grossesse}
+
+« Est-ce que je suis malade ? » « L’opération va-t-elle bien se passer ? » « Combien de temps reste-t-il à ma grand-mère ? » « Vais-je tomber enceinte cette année ? »
+
+Derrière chacune, il y a de la peur, de l’amour ou un désir, parfois les trois. Je comprends qu’on veuille une image à tenir pendant qu’on attend. Mais une carte ne voit pas l’intérieur d’un corps. Une Tour tirée la veille d’un scanner peut affoler quelqu’un pour rien ; un Soleil peut le rassurer au point de repousser un examen. Ce sont des questions pour un médecin, une sage-femme, un spécialiste de la fertilité — des gens qui peuvent examiner, mesurer et suivre. J’entre dans le détail de chacune dans [pourquoi un tarologue prudent ne lit pas la santé, la grossesse et les décès](/fr/blog/sante-grossesse-deces-tarot/).
+
+Ce que les cartes peuvent porter, en attendant, c’est l’attente elle-même. Des questions plus douces :
+
+- « Qu’est-ce qui peut m’aider à traverser l’attente des résultats ? »
+- « Comment être présente pour ma grand-mère ce mois-ci ? »
+- « De quoi ai-je besoin pour moi, pendant qu’on essaie ? »
+
+Imaginons quelqu’un qui attend des résultats, pose la première, et tire le Quatre d’Épées.
+
+{{< cards "sw04" >}}
+
+Un chevalier allongé sur un tombeau, dans une église silencieuse, les mains jointes, trois épées au mur au-dessus de lui et une sous lui. La carte ne dit rien des résultats, et c’est très bien ainsi. Elle dit : reposez-vous. Allongez-vous. Arrêtez de livrer une bataille qui n’a pas encore commencé. C’est quelque chose qu’on peut faire ce soir.
+
+## Les procès et les décisions d’argent {#proces-et-argent}
+
+« Vais-je obtenir la garde ? » « Est-ce que je signe ? » « Est-ce que je mets mes économies là-dedans ? »
+
+Ces questions arrivent avec de gros enjeux et, souvent, une échéance. Une lecture qui dit « vous allez gagner » peut faire préparer moins ; une lecture qui dit « vous allez perdre » peut faire abandonner avant l’audience. Et aucune carte n’a lu le compromis de vente. Un avocat lit le dossier ; un conseiller financier, un expert-comptable ou un notaire lit les chiffres. C’est leur métier, et ils en répondent.
+
+Des questions plus douces :
+
+- « Comment rester stable pendant l’audience ? »
+- « Qu’est-ce que j’ai peur de perdre si je dis non ? »
+- « Qu’est-ce que je dois encore comprendre avant de signer ? »
+
+La dernière a tendance à vous renvoyer vers les papiers, et c’est là que se trouve la réponse. Pour lire les Pentacles autour de l’argent sans les laisser trancher, voyez [tarot et argent, les pieds sur terre](/fr/blog/tarot-et-argent/).
+
+## Les questions sur quelqu’un qui n’est pas là {#les-autres}
+
+« Est-ce qu’il me trompe ? » « Qu’est-ce qu’elle pense de moi ? » « Va-t-il revenir ? »
+
+Elles viennent en général de l’amour, de la blessure, ou de cette douleur particulière qu’est le fait de ne pas savoir. Deux raisons pour lesquelles je préfère ne pas les lire. Vous n’aimeriez pas qu’on fouille votre chambre en votre absence, et lire quelqu’un sans son accord, ça y ressemble un peu. Et une personne qui ne sait pas qu’on la lit n’est pas ouverte : on attrape une demi-phrase et on construit une affirmation entière dessus.
+
+Les questions plus douces se retournent vers vous :
+
+- « De quoi ai-je besoin dans cette relation ? »
+- « Que ferais-je si je connaissais déjà la réponse ? »
+- « Comment ai-je envie d’être traitée ? »
+
+La question de l’ex a [un article à elle seule](/fr/blog/va-t-il-revenir-tarot/), parce que c’est celle que j’entends le plus, et celle qui fait le plus mal à force d’être reposée. Et si votre question ne fonctionne qu’en oui ou en non, [voici ce que je propose à la place d’un verdict](/fr/blog/tirage-oui-non-tarot/).
+
+## La question la plus douce, c’est parfois aucune {#aucune-question}
+
+Quand je lis pour quelqu’un, je lui demande une seule chose : ne me dites rien. Ni le sujet, ni la question. Ce qui pèse sur une personne finit en général par sortir tout seul, et quand ça ne sort pas, c’est aussi une information.
+
+Vous pouvez l’essayer de votre côté. La prochaine fois que quelque chose de lourd vous occupe, mélangez sans question, tirez une carte, et regardez de quoi elle parle avant de décider de quoi elle « devrait » parler. Si vous voulez savoir pourquoi ça marche mieux qu’on ne le croit, je l’explique dans [la règle du silence](/fr/blog/regle-du-silence-tarot/).
