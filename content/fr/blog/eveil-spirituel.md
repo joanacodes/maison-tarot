@@ -29,7 +29,7 @@ La mienne a commencé avec une vidéo pick a card de Kloee Taylor. Je l’ai reg
 
 J’appelle ça le début de mon éveil. Je raconte la suite de l’histoire, et ce que je pense que les vidéos pick a card peuvent et ne peuvent pas faire, dans [la vidéo qui m’a fait pleurer](/fr/blog/tirage-pick-a-card/).
 
-Ce qui me frappe aujourd’hui, c’est la banalité des ingrédients : une vidéo enregistrée, une inconnue, un moment où l’on se sent compris. Rien là-dedans ne faisait de moi quelqu’un de spécial. Ça m’a rendue curieuse.
+Ce qui me frappe aujourd’hui, c’est la banalité des ingrédients : une vidéo enregistrée, une inconnue, un moment où l’on se sent compris. Rien là-dedans ne faisait de moi quelqu’un de spécial.
 
 ## Pourquoi je trouve aussi le mot galvaudé {#galvaude}
 

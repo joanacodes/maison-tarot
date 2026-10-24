@@ -33,6 +33,8 @@ The third is about the reader. Some people feel more tired or more emotional aro
 
 The third is the one I'd keep. Not because of the sky, but because the state you read in changes a reading far more than the date does.
 
+And if waiting feels right to you, wait. Nothing is lost by leaving the deck in its box for a fortnight; a question you postpone is still there when you come back to it.
+
 ## What actually changes during an eclipse {#what-changes}
 
 The noise changes. Eclipse weeks come with videos and posts announcing that something big is on its way, and people who usually draw one card a week start drawing several a day. Each new card is one more chance to frighten yourself.
@@ -40,6 +42,8 @@ The noise changes. Eclipse weeks come with videos and posts announcing that some
 Say you draw [the Tower](/library/tarot-cards/the-tower/) during an eclipse week. Some will tell you it counts double. It doesn't. The Tower during an eclipse is the same Tower as on any other Tuesday: something built on a weak base comes down, suddenly, and leaves room for something sturdier. Its number, its element and its colours haven't moved.
 
 {{< cards "ar16" >}}
+
+What a reading can hold in eclipse season is what it holds in any week: how you feel about a change that's already under way, what you'd like to let close, where your energy is going. What it can't do any better than usual is tell you the date something will happen.
 
 Nor does your deck soak anything up. Cards aren't magic, you are. There's nothing to [cleanse afterwards](/blog/cleanse-tarot-deck/): if a reading felt heavy, it's you who needs a rest, not the cards.
 

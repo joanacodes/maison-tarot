@@ -11,7 +11,7 @@ imageAlt: "A plain wooden wall shelf holding a few closed notebooks and a folded
 imagePrompt: "A plain wooden wall shelf holding a few closed notebooks and a single folded sheet of paper, in a quiet room. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "A reading can be wrong in the part that matters even when some details come true. After my closest friend died of cancer, I asked silently ‘who’s next?’ and heard a man’s voice give another friend’s name and ‘is going to have an accident’. Two weeks later a truck hit her car. She is alive and well. The details landed; what mattered was wrong. That taught me the three ways readings go wrong — timing, interpretation, and plain misses — and gave me a shelf for messages like that one: sceptical, but if it happens, I was warned."
 ---
-A reading can be wrong in the part that matters most, even when some of its details come true. The clearest lesson I’ve had about that didn’t come from a card. It came from a voice, in grief, and I still think about it.
+A reading can be wrong in the part that matters most, even when some of its details come true. The clearest lesson I’ve had about that didn’t come from a card. It came from a voice, in a moment of grief.
 
 ## The voice {#the-voice}
 
@@ -98,5 +98,3 @@ If you’re grieving and something like this happens to you, talk to someone —
 The most useful thing I can suggest is a notebook with three columns: what was said, what happened, and when. Readings you give, readings you receive, impressions that arrive on their own — all of it.
 
 After a few months, you’ll see your own pattern of misses. Mine is timing. Yours might be something else, and you can only find it by writing it down. That’s what [a reading notebook](/blog/tarot-journal/) is for: not to prove you were right, but to know how you tend to be wrong.
-
-And on one shelf of it, a short line, with no conclusion attached: she is alive and well.

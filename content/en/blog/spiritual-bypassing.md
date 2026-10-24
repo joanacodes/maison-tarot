@@ -46,7 +46,7 @@ Bypassing is a blindfold we tie ourselves, usually for good reasons. [The Eight 
 
 Because it protects us. The ego, as I see it, isn’t a mean part of you: it tries to make sense of the world and to shield you from its absurdity and its violence. Bypassing is one of its shields. Sometimes it gets you through a week you couldn’t have got through otherwise.
 
-The trouble starts when the shield stays up. Shadow work, as I define it, is dealing with the things you keep pushing away so you can get through daily life — the same things that end up disabling you. What you step around doesn’t disappear. It works like water: a neglected emotion seeps into the foundations slowly, the way damp eats a house from the inside.
+The trouble starts when the shield stays up. Shadow work, as I define it, is dealing with the things you keep pushing away so you can get through daily life — the same things that end up disabling you. What you step around doesn’t disappear. It works like water: a neglected emotion seeps into the foundations slowly, the way mould eats a house from the inside.
 
 ## How to tell a practice from a bypass {#how-to-tell}
 

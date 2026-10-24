@@ -17,7 +17,7 @@ A tarot reading is not an instruction. It can show you something you hadn’t pu
 
 An authority is something whose word you follow even when you don’t agree with it: a law, a doctor’s prescription, a parent when you’re seven. You don’t have to be convinced; you comply.
 
-A card isn’t that. It’s a picture that helps you look. It can surprise you, move you, name something you’d been avoiding. But the decision stays on your side of the table, and so does the responsibility for it. It’s the first thing I wrote on [my disclaimers page](/disclaimers/#readings), and I meant it as a promise more than a warning.
+A card isn’t that. It’s a picture that helps you look. It can surprise you, move you, name something you’d been avoiding. But the decision stays on your side of the table, and so does the responsibility for it. It’s written on [my disclaimers page](/disclaimers/#readings) in almost those words.
 
 Say someone has a job offer they quietly want, draws the Tower, and turns the offer down. A month later they’d say “the cards told me no”. They didn’t. Fear borrowed a card’s voice, and a tower struck by lightning was the right shape for it.
 
@@ -59,7 +59,7 @@ A reading should never become your Emperor. And when [the Wheel of Fortune](/lib
 
 If you catch yourself pulling a card before every decision — what to wear, whether to text, which train to take — that isn’t about tarot any more. It’s a search for outside validation, and the deck has become a crutch.
 
-Put it in a drawer for a few weeks. Not as a punishment: as training. You need to be confident in yourself, to make decisions and mistakes, to accept being imperfect. That’s a muscle, and a reading can’t lift the weight for you. If your life is stable, you can play with the cards a little more; when it’s shaky is when to lean on them least. More on that in [why you should quit tarot reading, for a while at least](/blog/why-you-should-quit-tarot-reading/).
+Put it in a drawer for a few weeks. Not as a punishment: as training. You need to be confident in yourself, to make decisions and mistakes, to accept being imperfect. That’s a muscle, and a reading can’t lift the weight for you. If you’re lucky enough to have a stable life, you can play with the cards a little more. More on that in [why you should quit tarot reading, for a while at least](/blog/why-you-should-quit-tarot-reading/).
 
 ## Where to go from here {#from-here}
 

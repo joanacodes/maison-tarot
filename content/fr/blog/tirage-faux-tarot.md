@@ -11,7 +11,7 @@ imageAlt: "Une simple étagère murale en bois avec quelques carnets fermés et 
 imagePrompt: "A plain wooden wall shelf holding a few closed notebooks and a single folded sheet of paper, in a quiet room. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Un tirage peut se tromper sur l’essentiel, même quand des détails se réalisent. Après la mort de ma meilleure amie, emportée par un cancer, j’ai demandé en silence « qui est le prochain ? », puis entendu une voix d’homme me donner le prénom d’une autre amie et « va avoir un accident ». Deux semaines plus tard, un camion a percuté sa voiture. Elle est vivante et en bonne santé. Les détails étaient justes ; ce qui comptait, faux. J’en ai tiré trois raisons pour lesquelles un tirage se trompe — le moment, l’interprétation, le simple raté — et une étagère : sceptique, mais si ça arrive, j’étais prévenue."
 ---
-Un tirage peut se tromper sur ce qui compte le plus, même quand certains de ses détails se réalisent. La leçon la plus claire que j’aie reçue là-dessus ne venait pas d’une carte. Elle venait d’une voix, en plein deuil, et j’y pense encore.
+Un tirage peut se tromper sur ce qui compte le plus, même quand certains de ses détails se réalisent. La leçon la plus claire que j’aie reçue là-dessus ne venait pas d’une carte. Elle venait d’une voix, en plein deuil.
 
 ## La voix {#la-voix}
 
@@ -98,5 +98,3 @@ Si vous êtes en deuil et que quelque chose de ce genre vous arrive, parlez-en �
 La chose la plus utile que je puisse vous proposer, c’est un carnet à trois colonnes : ce qui a été dit, ce qui est arrivé, et quand. Les tirages que vous faites, ceux que vous recevez, les impressions qui arrivent toutes seules — tout.
 
 Au bout de quelques mois, vous verrez votre propre façon de rater. La mienne, c’est le moment. La vôtre sera peut-être autre chose, et vous ne pourrez la trouver qu’en l’écrivant. C’est à ça que sert [un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) : non pas à prouver que vous aviez raison, mais à savoir comment vous avez tendance à vous tromper.
-
-Et sur une étagère de ce carnet, une ligne courte, sans conclusion : elle est vivante et elle va bien.

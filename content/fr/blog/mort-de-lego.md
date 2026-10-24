@@ -1,6 +1,6 @@
 ---
 title: "La mort de l’ego : ce que ça veut dire, et pourquoi ce n’est pas de la générosité"
-description: "La mort de l’ego : le moi qui commente et protège s’efface le temps d’agir. Ce que c’est, pourquoi l’ego n’est pas le méchant, et pourquoi ce n’est pas de la générosité."
+description: "La mort de l’ego, c’est le moi qui s’efface le temps d’agir. Ce que ça veut dire, pourquoi l’ego n’est pas le méchant, et pourquoi ce n’est pas de la générosité."
 translationKey: "post-ego-death"
 type: blog
 date: 2026-10-24
@@ -9,13 +9,13 @@ tags: ["mort de l’ego", "mort de l’ego définition", "c’est quoi l’ego",
 image: "covers/ego-death.jpg"
 imageAlt: "Une personne vue de dos, absorbée par une peinture sur une petite table près d’une fenêtre, un jeu de tarot poussé sur le côté."
 imagePrompt: "A person seen from behind, absorbed in painting at a small table by a window, a closed tarot deck pushed to one side. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "La mort de l’ego, c’est l’expérience du « je » qui commente et qui protège s’effaçant un moment : il reste ce qu’on fait, et personne à côté pour le regarder faire. Elle existe en grand, après une méditation profonde ou des psychédéliques, et en petit : absorbé par une peinture, une recette ou une carte qu’on lit. L’ego n’est pas un méchant ; il essaie de donner un sens au monde et de vous protéger de son absurdité et de sa violence. Ce n’est pas non plus de la générosité : la générosité a besoin d’un moi qui donne, la mort de l’ego, c’est ce moi qui s’efface pendant qu’on agit."
+summary: "La mort de l’ego, c’est l’expérience du « je » qui commente et qui protège s’effaçant un moment : il reste ce qu’on fait, et personne à côté pour le regarder faire. Elle existe en grand, après une méditation profonde ou des psychédéliques, et en petit, quand on est absorbé par ce qu’on fait. L’ego n’est pas un méchant ; il essaie de donner un sens au monde et de vous protéger de son absurdité et de sa violence. Ce n’est pas non plus de la générosité : la générosité a besoin d’un moi qui donne, la mort de l’ego, c’est ce moi qui s’efface pendant qu’on agit."
 ---
 La mort de l’ego, c’est l’expérience du moi dans lequel on vit d’habitude — la voix qui commente, qui juge et qui protège — qui s’efface un moment : il reste ce qu’on fait, et personne à côté pour le regarder faire. Ma version de travail : accepter la mort de son moi pendant qu’on fait quelque chose. Ce n’est pas la même chose qu’être généreux, et confondre les deux fait plus de dégâts que l’expression elle-même.
 
 ## Ce que veut dire « mort de l’ego » {#definition}
 
-On croise l’expression dans la méditation, dans les récits sur les psychédéliques et, depuis quelque temps, partout sur les réseaux spirituels. Elle décrit le moment où le sentiment d’être quelqu’un de séparé — avec un nom, une réputation et des opinions à défendre — se desserre ou disparaît.
+On croise l’expression dans la méditation, dans les récits sur les psychédéliques et, désormais, partout sur les réseaux spirituels. Elle décrit le moment où le sentiment d’être quelqu’un de séparé — avec un nom, une réputation et des opinions à défendre — se desserre ou disparaît.
 
 Elle existe en deux tailles. La grande, c’est ce que les gens racontent après une méditation profonde ou une expérience psychédélique : bouleversante, parfois effrayante, l’impression que « je » n’était plus là. La petite est ordinaire. La peintre qui lève la tête et découvre que trois heures ont passé. Le cuisinier qui a oublié d’être inquiet. Une conversation où l’on a cessé de préparer sa prochaine phrase.
 
@@ -37,11 +37,11 @@ Il déborde quand il vous protège de quelque chose dont vous avez besoin : une 
 
 ## Pourquoi la mort de l’ego n’est pas de la générosité {#pas-generosite}
 
-La générosité, c’est donner quelque chose à soi — du temps, de l’argent, de l’attention — à quelqu’un d’autre. Elle a besoin d’un moi : quelqu’un qui possède la chose et choisit de la donner. En général, ça fait du bien, et c’est très bien ainsi.
+La générosité, c’est donner quelque chose qui est à vous — du temps, de l’argent, de l’attention — à quelqu’un d’autre. Elle a besoin d’un moi : quelqu’un qui possède la chose et choisit de la donner. En général, ça fait du bien, et c’est très bien ainsi.
 
 La mort de l’ego n’a pas de donateur. Pendant un moment, personne ne se tient au milieu de l’action pour tenir les comptes : il n’y a rien à donner, et personne à remercier.
 
-On confond les deux quand « tuer son ego » finit par vouloir dire dire oui à tout, n’avoir aucun besoin et se mettre en quatre jusqu’à s’épuiser. Ce n’est pas la mort de l’ego. C’est souvent un moi qui a peur de ne pas être aimé, autrement dit l’ego en heures supplémentaires.
+On confond les deux quand « tuer son ego » finit par signifier dire oui à tout, n’avoir aucun besoin et se mettre en quatre jusqu’à s’épuiser. Ce n’est pas la mort de l’ego. C’est souvent un moi qui a peur de ne pas être aimé, autrement dit l’ego en heures supplémentaires.
 
 Imaginez quelqu’un qui bouleverse toute sa semaine pour aider une amie à déménager, et qui lui en veut en silence pendant un mois. Généreux sur le papier, et plein de soi : le besoin d’être le gentil, les comptes qu’on tient. Imaginez maintenant une musicienne perdue dans un morceau. Ni généreuse, ni égoïste : absorbée. **La générosité a besoin d’un moi qui donne ; la mort de l’ego, c’est ce moi qui s’efface pendant qu’on agit.**
 

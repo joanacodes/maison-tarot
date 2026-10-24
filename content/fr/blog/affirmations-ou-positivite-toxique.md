@@ -1,6 +1,6 @@
 ---
 title: "Affirmations positives ou positivité toxique : comment faire la différence"
-description: "Affirmations positives ou positivité toxique : les deux définies clairement, des exemples de chaque, cinq questions pour les distinguer, et ce que les cartes m’ont appris."
+description: "Affirmations positives ou positivité toxique : deux définitions claires, des exemples, cinq questions pour les distinguer, et ce que les cartes de tarot m’ont appris."
 translationKey: "post-affirmations-vs-toxic-positivity"
 type: blog
 date: 2026-10-24
@@ -9,7 +9,7 @@ tags: ["affirmations positives", "positivité toxique", "exemples de positivité
 image: "covers/affirmations-vs-toxic-positivity.jpg"
 imageAlt: "Deux tasses de thé sur une table de cuisine, la main d’une personne posée sur l’avant-bras d’une autre, une carte de tarot entre les deux."
 imagePrompt: "Two mugs of tea on a kitchen table, one person’s hand resting on another person’s forearm, a single tarot card lying face up between the mugs. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Une affirmation positive est une courte phrase à la première personne qu’on choisit de se dire pour se stabiliser ou s’encourager, comme « je peux avoir le trac et bien parler quand même ». La positivité toxique, c’est l’injonction à rester positif quoi qu’il arrive, au point de balayer les émotions difficiles : « tout arrive pour une raison », « il y a pire ailleurs ». Pour les distinguer, demandez-vous si la phrase laisse de la place à ce que vous ressentez, à qui elle sert, si elle est crédible aujourd’hui, et ce qui se passe si elle ne se réalise pas. Une bonne affirmation s’assoit à côté de l’émotion ; la positivité toxique veut prendre sa place."
+summary: "Une affirmation positive est une courte phrase à la première personne qu’on se dit pour s’encourager, comme « je peux avoir le trac et bien parler quand même ». La positivité toxique, c’est l’injonction à rester positif quoi qu’il arrive, au point de balayer les émotions difficiles : « tout arrive pour une raison », « il y a pire ailleurs ». Pour les distinguer, demandez-vous si la phrase laisse de la place à ce que vous ressentez, si elle est crédible aujourd’hui, et ce qui se passe si elle ne se réalise pas. Une bonne affirmation s’assoit à côté de l’émotion ; la positivité toxique veut prendre sa place."
 ---
 Une affirmation positive, c’est une courte phrase qu’on choisit de se dire pour se stabiliser ou s’encourager. La positivité toxique, c’est l’injonction à rester positif quoi qu’il arrive — vous compris —, au point de chasser les émotions difficiles au lieu de les écouter. La différence tient en une question : la phrase laisse-t-elle de la place à ce que vous ressentez vraiment ?
 

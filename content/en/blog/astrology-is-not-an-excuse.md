@@ -30,7 +30,7 @@ Most of these are half jokes, and I like that astrology gives people a shared vo
 
 When someone says “I’m a Scorpio”, they mean the Sun was in Scorpio when they were born. That’s one placement out of many.
 
-The way I explain it: picture a house. The Sun is the inner house. The Moon is your own room — very important, and often the part people know least. The rising sign is the outside, what others see from the street. Then every planet sits somewhere in that house, in a sign and in a house of the chart. A Scorpio Sun with a Libra Moon and a Sagittarius rising is a very different person from a Scorpio Sun with a Capricorn Moon and a Cancer rising. I go through those three in [Sun, Moon and rising](/blog/sun-moon-rising-big-three/).
+The way I explain it: picture a house. The Sun is the inner house. The Moon is your own room, and it matters a great deal. The rising sign is the outside, what others see from the street. Then every planet sits somewhere in that house, in a sign and in a house of the chart. A Scorpio Sun with a Libra Moon and a Sagittarius rising is a very different person from a Scorpio Sun with a Capricorn Moon and a Cancer rising. I go through those three in [Sun, Moon and rising](/blog/sun-moon-rising-big-three/).
 
 **You’re not just a sign; you’re a mix of everything.**
 
@@ -54,7 +54,7 @@ So even read generously, the sign describes intensity, attachment and the abilit
 
 I mean this kindly. If a pattern keeps coming back — you go silent for days when you’re hurt, you keep score, you leave before anyone can leave you — and the people you love keep getting hurt by it, a chart can help you see the pattern. It can’t ask them to accept it.
 
-Say you’ve always filed your long silences under “Scorpio”. Try another question: what is this silence protecting, and what does it cost the person waiting on the other side? Astrology can help you ask that; in my own test, Saturn was where people’s hardest lessons sat. It can’t answer it for you.
+Say you’ve always filed your long silences under “Scorpio”. Try another question: what is this silence protecting, and what does it cost the person waiting on the other side? Astrology can help you ask that: Saturn, one of the placements that held best in my test, is usually read as the place of your hardest lessons. It can’t answer it for you.
 
 ## What astrology is good for, and what it isn’t {#good-for}
 

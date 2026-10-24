@@ -30,7 +30,7 @@ La plupart sont des demi-plaisanteries, et j’aime bien que l’astrologie donn
 
 Quand quelqu’un dit « je suis Scorpion », il veut dire que le Soleil était en Scorpion à sa naissance. C’est une position parmi beaucoup d’autres.
 
-Je l’explique avec une maison. Le Soleil, c’est l’intérieur de la maison. La Lune, c’est votre chambre à vous — très importante, et souvent la partie qu’on connaît le moins. L’ascendant, c’est la façade, ce que les autres voient depuis la rue. Ensuite, chaque planète se trouve quelque part dans cette maison, dans un signe et dans une maison du thème. Un Soleil Scorpion avec une Lune Balance et un ascendant Sagittaire n’a pas grand-chose à voir avec un Soleil Scorpion avec une Lune Capricorne et un ascendant Cancer. Je détaille ce trio dans [Soleil, Lune, ascendant](/fr/blog/soleil-lune-ascendant/).
+Je l’explique avec une maison. Le Soleil, c’est l’intérieur de la maison. La Lune, c’est votre chambre à vous, et elle compte énormément. L’ascendant, c’est la façade, ce que les autres voient depuis la rue. Ensuite, chaque planète se trouve quelque part dans cette maison, dans un signe et dans une maison du thème. Un Soleil Scorpion avec une Lune Balance et un ascendant Sagittaire n’a pas grand-chose à voir avec un Soleil Scorpion avec une Lune Capricorne et un ascendant Cancer. Je détaille ce trio dans [Soleil, Lune, ascendant](/fr/blog/soleil-lune-ascendant/).
 
 **Vous n’êtes pas seulement un signe ; vous êtes un mélange de tout.**
 
@@ -54,7 +54,7 @@ Même lu avec indulgence, le signe décrit de l’intensité, de l’attachement
 
 Je le dis avec bienveillance. Si un schéma revient sans cesse — vous vous murez dans le silence des jours entiers quand on vous blesse, vous tenez les comptes, vous partez avant qu’on puisse vous quitter — et que les gens que vous aimez en souffrent encore et encore, un thème peut vous aider à voir ce schéma. Il ne peut pas leur demander de l’accepter.
 
-Imaginons que vous ayez toujours rangé vos longs silences dans le tiroir « Scorpion ». Essayez une autre question : que protège ce silence, et que coûte-t-il à la personne qui attend de l’autre côté ? L’astrologie peut vous aider à poser la question ; dans mon propre test, c’est Saturne qui montrait les leçons les plus dures de chacun. Elle ne peut pas y répondre à votre place.
+Imaginons que vous ayez toujours rangé vos longs silences dans le tiroir « Scorpion ». Essayez une autre question : que protège ce silence, et que coûte-t-il à la personne qui attend de l’autre côté ? L’astrologie peut vous aider à poser la question : Saturne, l’une des positions qui ont le mieux tenu dans mon test, se lit d’ordinaire comme le lieu de vos leçons les plus dures. Elle ne peut pas y répondre à votre place.
 
 ## Ce à quoi l’astrologie sert, et ce à quoi elle ne sert pas {#a-quoi-elle-sert}
 

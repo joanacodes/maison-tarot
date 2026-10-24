@@ -1,6 +1,6 @@
 ---
 title: "Qu’est-ce que la magie ? Une définition de travail, par une tarologue"
-description: "Qu’est-ce que la magie ? Ma définition de travail : ce qu’on sait exister sans pouvoir encore l’expliquer. Les trois sens du mot, la place du tarot, et ce que je ne prétends pas."
+description: "Qu’est-ce que la magie ? Ma définition : ce qu’on sait exister sans pouvoir encore l’expliquer. Les trois sens du mot, la place du tarot, et ce que je ne prétends pas."
 translationKey: "post-what-is-magic"
 type: blog
 date: 2026-10-24
@@ -11,7 +11,7 @@ imageAlt: "Un verre d’eau posé sur un rebord de fenêtre en bois projette un 
 imagePrompt: "A glass of water on a wooden windowsill throwing a bright streak of refracted light across a closed tarot deck. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "La magie, au sens où j’emploie le mot, c’est ce qu’on sait exister sans pouvoir encore l’expliquer. Ce n’est pas l’illusion du prestidigitateur, que quelqu’un sait expliquer et cache exprès, et ce n’est pas une prétention à des pouvoirs. C’est une salle d’attente : l’aimant et la foudre y sont restés des siècles avant que la physique les explique. Une partie de ce qui se passe dans un tirage de tarot s’y trouve aussi. Certaines choses ont des explications ordinaires, d’autres m’échappent, et le mot « encore » me garde curieuse sans demander à personne d’y croire."
 ---
-Ma définition de travail de la magie tient en une phrase : ce qu’on sait exister sans pouvoir encore l’expliquer. Pas des sorts, pas des pouvoirs, pas quelque chose auquel je vous demande de croire — une salle d’attente pour ce qu’on a vu se produire et qu’on n’arrive pas à expliquer. Elle me garde curieuse, et elle me garde honnête.
+Ma définition de travail de la magie tient en une phrase : ce qu’on sait exister sans pouvoir encore l’expliquer. Pas des sorts, pas des pouvoirs, pas quelque chose auquel je vous demande de croire — une salle d’attente pour ce qu’on a vu se produire sans savoir l’expliquer. Elle me garde curieuse, et honnête.
 
 ## Qu’est-ce que la magie ? Les trois sens du mot {#trois-sens}
 
@@ -19,7 +19,7 @@ Le mot fait trois métiers différents, et la plupart des disputes sur la magie 
 
 La magie de scène, c’est l’illusion. Quelqu’un sait exactement comment ça marche et vous le cache exprès ; le plaisir, c’est de se faire avoir. Une pièce disparaît, et l’explication est dans la manche du prestidigitateur.
 
-La magie rituelle, c’est un ensemble de pratiques qui cherchent à changer quelque chose par des symboles, des mots et une intention : des sorts, des rituels, une bougie allumée pour une raison précise. Elle appartient à la sorcellerie et à bien des traditions populaires et religieuses ; c’est une pratique, pas une explication. [Savoir si le tarot relève de la sorcellerie](/fr/blog/le-tarot-est-il-de-la-sorcellerie/) est une autre question.
+La magie rituelle, ce sont des pratiques qui cherchent à changer quelque chose par des symboles, des mots et une intention : des sorts, des rituels, une bougie allumée pour une raison précise. Elle appartient à la sorcellerie et à bien des traditions populaires et religieuses ; c’est une pratique, pas une explication. [Savoir si le tarot relève de la sorcellerie](/fr/blog/le-tarot-est-il-de-la-sorcellerie/) est une autre question.
 
 La magie du quotidien, c’est le « c’était magique » : un premier concert, une coïncidence qui vous a fait éclater de rire, une soirée qui dépassait ce que vous saviez en dire.
 
@@ -29,19 +29,19 @@ Ma définition est la plus proche de la troisième, avec une différence : je ve
 
 Chaque morceau de la phrase travaille. « On sait que ça existe » veut dire observé et répété, pas espéré. « Sans pouvoir l’expliquer » veut dire que personne ne sait dire comment. Et « encore » veut dire que la magie est une salle d’attente, pas un verdict.
 
-L’histoire est pleine de choses passées par cette salle. La pierre d’aimant attirait le fer depuis des millénaires avant qu’on sache dire pourquoi. On a regardé la foudre tomber depuis qu’il y a des humains pour la regarder, et il a fallu attendre 1752, et une expérience menée à Marly-la-Ville, au nord de Paris, pour montrer que c’était de l’électricité. Les chirurgiens endorment leurs patients depuis les années 1840, et la façon exacte dont l’anesthésie générale éteint la conscience fait encore l’objet de recherches.
+L’histoire est pleine de choses passées par cette salle. La pierre d’aimant attirait le fer depuis des millénaires avant qu’on sache dire pourquoi. On regarde tomber la foudre depuis toujours, et il a fallu attendre 1752, et une expérience menée à Marly-la-Ville, au nord de Paris, pour montrer que c’était de l’électricité. Les chirurgiens endorment leurs patients depuis les années 1840, et la façon exacte dont l’anesthésie générale éteint la conscience fait encore l’objet de recherches.
 
 Selon ma définition, les trois étaient de la magie, et deux ont à peu près cessé de l’être. C’est la partie honnête : cette définition s’attend à ce que la magie rétrécisse. Elle ne la flatte pas. Elle n’exclut pas non plus que certaines choses restent très longtemps dans la salle d’attente.
 
 ## Où se place le tarot dans cette définition {#place-du-tarot}
 
-Ce que je sais qui se produit : des gens disent des choses vraies sur des inconnus qui ne leur ont rien dit. J’ai compté mes propres lectures dans un carnet, et environ neuf sur dix ont tenu. Ce n’est pas une étude, mais c’est plus qu’une impression. Quand des amis essaient pour la première fois, ils disent quelque chose de vrai et restent saisis par ce qui vient de sortir de leur propre bouche. C’est ce visage-là qui me fait enseigner.
+Ce dont je suis sûre : des gens disent des choses vraies sur des inconnus qui ne leur ont rien dit. J’ai compté mes propres lectures dans un carnet, et environ neuf sur dix ont tenu. Ce n’est pas une étude, mais c’est plus qu’une impression. Quand des amis essaient pour la première fois, ils disent quelque chose de vrai et restent saisis par ce qui vient de sortir de leur bouche. C’est ce visage-là qui me fait enseigner.
 
-Une partie, je sais l’expliquer. Certaines « réussites » sont assez générales pour aller à tout le monde, et c’est pour ça que je vérifie mes lectures à l’aune de [l’effet Barnum](/fr/blog/effet-barnum-tarot/). La mémoire garde les réussites et oublie les ratés. Un visage réagit avant que son propriétaire ne le décide.
+Une partie, je sais l’expliquer. Certaines « réussites » iraient à n’importe qui, et c’est pour ça que je confronte mes lectures à [l’effet Barnum](/fr/blog/effet-barnum-tarot/). La mémoire garde les réussites et oublie les ratés. Un visage réagit avant que son propriétaire ne le décide.
 
-Une autre partie, non. Après une lecture pour une amie, j’ai senti un jour quelqu’un avec moi, chez moi : son grand-père, un Japonais sévère, avec beaucoup d’amour en lui. Il semblait parler japonais, alors j’ai dessiné à la place — le chiffre cinq, encore et encore, et « sous la maison ». Mon amie est descendue au box numéro cinq, à la cave de son immeuble, un box qui n’était pas le sien et qui était déjà ouvert : il était rempli de pots de peinture. C’était tout le message. La suite est parmi [les histoires les plus étranges de mes tirages](/fr/blog/histoires-etranges-tarot/).
+Une autre partie, non. Après une lecture pour une amie, j’ai senti un jour quelqu’un avec moi, chez moi : son grand-père, un Japonais sévère, avec beaucoup d’amour en lui. Il semblait parler japonais, alors j’ai dessiné à la place — le chiffre cinq, encore et encore, et « sous la maison ». Mon amie est descendue à la cave de son immeuble, au box numéro cinq — pas le sien, et déjà ouvert : il était rempli de pots de peinture. C’était tout le message. La suite est parmi [les histoires les plus étranges de mes tirages](/fr/blog/histoires-etranges-tarot/).
 
-Tout n’est pas une histoire d’esprits, et je ne sais pas ce que c’était. Je sais que c’est arrivé, et je ne sais pas l’expliquer. C’est exactement là que je le range.
+Tout n’est pas une histoire d’esprits, et je ne sais pas ce que c’était. Je sais que c’est arrivé, je ne sais pas l’expliquer : c’est exactement là que je le range.
 
 Si vous voulez l’idée en deux cartes, prenez le Magicien (le Bateleur au tarot de Marseille) et la Grande Prêtresse. Dans mes notes, [le Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/) a les quatre éléments sur sa table et sait tout faire ; son revers, c’est qu’il peut faire semblant, si on lui fait confiance les yeux fermés. Les deux sens du mot « magicien » dans une seule carte. La Grande Prêtresse sait beaucoup de choses et ne montre qu’une façade, comme la face cachée de la lune : ce qui existe et ne se voit pas encore.
 
@@ -63,4 +63,4 @@ Gardez une page, à la fin de votre carnet, pour ce que vous avez vu arriver san
 
 Certaines auront trouvé une explication ordinaire : une coïncidence, un souvenir qui s’est arrangé tout seul, quelque chose qu’on vous avait dit et que vous aviez oublié. D’autres non. Celles-là vont sur l’étagère que j’appelle « sceptique, mais si ça arrive, j’aurai été prévenue ».
 
-[Quatre théories sur le fonctionnement du tarot](/fr/blog/comment-marche-le-tarot/), et celle dont je n’ai pas besoin, font une bonne lecture pour la suite. Et si vous voulez rencontrer l’inexpliqué en personne, lisez une carte pour quelqu’un qui ne vous a rien dit. C’est ce qui se passe aux [événements gratuits](/fr/evenements/), devant tout le monde, avec les ratés dits à voix haute.
+Lisez ensuite [quatre théories sur le fonctionnement du tarot](/fr/blog/comment-marche-le-tarot/), et celle dont je n’ai pas besoin. Et si vous voulez rencontrer l’inexpliqué en personne, lisez une carte pour quelqu’un qui ne vous a rien dit. C’est ce qui se passe aux [événements gratuits](/fr/evenements/), devant tout le monde, avec les ratés dits à voix haute.

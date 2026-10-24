@@ -17,7 +17,7 @@ Un tirage de tarot n’est pas une consigne. Il peut vous montrer quelque chose 
 
 Une autorité, c’est ce qu’on suit même quand on n’est pas d’accord : le code de la route, une ordonnance, un parent quand on a sept ans. On n’a pas besoin d’être convaincu ; on obéit.
 
-Une carte, ce n’est pas ça. C’est une image qui aide à regarder. Elle peut vous surprendre, vous émouvoir, nommer ce que vous évitiez. Mais la décision reste de votre côté de la table, et la responsabilité aussi. C’est la première chose que j’ai écrite sur [ma page d’avertissements](/fr/avertissements/#lectures), et je l’entends comme une promesse plus que comme une mise en garde.
+Une carte, ce n’est pas ça. C’est une image qui aide à regarder. Elle peut vous surprendre, vous émouvoir, nommer ce que vous évitiez. Mais la décision reste de votre côté de la table, et la responsabilité aussi. C’est écrit sur [ma page d’avertissements](/fr/avertissements/#lectures), presque mot pour mot.
 
 Imaginons quelqu’un qui a reçu une offre d’emploi dont il a secrètement envie, tire la Tour, et refuse le poste. Un mois plus tard, il dira « les cartes m’ont dit non ». Elles n’ont rien dit de tel. La peur a emprunté la voix d’une carte, et une tour frappée par la foudre avait exactement la bonne forme pour ça.
 
@@ -59,7 +59,7 @@ Un tirage ne devrait jamais devenir votre Empereur. Et quand [la Roue de Fortune
 
 Si vous vous surprenez à tirer une carte avant chaque décision — quoi mettre, envoyer ou non ce message, quelle ligne de métro prendre —, ce n’est plus une affaire de tarot. C’est une quête de validation extérieure, et le jeu est devenu une béquille.
 
-Rangez-le dans un tiroir pendant quelques semaines. Pas comme une punition : comme un entraînement. Vous avez besoin d’avoir confiance en vous, de prendre des décisions et de vous tromper, d’accepter d’être imparfait. C’est un muscle, et aucun tirage ne soulèvera la charge à votre place. Si votre vie est stable, vous pouvez jouer un peu plus avec les cartes ; c’est quand elle vacille qu’il faut s’y appuyer le moins. J’en parle dans [pourquoi arrêter de tirer les cartes, au moins un temps](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
+Rangez-le dans un tiroir pendant quelques semaines. Pas comme une punition : comme un entraînement. Vous avez besoin d’avoir confiance en vous, de prendre des décisions et de vous tromper, d’accepter d’être imparfait. C’est un muscle, et aucun tirage ne soulèvera la charge à votre place. Si vous avez la chance d’avoir une vie stable, vous pouvez jouer un peu plus avec les cartes. J’en parle dans [pourquoi arrêter de tirer les cartes, au moins un temps](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
 ## Et maintenant {#et-maintenant}
 

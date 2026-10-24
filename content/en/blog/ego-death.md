@@ -53,7 +53,7 @@ It’s very human. After an experience that felt huge, we all want it to have ma
 
 ## Go slowly {#go-slowly}
 
-Big surrenders can frighten. In late 2020 I dreamed of a gigantic wave every night, gentle, telling me to surrender. I didn’t; I hid in a house with others. I tell it because surrender is a big word, and it’s allowed to scare you.
+Big surrenders can frighten. In late 2020 I dreamed every night of a gentle, gigantic tsunami telling me to surrender. I didn’t; I hid in a house with others. I tell it because surrender is a big word, and it’s allowed to scare you.
 
 My rule for anything in this territory: don’t go too high too fast, or you might not find your way back home. Start crescendo.
 

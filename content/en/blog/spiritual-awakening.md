@@ -29,7 +29,7 @@ Mine started with a pick-a-card video by Kloee Taylor. I watched it and sobbed. 
 
 I call that the beginning of my awakening. I tell more of that story, and what I think pick-a-card videos can and can’t do, in [the video that made me cry](/blog/do-pick-a-card-readings-work/).
 
-What strikes me now is how ordinary the ingredients were: a recorded video, a stranger, a moment of being understood. Nothing in it made me special. It made me curious.
+What strikes me now is how ordinary the ingredients were: a recorded video, a stranger, a moment of being understood. Nothing in it made me special.
 
 ## Why I also find the word misused {#misused}
 

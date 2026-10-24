@@ -11,7 +11,7 @@ imageAlt: "Un jeu de tarot fermé et quelques pièces de monnaie posés côte à
 imagePrompt: "A closed tarot deck and a few coins side by side on a plain wooden table. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Le tarot n’a pas à être gratuit, et faire payer un tirage n’a rien de malhonnête : le temps, la formation et l’attention d’une personne qui lit sont du travail. Ce qui change quand une pratique devient un produit, c’est ce qu’elle récompense. Un produit vit des visites répétées, des options et des questions les plus demandées, qui sont souvent les plus risquées. Le gratuit n’est pas pur pour autant : il peut servir d’appât. Ma réponse : je vends des cours et je donne les tirages aux événements gratuits, pour que rien ne me pousse à faire revenir qui que ce soit."
 ---
-Non, le tarot n’a pas à être gratuit, et quelqu’un qui fait payer ses tirages ne fait rien de mal. Toute peine mérite salaire : le temps, la formation et l’attention sont du travail. Ce qui m’intéresse, c’est ce que l’argent fait à une pratique quand elle devient un produit — elle change les choses en douce, même chez des gens bien — et pourquoi j’ai fini par vendre des cours et donner les tirages.
+Non, le tarot n’a pas à être gratuit, et quelqu’un qui fait payer ses tirages ne fait rien de mal. Toute peine mérite salaire : le temps, la formation et l’attention sont du travail. Ce qui m’intéresse, c’est ce que l’argent fait à une pratique quand elle devient un produit — il change les choses en douce, même chez des gens bien — et pourquoi j’ai fini par vendre des cours et donner les tirages.
 
 ## Pourquoi on dit que le tarot devrait être gratuit {#pourquoi-gratuit}
 
@@ -33,7 +33,7 @@ Deux cartes portent ce côté du débat pour moi. Le Huit de Pentacles, c’est 
 
 {{< cards "pe08 pe06" >}}
 
-Je ne demande donc pas si quelqu’un fait payer, mais ce que je demanderais à n’importe quel métier honnête. **Les [signes d’une arnaque à la voyance](/fr/blog/arnaque-voyance/) ne sont jamais le prix lui-même ; c’est ce qu’on accroche au prix.**
+Devant la pratique de quelqu’un d’autre, je ne me demande donc pas s’il fait payer, mais s’il exerce comme n’importe quel métier honnête. **Les [signes d’une arnaque à la voyance](/fr/blog/arnaque-voyance/) ne sont jamais le prix lui-même ; c’est ce qu’on accroche au prix.**
 
 ## Ce qui arrive quand une pratique devient un produit {#pratique-produit}
 
