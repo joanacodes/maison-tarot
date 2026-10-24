@@ -58,7 +58,7 @@ Here is what I’d suggest instead, in this order.
 
 A reading won’t put a shield around you. What it can do is look at where you stand, and where your strength already is. Instead of “Am I being attacked?”, try “What would help me feel steady this month?” or “Where am I stronger than I think?” I keep a list of [kinder questions to ask the cards](/blog/questions-to-avoid-asking-tarot/).
 
-Three cards often come up around fear, and none of them is a threat:
+Three cards are worth knowing when fear is the subject, and none of them is a threat:
 
 {{< cards "sw09 sw08 wa04" >}}
 

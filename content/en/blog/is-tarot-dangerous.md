@@ -52,7 +52,7 @@ Say someone draws the Tower about their job and hands in their notice the next m
 
 {{< cards "ar13 ar16" >}}
 
-Death, in my notes, isn’t about death itself. It’s linked to the harvest, to starting again: making life fertile after a stretch without a goal. And the Tower is sudden change, not an instruction to cause one. Neither card tells you what to do on Monday.
+Death, as I read it, isn’t about death itself. It’s linked to the harvest, to starting again: making life fertile after a stretch without a goal. And the Tower is sudden change, not an instruction to cause one. Neither card tells you what to do on Monday.
 
 Tarot is not an authority. A reading can show you a situation from an angle you hadn’t tried; the decision stays yours, and so does the responsibility for it. I read; you decide. A gentler question helps here too. Instead of “Should I quit?”, try “What do I need to look at before I decide?”, then decide with your own head. If you notice you can’t act without a card’s permission, that’s the muscle to train, and I explain how in [act on what you feel, not on a card](/blog/tarot-is-not-an-authority/).
 

@@ -1,6 +1,6 @@
 ---
 title: "Faut-il annoncer une mauvaise nouvelle pendant un tirage ? Dire les choses dures avec douceur"
-description: "Faut-il annoncer une mauvaise nouvelle pendant un tirage ? Oui, avec soin. Ce qu’on dit, ce qu’on laisse aux professionnels, et comment dire une carte dure sans blesser."
+description: "Faut-il annoncer une mauvaise nouvelle pendant un tirage ? Oui, avec soin. Ce qu’on dit, ce qu’on laisse à d’autres, et comment dire une carte dure sans blesser."
 translationKey: "post-bad-news-tarot-reading"
 type: blog
 date: 2026-10-24
@@ -11,7 +11,7 @@ imageAlt: "Les mains de deux personnes de part et d’autre d’une petite table
 imagePrompt: "Two people’s hands resting on either side of a small wooden table, one hand reaching gently towards the other, a few tarot cards laid face up between them, no faces in frame. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Oui, dites ce qui vient, la partie dure comprise : cacher une carte, ou se taire avec un air inquiet, fait plus peur que des mots. Mais la manière compte autant que le contenu. Décrivez la carte avant de l’interpréter, parlez du présent plutôt que de l’avenir, demandez au lieu d’annoncer, et rendez la décision à la personne. Certains sujets — santé, mort, grossesse, procès en cours, décisions d’argent — relèvent d’un professionnel, pas d’un jeu de cartes. Et si la personne n’est pas prête, ralentissez et adaptez vos mots."
 ---
-Oui : dites ce qui vient, la partie dure comprise. Cacher une carte est une forme de mensonge, et un silence inquiet fait bien plus peur que des mots. Mais une chose dure peut se dire avec douceur et rester vraie, et certains sujets ne sont tout simplement pas les miens.
+Oui : dites ce qui vient, la partie dure comprise. Cacher une carte est une forme de mensonge, et un silence inquiet fait bien plus peur que des mots. Mais une chose dure peut se dire avec douceur et rester vraie, et certains sujets ne sont pas de mon ressort.
 
 ## Faut-il cacher une carte difficile ? {#cacher-ou-dire}
 
@@ -51,7 +51,7 @@ Voici la différence en pratique. Version dure : « Cette relation est finie. La
 
 **Une chose dure dite avec douceur reste vraie ; dite durement, elle n’en est pas plus honnête.**
 
-Quand j’ai lu le thème d’un ami que j’admirais, il était juste et dur. Ce que j’ai dit à voix haute, c’est : « Ta vie a été dure, mais on dirait que, d’une certaine façon, tu aimes ça. » Il m’a répondu que c’était vrai, d’une certaine façon. La partie dure était là, le respect aussi. J’ai raconté [l’histoire de cette phrase](/fr/blog/lire-pour-quelquun-que-jadmirais/) à part.
+Quand j’ai lu le thème d’un ami que j’admirais, il était juste et dur. Ce que j’ai dit à voix haute, c’est : « Ta vie a été dure, mais on dirait que tu aimes ça, quelque part. » Il m’a répondu que c’était vrai, d’une certaine façon. La partie dure était là, le respect aussi. J’ai raconté [l’histoire de cette phrase](/fr/blog/lire-pour-quelquun-que-jadmirais/) à part.
 
 ## Quand la personne n’est pas prête {#pas-prete}
 

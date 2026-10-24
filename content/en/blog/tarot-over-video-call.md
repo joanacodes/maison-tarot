@@ -43,14 +43,14 @@ Not the reading itself, usually. The setting.
 
 ## Group calls and lives {#group-calls}
 
-Part of my readings were done in front of others: in group calls, and in a live where people were drawn at random. One of the reviews I received on Facebook came from someone I read during a live. The format is still the same: they tell me nothing, I say what comes, they say whether it landed. That’s how the [free online events](/events/) work today.
+Some of my readings were done in front of others: in group calls, and in a live where people were drawn at random. One of the reviews I received on Facebook came from someone I read during a live. The format is still the same: they tell me nothing, I say what comes, they say whether it landed. That’s how the [free online events](/events/) work today.
 
 At the far end of distance there’s the pick-a-card video, recorded by someone who has never met you. One of those made me sob, because it put words on my situation for the first time. I wrote about [whether pick-a-card readings work](/blog/do-pick-a-card-readings-work/), and where they fall short.
 
 ## How to get a good reading over video {#how-to}
 
 1. Find a quiet room where you’re alone, with headphones if you can.
-2. Tell me nothing. Not your question, not your situation.
+2. Tell the reader nothing. Not your question, not your situation.
 3. Ask the reader to show you every card, so you see what they see.
 4. Keep a straight face if you can; react at the end.
 5. Write down what was said. Confirmations sometimes come days later.

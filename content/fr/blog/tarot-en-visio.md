@@ -50,7 +50,7 @@ Une partie de mes lectures s’est faite devant d’autres personnes : en appels
 ## Comment bien vivre une lecture en visio {#comment-faire}
 
 1. Trouvez une pièce calme où vous êtes seul, avec un casque si possible.
-2. Ne me dites rien. Ni votre question, ni votre situation.
+2. Ne dites rien à la personne qui lit. Ni votre question, ni votre situation.
 3. Demandez à voir chaque carte, pour voir ce que voit la personne qui lit.
 4. Gardez un visage neutre si vous pouvez ; réagissez à la fin.
 5. Notez ce qui a été dit. Les confirmations arrivent parfois des jours plus tard.

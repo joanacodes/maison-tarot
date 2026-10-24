@@ -52,7 +52,7 @@ Imaginons que quelqu’un tire la Tour à propos de son travail et pose sa démi
 
 {{< cards "ar13 ar16" >}}
 
-La Mort, dans mes notes, ne parle pas de la mort elle-même. Elle est liée à la récolte, au recommencement : rendre la vie de nouveau fertile après une période sans but. Et la Tour, c’est un changement soudain, pas l’ordre d’en provoquer un. Aucune des deux ne vous dit quoi faire lundi.
+La Mort, telle que je la lis, ne parle pas de la mort elle-même. Elle est liée à la récolte, au recommencement : rendre la vie de nouveau fertile après une période sans but. Et la Tour, c’est un changement soudain, pas l’ordre d’en provoquer un. Aucune des deux ne vous dit quoi faire lundi.
 
 Le tarot n’est pas une autorité. Une lecture peut vous montrer une situation sous un angle que vous n’aviez pas essayé ; la décision reste la vôtre, et la responsabilité aussi. Je lis ; vous décidez. Une question plus douce aide ici aussi : au lieu de « Dois-je démissionner ? », essayez « Qu’est-ce que je dois regarder avant de décider ? », puis décidez avec votre propre tête. Si vous remarquez que vous ne pouvez plus agir sans la permission d’une carte, c’est ce muscle-là qu’il faut entraîner, et j’explique comment dans [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
 

@@ -58,7 +58,7 @@ Voici ce que je vous proposerais à la place, dans cet ordre.
 
 Un tirage ne vous entourera pas d’un bouclier. Ce qu’il peut faire, c’est regarder où vous en êtes, et où se trouve déjà votre force. Au lieu de « Est-ce qu’on m’attaque ? », essayez « Qu’est-ce qui m’aiderait à me sentir stable ce mois-ci ? » ou « Où se trouve déjà ma force ? ». J’ai rassemblé [des questions plus douces à poser aux cartes](/fr/blog/questions-a-eviter-tarot/).
 
-Trois cartes sortent souvent autour de la peur, et aucune n’est une menace :
+Trois cartes valent la peine d’être connues quand la peur est le sujet, et aucune n’est une menace :
 
 {{< cards "sw09 sw08 wa04" >}}
 

@@ -27,7 +27,7 @@ Je l’ai écrit dans mon [guide pour apprendre à lire le tarot](/fr/blog/appre
 
 Voici pourquoi. Quelqu’un qui veut que ça marche aide trop. Il hoche la tête, il comble les trous, il se reconnaît dans tout ce qui sonne chaleureux. C’est le mécanisme de l’effet Barnum, et j’explique [pourquoi un tirage peut sembler juste](/fr/blog/pourquoi-les-tirages-sont-justes/) même quand il ne l’est pas. Quelqu’un qui doute fait l’inverse. Il attend, il vérifie, et **quand une personne qui doute dit « oui, c’est ça », ce oui vaut quelque chose.**
 
-Ma toute première lecture pour une inconnue s’est passée ainsi. À la fin, elle m’a dit que ça ne lui parlait pas ; elle ne cherchait pas du tout de relation. Trois ou quatre jours plus tard, elle m’a écrit, secouée : tout était arrivé. Son doute pendant la lecture n’a rien empêché. Il a rendu son message, quelques jours plus tard, impossible à discuter.
+Ma toute première lecture pour une inconnue en est un bon exemple. À la fin, elle m’a dit que ça ne lui parlait pas ; elle ne cherchait pas du tout de relation. Trois ou quatre jours plus tard, elle m’a écrit, secouée : tout était arrivé. Son « non » pendant la lecture n’a rien empêché. Il a rendu son message, quelques jours plus tard, impossible à discuter.
 
 ## Croire et être ouvert, ce n’est pas pareil {#ouverture}
 
