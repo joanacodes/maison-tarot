@@ -1,6 +1,6 @@
 ---
 title: "‘You have a gift’: the compliment I gently hand back"
-description: "When someone tells me ‘you have a gift’ after a tarot reading, I thank them and hand it back: everyone has it. What the word hides, and what I stopped doing instead."
+description: "When someone says ‘you have a gift’ after a tarot reading, I thank them and hand it back, because everyone has it; what I did was stop trying to be right."
 translationKey: "post-you-have-a-gift"
 type: blog
 date: 2026-10-24
@@ -33,7 +33,7 @@ Reading is closer to drawing than to a sixth sense. Some people have more talent
 
 I didn't acquire anything. I stopped something: trying to be right.
 
-Trying to be right is what makes a reading go flat. Say you draw the Six of Cups, a card of childhood and taking time for yourself, and the word "sister" arrives. The part of you that wants to be right gets nervous. Too specific. What if she doesn't have one? So you round it off into "family", which is safe, true of everyone, and useless.
+Trying to be right is what makes a reading go flat. Say you draw the Six of Cups, a card of childhood and taking time for yourself, and the word "sister" arrives. The part of you that wants to be right gets nervous. Too specific. What if the person in front of you doesn't have one? So you round it off into "family", which is safe, true of everyone, and useless.
 
 {{< cards "cu06" >}}
 
@@ -49,9 +49,9 @@ Because of what the word does next. If I have something you don't, my words star
 
 The word also makes a reader hard to leave. If the gift is hers alone, you need her every time a question comes up, and tarot should never turn into a circle of dependency, for you or for the person reading. I sell lessons, never readings. A gift couldn't be taught; this can.
 
-And because the word closes a door. If reading takes a gift, most of the people who'd enjoy it never try. There are no Chosen Ones at Maison Tarot; it's the premise of everything I teach.
+And the word closes a door. If reading takes a gift, most of the people who'd enjoy it never try. There are no Chosen Ones at Maison Tarot; it's the premise of everything I teach.
 
-If you've ever told a reader they have a gift, you weren't wrong to feel what you felt. Something real happened. I'd only say that what it came from isn't rare, and you were sitting on the other side of it.
+If you've ever told a reader they have a gift, you weren't wrong to feel what you felt. Something real happened. I'd only say that what it came from isn't rare, and some of it was sitting on your side of the table too.
 
 ## How to find out you have it too {#try-it}
 

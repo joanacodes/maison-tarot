@@ -1,6 +1,6 @@
 ---
 title: "« Tu as un don » : le compliment que je rends gentiment"
-description: "Quand on me dit « tu as un don » après un tirage, je remercie et je rends le compliment : tout le monde l’a. Ce que le mot cache, et ce que j’ai arrêté de faire."
+description: "Quand on me dit « tu as un don » après un tirage, je remercie et je rends le compliment : tout le monde l’a, et moi j’ai surtout arrêté de vouloir avoir raison."
 translationKey: "post-you-have-a-gift"
 type: blog
 date: 2026-10-24
@@ -9,7 +9,7 @@ tags: ["avoir un don", "don de voyance", "intuition tarot", "tout le monde peut 
 image: "covers/you-have-a-gift.jpg"
 imageAlt: "Deux personnes à une table de cuisine, l’une fait glisser une carte de tarot vers l’autre, visages hors du cadre"
 imagePrompt: "Two people at a kitchen table seen from the side at shoulder height, one sliding a single face-up tarot card across to the other, faces out of frame. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Quand on me dit que j’ai un don, je dis merci, puis je rends le compliment : vous l’avez aussi. Ce qu’on appelle un don, nous l’avons tous — des impressions qui arrivent en images, en mots, en sensations ou en émotions — à quoi s’ajoute l’habitude de les laisser venir. La seule chose que je fais autrement qu’une débutante, c’est que j’ai arrêté de vouloir avoir raison. Je rends le mot non parce que le compliment est faux, mais parce qu’il réserve à une seule personne ce qui appartient à tout le monde, et qu’il donne aux mots d’une tarologue plus de poids qu’ils n’en méritent."
+summary: "Quand on me dit que j’ai un don, je dis merci, puis je rends le compliment : vous l’avez aussi. Ce qu’on appelle un don, nous l’avons tous — des impressions qui arrivent en images, en mots, en sensations ou en émotions — à quoi s’ajoute l’habitude de les laisser venir. La seule chose que je fais autrement qu’une personne qui débute, c’est que j’ai arrêté de vouloir avoir raison. Je rends le mot non parce que le compliment est faux, mais parce qu’il réserve à une seule personne ce qui appartient à tout le monde, et qu’il donne aux mots d’une tarologue plus de poids qu’ils n’en méritent."
 ---
 Quand quelqu’un me dit que j’ai un don, je dis merci. Puis je le lui rends, aussi gentiment que possible : vous l’avez aussi. Tout le monde l’a. La seule différence entre nous, c’est que j’ai arrêté de vouloir avoir raison.
 
@@ -33,7 +33,7 @@ Lire tient davantage du dessin que du sixième sens. Certains ont plus de facili
 
 Je n’ai rien acquis. J’ai arrêté quelque chose : vouloir avoir raison.
 
-C’est ce qui aplatit une lecture. Imaginons que vous tiriez le Six de Coupes, une carte d’enfance et de temps pris pour soi, et que le mot « sœur » vous vienne. La partie de vous qui veut avoir raison s’inquiète. Trop précis. Et si elle n’a pas de sœur ? Alors vous arrondissez en « famille » : prudent, vrai pour tout le monde, et inutile.
+Vouloir avoir raison, c’est ce qui aplatit une lecture. Imaginons que vous tiriez le Six de Coupes, une carte d’enfance et de temps pris pour soi, et que le mot « sœur » vous vienne. La partie de vous qui veut avoir raison s’inquiète. Trop précis. Et si la personne en face n’a pas de sœur ? Alors vous arrondissez en « famille » : prudent, vrai pour tout le monde, et inutile.
 
 {{< cards "cu06" >}}
 
@@ -51,7 +51,7 @@ Le mot rend aussi la tarologue difficile à quitter. Si le don n’appartient qu
 
 Et le mot ferme une porte. Si lire demande un don, la plupart des gens qui y prendraient plaisir n’essaieront jamais. Il n’y a pas d’élus ici ; c’est le point de départ de tout ce que j’enseigne.
 
-Si vous avez déjà dit à quelqu’un qu’il avait un don, vous n’aviez pas tort de ressentir ce que vous avez ressenti. Il s’est passé quelque chose de réel. Je dirais seulement que ce dont ça venait n’a rien de rare, et que vous étiez juste de l’autre côté de la table.
+Si vous avez déjà dit à quelqu’un qu’il avait un don, vous n’aviez pas tort de ressentir ce que vous avez ressenti. Il s’est passé quelque chose de réel. Je dirais seulement que ce dont ça venait n’a rien de rare, et qu’il y en avait aussi de votre côté de la table.
 
 ## Comment découvrir que vous l’avez aussi {#essayer}
 

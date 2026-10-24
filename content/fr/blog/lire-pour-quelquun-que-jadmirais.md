@@ -1,5 +1,5 @@
 ---
-title: "Tirer les cartes à quelqu’un que j’admirais : la phrase que j’ai dite à voix haute"
+title: "Lire le thème de quelqu’un que j’admirais : la phrase que j’ai dite à voix haute"
 description: "J’ai lu le thème astral d’un ami que j’admirais : juste, et dur. La phrase que j’ai dite à voix haute, et ce qu’elle m’apprend sur les choses dures dites avec douceur."
 translationKey: "post-reading-for-someone-i-admired"
 type: blog

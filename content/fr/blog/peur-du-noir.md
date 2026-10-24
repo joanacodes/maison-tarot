@@ -1,6 +1,6 @@
 ---
 title: "Peur du noir : ce qui a changé pour moi, et le lien avec le travail sur l’ombre"
-description: "J’attendais toujours la lumière avant d’entrer dans une pièce sombre ; aujourd’hui je marche chez moi dans le noir. Ce qui a changé, et le lien avec le travail sur l’ombre."
+description: "Peur du noir ? J’attendais la lumière pour entrer dans une pièce sombre, je marche aujourd’hui dans le noir : ce qui a changé, et le rôle du travail sur l’ombre."
 translationKey: "post-afraid-of-the-dark"
 type: blog
 date: 2026-10-24

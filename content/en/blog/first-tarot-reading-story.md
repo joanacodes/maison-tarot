@@ -1,5 +1,5 @@
 ---
-title: "My first tarot reading was ‘wrong’ — then she texted me three days later"
+title: "My first tarot reading for a stranger was ‘wrong’ — then she texted me a few days later"
 description: "My first tarot reading for a stranger was ‘wrong’: she said it didn’t resonate. Days later she texted me, shocked. What it taught me about misses, and waiting."
 translationKey: "post-first-tarot-reading-story"
 type: blog

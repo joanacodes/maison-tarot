@@ -1,5 +1,5 @@
 ---
-title: "Mon tout premier tirage était « faux ». Elle m’a écrit trois jours plus tard"
+title: "Mon premier tirage pour une inconnue était « faux ». Elle m’a écrit quelques jours plus tard"
 description: "Mon premier tirage pour une inconnue était « faux » : ça ne lui parlait pas. Quelques jours plus tard, elle m’a écrit, secouée. Ce que j’en ai appris sur les ratés."
 translationKey: "post-first-tarot-reading-story"
 type: blog

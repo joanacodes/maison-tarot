@@ -1,6 +1,6 @@
 ---
 title: "Spirituelle, mais pas dans les cercles « spirituels » : pourquoi je garde un peu de distance"
-description: "Je lis le tarot et je me dis spirituelle, mais je garde un peu de distance avec les cercles « spirituels ». Mes trois raisons, et comment savoir si le vôtre vous fait du bien."
+description: "Spirituelle et tarologue, je garde un peu de distance avec les cercles « spirituels » : mes trois raisons, et comment savoir si le vôtre vous fait du bien."
 translationKey: "post-spiritual-but-not-in-spiritual-circles"
 type: blog
 date: 2026-10-24
@@ -17,7 +17,7 @@ Je me dirais spirituelle. Je lis le tarot, je l’enseigne, et j’ai vécu des 
 
 Un cercle spirituel, c’est n’importe quel groupe qui se réunit autour d’une pratique ou d’une façon de voir le monde : un groupe de méditation, une communauté de tarot en ligne, une retraite d’un week-end, un salon du bien-être, les personnes qui suivent un même enseignant. On y vient pour la compagnie, pour un vocabulaire, et pour un endroit où ce qu’on vit ne paraît pas bizarre.
 
-Cette dernière raison compte. Si vous avez vécu quelque chose que vous ne vous expliquez pas — j’ai raconté [quelques-unes de mes propres expériences](/fr/blog/le-tarot-est-il-malefique/) — un cercle peut être le premier endroit où votre histoire est crue. Ça vaut beaucoup, et bien des cercles l’offrent généreusement.
+Cette dernière raison compte. Si vous avez vécu quelque chose que vous ne vous expliquez pas — j’ai raconté [une de mes propres expériences, avec un grand-père très poli](/fr/blog/le-tarot-est-il-malefique/) — un cercle peut être le premier endroit où votre histoire est crue. Ça vaut beaucoup, et bien des cercles l’offrent généreusement.
 
 **Ma distance ne vise donc pas les gens, mais trois tendances qui peuvent venir avec le terrain.**
 
@@ -33,9 +33,9 @@ Ma version de l’ancrage est modeste. Quand il y a un bruit chez moi la nuit, j
 
 ## L’excès {#exces}
 
-Une pratique devient excessive quand elle vous demande tout : tout doit passer par une seule grille, et une étiquette finit par remplacer la personne.
+Une pratique devient excessive quand elle vous demande tout : tout doit passer par une seule idée, et une étiquette finit par remplacer la personne.
 
-Prenez les mots qui circulent dans ces cercles : empathe, starseed, lightworker (« travailleur de lumière »). Ils veulent dire quelque chose de réel pour beaucoup de gens, et je les ai [définis clairement ailleurs](/fr/blog/empathe-starseed-lightworker/). Ce dont je garde mes distances, c’est le moment où un mot devient un grade ou une cage. On ne choisit pas son type de starseed dans une vidéo. Le travail de lumière, je le connais mal, et ce que j’en ai constaté, c’est qu’il peut être risqué si l’on ne sait pas ce qu’on fait. Et on n’a pas besoin d’une étiquette pour être soi.
+Prenez les mots qui circulent dans ces cercles : empathe, starseed, lightworker (« travailleur de lumière »). Ils veulent dire quelque chose de réel pour beaucoup de gens, et je les ai [définis clairement ailleurs](/fr/blog/empathe-starseed-lightworker/). Ce dont je me tiens à distance, c’est le moment où un mot devient un grade ou une cage. On ne choisit pas son type de starseed dans une vidéo. Le travail de lumière, je le connais mal, et ce que j’en ai constaté, c’est qu’il peut être risqué si l’on ne sait pas ce qu’on fait. Et on n’a pas besoin d’une étiquette pour être soi.
 
 L’excès peut aussi être une question de fréquence. Un tirage avant chaque décision, un rituel pour chaque inquiétude : à ce stade, la pratique choisit à votre place. Je préfère qu’on apprenne à décider, à se tromper, et à accepter de ne pas être parfait. Un tirage est un bilan de là où vous en êtes, fait les pieds sur terre, jamais une autorisation. S’éloigner des cartes un moment fait partie de la pratique ; ce n’est pas une faute.
 
@@ -49,7 +49,7 @@ Ce qui m’inquiète, ce n’est pas qu’on ait un ego ; tout le monde en a un.
 
 Si votre cercle vous apporte du calme, de la gentillesse et vous aide à vivre votre vie ordinaire, il fait exactement ce qu’il doit faire, et rien ici ne le vise. Quelques questions douces, si vous avez un doute :
 
-1. Rentrez-vous chez vous les pieds plus sur terre qu’en partant ?
+1. Après une rencontre, votre vie de tous les jours vous paraît-elle plus facile à vivre, ou plus lointaine ?
 2. Pouvez-vous douter, ou ne pas être d’accord, sans qu’on vous dise que quelque chose cloche chez vous ?
 3. Quelqu’un est-il présenté comme au-dessus des autres ?
 4. Parle-t-on parfois des médecins ou des thérapeutes comme de gens inutiles ?

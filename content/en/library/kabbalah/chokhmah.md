@@ -27,7 +27,7 @@ gallery: []
 
 Chokhmah (חכמה) means “wisdom”. It is the second of the ten sephirot, right below [Keter](/library/kabbalah/keter/). Jewish sources describe it as the first flash of awareness: an insight that arrives whole, before it has a shape or words. In the Zohar’s language it is Abba, the father, paired with [Binah](/library/kabbalah/binah/), the mother.
 
-**Chokhmah is the idea that arrives all at once, before you know how to explain it.** Think of the moment you see the solution to a problem and then need an hour to write it down: the seeing is Chokhmah.
+**Chokhmah is the idea that arrives all at once, before you know how to explain it.** Think of seeing the solution to a problem all at once, then needing an hour to write it down: the seeing is Chokhmah.
 
 On the Tree, Chokhmah is number 2, at the top of the right column, the side of expansion and giving that leads down to [Chesed](/library/kabbalah/chesed/). With Keter and Binah it forms the upper three. The [Tree of Life page](/library/kabbalah/tree-of-life/) shows the whole layout.
 
@@ -48,7 +48,7 @@ The number gives the ground: [two](/library/numerology/number-2/) is cooperation
 
 ## The court cards: Kings or Knights? {#court}
 
-Book T, the Golden Dawn’s tarot manuscript, also puts the court cards on the Tree. The four ranks follow the four letters of the Name, YHVH. The first letter, Yod, the Fire of each suit, goes to Chokhmah; the Queens go to Binah, the Princes to Tiferet, the Princesses to Malkhut.
+Book T, the Golden Dawn’s tarot manuscript, also puts the court cards on the Tree. The four ranks follow the four letters of the Name, YHVH. The first, Yod, the Fire of each suit, goes to Chokhmah; then the Queens to Binah, the Princes to Tiferet, the Princesses to Malkhut.
 
 The Chokhmah figure is a crowned rider on horseback, and the Golden Dawn’s own papers give him two names. Decks drawn from them, like Robert Wang’s, call him the King; Book T’s card titles call him the Knight and describe him as a king — for Wands, “Lord of the Flame and the Lightning, King of the Spirits of Fire”.
 
@@ -60,7 +60,7 @@ The Chokhmah figure is a crowned rider on horseback, and the Golden Dawn’s own
 
 The Golden Dawn gives Chokhmah no planet. Its sphere is the zodiac, also called the sphere of the fixed stars: in medieval astronomy, the eighth heaven, beyond the seven planets. All twelve signs at once, before any of them is singled out.
 
-That suits the Twos. They are where the decans begin, the first cards in each suit to receive a planet in a sign. Some modern writers put Uranus or Neptune on Chokhmah; it isn’t the Golden Dawn’s scheme, and the authors don’t agree among themselves.
+That suits the Twos, the first cards in each suit to receive a decan, a planet in a sign. Some modern writers put Uranus or Neptune here, without agreeing among themselves; it isn’t the Golden Dawn’s scheme.
 
 ## Chokhmah in a reading {#reading}
 
@@ -73,7 +73,6 @@ The Tree stays an optional extra, beside the five lenses I teach. Don’t take m
 ## Sources {#sources}
 
 - [Sefaria, “Ḥokhma”](https://www.sefaria.org/topics/hokhma) — the sephirah in Jewish sources: the first flash of awareness, linked to the partzuf Abba.
-- [Chabad.org, “Chochma”](https://www.chabad.org/kabbalah/article_cdo/aid/380785/jewish/Chochma.htm) — Chokhmah in Chassidic teaching.
 - [Encyclopaedia Britannica, “Sefira”](https://www.britannica.com/topic/sefira) — the ten sephirot as emanations, and the disputes over how they work.
 - [Benebell Wen, “The Kings/Knights: Tarot Card Meanings”](https://benebellwen.com/2019/08/17/the-kings-knights-tarot-card-meanings/) — a tarot author’s lecture placing the Rider-Waite-Smith Kings and the Thoth Knights in Chokhmah, with the debate acknowledged.
 - [Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983)](https://discovery.nypl.org/research/research-catalog/bib/b10815500) — library record of a study of the Golden Dawn’s tarot on the Tree of Life, court cards included.

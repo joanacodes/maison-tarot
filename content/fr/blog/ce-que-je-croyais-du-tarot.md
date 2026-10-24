@@ -1,6 +1,6 @@
 ---
 title: "Ce que je croyais du tarot en 2020, et que je vois autrement aujourd’hui"
-description: "Ce que je croyais du tarot à mes débuts, fin 2020, face à ce que j’en pense aujourd’hui : les cartes, les accessoires, l’astrologie, les ratés, et qui peut apprendre."
+description: "Ce que je croyais du tarot à mes débuts en 2020, face à ce que j’en pense aujourd’hui : les cartes, les accessoires, l’astrologie, les ratés, et qui peut apprendre."
 translationKey: "post-what-i-believed-about-tarot"
 type: blog
 date: 2026-10-24

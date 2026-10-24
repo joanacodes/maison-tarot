@@ -1,6 +1,6 @@
 ---
 title: "Spiritual, but not into ‘spiritual’ circles: why I keep a little distance"
-description: "I read tarot and I’d call myself spiritual, yet I keep a little distance from ‘spiritual’ circles. My three reasons, and how to tell if yours is doing you good."
+description: "I’m spiritual and I read tarot, yet I keep some distance from ‘spiritual’ circles: my three reasons, said kindly, and how to tell whether yours does you good."
 translationKey: "post-spiritual-but-not-in-spiritual-circles"
 type: blog
 date: 2026-10-24
@@ -17,7 +17,7 @@ I'd call myself spiritual. I read tarot, I teach it, and I've had experiences I 
 
 A spiritual circle is any group that gathers around a shared practice or a shared way of seeing the world: a meditation group, an online tarot community, a weekend retreat, the people who follow one teacher. People come for company, for a vocabulary, and for a place where their experiences don't sound strange.
 
-That last reason matters. If something has happened to you that you can't explain — I've written about [a few of mine](/blog/is-tarot-evil/) — a circle can be the first place you're believed. That's worth a lot, and plenty of circles give it generously.
+That last reason matters. If something has happened to you that you can't explain — I've written about [one of mine, involving a very polite grandfather](/blog/is-tarot-evil/) — a circle can be the first place you're believed. That's worth a lot, and plenty of circles give it generously.
 
 **My distance isn't from the people, but from three tendencies that can come with the territory.**
 
@@ -33,7 +33,7 @@ My own version of grounded is modest. When there's a noise in my place at night,
 
 ## Too extreme {#too-extreme}
 
-A practice becomes extreme when it asks for all of you: everything has to be read through one lens, and a label starts to stand in for the person.
+A practice becomes extreme when it asks for all of you: everything has to be read through one idea, and a label starts to stand in for the person.
 
 Take the words that travel through these circles: empath, starseed, lightworker. They mean something real to people, and I've [defined them plainly elsewhere](/blog/empath-starseed-lightworker/). What I keep my distance from is the moment a word becomes a rank or a cage. You don't pick your starseed type from a video. Lightwork is one I know little about, and what I've found is that it can be risky if you don't know what you're doing. And you don't need a label to be yourself.
 

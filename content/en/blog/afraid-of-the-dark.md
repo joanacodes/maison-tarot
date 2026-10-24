@@ -1,6 +1,6 @@
 ---
 title: "Afraid of the dark? What changed for me, and what shadow work has to do with it"
-description: "I used to wait for a light before stepping into a dark room; now I walk through my place with the lights off. What changed, and what shadow work has to do with it."
+description: "Afraid of the dark? I always waited for a light before entering a dark room and now walk around with the lights off: what changed, and where shadow work comes in."
 translationKey: "post-afraid-of-the-dark"
 type: blog
 date: 2026-10-24
