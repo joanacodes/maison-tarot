@@ -35,7 +35,7 @@ Death doesn’t announce a death. In my notes, it’s linked to the harvest and 
 
 Three minor cards carry the sign too, one for each ten days of the season, roughly: the Five of Cups (Mars in Scorpio), the Six of Cups (the Sun in Scorpio) and the Seven of Cups (Venus in Scorpio). The order tells a story. The Five of Cups is, for me, the heaviest card in the deck: losing, dark emotion, being alone with your problems. The Six is taking time for yourself, childhood, flowering again. The Seven is indecision, too many choices at once. Grief, comfort, then the open question of what next. The [decans](/blog/decans-tarot/) explain how these attributions work.
 
-The season also crosses Samhain and All Saints, when many people remember their dead. If you’re carrying a loss right now, I’m sorry. I don’t read on death or on health, because a card can’t tell you anything true about them, and a wrong word there does real harm. What a reading can hold is how you’re carrying it; [why I step back from those questions](/blog/health-pregnancy-death-tarot/) explains the rest.
+The season also crosses [Samhain](/blog/samhain-tarot/) and All Saints, when many people remember their dead. If you’re carrying a loss right now, I’m sorry. I don’t read on death or on health, because a card doesn’t announce either, and a wrong word there can do real harm. What a reading can hold is how you’re carrying it; [why I step back from those questions](/blog/health-pregnancy-death-tarot/) explains the rest.
 
 ## What to read for this month {#what-to-read-for}
 
@@ -45,13 +45,13 @@ A three-card spread for the season, one card per question:
 2. *What am I holding on to?* The attachment, the habit, the old story you keep watering.
 3. *What could end so something heals?* Not what must be destroyed: what could be cut back, like a rose bush in autumn.
 
-Read the three as a row first: the numbers, the elements, the colours. Lots of Cups means it’s about feelings; a Sword in the middle often means the holding-on lives in your head.
+Read the three as a row first: the numbers, the elements, the colours. Lots of Cups puts it in your feelings; a Sword in the middle puts the holding-on in your head.
 
-One thing I’d leave aside this month: Scorpio’s observing eye turned on someone else. Drawing every night on what an ex is thinking is watching, not reading, and it keeps you in the armchair. I’d rather look at you.
+One thing I’d leave aside this month, however strong the pull: Scorpio’s observing eye turned on someone else. Drawing every night on what an ex is thinking is watching, not reading, and it keeps you in the armchair. The cards are better spent on you.
 
 ## What Scorpio season can’t do {#limits}
 
-It forecasts nothing. When I tested my chart box by box, about a third held overall; the Sun sign was among the ordinary placements, not the 75–90% ones (that was Saturn, Lilith and Chiron). The [test, with its numbers](/blog/i-tested-my-birth-chart/), is in its own article. A season gives you questions, not events.
+It forecasts nothing. When I tested my chart box by box, 30 to 40% held overall, and the Sun sign was among the ordinary placements, not the 75–90% ones (that was Saturn, Lilith and Chiron). The [test, with its numbers](/blog/i-tested-my-birth-chart/), is in its own article. A season gives you questions, not events.
 
 It’s no excuse either. “It’s Scorpio season, that’s why I’m jealous” is a good joke and a poor explanation.
 

@@ -32,7 +32,7 @@ Du temps, d’abord, et plus que ce que vous voyez. Une heure de tirage, c’est
 
 De l’expérience, mais pas celle qui se compte en années. Ce qui compte, c’est de savoir si la personne a vérifié son propre travail. Quelqu’un qui tient un carnet — ce qu’il a dit d’un côté, ce qui a été confirmé de l’autre — connaît son taux de ratés. Quelqu’un qui n’en tient pas devine sa propre justesse, et fait payer la devinette.
 
-Ensuite, les frais que vous ne croisez jamais. Une plateforme ou une ligne de voyance garde une part de ce que vous payez. Un cabinet à Paris, ou dans le centre de n’importe quelle grande ville, a un loyer. Il y a les frais de paiement, un site, parfois une assurance. Et les cotisations : un tarologue à son compte, souvent micro-entrepreneur, en reverse une partie à l’URSSAF, sans compter l’impôt.
+Ensuite, les frais que vous ne croisez jamais. Une plateforme ou une ligne de voyance garde une part de ce que vous payez. Un cabinet à Paris, ou dans le centre de n’importe quelle grande ville, a un loyer. Il y a les frais de paiement, un site, parfois une assurance. Et les cotisations : un tarologue à son compte — micro-entrepreneur, par exemple — en reverse une partie à l’URSSAF, sans compter l’impôt.
 
 Imaginez deux tarologues qui demandent le même prix pour une heure. L’une lit en visio depuis sa cuisine et garde presque tout. L’autre passe par une plateforme qui prend sa commission, puis paie ses cotisations sur le reste. Même prix pour vous, revenu très différent pour elles. Un prix élevé n’est pas forcément de la cupidité, et un prix bas n’est pas forcément une bonne affaire.
 
@@ -40,8 +40,8 @@ Imaginez deux tarologues qui demandent le même prix pour une heure. L’une lit
 
 Certaines choses se vendent comme un supplément et ne devraient pas :
 
-- *Un « don ».* Il n’y en a pas ; tout le monde peut apprendre à lire, donc ce n’est pas un supplément.
-- *Une lignée ou un titre*, avancé comme la raison du prix plutôt que comme un parcours.
+- *Un « don ».* Il n’y en a pas ; tout le monde peut apprendre à lire, donc rien à facturer en plus.
+- *Une lignée ou un titre*, avancés comme la raison du prix plutôt que comme un parcours.
 - *L’urgence.* « Je vois quelque chose de grave, rappelez-moi aujourd’hui. »
 - *Les objets et les rituels.* Bougies, bains, « nettoyages » ajoutés après la lecture.
 - *Le désenvoûtement.* C’est [la plus vieille arnaque du métier](/fr/blog/malediction-voyance-arnaque/), et aucun tirage n’en a jamais besoin.

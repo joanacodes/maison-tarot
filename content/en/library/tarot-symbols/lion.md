@@ -31,7 +31,7 @@ Its mane already looks like a crown, which is why it ends up on thrones and coat
 
 Strength is the lion’s card: a woman in white bends over a big red lion and closes its jaws without effort. The lion isn’t killed or chained; it’s calmed. [The Strength page](/library/tarot-cards/strength/) reads the whole card, and [Leo](/library/astrology/leo/) the sign behind it.
 
-The Wheel of Fortune and the World both keep a lion in the bottom right corner — winged and reading a book on the Wheel, a head in the clouds on the World. It’s one of four creatures, with the bull, the eagle and the human figure, usually read as the four [fixed](/library/astrological-modes/fixed/) signs.
+The Wheel of Fortune and the World both keep a lion in the bottom right corner — winged, with an open book, on the Wheel, a head in the clouds on the World. It’s one of four creatures, with the bull, the eagle and the human figure, usually read as the four [fixed](/library/astrological-modes/fixed/) signs.
 
 The Queen of Wands sits on a throne with lions’ heads carved on its arms and lions on its back. The King of Wands has black lions on his throne, among salamanders. The lion is the Wands’ animal: the suit’s fire made visible.
 

@@ -31,7 +31,7 @@ Sa crinière ressemble déjà à une couronne, et c’est pour ça qu’il finit
 
 La Force est la carte du lion : une femme en blanc se penche sur un grand lion rouge et lui referme la gueule sans effort. Le lion n’est ni tué ni enchaîné ; il est calmé. [La page de la Force](/fr/bibliotheque/cartes-tarot/la-force/) lit toute la carte, et celle du [Lion](/fr/bibliotheque/astrologie/lion/) le signe qui se tient derrière.
 
-La Roue de Fortune et le Monde gardent tous deux un lion dans le coin en bas à droite — ailé et lisant un livre sur la Roue, une tête dans les nuages sur le Monde. C’est l’une des quatre créatures, avec le taureau, l’aigle et la figure humaine, qu’on lit généralement comme les quatre signes [fixes](/fr/bibliotheque/modes-astrologiques/fixe/).
+La Roue de Fortune et le Monde gardent tous deux un lion dans le coin en bas à droite — ailé, un livre ouvert devant lui, sur la Roue, une tête dans les nuages sur le Monde. C’est l’une des quatre créatures, avec le taureau, l’aigle et la figure humaine, qu’on lit généralement comme les quatre signes [fixes](/fr/bibliotheque/modes-astrologiques/fixe/).
 
 La Reine de Bâtons siège sur un trône aux accoudoirs sculptés de têtes de lion, avec des lions sur le dossier. Le Roi de Bâtons a des lions noirs sur son trône, parmi des salamandres. Le lion est l’animal des Bâtons : le feu de la série rendu visible.
 

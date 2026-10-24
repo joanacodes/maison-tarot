@@ -16,7 +16,7 @@ related:
 - /library/tarot-cards/judgement
 faq:
 - q: "Which tarot cards have angels on them?"
-  a: "Four majors: Temperance, the Lovers and Judgement, each with one large angel, and the Wheel of Fortune, with a small winged figure reading a book in one corner. Many books give the large angels names; nothing written on the 1909 cards does."
+  a: "Four majors: Temperance, the Lovers and Judgement, each with one large angel, and the Wheel of Fortune, with a small winged figure holding an open book in one corner. Many books give the large angels names; nothing written on the 1909 cards does."
 - q: "Does an angel in a reading mean someone is protecting me?"
   a: "I don’t read it that way. I read it as a point of view: the part of you, or of the situation, that sees further than the problem in front of you. What you do with it is yours to decide."
 gallery: []
@@ -35,7 +35,7 @@ On [the Lovers](/library/tarot-cards/the-lovers/), an angel with red wings and f
 
 On Judgement, an angel leans out of the clouds and blows a trumpet hung with a white banner and a red cross. Below, people rise from open coffins. The call you can’t pretend not to hear.
 
-The Wheel of Fortune has a smaller one. In the top left corner, a winged figure reads a book on a cloud — one of four creatures, with an eagle, a bull and a lion, watching the wheel turn. The same four return on the World as heads in the clouds, without wings.
+The Wheel of Fortune has a smaller one. In the top left corner, a winged figure holds an open book on a cloud — one of four creatures, with an eagle, a bull and a lion, watching the wheel turn. The same four return on the World as heads in the clouds, without wings.
 
 {{< cards "ar14 ar06 ar20 ar10" >}}
 

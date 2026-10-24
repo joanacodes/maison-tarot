@@ -16,7 +16,7 @@ related:
 - /bibliotheque/cartes-tarot/le-jugement
 faq:
 - q: "Quelles cartes du tarot montrent un ange ?"
-  a: "Quatre arcanes majeurs : Tempérance, les Amoureux et le Jugement, chacun avec un grand ange, et la Roue de Fortune, avec une petite figure ailée qui lit un livre dans un coin. Beaucoup de livres donnent un nom aux grands anges ; rien d’écrit sur les cartes de 1909 ne le fait."
+  a: "Quatre arcanes majeurs : Tempérance, les Amoureux et le Jugement, chacun avec un grand ange, et la Roue de Fortune, avec une petite figure ailée qui tient un livre ouvert dans un coin. Beaucoup de livres donnent un nom aux grands anges ; rien d’écrit sur les cartes de 1909 ne le fait."
 - q: "Un ange dans un tirage, est-ce que ça veut dire que quelqu’un me protège ?"
   a: "Je ne le lis pas comme ça. Je le lis comme un point de vue : la part de vous, ou de la situation, qui voit plus loin que le problème devant vous. Ce que vous en faites vous appartient."
 gallery: []
@@ -35,7 +35,7 @@ Sur [les Amoureux](/fr/bibliotheque/cartes-tarot/les-amoureux/), un ange aux ail
 
 Sur le Jugement, un ange se penche hors des nuages et souffle dans une trompette d’où pend une bannière blanche à croix rouge. En dessous, des gens se lèvent de cercueils ouverts. L’appel qu’on ne peut pas faire semblant de ne pas entendre.
 
-La Roue de Fortune en a un plus petit. Dans le coin en haut à gauche, une figure ailée lit un livre sur un nuage — l’une des quatre créatures, avec un aigle, un taureau et un lion, qui regardent tourner la roue. Les mêmes reviennent sur le Monde, en têtes dans les nuages, sans ailes.
+La Roue de Fortune en a un plus petit. Dans le coin en haut à gauche, une figure ailée tient un livre ouvert sur un nuage — l’une des quatre créatures, avec un aigle, un taureau et un lion, qui regardent tourner la roue. Les mêmes reviennent sur le Monde, en têtes dans les nuages, sans ailes.
 
 {{< cards "ar14 ar06 ar20 ar10" >}}
 

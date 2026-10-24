@@ -21,7 +21,7 @@ The Moon’s orbit is tilted compared with the Sun’s apparent path across the 
 
 They aren’t planets or bodies. They’re calculated points, like [Lilith](/library/astrology/lilith/). And they’re always exactly opposite: same degree, opposite signs, opposite houses. If your North Node is at 12° Aries in the first house, your South Node is at 12° Libra in the seventh.
 
-They have old names. Medieval astrologers in Europe called them the Dragon’s Head and the Dragon’s Tail; Indian astrology calls them Rahu and Ketu. They also matter in astronomy: an eclipse happens when a new or full Moon falls near the Nodes, which is why [the eclipses of 2027](/blog/eclipses-2027/) fall in the signs the Nodes are crossing.
+They have old names. Medieval astrologers in Europe called them the Dragon’s Head and the Dragon’s Tail; Indian astrology calls them Rahu and Ketu. They also matter in astronomy: an eclipse happens when a new or full Moon falls close to the Nodes. That’s why eclipses come on a pair of opposite signs that shifts every year and a half or so; [the eclipses of 2027](/blog/eclipses-2027/) mostly sit on the Leo–Aquarius axis, where the Nodes are that year.
 
 The Nodes move backwards through the zodiac and go all the way round in about 18.6 years, roughly a year and a half per sign. They come back to their birth position around 18 or 19, again around 37, and around 56, which some astrologers watch as turning points.
 
@@ -33,7 +33,7 @@ The usual modern reading goes like this. The South Node is what comes naturally:
 
 Say someone has the South Node in Virgo and the North Node in Pisces. Analysing, organising and fixing details come without effort; overdone, that turns into control and criticism. The Pisces side asks for the opposite muscles: trust, imagination, letting go.
 
-You’ll also meet a karmic reading, from what’s called evolutionary astrology: the South Node is what you bring from past lives, the North Node the direction of this one. If that framing speaks to you, it’s there. The reading in my notes stays closer to the ground: natural strengths and weaknesses, in this life.
+You’ll also meet a karmic reading, common in what’s called evolutionary astrology: the South Node is what you bring from past lives, the North Node the direction of this one. If that framing speaks to you, it’s there. The reading in my notes stays closer to the ground: natural strengths and weaknesses, in this life.
 
 ## The six axes, in one table {#axes}
 

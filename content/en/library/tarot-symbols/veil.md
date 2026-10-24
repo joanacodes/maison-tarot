@@ -31,11 +31,11 @@ In a reading, it’s the knowledge that exists but hasn’t been handed over: a 
 
 The High Priestess sits in front of a veil hung between two [pillars](/library/tarot-symbols/pillars/), printed with palm leaves and pomegranates. A long blue mantle also falls from her crown over her head. Two veils, then: one behind her, one on her.
 
-Justice has a purple curtain hung between her two pillars. Nothing is hidden from her; what we don’t see is what stands behind the judgement — the reasons, the institution.
+Justice has a purple curtain hung between her two pillars. Nothing is hidden from her; what you don’t see is what stands behind the judgement — the reasons, the institution.
 
 The Seven of Cups puts one inside a cup. Among seven visions floating in the clouds, the middle one is a figure covered by a white cloth, glowing red at the edges. Of all the choices on the card, it’s the one you can’t see.
 
-The Nine of Cups hangs a blue cloth from the shelf of cups behind the seated man, all the way to the floor. What’s under it, we don’t know, and he doesn’t seem to mind.
+The Nine of Cups hangs a blue cloth from the shelf of cups behind the seated man, all the way to the floor. What’s under it, nobody knows, and he doesn’t seem to mind.
 
 The Queen of Pentacles wears a green veil falling from her crown down her back: mastery that doesn’t put itself on display.
 
