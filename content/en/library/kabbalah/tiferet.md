@@ -47,11 +47,11 @@ The number gives the frame: [six](/library/numerology/number-6/) is three exalte
 
 The Six of Pentacles is where the lens fits best. In my notes it’s the scales, knowing what things are worth. A merchant gives coins with one hand and holds a balance in the other: Chesed and Gevurah in one figure, and Tiferet in the gesture that joins them.
 
-## The court cards: Knights or Kings? {#court}
+## The court cards: the Princes {#court}
 
 The Golden Dawn also puts the court cards on the Tree, following the four letters of the Name, YHVH. The third letter, Vav — the Air of each suit — goes to Tiferet: the Prince, a crowned young man driving a chariot.
 
-**Which Rider-Waite-Smith card is the Prince is debated.** Waite’s deck keeps the older names: King, Queen, Knight, Page. Read by rank, the rank below the Queen is the Knight, so the four [Knights](/library/numerology/knight/) take Tiferet. That’s how Benebell Wen teaches it, and the card pages on this site follow it: the Knight of Wands is Air of Fire. Read by picture, the Golden Dawn’s own King rides a horse, and its Prince was the King of older decks, so some authors put the Rider-Waite-Smith Kings here instead.
+**Which Rider-Waite-Smith card is the Prince is debated.** Waite’s deck keeps the older names, King, Queen, Knight, Page. Read by rank, the four [Knights](/library/numerology/knight/) are the Princes; that’s how Benebell Wen teaches it, and the card pages on this site follow it (the Knight of Wands is Air of Fire). Read by picture, some authors put the Kings here instead. The [Chokhmah page](/library/kabbalah/chokhmah/) sets out both readings.
 
 {{< cards "wakn cukn swkn pekn" >}}
 
