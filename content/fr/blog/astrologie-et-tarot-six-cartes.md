@@ -1,6 +1,6 @@
 ---
 title: "Astrologie et tarot ensemble : six cartes où le signe change la lecture"
-description: "Astrologie et tarot ensemble : six arcanes majeurs dont le signe du zodiaque change la lecture, des Amoureux au Diable, avec le verbe, l’élément et le mode de chacun."
+description: "Astrologie et tarot ensemble : six arcanes majeurs dont le signe change la lecture, des Amoureux au Diable, avec le verbe, l’élément et le mode de chacun."
 translationKey: "post-astrology-and-tarot-cards"
 type: blog
 date: 2026-10-24

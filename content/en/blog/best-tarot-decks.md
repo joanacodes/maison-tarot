@@ -1,0 +1,71 @@
+---
+title: "Best tarot decks for beginners in 2027: a reader's shortlist"
+description: "My shortlist of the best tarot decks for beginners in 2027: four Rider-Waite-Smith editions, one Marseille and the Thoth for later — no ratings, just what to look for."
+translationKey: "post-best-tarot-decks"
+type: blog
+date: 2026-10-24
+categories: ["Seasonal"]
+tags: ["best tarot decks", "best tarot decks for beginners", "Rider-Waite-Smith editions", "Smith-Waite Centennial", "Tarot de Marseille deck", "Thoth tarot deck"]
+image: "covers/best-tarot-decks.jpg"
+imageAlt: "Four closed tarot deck boxes of different sizes lined up on a wooden table, one open deck fanned out in front of them."
+imagePrompt: "Four closed tarot deck boxes of different sizes standing in a line on a wooden table, one open deck fanned out in front of them. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
+summary: "For a beginner in 2027, the best tarot deck is still a Rider-Waite-Smith, and the choice is mostly which edition. The classic Rider-Waite from U.S. Games Systems, the Smith-Waite Centennial with its muted early colours, the softer Universal Waite and the brighter Radiant Rider-Waite all keep Pamela Colman Smith’s scenes. Choose by colour and card size. Keep a Marseille deck, such as Grimaud’s Ancien Tarot de Marseille, and the Crowley–Harris Thoth for your second deck. No star ratings here: the right deck is the one you can see clearly and enjoy shuffling."
+---
+My shortlist for 2027 is mostly one deck in several editions: the Rider-Waite-Smith, drawn by Pamela Colman Smith in 1909. Then one Marseille deck and the Thoth, both for later. There are no star ratings and no prices here; what matters is whose drawings are on the cards, how big they are, and whether you can read the colours.
+
+## How I chose these decks {#how-i-chose}
+
+Four things decided the list.
+
+1. *The drawings.* Every card should have Smith’s scene, the numbered cards included, because a scene is something you can read on the first evening. [Why I start everyone on the Rider-Waite-Smith](/blog/best-tarot-deck-for-beginners/) explains this at length.
+2. *The colours.* I teach colour as a lens, so the colouring of an edition matters more to me than its box.
+3. *The size.* Small cards suit small hands and bags; large cards suit tired eyes and table readings.
+4. *Whether you can find it.* A deck you can’t buy where you live isn’t a recommendation.
+
+I’ve left out star ratings on purpose. A deck that suits one pair of hands doesn’t suit another, and a score would pretend otherwise.
+
+{{< todo >}}Add here: which of these decks you have held yourself, and any you’d remove or add{{< /todo >}}
+
+## The Rider-Waite-Smith editions {#rws-editions}
+
+All four keep the same 78 scenes. They differ in colouring and format, and that’s how to choose between them.
+
+*The classic Rider-Waite, from U.S. Games Systems.* The edition whose images you’ve probably already seen in books and online. Its colours are brighter and flatter than the earliest printings. A safe first deck if you want the pictures most teaching material shows.
+
+*The Smith-Waite Centennial, from U.S. Games Systems (2009).* Made for the deck’s hundredth anniversary to reproduce the muted colours of the early printings, with Smith’s signature visible on the cards. It also comes in a small tin, and inside the Pamela Colman Smith Commemorative Set. If you like to feel close to the 1909 original, start here.
+
+*The Universal Waite.* Smith’s line drawings recoloured by Mary Hanson-Roberts in softer tones, with more detail visible in faces and costumes. Gentle on the eyes, and available in a pocket size.
+
+*The Radiant Rider-Waite.* Smith’s drawings recoloured by Virginijus Poshkus, with vivid colours and lighter black outlines. Readers who find the older colouring dull often prefer it.
+
+In the UK, some of these editions are sold under the Rider imprint, the publisher whose name stuck to the deck in the first place.
+
+**Any edition with Smith’s drawings reads the same way; choose the one you can see clearly and enjoy shuffling.**
+
+One thing to watch with recoloured editions: colour is one of the lenses I teach, and a recolouring can soften or brighten the very tones you read through. Once you have your deck, lay [the colour grid](/library/tarot-colours/) next to a few cards and check what your edition does. And if you’re curious about the woman behind every one of these decks, [Pamela Colman Smith](/library/tarot-figures/pamela-colman-smith/) has her own page.
+
+## One Marseille deck, for later {#marseille}
+
+If you want a Tarot de Marseille, the classic French choice is Grimaud’s *Ancien Tarot de Marseille*, the version Paul Marteau prepared around 1930 from an older Conver pattern. Another well-known option is the Camoin-Jodorowsky restoration, rebuilt from several old Marseille decks, with brighter colours.
+
+Neither is a first deck for my way of teaching. The numbered cards are patterns of cups, swords, coins and batons, with no people in them, so you read them through number and element alone. That makes the Marseille an excellent test once the lenses have sunk in. I set the two traditions side by side in [Marseille or Rider-Waite-Smith](/blog/marseille-vs-rider-waite/).
+
+## The Thoth, for much later {#thoth}
+
+The Thoth tarot was designed by Aleister Crowley and painted by Frieda Harris; today it’s published by AGM-Urania and distributed in the United States by U.S. Games Systems, in several sizes.
+
+It’s a deep, beautiful deck, dense with astrology and symbolism, and in my own notes it sits on the shelf marked “to explore later”. The numbered cards have no scenes, several majors are renamed, and each minor carries a one-word title that tells you what to feel before you’ve looked. Wonderful for someone who loves symbols for their own sake; hard as a first deck. [What changes when you switch](/blog/thoth-vs-rider-waite/) is worth reading before you buy.
+
+## What I left off, and why {#left-off}
+
+Oracle decks, because they aren’t tarot: any number of cards, meanings chosen by their authors. Lovely to own; they won’t teach you tarot’s structure.
+
+The many modern redraws of the Rider-Waite-Smith. Some are beautiful, and once you know the original they can be a joy. I’d rather you choose one with a Smith edition next to it, so you can see what the artist kept and what they changed.
+
+Prices, because they change faster than this page will. And anything I couldn’t be sure exists in the shops.
+
+The honest limit: this is a reader’s shortlist, not a laboratory test. Don’t take my words as ultimate truth. Test it and experience it for yourself.
+
+## Your next step {#next-step}
+
+Pick one edition, not three. When it arrives, spend a week looking at it before you read anything about it; [the first week with a new deck](/blog/new-tarot-deck/) has the plan. And if you’re buying for someone else, the [tarot gift guide](/blog/tarot-gift-guide/) covers what to put in the parcel with it.
