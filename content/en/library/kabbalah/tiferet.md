@@ -32,7 +32,7 @@ On the body, it is the torso and the heart. The tradition attaches it to Jacob, 
 
 ## The four Sixes {#cards}
 
-The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of the [Golden Dawn](/library/tarot-history/golden-dawn-tarot/), which borrowed the Tree and rebuilt it as a system for cards, planets and elements — and as a ladder of initiation, where Tiferet became the grade of Adeptus Minor, 5=6. I keep the two apart. Each sephirah takes the four minor cards of its number, so Tiferet takes the Sixes.
+The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of the Golden Dawn, which borrowed the Tree and rebuilt it as a system for cards, planets and elements — and as a ladder of initiation, where Tiferet became the grade of Adeptus Minor, 5=6. I keep the two apart. Each sephirah takes the four minor cards of its number, so Tiferet takes the Sixes.
 
 {{< cards "wa06 cu06 sw06 pe06" >}}
 
@@ -73,8 +73,8 @@ Use the lens lightly. It’s an optional extra beside the five I teach: a questi
 
 ## Sources {#sources}
 
-- [Jewish Virtual Library, “The Ten Sefirot: Tiferet”](https://www.jewishvirtuallibrary.org/ten-sefirot-tiferet) — beauty as the balance of justice and mercy; the pairing with the Shekhinah.
+- [Jewish Virtual Library, “The Ten Sefirot: Tiferet”](https://jewishvirtuallibrary.org/ten-sefirot-tiferet) — beauty as the balance of justice and mercy; the pairing with the Shekhinah.
 - [Sefaria, “Tiferet”](https://www.sefaria.org/topics/tiferet1) — the sephirah in Jewish sources: the sixth of the ten, the body of the structure.
 - [Book T, the Golden Dawn’s tarot manuscripts (PDF hosted by Benebell Wen)](https://benebellwen.com/wp-content/uploads/2013/02/mathers-and-felkin-golden-dawn-book-t-the-tarot-1888.pdf) — the Golden Dawn titles and decans of the Sixes.
 - [Benebell Wen, “The Kings/Knights: Tarot Card Meanings”](https://benebellwen.com/2019/08/17/the-kings-knights-tarot-card-meanings/) — a tarot author matching the court titles to the letters of the Name, debate acknowledged.
-- [Neil Mann, “The Four Worlds”, *W. B. Yeats and A Vision*](https://www.yeatsvision.com/Worlds.html) — how the Golden Dawn renamed the courts: the mounted Knight became its King, the chariot-borne King its Prince.
+- [Neil Mann, note on the four worlds, *W. B. Yeats and “A Vision”*](https://www.yeatsvision.com/Worlds.html) — how the Golden Dawn rearranged the courts: the mounted Knight became its King, the King of older decks its Prince in a chariot.

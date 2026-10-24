@@ -1,6 +1,6 @@
 ---
 title: "Faut-il utiliser l’IA quand on est tarologue ? Où je place la limite"
-description: "Faut-il utiliser l’IA quand on est tarologue ? Ma limite : un dictionnaire patient pour les symboles et l’entraînement, oui ; ce qui arrive à la personne comme sa lecture, non."
+description: "Faut-il utiliser l’IA quand on est tarologue ? Ma limite : un dictionnaire pour les symboles et l’entraînement, oui ; ce que la personne reçoit comme sa lecture, non."
 translationKey: "post-should-tarot-readers-use-ai"
 type: blog
 date: 2026-10-24
@@ -9,7 +9,7 @@ tags: ["tarologue et IA", "utiliser l’IA pour le tarot", "éthique IA tarot", 
 image: "covers/should-tarot-readers-use-ai.jpg"
 imageAlt: "Un bureau en bois, un ordinateur portable repoussé tout au bord, et devant lui un jeu de tarot, une carte retournée et un carnet ouvert"
 imagePrompt: "A wooden desk with an open laptop pushed to the far edge and, in front of it, a tarot deck, one card face up and an open notebook with a pencil. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Oui, pour certaines choses. Je me sers de l’IA comme d’un dictionnaire : chercher pourquoi un symbole figure sur une carte, vérifier ce que j’ai oublié de regarder dans une image, me faire réviser les nombres et les éléments. Je place la limite à la lecture elle-même. Un modèle a besoin de votre contexte, ne rate jamais et lit les cartes une par une, et la personne est venue pour être lue par vous. Entre les deux, il y a une zone grise, les publications et l’administratif, où ma règle est simple à dire : ne jamais taper l’histoire intime de quelqu’un dans un outil, et pouvoir expliquer exactement comment on s’en est servi."
+summary: "Oui, pour certaines choses. Je me sers de l’IA comme d’un dictionnaire : chercher pourquoi un symbole figure sur une carte, vérifier ce que j’ai oublié de regarder dans une image, me faire réviser les nombres et les éléments. Je place la limite à la lecture elle-même. Un modèle a besoin de votre contexte, ne rate jamais et lit les cartes une par une, et la personne est venue pour être lue par vous. Dans la zone grise, publications et administratif, ma règle : ne jamais taper l’histoire intime de quelqu’un dans un outil, et pouvoir expliquer comment on s’en est servi."
 ---
 Oui, pour certaines choses, et je sais lesquelles. Je me sers de l’IA comme d’un dictionnaire : un endroit où chercher. Je place la limite là où commence la lecture, au moment où ce qui est dessiné sur une carte devient ce que la carte veut dire pour la personne en face de vous.
 
