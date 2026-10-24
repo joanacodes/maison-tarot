@@ -25,7 +25,7 @@ Cette structure tient dans le Rider-Waite-Smith de 1909, dans un tarot de Marsei
 
 {{< cards "wa08 cu08 sw08 pe08" >}}
 
-Dans [ma table de numérologie](/fr/bibliotheque/numerologie/chiffre-8/), le huit est un quatre « exalté » : une stabilité gagnée, le contrôle, une porte entre ce qu’on touche et ce qu’on ne touche pas. Mettez-le dans le Feu, et les bâtons volent ou tombent — verre à moitié plein ou à moitié vide. Dans l’Eau, on quitte ce qu’on est déjà en train de faire. Dans l’Air, on est prisonnier de soi-même alors qu’on a tous les outils pour sortir : le bandeau s’enlève. Dans la Terre, une affaire prospère, la maîtrise, l’effort qu’elle coûte. Un nombre, quatre maisons, quatre lectures, et rien d’appris par cœur.
+Dans [ma table de numérologie](/fr/bibliotheque/numerologie/chiffre-8/), le huit est un quatre « exalté » : une stabilité durable, le contrôle, une porte entre ce qu’on touche et ce qu’on ne touche pas. Mettez-le dans le Feu, et les bâtons volent ou tombent — verre à moitié plein ou à moitié vide. Dans l’Eau, on quitte ce qu’on est déjà en train de faire. Dans l’Air, on est prisonnier de soi-même alors qu’on a tous les outils pour sortir : le bandeau s’enlève. Dans la Terre, une affaire prospère, la maîtrise, l’effort qu’elle coûte. Un nombre, quatre maisons, quatre lectures, et rien d’appris par cœur.
 
 ## Qu’est-ce qu’un oracle ? {#l-oracle}
 

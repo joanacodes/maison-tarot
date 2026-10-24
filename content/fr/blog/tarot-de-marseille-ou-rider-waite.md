@@ -31,7 +31,7 @@ Ses familles sont les Bâtons, les Coupes, les Épées et les Pentacles. Le Huit
 
 ## Cartes de points ou images : comment on lit chacune {#points-ou-images}
 
-Sur une carte de points du Marseille, le nombre et la famille sont presque tout ce que vous avez, alors c’est ça que vous lisez. Le huit est un quatre « exalté » : une stabilité gagnée, le contrôle, une porte. Les Coupes, c’est l’Eau, les émotions. Ensemble : une stabilité émotionnelle qu’on a construite — et la question de ce qu’on en fait. La disposition aide : coupes serrées ou espacées, quelque chose qui pousse entre elles ?
+Sur une carte de points du Marseille, le nombre et la famille sont presque tout ce que vous avez, alors c’est ça que vous lisez. Le huit est un quatre « exalté » : une stabilité durable, le contrôle, une porte. Les Coupes, c’est l’Eau, les émotions. Ensemble : une stabilité émotionnelle qui tient — et la question de ce qu’on en fait. La disposition aide : coupes serrées ou espacées, quelque chose qui pousse entre elles ?
 
 Sur une carte du Rider-Waite-Smith, vous lisez la scène d’abord, et le nombre vient confirmer. Ma note pour ce Huit de Coupes, c’est « quitter ce qu’on est déjà en train de faire », et le personnage qui s’en va le dit sans un mot.
 
@@ -65,7 +65,7 @@ Et le XIII porte un numéro mais, au Marseille, pas de nom : un squelette qui fa
 
 Le Marseille, si les personnes qui vous transmettront le tarot le lisent, si les nombres vous parlent, ou si vous aimez lire avec les seuls majeurs, comme le font beaucoup de tarologues français — [ce qu’on gagne et ce qu’on perd avec les 22 majeurs seuls](/fr/blog/22-arcanes-majeurs-seulement/) est une question à part entière. C’est un modèle ancien, avec une longue lignée de lecteurs derrière lui.
 
-Le Rider-Waite-Smith, si vous voulez lire sans livre dès la première carte. C’est le jeu sur lequel j’ai appris, et celui sur lequel toute la Bibliothèque de la Maison est construite, parce que chaque carte est une scène.
+Le Rider-Waite-Smith, si vous voulez lire sans livre dès la première carte. C’est le jeu avec lequel je lis et j’enseigne, et celui sur lequel toute la Bibliothèque de la Maison est construite, parce que chaque carte est une scène.
 
 Ma limite, honnêtement : le carnet où je compte mes réussites et mes ratés, je l’ai tenu avec le Rider-Waite-Smith. Je n’ai donc rien à dire sur le jeu qui « marcherait mieux », et je me méfierais de quiconque prétend le savoir. Ne prenez pas mes mots pour une vérité absolue : testez, et faites-en l’expérience vous-même.
 

@@ -29,7 +29,7 @@ Its suits are Wands, Cups, Swords and Pentacles. The Eight of Cups is a figure i
 
 ## Numbered pips or pictures: how you read each {#pips-or-pictures}
 
-On a Marseille pip, the number and the suit are almost all you have, so that's what you read. Eight is four “exalted”: stability earned, control, a gate. Cups are Water, the emotions. Put them together and you get emotional stability that has been worked for — and the question of what you do with it. The arrangement on the card helps: are the cups packed tight or spread out, is something growing between them?
+On a Marseille pip, the number and the suit are almost all you have, so that's what you read. Eight is four “exalted”: lasting stability, control, a gate. Cups are Water, the emotions. Put them together and you get emotional stability that holds — and the question of what you do with it. The arrangement on the card helps: are the cups packed tight or spread out, is something growing between them?
 
 On a Rider-Waite-Smith card, you read the scene first and the number comes to confirm it. My note for that Eight of Cups is “moving on from what you're already doing”, and the figure walking away says it without a word.
 
@@ -63,7 +63,7 @@ And XIII has a number but, in the Marseille, no name: a skeleton mowing a field.
 
 The Marseille, if the people who'll teach you read it, if numbers speak to you, or if you'd like to read with the majors alone, as plenty of Marseille readers do — [what you gain and lose with only the 22 majors](/blog/major-arcana-only/) is its own question. It's an old pattern with a long line of readers behind it.
 
-The Rider-Waite-Smith, if you want to read without a book from the first card. It's the deck I learned on and the one the whole Maison Tarot Library is built on, because every card is a scene.
+The Rider-Waite-Smith, if you want to read without a book from the first card. It's the deck I read and teach with, and the one the whole Maison Tarot Library is built on, because every card is a scene.
 
 My honest limit: the notebook where I count my hits and misses was kept with the Rider-Waite-Smith, so I have nothing to say about which deck “works better”, and I'd be wary of anyone who claims to know. Don't take my words as ultimate truth. Test it and experience it for yourself.
 

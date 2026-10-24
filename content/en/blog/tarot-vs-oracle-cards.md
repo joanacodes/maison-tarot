@@ -25,7 +25,7 @@ That structure holds in the 1909 Rider-Waite-Smith, in a Marseille deck, in a mo
 
 {{< cards "wa08 cu08 sw08 pe08" >}}
 
-In my [numerology table](/library/numerology/number-8/), eight is four “exalted”: stability that has been earned, control, a gate between what you can touch and what you can't. Put it in Fire and the wands are flying or falling — glass half full or half empty. In Water, it's moving on from what you're already doing. In Air, a prisoner of yourself who has every tool to get out: you can take off the blindfold. In Earth, a prosperous business, mastery, the effort it costs. One number, four houses, four readings, and you memorised none of them.
+In my [numerology table](/library/numerology/number-8/), eight is four “exalted”: lasting stability, control, a gate between what you can touch and what you can't. Put it in Fire and the wands are flying or falling — glass half full or half empty. In Water, it's moving on from what you're already doing. In Air, a prisoner of yourself who has every tool to get out: you can take off the blindfold. In Earth, a prosperous business, mastery, the effort it costs. One number, four houses, four readings, and you memorised none of them.
 
 ## What is an oracle deck? {#what-is-an-oracle}
 
