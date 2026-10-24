@@ -23,7 +23,7 @@ I've been on the asking side myself. I put on an astrology video to mock it, rea
 
 ## Know what you claim, and what you don't {#what-you-claim}
 
-You can't be defensive about a claim you never made. Here's what I claim, and what I don't:
+You can't be defensive about a claim you never made, so it helps to know your own list by heart. Here's mine:
 
 - Tarot is not an authority. Act on what you feel, not on what a card said.
 - About one reading in ten misses, by my own manual count ([how I counted](/blog/does-tarot-work-300-readings/)). It's a tally, not a study.
@@ -44,13 +44,15 @@ To someone worried for a friend: "That's a kind thing to worry about. I don't re
 
 To someone who believes far more than you do: "It's real enough that I take it seriously, and not real enough to decide for you. You still get the last word."
 
+To someone who was hurt by a reader before: "I'm sorry that happened. For what it's worth, a reader you can trust says when they miss, and doesn't sell you anything to fix what they saw."
+
 To a joke: smile. "Real enough that you asked."
 
 ## When someone wants to argue {#argue}
 
 Agree with what's fair. Cold reading exists. The Barnum effect exists. People remember the hits and forget the misses. Those are good objections, and they're the reason I ask people to say nothing first and why I count my misses. I've written about [how to tell cold reading from a tarot reading](/blog/cold-reading-vs-tarot/). "You're right, that's a real risk" ends more arguments than any comeback.
 
-Then let it go. You don't need their agreement to keep reading, and they don't need yours to keep doubting. Don't take my words as ultimate truth. Test it and experience it for yourself. It's the sentence I'd leave anyone with, sceptic or believer.
+Then let it go. A calm answer won't convert anyone, and it isn't meant to. The aim is that the person leaves knowing what you actually do, rather than what they'd imagined. You don't need their agreement to keep reading, and they don't need yours to keep doubting. Don't take my words as ultimate truth. Test it and experience it for yourself. It's the sentence I'd leave anyone with, sceptic or believer.
 
 ## What not to say {#what-not-to-say}
 

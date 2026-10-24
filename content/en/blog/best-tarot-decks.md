@@ -1,6 +1,6 @@
 ---
 title: "Best tarot decks for beginners in 2027: a reader's shortlist"
-description: "My shortlist of the best tarot decks for beginners in 2027: four Rider-Waite-Smith editions, one Marseille and the Thoth for later — no ratings, just what to look for."
+description: "My shortlist of the best tarot decks for beginners in 2027: four Rider-Waite-Smith editions, one Marseille and the Thoth for later, and how to choose between them."
 translationKey: "post-best-tarot-decks"
 type: blog
 date: 2026-10-24
@@ -30,9 +30,9 @@ I’ve left out star ratings on purpose. A deck that suits one pair of hands doe
 
 All four keep the same 78 scenes. They differ in colouring and format, and that’s how to choose between them.
 
-*The classic Rider-Waite, from U.S. Games Systems.* The edition whose images you’ve probably already seen in books and online. Its colours are brighter and flatter than the earliest printings. A safe first deck if you want the pictures most teaching material shows.
+*The classic Rider-Waite, from U.S. Games Systems.* The edition whose images you’ve probably already seen in books and online. Its colours are bolder than the muted tones of the earliest printings. A safe first deck if you want the pictures most teaching material shows.
 
-*The Smith-Waite Centennial, from U.S. Games Systems (2009).* Made for the deck’s hundredth anniversary to reproduce the muted colours of the early printings, with Smith’s signature visible on the cards. It also comes in a small tin, and inside the Pamela Colman Smith Commemorative Set. If you like to feel close to the 1909 original, start here.
+*The Smith-Waite Centennial, from U.S. Games Systems (2009).* Made for the deck’s hundredth anniversary to reproduce the muted colours of the early printings. It also comes in a small tin, and inside the Pamela Colman Smith Commemorative Set. If you like to feel close to the 1909 original, start here.
 
 *The Universal Waite.* Smith’s line drawings recoloured by Mary Hanson-Roberts in softer tones, with more detail visible in faces and costumes. Gentle on the eyes, and available in a pocket size.
 
@@ -46,7 +46,7 @@ One thing to watch with recoloured editions: colour is one of the lenses I teach
 
 ## One Marseille deck, for later {#marseille}
 
-If you want a Tarot de Marseille, the classic French choice is Grimaud’s *Ancien Tarot de Marseille*, the version Paul Marteau prepared around 1930 from an older Conver pattern. Another well-known option is the Camoin-Jodorowsky restoration, rebuilt from several old Marseille decks, with brighter colours.
+If you want a Tarot de Marseille, the classic French choice is Grimaud’s *Ancien Tarot de Marseille*, the version Paul Marteau prepared around 1930 from an older Conver pattern. Another well-known option is the Camoin-Jodorowsky restoration, rebuilt by comparing several old Marseille decks.
 
 Neither is a first deck for my way of teaching. The numbered cards are patterns of cups, swords, coins and batons, with no people in them, so you read them through number and element alone. That makes the Marseille an excellent test once the lenses have sunk in. I set the two traditions side by side in [Marseille or Rider-Waite-Smith](/blog/marseille-vs-rider-waite/).
 
@@ -54,7 +54,7 @@ Neither is a first deck for my way of teaching. The numbered cards are patterns 
 
 The Thoth tarot was designed by Aleister Crowley and painted by Frieda Harris; today it’s published by AGM-Urania and distributed in the United States by U.S. Games Systems, in several sizes.
 
-It’s a deep, beautiful deck, dense with astrology and symbolism, and in my own notes it sits on the shelf marked “to explore later”. The numbered cards have no scenes, several majors are renamed, and each minor carries a one-word title that tells you what to feel before you’ve looked. Wonderful for someone who loves symbols for their own sake; hard as a first deck. [What changes when you switch](/blog/thoth-vs-rider-waite/) is worth reading before you buy.
+It’s a deep, beautiful deck, dense with astrology and symbolism, and in my own notes it sits on the shelf marked “to explore later”. The numbered cards have no scenes, several majors are renamed, and each numbered minor carries a one-word title that tells you what to feel before you’ve looked. Wonderful for someone who loves symbols for their own sake; hard as a first deck. [What changes when you switch](/blog/thoth-vs-rider-waite/) is worth reading before you buy.
 
 ## What I left off, and why {#left-off}
 
