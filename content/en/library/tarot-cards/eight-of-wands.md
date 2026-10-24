@@ -1,7 +1,6 @@
 ---
 title: 'Eight of Wands — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'Eight of Wands: what’s on the card, then the number, the element (Fire),
-  the colours and Mercury in Sagittarius. Read the card without having learned it.'
+description: 'Eight of Wands: eight living branches cross a clear sky and nobody steers them. Read speed, news and landing through the number 8, Fire, colours and Mercury.'
 translationKey: card-wa08
 type: cards
 navTitle: Eight of Wands
@@ -28,12 +27,11 @@ related:
 - /library/astrology
 faq:
 - q: What does Eight of Wands mean?
-  a: 'There isn’t one meaning to memorise: Eight of Wands is read through its number
-    (eight), its element (Fire) and its colours. The page above lays them out one
-    by one.'
+  a: 'Movement already launched: replies, plans, news and trips arriving fast, often several in the same week. Read it through its number (eight, the work now travelling on its own), its element (Fire, speed) and its open blue sky before reaching for a fixed meaning.'
 - q: What about Eight of Wands reversed?
-  a: The same card, slowed down or in excess. Look first at what the card says upright,
-    then at what blocks or overflows.
+  a: 'The same flight, stalled or overflowing: the reply that doesn’t come, the plan pushed back again, or so much at once that nothing gets read properly. The useful question is what you can settle now instead of waiting on all eight.'
+- q: What does the Eight of Wands mean in love?
+  a: 'Things move quickly: messages, a first meeting that turns into plans within days, a long-distance link getting closer. The card speaks about pace, not about how long it lasts, so let it land before you build on it.'
 categories:
 - Wands
 tags:
@@ -44,28 +42,52 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-{{< todo >}}TO WRITE — describe Pamela Colman Smith’s drawing, detail by detail: figures, objects, posture, what’s missing.{{< /todo >}}
+Eight wands cross a pale blue sky, all parallel, all slanting the same way, down from the top left towards the bottom right. Their back ends are cut off by the edge of the card: they come from somewhere outside the frame. Each one carries small green shoots — living branches, not planks.
+
+Below, a thin strip of land: green hills, a small building on the hilltop at the left, a pale field, and a blue river running across the bottom. The lowest wand almost touches the ground.
+
+Look for a person and you won’t find one: no hand throws the wands, no one waits to catch them. **This is movement already launched, with nobody steering it** — and the drawing never says whether the wands are still climbing or about to land.
 
 ## By number: eight {#number}
 
-**eight — movement, mastery, the fruit of work.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**eight — movement, mastery, the fruit of work.** [Eight](/library/numerology/number-8/) is 4 exalted: what was built has become an empire, solid enough to run without anyone pushing. In the Wands, that solidity turns into momentum: the work is done, and now it travels. In the Instagram story, 8 is the moment the app, bought by Facebook, became infrastructure — nobody asked any more whether it would work.
+
+My own note on this card is about angle: the wands are flying, or they’re falling — glass half full or half empty. The drawing allows both, and so will the person in front of you. “Everything is happening at once” can be the best news of the year or the most stressful week of it. The 8 says the thing is under way; it doesn’t say which way it lands.
+
+I also read 8 as a gate between what you can’t touch and what you can. Here you watch the crossing itself: ideas in the air, coming down towards a field.
 
 ## By element: Fire {#element}
 
-{{< todo >}}TO WRITE — what [Fire](/library/four-elements/fire-element/) brings here: what the card is about.{{< /todo >}}
+[Fire](/library/four-elements/fire-element/) is creation, impulse, and above all speed — it spreads fast when no one masters it. The Eight of Wands is that one property on its own: no figure, no flame, only things travelling.
+
+A Fire card with no one at the controls asks a plain question: who decides where this goes? The Fire archetype is the teenager who believes they can do anything. On this card, they’ve already thrown everything into the air.
 
 ## By colours {#colours}
 
-{{< todo >}}TO WRITE — the dominant colours and what they say before the card ([the colour grid](/library/tarot-colours/)).{{< /todo >}}
+The card is mostly sky. That pale [blue](/library/tarot-colours/blue/) — vitality, water, purification — is unusual for a Fire card, and it gives the Eight its clean, open feel: the air is clear, nothing stands in the way. The orange-brown of the wands carries the Fire itself: creativity, drive.
+
+Then the small [green](/library/tarot-colours/green/) shoots, repeated on every wand and on the hills below: growth, life. What’s flying is alive and can take root wherever it lands. Before you even know the card’s name, the colours say: clear sky, things moving, things growing.
 
 ## By astrology: Mercury in Sagittarius {#astrology}
 
-{{< todo >}}TO WRITE — Mercury in Sagittarius, in the Golden Dawn tradition; what it adds, and whether it’s worth keeping ([astrology](/library/astrology/)).{{< /todo >}}
+In the Golden Dawn tradition, the Eight of Wands is Mercury in Sagittarius, and the Order called it the Lord of Swiftness. [Mercury](/library/astrology/mercury/) is the speed of the mind: words, messages, the way you learn. Sagittarius is the traveller, whose verb is “I see, I try”. Together they give news from far away, a message sent before it’s fully thought through, a decision taken in mid-flight.
+
+If astrology is one of your lenses, keep this layer of messages and distance; if not, number, element and colours already say speed.
 
 ## In a reading {#reading}
 
-{{< todo >}}TO WRITE — upright, reversed, with neighbouring cards. One thing to remember, in bold.{{< /todo >}}
+Upright, the Eight of Wands says things are moving, faster than expected: replies arrive, a stuck project unblocks, a trip comes together, three things land in the same week. **Everything is already in the air; your part is to be there when it lands.**
+
+Reversed, the wands hang in mid-air: the answer that doesn’t come, the parcel stuck somewhere, the date pushed back again. Or the excess — messages in every direction, and no time to read any of them properly. Either way, ask what can be settled today, so you’re not waiting on all eight.
+
+Next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/), the same number with the opposite picture: one flies, the other stands bound and blindfolded, a prisoner of herself while holding every tool to get out. Together they say the way out is already moving. Next to [the Hanged Man](/library/tarot-cards/the-hanged-man/), the rush meets a chosen pause — someone who stops on purpose while everything flies. Next to [the Magician](/library/tarot-cards/the-magician/), Mercury’s major card, the speed finds someone who knows how to use it.
+
+{{< cards "sw08 ar12 ar01" >}}
 
 ## A reading, as an example {#example}
 
-{{< todo >}}TO WRITE — a real anonymised spread: lenses first, the sentence said, what the person confirmed.{{< /todo >}}
+Say someone sits down, tells you nothing, and draws the Eight of Wands next to the [Seven of Cups](/library/tarot-cards/seven-of-cups/). Lenses first: 8 then 7 — momentum, then reflection and too many choices; Fire then Water — speed, then feeling; a clear blue sky, then a dark silhouette facing seven cups floating in a cloud.
+
+What you might say out loud: “A lot is arriving at once, and you have more options than you can feel your way through. Before you choose, let things land.”
+
+Then you check, plainly: “Does that sound like your week, or not at all?” If it doesn’t fit, it’s a miss; note it as one. If it does, let them tell you which of the cups they keep looking at — you don’t need to guess.

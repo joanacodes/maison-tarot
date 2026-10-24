@@ -1,7 +1,6 @@
 ---
 title: 'Ace of Swords — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'Ace of Swords: what’s on the card, then the number, the element (Air),
-  the colours and Root of Air. Read the card without having learned it.'
+description: 'Ace of Swords in the Rider-Waite-Smith tarot: a hand, a crowned blade, a clear decision. Read it by number, Air and colours, upright and reversed, with an example.'
 translationKey: card-swac
 type: cards
 navTitle: Ace of Swords
@@ -28,12 +27,11 @@ related:
 - /library/astrology
 faq:
 - q: What does Ace of Swords mean?
-  a: 'There isn’t one meaning to memorise: Ace of Swords is read through its number
-    (one), its element (Air) and its colours. The page above lays them out one by
-    one.'
+  a: 'Something becomes clear: a decision taken, a truth that breaks through, the right word found at last. Its number (one) says it’s a beginning and its element (Air) says it happens in the mind. What’s left is to act on it.'
 - q: What about Ace of Swords reversed?
-  a: The same card, slowed down or in excess. Look first at what the card says upright,
-    then at what blocks or overflows.
+  a: 'The same clarity, held badly. Either it’s blurred by overthinking, the decision taken and untaken, or it’s in excess, being right used as a weapon. The cards around it tell you which.'
+- q: 'What does the Ace of Swords mean in love?'
+  a: 'A conversation that clears the air, or a decision about the relationship that has become obvious. It talks about what you think and say, not about what the other person feels.'
 categories:
 - Swords
 tags:
@@ -44,28 +42,46 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-{{< todo >}}TO WRITE — describe Pamela Colman Smith’s drawing, detail by detail: figures, objects, posture, what’s missing.{{< /todo >}}
+A pale hand comes out of a grey cloud on the left edge of the card and grips a sword by the hilt, point to the sky. The hand gives off a faint fringe of rays, as if it carried its own light. The blade is long, straight and double-edged, tinted pale blue.
+
+At the top, the blade passes through a gold crown set with small red stones. From the crown hang a leafy sprig dotted with red and a palm frond — usually read as olive and palm, peace and victory. Six yellow drops fall on either side of the blade like sparks. Far below, a low line of bare peaks. No figure, no path, no house: nobody stands on this ground yet.
+
+The drawing is about one thing: **a clear idea held firmly, before anyone has done anything with it.**
 
 ## By number: one {#number}
 
-**one — the beginning, the rough diamond.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**one — the beginning, the rough diamond.** One is the initiator: it opens the cycle and knows nothing of what comes next. Here the rough diamond is a thought, the moment something becomes clear in your head. Worth a lot, useful for nothing yet: a decision made but not announced, a truth seen but not said. Instagram’s first stage was exactly that, Burbn stripped down to its one good idea. The advice of [the number 1](/library/numerology/number-1/) is humility, and its minus fits this card closely: the person so sure they’re right that they stop listening.
 
 ## By element: Air {#element}
 
-{{< todo >}}TO WRITE — what [Air](/library/four-elements/air-element/) brings here: what the card is about.{{< /todo >}}
+The Ace is [Air](/library/four-elements/air-element/) at its source: the mind, analysis, the decision. In my notes, Air is the best decision-maker of the four elements because it sees everything at once — Fire is too impulsive, Water too emotional, Earth too stubborn. The Ace is that capacity before it’s been used: the fog lifts, and you can cut.
+
+Air is also communication, good or bad. The same blade can say a true thing plainly or turn into the viper’s tongue. An idea this sharp is held by the hilt, not by the edge.
 
 ## By colours {#colours}
 
-{{< todo >}}TO WRITE — the dominant colours and what they say before the card ([the colour grid](/library/tarot-colours/)).{{< /todo >}}
+The background is almost all [grey](/library/tarot-colours/grey/): neutrality, a stability that waits. Against it, the white of the hand, something untouched, and the cold blue of the steel. Then the touches that matter: the gold of the crown and the yellow drops, joy and will; the green of the branches, growth; tiny red stones, a little impulse. Read the colours before the card ([the colour grid](/library/tarot-colours/)) and you already have it: a calm ground, a cold clarity, a crown of possibilities hanging from the tip.
 
 ## By astrology: Root of Air {#astrology}
 
-{{< todo >}}TO WRITE — Root of Air, in the Golden Dawn tradition; what it adds, and whether it’s worth keeping ([astrology](/library/astrology/)).{{< /todo >}}
+The Aces get no sign and no planet in the Golden Dawn tradition. They are the roots of their element: the Ace of Swords is the Root of the Powers of Air, the seed the suit grows from, while the other Swords are shared between the three Air signs — Libra, Aquarius and Gemini. So the Ace holds all three in potential: Libra’s weighing, Aquarius’s new idea, Gemini’s quick word. If [astrology](/library/astrology/) speaks to you, keep that picture; if not, the number and the element have already said what matters.
 
 ## In a reading {#reading}
 
-{{< todo >}}TO WRITE — upright, reversed, with neighbouring cards. One thing to remember, in bold.{{< /todo >}}
+Upright, the Ace of Swords is the moment it becomes clear: a decision taken, a truth that breaks through, the word you’d been looking for. It often comes after a confused stretch and brings clarity rather than comfort, which can feel cold. The useful question is what the person will do with what they now see.
+
+Reversed, the same blade is held badly. Blurred by overthinking: the decision taken, untaken, taken again. Or in excess: being right as a weapon, the sentence said to wound rather than to clear the air.
+
+Next to [the Magician](/library/tarot-cards/the-magician/), another 1, the idea finds its tools. Next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/), it’s the blade that cuts the ties: the blindfold can come off. Next to the [Ace of Cups](/library/tarot-cards/ace-of-cups/), head and heart start together — a new feeling you can finally name.
+
+{{< cards "ar01 sw08 cuac" >}}
+
+**The Ace of Swords doesn’t decide for you; it tells you the decision is already clear.**
 
 ## A reading, as an example {#example}
 
-{{< todo >}}TO WRITE — a real anonymised spread: lenses first, the sentence said, what the person confirmed.{{< /todo >}}
+Say someone sits down, tells you nothing, and draws the Ace of Swords next to the [Two of Pentacles](/library/tarot-cards/two-of-pentacles/). Lenses first. One then two: a beginning, then a balance to keep. Air then Earth: a thought, then something concrete — money, time, a job. Grey and steel, then a figure juggling two coins with ships riding the waves behind.
+
+You might say: “You’ve been juggling two things for a while, and in your head the choice is already made. What’s missing is saying it.”
+
+Then check, with an open question rather than a leading one: “Is there something you’ve decided and not announced yet?” If the answer is no, it’s a miss, and you note it as one. That’s [the method](/method/) in three steps: lenses, a sentence, a check.

@@ -15,33 +15,33 @@ La question « IA ou humain ? » suppose que les deux font le même métier. Ce 
 
 ## Ce que le tarologue fait et que la machine ne sait pas faire {#humain}
 
-*Ne rien savoir.* Je lis pour des personnes qui ne me disent rien. Cette seule contrainte donne son poids à ce qui tombe juste : ça ne peut pas venir d’elles. Un modèle ne peut pas travailler ainsi : il faut lui écrire quelque chose, et ce que vous écrivez devient la lecture.
+*Ne rien savoir.* Je lis pour des personnes qui ne me disent rien. Cette contrainte donne son poids à ce qui tombe juste : ça ne peut pas venir d’elles. Un modèle ne peut pas travailler ainsi : il faut lui écrire quelque chose, et ce que vous écrivez devient la lecture.
 
-*Se tromper.* Un vrai lecteur dit « ce n’est pas ça » et passe à la suite. Ça m’arrive à peu près une fois sur dix, à voix haute, et je le note. Un modèle enrobe chaque phrase jusqu’à ce qu’elle ne puisse plus être fausse, ce qui revient à ne jamais être juste.
+*Se tromper.* Un vrai lecteur dit « ce n’est pas ça » et passe à la suite. Ça m’arrive environ une fois sur dix ; je le dis et je le note. Un modèle enrobe chaque phrase jusqu’à ce qu’elle ne puisse plus être fausse, ce qui revient à ne jamais être juste.
 
-*Laisser certaines questions de côté.* La santé, la mort, une grossesse, un procès, les malédictions : je ne lis pas sur ces sujets, parce qu’un mot de travers y fait du mal, et [j’explique ici pourquoi](/fr/avertissements/#refus). Je comprends qu’on me les pose : c’est souvent l’inquiétude qui parle. Un modèle, lui, répond à tout, à toute heure, dans n’importe quel état. Il ne connaît pas les soirs où il vaudrait mieux ne pas être lu.
+*Laisser certaines questions de côté.* La santé, la mort, une grossesse, un procès, les malédictions : je ne lis pas sur ces sujets, parce qu’un mot de travers y fait du mal ([voici pourquoi](/fr/avertissements/#refus)). Je comprends qu’on me les pose : c’est souvent l’inquiétude qui parle. Un modèle, lui, répond à tout, à toute heure, dans n’importe quel état. Il ne connaît pas les soirs où il vaudrait mieux ne pas être lu.
 
-*S’arrêter.* Quand la personne en face de moi va mal, je m’arrête et je lui dis pourquoi. Un modèle n’a ni visage à regarder ni voix à entendre, et ne peut pas décider que la bonne réponse, c’est de ne pas répondre.
+*S’arrêter.* Quand la personne en face va mal, je m’arrête et je lui dis pourquoi. Un modèle n’a ni visage à regarder ni voix à entendre, et ne peut pas décider que la bonne réponse, c’est de ne pas répondre.
 
-*Lire le tirage.* Le lien entre les cartes — un 1 à côté d’un 10, trois Coupes et une Épée, une carte renversée sur cinq — porte l’essentiel d’une lecture. Les modèles expliquent des cartes ; les lecteurs lisent des ensembles. La différence n’a rien de subtil : c’est celle qui sépare un dictionnaire d’une phrase.
+*Lire le tirage.* Le lien entre les cartes — un 1 à côté d’un 10, trois Coupes et une Épée, une carte renversée sur cinq — porte l’essentiel d’une lecture. Les modèles expliquent des cartes ; les lecteurs lisent des ensembles. Rien de subtil là-dedans : c’est la différence entre un dictionnaire et une phrase.
 
-*Respirer.* Au sens propre : une lecture, ce sont deux systèmes nerveux dans une pièce. L’instant où je dis la phrase et où le visage en face change avant d’avoir décidé quoi répondre, c’est ça, la lecture. Il n’y a pas d’équivalent sur un écran, et ceux qui prétendent le contraire ne se sont jamais assis à une table.
+*Respirer.* Au sens propre : une lecture, ce sont deux systèmes nerveux dans une pièce. L’instant où je dis la phrase et où la personne change de visage avant d’avoir décidé quoi répondre, c’est ça, la lecture. Rien de tel sur un écran, et ceux qui disent le contraire ne se sont jamais assis à une table.
 
 ## Ce que la machine fait mieux que la plupart d’entre nous {#machine}
 
-*Expliquer l’image, patiemment, sans jamais se lasser.* Demandez pourquoi l’Impératrice porte un bouclier au signe de Vénus, pourquoi le Pendu a l’air si calme, ce que font les grenades sur le voile de la Grande Prêtresse : la réponse est claire, immédiate, sans jugement, à toute heure. Pour apprendre [ce qui est dessiné sur les cartes](/fr/bibliotheque/symboles-tarot/), c’est mieux que la plupart des livres et que presque tous les tarologues.
+*Expliquer l’image, patiemment, sans fin.* Demandez pourquoi l’Impératrice porte un bouclier au signe de Vénus, pourquoi le Pendu a l’air si calme, ce que font les grenades sur le voile de la Grande Prêtresse : la réponse est claire, immédiate, sans jugement, à toute heure. Pour apprendre [ce qui est dessiné sur les cartes](/fr/bibliotheque/symboles-tarot/), c’est mieux que la plupart des livres et presque tous les tarologues.
 
-C’est une vraie valeur, et je m’en sers comme ça. Seulement, ce n’est pas une lecture.
+C’est une vraie valeur, et je m’en sers ainsi. Seulement, ce n’est pas une lecture.
 
 ## Le plus inquiétant, ce n’est pas le mauvais {#inquietant}
 
-Si les tirages par IA étaient visiblement médiocres, personne ne s’en inquiéterait. Le problème, c’est qu’ils sont lisses : ton assuré, aucune hésitation, une réponse à chaque question, une formule chaleureuse pour finir. Ce sont exactement les traits que je citerais pour décrire [un voyant à éviter](/fr/blog/arnaque-voyance/) : jamais tort, toujours disponible, ne dit jamais non, flatte. La machine les a par construction, sans malice, et c’est presque pire : personne n’est malhonnête, donc rien ne sonne faux.
+Si les tirages par IA étaient visiblement mauvais, personne ne s’inquiéterait. Le problème, c’est qu’ils sont lisses : ton assuré, aucune hésitation, une réponse à chaque question, une formule chaleureuse pour finir. Ce sont précisément les traits d’[un voyant à éviter](/fr/blog/arnaque-voyance/) : jamais tort, toujours disponible, ne dit jamais non, flatte. La machine les a par construction, sans malice, et c’est presque pire : sans personne de malhonnête, rien ne sonne faux.
 
 ## Lequel choisir, et quand {#lequel-choisir}
 
-- Pour apprendre ce que montre une carte : la machine, sans hésiter.
-- Pour vous entraîner à décrire une carte à voix haute : l’un ou l’autre, mais un humain vous dira quand vous récitez.
+- Pour apprendre ce que montre une carte : la machine, librement.
+- Pour vous entraîner à décrire une carte à voix haute : les deux, mais un humain vous dira quand vous récitez.
 - Pour être lu : un humain qui ne prend aucun contexte et reconnaît ses ratés.
 - À 3 heures du matin, quand ça va mal et que vous voulez une réponse : ni l’un ni l’autre. [Ce soir-là, il vous faut une pause](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/), pas un tirage, et peut-être une voix amie au téléphone.
 
-Et si vous préférez la comparaison à l’argument, [faites passer le même test aux deux](/fr/blog/tirage-tarot-ia/) et posez les deux carnets côte à côte. La différence se voit sans moi.
+Et si vous préférez la comparaison à l’argument, [faites passer le même test aux deux](/fr/blog/tirage-tarot-ia/) et comparez les carnets. La différence se voit sans moi.
