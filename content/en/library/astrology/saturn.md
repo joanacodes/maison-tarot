@@ -32,7 +32,31 @@ faq:
 - q: Is the Saturn return real?
   a: Around 29, Saturn comes back to its birth position. A lot of people change their
     lives around that age. Whether that's Saturn or being 29, I don't know.
-gallery: []
+gallery:
+- src: "visuals/body-saturn/1.jpg"
+  title: "Structure and limits"
+  text: "A ruler and a level on the workbench: Saturn is structure, limits, the hardest lesson."
+  prompt: "A steel ruler, a spirit level and a carpenter’s square laid out straight on a worn wooden workbench, close-up, no markings legible. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-saturn/2.jpg"
+  title: "Made to wait"
+  text: "A long queue at an office: Saturn is where you are late, made to wait and prove yourself."
+  prompt: "A long queue of people seen from behind in a bare administrative office, holding folders of papers, waiting under flat window light. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-saturn/3.jpg"
+  title: "Cut back hard"
+  text: "A tree pruned back hard: Saturn limits now, and that is what makes it solid later."
+  prompt: "A plane tree pruned back hard in winter, its thick limbs cut to bare knuckled stumps, a pair of loppers leaning against the trunk. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-saturn/4.jpg"
+  title: "Years of work"
+  text: "A dry-stone wall built stone by stone: responsibility, structure, the work that takes years."
+  prompt: "Weathered hands setting one more stone into a long dry-stone wall that runs across a hillside, close-up. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-saturn/5.jpg"
+  title: "What you ended up building"
+  text: "A branch tied to the finished roof: the World, what you ended up building."
+  prompt: "A small leafy green branch tied at the peak of a newly finished timber roof frame, a carpenter’s hand still on the beam, a wooded hill behind. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-saturn/6.jpg"
+  title: "Structure turned chain"
+  text: "A bike locked so long that ivy grows through it: the Devil, structure turned into a chain."
+  prompt: "An old bicycle chained to an iron railing for so long that ivy has grown through its wheels, the chain rusted, a quiet street behind. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What it does in a chart {#chart}
 

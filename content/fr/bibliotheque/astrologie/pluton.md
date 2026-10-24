@@ -30,7 +30,31 @@ faq:
     le tarot non plus : la carte s’appelle le Jugement, pas Pluton.'
 - q: Quelle carte du tarot porte Pluton ?
   a: Le Jugement (XX). Et par le Scorpion, la Mort.
-gallery: []
+gallery:
+- src: "visuals/body-pluto/1.jpg"
+  title: "Renaître de son vivant"
+  text: "Des pousses vertes dans une forêt brûlée : Pluton, c’est mourir et renaître de son vivant."
+  prompt: "Bright green ferns and shoots pushing up through black ash between charred tree trunks on a forest floor, close to the ground. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-pluto/2.jpg"
+  title: "Le pouvoir d’en dessous"
+  text: "Des racines qui soulèvent le trottoir : Pluton, c’est le pouvoir, la force lente qui agit par en dessous."
+  prompt: "Thick tree roots lifting and cracking the paving stones of a city pavement, a pair of shoes walking past at the edge of the frame. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-pluto/3.jpg"
+  title: "De l’épluchure à la terre"
+  text: "Des épluchures devenues terre noire : Pluton, c’est la transformation, ce qui pourrit devient ce qui nourrit."
+  prompt: "Two cupped hands holding dark crumbly compost above an open compost bin, a few vegetable peelings still visible on top. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-pluto/4.jpg"
+  title: "Ce qui remonte"
+  text: "Une bêche qui heurte une vieille boîte enterrée : ce qu’on enterre finit toujours par remonter."
+  prompt: "A garden spade uncovering an old rusted biscuit tin buried in dark soil, hands brushing the earth off its plain lid. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-pluto/5.jpg"
+  title: "L’appel qui réveille"
+  text: "Des volets qu’on ouvre sur une chambre sombre : le Jugement, l’appel, ce qui se relève."
+  prompt: "Arms pushing open heavy wooden shutters from inside a dark bedroom, morning light flooding in across the floor, seen from inside the room. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-pluto/6.jpg"
+  title: "Une fin, un début"
+  text: "Des cartons et une clé sur la table : la Mort, quelque chose finit pour qu’autre chose commence."
+  prompt: "Taped moving boxes stacked in an emptied room, a single key left on a bare table in the foreground, light across the bare floor. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce qu’il fait dans un thème {#theme}
 

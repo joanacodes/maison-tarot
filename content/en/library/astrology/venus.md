@@ -30,7 +30,31 @@ faq:
     I don't read it anywhere else.
 - q: Which tarot card carries Venus?
   a: The Empress (III). The Venus symbol is drawn on her shield.
-gallery: []
+gallery:
+- src: "visuals/body-venus/1.jpg"
+  title: "How you love"
+  text: "Two people dancing in a kitchen: Venus says what you love and how you love."
+  prompt: "Two people slow-dancing barefoot in a small kitchen, seen from the side, faces turned away, a pan on the stove behind them. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-venus/2.jpg"
+  title: "What you find beautiful"
+  text: "Hands arranging garden flowers in a jug: Venus is taste, what you find beautiful."
+  prompt: "Hands arranging pale pink and white garden roses in an old enamel jug on a wooden table by a window. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-venus/3.jpg"
+  title: "Sweet and empty"
+  text: "A hollow chocolate heart: Venus is where it’s easiest to say something sweet and empty."
+  prompt: "A hollow chocolate heart broken open on a white plate, showing it is empty inside, plain gold foil wrapping crumpled beside it. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-venus/4.jpg"
+  title: "The Empress"
+  text: "A basket filled in a summer garden: the Empress, Venus as abundance and pleasure."
+  prompt: "A woman’s hands holding a wicker basket overflowing with ripe tomatoes, figs and herbs in a lush summer vegetable garden, seen from over her shoulder. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-venus/5.jpg"
+  title: "The Two of Cups"
+  text: "Two glasses meeting across a table: the Two of Cups, the bond that Venus rules."
+  prompt: "Two hands clinking two glasses of red wine across a small café table, close-up, the people out of frame. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-venus/6.jpg"
+  title: "Not whether you’re loved"
+  text: "A daisy half plucked on a bench: Venus says how you love, not whether you are loved."
+  prompt: "A daisy with half its petals plucked lying on a weathered park bench, loose white petals scattered on the wood. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What it does in a chart {#chart}
 

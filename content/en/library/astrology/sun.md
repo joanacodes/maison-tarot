@@ -30,7 +30,31 @@ faq:
     no birth time; it isn't the most telling.
 - q: Which tarot card carries the Sun?
   a: The Sun (XIX), and through Leo, Strength. See each card's page.
-gallery: []
+gallery:
+- src: "visuals/body-sun/1.jpg"
+  title: "The first answer"
+  text: "A handshake at a party: the Sun is the sign you give when someone asks what you are."
+  prompt: "Two strangers shaking hands at a summer garden party, seen over the shoulder of one of them, a glass in the other hand, faces out of frame. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-sun/2.jpg"
+  title: "The centre"
+  text: "Hands centring clay on the wheel: the Sun says what a person organises their life around."
+  prompt: "Wet hands centring a lump of clay on a spinning potter’s wheel in a small workshop, close-up. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-sun/3.jpg"
+  title: "The light you project"
+  text: "A yellow coat crossing a grey square: the Sun is the light a person wants to project."
+  prompt: "A woman in a bright yellow coat crossing a busy town square among people dressed in grey and black, seen from behind, the others slightly blurred. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-sun/4.jpg"
+  title: "Easy to flatter"
+  text: "The mirror held up after a haircut: the Sun is the placement easiest to flatter."
+  prompt: "A hairdresser holding a small hand mirror behind a client’s freshly cut hair, seen from behind the chair, the mirror showing only the back of the haircut. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-sun/5.jpg"
+  title: "Joy without reserve"
+  text: "A child on someone’s shoulders among sunflowers: on the card, the Sun is joy without reserve."
+  prompt: "A small child riding on an adult’s shoulders through a field of tall sunflowers, arms flung wide, seen from behind, the flowers filling the whole frame. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-sun/6.jpg"
+  title: "The window, not the shop"
+  text: "A lit bakery window, a dark back room: the Sun shows the window, not what’s kept behind."
+  prompt: "A bakery shop window beautifully arranged with golden loaves and pastries in warm light, while through the open door behind it the back room is dim and cluttered with flour sacks and stacked trays, no lettering on the glass. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What it does in a chart {#chart}
 

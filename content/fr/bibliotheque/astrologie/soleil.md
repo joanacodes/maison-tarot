@@ -30,7 +30,31 @@ faq:
     calcule sans heure de naissance ; ce n’est pas la plus parlante.
 - q: Quelle carte du tarot porte le Soleil ?
   a: Le Soleil (XIX), et par le Lion la Force. Voir les pages de chaque carte.
-gallery: []
+gallery:
+- src: "visuals/body-sun/1.jpg"
+  title: "La première réponse"
+  text: "Une poignée de main en soirée : le Soleil, c’est la réponse à « tu es de quel signe ? »."
+  prompt: "Two strangers shaking hands at a summer garden party, seen over the shoulder of one of them, a glass in the other hand, faces out of frame. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-sun/2.jpg"
+  title: "Le centre"
+  text: "Des mains qui centrent l’argile sur le tour : le Soleil dit ce autour de quoi une vie s’organise."
+  prompt: "Wet hands centring a lump of clay on a spinning potter’s wheel in a small workshop, close-up. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-sun/3.jpg"
+  title: "La lumière qu’on projette"
+  text: "Un manteau jaune dans une foule grise : le Soleil, c’est la lumière qu’on veut projeter."
+  prompt: "A woman in a bright yellow coat crossing a busy town square among people dressed in grey and black, seen from behind, the others slightly blurred. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-sun/4.jpg"
+  title: "Facile à flatter"
+  text: "Le miroir qu’on tend après la coupe : le Soleil est le placement le plus facile à flatter."
+  prompt: "A hairdresser holding a small hand mirror behind a client’s freshly cut hair, seen from behind the chair, the mirror showing only the back of the haircut. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-sun/5.jpg"
+  title: "La joie sans réserve"
+  text: "Un enfant sur des épaules au milieu des tournesols : sur la carte, le Soleil est une joie sans réserve."
+  prompt: "A small child riding on an adult’s shoulders through a field of tall sunflowers, arms flung wide, seen from behind, the flowers filling the whole frame. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/body-sun/6.jpg"
+  title: "La vitrine, pas la boutique"
+  text: "Une vitrine de boulangerie éclairée, une arrière-boutique sombre : le Soleil montre la vitrine, pas ce qu’on cache."
+  prompt: "A bakery shop window beautifully arranged with golden loaves and pastries in warm light, while through the open door behind it the back room is dim and cluttered with flour sacks and stacked trays, no lettering on the glass. Editorial photograph, 35mm film look, light grain, single natural light source, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce qu’il fait dans un thème {#theme}
 

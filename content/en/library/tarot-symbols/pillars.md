@@ -29,13 +29,13 @@ In tarot, pillars also say “two”. Two forces, two options, two sides that ho
 
 ## Where it appears in the deck {#where}
 
-**The High Priestess** sits between a black pillar marked B and a white one marked J, with a veil of palms and pomegranates hung between them. The letters are traditionally read as Boaz and Jachin, the pillars of Solomon’s Temple. She doesn’t get up to let you through.
+The High Priestess sits between a black pillar marked B and a white one marked J, with a veil of palms and pomegranates hung between them. The letters are traditionally read as Boaz and Jachin, the pillars of Solomon’s Temple. She doesn’t get up to let you through.
 
-**The Hierophant** is enthroned between two grey stone pillars, two tonsured figures at his feet and two crossed keys on the floor. Here the threshold is an institution: you go through by being taught.
+The Hierophant is enthroned between two grey stone pillars, two tonsured figures at his feet and two crossed keys on the floor. Here the threshold is an institution: you go through by being taught.
 
-**Justice** sits between two grey pillars as well, with a purple curtain hung behind her. The pillars frame the verdict: what’s weighed here is weighed inside a structure, not on a whim.
+Justice sits between two grey pillars as well, with a purple curtain hung behind her. The pillars frame the verdict: what’s weighed here is weighed inside a structure, not on a whim.
 
-**The Chariot** carries its own: posts hold up the starry canopy above the driver. A doorway that travels.
+The Chariot carries its own: posts hold up the starry canopy above the driver. A doorway that travels.
 
 Two cards have cousins rather than pillars: the two towers on the horizon of [the Moon](/library/tarot-cards/the-moon/) and of Death, a gateway seen from far off. The [tower](/library/tarot-symbols/tower/) has its own page.
 
@@ -51,7 +51,7 @@ Say someone draws the Hierophant just as a new job is on the table. The pillars 
 
 ## The other side {#flip-side}
 
-Pillars hold, and they also hem in. Two fixed positions with someone stuck in the middle: the person who can’t choose between two options and calls it balance. Or the frame becomes a cage — the institution that repeats what it was given and never asks why.
+Pillars hold, and they also hem in. Two fixed positions with someone stuck in the middle: the person who can’t choose between two options and calls it balance. Or the frame becomes a cage — the institution that repeats what it was given without asking why.
 
 When the cards around it are heavy, the question shifts from “how do I get through?” to “who decided there were only two pillars?”
 
