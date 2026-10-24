@@ -19,6 +19,8 @@ The term comes from the psychotherapist John Welwood, who described it in the 19
 
 An example. Say someone’s closest friend hurts them badly. Instead of telling the friend, or letting themselves be angry, they decide it was “a karmic lesson”, say they’re “grateful for the growth”, and move on — on paper. Six months later they still can’t hear the friend’s name without a knot in their stomach. The spiritual idea did nothing wrong. It was used to skip a step.
 
+Closer to the cards: say someone has been dreading a conversation with their manager for weeks. Every morning they draw a card “to see if today’s the day”. The Four of Swords comes up — a figure lying still on a tomb, swords hanging above — and they read it as rest, so they wait. A month later the conversation still hasn’t happened, and the deck has become the place where it doesn’t.
+
 **Bypassing isn’t believing in something; it’s using that belief to avoid a feeling.**
 
 ## What it looks like with tarot {#with-tarot}

@@ -55,9 +55,9 @@ If you’re both curious later, put both charts on the table, together. That’s
 
 ## What to do instead {#instead}
 
-1. **Ask.** “Do you know your rising sign?” is a good opener. Whether they laugh, shrug or have opinions already tells you something real.
-2. **If they say yes**, read it together, out loud, and let them tick or cross.
-3. **If they say no**, that’s the answer. Leave it there.
-4. **If you’ve already looked**, no drama. Put it away, don’t quote it at them, and don’t let it decide anything. You can also tell them; it might make a good story.
+1. Ask. “Do you know your rising sign?” is a good opener. Whether they laugh, shrug or have opinions already tells you something real.
+2. If they say yes, read it together, out loud, and let them tick or cross.
+3. If they say no, that’s the answer. Leave it there.
+4. If you’ve already looked, no drama. Put it away, don’t quote it at them, and don’t let it decide anything. You can also tell them; it might make a good story.
 
 And if the curiosity is really about astrology, there’s one chart you can read as much as you like without asking anyone: yours. Start with [what a birth chart is and how to get yours](/blog/what-is-a-birth-chart/), then test it, box by box.
