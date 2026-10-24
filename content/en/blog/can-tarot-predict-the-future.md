@@ -62,4 +62,6 @@ Turn “will…?” into “what can I…?”:
 - “Will I meet someone this year?” becomes “What am I ready for, and what am I not?”
 - “Will the move work out?” becomes “What am I afraid of leaving behind?”
 
+The new questions still point ahead — to the interview, the year, the move. What changes is who holds the answer: you, not the card.
+
 Then draw one card on the new question and write down what you see before you decide what it means. If you’d like to make that a daily habit, start with [the one-card pull](/blog/one-card-tarot-pull/): one card, about today, every morning for a month.
