@@ -25,7 +25,7 @@ Deux cartes résument bien le risque. Dans mes notes, le Magicien (le Bateleur a
 
 ## Les trois ego du milieu spirituel {#trois-ego}
 
-Je garde une courte liste de trois ego croisés dans les cercles spirituels, et je les surveille aussi chez moi. Ils sont très humains. La plupart d’entre nous en frôlent un à un moment ou à un autre.
+Je garde une courte liste de trois ego qu’on croise dans les cercles spirituels, et qu’il vaut la peine de guetter chez soi aussi. Ils sont très humains. La plupart d’entre nous en frôlent un à un moment ou à un autre.
 
 - *Le sauveur.* Celui qui pense sauver le monde. Imaginez un tarologue qui voit passer le message triste d’une inconnue et lui écrit sans qu’elle ait rien demandé : « J’ai vu quelque chose à votre sujet, il vous faut un tirage. » L’intention est peut-être bonne. Le résultat, c’est une personne effrayée qui croit désormais avoir besoin de ce lecteur.
 - *L’élu.* Celui qui se croit membre d’un petit groupe doté de capacités que les autres n’ont pas. Pensez à un professeur qui explique à ses élèves qu’ils ne sont « pas prêts » pour certaines cartes, ou que seules quelques personnes savent vraiment lire. Il n’y a pas d’élus ; tout le monde peut apprendre.

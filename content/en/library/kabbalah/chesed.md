@@ -18,7 +18,7 @@ faq:
 - q: "Which tarot cards correspond to Chesed?"
   a: "The four Fours: Wands, Cups, Swords and Pentacles. The Golden Dawn gives Chesed no court card; the courts sit on Chokhmah, Binah, Tiferet and Malkhut."
 - q: "Does Chesed mean mercy or kindness?"
-  a: "Both translations are used. The Hebrew word is closest to loving-kindness: generosity that gives without being asked. Hermetic diagrams call the whole right column of the Tree the Pillar of Mercy, which is where the English title comes from."
+  a: "Both translations are used. The Hebrew word is closest to loving-kindness: generosity that gives without being asked. Hermetic diagrams also call the whole right column of the Tree the Pillar of Mercy."
 gallery: []
 ---
 ## Chesed in the Jewish tradition {#tradition}

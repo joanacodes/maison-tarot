@@ -25,7 +25,7 @@ Two cards hold the risk well. In my notes, the Magician knows how to use everyth
 
 ## The three egos of the spiritual world {#three-egos}
 
-I keep a short list of three egos I’ve met in spiritual circles, and I watch for them in myself too. They’re very human. Most of us brush against one at some point.
+I keep a short list of three egos you meet in spiritual circles, and they’re worth watching for in yourself too. They’re very human. Most of us brush against one at some point.
 
 - *The saviour.* The one who thinks they’re saving the world. Say a reader sees a stranger’s sad post and messages them unprompted: “I’ve seen something about you, you need a reading.” The intention may be kind. The result is a frightened person who now feels they need that reader.
 - *The chosen one.* The one who believes they belong to a small group with abilities other people don’t have. Picture a teacher who tells students they’re “not ready” for certain cards, or that only a few people can really read. There are no Chosen Ones; anyone can learn.

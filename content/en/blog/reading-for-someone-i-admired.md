@@ -41,7 +41,7 @@ Say a friend you look up to draws the Ten of Wands: a figure bent under ten heav
 
 Here it is again: *Your life was hard, but it feels like you like it somehow.*
 
-“Your life was hard.” No euphemism, no “challenges”, no rounding off. The chart was harsh, and pretending otherwise would have been a polite lie. It also speaks about what he had lived, not about what was coming. It describes; it doesn’t forecast.
+“Your life was hard.” No euphemism, no “challenges”, no rounding off. The chart was harsh, and pretending otherwise would have been a polite lie. It also speaks about what he had already lived. It describes; it doesn’t forecast.
 
 “But it feels like.” This is an impression, offered as one. Not “your chart says”, not “clearly”. It hands him the right to say no.
 

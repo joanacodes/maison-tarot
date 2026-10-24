@@ -1,6 +1,6 @@
 ---
 title: "Tirer les cartes à quelqu’un que j’admirais : la phrase que j’ai dite à voix haute"
-description: "J’ai lu le thème astral d’un ami que j’admirais : juste, et dur. La phrase que j’ai dite à voix haute, et ce qu’elle m’a appris sur l’art de dire les choses dures avec douceur."
+description: "J’ai lu le thème astral d’un ami que j’admirais : juste, et dur. La phrase que j’ai dite à voix haute, et ce qu’elle m’apprend sur les choses dures dites avec douceur."
 translationKey: "post-reading-for-someone-i-admired"
 type: blog
 date: 2026-10-24
@@ -41,7 +41,7 @@ Imaginez qu’une amie que vous admirez tire le Dix de Bâtons : une silhouette 
 
 La revoici : *Ta vie a été dure, mais on dirait que tu aimes ça, quelque part.*
 
-« Ta vie a été dure. » Pas d’euphémisme, pas d’« épreuves », rien d’arrondi. Le thème était dur, et faire comme si de rien n’était aurait été un mensonge poli. La phrase parle aussi de ce qu’il avait vécu, pas de ce qui allait venir. Elle décrit ; elle ne prédit pas.
+« Ta vie a été dure. » Pas d’euphémisme, pas d’« épreuves », rien d’arrondi. Le thème était dur, et faire comme si de rien n’était aurait été un mensonge poli. La phrase parle aussi de ce qu’il avait déjà vécu. Elle décrit ; elle ne prédit pas.
 
 « Mais on dirait. » C’est une impression, présentée comme telle. Pas « ton thème dit », pas « c’est clair ». Elle lui laisse le droit de dire non.
 

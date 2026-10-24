@@ -39,7 +39,7 @@ Tarot cards are a medium. They help you let go and read what’s around you, or 
 
 That’s why anyone can learn. Every person I’ve helped to read managed it on the first to third try. It works like art: some people have more talent, and anyone who practises can do it. The only practice is letting go.
 
-It also means a teacher hands over nothing mysterious. No initiation, no transmission, no gift passed from one hand to the next — I’ve explained why [nobody needs psychic abilities to read](/blog/do-you-need-psychic-abilities/). I started teaching because of one moment, the one where a friend says something true about a stranger and is shocked by what they’ve just said. That moment can’t be described to anyone. It can only be experienced, and a teacher’s job is to make room for it.
+It also means a teacher hands over nothing mysterious. No initiation, no transmission, no gift passed from one hand to the next — I’ve explained why [nobody needs psychic abilities to read](/blog/do-you-need-psychic-abilities/). I started teaching because of one moment, the one where a friend tries a reading, says something true, and is shocked by what they’ve heard themselves say. That moment can’t be described to anyone. It can only be experienced, and a teacher’s job is to make room for it.
 
 ## For people whose tarot is spiritual {#respect}
 

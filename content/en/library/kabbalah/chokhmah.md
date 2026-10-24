@@ -16,7 +16,7 @@ related:
 - /library/kabbalah/binah
 faq:
 - q: "Which tarot cards correspond to Chokhmah?"
-  a: "The four Twos, and in the Golden Dawn system the mounted figures of the court, the Fire of each suit. With the Rider-Waite-Smith, many readers put the Kings there; others put the Knights."
+  a: "The four Twos, and in the Golden Dawn system the mounted figures of the court, the Fire of each suit. With the Rider-Waite-Smith, some readers put the Kings there and others the Knights; the card pages on this site follow the Kings."
 - q: "What is Chokhmah’s planet?"
   a: "It has none. The Golden Dawn gives Chokhmah the zodiac as a whole, the sphere of the fixed stars, rather than a single planet."
 - q: "Why is Chokhmah called the father?"
