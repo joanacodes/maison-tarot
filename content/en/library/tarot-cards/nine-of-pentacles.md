@@ -50,25 +50,25 @@ She isn’t looking at us, or at the bird. Her eyes are lowered, almost closed, 
 
 ## By number: nine {#number}
 
-**nine — near completion, almost there.** [Nine is the home stretch](/library/numerology/number-9/): the end of a stage, the last efforts, introspection, patience — but keep moving. My note for this card: enjoying what comes, gratitude for everything you have. That’s the nine at its kindest. The carving of the Eight is done; the coins now sit among the vines like fruit, and she’s allowed to stop and look.
+**nine — near completion, almost there.** [Nine is the home stretch](/library/numerology/number-9/): the end of a stage, the last efforts, introspection, patience — but keep moving. My note for this card: enjoying what comes, gratitude for everything you have. The carving of the Eight is done; the coins sit among the vines like fruit, and she’s allowed to stop and look.
 
-Allowed to stop, not to settle. In the story of Instagram, 9 is the redesign around Reels: the platform at the height of what it became, and already changing. A nine is a summit with a slope behind it. This card doesn’t ask you to fear the slope; it asks you to enjoy the garden while knowing it’s a season.
+Allowed to stop, not to settle. In the story of Instagram, 9 is the redesign around Reels: the platform at its height, and already changing. Enjoy the garden, knowing it’s a season.
 
 ## By element: Earth {#element}
 
-[Earth](/library/four-elements/earth-element/) is matter, prosperity, whatever has value for you — money or sentimental. It’s also mostly feminine energy: protective, stable, the mother of growth. This is Earth at its most fertile: ripe grapes, a house, a garden someone tended long enough for it to give back.
+[Earth](/library/four-elements/earth-element/) is matter, prosperity, whatever has value for you — money or sentimental. This is Earth at its most fertile: ripe grapes, a house, a garden tended long enough to give back.
 
-Earth’s minus is stubbornness, and here it takes a quiet form: the garden as a wall. Everything is within reach, so why go out? “Not all riches are gold,” I wrote in my notes, and this card shows both halves of it. The coins are there; the real wealth is the time to stand in a vineyard doing nothing.
+Earth’s minus is stubbornness, and here it takes a quiet form: the garden as a wall. “Not all riches are gold,” I wrote in my notes. The coins are there; the real wealth is the time to stand in a vineyard doing nothing.
 
 ## By colours {#colours}
 
 [Yellow](/library/tarot-colours/yellow/) fills the sky: joy, optimism, pride, self-expression — the colour of someone glad to be exactly where she is. Green fills the lower half, vines, leaves and trees: nature, growth, prosperity. Joy resting on something that grows.
 
-The red of the cap, the flowers and the falcon’s hood adds drive and desire, kept small and held in check, like the bird on the glove. Read before the card: contentment, abundance, and an energy that knows when to stay put.
+The red of the cap, the flowers and the falcon’s hood adds drive and desire, kept small and held in check, like the bird on the glove.
 
 ## By astrology: Venus in Virgo {#astrology}
 
-In the Golden Dawn system, this card is [Venus](/library/astrology/venus/) in the second decan of [Virgo](/library/astrology/virgo/), titled “Lord of Material Gain”. Venus is what you love and find beautiful; Virgo is “I analyse”, the careful worker. Traditional astrology calls Venus “in fall” in Virgo — pleasure under the eye of a perfectionist. On this card it reads as pleasure earned and checked: the garden is beautiful because it has been tended.
+In the Golden Dawn system, this card is [Venus](/library/astrology/venus/) in the second decan of [Virgo](/library/astrology/virgo/), titled “Lord of Material Gain”. Venus is what you love and find beautiful; Virgo is “I analyse”. Traditional astrology calls Venus “in fall” in Virgo — pleasure under a perfectionist’s eye. Here it reads as pleasure earned: the garden is beautiful because it has been tended.
 
 Keep it if astrology speaks to you; the flowers on her robe already carry Venus. If not, number and element have said the same.
 
@@ -78,7 +78,7 @@ Upright: enjoyment, gratitude, independence. Someone who has built a life that h
 
 Reversed, the same garden, slowed down or overdone. Slowed: everything on the card is yours and you can’t enjoy it — guilt at resting, the eyes already on the next harvest. Overdone: comfort hardens into a wall; independence becomes “I don’t need anyone”, and the falcon never leaves the glove.
 
-Next to the [Ten of Pentacles](/library/tarot-cards/ten-of-pentacles/), the garden fills with people: what you enjoyed alone is shared across generations. Next to the [Nine of Cups](/library/tarot-cards/nine-of-cups/), two nines of contentment — one showing off his cups, the other walking among her vines; ask which posture is the person’s. Next to the [Queen of Pentacles](/library/tarot-cards/queen-of-pentacles/), the woman in the garden sits down and starts feeding others.
+Next to the [Ten of Pentacles](/library/tarot-cards/ten-of-pentacles/), the garden fills with people: what you enjoyed alone is shared across generations. Next to the [Nine of Cups](/library/tarot-cards/nine-of-cups/), two contentments: one shows off his cups, the other walks among her vines. Next to the [Queen of Pentacles](/library/tarot-cards/queen-of-pentacles/), the woman in the garden sits down and starts feeding others.
 
 {{< cards "pe10 cu09 pequ" >}}
 
@@ -90,4 +90,4 @@ Say someone sits down, tells you nothing, and draws the Nine of Pentacles next t
 
 Out loud: “You’ve built something comfortable, and you’re allowed to enjoy it. But part of you is already reaching for its coat — not because anything is wrong here, but because you’ve seen what there is to see.”
 
-Then check, gently: “Does that ring true, or not at all?” If it lands, ask what the garden would need for them to stay, or to leave without guilt. If it doesn’t, it’s a miss: say so and note it.
+Then check, gently: “Does that ring true, or not at all?” If it doesn’t, it’s a miss: say so and note it.

@@ -1,6 +1,6 @@
 ---
 title: "The Emperor tarot card in career: structure, authority, and leading well"
-description: "The Emperor in a career reading is structure and authority at work: Fire, the number 4 and Aries, the card reversed, and what leading well looks like when you decide."
+description: "The Emperor in a career reading is structure and authority at work: Fire, the number 4 and Aries, the card reversed, and what leading well looks like in practice."
 translationKey: "post-emperor-tarot-career"
 type: blog
 date: 2026-10-24
