@@ -38,7 +38,7 @@ Une limite honnête : ces textes interviennent après coup, et il faut pouvoir p
 D’abord, aucune honte : ces méthodes sont conçues pour fonctionner sur des gens intelligents, au moment où ils vont mal.
 
 1. Arrêtez de payer, et gardez tout : factures, messages, relevés, captures d’écran.
-2. Signalez le professionnel ou la plateforme sur SignalConso, le service de signalement de la DGCCRF.
+2. Signalez le professionnel ou la plateforme sur SignalConso, le service de signalement de la DGCCRF. Le signalement est transmis à l’entreprise et visible par les agents de la DGCCRF ; il ne règle pas votre litige à lui seul, mais il aide à cibler les contrôles.
 3. En cas d’escroquerie ou d’abus de faiblesse, portez plainte au commissariat, à la gendarmerie, ou par écrit au procureur de la République.
 4. Pour récupérer de l’argent, voyez un avocat ou une association de consommateurs : c’est une autre procédure que le signalement.
 
@@ -52,7 +52,7 @@ On attribue souvent à cette exception pour le divertissement l’habitude de la
 
 ## Ce que ça change pour vous, et pour moi {#pour-vous-et-moi}
 
-Pour vous : légal ne veut pas dire garanti. Personne ne vérifie les compétences d’un voyant avant qu’il ouvre une ligne. La loi vous protège contre la tromperie, pas contre une lecture médiocre.
+Pour vous : légal ne veut pas dire garanti. Personne ne vérifie les compétences d’un voyant avant qu’il ouvre une ligne. Il n’existe pas non plus de voyant « agréé » : un titre, un label ou un diplôme affiché sur un site relève de la communication, pas d’un contrôle de l’État. La loi vous protège contre la tromperie, pas contre une lecture médiocre.
 
 Pour moi : je ne vends pas de lectures. Je vends des cours, aux conditions écrites dans [les conditions générales de vente](/fr/cgv/) ; les lectures, je les fais gratuitement, en public. Et les procédures en cours font partie des sujets que [je laisse de côté](/fr/avertissements/#refus). Si vous avez une question juridique, elle mérite un avocat, pas une carte. Ce que le tirage peut accompagner, en attendant, c’est la façon dont vous vivez l’attente.
 

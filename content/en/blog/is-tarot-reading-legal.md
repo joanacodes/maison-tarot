@@ -47,7 +47,7 @@ The notice doesn't make a misleading sale legal. A reader who writes "for entert
 
 ## What this means for you, and for me {#for-you-and-me}
 
-For you: legal doesn't mean vetted. Nobody checks a reader's competence before they open a line. The law protects you from deception, not from a mediocre reading, and it acts after the fact — so keep messages, receipts and statements.
+For you: legal doesn't mean vetted. Nobody checks a reader's competence before they open a line, in either country. A title, badge or certificate on a website is marketing, not a state licence. The law protects you from deception, not from a mediocre reading, and it acts after the fact — so keep messages, receipts and statements.
 
 If you think you've been taken in, there's no shame in it: these methods are built to work on intelligent people at the moment they're struggling. Stop paying, keep everything, report it (Trading Standards via Citizens Advice in the UK; SignalConso in France), and see a lawyer or a consumer association if you want your money back.
 

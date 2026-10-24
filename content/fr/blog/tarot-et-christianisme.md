@@ -17,7 +17,9 @@ Les textes chrétiens rejettent la divination, et la plupart des Églises le dis
 
 Le passage le plus cité est celui du Deutéronome (18, 10-12), qui range parmi les pratiques abominables le fait de recourir aux devins, aux présages, à la sorcellerie, ou d’interroger les morts. Le Lévitique va dans le même sens (19, 26 et 19, 31) : ne pas pratiquer la divination, ne pas se tourner vers ceux qui évoquent les esprits. Dans les Actes des apôtres (16, 16-18), Paul chasse l’esprit de divination d’une jeune servante dont les maîtres tiraient profit.
 
-Les mêmes textes connaissent pourtant le tirage au sort. Le grand prêtre porte l’ourim et le toummim (Exode 28, 30). Les Proverbes disent qu’on jette le sort dans le pan du vêtement, mais que la décision vient du Seigneur (16, 33). Et les apôtres désignent Matthias en tirant au sort (Actes 1, 26).
+L’histoire la plus connue est celle de Saül. Au premier livre de Samuel (28), le roi, privé de toute réponse, va consulter déguisé une nécromancienne à En-Dor et lui demande de faire monter le prophète Samuel. La scène finit mal pour lui, et le premier livre des Chroniques (10, 13) compte cette consultation parmi les causes de sa mort. C’est le passage qu’on cite pour montrer que la question ne date pas d’hier.
+
+Les mêmes textes connaissent pourtant le tirage au sort. Le grand prêtre porte l’ourim et le toummim (Exode 28, 30). Les Proverbes disent qu’on jette le sort dans le pan du vêtement, mais que la décision vient du Seigneur (16, 33). Et les apôtres désignent Matthias en tirant au sort (Actes 1, 26). Quant aux mages de l’Évangile de Matthieu, qui suivent une étoile, chaque camp les cite pour conclure l’inverse de l’autre.
 
 Ceux qui s’opposent au tarot répondent que ces sorts s’adressaient à Dieu, quand la divination cherche des réponses ailleurs. Ceux qui méditent avec les cartes répondent que l’interdit vise la prétention à connaître l’avenir par d’autres puissances, pas le fait de regarder des images. **Le débat ne porte pas vraiment sur les cartes ; il porte sur ce qu’on leur demande.**
 
@@ -52,6 +54,8 @@ Ce qu’il montre quand même, c’est qu’on vit rarement sa foi comme un règ
 Je ne suis pas théologienne, et je ne vous dirai pas ce que votre Église permet ; j’ai expliqué pourquoi dans [le tarot est-il un péché ?](/fr/blog/le-tarot-est-il-un-peche/), où je raconte aussi d’où je parle. Mon père prie dans un temple bouddhiste, je tire les cartes, et personne n’a jamais demandé à l’autre de choisir.
 
 Ce que je peux vous dire, c’est ce que je fais et ce que je ne fais pas. Je n’appelle aucun esprit, je ne promets rien, et je ne présente jamais une lecture comme un verdict. Je lis la situation de la personne en face de moi, et c’est elle qui décide : [le tarot n’est pas une autorité](/fr/avertissements/#lectures). Si la doctrine de votre Église vise la prétention à connaître l’avenir, c’est à vous et à ceux qui vous guident de dire si ma pratique en relève.
+
+Si c’est vous qui tenez le jeu, le même respect vaut dans l’autre sens. Je demande toujours avant de lire quelqu’un, et une hésitation compte comme un non. Un ami chrétien qui vous dit « je préfère pas » n’a pas besoin d’un exposé sur le symbolisme ou la psychologie ; il a besoin que vous rangiez les cartes et que vous serviez le thé.
 
 **Une foi qui dit non mérite exactement le même respect qu’une curiosité qui dit oui.** Si votre Église vous demande de vous abstenir et que vous y tenez, c’est une raison suffisante, et vous n’avez rien à prouver à personne. Si les images vous intéressent sans que vous vouliez tirer, elles se regardent comme on regarde un vitrail : la page du [Hiérophante](/fr/bibliotheque/cartes-tarot/le-hierophante/) est un bon début.
 
