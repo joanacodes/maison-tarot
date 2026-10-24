@@ -34,7 +34,31 @@ faq:
 - q: Pourquoi « 2 exalté » ?
   a: 'Parce que 4 = 2 + 2 : deux liens qui se croisent font une structure. Ce que
     le 2 nouait, le 4 le bâtit.'
-gallery: []
+gallery:
+- src: "visuals/num-4/1.jpg"
+  title: "Les clés de la maison"
+  text: "Les clés d’une nouvelle maison : le 4, c’est le lien du 2 devenu maison, la structure qui tient."
+  prompt: "A hand holding a set of keys in front of the open front door of a house, cardboard moving boxes stacked in the hallway behind, seen from outside. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-4/2.jpg"
+  title: "Poser les valises"
+  text: "Valises posées, chaussures enlevées : être chez soi, le fruit de son travail enfin installé."
+  prompt: "Two travel bags set down on the wooden floor of a sunny living room, a pair of shoes kicked off beside them, a person’s legs stretched out on a sofa at the edge of the frame. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-4/3.jpg"
+  title: "Une fenêtre qu’on ouvre"
+  text: "Une fenêtre qu’on ouvre dans une pièce bien rangée : restez souple, laissez entrer ce que vous n’aviez pas prévu."
+  prompt: "A hand pushing a tall window wide open in a neat, orderly room, the curtains lifting in the breeze, garden greenery outside. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-4/4.jpg"
+  title: "Une équipe, des habitudes"
+  text: "Des vestes sur les chaises, des tasses alignées : comme Instagram après son succès rapide, une équipe qui a ses habitudes."
+  prompt: "A small tidy office early in the morning, jackets on the backs of chairs, a row of matching mugs by the sink, people settling in at their desks seen from behind, computer screens switched off. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-4/5.jpg"
+  title: "Une maison qu’on fête"
+  text: "Un déjeuner de pendaison de crémaillère au jardin : la stabilité qui protège, une maison qu’on fête."
+  prompt: "A long table set in a garden for a housewarming lunch, plain cloth garlands strung between two trees, guests seen from behind passing dishes. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-4/6.jpg"
+  title: "L’air ne passe plus"
+  text: "Volets fermés par une journée de soleil : le revers du 4, c’est la structure qui ne laisse plus entrer d’air."
+  prompt: "A person seen from behind sitting very upright in a perfectly ordered living room with every shutter closed in the middle of a sunny afternoon, thin lines of daylight through the slats. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit le 4 {#definition}
 

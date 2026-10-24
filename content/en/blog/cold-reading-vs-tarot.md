@@ -26,7 +26,7 @@ The usual tools are:
 - *Fishing*: “I’m getting an older man, a father figure perhaps?” — and waiting.
 - *Following reactions*: a nod means go further, a frown means change direction.
 - *Recasting misses*: “it hasn’t happened yet” or “you’ll understand later”.
-- **Hot reading**, its cousin: finding things out beforehand, from a booking form or a social media profile.
+- *Hot reading*, its cousin: finding things out beforehand, from a booking form or a social media profile.
 
 Mentalists perform all of this openly on stage, and it’s a real skill. It’s also worth saying plainly: a lot of cold reading isn’t deliberate. Attentive, empathic people pick up cues without noticing, and a reader can do it with complete sincerity.
 

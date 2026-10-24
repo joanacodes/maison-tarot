@@ -33,7 +33,31 @@ faq:
 - q: Pourquoi le Huit de Coupes part-il, si le 8 est la prospérité ?
   a: 'Parce qu’un empire achevé pose une question que le 6 ne posait pas : et maintenant
     ? Le Huit de Coupes est celui qui répond en partant.'
-gallery: []
+gallery:
+- src: "visuals/num-8/1.jpg"
+  title: "La maison devenue domaine"
+  text: "Un vieux domaine entre de longs rangs de vigne : le 8, c’est le 4 exalté, la maison devenue domaine."
+  prompt: "An old stone farmhouse seen from a distance among long, well-kept rows of vines stretching over the hills, in late-afternoon light. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-8/2.jpg"
+  title: "L’héritage"
+  text: "Un outil usé qui passe d’une vieille main à une jeune : le 8, c’est l’héritage, une prospérité qui dure."
+  prompt: "An old, weathered hand passing a worn wooden carpenter’s plane into a younger hand across a workbench covered in shavings. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-8/3.jpg"
+  title: "Le geste répété"
+  text: "Le même assemblage taillé encore et encore : la maîtrise se prouve par le geste répété, pas par le titre."
+  prompt: "A craftsman’s hands at a workbench cutting the same small joint into a row of identical wooden chair legs, tools neatly hung behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-8/4.jpg"
+  title: "Un empire au travail"
+  text: "Des grues au travail sur le port à l’aube : comme Instagram devenu empire, plus personne ne demande si ça marche."
+  prompt: "A large container port at dawn seen from a distance, cranes loading plain unmarked containers onto a ship, tiny figures of workers on the quay. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-8/5.jpg"
+  title: "Une maîtrise douce"
+  text: "Une main calme qui apaise un gros chien : le 8, c’est aussi la douceur qui tient la force."
+  prompt: "A calm hand resting on the neck of a big dog that was pulling on its lead and is now settling, on a quiet street, the owner seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-8/6.jpg"
+  title: "Prisonnier de son œuvre"
+  text: "Les outils à portée, la porte ouverte : le revers du 8, c’est se croire prisonnier de ce qu’on a bâti."
+  prompt: "A person seen from behind sitting still on a stool in the middle of a well-equipped workshop, every tool hanging on the wall, the door behind them wide open onto a sunny garden. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit le 8 {#definition}
 

@@ -33,7 +33,31 @@ faq:
 - q: Why is the Nine of Swords so hard?
   a: 'Because in the mind, the home stretch feels like insomnia: you replay everything
     that could still fail. The advice is the same — hold a little longer.'
-gallery: []
+gallery:
+- src: "visuals/num-9/1.jpg"
+  title: "The home stretch"
+  text: "The last straight, the finish in sight but not reached: 9 is the home stretch."
+  prompt: "A tired runner seen from behind on the last straight of a long road race, the finish still some way ahead under a plain banner with no lettering, spectators blurred along the barriers. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-9/2.jpg"
+  title: "Hold a little longer"
+  text: "A hundred metres below the top, still climbing: hold a little longer, the finish is close."
+  prompt: "A hiker seen from behind, small in the frame, on a steep stony path a hundred metres below a summit cairn, still climbing, poles in hand. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-9/3.jpg"
+  title: "Looking inward"
+  text: "Alone on the window seat: before closing the cycle, look inside at what it has changed."
+  prompt: "A person sitting alone on a deep window seat, knees drawn up, seen from behind looking out at the rain, a closed notebook on their lap. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-9/4.jpg"
+  title: "What defined it is ending"
+  text: "Shelves nearly empty, the last boxes taped: like Instagram turning to Reels, what defined it is ending."
+  prompt: "A small shop with its shelves nearly empty, a person seen from behind taping up the last cardboard boxes, late light across the bare floor. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-9/5.jpg"
+  title: "Enjoying what you built"
+  text: "A walk through the garden you planted: 9 is also enjoying, with gratitude, what you’ve built."
+  prompt: "A person seen from behind walking slowly through a garden they planted, among fruit trees heavy with ripe fruit, a basket on one arm. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-9/6.jpg"
+  title: "Letting go too soon"
+  text: "A puzzle left with three pieces to go: the flip side of 9 is letting go right before the end."
+  prompt: "An almost finished jigsaw puzzle of a landscape on a dining table, three pieces still missing, the chair pushed back and empty, the room deserted. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What 9 says {#definition}
 

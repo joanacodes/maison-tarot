@@ -34,7 +34,31 @@ faq:
 - q: What does a reversed 2 say?
   a: 'A bond that isn''t happening, or that you refuse to look at: the Two of Swords
     reversed is someone who has taken the blindfold off and finally sees both options.'
-gallery: []
+gallery:
+- src: "visuals/num-2/1.jpg"
+  title: "Two hands, one knot"
+  text: "Two pairs of hands tying one knot: 2 is the moment you’re no longer alone."
+  prompt: "Two pairs of hands belonging to two different people tying a single knot together in a thick rope on a wooden jetty, close-up on the hands. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-2/2.jpg"
+  title: "A handshake over a contract"
+  text: "A handshake over a contract: like Instagram’s founders signing with investors, someone else now puts money in."
+  prompt: "A handshake across a café table above a printed contract and an uncapped pen, both people cropped at the shoulders, the pages out of focus and unreadable. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-2/3.jpg"
+  title: "Reading the small print"
+  text: "A finger following the lines before signing: the advice of 2 is to read the contract properly."
+  prompt: "A hand holding a pair of reading glasses while one finger follows the lines of a stapled contract on a kitchen table, a cup of tea beside it, the print blurred and unreadable. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-2/4.jpg"
+  title: "Weighing pros and cons"
+  text: "Old kitchen scales nearly level: before you commit, weigh the pros and the cons."
+  prompt: "An old brass kitchen balance scale on a wooden counter, an apple in one pan and a small stone in the other, the two pans almost level. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-2/5.jpg"
+  title: "Two cups meeting"
+  text: "Two cups meeting across a table: in a reading, 2 asks about the bond between two parties."
+  prompt: "Two hands clinking two mismatched coffee cups across a small round café table, seen from the side, the two people out of frame. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-2/6.jpg"
+  title: "Back to back"
+  text: "Two people back to back, arms crossed: the flip side of 2 is stubbornness, ego and ending up alone."
+  prompt: "Two people sitting back to back on a park bench, arms crossed, each looking away in the opposite direction, seen from a distance and small in the frame. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What 2 says {#definition}
 

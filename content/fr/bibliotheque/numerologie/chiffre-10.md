@@ -34,7 +34,31 @@ faq:
 - q: Le Dix d’Épées annonce-t-il une catastrophe ?
   a: Il montre une fin qu’on ne peut plus nier — dix lames, à terre. Et derrière,
     le soleil se lève. C’est la carte à lire jusqu’au bout, pas à la première impression.
-gallery: []
+gallery:
+- src: "visuals/num-10/1.jpg"
+  title: "Le couloir entre deux pièces"
+  text: "Un couloir entre deux pièces : le 10, c’est la fin d’un cycle et le seuil du suivant."
+  prompt: "A long hallway in an empty flat, a room full of packed boxes behind, an open door ahead onto a sunlit empty room, a person seen from behind walking through. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-10/2.jpg"
+  title: "Respirer"
+  text: "Un petit sac sur un quai désert : liberté, changement, voyage — le 10, c’est le moment de respirer."
+  prompt: "A traveller seen from behind on an empty country railway platform with one small bag, fields and a wide open sky beyond, morning light. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-10/3.jpg"
+  title: "Hors de la chrysalide"
+  text: "Une chrysalide vide, le papillon déjà plus loin : ça peut ressembler à une chute, c’est une mue."
+  prompt: "An empty, split chrysalis hanging from a garden twig, and a little further along the branch a butterfly drying its open wings, close-up. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-10/4.jpg"
+  title: "Avant le prochain départ"
+  text: "Chaussures enlevées, la nouvelle carte routière encore pliée : laissez partir l’ancienne forme avant de courir vers le prochain 1."
+  prompt: "A pair of muddy hiking boots taken off by the front door after a long journey, a person resting in an armchair beyond, a new folded map left unopened on the table. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-10/5.jpg"
+  title: "Méconnaissable"
+  text: "Un coin de rue familier devenu méconnaissable : comme Instagram aujourd’hui, la chose est devenue tout autre."
+  prompt: "A passer-by seen from behind stopping on a street corner in front of a shopfront entirely refitted into something new and unfamiliar, no lettering or sign on the facade. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-10/6.jpg"
+  title: "Ça ne dure pas"
+  text: "Un château de sable achevé, la marée qui monte : le revers du 10, c’est une plénitude qui ne dure pas."
+  prompt: "A finished sandcastle on a wide beach with the tide coming in around it, the first wave reaching its walls, a child’s bucket left beside it. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit le 10 {#definition}
 

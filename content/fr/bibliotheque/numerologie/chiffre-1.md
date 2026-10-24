@@ -40,7 +40,31 @@ faq:
   a: 'La même énergie, freinée ou mal tenue : un début qui n’arrive pas à démarrer,
     ou un élan qu’on gaspille. On regarde d’abord l’élément de l’As pour savoir dans
     quel domaine.'
-gallery: []
+gallery:
+- src: "visuals/num-1/1.jpg"
+  title: "Une idée sur une serviette"
+  text: "Un croquis sur une serviette entre deux personnes : une idée qui tient dans la main, rien n’est encore construit."
+  prompt: "Two young people at a cluttered kitchen table late at night, seen from behind and over the shoulder, one hand sketching boxes and arrows in pencil on a paper napkin, two mugs of coffee, no words on the napkin. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-1/2.jpg"
+  title: "Le diamant brut"
+  text: "Une pierre brute sur l’établi du joaillier : précieuse déjà, et inutilisable tant qu’elle n’est pas taillée."
+  prompt: "A jeweller’s hands at a worn wooden workbench holding a small rough uncut diamond, cloudy and shapeless, in steel tweezers, a loupe and simple tools beside it. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-1/3.jpg"
+  title: "S’apprêter à apprendre"
+  text: "Une première page blanche et un crayon taillé : le conseil du 1, c’est de vous apprêter à apprendre."
+  prompt: "An adult’s hands opening a brand-new notebook at its blank first page on a wooden desk, a freshly sharpened pencil and its shavings beside it. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-1/4.jpg"
+  title: "Première page"
+  text: "Un pied sur la première marche : avec un 1, vous êtes à la première page, pas à la fin."
+  prompt: "A person seen from behind standing at the foot of a long stone staircase climbing a hillside town, one foot placed on the first step, the top far away. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-1/5.jpg"
+  title: "Garder ce qui marche"
+  text: "D’un premier essai encombré, ne garder que ce que les gens utilisent : le partage de photos, rebaptisé Instagram."
+  prompt: "A hand lifting a single instant photo print out of a cluttered cardboard box of tangled cables, old gadgets and crumpled papers on a desk. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-1/6.jpg"
+  title: "Sauter les leçons"
+  text: "Des skis neufs, droit vers la piste noire : le revers du 1, c’est oublier qu’on reste élève toute sa vie."
+  prompt: "A person in spotless brand-new ski gear, seen from behind and small in the frame, skiing past the gentle beginners’ slope straight towards a steep icy run. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit le 1 {#definition}
 

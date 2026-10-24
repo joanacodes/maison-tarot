@@ -38,7 +38,31 @@ faq:
 - q: What does a reversed Ace mean?
   a: 'The same energy, held back or badly handled: a start that can''t get going,
     or momentum being wasted. Look at the Ace''s element first to know in which area.'
-gallery: []
+gallery:
+- src: "visuals/num-1/1.jpg"
+  title: "An idea on a napkin"
+  text: "A sketch on a napkin between two people: an idea that fits in the hand, nothing built yet."
+  prompt: "Two young people at a cluttered kitchen table late at night, seen from behind and over the shoulder, one hand sketching boxes and arrows in pencil on a paper napkin, two mugs of coffee, no words on the napkin. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-1/2.jpg"
+  title: "The rough diamond"
+  text: "An uncut stone at the jeweller’s bench: precious already, and useful for nothing until it’s cut."
+  prompt: "A jeweller’s hands at a worn wooden workbench holding a small rough uncut diamond, cloudy and shapeless, in steel tweezers, a loupe and simple tools beside it. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-1/3.jpg"
+  title: "Ready to learn"
+  text: "A blank first page and a sharpened pencil: the advice of 1 is to get ready to learn."
+  prompt: "An adult’s hands opening a brand-new notebook at its blank first page on a wooden desk, a freshly sharpened pencil and its shavings beside it. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-1/4.jpg"
+  title: "Page one"
+  text: "One foot on the first step: with a 1 you’re on page one, so don’t tell yourself the ending."
+  prompt: "A person seen from behind standing at the foot of a long stone staircase climbing a hillside town, one foot placed on the first step, the top far away. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-1/5.jpg"
+  title: "Keep what works"
+  text: "From a cluttered first attempt, keep only what people use: photo sharing, renamed Instagram."
+  prompt: "A hand lifting a single instant photo print out of a cluttered cardboard box of tangled cables, old gadgets and crumpled papers on a desk. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-1/6.jpg"
+  title: "Skipping the lessons"
+  text: "Brand-new skis, straight for the black run: the flip side of 1 is forgetting we stay students all our lives."
+  prompt: "A person in spotless brand-new ski gear, seen from behind and small in the frame, skiing past the gentle beginners’ slope straight towards a steep icy run. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What 1 says {#definition}
 

@@ -32,7 +32,31 @@ faq:
 - q: Reine ou Roi, lequel est le plus fort ?
   a: Ni l’un ni l’autre. L’une maîtrise à l’intérieur, l’autre à l’extérieur. Une
     situation a besoin des deux.
-gallery: []
+gallery:
+- src: "visuals/rank-queen/1.jpg"
+  title: "Accueillir sans hâte"
+  text: "Une hôtesse qui prend les manteaux, sans hâte : la Reine ne part pas, ne commande pas, elle accueille et tient."
+  prompt: "A host seen from behind at the open door of a warm, lit home, unhurriedly taking coats from arriving guests, the guests cropped at the shoulders. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/rank-queen/2.jpg"
+  title: "Sans regarder"
+  text: "Des mains qui cousent sans regarder : l’élément fait partie d’elle, c’est la maîtrise de l’intérieur."
+  prompt: "A seated woman’s hands sewing a hem with needle and thread without looking down, her head turned towards someone out of frame, a sewing basket on her lap. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/rank-queen/3.jpg"
+  title: "Comprendre sans un mot"
+  text: "Une tasse glissée vers l’autre avant le moindre mot : la Reine comprend sans qu’on lui dise."
+  prompt: "Two people at a kitchen table seen from the side, one silently sliding a cup of tea across to the other, who sits with head lowered, faces out of focus. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/rank-queen/4.jpg"
+  title: "Faire pousser"
+  text: "Des mains dans un potager florissant : la Reine fait pousser avec ce qu’elle sait, sans rien prouver."
+  prompt: "A person kneeling in a thriving vegetable garden, hands deep in the soil, seen from behind, a small wild rabbit at the edge of the frame. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/rank-queen/5.jpg"
+  title: "Un homme peut être Reine"
+  text: "Un père qui cuisine, un bébé endormi contre lui : la Reine est une énergie qui tient, pas un sexe."
+  prompt: "A father seen from behind holding a sleeping baby against his shoulder with one arm while slowly stirring a pot on the stove with the other. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/rank-queen/6.jpg"
+  title: "Tenir sans retenir"
+  text: "Du sable qui s’échappe d’un poing serré : tenir sans retenir, la maîtrise n’est pas le contrôle."
+  prompt: "A clenched fist full of dry sand on a beach, grains streaming out between the tight fingers, close-up. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit la reine {#definition}
 

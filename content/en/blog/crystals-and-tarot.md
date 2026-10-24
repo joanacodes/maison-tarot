@@ -59,6 +59,6 @@ Most people who ask about protection stones are asking for something gentler und
 
 One deck. I start everyone on the 1909 Rider-Waite-Smith, because every card has a scene you can read without a book; [here’s why that deck](/blog/best-tarot-deck-for-beginners/). Then a notebook, to write what you said and what was confirmed. That’s the whole shopping list.
 
-No ritual is needed to begin. If you want a first week with a new deck, I’d rather you [look at every card than cleanse it](/blog/new-tarot-deck/) — and the same reasoning is behind [why I stopped cleansing decks with sage](/blog/cleanse-tarot-deck/).
+No ritual is needed to begin. If you want a first week with a new deck, I’d rather you [look at every card than cleanse it](/blog/new-tarot-deck/) — and the same reasoning is behind [why I stopped selling sage to cleanse decks](/blog/cleanse-tarot-deck/).
 
 If you love your crystals, keep them where they are. Then turn the first card and notice that the reading starts with you. The [learn tarot page](/learn-tarot/) is where to go next, one card at a time.

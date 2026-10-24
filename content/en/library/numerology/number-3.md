@@ -33,7 +33,31 @@ faq:
 - q: Does 3 announce a birth?
   a: It announces a result that shows. Sometimes a child, more often a project, a
     party, a team that takes.
-gallery: []
+gallery:
+- src: "visuals/num-3/1.jpg"
+  title: "The machine running"
+  text: "A busy café that runs on its own rhythm: 3 is the machine turning and the first visible result."
+  prompt: "A busy neighbourhood café during the morning rush, a barista’s hands pulling espresso while customers queue and tables fill behind, slight motion blur, everyone seen from the side or from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-3/2.jpg"
+  title: "Siblings on good terms"
+  text: "Three siblings shoulder to shoulder: 3 is also the bond that works, a family that gets along."
+  prompt: "Three siblings of different ages sitting shoulder to shoulder on a low garden wall, seen from behind, one with an arm around another, laughing. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-3/3.jpg"
+  title: "It turns on its own"
+  text: "A phone that keeps lighting up: like Instagram at launch, people sign up, post and come back."
+  prompt: "A smartphone lying on a café table, its screen lit by a stack of notifications, the screen completely out of focus and unreadable, a coffee cup and a resting hand nearby. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-3/4.jpg"
+  title: "Finish, then start"
+  text: "The last coat on one wall before opening the next tin: finish a project before starting another."
+  prompt: "A painter’s hand rolling the last coat of paint onto one wall of a room, plain unlabelled paint tins still closed in a corner, dust sheets on the floor. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-3/5.jpg"
+  title: "One too many"
+  text: "Two walk together, the third a step behind: when three hearts are involved, the cadence can break."
+  prompt: "Three people walking down a quiet street seen from behind, two walking close together and talking, the third a step behind and alone. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/num-3/6.jpg"
+  title: "Too many things started"
+  text: "Six projects started, none finished: the flip side of 3 is starting the next before closing the last."
+  prompt: "A cluttered table covered with half-started projects: a half-knitted scarf on its needles, an unfinished model boat, an open sketchbook, a guitar missing strings, a seed tray never planted, nobody in the room. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What 3 says {#definition}
 
