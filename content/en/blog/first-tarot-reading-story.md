@@ -45,7 +45,7 @@ Either the reading described something that hadn’t happened yet, or something 
 
 Timing can also do the opposite, and make a message look right in a way that matters far less than it seems. The story that taught me that is in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/), and I’d read the two side by side.
 
-The detail that matters most to me is the unkind one. Nobody invents an unflattering detail to please a stranger. If I’d been guessing at what she wanted to hear, that’s the first thing I would have left out. It isn’t an easy thing to hear from anyone, let alone a stranger. It was also true, and it was hers to know.
+The detail that matters most to me is the unkind one. Nobody invents an unflattering detail to please a stranger. If I’d been guessing at what she wanted to hear, that’s the first thing I would have left out. It’s hard to hear from anyone, let alone a stranger. It was also true, and it was hers to know.
 
 Say you draw for a friend and something comes up that you’d rather not say: that she’s been short with someone, or that she’s avoiding a person who deserves better. The temptation is to drop it and keep the pleasant half. That half is usually the part anyone could have guessed.
 

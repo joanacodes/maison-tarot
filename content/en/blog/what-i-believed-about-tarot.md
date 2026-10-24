@@ -15,7 +15,7 @@ My first notes about tarot date from 2021, a few months after I started reading 
 
 ## I thought I'd need training before I got anything right {#training}
 
-My friends gave me my first deck that Christmas, from my wishlist. I'd been expecting an astrology book. When I started reading, I assumed it would take a long stretch of study before anything I said was accurate.
+My friends gave me my first deck that Christmas, from my wishlist. I'd been expecting an astrology book. When I started reading, I assumed I'd need training before anything I said was accurate.
 
 My first reading was accurate. I hadn't trained for it.
 
@@ -23,7 +23,7 @@ What I see differently now is what that meant. It wasn't proof of anything about
 
 {{< todo >}}Add here: if you also believed in 2020 that only some people could read, one sentence in your own words.{{< /todo >}}
 
-**That first reading told me something about reading, not about me.** It's why I hand back [the compliment people pay me most often](/blog/you-have-a-gift/), and why the [learn path](/learn-tarot/) starts with a card rather than a test of talent.
+**That first reading told me something about reading, not about me.** It's why I hand back [the compliment people pay me most often](/blog/you-have-a-gift/), and why the [learn path](/learn-tarot/) has you read a card on day one instead of testing your talent.
 
 ## ‘I don’t need the cards anymore’ {#the-cards}
 
@@ -33,7 +33,7 @@ I'd keep half of that sentence. **Cards aren't magic, you are.** They're a mediu
 
 The half I'd drop is "don't need". The cards do a job even when the message arrives first. They help you focus, or unfocus, so your own thoughts and biases step aside for a moment. And they give the person something to look at: a picture they can hold what I say up against, instead of taking my word for it.
 
-If you're starting out, please don't read my 2021 sentence as a goal. Outgrowing the deck isn't a level to reach. It was a description of a phase, written by someone who'd been reading for a few months.
+If you're starting out, please don't read my 2021 sentence as a goal. Outgrowing the deck isn't a level to reach. It described a phase, written in my first year of reading.
 
 ## Sage, candles and ‘channelled’ cards {#props}
 
@@ -65,4 +65,4 @@ A story like that makes it tempting to treat every miss as a hit running late. I
 
 The surprise. The moment that made me want to teach is still the one I wait for: someone I'm teaching says something true about another person, and is shocked by what they've just said.
 
-My first reading gave me that surprise, and it's the one thing in my 2021 notes I wouldn't change a word of. If you'd like to find it for yourself, the [workshops](/workshops/) are three hours, twelve people, and one lens each.
+My own first reading gave me the same surprise, and that part of my 2021 notes I wouldn't change. If you'd like to find it for yourself, the [workshops](/workshops/) are three hours, twelve people, and one lens each.

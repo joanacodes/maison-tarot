@@ -1,6 +1,6 @@
 ---
 title: "Tarot et deuil : ce que les cartes peuvent porter, et quand il faut quelqu’un"
-description: "Tarot et deuil : ce que les cartes peuvent porter après une perte, les questions qu’elles laissent de côté, un tirage en quatre cartes, et quand s’appuyer sur quelqu’un."
+description: "Tarot et deuil : ce que les cartes peuvent porter après une perte, ce qu’elles laissent de côté, un tirage en quatre cartes, et quand s’appuyer sur quelqu’un."
 translationKey: "post-tarot-for-grief"
 type: blog
 date: 2026-10-24
