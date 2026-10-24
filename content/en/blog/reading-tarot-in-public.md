@@ -53,9 +53,9 @@ Thank them for asking, and move on without a lecture. Nobody should feel told of
 
 ## A shaking body and a calm voice {#staying-calm}
 
-During one Facebook live, I started reading before I'd even shuffled: the message came first, the cards after. My body was shaking, and I stayed calm. [Reading live](/blog/tarot-live-instagram/) has quirks of its own, and I've written about them separately.
+I did lives in Facebook tarot groups, reading for people while others watched. And the more I read, the more often a message came before I'd even shuffled. In front of an audience, say so out loud when it happens, so nobody thinks you skipped a step. [Reading live](/blog/tarot-live-instagram/) has quirks of its own, and I've written about them separately.
 
-What helps when it's you at the table:
+Your hands may shake, your heart may race, your voice may speed up. That's normal, and it doesn't mean the reading will go wrong. What helps when it's you at the table:
 
 - Slow your voice down. Nerves speed you up, and the room hears calm before it hears content.
 - Describe the card before you interpret it. A description is always true, and it gives your nerves time to settle.

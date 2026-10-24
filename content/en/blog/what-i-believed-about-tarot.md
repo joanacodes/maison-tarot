@@ -11,7 +11,7 @@ imageAlt: "An old notebook lying open on a wooden table beside a closed tarot de
 imagePrompt: "An old notebook lying open on a wooden table beside a closed tarot deck, a pencil resting across a handwritten page. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "When I started reading tarot at the end of 2020, I expected to need training before anything I said was accurate; my first reading was. In 2021 I wrote that I didn’t need the cards anymore, and I sold sage, candles and ‘channelled’ cards. Before any of it, I’d come to astrology to mock it. Today I’d put each one differently: anyone can learn, the cards aren’t the source but they move your own biases aside, props don’t improve a reading, astrology held 30–40% when I tested it, and when I’m wrong, I say so."
 ---
-My first notes about tarot date from 2021, a few months after I started reading on 26 December 2020. Some of what's in them still holds. A few things I'd put differently today, and one or two I've stopped doing altogether. Here they are, beside what I think now.
+My first notes about tarot are from 2021, my first full year of reading; I'd started on 26 December 2020. Some of what's in them still holds. A few things I'd put differently today, and one or two I've stopped doing altogether. Here they are, beside what I think now.
 
 ## I thought I'd need training before I got anything right {#training}
 
@@ -33,7 +33,7 @@ I'd keep half of that sentence. **Cards aren't magic, you are.** They're a mediu
 
 The half I'd drop is "don't need". The cards do a job even when the message arrives first. They help you focus, or unfocus, so your own thoughts and biases step aside for a moment. And they give the person something to look at: a picture they can hold what I say up against, instead of taking my word for it.
 
-If you're starting out, please don't read my 2021 sentence as a goal. Outgrowing the deck isn't a level to reach. It described a phase, written in my first year of reading.
+If you're starting out, please don't read my 2021 sentence as a goal. Outgrowing the deck isn't a level to reach. That sentence described where I was in my first year of reading, not where anyone should be heading.
 
 ## Sage, candles and ‘channelled’ cards {#props}
 
@@ -57,7 +57,7 @@ What I hold now is narrower than either. A chart can be worth reading, and it is
 
 About one reading in ten misses, by my own count, and I say so. No reframing, no extra card to rescue it.
 
-My first reading for a stranger shows why I'm strict about that. It sounded like a miss: she said it didn't resonate, she wasn't looking for a relationship. Three or four days later she texted me, shocked. Everything had happened.
+My first reading for a stranger shows what makes that hard to hold. It sounded like a miss: she said it didn't resonate, she wasn't looking for a relationship. Three or four days later she texted me, shocked. Everything had happened.
 
 A story like that makes it tempting to treat every miss as a hit running late. I don't. She came back on her own; a reading nobody comes back about stays a miss in the notebook. **A reader who can't say "that one was wrong" can't learn anything from being right.** Here's [what I do when a reading is wrong](/blog/tarot-reading-wrong/).
 

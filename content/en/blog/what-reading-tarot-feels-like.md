@@ -1,6 +1,6 @@
 ---
 title: "What it actually feels like to read a tarot card"
-description: "What does reading a tarot card feel like? Mostly like your own thoughts; once, for me, like my body shaking during a live. How to stay calm, and why you have to try it."
+description: "What does reading a tarot card feel like? Mostly like your own thoughts; sometimes like an emotion that isn’t yours. How to stay calm, and why you have to try it."
 translationKey: "post-what-reading-tarot-feels-like"
 type: blog
 date: 2026-10-24
@@ -9,9 +9,9 @@ tags: ["what reading tarot feels like", "tarot intuition", "empathy and tarot", 
 image: "covers/what-reading-tarot-feels-like.jpg"
 imageAlt: "A person seen from behind at a kitchen table, an open laptop in front of them and a single tarot card face up beside it"
 imagePrompt: "A person seen from behind sitting at a kitchen table in front of an open laptop with a blurred screen, one hand resting flat beside a single face-up card. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Reading a tarot card mostly feels ordinary: a word, an image or a hunch arrives in your own voice, so quietly you could take it for one of your own thoughts. Sometimes it’s physical. During a live, my body shook while I was reading, and I stayed calm, because the emotions weren’t mine. Impressions come through different channels — images, words, sensations, emotions — and the skill is to receive them while keeping your own. No description replaces trying it: one card, said out loud, to someone who tells you nothing."
+summary: "Reading a tarot card mostly feels ordinary: a word, an image or a hunch arrives in your own voice, so quietly you could take it for one of your own thoughts. Sometimes it arrives before you’ve even shuffled. Sometimes it’s an emotion that isn’t yours. Impressions come through different channels — images, words, sensations, emotions — and the skill is to receive them while keeping your own, and to stay calm. No description replaces trying it: one card, said out loud, to someone who tells you nothing."
 ---
-Most of the time, reading a card feels ordinary: a word or an image turns up in your own voice, and you say it. Sometimes it’s anything but ordinary — I’ve had my body shake during a live. Both are honest answers, and neither will teach you as much as trying it once.
+Most of the time, reading a card feels ordinary: a word or an image turns up in your own voice, and you say it. Sometimes it’s an emotion that plainly isn’t yours, and the work is to stay calm. Both are honest answers, and neither will teach you as much as trying it once.
 
 ## Mostly, it sounds like your own thoughts {#own-thoughts}
 
@@ -25,22 +25,22 @@ Because it sounds like you, it gets thrown away, and most beginners worry they�
 
 The cards help in a modest way. They give your eyes somewhere to rest, so your own thoughts and assumptions step aside long enough for something else to come through. In my notes from 2021, I wrote that the more I read, the more things arrived before I’d even shuffled, and that I used the cards mostly because people wanted to see them.
 
-## Sometimes it’s in your body {#in-the-body}
+## Sometimes it’s an emotion that isn’t yours {#not-yours}
 
-During a live, my body started shaking while I was reading. I stayed calm. The emotions running through me weren’t mine.
+At the other end of the scale, what arrives isn’t a word but a feeling. Sensations and emotions are channels too, and for some readers they’re the loudest ones.
 
-{{< todo >}}Add here (optional): a line or two about that live — what the reading was about, and what the shaking felt like.{{< /todo >}}
+Say you’re reading for someone and a heaviness settles on you that wasn’t there a minute ago. Nothing in your own day explains it. That is what empathy can look like when you read. In my teaching notes, empathy means feeling and understanding another person’s emotions while keeping your own. Very empathic readers can end up feeling the other person’s emotions, and sometimes expressing them, as if they were theirs.
 
-That’s the other end of the scale, and it’s what empathy can look like when you read. In my teaching notes, empathy means feeling and understanding another person’s emotions while keeping your own. Very empathic readers can end up feeling the other person’s emotions, and sometimes expressing them, as if they were theirs.
+{{< todo >}}Add here: what you feel in your body when you read, if anything — a line or two in your own words.{{< /todo >}}
 
-That is where it needs care. If you start crying someone else’s tears, you’ve stopped reading for them; they’re now looking after you.
+That is where it needs care. If you start crying the other person’s tears, you’ve stopped reading for them; they’re now looking after you.
 
 **Feel it, know whose it is, and keep it at arm’s length: you’re there to read the emotion, not to carry it.**
 
 ## How to stay calm when it isn’t yours {#staying-calm}
 
 1. Notice it, and tell yourself where it’s coming from: this isn’t mine.
-2. Slow down. Keep your voice level and your words plain. “There’s a lot of emotion around this” helps the person; a description of your shaking hands doesn’t.
+2. Slow down. Keep your voice level and your words plain. “There’s a lot of emotion around this” helps the person; a running commentary on what’s happening in your chest doesn’t.
 3. Listen to the emotion without letting it take over. It’s information about the reading, not an instruction.
 4. If it’s too much, stop. You can always finish another day, and nobody is owed a reading at your expense.
 5. Afterwards, rest. Interpreting takes energy, and you can feel very tired after a reading; listen to your body. I sometimes stop after two hours of readings, out of caution. There’s more on [feeling drained after a reading](/blog/energy-after-tarot-reading/) and what helps.
