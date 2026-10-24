@@ -29,7 +29,7 @@ A card can’t see a body. It reads a moment, in pictures. Any link from a pictu
 
 Timing is where readings miss most, and these questions are nearly all about timing: when, how long, by spring. By my own count, about one reading in ten misses. On most subjects a miss is a line in my notebook. Here it can be someone delaying an appointment, or grieving something that hasn’t happened.
 
-And words stay. I know this from my own life. After my closest friend died of cancer, I asked, in anger, “who’s next?” and heard a man’s voice give me another friend’s name and the words “is going to have an accident”. Two weeks later, that friend’s car was hit by a truck. That friend is alive and well today. The information was wrong in what mattered. Since then, I keep that kind of thing on a shelf labelled “sceptical, but if it happens, I was warned”, and I don’t hand it to anyone else. The full story is in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/).
+And words stay. I know this from my own life. After my closest friend died of cancer, I asked silently, in anger, “who’s next?” and heard a man’s voice give me another friend’s name and the words “is going to have an accident”. Two weeks later, that friend’s car was hit by a truck. That friend is alive and well today. The information was wrong in what mattered. Since then, I keep that kind of thing on a shelf labelled “sceptical, but if it happens, I was warned”, and I don’t hand it to anyone else. The full story is in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/).
 
 Even the card called Death isn’t about dying.
 

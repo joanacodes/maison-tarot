@@ -53,7 +53,7 @@ Certaines choses se vendent comme un supplément et ne devraient pas :
 2. Divisez-le par le temps où l’on vous lira vraiment — pas l’attente, pas les politesses.
 3. Demandez sur quoi la personne ne lit pas. Si la réponse est « sur rien », c’est déjà une réponse.
 4. Demandez ce qui se passe quand une partie du tirage ne tombe pas juste. Une personne honnête le dit, et ne vous vend pas une carte de plus pour rattraper.
-5. Avant tout appel à la minute, fixez votre plafond et raccrochez quand vous l’atteignez. Le compteur récompense les appels longs, pas les bons. [Les plateformes de voyance qui facturent trop](/fr/blog/arnaque-plateforme-voyance/) vivent précisément de cet écart.
+5. Avant tout appel à la minute, fixez votre plafond et raccrochez quand vous l’atteignez. Le compteur récompense les appels longs, pas les bons. [Les plateformes de voyance qui facturent trop](/fr/blog/arnaque-plateforme-voyance/) jouent précisément sur cet écart.
 6. Lisez les conditions avant de donner votre numéro de carte, en particulier ce qui se passe après les « premières minutes offertes ».
 
 ## Ce que je fais payer, et ce que je ne fais pas payer {#mes-prix}

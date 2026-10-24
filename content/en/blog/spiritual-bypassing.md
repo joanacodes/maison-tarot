@@ -21,6 +21,8 @@ An example. Say someone’s closest friend hurts them badly. Instead of telling 
 
 Closer to the cards: say someone has been dreading a conversation with their manager for weeks. Every morning they draw a card “to see if today’s the day”. The Four of Swords comes up — a figure lying still on a tomb, swords hanging above — and they read it as rest, so they wait. A month later the conversation still hasn’t happened, and the deck has become the place where it doesn’t.
 
+{{< cards "sw04" >}}
+
 **Bypassing isn’t believing in something; it’s using that belief to avoid a feeling.**
 
 ## What it looks like with tarot {#with-tarot}

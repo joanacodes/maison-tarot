@@ -23,6 +23,8 @@ Let's do the sum nobody does on the phone. €44,000 over five years is about �
 
 **€44,000 isn't one call too many; it's hundreds of calls that each, on their own, seemed reasonable.**
 
+A word on what this doesn't prove. It's one testimony and two former employees, in a programme built to investigate abuses, and the platform defends itself. Plenty of people call a psychic line a few times, hang up and are fine. There are honest readers at the end of those lines too, doing their best inside a model they didn't design. The point isn't that every call is a con. It's that the model rewards length, and length is what hurt her.
+
 ## Premium-rate or card-billed: two models people confuse {#two-models}
 
 In everyday French, people say *voyance surtaxée* — "surcharged psychic lines" — for all of it. There are actually two models, and they don't protect you in the same way.
@@ -39,11 +41,11 @@ What follows is my reading of the model, not the programme's conclusions. I've r
 
 1. The free minutes. Ten free minutes look generous. If, as the former employees say, little is said in them, they become a waiting room: the reading starts when the meter does. My own rule is the reverse: [the person tells me nothing](/blog/the-silence-rule/), and I start talking at the first card.
 2. Price as proof. When one psychic costs €3.50 and another €9.50, the dearer one passes for the better one. The price becomes a sign of quality, when all it measures is what the platform chose to charge.
-3. The question left open. A reading that ends on "call me next week, things are about to move" invites a second call. A reading that simply ends invites none.
+3. The question left open. A reading that ends on "call me next week, things are about to move" invites a second call. A reading that ends, full stop, invites none.
 4. Always open. Doubt keeps no office hours, and neither does a platform. At two in the morning, the voice on the line is often the only one answering.
 5. The invisible payment. A saved card doesn't hurt. No cash leaves your hand, nothing is signed; you hang up, and the amount arrives later, mixed in with everything else on the statement.
 
-**None of these mechanisms needs a psychic to lie about the cards.** That's what makes them so effective: they live in the billing model, not in the talent of whoever picks up. The cruder tricks — curses, urgency, paid rituals — are in [the nine red flags of a fake reader](/blog/how-to-spot-a-fake-tarot-reader/).
+**None of these mechanisms needs a psychic to lie about the cards.** That's what makes them so effective: they live in the billing model, not in the talent of whoever picks up. When someone arrives at a reading almost fidgety, with a high dose of doubt running through them, I usually decline: what they need is to breathe, make a decision, or go through the thing they're afraid of. A platform paid by the minute has every reason to do the opposite. The cruder tricks — curses, urgency, paid rituals — are in [the nine red flags of a fake reader](/blog/how-to-spot-a-fake-tarot-reader/).
 
 ## What the case says about the French market {#the-market}
 

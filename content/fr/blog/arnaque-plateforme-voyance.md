@@ -23,6 +23,8 @@ Faisons le calcul que personne ne fait au téléphone. 44 000 euros sur cinq ans
 
 **Ce n’est pas un appel de trop qui coûte 44 000 euros ; ce sont des centaines d’appels qui, un par un, semblaient raisonnables.**
 
+Un mot sur ce que ce cas ne prouve pas. C’est un témoignage et deux anciens salariés, dans une émission construite pour enquêter sur des abus, et la plateforme se défend. Beaucoup de gens appellent une ligne de voyance deux ou trois fois, raccrochent, et s’en portent très bien. Il y a aussi des voyants honnêtes au bout du fil, qui font de leur mieux dans un modèle qu’ils n’ont pas inventé. La question n’est pas de savoir si chaque appel est une arnaque. C’est que le modèle récompense la durée, et que c’est la durée qui lui a coûté si cher.
+
 ## Surtaxé ou payé par carte : deux modèles qu’on confond {#deux-modeles}
 
 Dans le langage courant, on dit « voyance surtaxée » pour tout. Il existe en réalité deux modèles, et ils ne vous protègent pas de la même façon.
@@ -43,7 +45,7 @@ Ce qui suit, c’est ma lecture du modèle, pas les conclusions de l’enquête.
 4. La disponibilité permanente. Le doute n’a pas d’horaires, une plateforme non plus. À deux heures du matin, la voix au bout du fil est souvent la seule qui réponde.
 5. Le paiement invisible. Une carte enregistrée ne fait pas mal. On ne sort pas de billets, on ne signe rien ; on raccroche, et la somme arrive plus tard, mélangée au reste du relevé.
 
-**Aucun de ces mécanismes n’exige qu’un voyant mente sur ses cartes.** C’est ce qui les rend si efficaces : ils tiennent au mode de paiement, pas au talent de la personne qui décroche. J’ai rassemblé les procédés plus grossiers — malédiction, urgence, rituel payant — dans [les neuf signaux d’une arnaque à la voyance](/fr/blog/arnaque-voyance/).
+**Aucun de ces mécanismes n’exige qu’un voyant mente sur ses cartes.** C’est ce qui les rend si efficaces : ils tiennent au mode de paiement, pas au talent de la personne qui décroche. Quand quelqu’un arrive à une lecture presque fébrile, avec une forte dose de doute qui le traverse, je décline en général : ce dont il a besoin, c’est de respirer, de prendre une décision, ou de traverser ce qui lui fait peur. Une plateforme payée à la minute a toutes les raisons de faire l’inverse. J’ai rassemblé les procédés plus grossiers — malédiction, urgence, rituel payant — dans [les neuf signaux d’une arnaque à la voyance](/fr/blog/arnaque-voyance/).
 
 ## Ce que l’affaire dit du marché français {#le-marche}
 
