@@ -42,7 +42,7 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-Un chevalier en armure complète est assis sur un lourd cheval noir. Le cheval ne va nulle part : ses jambes sont droites, bien plantées, un brin de feuilles vertes attaché à sa bride. Le chevalier tient un pentacle dans sa main droite, gantée de rouge, et le regarde. Son casque porte lui aussi un cimier de feuilles vertes ; par-dessus l’armure, une tunique rouge, et le harnais du cheval est rouge.
+Un chevalier en armure complète est assis sur un lourd cheval noir. Le cheval ne va nulle part : ses jambes sont droites, bien plantées, un brin de feuilles vertes attaché à sa bride. Le chevalier tient un pentacle dans sa main gantée de rouge, et le regarde. Son casque porte lui aussi un cimier de feuilles vertes ; par-dessus l’armure, une tunique rouge, et le harnais du cheval est rouge.
 
 Derrière lui, un champ labouré en longs sillons brun-rouge, une butte verte sous les sabots, des collines basses, quelques arbres à droite. Le ciel est jaune. Pas de route, pas d’autre cavalier, pas de château à atteindre.
 

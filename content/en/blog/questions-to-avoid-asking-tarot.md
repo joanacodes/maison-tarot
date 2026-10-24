@@ -65,7 +65,7 @@ Kinder questions turn back towards you:
 - “What would I do if I already knew the answer?”
 - “How do I want to be treated?”
 
-The question about an ex has [a whole article of its own](/blog/will-they-come-back-tarot/), because it’s the one I hear most, and the one that hurts the most to keep asking. And if your question only works as a yes or a no, [here’s what I offer instead of a verdict](/blog/yes-or-no-tarot/).
+The question about an ex has [a whole article of its own](/blog/will-they-come-back-tarot/), because I hear it often, and because it hurts more each time it’s asked again. And if your question only works as a yes or a no, [here’s what I offer instead of a verdict](/blog/yes-or-no-tarot/).
 
 ## The kindest question is sometimes none {#no-question}
 

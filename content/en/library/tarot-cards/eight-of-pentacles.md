@@ -42,7 +42,7 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-A young man with curly hair sits on a low wooden bench, bent over his work. He holds a hammer in his right hand and a chisel in his left, and he is cutting a pentacle into a disc propped in front of him. Blue tunic, black apron, red hose. His eyes don’t leave the coin.
+A young man with curly hair sits on a low wooden bench, bent over his work. Hammer raised in one hand, chisel in the other, he is cutting a pentacle into a disc propped in front of him. Blue tunic, black apron, red hose. His eyes don’t leave the coin.
 
 On the right, a tall wooden post carries the finished pieces: five pentacles hung one above the other, a sixth at its foot. One more lies on the ground near his feet. Six done, one under the chisel, one to come: eight.
 

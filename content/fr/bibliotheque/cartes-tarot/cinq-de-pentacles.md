@@ -43,7 +43,7 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-Un ciel noir, et une neige épaisse qui tombe. Deux personnes la traversent. À gauche, un homme sur des béquilles, la tête bandée, une petite cloche pendue à un cordon autour du cou, une jambe repliée derrière lui. À droite, un peu devant, une femme enveloppée dans un châle rouge orangé tiré sur la tête, penchée en avant, pieds nus dans la neige.
+Un ciel noir, et une neige épaisse qui tombe. Deux personnes la traversent. À gauche, un homme sur des béquilles, la tête bandée, une petite cloche au cou, une jambe repliée derrière lui. À droite, un peu devant, une femme enveloppée dans un châle rouge orangé tiré sur la tête, penchée en avant, pieds nus dans la neige.
 
 Au-dessus d’eux, dans un mur de pierre grise, un vitrail brille : cinq pentacles dorés parmi des feuillages verts, encadrés de bandes rouges et bleues. C’est la seule lumière chaude de la carte. Il n’y a pas de porte dans le dessin — seulement la fenêtre éclairée, juste au-dessus de leurs têtes, et eux deux qui passent devant.
 
@@ -51,25 +51,25 @@ Au-dessus d’eux, dans un mur de pierre grise, un vitrail brille : cinq pentacl
 
 ## Par le nombre : cinq {#nombre}
 
-**cinq — le conflit, l’épreuve, faire avec ce qui reste.** Le [chiffre 5](/fr/bibliotheque/numerologie/chiffre-5/), c’est l’épreuve au milieu du cycle, le moment où l’on découvre ce qui tient. Dans mes notes, le Cinq de Pentacles, c’est la pauvreté, la neige, et l’église où l’on pourrait trouver de la chaleur. Le 5, c’est aussi faire avec ce qui reste, et ces deux-là font exactement cela, ensemble.
+**cinq — le conflit, l’épreuve, faire avec ce qui reste.** Le [chiffre 5](/fr/bibliotheque/numerologie/chiffre-5/), c’est l’épreuve au milieu du cycle, le moment où l’on découvre ce qui tient. Dans mes notes, le Cinq de Pentacles, c’est la pauvreté, la neige, et l’église où l’on pourrait trouver de la chaleur. Le 5, c’est aussi faire avec ce qui reste : ces deux-là le font ensemble.
 
 Le conseil du 5, c’est d’être honnête avec soi-même et avec la situation ; son revers, c’est le déni. Ici, le déni est discret : passer devant la fenêtre comme si elle n’était pas pour vous.
 
 ## Par l’élément : Terre {#element}
 
-La [Terre](/fr/bibliotheque/quatre-elements/element-terre/), c’est la matière et la valeur, alors l’épreuve est ici matérielle : l’argent qui manque, un emploi perdu, un logement incertain, un corps fatigué. La carte ne l’adoucit pas, et je ne vais pas l’adoucir non plus.
+La [Terre](/fr/bibliotheque/quatre-elements/element-terre/), c’est la matière et la valeur, alors l’épreuve est ici matérielle : l’argent qui manque, un emploi perdu, un logement incertain, un corps fatigué. La carte ne l’adoucit pas, et moi non plus.
 
-Mais toutes les richesses ne sont pas en or, et la Terre, c’est tout ce qui a de la valeur à vos yeux. Le Cinq de Pentacles peut être une pauvreté de chaleur : se sentir mis à l’écart, hors du cercle, pas invité à l’intérieur. Les deux personnages sont ensemble et semblent pourtant seuls. La force de la Terre, l’endurance, c’est ce qui les fait avancer ; son revers, l’entêtement, c’est ce qui les empêche de frapper.
+Mais toutes les richesses ne sont pas en or, et la Terre, c’est tout ce qui a de la valeur à vos yeux. Le Cinq de Pentacles peut être une pauvreté de chaleur : se sentir mis à l’écart, pas invité à l’intérieur. Les deux personnages sont ensemble et semblent pourtant seuls. L’endurance de la Terre les fait avancer ; son revers, l’entêtement, les empêche de frapper.
 
 ## Par les couleurs {#couleurs}
 
-Le fond est [noir](/fr/bibliotheque/couleurs-tarot/noir/), parsemé de neige : l’absence, le vide, l’énergie absorbée — et, dans ma grille, la réalité. Le sol est blanc, froid plus que pur ici. Le châle de la femme est rouge orangé, la blouse de l’homme bleu pâle : un peu de chaleur et un peu de sentiment, portés sur le corps contre le froid.
+Le fond est [noir](/fr/bibliotheque/couleurs-tarot/noir/), parsemé de neige : l’absence, le vide, l’énergie absorbée — et, dans ma grille, la réalité. Le sol est blanc, froid plus que pur ici. Le châle de la femme est rouge orangé, la blouse de l’homme bleu pâle : un peu de chaleur et de sentiment, portés contre le froid.
 
-Puis le vitrail : du jaune et de l’or, des feuilles vertes, du rouge et du bleu dans l’encadrement. C’est la partie la plus lumineuse de la carte, et ils passent devant. Lisez les couleurs avant la carte : une scène sombre et froide, avec toute la joie et la lumière rassemblées en un seul endroit, juste au-dessus.
+Puis le vitrail : du jaune, de l’or, du vert, du rouge et du bleu. C’est la partie la plus lumineuse de la carte, et ils passent devant. Lisez les couleurs avant la carte : une scène sombre et froide, et toute la lumière rassemblée juste au-dessus.
 
 ## Par l’astrologie : Mercure en Taureau {#astrologie}
 
-Dans la tradition Golden Dawn, le Cinq de Pentacles correspond au premier décan du Taureau, attribué à [Mercure](/fr/bibliotheque/astrologie/mercure/) ; son titre est « Seigneur des Soucis matériels ». Mercure, c’est la façon de penser et de parler. Le Taureau dit *J’ai* : garder ce qui vous est cher — un signe fixe, lent à changer d’avis. Ensemble : un esprit bloqué sur ce qui manque, qui tourne et retourne le même souci, et qui a du mal à trouver les mots qui feraient venir l’aide.
+Dans la tradition Golden Dawn, le Cinq de Pentacles correspond au premier décan du Taureau, attribué à [Mercure](/fr/bibliotheque/astrologie/mercure/) ; son titre est « Seigneur des Soucis matériels ». Mercure, c’est la façon de penser et de parler. Le Taureau dit *J’ai* : garder ce qui vous est cher — un signe fixe, lent à changer d’avis. Ensemble : un esprit bloqué sur ce qui manque, qui ressasse le même souci et peine à trouver les mots qui feraient venir l’aide.
 
 Facultatif. Le vitrail l’a déjà dit.
 
@@ -81,14 +81,14 @@ Elle n’annonce pas non plus la ruine ou la maladie, et je ne la lis pas ainsi.
 
 Renversée, la carte bouge. Soit l’un des deux lève enfin les yeux et trouve la porte — l’aide demandée, acceptée, la première pièce chauffée après la neige. Soit l’inverse, au ralenti : le moment difficile devient l’habitude de passer devant, avec la certitude que la lumière n’est pas pour soi.
 
-À côté du [Six de Pentacles](/fr/bibliotheque/cartes-tarot/six-de-pentacles/), la carte suivante, quelqu’un donne et quelqu’un reçoit : l’aide arrive. À côté du [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), l’autre 5 lourd, l’épreuve est aussi affective, et là aussi quelque chose qui tient encore debout passe inaperçu. À côté de [l’Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/), après la neige, de l’eau versée librement sous un ciel ouvert : l’espoir qui revient.
+À côté du [Six de Pentacles](/fr/bibliotheque/cartes-tarot/six-de-pentacles/), la carte suivante, quelqu’un donne et quelqu’un reçoit : l’aide arrive. À côté du [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), l’autre 5 lourd, l’épreuve est aussi affective, et là aussi ce qui tient encore debout passe inaperçu. À côté de [l’Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/), après la neige, de l’eau versée librement sous un ciel ouvert : l’espoir qui revient.
 
 {{< cards "pe06 cu05 ar17" >}}
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Cinq de Pentacles à côté du [Trois de Coupes](/fr/bibliotheque/cartes-tarot/trois-de-coupes/). Les clés de lecture d’abord. Cinq puis trois : une épreuve, puis la cadence du 3 — une fratrie qui s’entend, des gens ensemble. La Terre puis l’Eau : quelque chose de matériel, puis les relations. Les dessins : deux silhouettes dans la neige sous un vitrail éclairé, puis trois femmes qui lèvent leurs coupes ensemble, des fruits à leurs pieds.
+Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Cinq de Pentacles à côté du [Trois de Coupes](/fr/bibliotheque/cartes-tarot/trois-de-coupes/). Les clés de lecture d’abord. Cinq puis trois : une épreuve, puis la cadence du 3 — une fratrie qui s’entend, des gens ensemble. La Terre puis l’Eau : quelque chose de matériel, puis les relations. Les dessins : deux silhouettes dans la neige sous un vitrail éclairé, puis trois femmes qui lèvent leurs coupes, des fruits à leurs pieds.
 
 La phrase que je dirais à voix haute, doucement : « Vous traversez quelque chose de dur sans en parler, et il y a autour de vous des gens qui seraient heureux que vous leur demandiez. »
 
-Pour vérifier, je demande : « Y a-t-il quelqu’un à qui vous pensiez demander, et à qui vous n’avez pas encore demandé ? » et j’attends. Si c’est oui, je ne demande pas de détails ; la personne m’en dira plus si elle le souhaite. Si c’est non, c’est un raté, et je le dis franchement.
+Pour vérifier, je demande : « Y a-t-il quelqu’un à qui vous pensiez demander de l’aide, sans l’avoir encore fait ? » et j’attends. Si c’est oui, je ne demande pas de détails ; la personne m’en dira plus si elle le souhaite. Si c’est non, c’est un raté, et je le dis franchement.

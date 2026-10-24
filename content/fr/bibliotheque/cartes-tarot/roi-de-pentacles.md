@@ -1,8 +1,7 @@
 ---
 title: 'Roi de Pentacles (King of Pentacles) — tarot Rider-Waite-Smith : lire la carte
   par ses clés de lecture'
-description: 'Roi de Pentacles : ce qu’on voit sur la carte, puis le nombre, l’élément
-  (Feu de Terre), les couleurs. Lire la carte sans l’avoir apprise.'
+description: 'Roi de Pentacles : un roi vêtu de vigne sur un trône à têtes de taureau, une pièce sur le genou. Lire la réussite et le contrôle par le rang et la couleur.'
 translationKey: card-peki
 type: cards
 navTitle: Roi de Pentacles
@@ -28,13 +27,12 @@ related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
-- q: Que signifie Roi de Pentacles ?
-  a: 'Il n’y a pas une signification à apprendre : Roi de Pentacles se lit par son
-    nombre (le Roi), son élément (Feu de Terre) et ses couleurs. La page ci-dessus
-    les pose une à une.'
-- q: Roi de Pentacles renversé, ça change quoi ?
-  a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
-    l’endroit, puis ce qui bloque ou déborde.
+- q: 'Que signifie Roi de Pentacles ?'
+  a: 'La réussite devenue stabilité : quelqu’un qui a construit quelque chose de solide et le gère maintenant — une entreprise, une maisonnée, un métier. Le Roi est la maîtrise extérieure et la Terre la matière : son autorité vient de ce qu’il a fait pousser.'
+- q: 'Roi de Pentacles renversé, ça change quoi ?'
+  a: 'La même maîtrise, freinée ou excessive. Freinée : la sécurité devient si précieuse que rien de neuf n’entre plus. Excessive : tout se mesure à ce que ça rapporte, y compris les gens autour de lui.'
+- q: 'Le Roi de Pentacles annonce-t-il de l’argent ?'
+  a: 'C’est la figure la plus prospère de sa famille, alors on l’espère souvent. Je ne fais ni prévisions ni décisions d’argent avec les cartes ; je préfère regarder ce que montre le Roi — comment quelqu’un gère ce qu’il a, et pour qui.'
 categories:
 - Pentacles
 tags:
@@ -44,24 +42,44 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-{{< todo >}}À ÉCRIRE — décrire le dessin de Pamela Colman Smith, détail par détail : personnages, objets, posture, ce qui manque.{{< /todo >}}
+Un roi est assis sur un trône sombre sculpté de têtes de taureau — deux en haut du dossier, d’autres plus bas sur les côtés. Sa robe, sombre elle aussi, est couverte de feuilles de vigne et de grappes de raisin, au point qu’il semble sortir du jardin qui l’entoure. Dans sa main droite, un sceptre surmonté d’un globe doré ; sa main gauche repose sur un pentacle posé en équilibre sur son genou. Il porte une couronne garnie de fleurs rouges, et un capuchon rouge autour du visage.
+
+Sous l’ourlet de la robe, on aperçoit un pied en armure. Derrière lui, un muret et, à droite, un château à tourelles. De la vigne grimpe à gauche ; de petites fleurs rouges poussent dans le coin du bas. Le ciel est jaune.
+
+Ses yeux sont mi-clos, baissés vers la pièce. **La carte parle de ce qu’on a construit devenu son siège — une réussite si complète qu’on la porte sur soi.**
 
 ## Par le nombre : le Roi {#nombre}
 
-**le Roi — la maîtrise extérieure, la décision.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**le Roi — la maîtrise extérieure, la décision.** Le [Roi](/fr/bibliotheque/numerologie/roi/) ne regarde pas son outil ; il regarde le monde qu’il gère avec. Chaque trône raconte sa famille : des salamandres pour le Feu, des poissons pour l’Eau, des papillons pour l’Air — des taureaux et des raisins pour la Terre. Le conseil du rang : décider, puis rendre des comptes. La question à poser à un Roi est toujours la même : pour qui ?
+
+Un exemple que tout le monde connaît : le boulanger du quartier qui a commencé avec un four et tient aujourd’hui trois boutiques. Il est toujours là à l’aube. Il décide aussi de tout, et personne d’autre ne touche à la recette.
 
 ## Par l’élément : Terre {#element}
 
-{{< todo >}}À ÉCRIRE — ce que [Terre](/fr/bibliotheque/quatre-elements/element-terre/) apporte ici : de quoi la carte parle.{{< /todo >}}
+Le Roi de Pentacles est Feu de Terre : la famille est la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) — la matière, la valeur, le résultat du travail — et sa part à lui est le [Feu](/fr/bibliotheque/quatre-elements/element-feu/) : la création, l’impulsion, l’énergie qui motive. Le Feu dans la Terre, c’est l’élan qui fait pousser les choses et les fait continuer à pousser : le four sous l’entreprise, l’ambition derrière la vigne.
+
+L’archétype de la Terre, dans mes notes, lui va presque trop bien : le manager de l’artiste qui travaille sans relâche pour que les factures soient payées — et qui cesse parfois d’écouter, parce que sa vision est celle qui « rapporte le plus ». Ajoutez le revers du Feu, cette force qui peut tout détruire, et vous avez le Roi à son pire : quelqu’un qui mesure tout, les gens compris, à ce que ça rapporte.
 
 ## Par les couleurs {#couleurs}
 
-{{< todo >}}À ÉCRIRE — les couleurs dominantes et ce qu’elles disent avant la carte ([la grille des couleurs](/fr/bibliotheque/couleurs-tarot/)).{{< /todo >}}
+La robe est presque [noire](/fr/bibliotheque/couleurs-tarot/noir/) : la réalité, l’énergie absorbée, la chose sans vernis. Ce Roi n’est pas habillé pour la parade ; il est habillé de sa terre. Les feuilles [vertes](/fr/bibliotheque/couleurs-tarot/vert/) recouvrent le noir : la nature, la croissance, la prospérité — la vie qui pousse sur la réalité. Le capuchon et les fleurs rouges mettent la passion et l’action près de la tête ; le ciel jaune et l’or du globe et de la pièce ajoutent la volonté et la fierté.
 
 ## En lecture {#lecture}
 
-{{< todo >}}À ÉCRIRE — à l’endroit, renversée, selon les cartes voisines. Une chose à retenir en gras.{{< /todo >}}
+À l’endroit : la réussite devenue stabilité. Quelqu’un qui a bâti quelque chose de solide — une entreprise, une maisonnée, une carrière, une œuvre — et le gère avec calme et compétence. Une figure d’autorité, un mentor, un patron ; ou vous, le jour où vous prenez la responsabilité de ce que vous avez fait pousser. **Sa maîtrise se mesure à ce qu’elle protège, pas à ce qu’elle accumule.**
+
+Renversé, la même maîtrise, freinée ou excessive. Freinée : la sécurité devient le seul but, et rien de neuf ne passe le mur du château. Excessive : le contrôle — le Roi qui décide pour tout le monde, traite les gens comme des actifs et confond avoir et être.
+
+Figure la plus prospère de sa famille, il fait parfois espérer de l’argent, ou on lui demande s’il faut placer, acheter, vendre. Je comprends cet espoir. Les décisions d’argent vous appartiennent ; la carte peut décrire comment quelqu’un gère ce qu’il a, et j’explique [ma façon de lire les Pentacles quand il est question d’argent](/fr/blog/tarot-et-argent/).
+
+À côté de [l’Empereur](/fr/bibliotheque/cartes-tarot/l-empereur/), deux pères de la structure : l’Empereur donne des ordres, le Roi de Pentacles fait pousser. À côté de la [Reine de Pentacles](/fr/bibliotheque/cartes-tarot/reine-de-pentacles/), la maisonnée au complet. À côté du [Quatre de Pentacles](/fr/bibliotheque/cartes-tarot/quatre-de-pentacles/), l’ombre du Roi : un homme qui serre sa pièce si fort qu’il ne peut plus se servir de ses mains.
+
+{{< cards "ar04 pequ pe04" >}}
 
 ## Exemple de tirage {#exemple}
 
-{{< todo >}}À ÉCRIRE — un tirage réel anonymisé : clés de lecture d’abord, phrase dite, ce que la personne a confirmé.{{< /todo >}}
+Mettons qu’une personne s’assoie, ne vous dise rien, et tire le Roi de Pentacles à côté du Six de Coupes. Les clés de lecture d’abord. Roi puis six : la maîtrise extérieure, puis — dans mes notes — prendre du temps pour soi, l’enfance, refleurir. Terre puis Eau : ce qui a été construit, puis l’émotion et la mémoire. Un roi vêtu de sa propre vigne, puis deux enfants dans une vieille cour, l’un tendant à l’autre une coupe pleine de fleurs.
+
+À voix haute : « Vous avez bâti quelque chose de solide, et tout le monde compte sur vous. Une partie de vous regarde vers une époque où rien ne dépendait de vous — pas pour y retourner, mais pour en glisser un peu dans ce que vous menez aujourd’hui. »
+
+Puis vérifiez : « Est-ce que ça vous dit quelque chose ? » Si non, c’est un raté : dites-le et notez-le.

@@ -1,7 +1,7 @@
 ---
 title: 'Sept de Pentacles (Seven of Pentacles) — tarot Rider-Waite-Smith : lire la
   carte par ses clés de lecture'
-description: 'Sept de Pentacles, tarot Rider-Waite-Smith : appuyé sur un long manche, un jeune homme regarde un buisson chargé de pièces. Lisez-la par le sept, la Terre et Saturne.'
+description: 'Sept de Pentacles, tarot Rider-Waite-Smith : appuyé sur son outil, un jeune homme regarde un buisson chargé de pièces. Lisez-la par le sept, la Terre et Saturne.'
 translationKey: card-pe07
 type: cards
 navTitle: Sept de Pentacles

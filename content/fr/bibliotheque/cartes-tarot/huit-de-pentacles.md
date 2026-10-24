@@ -43,7 +43,7 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-Un jeune homme aux cheveux bouclés est assis sur un banc de bois bas, penché sur son ouvrage. Marteau dans la main droite, ciseau dans la gauche, il grave un pentacle dans un disque calé devant lui. Tunique bleue, tablier noir, chausses rouges. Ses yeux ne quittent pas la pièce.
+Un jeune homme aux cheveux bouclés est assis sur un banc de bois bas, penché sur son ouvrage. Le marteau levé dans une main, le ciseau dans l’autre, il grave un pentacle dans un disque calé devant lui. Tunique bleue, tablier noir, chausses rouges. Ses yeux ne quittent pas la pièce.
 
 À droite, un grand poteau de bois porte le travail fini : cinq pentacles accrochés l’un au-dessus de l’autre, un sixième à son pied. Un autre est posé par terre, près de ses pieds. Six de faits, un sous le ciseau, un qui attend : huit.
 

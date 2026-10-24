@@ -43,7 +43,7 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-Une main blanche sort d’un nuage gris, sur la gauche de la carte, paume vers le ciel, et tend un grand pentacle doré : une pièce marquée d’une étoile à cinq branches dans son cercle. La main ne serre pas la pièce. Elle la porte à plat, et de pâles rayons l’entourent sur un ciel gris uni.
+Une main blanche sort d’un nuage gris, à gauche, paume vers le ciel, et tend un grand pentacle doré : une pièce marquée d’une étoile à cinq branches dans son cercle. La main ne serre pas la pièce. Elle la porte à plat, et de pâles rayons l’entourent sur un ciel gris uni.
 
 En bas, un jardin. De l’herbe verte, des lys blancs au premier plan, une haie sombre piquée de fleurs rouges. Dans la haie, on a taillé une arche, et un chemin jaune la traverse. De l’autre côté, très loin, on devine le bleu des montagnes.
 
@@ -57,7 +57,7 @@ Le conseil du 1, dans mes notes, c’est l’humilité : se préparer à apprend
 
 ## Par l’élément : Terre {#element}
 
-La [Terre](/fr/bibliotheque/quatre-elements/element-terre/), c’est la matière, la prospérité, tout ce qui a de la valeur à vos yeux — de l’argent, ou quelque chose de sentimental. Toutes les richesses ne sont pas en or. La pièce de cette carte peut être un salaire, un logement, un corps dont vous avez commencé à prendre soin, une relation qui a enfin les pieds sur terre. Voilà ce que la Terre apporte ici : le début n’est plus une idée, c’est quelque chose qu’on peut tenir.
+La [Terre](/fr/bibliotheque/quatre-elements/element-terre/), c’est la matière, la prospérité, tout ce qui a de la valeur à vos yeux — de l’argent, ou quelque chose de sentimental. Toutes les richesses ne sont pas en or. La pièce de cette carte peut être un salaire, un logement, une relation qui a enfin les pieds sur terre. Ici, le début n’est plus une idée : c’est quelque chose qu’on peut tenir.
 
 La Terre, c’est aussi la ténacité, l’endurance — et l’entêtement. Un début de Pentacles est lent par nature : il demande à être planté et entretenu, pas admiré. Le jardin sous la main le rappelle : ce que deviendra la pièce dépend de ce que vous ferez pousser avec.
 
@@ -71,15 +71,15 @@ Lisez les couleurs avant la carte et vous avez déjà : quelque chose de précie
 
 Dans la tradition Golden Dawn, les As n’ont ni planète ni signe. Chacun est la racine de son élément — ici, « la Racine des Pouvoirs de la Terre » : la Terre entière, avant d’être partagée entre le Taureau, la Vierge et le Capricorne, dont les décans reviennent aux cartes du Deux au Dix.
 
-Ce que ça ajoute tient en une idée : l’As contient toute la famille en germe, et chaque Pentacle qui suit pousse à partir de cette pièce. Si l’[astrologie](/fr/bibliotheque/astrologie/) est une clé qui vous parle, gardez celle-ci ; sinon, le nombre et l’élément ont déjà dit l’essentiel.
+Ce que ça ajoute : l’As contient toute la famille en germe. Si l’[astrologie](/fr/bibliotheque/astrologie/) est une clé qui vous parle, gardez celle-ci ; sinon, le nombre et l’élément ont déjà dit l’essentiel.
 
 ## En lecture {#lecture}
 
-À l’endroit, l’As de Pentacles est un début concret : une offre, une ouverture, une ressource qui arrive, un projet qui a enfin une base. **La carte montre quelque chose de réel qu’on vous tend — pas si vous le prendrez, ni ce que ça vaudra.** Le proverbe dit qu’un tiens vaut mieux que deux tu l’auras ; l’As de Pentacles, c’est le tiens, encore faut-il refermer la main.
+À l’endroit, l’As de Pentacles est un début concret : une offre, une ressource qui arrive, un projet qui a enfin une base. **La carte montre quelque chose de réel qu’on vous tend — pas si vous le prendrez, ni ce que ça vaudra.** Le proverbe dit qu’un tiens vaut mieux que deux tu l’auras ; l’As de Pentacles, c’est le tiens, encore faut-il refermer la main.
 
 Renversée, la même pièce ralentit ou glisse : une hésitation, une arche vue et jamais franchie, une occasion laissée sur la paume jusqu’à ce qu’elle parte. Dans l’excès, c’est un 1 sans humilité — la fortune dépensée avant que rien n’ait poussé.
 
-On vient souvent avec des questions d’argent sur cette carte, et je comprends pourquoi : elle ressemble à de l’argent qui arrive. Je ne lis pas sur les décisions d’argent. Accepter, signer, investir : cela reste entre vos mains, et entre celles d’un conseiller qui voit vos chiffres. Ce que la carte peut montrer, c’est la façon dont vous accueillez l’offre — souvent la moitié la plus utile ([comment je lis les Pentacles quand il est question d’argent](/fr/blog/tarot-et-argent/)). En amour, c’est quelque chose de solide sur quoi bâtir : [l’As de Pentacles en amour](/fr/blog/as-de-pentacles-amour/) a son propre article.
+On vient souvent avec des questions d’argent sur cette carte, et je comprends pourquoi : elle ressemble à de l’argent qui arrive. Je ne lis pas sur les décisions d’argent : accepter, signer, investir reste entre vos mains, et celles d’un conseiller qui voit vos chiffres. Ce que la carte peut montrer, c’est la façon dont vous accueillez l’offre — souvent la moitié la plus utile ([comment je lis les Pentacles quand il est question d’argent](/fr/blog/tarot-et-argent/)). En amour, c’est quelque chose de solide sur quoi bâtir : [l’As de Pentacles en amour](/fr/blog/as-de-pentacles-amour/) a son propre article.
 
 À côté du [Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/) (le Bateleur au tarot de Marseille), autre 1, le savoir-faire rencontre la matière : les outils et la base arrivent ensemble. À côté du [Valet de Pentacles](/fr/bibliotheque/cartes-tarot/valet-de-pentacles/), la pièce est étudiée — l’ouverture est une formation, un apprentissage. À côté du [Dix de Pentacles](/fr/bibliotheque/cartes-tarot/dix-de-pentacles/), la première pièce rencontre le patrimoine entier : ce qui commence maintenant est fait pour durer.
 

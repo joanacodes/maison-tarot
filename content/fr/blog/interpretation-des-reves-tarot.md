@@ -37,7 +37,7 @@ Commencez par l’élément. Un tsunami, c’est l’Eau, dans son plus grand mo
 
 Cherchez ensuite la contradiction. Gigantesque *et* doux. Sur une carte, quand deux signaux se contredisent, c’est là que je regarde en premier, parce que c’est souvent là que se trouve la personne.
 
-Puis l’action. On vous dit de vous abandonner ; vous vous cachez, avec d’autres. Qui est dans la maison ? Les connaissez-vous ? À quoi aurait ressemblé le fait de lâcher ?
+Puis l’action. On vous dit de vous abandonner ; vous vous cachez, avec d’autres. Qui est dans la maison ? Les connaissez-vous ? À quoi aurait ressemblé le fait de s’abandonner ?
 
 Quant à mourir en rêve : les clés des songes y lisent en général la fin d’une étape, pas une prédiction. Trois cartes du Rider-Waite-Smith sont proches de ce genre de nuit :
 

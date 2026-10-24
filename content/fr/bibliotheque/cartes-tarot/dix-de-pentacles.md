@@ -45,7 +45,7 @@ tags:
 
 Un vieil homme aux cheveux et à la barbe blancs est assis au premier plan, à gauche, dans un manteau couvert de motifs : des damiers, des fleurs, de petites grappes de raisin. Deux chiens blancs viennent vers lui ; l’un lève la tête vers sa main.
 
-Derrière lui, sous une arche de pierre, un homme de dos tient un long bâton, face à une femme en rouge qui tourne la tête vers lui. Un petit enfant en bleu s’accroche à sa robe et pose la main sur l’un des chiens. Par l’arche, une maison rouge, une haute tour mince, des arbres, un ciel bleu. Sur la pierre, à gauche, un blason orné d’un château.
+Derrière lui, sous une arche de pierre, un homme de dos tient un long bâton, face à une femme en rouge qui tourne la tête vers lui. Un petit enfant en bleu se tient tout contre elle, une main posée sur l’un des chiens. Par l’arche, une maison rouge, une haute tour mince, des arbres, un ciel bleu. Sur la pierre, à gauche, un blason orné d’un château.
 
 Par-dessus toute la scène, les dix pentacles dessinent une figure qui ignore les personnages : l’Arbre de vie de la Kabbale, le schéma dont la Golden Dawn s’est servie pour ordonner tout le jeu. **La carte montre une maisonnée complète le temps d’un instant — trois générations, les bêtes, la maison — avec, au bord, le vieil homme qui l’a rendue possible.**
 

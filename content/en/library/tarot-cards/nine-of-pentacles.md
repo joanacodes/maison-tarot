@@ -44,7 +44,7 @@ tags:
 
 A woman stands alone in a vineyard. She wears a long cream robe patterned with small red flowers — many readers see the sign of Venus in their shape — and a red cap. Her left hand is gloved and raised, and a falcon perches on it, its head covered by a red hood. Her right hand rests on one of the pentacles beside her.
 
-There are nine: six stacked on her left, three on her right, set among vines heavy with dark grapes. Behind her, two slim trees, low reddish hills and, on the right, a large house half hidden by the leaves. The sky is flat yellow. On the path at her feet, a small snail.
+There are nine: six stacked on the left of the card, three on the right, set among vines heavy with dark grapes. Behind her, two slim trees, low reddish hills and, on the right, a large house half hidden by the leaves. The sky is flat yellow. On the path at her feet, a small snail.
 
 She isn’t looking at us, or at the bird. Her eyes are lowered, almost closed, like someone enjoying a moment that needs no witness. **The card is about being at ease in what you’ve grown — alone, and not lonely.**
 

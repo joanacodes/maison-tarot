@@ -45,7 +45,7 @@ tags:
 
 Une femme se tient seule dans une vigne. Elle porte une longue robe crème semée de petites fleurs rouges — beaucoup y voient le signe de Vénus — et un bonnet rouge. Sa main gauche, gantée, est levée, et un faucon s’y tient, la tête couverte d’un chaperon rouge. Sa main droite repose sur l’un des pentacles posés près d’elle.
 
-Il y en a neuf : six empilés à sa gauche, trois à sa droite, au milieu de vignes lourdes de raisins sombres. Derrière elle, deux arbres élancés, des collines rougeâtres et, à droite, une grande maison à moitié cachée par le feuillage. Le ciel est d’un jaune uni. Sur le chemin, à ses pieds, un petit escargot.
+Il y en a neuf : six empilés à gauche de la carte, trois à droite, au milieu de vignes lourdes de raisins sombres. Derrière elle, deux arbres élancés, des collines rougeâtres et, à droite, une grande maison à moitié cachée par le feuillage. Le ciel est d’un jaune uni. Sur le chemin, à ses pieds, un petit escargot.
 
 Elle ne nous regarde pas, ni l’oiseau. Ses yeux sont baissés, presque fermés, comme quelqu’un qui savoure un moment sans témoin. **La carte parle d’être bien dans ce qu’on a fait pousser — seule, mais pas solitaire.**
 

@@ -41,7 +41,7 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-A knight in full armour sits on a heavy black horse. The horse isn’t going anywhere: its legs are straight and planted, a sprig of green leaves tied to its bridle. The knight holds a pentacle in his right hand, in a red gauntlet, and looks at it. His helmet carries a crest of green leaves too; over the armour he wears a red tunic, and the horse’s harness is red.
+A knight in full armour sits on a heavy black horse. The horse isn’t going anywhere: its legs are straight and planted, a sprig of green leaves tied to its bridle. The knight holds up a pentacle in a red gauntlet and looks at it. His helmet carries a crest of green leaves too; over the armour he wears a red tunic, and the horse’s harness is red.
 
 Behind him, a ploughed field in long red-brown furrows, a green rise under the hooves, low hills, a few trees on the right. The sky is yellow. No road, no other rider, no castle to reach.
 

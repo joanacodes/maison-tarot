@@ -65,7 +65,7 @@ Les questions plus douces se retournent vers vous :
 - « Que ferais-je si je connaissais déjà la réponse ? »
 - « Comment ai-je envie qu’on me traite ? »
 
-La question de l’ex a [un article à elle seule](/fr/blog/va-t-il-revenir-tarot/), parce que c’est celle que j’entends le plus, et celle qui fait le plus mal à force d’être reposée. Et si votre question ne fonctionne qu’en oui ou en non, [voici ce que je propose à la place d’un verdict](/fr/blog/tirage-oui-non-tarot/).
+La question de l’ex a [un article à elle seule](/fr/blog/va-t-il-revenir-tarot/), parce que je l’entends souvent, et qu’elle fait un peu plus mal chaque fois qu’on la repose. Et si votre question ne fonctionne qu’en oui ou en non, [voici ce que je propose à la place d’un verdict](/fr/blog/tirage-oui-non-tarot/).
 
 ## La question la plus douce, c’est parfois aucune {#aucune-question}
 

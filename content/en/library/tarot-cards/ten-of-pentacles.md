@@ -44,7 +44,7 @@ tags:
 
 An old man with white hair and beard sits in the foreground, on the left, in a cloak covered in patterns: checks, flowers, little bunches of grapes. Two white dogs come up to him; one lifts its head towards his hand.
 
-Behind him, under a stone archway, a man with his back to us holds a long staff and faces a woman in red, who turns her head towards him. A small child in blue holds on to her dress and puts a hand on one of the dogs. Through the arch: a red house, a tall slim tower, trees, a blue sky. On the stone, on the left, a coat of arms with a castle.
+Behind him, under a stone archway, a man with his back to us holds a long staff and faces a woman in red, who turns her head towards him. A small child in blue stands close behind her, a hand on one of the dogs. Through the arch: a red house, a tall slim tower, trees, a blue sky. On the stone, on the left, a coat of arms with a castle.
 
 Over the whole scene, ten pentacles are laid out in a pattern that ignores the people: the Tree of Life of the Kabbalah, the diagram the Golden Dawn used to order the whole deck. **The card is a household complete for a moment — three generations, the animals, the house — with the old man at the edge who made it possible.**
 
@@ -58,7 +58,7 @@ In the story of Instagram, 10 is the platform turned into something else entirel
 
 [Earth](/library/four-elements/earth-element/) is matter, value, the result of work — whatever has value for you, money or sentimental. Here both meet: a house, a coat of arms, and also the dogs, the child, the people.
 
-The flip side is Earth’s stubbornness on a family scale: the house that must stay as it is, the trade you’re expected to take over. Not every inheritance is a gift; this card can also describe a cocoon grown a little tight.
+The flip side is Earth’s stubbornness on a family scale: the house that must stay as it is, the trade you’re expected to take over. Not every inheritance is welcome; this card can also describe a cocoon grown a little tight.
 
 ## By colours {#colours}
 
