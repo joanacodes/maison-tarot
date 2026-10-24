@@ -66,7 +66,7 @@ Les signes cardinaux lancent les choses, et le Capricorne les lance avec pragmat
 
 Le dessin : une figure cornue sur un piédestal, un homme et une femme enchaînés à elle, les chaînes assez lâches pour qu’on les retire. Sans le signe, on file droit vers la tentation et le mal. Le Capricorne, c’est la Terre et « j’utilise » : l’ambition, la structure, le travail. **Avec le Capricorne, le Diable parle rarement du mal, et souvent d’une chose utile qui a pris le pouvoir.** Un travail qui était un outil et qui est devenu le maître. Un salaire autour duquel on organise tout.
 
-Parmi les archétypes du Capricorne dans mes notes, il y a Miranda Priestly, et le film s’appelle *Le Diable s’habille en Prada*. Je n’aurais pas pu mieux tomber. Disons que quelqu’un tire le Diable à propos de sa carrière : avec le signe, je demanderais ce qu’il utilise et qui, désormais, l’utilise. La [page du Diable](/fr/bibliotheque/cartes-tarot/le-diable/) va plus loin.
+Parmi les archétypes du Capricorne dans mes notes, il y a Miranda Priestly, et le film s’appelle *Le Diable s’habille en Prada*. Je n’aurais pas pu mieux tomber. Disons que quelqu’un tire le Diable à propos de sa carrière : avec le signe, je poserais cette question : qu’est-ce que vous utilisez qui a fini par vous utiliser ? La [page du Diable](/fr/bibliotheque/cartes-tarot/le-diable/) va plus loin.
 
 ## Se servir du signe sans le laisser décider {#sans-le-laisser-decider}
 
