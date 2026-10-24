@@ -6,8 +6,9 @@ type: blog
 date: 2026-09-11
 categories: ["Ideas we refuse"]
 tags: ["tarot and mental health", "tarot and therapy", "when to stop a reading", "boundaries"]
-image: "cover.jpg"
+image: "covers/tarot-and-mental-health.jpg"
 imageAlt: "A door left ajar in a quiet hallway, daylight on the floor"
+imagePrompt: "A door left ajar in a quiet hallway, daylight falling across the wooden floor. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "A reading can give someone words for what they already feel; that’s real and it’s not nothing. But it is not therapy, it can’t hold a crisis, and the readers who blur that line — ‘the cards say you’re healing’ — do damage they never see. I read for people who are curious, not for people who are drowning, and I say so out loud."
 ---
 I want to be careful with this one, because the wrong version of it is everywhere. "Tarot is therapy." "Tarot heals." "Use the cards for your mental health." Some of that is marketing, some of it is sincere, and all of it puts a deck of pictures where a trained person should be. Here is what I've actually seen at the table, and the lines I keep.

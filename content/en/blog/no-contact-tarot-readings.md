@@ -6,8 +6,9 @@ type: blog
 date: 2026-09-11
 categories: ["Trends"]
 tags: ["no contact tarot", "ex tarot reading", "will they come back", "refusals", "false hope"]
-image: "cover.jpg"
+image: "covers/no-contact-tarot-readings.jpg"
 imageAlt: "A phone face down on a table next to a single reversed card"
+imagePrompt: "A phone lying face down on a wooden kitchen table next to a single tarot card turned upside down. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "A ‘no contact’ reading sells the one thing nobody can deliver: another person’s inner life. It works because you’re in pain and want a reason to hope, and it costs you the time you’d have spent healing. I refuse it. What I read instead is you — where you are, what you’re holding, what you’re avoiding — and that’s the reading that actually moves."
 ---
 Search "no contact tarot" and you'll find thousands of readings, most of them cheap, all of them answering the same question: *what is my ex feeling right now?* It's one of the most popular formats on the internet, and one of the ones I refuse most firmly. Here's why, and what I'd read instead.

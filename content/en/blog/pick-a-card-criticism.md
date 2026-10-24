@@ -6,8 +6,9 @@ type: blog
 date: 2026-09-11
 categories: ["Trends"]
 tags: ["pick a card", "TarotTok", "TikTok tarot", "criticism", "for readers"]
-image: "cover.jpg"
+image: "covers/pick-a-card-criticism.jpg"
 imageAlt: "A ring light, a phone on a tripod, and a deck of cards on a kitchen table"
+imagePrompt: "A switched-off ring light and a phone on a small tripod pointed at a deck of cards on a kitchen table, nobody in frame. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "The format is fine. A four-pile reading is a mirror held up to a crowd, and mirrors are useful. What isn’t fine is the version that flatters every pile, sells a private session at the end, and promises a specific person’s return by Friday. Judge the reader, not the medium — and notice that the medium reaches the people the books never did."
 ---
 There's a genre of tarot content that consists of experienced readers being disappointed by TikTok. I've written some of it in my head. Then I remember that [a recorded pick-a-card video is the reason I read at all](/blog/do-pick-a-card-readings-work/), and I put the sneer away.

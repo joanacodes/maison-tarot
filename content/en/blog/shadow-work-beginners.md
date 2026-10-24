@@ -6,8 +6,9 @@ type: blog
 date: 2026-09-11
 categories: ["Trends"]
 tags: ["shadow work", "shadow work tarot spread", "Jung", "self-reflection", "beginners"]
-image: "cover.jpg"
+image: "covers/shadow-work-beginners.jpg"
 imageAlt: "A single card face up beside an open notebook, a pen resting across the page"
+imagePrompt: "A single tarot card face up beside an open notebook on a wooden table, a pen resting across the blank page. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Shadow work, stripped of the vocabulary, is looking at the part of yourself you’d rather not and saying what you see. Tarot is good at it because the pictures do the confronting for you. One card — the Devil, or whichever one you dislike — three questions, and a notebook. It is not therapy, and the moment it stops feeling like looking and starts feeling like drowning, it’s time for a person, not a card."
 ---
 Search the phrase and you'll find guided journals, forty-question prompt lists, and videos that begin "so you've been called to do your shadow work". I want to give you the version that doesn't need to be called.

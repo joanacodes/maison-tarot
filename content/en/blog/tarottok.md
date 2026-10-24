@@ -6,8 +6,9 @@ type: blog
 date: 2026-09-11
 categories: ["Trends"]
 tags: ["TarotTok", "TikTok tarot", "WitchTok", "Gen Z tarot", "social media"]
-image: "cover.jpg"
+image: "covers/tarottok.jpg"
 imageAlt: "A phone screen with a vertical video paused on a spread of three cards"
+imagePrompt: "A phone held upright in one hand, its screen showing a paused vertical video of three tarot cards laid on a table. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "TarotTok is short vertical videos — a reader, a deck, a pick-a-pile or a ‘this is for whoever needs it’ — and it’s how a generation met tarot. It’s fast, warm, often flattering, sometimes a funnel to paid readings, and occasionally genuinely good. The critics are right about the funnels and wrong about the audience: these are the people the books never reached."
 ---
 If you're over thirty-five and you read tarot, there's a good chance your view of TikTok tarot is "I don't watch it, but I've heard". Here is what it actually is, so you can dislike it for the right reasons.

@@ -6,8 +6,9 @@ type: blog
 date: 2026-09-11
 categories: ["Ideas we refuse"]
 tags: ["tarot accuracy", "why tarot feels accurate", "barnum effect", "confirmation bias"]
-image: "cover.jpg"
+image: "covers/why-tarot-readings-feel-accurate.jpg"
 imageAlt: "A person’s hands resting either side of a single upturned card"
+imagePrompt: "A person’s hands resting flat on a wooden table either side of a single upturned tarot card, face out of frame. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Readings feel accurate because vague statements fit everyone, because we remember hits and forget misses, and because the person unknowingly hands the reader the answer. All three can be switched off. What survives is a smaller number of specific sentences that fit one person only — and those are the ones worth counting."
 ---
 "Everything you said was right" is the sentence readers live for, and the one I trust least. Here is why a reading feels accurate, in descending order of how often it's the real reason.
