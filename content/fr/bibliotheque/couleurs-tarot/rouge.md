@@ -30,7 +30,31 @@ faq:
 - q: Quelle est la carte la plus rouge du jeu ?
   a: 'L’Empereur, tout en manteau rouge sur fond rouge : l’action devenue autorité.
     La Mort, elle, porte le rouge sur sa bannière : l’action de la transformation.'
-gallery: []
+gallery:
+- src: "visuals/col-red/1.jpg"
+  title: "Un corps qui agit"
+  text: "Un maillot rouge qui grimpe une côte : dans le jeu, le rouge habille presque toujours un corps en action."
+  prompt: "A cyclist in a red jersey standing on the pedals to climb a steep country hill, seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-red/2.jpg"
+  title: "L’énergie qui pousse"
+  text: "Des mains gantées qui poussent une voiture en panne : le rouge, c’est l’action, le désir, la force."
+  prompt: "Two hands in red work gloves pushing hard against the back of a stalled old car on a cobbled street, seen from the side. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-red/3.jpg"
+  title: "Le rouge près du jaune"
+  text: "Des bottes rouges qui sautent une flaque parmi les feuilles jaunes : à côté du jaune, l’action devient joyeuse."
+  prompt: "A child in red rain boots mid-leap over a puddle on a path covered in bright yellow autumn leaves, seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-red/4.jpg"
+  title: "Le rouge près du noir"
+  text: "Un tuyau d’arrosage lâché qui se tord sur un sol sombre : à côté du noir, la force sans direction."
+  prompt: "A red garden hose let loose, twisting on dark wet paving and spraying water in every direction. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-red/5.jpg"
+  title: "Brûler ce qu’on aimait"
+  text: "De la confiture noircie au fond de la casserole : la passion qui brûle ce qu’elle voulait garder."
+  prompt: "A pan of strawberry jam left too long on the stove, the red fruit caramelised black at the edges, a wooden spoon resting on the rim. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-red/6.jpg"
+  title: "Le moment de ralentir"
+  text: "Une main qui baisse le feu sous une casserole qui déborde : quand rien ne tempère le rouge, ralentissez."
+  prompt: "A hand turning down the gas flame under a pot of red tomato sauce about to boil over on an old kitchen stove. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit le rouge {#definition}
 

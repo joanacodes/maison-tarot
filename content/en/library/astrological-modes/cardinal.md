@@ -30,7 +30,31 @@ faq:
 - q: How do I know a minor card's mode?
   a: Through its planet and sign (the decans, on each card page). For the majors,
     the table above is enough.
-gallery: []
+gallery:
+- src: "visuals/mode-cardinal/1.jpg"
+  title: "The first day"
+  text: "A window opened onto the first blossom of spring: cardinal signs open the seasons, the energy of the first day."
+  prompt: "A hand opening a window onto a garden where the first spring blossom has come out on a tree. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/mode-cardinal/2.jpg"
+  title: "The kick-off"
+  text: "A boot striking the ball on the centre spot: cardinal doesn’t mean leader, it means first."
+  prompt: "A football boot striking the ball on the centre spot of a muddy pitch at kick-off, close-up. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/mode-cardinal/3.jpg"
+  title: "Start, then hand over"
+  text: "A relay baton passing between two hands: at its best, cardinal gives the push and passes it on."
+  prompt: "A relay baton passing from one runner’s hand to the next on a track, close-up. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/mode-cardinal/4.jpg"
+  title: "Ten things, none held"
+  text: "A bench crowded with half-started projects: at its worst, cardinal launches ten things and holds none."
+  prompt: "A workbench crowded with half-started projects: a half-painted chair, a half-knitted scarf, a guitar with no strings, a box of seedlings. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/mode-cardinal/5.jpg"
+  title: "Time to go"
+  text: "A packed bag by an open front door at dawn: it’s starting, or it’s time to start."
+  prompt: "A packed bag by an open front door at dawn, a hand on the handle. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/mode-cardinal/6.jpg"
+  title: "Taking the lead"
+  text: "A walker setting off at the head of a group on a mountain path: someone taking the lead."
+  prompt: "A walker setting off at the head of a small group on a mountain path at dawn, seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the mode says {#definition}
 

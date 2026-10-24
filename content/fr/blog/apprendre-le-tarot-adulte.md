@@ -59,6 +59,6 @@ Vous savez aussi, souvent, quelles questions relèvent d’ailleurs. La santé, 
 
 ## Par où commencer {#commencer}
 
-Choisissez le rythme qui vous convient. Un [atelier](/fr/ateliers/), c’est trois heures, douze personnes et une clé de lecture à la fois, avec une carte en main dès les dix premières minutes. Une [session individuelle](/fr/sessions/), c’est soixante minutes à votre vitesse, avec de la place pour toutes les questions que vous n’oseriez pas poser en groupe.
+Choisissez le rythme qui vous convient. Un [atelier](/fr/ateliers/), c’est trois heures, douze personnes et une clé de lecture, avec une carte en main dès les dix premières minutes. Une [session individuelle](/fr/sessions/), c’est soixante minutes à votre vitesse, avec de la place pour toutes les questions que vous n’oseriez pas poser en groupe.
 
 Dans les deux cas, le premier pas est le même : une carte, une personne qui ne vous dit rien, et le courage de dire ce que vous voyez.

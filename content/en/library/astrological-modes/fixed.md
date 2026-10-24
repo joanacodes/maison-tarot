@@ -30,7 +30,31 @@ faq:
 - q: Is Death really a fixed card?
   a: 'Yes, through Scorpio. It doesn''t stop halfway: that''s exactly what ''fixed''
     means.'
-gallery: []
+gallery:
+- src: "visuals/mode-fixed/1.jpg"
+  title: "The heart of the season"
+  text: "A wheat field at the height of summer: the season is established, and the job is to hold it."
+  prompt: "A ripe wheat field at the height of summer, still under a high midday sun. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/mode-fixed/2.jpg"
+  title: "Keeping at it"
+  text: "A cyclist pushing a loaded bike up a long hill in the rain: fixed is the energy that keeps going."
+  prompt: "A cyclist pushing a loaded bicycle up a long hill in steady rain, seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/mode-fixed/3.jpg"
+  title: "A gentle hand"
+  text: "A calm hand holding a big, eager dog: at its best, fixed is a gentle hand that won’t let go."
+  prompt: "A calm hand holding a big, eager dog by the collar, keeping it gently in place on a park path. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/mode-fixed/4.jpg"
+  title: "The door that stays shut"
+  text: "A front door with three locks and a chain: at its worst, fixed shuts out everything unplanned."
+  prompt: "A front door with three locks and a chain on, shut, seen from inside the hallway. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/mode-fixed/5.jpg"
+  title: "It holds"
+  text: "Two old hands clasped on a garden table: a relationship that lasts, and the question of strength or confinement."
+  prompt: "Two old hands clasped on a garden table, worn wedding rings, close-up. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/mode-fixed/6.jpg"
+  title: "Holding to the end"
+  text: "A chrysalis still closed on a twig: holding can mean holding until a transformation is complete."
+  prompt: "A closed chrysalis hanging from a twig, close-up. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the mode says {#definition}
 

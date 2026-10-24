@@ -22,6 +22,31 @@ categories:
 tags:
 - Earth
 - elements
+gallery:
+- src: "visuals/el-earth/1.jpg"
+  title: "What has value"
+  text: "Coins beside a worn wooden toy: Earth is whatever has value to you, financial or sentimental."
+  prompt: "An open palm holding a few coins beside a small worn wooden toy, on a kitchen table. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/el-earth/2.jpg"
+  title: "Mother of all growth"
+  text: "Hands firming soil around a young plant: protective, stable, feeding all the growth around it."
+  prompt: "Hands firming dark soil around a young tomato plant in a vegetable garden. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/el-earth/3.jpg"
+  title: "Tenacity and endurance"
+  text: "An old olive tree rooted in rocky ground: tenacity, perseverance, the strength of Earth."
+  prompt: "An old olive tree with a twisted trunk, rooted in dry rocky ground. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/el-earth/4.jpg"
+  title: "Holding steady, or holding on"
+  text: "A donkey planted on the path while someone tugs the rope: Earth’s flip side, stubborn and dug in."
+  prompt: "A donkey planted on a dirt path refusing to move while someone pulls on its rope, seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/el-earth/5.jpg"
+  title: "The manager in the shadows"
+  text: "Someone backstage with a folder, watching the lit stage: the one who quietly makes sure the bills get paid."
+  prompt: "Someone standing backstage in the shadow of the wings with a folder under the arm, watching a guitarist play on a lit stage, seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/el-earth/6.jpg"
+  title: "Changing hands"
+  text: "An old house key passed from an older hand to a younger one: an inheritance, value built and handed on."
+  prompt: "An older hand passing a heavy old house key to a younger hand across a garden table. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What Earth stands for
 

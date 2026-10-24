@@ -29,7 +29,31 @@ faq:
 - q: Pourquoi tant de ciels jaunes dans le jeu ?
   a: 'Parce que Pamela Colman Smith peignait le climat, pas la météo : un ciel jaune
     est un état d’esprit.'
-gallery: []
+gallery:
+- src: "visuals/col-yellow/1.jpg"
+  title: "Quand le monde va bien"
+  text: "La lumière du matin sur une table de petit-déjeuner : le jaune est le fond du monde quand il va bien."
+  prompt: "A kitchen breakfast table flooded with yellow morning sunlight from a window, a bowl of lemons, a chair pushed back. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-yellow/2.jpg"
+  title: "Content d’être là"
+  text: "Des tournesols dans le panier d’un vélo, sur un chemin ensoleillé : la joie, l’optimisme, le plaisir d’être là."
+  prompt: "A cyclist riding down a sunny country lane with a basket full of sunflowers on the handlebars, seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-yellow/3.jpg"
+  title: "L’enfant intérieur"
+  text: "Un adulte sur une balançoire, les pieds en l’air : le jaune garde l’enfant en soi bien vivant."
+  prompt: "A grown-up on a park swing at full height, feet in the air, in warm yellow afternoon light, seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-yellow/4.jpg"
+  title: "Ce qu’on veut au soleil"
+  text: "Quelqu’un qui lève les bras au bout d’une piste ensoleillée : la volonté, la fierté, s’affirmer."
+  prompt: "A runner raising both arms at the end of a sunlit athletics track, seen from behind, long shadow on the ground. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-yellow/5.jpg"
+  title: "La fierté devenue vanité"
+  text: "Quelqu’un qui ajuste une cravate jaune devant un miroir doré : la fierté qui tourne à la vanité."
+  prompt: "Someone in a crisp shirt adjusting a bright yellow tie in a gilded mirror, seen from behind, the reflection out of focus. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-yellow/6.jpg"
+  title: "Qui sourit, et de quoi"
+  text: "Quelqu’un qui part avec tous les parasols pendant que d’autres restent au soleil : jubiler de ce qui fait mal."
+  prompt: "On a bright beach, a figure in a yellow shirt walks off carrying three folded parasols while two people sit behind in full sun without shade, all seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit le jaune {#definition}
 

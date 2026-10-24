@@ -28,7 +28,31 @@ faq:
 - q: Why are the Wands so often orange?
   a: 'Because their element is Fire: heat, drive, what grows. Orange is its background
     colour.'
-gallery: []
+gallery:
+- src: "visuals/col-orange/1.jpg"
+  title: "Red meets yellow"
+  text: "Red and yellow mixed on a palette: orange is red that has met yellow, action become creation."
+  prompt: "A palette knife mixing a blob of red paint and a blob of yellow paint into bright orange on a worn wooden palette. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-orange/2.jpg"
+  title: "The energy that makes"
+  text: "Hands shaping terracotta on a wheel: orange is creativity, the urge to make something."
+  prompt: "Two hands shaping wet orange terracotta clay on a turning potter’s wheel, close-up. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-orange/3.jpg"
+  title: "A work in progress"
+  text: "An unfinished chair among wood shavings: red is a blow, orange is something still being made."
+  prompt: "An unfinished wooden chair in a workshop, orange wood shavings on the floor and a hand plane resting on the seat. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-orange/4.jpg"
+  title: "Desire seeking a shape"
+  text: "Two hands almost touching across a table in warm light: an attraction, a desire looking for its form."
+  prompt: "Two hands almost touching across a small café table in warm orange evening light, two glasses between them. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-orange/5.jpg"
+  title: "Heat without water"
+  text: "Cracked ground under a hard sun: orange’s flip side is dryness, desire that comes to nothing."
+  prompt: "Cracked dry orange earth in a field under a hard midday sun, one dead stalk standing in it. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-orange/6.jpg"
+  title: "The card is thirsty"
+  text: "Wilted marigolds beside an empty glass: lots of orange and no blue, and the card is thirsty."
+  prompt: "A terracotta pot of wilted orange marigolds on a sun-baked windowsill, the soil cracked, an empty glass beside it. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What orange says {#definition}
 

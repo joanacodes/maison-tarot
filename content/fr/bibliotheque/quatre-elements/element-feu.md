@@ -21,6 +21,31 @@ categories:
 tags:
 - Le Feu
 - éléments
+gallery:
+- src: "visuals/el-fire/1.jpg"
+  title: "Forger l’outil"
+  text: "Une barre de fer incandescente sur l’enclume : le Feu crée, il façonne ce que rien d’autre ne façonne."
+  prompt: "A blacksmith’s tongs holding a glowing orange iron bar on an anvil, sparks on the floor, close-up. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/el-fire/2.jpg"
+  title: "Réchauffer, cuire, éclairer"
+  text: "Une marmite sur les flammes d’une vieille cuisinière : le Feu réchauffe, nourrit, éclaire la nuit."
+  prompt: "A pot simmering over open flames in an old wood-burning stove in a farmhouse kitchen. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/el-fire/3.jpg"
+  title: "Utile et ravageur"
+  text: "Un agriculteur entre un champ brûlé et un champ vert : le Feu est aussi utile que ravageur."
+  prompt: "A farmer standing on the line between a field blackened by fire and a field of new green shoots, seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/el-fire/4.jpg"
+  title: "Rapide à se propager"
+  text: "Une allumette qui embrase une feuille de papier : le Feu, c’est la vitesse, des dégâts immédiats et visibles."
+  prompt: "A struck match setting the edge of a sheet of brown paper alight, the flame climbing fast, close-up. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/el-fire/5.jpg"
+  title: "L’adolescent plein de vie"
+  text: "Un adolescent qui saute dans une rivière en plein été : plein de vie, sûr de pouvoir tout faire."
+  prompt: "A teenager leaping from a rock into a river on a summer day, caught mid-air, seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/el-fire/6.jpg"
+  title: "Le début, pas le résultat"
+  text: "Une main qui tient une branche en bourgeons : une idée neuve, une envie qui pousse, le début, pas le résultat."
+  prompt: "A hand holding up a freshly cut wooden branch with new green leaves budding along it, against a plain wall. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que le Feu représente
 

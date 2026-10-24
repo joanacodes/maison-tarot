@@ -59,6 +59,6 @@ You also tend to know which questions belong elsewhere. Health, death, pregnancy
 
 ## Where to start {#start}
 
-Pick the pace that suits you. A [workshop](/workshops/) is three hours, twelve people and one lens at a time, with a card in your hands in the first ten minutes. A [one-to-one session](/sessions/) is sixty minutes at your own speed, with room for every question you'd rather not ask in a group.
+Pick the pace that suits you. A [workshop](/workshops/) is three hours, twelve people and one lens, with a card in your hands in the first ten minutes. A [one-to-one session](/sessions/) is sixty minutes at your own speed, with room for every question you'd rather not ask in a group.
 
 Either way, the first step is the same: one card, one person who tells you nothing, and the courage to say what you see.

@@ -30,7 +30,31 @@ faq:
 - q: Which is the most mutable sign?
   a: 'Pisces, through the Moon: nothing settles there. That''s their wealth and their
     risk.'
-gallery: []
+gallery:
+- src: "visuals/mode-mutable/1.jpg"
+  title: "The season’s end"
+  text: "First yellow leaves on a table still set for summer: everything is already becoming something else."
+  prompt: "The first yellow leaves fallen on a garden table still set with summer glasses and a striped cloth. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/mode-mutable/2.jpg"
+  title: "Passing it across"
+  text: "Someone between two people at a café table, translating: mutable is passage, translation, communication."
+  prompt: "Three people at a café terrace table, the one in the middle leaning towards each of the others in turn, translating, all seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/mode-mutable/3.jpg"
+  title: "Two make a third"
+  text: "Hands working flour and water into dough: at its best, mutable blends two things into a third."
+  prompt: "Hands working flour and water together into a dough on a floured wooden table. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/mode-mutable/4.jpg"
+  title: "No shore in sight"
+  text: "A small boat in thick fog on open water: at its worst, everything moves and nothing settles."
+  prompt: "A small rowing boat in thick fog on open water, no shore visible. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/mode-mutable/5.jpg"
+  title: "Breathe first"
+  text: "Someone sitting on packed boxes in an emptied flat: the next shape isn’t here yet, so breathe."
+  prompt: "Someone sitting on taped moving boxes in an emptied flat, taking a breath, seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/mode-mutable/6.jpg"
+  title: "Change with a direction"
+  text: "A hand firm on the tiller as the sail swings: adaptable, as long as it knows what it’s changing towards."
+  prompt: "A hand firm on the tiller of a small sailing boat as the sail swings across, close-up. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the mode says {#definition}
 

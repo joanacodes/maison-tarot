@@ -28,7 +28,31 @@ faq:
     It''s the least dirty card in the deck.'
 - q: Is white a colour of peace?
   a: Yes, when it's calm — Temperance. And of newness, when it's bare — the Star.
-gallery: []
+gallery:
+- src: "visuals/col-white/1.jpg"
+  title: "Not marked yet"
+  text: "Fresh snow on a garden path with no footprints: white is what hasn’t been touched yet."
+  prompt: "Fresh untouched snow on a garden path in the early morning, no footprints, a white gate at the end. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-white/2.jpg"
+  title: "Starting clean"
+  text: "Crisp white sheets drying on a line: purity, a new state, what starts clean."
+  prompt: "Crisp white sheets drying on a washing line in a sunny garden, moving slightly in the breeze. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-white/3.jpg"
+  title: "A calm"
+  text: "Someone sitting still in a white room by an open window: white is also peace, a calm."
+  prompt: "Someone sitting perfectly still on a wooden chair in a white-walled room by an open window, hands in the lap, seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-white/4.jpg"
+  title: "It erases, it doesn’t soil"
+  text: "A roller laying fresh white paint over an old marked wall: a clean transformation that erases."
+  prompt: "A paint roller laying a fresh coat of white over an old marked and stained wall, half done. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-white/5.jpg"
+  title: "Not seeing it coming"
+  text: "A walker in white looking at the sky near a cliff edge: naivety, innocence that doesn’t see it coming."
+  prompt: "A walker dressed in white strolling along a sunny coastal cliff path, head tilted up to the sky, close to the edge, seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-white/6.jpg"
+  title: "The blank page"
+  text: "A blank sheet and a pen on a desk: the page you don’t dare start, waiting to be written on."
+  prompt: "A blank sheet of white paper on a wooden desk, a pen resting beside it, untouched, in morning light. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What white says {#definition}
 

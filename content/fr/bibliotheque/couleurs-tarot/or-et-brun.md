@@ -30,7 +30,31 @@ faq:
 - q: Le brun parle-t-il de pauvreté ?
   a: 'De travail. Le sol brun du Sept de Pentacles est celui de quelqu’un qui a planté
     et qui attend : c’est une couleur de patience, pas de manque.'
-gallery: []
+gallery:
+- src: "visuals/col-gold-and-brown/1.jpg"
+  title: "D’où vient l’or"
+  text: "Du blé mûr derrière un champ labouré : l’or est ce qu’on a, le brun est là où on l’a trouvé."
+  prompt: "A ploughed brown field in the foreground with a ripe golden wheat field beyond it, low evening sun. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-gold-and-brown/2.jpg"
+  title: "Planter, puis attendre"
+  text: "Un jardinier appuyé sur sa bêche devant des rangs pas encore mûrs : le brun, c’est le travail et la patience."
+  prompt: "A gardener leaning on a spade beside rows of vegetables not yet ripe in brown earth, seen from behind. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-gold-and-brown/3.jpg"
+  title: "Des résultats qu’on compte"
+  text: "Des pots de miel doré alignés sur une étagère : la valeur acquise, un résultat qu’on peut compter."
+  prompt: "Jars of golden honey lined up on a wooden pantry shelf in a farmhouse, sunlight through them. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-gold-and-brown/4.jpg"
+  title: "Serrer ses pièces"
+  text: "Des mains qui serrent une bourse contre la poitrine : le revers de l’or, c’est la cupidité."
+  prompt: "Two hands gripping a small leather purse of coins tight against a chest, knuckles pale. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-gold-and-brown/5.jpg"
+  title: "La boue aux bottes"
+  text: "Des bottes couvertes de boue dans un champ détrempé : le revers du brun, c’est la lourdeur."
+  prompt: "Mud-caked brown boots dragging through a wet ploughed field, close-up. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/col-gold-and-brown/6.jpg"
+  title: "Plus rien ne pousse"
+  text: "Une plante morte dans un pot doré, parmi les objets qui brillent : trop d’or, et pas de vert."
+  prompt: "A dead dried-out plant in a gilded pot on a polished sideboard crowded with shining gold objects. Editorial photograph, 35mm film look, light grain, single natural window light, warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit l’or et le brun {#definition}
 
