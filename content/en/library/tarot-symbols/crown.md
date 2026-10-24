@@ -19,7 +19,31 @@ faq:
   a: "A sword rising from a cloud pierces a gold crown, with an olive branch and a palm hanging from it. I read it as a clear mind winning: a decision that cuts through, and that others end up recognising."
 - q: "Why does a crown fall off the Tower?"
   a: "The top of the tower is shaped like a crown, and the lightning knocks it off. What was built to sit on top doesn’t stay there. One of the two falling figures wears a crown as well."
-gallery: []
+gallery:
+- src: "visuals/sym-crown/1.jpg"
+  title: "Put on by others"
+  text: "A birthday crown set on by other hands: rarely put there by the one who wears it."
+  prompt: "Two adult hands placing a gold paper crown on a child’s head at a birthday table, the child seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-crown/2.jpg"
+  title: "Until the others follow"
+  text: "A captain lifted onto teammates’ shoulders: an armband means nothing until the others agree to follow."
+  prompt: "An amateur football team seen from behind lifting their captain onto their shoulders after a match on a muddy pitch, the armband on his sleeve. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-crown/3.jpg"
+  title: "Recognised by the group"
+  text: "A conductor, arms raised, every musician watching: authority recognised by the group, and trusted to decide."
+  prompt: "An orchestra conductor seen from behind with arms raised and still, every musician in a small rehearsal hall watching her hands. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-crown/4.jpg"
+  title: "When the crown falls"
+  text: "A paper crown trampled on the pavement: on the ground, the recognition itself is in question."
+  prompt: "A gold paper crown lying crumpled and trampled on a wet pavement after a street party, a shoe stepping past it. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-crown/5.jpg"
+  title: "Forgetting who gave it"
+  text: "The captain walking off with the armband in hand: what the group gave, the group can take back."
+  prompt: "A football captain seen from behind walking off the pitch alone, armband in hand, while the team celebrates around another player in the background. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-crown/6.jpg"
+  title: "The crown becomes a lid"
+  text: "Both hands pressing the crown down hard: holding on so tightly that the crown becomes a lid."
+  prompt: "A person seen from behind in a crowded room pressing a gold paper crown down hard on their head with both hands, shoulders hunched. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the crown says {#definition}
 

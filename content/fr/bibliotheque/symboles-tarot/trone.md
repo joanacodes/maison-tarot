@@ -19,7 +19,31 @@ faq:
   a: "Parmi les arcanes majeurs, l’Impératrice, l’Empereur, le Hiérophante et la Justice, avec la Grande Prêtresse sur un simple siège de pierre ; puis les huit Reines et Rois. Dans les cartes numérotées, on s’assied sur des bancs et des tabourets — le plus proche est le Quatre de Pentacles, un homme couronné sur un bloc nu."
 - q: "Le trône est-il un bon signe dans un tirage ?"
   a: "C’est un signe de stabilité, ce qui n’est pas tout à fait la même chose. Un trône peut être l’endroit d’où quelqu’un protège ce qu’il gouverne, ou la place qu’il refuse de quitter. Les cartes autour vous disent laquelle."
-gallery: []
+gallery:
+- src: "visuals/sym-throne/1.jpg"
+  title: "Le bout de la table"
+  text: "La chaise au bout de la table, un gilet sur le dossier : chacun sait à qui elle revient."
+  prompt: "An old wooden armchair at the head of a farmhouse kitchen table, a worn cardigan over its back, plain stools along both sides, nobody seated. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-throne/2.jpg"
+  title: "Les autres viennent à elle"
+  text: "Une grand-mère dans son fauteuil, la famille autour : la place est la sienne, les autres viennent à elle."
+  prompt: "A grandmother seen from behind in her worn armchair by the window, grandchildren sitting on the rug at her feet and adults gathered round. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-throne/3.jpg"
+  title: "Fait pour durer"
+  text: "Une chaise de chêne haute et dure dans une salle du conseil : un siège fait pour durer — permanence et rigidité."
+  prompt: "A heavy, high-backed oak chair with carved armrests standing alone at the end of an old council chamber, hard wooden seat, no cushion. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-throne/4.jpg"
+  title: "Un trône moelleux"
+  text: "Un fauteuil plein de coussins près d’une coupe de fruits : un trône doux qui nourrit plus qu’il ne commande."
+  prompt: "A deep armchair heaped with soft cushions and a knitted blanket in a sunny room, a bowl of fruit and a loaf of bread on the table beside it. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-throne/5.jpg"
+  title: "Ne plus se lever"
+  text: "Un chef qui désigne depuis son grand fauteuil, les autres debout : le pouvoir resté en place ne peut plus bouger."
+  prompt: "A man seen from behind in a high-backed leather office chair, pointing across a meeting table at colleagues who all stand, their faces out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-throne/6.jpg"
+  title: "Le soin qui étouffe"
+  text: "Une couverture bordée trop serré autour d’un fils adulte, une valise qui attend : la protection qui empêche de grandir."
+  prompt: "An older woman’s hands tucking a thick blanket tightly around the shoulders of a grown man in an armchair, a packed suitcase waiting by the door, faces out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit le trône {#definition}
 

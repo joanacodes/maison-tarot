@@ -1,5 +1,5 @@
 ---
-title: "La main sortant du nuage dans le tarot : ce que le symbole veut dire, et les cartes où elle apparaît"
+title: "La main sortant du nuage dans le tarot : ce que le symbole veut dire, et les cartes où il apparaît"
 description: "La main sortant du nuage dans le tarot Rider-Waite-Smith : un commencement qu’on vous tend. Les quatre As et le Quatre de Coupes, et ce que vous faites de l’offre."
 translationKey: "sym-hand-from-a-cloud"
 type: library
@@ -19,7 +19,31 @@ faq:
   a: "Parce qu’un As est le début d’un cycle, et ce début vient souvent de l’extérieur : une occasion, une proposition, une idée qui arrive. La main tend la suite dans sa forme la plus pure ; ce que vous en faites vous appartient."
 - q: "Que fait la main sur le Quatre de Coupes ?"
   a: "Elle tend une quatrième coupe à un homme assis les bras croisés, les yeux sur les trois qui sont devant lui. L’offre est là. Il ne l’a pas vue, ou n’en veut pas."
-gallery: []
+gallery:
+- src: "visuals/sym-hand-from-a-cloud/1.jpg"
+  title: "Un commencement tendu"
+  text: "Un vélo tendu par une main venue du hors-champ : un commencement qu’on vous tend, le saisir est à vous."
+  prompt: "An adult hand reaching into the frame from the edge, holding a small bicycle steady by the handlebar for a child who stands beside it, seen from behind, deciding. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-hand-from-a-cloud/2.jpg"
+  title: "Sans l’avoir cherché"
+  text: "Une feuille pliée qu’on glisse vers vous : une offre que vous ne cherchiez pas, à vous de jouer."
+  prompt: "A friend’s hand sliding a folded sheet of paper across a kitchen table towards another person’s hands, the paper closed so nothing on it shows, both people out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-hand-from-a-cloud/3.jpg"
+  title: "Prendre en main"
+  text: "Une main qui se referme sur le manche d’un marteau : la prise fermée, l’action, saisir ce qu’on vous tend."
+  prompt: "A hand closing firmly round the wooden handle of a hammer held out by another hand on a building site, close-up on the two hands. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-hand-from-a-cloud/4.jpg"
+  title: "La paume ouverte"
+  text: "Des paumes ouvertes qui reçoivent un œuf encore chaud : l’autre façon de recevoir — accueillir, porter."
+  prompt: "Two cupped open palms receiving a warm brown egg from another person’s hand in a sunny henhouse, close-up on the hands. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-hand-from-a-cloud/5.jpg"
+  title: "Attendre sous l’arbre"
+  text: "Somnoler sous un arbre, portail fermé : attendre que quelque chose tombe du ciel au lieu d’aller chercher."
+  prompt: "A person dozing in a hammock under a tree in a back garden, a straw hat over their face, seen from the side, the garden gate closed behind them. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-hand-from-a-cloud/6.jpg"
+  title: "Lever les yeux"
+  text: "Penché sur trois pots, sans voir le quatrième qu’on lui tend : trop occupé pour lever les yeux."
+  prompt: "A person seen from behind at a sunny windowsill fussing over three potted plants, not noticing a hand at the edge of the frame holding out a fourth one. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit la main sortant du nuage {#definition}
 

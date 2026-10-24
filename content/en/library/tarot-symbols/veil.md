@@ -19,7 +19,31 @@ faq:
   a: "The card doesn’t say, and that’s the point. The veil hangs between two pillars, behind her, and she stays seated in front of it. I read it as knowledge that exists and isn’t given on demand."
 - q: "Is a blindfold the same as a veil?"
   a: "No. A blindfold is tied over someone’s eyes and stops them seeing out; a veil hangs between you and something and stops you seeing in. The Two and Eight of Swords show blindfolds, which is a different reading."
-gallery: []
+gallery:
+- src: "visuals/sym-veil/1.jpg"
+  title: "Something under the sheet"
+  text: "Dust sheets over furniture: you know it’s a chair, not which one — something here, not shown yet."
+  prompt: "White dust sheets draped over the furniture of a closed-up country house, daylight through the shutters showing the shape of a chair underneath. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-veil/2.jpg"
+  title: "Guessing the shape"
+  text: "A visitor’s shape behind frosted glass: a veil hides nothing away; it lets you guess the shape."
+  prompt: "The blurred shape of a visitor holding a bunch of flowers behind the frosted glass panel of a front door, seen from inside the hallway. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-veil/3.jpg"
+  title: "Not handed over yet"
+  text: "A sealed envelope under a napkin, a hand resting beside it: what’s known but not handed over yet."
+  prompt: "A sealed plain envelope half hidden under a linen napkin on a breakfast table, a hand resting beside it without lifting the cloth, close-up. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-veil/4.jpg"
+  title: "Patience, not force"
+  text: "Hands resting on a gift still wrapped in blue cloth: patience, not force; opening it is the person’s choice."
+  prompt: "Two hands resting on a gift wrapped in soft blue cloth on someone’s lap, not yet untying the knot, seen from above in daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-veil/5.jpg"
+  title: "Deciding it isn’t there"
+  text: "Letting the sheet fall back after a glance: knowing the veil is there, and deciding it isn’t."
+  prompt: "A hand letting the corner of a dust sheet drop back over an old framed painting after barely lifting it, in a dim closed-up room. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-veil/6.jpg"
+  title: "Not always a treasure"
+  text: "A cloth lifted from a basket holding two apples: not every veil hides a treasure."
+  prompt: "A hand lifting a checked cloth off a wicker basket on a market table to show it holds only two small apples. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the veil says {#definition}
 

@@ -19,7 +19,31 @@ faq:
   a: "No. It means you can’t see everything yet. The moon shows shapes, not details; the rest is filled in by imagination, and sometimes by fear."
 - q: "Why does the High Priestess carry the Moon and not the Moon card?"
   a: "In the Golden Dawn correspondences, the astrological Moon goes with the High Priestess, and the Moon card goes with Pisces. The names look alike; the cards don’t say the same thing."
-gallery: []
+gallery:
+- src: "visuals/sym-moon/1.jpg"
+  title: "Real, but borrowed"
+  text: "A street lamp trembling in a puddle: the light you see by at night is real, but borrowed."
+  prompt: "A night street lamp reflected in a rain puddle on a quiet pavement, the reflection trembling and softer than the lamp itself. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-moon/2.jpg"
+  title: "Outlines, not details"
+  text: "A garden after dark, all outline and no detail: a light that hides as much as it shows."
+  prompt: "A back garden at night seen from an unlit kitchen window, a bench, a bicycle and a hedge visible only as dark outlines against the glow of the house next door. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-moon/3.jpg"
+  title: "Your own street, made strange"
+  text: "Walking home down a street you know by heart: at night the shadows move, and imagination fills in the rest."
+  prompt: "A person seen from behind walking home late down a quiet residential street lined with plane trees, the street lamps throwing long, shifting shadows of the branches across the pavement. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-moon/4.jpg"
+  title: "Going anyway"
+  text: "Leaving at night with only a few metres of lane in view: not seeing where you’re going, and going anyway."
+  prompt: "A figure with a small bag seen from behind leaving a lit house at night and walking down a dark lane towards the hills, only the first few metres of the lane visible in the porch light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-moon/5.jpg"
+  title: "Stranger than it is"
+  text: "A coat on a door casting a tall shadow: at night, things look bigger and stranger than they are."
+  prompt: "A dark bedroom at night where a coat hanging on the back of the door casts a tall, strange shadow on the wall in the glow of a street lamp through the window. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-moon/6.jpg"
+  title: "The dark doesn’t last"
+  text: "The same street at dawn, the lamp still on: what is dark tonight won’t stay that dark."
+  prompt: "The same quiet residential street at dawn, pale light coming up behind the rooftops while a street lamp is still on. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the moon says {#definition}
 

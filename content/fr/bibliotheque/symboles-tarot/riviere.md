@@ -1,5 +1,5 @@
 ---
-title: "La rivière dans le tarot : ce que le symbole veut dire, et les cartes où elle apparaît"
+title: "La rivière dans le tarot : ce que le symbole veut dire, et les cartes où il apparaît"
 description: "La rivière dans le tarot Rider-Waite-Smith : le temps et le sentiment qui passent, la rive pas encore franchie. Les cartes où elle coule, de la Mort au Dix de Coupes."
 translationKey: "sym-river"
 type: library
@@ -19,7 +19,31 @@ faq:
   a: "C’est ce qui le sépare du reste du paysage. Il y a un pont sur la droite, mais il regarde les coupes renversées. La rivière dit que la vie continue ; le pont dit qu’on peut passer."
 - q: "Le Six d’Épées traverse-t-il une rivière ?"
   a: "Une étendue d’eau avec une rive proche : agitée d’un côté de la barque, lisse devant. Rivière ou lac, la carte est une traversée — on laisse quelque chose derrière soi pour des eaux plus calmes."
-gallery: []
+gallery:
+- src: "visuals/sym-river/1.jpg"
+  title: "Elle n’attend personne"
+  text: "Une feuille emportée par le courant : une rivière, c’est de l’eau qui a une direction, et qui n’attend personne."
+  prompt: "A single yellow leaf carried along on the fast current of a wide river flowing past an old stone quay. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-river/2.jpg"
+  title: "Chacun sur sa rive"
+  text: "Deux silhouettes sur des rives opposées, chacune sur son chemin : une amitié que le courant a éloignée doucement."
+  prompt: "Two people seen from far away walking on the towpaths of opposite banks of a slow river, each going their own way, small in the frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-river/3.jpg"
+  title: "Regarder la vie passer"
+  text: "Seul sur la berge, les yeux sur l’eau : la vie qui passe, et un pont juste à côté."
+  prompt: "A person in a dark coat sitting alone on a riverbank, seen from behind, staring down at the water, while a small stone footbridge crosses the river just to their right. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-river/4.jpg"
+  title: "Porté de l’autre côté"
+  text: "Un petit bac qui passe des eaux agitées aux eaux calmes : se laisser porter jusqu’à l’autre rive."
+  prompt: "A small flat cable ferry carrying a cyclist and a few passengers across a wide river, seen from behind, choppy water behind it and smooth water ahead. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-river/5.jpg"
+  title: "Le courant décide"
+  text: "Allongé dans un canoë, la pagaie posée : la dérive, puis la surprise de la rive où l’on échoue."
+  prompt: "A person lying back in a canoe with the paddle resting across their knees, drifting downstream on a wide river, seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-river/6.jpg"
+  title: "Chercher le passage"
+  text: "Se tourner vers la passerelle : une rivière est une frontière, mais le passage est souvent déjà là."
+  prompt: "A person seen from behind on a riverbank turning towards a narrow wooden footbridge that crosses to a sunlit far bank. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit la rivière {#definition}
 

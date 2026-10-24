@@ -19,7 +19,31 @@ faq:
   a: "Quatre arcanes majeurs : Tempérance, les Amoureux et le Jugement, chacun avec un grand ange, et la Roue de Fortune, avec une petite figure ailée qui tient un livre ouvert dans un coin. Beaucoup de livres donnent un nom aux grands anges ; rien d’écrit sur les cartes de 1909 ne le fait."
 - q: "Un ange dans un tirage, est-ce que ça veut dire que quelqu’un me protège ?"
   a: "Je ne le lis pas comme ça. Je le lis comme un point de vue : la part de vous, ou de la situation, qui voit plus loin que le problème devant vous. Ce que vous en faites vous appartient."
-gallery: []
+gallery:
+- src: "visuals/sym-angel/1.jpg"
+  title: "Vu d’en haut"
+  text: "Un ange de pierre au-dessus d’un marché animé : une vue plus large que celle qu’on a depuis le sol."
+  prompt: "A weathered stone angel on a church façade high above a busy market square, seen from below, the stalls and shoppers small beneath it. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-angel/2.jpg"
+  title: "L’amie hors de la dispute"
+  text: "Une amie en retrait d’une dispute : pas prise dedans, elle voit en deux minutes ce que vous n’aviez pas vu."
+  prompt: "Two people mid-argument at a kitchen table seen from the side with faces turned away, and a woman standing a little apart by the window, calm, arms folded. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-angel/3.jpg"
+  title: "Goutte à goutte"
+  text: "De l’huile versée goutte à goutte dans une mayonnaise : l’ange verse — le mélange, la patience, la juste dose."
+  prompt: "Hands pouring a thin stream of oil drop by drop into a bowl while whisking a mayonnaise, close-up on a kitchen counter. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-angel/4.jpg"
+  title: "L’appel qu’on entend"
+  text: "Une trompette qui sonne sur la place, les têtes qui se tournent : l’appel qu’on ne peut plus faire semblant d’ignorer."
+  prompt: "A young trumpeter in a village brass band, seen from behind, blowing a loud note on a sunny square as people in the distance turn towards the sound. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-angel/5.jpg"
+  title: "Attendre d’être sauvé"
+  text: "Les yeux au ciel à côté d’un vélo cassé : attendre que quelqu’un vienne arranger les choses."
+  prompt: "A person seen from behind sitting on a doorstep, chin in hands, looking up at the sky beside a bicycle with a flat tyre and an unopened repair kit. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-angel/6.jpg"
+  title: "Un très bon ange"
+  text: "La main d’une médecin sur le bras d’une patiente : parfois, la vue plus large vient d’un médecin ou d’un ami."
+  prompt: "A woman doctor’s hand resting kindly on a patient’s forearm across a consulting-room desk, both people cropped at the shoulders, daylight from a window. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit l’ange {#definition}
 

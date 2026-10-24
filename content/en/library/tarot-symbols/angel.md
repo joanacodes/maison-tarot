@@ -19,7 +19,31 @@ faq:
   a: "Four majors: Temperance, the Lovers and Judgement, each with one large angel, and the Wheel of Fortune, with a small winged figure holding an open book in one corner. Many books give the large angels names; nothing written on the 1909 cards does."
 - q: "Does an angel in a reading mean someone is protecting me?"
   a: "I don’t read it that way. I read it as a point of view: the part of you, or of the situation, that sees further than the problem in front of you. What you do with it is yours to decide."
-gallery: []
+gallery:
+- src: "visuals/sym-angel/1.jpg"
+  title: "A view from above"
+  text: "A stone angel above a busy market: a wider view than the one you have from the ground."
+  prompt: "A weathered stone angel on a church façade high above a busy market square, seen from below, the stalls and shoppers small beneath it. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-angel/2.jpg"
+  title: "The friend outside the argument"
+  text: "A friend standing back from an argument: not caught up in it, and seeing in two minutes what you couldn’t."
+  prompt: "Two people mid-argument at a kitchen table seen from the side with faces turned away, and a woman standing a little apart by the window, calm, arms folded. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-angel/3.jpg"
+  title: "Drop by drop"
+  text: "Oil whisked into mayonnaise drop by drop: the angel pours — mixing, patience, the right dose."
+  prompt: "Hands pouring a thin stream of oil drop by drop into a bowl while whisking a mayonnaise, close-up on a kitchen counter. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-angel/4.jpg"
+  title: "The call you can’t ignore"
+  text: "A trumpet sounding across the square and heads turning: the call you can’t pretend not to hear."
+  prompt: "A young trumpeter in a village brass band, seen from behind, blowing a loud note on a sunny square as people in the distance turn towards the sound. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-angel/5.jpg"
+  title: "Waiting to be rescued"
+  text: "Looking up at the sky beside a broken bike: waiting for someone to come and put it right."
+  prompt: "A person seen from behind sitting on a doorstep, chin in hands, looking up at the sky beside a bicycle with a flat tyre and an unopened repair kit. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-angel/6.jpg"
+  title: "A perfectly good angel"
+  text: "A doctor’s hand on a patient’s arm: sometimes the wider view belongs to a friend, a doctor or a therapist."
+  prompt: "A woman doctor’s hand resting kindly on a patient’s forearm across a consulting-room desk, both people cropped at the shoulders, daylight from a window. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the angel says {#definition}
 

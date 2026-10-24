@@ -19,7 +19,31 @@ faq:
   a: "Often, not always. The Golden Dawn tradition gives Strength to Leo, and the lion makes it hard to miss. In the corners of the Wheel and the World, the lion is one of four creatures usually read as the four fixed signs: Leo, Taurus, Scorpio and Aquarius."
 - q: "What does the winged lion on the Two of Cups mean?"
   a: "A red lion’s head with great wings floats above the couple’s cups. I read it as passion given wings: a desire that lifts the agreement instead of burning it down."
-gallery: []
+gallery:
+- src: "visuals/sym-lion/1.jpg"
+  title: "Who’s holding it?"
+  text: "Hands holding a big motorbike steady, engine running: raw power, and the question is who’s holding it."
+  prompt: "A rider seen from behind holding a big motorbike steady at a standstill on a country road, gloved hands on the handlebars, engine running. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lion/2.jpg"
+  title: "A mane like a crown"
+  text: "Stone lions on a town-hall gate: the animal of whoever wants to be seen as strong."
+  prompt: "Two weathered stone lions on the gateposts of an old town hall, seen from below against a bright sky. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lion/3.jpg"
+  title: "Calmed, not chained"
+  text: "Hands calming a big cat with its ears still back: courage that doesn’t shout, energy calmed, not chained."
+  prompt: "A woman’s hands gently stroking a big tabby tomcat whose ears are still flattened, as it settles on a sunny garden wall, close-up. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lion/4.jpg"
+  title: "Passion turned to authority"
+  text: "A dance teacher leading the class by her own fire: passion turned into authority."
+  prompt: "A dance class seen from the back of a sunlit studio, the teacher at the front leading a bold, sweeping movement and every student copying her. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lion/5.jpg"
+  title: "The roar for the audience"
+  text: "Standing on a chair, arms raised, calling for attention: the roar for the audience, pride that stops listening."
+  prompt: "A man seen from behind standing on a chair at a wedding party, arms raised, calling for attention while the guests around him look away. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lion/6.jpg"
+  title: "The lion kept in"
+  text: "A hand half raised, then lowered again: the lion never let out, courage swallowed so often it’s forgotten."
+  prompt: "A person seen from behind at a meeting table, one hand raised halfway and then lowered back onto the table, fist closed. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the lion says {#definition}
 

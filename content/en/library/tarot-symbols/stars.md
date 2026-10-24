@@ -19,7 +19,31 @@ faq:
   a: "One large yellow star and seven small white ones. Read them first by colour: yellow for joy coming back, white for peace. The Star card’s own page goes through the rest."
 - q: "Is the pentacle a star?"
   a: "It’s a five-pointed star drawn inside a coin. That’s why every Pentacle card carries a star — the suit of what is solid and earned, marked with a sign you steer by."
-gallery: []
+gallery:
+- src: "visuals/sym-stars/1.jpg"
+  title: "A light to steer by"
+  text: "A lighthouse seen from a small boat: a far light you can’t reach, but can steer by."
+  prompt: "A distant lighthouse beam at dusk seen from the deck of a small fishing boat heading towards it, a fisherman’s back and shoulder in the foreground. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-stars/2.jpg"
+  title: "You know which way"
+  text: "A lit window far across the fields: you’re not there yet, but you know which way it is."
+  prompt: "A single lit window of a distant farmhouse seen across dark fields from a country road at dusk, a person small in the frame walking towards it, seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-stars/3.jpg"
+  title: "After the storm"
+  text: "Watering the beds the morning after a storm: hope as something to steer by, now nothing is falling."
+  prompt: "A woman seen from behind watering a bed of young plants with a watering can the morning after a storm, a fallen branch on the lawn and the sky clearing. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-stars/4.jpg"
+  title: "A guide you wear"
+  text: "A lamp on a cyclist’s helmet: a guide you wear, the direction as part of who you are."
+  prompt: "A cyclist seen from behind riding down a dark country road at dusk, a small lamp on the helmet lighting the way ahead. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-stars/5.jpg"
+  title: "Forgetting to walk"
+  text: "Sitting on the harbour wall gazing at the far light: you can stare so long you forget to walk."
+  prompt: "A person seen from behind sitting on a harbour wall at dusk, chin in hands, gazing at a distant lighthouse across the water. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-stars/6.jpg"
+  title: "Following or pulled?"
+  text: "A small boat towed behind a bigger one: is the person following a direction, or being pulled?"
+  prompt: "A small rowing boat with nobody at the oars being towed on a taut rope behind a fishing boat across a grey evening sea. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the stars say {#definition}
 

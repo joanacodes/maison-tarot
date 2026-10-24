@@ -19,7 +19,31 @@ faq:
   a: "La carte ne le dit pas, et c’est tout l’intérêt. Le voile est tendu entre deux colonnes, derrière elle, et elle reste assise devant. Je le lis comme un savoir qui existe et qui ne se donne pas sur demande."
 - q: "Un bandeau sur les yeux, est-ce la même chose qu’un voile ?"
   a: "Non. Le bandeau est noué sur les yeux de quelqu’un et l’empêche de voir dehors ; le voile pend entre vous et quelque chose et vous empêche de voir dedans. Le Deux et le Huit d’Épées montrent des bandeaux : c’est une autre lecture."
-gallery: []
+gallery:
+- src: "visuals/sym-veil/1.jpg"
+  title: "Sous les draps"
+  text: "Des meubles sous des draps blancs : vous savez que c’est une chaise, pas laquelle — c’est là, pas encore montré."
+  prompt: "White dust sheets draped over the furniture of a closed-up country house, daylight through the shutters showing the shape of a chair underneath. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-veil/2.jpg"
+  title: "Deviner la forme"
+  text: "Une silhouette derrière une vitre dépolie : le voile n’enferme rien, il laisse deviner la forme."
+  prompt: "The blurred shape of a visitor holding a bunch of flowers behind the frosted glass panel of a front door, seen from inside the hallway. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-veil/3.jpg"
+  title: "Pas encore transmis"
+  text: "Une enveloppe fermée sous une serviette, une main posée à côté : ce qu’on sait sans l’avoir encore transmis."
+  prompt: "A sealed plain envelope half hidden under a linen napkin on a breakfast table, a hand resting beside it without lifting the cloth, close-up. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-veil/4.jpg"
+  title: "La patience, pas la force"
+  text: "Des mains sur un cadeau encore emballé de tissu bleu : la patience, pas la force ; ouvrir reste son choix."
+  prompt: "Two hands resting on a gift wrapped in soft blue cloth on someone’s lap, not yet untying the knot, seen from above in daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-veil/5.jpg"
+  title: "Décider qu’il n’y est pas"
+  text: "Laisser retomber le drap après un coup d’œil : savoir que le voile est là, et décider qu’il n’y est pas."
+  prompt: "A hand letting the corner of a dust sheet drop back over an old framed painting after barely lifting it, in a dim closed-up room. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-veil/6.jpg"
+  title: "Pas toujours un trésor"
+  text: "Un torchon soulevé sur deux pommes au fond d’un panier : tous les voiles ne cachent pas un trésor."
+  prompt: "A hand lifting a checked cloth off a wicker basket on a market table to show it holds only two small apples. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit le voile {#definition}
 

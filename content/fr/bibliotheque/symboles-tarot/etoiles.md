@@ -19,7 +19,31 @@ faq:
   a: "Une grande étoile jaune et sept petites blanches. Lisez-les d’abord par la couleur : le jaune pour la joie qui revient, le blanc pour la paix. La page de la carte détaille le reste."
 - q: "Le pentacle est-il une étoile ?"
   a: "C’est une étoile à cinq branches dessinée dans une pièce. C’est pour ça que chaque carte de Pentacles porte une étoile — la suite de ce qui est solide et gagné, marquée d’un signe qui guide."
-gallery: []
+gallery:
+- src: "visuals/sym-stars/1.jpg"
+  title: "Une lumière pour se guider"
+  text: "Un phare vu depuis un petit bateau : une lumière lointaine qu’on n’atteint pas, mais qui guide."
+  prompt: "A distant lighthouse beam at dusk seen from the deck of a small fishing boat heading towards it, a fisherman’s back and shoulder in the foreground. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-stars/2.jpg"
+  title: "Vous savez de quel côté"
+  text: "Une fenêtre allumée de l’autre côté des champs : vous n’y êtes pas, mais vous savez de quel côté c’est."
+  prompt: "A single lit window of a distant farmhouse seen across dark fields from a country road at dusk, a person small in the frame walking towards it, seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-stars/3.jpg"
+  title: "Après l’orage"
+  text: "Arroser les plates-bandes au lendemain de l’orage : l’espoir comme repère, maintenant que plus rien ne tombe."
+  prompt: "A woman seen from behind watering a bed of young plants with a watering can the morning after a storm, a fallen branch on the lawn and the sky clearing. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-stars/4.jpg"
+  title: "Un repère qu’on porte"
+  text: "Une lampe sur le casque d’un cycliste : un repère qu’on porte, la direction qui fait partie de soi."
+  prompt: "A cyclist seen from behind riding down a dark country road at dusk, a small lamp on the helmet lighting the way ahead. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-stars/5.jpg"
+  title: "Oublier de marcher"
+  text: "Assis sur la digue, les yeux sur la lumière lointaine : on peut la fixer au point d’oublier de marcher."
+  prompt: "A person seen from behind sitting on a harbour wall at dusk, chin in hands, gazing at a distant lighthouse across the water. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-stars/6.jpg"
+  title: "Suivre ou être tiré ?"
+  text: "Une barque remorquée derrière un plus gros bateau : la personne suit-elle une direction, ou est-elle tirée ?"
+  prompt: "A small rowing boat with nobody at the oars being towed on a taut rope behind a fishing boat across a grey evening sea. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que disent les étoiles {#definition}
 

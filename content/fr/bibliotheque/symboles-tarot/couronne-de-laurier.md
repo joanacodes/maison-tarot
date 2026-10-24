@@ -19,7 +19,31 @@ faq:
   a: "Elle ferme le cercle. La danseuse est encadrée par un grand ovale de feuilles vertes, noué en haut et en bas de rubans rouges : un cycle accompli, tout tient dans son cadre. C’est la dernière lame des arcanes majeurs, et la couronne le dit."
 - q: "Quelle différence entre une couronne et une couronne de laurier au tarot ?"
   a: "La couronne est en métal et se transmet avec la fonction ; la couronne de laurier est en feuilles et appartient à un moment. La première dit « aux commandes » ; la seconde dit « gagné »."
-gallery: []
+gallery:
+- src: "visuals/sym-wreath/1.jpg"
+  title: "Gagné, et vu de tous"
+  text: "Du laurier frais posé sur une coureuse à l’arrivée : quelque chose a été gagné, et les autres l’ont vu."
+  prompt: "A young woman runner seen from behind at the finish of a village race, an older man placing a ring of fresh laurel leaves on her head, the crowd blurred behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-wreath/2.jpg"
+  title: "Un cycle qui se ferme"
+  text: "Une couronne de moisson sur la grange, les champs fauchés : un cycle qui se ferme."
+  prompt: "A round harvest wreath of wheat ears and green leaves hung on a weathered barn door, the fields behind it freshly cut. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-wreath/3.jpg"
+  title: "Couronnés ensemble"
+  text: "Deux personnes couronnées de feuilles et de fleurs : une réussite partagée, un accord scellé devant tout le monde."
+  prompt: "A couple seen from behind at a village wedding, both wearing small crowns of leaves and flowers, walking out under green branches. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-wreath/4.jpg"
+  title: "Calme et humble"
+  text: "La gagnante, encore couronnée, empile les chaises : rester calme et humble quand les résultats arrivent."
+  prompt: "A young woman with a laurel wreath still on her head, seen from behind, helping volunteers stack chairs after a village race. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-wreath/5.jpg"
+  title: "Se reposer sur ses lauriers"
+  text: "Une couronne brunie qui prend la poussière au-dessus du canapé : les feuilles fanent, même quand on se repose dessus."
+  prompt: "A dried, brown laurel wreath gathering dust on a shelf above a sofa where someone lies dozing, seen from behind, in quiet afternoon light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-wreath/6.jpg"
+  title: "Avoir besoin du défilé"
+  text: "Toujours sous son vieux laurier, bras levés, pendant que les invités s’éloignent : avoir besoin du défilé."
+  prompt: "A man seen from behind at a garden party wearing an old dried laurel wreath, arms raised, while the guests drift away towards the buffet. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit la couronne de laurier {#definition}
 

@@ -1,5 +1,5 @@
 ---
-title: "L’eau dans le tarot : ce que le symbole veut dire, et les cartes où elle apparaît"
+title: "L’eau dans le tarot : ce que le symbole veut dire, et les cartes où il apparaît"
 description: "L’eau dans le tarot Rider-Waite-Smith : le sentiment, versé, dormant ou débordant. Les cartes où on la voit, de Tempérance à l’As de Coupes, et comment la lire."
 translationKey: "sym-water"
 type: library
@@ -19,7 +19,31 @@ faq:
   a: "Presque toujours, parce que l’eau est l’élément des Coupes. Mais regardez ce qu’elle fait : versée avec soin, c’est une émotion qu’on prend en main ; stagnante dans une flaque, c’est une émotion qu’on a laissée là."
 - q: "Pourquoi la rivière et la mer ont-elles leur propre page ?"
   a: "Parce qu’elles disent autre chose : une rivière a une direction, la mer a un horizon. Cette page parle de l’eau à portée de main — versée, dormante, qui tombe."
-gallery: []
+gallery:
+- src: "visuals/sym-water/1.jpg"
+  title: "La forme du récipient"
+  text: "L’eau qui prend la forme du bol qu’elle remplit : sur une carte, l’eau, c’est un sentiment."
+  prompt: "Water being poured from a jug into a clear glass bowl on a wooden table, filling it and taking its round shape, close-up. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-water/2.jpg"
+  title: "On prend soin"
+  text: "Un verre d’eau servi à quelqu’un de bouleversé : rien n’est réglé, mais on s’occupe de quelque chose."
+  prompt: "A hand pouring a glass of water from a carafe for someone sitting hunched at a kitchen table, only their folded arms and the glass in frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-water/3.jpg"
+  title: "Versée avec patience"
+  text: "L’eau versée lentement d’un verre à l’autre : une émotion qu’on travaille, ni retenue ni renversée."
+  prompt: "Two hands slowly pouring water from one glass into another above a sunny kitchen counter, a thin steady stream, not a drop spilled. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-water/4.jpg"
+  title: "Plus qu’une coupe n’en tient"
+  text: "Une fontaine qui déborde dans le bassin : la coupe n’est pas faite pour tout garder."
+  prompt: "A small stone garden fountain whose top basin overflows in thin streams into the pool below, water lilies floating on the surface. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-water/5.jpg"
+  title: "Laissée où elle est tombée"
+  text: "Une flaque croupie pleine de feuilles mortes : le sentiment négligé, laissé là où il est tombé."
+  prompt: "A stagnant puddle with dead leaves floating in it on the cracked floor of a neglected courtyard, a pair of feet in old shoes standing at its edge. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-water/6.jpg"
+  title: "Plus profond, plus longtemps"
+  text: "Une marche pourrie par des années de gouttes : l’eau négligée détruit plus profond que le feu, et plus longtemps."
+  prompt: "A wooden back doorstep rotted soft and dark where a broken gutter has dripped on it for years, a single drop falling from the gutter above. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit l’eau {#definition}
 

@@ -19,7 +19,31 @@ faq:
   a: "Il est enroulé autour de l’arbre fruitier derrière la femme, ce qui rappelle le jardin d’Éden. Je le lis comme la tentation qui accompagne tout vrai choix : l’option qui a l’air sage et ne l’est pas, ou celle qui fait peur et qui est la bonne."
 - q: "Le serpent est-il un mauvais signe au tarot ?"
   a: "Pas à lui seul. Il peut être la tentation ou la tromperie, et il peut être le renouveau : un serpent quitte sa vieille peau et continue sa route. Les cartes autour vous disent lequel."
-gallery: []
+gallery:
+- src: "visuals/sym-snake/1.jpg"
+  title: "Il s’invite sans demander"
+  text: "Une couleuvre qui glisse dans l’herbe haute : le désir, ou le changement, qui s’invite sans demander."
+  prompt: "A grass snake sliding quietly through long garden grass towards a sunlit stone wall, half hidden by the stems. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-snake/2.jpg"
+  title: "Trois heures du matin"
+  text: "Réveillé au bord du lit à trois heures : l’idée qui revient, un peu plus convaincante à chaque fois."
+  prompt: "A person seen from behind sitting on the edge of a bed in a dark room in the small hours, shoulders hunched, lit only by the faint glow of a street lamp. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-snake/3.jpg"
+  title: "La vieille peau"
+  text: "Une mue abandonnée sur une pierre chaude : le renouveau, l’animal qui continue sans elle."
+  prompt: "A shed snakeskin lying intact on a warm flat stone in a dry garden, translucent in the sunlight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-snake/4.jpg"
+  title: "Quelle voix vous convainc ?"
+  text: "Un vendeur penché tout près, la voix douce : la vraie question, c’est quelle voix est en train de vous convaincre."
+  prompt: "A salesman in a suit leaning in close to speak softly to a customer beside a shiny new car in a showroom, both seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-snake/5.jpg"
+  title: "Ce qu’on veut entendre"
+  text: "Un verre qu’on remplit malgré la main qui refuse : l’ami qui dit ce que vous voulez entendre."
+  prompt: "A hand topping up a glass of wine at a dinner table while another hand rises halfway to refuse, close-up, the people out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-snake/6.jpg"
+  title: "Tout ne ment pas"
+  text: "Une porte entrebâillée sur sa chaîne face à une voisine : refuser tout changement, au cas où ce serait un serpent."
+  prompt: "A front door held open only a crack on its safety chain, a woman from next door seen from behind on the step holding out a basket of garden vegetables. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit le serpent {#definition}
 

@@ -1,5 +1,5 @@
 ---
-title: "La mer dans le tarot : ce que le symbole veut dire, et les cartes où elle apparaît"
+title: "La mer dans le tarot : ce que le symbole veut dire, et les cartes où il apparaît"
 description: "La mer dans le tarot Rider-Waite-Smith : l’horizon, la profondeur, ce qui vous dépasse. Les cartes où elle est dessinée, de trois des Deux à la cour des Coupes."
 translationKey: "sym-sea"
 type: library
@@ -19,7 +19,31 @@ faq:
   a: "Son trône repose sur un bloc de pierre au milieu d’une eau agitée, un poisson qui saute d’un côté, un navire de l’autre. Il tient bon au-dessus de beaucoup d’émotion — c’est toute la carte."
 - q: "Une mer calme est-elle bon signe, et une mer agitée mauvais signe ?"
   a: "Ni l’un ni l’autre. Dans mes notes, l’eau qui bouge, ce sont des émotions fortes, et l’eau calme des émotions apaisées. Une mer agitée dit qu’il se passe beaucoup de choses ; elle ne dit pas que ça finira mal."
-gallery: []
+gallery:
+- src: "visuals/sym-sea/1.jpg"
+  title: "Le grand horizon"
+  text: "Un bateau minuscule sur un large horizon : la mer, c’est ce qui dépasse votre regard et votre contrôle."
+  prompt: "A wide grey-blue sea meeting the sky at a flat horizon, seen from a deserted beach, a single ship very small in the distance. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sea/2.jpg"
+  title: "Partir de l’autre côté"
+  text: "Sur le pont d’un ferry, une valise, la côte qui rapetisse : on prévoit le départ, pas ce qu’on ressentira."
+  prompt: "A person seen from behind on the deck of a ferry leaving a harbour, a suitcase at their feet, watching the coast grow smaller. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sea/3.jpg"
+  title: "Les pieds au sec"
+  text: "Des pieds nus juste hors d’atteinte des vagues : tout ressentir, et garder les pieds au sec."
+  prompt: "Bare feet standing on wet pebbles just above the reach of a gentle wave, the sea filling the rest of the frame, close-up. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sea/4.jpg"
+  title: "Tenir bon au milieu"
+  text: "Un pêcheur au large, calme sur un pont qui roule : au milieu de tout, et qui tient bon."
+  prompt: "A fisherman seen from behind standing steady on the deck of a small boat far out on a rolling grey sea, calmly hauling in a net. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sea/5.jpg"
+  title: "Dos à la mer"
+  text: "Assis dos aux vagues : quand regarder la mer voudrait dire décider."
+  prompt: "A person sitting on a beach with their back to the sea, arms folded, facing the empty dunes while big waves break behind them, seen from the side. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sea/6.jpg"
+  title: "Après le pire"
+  text: "Une mer plate après la tempête : après le pire, l’eau se calme et la lumière revient."
+  prompt: "A flat, calm sea at dawn after a storm, seaweed and driftwood scattered along the beach, a band of pale yellow light along the horizon. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit la mer {#definition}
 

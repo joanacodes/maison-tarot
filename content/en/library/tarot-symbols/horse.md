@@ -19,7 +19,31 @@ faq:
   a: "Because the Knights ride them, and the Knights are the court’s movement: the element going somewhere. Outside the court, horses carry the big arrivals — Death, the Sun, the victor of the Six of Wands."
 - q: "What does the white horse on the Death card mean?"
   a: "It carries the change in: Death doesn’t walk, it arrives, steadily, and everyone in its path reacts in their own way. White, in my colour grid, is purity — a clean slate more than a disaster."
-gallery: []
+gallery:
+- src: "visuals/sym-horse/1.jpg"
+  title: "Strength you borrow"
+  text: "A rider carried along a country lane: strength you borrow, as long as you agree on the direction."
+  prompt: "A rider seen from behind on a big chestnut horse trotting along a country lane, the horse doing the work, the rider light in the saddle. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-horse/2.jpg"
+  title: "Knowing when to brake"
+  text: "A learner at the wheel, the instructor’s hand near the brake: the engine is rarely the problem; braking is."
+  prompt: "A learner driver’s hands on the steering wheel and an instructor’s hand resting near the handbrake, seen from the back seat of a small car on a quiet road. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-horse/3.jpg"
+  title: "Four paces"
+  text: "Horses rearing, galloping, walking, standing still: look at the pace before anything else."
+  prompt: "Four horses in a sunny paddock at the same moment, one rearing, one galloping, one walking and one standing still by the fence. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-horse/4.jpg"
+  title: "Riding without holding on"
+  text: "A child on a white pony, arms wide: trust enough to ride without holding on."
+  prompt: "A small child seen from behind sitting bareback on a calm white pony in a sunny field, arms spread wide, an adult walking alongside out of focus. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-horse/5.jpg"
+  title: "Speed without direction"
+  text: "A horse bolting with its reins trailing: speed without direction, energy with nobody steering."
+  prompt: "A loose horse bolting across a field with its reins trailing and stirrups flapping, no rider in the saddle. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-horse/6.jpg"
+  title: "At its own pace"
+  text: "A draught horse walking at its own steady pace: some changes come at their own speed, whatever you do."
+  prompt: "A heavy draught horse pulling a cart steadily up a country lane in autumn, unhurried, a person walking beside it seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the horse says {#definition}
 

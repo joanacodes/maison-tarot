@@ -19,7 +19,31 @@ faq:
   a: "Souvent, pas toujours. La tradition de la Golden Dawn attribue la Force au Lion, et l’animal ne laisse guère de doute. Dans les coins de la Roue et du Monde, le lion est l’une des quatre créatures qu’on lit généralement comme les quatre signes fixes : Lion, Taureau, Scorpion et Verseau."
 - q: "Que veut dire le lion ailé du Deux de Coupes ?"
   a: "Une tête de lion rouge aux grandes ailes flotte au-dessus des coupes du couple. Je la lis comme la passion qui prend des ailes : un désir qui élève l’accord au lieu de le consumer."
-gallery: []
+gallery:
+- src: "visuals/sym-lion/1.jpg"
+  title: "Qui la tient ?"
+  text: "Des mains qui retiennent une grosse moto, moteur allumé : une énergie brute, reste à savoir qui la tient."
+  prompt: "A rider seen from behind holding a big motorbike steady at a standstill on a country road, gloved hands on the handlebars, engine running. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lion/2.jpg"
+  title: "Une crinière en couronne"
+  text: "Des lions de pierre au portail d’une mairie : l’animal de quiconque veut paraître fort."
+  prompt: "Two weathered stone lions on the gateposts of an old town hall, seen from below against a bright sky. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lion/3.jpg"
+  title: "Calmé, pas enchaîné"
+  text: "Des mains qui apaisent un gros chat aux oreilles encore couchées : un courage qui ne crie pas, calmé, pas enchaîné."
+  prompt: "A woman’s hands gently stroking a big tabby tomcat whose ears are still flattened, as it settles on a sunny garden wall, close-up. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lion/4.jpg"
+  title: "La passion devenue autorité"
+  text: "Une professeure de danse qui entraîne la classe par son propre feu : la passion devenue autorité."
+  prompt: "A dance class seen from the back of a sunlit studio, the teacher at the front leading a bold, sweeping movement and every student copying her. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lion/5.jpg"
+  title: "Rugir pour la galerie"
+  text: "Debout sur une chaise, bras levés, à réclamer l’attention : le rugissement pour la galerie, l’orgueil qui n’écoute plus."
+  prompt: "A man seen from behind standing on a chair at a wedding party, arms raised, calling for attention while the guests around him look away. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lion/6.jpg"
+  title: "Le lion gardé dedans"
+  text: "Une main à demi levée, puis reposée : le lion qu’on ne laisse jamais sortir, le courage ravalé."
+  prompt: "A person seen from behind at a meeting table, one hand raised halfway and then lowered back onto the table, fist closed. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit le lion {#definition}
 

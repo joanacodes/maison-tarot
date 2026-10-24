@@ -19,7 +19,31 @@ faq:
   a: "Une épée sortie d’un nuage transperce une couronne d’or, d’où pendent un rameau d’olivier et une palme. Je la lis comme un esprit clair qui l’emporte : une décision qui tranche, et que les autres finissent par reconnaître."
 - q: "Pourquoi une couronne tombe-t-elle de la Tour ?"
   a: "Le sommet de la tour a la forme d’une couronne, et la foudre l’arrache. Ce qui avait été construit pour être en haut n’y reste pas. L’un des deux personnages qui tombent porte lui aussi une couronne."
-gallery: []
+gallery:
+- src: "visuals/sym-crown/1.jpg"
+  title: "Posée par d’autres"
+  text: "Une couronne d’anniversaire posée par d’autres mains : c’est rarement celui qui la porte qui l’y a mise."
+  prompt: "Two adult hands placing a gold paper crown on a child’s head at a birthday table, the child seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-crown/2.jpg"
+  title: "Tant que personne ne suit"
+  text: "Un capitaine porté par son équipe : le brassard n’est qu’un ruban tant que les autres ne le suivent pas."
+  prompt: "An amateur football team seen from behind lifting their captain onto their shoulders after a match on a muddy pitch, the armband on his sleeve. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-crown/3.jpg"
+  title: "Reconnue par le groupe"
+  text: "Une cheffe d’orchestre, bras levés, tous les musiciens qui la regardent : une autorité reconnue, à qui l’on confie la décision."
+  prompt: "An orchestra conductor seen from behind with arms raised and still, every musician in a small rehearsal hall watching her hands. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-crown/4.jpg"
+  title: "Quand elle tombe"
+  text: "Une couronne en papier piétinée sur le trottoir : à terre, c’est la reconnaissance qui vacille."
+  prompt: "A gold paper crown lying crumpled and trampled on a wet pavement after a street party, a shoe stepping past it. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-crown/5.jpg"
+  title: "Oublier qui l’a donnée"
+  text: "Le capitaine qui quitte le terrain, brassard à la main : ce que le groupe a donné, il peut le reprendre."
+  prompt: "A football captain seen from behind walking off the pitch alone, armband in hand, while the team celebrates around another player in the background. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-crown/6.jpg"
+  title: "La couronne devenue couvercle"
+  text: "Les deux mains qui enfoncent la couronne : tenir si fort que la couronne devient un couvercle."
+  prompt: "A person seen from behind in a crowded room pressing a gold paper crown down hard on their head with both hands, shoulders hunched. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit la couronne {#definition}
 

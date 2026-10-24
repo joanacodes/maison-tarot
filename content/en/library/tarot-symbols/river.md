@@ -19,7 +19,31 @@ faq:
   a: "It’s what separates him from the rest of the landscape. There’s a bridge on the right, but he’s looking at the spilled cups. The river says life goes on; the bridge says there’s a way across."
 - q: "Is the Six of Swords crossing a river?"
   a: "A stretch of water with a near bank: rough on one side of the boat, smooth ahead. Whether it’s a river or a lake, the card is a crossing — leaving something behind for calmer water."
-gallery: []
+gallery:
+- src: "visuals/sym-river/1.jpg"
+  title: "It doesn’t wait"
+  text: "A leaf carried off by the current: a river is water with a direction, and it waits for nobody."
+  prompt: "A single yellow leaf carried along on the fast current of a wide river flowing past an old stone quay. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-river/2.jpg"
+  title: "On different banks"
+  text: "Two people on opposite banks, each walking their own way: a friendship the current slowly carried apart."
+  prompt: "Two people seen from far away walking on the towpaths of opposite banks of a slow river, each going their own way, small in the frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-river/3.jpg"
+  title: "Watching life pass"
+  text: "Alone on the bank, eyes on the water: life moving past, and a bridge they haven’t turned to see."
+  prompt: "A person in a dark coat sitting alone on a riverbank, seen from behind, staring down at the water, while a small stone footbridge crosses the river just to their right. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-river/4.jpg"
+  title: "Carried across"
+  text: "A small river ferry taking people across: on the water, carried from one bank to the other."
+  prompt: "A small flat cable ferry carrying a cyclist and a few passengers across a wide river, seen from behind, choppy water behind it and smooth water ahead. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-river/5.jpg"
+  title: "Letting the current decide"
+  text: "Lying back in a canoe, paddle down: drifting, then surprised by the bank you wash up on."
+  prompt: "A person lying back in a canoe with the paddle resting across their knees, drifting downstream on a wide river, seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-river/6.jpg"
+  title: "Look for the crossing"
+  text: "Turning towards the footbridge: a river is a border, but the crossing is often already there."
+  prompt: "A person seen from behind on a riverbank turning towards a narrow wooden footbridge that crosses to a sunlit far bank. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the river says {#definition}
 

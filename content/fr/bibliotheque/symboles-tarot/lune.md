@@ -1,5 +1,5 @@
 ---
-title: "La lune dans le tarot : ce que le symbole veut dire, et les cartes où elle apparaît"
+title: "La lune dans le tarot : ce que le symbole veut dire, et les cartes où il apparaît"
 description: "La lune dans le tarot Rider-Waite-Smith : lumière de la nuit, intuition, ce qui change et se cache. Les cinq cartes où elle est dessinée, et comment la lire."
 translationKey: "sym-moon"
 type: library
@@ -19,7 +19,31 @@ faq:
   a: "Non. Elle veut dire que vous ne voyez pas encore tout. La lune montre des formes, pas des détails ; le reste, l’imagination le complète, et parfois la peur."
 - q: "Pourquoi la Grande Prêtresse porte-t-elle la Lune, et pas la carte de la Lune ?"
   a: "Dans les correspondances de la Golden Dawn, la Lune astrologique va avec la Grande Prêtresse, et la carte de la Lune avec les Poissons. Les noms se ressemblent ; les cartes ne disent pas la même chose."
-gallery: []
+gallery:
+- src: "visuals/sym-moon/1.jpg"
+  title: "Réelle, mais réfléchie"
+  text: "Un réverbère qui tremble dans une flaque : la lumière de la nuit est réelle, mais réfléchie."
+  prompt: "A night street lamp reflected in a rain puddle on a quiet pavement, the reflection trembling and softer than the lamp itself. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-moon/2.jpg"
+  title: "Des contours, pas des détails"
+  text: "Un jardin la nuit, tout en contours : une lumière qui cache autant qu’elle montre."
+  prompt: "A back garden at night seen from an unlit kitchen window, a bench, a bicycle and a hedge visible only as dark outlines against the glow of the house next door. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-moon/3.jpg"
+  title: "Votre rue, devenue étrange"
+  text: "Rentrer tard par une rue connue par cœur : la nuit, les ombres bougent et l’imagination fait le reste."
+  prompt: "A person seen from behind walking home late down a quiet residential street lined with plane trees, the street lamps throwing long, shifting shadows of the branches across the pavement. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-moon/4.jpg"
+  title: "Partir quand même"
+  text: "Un départ de nuit sur un chemin sombre : on ne voit pas où l’on va, on part quand même."
+  prompt: "A figure with a small bag seen from behind leaving a lit house at night and walking down a dark lane towards the hills, only the first few metres of the lane visible in the porch light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-moon/5.jpg"
+  title: "Plus étrange que nature"
+  text: "Un manteau sur une porte qui projette une grande ombre : la nuit, tout paraît plus grand et plus étrange."
+  prompt: "A dark bedroom at night where a coat hanging on the back of the door casts a tall, strange shadow on the wall in the glow of a street lamp through the window. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-moon/6.jpg"
+  title: "Le noir ne dure pas"
+  text: "La même rue à l’aube, le réverbère encore allumé : ce qui est sombre ce soir ne le restera pas."
+  prompt: "The same quiet residential street at dawn, pale light coming up behind the rooftops while a street lamp is still on. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit la lune {#definition}
 

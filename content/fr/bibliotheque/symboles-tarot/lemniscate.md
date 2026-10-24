@@ -19,7 +19,31 @@ faq:
   a: "Il marque un savoir-faire qui circule : il lève une baguette d’une main et montre le sol de l’autre, si bien que ce qui entre par le haut ressort par le bas. C’est aussi un 8 couché, le chiffre de la maîtrise et de la prospérité qui dure."
 - q: "Y a-t-il une lemniscate sur la carte du Monde ?"
   a: "Certains la voient dans les rubans rouges qui nouent la couronne du Monde. Sur l’impression de 1909, ils se croisent en X plus qu’ils ne bouclent, alors je ne la compte pas. Regardez, et décidez vous-même."
-gallery: []
+gallery:
+- src: "visuals/sym-lemniscate/1.jpg"
+  title: "Une ligne sans fin"
+  text: "Un doigt qui trace un huit dans le sable : suivez la ligne, vous n’arrivez jamais au bout."
+  prompt: "A finger tracing a large figure of eight in smooth wet sand on a beach, the line looping back on itself, close-up. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lemniscate/2.jpg"
+  title: "Le poids qui bascule"
+  text: "Le huit d’une patineuse sur la glace : deux boucles, une seule ligne, et le poids qui bascule au milieu."
+  prompt: "A woman figure skater seen from behind tracing a figure of eight on an empty outdoor rink, the two loops scratched into the ice around her. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lemniscate/3.jpg"
+  title: "Rien ne se perd"
+  text: "Une chaîne de vélo qui tourne sans accroc : l’énergie qui circule, et rien ne se perd en route."
+  prompt: "Close-up of a clean, oiled bicycle chain running smoothly round its front and back gears as the pedals turn, in daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lemniscate/4.jpg"
+  title: "Deux choses à la fois"
+  text: "Un carton sous un bras, un ordinateur sur l’autre : mener deux choses de front, tant que ça circule."
+  prompt: "A person seen from the shoulders down walking through a half-packed flat with a cardboard box under one arm and an open laptop balanced on the other forearm. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lemniscate/5.jpg"
+  title: "Tourner en rond"
+  text: "Éveillé, la couette entortillée : le même souci qui tourne toute la nuit, une boucle sans sortie."
+  prompt: "A person lying awake in a dark bedroom with their back to the camera, the duvet twisted round them, an old analogue alarm clock on the bedside table. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lemniscate/6.jpg"
+  title: "Impossible de rien poser"
+  text: "Jongler encore tard dans la nuit : la boucle dont on ne sort pas, sans pouvoir rien poser."
+  prompt: "Tired hands still juggling two oranges above a kitchen table late at night under a single lamp, the person’s face out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit la lemniscate {#definition}
 

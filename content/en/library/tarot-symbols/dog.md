@@ -19,7 +19,31 @@ faq:
   a: "It’s the warning. In my notes the Fool’s minus is naivety, and the small white dog at his heels is trying to remind him where the edge is. Whether he listens is the whole card."
 - q: "Is the animal on the Wheel of Fortune a dog?"
   a: "No. The red figure rising on the right of the wheel has a jackal’s head, usually identified as Anubis from Egyptian imagery. I leave it out of the dog cards: it says something else."
-gallery: []
+gallery:
+- src: "visuals/sym-dog/1.jpg"
+  title: "Tame, but still alert"
+  text: "A dog lying calm but alert by the door: instinct we’ve tamed that still senses trouble before we do."
+  prompt: "A brown mongrel lying on a hallway floor with its head raised and ears pricked towards the closed front door, the rest of the house quiet. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-dog/2.jpg"
+  title: "The warning at your heels"
+  text: "A small dog digging in at the kerb: the part of you that knows, while the rest isn’t listening."
+  prompt: "A small white terrier on a lead planting its feet at the edge of a pavement while its owner, seen from behind and looking down at a phone, steps towards a busy road. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-dog/3.jpg"
+  title: "Tame and wild"
+  text: "A farm dog and a fox across a fence: tame and wild, nearly the same shape."
+  prompt: "A sheepdog and a red fox facing each other through a wire field fence at dusk, nearly the same size, both standing very still. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-dog/4.jpg"
+  title: "Loyalty settled into habit"
+  text: "An old dog nosing its owner’s hand: instinct settled into habit, the quiet loyalty of a long life together."
+  prompt: "An old grey-muzzled dog resting its nose in the hand of an elderly man sitting in a garden chair, only his hand and knees in frame, a family lunch table blurred behind them. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-dog/5.jpg"
+  title: "Barking at the postman"
+  text: "A dog barking at the postman again: sometimes the instinct is an old fear, not a new warning."
+  prompt: "A dog barking furiously through the bars of a garden gate at a postman seen from behind, a bundle of plain envelopes in his hand, on an ordinary morning street. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-dog/6.jpg"
+  title: "Staying out of habit"
+  text: "A dog that won’t leave the doormat, the gate wide open: loyalty’s shadow is staying because you always have."
+  prompt: "An old dog lying on a worn doormat in front of an open front door, the garden gate beyond it wide open onto a sunny lane it doesn’t go down. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the dog says {#definition}
 

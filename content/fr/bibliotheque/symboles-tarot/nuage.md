@@ -19,7 +19,31 @@ faq:
   a: "Les sept coupes reposent sur un banc de nuages : des souhaits sans rien de solide dessous. Dans mes notes, la carte, c’est l’indécision, trop de choix. Le nuage dit qu’aucun n’a encore atterri."
 - q: "Pourquoi y a-t-il tant de nuages sur les Épées ?"
   a: "Parce que les Épées sont l’Air : la pensée, les décisions, la communication. Les nuages, c’est ce que l’Air transporte. Quand ils sont gris et déchirés, la tête est dans la tempête."
-gallery: []
+gallery:
+- src: "visuals/sym-cloud/1.jpg"
+  title: "Il passe"
+  text: "L’ombre d’un nuage qui traverse une colline : la situation bouge, et ne se voit pas encore en entier."
+  prompt: "The shadow of a large cloud moving across a green hillside with grazing sheep on a bright day, half the slope in sun and half in shade. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-cloud/2.jpg"
+  title: "La semaine d’attente"
+  text: "Attendre à la fenêtre, téléphone retourné : rien ne s’est passé, et vous savez que ça passera."
+  prompt: "A person seen from behind sitting at a window on an overcast afternoon, a phone lying face down on the sill beside them, grey clouds over the rooftops. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-cloud/3.jpg"
+  title: "Un message en route"
+  text: "Une factrice à vélo sous de petits nuages blancs : un message qui arrive d’au-dessus de la situation."
+  prompt: "A postwoman seen from behind cycling up a sunny village street under a sky of soft white clouds, a full satchel at her hip. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-cloud/4.jpg"
+  title: "Gris et déchiré"
+  text: "Des nuages gris déchirés au-dessus d’une route venteuse : la situation elle-même, instable, bruyante, pas finie."
+  prompt: "Torn grey clouds racing over a windswept coastal road, a person seen from behind leaning into the wind with their coat flapping. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-cloud/5.jpg"
+  title: "Rester dans le flou"
+  text: "Immobile au bord du brouillard : rester dans le flou, parce que la clarté obligerait à décider."
+  prompt: "A footpath disappearing into thick fog across a field, a figure seen from behind standing still at the point where the fog begins. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-cloud/6.jpg"
+  title: "Le temps va changer"
+  text: "Du bleu qui perce derrière la pluie : ne tranchez rien en pleine tempête, le temps va changer."
+  prompt: "A rain-streaked window looking out over rooftops, patches of blue sky breaking through the grey clouds in the distance. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit le nuage {#definition}
 

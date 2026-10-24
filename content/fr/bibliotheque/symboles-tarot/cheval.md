@@ -19,7 +19,31 @@ faq:
   a: "Parce que les Cavaliers les montent, et que les Cavaliers sont le mouvement de la cour : l’élément qui va quelque part. Hors de la cour, les chevaux portent les grandes arrivées — la Mort, le Soleil, le vainqueur du Six de Bâtons."
 - q: "Que veut dire le cheval blanc sur la carte de la Mort ?"
   a: "Il fait entrer le changement : la Mort ne marche pas, elle arrive, au pas, et chacun sur son chemin réagit à sa manière. Le blanc, dans ma grille des couleurs, c’est la pureté — une page blanche plus qu’une catastrophe."
-gallery: []
+gallery:
+- src: "visuals/sym-horse/1.jpg"
+  title: "Une force qu’on emprunte"
+  text: "Un cavalier porté le long d’un chemin : une force qu’on emprunte, à condition d’être d’accord sur la direction."
+  prompt: "A rider seen from behind on a big chestnut horse trotting along a country lane, the horse doing the work, the rider light in the saddle. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-horse/2.jpg"
+  title: "Savoir freiner"
+  text: "Un élève au volant, la main du moniteur près du frein : rarement le moteur, plutôt savoir quand freiner."
+  prompt: "A learner driver’s hands on the steering wheel and an instructor’s hand resting near the handbrake, seen from the back seat of a small car on a quiet road. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-horse/3.jpg"
+  title: "Quatre allures"
+  text: "Des chevaux qui se cabrent, galopent, marchent ou restent immobiles : regardez l’allure avant tout le reste."
+  prompt: "Four horses in a sunny paddock at the same moment, one rearing, one galloping, one walking and one standing still by the fence. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-horse/4.jpg"
+  title: "Sans tenir les rênes"
+  text: "Un enfant sur un poney blanc, bras ouverts : assez de confiance pour monter sans se tenir."
+  prompt: "A small child seen from behind sitting bareback on a calm white pony in a sunny field, arms spread wide, an adult walking alongside out of focus. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-horse/5.jpg"
+  title: "La vitesse sans direction"
+  text: "Un cheval emballé, rênes pendantes : la vitesse sans direction, une énergie que personne ne dirige."
+  prompt: "A loose horse bolting across a field with its reins trailing and stirrups flapping, no rider in the saddle. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-horse/6.jpg"
+  title: "À son propre rythme"
+  text: "Un cheval de trait qui avance à son pas : certains changements arrivent à leur rythme, quoi qu’on fasse."
+  prompt: "A heavy draught horse pulling a cart steadily up a country lane in autumn, unhurried, a person walking beside it seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit le cheval {#definition}
 

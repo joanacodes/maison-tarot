@@ -19,7 +19,31 @@ faq:
   a: "Because the climb is done. He’s on a snowy summit, alone, holding up his lantern for whoever comes after. In my notes his number, 9, is the finish line: the end of a stage, introspection, last efforts."
 - q: "Are the mountains on the Fool a warning?"
   a: "They’re what lies ahead. Snowy peaks rise behind him while he walks off a cliff without looking. The mountains will still be there when he lands — that’s the journey the rest of the deck tells."
-gallery: []
+gallery:
+- src: "visuals/sym-mountain/1.jpg"
+  title: "A challenge that doesn’t move"
+  text: "A walker at the foot of a steep slope: a challenge that doesn’t move — round it, over it, or stay."
+  prompt: "A small figure seen from behind standing at the very foot of a steep grey rock face, looking up, a narrow path rising to the left. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-mountain/2.jpg"
+  title: "How you climb"
+  text: "Back at the desk with the same books: the exam won’t move; the only choice is how you climb."
+  prompt: "A student seen from behind at a desk piled with the same plain-covered textbooks, early morning, a window behind the desk opening onto distant mountains. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-mountain/3.jpg"
+  title: "The view you earned"
+  text: "Sitting on the summit, the whole valley below: the climb is behind you, and the view is earned."
+  prompt: "A hiker in a red jacket seen from behind sitting on a snowy summit, the whole valley spread out far below in clear daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-mountain/4.jpg"
+  title: "Built on rock"
+  text: "A stone farmhouse built on bare rock: the hard, unmoving ground that power stands on."
+  prompt: "An old stone farmhouse built directly on bare grey rock at the foot of a mountain, nothing growing around it, solid and square. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-mountain/5.jpg"
+  title: "Alone up there"
+  text: "Alone on a bare, cold summit, far above the others: the height that cuts you off."
+  prompt: "A single figure standing alone on a bare, windswept summit, seen from behind, while a group of walkers rests in the green valley far below. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-mountain/6.jpg"
+  title: "Staring instead of starting"
+  text: "Staring up at the peak from the parked car: an obstacle that doesn’t move becomes a reason not to."
+  prompt: "A person seen from behind sitting in a parked car at the foot of a mountain trail, engine off, looking up through the windscreen at the peak. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the mountain says {#definition}
 

@@ -19,7 +19,31 @@ faq:
   a: "His throne stands on a block of stone in rough water, with a fish leaping on one side and a ship on the other. He holds steady on top of a great deal of feeling — that’s the card."
 - q: "Is a calm sea a good sign and a rough one bad?"
   a: "Neither. In my notes moving water is strong emotion and calm water is emotion that has settled. A rough sea says a lot is going on; it doesn’t say it will go badly."
-gallery: []
+gallery:
+- src: "visuals/sym-sea/1.jpg"
+  title: "The big horizon"
+  text: "A ship small on a wide horizon: the sea is what lies beyond your sight and your control."
+  prompt: "A wide grey-blue sea meeting the sky at a flat horizon, seen from a deserted beach, a single ship very small in the distance. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sea/2.jpg"
+  title: "Leaving across the water"
+  text: "On a ferry with a suitcase, the coast shrinking: you can plan the move, not what you’ll feel."
+  prompt: "A person seen from behind on the deck of a ferry leaving a harbour, a suitcase at their feet, watching the coast grow smaller. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sea/3.jpg"
+  title: "Feet dry at the edge"
+  text: "Bare feet out of the waves’ reach: feeling everything, and still keeping your feet dry."
+  prompt: "Bare feet standing on wet pebbles just above the reach of a gentle wave, the sea filling the rest of the frame, close-up. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sea/4.jpg"
+  title: "Steady in the middle"
+  text: "A fisherman working steadily on a rolling deck far out: in the middle of it all, and holding steady."
+  prompt: "A fisherman seen from behind standing steady on the deck of a small boat far out on a rolling grey sea, calmly hauling in a net. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sea/5.jpg"
+  title: "Back to the sea"
+  text: "Sitting with your back to the waves: when looking at the sea would mean having to decide."
+  prompt: "A person sitting on a beach with their back to the sea, arms folded, facing the empty dunes while big waves break behind them, seen from the side. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sea/6.jpg"
+  title: "After the worst"
+  text: "A flat sea after the storm: after the worst, the water settles and the light comes back."
+  prompt: "A flat, calm sea at dawn after a storm, seaweed and driftwood scattered along the beach, a band of pale yellow light along the horizon. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the sea says {#definition}
 

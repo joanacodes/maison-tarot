@@ -19,7 +19,31 @@ faq:
   a: "It’s wound around the fruit tree behind the woman, which recalls the Garden of Eden. I read it as the temptation that comes with any real choice: the option that sounds wise and isn’t, or the frightening one that’s right."
 - q: "Is the snake a bad sign in tarot?"
   a: "Not on its own. It can be temptation or deceit, and it can be renewal: a snake sheds its skin and carries on. The cards around it tell you which."
-gallery: []
+gallery:
+- src: "visuals/sym-snake/1.jpg"
+  title: "It slips in"
+  text: "A grass snake sliding through the long grass: the desire or change that slips in without asking."
+  prompt: "A grass snake sliding quietly through long garden grass towards a sunlit stone wall, half hidden by the stems. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-snake/2.jpg"
+  title: "Three in the morning"
+  text: "Awake on the edge of the bed at three a.m.: the idea that returns, a little more convincing each time."
+  prompt: "A person seen from behind sitting on the edge of a bed in a dark room in the small hours, shoulders hunched, lit only by the faint glow of a street lamp. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-snake/3.jpg"
+  title: "The old skin left behind"
+  text: "A shed skin left on a warm stone: renewal, the animal carrying on without the old layer."
+  prompt: "A shed snakeskin lying intact on a warm flat stone in a dry garden, translucent in the sunlight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-snake/4.jpg"
+  title: "Which voice is talking?"
+  text: "A salesman leaning in close, voice soft: the useful question is whose voice is talking you into it."
+  prompt: "A salesman in a suit leaning in close to speak softly to a customer beside a shiny new car in a showroom, both seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-snake/5.jpg"
+  title: "What you want to hear"
+  text: "A glass topped up while a hand half rises to refuse: the friend who says what you want to hear."
+  prompt: "A hand topping up a glass of wine at a dinner table while another hand rises halfway to refuse, close-up, the people out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-snake/6.jpg"
+  title: "Not every change lies"
+  text: "A door kept on its chain against a neighbour’s basket: refusing every change in case it’s a snake."
+  prompt: "A front door held open only a crack on its safety chain, a woman from next door seen from behind on the step holding out a basket of garden vegetables. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the snake says {#definition}
 

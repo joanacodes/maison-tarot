@@ -19,7 +19,31 @@ faq:
   a: "C’est l’avertissement. Dans mes notes, le revers du Mat est la naïveté, et le petit chien blanc qui lui saute aux talons essaie de lui rappeler où se trouve le bord. Qu’il l’écoute ou non, c’est toute la carte."
 - q: "L’animal de la Roue de Fortune est-il un chien ?"
   a: "Non. La silhouette rouge qui monte à droite de la roue a une tête de chacal, qu’on identifie en général à Anubis, tiré de l’imagerie égyptienne. Je ne la compte pas parmi les chiens : elle dit autre chose."
-gallery: []
+gallery:
+- src: "visuals/sym-dog/1.jpg"
+  title: "Apprivoisé, mais aux aguets"
+  text: "Un chien couché, calme mais l’oreille dressée vers la porte : l’instinct domestiqué qui flaire le danger avant nous."
+  prompt: "A brown mongrel lying on a hallway floor with its head raised and ears pricked towards the closed front door, the rest of the house quiet. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-dog/2.jpg"
+  title: "L’avertissement aux talons"
+  text: "Un petit chien qui freine des quatre pattes au bord du trottoir : la part de vous qui sait déjà."
+  prompt: "A small white terrier on a lead planting its feet at the edge of a pavement while its owner, seen from behind and looking down at a phone, steps towards a busy road. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-dog/3.jpg"
+  title: "Apprivoisé et sauvage"
+  text: "Un chien de ferme et un renard séparés par une clôture : presque la même silhouette, le même instinct."
+  prompt: "A sheepdog and a red fox facing each other through a wire field fence at dusk, nearly the same size, both standing very still. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-dog/4.jpg"
+  title: "La fidélité devenue habitude"
+  text: "Un vieux chien, le museau dans la main de son maître : l’instinct devenu habitude, la fidélité tranquille des années."
+  prompt: "An old grey-muzzled dog resting its nose in the hand of an elderly man sitting in a garden chair, only his hand and knees in frame, a family lunch table blurred behind them. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-dog/5.jpg"
+  title: "Aboyer après le facteur"
+  text: "Un chien qui aboie après le facteur, comme chaque matin : parfois l’instinct est une vieille peur, pas un avertissement."
+  prompt: "A dog barking furiously through the bars of a garden gate at a postman seen from behind, a bundle of plain envelopes in his hand, on an ordinary morning street. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-dog/6.jpg"
+  title: "Rester par habitude"
+  text: "Un chien qui reste sur le paillasson, portail ouvert : rester parce qu’on est toujours resté."
+  prompt: "An old dog lying on a worn doormat in front of an open front door, the garden gate beyond it wide open onto a sunny lane it doesn’t go down. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit le chien {#definition}
 

@@ -19,7 +19,31 @@ faq:
   a: "It’s a sign that something is in the open. Most of the time that feels good. On Death, the same sun sits low on the horizon, and the card leaves it to you to say whether it’s rising or setting."
 - q: "What’s the difference between this page and the Sun card?"
   a: "The Sun card, XIX, has its own page, and the Sun in a birth chart has another. This page follows the sun as a drawn detail across the whole deck."
-gallery: []
+gallery:
+- src: "visuals/sym-sun/1.jpg"
+  title: "Nothing changed but the light"
+  text: "Two mugs at the window as day breaks: what was tangled at midnight looks obvious in the morning light."
+  prompt: "Two people seen from behind standing at a kitchen window at daybreak, mugs of coffee in hand, the first daylight coming up over the garden after a long night of talking. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sun/2.jpg"
+  title: "Nowhere to hide"
+  text: "A white lane at noon with no shade at all: under the sun, there’s nowhere to hide."
+  prompt: "A narrow white-walled village lane at noon in full sun with no shade anywhere, a person seen from behind walking up it, their shadow a small pool at their feet. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sun/3.jpg"
+  title: "A departure in daylight"
+  text: "Setting off in full daylight: on a beginning, the light hides nothing, not even the drop ahead."
+  prompt: "A young woman with a backpack setting off along a country road in bright morning daylight, seen from behind, the road dipping steeply out of sight a little way ahead. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sun/4.jpg"
+  title: "Where the light falls"
+  text: "A shaft of daylight landing on one chair: ask what the light falls on — it shows without judging."
+  prompt: "A single shaft of daylight from a high window falling on one empty wooden chair in an otherwise dim hallway. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sun/5.jpg"
+  title: "Too much sun"
+  text: "Sunburnt shoulders still out in the midday glare: too much light burns, and visibility becomes exposure."
+  prompt: "A person lying face down on a sun lounger by a pool at midday, seen from behind, shoulders turned red by the sun, no shade anywhere. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sun/6.jpg"
+  title: "The sun also sets"
+  text: "Golden late light on a terrace being packed away: something can be lit up at the very moment it ends."
+  prompt: "Low golden late-afternoon light across a seaside café terrace where a waiter, seen from behind, stacks the last chairs at the end of the season. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the sun says {#definition}
 

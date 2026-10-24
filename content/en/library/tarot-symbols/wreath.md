@@ -19,7 +19,31 @@ faq:
   a: "It closes the circle. The dancer is framed by a tall oval of green leaves tied top and bottom with red ribbons: a cycle completed, everything held inside its frame. It’s the last of the major cards, and the wreath says so."
 - q: "What’s the difference between a wreath and a crown in tarot?"
   a: "A crown is metal and passes on with the role; a wreath is leaves and belongs to one moment. The crown says “in charge”; the wreath says “won”."
-gallery: []
+gallery:
+- src: "visuals/sym-wreath/1.jpg"
+  title: "Won, and seen"
+  text: "Fresh laurel placed on a runner at the finish: something has been won, and others have seen it."
+  prompt: "A young woman runner seen from behind at the finish of a village race, an older man placing a ring of fresh laurel leaves on her head, the crowd blurred behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-wreath/2.jpg"
+  title: "A cycle closed"
+  text: "A harvest wreath on the barn door, the fields cut: around the whole season, a cycle closed."
+  prompt: "A round harvest wreath of wheat ears and green leaves hung on a weathered barn door, the fields behind it freshly cut. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-wreath/3.jpg"
+  title: "Crowned together"
+  text: "Two people crowned with leaves and flowers: one success shared, an agreement sealed in front of everyone."
+  prompt: "A couple seen from behind at a village wedding, both wearing small crowns of leaves and flowers, walking out under green branches. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-wreath/4.jpg"
+  title: "Calm and humble"
+  text: "The winner, still in her laurel, stacking chairs with the volunteers: calm and humble while the results flow."
+  prompt: "A young woman with a laurel wreath still on her head, seen from behind, helping volunteers stack chairs after a village race. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-wreath/5.jpg"
+  title: "Resting on your laurels"
+  text: "A brown wreath gathering dust above the sofa: leaves wilt, and resting on your laurels doesn’t keep them green."
+  prompt: "A dried, brown laurel wreath gathering dust on a shelf above a sofa where someone lies dozing, seen from behind, in quiet afternoon light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-wreath/6.jpg"
+  title: "Needing the parade"
+  text: "Still in the old laurel, arms raised, as the guests drift away: needing the parade, lost without applause."
+  prompt: "A man seen from behind at a garden party wearing an old dried laurel wreath, arms raised, while the guests drift away towards the buffet. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the wreath says {#definition}
 

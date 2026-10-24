@@ -19,7 +19,31 @@ faq:
   a: "They’re traditionally read as Boaz and Jachin, the two pillars at the entrance of Solomon’s Temple in the Bible. The card doesn’t explain them; what it shows is one black pillar, one white one, and a woman sitting between them."
 - q: "Are the two towers on the Moon and Death cards pillars too?"
   a: "They aren’t drawn as pillars, but they do a similar job: two uprights with a passage between them. I read them as a gateway seen from far away."
-gallery: []
+gallery:
+- src: "visuals/sym-pillars/1.jpg"
+  title: "Two posts, one entrance"
+  text: "Two stone gateposts at a farm: two pillars make an entrance, and mark a threshold."
+  prompt: "Two old stone gateposts at the entrance of a farmyard, the gate open, a muddy track running between them into the yard. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pillars/2.jpg"
+  title: "Somewhere with rules"
+  text: "A small hand pausing between the school gate’s pillars: before a word is said, you know there are rules inside."
+  prompt: "A child’s hand in a parent’s hand, both seen from behind, pausing between the two brick pillars of a school gate on the first morning, the playground beyond. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pillars/3.jpg"
+  title: "Holding the roof apart"
+  text: "Two posts holding up a barn roof: two sides that bear the weight precisely because they stand apart."
+  prompt: "Two thick wooden posts holding up the roof of an old open barn, standing well apart, hay bales stacked in the space between them. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pillars/4.jpg"
+  title: "The keeper of the passage"
+  text: "An attendant seated between two columns: whoever sits between them keeps the passage, and you go in on its terms."
+  prompt: "A museum attendant seen from behind sitting on a plain chair between two marble columns at the entrance of a gallery room, a few visitors waiting at the rope. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pillars/5.jpg"
+  title: "Stuck in the middle"
+  text: "One foot in, one foot out, coat half on: stuck between two pillars and calling it balance."
+  prompt: "A person seen from behind standing in an open front doorway, one foot inside and one on the step outside, coat half on, not moving. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pillars/6.jpg"
+  title: "Another way in"
+  text: "Stepping over the wall beside the gateway: who decided there were only two pillars, and one way in?"
+  prompt: "A walker seen from behind stepping over a low stone wall a few metres from a gateway, the two gateposts standing unused beside the path. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the pillars say {#definition}
 

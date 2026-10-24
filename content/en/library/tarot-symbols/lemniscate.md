@@ -19,7 +19,31 @@ faq:
   a: "It marks a skill that keeps circulating: he raises a wand with one hand and points to the ground with the other, so what comes in at the top goes out at the bottom. It’s also an 8 lying down, the number of control and lasting prosperity."
 - q: "Is there a lemniscate on the World card?"
   a: "Some readers see one in the red ribbons that tie the World’s wreath. On the 1909 print they cross in an X more than they loop, so I don’t count it. Look, and decide for yourself."
-gallery: []
+gallery:
+- src: "visuals/sym-lemniscate/1.jpg"
+  title: "A line with no end"
+  text: "A finger tracing an eight in the sand: follow the line and you never reach an end."
+  prompt: "A finger tracing a large figure of eight in smooth wet sand on a beach, the line looping back on itself, close-up. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lemniscate/2.jpg"
+  title: "The weight shifts"
+  text: "A skater’s figure of eight on the ice: two loops, one line, and the weight shifting in the middle."
+  prompt: "A woman figure skater seen from behind tracing a figure of eight on an empty outdoor rink, the two loops scratched into the ice around her. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lemniscate/3.jpg"
+  title: "Nothing lost on the way"
+  text: "A bicycle chain turning smoothly round its gears: energy kept moving, nothing lost on the way."
+  prompt: "Close-up of a clean, oiled bicycle chain running smoothly round its front and back gears as the pedals turn, in daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lemniscate/4.jpg"
+  title: "Two things at once"
+  text: "A box under one arm, a laptop on the other: two things at once, held while both keep moving."
+  prompt: "A person seen from the shoulders down walking through a half-packed flat with a cardboard box under one arm and an open laptop balanced on the other forearm. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lemniscate/5.jpg"
+  title: "Round in circles"
+  text: "Lying awake, the duvet twisted: the same worry going round all night, a loop with no way out."
+  prompt: "A person lying awake in a dark bedroom with their back to the camera, the duvet twisted round them, an old analogue alarm clock on the bedside table. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lemniscate/6.jpg"
+  title: "Can’t put either down"
+  text: "Still juggling late into the night: the loop you can’t get out of, unable to put either down."
+  prompt: "Tired hands still juggling two oranges above a kitchen table late at night under a single lamp, the person’s face out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the lemniscate says {#definition}
 

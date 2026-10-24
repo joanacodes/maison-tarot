@@ -19,7 +19,31 @@ faq:
   a: "On les lit traditionnellement comme Boaz et Jakin, les deux colonnes de l’entrée du Temple de Salomon dans la Bible. La carte ne les explique pas ; elle montre une colonne noire, une colonne blanche, et une femme assise entre les deux."
 - q: "Les deux tours de la Lune et de la Mort sont-elles aussi des colonnes ?"
   a: "Elles ne sont pas dessinées comme des colonnes, mais elles font un travail voisin : deux montants et un passage entre eux. Je les lis comme une porte vue de loin."
-gallery: []
+gallery:
+- src: "visuals/sym-pillars/1.jpg"
+  title: "Deux piliers, une entrée"
+  text: "Deux piliers de pierre à l’entrée d’une ferme : deux colonnes font une entrée, et marquent un seuil."
+  prompt: "Two old stone gateposts at the entrance of a farmyard, the gate open, a muddy track running between them into the yard. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pillars/2.jpg"
+  title: "Un lieu avec des règles"
+  text: "Une petite main qui s’arrête entre les piliers du portail de l’école : on sait déjà qu’il y aura des règles."
+  prompt: "A child’s hand in a parent’s hand, both seen from behind, pausing between the two brick pillars of a school gate on the first morning, the playground beyond. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pillars/3.jpg"
+  title: "Écartés pour tenir"
+  text: "Deux poteaux qui portent le toit d’une grange : deux côtés qui tiennent justement parce qu’ils restent écartés."
+  prompt: "Two thick wooden posts holding up the roof of an old open barn, standing well apart, hay bales stacked in the space between them. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pillars/4.jpg"
+  title: "Le gardien du passage"
+  text: "Un gardien assis entre deux colonnes : celui qui siège entre elles garde le passage, on entre à ses conditions."
+  prompt: "A museum attendant seen from behind sitting on a plain chair between two marble columns at the entrance of a gallery room, a few visitors waiting at the rope. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pillars/5.jpg"
+  title: "Coincé au milieu"
+  text: "Un pied dedans, un pied dehors, le manteau à moitié enfilé : coincé entre deux colonnes, et l’appeler équilibre."
+  prompt: "A person seen from behind standing in an open front doorway, one foot inside and one on the step outside, coat half on, not moving. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pillars/6.jpg"
+  title: "Une autre entrée"
+  text: "Enjamber le muret à côté du portail : qui a décidé qu’il n’y avait que deux colonnes ?"
+  prompt: "A walker seen from behind stepping over a low stone wall a few metres from a gateway, the two gateposts standing unused beside the path. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que disent les colonnes {#definition}
 

@@ -19,7 +19,31 @@ faq:
   a: "Among the majors, the Empress, the Emperor, the Hierophant and Justice, with the High Priestess on a plain stone seat; then all eight Queens and Kings. In the numbered minors people sit on benches and stools — the closest is the Four of Pentacles, a crowned man on a bare block."
 - q: "Is a throne a good sign in a reading?"
   a: "It’s a sign of stability, which isn’t quite the same thing. A throne can be where someone protects what they govern, or the place they refuse to leave. The cards around it tell you which."
-gallery: []
+gallery:
+- src: "visuals/sym-throne/1.jpg"
+  title: "The head of the table"
+  text: "The chair at the head of the kitchen table, a cardigan on its back: everyone knows whose it is."
+  prompt: "An old wooden armchair at the head of a farmhouse kitchen table, a worn cardigan over its back, plain stools along both sides, nobody seated. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-throne/2.jpg"
+  title: "Others come to you"
+  text: "A grandmother in her armchair, the family gathered round: the place is hers, and others come to her."
+  prompt: "A grandmother seen from behind in her worn armchair by the window, grandchildren sitting on the rug at her feet and adults gathered round. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-throne/3.jpg"
+  title: "Built to last"
+  text: "A hard, high-backed oak chair in a council chamber: a seat built to last — permanence, and rigidity."
+  prompt: "A heavy, high-backed oak chair with carved armrests standing alone at the end of an old council chamber, hard wooden seat, no cushion. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-throne/4.jpg"
+  title: "A soft throne"
+  text: "A deep cushioned armchair by a bowl of fruit: a soft throne that feeds rather than commands."
+  prompt: "A deep armchair heaped with soft cushions and a knitted blanket in a sunny room, a bowl of fruit and a loaf of bread on the table beside it. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-throne/5.jpg"
+  title: "Never getting up"
+  text: "A boss pointing from his big chair while everyone else stands: power that stays put can no longer move."
+  prompt: "A man seen from behind in a high-backed leather office chair, pointing across a meeting table at colleagues who all stand, their faces out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-throne/6.jpg"
+  title: "Care that smothers"
+  text: "A blanket tucked too tight round a grown son’s shoulders, a suitcase waiting: care that keeps people small."
+  prompt: "An older woman’s hands tucking a thick blanket tightly around the shoulders of a grown man in an armchair, a packed suitcase waiting by the door, faces out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the throne says {#definition}
 
