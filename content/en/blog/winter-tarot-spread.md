@@ -1,6 +1,6 @@
 ---
 title: "Winter tarot spread: a slow reading for the darkest weeks"
-description: "A winter tarot spread for the darkest weeks of the year: five cards drawn one evening at a time, to rest, keep warm and see what’s waiting for the light. With an example."
+description: "A winter tarot spread for the darkest weeks: five cards drawn one evening at a time, to rest, keep warm and see what’s waiting for the light. With an example."
 translationKey: "post-winter-tarot-spread"
 type: blog
 date: 2026-10-24
@@ -57,7 +57,7 @@ Three Pentacles out of five: this winter is about the body and the practical thi
 
 In my colour grid, [black](/library/tarot-colours/black/) is absence and void, and also emptying the mind and reality: the bare thing, without varnish. The dark weeks can do that too. Fewer hours of light, fewer plans, a little more truth.
 
-I used to wait for a light to come on before I walked into a dark room. Today I walk through my flat with the lights off, and a noise at night doesn’t frighten me. That change took me a long time, and I tell it in [afraid of the dark](/blog/afraid-of-the-dark/).
+I used to wait for a light to come on before I walked into a dark room; turning on every light at night was living in fear without noticing it. Today I walk through my flat with the lights off, and a noise at night doesn’t frighten me. I tell how that changed in [afraid of the dark](/blog/afraid-of-the-dark/).
 
 The honest limit: a spread doesn’t lift a heavy mood. If the dark weeks weigh on you every year more than rest can fix, mention it to your doctor; that’s a question for a person, not a deck.
 

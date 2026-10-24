@@ -1,5 +1,5 @@
 ---
-title: "Full moon tarot spread: the one I use, small enough for a napkin"
+title: "Full moon tarot spread: three cards, small enough for a napkin"
 description: "A three-card full moon tarot spread that fits on a café napkin: what has come to light, what to put down, what to keep. Each position explained, with an example."
 translationKey: "post-full-moon-tarot-spread"
 type: blog
@@ -9,9 +9,9 @@ tags: ["full moon tarot spread", "full moon tarot", "three card tarot spread", "
 image: "covers/full-moon-tarot-spread.jpg"
 imageAlt: "Three tarot cards in a row on a white paper napkin on a small café table, a cup of coffee at the edge"
 imagePrompt: "Three tarot cards laid in a row on a white paper napkin on a small café table, a cup of coffee at the edge of the frame. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "My full moon spread is three cards in a row, small enough for a café napkin. First card: what has come to light this month. Second: what you can put down. Third: what you keep. The full moon is when the whole face of the Moon is lit, so the spread asks what you can now see clearly — no candles, crystals or moonlit windowsill needed. Read each card through its number, element and colours before looking anything up, write one sentence per card, and reread the page at the next full moon."
+summary: "This full moon spread is three cards in a row, small enough for a café napkin. First card: what has come to light this month. Second: what you can put down. Third: what you keep. The full moon is when the whole face of the Moon is lit, so the spread asks what you can now see clearly — no candles, crystals or moonlit windowsill needed. Read each card through its number, element and colours before looking anything up, write one sentence per card, and reread the page at the next full moon."
 ---
-The full moon spread I use is three cards in a row, small enough to fit on a café napkin: what has come to light, what you can put down, what you keep. No candle, no crystal, no windowsill. A deck, ten minutes and a pen.
+The full moon spread I suggest is three cards in a row, small enough to fit on a café napkin: what has come to light, what you can put down, what you keep. No candle, no crystal, no windowsill. A deck, ten minutes and a pen.
 
 ## What the full moon is, and why it suits a reading {#full-moon}
 

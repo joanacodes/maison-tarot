@@ -43,7 +43,7 @@ Of the three, it's the placement people recognise and never say out loud. In my 
 
 Lilith came into astrology after the Golden Dawn drew up its correspondences, so it has no traditional card. I read it with the Devil: the chains around the two figures are loose enough to lift off. What was chained can be unchained, once you look at it. More on [Lilith's Library page](/library/astrology/lilith/).
 
-**Because it touches what someone chose to hide, I read Lilith only for people who asked.** Reading it in another person's chart behind their back is opening a door that was closed on purpose, and [looking up a chart without permission](/blog/birth-chart-without-permission/) has its own article.
+**Because it touches what someone chose to hide, I read Lilith with care: you knock first.** Reading it in another person's chart behind their back is opening a door that was closed on purpose, and [looking up a chart without permission](/blog/birth-chart-without-permission/) has its own article.
 
 ## Chiron: the wound you circle {#chiron}
 

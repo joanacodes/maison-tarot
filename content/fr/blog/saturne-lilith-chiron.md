@@ -43,7 +43,7 @@ Des trois, c’est la position que les gens reconnaissent et ne disent jamais à
 
 Arrivée en astrologie après les correspondances de la Golden Dawn, elle n’a pas de carte traditionnelle. Je la lis avec le Diable : les chaînes au cou des deux personnages sont assez lâches pour qu’on les retire. Ce qui a été enchaîné peut être détaché, à condition de le regarder. Voir [la page de Lilith](/fr/bibliotheque/astrologie/lilith/).
 
-**Parce qu’elle touche à ce que quelqu’un a choisi de cacher, je ne lis Lilith que pour les personnes qui me l’ont demandé.** La lire dans le thème de quelqu’un d’autre à son insu, c’est ouvrir une porte fermée exprès, et [regarder un thème sans permission](/fr/blog/theme-astral-sans-permission/) a son propre article.
+**Parce qu’elle touche à ce que quelqu’un a choisi de cacher, je lis Lilith avec précaution : on frappe avant d’entrer.** La lire dans le thème de quelqu’un d’autre à son insu, c’est ouvrir une porte fermée exprès, et [regarder un thème sans permission](/fr/blog/theme-astral-sans-permission/) a son propre article.
 
 ## Chiron : la blessure autour de laquelle on tourne {#chiron}
 

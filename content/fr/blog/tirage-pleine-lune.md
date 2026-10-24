@@ -1,5 +1,5 @@
 ---
-title: "Tirage de pleine lune : celui que j’utilise, assez petit pour tenir sur une serviette"
+title: "Tirage de pleine lune : trois cartes, assez petit pour tenir sur une serviette"
 description: "Un tirage de pleine lune en trois cartes, assez petit pour une serviette de bistrot : ce qui est apparu, ce qu’on pose, ce qu’on garde. Chaque position expliquée."
 translationKey: "post-full-moon-tarot-spread"
 type: blog
@@ -9,9 +9,9 @@ tags: ["tirage pleine lune", "tarot pleine lune", "tirage trois cartes", "phases
 image: "covers/full-moon-tarot-spread.jpg"
 imageAlt: "Trois cartes de tarot alignées sur une serviette en papier blanche, sur une petite table de café, une tasse au bord de l’image"
 imagePrompt: "Three tarot cards laid in a row on a white paper napkin on a small café table, a cup of coffee at the edge of the frame. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Mon tirage de pleine lune, c’est trois cartes en ligne, assez petit pour tenir sur une serviette de bistrot. Première carte : ce qui est apparu ce mois-ci. Deuxième : ce que vous pouvez poser. Troisième : ce que vous gardez. La pleine lune, c’est le moment où toute la face visible de la Lune est éclairée ; le tirage demande donc ce que vous voyez clairement maintenant — sans bougie, sans cristal, sans rebord de fenêtre au clair de lune. Lisez chaque carte par son nombre, son élément et ses couleurs, écrivez une phrase par carte, et relisez la page à la pleine lune suivante."
+summary: "Ce tirage de pleine lune, c’est trois cartes en ligne, assez petit pour tenir sur une serviette de bistrot. Première carte : ce qui est apparu ce mois-ci. Deuxième : ce que vous pouvez poser. Troisième : ce que vous gardez. La pleine lune, c’est le moment où toute la face visible de la Lune est éclairée ; le tirage demande donc ce que vous voyez clairement maintenant — sans bougie, sans cristal, sans rebord de fenêtre au clair de lune. Lisez chaque carte par son nombre, son élément et ses couleurs, écrivez une phrase par carte, et relisez la page à la pleine lune suivante."
 ---
-Le tirage de pleine lune que j’utilise tient en trois cartes alignées, assez petit pour une serviette en papier de bistrot : ce qui est apparu, ce que vous pouvez poser, ce que vous gardez. Pas de bougie, pas de cristal, pas de rebord de fenêtre. Un jeu, dix minutes et un stylo.
+Le tirage de pleine lune que je vous propose tient en trois cartes alignées, assez petit pour une serviette en papier de bistrot : ce qui est apparu, ce que vous pouvez poser, ce que vous gardez. Pas de bougie, pas de cristal, pas de rebord de fenêtre. Un jeu, dix minutes et un stylo.
 
 ## Ce qu’est la pleine lune, et pourquoi elle se prête à un tirage {#pleine-lune}
 

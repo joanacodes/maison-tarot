@@ -15,7 +15,7 @@ A tarot certificate shows that someone followed a course, and sometimes that the
 
 ## What a tarot certificate can show {#what-it-shows}
 
-A certificate is a document a school or a teacher issues to say you completed their course. What it’s worth depends on what it states.
+A certificate is a document a school or a teacher issues to say you completed their course. Some courses issue one after a weekend, others after a year of supervised practice, and both are called certificates. What it’s worth depends on what it states.
 
 Depending on the course, it can show that someone attended a number of sessions, practised a number of readings with a teacher watching, or passed the school’s own test. It also shows something less official: that a person gave time and money to learning, and stuck with it to the end.
 
@@ -44,6 +44,8 @@ A lineage is a chain of teachers: I learned from this person, who learned from t
 Tarot has its own family trees. Many of the correspondences readers use today, between cards, planets and letters, go back to [the Golden Dawn and its tarot](/library/tarot-history/golden-dawn-tarot/). A reader who says they trained in a particular school is telling you which vocabulary and which way of working they inherited.
 
 That’s what a lineage carries: a language, a set of correspondences, a method, and often a sense of belonging and gratitude that has value of its own. What it can’t carry is the reader’s own track record. A lineage is a family tree, not a notebook.
+
+Sometimes a lineage is offered as a guarantee: my teacher was taught by someone who was taught by a famous name. It can be a true and lovely story. It still answers a different question from yours, which is whether this reader will be careful with you.
 
 ## Five questions to ask a teacher instead {#questions}
 
