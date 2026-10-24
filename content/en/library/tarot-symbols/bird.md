@@ -1,0 +1,62 @@
+---
+title: "The bird in tarot: what the symbol means, and the cards where it appears"
+description: "The bird in the Rider-Waite-Smith tarot: the Star’s ibis, the Ace of Cups’ dove, the Nine of Pentacles’ falcon, the birds over the Swords. How to read it."
+translationKey: "sym-bird"
+type: library
+navTitle: "The bird"
+weight: 21
+categories: ["Symbols"]
+tags: ["tarot symbols", "bird", "The Star", "Ace of Cups", "Swords"]
+h1: "The bird — a thought <em>in flight</em>"
+lede: "A bird moves between the ground and the sky: a message, an idea, a hope on its way. In the Rider-Waite-Smith it perches by the Star’s pool, dives into the Ace of Cups, sits on a gloved hand in the Nine of Pentacles and crosses the sky over the Swords court."
+related:
+- /library/tarot-symbols
+- /library/tarot-cards/the-star
+- /library/four-elements/air-element
+- /library/tarot-cards/nine-of-pentacles
+faq:
+- q: "What is the bird on the Star tarot card?"
+  a: "A red bird with a long curved beak, perched on a tree on the right of the card. It’s usually read as an ibis, the bird of Thoth, the Egyptian god of writing. The card itself doesn’t name it; its shape is what makes people think of the ibis."
+- q: "Why are there birds on the Swords cards?"
+  a: "Swords are the suit of Air, and birds are the animals of the air. Over the Page, the Queen and the King of Swords, small black birds cross the sky: thoughts on the move, sometimes a whole flock, sometimes a single one."
+gallery: []
+---
+## What the bird says {#definition}
+
+A bird lives in two places: it feeds on the ground and travels in the sky. That’s why it carries messages in so many stories, from the dove sent out of the ark to the carrier pigeon. **The bird says: something is moving between where you stand and where you’re looking — a message, an idea, a hope.** Think of the text you’ve been waiting for all afternoon: it isn’t here yet, but you know it’s on its way.
+
+What kind of bird, and what it’s doing, tells you the rest. Perched, diving, flying off, or sitting on a glove.
+
+## Where it appears in the deck {#where}
+
+On [the Star](/library/tarot-cards/the-star/), a red bird with a long curved beak sits in a tree on the right, behind the kneeling woman. It’s usually read as an ibis. She pours; the bird watches, at rest after the storm of the Tower.
+
+On the Ace of Cups, a white dove dives head first towards the cup, holding a round wafer marked with a cross. Something given from above, into an open vessel.
+
+On the Nine of Pentacles, a woman in a garden of vines holds a bird on her gloved left hand, its head covered by a red hood: a hunting bird, trained to come back.
+
+Over the Page, the Queen and the King of Swords, small black birds cross the sky: a scattered flock above the Page, one bird high above the Queen, two side by side above the King. Swords are Air, the suit of thinking, and these are thoughts in flight.
+
+On the Wheel of Fortune and the World, an eagle is one of the four creatures in the corners — winged, with an open book, on the Wheel, a head in the clouds on the World. Among the four [fixed](/library/astrological-modes/fixed/) signs, it’s usually read as Scorpio.
+
+{{< cards "ar17 cuac pe09 swpa swqu swki ar10 ar21" >}}
+
+## How to read it {#reading}
+
+When a bird comes up, ask where it is in relation to the person. Flying above them: an idea not caught yet. Coming down, on the Ace of Cups: something arriving that you didn’t have to fetch. On a hand, on the Nine of Pentacles: something wild you’ve learned to keep without a cage.
+
+Lenses: the bird belongs with [Air](/library/four-elements/air-element/) — thinking, deciding, communicating. In my notes Air cuts cleanly and has access to everything at once; it can also block or obsess. A flock over the Page of Swords is a head full of thoughts going every way. Colour: the dove is [white](/library/tarot-colours/white/), which in my grid is purity, innocence, peace — a message that arrives without conditions.
+
+Say someone draws the Nine of Pentacles after a long stretch of work. The bird on the glove might say you’ve earned your freedom and chosen where to spend it. In my notes, this card is enjoying what comes, with gratitude for everything you have.
+
+## The other side {#flip-side}
+
+Birds fly off. The idea that was so clear at two in the morning is gone by breakfast; the promised message never comes. A flock can be noise, too: the thoughts that circle and circle, the King of Swords with an opinion on everything.
+
+The hooded bird has its shadow. Kept on a glove, it’s beautiful, and it isn’t free. Ask who holds whom.
+
+## With the other lenses {#lenses}
+
+A bird is a detail; read it after the colour, the number and the element, never instead of them — [the complete path](/learn-tarot/) puts them in order. Then look again at [the Nine of Pentacles](/library/tarot-cards/nine-of-pentacles/): a snail crawls along the ground below her, and the bird on her hand doesn’t move at all.
+
+{{% six %}}

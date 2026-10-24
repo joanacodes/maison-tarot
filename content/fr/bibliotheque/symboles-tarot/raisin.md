@@ -1,0 +1,60 @@
+---
+title: "Le raisin dans le tarot : ce que le symbole veut dire, et les cartes où il apparaît"
+description: "Le raisin dans le tarot Rider-Waite-Smith : le Roi, le Neuf et le Dix de Pentacles, le Trois de Coupes. Ce que dit une récolte mûre sur le plaisir, et sa lecture."
+translationKey: "sym-grapes"
+type: library
+navTitle: "Le raisin"
+weight: 26
+categories: ["Symboles"]
+tags: ["symboles du tarot", "raisin", "Roi de Pentacles", "Neuf de Pentacles", "Pentacles"]
+h1: "Le raisin — la <em>récolte</em> dont on profite"
+lede: "Le raisin met une saison entière à mûrir, et il faut encore du temps pour en faire du vin. Dans le Rider-Waite-Smith, il couvre la robe du Roi de Pentacles, pend en grappes lourdes dans le jardin du Neuf de Pentacles et se balance au bout d’une main parmi les trois femmes du Trois de Coupes."
+related:
+- /bibliotheque/symboles-tarot
+- /bibliotheque/cartes-tarot/roi-de-pentacles
+- /bibliotheque/cartes-tarot/neuf-de-pentacles
+- /bibliotheque/quatre-elements/element-terre
+faq:
+- q: "Que veut dire le raisin sur le Roi de Pentacles ?"
+  a: "Sa robe est couverte de vignes et de grappes, et d’autres vignes poussent autour de son trône. Je le lis comme une richesse qu’on a fait pousser plutôt que trouvée : le résultat du travail, dont on profite. Dans mes notes, la Terre, c’est la matière et tout ce qui a de la valeur pour vous."
+- q: "Quelles cartes du tarot ont du raisin ?"
+  a: "Dans le Rider-Waite-Smith de 1909 : le Roi de Pentacles, le Neuf de Pentacles, le Dix de Pentacles (dans le motif de la robe du vieil homme) et le Trois de Coupes. Trois sur quatre sont des Pentacles, la série de la Terre et des choses qu’on peut tenir."
+gallery: []
+---
+## Ce que dit le raisin {#definition}
+
+Le raisin, c’est une récolte qu’on ne peut pas brusquer. Une jeune vigne met des années à bien donner, les grappes un été entier à mûrir, et le vin demande encore du temps. **Le raisin dit : quelque chose que vous entretenez depuis longtemps est prêt, et c’est fait pour en profiter, pas seulement pour le mettre de côté.** Pensez à la paulée, le repas de fin de vendanges en Bourgogne : la récolte ne part pas directement à la cave, on la fête d’abord avec ceux qui ont coupé les grappes.
+
+C’est aussi un fruit qui se partage. Personne ne mange une grappe d’une seule bouchée.
+
+## Où il apparaît dans le jeu {#ou}
+
+Sur [le Roi de Pentacles](/fr/bibliotheque/cartes-tarot/roi-de-pentacles/), le raisin est partout. Sa robe sombre est couverte de vignes et de grappes, d’autres vignes grimpent autour d’un trône sculpté de têtes de taureau, et un château se dresse derrière lui. La carte la plus prospère du jeu est habillée en vignoble.
+
+Sur le Neuf de Pentacles, une femme se tient dans un jardin de vignes chargées de grappes, un oiseau encapuchonné sur sa main gantée. Dans mes notes, cette carte, c’est profiter de ce qui vient, avec de la gratitude pour tout ce qu’on a.
+
+Sur le Dix de Pentacles, des grappes font partie du motif de la robe du vieil homme, au premier plan, au milieu de la famille, des chiens et de l’arche. La récolte transmise.
+
+Sur le Trois de Coupes, la femme de droite tient une grappe dans sa main baissée, et d’autres raisins traînent aux pieds des trois femmes, à côté d’une citrouille et d’autres fruits. La récolte en fête.
+
+{{< cards "peki pe09 pe10 cu03" >}}
+
+## Comment le lire {#lecture}
+
+Quand du raisin sort, demandez-vous si une récolte est prête, et si quelqu’un s’autorise à en profiter. Sur les Pentacles, le raisin est une richesse qu’on a fait pousser : le Roi la porte, la femme du Neuf s’y promène, le vieil homme du Dix l’a transmise. Sur le Trois de Coupes, c’est le plaisir partagé entre amies.
+
+Les clés de lecture : trois des quatre cartes sont [Terre](/fr/bibliotheque/quatre-elements/element-terre/), les Pentacles. Dans mes notes, la Terre, c’est la matière, la prospérité, tout ce qui a de la valeur pour vous, en argent ou en sentiment — et toutes les richesses ne sont pas de l’or. Le nombre : le 9 est la ligne d’arrivée, le 10 le passage vers la suite, et le [3](/fr/bibliotheque/numerologie/chiffre-3/), un bon rythme, la machine qui tourne.
+
+Imaginons que quelqu’un tire le Roi de Pentacles après des années à construire une petite entreprise. Le raisin pourrait dire : la récolte, c’est maintenant. Comptez-la, puis autorisez-vous à y goûter.
+
+## L’autre face {#revers}
+
+Le raisin peut rester sur la vigne. La personne qui travaille pour la récolte et ne s’arrête jamais pour en profiter ; l’épargne à laquelle personne n’a le droit de toucher. Ou l’inverse : une récolte fêtée avant d’être rentrée, le Trois de Coupes qui danse encore alors que le travail n’est pas fini. Dans mes notes, le revers du 3, c’est lancer de nouveaux projets avant d’avoir fini les autres.
+
+Et un fruit mûr ne se garde pas. Ce qu’on ne cueille pas à temps pourrit sur pied.
+
+## Avec les autres clés {#cles}
+
+Le raisin est un détail ; lisez-le après la couleur, le nombre et l’élément — [le parcours complet](/fr/apprendre-le-tarot/) explique l’ordre. Puis regardez [le Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/) : elle se tient au milieu des vignes, et ne cueille rien.
+
+{{% six %}}

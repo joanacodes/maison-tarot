@@ -1,0 +1,64 @@
+---
+title: "The lily in tarot: what the symbol means, and the cards where it appears"
+description: "The lily in the Rider-Waite-Smith tarot: the Magician’s garden, the Ace of Pentacles, the Two of Wands, the Ace of Cups’ water lilies. What it says, how to read it."
+translationKey: "sym-lily"
+type: library
+navTitle: "The lily"
+weight: 23
+categories: ["Symbols"]
+tags: ["tarot symbols", "lily", "The Magician", "Ace of Pentacles", "tarot symbolism"]
+h1: "The lily — <em>clarity</em> that doesn’t shout"
+lede: "The lily is the white flower of the deck: upright, clear, quiet. In the Rider-Waite-Smith it grows beside the Magician’s roses, in the garden of the Ace of Pentacles, on a carved stone in the Two of Wands — and floats as water lilies under the Ace of Cups."
+related:
+- /library/tarot-symbols
+- /library/tarot-cards/the-magician
+- /library/tarot-cards/ace-of-pentacles
+- /library/tarot-symbols/rose
+faq:
+- q: "What do lilies mean in tarot?"
+  a: "Lilies are white, and white in my colour grid is purity, innocence and peace. In the Rider-Waite-Smith they often grow next to red roses: clear intent beside desire. I read them as intentions that are clean, not as a moral judgement on anyone."
+- q: "Are the yellow flowers on Temperance lilies?"
+  a: "They’re irises, a different plant, drawn by the water on the right of the card. I don’t count them as lilies."
+gallery: []
+---
+## What the lily says {#definition}
+
+A lily is a tall white flower that stands straight on its stem. It’s a wedding flower, and in old paintings of the Annunciation the angel often holds one. **The lily says: the intention here is clear — nothing hidden in the petals.** Think of a white shirt on the first day of a new job: it says you’re starting clean, and everyone can see it.
+
+Clear isn’t the same as soft. A lily holds itself up.
+
+## Where it appears in the deck {#where}
+
+On [the Magician](/library/tarot-cards/the-magician/), white lilies grow among the red roses in the garden at his feet. The man with every tool on his table has both flowers: desire and clear intent, grown together.
+
+On [the Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/), white lilies grow in the garden below the hand holding the coin, in front of a hedge with an arch that opens onto the mountains. A material gift, planted in a clean garden.
+
+On the Two of Wands, a cross of flowers is carved in the stone on the left: red ones and white trumpet-shaped ones, usually read as roses and lilies. The man holding the globe has both built into his wall.
+
+On the Hierophant, the tonsured figure on the right wears a robe patterned with white flowers, usually read as lilies; the one on the left wears roses. Two disciples, two flowers.
+
+On the Ace of Cups, water lilies float on the pond below the overflowing cup, red blooms among round green pads. Not the same plant as the garden lily, and the deck puts them exactly where the water lands.
+
+{{< cards "ar01 peac wa02 ar05 cuac" >}}
+
+Two I leave out: Temperance’s yellow flowers are irises, and the white flowers in the Six of Cups are drawn as five-pointed stars.
+
+## How to read it {#reading}
+
+When lilies come up, ask whether something is being kept clear. On the Magician and the Two of Wands, they stand beside roses: a decision where wanting and seeing straight have to share the same garden. On the Ace of Pentacles, they frame a new start in practical life — money, work, a home — begun cleanly.
+
+Lenses: the lily is [white](/library/tarot-colours/white/), purity, innocence and peace in my grid. Number: the Two of Wands is 2, and in [my numerology table](/library/numerology/number-2/) 2 is the contract: read it before you sign. A lily on a 2 might say: make sure the deal is as clean as it looks.
+
+Say someone draws the Ace of Pentacles before starting a business with a friend. The lilies might say: begin it straight, with everything written down, while everyone is still on good terms.
+
+## The other side {#flip-side}
+
+A lily can be purity as a pose. The white shirt that mustn’t get dirty; the person who would rather look innocent than take part. Clear intentions don’t excuse what you then do with them.
+
+There’s a quieter shadow too. A white flower among red ones can be the voice that says no to every desire and calls it being reasonable.
+
+## With the other lenses {#lenses}
+
+A lily is a detail; read it after the colour, the number and the element — [the complete path](/learn-tarot/) explains the order. Then read [the rose](/library/tarot-symbols/rose/) page: in this deck, the two flowers rarely grow apart.
+
+{{% six %}}

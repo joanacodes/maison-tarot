@@ -1,0 +1,64 @@
+---
+title: "The path in tarot: what the symbol means, and the cards where it appears"
+description: "The path in the Rider-Waite-Smith tarot: Temperance, the Moon, the Ace and Eight of Pentacles, and the Eight of Cups with no road. What it says, and how to read it."
+translationKey: "sym-path"
+type: library
+navTitle: "The path"
+weight: 28
+categories: ["Symbols"]
+tags: ["tarot symbols", "path", "Temperance", "The Moon", "tarot symbolism"]
+h1: "The path — the way is <em>drawn</em>, the walking isn’t"
+lede: "A path is a way someone has walked before you. In the Rider-Waite-Smith it winds from a pool to the mountains on Temperance and the Moon, runs through a garden arch on the Ace of Pentacles, and leads off to town behind the Eight of Pentacles."
+related:
+- /library/tarot-symbols
+- /library/tarot-cards/temperance
+- /library/tarot-cards/the-moon
+- /library/tarot-symbols/mountain
+faq:
+- q: "What does the path on the Moon card mean?"
+  a: "It starts at the pool where a crayfish climbs out, passes between a dog and a wolf, runs between two towers and disappears into the mountains. I read it as a way forward that exists even when the light is poor: you can’t see the end, and the path is there anyway."
+- q: "Is the path on Temperance the same as the one on the Moon?"
+  a: "They’re drawn alike: both start at the water and wind up towards the mountains. On Temperance a light rises at the end and the scene is calm; on the Moon the path runs between howling animals. Same journey, different weather."
+gallery: []
+---
+## What the path says {#definition}
+
+A path is a line on the ground made by people walking the same way. Nobody designs it; it appears because it works. **The path says: there’s a way through, and you don’t have to invent it — but you still have to walk it.** Think of the track worn across a park lawn between the station and the bakery: the council never drew it, and everyone uses it.
+
+On a card, ask three things: where the path starts, where it goes, and whether anyone is on it.
+
+## Where it appears in the deck {#where}
+
+On [Temperance](/library/tarot-cards/temperance/), a path climbs from the pool where the angel stands, through green hills, towards two peaks with a rayed light rising between them. Nobody is walking it yet.
+
+On [the Moon](/library/tarot-cards/the-moon/), the path starts at the pool where a crayfish climbs out, passes between a dog and a wolf, runs between two towers and disappears into the mountains. The same journey as Temperance, at night.
+
+On the Ace of Pentacles, a yellow path crosses the garden below the hand and goes through an arch in the hedge, towards the mountains beyond. A new start, with the way out already marked.
+
+On the Eight of Pentacles, behind the craftsman at his bench, a road leads off to a small town on the left. The work happens here; the people who’ll buy it are at the end of that road.
+
+And one card without a path: on the Eight of Cups, a man walks away from his cups towards rocky mountains, and nothing is drawn under his feet. He’s making his own.
+
+{{< cards "ar14 ar18 peac pe08 cu08" >}}
+
+The peaks these paths lead to have [their own page](/library/tarot-symbols/mountain/).
+
+## How to read it {#reading}
+
+When a path comes up, look at where it starts, whether there’s light at the end, and who’s on it. On Temperance and the Moon it starts at the water, the emotions, and climbs to the mountains: from what you feel to what you aim for. On the Ace of Pentacles it starts in a garden: a material beginning, with the gate already open.
+
+Lenses: Temperance is [Fire](/library/four-elements/fire-element/), the Moon is Water, the Ace of Pentacles is Earth. The same path can be an impulse to follow (Fire), a feeling you trust without seeing far (Water), or a practical plan (Earth). Number: the Eight of Pentacles is 8 — in my notes, mastery and the effort it takes. Its road is where good work ends up going.
+
+Say someone draws the Moon while unsure about moving to another city. The path might say: the way exists, even if tonight you can only see the next few steps.
+
+## The other side {#flip-side}
+
+A path is also the way everyone goes. It can be the career someone else chose for you, the script you follow because it’s worn smooth. Following a path isn’t the same as choosing it.
+
+And a path with nobody on it, like Temperance’s and the Moon’s, can stay a view. You can spend a long time admiring where a road goes.
+
+## With the other lenses {#lenses}
+
+A path is a detail; read it after the colour, the number and the element — [the complete path](/learn-tarot/) gives the order, and that one is meant to be walked. Then look at [the Eight of Cups](/library/tarot-cards/eight-of-cups/): in my notes it’s moving on from what you’re already doing, and nobody drew him a road.
+
+{{% six %}}
