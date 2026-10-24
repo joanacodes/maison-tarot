@@ -29,7 +29,7 @@ Mine was a Christmas present from friends, picked off my wishlist. I was expecti
 
 I started reading on 26 December 2020, the day after. I'd assumed I would need some training before anything landed. My first reading landed anyway.
 
-So yes, on paper I'm an example of the myth. But that deck was on my wishlist because I'd chosen it. My friends did the paying; I'd done the wanting. Had they gone for the astrology book, a deck bought in the shops would have read the same way, because what happened at that table came from looking, letting go and saying what came, not from the wrapping paper.
+So yes, on paper I'm an example of the myth. But that deck was on my wishlist because I'd chosen it. My friends did the paying; I'd done the wanting. Had they gone for the astrology book, a deck bought in the shops would have read the same way, because what happened in those first readings came from looking, letting go and saying what came, not from the wrapping paper.
 
 ## Is it bad luck to buy your own tarot deck? {#bad-luck}
 
@@ -53,7 +53,7 @@ Some people also feel a new deck has to be "bonded" with before it reads: slept 
 
 As for cleansing: I sold sage in 2021, and I stopped, because nothing in it improved a single reading. [Why I stopped, and what I do instead](/blog/cleanse-tarot-deck/).
 
-Letting other people touch your cards is a matter of comfort or hygiene, not luck. [I explain my own habit here](/blog/let-others-touch-tarot-cards/). And if a deck ever feels "off", it's usually you who needs a break, not the cards.
+Letting other people touch your cards is a matter of comfort or hygiene, not luck, and [whether to let others handle your deck](/blog/let-others-touch-tarot-cards/) has its own page. And if a deck ever feels "off", it's usually you who needs a break, not the cards.
 
 ## Buying a deck: what to look for {#buying}
 

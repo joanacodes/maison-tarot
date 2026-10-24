@@ -68,4 +68,6 @@ Le chef, le leader, la figure d’autorité qui prend les décisions que personn
 
 Le Deux d’Épées, pour quelqu’un qui ne vous a rien dit. *Deux* : la coopération, se lier, peser le pour et le contre. *Air* : le mental, la décision. Vous pouvez déjà parler d’un choix qu’on repousse en fermant les yeux, de deux options qu’on tient à égale distance. Rien de mémorisé.
 
+{{< cards "sw02" >}}
+
 {{% six %}}

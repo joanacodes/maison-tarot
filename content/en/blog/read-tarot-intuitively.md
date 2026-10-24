@@ -19,7 +19,7 @@ Intuitive reading is reading from the impressions a card gives you rather than f
 
 Those impressions come in different shapes. Some people see images, some hear a word or a sentence, some feel a sensation in the body or an emotion, now and then even a smell. Most of us are sharper in one channel than the others, and no channel is better.
 
-Say you draw the Eight of Swords. A book will tell you something like restriction. You look, and notice the blindfold, the loose ropes, the swords that don't quite close the circle. What comes might be: "Someone waiting for a permission they don't need." That sentence is yours, and it's what a reading is made of. My own note on this card is close: a prisoner of yourself while you hold every tool — you can take the blindfold off.
+Say you draw the Eight of Swords. A book will tell you something like restriction. You look, and notice the blindfold, the feet left free, the swords that don't quite close the circle. What comes might be: "Someone waiting for a permission they don't need." That sentence is yours, and it's what a reading is made of. My own note on this card is close: a prisoner of yourself while you hold every tool — you can take the blindfold off.
 
 {{< cards "sw08" >}}
 

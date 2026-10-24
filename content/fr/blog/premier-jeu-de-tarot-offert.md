@@ -29,7 +29,7 @@ Le mien était un cadeau de Noël offert par des amis, choisi sur ma liste. Je m
 
 J’ai commencé à tirer les cartes le 26 décembre 2020, le lendemain. Je pensais qu’il me faudrait un peu d’apprentissage avant que quoi que ce soit tombe juste. Ma première lecture est tombée juste quand même.
 
-Alors oui, sur le papier, je suis un exemple du mythe. Mais ce jeu était sur ma liste parce que je l’avais choisi. Mes amis ont payé ; moi, j’avais eu envie. S’ils avaient pris le livre d’astrologie, un jeu acheté en boutique se serait lu de la même manière, parce que ce qui s’est passé à cette table venait du regard, du lâcher-prise et de ce que j’osais dire, pas du papier cadeau.
+Alors oui, sur le papier, je suis un exemple du mythe. Mais ce jeu était sur ma liste parce que je l’avais choisi. Mes amis ont payé ; moi, j’avais eu envie. S’ils avaient pris le livre d’astrologie, un jeu acheté en boutique se serait lu de la même manière, parce que ce qui s’est passé dans ces premières lectures venait du regard, du lâcher-prise et de ce que j’osais dire, pas du papier cadeau.
 
 ## Acheter son propre jeu de tarot porte-t-il malheur ? {#malheur}
 
@@ -53,7 +53,7 @@ Certaines personnes pensent aussi qu’il faut « se lier » à un nouveau jeu a
 
 Quant à la purification : en 2021, je vendais de la sauge, et j’ai arrêté, parce que rien là-dedans n’améliorait une seule lecture. [Pourquoi j’ai arrêté, et ce que je fais à la place](/fr/blog/purifier-son-jeu-de-tarot/).
 
-Laisser d’autres personnes toucher vos cartes est une question de confort ou d’hygiène, pas de chance. [J’explique ma propre habitude ici](/fr/blog/laisser-toucher-ses-cartes-tarot/). Et si un jeu vous semble un jour « bizarre », c’est en général vous qui avez besoin d’une pause, pas les cartes.
+Laisser d’autres personnes toucher vos cartes est une question de confort ou d’hygiène, pas de chance, et [la question de laisser toucher son jeu](/fr/blog/laisser-toucher-ses-cartes-tarot/) a sa propre page. Et si un jeu vous semble un jour « bizarre », c’est en général vous qui avez besoin d’une pause, pas les cartes.
 
 ## Acheter un jeu : quoi regarder {#acheter}
 

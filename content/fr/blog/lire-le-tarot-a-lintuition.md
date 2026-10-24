@@ -19,7 +19,7 @@ La lecture intuitive consiste à lire à partir des impressions que la carte vou
 
 Ces impressions prennent des formes différentes. Certaines personnes voient des images, d’autres entendent un mot ou une phrase, d’autres encore ressentent une sensation dans le corps, une émotion, parfois même une odeur. On est presque tous plus affûtés dans un canal que dans les autres, et aucun ne vaut mieux qu’un autre.
 
-Imaginons que vous tiriez le Huit d’Épées. Un livre vous parlera d’entrave. Vous regardez, et vous remarquez le bandeau, les liens lâches, les épées qui ne ferment pas tout à fait le cercle. Il vous vient peut-être : « Quelqu’un qui attend une permission dont il n’a pas besoin. » Cette phrase est la vôtre, et c’est de ça qu’une lecture est faite. Ma propre note sur cette carte n’en est pas loin : prisonnier de soi-même alors qu’on a tous les outils — on peut retirer le bandeau.
+Imaginons que vous tiriez le Huit d’Épées. Un livre vous parlera d’entrave. Vous regardez, et vous remarquez le bandeau, les pieds laissés libres, les épées qui ne ferment pas tout à fait le cercle. Il vous vient peut-être : « Quelqu’un qui attend une permission dont il n’a pas besoin. » Cette phrase est la vôtre, et c’est de ça qu’une lecture est faite. Ma propre note sur cette carte n’en est pas loin : prisonnier de soi-même alors qu’on a tous les outils — on peut retirer le bandeau.
 
 {{< cards "sw08" >}}
 

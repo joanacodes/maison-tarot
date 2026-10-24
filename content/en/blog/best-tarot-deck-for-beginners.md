@@ -21,7 +21,7 @@ The same goes for the cards around it.
 
 {{< cards "cu05 pe05 sw08" >}}
 
-The Five of Pentacles shows two figures in the snow passing a lit church window: poverty, cold, and the place where warmth could be found. The Eight of Swords shows a blindfolded figure surrounded by swords, the ropes loose: a prisoner of yourself while you hold every tool. Nobody needs to teach you those. You see them.
+The Five of Pentacles shows two figures in the snow passing a lit church window: poverty, cold, and the place where warmth could be found. The Eight of Swords shows a blindfolded figure surrounded by swords, bound but with her feet free: a prisoner of yourself while you hold every tool. Nobody needs to teach you those. You see them.
 
 **A scene is something you can read the first evening; a symbol is something you have to learn first.** That's the whole reason I start people here.
 

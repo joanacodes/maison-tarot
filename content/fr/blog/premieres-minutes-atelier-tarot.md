@@ -1,6 +1,6 @@
 ---
 title: "Les dix premières minutes d’un atelier de tarot : une carte avant toute explication"
-description: "Pourquoi un atelier Maison Tarot vous met une carte entre les mains avant toute explication, ce que ces dix premières minutes vous demandent, et pourquoi personne ne les rate."
+description: "Pourquoi un atelier Maison Tarot commence par une carte entre vos mains, avant toute explication, ce que demandent ces dix minutes, et pourquoi personne ne les rate."
 translationKey: "post-first-ten-minutes-tarot-workshop"
 type: blog
 date: 2026-10-24
@@ -9,7 +9,7 @@ tags: ["atelier tarot", "apprendre le tarot", "cours de tarot", "tarot débutant
 image: "covers/first-ten-minutes-tarot-workshop.jpg"
 imageAlt: "Des personnes assises le long d’une grande table en bois, chacune avec une carte de tarot retournée devant elle"
 imagePrompt: "People seen from above seated along a long wooden table, each with a single tarot card face up in front of them and their hands resting on the wood. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Dans un atelier Maison Tarot, vous tirez une carte dans les dix premières minutes, avant la moindre explication. Pas de significations à apprendre, pas de théorie d’abord : vous regardez la carte et vous dites ce qu’il y a dessus, ce que vous y voyez et ce qui vous vient. Je procède dans cet ordre parce que ce qu’on ressent à ce moment-là ne se raconte pas, il se vit, et parce qu’une explication donnée en premier devient une leçon qu’on récite. La clé de lecture du jour — couleurs, nombres, ou éléments et énergies — vient ensuite, et elle se pose sur quelque chose que vous avez déjà remarqué vous-même."
+summary: "Dans un atelier Maison Tarot, vous tirez une carte dans les dix premières minutes, avant la moindre explication. Pas de significations à apprendre, pas de théorie d’abord : vous regardez la carte et vous dites ce qu’il y a dessus, ce que vous y voyez et ce qui vous vient. Je procède ainsi parce que ce qu’on ressent à ce moment-là ne se raconte pas, il se vit, et parce qu’une explication donnée d’abord devient une leçon qu’on récite. La clé de lecture du jour — couleurs, nombres, ou éléments et énergies — vient ensuite, et elle se pose sur quelque chose que vous avez déjà remarqué vous-même."
 ---
 Un atelier Maison Tarot ne commence pas par un exposé, mais par une carte entre vos mains. Dans les dix premières minutes, vous en tirez une, vous la regardez, et vous en dites quelque chose — avant que j’aie expliqué quoi que ce soit. L’explication vient après, et elle n’en porte que mieux.
 
@@ -19,7 +19,7 @@ Parce qu’une explication donnée en premier devient une récitation. Si j’ou
 
 Une carte posée seule, sans rien autour, vous laisse face à la seule chose qui compte : l’image, et ce qui monte quand vous la regardez. Le savoir-faire est là. Tout ce que j’enseigne ensuite sert à le soutenir, jamais à le remplacer.
 
-Il y a une deuxième raison, et c’est la raison même pour laquelle j’enseigne. Quand j’ai commencé à faire essayer mes amis et ma famille, il y avait toujours un moment où l’un d’eux disait quelque chose de juste et restait saisi par ce qui venait de sortir de sa propre bouche. Ce moment, je peux le décrire ; je ne peux pas vous le transmettre. **Ça ne se raconte pas : il faut l’essayer.**
+Il y a une deuxième raison, et c’est la raison même pour laquelle j’enseigne. Quand j’ai commencé à faire essayer mes amis et ma famille, il y avait toujours un moment où l’un d’eux disait quelque chose de juste et restait saisi par ce qui venait de sortir de sa propre bouche. Ce moment, je peux le décrire ; je ne peux pas vous le transmettre. **Ça ne se raconte pas : ça se vit.**
 
 ## Ce que ces dix minutes vous demandent {#ce-que-vous-faites}
 
@@ -37,7 +37,7 @@ C’est tout l’intérêt. Toutes les personnes que j’ai aidées à lire y so
 
 Deux choses peuvent se passer, et les deux vont très bien.
 
-Quelque chose vient. Vous le dites, un peu étonné de l’avoir dit, sans trop savoir d’où ça sort. Parfait : c’est pour ça que vous êtes venu.
+Quelque chose vient. Vous le dites, avec un peu de surprise, sans trop savoir d’où ça sort. Parfait : c’est pour ça qu’on est là.
 
 Rien ne vient. Ça arrive aussi, et c’est presque toujours la pression : vous voulez bien faire, alors la porte reste fermée. Décrivez alors ce qu’il y a sur la carte — les couleurs, le personnage, le décor. Ça compte déjà, et on en parle ensemble. J’ai écrit un article sur [ce qu’on peut faire quand on ne ressent rien](/fr/blog/je-ne-ressens-rien-tarot/).
 
@@ -61,4 +61,4 @@ Il vous faut un jeu Rider-Waite-Smith ; si vous n’en avez pas, dites-le à la 
 
 Si vous voulez goûter à ces dix minutes chez vous, tirez une carte ce soir et faites les trois temps à voix haute : ce qu’il y a dessus, ce que vous y voyez, ce que vous recevez. [Comment lire le tarot quand on débute](/fr/blog/apprendre-a-lire-le-tarot-debutant/) vous donne la phrase à vous dire avant de commencer. Et si vous préférez regarder avant d’essayer, les [événements gratuits](/fr/evenements/) sont l’endroit où les tirages se font devant du monde.
 
-Quand vous serez prêt pour les trois heures, les dates et les formats sont sur la [page des ateliers](/fr/ateliers/). Venez avec un jeu et votre curiosité ; c’est en forgeant qu’on devient forgeron.
+Quand vous aurez envie des trois heures complètes, les dates et les formats sont sur la [page des ateliers](/fr/ateliers/). Venez avec un jeu et votre curiosité ; c’est en forgeant qu’on devient forgeron.
