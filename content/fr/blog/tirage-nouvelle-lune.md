@@ -35,7 +35,7 @@ Avant de lire les cartes une par une, lisez-les comme une ligne. Les nombres mon
 
 Une fois les trois cartes lues, refermez le jeu et écrivez une phrase dans votre carnet. C’est l’intention.
 
-Une intention, ici, est une phrase sur ce que vous allez faire, pas sur ce que vous allez recevoir. « Je serai plus sûre de moi » est un souhait. « Je prendrai la parole en premier à la réunion de lundi » est une intention. Trois règles la font tenir :
+Une intention, ici, est une phrase sur ce que vous allez faire, pas sur ce que vous allez recevoir. « J’aurai plus confiance en moi » est un souhait. « Je prendrai la parole en premier à la réunion de lundi » est une intention. Trois règles la font tenir :
 
 - Un verbe qui dépend de vous. Pas « il va appeler », pas « l’argent va arriver ».
 - Quelque chose que vous pourrez vérifier dans deux semaines, à la pleine lune, puis dans quatre, à la nouvelle lune suivante.

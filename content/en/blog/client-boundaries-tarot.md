@@ -19,7 +19,7 @@ There are subjects I don't read on: health, death, pregnancy and fertility, ongo
 
 The reason is arithmetic more than principle. By my own count, about one reading in ten misses. On a question about a new job, a miss costs a shrug. On a question about a scan, a pregnancy or a trial, a miss can make someone wait when they should act, or panic when they could rest. I've written more about [why careful readers step back from health, pregnancy and death](/blog/health-pregnancy-death-tarot/).
 
-Two other moments call for a boundary even when the topic is fine. Someone in acute distress, for whom a reading is the wrong tool that day. And someone who comes back with the same question again and again, almost fidgety. What runs through them is a high dose of doubt, and what they need is to breathe, to decide, or to go through the thing they're afraid of. I usually decline then. Another card won't give them any of that.
+Two other moments call for a boundary even when the topic is fine. Someone in acute distress, for whom a reading is the wrong tool that day. And someone who comes back with the same question again and again, almost fidgety, with a high dose of doubt running through them. What they need is to breathe, decide, or go through the thing they're afraid of, so I usually decline then.
 
 **A boundary isn't a verdict on the person; it's a fact about the tool.**
 
@@ -55,7 +55,6 @@ Good words rarely arrive in the moment if you haven't found them before. A few I
 - "That one's for a lawyer. They have the file; I'd only have a picture. Shall we look at what's helping you keep going?"
 - "I can hear how much you want to know what he feels. I'd rather read what you feel. That's the part I can see, and the part you can act on."
 - "We looked at this together last week. I don't think another reading will give you what you're after. What would you do if no card had ever been drawn?"
-- "I don't read on money decisions. A financial adviser will go through the numbers with you. What I can do is help you notice what you already feel about it."
 
 Leave out the sentences that shut a door in someone's face: "I can't help you", "that's not allowed", "you shouldn't have asked". Nobody should feel told off for asking. Keep your face soft, too: people read a reader's face more closely than any card.
 
