@@ -19,7 +19,31 @@ faq:
   a: "Les lys sont blancs, et le blanc, dans ma grille des couleurs, c’est la pureté, l’innocence et la paix. Dans le Rider-Waite-Smith, ils poussent souvent à côté de roses rouges : l’intention claire à côté du désir. Je les lis comme des intentions nettes, pas comme un jugement moral sur qui que ce soit."
 - q: "Les fleurs jaunes de Tempérance sont-elles des lys ?"
   a: "Ce sont des iris, une autre plante, dessinés au bord de l’eau à droite de la carte. Je ne les compte pas comme des lys."
-gallery: []
+gallery:
+- src: "visuals/sym-lily/1.jpg"
+  title: "Bien droit"
+  text: "Un lys blanc, seul et droit dans un verre : une intention claire, rien de caché dans les pétales."
+  prompt: "A single tall white lily standing perfectly upright in a plain glass of water on a bare wooden windowsill, morning daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lily/2.jpg"
+  title: "Devant tout le monde"
+  text: "Des lys blancs à un mariage en mairie : une intention dite à voix haute, sous les yeux de tous."
+  prompt: "A small bouquet of white lilies held in two hands at the side of a plain wedding dress, on the steps of a town hall, the couple seen from behind, faces out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lily/3.jpg"
+  title: "Clair, pas mou"
+  text: "Un lys bien droit dans le vent quand les fleurs autour plient : clair ne veut pas dire mou."
+  prompt: "A tall white garden lily standing straight on its stem in a gusty wind while the wild grasses and daisies around it bend flat, overcast daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lily/4.jpg"
+  title: "L’envie et la lucidité"
+  text: "Des roses rouges et des lys blancs dans le même massif : l’envie et la lucidité partagent le jardin."
+  prompt: "A cottage garden bed where red roses and tall white lilies grow side by side, tangled together, a watering can at the edge, soft late-afternoon sunlight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lily/5.jpg"
+  title: "Lire avant de signer"
+  text: "Les mains de deux amis sur des papiers, des lys sur la table : commencer droit, tout par écrit."
+  prompt: "Two pairs of hands on a kitchen table over a few pages of blurred, unreadable typescript, one hand holding a pen, a vase of white lilies beside them, daylight from a window. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-lily/6.jpg"
+  title: "Une pureté de façade"
+  text: "Un jour de déménagement, quelqu’un en chemise blanche ne porte que les lys : l’air innocent, sans prendre part."
+  prompt: "On moving day in a narrow stairwell, a person in a spotless white shirt carries only a small vase of white lilies while two others behind strain under a heavy sofa, all seen from behind or from the side, faces not visible. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit le lys {#definition}
 

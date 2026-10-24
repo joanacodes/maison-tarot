@@ -19,7 +19,31 @@ faq:
   a: "On both cards two towers stand on the horizon: a sun between them on Death, the path running between them into the mountains on the Moon. I read them as a gateway seen from far off — the way out of the card goes between them."
 - q: "Is the tower symbol always bad news, like the Tower card?"
   a: "No. The Tower card shows a tower struck and falling; the towers elsewhere in the deck are standing. Depending on the card they’re a shelter, a lookout or a boundary. What they share is that they mark the edge of a protected place."
-gallery: []
+gallery:
+- src: "visuals/sym-tower/1.jpg"
+  title: "Finding your way by it"
+  text: "A village church tower seen across the fields: seen from far, it’s what you find your way by."
+  prompt: "A stone village church tower rising above rooftops seen across open wheat fields, a cyclist on a farm track heading towards it, seen from behind, clear daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-tower/2.jpg"
+  title: "Watching the horizon"
+  text: "A lighthouse on a headland: built to protect and to watch the horizon, as long as it still serves."
+  prompt: "A white stone lighthouse standing on a rocky headland above a grey-green sea, a long view of the horizon, daylight with broken clouds, a small fishing boat far out. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-tower/3.jpg"
+  title: "Up in the tower"
+  text: "Someone at the top of an old tower looking over a harbour: a safe place to plan from."
+  prompt: "A person seen from behind leaning on the stone parapet at the top of an old harbour tower, looking out over moored boats and open water, wind in their coat, bright daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-tower/4.jpg"
+  title: "Taking the stairs down"
+  text: "Feet starting down a worn spiral staircase: safe up there, the question is whether you’ll come down."
+  prompt: "Looking down a narrow worn stone spiral staircase inside a tower, a pair of walking boots on the top steps about to go down, daylight from a slit window. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-tower/5.jpg"
+  title: "Out of reach"
+  text: "A ruined keep across the river, seen from the other bank: a shelter you can’t reach from where you stand."
+  prompt: "A ruined stone keep standing on the far side of a wide river, no bridge in sight, a person on the near bank seen from behind, hands in the pockets of a dark coat, overcast daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-tower/6.jpg"
+  title: "Cracked from inside"
+  text: "An old stone tower wrapped in scaffolding: a structure built only to keep people out ends up cracking."
+  prompt: "An old square stone tower wrapped in scaffolding, a long crack running down its wall, two workers on the scaffold seen from behind, grey daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the tower says {#definition}
 

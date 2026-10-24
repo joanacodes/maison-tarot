@@ -19,7 +19,31 @@ faq:
   a: "Death’s black banner carries a large white rose with five petals. I read it as what survives the ending: in my notes Death is linked to the harvest and to starting again, not to dying."
 - q: "What is the difference between red and white roses in tarot?"
   a: "In my colour grid, red is passion, action and drive, and white is purity, innocence and peace. A red rose wants something; a white rose promises something. On the Magician, red roses grow beside white lilies: desire and clarity in the same garden."
-gallery: []
+gallery:
+- src: "visuals/sym-rose/1.jpg"
+  title: "Given on purpose"
+  text: "A bunch of red roses carried down a street: nobody gives a dozen by accident."
+  prompt: "A person seen from behind walking down a city street in late afternoon light with a large bunch of red roses wrapped in brown paper held against their side. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-rose/2.jpg"
+  title: "Tended for years"
+  text: "Gloved hands pruning an old climbing rose against a wall: roses like that don’t grow on their own."
+  prompt: "Hands in worn leather gardening gloves pruning an old climbing rose trained along a sunlit stone wall, secateurs in one hand, bare winter canes and a few red rose hips. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-rose/3.jpg"
+  title: "Colour first"
+  text: "Red and white roses side by side at a market stall: a red rose wants, a white rose promises."
+  prompt: "Two zinc buckets side by side at a flower market stall, one full of deep red roses and one full of white roses, morning daylight, the apron of the vendor at the edge of the frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-rose/4.jpg"
+  title: "Tenderness, worn"
+  text: "Hands pinning a small rose to a lapel: worn, the rose is a bond made of tenderness."
+  prompt: "Close view of one pair of hands pinning a small red rose to the lapel of a dark jacket worn by another person, both faces out of frame, soft window light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-rose/5.jpg"
+  title: "The thorns"
+  text: "Thorns stripped from a stem at a florist’s bench: a rose pricks whoever holds it carelessly."
+  prompt: "The hands of a florist stripping thorns from a long red rose stem with a small knife over a wooden workbench scattered with cut thorns and leaves. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-rose/6.jpg"
+  title: "A garden you never leave"
+  text: "A chair under a heavy rose arbour, the gate grown over: comfort so thick you never leave."
+  prompt: "An empty garden chair under a dense arbour heavy with red roses, the garden gate behind it almost hidden under climbing stems, warm afternoon light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the rose says {#definition}
 

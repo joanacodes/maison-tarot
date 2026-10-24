@@ -19,7 +19,31 @@ faq:
   a: "People often ask this out of hope or worry, and I understand why. I don’t read on pregnancy or fertility: a doctor can answer that, and a card can’t. What a child in a reading can hold is a beginning, a younger part of you, or someone you look after."
 - q: "Which tarot cards show children?"
   a: "In the 1909 Rider-Waite-Smith: the Sun, Death, Judgement, the Six of Cups, the Ten of Cups, the Ten of Pentacles and the Six of Swords. A child’s face is also carved into the Queen of Swords’ throne."
-gallery: []
+gallery:
+- src: "visuals/sym-child/1.jpg"
+  title: "Beside an adult"
+  text: "A small hand in a big one at a crossing: something young, beside an adult — look at which one."
+  prompt: "Close view of the small hand of a child holding two fingers of an adult hand at a pedestrian crossing, only hands, sleeves and the striped road in frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-child/2.jpg"
+  title: "First steps"
+  text: "A toddler’s first steps, an adult’s hands hovering behind: a beginning, a project or idea finding its feet."
+  prompt: "A toddler seen from behind taking first unsteady steps across a wooden floor, arms out for balance, the hands of an adult hovering close behind, face not visible, soft window light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-child/3.jpg"
+  title: "The past, with flowers"
+  text: "A child’s hand giving wild flowers to a smaller hand: a memory coming back with flowers in its hands."
+  prompt: "Close view of a child hand holding out a small bunch of white wild flowers to an even smaller child hand, an old stone village lane blurred behind, only hands and sleeves in frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-child/4.jpg"
+  title: "Carried across"
+  text: "A parent rowing, a small bundled figure beside them: a child who depends on an adult’s choices."
+  prompt: "A small wooden rowing boat crossing a calm grey lake, seen from behind, an adult at the oars and a small child bundled in a coat and hood beside them, both facing away, soft overcast light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-child/5.jpg"
+  title: "Before anyone marked it"
+  text: "A child absorbed in drawing, seen from behind: go back to what you loved before anyone marked it."
+  prompt: "A child seen from behind lying on a wooden floor, absorbed in a drawing with wax crayons scattered around, face hidden, warm afternoon light from a window. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-child/6.jpg"
+  title: "Stuck on the swing"
+  text: "An adult alone on a playground swing: nostalgia so sweet that you stop living in the present."
+  prompt: "An adult seen from behind sitting alone on a small swing in an empty playground, feet dragging on the ground, long late-afternoon shadows. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the child says {#definition}
 

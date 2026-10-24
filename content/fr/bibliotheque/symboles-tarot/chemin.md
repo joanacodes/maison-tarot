@@ -19,7 +19,31 @@ faq:
   a: "Il part du bassin d’où sort une écrevisse, passe entre un chien et un loup, file entre deux tours et disparaît dans les montagnes. Je le lis comme une voie qui existe même quand la lumière est faible : on n’en voit pas le bout, et le chemin est là quand même."
 - q: "Le chemin de Tempérance est-il le même que celui de la Lune ?"
   a: "Ils sont dessinés de la même façon : tous deux partent de l’eau et serpentent vers les montagnes. Sur Tempérance, une lumière se lève au bout et la scène est calme ; sur la Lune, le chemin passe entre des animaux qui hurlent. Le même voyage, par un autre temps."
-gallery: []
+gallery:
+- src: "visuals/sym-path/1.jpg"
+  title: "Tracé par les pas"
+  text: "Une trace de terre battue qui coupe la pelouse d’un square : un passage à ne pas inventer, mais à parcourir."
+  prompt: "A bare earth track worn diagonally across a green park lawn between two paved paths, a person with a shopping bag walking along it, seen from behind, a station roof in the distance. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-path/2.jpg"
+  title: "Où mène-t-il ?"
+  text: "Un sentier qui se divise dans un parc : où il commence, où il mène, et qui s’y trouve."
+  prompt: "A gravel footpath forking into two in a city park in autumn, one branch going under trees and one across open grass, a single walker far ahead on the left branch, seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-path/3.jpg"
+  title: "De l’eau vers les sommets"
+  text: "Un chemin qui monte d’un lac vers les sommets : de ce qu’on ressent vers ce qu’on vise."
+  prompt: "A narrow path leaving the shore of a still mountain lake and climbing through green slopes towards two distant peaks, early daylight breaking between them, nobody on the path. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-path/4.jpg"
+  title: "Les quelques pas devant"
+  text: "Quelqu’un sur un chemin dans le brouillard du matin : la voie existe, même si vous ne voyez que quelques pas."
+  prompt: "A walker seen from behind on a country path in thick morning fog, only the first few metres of the path and the edge of a hedge visible, the rest dissolving into white. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-path/5.jpg"
+  title: "Usé par tous"
+  text: "Des marches de pierre creusées par des milliers de pas : suivre un chemin, ce n’est pas le choisir."
+  prompt: "Old stone steps in a village lane, hollowed and polished smooth in the middle by centuries of feet, rough untouched stone at the edges, a person climbing them in the distance, seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-path/6.jpg"
+  title: "Rien qu’un paysage"
+  text: "Quelqu’un sur un banc devant une route vide qui file vers les collines : admirer où elle mène, sans la prendre."
+  prompt: "A person seen from behind sitting on a wooden bench at a viewpoint, looking at an empty white road winding away into distant hills, late afternoon light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit le chemin {#definition}
 

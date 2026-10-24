@@ -19,7 +19,31 @@ faq:
   a: "A red bird with a long curved beak, perched on a tree on the right of the card. It’s usually read as an ibis, the bird of Thoth, the Egyptian god of writing. The card itself doesn’t name it; its shape is what makes people think of the ibis."
 - q: "Why are there birds on the Swords cards?"
   a: "Swords are the suit of Air, and birds are the animals of the air. Over the Page, the Queen and the King of Swords, small black birds cross the sky: thoughts on the move, sometimes a whole flock, sometimes a single one."
-gallery: []
+gallery:
+- src: "visuals/sym-bird/1.jpg"
+  title: "A message on its way"
+  text: "Hands releasing a homing pigeon: the bird carries something between where you stand and where you’re looking."
+  prompt: "Two weathered hands opening to release a grey homing pigeon from a wooden garden loft, the wings of the bird spread against an open sky, the person seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-bird/2.jpg"
+  title: "Not caught yet"
+  text: "A walker watching a bird high above a field: flying overhead, it’s an idea not caught yet."
+  prompt: "A person standing in a stubble field at the edge of a wood, seen from behind, head tilted up towards a single bird flying high in a wide pale sky. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-bird/3.jpg"
+  title: "Arriving unasked"
+  text: "A small bird landing on a breakfast table: something arriving that you didn’t have to fetch."
+  prompt: "A small sparrow landing on the edge of a garden breakfast table beside a cup of coffee and a plate of bread, a hand resting still on the tablecloth, morning daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-bird/4.jpg"
+  title: "Wild, without a cage"
+  text: "A robin eating from a gardener’s open palm: on a hand, the bird is something wild you’ve learned to keep."
+  prompt: "A robin perched on the open palm of a gardener kneeling in a vegetable bed, pecking at a few seeds, only the hand, the sleeve and the bird in frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-bird/5.jpg"
+  title: "Thoughts going every way"
+  text: "A flock of starlings scattering over rooftops: a head full of thoughts that circle and circle."
+  prompt: "A loose flock of starlings scattering in every direction above grey slate rooftops and chimneys, late afternoon daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-bird/6.jpg"
+  title: "Who holds whom"
+  text: "A hooded hawk on a leather glove: kept on a hand, the bird is beautiful, and it isn’t free."
+  prompt: "A hawk wearing a small red leather hood, perched motionless on a thick leather glove, the arm of the falconer and part of a tweed coat in frame, face out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the bird says {#definition}
 

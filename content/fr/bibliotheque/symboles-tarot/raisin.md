@@ -19,7 +19,31 @@ faq:
   a: "Sa robe est couverte de vignes et de grappes, et d’autres vignes poussent autour de son trône. Je le lis comme une richesse qu’on a fait pousser plutôt que trouvée : le résultat du travail, dont on profite. Dans mes notes, la Terre, c’est la matière et tout ce qui a de la valeur pour vous."
 - q: "Quelles cartes du tarot ont du raisin ?"
   a: "Dans le Rider-Waite-Smith de 1909 : le Roi de Pentacles, le Neuf de Pentacles, le Dix de Pentacles (dans le motif de la robe du vieil homme) et le Trois de Coupes. Trois sur quatre sont des Pentacles, la série de la Terre et des choses qu’on peut tenir."
-gallery: []
+gallery:
+- src: "visuals/sym-grapes/1.jpg"
+  title: "Le temps de la vigne"
+  text: "Un vieux cep noueux chargé de grappes qui mûrissent : une récolte qu’on ne peut pas brusquer."
+  prompt: "An old gnarled vine trunk in a hillside vineyard, heavy bunches of green-gold grapes ripening in late summer sun, dry stony soil below. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-grapes/2.jpg"
+  title: "L’heure de cueillir"
+  text: "Des mains qui déposent une grappe lourde dans une caisse : ce que vous entretenez depuis longtemps est prêt."
+  prompt: "Two hands with secateurs cutting a heavy bunch of golden grapes from the vine and lowering it into a wooden harvest crate already half full, morning light between the rows. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-grapes/3.jpg"
+  title: "La récolte fêtée"
+  text: "Une femme qui sert son propre vin à une longue tablée : la récolte est faite pour qu’on en profite."
+  prompt: "A woman seen from behind pouring white wine from an unlabelled bottle into glasses held out along a long outdoor table under a vine arbour, friends laughing, faces turned away or out of frame, evening daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-grapes/4.jpg"
+  title: "Fait pour se partager"
+  text: "Plusieurs mains qui piochent dans la même grappe au milieu de la table : personne ne la mange d’une bouchée."
+  prompt: "A large bunch of green grapes on a plate in the middle of a garden table, four hands reaching in from different sides to pick a few grapes each, glasses and bread around, faces out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-grapes/5.jpg"
+  title: "Jamais goûté"
+  text: "Un bol de raisin intact sur un bureau, tard le soir : travailler pour la récolte sans s’arrêter pour en profiter."
+  prompt: "A full bowl of green grapes, untouched, at the corner of a desk covered in folders and invoices with no readable writing, a desk lamp the only light, no window visible, the person working seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-grapes/6.jpg"
+  title: "Trop tard"
+  text: "Des grappes qui se flétrissent sur la vigne : ce qu’on ne cueille pas à temps pourrit sur pied."
+  prompt: "Forgotten bunches of grapes left on the vine in late autumn, shrivelled, split and browning among yellow and rust leaves, an empty harvest crate lying in the row. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit le raisin {#definition}
 

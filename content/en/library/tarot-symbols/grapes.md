@@ -19,7 +19,31 @@ faq:
   a: "His robe is covered with vines and bunches of grapes, and more vines grow around his throne. I read them as wealth that has been grown rather than found: the result of work, enjoyed. In my notes, Earth is matter and whatever has value for you."
 - q: "Which tarot cards have grapes?"
   a: "In the 1909 Rider-Waite-Smith: the King of Pentacles, the Nine of Pentacles, the Ten of Pentacles (in the pattern of the old man’s robe) and the Three of Cups. Three of the four are Pentacles, the suit of Earth and of things you can hold."
-gallery: []
+gallery:
+- src: "visuals/sym-grapes/1.jpg"
+  title: "Years on the vine"
+  text: "An old gnarled vine heavy with ripening bunches: a harvest you can’t rush."
+  prompt: "An old gnarled vine trunk in a hillside vineyard, heavy bunches of green-gold grapes ripening in late summer sun, dry stony soil below. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-grapes/2.jpg"
+  title: "Ready to pick"
+  text: "Hands cutting a heavy bunch into a crate: something tended for a long time is ready."
+  prompt: "Two hands with secateurs cutting a heavy bunch of golden grapes from the vine and lowering it into a wooden harvest crate already half full, morning light between the rows. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-grapes/3.jpg"
+  title: "Poured by the maker"
+  text: "A woman pouring her own wine for friends at a long table: the harvest is meant to be enjoyed."
+  prompt: "A woman seen from behind pouring white wine from an unlabelled bottle into glasses held out along a long outdoor table under a vine arbour, friends laughing, faces turned away or out of frame, evening daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-grapes/4.jpg"
+  title: "Meant for sharing"
+  text: "Several hands picking from one bunch in the middle of a table: nobody eats a bunch in one bite."
+  prompt: "A large bunch of green grapes on a plate in the middle of a garden table, four hands reaching in from different sides to pick a few grapes each, glasses and bread around, faces out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-grapes/5.jpg"
+  title: "Never tasted"
+  text: "A bowl of grapes untouched on a desk late at night: working for the harvest, never stopping to taste it."
+  prompt: "A full bowl of green grapes, untouched, at the corner of a desk covered in folders and invoices with no readable writing, a desk lamp the only light, no window visible, the person working seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-grapes/6.jpg"
+  title: "Left too long"
+  text: "Bunches shrivelling on the vine after the harvest: ripe fruit doesn’t keep, and what isn’t picked spoils."
+  prompt: "Forgotten bunches of grapes left on the vine in late autumn, shrivelled, split and browning among yellow and rust leaves, an empty harvest crate lying in the row. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What grapes say {#definition}
 

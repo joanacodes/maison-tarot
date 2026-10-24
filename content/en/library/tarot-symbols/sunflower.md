@@ -19,7 +19,31 @@ faq:
   a: "Two in the 1909 Rider-Waite-Smith: the Sun, where a row of sunflowers grows over the wall behind the child on the horse, and the Queen of Wands, who holds one in her left hand and has more flowers worked into the back of her throne."
 - q: "What does the Queen of Wands’ sunflower mean?"
   a: "I read it as warmth she chooses to show. The Queen of Wands is Fire — confident, generous, at ease being looked at — and the sunflower in her hand is that energy made visible. The black cat at her feet keeps a little mystery beside it."
-gallery: []
+gallery:
+- src: "visuals/sym-sunflower/1.jpg"
+  title: "Turned to the light"
+  text: "A sunflower head turned towards the morning light: a big yellow face, joy that faces outwards."
+  prompt: "A single tall sunflower in a kitchen garden, its big yellow head turned towards low morning light, dew on the leaves, a wooden fence behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sunflower/2.jpg"
+  title: "Nobody drives past"
+  text: "A car pulled over by a field of sunflowers: you’re allowed to be seen enjoying it."
+  prompt: "A small old car pulled over on the verge of a country road beside a vast field of sunflowers in late summer, no number plate visible, a person standing at the edge of the field seen from behind, hands in pockets. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sunflower/3.jpg"
+  title: "Facing the people looking"
+  text: "Sunflowers leaning over a grey garden wall towards the street: joy turned towards whoever passes."
+  prompt: "A row of tall sunflowers leaning over an old grey stone garden wall, their heads facing the street rather than the sky, a passer-by walking below, seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sunflower/4.jpg"
+  title: "Warmth, offered"
+  text: "A hand holding out one sunflower at a door: warmth you decide to offer, with nothing hidden behind it."
+  prompt: "On a doorstep, one hand holding out a single sunflower towards another hand reaching to take it, the open front door and a doormat in frame, faces out of frame, warm daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sunflower/5.jpg"
+  title: "The side it never sees"
+  text: "Sunflowers seen from behind, heads turned away: a flower that only faces the light has a side it never sees."
+  prompt: "A sunflower field seen from the shaded side, rows of green stalks and the plain backs of the flower heads all turned away from the viewer towards the light, late afternoon. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sunflower/6.jpg"
+  title: "Cheer over a problem"
+  text: "A bright vase of sunflowers set in front of unopened letters: cheerfulness used to avoid a problem."
+  prompt: "A cheerful jug of sunflowers placed on a hall table in front of a pile of unopened envelopes with no writing visible on them, daylight from a side window. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the sunflower says {#definition}
 

@@ -19,7 +19,31 @@ faq:
   a: "They echo the crossed keys of the papal coat of arms, which go back to the keys promised to Peter in the Gospel of Matthew. On the card they lie at the Hierophant’s feet, between two tonsured figures: access to a tradition, handed down by the person who teaches it."
 - q: "Are there keys on other tarot cards?"
   a: "As far as I can see on the 1909 print, the Hierophant’s are the only keys drawn. Other cards are about access without showing one — the Eight of Swords, for instance, where the way out is a blindfold she could take off."
-gallery: []
+gallery:
+- src: "visuals/sym-key/1.jpg"
+  title: "Whoever holds it"
+  text: "Keys on a hook by the front door: whoever holds them decides who comes in."
+  prompt: "A ring of house keys hanging on a brass hook beside a front door, a coat and a bag on the next hooks, soft daylight through the door glass. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-key/2.jpg"
+  title: "Now the doors open"
+  text: "A new key passed from one hand to another: the building hasn’t changed, but now it opens for you."
+  prompt: "One hand placing a single shiny new key into the open palm of another hand, in the hallway of an empty building, faces out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-key/3.jpg"
+  title: "Learning the lock"
+  text: "Older hands showing younger ones how to turn a stiff old key: most doors worth opening come with a teacher."
+  prompt: "An older hand resting over a younger adult hand, guiding it to turn a large old iron key in the stiff lock of a heavy wooden workshop door, close view. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-key/4.jpg"
+  title: "The gatekeeper"
+  text: "A heavy ring of keys on a caretaker’s belt, the gate shut behind: keys can be kept from you."
+  prompt: "A heavy ring of old iron keys hanging from the belt of a caretaker standing in front of a closed wrought-iron gate, seen from the waist down, hands in pockets. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-key/5.jpg"
+  title: "Left in the lock"
+  text: "A key left in the lock on the street side: handing someone else the key to every decision."
+  prompt: "A key with a small fob left in the outside lock of a closed blue front door on a quiet street, nobody around, afternoon light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-key/6.jpg"
+  title: "Already open"
+  text: "Someone hesitating before a door that stands ajar: sometimes the door is open, and the lock is in your head."
+  prompt: "A person seen from behind standing still in a corridor in front of a tall door left ajar, a strip of daylight falling through the gap onto the floor, one hand half raised. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the key says {#definition}
 

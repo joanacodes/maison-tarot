@@ -19,7 +19,31 @@ faq:
   a: "Le voile derrière elle est imprimé de palmes et de grenades ouvertes sur leurs graines. Dans le mythe grec, Perséphone mange des graines de grenade aux Enfers et doit y retourner chaque année ; beaucoup de tarologues rattachent à cette histoire le savoir caché de la Grande Prêtresse."
 - q: "La grenade, au tarot, annonce-t-elle une grossesse ?"
   a: "C’est un vieux symbole de fécondité à cause de ses graines, et la question vient souvent de l’espoir ou de l’inquiétude. Je ne lis pas sur la grossesse ni sur la fertilité : un médecin peut répondre, une carte non. Dans un tirage, je prends la grenade comme une abondance au sens large — des idées, des projets, du soin."
-gallery: []
+gallery:
+- src: "visuals/sym-pomegranate/1.jpg"
+  title: "Banale de l’extérieur"
+  text: "Une grenade entière sur une table, peau dure et petite couronne : de l’extérieur, rien ne se devine."
+  prompt: "A single whole pomegranate with a hard dull reddish skin and a small dry crown, sitting alone on a scrubbed wooden kitchen table, soft side light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pomegranate/2.jpg"
+  title: "Pleine à craquer"
+  text: "Une grenade ouverte, graines serrées, jus sur la planche : il y a plus dedans que ce que montre la surface."
+  prompt: "A pomegranate cut in half on a wooden chopping board, hundreds of glossy red seeds packed tight, red juice running across the board and onto the blade of a kitchen knife. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pomegranate/3.jpg"
+  title: "Couteau ou patience"
+  text: "Des mains qui détachent les graines une à une : pour atteindre l’intérieur, un couteau ou de la patience."
+  prompt: "Two hands patiently prising pomegranate seeds out one by one over a white bowl, fingertips stained red, the empty half-skin in one palm, window daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pomegranate/4.jpg"
+  title: "L’abondance offerte"
+  text: "Un bol de graines qui passe de main en main à table : ouvert et offert, le même fruit devient abondance."
+  prompt: "A bowl heaped with pomegranate seeds being passed from one pair of hands to another across a long family lunch table laden with bread and salads, faces out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pomegranate/5.jpg"
+  title: "Jamais ouverte"
+  text: "Une grenade restée entière sur une étagère, la peau qui durcit : le savoir gardé, les sentiments jamais ouverts."
+  prompt: "A single pomegranate forgotten on a high kitchen shelf among jars, its skin dried hard and wrinkled, dust on the shelf, dim daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pomegranate/6.jpg"
+  title: "Impossible à refuser"
+  text: "Encore des graines sur une assiette pleine, une main levée : une abondance qu’on ne peut refuser devient un poids."
+  prompt: "At a dinner table, a large serving spoon tipping more pomegranate seeds and rice onto a plate that is already full, while the hand of the guest is raised flat above it to say stop, faces out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit la grenade {#definition}
 

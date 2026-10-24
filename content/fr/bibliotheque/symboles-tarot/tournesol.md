@@ -19,7 +19,31 @@ faq:
   a: "Deux dans le Rider-Waite-Smith de 1909 : le Soleil, où une rangée de tournesols dépasse du mur derrière l’enfant à cheval, et la Reine de Bâtons, qui en tient un dans sa main gauche et en a d’autres sur le dossier de son trône."
 - q: "Que veut dire le tournesol de la Reine de Bâtons ?"
   a: "Je le lis comme une chaleur qu’elle choisit de montrer. La Reine de Bâtons est Feu — assurée, généreuse, à l’aise sous les regards — et le tournesol dans sa main, c’est cette énergie rendue visible. Le chat noir à ses pieds garde, à côté, un peu de mystère."
-gallery: []
+gallery:
+- src: "visuals/sym-sunflower/1.jpg"
+  title: "Tourné vers la lumière"
+  text: "Une fleur de tournesol tournée vers la lumière du matin : un grand visage jaune, une joie qui se montre."
+  prompt: "A single tall sunflower in a kitchen garden, its big yellow head turned towards low morning light, dew on the leaves, a wooden fence behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sunflower/2.jpg"
+  title: "Personne ne passe sans regarder"
+  text: "Une voiture arrêtée au bord d’un champ de tournesols : vous avez le droit d’être vu en train d’en profiter."
+  prompt: "A small old car pulled over on the verge of a country road beside a vast field of sunflowers in late summer, no number plate visible, a person standing at the edge of the field seen from behind, hands in pockets. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sunflower/3.jpg"
+  title: "Tournés vers ceux qui regardent"
+  text: "Des tournesols qui dépassent d’un mur gris, côté rue : une joie tournée vers ceux qui passent."
+  prompt: "A row of tall sunflowers leaning over an old grey stone garden wall, their heads facing the street rather than the sky, a passer-by walking below, seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sunflower/4.jpg"
+  title: "Une chaleur offerte"
+  text: "Une main qui tend un tournesol sur le pas d’une porte : une chaleur qu’on décide d’offrir, sans arrière-pensée."
+  prompt: "On a doorstep, one hand holding out a single sunflower towards another hand reaching to take it, the open front door and a doormat in frame, faces out of frame, warm daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sunflower/5.jpg"
+  title: "Le côté jamais regardé"
+  text: "Des tournesols vus de dos, têtes détournées : une fleur tournée vers la lumière a un côté qu’elle ne regarde jamais."
+  prompt: "A sunflower field seen from the shaded side, rows of green stalks and the plain backs of the flower heads all turned away from the viewer towards the light, late afternoon. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-sunflower/6.jpg"
+  title: "La bonne humeur en paravent"
+  text: "Un vase de tournesols posé devant une pile de lettres fermées : une bonne humeur qui sert à éviter un problème."
+  prompt: "A cheerful jug of sunflowers placed on a hall table in front of a pile of unopened envelopes with no writing visible on them, daylight from a side window. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit le tournesol {#definition}
 

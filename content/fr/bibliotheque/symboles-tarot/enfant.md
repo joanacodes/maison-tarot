@@ -19,7 +19,31 @@ faq:
   a: "On me pose souvent la question, par espoir ou par inquiétude, et je comprends pourquoi. Je ne lis pas sur la grossesse ni sur la fertilité : un médecin peut répondre, une carte non. Ce qu’un enfant peut porter dans un tirage, c’est un commencement, une part plus jeune de vous, ou quelqu’un dont vous prenez soin."
 - q: "Quelles cartes du tarot montrent des enfants ?"
   a: "Dans le Rider-Waite-Smith de 1909 : le Soleil, la Mort, le Jugement, le Six de Coupes, le Dix de Coupes, le Dix de Pentacles et le Six d’Épées. Un visage d’enfant est aussi sculpté sur le trône de la Reine d’Épées."
-gallery: []
+gallery:
+- src: "visuals/sym-child/1.jpg"
+  title: "À côté d’un adulte"
+  text: "Une petite main dans une grande, au passage piéton : quelque chose de jeune, à côté d’un adulte — regardez lequel."
+  prompt: "Close view of the small hand of a child holding two fingers of an adult hand at a pedestrian crossing, only hands, sleeves and the striped road in frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-child/2.jpg"
+  title: "Les premiers pas"
+  text: "Les premiers pas d’un tout-petit, des mains d’adulte tout près : un commencement, un projet qui démarre."
+  prompt: "A toddler seen from behind taking first unsteady steps across a wooden floor, arms out for balance, the hands of an adult hovering close behind, face not visible, soft window light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-child/3.jpg"
+  title: "Un souvenir qui refleurit"
+  text: "Une main d’enfant tend des fleurs à une plus petite : le passé qui revient les mains pleines de fleurs."
+  prompt: "Close view of a child hand holding out a small bunch of white wild flowers to an even smaller child hand, an old stone village lane blurred behind, only hands and sleeves in frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-child/4.jpg"
+  title: "Faire traverser"
+  text: "Un parent qui rame, une petite silhouette emmitouflée à côté : un enfant qui dépend des choix d’un adulte."
+  prompt: "A small wooden rowing boat crossing a calm grey lake, seen from behind, an adult at the oars and a small child bundled in a coat and hood beside them, both facing away, soft overcast light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-child/5.jpg"
+  title: "Avant les notes"
+  text: "Un enfant absorbé par son dessin : revenez à ce que vous aimiez avant qu’on vous mette des notes."
+  prompt: "A child seen from behind lying on a wooden floor, absorbed in a drawing with wax crayons scattered around, face hidden, warm afternoon light from a window. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-child/6.jpg"
+  title: "Resté sur la balançoire"
+  text: "Un adulte seul sur une balançoire d’enfant : une nostalgie si douce qu’on cesse de vivre le présent."
+  prompt: "An adult seen from behind sitting alone on a small swing in an empty playground, feet dragging on the ground, long late-afternoon shadows. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit l’enfant {#definition}
 

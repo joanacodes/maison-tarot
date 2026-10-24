@@ -19,7 +19,31 @@ faq:
   a: "La bannière noire de la Mort porte une grande rose blanche à cinq pétales. Je la lis comme ce qui survit à la fin : dans mes notes, la Mort est liée à la récolte et au recommencement, pas au fait de mourir."
 - q: "Quelle différence entre roses rouges et roses blanches au tarot ?"
   a: "Dans ma grille des couleurs, le rouge, c’est la passion, l’action, l’élan ; le blanc, la pureté, l’innocence, la paix. Une rose rouge veut quelque chose ; une rose blanche promet quelque chose. Chez le Magicien, les roses rouges poussent à côté des lys blancs : le désir et la clarté dans le même jardin."
-gallery: []
+gallery:
+- src: "visuals/sym-rose/1.jpg"
+  title: "On n’offre pas par hasard"
+  text: "Un bouquet de roses rouges porté dans la rue : personne n’en offre une douzaine par hasard."
+  prompt: "A person seen from behind walking down a city street in late afternoon light with a large bunch of red roses wrapped in brown paper held against their side. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-rose/2.jpg"
+  title: "Taillée chaque hiver"
+  text: "Des mains gantées qui taillent un vieux rosier contre un mur : les roses ne poussent pas comme ça toutes seules."
+  prompt: "Hands in worn leather gardening gloves pruning an old climbing rose trained along a sunlit stone wall, secateurs in one hand, bare winter canes and a few red rose hips. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-rose/3.jpg"
+  title: "La couleur d’abord"
+  text: "Des roses rouges et blanches côte à côte sur un étal : la rouge veut, la blanche promet."
+  prompt: "Two zinc buckets side by side at a flower market stall, one full of deep red roses and one full of white roses, morning daylight, the apron of the vendor at the edge of the frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-rose/4.jpg"
+  title: "Une tendresse portée"
+  text: "Des mains qui épinglent une rose à un revers : portée, la rose est un lien fait de tendresse."
+  prompt: "Close view of one pair of hands pinning a small red rose to the lapel of a dark jacket worn by another person, both faces out of frame, soft window light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-rose/5.jpg"
+  title: "Les épines"
+  text: "Des épines qu’on retire d’une tige chez le fleuriste : une rose pique qui la tient sans précaution."
+  prompt: "The hands of a florist stripping thorns from a long red rose stem with a small knife over a wooden workbench scattered with cut thorns and leaves. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-rose/6.jpg"
+  title: "Un jardin sans sortie"
+  text: "Une chaise sous une tonnelle de roses, le portail envahi : un confort si épais qu’on ne quitte plus le jardin."
+  prompt: "An empty garden chair under a dense arbour heavy with red roses, the garden gate behind it almost hidden under climbing stems, warm afternoon light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit la rose {#definition}
 

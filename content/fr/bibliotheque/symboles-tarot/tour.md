@@ -19,7 +19,31 @@ faq:
   a: "Sur les deux cartes, deux tours se dressent à l’horizon : un soleil entre elles sur la Mort, le chemin qui passe entre elles vers les montagnes sur la Lune. Je les lis comme une porte vue de loin — la sortie de la carte passe entre les deux."
 - q: "Le symbole de la tour est-il toujours une mauvaise nouvelle, comme la carte de la Tour ?"
   a: "Non. La carte de la Tour montre une tour frappée qui s’écroule ; ailleurs dans le jeu, les tours sont debout. Selon la carte, ce sont un abri, un poste de guet ou une limite. Ce qu’elles ont en commun, c’est de marquer le bord d’un endroit protégé."
-gallery: []
+gallery:
+- src: "visuals/sym-tower/1.jpg"
+  title: "Se repérer au clocher"
+  text: "Un clocher de village vu à travers champs : on le voit de loin, et on se repère grâce à lui."
+  prompt: "A stone village church tower rising above rooftops seen across open wheat fields, a cyclist on a farm track heading towards it, seen from behind, clear daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-tower/2.jpg"
+  title: "Surveiller l’horizon"
+  text: "Un phare sur un cap : construit pour protéger et surveiller l’horizon, tant qu’il sert encore."
+  prompt: "A white stone lighthouse standing on a rocky headland above a grey-green sea, a long view of the horizon, daylight with broken clouds, a small fishing boat far out. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-tower/3.jpg"
+  title: "En haut de la tour"
+  text: "Quelqu’un en haut d’une vieille tour, face au port : un endroit sûr d’où préparer la suite."
+  prompt: "A person seen from behind leaning on the stone parapet at the top of an old harbour tower, looking out over moored boats and open water, wind in their coat, bright daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-tower/4.jpg"
+  title: "Descendre l’escalier"
+  text: "Des pieds qui s’engagent dans un escalier en colimaçon : à l’abri là-haut, reste à savoir si vous descendrez."
+  prompt: "Looking down a narrow worn stone spiral staircase inside a tower, a pair of walking boots on the top steps about to go down, daylight from a slit window. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-tower/5.jpg"
+  title: "Hors de portée"
+  text: "Un donjon en ruine de l’autre côté de la rivière : un abri hors de portée depuis là où vous êtes."
+  prompt: "A ruined stone keep standing on the far side of a wide river, no bridge in sight, a person on the near bank seen from behind, hands in the pockets of a dark coat, overcast daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-tower/6.jpg"
+  title: "Fissurée de l’intérieur"
+  text: "Une vieille tour de pierre sous les échafaudages : ce qu’on construit pour tenir les autres dehors finit par se fissurer."
+  prompt: "An old square stone tower wrapped in scaffolding, a long crack running down its wall, two workers on the scaffold seen from behind, grey daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit la tour {#definition}
 

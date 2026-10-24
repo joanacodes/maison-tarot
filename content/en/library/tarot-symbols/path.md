@@ -19,7 +19,31 @@ faq:
   a: "It starts at the pool where a crayfish climbs out, passes between a dog and a wolf, runs between two towers and disappears into the mountains. I read it as a way forward that exists even when the light is poor: you can’t see the end, and the path is there anyway."
 - q: "Is the path on Temperance the same as the one on the Moon?"
   a: "They’re drawn alike: both start at the water and wind up towards the mountains. On Temperance a light rises at the end and the scene is calm; on the Moon the path runs between howling animals. Same journey, different weather."
-gallery: []
+gallery:
+- src: "visuals/sym-path/1.jpg"
+  title: "Worn by walking"
+  text: "A track worn across a park lawn: a way through you don’t have to invent, but still have to walk."
+  prompt: "A bare earth track worn diagonally across a green park lawn between two paved paths, a person with a shopping bag walking along it, seen from behind, a station roof in the distance. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-path/2.jpg"
+  title: "Where does it go?"
+  text: "A footpath forking in a park: ask where it starts, where it goes, and who is on it."
+  prompt: "A gravel footpath forking into two in a city park in autumn, one branch going under trees and one across open grass, a single walker far ahead on the left branch, seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-path/3.jpg"
+  title: "From the water upwards"
+  text: "A path climbing from a lake towards the peaks: from what you feel to what you aim for."
+  prompt: "A narrow path leaving the shore of a still mountain lake and climbing through green slopes towards two distant peaks, early daylight breaking between them, nobody on the path. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-path/4.jpg"
+  title: "The next few steps"
+  text: "A walker on a path in morning fog: the way exists, even if you only see the next few steps."
+  prompt: "A walker seen from behind on a country path in thick morning fog, only the first few metres of the path and the edge of a hedge visible, the rest dissolving into white. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-path/5.jpg"
+  title: "Worn smooth"
+  text: "Stone steps hollowed by countless feet: following a path isn’t the same as choosing it."
+  prompt: "Old stone steps in a village lane, hollowed and polished smooth in the middle by centuries of feet, rough untouched stone at the edges, a person climbing them in the distance, seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-path/6.jpg"
+  title: "Only a view"
+  text: "Someone on a bench looking at an empty road winding into the hills: admiring where it goes, never walking it."
+  prompt: "A person seen from behind sitting on a wooden bench at a viewpoint, looking at an empty white road winding away into distant hills, late afternoon light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the path says {#definition}
 

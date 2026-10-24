@@ -19,7 +19,31 @@ faq:
   a: "The veil behind her is printed with palm leaves and pomegranates cut open to show their seeds. In Greek myth, Persephone eats pomegranate seeds in the underworld and has to go back there every year, and many readers link the High Priestess’s hidden knowledge to that story."
 - q: "Does the pomegranate in tarot mean fertility?"
   a: "It’s an old symbol of fertility because of its seeds, and the question usually comes from hope or worry. I don’t read on pregnancy or fertility: a doctor can answer that, and a card can’t. In a reading I take the pomegranate as abundance in a wider sense — ideas, projects, care."
-gallery: []
+gallery:
+- src: "visuals/sym-pomegranate/1.jpg"
+  title: "Plain on the outside"
+  text: "A whole pomegranate on a table, hard skin and little crown: from outside, nothing lets on."
+  prompt: "A single whole pomegranate with a hard dull reddish skin and a small dry crown, sitting alone on a scrubbed wooden kitchen table, soft side light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pomegranate/2.jpg"
+  title: "Packed inside"
+  text: "A pomegranate split open, seeds packed tight, juice staining the board: there’s more inside than the surface shows."
+  prompt: "A pomegranate cut in half on a wooden chopping board, hundreds of glossy red seeds packed tight, red juice running across the board and onto the blade of a kitchen knife. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pomegranate/3.jpg"
+  title: "A knife or patience"
+  text: "Hands picking seeds out one by one into a bowl: getting at what’s inside takes a knife or patience."
+  prompt: "Two hands patiently prising pomegranate seeds out one by one over a white bowl, fingertips stained red, the empty half-skin in one palm, window daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pomegranate/4.jpg"
+  title: "Plenty, offered"
+  text: "A bowl of seeds passed across a family table: the same fruit, opened and offered, is abundance to share."
+  prompt: "A bowl heaped with pomegranate seeds being passed from one pair of hands to another across a long family lunch table laden with bread and salads, faces out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pomegranate/5.jpg"
+  title: "Never opened"
+  text: "A pomegranate left whole on a shelf, skin drying hard: knowledge kept, feelings never cut open."
+  prompt: "A single pomegranate forgotten on a high kitchen shelf among jars, its skin dried hard and wrinkled, dust on the shelf, dim daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-pomegranate/6.jpg"
+  title: "Too much to refuse"
+  text: "More seeds spooned onto a full plate, a hand raised to stop them: plenty you can’t refuse becomes a weight."
+  prompt: "At a dinner table, a large serving spoon tipping more pomegranate seeds and rice onto a plate that is already full, while the hand of the guest is raised flat above it to say stop, faces out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## What the pomegranate says {#definition}
 

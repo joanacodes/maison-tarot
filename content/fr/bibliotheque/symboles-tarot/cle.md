@@ -19,7 +19,31 @@ faq:
   a: "Elles rappellent les clés croisées des armoiries pontificales, qui remontent aux clés promises à Pierre dans l’Évangile selon Matthieu. Sur la carte, elles sont posées aux pieds du Hiérophante, entre deux tonsurés : l’accès à une tradition, transmis par celui qui l’enseigne."
 - q: "Y a-t-il des clés sur d’autres cartes ?"
   a: "Pour autant que je puisse en juger sur l’édition de 1909, les clés du Hiérophante sont les seules du jeu. D’autres cartes parlent d’accès sans en montrer — le Huit d’Épées, par exemple, où la sortie est un bandeau qu’elle pourrait retirer."
-gallery: []
+gallery:
+- src: "visuals/sym-key/1.jpg"
+  title: "Celui qui la tient"
+  text: "Des clés au crochet près de la porte d’entrée : celui qui les a décide qui entre."
+  prompt: "A ring of house keys hanging on a brass hook beside a front door, a coat and a bag on the next hooks, soft daylight through the door glass. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-key/2.jpg"
+  title: "Les portes s’ouvrent"
+  text: "Une clé neuve qui passe d’une main à l’autre : le bâtiment n’a pas changé, mais il s’ouvre désormais pour vous."
+  prompt: "One hand placing a single shiny new key into the open palm of another hand, in the hallway of an empty building, faces out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-key/3.jpg"
+  title: "Apprendre la serrure"
+  text: "Une main âgée guide une main jeune sur une vieille clé : les portes qui comptent s’ouvrent avec un maître."
+  prompt: "An older hand resting over a younger adult hand, guiding it to turn a large old iron key in the stiff lock of a heavy wooden workshop door, close view. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-key/4.jpg"
+  title: "Le gardien"
+  text: "Un lourd trousseau à la ceinture d’un gardien, la grille fermée derrière : les clés peuvent vous être refusées."
+  prompt: "A heavy ring of old iron keys hanging from the belt of a caretaker standing in front of a closed wrought-iron gate, seen from the waist down, hands in pockets. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-key/5.jpg"
+  title: "Oubliée dans la serrure"
+  text: "Une clé laissée dans la serrure, côté rue : confier à quelqu’un d’autre la clé de chaque décision."
+  prompt: "A key with a small fob left in the outside lock of a closed blue front door on a quiet street, nobody around, afternoon light. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-key/6.jpg"
+  title: "Déjà ouverte"
+  text: "Quelqu’un qui hésite devant une porte entrouverte : parfois la porte est ouverte, et la serrure est dans la tête."
+  prompt: "A person seen from behind standing still in a corridor in front of a tall door left ajar, a strip of daylight falling through the gap onto the floor, one hand half raised. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit la clé {#definition}
 

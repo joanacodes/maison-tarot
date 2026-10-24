@@ -19,7 +19,31 @@ faq:
   a: "Un oiseau rouge au long bec courbe, perché sur un arbre à droite de la carte. On le lit généralement comme un ibis, l’oiseau de Thot, le dieu égyptien de l’écriture. La carte ne le nomme pas ; c’est sa silhouette qui fait penser à l’ibis."
 - q: "Pourquoi y a-t-il des oiseaux sur les cartes d’Épées ?"
   a: "Les Épées sont la série de l’Air, et les oiseaux sont les animaux de l’air. Au-dessus du Valet, de la Reine et du Roi d’Épées, de petits oiseaux noirs traversent le ciel : des pensées en mouvement, parfois toute une volée, parfois une seule."
-gallery: []
+gallery:
+- src: "visuals/sym-bird/1.jpg"
+  title: "Un message en route"
+  text: "Des mains qui lâchent un pigeon voyageur : l’oiseau relie l’endroit où vous êtes et celui que vous regardez."
+  prompt: "Two weathered hands opening to release a grey homing pigeon from a wooden garden loft, the wings of the bird spread against an open sky, the person seen from behind. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-bird/2.jpg"
+  title: "Pas encore attrapée"
+  text: "Quelqu’un qui suit des yeux un oiseau très haut : en vol au-dessus de vous, c’est une idée pas encore attrapée."
+  prompt: "A person standing in a stubble field at the edge of a wood, seen from behind, head tilted up towards a single bird flying high in a wide pale sky. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-bird/3.jpg"
+  title: "Ce qui arrive tout seul"
+  text: "Un petit oiseau qui se pose sur la table du petit déjeuner : ce qui arrive sans qu’on aille le chercher."
+  prompt: "A small sparrow landing on the edge of a garden breakfast table beside a cup of coffee and a plate of bread, a hand resting still on the tablecloth, morning daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-bird/4.jpg"
+  title: "Sauvage, sans cage"
+  text: "Un rouge-gorge qui picore dans une paume ouverte : quelque chose de sauvage qu’on a appris à garder."
+  prompt: "A robin perched on the open palm of a gardener kneeling in a vegetable bed, pecking at a few seeds, only the hand, the sleeve and the bird in frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-bird/5.jpg"
+  title: "Des pensées en tous sens"
+  text: "Une volée d’étourneaux qui s’éparpille au-dessus des toits : une tête pleine de pensées qui tournent en rond."
+  prompt: "A loose flock of starlings scattering in every direction above grey slate rooftops and chimneys, late afternoon daylight. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
+- src: "visuals/sym-bird/6.jpg"
+  title: "Qui tient qui"
+  text: "Un faucon chaperonné sur un gant de cuir : tenu sur une main, l’oiseau est magnifique, et il n’est pas libre."
+  prompt: "A hawk wearing a small red leather hood, perched motionless on a thick leather glove, the arm of the falconer and part of a tweed coat in frame, face out of frame. Editorial photograph, 35mm film look, light grain, one soft light source (daylight or a lamp), warm natural colours with high contrast that also reads well in black and white, portrait 4:5, no text, no logo. No moon, no stars, no candles, no crystal ball, no smoke, no purple, no mystical props."
 ---
 ## Ce que dit l’oiseau {#definition}
 
