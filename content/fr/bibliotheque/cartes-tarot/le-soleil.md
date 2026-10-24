@@ -61,7 +61,7 @@ Du [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) partout — le soleil, les to
 
 ## Par l’astrologie : Soleil {#astrologie}
 
-Dans la tradition Golden Dawn, cette carte revient au [Soleil](/fr/bibliotheque/astrologie/soleil/) lui-même — le placement que tout le monde connaît, la réponse à « vous êtes de quel signe ? ». Il dit le centre : ce autour de quoi une personne organise sa vie, la lumière qu’elle veut montrer. Dans mon propre test, c’était l’un des placements les moins fiables, juste environ une fois sur trois : la vitrine plutôt que la boutique. C’est une bonne façon de lire la carte aussi — ce qui se montre volontiers. Si l’astrologie n’est pas votre clé, laissez-la de côté.
+Dans la tradition Golden Dawn, cette carte revient au [Soleil](/fr/bibliotheque/astrologie/soleil/) lui-même — le placement que tout le monde connaît, la réponse à « vous êtes de quel signe ? ». Il dit le centre : ce autour de quoi une personne organise sa vie, la lumière qu’elle veut montrer. Dans mon propre test, c’était l’un des placements les moins fiables, exact environ une fois sur trois : la vitrine plutôt que la boutique. C’est une bonne façon de lire la carte aussi — ce qui se montre volontiers. Si l’astrologie n’est pas votre clé, laissez-la de côté.
 
 ## En lecture {#lecture}
 

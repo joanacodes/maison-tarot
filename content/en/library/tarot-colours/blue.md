@@ -37,7 +37,7 @@ gallery: []
 
 ## Where the colour appears in the deck {#where}
 
-The High Priestess's robe, the Empress's cloak, the water in every Cups card, Temperance's robe, the river at the Emperor's feet, the background of the Knight of Cups. Blue is wherever emotion is.
+The High Priestess's robe, the Empress's cloak, the water in every Cups card, the water Temperance pours from cup to cup, the river at the Emperor's feet, the background of the Knight of Cups. Blue is wherever emotion is.
 
 {{< cards "ar02 ar03 ar14 ar04 cukn" >}}
 

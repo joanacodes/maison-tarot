@@ -1,8 +1,7 @@
 ---
 title: 'Trois de Bâtons (Three of Wands) — tarot Rider-Waite-Smith : lire la carte
   par ses clés de lecture'
-description: 'Trois de Bâtons : ce qu’on voit sur la carte, puis le nombre, l’élément
-  (Feu), les couleurs et Soleil en Bélier. Lire la carte sans l’avoir apprise.'
+description: 'Trois de Bâtons : du haut d’une falaise, un homme regarde ses bateaux partir sur une mer dorée. Nombre, Feu, jaune, Soleil en Bélier : lancer, puis savoir attendre.'
 translationKey: card-wa03
 type: cards
 navTitle: Trois de Bâtons
@@ -29,12 +28,11 @@ related:
 - /bibliotheque/astrologie
 faq:
 - q: Que signifie Trois de Bâtons ?
-  a: 'Il n’y a pas une signification à apprendre : Trois de Bâtons se lit par son
-    nombre (trois), son élément (Feu) et ses couleurs. La page ci-dessus les pose
-    une à une.'
+  a: 'Le Trois de Bâtons est un 3 de Feu : ce que vous avez commencé est lancé, fonctionne, et voyage désormais sans vous. Il parle d’expansion, de distance et d’une attente confiante, avec un conseil : terminez ceci avant de lancer la suite.'
 - q: Trois de Bâtons renversé, ça change quoi ?
-  a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
-    l’endroit, puis ce qui bloque ou déborde.
+  a: 'Renversé, l’attente s’aigrit : les bateaux sont en retard, ou ne sont jamais vraiment partis, comme le projet annoncé mais jamais envoyé. Ce peut être aussi l’excès du 3 : lancer une quatrième idée avant que les trois premières soient rentrées.'
+- q: Que veut dire le Trois de Bâtons en amour ?
+  a: 'Il parle souvent de distance ou d’une relation tournée vers l’avenir : un amour à distance, un projet commun, quelqu’un qui attend une réponse. Il montre l’espoir et la patience, pas la date à laquelle l’autre répondra.'
 categories:
 - Bâtons
 tags:
@@ -45,28 +43,50 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-{{< todo >}}À ÉCRIRE — décrire le dessin de Pamela Colman Smith, détail par détail : personnages, objets, posture, ce qui manque.{{< /todo >}}
+Un homme, de dos, se tient sur une crête, au bord d’une falaise. En contrebas s’étend une large mer, dessinée en or comme le ciel, que traversent quelques petits bateaux, avec au loin une ligne basse de montagnes. Trois bâtons sont plantés autour de lui, tous couverts de jeunes feuilles ; il tient celui de droite, sans forcer, appuyé dessus.
+
+Il porte une longue robe rouge, une cape verte sur une épaule, une bande noire à motifs jaunes en travers du dos, une manche bleue et un bandeau blanc dans les cheveux.
+
+On ne voit jamais son visage. On voit ce qu’il voit. **Le Trois de Bâtons, c’est quelqu’un qui regarde partir ses bateaux — le travail est lancé, et il voyage désormais sans lui.**
 
 ## Par le nombre : trois {#nombre}
 
-**trois — créer, célébrer, le premier résultat.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**trois — créer, célébrer, le premier résultat.** [Trois](/fr/bibliotheque/numerologie/chiffre-3/), c’est la cadence : la machine qui tourne, le contrat qui marche. Après l’hésitation du Deux, quelque chose a été envoyé, et ça tient. Dans l’histoire d’Instagram, c’est le lancement : les gens s’inscrivent, publient, reviennent, et la machine tourne sans qu’on la pousse.
+
+Mon conseil devant un 3 : terminez un projet avant d’en commencer un autre — et sur cette carte, il vise juste. Un homme qui a vu partir ses premiers bateaux imagine déjà la flotte suivante. Le revers du 3, c’est exactement ça : lancer du neuf avant que le reste soit rentré au port, et une certaine solitude en haut de la falaise.
 
 ## Par l’élément : Feu {#element}
 
-{{< todo >}}À ÉCRIRE — ce que [Feu](/fr/bibliotheque/quatre-elements/element-feu/) apporte ici : de quoi la carte parle.{{< /todo >}}
+Ici, le [Feu](/fr/bibliotheque/quatre-elements/element-feu/) n’est plus une étincelle ni un plan : c’est un élan lâché dans le monde, qui travaille à distance. C’est ce que le Feu supporte le moins bien. Une fois les bateaux partis, on ne les fait pas avancer plus vite en les fixant du regard.
+
+Le Trois montre le Feu maîtrisé — calme, planté, appuyé sur son propre travail — et sa limite : ce qu’il a allumé voyage maintenant, sous des vents qu’il ne commande pas.
 
 ## Par les couleurs {#couleurs}
 
-{{< todo >}}À ÉCRIRE — les couleurs dominantes et ce qu’elles disent avant la carte ([la grille des couleurs](/fr/bibliotheque/couleurs-tarot/)).{{< /todo >}}
+Le [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) inonde le ciel comme la mer : la joie, l’optimisme, la fierté, la volonté — le soleil sur un projet qui marche. Face à lui, la robe [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) de l’homme : l’action, la force, celui qui a fait advenir les choses.
+
+La cape verte ajoute la croissance : ce qu’il a envoyé doit revenir plus grand. La touche de bleu sur sa manche, seule couleur froide sur lui, c’est l’émotion tenue en bride. Du jaune partout, du rouge au centre : une carte confiante, peut-être un peu fière.
 
 ## Par l’astrologie : Soleil en Bélier {#astrologie}
 
-{{< todo >}}À ÉCRIRE — Soleil en Bélier, dans la tradition Golden Dawn ; ce que ça ajoute, et si ça vaut la peine de le garder ([astrologie](/fr/bibliotheque/astrologie/)).{{< /todo >}}
+Dans la tradition Golden Dawn, le Trois de Bâtons correspond au Soleil en Bélier, deuxième décan du signe, avec le titre de « Seigneur de la Force établie » (Lord of Established Strength). Le [Soleil](/fr/bibliotheque/astrologie/soleil/), c’est le centre d’un thème, ce qu’une personne veut montrer ; le Bélier dit « je suis » et passe le premier. Ensemble : une initiative devenue visible, et contente de l’être.
+
+La clé colle au dessin — un homme en pleine lumière, au premier plan de sa propre histoire. Elle reste facultative : le jaune vous a déjà dit la même chose.
 
 ## En lecture {#lecture}
 
-{{< todo >}}À ÉCRIRE — à l’endroit, renversée, selon les cartes voisines. Une chose à retenir en gras.{{< /todo >}}
+À l’endroit, le Trois de Bâtons dit : c’est lancé, et ça marche. Un projet envoyé, une candidature déposée, une petite entreprise qui vend au-delà de son premier cercle — souvent avec une idée de distance : l’étranger, en ligne, loin de là où vous êtes. La personne attend des retours et a des raisons d’être confiante. **Le Trois de Bâtons, c’est la patience de quelqu’un qui a fait sa part : les bateaux sont partis, laissez-les naviguer.**
+
+Renversé, l’attente s’aigrit. Les bateaux sont en retard, ou ne sont jamais vraiment partis : le projet annoncé mais pas envoyé, le mail qui dort dans les brouillons. Ou l’excès du 3 — lancer une quatrième idée alors que les trois premières ne sont pas rentrées, et appeler ça de l’ambition.
+
+À côté du [Huit de Bâtons](/fr/bibliotheque/cartes-tarot/huit-de-batons/), les retours arrivent vite — nouvelles, réponses, tout en même temps ; verre à moitié plein ou à moitié vide, selon votre regard. À côté du [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/), l’autre visage du 3 : l’un regarde loin, l’autre travaille sur le chantier en équipe, et le projet a besoin des deux. À côté du [Sept de Coupes](/fr/bibliotheque/cartes-tarot/sept-de-coupes/), trop de bateaux pour un seul port : les options s’empilent, aucune n’est choisie.
+
+{{< cards "wa08 pe03 cu07" >}}
 
 ## Exemple de tirage {#exemple}
 
-{{< todo >}}À ÉCRIRE — un tirage réel anonymisé : clés de lecture d’abord, phrase dite, ce que la personne a confirmé.{{< /todo >}}
+Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Trois de Bâtons à côté du Quatre d’Épées. Les clés de lecture d’abord. Le nombre : trois, puis quatre — ça tourne, puis ça se pose. L’élément : le Feu, puis l’Air — l’élan, puis la pensée. Les couleurs : le jaune ensoleillé du Trois, puis la pierre pâle du Quatre d’Épées, un gisant aux mains jointes sous un vitrail.
+
+La phrase que je dirais à voix haute : « Vous avez envoyé quelque chose récemment — un projet, une candidature, une proposition — et maintenant vous attendez. Vous n’avez pas besoin d’en faire plus pour l’instant. Vous avez besoin de vous reposer pendant que ça voyage. »
+
+Ensuite je demande si ça parle. Si oui, je demande ce qu’on a envie de faire au lieu de se reposer, parce que c’est souvent là que se cache la prochaine erreur. Si non, ça va dans le carnet comme un raté. Le nombre, l’élément, les couleurs, une phrase, puis la vérification : cet ordre, c’est [la méthode](/fr/methode/), et il marche sur n’importe quelle paire de cartes.

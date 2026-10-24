@@ -9,15 +9,15 @@ suit: cups
 suitLabel: Coupes
 number: 11
 cardId: cupa
-element: Terre de Eau
+element: Terre d’Eau
 numerology: le Valet — l’élève, le message, l’élan neuf
 astrology: ''
 energy: Féminine
 kabbalah: ''
 image: cards/cupa.webp
-h1: Valet de Coupes — <em>le Valet</em>, la Terre de eau
+h1: Valet de Coupes — <em>le Valet</em>, la Terre d’eau
 lede: 'Avant de chercher ce que « signifie » Valet de Coupes, regardez ce que vous
-  avez déjà : le Valet, l’élément Terre de Eau. Vous lisez la carte. Le nombre dit
+  avez déjà : le Valet, l’élément Terre d’Eau. Vous lisez la carte. Le nombre dit
   le Valet — l’élève, le message, l’élan neuf ; l’élément dit les émotions, ce qui
   circule. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous
   parle déjà — le reste de la page vous montre comment.'

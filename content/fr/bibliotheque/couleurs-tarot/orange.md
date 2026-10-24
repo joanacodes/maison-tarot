@@ -37,7 +37,7 @@ gallery: []
 
 ## Où la couleur apparaît dans le jeu {#ou}
 
-Le sol et le ciel de nombreux Bâtons — le Trois, le Cinq, le Sept —, la robe du Cavalier de Bâtons, les tentures du Chariot, le fond de la Roue de Fortune, les flammes du Diable. Là où le monde chauffe.
+Le sol et le ciel de nombreux Bâtons — le Trois, le Cinq, le Sept —, la robe du Cavalier de Bâtons, les tentures du Chariot, la Roue de Fortune elle-même, les flammes du Diable. Là où le monde chauffe.
 
 {{< cards "wakn ar07 ar10 ar15" >}}
 

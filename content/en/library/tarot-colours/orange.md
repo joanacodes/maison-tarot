@@ -36,7 +36,7 @@ gallery: []
 
 ## Where the colour appears in the deck {#where}
 
-The ground and sky of many Wands — the Three, the Five, the Seven — the Knight of Wands' robe, the Chariot's canopy, the background of the Wheel of Fortune, the Devil's flames. Wherever the world heats up.
+The ground and sky of many Wands — the Three, the Five, the Seven — the Knight of Wands' robe, the Chariot's canopy, the Wheel of Fortune itself, the Devil's flames. Wherever the world heats up.
 
 {{< cards "wakn ar07 ar10 ar15" >}}
 

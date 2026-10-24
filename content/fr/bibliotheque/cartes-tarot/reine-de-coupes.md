@@ -9,15 +9,15 @@ suit: cups
 suitLabel: Coupes
 number: 13
 cardId: cuqu
-element: Eau de Eau
+element: Eau d’Eau
 numerology: la Reine — la maîtrise intérieure, l’accueil
 astrology: ''
 energy: Féminine
 kabbalah: ''
 image: cards/cuqu.webp
-h1: Reine de Coupes — <em>la Reine</em>, l’Eau de eau
+h1: Reine de Coupes — <em>la Reine</em>, l’Eau d’eau
 lede: 'Avant de chercher ce que « signifie » Reine de Coupes, regardez ce que vous
-  avez déjà : la Reine, l’élément Eau de Eau. Vous lisez la carte. Le nombre dit la
+  avez déjà : la Reine, l’élément Eau d’Eau. Vous lisez la carte. Le nombre dit la
   Reine — la maîtrise intérieure, l’accueil ; l’élément dit les émotions, ce qui circule.
   Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
   — le reste de la page vous montre comment.'

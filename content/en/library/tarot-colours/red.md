@@ -37,7 +37,7 @@ gallery: []
 
 ## Where the colour appears in the deck {#where}
 
-The Magician's outer cloak and his belt; the red feather of the Fool and the Sun; Strength's robe; the Emperor's cloak; the Knight of Wands' clothes; Death's banner; the wings of the Lovers' angel. Red is almost always on a body doing something.
+The Magician's outer cloak and his belt; the red feather of the Fool and the Sun; Strength's lion; the Emperor's cloak; the Knight of Wands' clothes; Death's banner; the wings of the Lovers' angel. Red is almost always on a body doing something.
 
 {{< cards "ar01 ar00 ar19 ar08 ar04 wakn ar13 ar06" >}}
 

@@ -1,8 +1,7 @@
 ---
 title: 'As de Bâtons (Ace of Wands) — tarot Rider-Waite-Smith : lire la carte par
   ses clés de lecture'
-description: 'As de Bâtons : ce qu’on voit sur la carte, puis le nombre, l’élément
-  (Feu), les couleurs et Racine de Feu. Lire la carte sans l’avoir apprise.'
+description: 'As de Bâtons : une main sortie d’un nuage tend une branche vivante. Lisez-la par le nombre, le Feu et les couleurs — l’étincelle d’un projet, et ce qu’elle demande.'
 translationKey: card-waac
 type: cards
 navTitle: As de Bâtons
@@ -29,11 +28,11 @@ related:
 - /bibliotheque/astrologie
 faq:
 - q: Que signifie As de Bâtons ?
-  a: 'Il n’y a pas une signification à apprendre : As de Bâtons se lit par son nombre
-    (un), son élément (Feu) et ses couleurs. La page ci-dessus les pose une à une.'
+  a: 'L’As de Bâtons est un 1 de Feu : un élan, une idée ou un désir qui vient d’arriver et qui veut grandir. Il donne l’étincelle et la matière première, pas le résultat ; le conseil qui l’accompagne, c’est de rester humble et de se préparer à apprendre.'
 - q: As de Bâtons renversé, ça change quoi ?
-  a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
-    l’endroit, puis ce qui bloque ou déborde.
+  a: 'Renversé, l’élan est là mais ne passe pas à l’action : le projet dont on parle depuis des mois, l’enthousiasme qui retombe avant le premier pas, ou dix débuts sans suite. On regarde ce qui retient l’étincelle, ou ce qui l’éparpille.'
+- q: Que veut dire l’As de Bâtons en amour ?
+  a: 'Il parle d’un désir qui arrive : une attirance nouvelle, une étincelle, ou une relation qui retrouve son énergie. Il ne dit rien de la durée ; elle dépend de ce que les deux personnes en feront.'
 categories:
 - Bâtons
 tags:
@@ -44,28 +43,48 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-{{< todo >}}À ÉCRIRE — décrire le dessin de Pamela Colman Smith, détail par détail : personnages, objets, posture, ce qui manque.{{< /todo >}}
+Une main sort d’un nuage gris et serre un bâton. Pas une baguette taillée : une branche brute, noueuse, encore vivante, d’où poussent de jeunes feuilles vertes. Quelques feuilles se sont détachées et tombent doucement. Autour de la main, de fins traits rayonnent, comme si elle éclairait. Tout en bas : des collines vertes, une rivière qui serpente, quelques arbres, des montagnes au loin et, sur une hauteur, un château.
+
+Regardez ce qui manque : personne. Pas de visage, pas de corps, rien qui dise à qui appartient cette main. La branche n’est ni plantée ni mise au travail — elle est tendue, et le château est encore loin. **Tout le dessin est une offre : une branche vivante qu’on vous tend, avec tout le pays encore à traverser.**
 
 ## Par le nombre : un {#nombre}
 
-**un — le début, le diamant brut.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**un — le début, le diamant brut.** Un As est un [1](/fr/bibliotheque/numerologie/chiffre-1/) : le début d’un cycle, plein de valeur et pas encore utilisable. C’est exactement cette branche. Elle vit, elle pousse, et vous ne pouvez rien en faire aujourd’hui — ce n’est ni une torche ni un outil. C’est du bois brut.
+
+Mon conseil devant un 1, c’est l’humilité : préparez-vous à apprendre. Avec cette carte, il compte plus que d’habitude, parce que le Feu déteste être débutant. L’élan dit « je sais où ça va » ; le nombre répond « vous êtes à la première page ». Pensez à Burbn devenu Instagram : une seule fonction qui marchait, et aucune preuve encore qu’elle valait quelque chose. Le revers du 1, c’est de faire comme si le diamant était déjà taillé.
 
 ## Par l’élément : Feu {#element}
 
-{{< todo >}}À ÉCRIRE — ce que [Feu](/fr/bibliotheque/quatre-elements/element-feu/) apporte ici : de quoi la carte parle.{{< /todo >}}
+Les Bâtons, c’est le [Feu](/fr/bibliotheque/quatre-elements/element-feu/) : la création, la destruction, l’impulsion, l’énergie qui motive. Le Feu forge, réchauffe, éclaire la nuit, et se propage vite quand personne ne le maîtrise. L’As, c’est le Feu avant tout cela — l’étincelle, avant qu’elle ait choisi quoi réchauffer et quoi brûler.
+
+D’où une carte qui parle du désir au sens large : un projet, une vocation, une attirance, parfois la libido tout court. L’adolescent plein de vie qui se croit capable de tout, le matin où il se réveille avec l’idée.
 
 ## Par les couleurs {#couleurs}
 
-{{< todo >}}À ÉCRIRE — les couleurs dominantes et ce qu’elles disent avant la carte ([la grille des couleurs](/fr/bibliotheque/couleurs-tarot/)).{{< /todo >}}
+Le brun-[orange](/fr/bibliotheque/couleurs-tarot/orange/) de la branche, c’est le bois et la chaleur : la créativité, la libido — et, en revers, l’aridité, que les feuilles tiennent à distance. Le [vert](/fr/bibliotheque/couleurs-tarot/vert/) des feuilles et des collines dit la croissance, la vie : cet élan pousse, il ne fait pas que brûler. Le gris du nuage, c’est la neutralité — l’offre ne dit pas d’où elle vient.
+
+Ensemble, avant toute signification : quelque chose de chaud et de vivant, tendu au-dessus d’une terre verte. C’est déjà une lecture.
 
 ## Par l’astrologie : Racine de Feu {#astrologie}
 
-{{< todo >}}À ÉCRIRE — Racine de Feu, dans la tradition Golden Dawn ; ce que ça ajoute, et si ça vaut la peine de le garder ([astrologie](/fr/bibliotheque/astrologie/)).{{< /todo >}}
+Dans le système de la Golden Dawn, les mineurs du Deux au Dix reçoivent chacun un décan, une planète dans un signe. Pas les As : chacun est la « racine » de son élément, et celui-ci porte le titre de Racine des Pouvoirs du Feu (Root of the Powers of Fire). Ce n’est pas une position qu’on trouve dans un thème natal ; c’est la source où puise toute la famille, du Deux en Bélier au Dix en Sagittaire.
+
+Si l’[astrologie](/fr/bibliotheque/astrologie/) vous parle, gardez l’image de la racine. Sinon, vous ne perdez rien : les autres clés de lecture l’ont déjà dit.
 
 ## En lecture {#lecture}
 
-{{< todo >}}À ÉCRIRE — à l’endroit, renversée, selon les cartes voisines. Une chose à retenir en gras.{{< /todo >}}
+À l’endroit, l’As de Bâtons est un élan qui vient d’arriver : l’idée de deux heures du matin, l’envie de lancer un projet, de vous former, de déménager, de dire oui à quelqu’un. Il donne l’impulsion et la matière, pas le résultat. **L’As de Bâtons vous donne l’étincelle, pas le feu : ce que vous en ferez reste à construire.**
+
+Renversé, la branche reste dans le nuage : le même projet raconté au dîner pour le troisième mois de suite, l’enthousiasme retombé avant le premier pas. Ou l’excès inverse — dix débuts sans suite, ou un élan si fort qu’on saute l’apprentissage et qu’on se brûle.
+
+À côté du [Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/), autre 1, l’idée rencontre ses outils : c’est le bon moment pour commencer. À côté de l’[As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/), le Feu trouve un sol — un lieu, un budget, une base. À côté du [Dix de Bâtons](/fr/bibliotheque/cartes-tarot/dix-de-batons/), une idée neuve tombe sur des épaules déjà chargées ; ce que je dis du Dix — garder l’énergie créative sans se surcharger — vaut pour les deux.
+
+{{< cards "ar01 peac wa10" >}}
 
 ## Exemple de tirage {#exemple}
 
-{{< todo >}}À ÉCRIRE — un tirage réel anonymisé : clés de lecture d’abord, phrase dite, ce que la personne a confirmé.{{< /todo >}}
+Imaginons : quelqu’un s’assied, ne vous dit rien, et tire l’As de Bâtons à côté du Sept de Coupes. Les clés de lecture d’abord. Le nombre : un, puis sept — quelque chose commence, puis vient une pause pour peser. L’élément : le Feu, puis l’Eau — un élan, puis la rêverie. Les couleurs : l’orange et le vert, chauds, puis une silhouette sombre face à des coupes posées sur des nuages. Du net au flou.
+
+La phrase que je dirais à voix haute : « Vous avez une idée qui a très envie de démarrer, et vous savez laquelle. Mais il y en a plusieurs autour, et vous dépensez votre énergie à les regarder toutes au lieu d’en faire pousser une. »
+
+Ensuite je demande si ça parle — pas avant, puisque la personne ne me dit rien tant que je n’ai pas parlé : c’est [la règle du silence](/fr/blog/regle-du-silence-tarot/). Si non, c’est un raté, et je ne le rattrape pas avec une troisième carte. Si oui, la question utile devient : « Laquelle voulez-vous faire pousser en premier ? »

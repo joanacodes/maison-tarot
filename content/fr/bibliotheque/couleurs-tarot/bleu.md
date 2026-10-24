@@ -37,7 +37,7 @@ gallery: []
 
 ## Où la couleur apparaît dans le jeu {#ou}
 
-La robe de la Grande Prêtresse, le manteau de l’Impératrice, l’eau de toutes les Coupes, la robe de la Tempérance, la rivière au pied de l’Empereur, le fond du Cavalier de Coupes. Le bleu est là où l’émotion est là.
+La robe de la Grande Prêtresse, le manteau de l’Impératrice, l’eau de toutes les Coupes, l’eau que la Tempérance verse d’une coupe à l’autre, la rivière au pied de l’Empereur, le fond du Cavalier de Coupes. Le bleu est là où l’émotion est là.
 
 {{< cards "ar02 ar03 ar14 ar04 cukn" >}}
 

@@ -41,7 +41,7 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-Une haute tour de pierre grise se dresse sur un piton rocheux, sous un ciel noir. Un éclair frappe le sommet et fait sauter le toit, qui a la forme d’une couronne. Des flammes jaillissent des fenêtres. Deux personnages tombent la tête la première, l’un porte encore sa couronne, et de petites flammes jaunes en forme de gouttes tombent tout autour d’eux. Au tarot de Marseille, la carte s’appelle la Maison Dieu.
+Une haute tour de pierre grise se dresse sur un piton rocheux, sous un ciel noir. Un éclair frappe le sommet et fait sauter le toit, qui a la forme d’une couronne. Des flammes jaillissent des fenêtres. Deux personnages tombent la tête la première, l’un d’eux portant encore sa couronne, et de petites flammes jaunes en forme de gouttes tombent tout autour d’eux. Au tarot de Marseille, la carte s’appelle la Maison Dieu.
 
 Regardez ce que le dessin ne montre pas : personne à l’intérieur pour éteindre le feu, pas de pluie, et l’on ne voit personne atterrir. **Pamela Colman Smith a arrêté l’image au moment de la chute, pas après.** Le dessin parle d’une structure qui ne pouvait pas tenir, et de la seconde où elle cède.
 
@@ -59,7 +59,7 @@ La Tour, c’est la version rapide. Elle fait peur, et elle est honnête : on vo
 
 ## Par les couleurs {#couleurs}
 
-Le ciel est [noir](/fr/bibliotheque/couleurs-tarot/noir/) : l’absence, le vide, la réalité sans vernis. La tour est grise, la couleur d’une structure qui tient sans rien dire — jusqu’au jour où elle ne tient plus. Puis le jaune de l’éclair et des gouttes, qui dit dans ma grille la volonté et l’orgueil (bien vu, sur une carte où une couronne tombe), et le rouge orangé des flammes : l’action, l’impulsion. Lisez les couleurs avant la carte et vous avez déjà : une vérité nue, quelque chose qui ne bougeait plus, et un élan qui n’attendra pas.
+Le ciel est [noir](/fr/bibliotheque/couleurs-tarot/noir/) : l’absence, le vide, la réalité sans vernis. La tour est grise, la couleur d’une structure qui tient sans rien dire — jusqu’au jour où elle ne tient plus. Puis le jaune de l’éclair et des gouttes, qui dit dans ma grille la volonté et l’orgueil (de circonstance, sur une carte où une couronne tombe), et le rouge orangé des flammes : l’action, l’impulsion. Lisez les couleurs avant la carte et vous avez déjà : une vérité nue, quelque chose qui ne bougeait plus, et un élan qui n’attendra pas.
 
 ## Par l’astrologie : Mars {#astrologie}
 

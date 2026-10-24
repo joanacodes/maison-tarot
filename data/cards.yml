@@ -499,7 +499,7 @@
   element_en: Water
   energy_fr: Féminine
   energy_en: Feminine
-  astro_fr: Racine de Eau
+  astro_fr: Racine d’Eau
   astro_en: Root of Water
 - id: cu02
   suit: cups
@@ -625,7 +625,7 @@
   name_en: Page of Cups
   slug_fr: valet-de-coupes
   slug_en: page-of-cups
-  element_fr: Terre de Eau
+  element_fr: Terre d’Eau
   element_en: Earth of Water
   astro_fr: ''
   astro_en: ''
@@ -638,7 +638,7 @@
   name_en: Knight of Cups
   slug_fr: cavalier-de-coupes
   slug_en: knight-of-cups
-  element_fr: Air de Eau
+  element_fr: Air d’Eau
   element_en: Air of Water
   astro_fr: ''
   astro_en: ''
@@ -651,7 +651,7 @@
   name_en: Queen of Cups
   slug_fr: reine-de-coupes
   slug_en: queen-of-cups
-  element_fr: Eau de Eau
+  element_fr: Eau d’Eau
   element_en: Water of Water
   astro_fr: ''
   astro_en: ''
@@ -664,7 +664,7 @@
   name_en: King of Cups
   slug_fr: roi-de-coupes
   slug_en: king-of-cups
-  element_fr: Feu de Eau
+  element_fr: Feu d’Eau
   element_en: Fire of Water
   astro_fr: ''
   astro_en: ''
@@ -681,7 +681,7 @@
   element_en: Air
   energy_fr: Masculine
   energy_en: Masculine
-  astro_fr: Racine de Air
+  astro_fr: Racine d’Air
   astro_en: Root of Air
 - id: sw02
   suit: swords
@@ -807,7 +807,7 @@
   name_en: Page of Swords
   slug_fr: valet-de-epees
   slug_en: page-of-swords
-  element_fr: Terre de Air
+  element_fr: Terre d’Air
   element_en: Earth of Air
   astro_fr: ''
   astro_en: ''
@@ -820,7 +820,7 @@
   name_en: Knight of Swords
   slug_fr: cavalier-de-epees
   slug_en: knight-of-swords
-  element_fr: Air de Air
+  element_fr: Air d’Air
   element_en: Air of Air
   astro_fr: ''
   astro_en: ''
@@ -833,7 +833,7 @@
   name_en: Queen of Swords
   slug_fr: reine-de-epees
   slug_en: queen-of-swords
-  element_fr: Eau de Air
+  element_fr: Eau d’Air
   element_en: Water of Air
   astro_fr: ''
   astro_en: ''
@@ -846,7 +846,7 @@
   name_en: King of Swords
   slug_fr: roi-de-epees
   slug_en: king-of-swords
-  element_fr: Feu de Air
+  element_fr: Feu d’Air
   element_en: Fire of Air
   astro_fr: ''
   astro_en: ''

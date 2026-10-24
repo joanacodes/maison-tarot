@@ -9,15 +9,15 @@ suit: cups
 suitLabel: Coupes
 number: 12
 cardId: cukn
-element: Air de Eau
+element: Air d’Eau
 numerology: le Cavalier — l’action, la quête, l’excès
 astrology: ''
 energy: Masculine
 kabbalah: ''
 image: cards/cukn.webp
-h1: Cavalier de Coupes — <em>le Cavalier</em>, l’Air de eau
+h1: Cavalier de Coupes — <em>le Cavalier</em>, l’Air d’eau
 lede: 'Avant de chercher ce que « signifie » Cavalier de Coupes, regardez ce que vous
-  avez déjà : le Cavalier, l’élément Air de Eau. Vous lisez la carte. Le nombre dit
+  avez déjà : le Cavalier, l’élément Air d’Eau. Vous lisez la carte. Le nombre dit
   le Cavalier — l’action, la quête, l’excès ; l’élément dit les émotions, ce qui circule.
   Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
   — le reste de la page vous montre comment.'

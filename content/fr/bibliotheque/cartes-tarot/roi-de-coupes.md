@@ -9,15 +9,15 @@ suit: cups
 suitLabel: Coupes
 number: 14
 cardId: cuki
-element: Feu de Eau
+element: Feu d’Eau
 numerology: le Roi — la maîtrise extérieure, la décision
 astrology: ''
 energy: Masculine
 kabbalah: ''
 image: cards/cuki.webp
-h1: Roi de Coupes — <em>le Roi</em>, le Feu de eau
+h1: Roi de Coupes — <em>le Roi</em>, le Feu d’eau
 lede: 'Avant de chercher ce que « signifie » Roi de Coupes, regardez ce que vous avez
-  déjà : le Roi, l’élément Feu de Eau. Vous lisez la carte. Le nombre dit le Roi —
+  déjà : le Roi, l’élément Feu d’Eau. Vous lisez la carte. Le nombre dit le Roi —
   la maîtrise extérieure, la décision ; l’élément dit les émotions, ce qui circule.
   Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
   — le reste de la page vous montre comment.'
