@@ -30,7 +30,7 @@ faq:
 | Grey | Neutrality, absence of will, stability | — |
 | Purple / fuchsia | The one chosen by a group | — |
 
-Each colour will have its page, with the cards where it dominates and what it does there. Until then, the grid is enough to start.
+Each colour has its own page below, with the cards where it dominates and what it does there.
 
 ## How to use this lens {#how}
 

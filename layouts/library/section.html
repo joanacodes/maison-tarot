@@ -39,10 +39,10 @@
   {{ end }}
   {{ with $pages }}
   <div class="grid" style="margin-top:2rem;align-items:start">
-    <div class="s8"><ul class="index-list big">{{ range sort . "Weight" "asc" }}<li><a href="{{ .RelPermalink }}"><span><span class="title">{{ .Params.navTitle | default .Title }}</span>{{ with .Params.description }}<span class="meta">{{ . }}</span>{{ end }}</span><span class="arrow">→</span></a></li>{{ end }}</ul></div>
+    <div class="s8">{{ if not $sections }}{{ with $.Content }}<div class="prose" style="margin-bottom:2.5rem">{{ . }}</div>{{ end }}{{ end }}<ul class="index-list big">{{ range sort . "Weight" "asc" }}<li><a href="{{ .RelPermalink }}"><span><span class="title">{{ .Params.navTitle | default .Title }}</span>{{ with .Params.description }}<span class="meta">{{ . }}</span>{{ end }}</span><span class="arrow">→</span></a></li>{{ end }}</ul></div>
     <div class="s4 sticky">{{ partial "guide-form.html" $ }}</div>
   </div>
-  {{ else }}{{ if not $sections }}<p class="muted">{{ if $fr }}Pages en cours d’écriture.{{ else }}Pages being written.{{ end }}</p>{{ end }}{{ end }}
+  {{ else }}{{ if not $sections }}{{ with .Content }}<div class="prose" style="margin-top:2rem">{{ . }}</div>{{ end }}<p class="muted">{{ if $fr }}Pages en cours d’écriture.{{ else }}Pages being written.{{ end }}</p>{{ end }}{{ end }}
   {{ if $sections }}<div class="prose" style="margin-top:2.5rem">{{ .Content }}</div>{{ end }}
 </section>
 {{ end }}

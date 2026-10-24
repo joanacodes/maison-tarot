@@ -30,7 +30,7 @@ faq:
 | Gris | Neutralité, absence de volonté, stabilité | — |
 | Violet / fuchsia | L’élu choisi par un groupe | — |
 
-Chaque couleur aura sa page, avec les cartes où elle domine et ce qu’elle y fait. En attendant, la grille suffit pour commencer.
+Chaque couleur a sa page, juste en dessous, avec les cartes où elle domine et ce qu’elle y fait.
 
 ## Comment poser cette clé {#comment}
 
