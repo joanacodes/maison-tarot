@@ -8,7 +8,7 @@ categories: ["Idées reçues"]
 tags: ["dépendance au tarot", "faire une pause", "validation extérieure", "tarot addiction"]
 image: "covers/why-you-should-quit-tarot-reading.jpg"
 imageAlt: "Un jeu de cartes rangé dans un tiroir, le tiroir à demi fermé"
-imagePrompt: "A deck of cards put away in a half-closed wooden drawer. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
+imagePrompt: "A deck of cards put away in a half-closed wooden drawer. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Si vous tirez des cartes tous les jours sur la même question, le tarot a cessé d’être un outil pour devenir une habitude qui nourrit le doute. Un lecteur qui vous laisse faire ne vous aide pas. Rangez le jeu, prenez la décision que vous tournez, et revenez dans un mois — les cartes seront toujours là, et vous les lirez mieux."
 ---
 Le tarot, c’est formidable. Le vin aussi. Les ennuis commencent quand on en a besoin pour passer l’après-midi.

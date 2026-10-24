@@ -19,7 +19,7 @@ tags:
 featured: true
 image: "covers/how-to-read-tarot-beginners.jpg"
 imageAlt: "Une carte face cachée sur une table en bois, une main qui va la retourner"
-imagePrompt: "A single card face down on a wooden table, a hand about to turn it over. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
+imagePrompt: "A single card face down on a wooden table, a hand about to turn it over. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: 'Asseyez-vous avec un jeu, tirez une carte, et avant d’ouvrir la bouche dites-vous
   : je vais dire n’importe quoi. Puis dites ce que vous voyez — les couleurs, le nombre,
   l’élément — sans chercher à avoir raison. Cette phrase éteint la partie de vous
