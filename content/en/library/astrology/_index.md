@@ -33,7 +33,7 @@ faq:
 | Aquarius | The Star | I know | Uranus, Saturn | Air | Fixed | Masculine | Electric blue |
 | Pisces | The Moon | I believe | Neptune, Jupiter | Water | Mutable | Feminine | Sea green, purple |
 
-Each sign will have its page, with its keywords, its favourable and unfavourable sides, its archetype and its animal — from my notes, which are not horoscopes.
+Each sign has its own page below, with its keywords, its favourable and unfavourable sides, its archetype and its animal — from my notes, which are not horoscopes.
 
 ## What the test showed {#the-test}
 
