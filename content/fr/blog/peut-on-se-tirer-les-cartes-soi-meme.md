@@ -9,7 +9,7 @@ tags: ["se tirer les cartes soi-même", "tirage pour soi", "tarot pour soi-même
 image: "covers/reading-tarot-for-yourself.jpg"
 imageAlt: "Une femme vue de dos, assise seule à une table de cuisine avec un jeu de cartes et un carnet ouvert, dans la lumière du matin"
 imagePrompt: "A woman seen from behind sitting alone at a kitchen table with a deck of cards and an open notebook, morning light on the table. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Oui, on peut se tirer les cartes soi-même, et la plupart des tarologues commencent ainsi : une carte par jour, décrite avant d’être interprétée. La difficulté n’est ni la malchance ni l’énergie, c’est l’honnêteté. Vous connaissez déjà la question, le contexte et la réponse que vous espérez, alors vous lisez votre espoir ou votre peur plutôt que la carte. Écrire la question d’abord, décrire la carte par son nombre, son élément et ses couleurs, tirer une seule fois, relire une semaine plus tard : voilà ce qui vous garde honnête. Laissez de côté les questions lourdes, rangez le jeu quand vous êtes bouleversé, puis lisez pour quelqu’un qui ne vous dit rien."
+summary: "Oui, on peut se tirer les cartes soi-même, et la plupart des tarologues commencent ainsi : une carte par jour, décrite avant d’être interprétée. La difficulté n’est ni la malchance ni l’énergie, c’est l’honnêteté. Vous connaissez déjà la question, le contexte et la réponse que vous espérez, alors vous lisez votre espoir ou votre peur plutôt que la carte. Écrire la question d’abord, décrire la carte (nombre, élément, couleurs), tirer une fois et relire une semaine plus tard vous gardent honnête. Laissez de côté les questions lourdes, rangez le jeu quand quelque chose vous bouleverse, puis lisez pour quelqu’un qui ne vous dit rien."
 ---
 Oui, on peut se tirer les cartes soi-même, et la plupart des tarologues commencent par là. La difficulté n’est ni la chance ni l’énergie : c’est l’honnêteté. Quand vous lisez vos propres cartes, vous connaissez la question, le contexte et la réponse que vous espérez, si bien que la règle qui garde mes lectures pour les autres honnêtes ne peut pas s’appliquer. Voici les habitudes qui la remplacent.
 
@@ -61,7 +61,7 @@ Le lundi suivant, vous relisez. Ce qui a tenu : vous avez dit ce que vous aviez 
 
 Le carnet vous rend la personne qui dit, après coup, « oui, c’était juste » ou « non, c’était raté ». Cette personne, c’est vous, une semaine plus tard, plus calme.
 
-Et si vous regardez une carte sans rien voir, arrêtez-vous. Parfois, le blocage vient de vous : trop de pression sur la question. Revenez un autre jour. Interpréter demande de l’énergie, et vous avez le droit d’être fatigué.
+Et si vous regardez une carte sans rien voir, arrêtez-vous. Parfois, le blocage vient de vous : trop de pression sur la question. Revenez un autre jour. Interpréter demande de l’énergie, et vous avez le droit d’avoir besoin de repos.
 
 ## Les questions qui marchent quand on se tire les cartes {#bonnes-questions}
 
@@ -79,10 +79,10 @@ Les questions sur un résultat qui ne dépend pas de vous, ou sur ce que pense q
 
 Se tirer les cartes est un bon entraînement. Ça peut aussi devenir une habitude qui produit l’inverse de ce que vous cherchiez. Quelques signes :
 
-- Vous êtes bouleversé et vous voulez que les cartes vous apaisent. Vous lirez le bouleversement, pas la carte.
+- Quelque chose vous bouleverse et vous voulez que les cartes vous apaisent. Vous lirez le bouleversement, pas la carte.
 - Vous avez posé la même question plus de deux fois dans le mois. Ce n’est plus lire, c’est attendre une permission. J’en parle dans [ce que les tirages à répétition vous font](/fr/blog/combien-de-temps-entre-deux-tirages/).
 - Vous attendez qu’une carte prenne une décision que vous pourriez prendre aujourd’hui. Le tarot n’est pas une autorité. Agissez selon ce que vous ressentez.
-- Les cartes tiennent la place d’une personne : une amie que vous n’avez pas appelée, un médecin que vous n’êtes pas allé voir, un ou une thérapeute. Parfois, ce qui se passe est d’ordre psychologique, et la bonne porte n’est pas un jeu de cartes. Il n’y a aucun échec à la franchir.
+- Les cartes tiennent la place d’une personne : une amie que vous n’avez pas appelée, un médecin à qui vous n’avez pas encore parlé, un ou une thérapeute. Parfois, ce qui se passe est d’ordre psychologique, et la bonne porte n’est pas un jeu de cartes. Il n’y a aucun échec à la franchir.
 
 Dans chacun de ces cas, quelques semaines sans les cartes font plus qu’un tirage de plus. Vous avez besoin de vous faire confiance, de décider, de vous tromper et de vivre avec un peu d’imperfection — et ces muscles-là ne se développent que quand le jeu ne porte pas la charge à votre place.
 
@@ -90,6 +90,6 @@ Dans chacun de ces cas, quelques semaines sans les cartes font plus qu’un tira
 
 Se tirer les cartes vous apprend le jeu. Lire pour quelqu’un d’autre vous apprend si vous savez lire. Seule une autre personne peut s’asseoir en face, se taire, puis vous dire ce qui a touché juste et ce qui est tombé à côté.
 
-Alors, après quelques semaines d’une carte chaque matin, trouvez une personne. Une amie capable de garder un visage de joueur de poker, un inconnu dans un groupe de tarot, une correspondante ; j’ai trouvé mes premiers inconnus sur un serveur Discord découvert via Tumblr. Tirez une carte, dites ce que vous voyez, et ne laissez la personne parler qu’à la fin. La première fois que vous direz quelque chose de vrai sur quelqu’un qui ne vous a rien dit, et que vous serez aussi surpris que lui, vous comprendrez pourquoi j’enseigne. On ne peut pas vous dire ce que ça fait. On peut seulement essayer.
+Alors, après quelques semaines d’une carte chaque matin, trouvez une personne. Une amie capable de garder un visage de joueur de poker, un inconnu dans un groupe de tarot, une correspondante ; j’ai trouvé mes premiers inconnus sur un serveur Discord découvert via Tumblr. Tirez une carte, dites ce que vous voyez, et ne laissez la personne parler qu’à la fin. La première fois que vous direz quelque chose de vrai sur quelqu’un qui ne vous a rien dit, et que la surprise sera des deux côtés de la table, vous comprendrez pourquoi j’enseigne. On ne peut pas vous dire ce que ça fait. On peut seulement essayer.
 
 Si vous ne savez pas où chercher, voici [où trouver des personnes à qui tirer les cartes, et qui ne vous disent rien](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/).

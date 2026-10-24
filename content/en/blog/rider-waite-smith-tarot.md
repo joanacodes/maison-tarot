@@ -23,7 +23,7 @@ Smith was paid a flat fee for the drawings, with no share in the sales. For most
 
 ## Who was ‘Rider’? {#who-was-rider}
 
-Not a co-author. William Rider & Son was a London publishing house. Its director from 1892 to 1925, Ralph Shirley, built one of the largest lists of occult and mystical books in Britain, and in 1905 he founded a monthly magazine, the *Occult Review*. Waite was one of his authors, so the deck went to Rider, and the illustrated book followed a year later.
+Not a co-author. William Rider & Son was a London publishing house. Its director from 1892 to 1925, Ralph Shirley, made it one of the leading British publishers of occult and mystical books, and in 1905 he founded a monthly magazine, the *Occult Review*. Waite was one of his authors; Rider published the deck, then the illustrated book a year later.
 
 The publisher's name stuck to the cards. For decades, people asked a shop for “the Rider pack” or “the Rider-Waite”, the way you ask for a brand. **The name you know the deck by is, in large part, the name of the company that printed it.** The firm itself survives as Rider, an imprint now owned by Penguin Random House.
 
@@ -37,17 +37,17 @@ In the decks most people used before, the Tarot de Marseille among them, the min
 
 {{< cards "sw03 cu05 pe08" >}}
 
-She had a model. The Sola Busca, an Italian deck from the end of the fifteenth century, had already illustrated its minor cards, and she very likely saw photographs of it in London. But no deck before hers had made scenes on all 56 minors the norm.
+She had a model. The Sola Busca, an Italian deck from the end of the fifteenth century, had already illustrated its minor cards, and she very likely saw photographs of it in London. But it was her deck that made illustrated minors the norm.
 
 ### A cheap edition in the United States
 
-In the late 1960s, an American importer, Stuart Kaplan, came across the deck at the Nuremberg toy fair and obtained a licence from Rider. His company, U.S. Games Systems, began distributing it in 1971, just as interest in tarot was growing. Most of the tarot books written from then on used its images; learners bought the deck the books showed; the next books used it again. That loop is still turning.
+In 1968, an American businessman, Stuart Kaplan, brought a Swiss tarot deck back from the Nuremberg toy fair and sold it to bookshops. It did well enough for him to found a company, U.S. Games Systems, which at the start of the 1970s obtained the rights to publish the Rider-Waite in the United States ([the Penn Gazette tells the story](https://thepenngazette.com/the-collector/)). The deck arrived just as interest in tarot was growing. Most of the tarot books written from then on used its images; learners bought the deck the books showed; the next books used it again. That loop is still turning.
 
 ### Drawings anyone can use
 
-The 1909 drawings are now in the public domain: in the United States because the copyright wasn't renewed, and in the UK and the EU since 1 January 2022, seventy years after Smith's death in 1951. That's why hundreds of modern decks are redrawings of hers, and why a site like this one can show you the original cards. Later recoloured editions and trade names are a separate matter, and the line between the original and its reprints has even reached court ([Plagiarism Today explains the dispute](https://www.plagiarismtoday.com/2024/02/28/the-copyright-battle-over-a-tarot-card-deck/)).
+Smith's 1909 drawings are now in the public domain: in the United States because the copyright wasn't renewed, and in the UK and the EU since 1 January 2022, seventy years after Smith's death in 1951. That's why hundreds of modern decks are redrawings of hers, and why a site like this one can show you the original cards. Later recoloured editions and trade names are a separate matter, and the line between the original and its reprints has even reached court ([Plagiarism Today explains the dispute](https://www.plagiarismtoday.com/2024/02/28/the-copyright-battle-over-a-tarot-card-deck/)).
 
-Smith herself was largely forgotten for decades; exhibitions such as the one [Pratt Institute's libraries devoted to her](https://hyperallergic.com/490918/pamela-colman-smith-pratt-institute-libraries/) are part of why her name is back on the box.
+Smith herself was largely forgotten for decades; exhibitions such as the one [Pratt Institute's libraries devoted to her](https://hyperallergic.com/490918/pamela-colman-smith-pratt-institute-libraries/) are part of why her name is said out loud again.
 
 ## Why I teach with it {#why-i-teach-with-it}
 
