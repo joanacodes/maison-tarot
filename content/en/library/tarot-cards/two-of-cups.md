@@ -50,7 +50,7 @@ Above them rises a staff wound with two snakes — the caduceus of Hermes, the m
 
 **two — to bind, to weigh, to cooperate.** Two is the contract: two parties, one bond, and the conditions that come with it. In the Two of Cups the contract is emotional. A love that becomes mutual, a friendship that’s chosen, a partnership in which people like each other as well as work together.
 
-The advice of [number two](/library/numerology/number-2/), in my notes: read the contract, weigh the pros and cons. In love that sounds unromantic, and yet it’s what the card shows — they look at each other before they drink. In the Instagram story, 2 is the founders signing with their first investors: the first time you can lose something other than your own time. The minus of 2 is stubbornness, the ego that waits for the other person to come all the way across.
+The advice of [number two](/library/numerology/number-2/), in my notes: read the contract, weigh the pros and cons. In love that sounds unromantic, and yet it’s what the card shows — they look at each other before they drink. In the Instagram story, 2 is the founders signing with their first investors. The minus of 2 is stubbornness, the ego that waits for the other person to come all the way across.
 
 ## By element: Water {#element}
 
@@ -68,7 +68,7 @@ Read the colours before the card: calm feeling, joy, honesty — and a passion h
 
 In the Golden Dawn tradition, the Two of Cups is the first decan of Cancer, ruled by Venus, and its title is the Lord of Love. Venus says what you love and how you love. [Cancer](/library/astrology/cancer/) says *I feel*: the nurturer, the one who makes a home liveable. Together: a love that wants a home, care given and received, attachment more than conquest.
 
-It’s a pleasant layer, and an optional one. If astrology isn’t one of your lenses, the number and the element have already said it.
+Optional, as always: if astrology isn’t one of your lenses, the number and the element have already said it.
 
 ## In a reading {#reading}
 

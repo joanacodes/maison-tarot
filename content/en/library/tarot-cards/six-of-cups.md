@@ -68,7 +68,7 @@ Read the colours before the card: joy, innocence, warmth, and plenty of it. You 
 
 In the Golden Dawn tradition, the Six of Cups is the second decan of Scorpio, ruled by the Sun; its title is the Lord of Pleasure. The [Sun](/library/astrology/sun/) is the centre, what you organise your life around. [Scorpio](/library/astrology/scorpio/) is *I desire*, a fixed sign whose staying power goes into emotional attachment. Together: a heart that holds on — to people, places, memories — and finds its centre there.
 
-Nice to know, never required. If astrology isn’t one of your lenses, the yellow has already said it.
+Nice to know, never required: the yellow has already said it.
 
 ## In a reading {#reading}
 

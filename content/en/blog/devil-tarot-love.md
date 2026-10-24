@@ -31,6 +31,8 @@ The colours: black from edge to edge, which in my grid is absence and heavy thou
 
 The energy is masculine — the tangible, the body, acting before thinking. The astrology, if it speaks to you, is Capricorn, the sign whose verb is “I use”. Well placed, responsibility taken; badly placed, the tool that became the master. All of it is laid out on [the Devil’s own page](/library/tarot-cards/the-devil/).
 
+Lay the lenses over each other and you have a sentence before any book. Say someone sits down, tells you nothing, and draws this card. A harmony nobody checks any more, something valued and held tight, heaviness with a fire still burning. What I’d say out loud: “Something holds you because it feels good or safe, and it’s looser than you think.” Then I’d let the person tell me whether that lands, and what it is. I don’t need to guess the name of it.
+
 ## What the Devil means in a relationship: single, together, after a break-up {#relationship}
 
 Every card has a plus and a minus, and the Devil’s plus is real. Desire, chemistry, appetite, the energy to want someone and say so. Plenty of happy couples would recognise themselves in the fire on this card. The minus begins when the wanting starts to run you.
@@ -46,6 +48,8 @@ One thing to say gently and clearly. If the attachment is to someone who frighte
 ## The Devil reversed in love {#reversed}
 
 Reversed, the Devil is often the chain starting to slip. You notice the loop and lift a hand to it. You leave the phone in another room for an evening. You say “no” to the message at midnight, once, then twice. It’s rarely dramatic; it looks like small decisions repeated.
+
+In a couple, the slipping chain can be a good sign. The two of you notice the script — the same argument, the same sulk, the same making-up — and one evening one of you laughs halfway through it. The pattern loses its grip once it’s been seen together. Nothing has to end for the Devil to loosen; sometimes it’s the habit that leaves, and the people stay.
 
 It can also be the same attachment in excess: doubling down, hiding it better, calling it a choice. “I could stop whenever I want” is the reversed Devil’s favourite sentence. The question for this position is honest and kind at once: what would you do this week if you believed the chain was loose?
 
@@ -65,7 +69,7 @@ People bring the Devil with two questions, often in the same breath: does he sti
 
 Asking a deck again and again about the same person can become a chain of its own. If you notice that you pull a card every morning about them, that’s the Devil showing up in your practice rather than in your spread. Take a break from your cards now and then. They’ll still be there, and so will you.
 
-The kinder question is: “What am I getting from this that I’m afraid to lose?” Not “what’s wrong with me”, but what this attachment gives you — reassurance, excitement, a sense of being chosen, a reason not to face something else. Once you can name it, you can look for it somewhere that doesn’t hold you by the neck.
+The kinder question is: “What am I getting from this that I’m afraid to lose?” Not “what’s wrong with me”, but what this attachment gives you — reassurance, excitement, the feeling of mattering to someone, a reason not to face something else. Once you can name it, you can look for it somewhere that doesn’t hold you by the neck.
 
 ## Where to go from here {#next-step}
 

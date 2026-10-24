@@ -27,7 +27,7 @@ One more detail about the timing: the same fortnight held a solar eclipse on 17 
 
 In astrology, [Saturn](/library/astrology/saturn/) is structure, limits, reality, the hardest lesson. [Neptune](/library/astrology/neptune/) is the dream, ideals, illusion, things dissolving. Cafe Astrology described the pair as the dreamer and the realist. The two readings that circulated most were ideals finally taking solid form, and illusions about a person, a project or a system falling away.
 
-The degree added the rest. 0° Aries is the point of the spring equinox, where the tropical zodiac begins, and [Aries](/library/astrology/aries/) is cardinal Fire, the sign whose verb is "I am": the one that starts things. Put a 36-year cycle on that degree and you get the headlines — a new era, a turning point, a "great reset", as [the AstroTwins](https://astrostyle.com/saturn-neptune-alignment-february-20-2026-meaning/) put it.
+The degree added the rest. 0° Aries is the point of the March equinox, where the tropical zodiac begins, and [Aries](/library/astrology/aries/) is cardinal Fire, the sign whose verb is "I am": the one that starts things. Put a 36-year cycle on that degree and you get the headlines — a new era, a turning point, a "great reset", as [the AstroTwins](https://astrostyle.com/saturn-neptune-alignment-february-20-2026-meaning/) put it.
 
 The favourite precedent was 1989. The last exact meeting of that cycle came on 13 November 1989, four days after the Berlin Wall fell. It's a striking pair of dates, and a large part of why February 2026 drew so much attention.
 

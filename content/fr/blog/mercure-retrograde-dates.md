@@ -39,7 +39,7 @@ Celle d’automne est en cours au moment où je publie. Mercure a fait demi-tour
 
 En 2027, chaque rétrogradation commence dans un signe et recule dans le précédent avant de repartir. Les astrologues y lisent un dossier qu’on rouvre : celle d’octobre, par exemple, part du terrain du Scorpion et se termine sur celui de la Balance.
 
-Ces dates concordent dans les éphémérides et les almanachs que j’ai consultés, dont [Cafe Astrology](https://cafeastrology.com/events/mercury-turns-direct-in-scorpio-2026/) et le [Farmers’ Almanac](https://www.farmersalmanac.com/mercury-retrograde). Si un site vous annonce une période plus longue d’une semaine, il compte en général l’ombre dans la rétrogradation.
+Ces dates concordent dans les éphémérides et les almanachs que j’ai consultés, dont [Cafe Astrology](https://cafeastrology.com/events/mercury-turns-direct-in-scorpio-2026/) et le [Farmers’ Almanac](https://www.farmersalmanac.com/mercury-retrograde). Si un site vous donne des dates plus larges de plusieurs semaines, il compte l’ombre dans la rétrogradation ; si elles sont décalées d’un jour, c’est le fuseau horaire.
 
 ## À quoi s’attendre, honnêtement {#a-quoi-s-attendre}
 

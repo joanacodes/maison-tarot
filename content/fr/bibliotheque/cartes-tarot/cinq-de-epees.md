@@ -1,10 +1,10 @@
 ---
-title: 'Cinq de Épées (Five of Swords) — tarot Rider-Waite-Smith : lire la carte par
+title: 'Cinq d’Épées (Five of Swords) — tarot Rider-Waite-Smith : lire la carte par
   ses clés de lecture'
 description: 'Le Cinq d’Épées du tarot Rider-Waite-Smith : un vainqueur ramasse les épées, deux silhouettes s’en vont. Un conflit d’idées, lu par le nombre, l’Air et les couleurs.'
 translationKey: card-sw05
 type: cards
-navTitle: Cinq de Épées
+navTitle: Cinq d’Épées
 suit: swords
 suitLabel: Épées
 number: 5
@@ -15,8 +15,8 @@ astrology: Vénus en Verseau
 energy: Masculine
 kabbalah: ''
 image: cards/sw05.webp
-h1: Cinq de Épées — <em>cinq</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » Cinq de Épées, regardez ce que vous avez
+h1: Cinq d’Épées — <em>cinq</em>, l’Air
+lede: 'Avant de chercher ce que « signifie » Cinq d’Épées, regardez ce que vous avez
   déjà : cinq, l’élément Air, Vénus en Verseau. Vous lisez la carte. Le nombre dit
   cinq — le conflit, l’épreuve, faire avec ce qui reste ; l’élément dit le mental,
   ce qu’on décide. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte
@@ -27,14 +27,14 @@ related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
-- q: Que signifie Cinq de Épées ?
+- q: Que signifie Cinq d’Épées ?
   a: 'Un conflit gagné à un prix : avoir raison et se retrouver seul, une décision imposée, des alliés perdus en route. Son nombre (cinq) est l’épreuve, son élément (l’Air) place la bataille dans les mots et les décisions. La carte demande si la victoire en valait la peine.'
-- q: Cinq de Épées renversé, ça change quoi ?
+- q: Cinq d’Épées renversé, ça change quoi ?
   a: 'Soit la dispute continue dans votre tête bien après la fin, soit l’envie de gagner déborde. Parfois, c’est le moment où quelqu’un pose les épées et va parler.'
 categories:
 - Épées
 tags:
-- Cinq de Épées
+- Cinq d’Épées
 - Air
 - Vénus en Verseau
 - arcane mineur

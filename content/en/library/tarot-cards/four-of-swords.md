@@ -46,7 +46,7 @@ Inside a church or a chapel, a knight lies on his back on a stone tomb, eyes clo
 
 Three swords hang on the wall above him, points down, and his joined hands point up towards them. A fourth sword lies along the side of the tomb, flat, as if set down. In the top corner, a stained-glass window — the only bright patch on the card, red, blue, yellow and green — shows a standing figure bending towards a smaller one who kneels. The rest is pale wall. No movement, no landscape, no open door.
 
-The drawing is about **a stop chosen and protected: the swords are put away, for now.**
+The drawing is about **a deliberate, protected stop: the swords are put away, for now.**
 
 ## By number: four {#number}
 

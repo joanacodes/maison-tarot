@@ -68,7 +68,7 @@ Then the things that aren’t dark: the gold of the five cups, two of them uprig
 
 In the Golden Dawn tradition, the Five of Cups is the first decan of Scorpio, ruled by Mars, Scorpio’s traditional ruler; its title is the Lord of Loss in Pleasure. [Scorpio](/library/astrology/scorpio/) says *I desire*: intensity, emotional attachment, a tendency to withdraw when it hurts. Mars is how you act and fight. Together: a feeling that runs deep, and energy that should go outwards turned inwards — fighting the loss instead of walking away from it.
 
-Optional. If astrology isn’t one of your lenses, the number and the colours have already said this.
+Optional: the number and the colours have already said this.
 
 ## In a reading {#reading}
 

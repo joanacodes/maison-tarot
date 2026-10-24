@@ -1,10 +1,10 @@
 ---
-title: 'Deux de Épées (Two of Swords) — tarot Rider-Waite-Smith : lire la carte par
+title: 'Deux d’Épées (Two of Swords) — tarot Rider-Waite-Smith : lire la carte par
   ses clés de lecture'
 description: 'Le Deux d’Épées du tarot Rider-Waite-Smith : une femme aux yeux bandés, deux épées en équilibre. Le choix qu’on repousse, à lire par le nombre, l’Air et la Lune.'
 translationKey: card-sw02
 type: cards
-navTitle: Deux de Épées
+navTitle: Deux d’Épées
 suit: swords
 suitLabel: Épées
 number: 2
@@ -15,8 +15,8 @@ astrology: Lune en Balance
 energy: Masculine
 kabbalah: ''
 image: cards/sw02.webp
-h1: Deux de Épées — <em>deux</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » Deux de Épées, regardez ce que vous avez
+h1: Deux d’Épées — <em>deux</em>, l’Air
+lede: 'Avant de chercher ce que « signifie » Deux d’Épées, regardez ce que vous avez
   déjà : deux, l’élément Air, Lune en Balance. Vous lisez la carte. Le nombre dit
   deux — se lier, peser, coopérer ; l’élément dit le mental, ce qu’on décide. Posez
   les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà —
@@ -27,16 +27,16 @@ related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
-- q: Que signifie Deux de Épées ?
+- q: Que signifie Deux d’Épées ?
   a: 'Une décision en suspens : deux options tenues à égale distance, et un bandeau pour ne pas avoir à choisir. C’est parfois une trêve utile, pour un temps, mais la carte montre aussi ce que coûte le fait de rester assis.'
-- q: Deux de Épées renversé, ça change quoi ?
+- q: Deux d’Épées renversé, ça change quoi ?
   a: 'Le bandeau glisse. Soit le choix se fait enfin, souvent avec soulagement, soit la personne est noyée sous les avis et les informations, et l’équilibre tourne à la confusion.'
 - q: 'Que signifie le Deux d’Épées en amour ?'
   a: 'Souvent une conversation que les deux évitent, ou un choix entre deux personnes ou deux directions qu’on remet sans cesse à plus tard. La carte décrit celui ou celle qui ne décide pas, pas ce que l’autre ressent.'
 categories:
 - Épées
 tags:
-- Deux de Épées
+- Deux d’Épées
 - Air
 - Lune en Balance
 - arcane mineur

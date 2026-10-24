@@ -41,7 +41,7 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-A huge sun with a human face fills the top of the card, its rays alternating straight and wavy. Below, a naked child with flowers in its hair rides a white horse, arms wide open, holding a long red banner that streams out beside it. Behind them runs a grey stone wall, and above the wall, a row of sunflowers.
+A huge sun with a human face fills the top of the card, its rays alternating straight and wavy. Below, a naked child with flowers in its hair rides a white horse, arms wide open, while a long red banner streams out beside them. Behind them runs a grey stone wall, and above the wall, a row of sunflowers.
 
 Look at what’s missing: no saddle, no reins, no adult, no clothes. The child isn’t holding on to anything. **Joy with nothing to hide and nothing to grip.** That’s the drawing as a whole: being out in the open, and safe there.
 

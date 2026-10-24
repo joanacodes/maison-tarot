@@ -56,7 +56,7 @@ Sur le Jugement, les deux parties, ce sont l’appel et la réponse : la trompet
 
 Le Jugement est une carte de [Feu](/fr/bibliotheque/quatre-elements/element-feu/). Le Feu, c’est l’impulsion, la création, l’énergie qui motive ; il forge, réchauffe, éclaire la nuit. Ici, c’est l’étincelle qui fait sortir les gens de la boîte où ils étaient couchés.
 
-Dans le système de la Golden Dawn, cette carte représentait l’élément Feu lui-même, et non un signe ou une planète. Ça en dit long : le Jugement ne parle pas de réfléchir encore, il parle du moment où l’on bouge.
+Le Feu est la seule attribution que la Golden Dawn ait donnée à cette carte, et ça en dit long : le Jugement ne parle pas de réfléchir encore, il parle du moment où l’on bouge.
 
 ## Par les couleurs {#couleurs}
 
@@ -64,7 +64,7 @@ Le [gris](/fr/bibliotheque/couleurs-tarot/gris/) des corps et des cercueils : la
 
 ## Par l’astrologie : Pluton {#astrologie}
 
-Les lecteurs modernes associent le Jugement à [Pluton](/fr/bibliotheque/astrologie/pluton/), la planète de la transformation : là où l’on meurt et renaît de son vivant, ce qu’on enterre et ce qui remonte. La Golden Dawn elle-même ne le pouvait pas — Pluton n’a été découverte qu’en 1930 — et donnait la carte au Feu, comme on l’a vu. Par le Scorpion, Pluton relie aussi le Jugement à la Mort : deux cartes qui font peur en image et disent la même chose, que quelque chose finit pour que quelque chose d’autre commence. C’est une clé facultative, et une planète de génération ; le nombre et l’élément vous mèneront plus loin.
+La Golden Dawn a attribué le Jugement à l’élément Feu, par la lettre hébraïque Shin, et non à une planète. Les lecteurs modernes l’ont ensuite associé à [Pluton](/fr/bibliotheque/astrologie/pluton/), découverte en 1930 : la planète de la transformation, là où l’on meurt et renaît de son vivant, ce qu’on enterre et ce qui remonte. Par le Scorpion, Pluton relie aussi le Jugement à la Mort : deux cartes qui font peur en image et disent la même chose, que quelque chose finit pour que quelque chose d’autre commence. C’est une clé facultative, et une planète de génération ; le nombre et l’élément vous mèneront plus loin.
 
 ## En lecture {#lecture}
 

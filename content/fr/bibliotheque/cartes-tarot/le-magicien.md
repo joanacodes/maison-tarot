@@ -1,8 +1,7 @@
 ---
 title: 'Le Magicien (The Magician) — tarot Rider-Waite-Smith : lire la carte par ses
   clés de lecture'
-description: 'Le Magicien : ce qu’on voit sur la carte, puis le nombre, l’élément
-  (Air), les couleurs et Mercure. Lire la carte sans l’avoir apprise.'
+description: 'Le Magicien (le Bateleur) au tarot : quatre outils sur une table, le nombre 1, l’Air et Mercure. Le lire à l’endroit et renversé, sans confondre talent et boniment.'
 translationKey: card-ar01
 type: cards
 navTitle: Le Magicien
@@ -29,11 +28,11 @@ related:
 - /bibliotheque/astrologie
 faq:
 - q: Que signifie Le Magicien ?
-  a: 'Il n’y a pas une signification à apprendre : Le Magicien se lit par son nombre
-    (1), son élément (Air) et ses couleurs. La page ci-dessus les pose une à une.'
+  a: 'Un début avec tous les outils déjà sur la table : bâton, coupe, épée et pentacle. Comme tout 1, c’est un diamant brut — le savoir-faire est là, le résultat pas encore. Sa question : allez-vous vous servir de ce que vous avez ?'
 - q: Le Magicien renversé, ça change quoi ?
-  a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
-    l’endroit, puis ce qui bloque ou déborde.
+  a: 'Les mêmes outils, inutilisés ou utilisés pour la galerie : le projet qui reste un beau discours, ou le talent mis au service de l’apparence. Regardez ce qui a été fait, pas ce qui a été dit.'
+- q: Que veut dire Le Magicien en amour ?
+  a: 'Quelqu’un qui a les moyens de faire le premier pas, et la question de savoir s’il le pense vraiment. Lisez-le comme une invitation à agir de votre côté, pas comme une prédiction sur l’autre.'
 categories:
 - Arcane majeur
 tags:
@@ -44,28 +43,48 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-{{< todo >}}À ÉCRIRE — décrire le dessin de Pamela Colman Smith, détail par détail : personnages, objets, posture, ce qui manque.{{< /todo >}}
+Un jeune homme se tient debout derrière une table, face à vous. Sa main droite lève une baguette blanche vers le ciel ; la gauche pointe vers le sol. Au-dessus de sa tête flotte le signe de l’infini, un huit couché. Il porte une robe blanche sous un manteau rouge, un bandeau blanc dans ses cheveux sombres et, en guise de ceinture, un serpent qui se mord la queue.
+
+Sur la table, les quatre symboles des séries du jeu : bâton, coupe, épée, pentacle. Des roses rouges pendent au-dessus de lui et poussent à ses pieds parmi des lys blancs, sur un fond jaune uni.
+
+Ce qui manque : un public, une route, quoi que ce soit d’achevé. Au tarot de Marseille, ce Bateleur a tout de l’artiste de rue ; ici, personne ne le regarde. **Le dessin parle de la seconde qui précède le premier geste, quand tout ce qu’il faut est à portée de main.**
 
 ## Par le nombre : 1 {#nombre}
 
-**1 — un — le début, le diamant brut.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**1 — un — le début, le diamant brut.** Le [chiffre 1](/fr/bibliotheque/numerologie/chiffre-1/) ouvre le cycle : précieux, et pas encore utilisable, comme une pierre que personne n’a taillée. Sur le Magicien, c’est littéral — quatre outils, aucun résultat. Il sait tout faire ; il n’a encore rien fait. Dans l’histoire d’Instagram de mes pages de numérologie, c’est Burbn qui devient Instagram : deux fondateurs gardent la seule fonction qu’on utilisait et repartent de là. Le conseil du 1, c’est l’humilité : un Magicien qui oublie qu’il en est à la première page se met à vendre la fin.
+
+Le signe de l’infini au-dessus de sa tête, c’est un 8 couché, et le 8, dans mes notes, c’est la maîtrise. Au-dessus de son 1, la carte dessine ce que le début pourrait devenir.
 
 ## Par l’élément : Air {#element}
 
-{{< todo >}}À ÉCRIRE — ce que [Air](/fr/bibliotheque/quatre-elements/element-air/) apporte ici : de quoi la carte parle.{{< /todo >}}
+Le Magicien est une carte d’[Air](/fr/bibliotheque/quatre-elements/element-air/) : le mental, la décision, la parole. L’Air a accès à tout en même temps, et c’est pour ça que je le tiens pour le meilleur décideur des quatre — le Feu est trop impulsif, l’Eau trop émotive, la Terre trop têtue.
+
+C’est aussi pour ça qu’il a les quatre outils, un par élément, plus l’éther qui les relie. Dans mes notes, il sait tout faire et reste ancré. Il fait le relais : la baguette levée reçoit, la main tendue vers le sol transmet. Son revers appartient lui aussi à l’Air, à sa « langue de vipère » : quelqu’un qui parle assez bien pour faire semblant. Il a plus d’un tour dans son sac — un compliment, jusqu’au jour où ça n’en est plus un.
 
 ## Par les couleurs {#couleurs}
 
-{{< todo >}}À ÉCRIRE — les couleurs dominantes et ce qu’elles disent avant la carte ([la grille des couleurs](/fr/bibliotheque/couleurs-tarot/)).{{< /todo >}}
+Le jaune remplit le fond : la joie, l’expression de soi, la volonté. Dans [ma grille des couleurs](/fr/bibliotheque/couleurs-tarot/jaune/), c’est la couleur du Magicien et du Mat, celle de vouloir quelque chose en plein jour. Le rouge du manteau et des roses : l’action, l’élan, l’énergie masculine. Le blanc de la robe et des lys : une intention encore nette. Avant même de lire la carte, vous avez la volonté, l’action et un départ propre.
 
 ## Par l’astrologie : Mercure {#astrologie}
 
-{{< todo >}}À ÉCRIRE — Mercure, dans la tradition Golden Dawn ; ce que ça ajoute, et si ça vaut la peine de le garder ([astrologie](/fr/bibliotheque/astrologie/)).{{< /todo >}}
+Dans la tradition Golden Dawn, le Magicien correspond à [Mercure](/fr/bibliotheque/astrologie/mercure/), le messager : la façon de penser, de parler, d’apprendre. Ça colle à un personnage qui fait le lien entre le ciel et le sol. Mercure gouverne les Gémeaux, qui parlent, et la Vierge, qui vérifie ; le Magicien a besoin des deux. Clé facultative : le nombre, l’élément et les couleurs l’ont déjà dit.
 
 ## En lecture {#lecture}
 
-{{< todo >}}À ÉCRIRE — à l’endroit, renversée, selon les cartes voisines. Une chose à retenir en gras.{{< /todo >}}
+À l’endroit, le Magicien dit que vous avez ce qu’il faut, et que le prochain geste vous revient. Pas « attendez un signe » : les outils sont sur la table. Au travail, c’est une compétence prête à servir ([le Magicien au travail](/fr/blog/le-bateleur-tarot-travail/)) ; en amour, c’est le premier pas, et la question de savoir s’il est sincère ([le Magicien en amour](/fr/blog/le-bateleur-tarot-amour/)). On en fait souvent la carte de la manifestation ; je la lis de façon plus terre à terre — les choses arrivent parce que quelqu’un a pris les outils en main ([ce que je pense de la manifestation](/fr/blog/manifestation-tarot/)).
+
+Renversé, les outils restent sur la table. Soit personne ne s’en sert — le projet peaufiné dans sa tête depuis deux ans —, soit on s’en sert pour la galerie, et le boniment vaut mieux que le travail. C’est le revers que je note pour cette carte : si on lui fait confiance les yeux fermés, le Magicien peut mentir, ou faire semblant.
+
+À côté du [Mat](/fr/bibliotheque/cartes-tarot/le-mat/), c’est 0 puis 1 : une envie qui devient un outil. À côté de la [Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), celui qui parle se tient près de celle qui se tait ; écoutez les deux. À côté du [Sept d’Épées](/fr/bibliotheque/cartes-tarot/sept-de-epees/), le talent s’accompagne d’un petit tour de passe-passe : vérifiez deux fois. **Le Magicien n’est pas une promesse ; c’est une boîte à outils, et la lecture, c’est ce qu’on en fait.**
+
+{{< cards "ar00 ar02 sw07" >}}
 
 ## Exemple de tirage {#exemple}
 
-{{< todo >}}À ÉCRIRE — un tirage réel anonymisé : clés de lecture d’abord, phrase dite, ce que la personne a confirmé.{{< /todo >}}
+Imaginons : une personne s’assoit, ne vous dit rien, et tire le Magicien à côté du Quatre de Coupes — un jeune homme assis sous un arbre, bras croisés, trois coupes dans l’herbe, qui ignore la quatrième qu’une main lui tend depuis un nuage.
+
+D’abord les clés de lecture. 1 puis 4 : un début, puis un confort qui s’est figé. L’Air puis l’Eau : une décision, puis une humeur. Le jaune éclatant du Magicien, puis une carte plus calme, plus verte. Les moyens sont là ; l’énergie est retombée.
+
+Ce que je dirais à voix haute : « Vous avez ce qu’il faut pour lancer quelque chose, et vous attendez une meilleure offre avant de vous y mettre. »
+
+Puis je vérifierais : y a-t-il quelque chose que vous repoussez alors que tout est prêt ? Si ce n’est pas le cas, je ne tire pas une carte de plus pour sauver la phrase. Un raté est un raté.

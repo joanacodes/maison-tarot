@@ -1,23 +1,23 @@
 ---
-title: 'As de Épées (Ace of Swords) — tarot Rider-Waite-Smith : lire la carte par
+title: 'As d’Épées (Ace of Swords) — tarot Rider-Waite-Smith : lire la carte par
   ses clés de lecture'
 description: 'L’As d’Épées du tarot Rider-Waite-Smith : une main, une lame couronnée, une décision claire. À lire par le nombre, l’Air et les couleurs, à l’endroit comme renversé.'
 translationKey: card-swac
 type: cards
-navTitle: As de Épées
+navTitle: As d’Épées
 suit: swords
 suitLabel: Épées
 number: 1
 cardId: swac
 element: Air
 numerology: un — le début, le diamant brut
-astrology: Racine de Air
+astrology: Racine d’Air
 energy: Masculine
 kabbalah: ''
 image: cards/swac.webp
-h1: As de Épées — <em>un</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » As de Épées, regardez ce que vous avez
-  déjà : un, l’élément Air, Racine de Air. Vous lisez la carte. Le nombre dit un —
+h1: As d’Épées — <em>un</em>, l’Air
+lede: 'Avant de chercher ce que « signifie » As d’Épées, regardez ce que vous avez
+  déjà : un, l’élément Air, Racine d’Air. Vous lisez la carte. Le nombre dit un —
   le début, le diamant brut ; l’élément dit le mental, ce qu’on décide. Posez les
   deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
   de la page vous montre comment.'
@@ -27,18 +27,18 @@ related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
-- q: Que signifie As de Épées ?
+- q: Que signifie As d’Épées ?
   a: 'Quelque chose devient clair : une décision prise, une vérité qui perce, le mot juste enfin trouvé. Son nombre (un) dit que c’est un début, son élément (l’Air) que tout se passe dans la tête. Reste à en faire quelque chose.'
-- q: As de Épées renversé, ça change quoi ?
+- q: As d’Épées renversé, ça change quoi ?
   a: 'La même clarté, mal tenue. Soit elle se brouille à force de réfléchir, la décision prise puis reprise ; soit elle déborde, et avoir raison devient une arme. Les cartes autour vous disent laquelle.'
 - q: 'Que signifie l’As d’Épées en amour ?'
   a: 'Une conversation qui remet les choses à plat, ou une décision sur la relation qui s’impose d’elle-même. La carte parle de ce que vous pensez et dites, pas de ce que l’autre ressent.'
 categories:
 - Épées
 tags:
-- As de Épées
+- As d’Épées
 - Air
-- Racine de Air
+- Racine d’Air
 - arcane mineur
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
@@ -63,7 +63,7 @@ L’Air, c’est aussi la communication, bonne ou mauvaise. La même lame peut d
 
 Le fond est presque entièrement [gris](/fr/bibliotheque/couleurs-tarot/gris/) : la neutralité, une stabilité qui attend. Dessus, le blanc de la main, ce qui n’a pas encore été touché, et le bleu froid de l’acier. Puis les touches qui comptent : l’or de la couronne et les gouttes jaunes, la joie et la volonté ; le vert des rameaux, la croissance ; de minuscules pierres rouges, un peu d’élan. Lisez les couleurs avant la carte ([la grille des couleurs](/fr/bibliotheque/couleurs-tarot/)) et vous avez déjà l’essentiel : un sol calme, une clarté froide, une couronne de possibles suspendue à la pointe.
 
-## Par l’astrologie : Racine de Air {#astrologie}
+## Par l’astrologie : Racine d’Air {#astrologie}
 
 Dans la tradition Golden Dawn, les As n’ont ni signe ni planète. Ce sont les racines de leur élément : l’As d’Épées est la « Racine des puissances de l’Air », la graine d’où pousse toute la famille, tandis que les autres Épées se partagent les trois signes d’Air — Balance, Verseau et Gémeaux. L’As les contient donc tous les trois en germe : la pesée de la Balance, l’idée neuve du Verseau, la parole rapide des Gémeaux. Si l’[astrologie](/fr/bibliotheque/astrologie/) vous parle, gardez cette image ; sinon, le nombre et l’élément ont déjà dit l’essentiel.
 

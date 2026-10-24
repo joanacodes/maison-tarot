@@ -39,7 +39,7 @@ The autumn one is happening as I publish this. Mercury turned around on the morn
 
 In 2027, each retrograde starts in one sign and backs into the previous one before turning direct. Astrologers read that as a subject being reopened: the October one, for example, starts on Scorpio ground and finishes on Libra's.
 
-These dates agree across the ephemerides and almanacs I checked, including [Cafe Astrology](https://cafeastrology.com/events/mercury-turns-direct-in-scorpio-2026/) and the [Farmers' Almanac](https://www.farmersalmanac.com/mercury-retrograde). If a site gives you a period that's a week longer, it's usually counting the shadow as part of the retrograde.
+These dates agree across the ephemerides and almanacs I checked, including [Cafe Astrology](https://cafeastrology.com/events/mercury-turns-direct-in-scorpio-2026/) and the [Farmers' Almanac](https://www.farmersalmanac.com/mercury-retrograde). If a site gives you dates several weeks wider, it's counting the shadow as part of the retrograde; if they're a day off, it's the time zone.
 
 ## What to expect, honestly {#what-to-expect}
 

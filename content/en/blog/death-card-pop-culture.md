@@ -19,7 +19,7 @@ In films, the Death card is a countdown: someone turns it over, the music drops,
 
 Because it's the only card everyone can read without learning anything. A skeleton reads in half a second, in any language, from the back row of a cinema. For a director, it's foreshadowing that costs one shot.
 
-No other card does that job as well. The Tower comes close, but a burning building needs explaining; the Ten of Swords is too much; the Three of Swords looks like a greeting card. So when a script needs tarot to mean "danger", it reaches for number 13.
+No other card does that job as well. The Tower comes close, but a burning building needs explaining; the Ten of Swords is too much to take in at a glance; the Three of Swords looks like a greeting card. So when a script needs tarot to mean "danger", it reaches for number 13.
 
 ## Three scenes worth watching again {#three-scenes}
 

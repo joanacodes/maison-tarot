@@ -1,8 +1,7 @@
 ---
 title: 'Trois de Coupes (Three of Cups) — tarot Rider-Waite-Smith : lire la carte
   par ses clés de lecture'
-description: 'Trois de Coupes : ce qu’on voit sur la carte, puis le nombre, l’élément
-  (Eau), les couleurs et Mercure en Cancer. Lire la carte sans l’avoir apprise.'
+description: 'Trois de Coupes, tarot Rider-Waite-Smith : trois femmes dansent, coupes levées, sur une récolte. Lisez-la par le trois, l’Eau, les couleurs : l’amitié qui marche.'
 translationKey: card-cu03
 type: cards
 navTitle: Trois de Coupes
@@ -29,12 +28,11 @@ related:
 - /bibliotheque/astrologie
 faq:
 - q: Que signifie Trois de Coupes ?
-  a: 'Il n’y a pas une signification à apprendre : Trois de Coupes se lit par son
-    nombre (trois), son élément (Eau) et ses couleurs. La page ci-dessus les pose
-    une à une.'
+  a: 'Un résultat qu’on fête avec d’autres : l’amitié, des retrouvailles, une équipe fière de son travail, le soulagement partagé après une période dure. Le trois dit que quelque chose fonctionne ; l’Eau dit que c’est une affaire de cœur.'
 - q: Trois de Coupes renversé, ça change quoi ?
-  a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
-    l’endroit, puis ce qui bloque ou déborde.
+  a: 'Le cercle se brise ou déborde : la fête qui sert à éviter quelque chose, un groupe où quelqu’un se sent mis à l’écart, une amie qui parle dans votre dos. Parfois, ce sont trois personnes là où il devrait y en avoir deux.'
+- q: Que signifie le Trois de Coupes en amour ?
+  a: 'La carte désigne souvent les amis autour d’une relation plutôt que le couple lui-même : les gens avec qui l’on fait la fête. À côté d’une Épée lourde, elle peut aussi signaler une tierce personne.'
 categories:
 - Coupes
 tags:
@@ -45,28 +43,48 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-{{< todo >}}À ÉCRIRE — décrire le dessin de Pamela Colman Smith, détail par détail : personnages, objets, posture, ce qui manque.{{< /todo >}}
+Trois jeunes femmes dansent en rond, chacune levant une coupe dorée au-dessus de sa tête. Celle de gauche est en blanc, ses cheveux bruns et bouclés lâchés, tournée vers nous. Celle du milieu nous tourne le dos, enveloppée dans un long manteau rouge, et lève sa coupe le plus haut. Celle de droite porte une tunique brune sur une jupe blanche, des feuilles dans les cheveux et une grappe de raisin dans la main qui pend le long du corps. Leurs bras se croisent et se touchent ; on ne sait plus très bien où l’une finit et où l’autre commence.
+
+À leurs pieds, la récolte : une citrouille, du raisin, des feuilles de vigne et, à gauche, un buisson chargé de fruits orange. Derrière elles, un ciel bleu pâle, uni. Pas de maison, pas de table, pas de public — la fête est pour elles trois. **C’est une fête qui n’a rien à prouver : la récolte est rentrée, et on trinque.**
 
 ## Par le nombre : trois {#nombre}
 
-**trois — créer, célébrer, le premier résultat.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**trois — créer, célébrer, le premier résultat.** Le 3, c’est la machine qui tourne : après le lien du 2, quelque chose fonctionne, et ça se voit. Dans mes notes, le 3, c’est aussi « des frères et sœurs qui s’entendent bien », et c’est exactement cette carte — des gens qui s’entendent, une bande où le courant passe. Dans l’histoire d’Instagram, le 3, c’est le lancement qui marche : les gens s’inscrivent, publient, reviennent.
+
+Le conseil du [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/), c’est de finir un projet avant d’en commencer un autre. En pleine fête, ça paraît étrange, et pourtant le Trois de Coupes est le moment où les idées fusent autour de la table à minuit — un voyage, une boîte, un groupe de musique. Le revers du 3, c’est précisément ça : le projet suivant lancé avant que celui-ci soit fini, et la solitude, parfois la trahison, quand la bande se disperse.
 
 ## Par l’élément : Eau {#element}
 
-{{< todo >}}À ÉCRIRE — ce que [Eau](/fr/bibliotheque/quatre-elements/element-eau/) apporte ici : de quoi la carte parle.{{< /todo >}}
+L’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) fait de ce 3 une affaire de cœur plutôt que de porte-monnaie : le résultat qu’on fête est affectif. Une amitié qui a duré, des retrouvailles, un groupe qui a tenu bon dans une épreuve et qui lève maintenant son verre.
+
+L’eau bouge — elles dansent —, mais elle bouge ensemble, en cercle. C’est l’archétype de l’Eau dans ce qu’il a de meilleur : les gens chaleureux chez qui l’on se sent chez soi. L’ombre n’est pas loin. Quand personne n’est vraiment aligné, les émotions débordent sur tout le monde, et la fête devient l’endroit où tout sort, comme un repas de famille qui dérape au moment du fromage.
 
 ## Par les couleurs {#couleurs}
 
-{{< todo >}}À ÉCRIRE — les couleurs dominantes et ce qu’elles disent avant la carte ([la grille des couleurs](/fr/bibliotheque/couleurs-tarot/)).{{< /todo >}}
+Le ciel bleu pâle encadre la scène : les émotions, la vitalité. Au milieu, le grand manteau [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) — la passion, l’action, l’élan : l’énergie de la danse. Le blanc à gauche : l’innocence, la paix. À droite et à leurs pieds, la tunique brune, la citrouille et les fruits orange : dans ma grille, le brun, c’est la valeur gagnée et la terre travaillée ([l’or et le brun](/fr/bibliotheque/couleurs-tarot/or-et-brun/)), et l’orange, la créativité. Les coupes sont jaune doré : la joie.
+
+Avant même la carte : de la joie, du mouvement, de la chaleur, et une récolte posée par terre — on fête quelque chose qui a poussé.
 
 ## Par l’astrologie : Mercure en Cancer {#astrologie}
 
-{{< todo >}}À ÉCRIRE — Mercure en Cancer, dans la tradition Golden Dawn ; ce que ça ajoute, et si ça vaut la peine de le garder ([astrologie](/fr/bibliotheque/astrologie/)).{{< /todo >}}
+Dans la tradition Golden Dawn, le Trois de Coupes correspond au deuxième décan du Cancer, gouverné par Mercure ; son titre est « Seigneur de l’Abondance ». [Mercure](/fr/bibliotheque/astrologie/mercure/), c’est la façon de penser et de parler. Le Cancer, c’est *Je sens*, le signe du foyer. Ensemble : la conversation de gens qui se sentent chez eux les uns avec les autres — des nouvelles qu’on se donne, des histoires qu’on se raconte, des rires autour d’une tablée qui s’éternise.
+
+Facultatif, comme toujours : vous ne perdez rien à la laisser de côté.
 
 ## En lecture {#lecture}
 
-{{< todo >}}À ÉCRIRE — à l’endroit, renversée, selon les cartes voisines. Une chose à retenir en gras.{{< /todo >}}
+À l’endroit, **le Trois de Coupes, c’est un résultat qu’on fête avec d’autres.** L’amitié, des retrouvailles, un mariage ou un anniversaire, une équipe fière de ce qu’elle a fait, le soulagement après une période dure, partagé avec ceux qui ont aidé. La carte désigne des personnes plus qu’un événement.
+
+Renversé, le Trois de Coupes voit son cercle se briser ou déborder. Trop de fête : la célébration qui devient une façon de ne pas regarder quelque chose. Ou un groupe où quelqu’un se sent à l’écart, une amie qui parle dans votre dos — le revers du 3, la trahison, est là. Parfois, ce sont trois personnes là où il devrait y en avoir deux.
+
+À côté du [Trois d’Épées](/fr/bibliotheque/cartes-tarot/trois-de-epees/), on voit l’autre face du 3 : le cercle où trois cœurs peuvent aussi se briser (dans mes notes, cette carte est aussi un pacte de sang). À côté du [Quatre de Bâtons](/fr/bibliotheque/cartes-tarot/quatre-de-batons/), la fête devient fondation — un foyer, un mariage, une famille qui se construit. À côté du [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), les amis des bons moments sont ceux dont on aura besoin pour le mauvais.
+
+{{< cards "sw03 wa04 cu05" >}}
 
 ## Exemple de tirage {#exemple}
 
-{{< todo >}}À ÉCRIRE — un tirage réel anonymisé : clés de lecture d’abord, phrase dite, ce que la personne a confirmé.{{< /todo >}}
+Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Trois de Coupes à côté du [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/). Les clés de lecture d’abord. Deux 3 : la machine tourne, deux fois. L’Eau puis la Terre : quelque chose de ressenti qui devient quelque chose de construit. Les couleurs : le rouge, le blanc et le brun de la danse à côté de la pierre grise d’une église où trois personnes discutent d’un ouvrage.
+
+La phrase que je dirais à voix haute : « Il y a un groupe de personnes avec qui vous adorez être, et vous êtes sur le point de faire quelque chose avec elles — un projet, un événement, une association, peut-être une petite entreprise. » Puis le conseil du 3, avec douceur : finissez ce que vous commencez avec elles avant d’ajouter l’idée suivante.
+
+Pour vérifier, je demande qui pourrait être ce groupe, et je laisse la personne répondre. Si la réponse est « ces temps-ci, je suis plutôt de mon côté », la phrase a raté, et je la note comme un raté.

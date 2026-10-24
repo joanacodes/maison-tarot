@@ -41,7 +41,7 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-Une femme danse dans les airs, au centre d’une grande couronne ovale de feuilles vertes, nouée en haut et en bas par des rubans rouges croisés comme le signe de l’infini. Elle est nue, à part une longue écharpe violette enroulée autour du corps, et tient une courte baguette dans chaque main. Une jambe se croise derrière l’autre. Aux quatre coins, des têtes apparaissent dans les nuages : un visage humain, un aigle, un taureau et un lion — les mêmes que sur la Roue de Fortune.
+Une femme danse dans les airs, au centre d’une grande couronne ovale de feuilles vertes, nouée en haut et en bas par des rubans rouges croisés. Elle est nue, à part une longue écharpe violette enroulée autour du corps, et tient une courte baguette dans chaque main. Une jambe se croise derrière l’autre. Aux quatre coins, des têtes apparaissent dans les nuages : un visage humain, un aigle, un taureau et un lion — les mêmes que sur la Roue de Fortune.
 
 Rien n’est inachevé sur cette carte. Pas de sol sous ses pieds, pas de route, pas de tâche en cours : deux baguettes, tenues légèrement. **La boucle est bouclée, et l’on s’y meut avec aisance.** C’est tout le dessin.
 

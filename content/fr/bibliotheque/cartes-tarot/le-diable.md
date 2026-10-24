@@ -41,7 +41,7 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-Une créature cornue est perchée sur un bloc noir et trapu : cornes de bouc, ailes de chauve-souris, pattes velues terminées par des griffes, une étoile renversée sur le front. Sa main droite est levée, paume ouverte ; Arthur Edward Waite, qui a conçu le jeu, y voyait l’inverse de la bénédiction du Hiérophante. De la main gauche, elle pointe une torche allumée vers le sol.
+Une créature cornue est perchée sur un bloc noir et trapu : cornes de bouc, ailes de chauve-souris, pattes velues terminées par des griffes, une étoile renversée entre les cornes. Sa main droite est levée, paume ouverte ; Arthur Edward Waite, qui a conçu le jeu, y voyait l’inverse de la bénédiction du Hiérophante. De la main gauche, elle pointe une torche allumée vers le sol.
 
 Deux chaînes partent d’un anneau fixé au bloc et passent au cou d’un homme et d’une femme nus, qui ont eux aussi de petites cornes et une queue : celle de la femme finit en grappe de raisin, celle de l’homme en flamme. On dirait le couple des Amoureux, et personne ne tient l’autre bout. Les chaînes pendent, lâches, sur leurs épaules. **Ils pourraient les passer par-dessus leur tête, et rien dans le dessin ne les en empêche.**
 
@@ -59,7 +59,7 @@ Je dis souvent de la Terre que toutes les richesses ne sont pas en or. Ce qui vo
 
 ## Par les couleurs {#couleurs}
 
-Du [noir](/fr/bibliotheque/couleurs-tarot/noir/) d’un bord à l’autre : dans ma grille des couleurs, l’absence, le vide, les pensées lourdes — et aussi la réalité, la chose nue, sans vernis. Puis le feu de la torche et de la queue de l’homme, orange et rouge : l’élan, la libido. Puis la peau pâle des deux personnages, la seule teinte douce de la carte. Lisez les couleurs avant la carte et vous avez déjà : quelque chose de réel et de lourd, un désir qui continue de brûler, et deux personnes plus exposées que prisonnières.
+Du [noir](/fr/bibliotheque/couleurs-tarot/noir/) d’un bord à l’autre : dans ma grille des couleurs, l’absence, le vide, les pensées lourdes — et aussi la réalité, la chose nue, sans vernis. Puis l’orange : le corps de la créature, la peau du couple, les flammes de la torche et de la queue de l’homme — dans ma grille, la créativité et la libido. La créature et les deux personnages sont peints du même ton chaud, comme si ce qui les tient était fait de la même matière qu’eux. Lisez les couleurs avant la carte et vous avez déjà : quelque chose de réel et de lourd, un désir qui continue de brûler, et une emprise qui vient de l’intérieur plus que de l’extérieur.
 
 ## Par l’astrologie : Capricorne {#astrologie}
 

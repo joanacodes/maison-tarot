@@ -1,10 +1,10 @@
 ---
-title: 'Six de Épées (Six of Swords) — tarot Rider-Waite-Smith : lire la carte par
+title: 'Six d’Épées (Six of Swords) — tarot Rider-Waite-Smith : lire la carte par
   ses clés de lecture'
 description: 'Le Six d’Épées du tarot Rider-Waite-Smith : un passeur emmène deux passagers des eaux agitées vers le calme. La traversée, lue par le nombre, l’Air et Mercure.'
 translationKey: card-sw06
 type: cards
-navTitle: Six de Épées
+navTitle: Six d’Épées
 suit: swords
 suitLabel: Épées
 number: 6
@@ -15,8 +15,8 @@ astrology: Mercure en Verseau
 energy: Masculine
 kabbalah: ''
 image: cards/sw06.webp
-h1: Six de Épées — <em>six</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » Six de Épées, regardez ce que vous avez
+h1: Six d’Épées — <em>six</em>, l’Air
+lede: 'Avant de chercher ce que « signifie » Six d’Épées, regardez ce que vous avez
   déjà : six, l’élément Air, Mercure en Verseau. Vous lisez la carte. Le nombre dit
   six — l’harmonie retrouvée, l’échange ; l’élément dit le mental, ce qu’on décide.
   Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
@@ -27,16 +27,16 @@ related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
-- q: Que signifie Six de Épées ?
+- q: Que signifie Six d’Épées ?
   a: 'Une traversée des eaux agitées vers le calme : quitter une situation difficile pour une plus paisible, en emportant ce dont on a besoin. Son nombre (six) dit que les choses avancent de nouveau ; son élément (l’Air), que le changement commence dans la tête.'
-- q: Six de Épées renversé, ça change quoi ?
+- q: Six d’Épées renversé, ça change quoi ?
   a: 'La traversée cale : la personne n’arrive pas tout à fait à partir, ou fait demi-tour à mi-chemin parce que les eaux agitées, au moins, elle les connaissait. Dans l’excès, c’est partir chaque fois que ça devient dur, en emportant tous ses soucis.'
 - q: 'Le Six d’Épées annonce-t-il un voyage ?'
   a: 'Parfois, et même littéralement un voyage sur l’eau. Plus souvent, c’est le passage d’un état d’esprit, ou d’une situation, à un autre ; les cartes autour vous disent lequel.'
 categories:
 - Épées
 tags:
-- Six de Épées
+- Six d’Épées
 - Air
 - Mercure en Verseau
 - arcane mineur

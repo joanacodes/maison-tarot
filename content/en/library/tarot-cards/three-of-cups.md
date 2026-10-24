@@ -62,13 +62,13 @@ The water is moving — they’re dancing — but it moves together, in a circle
 
 The pale blue sky frames the scene: emotions, vitality. In the middle, the big [red](/library/tarot-colours/red/) cloak — passion, action, impulse: the energy of the dance. White on the left: innocence, peace. On the right and at their feet, the brown tunic, the orange pumpkin and fruit: in my grid, brown is value earned and worked earth ([gold and brown](/library/tarot-colours/gold-and-brown/)), and orange is creativity. The cups are yellow-gold: joy.
 
-Read the colours before the card: joy, movement, warmth, and a harvest on the ground. You already know it’s a celebration of something that grew.
+Before the card: joy, movement, warmth, and a harvest on the ground — the celebration of something that grew.
 
 ## By astrology: Mercury in Cancer {#astrology}
 
 In the Golden Dawn tradition, the Three of Cups is the second decan of Cancer, ruled by Mercury; its title is the Lord of Abundance. [Mercury](/library/astrology/mercury/) is how you think and speak. Cancer is *I feel*, the sign of the home. Together: the conversation of people who feel at home with each other — news shared, stories told, laughter round a table that has lasted all evening.
 
-Optional, as always. If astrology isn’t one of your lenses, you lose nothing by leaving it aside.
+Optional, as always: you lose nothing by leaving it aside.
 
 ## In a reading {#reading}
 

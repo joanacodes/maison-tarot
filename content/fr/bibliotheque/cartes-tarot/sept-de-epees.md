@@ -1,11 +1,10 @@
 ---
-title: 'Sept de Épées (Seven of Swords) — tarot Rider-Waite-Smith : lire la carte
+title: 'Sept d’Épées (Seven of Swords) — tarot Rider-Waite-Smith : lire la carte
   par ses clés de lecture'
-description: 'Sept de Épées : ce qu’on voit sur la carte, puis le nombre, l’élément
-  (Air), les couleurs et Lune en Verseau. Lire la carte sans l’avoir apprise.'
+description: 'Le Sept d’Épées du tarot Rider-Waite-Smith : un homme file avec cinq épées et en laisse deux. La stratégie discrète, à lire par le nombre, l’Air et les couleurs.'
 translationKey: card-sw07
 type: cards
-navTitle: Sept de Épées
+navTitle: Sept d’Épées
 suit: swords
 suitLabel: Épées
 number: 7
@@ -16,8 +15,8 @@ astrology: Lune en Verseau
 energy: Masculine
 kabbalah: ''
 image: cards/sw07.webp
-h1: Sept de Épées — <em>sept</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » Sept de Épées, regardez ce que vous avez
+h1: Sept d’Épées — <em>sept</em>, l’Air
+lede: 'Avant de chercher ce que « signifie » Sept d’Épées, regardez ce que vous avez
   déjà : sept, l’élément Air, Lune en Verseau. Vous lisez la carte. Le nombre dit
   sept — le doute, l’évaluation, la patience ; l’élément dit le mental, ce qu’on décide.
   Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
@@ -28,44 +27,62 @@ related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
-- q: Que signifie Sept de Épées ?
-  a: 'Il n’y a pas une signification à apprendre : Sept de Épées se lit par son nombre
-    (sept), son élément (Air) et ses couleurs. La page ci-dessus les pose une à une.'
-- q: Sept de Épées renversé, ça change quoi ?
-  a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
-    l’endroit, puis ce qui bloque ou déborde.
+- q: Que signifie Sept d’Épées ?
+  a: 'Une stratégie menée en douce : partir avec ce qu’on peut porter et laisser le reste. Son nombre (sept) est la récolte et le compromis, son élément (l’Air) le plan qu’on a en tête. Ce peut être de la débrouillardise ou une demi-vérité ; les cartes autour vous disent laquelle.'
+- q: Sept d’Épées renversé, ça change quoi ?
+  a: 'Le plan sort au grand jour. Soit le secret devient trop lourd à porter, soit l’habileté déborde. Parfois, c’est le moment d’avouer et de remettre les épées en place.'
+- q: 'Le Sept d’Épées veut-il dire qu’on me trompe ?'
+  a: 'Il peut désigner quelque chose de caché, mais il ne peut pas dire ce que fait une personne qui n’est pas là. Une question plus douce : qu’est-ce que vous ne dites pas, vous, ou de quoi avez-vous besoin pour vous sentir en sécurité ?'
 categories:
 - Épées
 tags:
-- Sept de Épées
+- Sept d’Épées
 - Air
 - Lune en Verseau
 - arcane mineur
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-{{< todo >}}À ÉCRIRE — décrire le dessin de Pamela Colman Smith, détail par détail : personnages, objets, posture, ce qui manque.{{< /todo >}}
+Sur un ciel jaune vif, un homme s’éloigne d’un camp à pas de loup, cinq épées serrées dans les bras. Il les tient bas, par les lames, les poignées dépassant de son épaule — une façon maladroite et risquée de porter des épées. Il regarde par-dessus son épaule, en souriant. Il porte un bonnet rouge sur des cheveux bruns frisés, une tunique beige, des chausses bleues et des bottes rouges bordées de fourrure.
+
+Deux épées restent plantées droites dans le sol derrière lui. Plus loin, les tentes d’un camp, colorées et ornées de motifs, des fanions au sommet. Tout au fond, à gauche, un petit groupe de silhouettes, l’une brandissant une lance, près d’un petit nuage gris. Personne ne semble l’avoir vu partir.
+
+Le dessin parle de **prendre ce qu’on peut porter, laisser le reste — et ne pas l’annoncer.**
 
 ## Par le nombre : sept {#nombre}
 
-**sept — le doute, l’évaluation, la patience.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**sept — le doute, l’évaluation, la patience.** Le sept, c’est la réflexion : l’analyse avant l’action, la négociation, la récolte de ce qui a poussé. Dans mes notes, le Sept d’Épées est le sept qui doit laisser des choses derrière lui mais récolte beaucoup, et c’est exactement le dessin : cinq épées dans les bras, deux laissées en terre. Un compromis. On ne peut pas tout emporter, alors on choisit. Le conseil du [chiffre 7](/fr/bibliotheque/numerologie/chiffre-7/), c’est que tout est temporaire, le bon comme le mauvais. Le septième stade d’Instagram, c’était la table de négociation où Facebook change le modèle : choisir ce que la chose allait devenir, et ce qu’elle laisserait derrière elle.
 
 ## Par l’élément : Air {#element}
 
-{{< todo >}}À ÉCRIRE — ce que [Air](/fr/bibliotheque/quatre-elements/element-air/) apporte ici : de quoi la carte parle.{{< /todo >}}
+L’[Air](/fr/bibliotheque/quatre-elements/element-air/), c’est le mental, la stratégie, la communication. Dans le Sept d’Épées, c’est l’Air qui fait le malin : un plan, une manœuvre, un contournement plutôt qu’un passage en force. Cette habileté peut être de la débrouillardise — la personne qui se sort d’une mauvaise situation avec ce dont elle a besoin. Ou une langue de vipère : la demi-vérité, ce qu’on fait dans le dos de quelqu’un. La carte ne tranche pas. Le sourire, si, quand on le regarde bien : soulagement, ou malice ?
 
 ## Par les couleurs {#couleurs}
 
-{{< todo >}}À ÉCRIRE — les couleurs dominantes et ce qu’elles disent avant la carte ([la grille des couleurs](/fr/bibliotheque/couleurs-tarot/)).{{< /todo >}}
+Le ciel [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) inonde la carte : la joie, l’optimisme, l’expression de soi — et la fierté, l’enfant intérieur qui s’en tire à bon compte. C’est le même jaune que le ciel du Mat, ce qui en dit long sur l’humeur. Le [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) du bonnet et des bottes : l’action, l’élan, l’impulsion. Il avance, et vite. Le bleu des chausses et de l’acier ajoute une tête froide. Le sol est beige et brun, sans éclat ; toute la couleur est dans le camp derrière lui, l’endroit qu’il quitte.
 
 ## Par l’astrologie : Lune en Verseau {#astrologie}
 
-{{< todo >}}À ÉCRIRE — Lune en Verseau, dans la tradition Golden Dawn ; ce que ça ajoute, et si ça vaut la peine de le garder ([astrologie](/fr/bibliotheque/astrologie/)).{{< /todo >}}
+Dans la tradition Golden Dawn, le Sept d’Épées correspond à la Lune dans le troisième décan du [Verseau](/fr/bibliotheque/astrologie/verseau/), sous le titre de « Seigneur de l’effort instable ». Le Verseau est le signe de l’idée originale et du « je sais » — que j’entends comme « je crois savoir » —, avec une tendance à se retrouver dans des situations bizarres et inconfortables. La Lune, c’est ce que vous ressentez quand personne ne regarde. Ensemble : un plan personnel, mené seul, très malin jusqu’au moment où il ne l’est plus. Facultatif, comme toute clé astrologique.
 
 ## En lecture {#lecture}
 
-{{< todo >}}À ÉCRIRE — à l’endroit, renversée, selon les cartes voisines. Une chose à retenir en gras.{{< /todo >}}
+À l’endroit, le Sept d’Épées est une stratégie menée en douce : partir sans prévenir — filer à l’anglaise, comme on dit —, prendre ce qui est à vous (ou ce que vous croyez l’être), contourner un problème au lieu de l’affronter. Ce peut être de la débrouillardise, savoir quoi sauver et quoi laisser. Ce peut être de l’évitement, ou un mensonge. Le plus souvent, celui qui porte les épées, c’est la personne en face de vous, pas quelqu’un d’autre.
+
+On me demande souvent si cette carte veut dire qu’on vous trompe, et je comprends l’inquiétude. Elle peut désigner quelque chose de caché, mais elle ne peut pas dire ce que fait une personne qui n’est pas là, et [je ne lis pas sur les absents](/fr/avertissements/#refus). Une question plus douce : qu’avez-vous cessé de dire, vous ?
+
+Renversé, le plan sort au grand jour. Freiné, le secret devient trop lourd, trop d’épées pour deux bras. Excessif, le mensonge grossit et l’habileté tourne à la méfiance envers tout le monde. Parfois, la carte renversée, c’est le moment d’avouer et de remettre les épées en place.
+
+À côté du [Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/), le savoir-faire et le faux-semblant se côtoient ; dans mes notes, le Magicien peut mentir si on lui fait aveuglément confiance. À côté de la [Lune](/fr/bibliotheque/cartes-tarot/la-lune/), ce qui est caché devient plus trouble : vérifiez les faits avant d’accuser qui que ce soit. À côté du [Sept de Pentacles](/fr/bibliotheque/cartes-tarot/sept-de-pentacles/), un autre sept qui contemple sa récolte : ce qu’on emporte valait l’effort.
+
+{{< cards "ar01 ar18 pe07" >}}
+
+**Le Sept d’Épées pose toujours la même question : qu’emportez-vous, et que laissez-vous derrière vous ?**
 
 ## Exemple de tirage {#exemple}
 
-{{< todo >}}À ÉCRIRE — un tirage réel anonymisé : clés de lecture d’abord, phrase dite, ce que la personne a confirmé.{{< /todo >}}
+Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Sept d’Épées à côté du [Trois de Bâtons](/fr/bibliotheque/cartes-tarot/trois-de-batons/). Les clés de lecture d’abord. Sept puis trois : une récolte et un compromis, puis un rythme qui fonctionne. L’Air puis le Feu : un plan dans la tête, puis l’élan, l’expansion. Un ciel jaune, puis un homme sur une hauteur qui regarde des bateaux prendre la mer.
+
+Vous pourriez dire : « Vous êtes en train de quitter quelque chose sans bruit, avec plus que ce que vous aviez en arrivant, et vous regardez déjà plus loin. »
+
+Puis vérifiez : « Êtes-vous en train de quitter quelque chose sans l’avoir encore annoncé ? » Si la personne dit non, n’insistez pas : c’est un raté. Si oui, la question suivante, c’est ce qu’elle laisse par terre, et si c’est voulu.

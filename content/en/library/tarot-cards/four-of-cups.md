@@ -68,7 +68,7 @@ And the [grey](/library/tarot-colours/grey/) of the little cloud the hand comes 
 
 In the Golden Dawn tradition, the Four of Cups is the third decan of Cancer, ruled by the Moon, and its title is the Lord of Blended Pleasure — pleasure mixed with something less pleasant. The [Moon](/library/astrology/moon/) says what you feel when nobody’s watching. Cancer, the sign the Moon rules, is *I feel*: the protector who absorbs and contains. Together: someone turned inward, feeling a lot and showing little, guarding what they have rather than reaching for more.
 
-Keep it if astrology is one of your lenses. If not, the number has already said the same thing.
+Optional: the number has already said the same thing.
 
 ## In a reading {#reading}
 

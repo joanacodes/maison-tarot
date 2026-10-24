@@ -41,7 +41,7 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-A horned creature perches on a squat black block: goat’s horns, bat’s wings, hairy legs ending in claws, an upside-down star on his forehead. His right hand is raised, palm out; Arthur Edward Waite, who devised the deck, called it the reverse of the Hierophant’s blessing. His left hand points a lit torch at the ground.
+A horned creature perches on a squat black block: goat’s horns, bat’s wings, hairy legs ending in claws, an upside-down star between his horns. His right hand is raised, palm out; Arthur Edward Waite, who devised the deck, called it the reverse of the Hierophant’s blessing. His left hand points a lit torch at the ground.
 
 Two chains run from a ring on the block to the necks of a naked man and a naked woman, who have small horns and tails of their own: hers ends in grapes, his in a flame. They look like the couple from the Lovers, and nobody holds the other end. The chains hang loose on their shoulders. **They could lift them off over their heads, and nothing in the drawing stops them.**
 
@@ -59,7 +59,7 @@ I often say of Earth that not all riches are gold. What chains you is usually so
 
 ## By colours {#colours}
 
-[Black](/library/tarot-colours/black/) from edge to edge: in my colour grid, absence, void, heavy thoughts — and also reality, the bare thing without varnish. Then the fire of the torch and of the man’s tail, orange and red: drive, and libido. Then the pale skin of the two people, the only soft tone on the card. Read the colours before the card and you already have: something real and heavy, a desire that keeps burning, and two people more exposed than trapped.
+[Black](/library/tarot-colours/black/) from edge to edge: in my colour grid, absence, void, heavy thoughts — and also reality, the bare thing without varnish. Then orange: the creature’s body, the couple’s skin, the flames of the torch and of the man’s tail — in my grid, creativity and libido. The creature and the two people are painted in the same warm tone, as if what holds them were made of the same stuff they are. Read the colours before the card and you already have: something real and heavy, a desire that keeps burning, and a hold that comes from inside more than from outside.
 
 ## By astrology: Capricorn {#astrology}
 

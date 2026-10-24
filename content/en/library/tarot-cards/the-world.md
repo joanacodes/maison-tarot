@@ -41,7 +41,7 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-A woman dances in the air inside a large oval wreath of green leaves, tied at the top and bottom with red ribbons crossed like the sign for infinity. She’s naked but for a long purple scarf wound around her body, and she holds a short wand in each hand. One leg crosses behind the other. In the four corners, heads appear in the clouds: a human face, an eagle, a bull and a lion — the same four as on the Wheel of Fortune.
+A woman dances in the air inside a large oval wreath of green leaves, tied at the top and bottom with crossed red ribbons. She’s naked but for a long purple scarf wound around her body, and she holds a short wand in each hand. One leg crosses behind the other. In the four corners, heads appear in the clouds: a human face, an eagle, a bull and a lion — the same four as on the Wheel of Fortune.
 
 Nothing on the card is unfinished. No ground under her feet, no road, no task left in her hands: two wands, both held lightly. **A cycle complete, and the ease of moving inside it.** That’s the drawing as a whole.
 

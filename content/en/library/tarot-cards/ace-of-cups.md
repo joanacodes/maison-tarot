@@ -44,7 +44,7 @@ tags:
 
 A hand comes out of a grey cloud on the right, palm up, a faint halo of light around it. On the palm stands one golden cup. Water spills over its rim in thin streams and falls into a pond below, where water lilies float — small pink flowers among round green leaves. Drops fall all around the cup, like rain that hasn’t decided where to land.
 
-Above, a white dove dives head first towards the cup, holding in its beak a round wafer marked with a cross, like a communion host. On the cup itself there’s a letter: an M drawn upside down, or a W, depending on how you look at it. The background is plain and pale. No sky, no sun, no horizon except a thin strip of shore on the left.
+Above, a white dove dives head first towards the cup, holding in its beak a round wafer marked with a cross, like a communion host. On the cup itself there’s a letter: an M drawn upside down, or a W, depending on how you look at it. The background is plain and pale: no sky, no sun, only a thin strip of shore on the left.
 
 What’s missing is a person. Nobody owns the hand, nobody drinks. The same [hand from a cloud](/library/tarot-symbols/hand-from-a-cloud/) comes back on all four Aces: something arrives that you didn’t make. **The cup is offered, and it overflows before anyone has taken it.**
 
@@ -52,7 +52,7 @@ What’s missing is a person. Nobody owns the hand, nobody drinks. The same [han
 
 **one — the beginning, the rough diamond.** An Ace is a 1, and a 1 is the start of a cycle: precious, and not usable yet. Here it’s a feeling at its very first stage — a love that’s starting, a friendship you didn’t expect, a heart opening again after a closed season. It already has its full value. It has no shape.
 
-The advice of [number one](/library/numerology/number-1/) is humility: get ready to learn. Instagram began as Burbn, an app that didn’t really work, and became something else once its makers watched what people actually used. A new feeling is the same — you don’t know yet what it’s for. The minus of 1 is deciding the ending on page one: “this is the one”, after a single coffee.
+The advice of [number one](/library/numerology/number-1/) is humility: get ready to learn. Instagram began as Burbn, an app that didn’t really work; a new feeling is the same — you don’t know yet what it’s for. The minus of 1 is deciding the ending on page one: “this is the one”, after a single coffee.
 
 ## By element: Water {#element}
 
@@ -64,13 +64,13 @@ Moving water means strong emotions, and this water is all movement. That’s why
 
 The cup in the centre is yellow-gold. In my grid, [yellow](/library/tarot-colours/yellow/) is joy, optimism, the inner child. The [blue](/library/tarot-colours/blue/) of the drops and the pond is emotion, water, purifying, vitality. The white of the dove: purity, peace, something nobody has touched yet. Green and pink at the bottom, on the lily pond: growth, life starting again.
 
-Then the grey of the background — neutrality, no particular will. Read the colours before you read the card and you already have a joy that hasn’t been aimed anywhere, clean water, and an empty space waiting for someone to step into it.
+Then the grey of the background: neutrality, no particular will. Before you’ve read a word about the card, you already have a joy not yet aimed anywhere, clean water, and an empty space waiting for someone.
 
 ## By astrology: Root of Water {#astrology}
 
 The Golden Dawn, the tradition the Rider-Waite-Smith correspondences come from, gave the Aces no sign and no planet. Each Ace is the Root of the Powers of its element: here, Water in its raw state, before it divides into the three Water signs — Cancer, Scorpio, Pisces — that the Two to the Ten of Cups share between them.
 
-So astrology adds little to this card, and that is the information: the feeling hasn’t got a character yet. If [astrology](/library/astrology/) is one of your lenses, keep that in mind. If not, leave it aside; the number, the element and the colours are enough.
+So [astrology](/library/astrology/) adds little here, and that is the information: the feeling hasn’t got a character yet. If it isn’t one of your lenses, leave it aside.
 
 ## In a reading {#reading}
 
@@ -88,4 +88,4 @@ Say someone sits down, tells you nothing, and draws the Ace of Cups next to [the
 
 The sentence I’d say out loud: “You’ve been on your own for a while, maybe by choice, and something is opening again — wanting people around, or someone in particular.”
 
-Then I check, without leading: “Does that mean something to you?” If it does, I let the person say what, rather than guessing who. If it doesn’t, it’s a miss. I write it down as one and don’t draw another card to rescue it.
+Then I check, without leading: “Does that mean something to you?” If it does, I let the person say what rather than guessing who. If it doesn’t, it’s a miss, and I don’t draw another card to rescue it.

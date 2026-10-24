@@ -55,7 +55,7 @@ On Judgement, the two parties are the call and the answer: the trumpet sounds, a
 
 Judgement is a [Fire](/library/four-elements/fire-element/) card. Fire is impulse, creation, the energy that motivates; it forges, warms, lights the night. Here it’s the spark that gets people out of the box they were lying in.
 
-In the Golden Dawn system this card stood for the element Fire itself, not for a sign or a planet. That says something about it: Judgement isn’t about thinking it over, it’s about the moment you move.
+Fire is the only attribution the Golden Dawn gave this card, and that says something about it: Judgement isn’t about thinking it over, it’s about the moment you move.
 
 ## By colours {#colours}
 
@@ -63,7 +63,7 @@ In the Golden Dawn system this card stood for the element Fire itself, not for a
 
 ## By astrology: Pluto {#astrology}
 
-Modern readers give Judgement to [Pluto](/library/astrology/pluto/), the planet of power and transformation: where you die and are reborn while alive, what you bury and what comes back up. The Golden Dawn itself couldn’t — Pluto was only discovered in 1930 — and gave the card to Fire, as above. Through Scorpio, Pluto also ties Judgement to Death: two cards that frighten in the picture and say the same thing, that something ends so something else can begin. It’s an optional lens, and a generational planet; the number and the element will take you further.
+The Golden Dawn gave Judgement to the element Fire, through the Hebrew letter Shin, and not to a planet. Modern readers later linked it to [Pluto](/library/astrology/pluto/), discovered in 1930: the planet of power and transformation, where you die and are reborn while alive, what you bury and what comes back up. Through Scorpio, Pluto also ties Judgement to Death: two cards that frighten in the picture and say the same thing, that something ends so something else can begin. It’s an optional lens, and a generational planet; the number and the element will take you further.
 
 ## In a reading {#reading}
 

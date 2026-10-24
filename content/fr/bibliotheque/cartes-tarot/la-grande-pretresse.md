@@ -1,8 +1,7 @@
 ---
 title: 'La Grande Prêtresse (The High Priestess) — tarot Rider-Waite-Smith : lire
   la carte par ses clés de lecture'
-description: 'La Grande Prêtresse : ce qu’on voit sur la carte, puis le nombre, l’élément
-  (Eau), les couleurs et Lune. Lire la carte sans l’avoir apprise.'
+description: 'La Grande Prêtresse (la Papesse) au tarot : deux colonnes, un voile, le nombre 2, l’Eau et la Lune. Ce qu’elle sait et tait, à l’endroit et renversée.'
 translationKey: card-ar02
 type: cards
 navTitle: La Grande Prêtresse
@@ -29,12 +28,9 @@ related:
 - /bibliotheque/astrologie
 faq:
 - q: Que signifie La Grande Prêtresse ?
-  a: 'Il n’y a pas une signification à apprendre : La Grande Prêtresse se lit par
-    son nombre (2), son élément (Eau) et ses couleurs. La page ci-dessus les pose
-    une à une.'
-- q: La Grande Prêtresse renversé, ça change quoi ?
-  a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
-    l’endroit, puis ce qui bloque ou déborde.
+  a: 'Quelque chose de su et pas encore dit : un ressenti, une intuition, une décision prise en silence. Comme 2 et comme carte d’Eau, elle pèse les deux côtés et laisse la réponse se poser avant de parler.'
+- q: La Grande Prêtresse renversée, ça change quoi ?
+  a: 'L’eau qui dort finit par stagner : un secret gardé si longtemps qu’il devient un mur, ou une intuition écartée parce qu’elle ne semblait pas logique. La question devient : qu’avez-vous décidé de ne pas regarder ?'
 categories:
 - Arcane majeur
 tags:
@@ -45,28 +41,48 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-{{< todo >}}À ÉCRIRE — décrire le dessin de Pamela Colman Smith, détail par détail : personnages, objets, posture, ce qui manque.{{< /todo >}}
+Une femme est assise, immobile, entre deux colonnes, et vous regarde en face : à votre gauche une colonne noire marquée B, à votre droite une blanche marquée J. Entre les deux pend un voile imprimé de grenades, qui cache ce qu’il y a derrière elle.
+
+Elle porte un manteau bleu sur une robe blanche, une croix blanche sur la poitrine, et une couronne en forme de lune : un disque plein entre deux croissants. Un rouleau repose sur ses genoux, à moitié couvert par le manteau ; on y lit les lettres TORA. Un croissant de lune est posé à ses pieds, et le bas de son manteau coule comme une cascade.
+
+Ce qui manque : l’action, le paysage, quelqu’un d’autre. Au tarot de Marseille, c’est la Papesse, un livre ouvert sur les genoux ; ici, le savoir est roulé et à moitié caché. **Le dessin parle d’un savoir gardé derrière un voile — présent, réel, et pas transmis.**
 
 ## Par le nombre : 2 {#nombre}
 
-**2 — deux — se lier, peser, coopérer.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**2 — deux — se lier, peser, coopérer.** Le [chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/), c’est l’alliance : deux parties, un lien, un contrat. Ici, il est dessiné sur la carte même — une colonne noire, une blanche — et elle est assise entre les deux, à peser. Le conseil du 2, c’est de lire le contrat avant de s’engager, et le rouleau sur ses genoux est à moitié caché : un contrat dont personne n’a lu les petites lignes. Dans l’histoire d’Instagram de mes pages de numérologie, ce sont les fondateurs qui signent avec des investisseurs, le meilleur moment pour lire lentement. Le revers du 2 se voit aussi : la solitude, ou un mental si occupé à peser qu’il ne partage plus rien.
 
 ## Par l’élément : Eau {#element}
 
-{{< todo >}}À ÉCRIRE — ce que [Eau](/fr/bibliotheque/quatre-elements/element-eau/) apporte ici : de quoi la carte parle.{{< /todo >}}
+La Grande Prêtresse est une carte d’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les émotions, les relations, les forces cachées. La lune, sur sa tête et à ses pieds, est ce qui fait bouger l’eau.
+
+Mais c’est une eau calme. L’eau qui bouge, ce sont des émotions fortes ; l’eau calme, des émotions posées, et elle cache ce qu’il y a sous sa surface. Dans mes notes, l’eau s’infiltre partout avec le temps : une émotion qu’on ne regarde pas peut abîmer les fondations, lentement, comme la moisissure qui ronge une maison. C’est le revers de cette carte, et le proverbe le dit déjà : il faut se méfier de l’eau qui dort.
+
+Son énergie est [féminine](/fr/bibliotheque/energies-feminine-masculine/) au sens où je l’enseigne — la patience, l’intangible, ce qui travaille en coulisses —, ce qui n’a rien à voir avec le fait d’être une femme.
 
 ## Par les couleurs {#couleurs}
 
-{{< todo >}}À ÉCRIRE — les couleurs dominantes et ce qu’elles disent avant la carte ([la grille des couleurs](/fr/bibliotheque/couleurs-tarot/)).{{< /todo >}}
+Le bleu domine : le manteau, et l’eau qu’il devient. Dans [ma grille des couleurs](/fr/bibliotheque/couleurs-tarot/bleu/), le bleu, c’est l’émotion, l’eau, la vitalité, l’énergie féminine. Le blanc de la robe, de la croix et de la colonne J : la paix, une intention claire. Le noir de la colonne B : l’absence, le vide, et le réel sans vernis. Deux côtés, et elle ne choisit pas devant vous ; entre les deux, une réponse qui se sentira avant de s’expliquer.
 
 ## Par l’astrologie : Lune {#astrologie}
 
-{{< todo >}}À ÉCRIRE — Lune, dans la tradition Golden Dawn ; ce que ça ajoute, et si ça vaut la peine de le garder ([astrologie](/fr/bibliotheque/astrologie/)).{{< /todo >}}
+Dans la tradition Golden Dawn, la Grande Prêtresse correspond à la [Lune](/fr/bibliotheque/astrologie/lune/) : ce qu’on ressent quand personne ne regarde. Quand j’explique un thème astral, je dis que la Lune, c’est « votre chambre », la pièce la plus intime de la maison — et c’est cette carte, une pièce qu’on ne vous fait pas visiter. La Lune a aussi une face qu’on ne voit jamais depuis la Terre ; la Grande Prêtresse fonctionne pareil, une façade et beaucoup de choses derrière. C’est une clé facultative ; le dessin le dit déjà.
 
 ## En lecture {#lecture}
 
-{{< todo >}}À ÉCRIRE — à l’endroit, renversée, selon les cartes voisines. Une chose à retenir en gras.{{< /todo >}}
+À l’endroit, la Grande Prêtresse dit que quelque chose est su et pas encore dit. Parfois la personne le sait ; parfois elle le sent sans avoir trouvé les mots. C’est la carte de l’intuition, l’impression qui arrive avant le raisonnement ([lire à l’intuition, et pouvoir quand même vérifier](/fr/blog/lire-le-tarot-a-lintuition/)).
+
+Renversée, l’eau qui dort stagne. Le secret est gardé si longtemps qu’il devient un mur, ou la façade est tout ce qu’on a le droit de voir. Concrètement : le ressenti qu’on a décidé de ne pas regarder, la conversation repoussée pour la cinquième fois, l’intuition écartée parce qu’elle n’était pas « logique ».
+
+À côté du [Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/), c’est 1 et 2 : l’un parle, l’autre se tait, et la lecture se loge dans l’écart. À côté de l’[Impératrice](/fr/bibliotheque/cartes-tarot/l-imperatrice/), ce qui était tenu derrière le voile commence à pousser et à se voir. À côté du [Deux d’Épées](/fr/bibliotheque/cartes-tarot/deux-de-epees/) — une femme aux yeux bandés qui tient deux épées croisées —, le silence n’est plus de la sagesse ; c’est un refus de regarder. **La Grande Prêtresse ne vous cache rien ; elle vous demande si le moment est venu de regarder.**
+
+{{< cards "ar01 ar03 sw02" >}}
 
 ## Exemple de tirage {#exemple}
 
-{{< todo >}}À ÉCRIRE — un tirage réel anonymisé : clés de lecture d’abord, phrase dite, ce que la personne a confirmé.{{< /todo >}}
+Imaginons : une personne s’assoit, ne vous dit rien, et tire la Grande Prêtresse à côté du [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/) — une silhouette en manteau rouge qui s’éloigne de huit coupes empilées, vers les montagnes, sous une lune.
+
+D’abord les clés de lecture. 2 puis 8 : un lien qu’on pèse, puis ce qu’on laisse derrière soi — ma note pour le Huit de Coupes, c’est passer à autre chose que ce qu’on fait déjà. L’Eau et l’Eau : des sentiments, pas de la logistique. Son bleu et son blanc, puis un manteau rouge qui s’en va ; et une lune sur les deux cartes.
+
+Ce que je dirais à voix haute : « Vous avez déjà décidé de quitter quelque chose, et vous ne l’avez encore dit à personne. »
+
+Puis je vérifierais : est-ce que ça vous parle, et si oui, s’agit-il d’un lieu, d’une personne ou d’une habitude ? Si la réponse est non, c’est un raté, et je le dis.

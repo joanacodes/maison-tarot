@@ -1,10 +1,10 @@
 ---
-title: 'Quatre de Épées (Four of Swords) — tarot Rider-Waite-Smith : lire la carte
+title: 'Quatre d’Épées (Four of Swords) — tarot Rider-Waite-Smith : lire la carte
   par ses clés de lecture'
 description: 'Le Quatre d’Épées du tarot Rider-Waite-Smith : un chevalier au repos sur un tombeau, épées raccrochées. La pause, lue par le nombre, l’Air, les couleurs et Jupiter.'
 translationKey: card-sw04
 type: cards
-navTitle: Quatre de Épées
+navTitle: Quatre d’Épées
 suit: swords
 suitLabel: Épées
 number: 4
@@ -15,8 +15,8 @@ astrology: Jupiter en Balance
 energy: Masculine
 kabbalah: ''
 image: cards/sw04.webp
-h1: Quatre de Épées — <em>quatre</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » Quatre de Épées, regardez ce que vous
+h1: Quatre d’Épées — <em>quatre</em>, l’Air
+lede: 'Avant de chercher ce que « signifie » Quatre d’Épées, regardez ce que vous
   avez déjà : quatre, l’élément Air, Jupiter en Balance. Vous lisez la carte. Le nombre
   dit quatre — les fondations, la stabilité ; l’élément dit le mental, ce qu’on décide.
   Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
@@ -27,16 +27,16 @@ related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
-- q: Que signifie Quatre de Épées ?
+- q: Que signifie Quatre d’Épées ?
   a: 'Le repos après une période difficile : une pause, une retraite, le sommeil, une trêve. Son nombre (quatre) donne la structure, son élément (l’Air) dit que c’est le mental qui a besoin de s’arrêter. La carte présente l’arrêt comme une partie du travail, pas comme un échec.'
-- q: Quatre de Épées renversé, ça change quoi ?
+- q: Quatre d’Épées renversé, ça change quoi ?
   a: 'Soit vous n’arrivez pas à vous reposer et les pensées reviennent sans cesse, soit le repos dure depuis trop longtemps et devient une cachette. Les cartes voisines montrent en général laquelle des deux.'
 - q: 'Le Quatre d’Épées annonce-t-il une mort ou une maladie ?'
   a: 'Non. Le chevalier sur le tombeau a les mains jointes et les épées raccrochées : la carte parle de repos, pas de fin. Une carte n’annonce pas une maladie ; si votre santé vous inquiète, c’est un médecin qu’il faut voir.'
 categories:
 - Épées
 tags:
-- Quatre de Épées
+- Quatre d’Épées
 - Air
 - Jupiter en Balance
 - arcane mineur

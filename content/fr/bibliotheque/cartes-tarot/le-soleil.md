@@ -41,7 +41,7 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-Un immense soleil à visage humain occupe le haut de la carte, ses rayons alternant droits et ondulés. En dessous, un enfant nu, des fleurs dans les cheveux, monte un cheval blanc, les bras grands ouverts, et tient une longue bannière rouge qui flotte à côté de lui. Derrière, un mur de pierre grise, et au-dessus du mur, une rangée de tournesols.
+Un immense soleil à visage humain occupe le haut de la carte, ses rayons alternant droits et ondulés. En dessous, un enfant nu, des fleurs dans les cheveux, monte un cheval blanc, les bras grands ouverts, tandis qu’une longue bannière rouge flotte à côté d’eux. Derrière, un mur de pierre grise, et au-dessus du mur, une rangée de tournesols.
 
 Regardez ce qui manque : pas de selle, pas de rênes, pas d’adulte, pas de vêtements. L’enfant ne se tient à rien. **La joie, sans rien à cacher et sans rien à quoi s’agripper.** C’est tout le dessin : être à découvert, et en sécurité.
 

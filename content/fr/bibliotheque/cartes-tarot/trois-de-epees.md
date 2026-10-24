@@ -1,10 +1,10 @@
 ---
-title: 'Trois de Épées (Three of Swords) — tarot Rider-Waite-Smith : lire la carte
+title: 'Trois d’Épées (Three of Swords) — tarot Rider-Waite-Smith : lire la carte
   par ses clés de lecture'
 description: 'Le Trois d’Épées du tarot Rider-Waite-Smith : un cœur percé de trois épées sous la pluie. Le chagrin, lu avec douceur par le nombre, l’Air, les couleurs et le pacte.'
 translationKey: card-sw03
 type: cards
-navTitle: Trois de Épées
+navTitle: Trois d’Épées
 suit: swords
 suitLabel: Épées
 number: 3
@@ -15,8 +15,8 @@ astrology: Saturne en Balance
 energy: Masculine
 kabbalah: ''
 image: cards/sw03.webp
-h1: Trois de Épées — <em>trois</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » Trois de Épées, regardez ce que vous
+h1: Trois d’Épées — <em>trois</em>, l’Air
+lede: 'Avant de chercher ce que « signifie » Trois d’Épées, regardez ce que vous
   avez déjà : trois, l’élément Air, Saturne en Balance. Vous lisez la carte. Le nombre
   dit trois — créer, célébrer, le premier résultat ; l’élément dit le mental, ce qu’on
   décide. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous
@@ -27,16 +27,16 @@ related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
-- q: Que signifie Trois de Épées ?
+- q: Que signifie Trois d’Épées ?
   a: 'Une blessure qui a une forme précise : quelque chose de dit, de décidé ou de compris qui est allé droit au cœur. Son nombre (trois) et son élément (l’Air) renvoient aux mots et aux pensées, souvent à un triangle. La carte montre le moment de la blessure, pas la fin de l’histoire.'
-- q: Trois de Épées renversé, ça change quoi ?
+- q: Trois d’Épées renversé, ça change quoi ?
   a: 'La même peine, gardée pour soi ou ressassée : un chagrin dont personne ne parle, une scène qu’on rejoue sans cesse. La question qu’elle pose : à qui pourriez-vous en parler ?'
 - q: 'Que signifie le Trois d’Épées en amour ?'
   a: 'Un chagrin d’amour, une déception, parfois une troisième personne dans le tableau. La carte décrit ce qui fait mal maintenant ; elle ne dit pas si la relation se termine ou se répare.'
 categories:
 - Épées
 tags:
-- Trois de Épées
+- Trois d’Épées
 - Air
 - Saturne en Balance
 - arcane mineur
