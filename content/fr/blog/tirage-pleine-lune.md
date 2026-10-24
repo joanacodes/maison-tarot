@@ -1,6 +1,6 @@
 ---
 title: "Tirage de pleine lune : celui que j’utilise, assez petit pour tenir sur une serviette"
-description: "Un tirage de pleine lune en trois cartes qui tient sur une serviette de bistrot : ce qui est apparu, ce qu’on peut poser, ce qu’on garde. Positions expliquées et exemple."
+description: "Un tirage de pleine lune en trois cartes, assez petit pour une serviette de bistrot : ce qui est apparu, ce qu’on pose, ce qu’on garde. Chaque position expliquée."
 translationKey: "post-full-moon-tarot-spread"
 type: blog
 date: 2026-10-24
@@ -35,6 +35,8 @@ Trois cartes, parce que trois racontent une petite histoire et tiennent encore s
 
 ## Comment le poser {#comment}
 
+Six étapes, une dizaine de minutes.
+
 1. Choisissez un soir à un jour près de la pleine lune. À l’intérieur, c’est très bien. Sous les nuages aussi.
 2. Battez les cartes comme vous voulez. Il n’y a pas de mauvaise façon.
 3. Tirez trois cartes et alignez-les sur ce que vous avez devant vous : une serviette, un set de table, la couverture d’un livre.
@@ -54,7 +56,7 @@ Imaginons que quelqu’un tire, de gauche à droite, le Huit d’Épées, le Dix
 
 *Ce qui peut être posé :* le Dix de Bâtons. Quelqu’un plié sous dix bâtons, qui marche vers une maison. Le 10, c’est le couloir entre deux pièces ; le Feu, l’énergie et l’élan. Ma note pour cette carte : garder l’énergie créative, sans se surcharger. Ce qui peut se reposer : quelques-uns de ces bâtons.
 
-*Ce qu’on garde :* [le Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/). Une femme dans son jardin, au milieu des vignes chargées, un oiseau sur sa main gantée. Le 9, c’est la ligne d’arrivée ; la Terre, tout ce qui a de la valeur pour vous. Ma note : profiter de ce qui vient, être reconnaissante pour ce qu’on a. Ce qu’on garde : ce qui est déjà construit et dont personne, vous compris, n’a pris le temps de profiter.
+*Ce qu’on garde :* [le Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/). Une femme dans son jardin, au milieu des vignes chargées, un oiseau sur sa main gantée. Le 9, c’est la ligne d’arrivée ; la Terre, tout ce qui a de la valeur pour vous. Ma note : profiter de ce qui vient, la gratitude pour tout ce qu’on a. Ce qu’on garde : ce qui est déjà construit et dont personne, vous compris, n’a pris le temps de profiter.
 
 La phrase à voix haute pourrait être : « Vous avez vu que le nœud était plus lâche qu’il n’en avait l’air. Vous pouvez poser une partie de ce que vous avez accepté de porter. Et ce que vous avez déjà construit mérite une soirée où vous en profitez. » Ensuite, vérifiez, avec la personne ou avec vous-même : coche ou croix.
 

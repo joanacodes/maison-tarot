@@ -11,7 +11,7 @@ imageAlt: "A small worn prayer book and a closed tarot deck side by side on a wo
 imagePrompt: "A small worn prayer book and a closed tarot deck side by side on a plain wooden table. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Christian texts reject divination: Deuteronomy forbids it, and the Catechism of the Catholic Church says all forms of divination are to be rejected, horoscopes and clairvoyance included. Yet tarot began as a card game in fifteenth-century Christian Italy, its trumps are full of Christian imagery, and a large share of believers hold at least one belief of this kind. Both things are true. It isn’t my place to tell a Christian what their faith allows; that conversation belongs to them, their tradition and the people who guide them in it."
 ---
-Christian texts reject divination, and most churches say so plainly. Tarot, meanwhile, was born in Christian Europe as a game, with a pope and an angel among its trumps. And plenty of Christians read cards anyway. All three are true at once; I'll set them side by side without deciding for anyone.
+Christian texts reject divination, and most churches say so plainly. Tarot, meanwhile, was born in Christian Europe as a game, with a pope and an angel among its trumps. And plenty of Christians are drawn to the cards anyway. All three are true at once; I'll set them side by side without deciding for anyone.
 
 ## What the Bible says about divination {#the-bible}
 

@@ -29,13 +29,13 @@ In the US, the publisher U.S. Games Systems estimated that its tarot sales rough
 
 That last detail tells you the most. Tarot rises when the future becomes unreadable: a crash, a pandemic. It doesn't make the future readable. It gives you a place to talk about it, with pictures, when words run short.
 
-Two honest limits. The curve was already rising before 2020, so the pandemic sped up a movement rather than starting one. And a poll taken during a lockdown is a photograph, not a trend. If the "esoteric boom" after Covid is as large as people say, it still needs measuring over time.
+Two honest limits. The curve was already rising before 2020, so the pandemic sped up a movement rather than starting one. And a poll taken during a lockdown is a photograph, not a trend. I haven't found comparable sales figures for the UK or France. If the "esoteric boom" after Covid is as large as people say, it still needs measuring over time.
 
 ## Why 18-to-24-year-olds in particular {#why-them}
 
 What follows is my reading, not a study.
 
-The age of choices without guarantees. Between eighteen and twenty-four you choose a course, a first job, a city, a person — often all at once, with no idea how it will turn out. Tarot doesn't choose for you, but it lets you ask the question out loud.
+The age of choices without guarantees. Between eighteen and twenty-four you choose a course, a first job, a city, a person — often all at once, with no idea how it will turn out. Tarot doesn't choose for you, but it lets you ask the question out loud. Say you're twenty-two, torn between a master's place and a job offer. A spread won't pick for you; but laying out two paths on a table and saying aloud what each card makes you feel often shows you which way you were already leaning.
 
 A language in pictures, free, in your pocket. A generation met tarot on TikTok and YouTube, not in an occult shop; I've explained [TarotTok for people who don't use it](/blog/tarottok/). My own start was a pick-a-card video: for the first time, someone put words on my situation, and I sobbed — the reader cried too, on screen. I'm not going to sneer at the door I came in by. I've written separately about what [pick-a-card readings can and can't do](/blog/do-pick-a-card-readings-work/).
 

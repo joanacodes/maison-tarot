@@ -45,6 +45,8 @@ Aucune des deux réponses ne rend la période moins réelle. Une année difficil
 
 ## Le traverser sans catastrophisme {#sans-catastrophisme}
 
+Quatre choses à garder en tête, quoi que vous pensiez de Saturne.
+
 - *C’est une révision, pas une condamnation.* Saturne est la planète de ce qui devient solide parce que c’était dur. C’est la fin de l’histoire, pas seulement le milieu.
 - *Ce n’est pas un alibi.* « C’est mon retour de Saturne » explique une humeur ; ça n’excuse pas de laisser les autres en plan. [L’astrologie n’est pas une excuse.](/fr/avertissements/#astrologie)
 - *La décision reste la vôtre.* Si vous apportez la question aux cartes, la règle est la même que d’habitude : je lis ; vous décidez.

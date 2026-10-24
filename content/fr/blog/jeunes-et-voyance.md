@@ -35,7 +35,7 @@ Deux limites, pour être honnête. La courbe montait déjà avant 2020 : la pand
 
 Ce qui suit est ma lecture, pas une étude.
 
-L’âge des choix sans garantie. Entre dix-huit et vingt-quatre ans, on choisit des études, un premier travail, une ville, quelqu’un — souvent tout à la fois, sans savoir comment ça tournera. Le tarot ne choisit pas à votre place, mais il permet de poser la question à voix haute.
+L’âge des choix sans garantie. Entre dix-huit et vingt-quatre ans, on choisit des études, un premier travail, une ville, quelqu’un — souvent tout à la fois, sans savoir comment ça tournera. Le tarot ne choisit pas à votre place, mais il permet de poser la question à voix haute. Imaginons : vous avez vingt-deux ans, une place en master d’un côté, une offre d’emploi de l’autre. Un tirage ne tranchera pas ; mais poser deux chemins sur la table et dire tout haut ce que chaque carte vous fait ressentir montre souvent vers lequel vous penchiez déjà.
 
 Un langage en images, gratuit, dans la poche. Une génération a rencontré le tarot sur TikTok ou YouTube, pas dans une boutique ésotérique ; j’en parle dans [le TarotTok expliqué](/fr/blog/tarottok-francais/). Moi-même, c’est une vidéo « pick a card » qui a tout déclenché : pour la première fois, quelqu’un mettait des mots sur ma situation, et j’ai pleuré — la lectrice aussi, dans la vidéo. Je ne vais pas mépriser la porte par laquelle je suis entrée. J’ai écrit ailleurs ce que valent [les tirages « pick a card »](/fr/blog/tirage-pick-a-card/), avec leurs forces et leurs limites.
 

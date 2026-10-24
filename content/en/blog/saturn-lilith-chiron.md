@@ -63,6 +63,8 @@ And these placements touch tender places. If reading your Chiron opens something
 
 ## Check your own three {#try-it}
 
+Five steps and one printed page.
+
 1. Print your chart, with your birth date, time and place.
 2. Find Saturn, Lilith and Chiron: the sign, and the house if you know your birth time.
 3. Read one plain description of each. The three Library pages are a start.

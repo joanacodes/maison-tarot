@@ -63,6 +63,8 @@ Et ces positions touchent à des endroits sensibles. Si lire votre Chiron ouvre 
 
 ## Vérifiez les vôtres {#essayez}
 
+Cinq étapes et une page imprimée.
+
 1. Imprimez votre thème (date, heure et lieu de naissance).
 2. Trouvez Saturne, Lilith et Chiron : le signe, et la maison si vous connaissez votre heure.
 3. Lisez une description claire de chacun ; les pages de la Bibliothèque sont un début.

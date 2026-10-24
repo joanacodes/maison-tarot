@@ -35,6 +35,8 @@ Three cards, because three tell a small story and still fit on a napkin. A fourt
 
 ## How to lay it out {#how-to}
 
+Six steps, about ten minutes.
+
 1. Pick a night within a day or so of the full moon. Indoors is fine. Clouds are fine.
 2. Shuffle any way you like. There's no wrong way.
 3. Draw three cards and lay them in a row on whatever's in front of you: a napkin, a placemat, the cover of a book.

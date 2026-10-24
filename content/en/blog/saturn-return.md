@@ -45,6 +45,8 @@ Neither answer makes the period less real. A hard year is a hard year, whatever 
 
 ## Getting through it without the doom {#without-the-doom}
 
+Four things to hold onto, whatever you believe about Saturn.
+
 - *It's a review, not a sentence.* Saturn is the planet of things that become solid because they were hard. That's the end of the story, not only the middle.
 - *It's not an alibi.* “It's my Saturn return” explains a mood; it doesn't excuse leaving people in the lurch. [Astrology is not an excuse.](/disclaimers/#astrology)
 - *The decision stays yours.* If you bring the question to the cards, the rule is the same as always: I read; you decide.
