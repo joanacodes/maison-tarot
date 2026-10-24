@@ -7,7 +7,7 @@ date: 2026-10-24
 categories: ["For readers"]
 tags: ["reading without tarot cards", "intuitive tarot reading", "do you need tarot cards", "tarot focus", "tarot reader experience", "intuition"]
 image: "covers/do-you-still-need-tarot-cards.jpg"
-imageAlt: "A tarot deck still in its box, unopened, on a kitchen table between two cups of tea."
+imageAlt: "A boxed tarot deck on a kitchen table between two cups of tea, two people’s forearms resting on the edge."
 imagePrompt: "A tarot deck still in its closed box on a kitchen table between two cups of tea, two people’s forearms resting on the table edge. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Strictly speaking, maybe not: the more I read, the more often something came before I’d even shuffled. But I keep my cards on the table for two reasons. The person in front of me wants to see them, and a card they can look at makes the reading something we share and can check. And the cards help me focus, or unfocus, so my own thoughts and biases step aside. That’s my experience, not a rule and not a power. If you’re learning, keep your cards: they’re how you learn to tell what comes up from what you already think."
 ---

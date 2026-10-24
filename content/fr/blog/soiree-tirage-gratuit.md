@@ -1,6 +1,6 @@
 ---
 title: "Organiser une soirée de tirages gratuits en ligne"
-description: "Organiser une soirée de tirages gratuits en ligne : le format, le minutage, le consentement, une limite par personne, et comment écarter avec douceur les sujets délicats."
+description: "Organiser une soirée de tirages gratuits en ligne : format, minutage, consentement, limite par personne, et comment écarter avec douceur les sujets délicats."
 translationKey: "post-free-tarot-event-online"
 type: blog
 date: 2026-10-24

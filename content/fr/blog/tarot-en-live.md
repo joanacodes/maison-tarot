@@ -1,6 +1,6 @@
 ---
 title: "Tirer les cartes en live sur Instagram : ce qui marche, ce qui casse"
-description: "Tirer les cartes en live sur Instagram ou ailleurs : ce qui marche, ce qui casse, et ce que m’ont appris mes propres lives sur Facebook. Décalage, commentaires, trac."
+description: "Tirer les cartes en live sur Instagram ou ailleurs : ce qui marche, ce qui casse, et ce que m’ont appris mes lives sur Facebook. Décalage, commentaires, trac."
 translationKey: "post-tarot-live-instagram"
 type: blog
 date: 2026-10-24
@@ -11,7 +11,7 @@ imageAlt: "Un téléphone sur un petit trépied tourné vers une table en bois o
 imagePrompt: "A phone on a small tripod facing a wooden table where a single tarot card lies face up, seen from behind the phone. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Un tirage en live marche quand vous gardez les mêmes règles que partout ailleurs : la personne ne vous dit rien, vous montrez chaque carte, et vous dites un raté à voix haute. Ce qui casse, c’est le format : le décalage entre ce que vous dites et ce que les gens entendent, des commentaires qui trahissent la question, une foule qui écrit des sujets sur lesquels vous ne lisez pas, et un trac qui fait trembler les mains. Mes propres lives se sont faits sur Facebook, dans des groupes de tarot, pas sur Instagram, mais ces leçons valent sur toutes les plateformes."
 ---
-Un live de tarot fonctionne si vous gardez vos règles et que vous acceptez que le format va essayer de les casser. Le décalage, les commentaires et le trac sont les premiers à lâcher. Une chose à dire franchement avant tout le reste : mes propres lives se sont faits sur Facebook, dans des groupes de tarot, pas sur Instagram. Ce qui suit, ce sont les leçons qui ne dépendent pas de la plateforme.
+Un live de tarot fonctionne si vous gardez vos règles et que vous acceptez que le format va essayer de les casser. Le décalage, les commentaires et le trac sont les premiers à lâcher. Une chose à dire franchement avant tout le reste : mes propres lives se sont faits sur Facebook, dans des groupes de tarot, pas sur Instagram. La suite vaut quelle que soit la plateforme.
 
 ## Ce qu’est un live de tarot, et ce que j’ai fait {#definition}
 
@@ -21,11 +21,11 @@ Quelques mois après mes débuts, je faisais des tirages dans des groupes de tar
 
 ## Ce qui marche : les mêmes règles que partout {#ce-qui-marche}
 
-Ma règle ne change pas en live : ne me dites rien. Demandez aux gens de ne pas écrire leur question, leur âge ni leur situation. Dans un fil de commentaires, c’est plus dur à tenir qu’autour d’une table, et ça compte davantage, parce que tout le monde voit ce qui a été écrit. Voici [pourquoi je demande le silence](/fr/blog/regle-du-silence-tarot/), au départ.
+Ma règle ne change pas en live : ne me dites rien. Demandez aux gens de ne pas écrire leur question, leur âge ni leur situation. En commentaires, c’est plus dur à tenir qu’autour d’une table, et ça compte davantage : tout le monde voit ce qui est écrit. Voici [pourquoi je demande le silence](/fr/blog/regle-du-silence-tarot/), au départ.
 
 Tirez les personnes au sort plutôt que de prendre celles qui tapent le plus vite. C’est plus juste, et ça évite que la soirée revienne à qui insiste le plus. [Lire devant du monde](/fr/blog/tirer-les-cartes-en-public/) change déjà les enjeux ; le tirage au sort les garde équitables.
 
-Montrez chaque carte à la caméra. Dans mes notes de 2021, j’écrivais que plus je lisais, plus les messages arrivaient avant que j’aie mélangé, et que je me sers des cartes surtout parce que la personne a envie de les voir. En live, c’est doublement vrai : les spectateurs veulent voir ce que vous voyez. Si quelque chose vient avant que vous ayez posé une carte, dites-le, puis montrez la carte quand même pour qu’on puisse suivre. Je reviens plus longuement sur la question de savoir si [on a encore besoin des cartes](/fr/blog/a-t-on-besoin-des-cartes/).
+Montrez chaque carte à la caméra. Dans mes notes de 2021, j’écrivais que plus je lisais, plus les messages arrivaient avant que j’aie mélangé, et que je me sers des cartes surtout parce que la personne a envie de les voir. En live, c’est doublement vrai : les spectateurs veulent voir ce que vous voyez. Si quelque chose vient avant que vous ayez posé une carte, dites-le, puis montrez la carte quand même pour qu’on puisse suivre. J’explique ailleurs si [on a encore besoin des cartes](/fr/blog/a-t-on-besoin-des-cartes/).
 
 Dites les ratés à voix haute. **En live, les règles que vous tenez sont la leçon que les gens emportent.** Rattrapez un raté devant cinquante personnes, et vous avez appris à cinquante personnes qu’un raté se rattrape.
 
@@ -39,7 +39,7 @@ La troisième, ce sont les questions des autres, qui tombent au milieu du tirage
 
 ## Rester calme quand le corps tremble {#trac}
 
-Votre corps peut réagir avant votre tête : des mains qui tremblent, la bouche sèche, une voix qui monte dans les aigus. Ça arrive à des gens qui lisent très calmement autour d’une table de cuisine, dès qu’ils savent qu’on les regarde.
+Votre corps peut réagir avant votre tête : des mains qui tremblent, la bouche sèche, une voix qui monte. Ça arrive à des gens qui lisent très calmement autour d’une table de cuisine, dès qu’ils savent qu’on les regarde.
 
 Rester calme ne veut pas dire arrêter de trembler. Ça veut dire laisser trembler et lire quand même. Ralentissez. Expirez plus longtemps que vous n’inspirez. Posez les cartes sur la table au lieu de les tenir en l’air. Si ça aide, dites-le : « j’ai les mains qui tremblent un peu ce soir ». Les spectateurs pardonnent le trac bien plus facilement que le faire-semblant.
 
@@ -58,4 +58,4 @@ Une partie de ce qui monte en vous n’est peut-être même pas à vous. Quand v
 
 ## Pour aller plus loin {#prochaine-etape}
 
-Si vous voulez lire devant du monde dans un cadre plus calme qu’un fil de commentaires, commencez plutôt par un petit appel vidéo ; j’explique comment [organiser une soirée de tirages gratuits en ligne](/fr/blog/soiree-tirage-gratuit/). Et si vous voulez observer le format avant de vous lancer, les [événements gratuits](/fr/evenements/) de Maison Tarot sont ouverts à qui veut venir regarder.
+Si vous voulez lire devant du monde dans un cadre plus calme qu’un fil de commentaires, commencez plutôt par un petit appel vidéo ; j’explique comment [organiser une soirée de tirages gratuits en ligne](/fr/blog/soiree-tirage-gratuit/). Et pour observer le format avant de vous lancer, les [événements gratuits](/fr/evenements/) de Maison Tarot sont ouverts à qui veut regarder.
