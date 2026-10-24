@@ -1,7 +1,6 @@
 ---
 title: 'The Emperor — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'The Emperor: what’s on the card, then the number, the element (Fire),
-  the colours and Aries. Read the card without having learned it.'
+description: 'The Emperor tarot card: a stone throne, armour under the robe, the number 4, Fire and Aries. How to read his authority upright and reversed, and when walls stop protecting.'
 translationKey: card-ar04
 type: cards
 navTitle: The Emperor
@@ -28,11 +27,9 @@ related:
 - /library/astrology
 faq:
 - q: What does The Emperor mean?
-  a: 'There isn’t one meaning to memorise: The Emperor is read through its number
-    (4), its element (Fire) and its colours. The page above lays them out one by one.'
+  a: 'Structure and authority: rules, a plan, someone who decides and protects. As a 4 and a Fire card, it’s a strength that holds things together — and that can burn when nobody watches it.'
 - q: What about The Emperor reversed?
-  a: The same card, slowed down or in excess. Look first at what the card says upright,
-    then at what blocks or overflows.
+  a: 'The fire leaves the hearth or goes out: rules turn into control, or there’s no structure left at all. Ask whether the walls still protect the people inside them.'
 categories:
 - Major arcana
 tags:
@@ -43,28 +40,50 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-{{< todo >}}TO WRITE — describe Pamela Colman Smith’s drawing, detail by detail: figures, objects, posture, what’s missing.{{< /todo >}}
+An old man with a long white beard sits on a massive stone throne and faces you without moving. Rams’ heads are carved into the stone. He wears a gold crown and a red robe — and under the robe, at his legs, armour. In his right hand he holds a sceptre shaped like an ankh, the Egyptian cross with a loop; in his left, a golden orb.
+
+Behind him rise steep, bare mountains under an orange sky. Nothing grows there.
+
+What’s missing: softness of any kind. No plants, no other people, no gesture of welcome. He doesn’t move, and neither does the throne. **The drawing is about order held in place by someone ready to defend it.**
 
 ## By number: 4 {#number}
 
-**4 — four — foundations, stability.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**4 — four — foundations, stability.** The [number 4](/library/numerology/number-4/) is 2 exalted: the alliance has become a structure, the fruit of your work, something that holds. Look at the throne: a block of stone, square and level. The Emperor is a 4 sitting on a 4.
+
+In the story of Instagram on my numerology pages, 4 is the big success that came fast: a shape, a team, habits — and the moment a company starts believing it will never have to change again. Hence the advice of 4: stay flexible, stay open to what you hadn’t planned. Its minus is carrying on when you should stop, out of pure stubbornness.
 
 ## By element: Fire {#element}
 
-{{< todo >}}TO WRITE — what [Fire](/library/four-elements/fire-element/) brings here: what the card is about.{{< /todo >}}
+The Emperor is a [Fire](/library/four-elements/fire-element/) card: creation, destruction, impulse. In my notes he is the father, and Fire explains his kind of authority — he forges, he protects, he lights the way. He gives orders; he doesn’t receive them.
+
+A 4 of Fire is fire in a hearth: contained, useful, keeping the house warm. Under his king’s robe he is ready for war, and that is the minus I note for this card: like fire, he can destroy everything, fast, when nobody is watching the flames. The strength that protects a house can also burn it down.
 
 ## By colours {#colours}
 
-{{< todo >}}TO WRITE — the dominant colours and what they say before the card ([the colour grid](/library/tarot-colours/)).{{< /todo >}}
+Red and orange dominate: the robe, the sky, the mountains. In [my colour grid](/library/tarot-colours/red/), red is passion, action, strength, impulse — masculine energy, a body doing something. The Emperor’s is a deep, mature red; in my grid that shade leans towards purple, the colour of the one a group puts in charge. Grey on the throne: stability, matter that doesn’t move. Gold on the crown and the orb: power that has been earned, or taken.
+
+Read before the card: action, authority, something solid, and heat under the stone.
 
 ## By astrology: Aries {#astrology}
 
-{{< todo >}}TO WRITE — Aries, in the Golden Dawn tradition; what it adds, and whether it’s worth keeping ([astrology](/library/astrology/)).{{< /todo >}}
+In the Golden Dawn tradition, the Emperor goes with [Aries](/library/astrology/aries/), the first sign of the zodiac: “I am”, ruled by Mars, cardinal — the sign that charges. The rams’ heads on the throne are its signature. Aries adds what the stone hides: impatience, the urge to start and to command. Aries is the bricklayer who lays the first stone without reading the plan, and the Emperor is that bricklayer once he has a kingdom. A useful extra; if astrology isn’t for you, the armour has already said it.
 
 ## In a reading {#reading}
 
-{{< todo >}}TO WRITE — upright, reversed, with neighbouring cards. One thing to remember, in bold.{{< /todo >}}
+Upright, the Emperor says structure: rules, a frame, a plan, someone who decides. Sometimes it’s an authority in the person’s life — a boss, a parent, an institution — and sometimes it’s their own discipline. I read it for the person in front of me first, not for someone who isn’t in the room ([why I read you, not your boss or your father](/blog/reading-tarot-about-someone-else/)). At work it’s leadership, and the question of leading well ([the Emperor in career](/blog/emperor-tarot-career/)).
+
+Reversed, the fire leaves the hearth or goes out. Either the rules harden and authority turns into control — the manager who can’t delegate, the parent who decides everything — or there’s no structure at all, and nothing holds.
+
+Next to [the Empress](/library/tarot-cards/the-empress/), it’s 3 then 4: what grows, then what protects it. Next to the [Two of Wands](/library/tarot-cards/two-of-wands/) — another man with a globe in his hand, looking out from a castle wall, and an Aries card too — the kingdom is starting to feel small. Next to [the Tower](/library/tarot-cards/the-tower/), the structure is about to be tested by fire. **The Emperor protects what he rules, and the reading asks whether the walls still serve the people inside.**
+
+{{< cards "ar03 wa02 ar16" >}}
 
 ## A reading, as an example {#example}
 
-{{< todo >}}TO WRITE — a real anonymised spread: lenses first, the sentence said, what the person confirmed.{{< /todo >}}
+Say someone sits down, tells you nothing, and draws the Emperor next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/): a woman bound and blindfolded, surrounded by swords planted in the ground, a castle behind her.
+
+Lenses first. Numbers: 4 then 8 — a structure, then the 4 exalted, control pushed to its limit. Elements: Fire then Air, a will followed by thoughts that go round in circles. Colours: the Emperor’s red and orange say will and heat; set beside a figure who can’t see, that heat has nowhere to go.
+
+The sentence I’d say out loud: “You’ve built rules to protect yourself, and now they’re walls you can’t see past.”
+
+Then I’d check: is there a rule of yours — at work, at home — that you’d drop tomorrow if nobody were watching? My note for the Eight of Swords is that you’re a prisoner of yourself while holding every tool: the blindfold can come off. If the answer is no, that’s a miss, and I write it down.

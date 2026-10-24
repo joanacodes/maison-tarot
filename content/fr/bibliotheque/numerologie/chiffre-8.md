@@ -54,7 +54,7 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 - [La Force](/fr/bibliotheque/cartes-tarot/la-force/) — arcane majeur 8.
 - [Huit de Bâtons](/fr/bibliotheque/cartes-tarot/huit-de-batons/) — 8 + Feu.
 - [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/) — 8 + Eau.
-- [Huit de Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/) — 8 + Air.
+- [Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/) — 8 + Air.
 - [Huit de Pentacles](/fr/bibliotheque/cartes-tarot/huit-de-pentacles/) — 8 + Terre.
 
 {{< cards "ar08 wa08 cu08 sw08 pe08" >}}

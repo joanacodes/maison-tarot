@@ -6,8 +6,9 @@ type: blog
 date: 2026-09-11
 categories: ["Trends"]
 tags: ["AI tarot vs human", "AI tarot reading", "human reader", "what AI can't do"]
-image: "cover.jpg"
+image: "covers/ai-tarot-vs-human.jpg"
 imageAlt: "Two chairs facing each other across a small table, one empty"
+imagePrompt: "A person seen from behind sitting at a small wooden table, facing an empty chair across it, a closed tarot deck between them. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "The difference isn’t accuracy, it’s accountability. A human reader who knows what they’re doing takes no context, names their misses, refuses certain questions and reads the room — the spread and the face. A model takes your context, misses nothing because it commits to nothing, refuses nothing, and reads cards one at a time. It’s a good dictionary and a poor reader."
 ---
 The question "AI or human?" assumes they're doing the same job. They aren't. Here is what each actually does, and what that means for the person sitting down.

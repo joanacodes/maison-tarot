@@ -1,6 +1,6 @@
 ---
 title: 'L’Étoile (The Star) — tarot Rider-Waite-Smith : lire la carte par ses clés de lecture'
-description: 'L’Étoile au tarot, lue par ses clés de lecture : 17 qui devient 8, l’Air, le bleu et le jaune, le Verseau — l’espoir après l’épreuve, une décision plus qu’une humeur.'
+description: 'L’Étoile au tarot, lue par ses clés de lecture : 17 qui devient 8, l’Air, le bleu et le jaune, le Verseau — l’espoir après l’épreuve, plus décision qu’humeur.'
 translationKey: card-ar17
 type: cards
 navTitle: L’Étoile
@@ -30,7 +30,7 @@ faq:
 - q: 'L’Étoile renversée, ça change quoi ?'
   a: 'Renversée, l’Étoile, c’est le même espoir bloqué ou poussé à l’excès. Bloqué, on a passé le pire mais on n’ose pas encore y croire ; en excès, on donne tout aux autres sans rien garder pour soi.'
 - q: 'Que signifie L’Étoile en amour ?'
-  a: 'En amour, l’Étoile, c’est souvent l’espoir qui revient après une période dure, et le calme de se montrer tel qu’on est. Ce n’est pas une promesse sur une autre personne : elle dit que vous êtes prête ou prêt à aimer de nouveau.'
+  a: 'En amour, l’Étoile, c’est souvent l’espoir qui revient après une période dure, et le calme de se montrer tel qu’on est. Ce n’est pas une promesse sur une autre personne : elle dit que vous retrouvez l’envie d’aimer.'
 categories:
 - Arcane majeur
 tags:
@@ -67,7 +67,7 @@ Dans la tradition Golden Dawn, l’Étoile revient au [Verseau](/fr/bibliotheque
 
 ## En lecture {#lecture}
 
-À l’endroit, l’Étoile, c’est l’espoir après l’épreuve — pas l’espoir bruyant, l’espoir tranquille. Après la pluie, le beau temps, dit le proverbe ; l’Étoile ajoute que c’est vous qui ouvrez la fenêtre. Les choses se calment, vous recommencez à faire confiance, et vous redonnez quelque chose : du temps, du soin, des idées. C’est aussi la carte de celle ou celui qui se montre tel qu’il est, sans rien cacher.
+À l’endroit, l’Étoile, c’est l’espoir après l’épreuve — pas l’espoir bruyant, l’espoir tranquille. Après la pluie, le beau temps, dit le proverbe ; l’Étoile ajoute que c’est vous qui ouvrez la fenêtre. Les choses se calment, vous recommencez à faire confiance, et vous redonnez quelque chose : du temps, du soin, des idées. C’est aussi la carte où l’on se montre tel qu’on est, sans rien cacher.
 
 Renversée, c’est le même espoir, bloqué ou excessif. Bloqué : vous avez passé le pire et vous n’arrivez pas à y croire, alors vous gardez les deux cruches pleines et ne versez rien. Excessif : vous avez le cœur sur la main au point de tout donner, sans rien garder pour votre propre terre.
 
@@ -85,4 +85,4 @@ Les clés de lecture d’abord. Les nombres : 17 se ramène à 8, ce qui dure ; 
 
 La phrase que vous diriez à voix haute : « Vous avez passé le plus dur et vous le savez, même si vous êtes encore en train de traverser. Ce qui vous aide maintenant, c’est quelque chose que vous avez décidé, pas quelque chose qui vous est arrivé. »
 
-Puis vérifiez. Demandez à la personne ce que cela lui évoque, et laissez-la répondre avant d’ajouter quoi que ce soit. Si ça tombe juste, remarquez que vous y êtes arrivé avec trois clés de lecture et aucune signification apprise par cœur : les cartes ne sont pas magiques, vous l’êtes. Sinon, notez un raté.
+Puis vérifiez. Demandez à la personne ce que cela lui évoque, et laissez-la répondre avant d’ajouter quoi que ce soit. Si ça tombe juste, remarquez le chemin : trois clés de lecture, aucune signification apprise par cœur. Les cartes ne sont pas magiques, vous l’êtes. Sinon, notez un raté.

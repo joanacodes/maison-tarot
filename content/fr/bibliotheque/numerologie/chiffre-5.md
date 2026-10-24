@@ -55,7 +55,7 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 - [Le Hiérophante](/fr/bibliotheque/cartes-tarot/le-hierophante/) — arcane majeur 5.
 - [Cinq de Bâtons](/fr/bibliotheque/cartes-tarot/cinq-de-batons/) — 5 + Feu.
 - [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/) — 5 + Eau.
-- [Cinq de Épées](/fr/bibliotheque/cartes-tarot/cinq-de-epees/) — 5 + Air.
+- [Cinq d’Épées](/fr/bibliotheque/cartes-tarot/cinq-de-epees/) — 5 + Air.
 - [Cinq de Pentacles](/fr/bibliotheque/cartes-tarot/cinq-de-pentacles/) — 5 + Terre.
 
 {{< cards "ar05 wa05 cu05 sw05 pe05" >}}

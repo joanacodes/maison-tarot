@@ -1,11 +1,11 @@
 ---
-title: 'Reine de Épées (Queen of Swords) — tarot Rider-Waite-Smith : lire la carte
+title: 'Reine d’Épées (Queen of Swords) — tarot Rider-Waite-Smith : lire la carte
   par ses clés de lecture'
-description: 'Reine de Épées : ce qu’on voit sur la carte, puis le nombre, l’élément
+description: 'Reine d’Épées : ce qu’on voit sur la carte, puis le nombre, l’élément
   (Eau de Air), les couleurs. Lire la carte sans l’avoir apprise.'
 translationKey: card-swqu
 type: cards
-navTitle: Reine de Épées
+navTitle: Reine d’Épées
 suit: swords
 suitLabel: Épées
 number: 13
@@ -16,8 +16,8 @@ astrology: ''
 energy: Féminine
 kabbalah: ''
 image: cards/swqu.webp
-h1: Reine de Épées — <em>la Reine</em>, l’Eau de air
-lede: 'Avant de chercher ce que « signifie » Reine de Épées, regardez ce que vous
+h1: Reine d’Épées — <em>la Reine</em>, l’Eau de air
+lede: 'Avant de chercher ce que « signifie » Reine d’Épées, regardez ce que vous
   avez déjà : la Reine, l’élément Eau de Air. Vous lisez la carte. Le nombre dit la
   Reine — la maîtrise intérieure, l’accueil ; l’élément dit le mental, ce qu’on décide.
   Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
@@ -28,17 +28,17 @@ related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
-- q: Que signifie Reine de Épées ?
-  a: 'Il n’y a pas une signification à apprendre : Reine de Épées se lit par son nombre
+- q: Que signifie Reine d’Épées ?
+  a: 'Il n’y a pas une signification à apprendre : Reine d’Épées se lit par son nombre
     (la Reine), son élément (Eau de Air) et ses couleurs. La page ci-dessus les pose
     une à une.'
-- q: Reine de Épées renversé, ça change quoi ?
+- q: Reine d’Épées renversé, ça change quoi ?
   a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
     l’endroit, puis ce qui bloque ou déborde.
 categories:
 - Épées
 tags:
-- Reine de Épées
+- Reine d’Épées
 - Air
 - arcane mineur
 ---

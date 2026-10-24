@@ -51,7 +51,7 @@ Every other cup in the Cups is open. This one is closed: what she sees, she sees
 
 Her energy is [feminine in the sense I give the word](/library/feminine-masculine-energies/): patience, imagination, what happens behind the scenes. It has nothing to do with being a woman. A man can be a Queen of Cups, and many are.
 
-## By element: Water of Water {#element}
+## By element: Water {#element}
 
 Cups are [Water](/library/four-elements/water-element/), and the Queen’s rank adds Water again: the element twice. Emotion at its deepest, and the archetype at its warmest — the person you feel at home with, who understands before you’ve finished your sentence.
 

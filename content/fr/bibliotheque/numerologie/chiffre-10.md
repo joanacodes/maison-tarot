@@ -55,7 +55,7 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 - [La Roue de Fortune](/fr/bibliotheque/cartes-tarot/la-roue-de-fortune/) — arcane majeur X.
 - [Dix de Bâtons](/fr/bibliotheque/cartes-tarot/dix-de-batons/) — 10 + Feu.
 - [Dix de Coupes](/fr/bibliotheque/cartes-tarot/dix-de-coupes/) — 10 + Eau.
-- [Dix de Épées](/fr/bibliotheque/cartes-tarot/dix-de-epees/) — 10 + Air.
+- [Dix d’Épées](/fr/bibliotheque/cartes-tarot/dix-de-epees/) — 10 + Air.
 - [Dix de Pentacles](/fr/bibliotheque/cartes-tarot/dix-de-pentacles/) — 10 + Terre.
 
 {{< cards "ar10 wa10 cu10 sw10 pe10" >}}

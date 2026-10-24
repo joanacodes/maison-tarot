@@ -37,7 +37,7 @@ Faites-le cinq fois, avec cinq personnes. Comptez. Si vous trouvez deux ou trois
 
 ## Pourquoi ceux qui sont sûrs d’eux m’inquiètent un peu {#ceux-qui-sont-surs}
 
-La personne qui me dit « j’ai toujours su que j’étais médium » lit moins bien, en moyenne, que le sceptique. La certitude d’avoir un don devient la certitude d’avoir bien lu, et c’est dans la certitude que se cachent les ratés. Le sceptique dit « c’est sûrement faux, mais voilà ce que je vois », et c’est précisément l’état dont ce travail a besoin. Si vous vous reconnaissez dans la première, rien de grave : gardez votre conviction, et comptez quand même.
+La personne qui me dit « j’ai toujours su que j’étais médium » lit moins bien, en moyenne, que le sceptique. La certitude d’avoir un don devient la certitude d’avoir bien lu, et c’est dans la certitude que se cachent les ratés. Le sceptique dit « c’est sûrement faux, mais voilà ce que je vois », et c’est précisément l’état dont ce travail a besoin. Si vous êtes de ceux qui ont toujours su, rien de grave : gardez votre conviction, et comptez quand même.
 
 Je ne dis pas que personne n’a de perception inhabituelle. J’ai vécu des choses que je ne sais pas expliquer, et [j’en ai raconté quelques-unes](/fr/blog/le-tarot-est-il-malefique/). Je dis qu’aucune n’était nécessaire pour lire une carte, et que la croire nécessaire écarte celles et ceux qui seraient les meilleurs : les gens qui doutent assez d’eux-mêmes pour vérifier.
 

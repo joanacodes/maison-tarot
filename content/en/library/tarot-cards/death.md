@@ -1,7 +1,6 @@
 ---
 title: 'Death — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'Death: what’s on the card, then the number, the element (Water), the
-  colours and Scorpio. Read the card without having learned it.'
+description: 'The Death card doesn’t announce a death. What the 1909 card shows, its number 13, Water and Scorpio, and how to read the ending it does speak of, kindly.'
 translationKey: card-ar13
 type: cards
 navTitle: Death
@@ -27,11 +26,11 @@ related:
 - /library/astrology
 faq:
 - q: What does Death mean?
-  a: 'There isn’t one meaning to memorise: Death is read through its number (13),
-    its element (Water) and its colours. The page above lays them out one by one.'
+  a: 'Death is a transformation: something comes to its natural end so that something else can start. It doesn’t announce anyone’s death; it’s closer to a harvest, cutting what’s ripe so the ground can be sown again.'
 - q: What about Death reversed?
-  a: The same card, slowed down or in excess. Look first at what the card says upright,
-    then at what blocks or overflows.
+  a: 'The ending is resisted or drags on: a situation that’s over but kept going, a change half-made. The question it asks is what you’re still holding that has already finished.'
+- q: Does the Death card mean someone will die?
+  a: 'No. A card doesn’t announce a death or an illness, and I don’t read on those questions, because a wrong word can frighten someone for nothing. If you’re worried about someone’s health, a doctor is the person to see; a reading can hold the change you’re living through.'
 categories:
 - Major arcana
 tags:
@@ -42,28 +41,54 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-{{< todo >}}TO WRITE — describe Pamela Colman Smith’s drawing, detail by detail: figures, objects, posture, what’s missing.{{< /todo >}}
+First, in case this card came up for you and frightened you: Death doesn’t announce a death. Not yours, not anyone’s. It talks about something ending so that something else can grow, and the drawing says so if you look closely.
+
+A skeleton in black armour rides a white horse. He carries a black banner with a white five-petalled rose, and a red plume rises from his helmet. In front of the horse, a king lies on the ground, his crown fallen beside him. A bishop in a golden robe and mitre stands facing the rider, hands joined. A young woman kneels and turns her face away; next to her, a child kneels and looks straight up at the rider. Behind them a river flows, with a boat on it, and on the horizon, between two towers, the sun — rising or setting, the drawing doesn’t say.
+
+What’s missing: the scythe that older decks put in the skeleton’s hands, and any blood, grave or fight. **The drawing is about an ending nobody can bargain with — and the sun still on the horizon behind it.**
 
 ## By number: 13 {#number}
 
-**13 — 1 + 3 = 4 — foundations, stability.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**13 — 1 + 3 = 4 — foundations, stability.** Add the digits and 13 becomes [the number 4](/library/numerology/number-4/): foundations, structure, the fruit of your work. That sounds like the opposite of Death until you look at 4’s minus: carrying on when you should stop. Death is the answer to that minus. It clears what no longer works so that something stable can be built on clean ground.
+
+In the Instagram story, 4 is the app at its most solid — the moment a company starts believing it will never change again. Death is the card that reminds you it will.
 
 ## By element: Water {#element}
 
-{{< todo >}}TO WRITE — what [Water](/library/four-elements/water-element/) brings here: what the card is about.{{< /todo >}}
+Death is a [Water](/library/four-elements/water-element/) card: emotions, what flows, what seeps in. Water works slowly. Fire destroys at once; water left alone goes deeper and takes longer, the way damp gets into a wall and quietly eats a house’s foundations.
+
+That’s why Death is so rarely sudden in a reading. Usually it’s the end of something that had been ending for a while — and the feelings that come with letting it go. Look at the river behind the rider: it keeps flowing.
 
 ## By colours {#colours}
 
-{{< todo >}}TO WRITE — the dominant colours and what they say before the card ([the colour grid](/library/tarot-colours/)).{{< /todo >}}
+Black and white, almost nothing else. The black of the armour and the banner is absence, void, emptying out — and, in my grid, reality ([black](/library/tarot-colours/black/)). The white of the horse and the rose is purity, peace, what starts clean. A touch of red on the helmet: action, still there. The gold of the bishop’s robe and of the sun: will, light.
+
+Read the colours before the name and the card already tells you: an emptying, a clean slate, and a light behind it.
 
 ## By astrology: Scorpio {#astrology}
 
-{{< todo >}}TO WRITE — Scorpio, in the Golden Dawn tradition; what it adds, and whether it’s worth keeping ([astrology](/library/astrology/)).{{< /todo >}}
+In the Golden Dawn tradition, Death corresponds to [Scorpio](/library/astrology/scorpio/), the sign whose verb is “I desire”. Scorpio is intensity, close observation, and transformation carried through, wanted or not. It adds depth to the card: what ends here is something you were attached to.
+
+If astrology isn’t your lens, the number and the element have already said it.
 
 ## In a reading {#reading}
 
-{{< todo >}}TO WRITE — upright, reversed, with neighbouring cards. One thing to remember, in bold.{{< /todo >}}
+Upright, Death is a transformation. A job, a relationship, a habit, a version of yourself comes to its natural end. My own note on this card is about the harvest: Death is tied to starting again, to the person who has lost their goal and wants to make life fertile again. You cut what’s ripe so that the field can be sown — which is why older decks gave the skeleton a scythe, a harvest tool. In Marseille decks it’s [the card with no name](/blog/death-card-no-name/).
+
+If you came here worried about someone’s health, I understand; the name of the card does that. But a card doesn’t announce a death or an illness, and I don’t read on those questions — they belong with a doctor and with the people close to you. I explain why in [why I step back from health, pregnancy and death questions](/blog/health-pregnancy-death-tarot/). What a reading can hold is the change you’re living through.
+
+Reversed, the ending is resisted or it drags: something that’s over but kept going, the job you’ve already left in your head, a change half-made — neither the old life nor the new one.
+
+Next to [the Tower](/library/tarot-cards/the-tower/), the change is sudden; alone, Death is usually slow. Next to the [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/), the harvest is followed by a seed: something concrete starts on the cleared ground. For relationships and work, see [Death in love](/blog/death-tarot-love/) and [Death in a career reading](/blog/death-tarot-career/).
+
+{{< cards "ar16 peac" >}}
+
+**Death cuts what is ripe so that the ground can be sown again.**
 
 ## A reading, as an example {#example}
 
-{{< todo >}}TO WRITE — a real anonymised spread: lenses first, the sentence said, what the person confirmed.{{< /todo >}}
+Say someone sits down, tells you nothing, and draws Death next to the Ace of Pentacles. Lenses first: 13, so 4, then 1 — foundations cleared, then a new start. Water then Earth: feelings first, then something concrete. Black and white on one card; gold and green on the other, a garden behind the coin.
+
+The sentence I’d say: “Something has ended for you, or is ending, and it’s been heavy — but right behind it there’s a very concrete new start, something you can build with your hands.”
+
+Then the check. Has a chapter closed recently — a job, a home, a way of living? Does a new project feel close? If none of it lands, it’s a miss, and I’d say so without dressing it up.

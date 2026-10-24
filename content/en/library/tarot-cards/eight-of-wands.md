@@ -80,7 +80,7 @@ Upright, the Eight of Wands says things are moving, faster than expected: replie
 
 Reversed, the wands hang in mid-air: the answer that doesn’t come, the parcel stuck somewhere, the date pushed back again. Or the excess — messages in every direction, and no time to read any of them properly. Either way, ask what can be settled today, so you’re not waiting on all eight.
 
-Next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/), the same number with the opposite picture: one flies, the other stands bound and blindfolded, a prisoner of herself while holding every tool to get out. Together they say the way out is already moving. Next to [the Hanged Man](/library/tarot-cards/the-hanged-man/), the rush meets a chosen pause — someone who stops on purpose while everything flies. Next to [the Magician](/library/tarot-cards/the-magician/), Mercury’s major card, the speed finds someone who knows how to use it.
+Next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/), the same number with the opposite picture: one flies, the other stands bound and blindfolded, a prisoner of herself while holding every tool to get out. Together they say the way out is already moving. Next to [the Hanged Man](/library/tarot-cards/the-hanged-man/), the rush meets a deliberate pause — someone who stops while everything flies. Next to [the Magician](/library/tarot-cards/the-magician/), Mercury’s major card, the speed finds someone who knows how to use it.
 
 {{< cards "sw08 ar12 ar01" >}}
 

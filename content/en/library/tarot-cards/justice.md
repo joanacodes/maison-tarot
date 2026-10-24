@@ -1,7 +1,6 @@
 ---
 title: 'Justice — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'Justice: what’s on the card, then the number, the element (Air), the
-  colours and Libra. Read the card without having learned it.'
+description: 'Justice in tarot: a decision made with eyes open, the number 11, Air and Libra. What the 1909 card shows, and how to read it upright, reversed and in a spread.'
 translationKey: card-ar11
 type: cards
 navTitle: Justice
@@ -27,11 +26,11 @@ related:
 - /library/astrology
 faq:
 - q: What does Justice mean?
-  a: 'There isn’t one meaning to memorise: Justice is read through its number (11),
-    its element (Air) and its colours. The page above lays them out one by one.'
+  a: 'Justice is a fair decision made with your eyes open: weigh, then cut. In a reading it speaks of contracts, choices, balance and the consequences of what has been done.'
 - q: What about Justice reversed?
-  a: The same card, slowed down or in excess. Look first at what the card says upright,
-    then at what blocks or overflows.
+  a: 'The scales tip: a decision rushed, or never made because you keep weighing. It can also be an unfair arrangement you’ve accepted, or a judgement on yourself that’s harsher than the facts.'
+- q: Can Justice tell me how a court case will end?
+  a: 'I don’t read on ongoing court cases: a card can’t know a legal file, and a wrong word there can do real harm. Your lawyer is the right person for that question; a reading can look at how you’re carrying the wait.'
 categories:
 - Major arcana
 tags:
@@ -42,28 +41,52 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-{{< todo >}}TO WRITE — describe Pamela Colman Smith’s drawing, detail by detail: figures, objects, posture, what’s missing.{{< /todo >}}
+A crowned figure sits between two grey stone pillars and looks straight at you. She wears a red robe under a green cape, and a golden crown. In her right hand she holds a sword upright; in her left, a pair of golden scales. Behind her, a purple curtain hangs between the pillars, with a yellow background above it. One white shoe peeks out from under her robe.
+
+Notice what’s missing: the blindfold. The figures of Justice you see on statues and paintings often have their eyes covered; this one doesn’t. **The drawing is about a decision made with your eyes open — weighed first, then cut.**
 
 ## By number: 11 {#number}
 
-**11 — 1 + 1 = 2 — to bind, to weigh, to cooperate.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**11 — 1 + 1 = 2 — to bind, to weigh, to cooperate.** Add the digits of 11 and you land on [the number 2](/library/numerology/number-2/): two parties, the contract, the bond. Its advice could be written on this card — read the contract, weigh the pros and cons. Its minus is the stubbornness of someone who decided before weighing anything.
+
+In the Instagram story, 2 is the moment the founders sign with investors: someone else’s money and conditions come in, and you’d better have read the small print. Justice is that signature. (In Marseille decks, Justice is 8 and Strength 11; Waite swapped them.)
 
 ## By element: Air {#element}
 
-{{< todo >}}TO WRITE — what [Air](/library/four-elements/air-element/) brings here: what the card is about.{{< /todo >}}
+Justice is an [Air](/library/four-elements/air-element/) card, and Air is the element of decisions: thinking, analysing, communicating, cutting cleanly. The sword in her hand is the suit’s own tool.
+
+Air sees everything at once, which makes it the best decision-maker of the four: Fire is too impulsive, Water too emotional, Earth too stubborn. Its risk is the leader who becomes a tyrant — the judgement that has stopped listening.
 
 ## By colours {#colours}
 
-{{< todo >}}TO WRITE — the dominant colours and what they say before the card ([the colour grid](/library/tarot-colours/)).{{< /todo >}}
+The red robe says action and strength: this judge acts. The green cape adds growth — a decision meant to let something live. The purple curtain, in my grid, is “the one chosen by a group”: an office, a role given by others ([purple](/library/tarot-colours/purple/)). The grey pillars are neutrality and stability; the frame doesn’t take sides ([grey](/library/tarot-colours/grey/)). The gold of the crown, the scales and the background brings will and clarity.
+
+Before you know the card’s name, the colours have told you: someone given the job of deciding, neutrally, in order to act.
 
 ## By astrology: Libra {#astrology}
 
-{{< todo >}}TO WRITE — Libra, in the Golden Dawn tradition; what it adds, and whether it’s worth keeping ([astrology](/library/astrology/)).{{< /todo >}}
+In the Golden Dawn tradition, Justice corresponds to [Libra](/library/astrology/libra/), whose symbol is the scales. Libra’s verb is “I balance”: the diplomat, the referee, the one who wants everyone to leave with the same share. That’s the card’s strength and its trap — before a real dilemma, where no scale can be level, Libra can freeze.
+
+Useful as an extra. If astrology isn’t your lens, the number and the element have already said it.
 
 ## In a reading {#reading}
 
-{{< todo >}}TO WRITE — upright, reversed, with neighbouring cards. One thing to remember, in bold.{{< /todo >}}
+Upright, Justice is a fair decision, a balance restored, the consequence of what has been done. A contract signed after reading it, a choice made after weighing it, an account settled. You get back what you put in — no more, no less.
+
+Reversed, the scales tip. A decision rushed, or never made because you keep weighing. An unfair arrangement you’ve accepted, or a judgement on yourself that’s harsher than the facts.
+
+Next to the [Two of Swords](/library/tarot-cards/two-of-swords/), the other Air 2, you see the difference: the blindfolded woman can’t decide; Justice can. Next to the [Six of Pentacles](/library/tarot-cards/six-of-pentacles/), with its own pair of scales, it’s about knowing your value — a salary, a fair share of the work. Next to [Strength](/library/tarot-cards/strength/), its swapped twin, it’s firmness and gentleness in the same decision.
+
+{{< cards "sw02 pe06 ar08" >}}
+
+**Justice weighs first, then cuts — with its eyes open.**
+
+When this card comes up, some people think of an ongoing court case, and I understand why: waiting for a judgement is hard. I don’t read on those, though. A card can’t know a legal file, and a wrong word there can do real harm. That one is for your lawyer; what a reading can hold meanwhile is how you’re carrying the wait. ([What I don’t read on, and why.](/disclaimers/#refusals))
 
 ## A reading, as an example {#example}
 
-{{< todo >}}TO WRITE — a real anonymised spread: lenses first, the sentence said, what the person confirmed.{{< /todo >}}
+Say someone sits down, tells you nothing, and draws Justice next to the Two of Swords. Lenses first: 11, so 2, next to another 2 — twice the number of two sides and a bond. Air twice: it’s all happening in the head. Red, green and purple on the first card; on the second, a blindfolded woman on a stone bench under a night sky.
+
+The sentence I’d say: “There’s a choice between two options you’ve been turning over for a long time, and you already know which one is fair — you haven’t let yourself look at it yet.”
+
+Then the check. Is there a decision being put off? Do they recognise the two sides? If not, it’s a miss and it goes in the notebook as one. I read; you decide.

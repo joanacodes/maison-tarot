@@ -6,8 +6,9 @@ type: blog
 date: 2026-09-11
 categories: ["Ideas we refuse"]
 tags: ["is tarot a sin", "tarot and religion", "tarot and christianity", "faith"]
-image: "cover.jpg"
+image: "covers/is-tarot-a-sin.jpg"
 imageAlt: "A deck of cards and a small string of prayer beads side by side on a windowsill"
+imagePrompt: "A tarot deck and a small string of wooden prayer beads side by side on a windowsill. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Some traditions forbid divination outright; others never mention cards; most people asking this question aren’t asking about doctrine, they’re asking whether they can keep their faith and their curiosity at the same time. My answer is that I’ve watched it done all my life. What I refuse to do is tell you what your tradition says — that’s between you and it."
 ---
 I get this question in two forms. The first is theological: *does my religion forbid this?* The second is personal, and it's usually the real one: *can I do this without betraying something I love?* I can help with the second. The first is yours.

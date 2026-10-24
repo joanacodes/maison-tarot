@@ -673,7 +673,7 @@
 - id: swac
   suit: swords
   number: 1
-  name_fr: As de Épées
+  name_fr: As d’Épées
   name_en: Ace of Swords
   slug_fr: as-de-epees
   slug_en: ace-of-swords
@@ -686,7 +686,7 @@
 - id: sw02
   suit: swords
   number: 2
-  name_fr: Deux de Épées
+  name_fr: Deux d’Épées
   name_en: Two of Swords
   slug_fr: deux-de-epees
   slug_en: two-of-swords
@@ -699,7 +699,7 @@
 - id: sw03
   suit: swords
   number: 3
-  name_fr: Trois de Épées
+  name_fr: Trois d’Épées
   name_en: Three of Swords
   slug_fr: trois-de-epees
   slug_en: three-of-swords
@@ -712,7 +712,7 @@
 - id: sw04
   suit: swords
   number: 4
-  name_fr: Quatre de Épées
+  name_fr: Quatre d’Épées
   name_en: Four of Swords
   slug_fr: quatre-de-epees
   slug_en: four-of-swords
@@ -725,7 +725,7 @@
 - id: sw05
   suit: swords
   number: 5
-  name_fr: Cinq de Épées
+  name_fr: Cinq d’Épées
   name_en: Five of Swords
   slug_fr: cinq-de-epees
   slug_en: five-of-swords
@@ -738,7 +738,7 @@
 - id: sw06
   suit: swords
   number: 6
-  name_fr: Six de Épées
+  name_fr: Six d’Épées
   name_en: Six of Swords
   slug_fr: six-de-epees
   slug_en: six-of-swords
@@ -751,7 +751,7 @@
 - id: sw07
   suit: swords
   number: 7
-  name_fr: Sept de Épées
+  name_fr: Sept d’Épées
   name_en: Seven of Swords
   slug_fr: sept-de-epees
   slug_en: seven-of-swords
@@ -764,7 +764,7 @@
 - id: sw08
   suit: swords
   number: 8
-  name_fr: Huit de Épées
+  name_fr: Huit d’Épées
   name_en: Eight of Swords
   slug_fr: huit-de-epees
   slug_en: eight-of-swords
@@ -777,7 +777,7 @@
 - id: sw09
   suit: swords
   number: 9
-  name_fr: Neuf de Épées
+  name_fr: Neuf d’Épées
   name_en: Nine of Swords
   slug_fr: neuf-de-epees
   slug_en: nine-of-swords
@@ -790,7 +790,7 @@
 - id: sw10
   suit: swords
   number: 10
-  name_fr: Dix de Épées
+  name_fr: Dix d’Épées
   name_en: Ten of Swords
   slug_fr: dix-de-epees
   slug_en: ten-of-swords
@@ -803,7 +803,7 @@
 - id: swpa
   suit: swords
   number: 11
-  name_fr: Valet de Épées
+  name_fr: Valet d’Épées
   name_en: Page of Swords
   slug_fr: valet-de-epees
   slug_en: page-of-swords
@@ -816,7 +816,7 @@
 - id: swkn
   suit: swords
   number: 12
-  name_fr: Cavalier de Épées
+  name_fr: Cavalier d’Épées
   name_en: Knight of Swords
   slug_fr: cavalier-de-epees
   slug_en: knight-of-swords
@@ -829,7 +829,7 @@
 - id: swqu
   suit: swords
   number: 13
-  name_fr: Reine de Épées
+  name_fr: Reine d’Épées
   name_en: Queen of Swords
   slug_fr: reine-de-epees
   slug_en: queen-of-swords
@@ -842,7 +842,7 @@
 - id: swki
   suit: swords
   number: 14
-  name_fr: Roi de Épées
+  name_fr: Roi d’Épées
   name_en: King of Swords
   slug_fr: roi-de-epees
   slug_en: king-of-swords

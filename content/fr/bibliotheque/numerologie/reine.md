@@ -48,7 +48,7 @@ Le rang dit *comment* on agit ; l’[élément](/fr/bibliotheque/quatre-elements
 
 - [La Reine de Bâtons](/fr/bibliotheque/cartes-tarot/reine-de-batons/) — Feu.
 - [La Reine de Coupes](/fr/bibliotheque/cartes-tarot/reine-de-coupes/) — Eau.
-- [La Reine de Épées](/fr/bibliotheque/cartes-tarot/reine-de-epees/) — Air.
+- [La Reine d’Épées](/fr/bibliotheque/cartes-tarot/reine-de-epees/) — Air.
 - [La Reine de Pentacles](/fr/bibliotheque/cartes-tarot/reine-de-pentacles/) — Terre.
 
 {{< cards "waqu cuqu swqu pequ" >}}

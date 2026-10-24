@@ -55,7 +55,7 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 - [L’Ermite](/fr/bibliotheque/cartes-tarot/l-ermite/) — arcane majeur 9.
 - [Neuf de Bâtons](/fr/bibliotheque/cartes-tarot/neuf-de-batons/) — 9 + Feu.
 - [Neuf de Coupes](/fr/bibliotheque/cartes-tarot/neuf-de-coupes/) — 9 + Eau.
-- [Neuf de Épées](/fr/bibliotheque/cartes-tarot/neuf-de-epees/) — 9 + Air.
+- [Neuf d’Épées](/fr/bibliotheque/cartes-tarot/neuf-de-epees/) — 9 + Air.
 - [Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/) — 9 + Terre.
 
 {{< cards "ar09 wa09 cu09 sw09 pe09" >}}

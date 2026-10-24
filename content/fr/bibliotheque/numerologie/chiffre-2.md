@@ -55,7 +55,7 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 - [La Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/) — arcane majeur 2.
 - [Deux de Bâtons](/fr/bibliotheque/cartes-tarot/deux-de-batons/) — 2 + Feu.
 - [Deux de Coupes](/fr/bibliotheque/cartes-tarot/deux-de-coupes/) — 2 + Eau.
-- [Deux de Épées](/fr/bibliotheque/cartes-tarot/deux-de-epees/) — 2 + Air.
+- [Deux d’Épées](/fr/bibliotheque/cartes-tarot/deux-de-epees/) — 2 + Air.
 - [Deux de Pentacles](/fr/bibliotheque/cartes-tarot/deux-de-pentacles/) — 2 + Terre.
 
 {{< cards "ar02 wa02 cu02 sw02 pe02" >}}

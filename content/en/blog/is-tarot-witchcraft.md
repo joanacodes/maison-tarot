@@ -6,8 +6,9 @@ type: blog
 date: 2026-09-11
 categories: ["Ideas we refuse"]
 tags: ["is tarot witchcraft", "tarot vs witchcraft", "witchtok", "beginners"]
-image: "cover.jpg"
+image: "covers/is-tarot-witchcraft.jpg"
 imageAlt: "A plain deck of cards on a white table, no candles, no crystals"
+imagePrompt: "A plain tarot deck squared neatly on a bare white table, nothing else in the frame. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "No. Tarot is a deck of 78 pictures and a way of reading them; witchcraft is a set of practices and, for many, a belief system. They overlap in shops, on TikTok and in the imagination, not in substance. You can read cards for a lifetime without casting anything — most readers do."
 ---
 Search "tarot" and the algorithm will show you candles within a minute. That's not because tarot is witchcraft; it's because the same audience buys both, and the same accounts sell both. The bundling is commercial, not historical. Let me untangle it, because it puts people off who'd be good readers.

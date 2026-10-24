@@ -49,7 +49,7 @@ Le rang dit *comment* on agit ; l’[élément](/fr/bibliotheque/quatre-elements
 
 - [Le Valet de Bâtons](/fr/bibliotheque/cartes-tarot/valet-de-batons/) — Feu.
 - [Le Valet de Coupes](/fr/bibliotheque/cartes-tarot/valet-de-coupes/) — Eau.
-- [Le Valet de Épées](/fr/bibliotheque/cartes-tarot/valet-de-epees/) — Air.
+- [Le Valet d’Épées](/fr/bibliotheque/cartes-tarot/valet-de-epees/) — Air.
 - [Le Valet de Pentacles](/fr/bibliotheque/cartes-tarot/valet-de-pentacles/) — Terre.
 
 {{< cards "wapa cupa swpa pepa" >}}

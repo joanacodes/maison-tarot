@@ -1,7 +1,6 @@
 ---
 title: 'The Hanged Man — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'The Hanged Man: what’s on the card, then the number, the element (Water),
-  the colours and Neptune. Read the card without having learned it.'
+description: 'The Hanged Man in tarot: an accepted pause, the number 12, Water and Neptune. What the 1909 card shows, and how to read it upright, reversed and in a spread.'
 translationKey: card-ar12
 type: cards
 navTitle: The Hanged Man
@@ -27,12 +26,11 @@ related:
 - /library/astrology
 faq:
 - q: What does The Hanged Man mean?
-  a: 'There isn’t one meaning to memorise: The Hanged Man is read through its number
-    (12), its element (Water) and its colours. The page above lays them out one by
-    one.'
+  a: 'The Hanged Man is an accepted pause: you stop pushing so that you can see the situation from another angle. In a reading it speaks of waiting, perspective and letting go of control for a while.'
 - q: What about The Hanged Man reversed?
-  a: The same card, slowed down or in excess. Look first at what the card says upright,
-    then at what blocks or overflows.
+  a: 'The pause is suffered rather than chosen, or it has lasted too long and become an excuse. It can also be the opposite: so much agitation that nothing settles long enough to be seen differently.'
+- q: Is The Hanged Man a bad card?
+  a: 'No. He hangs by one ankle, not by the neck, and his face is calm. It’s a card of pause and perspective, not of punishment.'
 categories:
 - Major arcana
 tags:
@@ -43,28 +41,50 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-{{< todo >}}TO WRITE — describe Pamela Colman Smith’s drawing, detail by detail: figures, objects, posture, what’s missing.{{< /todo >}}
+A man hangs upside down by one ankle from a T-shaped beam of living wood — there are green leaves on it. His other leg is bent behind the straight one, making a figure 4. His hands are behind his back, elbows out, so that his arms and head form a triangle. He wears a blue tunic and red hose. Around his head shines a yellow halo, and his face is calm, almost serene. The background is plain grey.
+
+Notice what isn’t there: no rope at his neck, no executioner, no struggle, no sign of pain. Nobody is holding him there. **The drawing is about a pause that’s accepted — the world seen the other way up by someone who has stopped fighting it.**
 
 ## By number: 12 {#number}
 
-**12 — 1 + 2 = 3 — to create, to celebrate, the first result.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**12 — 1 + 2 = 3 — to create, to celebrate, the first result.** Twelve reduces to [the number 3](/library/numerology/number-3/): the machine starts running, the first thing works. For a card about hanging still, that’s surprising, and it’s the key. The Hanged Man’s result is a new point of view, the first thing that comes out of the pause — and there’s a triangle drawn in his own arms.
+
+The advice of 3 fits him too: finish one project before you start another. In the Instagram story, 3 is the launch that turns without being pushed: people come back on their own. That’s the Hanged Man’s lesson — sometimes things move because you stopped pushing.
 
 ## By element: Water {#element}
 
-{{< todo >}}TO WRITE — what [Water](/library/four-elements/water-element/) brings here: what the card is about.{{< /todo >}}
+The Hanged Man is a [Water](/library/four-elements/water-element/) card. Water is emotion, relationships, hidden strength. It carries you from A to B when you let it, and it can drown you when you fight it. That’s the card in one image: someone who has stopped swimming against the current.
+
+Calm water means settled emotions. The risk is the other face of still water: staying so long that it goes stagnant.
 
 ## By colours {#colours}
 
-{{< todo >}}TO WRITE — the dominant colours and what they say before the card ([the colour grid](/library/tarot-colours/)).{{< /todo >}}
+The blue tunic is emotion and water — the card’s element, worn on the body ([blue](/library/tarot-colours/blue/)). The red hose is action and impulse, but upside down and held still. The yellow halo is will and self-expression, a light that only appears in this position. The grey background is neutrality, no particular will ([grey](/library/tarot-colours/grey/)). And the green leaves on the wood say that life goes on.
+
+Read without the title: energy on hold, feelings at peace, and a head that has lit up.
 
 ## By astrology: Neptune {#astrology}
 
-{{< todo >}}TO WRITE — Neptune, in the Golden Dawn tradition; what it adds, and whether it’s worth keeping ([astrology](/library/astrology/)).{{< /todo >}}
+The Golden Dawn gave this card to the element of Water itself; the link to [Neptune](/library/astrology/neptune/) came later, from modern readers, and it fits. Neptune is dream, intuition, illusion, the blur between you and everything else.
+
+I’m careful with it, because it’s the placement most used to excuse what people don’t want to look at. I read it the Hanged Man’s way: a viewpoint to turn over, not a fog to live in. If astrology isn’t your lens, leave it.
 
 ## In a reading {#reading}
 
-{{< todo >}}TO WRITE — upright, reversed, with neighbouring cards. One thing to remember, in bold.{{< /todo >}}
+Upright, the Hanged Man is a pause that serves something: waiting you accept, speed traded for perspective. A project on hold, a decision you can’t make yet, a situation you can’t change from outside — so you change the angle. It’s often the card of “I’ve tried everything”, and its answer is to stop trying for a moment and look again.
+
+Reversed, the pause is suffered rather than chosen, or it has gone on too long. Waiting becomes an excuse: “I’m waiting for the right moment”, three years running. Or the opposite — so much fidgeting that nothing settles long enough to be seen differently.
+
+Next to [Death](/library/tarot-cards/death/), the card that follows it, the pause is preparing an ending that needs to happen. Next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/), the difference is choice: she is bound and blindfolded and thinks she can’t move; he is bound and has accepted it. Next to the [Four of Swords](/library/tarot-cards/four-of-swords/), it’s rest, plainly. I’ve written separately about [the Hanged Man in love](/blog/hanged-man-tarot-love/) and [the Hanged Man at work](/blog/hanged-man-tarot-career/).
+
+{{< cards "ar13 sw08 sw04" >}}
+
+**The Hanged Man stops so that he can see; the pause is the work.**
 
 ## A reading, as an example {#example}
 
-{{< todo >}}TO WRITE — a real anonymised spread: lenses first, the sentence said, what the person confirmed.{{< /todo >}}
+Say someone sits down, tells you nothing, and draws the Hanged Man next to the Eight of Cups. Lenses first: 12, so 3, then 8 — a first result, then something built that you walk away from. Water twice: feelings, all the way through. Blue and grey on one card; on the other, a figure in red walking away under a night sky.
+
+The sentence I’d say: “You’ve been waiting on something that matters to you, and while you waited you started to see it differently — enough that leaving no longer frightens you.”
+
+Then the check. Is there something they’ve stopped pushing? Does moving on feel lighter than it did? If it doesn’t land, it’s a miss, and I’d rather say so than bend the reading to fit.

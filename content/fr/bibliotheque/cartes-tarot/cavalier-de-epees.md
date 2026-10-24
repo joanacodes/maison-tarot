@@ -1,11 +1,11 @@
 ---
-title: 'Cavalier de Épées (Knight of Swords) — tarot Rider-Waite-Smith : lire la carte
+title: 'Cavalier d’Épées (Knight of Swords) — tarot Rider-Waite-Smith : lire la carte
   par ses clés de lecture'
-description: 'Cavalier de Épées : ce qu’on voit sur la carte, puis le nombre, l’élément
+description: 'Cavalier d’Épées : ce qu’on voit sur la carte, puis le nombre, l’élément
   (Air de Air), les couleurs. Lire la carte sans l’avoir apprise.'
 translationKey: card-swkn
 type: cards
-navTitle: Cavalier de Épées
+navTitle: Cavalier d’Épées
 suit: swords
 suitLabel: Épées
 number: 12
@@ -16,8 +16,8 @@ astrology: ''
 energy: Masculine
 kabbalah: ''
 image: cards/swkn.webp
-h1: Cavalier de Épées — <em>le Cavalier</em>, l’Air de air
-lede: 'Avant de chercher ce que « signifie » Cavalier de Épées, regardez ce que vous
+h1: Cavalier d’Épées — <em>le Cavalier</em>, l’Air de air
+lede: 'Avant de chercher ce que « signifie » Cavalier d’Épées, regardez ce que vous
   avez déjà : le Cavalier, l’élément Air de Air. Vous lisez la carte. Le nombre dit
   le Cavalier — l’action, la quête, l’excès ; l’élément dit le mental, ce qu’on décide.
   Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
@@ -28,17 +28,17 @@ related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
-- q: Que signifie Cavalier de Épées ?
-  a: 'Il n’y a pas une signification à apprendre : Cavalier de Épées se lit par son
+- q: Que signifie Cavalier d’Épées ?
+  a: 'Il n’y a pas une signification à apprendre : Cavalier d’Épées se lit par son
     nombre (le Cavalier), son élément (Air de Air) et ses couleurs. La page ci-dessus
     les pose une à une.'
-- q: Cavalier de Épées renversé, ça change quoi ?
+- q: Cavalier d’Épées renversé, ça change quoi ?
   a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
     l’endroit, puis ce qui bloque ou déborde.
 categories:
 - Épées
 tags:
-- Cavalier de Épées
+- Cavalier d’Épées
 - Air
 - arcane mineur
 ---

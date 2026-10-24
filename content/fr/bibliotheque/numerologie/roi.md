@@ -49,7 +49,7 @@ Le rang dit *comment* on agit ; l’[élément](/fr/bibliotheque/quatre-elements
 
 - [Le Roi de Bâtons](/fr/bibliotheque/cartes-tarot/roi-de-batons/) — Feu.
 - [Le Roi de Coupes](/fr/bibliotheque/cartes-tarot/roi-de-coupes/) — Eau.
-- [Le Roi de Épées](/fr/bibliotheque/cartes-tarot/roi-de-epees/) — Air.
+- [Le Roi d’Épées](/fr/bibliotheque/cartes-tarot/roi-de-epees/) — Air.
 - [Le Roi de Pentacles](/fr/bibliotheque/cartes-tarot/roi-de-pentacles/) — Terre.
 
 {{< cards "waki cuki swki peki" >}}

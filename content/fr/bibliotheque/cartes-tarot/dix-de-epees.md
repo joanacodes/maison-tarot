@@ -1,11 +1,11 @@
 ---
-title: 'Dix de Épées (Ten of Swords) — tarot Rider-Waite-Smith : lire la carte par
+title: 'Dix d’Épées (Ten of Swords) — tarot Rider-Waite-Smith : lire la carte par
   ses clés de lecture'
-description: 'Dix de Épées : ce qu’on voit sur la carte, puis le nombre, l’élément
+description: 'Dix d’Épées : ce qu’on voit sur la carte, puis le nombre, l’élément
   (Air), les couleurs et Soleil en Gémeaux. Lire la carte sans l’avoir apprise.'
 translationKey: card-sw10
 type: cards
-navTitle: Dix de Épées
+navTitle: Dix d’Épées
 suit: swords
 suitLabel: Épées
 number: 10
@@ -16,8 +16,8 @@ astrology: Soleil en Gémeaux
 energy: Masculine
 kabbalah: ''
 image: cards/sw10.webp
-h1: Dix de Épées — <em>dix</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » Dix de Épées, regardez ce que vous avez
+h1: Dix d’Épées — <em>dix</em>, l’Air
+lede: 'Avant de chercher ce que « signifie » Dix d’Épées, regardez ce que vous avez
   déjà : dix, l’élément Air, Soleil en Gémeaux. Vous lisez la carte. Le nombre dit
   dix — la fin du cycle, la transition ; l’élément dit le mental, ce qu’on décide.
   Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
@@ -28,16 +28,16 @@ related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
-- q: Que signifie Dix de Épées ?
-  a: 'Il n’y a pas une signification à apprendre : Dix de Épées se lit par son nombre
+- q: Que signifie Dix d’Épées ?
+  a: 'Il n’y a pas une signification à apprendre : Dix d’Épées se lit par son nombre
     (dix), son élément (Air) et ses couleurs. La page ci-dessus les pose une à une.'
-- q: Dix de Épées renversé, ça change quoi ?
+- q: Dix d’Épées renversé, ça change quoi ?
   a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
     l’endroit, puis ce qui bloque ou déborde.
 categories:
 - Épées
 tags:
-- Dix de Épées
+- Dix d’Épées
 - Air
 - Soleil en Gémeaux
 - arcane mineur

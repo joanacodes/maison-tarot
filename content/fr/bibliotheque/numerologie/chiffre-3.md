@@ -54,7 +54,7 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 - [L’Impératrice](/fr/bibliotheque/cartes-tarot/l-imperatrice/) — arcane majeur 3.
 - [Trois de Bâtons](/fr/bibliotheque/cartes-tarot/trois-de-batons/) — 3 + Feu.
 - [Trois de Coupes](/fr/bibliotheque/cartes-tarot/trois-de-coupes/) — 3 + Eau.
-- [Trois de Épées](/fr/bibliotheque/cartes-tarot/trois-de-epees/) — 3 + Air.
+- [Trois d’Épées](/fr/bibliotheque/cartes-tarot/trois-de-epees/) — 3 + Air.
 - [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/) — 3 + Terre.
 
 {{< cards "ar03 wa03 cu03 sw03 pe03" >}}

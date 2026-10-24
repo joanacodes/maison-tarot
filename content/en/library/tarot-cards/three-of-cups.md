@@ -54,7 +54,7 @@ The advice of [number three](/library/numerology/number-3/) is to finish a proje
 
 ## By element: Water {#element}
 
-[Water](/library/four-elements/water-element/) makes this 3 a matter of the heart rather than the purse: the result being celebrated is emotional. A friendship that has lasted, a reunion, a group that held together through something hard, a recovery toasted with the people who were there.
+[Water](/library/four-elements/water-element/) makes this 3 a matter of the heart rather than the purse: the result being celebrated is emotional. A friendship that has lasted, a reunion, a group that held together through something hard and is now raising a glass to it.
 
 The water is moving — they’re dancing — but it moves together, in a circle. That’s the Water archetype at its best: the warm people you feel at home with. Its shadow isn’t far. When nobody is quite aligned, emotions spill over everyone, and the party becomes the place where it all comes out.
 

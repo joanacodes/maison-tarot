@@ -51,7 +51,7 @@ He doesn’t look at his cup. He looks out, at the world he governs with it. The
 
 For the King of Cups, what he governs is emotion — his own, and the climate of the room. He decides how much of the sea gets in. His energy is masculine in [the sense I give it](/library/feminine-masculine-energies/): acting, showing yourself, deciding fast, whoever you are.
 
-## By element: Fire of Water {#element}
+## By element: Water {#element}
 
 The suit is [Water](/library/four-elements/water-element/), and the King’s rank adds [Fire](/library/four-elements/fire-element/): impulse, drive, the energy that acts. Fire of Water is emotion turned into decision — a feeling that doesn’t stay a feeling but becomes a choice, a gesture, a way of leading.
 

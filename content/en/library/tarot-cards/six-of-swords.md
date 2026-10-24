@@ -42,7 +42,7 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-A ferryman, seen from behind, stands at the back of a small boat and pushes it forward with a long black pole. He wears an orange tunic with grey-blue sleeves, green hose and brown boots. In front of him sit two passengers: a figure wrapped in an orange-yellow cloak, hood up, head bowed, and beside her a smaller figure in grey — often read as a child. Six swords stand upright in the boat, planted in its floor, travelling with them.
+A ferryman, seen from behind, stands at the back of a small boat and pushes it forward with a long black pole. He wears an orange tunic with grey-blue sleeves, green hose and brown boots. In front of him sit two passengers: a figure wrapped in an orange-yellow cloak, hood up, head bowed, and beside it a smaller figure in grey — often read as a parent and child. Six swords stand upright in the boat, planted in its floor, travelling with them.
 
 The water tells the story. Close to us, on the right, it’s ruffled with waves; ahead, towards the far bank, it’s smooth. On the other side, a low shore with grey-blue trees. The sky is an even, pale grey. Nobody looks back, and nobody looks at us.
 

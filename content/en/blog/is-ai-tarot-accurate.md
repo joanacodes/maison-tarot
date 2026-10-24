@@ -6,8 +6,9 @@ type: blog
 date: 2026-09-11
 categories: ["Trends"]
 tags: ["AI tarot", "ChatGPT tarot", "is AI tarot accurate", "AI tarot reading test", "skepticism"]
-image: "cover.jpg"
+image: "covers/is-ai-tarot-accurate.jpg"
 imageAlt: "A laptop open beside a physical deck, the screen showing a long paragraph of text"
+imagePrompt: "An open laptop on a wooden desk beside a tarot deck and three cards laid face up, the screen filled with long paragraphs too blurred to read. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "An AI reading is a card-by-card explanation, delivered in a warm tone, that never misses because it never commits. Test it the way you’d test any reader: give it nothing, write down what it says, strike every sentence that would fit anyone, count what’s left. What survives is usually a good description of the picture — and nothing about you."
 ---
 People ask me whether ChatGPT can read tarot the way they'd ask whether a calculator can do sums. It can produce a reading. Whether that reading is *accurate* is a different question, and the way to answer it is the same way I answer it for myself: not by how it feels, but by counting.

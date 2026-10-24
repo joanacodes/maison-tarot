@@ -35,7 +35,7 @@ Regardez ce qu’il a fait. Il a expliqué chaque carte isolément — le Trois 
 4. Dans ce qui reste, marquez ce qui est vrai pour vous aujourd’hui, et ce qui ne l’est pas.
 5. Faites la même chose avec un lecteur humain à qui l’on n’a rien dit, et comparez les deux carnets.
 
-J’ai fait des versions de ce test. Ce qui survit du côté du modèle, c’est une description compétente de ce qu’il y a sur les cartes — vraiment utile si vous apprenez ce que montrent les images — et rien qu’on n’aurait pu dire à n’importe quel inconnu. Ce qui survit d’une bonne lecture humaine, une fois sur plusieurs, c’est une phrase sur vous que vous n’aviez pas fournie. **Toute la différence est là.**
+J’ai fait des versions de ce test. Ce qui survit du côté du modèle, c’est une description compétente de ce qu’il y a sur les cartes — vraiment utile si vous apprenez ce que montrent les images — et rien qu’on n’aurait pas pu dire à n’importe quel inconnu. Ce qui survit d’une bonne lecture humaine, une fois sur plusieurs, c’est une phrase sur vous que vous n’aviez pas fournie. **Toute la différence est là.**
 
 ## Là où il est vraiment bon {#la-ou-il-est-bon}
 

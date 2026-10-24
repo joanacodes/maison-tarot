@@ -47,7 +47,7 @@ Le rang dit *comment* on agit ; l’[élément](/fr/bibliotheque/quatre-elements
 
 - [Le Cavalier de Bâtons](/fr/bibliotheque/cartes-tarot/cavalier-de-batons/) — Feu.
 - [Le Cavalier de Coupes](/fr/bibliotheque/cartes-tarot/cavalier-de-coupes/) — Eau.
-- [Le Cavalier de Épées](/fr/bibliotheque/cartes-tarot/cavalier-de-epees/) — Air.
+- [Le Cavalier d’Épées](/fr/bibliotheque/cartes-tarot/cavalier-de-epees/) — Air.
 - [Le Cavalier de Pentacles](/fr/bibliotheque/cartes-tarot/cavalier-de-pentacles/) — Terre.
 
 {{< cards "wakn cukn swkn pekn" >}}

@@ -1,11 +1,11 @@
 ---
-title: 'Valet de Épées (Page of Swords) — tarot Rider-Waite-Smith : lire la carte
+title: 'Valet d’Épées (Page of Swords) — tarot Rider-Waite-Smith : lire la carte
   par ses clés de lecture'
-description: 'Valet de Épées : ce qu’on voit sur la carte, puis le nombre, l’élément
+description: 'Valet d’Épées : ce qu’on voit sur la carte, puis le nombre, l’élément
   (Terre de Air), les couleurs. Lire la carte sans l’avoir apprise.'
 translationKey: card-swpa
 type: cards
-navTitle: Valet de Épées
+navTitle: Valet d’Épées
 suit: swords
 suitLabel: Épées
 number: 11
@@ -16,8 +16,8 @@ astrology: ''
 energy: Féminine
 kabbalah: ''
 image: cards/swpa.webp
-h1: Valet de Épées — <em>le Valet</em>, la Terre de air
-lede: 'Avant de chercher ce que « signifie » Valet de Épées, regardez ce que vous
+h1: Valet d’Épées — <em>le Valet</em>, la Terre de air
+lede: 'Avant de chercher ce que « signifie » Valet d’Épées, regardez ce que vous
   avez déjà : le Valet, l’élément Terre de Air. Vous lisez la carte. Le nombre dit
   le Valet — l’élève, le message, l’élan neuf ; l’élément dit le mental, ce qu’on
   décide. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous
@@ -28,17 +28,17 @@ related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
-- q: Que signifie Valet de Épées ?
-  a: 'Il n’y a pas une signification à apprendre : Valet de Épées se lit par son nombre
+- q: Que signifie Valet d’Épées ?
+  a: 'Il n’y a pas une signification à apprendre : Valet d’Épées se lit par son nombre
     (le Valet), son élément (Terre de Air) et ses couleurs. La page ci-dessus les
     pose une à une.'
-- q: Valet de Épées renversé, ça change quoi ?
+- q: Valet d’Épées renversé, ça change quoi ?
   a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
     l’endroit, puis ce qui bloque ou déborde.
 categories:
 - Épées
 tags:
-- Valet de Épées
+- Valet d’Épées
 - Air
 - arcane mineur
 ---

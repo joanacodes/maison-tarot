@@ -51,7 +51,7 @@ Waite describes him as “graceful, but not warlike; riding quietly”. He holds
 
 A Knight’s excess is his quality pushed too far. Here the quality is romance and imagination. The excess is a life spent on the way to someone, never quite arriving.
 
-## By element: Air of Water {#element}
+## By element: Water {#element}
 
 The suit is [Water](/library/four-elements/water-element/): emotion, relationships. The rank adds [Air](/library/four-elements/air-element/), as it does for every Knight: the mind, communication, ideas. Air of Water is a feeling put into words — a love letter, a declaration, an artistic idea carried towards the people it’s for. That’s the cup held out: an emotion that has become a message.
 

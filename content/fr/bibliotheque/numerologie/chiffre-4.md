@@ -55,7 +55,7 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 - [L’Empereur](/fr/bibliotheque/cartes-tarot/l-empereur/) — arcane majeur 4.
 - [Quatre de Bâtons](/fr/bibliotheque/cartes-tarot/quatre-de-batons/) — 4 + Feu.
 - [Quatre de Coupes](/fr/bibliotheque/cartes-tarot/quatre-de-coupes/) — 4 + Eau.
-- [Quatre de Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/) — 4 + Air.
+- [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/) — 4 + Air.
 - [Quatre de Pentacles](/fr/bibliotheque/cartes-tarot/quatre-de-pentacles/) — 4 + Terre.
 
 {{< cards "ar04 wa04 cu04 sw04 pe04" >}}

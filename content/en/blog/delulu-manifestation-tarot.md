@@ -6,8 +6,9 @@ type: blog
 date: 2026-09-11
 categories: ["Trends"]
 tags: ["manifestation", "law of attraction", "delulu", "tarot for manifesting", "victim blaming"]
-image: "cover.jpg"
+image: "covers/delulu-manifestation-tarot.jpg"
 imageAlt: "A sticky note reading ‘it’s already mine’ stuck to a mirror, a card tucked in the frame"
+imagePrompt: "A small handwritten sticky note stuck to a bathroom mirror, the words out of focus, a tarot card tucked into the corner of the mirror frame. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Believing you can is useful; believing that belief is enough is not, and believing that failure means you didn’t believe hard enough is cruel. Manifestation culture runs on all three, and ‘delulu’ is the same thing with a joke on top. Tarot can help with a goal — by showing you where you actually are and what you’re avoiding — and it can’t make anything happen. Anyone who says otherwise is selling the second thing."
 ---
 "Delulu is the solulu" — being delusional is the solution — started as a joke about celebrity crushes and became, within a year, an actual life philosophy for a lot of people. It's the law of attraction with the sincerity removed and the algorithm added. I want to take it seriously, because underneath the joke there's a real idea and a real harm.

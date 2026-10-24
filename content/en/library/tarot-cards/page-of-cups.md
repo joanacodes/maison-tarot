@@ -51,7 +51,7 @@ No one else, no boat, no letter in his hand. The sea is at his back; what holds 
 
 The Page’s advice is to stay a student, and this one does it well. He isn’t frightened by the fish, and he isn’t pretending he understands it. He’s looking. His energy is [feminine in my sense of the word](/library/feminine-masculine-energies/) — imagination, softness, what happens inside — which has nothing to do with being a girl or a boy.
 
-## By element: Earth of Water {#element}
+## By element: Water {#element}
 
 The suit is [Water](/library/four-elements/water-element/): emotions, relationships, hidden strengths. The rank adds a second element, and for every Page it’s [Earth](/library/four-elements/earth-element/): the concrete, the first form a thing takes. Earth of Water is a feeling becoming tangible — a crush you can finally name, a sensitivity that turns into a first drawing, a sudden tenderness for someone you’d never noticed.
 

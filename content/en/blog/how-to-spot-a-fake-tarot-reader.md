@@ -6,8 +6,9 @@ type: blog
 date: 2026-09-11
 categories: ["Ideas we refuse"]
 tags: ["fake tarot reader", "tarot scam", "red flags", "how to choose a tarot reader", "psychic scam"]
-image: "cover.jpg"
+image: "covers/how-to-spot-a-fake-tarot-reader.jpg"
 imageAlt: "A phone screen showing a message that reads ‘I see something serious, we need to talk today’"
+imagePrompt: "A phone lying face up on a kitchen table, its screen lit with a short message too blurred to read, a cold cup of coffee beside it. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "A fake reader is easy to recognise once you know the pattern: they find a curse, they create urgency, they’re never wrong, they ask for your details before they read, and there’s always a second, pricier session. A real reader tells you when they miss, refuses certain questions, and has nothing to sell you at the end. Here are the nine flags, and the one test that catches most of them."
 ---
 I read cards, I teach people to read them, and I spend a surprising amount of my time helping people who've been fleeced by someone who claimed to. The patterns repeat so exactly that you can learn them in ten minutes. Here they are, roughly in the order you'll meet them.

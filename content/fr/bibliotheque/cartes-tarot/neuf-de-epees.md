@@ -1,11 +1,11 @@
 ---
-title: 'Neuf de Épées (Nine of Swords) — tarot Rider-Waite-Smith : lire la carte par
+title: 'Neuf d’Épées (Nine of Swords) — tarot Rider-Waite-Smith : lire la carte par
   ses clés de lecture'
-description: 'Neuf de Épées : ce qu’on voit sur la carte, puis le nombre, l’élément
+description: 'Neuf d’Épées : ce qu’on voit sur la carte, puis le nombre, l’élément
   (Air), les couleurs et Mars en Gémeaux. Lire la carte sans l’avoir apprise.'
 translationKey: card-sw09
 type: cards
-navTitle: Neuf de Épées
+navTitle: Neuf d’Épées
 suit: swords
 suitLabel: Épées
 number: 9
@@ -16,8 +16,8 @@ astrology: Mars en Gémeaux
 energy: Masculine
 kabbalah: ''
 image: cards/sw09.webp
-h1: Neuf de Épées — <em>neuf</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » Neuf de Épées, regardez ce que vous avez
+h1: Neuf d’Épées — <em>neuf</em>, l’Air
+lede: 'Avant de chercher ce que « signifie » Neuf d’Épées, regardez ce que vous avez
   déjà : neuf, l’élément Air, Mars en Gémeaux. Vous lisez la carte. Le nombre dit
   neuf — l’aboutissement, presque au bout ; l’élément dit le mental, ce qu’on décide.
   Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
@@ -28,16 +28,16 @@ related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
-- q: Que signifie Neuf de Épées ?
-  a: 'Il n’y a pas une signification à apprendre : Neuf de Épées se lit par son nombre
+- q: Que signifie Neuf d’Épées ?
+  a: 'Il n’y a pas une signification à apprendre : Neuf d’Épées se lit par son nombre
     (neuf), son élément (Air) et ses couleurs. La page ci-dessus les pose une à une.'
-- q: Neuf de Épées renversé, ça change quoi ?
+- q: Neuf d’Épées renversé, ça change quoi ?
   a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
     l’endroit, puis ce qui bloque ou déborde.
 categories:
 - Épées
 tags:
-- Neuf de Épées
+- Neuf d’Épées
 - Air
 - Mars en Gémeaux
 - arcane mineur

@@ -1,8 +1,7 @@
 ---
 title: 'Neuf de Bâtons (Nine of Wands) — tarot Rider-Waite-Smith : lire la carte par
   ses clés de lecture'
-description: 'Neuf de Bâtons : ce qu’on voit sur la carte, puis le nombre, l’élément
-  (Feu), les couleurs et Lune en Sagittaire. Lire la carte sans l’avoir apprise.'
+description: 'Neuf de Bâtons : un homme à la tête bandée monte la garde devant huit bâtons. Lisez l’endurance et la dernière ligne droite par le 9, le Feu et la Lune.'
 translationKey: card-wa09
 type: cards
 navTitle: Neuf de Bâtons
@@ -29,11 +28,11 @@ related:
 - /bibliotheque/astrologie
 faq:
 - q: Que signifie Neuf de Bâtons ?
-  a: 'Il n’y a pas une signification à apprendre : Neuf de Bâtons se lit par son nombre
-    (neuf), son élément (Feu) et ses couleurs. La page ci-dessus les pose une à une.'
+  a: 'La résistance près du but : vous avez pris des coups, vous êtes toujours debout, et l’arrivée est proche. Lisez-le par son nombre (neuf, les derniers efforts), son élément (le Feu devenu endurance) et le sol gris sous ses pieds.'
 - q: Neuf de Bâtons renversé, ça change quoi ?
-  a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
-    l’endroit, puis ce qui bloque ou déborde.
+  a: 'La garde tourne à la méfiance, chaque main tendue prise pour une attaque, ou bien les forces lâchent à quelques pas de la fin. Demandez-vous lequel des deux : trop de garde, ou plus assez de réserves.'
+- q: Que signifie le Neuf de Bâtons en amour ?
+  a: 'Quelqu’un qui a déjà été blessé et qui reste sur ses gardes, même quand rien ne l’attaque. La carte demande si cette garde vous protège encore, ou si elle tient à distance ce que vous désirez vraiment.'
 categories:
 - Bâtons
 tags:
@@ -44,28 +43,50 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-{{< todo >}}À ÉCRIRE — décrire le dessin de Pamela Colman Smith, détail par détail : personnages, objets, posture, ce qui manque.{{< /todo >}}
+Un homme se tient devant une rangée de huit bâtons plantés droit dans le sol, comme une palissade dans son dos. Il serre un neuvième bâton à deux mains, à hauteur de poitrine, le pied posé devant lui. Un bandage blanc lui entoure la tête. Il ne nous regarde pas : il jette un coup d’œil de côté, méfiant, comme s’il avait entendu un bruit.
+
+Il porte une tunique rouille serrée à la taille, des manches blanches, des chausses et des bottes claires. Il se tient sur un sol gris et plat, comme une terrasse de pierre ; derrière les bâtons, des collines vertes sous un ciel bleu pâle. Les bâtons ont encore leurs pousses vertes.
+
+Ce qui manque, c’est l’ennemi. Personne n’attaque, rien ne descend de la colline. **Il a déjà été blessé, il tient debout, et il se garde d’un coup qui n’est pas dans l’image.**
 
 ## Par le nombre : neuf {#nombre}
 
-**neuf — l’aboutissement, presque au bout.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**neuf — l’aboutissement, presque au bout.** Le [9](/fr/bibliotheque/numerologie/chiffre-9/), c’est la ligne d’arrivée en vue : les derniers efforts, la patience, un regard vers l’intérieur avant que le cycle se ferme — et on continue d’avancer. C’est exactement le dessin. Huit bâtons sont déjà plantés derrière lui, le neuvième est entre ses mains ; encore un, et la série est complète. Il ne commence rien : il tient, près de la fin.
+
+Le piège du 9, c’est de s’arrêter à cent mètres de l’arrivée — ou, ici, de monter la garde si longtemps qu’on en oublie de faire les derniers pas. Dans l’histoire d’Instagram, le 9, c’est la refonte autour des Reels : ce qui définissait l’application se termine, et la forme suivante n’est pas encore là. Le Neuf de Bâtons, c’est cet entre-deux, vécu dos à la palissade.
 
 ## Par l’élément : Feu {#element}
 
-{{< todo >}}À ÉCRIRE — ce que [Feu](/fr/bibliotheque/quatre-elements/element-feu/) apporte ici : de quoi la carte parle.{{< /todo >}}
+Le [Feu](/fr/bibliotheque/quatre-elements/element-feu/), c’est l’énergie qui motive, l’envie de commencer. Au neuvième bâton, cette envie est devenue de l’endurance : on ne lance plus rien, on entretient. Le feu se propage vite quand personne ne le maîtrise ; il s’éteint aussi quand personne ne s’en occupe. Cet homme s’en occupe — peut-être avec trop d’inquiétude.
+
+L’adolescent qui me sert d’archétype pour le Feu a un peu grandi sur cette carte. Il sait maintenant que ça brûle, et il a le bandage pour le prouver.
 
 ## Par les couleurs {#couleurs}
 
-{{< todo >}}À ÉCRIRE — les couleurs dominantes et ce qu’elles disent avant la carte ([la grille des couleurs](/fr/bibliotheque/couleurs-tarot/)).{{< /todo >}}
+Le sol est [gris](/fr/bibliotheque/couleurs-tarot/gris/) : la neutralité, la stabilité, aucune volonté particulière. Il n’est pas sur un champ de bataille mais sur un terrain ordinaire et solide, ce qui laisse penser que le danger est peut-être plus dans sa tête que dans le paysage. Le [blanc](/fr/bibliotheque/couleurs-tarot/blanc/) du bandage, c’est la paix et le soin : la blessure a été pansée, quelqu’un s’en est occupé.
+
+Le rouge rouille de la tunique garde la force et l’action de la famille, et le vert de chaque bâton dit que le projet est toujours vivant. Gris, blanc, rouge, vert : un sol solide, une blessure soignée, de la force en réserve, de la vie dans le bois.
 
 ## Par l’astrologie : Lune en Sagittaire {#astrologie}
 
-{{< todo >}}À ÉCRIRE — Lune en Sagittaire, dans la tradition Golden Dawn ; ce que ça ajoute, et si ça vaut la peine de le garder ([astrologie](/fr/bibliotheque/astrologie/)).{{< /todo >}}
+Dans la tradition Golden Dawn, cette carte correspond à la Lune en Sagittaire ; l’Ordre la nommait le Seigneur de la Grande Force (*Lord of Great Strength*). La [Lune](/fr/bibliotheque/astrologie/lune/), c’est ce qu’on ressent quand personne ne regarde : le besoin de sécurité. Le Sagittaire, c’est le voyageur qui veut tout essayer et aller voir. Mettez un besoin de sécurité chez quelqu’un fait pour partir, et vous obtenez cet homme. Chat échaudé craint l’eau froide : un esprit libre qui s’est brûlé une fois, et qui scrute l’horizon avant chaque pas.
+
+Gardez cette clé si l’astrologie vous parle : elle ajoute le côté intime, la peur sous la garde. Laissez-la sinon ; le dessin le dit déjà.
 
 ## En lecture {#lecture}
 
-{{< todo >}}À ÉCRIRE — à l’endroit, renversée, selon les cartes voisines. Une chose à retenir en gras.{{< /todo >}}
+À l’endroit, le Neuf de Bâtons, c’est la résistance : vous avez traversé beaucoup, vous êtes encore là, et la fin approche. C’est la personne qui continue son projet après trois revers, qui ne lâche pas la dernière ligne droite. La carte dit aussi : vous êtes sur vos gardes. **Vous pouvez baisser la garde sans céder de terrain.**
+
+Renversé, la vigilance tourne à la méfiance : chaque message lu comme une menace, chaque main tendue refusée, la palissade devenue un mur que personne ne franchit. Ou bien les forces lâchent, et il s’assied à quelques pas de la fin, trop fatigué pour planter le dernier bâton. Demandez-vous lequel des deux.
+
+À côté du [Sept de Bâtons](/fr/bibliotheque/cartes-tarot/sept-de-batons/), vous voyez le combat d’avant : le Sept défend une hauteur contre six bâtons qui montent d’en bas, le Neuf y a survécu et attend. À côté de [l’Ermite](/fr/bibliotheque/cartes-tarot/l-ermite/), l’autre 9, la garde se tourne vers l’intérieur — moins surveiller les collines, davantage regarder ce que les combats ont changé. À côté du [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/), le conseil est le repos : le bandage a besoin de temps plus que d’un tour de garde supplémentaire.
+
+{{< cards "wa07 ar09 sw04" >}}
 
 ## Exemple de tirage {#exemple}
 
-{{< todo >}}À ÉCRIRE — un tirage réel anonymisé : clés de lecture d’abord, phrase dite, ce que la personne a confirmé.{{< /todo >}}
+Prenons une personne qui ne vous dit rien et tire le Neuf de Bâtons, puis le [Deux de Coupes](/fr/bibliotheque/cartes-tarot/deux-de-coupes/). Les clés de lecture d’abord : 9 puis 2 — la fin d’un long effort, puis un échange entre deux personnes ; le Feu puis l’Eau — l’endurance, puis le sentiment ; un sol gris et un bandage blanc, puis deux personnages face à face, chacun tendant une coupe.
+
+La phrase que vous pourriez tenter : « Vous tenez quelque chose sans aide depuis longtemps, et on vous propose un échange. La question, c’est de savoir si vous pouvez poser un bâton pour prendre la coupe. »
+
+Puis vous vérifiez, sans insister : « Y a-t-il un endroit de votre vie où vous êtes encore sur vos gardes ? » Laissez la personne répondre avec ses mots. Si rien ne correspond, dites-le, et notez-le comme un raté.

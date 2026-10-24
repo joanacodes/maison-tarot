@@ -54,7 +54,7 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 - [Le Chariot](/fr/bibliotheque/cartes-tarot/le-chariot/) — arcane majeur 7.
 - [Sept de Bâtons](/fr/bibliotheque/cartes-tarot/sept-de-batons/) — 7 + Feu.
 - [Sept de Coupes](/fr/bibliotheque/cartes-tarot/sept-de-coupes/) — 7 + Eau.
-- [Sept de Épées](/fr/bibliotheque/cartes-tarot/sept-de-epees/) — 7 + Air.
+- [Sept d’Épées](/fr/bibliotheque/cartes-tarot/sept-de-epees/) — 7 + Air.
 - [Sept de Pentacles](/fr/bibliotheque/cartes-tarot/sept-de-pentacles/) — 7 + Terre.
 
 {{< cards "ar07 wa07 cu07 sw07 pe07" >}}

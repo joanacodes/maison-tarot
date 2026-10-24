@@ -55,7 +55,7 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 - [Les Amoureux](/fr/bibliotheque/cartes-tarot/les-amoureux/) — arcane majeur 6.
 - [Six de Bâtons](/fr/bibliotheque/cartes-tarot/six-de-batons/) — 6 + Feu.
 - [Six de Coupes](/fr/bibliotheque/cartes-tarot/six-de-coupes/) — 6 + Eau.
-- [Six de Épées](/fr/bibliotheque/cartes-tarot/six-de-epees/) — 6 + Air.
+- [Six d’Épées](/fr/bibliotheque/cartes-tarot/six-de-epees/) — 6 + Air.
 - [Six de Pentacles](/fr/bibliotheque/cartes-tarot/six-de-pentacles/) — 6 + Terre.
 
 {{< cards "ar06 wa06 cu06 sw06 pe06" >}}
