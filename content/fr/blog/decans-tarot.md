@@ -60,7 +60,7 @@ Voici ce que le décan ajoute à trois cartes sur lesquelles j’ai mes propres 
 
 {{< cards "cu05 sw08 cu06" >}}
 
-Le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), c’est Mars en Scorpion. Dans mes notes, c’est la carte la plus lourde du jeu : la perte, l’émotion sombre, la solitude face à ses problèmes. Mars y ajoute de la chaleur, la colère qui se loge dans le chagrin ; le Scorpion, l’attachement. Ça fait aussi mal parce que ça comptait autant. Le 24 octobre, au moment où j’écris, le Soleil entre en Scorpion : nous voilà dans le décan du Cinq de Coupes jusqu’au 1er novembre environ, dix jours pour regarder ce qui s’est renversé, et les deux coupes encore debout. La suite est dans [la saison du Scorpion au tarot](/fr/blog/saison-scorpion-tarot/).
+Le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), c’est Mars en Scorpion. Dans mes notes, c’est la carte la plus lourde du jeu : la perte, l’émotion sombre, la solitude face à ses problèmes. Mars y ajoute de la chaleur, la colère qui se loge dans le chagrin ; le Scorpion, l’attachement. Ça fait aussi mal parce que ça comptait autant. Le 24 octobre, au moment où j’écris, le Soleil vient d’entrer en Scorpion : nous voilà dans le décan du Cinq de Coupes jusqu’au 1er novembre environ, dix jours pour regarder ce qui s’est renversé, et les deux coupes encore debout. La suite est dans [la saison du Scorpion au tarot](/fr/blog/saison-scorpion-tarot/).
 
 Le Huit d’Épées, c’est Jupiter en Gémeaux. Ma note : prisonnier de soi-même alors qu’on a tous les outils, et on peut retirer le bandeau. Jupiter agrandit ; le verbe des Gémeaux, c’est « je pense ». Ensemble : un esprit où les pensées ont tellement poussé qu’il ne voit plus la sortie.
 
