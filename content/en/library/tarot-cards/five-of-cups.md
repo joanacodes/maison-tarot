@@ -1,7 +1,6 @@
 ---
 title: 'Five of Cups — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'Five of Cups: what’s on the card, then the number, the element (Water),
-  the colours and Mars in Scorpio. Read the card without having learned it.'
+description: 'Five of Cups in the Rider-Waite-Smith tarot: a cloaked figure mourns three spilled cups while two still stand. Read it gently through five, Water, colour and Mars.'
 translationKey: card-cu05
 type: cards
 navTitle: Five of Cups
@@ -28,12 +27,11 @@ related:
 - /library/astrology
 faq:
 - q: What does Five of Cups mean?
-  a: 'There isn’t one meaning to memorise: Five of Cups is read through its number
-    (five), its element (Water) and its colours. The page above lays them out one
-    by one.'
+  a: 'Grief or disappointment about something that has already happened, with all the attention on what was lost. The drawing also shows two cups still standing and a bridge across the river: what remains, and a way forward when the person is ready.'
 - q: What about Five of Cups reversed?
-  a: The same card, slowed down or in excess. Look first at what the card says upright,
-    then at what blocks or overflows.
+  a: 'Either the figure starts to turn round and notices what is still there, or the regret lasts so long that it becomes a place to live. When grief has gone on for a long time, talking to a professional helps more than another reading.'
+- q: What does Five of Cups mean in love?
+  a: 'Sadness about a relationship: a break-up, a disappointment, or a bond that feels emptier than before. It describes the grief, not the end of every possibility; the two standing cups are part of the card.'
 categories:
 - Cups
 tags:
@@ -44,28 +42,48 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-{{< todo >}}TO WRITE — describe Pamela Colman Smith’s drawing, detail by detail: figures, objects, posture, what’s missing.{{< /todo >}}
+A figure in a long black cloak stands with head bowed, seen from the side, face hidden. On the ground in front of them, three cups lie knocked over, and what they held runs out — red on one side, green on the other. Behind the figure, two cups are still standing upright. They can’t see them: they’re turned the other way.
+
+Beyond, a river runs across the whole card. On the far bank stand a small stone castle and some trees; on the right, a stone bridge with arches crosses the water. The sky is a flat grey from edge to edge, and the figure is alone under it. **The card shows a loss — and, in the same picture, what’s still standing and a way across.**
 
 ## By number: five {#number}
 
-**five — conflict, trial, making do with what’s left.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**five — conflict, trial, making do with what’s left.** Five is the trial in the middle of the cycle, the moment you find out what holds. In my notes, the Five of Cups is the heaviest card of all: losing, a dark emotion, being alone with your problems. I say it plainly because it’s what the drawing shows, and saying it plainly is kinder than pretending otherwise.
+
+[Number five](/library/numerology/number-5/) also has a minus, and here it’s the key: denial. Not denial of the loss — the figure clearly knows. The other denial: not seeing what’s still there. The advice of 5 is to be honest with yourself and with the situation, both halves of it. In the Instagram story, one version of 5 is IGTV, a bet that flopped and was pulled — while the app itself kept standing.
 
 ## By element: Water {#element}
 
-{{< todo >}}TO WRITE — what [Water](/library/four-elements/water-element/) brings here: what the card is about.{{< /todo >}}
+[Water](/library/four-elements/water-element/) makes this a loss of the heart: grief, disappointment, a relationship that ended, a friendship that cooled, a hope that didn’t work out. The water here wasn’t neglected for years; it was spilled, and the figure is looking at the stain.
+
+The river matters. Moving water is strong emotion, and it’s flowing — past the figure, towards somewhere else. Grief moves too, at its own pace. The bridge is the drawing’s way of saying there’s a crossing, when you’re ready and not before.
 
 ## By colours {#colours}
 
-{{< todo >}}TO WRITE — the dominant colours and what they say before the card ([the colour grid](/library/tarot-colours/)).{{< /todo >}}
+The flat grey sky: neutrality, no particular will — the stillness after something has happened, when you don’t want anything yet. The [black](/library/tarot-colours/black/) cloak: absence, void, energy absorbed. It isn’t wickedness; it’s the colour of mourning, and in my grid black is also emptying out, and reality.
+
+Then the things that aren’t dark: the gold of the five cups, two of them upright; the blue of the river; the green of both banks. Read the colours before the card: a heavy, still moment, worn on the body, and life going on all around it.
 
 ## By astrology: Mars in Scorpio {#astrology}
 
-{{< todo >}}TO WRITE — Mars in Scorpio, in the Golden Dawn tradition; what it adds, and whether it’s worth keeping ([astrology](/library/astrology/)).{{< /todo >}}
+In the Golden Dawn tradition, the Five of Cups is the first decan of Scorpio, ruled by Mars, Scorpio’s traditional ruler; its title is the Lord of Loss in Pleasure. [Scorpio](/library/astrology/scorpio/) says *I desire*: intensity, emotional attachment, a tendency to withdraw when it hurts. Mars is how you act and fight. Together: a feeling that runs deep, and energy that should go outwards turned inwards — fighting the loss instead of walking away from it.
+
+Optional. If astrology isn’t one of your lenses, the number and the colours have already said this.
 
 ## In a reading {#reading}
 
-{{< todo >}}TO WRITE — upright, reversed, with neighbouring cards. One thing to remember, in bold.{{< /todo >}}
+Upright, the Five of Cups is grief, regret or disappointment about something that has already happened: a break-up, a falling-out, a plan that failed, a chance missed. **It describes how someone is carrying a loss and where they’re looking — not something that is about to happen.** The card doesn’t announce a death or an illness, and I don’t read it that way; it talks about a feeling, not an event.
+
+Reversed, the figure starts to turn round. Either they notice the two cups behind them — what’s left, the people still there — and the grief begins to move. Or, in the slowed-down version, they stay facing the spilled cups so long that regret becomes the place they live. When grief has settled in like that, a reading isn’t the right tool; talking to someone whose job is to listen is, and I say so ([what tarot doesn’t replace](/disclaimers/#therapy)).
+
+Next to the [Six of Cups](/library/tarot-cards/six-of-cups/), the next card in the suit, the two standing cups become six full ones: comfort, old friends, home. Next to [the Star](/library/tarot-cards/the-star/), water is being poured again — hope coming back after the loss. Next to the [Five of Pentacles](/library/tarot-cards/five-of-pentacles/), another 5, the trial is material as well as emotional, and there too a lit church window goes unnoticed. The heart side of this card has its own article: [the Five of Cups in love](/blog/five-of-cups-tarot-love/).
+
+{{< cards "cu06 ar17 pe05" >}}
 
 ## A reading, as an example {#example}
 
-{{< todo >}}TO WRITE — a real anonymised spread: lenses first, the sentence said, what the person confirmed.{{< /todo >}}
+Say someone sits down, tells you nothing, and draws the Five of Cups next to the [Six of Swords](/library/tarot-cards/six-of-swords/). Lenses first. Five then six: the trial, then the movement after it. Water then Air: a feeling, then a decision. Colours: the grey sky and the black cloak, then a small boat crossing pale water towards a calmer shore.
+
+The sentence I’d say out loud, gently: “You’ve lost something that mattered to you, and you’ve started — slowly — to move away from it. You’re not over it, and you don’t have to be yet.”
+
+To check, I ask: “Does that sound like where you are?” and leave room for the answer. If it’s yes, I don’t ask what was lost; the person can tell me if they want to. If it’s no, it’s a miss, and I say so plainly.

@@ -1,7 +1,6 @@
 ---
 title: 'Knight of Wands — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'Knight of Wands: what’s on the card, then the number, the element (Air
-  of Fire), the colours. Read the card without having learned it.'
+description: 'Knight of Wands: a knight on a rearing horse, plume streaming like a flame. Read departure, momentum and its excess through the Knight’s rank, Fire, Air and colour.'
 translationKey: card-wakn
 type: cards
 navTitle: Knight of Wands
@@ -28,12 +27,11 @@ related:
 - /library/astrology
 faq:
 - q: What does Knight of Wands mean?
-  a: 'There isn’t one meaning to memorise: Knight of Wands is read through its number
-    (the Knight), its element (Air of Fire) and its colours. The page above lays them
-    out one by one.'
+  a: 'Departure and momentum: a move, a trip, a project launched at full speed, or someone arriving with energy to spare. Read it through its rank (the Knight, action), its element (Air of Fire, the flame fed by wind) and the reds and oranges burning across the card.'
 - q: What about Knight of Wands reversed?
-  a: The same card, slowed down or in excess. Look first at what the card says upright,
-    then at what blocks or overflows.
+  a: 'The horse throws its rider: plans dropped halfway, a temper that flares and leaves damage, a departure as sudden as the arrival. Or the energy is held back and fumes in the stable; in both cases the fire needs a direction, not more fuel.'
+- q: What does the Knight of Wands mean in love?
+  a: 'An intense start, plenty of passion and a fast pace, with the risk that it burns through as quickly as it lit. It asks you to enjoy the spark and to look at where the horse is heading.'
 categories:
 - Wands
 tags:
@@ -43,24 +41,44 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-{{< todo >}}TO WRITE — describe Pamela Colman Smith’s drawing, detail by detail: figures, objects, posture, what’s missing.{{< /todo >}}
+A knight in grey armour sits on a horse that rears up on its hind legs, front hooves high off the ground. The horse is a pale reddish brown with a wild orange mane, its head turned towards the left. The rider holds a sprouting wand up in one hand and the reins in the other.
+
+Over his armour he wears a yellow tunic patterned with black salamanders. A red-orange plume streams from his helmet, and orange streamers fly from his arm like flames. Under the horse lies a desert, with pyramids on the left and a pale sky above.
+
+Now notice the direction. The horse isn’t galloping forward; it’s rearing on the spot. There’s no road and no destination in the picture. **All the energy of the suit is here at its peak — and it hasn’t yet chosen where to go.**
 
 ## By number: the Knight {#number}
 
-**the Knight — action, the quest, excess.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**the Knight — action, the quest, excess.** The [Knight](/library/numerology/knight/) is the element in motion, what the house does when it acts, and every Knight’s horse tells you how. The Wands horse rears; of the four, it’s the most impatient. The rank’s advice could have been written for this card: act, yes; charge, no. Check the direction before the speed.
+
+You have probably met this Knight. The friend who books the flight before checking the dates, hands in their notice on Friday and starts a business on Monday. Brilliant energy — and the risk sits in the same place as the quality, because a Knight’s excess is always his strength pushed one step too far.
 
 ## By element: Fire {#element}
 
-{{< todo >}}TO WRITE — what [Fire](/library/four-elements/fire-element/) brings here: what the card is about.{{< /todo >}}
+Here [Fire](/library/four-elements/fire-element/) — impulse, passion — gets a gust of wind: the Knight is Air of Fire, and [Air](/library/four-elements/air-element/) feeds a flame. Air is the mind, decisions, communication; blown into Fire, it makes the blaze jump. That’s why this Knight talks fast, decides fast, and changes his mind fast.
+
+Picture the suit’s restless teenager, the one who thinks anything is possible, and give them a horse.
 
 ## By colours {#colours}
 
-{{< todo >}}TO WRITE — the dominant colours and what they say before the card ([the colour grid](/library/tarot-colours/)).{{< /todo >}}
+[Red](/library/tarot-colours/red/) and orange burn all over the card — plume, mane, streamers: passion, action, impulse, the masculine energy of the suit. The yellow of the tunic adds will and pride.
+
+Against all that heat stands the [grey](/library/tarot-colours/grey/) of the armour: neutrality, stability, the one cool thing in the picture. The armour is what lets him survive his own speed. Colours only, then: fire everywhere, a will on top, and a grey shell holding it together.
 
 ## In a reading {#reading}
 
-{{< todo >}}TO WRITE — upright, reversed, with neighbouring cards. One thing to remember, in bold.{{< /todo >}}
+Upright, the Knight of Wands is departure and momentum: a move, a trip, a project launched at full speed, a person who comes into your life with energy to spare. It’s courage and appetite. **The horse is ready; the direction is your job.**
+
+Reversed, the horse throws its rider: plans abandoned halfway, a temper that flares and leaves damage, someone who leaves as quickly as they arrived. Or the opposite — the energy held back, the knight fuming in the stable because he can’t go yet. In both cases the Fire needs a direction, not more fuel.
+
+Next to the [Knight of Pentacles](/library/tarot-cards/knight-of-pentacles/), you have the two speeds of the court: one horse rears, the other stands still. A project often needs both the launch and the long, steady pace. Next to [the Chariot](/library/tarot-cards/the-chariot/), the impulse finds a driver who keeps two sphinxes on course. Next to the [Five of Wands](/library/tarot-cards/five-of-wands/), all that energy goes into scuffles — five young men waving wands, seeming to fight, not coordinated.
+
+{{< cards "pekn ar07 wa05" >}}
 
 ## A reading, as an example {#example}
 
-{{< todo >}}TO WRITE — a real anonymised spread: lenses first, the sentence said, what the person confirmed.{{< /todo >}}
+Imagine someone who has told you nothing draws the Knight of Wands beside the [Seven of Pentacles](/library/tarot-cards/seven-of-pentacles/). Lenses first: the Knight then 7 — action, then patience and analysis before acting; Fire then Earth — speed, then slow growth; red and orange flames, then a man leaning on his tool, looking at a bush heavy with coins.
+
+The sentence: “You want to leave now, and something you planted needs one more season. Leaving is possible; leaving before the harvest is the part to think about.”
+
+Then check, gently: “Is there something slow in your life you’re tempted to drop?” Their answer decides whether the reading holds. If it doesn’t, it doesn’t — note the miss and move on.

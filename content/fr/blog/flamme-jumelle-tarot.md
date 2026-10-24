@@ -23,7 +23,7 @@ On voit ce que cela fait à une personne. N’importe quelle relation, même cru
 
 Je comprends d’où vient la demande : quand quelqu’un qu’on aime s’en va, une histoire qui promet son retour fait du bien. J’ai trois raisons de ne pas la raconter, et la troisième est la vraie.
 
-*Elle lit une autre personne.* Où en est-*il* sur son chemin, de quoi *elle* doit-elle guérir avant l’union ? L’autre personne n’est pas là et n’a rien accepté. [Lire une personne absente est une limite que je garde](/fr/blog/deontologie-tarologue/) pour tout le monde, et c’est tout le contenu de ce tirage.
+*Elle lit une autre personne.* Où en est-*il* sur son chemin, de quoi doit-*elle* guérir avant l’union ? L’autre personne n’est pas là et n’a rien accepté. [Lire une personne absente est une limite que je garde](/fr/blog/deontologie-tarologue/) pour tout le monde, et c’est tout le contenu de ce tirage.
 
 *Elle ne peut pas rater.* Ensemble ? Union. Séparés ? Étape de séparation. Séparés depuis des années ? Séparation profonde. Bloqué sur les réseaux ? Comportement de fuyant. L’histoire absorbe toutes les issues : ce n’est plus un tirage, c’est une traduction des faits dans le vocabulaire du destin.
 

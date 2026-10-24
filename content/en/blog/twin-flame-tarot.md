@@ -7,7 +7,7 @@ date: 2026-09-11
 categories: ["Trends"]
 tags: ["twin flame tarot", "twin flame reading", "refusals", "toxic relationships", "false hope"]
 image: "covers/twin-flame-tarot.jpg"
-imageAlt: "Two candles on a table, one unlit"
+imageAlt: "Two coffee cups on a kitchen table, one full and one empty, the chair opposite pushed in"
 imagePrompt: "Two coffee cups on a kitchen table, one full and one empty, the chair opposite pushed in. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "‘Twin flame’ is a story that turns any painful, unequal or abandoned relationship into a spiritual destiny with stages — runner, chaser, separation, union. Tarot readings built on it sell the stage you’re in. I refuse them, because the story has one function: to keep you waiting for someone who left. The honest reading is about you, and it has no stages."
 ---

@@ -41,54 +41,48 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-A horned creature perches on a squat black block: goat’s horns, bat’s wings, hairy legs ending in claws, an upside-down five-pointed star on his forehead. His right hand is raised, palm out; Arthur Edward Waite, who devised the deck, called it the reverse of the Hierophant’s blessing. His left hand holds a lit torch pointing down at the ground.
+A horned creature perches on a squat black block: goat’s horns, bat’s wings, hairy legs ending in claws, an upside-down star on his forehead. His right hand is raised, palm out; Arthur Edward Waite, who devised the deck, called it the reverse of the Hierophant’s blessing. His left hand points a lit torch at the ground.
 
-A ring is fixed to the front of the block. Two chains run from it to the necks of a naked man and a naked woman. They have small horns of their own, and tails: hers ends in a bunch of grapes, his in a flame. They look like the couple from the Lovers, nine cards earlier, and nobody is holding the other end. Look at the chains: wide loops resting on their shoulders. **They could lift them off over their heads, and nothing in the drawing stops them.**
+Two chains run from a ring on the block to the necks of a naked man and a naked woman, who have small horns and tails of their own: hers ends in grapes, his in a flame. They look like the couple from the Lovers, and nobody holds the other end. The chains hang loose on their shoulders. **They could lift them off over their heads, and nothing in the drawing stops them.**
 
-What’s missing: a lock, a guard, a door. Black fills the whole background, with no sky and no horizon. The drawing as a whole is about an attachment that holds because no one has tried to take it off.
+No lock, no guard, no door; black from edge to edge, with no sky. The drawing is about an attachment that holds because no one has tried to take it off.
 
 ## By number: 15 {#number}
 
-**15 — 1 + 5 = 6 — harmony regained, exchange.** Fifteen comes back to [6](/library/numerology/number-6/), the number of the Lovers, which is why the couple looks familiar. Six is “3 exalted”: the machine runs fast, results flow, you can rest. Its advice is to stay calm and humble while things go well.
-
-The Devil is the 6 that forgot the advice. The exchange still works, so nobody checks its terms any more. In the Instagram story, 6 is the moment Facebook invests: everything speeds up, and nobody reads the conditions. That’s the Devil in one line — a deal that pays, and small print you stopped reading.
+**15 — 1 + 5 = 6 — harmony regained, exchange.** Fifteen comes back to [6](/library/numerology/number-6/), the number of the Lovers — hence the familiar couple. Six is success running fast, and its advice is to stay calm and humble while things go well; the Devil is the 6 that forgot it. In the Instagram story, 6 is the moment Facebook invests: everything speeds up, and nobody reads the conditions any more. That’s the Devil in one line — a deal that pays, and small print you stopped reading.
 
 ## By element: Earth {#element}
 
-The Devil is an [Earth](/library/four-elements/earth-element/) card. Earth is matter, and whatever has value for you, money or sentimental. It’s the element of tenacity and endurance, and of stubbornness. Earth is what holds, and on this card holding is the whole subject: a job you keep because it pays, a habit you keep because it soothes, a relationship you keep because it’s familiar.
+The Devil is an [Earth](/library/four-elements/earth-element/) card: matter, and whatever has value for you, money or sentimental. Earth is tenacity and endurance — and stubbornness. It’s what holds, and here holding is the whole subject: the job you keep because it pays, the habit you keep because it soothes, the relationship you keep because it’s familiar.
 
-I often say of Earth that not all riches are gold. What chains you is usually something you value, and that is exactly why it’s hard to see it as a chain.
+I often say of Earth that not all riches are gold. What chains you is usually something you value, which is exactly why it’s hard to see it as a chain.
 
 ## By colours {#colours}
 
-[Black](/library/tarot-colours/black/) first, from edge to edge. In my colour grid, black is absence, void, heavy thoughts — and also reality, the bare thing without varnish. Then the fire: the torch and the man’s tail, orange and red, the colours of drive and of libido. Then the pale skin of the two people, the only soft tone on the card.
-
-Read the colours before the card and you already have: something real and heavy, a desire that keeps burning, and two people more exposed than trapped.
+[Black](/library/tarot-colours/black/) from edge to edge: in my colour grid, absence, void, heavy thoughts — and also reality, the bare thing without varnish. Then the fire of the torch and of the man’s tail, orange and red: drive, and libido. Then the pale skin of the two people, the only soft tone on the card. Read the colours before the card and you already have: something real and heavy, a desire that keeps burning, and two people more exposed than trapped.
 
 ## By astrology: Capricorn {#astrology}
 
-In the Golden Dawn tradition, the Devil belongs to [Capricorn](/library/astrology/capricorn/), the sign whose verb is “I use” and whose animal is the goat — the horns this creature wears. Capricorn is ambition, structure, work and the patience to climb. Well placed, it’s responsibility taken; badly placed, it’s the tool that became the master.
-
-That’s a useful way into this card. The Devil is rarely about evil; much more often it’s about something useful that took over. If astrology doesn’t speak to you, leave it aside: the number, the element and the colours already say all of this.
+In the Golden Dawn tradition, the Devil belongs to [Capricorn](/library/astrology/capricorn/): its verb is “I use”, its animal the goat — the horns this creature wears. Capricorn is ambition, structure and work; well placed, it’s responsibility taken, badly placed, the tool that became the master. A good way into a card that is rarely about evil, and far more often about something useful that took over. Optional, like every astrology lens.
 
 ## In a reading {#reading}
 
-Upright, the Devil talks about an attachment: to a job, a person, a habit, a screen, a picture of yourself. Every card has a plus and a minus, and the Devil’s plus is real — desire, ambition, appetite, the energy to want things. Its minus is when the wanting runs you. The question I ask is never “what’s wrong with you?” but “what are you holding that you could put down?” Sometimes the answer is the deck itself: if you pull cards every day about the same worry, take a break from your cards now and then.
+Upright, the Devil is an attachment: to a job, a person, a habit, a picture of yourself. Every card has a plus and a minus, and the Devil’s plus is real — desire, ambition, the energy to want things. Its minus is when the wanting runs you. So the question isn’t “what’s wrong with you?” but “what are you holding that you could put down?” Sometimes it’s the deck itself: if you pull cards every day about the same worry, take a break from your cards now and then.
 
-Reversed, the Devil is often the moment the chain starts to slip: you notice the loop and lift a hand to it. It can also be the same attachment in excess — doubling down, hiding it better, calling it a choice.
+Reversed, it’s often the chain starting to slip: you notice the loop and lift a hand to it. Or the same attachment in excess — doubling down, hiding it better, calling it a choice.
 
-Next to [the Lovers](/library/tarot-cards/the-lovers/), the Devil asks whether a choice is still a choice. Next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/) — a prisoner of yourself while you hold every tool — it says the same thing twice: you can take the blindfold off. Next to the [Four of Pentacles](/library/tarot-cards/four-of-pentacles/), it’s holding on to what you have so tightly that you can’t use it.
+Next to [the Lovers](/library/tarot-cards/the-lovers/), the Devil asks whether a choice is still a choice. Next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/) — a prisoner of yourself while you hold every tool — it says twice that the blindfold comes off. Next to the [Four of Pentacles](/library/tarot-cards/four-of-pentacles/), it’s holding on so tightly you can’t use what you have.
 
 {{< cards "ar06 sw08 pe04" >}}
 
-**The Devil shows you what holds you, and that the chain was never locked.** If the question is about a relationship or a job, I’ve written about [the Devil in love](/blog/devil-tarot-love/) and about [a job that holds you](/blog/devil-tarot-career/).
+**The Devil shows you what holds you, and that the chain was never locked.** For questions of love and work, I’ve written about [the Devil in a relationship](/blog/devil-tarot-love/) and about [a job that holds you](/blog/devil-tarot-career/).
 
 ## A reading, as an example {#example}
 
 Say someone sits down, tells you nothing, and draws the Devil next to the [Six of Cups](/library/tarot-cards/six-of-cups/).
 
-Lenses first. Numbers: 15 comes back to 6, and the Six of Cups is a 6 too — two kinds of harmony, one comfortable and one chained. Elements: Earth and Water, what holds and what you feel. Colours: the Devil’s black beside the warm yellow of the Six of Cups, something heavy next to something sweet and old, from childhood.
+Lenses first. Two sixes: 15 comes back to 6, like the Six of Cups — one harmony comfortable, one chained. Earth and Water: what holds and what you feel. The Devil’s black beside the warm yellow of the Six of Cups: something heavy next to something sweet and old, from childhood.
 
-The sentence you’d say out loud: “There’s something you started doing a long time ago because it kept you safe — a habit, a role in your family — and it still holds you, though it’s looser than you think.”
+The sentence you’d say out loud: “Something you started long ago because it kept you safe — a habit, a role in your family — still holds you, and it’s looser than you think.”
 
-Then check it. Ask whether that speaks to something they do without deciding to, and let them name it; you don’t need to guess. If they say no, it’s a miss, and you write it down as one. About one reading in ten misses, by my own count, and there’s no shame in it.
+Then check it. Ask whether that speaks to something they do without deciding to, and let them name it. If they say no, write it down as a miss. About one reading in ten misses, by my own count, and there’s no shame in it.

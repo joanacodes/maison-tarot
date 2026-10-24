@@ -58,7 +58,7 @@ The risk of 9 is stopping a hundred metres from the line — or, here, standing 
 
 [Fire](/library/four-elements/fire-element/) is the energy that motivates, the urge to begin. By the ninth wand, that urge has become endurance: nothing is being launched any more, something is being kept alight. Fire spreads fast when no one masters it; it also dies when no one tends it. This man tends it — perhaps too anxiously.
 
-Think of the Fire archetype, the teenager who believes they can do anything. Here they’ve grown up a little. They know things can burn, and they have the bandage to prove it.
+The teenager I use as the Fire archetype has grown up a little on this card. They know now that things can burn, and they have the bandage to prove it.
 
 ## By colours {#colours}
 

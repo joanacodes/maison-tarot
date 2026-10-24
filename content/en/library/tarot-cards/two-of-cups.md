@@ -1,7 +1,6 @@
 ---
 title: 'Two of Cups — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'Two of Cups: what’s on the card, then the number, the element (Water),
-  the colours and Venus in Cancer. Read the card without having learned it.'
+description: 'Two of Cups in the Rider-Waite-Smith tarot: two people pledge their cups under a winged lion. Read the bond through number two, Water, colour and Venus in Cancer.'
 translationKey: card-cu02
 type: cards
 navTitle: Two of Cups
@@ -28,12 +27,11 @@ related:
 - /library/astrology
 faq:
 - q: What does Two of Cups mean?
-  a: 'There isn’t one meaning to memorise: Two of Cups is read through its number
-    (two), its element (Water) and its colours. The page above lays them out one by
-    one.'
+  a: 'A bond chosen by both sides: a relationship, a friendship or a partnership in which the exchange goes both ways. The number two says a pact is being made; Water says it is a pact of the heart.'
 - q: What about Two of Cups reversed?
-  a: The same card, slowed down or in excess. Look first at what the card says upright,
-    then at what blocks or overflows.
+  a: 'The cups don’t quite meet. One person gives more than the other, a bond is cooling, or a commitment was made too fast; sometimes it is two people who still care, each waiting for the other to take the first step.'
+- q: What does Two of Cups mean in love?
+  a: 'Mutual attraction and a commitment taking shape, between equals. It describes the bond as it stands now, not a promise about how long it will last.'
 categories:
 - Cups
 tags:
@@ -44,28 +42,48 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-{{< todo >}}TO WRITE — describe Pamela Colman Smith’s drawing, detail by detail: figures, objects, posture, what’s missing.{{< /todo >}}
+Two young people stand face to face, in profile, on the same level ground. On the left, a woman in a long white gown and a pale blue mantle, a laurel wreath in her hair. On the right, a young man in a yellow tunic patterned with black, white sleeves, yellow hose and soft boots, with a crown of red roses. Each holds a golden cup, and their hands meet between the two cups.
+
+Above them rises a staff wound with two snakes — the caduceus of Hermes, the messenger — topped by a lion’s head with wide red wings. Behind, a green hill with a red-roofed house and a few trees, under a pale blue sky. No crowd, no witness, no priest. **Two cups at the same height, two people looking each other in the eye: the whole card is an exchange between equals.**
 
 ## By number: two {#number}
 
-**two — to bind, to weigh, to cooperate.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**two — to bind, to weigh, to cooperate.** Two is the contract: two parties, one bond, and the conditions that come with it. In the Two of Cups the contract is emotional. A love that becomes mutual, a friendship that’s chosen, a partnership in which people like each other as well as work together.
+
+The advice of [number two](/library/numerology/number-2/), in my notes: read the contract, weigh the pros and cons. In love that sounds unromantic, and yet it’s what the card shows — they look at each other before they drink. In the Instagram story, 2 is the founders signing with their first investors: the first time you can lose something other than your own time. The minus of 2 is stubbornness, the ego that waits for the other person to come all the way across.
 
 ## By element: Water {#element}
 
-{{< todo >}}TO WRITE — what [Water](/library/four-elements/water-element/) brings here: what the card is about.{{< /todo >}}
+[Water](/library/four-elements/water-element/) makes this 2 about feeling rather than business. The cups are full and nothing spills: calm water, emotions settled enough to be shared. That’s the difference from the Ace, where the water ran everywhere. Here it has found someone.
+
+Water also seeps in. A bond like this one is fed by small daily things and damaged the same way: a resentment nobody mentions does more harm, over the years, than one loud argument. The card shows the pledge. Looking after it is another story.
 
 ## By colours {#colours}
 
-{{< todo >}}TO WRITE — the dominant colours and what they say before the card ([the colour grid](/library/tarot-colours/)).{{< /todo >}}
+The background is a wide pale [blue](/library/tarot-colours/blue/): emotions, water, vitality — the whole scene sits inside a feeling. The woman’s white gown says peace and sincerity. The man’s yellow says joy, optimism, self-expression. Above them, the lion’s head and its wings are [red](/library/tarot-colours/red/): passion, impulse, strength. Behind, the green hill: growth, something that can live.
+
+Read the colours before the card: calm feeling, joy, honesty — and a passion hovering over the two of them, held up by the messenger’s staff rather than let loose.
 
 ## By astrology: Venus in Cancer {#astrology}
 
-{{< todo >}}TO WRITE — Venus in Cancer, in the Golden Dawn tradition; what it adds, and whether it’s worth keeping ([astrology](/library/astrology/)).{{< /todo >}}
+In the Golden Dawn tradition, the Two of Cups is the first decan of Cancer, ruled by Venus, and its title is the Lord of Love. Venus says what you love and how you love. [Cancer](/library/astrology/cancer/) says *I feel*: the nurturer, the one who makes a home liveable. Together: a love that wants a home, care given and received, attachment more than conquest.
+
+It’s a pleasant layer, and an optional one. If astrology isn’t one of your lenses, the number and the element have already said it.
 
 ## In a reading {#reading}
 
-{{< todo >}}TO WRITE — upright, reversed, with neighbouring cards. One thing to remember, in bold.{{< /todo >}}
+Upright, the Two of Cups is **a bond chosen by both sides.** A relationship starting or deepening, a reconciliation, a friendship that becomes important, a business partner you trust. It isn’t only romance: two colleagues who work well together can draw it. What matters is that the exchange goes both ways.
+
+Reversed, the cups don’t quite meet. One person gives more than the other, a bond is cooling, or the pledge was made too fast — before anyone read the contract. Sometimes it’s a quarrel between two people who still care, each waiting for the other to take the first step.
+
+Next to [the Lovers](/library/tarot-cards/the-lovers/), the bond turns into a choice that commits more than a mood. Next to the [Ten of Cups](/library/tarot-cards/ten-of-cups/), it’s where the bond can lead: a household, a family. Next to the [Three of Swords](/library/tarot-cards/three-of-swords/), the bond is real and something has cut into it — a word, a third person, a hurt nobody has talked about. I go into the heart side of this card in [the Two of Cups in love](/blog/two-of-cups-tarot-love/).
+
+{{< cards "ar06 cu10 sw03" >}}
 
 ## A reading, as an example {#example}
 
-{{< todo >}}TO WRITE — a real anonymised spread: lenses first, the sentence said, what the person confirmed.{{< /todo >}}
+Say someone sits down, tells you nothing, and draws the Two of Cups next to the [Eight of Pentacles](/library/tarot-cards/eight-of-pentacles/). Lenses first. Two then eight: a bond, then mastery and steady effort. Water then Earth: a feeling that wants to become something concrete. Colours: the soft blue of the Two beside the yellow pentacles and the red hose of a craftsman bent over his bench.
+
+The sentence I’d say out loud: “There’s someone you work well with — a colleague, a partner, maybe a friend — and what you share is turning into something you build together.” I’d add that it isn’t necessarily a romance, because the Two of Cups tempts everyone to hear love.
+
+Then I check: “Does someone come to mind?” I let the person answer and don’t supply the name. If nothing fits, it’s a miss, and it goes in my notebook as one.

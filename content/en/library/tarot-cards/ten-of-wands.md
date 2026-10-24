@@ -58,7 +58,7 @@ My note on this card: keep the creative energy, without overloading. Every wand 
 
 [Fire](/library/four-elements/fire-element/) creates fast and spreads fast. That speed is what makes the Wands thrilling at the start — the spark, the first plans, the race — and what makes the Ten heavy: everything you lit kept burning, and now all of it needs tending. Fire forges tools; on this card, the tools have become the load.
 
-The Fire archetype is the teenager who believes they can do anything. The Ten is what happens when they try to do everything, at the same time, by themselves.
+Fire never says no on its own. Every wand in this bundle is a yes that nobody went back to check.
 
 ## By colours {#colours}
 

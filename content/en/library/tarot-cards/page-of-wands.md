@@ -1,7 +1,6 @@
 ---
 title: 'Page of Wands — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'Page of Wands: what’s on the card, then the number, the element (Earth
-  of Fire), the colours. Read the card without having learned it.'
+description: 'Page of Wands: a young man in a desert gazes at the shoots on his wand. Read a new urge, a message and the start of an apprenticeship through rank, Fire and colour.'
 translationKey: card-wapa
 type: cards
 navTitle: Page of Wands
@@ -28,12 +27,11 @@ related:
 - /library/astrology
 faq:
 - q: What does Page of Wands mean?
-  a: 'There isn’t one meaning to memorise: Page of Wands is read through its number
-    (the Page), its element (Earth of Fire) and its colours. The page above lays them
-    out one by one.'
+  a: 'A new enthusiasm and the start of an apprenticeship: an idea you have just fallen for, a course you want to begin, news that lights something up. Read it through its rank (the Page, the student), its element (Earth of Fire, the spark touching the ground) and its yellow.'
 - q: What about Page of Wands reversed?
-  a: The same card, slowed down or in excess. Look first at what the card says upright,
-    then at what blocks or overflows.
+  a: 'The spark doesn’t catch: projects started and dropped within a week, a message that doesn’t come, or a lot of talk about the idea and no hand on the tool. The question becomes which one wand you will actually plant.'
+- q: Is the Page of Wands a person or a situation?
+  a: 'It can be a young person full of ideas around you, but more often it describes a state: you, at the beginning of learning something. The cards around it usually tell you which.'
 categories:
 - Wands
 tags:
@@ -43,24 +41,44 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-{{< todo >}}TO WRITE — describe Pamela Colman Smith’s drawing, detail by detail: figures, objects, posture, what’s missing.{{< /todo >}}
+A young man stands in a desert, seen in profile, holding a tall wand upright with both hands. He isn’t using it. He looks up at its top, where green shoots are coming out, the way you look at something you’ve just been given.
+
+His hat is pale, with a red-orange feather that rises like a flame. His yellow tunic is patterned with black salamanders — the lizard that, in old stories, lived in fire. A yellow-green cloak hangs from his shoulders, and his yellow boots have tops cut like flames. Around him: sand, orange pyramids on the right, a pale blue sky.
+
+He stands still. No horse, no road, no one else; the desert is empty and he isn’t walking anywhere yet. **The whole card is a fascination: a young person, and a tool they haven’t learned to use.**
 
 ## By number: the Page {#number}
 
-**the Page — the student, the message, the new impulse.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**the Page — the student, the message, the new impulse.** The [Page](/library/numerology/page/) is young without being a child: they already hold their house’s tool, and look at it as something they don’t yet know how to use. Its advice: stay a student. The Page who thinks they’re a King fails the lesson; the Page who accepts not knowing becomes a Knight.
+
+In the Wands, what the Page studies is an urge. Think of the first week of a new hobby: the guitar bought on impulse, the pottery class booked, the sketchbook still clean. The excitement is real, the skill isn’t there yet, and both are fine. Pages are also messengers, so this one can be news that lights something up — an invitation, an idea someone throws your way.
 
 ## By element: Fire {#element}
 
-{{< todo >}}TO WRITE — what [Fire](/library/four-elements/fire-element/) brings here: what the card is about.{{< /todo >}}
+Wands are [Fire](/library/four-elements/fire-element/): creation, impulse, the urge to begin. In this deck’s system the Page is Earth of Fire — the moment the spark touches the ground. [Earth](/library/four-elements/earth-element/) is matter, value, perseverance, and its energy is mostly feminine, which is why this Page carries a feminine energy in a masculine suit.
+
+So the card asks something concrete: what will you do with the spark? Fire on its own throws the wands across the sky — that’s the Eight. Earth of Fire plants one, and stands there watching it grow.
 
 ## By colours {#colours}
 
-{{< todo >}}TO WRITE — the dominant colours and what they say before the card ([the colour grid](/library/tarot-colours/)).{{< /todo >}}
+Yellow dominates — the tunic, the boots, the cloak: joy, optimism, self-expression, the inner child. It’s a young colour on a young figure. The desert and the pyramids are [orange](/library/tarot-colours/orange/): creativity, and also aridity. The ground around him is dry, and nothing grows there yet except his wand.
+
+That’s why the small [green](/library/tarot-colours/green/) shoots at the top matter so much: birth, growth, the one living thing in the landscape, and exactly where he’s looking. Before the card’s name, the colours give you a joyful beginner, a creative urge, and dry ground still to bring to life.
 
 ## In a reading {#reading}
 
-{{< todo >}}TO WRITE — upright, reversed, with neighbouring cards. One thing to remember, in bold.{{< /todo >}}
+Upright, the Page of Wands is a new enthusiasm: a project you’ve just fallen for, a course you want to start, news that sparks something. It can be a young person around you, full of ideas; more often it’s a state — you, at the beginning of an apprenticeship. **Enthusiasm is the right start; it isn’t yet the skill.**
+
+Reversed, the spark doesn’t catch: ideas started and dropped after a week, a message that never arrives, a drawer full of beginnings. Or the excess — the Page who talks about the project to everyone and never picks up the tool. Then the question is which single wand you’re going to plant.
+
+Next to the [Ace of Wands](/library/tarot-cards/ace-of-wands/), it’s the same branch twice: the Ace is the spark handed over, the Page is the person who receives it. Next to [the Fool](/library/tarot-cards/the-fool/), two young figures looking up rather than at the ground — lovely energy, and someone should check the path. Next to the [Knight of Wands](/library/tarot-cards/knight-of-wands/), the student gets on the horse: the idea is about to become action, perhaps faster than they’re ready for.
+
+{{< cards "waac ar00 wakn" >}}
 
 ## A reading, as an example {#example}
 
-{{< todo >}}TO WRITE — a real anonymised spread: lenses first, the sentence said, what the person confirmed.{{< /todo >}}
+Say someone tells you nothing, and the Page of Wands comes out next to the [Four of Cups](/library/tarot-cards/four-of-cups/). Lenses first: the Page then 4 — the student, then stability that can turn into being stuck; Fire then Water — an urge, then a mood; a bright yellow figure, then a young man sitting under a tree, arms crossed, ignoring the cup a hand holds out to him from a cloud.
+
+Out loud, it could sound like this: “Something new is trying to get your attention, and part of you is still sitting with its arms crossed. The urge is there; you haven’t let it in yet.”
+
+Then check: “Has an idea or an offer come up lately that you’ve been ignoring?” If they say no, leave it there and note the miss. If they say yes, let them tell you what it is. You can read the card without knowing.

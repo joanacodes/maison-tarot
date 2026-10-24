@@ -54,7 +54,7 @@ The whole drawing says one thing: **a balance kept by refusing to look.**
 
 ## By element: Air {#element}
 
-[Air](/library/four-elements/air-element/) is the element that decides, because it sees everything at once. In the Two of Swords, Air is turned against itself: the mind is so busy weighing that it can’t cut. The person often knows both options perfectly well; it’s that every new thought balances out the one before. Air can block or obsess, and this is the block — a decision held in mid-air, arms crossed.
+[Air](/library/four-elements/air-element/) is the element that decides, because it sees everything at once. In the Two of Swords, Air is turned against itself: the mind is so busy weighing that it can’t cut. The person often knows both options perfectly well; the trouble is that every new thought balances out the one before. Air can block or obsess, and this is the block — a decision held in mid-air, arms crossed.
 
 ## By colours {#colours}
 

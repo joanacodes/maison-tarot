@@ -1,7 +1,6 @@
 ---
 title: 'Three of Cups — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'Three of Cups: what’s on the card, then the number, the element (Water),
-  the colours and Mercury in Cancer. Read the card without having learned it.'
+description: 'Three of Cups in the Rider-Waite-Smith tarot: three women dance with raised cups over a harvest. Read it through number three, Water and colour: friendship that works.'
 translationKey: card-cu03
 type: cards
 navTitle: Three of Cups
@@ -28,12 +27,11 @@ related:
 - /library/astrology
 faq:
 - q: What does Three of Cups mean?
-  a: 'There isn’t one meaning to memorise: Three of Cups is read through its number
-    (three), its element (Water) and its colours. The page above lays them out one
-    by one.'
+  a: 'A result celebrated with other people: friendship, a reunion, a team proud of its work, relief shared after a hard stretch. The number three says something works; Water says it is a matter of the heart.'
 - q: What about Three of Cups reversed?
-  a: The same card, slowed down or in excess. Look first at what the card says upright,
-    then at what blocks or overflows.
+  a: 'The circle breaks or overflows: a party used to avoid something, a group in which someone feels left out, a friend who talks behind your back. Sometimes it is three people where there should be two.'
+- q: What does Three of Cups mean in love?
+  a: 'It usually points to the friends around a relationship rather than to the couple itself: the people you celebrate with. Next to a heavy Swords card, it can also mean a third person in the picture.'
 categories:
 - Cups
 tags:
@@ -44,28 +42,48 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-{{< todo >}}TO WRITE — describe Pamela Colman Smith’s drawing, detail by detail: figures, objects, posture, what’s missing.{{< /todo >}}
+Three young women dance in a circle, each raising a golden cup above her head. The one on the left wears white, her dark curly hair loose, and turns towards us. The one in the middle has her back to us, wrapped in a long red cloak, and lifts her cup highest. The one on the right wears a brown tunic over a white skirt, leaves in her hair, a bunch of grapes in her lowered hand. Their arms cross and touch; you can’t quite tell where one ends and the next begins.
+
+At their feet lies the harvest: a pumpkin, grapes, vine leaves, and on the left a bush heavy with orange fruit. Behind them, a plain pale blue sky. No house, no table, no audience — the celebration is for the three of them. **It’s a party with nothing to prove: the harvest is in, and they’re raising a cup to it.**
 
 ## By number: three {#number}
 
-**three — to create, to celebrate, the first result.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**three — to create, to celebrate, the first result.** Three is the machine running: after the bond of 2, something works and it shows. In my notes, 3 is also “siblings on good terms”, and that’s this card exactly — people who get on, a group that clicks. In the Instagram story, 3 is the launch that works: people sign up, post, come back.
+
+The advice of [number three](/library/numerology/number-3/) is to finish a project before starting another. At a party that sounds odd, and yet the Three of Cups is the moment ideas fly round the table at midnight — a trip, a business, a band. The minus of 3 is exactly that: the next thing started before this one is finished, and the loneliness, sometimes the betrayal, that follows when the group scatters.
 
 ## By element: Water {#element}
 
-{{< todo >}}TO WRITE — what [Water](/library/four-elements/water-element/) brings here: what the card is about.{{< /todo >}}
+[Water](/library/four-elements/water-element/) makes this 3 a matter of the heart rather than the purse: the result being celebrated is emotional. A friendship that has lasted, a reunion, a group that held together through something hard, a recovery toasted with the people who were there.
+
+The water is moving — they’re dancing — but it moves together, in a circle. That’s the Water archetype at its best: the warm people you feel at home with. Its shadow isn’t far. When nobody is quite aligned, emotions spill over everyone, and the party becomes the place where it all comes out.
 
 ## By colours {#colours}
 
-{{< todo >}}TO WRITE — the dominant colours and what they say before the card ([the colour grid](/library/tarot-colours/)).{{< /todo >}}
+The pale blue sky frames the scene: emotions, vitality. In the middle, the big [red](/library/tarot-colours/red/) cloak — passion, action, impulse: the energy of the dance. White on the left: innocence, peace. On the right and at their feet, the brown tunic, the orange pumpkin and fruit: in my grid, brown is value earned and worked earth ([gold and brown](/library/tarot-colours/gold-and-brown/)), and orange is creativity. The cups are yellow-gold: joy.
+
+Read the colours before the card: joy, movement, warmth, and a harvest on the ground. You already know it’s a celebration of something that grew.
 
 ## By astrology: Mercury in Cancer {#astrology}
 
-{{< todo >}}TO WRITE — Mercury in Cancer, in the Golden Dawn tradition; what it adds, and whether it’s worth keeping ([astrology](/library/astrology/)).{{< /todo >}}
+In the Golden Dawn tradition, the Three of Cups is the second decan of Cancer, ruled by Mercury; its title is the Lord of Abundance. [Mercury](/library/astrology/mercury/) is how you think and speak. Cancer is *I feel*, the sign of the home. Together: the conversation of people who feel at home with each other — news shared, stories told, laughter round a table that has lasted all evening.
+
+Optional, as always. If astrology isn’t one of your lenses, you lose nothing by leaving it aside.
 
 ## In a reading {#reading}
 
-{{< todo >}}TO WRITE — upright, reversed, with neighbouring cards. One thing to remember, in bold.{{< /todo >}}
+Upright, **the Three of Cups is a result you celebrate with other people.** Friendship, a reunion, a wedding or a birthday, a team proud of what it did, the relief after a hard stretch shared with the people who helped. It points to people more than to an event.
+
+Reversed, the circle breaks or overflows. Too much party: the celebration that becomes a way of not looking at something. Or a group in which someone feels left out, a friend who talks behind your back — the minus of 3, betrayal, sits right here. Sometimes it’s three people where there should be two.
+
+Next to the [Three of Swords](/library/tarot-cards/three-of-swords/), you see the other side of 3: the circle in which three hearts can also break (in my notes, that card is also a blood pact). Next to the [Four of Wands](/library/tarot-cards/four-of-wands/), the celebration turns into foundations — a home, a marriage, building a family. Next to the [Five of Cups](/library/tarot-cards/five-of-cups/), the friends from the good times are the ones you’ll need for the hard one.
+
+{{< cards "sw03 wa04 cu05" >}}
 
 ## A reading, as an example {#example}
 
-{{< todo >}}TO WRITE — a real anonymised spread: lenses first, the sentence said, what the person confirmed.{{< /todo >}}
+Say someone sits down, tells you nothing, and draws the Three of Cups next to the [Three of Pentacles](/library/tarot-cards/three-of-pentacles/). Lenses first. Two threes: the machine is running, twice. Water then Earth: something felt becoming something built. Colours: the red, white and brown of the dance beside the grey stone of a church, where three people are discussing a piece of work.
+
+The sentence I’d say out loud: “There’s a group of people you love being with, and you’re about to make something with them — a project, an event, maybe a small business.” Then the advice of 3, gently: finish what you start with them before adding the next idea.
+
+To check, I ask who that group might be and let the person answer. If the reply is “I’ve been on my own lately”, that sentence missed, and I write it down as a miss.

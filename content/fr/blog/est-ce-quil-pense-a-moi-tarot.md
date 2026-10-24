@@ -35,7 +35,7 @@ Et cela vous coûte la version honnête du tirage, qui est bien meilleure.
 
 Vous. Là où vous en êtes aujourd’hui : pas l’histoire que vous vous racontez, mais les cartes sur la table, sans que vous m’ayez rien dit. Ce à quoi vous vous accrochez. La décision que vous repoussez. Ce que vous appelez « attendre » et qui est en réalité autre chose.
 
-Ce tirage-là n’a pas de Cavalier de Coupes qui revient au galop. Il a une personne, assise devant une image, qui voit où elle en est vraiment. C’est moins agréable sur un après-midi, et bien plus utile sur une vie. Et il ne demande l’accord de personne : il ne parle que de vous.
+Ce tirage-là n’a pas de Cavalier de Coupes qui revient au galop. Il montre une personne, assise devant une image, qui voit où elle en est vraiment. C’est moins agréable sur un après-midi, et bien plus utile sur une vie. Et il ne demande l’accord de personne : il ne parle que de vous.
 
 ## Si vous êtes en plein dedans {#en-plein-dedans}
 

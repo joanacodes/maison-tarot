@@ -25,7 +25,7 @@ C’est tout l’effet thérapeutique, d’après mon expérience : nommer, et a
 
 Il ne peut pas vous dire pourquoi vous ressentez ce que vous ressentez. Quand quelqu’un affirme « ça vient de votre enfance » ou « c’est à cause de votre mère », il passe de la lecture à l’interprétation d’une vie qu’il ne connaît pas, et se trompe souvent d’une façon qui laisse des traces. Je ne fournis pas de causes : je reflète ce qui est sur la table, et je demande ce que la personne y voit.
 
-Il ne peut pas porter une crise. Quelqu’un en détresse aiguë, pas triste ni bloqué mais là où le sol a disparu, n’a pas besoin d’une image : il a besoin d’une personne formée pour être là, et peut-être d’un médecin. Dans cet état, un tirage fait l’une de deux choses : il tombe juste et alourdit tout, ou il tombe à côté et confirme que rien n’aide. Les deux arrivent. C’est pour ça que je ne lis plus dans ces moments-là.
+Il ne peut pas porter une crise. Quelqu’un en détresse aiguë, pas triste ni bloqué mais là où le sol a disparu, n’a pas besoin d’une image : il a besoin d’une personne formée pour être là, et peut-être d’un médecin. Dans cet état, de deux choses l’une : le tirage tombe juste et alourdit tout, ou il tombe à côté et confirme que rien n’aide. Les deux arrivent. C’est pour ça que je ne lis plus dans ces moments-là.
 
 Il ne remplace ni un diagnostic, ni un traitement, ni un professionnel. Parfois c’est psychologique, parfois c’est plus que ça, et qui lit honnêtement sait où s’arrête sa compétence. La mienne s’arrête à l’image.
 

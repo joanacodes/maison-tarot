@@ -1,7 +1,6 @@
 ---
 title: 'Seven of Cups — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'Seven of Cups: what’s on the card, then the number, the element (Water),
-  the colours and Venus in Scorpio. Read the card without having learned it.'
+description: 'Seven of Cups in the Rider-Waite-Smith tarot: seven cups of dreams float on clouds before a dark figure. Read it through seven, Water, colour and Venus in Scorpio.'
 translationKey: card-cu07
 type: cards
 navTitle: Seven of Cups
@@ -28,12 +27,11 @@ related:
 - /library/astrology
 faq:
 - q: What does Seven of Cups mean?
-  a: 'There isn’t one meaning to memorise: Seven of Cups is read through its number
-    (seven), its element (Water) and its colours. The page above lays them out one
-    by one.'
+  a: 'Too many choices, all still imaginary: wishes, fears and plans floating on clouds. The number seven says it is time to assess before acting, Water says the options are emotional, and the drawing asks which cup is real.'
 - q: What about Seven of Cups reversed?
-  a: The same card, slowed down or in excess. Look first at what the card says upright,
-    then at what blocks or overflows.
+  a: 'The clouds clear and one option becomes obvious, or the choice frightens so much that the person freezes or grabs the shiniest cup to stop thinking about it. Either way, a decision is close.'
+- q: What does Seven of Cups mean in love?
+  a: 'Several possibilities, or an idealised picture of someone that may not match the real person. It asks you to tell the fantasy from what is actually on offer.'
 categories:
 - Cups
 tags:
@@ -44,28 +42,48 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-{{< todo >}}TO WRITE — describe Pamela Colman Smith’s drawing, detail by detail: figures, objects, posture, what’s missing.{{< /todo >}}
+A man stands with his back to us, a black silhouette, one arm reaching out towards seven golden cups floating on grey clouds. Each cup holds something different. In the top row: a head with curly hair; a figure under a white veil, glowing with red light; a snake rising over the rim. In the bottom row: a tower on a rock; a heap of jewels, with a chain hanging over the side; a laurel wreath, with a small skull drawn on the cup beneath it; and a blue dragon.
+
+The cups don’t stand on anything. They float on clouds against a pale blue sky, and none of them is on the ground where he stands. We don’t see his face, so we don’t know whether he’s dazzled, tempted or afraid. **Seven possibilities, all in the air, and one person who hasn’t chosen.**
 
 ## By number: seven {#number}
 
-**seven — doubt, assessment, patience.** {{< todo >}}TO WRITE — what the number does to this card, with an example everyone knows. Link to [numbers](/library/numerology/).{{< /todo >}}
+**seven — doubt, assessment, patience.** Seven is analysis: you look at what you have before you act. It’s negotiation, reflection, the harvest weighed. In my notes, the Seven of Cups is indecision — too many choices — which is what seven looks like when the analysis never ends.
+
+The advice of [number seven](/library/numerology/number-7/) is the one this card needs most: everything is temporary, and the situation you’re in will move whatever you do. Not choosing is also a choice; it lets time choose for you. In the Instagram story, 7 is the negotiating table where the company decided what it would become — an advertising platform, among all the possible versions of itself.
 
 ## By element: Water {#element}
 
-{{< todo >}}TO WRITE — what [Water](/library/four-elements/water-element/) brings here: what the card is about.{{< /todo >}}
+[Water](/library/four-elements/water-element/) makes the seven choices emotional rather than practical. These aren’t options on a spreadsheet; they’re wishes, fears and fantasies — what you’d love to have, what you’re afraid of becoming, what you imagine other people have. Water reflects, and you can mistake a reflection for the thing itself.
+
+That’s Water without a riverbed: emotions that haven’t found a direction yet go everywhere at once. The card doesn’t say the wishes are bad. It says they’re still on the clouds, and you can’t drink from a cloud.
 
 ## By colours {#colours}
 
-{{< todo >}}TO WRITE — the dominant colours and what they say before the card ([the colour grid](/library/tarot-colours/)).{{< /todo >}}
+The pale blue sky is emotion again, and the [grey](/library/tarot-colours/grey/) of the clouds is neutrality, no particular will — which is exactly the man’s problem. The cups are gold: value, or what looks like it. The man himself is [black](/library/tarot-colours/black/) from head to foot: absence, void, but also reality. He’s the only real thing in the picture, and he has no colour at all.
+
+Then the little bursts: the red glow around the veiled figure (passion, impulse), the green wreath (growth, success), the bright jewels. Read the colours before the card: plenty of colour on the clouds, none on the person.
 
 ## By astrology: Venus in Scorpio {#astrology}
 
-{{< todo >}}TO WRITE — Venus in Scorpio, in the Golden Dawn tradition; what it adds, and whether it’s worth keeping ([astrology](/library/astrology/)).{{< /todo >}}
+In the Golden Dawn tradition, the Seven of Cups is the third decan of Scorpio, ruled by Venus, and its title says it all: the Lord of Illusionary Success. [Venus](/library/astrology/venus/) is what you love and how you love; [Scorpio](/library/astrology/scorpio/) is *I desire*. Together: desire doubled — wanting, and wanting more, and imagining it all before anything has happened.
+
+If astrology is one of your lenses, it fits the card closely. If not, the drawing already says it.
 
 ## In a reading {#reading}
 
-{{< todo >}}TO WRITE — upright, reversed, with neighbouring cards. One thing to remember, in bold.{{< /todo >}}
+Upright, **the Seven of Cups is too many choices, and none of them on the ground yet.** Several options, several wishes, daydreams, projects that live better in the head than in life. Sometimes one of the cups is a real opportunity; the card asks you to tell which.
+
+Reversed, the clouds clear. Either the person finally sees which cup matters and lets the others go — a decision is coming. Or, slowed down, the choice is so frightening that they freeze, or pick the shiniest cup to stop thinking about it.
+
+Next to the [Two of Swords](/library/tarot-cards/two-of-swords/), the indecision is in the head as well as the heart: a blindfold, crossed swords, nobody moving. Next to [the Moon](/library/tarot-cards/the-moon/), illusion is doubled, so check before you believe. Next to the [Eight of Cups](/library/tarot-cards/eight-of-cups/), the person stops staring at the seven cups and walks away to look for something else.
+
+{{< cards "sw02 ar18 cu08" >}}
 
 ## A reading, as an example {#example}
 
-{{< todo >}}TO WRITE — a real anonymised spread: lenses first, the sentence said, what the person confirmed.{{< /todo >}}
+Say someone sits down, tells you nothing, and draws the Seven of Cups next to the [Ace of Swords](/library/tarot-cards/ace-of-swords/). Lenses first. Seven then one: a long assessment, then a beginning. Water then Air: wishes, then a clear decision. Colours: the cups on grey clouds, then a single upright sword, held by a hand from a cloud, with a crown at its tip.
+
+The sentence I’d say out loud: “You’ve been holding too many options in your head for a while, and one of them is about to become obvious. You’ll have to let the others go.”
+
+To check, I ask: “How many things are you hesitating between at the moment?” If the person laughs and gives a number, it lands. If they say their life is quite settled, it’s a miss, and I note it.

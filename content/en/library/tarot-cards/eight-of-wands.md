@@ -60,7 +60,7 @@ I also read 8 as a gate between what you can’t touch and what you can. Here yo
 
 [Fire](/library/four-elements/fire-element/) is creation, impulse, and above all speed — it spreads fast when no one masters it. The Eight of Wands is that one property on its own: no figure, no flame, only things travelling.
 
-A Fire card with no one at the controls asks a plain question: who decides where this goes? The Fire archetype is the teenager who believes they can do anything. On this card, they’ve already thrown everything into the air.
+A Fire card with no one at the controls asks a plain question: who decides where this goes? On this card, the restless teenager of the suit — the one who believes anything is possible — has already thrown everything into the air.
 
 ## By colours {#colours}
 

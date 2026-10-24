@@ -7,7 +7,7 @@ date: 2026-09-11
 categories: ["Ideas we refuse"]
 tags: ["curse removal scam", "tarot scam", "psychic fraud", "protection"]
 image: "covers/lift-the-curse-scam.jpg"
-imageAlt: "A folded banknote under a candle on a dark table"
+imageAlt: "A folded banknote on a bare wooden table beside a closed tarot deck"
 imagePrompt: "A folded banknote lying on a bare wooden table beside a closed tarot deck. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "There is no curse. There has never been a curse. The scam works by finding one, selling its removal, and inventing a reason the removal must be repeated. It targets people in grief or crisis because they’re the ones who want something to be the explanation. Here’s the script, the tells, and the only correct response, which is to walk away."
 ---
