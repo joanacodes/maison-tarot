@@ -64,13 +64,13 @@ Acheter d’autres jeux. Un deuxième jeu vous apprend un deuxième style de des
 
 Se tirer les cartes plusieurs fois par jour. Une lecture pour un inconnu vous en apprend plus que vingt sur vos propres inquiétudes.
 
-Les livres aident pour les clés de lecture : celui de Corrine Kenner m’a été utile pour les nombres. Mais [ce qu’un livre ne peut pas vous donner](/fr/blog/apprendre-le-tarot-dans-un-livre/), c’est le moment où vous dites quelque chose de vrai sur quelqu’un et où vos propres mots vous surprennent. C’est pour ce moment-là que j’enseigne.
+Les livres aident pour les clés de lecture ; pour les nombres, je conseille le livre de tarot de Corrine Kenner. Mais [ce qu’un livre ne peut pas vous donner](/fr/blog/apprendre-le-tarot-dans-un-livre/), c’est le moment où vous dites quelque chose de vrai sur quelqu’un et où vos propres mots vous surprennent. C’est pour ce moment-là que j’enseigne.
 
 ## Quand peut-on dire qu’on « sait » ? {#quand-on-sait}
 
 Honnêtement, jamais tout à fait. À mon propre décompte, environ une lecture sur dix rate encore chez moi, et j’apprends toujours de celles-là.
 
-Une ligne d’arrivée plus utile : vous lisez une carte sans tendre la main vers le livre, vous pouvez dire « celle-là est ratée » sans vous crisper, et vous y prenez plaisir. La plupart des gens qui pratiquent quelques fois par semaine y arrivent en quelques mois, pas en quelques années.
+Une ligne d’arrivée plus utile : vous lisez une carte sans tendre la main vers le livre, vous pouvez dire « celle-là est ratée » sans vous crisper, et vous y prenez plaisir. D’après ce que j’ai vu, ceux qui pratiquent quelques fois par semaine y arrivent en quelques mois, pas en quelques années.
 
 ## Commencer aujourd’hui {#commencer-aujourd-hui}
 

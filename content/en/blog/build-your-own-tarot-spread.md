@@ -33,7 +33,7 @@ Two rules keep positions kind and useful. Make each one about the person in fron
 
 ## Question 3: how many cards, and in what shape? {#shape}
 
-As few as the question needs. One card answers one thing. Three hold a situation with something stuck in it, which is why I start people on [three cards in the present](/blog/three-card-tarot-spread/). Five give room for a real crossroads. Beyond seven, most beginners stop reading and start listing.
+As few as the question needs. One card answers one thing. Three hold a situation with something stuck in it, which is why, after a few weeks of one card a day, I move people on to [three cards in the present](/blog/three-card-tarot-spread/). Five give room for a real crossroads. Beyond seven, most beginners stop reading and start listing.
 
 Shape matters less than people think, but it does something. A row reads left to right, like a sentence. A cross puts one card at the centre and lets the others lean on it. A circle has no first card, which suits a question about something that keeps coming round.
 

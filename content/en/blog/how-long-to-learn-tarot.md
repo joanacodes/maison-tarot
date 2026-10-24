@@ -64,13 +64,13 @@ Buying more decks. A second deck teaches you a second art style, not a second sk
 
 Reading for yourself many times a day. You learn more from one reading for a stranger than from twenty for your own worries.
 
-Books help with the lenses: Corrine Kenner's tarot book was useful to me for the numbers. But [what a book can't give you](/blog/learn-tarot-from-a-book/) is the moment you say something true about a person and are surprised by your own words. That moment is why I teach.
+Books help with the lenses; for the numbers, I recommend Corrine Kenner's tarot book. But [what a book can't give you](/blog/learn-tarot-from-a-book/) is the moment you say something true about a person and are surprised by your own words. That moment is why I teach.
 
 ## When is tarot “learned”? {#learned}
 
 Honestly, never quite. By my own count, about one reading in ten still misses for me, and I still learn from those.
 
-A more useful finish line: you read a card without reaching for the book, you can say “that one's a miss” without flinching, and you enjoy it. Most people who practise a few times a week reach that within months, not years.
+A more useful finish line: you read a card without reaching for the book, you can say “that one's a miss” without flinching, and you enjoy it. In my experience, people who practise a few times a week get there within months, not years.
 
 ## Start today {#start-today}
 

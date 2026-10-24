@@ -1,6 +1,6 @@
 ---
 title: "When is a good time to get a tarot reading?"
-description: "The best time to get a tarot reading is when you’re steady, curious and free to disagree. Two good reasons to book one, the moments to wait, and a five-point check."
+description: "The best time to get a tarot reading is when you’re steady, curious and free to disagree. Two good reasons to have one, the moments to wait, and a five-point check."
 translationKey: "post-when-to-get-a-tarot-reading"
 type: blog
 date: 2026-10-24
@@ -56,7 +56,7 @@ People ask me about full moons, Mercury retrograde, birthdays and the end of Oct
 
 But the date matters much less than the state you arrive in. A calm Tuesday beats an anxious full moon.
 
-## A five-point check before you book {#check}
+## A five-point check before you sit down {#check}
 
 1. You can say what you’d do if the reading told you nothing new.
 2. You haven’t had a reading on this question in the last month.
@@ -64,4 +64,4 @@ But the date matters much less than the state you arrive in. A calm Tuesday beat
 4. You’re ready to hear “that’s a miss” and not ask again.
 5. You plan to make the decision yourself afterwards.
 
-Four out of five, and it’s a good time. Take a break from your cards now and then; when you come back, you’ll hear them better. If you’d like to see a reading without booking anything, the [free events](/events/) are drawn at random, and there’s a short guide to [reading etiquette before, during and after](/blog/tarot-reading-etiquette/).
+Four out of five, and it’s a good time. Take a break from your cards now and then; when you come back, you’ll hear them better. I don’t sell readings; I give them away at the [free events](/events/), where the people read are drawn at random. Before you come, there’s a short guide to [reading etiquette before, during and after](/blog/tarot-reading-etiquette/).

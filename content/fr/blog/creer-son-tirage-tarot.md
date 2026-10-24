@@ -33,7 +33,7 @@ Deux règles gardent les positions utiles et bienveillantes. Chacune parle de la
 
 ## Question 3 : combien de cartes, et dans quelle forme ? {#la-forme}
 
-Le moins possible. Une carte répond à une chose. Trois cartes tiennent une situation où quelque chose coince — c’est pour ça que je fais commencer par [trois cartes au présent](/fr/blog/tirage-passe-present-futur/). Cinq laissent la place à un vrai carrefour. Au-delà de sept, la plupart des débutants arrêtent de lire et commencent à énumérer.
+Le moins possible. Une carte répond à une chose. Trois cartes tiennent une situation où quelque chose coince — c’est pour ça qu’après quelques semaines d’une carte par jour, je fais passer à [trois cartes au présent](/fr/blog/tirage-passe-present-futur/). Cinq laissent la place à un vrai carrefour. Au-delà de sept, la plupart des débutants arrêtent de lire et commencent à énumérer.
 
 La forme compte moins qu’on ne le croit, mais elle fait quelque chose. Une ligne se lit de gauche à droite, comme une phrase. Une croix met une carte au centre et appuie les autres sur elle. Un cercle n’a pas de première carte, ce qui convient aux questions qui reviennent sans cesse.
 

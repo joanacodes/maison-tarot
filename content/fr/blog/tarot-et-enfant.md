@@ -1,6 +1,6 @@
 ---
 title: "Peut-on tirer les cartes à un enfant ?"
-description: "Peut-on tirer les cartes à un enfant ? Jouer avec les images, oui ; un vrai tirage, c’est autre chose. Consentement, âge, cartes qui font peur, et jeux qui apprennent."
+description: "Peut-on tirer les cartes à un enfant ? Jouer avec les images, oui ; un vrai tirage, c’est autre chose. Consentement, âge, cartes qui font peur, jeux qui apprennent."
 translationKey: "post-tarot-for-a-child"
 type: blog
 date: 2026-10-24
