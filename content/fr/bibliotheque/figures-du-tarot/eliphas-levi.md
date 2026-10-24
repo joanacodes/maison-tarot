@@ -1,6 +1,6 @@
 ---
 title: "Éliphas Lévi : le mage qui a lié le tarot aux lettres hébraïques"
-description: "Éliphas Lévi, né Alphonse-Louis Constant, a lié les 22 arcanes majeurs aux lettres hébraïques dans les années 1850. Ce qu’il a fait, ce qu’il n’a pas fait, et pourquoi les tables diffèrent."
+description: "Éliphas Lévi a lié les 22 arcanes majeurs aux lettres hébraïques dans les années 1850. Ce qu’il a fait, ce qu’il n’a pas fait, et pourquoi les tables diffèrent."
 translationKey: "fig-eliphas-levi"
 type: library
 navTitle: "Éliphas Lévi"

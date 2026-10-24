@@ -1,6 +1,6 @@
 ---
 title: "Antoine Court de Gébelin : l’homme qui a rendu le tarot égyptien"
-description: "Antoine Court de Gébelin, le savant protestant qui a fait du tarot un livre égyptien en 1781 : ce qu’il a écrit, ce qu’a ajouté Mellet, et pourquoi l’Égypte n’y est pour rien."
+description: "Court de Gébelin a fait du tarot un livre égyptien en 1781. Qui était ce savant protestant, ce qu’a ajouté Mellet, et pourquoi l’Égypte n’y est pour rien."
 translationKey: "fig-court-de-gebelin"
 type: library
 navTitle: "Court de Gébelin"

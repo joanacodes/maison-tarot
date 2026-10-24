@@ -25,11 +25,11 @@ In the 20th century, tarot left the secret societies. In 1909 a London publisher
 
 ## 1909: a deck for everyone, from a secret society {#rws}
 
-In 1909, [Arthur Edward Waite](/library/tarot-figures/arthur-edward-waite/) (1857–1942), a writer on mysticism, commissioned the artist [Pamela Colman Smith](/library/tarot-figures/pamela-colman-smith/) (1878–1951) to design a pack of 78 tarot cards. William Rider & Son published it in London in December 1909, and Waite’s companion book, *The Key to the Tarot*, followed in 1910. Both had been members of the Golden Dawn, and its correspondences run through the deck: [Strength is VIII, Justice XI](/library/tarot-history/golden-dawn-tarot/).
+In 1909, the occultist [Arthur Edward Waite](/library/tarot-figures/arthur-edward-waite/) (1857–1942) commissioned the artist [Pamela Colman Smith](/library/tarot-figures/pamela-colman-smith/) (1878–1951) to design a pack of 78 tarot cards. William Rider & Son published it in London in December 1909, and Waite’s companion book, *The Key to the Tarot*, followed in 1910. Both had been members of the Golden Dawn, and its correspondences run through the deck: [Strength is VIII, Justice XI](/library/tarot-history/golden-dawn-tarot/).
 
 The Victoria and Albert Museum, which holds cards from the deck, describes the division of work. Waite gave Smith strict instructions for the major arcana. The minor arcana were entirely her design.
 
-**The scenes on the minor cards, which let you read the deck without memorising it, are Pamela Colman Smith’s.** Before 1909, most packs showed the minors as numbered pips, like the Tarot de Marseille. Hers show people: a figure walking away from eight cups, three women raising theirs, a man carrying ten heavy staves. I teach with this deck because of those pictures.
+**The scenes on the minor cards, which let you read the deck without memorising it, are Pamela Colman Smith’s.** In the Tarot de Marseille, the minors are pips: cups, coins, swords or batons arranged by number. Hers show people: a figure walking away from eight cups, three women raising theirs, a man carrying ten heavy staves. I teach with this deck because of those pictures.
 
 The deck still goes by several names. Many readers now say Rider-Waite-Smith, or Smith-Waite, to give the artist her due; “Rider” is the publisher. [Why it became the standard](/blog/rider-waite-smith-tarot/) has its own article.
 
@@ -39,21 +39,17 @@ The Golden Dawn’s tarot teaching didn’t stay in the lodge for long. In 1912,
 
 [Aleister Crowley](/library/tarot-figures/aleister-crowley/) went on to design his own deck, the Thoth tarot, painted by Frieda Harris. It keeps the Golden Dawn’s astrology and decans and changes the look of everything else. [Thoth or Rider-Waite-Smith](/blog/thoth-vs-rider-waite/) compares the two for a reader.
 
+{{< todo >}}Add here: the 1960s–70s boom, once checked against sources — Eden Gray’s books, the date U.S. Games Systems licensed the Rider-Waite deck (1971?), and the Thoth deck’s dates (painted 1938–1943, published 1969). Not verified in this pass.{{< /todo >}}
+
 ## France: the Marseille gets a standard edition {#france}
 
-In France, the century opened with Papus and Wirth’s occult tarot of 1889 already in circulation. In 1930, Paul Marteau, who ran the Paris card maker Grimaud, published *L’Ancien Tarot de Marseille*, a new edition drawn from 18th-century models. Its title fixed the name of the pattern, and it gave French readers a common deck to read with. [The Tarot de Marseille page](/library/tarot-history/tarot-de-marseille-history/) tells where that pattern came from.
+In France, the century opened with Papus and Wirth’s occult tarot of 1889 already in circulation. In 1930, Paul Marteau, who ran the Paris card maker Grimaud, published *L’Ancien Tarot de Marseille*, a new edition drawn from 18th-century models. Its title fixed the name of the pattern. [The Tarot de Marseille page](/library/tarot-history/tarot-de-marseille-history/) tells where that pattern came from.
 
 ## Tarot in the museum and the studio {#art}
 
 The cards also became images for artists. This year, the Morgan Library & Museum in New York built the second half of its exhibition *Tarot! Renaissance Symbols, Modern Visions* around that story, taking the 1909 deck as its starting point. It followed tarot through the work of André Breton, Leonora Carrington, Remedios Varo, Niki de Saint Phalle, Betye Saar and Kerstin Brätsch, and commissioned a new work from Chris Ofili.
 
 That says something about where tarot ended up. A century after Waite and Smith, the cards were being hung on museum walls as well as laid out on kitchen tables.
-
-## The second half of the century {#boom}
-
-The second half of the century brought tarot into mainstream bookshops, especially in the United States, and the Rider-Waite-Smith went with it.
-
-{{< todo >}}Add here: the 1960s–70s boom, checked against sources — Eden Gray’s books, and the date U.S. Games Systems licensed the Rider-Waite deck (1971?). Not verified in this pass.{{< /todo >}}
 
 ## What it means for you {#reading}
 

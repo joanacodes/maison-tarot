@@ -11,12 +11,12 @@ h1: "Paul Foster Case — tarot by <em>post</em>"
 lede: "Paul Foster Case turned tarot into something you could study at home, one lesson at a time. Through the school he founded, the Builders of the Adytum, students learned the cards by correspondence, with a deck drawn by Jessie Burns Parke."
 eyebrow: "1884–1954"
 facts:
-- k: "Lived"
-  v: "1884–1954"
+- k: "Born"
+  v: "1884, Fairport, New York"
+- k: "Died"
+  v: "1954, Mexico City"
 - k: "Founded"
   v: "The Builders of the Adytum (B.O.T.A.)"
-- k: "Taught"
-  v: "Tarot by correspondence course"
 - k: "His deck"
   v: "Drawn by Jessie Burns Parke"
 related:
@@ -39,9 +39,7 @@ Paul Foster Case lived from 1884 to 1954. He taught tarot, and he founded a scho
 
 The name repays a second look. An adytum is the innermost room of an ancient temple, the part the public didn’t enter. I read the name as a programme: the school’s students were to build that inner room themselves, through study, rather than be shown into it.
 
-{{< todo >}}Add here: his birthplace, the occult order he belonged to before founding B.O.T.A., and the year and city of the founding, each checked against a reliable source.{{< /todo >}}
-
-I’ve kept the details of his life short on purpose. This page states only what I could check, and the rest waits for a source I trust.
+He was born in Fairport, New York, in 1884. Around 1920 he was the chief instructor (the *praemonstrator*) of the American lodge of the Alpha et Omega, one of the orders that grew out of the Golden Dawn. In 1921, after a disagreement with Moina Mathers, who led that order, he stepped down. About a year later he started his own school, which became the Builders of the Adytum; it is based in Los Angeles today. He died in Mexico City in 1954.
 
 ## What he did for tarot {#tarot}
 
@@ -51,7 +49,9 @@ That was a real change of setting. In the Hermetic Order of the Golden Dawn, whe
 
 **Case’s model turns tarot into a subject you study in order, at home, rather than a secret you wait to be let into.**
 
-He also gave his students a deck, the B.O.T.A. tarot, drawn by the artist Jessie Burns Parke. A school that teaches by post needs every student to be looking at the same images; a shared deck is what makes a written lesson about a card possible at all.
+He also gave his students a deck, the B.O.T.A. tarot, drawn by the artist Jessie Burns Parke. A school that teaches by post needs every student to be looking at the same images; a shared deck is what makes a written lesson about a card possible at all. The deck follows Waite’s 1909 drawings closely, with changes Case saw as corrections, and it was printed in black and white on purpose: students coloured their cards by hand. Colouring a card is a slow way of looking at every detail of it.
+
+His book, *The Tarot: A Key to the Wisdom of the Ages*, first published in 1947, is still reprinted.
 
 ## What he did not do {#myths}
 
@@ -71,4 +71,7 @@ If you want to start the way Case’s students did, with one subject at a time a
 
 ## Sources {#sources}
 
-{{< todo >}}Add here: two or three verified sources on Case, such as the B.O.T.A.’s own history page and a library catalogue record of his books, to replace this line.{{< /todo >}}
+- [Paul Foster Case](https://en.wikipedia.org/wiki/Paul_Foster_Case) — Wikipedia: birth, Alpha et Omega, the 1921 break with Moina Mathers, the founding of B.O.T.A., death.
+- [B.O.T.A. tarot deck](https://en.wikipedia.org/wiki/B.O.T.A._tarot_deck) — Wikipedia: the deck drawn by Jessie Burns Parke and how it relates to Waite’s.
+- [The B.O.T.A. Tarot and Paul Foster Case](https://benebellwen.com/2021/07/16/the-b-o-t-a-tarot-and-paul-foster-case/) — Benebell Wen, tarot author: why the deck is printed uncoloured.
+- [The Tarot: A Key to the Wisdom of the Ages](https://catalog.atlanticlibrary.org/Record/62105) — library catalogue record, noting the first publication by Macoy in 1947.

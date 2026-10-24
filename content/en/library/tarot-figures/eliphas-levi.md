@@ -1,6 +1,6 @@
 ---
 title: "Éliphas Lévi: the magus who tied tarot to the Hebrew letters"
-description: "Éliphas Lévi, born Alphonse-Louis Constant, tied the 22 major arcana to the Hebrew letters in the 1850s. What he did for tarot, what he didn’t, and why tables disagree."
+description: "Éliphas Lévi, born Alphonse-Louis Constant, tied the 22 major arcana to the Hebrew letters in the 1850s. What he did, what he didn’t, and why the tables disagree."
 translationKey: "fig-eliphas-levi"
 type: library
 navTitle: "Éliphas Lévi"

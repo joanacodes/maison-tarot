@@ -1,6 +1,6 @@
 ---
 title: "Marie-Anne Lenormand : la cartomancienne qui a donné son nom à un jeu"
-description: "Mlle Lenormand a été la devineresse la plus célèbre de Paris pendant quarante ans, mais le Petit Lenormand n’est pas d’elle. Sa vie, Joséphine, Napoléon, et la vraie origine du jeu."
+description: "Mlle Lenormand, la devineresse la plus célèbre de Paris pendant quarante ans, n’a pas créé le Petit Lenormand. Sa vie, Joséphine, et la vraie origine du jeu."
 translationKey: "fig-marie-anne-lenormand"
 type: library
 navTitle: "Marie-Anne Lenormand"
@@ -34,7 +34,7 @@ Marie-Anne Lenormand a été la devineresse la plus célèbre de Paris pendant u
 
 ## Qui elle était {#qui}
 
-Marie-Anne Adélaïde Lenormand naît à Alençon, en Normandie, en 1772. D’après la biographie de la Fondation Napoléon, elle est apprentie couturière et caissière avant de gagner Paris, où elle apprend à tirer les cartes auprès d’une autre cartomancienne et ouvre un bureau rue de Tournon, à deux pas du jardin du Luxembourg.
+Marie-Anne Adélaïde Lenormand naît à Alençon, en Normandie, en 1772. Vous trouverez ses prénoms dans les deux ordres, Marie-Anne et Anne-Marie, et son nom parfois écrit Le Normand : c’est la même femme. D’après la biographie de la Fondation Napoléon, elle est apprentie couturière et caissière avant de gagner Paris, où elle apprend à tirer les cartes auprès de quelqu’un qui les tirait déjà et ouvre un bureau d’écrivain public rue de Tournon, à deux pas du jardin du Luxembourg.
 
 Elle reçoit des gens de toutes conditions, et elle écrit. Son nom figure sur une longue série de livres consacrés à ses prédictions, à sa clientèle et à ses démêlés. Elle meurt à Paris en 1843.
 
@@ -42,9 +42,9 @@ Elle reçoit des gens de toutes conditions, et elle écrit. Son nom figure sur u
 
 Elle a fait de la cartomancienne un personnage public : une adresse connue, une clientèle qui parle d’elle, des livres en librairie. Elle arrive une génération après [Etteilla](/fr/bibliotheque/figures-du-tarot/etteilla/), le premier cartomancien professionnel dont on ait la trace. La façon dont les cartes sont passées du jeu au métier pendant ces décennies est racontée dans [du jeu de cartes à la divination](/fr/bibliotheque/histoire-du-tarot/du-jeu-a-la-divination/).
 
-Sa cliente la plus célèbre est Joséphine de Beauharnais, la future impératrice. L’histoire la plus connue, que reprend la Fondation Napoléon, la montre annonçant à Joséphine, dans les années de la Terreur, qu’elle survivrait à son mari et se remarierait. Mlle Lenormand garde Joséphine comme cliente pendant plus de vingt ans et, note la même biographie, se sert de son nom comme d’une publicité. Napoléon apprécie moins, même si, en homme pragmatique, il mesure l’utilité politique d’une sibylle que tant de gens écoutent.
+Sa cliente la plus célèbre est Joséphine de Beauharnais, la future impératrice. L’histoire la plus connue, que reprend la Fondation Napoléon, la montre annonçant à Joséphine, dans les années de la Terreur, qu’elle survivrait à son mari et se remarierait. Mlle Lenormand garde Joséphine comme cliente pendant plus de vingt ans et, note la même biographie, se sert de son nom comme d’une publicité. Napoléon apprécie moins, même si, en homme pragmatique, il mesure l’utilité politique d’une sibylle — le vieux mot pour une prophétesse, celui qu’elle s’appliquait à elle-même — que tant de gens écoutent.
 
-En décembre 1809, alors que Napoléon prépare son divorce, Mlle Lenormand est arrêtée. Elle en fait un livre : *Les Souvenirs prophétiques d’une sibylle sur les causes secrètes de son arrestation* (1814). En 1820 paraissent ses *Mémoires historiques et secrets de l’impératrice Joséphine*.
+En décembre 1809, alors que Napoléon prépare son divorce, Mlle Lenormand est arrêtée. Elle fait même de cette arrestation un livre : *Les Souvenirs prophétiques d’une sibylle sur les causes secrètes de son arrestation* (1814). En 1820 paraissent ses *Mémoires historiques et secrets de l’impératrice Joséphine*.
 
 **Ce qu’elle laisse à la cartomancie, c’est moins une méthode qu’une image : la tireuse de cartes célèbre aux clients célèbres.**
 

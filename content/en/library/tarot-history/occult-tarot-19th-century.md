@@ -1,6 +1,6 @@
 ---
 title: "Occult tarot in the 19th century: Lévi, Papus and the Kabbalah link"
-description: "How French occultists made tarot a magical system: Éliphas Lévi’s Dogme et rituel (1856), the 22 Hebrew letters, Papus and Wirth in 1889, and where the Romani myth comes from."
+description: "How French occultists made tarot a magical system: Éliphas Lévi’s Dogme et rituel (1856), the 22 Hebrew letters, Papus and Wirth in 1889, and the Romani myth."
 translationKey: "hist-occult-tarot-19th-century"
 type: library
 navTitle: "Occult tarot, 19th century"

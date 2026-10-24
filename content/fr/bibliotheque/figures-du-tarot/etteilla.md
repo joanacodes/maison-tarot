@@ -1,6 +1,6 @@
 ---
 title: "Etteilla : le premier tarologue professionnel"
-description: "Etteilla, de son vrai nom Jean-Baptiste Alliette, a fait du tirage de cartes un métier dans le Paris des années 1770. Ce qu’il a vraiment fait pour le tarot, et ce qu’il n’a pas fait."
+description: "Etteilla, né Jean-Baptiste Alliette, a fait du tirage de cartes un métier dans le Paris de 1770. Ce qu’il a vraiment apporté au tarot, et ce qu’on lui prête à tort."
 translationKey: "fig-etteilla"
 type: library
 navTitle: "Etteilla"
@@ -35,7 +35,7 @@ Etteilla, c’est le nom de plume de Jean-Baptiste Alliette, un commerçant pari
 
 ## Qui il était {#qui}
 
-Jean-Baptiste Alliette naît à Paris en 1738, fils d’un maître rôtisseur. On sait très peu de choses de sa jeunesse. Les archives le montrent marchand grainier en 1763, puis marchand d’estampes. Il signe ses livres Etteilla : son nom de famille, lu à l’envers. Il meurt en 1791, deux ans après le début de la Révolution.
+Jean-Baptiste Alliette naît à Paris en 1738, fils d’un maître rôtisseur. On sait très peu de choses de sa jeunesse, et l’essentiel vient de recherches récentes dans les archives plutôt que de ce qu’il racontait lui-même, plus difficile à vérifier. Les archives le montrent marchand grainier en 1763, puis marchand d’estampes. Il signe ses livres Etteilla : son nom de famille, lu à l’envers. Il meurt en 1791, deux ans après le début de la Révolution.
 
 ## Ce qu’il a fait pour le tarot {#tarot}
 

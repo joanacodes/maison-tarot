@@ -1,6 +1,6 @@
 ---
 title: "The first tarot decks: Italian tarocchi of the 15th century"
-description: "Tarot began in 15th-century Italy as trionfi, a card game with trumps. The first records, the painted Visconti-Sforza decks and where they are held, and the word tarocchi."
+description: "Tarot began in 15th-century Italy as trionfi, a card game with trumps: the first records, the Visconti-Sforza decks and where they are now, and the word tarocchi."
 translationKey: "hist-italian-tarocchi"
 type: library
 navTitle: "Italian tarocchi"

@@ -55,7 +55,7 @@ She didn’t wait for a publisher. In June 1941 she showed the paintings in Oxfo
 
 She wasn’t a hired hand copying sketches. The label that stuck to her is Crowley’s “artist executant”. Deja Whitehouse’s study for Oxford University Press argues that her role went far beyond that: she shaped the images, promoted them, exhibited them and raised money for them.
 
-She wasn’t Crowley’s creation as a seeker either. Research shows her interest in mysticism came before she met him, and her geometry came from elsewhere.
+She wasn’t Crowley’s creation as a seeker either. Research indicates that her interest in mysticism came before she met him, and her geometry came from elsewhere.
 
 And the deck in the shop isn’t a perfect copy of her work. The first printing was poor, which is why the paintings were photographed again in 1977, and every edition since depends on how well the originals were reproduced.
 

@@ -1,6 +1,6 @@
 ---
 title: "Marie-Anne Lenormand: the fortune-teller with a deck named after her"
-description: "Marie-Anne Lenormand was Paris’s most famous fortune-teller for forty years, but the Lenormand deck isn’t hers. Who she was, the Napoleon stories, and the real origin."
+description: "Marie-Anne Lenormand was Paris’s most famous fortune-teller for forty years, but the Lenormand deck isn’t hers. Who she was, the Napoleon stories, the real origin."
 translationKey: "fig-marie-anne-lenormand"
 type: library
 navTitle: "Marie-Anne Lenormand"
@@ -34,7 +34,7 @@ Marie-Anne Lenormand was the most famous fortune-teller in Paris for some forty 
 
 ## Who she was {#who}
 
-Marie-Anne Adélaïde Lenormand was born in Alençon, in Normandy, in 1772. The Fondation Napoléon’s biography has her working as an apprentice seamstress and a shop cashier before Paris, where she learnt to read cards from another reader and opened an office on the rue de Tournon, a few steps from the Luxembourg gardens.
+Marie-Anne Adélaïde Lenormand was born in Alençon, in Normandy, in 1772. You’ll find her first names in both orders, Marie-Anne and Anne-Marie, and her surname also written Le Normand; it’s the same woman. The Fondation Napoléon’s biography has her working as an apprentice seamstress and a shop cashier before Paris, where she learnt to read cards from another reader and opened an office as a public letter-writer on the rue de Tournon, a few steps from the Luxembourg gardens.
 
 She read for people of every rank, and she wrote. Her name is on a long shelf of books about her predictions, her clients and her troubles. She died in Paris in 1843.
 
@@ -42,9 +42,9 @@ She read for people of every rank, and she wrote. Her name is on a long shelf of
 
 She made the card reader a public figure. She had a known address, clients who talked about her, and her own books in print. She came a generation after [Etteilla](/library/tarot-figures/etteilla/), the first professional card reader on record. How cards went from a game to a trade in those decades is told in [from card game to divination](/library/tarot-history/from-game-to-divination/).
 
-Her most famous client was Joséphine de Beauharnais, the future empress. The best-known story, retold in the Fondation Napoléon’s biography, has Lenormand telling Joséphine, in the years of the Terror, that she would outlive her husband and marry again. Lenormand kept Joséphine as a client for more than twenty years and, the same biography notes, used her name as publicity. Napoleon was less pleased, though as a practical man he weighed the political use of a sibyl so many people listened to.
+Her most famous client was Joséphine de Beauharnais, the future empress. The best-known story, retold in the Fondation Napoléon’s biography, has Lenormand telling Joséphine, in the years of the Terror, that she would outlive her husband and marry again. Lenormand kept Joséphine as a client for more than twenty years and, the same biography notes, used her name as publicity. Napoleon was less pleased, though as a practical man he weighed the political use of a sibyl — the old word for a prophetess, and the one she used for herself — whom so many people listened to.
 
-In December 1809, as Napoleon was preparing his divorce from Joséphine, Lenormand was arrested. She turned even that into a book: *Les Souvenirs prophétiques d’une sibylle sur les causes secrètes de son arrestation* (1814). In 1820 came her *Mémoires historiques et secrets de l’impératrice Joséphine*.
+In December 1809, as Napoleon was preparing his divorce from Joséphine, Lenormand was arrested. She turned even that arrest into a book: *Les Souvenirs prophétiques d’une sibylle sur les causes secrètes de son arrestation* (1814). In 1820 came her *Mémoires historiques et secrets de l’impératrice Joséphine*.
 
 **What she left card reading is less a method than an image: the famous reader with famous clients.**
 
