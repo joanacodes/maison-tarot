@@ -6,8 +6,9 @@ type: blog
 date: 2026-09-06
 categories: ["Astrologie testée"]
 tags: ["thème astral", "test astrologie", "Saturne", "Lilith", "Chiron", "l’astrologie marche-t-elle"]
-image: "cover.jpg"
+image: "covers/i-tested-my-birth-chart.jpg"
 imageAlt: "Un thème astral imprimé, avec des coches et des croix au crayon à côté de chaque position"
+imagePrompt: "A printed birth chart on a desk with small pencil ticks and crosses beside each placement, a pencil lying across it. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "J’ai vérifié mon thème astral comme on vérifie une facture : chaque position, coche ou croix. L’essentiel — le Soleil, l’ascendant, les choses faciles — tenait environ une fois sur trois, ce que la flatterie obtient à peu près. Trois corps tenaient bien plus souvent : Saturne, Lilith et Chiron, trois fois sur quatre ou mieux. C’est pour ça que l’astrologie est sur ce site comme clé pour lire les cartes, et que je ne la laisse jamais décider."
 ---
 Pendant la pandémie, je m’ennuyais, et j’ai découvert l’astrologie sur YouTube. Je veux être honnête sur mon intention de départ, parce que c’est la partie la plus drôle de l’histoire.

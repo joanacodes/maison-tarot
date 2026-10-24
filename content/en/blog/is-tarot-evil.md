@@ -6,8 +6,9 @@ type: blog
 date: 2026-09-06
 categories: ["Ideas we refuse"]
 tags: ["is tarot evil", "tarot and the devil", "tarot and religion", "misconceptions"]
-image: "cover.jpg"
+image: "covers/is-tarot-evil.jpg"
 imageAlt: "A single card face up on a white table in daylight, nothing else"
+imagePrompt: "A single tarot card face up on a white table in bright daylight, nothing else around it. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "No. Tarot is a deck of pictures and a person reading them; it's only evil for those who see evil everywhere. What it has done for me is the opposite of what people fear: it tells me the truth when I don't want it, without a shred of flattery. I'll tell you about the one time a reading brought something home with it — and how mundane the message turned out to be."
 ---
 I'm not going to talk about the Devil card today — that's a card, it has [its own page](/library/tarot-cards/the-devil/). I'm going to answer the question people actually mean: *is tarot evil?* I can only speak from what I've experienced, so that's what you'll get.

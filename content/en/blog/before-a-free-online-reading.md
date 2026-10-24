@@ -6,8 +6,9 @@ type: blog
 date: 2026-09-06
 categories: ["Learn"]
 tags: ["free tarot reading", "online reading", "events", "what to expect", "scam"]
-image: "cover.jpg"
+image: "covers/before-a-free-online-reading.jpg"
 imageAlt: "A laptop screen showing a video call, a card held up to the camera"
+imagePrompt: "A laptop on a wooden table showing a blurred video call, one tarot card held up towards the camera by a hand at the edge of the frame. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "A free reading at Maison Tarot is a lesson in public: you're drawn at random, you tell me nothing, I read one card or three, I say what comes, and you say whether it landed. It takes ten minutes and there is no upsell, ever. Elsewhere, a free reading is often the first step of a sale. Here's how to tell the two apart, and how to get the most from the honest kind."
 ---
 "Free reading" means two different things on the internet. One is a gift. The other is a hook. This is how Maison Tarot does the first kind — and how to recognise the second.

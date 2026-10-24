@@ -6,8 +6,9 @@ type: blog
 date: 2026-09-06
 categories: ["Ideas we refuse"]
 tags: ["tarot addiction", "take a break from your cards", "dependency", "outside validation"]
-image: "cover.jpg"
+image: "covers/why-you-should-quit-tarot-reading.jpg"
 imageAlt: "A deck of cards put away in a drawer, the drawer half closed"
+imagePrompt: "A deck of cards put away in a half-closed wooden drawer. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "If you're pulling cards every day about the same question, tarot has stopped being a tool and become a habit that feeds doubt. A reader who lets you do that is not helping you. Put the deck away, make the decision you've been circling, and come back in a month — the cards will still be there, and you'll read them better."
 ---
 Tarot reading is great. So is wine. The trouble starts when you need it to get through the afternoon.

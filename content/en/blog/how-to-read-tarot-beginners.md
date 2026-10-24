@@ -17,8 +17,9 @@ tags:
 - method
 - Rider-Waite-Smith
 featured: true
-image: cover.jpg
-imageAlt: A single card face down on a wooden table, a hand about to turn it
+image: "covers/how-to-read-tarot-beginners.jpg"
+imageAlt: "A single card face down on a wooden table, a hand about to turn it"
+imagePrompt: "A single card face down on a wooden table, a hand about to turn it over. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: 'Sit down with a deck, draw one card, and before you open your mouth tell
   yourself: I’m about to talk nonsense. Then say what you see — the colours, the number,
   the element — without trying to be right. That one sentence switches off the part

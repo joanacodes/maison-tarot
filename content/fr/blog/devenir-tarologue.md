@@ -6,6 +6,9 @@ type: "blog"
 date: 2026-09-12
 categories: ["Pour les tarologues"]
 tags: ["devenir tarologue", "tarologue professionnel", "vivre du tarot", "pour les tarologues", "enseigner le tarot", "événements tarot"]
+image: "covers/become-a-tarot-reader.jpg"
+imageAlt: "Une carte de visite vierge posée sur une table en bois, à côté d’un carnet fermé et d’un stylo."
+imagePrompt: "A blank white business card and a pen lying on a wooden table next to a closed notebook. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Devenez tarologue professionnel seulement quand vous pouvez répondre honnêtement à cinq questions. Connaissez-vous votre taux de ratés, compté dans un carnet plutôt qu'estimé de mémoire ? Quels sujets refuserez-vous, sachant que ce sont ceux pour lesquels on paie le plus ? Pouvez-vous dire « c'est raté » à quelqu'un qui a payé, sans rattraper le coup ? Savez-vous vous arrêter au bout de deux heures ? Et que vendez-vous : des lectures, ou la capacité de lire ? J'ai choisi la seconde. J'enseigne, et les lectures restent gratuites lors des événements, parce qu'une activité qui vit de lectures répétées a une raison de faire revenir les gens qui n'est pas bonne pour eux."
 ---
 On me pose cette question juste après une lecture qui a touché juste, dans la même phrase que « vous avez un don ». Je ne crois pas au don ; je crois que n'importe qui peut apprendre à lire, donc la question n'a jamais été de savoir si vous en êtes capable. La question, c'est ce que vous allez construire une fois la carte imprimée, et j'aimerais cinq réponses avant que quiconque en commande une boîte.

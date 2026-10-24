@@ -6,8 +6,9 @@ type: blog
 date: 2026-09-06
 categories: ["Idées reçues"]
 tags: ["le tarot est-il maléfique", "tarot et diable", "tarot et religion", "idées reçues"]
-image: "cover.jpg"
+image: "covers/is-tarot-evil.jpg"
 imageAlt: "Une seule carte face visible sur une table blanche, en plein jour, rien d’autre"
+imagePrompt: "A single tarot card face up on a white table in bright daylight, nothing else around it. Editorial photograph, 35mm, natural light from one window, shallow depth of field, black and white with strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Non. Le tarot, c’est un jeu d’images et une personne qui les lit ; il n’est maléfique que pour ceux qui voient le mal partout. Ce qu’il a fait pour moi, c’est l’inverse de ce qu’on craint : il me dit la vérité quand je n’en veux pas, sans une once de flatterie. Je vais vous raconter la seule fois où une lecture a ramené quelque chose à la maison — et à quel point le message était banal."
 ---
 Je ne vais pas parler de la carte du Diable aujourd’hui — c’est une carte, elle a [sa page](/fr/bibliotheque/cartes-tarot/le-diable/). Je vais répondre à la question que les gens posent vraiment : *le tarot est-il maléfique ?* Je ne peux parler que de ce que j’ai vécu, alors c’est ce que vous aurez.
