@@ -25,7 +25,7 @@ Say two accounts post the Star on the same morning.
 
 {{< cards "ar17" >}}
 
-The first writes: “Hope is coming. Everything is about to get better.” It’s warm, it’s shareable, and it would fit any card with a bright sky. The second writes: “A woman kneeling at the water’s edge, one foot on land, one in the pool, pouring from two jugs at once. What are you giving back to, and what are you letting go of?” The first post will probably travel further. The second one shows you someone who looks at the picture, and that’s the habit you want in a reader.
+The first writes: “Hope is coming. Everything is about to get better.” It’s warm, it’s shareable, and it would fit any card with a bright sky. The second writes: “A woman kneeling at the water’s edge, one knee on land, one foot in the pool, pouring from two jugs at once. What are you giving back to, and what are you letting go of?” The first post will probably travel further. The second one shows you someone who looks at the picture, and that’s the habit you want in a reader.
 
 ## What a pick-a-card can do {#pick-a-card}
 

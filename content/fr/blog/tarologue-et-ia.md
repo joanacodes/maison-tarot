@@ -37,13 +37,13 @@ Elle ne rate jamais. Elle nuance jusqu’à ce que plus rien de ce qu’elle dit
 
 Elle lit des cartes, pas un tirage. Les liens entre les cartes, le 1 à côté du 10, trois Coupes qui étouffent une Épée, portent l’essentiel d’une lecture, et un modèle traite les cartes une par une.
 
-Certains tarologues me disent qu’ils la laissent seulement faire un brouillon, qu’ils corrigent ensuite. Je comprends : une page blanche, c’est dur au bout d’une longue journée. Mais une fois que vous avez lu sa version, vous lisez sa version. Votre première impression, celle qui venait avant de réfléchir, a disparu, et c’est l’essentiel de ce qu’un tarologue apporte. Ce que j’enseigne, c’est l’inverse : dire ce qui monte, avant d’essayer d’avoir raison.
+Certains tarologues la laissent écrire un brouillon, qu’ils corrigent ensuite. Je comprends : une page blanche, c’est dur au bout d’une longue journée. Mais une fois que vous avez lu sa version, vous lisez sa version. Votre première impression, celle qui venait avant de réfléchir, a disparu, et c’est l’essentiel de ce qu’un tarologue apporte. Ce que j’enseigne, c’est l’inverse : dire ce qui monte, avant d’essayer d’avoir raison.
 
 Sous tout cela, il y a une raison plus simple : la personne est venue pour vous. **Si quelqu’un croit que vous avez lu ses cartes, c’est vous qui devez les avoir lues.**
 
 ## La zone grise : publications, administratif, l’histoire de quelqu’un {#zone-grise}
 
-On me pose la question pour tout le reste : légendes, newsletters, pages de réservation, traductions. C’est de l’administratif, pas de la lecture, et c’est votre affaire. Je garderais seulement les cartes en dehors. Votre façon de décrire une carte, c’est votre méthode. Si un outil écrit vos significations, votre page se met à ressembler à toutes les autres, et ça se voit. C’est comme ça que des tarologues se retrouvent [accusés d’utiliser l’IA](/fr/blog/tarologues-accuses-ia/), parfois à tort.
+Reste tout le reste : légendes, newsletters, pages de réservation, traductions. C’est de l’administratif, pas de la lecture, et c’est votre affaire. Je garderais seulement les cartes en dehors. Votre façon de décrire une carte, c’est votre méthode. Si un outil écrit vos significations, votre page se met à ressembler à toutes les autres, et ça se voit. C’est comme ça que des tarologues se retrouvent [accusés d’utiliser l’IA](/fr/blog/tarologues-accuses-ia/), parfois à tort.
 
 Un point n’a rien de gris pour moi : l’histoire intime de quelqu’un. Avant de lire une personne, je lui demande sa permission, parce que la lire sans son accord, c’est comme fouiller dans sa chambre. Coller ce qu’elle vous a confié dans un outil géré par d’autres, c’est le même geste. Elle n’a pas donné son accord, et vous ne pourrez pas revenir en arrière.
 

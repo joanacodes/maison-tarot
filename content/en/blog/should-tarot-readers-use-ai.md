@@ -37,13 +37,13 @@ It never misses. It hedges until nothing it says can be wrong. I count my readin
 
 It reads cards, not spreads. The relations between cards, the 1 beside the 10, three Cups crowding out one Sword, carry most of a reading, and a model handles the cards one at a time.
 
-Some readers tell me they only let it draft, then correct the draft. I understand the appeal; a blank page is hard at the end of a long day. But once you’ve read its version, you’re reading its version. Your first impression, the one that came before you thought, is gone, and that impression is most of what a reader brings. What I teach is the reverse: say what comes up, before you try to be right.
+Some readers let it write a draft, then correct the draft. I understand the appeal; a blank page is hard at the end of a long day. But once you’ve read its version, you’re reading its version. Your first impression, the one that came before you thought, is gone, and that impression is most of what a reader brings. What I teach is the reverse: say what comes up, before you try to be right.
 
 Underneath all this, there’s a plainer reason: the person came for you. **If someone believes you read their cards, you should be the one who read them.**
 
 ## The grey zone: posts, admin, someone’s story {#grey-zone}
 
-Readers ask me about everything else: captions, newsletters, booking pages, translations. That’s admin rather than reading, and it’s your call. I’d only keep the cards themselves out of it. Your way of describing a card is your method. If a tool writes your card meanings, your page starts to sound like everyone else’s, and people notice. That’s how readers end up [accused of using AI](/blog/tarot-readers-accused-of-ai/), sometimes unfairly.
+Then there’s everything else: captions, newsletters, booking pages, translations. That’s admin rather than reading, and it’s your call. I’d only keep the cards themselves out of it. Your way of describing a card is your method. If a tool writes your card meanings, your page starts to sound like everyone else’s, and people notice. That’s how readers end up [accused of using AI](/blog/tarot-readers-accused-of-ai/), sometimes unfairly.
 
 One thing isn’t grey for me: a person’s private story. Before I read anyone I ask their permission, because reading someone without it is like going through their bedroom. Pasting what they told you in confidence into a tool run by someone else is the same move. They didn’t agree to it, and you can’t take it back.
 
