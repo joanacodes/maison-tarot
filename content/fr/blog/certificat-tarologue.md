@@ -33,7 +33,7 @@ Et il ne dit pas si la personne pratique encore. Un certificat d’il y a dix an
 
 ## Existe-t-il un diplôme officiel de tarologue en France ? {#france}
 
-Non. En France, la tarologie n’est pas une profession réglementée : il n’existe pas de diplôme d’État de tarologue, ni d’autorisation à obtenir. La voyance est une activité libre depuis l’entrée en vigueur du nouveau Code pénal en 1994, et les règles générales sur l’escroquerie et la protection du consommateur s’y appliquent comme à n’importe quel commerce. J’entre dans le détail dans [la voyance est-elle légale en France ?](/fr/blog/voyance-legale-france/)
+Non. En France, la tarologie n’est pas une profession réglementée : il n’existe pas de diplôme d’État de tarologue, ni d’autorisation à obtenir. La voyance est une activité libre depuis l’entrée en vigueur du nouveau Code pénal en 1994, et les règles générales sur l’escroquerie et la protection du consommateur s’y appliquent comme à n’importe quel commerce. J’entre dans le détail dans [la voyance est-elle encadrée par la loi en France ?](/fr/blog/voyance-legale-france/)
 
 Un certificat délivré par une école française est donc un document de cette école. Cela ne le rend pas inutile. Cela en fait un document privé, à lire pour exactement ce qu’il dit : combien d’heures, quelle pratique, qui l’a signé.
 
