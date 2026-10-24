@@ -15,7 +15,7 @@ Search "tarot" and the algorithm will show you candles within a minute. That's n
 
 ## What tarot is {#what-tarot-is}
 
-Seventy-eight cards, first printed in fifteenth-century Italy as a game. The occult reading of them came four centuries later, in France; the deck almost everyone uses now was drawn in 1909 in England by a woman named Pamela Colman Smith. Reading the cards means looking at the pictures and saying what they show about a person or a situation. That's the whole practice. [The history, sourced, is in the Library](/library/tarot-history/).
+Seventy-eight cards, first printed in fifteenth-century Italy as a game. The occult reading of them came about three centuries later, in France; the deck almost everyone uses now was drawn in 1909 in England by a woman named Pamela Colman Smith. Reading the cards means looking at the pictures and saying what they show about a person or a situation. That's the whole practice. [The history, sourced, is in the Library](/library/tarot-history/).
 
 Nothing in it requires a belief. You can read as a psychologist, as a storyteller, as a sceptic testing it, or as a mystic. The cards don't care.
 

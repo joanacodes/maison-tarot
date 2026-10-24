@@ -45,7 +45,7 @@ I’ve kept the details of his life short on purpose. This page states only what
 
 ## What he did for tarot {#tarot}
 
-He taught it by correspondence. A correspondence course works like this: you enrol, lessons arrive by post one at a time, you study them at home, in order, and you move to the next when you’re ready. Applied to tarot, it means the cards are learned the way a language is learned: a little at a time, with exercises, over months.
+He taught it by correspondence. A correspondence course works like this: you enrol, lessons arrive by post one at a time, you study them at home, in order, and you move to the next when you’re ready. Applied to tarot, it means the cards are learned the way a language is learned: a little at a time, with exercises, over months. A book hands you everything at once; a course decides the order for you, and the order is a large part of the teaching.
 
 That was a real change of setting. In the Hermetic Order of the Golden Dawn, where [Arthur Edward Waite](/library/tarot-figures/arthur-edward-waite/) and Aleister Crowley learned their tarot, the teaching was handed out inside the order, grade by grade, to initiates. A correspondence course sends the lessons to a kitchen table.
 
@@ -65,7 +65,7 @@ And teaching by post didn’t make it a lesser tarot. A lesson read at home is n
 
 Every tarot course you can take from home rests on the idea Case built a school on: that the cards can be learned, step by step, by anyone who does the work. That is my position too. There are no Chosen Ones; there are people who practise.
 
-The limit he faced is still the one to watch. Lessons can give you the symbols, the [numbers](/library/numerology/) and the structure. They can’t tell you when you’ve read a card wrongly. That is why I ask students to keep a notebook, what they said on one side and what was confirmed on the other, and why I teach in [workshops](/workshops/) where people read for each other in the room.
+The limit he faced is still the one to watch. Lessons can give you the symbols, the [numbers](/library/numerology/) and the structure. They can’t tell you when you’ve read a card wrongly. That is why I suggest keeping a notebook, what you said on one side and what was confirmed on the other, and why I teach in [workshops](/workshops/), with people in the room.
 
 If you want to start the way Case’s students did, with one subject at a time and in order, [the learning path](/learn-tarot/) is built like that. The orders and schools that shaped modern tarot are on [the Golden Dawn page](/library/tarot-history/golden-dawn-tarot/), and the century of decks and courses that followed is in [tarot in the 20th century](/library/tarot-history/tarot-in-the-20th-century/).
 
