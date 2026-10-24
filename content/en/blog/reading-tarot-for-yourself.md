@@ -57,7 +57,7 @@ A queen seated in profile, one sword held straight up, her other hand raised and
 
 Left column: “Say it clearly, once, and keep my hand open.” Right column, honestly: “I’d like it to say she’ll apologise.” The card doesn’t say that, and now you can see it doesn’t.
 
-The following Monday, you reread. Held: you said what you had to say in two sentences, without raising your voice. Missed: nothing on the page was about her apologising, and she didn’t. One week, one card, and a record of what you saw against what you wanted.
+The following Monday, you reread. Held: you said what you had to say in two sentences, without raising your voice. And the apology you’d hoped the card would promise? It wasn’t on the card, and it didn’t come. One week, one card, and a record of what you saw set against what you wanted.
 
 The notebook gives you back the person who says, afterwards, “yes, that was right” or “no, that missed”. That person is you, a week later, calmer.
 

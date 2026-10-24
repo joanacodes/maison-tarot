@@ -53,7 +53,7 @@ La Bibliothèque raconte le cycle de la [numérologie](/fr/bibliotheque/numerolo
 
 Il n’y a pas de chemin de vie 10 : il devient 1 + 0 = 1, le cycle qui recommence.
 
-**Un chemin de vie est une question qu’on porte, pas une peine qu’on purge.** Notre exemple, le 7, c’est le moment de l’histoire d’Instagram où le modèle change et où la publicité devient le cœur : patience, négociation, récolte. Son conseil est celui que je préfère dans le tableau — tout est temporaire, le bon comme le mauvais. [Le chiffre 7](/fr/bibliotheque/numerologie/chiffre-7/) a sa propre page.
+**Un chemin de vie est une question qu’on porte, pas une peine qu’on purge.** L’exemple du dessus, le 7, c’est le moment de l’histoire d’Instagram où le modèle change et où la publicité devient le cœur : patience, négociation, récolte. Son conseil est celui que je préfère dans le tableau — tout est temporaire, le bon comme le mauvais. [Le chiffre 7](/fr/bibliotheque/numerologie/chiffre-7/) a sa propre page.
 
 ## Votre chemin de vie dans le tarot {#tarot}
 

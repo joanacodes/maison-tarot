@@ -1,8 +1,7 @@
 ---
 title: 'Cavalier de Pentacles (Knight of Pentacles) — tarot Rider-Waite-Smith : lire
   la carte par ses clés de lecture'
-description: 'Cavalier de Pentacles : ce qu’on voit sur la carte, puis le nombre,
-  l’élément (Air de Terre), les couleurs. Lire la carte sans l’avoir apprise.'
+description: 'Cavalier de Pentacles : un chevalier sur un cheval noir immobile, pièce en main. Lire la patience, la méthode et l’entêtement par le rang, l’élément, la couleur.'
 translationKey: card-pekn
 type: cards
 navTitle: Cavalier de Pentacles
@@ -28,13 +27,12 @@ related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
-- q: Que signifie Cavalier de Pentacles ?
-  a: 'Il n’y a pas une signification à apprendre : Cavalier de Pentacles se lit par
-    son nombre (le Cavalier), son élément (Air de Terre) et ses couleurs. La page
-    ci-dessus les pose une à une.'
-- q: Cavalier de Pentacles renversé, ça change quoi ?
-  a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
-    l’endroit, puis ce qui bloque ou déborde.
+- q: 'Que signifie Cavalier de Pentacles ?'
+  a: 'Un progrès lent et fiable : quelqu’un qui planifie, vérifie, et avance à son rythme. Le Cavalier est l’action et la Terre la matière : c’est une action sur laquelle on peut compter — le plus patient des quatre Cavaliers.'
+- q: 'Cavalier de Pentacles renversé, ça change quoi ?'
+  a: 'La même patience, freinée ou excessive. Freinée : le plan est vérifié tant de fois que le cheval ne bouge jamais. Excessive : la méthode tourne à l’entêtement, la routine à l’ornière, et la constance devient de l’immobilisme.'
+- q: 'Que signifie le Cavalier de Pentacles en amour ?'
+  a: 'Quelqu’un de stable et de loyal, qui montre son attachement en étant là plutôt que par de grands gestes. La carte demande si cette lenteur rassure, ou si elle commence à donner l’impression que rien ne bouge.'
 categories:
 - Pentacles
 tags:
@@ -44,24 +42,44 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-{{< todo >}}À ÉCRIRE — décrire le dessin de Pamela Colman Smith, détail par détail : personnages, objets, posture, ce qui manque.{{< /todo >}}
+Un chevalier en armure complète est assis sur un lourd cheval noir. Le cheval ne va nulle part : ses jambes sont droites, bien plantées, un brin de feuilles vertes attaché à sa bride. Le chevalier tient un pentacle dans sa main droite, gantée de rouge, et le regarde. Son casque porte lui aussi un cimier de feuilles vertes ; par-dessus l’armure, une tunique rouge, et le harnais du cheval est rouge.
+
+Derrière lui, un champ labouré en longs sillons brun-rouge, une butte verte sous les sabots, des collines basses, quelques arbres à droite. Le ciel est jaune. Pas de route, pas d’autre cavalier, pas de château à atteindre.
+
+Des quatre Cavaliers, c’est le seul dont le cheval reste immobile. **La carte parle d’une action qui commence par regarder : le plan avant le galop, le champ avant la récolte.**
 
 ## Par le nombre : le Cavalier {#nombre}
 
-**le Cavalier — l’action, la quête, l’excès.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**le Cavalier — l’action, la quête, l’excès.** Le [Cavalier](/fr/bibliotheque/numerologie/cavalier/) est l’élément en mouvement : ce que la famille fait quand elle agit. Le cheval dit tout — celui des Bâtons se cabre, celui des Épées charge, celui des Coupes avance au pas, celui des Pentacles reste planté. Ici, l’action est réelle, mais c’est celle de quelqu’un qui ne partira qu’une fois sûr de son coup.
+
+Le conseil du rang est de vérifier la direction avant la vitesse, et ce Cavalier ne fait que ça. Tout le monde connaît quelqu’un comme lui : l’ami qui demande douze devis avant de faire réparer sa chaudière, et dont la chaudière tourne ensuite vingt ans. L’excès du rang, c’est la qualité poussée trop loin — le treizième devis.
 
 ## Par l’élément : Terre {#element}
 
-{{< todo >}}À ÉCRIRE — ce que [Terre](/fr/bibliotheque/quatre-elements/element-terre/) apporte ici : de quoi la carte parle.{{< /todo >}}
+Le Cavalier de Pentacles est Air de Terre : la famille est la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) — la matière, la valeur, le résultat du travail — et sa part à lui est l’[Air](/fr/bibliotheque/quatre-elements/element-air/) : la pensée, l’analyse, la décision. L’Air voit tout à la fois ; dans la Terre, il devient le plan, le calcul, la méthode. S’il regarde la pièce, c’est qu’il calcule ce qu’il va en faire.
+
+Son énergie est masculine au sens où je l’entends — agir, construire, le tangible — dans sa version la plus patiente. La Terre lui donne l’endurance : il arrivera. Elle lui donne aussi son défaut classique, l’entêtement, et l’Air peut y ajouter le sien : l’esprit qui tourne en rond. Ensemble, au pire, le plan devient une raison de ne jamais partir.
 
 ## Par les couleurs {#couleurs}
 
-{{< todo >}}À ÉCRIRE — les couleurs dominantes et ce qu’elles disent avant la carte ([la grille des couleurs](/fr/bibliotheque/couleurs-tarot/)).{{< /todo >}}
+Le cheval est [noir](/fr/bibliotheque/couleurs-tarot/noir/) et occupe la moitié de la carte : l’absence, l’énergie absorbée, l’esprit qu’on vide — et la réalité. Le noir, c’est la chose nue, sans vernis ; ce cheval n’est que poids. Le champ labouré est brun-rouge, [l’or et le brun](/fr/bibliotheque/couleurs-tarot/or-et-brun/) des pages couleurs : le travail, la matière, la patience. Le rouge de la tunique et du harnais, c’est l’élan, tenu en bride ; les feuilles vertes du casque et de la bride, une croissance à venir.
 
 ## En lecture {#lecture}
 
-{{< todo >}}À ÉCRIRE — à l’endroit, renversée, selon les cartes voisines. Une chose à retenir en gras.{{< /todo >}}
+À l’endroit : un progrès lent et fiable. Un projet qui avance pas à pas, un engagement tenu, une routine qui fonctionne. En tant que personne : quelqu’un de constant, méthodique, loyal — le collègue à qui l’on confie le dossier parce qu’on sait qu’il sera bouclé. **Lent ne veut pas dire bloqué, tant que le cheval finit par faire un pas.**
+
+Renversé, la même patience, freinée ou excessive. Freinée : le plan est vérifié si souvent qu’il ne démarre jamais ; la personne attend une certitude qui n’existe pas. Excessive : la méthode devient rigidité — le même trajet, la même façon, « parce qu’on a toujours fait comme ça » — et l’ami fiable devient celui qui ne bouge plus d’un pouce.
+
+À côté du [Cavalier d’Épées](/fr/bibliotheque/cartes-tarot/cavalier-de-epees/), deux vitesses à la fois : l’un charge, l’autre n’est pas parti — une équipe, ou deux voix dans la même tête. À côté du [Sept de Pentacles](/fr/bibliotheque/cartes-tarot/sept-de-pentacles/), un autre homme qui regarde ses pièces : la patience avant la récolte, deux fois. À côté du [Chariot](/fr/bibliotheque/cartes-tarot/le-chariot/), l’immobilité se change en mouvement, ou rencontre quelqu’un qui n’attendra pas.
+
+{{< cards "swkn pe07 ar07" >}}
+
+Si la question de fond porte sur l’argent — épargner, placer, dépenser —, la carte décrit un rythme, pas une réponse. Cette décision appartient à la personne, et j’explique pourquoi dans [ma façon de lire les Pentacles quand il est question d’argent](/fr/blog/tarot-et-argent/).
 
 ## Exemple de tirage {#exemple}
 
-{{< todo >}}À ÉCRIRE — un tirage réel anonymisé : clés de lecture d’abord, phrase dite, ce que la personne a confirmé.{{< /todo >}}
+Mettons qu’une personne s’assoie, ne vous dise rien, et tire le Cavalier de Pentacles à côté du Huit de Bâtons. Les clés de lecture d’abord. Cavalier puis huit : une action tenue en bride, puis la vitesse — ma note pour le Huit de Bâtons, ce sont des bâtons qui volent ou qui tombent, le verre à moitié plein ou à moitié vide. Terre puis Feu : un plan lent, puis des choses qui vont vite. Un cheval immobile, puis huit bâtons qui traversent un ciel dégagé.
+
+À voix haute : « Vous êtes la personne prudente, et autour de vous les choses s’accélèrent d’un coup. Rien ne vous oblige à galoper. Mais vous allez peut-être devoir décider un peu plus vite que vous ne le voudriez. »
+
+Puis vérifiez : « Est-ce que quelque chose autour de vous va plus vite que vous ? » Si non, c’est un raté : dites-le, notez-le, et passez à la suite.

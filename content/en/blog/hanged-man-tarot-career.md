@@ -1,6 +1,6 @@
 ---
 title: "The Hanged Man tarot card in career: a pause at work, and what it's for"
-description: "The Hanged Man in a career reading: a pause at work — a project on hold, a wait, a career break — and what it’s for. Its lenses, reversed, pairs, and a kinder question."
+description: "The Hanged Man in a career reading: a pause at work — a project on hold, a wait, a break — and what it’s for. Its lenses, reversed, pairs and a kinder question."
 translationKey: "post-hanged-man-tarot-career"
 type: blog
 date: 2026-10-24
