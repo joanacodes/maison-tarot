@@ -57,6 +57,8 @@ Le savant fou, le clown, le fondateur de start-up, le youtubeur tech.
 
 Quand l’Étoile sort, le Verseau est là : l’idéal, l’espoir qui ne lâche pas, l’idée neuve qu’on verse pour tout le monde. Bien posé, c’est l’élan qui répare. Mal posé, c’est l’idée qu’on croit savoir et qu’on n’a pas vérifiée. La carte a [sa propre page](/fr/bibliotheque/cartes-tarot/l-etoile/), avec toutes ses clés.
 
+{{< cards "ar17" >}}
+
 ## Ce que la Maison ne dit pas {#limites}
 
 Ce signe n’explique personne. L’hôte a testé son thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)

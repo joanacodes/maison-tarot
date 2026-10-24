@@ -40,6 +40,8 @@ Venus says what you love and how you love: taste, attraction, the way you bond, 
 
 The Empress, arcana III: Venus is drawn on her shield, literally. Through Taurus, the same Empress; through Libra, Justice. In the minors: the Four of Wands, the Two and Seven of Cups, the Five of Swords, the Nine of Pentacles. [The main card's page.](/library/tarot-cards/the-empress/)
 
+{{< cards "ar03" >}}
+
 ## What the test showed {#test}
 
 A third accurate, and one rule: I don't read 'does he love me' with Venus or with anything else. Venus is for reading a Cups card — the Two of Cups is ruled by Venus, and it shows — not for predicting a feeling.

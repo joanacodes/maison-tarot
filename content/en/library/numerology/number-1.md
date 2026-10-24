@@ -70,6 +70,8 @@ You don't have to memorise these five. You already know they're about a beginnin
 - [Ace of Swords](/library/tarot-cards/ace-of-swords/) — 1 + Air: a clear idea, a decision that just landed, a truth breaking through.
 - [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/) — 1 + Earth: a concrete opportunity, money arriving, a project that finally has a base.
 
+{{< cards "ar01 waac cuac swac peac" >}}
+
 ## In a reading {#reading}
 
 A 1 in a spread says: **something has just started, or is about to**. Look at the card next to it to know whether the person knows. Next to a [Ten](/library/numerology/number-10/), it's the page turning. Next to a [Five](/library/numerology/number-5/), it's a start already under dispute. On its own, it's an invitation not to run.

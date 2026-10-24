@@ -58,6 +58,8 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 - [Deux de Épées](/fr/bibliotheque/cartes-tarot/deux-de-epees/) — 2 + Air.
 - [Deux de Pentacles](/fr/bibliotheque/cartes-tarot/deux-de-pentacles/) — 2 + Terre.
 
+{{< cards "ar02 wa02 cu02 sw02 pe02" >}}
+
 ## En lecture {#lecture}
 
 Un 2 dans un tirage dit : **il y a deux parties, et le lien entre elles est la question.** Un couple, un associé, un choix entre deux options tenues à égale distance. Le Deux de Coupes noue, le Deux d’Épées retient, le Deux de Bâtons regarde au loin avant de partir, le Deux de Pentacles jongle. La Grande Prêtresse, elle, garde le lien secret : c’est un 2 qui ne dit pas encore.

@@ -50,6 +50,8 @@ The rank says *how* one acts; the [element](/library/four-elements/) says *on wh
 - [The Knight of Swords](/library/tarot-cards/knight-of-swords/) — Air.
 - [The Knight of Pentacles](/library/tarot-cards/knight-of-pentacles/) — Earth.
 
+{{< cards "wakn cukn swkn pekn" >}}
+
 ## In a reading {#reading}
 
 A Knight in a spread says: **it's moving, and fast.** A departure, a decision taken on the go, a person arriving with momentum. The Knight of Wands throws themselves at the project, Swords cuts without looking, Cups brings a proposal, Pentacles advances at their own stubborn pace. Each one's excess is their quality pushed too far.

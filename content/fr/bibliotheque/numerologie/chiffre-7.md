@@ -57,6 +57,8 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 - [Sept de Épées](/fr/bibliotheque/cartes-tarot/sept-de-epees/) — 7 + Air.
 - [Sept de Pentacles](/fr/bibliotheque/cartes-tarot/sept-de-pentacles/) — 7 + Terre.
 
+{{< cards "ar07 wa07 cu07 sw07 pe07" >}}
+
 ## En lecture {#lecture}
 
 Un 7 dans un tirage dit : **prenez le temps de regarder avant de décider.** Le Sept de Pentacles contemple sa récolte, le Sept de Coupes hésite entre des illusions, le Sept d’Épées agit en douce, le Sept de Bâtons tient sa position. Le Chariot est le 7 de la volonté : il avance parce qu’il a analysé où il va.

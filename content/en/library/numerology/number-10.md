@@ -57,6 +57,8 @@ You don't have to memorise them. The number says the step; the [element](/librar
 - [Ten of Swords](/library/tarot-cards/ten-of-swords/) — 10 + Air.
 - [Ten of Pentacles](/library/tarot-cards/ten-of-pentacles/) — 10 + Earth.
 
+{{< cards "ar10 wa10 cu10 sw10 pe10" >}}
+
 ## In a reading {#reading}
 
 A 10 in a spread says: **a page is turning.** The Ten of Cups closes the cycle in joy, the Ten of Pentacles hands it on, the Ten of Wands carries it to the end, bent double, the Ten of Swords finishes it on the ground — the worst image in the deck, and yet there's dawn at the back. The Wheel of Fortune is the 10 that turns: nothing stays up, nothing stays down.

@@ -57,6 +57,8 @@ Le militaire, le guerrier, le maçon qui monte le mur pendant que d’autres dis
 
 Quand l’Empereur sort, le Bélier est dans la pièce : quelqu’un commande, commence, tranche. Bien posé, c’est l’autorité qui protège. Mal posé, c’est le mur monté trop vite. Regardez la carte d’à côté pour savoir si le plan existe. La carte a [sa propre page](/fr/bibliotheque/cartes-tarot/l-empereur/), avec toutes ses clés.
 
+{{< cards "ar04" >}}
+
 ## Ce que la Maison ne dit pas {#limites}
 
 Ce signe n’explique personne. L’hôte a testé son thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)

@@ -38,6 +38,8 @@ gallery: []
 
 The Empress's wheat, the leaves on the Wands, the Queen of Pentacles' garden, the vines of the Nine and the King of Pentacles, Temperance's hills, the Page of Pentacles' robe. Green is almost always at the figures' feet: it's their ground.
 
+{{< cards "ar03 pequ peki ar14 pepa" >}}
+
 ## How to read it {#reading}
 
 Green says **growth, life, prosperity, nature**. A green card is about something that was planted and is giving — or about to. It's the colour of [Earth](/library/four-elements/earth-element/) when it nourishes.

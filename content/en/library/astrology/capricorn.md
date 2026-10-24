@@ -55,6 +55,8 @@ Jon Snow in Game of Thrones; Miranda Priestly in The Devil Wears Prada; army chi
 
 When the Devil comes out, Capricorn is there: ambition, structure, and the chains that come with them — which can be removed, if you look closely. Well placed, it's responsibility taken. Badly placed, it's the tool become the master. The card has [its own page](/library/tarot-cards/the-devil/), with all its lenses.
 
+{{< cards "ar15" >}}
+
 ## What Maison Tarot doesn't say {#limits}
 
 This sign explains no one. I tested my chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)

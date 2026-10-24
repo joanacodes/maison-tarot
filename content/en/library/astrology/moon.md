@@ -41,6 +41,8 @@ The Moon says what you feel when nobody's watching: the need for safety, emotion
 
 The High Priestess, arcana II, in the Golden Dawn tradition: the moon at her feet, the veil, what is known and not said. The Moon card (XVIII) carries Pisces, not the Moon itself — a frequent confusion. In the minors: the Four of Cups, the Nine of Wands, the Two of Swords, the Seven of Swords, the Six of Pentacles. [The main card's page.](/library/tarot-cards/the-high-priestess/)
 
+{{< cards "ar02" >}}
+
 ## What the test showed {#test}
 
 A little over a third in the test, but with a bias: it's the placement people most readily say 'yes, that's it' to, because it describes what they already know about themselves. I use it as a lens on the Water cards, not as a portrait.

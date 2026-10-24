@@ -55,6 +55,8 @@ The keeper of the garden, the one who maintains; conservative Taurus, the opposi
 
 When the Empress comes out, Taurus is there: something grows, feeds, holds. Well placed, it's the prosperity that comes from having tended. Badly placed, it's what you can no longer let go of. The Four of Pentacles next to it says which. The card has [its own page](/library/tarot-cards/the-empress/), with all its lenses.
 
+{{< cards "ar03" >}}
+
 ## What Maison Tarot doesn't say {#limits}
 
 This sign explains no one. I tested my chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)

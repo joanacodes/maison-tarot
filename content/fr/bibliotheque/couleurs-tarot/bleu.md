@@ -39,6 +39,8 @@ gallery: []
 
 La robe de la Grande Prêtresse, le manteau de l’Impératrice, l’eau de toutes les Coupes, la robe de la Tempérance, la rivière au pied de l’Empereur, le fond du Cavalier de Coupes. Le bleu est là où l’émotion est là.
 
+{{< cards "ar02 ar03 ar14 ar04 cukn" >}}
+
 ## Comment la lire {#lecture}
 
 Le bleu dit **émotion, pureté, vitalité, ce qui circule**. Une carte bleue parle du monde intérieur — une relation, un chagrin, une paix retrouvée. C’est la couleur de l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/), à énergie [féminine](/fr/bibliotheque/energies-feminine-masculine/) : ce qui se cache, ce qui porte.

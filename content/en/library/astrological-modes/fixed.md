@@ -45,6 +45,8 @@ The fixed signs sit in the middle of the seasons: Taurus at the heart of spring,
 | Scorpio | Water | [Death](/library/tarot-cards/death/) | Transformation all the way through |
 | Aquarius | Air | [The Star](/library/tarot-cards/the-star/) | The ideal, the hope that won't let go |
 
+{{< cards "ar03 ar08 ar13 ar17" >}}
+
 ## The advice {#advice}
 
 Hold without freezing. Fixed at its best is Strength: a gentle hand that doesn't let go; at its worst, it's the door closed to everything that wasn't planned. The advice of [4](/library/numerology/number-4/) — stay flexible — is addressed to it.

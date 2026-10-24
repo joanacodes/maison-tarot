@@ -41,6 +41,8 @@ Mercury says how you think and how you speak: the speed of the mind, the taste f
 
 The Magician, arcana I: the four tools on the table, the raised hand, the intelligence that connects. Through Gemini, the Lovers; through Virgo, the Hermit. In the minors: the Eight of Wands, the Three of Cups, the Six of Swords, the Five and Ten of Pentacles. [The main card's page.](/library/tarot-cards/the-magician/)
 
+{{< cards "ar01" >}}
+
 ## What the test showed {#test}
 
 A third accurate. I use it for one precise thing: knowing whether a person reads a card with words or with eyes. A Mercury in Air comments; a Mercury in Earth checks. Useful in a workshop, not in a reading.

@@ -50,6 +50,8 @@ The rank says *how* one acts; the [element](/library/four-elements/) says *on wh
 - [The King of Swords](/library/tarot-cards/king-of-swords/) — Air.
 - [The King of Pentacles](/library/tarot-cards/king-of-pentacles/) — Earth.
 
+{{< cards "waki cuki swki peki" >}}
+
 ## In a reading {#reading}
 
 A King in a spread says: **someone decides, or must.** An authority figure, or the moment to be one yourself. The King of Wands leads, Cups keeps calm in the storm, Swords judges, Pentacles makes things prosper. Two Kings side by side: a power conflict. A reversed King: authority that has stopped serving.

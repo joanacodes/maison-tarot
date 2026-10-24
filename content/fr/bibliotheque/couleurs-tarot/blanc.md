@@ -39,6 +39,8 @@ gallery: []
 
 La robe intérieure du Magicien, la rose et le chien du Mat, le cheval du Soleil, le cheval de la Mort, le lis de l’As de Pentacles, les vêtements de la Tempérance, la robe de l’Étoile — nue, c’est la même idée. Le blanc est sur ce qui commence propre.
 
+{{< cards "ar01 ar00 ar19 ar13 peac ar14 ar17" >}}
+
 ## Comment la lire {#lecture}
 
 Le blanc dit **pureté, innocence, paix** — ce qui n’est pas encore marqué. Une carte blanche parle d’un état neuf, d’une intention claire, d’un calme. Sur la Mort, le cheval blanc dit que la transformation est propre : elle ne salit pas, elle efface.

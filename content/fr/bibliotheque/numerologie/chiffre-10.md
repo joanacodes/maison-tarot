@@ -58,6 +58,8 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 - [Dix de Épées](/fr/bibliotheque/cartes-tarot/dix-de-epees/) — 10 + Air.
 - [Dix de Pentacles](/fr/bibliotheque/cartes-tarot/dix-de-pentacles/) — 10 + Terre.
 
+{{< cards "ar10 wa10 cu10 sw10 pe10" >}}
+
 ## En lecture {#lecture}
 
 Un 10 dans un tirage dit : **une page se tourne.** Le Dix de Coupes ferme le cycle dans la joie, le Dix de Pentacles le transmet, le Dix de Bâtons le porte jusqu’au bout, courbé, le Dix d’Épées le finit à terre — c’est la pire image du jeu, et c’est pourtant l’aube au fond. La Roue de Fortune est le 10 qui tourne : rien ne reste en haut, rien ne reste en bas.

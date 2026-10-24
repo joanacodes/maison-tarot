@@ -44,4 +44,6 @@ The teenager full of life who thinks they can do anything — and who sometimes 
 
 The Ace of Wands, for someone who has told you nothing. *Ace*: the beginning, the rough diamond ([numbers](/library/numerology/)). *Fire*: drive, creation. An idea that just arrived, an urge that’s pushing, and the advice that comes with it: stay humble, stay a student — this is the start, not the result.
 
+{{< cards "waac" >}}
+
 {{% six %}}

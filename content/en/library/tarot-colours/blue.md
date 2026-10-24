@@ -39,6 +39,8 @@ gallery: []
 
 The High Priestess's robe, the Empress's cloak, the water in every Cups card, Temperance's robe, the river at the Emperor's feet, the background of the Knight of Cups. Blue is wherever emotion is.
 
+{{< cards "ar02 ar03 ar14 ar04 cukn" >}}
+
 ## How to read it {#reading}
 
 Blue says **emotion, purity, vitality, what flows**. A blue card is about the inner world — a relationship, a grief, a peace regained. It's the colour of [Water](/library/four-elements/water-element/), with [feminine](/library/feminine-masculine-energies/) energy: what hides, what carries.

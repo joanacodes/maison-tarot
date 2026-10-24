@@ -57,6 +57,8 @@ Jon Snow dans Game of Thrones ; Miranda Priestly dans Le Diable s’habille en P
 
 Quand le Diable sort, le Capricorne est là : l’ambition, la structure, et les chaînes qui vont avec — qu’on peut retirer, si l’on regarde bien. Bien posé, c’est la responsabilité prise. Mal posé, c’est l’outil devenu maître. La carte a [sa propre page](/fr/bibliotheque/cartes-tarot/le-diable/), avec toutes ses clés.
 
+{{< cards "ar15" >}}
+
 ## Ce que la Maison ne dit pas {#limites}
 
 Ce signe n’explique personne. L’hôte a testé son thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)

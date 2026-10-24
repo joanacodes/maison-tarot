@@ -39,6 +39,8 @@ gallery: []
 
 The King of Cups' cloak, the Queen of Swords' robe, touches on the Hierophant and on Judgement, the cloth of the Wheel of Fortune. Purple sits on the shoulders of those who carry an office.
 
+{{< cards "cuki swqu ar05 ar20 ar10" >}}
+
 ## How to read it {#reading}
 
 Purple says **appointed, mandated, chosen by others**. A purple card is about a responsibility received — a post, a role, a place others gave you. It's the colour of institutions and ranks, and it asks: for whom are you carrying this?

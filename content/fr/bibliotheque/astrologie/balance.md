@@ -56,6 +56,8 @@ Le diplomate ; l’arbitre ; celui qui refait le partage jusqu’à ce que perso
 
 Quand la Justice sort, la Balance est là : une décision à prendre au juste, un compte à régler équitablement. Bien posé, c’est le jugement clair. Mal posé, c’est la balance qu’on regarde osciller sans jamais la lire. La carte a [sa propre page](/fr/bibliotheque/cartes-tarot/la-justice/), avec toutes ses clés.
 
+{{< cards "ar11" >}}
+
 ## Ce que la Maison ne dit pas {#limites}
 
 Ce signe n’explique personne. L’hôte a testé son thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)

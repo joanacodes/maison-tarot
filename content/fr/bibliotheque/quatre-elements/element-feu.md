@@ -44,4 +44,6 @@ L’adolescent plein de vie, qui pense pouvoir tout faire — et qui, parfois, s
 
 L’As de Bâtons, pour quelqu’un qui ne vous a rien dit. *As* : le début, le diamant brut ([les nombres](/fr/bibliotheque/numerologie/)). *Feu* : l’élan, la création. Une idée qui vient d’arriver, une envie qui pousse, et le conseil qui va avec : rester humble, rester élève — c’est le début, pas le résultat.
 
+{{< cards "waac" >}}
+
 {{% six %}}

@@ -39,6 +39,8 @@ Jupiter says where you're lucky, or what you take for luck: expansion, confidenc
 
 The Wheel of Fortune, arcana X: what goes up, what goes down, and the fact that nothing stays. Through Sagittarius, Temperance. In the minors: the Six of Wands, the Nine of Cups, the Four and Eight of Swords, the Two of Pentacles. [The main card's page.](/library/tarot-cards/wheel-of-fortune/)
 
+{{< cards "ar10" >}}
+
 ## What the test showed {#test}
 
 A third — and I distrust it more than the others, because it's the placement that makes people say 'it'll be fine'. Jupiter on a card is useful for one thing: recognising the Six, expansion, and remembering the advice that goes with it — stay humble.

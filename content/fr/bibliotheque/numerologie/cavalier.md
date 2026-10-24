@@ -50,6 +50,8 @@ Le rang dit *comment* on agit ; l’[élément](/fr/bibliotheque/quatre-elements
 - [Le Cavalier de Épées](/fr/bibliotheque/cartes-tarot/cavalier-de-epees/) — Air.
 - [Le Cavalier de Pentacles](/fr/bibliotheque/cartes-tarot/cavalier-de-pentacles/) — Terre.
 
+{{< cards "wakn cukn swkn pekn" >}}
+
 ## En lecture {#lecture}
 
 Un Cavalier dans un tirage dit : **ça bouge, et vite.** Un départ, une décision prise en marchant, une personne qui arrive avec de l’élan. Le Cavalier de Bâtons se jette dans le projet, celui d’Épées tranche sans regarder, celui de Coupes apporte une proposition, celui de Pentacles avance à son rythme, obstiné. L’excès de chacun est sa qualité poussée trop loin.

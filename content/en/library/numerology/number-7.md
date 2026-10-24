@@ -57,6 +57,8 @@ You don't have to memorise them. The number says the step; the [element](/librar
 - [Seven of Swords](/library/tarot-cards/seven-of-swords/) — 7 + Air.
 - [Seven of Pentacles](/library/tarot-cards/seven-of-pentacles/) — 7 + Earth.
 
+{{< cards "ar07 wa07 cu07 sw07 pe07" >}}
+
 ## In a reading {#reading}
 
 A 7 in a spread says: **take the time to look before deciding.** The Seven of Pentacles contemplates its harvest, the Seven of Cups hesitates between illusions, the Seven of Swords acts on the sly, the Seven of Wands holds its ground. The Chariot is the 7 of will: it moves because it has analysed where it's going.

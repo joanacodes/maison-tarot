@@ -39,6 +39,8 @@ gallery: []
 
 Le manteau du Roi de Coupes, la robe de la Reine d’Épées, des touches sur le Hiérophante et sur le Jugement, le tissu de la Roue de Fortune. Le violet est sur les épaules de ceux qui portent une fonction.
 
+{{< cards "cuki ar05 ar20 ar10" >}}
+
 ## Comment la lire {#lecture}
 
 Le violet dit **désigné, mandaté, choisi par les autres**. Une carte violette parle d’une responsabilité reçue — un poste, un rôle, une place que d’autres vous ont donnée. C’est la couleur des institutions et des rangs, et elle demande : pour qui portez-vous ça ?

@@ -45,6 +45,8 @@ The mutable signs end the seasons: Gemini spring, Virgo summer, Sagittarius autu
 | Sagittarius | Fire | [Temperance](/library/tarot-cards/temperance/) | Blending, measure, travel |
 | Pisces | Water | [The Moon](/library/tarot-cards/the-moon/) | Intuition, illusion, dream |
 
+{{< cards "ar06 ar09 ar14 ar18" >}}
+
 ## The advice {#advice}
 
 Change without getting lost. Mutable at its best is Temperance: it blends two things and makes a third; at its worst it's the Moon with no shore — everything moves and nothing settles. The advice of [10](/library/numerology/number-10/) — breathe before the next 1 — is its advice too.

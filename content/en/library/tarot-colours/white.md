@@ -38,6 +38,8 @@ gallery: []
 
 The Magician's inner robe, the Fool's rose and dog, the Sun's horse, Death's horse, the lily of the Ace of Pentacles, Temperance's clothes, the Star's robe — bare, it's the same idea. White is on what starts clean.
 
+{{< cards "ar01 ar00 ar19 ar13 peac ar14 ar17" >}}
+
 ## How to read it {#reading}
 
 White says **purity, innocence, peace** — what isn't marked yet. A white card is about a new state, a clear intention, a calm. On Death, the white horse says the transformation is clean: it doesn't soil, it erases.

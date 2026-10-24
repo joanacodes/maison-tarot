@@ -39,6 +39,8 @@ gallery: []
 
 The sky of the Fool, the Magician, Strength, the Wheel of Fortune, the Sun, many Pentacles and Cups — the Three of Cups, the Six of Cups, the Nine of Pentacles. The blond hair of the Empress and the Fool. Yellow is the background of the world when the world is well.
 
+{{< cards "ar00 ar01 ar08 ar10 ar19 cu03 cu06 pe09 ar03" >}}
+
 ## How to read it {#reading}
 
 Yellow says **joy, will, pride, the child within**. A yellow-sky card is about something expressing itself, asserting itself, glad to be there. It's also the colour of will: what you want, you want in the sun.

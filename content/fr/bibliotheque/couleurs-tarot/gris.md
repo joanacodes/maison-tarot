@@ -38,6 +38,8 @@ gallery: []
 
 Le ciel gris du Cinq de Coupes et du Trois d’Épées, les piliers du Hiérophante et de la Justice, le trône de l’Empereur, le mur du Quatre d’Épées, les nuages du Quatre de Coupes, la pierre de la Tour avant qu’elle ne brûle. Le gris est la matière qui ne bouge pas.
 
+{{< cards "cu05 ar05 ar11 ar04 cu04 ar16" >}}
+
 ## Comment la lire {#lecture}
 
 Le gris dit **neutralité, stabilité, absence de volonté**. Un ciel gris parle d’une situation qui ne se décide pas ; une pierre grise, d’une structure qui tient sans rien dire. Sur les cartes de la Justice et du Hiérophante, le gris est l’institution : ce qui juge sans émotion.

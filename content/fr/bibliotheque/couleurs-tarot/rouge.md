@@ -40,6 +40,8 @@ gallery: []
 
 Le manteau extérieur du Magicien et sa ceinture ; la plume rouge du Mat et du Soleil ; la robe de la Force ; le manteau de l’Empereur ; les vêtements du Cavalier de Bâtons ; la bannière de la Mort ; les ailes du lion des Amoureux. Le rouge est presque toujours sur un corps qui fait quelque chose.
 
+{{< cards "ar01 ar00 ar19 ar08 ar04 wakn ar13 ar06" >}}
+
 ## Comment la lire {#lecture}
 
 Le rouge dit **action, désir, force** — l’énergie qui pousse. À côté du jaune, c’est de l’action joyeuse ; à côté du noir, c’est de la force sans direction. Une carte où le rouge domine parle de ce qu’on est en train de faire, pas de ce qu’on ressent : c’est une couleur de [Feu](/fr/bibliotheque/quatre-elements/element-feu/), à énergie [masculine](/fr/bibliotheque/energies-feminine-masculine/).

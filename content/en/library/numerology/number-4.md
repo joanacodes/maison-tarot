@@ -57,6 +57,8 @@ You don't have to memorise them. The number says the step; the [element](/librar
 - [Four of Swords](/library/tarot-cards/four-of-swords/) — 4 + Air.
 - [Four of Pentacles](/library/tarot-cards/four-of-pentacles/) — 4 + Earth.
 
+{{< cards "ar04 wa04 cu04 sw04 pe04" >}}
+
 ## In a reading {#reading}
 
 A 4 in a spread says: **it holds.** The Four of Wands celebrates a home, the Four of Pentacles clutches what it has, the Four of Cups is bored in its comfort, the Four of Swords rests. The Emperor is the 4 that structures: the rule, the throne, the frame. Look at whether the stability protects or confines.

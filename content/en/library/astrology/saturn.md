@@ -42,6 +42,8 @@ Saturn says the hardest lesson: where you're limited, required to prove yourself
 
 The World, arcana XXI: the laurel wreath, the end of the cycle, what you ended up building. Through Capricorn, the Devil — Saturn when structure has become a chain. In the minors: the Five and Ten of Wands, the Eight of Cups, the Three of Swords, the Seven of Pentacles. [The main card's page.](/library/tarot-cards/the-world/)
 
+{{< cards "ar21" >}}
+
 ## What the test showed {#test}
 
 **75 to 90% in the test.** That's the result that made me keep astrology. Wherever Saturn sat, the person recognised their hardest lesson almost every time, often in the exact words. I read Saturn as the World and the Devil: what you ended up building, and what chained you in the meantime.

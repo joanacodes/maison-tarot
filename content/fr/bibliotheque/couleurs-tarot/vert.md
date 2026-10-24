@@ -38,6 +38,8 @@ gallery: []
 
 Le blé de l’Impératrice, les feuilles des Bâtons, le jardin de la Reine de Pentacles, les vignes du Neuf et du Roi de Pentacles, les collines de la Tempérance, la robe du Valet de Pentacles. Le vert est presque toujours au pied des personnages : c’est leur terrain.
 
+{{< cards "ar03 pequ peki ar14 pepa" >}}
+
 ## Comment la lire {#lecture}
 
 Le vert dit **croissance, vie, prospérité, nature**. Une carte verte parle de quelque chose qui a été planté et qui donne — ou qui va donner. C’est la couleur de la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) quand elle est nourricière.

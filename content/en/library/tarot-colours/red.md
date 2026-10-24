@@ -39,6 +39,8 @@ gallery: []
 
 The Magician's outer cloak and his belt; the red feather of the Fool and the Sun; Strength's robe; the Emperor's cloak; the Knight of Wands' clothes; Death's banner; the wings of the Lovers' angel. Red is almost always on a body doing something.
 
+{{< cards "ar01 ar00 ar19 ar08 ar04 wakn ar13 ar06" >}}
+
 ## How to read it {#reading}
 
 Red says **action, desire, strength** — the energy that pushes. Next to yellow it's joyful action; next to black it's force without direction. A card where red dominates is about what is being done, not what is felt: it's a [Fire](/library/four-elements/fire-element/) colour, with [masculine](/library/feminine-masculine-energies/) energy.

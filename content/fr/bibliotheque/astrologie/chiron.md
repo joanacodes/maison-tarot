@@ -42,6 +42,8 @@ Chiron est un petit corps entre Saturne et Uranus, découvert en 1977, nommé d�
 
 Pas d’attribution ancienne. La Maison le lit avec l’Ermite, arcane IX : celui qui s’est retiré, qui porte une lanterne, et qui éclaire le chemin des autres avec ce qu’il a appris de sa propre nuit. Et parfois avec le Trois d’Épées, la blessure nette, et le Six d’Épées, la traversée qui la laisse derrière. [La page de la carte principale.](/fr/bibliotheque/cartes-tarot/l-ermite/)
 
+{{< cards "ar09" >}}
+
 ## Ce que le test a montré {#test}
 
 **75 à 90 % au test.** Le troisième des trois placements qui ont tenu. La Maison remarque que Saturne, Lilith et Chiron parlent tous d’une difficulté — la leçon, le caché, la blessure — et que c’est peut-être ce que les gens savent le mieux d’eux-mêmes. Elle s’en sert pour une chose : rappeler qu’un bon lecteur lit avec sa propre blessure, pas malgré elle.

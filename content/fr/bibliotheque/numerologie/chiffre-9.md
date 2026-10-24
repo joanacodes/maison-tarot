@@ -58,6 +58,8 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 - [Neuf de Épées](/fr/bibliotheque/cartes-tarot/neuf-de-epees/) — 9 + Air.
 - [Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/) — 9 + Terre.
 
+{{< cards "ar09 wa09 cu09 sw09 pe09" >}}
+
 ## En lecture {#lecture}
 
 Un 9 dans un tirage dit : **on y est presque, et ça se sent.** Le Neuf de Pentacles jouit seul de ce qu’il a construit, le Neuf de Coupes a ce qu’il voulait, le Neuf de Bâtons tient debout, blessé, le Neuf d’Épées ne dort plus à force d’y penser. L’Ermite est le 9 qui regarde en lui : la lanterne avant le dernier pas.

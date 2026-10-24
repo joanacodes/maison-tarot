@@ -57,6 +57,8 @@ You don't have to memorise them. The number says the step; the [element](/librar
 - [Nine of Swords](/library/tarot-cards/nine-of-swords/) — 9 + Air.
 - [Nine of Pentacles](/library/tarot-cards/nine-of-pentacles/) — 9 + Earth.
 
+{{< cards "ar09 wa09 cu09 sw09 pe09" >}}
+
 ## In a reading {#reading}
 
 A 9 in a spread says: **you're almost there, and it shows.** The Nine of Pentacles enjoys alone what it built, the Nine of Cups has what it wanted, the Nine of Wands stands, wounded, the Nine of Swords can't sleep from thinking about it. The Hermit is the 9 that looks inward: the lantern before the last step.

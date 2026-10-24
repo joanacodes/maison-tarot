@@ -51,6 +51,8 @@ Le rang dit *comment* on agit ; l’[élément](/fr/bibliotheque/quatre-elements
 - [La Reine de Épées](/fr/bibliotheque/cartes-tarot/reine-de-epees/) — Air.
 - [La Reine de Pentacles](/fr/bibliotheque/cartes-tarot/reine-de-pentacles/) — Terre.
 
+{{< cards "waqu cuqu swqu pequ" >}}
+
 ## En lecture {#lecture}
 
 Une Reine dans un tirage dit : **quelqu’un maîtrise ceci de l’intérieur.** Une personne mûre dans son domaine, ou l’état de celui qui n’a plus besoin de courir. La Reine de Coupes comprend sans qu’on explique, celle de Bâtons rayonne, celle d’Épées tranche avec justesse, celle de Pentacles fait pousser. Ce n’est pas une question de sexe : un homme peut être Reine, et beaucoup le sont.

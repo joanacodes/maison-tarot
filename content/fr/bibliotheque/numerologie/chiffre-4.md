@@ -58,6 +58,8 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 - [Quatre de Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/) — 4 + Air.
 - [Quatre de Pentacles](/fr/bibliotheque/cartes-tarot/quatre-de-pentacles/) — 4 + Terre.
 
+{{< cards "ar04 wa04 cu04 sw04 pe04" >}}
+
 ## En lecture {#lecture}
 
 Un 4 dans un tirage dit : **ça tient.** Le Quatre de Bâtons fête une maison, le Quatre de Pentacles serre ce qu’il a, le Quatre de Coupes s’ennuie dans son confort, le Quatre d’Épées se repose. L’Empereur est le 4 qui structure : la règle, le trône, le cadre. Regardez si la stabilité protège ou si elle enferme.

@@ -45,4 +45,6 @@ An artist’s manager. Works in the shadows, constantly and solemnly, and it’s
 
 You draw the Ten of Pentacles for someone who has told you nothing. Before looking up what the card “means”, you already have two things: *ten* — the end of a cycle, the transition ([numbers](/library/numerology/)) — and *Earth* — what has value, what has been built. You can already talk about an inheritance, a house, an estate changing hands. You memorised nothing.
 
+{{< cards "pe10" >}}
+
 {{% six %}}

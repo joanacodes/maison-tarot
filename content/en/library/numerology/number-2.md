@@ -58,6 +58,8 @@ You don't have to memorise them. The number says the step; the [element](/librar
 - [Two of Swords](/library/tarot-cards/two-of-swords/) — 2 + Air.
 - [Two of Pentacles](/library/tarot-cards/two-of-pentacles/) — 2 + Earth.
 
+{{< cards "ar02 wa02 cu02 sw02 pe02" >}}
+
 ## In a reading {#reading}
 
 A 2 in a spread says: **there are two parties, and the bond between them is the question.** A couple, a partner, a choice between two options held at equal distance. The Two of Cups ties, the Two of Swords holds back, the Two of Wands looks far before leaving, the Two of Pentacles juggles. The High Priestess keeps the bond secret: a 2 that doesn't say yet.

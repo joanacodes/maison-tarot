@@ -40,6 +40,8 @@ Jupiter dit où l’on a de la chance, ou ce qu’on prend pour de la chance : l
 
 La Roue de Fortune, arcane X : ce qui monte, ce qui descend, et le fait que rien ne reste. Par le Sagittaire, Tempérance. Dans les mineurs : le Six de Bâtons, le Neuf de Coupes, le Quatre et le Huit d’Épées, le Deux de Pentacles. [La page de la carte principale.](/fr/bibliotheque/cartes-tarot/la-roue-de-fortune/)
 
+{{< cards "ar10" >}}
+
 ## Ce que le test a montré {#test}
 
 Un tiers — et la Maison se méfie de lui plus que des autres, parce que c’est le placement qui fait dire « ça va aller ». Jupiter sur une carte est utile pour une chose : reconnaître le Six, l’expansion, et se rappeler le conseil qui va avec — rester humble.

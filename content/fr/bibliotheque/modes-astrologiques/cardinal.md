@@ -46,6 +46,8 @@ En astrologie, chaque signe a un mode — cardinal, fixe ou mutable — qui dit 
 | Balance | Air | [La Justice](/fr/bibliotheque/cartes-tarot/la-justice/) | La décision juste, l’équilibre |
 | Capricorne | Terre | [Le Diable](/fr/bibliotheque/cartes-tarot/le-diable/) | L’ambition, la structure — et ses chaînes |
 
+{{< cards "ar04 ar02 ar11 ar15" >}}
+
 ## Le conseil {#conseil}
 
 Commencer, puis passer le relais. Le cardinal à son meilleur donne l’impulsion ; à son pire, il lance dix choses et n’en tient aucune. Le conseil du [1](/fr/bibliotheque/numerologie/chiffre-1/) — rester humble — est aussi le sien.

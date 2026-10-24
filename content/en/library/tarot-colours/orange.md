@@ -38,6 +38,8 @@ gallery: []
 
 The ground and sky of many Wands — the Three, the Five, the Seven — the Knight of Wands' robe, the Chariot's canopy, the background of the Wheel of Fortune, the Devil's flames. Wherever the world heats up.
 
+{{< cards "wakn ar07 ar10 ar15" >}}
+
 ## How to read it {#reading}
 
 Orange says **creativity, libido, heat** — the energy that makes. An orange card is about a desire looking for a shape: a project, an attraction, an urge to do. It's the colour of the [Wands](/library/four-elements/fire-element/) above all.

@@ -40,6 +40,8 @@ Mars says how you act and how you fight: raw energy, anger, desire, the way you 
 
 The Tower, arcana XVI: the lightning, the falling crown, what collapses at once. Through Aries, the Emperor — Mars in its built version. In the minors: the Two and Seven of Wands, the Five and Ten of Cups, the Nine of Swords, the Three of Pentacles. [The main card's page.](/library/tarot-cards/the-tower/)
 
+{{< cards "ar16" >}}
+
 ## What the test showed {#test}
 
 A little under one in two: better than average. I read Mars as the Tower and the Emperor together — the same force, depending on whether it has a plan. On a Wands card, Mars says speed; on a Swords card, harshness.

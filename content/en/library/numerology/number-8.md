@@ -57,6 +57,8 @@ You don't have to memorise them. The number says the step; the [element](/librar
 - [Eight of Swords](/library/tarot-cards/eight-of-swords/) — 8 + Air.
 - [Eight of Pentacles](/library/tarot-cards/eight-of-pentacles/) — 8 + Earth.
 
+{{< cards "ar08 wa08 cu08 sw08 pe08" >}}
+
 ## In a reading {#reading}
 
 An 8 in a spread says: **it's solid, and it lasts.** The Eight of Pentacles works piece after piece, the Eight of Wands flies — speed mastered — the Eight of Cups leaves what's built to look for something else, the Eight of Swords thinks itself prisoner of what it built. Strength is the 8 of inner mastery: the gentleness that holds the lion.

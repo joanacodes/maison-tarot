@@ -45,6 +45,8 @@ Les signes fixes sont au milieu des saisons : le Taureau au cœur du printemps, 
 | Scorpion | Eau | [La Mort](/fr/bibliotheque/cartes-tarot/la-mort/) | La transformation jusqu’au bout |
 | Verseau | Air | [L’Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/) | L’idéal, l’espoir qui ne lâche pas |
 
+{{< cards "ar03 ar08 ar13 ar17" >}}
+
 ## Le conseil {#conseil}
 
 Tenir sans se figer. Le fixe à son meilleur est la Force : une main douce qui ne lâche pas ; à son pire, c’est la porte fermée à tout ce qui n’était pas prévu. Le conseil du [4](/fr/bibliotheque/numerologie/chiffre-4/) — rester souple — lui est adressé.

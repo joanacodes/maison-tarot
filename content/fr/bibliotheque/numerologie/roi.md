@@ -52,6 +52,8 @@ Le rang dit *comment* on agit ; l’[élément](/fr/bibliotheque/quatre-elements
 - [Le Roi de Épées](/fr/bibliotheque/cartes-tarot/roi-de-epees/) — Air.
 - [Le Roi de Pentacles](/fr/bibliotheque/cartes-tarot/roi-de-pentacles/) — Terre.
 
+{{< cards "waki cuki swki peki" >}}
+
 ## En lecture {#lecture}
 
 Un Roi dans un tirage dit : **quelqu’un décide, ou doit décider.** Une figure d’autorité, ou le moment de l’être soi-même. Le Roi de Bâtons entraîne, celui de Coupes garde son calme dans la tempête, celui d’Épées juge, celui de Pentacles fait fructifier. Deux Rois côte à côte : un conflit de pouvoir. Un Roi renversé : l’autorité qui a cessé de servir.

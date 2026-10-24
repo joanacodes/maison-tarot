@@ -57,6 +57,8 @@ La mère ou le père au foyer. Hodor, dans Game of Thrones : celui qui tient la 
 
 Quand la Grande Prêtresse sort, le Cancer est là : quelque chose se ressent et ne se dit pas, quelqu’un contient. Bien posé, c’est l’intuition qui protège. Mal posé, c’est l’émotion qui monte et descend sans qu’on sache pourquoi. Le Cancer ne prend pas ; il donne. La carte a [sa propre page](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), avec toutes ses clés.
 
+{{< cards "ar02" >}}
+
 ## Ce que la Maison ne dit pas {#limites}
 
 Ce signe n’explique personne. L’hôte a testé son thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)

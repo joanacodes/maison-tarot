@@ -57,6 +57,8 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 - [Huit de Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/) — 8 + Air.
 - [Huit de Pentacles](/fr/bibliotheque/cartes-tarot/huit-de-pentacles/) — 8 + Terre.
 
+{{< cards "ar08 wa08 cu08 sw08 pe08" >}}
+
 ## En lecture {#lecture}
 
 Un 8 dans un tirage dit : **c’est solide, et ça dure.** Le Huit de Pentacles travaille pièce après pièce, le Huit de Bâtons file — la vitesse maîtrisée —, le Huit de Coupes quitte ce qui est construit pour chercher autre chose, le Huit d’Épées se croit prisonnier de ce qu’il a bâti. La Force est le 8 de la maîtrise intérieure : la douceur qui tient le lion.

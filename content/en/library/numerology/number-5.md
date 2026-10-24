@@ -57,6 +57,8 @@ You don't have to memorise them. The number says the step; the [element](/librar
 - [Five of Swords](/library/tarot-cards/five-of-swords/) — 5 + Air.
 - [Five of Pentacles](/library/tarot-cards/five-of-pentacles/) — 5 + Earth.
 
+{{< cards "ar05 wa05 cu05 sw05 pe05" >}}
+
 ## In a reading {#reading}
 
 A 5 in a spread says: **there's a conflict, and the question is what you do with it.** The Five of Wands brawls, the Five of Swords wins while losing allies, the Five of Cups mourns what's spilled instead of seeing what's standing, the Five of Pentacles walks in the snow past a lit window. The Hierophant is the 5 of institutions: the trial of the rule.

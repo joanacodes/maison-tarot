@@ -56,6 +56,8 @@ Le très bon reporter, l’avocat — ou le téléphone arabe.
 
 Quand les Amoureux sortent, les Gémeaux parlent : un choix entre deux, une conversation qui décide, un relais. Bien posé, c’est le mot juste qui unit. Mal posé, c’est la version qui circule et qui n’est plus la vraie. La carte a [sa propre page](/fr/bibliotheque/cartes-tarot/les-amoureux/), avec toutes ses clés.
 
+{{< cards "ar06" >}}
+
 ## Ce que la Maison ne dit pas {#limites}
 
 Ce signe n’explique personne. L’hôte a testé son thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)

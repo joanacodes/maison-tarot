@@ -57,6 +57,8 @@ La gardienne du jardin, celle qui entretient ; le Taureau conservateur, à l’o
 
 Quand l’Impératrice sort, le Taureau est là : quelque chose pousse, nourrit, tient. Bien posé, c’est la prospérité qui vient d’avoir soigné. Mal posé, c’est ce qu’on ne lâche plus. Le Quatre de Pentacles, à côté, dit lequel. La carte a [sa propre page](/fr/bibliotheque/cartes-tarot/l-imperatrice/), avec toutes ses clés.
 
+{{< cards "ar03" >}}
+
 ## Ce que la Maison ne dit pas {#limites}
 
 Ce signe n’explique personne. L’hôte a testé son thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)

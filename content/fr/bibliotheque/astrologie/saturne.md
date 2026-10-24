@@ -44,6 +44,8 @@ Saturne dit la leçon la plus dure : là où l’on est limité, tenu de faire s
 
 Le Monde, arcane XXI : la couronne de lauriers, la fin du cycle, ce qu’on a fini par construire. Par le Capricorne, le Diable — Saturne quand la structure est devenue une chaîne. Dans les mineurs : le Cinq et le Dix de Bâtons, le Huit de Coupes, le Trois d’Épées, le Sept de Pentacles. [La page de la carte principale.](/fr/bibliotheque/cartes-tarot/le-monde/)
 
+{{< cards "ar21" >}}
+
 ## Ce que le test a montré {#test}
 
 **75 à 90 % au test.** C’est le résultat qui a fait garder l’astrologie à la Maison. Là où Saturne était placé, la personne reconnaissait sa leçon la plus dure, presque à chaque fois, souvent avec les mots exacts. La Maison lit Saturne comme le Monde et le Diable : ce qu’on a fini par bâtir, et ce qui nous a enchaînés en attendant.

@@ -40,6 +40,8 @@ gallery: []
 
 Le manteau du Cinq de Coupes, le fond du Diable, le ciel de la Tour, l’armure de la Mort, le chat de la Reine de Bâtons, le pilier gauche de la Grande Prêtresse. Le noir n’habille presque jamais quelqu’un qui va bien.
 
+{{< cards "cu05 ar15 ar16 ar13 waqu ar02" >}}
+
 ## Comment la lire {#lecture}
 
 Le noir dit **absence, pensées négatives, faire le vide, réalité**. Une carte noire parle de ce qui manque, de ce qui pèse, ou de ce qu’on refuse de voir. Mais aussi de ce qui est *vrai* : le noir est la couleur de la chose nue, sans le vernis.

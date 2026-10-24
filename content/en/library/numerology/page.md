@@ -50,6 +50,8 @@ The rank says *how* one acts; the [element](/library/four-elements/) says *on wh
 - [The Page of Swords](/library/tarot-cards/page-of-swords/) — Air.
 - [The Page of Pentacles](/library/tarot-cards/page-of-pentacles/) — Earth.
 
+{{< cards "wapa cupa swpa pepa" >}}
+
 ## In a reading {#reading}
 
 A Page in a spread says: **someone is learning, or news is coming.** The Page of Cups gets a fish in the cup — an unexpected feeling; the Page of Wands watches the wand sprout — a new urge; the Page of Swords keeps watch — an idea sharpening; the Page of Pentacles contemplates the coin — a concrete offer. Sometimes a young person, more often a state: the start of an apprenticeship.

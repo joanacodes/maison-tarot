@@ -52,6 +52,8 @@ Le rang dit *comment* on agit ; l’[élément](/fr/bibliotheque/quatre-elements
 - [Le Valet de Épées](/fr/bibliotheque/cartes-tarot/valet-de-epees/) — Air.
 - [Le Valet de Pentacles](/fr/bibliotheque/cartes-tarot/valet-de-pentacles/) — Terre.
 
+{{< cards "wapa cupa swpa pepa" >}}
+
 ## En lecture {#lecture}
 
 Un Valet dans un tirage dit : **quelqu’un apprend, ou une nouvelle arrive.** Le Valet de Coupes reçoit un poisson dans sa coupe — une émotion inattendue ; le Valet de Bâtons regarde son bâton pousser — une envie neuve ; le Valet d’Épées guette — une idée qui s’aiguise ; le Valet de Pentacles contemple sa pièce — une offre concrète. C’est parfois une personne jeune, plus souvent un état : le début d’un apprentissage.

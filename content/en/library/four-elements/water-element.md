@@ -45,4 +45,6 @@ The warm person you feel good around, whose place feels like home. And who, when
 
 The Five of Cups, for someone who has told you nothing. *Five*: conflict, trial, making do with what’s left. *Water*: emotions, a relationship. You can already say there’s grief over something, and that the attention is on what got spilled rather than what’s still standing. Without having learned the card.
 
+{{< cards "cu05" >}}
+
 {{% six %}}

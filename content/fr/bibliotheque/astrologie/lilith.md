@@ -41,6 +41,8 @@ Lilith — la Lune noire, en astrologie moderne — n’est pas un astre : c’e
 
 Pas d’attribution Golden Dawn — Lilith est postérieure au système. La Maison la lit avec le Diable, arcane XV : les chaînes qu’on pourrait retirer, ce qu’on a laissé enchaîner, l’appétit qu’on a décidé de mépriser. Et parfois avec le Huit d’Épées : celle qui se croit prisonnière d’un lien qu’elle n’a pas vérifié. [La page de la carte principale.](/fr/bibliotheque/cartes-tarot/le-diable/)
 
+{{< cards "ar15" >}}
+
 ## Ce que le test a montré {#test}
 
 **75 à 90 % au test.** Avec Saturne et Chiron, le placement qui a le mieux tenu — souvent le plus dur à dire à voix haute, parce que la personne le savait et n’avait jamais entendu quelqu’un le dire. La Maison lit Lilith avec précaution : c’est une clé qui ouvre une porte fermée exprès. On frappe avant.

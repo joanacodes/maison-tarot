@@ -44,6 +44,8 @@ Les signes mutables terminent les saisons : les Gémeaux le printemps, la Vierge
 | Sagittaire | Feu | [Tempérance](/fr/bibliotheque/cartes-tarot/temperance/) | Le mélange, la mesure, le voyage |
 | Poissons | Eau | [La Lune](/fr/bibliotheque/cartes-tarot/la-lune/) | L’intuition, l’illusion, le rêve |
 
+{{< cards "ar06 ar09 ar14 ar18" >}}
+
 ## Le conseil {#conseil}
 
 Changer sans se perdre. Le mutable à son meilleur est Tempérance : il mélange deux choses et en fait une troisième ; à son pire, c’est la Lune sans rive — tout bouge et rien ne se pose. Le conseil du [10](/fr/bibliotheque/numerologie/chiffre-10/) — respirer avant le prochain 1 — est le sien.

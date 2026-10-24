@@ -40,6 +40,8 @@ gallery: []
 
 Tous les pentacles, les couronnes de l’Empereur et de la Justice, le Soleil, les cheveux et les blés ; et le brun des sols de l’Ermite, du Sept de Pentacles, de la Roue, des montagnes derrière le Hiérophante. L’or est ce qu’on a ; le brun est où on l’a trouvé.
 
+{{< cards "ar04 ar11 ar19 ar09 pe07 ar05" >}}
+
 ## Comment la lire {#lecture}
 
 L’or dit **valeur, réussite, ce qui brille légitimement** ; le brun dit **travail, matière, patience**. Ensemble, ils sont la couleur de la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : ce qu’on possède parce qu’on l’a cultivé. Une carte or et brun parle de résultats — les vrais, ceux qu’on peut compter.

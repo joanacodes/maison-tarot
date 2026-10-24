@@ -40,6 +40,8 @@ Uranus dit où l’on rompt : la liberté prise plutôt que demandée, l’impr�
 
 Le Mat, arcane 0 : le pas au-dessus du vide, le départ que rien ne justifie. Par le Verseau, l’Étoile. C’est une planète découverte en 1781 ; les attributions aux cartes sont modernes, et la Maison les prend pour ce qu’elles sont — une convention utile. [La page de la carte principale.](/fr/bibliotheque/cartes-tarot/le-mat/)
 
+{{< cards "ar00" >}}
+
 ## Ce que le test a montré {#test}
 
 Difficile à tester : ce qu’Uranus décrit arrive rarement au moment où l’on vérifie. La Maison s’en sert pour lire le Mat — le saut — et ne lui demande rien de plus.

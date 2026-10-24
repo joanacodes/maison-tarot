@@ -57,6 +57,8 @@ Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](
 - [Trois de Épées](/fr/bibliotheque/cartes-tarot/trois-de-epees/) — 3 + Air.
 - [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/) — 3 + Terre.
 
+{{< cards "ar03 wa03 cu03 sw03 pe03" >}}
+
 ## En lecture {#lecture}
 
 Un 3 dans un tirage dit : **ça fonctionne, et c’est visible.** Le Trois de Coupes fête, le Trois de Pentacles construit à plusieurs, le Trois de Bâtons regarde ses bateaux partir, le Trois d’Épées — le seul 3 douloureux — montre que quand trois cœurs sont en jeu, la cadence peut aussi se rompre. L’Impératrice est le 3 qui produit : la fertilité, au sens le plus large.

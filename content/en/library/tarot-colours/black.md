@@ -40,6 +40,8 @@ gallery: []
 
 The Five of Cups' cloak, the Devil's background, the Tower's sky, Death's armour, the Queen of Wands' cat, the High Priestess's left pillar. Black almost never dresses someone who's doing well.
 
+{{< cards "cu05 ar15 ar16 ar13 waqu ar02" >}}
+
 ## How to read it {#reading}
 
 Black says **absence, negative thoughts, emptying out, reality**. A black card is about what's missing, what weighs, or what someone refuses to see. But also about what is *true*: black is the colour of the bare thing, without the varnish.

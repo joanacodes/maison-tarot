@@ -39,6 +39,8 @@ gallery: []
 
 Every pentacle, the crowns of the Emperor and Justice, the Sun, hair and wheat; and the brown of the ground under the Hermit, the Seven of Pentacles, the Wheel, the mountains behind the Hierophant. Gold is what you have; brown is where you found it.
 
+{{< cards "ar04 ar11 ar19 ar09 pe07 ar05" >}}
+
 ## How to read it {#reading}
 
 Gold says **value, success, what shines legitimately**; brown says **work, matter, patience**. Together they're the colour of [Earth](/library/four-elements/earth-element/): what you own because you cultivated it. A gold-and-brown card is about results — real ones, the kind you can count.

@@ -72,6 +72,8 @@ Vous n’avez pas à mémoriser ces cinq cartes. Vous savez déjà qu’elles pa
 - [As d’Épées](/fr/bibliotheque/cartes-tarot/as-de-epees/) — 1 + Air : une idée claire, une décision qui vient de tomber, une vérité qui perce.
 - [As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/) — 1 + Terre : une opportunité concrète, de l’argent qui arrive, un projet qui a enfin une base.
 
+{{< cards "ar01 waac cuac swac peac" >}}
+
 ## En lecture {#lecture}
 
 Un 1 dans un tirage dit : **quelque chose vient de commencer, ou est sur le point de le faire**. Regardez la carte d’à côté pour savoir si la personne le sait. À côté d’un [Dix](/fr/bibliotheque/numerologie/chiffre-10/), c’est la page qui se tourne. À côté d’un [Cinq](/fr/bibliotheque/numerologie/chiffre-5/), c’est un départ déjà contesté. Seul, c’est une invitation à ne pas courir.

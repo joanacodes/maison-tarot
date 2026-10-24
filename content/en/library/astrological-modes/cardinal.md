@@ -45,6 +45,8 @@ In astrology every sign has a mode — cardinal, fixed or mutable — that says 
 | Libra | Air | [Justice](/library/tarot-cards/justice/) | The right decision, balance |
 | Capricorn | Earth | [The Devil](/library/tarot-cards/the-devil/) | Ambition, structure — and its chains |
 
+{{< cards "ar04 ar02 ar11 ar15" >}}
+
 ## The advice {#advice}
 
 Start, then hand over. Cardinal at its best gives the push; at its worst it launches ten things and holds none. The advice of [1](/library/numerology/number-1/) — stay humble — is its advice too.

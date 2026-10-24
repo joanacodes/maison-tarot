@@ -51,6 +51,8 @@ The rank says *how* one acts; the [element](/library/four-elements/) says *on wh
 - [The Queen of Swords](/library/tarot-cards/queen-of-swords/) — Air.
 - [The Queen of Pentacles](/library/tarot-cards/queen-of-pentacles/) — Earth.
 
+{{< cards "waqu cuqu swqu pequ" >}}
+
 ## In a reading {#reading}
 
 A Queen in a spread says: **someone masters this from the inside.** A person mature in their field, or the state of someone who no longer needs to run. The Queen of Cups understands without being told, Wands radiates, Swords decides with precision, Pentacles makes things grow. It isn't about sex: a man can be a Queen, and many are.

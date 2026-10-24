@@ -43,4 +43,6 @@ The chief, the leader, the authority figure who takes the decisions nobody else 
 
 The Two of Swords, for someone who has told you nothing. *Two*: cooperation, binding, weighing pros and cons. *Air*: the mind, the decision. You can already talk about a choice being postponed with eyes closed, two options held at equal distance. Nothing memorised.
 
+{{< cards "sw02" >}}
+
 {{% six %}}

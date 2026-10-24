@@ -37,6 +37,8 @@ gallery: []
 
 The grey sky of the Five of Cups and the Three of Swords, the pillars of the Hierophant and Justice, the Emperor's throne, the wall of the Four of Swords, the clouds of the Four of Cups, the Tower's stone before it burns. Grey is matter that doesn't move.
 
+{{< cards "cu05 sw03 ar05 ar11 ar04 sw04 cu04 ar16" >}}
+
 ## How to read it {#reading}
 
 Grey says **neutrality, stability, absence of will**. A grey sky is about a situation that won't decide itself; grey stone, a structure that holds without a word. On Justice and the Hierophant, grey is the institution: what judges without emotion.

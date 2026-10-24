@@ -55,6 +55,8 @@ The soldier, the warrior, the bricklayer building the wall while others discuss.
 
 When the Emperor comes out, Aries is in the room: someone commands, starts, decides. Well placed, it's the authority that protects. Badly placed, it's the wall built too fast. Look at the next card to know whether the plan exists. The card has [its own page](/library/tarot-cards/the-emperor/), with all its lenses.
 
+{{< cards "ar04" >}}
+
 ## What Maison Tarot doesn't say {#limits}
 
 This sign explains no one. I tested my chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)

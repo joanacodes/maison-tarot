@@ -40,6 +40,8 @@ Neptune dit où l’on se dissout : le rêve, l’intuition, l’illusion, le fl
 
 Le Pendu, arcane XII : suspendu, la tête en bas, voyant le monde autrement. Par les Poissons, la Lune. Deux cartes de perspective inversée, pas de malheur. [La page de la carte principale.](/fr/bibliotheque/cartes-tarot/le-pendu/)
 
+{{< cards "ar12" >}}
+
 ## Ce que le test a montré {#test}
 
 Difficile à tester, et la Maison est prudente avec lui pour une raison précise : c’est le placement dont on se sert le plus pour excuser ce qu’on ne veut pas regarder. « C’est mon Neptune. » Non. La Maison le lit comme le Pendu : un point de vue à retourner, pas une brume à habiter.

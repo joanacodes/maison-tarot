@@ -41,6 +41,8 @@ Lilith — the Black Moon, in modern astrology — isn't a body: it's a calculat
 
 No Golden Dawn attribution — Lilith postdates the system. I read it with the Devil, arcana XV: the chains you could remove, what you let be chained, the appetite you decided to despise. And sometimes with the Eight of Swords: the one who believes herself prisoner of a bond she never checked. [The main card's page.](/library/tarot-cards/the-devil/)
 
+{{< cards "ar15" >}}
+
 ## What the test showed {#test}
 
 **75 to 90% in the test.** With Saturn and Chiron, the placement that held best — often the hardest to say out loud, because the person knew it and had never heard anyone say it. I read Lilith with care: it's a lens that opens a door closed on purpose. You knock first.

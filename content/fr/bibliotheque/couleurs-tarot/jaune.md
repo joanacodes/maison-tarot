@@ -39,6 +39,8 @@ gallery: []
 
 Le ciel du Mat, du Magicien, de la Force, de la Roue de Fortune, du Soleil, de nombreux Pentacles et Coupes — le Trois de Coupes, le Six de Coupes, le Neuf de Pentacles. Les cheveux blonds de l’Impératrice et du Mat. Le jaune est le fond du monde quand le monde va bien.
 
+{{< cards "ar00 ar01 ar08 ar10 ar19 cu03 cu06 pe09 ar03" >}}
+
 ## Comment la lire {#lecture}
 
 Le jaune dit **joie, volonté, fierté, l’enfant en soi**. Une carte à ciel jaune parle de quelque chose qui s’exprime, qui s’affirme, qui est content d’être là. C’est aussi la couleur de la volonté : ce qu’on veut, on le veut au soleil.

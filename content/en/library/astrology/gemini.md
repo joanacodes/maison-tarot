@@ -54,6 +54,8 @@ The very good reporter, the lawyer — or the game of telephone.
 
 When the Lovers come out, Gemini is talking: a choice between two, a conversation that decides, a relay. Well placed, it's the right word that unites. Badly placed, it's the version going round that's no longer the true one. The card has [its own page](/library/tarot-cards/the-lovers/), with all its lenses.
 
+{{< cards "ar06" >}}
+
 ## What Maison Tarot doesn't say {#limits}
 
 This sign explains no one. I tested my chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)
