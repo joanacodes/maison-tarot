@@ -17,11 +17,11 @@ Reading with only the 22 major arcana is a real way to read, not a shortcut. You
 
 You take the 22 major arcana out of the deck, shuffle them on their own, and read any spread with them: one card, three, a cross. Everything else stays the same.
 
-It's especially common in France, where many readers first met the Tarot de Marseille and learned its 22 majors long before the rest. A small cross of five majors is a classic layout there — I've described [the French cross spread](/blog/cross-tarot-spread/) separately. There's a family echo too: in France, tarot is also a card game played at the kitchen table, and in it the majors are the trumps, with the Fool as the odd card out.
+It's especially common in France, where many readers first met the Tarot de Marseille and learned its 22 majors long before the rest. The five-card cross, a classic layout there, is often laid with the majors alone — I've described [the French cross spread](/blog/cross-tarot-spread/) separately. There's a family echo too: in France, tarot is also a card game played at the kitchen table, and in it the majors are the trumps, with the Fool as the odd card out.
 
 ## What you gain {#what-you-gain}
 
-A smaller deck to learn. Twenty-two scenes, each with a name and a story you can tell without a book. You can draw one a day and meet them all in about three weeks.
+A smaller deck to learn. Twenty-two scenes, each with a name and a story you can tell without a book. Draw one a day, set it aside, and you'll have met them all in twenty-two days.
 
 Readings that speak loudly. Each major describes something that takes months or years: a beginning with no plan, a long withdrawal, an ending that clears the ground. When the question is “what is this period of my life about?”, a majors-only spread answers in the right register.
 
@@ -57,7 +57,7 @@ It's a strong reading. Notice what it doesn't say: where. Is this about work, a 
 
 Majors only suit questions about a whole period: the theme of the coming year, what a long chapter has been about, where someone stands after a big change. They make a good frame for [a year-ahead reading](/blog/year-ahead-tarot-reading/). They suit day-to-day questions badly.
 
-There's a middle way I like to suggest to students. Shuffle the majors and the minors as two separate piles. Draw one major for the theme, then three minors for what it looks like day to day. You keep the loud voice and the ground under it.
+There's a middle way worth trying. Shuffle the majors and the minors as two separate piles. Draw one major for the theme, then three minors for what it looks like day to day. You keep the loud voice and the ground under it.
 
 ## Try it for a week {#try-it}
 
