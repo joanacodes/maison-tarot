@@ -49,7 +49,7 @@ Celle-là date d’avant le jeu. J’ai lancé une vidéo d’astrologie pour m�
 
 « Trop précis », c’était une impression, pas un résultat. Alors j’ai vérifié mon thème case par case, une coche ou une croix pour chaque affirmation, puis ceux de ma famille, d’amis et d’inconnus. Au total, 30 à 40 % tenaient. Saturne, Lilith et Chiron tenaient à 75–90 %. [Le test complet](/fr/blog/j-ai-teste-mon-theme-astral/) a sa propre page.
 
-J’ai donc bougé deux fois : de la moquerie à l’étonnement, puis de l’étonnement au comptage. **Mes deux premières réactions étaient plus fortes que les chiffres.**
+J’ai donc changé d’avis deux fois : de la moquerie à l’étonnement, puis de l’étonnement au comptage. **Mes deux premières réactions étaient plus fortes que les chiffres.**
 
 Ce que je pense aujourd’hui est plus mesuré que l’une comme l’autre. Un thème peut valoir la peine d’être lu, et ce n’est jamais une excuse. « C’est parce que je suis Taureau » ne règle rien : vous n’êtes pas un signe, vous êtes un mélange de tout, et si quelque chose blesse sans cesse les gens autour de vous, mieux vaut regarder de votre côté que du côté de votre Lune. J’y reviens dans [quand l’astrologie devient une excuse](/fr/blog/lastrologie-nest-pas-une-excuse/).
 

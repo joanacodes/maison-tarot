@@ -35,7 +35,7 @@ L’ombre, c’est le mot de Carl Jung pour les parts de soi qu’on a repoussé
 
 Prenons quelqu’un qui a grandi dans une maison où la colère n’était pas la bienvenue. Adulte, c’est la personne calme du groupe, toujours. La colère n’est pas partie pour autant. Elle sort de biais : un ton sec pour une broutille, une plaisanterie qui pique plus fort que prévu. Le travail sur l’ombre, ce serait remarquer le motif, nommer la colère, et se demander où elle a été rangée, et pourquoi.
 
-C’est un travail difficile. Peut-on le faire avec un thérapeute ? Bien sûr, et il le faudrait. Le tarot peut aider à regarder, mais il ne doit jamais remplacer une thérapie ; j’ai écrit sur [l’endroit où se trouve cette porte](/fr/blog/tarot-et-sante-mentale/).
+C’est un travail difficile. Peut-on le faire avec un thérapeute ? Bien sûr, et c’est même ce qu’il faut faire. Le tarot peut aider à regarder, mais il ne doit jamais remplacer une thérapie ; j’ai écrit sur [l’endroit où se trouve cette porte](/fr/blog/tarot-et-sante-mentale/).
 
 ## Ce que le noir a à voir là-dedans {#le-noir}
 
