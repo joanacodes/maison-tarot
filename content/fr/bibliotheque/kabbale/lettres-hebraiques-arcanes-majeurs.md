@@ -8,7 +8,7 @@ weight: 12
 categories: ["Kabbale"]
 tags: ["lettres hébraïques", "arcanes majeurs", "Kabbale", "Golden Dawn", "Sefer Yetsirah", "correspondances du tarot"]
 h1: "Vingt-deux lettres, vingt-deux <em>arcanes</em>"
-lede: "Chaque arcane majeur porte une lettre hébraïque : Aleph pour le Mat, Tav pour le Monde. Les lettres viennent de la tradition juive ; leur mariage avec les cartes vient des occultistes du XIXe siècle. Voici la table, et la raison de chaque ligne."
+lede: "Chaque arcane majeur porte une lettre hébraïque : Aleph pour le Mat, Tav pour le Monde. Les lettres viennent de la tradition juive ; leur mariage avec les cartes est une idée bien plus tardive, celle des occultistes. Voici la table, et la raison de chaque ligne."
 related:
 - /bibliotheque/kabbale
 - /bibliotheque/kabbale/arbre-de-vie
@@ -21,7 +21,7 @@ faq:
   a: "La Golden Dawn a donné Teth (le Lion) à la Force et Lamed (la Balance) à la Justice, ce qui obligeait à échanger leurs places. Le Rider-Waite-Smith de 1909 imprime la Force en VIII et la Justice en XI ; le tarot de Marseille garde la Justice en VIII et la Force en XI."
 gallery: []
 ---
-Les vingt-deux lettres de l’alphabet hébreu vont par paires avec les vingt-deux arcanes majeurs dans la plupart des livres de tarot. Ce site suit la table de la Golden Dawn, calée sur la numérotation du Rider-Waite-Smith : le Mat est Aleph, le Monde est Tav, la Force (8) est Teth et la Justice (11) est Lamed. Ci-dessous : d’où viennent les lettres, la table, un paragraphe par lettre, et l’ordre français, qui compte autrement.
+Les vingt-deux lettres de l’alphabet hébreu vont par paires avec les vingt-deux arcanes majeurs dans beaucoup de livres de tarot. Ce site suit la table de la Golden Dawn, calée sur la numérotation du Rider-Waite-Smith : le Mat est Aleph, le Monde est Tav, la Force (8) est Teth et la Justice (11) est Lamed. Ci-dessous : d’où viennent les lettres, la table, un paragraphe par lettre, et l’ordre français, qui compte autrement.
 
 ## D’où viennent les lettres {#origine}
 

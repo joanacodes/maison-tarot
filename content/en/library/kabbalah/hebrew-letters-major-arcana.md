@@ -8,7 +8,7 @@ weight: 12
 categories: ["Kabbalah"]
 tags: ["Hebrew letters", "major arcana", "Kabbalah", "Golden Dawn", "Sefer Yetzirah", "tarot correspondences"]
 h1: "Twenty-two letters, twenty-two <em>trumps</em>"
-lede: "Each major arcanum carries a Hebrew letter: Aleph for the Fool, Tav for the World. The letters come from the Jewish tradition; the pairing with the cards comes from nineteenth-century occultists. Here is the table, and the reason behind each line."
+lede: "Each major arcanum carries a Hebrew letter: Aleph for the Fool, Tav for the World. The letters come from the Jewish tradition; pairing them with the cards is a much later, occultist idea. Here is the table, and the reason behind each line."
 related:
 - /library/kabbalah
 - /library/kabbalah/tree-of-life
@@ -21,7 +21,7 @@ faq:
   a: "The Golden Dawn gave Teth (Leo, the lion) to Strength and Lamed (Libra, the scales) to Justice, which meant swapping their old places. The 1909 Rider-Waite-Smith prints Strength as VIII and Justice as XI; Marseille decks keep Justice VIII and Strength XI."
 gallery: []
 ---
-The twenty-two letters of the Hebrew alphabet are paired with the twenty-two major arcana in most tarot books. This site uses the Golden Dawn’s table, set on the Rider-Waite-Smith numbering: the Fool is Aleph, the World is Tav, Strength (8) is Teth and Justice (11) is Lamed. Below: where the letters come from, the table, one paragraph per letter, and the French order that counts differently.
+The twenty-two letters of the Hebrew alphabet are paired with the twenty-two major arcana in many tarot books. This site uses the Golden Dawn’s table, set on the Rider-Waite-Smith numbering: the Fool is Aleph, the World is Tav, Strength (8) is Teth and Justice (11) is Lamed. Below: where the letters come from, the table, one paragraph per letter, and the French order that counts differently.
 
 ## Where the letters come from {#origin}
 
@@ -60,7 +60,7 @@ One honest limit: the versions of Sefer Yetzirah don’t agree on which planet g
 | ש Shin | tooth | mother: Fire | XX Judgement | The Fool (unnumbered) |
 | ת Tav | mark | double: Saturn | XXI The World | XXI The World |
 
-The meanings are the usual readings of the names, the ones the Golden Dawn used. For He, Teth, Tsade and Qoph the original meaning is uncertain: window, serpent, fish-hook and back of the head are the Golden Dawn’s readings.
+The meanings are the usual readings of the names, the ones the Golden Dawn used. For He, Teth, Tsade and Qoph the original meaning is uncertain: window, serpent, fish-hook and back of the head are the Golden Dawn’s readings. In the last column the cards keep their Rider-Waite-Smith names; Marseille decks call some of them differently (the Bateleur for the Magician, the Papesse for the High Priestess, the Maison Dieu for the Tower).
 
 ## The three mother letters {#mothers}
 

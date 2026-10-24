@@ -21,13 +21,13 @@ faq:
   a: "It is borrowed from it and changed. The ten sephirot and the 22 letters come from Jewish Kabbalah; putting tarot cards on them is a nineteenth-century occult idea, set out in full by the Golden Dawn."
 gallery: []
 ---
-The Tree of Life is a diagram from the Kabbalah, the Jewish mystical tradition: ten spheres, the sephirot, joined by twenty-two paths. The Golden Dawn, an occult order founded in London in 1888, laid the tarot on it. Here are both layers, and who each belongs to.
+The Tree of Life is a diagram from the Kabbalah, the Jewish mystical tradition: ten spheres, the sephirot, joined by twenty-two paths. The Golden Dawn, an occult order founded in London in 1888, laid the tarot on it.
 
 ## What the Tree of Life is {#definition}
 
 In Kabbalah, the sephirot (singular sephirah) are ten aspects through which God, the infinite, acts and becomes knowable. The word first appears in Sefer Yetzirah, a short early Hebrew text whose date is still debated; there, the sefirot are numbers, and the root of the word means to count. Their names and character come later, in the Bahir (Provence, late twelfth century) and the Zohar (Castile, late thirteenth century).
 
-On the Tree they stand in three columns: the right side expands (Chesed, mercy), the left sets limits (Gevurah, rigour), the middle holds the balance. **Read it from top to bottom, as the tradition does: from the first spark to the world you can touch.** Some Jewish texts count Da’at, knowledge, in place of Keter; the Golden Dawn keeps the ten below.
+On the Tree they stand in three columns: the right side expands (Chesed, mercy), the left sets limits (Gevurah, rigour), the middle holds the balance. **Read it from top to bottom, in the order of emanation: from the first spark to the world you can touch.** Some Jewish texts count Da’at, knowledge, in place of Keter; the Golden Dawn keeps the ten below.
 
 | # | Sephirah | Meaning | Golden Dawn cards |
 | --- | --- | --- | --- |
@@ -54,7 +54,7 @@ The numbered cards go by number: the Aces in Keter, the Twos in Chokhmah, down t
 
 {{< cards "waac cuac swac peac wa10 cu10 sw10 pe10" >}}
 
-The major arcana go on the paths, one letter each. The [Golden Dawn](/library/tarot-history/golden-dawn-tarot/) numbers the paths 11 to 32, after the ten spheres: add eleven to the card’s number. The Fool (0) is path 11, the World (XXI) path 32.
+The major arcana go on the paths, one letter each. The [Golden Dawn](/library/tarot-history/golden-dawn-tarot/) numbers the paths 11 to 32, after the ten spheres: add eleven to the card’s number.
 
 | Path | Joins | Letter | Card |
 | --- | --- | --- | --- |
@@ -83,15 +83,15 @@ The major arcana go on the paths, one letter each. The [Golden Dawn](/library/ta
 
 ## The court cards, and an open question {#courts}
 
-The Golden Dawn’s courts are King, Queen, Prince and Princess. The King, on horseback (Crowley later called him the Knight), goes to Chokhmah; the Queen to Binah; the Prince, in a chariot, to Tiferet; the Princess to Malkhut.
+The Golden Dawn’s courts are King, Queen, Prince and Princess. The King, a rider on horseback (some Golden Dawn papers, and later Crowley’s Thoth deck, call him the Knight), goes to Chokhmah; the Queen to Binah; the Prince, in a chariot, to Tiferet; the Princess to Malkhut.
 
-How the Rider-Waite-Smith’s King, Queen, Knight and Page fit those titles is debated. Read by title, the RWS King is the Golden Dawn King and the Knight is the Prince, as in the court-card table of [Wikipedia’s Thoth Tarot article](https://en.wikipedia.org/wiki/Thoth_Tarot). Read by picture, the RWS Knight is the rider, so some readers give him Chokhmah and the King Tiferet. The Page stays with the Princess either way. Choose one reading and keep it.
+How the Rider-Waite-Smith’s King, Queen, Knight and Page fit those titles is debated. Read by title, the RWS King is the Golden Dawn King and the Knight is the Prince, as in the court-card table of [Wikipedia’s Thoth Tarot article](https://en.wikipedia.org/wiki/Thoth_Tarot). Read by picture, the RWS Knight is the rider, so some readers give him Chokhmah and the King Tiferet. The Page stays with the Princess either way. This site’s card pages follow the first reading: the King of Wands is Fire of Fire, the Knight of Wands Air of Fire.
 
 ## Other trees, other numbers {#other-systems}
 
 There isn’t one Tree. The Golden Dawn’s goes back to the Jesuit scholar Athanasius Kircher, who printed it in *Oedipus Aegyptiacus* (Rome, 1652–54), with the paths numbered in sequence from Keter and the letters in alphabetical order. Arrangements closer to Sefer Yetzirah, the Vilna Gaon’s (the Gra) being the best known, place the letters by kind: the three mothers on the horizontal lines, the seven doubles on the vertical ones, the twelve simple letters on the diagonals. The tree associated with Isaac Luria (the Ari) draws some lines differently again.
 
-Even Crowley swapped two letters for his Thoth deck: He and Tsade, the Emperor and the Star. **The numbers above are the Golden Dawn’s, not the Kabbalah’s.**
+Within the occult tradition itself, Crowley swapped two letters for his Thoth deck: He and Tsade, the Emperor and the Star. **The numbers above are the Golden Dawn’s, not the Kabbalah’s.**
 
 ## What it can add to a reading {#reading}
 

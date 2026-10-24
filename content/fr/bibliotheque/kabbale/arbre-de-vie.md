@@ -21,13 +21,13 @@ faq:
   a: "Il lui est emprunté, puis transformé. Les dix sephirot et les 22 lettres viennent de la Kabbale juive ; y poser des cartes de tarot est une idée occultiste du XIXe siècle, mise en système par la Golden Dawn."
 gallery: []
 ---
-L’Arbre de Vie est un schéma de la Kabbale, la tradition mystique juive : dix sphères, les sephirot, reliées par vingt-deux sentiers. La Golden Dawn, un ordre occultiste fondé à Londres en 1888, y a posé le tarot. Voici les deux couches, et à qui revient chacune.
+L’Arbre de Vie est un schéma de la Kabbale, la tradition mystique juive : dix sphères, les sephirot, reliées par vingt-deux sentiers. La Golden Dawn, un ordre occultiste fondé à Londres en 1888, y a posé le tarot.
 
 ## Ce qu’est l’Arbre de Vie {#definition}
 
 Dans la Kabbale, les sephirot (au singulier, sephirah) sont dix aspects par lesquels Dieu, l’infini, agit et se laisse connaître. Le mot apparaît d’abord dans le Sefer Yetsirah, un court texte hébreu ancien dont la date fait encore débat ; les sephirot y sont des nombres, et la racine du mot veut dire compter. Leurs noms et leur caractère viennent plus tard, avec le Bahir (Provence, fin du XIIe siècle) et le Zohar (Castille, fin du XIIIe siècle).
 
-Sur l’Arbre, elles se rangent en trois colonnes : à droite ce qui s’étend (Hesed, la grâce), à gauche ce qui pose des limites (Gevurah, la rigueur), au milieu l’équilibre. **Lisez-le de haut en bas, comme le fait la tradition : de la première étincelle jusqu’au monde qu’on touche.** Certains textes juifs comptent Da’at, la connaissance, à la place de Keter ; la Golden Dawn garde les dix ci-dessous.
+Sur l’Arbre, elles se rangent en trois colonnes : à droite ce qui s’étend (Hesed, la grâce), à gauche ce qui pose des limites (Gevurah, la rigueur), au milieu l’équilibre. **Lisez-le de haut en bas, dans l’ordre de l’émanation : de la première étincelle jusqu’au monde qu’on touche.** Certains textes juifs comptent Da’at, la connaissance, à la place de Keter ; la Golden Dawn garde les dix ci-dessous.
 
 | N° | Sephirah | Sens | Cartes (Golden Dawn) |
 | --- | --- | --- | --- |
@@ -54,7 +54,7 @@ Les cartes numérotées suivent leur nombre : les As en Keter, les Deux en Hokhm
 
 {{< cards "waac cuac swac peac wa10 cu10 sw10 pe10" >}}
 
-Les arcanes majeurs vont sur les sentiers, une lettre chacun. La [Golden Dawn](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/) numérote les sentiers de 11 à 32, après les dix sphères : ajoutez onze au numéro de la carte. Le Mat (0) est le sentier 11, le Monde (XXI) le sentier 32.
+Les arcanes majeurs vont sur les sentiers, une lettre chacun. La [Golden Dawn](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/) numérote les sentiers de 11 à 32, après les dix sphères : ajoutez onze au numéro de la carte.
 
 | Sentier | Relie | Lettre | Carte |
 | --- | --- | --- | --- |
@@ -83,15 +83,15 @@ Les arcanes majeurs vont sur les sentiers, une lettre chacun. La [Golden Dawn](/
 
 ## Les figures, et une question ouverte {#figures}
 
-Chez la Golden Dawn, les figures s’appellent Roi, Reine, Prince et Princesse. Le Roi, à cheval (Crowley l’appellera plus tard Cavalier), va en Hokhmah ; la Reine en Binah ; le Prince, sur son char, en Tiferet ; la Princesse en Malkhout.
+Chez la Golden Dawn, les figures s’appellent Roi, Reine, Prince et Princesse. Le Roi, un cavalier couronné (certains papiers de la Golden Dawn, puis le tarot de Thoth de Crowley, l’appellent Cavalier), va en Hokhmah ; la Reine en Binah ; le Prince, sur son char, en Tiferet ; la Princesse en Malkhout.
 
-Comment le Roi, la Reine, le Cavalier et le Valet du Rider-Waite-Smith s’y accordent, on en débat encore. Si l’on suit les titres, le Roi du RWS est le Roi de la Golden Dawn et le Cavalier devient le Prince : c’est la table des figures de [l’article de Wikipédia sur le tarot de Thoth](https://en.wikipedia.org/wiki/Thoth_Tarot) (en anglais). Si l’on suit l’image, c’est le Cavalier du RWS qui est à cheval : certains lui donnent Hokhmah, et le Roi va en Tiferet. Le Valet reste avec la Princesse dans les deux cas. Choisissez une lecture et tenez-vous-y.
+Comment le Roi, la Reine, le Cavalier et le Valet du Rider-Waite-Smith s’y accordent, on en débat encore. Si l’on suit les titres, le Roi du RWS est le Roi de la Golden Dawn et le Cavalier devient le Prince : c’est la table des figures de [l’article de Wikipédia sur le tarot de Thoth](https://en.wikipedia.org/wiki/Thoth_Tarot) (en anglais). Si l’on suit l’image, c’est le Cavalier du RWS qui est à cheval : certains lui donnent Hokhmah, et le Roi va en Tiferet. Le Valet reste avec la Princesse dans les deux cas. Les pages de cartes de ce site suivent la première lecture : le Roi de Bâtons est Feu de Feu, le Cavalier de Bâtons Air de Feu.
 
 ## D’autres arbres, d’autres numéros {#autres-systemes}
 
 Il n’y a pas un seul Arbre. Celui de la Golden Dawn remonte au jésuite Athanase Kircher, qui l’a imprimé dans son *Œdipus Ægyptiacus* (Rome, 1652-1654), avec des sentiers numérotés à la suite depuis Keter et des lettres dans l’ordre de l’alphabet. Les tracés plus proches du Sefer Yetsirah, dont le plus connu est celui du Gaon de Vilna (le Gra), rangent les lettres par famille : les trois mères sur les traits horizontaux, les sept doubles sur les verticaux, les douze simples sur les diagonales. L’arbre associé à Isaac Louria (l’Ari) trace encore certains traits autrement.
 
-Même Crowley a échangé deux lettres pour son tarot de Thoth : Hé et Tsadé, l’Empereur et l’Étoile. **Les numéros des tableaux ci-dessus sont ceux de la Golden Dawn, pas ceux de la Kabbale.**
+Au sein même de la tradition occultiste, Crowley a échangé deux lettres pour son tarot de Thoth : Hé et Tsadé, l’Empereur et l’Étoile. **Les numéros des tableaux ci-dessus sont ceux de la Golden Dawn, pas ceux de la Kabbale.**
 
 ## Ce que l’Arbre peut apporter à un tirage {#lecture}
 
