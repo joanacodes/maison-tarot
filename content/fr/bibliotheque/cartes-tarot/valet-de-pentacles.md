@@ -1,8 +1,7 @@
 ---
 title: 'Valet de Pentacles (Page of Pentacles) — tarot Rider-Waite-Smith : lire la
   carte par ses clés de lecture'
-description: 'Valet de Pentacles : ce qu’on voit sur la carte, puis le nombre, l’élément
-  (Terre de Terre), les couleurs. Lire la carte sans l’avoir apprise.'
+description: 'Valet de Pentacles : un jeune homme dans un pré contemple une pièce levée à deux mains. Lire l’étude et les premiers pas par le rang, la Terre et la couleur.'
 translationKey: card-pepa
 type: cards
 navTitle: Valet de Pentacles
@@ -28,13 +27,12 @@ related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/astrologie
 faq:
-- q: Que signifie Valet de Pentacles ?
-  a: 'Il n’y a pas une signification à apprendre : Valet de Pentacles se lit par son
-    nombre (le Valet), son élément (Terre de Terre) et ses couleurs. La page ci-dessus
-    les pose une à une.'
-- q: Valet de Pentacles renversé, ça change quoi ?
-  a: La même carte, freinée ou excessive. On regarde d’abord ce que la carte dit à
-    l’endroit, puis ce qui bloque ou déborde.
+- q: 'Que signifie Valet de Pentacles ?'
+  a: 'Un début dans le concret : quelqu’un qui apprend un métier, commence une formation, ou tient une première vraie occasion et la regarde de près. Le Valet est l’élève et la Terre la matière : la carte parle d’un apprentissage patient et pratique.'
+- q: 'Valet de Pentacles renversé, ça change quoi ?'
+  a: 'Le même apprentissage, freiné ou excessif. Freiné : l’occasion est admirée mais jamais saisie, la formation jamais commencée. Excessif : tant de préparation que rien ne se fait, ou un regard si fixé sur un seul but que le reste du champ disparaît.'
+- q: 'Le Valet de Pentacles est-il une personne ?'
+  a: 'Parfois : un jeune, un étudiant, un apprenti, quelqu’un qui débute dans un poste. Plus souvent, il décrit un état — le début d’un vrai apprentissage — et la personne en face de vous vous dira lequel des deux.'
 categories:
 - Pentacles
 tags:
@@ -44,24 +42,42 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-{{< todo >}}À ÉCRIRE — décrire le dessin de Pamela Colman Smith, détail par détail : personnages, objets, posture, ce qui manque.{{< /todo >}}
+Un jeune homme se tient seul dans un pré vert, une pièce levée devant le visage, à deux mains. Ses doigts la touchent à peine. Il la regarde comme on regarde un objet qu’on vient de vous confier et dont on ne sait pas encore quoi faire.
+
+Il porte une tunique verte serrée d’une ceinture brune, des bottes souples brunes et un bonnet rouge dont la longue écharpe lui tombe sur l’épaule et dans le dos. Autour de lui, un pré semé de petites fleurs, un bouquet d’arbres à gauche, une montagne bleue à droite et, en contrebas, un champ déjà labouré en sillons brun-rouge. Le ciel est d’un jaune uni. Personne d’autre, pas de maison, pas de route.
+
+Il se tient sur l’herbe fraîche, la terre travaillée un peu plus loin. **La carte parle d’une valeur qu’on voit mais qu’on n’a pas encore faite sienne : le premier long regard de l’élève sur sa matière.**
 
 ## Par le nombre : le Valet {#nombre}
 
-**le Valet — l’élève, le message, l’élan neuf.** {{< todo >}}À ÉCRIRE — ce que le nombre fait à cette carte, avec un exemple que tout le monde connaît. Renvoi vers [les nombres](/fr/bibliotheque/numerologie/).{{< /todo >}}
+**le Valet — l’élève, le message, l’élan neuf.** Le [Valet](/fr/bibliotheque/numerologie/valet/) est jeune sans être un enfant : il tient déjà l’outil de sa famille, et le regarde comme quelque chose qu’il ne sait pas encore utiliser. Dans la tradition, c’est aussi le messager — la lettre, l’offre, la nouvelle.
+
+Chez les Pentacles, le message est concret : une offre d’emploi, une place en alternance, une première fiche de paie, un bout de terrain à entretenir. Le conseil du rang : rester élève. Ma note pour le chiffre 1 lui va aussi : l’humilité, se préparer à apprendre — nous sommes tous élèves toute notre vie. Un Valet de Pentacles qui se croit déjà Roi laisse tomber la pièce.
 
 ## Par l’élément : Terre {#element}
 
-{{< todo >}}À ÉCRIRE — ce que [Terre](/fr/bibliotheque/quatre-elements/element-terre/) apporte ici : de quoi la carte parle.{{< /todo >}}
+Le Valet de Pentacles est Terre de Terre : la famille est la [Terre](/fr/bibliotheque/quatre-elements/element-terre/), le rang aussi, c’est donc l’élément à l’état pur. La matière, la valeur, le résultat du travail — tout au début. Une énergie surtout féminine, protectrice et stable : le sol où les choses poussent. Ce Valet ne se pressera pas ; il tournera la pièce dans ses mains jusqu’à la comprendre.
+
+C’est la force de la carte — ténacité, persévérance — et son revers : l’entêtement, et une lenteur qui peut ressembler à de l’immobilité. Les sillons derrière lui le rappellent avec douceur : à un moment, il faudra travailler la terre.
 
 ## Par les couleurs {#couleurs}
 
-{{< todo >}}À ÉCRIRE — les couleurs dominantes et ce qu’elles disent avant la carte ([la grille des couleurs](/fr/bibliotheque/couleurs-tarot/)).{{< /todo >}}
+Le [vert](/fr/bibliotheque/couleurs-tarot/vert/) l’habille, lui et le pré : la nature, la croissance, la naissance, la vie. C’est la couleur de ce qui vient de commencer à pousser. Le [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) remplit tout le ciel : la joie, l’optimisme, l’enfant intérieur, la volonté. Le rouge du bonnet met un peu d’élan à hauteur de tête — l’envie de faire quelque chose de ce qu’il tient. Les bottes brunes et la terre labourée ajoutent le sol travaillé et la patience.
 
 ## En lecture {#lecture}
 
-{{< todo >}}À ÉCRIRE — à l’endroit, renversée, selon les cartes voisines. Une chose à retenir en gras.{{< /todo >}}
+À l’endroit : le début d’un apprentissage. Quelqu’un qui apprend un métier, commence une formation, prend un premier poste, ou reçoit une offre concrète et l’étudie avant de dire oui. Ce peut être un jeune, un étudiant, un nouveau venu — ou vous, au début de quelque chose que vous voulez apprendre pour de bon. C’est une carte que je confierais à toute personne qui veut [apprendre le tarot](/fr/apprendre-le-tarot/) une carte à la fois. **Le Valet n’a pas besoin de savoir déjà ; il a besoin de continuer à regarder, puis de commencer.**
+
+Renversé, le même élève, freiné ou excessif. Freiné : l’offre est admirée mais jamais saisie, la formation prévue et jamais commencée, la pièce reste en l’air. Excessif : étudier devient une façon de ne pas faire — encore une formation, encore un livre.
+
+À côté de l’[As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/), la pièce elle-même est offerte par une main sortie d’un nuage, et le Valet est celui qui la reçoit. À côté du [Huit de Pentacles](/fr/bibliotheque/cartes-tarot/huit-de-pentacles/), l’élève arrive à l’établi : le regard devient un geste, répété. À côté du [Cavalier de Pentacles](/fr/bibliotheque/cartes-tarot/cavalier-de-pentacles/), la même pièce à cheval : l’élève devient celui qui porte le plan.
+
+{{< cards "peac pe08 pekn" >}}
 
 ## Exemple de tirage {#exemple}
 
-{{< todo >}}À ÉCRIRE — un tirage réel anonymisé : clés de lecture d’abord, phrase dite, ce que la personne a confirmé.{{< /todo >}}
+Mettons qu’une personne s’assoie, ne vous dise rien, et tire le Valet de Pentacles à côté du [Deux d’Épées](/fr/bibliotheque/cartes-tarot/deux-de-epees/). Les clés de lecture d’abord. Valet puis deux : un élève, puis un choix entre deux côtés — dans mes notes, un contrat à lire attentivement, le pour et le contre à peser. Terre puis Air : quelque chose de concret dans les mains, puis un esprit qui soupèse. Un jeune homme qui contemple une pièce, puis une femme aux yeux bandés qui tient deux épées croisées, la mer derrière elle.
+
+À voix haute : « On vous a proposé quelque chose de réel — une place, un poste, une formation — et vous le regardez sous tous les angles. Vous n’avez dit ni oui ni non. Vous attendez peut-être une certitude, et elle ne viendra sans doute qu’une fois le premier pas fait. »
+
+Puis vérifiez : « Y a-t-il une offre de ce genre autour de vous en ce moment ? » Si la réponse est non, c’est un raté ; notez-le, et n’allez pas chercher un autre sens.

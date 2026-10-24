@@ -45,7 +45,7 @@ What to do with it: treat the repeated card as a question rather than a verdict.
 
 ## When the card that keeps coming scares you {#when-it-scares}
 
-The cards people write to ask about are rarely the Sun. They’re these:
+The cards that worry people when they repeat are rarely the Sun. They’re these:
 
 {{< cards "ar16 ar13 sw10" >}}
 

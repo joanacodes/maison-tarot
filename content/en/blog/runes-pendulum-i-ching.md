@@ -25,13 +25,13 @@ Say you draw Fehu. You get a word: wealth, possessions. Now set it beside the Ac
 
 {{< cards "peac" >}}
 
-A hand from a cloud offers a coin over a garden with a gate in the hedge. That's a number (one: a start), an element (Earth: matter, what has value for you) and a scene — something is being offered, and you still have to walk through the gate. The rune is a word; the card is a sentence.
+A hand from a cloud offers a coin over a garden, with an arch cut through the hedge beyond. That's a number (one: a start), an element (Earth: matter, what has value for you) and a scene — something is being offered, and you still have to walk through the arch. The rune is a word; the card is a sentence.
 
 ## What is a pendulum? {#pendulum}
 
 A pendulum is a small weight — a stone, a metal drop, sometimes a ring — hanging from a chain or a thread. You hold the chain between your fingers, keep your hand as still as you can, and ask a question. Before you start, you decide what yes and no look like: for example, a clockwise circle for yes and a swing back and forth for no.
 
-Say you're torn between two flats. You hold the pendulum over each listing and ask “is this the one?”, and it circles over the second.
+Say you can't decide between two paint colours for your bedroom. You hold the pendulum over each sample, ask “this one?”, and it circles over the second.
 
 What the pendulum does differently is that it only answers yes or no. It doesn't tell you why, or what else is going on. The usual explanation for its movement is the ideomotor effect: tiny movements of the hand that you make without noticing. That doesn't make it useless — it may be exactly what makes it useful, because it shows you which way your body already leans. It's the same principle as the cards: the tool helps you focus, or unfocus, so your own thoughts step aside.
 
@@ -47,7 +47,7 @@ Yin and yang are close to how I teach [feminine and masculine energies](/library
 
 ## Coffee cups, paintings: you can read in anything {#read-in-anything}
 
-We were all born with our senses, and any meditative art can sharpen them: painting, reading, tarot, coffee cups, even a painting on a museum wall. You can read in anything.
+We were all born with our senses. To sharpen them: meditate, read, paint — any meditative art. Then read tarot, coffee cups, even a painting on a museum wall. You can read in anything.
 
 Coffee cup reading is a good example. After a Turkish coffee, you turn the cup upside down onto its saucer, let it cool, then read the shapes the grounds have left on the sides: a bird, a road, a face. A painting works the same way as a card: colours first, then the figures, then what comes to you. **The tool focuses you; the reading comes from you.** That's why the [colour grid](/library/tarot-colours/) I use on cards works on a canvas too.
 
