@@ -43,7 +43,7 @@ Rarement la lecture elle-même. Plutôt le cadre.
 
 ## Les appels de groupe et les lives {#appels-de-groupe}
 
-Une partie de mes lectures s’est faite devant d’autres personnes : en appels de groupe, et pendant un live où les gens étaient tirés au sort. L’un des avis que j’ai reçus sur Facebook vient d’une personne lue pendant un live. Le principe ne change pas : elle ne me dit rien, je dis ce qui vient, elle dit si ça a tenu. C’est ainsi que fonctionnent aujourd’hui les [événements gratuits en ligne](/fr/evenements/).
+Une partie de mes lectures s’est faite devant d’autres personnes : en appels de groupe, et pendant un live. L’un des avis que j’ai reçus sur Facebook vient d’une personne lue pendant un live. Le principe ne change pas : elle ne me dit rien, je dis ce qui vient, elle dit si ça a tenu. C’est ainsi que fonctionnent aujourd’hui les [événements gratuits en ligne](/fr/evenements/).
 
 À l’extrême de la distance, il y a la vidéo « pick a card », enregistrée par quelqu’un qui ne vous a jamais rencontré. L’une d’elles m’a fait sangloter, parce qu’elle mettait pour la première fois des mots sur ma situation. J’ai écrit sur [ce que valent les tirages pick-a-card](/fr/blog/tirage-pick-a-card/), et sur leurs limites.
 
