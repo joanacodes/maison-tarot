@@ -49,6 +49,8 @@ gallery:
 
 Une montagne est à la fois un obstacle et un point de vue. Elle est dure à gravir, froide au sommet, et elle ne va nulle part. Mais d’en haut, on voit toute la vallée d’où l’on vient. **Une montagne sur une carte, c’est une épreuve qui ne bouge pas : on la contourne, on la franchit, ou on reste au pied.**
 
+{{< zoom "mountain" "lead" >}}
+
 Un exemple de tous les jours : un examen à repasser. Il sera là en juin quoi que vous fassiez. Le seul choix, c’est la façon de grimper. Petit à petit, l’oiseau fait son nid.
 
 ## Où elle apparaît dans le jeu {#ou}
@@ -68,6 +70,8 @@ Sur le Huit de Coupes, un homme quitte ses coupes et marche vers des montagnes s
 Sur l’As d’Épées, une chaîne de montagnes s’étend sous l’épée, très loin sous la couronne.
 
 {{< cards "ar00 ar06 ar04 ar09 ar14 ar20 cu08 swac" >}}
+
+{{< zoom "mountain" "rest" >}}
 
 On voit aussi des montagnes à travers l’arche de roses de l’As de Pentacles, et la Tour est bâtie sur un pic déchiqueté.
 

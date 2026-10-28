@@ -76,6 +76,6 @@ Le signe de la carte n’est pas le signe de la personne. Un Gémeaux qui tire l
 
 Le signe vient après le dessin, le nombre et les couleurs. S’il contredit ce que vous avez sous les yeux, c’est le dessin qui l’emporte.
 
-Et c’est une clé de lecture, pas une preuve. Quand j’ai [testé mon thème astral case par case](/fr/blog/j-ai-teste-mon-theme-astral/), 30 à 40 % tenaient dans l’ensemble : assez pour être utile, pas assez pour décider de quoi que ce soit. Si les signes sont nouveaux pour vous, commencez par [ce qu’est un thème astral](/fr/blog/quest-ce-quun-theme-astral/).
+Et c’est une clé de lecture, pas une preuve. Quand j’ai [testé mon thème astral case par case](/fr/blog/j-ai-teste-mon-theme-astral/), 30 à 40 % tenaient dans l’ensemble : assez pour être utile, pas assez pour décider de quoi que ce soit. Les associations entre signes et cartes, elles, ne faisaient pas partie de ce test. Si les signes sont nouveaux pour vous, commencez par [ce qu’est un thème astral](/fr/blog/quest-ce-quun-theme-astral/).
 
 Pour essayer : sortez une de ces six cartes de votre jeu. Lisez-la une fois sans le signe, une fois avec, et notez les deux. Puis cherchez le signe dans [le tableau des douze signes de la Bibliothèque](/fr/bibliotheque/astrologie/), et son mode parmi [les trois modes astrologiques](/fr/bibliotheque/modes-astrologiques/).

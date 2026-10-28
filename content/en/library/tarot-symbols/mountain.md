@@ -49,6 +49,8 @@ gallery:
 
 A mountain is an obstacle and a viewpoint at once. It’s hard to climb, cold at the top, and it isn’t going anywhere. But from the summit you can see the whole valley you came from. **A mountain on a card is a challenge that doesn’t move: you go round it, over it, or you stay at its foot.**
 
+{{< zoom "mountain" "lead" >}}
+
 An everyday example: an exam you have to resit. It will be there in June whatever you do. The only choice is how you climb.
 
 ## Where it appears in the deck {#where}
@@ -68,6 +70,8 @@ On the Eight of Cups, a man walks away from his cups towards dark, rocky mountai
 On the Ace of Swords, a range of mountains lies under the sword, far below the crown.
 
 {{< cards "ar00 ar06 ar04 ar09 ar14 ar20 cu08 swac" >}}
+
+{{< zoom "mountain" "rest" >}}
 
 Mountains also show through the rose arch of the Ace of Pentacles, and the Tower is built on a jagged peak.
 

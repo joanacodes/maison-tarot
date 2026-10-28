@@ -31,7 +31,7 @@ La deuxième, c’est l’envie de faire une pause. Certains lecteurs traitent l
 
 La troisième concerne la personne qui tire. Certains se sentent plus fatigués ou plus à fleur de peau autour des éclipses, et préfèrent ne pas lire dans cet état.
 
-C’est la troisième que je garderais. Pas à cause du ciel, mais parce que l’état dans lequel vous lisez change un tirage bien plus que la date.
+C’est la troisième que je garderais. Pas à cause du ciel, mais parce que l’état dans lequel vous lisez change un tirage bien plus que la date. Cette fatigue-là, je la connais par les tirages eux-mêmes : interpréter demande de l’énergie, et il m’arrive de m’arrêter au bout de deux heures de lectures, par prudence.
 
 Et si attendre vous semble juste, attendez. On ne perd rien à laisser le jeu dans sa boîte quinze jours ; une question remise à plus tard est toujours là quand vous y revenez.
 
@@ -47,7 +47,7 @@ Ce qu’un tirage peut porter en saison d’éclipses, c’est ce qu’il porte 
 
 Votre jeu n’absorbe rien non plus. Les cartes ne sont pas magiques, vous l’êtes. Il n’y a rien à [purifier après coup](/fr/blog/purifier-son-jeu-de-tarot/) : si un tirage vous a pesé, c’est vous qui avez besoin de repos, pas les cartes.
 
-Mon cadre habituel pour l’astrologie vaut ici aussi. Quand [j’ai testé mon thème astral case par case](/fr/blog/j-ai-teste-mon-theme-astral/), l’essentiel tenait 30 à 40 % du temps. Assez pour faire d’une éclipse un thème de réflexion. Pas assez pour la laisser décider du moment où vous avez le droit de battre les cartes.
+Mon cadre habituel pour l’astrologie vaut ici aussi. Quand [j’ai testé mon thème astral case par case](/fr/blog/j-ai-teste-mon-theme-astral/), l’essentiel tenait 30 à 40 % du temps, et les éclipses n’ont jamais fait partie de ce test. Un tiers suffit pour faire d’une éclipse un thème de réflexion, pas pour la laisser décider du moment où vous avez le droit de battre les cartes.
 
 ## Trois questions avant de battre les cartes {#trois-questions}
 

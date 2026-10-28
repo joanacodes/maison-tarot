@@ -47,7 +47,7 @@ Concrètement, cela veut dire pas de consignes — pas de « quittez-le », pas 
 
 Un gourou a réponse à tout. Un tarologue sait où s’arrêtent ses réponses.
 
-Une partie de ce que les gens apportent n’est pas une question pour les cartes. Un deuil qui ne bouge pas, une peur qui empêche de dormir, une inquiétude de santé, une procédure en cours. Je ne lis pas sur ces sujets, et je dis pourquoi : un mot de travers y fait des dégâts, et il existe des personnes formées pour cela. Le tarot ne doit jamais remplacer une thérapie, ni devenir un cercle de dépendance, pour le lecteur comme pour la personne.
+Une partie de ce que les gens apportent n’est pas une question pour les cartes. Une inquiétude de santé, une procédure en cours, une décision financière : je ne lis pas sur ces sujets, et je dis pourquoi. Un mot de travers y fait des dégâts, et il existe des personnes formées pour cela. Un deuil qui ne bouge pas, une peur qui empêche de dormir nuit après nuit, c’est souvent la porte d’un thérapeute plutôt que la mienne. Le tarot ne doit jamais remplacer une thérapie, ni devenir un cercle de dépendance, pour le lecteur comme pour la personne.
 
 Alors j’indique la bonne porte — un médecin, un avocat, un thérapeute — sans que personne se sente renvoyé. Ma page sur [les cas où un thérapeute est la meilleure porte](/fr/avertissements/#therapie) le dit plus en détail.
 

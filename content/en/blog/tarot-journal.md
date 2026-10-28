@@ -19,7 +19,7 @@ Rule a line down the middle of the page. On the left, what you said, in the word
 
 Leave out the person's question — under [the silence rule](/blog/the-silence-rule/) you shouldn't know it anyway — and leave out their full name. A first name, or "stranger, group call", is enough to find the reading again. It's their life on your page.
 
-Say you read for a friend and draw the Three of Cups, then the Eight of Pentacles. Your left column might say: "Three cups raised, a lot of red against a blue sky: people celebrating together, warm feelings. Then eight, Earth: steady work, a skill being polished." Her right column: "My sister's wedding last weekend. And yes, I've just started an evening course." Two lines each, and you can already judge.
+Say you read for a friend and draw the Three of Cups, then the Eight of Pentacles. Your left column might say: "Three cups raised, a lot of red against a blue sky: people celebrating together, warm feelings. Then eight, Earth: steady work, a skill being polished." The right column, in her words: "My sister's wedding last weekend. And yes, I've just started an evening course." Two lines each, and you can already judge.
 
 {{< cards "cu03 pe08" >}}
 

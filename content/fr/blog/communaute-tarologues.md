@@ -49,11 +49,11 @@ Les sessions fonctionnent de la même manière, en tête-à-tête : une heure en
 
 Pour un lecteur, regarder apprend autant que lire. Vous voyez quelqu’un gérer une carte difficile, un raté ou une question sur laquelle il ne lit pas, en direct. Et repasser de temps en temps de l’autre côté de la table rappelle ce que ça fait d’être lu. Si vous pensez à lire pour un groupe, [ce qui change quand vingt personnes regardent](/fr/blog/tirer-les-cartes-en-public/) en est le prolongement.
 
-## Ce qui m’aurait aidée au début {#mes-debuts}
+## Comment j’ai appris, et pourquoi la Maison est faite ainsi {#mes-debuts}
 
-J’ai commencé à lire le 26 décembre 2020, avec un jeu offert par mes amis. En quelques mois, je lisais pour des inconnus : sur un serveur Discord trouvé via Tumblr, dans des groupes de tarot sur Facebook, et par lettres sur une application de correspondance. J’ai appris en lisant pour des gens qui ne me disaient rien, et en notant ce qui tenait. [Où trouver des personnes à qui tirer les cartes](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/) en détaille le côté pratique.
+J’ai commencé à lire le 26 décembre 2020, avec un jeu offert par mes amis. Mon premier tirage était juste, ce qui m’a surprise : je m’attendais à devoir d’abord m’entraîner. En quelques mois, je lisais pour des inconnus : sur un serveur Discord trouvé via Tumblr, dans des groupes de tarot sur Facebook, et par lettres sur une application de correspondance. [Où trouver des personnes à qui tirer les cartes](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/) en détaille le côté pratique.
 
-{{< todo >}}À ajouter ici : ce qui vous aurait aidée, côté lecteurs, quand vous avez commencé en 2020, en une ou deux phrases.{{< /todo >}}
+J’ai appris en lisant pour des gens qui ne me disaient rien, et en notant ce qui tenait. L’essentiel de ce que Maison Tarot propose aux tarologues, c’est ce même dispositif, réuni au même endroit : aux événements, des inconnus qui ne disent rien avant ; un carnet pour compter ; et, en atelier, une salle d’autres lecteurs capables de vous dire ce qui a porté.
 
 ## Par où commencer quand on lit déjà {#commencer}
 

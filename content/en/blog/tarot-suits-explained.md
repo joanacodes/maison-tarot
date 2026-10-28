@@ -38,7 +38,7 @@ The element pages in the Library give each element its full portrait: keywords, 
 
 ### Wands: Fire {#wands}
 
-Wands are [Fire](/library/four-elements/fire-element/): drive, projects, desire, what you start and what you burn on the way. On the cards, the wands are living wood: rough staffs with small green leaves still sprouting from them, whether they’re planted as posts, carried as a load or flying through the air. The court cards add the suit’s own animal: salamanders, which old European lore said could live in fire, on the Page’s and the Knight’s tunics and on the King’s throne, beside a lion.
+Wands are [Fire](/library/four-elements/fire-element/): drive, projects, desire: what you start, and what you want badly enough to start it. On the cards, the wands are living wood: rough staffs with small green leaves still sprouting from them, whether they’re planted as posts, carried as a load or flying through the air. The court cards add the suit’s own animal: salamanders, which old European lore said could live in fire, on the Page’s and the Knight’s tunics and on the King’s throne, beside a lion.
 
 Example card: the Four of Wands, four wands with a garland strung between them and people raising bouquets behind. In my notes it’s foundations, a marriage, building a family. A 4 is stability; in Fire, it’s a project with something solid under it.
 
@@ -56,7 +56,7 @@ Example card: the Eight of Swords, a woman bound and blindfolded among eight swo
 
 ### Pentacles: Earth {#pentacles}
 
-Pentacles are [Earth](/library/four-elements/earth-element/): money, the body, work, and whatever has value for you. Not all riches are gold. On the cards, gold coins marked with a five-pointed star, and around them land that has been worked: gardens, vines, a ploughed field behind the Knight, a craftsman’s bench. The King sits in a robe covered with grapes, on a throne carved with bulls’ heads — the bull of Taurus, an Earth sign.
+Pentacles are [Earth](/library/four-elements/earth-element/): money, the body, work, and whatever has value for you; in my notes, not all riches are gold. On the cards, gold coins marked with a five-pointed star, and around them land that has been worked: gardens, vines, a ploughed field behind the Knight, a craftsman’s bench. The King sits in a robe covered with grapes, on a throne carved with bulls’ heads — the bull of Taurus, an Earth sign.
 
 Example card: the Nine of Pentacles, a woman alone in a vineyard with a bird on her gloved hand. Enjoying what comes, and gratitude for everything you have.
 

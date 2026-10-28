@@ -60,7 +60,7 @@ It also changes how I speak. Without a story to lean on, the only thing I can be
 
 The second check happens on paper. I keep a notebook with two columns: what I said, and what was confirmed. I write the sentence as I say it, before the person reacts, and mark it afterwards.
 
-Sentence by sentence, there’s a third mark I use more than I’d like: *too vague to score*. A sentence like “you’ve been carrying a lot lately” goes there even if the person says yes, because a yes to a vague sentence isn’t a hit. It’s a Barnum statement doing its job.
+Next to held and missed, single sentences get a third mark, more often than I’d like: *too vague to score*. A sentence like “you’ve been carrying a lot lately” goes there even if the person says yes, because a yes to a vague sentence isn’t a hit. It’s a Barnum statement doing its job.
 
 Reading by reading, across the [blind readings I logged](/blog/does-tarot-work-300-readings/), about nine in ten held and about one in ten missed. That’s my own count, made by hand, not a study, and I say so every time I give it.
 
@@ -94,7 +94,7 @@ I ran the same test when I was testing astrology: my own birth chart box by box,
 
 The Barnum effect explains very well why vague readings feel accurate. It’s worth being just as clear about what it doesn’t cover.
 
-It predicts instant agreement. The very first reading I gave a stranger went the other way: a relationship, and an unflattering detail about how she treated the other person. She said it didn’t resonate. A few days later she wrote back that it had all happened, the unkind part included. A Barnum statement gets a yes on the spot. This got a no, and then a fact.
+It predicts instant agreement. The very first reading I gave a stranger went the other way. It spoke of a relationship, with an unflattering detail about how she had treated the other person, and she said it didn’t resonate. A few days later she wrote back that it had all happened, the unkind part included. A Barnum statement gets a yes on the spot. This got a no, and then a fact.
 
 That’s one story, and one story proves nothing on its own. I don’t know why the specific hits happen, and I don’t claim to. What I can say is that once the vague sentences are struck, something is left over, at a rate I can state, with misses I name. I wrote about the mechanics in [why tarot readings feel so accurate](/blog/why-tarot-readings-feel-accurate/).
 

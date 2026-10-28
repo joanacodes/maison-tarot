@@ -1,0 +1,13 @@
+# Gros plans de la montagne (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: ar06
+  box: [0.255, 0.60, 0.715, 0.865]
+  en: "The single red peak standing between the two figures"
+  fr: "Le pic rouge solitaire qui se dresse entre les deux personnages"
+- card: cu08
+  box: [0.45, 0.30, 0.955, 0.66]
+  en: "The man in red walking towards dark, rocky mountains"
+  fr: "L’homme en rouge qui marche vers des montagnes sombres et rocheuses"
+- card: ar00
+  box: [0.56, 0.47, 0.955, 0.635]
+  en: "Jagged white peaks rising behind the Fool"
+  fr: "Les pics blancs déchiquetés qui se dressent derrière le Mat"

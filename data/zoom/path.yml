@@ -1,13 +1,13 @@
 # Gros plans du chemin (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
 - card: ar14
-  box: [0.047, 0.47, 0.35, 0.84]
-  en: "x"
-  fr: "x"
+  box: [0.047, 0.48, 0.335, 0.84]
+  en: "The path climbing from the pool through green hills towards the light"
+  fr: "Le chemin qui monte de l’eau, entre les collines, vers la lumière"
 - card: ar18
   box: [0.04, 0.45, 0.96, 0.905]
-  en: "x"
-  fr: "x"
+  en: "The path leaving the pool, between the dog and the wolf"
+  fr: "Le chemin qui part de l’eau, entre le chien et le loup"
 - card: peac
   box: [0.52, 0.665, 0.84, 0.905]
-  en: "x"
-  fr: "x"
+  en: "A yellow path through the arch in the hedge, mountains beyond"
+  fr: "Un chemin jaune sous l’arche de la haie, les montagnes au-delà"
