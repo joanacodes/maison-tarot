@@ -5,7 +5,7 @@ translationKey: "post-barnum-effect-tarot"
 type: blog
 date: 2026-10-24
 categories: ["Practice"]
-tags: ["Barnum effect", "Forer effect", "Barnum effect tarot", "why tarot feels accurate", "tarot accuracy", "neighbour test", "reading notebook"]
+tags: ["Barnum effect", "Forer effect", "Barnum effect tarot", "tarot accuracy", "neighbour test", "reading notebook"]
 image: "covers/barnum-effect-tarot.jpg"
 imageAlt: "An open notebook ruled into two columns, one line crossed out, a pencil and a closed deck beside it"
 imagePrompt: "An open notebook ruled into two columns with one line crossed out and the handwriting out of focus, a pencil and a closed deck of cards beside it on a wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
@@ -54,7 +54,7 @@ The first check happens before I draw a single card. The person tells me nothing
 
 This matters for the Barnum effect in a specific way. Vague sentences become convincing when they meet a known story. If you tell me “it’s about my relationship” and I say “there’s something you haven’t said to them yet”, you’ll find the thing — everyone has one. If you’ve told me nothing, I have nothing to tailor the vague sentence to, and the temptation to use one drops.
 
-It also changes how I speak. Without a story to lean on, the only thing I can be specific about is what’s in the cards and what comes up when I look at them. That’s riskier, and it’s the point. Why I hold to it, and what it doesn’t protect, is in [the silence rule](/blog/the-silence-rule/).
+It also changes how I speak. Without a story to lean on, the only thing I can be specific about is what’s in the cards and what comes up when I look at them. That’s riskier, and it’s the point.
 
 ## Check two: the notebook {#notebook}
 
@@ -62,27 +62,17 @@ The second check happens on paper. I keep a notebook with two columns: what I sa
 
 Next to held and missed, single sentences get a third mark, more often than I’d like: *too vague to score*. A sentence like “you’ve been carrying a lot lately” goes there even if the person says yes, because a yes to a vague sentence isn’t a hit. It’s a Barnum statement doing its job.
 
-Reading by reading, across the [blind readings I logged](/blog/does-tarot-work-300-readings/), about nine in ten held and about one in ten missed. That’s my own count, made by hand, not a study, and I say so every time I give it.
-
-The notebook does two things the memory can’t. It keeps the misses, which memory quietly drops, and it keeps the exact wording, which memory quietly improves. If you want to set one up, [how I keep a reading notebook](/blog/tarot-journal/) walks through it.
+The notebook does two things the memory can’t. It keeps the misses, which memory quietly drops, and it keeps the exact wording, which memory quietly improves. It’s also where my rate comes from: across the [blind readings I logged](/blog/does-tarot-work-300-readings/), about one in ten missed, by my own count.
 
 ## Check three: the neighbour test {#neighbour-test}
 
-The third check is a single question I ask of every sentence afterwards: would this fit my neighbour? If yes, it doesn’t count.
+The third check is a single question I ask of every sentence afterwards: would this fit my neighbour? If yes, it doesn’t count. I’ve scored one of my own readings this way, sentence by sentence, in [why tarot readings feel so accurate](/blog/why-tarot-readings-feel-accurate/), so here I’ll show the difference on two cards instead.
 
-I grade sentences on three levels:
-
-| Level | Example | What I do |
-|---|---|---|
-| Fits anyone | “You feel stuck, but you have more freedom than you think.” | Strike it |
-| Fits a group | “You’re hesitating over a commitment.” | Half a point at best |
-| Fits one person, and could be wrong | “A plan for a home or a wedding is on hold, and you’re the one holding it.” | Counts, if confirmed |
-
-That last sentence is a hypothetical, built from two cards: the Eight of Swords and the Four of Wands.
+Say the cards are the Eight of Swords and the Four of Wands.
 
 {{< cards "sw08 wa04" >}}
 
-In my notes, the Eight of Swords is someone prisoner of themselves while holding every tool they need — the blindfold can come off. The Four of Wands is foundations: marriage, building a family. The Barnum version stays at “you feel stuck”. The specific version names a situation, a role and a cause.
+In my notes, the Eight of Swords is someone prisoner of themselves while holding every tool they need — the blindfold can come off. The Four of Wands is foundations: marriage, building a family. The Barnum version of these two cards is “you feel stuck, but you have more freedom than you think”: it fits anyone, so it’s struck before it’s scored. The specific version names a situation, a role and a cause: “a plan for a home or a wedding is on hold, and you’re the one holding it.” It could be wrong, which is exactly why it’s worth saying.
 
 **A sentence that can be wrong is the only kind worth counting.** If the person says no, it’s a miss and I write it down. If they say yes, it means something, because it could easily have been no.
 
@@ -94,9 +84,9 @@ I ran the same test when I was testing astrology: my own birth chart box by box,
 
 The Barnum effect explains very well why vague readings feel accurate. It’s worth being just as clear about what it doesn’t cover.
 
-It predicts instant agreement. The very first reading I gave a stranger went the other way. It spoke of a relationship, with an unflattering detail about how she had treated the other person, and she said it didn’t resonate. A few days later she wrote back that it had all happened, the unkind part included. A Barnum statement gets a yes on the spot. This got a no, and then a fact.
+It predicts instant agreement. My [very first reading for a stranger](/blog/first-tarot-reading-story/) went the other way: she said it didn’t resonate, and a few days later wrote back that it had all happened. A Barnum statement gets a yes on the spot. This got a no, and then a fact.
 
-That’s one story, and one story proves nothing on its own. I don’t know why the specific hits happen, and I don’t claim to. What I can say is that once the vague sentences are struck, something is left over, at a rate I can state, with misses I name. I wrote about the mechanics in [why tarot readings feel so accurate](/blog/why-tarot-readings-feel-accurate/).
+That’s one story, and one story proves nothing on its own. I don’t know why the specific hits happen, and I don’t claim to; I’ve gone through [the four usual theories](/blog/how-does-tarot-work/), and none of them fully covers it. What I can say is that once the vague sentences are struck, something is left over, at a rate I can state, with misses I name.
 
 The other honest limit is me. My checks reduce the Barnum effect; they don’t remove it. I still catch vague sentences in my own notebook, and I expect I always will. Finding them is the work.
 

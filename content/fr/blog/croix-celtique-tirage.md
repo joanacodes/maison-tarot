@@ -15,13 +15,15 @@ La croix celtique est un tirage en dix cartes : six cartes posées en croix, qua
 
 ## Ce qu’est la croix celtique {#definition}
 
-Arthur Edward Waite a publié ce tirage dans le guide qu’il a écrit pour le Rider-Waite-Smith, et il voyage avec ce jeu depuis. En France, beaucoup de gens connaissent d’abord le tirage en croix, à cinq cartes ; la croix celtique est sa grande cousine venue d’Angleterre. Sa forme ne change pas :
+Arthur Edward Waite a publié ce tirage dans le guide qu’il a écrit pour le Rider-Waite-Smith, et il voyage avec ce jeu depuis. Sa forme ne change pas :
 
 - la carte 1 au centre, et la carte 2 posée en travers — la petite croix du cœur ;
 - les cartes 3 à 6 autour : au-dessus, en dessous, à gauche, à droite ;
 - les cartes 7 à 10 en colonne à droite de la croix, de bas en haut.
 
 Vous trouverez des livres qui numérotent autrement les quatre cartes autour du centre. Choisissez une version, notez-la, et gardez-la : une disposition qui change chaque semaine ne peut rien vous apprendre.
+
+Ne la confondez pas avec le tirage en croix qu’on apprend en France, qui n’en partage guère que la silhouette : cinq cartes, pas de colonne, et une carte centrale qu’on calcule en additionnant les quatre autres. Celui-là a sa propre page, [le tirage en croix](/fr/blog/tirage-en-croix/) ; ici, il s’agit de la croix celtique, en dix cartes.
 
 Waite commençait par choisir une carte pour représenter la personne — la carte significatrice — et posait le tirage par-dessus. Je saute cette étape. [Je lis sans carte significatrice](/fr/blog/carte-significatrice-tarot/) : la carte 1 sort du mélange, comme les autres.
 
@@ -62,7 +64,7 @@ Apprenez-la en trois temps, à peu près une semaine chacun.
 2. Le cercle : six cartes. Ajoutez les quatre autour. Vous avez toute la situation, toujours en une ou deux phrases.
 3. Les dix. Ajoutez la colonne, et lisez le tirage en trois phrases plutôt qu’en dix : une pour la croix, une pour le cercle, une pour la colonne.
 
-Deux habitudes aident dès le premier jour. Écrivez les dix positions sur un papier posé à côté du tirage, pour que votre mémoire n’ait pas à tout porter. Et lisez les clés de lecture sur les dix cartes avant toute position : combien d’arcanes majeurs, quel élément domine, quelle couleur l’emporte, si un nombre revient. Six Coupes sur dix, et c’est une affaire de sentiments, quelle que soit la question — [beaucoup de Coupes dans un tirage](/fr/blog/beaucoup-de-coupes-tirage/) va plus loin. Aucun arcane majeur, et la situation est entre des mains ordinaires : les vôtres.
+Deux habitudes aident dès le premier jour. Écrivez les dix positions sur un papier posé à côté du tirage, pour que votre mémoire n’ait pas à tout porter. Et lisez les clés de lecture sur les dix cartes avant toute position : combien d’arcanes majeurs, quel élément domine, quelle couleur l’emporte, si un nombre revient. Six Coupes sur dix, et c’est une affaire de sentiments, quelle que soit la question. Aucun arcane majeur, et la situation est entre des mains ordinaires : les vôtres.
 
 **Si les dix cartes vous paraissent encore trop, c’est une information, pas un échec.** [Un tirage en trois cartes](/fr/blog/tirage-passe-present-futur/) répond à la plupart des questions, et [savoir s’il vous faut un tirage structuré](/fr/blog/faut-il-des-tirages-structures/) est une vraie question à vous poser.
 
@@ -76,7 +78,7 @@ Puis la colonne, de bas en haut : le Deux d’Épées, le Trois de Coupes, le Ne
 
 {{< cards "sw02 cu03 sw09 waac" >}}
 
-D’abord les clés de lecture. Un seul arcane majeur sur dix, [l’Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/) : c’est une situation à taille humaine, entre les mains de la personne. Trois Coupes mènent les éléments : il s’agit de ce qu’elle ressent plus que de ce qu’elle pense. Les couleurs : le ciel de nuit du Huit de Coupes et le mur noir du Neuf d’Épées ; le gris du Deux d’Épées ; puis le vert des feuilles de l’As de Bâtons à la dernière place. Le sombre est au cœur et dans les craintes. Le vert est dans la direction.
+D’abord les clés de lecture. Un seul arcane majeur sur dix, [l’Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/) : c’est une situation à taille humaine, entre les mains de la personne. Les Coupes sont la famille la plus présente, avec trois des neuf arcanes mineurs : il s’agit d’abord de ce que la personne ressent. Les couleurs : le ciel de nuit du Huit de Coupes et le mur noir du Neuf d’Épées ; le gris du Deux d’Épées ; puis le vert des feuilles de l’As de Bâtons à la dernière place. Le sombre est au cœur et dans les craintes. Le vert est dans la direction.
 
 La croix. Une silhouette en cape rouge s’éloigne de nuit de huit coupes empilées — dans mes notes, passer à autre chose que ce qu’on fait déjà —, tandis qu’en travers un homme couronné serre une pièce contre sa poitrine. Un 8 croisé par un 4, l’Eau croisée par la Terre : partir, et s’accrocher à la sécurité construite.
 

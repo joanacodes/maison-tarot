@@ -17,11 +17,11 @@ Tirer les cartes pour quelqu’un d’autre commence avant de sortir le jeu, par
 
 Avant de lire qui que ce soit, posez la question : « Voulez-vous que je vous tire les cartes ? » Et prenez « non » ou « pas aujourd’hui » pour une réponse complète.
 
-Ça paraît évident, et c’est pourtant l’étape qu’on saute avec ceux qu’on connaît le mieux. Les cartes sortent au moment du café, quelqu’un lance « à mon tour », et personne ne demande à l’amie restée silencieuse au bout de la table si elle en a envie. Qui ne dit mot ne consent pas : un oui donné pour ne pas casser l’ambiance, ou pour vous faire plaisir, n’est pas vraiment un oui non plus. Si quelqu’un hésite, proposez un autre jour, et pas pour la forme.
+Ça paraît évident, et c’est pourtant l’étape qu’on saute avec ses proches. Les cartes sortent au moment du café, quelqu’un lance « à mon tour », et personne ne demande à l’amie silencieuse, au bout de la table, si elle en a envie. Un oui donné pour ne pas casser l’ambiance, ou pour vous faire plaisir, n’est pas vraiment un oui. Si quelqu’un hésite, proposez un autre jour, et pas pour la forme.
 
-Un oui n’est pas un contrat pour autant. Dites avant la première carte qu’on peut vous arrêter à tout moment. Quelqu’un qui sait pouvoir dire « stop » s’installe plus sereinement, et une personne qui ne se crispe pas dans l’attente d’une mauvaise nouvelle est plus facile à lire ; je reviens sur ces deux points plus bas.
+Un oui n’est pas un contrat pour autant. Dites avant la première carte qu’on peut vous arrêter à tout moment. Qui se sait libre de dire « stop » s’installe plus sereinement, et qui ne se prépare pas au pire est plus facile à lire ; je reviens sur les deux plus bas.
 
-Le consentement porte aussi sur le sujet du tirage. **Lisez pour la personne en face de vous, sur sa propre vie.** Si, au milieu du tirage, elle vous demande ce que son conjoint pense vraiment, c’est une autre question : le conjoint n’est pas à la table, et il n’a pas dit oui. J’explique comment je m’y prends dans [tirer les cartes sur quelqu’un d’autre](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/).
+Le consentement porte aussi sur le sujet du tirage. **Lisez pour la personne en face de vous, sur sa propre vie.** Si, en cours de route, elle demande ce que pense vraiment son conjoint, c’est une autre question : il n’est pas à la table, et il n’a pas dit oui. J’explique comment je m’y prends dans [tirer les cartes sur quelqu’un d’autre](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/).
 
 ## Lui demander de ne rien vous dire {#ne-rien-dire}
 
