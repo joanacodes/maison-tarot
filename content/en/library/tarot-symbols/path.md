@@ -49,6 +49,8 @@ gallery:
 
 A path is a line on the ground made by people walking the same way. Nobody designs it; it appears because it works. **The path says: there’s a way through, and you don’t have to invent it — but you still have to walk it.** Think of the track worn across a park lawn between the station and the bakery: the council never drew it, and everyone uses it.
 
+{{< zoom "path" "lead" >}}
+
 On a card, ask three things: where the path starts, where it goes, and whether anyone is on it.
 
 ## Where it appears in the deck {#where}
@@ -64,6 +66,8 @@ On the Eight of Pentacles, behind the craftsman at his bench, a road leads off t
 And one card without a path: on the Eight of Cups, a man walks away from his cups towards rocky mountains, and nothing is drawn under his feet. He’s making his own.
 
 {{< cards "ar14 ar18 peac pe08 cu08" >}}
+
+{{< zoom "path" "rest" >}}
 
 The peaks these paths lead to have [their own page](/library/tarot-symbols/mountain/).
 

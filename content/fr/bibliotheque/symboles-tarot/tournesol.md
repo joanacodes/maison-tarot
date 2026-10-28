@@ -49,6 +49,8 @@ gallery:
 
 Un tournesol, c’est un grand visage jaune sur une longue tige, tourné vers la lumière. C’est souvent la première fleur que dessinent les enfants. **Le tournesol dit : il y a de la joie ici, et elle se montre — vous avez le droit d’être vu en train d’en profiter.** Pensez aux champs de tournesols au bord des routes du Sud-Ouest, en juillet : personne ne passe sans regarder.
 
+{{< zoom "sunflower" "lead" >}}
+
 Si la rose est le désir et le lys la clarté, le tournesol, c’est le bonheur tout court, sans arrière-pensée.
 
 ## Où il apparaît dans le jeu {#ou}
@@ -60,6 +62,8 @@ Sur le Soleil, une rangée de tournesols dépasse du mur gris, derrière l’enf
 Sur [la Reine de Bâtons](/fr/bibliotheque/cartes-tarot/reine-de-batons/), la Reine tient un tournesol dans la main gauche et son bâton dans la droite. D’autres fleurs à cœur sombre, qu’on lit généralement comme des tournesols, ornent le dossier de son trône de part et d’autre de sa tête, à côté de deux lions rouges. Un chat noir est assis à ses pieds.
 
 {{< cards "ar19 waqu" >}}
+
+{{< zoom "sunflower" "rest" >}}
 
 La liste est courte, et ça mérite qu’on s’y arrête. Le jeu réserve le tournesol à deux personnages à l’aise sous les regards : un enfant qui n’a rien à cacher, et une reine qui n’a pas besoin de se cacher.
 

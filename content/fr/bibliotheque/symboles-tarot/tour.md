@@ -49,6 +49,8 @@ gallery:
 
 Une tour, c’est un bâtiment qui monte au lieu de s’étendre. Elle voit loin, on la voit de loin, et elle tient les gens dehors. **La tour dit : voici quelque chose de construit pour vous protéger et surveiller l’horizon — vérifiez que ça vous sert encore.** Pensez au clocher d’un village : on se repère grâce à lui, et c’est aussi là qu’on montait autrefois pour voir qui arrivait.
 
+{{< zoom "tower" "lead" >}}
+
 Cette page suit les tours qui se tiennent à l’arrière-plan du jeu. Celle que frappe la foudre a [sa propre page](/fr/bibliotheque/cartes-tarot/la-tour/).
 
 ## Où elle apparaît dans le jeu {#ou}
@@ -62,6 +64,8 @@ Sur le Quatre de Bâtons, un château avec une tour ronde au toit rouge pointu s
 Sur le Cinq de Coupes, un donjon en ruine se dresse de l’autre côté de la rivière, un pont un peu plus loin. Sur le Huit d’Épées, un château est perché sur un rocher derrière la femme ligotée. Sur le Sept de Coupes, une coupe contient une tour sur un rocher : un fantasme parmi sept.
 
 {{< cards "ar13 ar18 wa02 wa04 cu05 cu07 sw08 pe10" >}}
+
+{{< zoom "tower" "rest" >}}
 
 Des tours de château se dressent aussi derrière le Chariot, le Roi de Pentacles et les enfants du Six de Coupes.
 

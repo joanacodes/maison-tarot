@@ -9,8 +9,8 @@
   fr: "La tour ronde au toit rouge pointu, au-dessus des bouquets levés"
 - card: ar18
   box: [0.03, 0.31, 0.25, 0.58]
-  en: "One of the Moon’s two grey towers, on the left of the card"
-  fr: "L’une des deux tours grises de la Lune, à gauche de la carte"
+  en: "One of the Moon’s two grey towers, on the left"
+  fr: "L’une des deux tours grises de la Lune, à gauche"
 - card: ar13
   box: [0.745, 0.30, 0.955, 0.46]
   en: "Two grey towers on the horizon, a sun between them"

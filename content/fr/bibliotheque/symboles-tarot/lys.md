@@ -49,6 +49,8 @@ gallery:
 
 Un lys est une grande fleur blanche qui se tient droite sur sa tige. En France, on pense d’abord à la fleur de lys des rois, une forme stylisée ; dans les vieux tableaux de l’Annonciation, l’ange en tient souvent un vrai. **Le lys dit : l’intention, ici, est claire — rien de caché dans les pétales.** Pensez à la chemise blanche du premier jour dans un nouveau poste : elle dit que vous repartez d’une page blanche, et tout le monde le voit.
 
+{{< zoom "lily" "lead" >}}
+
 Clair ne veut pas dire mou. Un lys se tient tout seul.
 
 ## Où il apparaît dans le jeu {#ou}
@@ -64,6 +66,8 @@ Sur le Hiérophante (le Pape au tarot de Marseille), le tonsuré de droite porte
 Sur l’As de Coupes, des nénuphars flottent sur le bassin sous la coupe qui déborde, des fleurs rouges parmi les feuilles rondes. Ce n’est pas la même plante que le lys des jardins, et le jeu les place exactement là où l’eau retombe.
 
 {{< cards "ar01 peac wa02 ar05 cuac" >}}
+
+{{< zoom "lily" "rest" >}}
 
 Deux que je laisse de côté : les fleurs jaunes de Tempérance sont des iris, et les fleurs blanches du Six de Coupes sont dessinées comme des étoiles à cinq branches.
 

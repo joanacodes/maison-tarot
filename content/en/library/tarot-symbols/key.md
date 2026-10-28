@@ -49,6 +49,8 @@ gallery:
 
 A key is permission you can hold in your hand. Whoever has it decides who comes in. **The key says: there’s a way in, and the question is who holds it — you, or someone you have to ask.** Think of the first morning at a new job, when someone hands you a badge: the building hasn’t changed, but now its doors open for you.
 
+{{< zoom "key" "lead" >}}
+
 A key also tells you there was a lock. Something was closed on purpose.
 
 ## Where it appears in the deck {#where}

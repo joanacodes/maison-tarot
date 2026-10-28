@@ -49,6 +49,8 @@ gallery:
 
 A lily is a tall white flower that stands straight on its stem. It’s a wedding flower, and in old paintings of the Annunciation the angel often holds one. **The lily says: the intention here is clear — nothing hidden in the petals.** Think of a white shirt on the first day of a new job: it says you’re starting clean, and everyone can see it.
 
+{{< zoom "lily" "lead" >}}
+
 Clear isn’t the same as soft. A lily holds itself up.
 
 ## Where it appears in the deck {#where}
@@ -64,6 +66,8 @@ On the Hierophant, the tonsured figure on the right wears a robe patterned with 
 On the Ace of Cups, water lilies float on the pond below the overflowing cup, red blooms among round green pads. Not the same plant as the garden lily, and the deck puts them exactly where the water lands.
 
 {{< cards "ar01 peac wa02 ar05 cuac" >}}
+
+{{< zoom "lily" "rest" >}}
 
 Two I leave out: Temperance’s yellow flowers are irises, and the white flowers in the Six of Cups are drawn as five-pointed stars.
 

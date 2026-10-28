@@ -49,6 +49,8 @@ gallery:
 
 From the outside, a pomegranate looks plain: a hard reddish skin, a little crown on top. Cut it open and it’s packed — hundreds of seeds in a juice that stains everything it touches. **The pomegranate says: there’s more inside than the surface lets on, and getting at it takes a knife or patience.** Think of the quiet colleague who turns out to know the whole history of the company.
 
+{{< zoom "pomegranate" "lead" >}}
+
 It has stood for plenty and fertility for a very long time, precisely because of all those seeds.
 
 ## Where it appears in the deck {#where}
@@ -58,6 +60,8 @@ On [the High Priestess](/library/tarot-cards/the-high-priestess/), the veil hung
 On the Empress, the white dress is printed all over with pomegranates in red and green. She sits back on her cushions in a field of wheat, a waterfall behind her. Here the fruit isn’t hidden: she wears it.
 
 {{< cards "ar02 ar03" >}}
+
+{{< zoom "pomegranate" "rest" >}}
 
 Two cards, next to each other in the deck: 2 and 3. Same fruit, opposite gestures. One keeps the seeds behind a veil; the other has them all over her dress.
 

@@ -49,6 +49,8 @@ gallery:
 
 Un oiseau vit à deux endroits : il se nourrit au sol et voyage dans le ciel. C’est pour ça qu’il porte les messages dans tant d’histoires, de la colombe lâchée depuis l’arche au pigeon voyageur. **L’oiseau dit : quelque chose circule entre l’endroit où vous êtes et celui que vous regardez — un message, une idée, un espoir.** Pensez au SMS que vous attendez depuis le début de l’après-midi : il n’est pas encore arrivé, mais vous savez qu’il est en route.
 
+{{< zoom "bird" "lead" >}}
+
 L’espèce d’oiseau, et ce qu’il fait, disent le reste. Posé, en piqué, qui s’envole, ou tenu sur un gant.
 
 ## Où il apparaît dans le jeu {#ou}
@@ -64,6 +66,8 @@ Au-dessus du Valet, de la Reine et du Roi d’Épées, de petits oiseaux noirs t
 Sur la Roue de Fortune et le Monde, un aigle est l’une des quatre créatures des coins — ailé, devant un livre ouvert, sur la Roue, une tête dans les nuages sur le Monde. Parmi les quatre signes [fixes](/fr/bibliotheque/modes-astrologiques/fixe/), on le lit généralement comme le Scorpion.
 
 {{< cards "ar17 cuac pe09 swpa swqu swki ar10 ar21" >}}
+
+{{< zoom "bird" "rest" >}}
 
 ## Comment le lire {#lecture}
 

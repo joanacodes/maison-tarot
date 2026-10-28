@@ -49,6 +49,8 @@ gallery:
 
 Un enfant, c’est quelqu’un au début : petit, neuf, ouvert, et dépendant des autres. **L’enfant dit : quelque chose ici est jeune — un commencement, une part de vous qui ne s’est pas durcie, ou quelqu’un dont il faut prendre soin.** Pensez à un enfant de cinq ans qui demande « pourquoi ? » pour la dixième fois : c’est fatigant, et c’est aussi la question que personne d’autre dans la pièce n’osait poser.
 
+{{< zoom "child" "lead" >}}
+
 Sur une carte, un enfant est presque toujours à côté d’un adulte. Regardez lequel.
 
 ## Où il apparaît dans le jeu {#ou}
@@ -66,6 +68,8 @@ Sur le Six d’Épées, une petite silhouette est blottie à côté d’une femm
 Et le Soleil a l’enfant le plus connu du jeu, sur son cheval blanc ; [la page de la carte](/fr/bibliotheque/cartes-tarot/le-soleil/) le lit en entier.
 
 {{< cards "ar13 ar20 cu06 cu10 pe10 sw06 ar19" >}}
+
+{{< zoom "child" "rest" >}}
 
 ## Comment le lire {#lecture}
 

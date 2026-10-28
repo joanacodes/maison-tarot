@@ -50,7 +50,7 @@ By December you have twelve sentences and twelve marks — a record of your year
 
 ## What a year-ahead reading can’t do {#limits}
 
-It can’t give dates. Timing is where I miss most; a card for May speaks about a theme, never about the 12th. [Why timing is tarot’s weak point](/blog/tarot-timing/) goes into what I’ve learned there.
+It can’t give dates. A card for May speaks about a theme, never about the 12th. [Why timing is tarot’s weak point](/blog/tarot-timing/) goes into what I’ve learned there.
 
 It can’t answer questions about health, pregnancy or money either — “Will I be well this year?”, “Which month will the money come?” Those questions come from worry, and they deserve better tools: a doctor, an adviser, a plan. What a month card can hold is the gentler version: “What helps me look after myself in May?”
 

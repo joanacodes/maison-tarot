@@ -49,6 +49,8 @@ gallery:
 
 De l’extérieur, une grenade a l’air banale : une peau dure, rougeâtre, une petite couronne au sommet. Ouvrez-la : elle est pleine à craquer, des centaines de graines dans un jus qui tache tout ce qu’il touche. Le fruit a d’ailleurs donné son nom à l’arme. **La grenade dit : il y a plus à l’intérieur que ce que la surface laisse voir, et pour l’atteindre il faut un couteau ou de la patience.** Pensez au collègue discret qui, en fin de compte, connaît toute l’histoire de la boîte.
 
+{{< zoom "pomegranate" "lead" >}}
+
 Elle symbolise l’abondance et la fécondité depuis très longtemps, justement à cause de toutes ces graines.
 
 ## Où elle apparaît dans le jeu {#ou}
@@ -58,6 +60,8 @@ Sur [la Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), 
 Sur l’Impératrice, la robe blanche est imprimée de grenades rouges et vertes. Elle est adossée à ses coussins dans un champ de blé, une cascade derrière elle. Ici, le fruit n’est pas caché : elle le porte.
 
 {{< cards "ar02 ar03" >}}
+
+{{< zoom "pomegranate" "rest" >}}
 
 Deux cartes voisines dans le jeu : la 2 et la 3. Le même fruit, deux gestes opposés. L’une garde les graines derrière un voile ; l’autre en a plein sa robe.
 

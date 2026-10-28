@@ -49,6 +49,8 @@ gallery:
 
 Une clé, c’est une permission qu’on tient dans la main. Celui qui l’a décide qui entre. **La clé dit : il y a un accès, et toute la question est de savoir qui le détient — vous, ou quelqu’un à qui il faut le demander.** Pensez au premier matin dans un nouveau travail, quand on vous remet votre badge : le bâtiment n’a pas changé, mais ses portes s’ouvrent désormais pour vous.
 
+{{< zoom "key" "lead" >}}
+
 Une clé dit aussi qu’il y avait une serrure. Quelque chose a été fermé exprès.
 
 ## Où elle apparaît dans le jeu {#ou}

@@ -49,6 +49,8 @@ gallery:
 
 Une rose, c’est une beauté qu’on peut tenir, et qui pique si on la tient sans précaution. C’est la fleur des déclarations : on n’offre pas une douzaine de roses rouges le 14 février par hasard. **La rose dit : ici, quelque chose est aimé, désiré, cultivé — et sa couleur dit comment.** Pensez au rosier d’un jardin de grand-mère, taillé chaque hiver depuis trente ans : les roses ne poussent pas comme ça toutes seules.
 
+{{< zoom "rose" "lead" >}}
+
 Dans le Rider-Waite-Smith, les roses sont rouges ou blanches, et l’essentiel du sens tient dans cette différence.
 
 ## Où elle apparaît dans le jeu {#ou}
@@ -64,6 +66,8 @@ Sur [la Mort](/fr/bibliotheque/cartes-tarot/la-mort/), la bannière noire porte 
 Sur le Hiérophante, le tonsuré de gauche porte une robe semée de roses rouges ; celui de droite, des fleurs blanches. Le Deux de Bâtons a une croix de fleurs rouges et blanches sculptée dans la pierre, à gauche, qu’on lit généralement comme des roses et des lys. La Reine de Pentacles trône sous une tonnelle de roses rouges qui court tout le long du haut de sa carte.
 
 {{< cards "ar00 ar01 ar08 ar13 ar05 wa02 pequ" >}}
+
+{{< zoom "rose" "rest" >}}
 
 ## Comment la lire {#lecture}
 

@@ -49,6 +49,8 @@ gallery:
 
 A tower is a building that goes up rather than out. It sees far, it’s seen from far, and it keeps people out. **The tower says: here is something built to protect you and to watch the horizon — check whether it still serves you.** Think of a church tower in a village: you find your way by it, and it was also where people once climbed to see who was coming.
 
+{{< zoom "tower" "lead" >}}
+
 This page follows the towers standing in the background of the deck. The one struck by lightning has [its own card page](/library/tarot-cards/the-tower/).
 
 ## Where it appears in the deck {#where}
@@ -62,6 +64,8 @@ On the Four of Wands, a castle with a round tower and a red pointed roof stands 
 On the Five of Cups, a ruined keep stands across the river, a bridge further along. On the Eight of Swords, a castle sits on a rock behind the bound woman. On the Seven of Cups, one cup holds a tower on a rock: one fantasy among seven.
 
 {{< cards "ar13 ar18 wa02 wa04 cu05 cu07 sw08 pe10" >}}
+
+{{< zoom "tower" "rest" >}}
 
 Walled towns and castle towers also stand behind the Chariot, the King of Pentacles and the children of the Six of Cups.
 

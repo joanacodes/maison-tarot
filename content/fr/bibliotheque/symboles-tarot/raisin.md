@@ -49,6 +49,8 @@ gallery:
 
 Le raisin, c’est une récolte qu’on ne peut pas brusquer. Une jeune vigne met des années à bien donner, les grappes un été entier à mûrir, et le vin demande encore du temps. **Le raisin dit : quelque chose que vous entretenez depuis longtemps est prêt, et c’est fait pour en profiter, pas seulement pour le mettre de côté.** Pensez à la paulée, le repas de fin de vendanges en Bourgogne : la récolte ne part pas directement à la cave, on la fête d’abord avec ceux qui ont coupé les grappes.
 
+{{< zoom "grapes" "lead" >}}
+
 C’est aussi un fruit qui se partage. Personne ne mange une grappe d’une seule bouchée.
 
 ## Où il apparaît dans le jeu {#ou}
@@ -62,6 +64,8 @@ Sur le Dix de Pentacles, des grappes font partie du motif de la robe du vieil ho
 Sur le Trois de Coupes, la femme de droite tient une grappe dans sa main baissée, et d’autres raisins traînent aux pieds des trois femmes, à côté d’une citrouille et d’autres fruits. La récolte en fête.
 
 {{< cards "peki pe09 pe10 cu03" >}}
+
+{{< zoom "grapes" "rest" >}}
 
 ## Comment le lire {#lecture}
 

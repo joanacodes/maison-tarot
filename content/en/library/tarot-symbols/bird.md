@@ -49,6 +49,8 @@ gallery:
 
 A bird lives in two places: it feeds on the ground and travels in the sky. That’s why it carries messages in so many stories, from the dove sent out of the ark to the carrier pigeon. **The bird says: something is moving between where you stand and where you’re looking — a message, an idea, a hope.** Think of the text you’ve been waiting for all afternoon: it isn’t here yet, but you know it’s on its way.
 
+{{< zoom "bird" "lead" >}}
+
 What kind of bird, and what it’s doing, tells you the rest. Perched, diving, flying off, or sitting on a glove.
 
 ## Where it appears in the deck {#where}
@@ -64,6 +66,8 @@ Over the Page, the Queen and the King of Swords, small black birds cross the sky
 On the Wheel of Fortune and the World, an eagle is one of the four creatures in the corners — winged, with an open book, on the Wheel, a head in the clouds on the World. Among the four [fixed](/library/astrological-modes/fixed/) signs, it’s usually read as Scorpio.
 
 {{< cards "ar17 cuac pe09 swpa swqu swki ar10 ar21" >}}
+
+{{< zoom "bird" "rest" >}}
 
 ## How to read it {#reading}
 

@@ -15,7 +15,7 @@ Un live de tarot fonctionne si vous gardez vos règles, en sachant que le format
 
 ## Ce qu’est un live de tarot, et ce que j’ai fait {#definition}
 
-Un live de tarot, c’est un tirage, ou une série de tirages, diffusé en direct à qui regarde, pendant que les spectateurs écrivent dans les commentaires. Certains tarologues font un tirage général pour tout le monde. D’autres choisissent des spectateurs et les lisent un par un.
+Un live de tarot, c’est un tirage, ou une série de tirages, diffusé en direct à qui regarde, pendant que les spectateurs commentent. Certains tarologues font un tirage général pour tout le monde. D’autres choisissent des spectateurs et les lisent un par un.
 
 Quelques mois après mes débuts, je faisais des tirages dans des groupes de tarot sur Facebook, et des lives là-bas. Un des avis que j’ai reçus sur Facebook vient de quelqu’un que j’avais lu pendant un live. Si vous choisissez Instagram, vérifiez ses outils de live tels qu’ils sont aujourd’hui. Pour la question plus large du tarot sur cette plateforme, j’ai écrit sur [la tarologue que vous suivez et celle dont vous avez besoin](/fr/blog/tarot-instagram/).
 
@@ -23,9 +23,9 @@ Une bonne partie de ce qui change quand on vous regarde n’a rien à voir avec 
 
 ## Ce qui marche : vos règles, adaptées à la caméra {#ce-qui-marche}
 
-Ma règle ne change pas en live : ne me dites rien. Demandez aux gens de ne pas écrire leur question, leur âge ni leur situation. En commentaires, c’est plus dur à tenir qu’autour d’une table, et ça compte davantage : chaque spectateur peut lire ce qui a été écrit, et vous aussi. Voici [pourquoi je demande le silence](/fr/blog/regle-du-silence-tarot/), au départ.
+Ma règle ne change pas en live : ne me dites rien. Demandez aux gens de ne pas écrire leur question, leur âge ni leur situation. En commentaires, c’est plus dur à tenir qu’autour d’une table, et ça compte davantage : chaque spectateur peut lire ce qui a été écrit, et vous aussi. Voici [pourquoi je demande le silence](/fr/blog/regle-du-silence-tarot/).
 
-Tirez les personnes au sort plutôt que de prendre celles qui tapent le plus vite. En live, sans tirage au sort, c’est la vitesse dans les commentaires qui décide seule de qui sera lu.
+Tirez au sort plutôt que de prendre ceux qui tapent le plus vite : en live, sinon, seule la vitesse dans les commentaires décide de qui sera lu.
 
 Montrez chaque carte à la caméra. Dans mes notes de 2021, j’écrivais que plus je lisais, plus les messages arrivaient avant que j’aie mélangé, et que je me sers des cartes surtout parce que la personne a envie de les voir. En live, c’est doublement vrai. Si quelque chose vient avant que vous ayez posé une carte, dites-le, puis montrez la carte quand même pour qu’on puisse suivre. **En live, les spectateurs ne peuvent suivre que ce que vous mettez devant l’objectif.** J’explique ailleurs si [on a encore besoin des cartes](/fr/blog/a-t-on-besoin-des-cartes/).
 
@@ -37,13 +37,13 @@ Le décalage est la première surprise. Il y a un délai entre ce que vous dites
 
 Les commentaires sont la deuxième. Les gens réagissent pendant que vous lisez : « oui », « oh non », « c’est mon ex ». Chaque réaction est une information, et chacune vous oriente. Demandez de garder les réactions pour la fin. Si c’est impossible, lisez les yeux sur les cartes plutôt que sur les commentaires.
 
-La troisième, ce sont les questions des autres, qui tombent au milieu du tirage de quelqu’un : leur santé, un procès, savoir si leur conjoint les trompe. S’ils demandent, c’est qu’ils sont inquiets, et la façon douce de décliner est la même que dans une salle. La différence, c’est que la question reste affichée à l’écran : répondez-y une fois, brièvement, puis rappelez les règles, ou épinglez-les si votre plateforme le permet. J’explique [les sujets sur lesquels je ne lis pas](/fr/avertissements/#refus), et pourquoi.
+La troisième, ce sont les questions des autres, qui tombent au milieu du tirage de quelqu’un : leur santé, un procès, savoir si leur conjoint les trompe. S’ils demandent, c’est qu’ils sont inquiets, et la façon douce de décliner est la même que dans une salle. La différence, c’est que la question reste à l’écran : répondez-y une fois, brièvement, puis rappelez les règles, ou épinglez-les si votre plateforme le permet. J’explique [les sujets sur lesquels je ne lis pas](/fr/avertissements/#refus), et pourquoi.
 
 ## Rester calme face à la caméra {#trac}
 
-Le trac en live ne ressemble pas tout à fait au trac dans une salle. La caméra est souvent tout près de vos mains, et le moindre tremblement se voit. En général, il n’y a pas de visages à lire, seulement un fil de texte : vous perdez les petits hochements de tête qui vous rassurent autour d’une table. Et votre propre visage s’affiche parfois dans un coin de l’écran, si bien que lire devient se regarder lire.
+En live, le trac ne ressemble pas tout à fait à celui d’une salle. La caméra est souvent tout près de vos mains, et le moindre tremblement se voit. Il n’y a souvent pas de visages à lire, seulement un fil de texte : vous perdez les petits hochements de tête qui vous rassurent autour d’une table. Et votre propre visage s’affiche parfois dans un coin de l’écran, si bien que lire devient se regarder lire.
 
-Rester calme ne veut pas dire arrêter de trembler. Ça veut dire laisser trembler et lire quand même. Posez les cartes à plat sur la table au lieu de les tenir levées devant l’objectif, et tournez le téléphone vers la table plutôt que vers votre visage si l’aperçu vous distrait. Expirez plus longtemps que vous n’inspirez. Si ça aide, dites-le : « j’ai les mains qui tremblent un peu ce soir ». Les spectateurs pardonnent le trac bien plus facilement que le faire-semblant.
+Rester calme ne veut pas dire arrêter de trembler. Ça veut dire laisser trembler et lire quand même. Posez les cartes à plat au lieu de les lever devant l’objectif, et tournez le téléphone vers la table plutôt que vers votre visage si l’aperçu vous distrait. Expirez plus longtemps que vous n’inspirez. Si ça aide, dites-le : « j’ai les mains qui tremblent un peu ce soir ». Les spectateurs pardonnent le trac bien plus facilement que le faire-semblant.
 
 ## Avant de lancer le live : la liste {#liste}
 
@@ -56,4 +56,4 @@ Rester calme ne veut pas dire arrêter de trembler. Ça veut dire laisser trembl
 
 ## Pour aller plus loin {#prochaine-etape}
 
-Avant votre premier live public, faites une répétition avec deux amis pour seuls spectateurs : les règles épinglées, un tirage chacun, et une note chaque fois que le décalage ou un commentaire vous a fait quitter la carte des yeux. Si le fil de commentaires vous paraît encore de trop, commencez plutôt par un petit appel vidéo, où l’on parle au lieu d’écrire ; j’explique comment [organiser une soirée de tirages gratuits en ligne](/fr/blog/soiree-tirage-gratuit/).
+Avant votre premier live public, répétez avec deux amis pour seuls spectateurs : les règles épinglées, un tirage chacun, et une note chaque fois que le décalage ou un commentaire vous a fait quitter la carte des yeux. Si le fil de commentaires vous paraît encore de trop, commencez plutôt par un petit appel vidéo, où l’on parle au lieu d’écrire ; j’explique comment [organiser une soirée de tirages gratuits en ligne](/fr/blog/soiree-tirage-gratuit/).

@@ -5,8 +5,8 @@
   fr: "La grande rose blanche à cinq pétales sur la bannière noire"
 - card: ar01
   box: [0.26, 0.024, 0.44, 0.12]
-  en: "A red rose hanging from the garland at the top of the card"
-  fr: "Une rose rouge qui pend de la guirlande, en haut de la carte"
+  en: "A red rose hanging down from the top of the card"
+  fr: "Une rose rouge qui pend du haut de la carte"
 - card: ar00
   box: [0.75, 0.22, 0.945, 0.345]
   en: "The small white rose held up in the Fool’s hand"

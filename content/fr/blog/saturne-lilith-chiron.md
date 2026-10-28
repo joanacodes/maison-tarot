@@ -13,7 +13,7 @@ summary: "Quand j’ai testé mon thème astral position par position, coche ou 
 ---
 Quand j’ai testé mon thème astral case par case, la plupart des positions tenaient 30 à 40 % du temps. Trois tenaient bien plus souvent — 75 à 90 %, pour moi puis pour les autres : Saturne, Lilith et Chiron. Toutes les trois décrivent une difficulté : la leçon la plus dure, ce qu’on a appris à cacher, la blessure autour de laquelle on tourne.
 
-Chacune a sa page dans la Bibliothèque ; celle-ci les pose côte à côte, avec ce qu’est chacune, simplement, ce que veut dire « tenir » et comment vérifier les vôtres. Au tarot, je les lis avec trois cartes : le Monde pour Saturne, le Diable pour Lilith, l’Ermite pour Chiron.
+Chacune a sa page dans la Bibliothèque ; celle-ci les pose côte à côte, avec ce qu’est chacune, en clair, ce que veut dire « tenir » et comment vérifier les vôtres. Au tarot, je les lis avec trois cartes : le Monde pour Saturne, le Diable pour Lilith, l’Ermite pour Chiron.
 
 {{< cards "ar21 ar15 ar09" >}}
 

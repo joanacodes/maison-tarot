@@ -49,6 +49,8 @@ gallery:
 
 A child is someone at the beginning: small, new, open, and dependent on others. **The child says: something here is young — a beginning, a part of you that hasn’t hardened, or someone who needs looking after.** Think of a five-year-old asking “why?” for the tenth time: tiring, and also the question nobody else in the room dared to ask.
 
+{{< zoom "child" "lead" >}}
+
 A child on a card is usually beside an adult. Look at which one.
 
 ## Where it appears in the deck {#where}
@@ -66,6 +68,8 @@ On the Six of Swords, a small figure sits huddled beside a hooded woman in the b
 And the Sun has the deck’s best-known child, riding a white horse; [its card page](/library/tarot-cards/the-sun/) reads it in full.
 
 {{< cards "ar13 ar20 cu06 cu10 pe10 sw06 ar19" >}}
+
+{{< zoom "child" "rest" >}}
 
 ## How to read it {#reading}
 

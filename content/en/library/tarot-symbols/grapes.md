@@ -49,6 +49,8 @@ gallery:
 
 Grapes are a harvest you can’t rush. A new vine takes years to bear well, the bunches take a summer to ripen, and the wine needs more time again. **Grapes say: something you’ve tended for a long time is ready, and it’s meant to be enjoyed, not only stored.** Think of a dinner where the friend who made the wine pours it herself.
 
+{{< zoom "grapes" "lead" >}}
+
 They’re also a fruit for sharing. Nobody eats a bunch of grapes in one bite.
 
 ## Where it appears in the deck {#where}
@@ -62,6 +64,8 @@ On the Ten of Pentacles, bunches of grapes are part of the pattern on the robe o
 On the Three of Cups, the woman on the right holds a bunch of grapes in her lowered hand, and more grapes lie at the women’s feet beside a pumpkin and other fruit. The harvest as a party.
 
 {{< cards "peki pe09 pe10 cu03" >}}
+
+{{< zoom "grapes" "rest" >}}
 
 ## How to read it {#reading}
 

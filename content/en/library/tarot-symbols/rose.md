@@ -49,6 +49,8 @@ gallery:
 
 A rose is beauty you can hold, and it pricks you if you hold it carelessly. It’s the flower of declarations: nobody gives a dozen red roses by accident. **The rose says: something here is loved, wanted, cultivated — and its colour tells you how.** Think of a garden someone has tended for twenty years: roses don’t grow like that on their own.
 
+{{< zoom "rose" "lead" >}}
+
 In the Rider-Waite-Smith, roses are red or white, and most of the meaning sits in that difference.
 
 ## Where it appears in the deck {#where}
@@ -64,6 +66,8 @@ On [Death](/library/tarot-cards/death/), the black banner carries a large white 
 On the Hierophant, the tonsured figure on the left wears a robe patterned with red roses; the one on the right wears white flowers. The Two of Wands has a cross of red and white flowers carved into the stone on the left, usually read as roses and lilies. The Queen of Pentacles sits under a bower of red roses that runs across the top of her card.
 
 {{< cards "ar00 ar01 ar08 ar13 ar05 wa02 pequ" >}}
+
+{{< zoom "rose" "rest" >}}
 
 ## How to read it {#reading}
 

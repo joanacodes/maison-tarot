@@ -49,6 +49,8 @@ gallery:
 
 Un chemin, c’est une trace au sol faite par des gens qui passent tous au même endroit. Personne ne l’a dessiné ; il apparaît parce qu’il marche. **Le chemin dit : il existe un passage, et vous n’avez pas à l’inventer — mais il faut quand même le parcourir.** Pensez à la trace de terre battue qui coupe la pelouse d’un square, entre la gare et la boulangerie : la mairie ne l’a jamais tracée, tout le monde la prend.
 
+{{< zoom "path" "lead" >}}
+
 Sur une carte, posez trois questions : où le chemin commence, où il mène, et si quelqu’un y marche.
 
 ## Où il apparaît dans le jeu {#ou}
@@ -64,6 +66,8 @@ Sur le Huit de Pentacles, derrière l’artisan à son établi, une route s’é
 Et une carte sans chemin : sur le Huit de Coupes, un homme s’éloigne de ses coupes vers des montagnes rocheuses, et rien n’est dessiné sous ses pieds. Il trace le sien.
 
 {{< cards "ar14 ar18 peac pe08 cu08" >}}
+
+{{< zoom "path" "rest" >}}
 
 Les sommets vers lesquels mènent ces chemins ont [leur propre page](/fr/bibliotheque/symboles-tarot/montagne/).
 

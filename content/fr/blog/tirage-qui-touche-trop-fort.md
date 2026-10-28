@@ -23,7 +23,7 @@ Souvent, c’est moins la carte que votre phrase. Dans mes notes, le Cinq de Cou
 
 {{< cards "cu05" >}}
 
-Les larmes sont une situation à part, et [que faire quand quelqu’un pleure](/fr/blog/pleurer-pendant-un-tirage/) en parle, avec la liste de ce qu’il vaut mieux éviter, qui s’applique ici aussi : tirer une carte de plus pour adoucir le coup, par exemple. Cet article porte sur le moment d’avant, ou d’à la place : quand vos mots pesaient plus lourd que ce que la personne pouvait porter.
+Les larmes sont une situation à part, et [que faire quand quelqu’un pleure](/fr/blog/pleurer-pendant-un-tirage/) en parle, avec ce qu’il vaut mieux éviter et qui s’applique ici aussi, comme tirer une carte de plus pour adoucir le coup. Cet article porte sur le moment d’avant, ou d’à la place : quand vos mots pesaient plus lourd que ce que la personne pouvait porter.
 
 ## Les dix premières secondes {#premieres-secondes}
 

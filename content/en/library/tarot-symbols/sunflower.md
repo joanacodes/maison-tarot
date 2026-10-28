@@ -49,6 +49,8 @@ gallery:
 
 A sunflower is a big yellow face on a tall stem, turned towards the light. It’s often the first flower children draw. **The sunflower says: there’s joy here, and it faces outwards — you’re allowed to be seen enjoying it.** Think of a field of sunflowers by the road in late summer: nobody drives past without looking.
 
+{{< zoom "sunflower" "lead" >}}
+
 Where the rose is desire and the lily is clarity, the sunflower is plain happiness, with no secret behind it.
 
 ## Where it appears in the deck {#where}
@@ -60,6 +62,8 @@ On the Sun, a row of sunflowers grows over the grey wall behind the child on the
 On [the Queen of Wands](/library/tarot-cards/queen-of-wands/), the Queen holds a sunflower in her left hand and her staff in her right. More flowers with dark centres, usually read as sunflowers, are worked into the back of her throne on either side of her head, beside two red lions. A black cat sits at her feet.
 
 {{< cards "ar19 waqu" >}}
+
+{{< zoom "sunflower" "rest" >}}
 
 That’s a short list, and it’s worth noticing. The deck keeps the sunflower for two figures who are comfortable being looked at: a child with nothing to hide, and a queen who doesn’t need to hide.
 
