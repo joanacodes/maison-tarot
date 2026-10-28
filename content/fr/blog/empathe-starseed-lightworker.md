@@ -33,7 +33,7 @@ Voici ces mots et quelques voisins, définis clairement, chacun avec un exemple.
 
 ## Les autres mots que vous croiserez, définis ailleurs {#ailleurs}
 
-Le starseed et les guides spirituels n’ont pas de page à eux ici, c’est pourquoi ils sont définis plus haut. Ces mots-là en ont une :
+Quelques mots voisins ont leur propre page :
 
 - *Éveil.* Ce que les gens entendent par éveil spirituel, où le mien a commencé, et le mot plus sobre que j’emploie : [« éveil spirituel »](/fr/blog/eveil-spirituel/).
 - *Voyant, médium, guidance « canalisée ».* Ce que chacun promet avant que vous payiez : [guidance ou voyance ?](/fr/blog/guidance-ou-voyance/)

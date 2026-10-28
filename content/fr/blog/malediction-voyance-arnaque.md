@@ -46,7 +46,7 @@ Pour ma part, je ne lis pas sur ce sujet : [ni malédictions, ni blocages, ni en
 1. Arrêtez de payer. Aujourd’hui. Aucun rituel inachevé ne peut vous nuire parce qu’il reste inachevé.
 2. Cessez de répondre. Ces personnes sont rodées à cette conversation ; vous n’avez pas à l’avoir.
 3. Gardez tous les messages et tous les reçus.
-4. Signalez-le : à la plateforme, à votre banque si vous avez payé par carte, et aux autorités. En France, sur SignalConso, et par une plainte au commissariat ou à la gendarmerie ; ailleurs, il existe des équivalents. C’est une escroquerie, pas une affaire d’énergie.
+4. Signalez-le : à la plateforme, à votre banque si vous avez payé par carte, et aux autorités. En France, sur SignalConso, et par une plainte au commissariat ou à la gendarmerie ; ailleurs, il existe des équivalents. [C’est une escroquerie](/fr/blog/voyance-legale-france/), pas une affaire d’énergie.
 5. Parlez-en à une personne de confiance. Le silence fait partie du piège.
 
 Et si c’est vous qui portez cette peur, l’idée que c’est « sur vous », je vous le dis doucement : ce qui ne va pas, c’est que quelqu’un vous a menti pour de l’argent. C’est tout. Il n’y a rien sur vous. Il n’y a jamais rien eu.

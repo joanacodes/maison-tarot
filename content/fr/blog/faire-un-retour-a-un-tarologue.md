@@ -25,7 +25,7 @@ Citez la phrase. Pas « c’était super », mais « quand vous avez parlé d’
 
 Ça peut sembler dur. Ça ne l’est pas. À mon décompte, environ un tirage sur dix rate, et les lecteurs qui progressent sont ceux qui peuvent écrire ce mot dans leur carnet sans broncher. **Le retour le plus bienveillant, c’est le retour exact.** Pour le lecteur qui reçoit ce genre de retour, j’ai écrit [que faire quand un tirage est faux](/fr/blog/tirage-faux-que-faire/).
 
-Et si quelque chose résonne plus tard — trois jours après, par exemple —, écrivez-lui. C’est un retour aussi, et souvent le plus utile. Dites-lui ce qui a changé, pour qu’il puisse déplacer sa note d’une colonne à l’autre en toute honnêteté.
+Et si quelque chose résonne plus tard, écrivez-lui. C’est un retour aussi, et souvent le plus utile. Dites-lui ce qui a changé, pour qu’il puisse déplacer sa note d’une colonne à l’autre en toute honnêteté. Ça m’est arrivé à mes débuts : sur un groupe Discord, j’ai lu pour une inconnue au sujet d’une relation, et elle m’a répondu que ça ne lui parlait pas, puisqu’elle ne cherchait pas de relation. Trois ou quatre jours plus tard, elle m’a écrit, sous le choc : tout était arrivé.
 
 ## Séparez ce qu’il a vu de la façon dont il l’a dit {#fond-et-forme}
 

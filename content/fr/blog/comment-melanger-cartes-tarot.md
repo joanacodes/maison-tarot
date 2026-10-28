@@ -19,7 +19,7 @@ La seule chose que votre méthode change vraiment, c’est l’apparition ou non
 
 Non. Un jeu, c’est du carton et de l’encre. Les cartes ne sont pas magiques, vous l’êtes — et le mélange est la petite pause où ça commence. Pendant que vos mains travaillent, votre tête a un moment pour sortir de la conversation et laisser vos idées toutes faites s’écarter, pour que ce que vous direz ensuite vienne de la carte, et pas de ce que vous attendiez.
 
-En face à face, la personne mélange, ou me laisse mélanger ; les deux fonctionnent. Et la plupart de mes lectures pour des inconnus se sont faites en ligne, sur des serveurs Discord et en appels de groupe, où la personne n’a jamais touché mes cartes. Si une lecture dépendait des mains qui ont mélangé, ces lectures-là n’auraient eu prise sur rien.
+En face à face, le mélange peut revenir à la personne ou au lecteur ; les deux fonctionnent. Et la plupart de mes lectures pour des inconnus se sont faites en ligne, sur des serveurs Discord et en appels de groupe, où la personne n’a jamais touché mes cartes. Si une lecture dépendait des mains qui ont mélangé, ces lectures-là n’auraient eu prise sur rien.
 
 Pas besoin de rituel, donc : pas de petits coups sur le paquet, pas de purification entre deux tirages ([j’ai vendu de la sauge en 2021, et rien là-dedans n’a amélioré une lecture](/fr/blog/purifier-son-jeu-de-tarot/)). Laisser quelqu’un d’autre mélanger vos cartes est une préférence, pas une règle — [laisser toucher son jeu](/fr/blog/laisser-toucher-ses-cartes-tarot/) a son propre article.
 
@@ -59,7 +59,7 @@ Un jeu neuf sort de sa boîte avec toutes les cartes à l’endroit. Le mélange
 
 Pour en avoir, il faut retourner des cartes : mélanger à plat, ou faire pivoter une moitié du jeu avant le mélange américain. Si vous ne lisez pas les cartes inversées, faites l’inverse — paquets ou américain, et remettez à l’endroit toute carte qui sort la tête en bas. Aucun des deux choix n’est plus sérieux que l’autre ; il faut seulement que ce soit le même à chaque fois, pour savoir ce que veut dire une carte à l’envers quand vous en voyez une.
 
-Si tout un tirage sort à l’envers, vérifiez le mélange avant toute chose : le paquet a sans doute été retourné pendant une coupe. [Toutes les cartes à l’envers](/fr/blog/toutes-les-cartes-a-lenvers/) explique ce que ça peut vouloir dire ensuite. Quant à savoir s’il faut lire les cartes inversées, [ma réponse, et un raccourci](/fr/blog/cartes-inversees-tarot/) : la même carte, ralentie ou en excès.
+Si tout un tirage sort à l’envers, vérifiez le mélange avant toute chose : le paquet a sans doute été retourné pendant une coupe. [Toutes les cartes à l’envers](/fr/blog/toutes-les-cartes-a-lenvers/) explique ce que ça peut vouloir dire ensuite. Quant à savoir s’il faut lire les cartes inversées, je donne [ma réponse, et un raccourci](/fr/blog/cartes-inversees-tarot/) à part : une carte inversée, c’est la même carte, ralentie ou en excès.
 
 ## Quand s’arrêter, et quelle carte prendre {#quand-s-arreter}
 

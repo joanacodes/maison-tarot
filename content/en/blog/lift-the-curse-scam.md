@@ -44,7 +44,7 @@ I step back from the subject entirely: [no curses, no blocks, no attachments, no
 1. Stop paying. Today. There is no unfinished ritual that will harm you if left incomplete.
 2. Stop talking to them. They are better at this conversation than you are; don't have it.
 3. Keep every message and receipt.
-4. Report it — to the platform if there is one, to your bank if you paid by card, and to your consumer protection authority. In most countries this is straightforward fraud.
+4. Report it — to the platform if there is one, to your bank if you paid by card, and to your consumer protection authority. [In most countries this is straightforward fraud](/blog/is-tarot-reading-legal/).
 5. Tell one person. The silence is part of how the scam works.
 
 And if you're the one who's been carrying the fear — that something is wrong with you, that it's on you — the thing that's wrong is that someone lied to you for money. That's all. There is nothing on you. There never was.

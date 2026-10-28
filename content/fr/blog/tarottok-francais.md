@@ -27,7 +27,7 @@ Hashtags : #tarottok, #witchtok, #pickacard, #tarotreading, et en français #tar
 
 ## Pourquoi ça marche {#pourquoi-ca-marche}
 
-Parce que c’est rapide, chaleureux, et que ça arrive quand on est seul. Les anciens gardiens du tarot, les livres, le vocabulaire, la dame de la boutique ésotérique qui ne vous vend un jeu que s’il s’agit d’un cadeau, ont disparu. Une adolescente de seize ans avec un téléphone peut rencontrer l’Étoile à minuit et ressentir quelque chose. Les enquêtes d’opinion le répètent : c’est chez les 18-24 ans que la croyance en au moins une pratique ésotérique est la plus forte, et c’est sur TikTok qu’ils la rencontrent.
+Parce que c’est rapide, chaleureux, et que ça arrive quand on est seul. Les anciens gardiens du tarot, les livres, le vocabulaire, la dame de la boutique ésotérique qui ne vous vend un jeu que s’il s’agit d’un cadeau, ont disparu. Une adolescente de seize ans avec un téléphone peut rencontrer l’Étoile à minuit et ressentir quelque chose. [Les enquêtes d’opinion le répètent](/fr/blog/jeunes-et-voyance/) : c’est chez les 18-24 ans que la croyance en au moins une pratique ésotérique est la plus forte, et c’est sur TikTok qu’ils la rencontrent.
 
 Je n’y vois pas un problème. J’y vois une porte.
 

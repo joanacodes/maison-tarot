@@ -17,7 +17,7 @@ I get this question in two forms. The first is theological: *does my religion fo
 
 I'll be brief and careful, because I'm not a theologian and I don't want to be quoted as one.
 
-Several strands of Christianity read Deuteronomy's prohibition on divination as covering tarot, and some churches teach that plainly. Others draw a line between divination (asking the future) and reflection (using pictures to think), and don't object to the second. Most Islamic scholarship treats fortune-telling as forbidden, with the same distinction sometimes made about tools used for reflection rather than prediction. Judaism has a long argument with itself about the topic and, being Judaism, keeps having it. Buddhism mostly shrugs: the question is what you're doing with your mind, not what's in your hand.
+[Several strands of Christianity](/blog/tarot-and-christianity/) read Deuteronomy's prohibition on divination as covering tarot, and some churches teach that plainly. Others draw a line between divination (asking the future) and reflection (using pictures to think), and don't object to the second. Most Islamic scholarship treats fortune-telling as forbidden, with the same distinction sometimes made about tools used for reflection rather than prediction. Judaism has a long argument with itself about the topic and, being Judaism, keeps having it. Buddhism mostly shrugs: the question is what you're doing with your mind, not what's in your hand.
 
 If you belong to one of these, the person to ask is the one who guides you in it, not a tarot reader on the internet. I'd be suspicious of any reader who tells you your religion is fine with it. That's not theirs to say.
 

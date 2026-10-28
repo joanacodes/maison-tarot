@@ -15,9 +15,9 @@ Aucun arcane majeur dans votre tirage, c’est le signe que la situation se joue
 
 ## Arcanes majeurs et mineurs, en quelques lignes {#definitions}
 
-Les arcanes majeurs sont les 22 cartes numérotées de 0 à 21, du Mat au Monde, chacune avec son propre nom. Les arcanes mineurs sont les 56 autres : quatre familles de dix cartes numérotées, de l’As au Dix, plus quatre figures chacune.
+Les arcanes majeurs sont les 22 cartes qui portent un nom, du Mat (0) au Monde (21). Les arcanes mineurs sont les 56 autres : quatre familles de l’As au Dix, plus quatre figures chacune.
 
-On lit d’habitude la différence par l’échelle de temps. Les majeurs parlent d’un chapitre — des mois, parfois des années. Les mineurs parlent d’une situation — des jours, des semaines, ce que vous pouvez faire de vos mains. Un majeur n’est pas plus important qu’un mineur ; il est plus lent. Je fais la comparaison complète dans [arcanes majeurs et arcanes mineurs](/fr/blog/arcanes-majeurs-et-mineurs/).
+Les majeurs parlent d’un chapitre — des mois, parfois des années. Les mineurs parlent d’une situation — des jours, des semaines, ce que vous pouvez faire de vos mains. La comparaison complète, tableau compris, se trouve dans [arcanes majeurs et arcanes mineurs](/fr/blog/arcanes-majeurs-et-mineurs/). Ici, une seule question compte : ce que dit leur absence.
 
 ## Ça arrive plus souvent qu’on ne le croit {#frequence}
 
@@ -54,7 +54,7 @@ Terre, Feu, Air : le travail, l’élan, la pensée. Huit, c’est l’effort et
 
 ## Ce qu’il vaut mieux éviter {#a-eviter}
 
-Ne tirez pas de cartes supplémentaires jusqu’à voir apparaître un majeur. Une carte tirée pour boucher un trou brouille la lecture au lieu de la compléter ; j’explique pourquoi dans [la carte de clarification](/fr/blog/carte-de-clarification-tarot/).
+Ne tirez pas de cartes supplémentaires jusqu’à voir apparaître un majeur. Une carte tirée pour boucher un trou brouille la lecture au lieu de la compléter ; j’explique pourquoi dans [la carte de clarification](/fr/blog/carte-de-clarification-tarot/). Moi, je n’en tire jamais, pour la même raison que je ne rattrape pas une lecture qui a raté : un raté est un raté, et ce qui est sorti du jeu, c’est la lecture.
 
 Ne lisez pas l’absence comme « ça n’a pas d’importance ». La question de la personne compte exactement autant avec trois mineurs qu’avec trois majeurs. Le tirage décrit l’échelle de la situation, pas son poids dans une vie.
 

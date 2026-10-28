@@ -41,7 +41,7 @@ Une partie, je sais l’expliquer. Certaines « réussites » iraient à n’imp
 
 Une autre partie, non. Après une lecture pour une amie, j’ai senti un jour quelqu’un avec moi, chez moi : son grand-père, un Japonais sévère, avec beaucoup d’amour en lui. Il semblait parler japonais, alors j’ai dessiné à la place — le chiffre cinq, encore et encore, et « sous la maison ». Mon amie est descendue à la cave de son immeuble, au box numéro cinq — pas le sien, et déjà ouvert : il était rempli de pots de peinture. C’était tout le message. La suite est parmi [les histoires les plus étranges de mes tirages](/fr/blog/histoires-etranges-tarot/).
 
-Tout n’est pas une histoire d’esprits, et je ne sais pas ce que c’était. Je sais que c’est arrivé, je ne sais pas l’expliquer : c’est exactement là que je le range.
+Je ne sais pas ce que c’était. Je sais que c’est arrivé, je ne sais pas l’expliquer : c’est exactement là que je le range.
 
 Si vous voulez l’idée en deux cartes, prenez le Magicien (le Bateleur au tarot de Marseille) et la Grande Prêtresse. Dans mes notes, [le Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/) a les quatre éléments sur sa table et sait tout faire ; son revers, c’est qu’il peut faire semblant, si on lui fait confiance les yeux fermés. Les deux sens du mot « magicien » dans une seule carte. La Grande Prêtresse sait beaucoup de choses et ne montre qu’une façade, comme la face cachée de la lune : ce qui existe et ne se voit pas encore.
 
@@ -61,6 +61,6 @@ La limite, dite calmement : appeler quelque chose « magie », c’est un aveu, 
 
 Gardez une page, à la fin de votre carnet, pour ce que vous avez vu arriver sans pouvoir l’expliquer. Datez chaque entrée. Un an plus tard, relisez.
 
-Certaines auront trouvé une explication ordinaire : une coïncidence, un souvenir qui s’est arrangé tout seul, quelque chose qu’on vous avait dit et que vous aviez oublié. D’autres non. Celles-là vont sur l’étagère que j’appelle « sceptique, mais si ça arrive, j’aurai été prévenue ».
+Certaines auront trouvé une explication ordinaire : une coïncidence, un souvenir qui s’est arrangé tout seul, quelque chose qu’on vous avait dit et que vous aviez oublié. D’autres non. Celles-là vont sur l’étagère que j’appelle « sceptique, mais si ça arrive, j’étais prévenue ».
 
 Lisez ensuite [quatre théories sur le fonctionnement du tarot](/fr/blog/comment-marche-le-tarot/), et celle dont je n’ai pas besoin. Et si vous voulez rencontrer l’inexpliqué en personne, lisez une carte pour quelqu’un qui ne vous a rien dit. C’est ce qui se passe aux [événements gratuits](/fr/evenements/), devant tout le monde, avec les ratés dits à voix haute.

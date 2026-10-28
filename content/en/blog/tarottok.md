@@ -27,7 +27,7 @@ Hashtags: #tarottok, #witchtok, #pickacard, #tarotreading, and in French #tarotf
 
 ## Why it works {#why-it-works}
 
-Because it's fast, warm, and arrives when you're alone. Tarot's traditional gatekeeping — the books, the vocabulary, the older woman in the shop who won't sell you a deck unless it's a gift — is gone. A sixteen-year-old with a phone can meet the Star card at midnight and feel something. Surveys keep showing the same thing: belief in at least one esoteric practice is highest among 18-to-24-year-olds, and TikTok is where they meet it.
+Because it's fast, warm, and arrives when you're alone. Tarot's traditional gatekeeping — the books, the vocabulary, the older woman in the shop who won't sell you a deck unless it's a gift — is gone. A sixteen-year-old with a phone can meet the Star card at midnight and feel something. [Surveys keep showing the same thing](/blog/young-people-and-tarot/): belief in at least one esoteric practice is highest among 18-to-24-year-olds, and TikTok is where they meet it.
 
 I don't think that's a problem. I think that's a door.
 

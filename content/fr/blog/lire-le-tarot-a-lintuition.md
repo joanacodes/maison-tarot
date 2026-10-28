@@ -58,9 +58,7 @@ La limite honnête : une confirmation reste le jugement de la personne, et les g
 
 ## Allez-y doucement {#doucement}
 
-Le conseil que je donne le plus souvent ici : ne montez pas trop haut trop vite, sinon vous risquez de ne plus retrouver le chemin de la maison. Allez-y crescendo.
-
-Concrètement, une carte par jour pendant un moment, puis trois cartes, puis une personne. [La carte du jour](/fr/blog/carte-du-jour-tarot/) est faite pour cette première étape. À côté, tout ce qui est méditatif entraîne la même attention : la peinture, la lecture, la méditation, rester devant un tableau au musée d’Orsay en se demandant ce qu’il raconte. On peut lire dans tout.
+Le conseil que je donne le plus souvent ici, c’est de développer votre intuition doucement : une carte par jour pendant un moment, puis trois cartes, puis une personne. [La carte du jour](/fr/blog/carte-du-jour-tarot/) est faite pour cette première étape. À côté, tout ce qui est méditatif entraîne la même attention : la peinture, la lecture, la méditation, rester devant un tableau au musée d’Orsay en se demandant ce qu’il raconte. On peut lire dans tout.
 
 Tirer les cartes demande de l’énergie. Après une séance, vous pouvez vous sentir très fatigué, parce qu’interpréter est un travail. Écoutez votre corps et reposez-vous. Il m’arrive moi-même de m’arrêter au bout de deux heures.
 

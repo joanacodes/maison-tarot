@@ -24,11 +24,11 @@ En France, un tirage se vend sous une poignée de formes. **C’est la forme qui
 - *En forfait ou en abonnement.* Un paquet de questions ou une formule mensuelle, moins cher à l’unité. [Le paiement à la question et les abonnements](/fr/blog/tarot-payant-a-la-question/) méritent une page à eux seuls.
 - *En salon.* Quelques minutes sur un stand, dans un salon du bien-être ou un salon de la voyance.
 
-{{< todo >}}À ajouter ici : les fourchettes de prix actuelles en France (à la séance et à la minute), chacune avec une source fiable — mes recherches n’ont trouvé que les grilles tarifaires de tarologues individuels{{< /todo >}}
+Vous ne trouverez pas de fourchette de prix sur cette page. Les prix publiés sont la grille de chaque tarologue : ils disent ce que demande une personne, pas ce que coûte un tirage. Pour obtenir une fourchette qui ait du sens là où vous vivez, prenez trois tarologues qui vendent la même formule pour la même durée, notez le total que chacun demanderait, et comparez ces trois chiffres. Un tarif à la minute à côté d’un prix à l’heure ne vous dit rien tant que vous n’avez pas converti les deux en total.
 
 ## Ce que paie un prix honnête {#ce-que-paie-un-prix}
 
-Du temps, d’abord, et plus que ce que vous voyez. Une heure de tirage, c’est de la préparation avant, des notes après, et du repos. Interpréter fatigue ; je m’arrête au bout de deux heures de lectures, par prudence, et quelqu’un qui travaille à la journée doit intégrer dans son prix les heures qu’il ne peut pas vendre.
+Du temps, d’abord, et plus que ce que vous voyez. Une heure de tirage, c’est de la préparation avant, des notes après, et du repos. Interpréter fatigue ; il m’arrive de m’arrêter au bout de deux heures de lectures, par prudence, et quelqu’un qui travaille à la journée doit intégrer dans son prix les heures qu’il ne peut pas vendre.
 
 De l’expérience, mais pas celle qui se compte en années. Ce qui compte, c’est de savoir si la personne a vérifié son propre travail. Quelqu’un qui tient un carnet — ce qu’il a dit d’un côté, ce qui a été confirmé de l’autre — connaît son taux de ratés. Quelqu’un qui n’en tient pas devine sa propre justesse, et fait payer la devinette.
 

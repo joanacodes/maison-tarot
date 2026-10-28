@@ -4,7 +4,7 @@ Every article on the branch is complete as it stands: none of these questions is
 
 **How to answer:** reply in the chat with the number and your answer (“Q12: the Five of Cups, because…”), a few at a time if you like. A sentence or two is plenty. Skip any question you’d rather not answer; the article stays as it is.
 
-109 questions on 96 articles.
+125 questions on 107 articles.
 
 ## The cards in love, and the card hubs
 
@@ -582,57 +582,140 @@ Every article on the branch is complete as it stands: none of these questions is
 **Q99.** Is there another strange moment from your readings, not yet told anywhere on the site, that you’d be happy to add?
 <br><small>Where your answer goes: a short new section before #told-elsewhere (the article stands at 852 words, so there is room for about 100 more).</small>
 
+## Stories & experience
+
+### Afraid of the dark? What changed for me, and what shadow work has to do with it
+`/blog/afraid-of-the-dark/`
+
+**Q100.** Can you name what changed between waiting for the light and walking through your place in the dark: a period, a move, a practice, or nothing in particular?
+<br><small>Where your answer goes: #now, before “The dark is as dark as it ever was. Whatever changed, changed on my side of the switch…” (replaces the todo box that was removed; that line can stay as the bridge to shadow work)</small>
+
+### Do you need to cleanse your tarot deck? I sold sage in 2021 — here’s why I stopped
+`/blog/cleanse-tarot-deck/`
+
+**Q101.** Why did you stop selling sage, candles and “channelled” cards? One or two sentences in your own words.
+<br><small>Where your answer goes: #what-i-sold, right after “I stopped. Nothing in any of it improved a reading.” (replaces the todo box that was removed; the title promises the why)</small>
+
+**Q102.** What were the “channelled” cards, in one sentence, if you’d like readers to know?
+<br><small>Where your answer goes: #what-i-sold, at the end of the section, after “…and none of them comes in a box.” (replaces the optional todo box that was removed)</small>
+
+### The night I heard my father call my name from another country
+`/blog/father-calling-premonition/`
+
+**Q103.** What were you doing when you heard him, and roughly what time of night was it? (“Night” now comes from your article *Is tarot a sin?*; tell me if that’s wrong.)
+<br><small>Where your answer goes: #what-happened, after “One night, I heard my father call my name.” (replaces the first todo box that was removed)</small>
+
+**Q104.** How did you learn he was at his temple, praying and thinking of you: did you call him, or did he tell you later? If you told him what you’d heard, what did he say?
+<br><small>Where your answer goes: #what-happened, after “He was at his Buddhist temple, praying, and thinking of me.” (replaces the second todo box that was removed)</small>
+
+### My first tarot reading for a stranger was ‘wrong’ — then she texted me a few days later
+`/blog/first-tarot-reading-story/`
+
+**Q105.** When her text arrived, what did you answer her? And do you remember anything you said in the reading, beyond that it was about a relationship?
+<br><small>Where your answer goes: #what-happened, after “…she hadn’t been kind to the other person.” (replaces the todo box that was removed)</small>
+
+**Q106.** Before you read, did she tell you anything at all (a question, a subject), or nothing?
+<br><small>Where your answer goes: #why-i-tell-it, replaces the hypothetical “Picture the same reading if she’d opened with…” with what actually happened</small>
+
+**Q107.** Two lines in #on-the-day come from your beginners’ guide, not from your notes: that you’re more at ease with careers and self-development than with love, and your rule “don’t try to say something right. Say what comes up.” Are both still true for you?
+<br><small>Where your answer goes: #on-the-day; a “no” removes them</small>
+
+### Reading for someone I admired: the sentence I said out loud
+`/blog/reading-for-someone-i-admired/`
+
+**Q108.** How did the reading of his chart come about: did he ask, or did you offer? And if you’d like to say, which placement made his chart read as harsh (Saturn, Lilith, Chiron or another)?
+<br><small>Where your answer goes: #his-chart, after “His chart was on point. It was also harsh.” (replaces the todo box that was removed)</small>
+
+### What I believed about tarot in 2020 that I see differently now
+`/blog/what-i-believed-about-tarot/`
+
+**Q109.** In 2020, did you also believe that only some people could read? One sentence in your own words.
+<br><small>Where your answer goes: #training, after “The only practice is letting go.” (replaces the todo box that was removed)</small>
+
+**Q110.** Your 2021 line “I don’t need the cards anymore”: how do you see it today? Still true, half true, or something you’ve moved away from?
+<br><small>Where your answer goes: #the-cards, one sentence before “If you’re starting out, please don’t read that 2021 sentence as a goal.” The section currently quotes the line without saying whether your view changed, and the title promises what you “see differently now”.</small>
+
+### What it actually feels like to read a tarot card
+`/blog/what-reading-tarot-feels-like/`
+
+**Q111.** What do you feel in your body when you read, if anything? Your notes mention your body shaking during a live: could you describe that moment in a line or two, and how you stayed calm (no names)?
+<br><small>Where your answer goes: #not-yours, after “…as if they were theirs.” (replaces the todo box that was removed)</small>
+
+### ‘You have a gift’: the compliment I gently hand back
+`/blog/you-have-a-gift/`
+
+**Q112.** Think of one time someone told you “you have a gift”. After what kind of reading (an event, a live, a friend), and what did you answer?
+<br><small>Where your answer goes: #kind, after “It’s a generous thing to say, and I take it as it’s meant.” (replaces the todo box that was removed)</small>
+
 ## Seasonal
 
 ### Best tarot decks for beginners in 2027: a reader's shortlist
 `/blog/best-tarot-decks/`
 
-**Q100.** Which of these decks have you held or read with yourself: the U.S. Games Rider-Waite, the Smith-Waite Centennial, the Universal Waite, the Radiant Rider-Waite, Grimaud’s Ancien Tarot de Marseille, the Camoin-Jodorowsky Marseille, the Thoth? A plain list is enough.
+**Q113.** Which of these decks have you held or read with yourself: the U.S. Games Rider-Waite, the Smith-Waite Centennial, the Universal Waite, the Radiant Rider-Waite, Grimaud’s Ancien Tarot de Marseille, the Camoin-Jodorowsky Marseille, the Thoth? A plain list is enough.
 <br><small>Where your answer goes: #how-i-chose, one line after “…match it to your own eyes and hands.” The entries stay neutral until you confirm. (replaces the todo box that was removed)</small>
 
-**Q101.** Is there a deck on this list you’d remove, or one you’d add?
+**Q114.** Is there a deck on this list you’d remove, or one you’d add?
 <br><small>Where your answer goes: #rws-editions for a Rider-Waite-Smith edition, or #left-off for a deck you’d drop</small>
 
-**Q102.** Which edition do you read with yourself, and is it still the deck your friends gave you?
+**Q115.** Which edition do you read with yourself, and is it still the deck your friends gave you?
 <br><small>Where your answer goes: #rws-editions, one first-hand sentence under that edition’s entry</small>
 
 ### New Year tarot spread 2027: one card a month, no promises
 `/blog/new-year-tarot-spread/`
 
-**Q103.** Does your notebook show that timing is the part of a reading you miss most often? If yes, the line can go back to the first person.
+**Q116.** Does your notebook show that timing is the part of a reading you miss most often? If yes, the line can go back to the first person.
 <br><small>Where your answer goes: #no-promises, replaces “Timing is where readings slip most easily” with “Timing is where I miss most”</small>
 
 ### Samhain tarot: why October is when people finally ask
 `/blog/samhain-tarot/`
 
-**Q104.** What do you notice in October, at your events or in the messages you get? For example: more requests than usual, different questions, more people bringing a loss. One or two sentences, no names.
+**Q117.** What do you notice in October, at your events or in the messages you get? For example: more requests than usual, different questions, more people bringing a loss. One or two sentences, no names.
 <br><small>Where your answer goes: #why-october, a first-hand line just before “Put together, October lowers the cost of asking.” (replaces the todo box that was removed)</small>
 
+### Year-ahead tarot reading: how I do it, month by month
+`/blog/year-ahead-tarot-reading/`
+
+**Q118.** Do you draw a year-ahead reading for yourself? If so, when: New Year’s Day, your birthday, another date? A plain “no” is a fine answer too.
+<br><small>Where your answer goes: #what-it-is, one first-hand sentence after “It’s a month to notice what hurts, and to say it out loud rather than carry it.” (replaces the todo box that was removed). If the answer is no, the title’s “how I do it” reads as how you read the table, which the article already describes.</small>
+
 ## Trends
+
+### Should tarot readers use AI at all? Where I draw the line
+`/blog/should-tarot-readers-use-ai/`
+
+**Q119.** Beyond looking up symbols, do you use AI anywhere in your own work: posts, admin, translation? Where does your own line sit in that grey zone?
+<br><small>Where your answer goes: #grey-zone, one first-hand sentence after “That’s admin rather than reading, and it’s your call.”</small>
+
+### Tarot apps: are they any good? What to look for
+`/blog/tarot-apps/`
+
+**Q120.** Have you tried a tarot app yourself? What did you think of it, in a sentence or two? No app will be named on the page.
+<br><small>Where your answer goes: #what-id-use, as the opening line of the section (replaces the todo box that was removed)</small>
 
 ### Tarot on Instagram: the reader you follow and the reader you need
 `/blog/tarot-on-instagram/`
 
-**Q105.** Do you post tarot on Instagram yourself, as Maison Tarot or personally? If so, what do you post, and what do you choose not to post?
+**Q121.** Do you post tarot on Instagram yourself, as Maison Tarot or personally? If so, what do you post, and what do you choose not to post?
 <br><small>Where your answer goes: #the-platform-changes, one or two sentences after the bold line “A reader with a method reads the same way in a caption, a Reel or a live.” (your lives so far are on Facebook; the article says nothing about your own Instagram)</small>
 
-**Q106.** When you scroll tarot on Instagram, what makes you stop on a post, and what makes you unfollow an account?
+**Q122.** When you scroll tarot on Instagram, what makes you stop on a post, and what makes you unfollow an account?
 <br><small>Where your answer goes: #the-reader-you-follow, after the two Star captions, as a first-hand line next to the hypothetical example.</small>
 
 ### Readers accused of using AI: how the accusation works
 `/blog/tarot-readers-accused-of-ai/`
 
-**Q107.** Has anyone ever asked whether one of your readings or posts was written with AI, or have you suspected it of a reading someone gave you? What happened, in a sentence or two?
+**Q123.** Has anyone ever asked whether one of your readings or posts was written with AI, or have you suspected it of a reading someone gave you? What happened, in a sentence or two?
 <br><small>Where your answer goes: #if-accused, a short real example before “Answer the question, not the tone.”</small>
 
 ### Tarot subscriptions, ‘extended readings’ and pay-per-question: how the model works
 `/blog/tarot-subscriptions/`
 
-**Q108.** Have you ever paid for a reading by the question, by the minute or by subscription yourself (before or after you started reading)? What did you notice?
+**Q124.** Have you ever paid for a reading by the question, by the minute or by subscription yourself (before or after you started reading)? What did you notice?
 <br><small>Where your answer goes: #who-earns-what, after the bold line, as a first-hand example next to the model price of 12 €.</small>
 
 ### Why young people are turning to tarot (and what it says about now)
 `/blog/young-people-and-tarot/`
 
-**Q109.** At your events and workshops, what do the people under 25 tend to come with, or ask most, compared with older people?
+**Q125.** At your events and workshops, what do the people under 25 tend to come with, or ask most, compared with older people?
 <br><small>Where your answer goes: #why-them, after “What follows is my reading, not a study.”, as one observed example to sit beside the survey figures.</small>
