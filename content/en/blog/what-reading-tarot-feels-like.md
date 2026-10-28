@@ -15,13 +15,13 @@ Most of the time, reading a card feels ordinary: a word or an image turns up in 
 
 ## Mostly, it sounds like your own thoughts {#own-thoughts}
 
-In my teaching notes, impressions come through every channel we have: images, sounds, words, smells, sensations, emotions, and most people are sharper in one of them. When you read, they arrive the way thoughts do. There’s no bell and no special voice: what comes speaks in your own voice, at the speed of an ordinary thought.
+In my teaching notes, impressions come through every channel we have: images, sounds, words, smells, sensations, emotions, and some people are sharper in one of them. When you read, they arrive the way thoughts do. There’s no bell and no special voice: what comes speaks in your own voice, at the speed of an ordinary thought.
 
 Say you turn over the Six of Cups for a friend: two children in a courtyard, one handing the other a cup filled with flowers. In my notes the card is about childhood, taking time for yourself, flowering again. But the word that crosses your mind is “school”. Not a meaning from a book, just a word. That word is what reading feels like.
 
 {{< cards "cu06" >}}
 
-Because it sounds like you, it’s easy to throw away, or to suspect you invented it. There are ways to [tell reading from making it up](/blog/am-i-making-it-up-tarot/), and none of them happen in the moment: they happen afterwards, when you check.
+Because it sounds like you, it’s tempting to throw it away, or to suspect you invented it. There are ways to [tell reading from making it up](/blog/am-i-making-it-up-tarot/), and none of them happen in the moment: they happen afterwards, when you check.
 
 The cards help in a modest way. They give your eyes somewhere to rest, so your own thoughts and assumptions step aside long enough for something else to come through. With practice, the word can come before you’ve even shuffled. I noted that in my first full year of reading, and I’ve put [that line from my 2021 notes](/blog/what-i-believed-about-tarot/) in context elsewhere.
 

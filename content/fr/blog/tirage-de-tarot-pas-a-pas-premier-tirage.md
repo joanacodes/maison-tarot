@@ -79,4 +79,4 @@ Ne tirez pas une deuxième carte pour adoucir la première. Si elle a frappé tr
 
 Et ne faites rien à cause de la carte. Le tarot n'est pas une autorité. Agissez sur ce que vous sentez, pas sur ce qu'une carte a dit. Vous avez maintenant une phrase, dans votre voix, sur votre propre situation ; elle était à vous avant l'arrivée de la carte.
 
-Quand vous voudrez les autres clés de lecture, celles qui transforment un tirage à une carte en lecture que vous pouvez faire pour quelqu'un d'autre, c'est autour de ça qu'est construit [l'apprentissage du tarot ici](/fr/apprendre-le-tarot/).
+Quand vous voudrez les autres clés de lecture, celles qui transforment un tirage à une carte en lecture que vous pouvez faire pour quelqu'un d'autre, c'est autour de ça qu'est construit [l'apprentissage du tarot ici](/fr/apprendre-le-tarot/), et [apprendre à lire le tarot quand on débute](/fr/blog/apprendre-a-lire-le-tarot-debutant/) montre la méthode derrière la première carte.

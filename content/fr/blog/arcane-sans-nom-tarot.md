@@ -25,7 +25,7 @@ Le jeu lui-même mérite qu’on s’y arrête avant d’aller plus loin, et [l�
 
 Voici ce que l’histoire peut dire, et l’endroit où elle s’arrête.
 
-Les plus anciennes cartes de tarot conservées, peintes à la main pour les ducs de Milan au XVe siècle, ne portent ni titre ni numéro sur leurs atouts. Les joueurs les reconnaissaient à vue, et [l’essai du Metropolitan Museum sur les premiers tarots](https://www.metmuseum.org/perspectives/tarot-2) (en anglais) montre que leur ordre pouvait varier d’un jeu à l’autre.
+Les plus anciennes cartes de tarot conservées, peintes à la main pour les ducs de Milan au XVe siècle, ne portent ni titre ni numéro sur leurs atouts. Les joueurs les reconnaissaient à vue, et [l’essai du Metropolitan Museum sur les premiers tarots](https://www.metmuseum.org/articles/tarot-2) (en anglais) montre que leur ordre pouvait varier d’un jeu à l’autre.
 
 Écrire un titre sur chaque atout est devenu une habitude française, et le modèle de Marseille, imprimé en France à partir du XVIIe siècle, en porte un sur chaque lame — sauf la XIII. Ce n’est pourtant pas une règle absolue. Le plus ancien tarot de type Marseille connu, celui de Jean Noblet, cartier à Paris vers 1650, écrit bien *La Mort* sur la lame ([une description du tarot de Noblet](https://tarot-history.com/jean-noblet/), en anglais). La plupart des tarots de Marseille qui ont suivi laissent le cartouche vide, et c’est cette version-là qui a été copiée et recopiée.
 

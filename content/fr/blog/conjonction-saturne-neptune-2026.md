@@ -39,8 +39,6 @@ Je ne peux pas vous dire ce qu’elle a fait au monde, et je me méfierais de qu
 
 Alors, que voulait-elle dire ? Comme événement collectif, je ne sais pas. Comme déclencheur, elle a eu un effet utile : pendant quelques semaines, beaucoup de gens se sont demandé quelles parties de leur vie reposaient sur un rêve, et lesquelles sur du solide. C’est une bonne question pour n’importe quel mois de février.
 
-{{< todo >}}À ajouter ici : ce que vous avez remarqué ou noté vous-même autour du 20 février 2026, s’il y a lieu — sinon supprimez cette ligne.{{< /todo >}}
-
 ## Un test que vous pouvez encore faire {#test}
 
 Le bilan qui a du sens, c’est le vôtre, fait comme j’ai [testé mon thème astral, case par case](/fr/blog/j-ai-teste-mon-theme-astral/) :

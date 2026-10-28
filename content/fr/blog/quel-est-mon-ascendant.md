@@ -19,7 +19,7 @@ Imaginez le zodiaque comme un anneau de douze signes autour de la Terre. Comme l
 
 C’est pour ça qu’il dépend de l’heure. L’ascendant change à peu près toutes les deux heures, un peu plus vite ou un peu moins selon le signe et l’endroit. Deux bébés nés le même jour dans la même maternité ont le même signe solaire, et très probablement la même Lune. Si l’un arrive à sept heures du matin et l’autre à sept heures du soir, ils n’ont presque certainement pas le même ascendant.
 
-Dans la plupart des thèmes, l’ascendant est aussi la ligne de départ de la maison I : le point à partir duquel on compte les onze autres maisons. Décalez-le d’une heure et tout le thème tourne. Si les maisons sont nouvelles pour vous, [mon explication du thème astral pour débuter](/fr/blog/quest-ce-quun-theme-astral/) part de zéro.
+Dans la plupart des thèmes, l’ascendant est aussi la ligne de départ de la maison I : le point à partir duquel on compte les onze autres maisons. Décalez-le d’une heure et tout le thème tourne.
 
 ## Comment trouver votre ascendant {#le-trouver}
 
@@ -31,13 +31,13 @@ Il vous faut trois choses, et c’est la troisième qui manque d’habitude.
 
 Entrez-les sur un site de thème astral — j’utilise Astro-Seek — et cherchez « Ascendant » ou les lettres « AC » sur la roue. C’est votre ascendant.
 
-Si vous ne connaissez pas votre heure, demandez à ceux qui étaient là. En France, l’heure figure aussi sur la copie intégrale de l’acte de naissance, que vous pouvez demander à la mairie de votre lieu de naissance. Si personne ne sait, ne choisissez pas une heure au hasard. Un thème sans ascendant reste un thème, avec le Soleil, la Lune et les planètes dans leurs signes.
+Si vous ne connaissez pas votre heure, [mon explication du thème astral pour débuter](/fr/blog/quest-ce-quun-theme-astral/#obtenir-le-votre) vous dit où la chercher, et ce qu’un thème montre encore sans elle. Si personne ne la connaît, ne choisissez pas une heure au hasard : une heure devinée ne vous donne qu’un ascendant deviné.
 
 Si l’heure est approximative — « vers midi » —, regardez le degré. Un ascendant au milieu d’un signe tient sans doute à un quart d’heure près. Un ascendant à 28° ou à 1° peut appartenir au signe suivant ou au précédent : gardez-le avec des pincettes.
 
 ## La porte, pas la maison {#la-porte}
 
-Dans mes notes, les trois positions que tout le monde cite habitent la même maison. Le Soleil, c’est l’intérieur de la maison : ce autour de quoi votre vie s’organise. La Lune, c’est votre chambre à vous — là où vous allez quand la porte est fermée, et pour moi la plus importante des trois. L’ascendant, c’est l’extérieur : la porte d’entrée, la façade, l’allée qu’on remonte avant de vous rencontrer.
+Dans mes notes, l’ascendant, c’est l’extérieur de la maison : la porte d’entrée, la façade, l’allée qu’on remonte avant de vous rencontrer. Le Soleil et la Lune, eux, habitent à l’intérieur.
 
 **Votre ascendant dit comment on entre chez vous, pas qui habite là.**
 

@@ -17,7 +17,7 @@ Je tire les cartes, j’apprends aux gens à les lire, et je passe un temps éto
 
 Ou un blocage, un attachement, une énergie noire, une « entité négative », un sort de famille. Le nom change avec la mode ; la structure, jamais : il y a quelque chose sur vous, lui seul peut le voir, lui seul peut l’enlever, et l’enlever coûte de l’argent. Souvent, la première lecture est gratuite ou presque, justement pour en arriver là.
 
-Pas de zone grise ici : c’est la plus vieille escroquerie du métier, assimilée à une fraude dans la plupart des pays, et sans version honnête. Si vous l’entendez, vous pouvez partir sans rien expliquer ; avoir peur sur le moment est normal, c’est fait pour. Moi, [je ne lis jamais sur les malédictions](/fr/avertissements/#refus), comme tous les lecteurs que je respecte.
+Pas de zone grise ici : c’est la plus vieille escroquerie du métier, [assimilée à une fraude dans la plupart des pays](/fr/blog/voyance-legale-france/), et sans version honnête. Si vous l’entendez, vous pouvez partir sans rien expliquer ; avoir peur sur le moment est normal, c’est fait pour. Moi, [je ne lis jamais sur les malédictions](/fr/avertissements/#refus), comme tous les lecteurs que je respecte.
 
 ## 2. On crée l’urgence {#urgence}
 

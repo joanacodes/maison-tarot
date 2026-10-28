@@ -85,4 +85,4 @@ When it doesn't — and by my count that's about one time in ten — you say "th
 
 One deck. One lens. Someone who tells you nothing. A notebook. And, before every card, the sentence that keeps you honest: *I'm about to talk nonsense.* You'll find out soon enough whether you were.
 
-If you'd rather try it with someone watching, that's what the [free events](/events/) are for.
+If you'd rather try it with someone watching, that's what the [free events](/events/) are for. For your very first pull, step by step, see [how to do a tarot reading](/blog/how-to-do-a-tarot-reading/).

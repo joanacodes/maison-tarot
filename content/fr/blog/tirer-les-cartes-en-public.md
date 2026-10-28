@@ -53,9 +53,9 @@ Remerciez pour la question et passez à la suite, sans sermon : personne ne devr
 
 ## Le corps qui tremble, la voix calme {#rester-calme}
 
-J’ai fait des directs dans des groupes de tarot sur Facebook, à lire pour des gens sous les yeux des autres. Et plus je lisais, plus le message arrivait souvent avant même que j’aie mélangé. Devant un public, dites-le quand ça arrive, pour que personne ne croie que vous avez sauté une étape. [Lire en direct](/fr/blog/tarot-en-live/) a ses propres bizarreries, et j’en parle à part.
+Quand le public est derrière un écran plutôt que dans la salle, [lire en direct](/fr/blog/tarot-en-live/) pose des problèmes à part, du décalage au fil des commentaires, et j’en parle dans un autre article. Dans une salle, c’est surtout votre corps que vous remarquerez.
 
-Les mains peuvent trembler, la voix accélérer. C’est normal, et ça ne dit rien de la qualité du tirage. Ce qui aide quand c’est vous qui êtes à la table :
+Les mains peuvent trembler, le cœur s’emballer, la voix accélérer. C’est normal, et ça ne dit rien de la qualité du tirage. Ce qui aide quand c’est vous qui êtes à la table :
 
 - Ralentissez votre voix. Le trac fait accélérer, et la salle entend le calme avant d’entendre le contenu.
 - Décrivez la carte avant de l’interpréter. Une description est toujours juste, et elle laisse au trac le temps de retomber.

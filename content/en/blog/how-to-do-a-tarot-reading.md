@@ -79,4 +79,4 @@ Don't draw a second card to soften the first. If it landed too hard, it landed. 
 
 And don't do anything because of the card. Tarot is not an authority. Act on what you feel, not on what a card said. You now have a sentence in your own voice about your own situation; that was yours before the card arrived.
 
-When you want the other lenses, the ones that turn a single pull into a reading you can do for someone else, that's what [learning tarot here](/learn-tarot/) is built around.
+When you want the other lenses, the ones that turn a single pull into a reading you can do for someone else, that's what [learning tarot here](/learn-tarot/) is built around, and [how to read tarot as a beginner](/blog/how-to-read-tarot-beginners/) shows the method behind the first card.

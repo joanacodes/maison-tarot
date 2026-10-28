@@ -48,7 +48,7 @@ Pour les lignes de voyance payées à la minute, j’ai détaillé le mécanisme
 
 Le chemin britannique est différent, et éclaire le nôtre. Le Fraudulent Mediums Act de 1951 punissait le médium qui prétendait à des pouvoirs pour tromper et en tirer profit, sauf pour un spectacle. Il a été [abrogé le 26 mai 2008](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1/2008-05-26) au profit d’un règlement général sur les pratiques commerciales déloyales, lui-même remplacé depuis le 6 avril 2025 par le Digital Markets, Competition and Consumers Act 2024.
 
-On attribue souvent à cette exception pour le divertissement l’habitude de la mention « for entertainment purposes only », très répandue chez les voyants anglophones. À la télévision britannique, le régulateur Ofcom exige qu’une démonstration de divination présentée comme un divertissement soit clairement annoncée comme telle. En France, je n’ai pas trouvé d’obligation équivalente. J’ai expliqué ailleurs pourquoi [j’aime bien cette mention, même sans obligation](/fr/blog/fins-de-divertissement/).
+On attribue souvent à cette exception pour le divertissement l’habitude de la mention « for entertainment purposes only », très répandue chez les voyants anglophones. À la télévision britannique, le régulateur Ofcom exige qu’une démonstration de divination présentée comme un divertissement soit clairement annoncée comme telle. En France, je n’ai pas trouvé d’obligation équivalente. J’ai expliqué ailleurs pourquoi [j’aime bien cette mention, même sans obligation](/fr/blog/fins-de-divertissement/). À mon propre décompte, environ une lecture sur dix rate, et je préfère que ce soit écrit sur la porte plutôt que découvert après coup.
 
 ## Ce que ça change pour vous, et pour moi {#pour-vous-et-moi}
 

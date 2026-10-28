@@ -17,7 +17,7 @@ I read cards, I teach people to read them, and I spend a surprising amount of my
 
 Or a block, an attachment, a dark energy, a "negative entity", a generational hex. The name changes with the fashion; the structure never does: there is something on you, only they can see it, only they can remove it, and removal costs money. Often the first reading is free or cheap precisely so this can be discovered.
 
-This is not a grey area. It is the oldest con in the trade, it is illegal in most countries as fraud, and there is no version of it that's legitimate. The moment you hear it, leave. [I refuse the subject entirely](/disclaimers/#refusals), and so does every reader I respect.
+This is not a grey area. It is the oldest con in the trade, it is [illegal in most countries as fraud](/blog/is-tarot-reading-legal/), and there is no version of it that's legitimate. The moment you hear it, leave. [I refuse the subject entirely](/disclaimers/#refusals), and so does every reader I respect.
 
 ## 2. They create urgency {#urgency}
 

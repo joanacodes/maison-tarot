@@ -51,7 +51,7 @@ La gratuité a ses propres pièges. Un tirage gratuit est souvent le premier cou
 
 Le gratuit peut aussi épuiser la personne qui lit, à force de tirer les cartes pendant des heures pour des gens qui ne pensent pas à lui demander comment elle va.
 
-Je vais être honnête : mes événements sont gratuits et rien n’y est vendu, mais c’est aussi là qu’on me rencontre avant de s’inscrire à un atelier. J’en parle une fois, à la fin de la soirée. Le gratuit, chez Maison Tarot, fait donc partie d’une activité — qui ne vend pas de tirages.
+Et je vais être honnête sur mes propres événements. Les tirages y sont gratuits, mais ils sont aussi une façon de me rencontrer avant de s’inscrire à un atelier, et je parle des ateliers exactement une fois, à la fin. Un tirage gratuit chez Maison Tarot fait donc bien partie d’une activité commerciale, mais d’une activité qui ne vend pas de tirages.
 
 Je peux me le permettre parce que les cours me font vivre. Tout le monde n’a pas cette possibilité, et juger quelqu’un qui ne l’a pas serait injuste.
 
@@ -74,4 +74,4 @@ Si vous préférez payer quelqu’un — et beaucoup de bons tarologues font pay
 5. La séance se termine sans suspense.
 6. Personne ne vous annonce que vous avez « quelque chose sur vous » que lui seul peut retirer.
 
-Si vous voulez voir à quoi ressemble un tirage quand rien n’est à vendre derrière, [venez à un événement gratuit](/fr/evenements/). Ne me dites rien, et comptez mes ratés avec moi.
+Si vous voulez voir à quoi ressemble un tirage quand rien n’est à vendre derrière, [venez à un événement gratuit](/fr/evenements/). Les personnes que j’y lis ne me disent rien avant que je commence, et vous pourrez compter mes ratés avec moi.

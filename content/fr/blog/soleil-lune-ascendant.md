@@ -41,15 +41,17 @@ Deux personnes peuvent avoir le même signe solaire et avoir besoin de chambres 
 
 ## L’ascendant : l’extérieur de la maison {#ascendant}
 
-L’ascendant, c’est la façade : ce qu’on voit de vous depuis la rue, avant de vous connaître. La première impression, votre style, votre façon d’entrer dans une pièce. Dans le thème, il ouvre aussi la maison I, d’où l’importance de l’heure exacte.
+L’ascendant, c’est la façade : ce qu’on voit de vous depuis la rue, avant de vous connaître. La première impression, votre style, votre façon d’entrer dans une pièce.
 
 Disons que quelqu’un a l’ascendant Lion. On le remarque quand il entre, quoi qu’il se passe dans les pièces derrière. Avec un ascendant Vierge, la première impression est plutôt soignée et attentive.
 
-Dans mon test, l’ascendant a tenu environ une fois sur trois, comme le Soleil : utile, jamais suffisant pour résumer quelqu’un. Pour aller plus loin : [quel est mon ascendant, et est-ce que ça compte](/fr/blog/quel-est-mon-ascendant/).
+Comment trouver le vôtre, et s’il mérite toute l’attention qu’on lui porte : c’est une question à part entière, à laquelle je réponds dans [quel est mon ascendant, et est-ce que ça compte](/fr/blog/quel-est-mon-ascendant/).
 
 ## Vous n’êtes pas qu’un signe {#ensemble}
 
 Assemblons les trois. Soleil en Capricorne, Lune en Cancer, ascendant Lion : une maison solide, une chambre chaleureuse, une façade éclatante. Les gens rencontrent le Lion, vivent à côté du Capricorne, et seuls ceux qu’on laisse entrer dans la chambre rencontrent le Cancer.
+
+Une façon de tenir les trois à la fois : donner à chacun son verbe. Dans mes notes, chaque signe a le sien : Capricorne « j’utilise », Cancer « je ressens », Lion « je veux ». La même personne peut alors se dire : « On me voit arriver avec “je veux”, tout chez moi s’organise autour de “j’utilise”, et porte fermée, c’est “je ressens”. » Essayez la phrase avec vos trois signes. Si une partie ressemble à quelqu’un d’autre, c’est une case barrée, pas un échec.
 
 Voilà pourquoi « je suis Scorpion » dit si peu de choses, et pourquoi « je ne sors pas avec les Scorpions » juge une maison entière sur son adresse. Vous êtes un mélange de tout, et un thème va bien au-delà de trois positions. C’est aussi pour ça que [l’astrologie n’est pas une excuse](/fr/blog/lastrologie-nest-pas-une-excuse/) : une description n’est pas une autorisation.
 

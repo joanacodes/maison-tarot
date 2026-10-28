@@ -13,7 +13,7 @@ summary: "Quand j’ai testé mon thème astral position par position, coche ou 
 ---
 Quand j’ai testé mon thème astral case par case, la plupart des positions tenaient 30 à 40 % du temps. Trois tenaient bien plus souvent — 75 à 90 %, pour moi puis pour les autres : Saturne, Lilith et Chiron. Toutes les trois décrivent une difficulté : la leçon la plus dure, ce qu’on a appris à cacher, la blessure autour de laquelle on tourne.
 
-Chacune a sa page dans la Bibliothèque ; celle-ci les pose côte à côte, avec ce que veut dire « tenir » et comment vérifier les vôtres. Au tarot, je les lis avec trois cartes : le Monde pour Saturne, le Diable pour Lilith, l’Ermite pour Chiron.
+Chacune a sa page dans la Bibliothèque ; celle-ci les pose côte à côte, avec ce qu’est chacune, simplement, ce que veut dire « tenir » et comment vérifier les vôtres. Au tarot, je les lis avec trois cartes : le Monde pour Saturne, le Diable pour Lilith, l’Ermite pour Chiron.
 
 {{< cards "ar21 ar15 ar09" >}}
 
@@ -29,33 +29,29 @@ Puis pareil pour ma famille, mes amis et des inconnus, avec leur accord et sans 
 
 ## Saturne : la leçon qui prend des années {#saturne}
 
-Saturne est la planète de la structure, de la responsabilité et des limites. Dans un thème, elle montre là où il a fallu faire vos preuves, là où ce que vous vouliez est arrivé en retard — et là où, avec le temps, quelque chose est devenu solide précisément parce que c’était difficile.
+Saturne, c’est la structure, la responsabilité et les limites : dans un thème, la leçon la plus dure, et l’endroit où l’on devient solide, lentement, parce que c’était difficile. [La page de Saturne dans la Bibliothèque](/fr/bibliotheque/astrologie/saturne/) donne la définition complète et les cartes qui le portent.
 
-Elle est lente : environ 29 ans pour faire le tour du zodiaque, deux ans et demi par signe. Des personnes nées à un an d’écart ont donc souvent le même signe de Saturne ; c’est la maison, liée à l’heure de naissance, qui le rend vôtre. Prenons quelqu’un avec Saturne en maison X, celle de la carrière et de la vie publique. Un astrologue y lirait une carrière lente à démarrer, devenue ce que la personne a de plus solide.
+Il est lent : environ 29 ans pour faire le tour du zodiaque, deux ans et demi par signe. Des personnes nées à un an d’écart ont donc souvent le même signe de Saturne ; c’est la maison, liée à l’heure de naissance, qui le rend vôtre. Prenons quelqu’un avec Saturne en maison X, celle de la carrière et de la vie publique. Un astrologue y lirait une carrière lente à démarrer, devenue ce que la personne a de plus solide.
 
-Pourquoi Saturne dit-il vrai quand le Soleil ne le fait pas ? Le Soleil, c’est la vitrine : ce qu’on montre volontiers, et la position la plus facile à flatter. Saturne décrit ce qui vous a coûté quelque chose, et on se souvient de ce qui nous a coûté avec des mots précis. C’est mon hypothèse, pas une explication. Voir [la page de Saturne](/fr/bibliotheque/astrologie/saturne/) ; son moment le plus célèbre, vers 29 ans, a [son propre article](/fr/blog/retour-de-saturne/).
+Pourquoi Saturne dit-il vrai quand le Soleil ne le fait pas ? Dans mon test, le Soleil obtenait environ un tiers, comme les autres positions que tout le monde lit en premier. Le Soleil, c’est la vitrine : ce qu’on montre volontiers, et la position la plus facile à flatter. Saturne décrit ce qui vous a coûté quelque chose, et on se souvient de ce qui nous a coûté avec des mots précis. C’est mon hypothèse, pas une explication. Son moment le plus célèbre, vers 29 ans, a [son propre article](/fr/blog/retour-de-saturne/).
 
 ## Lilith : ce qu’on a appris à cacher {#lilith}
 
-Lilith — la Lune noire, en astrologie moderne — n’est pas une planète. C’est un point calculé : l’apogée de l’orbite lunaire, l’endroit où la Lune est le plus loin de la Terre. Dans un thème, elle montre ce qu’on a appris à cacher : le désir qu’on n’avoue pas, la colère qu’on a rangée, la part de soi qu’on a laissée dehors pour être accepté.
+Lilith, la Lune noire de l’astrologie moderne, n’est pas une planète mais un point calculé sur l’orbite de la Lune : l’endroit où la Lune est le plus loin de la Terre. Dans un thème, elle montre ce qu’on a appris à cacher pour être accepté. [La page de Lilith dans la Bibliothèque](/fr/bibliotheque/astrologie/lilith/) la détaille, et dit pourquoi je la lis avec le Diable, dont les chaînes sont assez lâches pour qu’on les retire.
 
-Des trois, c’est la position que les gens reconnaissent et ne disent jamais à voix haute. Dans mon test, c’était souvent la coche la plus difficile à donner, parce que la personne le savait sans l’avoir jamais entendu dire.
-
-Arrivée en astrologie après les correspondances de la Golden Dawn, elle n’a pas de carte traditionnelle. Je la lis avec le Diable : les chaînes au cou des deux personnages sont assez lâches pour qu’on les retire. Ce qui a été enchaîné peut être détaché, à condition de le regarder. Voir [la page de Lilith](/fr/bibliotheque/astrologie/lilith/).
+Prenons quelqu’un dont la Lilith se trouve en maison VII, celle des partenaires. Un astrologue y lirait une part de soi que la personne a appris à laisser hors de ses relations : une colère, par exemple, ou le fait de vouloir plus que ce qu’elle demande. Des trois, c’est la position que les gens reconnaissent et ne disent jamais à voix haute.
 
 **Parce qu’elle touche à ce que quelqu’un a choisi de cacher, je lis Lilith avec précaution : on frappe avant d’entrer.** La lire dans le thème de quelqu’un d’autre à son insu, c’est ouvrir une porte fermée exprès, et [regarder un thème sans permission](/fr/blog/theme-astral-sans-permission/) a son propre article.
 
 ## Chiron : la blessure autour de laquelle on tourne {#chiron}
 
-Chiron est un petit corps qui tourne entre Saturne et Uranus, découvert en 1977 et nommé d’après le centaure grec qui soignait chez les autres une blessure qu’il ne pouvait soigner en lui-même. Dans un thème, il dit exactement cela : la blessure à laquelle on revient sans cesse, et ce qu’elle vous rend capable d’apporter aux autres.
+Chiron est un petit corps entre Saturne et Uranus, nommé d’après le centaure de la mythologie grecque qui soignait chez les autres une blessure qu’il ne pouvait soigner en lui-même. Dans un thème, il montre la blessure à laquelle on revient sans cesse, et ce qu’elle vous rend capable d’apporter aux autres. [La page de Chiron dans la Bibliothèque](/fr/bibliotheque/astrologie/chiron/) dit le reste, et notamment pourquoi je le lis avec l’Ermite, qui fait une lanterne de sa propre nuit.
 
 Prenons quelqu’un avec Chiron en maison III, celle de la parole et de la fratrie. Un astrologue y lirait une blessure autour du fait d’être entendu — et, souvent, une personne qui devient l’amie qu’on appelle quand on a besoin de parler. La blessure et le savoir-faire sont au même endroit.
 
-Je lis Chiron avec l’Ermite : il ne se débarrasse pas de sa nuit ; il en fait une lanterne et éclaire le chemin des autres. Voir [la page de Chiron](/fr/bibliotheque/astrologie/chiron/).
-
 ## Pourquoi ces trois-là, et ce que je ne prétends pas {#ce-que-je-ne-pretends-pas}
 
-Les trois décrivent une difficulté, et on connaît peut-être mieux ses difficultés que ses qualités. Autre hypothèse. C’est aussi un avertissement : une phrase dure peut sembler vraie parce qu’elle est dure, alors j’ai été plus sévère avec les coches sur ces trois-là.
+Les trois décrivent une difficulté, et on connaît peut-être mieux ses difficultés que ses qualités. Autre hypothèse. C’est aussi un avertissement : une phrase dure peut sembler vraie parce qu’elle est dure. J’ai vérifié ces trois-là plus que le reste, parce que je ne voulais pas que le résultat soit vrai.
 
 Même cadre que toujours : un comptage manuel, par moi, surtout sur des gens que je connaissais. Pas une étude. Un carnet.
 

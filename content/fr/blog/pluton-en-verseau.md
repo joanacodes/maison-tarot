@@ -47,7 +47,7 @@ Disons que le Verseau tombe dans votre maison X, celle du travail et de la vie p
 
 Si vous préférez tester plutôt que croire, repérez cette maison dans votre thème, écrivez une ligne sur ce secteur de votre vie tel qu’il est aujourd’hui, datez-la, et rangez-la là où vous la retrouverez dans cinq ans. C’est la seule vérification qu’un transit aussi long permette.
 
-Soyons honnêtes sur la limite. Pluton est difficile à tester, et il ne faisait pas partie des positions qui tenaient bien quand j’ai vérifié des thèmes case par case ; je le soupçonne d’être trop grand pour une seule vie. Et quoi qu’il décrive, il ne décide pas à votre place. Si quelqu’un vous dit que Pluton explique pourquoi tout s’écroule ce mois-ci, il tasse vingt ans dans un gros titre — et si vous vous surprenez à dire « c’est mon Pluton », lisez [quand l’astrologie devient une excuse](/fr/blog/lastrologie-nest-pas-une-excuse/).
+Je serai honnête sur la limite. Ce transit n’a jamais fait partie de mon test : j’ai vérifié des thèmes de naissance case par case, pas des transits. Même comme position de naissance, Pluton n’était pas de celles qui tenaient bien ; partagé par tous ceux qui naissent sur une même vingtaine d’années, il est peut-être trop grand pour une seule vie. Et quoi qu’il décrive, il ne décide pas à votre place. Si quelqu’un vous dit que Pluton explique pourquoi tout s’écroule ce mois-ci, il tasse vingt ans dans un gros titre — et si vous vous surprenez à dire « c’est mon Pluton », lisez [quand l’astrologie devient une excuse](/fr/blog/lastrologie-nest-pas-une-excuse/).
 
 ## Pluton en Verseau dans les cartes {#dans-les-cartes}
 

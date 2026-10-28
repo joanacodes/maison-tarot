@@ -63,10 +63,10 @@ Et l’intention qui pourrait en sortir : « Deux soirs par semaine dessus jusqu
 
 Ni bougie, ni cristal, ni bain, ni heure précise. En 2021, j’ai vendu de la sauge et des bougies ; rien de tout ça n’a amélioré une lecture, et j’ai arrêté. Je raconte pourquoi dans [faut-il purifier son jeu de tarot ?](/fr/blog/purifier-son-jeu-de-tarot/) Si allumer une bougie vous aide à vous poser, c’est votre choix. Le tirage fonctionne pareil sans.
 
-Pas besoin non plus de la minute exacte de la nouvelle lune. La veille ou le lendemain vous donnent les mêmes trois cartes à regarder ; la date est un rappel, pas une échéance.
+Pas besoin non plus de la minute exacte de la nouvelle lune. La veille ou le lendemain conviennent tout aussi bien ; la date est un rappel, pas une échéance. Et rien ne vous oblige à le faire chaque mois. Si un mois passe sans, vous n’avez rien perdu.
 
 ## Deux semaines plus tard {#deux-semaines-plus-tard}
 
-Le tirage a une deuxième moitié. À la pleine lune, rouvrez votre carnet à la page de l’intention, et cochez ou barrez : l’avez-vous fait ? Pas « est-ce que ça a marché » — l’avez-vous fait. C’est cette vérification qui transforme un rituel en quelque chose qui vous apprend sur vous, et c’est à ça que sert le [tirage de pleine lune](/fr/blog/tirage-pleine-lune/).
+Le tirage a une deuxième moitié. À la pleine lune, rouvrez votre carnet à la page de l’intention, et cochez ou barrez : l’avez-vous fait ? Pas « est-ce que ça a marché » — l’avez-vous fait. C’est cette vérification qui transforme un rituel en quelque chose qui vous apprend sur vous. Si vous voulez aussi des cartes ce soir-là, le [tirage de pleine lune](/fr/blog/tirage-pleine-lune/) prend le relais là où celui-ci s’arrête.
 
 Si vous voulez apprendre à lire trois cartes avec des clés de lecture plutôt qu’avec un livre de significations, le [parcours pour apprendre le tarot](/fr/apprendre-le-tarot/) commence exactement par là.

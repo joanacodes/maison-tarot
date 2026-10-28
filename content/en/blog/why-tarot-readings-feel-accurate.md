@@ -41,7 +41,7 @@ A worked example, from my notebook. Sentence one: "there's a decision you've bee
 
 ## And then there's the rest {#the-rest}
 
-Switch off all three — apply the neighbour test, count, keep the silence — and something is left. Not "you're going through a transition" but "you turned down a job in April and you're still angry that you were right to". Specific, unprompted, confirmed. It doesn't happen every time; it happens at a rate I can state, with misses I name. I don't know why. [I've written about the theories](/blog/how-does-tarot-work/), and none of them fully covers it.
+Switch off the three on the sitter’s side — apply the neighbour test, count, keep the silence — and something is left. Not "you're going through a transition" but "you turned down a job in April and you're still angry that you were right to". Specific, unprompted, confirmed. It doesn't happen every time; it happens at a rate I can state, with misses I name. I don't know why. [I've written about the theories](/blog/how-does-tarot-work/), and none of them fully covers it.
 
 ## How to test your own readings {#test-your-own}
 

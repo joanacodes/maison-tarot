@@ -53,7 +53,7 @@ Si une décision vous pèse, votre tradition a l’istikhâra, et un imam en qui
 
 ## Le respect, dans les deux sens {#respect}
 
-Mon père prie dans un temple bouddhiste. J’ai grandi entre deux façons de prendre l’invisible au sérieux, et je n’ai jamais eu à mépriser l’une pour garder l’autre. C’est ce que j’essaie de tenir ici.
+Mon père prie dans son temple bouddhiste ; moi, je tire les cartes. Je n’ai jamais eu à mépriser sa façon de prendre l’invisible au sérieux pour garder la mienne, et c’est ce que j’essaie de tenir ici.
 
 Je ne demande à personne sa religion avant une lecture. Je demande seulement si la personne veut être lue, et une hésitation compte comme un non. Si vous lisez pour d’autres, faites de même : ne devinez la foi de personne à son prénom ou à son allure, et demandez à chaque fois. Lors des [événements gratuits](/fr/evenements/), les personnes lues sont tirées au sort, et je demande toujours avant de commencer ; personne n’a à se justifier de dire non.
 

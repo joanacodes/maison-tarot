@@ -25,7 +25,7 @@ Trois raisons, d’après ce que j’ai vu.
 
 **Les images.** La Mort, le Diable, la Tour, le Pendu. Un jeu dessiné en 1909 avec l’imagerie de son époque ressemble, pour quelqu’un qui ne l’a jamais ouvert, à un catalogue de mauvaises nouvelles. Lisez la [page de la carte de la Mort](/fr/bibliotheque/cartes-tarot/la-mort/) : vous y trouverez un cheval blanc et un lever de soleil.
 
-**Les lecteurs.** Certaines personnes qui tirent les cartes vendent aussi des malédictions, des esprits et de la peur, et font payer pour les enlever. Ce n’est pas du tarot ; c’est une arnaque qui a mis le manteau du tarot. [Je refuse tout ça](/fr/avertissements/#refus), et j’écrirai comment le repérer.
+**Les lecteurs.** Certaines personnes qui tirent les cartes vendent aussi des malédictions, des esprits et de la peur, et font payer pour les enlever. Ce n’est pas du tarot ; c’est une arnaque qui a mis le manteau du tarot. [Je refuse tout ça](/fr/avertissements/#refus), et j’ai écrit [comment le repérer](/fr/blog/arnaque-voyance/).
 
 **La projection.** Le tarot est un écran. Ce qu’on y voit, c’est en grande partie ce qu’on y apporte. Le tarot n’est maléfique que pour ceux qui voient le mal partout — et pour eux, tout le reste l’est aussi.
 

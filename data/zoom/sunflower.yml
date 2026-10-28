@@ -4,10 +4,10 @@
   en: "Sunflowers over the grey wall, beside the child’s head"
   fr: "Les tournesols au-dessus du mur gris, près de la tête de l’enfant"
 - card: waqu
-  box: [0.62, 0.235, 0.88, 0.50]
+  box: [0.62, 0.235, 0.88, 0.545]
   en: "The sunflower the Queen holds in her left hand"
   fr: "Le tournesol que la Reine tient dans sa main gauche"
 - card: waqu
-  box: [0.22, 0.15, 0.72, 0.30]
-  en: "Carved sunflowers on the throne, on either side of her head"
-  fr: "Les tournesols sculptés sur le trône, de part et d’autre de sa tête"
+  box: [0.225, 0.125, 0.715, 0.32]
+  en: "Sunflowers on the back of the throne, on either side of her head"
+  fr: "Les tournesols du dossier, de part et d’autre de sa tête"

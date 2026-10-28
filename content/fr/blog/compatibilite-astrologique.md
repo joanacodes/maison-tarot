@@ -32,7 +32,7 @@ La version complète s’appelle la synastrie : on pose deux thèmes natals enti
 
 Si vous comparez deux thèmes, commencez par les positions qui décrivent comment quelqu’un vit avec une autre personne, pas comment il paraît de l’extérieur.
 
-Dans mon image du thème comme une maison, le Soleil est l’intérieur, l’ascendant l’extérieur, et la Lune votre propre chambre. Elle dit ce dont chacun a besoin pour se sentir en sécurité. Vénus dit comment chacun montre son amour. Mars dit comment chacun désire, et comment il se bat.
+Dans mon image du thème comme une maison, la Lune est [votre propre chambre](/fr/blog/soleil-lune-ascendant/) : elle dit ce dont chacun a besoin pour se sentir en sécurité. Vénus dit comment chacun montre son amour. Mars dit comment chacun désire, et comment il se bat.
 
 Puis Saturne, Lilith et Chiron. Quand j’ai testé des thèmes case par case, ces trois-là tenaient de 75 à 90 % du temps, loin au-dessus des 30 à 40 % du reste. Ils décrivent la leçon la plus dure de chacun, la blessure autour de laquelle il tourne et ce qu’on lui a appris à cacher — c’est là que je chercherais d’abord ce sur quoi deux personnes risquent de buter. Mon test a été fait un thème à la fois, cela dit : il ne dit rien des couples, et je n’ai aucun chiffre sur la compatibilité. [Le test complet, et comment je l’ai mené](/fr/blog/j-ai-teste-mon-theme-astral/), a son propre article.
 

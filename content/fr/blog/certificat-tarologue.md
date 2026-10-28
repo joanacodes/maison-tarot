@@ -1,6 +1,6 @@
 ---
 title: "Formations, certificats, lignées : ce qu’ils prouvent, et ce qu’ils ne prouvent pas"
-description: "Ce qu’un certificat de tarologue ou une lignée d’enseignants prouve — une formation suivie, des heures de pratique — et ce qu’il ne prouve pas. Cinq questions à poser."
+description: "Ce qu’un certificat de tarologue ou une lignée prouve — une formation suivie, des heures de pratique — et ce qu’il ne prouve pas. Cinq questions à poser à un professeur."
 translationKey: "post-tarot-certificates"
 type: blog
 date: 2026-10-24
@@ -9,7 +9,7 @@ tags: ["certificat tarologue", "formation tarot", "diplôme de tarologue", "form
 image: "covers/tarot-certificates.jpg"
 imageAlt: "Un certificat vierge encadré, appuyé contre un mur sur un bureau, à côté d’un jeu de tarot fermé et d’un carnet ouvert."
 imagePrompt: "A blank framed certificate leaning against a wall on a wooden desk, next to a closed tarot deck and an open handwritten notebook. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Un certificat de tarot prouve qu’une personne a suivi une formation, parfois qu’elle a pratiqué un certain nombre d’heures ou de tirages sous supervision, ou réussi l’examen de l’école. Une lignée dit qui l’a formée, et par qui. Aucun des deux ne prouve qu’un tarologue lit juste ni qu’il est honnête : aucun certificat ne compte les ratés après la formation, et aucun arbre généalogique d’enseignants ne dit comment quelqu’un traite la personne en face. En France, il n’existe pas de diplôme d’État de tarologue. Demandez plutôt comment le lecteur vérifie son travail, ce qu’il refuse, et si vous pouvez le voir lire."
+summary: "Un certificat de tarot prouve qu’une personne a suivi une formation, parfois qu’elle a pratiqué un certain nombre d’heures ou de tirages sous supervision, ou réussi l’examen de l’école. Une lignée dit qui l’a formée, et par qui. Aucun des deux ne prouve qu’un tarologue lit juste ni qu’il est honnête : aucun certificat ne compte les ratés après la formation, et aucun arbre généalogique d’enseignants ne dit comment quelqu’un traite la personne en face. En France, il n’existe pas de diplôme d’État de tarologue. Demandez comment le lecteur vérifie son travail, ce qu’il refuse, et si vous pouvez le voir lire."
 ---
 Un certificat de tarot prouve qu’une personne a suivi une formation, et parfois qu’elle a pratiqué un certain nombre d’heures. Une lignée dit qui l’a formée. Ni l’un ni l’autre ne prouve qu’elle lit juste ou qu’elle travaille honnêtement ; cela se vérifie autrement, et assez vite.
 
@@ -47,7 +47,7 @@ Voilà ce que transmet une lignée : une langue, des correspondances, une métho
 
 Parfois, la lignée est présentée comme une garantie : mon professeur a été formé par quelqu’un qui avait été formé par un grand nom. L’histoire peut être vraie et belle. Elle répond pourtant à une autre question que la vôtre, qui est de savoir si ce lecteur prendra soin de vous.
 
-## Cinq questions à poser à un professeur {#questions}
+## Cinq questions à poser à un professeur, certificat ou pas {#questions}
 
 1. Comment vérifiez-vous vos lectures ? Comptez-vous vos ratés, et dans quelle proportion ratez-vous ?
 2. Sur quels sujets ne lisez-vous pas, et pourquoi ?
@@ -57,8 +57,8 @@ Parfois, la lignée est présentée comme une garantie : mon professeur a été 
 
 La première question compte plus que les autres. Un raté est un raté, et un professeur capable de le dire calmement, chiffres à l’appui, vous montre quelque chose qu’aucun certificat ne peut montrer.
 
-{{< todo >}}À ajouter ici : votre position sur les certificats à Maison Tarot — la FAQ de votre formation de 2024 en proposait un, et votre charte de marque dit « pas de certification ». Laquelle est d’actualité ?{{< /todo >}}
+Aucune de ces questions n’écarte un certificat, ni ne le rend indispensable. Une formation qui en délivre un peut très bien répondre aux cinq ; une formation qui n’en délivre aucun peut y répondre mal. Le certificat vous renseigne sur la formation ; les réponses, sur le professeur.
 
 ## Par où commencer {#commencer}
 
-Avant de payer une formation, regardez le professeur lire. Les [événements gratuits](/fr/evenements/) de Maison Tarot sont ouverts exactement pour cela : des lectures pour des personnes tirées au sort, qui ne me disent rien avant, pour que vous jugiez le travail plutôt que les papiers. Et si vous êtes de l’autre côté de la table, en train de construire votre propre pratique, [le faire sans devenir un gourou](/fr/blog/pratique-sans-gourou/) est le complément de cette page.
+Avant de payer une formation, où qu’elle ait lieu, regardez le professeur lire. Les [événements gratuits](/fr/evenements/) de Maison Tarot sont l’un des endroits où le faire : des lectures pour des personnes tirées au sort, qui ne me disent rien avant, pour que vous voyiez une méthode à l’œuvre et que vous la jugiez par vous-même. Et si vous êtes de l’autre côté de la table, en train de construire votre propre pratique, [le faire sans devenir un gourou](/fr/blog/pratique-sans-gourou/) est le complément de cette page.

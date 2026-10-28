@@ -21,7 +21,7 @@ Every reader knows this scam, most refuse to name it, and the people who fall fo
 
 **Act three: the removal.** It can be lifted. It takes work — candles, a ritual, prayers, an object that must be bought or blessed. There's a price. It's higher than the reading, but reasonable-sounding. You pay because for the first time in months someone has offered you a cause and a cure in the same sentence.
 
-**Act four: the complication.** The ritual worked, mostly, but the curse was stronger than expected, or it's come back, or there's a second one underneath. Another session. Another price. This continues for as long as you have money. Some victims lose tens of thousands; the retired teacher in the French documentary lost her entire savings.
+**Act four: the complication.** The ritual worked, mostly, but the curse was stronger than expected, or it's come back, or there's a second one underneath. Another session. Another price. This continues for as long as you have money. Some victims lose tens of thousands; the retired teacher in the French documentary spent €44,000 over five years ([what that investigation found](/blog/psychic-phone-lines-france/)).
 
 ## Why it works {#why-it-works}
 

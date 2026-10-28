@@ -32,7 +32,7 @@ Regardez les nombres. Trois des quatre se trouvent en fin de cycle : le 9 est la
 
 Un enfant nu monte un cheval blanc sous un immense soleil à visage humain, bras grands ouverts, une bannière rouge flottant à côté de lui. Derrière, un mur gris et une rangée de tournesols. Ni selle, ni rênes, ni vêtements : une joie qui n’a rien à cacher et rien à quoi s’agripper. Le Feu sous son meilleur jour — il réchauffe, il éclaire, il met en mouvement.
 
-Son revers, c’est la même lumière tournée trop longtemps vers l’extérieur. « Pour vivre heureux, vivons cachés », dit le proverbe ; le Soleil dit l’inverse, et c’est sa force tant que ça ne devient pas une obligation. Une joie qu’il faut montrer en permanence finit par fatiguer : la bonne humeur jouée plutôt que ressentie, la célébration publiée avant que le travail soit fait. Et un 10 ferme un chapitre ; il ne le fige pas. J’ai écrit sur son versant professionnel dans [le Soleil au travail](/fr/bibliotheque/cartes-tarot/le-soleil/#au-travail), et toutes les clés sont sur [la page du Soleil](/fr/bibliotheque/cartes-tarot/le-soleil/).
+Son revers, c’est la même lumière tournée trop longtemps vers l’extérieur. « Pour vivre heureux, vivons cachés », dit le proverbe ; le Soleil dit l’inverse, et c’est sa force tant que ça ne devient pas une obligation. Une joie qu’il faut montrer en permanence finit par fatiguer : la bonne humeur jouée plutôt que ressentie, la célébration publiée avant que le travail soit fait. Et un 10 ferme un chapitre ; il ne le fige pas. Toutes les clés de lecture, et le Soleil au travail, sont sur [la page du Soleil](/fr/bibliotheque/cartes-tarot/le-soleil/).
 
 ## L’Étoile : l’espoir après une période dure {#l-etoile}
 

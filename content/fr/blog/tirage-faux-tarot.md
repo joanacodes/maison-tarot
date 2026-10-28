@@ -1,6 +1,6 @@
 ---
 title: "Pourquoi un tirage peut se tromper : la voix qui m’a donné le prénom de mon amie"
-description: "Pourquoi un tirage de tarot peut se tromper, à travers la nuit où une voix m’a donné le prénom d’une amie : le moment, l’interprétation, les ratés, et l’étagère."
+description: "Pourquoi un tirage de tarot peut se tromper, raconté à partir d’une voix qui m’a donné le prénom d’une amie : le moment, l’interprétation, les ratés, et l’étagère."
 translationKey: "post-why-a-reading-can-be-wrong"
 type: blog
 date: 2026-10-24
@@ -25,8 +25,6 @@ Deux semaines plus tard, un camion a percuté sa voiture.
 
 Elle est vivante et en bonne santé aujourd’hui. Je tiens à le dire clairement, tôt, et sans le moindre suspense, parce que c’est la phrase la plus importante de cet article.
 
-{{< todo >}}À ajouter ici (facultatif) : ce que vous voulez dire de ces deux semaines — si vous l’avez prévenue, ce que vous avez fait du message. Si vous préférez ne rien en dire, supprimez cette ligne.{{< /todo >}}
-
 ## Ce qui était juste, et ce qui était faux {#juste-et-faux}
 
 Si l’on compte les détails, beaucoup de choses sont tombées juste. Un prénom. Un accident. Un camion, deux semaines plus tard. Racontée comme ça, l’histoire ressemble à une prémonition parfaite, et les gens qui l’entendent s’arrêtent souvent là.
@@ -43,9 +41,9 @@ Quand je regarde pourquoi ça s’est trompé, je retrouve les trois mêmes chos
 
 Un message, une carte ou une impression vous montre quelque chose. Rarement le quand. Avec la voix, je n’avais aucun moyen de savoir si « un accident » voulait dire demain, l’an prochain ou jamais. Ce fut deux semaines, et je ne pouvais pas le savoir, pas plus que je ne pouvais savoir de quel accident il s’agirait.
 
-Dans les tirages de cartes, c’est sur le moment que je rate le plus. J’y ai consacré [un article entier sur le tarot et les délais](/fr/blog/tarot-quand/) pour cette raison.
+Dans les tirages de cartes, le moment est le point faible. J’y ai consacré [un article entier sur le tarot et les délais](/fr/blog/tarot-quand/) pour cette raison.
 
-Le moment joue aussi dans l’autre sens. Le tout premier tirage que j’ai fait pour une inconnue semblait complètement raté. J’ai lu une relation ; elle m’a répondu que ça ne lui parlait pas, qu’elle ne cherchait personne. Trois ou quatre jours plus tard, elle m’écrivait, secouée : tout était arrivé, y compris la partie où elle n’avait pas été très tendre avec l’autre personne. Le soir même, je l’aurais noté comme un raté. Quatre jours après, ce n’en était plus un. Toute l’histoire est dans [mon premier tirage](/fr/blog/premier-tirage-tarot/).
+Le moment joue aussi dans l’autre sens. Le tout premier tirage que j’ai fait pour une inconnue semblait complètement raté. J’ai lu une relation ; elle m’a répondu que ça ne lui parlait pas, qu’elle ne cherchait pas de relation. Trois ou quatre jours plus tard, elle m’écrivait, secouée : tout était arrivé, y compris la partie où elle n’avait pas été gentille avec l’autre personne. Le soir même, je l’aurais noté comme un raté. Quatre jours après, ce n’en était plus un. Toute l’histoire est dans [mon premier tirage](/fr/blog/premier-tirage-tarot/).
 
 Un tirage peut donc sembler faux aujourd’hui et se révéler juste vendredi. Il peut aussi se révéler « juste » vendredi d’une façon que personne n’attendait, comme la voix. Aucun des deux cas ne dit que le tirage ne servait à rien. Les deux disent de tenir le calendrier d’une main légère, et de ne pas trancher trop vite sur le sens d’un message avant qu’il ait fini d’arriver.
 

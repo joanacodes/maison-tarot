@@ -44,7 +44,7 @@ Le contournement est un bandeau qu’on se noue soi-même, en général pour de 
 
 ## Pourquoi on le fait, et pourquoi ce n’est pas un défaut {#pourquoi}
 
-Parce que ça nous protège. L’ego, tel que je le vois, n’est pas une partie méchante de vous : il essaie de donner un sens au monde et de vous protéger de son absurdité et de sa violence. Le contournement est l’un de ses boucliers. Parfois, il vous aide à traverser une semaine que vous n’auriez pas traversée autrement.
+Parce que ça nous protège. Une explication spirituelle va plus vite qu’une émotion, et elle arrive avec une impression de sens que l’émotion n’apporte pas. Le contournement est un bouclier, et il vous aide parfois à traverser une semaine que vous n’auriez pas traversée autrement.
 
 Le problème commence quand le bouclier reste levé. Le travail sur l’ombre, tel que je le définis, consiste à s’occuper de ce qu’on repousse sans cesse pour tenir au quotidien — ces mêmes choses qui finissent par vous handicaper. Ce qu’on contourne ne disparaît pas. Ça agit comme l’eau : une émotion négligée s’infiltre lentement dans les fondations, comme la moisissure ronge une maison de l’intérieur.
 

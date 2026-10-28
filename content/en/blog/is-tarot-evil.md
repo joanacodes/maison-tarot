@@ -25,7 +25,7 @@ Three reasons, in my experience.
 
 **The pictures.** Death, the Devil, the Tower, the Hanged Man. A deck drawn in 1909 with the imagery of its time looks, to someone who's never opened it, like a catalogue of bad news. Read the [Death card page](/library/tarot-cards/death/) and you'll find a white horse and a sunrise.
 
-**The readers.** Some people who read cards also sell curses, spirits and fear, and charge to remove them. That's not tarot; that's a scam wearing tarot's coat. [I refuse all of it](/disclaimers/#refusals), and I'll write about how to spot it.
+**The readers.** Some people who read cards also sell curses, spirits and fear, and charge to remove them. That's not tarot; that's a scam wearing tarot's coat. [I refuse all of it](/disclaimers/#refusals), and I wrote about [how to spot it](/blog/how-to-spot-a-fake-tarot-reader/).
 
 **The projection.** Tarot is a screen. What you see on it is largely what you bring. Tarot is only evil for people who see evil everywhere — and for them, so is everything else.
 

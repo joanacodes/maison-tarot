@@ -85,4 +85,4 @@ Quand ça ne marche pas — et à mon décompte c’est environ une fois sur dix
 
 Un jeu. Une clé de lecture. Quelqu’un qui ne vous dit rien. Un carnet. Et, avant chaque carte, la phrase qui vous garde honnête : *je vais dire n’importe quoi.* Vous saurez bien assez vite si c’était le cas.
 
-Si vous préférez essayer avec quelqu’un qui regarde, les [événements gratuits](/fr/evenements/) sont faits pour ça.
+Si vous préférez essayer avec quelqu’un qui regarde, les [événements gratuits](/fr/evenements/) sont faits pour ça. Pour votre tout premier tirage, pas à pas, voyez [le tirage de tarot pas à pas](/fr/blog/tirage-de-tarot-pas-a-pas-premier-tirage/).

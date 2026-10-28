@@ -53,7 +53,7 @@ Not everything is about spirits. This story doesn’t even have one in it. There
 
 Forcing a conclusion costs something either way. Turn it into proof, and you start building beliefs on a single moment, and waiting for the next one. Dismiss it, and you throw away something that mattered. Leaving it open isn’t indecision. It’s the most accurate thing I can say.
 
-Stories like this also grow every time they’re told: the voice gets clearer, the timing more exact, the meaning bigger. I’ve tried to tell it here as it is, with the gaps left visible. If one day I learn more, I’ll add it. Until then, the gaps are part of the story too.
+Stories like this also grow every time they’re told: the voice gets clearer, the timing more exact, the meaning bigger. I’ve tried to tell it here as it is, with the gaps left visible. If one day I understand more, I’ll add it. Until then, the gaps are part of the story too.
 
 For warnings I can’t check, I use a shelf labelled “sceptical, but if it happens, I was warned”; I explain it in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/). This wasn’t a warning, so that shelf doesn’t quite fit. If you have an experience like mine, I’d suggest a different one: things that happened, that you can’t explain, and that you don’t need to.
 
