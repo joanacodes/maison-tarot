@@ -22,7 +22,7 @@ Quatre critères ont fait la liste.
 3. *La taille.* Les petites cartes vont aux petites mains et aux sacs, les grandes aux yeux fatigués et aux lectures sur table.
 4. *La disponibilité.* Un jeu introuvable là où vous vivez n’est pas un conseil.
 
-Je n’ai pas mis d’étoiles, exprès. Un jeu qui convient à une paire de mains ne convient pas à une autre, et une note ferait semblant du contraire. À la place, pour chaque édition ci-dessous : ce qu’elle garde du jeu de 1909, et ce qu’elle change. À vous de voir laquelle convient à vos yeux et à vos mains.
+Je n’ai pas mis d’étoiles, exprès. Un jeu qui convient à une paire de mains ne convient pas à une autre, et une note ferait semblant du contraire. À la place, pour chaque édition ci-dessous : ce qu’elle garde du jeu de 1909, et ce qu’elle change. À vous de voir laquelle va à vos yeux et à vos mains.
 
 ## Les éditions du Rider-Waite-Smith {#editions-rws}
 
