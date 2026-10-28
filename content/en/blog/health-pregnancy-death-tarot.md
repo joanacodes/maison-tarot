@@ -35,7 +35,7 @@ Even the card called Death isn’t about dying.
 
 {{< cards "ar13" >}}
 
-A skeleton in black armour on a white horse, a king fallen in front of it, a child looking straight up at the rider, and a sun on the horizon between two towers. It speaks of the harvest, of clearing the ground and starting again. Reading a literal death into it is a projection, and a frightening one. The [Death card page](/library/tarot-cards/death/) goes through it gently.
+In my notes it speaks of the harvest, of clearing the ground and starting again. Reading a literal death into it is a projection, and a frightening one. The [Death card page](/library/tarot-cards/death/) goes through it gently.
 
 ## What a reading can hold: the waiting {#the-waiting}
 

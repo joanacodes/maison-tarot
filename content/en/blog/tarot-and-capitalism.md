@@ -53,7 +53,7 @@ Free has its own traps. A free reading is often the opening move of a sale: the 
 
 Free can also wear out the reader, especially the generous ones who end up reading for hours for people who don’t think to ask how they are.
 
-And I’ll be honest about my own events. They’re free and nothing is sold during them, but they’re also where people meet me before they book a workshop. I mention the workshops once, at the end of the evening. A free reading at Maison Tarot is still part of a business; it’s a business that doesn’t sell readings.
+And I’ll be honest about my own events. The readings there are free, but the events are also a way for people to meet me before booking a workshop. A free reading at Maison Tarot is still part of a business; it’s a business that doesn’t sell readings.
 
 I can afford that because lessons pay. Not every reader has that option, and judging one who doesn’t would be unfair.
 
@@ -76,4 +76,4 @@ If you’d rather pay a reader — and plenty of good readers charge — here’
 5. The session ends without a cliffhanger.
 6. Nobody tells you something is “on you” that only they can remove.
 
-If you’d like to see what a reading looks like when nothing is for sale afterwards, [come to a free event](/events/). Tell me nothing, and count my misses with me.
+If you’d like to see what a reading looks like when nothing is for sale afterwards, [come to a free event](/events/). The people I read there tell me nothing first, and you can count my misses with me.

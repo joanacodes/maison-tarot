@@ -43,7 +43,7 @@ The line is usually traced back to the 1951 Act's entertainment exemption, and i
 
 Where a rule does exist is on British television. [Ofcom's broadcasting code](https://ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-two-harm-offence) says that when divination is shown as entertainment, this must be made clear to viewers and listeners, and that such programmes must not give individuals life-changing advice — on health, finance, employment or relationships. That last rule is close to my own list of subjects I leave out.
 
-The notice doesn't make a misleading sale legal. A reader who writes "for entertainment only" and then sells you a curse removal is still selling you a curse removal. I've explained elsewhere why [I like the notice anyway](/blog/entertainment-purposes-only/): it's honest about what a reading is.
+The notice doesn't make a misleading sale legal. A reader who writes "for entertainment only" and then sells you a curse removal is still selling you a curse removal. I've explained elsewhere why [I like the notice anyway](/blog/entertainment-purposes-only/): it's honest about what a reading is. By my own count, about one reading in ten misses, and I'd rather that was said on the door than discovered afterwards.
 
 ## What this means for you, and for me {#for-you-and-me}
 

@@ -55,7 +55,7 @@ It’s very human. After an experience that felt huge, we all want it to have ma
 
 Big surrenders can frighten. In late 2020 I dreamed every night of a gentle, gigantic tsunami telling me to surrender. I didn’t; I hid in a house with others. I tell it because surrender is a big word, and it’s allowed to scare you.
 
-My rule for anything in this territory: don’t go too high too fast, or you might not find your way back home. Start crescendo.
+Nothing obliges you to go looking for the large size. The small one is enough to read a card well, and it comes back every time you sit down.
 
 I don’t read on health, and I won’t advise on substances; if you’re considering an experience like that, it’s a conversation for a doctor. And if the feeling of not being yourself turns up uninvited and stays, it isn’t a milestone to push through. That’s [a door for a professional](/disclaimers/#therapy), and there’s no shame in opening it.
 

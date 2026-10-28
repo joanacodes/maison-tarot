@@ -9,9 +9,9 @@ tags: ["spiritual awakening", "what is a spiritual awakening", "spiritual awaken
 image: "covers/spiritual-awakening.jpg"
 imageAlt: "Morning light from a half-open window falling across an unmade bed, a phone lying on the sheets"
 imagePrompt: "Morning light from a half-open window falling across an unmade bed, a phone lying on the crumpled sheets. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "A spiritual awakening, as people use the phrase, is a shift in how you see yourself and the world: ideas you took for granted stop holding, and you start paying attention to your inner life and to things you’d dismissed. It can come suddenly, after a shock, or slowly. Mine began with a pick-a-card video that made me sob, because it put words on my situation for the first time. I’ve called it my awakening, and I also find the word misused — as a rank, an excuse, a finish line. The word I use instead is plainer: a beginning."
+summary: "A spiritual awakening, as people use the phrase, is a shift in how you see yourself and the world: ideas you took for granted stop holding, and you start paying attention to your inner life and to things you’d dismissed. It can come suddenly, after a shock, or slowly. Mine began with a pick-a-card video that made me sob, because it put words on my situation for the first time. I’ve called it my awakening, and I also find the word misused — as a rank, an excuse, a finish line. For what came after, the phrase in my own notes is plainer: developing your senses."
 ---
-A spiritual awakening, in the way most people use the phrase, is a shift in how you see yourself and the world: things you took for granted stop holding, and you start paying attention to your inner life and to what you used to dismiss. I’ve used the word about myself. I also find it misused, and it makes me cringe a little. Both are true.
+A spiritual awakening, in the way most people use the phrase, is a shift in how you see yourself and the world: things you took for granted stop holding, and you start paying attention to your inner life and to what you used to dismiss. I’ve used the word about myself. I also find it misused, and it makes me cringe a little. Both are true. For what came after, my own notes use a plainer phrase: developing your senses.
 
 ## What is a spiritual awakening? {#what-is-it}
 
@@ -27,7 +27,7 @@ Lists of “signs of a spiritual awakening” are everywhere. Read them as descr
 
 Mine started with a pick-a-card video by Kloee Taylor. I watched it and sobbed. For the first time, someone had put words on my situation. The reader cried too.
 
-I call that the beginning of my awakening. I tell more of that story, and what I think pick-a-card videos can and can’t do, in [the video that made me cry](/blog/do-pick-a-card-readings-work/).
+I call that the beginning of my awakening. The Christmas after, my friends gave me my first deck, from my wishlist; I’d expected an astrology book. I started reading on 26 December 2020. I tell more of that story, and what I think pick-a-card videos can and can’t do, in [the video that made me cry](/blog/do-pick-a-card-readings-work/).
 
 What strikes me now is how ordinary the ingredients were: a recorded video, a stranger, a moment of being understood. Nothing in it made me special.
 
@@ -42,17 +42,13 @@ Because it often gets used in ways that don’t help the person using it, or the
 
 **Seeing differently doesn’t make you better than anyone; it makes you responsible for what you do with it.**
 
-It’s also why I keep a little distance from some spiritual circles: they can be ungrounded, too extreme, or carry more ego than they need, and that can make them risky for the people they practise on. I explain it in [spiritual, but not into ‘spiritual’ circles](/blog/spiritual-but-not-in-spiritual-circles/).
-
 ## The word I use instead {#the-word}
 
-When I talk about what happened to me, I say: a beginning. It’s plain, it doesn’t rank anyone, and it doesn’t pretend anything is finished.
+I still use the word for that video. For everything that came after, the phrase in my own notes is plainer: developing your senses. It names a practice rather than a status, it doesn’t rank anyone, and it doesn’t pretend anything is finished.
 
-{{< todo >}}Check: is “a beginning” (and, for what came after, “developing your senses”) the wording you’d use instead of “awakening”? Both come from your notes; change it if you use another word.{{< /todo >}}
+We were all born with our senses. You develop them by doing things that ask you to let go a little: meditating, reading, painting, any meditative art. Reading tarot, or coffee cups, or even a painting — you can read in anything. None of it is reserved for people who’ve had a dramatic moment.
 
-For what came after, I talk about developing your senses. We were all born with them. You develop them by doing things that ask you to let go a little: meditating, reading, painting, any meditative art. Reading tarot, or coffee cups, or even a painting — you can read in anything.
-
-And one piece of advice from my own notes, for anyone who feels something opening: don’t go too high too fast, or you might not find your way back home. Start crescendo.
+And one piece of advice from the same notes, for anyone who feels something opening: don’t go too high too fast, or you might not find your way back home. Start crescendo.
 
 ## If you think it’s happening to you {#if-its-you}
 

@@ -11,7 +11,7 @@ imageAlt: "A folded paper receipt beside a closed deck of cards on a bare wooden
 imagePrompt: "A folded paper receipt lying beside a closed deck of cards on a bare wooden counter, the sleeve of a coat at the edge of the frame. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Tarot itself isn’t a scam: it’s a deck of 78 pictures and a way of reading them that anyone can learn, and honest readers say plainly that nobody knows how it works. What can be a scam is the business built around some readings. The difference shows at the end. A reading finishes, names its misses and hands the decision back to you. A sales hook leaves something open, a danger, a secret, a next step, and puts a price on closing it. If a reading ends with a reason to pay again, you’ve met a hook."
 ---
-Tarot isn’t a scam. A deck is 78 pictures, and reading them is a skill anyone can learn. What can be a scam is a business built around readings: one where the reading is the advertisement and the real product comes afterwards. The two look different, especially at the end, and that’s what this article is about.
+Tarot isn’t a scam. A deck is 78 pictures, and reading them is a skill anyone can learn. What can be a scam is a business built around readings: one where the reading is the advertisement and the real product comes afterwards. The two look different, and the difference shows most clearly at the end.
 
 ## The cards aren’t the problem {#the-cards}
 
@@ -66,6 +66,6 @@ I’ll include myself here. In 2021 I sold sage, candles and “channelled” ca
 
 ## If you think you’ve been hooked {#if-hooked}
 
-Stop paying, and don’t feel foolish. These scripts work on clever people, because they’re built for the moments when someone is frightened or grieving. Keep the messages, and tell one person you trust.
+Stop paying, and don’t feel foolish. These scripts work on clever people, because they’re built for the moments when someone is frightened or grieving. Keep the messages, and tell one person you trust. If it happened on a line billed by the minute, the practical steps, from adding up the total to reporting the platform, are at the end of [what a French investigation found about psychic phone lines](/blog/psychic-phone-lines-france/).
 
 Then, if you’re still curious about tarot itself, the surest protection is learning to read it yourself: you’ll recognise a hook the moment you see one. The [learn-tarot path](/learn-tarot/) starts with one card and one lens.

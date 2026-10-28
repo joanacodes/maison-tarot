@@ -11,7 +11,7 @@ imageAlt: "Two hands resting flat on a wooden table on either side of a single f
 imagePrompt: "Two hands resting flat and still on a wooden table on either side of a single face-up tarot card, a closed notebook nearby. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Feeling nothing when you read tarot is where almost everyone starts, and it rarely means you can’t read. What comes is usually quieter than people expect: a word, an image or a hunch that sounds like your own thought, and gets thrown away while you wait for something bigger. Pressure, tiredness or a closed sitter can also silence it. Start with what you can see — the colour, the number, the element — say it out loud without trying to be right, write down the small things, and check them afterwards."
 ---
-Then you're where almost everyone starts, and it rarely means you can't read. Most people are waiting for something much louder than what actually comes. Start with what you can see, keep talking, and check afterwards.
+If you don't feel anything when you read tarot, you're where almost everyone starts, and it rarely means you can't read. Most people are waiting for something much louder than what actually comes. Start with what you can see, keep talking, and check afterwards.
 
 ## What “feeling something” actually feels like {#what-it-feels-like}
 
@@ -51,13 +51,13 @@ You can't train yourself to feel on command. You can train yourself to let go, a
 - Do something meditative: [sitting still for a few minutes](/blog/meditation-for-beginners/), painting, or looking at a painting the way you'd look at a card. You can read in anything.
 - Write down the small things — the stray word, the odd image — even when they feel like nothing. Check later whether they meant something. That's also how you learn to tell [reading from making it up](/blog/am-i-making-it-up-tarot/).
 
-Go slowly. My own note on this says: don't go too high too fast, or you might not find your way back home. Start crescendo.
+It grows with practice. In my notes from 2021, my first full year of reading, I wrote that the more I read, the more often something came before I'd even shuffled, and that I was laying the cards out mostly because the person in front of me wanted to see them.
 
 For what it's worth, every person I've helped to read managed it somewhere between the first and the third try. Not on demand, and not always in the way they expected.
 
 ## When nothing is the answer {#when-nothing-is-the-answer}
 
-Some days nothing comes, and that's information too. Tired, worried, distracted: put the cards down. After readings you can feel very tired, because interpreting takes energy. Listen to your body and rest. It isn't [your deck that's tired](/blog/do-tarot-cards-get-tired/); it's you, and that's allowed.
+Some days nothing comes, and that's information too. Tired, worried, distracted: put the cards down and rest. It isn't [your deck that's tired](/blog/do-tarot-cards-get-tired/); it's you, and that's allowed.
 
 I can't promise you'll feel what I feel. Impressions come differently to everyone, and nothing here is proven; it's my experience and what I've seen in the people I've taught. What I can say is that the feeling you're waiting for isn't the entry ticket. Saying what you see is.
 
