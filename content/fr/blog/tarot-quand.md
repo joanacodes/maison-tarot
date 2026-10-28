@@ -41,7 +41,7 @@ Parce qu’un tirage montre une maturité, pas un agenda. Une carte peut montrer
 
 Et à cause de ce qu’une date fait à la personne qui la reçoit. Imaginons qu’on vous annonce une rencontre « avant le printemps ». Vous passez l’hiver à attendre, et vous ne remarquez pas la personne qui arrive en novembre. Le printemps passe, et le tirage devient une déception, ou une raison de revenir poser la même question — la boucle que je décris dans [ce que la question « va-t-il revenir ? » vous fait](/fr/blog/va-t-il-revenir-tarot/).
 
-{{< todo >}}À ajouter ici : un raté de timing tiré de votre carnet, si vous acceptez de le raconter — ce que vous aviez dit sur le « quand », et ce qui s’est réellement passé{{< /todo >}}
+Le « quoi » et le « quand » d’un tirage sont deux affirmations distinctes, et l’une peut tenir pendant que l’autre glisse. Si vous tenez un carnet, donnez au « quand » sa propre ligne. Sinon, un tirage qui avait vu juste sur l’événement et faux sur le mois sera noté comme réussi, et vous ne verrez jamais où se concentrent vos ratés.
 
 Quand une date passe, je ne dis pas que les cartes parlaient d’un autre printemps. Un raté est un raté, il va dans le carnet, et j’ai écrit sur [ce qu’on fait quand un tirage est faux](/fr/blog/tirage-faux-que-faire/).
 

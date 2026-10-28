@@ -55,7 +55,7 @@ C’est très humain. Après une expérience immense, on voudrait tous qu’elle
 
 Les grands lâcher-prise peuvent faire peur. Fin 2020, chaque nuit, je rêvais d’un tsunami gigantesque et doux qui me disait de lâcher prise. Je ne l’ai pas fait ; je me suis cachée dans une maison avec d’autres gens. Je le raconte parce que « lâcher prise » est une grosse expression, et qu’elle a le droit de vous effrayer.
 
-Ma règle pour tout ce qui touche à ce terrain : ne montez pas trop haut trop vite, vous pourriez ne pas retrouver le chemin de la maison. Allez-y crescendo.
+Rien ne vous oblige à partir en quête de la grande taille. La petite suffit pour bien lire une carte, et elle revient chaque fois que vous vous asseyez pour lire.
 
 Je ne lis pas sur la santé, et je ne donne pas de conseils sur les substances ; si vous envisagez une expérience de ce genre, c’est une conversation à avoir avec un médecin. Et si l’impression de ne plus être vous-même arrive sans prévenir et s’installe, ce n’est pas une étape spirituelle à franchir en serrant les dents. C’est [une porte vers un professionnel](/fr/avertissements/#therapie), et il n’y a aucune honte à la pousser.
 
