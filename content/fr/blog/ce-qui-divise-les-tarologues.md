@@ -33,7 +33,7 @@ Ma position : je n’en tire pas. Une carte de plus n’éclaire pas la premièr
 
 Certains tarologues purifient un jeu neuf, ou un jeu qui leur semble lourd, avec de la fumée de sauge, la lumière de la lune, du sel ou une pierre posée dessus. Pour beaucoup, c’est une façon de marquer un début et une fin, un petit rituel qui aide à se poser avant de lire pour quelqu’un. Je le comprends. D’autres trouvent la purification inutile, ou surtout faite pour être vendue.
 
-Ma position : je ne purifie pas. En 2021, je vendais moi-même de la sauge et des bougies, et j’ai arrêté, parce que rien de tout ça n’a jamais amélioré une lecture. Quand les lectures deviennent troubles, c’est en général la personne qui lit qui a besoin de repos, pas les cartes : essayez de vous arrêter quelques jours avant d’allumer quoi que ce soit. Si un rituel vous aide à vous poser, gardez-le, comme une habitude pour vous plutôt que comme une réparation pour le jeu. Toute l’histoire est dans [faut-il purifier son jeu de tarot ?](/fr/blog/purifier-son-jeu-de-tarot/)
+Ma position : je ne purifie pas, et j’ai moi-même vendu de la sauge ; [pourquoi j’ai arrêté](/fr/blog/purifier-son-jeu-de-tarot/) a sa propre page. Quand les lectures deviennent troubles, c’est en général la personne qui lit qui a besoin de repos, pas les cartes : essayez de vous arrêter quelques jours avant d’allumer quoi que ce soit. Si un rituel vous aide à vous poser, gardez-le, comme une habitude pour vous plutôt que comme une réparation pour le jeu.
 
 ## Faire payer les lectures {#argent}
 
