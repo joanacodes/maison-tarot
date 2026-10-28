@@ -58,4 +58,4 @@ That wish deserves to be heard. If someone asks me for a spell, I hear “I’d 
 
 ## A question the cards can hold {#next-step}
 
-A reading won’t change anyone’s heart for you. What it can do is look at where you stand. Instead of “Will the spell work?”, try “What would help me feel steadier this month?” That’s the kind of question we work with at the [free events](/events/), where nothing is sold at the end.
+A reading won’t change anyone’s heart for you. What it can do is look at where you stand. Instead of “Will the spell work?”, try “What would help me feel steadier this month?” And if you’d like to see a reading that costs nothing and promises nothing, come to one of the [free events](/events/).
