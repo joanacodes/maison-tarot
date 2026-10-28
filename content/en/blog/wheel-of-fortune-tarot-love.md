@@ -29,7 +29,7 @@ The element is Fire: impulse, desire, the energy that launches things. Many turn
 
 Single, the Wheel says the season is changing. That can mean a meeting, but more often it means you’re changing: what you want, where you go, who you notice. Luck, in love, often looks like being somewhere new with your eyes open. That part is in your hands.
 
-Together, it’s a turn in the relationship: moving in, moving away, a new job that changes the rhythm of the week, children leaving home. The card doesn’t say whether the next stage is better; it says it’s different, and that you both have a hand on the wheel. A turning point lived side by side is a conversation, not a forecast.
+Together, it’s a turn in the relationship: moving in, moving away, a new job that changes the rhythm of the week, children leaving home. The card doesn’t say whether the next stage is better; it says it’s different, and that you both have a hand on the wheel. A turning point lived side by side is a conversation, not a forecast. Ten’s minus applies here too: a new stage can be short-lived. The calm after a big talk, the first months in a shared flat — enjoy them, and don’t mistake the turn for the destination.
 
 After a break-up, the Wheel can feel cruel — up yesterday, down today. It’s also the card that says nothing stays at the bottom. You don’t need to know which room comes next to start walking down the corridor.
 
@@ -59,6 +59,6 @@ A kinder question: “What’s one turn I could give the wheel this month?” A 
 
 That’s the “your part” in the title. One of the big turns in my own life, moving back to France, didn’t arrive as luck. It started with a feeling during [my first meditation](/blog/meditation-for-beginners/), and acting on it was my choice. That’s the part the card leaves to you.
 
-If the Wheel came up for you this week, write down the last three turning points in your love life and, next to each, one thing you did that helped it turn. You’ll probably find more of your own hand on the wheel than you expected.
+If the Wheel came up for you this week, write down the last three turning points in your love life and, next to each, one thing you did that helped it turn: an invitation you accepted, a conversation you started, a door you finally closed. Then add the one turn you’re resisting now. You’ll probably find more of your own hand on the wheel than you expected.
 
 If you’d like to see why I read cards this way — lenses first, and a count of what holds and what misses — [my method is laid out here](/method/).

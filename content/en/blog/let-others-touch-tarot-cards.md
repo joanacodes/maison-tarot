@@ -19,7 +19,7 @@ Yes. Cards aren’t magic, you are. The deck is a medium: it helps you let go an
 
 My own practice is the clearest example I have. Most of my readings for strangers happened online, on Discord servers and in group calls. Nobody touched my cards but me, and that didn’t stop the readings from landing. If touch were what tied a person to the cards, those readings would have had nothing to stand on.
 
-The reverse holds too. Face to face, people shuffle my deck, or ask me to; both work. **A reading comes from the reader, not from the fingerprints on the deck.**
+The reverse holds too. When someone else does shuffle the deck, face to face, the cardboard is the same cardboard afterwards, and the reading still depends on someone looking carefully at what comes out. **A reading comes from the reader, not from the fingerprints on the deck.**
 
 ## Why some readers keep their deck to themselves {#why-not}
 

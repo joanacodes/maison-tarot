@@ -28,7 +28,7 @@ The fourth question matters more than it looks. Sometimes what the person came f
 
 ## Hand the decision back {#hand-it-back}
 
-Then give the reading back to its owner. A reading can show something; it can’t make a choice, and a reader who lets it decide is carrying a responsibility that isn’t theirs. At the end, I say some version of the same thing every time: don’t act on a card; act on what you feel.
+Then give the reading back to its owner. A reading can show something; it can’t make a choice, and a reader who lets it decide is carrying a responsibility that isn’t theirs. The idea to close on is one I hold to: don’t act on a card; act on what you feel.
 
 You might put it like this: “That’s what I see. What you do with it is yours. If any of it doesn’t sit right with you, trust that over the cards.” I read; you decide.
 
