@@ -35,7 +35,7 @@ After a break-up, the Devil is often the tie that hasn’t been cut. Messages at
 
 One thing to say gently and clearly. If the attachment is to someone who frightens you, hurts you, or controls your money, your phone or who you see, that isn’t a question for a card. Talk to someone you trust, and reach out to a professional or a specialist support line where you live. The cards can hold what you feel; they can’t keep you safe, and they shouldn’t be asked to. I’ve written about [where tarot stops and other doors open](/blog/tarot-and-mental-health/).
 
-## “Does he still want me?” — and the question under it {#let-go}
+## The question under “does he still want me?” {#let-go}
 
 People bring the Devil with two questions, often in the same breath: does he still want me, and why can’t I let go? The first is about someone who isn’t in the room, so I don’t read on it — their desire is theirs to say. The second is the one worth staying with, and the card is generous with it.
 
@@ -51,7 +51,7 @@ In a couple, the slipping chain can be a good sign. The two of you notice the sc
 
 It can also be the same attachment in excess: doubling down, hiding it better, calling it a choice. “I could stop whenever I want” is the reversed Devil’s favourite sentence. The question for this position is honest and kind at once: what would you do this week if you believed the chain was loose?
 
-## Three cards that change the chain {#with-other-cards}
+## Next to Strength, and other cards that loosen the chain {#next-to-strength}
 
 {{< cards "ar08 sw08 cu02" >}}
 

@@ -21,7 +21,7 @@ Their numbers tell a story, and it helps to know its shape. From 0 to 6, the Foo
 
 That arc is a way to hold 22 cards in your head as one story rather than 22 facts. A spread never lays them out in order, so don’t read it as a timetable.
 
-**Every card has a plus and a minus, and the lenses show you both.** In my notes, Judgement is neither good nor bad, and the same is true of the Sun and of Death.
+**Every card has a plus and a minus, and the lenses show you both.** In my notes, Judgement is neither good nor bad, and Death isn’t necessarily bad either: even the darkest drawing has its plus.
 
 ## The 22 cards through their lenses {#lenses}
 
@@ -111,7 +111,7 @@ Nine is the finish line of a stage: introspection, patience, last efforts — bu
 
 He stands outside the count, or at the 10 that opens the next cycle: the corridor between two rooms. In my notes, the bundle on his stick means he can set up anywhere, free in his decisions. His minus is naivety, and the little dog at his heels is trying to remind him.
 
-### A second sort: the elements {#elements}
+### By element {#elements}
 
 The elements give you a second way to sort them. Fire has seven majors — the Emperor, Strength, the Wheel, Temperance, the Tower, the Sun and Judgement: creation and destruction, the energy that gets things moving and spreads fast when nobody masters it. Water has five — the High Priestess, the Chariot, the Hanged Man, Death and the Moon: the slow cards, where things seep in rather than strike. Air has five — the Fool, the Magician, the Lovers, Justice and the Star: decisions and words, a mind that can cut cleanly or go round in circles. Earth has five — the Empress, the Hierophant, the Hermit, the Devil and the World: matter, endurance, and stubbornness too. In my notes, not all riches are gold.
 
@@ -123,7 +123,7 @@ Not with a list of 22 to memorise. Here’s the order I’d suggest.
 
 1. Draw one major a day. Before you read anything, describe what’s on it, what you see and what you receive. It’s the exercise I give beginners: you’re reading before anyone has told you what to think.
 2. Say the four lenses out loud, then open the card’s page and check.
-3. Once a week, take one family out of the deck and lay it side by side. Say what changes from one card to the next. In ten weeks you’ve met all 22.
+3. Once a week, take one family out of the deck and lay its cards side by side. Say what changes from one card to the next. In ten weeks you’ve met all 22.
 4. When single cards feel familiar, draw three at a time, then more.
 
 If you’d rather start with cards that are already yours, your [tarot birth card](/blog/tarot-birth-card/) gives you a pair from your date of birth. And if one card frightens you, learn that one early: the cards people fear most have [a page of their own](/blog/scariest-tarot-cards/), and they’re gentler than their drawings.

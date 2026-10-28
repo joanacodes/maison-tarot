@@ -15,54 +15,50 @@ In love, the Magician is the first move — the message, the invitation, the con
 
 {{< cards "ar01" >}}
 
-## What the Magician means in love {#meaning}
+## Four tools on the table, and a 1 {#four-tools}
 
-The drawing: a young man behind a table, one hand raising a white wand to the sky, the other pointing to the ground. On the table, the four suits of the deck — wand, cup, sword, pentacle. Above his head, an infinity sign; around him, red roses and white lilies on a yellow background. Nobody else is on the card. He’s about to act, and he’s alone with it.
+In my notes, the Magician is the card of the four elements, plus the ether that links them: he knows how to do everything, and he stays anchored. In love, the four tools are four things you bring. Desire, the wand. Feeling, the cup. The words to say it, the sword. And the plain care of turning up when you said you would, the pentacle. Having all four on the table at once is rarer than it sounds.
 
-In my notes, the Magician is the card of the four elements, plus the ether that links them. He knows how to do everything, and he stays anchored. In love, the four tools are four things you bring: desire (the wand), feeling (the cup), the words to say it (the sword), and the plain care of turning up when you said you would (the pentacle). The Magician has all four on the table at once, which is rarer than it sounds.
+His number is 1: the initiator, the raw diamond. Its advice is humility — get ready to learn — and its minus is forgetting that we’re all students our whole life. With someone new, you’re a beginner again, however many relationships you’ve had.
 
-The number is [1](/library/numerology/number-1/): the initiator, the raw diamond, the start of a cycle. A first date, a first message, a first honest conversation in a long relationship. The advice of 1 is humility — get ready to learn — and that’s good advice for anyone starting with someone new.
+His energy is masculine: acting, showing yourself, saying it directly. That’s why he makes the first move instead of waiting to be chosen. One detail of the drawing matters for love: one hand raises the wand, the other points down. In my notes, the wand receives and sends. A first move is a message, and messages go both ways. [The Magician’s own page](/library/tarot-cards/the-magician/) has every other lens.
 
-The element is Air: decision, communication. The astrology is [Mercury](/library/astrology/mercury/), the messenger — the text, the voice note, the sentence you rehearse in the shower. The colours: yellow for will and self-expression, red for desire, white for an intention that’s still clean. Every lens is on [the Magician’s own page](/library/tarot-cards/the-magician/).
+## Who speaks first {#speaks-first}
 
-**In love, the Magician says you have what it takes to begin; meaning it is the part no tool does for you.**
+Single, it’s often the first move, made or about to be. The card doesn’t say whether it will be welcome. It says you have the means: the words, the nerve, the presence. Many people wait to be chosen. The Magician is the card of the one who speaks first.
 
-## The Magician in love: single, together, after a break-up {#situations}
+In a couple, it can be an initiative that renews things: you suggest, you plan, you say what you’ve been carrying for months. Or a skill you haven’t used at home for a while — making the other person laugh, listening properly, cooking for two on a weekday.
 
-*If you’re single*, it’s often the first move, made or about to be. The card doesn’t say whether it will be welcome. It says you have the means: the words, the nerve, the presence. Many people wait to be chosen. The Magician is the card of the one who speaks first.
+After a break-up, the Magician turns the tools towards you. A 1 opens a new cycle, and the first person it starts with is you: what you want now, how you’d like to be loved, what you’ll do differently next time.
 
-*If you’re together*, it can be an initiative that renews things: you suggest, you plan, you say what you’ve been carrying for months. Or a skill you haven’t used at home for a while — making the other person laugh, listening properly, cooking for two on a weekday.
+Say someone sits down, tells you nothing, and draws the Magician. A beginning, words, will in broad daylight. The sentence you might say: “There’s something you want to say to someone, and you already know how — you’re waiting for permission.” Then check it with them, and let them correct you.
 
-*After a break-up*, the Magician turns the tools towards you. A 1 opens a new cycle, and the first person it starts with is you: what you want now, how you’d like to be loved, what you’ll do differently next time.
+## Before you ask whether they feel the same {#before-you-ask}
 
-Say someone sits down, tells you nothing, and draws the Magician. Lenses before any meaning: 1, a beginning; Air, words; yellow, will in broad daylight. The sentence you might say: “There’s something you want to say to someone, and you already know how — you’re waiting for permission.” Then check it with them, and let them correct you.
+That’s the question the Magician brings: should I make the first move, and do they feel the same way? It comes from hope, and from the fear of being turned down. Both are very human.
 
-## The other side: the Magician can pretend {#pretend}
+I don’t read on what someone else feels. They aren’t in the room, their heart belongs to them, and a card that said “yes, they do” might send you in with a script instead of yourself. I’ve written about [reading tarot about someone else](/blog/reading-tarot-about-someone-else/), and why I’d rather not. Cards aren’t magic, you are — and the Magician says it more plainly than any other card: everything on his table is already yours.
+
+A kinder question: “What do I want to say, and would I mean it whatever the answer?” If the second half is a yes, you have your first move.
+
+## Charm that says all the right things {#charm}
 
 In my notes, this card’s minus is plain: trusted blindly, the Magician can lie. He can pretend. The same skill that makes a lovely first move can make a convincing performance.
 
 In love, that’s the person who says everything right on the first date, and whose actions never quite follow. It can also be you: playing a part to be liked, saying “I’m very relaxed about it” when you aren’t, promising what you can’t keep because it sounds good in the moment.
 
-Trust, but check — gently, and over time. Words are Air; a relationship needs the pentacle too. Watch what is done as well as what is said. That goes for the person charming you, and for your own charm.
+**Trust, but check — gently, and over time: watch what is done as well as what is said.** Words are Air; a relationship needs the pentacle too. That goes for the person charming you, and for your own charm.
 
-Reversed, the card leans this way. The tools go unused: the message drafted and never sent, the feeling kept in a drawer. Or they’re used for show: charm without intention, the game played for the pleasure of winning it.
+Reversed, the card leans one of two ways. The tools go unused: the message written and deleted, the feeling kept in a drawer, the date you never suggest because the timing is never quite right — a raw diamond left in its box. Or they’re used for show: charm without intention, attention gathered and never returned, the game played for the pleasure of winning it. If it’s the first, ask what the worst answer could really cost you. If it’s the second, ask who you’re performing for.
 
-## The Magician next to other cards {#combinations}
+## Where the first move leads {#where-it-leads}
 
 {{< cards "ar00 cu02 cu07" >}}
 
-Next to the Fool, it’s 0 then 1: an urge turning into a move. [The Fool in love](/blog/fool-tarot-love/) is the leap; the Magician is the gesture. Next to the Two of Cups, the first move is answered: two people, two cups, a bond starting as equals. Next to the Seven of Cups — in my notes, indecision, too many choices — the charm comes with illusions, lovely options floating in the clouds. Pick one, and look at it in daylight.
+Next to the Fool, it’s 0 then 1: an urge turning into a move. [The Fool in love](/blog/fool-tarot-love/) is the leap; the Magician is the gesture. Next to the Two of Cups, the first move is answered: two people, two cups, a bond starting as equals ([the Two of Cups in love](/blog/two-of-cups-tarot-love/)). Next to the Seven of Cups — in my notes, indecision, too many choices — the charm comes with illusions, lovely options floating in the clouds. Pick one, and look at it in daylight.
 
-## “Do they feel the same?” — and a kinder question {#question}
+## Say it out loud once {#out-loud}
 
-That’s the question the Magician brings: should I make the first move, and do they feel the same way? It comes from hope, and from the fear of being turned down. Both are very human.
+Write the first move down — the actual sentence. Read it out loud once. If it sounds like you, keep it; if it sounds like a performance, rewrite it until it doesn’t. Then decide when you’ll say it, and to whom, while the wand is still in your hand.
 
-I don’t read on what someone else feels. They aren’t in the room, their heart belongs to them, and a card that said “yes, they do” might send you in with a script instead of yourself. I read; you decide. If you have a crush, I’d leave their birth chart alone as well: let the magic happen for the two of you. I’ve written about [why I don’t look up a crush’s chart](/blog/birth-chart-without-permission/).
-
-A kinder question: “What do I want to say, and would I mean it whatever the answer?” If the second half is a yes, you have your first move.
-
-## Where to go from here {#next-step}
-
-Write the first move down — the actual sentence. Read it out loud once. If it sounds like you, keep it; if it sounds like a performance, rewrite it until it doesn’t.
-
-If you want to look at a relationship with the cards, [my love spread](/blog/love-tarot-spread/) reads you and the bond, never what the other person thinks. And if the move you’re planning is at work, there’s [the Magician in a career reading](/blog/magician-tarot-career/).
+If you’d like to learn to read the cards the way this article does — tools and lenses first, meanings after — [the learning path starts here](/learn-tarot/).

@@ -37,21 +37,23 @@ The numbers and suits are printed plainly, so the number tells you where a situa
 
 ## Which edition to buy {#which-edition}
 
-Look for the original Pamela Colman Smith drawings. Editions differ in colouring, card size and card stock, and any of them reads the same. Choose the one you can see clearly and that feels good when you shuffle. Size matters more than people expect: smaller cards are easier for small hands to shuffle, larger ones show the details to tired eyes.
+Any edition with Pamela Colman Smith's original drawings. The scenes are what you're buying; the box and the price don't change the reading. I've compared the main editions, their colouring and their card sizes in [a shortlist of decks for beginners](/blog/best-tarot-decks/), so here is only the rule that matters while you learn.
 
-Redrawn decks that keep the same scenes work too. Be aware that their colours often change, and with them one of your lenses; that's fine once you know what the original says.
+A redrawn deck that changes the scenes is no longer the deck you're learning. One that keeps the scenes but changes the colours costs you part of a lens until you know what the original says. Start with the original, and let the redraws wait.
 
-There's no need to wait for someone to give you one. [Buying your own deck brings no bad luck](/blog/do-you-have-to-be-gifted-your-first-tarot-deck/), whatever you've heard. If you'd like a few specific decks to compare, there's [a shortlist of decks for beginners](/blog/best-tarot-decks/).
+There's no need to wait for someone to give you one, either. [Buying your own deck brings no bad luck](/blog/do-you-have-to-be-gifted-your-first-tarot-deck/), whatever you've heard.
 
 ## What comes after: Marseille, Thoth, oracles {#what-comes-after}
 
 The right moment for a second deck is when you can read a stranger from a single card without opening a book, and your notebook shows it. Before that, a second deck doubles the learning without doubling the reading. And it's a pleasure, not a required step: I still read with the Rider-Waite-Smith.
 
-The Tarot de Marseille is the French tradition. Its numbered cards have no scenes, so you read them with the number and the element alone. It's the best test of whether the lenses have really sunk in, and [the two decks side by side](/blog/marseille-vs-rider-waite/) show you exactly what changes.
+Each of the others belongs to a different moment.
 
-The Thoth deck was designed by Aleister Crowley and painted by Frieda Harris. It's richly developed, realistic in its own way, and heavy with occult symbolism. I keep it on my own "to explore later" shelf. I'd keep it for the day you're curious about symbols for their own sake; [here's what changes when you switch](/blog/thoth-vs-rider-waite/).
+The Tarot de Marseille, the French tradition, is for the moment the scenes start doing too much of the work. Its numbered cards, like the Five of Cups above, have nobody in them, so the number and the element have to carry the reading alone. If they do, the lenses are yours. [The two decks side by side](/blog/marseille-vs-rider-waite/) show exactly what you lose and what you keep.
 
-Oracle decks aren't tarot: any number of cards, with meanings set by their authors. Collecting decks is a bit like collecting art, each card a picture you can read a message in, and oracles can be lovely to own. They won't teach you tarot's structure, though. [The difference is explained here](/blog/tarot-vs-oracle-cards/).
+The Thoth, designed by Aleister Crowley and painted by Frieda Harris, is for the moment you want to know why a card is built the way it is. It's richly developed, realistic in its own way, and heavy with occult symbolism; in my own notes it sits under "to explore later". [Here's what changes when you switch](/blog/thoth-vs-rider-waite/).
+
+Oracle decks have no moment, because they aren't a step on the same road. They have any number of cards, with meanings set by each author. Collecting decks is a bit like collecting art, each card a picture you can read a message in, so enjoy them whenever you like. They won't teach you tarot's structure. [The difference is explained here](/blog/tarot-vs-oracle-cards/).
 
 ## Start with one card {#start}
 

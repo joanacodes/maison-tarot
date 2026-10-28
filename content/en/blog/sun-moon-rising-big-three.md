@@ -41,15 +41,17 @@ Two people can share a Sun sign and need very different rooms. A Moon in Cancer 
 
 ## The rising sign: the outside of the house {#rising}
 
-The rising sign is the façade: what people see from the street before they know you. First impressions, your style, the way you walk into a room. In the chart it also opens the first house, which is why the exact time matters so much.
+The rising sign is the façade: what people see from the street before they know you. First impressions, your style, the way you walk into a room.
 
 Say someone has Leo rising. People notice when they come in, whatever is going on in the rooms behind. With Virgo rising, the first impression is neat and observant instead.
 
-In my test, the rising sign held about a third, like the Sun: useful, never enough to sum anyone up. There’s more in [what is my rising sign, and does it matter](/blog/what-is-my-rising-sign/).
+How to find yours, and whether it deserves the attention it gets, is a question of its own: I answer it in [what is my rising sign, and does it matter](/blog/what-is-my-rising-sign/).
 
 ## You’re not only your sign {#together}
 
 Now put the three together. Sun in Capricorn, Moon in Cancer, Leo rising: a solid house, a warm room, a bright façade. People meet the Leo, live alongside the Capricorn, and only the ones let into the room meet the Cancer.
+
+One way to hold all three at once is to give each its verb. In my notes every sign has one: Capricorn “I use”, Cancer “I feel”, Leo “I will”. So the same person reads: I come across as “I will”, I’m built around “I use”, and when the door shuts, “I feel”. Try the sentence with your own three. If one part sounds like someone else, that’s a cross, not a failure.
 
 That’s why “I’m a Scorpio” says so little, and why “I don’t date Scorpios” judges a whole house by its address. You’re a mix of everything, and the chart goes well beyond three placements. It’s also why [astrology is not an excuse](/blog/astrology-is-not-an-excuse/): a description isn’t a permission.
 

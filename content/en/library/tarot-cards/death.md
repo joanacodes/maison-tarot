@@ -1,6 +1,6 @@
 ---
 title: 'Death — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'The Death card doesn’t announce a death. What the 1909 card shows, its number 13, Water and Scorpio, and how to read the ending it does speak of, kindly.'
+description: 'The Death card doesn’t announce a death or a job loss. What the 1909 card shows, its number 13, Water and Scorpio, and the ending it speaks of, at work too.'
 translationKey: card-ar13
 type: cards
 navTitle: Death
@@ -31,6 +31,8 @@ faq:
   a: 'The ending is resisted or drags on: a situation that’s over but kept going, a change half-made. The question it asks is what you’re still holding that has already finished.'
 - q: Does the Death card mean someone will die?
   a: 'No. A card doesn’t announce a death or an illness, and I don’t read on those questions, because a wrong word can frighten someone for nothing. If you’re worried about someone’s health, a doctor is the person to see; a reading can hold the change you’re living through.'
+- q: What does Death mean for my career?
+  a: 'It doesn’t announce that you’ll lose your job: it describes a season of work coming to its end, such as a role you’ve outgrown or a way of working that no longer fits. The question it asks is what has finished its season, and what you want to grow next.'
 categories:
 - Major arcana
 tags:
@@ -79,11 +81,23 @@ If you came here worried about someone’s health, I understand; the name of the
 
 Reversed, the ending is resisted or it drags: something that’s over but kept going, the job you’ve already left in your head, a change half-made — neither the old life nor the new one.
 
-Next to [the Tower](/library/tarot-cards/the-tower/), the change is sudden; alone, Death is usually slow. Next to the [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/), the harvest is followed by a seed: something concrete starts on the cleared ground. For relationships and work, see [Death in love](/blog/death-tarot-love/) and [Death in a career reading](/blog/death-tarot-career/).
+Next to [the Tower](/library/tarot-cards/the-tower/), the change is sudden; alone, Death is usually slow. Next to the [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/), the harvest is followed by a seed: something concrete starts on the cleared ground. For relationships, see [Death in love](/blog/death-tarot-love/); work has its own section below.
 
 {{< cards "ar16 peac" >}}
 
 **Death cuts what is ripe so that the ground can be sown again.**
+
+## At work {#at-work}
+
+In a career reading, Death doesn’t announce that you’ll lose your job. It describes a season of work coming to its end: a role you’ve outgrown, a way of working that no longer fits. **Something in your work has finished, even if your contract hasn’t.** When a job is already ending — a contract reaching its term, a resignation handed in — Death describes the passage: the feelings, the clearing, the odd quiet afterwards.
+
+At work, my harvest note usually belongs to someone who isn’t fired or in crisis, but finished with what they were doing and not yet sure what grows next: retraining, far more often than redundancy.
+
+Reversed, the harvest is late: the job you’ve already left in your head and still go to every morning. In excess, it’s resigning in anger on a Monday, burning the field instead of harvesting it.
+
+“Am I going to lose my job?” is the question this card brings, and the fear behind it is real: the rent, the family, the sense of who you are. I don’t read on that. A card can’t see a company’s decisions, and a wrong word can make someone quit in a panic or freeze when they should act; money decisions stay out of my readings too ([what I don’t read on, and why](/disclaimers/#refusals)). For the concrete side, a careers adviser is the right person to see. A gentler question: “What in my work has finished its season, and what do I want to grow next?” I read; you decide.
+
+This week, write two short lists: what in your work feels ripe, and what you’d like to plant. Keep them for a month and see which one grows.
 
 ## A reading, as an example {#example}
 

@@ -1,6 +1,6 @@
 ---
 title: 'The Devil — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'The Devil tarot card read through its lenses: 15 becomes 6, Earth, black and Capricorn — attachment, appetite, and why the chains on the card are loose.'
+description: 'The Devil tarot card through its lenses: 15 becomes 6, Earth, black and Capricorn — attachment, a job that holds you, and why the chains on the card are loose.'
 translationKey: card-ar15
 type: cards
 navTitle: The Devil
@@ -31,6 +31,8 @@ faq:
   a: 'Reversed, the Devil is often the chain starting to slip: you notice what holds you and begin to loosen it. It can also be the same attachment in excess, doubled down on or better hidden. Either way the drawing doesn’t change, and the chains were never locked.'
 - q: 'Is The Devil a bad card?'
   a: 'No. Every card has a plus and a minus, and the Devil’s plus is desire, ambition and the energy to want things. Its minus is when that wanting starts to run you, and the card shows it so you can do something about it.'
+- q: 'What does The Devil mean for my career?'
+  a: 'At work, the Devil is a job that holds you more than you hold it: a salary, a title or a habit you can’t imagine giving up. It doesn’t tell you to quit; it asks which link you could loosen first.'
 categories:
 - Major arcana
 tags:
@@ -75,7 +77,19 @@ Next to [the Lovers](/library/tarot-cards/the-lovers/), the Devil asks whether a
 
 {{< cards "ar06 sw08 pe04" >}}
 
-**The Devil shows you what holds you, and that the chain was never locked.** For questions of love and work, I’ve written about [the Devil in a relationship](/blog/devil-tarot-love/) and about [a job that holds you](/blog/devil-tarot-career/).
+**The Devil shows you what holds you, and that the chain was never locked.** For questions of love, I’ve written about [the Devil in a relationship](/blog/devil-tarot-love/); a job that holds you has its own section below.
+
+## At work {#at-work}
+
+At work, the Devil is a job that holds you more than you hold it: golden handcuffs, a salary or bonus that makes leaving feel impossible; a job title that became the answer to “who are you?”; emails answered at eleven at night because stopping feels dangerous. Among my notes on Capricorn, the Devil’s sign, is Miranda Priestly from *The Devil Wears Prada*: ambition, structure, and a job that can swallow the person doing it.
+
+Say someone has stayed eight years in a job they call “fine” and draws the Devil. The card doesn’t say the job is bad; it asks what, exactly, keeps them there. Next to the Eight of Cups — in my notes, moving on from what you’re already doing — it still doesn’t say leave. It shows that leaving is possible.
+
+Reversed at work, the chain often starts to slip: the first evening you leave at six and find the building still standing the next morning. In excess, it’s working more so you never have to look.
+
+“Should I quit?” People usually ask it tired, hoping for permission to go or a good reason to stay. I understand. But whether you can afford a change is a money decision, which I don’t read on ([what I don’t read, and why](/disclaimers/#refusals)), and a card that said “leave” would become one more chain: a voice outside you, deciding, when on this card nobody holds the other end. A kinder question: “What is this job giving me that I’m afraid of losing, and where else could I find it?” A budget and an honest adviser will help with the practical side; if the hours cost you sleep or health, see a doctor first.
+
+**You don’t have to walk out to lift the chain.** This week, name yours in one word — money, status, fear — and loosen one link: one evening without email.
 
 ## A reading, as an example {#example}
 

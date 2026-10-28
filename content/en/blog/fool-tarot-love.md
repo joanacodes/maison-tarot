@@ -43,7 +43,7 @@ Next to the Lovers, the light start runs into a real choice, and the Fool has to
 
 Next to the Moon, the edge of the cliff is in fog: you’re stepping into something you can’t fully see yet, and patience is your best friend.
 
-## “Should I jump?” — and what the dog would ask {#should-i-jump}
+## Should you jump? Ask the dog first {#should-i-jump}
 
 The question I hear with this card is “Should I jump in?” or “Is this new person the one?” It’s a hopeful question, and a vulnerable one: starting something means you could lose it, and you’d like to know before you risk it.
 
@@ -51,7 +51,7 @@ The cards can’t tell you who someone else is, or whether it will last. That pe
 
 A kinder question: “What do I already know about where I’m stepping — and what is my dog trying to tell me?” Everyone has one: the friend who raises an eyebrow, the feeling in your stomach on the second date, the detail you noticed and decided not to see. Listening to it doesn’t mean not jumping. It means jumping awake, with your eyes on the ground for a second before they go back to the sky.
 
-## Reversed: frozen at the edge, or leaping blind {#reversed}
+## Frozen at the edge, or leaping blind {#reversed}
 
 Reversed, the Fool is the beginning that doesn’t start, or starts without looking at all. Held back: you’d like to meet someone, but every first step feels like a cliff, so you stay on the path and nothing happens. In excess: you leap into every new thing, and the dog has stopped barking because nobody listens any more. Same card, two speeds. It’s worth asking which one is yours this month, without judging yourself for either.
 

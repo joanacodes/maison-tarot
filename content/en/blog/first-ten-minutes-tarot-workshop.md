@@ -27,8 +27,6 @@ Very little, on purpose. You draw a card. You look at it. You say, out loud, wha
 
 The exercise comes from my own course notes, and it has three steps: describe what’s on the card, then what you see in it, then what you receive. The first is a description anyone can give. The third is the one people don’t expect to manage, and usually do.
 
-{{< todo >}}Add here: the exact words or instructions you give in the first ten minutes of a workshop.{{< /todo >}}
-
 You don’t need to know the card’s name. You don’t need to have read anything. If you already know a meaning by heart, put it aside for ten minutes; it will still be there afterwards.
 
 ## “But I don’t know anything yet” {#nothing-yet}

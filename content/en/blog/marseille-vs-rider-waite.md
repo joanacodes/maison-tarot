@@ -23,7 +23,7 @@ Its suits are Batons, Cups, Swords and Coins, and its court cards are the Valet,
 
 ## What is the Rider-Waite-Smith? {#what-is-rws}
 
-The Rider-Waite-Smith is the deck published in London in 1909 by the firm of Rider, designed under the direction of Arthur Edward Waite and drawn by [Pamela Colman Smith](/library/tarot-figures/pamela-colman-smith/). It keeps the 78-card structure and changes the minors completely: each of the 56 has a scene, with people doing something.
+The Rider-Waite-Smith is the deck published in London in 1909, drawn by Pamela Colman Smith under the direction of Arthur Edward Waite. Who the three names belong to, and how it became the standard, is [its own story](/blog/rider-waite-smith-tarot/). What matters here: it keeps the 78-card structure and changes the minors completely. Each of the 56 has a scene, with people doing something.
 
 Its suits are Wands, Cups, Swords and Pentacles. The Eight of Cups is a figure in a red cloak walking away from eight stacked cups, towards the mountains, under a moon. You understand something is being left behind before you've counted anything.
 

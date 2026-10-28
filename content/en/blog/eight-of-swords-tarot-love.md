@@ -23,7 +23,7 @@ So in love, the Eight of Swords is a relationship, or a single life, run by the 
 
 One detail of the drawing matters for love: nothing ties her feet. The castle, the puddles and Jupiter in Gemini are on [the Eight of Swords page](/library/tarot-cards/eight-of-swords/).
 
-## Where the swords stand: single, together, after a break-up {#where-the-swords-stand}
+## Where the swords stand, in or out of a relationship {#where-the-swords-stand}
 
 When you’re single, the swords are usually beliefs. “All the good ones are taken.” “I’m not someone people fall for.” “I’ll start dating when I feel ready.” Say someone draws this card after a year of turning down every invitation. The card isn’t saying nobody is out there. It says the thing standing between them and other people might be a sentence they repeat to themselves.
 
@@ -33,7 +33,7 @@ One thing I want to say carefully. If being trapped is literal — if someone co
 
 After a break-up, the Eight of Swords is the story you tell yourself about why it ended, on a loop. Or the waiting: not dating, not moving, keeping your life on hold in case they come back. Her feet are free, and the first step is hers to take.
 
-## What the neighbours say about the blindfold {#blindfold-neighbours}
+## When the blindfold has company {#blindfold-company}
 
 {{< cards "sw09 ar15 swqu" >}}
 
@@ -43,13 +43,13 @@ Next to the Devil, two cards of chains that could come off: the Devil’s hang l
 
 Next to the Queen of Swords, you see what the Eight becomes with the blindfold off: the same sword, held upright, by someone who has decided.
 
-## Reversed: the bands loosen, or the knot gets tighter {#reversed}
+## Upside down: the bands loosen, or pull tighter {#reversed}
 
 Reversed, the bands loosen. In the good direction, it’s the blindfold slipping: you catch sight of one sword, then another, and realise how many of them were thoughts. It’s often the moment someone says, “Why did I wait so long?”
 
 In excess, it becomes a new kind of prison. Planning the escape so carefully that you never leave. Or tearing everything off at once and slipping in the puddles — ending a relationship in one night without having said a single thing you needed to say.
 
-## “Will he leave her?” — and a question you can answer {#will-he-leave}
+## If you’re waiting for someone else to choose {#will-he-leave}
 
 With this card, people often ask about the other person. “Will he leave her?” “Why won’t she commit?” “Is he going to change?” It makes sense: when you feel trapped, it’s tempting to believe the key is in someone else’s pocket.
 

@@ -33,7 +33,7 @@ Here are those words and a few neighbours, defined plainly, each with an example
 
 ## Other words you’ll meet, defined elsewhere {#elsewhere}
 
-Starseed and spirit guides don’t have their own pages here, which is why they’re defined above. These words do:
+A few neighbouring words have pages of their own:
 
 - *Awakening.* What people mean by a spiritual awakening, where mine began, and the plainer word I use: [‘spiritual awakening’](/blog/spiritual-awakening/).
 - *Psychic, clairvoyant, medium, channelled guidance.* What each one promises before you pay: [guidance, clairvoyance, reading](/blog/guidance-or-clairvoyance/).

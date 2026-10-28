@@ -32,7 +32,7 @@ Look at the numbers. Three of the four sit at the end of a cycle: 9 is the finis
 
 A naked child rides a white horse under a huge sun with a face, arms wide open, a red banner streaming beside them. Behind, a grey wall and a row of sunflowers. No saddle, no reins, no clothes: joy with nothing to hide and nothing to grip. Fire at its kindest — it warms, it lights, it gets you moving.
 
-Its other side is the same light pointed outwards too long. Joy that has to be shown all the time gets tiring: the good mood performed instead of felt, the celebration posted before the work is done. And a 10 closes a chapter; it doesn’t freeze it. I’ve written about the Sun’s side at work in [the Sun in a career reading](/blog/sun-tarot-career/), and every lens is on [the Sun’s own page](/library/tarot-cards/the-sun/).
+Its other side is the same light pointed outwards too long. Joy that has to be shown all the time gets tiring: the good mood performed instead of felt, the celebration posted before the work is done. And a 10 closes a chapter; it doesn’t freeze it. Every lens, and the Sun at work, are on [the Sun’s own page](/library/tarot-cards/the-sun/).
 
 ## The Star: hope after a hard time {#the-star}
 

@@ -39,7 +39,7 @@ These cost nothing, and they work whatever path you take next.
 2. A working notebook. Many witches keep a book of shadows: a personal notebook of their practice — what they did, when, and what happened. My tarot notebook is the same idea: what I said on one side, what was confirmed on the other. Write down what didn't work too. A miss is a miss, and it teaches you more than a hit.
 3. One card a day. Tarot isn't witchcraft — I've written about [the difference between the two](/blog/is-tarot-witchcraft/) — but a single card each morning is a good way to train your attention. Describe what's on it, what you see, what you receive.
 
-If you'd like a fourth, follow the seasons. Many witches mark the Wheel of the Year, eight festivals spread through the year. The next one is Samhain, on the night of 31 October: the end of the harvest, the start of the dark half of the year, and a time to remember the dead. I've written about [Samhain and tarot](/blog/samhain-tarot/) if you want a quiet way in.
+If you'd like a fourth, follow the seasons. Many witches mark the Wheel of the Year, eight festivals spread through the year. One of them is Samhain, on the night of 31 October: the end of the harvest, the start of the dark half of the year, and a time to remember the dead. I've written about [Samhain and tarot](/blog/samhain-tarot/) if you want a quiet way in.
 
 ## Go slowly: start crescendo {#go-slowly}
 

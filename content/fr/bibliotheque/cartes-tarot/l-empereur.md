@@ -1,7 +1,7 @@
 ---
 title: 'L’Empereur (The Emperor) — tarot Rider-Waite-Smith : lire la carte par ses
   clés de lecture'
-description: 'L’Empereur au tarot : un trône de pierre, une armure cachée, le nombre 4, le Feu et le Bélier. Son autorité à l’endroit et renversé, et quand les murs enferment.'
+description: 'L’Empereur au tarot : un trône de pierre, une armure cachée, le 4, le Feu et le Bélier. Son autorité à l’endroit, renversé, au travail, et quand les murs enferment.'
 translationKey: card-ar04
 type: cards
 navTitle: L’Empereur
@@ -31,6 +31,8 @@ faq:
   a: 'La structure et l’autorité : des règles, un plan, quelqu’un qui décide et protège. Comme 4 et comme carte de Feu, c’est une force qui tient l’ensemble — et qui peut brûler quand personne ne la surveille.'
 - q: L’Empereur renversé, ça change quoi ?
   a: 'Le feu sort de l’âtre ou s’éteint : les règles tournent au contrôle, ou il n’y a plus de structure du tout. Demandez-vous si les murs protègent encore ceux qui vivent dedans.'
+- q: Que dit L’Empereur pour le travail ?
+  a: 'Au travail, l’Empereur, c’est la structure et l’autorité : un supérieur, des règles, ou le jour où c’est vous qui décidez. Il demande quelle structure vous voulez bâtir, et qui a le droit de vous dire que vous avez tort.'
 categories:
 - Arcane majeur
 tags:
@@ -69,13 +71,27 @@ Dans la tradition Golden Dawn, l’Empereur correspond au [Bélier](/fr/biblioth
 
 ## En lecture {#lecture}
 
-À l’endroit, l’Empereur dit la structure : des règles, un cadre, un plan, quelqu’un qui décide. Parfois c’est une autorité dans la vie de la personne — un patron, un parent, une institution —, parfois sa propre discipline. Je le lis d’abord pour la personne en face de moi, pas pour quelqu’un qui n’est pas dans la pièce ([pourquoi je vous lis vous, pas votre patron ni votre père](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/)). Au travail, c’est l’art de diriger, et de bien le faire ([l’Empereur au travail](/fr/blog/lempereur-tarot-travail/)).
+À l’endroit, l’Empereur dit la structure : des règles, un cadre, un plan, quelqu’un qui décide. Parfois c’est une autorité dans la vie de la personne — un patron, un parent, une institution —, parfois sa propre discipline. Je le lis d’abord pour la personne en face de moi, pas pour quelqu’un qui n’est pas dans la pièce ([pourquoi je vous lis vous, pas votre patron ni votre père](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/)). Au travail, c’est l’art de diriger, et de bien le faire : j’y reviens plus bas.
 
 Renversé, le feu sort de l’âtre ou s’éteint. Soit les règles se durcissent et l’autorité tourne au contrôle — le chef qui ne délègue rien, le parent qui décide de tout —, soit il n’y a plus de structure du tout, et rien ne tient.
 
 À côté de l’[Impératrice](/fr/bibliotheque/cartes-tarot/l-imperatrice/), c’est 3 puis 4 : ce qui pousse, puis ce qui le protège. À côté du [Deux de Bâtons](/fr/bibliotheque/cartes-tarot/deux-de-batons/) — un autre homme globe en main, qui regarde au loin du haut d’un rempart, et une carte du Bélier, elle aussi —, le royaume commence à paraître petit. À côté de la [Tour](/fr/bibliotheque/cartes-tarot/la-tour/), la structure va être mise à l’épreuve par le feu. **L’Empereur protège ce qu’il gouverne, et la lecture demande si les murs servent encore ceux qui vivent dedans.**
 
 {{< cards "ar03 wa02 ar16" >}}
+
+## Au travail {#au-travail}
+
+Au travail, l’Empereur porte plusieurs couronnes : un supérieur ou une institution au-dessus de vous ; votre propre autorité — un premier poste de manager, une entreprise que vous créez ; et la structure — les process, un plan, un budget, ces choses ennuyeuses qui protègent une équipe.
+
+Son plus, c’est la protection : des règles claires, des décisions prises, des gens qui savent où ils en sont. Son moins, c’est qu’il ne reçoit pas d’ordres — ni retour, ni doute — et le feu qui détruit : la réunion où l’on humilie quelqu’un, la décision prise sous le coup de la colère. Dans mes notes, le [Chariot](/fr/bibliotheque/cartes-tarot/le-chariot/) est le guerrier qui reçoit les ordres ; à côté de l’Empereur, qui les donne, la paire dit un chef et celui qui exécute, ou le passage d’un rôle à l’autre.
+
+Imaginons quelqu’un qui vient d’être promu à la tête de l’équipe dont il faisait partie. La carte ne dit pas s’il sera un bon chef ; elle demande quelle structure il veut bâtir. **Bien diriger commence par savoir qui a le droit de vous dire que vous avez tort.**
+
+Renversé, les règles se durcissent en contrôle — relire chaque mail, confondre respect et peur —, ou le trône reste vide et plus personne ne décide.
+
+« Qu’est-ce que mon chef pense de moi ? » Question naturelle avec cette carte : cette personne tient une part de votre vie professionnelle. Mais votre chef n’est pas dans la pièce, et ne prenez pas mes mots pour une vérité absolue non plus : testez-les, faites-en l’expérience vous-même. L’Empereur donne des ordres ; un tirage ne devrait pas. Une question plus douce : « De quoi ai-je besoin de mes supérieurs, et comment le leur demander clairement ? » Si l’inquiétude porte sur votre contrat ou la façon dont on vous traite, les RH ou un élu du CSE vous diront où vous en êtes.
+
+Cette semaine, demandez un retour à une personne et appliquez-en un point — la seule chose que l’Empereur ne fait jamais.
 
 ## Exemple de tirage {#exemple}
 

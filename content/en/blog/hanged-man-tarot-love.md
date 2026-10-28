@@ -33,9 +33,9 @@ Some people come back with the same question again and again, and the Hanged Man
 
 A kinder question is: “What am I waiting for, and what would I do with this time if the answer never came?” That one has an answer you can act on today.
 
-## Reversed: when the waiting becomes a habit {#reversed}
+## Upright again, and that’s the trouble {#reversed}
 
-Reversed, the man is the right way up — and that’s the trouble. The pause has stopped being useful.
+Reversed, the man stands the right way up, back on his feet before he has finished looking. The pause has stopped being useful.
 
 Either it goes on too long, and waiting has become a way of life: the sacrifice turned into a quiet martyrdom, “I give everything and get nothing back”, said for the third year running. Or it’s refused altogether, and you jump into the next thing to avoid sitting with this one — a new person the week after, before you’ve understood what the last one taught you.
 
@@ -49,7 +49,7 @@ If you’re together, it can be a stalemate. A move, a commitment, a conversatio
 
 After a break-up, the Hanged Man is the in-between. The relationship is over and the next thing hasn’t started. It’s tempting to fill the gap: a new person, a reunion, another reading. The card suggests letting the gap exist long enough to understand what happened, so you don’t carry it into the next relationship.
 
-## Three cards that tell you what the pause is for {#what-the-pause-is-for}
+## What the pause is for, read from the cards around it {#what-the-pause-is-for}
 
 {{< cards "ar20 cu02 cu08" >}}
 
@@ -59,7 +59,7 @@ Next to the Two of Cups, a bond that’s real but on hold: both cups are there, 
 
 Next to the Eight of Cups, the pause is preparing a departure — someone is slowly understanding that it’s time to walk away from what they built.
 
-## Something in your hands this week {#while-you-wait}
+## Give the wait less of your week {#while-you-wait}
 
 Pick one thing that is in your hands — a friendship you’ve neglected, a project, your sleep — and give it the attention you were giving to the wait. A week is enough to notice the difference. Waiting shrinks when it stops being the only thing you’re doing.
 

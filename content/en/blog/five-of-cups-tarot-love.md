@@ -41,7 +41,7 @@ A gentler question is: “What’s still standing for me, and who can I lean on 
 
 And if you notice you’re drawing cards on the same loss every evening, put the deck away for a while. Grief needs people more than it needs spreads, and a card drawn at midnight on the same question rarely tells you anything the last one didn’t.
 
-## Three cards that answer the standing cups {#standing-cups}
+## When the Star or the Eight of Cups comes next {#what-comes-next}
 
 A card never speaks alone. Three neighbours that change it in a love reading:
 
@@ -53,7 +53,7 @@ Next to the Eight of Cups, the figure walks away from cups that are still uprigh
 
 Next to the Star, water is being poured again. Hope coming back after a loss — slowly, and from your own hands. [The Star in love](/blog/star-tarot-love/) picks up where this card leaves off.
 
-## Reversed: turning round, or living in the cloak {#reversed}
+## Turning round, or keeping the cloak on {#reversed}
 
 Reversed, the same card slows down or goes too far.
 

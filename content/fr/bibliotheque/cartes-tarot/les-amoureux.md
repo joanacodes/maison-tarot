@@ -1,7 +1,7 @@
 ---
 title: 'Les Amoureux (The Lovers) — tarot Rider-Waite-Smith : lire la carte par ses
   clés de lecture'
-description: 'Les Amoureux au tarot : un ange, deux arbres, le nombre 6, l’Air et les Gémeaux. Pourquoi c’est un choix plus qu’une romance, à l’endroit et renversé, et sa limite.'
+description: 'Les Amoureux au tarot : un ange, deux arbres, le 6, l’Air et les Gémeaux. Pourquoi c’est un choix plus qu’une romance, au travail aussi, à l’endroit et renversé.'
 translationKey: card-ar06
 type: cards
 navTitle: Les Amoureux
@@ -33,6 +33,8 @@ faq:
   a: 'Le choix repoussé, ou fait pour de mauvaises raisons : rester au carrefour, ou deux personnes qui parlent sans s’entendre. Regardez ce qu’on évite.'
 - q: Que veulent dire Les Amoureux en amour ?
   a: 'Moins une promesse de romance qu’une question sur votre choix : ce que vous voulez, et si vous le choisissez librement. La carte parle de vous, pas de ce que ressent quelqu’un d’autre.'
+- q: Que disent Les Amoureux pour le travail ?
+  a: 'Au travail, les Amoureux, c’est un choix entre deux voies : deux offres, expert ou manager, salarié ou à son compte. La carte ne choisit pas pour vous ; elle montre que choisir l’une, c’est dire non à l’autre.'
 categories:
 - Arcane majeur
 tags:
@@ -71,7 +73,7 @@ Dans la tradition Golden Dawn, les Amoureux correspondent aux [Gémeaux](/fr/bib
 
 ## En lecture {#lecture}
 
-À l’endroit, les Amoureux disent : un choix, fait avec quelqu’un ou à propos de quelque chose qu’on aime. Parfois c’est une relation ; souvent c’est un carrefour — deux chemins, deux offres, deux versions de sa vie — et la carte demande de choisir les yeux ouverts. En amour, c’est [un choix plus qu’une romance](/fr/blog/les-amoureux-tarot-amour/) ; au travail, c’est choisir sa voie ([les Amoureux au travail](/fr/blog/les-amoureux-tarot-travail/)).
+À l’endroit, les Amoureux disent : un choix, fait avec quelqu’un ou à propos de quelque chose qu’on aime. Parfois c’est une relation ; souvent c’est un carrefour — deux chemins, deux offres, deux versions de sa vie — et la carte demande de choisir les yeux ouverts. En amour, c’est [un choix plus qu’une romance](/fr/blog/les-amoureux-tarot-amour/) ; au travail, c’est choisir sa voie, et j’y consacre une section plus bas.
 
 On espère souvent que cette carte dira si quelqu’un nous aime, et je comprends l’envie. Mais je lis la personne en face de moi, pas quelqu’un qui n’est pas dans la pièce : les Amoureux parlent donc de votre choix, pas des sentiments de l’autre ([tirer les cartes sur quelqu’un d’autre, et pourquoi je m’en abstiens](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/)).
 
@@ -80,6 +82,18 @@ Renversés, le choix est repoussé ou fait pour de mauvaises raisons. Soit la pe
 À côté du [Deux de Coupes](/fr/bibliotheque/cartes-tarot/deux-de-coupes/), deux personnes qui échangent leurs coupes, le lien est réciproque et le sentiment est là. À côté du [Diable](/fr/bibliotheque/cartes-tarot/le-diable/) — le même couple nu, enchaîné cette fois à un piédestal —, la question est de savoir si le lien est un choix ou une habitude ; sur cette carte-là, les chaînes sont assez lâches pour qu’on les retire. **Les Amoureux ne vous disent pas qui choisir ; ils vous montrent que vous êtes en train de choisir.**
 
 {{< cards "cu02 ar15" >}}
+
+## Au travail {#au-travail}
+
+Au travail, les Amoureux posent un choix sur la table : deux propositions d’embauche, rester expert ou devenir manager, se mettre à son compte ou rester salarié — quitter un CDI, la grande hésitation française —, s’associer ou pas. La carte lit ce choix par les valeurs plus que par les sentiments — dans mes notes, l’Air est le meilleur décideur des quatre éléments, parce qu’il voit tout à la fois — et demande quelle option vous laisse être vous-même un mardi après-midi ordinaire, avec les mails et le trajet. C’est aussi une carte d’association : un accord ne vaut que la conversation qui l’a précédé.
+
+À côté du Sept de Coupes — l’indécision, le trop-plein de choix, dans mes notes —, le problème n’est plus deux options mais sept, imaginées pour la plupart : gardez les deux qui sont réelles. **On espère souvent qu’un tirage nous épargnera le « non » ; c’est justement la carte qui montre qu’il ne le peut pas.**
+
+Renversés, c’est le choix évité : un pied dans chaque poste, une activité à côté qui n’obtient jamais de vraie décision, pendant que le temps décide pour vous.
+
+« Quel poste dois-je prendre ? » C’est la question que cette carte attire, et elle se comprend : une grosse décision, deux options honnêtes, l’envie que quelqu’un tranche. Je lis ; vous décidez. Les recruteurs ne sont pas dans la pièce, le salaire relève des décisions d’argent sur lesquelles je ne lis pas, et une carte qui choisirait pour vous vous retirerait la seule part de la décision qui vous appartient. Pour comparer le concret, un conseiller en évolution professionnelle peut vous aider. Une question plus utile : « Qu’est-ce que je choisis en choisissant celui-ci, et à quoi est-ce que je dis non ? » J’en dis plus dans [le tarot pour prendre une décision](/fr/blog/decision-tarot/).
+
+Cette semaine, tirez deux cartes, une pour chaque voie, et décrivez-les avant de décider laquelle est « la meilleure ». Écrivez une phrase pour chacune : souvent, vous aviez déjà choisi.
 
 ## Exemple de tirage {#exemple}
 

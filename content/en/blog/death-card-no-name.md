@@ -25,7 +25,7 @@ The deck itself is worth knowing before you go further, and [the history of the 
 
 Here's what history can say, and where it stops.
 
-The oldest surviving tarot cards, painted by hand for the dukes of Milan in the fifteenth century, have neither titles nor numbers on their trumps. Players knew them by sight, and [the Metropolitan Museum's essay on early tarot](https://www.metmuseum.org/perspectives/tarot-2) shows how their order could vary from one deck to another.
+The oldest surviving tarot cards, painted by hand for the dukes of Milan in the fifteenth century, have neither titles nor numbers on their trumps. Players knew them by sight, and [the Metropolitan Museum's essay on early tarot](https://www.metmuseum.org/articles/tarot-2) shows how their order could vary from one deck to another.
 
 Writing a title on every trump became a French habit, and the Marseille pattern, printed in France from the seventeenth century, carries one on each card — except XIII. Yet even that isn't a fixed rule. The oldest known deck of the Marseille type, made by Jean Noblet in Paris around 1650, does write *La Mort* on it ([a description of Noblet's deck](https://tarot-history.com/jean-noblet/)). Most of the Marseille decks that followed leave the banner empty, and that is the version that was copied and recopied.
 

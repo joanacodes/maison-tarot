@@ -65,4 +65,4 @@ Une question plus douce : « Qu’est-ce que je veux dire, et est-ce que je le p
 
 Écrivez le premier pas : la phrase exacte. Lisez-la une fois à voix haute. Si elle vous ressemble, gardez-la ; si elle sonne comme un numéro de foire, réécrivez-la jusqu’à ce que ce ne soit plus le cas.
 
-Si vous voulez regarder une relation avec les cartes, [mon tirage amour](/fr/blog/tirage-tarot-amour/) lit votre situation et le lien, jamais ce que pense l’autre. Et si le premier pas que vous préparez est professionnel, il y a [le Magicien au travail](/fr/blog/le-bateleur-tarot-travail/).
+Si vous voulez regarder une relation avec les cartes, [mon tirage amour](/fr/blog/tirage-tarot-amour/) lit votre situation et le lien, jamais ce que pense l’autre. Et si le premier pas que vous préparez est professionnel, il y a [le Magicien au travail](/fr/bibliotheque/cartes-tarot/le-magicien/#au-travail).

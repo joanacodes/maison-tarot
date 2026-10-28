@@ -23,7 +23,7 @@ The element is Fire: the drive that launches things and clears the ground. A sec
 
 One detail of the drawing matters: nobody on this card is being punished. Everyone is answering. Pluto and the colours are on [Judgement’s card page](/library/tarot-cards/judgement/).
 
-## Reversed: the call you don’t hear, or can’t stop hearing {#reversed}
+## The call unheard, or heard too loud {#reversed}
 
 Every card has a plus and a minus, and Judgement holds both evenly. Its plus is clarity: you finally see the whole story. Its minus is the verdict that never ends, where you keep judging long after there’s anything left to learn. Reversed, the card leans towards one of two extremes.
 
@@ -59,7 +59,7 @@ Next to Death, the review leads to an ending — calmly, and on purpose. The sec
 
 And next to the Two of Cups, the second look brings two people back to the same table, as equals.
 
-## Two columns, then one day {#next-step}
+## What was said, what happened {#notebook}
 
 Take a sheet of paper and draw two columns, the way I keep my reading notebook: what was said, and what happened. Fill it in for the relationship you’re reviewing, facts only. Then sit with it for a day before you act.
 

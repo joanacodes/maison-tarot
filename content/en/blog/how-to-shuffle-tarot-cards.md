@@ -19,7 +19,7 @@ The one thing your method really changes is whether reversed cards turn up.
 
 No. A deck is cardboard and ink. Cards aren’t magic, you are — and the shuffle is the small pause where that starts. While your hands are busy, your head gets a moment to step out of the conversation and let your own ideas and assumptions move aside, so that what you say next comes from the card and not from what you expected.
 
-Face to face, the person shuffles, or lets me shuffle; both work. And most of my readings for strangers were online, on Discord servers and group calls, where the person never touched my cards at all. If a reading depended on whose hands shuffled, those readings would have had nothing to hold on to.
+Face to face, the person can shuffle or the reader can; both work. And most of my readings for strangers were online, on Discord servers and group calls, where the person never touched my cards at all. If a reading depended on whose hands shuffled, those readings would have had nothing to hold on to.
 
 So you don’t need a ritual: no knocking on the deck, no cleansing between readings ([I sold sage in 2021, and nothing in it improved a reading](/blog/cleanse-tarot-deck/)). Whether you let other people shuffle your cards is a preference, not a rule — [letting others touch your deck](/blog/let-others-touch-tarot-cards/) has its own article.
 
@@ -59,7 +59,7 @@ A new deck comes out of the box with every card upright. The overhand shuffle an
 
 To get reversals, you need to turn cards around: wash them on the table, or rotate one half of the deck before you riffle. If you don’t read reversals, do the opposite — overhand or riffle, and turn back any card that comes out upside down. Neither choice is more serious than the other; it only has to be the same choice every time, so you know what an upside-down card means when you see one.
 
-If a whole spread comes out reversed, check the shuffle before anything else: the deck has probably been turned over during a cut. [Every card reversed](/blog/all-cards-reversed-tarot/) goes into what it can mean after that. As for whether to read reversals at all, [my answer, and a shortcut](/blog/reversed-tarot-cards/), is the same card slowed down or in excess.
+If a whole spread comes out reversed, check the shuffle before anything else: the deck has probably been turned over during a cut. [Every card reversed](/blog/all-cards-reversed-tarot/) goes into what it can mean after that. As for whether to read reversals at all, I give [my answer, and a shortcut](/blog/reversed-tarot-cards/), separately: a reversed card is the same card, slowed down or in excess.
 
 ## When to stop, and which card to take {#when-to-stop}
 

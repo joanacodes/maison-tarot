@@ -1,6 +1,6 @@
 ---
 title: 'The Hanged Man — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'The Hanged Man in tarot: an accepted pause, the number 12, Water and Neptune. What the 1909 card shows, and how to read it upright, reversed and in a spread.'
+description: 'The Hanged Man in tarot: an accepted pause, the number 12, Water and Neptune. What the 1909 card shows, and how to read it upright, reversed and at work.'
 translationKey: card-ar12
 type: cards
 navTitle: The Hanged Man
@@ -31,6 +31,8 @@ faq:
   a: 'The pause is suffered rather than chosen, or it has lasted too long and become an excuse. It can also be the opposite: so much agitation that nothing settles long enough to be seen differently.'
 - q: Is The Hanged Man a bad card?
   a: 'No. He hangs by one ankle, not by the neck, and his face is calm. It’s a card of pause and perspective, not of punishment.'
+- q: What does The Hanged Man mean for my career?
+  a: 'At work, the Hanged Man is a pause: a project on hold, an answer that doesn’t come, a break you chose or one you didn’t. It doesn’t say how long the wait will last; it says the time is for seeing your work from another angle.'
 categories:
 - Major arcana
 tags:
@@ -75,11 +77,23 @@ Upright, the Hanged Man is a pause that serves something: waiting you accept, sp
 
 Reversed, the pause is suffered rather than chosen, or it has gone on too long. Waiting becomes an excuse: “I’m waiting for the right moment”, three years running. Or the opposite — so much fidgeting that nothing settles long enough to be seen differently.
 
-Next to [Death](/library/tarot-cards/death/), the card that follows it, the pause is preparing an ending that needs to happen. Next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/), the difference is choice: she is bound and blindfolded and thinks she can’t move; he is bound and has accepted it. Next to the [Four of Swords](/library/tarot-cards/four-of-swords/), it’s rest, plainly. I’ve written separately about [the Hanged Man in love](/blog/hanged-man-tarot-love/) and [the Hanged Man at work](/blog/hanged-man-tarot-career/).
+Next to [Death](/library/tarot-cards/death/), the card that follows it, the pause is preparing an ending that needs to happen. Next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/), the difference is choice: she is bound and blindfolded and thinks she can’t move; he is bound and has accepted it. Next to the [Four of Swords](/library/tarot-cards/four-of-swords/), it’s rest, plainly. I’ve written separately about [the Hanged Man in love](/blog/hanged-man-tarot-love/); work has its own section below.
 
 {{< cards "ar13 sw08 sw04" >}}
 
 **The Hanged Man stops so that he can see; the pause is the work.**
+
+## At work {#at-work}
+
+At work, the Hanged Man describes a pause, and there are three kinds. The one you didn’t choose: a hiring freeze, an application with no answer, a reorganisation that has left you with very little to do — being sidelined, one of the most uncomfortable places to work from. The one you chose: a sabbatical, parental leave, a training course, the months between two jobs you decided to keep empty. And the pause inside a busy week: five things open and none of them moving, however hard you push. There, the card’s answer is the strangest: stop pushing for a moment, and look again.
+
+**The card doesn’t say how long the pause will last; it says what the time is for.**
+
+Reversed at work, the pause has stopped serving anything: the sacrifice nobody asked for, or every hour filled with tasks so you never have to look at your work from another side. Neither is a verdict.
+
+“When will things move?” is the question this card brings. Waiting at work is hard, because it puts your days, and sometimes your income, in someone else’s hands; I understand wanting a date. I don’t give one. Timing is where readings miss most ([why timing is where I miss](/blog/tarot-timing/)), and a date from a card would give you something to wait for, not something to do. I read; you decide. A kinder question: “What can I see from here that I couldn’t see while I was running?” And if being sidelined starts to feel like being pushed out, HR or a staff representative can tell you where you stand.
+
+This week, write down everything you have open at work. Pick one thing to finish and one to drop, then look at the rest upside down: what would you do with it if you were starting today?
 
 ## A reading, as an example {#example}
 

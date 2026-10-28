@@ -1,6 +1,6 @@
 ---
 title: 'The Emperor — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'The Emperor tarot card: a stone throne, hidden armour, the number 4, Fire and Aries. Read his authority upright and reversed, and see when walls stop protecting.'
+description: 'The Emperor tarot card: a stone throne, hidden armour, the number 4, Fire and Aries. His authority upright, reversed and at work, and when walls stop protecting.'
 translationKey: card-ar04
 type: cards
 navTitle: The Emperor
@@ -30,6 +30,8 @@ faq:
   a: 'Structure and authority: rules, a plan, someone who decides and protects. As a 4 and a Fire card, it’s a strength that holds things together — and that can burn when nobody watches it.'
 - q: What about The Emperor reversed?
   a: 'The fire leaves the hearth or goes out: rules turn into control, or there’s no structure left at all. Ask whether the walls still protect the people inside them.'
+- q: What does The Emperor mean for my career?
+  a: 'At work, the Emperor is structure and authority: a boss, the rules, or the day you become the one who decides. He asks what kind of structure you want to build, and who is allowed to tell you when you’re wrong.'
 categories:
 - Major arcana
 tags:
@@ -68,13 +70,27 @@ In the Golden Dawn tradition, the Emperor goes with [Aries](/library/astrology/a
 
 ## In a reading {#reading}
 
-Upright, the Emperor says structure: rules, a frame, a plan, someone who decides. Sometimes it’s an authority in the person’s life — a boss, a parent, an institution — and sometimes it’s their own discipline. I read it for the person in front of me first, not for someone who isn’t in the room ([why I read you, not your boss or your father](/blog/reading-tarot-about-someone-else/)). At work it’s leadership, and the question of leading well ([the Emperor in career](/blog/emperor-tarot-career/)).
+Upright, the Emperor says structure: rules, a frame, a plan, someone who decides. Sometimes it’s an authority in the person’s life — a boss, a parent, an institution — and sometimes it’s their own discipline. I read it for the person in front of me first, not for someone who isn’t in the room ([why I read you, not your boss or your father](/blog/reading-tarot-about-someone-else/)). At work it’s leadership, and the question of leading well, which has its own section below.
 
 Reversed, the fire leaves the hearth or goes out. Either the rules harden and authority turns into control — the manager who can’t delegate, the parent who decides everything — or there’s no structure at all, and nothing holds.
 
 Next to [the Empress](/library/tarot-cards/the-empress/), it’s 3 then 4: what grows, then what protects it. Next to the [Two of Wands](/library/tarot-cards/two-of-wands/) — another man with a globe in his hand, looking out from a castle wall, and an Aries card too — the kingdom is starting to feel small. Next to [the Tower](/library/tarot-cards/the-tower/), the structure is about to be tested by fire. **The Emperor protects what he rules, and the reading asks whether the walls still serve the people inside.**
 
 {{< cards "ar03 wa02 ar16" >}}
+
+## At work {#at-work}
+
+At work the Emperor wears several crowns: a boss or an institution above you; your own authority — a first management role, a company you found, your first hire; and structure — processes, a plan, a budget, the dull things that keep a team safe.
+
+His plus is protection: clear rules, decisions taken, people who know where they stand. His minus is that he takes no orders — no feedback, no doubt — and the fire that destroys: the meeting where someone is humiliated, the decision made in anger. In my notes the [Chariot](/library/tarot-cards/the-chariot/) is the warrior who receives orders; next to the Emperor, who gives them, the pair can be a boss and the one who carries out, or the moment you move from one role to the other.
+
+Say someone has just been promoted to lead the team they used to belong to. The card doesn’t say whether they’ll be a good boss; it asks what kind of structure they want to build. **Leading well starts with knowing who is allowed to tell you you’re wrong.**
+
+Reversed at work, the rules harden into control — checking every email, confusing respect with fear — or the throne sits empty and nobody decides anything.
+
+“What does my boss think of me?” is a natural question with this card: that person holds part of your working life. But your boss isn’t in the room, and don’t take my words as ultimate truth either: test them and experience them for yourself. The Emperor gives orders; a reading shouldn’t. A kinder question: “What do I need from the people above me, and how can I ask for it clearly?” If the worry is about your contract or how you’re being treated, HR or a staff representative can tell you where you stand.
+
+This week, ask one person for feedback and act on one piece of it — the one thing the Emperor never does.
 
 ## A reading, as an example {#example}
 

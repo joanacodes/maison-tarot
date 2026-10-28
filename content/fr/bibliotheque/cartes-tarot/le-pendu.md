@@ -1,7 +1,7 @@
 ---
 title: 'Le Pendu (The Hanged Man) — tarot Rider-Waite-Smith : lire la carte par ses
   clés de lecture'
-description: 'Le Pendu au tarot : une pause acceptée, le 12, l’Eau et Neptune. Ce que montre la carte de 1909, et comment la lire à l’endroit, renversée et à côté d’autres cartes.'
+description: 'Le Pendu au tarot : une pause acceptée, le 12, l’Eau et Neptune. Ce que montre la carte de 1909, et comment la lire à l’endroit, renversée et au travail.'
 translationKey: card-ar12
 type: cards
 navTitle: Le Pendu
@@ -32,6 +32,8 @@ faq:
   a: 'La pause est subie plutôt que choisie, ou elle a trop duré et devient une excuse. Ce peut être aussi l’inverse : tant d’agitation que rien ne se pose assez longtemps pour être vu autrement.'
 - q: Le Pendu est-il une mauvaise carte ?
   a: 'Non. Il est suspendu par une cheville, pas par le cou, et son visage est calme. C’est une carte de pause et de point de vue, pas de punition.'
+- q: Que dit Le Pendu pour le travail ?
+  a: 'Au travail, le Pendu est une pause : un projet en suspens, une réponse qui ne vient pas, une coupure choisie ou subie. Il ne dit pas combien de temps elle durera ; il dit que ce temps sert à voir votre travail sous un autre angle.'
 categories:
 - Arcane majeur
 tags:
@@ -76,11 +78,23 @@ Je m’en méfie un peu, parce que c’est le placement qu’on utilise le plus 
 
 Renversé, la pause est subie plutôt que choisie, ou elle dure trop. L’attente devient une excuse : « j’attends le bon moment », trois ans de suite. Ou l’inverse — tant d’agitation que rien ne se pose assez longtemps pour être vu autrement.
 
-À côté de la [Mort](/fr/bibliotheque/cartes-tarot/la-mort/), la carte qui le suit, la pause prépare une fin qui doit arriver. À côté du [Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/), la différence, c’est le choix : elle est ligotée, les yeux bandés, et se croit incapable de bouger ; lui est attaché et l’a accepté. À côté du [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/), c’est du repos, tout bonnement. J’ai écrit à part sur [le Pendu en amour](/fr/blog/le-pendu-tarot-amour/) et [le Pendu au travail](/fr/blog/le-pendu-tarot-travail/).
+À côté de la [Mort](/fr/bibliotheque/cartes-tarot/la-mort/), la carte qui le suit, la pause prépare une fin qui doit arriver. À côté du [Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/), la différence, c’est le choix : elle est ligotée, les yeux bandés, et se croit incapable de bouger ; lui est attaché et l’a accepté. À côté du [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/), c’est du repos, tout bonnement. J’ai écrit à part sur [le Pendu en amour](/fr/blog/le-pendu-tarot-amour/) ; le travail a sa propre section, plus bas.
 
 {{< cards "ar13 sw08 sw04" >}}
 
 **Le Pendu s’arrête pour voir ; la pause, c’est le travail.**
+
+## Au travail {#au-travail}
+
+Au travail, le Pendu décrit une pause, et il en existe trois sortes. Celle qu’on n’a pas choisie : un gel des embauches, une candidature restée sans réponse, une réorganisation qui vous a laissé presque rien à faire — la mise au placard, l’une des places les plus inconfortables d’où travailler. Celle qu’on a choisie : un congé sabbatique ou parental, une formation, des mois laissés vides exprès entre deux postes. Et la pause au milieu d’une semaine chargée : cinq dossiers ouverts, et aucun n’avance, quoi que vous fassiez. La réponse de la lame est alors la plus étrange : arrêtez de pousser un moment, et regardez à nouveau.
+
+**La lame ne dit pas combien de temps la pause durera ; elle dit à quoi sert ce temps.**
+
+Renversé, la pause ne sert plus à rien : le sacrifice que personne n’a demandé, ou chaque heure remplie de tâches pour ne jamais regarder votre travail sous un autre jour. Aucun des deux n’est un verdict.
+
+« Quand est-ce que ça va bouger ? » C’est la question qui accompagne cette lame. Attendre au travail est dur : vos journées, parfois vos revenus, sont entre les mains de quelqu’un d’autre ; je comprends qu’on veuille une date. Je n’en donne pas. C’est sur le timing que les tirages se trompent le plus ([pourquoi je me trompe surtout sur le « quand »](/fr/blog/tarot-quand/)), et une date sortie d’une carte vous donnerait quelque chose à attendre, pas quelque chose à faire. Je lis ; vous décidez. Une question plus douce : « Qu’est-ce que je vois d’ici que je ne voyais pas quand je courais ? » Et si la mise au placard ressemble à une poussée vers la sortie, les RH ou un élu du CSE peuvent vous dire où vous en êtes.
+
+Cette semaine, notez tout ce que vous avez en cours au travail. Choisissez une chose à terminer et une à abandonner, puis regardez le reste à l’envers : qu’en feriez-vous si vous commenciez aujourd’hui ?
 
 ## Exemple de tirage {#exemple}
 

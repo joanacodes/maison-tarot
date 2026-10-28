@@ -23,7 +23,7 @@ The element is Water: emotions, relationships. In my notes, a neglected emotion 
 
 My own note on this card is about the harvest, not the grave: it’s linked to starting again, to wanting to make life fertile again. The Marseille deck gives the skeleton a scythe and leaves the card unnamed ([why it’s the card with no name](/blog/death-card-no-name/)). The drawing and the other lenses are on [Death’s own page](/library/tarot-cards/death/).
 
-## “Is it over?” — what the name makes you ask {#is-it-over}
+## When the name makes you ask “is it over?” {#is-it-over}
 
 It’s the question almost everyone brings with this card, and it makes sense. You see the name, your stomach drops, and you want someone to say yes or no so the not-knowing stops.
 

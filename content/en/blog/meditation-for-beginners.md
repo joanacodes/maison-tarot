@@ -48,7 +48,7 @@ The letting go you practise sitting still is the same one I use when I read a ca
 5. If it helps, count: one on the in-breath, two on the out-breath, up to ten, then start again at one.
 6. When you notice you’ve drifted — and you will — say “thinking” in your head and go back to one. No telling yourself off.
 7. When the timer rings, stop. Don’t grade the session.
-8. Do it again tomorrow. After a week, add a minute if you want to. Start crescendo.
+8. Do it again tomorrow. After a week, add a minute if you want to.
 
 If you like a small ritual to close it, draw one card afterwards and describe what you see before you think about what it means. The [one-card pull](/blog/one-card-tarot-pull/) works well straight after a quiet two minutes.
 

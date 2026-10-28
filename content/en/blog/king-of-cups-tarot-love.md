@@ -23,13 +23,13 @@ His element is Fire of Water. The suit is Water — emotions, relationships — 
 
 His energy is masculine in my sense of the word, whoever you are: acting, deciding, showing yourself. It can describe a woman as easily as a man. The colours are on [the King of Cups page](/library/tarot-cards/king-of-cups/).
 
-## Reversed: when the calm is a lid {#lid}
+## Reversed, the calm becomes a lid {#lid}
 
-Reversed, the same calm slows down or goes too far. Slowed, it becomes a lid: feelings held under for so long that his partner has no idea what he feels, and sometimes neither does he. The relationship looks peaceful and feels distant. In my notes, water that’s neglected seeps into the foundations, like mould slowly eating a house; a lid on the sea does the same, only more quietly.
+The same calm, slowed down or pushed too far. Slowed, it hardens over what’s underneath: feelings held under for so long that his partner has no idea what he feels, and sometimes neither does he. The relationship looks peaceful and feels distant. In my notes, water that’s neglected seeps into the foundations, like mould slowly eating a house; a lid on the sea does the same, only more quietly.
 
 In excess, the calm turns into control: using his understanding of people to steer them, staying reasonable in order to win. Or the opposite — the storm finally reaching the throne, years of held-back feeling arriving all at once. My notes describe Water at its best as the warm person you feel at home with, and at its worst as that same person spilling their emotions on everyone around them. The reversed King can be either, depending on the day.
 
-## Steady alone, steady together, steady after {#steady}
+## Steadiness, whether you’re single, coupled or parting {#steady}
 
 When you’re single, the King of Cups is usually about you before it’s about anyone else. Being steady with your own feelings: not texting at midnight for reassurance, not shutting down after a disappointing date, knowing what you feel and choosing what to do with it. The card doesn’t promise that someone like him is on the way. It describes a quality worth looking for — and worth having.
 
@@ -39,7 +39,7 @@ After a break-up, he’s dignity. Feeling all of it — the anger, the grief, th
 
 **The sea moves on every side and the throne doesn’t: that’s maturity, not coldness.**
 
-## Who sits next to him {#beside-him}
+## Three cards around the throne {#around-the-throne}
 
 {{< cards "swqu ar14 cu05" >}}
 
@@ -49,9 +49,9 @@ Next to Temperance — an angel pouring water from one cup into another without 
 
 Next to the Five of Cups, he’s the one who has grieved and kept his cup upright — a maturity that came from loss, not from never having lost anything ([the Five of Cups in love](/blog/five-of-cups-tarot-love/)).
 
-## “Is this him?” — and a question about safety {#is-this-him}
+## A King on the table is not always a man {#is-this-him}
 
-A King on the table looks like a man, and the question follows: “Is this him?” “Does he love me?” “Is he the one?” It’s a natural thing to hope when a card this warm shows up.
+Because he’s a King, people often take him for a man on his way to them, and the question follows: “Is this him?” “Does he love me?” “Is he the one?” It’s a natural thing to hope when a card this warm shows up.
 
 I don’t read on what someone else feels. It’s theirs to tell you, and a card can’t speak for a person who isn’t in the room. And the King of Cups, like any court card, describes a way of being before it describes a person. It might well be you. If he keeps turning up when you ask about one particular person, it’s worth asking which of his qualities you’re hoping they have, and which you’d like to find in yourself.
 

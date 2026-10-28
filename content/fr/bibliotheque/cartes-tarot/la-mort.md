@@ -1,6 +1,6 @@
 ---
 title: 'La Mort (Death) — tarot Rider-Waite-Smith : lire la carte par ses clés de lecture'
-description: 'La Mort au tarot n’annonce pas un décès. Ce que montre la carte de 1909, le 13, l’Eau et le Scorpion, et comment lire avec douceur la fin dont elle parle vraiment.'
+description: 'La Mort au tarot n’annonce ni un décès ni un licenciement. Ce que montre la carte de 1909, le 13, l’Eau et le Scorpion, et la fin dont elle parle, au travail aussi.'
 translationKey: card-ar13
 type: cards
 navTitle: La Mort
@@ -31,6 +31,8 @@ faq:
   a: 'La fin est refusée ou elle traîne : une situation terminée qu’on maintient, un changement fait à moitié. La question qu’elle pose : qu’est-ce que vous tenez encore et qui est déjà fini ?'
 - q: La carte de la Mort annonce-t-elle un décès ?
   a: 'Non. Une carte n’annonce ni un décès ni une maladie, et je ne lis pas sur ces questions, parce qu’un mot de travers peut faire peur pour rien. Si la santé de quelqu’un vous inquiète, c’est un médecin qu’il faut voir ; un tirage peut porter le changement que vous traversez.'
+- q: Que dit La Mort pour le travail ?
+  a: 'Elle n’annonce pas un licenciement : elle décrit une saison professionnelle qui se termine, comme un poste devenu trop étroit ou une façon de travailler qui ne vous va plus. La question qu’elle pose : qu’est-ce qui a fini sa saison, et qu’avez-vous envie de faire pousser ensuite ?'
 categories:
 - Arcane majeur
 tags:
@@ -79,11 +81,23 @@ Si vous êtes ici parce que la santé de quelqu’un vous inquiète, je comprend
 
 Renversée, la fin est refusée ou elle traîne : quelque chose de terminé qu’on maintient en vie, le poste qu’on a déjà quitté dans sa tête, un changement à moitié fait — ni l’ancienne vie, ni la nouvelle.
 
-À côté de la [Tour](/fr/bibliotheque/cartes-tarot/la-tour/), le changement est brutal ; seule, la Mort est le plus souvent lente. À côté de l’[As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/), la moisson est suivie d’une graine : quelque chose de concret commence sur le terrain dégagé. Pour le couple et le travail : [la Mort en amour](/fr/blog/la-mort-tarot-amour/) et [la Mort au travail](/fr/blog/la-mort-tarot-travail/).
+À côté de la [Tour](/fr/bibliotheque/cartes-tarot/la-tour/), le changement est brutal ; seule, la Mort est le plus souvent lente. À côté de l’[As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/), la moisson est suivie d’une graine : quelque chose de concret commence sur le terrain dégagé. Pour le couple, voyez [la Mort en amour](/fr/blog/la-mort-tarot-amour/) ; le travail a sa propre section, plus bas.
 
 {{< cards "ar16 peac" >}}
 
 **La Mort fauche ce qui est mûr pour que la terre puisse être semée à nouveau.**
+
+## Au travail {#au-travail}
+
+Dans un tirage sur le travail, la Mort n’annonce pas un licenciement. Elle décrit une saison professionnelle qui touche à sa fin : un poste devenu trop étroit, une façon de travailler qui ne vous va plus. **Quelque chose s’est terminé dans votre travail, même si votre contrat continue.** Quand un poste se termine déjà — un CDD qui arrive à échéance, une rupture conventionnelle signée —, la Mort décrit le passage : les émotions, le terrain qu’on dégage, le drôle de calme d’après.
+
+Au travail, ma note sur la moisson va surtout à quelqu’un qui n’est ni licencié ni en crise, mais arrivé au bout de ce qu’il faisait, sans savoir encore ce qui va pousser : la reconversion, bien plus souvent qu’un départ forcé.
+
+À l’envers, la moisson est en retard : le poste qu’on a déjà quitté dans sa tête et où l’on retourne chaque matin. Dans l’excès, c’est démissionner sur un coup de colère un lundi matin, brûler le champ au lieu de le moissonner.
+
+« Est-ce que je vais perdre mon travail ? » C’est la question qu’on apporte avec cette lame, et la peur est bien réelle : le loyer, la famille, l’idée de soi qui vient avec un métier. Je ne lis pas sur cette question. Une carte ne voit pas les décisions d’une entreprise, et un mot de travers peut pousser à démissionner dans la panique ou à se figer au moment d’agir ; les décisions d’argent restent elles aussi hors de mes tirages ([ce que je ne lis pas, et pourquoi](/fr/avertissements/#refus)). Pour le concret, un bilan de compétences ou un conseiller en évolution professionnelle sont les bons interlocuteurs. Une question plus douce : « Qu’est-ce qui, dans mon travail, a fini sa saison, et qu’ai-je envie de faire pousser ensuite ? » Je lis ; vous décidez.
+
+Cette semaine, écrivez deux listes courtes : ce qui est mûr dans votre travail, et ce que vous aimeriez semer. Gardez-les un mois, et regardez laquelle pousse.
 
 ## Exemple de tirage {#exemple}
 

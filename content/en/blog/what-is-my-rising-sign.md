@@ -19,7 +19,7 @@ Picture the zodiac as a ring of twelve signs around the Earth. As the Earth turn
 
 That's why it depends on your birth time. The rising sign changes roughly every two hours, a little faster or slower depending on the sign and on where you are. Two babies born in the same hospital on the same day share a Sun sign, and very likely a Moon sign. If one arrives at seven in the morning and the other at seven at night, they almost certainly don't share a rising sign.
 
-In most charts, the ascendant is also the starting line of the first house: the point from which the other eleven houses are counted. Move it by an hour and the whole chart turns. If houses are new to you, [my beginner's explainer on the birth chart](/blog/what-is-a-birth-chart/) starts from zero.
+In most charts, the ascendant is also the starting line of the first house: the point from which the other eleven houses are counted. Move it by an hour and the whole chart turns.
 
 ## How to find your rising sign {#find-yours}
 
@@ -31,13 +31,13 @@ You need three things, and the third is the one people don't have.
 
 Enter them on a chart site — I use Astro-Seek — and look for “Ascendant” or the letters “AC” on the wheel. That's your rising sign.
 
-If you don't know your time, ask whoever was there, or look for a hospital record or a baby book. If nobody knows, don't pick a time at random. A chart without a rising sign is still a chart, with the Sun, the Moon and the planets in their signs.
+If you don't know your time, [my beginner's explainer on the birth chart](/blog/what-is-a-birth-chart/#get-yours) says where to look for it, and what a chart still shows without one. If nobody knows, don't pick a time at random: a guessed time only gives you a guessed rising sign.
 
 If your time is approximate — “around lunchtime” — look at the degree. An ascendant in the middle of a sign probably holds if you're a quarter of an hour off. One at 28° or 1° could belong to the next sign or the previous one, so hold it loosely.
 
 ## The door, not the house {#door-not-house}
 
-In my notes, the three placements everyone quotes share one house. The Sun is the inner house: what your life is organised around. The Moon is your own room — where you go when the door shuts, and to me the most important of the three. The rising sign is the outside of the house: the front door, the façade, the path people walk up before they meet you.
+In my notes, the rising sign is the outside of the house: the front door, the façade, the path people walk up before they meet you. The Sun and the Moon live inside.
 
 **Your rising sign is how people come in, not who lives there.**
 

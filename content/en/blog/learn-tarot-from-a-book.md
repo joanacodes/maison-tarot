@@ -27,7 +27,7 @@ What it gives you, in short, is knowledge. Reading is something else.
 
 When I first made my friends and family try reading, I watched the same thing happen again and again: they'd say something true about the person in front of them, and then be shocked by what they'd said. That moment is why I teach. No page can produce it, because it isn't information. You can't be told what it's like. You can only try.
 
-My own start went the same way. My friends gave me my first deck for Christmas 2020 — from my wishlist; I'd been expecting an astrology book. I started reading on 26 December, and my first reading was accurate. I'd assumed I'd need training first.
+My own start went the same way. My friends gave me my first deck for Christmas 2020, I started reading on 26 December, and my first reading was accurate. I'd assumed I'd need training first.
 
 Practice teaches the things a book can only name. Letting go, which is the only real practice there is. Which channel your impressions come through — images, words, sounds, a feeling in the body. When to say something gently, or differently, because the person isn't ready. And, most of all, **when you're wrong — which no book can tell you, because the book isn't in the room.**
 
@@ -55,13 +55,11 @@ Put the book after the card, not before it.
 
 ## The books I actually recommend {#books-i-recommend}
 
-My list is short. For numbers, I recommend Corrine Kenner's tarot book — it's the one I point people to when they want to go deeper into the [numerology lens](/library/numerology/).
-
-{{< todo >}}Add here: the exact title of the Corrine Kenner book you use{{< /todo >}}
+My list is short. For numbers, I recommend a tarot book by Corrine Kenner: it's the one I point people to when they want to go deeper into the [numerology lens](/library/numerology/).
 
 For astrology, *The Only Astrology Book You'll Ever Need* by Joanna Martine Woolfolk. It covers the signs and the planets, and it's what I'd hand to someone who wants the astrology lens without drowning in it. For drawing up charts I use Astro-Seek, which is a website rather than a book.
 
-And then there's the free [Readers' Guide](/guide/), which holds the five lenses I teach in a few pages. It's the closest thing I've written to a book, and it's built to be read with a card in your other hand.
+And then there's the free [Readers' Guide](/guide/), which holds my main lenses (colours, numbers, elements and energies) in a few pages. It's the closest thing I've written to a book, and it's built to be read with a card in your other hand.
 
 That's all. Two books, a guide, and a lot of cards on a lot of tables.
 

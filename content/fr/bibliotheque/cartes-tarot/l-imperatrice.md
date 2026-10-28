@@ -1,7 +1,7 @@
 ---
 title: 'L’Impératrice (The Empress) — tarot Rider-Waite-Smith : lire la carte par
   ses clés de lecture'
-description: 'L’Impératrice au tarot : du blé, Vénus sur un bouclier, le nombre 3 et la Terre. Ce qu’elle fait pousser, à l’endroit et renversée, et ce qu’elle ne peut pas dire.'
+description: 'L’Impératrice au tarot : du blé, Vénus sur un bouclier, le 3, la Terre. Ce qu’elle fait pousser, chez vous et au travail, renversée, et ce qu’elle ne peut pas dire.'
 translationKey: card-ar03
 type: cards
 navTitle: L’Impératrice
@@ -33,6 +33,8 @@ faq:
   a: 'Le soin devient lourd ou se tarit : on retient trop fort, ou on ne nourrit plus personne, à commencer souvent par soi. Regardez qui est nourri, et qui ne l’est pas.'
 - q: L’Impératrice annonce-t-elle une grossesse ?
   a: 'Je ne lis pas une grossesse dans une carte : c’est une question pour un médecin et un test, et une parole de travers peut faire mal. Ce que l’Impératrice peut éclairer, c’est ce que vous faites grandir dans votre vie et la façon dont vous prenez soin de vous.'
+- q: Que dit L’Impératrice pour le travail ?
+  a: 'Au travail, l’Impératrice, c’est quelque chose qui grandit parce que vous en prenez soin : un projet, une petite entreprise, une équipe. Elle ne prédit pas les ventes ; elle demande si votre façon de le nourrir peut durer.'
 categories:
 - Arcane majeur
 tags:
@@ -71,7 +73,7 @@ Dans la tradition Golden Dawn, l’Impératrice correspond à [Vénus](/fr/bibli
 
 ## En lecture {#lecture}
 
-À l’endroit, l’Impératrice dit que quelque chose pousse et qu’on en prend soin. C’est souvent la carte de quelqu’un qui s’occupe des autres ([l’Impératrice au travail](/fr/blog/limperatrice-tarot-travail/)), et en amour, elle demande s’il reste de la place pour vous dans le soin que vous donnez ([l’Impératrice en amour](/fr/blog/limperatrice-tarot-amour/)).
+À l’endroit, l’Impératrice dit que quelque chose pousse et qu’on en prend soin. C’est souvent la carte de quelqu’un qui s’occupe des autres, au travail comme à la maison, et en amour, elle demande s’il reste de la place pour vous dans le soin que vous donnez ([l’Impératrice en amour](/fr/blog/limperatrice-tarot-amour/)).
 
 Beaucoup de gens espèrent ou redoutent que cette carte annonce une grossesse, et je comprends pourquoi : c’est la carte de la mère, et la question arrive chargée d’espoir ou d’inquiétude. Mais une carte ne peut pas vous le dire, et une parole de travers là-dessus peut faire mal ; c’est une question pour un médecin et un test. Ce que l’Impératrice peut éclairer, c’est tout ce qu’il y a autour : ce que vous faites grandir, et la façon dont vous prenez soin de vous ([la grossesse, et ce que je lis à la place](/fr/blog/tarot-et-grossesse/)).
 
@@ -80,6 +82,18 @@ Renversée, le soin devient lourd ou se tarit. Soit l’Impératrice retient tro
 À côté de l’[Empereur](/fr/bibliotheque/cartes-tarot/l-empereur/), c’est 3 puis 4 : ce qui pousse, puis ce qui structure. À côté du [Quatre de Pentacles](/fr/bibliotheque/cartes-tarot/quatre-de-pentacles/), le soin se change en possession. À côté du [Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/), une femme seule dans sa vigne, l’abondance revient à celle qui l’a fait pousser. **L’Impératrice donne ; la question est toujours de savoir si elle garde quelque chose pour elle.**
 
 {{< cards "ar04 pe04 pe09" >}}
+
+## Au travail {#au-travail}
+
+Au travail, l’Impératrice, c’est une croissance qui demande du soin : un projet créatif nourri depuis des mois, une petite entreprise qui grandit saison après saison plutôt qu’au sprint, une équipe où c’est vers vous qu’on se tourne. C’est souvent la personne qui s’occupe des autres : la manager qui remarque quand quelqu’un flanche, le collègue qui forme chaque nouvel arrivant. C’est son plus au travail — réel, et trop rarement remercié.
+
+Imaginons quelqu’un qui tient un petit atelier de céramique et tire l’Impératrice. La carte ne prévoit pas les ventes ; elle décrit quelqu’un qui nourrit quelque chose de vivant. **La question utile n’est pas de savoir si ça va grandir, mais si votre façon de le nourrir peut durer.** À côté du Huit de Pentacles — la maîtrise et l’effort nécessaire, dans mes notes —, l’abondance vient du métier, une pièce après l’autre.
+
+Renversée au travail, elle étouffe ou s’épuise : l’équipe si bien protégée que personne ne sait décider sans vous, ou la personne qui a nourri tout le monde et n’a plus rien. Si la fatigue a gagné votre corps, c’est l’affaire d’un médecin avant d’être celle des cartes.
+
+« Est-ce que mon projet va marcher ? » La question prend bien des formes : l’entreprise va-t-elle tenir, le livre va-t-il se vendre ? Je comprends : vous y avez mis de vous-même. Mais je ne lis ni sur l’argent ni sur les ventes ([ce que je ne lis pas, et pourquoi](/fr/avertissements/#refus)). Un prévisionnel, c’est l’affaire de vrais chiffres et de quelqu’un qui sait les lire, un expert-comptable par exemple. Une carte qui promettrait le succès pourrait vous pousser à investir plus que vous ne pouvez ; une autre qui prédirait l’échec, vous faire lâcher ce qui n’attendait qu’une saison de plus. Une question plus douce : « De quoi ce projet a-t-il besoin de ma part ce mois-ci, et de quoi peut-il se passer ? »
+
+Cette semaine, confiez une tâche à quelqu’un d’autre et gardez une soirée pour vous.
 
 ## Exemple de tirage {#exemple}
 

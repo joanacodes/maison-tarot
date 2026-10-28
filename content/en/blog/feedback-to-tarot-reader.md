@@ -25,7 +25,7 @@ This tells the reader which part of what they did actually worked. Was it the co
 
 It can feel harsh. It isn’t. By my count about one reading in ten misses, and the readers who improve are the ones who can write that word in their notebook without flinching. **The kindest feedback is the accurate one.** If it helps the reader on the receiving end, I’ve written about [what to do when a reading is wrong](/blog/tarot-reading-wrong/).
 
-And if something does land later — three days later, say — write to them. That’s feedback too, and often the most useful kind. Tell them what changed, so they can move the note from one column to the other honestly.
+And if something does land later, write to them. That’s feedback too, and often the most useful kind. One of my first readings, about a relationship, for a stranger on a Discord group, didn’t resonate at all: she wasn’t looking for a relationship. Three or four days later she texted me, shocked, because everything had happened. Tell them what changed, so they can move the note from one column to the other honestly.
 
 ## Separate what they saw from how they said it {#content-and-delivery}
 

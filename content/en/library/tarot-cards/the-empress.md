@@ -1,6 +1,6 @@
 ---
 title: 'The Empress — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'The Empress tarot card: ripe wheat, Venus on a shield, the number 3 and Earth. What she grows and gives, upright and reversed, and the one thing she can’t tell you.'
+description: 'The Empress tarot card: ripe wheat, Venus on a shield, the number 3 and Earth. What she grows, at home and at work, reversed, and the one thing she can’t tell you.'
 translationKey: card-ar03
 type: cards
 navTitle: The Empress
@@ -32,6 +32,8 @@ faq:
   a: 'Care that turns heavy or runs dry: holding on too tightly, or no longer feeding anyone, often starting with yourself. Look at who is being nourished, and who isn’t.'
 - q: Does The Empress mean pregnancy?
   a: 'I don’t read pregnancy from a card: a doctor and a test answer that question, and a wrong word there can hurt. What the Empress can speak about is what you’re growing in your life and how you’re caring for yourself.'
+- q: What does The Empress mean for my career?
+  a: 'At work, the Empress is something that grows because you look after it: a project, a small business, a team. She doesn’t forecast sales; she asks whether the way you’re feeding it can last.'
 categories:
 - Major arcana
 tags:
@@ -72,7 +74,7 @@ In the Golden Dawn tradition, the Empress goes with [Venus](/library/astrology/v
 
 ## In a reading {#reading}
 
-Upright, the Empress says something is growing and being looked after. It’s often the card of someone who takes care of others ([the Empress in career](/blog/empress-tarot-career/)), and in love it asks whether there’s room for you in the care you give ([the Empress in love](/blog/empress-tarot-love/)).
+Upright, the Empress says something is growing and being looked after. It’s often the card of someone who takes care of others, at work as much as at home, and in love it asks whether there’s room for you in the care you give ([the Empress in love](/blog/empress-tarot-love/)).
 
 Many people hope or fear that this card means a pregnancy, and I understand why: it’s the mother card, and the question comes with a lot of hope or worry. But a card can’t tell you that, and a wrong word there can hurt; that one is for a doctor and a test. What the Empress can hold is everything around it: what you’re growing, and how you’re looking after yourself ([pregnancy questions, and what I read instead](/blog/tarot-cards-pregnancy/)).
 
@@ -81,6 +83,18 @@ Reversed, the care turns heavy or runs dry. Either the Empress holds too tightly
 Next to [the Emperor](/library/tarot-cards/the-emperor/), 3 beside 4: what grows next to what structures. Next to the [Four of Pentacles](/library/tarot-cards/four-of-pentacles/), the care turns into holding on. Next to the [Nine of Pentacles](/library/tarot-cards/nine-of-pentacles/), a woman alone in her vineyard, the abundance has come back to the person who grew it. **The Empress gives; the question is always whether she keeps something for herself.**
 
 {{< cards "ar04 pe04 pe09" >}}
+
+## At work {#at-work}
+
+At work, the Empress is growth that needs care: a creative project you’ve fed for months, a small business that grows season by season rather than in a sprint, a team where you’re the one people come to. She’s often the person who looks after others — the manager who notices when someone is struggling, the colleague who trains every new hire. That’s her plus at work: real, and too rarely thanked.
+
+Say someone runs a small ceramics studio and draws the Empress. The card doesn’t forecast sales; it describes someone feeding something alive. **The useful question isn’t whether it will grow, but whether the way you’re feeding it can last.** Next to the Eight of Pentacles — in my notes, mastery and the necessary effort — the abundance comes from the craft, one piece at a time.
+
+Reversed at work, she smothers or runs dry: the team so well protected that nobody can decide without you, or the person who has fed everyone and has nothing left. If that exhaustion has reached your body, it’s one for a doctor before it’s one for the cards.
+
+“Will my project succeed?” comes in many forms: will the business hold, will the book sell? It makes sense; you’ve put yourself into it. But I don’t read on money or sales ([what I don’t read, and why](/disclaimers/#refusals)). A forecast belongs to real numbers and someone who knows how to read them, such as an accountant. A card that promised success could push you to invest more than you can afford; one that predicted failure could make you drop something that only needed another season. A kinder question: “What does this project need from me this month, and what can it do without?”
+
+This week, hand one task to someone else and keep one evening for yourself.
 
 ## A reading, as an example {#example}
 

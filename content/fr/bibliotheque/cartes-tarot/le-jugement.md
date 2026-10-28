@@ -1,7 +1,7 @@
 ---
 title: 'Le Jugement (Judgement) — tarot Rider-Waite-Smith : lire la carte par ses
   clés de lecture'
-description: 'Le Jugement au tarot, lu par ses clés de lecture : 20 qui devient 2, le Feu, le gris et le blanc, Pluton — un appel, un second regard, ni bonne ni mauvaise carte.'
+description: 'Le Jugement au tarot, lu par ses clés : 20 qui devient 2, le Feu, le gris et le blanc, Pluton — un appel, une seconde chance au travail, ni bonne ni mauvaise carte.'
 translationKey: card-ar20
 type: cards
 navTitle: Le Jugement
@@ -32,6 +32,8 @@ faq:
   a: 'Renversé, le Jugement, c’est le même appel resté sans réponse : on l’entend et on ne bouge pas, ou l’on repasse le passé en revue sans rien décider. En excès, c’est se juger, ou juger les autres, sans fin.'
 - q: 'Que signifie Le Jugement en amour ?'
   a: 'En amour, le Jugement invite souvent à reposer un regard neuf sur une relation, passée ou présente. Il ne dit pas s’il faut revenir ou tourner la page ; il dit que la question mérite une réponse honnête.'
+- q: 'Que dit Le Jugement pour le travail ?'
+  a: 'Au travail, le Jugement est un appel : une vocation qui revient, un bilan de votre parcours, ou une seconde chance pour quelque chose que vous aviez laissé. Il ne note pas votre carrière ; il demande si vous répondrez à ce que vous entendez.'
 categories:
 - Arcane majeur
 tags:
@@ -78,7 +80,17 @@ Parce que le dessin montre des morts qui se relèvent, certaines personnes craig
 
 {{< cards "ar13 ar21 cu06" >}}
 
-**Le Jugement n’est pas un verdict sur vous ; c’est un appel, et vous choisissez d’y répondre ou non.** J’en dis plus sur [le Jugement en amour](/fr/blog/le-jugement-tarot-amour/) et sur [une vocation au travail](/fr/blog/le-jugement-tarot-travail/).
+**Le Jugement n’est pas un verdict sur vous ; c’est un appel, et vous choisissez d’y répondre ou non.** J’en dis plus sur [le Jugement en amour](/fr/blog/le-jugement-tarot-amour/) ; la vocation au travail a sa propre section, plus bas.
+
+## Au travail {#au-travail}
+
+Au travail, le Jugement prend trois formes. Une vocation : quelque chose que vous vouliez faire bien avant d’avoir un emploi revient sans cesse — la formation que vous n’avez pas suivie, le métier que vous admiriez. Un bilan : l’entretien annuel, un bilan de compétences, l’anniversaire où vous relisez votre CV en vous demandant comment vous en êtes arrivé là ; la lame décrit le regard, pas la note. Une seconde chance : reprendre des études à quarante ans, repostuler là où l’on vous a dit non, ressortir un projet du tiroir. **Ceux qui se relèvent sur la carte ne sont pas de nouvelles personnes ; ce sont les mêmes, debout.** À côté du Huit de Pentacles — la maîtrise et l’effort nécessaire, dans mes notes —, la vocation devient un apprentissage.
+
+Renversé au travail, l’appel reste sans réponse (« quand les enfants seront plus grands », chaque mois de janvier), ou il en reçoit tant que vous refaites le bilan sans jamais décider. Le premier cas demande un petit pas ; le second, un point final.
+
+« Est-ce ma vraie vocation ? Est-il trop tard ? » Ces questions portent l’espoir, le regret, la peur de perdre encore des années, et je comprends qu’on veuille qu’une carte tranche. Une carte ne peut pas vous dire ce que vous êtes censé faire, et je me méfierais d’un tirage qui s’y essaierait. Une vocation n’est pas un verdict qui tombe d’en haut ; elle se met à l’épreuve, parce que personne ne peut vous raconter de l’extérieur ce qu’elle fait vivre. Démissionner ou financer une formation, c’est une décision d’argent ([ce que je ne lis pas, et pourquoi](/fr/avertissements/#refus)), et un conseiller en évolution professionnelle vous aidera mieux qu’une carte. Une question plus douce : « Qu’est-ce qui me rappelle sans cesse, et à quoi ressemblerait un petit essai ? »
+
+Cette semaine, prévoyez un petit essai : un stage d’un week-end, un café avec quelqu’un qui fait ce métier, une soirée à le tester à côté.
 
 ## Exemple de tirage {#exemple}
 

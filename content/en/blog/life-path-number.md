@@ -31,7 +31,7 @@ The worked example, for 3 August 1976 (03/08/1976):
 
 0 + 3 + 0 + 8 + 1 + 9 + 7 + 6 = 34, then 3 + 4 = **7**.
 
-Some numerologists reduce the day, the month and the year separately first: 3; 8; 1976 → 23 → 5. Then 3 + 8 + 5 = 16 → 7. The two methods usually land on the same number. When they don’t, it’s almost always because of a master number.
+Some numerologists reduce the day, the month and the year separately first: 3; 8; 1976 → 23 → 5. Then 3 + 8 + 5 = 16 → 7. The two methods always end on the same final digit. They only part ways if you stop at a master number along the way.
 
 Master numbers are 11, 22 and 33. If you land on one of them along the way, many numerologists stop there and keep it as it is. I reduce them the way I reduce the major arcana: 11 becomes 2, 22 becomes 4, 33 becomes 6. If master numbers speak to you, keep them — the 1–10 reading still sits underneath.
 
@@ -63,7 +63,7 @@ Every number also has its cards. A life path 7 points to [the Chariot](/library/
 
 The Seven of Cups is indecision, too many choices. The Seven of Swords leaves things behind and still harvests a lot. The Seven of Pentacles leans on his hoe and looks at what’s growing. Three ways of pausing before the next move.
 
-If you’d rather land on a major than on a digit, [the tarot birth card](/blog/tarot-birth-card/) uses the same addition and stops at 21.
+If you’d rather land on a major than on a digit, [the tarot birth card](/blog/tarot-birth-card/) starts from the same date but adds it another way: the day, the month and the year as whole numbers, then the digits of the total, stopping as soon as the result is 22 or under. For 3 August 1976, that’s 3 + 8 + 1976 = 1987, then 25, then 7: the Chariot again.
 
 ## What a life path number can’t tell you {#limits}
 

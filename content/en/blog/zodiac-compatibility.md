@@ -32,7 +32,7 @@ The fuller version is called synastry: you lay two complete birth charts side by
 
 If you compare two charts, start with the placements that describe how someone lives with another person, not how they look from outside.
 
-In my image of the chart as a house, the Sun is the inside, the rising sign the outside, and the Moon your own room. It says what each of you needs to feel safe. Venus says how each of you shows love. Mars says how each of you wants, and how you fight.
+In my image of the chart as a house, the Moon is [your own room](/blog/sun-moon-rising-big-three/): it says what each of you needs to feel safe. Venus says how each of you shows love. Mars says how each of you wants, and how you fight.
 
 Then Saturn, Lilith and Chiron. When I tested charts box by box, these three held 75 to 90% of the time, far above the 30 to 40% of everything else. They describe each person’s hardest lesson, the wound they keep circling and what they were told to hide — which is where I’d look first for what two people might bump into. My test was done one chart at a time, though: it says nothing about pairs, and I have no compatibility numbers. The [full test, and how I ran it](/blog/i-tested-my-birth-chart/), is in its own article.
 

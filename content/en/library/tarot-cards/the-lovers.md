@@ -1,6 +1,6 @@
 ---
 title: 'The Lovers — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'The Lovers tarot card: an angel, two trees, the number 6, Air and Gemini. Why it’s a choice more than a romance, how to read it upright and reversed, and its limit.'
+description: 'The Lovers tarot card: an angel, two trees, the number 6, Air and Gemini. Why it’s a choice more than a romance, in love and at work, upright and reversed.'
 translationKey: card-ar06
 type: cards
 navTitle: The Lovers
@@ -32,6 +32,8 @@ faq:
   a: 'The choice postponed or made for the wrong reasons: staying at the crossroads, or two people talking past each other. Look at what is being avoided.'
 - q: What does The Lovers mean in love?
   a: 'Less a promise of romance than a question about your choice: what you want, and whether you’re choosing it freely. It speaks about you, not about what someone else feels.'
+- q: What does The Lovers mean for my career?
+  a: 'At work, the Lovers is a choice between two paths: two offers, expert or manager, employed or freelance. It won’t choose for you; it shows that choosing one means saying no to the other.'
 categories:
 - Major arcana
 tags:
@@ -72,7 +74,7 @@ In the Golden Dawn tradition, the Lovers go with [Gemini](/library/astrology/gem
 
 ## In a reading {#reading}
 
-Upright, the Lovers say: a choice, made with someone or about something you love. Sometimes it’s a relationship; often it’s a crossroads — two paths, two offers, two versions of your life — and the card asks you to choose with your eyes open. In love it’s [a choice more than a romance](/blog/lovers-tarot-love/); at work it’s choosing a path ([the Lovers in career](/blog/lovers-tarot-career/)).
+Upright, the Lovers say: a choice, made with someone or about something you love. Sometimes it’s a relationship; often it’s a crossroads — two paths, two offers, two versions of your life — and the card asks you to choose with your eyes open. In love it’s [a choice more than a romance](/blog/lovers-tarot-love/); at work it’s choosing a path, which has its own section below.
 
 People often hope this card will tell them whether someone loves them. I understand the wish. But I read the person in front of me, not someone who isn’t in the room, so the Lovers speak about your choice rather than another person’s feelings ([more on reading about someone else](/blog/reading-tarot-about-someone-else/)).
 
@@ -81,6 +83,18 @@ Reversed, the choice is postponed or made for the wrong reasons. Either the pers
 Next to the [Two of Cups](/library/tarot-cards/two-of-cups/), two people exchanging cups, the bond is mutual and the feeling is there. Next to [the Devil](/library/tarot-cards/the-devil/) — the same naked couple, this time chained to a pedestal — the question is whether the bond is a choice or a habit; on that card, the chains are loose enough to lift off. **The Lovers don’t tell you whom to choose; they show you that you are choosing.**
 
 {{< cards "cu02 ar15" >}}
+
+## At work {#at-work}
+
+At work, the Lovers puts a choice on the table: two job offers, staying an expert or becoming a manager, going freelance or staying employed, joining a business partner or not. The card reads that choice through values more than feelings — in my notes, Air is the best decision-maker of the four elements, because it sees everything at once — and asks which option lets you be yourself on an ordinary Tuesday afternoon, with the emails and the commute. It’s a card of partnerships too: a deal is only as good as the conversation behind it.
+
+Next to the Seven of Cups — in my notes, indecision, too many choices — the problem isn’t two options but seven, most of them imagined: find the two that are real. **People often hope a reading will spare them the “no”; this is the card that shows it can’t.**
+
+Reversed at work, the choice is avoided: one foot in each job, a side business that never gets a real decision, while time decides for you.
+
+“Which job should I take?” is the question this card attracts, and it makes sense: a big decision, two decent options, and you’d love someone to settle it. I read; you decide. The people making the offers aren’t in the room, the salary side is a money decision I don’t read on, and a card that chose for you would take away the one part of the decision that’s yours. A careers adviser can help you compare the concrete side. A more useful question: “What am I choosing when I choose this one, and what am I saying no to?” I go further in [tarot for decision making](/blog/tarot-for-decision-making/).
+
+This week, draw two cards, one for each path, and describe them before you decide which is “better”. Write one sentence for each; you’ll often find you had already chosen.
 
 ## A reading, as an example {#example}
 

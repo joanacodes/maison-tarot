@@ -58,9 +58,7 @@ The honest limit: a confirmation is still the person's judgement, and people are
 
 ## Go slowly {#go-slowly}
 
-The advice I give most often here: don't go too high too fast, or you might not find your way back home. Start crescendo.
-
-In practice, that means one card a day for a while, then three cards, then a person. The [one-card pull](/blog/one-card-tarot-pull/) is built for that first stage. Alongside it, anything meditative trains the same attention: painting, reading, meditation, looking at a picture in a museum and asking what it says. You can read in anything.
+The advice I give most often here is to develop it slowly: one card a day for a while, then three cards, then a person. The [one-card pull](/blog/one-card-tarot-pull/) is built for that first stage. Alongside it, anything meditative trains the same attention: painting, reading, meditation, looking at a picture in a museum and asking what it says. You can read in anything.
 
 Reading takes energy. After a session you may feel very tired, because interpreting is work. Listen to your body and rest. I sometimes stop after two hours myself.
 
