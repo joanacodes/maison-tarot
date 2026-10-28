@@ -23,6 +23,8 @@ Arthur Edward Waite printed this spread in the guide he wrote for the Rider-Wait
 
 You’ll find books that number the four cards around the centre in a different order. Pick one version, write it down, and keep it: a layout that changes every week can’t teach you anything.
 
+Don’t confuse it with the cross spread taught in France, which shares the outline of a cross and little else: five cards, no column, and a centre card you calculate by adding up the other four. That one is explained in [the French cross spread](/blog/cross-tarot-spread/). This article is about the ten-card Celtic Cross only.
+
 Waite began by choosing one card to stand for the person — a significator — and laid the spread over it. I leave that step out. [I read without a significator](/blog/significator-card/), so card 1 comes from the shuffle like all the others.
 
 ## The ten positions, one by one {#positions}
@@ -62,7 +64,7 @@ Learn it in three stages, a week or so each.
 2. The circle: six cards. Add the four around them. You now have the whole situation, still in one or two sentences.
 3. The full ten. Add the column, and read the spread in three sentences rather than ten: one for the cross, one for the circle, one for the column.
 
-Two habits help from the first day. Write the ten positions on a slip of paper and lay it beside the spread, so your memory isn’t doing the work. And read the lenses across all ten cards before any position: how many major arcana, which element leads, which colour dominates, whether a number repeats. Six Cups out of ten make it about feelings whatever the question was — [lots of Cups in a spread](/blog/lots-of-cups-in-a-reading/) goes further. No major at all, and the situation is in ordinary hands: yours.
+Two habits help from the first day. Write the ten positions on a slip of paper and lay it beside the spread, so your memory isn’t doing the work. And read the lenses across all ten cards before any position: how many major arcana, which element leads, which colour dominates, whether a number repeats. Six Cups out of ten make it about feelings whatever the question was. No major at all, and the situation is in ordinary hands: yours.
 
 **If the full ten still feels like too much, that’s information, not failure.** [A three-card spread](/blog/three-card-tarot-spread/) answers most questions, and [whether you need a set spread at all](/blog/do-you-need-tarot-spreads/) is a fair thing to ask.
 
@@ -76,7 +78,7 @@ Then the column, from the bottom up: the Two of Swords, the Three of Cups, the N
 
 {{< cards "sw02 cu03 sw09 waac" >}}
 
-Lenses first. One major arcana out of ten, the [Star](/library/tarot-cards/the-star/), so this is a life-sized situation, in the person’s own hands. Three Cups lead the elements: it’s about what they feel more than what they think. The colours: the night sky of the Eight of Cups and the black wall of the Nine of Swords; the grey of the Two of Swords; then the green leaves of the Ace of Wands in the last place. The dark sits at the heart and in the fears. The green is where it’s heading.
+Lenses first. One major arcanum out of ten, the [Star](/library/tarot-cards/the-star/), so this is a life-sized situation, in the person’s own hands. Cups are the strongest suit, three of the nine minors: it’s about what they feel more than what they think. The colours: the night sky of the Eight of Cups and the black wall of the Nine of Swords; the grey of the Two of Swords; then the green leaves of the Ace of Wands in the last place. The dark sits at the heart and in the fears. The green is where it’s heading.
 
 The cross. A figure in a red cloak walks away by night from eight stacked cups — in my notes, moving on from what you’re already doing — while across it a crowned man hugs a coin to his chest. An 8 crossed by a 4, Water crossed by Earth: leaving, and holding on to the security that was built.
 
