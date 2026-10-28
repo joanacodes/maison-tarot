@@ -31,8 +31,6 @@ At the other end of the scale, what arrives isn’t a word but a feeling. Sensat
 
 Say you’re reading for someone and a heaviness settles on you that wasn’t there a minute ago. Nothing in your own day explains it. That is what empathy can look like when you read. In my teaching notes, empathy means feeling and understanding another person’s emotions while keeping your own. Very empathic readers can end up feeling the other person’s emotions, and sometimes expressing them, as if they were theirs.
 
-{{< todo >}}Add here: what you feel in your body when you read, if anything — a line or two in your own words.{{< /todo >}}
-
 That is where it needs care. If you start crying the other person’s tears, you’ve stopped reading for them; they’re now looking after you.
 
 **Feel it, know whose it is, and keep it at arm’s length: you’re there to read the emotion, not to carry it.**
@@ -45,7 +43,7 @@ That is where it needs care. If you start crying the other person’s tears, you
 4. If it’s too much, stop. You can always finish another day, and nobody is owed a reading at your expense.
 5. Afterwards, rest. Interpreting takes energy, and you can feel very tired after a reading; listen to your body. I sometimes stop after two hours of readings, out of caution. There’s more on [feeling drained after a reading](/blog/energy-after-tarot-reading/) and what helps.
 
-None of this is proven. It’s my experience, and what I’ve seen in the people I’ve taught.
+None of this is proven. It’s my experience, and the hypothesis I make from it.
 
 ## The moment you surprise yourself {#surprise}
 
