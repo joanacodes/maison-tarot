@@ -21,7 +21,7 @@ My first reading was accurate. I hadn’t trained for it.
 
 What I’d add now is what that meant, and what it didn’t. It wasn’t proof of anything about me. Since then I’ve made friends and family try, and every single person I’ve helped to read managed it on the first, second or third try. Reading is like art: some people have more talent, and anyone who practises can do it. The only practice is letting go.
 
-**That first reading told me something about reading, not about me.** It’s why I hand back [the compliment people pay me most often](/blog/you-have-a-gift/), and why the [learn path](/learn-tarot/) has you read a card on day one instead of testing your talent.
+**That first reading told me something about reading, not about me.** It’s why I hand back [the compliment “you have a gift”](/blog/you-have-a-gift/), and why the [learn path](/learn-tarot/) has you read a card on day one instead of testing your talent.
 
 ## ‘I don’t need the cards anymore’ {#the-cards}
 

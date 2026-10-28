@@ -15,9 +15,7 @@ When someone tells me I have a gift, I say thank you. Then I hand it back, as ge
 
 ## Why it's a kind thing to say {#kind}
 
-"You have a gift" is said in surprise. Something landed that the person didn't expect, and "gift" is the nearest word to hand for that feeling. It's a generous thing to say, and I take it as it's meant.
-
-{{< todo >}}Add here: a time someone told you ‘you have a gift’, in your own words — after which reading, and what you answered.{{< /todo >}}
+"You have a gift" is said in surprise. Something landed that the person didn't expect, and "gift" is the nearest word to hand for that feeling. It’s a generous thing to say, and I take it as it’s meant.
 
 So when I hand it back, it isn't because the person said something foolish. It's because the word is too small for what happened. **A gift is something one person has and another doesn't, and that isn't what happens in a reading.**
 
@@ -27,7 +25,7 @@ In tarot and all around it, a gift means an ability you're born with — to see,
 
 I don't think she is. We all receive impressions: images, sounds, words, smells, sensations, emotions. Some people are sharper in one channel than another — they see more readily, or hear, or feel — but nobody is missing the whole set.
 
-Reading is closer to drawing than to a sixth sense. Some people have more talent, and anyone who practises can do it. When I've made friends and family try, every single one managed to read on the first, second or third try. If you're wondering whether you need a gift to start at all, I've answered that separately, [with a ten-minute test](/blog/do-you-need-psychic-abilities/).
+Reading is closer to art than to a sixth sense. Some people have more talent, and anyone who practises can do it. When I've made friends and family try, every single one managed to read on the first, second or third try. If you're wondering whether you need a gift to start at all, I've answered that separately, [with a ten-minute test](/blog/do-you-need-psychic-abilities/).
 
 ## What I actually stopped doing {#trying-to-be-right}
 
