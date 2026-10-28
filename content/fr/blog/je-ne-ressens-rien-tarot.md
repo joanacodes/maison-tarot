@@ -51,7 +51,7 @@ On ne s’entraîne pas à ressentir sur commande. On s’entraîne à lâcher p
 - Faites quelque chose de méditatif : [rester assis quelques minutes sans rien faire](/fr/blog/commencer-la-meditation/), peindre, ou regarder un tableau au musée comme vous regarderiez une carte. On peut lire dans tout.
 - Notez les petites choses — le mot égaré, l’image bizarre — même quand elles ne ressemblent à rien. Vérifiez plus tard si elles voulaient dire quelque chose. C’est aussi comme ça qu’on apprend à distinguer [lire et inventer](/fr/blog/est-ce-que-jinvente-tarot/).
 
-Allez-y doucement. Ma propre note là-dessus dit : ne montez pas trop haut trop vite, sinon vous risquez de ne plus retrouver le chemin de la maison. Commencez crescendo.
+Ça vient avec la pratique. Dans mes notes de 2021, ma première année complète de lecture, j’ai écrit que plus je lisais, plus il m’arrivait de recevoir quelque chose avant même d’avoir mélangé le jeu, et que j’étalais les cartes surtout parce que la personne en face voulait les voir.
 
 Pour ce que ça vaut, toutes les personnes que j’ai aidées à lire y sont arrivées entre le premier et le troisième essai. Pas sur commande, et pas toujours comme elles l’attendaient.
 

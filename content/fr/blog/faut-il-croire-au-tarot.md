@@ -39,7 +39,7 @@ Ce qui ferme une lecture, d’après mon expérience, ce n’est pas le doute. C
 
 ## Et la personne qui lit, doit-elle y croire ? {#la-tarologue}
 
-Pas au sens où on l’entend d’habitude. J’ai commencé à lire le 26 décembre 2020, en m’attendant à devoir m’entraîner des mois avant que quoi que ce soit tombe juste. Ma première lecture était juste. Je n’y croyais pas ; c’est arrivé quand même.
+Pas au sens où on l’entend d’habitude. J’ai commencé à lire le 26 décembre 2020, en m’attendant à devoir m’entraîner avant que quoi que ce soit tombe juste. Ma première lecture était juste. Je n’y croyais pas ; c’est arrivé quand même.
 
 Aujourd’hui, avant chaque lecture, je me dis : *je vais dire n’importe quoi.* Plus j’abaisse mes attentes, plus c’est juste. Une tarologue sûre de son don a tendance à sauver ses lectures au lieu de dire ce qui vient.
 
