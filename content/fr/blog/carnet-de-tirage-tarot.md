@@ -19,7 +19,7 @@ Tirez un trait au milieu de la page, comme dans un cahier d’écolier. À gauch
 
 Laissez de côté la question de la personne — avec [la règle du silence](/fr/blog/regle-du-silence-tarot/), vous n’êtes de toute façon pas censé la connaître — et son nom complet. Un prénom, ou « inconnue, appel de groupe », suffit pour retrouver la lecture. C’est sa vie à elle qui est sur votre page.
 
-Imaginons que vous tiriez pour une amie le Trois de Coupes, puis le Huit de Pentacles. Votre colonne de gauche dit : « Beaucoup de jaune, trois coupes levées : quelque chose s’est terminé et on le fête. Puis un huit, la Terre : un travail régulier, un savoir-faire qu’on peaufine. » Sa colonne de droite : « Le mariage de ma sœur samedi dernier. Et oui, je viens de commencer des cours du soir. » Deux lignes de chaque côté, et vous pouvez déjà juger.
+Imaginons que vous tiriez pour une amie le Trois de Coupes, puis le Huit de Pentacles. Votre colonne de gauche dit : « Trois coupes levées, beaucoup de rouge sur un ciel bleu : des gens qui trinquent ensemble, de la chaleur entre eux. Puis un huit, la Terre : un travail régulier, un savoir-faire qu’on peaufine. » La colonne de droite, avec ses mots à elle : « Le mariage de ma sœur samedi dernier. Et oui, je viens de commencer des cours du soir. » Deux lignes de chaque côté, et vous pouvez déjà juger.
 
 {{< cards "cu03 pe08" >}}
 
@@ -65,4 +65,4 @@ Ce carnet montre aussi ce qu’aucune lecture isolée ne montre : à quelle fré
 
 Prenez n’importe quel cahier, celui du supermarché fera l’affaire, et tracez le trait ce soir. Tirez les cartes pour dix personnes qui ne vous disent rien, remplissez les deux colonnes, mettez une marque à chaque fois, et comptez. Dix suffisent pour voir ce que vous faites quand vous ratez.
 
-Si vous ne savez pas encore pour qui tirer, voici [où j’ai trouvé des personnes prêtes à ne rien me dire](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/). Et si vous voulez voir les deux colonnes se remplir devant vous, le carnet est ouvert à chaque [événement gratuit](/fr/evenements/).
+Si vous ne savez pas encore pour qui tirer, voici [où j’ai trouvé des personnes prêtes à ne rien me dire](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/). Et si vous voulez voir des lectures vérifiées sous vos yeux, chaque [événement gratuit](/fr/evenements/) se termine ainsi : les personnes qui ont reçu une lecture disent ce qui était juste, et on compare.

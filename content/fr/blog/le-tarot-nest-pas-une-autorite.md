@@ -63,4 +63,4 @@ Rangez-le dans un tiroir pendant quelques semaines. Pas comme une punition : com
 
 ## Et maintenant {#et-maintenant}
 
-Si vous voulez comprendre comment fonctionne une lecture plutôt que d’en recevoir une, [apprenez à lire les cartes vous-même](/fr/apprendre-le-tarot/). C’est le moyen le plus sûr d’arrêter d’en faire une autorité : une fois que vous avez vu une image devenir une phrase dans votre propre bouche, vous savez qui a écrit la phrase. Et si ce que vous voulez vraiment savoir, c’est ce que le tarot peut dire de ce qui vient, j’y réponds dans [le tarot prédit-il l’avenir ?](/fr/blog/le-tarot-predit-il-lavenir/)
+Si vous voulez comprendre comment fonctionne une lecture plutôt que d’en recevoir une, [apprenez à lire les cartes vous-même](/fr/apprendre-le-tarot/). C’est le moyen le plus sûr d’arrêter d’en faire une autorité : une fois que vous avez vu une image devenir une phrase dans votre propre bouche, vous savez qui a écrit la phrase. Et si vous voulez voir comment un tirage se trompe — par le moment, par l’interprétation, ou par un simple raté —, je le décortique dans [pourquoi un tirage peut se tromper](/fr/blog/tirage-faux-tarot/).

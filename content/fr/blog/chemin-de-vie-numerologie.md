@@ -31,7 +31,7 @@ L’exemple, pour le 3 août 1976 (03/08/1976) :
 
 0 + 3 + 0 + 8 + 1 + 9 + 7 + 6 = 34, puis 3 + 4 = **7**.
 
-Certains numérologues réduisent d’abord le jour, le mois et l’année séparément : 3 ; 8 ; 1976 → 23 → 5. Puis 3 + 8 + 5 = 16 → 7. Les deux méthodes tombent en général sur le même nombre. Quand ce n’est pas le cas, c’est presque toujours à cause d’un nombre maître.
+Certains numérologues réduisent d’abord le jour, le mois et l’année séparément : 3 ; 8 ; 1976 → 23 → 5. Puis 3 + 8 + 5 = 16 → 7. Les deux méthodes aboutissent toujours au même chiffre final. Elles ne se séparent que si vous vous arrêtez en route sur un nombre maître.
 
 Les nombres maîtres sont 11, 22 et 33. Si vous tombez sur l’un d’eux en route, beaucoup de numérologues s’arrêtent là et le gardent tel quel. Moi, je les réduis comme je réduis les arcanes majeurs : 11 devient 2, 22 devient 4, 33 devient 6. Si les nombres maîtres vous parlent, gardez-les — la lecture de 1 à 10 reste en dessous.
 
@@ -63,7 +63,7 @@ Chaque nombre a aussi ses cartes. Un chemin de vie 7 renvoie au [Chariot](/fr/bi
 
 Le Sept de Coupes, c’est l’indécision, trop de choix. Le Sept d’Épées laisse des choses derrière lui et récolte quand même beaucoup. Le Sept de Pentacles s’appuie sur sa houe et regarde ce qui pousse. Trois façons de marquer une pause avant le coup suivant.
 
-Si vous préférez tomber sur un arcane majeur plutôt que sur un chiffre, [la carte de naissance au tarot](/fr/blog/carte-de-naissance-tarot/) fait la même addition et s’arrête à 21.
+Si vous préférez tomber sur un arcane majeur plutôt que sur un chiffre, [la carte de naissance au tarot](/fr/blog/carte-de-naissance-tarot/) part de la même date mais l’additionne autrement : le jour, le mois et l’année comme des nombres entiers, puis les chiffres du total, en s’arrêtant dès que le résultat tombe à 22 ou moins. Pour le 3 août 1976, cela donne 3 + 8 + 1976 = 1987, puis 25, puis 7 : de nouveau le Chariot.
 
 ## Ce que le chemin de vie ne peut pas dire {#limites}
 

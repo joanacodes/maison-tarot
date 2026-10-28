@@ -39,7 +39,7 @@ Elles ne coûtent rien, et elles servent quel que soit le chemin que vous prendr
 2. Un carnet de pratique. Beaucoup de sorcières tiennent un livre des ombres : un carnet personnel de leur pratique — ce qu’elles ont fait, quand, et ce qui s’est passé. Mon carnet de tarot suit la même idée : d’un côté ce que j’ai dit, de l’autre ce qui a été confirmé. Notez aussi ce qui n’a pas marché. Un raté est un raté, et il vous apprend plus qu’une réussite.
 3. Une carte par jour. Le tarot n’est pas de la sorcellerie — j’ai écrit sur [ce qui les distingue](/fr/blog/le-tarot-est-il-de-la-sorcellerie/) —, mais une seule carte chaque matin entraîne très bien l’attention. Décrivez ce qu’il y a dessus, ce que vous voyez, ce que vous recevez.
 
-Si vous en voulez une quatrième, suivez les saisons. Beaucoup de sorcières marquent la Roue de l’année, huit fêtes réparties sur l’année. La prochaine est Samhain, la nuit du 31 octobre : la fin des récoltes, l’entrée dans la moitié sombre de l’année, et un moment pour se souvenir des morts. J’ai écrit sur [Samhain et le tarot](/fr/blog/samhain-tarot/) si vous voulez une porte d’entrée tranquille.
+Si vous en voulez une quatrième, suivez les saisons. Beaucoup de sorcières marquent la Roue de l’année, huit fêtes réparties sur l’année. L’une d’elles est Samhain, la nuit du 31 octobre : la fin des récoltes, l’entrée dans la moitié sombre de l’année, et un moment pour se souvenir des morts. J’ai écrit sur [Samhain et le tarot](/fr/blog/samhain-tarot/) si vous voulez une porte d’entrée tranquille.
 
 ## Allez doucement : commencez crescendo {#doucement}
 

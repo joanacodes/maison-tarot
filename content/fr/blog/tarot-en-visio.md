@@ -17,15 +17,15 @@ Oui, d’après mon expérience. La plupart de mes lectures pour des inconnus se
 
 Quand j’ai compté mes [300 tirages à l’aveugle](/fr/blog/le-tarot-marche-t-il-300-tirages/), la plupart s’étaient faits en ligne : sur des serveurs Discord, en appels de groupe, et pendant un live. D’autres en face à face. Environ neuf sur dix ont tenu, d’après mon propre décompte, et les lectures derrière ce chiffre se sont faites en majorité à travers un écran.
 
-Ma toute première lecture pour une inconnue en faisait partie. C’était sur un serveur Discord trouvé via Tumblr. J’avais un pseudo, rien d’autre. Elle m’a dit que ça ne lui parlait pas ; trois ou quatre jours plus tard, elle m’a écrit, secouée, parce que tout était arrivé. Tout, la lecture comme la confirmation, est passé par un écran.
+Ma toute première lecture pour une inconnue en faisait partie. C’était sur un groupe Discord trouvé via Tumblr, avec une femme que je n’avais jamais rencontrée. Elle m’a dit que ça ne lui parlait pas ; trois ou quatre jours plus tard, elle m’a écrit, secouée, parce que tout était arrivé. La lecture comme la confirmation me sont parvenues à travers un écran.
 
-{{< todo >}}À ajouter ici : si vous avez remarqué une différence entre vos lectures en ligne et vos lectures en face à face{{< /todo >}}
+Une limite honnête : ce neuf sur dix réunit les lectures en ligne et celles en face à face. Il ne dit pas si les unes ont mieux tenu que les autres. Ce qu’il montre, c’est qu’un écran n’a pas empêché les lectures de tenir.
 
 ## Ce qui change quand on lit à travers un écran {#ce-qui-change}
 
 Moins d’informations me parviennent, et ça aide. Dans une pièce, on voit les chaussures, une alliance, un visage fatigué, la manière de s’asseoir. En appel, j’ai souvent une voix et un prénom, parfois seulement un pseudo. **Moins j’en sais avant de commencer, plus la confirmation d’après a de valeur.** C’est toute la raison d’être de [la règle du silence](/fr/blog/regle-du-silence-tarot/).
 
-La visio rend une chose que l’appel vocal ne donne pas : un visage. Un visage hoche la tête, sourit, soupire au bon moment, et c’est aussi de l’information. Je demande gentiment aux gens de garder un visage de joueur de poker et de réserver leurs réactions pour la fin. Certains n’y arrivent pas, et ce n’est pas grave ; je le note aussi.
+La visio rend une chose que l’appel vocal ne donne pas : un visage. Un visage hoche la tête, sourit, soupire au bon moment, et c’est aussi de l’information. Si vous lisez en visio, il est utile de demander gentiment à la personne de garder un visage de joueur de poker et de réserver ses réactions pour la fin. Certaines n’y arrivent pas, et ce n’est pas grave ; ça vaut la peine de le noter à côté de la lecture.
 
 La personne ne touche pas les cartes. On me demande souvent si ça compte. Je ne crois pas. Ce n’est pas des cartes que vient la lecture ; elles m’aident à me concentrer, ou à me déconcentrer, pour que mes propres pensées s’écartent. De plus en plus, les premières impressions arrivent avant que j’aie mélangé, et je garde les cartes sur la table surtout parce que la personne a envie de les voir. En visio, le plus utile est donc de montrer chaque carte à la caméra, pour que la personne voie ce que vous voyez.
 
