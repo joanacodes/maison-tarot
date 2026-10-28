@@ -15,7 +15,7 @@ In love, Judgement is a second look: at a relationship that ended, one that’s 
 
 {{< cards "ar20" >}}
 
-## A 2 in Fire: re-reading the contract {#lenses-in-love}
+## A 2 in Fire: re-reading the contract {#reading-the-contract}
 
 Judgement is 20, and 2 + 0 = [2](/library/numerology/number-2/): the number of the contract — two parties, a bond, a weighing. Its advice, in my notes, is to read the contract and weigh the pros and cons. Its minus is stubbornness and ego. In love, that’s what a second look is: re-reading the agreement you made with someone, out loud this time, and noticing which clauses you’ve been keeping out of pride.
 

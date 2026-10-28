@@ -15,7 +15,7 @@ The Five of Cups is the heaviest card in the deck, by my own notes: losing somet
 
 {{< cards "cu05" >}}
 
-## A five in Water: losing, and what’s left {#lenses-in-love}
+## A five in Water: losing, and what’s left {#five-in-water}
 
 [Five](/library/numerology/number-5/), in my notes, is trial: conflict, making do with what’s left, not being afraid to fail. Its advice is to be honest with yourself and with the situation; its minus is denial. In this card the denial isn’t of the loss — the figure knows exactly what spilled. It’s of the other half: what’s still there.
 
@@ -31,7 +31,7 @@ When you’re single, the Five of Cups usually talks about something you’re st
 
 When you’re together, it often describes a disappointment inside the relationship. A promise not kept, a move that didn’t happen, a sentence that hurt more than it was meant to. It doesn’t say the relationship is over. Look at the cups again: knocked over, not broken. **Something spilled; the cups themselves are still whole.** What the card asks is where your attention has gone, and whether the two standing cups — the things that still work between you — are getting any of it.
 
-## “Will they come back?” — asked in front of the spilled cups {#kinder-question}
+## “Will they come back?” — asked in front of the spilled cups {#come-back-question}
 
 It’s the question almost everyone brings with this card, and it makes complete sense. When you’re standing in front of the spilled cups, you want someone to tell you they’ll be filled again.
 
@@ -41,7 +41,7 @@ A gentler question is: “What’s still standing for me, and who can I lean on 
 
 And if you notice you’re drawing cards on the same loss every evening, put the deck away for a while. Grief needs people more than it needs spreads, and a card drawn at midnight on the same question rarely tells you anything the last one didn’t.
 
-## Three cards that answer the standing cups {#neighbours}
+## Three cards that answer the standing cups {#standing-cups}
 
 A card never speaks alone. Three neighbours that change it in a love reading:
 

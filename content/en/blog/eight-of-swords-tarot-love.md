@@ -15,7 +15,7 @@ The Eight of Swords in love describes feeling trapped — and, in the same drawi
 
 {{< cards "sw08" >}}
 
-## Eight swords, and every one of them hers {#lenses-in-love}
+## Eight swords, and every one of them hers {#every-sword-hers}
 
 Eight is the 4 exalted: control, an empire, everything held in place. In my notes it’s also a gate between what you can touch and what you can’t. In this card the control has turned inwards. The element is [Air](/library/four-elements/air-element/): thinking, deciding, talking. Air cuts cleanly when it works, and blocks or obsesses when it doesn’t. The energy is masculine — decide, act — and that’s exactly what is tied up.
 
@@ -33,7 +33,7 @@ One thing I want to say carefully. If being trapped is literal — if someone co
 
 After a break-up, the Eight of Swords is the story you tell yourself about why it ended, on a loop. Or the waiting: not dating, not moving, keeping your life on hold in case they come back. Her feet are free, and the first step is hers to take.
 
-## What the neighbours say about the blindfold {#neighbours}
+## What the neighbours say about the blindfold {#blindfold-neighbours}
 
 {{< cards "sw09 ar15 swqu" >}}
 
@@ -49,7 +49,7 @@ Reversed, the bands loosen. In the good direction, it’s the blindfold slipping
 
 In excess, it becomes a new kind of prison. Planning the escape so carefully that you never leave. Or tearing everything off at once and slipping in the puddles — ending a relationship in one night without having said a single thing you needed to say.
 
-## “Will he leave her?” — and a question you can answer {#kinder-question}
+## “Will he leave her?” — and a question you can answer {#will-he-leave}
 
 With this card, people often ask about the other person. “Will he leave her?” “Why won’t she commit?” “Is he going to change?” It makes sense: when you feel trapped, it’s tempting to believe the key is in someone else’s pocket.
 

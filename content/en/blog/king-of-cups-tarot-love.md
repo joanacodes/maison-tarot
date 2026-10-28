@@ -15,7 +15,7 @@ The King of Cups in love is emotional maturity: someone who feels as much as any
 
 {{< cards "cuki" >}}
 
-## A King, and Fire carried on Water {#lenses-in-love}
+## A King, and Fire carried on Water {#fire-on-water}
 
 His rank is [the King](/library/numerology/king/): outer mastery, decision. Every King looks at the world he manages rather than at his tool, and this one isn’t looking at his cup. The question to ask any King is: for whom? A King of Cups who governs his emotions for the people around him makes a relationship feel safe. One who governs them only for himself keeps everyone at arm’s length.
 

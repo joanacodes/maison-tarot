@@ -15,7 +15,7 @@ Death in a love reading is not a verdict on your relationship. It’s a harvest:
 
 {{< cards "ar13" >}}
 
-## A 4 that knows when to stop {#lenses-in-love}
+## A 4 that knows when to stop {#a-four-that-stops}
 
 Three lenses, read for a relationship. The number: 13 becomes 1 + 3 = 4, the number of foundations — what two people have built, their routines and their agreements. The minus of 4 is carrying on when you should stop, out of habit or stubbornness. Death is the 4 that knows when to stop, so that something can be rebuilt on firmer ground.
 
@@ -55,7 +55,7 @@ It can also be the change in excess. Cutting everything at once — the number, 
 
 **The question for a reversed Death is what you’re holding still, and what it would cost to let it move.** Sometimes the honest answer is “not yet”, and that’s allowed. A harvest has its own timing.
 
-## What grows after it: three neighbours {#neighbours}
+## What grows after it: three neighbours {#what-grows-after}
 
 A card never speaks alone. Three neighbours I see often in love questions:
 

@@ -15,7 +15,7 @@ The Devil in love is about attachment: a desire, a habit or a person that holds 
 
 {{< cards "ar15" >}}
 
-## A 6 gone stale, and Earth that holds {#lenses-in-love}
+## A 6 gone stale, and Earth that holds {#stale-six}
 
 The number: 15 becomes 1 + 5 = 6, the number of the Lovers — which is why the two chained figures look like the couple from that card. Six is harmony and exchange, the machine running fast; its advice in my notes is to stay calm and humble while things go well. The Devil is the 6 that forgot the advice. The exchange still works, so nobody checks its terms any more: the arrangement that suits you both well enough that neither of you asks whether it still suits you.
 

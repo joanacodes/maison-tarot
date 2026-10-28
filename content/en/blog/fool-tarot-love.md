@@ -15,7 +15,7 @@ In love, the Fool is a beginning that nothing justifies yet: a crush, a first da
 
 {{< cards "ar00" >}}
 
-## Zero, Air, and a dog at his heels {#lenses-in-love}
+## Zero, Air, and a dog at his heels {#zero-and-air}
 
 The Fool is zero: the breath before the cycle, the page before the first word. In love, that’s the moment before anything has a name — before “seeing someone”, before “together”. Zero has no fixed place, either. You can put the Fool at the very start, innocence setting out, or at the very end, someone who has been through everything and comes back light. A first relationship and a new one after many can both draw this card; the second kind knows where the cliff is and walks there on purpose.
 

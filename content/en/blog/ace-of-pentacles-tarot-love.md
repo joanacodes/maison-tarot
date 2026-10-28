@@ -15,7 +15,7 @@ The Ace of Pentacles in love is a beginning you can touch. Not fireworks: a seed
 
 {{< cards "peac" >}}
 
-## What a single coin does between two people {#one-coin}
+## What a single coin does between two people {#a-single-coin}
 
 Two lenses do most of the work here. The number is one: the initiator, the rough diamond, the start of a cycle. My note on one gives it humility as advice — get ready to learn — and the lack of it as its minus, whereas we are all students our whole life. In love, that’s the difference between a beginning you explore and a beginning you think you already understand.
 
@@ -41,7 +41,7 @@ Reversed, the same beginning slows down or goes too far. Slowed: the coin is off
 
 In excess, it’s Earth’s stubbornness and one’s missing humility. Holding the coin too tight: possessiveness, a ten-year plan made on the third date, a relationship chosen for comfort rather than for the person. My notes give Earth an archetype that fits this side well: the artist’s manager, steady, working in the shadow, who sometimes won’t listen because his own plan “brings in more”. In a couple, that’s the partner who has the next five years worked out and hasn’t asked whether the other one wants to live in them.
 
-## “Is this the one?” is a lot to ask of one coin {#the-one}
+## “Is this the one?” is a lot to ask of one coin {#too-heavy}
 
 When something finally feels solid, it’s natural to want a guarantee. “Is this the one?” “Will it last?” “Will they propose?” Those questions usually come from someone who has been let down before and would like, this time, to know before they invest.
 

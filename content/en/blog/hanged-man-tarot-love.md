@@ -15,7 +15,7 @@ In love, the Hanged Man is a pause, not a verdict. Something is on hold — a re
 
 {{< cards "ar12" >}}
 
-## A 3 on hold, in still water {#lenses-in-love}
+## A 3 on hold, in still water {#three-on-hold}
 
 The Hanged Man is 12, and 1 + 2 = [3](/library/numerology/number-3/): the machine running, the contract that works. In my notes, the advice of 3 is to finish one project before starting another; its minus is starting something new before the last thing is done. In love, that’s most of the card: don’t rush into the next chapter while this one is still open.
 

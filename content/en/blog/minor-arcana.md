@@ -67,6 +67,8 @@ Read a suit from Ace to Ten and it tells a single story. Cups: a feeling opens, 
 
 Swords tell the mind’s story: a clear idea, a choice put off, a cut, a rest, a clash, a crossing to calmer water, a quiet exit, a trap you could step out of, a nightmare you’re coming out of, and rock bottom with the sky turning yellow behind it.
 
+Wands tell the story of a project: the spark, the plan, the first ships coming back, a place to stand, the scuffle, the public victory, holding your ground, everything speeding up, the bandaged last stretch, and the moment you’re carrying the whole thing on your back. Pentacles tell the story of something you build: a coin to start with, two things juggled, work others recognise, holding on tight, a hard winter, knowing what things are worth, waiting for the harvest, the craft, gratitude, and a home with the whole family in it.
+
 That’s why a spread full of one suit tells you the plane before it tells you anything else; I go through an example in [lots of Cups in a reading](/blog/lots-of-cups-in-a-reading/). And it’s why most of your spreads will be mostly minors: they’re 56 of the 78 cards, so a ten-card spread holds seven of them on average. The minors are where everyday life happens.
 
 ## The court cards: Page, Knight, Queen, King {#court-cards}
@@ -82,9 +84,13 @@ Each suit has four court cards. The rank says how someone acts; the suit says on
 
 The [Page](/library/numerology/page/) learns, watches, tries and carries the message. The [Knight](/library/numerology/knight/) leaves: he has learned what was needed, or thinks he has, and you can read each one by his horse, from the one that rears to the only one standing still. The [Queen](/library/numerology/queen/) doesn’t leave and doesn’t command: she holds, mastery from the inside. The [King](/library/numerology/king/) decides, then answers for it. The question to ask every King is: for whom?
 
+The double element explains a lot of the keywords. The King of Swords is Fire of Air: a mind that decides, and decides fast, which is why he makes the call nobody else will. The Knight of Wands is Air of Fire, wind on a flame: the departure before the plan. The Page of Pentacles is Earth of Earth, the most concrete of the sixteen: the student who learns by doing. The Queen of Cups is Water of Water, feeling held inside feeling.
+
 ## Reading a minor card in thirty seconds {#how-to-read}
 
 Number first, suit second, drawing third. Say someone draws the Seven of Pentacles. Seven: reflection, patience, the harvest. Pentacles: Earth, work, something concrete. The drawing: a man leaning on his hoe, looking at what’s growing. Out loud, that becomes: “You’ve done the work. Now it needs time, and checking it every morning won’t make it grow faster.” Then you ask whether that lands — and if it doesn’t, you write it down as a miss.
+
+Reversed, a minor stays in its cell: the same stage on the same plane, slowed down, blocked or overdone. The Eight of Wands that can’t take off; the Four of Pentacles gripping even tighter, or finally letting go. You don’t need a second grid.
 
 When the minors sit next to majors, the [22 major arcana](/blog/major-arcana/) give the theme while the minors give the detail.
 
