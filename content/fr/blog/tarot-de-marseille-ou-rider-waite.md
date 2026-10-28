@@ -25,7 +25,7 @@ Petite parenthèse : pour beaucoup de Français, « le tarot », c’est d’abo
 
 ## Qu’est-ce que le Rider-Waite-Smith ? {#le-rider-waite-smith}
 
-Le Rider-Waite-Smith est le jeu publié à Londres en 1909 par la maison Rider, conçu sous la direction d’Arthur Edward Waite et dessiné par [Pamela Colman Smith](/fr/bibliotheque/figures-du-tarot/pamela-colman-smith/). Il garde la structure de 78 cartes et transforme complètement les mineurs : chacun des 56 a sa scène, avec des personnages en action.
+Le Rider-Waite-Smith est le jeu publié à Londres en 1909, dessiné par Pamela Colman Smith sous la direction d’Arthur Edward Waite. À qui appartiennent les trois noms, et comment il est devenu la référence, c’est [une histoire à part](/fr/blog/tarot-rider-waite-smith/). Ce qui compte ici : il garde la structure de 78 cartes et transforme complètement les mineurs. Chacun des 56 a sa scène, avec des personnages en action.
 
 Ses familles sont les Bâtons, les Coupes, les Épées et les Pentacles. Le Huit de Coupes y montre un personnage en manteau rouge qui s’éloigne de huit coupes empilées, vers les montagnes, sous la lune. Vous comprenez qu’on laisse quelque chose derrière soi avant d’avoir compté.
 

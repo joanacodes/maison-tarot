@@ -15,11 +15,11 @@ Les 22 arcanes majeurs sont les grandes scènes du jeu, du Mat qui prend la rout
 
 ## Comment fonctionnent les arcanes majeurs {#comment-ils-fonctionnent}
 
-Les majeurs sont les 22 atouts du tarot : les lames qui portent un nom, un numéro et une scène, mais n’appartiennent à aucune famille. Dans un tirage, ils portent les grands thèmes — un départ, un choix, une fin, un renouveau —, tandis que les mineurs portent le détail du quotidien.
+Les majeurs sont les 22 atouts du tarot : les lames qui ont un nom, un numéro et une scène, mais n’appartiennent à aucune famille. Dans un tirage, ils portent les grands thèmes — un départ, un choix, une fin, un renouveau —, tandis que les mineurs donnent le détail du quotidien.
 
 Leurs numéros racontent une histoire, et il est utile d’en connaître la forme. De 0 à 6, du Mat aux Amoureux, le jeu pose les outils : un départ, un savoir-faire, une intuition, une mère, un père, un maître, un choix. De 7 à 13, du Chariot à la Mort, il met à l’épreuve ce qui a été bâti : la volonté, le courage, la solitude, la chance, l’équité, l’attente, les fins. De 14 à 21, de Tempérance au Monde, il va de l’ombre la plus profonde à la lumière la plus large, et finit là où tout se rassemble.
 
-Cet arc permet de garder les 22 lames en tête comme une seule histoire plutôt que comme 22 faits isolés. Un tirage ne les sort jamais dans l’ordre : ne le lisez pas comme un calendrier.
+Cet arc permet de garder les 22 lames en tête comme une seule histoire plutôt que comme 22 faits isolés. Un tirage ne les sort jamais dans l’ordre : ne prenez donc pas cet arc pour un calendrier.
 
 **Chaque lame a un plus et un moins, et les clés de lecture vous montrent les deux.** Dans mes notes, le Jugement n’est ni bon ni mauvais, et la Mort n’est pas forcément mauvaise non plus : même le dessin le plus sombre a son plus.
 
@@ -30,7 +30,7 @@ Je lis chaque majeur avec les mêmes clés que le reste du jeu. Les deux premiè
 1. Le nombre. Les lames 0 à 10 se placent directement sur le [cycle des nombres](/fr/bibliotheque/numerologie/), du départ (1) au couloir entre deux pièces (10). De 11 à 21, on additionne les chiffres : 13 donne 1 + 3 = 4, 18 donne 9. La lame joue alors son nombre sur une scène plus grande.
 2. L’élément. Chaque majeur a le Feu, l’Eau, l’Air ou la Terre — les mêmes [quatre éléments](/fr/bibliotheque/quatre-elements/) que les familles des mineurs. Le Feu agit, l’Eau ressent, l’Air pense et tranche, la Terre construit et garde.
 3. L’astrologie. À la fin du XIXe siècle, la Golden Dawn a donné à chaque majeur un signe, une planète ou un élément ; les astrologues modernes ont ajouté plus tard Uranus, Neptune et Pluton. L’[astrologie](/fr/bibliotheque/astrologie/) est une clé en plus : gardez-la si elle vous parle.
-4. L’énergie. [Féminin et masculin](/fr/bibliotheque/energies-feminine-masculine/feminin-masculin/), ici, ne parlent pas des femmes et des hommes. Le féminin garde, attend, imagine, travaille en coulisses ; le masculin agit, se montre, construit, décide vite. Nous portons tous les deux.
+4. L’énergie. [Féminin et masculin](/fr/bibliotheque/energies-feminine-masculine/feminin-masculin/), ici, ne parlent pas des femmes et des hommes. Le féminin garde, attend, imagine, travaille en coulisses ; le masculin agit, se montre, construit, décide vite. Chacun de nous porte les deux.
 
 Ensuite, regardez le dessin. Pamela Colman Smith a donné une scène à chaque lame en 1909, et la page de chaque lame la lit avec vous.
 
@@ -75,39 +75,39 @@ Une précaution avant de commencer. Au tarot de Marseille, la Force porte le 11 
 
 ### 1 : le Magicien, la Roue de Fortune, le Soleil {#les-un}
 
-Le un, c’est l’initiateur, le diamant brut du début de cycle. Le Magicien a tous ses outils sur la table. La Roue, dans mes notes, dit que c’est à vous de la tourner : la chance, ça se provoque. Le Soleil fait 19, 10, puis 1 : il ferme un cycle en pleine lumière et ouvre le suivant. Leur moins commun est celui du 1 : le manque d’humilité, alors que nous restons élèves toute notre vie.
+Un, c’est l’initiateur, le diamant brut du début de cycle. Le Magicien a tous ses outils sur la table. La Roue, dans mes notes, dit que c’est à vous de la tourner : la chance, ça se provoque. Le Soleil fait 19, 10, puis 1 : il ferme un cycle en pleine lumière et ouvre le suivant. Leur moins commun est celui du 1 : le manque d’humilité, alors que nous restons élèves toute notre vie.
 
 ### 2 : la Grande Prêtresse, la Justice, le Jugement {#les-deux}
 
-Le deux, c’est le lien, le contrat, peser le pour et le contre. La Grande Prêtresse et la Justice siègent toutes deux entre deux piliers : l’une garde ce qu’elle sait, l’autre le pèse. Le Jugement est un nouvel accord avec votre propre passé. Leur moins est celui du 2 : l’entêtement, et le mental qui prend toute la place.
+Deux, c’est le lien, le contrat, peser le pour et le contre. La Grande Prêtresse et la Justice siègent toutes deux entre deux piliers : l’une garde ce qu’elle sait, l’autre le pèse. Le Jugement est un nouvel accord avec votre propre passé. Leur moins est celui du 2 : l’entêtement, et le mental qui prend toute la place.
 
 ### 3 : l’Impératrice, le Pendu, le Monde {#les-trois}
 
-Le trois, c’est la machine qui tourne bien, le projet qui marche. L’Impératrice nourrit et fait pousser ; le Pendu suspend le rythme pour mieux repartir ; le Monde, dans mes notes, c’est l’action menée par l’ensemble, les deux mains au travail. Le conseil du 3 va aux trois : terminez un projet avant d’en commencer un autre.
+Trois, c’est la machine qui tourne bien, le projet qui marche. L’Impératrice nourrit et fait pousser ; le Pendu suspend le rythme pour mieux repartir ; le Monde, dans mes notes, c’est l’action menée par l’ensemble, les deux mains au travail. Le conseil du 3 va aux trois : terminez un projet avant d’en commencer un autre.
 
 ### 4 : l’Empereur et la Mort {#les-quatre}
 
-Le quatre, c’est la structure, la maison debout, le fruit du travail. L’Empereur la bâtit et donne les ordres — et, dans mes notes, il peut aussi tout détruire, comme le feu. La Mort répond au moins du 4, continuer alors qu’il faudrait s’arrêter : c’est la récolte, on coupe ce qui est mûr pour pouvoir ressemer le champ.
+Quatre, c’est la structure, la maison debout, le fruit du travail. L’Empereur la bâtit et donne les ordres — et, dans mes notes, il peut aussi tout détruire, comme le feu. La Mort répond au moins du 4, continuer alors qu’il faudrait s’arrêter : c’est la récolte, on coupe ce qui est mûr pour pouvoir ressemer le champ.
 
 ### 5 : le Hiérophante et Tempérance {#les-cinq}
 
-Le cinq, c’est l’épreuve : essayer, faire avec, ne pas avoir peur d’échouer. Chez le Hiérophante, c’est la règle qui est mise à l’épreuve — la suivre, la questionner, la dépasser. Tempérance traite l’épreuve par le dosage : elle verse jusqu’à trouver la juste mesure, et met de l’eau dans son vin au sens propre. Le conseil du 5 : évitez les combats inutiles, et soyez honnête avec vous-même.
+Cinq, c’est l’épreuve : essayer, faire avec, ne pas avoir peur d’échouer. Chez le Hiérophante, c’est la règle qui est mise à l’épreuve — la suivre, la questionner, la dépasser. Tempérance traite l’épreuve par le dosage : elle verse jusqu’à trouver la juste mesure, et met de l’eau dans son vin au sens propre. Le conseil du 5 : évitez les combats inutiles, et soyez honnête avec vous-même.
 
 ### 6 : les Amoureux et le Diable {#les-six}
 
-Le six, c’est l’harmonie et la réussite, la machine lancée à pleine vitesse. Le Diable est dessiné en écho aux Amoureux : deux personnages sous une figure plus grande. D’un côté, un choix fait les yeux ouverts ; de l’autre, un choix qui a durci en attachement, avec des chaînes assez lâches pour qu’on les retire.
+Six, c’est l’harmonie et la réussite, la machine lancée à pleine vitesse. Le Diable est dessiné en écho aux Amoureux : deux personnages sous une figure plus grande. D’un côté, un choix fait les yeux ouverts ; de l’autre, un choix qui a durci en attachement, avec des chaînes assez lâches pour qu’on les retire.
 
 ### 7 : le Chariot et la Tour {#les-sept}
 
-Le sept, c’est la réflexion, l’analyse avant l’action, et le rappel que tout est temporaire. Dans mes notes, le Chariot reçoit ses ordres : il attend l’appel avant de bouger. La Tour, c’est ce qui arrive à un bâtiment que personne n’a vérifié. Le conseil du 7 vaut pour les deux : votre situation, bonne ou mauvaise, va changer.
+Sept, c’est la réflexion, l’analyse avant l’action, et le rappel que tout est temporaire. Dans mes notes, le Chariot reçoit ses ordres : il attend l’appel avant de bouger. La Tour, c’est ce qui arrive à un bâtiment que personne n’a vérifié. Le conseil du 7 vaut pour les deux : votre situation, bonne ou mauvaise, va changer.
 
 ### 8 : la Force et l’Étoile {#les-huit}
 
-Le huit, c’est la maîtrise, et une porte entre le tangible et l’intangible ; couchez-le et vous obtenez le signe de l’infini qui flotte au-dessus de la tête de la Force. La Force maîtrise le lion sans forcer. L’Étoile verse une cruche sur la terre et l’autre dans l’eau, dans les deux mondes à la fois.
+Huit, c’est la maîtrise, et une porte entre le tangible et l’intangible ; couché, le 8 devient le signe de l’infini qui flotte au-dessus de la tête de la Force. Elle maîtrise le lion sans forcer. L’Étoile verse une cruche sur la terre et l’autre dans l’eau, dans les deux mondes à la fois.
 
 ### 9 : l’Ermite et la Lune {#les-neuf}
 
-Le neuf, c’est la ligne d’arrivée d’une étape : l’introspection, la patience, les derniers efforts — mais on continue d’avancer. L’Ermite a gravi seul sa montagne, la lanterne levée ; le chemin de la Lune s’enfonce dans le brouillard. Tous deux vous demandent de continuer avant d’en voir le bout.
+Neuf, c’est la ligne d’arrivée d’une étape : l’introspection, la patience, les derniers efforts — mais on continue d’avancer. L’Ermite a gravi seul sa montagne, la lanterne levée ; le chemin de la Lune s’enfonce dans le brouillard. Tous deux vous demandent de continuer avant d’en voir le bout.
 
 ### 0 : le Mat {#le-zero}
 
