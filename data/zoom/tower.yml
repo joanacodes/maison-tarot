@@ -1,17 +1,17 @@
 # Gros plans de la tour (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
 - card: pe10
   box: [0.594, 0.236, 0.774, 0.47]
-  en: "x"
-  fr: "x"
+  en: "The tall square tower rising behind the man and woman"
+  fr: "La haute tour carrée qui s’élève derrière l’homme et la femme"
 - card: wa04
   box: [0.36, 0.415, 0.68, 0.62]
-  en: "x"
-  fr: "x"
+  en: "The round tower with a red pointed roof, above the raised bouquets"
+  fr: "La tour ronde au toit rouge pointu, au-dessus des bouquets levés"
 - card: ar18
   box: [0.03, 0.31, 0.25, 0.58]
-  en: "x"
-  fr: "x"
+  en: "One of the Moon’s two grey towers, on the left of the card"
+  fr: "L’une des deux tours grises de la Lune, à gauche de la carte"
 - card: ar13
   box: [0.745, 0.30, 0.955, 0.46]
-  en: "x"
-  fr: "x"
+  en: "Two grey towers on the horizon, a sun between them"
+  fr: "Deux tours grises à l’horizon, un soleil entre elles"
