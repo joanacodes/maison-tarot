@@ -47,7 +47,7 @@ In practice, that means no instructions — no “leave him”, no “take the j
 
 A guru has an answer for everything. A reader knows where their answers stop.
 
-Some of what people bring isn’t a question for cards at all. Grief that won’t move, a fear that keeps someone awake, a health worry, a court case. I don’t read on those, and I say why: a wrong word there does damage, and there are people trained for exactly that. Tarot should never replace therapy, or become a circle of dependency, for the reader or for the person.
+Some of what people bring isn’t a question for cards at all. A health worry, a court case, a money decision: I don’t read on those, and I say why. A wrong word there does damage, and there are people trained for exactly that. Grief that won’t move, or a fear that keeps someone awake night after night, is often a therapist’s door rather than mine. Tarot should never replace therapy, or become a circle of dependency, for the reader or for the person.
 
 So I point to the right door — a doctor, a lawyer, a therapist — without making anyone feel sent away. My page on [when a therapist is the better door](/disclaimers/#therapy) says it more fully.
 

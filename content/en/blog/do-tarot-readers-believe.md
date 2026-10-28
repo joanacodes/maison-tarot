@@ -33,7 +33,7 @@ And I don’t claim to know how it works. Nobody does, including the people who 
 
 ## What I do believe, because I counted {#what-i-counted}
 
-I came to all this as a sceptic. I put on an astrology video to laugh at it, read my own chart, and found it too precise for comfort. So I tested it box by box, then on family, friends and strangers. Overall about 30 to 40% held, and Saturn, Lilith and Chiron held at 75 to 90%. The whole test is in [I tested my birth chart box by box](/blog/i-tested-my-birth-chart/).
+I came to all this as a sceptic: I put on an astrology video to laugh at it, and ended up testing my own chart box by box. That story, numbers included, is in [can a sceptic learn tarot?](/blog/can-a-sceptic-learn-tarot/)
 
 I did the same with tarot. I read for strangers who told me nothing and wrote down, every time, what I’d said and what they confirmed. About nine readings in ten held. About one in ten missed, and I say so. The misses are the part I trust most: a reader who can’t tell you how often they’re wrong is asking you to take everything else on faith.
 
@@ -41,9 +41,11 @@ So what I believe in is a rate, under conditions. It’s a manual count, not a s
 
 ## The things I can’t explain {#what-i-cant-explain}
 
-Some things have happened that a count doesn’t cover. After I’d read for a friend, I felt someone with me at home: her grandfather, a strict Japanese man with a lot of love in him. I told him I didn’t want anyone in my house, adding “sir”. He seemed to speak Japanese, so I drew what came instead: the number five, again and again, and “under the house”. My friend went down to storage cell number five in her building’s basement, which wasn’t hers and was already open, and found it full of paint pots. That was the whole message: there’s a lot of paint in cell five. I tell it in full in [is tarot evil?](/blog/is-tarot-evil/)
+Some things have happened that a count doesn’t cover. After I’d read for a friend, I felt her grandfather with me at home, and what came, drawn again and again, was the number five and “under the house”. My friend found storage cell number five in her building’s basement open, and full of paint pots. That was the whole message. I tell it in full in [is tarot evil?](/blog/is-tarot-evil/)
 
 I can’t explain it, and I don’t build anything on it. It wasn’t a prophecy; it was paint. My working definition of [magic](/blog/what-is-magic/) fits here: the things we know exist but are unable to explain.
+
+Anything like that, anything I can’t check, goes on a shelf in my head labelled “sceptical, but if it happens, I was warned”. It’s a way of keeping an impression without believing it and without throwing it away. It never goes into someone’s lap as a forecast.
 
 That’s as close to belief as I get. Not faith, not dismissal: an honest “I don’t know”, with the evidence kept on the table.
 

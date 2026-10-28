@@ -49,11 +49,11 @@ The [events](/events/) are free. At online reading nights, a few people are draw
 
 For a reader, watching teaches as much as reading. You see someone handle a hard card, a miss or a question they don't read on, in real time. And sitting in the other chair now and then reminds you what it feels like to be read. If you're thinking of reading for a group yourself, [what changes when twenty people are watching](/blog/reading-tarot-in-public/) is the companion piece.
 
-## What I wish I'd had when I started {#when-i-started}
+## How I learnt, and why this place looks the way it does {#when-i-started}
 
-I started reading on 26 December 2020, with a deck my friends had given me. Within a few months I was reading for strangers: in a Discord group I'd found through Tumblr, in Facebook tarot groups, and by letter on a pen-pal app. I learnt by reading for people who told me nothing and writing down what held. [Where to find people to read for](/blog/where-to-find-people-to-read-for/) has the practical side of that.
+I started reading on 26 December 2020, with a deck my friends had given me. My first reading was accurate, which surprised me; I'd expected to need training first. Within a few months I was reading for strangers: in a Discord group I'd found through Tumblr, in Facebook tarot groups, and by letter on a pen-pal app. [Where to find people to read for](/blog/where-to-find-people-to-read-for/) has the practical side of that.
 
-{{< todo >}}Add here: what you wish had existed for readers when you started in 2020, in a sentence or two.{{< /todo >}}
+I learnt by reading for people who told me nothing and writing down what held. Most of what Maison Tarot offers readers is that same set-up, gathered in one place: strangers who say nothing first at the events, a notebook to count in, and a room of other readers at a workshop who can tell you what landed.
 
 ## Where to start if you already read {#start}
 

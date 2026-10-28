@@ -17,8 +17,6 @@ The strangest things that happened in my readings weren’t spectacular. A one-l
 
 One of the reviews I received on Facebook says the person got chills when I mentioned spells.
 
-{{< todo >}}Add here: what came up about spells in that reading, if you remember it{{< /todo >}}
-
 I like it because it’s so specific. Not “great reading”, not “very accurate”: one word, out of the hundreds said in a reading, that landed hard enough to write down afterwards.
 
 That’s a strange thing to see from the reader’s side. You say what comes, in order, without knowing which sentence will matter. Then someone tells you, and it’s often a sentence you’d have called a detail. It’s a good reason not to trim what you receive. The part that sounds odd to you may be the only part that was for them.
@@ -59,7 +57,7 @@ My father calling my name from another country: [the night I heard him](/blog/fa
 
 ## What these stories don’t prove {#what-they-dont-prove}
 
-They don’t prove that tarot predicts, or that I’m special. About one reading in ten missed, by my own count, and most misses stayed misses. I wouldn’t turn a miss into “wait and see”; the one that came true later is the exception that makes a good story, not the rule.
+They don’t prove that tarot predicts, or that I’m special. About one reading in ten missed, by my own count, and a miss stays a miss in my notebook. I wouldn’t turn one into “wait and see”; the one that came true later is the exception that makes a good story, not the rule.
 
 A story is memorable because it’s unusual. The ordinary readings, the ones that landed quietly or missed quietly, don’t make articles, and they’re most of the work. So take these for what they are: things that happened to one reader. Don’t take my words as ultimate truth. Test it and experience it for yourself.
 

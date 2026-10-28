@@ -13,19 +13,19 @@ summary: "The silence rule is this: the person I read for tells me nothing befor
 ---
 When someone sits down across from me for a reading, I ask them for one thing: tell me nothing. No question, no context, no "it's about work". I draw, I talk, and only afterwards does the person tell me whether it held.
 
-It isn't a reader's affectation. It's the part of my method that stops me lying to myself.
+It's the part of my method that stops me lying to myself.
 
 ## What the silence rule is {#the-rule}
 
 It's quick to describe and hard to keep. The person shuffles, or lets me shuffle, I draw one card or several, and I say what I see. They listen with as little reaction as they can manage. At the end it's their turn: this was right, this wasn't.
 
-Online it's stricter still. On a Discord server or a group call I often have a username and a voice, nothing more. I don't know if the person is twenty or sixty, in a relationship, or just handed in their notice. I prefer it that way.
+Online it's stricter still: on a Discord server or a group call I often have a username and a voice, nothing more. I don't know if the person is twenty or sixty, in a relationship, or just handed in their notice, and I prefer it that way.
 
 **The silence isn't there to impress; it's there so the confirmation afterwards is worth something.** If you tell me "I'm wondering whether to leave my job" and I then talk about a career change, I haven't read anything. I've paraphrased.
 
 ## Why I don't want to know anything first {#why}
 
-Because I'm like everyone else: give me one piece of information and my brain builds a story around it, fast. One sentence of context and every card starts confirming what I've just heard. The Three of Swords becomes the break-up you mentioned. The Eight of Pentacles becomes the job you're unsure about. It's comfortable, it sounds right, and it proves nothing.
+Because I'm like everyone else: give me one piece of information and my brain builds a story around it, fast. One sentence of context and every card starts confirming what I've just heard. The Three of Swords becomes the break-up you mentioned. It's comfortable, it sounds right, and it proves nothing.
 
 That's exactly the mechanism sceptics point to when they talk about cold reading, and they're right to. A reader who asks ten questions before opening the deck is doing active listening, not tarot. That isn't dishonest in itself, but it shouldn't be called a reading.
 
@@ -33,19 +33,15 @@ The silence rule takes that tool away from me. What's left is the card, its colo
 
 ## What happened the first time {#first-time}
 
-My very first reading for a stranger happened this way, almost by accident. It was on a Discord server I'd found through Tumblr. I offered to read, someone said yes, and I had nothing to go on but a username.
+My very first reading for a stranger happened this way, on a Discord server I'd found through Tumblr. I had nothing to go on but a username. What came out was a story about a relationship, with an unflattering detail: she hadn't been very kind to the other person. She told me, politely, that it didn't resonate; she wasn't looking for a relationship. Three or four days later she messaged me, shaken. All of it had happened, the unkind part included.
 
-What came out was a story about a relationship, with an unflattering detail: she hadn't been very kind to the other person. She told me, politely, that it didn't resonate; she wasn't looking for a relationship. I noted it as a miss and moved on.
-
-Three or four days later she messaged me, shaken. All of it had happened. Including the part where she hadn't been kind.
-
-What I take from it isn't that I was right; I could as easily have been wrong. It's that if she'd told me at the start "I'm not looking for a relationship", I would never have said what I said. I'd have adjusted, softened it, looked for something else in the cards. The silence let me say what came up. I've written [a separate piece about that reading](/blog/first-tarot-reading-story/), because it fixed the rule for me.
+The lesson isn't that I was right; I could as easily have been wrong. It's that if she'd told me at the start "I'm not looking for a relationship", I would never have said what I said. I'd have softened it and looked for something else in the cards. The silence let me say what came up, and [that reading](/blog/first-tarot-reading-story/) is the one that fixed the rule for me.
 
 ## "But how can you answer my question?" {#your-question}
 
-It's the objection I hear most often, and it's a fair one. If you come with a specific question and I won't hear it, how can the reading answer it?
+It's the objection I hear most often, and it's fair: if I won't hear your question, how can the reading answer it?
 
-My answer, after a few years of this: the card rarely talks about something else. When someone sits down with a worry filling their head, that's what comes out. I don't need to be told for it to happen; I need not to be told, to be sure it happened on its own.
+My answer: the card rarely talks about something else. When someone sits down with a worry filling their head, that's what comes out. I don't need to be told for it to happen; I need not to be told, to be sure it happened on its own.
 
 And when it doesn't come out, that's information too. Sometimes a person comes about their relationship and the reading talks about their father. They protest, then they think, then they admit the two are connected. I'd never have taken that detour if they'd asked their question first. It's also why, when people ask me [which questions to bring to tarot](/blog/questions-to-avoid-asking-tarot/), my answer is often: none.
 
@@ -55,9 +51,9 @@ And when it doesn't come out, that's information too. Sometimes a person comes a
 
 Let's be honest about the limits, because a rule nobody questions turns into dogma.
 
-The silence doesn't make a reading right. By my own count, roughly one reading in ten misses, silence or not. What it does is make the miss visible: when the person says "no, none of that", I have nothing left to save face with. [I say "that one's a miss"](/blog/tarot-reading-wrong/), I write it down, and I don't draw a clarifier card.
+The silence doesn't make a reading right. Misses happen with it as without it, and my count of them is on [the method page](/method/). What the silence does is make the miss visible: when the person says "no, none of that", I have nothing left to save face with. [I say "that one's a miss"](/blog/tarot-reading-wrong/), I write it down, and I don't draw a clarifier card.
 
-Nor does the silence change the subjects I don't read on. If, halfway through a reading, I sense it drifting towards health, a death, a pregnancy, an ongoing court case or a money decision, I stop, gently, and say why. I can't know in advance, since I've been told nothing; I find out on the way, and step back exactly as [I would if I'd known from the start](/disclaimers/#refusals). The silence is not a licence to go anywhere.
+Nor does it change the subjects I don't read on. If a reading drifts towards health, a death, a pregnancy, an ongoing court case or a money decision, I stop, gently, and say why. I find out on the way rather than in advance, and step back exactly as [I would if I'd known from the start](/disclaimers/#refusals). The silence is not a licence to go anywhere.
 
 And it doesn't protect the person from themselves. Someone who nods at every sentence, sighs, laughs at the right moment, gives me as much information as a speech would. I tell them kindly: poker face, and we'll compare afterwards. Some people can't. That's fine; I note that too.
 

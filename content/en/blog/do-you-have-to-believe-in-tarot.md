@@ -39,11 +39,11 @@ What tends to close a reading, in my experience, isn’t doubt. It’s fear. Som
 
 ## Does the reader have to believe? {#the-reader}
 
-Not in the way people usually mean. I started reading on 26 December 2020, expecting to need months of training before anything landed. My first reading was accurate. I hadn’t believed it would be; it happened anyway.
+Not in the way people usually mean. I started reading on 26 December 2020, expecting to need training before anything landed. My first reading was accurate. I hadn’t believed it would be; it happened anyway.
 
 Before every reading now, I tell myself: *I’m about to talk nonsense.* The lower I set the expectation, the more accurate it gets. A reader who is sure of their gift tends to start rescuing readings instead of saying what comes.
 
-I don’t know how tarot works. I’ve laid out [the four explanations people give](/blog/how-does-tarot-work/), and I don’t need any of them to read. What I have instead of belief is a count, misses included. If you’re a sceptic wondering whether you could learn anyway, I came to astrology to laugh at it, and I tell that story in [can a sceptic learn tarot](/blog/can-a-sceptic-learn-tarot/).
+What I have instead of belief is a count, misses included. Readers differ widely on what they believe, and I’ve set out [where I stand, and what to ask any reader instead](/blog/do-tarot-readers-believe/), separately. If you’re a sceptic wondering whether you could learn anyway, I came to astrology to laugh at it, and I tell that story in [can a sceptic learn tarot](/blog/can-a-sceptic-learn-tarot/).
 
 ## When believing too much is the problem {#too-much-belief}
 

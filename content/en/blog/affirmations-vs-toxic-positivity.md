@@ -47,7 +47,7 @@ Five questions. You’ll usually know by the second.
 
 ## What tarot taught me about this {#tarot}
 
-Every card has a plus and a minus. It’s the first thing I teach, and the best protection I know against painting every reading pink.
+Every card has a plus and a minus. It’s the first line of my card notes, and the best protection I know against painting every reading pink.
 
 Take [the Five of Cups](/library/tarot-cards/five-of-cups/), which I consider the most negative card in the deck: losing, a dark emotion, being alone with your problems. A toxic-positive reading jumps straight to the two cups still standing behind the figure. An honest one names the three spilled cups first, stays there long enough for the person to feel heard, and only then turns round.
 
