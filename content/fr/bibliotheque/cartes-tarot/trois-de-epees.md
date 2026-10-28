@@ -1,7 +1,7 @@
 ---
 title: 'Trois d’Épées (Three of Swords) — tarot Rider-Waite-Smith : lire la carte
   par ses clés de lecture'
-description: 'Le Trois d’Épées du tarot Rider-Waite-Smith : un cœur percé de trois épées sous la pluie. Le chagrin, lu avec douceur par le nombre, l’Air, les couleurs et le pacte.'
+description: 'Le Trois d’Épées au tarot Rider-Waite-Smith : un cœur percé sous la pluie. Le chagrin, en amour comme au travail, lu avec douceur par le nombre, l’Air et le pacte.'
 translationKey: card-sw03
 type: cards
 navTitle: Trois d’Épées
@@ -33,6 +33,8 @@ faq:
   a: 'La même peine, gardée pour soi ou ressassée : un chagrin dont personne ne parle, une scène qu’on rejoue sans cesse. La question qu’elle pose : à qui pourriez-vous en parler ?'
 - q: 'Que signifie le Trois d’Épées en amour ?'
   a: 'Un chagrin d’amour, une déception, parfois une troisième personne dans le tableau. La carte décrit ce qui fait mal maintenant ; elle ne dit pas si la relation se termine ou se répare.'
+- q: 'Que dit le Trois d’Épées pour le travail ?'
+  a: 'Une blessure qui passe par le travail : une critique trop dure, une trahison, une décision prise sans vous, une équipe qui se défait. Il nomme la douleur sans dire qui voulait quoi, et demande de quoi vous avez besoin : le dire, vous reposer ou demander de l’aide.'
 categories:
 - Épées
 tags:
@@ -75,11 +77,23 @@ Un cœur transpercé sur une carte n’annonce ni un problème cardiaque ni la m
 
 Renversé, la même peine est gardée pour soi : la blessure dont personne ne parle, le chagrin ravalé pour tenir. Ou bien elle déborde — la scène rejouée encore et encore, les épées retirées puis renfoncées. Dans les deux cas, la question est la même : à qui pourriez-vous dire tout ça ?
 
-À côté du [Trois de Coupes](/fr/bibliotheque/cartes-tarot/trois-de-coupes/), le triangle se voit : trois personnes, dont une qui souffre. À côté du [Six d’Épées](/fr/bibliotheque/cartes-tarot/six-de-epees/), la traversée a commencé, et la peine reste derrière, doucement. À côté de l’[Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/), la pluie s’est arrêtée et quelqu’un verse de nouveau de l’eau : réparer est possible, à son rythme. J’en dis plus sur [le Trois d’Épées en amour](/fr/blog/trois-depees-amour/) et sur [ce qu’il raconte du travail](/fr/blog/trois-depees-travail/).
+À côté du [Trois de Coupes](/fr/bibliotheque/cartes-tarot/trois-de-coupes/), le triangle se voit : trois personnes, dont une qui souffre. À côté du [Six d’Épées](/fr/bibliotheque/cartes-tarot/six-de-epees/), la traversée a commencé, et la peine reste derrière, doucement. À côté de l’[Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/), la pluie s’est arrêtée et quelqu’un verse de nouveau de l’eau : réparer est possible, à son rythme. J’en dis plus sur [le Trois d’Épées en amour](/fr/blog/trois-depees-amour/).
 
 {{< cards "cu03 sw06 ar17" >}}
 
 **Le Trois d’Épées montre la blessure, pas la fin.**
+
+## Au travail {#au-travail}
+
+Au travail, cette blessure arrive souvent par des mots : une critique trop dure, une remarque en réunion, un collègue qui répète ce que vous lui aviez confié. Parfois, c’est votre propre décision : quitter un poste que vous aimiez, parce qu’il avait cessé de vous le rendre. Un 3 au travail, c’est l’équipe qui tourne ; son moins, dans mes notes, c’est aussi lancer de nouveaux projets avant d’avoir fini les autres, ce qui fait éclater bien des équipes. Et le pacte de sang existe au bureau aussi : des collègues sortis plus soudés d’une crise traversée ensemble.
+
+Renversé au travail, la douleur est rentrée — « Ça va, c’est que le boulot », dit les dents serrées pendant des mois — ou le mail est relu jusqu’à le connaître par cœur.
+
+On demande : « Mon chef est-il contre moi ? L’a-t-il fait exprès ? » Se sentir en insécurité au travail est épuisant ; je comprends qu’on veuille savoir. Je ne lis pas là-dessus : le collègue n’est pas dans la pièce et [n’a pas accepté d’être lu](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/), et une carte à qui l’on demande « est-il contre moi ? » répond avec votre peur : lundi, vous serez encore plus sur vos gardes. Une question plus douce : « Qu’est-ce que cette phrase a touché en moi, et de quoi ai-je besoin maintenant — le dire, me reposer, ou demander de l’aide ? » Parler, rester ou partir, c’est à vous de le peser. Je lis ; vous décidez.
+
+Si la blessure se répète — humiliations, pression, toujours la même personne visée —, ce n’est plus l’affaire d’une carte. Parlez-en aux RH, à un représentant du personnel ou à la médecine du travail, et à un avocat pour le droit ; une procédure en cours, aux prud’hommes ou ailleurs, je ne lis pas dessus. Si ça vous suit chaque soir chez vous, un médecin ou un thérapeute est la bonne porte.
+
+Cette semaine, avant de répondre à quiconque, notez exactement ce qui a été dit, puis ce que vous avez entendu. C’est souvent différent.
 
 ## Exemple de tirage {#exemple}
 

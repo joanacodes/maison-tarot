@@ -1,6 +1,6 @@
 ---
 title: 'Le Soleil (The Sun) — tarot Rider-Waite-Smith : lire la carte par ses clés de lecture'
-description: 'Le Soleil au tarot, lu par ses clés de lecture : 19 qui devient 10, le Feu, le jaune et le Soleil lui-même — la joie, la réussite, et comment la lire honnêtement.'
+description: 'Le Soleil au tarot par ses clés : 19 qui devient 10, le Feu, le jaune, le Soleil lui-même — la joie, la réussite au travail, et comment la lire honnêtement.'
 translationKey: card-ar19
 type: cards
 navTitle: Le Soleil
@@ -31,6 +31,8 @@ faq:
   a: 'Renversé, le Soleil, c’est la même lumière retenue, une réussite qu’on ne s’autorise pas à savourer, ou poussée à l’excès, quand être vu devient le but. La bonne nouvelle est toujours là ; la question est ce que vous en faites.'
 - q: 'Le Soleil annonce-t-il une grossesse ?'
   a: 'Je comprends que l’enfant de la carte fasse poser la question, souvent par espoir ou par inquiétude. Une carte ne peut pas vous le dire, et je ne lis pas sur la grossesse : un médecin ou un test sont les bons outils. Ce que le Soleil peut porter, c’est la joie et la chaleur autour de ce que vous espérez.'
+- q: 'Que dit Le Soleil pour le travail ?'
+  a: 'Une réussite qu’on peut savourer au grand jour : un projet qui marche, une reconnaissance après un long effort, un travail qu’on peut montrer sans rien cacher. Il ne promet ni promotion ni augmentation ; il vous demande de remarquer le bon moment et de remercier ceux qui ont aidé.'
 categories:
 - Arcane majeur
 tags:
@@ -75,7 +77,17 @@ Certaines personnes voient l’enfant et demandent si la carte annonce une gross
 
 {{< cards "ar18 wa06 ar10" >}}
 
-**Le Soleil ne vous demande pas de mériter le bon moment ; il vous demande de le remarquer.** Pour les questions de travail, j’ai écrit sur [le Soleil dans un tirage professionnel](/fr/blog/le-soleil-tarot-travail/).
+**Le Soleil ne vous demande pas de mériter le bon moment ; il vous demande de le remarquer.**
+
+## Au travail {#au-travail}
+
+Au travail, le Soleil, c’est le moment où quelque chose marche et où ça se voit : un lancement réussi, une présentation où la salle se penche en avant, un client qui dit oui et en parle autour de lui, une reconnaissance après un long effort. Parfois, c’est plus discret et plus rare : aimer son travail, et être content le lundi matin. Il arrive souvent après une longue période d’incertitude, comme le 19 suit le 18 — la réorganisation terminée, la période d’essai validée, le projet enfin livré. La bannière dit que vous avez le droit de porter votre propre drapeau, et de dire « c’est moi qui l’ai fait » sans vous excuser.
+
+Renversé au travail, c’est une réussite qu’on ne s’autorise pas à savourer, ou le mérite passé aux autres avant que quiconque le demande. En excès, c’est le post de félicitations avant que le travail soit fini, la bannière plus grande que le cheval ; mon conseil quand les résultats arrivent : rester calme et humble.
+
+Quand cette carte sort, on me demande si la bonne passe va durer : aurai-je la promotion, gagnerai-je plus ? Je comprends. Quand les choses vont enfin bien, on voudrait être sûr qu’elles continuent. Les promotions se décident entre des personnes qui ne sont pas dans la pièce, et ce que vous gagnerez est une question d’argent, un sujet que je laisse hors de mes tirages. Une carte qui promettrait une augmentation ferait du Soleil une dette dont vous attendriez le remboursement. Si la promotion compte, parlez-en à votre responsable, cette réussite en main. Une question plus douce : « Qu’est-ce qui a fait que ça a marché, et comment continuer ? »
+
+Cette semaine, notez ce qui a marché, tant que vous vous en souvenez — c’est votre recette pour le prochain 1 —, et le nom de ceux qui ont aidé. Le mur gris derrière l’enfant, ce sont tous ceux qui ont tenu bon pendant que vous chevauchiez devant. Remerciez-en un.
 
 ## Exemple de tirage {#exemple}
 

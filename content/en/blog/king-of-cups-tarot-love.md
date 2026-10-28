@@ -15,51 +15,49 @@ The King of Cups in love is emotional maturity: someone who feels as much as any
 
 {{< cards "cuki" >}}
 
-## The King of Cups through his lenses {#lenses}
+## A King, and Fire carried on Water {#lenses-in-love}
 
-The drawing: a bearded king sits on a stone throne set on the open sea, the waves rising around it. He holds a large gold cup in one hand and a short sceptre in the other, and a small fish hangs on a chain at his neck. On one side a fish leaps from the water; on the other, a ship sails past. He isn’t looking at his cup. He looks out, at the world he governs with it.
+His rank is [the King](/library/numerology/king/): outer mastery, decision. Every King looks at the world he manages rather than at his tool, and this one isn’t looking at his cup. The question to ask any King is: for whom? A King of Cups who governs his emotions for the people around him makes a relationship feel safe. One who governs them only for himself keeps everyone at arm’s length.
 
-His rank is [the King](/library/numerology/king/): outer mastery, decision. Every King looks at the world he manages rather than at his tool, and the King’s advice is to decide, then answer for it. The question to ask any King is: for whom? A King of Cups who governs his emotions for the people around him makes a relationship feel safe. One who governs them only for himself keeps everyone at arm’s length.
+His element is Fire of Water. The suit is Water — emotions, relationships — and the rank brings Fire: impulse, action. So this is a feeling that doesn’t stay a feeling; it becomes a gesture, a decision, a way of being with someone. Fire and Water don’t mix easily, and the drawing shows the effort: a stone throne on a moving sea.
 
-His element is Fire of Water. The suit is [Water](/library/four-elements/water-element/): emotions, relationships, what carries you and what can drown you. The King’s rank brings Fire: impulse, drive, the energy that acts. So this is a feeling that doesn’t stay a feeling — it becomes a gesture, a decision, a way of leading. Fire and Water don’t mix easily, and the drawing shows the effort: a fixed stone throne on a moving sea.
+His energy is masculine in my sense of the word, whoever you are: acting, deciding, showing yourself. It can describe a woman as easily as a man. The colours are on [the King of Cups page](/library/tarot-cards/king-of-cups/).
 
-His energy is masculine in my sense of the word, whoever you are: acting, showing yourself, deciding. The colours back it up. The blue of the sea is everywhere — emotion, vitality. The grey of the throne is the one stable point. The gold of the cup and the crown is value, earned. Every lens is on [the King of Cups page](/library/tarot-cards/king-of-cups/).
+## Reversed: when the calm is a lid {#lid}
 
-**The sea moves on every side and the throne doesn’t: that’s maturity, not coldness.**
+Reversed, the same calm slows down or goes too far. Slowed, it becomes a lid: feelings held under for so long that his partner has no idea what he feels, and sometimes neither does he. The relationship looks peaceful and feels distant. In my notes, water that’s neglected seeps into the foundations, like mould slowly eating a house; a lid on the sea does the same, only more quietly.
 
-## What the King of Cups means in love: single, together, after a break-up {#relationship}
+In excess, the calm turns into control: using his understanding of people to steer them, staying reasonable in order to win. Or the opposite — the storm finally reaching the throne, years of held-back feeling arriving all at once. My notes describe Water at its best as the warm person you feel at home with, and at its worst as that same person spilling their emotions on everyone around them. The reversed King can be either, depending on the day.
+
+## Steady alone, steady together, steady after {#steady}
 
 When you’re single, the King of Cups is usually about you before it’s about anyone else. Being steady with your own feelings: not texting at midnight for reassurance, not shutting down after a disappointing date, knowing what you feel and choosing what to do with it. The card doesn’t promise that someone like him is on the way. It describes a quality worth looking for — and worth having.
 
-When you’re together, he’s the steady partner: the one who stays kind in an argument, doesn’t need to win it, and can hear “I’m upset” without hearing an attack. If that’s you, the card names it as a strength. If it’s your partner, it’s worth telling them. Either way, look under the surface. Calm can be the result of feelings dealt with — or of feelings never said.
+When you’re together, he’s the steady partner: the one who stays kind in an argument, doesn’t need to win it, and can hear “I’m upset” without hearing an attack. In my teaching notes, empathy means feeling and understanding the other person’s emotions while keeping your own ([the words, defined](/blog/empath-starseed-lightworker/)). That’s this King exactly: he feels the sea, and he isn’t the sea. He also mixes the two ways of talking I teach with the energies. The feminine way approaches a delicate subject through detours; the masculine way says it directly and decides fast. He can do both — say the hard thing, and say it kindly.
 
 After a break-up, he’s dignity. Feeling all of it — the anger, the grief, the relief — and still choosing what you do: no public posts, no midnight messages, a goodbye said properly. The sea is rough; the throne holds.
 
-## King of Cups reversed in love {#reversed}
+**The sea moves on every side and the throne doesn’t: that’s maturity, not coldness.**
 
-Reversed, the same calm slows down or goes too far. Slowed, it becomes a lid: feelings held under for so long that his partner has no idea what he feels, and sometimes neither does he. The relationship looks peaceful and feels distant. Water that’s neglected seeps into the foundations, like damp in a wall.
-
-In excess, the calm turns into control: using his understanding of people to steer them, staying reasonable in order to win. Or the opposite — the storm finally reaching the throne, years of held-back feeling arriving all at once.
-
-## The King of Cups next to other cards {#combinations}
+## Who sits next to him {#beside-him}
 
 {{< cards "swqu ar14 cu05" >}}
 
 Next to the Queen of Swords, heart and head sit side by side: a calm heart and clear words, in one couple or in one person ([the Queen of Swords in love](/blog/queen-of-swords-tarot-love/)).
 
-Next to Temperance, the calm is the real thing: feeling mixed with patience, nothing pressed down.
+Next to Temperance — an angel pouring water from one cup into another without spilling a drop — the calm is the real thing: feeling mixed with patience, nothing pressed down.
 
 Next to the Five of Cups, he’s the one who has grieved and kept his cup upright — a maturity that came from loss, not from never having lost anything ([the Five of Cups in love](/blog/five-of-cups-tarot-love/)).
 
-## “Does he love me?” — and a kinder question {#kinder-question}
+## “Is this him?” — and a question about safety {#is-this-him}
 
 A King on the table looks like a man, and the question follows: “Is this him?” “Does he love me?” “Is he the one?” It’s a natural thing to hope when a card this warm shows up.
 
-I don’t read on what someone else feels. It’s theirs to tell you, and a card can’t speak for a person who isn’t in the room; I explain why in [reading tarot about someone else](/blog/reading-tarot-about-someone-else/). And the King of Cups, like any court card, describes a way of being before it describes a person. It might well be you.
+I don’t read on what someone else feels. It’s theirs to tell you, and a card can’t speak for a person who isn’t in the room. And the King of Cups, like any court card, describes a way of being before it describes a person. It might well be you. If he keeps turning up when you ask about one particular person, it’s worth asking which of his qualities you’re hoping they have, and which you’d like to find in yourself.
 
-A kinder question: “Do I feel safe saying what I feel in this relationship — and do I make it safe for the other person?” I read; you decide what to do with the answer.
+A kinder question: “Do I feel safe saying what I feel in this relationship — and do I make it safe for the other person?” What you do with the answer is yours.
 
-## Where to go from here {#next-step}
+## One calm moment, looked at twice {#next-step}
 
 This week, notice one moment when you stayed calm in love. Then ask yourself, honestly: was that calm, or a lid? Write the answer down. If it was a lid, find one small thing you could say instead next time.
 

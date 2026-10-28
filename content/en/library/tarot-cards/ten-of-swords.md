@@ -1,6 +1,6 @@
 ---
 title: 'Ten of Swords — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'Ten of Swords in the Rider-Waite-Smith tarot: a man face down, ten swords in his back, a band of light on the horizon. Read the ending by number, Air and colours.'
+description: 'Ten of Swords in the Rider-Waite-Smith tarot: a man face down, ten swords in his back, light on the horizon. Read the ending, at work too, by number and Air.'
 translationKey: card-sw10
 type: cards
 navTitle: Ten of Swords
@@ -32,6 +32,8 @@ faq:
   a: 'The same ending, slowed down or overdone. Slowed down: getting up slowly, one sword at a time, once the worst has passed. Overdone: refusing to accept that it’s over, or treating every setback as rock bottom.'
 - q: 'Does the Ten of Swords mean death?'
   a: 'No. A card doesn’t announce a death, an illness or an attack, and I don’t read on those. The Ten of Swords talks about an ending in your life — a stage, a role, a story you told yourself — and about what comes after it.'
+- q: 'What does the Ten of Swords mean for my career?'
+  a: 'Rock bottom at work: a job, a project or a way of working that has gone as far as it can go. It doesn’t predict a dismissal; it marks the end of the fall and asks what small thing you can stand up for next.'
 categories:
 - Swords
 tags:
@@ -76,9 +78,21 @@ Reversed, the same ending is slowed down or overdone. Slowed down: getting up sl
 
 If someone draws this card while things really are at their lowest, the card isn’t the point. Ask how they are. If it sounds heavier than a reading can hold, [a doctor or a therapist is the right door](/disclaimers/#therapy), and saying so gently is part of reading well.
 
-Next to [Death](/library/tarot-cards/death/), the ending is confirmed — and in my notes Death is also the harvest, the urge to make life fertile again. Next to the [Ace of Swords](/library/tarot-cards/ace-of-swords/), the cycle closes and a new, clear idea opens the next one. I’ve written about this card [in love](/blog/ten-of-swords-tarot-love/) and [at work, when you hit rock bottom](/blog/ten-of-swords-tarot-career/), and about why [the scariest cards are kinder than they look](/blog/scariest-tarot-cards/).
+Next to [Death](/library/tarot-cards/death/), the ending is confirmed — and in my notes Death is also the harvest, the urge to make life fertile again. Next to the [Ace of Swords](/library/tarot-cards/ace-of-swords/), the cycle closes and a new, clear idea opens the next one. I’ve written about this card [in love](/blog/ten-of-swords-tarot-love/), and about why [the scariest cards are kinder than they look](/blog/scariest-tarot-cards/).
 
 {{< cards "ar13 swac" >}}
+
+## At work {#at-work}
+
+At work, the card often describes something that has already happened: the project cancelled after a year’s effort, the restructuring that removed your role, the promotion given to someone else, again. Or a slower ending — the job you’ve been holding together with willpower until, one Tuesday, you can’t.
+
+The classic reading is the stab in the back, and sometimes it fits: a colleague who took the credit, a decision made over your head. I’d still count the swords before deciding who planted them all. Several are usually our own: the late nights, the warnings we didn’t listen to, the thoughts we keep replaying.
+
+Reversed at work, the swords come out one at a time — a first application sent, what happened said out loud, a night of real sleep — or the ending is refused, and you stay on the ground in a job that has finished with you.
+
+This card brings the question “Is my career over?”, often with “Am I going to lose my job?” behind it. It comes from fear, and the fear is concrete: the rent, the family, the sense of who you are that comes with a job. I don’t read on whether you’ll be dismissed or how your money will hold; a card can’t see a company’s decisions. If you’re worn out to the point where work follows you home every night, that’s a door for a doctor, not for a deck. And help is often closer than it looks: friends, former colleagues, the people whose job it is to help you find work. A gentler question: “What has ended, and what is the first small thing I can stand up for this week?”
+
+This week, write down the ten swords: ten things that hurt about this ending. Then cross out the ones that are thoughts rather than facts. What’s left is the real ground you’ll work from, and there are usually fewer than ten.
 
 ## A reading, as an example {#example}
 

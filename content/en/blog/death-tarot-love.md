@@ -15,49 +15,47 @@ Death in a love reading is not a verdict on your relationship. It’s a harvest:
 
 {{< cards "ar13" >}}
 
-## What the Death card shows, through its lenses {#lenses}
+## A 4 that knows when to stop {#lenses-in-love}
 
-Look at the drawing before you react to the name. A skeleton in black armour rides a white horse and carries a black banner with a white rose on it. In front of the horse a king lies on the ground, his crown fallen. A bishop stands with his hands joined; a young woman kneels and turns her face away; a child kneels and looks straight up. Behind them a river runs, and on the horizon a sun shines between two towers — rising or setting, the drawing leaves it to you.
+Three lenses, read for a relationship. The number: 13 becomes 1 + 3 = 4, the number of foundations — what two people have built, their routines and their agreements. The minus of 4 is carrying on when you should stop, out of habit or stubbornness. Death is the 4 that knows when to stop, so that something can be rebuilt on firmer ground.
 
-Four people, four ways of meeting a change: the one who ruled and fell, the one who pleads, the one who can’t look, the one who looks without fear. That’s already a love reading, before any book.
+The element is Water: emotions, relationships. In my notes, a neglected emotion seeps into a house like mould into a wall — slowly, and deeper than fire ever goes. Death in love often arrives after something has gone unsaid for a long time; the card is the moment the house gets cleaned. The energy is feminine, so the change happens inside first and shows later.
 
-Notice what isn’t there. In the Marseille deck, the thirteenth card is a skeleton with a scythe, mowing a field — it’s famously [the card with no name](/blog/death-card-no-name/). That scythe is the best way into the card. **Death is linked to the harvest, and to starting again: making life fertile again.** You don’t cut a field to destroy it. You cut it because the crop is ready and the ground needs to rest before the next one.
+My own note on this card is about the harvest, not the grave: it’s linked to starting again, to wanting to make life fertile again. The Marseille deck gives the skeleton a scythe and leaves the card unnamed ([why it’s the card with no name](/blog/death-card-no-name/)). The drawing and the other lenses are on [Death’s own page](/library/tarot-cards/death/).
 
-Then the lenses, one by one.
+## “Is it over?” — what the name makes you ask {#is-it-over}
 
-The number: 13 becomes 1 + 3 = [4](/library/numerology/number-4/), the number of foundations — stable, structured, the fruit of your work. The minus of 4 is carrying on when you should stop, out of habit or stubbornness. Death is the 4 that knows when to stop, so something can be built on firmer ground.
+It’s the question almost everyone brings with this card, and it makes sense. You see the name, your stomach drops, and you want someone to say yes or no so the not-knowing stops.
 
-The element is Water: emotions, relationships, what carries us from A to B when we let it — and can drown us when we fight it. A neglected emotion seeps into a house like damp into a wall. Death often arrives after something has been left unsaid for a long time; the card is the moment the house gets cleaned.
+I don’t read on that question, and here’s why. A card can’t decide for two people. The other person isn’t in the room, and what they feel is theirs to say — not mine to read, and not a deck’s. And “is it over?”, asked again and again, tends to come back a little more anxious each time. The more you ask, the less you hear.
 
-The colours: black for reality, the bare thing without varnish; white for what is clean and not yet decided; a little gold where the sun sits on the horizon. The energy is feminine — patient, behind the scenes. This kind of change happens inside first and shows later.
+A gentler question is: “What in this relationship has finished its season, and what do I want to plant?” Or, if you’re apart: “What am I still waiting for, and what would I do with my evenings if I stopped?” Those have answers you can act on tomorrow morning. They also give the card back its real job, which is to show you the field — not to tell you who walks out of it.
 
-And the astrology, if it speaks to you: Scorpio, the sign whose verb is “I desire”. Intensity, and a transformation carried through, wanted or not. You can leave it aside; the number, the element and the colours already say it. The card has [its own page, with every lens](/library/tarot-cards/death/), if you want to go further.
+One more thing, said plainly because the name frightens people: Death doesn’t announce anyone’s death, and it says nothing about anyone’s health. Those are questions I don’t read on at all, and I’ve explained [why careful readers step back from them](/blog/health-pregnancy-death-tarot/).
 
-Lay the lenses over each other — foundations, emotion, bare reality, a slow inner change — and the sentence I’d say out loud with this card is rarely “something is ending”. It’s closer to: “Something you built has done its job, and you’re allowed to rebuild it differently.” Then I check it with the person. If it doesn’t land, it’s a miss, and I say so rather than bend the card until it fits.
+**I read; you decide.** Whatever Death shows, the choice of what to clear and what to keep belongs to the people in the relationship, and a card has no authority over it.
 
-## What Death means in a relationship: single, together, after a break-up {#relationship}
+## What a harvest takes: a pattern, a shape, a wait {#what-ends}
 
-**Death talks about an end inside the story, rarely the end of the story.** What ends depends on where you stand.
+Death talks about an end inside the story, rarely the end of the story. What ends depends on where you stand.
 
-When you’re single, Death usually points at a pattern rather than a person. The way you choose, the type you keep going back to, the role you play on a first date without noticing. Say someone draws it after a year of meeting the same kind of partner in different clothes. The card isn’t saying love is closed to them. It’s saying the old way of looking for it has done its time, and the field is ready for something else.
+When you’re single, Death usually points at a pattern rather than a person. The way you choose, the type you keep going back to, the role you play on a first date without noticing. Say someone draws it after a year of meeting the same kind of partner in different clothes. The card isn’t saying love is closed to them. It’s saying the old way of looking for it has done its time. Rules can be patterns too. The astrology attached to Death is Scorpio, and “I don’t date Scorpios” is exactly the kind of rule this card would clear: you’re not one sign, you’re a mix of everything ([when astrology becomes an excuse](/blog/astrology-is-not-an-excuse/)).
 
-When you’re together, it often describes a couple changing shape. The first years end and something steadier begins. A move, a child leaving home, one of you changing jobs, a new way of arguing that finally goes somewhere — one chapter closes so the relationship can carry on as something else. The king on the ground is often a habit that ruled the house for years: who always gives in, who always decides, the Sunday that has to look like every other Sunday. Nobody misses him once he’s gone.
+When you’re together, it often describes a couple changing shape. The first years end and something steadier begins. A move, a child leaving home, one of you changing jobs, a new way of arguing that finally goes somewhere. One chapter closes so the relationship can carry on as something else. Sometimes what falls is a habit that ruled the house for years: who always gives in, who always decides, the Sunday that has to look like every other Sunday. Nobody misses it once it’s gone.
 
-After a break-up, Death tends to talk about the waiting. The part of you that still checks their profile, still rehearses the conversation, still keeps their side of the wardrobe empty. The card doesn’t say whether they’ll come back — that’s a different question, and I’ve written about [what “will they come back?” does to you](/blog/will-they-come-back-tarot/). It says the season of waiting can end, whatever the other person does. In practice that might be small: the evening you don’t open the conversation thread, the photo you move to a folder instead of looking at it every night, the first plan you make that doesn’t leave a gap for them.
+After a break-up, Death tends to talk about the waiting. The part of you that still checks their profile, still rehearses the conversation, still keeps their side of the wardrobe empty. The card doesn’t say whether they’ll come back — that’s a different question, and I’ve written about [what “will they come back?” does to you](/blog/will-they-come-back-tarot/). It says the season of waiting can end, whatever the other person does. In practice that might be small: the evening you don’t open the conversation thread, the photo moved to a folder, the first plan that doesn’t leave a gap for them.
 
-One thing to say plainly, because the name frightens people: Death doesn’t announce anyone’s death, and it says nothing about anyone’s health. Those are questions I don’t read on at all, and I’ve explained [why careful readers step back from them](/blog/health-pregnancy-death-tarot/).
-
-## Death reversed in love {#reversed}
+## The field nobody cuts {#reversed}
 
 Reversed, Death is the same harvest, slowed down. The field is ready and nobody picks up the scythe.
 
-In a relationship, that can look like a couple that has already changed — both of you feel it — kept exactly as it was out of fear of the next step. The same rituals, the same plans, said with less and less conviction. Or a break-up agreed on paper and not yet in daily life: the shared playlists, the joint holiday you still haven’t cancelled, the “we” that slips out at dinner.
+In a relationship, that can look like a couple that has already changed — both of you feel it — kept exactly as it was out of fear of the next step. The same rituals, the same plans, said with less and less conviction. Or a break-up agreed on paper and not yet in daily life: the shared playlists, the joint holiday nobody has cancelled, the “we” that slips out at dinner.
 
 It can also be the change in excess. Cutting everything at once — the number, the friends you had in common, the neighbourhood — because a clean cut feels safer than sitting in the middle of something unfinished. Water reversed doesn’t flow; it either pools or floods.
 
 **The question for a reversed Death is what you’re holding still, and what it would cost to let it move.** Sometimes the honest answer is “not yet”, and that’s allowed. A harvest has its own timing.
 
-## Death next to other cards {#combinations}
+## What grows after it: three neighbours {#neighbours}
 
 A card never speaks alone. Three neighbours I see often in love questions:
 
@@ -71,19 +69,7 @@ Next to the Ace of Cups, it’s the harvest and the new seed in the same spread.
 
 And if it comes out with the Tower, the change is both sudden and slow: the lightning, then the long season after. I’ve written about [the Tower in love](/blog/tower-tarot-love/) separately, because the two are often confused.
 
-## “Is it over?” — and a kinder question to ask {#is-it-over}
-
-It’s the question almost everyone brings with this card, and it makes sense. You see the name, your stomach drops, and you want someone to say yes or no so the not-knowing stops.
-
-I don’t read on that question, and here’s why. A card can’t decide for two people. The other person isn’t in the room, and what they feel is theirs to say — not mine to read, and not a deck’s. And “is it over?”, asked again and again, tends to come back a little more anxious each time. The more you ask, the less you hear.
-
-A gentler question is: “What in this relationship has finished its season, and what do I want to plant?” Or, if you’re apart: “What am I still waiting for, and what would I do with my evenings if I stopped?”
-
-Those questions have answers you can act on tomorrow morning. They also give the card back its real job, which is to show you the field — not to tell you who walks out of it.
-
-**I read; you decide.** Whatever Death shows, the choice of what to clear and what to keep belongs to the people in the relationship, and a card has no authority over it.
-
-## Where to go from here {#next-step}
+## A harvest spread for one evening {#harvest-spread}
 
 If Death came up for you, try a small spread built on the harvest. Three cards: what has finished growing, what the ground needs now, what you want to plant. Read it for yourself, write it down, and come back to it in a month — the second reading of the same page is where you learn the most.
 

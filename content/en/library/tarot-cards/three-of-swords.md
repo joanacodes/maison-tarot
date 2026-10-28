@@ -1,6 +1,6 @@
 ---
 title: 'Three of Swords — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'Three of Swords in the Rider-Waite-Smith tarot: a heart pierced by three swords in the rain. Read heartbreak gently, by number, Air and colours, and as a pact.'
+description: 'Three of Swords in the Rider-Waite-Smith tarot: a heart pierced by three swords in the rain. Read heartbreak and hurt at work gently: by number, Air, and as a pact.'
 translationKey: card-sw03
 type: cards
 navTitle: Three of Swords
@@ -32,6 +32,8 @@ faq:
   a: 'The same pain held in or replayed: a grief nobody mentions, or a scene you keep going over. The question it asks is who you could talk to about it.'
 - q: 'What does the Three of Swords mean in love?'
   a: 'Heartbreak, a disappointment, sometimes a third person in the picture. It describes what hurts now; it doesn’t say whether the relationship ends or mends.'
+- q: 'What does the Three of Swords mean for my career?'
+  a: 'A hurt that comes through work: harsh feedback, a betrayal, a decision taken over your head, a team coming apart. It names the pain without saying who meant what, and asks what you need now: to say it, to rest or to get help.'
 categories:
 - Swords
 tags:
@@ -74,11 +76,23 @@ A pierced heart on a card doesn’t announce a heart problem or anyone’s death
 
 Reversed, the same pain is held in: the wound nobody mentions, the grief swallowed to keep going. Or in excess — the scene replayed again and again, the swords pulled out and pushed back in. Either way, the question is who you could say this to.
 
-Next to the [Three of Cups](/library/tarot-cards/three-of-cups/), the triangle shows: three people, and one of them hurting. Next to the [Six of Swords](/library/tarot-cards/six-of-swords/), the crossing has started and the hurt is being left behind, slowly. Next to [the Star](/library/tarot-cards/the-star/), the rain has stopped and someone is pouring water out again: repair is possible, at its own pace. I’ve written more on [the Three of Swords in love](/blog/three-of-swords-tarot-love/) and on [when it comes up about work](/blog/three-of-swords-tarot-career/).
+Next to the [Three of Cups](/library/tarot-cards/three-of-cups/), the triangle shows: three people, and one of them hurting. Next to the [Six of Swords](/library/tarot-cards/six-of-swords/), the crossing has started and the hurt is being left behind, slowly. Next to [the Star](/library/tarot-cards/the-star/), the rain has stopped and someone is pouring water out again: repair is possible, at its own pace. I’ve written more on [the Three of Swords in love](/blog/three-of-swords-tarot-love/).
 
 {{< cards "cu03 sw06 ar17" >}}
 
 **The Three of Swords shows the wound, not the ending.**
+
+## At work {#at-work}
+
+At work, the hurt of this card usually arrives in words: feedback harsher than it needed to be, a remark in a meeting, a colleague repeating something you said in confidence. Sometimes it’s your own decision: leaving a job you loved because it had stopped loving you back. A 3 at work is the team that clicks; its minus, in my notes, includes starting new projects before the others are finished, which is how a lot of teams come apart. And the blood pact has its work version: colleagues who went through a crisis together and came out tighter.
+
+Reversed at work, the hurt is held in — “I’m fine, it’s only work”, said through a tight jaw for months — or the email is reread until you know it by heart.
+
+People ask: “Is my boss against me? Did they do it on purpose?” It comes from feeling unsafe at work, which is exhausting, and I understand wanting to know. I don’t read on that: the colleague isn’t in the room and [hasn’t agreed to be read](/blog/reading-tarot-about-someone-else/), and a card asked “are they against me?” answers with your fear, so you go back on Monday more on guard than before. A gentler question: “What did that sentence touch in me, and what do I need now — to say it, to rest, or to get help?” Whether you speak up, stay or leave is yours to weigh. I read; you decide.
+
+If the hurt keeps repeating — humiliation, pressure, being singled out — it’s no longer a card’s business. Talk to HR, a staff representative or your occupational health service, and to a lawyer for the legal side; an ongoing case is something I don’t read on. If it follows you home every night, a doctor or a therapist is the right door.
+
+This week, before you answer anyone, write down exactly what was said, then what you heard. They’re often different.
 
 ## A reading, as an example {#example}
 

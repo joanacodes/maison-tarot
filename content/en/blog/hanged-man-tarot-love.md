@@ -15,44 +15,52 @@ In love, the Hanged Man is a pause, not a verdict. Something is on hold — a re
 
 {{< cards "ar12" >}}
 
-## What the Hanged Man means in love {#meaning}
+## A 3 on hold, in still water {#lenses-in-love}
 
-Start with the drawing, because it says most of it. A man hangs upside down from a beam of living wood, leaves still growing on it, tied by one foot. His other leg is folded behind his knee, his hands are behind his back, and a golden halo shines around his head. His face is calm. He isn’t struggling, and he isn’t going anywhere.
+The Hanged Man is 12, and 1 + 2 = [3](/library/numerology/number-3/): the machine running, the contract that works. In my notes, the advice of 3 is to finish one project before starting another; its minus is starting something new before the last thing is done. In love, that’s most of the card: don’t rush into the next chapter while this one is still open.
 
-Then the lenses. The Hanged Man is number 12, and 1 + 2 = 3: [the number of the machine running](/library/numerology/number-3/), the contract that works. Its advice, in my notes, is to finish one project before starting another; its minus is starting something new before the last thing is done. In love, that’s the whole card: don’t rush into the next chapter while this one is still open.
+The element is Water — emotion, what flows — and the energy is feminine: patience, thinking, what happens behind the scenes. A pause in love is a Water thing. Feelings keep moving while nothing outward happens, and a feeling nobody talks about doesn’t stay still: in my notes it seeps into everything with time, like mould slowly eating a house.
 
-Its element is Water — emotions, what flows — and its energy is feminine: patience, thinking, what happens behind the scenes. The colours say the same. Blue for the tunic: emotion. Red for the legs: passion and action, held still. Yellow for the shoes and the halo: will, and a quiet kind of joy — the light shines around his head, not in the sky. Grey behind him: neutral, nothing pushing either way. In the later version of the Golden Dawn table, the one that adds the outer planets, the card goes to Neptune, the blur between dream and reality — which is where people often are when they’re waiting on love. [The Hanged Man’s card page](/library/tarot-cards/the-hanged-man/) reads each lens in more detail.
+One detail of the drawing matters: his face is calm, and the light shines around his head. **The Hanged Man isn’t stuck; he has stopped, and the difference is what you do with the time.** Neptune and the colours are on [the Hanged Man’s card page](/library/tarot-cards/the-hanged-man/).
 
-**The Hanged Man isn’t stuck; he has stopped, and the difference is what you do with the time.**
+## “How long do I have to wait?” {#how-long}
 
-## The Hanged Man in love: single, together, after a break-up {#situations}
+The question that comes with this card is almost always that one — or its sadder cousin, “Will they make up their mind?” I understand it. Waiting is one of the hardest things in love, because it puts your days in someone else’s hands, and a date would at least give you something to hold.
 
-*If you’re single*, the card often describes a deliberate pause. You’re not looking, or you’re not ready, or you keep looking in the same places and meeting the same kind of person. The Hanged Man suggests turning the picture round: what if the pattern is the thing to look at, rather than the next date?
+I don’t read on what someone else will decide, and I don’t give dates. By my own count, about one reading in ten misses, and timing is where the misses gather; [I explain why in a separate article](/blog/tarot-timing/). A date from a card would give you something to wait for, not something to do. And the other person isn’t in the room; their choice belongs to them.
 
-*If you’re together*, it can be a stalemate. A move, a commitment, a conversation everyone knows is coming and nobody starts. Nothing is broken, but nothing moves. Water matters here, because a feeling nobody talks about doesn’t stay still: it seeps into everything with time, like mould slowly eating a house. The pause is a good moment to name what has been left unsaid — gently, and to yourself first.
+Some people come back with the same question again and again, and the Hanged Man is often the card on the table when they do. If you’ve drawn it three times this week asking the same thing, the cards aren’t stuck; the question is ([what repeat readings do to you](/blog/ask-tarot-the-same-question-twice/)).
 
-*After a break-up*, the Hanged Man is the in-between. The relationship is over and the next thing hasn’t started. It’s tempting to fill the gap: a new person, a reunion, another reading. The card suggests letting the gap exist long enough to understand what happened, so you don’t carry it into the next relationship.
+A kinder question is: “What am I waiting for, and what would I do with this time if the answer never came?” That one has an answer you can act on today.
 
-## The Hanged Man reversed in love {#reversed}
+## Reversed: when the waiting becomes a habit {#reversed}
 
-Reversed, the man is the right way up — and that’s the trouble. The pause has stopped being useful. Either it goes on too long, and waiting has become a habit, the sacrifice a quiet martyrdom (“I give everything and get nothing back”), or it’s refused altogether, and you jump into the next thing to avoid sitting with this one. Both are worth noticing. Neither is a sentence passed on you; they’re two directions, and you can choose another.
+Reversed, the man is the right way up — and that’s the trouble. The pause has stopped being useful.
 
-## The Hanged Man next to other cards {#combinations}
+Either it goes on too long, and waiting has become a way of life: the sacrifice turned into a quiet martyrdom, “I give everything and get nothing back”, said for the third year running. Or it’s refused altogether, and you jump into the next thing to avoid sitting with this one — a new person the week after, before you’ve understood what the last one taught you.
 
-Next to Judgement, the pause turns into a review: you’re taking a second look at a relationship, and the Hanged Man says take your time doing it. I go into that card in [Judgement in love](/blog/judgement-tarot-love/). Next to the Two of Cups, a bond that’s real but on hold: both cups are there, nobody is drinking yet. Next to the Eight of Cups, the pause is preparing a departure — someone is slowly understanding that it’s time to walk away from what they built.
+Both are worth noticing. Neither is a sentence passed on you; they’re two directions, and you can choose another.
+
+## Waiting alone, waiting together, waiting after {#waiting}
+
+If you’re single, the card often describes a deliberate pause. You’re not looking, or you’re not ready, or you keep looking in the same places and meeting the same kind of person. The Hanged Man suggests turning the picture round: what if the pattern is the thing to look at, rather than the next date?
+
+If you’re together, it can be a stalemate. A move, a commitment, a conversation everyone knows is coming and nobody starts. Nothing is broken, but nothing moves. Say a couple has spent six months on “let’s see after the summer”, and the summer has come and gone. The pause is a good moment to name what has been left unsaid — gently, and to yourself first.
+
+After a break-up, the Hanged Man is the in-between. The relationship is over and the next thing hasn’t started. It’s tempting to fill the gap: a new person, a reunion, another reading. The card suggests letting the gap exist long enough to understand what happened, so you don’t carry it into the next relationship.
+
+## Three cards that tell you what the pause is for {#what-the-pause-is-for}
 
 {{< cards "ar20 cu02 cu08" >}}
 
-## The question people bring with the Hanged Man {#the-question}
+Next to Judgement, the pause turns into a review: you’re taking a second look at a relationship, and the Hanged Man says take your time doing it. I go into that card in [Judgement in love](/blog/judgement-tarot-love/).
 
-The question that comes with this card is almost always “How long do I have to wait?” — or its sadder cousin, “Will they make up their mind?” I understand it. Waiting is one of the hardest things in love, because it puts your days in someone else’s hands, and a date would at least give you something to hold.
+Next to the Two of Cups, a bond that’s real but on hold: both cups are there, nobody is drinking yet. The useful question is who is waiting for whom to lift theirs first, and whether either of you has said so.
 
-I don’t read on what someone else will decide, and I don’t give dates. Timing is where readings miss most, and [I explain why in a separate article](/blog/tarot-timing/). A date from a card would give you something to wait for, not something to do. And the other person isn’t in the room; their choice belongs to them.
+Next to the Eight of Cups, the pause is preparing a departure — someone is slowly understanding that it’s time to walk away from what they built.
 
-A kinder question is: “What am I waiting for, and what would I do with this time if the answer never came?” That one has an answer you can act on today. If you’ve drawn the Hanged Man three times this week asking the same thing, the cards aren’t stuck; the question is. Take a break from your cards now and then. [“Will they come back?”](/blog/will-they-come-back-tarot/) deserves the same gentleness, and I’ve written about it on its own.
+## Something in your hands this week {#while-you-wait}
 
-## What to do while you wait {#while-you-wait}
-
-Pick one thing that is in your hands — a friendship you’ve neglected, a project, your sleep — and give it the attention you were giving to the wait. A week is enough to notice the difference.
+Pick one thing that is in your hands — a friendship you’ve neglected, a project, your sleep — and give it the attention you were giving to the wait. A week is enough to notice the difference. Waiting shrinks when it stops being the only thing you’re doing.
 
 Then, if you’d like to look at the relationship with the cards, use a layout that keeps you at the centre: [my love spread](/blog/love-tarot-spread/) reads you and the bond between you, never what the other person is thinking.

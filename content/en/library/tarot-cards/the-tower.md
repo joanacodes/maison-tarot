@@ -1,6 +1,6 @@
 ---
 title: 'The Tower — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'The Tower tarot card read through its lenses: 16 becomes 7, Fire, a black sky and Mars — sudden change, what falls, and why it isn’t a punishment.'
+description: 'The Tower tarot card read through its lenses: 16 becomes 7, Fire, a black sky and Mars — sudden change, at work too, what falls, and why it isn’t a punishment.'
 translationKey: card-ar16
 type: cards
 navTitle: The Tower
@@ -31,6 +31,8 @@ faq:
   a: 'Reversed, the Tower is the same collapse slowed down: you can feel the walls going and you keep propping them up. It can also be the fall in excess, breaking everything because one thing broke.'
 - q: 'Does The Tower predict an accident or a disaster?'
   a: 'No. I understand why the drawing frightens people, but a card doesn’t announce an accident, an illness or a death, and I don’t read on those subjects. What the Tower talks about is a structure in your life that stops holding, and what you can build once it has.'
+- q: 'What does The Tower mean for my career?'
+  a: 'A sudden change at work: a restructure, a project pulled overnight, a truth about your job you can no longer ignore. It doesn’t say whether you’ll keep your post; it asks you not to decide in the flash and to count what is still standing.'
 categories:
 - Major arcana
 tags:
@@ -75,7 +77,17 @@ Next to [the Star](/library/tarot-cards/the-star/), the card that follows it, th
 
 {{< cards "ar17 ar13 wa10" >}}
 
-**The Tower doesn’t destroy what was solid; it shows you what wasn’t.** For the questions people bring most, I’ve written about [the Tower in love](/blog/tower-tarot-love/) and about [sudden change at work](/blog/tower-tarot-career/).
+**The Tower doesn’t destroy what was solid; it shows you what wasn’t.** For the questions people bring most, I’ve written about [the Tower in love](/blog/tower-tarot-love/), and sudden change at work has its own section below.
+
+## At work {#at-work}
+
+At work, the Tower is a structure meeting the truth. A job: a restructure, a merger, a new director who changes everything in a week. A project you’ve carried for a year, cancelled in a fifteen-minute call. A belief — “this company is my family” — that falls in a single meeting. The announcement is often sudden, but the cracks had been there for months, in the budget that kept shrinking. And sometimes the lightning is yours: the morning you realise you can’t do this job one more year, which can feel like relief as much as fear. **The lightning isn’t a verdict on your career; it’s the start of a review.**
+
+Reversed at work, it’s the collapse in slow motion — the project nobody believes in — or the fall in excess, the resignation email written at midnight and copied to everyone.
+
+The first question is “Will I lose my job?”, and I understand why: a job is rent, routine and a part of who you are. I don’t read that as a prediction. Whether a post survives depends on people who aren’t in the room and decisions not yet made, and a card that said “you’re safe” or “you’re out” would add a false calm, or a second shock to the first. If your contract, your rights or your money are at stake, that’s one for an employment adviser, a union rep or a lawyer ([what I don’t read, and why](/disclaimers/#refusals)). A gentler question: “What would I do in the first week if it happened?” That one has an answer, and turns fear into a plan.
+
+This week, before deciding anything, make two lists: what fell, and what’s still standing — your skills, the people who answer your calls. The second is usually longer. And take a break from your cards now and then, especially now: pulling a card every hour after a shock is the shock talking.
 
 ## A reading, as an example {#example}
 

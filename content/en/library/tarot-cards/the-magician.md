@@ -1,6 +1,6 @@
 ---
 title: 'The Magician — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'The Magician tarot card: four tools on one table, the number 1, Air and Mercury. How to read it upright and reversed, and how to tell real skill from a good show.'
+description: 'The Magician tarot card: four tools on one table, the number 1, Air and Mercury. Read it upright, reversed and at work, and tell real skill from a good show.'
 translationKey: card-ar01
 type: cards
 navTitle: The Magician
@@ -32,6 +32,8 @@ faq:
   a: 'The same tools, left unused or used for show: the plan that stays a pitch, or a talent spent on looking convincing instead of doing the work. Check what has been made, not what has been said.'
 - q: What does The Magician mean in love?
   a: 'Someone who has what it takes to make the first move, and the question of whether they mean it. Read it as an invitation to act on your side, not as a forecast about the other person.'
+- q: What does The Magician mean for my career?
+  a: 'A skill ready to be used: a new job, a project to lead, a pitch or a plan of your own, with every tool already on the table. It doesn’t say whether a venture will succeed; it asks which of your four tools you’re not using yet.'
 categories:
 - Major arcana
 tags:
@@ -70,13 +72,25 @@ In the Golden Dawn tradition, the Magician goes with [Mercury](/library/astrolog
 
 ## In a reading {#reading}
 
-Upright, the Magician says you have what you need, and the next move is yours. Not “wait for a sign”: the tools are on the table. At work it’s a skill ready to be used ([the Magician in career](/blog/magician-tarot-career/)); in love it’s the first move, and whether it’s meant ([the Magician in love](/blog/magician-tarot-love/)). It’s often called the manifestation card; I read it more plainly — things appear because someone picked up the tools ([what I think about manifestation](/blog/delulu-manifestation-tarot/)).
+Upright, the Magician says you have what you need, and the next move is yours. Not “wait for a sign”: the tools are on the table. At work it’s a skill ready to be used (more on that below); in love it’s the first move, and whether it’s meant ([the Magician in love](/blog/magician-tarot-love/)). It’s often called the manifestation card; I read it more plainly — things appear because someone picked up the tools ([what I think about manifestation](/blog/delulu-manifestation-tarot/)).
 
 Reversed, the tools stay on the table. Either nobody uses them — the project polished in someone’s head for two years — or they’re used for show, and the pitch is better than the work. That’s the minus I note for this card: trusted blindly, the Magician can lie, or pretend.
 
 Next to [the Fool](/library/tarot-cards/the-fool/), it’s 0 then 1: an urge becoming a tool. Next to [the High Priestess](/library/tarot-cards/the-high-priestess/), the one who speaks stands beside the one who keeps quiet; listen to both. Next to the [Seven of Swords](/library/tarot-cards/seven-of-swords/), talent comes with a little sleight of hand, so check twice. **The Magician isn’t a promise; it’s a set of tools, and the reading is what someone does with them.**
 
 {{< cards "ar00 ar02 sw07" >}}
+
+## At work {#at-work}
+
+At work, the Magician is the moment your skills meet a starting point: a new job where you’ll use everything you know, a project you’ve been asked to lead, a pitch, a first client, or the freelance plan you keep sketching in a notebook. He’s someone who can catch an idea and land it on the ground. In a career change, he’s also the beginner again: we are all students our whole life, and the first months in a new trade belong in the toolkit.
+
+The four tools make a good check-up. The wand: do you still want this? The cup: do you care about the people it’s for? The sword: have you thought it through? The pentacle: does it hold up in practice — time, materials, the plain logistics? Most people are strong on two and quietly avoid the other two. Cards aren’t magic, you are, and the same goes for the man at the table.
+
+Reversed at work, it’s the pitch better than the product — or the opposite worry, real skill you don’t dare show because you’re sure someone will find you out. A raw diamond is still a diamond.
+
+The question this card brings is often “Will my business work if I go for it?” I understand: starting costs money, security, sometimes pride, and you’d like a card to carry part of the risk. Resigning, investing or borrowing are money decisions, and [those stay out of my readings](/disclaimers/#refusals); whether a business works depends on clients and markets no card can see. For the figures, an accountant or a business adviser will help more than any spread. A kinder question: “Which of my four tools am I not using yet?”
+
+This week, draw four columns on a sheet of paper: wand, cup, sword, pentacle. Under each, write what you already have for the thing you want to start. **The emptiest column is your first task.**
 
 ## A reading, as an example {#example}
 

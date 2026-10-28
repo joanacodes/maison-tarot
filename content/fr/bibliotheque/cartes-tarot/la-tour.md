@@ -1,6 +1,6 @@
 ---
 title: 'La Tour (The Tower) — tarot Rider-Waite-Smith : lire la carte par ses clés de lecture'
-description: 'La Tour au tarot, lue par ses clés de lecture : 16 qui devient 7, le Feu, un ciel noir, Mars — le changement brutal, et pourquoi ce n’est pas une punition.'
+description: 'La Tour au tarot par ses clés : 16 qui devient 7, le Feu, un ciel noir, Mars — un changement brutal, au travail aussi, et pourquoi ce n’est pas une punition.'
 translationKey: card-ar16
 type: cards
 navTitle: La Tour
@@ -31,6 +31,8 @@ faq:
   a: 'Renversée, la Tour, c’est le même effondrement au ralenti : on sent les murs bouger et on continue de les étayer. Ce peut être aussi la chute en excès, quand on casse tout parce qu’une seule chose s’est cassée.'
 - q: 'La Tour annonce-t-elle un accident ou une catastrophe ?'
   a: 'Non. Je comprends que le dessin fasse peur, mais une carte n’annonce ni accident, ni maladie, ni décès, et je ne lis pas sur ces sujets. La Tour parle d’une structure de votre vie qui cesse de tenir, et de ce que vous pourrez construire une fois qu’elle sera tombée.'
+- q: 'Que dit La Tour pour le travail ?'
+  a: 'Un changement brutal au travail : une réorganisation, un projet arrêté du jour au lendemain, une vérité sur votre poste qu’on ne peut plus ignorer. Elle ne dit pas si vous garderez votre poste ; elle vous demande de ne pas décider dans l’éclair et de compter ce qui tient encore.'
 categories:
 - Arcane majeur
 tags:
@@ -75,7 +77,17 @@ Renversée, c’est le même effondrement au ralenti : on sent les murs bouger e
 
 {{< cards "ar17 ar13 wa10" >}}
 
-**La Tour ne détruit pas ce qui était solide ; elle vous montre ce qui ne l’était pas.** Pour les questions qu’on me pose le plus, j’ai écrit sur [la Tour en amour](/fr/blog/la-tour-tarot-amour/) et sur [un changement brutal au travail](/fr/blog/la-tour-tarot-travail/).
+**La Tour ne détruit pas ce qui était solide ; elle vous montre ce qui ne l’était pas.** Pour les questions qu’on me pose le plus, j’ai écrit sur [la Tour en amour](/fr/blog/la-tour-tarot-amour/), et le changement brutal au travail a sa section juste en dessous.
+
+## Au travail {#au-travail}
+
+Au travail, c’est une structure qui rencontre la vérité. Un poste : une réorganisation, un nouveau directeur qui change tout en une semaine. Un projet porté depuis un an, arrêté en un quart d’heure de visio. Une croyance — « ici, on est une famille » — qui s’effondre en une réunion. L’annonce tombe souvent sans prévenir, mais les fissures dataient de plusieurs mois, dans un budget qui fondait. Et parfois l’éclair vient de vous : le matin où vous comprenez que vous ne ferez pas une année de plus à ce poste, ce qui peut soulager autant que faire peur. **L’éclair n’est pas un verdict sur votre carrière ; c’est le début d’un bilan.**
+
+Renversée au travail, c’est l’effondrement au ralenti — le projet auquel plus personne ne croit — ou la chute en excès : le mail de démission écrit à minuit, tout le service en copie.
+
+La première question, c’est « Vais-je perdre mon poste ? », et je la comprends : un emploi, c’est le loyer, la routine, une partie de soi. Je ne la lis pas comme une prédiction. Votre poste dépend de personnes qui ne sont pas dans la pièce et de décisions pas encore prises, et une carte qui dirait « vous êtes tranquille » ou « c’est fini » ajouterait un faux calme, ou un second choc au premier. Pour votre contrat, vos droits ou votre argent, voyez un représentant du personnel ou un avocat en droit du travail ([ce que je ne lis pas, et pourquoi](/fr/avertissements/#refus)). Une question plus douce : « Que ferais-je la première semaine si cela arrivait ? » Celle-là a une réponse, qui transforme la peur en plan.
+
+Cette semaine, sans rien décider, faites deux listes : ce qui est tombé, et ce qui tient encore — vos compétences, les gens qui décrochent quand vous appelez. La seconde est souvent la plus longue. Et faites une pause avec vos cartes de temps en temps, maintenant surtout : tirer une carte toutes les heures après un choc, c’est le choc qui parle.
 
 ## Exemple de tirage {#exemple}
 

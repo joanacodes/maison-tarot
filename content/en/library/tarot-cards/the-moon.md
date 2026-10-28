@@ -1,6 +1,6 @@
 ---
 title: 'The Moon — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'The Moon tarot card read through its lenses: 18 becomes 9, Water, night blue and Pisces — uncertainty, imagination, and how to walk a path you can’t fully see.'
+description: 'The Moon tarot card read through its lenses: 18 becomes 9, Water, night blue and Pisces — uncertainty, at work too, and how to walk a path you can’t fully see.'
 translationKey: card-ar18
 type: cards
 navTitle: The Moon
@@ -31,6 +31,8 @@ faq:
   a: 'Reversed, the Moon is the same fog lifting slowly, or thickening when you stop checking your fears against anything real. Either way, the advice is the same: don’t decide as if you could see clearly.'
 - q: 'What does The Moon mean in love?'
   a: 'In love, the Moon often points to what isn’t said yet, on either side, and to the stories you tell yourself in the gaps. It asks for patience and plain questions rather than conclusions.'
+- q: 'What does The Moon mean for my career?'
+  a: 'Uncertainty at work: a rumour, an interview with no answer yet, a role nobody has quite defined. It asks you not to decide in the fog, and to check what you actually know.'
 categories:
 - Major arcana
 tags:
@@ -75,7 +77,19 @@ Next to [the High Priestess](/library/tarot-cards/the-high-priestess/), who show
 
 {{< cards "ar02 cu07 ar19" >}}
 
-**The Moon doesn’t say something is wrong; it says you can’t see it clearly yet, so don’t decide as if you could.** For the usual questions, I’ve written about [the Moon in love](/blog/moon-tarot-love/) and about [uncertainty at work](/blog/moon-tarot-career/).
+**The Moon doesn’t say something is wrong; it says you can’t see it clearly yet, so don’t decide as if you could.** For the usual questions, I’ve written about [the Moon in love](/blog/moon-tarot-love/), and uncertainty at work has its own section below.
+
+## At work {#at-work}
+
+At work, the Moon often turns up near the end of a stage: the old way is going, and the new one has no name yet. Uncertainty has several faces there. Rumours: a merger whispered at the coffee machine, a manager’s door closed more often than usual. Waiting: the interview went well, then two weeks of silence, and every hour you rewrite the story. A blurry role, where nobody has told you what success looks like.
+
+Sometimes it’s intuition, and you sense a change before it’s announced. The trap is deciding in the fog: resigning over a rumour, or losing a weekend to an email that said nothing. **The useful sentence isn’t “something’s wrong”; it’s “I don’t know yet, and here’s what I can check.”**
+
+Reversed at work, the fog lifts: the announcement comes, the role gets a brief, the answer arrives — not always the one you wanted, but a real one you can work with.
+
+The Moon attracts two questions: “Will I get the job?” and “Is something going on behind my back?” Both come from waiting without information, one of the hardest things to do well. I don’t read on what a recruiter or a colleague thinks: they aren’t in the room, and I read the person in front of me. As for “When will I hear back?”, [timing is where I miss most](/blog/tarot-timing/). A miss is a miss, and a wrong “yes, next week” would cost you a week of hope. A kinder question: “What do I actually know, and what am I imagining?”
+
+This week, draw two columns: what I know, what I’m imagining. Most of the weight is usually in the second. Then ask one plain question of the person who can answer it — “Is my role changing?” or “When do you expect to decide?” — and leave the 3 a.m. thoughts until morning: no emails, plans or resignations at that hour.
 
 ## A reading, as an example {#example}
 

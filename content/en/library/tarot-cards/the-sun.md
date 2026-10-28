@@ -1,6 +1,6 @@
 ---
 title: 'The Sun — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'The Sun tarot card read through its lenses: 19 becomes 10, Fire, yellow everywhere and the Sun itself — joy, success, being seen, and how to read it honestly.'
+description: 'The Sun tarot card read through its lenses: 19 becomes 10, Fire, yellow everywhere and the Sun itself — joy, success at work, and how to read it honestly.'
 translationKey: card-ar19
 type: cards
 navTitle: The Sun
@@ -31,6 +31,8 @@ faq:
   a: 'Reversed, the Sun is the same light held back, a success you won’t let yourself enjoy, or in excess, when being seen becomes the point. The good news is still there; the question is what you do with it.'
 - q: 'Does The Sun mean pregnancy?'
   a: 'I understand why the child on the card makes people ask, often out of hope or worry. A card can’t tell you that, and I don’t read on pregnancy; a doctor or a test is the right tool. What the Sun can hold is the joy and warmth around whatever you’re hoping for.'
+- q: 'What does The Sun mean for my career?'
+  a: 'Success you can enjoy openly: a project that works, recognition after a long effort, work you can show with nothing to hide. It doesn’t promise a promotion or a raise; it asks you to notice the good moment and thank the people who helped.'
 categories:
 - Major arcana
 tags:
@@ -75,7 +77,17 @@ Next to [the Moon](/library/tarot-cards/the-moon/), the Sun is morning after a l
 
 {{< cards "ar18 wa06 ar10" >}}
 
-**The Sun doesn’t ask you to earn the good moment; it asks you to notice it.** For work questions, I’ve written about [the Sun in a career reading](/blog/sun-tarot-career/).
+**The Sun doesn’t ask you to earn the good moment; it asks you to notice it.**
+
+## At work {#at-work}
+
+At work, the Sun is the moment something works and people see it: a launch that lands, a presentation where the room leans in, a client who says yes and tells others, recognition after a long effort. Sometimes it’s quieter and rarer: liking your job, and being glad on a Monday morning. It often arrives after a long uncertain stretch, the way 19 follows 18 — the restructure that ended, the probation that’s over, the project that finally shipped. The banner says you’re allowed to carry your own flag and say “I did that” without apologising.
+
+Reversed at work, it’s a success you won’t let yourself enjoy because “they’ll find out”, or credit passed to others before anyone asks. In excess, it’s the celebration post before the work is done, the banner bigger than the horse; my advice when results flow is to stay calm and humble.
+
+When this card comes up, people ask whether the good run will last: will I get the promotion, will I earn more? I understand. When things finally go well, you want to know they’ll stay that way. Promotions are decided by people who aren’t in the room, and what you’ll earn is a money question, one of the subjects I leave out of readings. A card that promised a raise would turn the Sun into a debt you’d be waiting to collect. If the promotion matters, the conversation to have is with your manager, with this success in hand. A kinder question: “What made this work, and how do I keep doing it?” Or: “What would I like to be seen for at work?”
+
+This week, write down what made it work while you still remember — it’s your recipe for the next 1 — and the names of the people who helped. The grey wall behind the child is everyone who held things up while you rode in front. Thank one of them.
 
 ## A reading, as an example {#example}
 

@@ -11,7 +11,7 @@ imageAlt: "Four short piles of tarot cards side by side on a wooden table, the t
 imagePrompt: "Four short piles of tarot cards side by side on a plain wooden table, the top card of each pile turned face up, a hand resting at the edge of the frame. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "The 56 minor arcana are four suits of fourteen cards: Wands (Fire), Cups (Water), Swords (Air) and Pentacles (Earth), each with ten numbered cards from Ace to Ten and four court cards — Page, Knight, Queen and King. You don’t need 56 meanings. The suit tells you the plane (action, feeling, thought, matter), the number tells you the stage (1 starts, 5 tests, 10 hands over), and the rank tells you how someone acts. Combine them and you can read any minor card, then check it against Pamela Colman Smith’s drawing."
 ---
-The 56 minor arcana aren’t 56 things to learn. They’re four suits, each with an element, crossed with ten numbers, plus four court ranks — eighteen ideas, and with them you can read any minor card. Below is the grid, then a paragraph for each number and each rank, with every card linked to its full page.
+The 56 minor arcana aren’t 56 things to learn. They’re four suits, each with an element, crossed with ten numbers, plus four court ranks — eighteen ideas, and with them you can read any minor card. Below is the whole grid on one screen, every card linked to its own page, then how to read across it, down it, and where to start.
 
 ## Four suits, four elements {#suits}
 
@@ -30,109 +30,68 @@ Each suit belongs to one of the four elements, and the element tells you where t
 
 ## The grid: ten numbers across four suits {#grid}
 
-In my method the number comes first. Every number is a stage in the same [cycle of numbers](/library/numerology/), and the suit colours it. Here is the whole grid on one screen; the sections below explain each line.
+In my method the number comes first. Every number is a stage in the same [cycle of numbers](/library/numerology/), and the suit colours it. Here are all forty numbered cards on one screen. Each cell links to the card’s own page, where its drawing is read in detail.
 
 | No. | Stage | Wands | Cups | Swords | Pentacles |
 |---|---|---|---|---|---|
-| 1 | start | an urge to begin | a feeling opens | a clear idea | something real to build on |
-| 2 | bond, choice | planning from the ramparts | a bond between equals | a choice put off | juggling two things |
-| 3 | it works | ships coming in | friends celebrating | heartbreak, or a blood pact | work others recognise |
-| 4 | stability | foundations, a home | an offer not seen | rest, recovery | holding on tight |
-| 5 | trial | a fight without a plan | loss, the heaviest card | a clash of viewpoints | hardship, warmth nearby |
-| 6 | success | public victory | time for yourself | towards calmer water | knowing value |
-| 7 | reflection | holding your ground | too many choices | leaving things behind | waiting for the harvest |
-| 8 | mastery | everything moving fast | walking away | trapped, with every tool | skill through effort |
-| 9 | last stretch | wounded, still standing | contentment | coming out of a nightmare | gratitude |
-| 10 | transition | carrying too much | family happiness | rock bottom, dawn behind | wealth at home |
+| 1 | start | [an urge to begin](/library/tarot-cards/ace-of-wands/) | [a feeling opens](/library/tarot-cards/ace-of-cups/) | [a clear idea](/library/tarot-cards/ace-of-swords/) | [something real to build on](/library/tarot-cards/ace-of-pentacles/) |
+| 2 | bond, choice | [planning from the ramparts](/library/tarot-cards/two-of-wands/) | [a bond between equals](/library/tarot-cards/two-of-cups/) | [a choice put off](/library/tarot-cards/two-of-swords/) | [juggling two things](/library/tarot-cards/two-of-pentacles/) |
+| 3 | it works | [ships coming in](/library/tarot-cards/three-of-wands/) | [friends celebrating](/library/tarot-cards/three-of-cups/) | [heartbreak, or a blood pact](/library/tarot-cards/three-of-swords/) | [work others recognise](/library/tarot-cards/three-of-pentacles/) |
+| 4 | stability | [foundations, a home](/library/tarot-cards/four-of-wands/) | [an offer not seen](/library/tarot-cards/four-of-cups/) | [rest, recovery](/library/tarot-cards/four-of-swords/) | [holding on tight](/library/tarot-cards/four-of-pentacles/) |
+| 5 | trial | [a fight without a plan](/library/tarot-cards/five-of-wands/) | [loss, the heaviest card](/library/tarot-cards/five-of-cups/) | [a clash of viewpoints](/library/tarot-cards/five-of-swords/) | [hardship, warmth nearby](/library/tarot-cards/five-of-pentacles/) |
+| 6 | success | [public victory](/library/tarot-cards/six-of-wands/) | [time for yourself](/library/tarot-cards/six-of-cups/) | [towards calmer water](/library/tarot-cards/six-of-swords/) | [knowing value](/library/tarot-cards/six-of-pentacles/) |
+| 7 | reflection | [holding your ground](/library/tarot-cards/seven-of-wands/) | [too many choices](/library/tarot-cards/seven-of-cups/) | [leaving things behind](/library/tarot-cards/seven-of-swords/) | [waiting for the harvest](/library/tarot-cards/seven-of-pentacles/) |
+| 8 | mastery | [everything moving fast](/library/tarot-cards/eight-of-wands/) | [walking away](/library/tarot-cards/eight-of-cups/) | [trapped, with every tool](/library/tarot-cards/eight-of-swords/) | [skill through effort](/library/tarot-cards/eight-of-pentacles/) |
+| 9 | last stretch | [wounded, still standing](/library/tarot-cards/nine-of-wands/) | [contentment](/library/tarot-cards/nine-of-cups/) | [coming out of a nightmare](/library/tarot-cards/nine-of-swords/) | [gratitude](/library/tarot-cards/nine-of-pentacles/) |
+| 10 | transition | [carrying too much](/library/tarot-cards/ten-of-wands/) | [family happiness](/library/tarot-cards/ten-of-cups/) | [rock bottom, dawn behind](/library/tarot-cards/ten-of-swords/) | [wealth at home](/library/tarot-cards/ten-of-pentacles/) |
 
-## Aces to Fives: from the seed to the trial {#aces-to-fives}
+A cell is a handle, not a definition. It gives you somewhere to start, and the card in front of you, with its neighbours and the person you’re reading for, does the rest.
 
-### Aces (1): the seed {#aces}
+## Reading across a row: one stage, four planes {#across}
 
-*One is the initiator, the raw diamond: the start of a cycle.* In all four Aces a hand comes out of a cloud and offers the suit’s tool — you receive it; what you do with it is yours. The [Ace of Wands](/library/tarot-cards/ace-of-wands/) is a sprouting staff, an urge to start. The [Ace of Cups](/library/tarot-cards/ace-of-cups/) overflows in five streams: a feeling opening. The [Ace of Swords](/library/tarot-cards/ace-of-swords/) stands upright under a crown: a clear idea. The [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/) is a coin held over a garden: something real to build on. The minus of every 1 is forgetting you’re a beginner — we stay students all our lives.
+Take one number and read it through the four suits. It’s the fastest way I know to understand both the number and the suits, because only one thing changes at a time.
 
-### Twos (2): the bond and the choice {#twos}
-
-*Two is cooperation, a contract, a bond.* In the [Two of Wands](/library/tarot-cards/two-of-wands/) a man on the ramparts holds a small globe: planning the world, deciding whether to go. In the [Two of Cups](/library/tarot-cards/two-of-cups/) two people exchange cups under a winged lion’s head: a bond between equals. The [Two of Swords](/library/tarot-cards/two-of-swords/) is a blindfolded woman holding two crossed swords, the sea behind her: a choice she won’t look at. In the [Two of Pentacles](/library/tarot-cards/two-of-pentacles/) a young man juggles two coins inside a looping ribbon while ships ride the waves. The advice of 2: read the contract, weigh the pros and cons.
-
-{{< cards "waac cuac swac peac wa02 cu02 sw02 pe02" >}}
-
-### Threes (3): it works {#threes}
-
-*Three is the machine running, a contract that holds.* The [Three of Wands](/library/tarot-cards/three-of-wands/) shows a man from behind on a cliff, watching ships at sea: what you launched is coming back. In the [Three of Cups](/library/tarot-cards/three-of-cups/) three women dance with their cups raised: friendship, celebration. The [Three of Swords](/library/tarot-cards/three-of-swords/) is a heart pierced by three blades in the rain — heartbreak, and also, in my notes, a blood pact. In the [Three of Pentacles](/library/tarot-cards/three-of-pentacles/) a craftsman works in a church while two figures hold the plans: work others recognise. The minus of 3: starting something new before the last thing is finished.
-
-### Fours (4): stability {#fours}
-
-*Four is the double of 2: stable, structured, the fruit of work.* In the [Four of Wands](/library/tarot-cards/four-of-wands/) a garland hangs between four staves and people celebrate before a castle: in my notes, foundations, marriage, building a family. In the [Four of Cups](/library/tarot-cards/four-of-cups/) a young man sits under a tree, arms crossed, ignoring a cup offered from a cloud: stability turning into boredom. The [Four of Swords](/library/tarot-cards/four-of-swords/) is a knight’s effigy lying on a tomb: rest, recovery. In the [Four of Pentacles](/library/tarot-cards/four-of-pentacles/) a man clutches one coin, with another on his crown and two under his feet: security that won’t let go. The advice of 4: stay flexible.
-
-{{< cards "wa03 cu03 sw03 pe03 wa04 cu04 sw04 pe04" >}}
-
-### Fives (5): the trial {#fives}
-
-*Five is conflict, the test, making do with what’s left.* In the [Five of Wands](/library/tarot-cards/five-of-wands/) five young men brandish staves; they seem to fight, without any coordination. In the [Five of Cups](/library/tarot-cards/five-of-cups/) a cloaked figure mourns three spilled cups — the heaviest card of the deck for me, loss and being alone with it — while two cups still stand behind him. In the [Five of Swords](/library/tarot-cards/five-of-swords/) a man gathers swords as two others walk away: a conflict of viewpoints. In the [Five of Pentacles](/library/tarot-cards/five-of-pentacles/) two people walk through the snow past a lit church window, warmth within reach. The advice of 5: avoid pointless fights, and be honest with yourself.
+The Fives are the clearest. Five is conflict, trial, making do with what’s left. In my notes, the figures of the Five of Wands seem to fight, without any coordination. The Five of Cups is, for me, the most negative card of the deck: losing, dark emotion, being alone with your problems. The Five of Swords is an Air conflict, about decisions: not the same point of view. The Five of Pentacles is poverty in the snow, walking past the church where warmth could be found. A fight, a loss, a disagreement, a hard winter. Five’s advice is the same for all four: avoid pointless fights, and be honest with yourself and the situation.
 
 {{< cards "wa05 cu05 sw05 pe05" >}}
 
-## Sixes to Tens: from success to the next door {#sixes-to-tens}
+The Eights work the same way. Eight is four raised a level: control, mastery, a gate between the tangible and the intangible. The Eight of Wands is the glass half full or half empty: staves flying or falling, and you decide which. The Eight of Cups moves on from what you’re already doing. The Eight of Swords is a prisoner of herself while she holds every tool, and she can take off the blindfold. The Eight of Pentacles is mastery, and the effort it takes. Across the row, 8 asks one question: what are you really in control of?
 
-### Sixes (6): success {#sixes}
+The Tens close the cycle. Ten is the corridor between two rooms: a transition, freedom, sometimes short-lived. Keep the creative energy without overloading (Wands); happiness and family (Cups); rock bottom with the dawn behind (Swords); complete wealth at home, which will still be there if you leave the cocoon (Pentacles). My note on 10 says it best: from the outside you might look knocked down, while in reality the butterfly is already far away, out of its chrysalis.
 
-*Six is three raised a level: the machine launched and fast, success, a chance to rest.* In the [Six of Wands](/library/tarot-cards/six-of-wands/) a rider crowned with laurel moves through a crowd: public victory. In the [Six of Cups](/library/tarot-cards/six-of-cups/) two children share a cup of flowers in an old garden — in my notes, time for yourself, childhood, flowering again. In the [Six of Swords](/library/tarot-cards/six-of-swords/) a boatman ferries a woman and a child towards calmer water. In the [Six of Pentacles](/library/tarot-cards/six-of-pentacles/) a merchant holds scales and gives coins: knowing value, a kingdom that lasts. The advice of 6: stay calm and humble while results flow.
+Every other row reads the same way, and each number has its own page in the Library with its five cards, the major included.
 
-### Sevens (7): reflection {#sevens}
+## Reading down a column: one suit, one story {#down}
 
-*Seven is patience, analysis before action, the harvest — and the reminder that everything is temporary.* In the [Seven of Wands](/library/tarot-cards/seven-of-wands/) a man on a height fends off six staves rising from below: holding your ground. The [Seven of Cups](/library/tarot-cards/seven-of-cups/) shows seven cups in the clouds, each with a vision: indecision, too many choices. In the [Seven of Swords](/library/tarot-cards/seven-of-swords/) a man slips away from a camp with five swords and leaves two: he leaves things behind, but harvests a lot. In the [Seven of Pentacles](/library/tarot-cards/seven-of-pentacles/) a farmer leans on his hoe and looks at the coins growing on a bush.
+Read a suit from Ace to Ten and it tells a single story. Cups: a feeling opens, a bond forms, friends celebrate, the offers stop being noticed, something is lost, you take time for yourself, too many choices appear, you walk away, contentment settles, and a family is happy under the rainbow. A love story, a grief and a recovery in one suit.
 
-{{< cards "wa06 cu06 sw06 pe06 wa07 cu07 sw07 pe07" >}}
+Swords tell the mind’s story: a clear idea, a choice put off, a cut, a rest, a clash, a crossing to calmer water, a quiet exit, a trap you could step out of, a nightmare you’re coming out of, and rock bottom with the sky turning yellow behind it.
 
-### Eights (8): mastery {#eights}
-
-*Eight is four raised a level: prosperity, control, a gate between the tangible and the intangible.* In the [Eight of Wands](/library/tarot-cards/eight-of-wands/) eight staves fly over open country — flying or falling, glass half full or half empty. In the [Eight of Cups](/library/tarot-cards/eight-of-cups/) a figure walks away from eight stacked cups towards the mountains: moving on from what you’re already doing. In the [Eight of Swords](/library/tarot-cards/eight-of-swords/) a bound, blindfolded woman stands among eight swords: a prisoner of herself while she holds every tool — she can take the blindfold off. In the [Eight of Pentacles](/library/tarot-cards/eight-of-pentacles/) a craftsman carves coins at his bench: mastery, and the effort it takes.
-
-### Nines (9): the last stretch {#nines}
-
-*Nine is the finish line of a stage: last efforts, introspection, patience — but keep moving.* In the [Nine of Wands](/library/tarot-cards/nine-of-wands/) a man with a bandaged head leans on his staff, eight more behind him like a fence: wounded, still standing. In the [Nine of Cups](/library/tarot-cards/nine-of-cups/) a contented man sits, arms crossed, nine cups lined up behind him. In the [Nine of Swords](/library/tarot-cards/nine-of-swords/) someone sits up in bed, face in hands — for me, coming out of a nightmare, a long troubled period, with protection above you. In the [Nine of Pentacles](/library/tarot-cards/nine-of-pentacles/) a woman stands in a vineyard, a bird on her gloved hand: enjoying what comes, gratitude for what you have.
-
-{{< cards "wa08 cu08 sw08 pe08 wa09 cu09 sw09 pe09" >}}
-
-### Tens (10): the corridor to the next room {#tens}
-
-*Ten is the transition between two stages: change, freedom, sometimes short-lived.* In the [Ten of Wands](/library/tarot-cards/ten-of-wands/) a man carries ten heavy staves towards a town: keep the creative energy, without overloading. In the [Ten of Cups](/library/tarot-cards/ten-of-cups/) a couple raise their arms to a rainbow of cups while two children dance: happiness, family. In the [Ten of Swords](/library/tarot-cards/ten-of-swords/) a man lies face down with ten swords in his back, but the sky is turning yellow at the horizon: rock bottom, and the dawn after it. In the [Ten of Pentacles](/library/tarot-cards/ten-of-pentacles/) an old man, his dogs and a whole family gather under an archway: complete wealth at home — perhaps short-lived, and still there if you leave the cocoon.
-
-{{< cards "wa10 cu10 sw10 pe10" >}}
+That’s why a spread full of one suit tells you the plane before it tells you anything else; I go through an example in [lots of Cups in a reading](/blog/lots-of-cups-in-a-reading/). And it’s why most of your spreads will be mostly minors: they’re 56 of the 78 cards, so a ten-card spread holds seven of them on average. The minors are where everyday life happens.
 
 ## The court cards: Page, Knight, Queen, King {#court-cards}
 
 Each suit has four court cards. The rank says how someone acts; the suit says on what. In the convention I use, each rank also brings an element to its suit — the Page Earth, the Knight Air, the Queen Water, the King Fire — so the Queen of Cups is Water of Water. **A court card can be a person in your life or a state you’re in, and the person in front of you is the one who tells you which.** I go further in [court cards explained](/blog/court-cards-explained/).
 
-### Pages: learning {#pages}
+| Rank | Wands | Cups | Swords | Pentacles |
+|---|---|---|---|---|
+| Page | [curiosity about a project](/library/tarot-cards/page-of-wands/) | [a surprise, an intuition](/library/tarot-cards/page-of-cups/) | [alert, curious, repeats what he heard](/library/tarot-cards/page-of-swords/) | [the student, first steps in a trade](/library/tarot-cards/page-of-pentacles/) |
+| Knight | [an impulsive departure](/library/tarot-cards/knight-of-wands/) | [the romantic offer](/library/tarot-cards/knight-of-cups/) | [quick thinking, sometimes too quick](/library/tarot-cards/knight-of-swords/) | [slow, reliable, the job done properly](/library/tarot-cards/knight-of-pentacles/) |
+| Queen | [warmth and confidence](/library/tarot-cards/queen-of-wands/) | [deep feeling, intuition](/library/tarot-cards/queen-of-cups/) | [clarity and boundaries](/library/tarot-cards/queen-of-swords/) | [practical care](/library/tarot-cards/queen-of-pentacles/) |
+| King | [vision, leading](/library/tarot-cards/king-of-wands/) | [calm under the surface](/library/tarot-cards/king-of-cups/) | [the decision nobody else will make](/library/tarot-cards/king-of-swords/) | [making things prosper](/library/tarot-cards/king-of-pentacles/) |
 
-The [Page](/library/numerology/page/) learns, watches, tries and carries the message. The [Page of Wands](/library/tarot-cards/page-of-wands/) studies his sprouting staff: curiosity about a project. The [Page of Cups](/library/tarot-cards/page-of-cups/) finds a fish looking out of his cup: a surprise, an intuition, a new emotion. The [Page of Swords](/library/tarot-cards/page-of-swords/) stands on a windy hill, sword raised, looking to one side: alert, curious — sometimes the one who repeats what he heard. The [Page of Pentacles](/library/tarot-cards/page-of-pentacles/) holds his coin up like a lesson: the student, the first steps in a trade.
-
-### Knights: action {#knights}
-
-The [Knight](/library/numerology/knight/) leaves: he has learned what was needed, or thinks he has. You can read each one by his horse. The [Knight of Wands](/library/tarot-cards/knight-of-wands/)’s horse rears: an impulsive departure. The [Knight of Cups](/library/tarot-cards/knight-of-cups/) rides slowly, holding his cup out: the romantic offer. The [Knight of Swords](/library/tarot-cards/knight-of-swords/) charges at full gallop: quick thinking, sometimes too quick. The [Knight of Pentacles](/library/tarot-cards/knight-of-pentacles/) is the only one whose horse stands still: slow, reliable, the job done properly.
-
-{{< cards "wapa cupa swpa pepa wakn cukn swkn pekn" >}}
-
-### Queens: holding {#queens}
-
-The [Queen](/library/numerology/queen/) doesn’t leave and doesn’t command: she holds, mastery from the inside. The [Queen of Wands](/library/tarot-cards/queen-of-wands/) holds a sunflower, a black cat at her feet: warmth and confidence. The [Queen of Cups](/library/tarot-cards/queen-of-cups/) gazes at an ornate closed cup at the water’s edge: deep feeling, intuition. The [Queen of Swords](/library/tarot-cards/queen-of-swords/) sits in profile, sword upright, one hand held out: clarity and boundaries. The [Queen of Pentacles](/library/tarot-cards/queen-of-pentacles/) holds her coin in her lap in a flowering garden, a rabbit nearby: practical care.
-
-### Kings: deciding {#kings}
-
-The [King](/library/numerology/king/) decides, then answers for it. The [King of Wands](/library/tarot-cards/king-of-wands/) sits on a throne carved with lions and salamanders: vision, leading. The [King of Cups](/library/tarot-cards/king-of-cups/) keeps his throne steady on a rough sea: calm under the surface. The [King of Swords](/library/tarot-cards/king-of-swords/) faces you, sword upright: judgement, the decision nobody else will make. The [King of Pentacles](/library/tarot-cards/king-of-pentacles/), among grapes and bulls, makes things prosper. The question to ask every King is: for whom?
-
-{{< cards "waqu cuqu swqu pequ waki cuki swki peki" >}}
+The [Page](/library/numerology/page/) learns, watches, tries and carries the message. The [Knight](/library/numerology/knight/) leaves: he has learned what was needed, or thinks he has, and you can read each one by his horse, from the one that rears to the only one standing still. The [Queen](/library/numerology/queen/) doesn’t leave and doesn’t command: she holds, mastery from the inside. The [King](/library/numerology/king/) decides, then answers for it. The question to ask every King is: for whom?
 
 ## Reading a minor card in thirty seconds {#how-to-read}
 
 Number first, suit second, drawing third. Say someone draws the Seven of Pentacles. Seven: reflection, patience, the harvest. Pentacles: Earth, work, something concrete. The drawing: a man leaning on his hoe, looking at what’s growing. Out loud, that becomes: “You’ve done the work. Now it needs time, and checking it every morning won’t make it grow faster.” Then you ask whether that lands — and if it doesn’t, you write it down as a miss.
 
-When one suit fills a spread, it tells you the plane everything is happening on; I go through one example in [lots of Cups in a reading](/blog/lots-of-cups-in-a-reading/). And when the minors sit next to majors, the [22 major arcana](/blog/major-arcana/) give the theme while the minors give the detail.
+When the minors sit next to majors, the [22 major arcana](/blog/major-arcana/) give the theme while the minors give the detail.
 
-## Where to go next {#next-step}
+## Where to start {#where-to-start}
 
-Pick one number this week. Take its four cards out of the deck, put them side by side and say what changes from suit to suit: the same stage, lived through action, feeling, thought and matter. Do it with the 5s and you’ll never forget the difference between a fight, a loss, a disagreement and a hard winter.
+Start with the four Aces: one seed per element, and the easiest way to feel the difference between the suits. Then the Fives, because the contrast is sharpest there. Then one number a week: take its four cards out of the deck, put them side by side and say what changes from suit to suit. Leave the courts for last; they’re the cards people find hardest to place, and they make more sense once the suits feel familiar.
 
-That’s exactly how the [workshops](/workshops/) run: three hours, twelve people, one lens.
+Each day, before you look anything up, describe what’s on the card, what you see and what you receive. Then check its page.
+
+If you’d rather learn it with other people, the [workshops](/workshops/) work the same way: three hours, twelve people, one lens.

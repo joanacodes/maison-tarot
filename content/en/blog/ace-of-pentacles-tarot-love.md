@@ -15,35 +15,41 @@ The Ace of Pentacles in love is a beginning you can touch. Not fireworks: a seed
 
 {{< cards "peac" >}}
 
-## The Ace of Pentacles through its lenses {#lenses}
+## What a single coin does between two people {#one-coin}
 
-The drawing: a hand comes out of a pale cloud, holding up a large gold coin marked with a five-pointed star. Below it lies a garden — white lilies, a path, and an arched opening cut into a green hedge. Through the arch, mountains in the distance. Nobody is in the garden yet. The coin is offered; the path is empty.
+Two lenses do most of the work here. The number is one: the initiator, the rough diamond, the start of a cycle. My note on one gives it humility as advice — get ready to learn — and the lack of it as its minus, whereas we are all students our whole life. In love, that’s the difference between a beginning you explore and a beginning you think you already understand.
 
-The number is [one](/library/numerology/number-1/): the initiator, the rough diamond, the start of a cycle. One’s advice is humility — get ready to learn. Its minus is the lack of it: thinking you already know how the story goes. In the Instagram story I use for numbers, one is Burbn, the small app that came before anyone knew what it would turn into. That’s the scale of this card: small, and full of what it could become.
+The element is Earth, which in my notes means whatever has value for you, money or sentiment, with a mostly feminine energy: protective, steady, the mother of all growth. Not all riches are gold. Between two people, the coin is time, attention, a spare key, a Sunday kept free: things you can count, and things that hold.
 
-The element is [Earth](/library/four-elements/earth-element/): matter, stability, whatever has value for you, whether it’s money or sentiment. In my reading, Earth is mostly feminine energy: protective, steady, the mother of all growth. Tenacity, perseverance, endurance — and, on a bad day, stubbornness. Not all riches are gold. In love, the coin is time, attention, a spare key, a Sunday kept free.
-
-The colours: gold for the coin — value, earned and recognised. Green for the garden and the hedge: nature, growth, birth, life. White for the lilies: innocence, intentions not yet tested. Read them before the card and you already have it: something of value, growing, and still new.
-
-The Golden Dawn doesn’t give the Aces a sign. It calls each one the root of its element, so the Ace of Pentacles is the Root of the Powers of Earth — the whole element in seed form. If that lens doesn’t speak to you, leave it; [the Ace of Pentacles page](/library/tarot-cards/ace-of-pentacles/) has the others.
+Lay the two together and the card says that something small, real and worth keeping has been offered. One detail of the drawing matters for love: the garden path is empty. The colours and the rest are on [the Ace of Pentacles page](/library/tarot-cards/ace-of-pentacles/).
 
 **The coin is offered and the path is empty: the beginning is real, and the walking is yours.**
 
-## What the Ace of Pentacles means in love: single, together, after a break-up {#relationship}
+## Ground to stand on: alone, together, or after it ends {#ground}
+
+If someone drew this card for a love question and told me nothing first, the sentence I’d say out loud would be close to: “Something small and solid is being offered to you, and you’re wondering whether to trust it.” Then I’d stop and let them tell me whether it lands, and what it is. Where it lands depends on where they stand.
 
 When you’re single, the Ace of Pentacles is rarely a lightning bolt. It points at ground. A life steady enough to welcome someone, a week with room in it, the practical steps that make meeting people possible: saying yes to the dinner, joining the class, staying for a second drink. Say someone draws it after months of waiting for chemistry to strike. The card suggests looking for something slower — a person, or a version of yourself, you can build with.
 
-When you’re together, it’s a concrete step. Moving in, a lease signed with both names, a shared project, a garden, a habit that makes the week work. Not a declaration: a foundation. It’s also a good moment to ask what the relationship is actually built on, and whether you both put weight on it.
+When you’re together, it’s a concrete step. Moving in, a lease signed with both names, a shared project, a habit that makes the week work. Not a declaration: a foundation. It’s also a good moment to check what the relationship actually rests on. List what each of you has put on the table this month — not feelings, things: hours, money, chores, plans. If one column is much longer than the other, the coin is being carried by one hand.
 
-After a break-up, the first thing you build is a place to stand. Your own flat, or your own corner of one; your own routine; a weekend that belongs to you. Here the Ace of Pentacles isn’t a new partner. It’s the ground you’ll be standing on when you’re ready for one.
+After a break-up, the first thing you build is a place to stand. Your own flat, or your own corner of one; your own routine; a weekend that belongs to you. Here the Ace isn’t a new partner. It’s the ground you’ll be standing on when you’re ready for one.
 
-## Ace of Pentacles reversed in love {#reversed}
+## When the coin stays on the palm {#reversed}
 
-Reversed, the same beginning slows down or goes too far. Slowed: the coin is offered and nobody takes it. A good thing you don’t dare start because you want a guarantee first; a relationship kept at the “we’ll see” stage for a year.
+Reversed, the same beginning slows down or goes too far. Slowed: the coin is offered and nobody takes it. A good thing you don’t dare start because you want a guarantee first; a relationship kept at the “we’ll see” stage for a year, both of you waiting for the other to close their hand.
 
-In excess, it’s Earth’s stubbornness and one’s missing humility. Holding the coin too tight: possessiveness, a ten-year plan made on the third date, a relationship chosen for comfort and convenience rather than for the person. Structure with no air in it.
+In excess, it’s Earth’s stubbornness and one’s missing humility. Holding the coin too tight: possessiveness, a ten-year plan made on the third date, a relationship chosen for comfort rather than for the person. My notes give Earth an archetype that fits this side well: the artist’s manager, steady, working in the shadow, who sometimes won’t listen because his own plan “brings in more”. In a couple, that’s the partner who has the next five years worked out and hasn’t asked whether the other one wants to live in them.
 
-## The Ace of Pentacles next to other cards {#combinations}
+## “Is this the one?” is a lot to ask of one coin {#the-one}
+
+When something finally feels solid, it’s natural to want a guarantee. “Is this the one?” “Will it last?” “Will they propose?” Those questions usually come from someone who has been let down before and would like, this time, to know before they invest.
+
+I don’t read on the future of two people, because half of it belongs to someone who isn’t in the room, and a card can’t sign a contract on their behalf. The Ace offers a seed, not a promise. Some people also read this card as a partner with money. It says nothing about anyone’s bank account, and money decisions aren’t something I read on ([reading the Pentacles with your feet on the ground](/blog/tarot-cards-for-money/)).
+
+A kinder question: “What am I ready to build, and what would a first concrete step look like this month?” That one has an answer you can carry out.
+
+## Beside the Two of Cups, the King of Cups or Death {#neighbours}
 
 {{< cards "cu02 cuki ar13" >}}
 
@@ -51,17 +57,9 @@ Next to the Two of Cups, feeling meets ground: a connection with something solid
 
 Next to the King of Cups, a beginning held by someone emotionally steady — you, or the person beside you ([the King of Cups in love](/blog/king-of-cups-tarot-love/)).
 
-Next to Death, the harvest and the seed in the same spread: something has ended, and new ground is ready. The Ace often tells you what Death was clearing space for.
+Next to Death, the harvest and the seed in the same spread: something has ended, and new ground is ready. The Ace often tells you what [Death in a love reading](/blog/death-tarot-love/) was clearing space for.
 
-## “Is this the one?” — and a kinder question {#kinder-question}
-
-When something finally feels solid, it’s natural to want a guarantee. “Is this the one?” “Will it last?” “Will they propose?”
-
-I don’t read on the future of two people, because half of it belongs to someone who isn’t in the room, and a card can’t sign a contract on their behalf. The Ace offers a seed, not a promise. Some people also read this card as a partner with money. It says nothing about anyone’s bank account, and money questions aren’t ones I read on ([reading the Pentacles with your feet on the ground](/blog/tarot-cards-for-money/)).
-
-A kinder question: “What am I ready to build, and what would a first concrete step look like this month?” That one has an answer you can carry out.
-
-## Where to go from here {#next-step}
+## Three foundations and a first brick {#try-this}
 
 Write down three things your relationship — or your life, if you’re single — is actually built on today. Then add one thing you’d like to build, in concrete terms: a day, a habit, a place. Keep the list, and look at it again in a month. Don’t take my words as ultimate truth: test it and experience it for yourself.
 

@@ -1,6 +1,6 @@
 ---
 title: 'La Lune (The Moon) — tarot Rider-Waite-Smith : lire la carte par ses clés de lecture'
-description: 'La Lune au tarot, lue par ses clés de lecture : 18 qui devient 9, l’Eau, le bleu de la nuit, les Poissons — l’incertitude, l’imagination, et avancer sans tout voir.'
+description: 'La Lune au tarot par ses clés de lecture : 18 qui devient 9, l’Eau, le bleu de la nuit, les Poissons — l’incertitude, au travail aussi, et avancer sans tout voir.'
 translationKey: card-ar18
 type: cards
 navTitle: La Lune
@@ -31,6 +31,8 @@ faq:
   a: 'Renversée, la Lune, c’est le même brouillard qui se lève doucement, ou qui s’épaissit quand on ne confronte plus ses peurs à rien de réel. Dans les deux cas, le conseil est le même : ne décidez pas comme si vous voyiez clair.'
 - q: 'Que signifie La Lune en amour ?'
   a: 'En amour, la Lune montre souvent ce qui n’est pas encore dit, d’un côté comme de l’autre, et les histoires qu’on se raconte dans les silences. Elle demande de la patience et des questions franches plutôt que des conclusions.'
+- q: 'Que dit La Lune pour le travail ?'
+  a: 'L’incertitude au travail : une rumeur, un entretien resté sans réponse, un poste que personne n’a vraiment défini. Elle vous demande de ne pas décider dans le brouillard, et de vérifier ce que vous savez vraiment.'
 categories:
 - Arcane majeur
 tags:
@@ -75,7 +77,19 @@ Renversée, le brouillard se lève doucement — ou il s’épaissit, quand on n
 
 {{< cards "ar02 cu07 ar19" >}}
 
-**La Lune ne dit pas que quelque chose ne va pas ; elle dit que vous ne le voyez pas encore nettement, alors ne décidez pas comme si c’était le cas.** Pour les questions habituelles, j’ai écrit sur [la Lune en amour](/fr/blog/la-lune-tarot-amour/) et sur [l’incertitude au travail](/fr/blog/la-lune-tarot-travail/).
+**La Lune ne dit pas que quelque chose ne va pas ; elle dit que vous ne le voyez pas encore nettement, alors ne décidez pas comme si c’était le cas.** Pour les questions habituelles, j’ai écrit sur [la Lune en amour](/fr/blog/la-lune-tarot-amour/), et l’incertitude au travail a sa section juste en dessous.
+
+## Au travail {#au-travail}
+
+Au travail, la Lune arrive souvent en fin d’étape : l’ancienne façon de faire s’en va, la nouvelle n’a pas encore de nom. L’incertitude y a plusieurs visages. Les rumeurs : radio moquette annonce une fusion, la porte du manager se ferme plus souvent. L’attente : l’entretien s’est bien passé, puis deux semaines de silence, et à chaque heure vous réécrivez l’histoire. Le poste flou, où personne ne vous a dit à quoi ressemble la réussite.
+
+Ce peut être une intuition : on sent parfois un changement avant qu’il soit annoncé. Le piège, c’est de décider dans le brouillard — démissionner sur une rumeur, ou perdre un week-end sur un mail qui ne disait rien. **La phrase utile n’est pas « quelque chose ne va pas » mais « je ne sais pas encore, et voici ce que je peux vérifier ».**
+
+Renversée au travail, le brouillard se lève : l’annonce finit par tomber, le poste reçoit une fiche, la réponse arrive — pas toujours celle qu’on espérait, mais une vraie.
+
+La Lune attire deux questions : « Vais-je avoir le poste ? » et « Se passe-t-il quelque chose dans mon dos ? » Les deux naissent de l’attente sans information, ce qu’il y a de plus usant. Je ne lis pas ce que pense un recruteur ou un collègue : ils ne sont pas dans la pièce, et je lis la personne en face de moi. Quant à « Quand aurai-je une réponse ? », [c’est sur les dates que je me trompe le plus](/fr/blog/tarot-quand/). Un raté est un raté, et un « oui, la semaine prochaine » erroné vous coûterait une semaine d’espoir. Une question plus douce : « Qu’est-ce que je sais vraiment, et qu’est-ce que j’imagine ? »
+
+Cette semaine, tracez deux colonnes : ce que je sais, ce que j’imagine. Le poids est presque toujours dans la seconde. Puis posez une question claire à qui peut y répondre — « Est-ce que mon poste change ? » — et gardez les pensées de 3 h du matin pour le matin : ni mail ni démission à cette heure-là.
 
 ## Exemple de tirage {#exemple}
 

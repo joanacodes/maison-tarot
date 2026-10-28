@@ -1,7 +1,7 @@
 ---
 title: 'Le Magicien (The Magician) — tarot Rider-Waite-Smith : lire la carte par ses
   clés de lecture'
-description: 'Le Magicien (le Bateleur) au tarot : quatre outils sur une table, le nombre 1, l’Air et Mercure. Le lire à l’endroit et renversé, sans confondre talent et boniment.'
+description: 'Le Magicien (le Bateleur) au tarot : quatre outils, le 1, l’Air et Mercure. Le lire à l’endroit, renversé et au travail, sans confondre talent et boniment.'
 translationKey: card-ar01
 type: cards
 navTitle: Le Magicien
@@ -33,6 +33,8 @@ faq:
   a: 'Les mêmes outils, inutilisés ou utilisés pour la galerie : le projet qui reste un beau discours, ou le talent mis au service de l’apparence. Regardez ce qui a été fait, pas ce qui a été dit.'
 - q: Que veut dire Le Magicien en amour ?
   a: 'Quelqu’un qui a les moyens de faire le premier pas, et la question de savoir s’il le pense vraiment. Lisez-le comme une invitation à agir de votre côté, pas comme une prédiction sur l’autre.'
+- q: Que dit Le Magicien pour le travail ?
+  a: 'Une compétence prête à servir : un nouveau poste, un projet à mener, un entretien ou une affaire à vous, avec tous les outils déjà sur la table. Il ne dit pas si une entreprise réussira ; il demande lequel de vos quatre outils vous n’utilisez pas encore.'
 categories:
 - Arcane majeur
 tags:
@@ -71,13 +73,25 @@ Dans la tradition Golden Dawn, le Magicien correspond à [Mercure](/fr/bibliothe
 
 ## En lecture {#lecture}
 
-À l’endroit, le Magicien dit que vous avez ce qu’il faut, et que le prochain geste vous revient. Pas « attendez un signe » : les outils sont sur la table. Au travail, c’est une compétence prête à servir ([le Magicien au travail](/fr/blog/le-bateleur-tarot-travail/)) ; en amour, c’est le premier pas, et la question de savoir s’il est sincère ([le Magicien en amour](/fr/blog/le-bateleur-tarot-amour/)). On en fait souvent la carte de la manifestation ; je la lis de façon plus terre à terre — les choses arrivent parce que quelqu’un a pris les outils en main ([ce que je pense de la manifestation](/fr/blog/manifestation-tarot/)).
+À l’endroit, le Magicien dit que vous avez ce qu’il faut, et que le prochain geste vous revient. Pas « attendez un signe » : les outils sont sur la table. Au travail, c’est une compétence prête à servir (j’y reviens plus bas) ; en amour, c’est le premier pas, et la question de savoir s’il est sincère ([le Magicien en amour](/fr/blog/le-bateleur-tarot-amour/)). On en fait souvent la carte de la manifestation ; je la lis de façon plus terre à terre — les choses arrivent parce que quelqu’un a pris les outils en main ([ce que je pense de la manifestation](/fr/blog/manifestation-tarot/)).
 
 Renversé, les outils restent sur la table. Soit personne ne s’en sert — le projet peaufiné dans sa tête depuis deux ans —, soit on s’en sert pour la galerie, et le boniment vaut mieux que le travail. C’est le revers que je note pour cette carte : si on lui fait confiance les yeux fermés, le Magicien peut mentir, ou faire semblant.
 
 À côté du [Mat](/fr/bibliotheque/cartes-tarot/le-mat/), c’est 0 puis 1 : une envie qui devient un outil. À côté de la [Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), celui qui parle se tient près de celle qui se tait ; écoutez les deux. À côté du [Sept d’Épées](/fr/bibliotheque/cartes-tarot/sept-de-epees/), le talent s’accompagne d’un petit tour de passe-passe : vérifiez deux fois. **Le Magicien n’est pas une promesse ; c’est une boîte à outils, et la lecture, c’est ce qu’on en fait.**
 
 {{< cards "ar00 ar02 sw07" >}}
+
+## Au travail {#au-travail}
+
+Au travail, le Magicien, c’est le moment où vos compétences rencontrent un point de départ : un nouveau poste où servira tout ce que vous savez, un projet qu’on vous confie, un entretien d’embauche, ou le statut d’auto-entrepreneur que vous regardez depuis des mois. C’est quelqu’un qui sait attraper une idée et la faire atterrir. Dans une reconversion, c’est aussi le débutant qu’on redevient : on reste élève toute sa vie, et c’est en forgeant qu’on devient forgeron.
+
+Les quatre outils font un bon bilan. Le bâton : en avez-vous encore envie ? La coupe : tenez-vous aux gens à qui c’est destiné ? L’épée : avez-vous réfléchi jusqu’au bout ? Le pentacle : est-ce que ça tient dans la pratique — temps, matériel, intendance ? La plupart des gens sont solides sur deux et évitent discrètement les deux autres. Les cartes ne sont pas magiques, vous l’êtes, et c’est vrai aussi de l’homme derrière sa table.
+
+Renversé au travail, c’est la présentation qui vaut mieux que le produit — ou l’inquiétude inverse, le syndrome de l’imposteur : un vrai savoir-faire que vous n’osez pas montrer, avec la certitude qu’on finira par vous démasquer. Un diamant brut reste un diamant.
+
+La question qu’attire cette carte : « Est-ce que ça marchera si je me lance ? » Je comprends : se lancer coûte de l’argent, de la sécurité, parfois de la fierté, et on aimerait qu’une carte porte une partie du risque. Démissionner, investir, emprunter : ce sont des décisions d’argent, et [je les laisse hors de mes tirages](/fr/avertissements/#refus) ; qu’une affaire marche dépend de clients et d’un marché qu’aucune carte ne voit. Pour les chiffres, un expert-comptable ou un conseiller à la création d’entreprise vous aidera mieux qu’un tirage. Une question plus douce : « Lequel de mes quatre outils est-ce que je n’utilise pas encore ? »
+
+Cette semaine, tracez quatre colonnes sur une feuille : bâton, coupe, épée, pentacle. Sous chacune, notez ce que vous avez déjà pour ce que vous voulez lancer. **La colonne la plus vide, c’est votre première tâche.**
 
 ## Exemple de tirage {#exemple}
 

@@ -1,7 +1,7 @@
 ---
 title: 'Dix d’Épées (Ten of Swords) — tarot Rider-Waite-Smith : lire la carte par
   ses clés de lecture'
-description: 'Le Dix d’Épées du tarot Rider-Waite-Smith : un homme face contre terre, dix épées dans le dos, une bande de lumière à l’horizon. La fin, lue par le nombre et l’Air.'
+description: 'Le Dix d’Épées du tarot Rider-Waite-Smith : un homme à terre, dix épées dans le dos, la lumière à l’horizon. La fin, au travail aussi, lue par le nombre et l’Air.'
 translationKey: card-sw10
 type: cards
 navTitle: Dix d’Épées
@@ -33,6 +33,8 @@ faq:
   a: 'La même fin, freinée ou excessive. Freinée : se relever lentement, une épée après l’autre, une fois le pire passé. Excessive : refuser d’admettre que c’est fini, ou vivre chaque contretemps comme le fond du trou.'
 - q: 'Le Dix d’Épées annonce-t-il une mort ?'
   a: 'Non. Une carte n’annonce ni une mort, ni une maladie, ni une agression, et je ne lis pas sur ces sujets. Le Dix d’Épées parle d’une fin dans votre vie — une étape, un rôle, une histoire que vous vous racontiez — et de ce qui vient après.'
+- q: 'Que dit le Dix d’Épées pour le travail ?'
+  a: 'Le fond du trou au travail : un poste, un projet ou une façon de travailler arrivés au bout de ce qu’ils pouvaient donner. Il ne prédit pas un licenciement ; il marque la fin de la chute et demande sur quelle petite chose vous pouvez vous relever.'
 categories:
 - Épées
 tags:
@@ -77,9 +79,21 @@ Renversé, la même fin est freinée ou excessive. Freinée : se relever lenteme
 
 Si quelqu’un tire cette carte alors que tout va vraiment au plus mal, la carte n’est pas le sujet. Demandez à la personne comment elle va. Si cela semble plus lourd que ce qu’une lecture peut porter, [un médecin ou un thérapeute est la bonne porte](/fr/avertissements/#therapie), et le dire avec douceur fait partie d’une bonne lecture.
 
-À côté de la [Mort](/fr/bibliotheque/cartes-tarot/la-mort/), la fin est confirmée — et dans mes notes, la Mort, c’est aussi la récolte, l’envie de rendre la vie à nouveau fertile. À côté de l’[As d’Épées](/fr/bibliotheque/cartes-tarot/as-de-epees/), le cycle se ferme et une idée neuve et claire ouvre le suivant. J’ai écrit sur cette carte [en amour](/fr/blog/dix-depees-amour/) et [au travail, quand on touche le fond](/fr/blog/dix-depees-travail/), et sur [les lames qui font peur, plus douces qu’il n’y paraît](/fr/blog/cartes-tarot-qui-font-peur/).
+À côté de la [Mort](/fr/bibliotheque/cartes-tarot/la-mort/), la fin est confirmée — et dans mes notes, la Mort, c’est aussi la récolte, l’envie de rendre la vie à nouveau fertile. À côté de l’[As d’Épées](/fr/bibliotheque/cartes-tarot/as-de-epees/), le cycle se ferme et une idée neuve et claire ouvre le suivant. J’ai écrit sur cette carte [en amour](/fr/blog/dix-depees-amour/), et sur [les lames qui font peur, plus douces qu’il n’y paraît](/fr/blog/cartes-tarot-qui-font-peur/).
 
 {{< cards "ar13 swac" >}}
+
+## Au travail {#au-travail}
+
+Au travail, la carte décrit souvent ce qui a déjà eu lieu : le projet arrêté après un an d’efforts, le plan social qui a supprimé votre poste, la promotion donnée à quelqu’un d’autre, une fois de plus. Ou une fin plus lente : le poste que vous teniez à bout de bras jusqu’au mardi où vous n’avez plus pu.
+
+La lecture classique, c’est le coup de poignard dans le dos, parfois à raison — un collègue qui s’est attribué votre travail, une décision prise sans vous. Je compterais quand même les épées avant de décider qui les a toutes plantées. Plusieurs sont souvent les nôtres : les soirées trop tardives, les signaux qu’on n’a pas écoutés, les pensées qu’on ressasse.
+
+Renversé au travail, les épées sortent une à une — une première candidature envoyée, une vraie nuit de sommeil —, ou la fin est refusée, et vous restez à terre dans un poste qui en a fini avec vous.
+
+Cette carte apporte une question : « Ma carrière est-elle finie ? », souvent avec « Vais-je perdre mon poste ? » derrière. Elle vient d’une peur très concrète : le loyer, la famille, l’idée de soi qui va avec un métier. Je ne lis ni sur un licenciement à venir ni sur l’argent : une carte ne voit pas les décisions d’une entreprise. Si vous êtes à bout au point que le travail vous suit chaque soir jusqu’à la maison, c’est la porte d’un médecin, pas celle d’un jeu de cartes. Et l’aide est souvent plus proche qu’il n’y paraît : les amis, les anciens collègues, les conseillers de France Travail dont c’est le métier. Une question plus douce : « Qu’est-ce qui s’est terminé, et sur quelle petite chose puis-je me relever cette semaine ? »
+
+Cette semaine, notez les dix épées : dix choses qui font mal dans cette fin. Puis barrez celles qui sont des pensées plutôt que des faits. Ce qui reste — presque toujours moins de dix — est le vrai terrain pour reconstruire.
 
 ## Exemple de tirage {#exemple}
 
