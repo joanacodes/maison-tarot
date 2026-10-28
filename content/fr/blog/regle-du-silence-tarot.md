@@ -5,7 +5,7 @@ translationKey: post-the-silence-rule
 aliases: ["/fr/blog/comment-debuter-le-tarot/"]
 type: blog
 date: 2026-09-12
-categories: ["Méthode"]
+categories: ["Pour les tarologues"]
 tags: ["règle du silence", "lecture à l’aveugle", "tirage tarot", "méthode tarot", "tarologue", "lecture froide"]
 image: "covers/the-silence-rule.jpg"
 imageAlt: "Deux chaises face à face autour d’une petite table en bois, un jeu de cartes posé au centre, personne assise"
