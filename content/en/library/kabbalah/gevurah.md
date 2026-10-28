@@ -29,6 +29,8 @@ Gevurah (גבורה) means “strength” or “might”. It is the fifth of the
 
 The tradition attaches it to Isaac, as it attaches Chesed to Abraham. On the Tree, Gevurah is number 5, on the left column under [Binah](/library/kabbalah/binah/), facing Chesed on the right. The two meet in [Tiferet](/library/kabbalah/tiferet/), in the middle, which balances them; Hermetic diagrams call these three the ethical triangle. The [Tree of Life page](/library/kabbalah/tree-of-life/) shows them in place.
 
+{{< tree-of-life highlight="gevurah" >}}
+
 ## The four Fives {#cards}
 
 The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of the Golden Dawn, which borrowed the Tree and rebuilt it as a system for cards, planets and elements. In that system, a teaching about how judgement tempers kindness becomes a sphere ruled by Mars, and the Fives — conflict, loss, defeat — land on it. I keep the two apart. Each sephirah takes the four minor cards of its number, so Gevurah takes the Fives.

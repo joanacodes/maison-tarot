@@ -62,6 +62,8 @@ One honest limit: the versions of Sefer Yetzirah don’t agree on which planet g
 
 The meanings are the usual readings of the names, the ones the Golden Dawn used. For He, Teth, Tsade and Qoph the original meaning is uncertain: window, serpent, fish-hook and back of the head are the Golden Dawn’s readings. In the last column the cards keep their Rider-Waite-Smith names; Marseille decks call some of them differently (the Bateleur for the Magician, the Papesse for the High Priestess, the Maison Dieu for the Tower).
 
+{{< tree-of-life mode="letters" >}}
+
 ## The three mother letters {#mothers}
 
 Aleph (א), the ox. A mother letter: air, in Sefer Yetzirah. The Golden Dawn gave it to the card numbered zero, the Fool, the trump of [Air](/library/four-elements/air-element/). The contrast is worth a look: the plodding ox on the lightest card in the deck.

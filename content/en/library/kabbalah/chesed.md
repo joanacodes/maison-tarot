@@ -29,6 +29,8 @@ Chassidic teaching describes chesed as giving without limit — it wants to do g
 
 The tradition attaches it to Abraham, who in Genesis runs out to welcome three strangers to his tent. On the Tree, Chesed is number 4, on the right column under [Chokhmah](/library/kabbalah/chokhmah/), facing [Gevurah](/library/kabbalah/gevurah/) on the left. The two meet in [Tiferet](/library/kabbalah/tiferet/), in the middle, which balances them. Hermetic diagrams call these three the ethical triangle. The [Tree of Life page](/library/kabbalah/tree-of-life/) shows them in place.
 
+{{< tree-of-life highlight="chesed" >}}
+
 ## The four Fours {#cards}
 
 The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of the Golden Dawn, which borrowed the Tree and rebuilt it as a system for cards, planets and elements. In that system, a teaching about how God gives becomes a sphere ruled by Jupiter, holding four playing cards. I keep the two apart. Each sephirah takes the four minor cards of its number, so Chesed takes the Fours.

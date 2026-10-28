@@ -29,6 +29,8 @@ The word shares its root with hoda’ah, acknowledgement or thanks, and Chassidi
 
 On the body, Hod is the left leg, facing [Netzach](/library/kabbalah/netzach/), the right: one pushes forward, the other steadies. Kabbalists pair Netzach with Moses and Hod with Aaron, his brother and the first high priest. With Netzach and [Yesod](/library/kabbalah/yesod/), Hod forms the third triad, often taught as the forces of action. The [Tree of Life page](/library/kabbalah/tree-of-life/) shows them in place.
 
+{{< tree-of-life highlight="hod" >}}
+
 ## The four Eights {#cards}
 
 The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of the Golden Dawn, which borrowed the Tree and rebuilt it as a system for cards, planets and elements. In that system, a teaching about majesty and acknowledgement becomes the sphere of Mercury, the mind. I keep the two apart. Each sephirah takes the four minor cards of its number, so Hod takes the Eights.

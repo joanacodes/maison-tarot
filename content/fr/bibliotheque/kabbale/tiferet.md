@@ -30,6 +30,8 @@ Son travail, c’est l’équilibre. [Hesed](/fr/bibliotheque/kabbale/hesed/), �
 
 Sur le corps, c’est le torse et le cœur. La tradition la rattache à Jacob, après Abraham (Hesed) et Isaac (Gevurah) ; pendant Souccot, Jacob est l’invité du troisième jour. Les images de la Kabbale font aussi de Tiferet un fiancé, ou un prince, qui cherche l’union avec [Malkhout](/fr/bibliotheque/kabbale/malkhout/), la Shekhinah. Avec Hesed et Gevurah, elle ferme la deuxième triade, que les schémas hermétiques appellent le triangle éthique. La [page de l’Arbre de Vie](/fr/bibliotheque/kabbale/arbre-de-vie/) les montre en place.
 
+{{< tree-of-life highlight="tiferet" >}}
+
 ## Les quatre Six {#cartes}
 
 Les correspondances du tarot ne sont pas juives. Elles viennent de la Qabale hermétique de la Golden Dawn, qui a emprunté l’Arbre pour en faire un système de cartes, de planètes et d’éléments — et une échelle d’initiation, où Tiferet est devenue le grade d’Adeptus Minor, 5=6. Je garde les deux séparées. Chaque sephirah y reçoit les quatre cartes mineures de son nombre : pour Tiferet, les Six.

@@ -29,6 +29,8 @@ Malkhout n’a rien en propre. Le Zohar le dit, et les kabbalistes la comparent 
 
 La Kabbale appelle aussi Malkhout la Shekhinah, un mot du Talmud pour la présence de Dieu qui habite le monde. Cette présence y est représentée au féminin : la fiancée que [Tiferet](/fr/bibliotheque/kabbale/tiferet/), le fiancé, cherche à rejoindre. La tradition rattache Malkhout au roi David, la figure de la royauté. La [page de l’Arbre de Vie](/fr/bibliotheque/kabbale/arbre-de-vie/) la montre au pied de tout l’édifice.
 
+{{< tree-of-life highlight="malkhut" >}}
+
 ## Les quatre Dix {#cartes}
 
 Les correspondances du tarot ne sont pas juives. Elles viennent de la Qabale hermétique de la Golden Dawn, et c’est sur Malkhout que le déplacement se voit le mieux : dans les sources juives, c’est la présence de Dieu dans le monde ; dans les tableaux de la Golden Dawn, c’est le monde lui-même, la sphère des éléments, et le premier grade de l’initiation, Zelator, 1=10. Je garde les deux séparées. Chaque sephirah y reçoit les quatre cartes mineures de son nombre : pour Malkhout, les Dix.

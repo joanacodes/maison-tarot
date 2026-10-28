@@ -31,6 +31,8 @@ Hokhmah (חכמה) veut dire « sagesse ». C’est la deuxième des dix sephiro
 
 Sur l’Arbre, Hokhmah porte le numéro 2, en haut de la colonne de droite, le côté de l’expansion et du don, qui descend vers [Hesed](/fr/bibliotheque/kabbale/hesed/). Avec Keter et Binah, elle forme les trois sephirot supérieures de l’[Arbre de Vie](/fr/bibliotheque/kabbale/arbre-de-vie/).
 
+{{< tree-of-life highlight="chokhmah" >}}
+
 ## Les quatre Deux {#cartes}
 
 Les correspondances du tarot ne sont pas juives. Elles viennent de la Qabale hermétique de la Golden Dawn, qui a emprunté l’Arbre pour en faire un système de cartes, de planètes et d’éléments. C’est une transformation de la tradition, et je garde les deux séparées. Chaque sephirah y reçoit les quatre cartes mineures de son nombre : pour Hokhmah, les Deux.

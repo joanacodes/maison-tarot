@@ -1,0 +1,72 @@
+{{- /* {{< tree-of-life >}} — l’Arbre de vie de la Golden Dawn, dessiné en SVG depuis data/kabbalah.yml et data/cards.yml.
+     highlight="gevurah" : la sphère et ses sentiers ressortent, le reste s’efface (pages des sephiroth).
+     mode="letters"      : les étiquettes prennent la couleur de leur famille de lettres (mères, doubles, simples).
+     pillars="true"      : les trois colonnes sont nommées.
+     Chaque sentier mène à son arcane et chaque sphère à sa page : le dessin sert aussi de sommaire, et il suit
+     le thème clair ou sombre parce qu’il ne connaît que les variables de couleur du site. */ -}}
+{{- $fr := eq .Page.Language.Lang "fr" -}}
+{{- $k := hugo.Data.kabbalah -}}
+{{- $cards := hugo.Data.cards -}}
+{{- $hl := .Get "highlight" | default "" -}}
+{{- $mode := .Get "mode" | default "" -}}
+{{- $pillars := eq (.Get "pillars") "true" -}}
+{{- $uid := printf "tol-%d" .Ordinal -}}
+{{- $roman := slice "0" "I" "II" "III" "IV" "V" "VI" "VII" "VIII" "IX" "X" "XI" "XII" "XIII" "XIV" "XV" "XVI" "XVII" "XVIII" "XIX" "XX" "XXI" -}}
+{{- $pos := dict -}}
+{{- range $k.sephirot }}{{ $pos = merge $pos (dict .key .) }}{{ end -}}
+{{- if and $hl (not (index $pos $hl)) }}{{ errorf "tree-of-life: unknown sephirah %q in %s" $hl $.Page.File.Path }}{{ end -}}
+{{- $cardSection := cond $fr "/bibliotheque/cartes-tarot" "/library/tarot-cards" -}}
+{{- $sephSection := cond $fr "/bibliotheque/kabbale" "/library/kabbalah" -}}
+{{- $hlName := "" }}{{ with $hl }}{{ $s := index $pos . }}{{ $hlName = cond $fr $s.fr $s.en }}{{ end -}}
+<figure class="tree-of-life{{ with $hl }} has-highlight{{ end }}{{ with $mode }} mode-{{ . }}{{ end }}">
+<svg viewBox="0 0 400 {{ if $pillars }}700{{ else }}672{{ end }}" role="img" aria-labelledby="{{ $uid }}-t {{ $uid }}-d" xmlns="http://www.w3.org/2000/svg">
+<title id="{{ $uid }}-t">{{ if $fr }}L’Arbre de vie de la Golden Dawn{{ with $hlName }}, {{ . }} mise en avant{{ end }}{{ else }}The Golden Dawn Tree of Life{{ with $hlName }}, with {{ . }} highlighted{{ end }}{{ end }}</title>
+<desc id="{{ $uid }}-d">{{ if $fr }}Dix sphères reliées par vingt-deux sentiers ; chaque sentier porte une lettre hébraïque et un arcane majeur.{{ else }}Ten spheres joined by twenty-two paths; each path carries a Hebrew letter and a major arcanum.{{ end }}</desc>
+{{- if $pillars }}
+<g class="tol-pillars" aria-hidden="true">
+  <rect x="30" y="80" width="80" height="392" rx="40"/><rect x="290" y="80" width="80" height="392" rx="40"/><rect x="160" y="2" width="80" height="666" rx="40"/>
+  <text x="70" y="684">{{ if $fr }}Rigueur{{ else }}Severity{{ end }}</text><text x="200" y="694">{{ if $fr }}Équilibre{{ else }}Balance{{ end }}</text><text x="330" y="684">{{ if $fr }}Miséricorde{{ else }}Mercy{{ end }}</text>
+</g>
+{{- end }}
+<g class="tol-paths" aria-hidden="true">
+{{- range $k.paths }}{{ $a := index $pos .from }}{{ $b := index $pos .to }}
+  <line x1="{{ $a.x }}" y1="{{ $a.y }}" x2="{{ $b.x }}" y2="{{ $b.y }}"{{ if and $hl (or (eq .from $hl) (eq .to $hl)) }} class="on"{{ end }}/>
+{{- end }}
+</g>
+<g class="tol-labels">
+{{- range $k.paths }}
+  {{- $a := index $pos .from }}{{ $b := index $pos .to }}{{ $t := .t | default 0.5 }}
+  {{- $x := add (float $a.x) (mul (sub (float $b.x) (float $a.x)) $t) }}{{ $y := add (float $a.y) (mul (sub (float $b.y) (float $a.y)) $t) }}
+  {{- $c := false }}{{ range first 1 (where $cards "id" .card) }}{{ $c = . }}{{ end }}
+  {{- if not $c }}{{ errorf "tree-of-life: unknown card %q in data/kabbalah.yml" .card }}{{ end }}
+  {{- $name := cond $fr $c.name_fr $c.name_en }}
+  {{- $page := site.GetPage (printf "%s/%s" $cardSection (cond $fr $c.slug_fr $c.slug_en)) }}
+  {{- $on := and $hl (or (eq .from $hl) (eq .to $hl)) }}
+  <a href="{{ with $page }}{{ .RelPermalink }}{{ end }}" class="tol-label {{ .kind }}{{ if $on }} on{{ end }}" transform="translate({{ printf "%.1f" $x }} {{ printf "%.1f" $y }})">
+    <title>{{ if $fr }}Sentier {{ .n }} · {{ $c.kabbalah }} · {{ $name }}{{ else }}Path {{ .n }} · {{ $c.kabbalah }} · {{ $name }}{{ end }}</title>
+    <rect x="-21" y="-11" width="42" height="22" rx="11"/>
+    <text class="glyph" x="-10" y="5">{{ .glyph }}</text><text class="num" x="7" y="4">{{ index $roman $c.number }}</text>
+  </a>
+{{- end }}
+</g>
+<g class="tol-sephirot">
+{{- range $k.sephirot }}
+  {{- $page := site.GetPage (printf "%s/%s" $sephSection (cond $fr .slug_fr .slug_en)) }}
+  <a href="{{ with $page }}{{ .RelPermalink }}{{ end }}" class="tol-sphere{{ if eq .key $hl }} on{{ end }}" transform="translate({{ .x }} {{ .y }})">
+    <title>{{ .n }} · {{ cond $fr .fr .en }} — {{ cond $fr .fr_t .en_t }}</title>
+    <circle r="34"/>
+    <text class="n" y="-15">{{ .n }}</text><text class="name" y="2">{{ cond $fr .fr .en }}</text><text class="t" y="15">{{ cond $fr .fr_t .en_t }}</text>
+  </a>
+{{- end }}
+</g>
+</svg>
+<figcaption>
+{{- if $hl -}}
+  {{ if $fr }}{{ $hlName }} sur l’Arbre, avec les sentiers qui la relient aux autres sphères. Touchez une sphère pour sa page, un sentier pour son arcane.{{ else }}{{ $hlName }} on the Tree, with the paths that join it to the other spheres. Tap a sphere for its page, a path for its card.{{ end }}
+{{- else if eq $mode "letters" -}}
+  {{ if $fr }}Les vingt-deux sentiers et leurs lettres : <span class="key mother">mères</span> (Aleph, Mem, Shin), <span class="key double">doubles</span> (sept) et <span class="key simple">simples</span> (douze). Le chiffre est celui de l’arcane.{{ else }}The twenty-two paths and their letters: <span class="key mother">mothers</span> (Aleph, Mem, Shin), <span class="key double">doubles</span> (seven) and <span class="key simple">simples</span> (twelve). The numeral is the card’s.{{ end }}
+{{- else -}}
+  {{ if $fr }}L’Arbre de vie selon la Golden Dawn : les dix sphères (les As en Keter, les Dix en Malkhout) et les vingt-deux sentiers des arcanes majeurs. Touchez une sphère ou un sentier pour ouvrir sa page.{{ else }}The Tree of Life as the Golden Dawn drew it: ten spheres (the Aces in Keter, the Tens in Malkhut) and the twenty-two paths of the major arcana. Tap a sphere or a path to open its page.{{ end }}
+{{- end -}}
+</figcaption>
+</figure>

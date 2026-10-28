@@ -29,6 +29,8 @@ Gevurah (גבורה) veut dire « force » ou « puissance ». C’est la cinqui
 
 La tradition la rattache à Isaac, comme elle rattache Hesed à Abraham. Sur l’Arbre, Gevurah porte le numéro 5, sur la colonne de gauche sous [Binah](/fr/bibliotheque/kabbale/binah/), face à Hesed à droite. Les deux se rejoignent en [Tiferet](/fr/bibliotheque/kabbale/tiferet/), au milieu, qui les équilibre ; les schémas hermétiques appellent ces trois-là le triangle éthique. La [page de l’Arbre de Vie](/fr/bibliotheque/kabbale/arbre-de-vie/) les montre en place.
 
+{{< tree-of-life highlight="gevurah" >}}
+
 ## Les quatre Cinq {#cartes}
 
 Les correspondances du tarot ne sont pas juives. Elles viennent de la Qabale hermétique de la Golden Dawn, qui a emprunté l’Arbre pour en faire un système de cartes, de planètes et d’éléments. Un enseignement sur la façon dont le jugement tempère la bonté y devient une sphère gouvernée par Mars, où atterrissent les Cinq — le conflit, la perte, la défaite. Je garde les deux séparées. Chaque sephirah y reçoit les quatre cartes mineures de son nombre : pour Gevurah, les Cinq.

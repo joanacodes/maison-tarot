@@ -29,6 +29,8 @@ Yesod (יסוד) veut dire « fondement ». C’est la neuvième des dix sephiro
 
 La tradition rattache Yesod au tsaddik, le juste, à travers un verset des Proverbes (10,25) lu comme « le juste est le fondement du monde ». Sa figure biblique est Joseph. Sur le corps, c’est l’organe de la génération, marqué par l’alliance de la circoncision : Yesod parle de lien et de transmission. Il ferme la troisième triade avec [Netzah](/fr/bibliotheque/kabbale/netzah/) et [Hod](/fr/bibliotheque/kabbale/hod/), à droite et à gauche. La [page de l’Arbre de Vie](/fr/bibliotheque/kabbale/arbre-de-vie/) les montre en place.
 
+{{< tree-of-life highlight="yesod" >}}
+
 ## Les quatre Neuf {#cartes}
 
 Les correspondances du tarot ne sont pas juives. Elles viennent de la Qabale hermétique de la Golden Dawn, qui a emprunté l’Arbre pour en faire un système de cartes, de planètes et d’éléments, et une échelle de grades : Yesod y est devenue la deuxième marche, Theoricus, 2=9. Je garde les deux séparées. Chaque sephirah y reçoit les quatre cartes mineures de son nombre : pour Yesod, les Neuf.

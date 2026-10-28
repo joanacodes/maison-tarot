@@ -14,3 +14,5 @@ Au XIXe siècle, des occultistes étrangers au judaïsme ont emprunté cet Arbre
 À la Maison, c’est une clé de lecture en plus, pas l’une des cinq que j’enseigne. Vous pouvez lire tout le jeu sans elle. Ces pages sont là pour qui veut savoir d’où viennent les correspondances, et ce que dit vraiment chaque tradition.
 
 Commencez par [l’Arbre dans son ensemble](/fr/bibliotheque/kabbale/arbre-de-vie/). Puis une page par sphère, de [Keter, où se posent les quatre As](/fr/bibliotheque/kabbale/keter/), en passant par [Hokhmah](/fr/bibliotheque/kabbale/hokhmah/), [Binah](/fr/bibliotheque/kabbale/binah/), [Hesed](/fr/bibliotheque/kabbale/hesed/), [Gevurah](/fr/bibliotheque/kabbale/gevurah/), [Tiferet](/fr/bibliotheque/kabbale/tiferet/), [Netzah](/fr/bibliotheque/kabbale/netzah/), [Hod](/fr/bibliotheque/kabbale/hod/) et [Yesod](/fr/bibliotheque/kabbale/yesod/), jusqu’à [Malkhout et les quatre Dix](/fr/bibliotheque/kabbale/malkhout/). [La table des vingt-deux lettres](/fr/bibliotheque/kabbale/lettres-hebraiques-arcanes-majeurs/) ferme la section.
+
+{{< tree-of-life >}}

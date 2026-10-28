@@ -29,6 +29,8 @@ L’enseignement hassidique décrit le hesed comme un don sans limite — il veu
 
 La tradition la rattache à Abraham, qui dans la Genèse court accueillir trois inconnus sous sa tente. Sur l’Arbre, Hesed porte le numéro 4, sur la colonne de droite sous [Hokhmah](/fr/bibliotheque/kabbale/hokhmah/), face à [Gevurah](/fr/bibliotheque/kabbale/gevurah/) à gauche. Les deux se rejoignent en [Tiferet](/fr/bibliotheque/kabbale/tiferet/), au milieu, qui les équilibre ; les schémas hermétiques appellent ces trois-là le triangle éthique. La [page de l’Arbre de Vie](/fr/bibliotheque/kabbale/arbre-de-vie/) les montre en place.
 
+{{< tree-of-life highlight="chesed" >}}
+
 ## Les quatre Quatre {#cartes}
 
 Les correspondances du tarot ne sont pas juives. Elles viennent de la Qabale hermétique de la Golden Dawn, qui a emprunté l’Arbre pour en faire un système de cartes, de planètes et d’éléments. Un enseignement sur la façon dont Dieu donne y devient une sphère gouvernée par Jupiter, qui tient quatre cartes à jouer. Je garde les deux séparées. Chaque sephirah y reçoit les quatre cartes mineures de son nombre : pour Hesed, les Quatre.

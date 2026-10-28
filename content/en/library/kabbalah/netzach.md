@@ -29,6 +29,8 @@ Where Chesed gives, Netzach carries the giving into the world and keeps it going
 
 On the body, Netzach is the right leg, and [Hod](/library/kabbalah/hod/), facing it on the left column, is the left: you walk with both. Kabbalists pair Netzach with Moses and Hod with his brother Aaron. Among its symbols is Jachin, the right-hand pillar of Solomon’s Temple (1 Kings 7:21) — the J on one of the two [pillars](/library/tarot-symbols/pillars/) beside the High Priestess. With Hod and [Yesod](/library/kabbalah/yesod/), it forms the third triad, often taught as the forces of action. The [Tree of Life page](/library/kabbalah/tree-of-life/) shows them in place.
 
+{{< tree-of-life highlight="netzach" >}}
+
 ## The four Sevens {#cards}
 
 The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of the Golden Dawn, which borrowed the Tree and rebuilt it as a system for cards, planets and elements. In that system, a teaching about endurance becomes the sphere of Venus — a real shift, which I’ll come back to. I keep the two apart. Each sephirah takes the four minor cards of its number, so Netzach takes the Sevens.

@@ -62,6 +62,8 @@ Une limite, pour être honnête : les versions du Sefer Yetsirah ne s’accorden
 
 Les sens donnés sont les lectures habituelles des noms, celles qu’utilisait la Golden Dawn. Pour Hé, Teth, Tsadé et Qoph, le sens d’origine est incertain : fenêtre, serpent, hameçon et nuque sont des lectures de la Golden Dawn. Dans la dernière colonne, les cartes portent leur nom du Rider-Waite-Smith ; au tarot de Marseille, le Magicien s’appelle le Bateleur.
 
+{{< tree-of-life mode="letters" >}}
+
 ## Les trois lettres mères {#meres}
 
 Aleph (א), le bœuf. Une lettre mère : l’air, dans le Sefer Yetsirah. La Golden Dawn l’a donnée à la carte numérotée zéro, le Mat, l’arcane de l’[Air](/fr/bibliotheque/quatre-elements/element-air/). Le contraste mérite un regard : le bœuf qui laboure, sur la carte la plus légère du jeu.

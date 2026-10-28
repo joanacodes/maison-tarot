@@ -31,6 +31,8 @@ Keter (כתר) veut dire « couronne ». C’est la première des dix sephirot, 
 
 Sur l’Arbre, Keter porte le numéro 1, au sommet de la colonne du milieu. Avec [Hokhmah](/fr/bibliotheque/kabbale/hokhmah/) et [Binah](/fr/bibliotheque/kabbale/binah/) juste en dessous, elle forme les trois sephirot supérieures, que les schémas plus tardifs appellent la triade suprême. Les dix sphères, les vingt-deux sentiers et les quatre mondes sont détaillés sur la [page de l’Arbre de Vie](/fr/bibliotheque/kabbale/arbre-de-vie/).
 
+{{< tree-of-life highlight="keter" >}}
+
 ## Les quatre As {#cartes}
 
 La Kabbale juive ne dit rien des cartes de tarot. Le lien s’est construit plus tard : des savants chrétiens ont emprunté l’Arbre, des occultistes du XIXe siècle — en France, notamment Éliphas Lévi — l’ont rapproché du tarot, et l’Ordre hermétique de la Golden Dawn, fondé à Londres en 1888, en a fait un système de classement pour les cartes, les planètes et les éléments. Cette Qabale hermétique transforme la tradition ; elle ne parle pas en son nom. [Le tarot de la Golden Dawn](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/) a sa propre page.

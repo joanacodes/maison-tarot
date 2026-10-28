@@ -29,6 +29,8 @@ Le mot partage sa racine avec hoda’ah, la reconnaissance, le merci, et l’ens
 
 Sur le corps, Hod est la jambe gauche, face à [Netzah](/fr/bibliotheque/kabbale/netzah/), la droite : l’une pousse, l’autre stabilise. Les kabbalistes associent Netzah à Moïse et Hod à Aaron, son frère, le premier grand prêtre. Avec Netzah et [Yesod](/fr/bibliotheque/kabbale/yesod/), Hod forme la troisième triade, qu’on enseigne souvent comme celle de l’action. La [page de l’Arbre de Vie](/fr/bibliotheque/kabbale/arbre-de-vie/) les montre en place.
 
+{{< tree-of-life highlight="hod" >}}
+
 ## Les quatre Huit {#cartes}
 
 Les correspondances du tarot ne sont pas juives. Elles viennent de la Qabale hermétique de la Golden Dawn, qui a emprunté l’Arbre pour en faire un système de cartes, de planètes et d’éléments. Un enseignement sur la majesté et la reconnaissance y devient la sphère de Mercure, celle de l’esprit. Je garde les deux séparées. Chaque sephirah y reçoit les quatre cartes mineures de son nombre : pour Hod, les Huit.

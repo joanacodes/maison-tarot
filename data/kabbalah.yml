@@ -1,0 +1,42 @@
+# L’Arbre de vie tel que la Golden Dawn l’a mis en carte (disposition de Kircher, sentiers 11 à 32).
+# Une seule saisie pour le dessin ({{< tree-of-life >}}) : positions, noms, sentiers. Les lettres et les noms
+# des arcanes viennent de data/cards.yml, pour que la table des lettres et le dessin ne puissent pas diverger.
+# Coordonnées dans un repère 400 × 690 : colonne de gauche (Rigueur) x = 70, milieu x = 200, droite (Miséricorde) x = 330.
+sephirot:
+  - { key: keter,    n: 1,  x: 200, y: 42,  en: Keter,    fr: Keter,    en_t: Crown,         fr_t: Couronne,     slug_en: keter,    slug_fr: keter }
+  - { key: chokhmah, n: 2,  x: 330, y: 120, en: Chokhmah, fr: Hokhmah,  en_t: Wisdom,        fr_t: Sagesse,      slug_en: chokhmah, slug_fr: hokhmah }
+  - { key: binah,    n: 3,  x: 70,  y: 120, en: Binah,    fr: Binah,    en_t: Understanding, fr_t: Intelligence, slug_en: binah,    slug_fr: binah }
+  - { key: chesed,   n: 4,  x: 330, y: 276, en: Chesed,   fr: Hesed,    en_t: Mercy,         fr_t: Grâce,        slug_en: chesed,   slug_fr: hesed }
+  - { key: gevurah,  n: 5,  x: 70,  y: 276, en: Gevurah,  fr: Gevurah,  en_t: Strength,      fr_t: Rigueur,      slug_en: gevurah,  slug_fr: gevurah }
+  - { key: tiferet,  n: 6,  x: 200, y: 354, en: Tiferet,  fr: Tiferet,  en_t: Beauty,        fr_t: Beauté,       slug_en: tiferet,  slug_fr: tiferet }
+  - { key: netzach,  n: 7,  x: 330, y: 432, en: Netzach,  fr: Netzah,   en_t: Victory,       fr_t: Victoire,     slug_en: netzach,  slug_fr: netzah }
+  - { key: hod,      n: 8,  x: 70,  y: 432, en: Hod,      fr: Hod,      en_t: Splendour,     fr_t: Gloire,       slug_en: hod,      slug_fr: hod }
+  - { key: yesod,    n: 9,  x: 200, y: 510, en: Yesod,    fr: Yesod,    en_t: Foundation,    fr_t: Fondement,    slug_en: yesod,    slug_fr: yesod }
+  - { key: malkhut,  n: 10, x: 200, y: 627, en: Malkhut,  fr: Malkhout, en_t: Kingdom,       fr_t: Royaume,      slug_en: malkhut,  slug_fr: malkhout }
+
+# Sentiers de la Golden Dawn : numéro, sphères reliées, arcane, glyphe hébreu et famille de la lettre
+# (mère, double, simple, selon le Sefer Yetzirah). t place l’étiquette le long du trait (0,5 = au milieu) ;
+# il ne bouge que là où une étiquette tomberait sur un croisement (13, 14, 19, 25 et 27 croisent d’autres sentiers).
+paths:
+  - { n: 11, from: keter,    to: chokhmah, card: ar00, glyph: "א", kind: mother }
+  - { n: 12, from: keter,    to: binah,    card: ar01, glyph: "ב", kind: double }
+  - { n: 13, from: keter,    to: tiferet,  card: ar02, glyph: "ג", kind: double, t: 0.42 }
+  - { n: 14, from: chokhmah, to: binah,    card: ar03, glyph: "ד", kind: double, t: 0.3 }
+  - { n: 15, from: chokhmah, to: tiferet,  card: ar04, glyph: "ה", kind: simple, t: 0.42 }
+  - { n: 16, from: chokhmah, to: chesed,   card: ar05, glyph: "ו", kind: simple }
+  - { n: 17, from: binah,    to: tiferet,  card: ar06, glyph: "ז", kind: simple, t: 0.42 }
+  - { n: 18, from: binah,    to: gevurah,  card: ar07, glyph: "ח", kind: simple }
+  - { n: 19, from: chesed,   to: gevurah,  card: ar08, glyph: "ט", kind: simple, t: 0.24 }
+  - { n: 20, from: chesed,   to: tiferet,  card: ar09, glyph: "י", kind: simple }
+  - { n: 21, from: chesed,   to: netzach,  card: ar10, glyph: "כ", kind: double }
+  - { n: 22, from: gevurah,  to: tiferet,  card: ar11, glyph: "ל", kind: simple }
+  - { n: 23, from: gevurah,  to: hod,      card: ar12, glyph: "מ", kind: mother }
+  - { n: 24, from: tiferet,  to: netzach,  card: ar13, glyph: "נ", kind: simple }
+  - { n: 25, from: tiferet,  to: yesod,    card: ar14, glyph: "ס", kind: simple, t: 0.3 }
+  - { n: 26, from: tiferet,  to: hod,      card: ar15, glyph: "ע", kind: simple }
+  - { n: 27, from: netzach,  to: hod,      card: ar16, glyph: "פ", kind: double, t: 0.3 }
+  - { n: 28, from: netzach,  to: yesod,    card: ar17, glyph: "צ", kind: simple }
+  - { n: 29, from: netzach,  to: malkhut,  card: ar18, glyph: "ק", kind: simple }
+  - { n: 30, from: hod,      to: yesod,    card: ar19, glyph: "ר", kind: double }
+  - { n: 31, from: hod,      to: malkhut,  card: ar20, glyph: "ש", kind: mother }
+  - { n: 32, from: yesod,    to: malkhut,  card: ar21, glyph: "ת", kind: double }

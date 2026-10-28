@@ -31,6 +31,8 @@ Chokhmah (חכמה) means “wisdom”. It is the second of the ten sephirot, ri
 
 On the Tree, Chokhmah is number 2, at the top of the right column, the side of expansion and giving that leads down to [Chesed](/library/kabbalah/chesed/). With Keter and Binah it forms the upper three. The [Tree of Life page](/library/kabbalah/tree-of-life/) shows the whole layout.
 
+{{< tree-of-life highlight="chokhmah" >}}
+
 ## The four Twos {#cards}
 
 The tarot correspondences aren’t Jewish. They come from the Hermetic Qabalah of the Golden Dawn, which borrowed the Tree and rebuilt it as a system for cards, planets and elements. It’s a transformation of the tradition, and I keep the two apart. In that system, each sephirah takes the four minor cards of its number, so Chokhmah takes the Twos.

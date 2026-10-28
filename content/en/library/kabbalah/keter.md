@@ -31,6 +31,8 @@ Keter (כתר) means “crown”. It is the first of the ten sephirot, the emana
 
 On the Tree, Keter is number 1, at the top of the middle column. With [Chokhmah](/library/kabbalah/chokhmah/) and [Binah](/library/kabbalah/binah/) below it, it forms the upper three, which later diagrams call the supernal triad. The ten spheres, the twenty-two paths and the four worlds are laid out on the [Tree of Life page](/library/kabbalah/tree-of-life/).
 
+{{< tree-of-life highlight="keter" >}}
+
 ## The four Aces {#cards}
 
 Jewish Kabbalah has nothing to say about tarot cards. The link was built later: Christian scholars borrowed the Tree, nineteenth-century occultists reworked it, and the Hermetic Order of the Golden Dawn, founded in London in 1888, turned it into a filing system for cards, planets and elements. That Hermetic Qabalah transforms the tradition; it doesn’t speak for it. [The Golden Dawn’s tarot](/library/tarot-history/golden-dawn-tarot/) has its own page.

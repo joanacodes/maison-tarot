@@ -30,6 +30,8 @@ Its work is balance. [Chesed](/library/kabbalah/chesed/), on the right, gives wi
 
 On the body, it is the torso and the heart. The tradition attaches it to Jacob, after Abraham (Chesed) and Isaac (Gevurah); during Sukkot, Jacob is the guest of the third day. Kabbalistic imagery also pictures Tiferet as a bridegroom, or a prince, seeking union with [Malkhut](/library/kabbalah/malkhut/), the Shekhinah. With Chesed and Gevurah it closes the second triad, which Hermetic diagrams call the ethical triangle. The [Tree of Life page](/library/kabbalah/tree-of-life/) shows them in place.
 
+{{< tree-of-life highlight="tiferet" >}}
+
 ## The four Sixes {#cards}
 
 The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of the Golden Dawn, which borrowed the Tree and rebuilt it as a system for cards, planets and elements — and as a ladder of initiation, where Tiferet became the grade of Adeptus Minor, 5=6. I keep the two apart. Each sephirah takes the four minor cards of its number, so Tiferet takes the Sixes.

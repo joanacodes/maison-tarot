@@ -29,6 +29,8 @@ The tradition calls it Imma, the mother, and the Zohar speaks of a supernal moth
 
 On the Tree, Binah is number 3, at the top of the left column, the side of limits and judgement, directly above [Gevurah](/library/kabbalah/gevurah/). With [Keter](/library/kabbalah/keter/) and Chokhmah it closes the upper three. The [Tree of Life page](/library/kabbalah/tree-of-life/) has the full map.
 
+{{< tree-of-life highlight="binah" >}}
+
 ## The four Threes {#cards}
 
 The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of the Golden Dawn, which borrowed the Tree and rebuilt it as a system for cards, planets and elements; the mother of the sephirot becomes, in that system, a sphere ruled by Saturn. I keep the two apart. Each sephirah takes the four minor cards of its number, so Binah takes the Threes.

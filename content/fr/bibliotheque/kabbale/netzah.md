@@ -29,6 +29,8 @@ Là où Hesed donne, Netzah porte ce don dans le monde et le fait durer : la Jew
 
 Sur le corps, Netzah est la jambe droite, et [Hod](/fr/bibliotheque/kabbale/hod/), en face sur la colonne de gauche, la jambe gauche : on marche avec les deux. Les kabbalistes associent Netzah à Moïse, et Hod à son frère Aaron. Parmi ses symboles figure Jakin, la colonne de droite du Temple de Salomon (1 Rois 7,21) — le J sur l’une des deux [colonnes](/fr/bibliotheque/symboles-tarot/colonnes/) qui encadrent la Grande Prêtresse. Avec Hod et [Yesod](/fr/bibliotheque/kabbale/yesod/), Netzah forme la troisième triade, qu’on enseigne souvent comme celle de l’action. La [page de l’Arbre de Vie](/fr/bibliotheque/kabbale/arbre-de-vie/) les montre en place.
 
+{{< tree-of-life highlight="netzach" >}}
+
 ## Les quatre Sept {#cartes}
 
 Les correspondances du tarot ne sont pas juives. Elles viennent de la Qabale hermétique de la Golden Dawn, qui a emprunté l’Arbre pour en faire un système de cartes, de planètes et d’éléments. Un enseignement sur l’endurance y devient la sphère de Vénus — un vrai déplacement, j’y reviens plus bas. Je garde les deux séparées. Chaque sephirah y reçoit les quatre cartes mineures de son nombre : pour Netzah, les Sept.

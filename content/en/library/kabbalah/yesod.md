@@ -29,6 +29,8 @@ Yesod (יסוד) means “foundation”. It is the ninth of the ten sephirot, on
 
 The tradition links Yesod to the tzaddik, the righteous one, through a verse of Proverbs (10:25) read as “the righteous is the foundation of the world”. Its biblical figure is Joseph. On the body, it is the organ of generation, marked by the covenant of circumcision: Yesod is about connection and what is handed on. It closes the third triad with [Netzach](/library/kabbalah/netzach/) and [Hod](/library/kabbalah/hod/), on the right and the left. The [Tree of Life page](/library/kabbalah/tree-of-life/) shows them in place.
 
+{{< tree-of-life highlight="yesod" >}}
+
 ## The four Nines {#cards}
 
 The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of the Golden Dawn, which borrowed the Tree and rebuilt it as a system for cards, planets and elements, and as a ladder of grades: Yesod became the second step, Theoricus, 2=9. I keep the two apart. Each sephirah takes the four minor cards of its number, so Yesod takes the Nines.

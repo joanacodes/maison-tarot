@@ -29,6 +29,8 @@ La tradition l’appelle Imma, la mère, et le Zohar parle d’une mère d’en 
 
 Sur l’Arbre, Binah porte le numéro 3, en haut de la colonne de gauche, le côté des limites et du jugement, juste au-dessus de [Gevurah](/fr/bibliotheque/kabbale/gevurah/). Avec [Keter](/fr/bibliotheque/kabbale/keter/) et Hokhmah, elle ferme les trois sephirot supérieures de l’[Arbre de Vie](/fr/bibliotheque/kabbale/arbre-de-vie/).
 
+{{< tree-of-life highlight="binah" >}}
+
 ## Les quatre Trois {#cartes}
 
 Les correspondances du tarot ne sont pas juives. Elles viennent de la Qabale hermétique de la Golden Dawn, qui a emprunté l’Arbre pour en faire un système de cartes, de planètes et d’éléments ; la mère des sephirot y devient une sphère gouvernée par Saturne. Je garde les deux séparées. Chaque sephirah y reçoit les quatre cartes mineures de son nombre : pour Binah, les Trois.

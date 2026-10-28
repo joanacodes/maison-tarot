@@ -29,6 +29,8 @@ Malkhut has nothing of its own. The Zohar says so, and Kabbalists compare it to 
 
 Kabbalah also calls Malkhut the Shekhinah, a word from the Talmud for God’s presence dwelling in the world. Here that presence is pictured as feminine: the bride whom [Tiferet](/library/kabbalah/tiferet/), the bridegroom, seeks to join. The tradition attaches Malkhut to King David, the figure of kingship. The [Tree of Life page](/library/kabbalah/tree-of-life/) shows it at the foot of the whole structure.
 
+{{< tree-of-life highlight="malkhut" >}}
+
 ## The four Tens {#cards}
 
 The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of the Golden Dawn, and Malkhut is where the shift is easiest to see: in Jewish sources, it is God’s presence within the world; in the Golden Dawn’s tables, it is the world itself, the sphere of the elements, and the first grade of initiation, Zelator, 1=10. I keep the two apart. Each sephirah takes the four minor cards of its number, so Malkhut takes the Tens.
