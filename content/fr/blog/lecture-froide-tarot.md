@@ -71,7 +71,7 @@ On ne s’arrête pas de remarquer les choses sur commande, et je ne fais pas ex
 
 - *L’observation* : en ligne, je n’ai souvent qu’un pseudo et une voix — pas de visage, pas d’alliance, pas de vêtements à lire.
 - *La pêche* : je ne pose aucune question, ni avant ni pendant le tirage. La personne ne me dit rien, et ne parle qu’une fois que j’ai fini.
-- *Le suivi des réactions* : je demande de garder un visage de joueur de poker, et on compare à la fin.
+- *Le suivi des réactions* : je demande aux personnes de garder un visage de joueur de poker, et on compare à la fin.
 - *Le rattrapage des ratés* : environ un tirage sur dix rate, à mon propre décompte. Un raté est un raté : je le dis, je l’écris, et je ne tire pas de carte pour le rattraper.
 - *La lecture chaude* : à mes événements, les personnes lues sont tirées au sort le jour même, il n’y a donc personne à chercher à l’avance.
 

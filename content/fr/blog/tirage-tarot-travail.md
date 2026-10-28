@@ -53,7 +53,7 @@ Sur toute la ligne : deux Feu, deux Terre, un Air. Et [deux 4](/fr/bibliotheque/
 
 Remarquez ce que les cartes n’ont pas dit : laquelle. Dans ce tirage, elles ne le disent jamais.
 
-Cette ligne ne compte que des arcanes mineurs. Quand l’un des grands arcanes qui impressionnent tombe à l’une des cinq places — la Tour, la Mort, le Pendu, le Soleil —, sa page consacre une section à ce qu’il dit au travail, y compris la question inquiète qui vient souvent avec lui. [La Tour au travail](/fr/bibliotheque/cartes-tarot/la-tour/#au-travail) est un bon point de départ si, derrière votre tirage, il y a la peur de perdre votre emploi.
+Cette ligne ne compte que des arcanes mineurs. Quand l’un des arcanes majeurs tombe à l’une des cinq places — la Tour, la Mort, le Pendu, le Soleil —, sa page consacre une section à ce qu’il dit au travail, y compris la question inquiète qui vient souvent avec lui. [La Tour au travail](/fr/bibliotheque/cartes-tarot/la-tour/#au-travail) est un bon point de départ si, derrière votre tirage, il y a la peur de perdre votre emploi.
 
 ## Comment décider après le tirage {#decider}
 

@@ -35,7 +35,7 @@ Le mercredi, il a trois tirages et y voit moins clair que le lundi. Les cartes n
 
 Il y a un deuxième effet, plus discret. Une fois que vous avez trois réponses, vous choisissez celle que vous préférez. Le tirage devient une carte de restaurant, et vous commandez. À ce stade, vous ne consultez plus rien ; vous cherchez une permission.
 
-Et il y en a un troisième, que j’ai vu chez d’autres : la boucle, quand la même question revient encore et encore, portée par le doute plutôt que par la curiosité. Quand quelqu’un vient me voir dans cet état, en général, je ne lis pas pour cette personne ce jour-là ; j’explique pourquoi dans [pourquoi vous devriez arrêter de tirer les cartes, un moment au moins](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
+Et il y en a un troisième, que j’ai vu chez d’autres : la boucle, quand la même question revient encore et encore, portée par le doute plutôt que par la curiosité. Quand quelqu’un vient me voir dans cet état, en général, je ne lis pas pour cette personne ce jour-là ; je m’en explique dans [pourquoi vous devriez arrêter de tirer les cartes, un moment au moins](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
 ## Combien de temps attendre entre deux tirages sur la même question ? {#combien-de-temps}
 
