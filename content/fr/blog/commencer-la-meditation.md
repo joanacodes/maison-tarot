@@ -48,7 +48,7 @@ Le lâcher-prise que l’on pratique assis sans bouger est le même que celui do
 5. Si cela vous aide, comptez : un à l’inspiration, deux à l’expiration, jusqu’à dix, puis reprenez à un.
 6. Quand vous remarquez que vous êtes parti ailleurs — et ça arrivera —, dites « pensée » dans votre tête et revenez à un. Sans vous gronder.
 7. Quand le minuteur sonne, arrêtez. Ne notez pas la séance.
-8. Recommencez le lendemain. Au bout d’une semaine, ajoutez une minute si vous en avez envie. Allez-y crescendo.
+8. Recommencez le lendemain. Au bout d’une semaine, ajoutez une minute si vous en avez envie.
 
 Si vous aimez fermer le moment par un petit rituel, tirez une carte juste après et décrivez ce que vous voyez avant de penser à ce qu’elle veut dire. [La carte du jour](/fr/blog/carte-du-jour-tarot/) se prête très bien à ces deux minutes de calme.
 

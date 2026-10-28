@@ -39,11 +39,11 @@ Les nombres et les familles sont inscrits clairement : le nombre dit où en est 
 
 ## Quelle édition acheter {#quelle-edition}
 
-Cherchez les dessins d’origine de Pamela Colman Smith. Les éditions varient par les couleurs, la taille et le carton des cartes, et toutes se lisent de la même façon. Prenez celle que vous voyez bien et qui vous plaît en main quand vous la mélangez. La taille compte plus qu’on ne croit : de petites cartes se battent mieux dans de petites mains, de grandes montrent les détails aux yeux fatigués.
+N’importe laquelle, pourvu qu’elle reprenne les dessins d’origine de Pamela Colman Smith. Ce sont les scènes que vous achetez ; la boîte et le prix ne changent rien à la lecture. J’ai comparé les principales éditions, leurs couleurs et la taille de leurs cartes dans [une sélection de jeux pour débuter](/fr/blog/meilleurs-jeux-de-tarot/) ; je ne garde donc ici que la règle qui compte tant que vous apprenez.
 
-Les jeux redessinés qui gardent les mêmes scènes fonctionnent aussi. Sachez seulement que leurs couleurs changent souvent, et avec elles une de vos clés de lecture ; ce n’est pas grave une fois que vous savez ce que dit l’original.
+Un jeu redessiné qui change les scènes n’est plus le jeu que vous apprenez. S’il garde les scènes mais change les couleurs, il vous retire une partie d’une clé de lecture tant que vous ne savez pas ce que dit l’original. Commencez par l’original ; les versions redessinées viendront plus tard.
 
-Inutile d’attendre qu’on vous l’offre. [Acheter son propre jeu ne porte pas malheur](/fr/blog/premier-jeu-de-tarot-offert/), quoi qu’on vous ait dit. Et si vous voulez comparer quelques jeux précis, voici [une sélection pour débuter](/fr/blog/meilleurs-jeux-de-tarot/).
+Inutile non plus d’attendre qu’on vous l’offre. [Acheter son propre jeu ne porte pas malheur](/fr/blog/premier-jeu-de-tarot-offert/), quoi qu’on vous ait dit.
 
 ## Et ensuite : Marseille, Thoth, oracles {#ensuite}
 
