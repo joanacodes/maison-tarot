@@ -27,9 +27,9 @@ Et puis il y a tout ce qu’on ne compte pas : un écran, un casque, une chaise 
 
 Mes notes le disent sans détour : après un tirage, on peut se sentir très fatigué, parce qu’interpréter demande de l’énergie. Écoutez votre corps, et reposez-vous.
 
-{{< todo >}}À ajouter ici : ce que vous ressentiez concrètement après une longue soirée de tirages{{< /todo >}}
+Cette ligne, c’est ce que je ressentais, et la raison que j’ai notée à côté, c’est le travail d’interprétation. La fatigue ne prend pas la même forme d’un tarologue à l’autre : les yeux lourds et le dos raide chez certains, chez d’autres une tête qui rejoue les cartes en boucle, ou une faim de loup qui tombe d’un coup quand l’appel se termine. Quelle que soit sa forme chez vous, elle dit combien vous avez donné. Ce n’est pas le signe que quelque chose s’est mal passé.
 
-L’habitude des deux heures vient de là. Il ne se passe rien de dramatique à deux heures et une minute. Mais on lit moins bien quand on est fatigué : les impressions deviennent floues, on se met à réciter des significations, et on risque davantage de dire quelque chose maladroitement à quelqu’un qui écoute de toutes ses forces. **Une limite fixée avant de commencer se tient mieux qu’une limite qu’on négocie une fois épuisé.**
+L’habitude des deux heures part du même constat. Il ne se passe rien de dramatique à deux heures et une minute. Mais on lit moins bien quand on est fatigué : les impressions deviennent floues, on se met à réciter des significations, et on risque davantage de dire quelque chose maladroitement à quelqu’un qui écoute de toutes ses forces. **Une limite fixée avant de commencer se tient mieux qu’une limite qu’on négocie une fois épuisé.**
 
 Quand cette fatigue s’accumule sur des semaines, on parle de burn-out du tarologue : lire tellement, pour tant de monde, que la pratique ne donne plus rien et ne fait que prendre. On redoute la prochaine demande, on lit par devoir, chaque carte ressemble à la précédente. Ça s’installe lentement, un oui après l’autre, et c’est pour ça qu’une limite marche mieux que la volonté.
 

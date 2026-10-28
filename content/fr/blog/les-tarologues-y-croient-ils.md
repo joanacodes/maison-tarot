@@ -41,7 +41,7 @@ Ce que je crois, c’est donc un taux, dans des conditions données. C’est un 
 
 ## Ce que je n’explique pas {#ce-que-je-n-explique-pas}
 
-Certaines choses sont arrivées qu’aucun décompte ne couvre. Après avoir lu pour une amie, j’ai senti quelqu’un avec moi, chez moi : son grand-père, un Japonais strict, avec beaucoup d’amour en lui. Je lui ai dit que je ne voulais personne dans ma maison, en ajoutant « monsieur ». Il semblait parler japonais, alors j’ai dessiné ce qui venait : le chiffre cinq, encore et encore, et « sous la maison ». Mon amie est descendue au sous-sol de son immeuble, à la cave numéro cinq, qui n’était pas la sienne et qui était déjà ouverte, et l’a trouvée pleine de pots de peinture. C’était tout le message : il y a beaucoup de peinture dans la cave cinq. Je raconte l’histoire en entier dans [le tarot est-il maléfique ?](/fr/blog/le-tarot-est-il-malefique/)
+Certaines choses sont arrivées qu’aucun décompte ne couvre. Après avoir lu pour une amie, j’ai senti son grand-père avec moi, chez moi, et ce qui est venu, dessiné encore et encore, c’est le chiffre cinq et « sous la maison ». Au sous-sol de son immeuble, mon amie a trouvé la cave numéro cinq ouverte, et pleine de pots de peinture. C’était tout le message. Je raconte l’histoire en entier dans [le tarot est-il maléfique ?](/fr/blog/le-tarot-est-il-malefique/)
 
 Je ne l’explique pas, et je ne bâtis rien dessus. Ce n’était pas une prophétie ; c’était de la peinture. Ma définition de travail de [la magie](/fr/blog/quest-ce-que-la-magie/) trouve sa place ici : ce qu’on sait exister mais qu’on est incapable d’expliquer.
 
