@@ -1,6 +1,6 @@
 ---
 title: "Mercure rétrograde : ce que c’est, et ce dont il n’est pas responsable"
-description: "Mercure rétrograde, clairement : pourquoi la planète semble reculer, ce que l’astrologie lui attribue, et ce dont elle est innocente, par une tarologue qui a testé."
+description: "Mercure rétrograde, clairement : pourquoi la planète semble reculer, ce que l’astrologie lui attribue, ce dont elle est innocente, et ce que mon test ne peut pas dire."
 translationKey: "post-mercury-retrograde"
 type: blog
 date: 2026-10-24
