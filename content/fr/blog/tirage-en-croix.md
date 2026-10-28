@@ -68,4 +68,4 @@ Sa forme « pour et contre » rend aussi la croix tentante pour un procès ou un
 
 ## Pour aller plus loin {#pour-aller-plus-loin}
 
-Essayez la croix sur quelqu’un qui ne vous dit rien, et notez ce qui tombe juste. Si la forme vous plaît et que vous voulez plus de positions, la [croix celtique expliquée position par position](/fr/blog/croix-celtique-tirage/) est sa grande cousine à dix cartes. Et si vous voulez poser vos premiers tirages avec quelqu’un à côté de vous, un [atelier](/fr/ateliers/), c’est trois heures, douze personnes et beaucoup de cartes sur la table.
+Essayez la croix sur quelqu’un qui ne vous dit rien, et notez ce qui tombe juste. Si la forme vous plaît et que vous voulez plus de positions, la [croix celtique, expliquée position par position](/fr/blog/croix-celtique-tirage/), est un autre tirage : dix cartes, une colonne à côté de la croix, et rien à additionner. Et si vous voulez poser vos premiers tirages avec quelqu’un à côté de vous, un [atelier](/fr/ateliers/), c’est trois heures, douze personnes et beaucoup de cartes sur la table.
