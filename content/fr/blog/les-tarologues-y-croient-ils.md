@@ -45,6 +45,8 @@ Certaines choses sont arrivées qu’aucun décompte ne couvre. Après avoir lu 
 
 Je ne l’explique pas, et je ne bâtis rien dessus. Ce n’était pas une prophétie ; c’était de la peinture. Ma définition de travail de [la magie](/fr/blog/quest-ce-que-la-magie/) trouve sa place ici : ce qu’on sait exister mais qu’on est incapable d’expliquer.
 
+Tout ce qui ressemble à ça, tout ce que je ne peux pas vérifier, va sur une étagère dans ma tête, avec une étiquette : « sceptique, mais si ça arrive, j’étais prévenue ». C’est une façon de garder une impression sans y croire et sans la jeter. Elle ne finit jamais sur les genoux de quelqu’un sous forme de prédiction.
+
 C’est ce qui ressemble le plus, chez moi, à une croyance. Ni foi ni rejet : un « je ne sais pas » honnête, avec les éléments laissés sur la table.
 
 ## La question à poser plutôt {#la-bonne-question}
