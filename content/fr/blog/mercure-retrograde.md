@@ -37,13 +37,13 @@ La liste de ce qu’on met sur le dos de Mercure rétrograde est longue : le tra
 
 Ce qui change pendant une rétrogradation, c’est qu’on vous a dit de guetter. Alors vous remarquez, et chaque incident devient une preuve. Ce n’est un reproche à personne ; c’est le fonctionnement de l’attention.
 
-Dans mon propre test, Mercure tenait environ une fois sur trois : utile comme clé de lecture sur la façon dont quelqu’un pense et parle, très loin d’être assez solide pour organiser sa vie autour. ([Comment j’ai testé mon thème, case par case.](/fr/blog/j-ai-teste-mon-theme-astral/)) Je ne déplace donc ni une signature, ni un voyage, ni une conversation difficile à cause de ces dates. Je n’ai pas non plus comparé les retards de la SNCF au calendrier des rétrogradations, alors je n’affirmerai rien de plus.
+Dans mon propre test, Mercure tenait environ une fois sur trois : utile comme clé de lecture sur la façon dont quelqu’un pense et parle, très loin d’être assez solide pour organiser sa vie autour ([comment j’ai testé mon thème, case par case](/fr/blog/j-ai-teste-mon-theme-astral/)). C’était Mercure dans les thèmes de naissance. Les périodes de rétrogradation, elles, n’ont jamais fait partie du test : je n’ai aucun décompte pour elles, et je n’ai pas non plus comparé les retards de la SNCF au calendrier des rétrogradations, alors je n’affirmerai rien de plus. Ce que je peux dire, c’est que je ne déplace ni une signature, ni un voyage, ni une conversation difficile à cause de ces dates.
 
 Et il ne peut pas porter ce que nous disons. Une rétrogradation peut être une bonne raison de relire ; elle ne peut pas être la raison du message envoyé sous le coup de la colère. Accuser la planète laisse l’autre sans aucune excuse, et [l’astrologie n’est pas une excuse](/fr/blog/lastrologie-nest-pas-une-excuse/).
 
 ## Une rétrogradation avec vos cartes {#avec-vos-cartes}
 
-La carte de Mercure, c’est [le Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/) (le Bateleur au tarot de Marseille), et par ses deux signes il porte aussi les Amoureux (Gémeaux) et l’Ermite (Vierge). Trois façons de penser : celui qui pose tous ses outils sur la table, celui qui doit choisir, celui qui vérifie à la lanterne.
+La carte de Mercure, c’est [le Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/) (le Bateleur au tarot de Marseille), et par ses deux signes il porte aussi les Amoureux (Gémeaux) et l’Ermite (Vierge). Trois façons de penser : celui qui pose tous ses outils sur la table, celui qui doit choisir, celui qui vérifie à la lanterne. Dans mes notes, le Magicien est le messager, la baguette levée pour recevoir et transmettre ; son revers, c’est qu’il sait faire semblant, si on lui fait confiance les yeux fermés. Bon à garder en tête pendant trois semaines vouées aux mots.
 
 {{< cards "ar01 ar06 ar09" >}}
 
