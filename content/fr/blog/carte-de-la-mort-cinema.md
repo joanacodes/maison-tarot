@@ -45,7 +45,7 @@ Ma propre note sur cette carte dit qu’elle ne parle pas de la mort elle-même.
 
 ## Ce qu’elles comprennent bien {#ce-qu-elles-comprennent}
 
-Deux des trois scènes mettent le bon sens dans la bouche de la tireuse de cartes, puis montrent qu’une personne qui a peur ne peut pas l’entendre. C’est juste. **Quand la Mort sort, les visages changent avant qu’on ait dit un mot — c’est le cinéma qui le leur a appris.** Le premier travail, c’est donc de ralentir et de dire ce qu’il y a vraiment sur la carte.
+Deux des trois scènes mettent le bon sens dans la bouche de la tireuse de cartes, du moins à voix haute, puis montrent qu’une personne qui a peur ne peut pas l’entendre. C’est juste. **Quand la Mort sort, les visages changent avant qu’on ait dit un mot — c’est le cinéma qui le leur a appris.** Le premier travail, c’est donc de ralentir et de dire ce qu’il y a vraiment sur la carte.
 
 La scène de Cléo voit juste sur un autre point. Elle attend un résultat médical, et elle va demander aux cartes une réponse qu’elles ne peuvent pas donner. Je comprends pourquoi on le fait : la peur veut une date, un oui ou un non, n’importe quoi plutôt que l’attente. Je ne lis pas sur la santé ni sur la mort, et ce n’est pas de la froideur. Un mot de travers coûte trop cher sur ces sujets, et les cartes ne sont pas faites pour cette question. Si vous attendez des résultats, c’est votre médecin qu’il faut interroger ; en attendant, une question plus douce pour les cartes serait « qu’est-ce qui m’aide à traverser l’attente ? ». J’en parle plus longuement dans [pourquoi un tarologue prudent ne lit pas la santé, la grossesse ni les décès](/fr/blog/sante-grossesse-deces-tarot/).
 
