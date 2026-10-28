@@ -50,7 +50,7 @@ Example card: the Six of Cups, two children in a village courtyard, one handing 
 
 ### Swords: Air {#swords}
 
-Swords are [Air](/library/four-elements/air-element/): thinking, deciding, saying — the element that cuts. On the cards, look up. Clouds, wind bending the trees behind the Knight, birds in flight, and butterflies on the Queen’s crown and the King’s throne. The blades are always bare.
+Swords are [Air](/library/four-elements/air-element/): thinking, deciding, saying — the element that cuts. On the cards, look up. Clouds, wind bending the trees behind the Knight, birds in flight, and butterflies on the Queen’s crown and the King’s throne. The blades are bare.
 
 Example card: the Eight of Swords, a woman bound and blindfolded among eight swords planted in the ground. In my notes it’s a prisoner of yourself while every tool is within reach. You can take the blindfold off.
 
@@ -74,6 +74,6 @@ To take one number across the four suits — the four Fives, the four Eights —
 
 ## Learn them with four cards {#next-step}
 
-Take the four Aces out of your deck and lay them in a row. For each one, say out loud what the hand is holding and what you’d do with it today: light something, pour something, cut something, keep something. Then go through the rest of the deck and sort it into four piles by the object alone, without reading anything. That’s the four suits, learned in an evening, and you’ll recognise them in every other card.
+Take the four Aces out of your deck and lay them in a row. For each one, say out loud what the hand is holding and what you’d do with it today: light something, pour something, cut something, keep something. Then shuffle the deck and sort it by the object alone, without reading anything: four piles for the suits, and a fifth for the major arcana, which belong to none. That’s the four suits, learned in an evening, and you’ll recognise them in every other card.
 
 When you want each element in depth, the [four elements](/library/four-elements/) are laid out in the Library, one page each.
