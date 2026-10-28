@@ -23,7 +23,7 @@ Vous l’avez peut-être croisée sur un prospectus promettant « désenvoûteme
 
 *Troisième acte : la levée.* On peut l’enlever, avec des bougies, un rituel, un objet à acheter ou à faire « charger ». Le prix est plus élevé que le tirage, mais paraît raisonnable. Vous payez parce que, pour la première fois depuis des mois, quelqu’un vous propose une cause et un remède dans la même phrase.
 
-*Quatrième acte : la complication.* Le rituel a marché, en partie, mais la malédiction était plus forte que prévu, ou il y en avait une deuxième en dessous. Nouvelle séance, nouveau tarif, tant qu’il reste de l’argent. Certaines victimes y laissent des dizaines de milliers d’euros, parfois toutes leurs économies.
+*Quatrième acte : la complication.* Le rituel a marché, en partie, mais la malédiction était plus forte que prévu, ou il y en avait une deuxième en dessous. Nouvelle séance, nouveau tarif, tant qu’il reste de l’argent. Certaines victimes y laissent des dizaines de milliers d’euros ; la professeure retraitée du documentaire de France 2 a dépensé 44 000 euros en cinq ans, toutes ses économies ([ce qu’a montré cette enquête](/fr/blog/arnaque-plateforme-voyance/)).
 
 ## Pourquoi ça marche {#pourquoi-ca-marche}
 

@@ -15,7 +15,7 @@ Each of these affects several pages. One answer from you, then a few minutes of 
    - or align everything on one of the two.
 2. **Jupiter.** Your published Jupiter page reads it as luck and says it held "a third" in your test. Your notes say Jupiter (its house and sign = your biggest struggles) and the Nodes were *not* part of your tested numbers. The new big-three article follows your notes. Which is right?
 3. **The sign verbs in French.** The French Library says « Je vais » for Leo's "I will" and « Je sens » for Cancer's "I feel"; one French article says « je veux » and « je ressens ». The usual formulas are « Je veux » (will as volonté, not the future tense) and « Je ressens ». Pick yours and every French page will match.
-4. **Your friends in French.** French has to choose a gender. Several French pages say « ma meilleure amie » for the friend who died of cancer and « mon amie » for the friend in the voice story; a few now say « quelqu'un de très proche ». Your notes don't say. Tell me "man" or "woman" for each and I'll make every page match.
+4. **Your sayings.** Each article was allowed one of your eight sayings, so each saying now appears on 6 to 35 pages. "A miss is a miss" and "I read; you decide" are on 35 each, "Test it and experience it for yourself" on 25. As a signature that works, but someone who reads ten of your articles will meet the same line several times. Keep them as they are, or name the ones to keep only where they're the point and I'll let the other pages end on their own sentence.
 5. **Timing.** Several articles said "timing is where I miss most". Neither your notes nor your published pages say that. Your method page does say a reading is "poor at telling you exactly what happens next week", so the articles now say that ("timing is the weak spot"). If timing really is where your misses gather, say so and the first-person line goes back.
 6. **The 12 €.** Your published pages tie a 12 € figure to three different things:
    - "a phone number" (*pick-a-card criticism*);
@@ -130,32 +130,6 @@ These are pages of the site, not articles: your method, your sessions and worksh
   - À COMPLÉTER — l’état pendant une lecture, la fatigue après deux heures, la séance interrompue par prudence. C’est votre éthique ; dites-la.
 - `content/fr/sessions.md`
   - À COMPLÉTER par vous — un paragraphe sur ce qu’on ressent pendant, et le cadre que vous demandez : au calme, personne d’autre dans la pièce, un jeu de cartes sous la main.
-- `content/fr/blog/applications-tarot.md`
-  - À ajouter ici : les applications de tarot que j’ai essayées moi-même, et ce que j’en ai pensé
-- `content/fr/blog/ce-que-je-croyais-du-tarot.md`
-  - À ajouter ici : si vous pensiez aussi en 2020 que seules certaines personnes pouvaient lire, une phrase avec vos mots.
-- `content/fr/blog/lire-pour-quelquun-que-jadmirais.md`
-  - À ajouter ici (facultatif) : comment cette lecture s’est faite — s’il vous l’a demandée ou si vous l’avez proposée — et quelles positions rendaient son thème si dur, si vous souhaitez le dire.
-- `content/fr/blog/meilleurs-jeux-de-tarot.md`
-  - À ajouter ici : les jeux de cette liste que vous avez eus en main, et ceux que vous retireriez ou ajouteriez
-- `content/fr/blog/peur-du-noir.md`
-  - À ajouter ici : ce qui a changé entre attendre la lumière et marcher dans le noir, si vous pouvez le nommer — une période, un déménagement, une pratique, ou rien de précis.
-- `content/fr/blog/premier-tirage-tarot.md`
-  - À ajouter ici (facultatif) : ce dont vous vous souvenez encore — ce que vous avez dit pendant le tirage, ou ce que vous avez répondu à son message.
-- `content/fr/blog/premonition-experience.md`
-  - À ajouter ici : ce que vous faisiez quand vous l’avez entendu, et à quel moment de la journée (le titre dit « la nuit » — à confirmer ou à corriger).
-  - À ajouter ici : comment vous avez appris qu’il était au temple en train de penser à vous — si vous l’avez appelé, ou s’il vous l’a dit plus tard.
-- `content/fr/blog/purifier-son-jeu-de-tarot.md`
-  - À ajouter ici : pourquoi vous avez arrêté de vendre, avec vos mots — vos notes disent seulement que vous avez arrêté, et que rien de tout ça n’a amélioré un tirage.
-  - À ajouter ici (facultatif) : une phrase sur ce qu’étaient ces cartes « canalisées », si vous souhaitez que vos lecteurs le sachent.
-- `content/fr/blog/que-ressent-on-en-tirant-les-cartes.md`
-  - À ajouter ici : ce que vous ressentez dans votre corps quand vous lisez, s’il y a quelque chose — une ou deux phrases, avec vos mots.
-- `content/fr/blog/samhain-tarot.md`
-  - À ajouter ici : ce que vous remarquez en octobre aux événements ou dans vos messages (plus de demandes ? quelles questions reviennent ?)
-- `content/fr/blog/tirage-de-lannee.md`
-  - À ajouter ici : quand vous faites votre propre tirage de l’année, si vous en faites un (Nouvel An, anniversaire, autre date)
-- `content/fr/blog/tu-as-un-don.md`
-  - À ajouter ici : une fois où l’on vous a dit « tu as un don », avec vos mots — après quelle lecture, et ce que vous avez répondu.
 
 ## Articles to update now and then (trends and dates)
 
@@ -236,6 +210,11 @@ The writers checked every fact through search results; this session’s network 
   - Tap a sphere for its cards, or a path for its letter and its arcanum. A button traces the spheres from 1 to 10.
   - Every card page shows its own place on the Tree and links straight to it.
   - It is drawn from the data, so the Tree, the letters table and the card pages can't disagree.
+- **The French follows the English.** Every French article got the same fixes as its English twin, written in French rather than translated: the same cuts, links and first-hand lines. The love articles have French headings of their own.
+- **Your notes settled the friends' genders.** In your own telling of the voice story, the friend who died of cancer is a man and the friend the voice named is a woman. Two French pages said « ma meilleure amie » for him; they now say « mon meilleur ami ». The English already matched.
+- **Small things you may want to know:**
+  - « Le téléphone arabe » is on your French Gemini page and in the French *Lovers in love* article. Some readers now avoid the phrase because it leans on a stereotype; « le téléphone sans fil » says the same thing. Your English says "the game of telephone".
+  - The significator article gives Waite's rule (rank by age, suit by colouring) but no longer lists the four colourings. I believe Waite also lets temperament override colouring, which would back the way you read courts, but I couldn't check it: this session can't open sacred-texts.com or gutenberg.org. One look at his *Pictorial Key* would settle it before it goes in.
 
 ## Earlier notes, batch by batch
 

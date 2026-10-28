@@ -37,7 +37,7 @@ Dites la question une fois à voix haute. Ça vous empêche de la retoucher disc
 
 Mélangez comme vos mains le veulent. À l'américaine, en paquets, en étalant les cartes face cachée sur la table. Il n'y a pas de bonne façon. Arrêtez quand vous avez envie d'arrêter, prenez la carte du dessus ou glissez-en une du milieu, et retournez-la.
 
-Une carte. Pas trois, pas de tirage en croix. Trois cartes offrent à un débutant trois cachettes, et l'œil saute de l'une à l'autre en cherchant la plus sympathique. Une carte seule, vous êtes obligé de la regarder.
+Une carte. Pas trois, pas de tirage en croix. Trois cartes offrent à un débutant trois cachettes, et l'œil saute de l'une à l'autre en cherchant la plus sympathique. [Une carte seule](/fr/blog/carte-du-jour-tarot/), vous êtes obligé de la regarder.
 
 Si elle sort à l'envers, remettez-la à l'endroit. Les cartes inversées, c'est une deuxième leçon, pas une première.
 

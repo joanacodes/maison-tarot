@@ -43,13 +43,13 @@ J'ajoute la partie dont je ne suis pas fière. En 2021, je vendais de la sauge, 
 
 Lire pendant deux heures puis ranger le jeu, même quand il reste des gens qui attendent, est une règle que je garde par prudence. Je ne comprends pas tout à fait ce qui me fatigue au bout de deux heures ; je sais que ce que je dis passé ce cap vaut moins, et je préfère ne pas découvrir combien moins sur quelqu'un qui m'a fait confiance.
 
-Un agenda professionnel veut une journée remplie. Douze créneaux à la suite, une pause déjeuner si vous êtes organisé. Avant de vous engager là-dedans, prenez au sérieux ce que deux heures font à un tarologue, et faites une pause loin de vos cartes de temps en temps. La dépendance marche dans les deux sens.
+Un agenda professionnel veut une journée remplie. Douze créneaux à la suite, une pause déjeuner si vous êtes organisé. Avant de vous engager là-dedans, prenez au sérieux [ce que deux heures font à un tarologue](/fr/blog/energie-apres-un-tirage/), et faites une pause loin de vos cartes de temps en temps. La dépendance marche dans les deux sens.
 
 ## Que faire avant la carte {#avant-la-carte}
 
 Aucune des cinq questions ne se règle depuis un fauteuil. Donc, dans l'ordre :
 
-1. Lisez pour des inconnus qui ne vous disent rien. Ni nom, ni question, ni contexte. Les trouver en ligne est la chose la moins glamour et la plus utile que vous ferez cette année.
+1. Lisez pour des inconnus qui ne vous disent rien. Ni nom, ni question, ni contexte. [Les trouver en ligne](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/) est la chose la moins glamour et la plus utile que vous ferez cette année.
 2. Remplissez les deux colonnes après chaque lecture. Comptez au bout de cent.
 3. Dites « c'est raté » à voix haute, au moins une fois, en face de quelqu'un.
 4. Rédigez votre liste de refus et imaginez-vous éconduire la personne qui vous aurait payé le plus.
