@@ -19,7 +19,7 @@ Pas de façon fiable, d’après mon expérience. Une carte montre une situation
 
 Ce que je lis, c’est surtout le présent : ce qui bouge dans la vie de quelqu’un au moment où l’on s’assoit. La vitesse à laquelle ça devient des événements dépend de décisions, d’autres personnes, du hasard. L’avenir arrive rarement sous la forme qu’on imaginait, et encore plus rarement le jour qu’on avait prévu.
 
-Ma toute première lecture pour une inconnue, sur un serveur Discord, s’est vérifiée trois ou quatre jours plus tard. Je l’ai appris par son message, pas par les cartes.
+[Ma toute première lecture pour une inconnue](/fr/blog/premier-tirage-tarot/) s’est vérifiée trois ou quatre jours plus tard. Je l’ai appris par son message, pas par les cartes.
 
 ## Comment fonctionnent les systèmes de timing {#systemes-de-timing}
 
@@ -31,9 +31,9 @@ Ces systèmes ne s’accordent pas entre eux. Selon le livre que vous ouvrez, le
 
 ## La voix qui m’a appris le timing {#la-voix}
 
-Ce n’était pas un tirage, et je raconte toute l’histoire dans [pourquoi un tirage peut être faux](/fr/blog/tirage-faux-tarot/). En bref : après avoir perdu la personne dont j’étais la plus proche, j’étais folle de rage, et j’ai demandé en silence : « Qui est le prochain ? » J’ai entendu une voix d’homme donner le prénom d’un autre proche, et dire que cette personne « va avoir un accident ». Deux semaines plus tard, un camion a percuté sa voiture. Aujourd’hui, elle est vivante et en pleine forme.
+Ce n’était pas un tirage, et je raconte toute l’histoire dans [pourquoi un tirage peut être faux](/fr/blog/tirage-faux-tarot/). En bref : après la mort de mon meilleur ami, j’ai demandé en silence « qui est le prochain ? », et une voix m’a donné le prénom d’une autre amie, puis « va avoir un accident », sans dire quand. Deux semaines plus tard, un camion a percuté sa voiture, et mon amie est aujourd’hui vivante et en pleine forme : l’événement est bien venu, mais le message était faux sur ce qui comptait.
 
-L’événement est venu, mais j’avais demandé qui mourrait ensuite, et sur ce qui comptait, l’information était fausse. La voix n’avait dit ni quand, ni comment ça finirait. Ce que j’en ai gardé, c’est une étagère dans ma tête, étiquetée *sceptique, mais si ça arrive, j’étais prévenue*. Les messages vont sur cette étagère. Les dates en particulier.
+Ce que j’en ai gardé, c’est une étagère dans ma tête, étiquetée *sceptique, mais si ça arrive, j’étais prévenue*. Les messages vont sur cette étagère. Les dates en particulier.
 
 ## Pourquoi le timing est le point faible {#pourquoi-je-me-trompe}
 

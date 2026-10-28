@@ -19,7 +19,7 @@ Il y a des sujets sur lesquels je ne lis pas : la santé, la mort, la grossesse 
 
 La raison tient de l’arithmétique plus que du principe. À mon décompte, environ un tirage sur dix rate. Sur une question de nouveau poste, un raté coûte un haussement d’épaules. Sur une question d’examen médical, de grossesse ou de procès, un raté peut faire attendre quelqu’un qui devrait agir, ou paniquer quelqu’un qui pourrait souffler. J’explique ailleurs [pourquoi je m’écarte de la santé, de la grossesse et du décès](/fr/blog/sante-grossesse-deces-tarot/).
 
-Deux autres situations appellent une limite, même sur un sujet anodin : quelqu’un en pleine détresse, pour qui un tirage n’est pas le bon outil ce jour-là ; et quelqu’un qui revient sans cesse avec la même question, presque fébrile, traversé par une forte dose de doute. Il a besoin de respirer, de décider ou d’affronter ce qui lui fait peur : en général, je décline.
+Deux autres situations appellent une limite, même sur un sujet anodin. Quelqu’un en pleine détresse, pour qui un tirage n’est pas le bon outil ce jour-là. Et quelqu’un qui revient sans cesse avec la même question : là, en général, je décline, pour les raisons que j’explique dans [pourquoi vous devriez arrêter de tirer les cartes un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
 **Une limite n’est pas un jugement sur la personne ; c’est un fait sur l’outil.**
 

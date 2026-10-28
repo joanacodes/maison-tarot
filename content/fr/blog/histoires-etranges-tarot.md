@@ -35,7 +35,7 @@ Si vous lisez déjà, vous pouvez l’observer chez vous. Avant de mélanger, é
 
 ## L’homme qui m’a demandé si j’étais magicienne {#magicienne}
 
-Pendant un temps, je me suis exercée sur une application de correspondance. J’envoyais des « lettres » à des inconnus, en demandant d’abord des messages pour ceux qui en avaient besoin. Un homme m’a répondu pour savoir si je lisais dans les pensées, ou si j’étais magicienne.
+Pendant un temps, je me suis exercée sur une application de correspondance, en envoyant des « lettres » à des inconnus. Un homme m’a répondu pour savoir si je lisais dans les pensées, ou si j’étais magicienne.
 
 Ça m’a fait rire. C’est aussi une question légitime de la part de quelqu’un qui vient de recevoir une lettre sur sa vie, écrite par une personne qu’il n’a jamais vue. Une lettre est une drôle de façon de lire : pas de visage, pas de voix, aucune réaction sur laquelle s’appuyer. Ce qui tombe juste tombe juste sans votre aide. Je raconte davantage [les endroits où j’ai trouvé des personnes à qui tirer les cartes](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/), lettres comprises.
 

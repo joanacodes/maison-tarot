@@ -33,7 +33,7 @@ Pour qui a appris les significations par cœur, ces clés sont une deuxième por
 
 [La méthode](/fr/methode/) est la partie avec laquelle les lecteurs expérimentés aiment débattre, et c’est très bien. Elle tient en trois habitudes. La personne ne me dit rien avant. Avant de lire, je me dis que je vais dire n’importe quoi, ce qui fait taire mon ego. Et je tiens un carnet en deux colonnes : ce que j’ai dit, ce qui a été confirmé.
 
-À mon décompte, environ neuf tirages sur dix ont tenu et un sur dix a raté. C’est un comptage à la main, pas une étude, et je publie les ratés avec le reste. Ce que je proposerais à quelqu’un qui lit déjà, d’ailleurs, ce n’est pas mon chiffre : c’est le carnet. Tenez-en un pendant un mois et vous connaîtrez votre propre taux, qui vous servira bien plus que le mien.
+À mon décompte, environ neuf tirages sur dix ont tenu et un sur dix a raté, et je publie les ratés avec le reste. Ce que je proposerais à quelqu’un qui lit déjà, d’ailleurs, ce n’est pas mon chiffre : c’est le carnet. Tenez-en un pendant un mois et vous connaîtrez votre propre taux, qui vous servira bien plus que le mien.
 
 ## Ateliers et sessions : lire à l’aveugle, avec quelqu’un qui vérifie {#ateliers}
 

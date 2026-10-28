@@ -35,15 +35,15 @@ Selon ma définition, les trois étaient de la magie, et deux ont à peu près c
 
 ## Où se place le tarot dans cette définition {#place-du-tarot}
 
-Ce dont je suis sûre : des gens disent des choses vraies sur des inconnus qui ne leur ont rien dit. J’ai compté mes propres lectures dans un carnet, et environ neuf sur dix ont tenu. Ce n’est pas une étude, mais c’est plus qu’une impression. Quand des amis essaient pour la première fois, ils disent quelque chose de vrai et restent saisis par ce qui vient de sortir de leur bouche. C’est ce visage-là qui me fait enseigner.
+Ce dont je suis sûre : des gens disent des choses vraies sur des inconnus qui ne leur ont rien dit. [À mon propre décompte](/fr/blog/le-tarot-marche-t-il-300-tirages/), environ neuf de mes lectures sur dix ont tenu. Ce n’est pas une étude, mais c’est plus qu’une impression. Quand des amis essaient pour la première fois, ils disent quelque chose de vrai et restent saisis par ce qui vient de sortir de leur bouche. C’est ce visage-là qui me fait enseigner.
 
 Une partie, je sais l’expliquer. Certaines « réussites » iraient à n’importe qui, et c’est pour ça que je confronte mes lectures à [l’effet Barnum](/fr/blog/effet-barnum-tarot/). La mémoire garde les réussites et oublie les ratés. Un visage réagit avant que son propriétaire ne le décide.
 
-Une autre partie, non. Après une lecture pour une amie, j’ai senti un jour quelqu’un avec moi, chez moi : son grand-père, un Japonais sévère, avec beaucoup d’amour en lui. Il semblait parler japonais, alors j’ai dessiné à la place — le chiffre cinq, encore et encore, et « sous la maison ». Mon amie est descendue à la cave de son immeuble, au box numéro cinq — pas le sien, et déjà ouvert : il était rempli de pots de peinture. C’était tout le message. La suite est parmi [les histoires les plus étranges de mes tirages](/fr/blog/histoires-etranges-tarot/).
+Une autre partie, non. Après une lecture pour une amie, j’ai senti un jour son grand-père avec moi, chez moi, et le message qu’il m’a donné, un cinq et « sous la maison », l’a menée jusqu’au box numéro cinq de la cave de son immeuble, rempli de pots de peinture. Je raconte l’histoire en entier dans [ce qu’un grand-père très poli m’a appris](/fr/blog/le-tarot-est-il-malefique/).
 
 Je ne sais pas ce que c’était. Je sais que c’est arrivé, je ne sais pas l’expliquer : c’est exactement là que je le range.
 
-Si vous voulez l’idée en deux cartes, prenez le Magicien (le Bateleur au tarot de Marseille) et la Grande Prêtresse. Dans mes notes, [le Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/) a les quatre éléments sur sa table et sait tout faire ; son revers, c’est qu’il peut faire semblant, si on lui fait confiance les yeux fermés. Les deux sens du mot « magicien » dans une seule carte. La Grande Prêtresse sait beaucoup de choses et ne montre qu’une façade, comme la face cachée de la lune : ce qui existe et ne se voit pas encore.
+Si vous voulez l’idée en deux cartes, prenez le Magicien (le Bateleur au tarot de Marseille) et la Grande Prêtresse. Dans mes notes, le Magicien a les quatre éléments sur sa table et sait tout faire ; son revers, c’est qu’il peut faire semblant, si on lui fait confiance les yeux fermés. Les deux sens du mot « magicien » dans une seule carte. La Grande Prêtresse sait beaucoup de choses et ne montre qu’une façade, comme la face cachée de la lune : ce qui existe et ne se voit pas encore.
 
 {{< cards "ar01 ar02" >}}
 
@@ -53,7 +53,7 @@ Elle ne prétend pas à des pouvoirs. Je n’ai pas de capacités que les autres
 
 Elle ne prétend pas que l’inexpliqué soit dangereux, maléfique ou saint. « Inexpliqué » décrit l’état de nos connaissances, pas la chose elle-même.
 
-Et elle ne prétend à aucune certitude. Sur une application de correspondance, un homme m’a un jour répondu pour me demander si je lisais dans les pensées ou si j’étais magicienne. Ça m’a fait rire. La réponse honnête, c’est ni l’un ni l’autre — et aussi que je ne saurais pas lui expliquer entièrement comment marche un tirage. C’est précisément là que commence ma définition.
+Et elle ne prétend à aucune certitude. Quand [un correspondant m’a demandé un jour si je lisais dans les pensées ou si j’étais magicienne](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/), la réponse honnête était ni l’un ni l’autre — et aussi que je ne sais pas expliquer entièrement comment marche un tirage. C’est précisément là que commence ma définition.
 
 La limite, dite calmement : appeler quelque chose « magie », c’est un aveu, pas une explication. Le risque, c’est de s’arrêter là.
 

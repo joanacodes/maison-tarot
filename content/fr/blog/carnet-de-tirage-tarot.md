@@ -29,17 +29,17 @@ Imaginons que vous tiriez pour une amie le Trois de Coupes, puis le Huit de Pent
 
 Sous chaque lecture, une marque : juste, ou raté.
 
-Je compte une lecture comme juste quand la personne reconnaît sa situation, soit par une réaction visible pendant que je parle, soit par une confirmation après coup. Elle est ratée quand rien ne tombe, ou quand la personne le dit. Il n’y a pas de troisième case. Dès que vous ajoutez « en partie » ou « on verra », tous les ratés glissent dedans et le décompte ne veut plus rien dire.
+Notez « juste » quand la personne reconnaît sa situation, par une réaction visible pendant que vous parlez ou par une confirmation après coup. Notez « raté » quand rien ne tombe, ou quand la personne le dit. Il n’y a pas de troisième case. Dès que vous ajoutez « en partie » ou « on verra », tous les ratés glissent dedans et le décompte ne veut plus rien dire.
 
 Un raté se note aussi sobrement qu’une lecture juste. À gauche : « un déménagement, des cartons, une autre ville ». À droite : « Non, rien de tout ça. » Marque : raté. C’est la ligne la plus utile de la page.
 
-Notez la marque le soir même, tant qu’un raté pique encore. Puis laissez un peu de place dans la colonne de droite, parce que la confirmation arrive parfois tard. La toute première inconnue pour qui j’ai tiré m’a dit que ça ne lui parlait pas ; trois ou quatre jours plus tard, elle m’a écrit, secouée : tout était arrivé. Si un message de ce genre vous parvient, ajoutez-le avec sa date.
+Notez la marque le soir même, tant qu’un raté pique encore. Puis laissez un peu de place dans la colonne de droite, parce que la confirmation arrive parfois quelques jours plus tard. Si c’est le cas, ajoutez-la avec sa date.
 
 Toutes les dix lectures, comptez. Pas pour vous noter, mais pour voir ce que vos ratés ont en commun : un sujet, une heure, une longue soirée. Il m’arrive de m’arrêter au bout de deux heures de tirages, par prudence, et c’est le carnet qui vous montre votre propre limite.
 
 ## Ce que dit mon carnet {#mon-carnet}
 
-J’ai tenu ce carnet pendant environ trois cents lectures à l’aveugle, gratuites, pour des inconnus. À mon décompte, à peu près neuf sur dix étaient justes et une sur dix ratée. C’est un comptage à la main, tenu par la personne qui tire les cartes, pas une étude — [le décompte complet, et ce qu’il ne prouve pas](/fr/blog/le-tarot-marche-t-il-300-tirages/), a sa propre page.
+J’ai tenu ce carnet pendant environ trois cents lectures à l’aveugle, gratuites, pour des inconnus, et à mon décompte, à peu près neuf sur dix étaient justes et une sur dix ratée. [Le décompte complet, et ce qu’il ne prouve pas](/fr/blog/le-tarot-marche-t-il-300-tirages/), a sa propre page.
 
 Ce n’est pas le pourcentage qui m’a changée. Ce sont trois habitudes :
 

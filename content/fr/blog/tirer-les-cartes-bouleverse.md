@@ -31,7 +31,7 @@ Il y a une différence, et elle compte.
 
 Être bouleversé, c’est être triste, blessé, secoué après une conversation difficile. Vous pouvez encore rester assis. Une carte, plus tard dans la soirée, peut vous aider à nommer ce que vous ressentez.
 
-Être dans tous vos états, c’est autre chose. Vous tirez carte sur carte, vous remélangez, vous reposez la même question avec d’autres mots. Certaines personnes arrivent à une lecture comme ça, presque fébriles, traversées par une forte dose de doute. Quand je le vois, en général, je ne lis pas. Elles n’ont rien fait de mal ; ce dont elles ont besoin, c’est de respirer, de prendre une décision, ou de traverser ce qui leur fait peur. Une carte de plus ne leur donnera pas ça, et [reposer la même question](/fr/blog/combien-de-temps-entre-deux-tirages/) ne fait que monter le volume du doute.
+Être dans tous vos états, c’est autre chose. Vous tirez carte sur carte, vous remélangez, vous reposez la même question avec d’autres mots. Je retrouve ça chez certaines personnes qui viennent me demander une lecture, avec une forte dose de doute plus qu’une question, et je leur propose en général de ne pas lire du tout. Personne n’a rien fait de mal ; une carte de plus n’apaisera pas le doute, et [reposer la même question](/fr/blog/combien-de-temps-entre-deux-tirages/) ne fait qu’en monter le volume.
 
 Si vous vous reconnaissez dans le second portrait, le geste le plus doux est de ranger le jeu dans un tiroir pour la soirée. J’explique ailleurs [pourquoi s’éloigner des cartes fait du bien](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/), et ce n’est pas une punition.
 

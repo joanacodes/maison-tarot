@@ -35,15 +35,15 @@ Et je ne prétends pas savoir comment ça marche. Personne ne le sait, y compris
 
 Je suis arrivée là en sceptique : j’ai lancé une vidéo d’astrologie pour m’en moquer, et j’ai fini par tester mon propre thème case par case. Cette histoire, chiffres compris, est dans [un sceptique peut-il apprendre le tarot ?](/fr/blog/un-sceptique-peut-il-apprendre-le-tarot/)
 
-J’ai fait la même chose avec le tarot. J’ai lu pour des inconnus qui ne me disaient rien, et j’ai noté à chaque fois ce que j’avais dit et ce qu’ils confirmaient. À peu près neuf lectures sur dix tenaient. À peu près une sur dix ratait, et je le dis. Ces ratés sont la partie à laquelle je me fie le plus : un tarologue incapable de vous dire combien de fois il se trompe vous demande de croire le reste sur parole.
+J’ai fait la même chose avec le tarot, et [j’ai compté mes tirages à l’aveugle](/fr/blog/le-tarot-marche-t-il-300-tirages/). À peu près neuf lectures sur dix tenaient. À peu près une sur dix ratait, et je le dis. Ces ratés sont la partie à laquelle je me fie le plus : un tarologue incapable de vous dire combien de fois il se trompe vous demande de croire le reste sur parole.
 
-Ce que je crois, c’est donc un taux, dans des conditions données. C’est un décompte à la main, pas une étude. C’est assez pour continuer à lire et à enseigner, et pas assez pour promettre quoi que ce soit à qui que ce soit.
+Ce que je crois, c’est donc un taux, dans des conditions données. C’est mon propre décompte, pas une étude. C’est assez pour continuer à lire et à enseigner, et pas assez pour promettre quoi que ce soit à qui que ce soit.
 
 ## Ce que je n’explique pas {#ce-que-je-n-explique-pas}
 
-Certaines choses sont arrivées qu’aucun décompte ne couvre. Après avoir lu pour une amie, j’ai senti son grand-père avec moi, chez moi, et ce qui est venu, dessiné encore et encore, c’est le chiffre cinq et « sous la maison ». Au sous-sol de son immeuble, mon amie a trouvé la cave numéro cinq ouverte, et pleine de pots de peinture. C’était tout le message. Je raconte l’histoire en entier dans [le tarot est-il maléfique ?](/fr/blog/le-tarot-est-il-malefique/)
+Certaines choses sont arrivées qu’aucun décompte ne couvre. La plus nette est venue après un tirage pour une amie : ce qui ressemblait à la présence de son grand-père, et un message qui l’a conduite jusqu’à [une cave pleine de pots de peinture](/fr/blog/le-tarot-est-il-malefique/), au sous-sol de son immeuble. Ça s’est arrêté là.
 
-Je ne l’explique pas, et je ne bâtis rien dessus. Ce n’était pas une prophétie ; c’était de la peinture. Ma définition de travail de [la magie](/fr/blog/quest-ce-que-la-magie/) trouve sa place ici : ce qu’on sait exister mais qu’on est incapable d’expliquer.
+Je ne l’explique pas, et je ne bâtis rien dessus. Ce n’était pas une prophétie ; c’était de la peinture. Ma définition de travail de la magie trouve sa place ici : ce qu’on sait exister mais qu’on est incapable d’expliquer.
 
 Tout ce qui ressemble à ça, tout ce que je ne peux pas vérifier, va sur une étagère dans ma tête, avec une étiquette : « sceptique, mais si ça arrive, j’étais prévenue ». C’est une façon de garder une impression sans y croire et sans la jeter. Elle ne finit jamais sur les genoux de quelqu’un sous forme de prédiction.
 

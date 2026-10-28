@@ -17,9 +17,9 @@ Oui : dites ce qui vient, la partie dure comprise. Cacher une carte est une form
 
 Non. Si vous avez accepté de lire pour quelqu’un, vous lui devez ce que vous voyez, pas seulement la moitié agréable. Chaque carte a un plus et un moins, et ça marche dans les deux sens : les cartes joyeuses ont leur ombre, et les cartes dures ont un passage.
 
-Ce qui fait le plus mal, en général, ce n’est pas la phrase dure. C’est le silence qui précède un « hum, je préfère ne pas vous le dire ». La personne remplit ce silence avec la pire chose qu’elle puisse imaginer, et c’est presque toujours pire que ce qui est sur la table.
+Ce qui fait le plus mal, en général, ce n’est pas la phrase dure. C’est le silence qui précède un « hum, je préfère ne pas vous le dire ». La personne remplit ce silence avec la pire chose qu’elle puisse imaginer, et c’est presque toujours pire que ce qui est sur la table : les choses dures d’un tirage sont souvent plus petites et plus personnelles qu’on ne le craint.
 
-On dit que toute vérité n’est pas bonne à dire. Je dirais plutôt : toute vérité n’est pas bonne à dire n’importe comment. Et les choses dures d’un tirage sont souvent plus petites et plus personnelles qu’on ne le craint. Dans mon premier tirage pour une inconnue, la partie inconfortable n’avait rien d’une catastrophe : elle n’avait pas été très tendre avec l’autre personne. C’est dur à entendre. C’était aussi vrai, et c’était à elle de le savoir.
+On dit que toute vérité n’est pas bonne à dire. Je dirais plutôt : toute vérité n’est pas bonne à dire n’importe comment.
 
 ## Ce sur quoi je ne lis pas du tout {#ce-que-je-ne-lis-pas}
 
@@ -35,7 +35,7 @@ D’ailleurs, la Mort — l’arcane sans nom du tarot de Marseille — ne parle
 
 Avant d’annoncer quelque chose de dur, rappelez-vous combien les messages durs se trompent — parfois pas sur l’événement, mais sur ce qu’il veut dire.
 
-Un jour, folle de rage après la mort de quelqu’un de très proche, j’ai demandé en silence : « à qui le tour ? » J’ai entendu une voix d’homme me donner le prénom de quelqu’un d’autre parmi mes proches, et dire que cette personne allait avoir un accident. Deux semaines plus tard, sa voiture a été percutée par un camion. Cette personne va très bien aujourd’hui. L’information était juste sur un événement et fausse sur l’essentiel. Dite telle quelle de l’autre côté d’une table, elle aurait appris à quelqu’un à redouter le pire, et le pire n’est jamais venu. C’est [pour ça qu’un tirage peut se tromper](/fr/blog/tirage-faux-tarot/) : le moment, et l’interprétation.
+Je l’ai appris par un message que j’ai reçu moi-même : folle de rage après la mort de mon meilleur ami, j’ai entendu une voix dire qu’une autre amie allait avoir un accident, et deux semaines plus tard, un camion a percuté sa voiture. Elle va très bien aujourd’hui ; le message était juste sur un événement et faux sur l’essentiel, et je raconte toute l’histoire dans [pourquoi un tirage peut se tromper](/fr/blog/tirage-faux-tarot/).
 
 Depuis, les impressions dures vont sur une étagère dans ma tête, avec une étiquette : « sceptique, mais si ça arrive, j’étais prévenue ». Elles ne finissent pas sur les genoux de quelqu’un sous forme de prédiction.
 

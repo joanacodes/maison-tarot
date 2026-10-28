@@ -31,9 +31,9 @@ Il y a d’autres causes. Tirer trop souvent, si bien que chaque carte se confon
 
 Si vous voulez vérifier, il existe un test honnête. Confiez le même jeu à une amie qui lit et qui est reposée, et laissez-la vous tirer les cartes. Si sa lecture est vivante, les cartes n’ont jamais été le problème.
 
-## Pourquoi j’ai arrêté de vendre de la sauge {#pourquoi-jai-arrete}
+## Pourquoi purifier son jeu semble marcher {#purification}
 
-En 2021, j’ai vendu de la sauge, des bougies et des cartes « canalisées ». J’ai arrêté. Rien de tout ça n’a amélioré un seul tirage. J’ai raconté [pourquoi j’ai laissé tomber](/fr/blog/purifier-son-jeu-de-tarot/), et je dirais toujours la même chose : je ne crois pas que quoi que ce soit soit jamais resté coincé dans les cartes.
+À mon avis, rien n’est jamais resté coincé dans les cartes, et j’ai moi-même [vendu la sauge censée les purifier](/fr/blog/purifier-son-jeu-de-tarot/).
 
 Ça ne rend pas ridicules les personnes qui purifient leur jeu, et je ne vais pas leur dire d’arrêter. Un rituel fait quelque chose que je garderais : il oblige à faire une pause. Remettre soixante-dix-huit cartes dans l’ordre, ce sont dix minutes pendant lesquelles vous ne lisez pas, et cette pause est souvent exactement ce qu’il fallait. Le rituel marche. Je pense qu’il marche sur vous, pas sur les cartes.
 

@@ -25,7 +25,7 @@ Prenons une tarologue qui reçoit une amie venue parler d’une rupture douloure
 
 Pas au sens où un tirage serait dangereux sans. Beaucoup de tarologues ne seraient pas d’accord avec moi, et c’est leur droit. Je respecte tous ceux que leur rituel aide à se sentir stables. Un geste qui dit à votre corps « maintenant je lis », puis « maintenant j’ai fini », fait quelque chose de réel.
 
-Mon chemin est allé dans l’autre sens. J’ai vendu de la sauge et des bougies en 2021, puis j’ai arrêté, parce que rien de tout ça n’améliorait un tirage. J’ai raconté cette partie dans [pourquoi j’ai arrêté de purifier mon jeu](/fr/blog/purifier-son-jeu-de-tarot/).
+Mon chemin est allé dans l’autre sens : j’ai vendu de la sauge et des bougies à une époque, et j’explique ailleurs [pourquoi j’ai arrêté](/fr/blog/purifier-son-jeu-de-tarot/).
 
 **La protection sur laquelle je compte n’est pas un objet : c’est savoir ce qui est à moi.**
 

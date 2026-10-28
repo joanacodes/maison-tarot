@@ -43,7 +43,7 @@ La dérive prend trois directions :
 
 - Vers les questions qui se vendent. « Est-ce qu’il va revenir ? », « Est-ce que je vais tomber enceinte ? », « Est-ce que je dois accepter cet argent ? » sont les questions auxquelles on veut le plus une réponse, et celles où un mot de travers fait le plus de mal. Je ne lis pas sur ces sujets-là.
 - Vers les visites répétées. Les séances qui finissent sur un suspense, le paiement à la question, [les abonnements et les « tirages approfondis »](/fr/blog/tarot-payant-a-la-question/). Chacun récompense la personne qui lit quand vous avez de nouveau besoin d’elle.
-- Vers les objets. En 2021, je vendais de la sauge, des bougies et des cartes « canalisées » à côté du reste. J’ai arrêté. Rien dans ce carton n’a jamais amélioré une lecture, et une boutique vous paie pour vendre, pas pour bien lire.
+- Vers les objets. En 2021, je vendais de la sauge, des bougies et des cartes « canalisées », et j’explique [pourquoi j’ai arrêté](/fr/blog/purifier-son-jeu-de-tarot/) : rien dans ce carton n’a amélioré une lecture, et une boutique vous paie pour vendre, pas pour bien lire.
 
 ## Le gratuit n’est pas forcément plus pur {#gratuit-pas-pur}
 

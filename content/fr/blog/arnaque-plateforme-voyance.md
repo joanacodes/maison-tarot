@@ -45,7 +45,7 @@ Ce qui suit, c’est ma lecture du modèle, pas les conclusions de l’enquête.
 4. La disponibilité permanente. Le doute n’a pas d’horaires, une plateforme non plus. À deux heures du matin, la voix au bout du fil est souvent la seule qui réponde.
 5. Le paiement invisible. Une carte enregistrée ne fait pas mal. On ne sort pas de billets, on ne signe rien ; on raccroche, et la somme arrive plus tard, mélangée au reste du relevé.
 
-**Aucun de ces mécanismes n’exige qu’un voyant mente sur ses cartes.** C’est ce qui les rend si efficaces : ils tiennent au mode de paiement, pas au talent de la personne qui décroche. Quand quelqu’un arrive à une lecture presque fébrile, avec une forte dose de doute qui le traverse, je décline en général : ce dont il a besoin, c’est de respirer, de prendre une décision, ou de traverser ce qui lui fait peur. Une plateforme payée à la minute a toutes les raisons de faire l’inverse. J’ai rassemblé les procédés plus grossiers — malédiction, urgence, rituel payant — dans [les neuf signaux d’une arnaque à la voyance](/fr/blog/arnaque-voyance/).
+**Aucun de ces mécanismes n’exige qu’un voyant mente sur ses cartes.** C’est ce qui les rend si efficaces : ils tiennent au mode de paiement, pas au talent de la personne qui décroche. Quand quelqu’un revient vers moi avec le même doute, encore et encore, je lui propose en général une pause plutôt qu’une lecture de plus. Une plateforme payée à la minute a toutes les raisons de faire l’inverse. J’ai rassemblé les procédés plus grossiers — malédiction, urgence, rituel payant — dans [les neuf signaux d’une arnaque à la voyance](/fr/blog/arnaque-voyance/).
 
 ## Ce que l’affaire dit du marché français {#le-marche}
 

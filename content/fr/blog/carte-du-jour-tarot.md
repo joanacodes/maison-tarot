@@ -21,7 +21,7 @@ Le tirage à une carte, la fameuse carte du jour, est le meilleur entraînement 
 4. Regardez une bonne minute avant de réfléchir. Décrivez ce qu’il y a dessus, ce que vous voyez, ce que vous recevez.
 5. Écrivez trois lignes, puis rangez le jeu.
 
-C’est tout le rituel. Rien à purifier, rien à réciter, pas de tapis spécial.
+C’est tout le rituel. Rien à purifier, rien à réciter, pas de tapis spécial. Si vous n’avez encore jamais lu une seule carte, [votre premier tirage, pas à pas](/fr/blog/tirage-de-tarot-pas-a-pas-premier-tirage/) prend une dizaine de minutes.
 
 Certains matins, la carte aura l’air lourde : la Tour, le Dix d’Épées. Ce n’est pas la météo de votre journée. Chaque carte a un plus et un moins, et une carte lourde se lit comme les autres — ce qu’il y a dessus, ce que vous voyez. Le Dix d’Épées, par exemple, a une aube qui se lève derrière la silhouette étendue au sol.
 
@@ -65,7 +65,7 @@ Personne ne peut vous promettre ce que votre année montrera. Ce qu’elle vous 
 
 - 365 petites lectures, chacune vérifiée par écrit.
 - Quatre ou cinq rencontres avec chaque carte en moyenne, à des saisons différentes de votre vie.
-- Un carnet qui fait apparaître des motifs : [la carte qui revient sans cesse](/fr/blog/toujours-la-meme-carte-tarot/), celles que vous préférez ne pas regarder, les semaines où vous avez pris le jeu plus souvent.
+- Un carnet qui fait apparaître des motifs : la carte qui revient sans cesse, celles que vous préférez ne pas regarder, les semaines où vous avez pris le jeu plus souvent.
 - Quelques pauses, idéalement, notées elles aussi.
 
 Ce qu’elle ne vous apporte pas, c’est l’entraînement avec une autre personne. Votre propre journée est un juge indulgent, et vous connaissez trop bien votre histoire. Un jour, trouvez quelqu’un qui ne vous dira rien et tirez pour lui.

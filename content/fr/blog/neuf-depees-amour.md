@@ -29,7 +29,7 @@ L’élément, c’est l’Air, le mental. Quand il fonctionne, il décide ; qua
 
 Je ne lis pas ce que fait un partenaire quand il n’est pas dans la pièce. Une carte ne peut pas vérifier un téléphone ou un agenda, et un oui ou un non tiré en pleine nuit nourrit la peur dans les deux cas.
 
-Certaines personnes arrivent à une lecture presque fébriles, et posent la même question encore et encore. On dirait un besoin de réponse ; la plupart du temps, c’est une forte dose de doute. Quand je vois ça, je propose en général de ne pas tirer du tout, et je dis pourquoi : ce qui aide alors, c’est de respirer, de prendre une décision, ou de traverser ce qui fait peur, et une carte ne peut rien faire de tout ça à votre place. J’ai écrit sur [le fait de reposer la même question au tarot](/fr/blog/combien-de-temps-entre-deux-tirages/), et sur ce que ça vous fait.
+Si vous vous surprenez à poser cette question encore et encore, c’est en général le doute qui parle plutôt qu’un besoin de réponse, et [une pause dans les tirages](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/) vous aidera davantage qu’une carte de plus.
 
 Une question plus douce : « De quoi ai-je peur, et que faudrait-il que je demande, en plein jour, pour me sentir en sécurité ? » Celle-là mène à une conversation, et c’est là qu’habite la vraie réponse.
 

@@ -41,7 +41,7 @@ C’est la phrase à laquelle je me tiens. Le tarot n’est pas une autorité. U
 
 Un gourou ne peut pas se permettre de rater. Un tarologue, si. Environ une lecture sur dix a raté chez moi, d’après mon propre décompte, et je le dis à voix haute quand ça arrive. Dire « celle-là est ratée » devant quelqu’un est l’une des meilleures protections contre le fait de devenir un oracle à ses yeux.
 
-Concrètement, cela veut dire pas de consignes — pas de « quittez-le », pas de « acceptez le poste ». Cela veut dire renvoyer des questions : qu’avez-vous ressenti quand j’ai dit ça ? Et cela veut dire remarquer quand quelqu’un arrive presque fébrile, avec la même question que la semaine dernière. C’est une forte dose de doute qui le traverse. Je décline en général à ce moment-là, avec douceur, parce que ce dont il a besoin, c’est de respirer, de prendre une décision, ou de traverser ce qui lui fait peur. [Faire une pause avec les tirages](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/) est parfois la suggestion la plus utile que je puisse faire.
+Concrètement, cela veut dire pas de consignes — pas de « quittez-le », pas de « acceptez le poste ». Cela veut dire renvoyer des questions : qu’avez-vous ressenti quand j’ai dit ça ? Et cela veut dire remarquer quand quelqu’un revient avec la même question que la semaine dernière, et lui proposer avec douceur [une pause dans les tirages](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/) plutôt qu’un tirage de plus.
 
 ## Savoir quelle porte n’est pas la vôtre {#autres-portes}
 

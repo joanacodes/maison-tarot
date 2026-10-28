@@ -5,7 +5,7 @@ translationKey: "post-barnum-effect-tarot"
 type: blog
 date: 2026-10-24
 categories: ["Tirages"]
-tags: ["effet Barnum", "effet Forer", "effet Barnum tarot", "pourquoi le tarot semble juste", "test du voisin", "carnet de tirages", "tarot fiable"]
+tags: ["effet Barnum", "effet Forer", "effet Barnum tarot", "test du voisin", "carnet de tirages", "tarot fiable"]
 image: "covers/barnum-effect-tarot.jpg"
 imageAlt: "Un carnet ouvert divisé en deux colonnes, une ligne barrée, un crayon et un jeu de cartes fermé à côté"
 imagePrompt: "An open notebook ruled into two columns with one line crossed out and the handwriting out of focus, a pencil and a closed deck of cards beside it on a wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
@@ -54,7 +54,7 @@ La première vérification a lieu avant même que je tire une carte. La personne
 
 C’est important pour l’effet Barnum, et d’une façon précise. Les phrases vagues deviennent convaincantes quand elles rencontrent une histoire connue. Si vous me dites « c’est au sujet de mon couple » et que je réponds « il y a quelque chose que vous ne lui avez pas encore dit », vous trouverez la chose — tout le monde en a une. Si vous ne m’avez rien dit, je n’ai rien sur quoi ajuster une phrase vague, et la tentation d’en utiliser une diminue.
 
-Ça change aussi ma façon de parler. Sans histoire sur laquelle m’appuyer, je ne peux être précise que sur ce qu’il y a dans les cartes et sur ce qui monte quand je les regarde. C’est plus risqué, et c’est tout l’intérêt. Pourquoi j’y tiens, et ce dont elle ne protège pas, je l’explique dans [la règle du silence](/fr/blog/regle-du-silence-tarot/).
+Ça change aussi ma façon de parler. Sans histoire sur laquelle m’appuyer, je ne peux être précise que sur ce qu’il y a dans les cartes et sur ce qui monte quand je les regarde. C’est plus risqué, et c’est tout l’intérêt.
 
 ## Deuxième vérification : le carnet {#carnet}
 
@@ -62,27 +62,17 @@ La deuxième vérification se fait sur papier. Je tiens un carnet à deux colonn
 
 En plus de « juste » et « raté », les phrases prises une à une reçoivent une troisième mention, plus souvent que je ne le voudrais : *trop vague pour compter*. Une phrase comme « vous avez beaucoup porté ces derniers temps » y va même si la personne dit oui, parce qu’un oui à une phrase vague n’est pas une réussite. C’est une phrase Barnum qui fait son travail.
 
-Lecture par lecture, sur [les tirages à l’aveugle que j’ai notés](/fr/blog/le-tarot-marche-t-il-300-tirages/), environ neuf sur dix ont tenu et environ un sur dix a raté. C’est mon propre décompte, fait à la main, pas une étude, et je le précise chaque fois que je le donne.
-
-Le carnet fait deux choses dont la mémoire est incapable. Il garde les ratés, que la mémoire laisse tomber sans bruit, et il garde la formulation exacte, que la mémoire embellit sans bruit. Si vous voulez commencer le vôtre, [tenir un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) vous explique comment.
+Le carnet fait deux choses dont la mémoire est incapable. Il garde les ratés, que la mémoire laisse tomber sans bruit, et il garde la formulation exacte, que la mémoire embellit sans bruit. C’est aussi de lui que vient mon chiffre : sur [les tirages à l’aveugle que j’ai notés](/fr/blog/le-tarot-marche-t-il-300-tirages/), environ un sur dix a raté, d’après mon propre décompte.
 
 ## Troisième vérification : le test du voisin {#test-du-voisin}
 
-La troisième vérification tient en une question, que je pose à chaque phrase après coup : est-ce que cette phrase irait à mon voisin de palier ? Si oui, elle ne compte pas.
+La troisième vérification tient en une question, que je pose à chaque phrase après coup : est-ce que cette phrase irait à mon voisin de palier ? Si oui, elle ne compte pas. J’ai déroulé ce comptage sur une lecture, phrase par phrase, dans [pourquoi les tirages semblent si justes](/fr/blog/pourquoi-les-tirages-sont-justes/) ; ici, je vous montre plutôt la différence sur deux cartes.
 
-Je classe les phrases en trois niveaux :
-
-| Niveau | Exemple | Ce que j’en fais |
-|---|---|---|
-| Va à tout le monde | « Vous vous sentez bloqué, mais vous êtes plus libre que vous ne le pensez. » | Je la barre |
-| Va à un groupe | « Vous hésitez à vous engager. » | Un demi-point, au mieux |
-| Va à une seule personne, et peut être fausse | « Un projet de maison ou de mariage est en suspens, et c’est vous qui le retenez. » | Elle compte, si elle est confirmée |
-
-Cette dernière phrase est un exemple inventé, construit à partir de deux cartes : le Huit d’Épées et le Quatre de Bâtons.
+Prenons le Huit d’Épées et le Quatre de Bâtons.
 
 {{< cards "sw08 wa04" >}}
 
-Dans mes notes, le Huit d’Épées, c’est quelqu’un prisonnier de lui-même alors qu’il a tous les outils en main — le bandeau peut tomber. Le Quatre de Bâtons, ce sont les fondations : le mariage, construire une famille. La version Barnum s’arrête à « vous vous sentez bloqué ». La version précise nomme une situation, un rôle et une cause.
+Dans mes notes, le Huit d’Épées, c’est quelqu’un prisonnier de lui-même alors qu’il a tous les outils en main — le bandeau peut tomber. Le Quatre de Bâtons, ce sont les fondations : le mariage, construire une famille. La version Barnum de ces deux cartes, c’est « vous vous sentez bloqué, mais vous êtes plus libre que vous ne le pensez » : elle va à tout le monde, donc elle ne compte pas. La version précise nomme une situation, un rôle et une cause : « un projet de maison ou de mariage est en suspens, et c’est vous qui le retenez ». Elle peut être fausse, et c’est justement pour ça qu’elle vaut la peine d’être dite.
 
 **Une phrase qui peut être fausse est la seule qui vaille la peine d’être comptée.** Si la personne dit non, c’est un raté, et je l’écris. Si elle dit oui, ça veut dire quelque chose, parce que ça aurait très bien pu être non.
 
@@ -94,9 +84,9 @@ J’ai fait la même chose quand j’ai mis l’astrologie à l’épreuve : mon
 
 L’effet Barnum explique très bien pourquoi un tirage vague paraît juste. Il faut être tout aussi clair sur ce qu’il ne couvre pas.
 
-Il prédit un accord immédiat. Mon tout premier tirage pour une inconnue est allé dans l’autre sens. Il y était question d’une relation, avec un détail peu flatteur sur la façon dont elle avait traité l’autre personne, et elle m’a répondu que ça ne lui parlait pas. Quelques jours plus tard, elle m’a réécrit : tout était arrivé, y compris la partie peu flatteuse. Une phrase Barnum obtient un oui sur-le-champ. Celle-ci a obtenu un non, puis un fait.
+Il prédit un accord immédiat. Mon [tout premier tirage pour une inconnue](/fr/blog/premier-tirage-tarot/) est allé dans l’autre sens : elle m’a répondu que ça ne lui parlait pas, puis, quelques jours plus tard, elle m’a réécrit que tout était arrivé. Une phrase Barnum obtient un oui sur-le-champ. Ce tirage-là a obtenu un non, puis un fait.
 
-C’est une histoire, et une histoire seule ne prouve rien. Je ne sais pas pourquoi les réussites précises arrivent, et je ne prétends pas le savoir. Ce que je peux dire, c’est qu’une fois les phrases vagues barrées, il reste quelque chose, à une fréquence que je peux donner, avec des ratés que je nomme. J’ai décrit la mécanique dans [pourquoi les tirages semblent si justes](/fr/blog/pourquoi-les-tirages-sont-justes/).
+C’est une histoire, et une histoire seule ne prouve rien. Je ne sais pas pourquoi les réussites précises arrivent, et je ne prétends pas le savoir ; j’ai passé en revue [les quatre théories habituelles](/fr/blog/comment-marche-le-tarot/), et aucune ne l’explique entièrement. Ce que je peux dire, c’est qu’une fois les phrases vagues barrées, il reste quelque chose, à une fréquence que je peux donner, avec des ratés que je nomme.
 
 L’autre limite honnête, c’est moi. Mes vérifications réduisent l’effet Barnum ; elles ne le suppriment pas. Je trouve encore des phrases vagues dans mon propre carnet, et je pense que j’en trouverai toujours. Les repérer, c’est le travail.
 

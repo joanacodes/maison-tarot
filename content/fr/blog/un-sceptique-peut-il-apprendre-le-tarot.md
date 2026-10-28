@@ -1,6 +1,6 @@
 ---
-title: "Un sceptique peut-il apprendre le tarot ? Je suis venue à l’astrologie pour en rire"
-description: "Un sceptique peut-il apprendre le tarot ? Oui, et le doute aide. Je suis venue à l’astrologie pour en rire ; tous ceux que j’ai aidés ont lu en un à trois essais."
+title: "Un sceptique peut-il apprendre le tarot ? Pourquoi le doute est un bon bagage de départ"
+description: "Un sceptique peut-il apprendre le tarot ? Oui : le doute garde la lecture honnête. J’ai testé l’astrologie ; tous ceux que j’ai aidés ont lu en un à trois essais."
 translationKey: "post-can-a-sceptic-learn-tarot"
 type: blog
 date: 2026-10-24
@@ -11,7 +11,7 @@ imageAlt: "Un carnet ouvert sur deux colonnes manuscrites, un crayon, et une car
 imagePrompt: "An open notebook with two handwritten columns and a pencil, a single card lying face up beside it on a kitchen table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Oui. Un sceptique peut apprendre le tarot, et le doute est un bon bagage de départ : il pousse à tenir un carnet honnête, à dire « raté » sans broncher, et à refuser de réinterpréter une lecture qui n’a pas tenu. Personne n’a besoin d’un don ni d’une croyance pour commencer. Toutes les personnes que j’ai aidées à lire y sont arrivées en un à trois essais, d’après mon propre décompte. Le plus dur, pour un sceptique, ce n’est pas de croire : c’est de lâcher prise assez longtemps pour dire ce qui vient avant de juger si c’est raisonnable."
 ---
-Oui, et le doute est un bon bagage de départ. Je suis venue à l’astrologie pour en rire, et l’habitude qui est venue avec ce rire — tout vérifier — est celle que j’enseigne. Toutes les personnes que j’ai aidées à lire y sont arrivées en un à trois essais.
+Oui, et le doute est un bon bagage de départ. Le mien a d’abord visé l’astrologie, et l’habitude qu’il m’a laissée — tout vérifier — est celle que j’enseigne. Toutes les personnes que j’ai aidées à lire y sont arrivées en un à trois essais.
 
 ## Un sceptique peut-il apprendre le tarot ? {#reponse-courte}
 
@@ -19,7 +19,7 @@ Oui. Apprendre à lire ne vous demande de croire à rien. Ça vous demande de re
 
 D’après mon propre décompte, chaque personne que j’ai aidée à lire y est arrivée au premier, au deuxième ou au troisième essai. Ce n’est pas une étude, c’est mon carnet. Mais c’est pour ça que je dis que tout le monde peut apprendre, et qu’il n’y a pas d’élus. Lire, c’est comme l’art : certains ont plus de facilité, et quiconque pratique y arrive. Il n’y a [aucun don à posséder d’abord](/fr/blog/faut-il-un-don-pour-lire-les-cartes/).
 
-## Je suis venue à l’astrologie pour en rire {#mon-histoire}
+## Ce que j’ai fait de mon propre doute {#mon-histoire}
 
 Pendant la pandémie, j’ai lancé une vidéo d’astrologie pour m’en moquer. Puis j’ai lu mon propre thème astral, et il était trop précis pour être balayé d’un revers de main.
 

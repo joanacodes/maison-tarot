@@ -17,7 +17,7 @@ Oui, d’après mon expérience. La plupart de mes lectures pour des inconnus se
 
 Quand j’ai compté mes [300 tirages à l’aveugle](/fr/blog/le-tarot-marche-t-il-300-tirages/), la plupart s’étaient faits en ligne : sur des serveurs Discord, en appels de groupe, et pendant un live. D’autres en face à face. Environ neuf sur dix ont tenu, d’après mon propre décompte, et les lectures derrière ce chiffre se sont faites en majorité à travers un écran.
 
-Ma toute première lecture pour une inconnue en faisait partie. C’était sur un groupe Discord trouvé via Tumblr, avec une femme que je n’avais jamais rencontrée. Elle m’a dit que ça ne lui parlait pas ; trois ou quatre jours plus tard, elle m’a écrit, secouée, parce que tout était arrivé. La lecture comme la confirmation me sont parvenues à travers un écran.
+[Ma toute première lecture pour une inconnue](/fr/blog/premier-tirage-tarot/) en faisait partie : elle s’est faite sur un groupe Discord, et la confirmation est arrivée quelques jours plus tard, par message. Les deux sont passées par un écran.
 
 Une limite honnête : ce neuf sur dix réunit les lectures en ligne et celles en face à face. Il ne dit pas si les unes ont mieux tenu que les autres. Ce qu’il montre, c’est qu’un écran n’a pas empêché les lectures de tenir.
 
@@ -43,7 +43,7 @@ Rarement la lecture elle-même. Plutôt le cadre.
 
 ## Les appels de groupe et les lives {#appels-de-groupe}
 
-Une partie de mes lectures s’est faite devant d’autres personnes : en appels de groupe, et pendant un live. L’un des avis que j’ai reçus sur Facebook vient d’une personne lue pendant un live. Le principe ne change pas : elle ne me dit rien, je dis ce qui vient, elle dit si ça a tenu. C’est ainsi que fonctionnent aujourd’hui les [événements gratuits en ligne](/fr/evenements/).
+Une partie de mes lectures s’est faite devant d’autres personnes : en appels de groupe, et pendant un live. L’un des avis que j’ai reçus sur Facebook vient d’une personne lue pendant un live. Le principe ne change pas : elle ne me dit rien, je dis ce qui vient, elle dit si ça a tenu. C’est ainsi que fonctionnent aujourd’hui mes événements gratuits en ligne.
 
 À l’extrême de la distance, il y a la vidéo « pick a card », enregistrée par quelqu’un qui ne vous a jamais rencontré. L’une d’elles m’a fait sangloter, parce qu’elle mettait pour la première fois des mots sur ma situation. J’ai écrit sur [ce que valent les tirages pick-a-card](/fr/blog/tirage-pick-a-card/), et sur leurs limites.
 

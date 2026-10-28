@@ -50,7 +50,7 @@ C’est là qu’est l’essentiel, et c’est là que la plupart des gens se ta
 
 Dites clairement ce qui a touché juste et ce qui n’a rien donné. « Ça, c’était juste ; ça, ce n’était pas du tout moi. » Un tarologue qui compte a besoin des deux, et un raté nommé honnêtement vaut mieux qu’un hochement de tête poli. Si un tarologue transforme votre « non » en « vous comprendrez plus tard », notez-le aussi.
 
-Laissez reposer. Certains tirages prennent sens sur le moment, d’autres au bout de quelques jours. Mon tout premier tirage pour une inconnue avait « raté » — elle m’avait dit que ça ne lui parlait pas — et trois ou quatre jours plus tard, elle m’a écrit, un peu secouée : tout était arrivé. Si quelque chose fait tilt plus tard, le dire à votre tarologue est un très joli geste.
+Laissez reposer. Certains tirages prennent sens sur le moment, d’autres au bout de quelques jours. [Mon tout premier tirage pour une inconnue](/fr/blog/premier-tirage-tarot/) avait « raté » le jour même, et s’est réalisé quelques jours plus tard. Si quelque chose fait tilt plus tard, le dire à votre tarologue est un très joli geste.
 
 Écrivez-le le jour même, avant que votre mémoire ne fasse le ménage. En une semaine, on retient en général ce qui a touché juste et on oublie le reste ; une note garde les deux, et c’est la seule façon de juger le tirage honnêtement plus tard.
 

@@ -15,7 +15,7 @@ Je préfère ne pas lire sur quelqu’un qui n’est pas dans la pièce et qui n
 
 ## Pourquoi le consentement compte, même avec des cartes {#consentement}
 
-Vous n’aimeriez pas que quelqu’un fouille votre chambre pendant votre absence, quelles que soient ses raisons. Lire quelqu’un sans son consentement me fait cet effet-là : regarder dans une pièce privée qu’on ne vous a pas ouverte.
+Vous n’aimeriez pas que quelqu’un fouille votre chambre pendant votre absence, quelles que soient ses raisons. Lire quelqu’un sans son consentement me fait cet effet-là : regarder dans une pièce privée qu’on ne vous a pas ouverte. C’est pour ça que le consentement passe en premier dans [ma déontologie de tarologue, en version courte](/fr/blog/deontologie-tarologue/).
 
 Il y a aussi un aspect pratique. Quelqu’un qui ne sait pas qu’on le lit n’est pas ouvert à la lecture. D’après mon expérience, on attrape une demi-phrase de lui, puis on est tenté de construire toute une affirmation dessus : « il regrette », « elle est jalouse », « il va partir ». Ce n’est que mon expérience et l’hypothèse que j’en tire ; rien de tout ça n’a été prouvé scientifiquement. Ça me suffit pour toujours demander d’abord, et pour m’abstenir quand la personne ne peut pas être consultée. C’est sur [la liste de ce que je ne lis pas](/fr/avertissements/#refus), et c’est la même chose pour [regarder le thème astral de quelqu’un sans lui demander](/fr/blog/theme-astral-sans-permission/).
 
@@ -41,11 +41,11 @@ Ce que vous pouvez lire, c’est le conflit tel que vous le vivez. Imaginons que
 
 « Pourquoi est-elle comme ça ? » « Est-ce qu’elle me cache quelque chose ? » Parfois, tout bas : « Est-ce qu’elle est malade ? » Les questions sur un parent portent toute une enfance. Celle sur la santé, en particulier, n’est pas pour les cartes ; j’explique pourquoi, avec douceur, dans [pourquoi un tarologue prudent ne lit pas la santé, la grossesse et les décès](/fr/blog/sante-grossesse-deces-tarot/).
 
-Ce qu’une lecture peut porter, c’est la relation vue de votre côté. Imaginons que vous tiriez [l’Impératrice](/fr/bibliotheque/cartes-tarot/l-imperatrice/) : une femme au milieu des blés mûrs, la mère qui nourrit et fait pousser, et qui, sur son autre versant, peut étouffer. Cette carte ouvre une meilleure question que « pourquoi est-elle comme ça ? » : « De quoi ai-je besoin d’elle que je ne lui ai pas encore demandé, et que puis-je me donner à moi-même ? »
+Ce qu’une lecture peut porter, c’est la relation vue de votre côté. Imaginons que vous tiriez l’Impératrice : une femme au milieu des blés mûrs, la mère qui nourrit et fait pousser, et qui, sur son autre versant, peut étouffer. Cette carte ouvre une meilleure question que « pourquoi est-elle comme ça ? » : « De quoi ai-je besoin d’elle que je ne lui ai pas encore demandé, et que puis-je me donner à moi-même ? »
 
 ## Quand quelqu’un d’autre s’invite quand même {#quand-ils-s-invitent}
 
-D’autres personnes apparaissent dans les lectures, même quand personne n’a posé de question sur elles. Lors de mon tout premier tirage pour une inconnue, les cartes ont parlé d’une relation, et ont aussi montré qu’elle n’avait pas été très tendre avec l’autre personne. Elle m’a dit que ça ne lui parlait pas ; trois ou quatre jours plus tard, elle m’écrivait que tout était arrivé. Je le raconte en entier dans [mon tout premier tirage](/fr/blog/premier-tirage-tarot/).
+D’autres personnes apparaissent dans les lectures, même quand personne n’a posé de question sur elles. Lors de [mon tout premier tirage pour une inconnue](/fr/blog/premier-tirage-tarot/), les cartes ont parlé d’une relation, et ont aussi montré qu’elle n’avait pas été très tendre avec l’autre personne.
 
 Regardez ce qu’a fait cette lecture : elle parlait d’elle, et de sa part à elle. Toute la différence est là. Quand quelqu’un apparaît dans vos cartes, lisez-le tel qu’il vit en vous : votre peur de lui, votre amour pour lui, votre part de l’histoire. Ça, c’est à vous de le regarder. Sa vie intérieure, non.
 

@@ -77,6 +77,6 @@ Ce que je fais, et ce que je vous suggère :
 
 Si vous lisez pour quelqu’un d’autre, dites le plus de la carte d’abord et son moins ensuite, avec des mots simples.
 
-Et la limite honnête, dite calmement : un message effrayant peut se tromper même quand il semble se réaliser. J’étais en colère : un cancer venait d’emporter la personne qui m’était la plus proche parmi mes amis. J’ai demandé en silence « à qui le tour ? », et une voix d’homme m’a donné le prénom de quelqu’un d’autre parmi mes proches, et « va avoir un accident ». Deux semaines plus tard, un camion a percuté sa voiture. Cette personne est aujourd’hui en vie et en bonne santé. L’information était fausse sur ce qui comptait le plus. Je raconte tout dans [pourquoi un tirage peut se tromper](/fr/blog/tirage-faux-tarot/).
+Et la limite honnête, dite calmement : un message effrayant peut être faux sur l’essentiel, même quand une partie se réalise. C’est une voix, et non une carte, qui me l’a appris ; je le raconte dans [pourquoi un tirage peut se tromper](/fr/blog/tirage-faux-tarot/).
 
 Ce soir, sortez les quatre lames de votre jeu, posez-les en ligne, et dites le plus de chacune à voix haute. Puis, pour être juste, faites la même chose avec [les lames les plus joyeuses](/fr/blog/cartes-tarot-joyeuses/) — elles ont un moins, elles aussi.

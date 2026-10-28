@@ -17,7 +17,7 @@ Pas besoin de rituel pour commencer avec un nouveau jeu de tarot. Il vous faut u
 
 Non. Un rituel de nouveau jeu, c’est une petite cérémonie qu’on fait avant de s’en servir la première fois : le parcourir carte par carte, dormir avec sous l’oreiller, le purifier par la fumée ou à la lumière de la lune, le tapoter, ou poser un tirage d’« interview » du jeu. On les fait pour marquer le début, et pour sentir que le jeu nous appartient.
 
-Certains de ces gestes sont agréables, et je ne dissuaderais personne d’une habitude qui lui plaît. Mais ce qui rend un jeu vôtre, ce n’est pas la cérémonie. C’est d’apprendre comment dessine son illustrateur. J’ai vendu de la sauge en 2021, puis j’ai arrêté, parce que rien là-dedans n’améliorait un tirage ; je le raconte dans [faut-il purifier son jeu de tarot ?](/fr/blog/purifier-son-jeu-de-tarot/)
+Certains de ces gestes sont agréables, et je ne dissuaderais personne d’une habitude qui lui plaît. Mais ce qui rend un jeu vôtre, ce n’est pas la cérémonie. C’est d’apprendre comment dessine son illustrateur. La fumée et le clair de lune sont une question à part ; j’ai vendu de la sauge à une époque, et j’explique [pourquoi j’ai arrêté](/fr/blog/purifier-son-jeu-de-tarot/).
 
 Mon premier jeu était un cadeau de Noël de mes amis, et j’ai commencé à lire avec le 26 décembre 2020. **Ce qui m’a appris ce jeu, c’est de lire avec.**
 

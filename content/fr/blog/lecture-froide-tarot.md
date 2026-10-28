@@ -28,13 +28,13 @@ Les outils habituels :
 - *Le rattrapage des ratés* : « ce n’est pas encore arrivé », « vous comprendrez plus tard ».
 - *La lecture chaude*, sa cousine : se renseigner à l’avance, via un formulaire de réservation ou un profil sur les réseaux sociaux.
 
-Les mentalistes font tout cela ouvertement, sur scène ou à la télévision, et c’est un vrai savoir-faire. Il faut aussi le dire clairement : une bonne partie de la lecture froide n’est pas volontaire. Les gens attentifs et empathiques captent des indices sans s’en apercevoir, et un tarologue peut le faire en toute sincérité.
+Les mentalistes font tout cela ouvertement, sur scène ou à la télévision, et c’est un vrai savoir-faire. Il faut aussi le dire clairement : une bonne partie de la lecture froide n’est pas volontaire. Les gens attentifs et empathiques captent des indices sans s’en apercevoir, et un tarologue peut le faire en toute sincérité. C’est l’une des [quatre explications courantes du fonctionnement du tarot](/fr/blog/comment-marche-le-tarot/).
 
 ## Pourquoi ça marche si bien {#pourquoi-ca-marche}
 
 Parce que ça repose sur de vraies qualités : l’attention, l’écoute, la chaleur. Les mêmes qui font une bonne amie, un bon professeur ou un bon vendeur.
 
-La personne aide, aussi. Elle comble les trous, relie une phrase vague à un souvenir précis, et retient ensuite les trois phrases justes plutôt que les dix à peu près. Personne n’est bête là-dedans. C’est comme ça que nous écoutons tous quand quelqu’un semble parler de nous.
+La personne aide, aussi. Elle comble les trous, relie une phrase vague à un souvenir précis, et retient ensuite les trois phrases justes plutôt que les dix à peu près. Personne n’est bête là-dedans. C’est comme ça que nous écoutons tous quand quelqu’un semble parler de nous, et ça explique en bonne partie [pourquoi les tirages semblent si justes](/fr/blog/pourquoi-les-tirages-sont-justes/).
 
 Le problème ne commence que lorsque le résultat est présenté comme venant des cartes.
 

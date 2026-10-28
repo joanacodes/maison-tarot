@@ -23,7 +23,7 @@ Le dessin. Dix épées plantées dans le dos d’un homme, c’est difficile à 
 
 Chaque raison appelle autre chose. Un dessin qui vous déplaît demande un regard plus attentif. Une réputation demande les clés de lecture. Un souvenir demande un peu de distance. L’ennui demande une semaine d’attention.
 
-Si vous ne savez pas laquelle est la vôtre, observez ce qui se passe en vous quand la carte sort : un mouvement de recul devant l’image, une phrase entendue un jour à son sujet, une date, ou un haussement d’épaules. Cette première réaction nomme en général la raison. La plupart des lecteurs ont une carte de ce genre, et elle en dit souvent plus sur la façon dont vous l’avez rencontrée que sur la carte elle-même.
+Si vous ne savez pas laquelle est la vôtre, observez ce qui se passe en vous quand la carte sort : un mouvement de recul devant l’image, une phrase entendue un jour à son sujet, une date, ou un haussement d’épaules. Cette première réaction nomme en général la raison. La plupart des lecteurs ont une carte de ce genre, et elle en dit souvent plus sur la façon dont vous l’avez rencontrée que sur la carte elle-même. Parfois, elle dit aussi quelque chose de vous, et c’est pour ça qu’une carte qu’on n’aime pas est un bon point de départ pour [le travail sur l’ombre](/fr/blog/travail-sur-lombre/).
 
 ## Lisez-la par ses clés de lecture, pas par sa réputation {#cles-de-lecture}
 
@@ -39,7 +39,7 @@ Aucune carte n’est bonne ou mauvaise ; chacune a ses deux faces. C’est vrai 
 
 Le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/) est, dans mes propres notes, la carte la plus négative du jeu : la perte, l’émotion sombre, se retrouver seul avec ses problèmes. Je ne l’adoucis pas. Mais regardez de nouveau le dessin : trois coupes sont renversées, et deux tiennent encore debout derrière le personnage, avec un pont qui enjambe la rivière. Le moins est réel. Le plus aussi.
 
-[La Mort](/fr/bibliotheque/cartes-tarot/la-mort/) en est une autre qu’on tient à distance. Dans mes notes, elle ne parle pas de la mort : elle est liée à la moisson, au recommencement — quelqu’un sans but qui veut rendre sa vie de nouveau fertile. (Au tarot de Marseille, c’est d’ailleurs l’arcane sans nom.)
+La Mort en est une autre qu’on tient à distance. Dans mes notes, elle ne parle pas de la mort : elle est liée à la moisson, au recommencement — quelqu’un sans but qui veut rendre sa vie de nouveau fertile. (Au tarot de Marseille, c’est d’ailleurs l’arcane sans nom.)
 
 Quand vous avez trouvé les deux faces d’une carte que vous n’aimez pas, vous pouvez la lire pour quelqu’un sans tressaillir, et sans la forcer non plus à devenir une bonne nouvelle.
 

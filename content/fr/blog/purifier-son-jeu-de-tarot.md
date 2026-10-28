@@ -37,11 +37,7 @@ Chacune de ces pratiques fait au moins une chose à coup sûr : elle vous oblige
 
 En 2021, j’ai vendu de la sauge, des bougies et des cartes « canalisées ». J’ai arrêté. Rien de tout ça n’a amélioré un tirage.
 
-{{< todo >}}À ajouter ici : pourquoi vous avez arrêté de vendre, avec vos mots — vos notes disent seulement que vous avez arrêté, et que rien de tout ça n’a amélioré un tirage.{{< /todo >}}
-
-C’est cette dernière phrase qui compte pour moi, alors je vous dis ce que j’entends par là. Quand je parle d’un tirage qui s’améliore, je parle de la seule chose que je mesure : est-ce que ce que je dis tient quand la personne vérifie ? Un tirage, c’est la personne en face de moi, ce que je vois et ce que je dis. Aucune de ces trois choses ne loge dans un bouquet de sauge.
-
-{{< todo >}}À ajouter ici (facultatif) : une phrase sur ce qu’étaient ces cartes « canalisées », si vous souhaitez que vos lecteurs le sachent.{{< /todo >}}
+C’est cette dernière phrase qui compte pour moi, alors je vous dis ce que j’entends par là. Quand je parle d’un tirage qui s’améliore, je parle de la seule chose que je mesure : est-ce que ce que je dis tient quand la personne vérifie ? Un tirage, c’est la personne en face de moi, ce que je vois et ce que je dis. Aucune de ces trois choses ne loge dans un bouquet de sauge, et aucune ne s’achète en boîte.
 
 ## Pourquoi un rituel peut quand même aider {#pourquoi-ca-aide}
 

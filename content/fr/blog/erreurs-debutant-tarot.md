@@ -25,7 +25,7 @@ Beaucoup de débutants attendent un signe qui prouverait qu’ils « ont quelque
 
 ### 3. Acheter le rituel avant d’apprendre le jeu
 
-De la sauge, des pierres, une purification à la pleine lune, un deuxième puis un troisième jeu dès la deuxième semaine. En 2021, j’ai vendu de la sauge, des bougies et des cartes « channelées », et j’ai arrêté : rien de tout ça n’a amélioré une seule lecture. **Un Rider-Waite-Smith suffit pour votre première année** — [voici pourquoi je fais commencer tout le monde avec ce jeu](/fr/blog/quel-jeu-de-tarot-choisir/).
+De la sauge, des pierres, une purification à la pleine lune, un deuxième puis un troisième jeu dès la deuxième semaine. Rien de tout ça ne vous apprend à lire. **Un Rider-Waite-Smith suffit pour votre première année** ; ajoutez une clé de lecture, un carnet et quelqu’un qui ne vous dit rien, et vous avez tout ce que demande [la méthode que j’enseigne aux débutants](/fr/blog/apprendre-a-lire-le-tarot-debutant/).
 
 ## Pendant la lecture {#pendant-la-lecture}
 

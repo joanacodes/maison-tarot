@@ -25,7 +25,7 @@ Ceux qui aiment les cristaux décrivent souvent une sensation de calme, l’impr
 
 ## Les cristaux rendent-ils un tirage plus juste ? {#justesse}
 
-Pas d’après ce que j’ai pu observer. En 2021, je vendais de la sauge, des bougies et des cartes « channelisées », le genre de choses qu’on achète pour accompagner un jeu. J’ai arrêté, parce que rien dans tout ça n’améliorait une lecture. Je vois les cristaux de la même façon : c’est agréable à avoir, mais ce n’est pas ce qui rend une lecture juste.
+Pas d’après ce que j’ai pu observer. En 2021, je [vendais de la sauge, des bougies et des cartes « channelisées »](/fr/blog/purifier-son-jeu-de-tarot/), le genre de choses qu’on achète pour accompagner un jeu, et j’ai arrêté parce que rien dans tout ça n’améliorait une lecture. Je vois les cristaux de la même façon : c’est agréable à avoir, mais ce n’est pas ce qui rend une lecture juste.
 
 Ce que j’ai vu changer une lecture se trouve déjà sur la table. La personne m’a-t-elle dit quelque chose avant que je commence ? Est-ce que je lisais depuis deux heures, fatiguée ? Est-ce que j’essayais d’avoir raison au lieu de dire ce qui venait ? Aucun objet ne règle ces trois questions, et aucune n’en a besoin.
 
@@ -57,6 +57,6 @@ La plupart des gens qui cherchent des pierres de protection demandent, au fond, 
 
 Un jeu. Je fais commencer tout le monde avec le Rider-Waite-Smith de 1909, parce que chaque carte porte une scène qu’on peut lire sans livre ; [voici pourquoi ce jeu-là](/fr/blog/quel-jeu-de-tarot-choisir/). Puis un carnet, pour noter ce que vous avez dit et ce qui a été confirmé. C’est toute la liste de courses.
 
-Aucun rituel n’est nécessaire pour commencer. Pour votre première semaine avec un nouveau jeu, je préfère que vous [regardiez chaque carte plutôt que de le purifier](/fr/blog/nouveau-jeu-de-tarot/) — c’est le même raisonnement qui m’a fait [arrêter de vendre de la sauge pour purifier les jeux](/fr/blog/purifier-son-jeu-de-tarot/).
+Aucun rituel n’est nécessaire pour commencer. Pour votre première semaine avec un nouveau jeu, je préfère que vous [regardiez chaque carte plutôt que de le purifier](/fr/blog/nouveau-jeu-de-tarot/).
 
 Si vous aimez vos cristaux, laissez-les où ils sont. Puis retournez la première carte, et remarquez que la lecture commence avec vous. La page [apprendre le tarot](/fr/apprendre-le-tarot/) est la suite, une carte à la fois.
