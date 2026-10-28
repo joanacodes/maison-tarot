@@ -49,6 +49,8 @@ gallery:
 
 Water flows, fills, reflects and takes the shape of its container. In my notes it’s emotions, relationships and hidden strengths: it carries you from A to B when you let it, and it can drown you. Liquid water also seeps into anything with time — a neglected emotion can damage the foundations, like mould slowly eating a house. **Water on a card is a feeling, and the drawing tells you whether it’s moving or still.**
 
+{{< zoom "water" "lead" >}}
+
 An everyday example: the glass of water someone pours you when you arrive upset. Nobody has solved anything yet. But something is being looked after.
 
 ## Where it appears in the deck {#where}
@@ -70,6 +72,8 @@ On the Moon, a crayfish climbs out of a pool at the bottom of the card: what liv
 On the Eight of Swords, puddles lie around the bound woman’s feet.
 
 {{< cards "ar14 ar17 cuac ar03 ar02 ar18 sw08" >}}
+
+{{< zoom "water" "rest" >}}
 
 ## How to read it {#reading}
 

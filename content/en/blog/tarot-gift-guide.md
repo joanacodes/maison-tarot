@@ -39,7 +39,7 @@ Some extras are sold as if a beginner couldn’t start without them. They can.
 
 A gift for someone who already reads is a different parcel, because they have the basics and the habits.
 
-A second deck is the obvious choice, and the best moment for one is when they can read a stranger from a single card without a book. The Tarot de Marseille is a good test of whether the lenses have really sunk in: the numbered cards are patterns of cups, swords, coins and batons, so you read them through number and element alone. The Thoth, painted by Frieda Harris for Aleister Crowley, is for someone curious about symbols for their own sake. Ask first which one tempts them; readers often have a list.
+A second deck is the obvious choice. For someone who already reads the Rider-Waite-Smith comfortably, a Tarot de Marseille makes a good challenge: with no scenes on the numbered cards, they’ll find out how much the number and the element carry on their own. The Thoth, painted by Frieda Harris for Aleister Crowley, suits someone curious about symbols for their own sake. Ask first which one tempts them; readers often have a list.
 
 Other ideas that work: a fresh notebook, because the old one is always full; a book on the history of the cards rather than on their meanings; or an evening at one of the [free events](/events/), where readings are drawn at random and they can try reading for strangers. Collecting decks is a bit like collecting art, so if they collect, let them choose. A deck they picked themselves will get used.
 

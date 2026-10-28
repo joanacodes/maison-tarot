@@ -49,6 +49,8 @@ gallery:
 
 L’eau coule, remplit, reflète et prend la forme de son récipient. Dans mes notes, ce sont les émotions, les relations, les forces cachées : elle vous porte de A à B quand vous la laissez faire, et elle peut vous noyer. L’eau liquide finit aussi par s’infiltrer partout — une émotion négligée peut abîmer les fondations, comme l’humidité qui ronge lentement une maison. **L’eau sur une carte, c’est un sentiment, et le dessin vous dit s’il bouge ou s’il dort.**
 
+{{< zoom "water" "lead" >}}
+
 Un exemple de tous les jours : le verre d’eau qu’on vous sert quand vous arrivez bouleversé. Personne n’a rien réglé. Mais on s’occupe de quelque chose.
 
 ## Où elle apparaît dans le jeu {#ou}
@@ -70,6 +72,8 @@ Sur la Lune, une écrevisse sort d’un bassin au bas de la carte : ce qui vit d
 Sur le Huit d’Épées, des flaques entourent les pieds de la femme ligotée.
 
 {{< cards "ar14 ar17 cuac ar03 ar02 ar18 sw08" >}}
+
+{{< zoom "water" "rest" >}}
 
 ## Comment la lire {#lecture}
 

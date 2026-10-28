@@ -19,7 +19,7 @@ Rule a line down the middle of the page. On the left, what you said, in the word
 
 Leave out the person's question — under [the silence rule](/blog/the-silence-rule/) you shouldn't know it anyway — and leave out their full name. A first name, or "stranger, group call", is enough to find the reading again. It's their life on your page.
 
-Say you read for a friend and draw the Three of Cups, then the Eight of Pentacles. Your left column might say: "Lots of yellow, three cups raised: something finished and celebrated. Then eight, Earth: steady work, a skill being polished." Her right column: "My sister's wedding last weekend. And yes, I've just started an evening course." Two lines each, and you can already judge.
+Say you read for a friend and draw the Three of Cups, then the Eight of Pentacles. Your left column might say: "Three cups raised, a lot of red against a blue sky: people celebrating together, warm feelings. Then eight, Earth: steady work, a skill being polished." Her right column: "My sister's wedding last weekend. And yes, I've just started an evening course." Two lines each, and you can already judge.
 
 {{< cards "cu03 pe08" >}}
 
@@ -65,4 +65,4 @@ The log also shows something no single reading can: how often you reach for the 
 
 Take any notebook, the cheap kind is fine, and rule the line tonight. Read for ten people who tell you nothing, fill both columns, mark each one, and count. Ten is enough to see what you do when you miss.
 
-If you don't know who to read for yet, here's [where I found people who'd tell me nothing](/blog/where-to-find-people-to-read-for/). And if you'd like to watch the two columns being filled in front of you, the notebook is open at every [free event](/events/).
+If you don't know who to read for yet, here's [where I found people who'd tell me nothing](/blog/where-to-find-people-to-read-for/). And if you'd like to watch readings checked in front of you, every [free event](/events/) ends that way: the people read say what held, and we compare.

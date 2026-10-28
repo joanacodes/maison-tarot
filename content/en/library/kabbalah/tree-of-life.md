@@ -29,7 +29,7 @@ In Kabbalah, the sephirot (singular sephirah) are ten aspects through which God,
 
 On the Tree they stand in three columns: the right side expands (Chesed, mercy), the left sets limits (Gevurah, rigour), the middle holds the balance. **Read it from top to bottom, in the order of emanation: from the first spark to the world you can touch.** Some Jewish texts count Da’at, knowledge, in place of Keter; the Golden Dawn keeps the ten below.
 
-{{< tree-of-life pillars="true" >}}
+{{< tree-of-life pillars="true" interactive="true" >}}
 
 | # | Sephirah | Meaning | Golden Dawn cards |
 | --- | --- | --- | --- |

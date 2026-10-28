@@ -812,3 +812,50 @@ body.menu-open { overflow: hidden; }
 .facts .v.tree-place { font-size: var(--t-0); }
 .facts .v.tree-place a { color: inherit; text-decoration-color: var(--gold); }
 .facts .v.tree-place small { display: block; font-size: var(--t-xs); color: var(--muted); margin-top: .2rem; }
+
+/* Arbre interactif : le dessin à gauche, le panneau à droite (dessous sur téléphone) */
+.tol-explorer { display: grid; gap: 1.5rem; margin: 2rem 0 2.5rem; align-items: start; }
+.tol-explorer .tree-of-life { margin: 0 auto; width: 100%; }
+@media (min-width: 900px) { .tol-explorer { grid-template-columns: minmax(0, 1.05fr) minmax(0, .95fr); } .tol-panel { position: sticky; top: calc(var(--header-h) + 1rem); } }
+.tol-panel { border: 1px solid var(--line); border-radius: var(--r-lg); padding: 1.25rem 1.3rem 1.4rem; background: var(--bg); min-height: 12rem; scroll-margin-top: calc(var(--header-h) + 1rem); }
+.tol-panel .tol-intro { color: var(--fg-2); margin: 0 0 1rem; }
+.tol-tools { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 1rem; }
+.tol-btn, .tol-chip { font: inherit; font-size: var(--t-xs); color: var(--fg); background: var(--bg-2); border: 1px solid var(--line-2); border-radius: 2rem; padding: .4rem .85rem; cursor: pointer; }
+.tol-btn:hover, .tol-chip:hover, .tol-btn[aria-pressed="true"] { border-color: var(--gold); }
+.tol-btn[aria-pressed="true"] { background: var(--gold-soft); }
+.tol-kicker { font-family: var(--font-mono); font-size: var(--t-xs); color: var(--muted); letter-spacing: .04em; margin: 0 0 .35rem; }
+.tol-title { font-family: var(--font-display); font-size: var(--t-2); line-height: 1.1; margin: 0; }
+.tol-he { font-family: var(--font-body); font-weight: 400; color: var(--gold); font-size: .8em; }
+.tol-glyph { color: var(--gold); }
+.tol-sub { color: var(--fg-2); margin: .3rem 0 .9rem; }
+.tol-lede { font-size: var(--t-s); color: var(--fg-2); margin: 0 0 .9rem; }
+.tol-facts { font-size: var(--t-s); margin: 0 0 1rem; }
+.tol-label-small { display: block; font-size: var(--t-xs); color: var(--muted); text-transform: uppercase; letter-spacing: .08em; margin: 1rem 0 .5rem; }
+.tol-cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: .55rem; }
+.tol-card { display: block; text-decoration: none; color: var(--fg); font-size: .72rem; line-height: 1.25; }
+.tol-card img { display: block; width: 100%; height: auto; border-radius: 6px; margin-bottom: .3rem; box-shadow: 0 1px 0 var(--line); }
+.tol-card:hover img { outline: 2px solid var(--gold); outline-offset: 2px; }
+.tol-joins { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem; margin: 0 0 1rem; }
+.tol-joins .tol-label-small { margin: 0 .3rem 0 0; }
+.tol-major { display: grid; grid-template-columns: 6.5rem 1fr; gap: 1rem; align-items: start; }
+.tol-major-name { font-family: var(--font-display); font-weight: 600; margin: 0 0 .4rem; }
+.tol-actions { display: flex; flex-wrap: wrap; gap: 1.2rem; margin: 1.1rem 0 0; font-size: var(--t-s); }
+.tol-open { color: var(--fg); text-decoration-color: var(--gold); }
+/* Sélection : la sphère ou le sentier choisi en or, ses voisins nets, le reste pâli par la couleur */
+.tree-of-life.has-sel .tol-paths line:not(.near):not(.sel) { stroke: var(--line); }
+.tree-of-life.has-sel .tol-sphere:not(.sel):not(.near) circle, .tree-of-life.has-sel .tol-label:not(.sel):not(.near) rect { stroke: var(--line-2); }
+.tree-of-life.has-sel .tol-sphere:not(.sel):not(.near) text, .tree-of-life.has-sel .tol-label:not(.sel):not(.near) text { fill: var(--muted); }
+.tree-of-life .tol-paths line.near, .tree-of-life .tol-paths line.sel { stroke: var(--gold); }
+.tree-of-life .tol-sphere.sel circle { fill: var(--gold); stroke: var(--gold); }
+.tree-of-life .tol-sphere.sel text { fill: #0a0a0a; }
+.tree-of-life .tol-label.sel rect { fill: var(--gold); stroke: var(--gold); }
+.tree-of-life .tol-label.sel text { fill: #0a0a0a; }
+.tree-of-life .tol-label.near rect { stroke: var(--gold); stroke-width: 1.5; }
+.tree-of-life .tol-sphere, .tree-of-life .tol-label { cursor: pointer; }
+/* L’éclair 1 → 10 : un trait d’or qui se dessine, les sphères qui s’allument une à une */
+.tree-of-life .tol-flash { fill: none; stroke: var(--gold); stroke-width: 3; stroke-linejoin: round; stroke-dasharray: 1; stroke-dashoffset: 1; opacity: 0; pointer-events: none; }
+.tree-of-life.flashing .tol-flash { opacity: 1; animation: tol-draw 4.2s linear forwards; }
+.tree-of-life.flashed .tol-flash { opacity: 1; stroke-dashoffset: 0; }
+.tree-of-life .tol-sphere.lit circle { fill: var(--gold-soft); stroke: var(--gold); }
+@keyframes tol-draw { to { stroke-dashoffset: 0; } }
+@media (prefers-reduced-motion: reduce) { .tree-of-life.flashing .tol-flash { animation: none; stroke-dashoffset: 0; } }

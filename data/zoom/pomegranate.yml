@@ -1,0 +1,9 @@
+# Gros plans de la grenade (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: ar02
+  box: [0.37, 0.10, 0.63, 0.24]
+  en: "A pomegranate showing its red seeds, on the veil above her crown"
+  fr: "Une grenade ouverte sur ses graines rouges, sur le voile"
+- card: ar03
+  box: [0.56, 0.53, 0.82, 0.74]
+  en: "Red and green pomegranates printed on the Empress’s white dress"
+  fr: "Les grenades rouges et vertes imprimées sur la robe blanche"

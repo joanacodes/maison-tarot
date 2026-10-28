@@ -41,7 +41,7 @@ I don’t read on people who aren’t in the room, and I’d rather not turn a c
 
 A kinder question: “Where do I need to be clearer, and how can I say it kindly?” It points the sword where it can help.
 
-## Beside the King of Cups, the Eight and the Three of Swords {#beside-her}
+## Who sits with her: a King, an Eight, a broken heart {#who-sits-with-her}
 
 {{< cards "cuki sw08 sw03" >}}
 

@@ -29,7 +29,7 @@ Dans la Kabbale, les sephirot (au singulier, sephirah) sont dix aspects par lesq
 
 Sur l’Arbre, elles se rangent en trois colonnes : à droite ce qui s’étend (Hesed, la grâce), à gauche ce qui pose des limites (Gevurah, la rigueur), au milieu l’équilibre. **Lisez-le de haut en bas, dans l’ordre de l’émanation : de la première étincelle jusqu’au monde qu’on touche.** Certains textes juifs comptent Da’at, la connaissance, à la place de Keter ; la Golden Dawn garde les dix ci-dessous.
 
-{{< tree-of-life pillars="true" >}}
+{{< tree-of-life pillars="true" interactive="true" >}}
 
 | N° | Sephirah | Sens | Cartes (Golden Dawn) |
 | --- | --- | --- | --- |

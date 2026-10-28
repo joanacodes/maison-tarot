@@ -1,0 +1,13 @@
+# Gros plans de l’eau (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: ar17
+  box: [0.045, 0.56, 0.62, 0.912]
+  en: "Water poured from a jug, rippling across the Star’s pool"
+  fr: "L’eau versée d’une cruche, qui fait des ronds dans le bassin de l’Étoile"
+- card: ar14
+  box: [0.20, 0.27, 0.70, 0.535]
+  en: "Water flowing from one cup into the other, on Temperance"
+  fr: "L’eau qui coule d’une coupe dans l’autre, sur Tempérance"
+- card: cuac
+  box: [0.12, 0.52, 0.88, 0.908]
+  en: "Streams and drops falling into a pond of water lilies"
+  fr: "Des filets et des gouttes qui tombent dans un étang couvert de nénuphars"

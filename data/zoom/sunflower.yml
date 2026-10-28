@@ -1,0 +1,13 @@
+# Gros plans du tournesol (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: ar19
+  box: [0.042, 0.385, 0.497, 0.625]
+  en: "Sunflowers over the grey wall, beside the child’s head"
+  fr: "Les tournesols au-dessus du mur gris, près de la tête de l’enfant"
+- card: waqu
+  box: [0.62, 0.235, 0.88, 0.50]
+  en: "The sunflower the Queen holds in her left hand"
+  fr: "Le tournesol que la Reine tient dans sa main gauche"
+- card: waqu
+  box: [0.22, 0.15, 0.72, 0.30]
+  en: "Carved sunflowers on the throne, on either side of her head"
+  fr: "Les tournesols sculptés sur le trône, de part et d’autre de sa tête"

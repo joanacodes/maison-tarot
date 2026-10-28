@@ -24,50 +24,56 @@ A suit is a family of fourteen cards that share one object: an Ace, the numbers 
 | Swords | Air | Thoughts, decisions, words | Blades, clouds, wind, birds | Spades |
 | Pentacles | Earth | Money, body, work, what has value | Coins with a five-pointed star, gardens, grapes | Diamonds |
 
-Other decks rename them — Rods or Staves for Wands, Coins or Disks for Pentacles. Same families. The Aces show it best: a hand comes out of a cloud holding the suit’s object, and that’s all there is.
+Other decks rename them — Rods or Staves for Wands, Coins or Disks for Pentacles. Same families. You may also read that Wands are Air and Swords are Fire: a few schools swap the two. I follow the Rider-Waite-Smith pairing, and its drawings back it up, as you’ll see below.
+
+The Aces show the four objects at their plainest: a hand comes out of a cloud holding the suit’s object, and that’s all there is.
 
 {{< cards "waac cuac swac peac" >}}
 
 **The number says where a situation stands; the suit says what it’s about.**
 
-## The four suits, one by one {#the-four-suits}
+## How to recognise each suit, and one card to start with {#the-four-suits}
+
+The element pages in the Library give each element its full portrait: keywords, flip side, archetype, a worked reading. Here I stay with the suits themselves: what to look for on the card, and one card I’d start with.
 
 ### Wands: Fire {#wands}
 
-Wands are [Fire](/library/four-elements/fire-element/): creation, destruction, impulse. The energy that gets you out of bed for a project, and the one that burns it down when nobody holds it. On the cards, the wands are living wood, with small green leaves still growing out of them. The archetype I use is a teenager full of life who thinks they can do anything — and sometimes gives in to an impulse that wrecks things.
+Wands are [Fire](/library/four-elements/fire-element/): drive, projects, desire, what you start and what you burn on the way. On the cards, the wands are living wood: rough staffs with small green leaves still sprouting from them, whether they’re planted as posts, carried as a load or flying through the air. The court cards add the suit’s own animal: salamanders, which old European lore said could live in fire, on the Page’s and the Knight’s tunics and on the King’s throne, beside a lion.
 
-Example card: the Four of Wands, four wands with a garland strung between them and people celebrating behind. In my notes it’s foundations, a marriage, building a family. A 4 is stability; in Fire, it’s a project with something solid under it.
+Example card: the Four of Wands, four wands with a garland strung between them and people raising bouquets behind. In my notes it’s foundations, a marriage, building a family. A 4 is stability; in Fire, it’s a project with something solid under it.
 
 ### Cups: Water {#cups}
 
-Cups are [Water](/library/four-elements/water-element/): emotions, relationships, the strengths you don’t show. Water carries you from A to B when you let it, and it can drown you. It also seeps: a feeling you neglect works its way into the foundations slowly, like damp in a wall. On the cards: cups, rivers, the sea, and a fish looking out of the Page’s cup.
+Cups are [Water](/library/four-elements/water-element/): feelings, relationships, the strengths you don’t show. On the cards, water runs well beyond the cups: five streams pouring from the Ace into a pond of water lilies, rivers, the sea behind the Page and under the King’s throne. And fish: one looks out of the Page’s cup, another leaps from the waves beside the King.
 
-Example card: the Six of Cups, two children in a garden, one handing the other a cup full of flowers. Taking time for yourself, childhood, flowering again, harmony.
+Example card: the Six of Cups, two children in a village courtyard, one handing the other a cup full of white flowers. In my notes: taking time for yourself, childhood, flowering again, harmony.
 
 ### Swords: Air {#swords}
 
-Swords are [Air](/library/four-elements/air-element/): thinking, analysing, deciding, communicating. Air reaches everything at once, which makes it the best decision-maker of the four — Fire is too impulsive, Water too emotional, Earth too stubborn. It also cuts. The blade that settles a question can turn into an obsession, or into a viper’s tongue. On the cards: blades, clouds, trees bent by wind, birds.
+Swords are [Air](/library/four-elements/air-element/): thinking, deciding, saying — the element that cuts. On the cards, look up. Clouds, wind bending the trees behind the Knight, birds in flight, and butterflies on the Queen’s crown and the King’s throne. The blades are always bare.
 
-Example card: the Eight of Swords, a woman bound and blindfolded among eight swords planted in the ground. A prisoner of yourself while every tool is within reach. You can take the blindfold off.
+Example card: the Eight of Swords, a woman bound and blindfolded among eight swords planted in the ground. In my notes it’s a prisoner of yourself while every tool is within reach. You can take the blindfold off.
 
 ### Pentacles: Earth {#pentacles}
 
-Pentacles are [Earth](/library/four-elements/earth-element/): matter, the body, work, and whatever has value for you, in money or in feeling. Earth is tenacity and endurance — and, on a bad day, stubbornness. Not all riches are gold. On the cards: coins marked with a five-pointed star, gardens, vines, grapes.
+Pentacles are [Earth](/library/four-elements/earth-element/): money, the body, work, and whatever has value for you. Not all riches are gold. On the cards, gold coins marked with a five-pointed star, and around them land that has been worked: gardens, vines, a ploughed field behind the Knight, a craftsman’s bench. The King sits in a robe covered with grapes, on a throne carved with bulls’ heads — the bull of Taurus, an Earth sign.
 
 Example card: the Nine of Pentacles, a woman alone in a vineyard with a bird on her gloved hand. Enjoying what comes, and gratitude for everything you have.
 
 ## Reading the suits in a spread {#in-a-spread}
 
-Before you read a single card, look at the suits on the table. Five cards with three Cups in them: whatever the question was, the answer is about feelings. [A spread full of Cups](/blog/lots-of-cups-in-a-reading/) has its own article. A missing suit says something too. A question about work with no Pentacles anywhere may not be about money at all.
+Before you read a single card, count the suits on the table. Say someone tells you nothing and draws five: the Ace, the Three and the Eight of Wands, then the Two and the Six of Swords.
 
-Then try the same number across the four suits. Here are the four Fives — the number of conflict and trial — as I read them:
+{{< cards "waac wa03 wa08 sw02 sw06" >}}
 
-{{< cards "wa05 cu05 sw05 pe05" >}}
+Three Wands, two Swords. Don’t let the water in the Six of Swords fool you: the suit is the object on the card, not the scenery, and here the six swords stand upright in the boat. So this is Fire and Air: a project moving fast, and a decision still being weighed — the blindfolded woman of the Two holds her swords crossed and waits.
 
-The Five of Wands: people who seem to fight, and nobody coordinating. The Five of Cups: losing, dark emotion, alone with your problems — with two cups still standing behind. The Five of Swords: a conflict of Air, about decisions, between people who don’t share the same point of view. The Five of Pentacles: poverty, snow, and a lit church window where warmth could be found. Same step of the cycle, four different planes.
+Then look at what’s missing. No Cups and no Pentacles: nothing yet about how anyone feels, or about what it will take in time, work and money. A missing suit is often the next thing worth asking about.
+
+To take one number across the four suits — the four Fives, the four Eights — the [minor arcana grid](/blog/minor-arcana/) lays all forty numbered cards side by side.
 
 ## Learn them with four cards {#next-step}
 
-Take the four Aces out of your deck and lay them in a row. For each one, say out loud what the hand is holding and what you’d do with it today: light something, pour something, cut something, keep something. That’s the four suits, learned in five minutes, and you’ll recognise them in every other card.
+Take the four Aces out of your deck and lay them in a row. For each one, say out loud what the hand is holding and what you’d do with it today: light something, pour something, cut something, keep something. Then go through the rest of the deck and sort it into four piles by the object alone, without reading anything. That’s the four suits, learned in an evening, and you’ll recognise them in every other card.
 
-When you want the full picture — energies, archetypes, a worked reading for each — the [four elements](/library/four-elements/) are laid out in the Library.
+When you want each element in depth, the [four elements](/library/four-elements/) are laid out in the Library, one page each.

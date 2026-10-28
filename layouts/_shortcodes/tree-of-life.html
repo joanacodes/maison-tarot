@@ -1,15 +1,19 @@
 {{- /* {{< tree-of-life >}} — l’Arbre de vie de la Golden Dawn, dessiné en SVG depuis data/kabbalah.yml et data/cards.yml.
-     highlight="gevurah" : la sphère et ses sentiers ressortent, le reste s’efface (pages des sephiroth).
-     mode="letters"      : les étiquettes prennent la couleur de leur famille de lettres (mères, doubles, simples).
-     pillars="true"      : les trois colonnes sont nommées.
-     Chaque sentier mène à son arcane et chaque sphère à sa page : le dessin sert aussi de sommaire, et il suit
-     le thème clair ou sombre parce qu’il ne connaît que les variables de couleur du site. */ -}}
+     highlight="gevurah"  : la sphère et ses sentiers ressortent, le reste pâlit (pages des sephiroth).
+     mode="letters"       : les étiquettes prennent la couleur de leur famille de lettres (mères, doubles, simples).
+     pillars="true"       : les trois colonnes sont nommées.
+     interactive="true"   : un panneau s’ouvre au toucher d’une sphère ou d’un sentier (sens, cartes, lettre), avec le
+                            parcours 1 → 10 ; les liens #path-11 et #sphere-keter ouvrent directement le bon panneau.
+                            Une seule fois par page : les ancres doivent rester uniques.
+     Sans JavaScript, chaque sentier mène à son arcane et chaque sphère à sa page : le dessin reste un sommaire.
+     Il ne connaît que les variables de couleur du site, donc il suit le thème clair ou sombre. */ -}}
 {{- $fr := eq .Page.Language.Lang "fr" -}}
 {{- $k := hugo.Data.kabbalah -}}
 {{- $cards := hugo.Data.cards -}}
 {{- $hl := .Get "highlight" | default "" -}}
 {{- $mode := .Get "mode" | default "" -}}
 {{- $pillars := eq (.Get "pillars") "true" -}}
+{{- $interactive := eq (.Get "interactive") "true" -}}
 {{- $uid := printf "tol-%d" .Ordinal -}}
 {{- $roman := slice "0" "I" "II" "III" "IV" "V" "VI" "VII" "VIII" "IX" "X" "XI" "XII" "XIII" "XIV" "XV" "XVI" "XVII" "XVIII" "XIX" "XX" "XXI" -}}
 {{- $pos := dict -}}
@@ -18,8 +22,10 @@
 {{- $cardSection := cond $fr "/bibliotheque/cartes-tarot" "/library/tarot-cards" -}}
 {{- $sephSection := cond $fr "/bibliotheque/kabbale" "/library/kabbalah" -}}
 {{- $hlName := "" }}{{ with $hl }}{{ $s := index $pos . }}{{ $hlName = cond $fr $s.fr $s.en }}{{ end -}}
+{{- $viewH := cond $pillars 700 672 -}}
+{{- if $interactive }}<div class="tol-explorer" data-tol>{{ end }}
 <figure class="tree-of-life{{ with $hl }} has-highlight{{ end }}{{ with $mode }} mode-{{ . }}{{ end }}">
-<svg viewBox="0 0 400 {{ if $pillars }}700{{ else }}672{{ end }}" role="img" aria-labelledby="{{ $uid }}-t {{ $uid }}-d" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 400 {{ $viewH }}" role="img" aria-labelledby="{{ $uid }}-t {{ $uid }}-d" xmlns="http://www.w3.org/2000/svg">
 <title id="{{ $uid }}-t">{{ if $fr }}L’Arbre de vie de la Golden Dawn{{ with $hlName }}, {{ . }} mise en avant{{ end }}{{ else }}The Golden Dawn Tree of Life{{ with $hlName }}, with {{ . }} highlighted{{ end }}{{ end }}</title>
 <desc id="{{ $uid }}-d">{{ if $fr }}Dix sphères reliées par vingt-deux sentiers ; chaque sentier porte une lettre hébraïque et un arcane majeur.{{ else }}Ten spheres joined by twenty-two paths; each path carries a Hebrew letter and a major arcanum.{{ end }}</desc>
 {{- if $pillars }}
@@ -30,9 +36,14 @@
 {{- end }}
 <g class="tol-paths" aria-hidden="true">
 {{- range $k.paths }}{{ $a := index $pos .from }}{{ $b := index $pos .to }}
-  <line x1="{{ $a.x }}" y1="{{ $a.y }}" x2="{{ $b.x }}" y2="{{ $b.y }}"{{ if and $hl (or (eq .from $hl) (eq .to $hl)) }} class="on"{{ end }}/>
+  <line x1="{{ $a.x }}" y1="{{ $a.y }}" x2="{{ $b.x }}" y2="{{ $b.y }}" data-path="{{ .n }}" data-from="{{ .from }}" data-to="{{ .to }}"{{ if and $hl (or (eq .from $hl) (eq .to $hl)) }} class="on"{{ end }}/>
 {{- end }}
 </g>
+{{- if $interactive }}
+{{- /* L’éclair : l’ordre d’émanation 1 → 10, tracé d’une sphère à la suivante (pathLength=1 pour l’animer en CSS) */ -}}
+{{- $pts := slice }}{{ range sort $k.sephirot "n" }}{{ $pts = $pts | append (printf "%d,%d" .x .y) }}{{ end }}
+<polyline class="tol-flash" points="{{ delimit $pts " " }}" pathLength="1" aria-hidden="true"/>
+{{- end }}
 <g class="tol-labels">
 {{- range $k.paths }}
   {{- $a := index $pos .from }}{{ $b := index $pos .to }}{{ $t := .t | default 0.5 }}
@@ -42,7 +53,7 @@
   {{- $name := cond $fr $c.name_fr $c.name_en }}
   {{- $page := site.GetPage (printf "%s/%s" $cardSection (cond $fr $c.slug_fr $c.slug_en)) }}
   {{- $on := and $hl (or (eq .from $hl) (eq .to $hl)) }}
-  <a href="{{ with $page }}{{ .RelPermalink }}{{ end }}" class="tol-label {{ .kind }}{{ if $on }} on{{ end }}" transform="translate({{ printf "%.1f" $x }} {{ printf "%.1f" $y }})">
+  <a href="{{ with $page }}{{ .RelPermalink }}{{ end }}"{{ if $interactive }} id="path-{{ .n }}"{{ end }} data-path="{{ .n }}" class="tol-label {{ .kind }}{{ if $on }} on{{ end }}" transform="translate({{ printf "%.1f" $x }} {{ printf "%.1f" $y }})">
     <title>{{ if $fr }}Sentier {{ .n }} · {{ $c.kabbalah }} · {{ $name }}{{ else }}Path {{ .n }} · {{ $c.kabbalah }} · {{ $name }}{{ end }}</title>
     <rect x="-21" y="-11" width="42" height="22" rx="11"/>
     <text class="glyph" x="-10" y="5">{{ .glyph }}</text><text class="num" x="7" y="4">{{ index $roman $c.number }}</text>
@@ -52,7 +63,7 @@
 <g class="tol-sephirot">
 {{- range $k.sephirot }}
   {{- $page := site.GetPage (printf "%s/%s" $sephSection (cond $fr .slug_fr .slug_en)) }}
-  <a href="{{ with $page }}{{ .RelPermalink }}{{ end }}" class="tol-sphere{{ if eq .key $hl }} on{{ end }}" transform="translate({{ .x }} {{ .y }})">
+  <a href="{{ with $page }}{{ .RelPermalink }}{{ end }}"{{ if $interactive }} id="sphere-{{ .key }}"{{ end }} data-key="{{ .key }}" class="tol-sphere{{ if eq .key $hl }} on{{ end }}" transform="translate({{ .x }} {{ .y }})">
     <title>{{ .n }} · {{ cond $fr .fr .en }} — {{ cond $fr .fr_t .en_t }}</title>
     <circle r="34"/>
     <text class="n" y="-15">{{ .n }}</text><text class="name" y="2">{{ cond $fr .fr .en }}</text><text class="t" y="15">{{ cond $fr .fr_t .en_t }}</text>
@@ -65,8 +76,54 @@
   {{ if $fr }}{{ $hlName }} sur l’Arbre, avec les sentiers qui la relient aux autres sphères. Touchez une sphère pour sa page, un sentier pour son arcane.{{ else }}{{ $hlName }} on the Tree, with the paths that join it to the other spheres. Tap a sphere for its page, a path for its card.{{ end }}
 {{- else if eq $mode "letters" -}}
   {{ if $fr }}Les vingt-deux sentiers et leurs lettres : <span class="key mother">mères</span> (Aleph, Mem, Shin), <span class="key double">doubles</span> (sept) et <span class="key simple">simples</span> (douze). Le chiffre est celui de l’arcane.{{ else }}The twenty-two paths and their letters: <span class="key mother">mothers</span> (Aleph, Mem, Shin), <span class="key double">doubles</span> (seven) and <span class="key simple">simples</span> (twelve). The numeral is the card’s.{{ end }}
+{{- else if $interactive -}}
+  {{ if $fr }}Touchez une sphère pour voir ses cartes, un sentier pour voir sa lettre et son arcane.{{ else }}Tap a sphere to see its cards, a path to see its letter and its card.{{ end }}
 {{- else -}}
   {{ if $fr }}L’Arbre de vie selon la Golden Dawn : les dix sphères (les As en Keter, les Dix en Malkhout) et les vingt-deux sentiers des arcanes majeurs. Touchez une sphère ou un sentier pour ouvrir sa page.{{ else }}The Tree of Life as the Golden Dawn drew it: ten spheres (the Aces in Keter, the Tens in Malkhut) and the twenty-two paths of the major arcana. Tap a sphere or a path to open its page.{{ end }}
 {{- end -}}
 </figcaption>
 </figure>
+{{- if $interactive }}
+{{- /* Les données du panneau sont calculées ici, depuis les mêmes fichiers et les pages elles-mêmes (leur chapeau),
+     pour que le panneau ne puisse rien dire que le site ne dise déjà. */ -}}
+{{- $cardInfo := dict }}
+{{- range $cards }}
+  {{- $pg := site.GetPage (printf "%s/%s" $cardSection (cond $fr .slug_fr .slug_en)) }}
+  {{- $img := "" }}{{ with resources.Get (printf "cards/%s.webp" .id) }}{{ $img = (.Resize "160x webp q80").RelPermalink }}{{ end }}
+  {{- $lede := "" }}{{ $url := "" }}{{ with $pg }}{{ $lede = .Description | default .Params.lede | plainify | truncate 190 }}{{ $url = .RelPermalink }}{{ end }}
+  {{- $cardInfo = merge $cardInfo (dict .id (dict "name" (cond $fr .name_fr .name_en) "url" $url "img" $img "lede" $lede "n" .number "suit" .suit)) }}
+{{- end }}
+{{- $suitOrder := slice "wands" "cups" "swords" "pentacles" }}
+{{- $spheres := dict }}
+{{- range $k.sephirot }}{{ $s := . }}
+  {{- $pg := site.GetPage (printf "%s/%s" $sephSection (cond $fr .slug_fr .slug_en)) }}
+  {{- $pips := slice }}{{ range $suitOrder }}{{ $su := . }}{{ range where (where $cards "suit" $su) "number" $s.n }}{{ $pips = $pips | append .id }}{{ end }}{{ end }}
+  {{- $courts := slice }}{{ range $num, $key := $k.courts }}{{ if eq $key $s.key }}{{ range $suitOrder }}{{ $su := . }}{{ range where (where $cards "suit" $su) "number" (int $num) }}{{ $courts = $courts | append .id }}{{ end }}{{ end }}{{ end }}{{ end }}
+  {{- $pillar := cond (eq .x 70) "severity" (cond (eq .x 330) "mercy" "balance") }}
+  {{- $lede := "" }}{{ $url := "" }}{{ with $pg }}{{ $lede = .Params.lede | default .Description | plainify | truncate 230 }}{{ $url = .RelPermalink }}{{ end }}
+  {{- $spheres = merge $spheres (dict .key (dict "n" .n "name" (cond $fr .fr .en) "t" (cond $fr .fr_t .en_t) "he" .he "planet" (cond $fr .planet_fr .planet_en) "pillar" $pillar "url" $url "lede" $lede "pips" $pips "courts" $courts)) }}
+{{- end }}
+{{- $paths := dict }}
+{{- range $k.paths }}
+  {{- $c := index $cardInfo .card }}{{ $raw := false }}{{ range first 1 (where $cards "id" .card) }}{{ $raw = . }}{{ end }}
+  {{- $paths = merge $paths (dict (string .n) (dict "n" .n "glyph" .glyph "letter" $raw.kabbalah "means" (cond $fr .means_fr .means_en) "kind" .kind "from" .from "to" .to "card" .card "roman" (index $roman $raw.number))) }}
+{{- end }}
+{{- $lettersUrl := "" }}{{ with site.GetPage (printf "%s/%s" $sephSection (cond $fr "lettres-hebraiques-arcanes-majeurs" "hebrew-letters-major-arcana")) }}{{ $lettersUrl = .RelPermalink }}{{ end }}
+{{- $ui := cond $fr
+  (dict "colon" " : " "sphere" "Sphère" "path" "Sentier" "planet" "Astre (Golden Dawn)" "pillar" "Colonne" "pips" "Ses cartes" "courts" "Figures de cour" "letter" "Lettre" "means" "Le nom veut dire" "joins" "Relie" "open" "Ouvrir la page" "openCard" "Ouvrir la carte" "letters" "Les 22 lettres" "close" "Fermer" "flash" "Suivre les sphères de 1 à 10" "letterFamilies" "Familles de lettres" "intro" "Touchez une sphère ou un sentier. Chaque sphère porte quatre cartes de son nombre ; chaque sentier, une lettre hébraïque et un arcane majeur." "pillars" (dict "severity" "Rigueur" "balance" "Équilibre" "mercy" "Miséricorde") "kinds" (dict "mother" "lettre mère" "double" "lettre double" "simple" "lettre simple"))
+  (dict "colon" ": " "sphere" "Sphere" "path" "Path" "planet" "Planet (Golden Dawn)" "pillar" "Pillar" "pips" "Its cards" "courts" "Court cards" "letter" "Letter" "means" "The name means" "joins" "Joins" "open" "Open the page" "openCard" "Open the card" "letters" "All 22 letters" "close" "Close" "flash" "Follow the spheres from 1 to 10" "letterFamilies" "Letter families" "intro" "Tap a sphere or a path. Each sphere holds the four cards of its number; each path, a Hebrew letter and a major arcanum." "pillars" (dict "severity" "Severity" "balance" "Balance" "mercy" "Mercy") "kinds" (dict "mother" "mother letter" "double" "double letter" "simple" "simple letter")) }}
+<aside class="tol-panel" aria-live="polite" data-tol-panel>
+  <p class="tol-intro">{{ $ui.intro }}</p>
+  <div class="tol-tools" hidden data-tol-tools>
+    <button type="button" class="tol-btn" data-tol-flash>{{ $ui.flash }}</button>
+    <button type="button" class="tol-btn" data-tol-letters aria-pressed="false">{{ $ui.letterFamilies }}</button>
+  </div>
+  <div data-tol-body></div>
+</aside>
+<script type="application/json" data-tol-data>{{ dict "ui" $ui "spheres" $spheres "paths" $paths "cards" $cardInfo "lettersUrl" $lettersUrl | jsonify | safeJS }}</script>
+</div>
+{{- if not (.Page.Store.Get "tolScript") }}{{ .Page.Store.Set "tolScript" true }}
+{{- $js := resources.Get "js/tree-of-life.js" | minify | fingerprint }}
+<script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
+{{- end }}
+{{- end }}

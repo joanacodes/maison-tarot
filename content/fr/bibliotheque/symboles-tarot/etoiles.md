@@ -49,6 +49,8 @@ gallery:
 
 Une étoile, c’est un point de lumière très lointain, qui bouge peu d’une nuit à l’autre. On ne l’atteint pas, mais pendant des siècles on s’est orienté grâce à elle. **Quand des étoiles sont dessinées sur une carte, il y a une direction, même si le but est encore loin.**
 
+{{< zoom "stars" "lead" >}}
+
 Un exemple de tous les jours : ce à quoi vous revenez toujours quand vous pensez aux cinq prochaines années — le métier que vous feriez si l’argent ne comptait pas, la ville où vous aimeriez vivre. Vous n’y êtes pas. Mais vous savez de quel côté c’est. On dit bien « suivre sa bonne étoile ».
 
 ## Où elles apparaissent dans le jeu {#ou}
@@ -66,6 +68,8 @@ Sur le Diable, une étoile à cinq branches est posée à l’envers entre les c
 Et sur chaque carte de Pentacles, le signe de la suite est une étoile à cinq branches dans une pièce. L’As de Pentacles la montre en plus grand.
 
 {{< cards "ar17 ar03 ar07 ar09 ar15 peac" >}}
+
+{{< zoom "stars" "rest" >}}
 
 La carte de l’Étoile a sa propre page, et son signe dans la Golden Dawn, le [Verseau](/fr/bibliotheque/astrologie/verseau/), en a une autre. Cette page suit les étoiles dessinées.
 

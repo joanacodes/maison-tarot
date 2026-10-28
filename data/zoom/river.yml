@@ -1,0 +1,17 @@
+# Gros plans de la rivière (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: cu05
+  box: [0.045, 0.575, 0.43, 0.81]
+  en: "The river between green banks, a ruined keep beyond"
+  fr: "La rivière entre deux rives vertes, un donjon en ruine au-delà"
+- card: cu10
+  box: [0.045, 0.62, 0.30, 0.82]
+  en: "The river winding through the green country"
+  fr: "La rivière qui serpente dans la campagne verte"
+- card: cukn
+  box: [0.42, 0.72, 0.955, 0.91]
+  en: "The stream winding past the horse’s hooves"
+  fr: "Le ruisseau qui serpente au pied des sabots du cheval"
+- card: ar13
+  box: [0.045, 0.58, 0.36, 0.76]
+  en: "A small sailing boat on the river, on Death"
+  fr: "Une petite barque à voile sur la rivière, sur la Mort"

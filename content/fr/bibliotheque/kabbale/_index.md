@@ -15,4 +15,4 @@ Au XIXe siècle, des occultistes étrangers au judaïsme ont emprunté cet Arbre
 
 Commencez par [l’Arbre dans son ensemble](/fr/bibliotheque/kabbale/arbre-de-vie/). Puis une page par sphère, de [Keter, où se posent les quatre As](/fr/bibliotheque/kabbale/keter/), en passant par [Hokhmah](/fr/bibliotheque/kabbale/hokhmah/), [Binah](/fr/bibliotheque/kabbale/binah/), [Hesed](/fr/bibliotheque/kabbale/hesed/), [Gevurah](/fr/bibliotheque/kabbale/gevurah/), [Tiferet](/fr/bibliotheque/kabbale/tiferet/), [Netzah](/fr/bibliotheque/kabbale/netzah/), [Hod](/fr/bibliotheque/kabbale/hod/) et [Yesod](/fr/bibliotheque/kabbale/yesod/), jusqu’à [Malkhout et les quatre Dix](/fr/bibliotheque/kabbale/malkhout/). [La table des vingt-deux lettres](/fr/bibliotheque/kabbale/lettres-hebraiques-arcanes-majeurs/) ferme la section.
 
-{{< tree-of-life >}}
+{{< tree-of-life interactive="true" >}}

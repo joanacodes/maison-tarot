@@ -66,4 +66,4 @@ And if the year that’s closing was a very hard one, the first position may hur
 
 Draw the four cards on your birthday morning, or on the evening before, and write one line for each. Then close the notebook and keep the page for next year: reading last year’s spread on your next birthday is the best part, because you’ll see what the theme really turned out to mean.
 
-If you’d like a second card to carry all year, [your tarot birth card](/blog/tarot-birth-card/) is calculated from the same date and stays the same for life.
+If you’d like a card that outlasts this year, [your tarot birth card](/blog/tarot-birth-card/) is calculated from the same date and stays with you for life.

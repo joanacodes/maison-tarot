@@ -49,11 +49,11 @@ Gratitude is the Ten of Pentacles: an old man sitting by an archway, dogs at his
 
 ## What this spread leaves aside {#what-it-leaves-aside}
 
-It leaves aside the questions people most want to ask the dead: are you at peace, did you forgive me, what should I do now. They come from love, from missing someone, and often from guilt that has nowhere to go. A card can’t answer them. If it seems to, you’re the one filling in the answer — and on something this tender, a wrong answer can stay with you for years.
+This spread asks what someone left you, not what they would say to you now. So it leaves aside the questions people long to put to the dead — are you at peace, what should I do, would you be proud of me — because no card can know their answer. It also leaves aside how and when anyone died or will die, illnesses that run in the family, and who should get the house. Those belong with doctors, solicitors and long family conversations; [why I step back from health and death questions](/blog/health-pregnancy-death-tarot/) explains the rest.
 
-It also leaves aside how and when anyone died or will die, illnesses that run in the family, and quarrels over an inheritance. Those belong with doctors, solicitors and long family conversations; [why I step back from health and death questions](/blog/health-pregnancy-death-tarot/) explains the rest.
+If a question like “did you forgive me?” keeps rising while you shuffle, give it to the third position instead. It may be a weight you no longer need to carry, and the third card asks exactly what you could set down, with respect.
 
-What you can do instead: write the question in a letter to them, and keep the letter. Tell a cousin the story you remember. And if the grief is heavy rather than tender, start with [what tarot can hold in grief, and when you need a person](/blog/tarot-for-grief/). Sometimes the right door is [a counsellor’s or a therapist’s](/disclaimers/#therapy), and knocking on it is a kindness to yourself.
+And if the loss is recent, or the grief feels heavy rather than tender, start with [what tarot can hold in grief, and when you need a person](/blog/tarot-for-grief/) before this spread. Sometimes the right door is [a counsellor’s or a therapist’s](/disclaimers/#therapy), and knocking on it is a kindness to yourself.
 
 ## Before you lay it out {#before}
 

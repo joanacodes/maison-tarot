@@ -29,7 +29,7 @@ When I read for someone, I ask them to tell me nothing: no question, no context.
 
 With yourself, there’s no silence. You know the question, you know the story so far, and you know what you want to hear. Your mind builds the story faster than your eyes reach the card. It usually goes wrong in one of two directions: you read your hope, or you read your fear.
 
-Say you’ve been hoping for a sign to leave your job, and you draw the Eight of Cups: a figure in a red cloak walking away from eight stacked cups, towards the mountains, at night. You’ll read “leave” in half a second. Maybe that’s right. But you’d have read “leave” in almost any card.
+Say you’ve been hoping for a sign to leave the city you live in, and you draw the Eight of Cups: a figure in a red cloak walking away from eight stacked cups, towards the mountains, at night. You’ll read “leave” in half a second. Maybe that’s right. But you’d have read “leave” in almost any card.
 
 Now say you’re dreading a conversation, and you draw the Tower: lightning, the crown knocked off the top of a tower, two figures falling. You’ll read “disaster”. Yet the Tower can be the relief of something finally said — a structure that had been cracked for months coming down, so you can stop holding it up.
 

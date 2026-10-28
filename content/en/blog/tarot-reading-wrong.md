@@ -13,7 +13,7 @@ summary: "When a tarot reading is wrong, say so: “that one’s a miss.” Say 
 ---
 When a tarot reading is wrong, say so: “that one’s a miss.” Out loud, to the person, then write it down and move on. No reframing, no extra card, no “it’ll make sense later”.
 
-That’s the whole method. The rest of this page is why it works, and why it makes you a better reader rather than a worse one.
+It feels too small to count as a method. It’s the habit that keeps your hits worth trusting, and it makes you a more precise reader, not a more cautious one.
 
 ## Say “that one’s a miss” out loud {#say-it}
 

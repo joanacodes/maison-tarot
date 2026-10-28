@@ -27,7 +27,7 @@ Picture a farm family on the last evening of October: the crop is in, the cattle
 
 My own position is narrower. I don’t use tarot to call anyone, at Samhain or on any other night, because with spirits you don’t know who you’re calling. And when a reading in October feels heavier, I look first at the person in front of me: the dark coming at five, the anniversary they haven’t mentioned, the year catching up with them. Not everything is about spirits. Sometimes it’s grief, and sometimes it’s [a door that belongs to a therapist rather than to me](/disclaimers/#therapy).
 
-There is a veil in the deck, by the way: behind the High Priestess, between her two pillars, embroidered with pomegranates. She doesn’t lift it; she sits in front of it, calm, knowing more than she says. A better model for October than any summoning — more on [what the veil means in tarot](/library/tarot-symbols/veil/).
+There is a veil in the deck: behind the High Priestess, between her two pillars, embroidered with pomegranates. She doesn’t lift it; she sits in front of it, calm, knowing more than she says. A better model for October than any summoning — more on [what the veil means in tarot](/library/tarot-symbols/veil/).
 
 ## Why October is when people finally ask {#why-october}
 
@@ -35,9 +35,7 @@ Because for a few weeks, tarot is allowed. It’s in shop windows, on party tabl
 
 Three other things push the same way. The end of the year comes into view, and people count what worked. The evenings close in, and we turn inward. And this is the season of the dead — All Saints, All Souls, the Day of the Dead — so a grief that sat quietly all year rises to the surface. If that’s where you are, [what tarot can hold in grief, and when you need a person](/blog/tarot-for-grief/) is worth reading before any spread.
 
-{{< todo >}}Add here: what you notice in October at your events or in your messages (more requests? which questions come up?){{< /todo >}}
-
-Whatever brings you to the table, the silence rule doesn’t change with the calendar. Keep your question to yourself; you’ll know at the end whether it was answered.
+Put together, October lowers the cost of asking. It doesn’t change the silence rule: keep your question to yourself, and you’ll know at the end whether it was answered.
 
 ## A three-card Samhain spread {#samhain-spread}
 

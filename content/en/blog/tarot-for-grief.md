@@ -40,7 +40,7 @@ Lay four cards in a row.
 1. *What I’m carrying today.* Not forever. Today.
 2. *A memory I want to keep.* Let the card bring one back, then write it down.
 3. *What would help me this week.* Something small and doable.
-4. *Who I could lean on.* A living person you can reach: a friend, a cousin, a neighbour, a professional. This position is the reason for this article’s title.
+4. *Who I could lean on.* A living person you can reach: a friend, a cousin, a neighbour, a professional. If you only lay one card tonight, lay this one.
 
 Say someone, a few months after a loss, draws the Five of Cups, the Three of Cups, the Hermit and the Queen of Cups.
 

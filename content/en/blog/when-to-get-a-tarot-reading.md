@@ -13,8 +13,6 @@ summary: "A good time to get a tarot reading is when you’re steady enough to h
 ---
 A good time to get a tarot reading is when you’re steady enough to hear something unexpected and free enough to disagree with it. In my notes I keep two good reasons to sit down for one: shadow work, and a check-up of your energy and mindset. Both work best with your feet firmly on the ground.
 
-The bad times are easier to spot than people think, and I’ll come to them.
-
 ## As a check-up of your energy and mindset {#check-up}
 
 Think of it like taking your car in for a service when nothing’s broken. You’re not looking for a disaster; you’re looking at where your energy goes, what you’re carrying, and what you’ve stopped noticing.
@@ -52,7 +50,7 @@ If your life is fairly stable, you can play with tarot a little more. If it isn�
 
 ## Does the calendar matter? {#calendar}
 
-People ask me about full moons, Mercury retrograde, birthdays and the end of October. Occasions are nice: they give you a reason to stop and look. Plenty of people finally ask for a reading around [Samhain](/blog/samhain-tarot/), and that’s a lovely tradition.
+Full moons, Mercury retrograde, birthdays, the end of October: many people wonder whether one date is better than another. Occasions are nice: they give you a reason to stop and look. Plenty of people finally ask for a reading around [Samhain](/blog/samhain-tarot/), and that’s a lovely tradition.
 
 But the date matters much less than the state you arrive in. A calm Tuesday beats an anxious full moon.
 

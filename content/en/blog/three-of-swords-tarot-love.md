@@ -25,7 +25,7 @@ One detail of the drawing matters for love: the rain, the only water in a card o
 
 ## The blood pact {#blood-pact}
 
-Next to this card, in my notes, I wrote something that surprises people: **the Three of Swords is also a blood pact.** Three blades through one heart, sealed.
+Beside this card, in my notes, I wrote one more line: **the Three of Swords is also a blood pact.** Three blades through one heart, sealed.
 
 In love, that can be two people who went through something hard together — a loss, a family crisis, a year when everything went wrong — and came out more tightly bound for it. The hurt was real, and so is what it made between them.
 
@@ -41,13 +41,13 @@ After a break-up, it’s the grief itself, and the card doesn’t pretend otherw
 
 Reversed, it’s the hurt held in: no rain, no words, “I’m fine”. Or the wound reopened — the old messages reread, the sentence replayed. Sometimes it’s the rain stopping, quietly.
 
-## Before asking “Is he cheating?” {#cheating}
+## “Did they ever really love me?” {#did-they-love-me}
 
-This is the question people bring to the Three of Swords more than any other. It comes from fear, and often from something real that doesn’t add up.
+This is the question people bring to the Three of Swords most often, in one form or another: did they ever love me, is there someone else, was any of it real? It comes from the rawest part of a heartbreak, and it deserves a gentle answer.
 
-I don’t read on it, and here’s why. The other person isn’t in the room and hasn’t agreed to be read. You wouldn’t want someone snooping in your bedroom; reading someone without their consent is the same thing. And a card asked “is he cheating?” answers with your fear, so you leave with the same worry and a picture to go with it.
+I don’t read on it, and here’s why. The other person isn’t in the room and hasn’t agreed to be read. You wouldn’t want someone snooping in your bedroom; reading someone without their consent is much the same. And a card asked about someone else’s heart answers with your fear, so you leave with the same hurt and a picture to go with it.
 
-A gentler question: “What hurt me, and what do I need to say about it?” If something doesn’t add up, the place for it is a conversation with him, or with a friend who knows you both — not a spread.
+A gentler question: “What hurt me, and what do I need to say about it?” If something doesn’t add up, the place for it is a conversation with them, or with a friend who knows you both — not a spread.
 
 ## Letting it rain: what helps it heal {#let-it-rain}
 
@@ -62,6 +62,6 @@ Not a cure, and no promises. What tends to help, and the cards that show it:
 5. Let the pact be a kind one. Next to the Two of Cups, the Three of Swords is two people closer because they went through the hurt together, not around it; [the Two of Cups in love](/blog/two-of-cups-tarot-love/) is about keeping that bond level.
 6. If the hurt stays as sharp for weeks, or starts to take over your days, that’s a door for a therapist or a doctor, not for a deck. I’ve written about [what the cards can hold in grief](/blog/tarot-for-grief/), and when you need a person.
 
-## One card for this week {#this-week}
+## While it’s still raining, one small thing {#small-thing}
 
 Draw one card for this: “What would help me this week?” Then do that one thing, however small. And if the heartbreak feels like rock bottom, read [the Ten of Swords in love](/blog/ten-of-swords-tarot-love/): the worst drawing in the deck, with a dawn behind it.

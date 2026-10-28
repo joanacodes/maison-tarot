@@ -49,6 +49,8 @@ gallery:
 
 A river is water with a direction. It comes from a source, goes to the sea, and doesn’t wait for anyone. It also separates two banks. **A river on a card is time and feeling moving on, whether you follow them or not.**
 
+{{< zoom "river" "lead" >}}
+
 An everyday example: a friendship that slowly drifted. Nobody decided anything; the current did the work. Years later you’re on different banks, and you can’t quite say when it happened.
 
 ## Where it appears in the deck {#where}
@@ -66,6 +68,8 @@ On the Six of Swords, a ferryman poles a boat across water that is rough on one 
 On the Ace of Wands, a river runs through the landscape below the hand; on the Eight of Wands, the wands fly over open country with a river below. On the Chariot, water runs behind the sphinxes, between the driver and the city.
 
 {{< cards "ar13 cu05 cukn cu10 sw06 waac wa08 ar07" >}}
+
+{{< zoom "river" "rest" >}}
 
 ## How to read it {#reading}
 

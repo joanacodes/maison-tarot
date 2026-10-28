@@ -49,6 +49,8 @@ gallery:
 
 Une rivière, c’est de l’eau qui a une direction. Elle part d’une source, va vers la mer, et n’attend personne. Elle sépare aussi deux rives. **Une rivière sur une carte, c’est le temps et le sentiment qui passent, que vous suiviez le mouvement ou non.**
 
+{{< zoom "river" "lead" >}}
+
 Un exemple de tous les jours : une amitié qui s’est éloignée doucement. Personne n’a rien décidé ; le courant a fait le travail. Des années plus tard, vous êtes chacun sur votre rive, sans pouvoir dire quand c’est arrivé. Beaucoup d’eau a coulé sous les ponts, comme on dit.
 
 ## Où elle apparaît dans le jeu {#ou}
@@ -66,6 +68,8 @@ Sur le Six d’Épées, un passeur pousse sa barque à la perche sur une eau agi
 Sur l’As de Bâtons, une rivière coule dans le paysage sous la main ; sur le Huit de Bâtons, les bâtons volent au-dessus d’une campagne traversée par une rivière. Sur le Chariot, l’eau passe derrière les sphinx, entre le conducteur et la ville.
 
 {{< cards "ar13 cu05 cukn cu10 sw06 waac wa08 ar07" >}}
+
+{{< zoom "river" "rest" >}}
 
 ## Comment la lire {#lecture}
 

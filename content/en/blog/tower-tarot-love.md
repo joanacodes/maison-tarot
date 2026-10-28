@@ -43,7 +43,7 @@ A gentler question: “What has this shown me that I didn’t want to see?” An
 
 If a card ever seems to be telling you to stay or to leave, remember that [tarot is not an authority](/blog/tarot-is-not-an-authority/). Act on what you feel, with the people involved, in your own time.
 
-## Steadying yourself in the first days {#steady}
+## Steadying yourself in the first days {#first-days}
 
 This is the part of the title that matters most. The card can’t tell you what happens next, but some things help in the hours and weeks after a shake.
 

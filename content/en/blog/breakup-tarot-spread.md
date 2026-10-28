@@ -27,7 +27,7 @@ One thing before you shuffle: the first raw night is rarely the night for cards.
 
 Because it’s the question that hurts most to carry. People ask it out of love, out of missing someone, and out of the fear of being left alone with what happened. There’s nothing silly about it.
 
-But it hands your next weeks to someone who isn’t in the room. They haven’t agreed to be read, and their choices belong to them. And whatever a card says, the question keeps you waiting: a yes keeps you watching the door, a no hurts twice, and a maybe brings you back to ask again next week. I’ve written about it at length in [‘will they come back?’ and a kinder question to ask](/blog/will-they-come-back-tarot/).
+But it hands your next weeks to someone who isn’t in the room. They haven’t agreed to be read, and their choices belong to them. And whatever a card says, the question keeps you waiting: a yes keeps you watching the door, a no hurts twice, and a maybe brings you back to ask again next week. More in [‘will they come back?’ and a kinder question to ask](/blog/will-they-come-back-tarot/).
 
 The kinder question is the one underneath: what do I need while I don’t know? This whole spread is built on it.
 
@@ -41,7 +41,7 @@ Lay five cards in a row, left to right.
 4. *What this relationship showed me about what I want.* Not who was right. What you’d like next time, and what you won’t accept again.
 5. *One small step back towards myself.* Small enough to do tomorrow.
 
-Read the row as one story first, then card by card, and write one line per card in a notebook.
+Read the row as one story first, then card by card.
 
 ## A breakup spread, card by card {#example}
 
@@ -69,6 +69,6 @@ If the pain stays heavy for weeks, or it reaches your sleep, your appetite or yo
 
 ## Your first evening with this spread {#first-evening}
 
-Choose an evening that isn’t the first one. Put your phone in another room. Lay the five cards, write one line for each, then close the notebook and do whatever the fifth card asked, that same evening if you can.
+Put your phone in another room. Lay the five cards, write one line for each, then close the notebook and do whatever the fifth card asked, that same evening if you can.
 
 Come back to the page in a month and read it again. You’ll see how far you’ve walked, which is the one thing a breakup hides from you. Cards aren’t magic, you are, and [a reading notebook](/blog/tarot-journal/) is how you get to see it.

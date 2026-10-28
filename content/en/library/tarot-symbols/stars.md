@@ -49,6 +49,8 @@ gallery:
 
 A star is a point of light, very far away, that doesn’t move much from night to night. You can’t reach it, but for centuries people found their way by it. **When stars are drawn on a card, there’s a direction, even if the goal is still far off.**
 
+{{< zoom "stars" "lead" >}}
+
 An everyday example: the thing you keep coming back to when you think about the next five years — the job you’d do if money didn’t count, the place you’d live. You’re not there. But you know which way it is.
 
 ## Where it appears in the deck {#where}
@@ -66,6 +68,8 @@ On the Devil, a five-pointed star sits upside down between the horns. Same shape
 And on every Pentacle card, the suit sign is a five-pointed star inside a coin. The Ace of Pentacles shows it largest.
 
 {{< cards "ar17 ar03 ar07 ar09 ar15 peac" >}}
+
+{{< zoom "stars" "rest" >}}
 
 The Star card has its own page, and its Golden Dawn sign, [Aquarius](/library/astrology/aquarius/), has another. This page follows the drawn stars.
 

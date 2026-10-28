@@ -39,11 +39,11 @@ Say a couple has lived together for six years and draws the Lovers. The card isn
 
 After a break-up, the Lovers can show a choice already made, and the effort to own it rather than replay it. Or a choice still open: trying again, or not. The card won’t make it for you. It shows the crossroads and the angel above, and leaves the walking to you.
 
-Say someone sits down, tells me nothing, and draws the Lovers. Harmony that works, a decision, a conversation, the head as much as the heart. What I’d say out loud is something like: “There’s a choice in front of you that you already know the answer to, and you’re waiting for someone else to make it official.” Then I’d ask whether that lands, and listen. If it doesn’t, it’s a miss, and I’d note it as one.
+If someone sat down, told me nothing and drew the Lovers, I’d start from the lenses: harmony that works, a decision, a conversation, the head as much as the heart. What I’d say out loud is something like: “There’s a choice in front of you that you already know the answer to, and you’re waiting for someone else to make it official.” Then I’d ask whether that lands, and listen. If it doesn’t, it’s a miss, and I’d note it as one.
 
-## “Is this the one?” — the question that skips the choice {#the-one}
+## The one, or the one you choose {#the-one}
 
-It’s the question this card attracts more than any other, and I understand it. You’ve met someone, it feels important, and you’d love a guarantee before you open your heart further.
+“Is this the one?” is the question this card attracts more than any other, and I understand it. You’ve met someone, it feels important, and you’d love a guarantee before you open your heart further.
 
 I don’t read on that question, and here’s why. “The one” turns a choice into something written in advance, and the Lovers is precisely the card that says love is chosen. The other person isn’t in the room either; what they feel and what they’ll decide are theirs. A card that told you “yes, it’s them” would be taking a decision away from both of you.
 
@@ -59,7 +59,7 @@ It can also be values out of line: two people who want different lives and haven
 
 In excess, it’s choosing over and over without ever settling. Every new person looks like the answer for three weeks. The question for the reversed Lovers is plain to ask and hard to answer: what are you not choosing, and what is that costing you?
 
-## Beside the Two of Swords, the Devil and the Two of Cups {#lovers-pairs}
+## A choice refused, a choice gone stale, a choice made real {#three-choices}
 
 {{< cards "sw02 ar15 cu02" >}}
 
@@ -69,7 +69,7 @@ Next to the Devil, the question becomes whether a choice is still a choice. The 
 
 Next to the Two of Cups, it’s the exchange made concrete: two people facing each other, cups raised. The Lovers decides; [the Two of Cups](/blog/two-of-cups-tarot-love/) is what the decision looks like on a Tuesday evening.
 
-## Two columns on a sheet of paper {#two-columns}
+## The choice at the top of a page {#choice-on-paper}
 
 The next time the Lovers comes up, write the choice at the top of a page in one sentence. Then two columns: what you choose if you say yes, and what you choose if you say no — because both are choices. Read it again two days later, once the Air has settled.
 

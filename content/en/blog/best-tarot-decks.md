@@ -22,21 +22,19 @@ Four things decided the list.
 3. *The size.* Small cards suit small hands and bags; large cards suit tired eyes and table readings.
 4. *Whether you can find it.* A deck you can’t buy where you live isn’t a recommendation.
 
-I’ve left out star ratings on purpose. A deck that suits one pair of hands doesn’t suit another, and a score would pretend otherwise.
-
-{{< todo >}}Add here: which of these decks you have held yourself, and any you’d remove or add{{< /todo >}}
+I’ve left out star ratings on purpose. A deck that suits one pair of hands doesn’t suit another, and a score would pretend otherwise. Instead, each entry below says what the edition keeps from the 1909 deck and what it changes, so you can match it to your own eyes and hands.
 
 ## The Rider-Waite-Smith editions {#rws-editions}
 
 All four keep the same 78 scenes. They differ in colouring and format, and that’s how to choose between them.
 
-*The classic Rider-Waite, from U.S. Games Systems.* The edition whose images you’ve probably already seen in books and online. Its colours are bolder than the muted tones of the earliest printings. A safe first deck if you want the pictures most teaching material shows.
+*The classic Rider-Waite, from U.S. Games Systems.* This is the edition whose images you’ve probably already seen in books and online. Its colours are bolder than the muted tones of the earliest printings. A safe first deck if you want the pictures most teaching material shows.
 
-*The Smith-Waite Centennial, from U.S. Games Systems (2009).* Made for the deck’s hundredth anniversary to reproduce the muted colours of the early printings. It also comes in a small tin, and inside the Pamela Colman Smith Commemorative Set. If you like to feel close to the 1909 original, start here.
+*The Smith-Waite Centennial, from U.S. Games Systems (2009).* This edition was made for the deck’s hundredth anniversary to reproduce the muted colours of the early printings. It also comes in a small tin, and inside the Pamela Colman Smith Commemorative Set. If you’d like to stay close to the 1909 original, start here.
 
-*The Universal Waite.* Smith’s line drawings recoloured by Mary Hanson-Roberts in softer tones, with more detail visible in faces and costumes. Gentle on the eyes, and available in a pocket size.
+*The Universal Waite.* This edition keeps Smith’s line drawings, recoloured by Mary Hanson-Roberts in softer tones, with more detail visible in faces and costumes. Gentle on the eyes, and available in a pocket size.
 
-*The Radiant Rider-Waite.* Smith’s drawings recoloured by Virginijus Poshkus, with vivid colours and lighter black outlines. Readers who find the older colouring dull often prefer it.
+*The Radiant Rider-Waite.* Here Smith’s drawings are recoloured by Virginijus Poshkus, with vivid colours and lighter black outlines. Readers who find the older colouring dull often prefer it.
 
 In the UK, some of these editions are sold under the Rider imprint, the publisher whose name stuck to the deck in the first place.
 
@@ -48,7 +46,7 @@ One thing to watch with recoloured editions: colour is one of the lenses I teach
 
 If you want a Tarot de Marseille, the classic French choice is Grimaud’s *Ancien Tarot de Marseille*, the version Paul Marteau prepared around 1930 from an older Conver pattern. Another well-known option is the Camoin-Jodorowsky restoration, rebuilt by comparing several old Marseille decks.
 
-Neither is a first deck for my way of teaching. The numbered cards are patterns of cups, swords, coins and batons, with no people in them, so you read them through number and element alone. That makes the Marseille an excellent test once the lenses have sunk in. I set the two traditions side by side in [Marseille or Rider-Waite-Smith](/blog/marseille-vs-rider-waite/).
+Neither is a first deck for my way of teaching. Their numbered cards show arrangements of cups, swords, coins and batons rather than people, so there’s no scene to lean on, only number and element. Once the lenses have sunk in, that’s exactly what makes a Marseille worth having. I set the two traditions side by side in [Marseille or Rider-Waite-Smith](/blog/marseille-vs-rider-waite/).
 
 ## The Thoth, for much later {#thoth}
 

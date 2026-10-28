@@ -1,0 +1,17 @@
+# Gros plans du raisin (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: cu03
+  box: [0.74, 0.47, 0.952, 0.66]
+  en: "x"
+  fr: "x"
+- card: pe09
+  box: [0.73, 0.37, 0.95, 0.54]
+  en: "x"
+  fr: "x"
+- card: peki
+  box: [0.28, 0.30, 0.62, 0.50]
+  en: "x"
+  fr: "x"
+- card: peki
+  box: [0.25, 0.60, 0.60, 0.82]
+  en: "x"
+  fr: "x"
