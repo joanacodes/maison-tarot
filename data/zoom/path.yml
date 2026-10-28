@@ -1,0 +1,13 @@
+# Gros plans du chemin (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: ar14
+  box: [0.047, 0.47, 0.35, 0.84]
+  en: "x"
+  fr: "x"
+- card: ar18
+  box: [0.04, 0.45, 0.96, 0.905]
+  en: "x"
+  fr: "x"
+- card: peac
+  box: [0.52, 0.665, 0.84, 0.905]
+  en: "x"
+  fr: "x"

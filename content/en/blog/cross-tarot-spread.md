@@ -68,4 +68,4 @@ Its for-and-against shape also makes the cross tempting for a court case or a mo
 
 ## Where to go from here {#next-step}
 
-Try the cross on someone who tells you nothing, and write down what lands. If you enjoy the shape and want more positions, the [Celtic Cross explained position by position](/blog/celtic-cross-spread/) is its ten-card cousin. And if you’d like to lay your first spreads with someone beside you, a [workshop](/workshops/) is three hours, twelve people and a lot of cards on the table.
+Try the cross on someone who tells you nothing, and write down what lands. If you enjoy the shape and want more positions, the [Celtic Cross, explained position by position](/blog/celtic-cross-spread/), is a different spread: ten cards, a column beside the cross, and nothing to add up. And if you’d like to lay your first spreads with someone beside you, a [workshop](/workshops/) is three hours, twelve people and a lot of cards on the table.
