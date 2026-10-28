@@ -33,7 +33,7 @@ J’en dis davantage sur [la porte entre tarot et santé mentale](/fr/blog/tarot
 
 ## 2. Quand les tirages deviennent une dépendance {#dependance}
 
-Certaines personnes arrivent presque fébriles. On dirait une addiction, mais ce qui coule dans leurs veines, c’est une forte dose de doute. Certaines reviennent chaque semaine avec la même question.
+Certaines personnes reviennent chaque semaine avec la même question, et ce qui les pousse, c’est moins la curiosité que le doute.
 
 Les signes valent la peine d’être connus, pour vous autant que pour les personnes que vous lisez :
 
@@ -42,7 +42,7 @@ Les signes valent la peine d’être connus, pour vous autant que pour les perso
 - Il y a une décision que vous pourriez prendre aujourd’hui, et vous attendez qu’une carte la prenne à votre place.
 - Vous tirez des cartes pour vous-même plusieurs fois par jour, pour vous rassurer.
 
-Quand je vois ça, je propose en général qu’on ne tire pas. Ce n’est pas un jugement. Ce dont la personne a besoin, c’est d’un moment pour respirer, puis d’une décision, ou du courage de traverser ce qui lui fait peur. Un tirage de plus lui offre dix minutes de plus sans décider.
+Quand je vois ça, je propose en général qu’on ne tire pas. Ce n’est pas un jugement : un autre tirage n’offrirait que dix minutes de plus sans décider.
 
 Ce qui aide : ranger le jeu dans un tiroir pendant un mois, et faire le premier petit pas de la décision sans rien demander à personne. J’en parle dans [pourquoi arrêter de tirer les cartes, au moins un temps](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/). Si le doute ne s’apaise pas une fois les cartes rangées, ce n’est plus une affaire de tarot, et [la porte d’un thérapeute est la bonne](/fr/avertissements/#therapie).
 

@@ -61,7 +61,7 @@ Et l’intention qui pourrait en sortir : « Deux soirs par semaine dessus jusqu
 
 ## Ce dont vous n’avez pas besoin {#ce-qui-ne-sert-pas}
 
-Ni bougie, ni cristal, ni bain, ni heure précise. En 2021, j’ai vendu de la sauge et des bougies ; rien de tout ça n’a amélioré une lecture, et j’ai arrêté. Je raconte pourquoi dans [faut-il purifier son jeu de tarot ?](/fr/blog/purifier-son-jeu-de-tarot/) Si allumer une bougie vous aide à vous poser, c’est votre choix. Le tirage fonctionne pareil sans.
+Ni bougie, ni cristal, ni bain, ni heure précise ; j’ai [arrêté de vendre des bougies et de la sauge](/fr/blog/purifier-son-jeu-de-tarot/) quand j’ai vu que ça ne changeait rien à une lecture. Si allumer une bougie vous aide à vous poser, c’est votre choix. Le tirage fonctionne pareil sans.
 
 Pas besoin non plus de la minute exacte de la nouvelle lune. La veille ou le lendemain conviennent aussi ; la date est un rappel, pas une échéance. Et rien ne vous oblige à le faire chaque mois : un mois sans, vous n’avez rien perdu.
 

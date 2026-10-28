@@ -45,7 +45,7 @@ Avec cette lame, la question est souvent celle-là, ou « Est-ce qu’il va reve
 
 Je ne lis pas ce que l’autre ressent ou va faire. Cette personne n’est pas dans la pièce, et [tirer les cartes sur quelqu’un sans son accord](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/) est une limite que je garde pour le bien de tout le monde, le sien comme le vôtre. Je ne veux pas non plus qu’une carte prenne votre décision.
 
-Ce qu’un tirage peut faire, c’est tourner le second regard vers vous. Ma toute première lecture pour une inconnue, sur un serveur Discord, parlait d’une relation. Elle m’a répondu que ça ne lui parlait pas : elle ne cherchait personne. Trois ou quatre jours plus tard, elle m’a écrit, un peu secouée : tout était arrivé. Et la lecture avait aussi montré qu’elle n’avait pas été tendre avec l’autre ([toute l’histoire](/fr/blog/premier-tirage-tarot/)). **C’est ce second regard que demande le Jugement : sur ce que l’autre a fait, et sur votre propre part.**
+Ce qu’un tirage peut faire, c’est tourner le second regard vers vous. Ma [toute première lecture pour une inconnue](/fr/blog/premier-tirage-tarot/) parlait d’une relation, et montrait aussi qu’elle n’avait pas été tendre avec l’autre. **C’est ce second regard que demande le Jugement : sur ce que l’autre a fait, et sur votre propre part.**
 
 Une question plus douce : « Qu’aurais-je besoin de voir, cette fois, pour dire oui — et qu’est-ce qui me ferait dire non ? » Écrivez les deux listes. Elles vous en diront plus que n’importe quel tirage, et elles seront encore vraies le mois prochain.
 

@@ -25,7 +25,7 @@ Citez la phrase. Pas « c’était super », mais « quand vous avez parlé d’
 
 Ça peut sembler dur. Ça ne l’est pas. À mon décompte, environ un tirage sur dix rate, et les lecteurs qui progressent sont ceux qui peuvent écrire ce mot dans leur carnet sans broncher. **Le retour le plus bienveillant, c’est le retour exact.** Pour le lecteur qui reçoit ce genre de retour, j’ai écrit [que faire quand un tirage est faux](/fr/blog/tirage-faux-que-faire/).
 
-Et si quelque chose résonne plus tard, écrivez-lui. C’est un retour aussi, et souvent le plus utile. Dites-lui ce qui a changé, pour qu’il puisse déplacer sa note d’une colonne à l’autre en toute honnêteté. Ça m’est arrivé à mes débuts : sur un groupe Discord, j’ai lu pour une inconnue au sujet d’une relation, et elle m’a répondu que ça ne lui parlait pas, puisqu’elle ne cherchait pas de relation. Trois ou quatre jours plus tard, elle m’a écrit, sous le choc : tout était arrivé.
+Et si quelque chose résonne plus tard, écrivez-lui. C’est un retour aussi, et souvent le plus utile. Dites-lui ce qui a changé, pour qu’il puisse déplacer sa note d’une colonne à l’autre en toute honnêteté. C’est ce qui est arrivé à mon [premier tirage pour une inconnue](/fr/blog/premier-tirage-tarot/) : il a changé de colonne quand elle m’a écrit, quelques jours plus tard.
 
 ## Séparez ce qu’il a vu de la façon dont il l’a dit {#fond-et-forme}
 
@@ -51,7 +51,7 @@ Deux lecteurs peuvent regarder le même tirage, y voir deux histoires différent
 
 ## Quand le dire, et une trame à garder {#quand-le-dire}
 
-Après, pas pendant. Pendant le tirage, gardez un visage tranquille et laissez parler ; réagir en cours de route donne des informations, et ensuite personne ne sait plus ce qui a vraiment été lu. C’est toute la logique de [la règle du silence](/fr/blog/regle-du-silence-tarot/).
+Après, pas pendant. Pendant le tirage, gardez un visage tranquille et laissez parler ; réagir en cours de route donne des informations, et ensuite personne ne sait plus ce qui a vraiment été lu. C’est toute la logique de la règle du silence.
 
 Puis assez vite, tant qu’il peut encore le noter. En groupe — dans un [atelier](/fr/ateliers/), par exemple —, on parle du tirage, jamais de la personne. Quel que soit le cadre, cet ordre fonctionne :
 

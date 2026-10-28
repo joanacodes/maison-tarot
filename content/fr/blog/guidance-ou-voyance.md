@@ -41,7 +41,7 @@ Les voici, sans détour, avec leur équivalent anglais.
 
 Comme on dit, je ne suis pas Madame Soleil. Il arrive que des choses sur ce qui vient sortent pendant une lecture, et quand c’est le cas, je les dis. Mais je ne construis pas une lecture dessus, je ne les promets pas, et c’est [sur le timing que je me trompe le plus](/fr/blog/tarot-quand/). Je préfère regarder le présent : la meilleure façon de s’offrir un avenir agréable, c’est de s’ancrer dans ce qui est là.
 
-Je n’appelle pas ce que je fais de la voyance, parce que je ne prétends pas voir. Je compte : ce que j’ai dit, ce qui a été confirmé, ratés compris — environ un sur dix, à mon décompte. Je ne l’appelle pas guidance, parce que je ne veux orienter personne. Je lis ; vous décidez. Et je ne l’appelle pas un don, parce qu’il n’y en a pas à avoir : [tout le monde peut apprendre](/fr/blog/faut-il-un-don-pour-lire-les-cartes/), et l’enseigner est l’essentiel de mon travail.
+Je n’appelle pas ce que je fais de la voyance, parce que je ne prétends pas voir. À la place, je compte : environ une lecture sur dix rate, d’après mes propres chiffres. Je ne l’appelle pas guidance, parce que je ne veux orienter personne. Je lis ; vous décidez. Et je ne l’appelle pas un don, parce qu’il n’y en a pas à avoir : [tout le monde peut apprendre](/fr/blog/faut-il-un-don-pour-lire-les-cartes/), et l’enseigner est l’essentiel de mon travail.
 
 Ai-je vécu des choses que je ne m’explique pas ? Quelques-unes, et quand je les raconte, je les raconte telles qu’elles se sont passées. Je ne les vends pas, et ce n’est pas sur elles que repose une lecture à la Maison Tarot.
 

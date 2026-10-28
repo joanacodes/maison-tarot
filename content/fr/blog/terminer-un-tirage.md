@@ -60,9 +60,7 @@ C’est à la fin que les tirages déraillent, souvent avec les meilleures inten
 
 Bien terminer, c’est faire en sorte que la personne ait un peu moins besoin de vous après, pas davantage.
 
-Certaines personnes arrivent presque fébriles et veulent carte sur carte. D’après mon expérience, ce n’est pas une faim de tarot ; c’est une forte dose de doute qui les traverse. Quand je le vois, je préfère en général m’arrêter là, avec douceur : ce dont elles ont besoin, c’est de respirer, de prendre une décision ou de traverser ce qui leur fait peur. Un tirage de plus ne le fera pas à leur place.
-
-D’autres reviennent encore et encore avec la même question. Dites-le gentiment : « On a regardé ça il y a quinze jours. Qu’est-ce qui a changé depuis ? » Si rien n’a bougé, les cartes ne diront rien de neuf ; j’en parle dans [combien de temps entre deux tirages](/fr/blog/combien-de-temps-entre-deux-tirages/).
+Certaines personnes reviennent encore et encore avec la même question. Dites-le gentiment : « On a regardé ça il y a quinze jours. Qu’est-ce qui a changé depuis ? » Si rien n’a bougé, les cartes ne diront rien de neuf ; j’en parle dans [combien de temps entre deux tirages](/fr/blog/combien-de-temps-entre-deux-tirages/).
 
 Et si l’on vous demande quand revenir, la réponse honnête est : quand quelque chose a changé, pas quand l’inquiétude revient. Un tirage peut servir de bilan de l’humeur et de l’état d’esprit, les pieds sur terre. Ce n’est pas une dose quotidienne. Le but, c’est que la personne fasse confiance à ses propres décisions, erreurs comprises, et ait de moins en moins besoin des cartes.
 

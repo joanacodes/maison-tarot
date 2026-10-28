@@ -17,7 +17,7 @@ Le tarot n’est pas une arnaque. Un jeu, ce sont 78 images, et les lire est un 
 
 Un jeu de tarot est un ensemble d’images imprimées ; celui que j’utilise a été dessiné en 1909 par Pamela Colman Smith. Les cartes ne promettent rien. Les lire, c’est regarder une image et dire ce qu’elle montre de la personne en face, et tout le monde peut apprendre à le faire.
 
-Ce qu’un tarologue honnête ne peut pas vous dire, c’est comment ça marche. Personne ne le sait. Je compte mes lectures : à peu près neuf sur dix tiennent, à peu près une sur dix rate, et je dis lesquelles. Ce n’est pas une garantie, c’est même le contraire. C’est aussi pour ça que la mention « à des fins de divertissement » ne me gêne pas, et j’explique [pourquoi j’aime cette formule](/fr/blog/fins-de-divertissement/).
+Ce qu’un tarologue honnête ne peut pas vous dire, c’est comment ça marche. Personne ne le sait. Je compte mes lectures : à peu près neuf sur dix tiennent, à peu près une sur dix rate, et je dis lesquelles. Ce n’est pas une garantie, c’est même le contraire. C’est aussi pour ça que la mention « à des fins de divertissement » ne me gêne pas.
 
 Se demander si le tarot est une arnaque, c’est un peu comme se demander si la peinture en est une parce qu’il circule des faux.
 
@@ -62,7 +62,7 @@ Pour être juste envers les tarologues qui en vivent : être payé n’est pas u
 
 La zone grise, c’est la tarification qui récompense l’incertitude : à la question, à la minute, l’abonnement qui se renouvelle pendant que vous attendez toujours une réponse. J’explique comment ces modèles fonctionnent dans [le tarot payant à la question](/fr/blog/tarot-payant-a-la-question/).
 
-Je m’inclus dans le lot. En 2021, je vendais de la sauge, des bougies et des cartes « canalisées ». Rien de tout ça n’améliorait une lecture, alors j’ai arrêté. Aujourd’hui je vends des cours et je donne les lectures, parce que c’est l’arrangement où je ne gagne rien à ce que vous ayez de nouveau besoin de moi : [ce que je fais payer, et ce que je donne](/fr/blog/ce-que-je-fais-payer/).
+Je m’inclus dans le lot. En 2021, je [vendais de la sauge, des bougies et des cartes « canalisées »](/fr/blog/purifier-son-jeu-de-tarot/), et j’ai arrêté parce que rien de tout ça n’améliorait une lecture. Aujourd’hui je vends des cours et je donne les lectures, parce que c’est l’arrangement où je ne gagne rien à ce que vous ayez de nouveau besoin de moi : [ce que je fais payer, et ce que je donne](/fr/blog/ce-que-je-fais-payer/).
 
 ## Si vous pensez avoir mordu à l’hameçon {#si-vous-avez-mordu}
 

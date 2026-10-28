@@ -53,12 +53,10 @@ On ne s’entraîne pas à ressentir sur commande. On s’entraîne à lâcher p
 
 Ça vient avec la pratique. Dans mes notes de 2021, ma première année complète de lecture, j’ai écrit que plus je lisais, plus il m’arrivait de recevoir quelque chose avant même d’avoir mélangé le jeu, et que j’étalais les cartes surtout parce que la personne en face voulait les voir.
 
-Pour ce que ça vaut, toutes les personnes que j’ai aidées à lire y sont arrivées entre le premier et le troisième essai. Pas sur commande, et pas toujours comme elles l’attendaient.
-
 ## Quand « rien » est la réponse {#quand-rien-est-la-reponse}
 
 Certains jours, rien ne vient, et c’est une information aussi. Fatigué, inquiet, distrait : posez les cartes et reposez-vous. Ce n’est pas [votre jeu qui est fatigué](/fr/blog/cartes-tarot-fatiguees/) ; c’est vous, et c’est permis.
 
-Je ne peux pas vous promettre que vous ressentirez ce que je ressens. Les impressions viennent différemment à chacun, et rien de tout ça n’est prouvé ; c’est mon expérience, et ce que j’ai vu chez les personnes à qui j’ai appris. Ce que je peux dire, c’est que le ressenti que vous attendez n’est pas le ticket d’entrée. Dire ce que vous voyez, si.
+Je ne peux pas vous promettre que vous ressentirez ce que je ressens. Les impressions viennent différemment à chacun, et rien de tout ça n’est prouvé ; c’est mon expérience, plus une chose que je peux compter : toutes les personnes que j’ai aidées à lire y sont arrivées entre le premier et le troisième essai. Le ressenti que vous attendez n’est pas le ticket d’entrée. Dire ce que vous voyez, si.
 
-Ça ne se raconte pas, ça s’essaie. C’est pour ça qu’un [atelier à la Maison Tarot](/fr/ateliers/) commence par une carte posée devant vous, avant toute explication.
+C’est pour ça qu’un [atelier à la Maison Tarot](/fr/ateliers/) commence par une carte posée devant vous, avant toute explication.

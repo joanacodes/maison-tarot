@@ -44,7 +44,7 @@ Si la réponse parle de vous — « je serais moins concentré », « j’aurais
 
 Si la réponse parle des cartes — « les tirages seraient faussés », « son énergie resterait dans le jeu » — c’est une croyance sur le fonctionnement du tarot, et vous pouvez la mettre à l’épreuve. Pendant quinze jours, laissez la personne mélanger un tirage sur deux et notez chaque résultat dans votre carnet. Puis comparez les deux colonnes. Si les tirages mélangés par quelqu’un d’autre ratent plus souvent, vous avez appris quelque chose sur votre pratique. Sinon, vous voilà délesté d’une règle.
 
-J’ai connu quelque chose de comparable. En 2021, je vendais de la sauge et des bougies, puis j’ai arrêté : rien là-dedans n’améliorait un tirage. Je raconte cette histoire dans [faut-il purifier son jeu de tarot ?](/fr/blog/purifier-son-jeu-de-tarot/) Et si vous craignez que les cartes s’usent d’une façon moins visible, [les cartes de tarot se fatiguent-elles ?](/fr/blog/cartes-tarot-fatiguees/) se penche sur la question.
+Purifier son jeu après le passage de quelqu’un d’autre, c’est le même genre de règle ; j’explique à part [pourquoi j’ai arrêté de vendre de la sauge pour ça](/fr/blog/purifier-son-jeu-de-tarot/). Et si vous craignez que les cartes s’usent d’une façon moins visible, [les cartes de tarot se fatiguent-elles ?](/fr/blog/cartes-tarot-fatiguees/) se penche sur la question.
 
 ## Laisser la personne mélanger — ou couper {#melanger-ou-couper}
 

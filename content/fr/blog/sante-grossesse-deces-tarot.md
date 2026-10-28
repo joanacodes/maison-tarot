@@ -29,7 +29,7 @@ Une carte ne voit pas un corps. Elle lit un moment, en images. Tout lien entre u
 
 Les dates sont ce que les tirages ratent le plus, et ces questions portent presque toutes sur des dates : quand, combien de temps, d’ici le printemps. À mon propre décompte, environ une lecture sur dix rate. Sur la plupart des sujets, un raté, c’est une ligne dans mon carnet. Ici, ce peut être quelqu’un qui repousse un rendez-vous, ou qui fait le deuil de quelque chose qui n’est pas arrivé.
 
-Et les mots restent. Je le sais par ma propre vie. Après la mort de ma meilleure amie, emportée par un cancer, j’ai demandé en silence, avec rage : « à qui le tour ? » Et j’ai entendu une voix d’homme me donner le prénom d’une autre amie, et ces mots : « va avoir un accident ». Deux semaines plus tard, sa voiture a été percutée par un camion. Elle est vivante et va très bien aujourd’hui. L’information était fausse sur ce qui comptait. Depuis, je range ce genre de chose sur une étagère marquée « sceptique, mais si ça arrive, j’aurai été prévenue », et je ne le transmets à personne. L’histoire complète est dans [pourquoi un tirage peut se tromper](/fr/blog/tirage-faux-tarot/).
+Et les mots restent. Un jour, dans le chagrin et la colère, j’ai entendu une voix m’annoncer qu’une amie allait avoir un accident ; l’accident est arrivé, et elle est vivante et va très bien aujourd’hui. Ce message était faux précisément sur ce qui comptait, et je ne transmettrais jamais un message pareil à quelqu’un d’autre ([pourquoi un tirage peut se tromper](/fr/blog/tirage-faux-tarot/)).
 
 Même la carte qui s’appelle la Mort ne parle pas de mourir.
 

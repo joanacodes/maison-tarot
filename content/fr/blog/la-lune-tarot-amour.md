@@ -1,6 +1,6 @@
 ---
 title: "La Lune en amour : le doute, et lire ce qui se cache sous la surface"
-description: "Dans un tirage amour, la Lune parle de doute et de projection, pas d’un mensonge prouvé : lire sous la surface, ce que m’a appris mon premier tirage, une question plus douce."
+description: "Dans un tirage amour, la Lune parle de doute et de projection, pas d’un mensonge prouvé : lire sous la surface en quatre étapes, et une question plus douce à poser."
 translationKey: "post-moon-tarot-love"
 type: blog
 date: 2026-10-24
@@ -43,11 +43,9 @@ La question plus douce : « Qu’est-ce que je sais vraiment, qu’est-ce que j�
 
 Le chien et le loup de la carte hurlent vers la même lumière. La peur de la nuit est vieille et très humaine, et avoir peur du noir, c’est parfois avoir peur de sa propre ombre — l’endroit où l’on range ce qu’on n’a jamais voulu regarder. Avant, j’attendais toujours la lumière pour entrer dans une pièce sombre ; j’ai écrit sur [ce qui a changé](/fr/blog/peur-du-noir/).
 
-## Mon premier tirage, ou la Lune en une histoire {#premier-tirage}
+## Ce qui fait surface plus tard {#ce-qui-fait-surface}
 
-Ma toute première lecture pour une inconnue, sur un serveur Discord trouvé via Tumblr, parlait d’une relation. Elle m’a dit que ça ne lui parlait pas : elle ne cherchait pas de relation. Ce jour-là, c’était un raté. Trois ou quatre jours plus tard, elle m’a écrit, secouée : tout était arrivé. Et la lecture avait aussi montré quelque chose de moins flatteur — elle n’avait pas été tendre avec l’autre.
-
-C’est la Lune en une seule histoire. Ce qui se trouvait sous la surface ne pouvait pas se voir ce jour-là, et une partie lui appartenait. Je raconte tout dans [mon premier tirage, et le message reçu quelques jours plus tard](/fr/blog/premier-tirage-tarot/).
+Une partie de ce que cache la Lune remonte d’elle-même, et pas toujours du côté qu’on attend. Ma [toute première lecture pour une inconnue](/fr/blog/premier-tirage-tarot/) a raté sur le moment, puis s’est confirmée en quelques jours, jusque dans une part peu flatteuse : la façon dont elle avait traité l’autre.
 
 Alors, quand la Lune sort en amour, voici comment je lirais ce qu’il y a dessous :
 

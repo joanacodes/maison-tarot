@@ -51,7 +51,7 @@ Un jeu d’occasion n’a rien à évacuer. S’il est en bon état et que toute
 
 Certaines personnes pensent aussi qu’il faut « se lier » à un nouveau jeu avant qu’il fonctionne : dormir avec sous l’oreiller, le garder sur soi une semaine. Si ce rituel vous apaise, profitez-en. Une semaine à tirer une carte chaque matin fait pourtant la partie utile du travail : vous apprenez les images.
 
-Quant à la purification : en 2021, je vendais de la sauge, et j’ai arrêté, parce que rien là-dedans n’améliorait une seule lecture. [Pourquoi j’ai arrêté, et ce que je fais à la place](/fr/blog/purifier-son-jeu-de-tarot/).
+La purification appelle la même réponse ; je raconte ailleurs [pourquoi j’ai arrêté de vendre de la sauge, et ce que je fais à la place](/fr/blog/purifier-son-jeu-de-tarot/).
 
 Laisser d’autres personnes toucher vos cartes est une question de confort ou d’hygiène, pas de chance, et [la question de laisser toucher son jeu](/fr/blog/laisser-toucher-ses-cartes-tarot/) a sa propre page. Et si un jeu vous semble un jour « bizarre », c’est en général vous qui avez besoin d’une pause, pas les cartes.
 
