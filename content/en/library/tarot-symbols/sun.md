@@ -49,6 +49,8 @@ gallery:
 
 The sun is light, warmth and a day beginning. It’s also visibility: under the sun, there’s nowhere to hide. **When a sun is drawn on a card, something is out in the open — or about to be.**
 
+{{< zoom "sun" "lead" >}}
+
 An everyday example: the morning after a long conversation, when what felt hopelessly tangled at midnight looks obvious over coffee. Nothing changed but the light.
 
 ## Where it appears in the deck {#where}
@@ -66,6 +68,8 @@ On the Moon, the moon itself is drawn inside a rayed sun-disc: the light of nigh
 And the Sun, XIX, gives the whole card to it, with a face, straight and wavy rays, and a child riding beneath.
 
 {{< cards "ar00 ar06 ar13 ar14 ar18 ar19" >}}
+
+{{< zoom "sun" "rest" >}}
 
 The card has [its own page](/library/tarot-cards/the-sun/), and the Sun in a birth chart has [another](/library/astrology/sun/). Here, we follow the drawn sun from card to card.
 

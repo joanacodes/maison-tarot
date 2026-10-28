@@ -49,6 +49,8 @@ gallery:
 
 The dog is instinct we have domesticated. It’s loyal, it guards, it follows — and it still smells trouble before we do. **In tarot, the dog is the part of you that already knows, even when the rest of you isn’t listening.**
 
+{{< zoom "dog" "lead" >}}
+
 An everyday example: you’re about to sign up for something that looks perfect on paper, and something in your stomach tightens. Nothing rational, nothing you could defend in a meeting. That tightening is the dog barking.
 
 ## Where it appears in the deck {#where}
@@ -62,6 +64,8 @@ On [the Moon](/library/tarot-cards/the-moon/), a dog and a wolf stand on either 
 On the Ten of Pentacles, two white hounds stand beside the old man in the foreground, one nosing at his hand. They belong to the household: the dog as part of what a family has built and keeps.
 
 {{< cards "ar00 ar18 pe10" >}}
+
+{{< zoom "dog" "rest" >}}
 
 ## How to read it {#reading}
 

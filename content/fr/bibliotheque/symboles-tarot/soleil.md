@@ -49,6 +49,8 @@ gallery:
 
 Le soleil, c’est la lumière, la chaleur, un jour qui commence. C’est aussi la visibilité : en plein soleil, on ne se cache nulle part. **Quand un soleil est dessiné sur une carte, quelque chose est à découvert — ou va l’être.**
 
+{{< zoom "sun" "lead" >}}
+
 Un exemple de tous les jours : le lendemain d’une longue discussion, quand ce qui paraissait inextricable à minuit devient évident devant le café. Rien n’a changé, sauf la lumière. La nuit porte conseil, dit-on ; le matin, surtout, éclaire.
 
 ## Où il apparaît dans le jeu {#ou}
@@ -66,6 +68,8 @@ Sur la Lune, la lune elle-même est dessinée dans un disque solaire rayonnant :
 Et le Soleil, XIX, lui donne toute la carte, avec un visage, des rayons droits et ondulés, et un enfant à cheval en dessous.
 
 {{< cards "ar00 ar06 ar13 ar14 ar18 ar19" >}}
+
+{{< zoom "sun" "rest" >}}
 
 La carte a [sa propre page](/fr/bibliotheque/cartes-tarot/le-soleil/), et le Soleil du thème astral en a [une autre](/fr/bibliotheque/astrologie/soleil/). Ici, on suit le soleil dessiné, de carte en carte.
 

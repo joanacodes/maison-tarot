@@ -15,9 +15,9 @@ No major arcana in your spread means the situation is happening at the scale of 
 
 ## Major and minor arcana, in a few lines {#definitions}
 
-The major arcana are the 22 cards numbered 0 to 21, from the Fool to the World, each with its own name. The minor arcana are the other 56: four suits of ten numbered cards, Ace to Ten, plus four court cards each.
+The major arcana are the 22 named cards, from the Fool (0) to the World (21). The minor arcana are the other 56: four suits of Ace to Ten, plus four court cards each.
 
-The usual way to read the difference is by time scale. Majors speak of a chapter — months, sometimes years. Minors speak of a situation — days, weeks, what you can do with your hands. A major isn’t more important than a minor; it’s slower. I go through the whole comparison in [major arcana vs minor arcana](/blog/major-vs-minor-arcana/).
+Majors speak of a chapter — months, sometimes years. Minors speak of a situation — days, weeks, what you can do with your hands. The whole comparison, table included, is in [major arcana vs minor arcana](/blog/major-vs-minor-arcana/). Here the only question is what their absence says.
 
 ## It happens more often than you’d think {#how-often}
 
@@ -54,7 +54,7 @@ Earth, Fire, Air: work, drive, thought. Eight is effort and mastery; Three is th
 
 ## What not to do {#what-not-to-do}
 
-Don’t draw extra cards until a major turns up. A card pulled to fill a gap muddies the reading rather than completing it; I explain why in [the clarifier card](/blog/the-clarifier-card/).
+Don’t draw extra cards until a major turns up. A card pulled to fill a gap muddies the reading rather than completing it; I explain why in [the clarifier card](/blog/the-clarifier-card/). I don’t pull clarifiers at all, for the same reason I don’t rescue a reading that missed: a miss is a miss, and what came out of the deck is the reading.
 
 Don’t read the absence as “this doesn’t matter”. The person’s question matters exactly as much with three minors as with three majors. The spread describes the scale of the situation, not its weight in someone’s life.
 

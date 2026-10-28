@@ -49,6 +49,8 @@ gallery:
 
 Le chien, c’est l’instinct domestiqué. Il est fidèle, il garde, il suit — et il flaire le danger avant nous. **Dans le tarot, le chien est la part de vous qui sait déjà, même quand le reste de vous n’écoute pas.**
 
+{{< zoom "dog" "lead" >}}
+
 Un exemple de tous les jours : vous êtes sur le point de signer un bail parfait sur le papier, et quelque chose se noue dans votre ventre. Rien de rationnel, rien que vous pourriez défendre devant l’agent immobilier. Ce nœud, c’est le chien qui aboie. On dit bien « avoir du flair ».
 
 ## Où il apparaît dans le jeu {#ou}
@@ -62,6 +64,8 @@ Sur [la Lune](/fr/bibliotheque/cartes-tarot/la-lune/), un chien et un loup se ti
 Sur le Dix de Pentacles, deux lévriers blancs se tiennent près du vieil homme au premier plan, l’un le museau contre sa main. Ils font partie de la maisonnée : le chien comme une part de ce qu’une famille a construit et garde.
 
 {{< cards "ar00 ar18 pe10" >}}
+
+{{< zoom "dog" "rest" >}}
 
 ## Comment le lire {#lecture}
 

@@ -1,0 +1,13 @@
+# Gros plans de la rose (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: ar13
+  box: [0.38, 0.025, 0.86, 0.28]
+  en: "The large white rose with five petals on the black banner"
+  fr: "La grande rose blanche à cinq pétales sur la bannière noire"
+- card: ar01
+  box: [0.26, 0.024, 0.44, 0.12]
+  en: "A red rose hanging from the garland at the top of the card"
+  fr: "Une rose rouge qui pend de la guirlande, en haut de la carte"
+- card: ar00
+  box: [0.75, 0.22, 0.945, 0.345]
+  en: "The small white rose held up in the Fool’s hand"
+  fr: "La petite rose blanche tenue dans la main levée du Mat"

@@ -45,7 +45,7 @@ In 1968, an American businessman, Stuart Kaplan, brought a Swiss tarot deck back
 
 ### Drawings anyone can use
 
-Smith's 1909 drawings are now in the public domain: in the United States because the copyright wasn't renewed, and in the UK and the EU since 1 January 2022, seventy years after Smith's death in 1951. That's why hundreds of modern decks are redrawings of hers, and why a site like this one can show you the original cards. Later recoloured editions and trade names are a separate matter, and the line between the original and its reprints has even reached court ([Plagiarism Today explains the dispute](https://www.plagiarismtoday.com/2024/02/28/the-copyright-battle-over-a-tarot-card-deck/)).
+Smith's 1909 drawings are now in the public domain: in the United States, where anything published in 1909 has long been out of copyright, and in the UK and the EU since 1 January 2022, seventy years after Smith's death in 1951. That's why hundreds of modern decks are redrawings of hers, and why a site like this one can show you the original cards. Later recoloured editions and trade names are a separate matter, and the line between the original and its reprints has even reached court ([Plagiarism Today explains the dispute](https://www.plagiarismtoday.com/2024/02/28/the-copyright-battle-over-a-tarot-card-deck/)).
 
 Smith herself was largely forgotten for decades; exhibitions such as the one [Pratt Institute's libraries devoted to her](https://hyperallergic.com/490918/pamela-colman-smith-pratt-institute-libraries/) are part of why her name is said out loud again.
 

@@ -1,0 +1,17 @@
+# Gros plans du soleil (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: ar19
+  box: [0.14, 0.02, 0.86, 0.40]
+  en: "The Sun’s face, with straight and wavy rays"
+  fr: "Le visage du Soleil, avec ses rayons droits et ondulés"
+- card: ar00
+  box: [0.52, 0.012, 0.965, 0.245]
+  en: "The white sun in the corner of the Fool’s yellow sky"
+  fr: "Le soleil blanc dans le coin du ciel jaune du Mat"
+- card: ar13
+  box: [0.755, 0.28, 0.957, 0.465]
+  en: "A small sun on the horizon between two towers, on Death"
+  fr: "Un petit soleil à l’horizon entre deux tours, sur la Mort"
+- card: ar14
+  box: [0.045, 0.455, 0.355, 0.69]
+  en: "The rayed sun rising between two peaks, on Temperance"
+  fr: "Le soleil rayonnant qui se lève entre deux sommets, sur Tempérance"

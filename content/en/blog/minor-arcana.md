@@ -69,7 +69,7 @@ Swords tell the mind’s story: a clear idea, a choice put off, a cut, a rest, a
 
 Wands tell the story of a project: the spark, the plan, the first ships coming back, a place to stand, the scuffle, the public victory, holding your ground, everything speeding up, the bandaged last stretch, and the moment you’re carrying the whole thing on your back. Pentacles tell the story of something you build: a coin to start with, two things juggled, work others recognise, holding on tight, a hard winter, knowing what things are worth, waiting for the harvest, the craft, gratitude, and a home with the whole family in it.
 
-That’s why a spread full of one suit tells you the plane before it tells you anything else; I go through an example in [lots of Cups in a reading](/blog/lots-of-cups-in-a-reading/). And it’s why most of your spreads will be mostly minors: they’re 56 of the 78 cards, so a ten-card spread holds seven of them on average. The minors are where everyday life happens.
+That’s why a spread full of one suit tells you the plane before it tells you anything else; I go through an example in [lots of Cups in a reading](/blog/lots-of-cups-in-a-reading/). Minors also make up most of any spread: they’re 56 of the 78 cards, so a ten-card spread holds about seven of them on average. The minors are where everyday life happens.
 
 ## The court cards: Page, Knight, Queen, King {#court-cards}
 
