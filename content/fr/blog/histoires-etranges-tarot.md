@@ -17,8 +17,6 @@ Les choses les plus étranges arrivées pendant mes tirages n’avaient rien de 
 
 Un des avis que j’ai reçus sur Facebook dit que la personne a eu des frissons quand j’ai parlé de sorts.
 
-{{< todo >}}À ajouter ici : ce qui s’est dit sur les sorts pendant ce tirage, si vous vous en souvenez{{< /todo >}}
-
 Je l’aime parce qu’il est très précis. Pas « super tirage », pas « très juste » : un mot, parmi les centaines prononcés pendant un tirage, qui a assez touché pour qu’on l’écrive après coup.
 
 C’est étrange à voir depuis la place de celle qui lit. Vous dites ce qui vient, dans l’ordre, sans savoir quelle phrase comptera. Puis quelqu’un vous le dit, et c’est souvent une phrase que vous auriez rangée dans les détails. C’est une bonne raison de ne pas trier ce que vous recevez. La partie qui vous paraît bizarre est peut-être la seule qui était pour l’autre.
@@ -59,7 +57,7 @@ Mon père qui m’appelait par mon prénom depuis un autre pays : [la nuit où j
 
 ## Ce que ces histoires ne prouvent pas {#limites}
 
-Elles ne prouvent pas que le tarot prédit, ni que je suis spéciale. Environ un tirage sur dix a raté, à mon propre décompte, et la plupart des ratés sont restés des ratés. Je ne transformerais pas un raté en « attendez de voir » ; celui qui s’est réalisé plus tard est l’exception qui fait une bonne histoire, pas la règle.
+Elles ne prouvent pas que le tarot prédit, ni que je suis spéciale. Environ un tirage sur dix a raté, à mon propre décompte, et dans mon carnet un raté reste un raté. Je n’en ferais pas un « attendez de voir » ; celui qui s’est réalisé plus tard est l’exception qui fait une bonne histoire, pas la règle.
 
 Une histoire marque parce qu’elle sort de l’ordinaire. Les tirages ordinaires, ceux qui ont tenu sans bruit ou raté sans bruit, ne font pas d’articles, et ils sont l’essentiel du travail. Prenez donc celles-ci pour ce qu’elles sont : des choses arrivées à une tarologue. Ne prenez pas mes mots pour une vérité absolue. Testez, et faites-en l’expérience vous-même.
 

@@ -49,6 +49,8 @@ gallery:
 
 Un nuage, c’est la météo. Il se tient entre le ciel et la terre, cache le soleil un moment, peut apporter la pluie — et finit toujours par passer. **Un nuage sur une carte dit que la situation bouge et qu’on ne la voit pas encore entièrement.**
 
+{{< zoom "cloud" "lead" >}}
+
 Un exemple de tous les jours : la semaine où l’on attend des résultats — d’examen, d’entretien, de concours. Rien ne s’est passé. Vous ne voyez pas à travers. Et pourtant vous savez que ça passera, dans un sens ou dans l’autre.
 
 ## Où il apparaît dans le jeu {#ou}
@@ -62,6 +64,8 @@ Les seconds sont gris ou déchirés. Sur la Tour, des nuages gris pèsent sur un
 Sur [le Sept de Coupes](/fr/bibliotheque/cartes-tarot/sept-de-coupes/), ce sont les coupes elles-mêmes qui reposent sur un banc de nuages.
 
 {{< cards "ar06 ar20 ar21 ar10 ar16 sw03 cu07 swkn" >}}
+
+{{< zoom "cloud" "rest" >}}
 
 Le Valet, la Reine et le Roi d’Épées ont eux aussi des nuages derrière eux. Et cinq cartes font sortir une main d’un nuage — elle a [sa propre page](/fr/bibliotheque/symboles-tarot/main-sortant-du-nuage/).
 

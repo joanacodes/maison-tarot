@@ -49,6 +49,8 @@ gallery:
 
 Un trône, c’est une chaise qui a une fonction. On ne s’y assied pas pour se reposer ; on s’y assied parce que la place est à soi et que les autres viennent à vous. **Le trône dit : cette personne tient une position, et elle ne va nulle part.** Pensez au bout de la table au déjeuner du dimanche : n’importe quelle chaise ferait l’affaire, et pourtant tout le monde sait à qui elle revient.
 
+{{< zoom "throne" "lead" >}}
+
 C’est l’inverse du cheval ou de la route. Sur un trône, le pouvoir a cessé de bouger et il est devenu un lieu.
 
 ## Où il apparaît dans le jeu {#ou}
@@ -64,6 +66,8 @@ La Grande Prêtresse est assise sur un simple cube de pierre. Pas de sculpture, 
 Les huit Reines et Rois sont assis eux aussi, et chaque trône dit la série : des lions pour la Reine de Bâtons, un trône de pierre posé sur la mer pour le Roi de Coupes, des papillons pour les Épées, des têtes de taureau pour le Roi de Pentacles. [Le Roi](/fr/bibliotheque/numerologie/roi/) et [la Reine](/fr/bibliotheque/numerologie/reine/) les passent en revue un par un.
 
 {{< cards "ar04 ar03 ar05 ar11 ar02 waqu cuki peki" >}}
+
+{{< zoom "throne" "rest" >}}
 
 ## Comment le lire {#lecture}
 

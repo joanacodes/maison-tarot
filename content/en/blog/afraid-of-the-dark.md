@@ -17,17 +17,17 @@ I always waited for a light before I stepped into a dark room. Today I walk thro
 
 Light first, then me. At night I turned the lights on everywhere I went.
 
-Looking back, I'd call that living in fear without noticing. That's what interests me about it. The fear wasn't dramatic. It was a reflex, a hand reaching for a switch, repeated so often that it stopped looking like fear at all.
+Looking back, I’d call that living in fear without noticing. That’s the part worth looking at. Fear you don’t notice doesn’t look like fear: it looks like a reflex, a hand reaching for a switch, repeated so often that nobody would think to call it anything else.
 
 **A lot of what we avoid doesn't feel like fear; it feels like a habit.** Nobody organises their evenings around a scream. They organise them around a switch.
 
 ## How I walk through it now {#now}
 
-Lights off. If something creaks in the night, I don't panic. What I tell myself is more or less this: *well, if that was ever a spirit or something, let it be.*
+Lights off. If there’s a noise in the night, I don’t panic. What I tell myself is more or less this: *well, if that was ever a spirit or something, let it be.*
 
-That sentence isn't "there's nothing there", and it isn't "it's a spirit". It leaves the question open and stops needing an answer. Not everything is about spirits; most creaks are a building being a building. And if a noise were ever something more, the sentence still holds: let it be.
+That sentence isn't "there's nothing there", and it isn't "it's a spirit". It leaves the question open and stops needing an answer. Not everything is about spirits; most night noises are a building being a building. And if a noise were ever something more, the sentence still holds: let it be.
 
-{{< todo >}}Add here: what changed between waiting for the light and walking in the dark, if you can name it — a period, a move, a practice, or nothing in particular.{{< /todo >}}
+The dark is as dark as it ever was. Whatever changed, changed on my side of the switch, and that side is exactly what shadow work looks at.
 
 ## What shadow work is {#shadow-work}
 

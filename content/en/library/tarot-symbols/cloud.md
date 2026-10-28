@@ -49,6 +49,8 @@ gallery:
 
 A cloud is weather. It sits between the sky and the ground, it hides the sun for a while, it can bring rain — and it always moves on. **A cloud on a card says the situation is in motion and not entirely visible yet.**
 
+{{< zoom "cloud" "lead" >}}
+
 An everyday example: the week of waiting for exam results, or for news after a job interview. Nothing has happened. You can’t see through it. And yet you know it will pass, one way or the other.
 
 ## Where it appears in the deck {#where}
@@ -62,6 +64,8 @@ The second are grey or torn. On the Tower, grey clouds hang against a black sky 
 On [the Seven of Cups](/library/tarot-cards/seven-of-cups/), the cups themselves rest on a bank of cloud.
 
 {{< cards "ar06 ar20 ar21 ar10 ar16 sw03 cu07 swkn" >}}
+
+{{< zoom "cloud" "rest" >}}
 
 The Page, Queen and King of Swords all have clouds behind them too. And five cards bring a hand out of a cloud — that one has [its own page](/library/tarot-symbols/hand-from-a-cloud/).
 

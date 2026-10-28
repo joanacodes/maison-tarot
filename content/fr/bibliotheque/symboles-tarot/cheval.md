@@ -49,6 +49,8 @@ gallery:
 
 Un cheval, c’est une force qu’on emprunte. On ne la porte pas ; c’est elle qui vous porte, plus vite et plus loin qu’à pied — à condition d’être d’accord sur la direction. **Le cheval dit : il y a ici de l’énergie en mouvement, et l’allure compte autant que le cavalier.** Pensez aux leçons de conduite avant le permis : le moteur, c’est rarement le problème ; savoir quand freiner, si.
 
+{{< zoom "horse" "lead" >}}
+
 ## Où il apparaît dans le jeu {#ou}
 
 Les quatre Cavaliers sont les cartes du cheval par excellence, et l’allure est le message. Le cheval du Cavalier de Bâtons se cabre, celui du Cavalier d’Épées galope ventre à terre, celui du Cavalier de Coupes marche au pas, et le cheval noir du Cavalier de Pentacles reste immobile. Le même animal, quatre vitesses. [La page du Cavalier](/fr/bibliotheque/numerologie/cavalier/) les lit un par un.
@@ -60,6 +62,8 @@ Le Soleil installe un enfant souriant sur un cheval blanc, bras ouverts, sans se
 Le Six de Bâtons place le vainqueur sur un cheval blanc couvert d’un drap vert, une couronne de laurier sur la tête, des gens à pied à ses côtés. Une réussite qui rentre au pas.
 
 {{< cards "wakn swkn cukn pekn ar13 ar19 wa06" >}}
+
+{{< zoom "horse" "rest" >}}
 
 ## Comment le lire {#lecture}
 

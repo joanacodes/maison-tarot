@@ -87,7 +87,7 @@ Renversée au travail, c’est l’effondrement au ralenti — le projet auquel 
 
 La première question, c’est « Vais-je perdre mon poste ? », et je la comprends : un emploi, c’est le loyer, la routine, une partie de soi. Je ne la lis pas comme une prédiction. Votre poste dépend de personnes qui ne sont pas dans la pièce et de décisions pas encore prises, et une carte qui dirait « vous êtes tranquille » ou « c’est fini » ajouterait un faux calme, ou un second choc au premier. Pour votre contrat, vos droits ou votre argent, voyez un représentant du personnel ou un avocat en droit du travail ([ce que je ne lis pas, et pourquoi](/fr/avertissements/#refus)). Une question plus douce : « Que ferais-je la première semaine si cela arrivait ? » Celle-là a une réponse, qui transforme la peur en plan.
 
-Cette semaine, sans rien décider, faites deux listes : ce qui est tombé, et ce qui tient encore — vos compétences, les gens qui décrochent quand vous appelez. La seconde est souvent la plus longue. Et faites une pause avec vos cartes de temps en temps, maintenant surtout : tirer une carte toutes les heures après un choc, c’est le choc qui parle.
+Cette semaine, sans rien décider, faites deux listes : ce qui est tombé, et ce qui tient encore — vos compétences, les gens qui décrochent quand vous appelez. La seconde est souvent la plus longue. Et laissez les cartes de côté quelques jours, maintenant surtout : tirer une carte toutes les heures après un choc, c’est le choc qui parle.
 
 ## Exemple de tirage {#exemple}
 

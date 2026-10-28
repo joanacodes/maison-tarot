@@ -49,6 +49,8 @@ gallery:
 
 A pillar holds something up; two pillars make an entrance. That’s the whole symbol. **Two pillars mark a threshold, and whoever sits between them is the keeper of the passage.** Think of the two stone posts of a farm gate, or the columns in front of a courthouse: before you’ve read a single word, you know you’re about to go in somewhere with rules.
 
+{{< zoom "pillars" "lead" >}}
+
 In tarot, pillars also say “two”. Two forces, two options, two sides that hold the roof up precisely because they stand apart.
 
 ## Where it appears in the deck {#where}
@@ -64,6 +66,8 @@ The Chariot carries its own: posts hold up the starry canopy above the driver. A
 Two cards have cousins rather than pillars: the two towers on the horizon of [the Moon](/library/tarot-cards/the-moon/) and of Death, a gateway seen from far off. The [tower](/library/tarot-symbols/tower/) has its own page.
 
 {{< cards "ar02 ar05 ar11 ar07" >}}
+
+{{< zoom "pillars" "rest" >}}
 
 ## How to read it {#reading}
 

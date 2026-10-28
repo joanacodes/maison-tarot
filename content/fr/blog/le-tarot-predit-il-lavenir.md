@@ -19,7 +19,7 @@ Honnêtement : de temps en temps, et jamais d’une façon que quiconque puisse 
 
 Le tout premier tirage que j’ai fait pour une inconnue en est un bon exemple. J’ai lu une relation ; elle m’a répondu que ça ne lui parlait pas, qu’elle ne cherchait personne. Trois ou quatre jours plus tard, elle m’écrivait, secouée : tout était arrivé. Je raconte l’histoire en entier dans [mon tout premier tirage](/fr/blog/premier-tirage-tarot/).
 
-Quelque chose dans un tirage peut donc pointer vers la suite. Ce que je ne peux pas faire, c’est vous dire quand, vous garantir que ça arrivera, ou l’affirmer avec la certitude qu’exige une prédiction. Environ un tirage sur dix rate, selon mon propre décompte, et c’est sur le moment que je rate le plus. Ce n’est pas une base suffisante pour dire à quelqu’un ce que sera sa vie.
+Quelque chose dans un tirage peut donc pointer vers la suite. Ce que je ne peux pas faire, c’est vous dire quand, vous garantir que ça arrivera, ou l’affirmer avec la certitude qu’exige une prédiction. Environ un tirage sur dix rate, selon mon propre décompte, et c’est sur le « quand » que je rate le plus. Ce n’est pas une base suffisante pour dire à quelqu’un ce que sera sa vie.
 
 Il y a aussi une raison plus discrète. Une prédiction change la personne qui l’entend. Annoncez à quelqu’un qu’un nouveau poste arrive, et il risque d’arrêter de chercher, ou de se mettre à chercher partout ; dans les deux cas, l’avenir dans lequel il entre n’est plus celui sur lequel on a tiré les cartes. Le présent, lui, ne bouge pas comme ça quand on le nomme. Il reste immobile assez longtemps pour qu’on le regarde.
 

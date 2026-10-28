@@ -1,0 +1,17 @@
+# Gros plans du nuage (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: ar06
+  box: [0.25, 0.40, 0.73, 0.64]
+  en: "The soft white cloud under the angel, between the two figures"
+  fr: "Le nuage blanc et doux sous l’ange, entre les deux personnages"
+- card: sw03
+  box: [0.04, 0.012, 0.96, 0.60]
+  en: "Heavy grey clouds and slanting rain behind the pierced heart"
+  fr: "De lourds nuages gris et la pluie oblique derrière le cœur transpercé"
+- card: ar16
+  box: [0.60, 0.25, 0.955, 0.54]
+  en: "A grey cloud against the black sky, on the Tower"
+  fr: "Un nuage gris contre le ciel noir, sur la Tour"
+- card: swkn
+  box: [0.04, 0.02, 0.96, 0.34]
+  en: "Clouds shredded by the wind, above the Knight’s raised sword"
+  fr: "Des nuages déchirés par le vent, au-dessus de l’épée levée du Cavalier"

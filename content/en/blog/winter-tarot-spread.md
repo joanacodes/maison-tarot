@@ -57,7 +57,7 @@ Three Pentacles out of five: this winter is about the body and the practical thi
 
 In my colour grid, [black](/library/tarot-colours/black/) is absence and void, and also emptying the mind and reality: the bare thing, without varnish. The dark weeks can do that too. Fewer hours of light, fewer plans, a little more truth.
 
-I used to wait for a light to come on before I walked into a dark room; turning on every light at night was living in fear without noticing it. Today I walk through my flat with the lights off, and a noise at night doesn’t frighten me. I tell how that changed in [afraid of the dark](/blog/afraid-of-the-dark/).
+I used to wait for a light to come on before I walked into a dark room; turning on every light at night was living in fear without noticing it. Today I walk through my place with the lights off, and a noise at night doesn’t frighten me. I wrote about that change, and what shadow work has to do with it, in [afraid of the dark](/blog/afraid-of-the-dark/).
 
 The honest limit: a spread doesn’t lift a heavy mood. If the dark weeks weigh on you every year more than rest can fix, mention it to your doctor; that’s a question for a person, not a deck.
 

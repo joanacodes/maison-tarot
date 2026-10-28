@@ -15,7 +15,7 @@ Il y a cinq éclipses en 2027 : deux solaires, trois lunaires. Celle dont on par
 
 ## Les cinq éclipses de 2027 {#dates}
 
-Une éclipse solaire, c’est la Lune qui passe entre la Terre et le Soleil et en cache une partie ou la totalité ; elle ne peut avoir lieu qu’à la nouvelle lune. Une éclipse lunaire, c’est l’ombre de la Terre qui tombe sur la Lune ; elle n’a lieu qu’à la pleine lune. Une éclipse « par la pénombre » est la plus discrète : la Lune ne traverse que le bord pâle de l’ombre, et on ne remarque presque rien.
+Les éclipses solaires tombent à la nouvelle lune, les éclipses lunaires à la pleine lune. Ce qu’est chacune, ce qu’on appelle la « saison des éclipses » et s’il est raisonnable de tirer les cartes pendant l’une d’elles, je l’explique dans [tirer les cartes pendant une éclipse](/fr/blog/tarot-eclipse/) ; cette page s’en tient aux dates. Pour lire le tableau, il ne manque qu’un mot : une éclipse lunaire « par la pénombre » est la plus discrète de toutes. La Lune ne traverse que le bord pâle de l’ombre de la Terre, et on ne remarque presque rien.
 
 | Date | Éclipse | Signe | Maximum (heure de Paris) | Où la voir |
 |---|---|---|---|---|
@@ -39,23 +39,15 @@ Depuis la France, l’éclipse est partielle. À Paris, elle commence vers 10 h 
 
 ## Ce que les astrologues lisent dans les éclipses de 2027 {#signes}
 
-En astrologie, une éclipse solaire se lit comme une nouvelle lune au volume poussé : un début, souvent un qu’on n’avait pas prévu. Une éclipse lunaire se lit comme une pleine lune au volume poussé : quelque chose arrive à son terme ou se referme. Les éclipses viennent par saisons ; en 2027, elles tombent en février et entre fin juillet et août.
-
-L’axe dont les astrologues vont parler, c’est le [Lion](/fr/bibliotheque/astrologie/lion/) et le [Verseau](/fr/bibliotheque/astrologie/verseau/) : les deux éclipses solaires et l’éclipse lunaire d’août s’y trouvent. Le verbe du Lion, c’est « je vais » : l’expression de soi, la fierté, le cœur qui a besoin d’être vu. Celui du Verseau, « je sais » : le groupe, les idées, ce qui vient. Lus ensemble, ils parlent du tiraillement entre moi et nous. Si vous aimez donner une carte à chaque signe, la tradition de la Golden Dawn place la Force sur le Lion et l’Étoile sur le Verseau.
+En 2027, les saisons d’éclipses tombent en février et entre fin juillet et août, et l’axe dont les astrologues vont parler, c’est le [Lion](/fr/bibliotheque/astrologie/lion/) et le [Verseau](/fr/bibliotheque/astrologie/verseau/) : les deux éclipses solaires et l’éclipse lunaire d’août s’y trouvent, parce que c’est là que passent les Nœuds de la Lune cette année-là. Le verbe du Lion, c’est « je vais » : l’expression de soi, la fierté, le cœur qui a besoin d’être vu. Celui du Verseau, « je sais » : le groupe, les idées, ce qui vient. Lus ensemble, ils parlent du tiraillement entre moi et nous. Si vous aimez donner une carte à chaque signe, la tradition de la Golden Dawn place la Force sur le Lion et l’Étoile sur le Verseau.
 
 {{< cards "ar08 ar17" >}}
 
-Ce que je peux ajouter, c’est mon propre décompte : quand [j’ai testé mon thème astral case par case](/fr/blog/j-ai-teste-mon-theme-astral/), les positions tenaient environ 30 à 40 % du temps au total. Je traite donc les éclipses comme un thème de réflexion, jamais comme un agenda — et [l’astrologie n’est pas une excuse](/fr/avertissements/#astrologie) pour une décision que vous alliez prendre de toute façon.
-
-## Pourquoi je tire moins pendant la saison des éclipses, pas plus {#tirer-moins}
-
-Pendant les semaines d’éclipse, les questions se multiplient. Les vidéos annoncent du grand, alors on tire une carte le matin, trois à midi, un grand tirage le soir — et chaque nouvelle carte est une nouvelle occasion de s’inquiéter.
-
-Je préfère faire l’inverse : un tirage par saison, noté, puis les cartes retournent dans le tiroir jusqu’à la suivante. Faites une pause avec vos cartes de temps en temps. Savoir s’il est raisonnable de tirer pendant une éclipse est une question à part, à laquelle je réponds dans [tarot et éclipses](/fr/blog/tarot-eclipse/).
+Voilà pour la tradition. Ce que je peux ajouter, c’est mon propre décompte, avec sa limite : quand [j’ai testé mon thème astral case par case](/fr/blog/j-ai-teste-mon-theme-astral/), les positions tenaient environ 30 à 40 % du temps au total, et les éclipses ne faisaient pas du tout partie de ce test. Je traite donc les éclipses comme un thème de réflexion, jamais comme un agenda — et [l’astrologie n’est pas une excuse](/fr/avertissements/#astrologie) pour une décision que vous alliez prendre de toute façon.
 
 ## Un tirage tout en douceur pour les éclipses de 2027 {#tirage}
 
-Trois cartes, une fois en février et une fois en août. Pas à chaque éclipse, ni chaque jour.
+Trois cartes, une fois en février et une fois en août. Pas à chaque éclipse, ni chaque jour de la saison : c’est pendant les semaines d’éclipse que les questions se multiplient, et chaque carte de plus est une occasion de plus de s’inquiéter. Faites une pause avec vos cartes de temps en temps.
 
 1. *Qu’est-ce qui est prêt à se terminer tout seul ?* La carte lunaire : quelque chose qui a fait son temps.
 2. *Qu’est-ce qui commence sans bruit ?* La carte solaire : un début que vous n’avez peut-être pas encore remarqué.

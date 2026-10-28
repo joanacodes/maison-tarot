@@ -49,6 +49,8 @@ gallery:
 
 Sur une carte, l’ange est une figure ailée placée au-dessus des figures humaines. Pas besoin de croire aux anges pour le lire ; regardez où il se trouve. **L’ange dit : il existe une vue plus large que celle qu’on a depuis le sol.** Pensez à l’amie qui n’est pas prise dans votre dispute et qui voit en deux minutes ce que vous n’avez pas vu en deux semaines.
 
+{{< zoom "angel" "lead" >}}
+
 Ce que l’ange fait de ses mains dit le reste. Il verse, il appelle, il ouvre les bras.
 
 ## Où il apparaît dans le jeu {#ou}
@@ -62,6 +64,8 @@ Sur le Jugement, un ange se penche hors des nuages et souffle dans une trompette
 La Roue de Fortune en a un plus petit. Dans le coin en haut à gauche, une figure ailée tient un livre ouvert sur un nuage — l’une des quatre créatures, avec un aigle, un taureau et un lion, qui regardent tourner la roue. Les mêmes reviennent sur le Monde, en têtes dans les nuages, sans ailes.
 
 {{< cards "ar14 ar06 ar20 ar10" >}}
+
+{{< zoom "angel" "rest" >}}
 
 Une comparaison à faire : posez les Amoureux à côté du [Diable](/fr/bibliotheque/cartes-tarot/le-diable/). Même composition — une figure ailée au-dessus d’un couple nu — mais les ailes sont celles d’une chauve-souris, et le couple est enchaîné.
 

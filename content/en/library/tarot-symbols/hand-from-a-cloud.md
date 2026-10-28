@@ -49,6 +49,8 @@ gallery:
 
 A hand comes out of a cloud, with no arm or body behind it, and holds out the card’s suit. It’s what arrives from outside you: an opportunity, an offer, the start of something you didn’t build yourself. **The hand from a cloud is a beginning held out to you — taking it, and what comes after, is up to you.**
 
+{{< zoom "hand-from-a-cloud" "lead" >}}
+
 An everyday example: a friend forwards you a job advert you would never have found. You didn’t look for it. Now it’s in your inbox, and the rest is your move.
 
 ## Where it appears in the deck {#where}
@@ -66,6 +68,8 @@ In all four Aces, the hand is ringed with small rays of light.
 And once more on [the Four of Cups](/library/tarot-cards/four-of-cups/): a smaller hand, from a small cloud, offers a cup to a man sitting under a tree with his arms crossed, looking at the three cups already in front of him.
 
 {{< cards "waac cuac swac peac cu04" >}}
+
+{{< zoom "hand-from-a-cloud" "rest" >}}
 
 ## How to read it {#reading}
 

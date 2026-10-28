@@ -49,6 +49,8 @@ gallery:
 
 The lemniscate is the sign ∞: a figure eight lying on its side. The name comes from the Latin for a ribbon, and the mathematician John Wallis used the sign for infinity in 1655. Follow the line with a finger and you never reach an end; you cross the middle and come back round.
 
+{{< zoom "lemniscate" "lead" >}}
+
 **The lemniscate says: the energy goes round, and nothing is lost on the way.** Think of the figure of eight a skater traces on the ice: two loops, one line, and the crossing in the middle is where the weight shifts.
 
 ## Where it appears in the deck {#where}
@@ -62,6 +64,8 @@ Strength has the same sign above the woman calming the lion. Here the loop is se
 Some readers also see it in the ribbons that tie the World’s wreath. I leave it out: on the 1909 print they cross rather than loop.
 
 {{< cards "ar01 ar08 pe02" >}}
+
+{{< zoom "lemniscate" "rest" >}}
 
 ## How to read it {#reading}
 

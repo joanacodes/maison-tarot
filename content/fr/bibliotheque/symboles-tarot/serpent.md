@@ -49,6 +49,8 @@ gallery:
 
 Un serpent avance sans pattes, change de peau, et on le voit rarement venir. Ces trois faits font tout le symbole. **Le serpent, c’est le désir, ou le changement, qui s’invite sans demander.** Pensez à l’idée qui revient à trois heures du matin, un peu plus convaincante à chaque fois.
 
+{{< zoom "snake" "lead" >}}
+
 Ce n’est pas seulement un méchant. La mue, c’est le renouveau : la vieille peau laissée sur une pierre, l’animal qui continue sans elle.
 
 ## Où il apparaît dans le jeu {#ou}
@@ -64,6 +66,8 @@ Sur le Deux de Coupes, un caducée s’élève entre les deux coupes — le bât
 Sur le Magicien, le guide de Waite décrit la ceinture comme un serpent qui se mord la queue. Sur l’impression, c’est une petite bande gris-bleu : il faut regarder de près.
 
 {{< cards "ar06 ar10 cu07 cu02 ar01" >}}
+
+{{< zoom "snake" "rest" >}}
 
 ## Comment le lire {#lecture}
 

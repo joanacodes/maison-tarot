@@ -49,6 +49,8 @@ gallery:
 
 Un lion, c’est une force qui n’a pas besoin de faire ses preuves — jusqu’au jour où elle en a besoin. **Le lion dit : il y a ici une énergie puissante et chaude — le courage, la fierté, le désir — et toute la question est de savoir qui la tient.** Pensez à un gros chien qui tire sur sa laisse : la même énergie peut faire de la promenade un bonheur ou vous entraîner sur la route.
 
+{{< zoom "lion" "lead" >}}
+
 Sa crinière ressemble déjà à une couronne, et c’est pour ça qu’il finit sur les trônes et les blasons. C’est l’animal de quiconque veut paraître fort.
 
 ## Où il apparaît dans le jeu {#ou}
@@ -62,6 +64,8 @@ La Reine de Bâtons siège sur un trône aux accoudoirs sculptés de têtes de l
 Sur le Deux de Coupes, une tête de lion rouge aux larges ailes flotte au-dessus du caducée, entre les deux personnages.
 
 {{< cards "ar08 ar10 ar21 waqu waki cu02" >}}
+
+{{< zoom "lion" "rest" >}}
 
 ## Comment le lire {#lecture}
 

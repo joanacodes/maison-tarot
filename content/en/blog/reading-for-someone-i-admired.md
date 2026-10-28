@@ -11,17 +11,15 @@ imageAlt: "A printed birth chart on a wooden table between two cups of coffee, a
 imagePrompt: "A printed birth chart lying on a wooden table between two cups of coffee, a single pencil resting across it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "This wasn’t a tarot reading: it was a friend’s birth chart, read while I was testing astrology on the people around me. I admired him. His chart was on point, and harsh. What I said out loud was: ‘Your life was hard, but it feels like you like it somehow.’ He said it was right, in a way. The sentence worked because it named the hard part plainly, gave him back his place in it, and left him room to disagree. That is most of what saying a hard thing kindly asks of you."
 ---
-The most careful sentence I’ve said in a reading wasn’t about a card. It was about a friend’s birth chart: “Your life was hard, but it feels like you like it somehow.” He said it was right, in a way, and it’s the sentence I’d give anyone who has to say something hard to someone they look up to.
+The sentence I said out loud wasn’t about a card. It was about a friend’s birth chart: “Your life was hard, but it feels like you like it somehow.” He said it was right, in a way, and its shape is the one I’d hand anyone who has to say something hard to someone they look up to.
 
 ## It was his chart, not the cards {#his-chart}
 
 I should be precise, because the title says “reading”: this one wasn’t tarot. It was astrology.
 
-I came to astrology to mock it. I put a video on, read my own chart, and it was too precise for comfort. So I tested it, box by box: every placement, a tick or a cross. Then I did the same for my family, my friends, strangers — and for a friend I admired. The whole method and its numbers are in [how I tested my birth chart](/blog/i-tested-my-birth-chart/): overall, 30 to 40% held; Saturn, Lilith and Chiron held 75 to 90%.
+I came to astrology to mock it. I put a video on, read my own chart, and it was too precise. So I tested it, box by box: every placement, a tick or a cross. Then I did the same for my family, my friends, strangers — and for a friend I admired. The whole method and its numbers are in [how I tested my birth chart](/blog/i-tested-my-birth-chart/): overall, 30 to 40% held; Saturn, Lilith and Chiron held 75 to 90%.
 
 His chart was on point. It was also harsh.
-
-{{< todo >}}Add here (optional): how the reading came about — whether he asked or you offered — and which placements made his chart read as harsh, if you’d like to say.{{< /todo >}}
 
 That’s all I’ll tell you about him. The story isn’t his life; it’s one sentence, and what it did.
 
@@ -30,6 +28,8 @@ That’s all I’ll tell you about him. The story isn’t his life; it’s one s
 Reading for someone you admire raises the stakes in a way that has nothing to do with the chart or the cards.
 
 In my teaching notes, one of the two usual reasons nothing comes in a reading is the reader’s own block: too much pressure. Admiration is pressure. You want to be right in front of this person. You want them to think well of you. You don’t want to be the one who hurts them.
+
+With him, the pressure had a precise shape: I admired him too much to want him to think I was crazy. I did it anyway.
 
 That pressure pushes in two directions, and both are traps. The first is to soften the hard part until it says nothing: “You’ve had a few challenges, like everyone.” The second is to prove yourself by being blunt, because precision feels like competence: “Your chart is brutal.” One protects you from their disappointment; the other tries to impress them. Neither is about them.
 
@@ -41,7 +41,7 @@ Say a friend you look up to draws the Ten of Wands: a figure bent under ten heav
 
 Here it is again: *Your life was hard, but it feels like you like it somehow.*
 
-“Your life was hard.” No euphemism, no “challenges”, no rounding off. The chart was harsh, and pretending otherwise would have been a polite lie. It also speaks about what he had already lived. It describes; it doesn’t forecast.
+“Your life was hard.” No euphemism, no “challenges”, no rounding off. The chart was harsh, and pretending otherwise would have been a polite lie. It also speaks about what he’d lived so far. It describes; it doesn’t forecast.
 
 “But it feels like.” This is an impression, offered as one. Not “your chart says”, not “clearly”. It hands him the right to say no.
 
@@ -55,11 +55,11 @@ Here it is again: *Your life was hard, but it feels like you like it somehow.*
 
 He said it was right, in a way.
 
-Not a full yes, and I think that’s the most honest answer he could have given. A sentence about a whole life can only ever be right in a way. If he had said “exactly” to every word, I’d have trusted it less.
+Not a full yes, and I think that’s the most honest answer he could have given. A sentence about someone’s life can only ever be right in a way. If he had said “exactly” to every word, I’d have trusted it less.
 
 It’s also a reminder of how to count. If you keep a notebook of what you said and what was confirmed, “in a way” stays “in a way”. You don’t upgrade it to a hit because the moment felt important, and you don’t throw it away because it wasn’t complete.
 
-What his answer kept intact was the respect between us. The hard part had been said. Nobody had been made smaller. I read; you decide. He decided how much of that sentence was his, and that was the right person to decide it.
+That’s what the shape of the sentence protects: the hard part gets said, and nobody is made smaller. I read; you decide. He decided how much of that sentence was his, and that was the right person to decide it.
 
 ## How to say a hard thing kindly {#how-to}
 
@@ -73,7 +73,7 @@ The sentence follows a shape you can borrow, with a chart, a card, or none at al
 
 There’s more on this, including the subjects I don’t read on at all, in [how to share hard news in a reading](/blog/bad-news-tarot-reading/).
 
-And an honest limit. A harsh chart isn’t a verdict on a person. Astrology held a third of the time in my test, and the placements that held best were the ones that describe difficulty, which may be part of why they ring so true. I keep astrology as a lens, never as an explanation of someone, and never as [an excuse](/disclaimers/#astrology).
+And an honest limit. A harsh chart isn’t a verdict on a person. Astrology held 30 to 40% of the time in my test, and the placements that held best were the ones that describe difficulty, which may be part of why they ring so true. I keep astrology as a lens, never as an explanation of someone, and never as [an excuse](/disclaimers/#astrology).
 
 ## Before you read for someone you admire {#before-you-read}
 

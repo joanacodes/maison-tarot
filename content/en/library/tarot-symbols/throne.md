@@ -49,6 +49,8 @@ gallery:
 
 A throne is a chair with a job. You don’t sit on it to rest; you sit on it because the place is yours and others come to you. **The throne says: this person holds a position, and they aren’t going anywhere.** Picture the head of the table at a family lunch — any chair would do, and everyone still knows whose it is.
 
+{{< zoom "throne" "lead" >}}
+
 It’s the opposite of the horse or the road. On a throne, power has stopped moving and become a place.
 
 ## Where it appears in the deck {#where}
@@ -64,6 +66,8 @@ The High Priestess sits on a plain stone cube. No carving, no cushion: the simpl
 All eight Queens and Kings are seated too, and each throne tells you the suit: lions for the Queen of Wands, a stone throne standing in the sea for the King of Cups, butterflies for the Swords, bulls’ heads for the King of Pentacles. [The King](/library/numerology/king/) and [the Queen](/library/numerology/queen/) go through them one by one.
 
 {{< cards "ar04 ar03 ar05 ar11 ar02 waqu cuki peki" >}}
+
+{{< zoom "throne" "rest" >}}
 
 ## How to read it {#reading}
 

@@ -49,6 +49,8 @@ gallery:
 
 A crown sits on the head, and it’s rarely put there by the person who wears it. **The crown says: this authority has been recognised — by a people, a group, or a victory.** Think of the captain’s armband in a football team: it means nothing until the others agree to follow it.
 
+{{< zoom "crown" "lead" >}}
+
 Because it sits on the head, it’s also about the mind. Who’s in charge up there, and on whose behalf?
 
 ## Where it appears in the deck {#where}
@@ -64,6 +66,8 @@ The Four of Pentacles balances a pentacle on his crown and clutches another to h
 One to look for: Waite’s guide mentions a crown seen faintly in the light at the end of Temperance’s path. On the 1909 print it’s no more than a dotted line inside the sun. A crown made of leaves is a different symbol — see the [wreath](/library/tarot-symbols/wreath/).
 
 {{< cards "ar04 ar03 ar05 ar02 swac ar16 ar13 pe04" >}}
+
+{{< zoom "crown" "rest" >}}
 
 ## How to read it {#reading}
 

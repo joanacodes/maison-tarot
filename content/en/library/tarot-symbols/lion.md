@@ -49,6 +49,8 @@ gallery:
 
 A lion is strength that doesn’t need to prove itself — until it does. **The lion says: there’s a powerful, hot energy here — courage, pride, desire — and the question is who’s holding it.** Think of a big dog pulling on its lead: the same energy can make the walk a joy or drag you into the road.
 
+{{< zoom "lion" "lead" >}}
+
 Its mane already looks like a crown, which is why it ends up on thrones and coats of arms. It’s the animal of whoever wants to be seen as strong.
 
 ## Where it appears in the deck {#where}
@@ -62,6 +64,8 @@ The Queen of Wands sits on a throne with lions’ heads carved on its arms and l
 On the Two of Cups, a red lion’s head with wide wings floats above the caduceus between the couple.
 
 {{< cards "ar08 ar10 ar21 waqu waki cu02" >}}
+
+{{< zoom "lion" "rest" >}}
 
 ## How to read it {#reading}
 

@@ -49,6 +49,8 @@ gallery:
 
 Un voile, c’est un tissu léger tendu devant quelque chose. Il ne l’enferme pas ; il en laisse deviner la forme. **Le voile dit : il y a quelque chose ici, et ce n’est pas encore montré.** Pensez à la maison de vacances fermée pour l’hiver, les meubles sous des draps blancs : vous savez que c’est une chaise, pas laquelle.
 
+{{< zoom "veil" "lead" >}}
+
 Dans un tirage, c’est le savoir qui existe mais qui n’a pas été transmis : un secret, une intuition pas encore mise en mots, une part de l’histoire que la personne n’est pas prête à regarder.
 
 ## Où il apparaît dans le jeu {#ou}
@@ -64,6 +66,8 @@ Le Neuf de Coupes laisse pendre un tissu bleu de l’étagère des coupes, derri
 La Reine de Pentacles porte un voile vert qui tombe de sa couronne dans son dos : une maîtrise qui ne s’exhibe pas.
 
 {{< cards "ar02 ar11 cu07 cu09 pequ" >}}
+
+{{< zoom "veil" "rest" >}}
 
 ## Comment le lire {#lecture}
 

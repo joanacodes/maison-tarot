@@ -41,7 +41,7 @@ When I look back at why it went wrong, I find the same three things I find when 
 
 A message, a card or an impression shows you something. It rarely shows you when. With the voice, I had no way of knowing whether “an accident” meant tomorrow, next year or never. It turned out to be two weeks, and I couldn’t have known that, any more than I could have known what kind of accident it would be.
 
-In card readings, timing is where I miss most. I gave it [a whole article on tarot and timing](/blog/tarot-timing/) for that reason.
+In card readings, timing is the weak spot. I gave it [a whole article on tarot and timing](/blog/tarot-timing/) for that reason.
 
 Timing cuts the other way too. The very first reading I did for a stranger seemed to miss completely. I read a relationship; she told me it didn’t resonate, she wasn’t looking for one. Three or four days later she texted me, shocked: everything had happened, including the part where she hadn’t been kind to the other person. On the night, I would have written it down as a miss. Four days on, it wasn’t one. The whole story is in [my first tarot reading](/blog/first-tarot-reading-story/).
 

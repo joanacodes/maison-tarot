@@ -49,6 +49,8 @@ gallery:
 
 A veil is a thin cloth hung in front of something. It doesn’t lock it away; it lets you guess at the shape. **The veil says: there is something here, and it isn’t shown yet.** Think of a dust sheet over furniture in a closed-up country house — you know it’s a chair, you don’t know which chair.
 
+{{< zoom "veil" "lead" >}}
+
 In a reading, it’s the knowledge that exists but hasn’t been handed over: a secret, an intuition you haven’t put into words, a part of the story the person isn’t ready to look at.
 
 ## Where it appears in the deck {#where}
@@ -64,6 +66,8 @@ The Nine of Cups hangs a blue cloth from the shelf of cups behind the seated man
 The Queen of Pentacles wears a green veil falling from her crown down her back: mastery that doesn’t put itself on display.
 
 {{< cards "ar02 ar11 cu07 cu09 pequ" >}}
+
+{{< zoom "veil" "rest" >}}
 
 ## How to read it {#reading}
 

@@ -49,6 +49,8 @@ gallery:
 
 Une colonne soutient ; deux colonnes font une entrée. Tout le symbole est là. **Deux colonnes marquent un seuil, et celui qui siège entre elles garde le passage.** Pensez aux deux piliers de pierre d’un portail de ferme, ou aux colonnes de la façade d’un palais de justice : avant d’avoir lu un seul mot, vous savez que vous allez entrer quelque part où il y a des règles.
 
+{{< zoom "pillars" "lead" >}}
+
 Au tarot, les colonnes disent aussi « deux ». Deux forces, deux options, deux côtés qui tiennent le toit justement parce qu’ils restent écartés.
 
 ## Où elles apparaissent dans le jeu {#ou}
@@ -64,6 +66,8 @@ Le Chariot transporte les siennes : des montants soutiennent le dais étoilé au
 Deux cartes ont des cousines plutôt que des colonnes : les deux tours à l’horizon de [la Lune](/fr/bibliotheque/cartes-tarot/la-lune/) et de la Mort, une porte vue de loin. La [tour](/fr/bibliotheque/symboles-tarot/tour/) a sa propre page.
 
 {{< cards "ar02 ar05 ar11 ar07" >}}
+
+{{< zoom "pillars" "rest" >}}
 
 ## Comment les lire {#lecture}
 

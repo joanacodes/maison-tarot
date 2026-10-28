@@ -49,6 +49,8 @@ gallery:
 
 La couronne se porte sur la tête, et c’est rarement celui qui la porte qui l’y a mise. **La couronne dit : cette autorité a été reconnue — par un peuple, un groupe ou une victoire.** Pensez à l’écharpe tricolore d’un maire : ce n’est qu’un ruban tant que personne ne l’a élu.
 
+{{< zoom "crown" "lead" >}}
+
 Comme elle se pose sur la tête, elle parle aussi de l’esprit. Qui commande là-haut, et pour le compte de qui ?
 
 ## Où elle apparaît dans le jeu {#ou}
@@ -64,6 +66,8 @@ Le Quatre de Pentacles tient un pentacle en équilibre sur sa couronne et en ser
 Un détail à chercher : le guide de Waite évoque une couronne qu’on devine dans la lumière au bout du chemin de Tempérance. Sur l’impression de 1909, ce n’est guère plus qu’un pointillé dans le soleil. Une couronne de feuilles est un autre symbole — voyez la [couronne de laurier](/fr/bibliotheque/symboles-tarot/couronne-de-laurier/).
 
 {{< cards "ar04 ar03 ar05 ar02 swac ar16 ar13 pe04" >}}
+
+{{< zoom "crown" "rest" >}}
 
 ## Comment la lire {#lecture}
 

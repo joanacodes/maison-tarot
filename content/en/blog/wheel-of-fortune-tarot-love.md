@@ -51,7 +51,7 @@ Spinning is the other way: changes one after another with no time to breathe, ev
 
 That’s the one. Sometimes it’s “Is this meant to be?” Both come from the same tiredness: you’ve tried, it hasn’t worked, and you’d like the wheel to do the work for a while. That’s completely human, and nobody should be made to feel silly for asking it.
 
-I don’t read the Wheel as a timetable, and I don’t think anyone can tell you what’s “meant”. Timing is where I miss most, and I go into why in [what tarot can and can’t say about when](/blog/tarot-timing/). And as I wrote in my notes, the best way to ensure an enjoyable future is to anchor ourselves in the present.
+I don’t read the Wheel as a timetable, and I don’t think anyone can tell you what’s “meant”. Timing is the weak spot of any reading, and I go into why in [what tarot can and can’t say about when](/blog/tarot-timing/). And as I wrote in my notes, the best way to ensure an enjoyable future is to anchor ourselves in the present.
 
 A kinder question: “What’s one turn I could give the wheel this month?” A place you’ve never been, a conversation you’ve postponed, a habit you’d like to drop.
 

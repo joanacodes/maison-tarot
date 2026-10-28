@@ -1,0 +1,17 @@
+# Gros plans de la main sortant du nuage (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: waac
+  box: [0.20, 0.28, 0.93, 0.83]
+  en: "A hand from a grey cloud, gripping a sprouting wand"
+  fr: "Une main sortie d’un nuage gris serre un bâton qui bourgeonne"
+- card: swac
+  box: [0.04, 0.32, 0.72, 0.80]
+  en: "The fist from the cloud, gripping the sword below its guard"
+  fr: "Le poing sorti du nuage, qui serre l’épée sous la garde"
+- card: cuac
+  box: [0.18, 0.22, 0.96, 0.74]
+  en: "An open palm from the cloud, holding the overflowing cup"
+  fr: "Une paume ouverte sortie du nuage, qui porte la coupe débordante"
+- card: cu04
+  box: [0.05, 0.37, 0.52, 0.64]
+  en: "A smaller hand from a small cloud, holding out a cup"
+  fr: "Une main plus petite, sortie d’un petit nuage, qui tend une coupe"

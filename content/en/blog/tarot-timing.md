@@ -1,6 +1,6 @@
 ---
-title: "Can tarot tell you when something will happen? Timing is where I miss most"
-description: "Can tarot tell you when something will happen? Rarely to the date. How timing systems work, why timing is where I miss most, and what I read instead of a date."
+title: "Can tarot tell you when something will happen? Why timing is the weak spot"
+description: "Can tarot tell you when something will happen? Rarely to the date. How timing systems work, why timing is the weak spot, and what I read instead of a date."
 translationKey: "post-tarot-timing"
 type: blog
 date: 2026-10-24
@@ -9,9 +9,9 @@ tags: ["tarot timing", "when will it happen tarot", "tarot predictions", "timing
 image: "covers/tarot-timing.jpg"
 imageAlt: "A paper wall calendar pinned above a wooden table, a single card lying face down below it"
 imagePrompt: "A paper wall calendar pinned above a wooden kitchen table, a single card lying face down on the table below it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Sometimes, roughly: a stage, an order, ‘not yet’. Rarely a date worth standing behind. Readers have built timing systems — suits as seasons, numbers as days or weeks, the astrology printed on the cards — but they don’t agree with each other, and a precise date is not the same as a right one. Timing is where I miss most. What a reading shows well is where you are in a cycle and what needs to happen first, so that’s what I read instead of a calendar."
+summary: "Sometimes, roughly: a stage, an order, ‘not yet’. Rarely a date worth standing behind. Readers have built timing systems — suits as seasons, numbers as days or weeks, the astrology printed on the cards — but they don’t agree with each other, and a precise date is not the same as a right one. Timing is the weak spot. What a reading shows well is where you are in a cycle and what needs to happen first, so that’s what I read instead of a calendar."
 ---
-Sometimes, roughly: a stage, an order, “not yet”. Rarely a date I’d stand behind. Timing is where I miss most, and I’d rather say that before you ask than hand you a date that feels precise and isn’t.
+Sometimes, roughly: a stage, an order, “not yet”. Rarely a date I’d stand behind. A reading is poor at telling you exactly what happens next week, and I’d rather say that before you ask than hand you a date that feels precise and isn’t.
 
 ## Can tarot predict when something will happen? {#short-answer}
 
@@ -35,7 +35,7 @@ This wasn’t a tarot reading, and I tell the whole story in [why a reading can 
 
 The event came, but I had asked who would die next, and on that the information was wrong in what mattered. The voice hadn’t said when, or how it would end. What I kept is a shelf in my head labelled *sceptical, but if it happens, I was warned*. Messages go on that shelf. Dates especially.
 
-## Why timing is where I miss most {#why-i-miss}
+## Why timing is the weak spot {#why-i-miss}
 
 Because a reading shows readiness, not scheduling. A card can show that something is ripe, or blocked, or ending. It can’t see the other person’s decisions, the job that opens a month later than planned, the train that’s cancelled.
 

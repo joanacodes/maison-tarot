@@ -6,8 +6,8 @@
 - card: ar18
   box: [0.11, 0.43, 0.95, 0.78]
   en: "The dog and the wolf howling on either side of the path"
-  fr: "Le chien et le loup qui hurlent de part et d’autre du chemin"
+  fr: "Le chien et le loup hurlant de part et d’autre du chemin"
 - card: pe10
   box: [0.50, 0.63, 0.96, 0.985]
   en: "Two white dogs in the foreground, the child’s hand on one"
-  fr: "Deux chiens blancs au premier plan, la main de l’enfant posée sur l’un d’eux"
+  fr: "Deux chiens blancs au premier plan, l’un sous la main de l’enfant"

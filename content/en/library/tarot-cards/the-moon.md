@@ -87,7 +87,7 @@ Sometimes it’s intuition, and you sense a change before it’s announced. The 
 
 Reversed at work, the fog lifts: the announcement comes, the role gets a brief, the answer arrives — not always the one you wanted, but a real one you can work with.
 
-The Moon attracts two questions: “Will I get the job?” and “Is something going on behind my back?” Both come from waiting without information, one of the hardest things to do well. I don’t read on what a recruiter or a colleague thinks: they aren’t in the room, and I read the person in front of me. As for “When will I hear back?”, [timing is where I miss most](/blog/tarot-timing/). A miss is a miss, and a wrong “yes, next week” would cost you a week of hope. A kinder question: “What do I actually know, and what am I imagining?”
+The Moon attracts two questions: “Will I get the job?” and “Is something going on behind my back?” Both come from waiting without information, one of the hardest things to do well. I don’t read on what a recruiter or a colleague thinks: they aren’t in the room, and I read the person in front of me. As for “When will I hear back?”, [timing is the weak spot of any reading](/blog/tarot-timing/), and a wrong “yes, next week” would cost you a week of hope. A kinder question: “What do I actually know, and what am I imagining?”
 
 This week, draw two columns: what I know, what I’m imagining. Most of the weight is usually in the second. Then ask one plain question of the person who can answer it — “Is my role changing?” or “When do you expect to decide?” — and leave the 3 a.m. thoughts until morning: no emails, plans or resignations at that hour.
 

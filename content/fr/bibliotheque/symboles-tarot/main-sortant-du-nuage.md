@@ -49,6 +49,8 @@ gallery:
 
 Une main sort d’un nuage, sans bras ni corps derrière elle, et tend la suite de la carte. C’est ce qui vous arrive de l’extérieur : une occasion, une proposition, le début de quelque chose que vous n’avez pas construit vous-même. **La main sortant du nuage, c’est un commencement qu’on vous tend — le saisir, et la suite, c’est à vous.**
 
+{{< zoom "hand-from-a-cloud" "lead" >}}
+
 Un exemple de tous les jours : une amie vous transfère une offre d’emploi que vous n’auriez jamais trouvée. Vous ne cherchiez rien. Maintenant, elle est dans votre boîte mail, et la balle est dans votre camp.
 
 ## Où elle apparaît dans le jeu {#ou}
@@ -66,6 +68,8 @@ Sur les quatre As, la main est entourée de petits rayons de lumière.
 Et une fois encore sur [le Quatre de Coupes](/fr/bibliotheque/cartes-tarot/quatre-de-coupes/) : une main plus petite, sortie d’un petit nuage, tend une coupe à un homme assis sous un arbre, les bras croisés, qui regarde les trois coupes déjà posées devant lui.
 
 {{< cards "waac cuac swac peac cu04" >}}
+
+{{< zoom "hand-from-a-cloud" "rest" >}}
 
 ## Comment la lire {#lecture}
 

@@ -49,6 +49,8 @@ gallery:
 
 A snake moves without legs, sheds its skin, and is rarely seen coming. Those three facts make the whole symbol. **The snake is the desire, or the change, that slips in without asking.** Think of an idea that comes back at three in the morning, a little more convincing each time.
 
+{{< zoom "snake" "lead" >}}
+
 It isn’t only a villain. Shedding is renewal: the old skin left on a stone, the animal carrying on without it.
 
 ## Where it appears in the deck {#where}
@@ -64,6 +66,8 @@ On the Two of Cups, a caduceus rises between the two cups — the staff of Herme
 On the Magician, Waite’s guide describes the belt as a snake swallowing its own tail. On the print it’s a small blue-grey band, so you’ll need to look closely.
 
 {{< cards "ar06 ar10 cu07 cu02 ar01" >}}
+
+{{< zoom "snake" "rest" >}}
 
 ## How to read it {#reading}
 

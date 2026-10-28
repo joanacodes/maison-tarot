@@ -2,7 +2,7 @@
 - card: ar17
   box: [0.045, 0.56, 0.62, 0.912]
   en: "Water poured from a jug, rippling across the Star’s pool"
-  fr: "L’eau versée d’une cruche, qui fait des ronds dans le bassin de l’Étoile"
+  fr: "L’eau versée d’une cruche fait des ronds dans le bassin de l’Étoile"
 - card: ar14
   box: [0.20, 0.27, 0.70, 0.535]
   en: "Water flowing from one cup into the other, on Temperance"
@@ -10,4 +10,4 @@
 - card: cuac
   box: [0.12, 0.52, 0.88, 0.908]
   en: "Streams and drops falling into a pond of water lilies"
-  fr: "Des filets et des gouttes qui tombent dans un étang couvert de nénuphars"
+  fr: "Des filets d’eau et des gouttes tombent dans un étang de nénuphars"

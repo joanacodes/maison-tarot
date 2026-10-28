@@ -49,6 +49,8 @@ gallery:
 
 A wreath is a ring of leaves or flowers, worn on the head or hung up. Ancient Greek athletes were crowned with leaves — olive at Olympia, laurel at Delphi — and English still says someone is “resting on their laurels”. **The wreath says: something has been won, and others have seen it.** Picture a runner at the finish with a medal round their neck: the race is over, and the medal is the proof for everyone else.
 
+{{< zoom "wreath" "lead" >}}
+
 Unlike a metal crown, a wreath wilts. It belongs to one moment, one victory.
 
 ## Where it appears in the deck {#where}
@@ -66,6 +68,8 @@ The Seven of Cups offers a laurel wreath in one of its seven cups, and a skull i
 Leaves crown the Fool’s head too, and flowers crown the child on the Sun: lighter wreaths, more joy than triumph.
 
 {{< cards "ar21 wa06 ar07 ar03 cu02 cu07 ar00 ar19" >}}
+
+{{< zoom "wreath" "rest" >}}
 
 ## How to read it {#reading}
 

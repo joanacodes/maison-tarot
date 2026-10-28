@@ -47,7 +47,7 @@ Cinq questions. En général, vous saurez dès la deuxième.
 
 ## Ce que le tarot m’a appris là-dessus {#tarot}
 
-Chaque carte a un plus et un moins. C’est la première chose que j’enseigne, et la meilleure protection que je connaisse contre l’envie de tout voir en rose.
+Chaque carte a un plus et un moins. C’est la première ligne de mes notes sur les cartes, et la meilleure protection que je connaisse contre l’envie de tout voir en rose.
 
 Prenez [le Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), que je considère comme la carte la plus négative du jeu : la perte, une émotion sombre, être seul avec ses problèmes. Une lecture positive à tout prix saute directement aux deux coupes encore debout derrière le personnage. Une lecture honnête nomme d’abord les trois coupes renversées, s’y attarde assez pour que la personne se sente entendue, et seulement ensuite se retourne.
 

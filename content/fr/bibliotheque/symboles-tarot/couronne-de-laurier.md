@@ -49,6 +49,8 @@ gallery:
 
 C’est un anneau de feuilles ou de fleurs, porté sur la tête ou suspendu. Les athlètes grecs étaient couronnés de feuillage — l’olivier à Olympie, le laurier à Delphes — et le mot « lauréat » en garde la trace : celui qui a reçu le laurier. **La couronne de laurier dit : quelque chose a été gagné, et les autres l’ont vu.** Pensez aux listes affichées le jour des résultats du bac : l’épreuve est finie, et votre nom sur le panneau, c’est la preuve pour tout le monde.
 
+{{< zoom "wreath" "lead" >}}
+
 Contrairement à la couronne de métal, elle fane. Elle appartient à un moment, à une victoire.
 
 ## Où elle apparaît dans le jeu {#ou}
@@ -66,6 +68,8 @@ Le Sept de Coupes offre une couronne de laurier dans l’une de ses sept coupes,
 Des feuilles couronnent aussi la tête du Mat, et des fleurs celle de l’enfant du Soleil : des couronnes plus légères, plus joyeuses que triomphales.
 
 {{< cards "ar21 wa06 ar07 ar03 cu02 cu07 ar00 ar19" >}}
+
+{{< zoom "wreath" "rest" >}}
 
 ## Comment la lire {#lecture}
 

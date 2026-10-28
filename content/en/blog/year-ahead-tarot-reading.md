@@ -15,11 +15,9 @@ A year-ahead tarot reading is twelve cards, one for each month, drawn once and t
 
 ## What is a year-ahead tarot reading? {#what-it-is}
 
-It’s a spread that gives each month a theme: a card that says where your attention is likely to go, and what kind of effort the month asks for. You can draw it on New Year’s Day, on your birthday, or at Samhain when the harvest is in. [My New Year layout for 2027](/blog/new-year-tarot-spread/) shows the table itself, thirteen cards in four rows.
+It’s a spread that gives each month a theme: a card that says where your attention is likely to go, and what kind of effort the month asks for. You can draw it on New Year’s Day, on your birthday, or at Samhain when the harvest is in. [My New Year layout for 2027](/blog/new-year-tarot-spread/) shows the table itself: one card for the year, then the twelve months in four rows of three.
 
 What it isn’t: a calendar of events. If June shows the Three of Swords, June isn’t booked for heartbreak. It’s a month to notice what hurts, and to say it out loud rather than carry it.
-
-{{< todo >}}Add here: when you draw your own year-ahead reading, if you do one (New Year, your birthday, another date){{< /todo >}}
 
 ## Step one: read the twelve cards together {#read-together}
 
@@ -42,7 +40,11 @@ This is the part most people skip, and it’s the part that does the work.
 4. Live the month. Don’t reread the card every morning.
 5. On the last day, write what happened, then a tick, a cross or a question mark.
 
-Say April is the Two of Cups: two people facing each other, raising their cups. Two is cooperation, a bond, an agreement; Cups are feelings. On 1 April you might write: “This month, I’ll pay attention to the people I’ve drifted away from.” On 30 April: “My sister and I are talking again. Tick.”
+Say April is the Two of Cups: two people facing each other, raising their cups.
+
+{{< cards "cu02" >}}
+
+Two is cooperation, a bond, an agreement; Cups are feelings. On 1 April you might write: “This month, I’ll pay attention to the people I’ve drifted away from.” On 30 April: “My sister and I are talking again. Tick.”
 
 By December you have twelve sentences and twelve marks — a record of your year in your own handwriting. **The reading helps because you check it, not because it was right.** [The reading notebook I keep](/blog/tarot-journal/) follows the same two columns: what I said, what happened.
 

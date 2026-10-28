@@ -43,9 +43,9 @@ Et en France, le tarot reste d’abord un jeu qu’on pratique en famille ou en 
 
 ## Ce que font les croyants {#ce-que-font-les-croyants}
 
-Entre les textes et la vie, il y a un écart, et il n’a rien de honteux. Les chiffres les plus précis que j’ai trouvés sont américains : en 2018, le Pew Research Center comptait [six chrétiens sur dix](https://www.pewresearch.org/short-reads/2018/10/01/new-age-beliefs-common-among-both-religious-and-nonreligious-americans/) qui adhèrent à au moins une croyance dite « New Age » — les voyants, l’astrologie, la réincarnation ou l’énergie spirituelle contenue dans les objets. La proportion va de 47 % chez les protestants évangéliques à environ sept sur dix chez les catholiques et dans les Églises protestantes noires.
+Entre les textes et la vie, il y a un écart, et il n’a rien de honteux. En 2018, le Pew Research Center comptait [six chrétiens américains sur dix](https://www.pewresearch.org/short-reads/2018/10/01/new-age-beliefs-common-among-both-religious-and-nonreligious-americans/) qui adhèrent à au moins une croyance dite « New Age » — les voyants, l’astrologie, la réincarnation ou l’énergie spirituelle contenue dans les objets. La proportion va de 47 % chez les protestants évangéliques à environ sept sur dix chez les catholiques et dans les Églises protestantes noires.
 
-Une limite honnête : ce sondage mesure des croyances, pas la pratique du tarot, et il porte sur les États-Unis. Je n’ai pas trouvé d’équivalent français aussi détaillé.
+Une limite honnête : ce sondage mesure des croyances, pas la pratique du tarot, et il ne porte que sur les États-Unis ; il ne dit donc rien de certain sur les croyants en France.
 
 Ce qu’il montre quand même, c’est qu’on vit rarement sa foi comme un règlement intérieur. Certains chrétiens tirent les cartes en toute tranquillité, d’autres s’en abstiennent par fidélité, d’autres hésitent. C’est d’ailleurs sous cette forme que la question m’arrive le plus souvent : non pas « que dit la doctrine ? », mais « est-ce que je trahis quelque chose ? ».
 
@@ -55,7 +55,7 @@ Je ne suis pas théologienne, et je ne vous dirai pas ce que votre Église perme
 
 Ce que je peux vous dire, c’est ce que je fais et ce que je ne fais pas. Je n’appelle aucun esprit, je ne promets rien, et je ne présente jamais une lecture comme un verdict. Je lis la situation de la personne en face de moi, et c’est elle qui décide : [le tarot n’est pas une autorité](/fr/avertissements/#lectures). Si la doctrine de votre Église vise la prétention à connaître l’avenir, c’est à vous et à ceux qui vous guident de dire si ma pratique en relève.
 
-Si c’est vous qui tenez le jeu, le même respect vaut dans l’autre sens. Je demande toujours avant de lire quelqu’un, et une hésitation compte comme un non. Un ami chrétien qui vous dit « je préfère pas » n’a pas besoin d’un exposé sur le symbolisme ou la psychologie ; il a besoin que vous rangiez les cartes et que vous serviez le thé.
+Si c’est vous qui tenez le jeu, le même respect vaut dans l’autre sens. Je demande toujours avant de lire quelqu’un, et je prendrais une hésitation pour un non. Un ami chrétien qui vous dit « je préfère pas » n’a pas besoin d’un exposé sur le symbolisme ou la psychologie ; il a besoin que vous rangiez les cartes et que vous serviez le thé.
 
 **Une foi qui dit non mérite exactement le même respect qu’une curiosité qui dit oui.** Si votre Église vous demande de vous abstenir et que vous y tenez, c’est une raison suffisante, et vous n’avez rien à prouver à personne. Si les images vous intéressent sans que vous vouliez tirer, elles se regardent comme on regarde un vitrail : la page du [Hiérophante](/fr/bibliotheque/cartes-tarot/le-hierophante/) est un bon début.
 

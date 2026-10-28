@@ -87,7 +87,7 @@ Reversed at work, it’s the collapse in slow motion — the project nobody beli
 
 The first question is “Will I lose my job?”, and I understand why: a job is rent, routine and a part of who you are. I don’t read that as a prediction. Whether a post survives depends on people who aren’t in the room and decisions not yet made, and a card that said “you’re safe” or “you’re out” would add a false calm, or a second shock to the first. If your contract, your rights or your money are at stake, that’s one for an employment adviser, a union rep or a lawyer ([what I don’t read, and why](/disclaimers/#refusals)). A gentler question: “What would I do in the first week if it happened?” That one has an answer, and turns fear into a plan.
 
-This week, before deciding anything, make two lists: what fell, and what’s still standing — your skills, the people who answer your calls. The second is usually longer. And take a break from your cards now and then, especially now: pulling a card every hour after a shock is the shock talking.
+This week, before deciding anything, make two lists: what fell, and what’s still standing — your skills, the people who answer your calls. The second is usually longer. And step away from the cards for a few days, especially now: pulling a card every hour after a shock is the shock talking.
 
 ## A reading, as an example {#example}
 

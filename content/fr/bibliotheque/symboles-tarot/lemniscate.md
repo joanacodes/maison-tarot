@@ -49,6 +49,8 @@ gallery:
 
 La lemniscate, c’est le signe ∞ : un huit couché sur le côté. Son nom vient du latin qui désigne un ruban, et le mathématicien John Wallis en a fait le signe de l’infini en 1655. Suivez la ligne du doigt : vous n’arrivez jamais au bout, vous passez par le milieu et vous repartez.
 
+{{< zoom "lemniscate" "lead" >}}
+
 **La lemniscate dit : l’énergie circule, et rien ne se perd en route.** Pensez aux huit qu’une patineuse trace sur la glace : deux boucles, une seule ligne, et le croisement du milieu, là où le poids du corps bascule.
 
 ## Où elle apparaît dans le jeu {#ou}
@@ -62,6 +64,8 @@ La Force porte le même signe au-dessus de la femme qui calme le lion. Ici, la b
 Certains la voient aussi dans les rubans qui nouent la couronne du Monde. Je la laisse de côté : sur l’impression de 1909, ils se croisent plus qu’ils ne bouclent.
 
 {{< cards "ar01 ar08 pe02" >}}
+
+{{< zoom "lemniscate" "rest" >}}
 
 ## Comment la lire {#lecture}
 

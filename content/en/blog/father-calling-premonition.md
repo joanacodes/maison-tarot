@@ -9,23 +9,19 @@ tags: ["hearing your name called", "premonition", "telepathy", "unexplained expe
 image: "covers/father-calling-premonition.jpg"
 imageAlt: "An open doorway between two rooms of a small flat, the far room empty and lit by a window"
 imagePrompt: "An open doorway between two rooms of a small flat, the far room empty and lit by a window, a wooden chair in the foreground. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "In 2019, while I was living in London, I heard my father call my name as if he were in the next room. He was in Paris, about 340 km away, at his Buddhist temple, praying and thinking of me. I don’t have a conclusion, and I don’t think I need one. It could be memory, a familiar voice surfacing when you’re far from someone; it could be timing, two ordinary moments lining up; it could be something more. Here is how I hold an experience like that without forcing it, and what you might do with one of your own."
+summary: "One night in 2019, while I was living in London, I heard my father call my name as if he were in the next room. He was in Paris, about 340 km away, at his Buddhist temple, praying and thinking of me. I don’t have a conclusion, and I don’t think I need one. It could be memory, a familiar voice surfacing when you’re far from someone; it could be timing, two ordinary moments lining up; it could be something more. Here is how I hold an experience like that without forcing it, and what you might do with one of your own."
 ---
-In 2019, while I was living in London, I heard my father call my name, as if he were in the next room. He was in Paris, at his Buddhist temple, praying and thinking of me. I can tell you what happened. I can’t tell you what it was, and I’d rather not pretend I can.
+One night in 2019, while I was living in London, I heard my father call my name, as if he were in the next room. He was in Paris, at his Buddhist temple, praying and thinking of me. I can tell you what happened. I can’t tell you what it was, and I’d rather not pretend I can.
 
 ## What happened {#what-happened}
 
-I was living in London. I heard my father call my name. Not a voice from nowhere: his voice, and it seemed to come from the next room.
+I was living in London. One night, I heard my father call my name. Not a voice from nowhere: his voice, and it seemed to come from the next room.
 
 He wasn’t in the next room. He was in Paris, about 340 km away, with the Channel in between. He was at his Buddhist temple, praying, and thinking of me.
 
 “Another country” sounds far, and in stories like this the distance tends to grow with each retelling. So here is the real number: about 340 km. Close enough for a train journey of a few hours, far enough that no voice carries.
 
-{{< todo >}}Add here: what you were doing when you heard it, and the time of day (the title says night — please confirm or correct).{{< /todo >}}
-
-That’s the whole of it, and I want to keep it at that size. Only my name, and a father thinking of his daughter in another country.
-
-{{< todo >}}Add here: how you learned he was at the temple thinking of you — whether you called him, or he told you later.{{< /todo >}}
+That’s the whole of it, and I want to keep it at that size. No sentence, no warning, nothing to decode: only my name, and a father thinking of his daughter in another country.
 
 ## What people call an experience like this {#what-to-call-it}
 
@@ -43,7 +39,7 @@ I don’t use any of these words for what happened. Not because they’re wrong,
 
 When I look at it calmly, I can see at least three ways to read it. None of them is complete.
 
-*Memory.* A voice you’ve heard all your life lives in you. When you’re far from someone, your mind can bring their voice forward — the way you can hear exactly how a parent says your name when you read a message from them. Hearing your name called in an empty flat isn’t rare; plenty of people describe it, often when they’re tired or drifting off. This reading needs nothing extraordinary. Its weak point: it explains the voice, not the timing.
+*Memory.* A voice you’ve heard all your life lives in you. When you’re far from someone, your mind can bring their voice forward — the way you can hear exactly how a parent says your name when you read a message from them. Hearing your name called when nobody is there isn’t rare; plenty of people describe it, often when they’re tired or drifting off. This reading needs nothing extraordinary. Its weak point: it explains the voice, not the timing.
 
 *Timing.* A parent with a child abroad thinks of them often. Most of those moments pass without anyone noticing. Now and then one lines up with something on the other side, and that’s the one we remember; nobody tells the story of the day they heard nothing. Its weak point: it can explain almost anything, which means it can’t really be tested.
 
@@ -53,7 +49,7 @@ When I look at it calmly, I can see at least three ways to read it. None of them
 
 ## Why I leave it open {#leave-it-open}
 
-Not everything is about spirits. This story doesn’t even have one in it. There’s no ghost here: only my father, in Paris, at his temple, thinking of me. When people hear a story like this, they often reach for the most dramatic explanation available. I’d rather keep it at its real size: strange, and gentle.
+Not everything is about spirits. This story doesn’t even have one in it. There’s no ghost here: only my father, in Paris, at his temple, thinking of me. When people hear a story like this, they often reach for the most dramatic explanation available. I’d rather keep it at its real size: strange, and small.
 
 Forcing a conclusion costs something either way. Turn it into proof, and you start building beliefs on a single moment, and waiting for the next one. Dismiss it, and you throw away something that mattered. Leaving it open isn’t indecision. It’s the most accurate thing I can say.
 

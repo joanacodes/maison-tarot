@@ -49,6 +49,8 @@ gallery:
 
 An angel, on a card, is a winged figure set above the human ones. You don’t need to believe in angels to read it; look at where it is. **The angel says: there’s a wider view than the one you have from the ground.** Think of the friend who isn’t caught up in your argument and sees in two minutes what you couldn’t see in two weeks.
 
+{{< zoom "angel" "lead" >}}
+
 What the angel does with its hands tells you the rest. It pours, it calls, it opens its arms.
 
 ## Where it appears in the deck {#where}
@@ -62,6 +64,8 @@ On Judgement, an angel leans out of the clouds and blows a trumpet hung with a w
 The Wheel of Fortune has a smaller one. In the top left corner, a winged figure holds an open book on a cloud — one of four creatures, with an eagle, a bull and a lion, watching the wheel turn. The same four return on the World as heads in the clouds, without wings.
 
 {{< cards "ar14 ar06 ar20 ar10" >}}
+
+{{< zoom "angel" "rest" >}}
 
 One comparison worth making: put the Lovers next to [the Devil](/library/tarot-cards/the-devil/). Same layout — a winged figure above a naked couple — but the wings are a bat’s, and the couple is chained.
 

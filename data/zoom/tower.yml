@@ -1,0 +1,17 @@
+# Gros plans de la tour (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: pe10
+  box: [0.594, 0.236, 0.774, 0.47]
+  en: "x"
+  fr: "x"
+- card: wa04
+  box: [0.36, 0.415, 0.68, 0.62]
+  en: "x"
+  fr: "x"
+- card: ar18
+  box: [0.03, 0.31, 0.25, 0.58]
+  en: "x"
+  fr: "x"
+- card: ar13
+  box: [0.745, 0.30, 0.955, 0.46]
+  en: "x"
+  fr: "x"

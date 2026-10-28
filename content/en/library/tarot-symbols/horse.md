@@ -49,6 +49,8 @@ gallery:
 
 A horse is strength you borrow. You don’t carry it; it carries you, faster and further than you’d go on foot — as long as you agree on the direction. **The horse says: there’s energy in motion here, and the pace matters as much as the rider.** Think of learning to drive: the engine is rarely the problem; knowing when to brake is.
 
+{{< zoom "horse" "lead" >}}
+
 ## Where it appears in the deck {#where}
 
 The four Knights are the horse’s main cards, and the pace is the message. The Knight of Wands’ horse rears, the Knight of Swords’ gallops flat out, the Knight of Cups’ walks, the Knight of Pentacles’ black horse stands still. Same animal, four speeds. [The Knight](/library/numerology/knight/) page reads them one by one.
@@ -60,6 +62,8 @@ The Sun puts a smiling child on a white horse, arms wide, with no saddle and no 
 The Six of Wands sets the victor on a white horse draped in green, a wreath on his head, people on foot beside him. Success that comes home at a walk.
 
 {{< cards "wakn swkn cukn pekn ar13 ar19 wa06" >}}
+
+{{< zoom "horse" "rest" >}}
 
 ## How to read it {#reading}
 

@@ -85,7 +85,7 @@ Renversé, les outils restent sur la table. Soit personne ne s’en sert — le 
 
 Au travail, le Magicien, c’est le moment où vos compétences rencontrent un point de départ : un nouveau poste où servira tout ce que vous savez, un projet qu’on vous confie, un entretien d’embauche, ou le statut d’auto-entrepreneur que vous regardez depuis des mois. C’est quelqu’un qui sait attraper une idée et la faire atterrir. Dans une reconversion, c’est aussi le débutant qu’on redevient : on reste élève toute sa vie, et c’est en forgeant qu’on devient forgeron.
 
-Les quatre outils font un bon bilan. Le bâton : en avez-vous encore envie ? La coupe : tenez-vous aux gens à qui c’est destiné ? L’épée : avez-vous réfléchi jusqu’au bout ? Le pentacle : est-ce que ça tient dans la pratique — temps, matériel, intendance ? La plupart des gens sont solides sur deux et évitent discrètement les deux autres. Les cartes ne sont pas magiques, vous l’êtes, et c’est vrai aussi de l’homme derrière sa table.
+Les quatre outils font un bon bilan. Le bâton : en avez-vous encore envie ? La coupe : tenez-vous aux gens à qui c’est destiné ? L’épée : avez-vous réfléchi jusqu’au bout ? Le pentacle : est-ce que ça tient dans la pratique — temps, matériel, intendance ? La plupart des gens sont solides sur deux et évitent discrètement les deux autres. Ce qui fait marcher un projet, ce sont ces quatre outils entre vos mains, comme entre celles de l’homme derrière sa table.
 
 Renversé au travail, c’est la présentation qui vaut mieux que le produit — ou l’inquiétude inverse, le syndrome de l’imposteur : un vrai savoir-faire que vous n’osez pas montrer, avec la certitude qu’on finira par vous démasquer. Un diamant brut reste un diamant.
 
