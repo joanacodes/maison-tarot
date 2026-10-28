@@ -49,6 +49,8 @@ gallery:
 
 La mer, c’est l’eau qu’on ne traverse pas à pied. Elle a un horizon au lieu d’une autre rive, une profondeur qu’on ne voit pas, et son propre temps. Les bateaux en partent et en reviennent. **La mer sur une carte, c’est le grand horizon — ce qui est au-delà de votre regard et de votre contrôle.**
 
+{{< zoom "sea" "lead" >}}
+
 Un exemple de tous les jours : partir vivre à l’étranger. Vous pouvez prévoir l’appartement, le travail, les papiers. Vous ne pouvez pas prévoir ce que vous ressentirez six mois plus tard, en regardant la mer depuis l’autre côté.
 
 ## Où elle apparaît dans le jeu {#ou}
@@ -60,6 +62,8 @@ La cour des Coupes vit au bord de l’eau. Le Valet de Coupes se tient devant le
 Sur le Dix d’Épées, une eau plate et sombre s’étend sous un ciel noir, avec une bande de lumière jaune à l’horizon. Sur le Jugement, les personnages se lèvent de cercueils qui flottent sur l’eau. Et sur le Cinq d’Épées, la mer s’étend derrière les deux silhouettes qui s’éloignent.
 
 {{< cards "sw02 pe02 wa02 cupa cuqu cuki sw10 ar20" >}}
+
+{{< zoom "sea" "rest" >}}
 
 ## Comment la lire {#lecture}
 

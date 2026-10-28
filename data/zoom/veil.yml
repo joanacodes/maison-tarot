@@ -1,0 +1,13 @@
+# Gros plans du voile (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: ar02
+  box: [0.18, 0.055, 0.84, 0.46]
+  en: "The veil of palms and pomegranates behind the High Priestess"
+  fr: "Le voile de palmes et de grenades derrière la Grande Prêtresse"
+- card: ar11
+  box: [0.12, 0.015, 0.88, 0.48]
+  en: "The purple curtain hung behind Justice, between her two pillars"
+  fr: "Le rideau violet tendu derrière la Justice, entre ses deux colonnes"
+- card: cu07
+  box: [0.29, 0.03, 0.77, 0.31]
+  en: "A white-draped figure glowing red, rising from a cup"
+  fr: "Une silhouette voilée de blanc, bordée de rouge, sortant d’une coupe"

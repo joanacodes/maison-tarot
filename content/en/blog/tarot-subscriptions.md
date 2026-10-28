@@ -25,7 +25,7 @@ Say a short reading ends on the Three of Swords.
 
 {{< cards "sw03" >}}
 
-“Someone close to you is hiding something. The extended reading will show who.” The card has more than one side: heartbreak, yes, and also a pact sealed in pain. A complete reading would have said both, then stopped.
+“Someone close to you is hiding something. The extended reading will show who.” The card has more than one side: heartbreak, yes, and also, in my notes, a blood pact, a promise sealed in pain. A complete reading would have said both, then stopped.
 
 These models are popular for understandable reasons. A small amount feels safer than an hour’s fee, a written answer can be read in private, and a subscription can feel like having someone in your corner.
 
@@ -33,7 +33,7 @@ These models are popular for understandable reasons. A small amount feels safer 
 
 Each model rewards something, and in none of them is it the quality of the answer.
 
-Per question, the seller earns more when you ask more. Short answers, open endings and follow-up questions are good business. Per month, the seller earns most from people who keep paying, whether they use the service often or forget it’s there. An extended reading earns most when the first reading stops at the interesting part.
+Per question, the seller earns more when you ask more. Short answers, open endings and follow-up questions are good business. Per month, the seller earns most from people who keep paying, whether they use the service often or forget it’s there. An extended reading earns most when the first reading stops at the interesting part. And on a platform, the price is split: the platform keeps a share, and the reader’s income depends on how much they sell. That puts two parties on the side of volume.
 
 **In all three models, the seller earns most while you’re still unsure.**
 
@@ -50,6 +50,8 @@ These models leave room for a handful of familiar moves:
 - A free first question, and a price on the follow-up.
 
 At the far end, the “more” turns out to be a curse that needs lifting, and that’s [a script of its own](/blog/lift-the-curse-scam/).
+
+There’s a quieter move too: what happens after a miss. By my count, about one reading in ten misses, and when one of mine does, I say so and stop there. In a model paid by the question, a miss is also a reason to sell another: rephrase it, add a card, try the extended version. A miss is a miss. It doesn’t need a follow-up you pay for.
 
 Asking the same question again and again belongs here too. The answer rarely changes; the worry does. I’ve written about [what repeat readings do to you](/blog/ask-tarot-the-same-question-twice/), and why the kindest thing is sometimes to stop asking for a while.
 

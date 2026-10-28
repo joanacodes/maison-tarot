@@ -1,0 +1,5 @@
+# Gros plan de la clé (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: ar05
+  box: [0.36, 0.765, 0.66, 0.909]
+  en: "Two crossed keys on the floor at the Hierophant’s feet"
+  fr: "Les deux clés croisées au sol, aux pieds du Hiérophante"

@@ -1,0 +1,17 @@
+# Gros plans de la couronne de laurier (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: wa06
+  box: [0.49, 0.105, 0.75, 0.275]
+  en: "A laurel wreath tied with a red ribbon to the staff"
+  fr: "Une couronne de laurier nouée d’un ruban rouge au bâton"
+- card: ar07
+  box: [0.37, 0.095, 0.63, 0.23]
+  en: "The driver’s laurel wreath, under a gold star"
+  fr: "La couronne de laurier du conducteur, sous une étoile d’or"
+- card: cu02
+  box: [0.12, 0.24, 0.34, 0.37]
+  en: "A laurel wreath in the woman’s dark hair"
+  fr: "Une couronne de laurier dans les cheveux sombres de la femme"
+- card: cu07
+  box: [0.49, 0.365, 0.74, 0.56]
+  en: "A laurel wreath rising from a cup marked with a skull"
+  fr: "Une couronne de laurier sur une coupe ornée d’une tête de mort"

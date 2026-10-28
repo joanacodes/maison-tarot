@@ -1,0 +1,17 @@
+# Gros plans de la couronne (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: swac
+  box: [0.28, 0.025, 0.68, 0.23]
+  en: "A gold crown pierced by the upright sword"
+  fr: "Une couronne d’or transpercée par l’épée dressée"
+- card: ar04
+  box: [0.35, 0.09, 0.61, 0.25]
+  en: "The Emperor’s gold crown, set with red and white stones"
+  fr: "La couronne d’or de l’Empereur, sertie de pierres rouges et blanches"
+- card: ar03
+  box: [0.31, 0.09, 0.59, 0.26]
+  en: "The Empress’s crown of stars, over a wreath of green leaves"
+  fr: "La couronne d’étoiles de l’Impératrice, sur une couronne de feuilles vertes"
+- card: ar05
+  box: [0.37, 0.085, 0.63, 0.28]
+  en: "The Hierophant’s gold tiara, rising in three tiers"
+  fr: "La tiare d’or du Hiérophante, qui s’élève sur trois étages"

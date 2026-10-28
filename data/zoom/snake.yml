@@ -1,0 +1,13 @@
+# Gros plans du serpent (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: ar10
+  box: [0.025, 0.375, 0.28, 0.705]
+  en: "The yellow snake sliding down the left side of the wheel"
+  fr: "Le serpent jaune qui descend à gauche de la roue"
+- card: cu07
+  box: [0.62, 0.025, 0.92, 0.27]
+  en: "A spotted yellow snake rising from one of the seven cups"
+  fr: "Un serpent jaune tacheté qui sort de l’une des sept coupes"
+- card: cu02
+  box: [0.38, 0.19, 0.64, 0.43]
+  en: "The caduceus between the cups: two black lines coiled round a staff"
+  fr: "Le caducée entre les coupes : deux lignes noires enroulées autour d’un bâton"

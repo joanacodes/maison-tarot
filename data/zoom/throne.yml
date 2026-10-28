@@ -1,0 +1,17 @@
+# Gros plans du trône (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: ar04
+  box: [0.10, 0.07, 0.90, 0.68]
+  en: "The Emperor’s grey stone throne, carved with four rams’ heads"
+  fr: "Le trône de pierre grise de l’Empereur, orné de têtes de bélier"
+- card: ar03
+  box: [0.03, 0.29, 0.48, 0.80]
+  en: "Red cushions and a heart-shaped shield bearing the sign of Venus"
+  fr: "Coussins rouges et bouclier en cœur marqué du signe de Vénus"
+- card: waqu
+  box: [0.26, 0.012, 0.72, 0.30]
+  en: "Two red lions rearing on the back of the Queen’s throne"
+  fr: "Deux lions rouges dressés sur le dossier du trône de la Reine"
+- card: peki
+  box: [0.17, 0.14, 0.83, 0.44]
+  en: "Bulls’ heads carved at the top of the King’s throne"
+  fr: "Des têtes de taureau sculptées en haut du trône du Roi"

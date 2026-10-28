@@ -9,7 +9,7 @@ tags: ["people to read tarot for", "tarot practice", "free tarot readings", "tar
 image: "covers/where-to-find-people-to-read-for.jpg"
 imageAlt: "A phone on a wooden table showing a blurred group chat, next to a tarot deck and a notebook"
 imagePrompt: "A phone lying on a wooden table showing a blurred group chat, next to a squared tarot deck and a closed notebook. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "You can find people to read tarot for in online groups where people ask for readings (Discord servers, Facebook tarot groups), in pen-pal apps where strangers ask for a message, among friends willing to play by the rules, and at free events where readers practise together. Wherever you find them, two conditions stay the same: they say yes before you read, and they tell you nothing — no question, no context — then confirm or not afterwards. That’s what turns a favour into real practice."
+summary: "You can find people to read tarot for in online groups where people ask for readings (Discord servers, Facebook tarot groups), in pen-pal apps where you can write to strangers, among friends willing to play by the rules, and at free events where readers practise together. Wherever you find them, two conditions stay the same: they say yes before you read, and they tell you nothing — no question, no context — then confirm or not afterwards. That’s what turns a favour into real practice."
 ---
 People to read for are easier to find than you’d think: online groups where people ask for readings, strangers who want a message, friends willing to play by the rules, free events. Wherever you find them, two conditions don’t change. They say yes before you read, and they tell you nothing until you’ve finished.
 
@@ -23,7 +23,7 @@ Before you offer, read the group’s rules about readings, and say that you’re
 
 ## Letters to strangers {#letters}
 
-The most unusual place I practised was a pen-pal app. I wrote “letters” to strangers who had asked for messages, and the message came from the cards.
+The most unusual place I practised was a pen-pal app. I sent “letters” to strangers, first asking for messages for the people who needed them.
 
 Writing is a good school. You have no face to watch and no reaction to adjust to, so you can’t steer by the person’s expression. It’s the silence rule in its purest form. If you try it, keep each letter short — the cards you drew, what you see, what you receive — and ask for a reply, even two lines. Without one, your notebook has no second column.
 

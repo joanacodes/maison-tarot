@@ -35,7 +35,7 @@ By Wednesday they have three readings and less clarity than they had on Monday. 
 
 There’s a second effect, quieter. Once you have three answers, you start choosing the one you prefer. The reading becomes a menu, and you’re ordering from it. At that point you’re not consulting anything; you’re looking for permission.
 
-And there’s a third, which I’ve watched in others and felt the pull of myself: the loop. Some people come back with the same question week after week, almost fidgety, with a high dose of doubt running through them. What they need isn’t another reading. It’s a breath, then a decision, or the courage to go through the thing they’re afraid of. I wrote about that in [why you should quit tarot reading, for a while at least](/blog/why-you-should-quit-tarot-reading/).
+And there’s a third, which I’ve watched in others: the loop. Some people come back with the same questions again and again. Some arrive almost fidgety, with a high dose of doubt running through them. When someone comes to me like that, I usually don’t read for them that day, because what they need isn’t another reading. It’s a breath, then a decision, or the courage to go through the thing they’re afraid of. I wrote about that in [why you should quit tarot reading, for a while at least](/blog/why-you-should-quit-tarot-reading/).
 
 ## How long to wait between two readings on the same question {#how-long}
 
@@ -47,7 +47,7 @@ A rough guide:
 
 - *A decision:* ask again after you’ve taken a step, not before.
 - *A situation* (a job, a relationship, a move): ask again when there’s news.
-- *The same question more than twice in a month:* that’s my alarm. Put the deck in a drawer for a few weeks.
+- *The same question more than twice in a month:* treat that as an alarm. Put the deck in a drawer for a few weeks.
 
 Take a break from your cards now and then. They’ll still be there, and you’ll read them better.
 

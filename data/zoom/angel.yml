@@ -1,0 +1,17 @@
+# Gros plans de l’ange (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: ar14
+  box: [0.03, 0.062, 0.97, 0.54]
+  en: "The angel of Temperance, red wings spread, pouring between two cups"
+  fr: "L’ange de Tempérance, ailes rouges déployées, qui verse d’une coupe à l’autre"
+- card: ar06
+  box: [0.03, 0.07, 0.97, 0.53]
+  en: "The angel with flame-like hair, arms open, a huge sun behind"
+  fr: "L’ange aux cheveux de flammes, bras ouverts, un immense soleil derrière"
+- card: ar20
+  box: [0.03, 0.02, 0.97, 0.56]
+  en: "The angel blowing a trumpet hung with a red-cross banner"
+  fr: "L’ange souffle dans une trompette, bannière blanche à croix rouge"
+- card: ar10
+  box: [0.025, 0.017, 0.40, 0.28]
+  en: "A winged figure holding a book, seated on a cloud"
+  fr: "Une figure ailée qui tient un livre, assise sur un nuage"

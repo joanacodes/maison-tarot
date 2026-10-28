@@ -13,6 +13,8 @@ summary: "Tarot vocabulary is plainer than it sounds. A tarot deck has 78 cards:
 ---
 Tarot has its own vocabulary, and most of it is plainer than it sounds. Here are 25 terms you'll meet in books, videos and readings, each defined in a sentence and shown with an example. Where I use a word differently, or not at all, I say so after the definition.
 
+These are the words of the cards and of the reading itself. Words like empath, starseed or higher self often turn up in the same videos, but they aren’t tarot terms; I define them in [a separate glossary of spiritual words](/blog/empath-starseed-lightworker/).
+
 ## The deck: cards and suits {#the-deck}
 
 1. **Tarot deck** — a set of 78 cards: 22 major arcana and 56 minor arcana. Example: the Rider-Waite-Smith follows exactly that structure, like most tarot decks sold today.
@@ -45,7 +47,7 @@ Tarot has its own vocabulary, and most of it is plainer than it sounds. Here are
 
 21. **Lens** — the word I use for one way of looking at any card: its colour, its element, its number, its feminine or masculine energy, its astrological mode. Example: through the number lens, every Five is a moment of conflict or trial, whatever the suit.
 22. **Element** — Fire, Water, Air or Earth, the four qualities tied to the suits and to many major arcana. Example: the Fool is an Air card, light and headed somewhere new.
-23. **Intuitive reading** — reading from the impressions a card gives you rather than from a memorised meaning. Example: looking at the Eight of Swords and saying "someone waiting for a permission they don't need". [How to do it, and check it](/blog/read-tarot-intuitively/).
+23. **Intuitive reading** — reading from the impressions a card gives you rather than from a memorised meaning. Example: looking at the Eight of Swords and saying "someone waiting for a permission they don't need".
 24. **Blind reading** — a reading where the person tells you nothing first: no question, no context. Example: at my events, people are drawn at random and say nothing until the end. It's [the silence rule](/blog/the-silence-rule/), and it's how I read.
 25. **Cold reading** — gathering clues from someone's appearance, reactions and answers, then handing them back as insight. Example: "I sense a loss around you", said to almost anyone, then adjusted to their face. A blind reading is how a reader keeps it out.
 

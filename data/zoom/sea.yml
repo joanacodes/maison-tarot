@@ -1,0 +1,13 @@
+# Gros plans de la mer (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: sw02
+  box: [0.64, 0.44, 0.955, 0.69]
+  en: "A calm sea with a rocky islet, hills on the far shore"
+  fr: "Une mer calme, un îlot rocheux, des collines sur l’autre rive"
+- card: pe02
+  box: [0.645, 0.655, 0.955, 0.86]
+  en: "A ship riding a high wave behind the juggler"
+  fr: "Un navire porté par une haute vague derrière le jongleur"
+- card: cuqu
+  box: [0.045, 0.625, 0.40, 0.915]
+  en: "The sea lapping at the pebbles below the Queen’s robe"
+  fr: "La mer qui vient lécher les galets sous la robe de la Reine"

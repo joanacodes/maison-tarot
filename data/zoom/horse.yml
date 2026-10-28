@@ -1,0 +1,17 @@
+# Gros plans du cheval (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: wakn
+  box: [0.03, 0.29, 0.58, 0.74]
+  en: "A red-brown horse rearing, forelegs in the air"
+  fr: "Un cheval roux qui se cabre, pattes avant levées"
+- card: cukn
+  box: [0.42, 0.355, 0.94, 0.88]
+  en: "A grey horse at a walk, head bowed, one foreleg raised"
+  fr: "Un cheval gris au pas, tête baissée, une patte avant levée"
+- card: ar13
+  box: [0.30, 0.25, 0.86, 0.70]
+  en: "Death’s white horse, a band of skulls across its chest"
+  fr: "Le cheval blanc, une bande de crânes sur le poitrail"
+- card: ar19
+  box: [0.36, 0.55, 0.88, 0.90]
+  en: "The white horse’s head, the red banner falling beside it"
+  fr: "La tête du cheval blanc, la bannière rouge qui tombe à côté"

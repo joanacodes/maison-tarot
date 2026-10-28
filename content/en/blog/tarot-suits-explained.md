@@ -19,10 +19,10 @@ A suit is a family of fourteen cards that share one object: an Ace, the numbers 
 
 | Suit | Element | What it’s about | What’s drawn on the cards | Playing-card cousin |
 | --- | --- | --- | --- | --- |
-| Wands | Fire | Drive, projects, desire | Living wood, still sprouting leaves | Clubs |
-| Cups | Water | Feelings, relationships | Cups, rivers, the sea, a fish | Hearts |
-| Swords | Air | Thoughts, decisions, words | Blades, clouds, wind, birds | Spades |
-| Pentacles | Earth | Money, body, work, what has value | Coins with a five-pointed star, gardens, grapes | Diamonds |
+| Wands | Fire | Drive, projects, desire | Living wood with leaves; salamanders | Clubs |
+| Cups | Water | Feelings, relationships | Cups, streams, the sea, fish | Hearts |
+| Swords | Air | Thoughts, decisions, words | Bare blades, clouds, wind, birds, butterflies | Spades |
+| Pentacles | Earth | Money, body, work, what has value | Star-marked coins, gardens, grapes, bulls | Diamonds |
 
 Other decks rename them — Rods or Staves for Wands, Coins or Disks for Pentacles. Same families. You may also read that Wands are Air and Swords are Fire: a few schools swap the two. I follow the Rider-Waite-Smith pairing, and its drawings back it up, as you’ll see below.
 

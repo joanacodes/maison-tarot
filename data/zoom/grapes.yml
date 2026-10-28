@@ -1,17 +1,13 @@
 # Gros plans du raisin (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
-- card: cu03
-  box: [0.74, 0.47, 0.952, 0.66]
-  en: "x"
-  fr: "x"
 - card: pe09
-  box: [0.73, 0.37, 0.95, 0.54]
-  en: "x"
-  fr: "x"
-- card: peki
-  box: [0.28, 0.30, 0.62, 0.50]
-  en: "x"
-  fr: "x"
+  box: [0.765, 0.39, 0.945, 0.54]
+  en: "A bunch of red grapes hanging among the vine leaves"
+  fr: "Une grappe de raisin rouge parmi les feuilles de vigne"
 - card: peki
   box: [0.25, 0.60, 0.60, 0.82]
-  en: "x"
-  fr: "x"
+  en: "Vine leaves and bunches of grapes on the King’s dark robe"
+  fr: "Feuilles de vigne et grappes de raisin sur la robe sombre du Roi"
+- card: cu03
+  box: [0.745, 0.48, 0.947, 0.655]
+  en: "The bunch of grapes in the right-hand woman’s lowered hand"
+  fr: "La grappe de raisin dans la main baissée de la femme de droite"

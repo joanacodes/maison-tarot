@@ -49,6 +49,8 @@ gallery:
 
 The sea is water you can’t cross on foot. It has a horizon instead of a far bank, a depth you can’t see, and weather of its own. Ships leave on it and come back from it. **The sea on a card is the big horizon — what lies beyond your sight and beyond your control.**
 
+{{< zoom "sea" "lead" >}}
+
 An everyday example: moving abroad. You can plan the flat, the job, the paperwork. You can’t plan what you’ll feel six months in, looking at the water from the other side.
 
 ## Where it appears in the deck {#where}
@@ -60,6 +62,8 @@ The court of Cups lives by it. The Page of Cups stands in front of waves, a fish
 On the Ten of Swords, flat dark water stretches under a black sky, with a band of yellow light on the horizon. On Judgement, the figures rise from coffins floating on water. And on the Five of Swords, the sea lies behind the two figures walking away.
 
 {{< cards "sw02 pe02 wa02 cupa cuqu cuki sw10 ar20" >}}
+
+{{< zoom "sea" "rest" >}}
 
 ## How to read it {#reading}
 

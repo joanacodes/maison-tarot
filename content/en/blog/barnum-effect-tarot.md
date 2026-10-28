@@ -21,6 +21,8 @@ The classic demonstration is simple. In 1948 the psychologist Bertram Forer gave
 
 You’ve met the effect outside tarot too: the horoscope in a free newspaper, the online quiz that tells you which character you are, the profile a personality test hands back at work. All of them lean on the same kind of sentence.
 
+It isn’t the same thing as [cold reading](/blog/cold-reading-vs-tarot/). Cold reading is something a reader does: watching you, fishing, steering by your nods. The Barnum effect is something the listener does, and it needs nobody watching at all. A printed horoscope has no idea who is reading it, and it still lands.
+
 Barnum statements share a few features:
 
 - *They’re true of almost every adult.* “You give more than you receive.” “There’s someone you haven’t fully forgiven.”
@@ -48,19 +50,19 @@ The third is the reader. A reader who sounds sure of themselves lends weight to 
 
 ## Check one: the silence rule {#silence-rule}
 
-The first check happens before I draw a single card. The person tells me nothing — no question, no context, no situation. Online, I often have nothing more than a pseudonym and a voice.
+The first check happens before I draw a single card. The person tells me nothing — no question, no context, no situation.
 
 This matters for the Barnum effect in a specific way. Vague sentences become convincing when they meet a known story. If you tell me “it’s about my relationship” and I say “there’s something you haven’t said to them yet”, you’ll find the thing — everyone has one. If you’ve told me nothing, I have nothing to tailor the vague sentence to, and the temptation to use one drops.
 
-It also changes how I speak. Without a story to lean on, the only thing I can be specific about is what’s in the cards and what comes up when I look at them. That’s riskier, and it’s the point. I explain the whole rule in [the silence rule](/blog/the-silence-rule/), and how it also guards against [cold reading](/blog/cold-reading-vs-tarot/), its close relative.
+It also changes how I speak. Without a story to lean on, the only thing I can be specific about is what’s in the cards and what comes up when I look at them. That’s riskier, and it’s the point. Why I hold to it, and what it doesn’t protect, is in [the silence rule](/blog/the-silence-rule/).
 
 ## Check two: the notebook {#notebook}
 
 The second check happens on paper. I keep a notebook with two columns: what I said, and what was confirmed. I write the sentence as I say it, before the person reacts, and mark it afterwards.
 
-There’s a third mark I use more than I’d like: *too vague to score*. A sentence like “you’ve been carrying a lot lately” goes there even if the person says yes, because a yes to a vague sentence isn’t a hit. It’s a Barnum statement doing its job.
+Sentence by sentence, there’s a third mark I use more than I’d like: *too vague to score*. A sentence like “you’ve been carrying a lot lately” goes there even if the person says yes, because a yes to a vague sentence isn’t a hit. It’s a Barnum statement doing its job.
 
-Counting this way across the [blind readings I logged](/blog/does-tarot-work-300-readings/), about nine in ten held and about one in ten missed. That’s my own count, made by hand, not a study, and I say so every time I give it.
+Reading by reading, across the [blind readings I logged](/blog/does-tarot-work-300-readings/), about nine in ten held and about one in ten missed. That’s my own count, made by hand, not a study, and I say so every time I give it.
 
 The notebook does two things the memory can’t. It keeps the misses, which memory quietly drops, and it keeps the exact wording, which memory quietly improves. If you want to set one up, [how I keep a reading notebook](/blog/tarot-journal/) walks through it.
 
@@ -86,13 +88,13 @@ In my notes, the Eight of Swords is someone prisoner of themselves while holding
 
 When I catch a vague sentence on its way out of my mouth, I try to push it one step further: not “you feel stuck”, but stuck where, with whom, since when. If nothing more specific comes, I’d rather leave the sentence unsaid.
 
-I ran the same test on my own birth chart when I was testing astrology: a tick if a placement described me in a way I couldn’t have written about anyone else, a cross if it would fit my neighbour. Overall, about 30 to 40% held. That story is in [I tested my birth chart box by box](/blog/i-tested-my-birth-chart/).
+I ran the same test when I was testing astrology: my own birth chart box by box, a tick if a placement described me in a way I couldn’t have written about anyone else, a cross if it would fit my neighbour, then the charts of family, friends and strangers. Overall, about 30 to 40% held; Saturn, Lilith and Chiron, 75 to 90%. That story is in [I tested my birth chart box by box](/blog/i-tested-my-birth-chart/).
 
 ## What the Barnum effect doesn’t explain {#limits}
 
 The Barnum effect explains very well why vague readings feel accurate. It’s worth being just as clear about what it doesn’t cover.
 
-It predicts instant agreement. The very first reading I gave a stranger went the other way. I said it was about a relationship, with an unflattering detail: she hadn’t been very kind to the other person. She said it didn’t resonate; she wasn’t looking for a relationship. Three or four days later she texted me, shocked, because it had all happened, the unkind part included. A Barnum statement gets a yes on the spot. This got a no, and then a fact.
+It predicts instant agreement. The very first reading I gave a stranger went the other way: a relationship, and an unflattering detail about how she treated the other person. She said it didn’t resonate. A few days later she wrote back that it had all happened, the unkind part included. A Barnum statement gets a yes on the spot. This got a no, and then a fact.
 
 That’s one story, and one story proves nothing on its own. I don’t know why the specific hits happen, and I don’t claim to. What I can say is that once the vague sentences are struck, something is left over, at a rate I can state, with misses I name. I wrote about the mechanics in [why tarot readings feel so accurate](/blog/why-tarot-readings-feel-accurate/).
 

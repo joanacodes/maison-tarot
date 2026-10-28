@@ -1,0 +1,9 @@
+# Gros plans des colonnes (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: ar02
+  box: [0.02, 0.055, 0.98, 0.56]
+  en: "Black pillar B, white pillar J, the High Priestess between them"
+  fr: "Colonne noire B, colonne blanche J, la Grande Prêtresse entre les deux"
+- card: ar05
+  box: [0.02, 0.02, 0.98, 0.50]
+  en: "The Hierophant enthroned between two grey pillars with carved capitals"
+  fr: "Le Hiérophante trônant entre deux colonnes grises aux chapiteaux sculptés"

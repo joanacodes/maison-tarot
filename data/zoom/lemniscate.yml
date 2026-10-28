@@ -1,0 +1,13 @@
+# Gros plans de la lemniscate (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: ar01
+  box: [0.30, 0.14, 0.61, 0.34]
+  en: "The lemniscate floating above the Magician’s head"
+  fr: "La lemniscate qui flotte au-dessus de la tête du Magicien"
+- card: ar08
+  box: [0.06, 0.135, 0.37, 0.34]
+  en: "The lemniscate above the woman’s flower-crowned head"
+  fr: "La lemniscate au-dessus de la tête couronnée de fleurs de la femme"
+- card: pe02
+  box: [0.03, 0.26, 0.86, 0.64]
+  en: "A green band looping into an eight around two pentacles"
+  fr: "Un ruban vert qui forme un huit autour de deux pentacles"

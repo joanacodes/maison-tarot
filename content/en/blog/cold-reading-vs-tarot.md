@@ -22,7 +22,7 @@ Picture a woman in her thirties who arrives a little late, phone in hand, with a
 The usual tools are:
 
 - *Observation*: reading the person before the cards.
-- *High-probability statements*: sentences true of most adults — the [Barnum effect](/blog/barnum-effect-tarot/) at work.
+- *High-probability statements*: sentences true of most adults. On their own, that’s the [Barnum effect](/blog/barnum-effect-tarot/), which works even from a printed page; cold reading adds someone watching how you take them.
 - *Fishing*: “I’m getting an older man, a father figure perhaps?” — and waiting.
 - *Following reactions*: a nod means go further, a frown means change direction.
 - *Recasting misses*: “it hasn’t happened yet” or “you’ll understand later”.
@@ -67,9 +67,13 @@ If the reader asked a lot, guessed broadly, and turned every miss into a hit, yo
 
 ## What I do about it in my own readings {#what-i-do}
 
-I take away as many cues as I can. The person tells me nothing. Online, I often have only a pseudonym and a voice. I ask people to keep a poker face, and I compare with them at the end.
+Nobody stops noticing things on command, and I’m no exception. What I can do is take the tools on that list away, one by one.
 
-I write down what I said and what was confirmed, in two columns, and I count. By that count about one reading in ten misses. A miss is a miss: I say so, I write it down, and I don’t draw a card to rescue it.
+- *Observation*: online, I often have only a pseudonym and a voice: no face, no ring, no clothes to read.
+- *Fishing*: I ask nothing before or during the reading. The person tells me nothing, and only speaks once I’ve finished.
+- *Following reactions*: I ask people to keep a poker face, and we compare at the end.
+- *Recasting misses*: about one reading in ten misses, by my own count. A miss is a miss: I say so, I write it down, and I don’t draw a card to rescue it.
+- *Hot reading*: at my events, the people read are drawn at random on the day, so there’s no one to look up beforehand.
 
 The honest limit: silence doesn’t switch off every cue. A voice, a face on a video call, a hesitation still carry information, and I can’t promise I never use them. What the silence does is make the rest checkable. I explain the full set-up on the [method page](/method/).
 
