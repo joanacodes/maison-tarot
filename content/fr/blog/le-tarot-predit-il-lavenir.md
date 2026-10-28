@@ -17,7 +17,7 @@ Oui, parfois : un tirage touche quelque chose qui arrive plus tard, et je l’ai
 
 Honnêtement : de temps en temps, et jamais d’une façon que quiconque puisse promettre.
 
-Le tout premier tirage que j’ai fait pour une inconnue en est un bon exemple. J’ai lu une relation ; elle m’a répondu que ça ne lui parlait pas, qu’elle ne cherchait personne. Trois ou quatre jours plus tard, elle m’écrivait, secouée : tout était arrivé. Je raconte l’histoire en entier dans [mon tout premier tirage](/fr/blog/premier-tirage-tarot/).
+[Le tout premier tirage que j’ai fait pour une inconnue](/fr/blog/premier-tirage-tarot/) en est un bon exemple : elle m’a répondu que ça ne lui parlait pas, et trois ou quatre jours plus tard, elle m’écrivait que tout était arrivé.
 
 Quelque chose dans un tirage peut donc pointer vers la suite. Ce que je ne peux pas faire, c’est vous dire quand, vous garantir que ça arrivera, ou l’affirmer avec la certitude qu’exige une prédiction. Environ un tirage sur dix rate, selon mon propre décompte, et c’est sur le « quand » que je rate le plus. Ce n’est pas une base suffisante pour dire à quelqu’un ce que sera sa vie.
 

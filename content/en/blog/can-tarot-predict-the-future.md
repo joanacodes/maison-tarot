@@ -17,7 +17,7 @@ Sometimes, yes: a reading touches something that happens later, and I’ve seen 
 
 Honestly: occasionally, and never in a way anyone can promise.
 
-The first reading I ever did for a stranger is a good example. I read a relationship; she told me it didn’t resonate, she wasn’t looking for one. Three or four days later she texted me, shocked — it had all happened. I tell the whole story in [my first tarot reading](/blog/first-tarot-reading-story/).
+The [first reading I ever did for a stranger](/blog/first-tarot-reading-story/) is a good example: she told me it didn’t resonate, and three or four days later she texted me that it had all happened.
 
 So something in a reading can point ahead. What I can’t do is tell you when, guarantee that it will, or say it with the certainty a prediction needs. About one reading in ten misses, by my own count, and timing is where I miss most. That isn’t a basis for telling anyone what their life will be.
 

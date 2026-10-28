@@ -42,7 +42,7 @@ Say you draw the Eight of Swords: a figure bound and blindfolded, swords all aro
 
 {{< cards "sw08" >}}
 
-My first reading for a stranger had one of those. It came out as a story about a relationship, with a detail neither of us liked: she hadn't been especially kind to the other person. She told me it didn't resonate; she wasn't looking for a relationship. Three or four days later she texted me, shocked. Everything had happened, that part included. I'd never have made up that detail to please a stranger. [The whole story](/blog/first-tarot-reading-story/) has its own page.
+My [first reading for a stranger](/blog/first-tarot-reading-story/) had one of those: a detail neither of us liked, that she hadn't been especially kind to the other person. She said it didn't resonate, and a few days later wrote that everything had happened, that part included. I'd never have made up that detail to please a stranger.
 
 ## The notebook: the only real answer {#the-notebook}
 

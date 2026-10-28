@@ -42,7 +42,7 @@ Imaginons que vous tiriez le Huit d’Épées : une silhouette ligotée, les yeu
 
 {{< cards "sw08" >}}
 
-Mon premier tirage pour une inconnue contenait un détail de ce genre. Il en est sorti une histoire de relation, avec un détail qui ne nous plaisait ni à l’une ni à l’autre : elle n’avait pas été très tendre avec l’autre personne. Elle m’a répondu que ça ne lui parlait pas ; elle ne cherchait pas de relation. Trois ou quatre jours plus tard, elle m’a écrit, secouée. Tout était arrivé, y compris cette partie-là. Jamais je n’aurais inventé ce détail pour faire plaisir à une inconnue. [L’histoire complète](/fr/blog/premier-tirage-tarot/) a sa propre page.
+[Mon premier tirage pour une inconnue](/fr/blog/premier-tirage-tarot/) contenait un détail de ce genre, qui ne nous plaisait ni à l’une ni à l’autre : elle n’avait pas été très tendre avec l’autre personne. Elle m’a répondu que ça ne lui parlait pas, puis m’a écrit quelques jours plus tard que tout était arrivé, y compris cette partie-là. Jamais je n’aurais inventé ce détail pour faire plaisir à une inconnue.
 
 ## Le carnet : la seule vraie réponse {#le-carnet}
 

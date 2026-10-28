@@ -45,7 +45,7 @@ Après le tirage, ouvrez votre carnet. Deux colonnes : ce que j’ai dit, ce qui
 
 Compter, c’est ce qui transforme « je crois que ça marche » en « je sais quand ça marche ». J’ai tenu ce carnet pour mes lectures d’inconnus, et le chiffre d’un sur dix en vient : un décompte à la main, pas une étude. Le format est dans [comment je tiens mon carnet de tirages](/fr/blog/carnet-de-tirage-tarot/).
 
-Si la personne vous écrit quelques jours plus tard pour dire que quelque chose est arrivé, je vous suggère d’ajouter une ligne datée plutôt que de réécrire la première. Ma toute première lecture pour une inconnue s’est passée comme ça. Elle m’a dit que ça ne lui parlait pas : elle ne cherchait pas de relation. Trois ou quatre jours plus tard, elle m’a écrit, secouée : tout était arrivé. Le jour même, c’était un raté. Les deux sont vrais, et un carnet doit pouvoir montrer les deux.
+Si la personne vous écrit quelques jours plus tard pour dire que quelque chose est arrivé, je vous suggère d’ajouter une ligne datée plutôt que de réécrire la première. Ma toute première lecture pour une inconnue s’est passée comme ça : un raté le jour même, puis, trois ou quatre jours plus tard, un message pour me dire que tout était arrivé. Les deux sont vrais, et un carnet doit pouvoir montrer les deux.
 
 ## Pourquoi le dire vous fait progresser {#progresser}
 

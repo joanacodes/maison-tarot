@@ -45,7 +45,7 @@ After the reading, open your notebook. Two columns: what I said, what was confir
 
 Counting is what turns “I think this works” into “I know when it works”. I kept that notebook for my readings for strangers, and the one-in-ten figure comes from it: a manual tally, not a study. The format is in [how I keep a reading notebook](/blog/tarot-journal/).
 
-If the person writes days later to say something did happen, my suggestion is to add a new line with the date rather than rewrite the first. My very first reading for a stranger went that way. She told me it didn’t resonate: she wasn’t looking for a relationship. Three or four days later she texted, shocked, to say all of it had happened. On the day, it was a miss. Both things are true, and a notebook should be able to show both.
+If the person writes days later to say something did happen, my suggestion is to add a new line with the date rather than rewrite the first. My very first reading for a stranger went that way: a miss on the day, and three or four days later a text to say all of it had happened. Both things are true, and a notebook should be able to show both.
 
 ## Why saying it makes you better {#why-it-helps}
 
