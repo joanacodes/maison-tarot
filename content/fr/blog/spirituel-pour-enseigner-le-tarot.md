@@ -57,7 +57,7 @@ Si vous pensez à enseigner, voici la liste à laquelle je me confronte moi-mêm
 2. Un carnet de vos propres lectures : ce que vous avez dit, ce qui a été confirmé. Environ une lecture sur dix a raté chez moi, d’après mon propre décompte, et je le dis à chaque élève.
 3. Une liste des sujets que vous laissez de côté — santé, mort, grossesse, procès en cours, décisions d’argent, envoûtements, personnes absentes — et la gentillesse d’expliquer pourquoi.
 4. Le consentement. Demandez avant de lire quelqu’un, et apprenez à vos élèves à demander aussi.
-5. Trois mots que vous savez prononcer sans gêne : « Je ne sais pas. »
+5. Quatre petits mots que vous savez prononcer sans gêne : « Je ne sais pas. »
 
 Rien dans cette liste ne demande ce que vous croyez. Elle demande comment vous travaillez.
 

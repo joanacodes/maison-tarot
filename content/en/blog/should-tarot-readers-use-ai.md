@@ -22,7 +22,7 @@ As a reference, it’s patient and awake at any hour. Ask why the Magician has a
 Three uses I think are fair:
 
 - Looking up symbols and history: what an object in a picture has meant over time, why a figure holds what it holds. [The symbols in the Library](/library/tarot-symbols/) cover the same ground, and it’s worth checking one against the other.
-- Practising description. Describe a card out loud, its colours, number, element and what the figure is doing, then ask what’s in the picture you didn’t mention. Say you describe the High Priestess: a blue robe falling to the floor like water, a crescent moon at her feet, a scroll half hidden in her lap. Ask what you missed, and you may be pointed to the pomegranates on the veil behind her. It’s a good way to learn to look.
+- Practising description. Describe a card out loud, its colours, number, element and what the figure is doing, then ask what’s in the picture you didn’t mention. Say you describe the High Priestess: a blue robe falling to the floor like water, a crescent moon at her feet, a scroll half hidden in her lap. Ask what you missed, and you may be pointed to the letters B and J on the two pillars beside her. It’s a good way to learn to look, as long as you describe first and ask second.
 - Quizzing yourself. Which element are the Swords? What does a 7 do in a cycle? Repetition, with a partner who never gets bored.
 
 One habit to keep: check what it says against the card in your hand. A fluent answer isn’t always a correct one, and the picture is the authority, not the paragraph.
