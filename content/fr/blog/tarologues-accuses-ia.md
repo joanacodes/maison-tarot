@@ -17,13 +17,13 @@ La plupart des accusations d’IA tombent sur un texte, pas sur une lecture : un
 
 L’accusation, c’est l’idée qu’un tirage, ou une publication, a été produit par un outil d’IA plutôt qu’écrit par la personne qui le signe. On la croise dans les avis, dans les commentaires, en message privé, et presque toujours à propos d’un écrit.
 
-Imaginez un tirage écrit qui arrive le lendemain de votre paiement. Trois cartes, trois paragraphes, un par carte, chacun commençant par ce que la carte « représente ». Un quatrième paragraphe relie le tout autour du mot « cheminement » et se termine par un doux « prenez soin de vous ». Vous le relisez deux fois sans rien ressentir de particulier. Puis vous avez l’impression de l’avoir déjà lu quelque part.
+Imaginez un tirage écrit qui arrive le lendemain de votre paiement. Trois cartes, trois paragraphes, un par carte, chacun commençant par ce que la carte « représente ». Un quatrième paragraphe relie le tout en une histoire et se termine par un doux « prenez soin de vous ». Vous le relisez deux fois sans rien ressentir de particulier. Puis vous avez l’impression de l’avoir déjà lu quelque part.
 
 C’est cette impression qui fait marcher l’accusation. Elle n’a rien d’absurde, et elle mérite d’être prise au sérieux des deux côtés de la table.
 
 ## Pourquoi on soupçonne l’IA {#pourquoi-on-soupconne}
 
-Les tirages par IA ont une forme reconnaissable. Je l’ai décrite en expliquant [comment je teste un tirage par IA](/fr/blog/tirage-tarot-ia/) : chaque carte expliquée seule, dans l’ordre, d’une voix douce qui nuance tout (« cela pourrait suggérer », « vous ressentez peut-être »), puis une histoire cousue par-dessus. Quand on en a vu quelques-uns, on remarque les coutures.
+Parce que le tirage imaginé plus haut a la forme que produisent les outils d’IA, précautions oratoires comprises (« cela pourrait suggérer », « vous ressentez peut-être »). J’ai démonté cette forme en expliquant [comment je teste un tirage par IA](/fr/blog/tirage-tarot-ia/), et quand on a vu quelques tirages de ce genre, on remarque les coutures.
 
 Le hic, c’est que les machines n’ont pas inventé cette forme. C’est celle des livres de significations, et beaucoup de tarologues ont appris dans les mêmes livres et écrivent dans le même ordre. Un tarologue qui récite les significations carte par carte ressemble à un modèle parce que le modèle a appris chez des tarologues qui récitent.
 

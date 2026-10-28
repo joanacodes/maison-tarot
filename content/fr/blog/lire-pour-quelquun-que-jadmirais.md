@@ -11,17 +11,15 @@ imageAlt: "Un thème astral imprimé posé sur une table en bois entre deux tass
 imagePrompt: "A printed birth chart lying on a wooden table between two cups of coffee, a single pencil resting across it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Ce n’était pas un tirage de tarot : c’était le thème astral d’un ami, lu à l’époque où je testais l’astrologie sur mon entourage. Je l’admirais. Son thème était juste, et dur. Ce que j’ai dit à voix haute : « Ta vie a été dure, mais on dirait que tu aimes ça, quelque part. » Il m’a répondu que c’était vrai, d’une certaine façon. La phrase a tenu parce qu’elle nommait franchement la partie dure, lui rendait sa place dans sa propre histoire et lui laissait le droit de ne pas être d’accord. C’est l’essentiel de ce que demande une chose dure dite avec douceur."
 ---
-La phrase la plus prudente que j’aie dite pendant une lecture ne portait pas sur une carte. Elle portait sur le thème astral d’un ami : « Ta vie a été dure, mais on dirait que tu aimes ça, quelque part. » Il m’a répondu que c’était vrai, d’une certaine façon, et c’est la phrase que je confierais à quiconque doit dire quelque chose de dur à une personne qu’il admire.
+La phrase que j’ai dite à voix haute ne portait pas sur une carte. Elle portait sur le thème astral d’un ami : « Ta vie a été dure, mais on dirait que tu aimes ça, quelque part. » Il m’a répondu que c’était vrai, d’une certaine façon, et c’est sa forme que je confierais à quiconque doit dire quelque chose de dur à une personne qu’il admire.
 
 ## C’était son thème, pas des cartes {#son-theme}
 
-Je tiens à être exacte, puisque le titre parle de tirer les cartes : ce jour-là, il n’y avait pas de cartes. C’était de l’astrologie.
+Je tiens à être exacte, puisque le titre dit « lire » : cette lecture-là n’était pas du tarot. C’était de l’astrologie.
 
-Je suis arrivée à l’astrologie pour m’en moquer. J’ai lancé une vidéo, j’ai lu mon propre thème, et il était bien trop précis à mon goût. Alors je l’ai testé, case par case : chaque position, une coche ou une croix. Puis j’ai fait pareil pour ma famille, mes amis, des inconnus — et pour un ami que j’admirais. Toute la méthode et ses chiffres sont dans [comment j’ai testé mon thème astral](/fr/blog/j-ai-teste-mon-theme-astral/) : dans l’ensemble, 30 à 40 % tenaient ; Saturne, Lilith et Chiron tenaient à 75 à 90 %.
+Je suis arrivée à l’astrologie pour m’en moquer. J’ai lancé une vidéo, j’ai lu mon propre thème, et il était trop précis. Alors je l’ai testé, case par case : chaque position, une coche ou une croix. Puis j’ai fait pareil pour ma famille, mes amis, des inconnus — et pour un ami que j’admirais. Toute la méthode et ses chiffres sont dans [comment j’ai testé mon thème astral](/fr/blog/j-ai-teste-mon-theme-astral/) : dans l’ensemble, 30 à 40 % tenaient ; Saturne, Lilith et Chiron tenaient à 75 à 90 %.
 
 Son thème était juste. Il était aussi dur.
-
-{{< todo >}}À ajouter ici (facultatif) : comment cette lecture s’est faite — s’il vous l’a demandée ou si vous l’avez proposée — et quelles positions rendaient son thème si dur, si vous souhaitez le dire.{{< /todo >}}
 
 Je ne vous en dirai pas plus sur lui. L’histoire n’est pas sa vie ; c’est une phrase, et ce qu’elle a fait.
 
@@ -31,7 +29,9 @@ Lire pour quelqu’un qu’on admire fait monter la pression d’une façon qui 
 
 Dans mes notes de cours, l’une des deux raisons habituelles pour lesquelles rien ne vient pendant une lecture, c’est le blocage du lecteur lui-même : trop de pression. Or l’admiration, c’est de la pression. Vous voulez avoir raison devant cette personne. Vous voulez qu’elle pense du bien de vous. Vous ne voulez pas être celle ou celui qui lui fait mal.
 
-Cette pression pousse dans deux directions, et les deux sont des pièges. La première : adoucir la partie dure jusqu’à ce qu’elle ne dise plus rien. « Tu as eu quelques épreuves, comme tout le monde. » La seconde : faire ses preuves en étant brutal, parce que la précision a l’air d’une compétence. « Ton thème est terrible. » L’une vous protège de sa déception, l’autre cherche à l’impressionner. Aucune ne parle de lui.
+Avec lui, la pression avait une forme précise : je l’admirais trop pour vouloir qu’il me croie folle. Je l’ai fait quand même.
+
+Cette pression pousse dans deux directions, et les deux sont des pièges. La première : adoucir la partie dure jusqu’à ce qu’elle ne dise plus rien. « Tu as eu quelques épreuves, comme tout le monde. » La seconde : faire ses preuves en étant brutal, parce que la précision a l’air d’une compétence. « Ton thème est terrible. » L’une vous protège de sa déception, l’autre cherche à l’impressionner. Aucune des deux ne parle de la personne en face.
 
 Imaginez qu’une amie que vous admirez tire le Dix de Bâtons : une silhouette courbée sous dix lourds bâtons, qui marche vers une ville. La version flatteuse : « tu es très travailleuse ». La version brutale : « tu es écrasée ». Les deux viennent vite, et aucune n’est tout à fait juste. Dans mes notes, cette carte demande de garder son énergie créatrice sans se surcharger, et la version à la fois douce et vraie se trouve quelque part entre ces deux phrases.
 
@@ -41,7 +41,7 @@ Imaginez qu’une amie que vous admirez tire le Dix de Bâtons : une silhouette 
 
 La revoici : *Ta vie a été dure, mais on dirait que tu aimes ça, quelque part.*
 
-« Ta vie a été dure. » Pas d’euphémisme, pas d’« épreuves », rien d’arrondi. Le thème était dur, et faire comme si de rien n’était aurait été un mensonge poli. La phrase parle aussi de ce qu’il avait déjà vécu. Elle décrit ; elle ne prédit pas.
+« Ta vie a été dure. » Pas d’euphémisme, pas d’« épreuves », rien d’arrondi. Le thème était dur, et faire comme si de rien n’était aurait été un mensonge poli. La phrase parle aussi de ce qu’il avait vécu jusque-là. Elle décrit ; elle ne prédit pas.
 
 « Mais on dirait. » C’est une impression, présentée comme telle. Pas « ton thème dit », pas « c’est clair ». Elle lui laisse le droit de dire non.
 
@@ -55,11 +55,11 @@ La revoici : *Ta vie a été dure, mais on dirait que tu aimes ça, quelque part
 
 Il m’a répondu que c’était vrai, d’une certaine façon.
 
-Pas un oui franc, et je crois que c’était la réponse la plus honnête qu’il pouvait donner. Une phrase sur toute une vie ne peut être vraie que d’une certaine façon. S’il avait approuvé chaque mot, je m’y serais moins fiée.
+Pas un oui franc, et je crois que c’était la réponse la plus honnête qu’il pouvait donner. Une phrase sur la vie de quelqu’un ne peut être vraie que d’une certaine façon. S’il avait approuvé chaque mot, je m’y serais moins fiée.
 
 C’est aussi un rappel sur la façon de compter. Si vous tenez un carnet de ce que vous avez dit et de ce qui a été confirmé, « d’une certaine façon » reste « d’une certaine façon ». Vous ne le transformez pas en réussite parce que le moment vous a paru important, et vous ne le jetez pas parce qu’il était incomplet.
 
-Ce que sa réponse a préservé, c’est le respect entre nous. La partie dure avait été dite. Personne n’en sortait diminué. Je lis ; vous décidez. C’est lui qui a décidé quelle part de cette phrase lui revenait, et c’était la bonne personne pour en décider.
+C’est ce que protège la forme de la phrase : la partie dure est dite, et personne n’en sort diminué. Je lis ; vous décidez. C’est lui qui a décidé quelle part de cette phrase lui revenait, et c’était la bonne personne pour en décider.
 
 ## Comment dire une chose dure avec douceur {#avec-douceur}
 
@@ -73,7 +73,7 @@ La phrase suit une forme que vous pouvez reprendre, avec un thème, une carte, o
 
 J’en dis davantage, y compris sur les sujets que je ne lis pas du tout, dans [comment annoncer une mauvaise nouvelle pendant un tirage](/fr/blog/mauvaise-nouvelle-tirage/).
 
-Et une limite honnête. Un thème dur n’est pas un verdict sur une personne. Dans mon test, l’astrologie a tenu une fois sur trois environ, et les positions qui tenaient le mieux sont celles qui décrivent une difficulté, ce qui explique peut-être en partie pourquoi elles sonnent si juste. Je garde l’astrologie comme clé de lecture, jamais comme explication de quelqu’un, et jamais comme [excuse](/fr/avertissements/#astrologie).
+Et une limite honnête. Un thème dur n’est pas un verdict sur une personne. Dans mon test, l’astrologie a tenu dans 30 à 40 % des cas, et les positions qui tenaient le mieux sont celles qui décrivent une difficulté, ce qui explique peut-être en partie pourquoi elles sonnent si juste. Je garde l’astrologie comme clé de lecture, jamais comme explication de quelqu’un, et jamais comme [excuse](/fr/avertissements/#astrologie).
 
 ## Avant de lire pour quelqu’un que vous admirez {#avant-de-lire}
 

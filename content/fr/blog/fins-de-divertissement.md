@@ -62,4 +62,4 @@ Si tout cela colle avec la phrase, le tarologue la pense vraiment. Sinon, [les n
 
 ## La voir à l’œuvre {#a-l-oeuvre}
 
-Les événements gratuits de Maison Tarot fonctionnent exactement sur cette phrase : des personnes tirées au sort, rien qu’on me dise avant, les ratés dits à voix haute, et rien à acheter à la fin. [Venez en voir un](/fr/evenements/), et jugez par vous-même de ce qu’il valait.
+Les événements gratuits de Maison Tarot fonctionnent exactement sur cette phrase : des personnes tirées au sort, rien qu’on me dise avant, les ratés dits à voix haute, et rien à payer pour la lecture. [Venez en voir un](/fr/evenements/), et jugez par vous-même de ce qu’il valait.

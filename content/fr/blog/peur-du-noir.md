@@ -9,25 +9,25 @@ tags: ["peur du noir", "travail sur l’ombre", "l’ombre selon Jung", "peurs n
 image: "covers/afraid-of-the-dark.jpg"
 imageAlt: "Un interrupteur sur un mur nu à côté d’une porte entrouverte qui donne sur une pièce sombre"
 imagePrompt: "A light switch on a plain wall beside a half-open door leading into an unlit room, a strip of daylight across the floorboards. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "J’attendais toujours qu’il y ait de la lumière avant d’entrer dans une pièce sombre, et le soir j’allumais partout : je vivais dans la peur sans m’en rendre compte. Aujourd’hui, je marche chez moi lumières éteintes et je laisse les bruits de la nuit tranquilles. Le travail sur l’ombre m’aide à penser ce changement. L’ombre, au sens de Carl Jung, c’est la part de soi qu’on repousse hors de vue, et avoir peur du noir peut revenir à avoir peur de cette pièce cachée. C’est un travail lent, parfois une fraction de seconde, et quand la peur pèse lourd, c’est avec un thérapeute qu’on le fait."
+summary: "J’attendais toujours qu’il y ait de la lumière avant d’entrer dans une pièce sombre, et la nuit j’allumais partout : je vivais dans la peur sans m’en rendre compte. Aujourd’hui, je marche chez moi lumières éteintes et je laisse les bruits de la nuit tranquilles. Le travail sur l’ombre m’aide à penser ce changement. L’ombre, au sens de Carl Jung, c’est la part de soi qu’on repousse hors de vue, et avoir peur du noir peut revenir à avoir peur de cette pièce cachée. C’est un travail lent, parfois une fraction de seconde, et quand la peur pèse lourd, c’est avec un thérapeute qu’on le fait."
 ---
 Avant, j’attendais toujours qu’il y ait de la lumière pour entrer dans une pièce sombre. Aujourd’hui, je marche chez moi lumières éteintes, et les bruits de la nuit ne me font plus sursauter. Le travail sur l’ombre est l’idée qui m’aide à comprendre l’écart entre ces deux phrases.
 
 ## Comment j’entrais dans une pièce sombre {#avant}
 
-La lumière d’abord, moi ensuite. Le soir, j’allumais partout où je passais.
+La lumière d’abord, moi ensuite. La nuit, j’allumais partout où je passais.
 
-Avec le recul, j’appelle ça vivre dans la peur sans s’en rendre compte. C’est ce qui m’intéresse là-dedans. La peur n’avait rien de spectaculaire. C’était un réflexe, une main qui cherche l’interrupteur, répété si souvent qu’il ne ressemblait plus du tout à de la peur.
+Avec le recul, j’appelle ça vivre dans la peur sans s’en rendre compte. C’est cette partie-là qui mérite qu’on s’y arrête. Une peur qu’on ne remarque pas ne ressemble pas à de la peur : elle ressemble à un réflexe, une main qui cherche l’interrupteur, répété si souvent que personne ne songerait à l’appeler autrement.
 
 **Une bonne partie de ce qu’on évite ne ressemble pas à de la peur, mais à une habitude.** Personne n’organise ses soirées autour d’un cri. On les organise autour d’un interrupteur.
 
 ## Comment je traverse le noir maintenant {#maintenant}
 
-Lumières éteintes. Si quelque chose craque dans la nuit, je ne panique pas. Ce que je me dis ressemble à peu près à ça : *bon, si c’était un esprit ou je ne sais quoi, qu’il en soit ainsi.*
+Lumières éteintes. S’il y a un bruit dans la nuit, je ne panique pas. Ce que je me dis ressemble à peu près à ça : *bon, si c’était un esprit ou je ne sais quoi, qu’il en soit ainsi.*
 
-Cette phrase ne dit pas « il n’y a rien », et elle ne dit pas « c’est un esprit ». Elle laisse la question ouverte et cesse d’exiger une réponse. Tout n’est pas une histoire d’esprits ; la plupart des craquements, c’est le bois qui travaille. Et si un bruit était un jour autre chose, la phrase tiendrait toujours : qu’il en soit ainsi.
+Cette phrase ne dit pas « il n’y a rien », et elle ne dit pas « c’est un esprit ». Elle laisse la question ouverte et cesse d’exiger une réponse. Tout n’est pas une histoire d’esprits ; la plupart des bruits de la nuit, c’est un bâtiment qui fait sa vie de bâtiment. Et si un bruit était un jour autre chose, la phrase tiendrait toujours : qu’il en soit ainsi.
 
-{{< todo >}}À ajouter ici : ce qui a changé entre attendre la lumière et marcher dans le noir, si vous pouvez le nommer — une période, un déménagement, une pratique, ou rien de précis.{{< /todo >}}
+Le noir est toujours aussi noir. Ce qui a changé a changé de mon côté de l’interrupteur, et c’est précisément ce côté-là que regarde le travail sur l’ombre.
 
 ## Ce qu’est le travail sur l’ombre {#travail-sur-lombre}
 

@@ -57,7 +57,7 @@ Trois Pentacles sur cinq : cet hiver parle du corps et des choses pratiques. La 
 
 Dans ma grille des couleurs, [le noir](/fr/bibliotheque/couleurs-tarot/noir/), c’est l’absence et le vide, mais aussi vider son esprit, et la réalité : la chose nue, sans vernis. Les semaines sombres peuvent faire cela aussi. Moins d’heures de lumière, moins de projets, un peu plus de vérité.
 
-J’attendais toujours qu’une lumière s’allume avant d’entrer dans une pièce sombre ; allumer partout la nuit, c’était vivre dans la peur sans m’en rendre compte. Aujourd’hui, je traverse mon appartement lumières éteintes, et un bruit dans la nuit ne m’effraie pas. Je raconte ce changement dans [peur du noir](/fr/blog/peur-du-noir/).
+J’attendais toujours qu’une lumière s’allume avant d’entrer dans une pièce sombre ; allumer partout la nuit, c’était vivre dans la peur sans m’en rendre compte. Aujourd’hui, je marche chez moi lumières éteintes, et un bruit dans la nuit ne m’effraie pas. J’ai raconté ce qui a changé, et le lien avec le travail sur l’ombre, dans [peur du noir](/fr/blog/peur-du-noir/).
 
 La limite honnête : un tirage ne soulage pas un moral lourd. Si les semaines sombres vous pèsent chaque année plus que le repos ne peut le réparer, parlez-en à votre médecin ; c’est une question pour une personne, pas pour un jeu de cartes.
 

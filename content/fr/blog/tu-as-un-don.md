@@ -17,8 +17,6 @@ Quand quelqu’un me dit que j’ai un don, je dis merci. Puis je le lui rends, 
 
 « Tu as un don », ou « vous avez un don », se dit sous le coup de la surprise. Quelque chose a touché juste alors que la personne ne s’y attendait pas, et « don » est le mot le plus proche pour dire ce qu’elle ressent. C’est généreux, et je le reçois comme c’est offert.
 
-{{< todo >}}À ajouter ici : une fois où l’on vous a dit « tu as un don », avec vos mots — après quelle lecture, et ce que vous avez répondu.{{< /todo >}}
-
 Si je le rends, ce n’est donc pas parce que la personne a dit une bêtise. C’est parce que le mot est trop petit pour ce qui s’est passé. **Un don, c’est ce qu’une personne a et qu’une autre n’a pas, et ce n’est pas ce qui se passe pendant une lecture.**
 
 ## Ce qu’on entend par « don » {#le-mot}
@@ -27,7 +25,7 @@ Dans le tarot et tout autour, un don désigne une capacité avec laquelle on na�
 
 Je ne crois pas que ce soit le cas. Nous recevons tous des impressions : des images, des sons, des mots, des odeurs, des sensations, des émotions. Certains sont plus aiguisés sur un canal que sur un autre — ils voient plus vite, ou entendent, ou ressentent — mais personne n’est privé de tout l’ensemble.
 
-Lire tient davantage du dessin que du sixième sens. Certains ont plus de facilités, et tout le monde y arrive en pratiquant. Quand j’ai fait essayer mes amis et ma famille, chacun a réussi à lire au premier, au deuxième ou au troisième essai. Si vous vous demandez s’il faut un don pour commencer, j’y ai répondu à part, [avec un test de dix minutes](/fr/blog/faut-il-un-don-pour-lire-les-cartes/).
+Lire tient davantage de l’art que du sixième sens. Certains ont plus de facilités, et tout le monde y arrive en pratiquant. Quand j’ai fait essayer mes amis et ma famille, chacun a réussi à lire au premier, au deuxième ou au troisième essai. Si vous vous demandez s’il faut un don pour commencer, j’y ai répondu à part, [avec un test de dix minutes](/fr/blog/faut-il-un-don-pour-lire-les-cartes/).
 
 ## Ce que j’ai vraiment arrêté de faire {#vouloir-avoir-raison}
 

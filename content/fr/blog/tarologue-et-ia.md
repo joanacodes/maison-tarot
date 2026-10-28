@@ -9,35 +9,33 @@ tags: ["tarologue et IA", "utiliser l’IA pour le tarot", "éthique IA tarot", 
 image: "covers/should-tarot-readers-use-ai.jpg"
 imageAlt: "Un bureau en bois, un ordinateur portable repoussé tout au bord, et devant lui un jeu de tarot, une carte retournée et un carnet ouvert"
 imagePrompt: "A wooden desk with an open laptop pushed to the far edge and, in front of it, a tarot deck, one card face up and an open notebook with a pencil. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Oui, pour certaines choses. Je me sers de l’IA comme d’un dictionnaire : chercher pourquoi un symbole figure sur une carte, vérifier ce que j’ai oublié de regarder dans une image, me faire réviser les nombres et les éléments. Je place la limite à la lecture elle-même. Un modèle a besoin de votre contexte, ne rate jamais et lit les cartes une par une, et la personne est venue pour être lue par vous. Dans la zone grise, publications et administratif, ma règle : ne jamais taper l’histoire intime de quelqu’un dans un outil, et pouvoir expliquer comment on s’en est servi."
+summary: "Oui, pour certaines choses. Je me sers de l’IA comme d’un dictionnaire, pour chercher pourquoi un symbole figure sur une carte, et un tarologue peut aussi s’en servir pour vérifier ce qu’il a oublié de regarder dans une image ou pour réviser les nombres et les éléments. Je place la limite à la lecture elle-même. Un modèle a besoin de votre contexte, ne rate jamais et lit les cartes une par une, et la personne est venue pour être lue par vous. Dans la zone grise, publications et administratif, ma règle : ne jamais taper l’histoire intime de quelqu’un dans un outil, et pouvoir expliquer comment on s’en est servi."
 ---
 Oui, pour certaines choses, et je sais lesquelles. Je me sers de l’IA comme d’un dictionnaire : un endroit où chercher. Je place la limite là où commence la lecture, au moment où ce qui est dessiné sur une carte devient ce que la carte veut dire pour la personne en face de vous.
 
 ## Là où l’IA aide un tarologue {#la-ou-elle-aide}
 
-Comme ouvrage de référence, elle est patiente et disponible à toute heure. Demandez-lui pourquoi la Grande Prêtresse est assise entre deux colonnes, ou pourquoi l’Impératrice a près d’elle un bouclier marqué du signe de Vénus, et vous aurez une réponse claire, sans personne pour soupirer.
+Comme ouvrage de référence, elle est patiente et disponible à toute heure. Demandez-lui pourquoi le Magicien a sur sa table une coupe, une épée, un bâton et un pentacle, et vous aurez une réponse claire, sans personne pour soupirer. Puis confrontez cette réponse à vos propres notes. Dans les miennes, c’est la carte des quatre éléments plus l’éther : il relaie les messages par la baguette qu’il lève.
 
-{{< cards "ar02 ar03" >}}
+{{< cards "ar01 ar02" >}}
 
 Trois usages me paraissent honnêtes :
 
 - Chercher des symboles et de l’histoire : ce qu’un objet dessiné a pu signifier au fil du temps, pourquoi un personnage tient ce qu’il tient. [Les symboles de la Bibliothèque](/fr/bibliotheque/symboles-tarot/) couvrent le même terrain, et ça vaut la peine de comparer les deux.
-- S’entraîner à décrire. Décrivez une carte à voix haute, ses couleurs, son nombre, son élément, ce que fait le personnage, puis demandez ce que vous n’avez pas mentionné. Mettons que vous décriviez la Grande Prêtresse : une robe bleue qui tombe jusqu’au sol comme de l’eau, un croissant de lune à ses pieds, un rouleau à moitié caché sur ses genoux. Demandez ce qui vous a échappé, et on vous montrera peut-être les grenades sur le voile derrière elle. C’est une bonne façon d’apprendre à regarder.
+- S’entraîner à décrire. Décrivez une carte à voix haute, ses couleurs, son nombre, son élément, ce que fait le personnage, puis demandez ce que vous n’avez pas mentionné. Mettons que vous décriviez la Grande Prêtresse : une robe bleue qui tombe jusqu’au sol comme de l’eau, un croissant de lune à ses pieds, un rouleau à moitié caché sur ses genoux. Demandez ce qui vous a échappé, et on vous signalera peut-être les lettres B et J sur les deux colonnes à côté d’elle. C’est une bonne façon d’apprendre à regarder, à condition de décrire d’abord et de demander ensuite.
 - Réviser. Quel élément pour les Épées ? Que fait un 7 dans un cycle ? De la répétition, avec un partenaire qui ne se lasse jamais.
 
 Une habitude à garder : vérifiez ce qu’elle dit avec la carte que vous avez en main. Une réponse fluide n’est pas toujours une réponse juste, et c’est l’image qui fait foi, pas le paragraphe.
 
 ## Où je place la limite {#la-limite}
 
-À la lecture. Ce qui arrive à quelqu’un comme sa lecture doit venir de vous, devant ses cartes. J’ai trois raisons, que je développe dans [tirage par IA ou tarologue humain](/fr/blog/tarot-ia-ou-tarologue/).
+À la lecture. Ce qui arrive à quelqu’un comme sa lecture doit venir de vous, devant ses cartes.
 
-Elle a besoin de contexte. Un modèle ne peut pas travailler à partir de rien : il faut taper quelque chose, et ce que vous tapez devient la lecture. Ma méthode repose sur l’inverse : [la personne ne me dit rien](/fr/blog/regle-du-silence-tarot/) avant que je commence.
+Les raisons sont développées dans [tirage par IA ou tarologue humain](/fr/blog/tarot-ia-ou-tarologue/), et elles tiennent en trois. Un modèle a besoin qu’on lui dise quelque chose, alors que ma méthode repose sur [une personne qui ne me dit rien](/fr/blog/regle-du-silence-tarot/). Il nuance jusqu’à ne plus pouvoir se tromper, alors que je compte mes ratés : environ une lecture sur dix. Et il explique les cartes une par une, alors que ce sont les liens entre elles qui portent l’essentiel d’une lecture. Si vous préférez le constater plutôt que me croire sur parole, [testez l’IA comme je me teste moi-même](/fr/blog/tirage-tarot-ia/).
 
-Elle ne rate jamais. Elle nuance jusqu’à ce que plus rien de ce qu’elle dit ne puisse être faux. Je compte mes lectures, environ une sur dix ne tient pas, et je note chacune. On ne peut pas compter un lecteur qui ne s’engage jamais.
+J’ajouterais une raison qui m’est propre. Dans mes notes de cours, une même image peut se lire différemment d’une personne à l’autre, et d’un jour à l’autre. Un dictionnaire donne la même définition à chaque fois ; c’est son rôle. C’est aussi exactement pour ça qu’il ne peut pas être la lecture.
 
-Elle lit des cartes, pas un tirage. Les liens entre les cartes, le 1 à côté du 10, trois Coupes qui étouffent une Épée, portent l’essentiel d’une lecture, et un modèle traite les cartes une par une.
-
-Certains tarologues la laissent écrire un brouillon, qu’ils corrigent ensuite. Je comprends : une page blanche, c’est dur au bout d’une longue journée. Mais une fois que vous avez lu sa version, vous lisez sa version. Votre première impression, celle qui venait avant de réfléchir, a disparu, et c’est l’essentiel de ce qu’un tarologue apporte. Ce que j’enseigne, c’est l’inverse : dire ce qui monte, avant d’essayer d’avoir raison.
+Certains tarologues laissent l’IA écrire un brouillon, qu’ils corrigent ensuite. Je comprends : une page blanche, c’est dur au bout d’une longue journée. Mais une fois que vous avez lu sa version, vous lisez sa version. Votre première impression, celle qui venait avant de réfléchir, a disparu, et c’est l’essentiel de ce qu’un tarologue apporte. Ce que j’enseigne, c’est l’inverse : dire ce qui monte, avant d’essayer d’avoir raison.
 
 Sous tout cela, il y a une raison plus simple : la personne est venue pour vous. **Si quelqu’un croit que vous avez lu ses cartes, c’est vous qui devez les avoir lues.**
 

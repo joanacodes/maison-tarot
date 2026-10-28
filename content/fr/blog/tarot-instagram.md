@@ -9,15 +9,15 @@ tags: ["tarot Instagram", "tarologue Instagram", "pick a card Instagram", "chois
 image: "covers/tarot-on-instagram.jpg"
 imageAlt: "Un téléphone posé sur un drap froissé, l’écran affichant une grille floue de petites photos carrées, un jeu de tarot à côté"
 imagePrompt: "A phone lying face up on a rumpled bed sheet, its screen showing a grid of small square photos too blurred to make out, a tarot deck beside it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "La tarologue que vous suivez sur Instagram, c’est le fil qui la choisit : de beaux jeux, une belle lumière, une carte du jour, un « pick a card » qui tombe juste. Celle dont vous avez besoin se choisit sur sa méthode, son honnêteté et ses limites : comment elle lit, si elle dit quand elle se trompe, et sur quoi elle ne lit pas. Le contenu est fait pour beaucoup de monde à la fois, et il peut bouleverser ; un « pick a card » m’a fait sangloter. Mais une publication ne vous lit pas. Suivez pour les images, choisissez pour la méthode."
+summary: "La tarologue que vous suivez sur Instagram, c’est le fil qui la choisit : de beaux jeux, une belle lumière, un « pick a card » qui tombe juste. Celle dont vous avez besoin se choisit sur sa méthode, son honnêteté et ses limites : comment elle lit, si elle dit quand elle se trompe, sur quoi elle ne lit pas. Le contenu est fait pour tout le monde à la fois ; il peut vous bouleverser, pas vous lire. Et le fil change sans cesse ce qu’il récompense, quand une méthode reste la même d’un format à l’autre. Suivez pour les images ; choisissez une tarologue sur ce qu’elle dit de sa façon de travailler."
 ---
 La tarologue que vous suivez, c’est un fil d’actualité qui l’a choisie : un beau jeu, une jolie lumière, un « pick a card » qui tombe juste le bon jour. Celle dont vous avez besoin se choisit autrement : sur sa façon de travailler, sur ce qu’elle dit quand elle se trompe, et sur ce qu’elle refuse de lire. Parfois, c’est la même personne. Souvent non, et ce n’est pas grave.
 
 ## La tarologue que vous suivez {#celle-que-vous-suivez}
 
-Instagram récompense ce qui se regarde et se partage. Des jeux étalés dans la lumière du matin. Une carte du jour avec trois lignes en dessous. Des carrousels où l’on choisit l’un des quatre tas avant de faire défiler jusqu’au sien. Des reels avec un mélange, un tirage, et une phrase qui semble écrite pour vous.
+Instagram récompense ce qui se regarde et se partage. Des jeux étalés dans la lumière du matin. Une carte du jour avec trois lignes en dessous. Des carrousels où l’on choisit l’un des quatre tas avant de faire défiler jusqu’au sien. Des Reels avec un mélange, un tirage, et une phrase qui semble écrite pour vous.
 
-C’est du contenu : fait une fois, pour beaucoup de monde en même temps. Il n’y a rien de mal à ça. C’est par là que beaucoup de gens découvrent le tarot aujourd’hui, et une partie de ce contenu est généreuse, soignée, bien faite. Les formats sont proches cousins de ceux de TikTok, et [les mêmes qualités et les mêmes travers](/fr/blog/tarottok-francais/) s’y retrouvent.
+C’est du contenu : fait une fois, pour beaucoup de monde en même temps. Il n’y a rien de mal à ça. C’est par là que beaucoup de gens découvrent le tarot aujourd’hui, et une partie de ce contenu est généreuse, soignée, bien faite. Les formats sont proches cousins de ceux de TikTok, et [les mêmes qualités et les mêmes travers](/fr/blog/tarottok-francais/) s’y retrouvent. Un contenu peut même vous bouleverser ; j’ai écrit à part sur [ce qu’un « pick a card » peut faire, ou pas](/fr/blog/tirage-pick-a-card/). Ce qu’il ne peut pas faire, c’est vous lire : il a été publié avant que vous ne passiez par là.
 
 Ce que le fil récompense, pourtant, c’est la publication sur laquelle on s’arrête : la plus belle, la plus rassurante, la plus fréquente. Rien de tout ça ne dit si la personne derrière sait lire.
 
@@ -27,11 +27,15 @@ Mettons que deux comptes publient l’Étoile le même matin.
 
 Le premier écrit : « L’espoir revient. Tout va s’arranger. » C’est doux, ça se partage, et ça irait à n’importe quelle carte au ciel clair. Le second écrit : « Une femme agenouillée au bord de l’eau, un genou sur la terre, un pied dans le bassin, qui verse deux cruches à la fois. À quoi rendez-vous quelque chose, et que laissez-vous partir ? » La première publication circulera sans doute davantage. La seconde vous montre quelqu’un qui regarde l’image, et c’est l’habitude que vous voulez chez une tarologue.
 
-## Ce qu’un « pick a card » peut faire {#pick-a-card}
+## La plateforme change, la méthode reste {#la-plateforme-change}
 
-Je ne dis pas ça pour le balayer. Une vidéo « pick a card » de Kloee Taylor m’a fait sangloter. Pour la première fois, quelqu’un mettait des mots sur ma situation, et au milieu de la vidéo, la tarologue a pleuré aussi.
+Je connais l’histoire d’Instagram mieux que celle de la plupart des applications, parce que c’est l’exemple dont je me sers pour enseigner les nombres de un à dix. Elle commence comme un 1 : une petite application de géolocalisation appelée Burbn, réduite à la seule fonction dont les gens se servaient, partager une photo. Elle atteint son 9 quand tout le design bascule vers les Reels, et son 10 quand ses premiers utilisateurs ne la reconnaissent plus. [Les pages de numérologie](/fr/bibliotheque/numerologie/) racontent le cycle entier.
 
-Alors oui, un contenu peut bouleverser, et la reconnaissance est réelle. J’ai expliqué [pourquoi les tirages « pick a card » marchent](/fr/blog/tirage-pick-a-card/) comme une chanson : faits pour tout le monde, et parfois exactement pour vous. Ce qu’une publication ne peut pas faire, c’est vous lire. Elle ne savait pas que vous existiez. Elle tendait un miroir à une foule, et vous étiez dans la foule.
+Pour les comptes de tarot, ce cycle a un côté très concret. Ce que le fil récompense ne cesse de bouger : les photos carrées, puis les Stories, puis les Reels. Un compte construit pour plaire au fil doit changer de format chaque fois que le fil change, et ses lectures ont tendance à changer avec lui : plus courtes, plus lumineuses, plus faciles à enregistrer.
+
+**Une tarologue qui a une méthode lit de la même façon dans une légende, un Reel ou un live.**
+
+Ça vous donne un test à faire sans rien réserver. Remontez un an ou deux en arrière sur un compte que vous aimez. Si sa façon de parler d’une carte est restée la même pendant que les formats changeaient autour, la méthode lui appartient. Si chaque nouveau format a apporté une nouvelle façon de parler des cartes, c’est le fil que vous suiviez, pas la tarologue.
 
 ## La tarologue dont vous avez besoin {#celle-dont-vous-avez-besoin}
 

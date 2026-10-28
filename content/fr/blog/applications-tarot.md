@@ -39,7 +39,7 @@ Cinq choses, dans l’ordre où je les vérifierais.
 - Les « lectures » par IA construites sur ce que vous tapez. Vous lui donnez votre situation, elle vous la rend en mots plus chaleureux. J’ai fait le test dans [tirage de tarot par IA : est-ce juste ?](/fr/blog/tirage-tarot-ia/)
 - Les voyants payants intégrés, facturés à la minute ou en crédits, avec un compteur qu’on voit mal.
 
-Rien de tout cela ne veut dire que les personnes qui utilisent ces applications font quelque chose de mal. La plupart en téléchargent une par curiosité, ou parce qu’un vrai jeu leur semblait un trop grand pas. L’idée, c’est de savoir quelles parties de l’application sont là pour vous, et lesquelles sont là pour vous retenir.
+Rien de tout cela ne veut dire que les personnes qui utilisent ces applications font quelque chose de mal. Beaucoup de gens en téléchargent une par curiosité, ou parce qu’un vrai jeu leur semblait un trop grand pas. L’idée, c’est de savoir quelles parties de l’application sont là pour vous, et lesquelles sont là pour vous retenir.
 
 ## Tester une application en dix minutes {#tester-en-dix-minutes}
 
@@ -56,7 +56,5 @@ Mettons que l’application vous donne la Tour.
 Une bonne application vous montre l’éclair, la couronne arrachée du sommet, les deux personnages qui tombent sur un ciel noir, et vous laisse le temps de regarder. Une mauvaise affiche une petite image et le mot « catastrophe ». [La Tour](/fr/bibliotheque/cartes-tarot/la-tour/) dit bien plus que ça : une structure qui ne tient plus, le moment où elle cède, et souvent la place qu’elle libère pour quelque chose de plus solide.
 
 ## Ce que j’utiliserais à la place, surtout {#a-la-place}
-
-{{< todo >}}À ajouter ici : les applications de tarot que j’ai essayées moi-même, et ce que j’en ai pensé{{< /todo >}}
 
 Une application fait ce que font déjà un jeu et un carnet, avec plus de distractions. Une carte par jour, tirée à la main, décrite avec vos mots et relue le soir, c’est [la pratique quotidienne que je conseille](/fr/blog/carte-du-jour-tarot/). Notez-la dans un [carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) et vous aurez une trace que personne d’autre ne détient. Les cartes ne sont pas magiques, vous l’êtes. Si vous voulez apprendre à lire sans écran entre vous et la carte, [commencez ici](/fr/apprendre-le-tarot/).

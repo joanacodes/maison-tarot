@@ -15,23 +15,21 @@ La plupart du temps, lire une carte n’a rien de spectaculaire : un mot ou une 
 
 ## La plupart du temps, ça ressemble à vos propres pensées {#vos-pensees}
 
-Nous recevons tous des impressions : des images, des sons, des mots, des odeurs, des sensations, des émotions. Certaines personnes sont plus fines sur un canal que sur les autres — voir, entendre, ressentir. Quand vous lisez, tout cela arrive comme arrivent les pensées. Pas de clochette, pas de voix particulière. Un mot se présente, et il a exactement votre timbre.
+Dans mes notes de cours, les impressions passent par tous les canaux que nous avons : images, sons, mots, odeurs, sensations, émotions, et certaines personnes sont plus fines sur l’un d’eux. Quand vous lisez, elles arrivent comme arrivent les pensées. Pas de clochette, pas de voix particulière : ce qui vient parle avec votre propre voix, à la vitesse d’une pensée ordinaire.
 
 Imaginez que vous retourniez le Six de Coupes pour une amie : deux enfants dans une cour, l’un tend à l’autre une coupe remplie de fleurs. Dans mes notes, cette carte parle d’enfance, de temps pris pour soi, d’une seconde floraison. Mais le mot qui vous traverse l’esprit, c’est « école ». Pas un sens appris dans un livre, juste un mot. Ce mot-là, c’est à ça que ressemble une lecture.
 
 {{< cards "cu06" >}}
 
-Comme il a votre voix, on le jette aussitôt, et la plupart des débutants ont peur d’inventer. Il existe des façons de [distinguer une lecture d’une invention](/fr/blog/est-ce-que-jinvente-tarot/), et aucune ne se joue sur le moment.
+Comme il a votre voix, on est tenté de le jeter, ou de se soupçonner de l’avoir inventé. Il existe des façons de [distinguer une lecture d’une invention](/fr/blog/est-ce-que-jinvente-tarot/), et aucune ne se joue sur le moment : elles interviennent après coup, quand vous vérifiez.
 
-Les cartes aident, modestement. Elles donnent à vos yeux un endroit où se poser, si bien que vos propres pensées et vos a priori s’écartent le temps que quelque chose d’autre passe. Dans mes notes de 2021, j’écrivais que plus je lisais, plus les choses arrivaient avant même que j’aie mélangé, et que je me servais des cartes surtout parce que les gens voulaient les voir.
+Les cartes aident, modestement. Elles donnent à vos yeux un endroit où se poser, si bien que vos propres pensées et vos a priori s’écartent le temps que quelque chose d’autre passe. Avec la pratique, le mot peut arriver avant même que vous ayez mélangé. Je l’ai noté pendant ma première année complète de lecture, et j’ai remis [cette phrase de mes notes de 2021](/fr/blog/ce-que-je-croyais-du-tarot/) dans son contexte ailleurs.
 
 ## Parfois, c’est une émotion qui n’est pas la vôtre {#pas-la-votre}
 
 À l’autre bout de l’échelle, ce qui arrive n’est pas un mot mais un ressenti. Les sensations et les émotions sont des canaux, elles aussi, et chez certains tarologues ce sont les plus bruyants.
 
 Imaginez que vous lisiez pour quelqu’un et qu’une lourdeur s’installe en vous, qui n’était pas là une minute plus tôt. Rien dans votre propre journée ne l’explique. C’est à ça que l’empathie peut ressembler quand on lit. Dans mes notes de cours, l’empathie, c’est ressentir et comprendre les émotions de l’autre tout en gardant les siennes. Les tarologues très empathiques peuvent finir par ressentir les émotions de la personne, et parfois par les exprimer, comme si elles leur appartenaient.
-
-{{< todo >}}À ajouter ici : ce que vous ressentez dans votre corps quand vous lisez, s’il y a quelque chose — une ou deux phrases, avec vos mots.{{< /todo >}}
 
 C’est là qu’il faut faire attention. Si vous pleurez les larmes de la personne en face, vous ne lisez plus pour elle ; c’est elle qui s’occupe de vous.
 
@@ -45,13 +43,13 @@ C’est là qu’il faut faire attention. Si vous pleurez les larmes de la perso
 4. Si c’est trop, arrêtez. On peut toujours finir un autre jour, et personne n’a droit à un tirage à vos dépens.
 5. Après, reposez-vous. Interpréter demande de l’énergie, et on peut se sentir très fatigué après un tirage ; écoutez votre corps. Il m’arrive de m’arrêter au bout de deux heures de tirages, par prudence. J’ai écrit sur [la fatigue après un tirage](/fr/blog/energie-apres-un-tirage/) et sur ce qui aide.
 
-Rien de tout cela n’est prouvé. C’est mon expérience, et ce que j’ai observé chez les personnes à qui j’ai appris à lire.
+Rien de tout cela n’est prouvé. C’est mon expérience, et l’hypothèse que j’en tire.
 
 ## Le moment où l’on se surprend soi-même {#se-surprendre}
 
-Il y a une troisième sensation, et c’est celle pour laquelle j’enseigne. Quand j’ai fait essayer mes amis et ma famille, il y avait toujours un moment où l’un d’eux disait quelque chose de juste sur la personne en face, et restait saisi par ce qu’il venait de dire.
+Il y a une troisième sensation, et c’est celle pour laquelle j’enseigne. J’ai fait essayer mes amis et ma famille, et le moment qui compte, c’est celui où quelqu’un dit quelque chose de juste sur la personne en face, et reste saisi par ce qu’il vient de dire.
 
-Vous entendez sortir de votre bouche une phrase dont vous ignoriez la provenance. Puis le visage de l’autre change. C’est pour ce moment-là que j’enseigne, et je l’ai raconté dans [ce que j’ai appris en faisant essayer mes amis](/fr/blog/enseigner-le-tarot/).
+De l’intérieur, c’est comme entendre sortir de votre bouche une phrase dont vous ne saviez pas qu’elle était en vous. C’est pour ce moment-là que j’enseigne, et je l’ai raconté dans [ce que j’ai appris en faisant essayer mes amis](/fr/blog/enseigner-le-tarot/).
 
 Si rien de tout cela ne vous est encore arrivé, c’est le point de départ de presque tout le monde. J’ai consacré une page entière à [ce qu’on peut faire quand on ne ressent rien](/fr/blog/je-ne-ressens-rien-tarot/), et la version courte tient en une phrase : dites ce que vous voyez, le reste suivra.
 

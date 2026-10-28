@@ -25,7 +25,7 @@ Mettons qu’un tirage court se termine sur le Trois d’Épées.
 
 {{< cards "sw03" >}}
 
-« Quelqu’un de proche vous cache quelque chose. La lecture approfondie vous dira qui. » La carte a pourtant plus d’une face : le chagrin, oui, et aussi le pacte de sang, un lien scellé dans la douleur. Une lecture complète aurait dit les deux, puis se serait arrêtée.
+« Quelqu’un de proche vous cache quelque chose. La lecture approfondie vous dira qui. » La carte a pourtant plus d’une face : le chagrin, oui, et aussi, dans mes notes, un pacte de sang, une promesse scellée dans la douleur. Une lecture complète aurait dit les deux, puis se serait arrêtée.
 
 Ces modèles plaisent pour des raisons compréhensibles. Une petite somme paraît moins risquée que le prix d’une heure, une réponse écrite se lit en toute discrétion, et un abonnement peut donner le sentiment d’avoir quelqu’un de son côté.
 
@@ -33,11 +33,11 @@ Ces modèles plaisent pour des raisons compréhensibles. Une petite somme paraî
 
 Chaque modèle récompense quelque chose, et jamais la qualité de la réponse.
 
-À la question, le vendeur gagne davantage quand vous en posez davantage. Les réponses courtes, les fins ouvertes et les questions de suivi font de bonnes affaires. Au mois, il gagne le plus avec les personnes qui continuent de payer, qu’elles se servent souvent du service ou qu’elles l’oublient. La lecture approfondie rapporte le plus quand la première lecture s’arrête au moment intéressant.
+À la question, le vendeur gagne davantage quand vous en posez davantage. Les réponses courtes, les fins ouvertes et les questions de suivi font de bonnes affaires. Au mois, il gagne le plus avec les personnes qui continuent de payer, qu’elles se servent souvent du service ou qu’elles l’oublient. La lecture approfondie rapporte le plus quand la première lecture s’arrête au moment intéressant. Et sur une plateforme, le prix se partage : la plateforme garde sa part, et le revenu du tarologue dépend de ce qu’il vend. Ça fait deux parties du côté du volume.
 
 **Dans les trois modèles, le vendeur gagne le plus tant que vous doutez encore.**
 
-Ça ne rend pas malhonnêtes tous ceux qui les utilisent. Beaucoup de tarologues travaillent dans ces modèles parce qu’une plateforme les a organisés ainsi, et y font de leur mieux. Ça veut dire que le cadre tire dans un sens, et qu’il vaut mieux savoir lequel. Quand l’unité est la minute plutôt que la question, la pente est la même ; je l’ai examinée dans [l’affaire des plateformes de voyance surtaxées](/fr/blog/arnaque-plateforme-voyance/). Les numéros surtaxés en 08, eux, sont au moins encadrés : la surtaxe est plafonnée par l’Arcep, le régulateur des télécoms, le site surmafacture.fr vous dit avant d’appeler qui se cache derrière un numéro et combien il coûte, et votre opérateur peut bloquer ces numéros. Un abonnement payé par carte n’a pas ce garde-fou.
+Ça ne rend pas malhonnêtes tous ceux qui les utilisent. Beaucoup de tarologues travaillent dans ces modèles parce qu’une plateforme les a organisés ainsi, et y font de leur mieux. Ça veut dire que le cadre tire dans un sens, et qu’il vaut mieux savoir lequel. Quand l’unité est la minute plutôt que la question, la pente est la même ; je l’ai examinée dans [l’affaire des plateformes de voyance surtaxées](/fr/blog/arnaque-plateforme-voyance/).
 
 ## Vente additionnelle et urgence {#vente-additionnelle-et-urgence}
 
@@ -50,6 +50,8 @@ Ces modèles laissent de la place à quelques gestes bien connus :
 - Une première question offerte, et un prix pour la suite.
 
 À l’extrême, la « suite » se révèle être une malédiction à lever, et c’est [un scénario à part entière](/fr/blog/malediction-voyance-arnaque/).
+
+Il y a aussi un geste plus discret : ce qui se passe après un raté. D’après mon décompte, environ une lecture sur dix ne tient pas, et quand l’une des miennes rate, je le dis et je m’arrête là. Dans un modèle payé à la question, un raté devient aussi une occasion de vendre autre chose : reformuler la question, ajouter une carte, passer à la version approfondie. Un raté est un raté. Il n’a pas besoin d’une suite payante.
 
 Reposer sans cesse la même question en fait partie aussi. La réponse change rarement ; l’inquiétude, si. J’ai écrit sur [ce que les tirages répétés vous font](/fr/blog/combien-de-temps-entre-deux-tirages/), et sur le fait que le plus doux est parfois d’arrêter de demander un moment.
 
