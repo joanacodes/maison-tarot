@@ -19,7 +19,7 @@ Mes amis m’ont offert mon premier jeu ce Noël-là, choisi dans ma liste d’e
 
 Ma première lecture était juste. Je ne m’étais pas formée.
 
-Ce que j’ajouterais aujourd’hui, c’est ce que ça voulait dire, et ce que ça ne voulait pas dire. Ça ne prouvait rien sur moi. Depuis, j’ai fait essayer mes amis et ma famille, et chaque personne que j’ai aidée à lire y est arrivée au premier, au deuxième ou au troisième essai. Lire, c’est comme l’art : certains ont plus de talent, et tout le monde y arrive en pratiquant. La seule pratique, c’est le lâcher-prise.
+Ce que j’ajouterais aujourd’hui, c’est ce que ça voulait dire, et ce que ça ne voulait pas dire. Ça ne prouvait rien sur moi. Depuis, j’ai fait essayer mes amis et ma famille, et chaque personne que j’ai aidée à lire y est arrivée au premier, au deuxième ou au troisième essai. Lire, c’est comme en art : certains ont plus de talent, et tout le monde y arrive en pratiquant. La seule pratique, c’est le lâcher-prise.
 
 **Cette première lecture m’a appris quelque chose sur la lecture, pas sur moi.** C’est pour ça que je rends [le compliment « tu as un don »](/fr/blog/tu-as-un-don/), et que [le parcours pour apprendre](/fr/apprendre-le-tarot/) vous fait lire une carte dès le premier jour au lieu de tester votre talent.
 
