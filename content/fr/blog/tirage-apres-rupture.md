@@ -41,7 +41,7 @@ Posez cinq cartes en ligne, de gauche à droite.
 4. *Ce que cette relation m’a appris sur ce que je veux.* Pas qui avait raison. Ce que vous aimeriez la prochaine fois, et ce que vous n’accepterez plus.
 5. *Un petit pas pour revenir vers moi.* Assez petit pour être fait demain.
 
-Lisez d’abord la ligne comme une seule histoire, puis carte par carte, et notez une ligne par carte dans un carnet.
+Lisez d’abord la ligne comme une seule histoire, puis carte par carte.
 
 ## Un tirage de rupture, carte par carte {#exemple}
 
@@ -69,6 +69,6 @@ Si la peine reste lourde des semaines durant, ou qu’elle atteint votre sommeil
 
 ## Votre premier soir avec ce tirage {#premier-soir}
 
-Choisissez un soir qui n’est pas le premier. Posez les cinq cartes, écrivez une ligne pour chacune, puis refermez le carnet et faites ce que demandait la cinquième carte, le soir même si vous le pouvez.
+Mettez votre téléphone dans une autre pièce. Posez les cinq cartes, écrivez une ligne pour chacune, puis refermez le carnet et faites ce que demandait la cinquième carte, le soir même si vous le pouvez.
 
 Relisez cette page dans un mois : vous verrez le chemin parcouru, la seule chose qu’une rupture vous cache. Les cartes ne sont pas magiques, vous l’êtes, et [un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) est ce qui vous permet de le constater.

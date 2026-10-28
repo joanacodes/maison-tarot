@@ -53,6 +53,8 @@ Sur toute la ligne : deux Feu, deux Terre, un Air. Et [deux 4](/fr/bibliotheque/
 
 Remarquez ce que les cartes n’ont pas dit : laquelle. Dans ce tirage, elles ne le disent jamais.
 
+Cette ligne ne compte que des arcanes mineurs. Quand l’un des grands arcanes qui impressionnent tombe à l’une des cinq places — la Tour, la Mort, le Pendu, le Soleil —, sa page consacre une section à ce qu’il dit au travail, y compris la question inquiète qui vient souvent avec lui. [La Tour au travail](/fr/bibliotheque/cartes-tarot/la-tour/#au-travail) est un bon point de départ si, derrière votre tirage, il y a la peur de perdre votre emploi.
+
 ## Comment décider après le tirage {#decider}
 
 1. Relisez les positions deux et trois. Laquelle vous a fait relâcher les épaules en la lisant ? C’est une information sur vous, pas un verdict du jeu.
@@ -65,4 +67,4 @@ Remarquez ce que les cartes n’ont pas dit : laquelle. Dans ce tirage, elles ne
 
 Notez votre décision à côté du tirage, avec la date. Dans trois mois, relisez les deux : les cartes, et ce que vous avez fait. C’est comme ça qu’on apprend ce que valent ses lectures — non pas en se demandant si les cartes « avaient raison », mais si elles vous ont aidé à voir.
 
-Si vous avez choisi de partir, [un tirage en cinq cartes pour votre premier mois](/fr/blog/tirage-nouveau-travail/) prend le relais. Pour les décisions qui dépassent le travail, [le tarot pour prendre une décision](/fr/blog/decision-tarot/) suit le même principe. Et si vous voulez lire votre propre tirage avec quelqu’un qui connaît les clés de lecture, une [séance individuelle](/fr/sessions/) dure une heure.
+Si vous avez choisi de partir, [un tirage en cinq cartes pour votre premier mois](/fr/blog/tirage-nouveau-travail/) prend le relais. Et si vous voulez lire votre propre tirage avec quelqu’un qui connaît les clés de lecture, une [séance individuelle](/fr/sessions/) dure une heure.

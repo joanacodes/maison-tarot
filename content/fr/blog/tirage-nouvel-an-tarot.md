@@ -41,7 +41,7 @@ Cette carte est la même pour tout le monde : prenez-la comme un sujet de conver
 
 ## Lire une carte du mois sans en faire une promesse {#sans-promesse}
 
-Voici ce que je lis dans un tirage comme celui-ci, et ce que je ne promets pas. Je lis des thèmes : là où votre attention risque d’être tirée, le genre d’effort qu’un mois demande, ce qu’il faut garder à l’œil. Je ne promets ni événements, ni dates, ni résultats. C’est sur le « quand » que je rate le plus, et [pourquoi le tarot est faible sur les dates](/fr/blog/tarot-quand/) raconte ce que j’en ai appris.
+Voici ce que je lis dans un tirage comme celui-ci, et ce que je ne promets pas. Je lis des thèmes : là où votre attention risque d’être tirée, le genre d’effort qu’un mois demande, ce qu’il faut garder à l’œil. Je ne promets ni événements, ni dates, ni résultats. C’est sur le « quand » que les tirages dérapent le plus facilement, et [pourquoi le tarot est faible sur les dates](/fr/blog/tarot-quand/) raconte ce que j’en ai appris.
 
 Le Dix d’Épées en mars ne veut donc pas dire « mars sera une catastrophe ». Il veut dire : « en mars, regardez ce qui se termine, même dans la douleur » — et le dessin a une aube à l’horizon. Le Soleil en août ne garantit pas de vacances ; c’est une invitation à vous montrer.
 

@@ -25,7 +25,7 @@ Certains l’utilisent dans n’importe quel tirage : une significatrice au mili
 
 Il existe quatre façons courantes.
 
-1. *Selon la description.* Le guide de Waite choisit une figure selon l’âge et le sexe, et la famille selon le teint de la personne, des Bâtons pour les plus clairs aux Pentacles pour les plus bruns.
+1. *Selon la description.* Le guide de Waite fait correspondre les figures à l’âge et au sexe de la personne pour le rang, et à la couleur de ses cheveux, de ses yeux et de sa peau pour la famille.
 2. *Selon le signe.* Les signes de Feu reçoivent une figure de Bâtons, les signes d’Eau une figure de Coupes, et ainsi de suite. D’autres prennent plutôt l’arcane majeur associé au signe.
 3. *Au choix.* La personne regarde les figures face visible et choisit celle à laquelle elle s’identifie le plus.
 4. *Selon le sujet.* La carte représente la question plutôt que la personne : le Dix de Pentacles pour une question sur une maison de famille, par exemple.
@@ -34,7 +34,7 @@ Voici ce que donne la première méthode dans une seule famille.
 
 {{< cards "waki wakn waqu wapa" >}}
 
-Le Roi, le Cavalier, la Reine et le Valet de Bâtons. Selon la règle de Waite, les Bâtons vont aux personnes très claires, cheveux blonds ou roux et yeux bleus, et le rang suit l’âge et le sexe : le Roi pour un homme jeune, le Cavalier pour un homme de plus de quarante ans, la Reine pour une femme de plus de quarante ans, le Valet pour une femme plus jeune. Oui, c’est le Cavalier qui est l’homme mûr ; c’est ainsi que Waite l’a écrit.
+Le Roi, le Cavalier, la Reine et le Valet de Bâtons. Selon la règle de Waite, les Bâtons vont aux personnes très claires, aux yeux bleus, et le rang suit l’âge et le sexe : le Roi pour un homme plus jeune, le Cavalier pour un homme de quarante ans ou plus, la Reine pour une femme de plus de quarante ans, le Valet pour une femme plus jeune. Oui, c’est le Cavalier qui est l’homme mûr ; c’est ainsi que Waite l’a écrit.
 
 ## Pourquoi je lis sans {#pourquoi-sans}
 

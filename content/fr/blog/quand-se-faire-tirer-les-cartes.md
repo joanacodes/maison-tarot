@@ -13,8 +13,6 @@ summary: "Le bon moment pour se faire tirer les cartes, c’est quand vous êtes
 ---
 Le bon moment pour se faire tirer les cartes, c’est quand vous êtes assez stable pour entendre quelque chose d’inattendu, et assez libre pour ne pas être d’accord. Dans mes notes, je garde deux bonnes raisons de s’asseoir pour un tirage : le travail sur l’ombre, et un point d’étape sur votre énergie et votre état d’esprit. Les deux marchent mieux les pieds bien sur terre.
 
-Les mauvais moments sont plus faciles à repérer qu’on ne le croit, et j’y viens.
-
 ## Pour faire le point sur votre énergie et votre état d’esprit {#faire-le-point}
 
 Voyez-le comme la révision de la voiture quand rien n’est cassé. Vous ne cherchez pas une catastrophe ; vous regardez où part votre énergie, ce que vous portez, et ce que vous avez cessé de remarquer.
@@ -52,7 +50,7 @@ Si votre vie est plutôt stable, vous pouvez jouer un peu plus avec le tarot. Si
 
 ## Le calendrier compte-t-il ? {#calendrier}
 
-On m’interroge sur la pleine lune, Mercure rétrograde, les anniversaires, la fin octobre. Les occasions ont du bon : elles donnent une raison de s’arrêter et de regarder. Beaucoup de gens franchissent enfin le pas autour de [Samhain](/fr/blog/samhain-tarot/), et c’est une jolie tradition.
+Pleine lune, Mercure rétrograde, anniversaire, fin octobre : beaucoup se demandent si une date vaut mieux qu’une autre. Les occasions ont du bon : elles donnent une raison de s’arrêter et de regarder. Beaucoup de gens franchissent enfin le pas autour de [Samhain](/fr/blog/samhain-tarot/), et c’est une jolie tradition.
 
 Mais la date compte beaucoup moins que l’état dans lequel vous arrivez. Un mardi tranquille vaut mieux qu’une pleine lune angoissée.
 

@@ -21,6 +21,8 @@ La démonstration classique est très simple. En 1948, le psychologue Bertram Fo
 
 Vous croisez cet effet ailleurs qu’au tarot : l’horoscope en dernière page du magazine, le test « Quel personnage de Kaamelott êtes-vous ? », le profil que vous rend un test de personnalité au travail. Tous reposent sur le même genre de phrases.
 
+Ce n’est pas la même chose que la [lecture froide](/fr/blog/lecture-froide-tarot/). La lecture froide, c’est le lecteur qui la pratique : il vous observe, il va à la pêche aux informations, il se guide sur vos hochements de tête. L’effet Barnum, lui, se joue chez la personne qui écoute, et il n’a besoin d’aucun observateur. Un horoscope imprimé ne sait pas qui le lit, et il fait mouche quand même.
+
 Les phrases Barnum ont quelques traits en commun :
 
 - *Elles sont vraies de presque tous les adultes.* « Vous donnez plus que vous ne recevez. » « Il y a quelqu’un que vous n’avez pas tout à fait pardonné. »
@@ -48,19 +50,19 @@ La troisième, c’est le tarologue. Quelqu’un qui parle avec assurance donne 
 
 ## Première vérification : la règle du silence {#regle-du-silence}
 
-La première vérification a lieu avant même que je tire une carte. La personne ne me dit rien : ni question, ni contexte, ni situation. En ligne, je n’ai souvent qu’un pseudo et une voix.
+La première vérification a lieu avant même que je tire une carte. La personne ne me dit rien : ni question, ni contexte, ni situation.
 
 C’est important pour l’effet Barnum, et d’une façon précise. Les phrases vagues deviennent convaincantes quand elles rencontrent une histoire connue. Si vous me dites « c’est au sujet de mon couple » et que je réponds « il y a quelque chose que vous ne lui avez pas encore dit », vous trouverez la chose — tout le monde en a une. Si vous ne m’avez rien dit, je n’ai rien sur quoi ajuster une phrase vague, et la tentation d’en utiliser une diminue.
 
-Ça change aussi ma façon de parler. Sans histoire sur laquelle m’appuyer, je ne peux être précise que sur ce qu’il y a dans les cartes et sur ce qui monte quand je les regarde. C’est plus risqué, et c’est tout l’intérêt. J’explique la règle en entier dans [la règle du silence](/fr/blog/regle-du-silence-tarot/), et comment elle protège aussi de la [lecture froide](/fr/blog/lecture-froide-tarot/), sa proche cousine.
+Ça change aussi ma façon de parler. Sans histoire sur laquelle m’appuyer, je ne peux être précise que sur ce qu’il y a dans les cartes et sur ce qui monte quand je les regarde. C’est plus risqué, et c’est tout l’intérêt. Pourquoi j’y tiens, et ce dont elle ne protège pas, je l’explique dans [la règle du silence](/fr/blog/regle-du-silence-tarot/).
 
 ## Deuxième vérification : le carnet {#carnet}
 
 La deuxième vérification se fait sur papier. Je tiens un carnet à deux colonnes : ce que j’ai dit, et ce qui a été confirmé. J’écris la phrase au moment où je la prononce, avant que la personne réagisse, et je la note après.
 
-Il y a une troisième mention, que j’utilise plus souvent que je ne le voudrais : *trop vague pour compter*. Une phrase comme « vous avez beaucoup porté ces derniers temps » y va même si la personne dit oui, parce qu’un oui à une phrase vague n’est pas une réussite. C’est une phrase Barnum qui fait son travail.
+En plus de « juste » et « raté », les phrases prises une à une reçoivent une troisième mention, plus souvent que je ne le voudrais : *trop vague pour compter*. Une phrase comme « vous avez beaucoup porté ces derniers temps » y va même si la personne dit oui, parce qu’un oui à une phrase vague n’est pas une réussite. C’est une phrase Barnum qui fait son travail.
 
-En comptant ainsi sur [les tirages à l’aveugle que j’ai notés](/fr/blog/le-tarot-marche-t-il-300-tirages/), environ neuf sur dix ont tenu et environ un sur dix a raté. C’est mon propre décompte, fait à la main, pas une étude, et je le précise chaque fois que je le donne.
+Lecture par lecture, sur [les tirages à l’aveugle que j’ai notés](/fr/blog/le-tarot-marche-t-il-300-tirages/), environ neuf sur dix ont tenu et environ un sur dix a raté. C’est mon propre décompte, fait à la main, pas une étude, et je le précise chaque fois que je le donne.
 
 Le carnet fait deux choses dont la mémoire est incapable. Il garde les ratés, que la mémoire laisse tomber sans bruit, et il garde la formulation exacte, que la mémoire embellit sans bruit. Si vous voulez commencer le vôtre, [tenir un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) vous explique comment.
 
@@ -86,13 +88,13 @@ Dans mes notes, le Huit d’Épées, c’est quelqu’un prisonnier de lui-même
 
 Quand je sens une phrase vague sur le point de sortir, j’essaie de la pousser d’un cran : pas « vous vous sentez bloqué », mais bloqué où, avec qui, depuis quand. Si rien de plus précis ne vient, je préfère ne pas la dire.
 
-J’ai appliqué le même test à mon propre thème astral, quand je testais l’astrologie : une coche si une position me décrivait d’une façon que je n’aurais pas pu écrire pour quelqu’un d’autre, une croix si elle allait à mon voisin. Au total, environ 30 à 40 % ont tenu. L’histoire est dans [j’ai testé mon thème astral case par case](/fr/blog/j-ai-teste-mon-theme-astral/).
+J’ai fait la même chose quand j’ai mis l’astrologie à l’épreuve : mon propre thème astral case par case, une coche si une position me décrivait d’une façon que je n’aurais pas pu écrire pour quelqu’un d’autre, une croix si elle allait à mon voisin, puis les thèmes de ma famille, de mes amis et d’inconnus. Au total, environ 30 à 40 % ont tenu ; pour Saturne, Lilith et Chiron, 75 à 90 %. L’histoire est dans [j’ai testé mon thème astral case par case](/fr/blog/j-ai-teste-mon-theme-astral/).
 
 ## Ce que l’effet Barnum n’explique pas {#limites}
 
 L’effet Barnum explique très bien pourquoi un tirage vague paraît juste. Il faut être tout aussi clair sur ce qu’il ne couvre pas.
 
-Il prédit un accord immédiat. Mon tout premier tirage pour une inconnue est allé dans l’autre sens. J’ai parlé d’une relation, avec un détail peu flatteur : elle n’avait pas été très gentille avec l’autre personne. Elle m’a répondu que ça ne lui parlait pas ; elle ne cherchait pas de relation. Trois ou quatre jours plus tard, elle m’a écrit, secouée : tout était arrivé, y compris la partie peu flatteuse. Une phrase Barnum obtient un oui sur-le-champ. Celle-ci a obtenu un non, puis un fait.
+Il prédit un accord immédiat. Mon tout premier tirage pour une inconnue est allé dans l’autre sens. Il y était question d’une relation, avec un détail peu flatteur sur la façon dont elle avait traité l’autre personne, et elle m’a répondu que ça ne lui parlait pas. Quelques jours plus tard, elle m’a réécrit : tout était arrivé, y compris la partie peu flatteuse. Une phrase Barnum obtient un oui sur-le-champ. Celle-ci a obtenu un non, puis un fait.
 
 C’est une histoire, et une histoire seule ne prouve rien. Je ne sais pas pourquoi les réussites précises arrivent, et je ne prétends pas le savoir. Ce que je peux dire, c’est qu’une fois les phrases vagues barrées, il reste quelque chose, à une fréquence que je peux donner, avec des ratés que je nomme. J’ai décrit la mécanique dans [pourquoi les tirages semblent si justes](/fr/blog/pourquoi-les-tirages-sont-justes/).
 

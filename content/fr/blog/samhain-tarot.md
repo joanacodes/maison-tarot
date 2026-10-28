@@ -23,21 +23,19 @@ Imaginez une ferme le dernier soir d’octobre : la récolte est rentrée, les b
 
 ## Le voile s’amincit-il vraiment à Samhain ? {#le-voile}
 
-« Le voile s’amincit » veut dire ceci : à Samhain, la frontière entre notre monde et l’autre — les morts, le peuple des fées, l’Autre Monde des vieux récits irlandais — serait au plus ouvert. Les esprits passent plus facilement, et les vivants les perçoivent mieux.
+« Le voile s’amincit » veut dire ceci : à Samhain, la frontière entre notre monde et l’autre — les morts, le peuple des fées, l’Autre Monde des vieux récits irlandais — serait au plus ouvert. Les esprits passent plus facilement, et les vivants les perçoivent mieux. Pour beaucoup, c’est le cœur de la fête.
 
-Ma position est plus étroite. Je ne me sers pas du tarot pour appeler qui que ce soit, à Samhain ou un autre soir, parce qu’avec les esprits, on ne sait pas qui l’on appelle. Et quand une lecture d’octobre me paraît plus lourde, je regarde d’abord la personne en face de moi : la nuit qui tombe vers 17 h depuis le passage à l’heure d’hiver, l’anniversaire qu’elle n’a pas mentionné. Tout n’est pas une histoire d’esprits. Parfois, c’est un deuil ; parfois, c’est [une porte qui est celle d’un thérapeute, pas la mienne](/fr/avertissements/#therapie).
+Ma position est plus étroite. Je ne me sers pas du tarot pour appeler qui que ce soit, à Samhain ou un autre soir, parce qu’avec les esprits, on ne sait pas qui l’on appelle. Et quand une lecture d’octobre me paraît plus lourde, je regarde d’abord la personne en face de moi : la nuit qui tombe vers 17 h depuis le changement d’heure, l’anniversaire qu’elle n’a pas mentionné, l’année qui la rattrape. Tout n’est pas une histoire d’esprits. Parfois, c’est un deuil ; parfois, c’est [une porte qui est celle d’un thérapeute, pas la mienne](/fr/avertissements/#therapie).
 
-Il y a d’ailleurs un voile dans le jeu : derrière la Grande Prêtresse, entre ses deux colonnes, brodé de grenades. Elle ne le soulève pas ; elle est assise devant, calme, et en sait plus qu’elle n’en dit. Voir [ce que le voile signifie au tarot](/fr/bibliotheque/symboles-tarot/voile/).
+Il y a un voile dans le jeu : derrière la Grande Prêtresse, entre ses deux colonnes, brodé de grenades. Elle ne le soulève pas ; elle est assise devant, calme, et en sait plus qu’elle n’en dit. Un meilleur modèle pour octobre que toute invocation ; voyez [ce que le voile signifie au tarot](/fr/bibliotheque/symboles-tarot/voile/).
 
 ## Pourquoi octobre est le mois où l’on ose demander {#pourquoi-octobre}
 
 Parce que pendant quelques semaines, le tarot est permis : dans les vitrines, sur les tables de fête, partout sur les réseaux. Quelqu’un qui n’aurait jamais demandé un tirage en mars tire une carte à une soirée d’Halloween, et la question qu’il porte depuis le printemps sort avec.
 
-En France, il y a en plus la Toussaint. Les vacances, les chrysanthèmes, la route jusqu’au cimetière de famille : la saison remet les morts dans la conversation, et un deuil resté discret toute l’année remonte à la surface. Ajoutez la fin d’année qui approche et les soirées qui raccourcissent. Si c’est là que vous en êtes, lisez [ce que le tarot peut porter dans un deuil, et quand il faut quelqu’un](/fr/blog/tarot-et-deuil/) avant tout tirage.
+Ajoutez-y la fin d’année qui approche et les soirées qui raccourcissent. En France, il y a en plus la Toussaint. Les vacances, les chrysanthèmes, la route jusqu’au cimetière de famille : la saison remet les morts dans la conversation, et un deuil resté discret toute l’année remonte à la surface. Si c’est là que vous en êtes, lisez [ce que le tarot peut porter dans un deuil, et quand il faut quelqu’un](/fr/blog/tarot-et-deuil/) avant tout tirage.
 
-{{< todo >}}À ajouter ici : ce que vous remarquez en octobre aux événements ou dans vos messages (plus de demandes ? quelles questions reviennent ?){{< /todo >}}
-
-La règle du silence, elle, ne change pas avec le calendrier : gardez votre question pour vous, vous saurez à la fin si elle a eu sa réponse.
+Mis bout à bout, tout cela fait qu’en octobre, il en coûte moins de demander. Mais la règle du silence, elle, ne bouge pas : gardez votre question pour vous, et vous saurez à la fin si elle a eu sa réponse.
 
 ## Un tirage de Samhain en trois cartes {#tirage-samhain}
 
@@ -65,4 +63,4 @@ Au chaud, le Quatre de Bâtons : le 4 est le sol stable après l’effort, le Fe
 
 ## Pour aller plus loin {#et-apres}
 
-Si votre inventaire se tourne vers ceux que vous avez perdus, le [tirage des ancêtres pour Samhain](/fr/blog/tirage-des-ancetres/) est fait pour se souvenir et dire merci, en douceur. Si c’est votre tout premier tirage, pendant une soirée, lisez d’abord [à quoi s’attendre pour un tirage d’Halloween](/fr/blog/tirage-tarot-halloween/). Et pour voir la règle du silence à l’œuvre, venez aux [événements gratuits](/fr/evenements/).
+Si votre inventaire se tourne vers ceux que vous avez perdus, le [tirage des ancêtres pour Samhain](/fr/blog/tirage-des-ancetres/) est fait pour se souvenir et dire merci, en douceur. Si c’est votre tout premier tirage, pendant une soirée, lisez d’abord [à quoi s’attendre pour un tirage d’Halloween](/fr/blog/tirage-tarot-halloween/). Et pour voir la règle du silence à l’œuvre, venez aux [événements gratuits](/fr/evenements/), où je lis pour des inconnus qui gardent leur question pour eux.

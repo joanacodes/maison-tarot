@@ -29,7 +29,7 @@ Quand je lis pour quelqu’un, je lui demande de ne rien me dire : ni question, 
 
 Avec vous-même, pas de silence possible. Vous connaissez la question, vous connaissez l’histoire jusqu’ici, et vous savez ce que vous voulez entendre. Votre tête construit le récit plus vite que vos yeux n’atteignent la carte. En général, ça dérape dans l’une de deux directions : vous lisez votre espoir, ou vous lisez votre peur.
 
-Imaginons que vous attendiez un signe pour quitter votre travail, et que vous tiriez le Huit de Coupes : un personnage en manteau rouge qui s’éloigne de huit coupes empilées, vers les montagnes, de nuit. Vous lirez « pars » en une demi-seconde. C’est peut-être juste. Mais vous auriez lu « pars » dans presque n’importe quelle carte.
+Imaginons que vous attendiez un signe pour quitter la ville où vous vivez, et que vous tiriez le Huit de Coupes : un personnage en manteau rouge qui s’éloigne de huit coupes empilées, vers les montagnes, de nuit. Vous lirez « pars » en une demi-seconde. C’est peut-être juste. Mais vous auriez lu « pars » dans presque n’importe quelle carte.
 
 Imaginons maintenant que vous redoutiez une conversation, et que vous tiriez la Tour : la foudre, la couronne arrachée du sommet d’une tour, deux personnages qui tombent. Vous lirez « catastrophe ». Pourtant, la Tour peut être le soulagement d’une chose enfin dite — une construction fissurée depuis des mois qui s’effondre, pour que vous cessiez de la tenir à bout de bras.
 

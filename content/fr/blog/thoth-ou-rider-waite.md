@@ -17,7 +17,7 @@ Le tarot de Thoth est le jeu conçu par Aleister Crowley et peint par Frieda Har
 
 Le Thoth est un tarot de 78 cartes, comme le Rider-Waite-Smith, construit sur la même charpente : 22 arcanes majeurs, quatre familles, dix cartes numérotées et quatre figures par famille. Il porte le nom de Thot, le dieu égyptien de l’écriture et du savoir.
 
-[Aleister Crowley](/fr/bibliotheque/figures-du-tarot/aleister-crowley/), occultiste anglais passé par la Golden Dawn avant de fonder son propre système, Thelema, en a écrit la symbolique. [Frieda Harris](/fr/bibliotheque/figures-du-tarot/frieda-harris/), peintre, a réalisé les tableaux, en reprenant beaucoup au fil du projet. Il devait durer six mois ; il en a pris environ cinq ans. Le livre de Crowley sur le jeu, *The Book of Thoth*, paraît en 1944 en petit tirage ; les cartes, elles, attendront encore un quart de siècle.
+[Aleister Crowley](/fr/bibliotheque/figures-du-tarot/aleister-crowley/), occultiste anglais passé par la Golden Dawn avant de fonder son propre système, Thelema, en a écrit la symbolique. [Frieda Harris](/fr/bibliotheque/figures-du-tarot/frieda-harris/), peintre, a réalisé les tableaux, en reprenant beaucoup au fil du projet. Le projet devait tenir en quelques mois ; il a pris environ cinq ans. Le livre de Crowley sur le jeu, *The Book of Thoth*, paraît en 1944 en petit tirage ; les cartes, elles, attendront encore un quart de siècle.
 
 Les peintures originales de Harris sont conservées au Warburg Institute, à Londres, qui les a exposées en 2025, pour la première fois en Angleterre depuis sa mort ([la page de l’exposition](https://warburg.sas.ac.uk/news-events/news/tarot-origins-afterlives-opening-soon-warburg-institute), en anglais).
 

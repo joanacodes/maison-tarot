@@ -19,7 +19,7 @@ Oui. Les cartes ne sont pas magiques, vous l’êtes. Le jeu est un support : il
 
 Ma propre pratique en est le meilleur exemple. La plupart de mes lectures pour des inconnus se sont faites en ligne, sur des serveurs Discord et en appels de groupe. Personne d’autre que moi n’a touché mes cartes, et ça n’a pas empêché les lectures de tomber juste. Si c’était le toucher qui reliait une personne aux cartes, ces lectures n’auraient eu aucun appui.
 
-L’inverse vaut aussi. En face à face, on mélange mon jeu, ou on me demande de le faire ; les deux fonctionnent. **Un tirage vient de la personne qui lit, pas des empreintes sur le jeu.**
+L’inverse vaut aussi. Quand c’est quelqu’un d’autre qui mélange, en face à face, le carton reste le même carton après son passage, et le tirage dépend encore d’un regard attentif sur ce qui sort. **Un tirage vient de la personne qui lit, pas des empreintes sur le jeu.**
 
 ## Pourquoi certains gardent leur jeu pour eux {#pourquoi-pas}
 

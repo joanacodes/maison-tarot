@@ -39,7 +39,7 @@ Certains extras sont vendus comme si un débutant ne pouvait pas commencer sans 
 
 Pour quelqu’un qui lit déjà, le paquet est différent : les bases et les habitudes sont là.
 
-Un deuxième jeu est le choix évident, et le bon moment, c’est quand elle sait lire un inconnu à partir d’une seule carte, sans livre. Le tarot de Marseille, la tradition française, est un bon test pour savoir si les clés de lecture sont vraiment acquises : ses cartes numérales sont des arrangements de coupes, d’épées, de deniers et de bâtons, qu’on lit par le nombre et l’élément seuls. Le Thoth, peint par Frieda Harris pour Aleister Crowley, s’adresse à quelqu’un que les symboles passionnent pour eux-mêmes. Demandez d’abord lequel la tente ; les lecteurs ont souvent une liste.
+Un deuxième jeu est le choix évident. Pour quelqu’un qui lit déjà le Rider-Waite-Smith avec aisance, le tarot de Marseille, la tradition française, fait un beau défi : sans scène sur les cartes numérales, on découvre tout ce que le nombre et l’élément portent à eux seuls. Le Thoth, peint par Frieda Harris pour Aleister Crowley, s’adresse à quelqu’un que les symboles passionnent pour eux-mêmes. Demandez d’abord lequel la tente ; les lecteurs ont souvent une liste.
 
 D’autres idées qui marchent : un carnet neuf, parce que l’ancien est toujours plein ; un livre sur l’histoire des cartes plutôt que sur leurs significations ; ou une soirée à l’un des [événements gratuits](/fr/evenements/), où les tirages se font au hasard et où l’on peut s’essayer à lire des inconnus. Collectionner les jeux, c’est un peu comme collectionner l’art ; si elle collectionne, laissez-la choisir. Un jeu qu’on a choisi soi-même sert vraiment.
 

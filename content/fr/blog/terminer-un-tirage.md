@@ -28,7 +28,7 @@ La quatrième question compte plus qu’elle n’en a l’air. Parfois, ce pour 
 
 ## Rendre la décision {#rendre-la-decision}
 
-Ensuite, rendez le tirage à qui il appartient. Un tirage peut montrer quelque chose ; il ne peut pas choisir, et le tarologue qui le laisse décider porte une responsabilité qui n’est pas la sienne. À la fin, je dis toujours une variante de la même phrase : n’agissez pas sur une carte, agissez selon ce que vous ressentez.
+Ensuite, rendez le tirage à qui il appartient. Un tirage peut montrer quelque chose ; il ne peut pas choisir, et le tarologue qui le laisse décider porte une responsabilité qui n’est pas la sienne. Pour conclure, il y a une idée à laquelle je tiens : n’agissez pas sur une carte, agissez selon ce que vous ressentez.
 
 Vous pouvez le formuler ainsi : « Voilà ce que je vois. Ce que vous en faites vous appartient. Si quelque chose ne vous paraît pas juste, faites-vous confiance plutôt qu’aux cartes. » Je lis ; vous décidez.
 

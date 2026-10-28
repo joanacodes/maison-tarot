@@ -23,7 +23,7 @@ Le dessin. Dix épées plantées dans le dos d’un homme, c’est difficile à 
 
 Chaque raison appelle autre chose. Un dessin qui vous déplaît demande un regard plus attentif. Une réputation demande les clés de lecture. Un souvenir demande un peu de distance. L’ennui demande une semaine d’attention.
 
-Si vous ne savez pas trop laquelle est la vôtre, observez ce qui se passe en vous à la seconde où la carte sort : un mouvement de recul devant l’image, une phrase que quelqu’un a dite un jour à son sujet, une date qui remonte, ou un haussement d’épaules. Cette première réaction nomme en général la raison. La plupart des lecteurs ont une carte de ce genre, et elle en dit souvent plus sur la façon dont vous l’avez rencontrée que sur la carte elle-même.
+Si vous ne savez pas laquelle est la vôtre, observez ce qui se passe en vous quand la carte sort : un mouvement de recul devant l’image, une phrase entendue un jour à son sujet, une date, ou un haussement d’épaules. Cette première réaction nomme en général la raison. La plupart des lecteurs ont une carte de ce genre, et elle en dit souvent plus sur la façon dont vous l’avez rencontrée que sur la carte elle-même.
 
 ## Lisez-la par ses clés de lecture, pas par sa réputation {#cles-de-lecture}
 

@@ -15,59 +15,53 @@ Le Cinq de Coupes est la carte la plus lourde du jeu, d’après mes propres not
 
 {{< cards "cu05" >}}
 
-## Le Cinq de Coupes par ses clés de lecture {#cles-de-lecture}
+## Un cinq dans l’Eau : l’épreuve qui passe par le cœur {#cinq-et-eau}
 
-Regardez d’abord le dessin, avant tout sens. Une silhouette en long manteau noir, tête baissée, visage caché. À ses pieds, trois coupes renversées. Derrière elle, hors de sa vue, deux coupes toujours debout. Une rivière traverse la carte ; à droite, un pont de pierre mène à un petit château sur l’autre rive. Le ciel est d’un gris uniforme, et il n’y a personne d’autre.
+Le [cinq](/fr/bibliotheque/numerologie/chiffre-5/), dans mes notes, c’est l’épreuve : le conflit, faire avec ce qui reste, ne pas avoir peur d’échouer. Son conseil est d’être honnête avec soi-même et avec la situation ; son revers, c’est le déni. Dans cette carte, le déni ne porte pas sur la perte — la silhouette sait très bien ce qui s’est renversé. Il porte sur l’autre moitié : ce qui est encore là.
 
-Le nombre, c’est le [cinq](/fr/bibliotheque/numerologie/chiffre-5/) : l’épreuve, le conflit, faire avec ce qui reste. Son revers, c’est le déni, et ici ce n’est pas le déni de la perte. La silhouette sait très bien ce qui s’est renversé. Le déni porte sur l’autre moitié : ce qui est encore là. Le conseil du cinq, c’est d’être honnête avec soi-même et avec la situation, dans ses deux moitiés.
+L’élément, c’est l’Eau : les émotions, les relations, ce qui vous porte quand vous la laissez faire et peut vous noyer quand vous luttez contre elle. L’eau qui bouge, ce sont des émotions fortes, et la rivière, ici, coule : elle passe devant la silhouette et file ailleurs. Le chagrin aussi avance, à son rythme. L’énergie est féminine — tournée vers l’intérieur, à l’abri des regards —, comme la plupart des deuils.
 
-L’élément, c’est l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les émotions, les relations, ce qui vous porte d’un point à un autre quand vous la laissez faire et peut vous noyer quand vous luttez contre elle. L’eau qui bouge, ce sont des émotions fortes, et cette rivière-là coule : elle passe devant la silhouette et file ailleurs. Le chagrin aussi avance, à son rythme.
+En amour, c’est donc une carte qui parle de la façon dont quelqu’un porte une perte, pas de ce qui arrivera ensuite. Un détail du dessin compte : deux coupes sont encore debout derrière la silhouette, là où elle ne peut pas les voir. Les couleurs et Mars en Scorpion sont sur [la page du Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/).
 
-Les couleurs disent le reste avant la carte. Le noir du manteau : l’absence, le vide qu’on fait et, dans ma grille, la réalité — la couleur du deuil, pas de la méchanceté. Le gris du ciel : aucune volonté particulière, l’immobilité d’après, quand on n’a encore envie de rien. Puis tout ce qui n’est pas sombre : l’or des coupes, le bleu de la rivière, le vert des deux rives.
+## Les coupes renversées, d’une histoire à l’autre {#ce-qui-sest-renverse}
 
-Si l’astrologie fait partie de vos clés, la Golden Dawn attribue à cette carte Mars en Scorpion : un sentiment qui descend très profond, et une énergie de combat retournée contre soi. Vous pouvez la laisser de côté ; le reste a tout dit. Chaque clé est détaillée sur [la page du Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/).
+Après une rupture, c’est la place la plus naturelle de cette carte. C’est le chagrin dessiné sans détour : les soirées trop longues, les chansons qu’on zappe, ce réflexe de se tourner vers l’autre pour lui raconter quelque chose. Je ne la lis pas comme un « passez à autre chose ». Le pont est sur l’image, mais la silhouette n’y est pas encore, et rien dans le dessin ne la presse. On traverse quand on est prêt, pas avant.
 
-**La carte montre une perte et, dans la même image, ce qui tient encore — et vous avez le droit de regarder la première un moment avant de vous tourner vers la seconde.**
+Si vous êtes célibataire, le Cinq de Coupes parle le plus souvent de quelque chose que vous portez encore. Une histoire dont vous n’avez pas fini le deuil. Un rendez-vous qui s’annonçait bien et qui n’a mené nulle part. Ou la perte d’une idée : la vie que vous pensiez avoir à cet âge-là. Imaginons quelqu’un qui le tire après des mois de premiers rendez-vous qui ne deviennent jamais des deuxièmes. La carte ne dit pas que l’amour lui est fermé. Elle décrit la lassitude, et elle montre ce qu’il y a derrière : les amis, la famille, sa propre capacité d’aimer, toujours debout.
 
-## Ce que le Cinq de Coupes veut dire en amour : célibataire, en couple, après une rupture {#en-amour}
+En couple, elle décrit souvent une déception à l’intérieur de la relation. Une promesse pas tenue, un projet de déménagement tombé à l’eau, une phrase qui a blessé plus qu’elle ne le voulait. Elle ne dit pas que c’est fini. Regardez de nouveau les coupes : renversées, pas cassées. **Quelque chose s’est répandu ; les coupes, elles, sont intactes.** La carte demande où est partie votre attention, et si les deux coupes debout — ce qui marche encore entre vous — en reçoivent un peu.
 
-Si vous êtes célibataire, le Cinq de Coupes parle le plus souvent de quelque chose que vous portez encore. Une histoire dont vous n’avez pas fini le deuil. Ou la perte d’une idée : la vie que vous pensiez avoir à cet âge-là. Imaginons quelqu’un qui le tire après des mois de premiers rendez-vous qui ne deviennent jamais des deuxièmes. La carte ne dit pas que l’amour lui est fermé. Elle décrit la lassitude, et elle montre ce qu’il y a derrière : les amis, la famille, sa propre capacité d’aimer, toujours debout.
+## « Va-t-il revenir ? », les yeux sur les coupes renversées {#va-t-il-revenir}
 
-En couple, elle décrit souvent une déception à l’intérieur de la relation. Une promesse pas tenue, un projet de déménagement tombé à l’eau, une phrase qui a blessé plus qu’elle ne le voulait. Elle ne dit pas que c’est fini. Regardez de nouveau les coupes : renversées, pas cassées. **Quelque chose s’est répandu ; les coupes, elles, sont intactes.** La carte demande où est partie votre attention — et si les deux coupes debout, ce qui marche encore entre vous, en reçoivent un peu.
+C’est la question que presque tout le monde apporte avec cette carte, et elle se comprend parfaitement. Devant les coupes renversées, on voudrait entendre qu’elles seront de nouveau pleines.
 
-Après une rupture, c’est la place la plus naturelle de cette carte. C’est le chagrin dessiné sans détour : les soirées trop longues, les chansons qu’on zappe. Je ne la lis pas comme un « passez à autre chose ». Le pont est sur l’image, mais la silhouette n’y est pas encore, et rien dans le dessin ne la presse. On traverse quand on est prêt, pas avant.
+Je ne lis pas ce qu’une autre personne ressentira ou fera, et voici pourquoi. Elle n’est pas dans la pièce ; son choix lui appartient, à elle de le faire et de le dire. Et la question garde vos yeux exactement là où sont ceux de la silhouette : sur ce qui s’est répandu. J’en parle plus longuement dans [ce que la question « va-t-il revenir ? » vous fait](/fr/blog/va-t-il-revenir-tarot/).
 
-## Le Cinq de Coupes à l’envers en amour {#a-l-envers}
+Une question plus douce : « Qu’est-ce qui tient encore pour moi, et sur qui puis-je m’appuyer cette semaine ? » Ou : « De quoi ai-je besoin pour vivre ce deuil comme il faut ? » Ces questions-là ont des réponses sur lesquelles agir dès ce soir.
 
-À l’envers, la même carte ralentit ou va trop loin.
+Et si vous vous surprenez à tirer les cartes sur la même perte tous les soirs, rangez le jeu un moment. Le chagrin a plus besoin de personnes que de tirages, et une carte tirée à minuit sur la même question vous dit rarement quelque chose que la précédente n’avait pas dit.
 
-Ralentie dans le bon sens, la silhouette commence à se retourner. Elle remarque les deux coupes : l’amie qui continue d’appeler, le premier dimanche un peu plus léger, un rire qui la prend par surprise. Le chagrin ne s’arrête pas là, mais il se remet en mouvement.
+## L’Étoile, le Huit de Coupes : ce qui peut venir ensuite {#ensuite}
 
-Dans l’autre sens, le regret devient un endroit où l’on habite. Relire les vieux messages tous les soirs, garder le manteau noir pendant des années, comparer chaque nouvelle personne à ce qui s’est renversé. Quand le chagrin s’installe ainsi, un tirage n’est plus le bon outil, et je le dis avec douceur : quelqu’un dont c’est le métier d’écouter vous aidera mieux qu’une carte ([ce que le tarot ne remplace pas](/fr/avertissements/#therapie)).
-
-## Le Cinq de Coupes avec d’autres cartes {#associations}
-
-Trois voisines qui la changent en amour :
+Une carte ne parle jamais seule. Trois voisines qui la changent dans un tirage amoureux :
 
 {{< cards "cu02 cu08 ar17" >}}
 
 À côté du Deux de Coupes, les deux coupes debout forment une paire. Dans un couple, il reste un lien avec lequel réparer ; la carte ne dit pas que la réparation aura lieu, seulement que la matière est là.
 
-À côté du Huit de Coupes, la silhouette s’éloigne de coupes encore debout. Une décision de partir prise après le chagrin, pas dans le feu de la dispute.
+À côté du Huit de Coupes, la silhouette s’éloigne de coupes encore debout. Une décision de partir, prise après le chagrin plutôt qu’à chaud — souvent un départ plus doux que celui qu’on aurait décidé en claquant la porte, le soir de la dispute.
 
-À côté de l’Étoile, on verse de nouveau de l’eau. L’espoir qui revient après une perte, lentement, et de vos propres mains.
+À côté de l’Étoile, on verse de nouveau de l’eau. L’espoir qui revient après une perte, lentement, et de vos propres mains. [L’Étoile en amour](/fr/blog/letoile-tarot-amour/) reprend là où cette carte s’arrête.
 
-## « Va-t-il revenir ? » — et une question plus douce {#question-plus-douce}
+## Le deuil qui reprend sa marche, ou qui s’installe {#a-l-envers}
 
-C’est la question que presque tout le monde apporte avec cette carte, et elle se comprend parfaitement. Devant les coupes renversées, on voudrait entendre qu’elles seront de nouveau pleines.
+À l’envers, la même carte ralentit ou va trop loin.
 
-Je ne lis pas ce qu’une autre personne ressentira ou fera : elle n’est pas dans la pièce, et son choix lui appartient. Et la question garde vos yeux exactement là où sont ceux de la silhouette : sur ce qui s’est répandu. J’en parle plus longuement dans [ce que la question « va-t-il revenir ? » vous fait](/fr/blog/va-t-il-revenir-tarot/).
+Dans le bon sens, la silhouette commence à se retourner. Elle remarque les deux coupes : l’amie qui continue d’appeler, le premier dimanche un peu plus léger, un rire qui la prend par surprise. Le chagrin ne s’arrête pas là, mais il se remet en mouvement.
 
-Une question plus douce : « Qu’est-ce qui tient encore pour moi, et sur qui puis-je m’appuyer cette semaine ? » Ou : « De quoi ai-je besoin pour vivre ce deuil comme il faut ? » Ces questions-là ont des réponses sur lesquelles agir dès ce soir.
+Dans l’autre sens, le regret devient un endroit où l’on habite. Relire les vieux messages tous les soirs, garder le manteau noir pendant des années, comparer chaque nouvelle personne à ce qui s’est renversé. Quand le chagrin s’installe ainsi, un tirage n’est plus le bon outil, et je le dis avec douceur : quelqu’un dont c’est le métier d’écouter vous aidera mieux qu’une carte ([ce que le tarot ne remplace pas](/fr/avertissements/#therapie)).
 
-Et si vous vous surprenez à tirer les cartes sur la même perte tous les soirs, rangez le jeu un moment. Faites une pause avec vos cartes de temps en temps ; le chagrin a plus besoin de personnes que de tirages.
-
-## Et maintenant {#et-maintenant}
+## Un trait au milieu de la page {#deux-colonnes}
 
 Prenez une feuille et tracez un trait au milieu. À gauche, ce qui s’est renversé : nommez-le sans détour. À droite, ce qui tient encore — des personnes, des habitudes, des morceaux de vous. Ne forcez pas la colonne de droite à être plus longue que l’autre. Assurez-vous qu’elle existe.
 

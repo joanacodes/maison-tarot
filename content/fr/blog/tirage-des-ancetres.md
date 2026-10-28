@@ -49,11 +49,11 @@ La gratitude, c’est le Dix de Pentacles : un vieil homme assis près d’une a
 
 ## Ce que ce tirage laisse de côté {#ce-quil-laisse-de-cote}
 
-Il laisse de côté les questions qu’on voudrait le plus poser aux morts : es-tu en paix, m’as-tu pardonné, que dois-je faire maintenant. Elles viennent de l’amour, du manque, et souvent d’une culpabilité qui ne sait pas où aller. Une carte ne peut pas y répondre. Si elle semble le faire, c’est vous qui remplissez la réponse — et sur un sujet aussi tendre, une mauvaise réponse peut vous accompagner des années.
+Ce tirage demande ce que quelqu’un vous a laissé, pas ce qu’il vous dirait aujourd’hui. Il laisse donc de côté les questions qu’on brûle de poser aux morts — es-tu en paix, que dois-je faire, serais-tu fier de moi —, parce qu’aucune carte ne peut connaître leur réponse. Il laisse aussi de côté le comment et le quand d’un décès, passé ou à venir, les maladies de famille, et qui doit hériter de la maison. Cela regarde les médecins, les notaires et les longues conversations de famille ; [pourquoi je m’écarte des questions de santé et de décès](/fr/blog/sante-grossesse-deces-tarot/) explique le reste.
 
-Il laisse aussi de côté le comment et le quand d’un décès, passé ou à venir, les maladies de famille et les querelles d’héritage. Cela regarde les médecins, les notaires et les longues conversations de famille ; [pourquoi je m’écarte des questions de santé et de décès](/fr/blog/sante-grossesse-deces-tarot/) explique le reste.
+Si une question comme « m’as-tu pardonné ? » revient pendant que vous mélangez, confiez-la plutôt à la troisième position. C’est peut-être un poids que vous n’avez plus besoin de porter, et la troisième carte demande justement ce que vous pourriez poser, avec respect.
 
-Ce que vous pouvez faire à la place : écrire la question dans une lettre, et la garder. Raconter à un cousin le souvenir que vous avez. Et si le deuil est lourd plutôt que tendre, commencez par [ce que le tarot peut porter dans un deuil, et quand il faut quelqu’un](/fr/blog/tarot-et-deuil/). Parfois, la bonne porte est [celle d’un psychologue ou d’un thérapeute](/fr/avertissements/#therapie), et y frapper est une gentillesse envers vous-même.
+Et si la perte est récente, ou si le deuil est lourd plutôt que tendre, commencez par [ce que le tarot peut porter dans un deuil, et quand il faut quelqu’un](/fr/blog/tarot-et-deuil/) avant ce tirage. Parfois, la bonne porte est [celle d’un psychologue ou d’un thérapeute](/fr/avertissements/#therapie), et y frapper est une gentillesse envers vous-même.
 
 ## Avant de poser les cartes {#avant}
 

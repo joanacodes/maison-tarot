@@ -35,7 +35,7 @@ Le mercredi, il a trois tirages et y voit moins clair que le lundi. Les cartes n
 
 Il y a un deuxième effet, plus discret. Une fois que vous avez trois réponses, vous choisissez celle que vous préférez. Le tirage devient une carte de restaurant, et vous commandez. À ce stade, vous ne consultez plus rien ; vous cherchez une permission.
 
-Et il y en a un troisième, que j’ai vu chez d’autres et dont j’ai senti l’attraction moi-même : la boucle. Certaines personnes reviennent avec la même question semaine après semaine, presque fébriles, avec une forte dose de doute dans les veines. Ce dont elles ont besoin, ce n’est pas d’un tirage de plus. C’est de respirer, puis de décider, ou de trouver le courage de traverser ce qui leur fait peur. J’en parle dans [pourquoi vous devriez arrêter de tirer les cartes, un moment au moins](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
+Et il y en a un troisième, que j’ai vu chez d’autres : la boucle, quand la même question revient encore et encore, portée par le doute plutôt que par la curiosité. Quand quelqu’un vient me voir dans cet état, en général, je ne lis pas pour cette personne ce jour-là ; j’explique pourquoi dans [pourquoi vous devriez arrêter de tirer les cartes, un moment au moins](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
 ## Combien de temps attendre entre deux tirages sur la même question ? {#combien-de-temps}
 
@@ -47,7 +47,7 @@ Un repère approximatif :
 
 - *Une décision :* redemandez après avoir fait un pas, pas avant.
 - *Une situation* (un travail, une relation, un déménagement) : redemandez quand il y a du nouveau.
-- *La même question plus de deux fois dans le mois :* c’est mon signal d’alarme. Rangez le jeu dans un tiroir pour quelques semaines.
+- *La même question plus de deux fois dans le mois :* voyez-y un signal d’alarme. Rangez le jeu dans un tiroir pour quelques semaines.
 
 Faites une pause avec vos cartes de temps en temps. Elles seront toujours là, et vous les lirez mieux.
 

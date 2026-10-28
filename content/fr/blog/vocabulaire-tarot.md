@@ -13,6 +13,8 @@ summary: "Le vocabulaire du tarot est plus simple qu’il n’en a l’air. Un j
 ---
 Le tarot a son propre vocabulaire, et la plupart des mots sont plus simples qu’ils n’en ont l’air. Voici 25 termes que vous croiserez dans les livres, les vidéos et les tirages, chacun défini en une phrase et illustré par un exemple. Quand j’emploie un mot autrement, ou pas du tout, je le dis après la définition.
 
+Ce sont les mots des cartes et de la lecture elle-même. Des mots comme empathe, starseed ou soi supérieur reviennent souvent dans les mêmes vidéos, mais ce ne sont pas des termes de tarot ; je les définis dans [un lexique à part, celui des mots de la spiritualité](/fr/blog/empathe-starseed-lightworker/).
+
 ## Le jeu : lames, arcanes et familles {#le-jeu}
 
 1. **Jeu de tarot** — un ensemble de 78 cartes : 22 arcanes majeurs et 56 arcanes mineurs. Exemple : le Rider-Waite-Smith suit exactement cette structure, comme la plupart des tarots vendus aujourd’hui.
@@ -44,7 +46,7 @@ Le tarot a son propre vocabulaire, et la plupart des mots sont plus simples qu�
 
 20. **Clé de lecture** — le mot que j’emploie pour une façon de regarder n’importe quelle carte : sa couleur, son élément, son nombre, son énergie féminine ou masculine, son mode astrologique. Exemple : avec la clé des nombres, tout Cinq est un moment de conflit ou d’essai, quelle que soit la famille.
 21. **Élément** — le Feu, l’Eau, l’Air ou la Terre, les quatre qualités liées aux familles et à beaucoup d’arcanes majeurs. Exemple : le Mat est une carte d’Air, légère et tournée vers l’ailleurs.
-22. **Lecture intuitive** — lire à partir des impressions que la carte vous donne, plutôt qu’à partir d’une signification apprise. Exemple : devant le Huit d’Épées, dire « quelqu’un qui attend une permission dont il n’a pas besoin ». [Comment s’y prendre, et vérifier](/fr/blog/lire-le-tarot-a-lintuition/).
+22. **Lecture intuitive** — lire à partir des impressions que la carte vous donne, plutôt qu’à partir d’une signification apprise. Exemple : devant le Huit d’Épées, dire « quelqu’un qui attend une permission dont il n’a pas besoin ».
 23. **Lecture à l’aveugle** — une lecture où la personne ne dit rien d’abord : ni question, ni contexte. Exemple : à mes événements, les personnes sont tirées au sort et ne disent rien jusqu’à la fin. C’est [la règle du silence](/fr/blog/regle-du-silence-tarot/), et c’est ainsi que je lis.
 24. **Lecture à froid** — recueillir des indices dans l’apparence, les réactions et les réponses de quelqu’un, puis les lui rendre comme une révélation. Exemple : « Je sens une perte autour de vous », dit à presque n’importe qui, puis ajusté selon son visage. La lecture à l’aveugle est ce qui la tient à distance.
 25. **Tarologue** — la personne qui lit le tarot. Le mot désigne une pratique, pas un pouvoir : on le devient en lisant. Exemple : une cartomancienne peut tirer un jeu de 32 cartes ; une tarologue tire le tarot.

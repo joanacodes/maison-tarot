@@ -9,7 +9,7 @@ tags: ["à qui tirer les cartes", "s’entraîner au tarot", "tirage gratuit", "
 image: "covers/where-to-find-people-to-read-for.jpg"
 imageAlt: "Un téléphone posé sur une table en bois, une conversation de groupe floue à l’écran, à côté d’un jeu de tarot et d’un carnet"
 imagePrompt: "A phone lying on a wooden table showing a blurred group chat, next to a squared tarot deck and a closed notebook. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Pour trouver des personnes à qui tirer les cartes, cherchez du côté des groupes en ligne où l’on demande des tirages (serveurs Discord, groupes Facebook de tarot), des applications de correspondance où des inconnus demandent un message, des amis prêts à jouer le jeu, et des événements gratuits où l’on s’entraîne ensemble. Où que vous les trouviez, deux conditions ne changent pas : la personne dit oui avant que vous lisiez, et elle ne vous dit rien — ni question, ni contexte — avant de confirmer ou non à la fin. C’est ce qui transforme un service rendu en vrai entraînement."
+summary: "Pour trouver des personnes à qui tirer les cartes, cherchez du côté des groupes en ligne où l’on demande des tirages (serveurs Discord, groupes Facebook de tarot), des applications de correspondance où vous pouvez écrire à des inconnus, des amis prêts à jouer le jeu, et des événements gratuits où l’on s’entraîne ensemble. Où que vous les trouviez, deux conditions ne changent pas : la personne dit oui avant que vous lisiez, et elle ne vous dit rien — ni question, ni contexte — avant de confirmer ou non à la fin. C’est ce qui transforme un service rendu en vrai entraînement."
 ---
 Trouver des personnes à qui tirer les cartes est plus facile qu’on ne le croit : des groupes en ligne où l’on demande des tirages, des inconnus qui attendent un message, des amis prêts à jouer le jeu, des événements gratuits. Où que vous les trouviez, deux conditions ne bougent pas. La personne dit oui avant que vous lisiez, et elle ne vous dit rien tant que vous n’avez pas fini.
 
@@ -23,7 +23,7 @@ Avant de proposer quoi que ce soit, lisez les règles du groupe sur les tirages,
 
 ## Des lettres à des inconnus {#lettres}
 
-L’endroit le plus inattendu où je me suis entraînée, c’est une application de correspondance. J’y écrivais des « lettres » à des inconnus qui avaient demandé un message, et le message venait des cartes.
+L’endroit le plus inattendu où je me suis entraînée, c’est une application de correspondance. J’y envoyais des « lettres » à des inconnus, en demandant d’abord des messages pour les personnes qui en avaient besoin.
 
 L’écrit est une excellente école. Pas de visage à observer, pas de réaction sur laquelle s’ajuster : impossible de se laisser guider par l’expression de l’autre. C’est la règle du silence à l’état pur. Si vous essayez, gardez chaque lettre courte — les cartes tirées, ce que vous y voyez, ce que vous recevez — et demandez une réponse, même de deux lignes. Sans elle, votre carnet n’a pas de deuxième colonne.
 

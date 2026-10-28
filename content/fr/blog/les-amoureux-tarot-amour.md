@@ -15,72 +15,62 @@ Les Amoureux, c’est la lame que tout le monde espère voir sortir dans un tira
 
 {{< cards "ar06" >}}
 
-## Ce que montre la carte des Amoureux, clé par clé {#les-cles}
+## Choisir les yeux ouverts {#yeux-ouverts}
 
-Un homme et une femme se tiennent nus dans un paysage verdoyant, un peu à l’écart l’un de l’autre. Derrière la femme pousse un arbre chargé de fruits, un serpent enroulé autour du tronc ; derrière l’homme, un arbre dont les feuilles sont des flammes. Entre eux, au loin, s’élève une montagne. Au-dessus, un ange ouvre grand les ailes et les bras sous un large soleil.
+Le 6, dans mes notes, c’est « le 3 exalté » : la machine tourne, et elle tourne vite. L’harmonie, l’échange, le moment où l’on peut se reposer. En amour, c’est la relation qui fonctionne — et son risque vient du même endroit. Quand tout roule, on oublie de vérifier qu’on la choisirait encore. Le conseil du 6 : rester calme et humble pendant que tout va bien.
 
-Regardez maintenant où chacun pose les yeux. L’homme regarde la femme. La femme lève les yeux vers l’ange. Personne ne regarde la même chose, et ils ne se touchent pas. **Ce n’est pas le portrait de deux personnes amoureuses ; c’est le portrait de deux personnes qui décident.**
+L’élément, c’est l’Air, la pensée. L’Air a accès à tout en même temps, ce qui en fait le meilleur décideur des quatre : le Feu est trop impulsif, l’Eau trop émotive, la Terre trop têtue. Une carte d’Eau parlerait de sentiments. Celle-ci parle de choisir, les yeux ouverts. Son énergie féminine dit comment : réfléchir d’abord, et aborder les sujets délicats par un détour plutôt que de front.
 
-Le tarot de Marseille le dit plus franchement encore. La lame s’y appelle l’Amoureux, au singulier : un jeune homme debout entre deux femmes, et un petit Cupidon qui le vise de sa flèche. Un choix, dessiné comme un carrefour. « Choisir, c’est renoncer », dit l’adage, et la lame vous le rappelle sans détour.
+Un détail du dessin compte ici. L’homme regarde la femme ; la femme lève les yeux vers l’ange ; ils ne se touchent pas. **Ce n’est pas le portrait de deux personnes amoureuses ; c’est le portrait de deux personnes qui décident.** Le tarot de Marseille, qui l’appelle l’Amoureux, au singulier, le dessine plus franchement encore : un jeune homme debout entre deux femmes. Les Gémeaux et les autres clés de lecture sont sur [la page de la lame](/fr/bibliotheque/cartes-tarot/les-amoureux/).
 
-Ensuite, les clés de lecture.
+## Se parler jusqu’à deux heures du matin {#se-parler}
 
-Le nombre, c’est le 6 : dans mes notes, « le 3 exalté ». Le 3, c’est la machine qui tourne ; le 6, la machine qui tourne vite — la réussite, l’harmonie retrouvée, l’échange, le moment où l’on peut se reposer. Son conseil : rester calme et humble quand tout roule. En amour, le 6, c’est la relation qui fonctionne. Son risque vient du même endroit que sa force : quand tout va bien, on oublie de vérifier qu’on la choisirait encore.
+Célibataire, les Amoureux vous demandent souvent ce que vous voulez vraiment, par opposition à ce qu’on vous a appris à vouloir. Deux personnes qui vous attirent pour des raisons différentes. Deux façons de vivre — vous poser, ou rester libre encore un peu. Parfois, le choix, c’est de rester célibataire, un célibat choisi plutôt que subi, et la lame s’en réjouit autant que de n’importe quel couple.
 
-L’élément, c’est l’[Air](/fr/bibliotheque/quatre-elements/element-air/) : la décision, la pensée, l’analyse, la communication. L’Air a accès à tout en même temps, ce qui en fait le meilleur décideur des quatre — le Feu est trop impulsif, l’Eau trop émotive, la Terre trop têtue. C’est pour ça que les Amoureux surprennent. Une carte d’Eau parlerait de sentiments. Celle-ci parle de choisir, les yeux ouverts.
+Les Gémeaux y ajoutent leur couleur : cette lame arrive souvent dans la phase où l’on se parle. Les messages, les longs vocaux, les premières conversations qui durent jusqu’à deux heures du matin. L’Air adore cette étape, et c’est un vrai plaisir. C’est aussi là qu’on peut tomber amoureux d’une version de quelqu’un faite surtout de mots. Dans mes notes, les Gémeaux, au mieux, c’est le grand reporter ; au pire, le téléphone arabe : l’histoire qui grossit un peu à chaque message, jusqu’à ne plus être tout à fait vraie. Alors la lame vous demande de rencontrer la personne autant que la conversation.
 
-Les couleurs : le jaune du soleil — la joie, l’optimisme, la volonté. Le bleu du ciel, la couleur des émotions. Le vert du sol — la croissance, la vie. Et le violet de la robe de l’ange, qui dans ma grille est la couleur de celui qu’un groupe met en avant pour le mener. L’énergie est féminine : réfléchir avant d’agir, l’imagination, aborder les sujets délicats par la métaphore et le détour.
+S’il y a un béguin, un conseil tiré de mes propres notes : n’allez pas regarder son thème astral. Laissez la magie opérer entre vous deux. J’explique pourquoi dans un article sur [le fait de regarder le thème de quelqu’un sans lui demander](/fr/blog/theme-astral-sans-permission/).
 
-L’astrologie, si elle vous parle, ce sont les [Gémeaux](/fr/bibliotheque/astrologie/gemeaux/) : le signe dont le verbe est « Je pense », celui de la communication et de l’échange. Bien placés, c’est le mot juste qui rapproche deux personnes. Mal placés, c’est la version de l’histoire qui circule de bouche en bouche et n’est plus la vraie. Toutes les clés sont sur [la page de la lame](/fr/bibliotheque/cartes-tarot/les-amoureux/).
+## Un oui qui date de plusieurs années {#un-vieux-oui}
 
-Superposez-les, et vous avez une phrase avant tout livre. Imaginons quelqu’un qui s’assied, ne vous dit rien, et tire cette carte. Une harmonie qui fonctionne, une décision, une conversation, la tête autant que le cœur. Ce que je dirais à voix haute ressemblerait à : « Il y a un choix devant vous dont vous connaissez déjà la réponse, et vous attendez que quelqu’un d’autre la rende officielle. » Puis je demanderais si ça tombe juste, et j’écouterais. Sinon, c’est un raté, et je le noterais comme tel.
+En couple, les Amoureux sont souvent un nouvel engagement. Une décision à prendre — emménager ensemble, se pacser ou se marier, une conversation qu’on contourne depuis des mois — ou une décision prise il y a des années, qui demande à être reprise. Un choix fait une fois n’est pas un choix pour toujours.
 
-## Ce que les Amoureux disent d’une relation : célibataire, en couple, après une rupture {#relation}
+Imaginons un couple qui vit ensemble depuis six ans et qui tire les Amoureux. La lame ne le félicite pas. Elle lui demande si, en se rencontrant aujourd’hui, il choisirait ça, comme ça. Parfois la réponse est un oui sincère, et la soirée finit bien. Parfois, elle ouvre la conversation dont il avait besoin.
 
-Les Amoureux posent un choix sur la table. Lequel, cela dépend de l’endroit où vous vous trouvez.
+Après une rupture, les Amoureux peuvent montrer un choix déjà fait, et l’effort de l’assumer plutôt que de le rejouer. Ou un choix encore ouvert : réessayer, ou non. La lame ne le fera pas pour vous. Elle montre le carrefour et l’ange au-dessus, et vous laisse la marche.
 
-Célibataire, la lame vous demande souvent ce que vous voulez vraiment, par opposition à ce qu’on vous a appris à vouloir. Deux personnes qui vous attirent pour des raisons différentes. Deux façons de vivre — vous poser, ou rester libre encore un peu. Parfois, le choix, c’est d’être célibataire, un célibat choisi plutôt que subi, et la carte s’en réjouit autant que de n’importe quel couple.
+Si quelqu’un s’asseyait en face de moi, ne me disait rien et tirait les Amoureux, je partirais des clés de lecture : une harmonie qui fonctionne, une décision, une conversation, la tête autant que le cœur. Ce que je dirais à voix haute ressemblerait à : « Il y a un choix devant vous dont vous connaissez déjà la réponse, et vous attendez que quelqu’un d’autre la rende officielle. » Puis je demanderais si ça tombe juste, et j’écouterais. Sinon, c’est un raté, et je le noterais comme tel.
 
-Les Gémeaux y ajoutent leur couleur : la lame apparaît souvent dans la phase où l’on se parle. Les messages, les longs vocaux, les premières conversations qui durent jusqu’à deux heures du matin. L’Air adore cette étape, et c’est un vrai plaisir. C’est aussi là qu’on peut tomber amoureux d’une version de quelqu’un faite surtout de mots : la carte vous demande de rencontrer la personne autant que la conversation.
+## « Le bon » ne s’écrit pas d’avance {#le-bon}
 
-S’il y a un béguin, j’ajoute un conseil tiré de mes propres notes : n’allez pas regarder son thème astral. Laissez la magie opérer entre vous deux. J’explique pourquoi dans un article sur [le fait de regarder le thème de quelqu’un sans lui demander](/fr/blog/theme-astral-sans-permission/).
+« Est-ce que c’est le bon ? », ou « la bonne » : c’est la question que cette lame attire plus que toute autre, et je la comprends. Vous avez rencontré quelqu’un, ça compte, et vous aimeriez une garantie avant d’ouvrir davantage votre cœur.
 
-En couple, les Amoureux sont souvent un nouvel engagement. Une décision à prendre — emménager ensemble, se pacser ou se marier, une conversation qu’on contourne depuis des mois — ou une décision prise il y a des années, qui demande à être reprise. Un choix fait une fois n’est pas un choix pour toujours. Imaginons un couple qui vit ensemble depuis six ans et qui tire les Amoureux : la carte ne le félicite pas. Elle lui demande si, en se rencontrant aujourd’hui, il choisirait ça, comme ça. Parfois la réponse est un oui sincère, et la soirée finit bien. Parfois, elle ouvre la conversation dont il avait besoin.
+Je ne lis pas sur cette question, et voici pourquoi. « Le bon » ou « la bonne », c’est un choix transformé en quelque chose d’écrit d’avance, et les Amoureux sont précisément la lame qui dit que l’amour se choisit. L’autre n’est pas non plus dans la pièce ; ce qu’il ressent et ce qu’il décidera lui appartiennent. Une carte qui vous dirait « oui, c’est la bonne personne » vous retirerait une décision, à tous les deux.
 
-Après une rupture, les Amoureux peuvent montrer un choix déjà fait — et l’effort de l’assumer plutôt que de le rejouer. Ou un choix encore ouvert : réessayer, ou non. La carte ne le fera pas pour vous. Elle montre le carrefour et l’ange au-dessus, et vous laisse la marche.
+Une question plus douce : « Qu’est-ce que je choisis quand je choisis cette personne — et le choisirais-je encore aujourd’hui ? » Ou bien : « Comment est-ce que je veux qu’une relation se vive, un jour ordinaire ? » Ces questions ont leurs réponses en vous, et elles font de vous une meilleure compagnie pour l’autre, quel qu’il soit.
 
-## Les Amoureux inversés en amour {#inverses}
+On me demande aussi si les Amoureux sont une carte « oui ». C’est tentant, et ce serait dommage : un oui délivré par un jeu de cartes saute la décision. J’ai écrit sur [pourquoi je réponds autrement aux tirages oui ou non](/fr/blog/tirage-oui-non-tarot/). Je lis ; vous décidez.
 
-Inversés, les Amoureux, c’est le choix évité. Vous restez au milieu parce que décider, c’est perdre quelque chose, et que vous préférez ne rien perdre. Pendant ce temps, le temps décide pour vous : la relation continue par défaut, ou s’éteint par défaut, et personne ne peut dire quand le choix a été fait.
+## Au milieu du carrefour {#carrefour}
+
+Inversés, les Amoureux, c’est le choix évité. Vous restez au milieu parce que décider, c’est perdre quelque chose — « choisir, c’est renoncer », dit l’adage —, et que vous préférez ne rien perdre. Pendant ce temps, ce sont les jours qui décident pour vous : la relation continue par défaut, ou s’éteint par défaut, et personne ne peut dire quand le choix a été fait.
 
 Ce peut être aussi des valeurs qui ne s’alignent plus : deux personnes qui veulent des vies différentes et ne se le sont pas encore dit — l’une rêve de campagne, l’autre de la prochaine promotion. Les Gémeaux inversés, c’est la conversation qui n’a pas lieu, ou qui n’a lieu que dans votre tête, en deux versions.
 
-En excès, c’est choisir encore et encore sans jamais se poser. Chaque nouvelle personne ressemble à la réponse pendant trois semaines. La question des Amoureux inversés se pose facilement et se répond difficilement : qu’est-ce que vous ne choisissez pas, et combien ça vous coûte ?
+En excès, c’est choisir encore et encore sans jamais se poser. Chaque nouvelle personne ressemble à la réponse pendant trois semaines. La question des Amoureux inversés est facile à poser et difficile à trancher : qu’est-ce que vous ne choisissez pas, et combien ça vous coûte ?
 
-## Les Amoureux à côté d’autres cartes {#associations}
+## Un bandeau, une chaîne, une coupe {#voisins}
 
 {{< cards "sw02 ar15 cu02" >}}
 
 À côté du Deux d’Épées — une femme aux yeux bandés, deux lames croisées sur la poitrine —, le choix est refusé. Les deux options sont tenues à égalité pour n’avoir à en prendre aucune. Enlever le bandeau vient avant toute décision.
 
-À côté du Diable, la question devient : ce choix en est-il encore un ? Les deux personnages enchaînés du Diable ressemblent aux Amoureux neuf lames plus loin, et les deux cartes se ramènent à 6. **Le Diable, c’est le 6 qui a cessé de choisir ; les Amoureux, le 6 qui continue de choisir.** J’ai écrit sur [le Diable en amour](/fr/blog/le-diable-tarot-amour/) et ses chaînes lâches.
+À côté du Diable, la question devient : ce choix en est-il encore un ? Les deux personnages enchaînés du Diable font écho aux Amoureux neuf lames plus loin, et le 15 se ramène lui aussi à 6. **Le Diable, c’est le 6 qui a cessé de choisir ; les Amoureux, le 6 qui continue de choisir.** J’ai écrit sur [le Diable en amour](/fr/blog/le-diable-tarot-amour/) et ses chaînes lâches.
 
-À côté du Deux de Coupes, c’est l’échange rendu concret : deux personnes face à face, coupes tendues, un donnant-donnant équilibré. Les Amoureux décident ; le Deux de Coupes, c’est la décision un mardi soir ordinaire.
+À côté du Deux de Coupes, c’est l’échange rendu concret : deux personnes face à face, coupes levées. Les Amoureux décident ; [le Deux de Coupes](/fr/blog/deux-de-coupes-amour/), c’est la décision un mardi soir ordinaire.
 
-## « Est-ce que c’est le bon ? » — et une question plus douce à poser {#le-bon}
+## Quand l’Air sera retombé {#air-retombe}
 
-C’est la question que cette lame attire plus que toute autre, et je la comprends. Vous avez rencontré quelqu’un, ça compte, et vous aimeriez une garantie avant d’ouvrir davantage votre cœur.
+La prochaine fois que les Amoureux sortent, écrivez le choix en haut d’une feuille, en une phrase. Puis deux colonnes : ce que vous choisissez si vous dites oui, et ce que vous choisissez si vous dites non — parce que les deux sont des choix. Relisez la feuille deux jours plus tard, quand l’Air sera retombé.
 
-Je ne lis pas sur cette question, et voici pourquoi. « Le bon » ou « la bonne » transforme un choix en quelque chose d’écrit d’avance, et les Amoureux sont précisément la carte qui dit que l’amour se choisit. L’autre n’est pas non plus dans la pièce ; ce qu’il ressent et ce qu’il décidera lui appartiennent. Une carte qui vous dirait « oui, c’est lui » vous retirerait une décision, à tous les deux.
-
-Une question plus douce : « Qu’est-ce que je choisis quand je choisis cette personne — et le choisirais-je encore aujourd’hui ? » Ou bien : « Comment est-ce que je veux qu’une relation se vive, un jour ordinaire ? » Ces questions ont leurs réponses en vous. Elles font aussi de vous une meilleure compagnie pour l’autre, quel qu’il soit.
-
-On me demande aussi si les Amoureux sont une carte « oui ». C’est tentant, et ce serait dommage : la lame parle d’une décision, et un oui délivré par un jeu de cartes saute la décision. J’ai écrit sur [pourquoi je réponds autrement aux tirages oui ou non](/fr/blog/tirage-oui-non-tarot/), et ce que je propose à la place.
-
-Les cartes ne sont pas magiques, vous l’êtes. L’ange de la carte montre la direction, mais ce sont les personnages du dessin qui marchent.
-
-## Et maintenant {#et-maintenant}
-
-Essayez ceci la prochaine fois que les Amoureux sortent. Prenez une feuille et écrivez le choix en haut, en une phrase. Puis deux colonnes : ce que vous choisissez si vous dites oui, ce que vous choisissez si vous dites non — parce que les deux sont des choix. Relisez-la deux jours plus tard, quand l’Air sera retombé.
-
-Si vous voulez travailler tout un tirage dans le même esprit, mon [tirage amour honnête](/fr/blog/tirage-tarot-amour/) garde chaque position centrée sur vous, pas sur l’autre.
+Si le choix est de taille, j’ai détaillé toute la démarche dans [prendre une décision avec le tarot, sans laisser les cartes choisir](/fr/blog/decision-tarot/).

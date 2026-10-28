@@ -15,35 +15,41 @@ L’As de Pentacles en amour, c’est un début qu’on peut toucher. Pas un feu
 
 {{< cards "peac" >}}
 
-## L’As de Pentacles par ses clés de lecture {#cles-de-lecture}
+## Le un et la Terre, quand on est deux {#le-un-et-la-terre}
 
-Le dessin : une main sort d’un nuage pâle et tend une grande pièce d’or marquée d’une étoile à cinq branches. En dessous s’étend un jardin — des lys blancs, un chemin, et une ouverture en arche taillée dans une haie verte. Par l’arche, des montagnes au loin. Personne dans le jardin pour l’instant. La pièce est offerte ; le chemin est vide. Au tarot de Marseille, la même carte s’appelle l’As de Deniers : une pièce seule, sans jardin.
+Deux clés de lecture font l’essentiel du travail. La première, c’est le nombre : le un, l’initiateur, le diamant brut, le début d’un cycle. Dans mes notes, le conseil du un est l’humilité — se préparer à apprendre — et son revers, d’en manquer, alors qu’on reste élève toute sa vie. En amour, c’est la différence entre un début qu’on explore et un début qu’on croit déjà connaître par cœur.
 
-Le nombre, c’est le [un](/fr/bibliotheque/numerologie/chiffre-1/) : l’initiateur, le diamant brut, le début d’un cycle. Le conseil du un, c’est l’humilité — se préparer à apprendre. Son revers, c’est d’en manquer : croire qu’on sait déjà comment l’histoire va tourner. Dans l’histoire d’Instagram qui me sert de fil rouge pour les nombres, le un, c’est Burbn, la petite application d’avant, quand personne ne savait ce qu’elle deviendrait. C’est l’échelle de cette carte : petite, et pleine de ce qu’elle pourrait devenir.
+La seconde, c’est l’élément : la Terre, pour moi tout ce qui a de la valeur à vos yeux, en argent ou en sentiment, avec une énergie surtout féminine — protectrice, stable, mère de toute croissance. Toutes les richesses ne sont pas en or. Entre deux personnes, la pièce, c’est du temps, de l’attention, un double des clés, un dimanche qu’on garde libre : des choses qui se comptent, et des choses qui tiennent.
 
-L’élément, c’est la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, la stabilité, tout ce qui a de la valeur pour vous, que ce soit de l’argent ou du sentiment. Dans ma lecture, la Terre est surtout une énergie féminine : protectrice, stable, mère de toute croissance. La ténacité, la persévérance, l’endurance — et, les mauvais jours, l’entêtement. Toutes les richesses ne sont pas en or. En amour, la pièce, c’est du temps, de l’attention, un double des clés, un dimanche qu’on garde libre.
-
-Les couleurs : l’or de la pièce — la valeur, gagnée et reconnue. Le vert du jardin et de la haie : la nature, la croissance, la naissance, la vie. Le blanc des lys : l’innocence, des intentions pas encore mises à l’épreuve. Lisez-les avant la carte et vous l’avez déjà : quelque chose qui a de la valeur, qui pousse, et qui est encore neuf.
-
-La Golden Dawn ne donne pas de signe aux As. Elle fait de chacun la racine de son élément : l’As de Pentacles est la « Racine des puissances de la Terre », tout l’élément à l’état de graine. Si cette clé ne vous parle pas, laissez-la ; [la page de l’As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/) a toutes les autres.
+Mettez les deux ensemble, et la carte dit qu’on vous tend quelque chose de petit, de réel, qui vaut la peine d’être gardé. Un seul détail du dessin compte pour l’amour : le chemin du jardin est vide. Au tarot de Marseille, l’As de Deniers n’a d’ailleurs ni jardin ni chemin. Les couleurs et le reste du dessin sont sur [la page de l’As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/).
 
 **La pièce est offerte et le chemin est vide : le début est réel, et la marche vous revient.**
 
-## Ce que l’As de Pentacles veut dire en amour : célibataire, en couple, après une rupture {#en-amour}
+## Ce qu’on vous tend, selon votre histoire {#ce-quon-vous-tend}
+
+Si quelqu’un tirait cette carte pour une question de cœur sans rien me dire avant, la phrase que je dirais à voix haute ressemblerait à ceci : « On vous tend quelque chose de petit et de solide, et vous vous demandez si vous pouvez vous y fier. » Ensuite je me tairais, et je laisserais la personne me dire si ça tombe juste, et de quoi il s’agit. Ce que ça touche dépend de l’endroit où elle en est.
 
 Si vous êtes célibataire, l’As de Pentacles est rarement un coup de foudre. Il montre un sol. Une vie assez stable pour accueillir quelqu’un, une semaine où il reste de la place, les gestes concrets qui rendent les rencontres possibles : accepter le dîner, s’inscrire au cours, rester pour un deuxième verre. Imaginons quelqu’un qui le tire après des mois à attendre l’étincelle. La carte suggère de chercher quelque chose de plus lent — une personne, ou une version de soi, avec qui construire.
 
-En couple, c’est une étape concrète. Emménager ensemble, un bail aux deux noms, un PACS, un projet commun, un potager, une habitude qui fait tenir la semaine. Pas une déclaration : une fondation. C’est aussi un bon moment pour se demander sur quoi la relation repose vraiment, et si vous y mettez tous les deux du poids.
+En couple, c’est une étape concrète. Emménager ensemble, un bail aux deux noms, un PACS, un projet commun, une habitude qui fait tenir la semaine. Pas une déclaration : une fondation. C’est aussi un bon moment pour vérifier sur quoi la relation repose vraiment. Tracez deux colonnes, une pour chacun de vous, et notez ce que vous avez apporté ce mois-ci — pas des sentiments, des choses : des heures, de l’argent, des corvées, des projets. Si une colonne est bien plus longue que l’autre, la pièce est portée par une seule main.
 
-Après une rupture, la première chose qu’on construit, c’est un endroit où se tenir. Votre appartement, ou votre coin à vous ; votre routine ; un week-end qui vous appartient. Ici, l’As de Pentacles n’est pas un nouveau partenaire. C’est le sol sur lequel vous vous tiendrez le jour où vous aurez envie d’en rencontrer un.
+Après une rupture, la première chose qu’on construit, c’est un endroit où se tenir. Votre appartement, ou votre coin à vous ; votre routine ; un week-end qui vous appartient. Ici, l’As n’est pas un nouveau partenaire. C’est le sol sur lequel vous vous tiendrez le jour où vous aurez envie d’en rencontrer un.
 
-## L’As de Pentacles à l’envers en amour {#a-l-envers}
+## La pièce qu’on n’ose pas prendre, ou qu’on serre trop {#a-l-envers}
 
-À l’envers, le même début ralentit ou va trop loin. Ralenti : la pièce est tendue et personne ne la prend. Une belle chose qu’on n’ose pas commencer parce qu’on veut d’abord une garantie ; une relation laissée au stade du « on verra » pendant un an.
+À l’envers, le même début ralentit ou va trop loin. Ralenti : la pièce est tendue et personne ne la prend. Une belle chose qu’on n’ose pas commencer parce qu’on veut d’abord une garantie ; une relation laissée au stade du « on verra » pendant un an, chacun attendant que l’autre referme la main le premier.
 
-Dans l’excès, c’est l’entêtement de la Terre et l’humilité qui manque au un. Serrer la pièce trop fort : la possessivité, un plan sur dix ans établi au troisième rendez-vous, une relation choisie pour le confort et la commodité plutôt que pour la personne. Une structure où l’air ne passe plus.
+Dans l’excès, c’est l’entêtement de la Terre et l’humilité qui manque au un. Serrer la pièce trop fort : la possessivité, un plan sur dix ans établi au troisième rendez-vous, une relation choisie pour le confort plutôt que pour la personne. Mes notes donnent à la Terre un archétype qui va bien à ce versant : le manager de l’artiste, solide, qui travaille dans l’ombre, et qui parfois n’écoute plus parce que sa propre vision « rapporte plus ». Dans un couple, c’est celui ou celle qui a déjà planifié les cinq prochaines années sans demander à l’autre s’il a envie de les vivre.
 
-## L’As de Pentacles avec d’autres cartes {#associations}
+## Une graine n’est pas une garantie {#garantie}
+
+Quand quelque chose paraît enfin solide, c’est naturel de vouloir une garantie. « C’est la bonne personne ? » « Est-ce que ça va durer ? » « Va-t-il me demander en mariage ? » Ces questions viennent souvent de quelqu’un qui a déjà été déçu, et qui aimerait, cette fois, savoir avant de s’investir.
+
+Je ne lis pas l’avenir de deux personnes, parce que la moitié appartient à quelqu’un qui n’est pas dans la pièce, et qu’une carte ne peut pas signer un contrat à sa place. L’As offre une graine, pas une promesse. Certains lisent aussi cette carte comme un partenaire fortuné. Elle ne dit rien du compte en banque de personne, et les décisions d’argent ne font pas partie de ce que je lis ([lire les Pentacles les pieds sur terre](/fr/blog/tarot-et-argent/)).
+
+Une question plus douce : « Qu’ai-je envie de construire, et à quoi ressemblerait un premier pas concret ce mois-ci ? » Celle-là a une réponse que vous pouvez mettre en œuvre.
+
+## Ce que l’As devient près du Deux de Coupes, du Roi de Coupes ou de la Mort {#a-cote}
 
 {{< cards "cu02 cuki ar13" >}}
 
@@ -51,17 +57,9 @@ Dans l’excès, c’est l’entêtement de la Terre et l’humilité qui manque
 
 À côté du Roi de Coupes, un début porté par quelqu’un d’émotionnellement stable — vous, ou la personne à vos côtés ([le Roi de Coupes en amour](/fr/blog/roi-de-coupes-amour/)).
 
-À côté de la Mort, la moisson et la graine dans le même tirage : quelque chose s’est terminé, et la terre est prête. L’As dit souvent pour quoi la Mort faisait de la place.
+À côté de la Mort, la moisson et la graine dans le même tirage : quelque chose s’est terminé, et la terre est prête. L’As dit souvent pour quoi [la Mort, dans un tirage amoureux](/fr/blog/la-mort-tarot-amour/), faisait de la place.
 
-## « C’est la bonne personne ? » — et une question plus douce {#question-plus-douce}
-
-Quand quelque chose paraît enfin solide, c’est naturel de vouloir une garantie. « C’est la bonne personne ? » « Est-ce que ça va durer ? » « Va-t-il me demander en mariage ? »
-
-Je ne lis pas l’avenir de deux personnes, parce que la moitié appartient à quelqu’un qui n’est pas dans la pièce, et qu’une carte ne peut pas signer un contrat à sa place. L’As offre une graine, pas une promesse. Certains lisent aussi cette carte comme un partenaire fortuné. Elle ne dit rien du compte en banque de personne, et les questions d’argent ne font pas partie de ce que je lis ([lire les Pentacles les pieds sur terre](/fr/blog/tarot-et-argent/)).
-
-Une question plus douce : « Qu’ai-je envie de construire, et à quoi ressemblerait un premier pas concret ce mois-ci ? » Celle-là a une réponse que vous pouvez mettre en œuvre.
-
-## Et maintenant {#et-maintenant}
+## Trois appuis et une première pierre {#premiere-pierre}
 
 Notez trois choses sur lesquelles votre relation — ou votre vie, si vous êtes célibataire — repose vraiment aujourd’hui. Puis ajoutez-en une que vous aimeriez construire, en termes concrets : un jour, une habitude, un lieu. Gardez la liste et relisez-la dans un mois. Ne prenez pas mes mots pour une vérité absolue : testez, et faites-en l’expérience vous-même.
 

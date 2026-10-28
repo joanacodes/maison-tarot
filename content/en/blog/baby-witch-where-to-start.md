@@ -27,7 +27,7 @@ And a witch? My own definition, from my notes, is this: **a witch is a human bei
 
 We were all born with our senses. To develop them: meditate, read, paint — any meditative art. Read tarot, read coffee cups, read a painting. You can read in anything.
 
-What sharpened my own senses wasn't anything I bought. Eating fresher food helped. Living alone in my own flat was the real trigger. And in 2021, I sold sage, candles and “channelled” cards. I stopped. Nothing in it improved a reading — I've explained [why I stopped cleansing decks](/blog/cleanse-tarot-deck/) separately.
+What sharpened my own senses wasn't anything I bought, and I say that as someone who once [sold sage and candles](/blog/cleanse-tarot-deck/). Eating fresher food helped. Living alone in my own flat was the real trigger.
 
 None of this means tools are bad. If a candle helps you sit down and focus, light it. Only know that the noticing is yours, and nothing you can buy will do it for you.
 

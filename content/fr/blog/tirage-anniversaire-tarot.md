@@ -66,4 +66,4 @@ Et si l’année qui se termine a été très dure, la première position peut f
 
 Tirez les quatre cartes le matin de votre anniversaire, ou la veille au soir, et écrivez une ligne pour chacune. Puis refermez le carnet et gardez la page pour l’an prochain : relire le tirage de l’année passée à votre anniversaire suivant, c’est le meilleur moment, parce que vous verrez ce que le thème voulait vraiment dire.
 
-Si vous voulez une seconde carte à garder toute l’année, [votre carte de naissance au tarot](/fr/blog/carte-de-naissance-tarot/) se calcule à partir de la même date et reste la même toute la vie.
+Si vous voulez une carte qui vous suive bien au-delà de cette année, [votre carte de naissance au tarot](/fr/blog/carte-de-naissance-tarot/) se calcule à partir de la même date et vous accompagne toute la vie.

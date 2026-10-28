@@ -85,12 +85,23 @@ C’est l’exercice qui clôt chaque [atelier](/fr/ateliers/) : chacun lit, dev
 
 Vous découvrirez souvent que vous avez dit, avec vos mots, ce que la page dit avec les siens. Quand ce n’est pas le cas, notez où vous vous êtes séparés : c’est la prochaine chose à regarder, pas un échec. L’exercice marche aussi sur un jeu que vous n’avez jamais tenu en main : les nombres et les familles passent d’un tarot à l’autre, même si chaque jeu a sa propre palette.
 
-## Ce que trois questions ne disent pas {#limites}
+## Deux autres questions, pour plus tard {#deux-autres}
+
+J’enseigne cinq clés de lecture. Les deux dernières affinent l’image une fois que les trois premières viennent sans effort.
+
+| Clé de lecture | La question | La réponse courte |
+|---|---|---|
+| Énergie | Elle attend ou elle agit ? | Le féminin attend, imagine, travaille en coulisses ; le masculin agit, se montre, décide vite. Les Coupes et les Pentacles penchent vers le féminin, les Bâtons et les Épées vers le masculin. |
+| Mode | Ça commence, ça dure ou ça change ? | Cardinal, ça démarre : l’Empereur, le Chariot, la Justice, le Diable. Fixe, ça tient : le Hiérophante, la Force, la Mort, l’Étoile. Mutable, ça change : les Amoureux, l’Ermite, Tempérance, la Lune. |
+
+[Le féminin et le masculin](/fr/bibliotheque/energies-feminine-masculine/) n’ont rien à voir avec le fait d’être une femme ou un homme : ce sont deux dynamiques que nous portons tous, dans des proportions différentes. Le mode, lui, ne concerne que les douze majeurs qui portent un signe du zodiaque.
+
+## Ce que les questions ne disent pas {#limites}
 
 Elles vous donnent le ton, l’étape et le domaine. Elles ne vous donnent pas l’histoire. Celle-ci vient de la scène dessinée, des cartes voisines dans le tirage, de ce qui monte quand vous regardez — et de la personne en face qui dit oui ou non.
 
-Les énergies féminine et masculine et les modes astrologiques affinent l’image une fois que ces trois questions sont devenues naturelles. Et aucune antisèche ne peut vous dire si vous aviez raison. Ne prenez pas mes mots pour une vérité absolue : testez-les, faites-en l’expérience vous-même.
+Et aucune antisèche ne peut vous dire si vous aviez raison. Ne prenez pas mes mots pour une vérité absolue : testez-les, faites-en l’expérience vous-même.
 
 ## Tout garder sur une page {#sur-une-page}
 
-Recopiez les trois tableaux sur une fiche bristol et gardez-la dans la boîte de votre jeu pendant un mois. Le jour où vous ne la sortez plus, vous avez appris les clés de lecture. Si vous voulez toute la méthode en quelques pages à imprimer, [le Guide du lecteur](/fr/guide/) est gratuit.
+Recopiez les tableaux sur une fiche bristol et gardez-la dans la boîte de votre jeu pendant un mois. Le jour où vous ne la sortez plus, vous avez appris les clés de lecture. Si vous voulez toute la méthode en quelques pages à imprimer, [le Guide du lecteur](/fr/guide/) est gratuit.

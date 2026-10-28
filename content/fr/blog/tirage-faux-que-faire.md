@@ -13,7 +13,7 @@ summary: "Quand un tirage est faux, dites-le : « celui-là est raté ». À voi
 ---
 Quand un tirage est faux, dites-le : « celui-là est raté ». À voix haute, à la personne, puis notez-le et passez à la suite. Pas de reformulation, pas de carte en plus, pas de « vous comprendrez plus tard ».
 
-C’est toute la méthode. La suite explique pourquoi elle marche, et pourquoi elle vous fait progresser au lieu de vous desservir.
+Ça paraît bien peu pour mériter le nom de méthode. C’est pourtant l’habitude qui donne leur valeur à vos réussites, et elle vous rend plus précis, pas plus frileux.
 
 ## Dire « celui-là est raté » à voix haute {#le-dire}
 

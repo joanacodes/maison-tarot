@@ -27,7 +27,7 @@ Et une sorcière ? Ma définition, tirée de mes notes, est celle-ci : **une sor
 
 Nous sommes tous nés avec nos sens. Pour les développer : méditer, lire, peindre — n’importe quel art méditatif. Lire le tarot, le marc de café, un tableau. On peut lire dans tout.
 
-Ce qui a affûté mes propres sens, ce n’est rien de ce que j’ai acheté. Manger plus frais m’a aidée. Vivre seule dans mon propre appartement a été le vrai déclic. Et en 2021, j’ai vendu de la sauge, des bougies et des cartes « channelées ». J’ai arrêté. Rien de tout ça n’améliorait une lecture — j’explique [pourquoi j’ai arrêté de purifier mes jeux](/fr/blog/purifier-son-jeu-de-tarot/) à part.
+Ce qui a affûté mes propres sens, ce n’est rien de ce que j’ai acheté, et je parle en connaissance de cause : j’ai moi-même [vendu de la sauge et des bougies](/fr/blog/purifier-son-jeu-de-tarot/) à une époque. Manger plus frais m’a aidée. Vivre seule dans mon propre appartement a été le vrai déclic.
 
 Ça ne veut pas dire que les objets sont mauvais. Si une bougie vous aide à vous poser et à vous concentrer, allumez-la. Sachez seulement que c’est vous qui remarquez, et qu’aucun achat ne le fera à votre place.
 

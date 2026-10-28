@@ -40,7 +40,7 @@ Posez quatre cartes en ligne.
 1. *Ce que je porte aujourd’hui.* Pas pour toujours. Aujourd’hui.
 2. *Un souvenir que je veux garder.* Laissez la carte en faire revenir un, puis notez-le.
 3. *Ce qui m’aiderait cette semaine.* Quelque chose de petit et de faisable.
-4. *Sur qui je pourrais m’appuyer.* Une personne vivante et joignable : une amie, un cousin, une voisine, un professionnel. Cette position est la raison du titre de cet article.
+4. *Sur qui je pourrais m’appuyer.* Une personne vivante et joignable : une amie, un cousin, une voisine, un professionnel. Si vous ne posez qu’une carte ce soir, posez celle-ci.
 
 Imaginons quelqu’un qui, quelques mois après une perte, tire le Cinq de Coupes, le Trois de Coupes, l’Ermite et la Reine de Coupes.
 

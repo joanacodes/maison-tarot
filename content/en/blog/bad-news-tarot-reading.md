@@ -17,9 +17,7 @@ Yes: say what comes, the hard part included. Hiding a card is its own kind of li
 
 No. If you've agreed to read for someone, you owe them what you see, not only the pleasant half. Every card has a plus and a minus, and that works both ways: the happy cards have a shadow, and the hard ones have a way through.
 
-What usually hurts most isn't the hard sentence. It's the pause before a reader says "hmm, I'd rather not say". The person fills that silence with the worst thing they can imagine, and it's nearly always worse than what's on the table.
-
-Hard things in a reading also tend to be smaller and more personal than people fear. In my first reading for a stranger, the uncomfortable part wasn't a disaster. It was that she hadn't been especially kind to the other person. That's hard to hear. It was also true, and it was hers to know.
+What usually hurts most isn't the hard sentence. It's the pause before a reader says "hmm, I'd rather not say". The person fills that silence with the worst thing they can imagine, and it's nearly always worse than what's on the table: hard things in a reading tend to be smaller and more personal than people fear.
 
 ## What I don't read on at all {#what-i-dont-read}
 
@@ -35,7 +33,7 @@ The Death card doesn't mean death anyway. In my notes it's tied to the harvest a
 
 Before you deliver a hard message, remember how often hard messages miss — sometimes not in the event, but in what it means.
 
-Once, furious after losing my closest friend, I asked silently who was next. I heard a man's voice give another friend's name and say they were going to have an accident. Two weeks later, that friend's car was hit by a truck. My friend is alive and well today. The information was right about an event and wrong in what mattered. Said across a table as it came, it would have told someone to fear the worst, and the worst never came. That's [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/): timing, and interpretation.
+I learned this from a message of my own: furious after losing my closest friend, I heard a voice say another friend was going to have an accident, and two weeks later a truck hit that friend's car. My friend is alive and well today; the message was right about an event and wrong in what mattered, as I tell in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/).
 
 Since then, hard impressions go on a shelf in my head labelled "sceptical, but if it happens, I was warned". They don't go into someone's lap as a forecast.
 

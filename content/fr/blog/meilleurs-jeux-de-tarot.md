@@ -22,21 +22,19 @@ Quatre critères ont fait la liste.
 3. *La taille.* Les petites cartes vont aux petites mains et aux sacs, les grandes aux yeux fatigués et aux lectures sur table.
 4. *La disponibilité.* Un jeu introuvable là où vous vivez n’est pas un conseil.
 
-Je n’ai pas mis d’étoiles, exprès. Un jeu qui convient à une paire de mains ne convient pas à une autre, et une note ferait semblant du contraire.
-
-{{< todo >}}À ajouter ici : les jeux de cette liste que vous avez eus en main, et ceux que vous retireriez ou ajouteriez{{< /todo >}}
+Je n’ai pas mis d’étoiles, exprès. Un jeu qui convient à une paire de mains ne convient pas à une autre, et une note ferait semblant du contraire. À la place, pour chaque édition ci-dessous : ce qu’elle garde du jeu de 1909, et ce qu’elle change. À vous de voir laquelle convient à vos yeux et à vos mains.
 
 ## Les éditions du Rider-Waite-Smith {#editions-rws}
 
 Les quatre gardent les mêmes 78 scènes. Elles diffèrent par la coloration et le format, et c’est là-dessus qu’on choisit.
 
-*Le Rider-Waite classique, de U.S. Games Systems.* L’édition dont vous avez sans doute déjà vu les images dans des livres et en ligne. Ses couleurs sont plus franches que les tons sourds des premiers tirages. Un premier jeu sans risque si vous voulez les images que montrent la plupart des supports d’apprentissage.
+*Le Rider-Waite classique, de U.S. Games Systems.* C’est l’édition dont vous avez sans doute déjà vu les images dans des livres et en ligne. Ses couleurs sont plus franches que les tons sourds des premiers tirages. Un premier jeu sans risque si vous voulez les images que montrent la plupart des supports d’apprentissage.
 
-*Le Smith-Waite Centennial, de U.S. Games Systems (2009).* Conçu pour le centenaire du jeu, il reproduit les couleurs sourdes des premiers tirages. Il existe aussi en petite boîte métal, et dans le coffret commémoratif consacré à Pamela Colman Smith. Si vous aimez vous sentir proche de l’original de 1909, commencez par lui.
+*Le Smith-Waite Centennial, de U.S. Games Systems (2009).* Cette édition a été conçue pour le centenaire du jeu, afin de reproduire les couleurs sourdes des premiers tirages. Elle existe aussi en petite boîte métal, et dans le coffret commémoratif consacré à Pamela Colman Smith. Si vous voulez rester au plus près de l’original de 1909, commencez par elle.
 
-*L’Universal Waite.* Les dessins de Smith recolorés par Mary Hanson-Roberts dans des tons plus doux, avec plus de détails visibles sur les visages et les costumes. Reposant pour les yeux, et disponible en format de poche.
+*L’Universal Waite.* Cette édition garde les dessins au trait de Smith, recolorés par Mary Hanson-Roberts dans des tons plus doux, avec plus de détails visibles sur les visages et les costumes. Reposante pour les yeux, elle existe aussi en format de poche.
 
-*Le Radiant Rider-Waite.* Les dessins de Smith recolorés par Virginijus Poshkus, avec des couleurs vives et des contours noirs allégés. Celles et ceux qui trouvent l’ancienne coloration terne le préfèrent souvent.
+*Le Radiant Rider-Waite.* Ici, les dessins de Smith sont recolorés par Virginijus Poshkus, avec des couleurs vives et des contours noirs allégés. Celles et ceux qui trouvent l’ancienne coloration terne le préfèrent souvent.
 
 Selon l’édition, le petit livret fourni est en anglais ou en plusieurs langues ; pour lire des scènes, cela ne change rien.
 
@@ -48,7 +46,7 @@ Un point d’attention avec les éditions recolorées : la couleur est l’une d
 
 Pour un tarot de Marseille, le choix classique en France est l’*Ancien Tarot de Marseille* de Grimaud, la version que Paul Marteau a établie vers 1930 à partir d’un modèle Conver plus ancien. Autre option connue : la restauration Camoin-Jodorowsky, reconstituée en comparant plusieurs anciens tarots de Marseille.
 
-Ni l’un ni l’autre n’est un premier jeu pour ma façon d’enseigner. Les cartes numérales sont des arrangements de coupes, d’épées, de deniers et de bâtons, sans personnages : on les lit par le nombre et l’élément seuls. C’est ce qui fait du Marseille un excellent test, une fois les clés de lecture bien installées. Je mets les deux traditions côte à côte dans [tarot de Marseille ou Rider-Waite-Smith](/fr/blog/tarot-de-marseille-ou-rider-waite/).
+Ni l’un ni l’autre n’est un premier jeu pour ma façon d’enseigner. Leurs cartes numérales montrent des agencements de coupes, d’épées, de deniers et de bâtons plutôt que des personnages : aucune scène sur laquelle s’appuyer, seulement le nombre et l’élément. Une fois les clés de lecture bien installées, c’est justement ce qui donne tout son intérêt à un Marseille. Je mets les deux traditions côte à côte dans [tarot de Marseille ou Rider-Waite-Smith](/fr/blog/tarot-de-marseille-ou-rider-waite/).
 
 ## Le Thoth, pour bien plus tard {#thoth}
 

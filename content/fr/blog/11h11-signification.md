@@ -23,14 +23,6 @@ Les lectures varient. La plus connue est une coutume qu’on apprend souvent enf
 
 **Quoi que vous mettiez derrière, 11h11 est une pause qu’on vous tend ; ce que vous en faites vous appartient.**
 
-## Les heures miroirs, et pourquoi 11h11 est la plus connue {#heures-miroirs}
-
-On appelle heures miroirs les heures où les heures et les minutes se répètent : 11h11, 14h14, 22h22. Certains comptent aussi les heures inversées, qui se lisent pareil dans les deux sens, comme 12h21 ou 13h31. De nombreux sites associent chacune d’elles à un ange et à un message, et ces tableaux circulent beaucoup.
-
-En France, où l’heure s’affiche sur 24 heures, 11h11 ne passe qu’une fois par jour. Elle reste pourtant la plus remarquée : quatre traits identiques, qu’on ne confond avec aucune autre heure.
-
-La méthode est la même pour toutes : lisez les chiffres. 22h22, c’est 2 et 2, ou 22 → 4. 12h21 contient un 1 et un 2 — un début et un accord — et fait 6 une fois additionnée. Posez-vous la question qui va avec le nombre, et laissez-la là.
-
 ## 11h11 en numérologie {#numerologie}
 
 Il y a trois façons de la lire, et elles ne se contredisent pas.
@@ -47,22 +39,30 @@ Un détail si vous avez découvert le tarot avec celui de Marseille : là-bas, l
 
 Mis bout à bout, 11h11 se lit comme un choix entre deux choses, qui attend d’être pesé honnêtement. Imaginons quelqu’un qui la croise toute une semaine pendant qu’il hésite entre deux offres d’emploi. Le nombre ne choisit pas à sa place. Il demande s’il a vraiment lu les deux contrats — et à quoi chacun l’engagerait.
 
-## Pourquoi vous la voyez partout {#pourquoi}
+## Pourquoi 11h11 et pas 10h47 {#pourquoi}
 
-Parce que vous regardez l’heure souvent, et que quatre traits identiques sautent aux yeux plus que 10h47. Et parce qu’une fois qu’elle a compté pour vous, vous la remarquez davantage : vous voyez aussi 11h12 et 10h58 tous les jours, mais elles ne vous restent pas.
+11h11 a deux longueurs d’avance sur toutes les autres minutes. Elle ne ressemble à rien d’autre sur un écran : quatre traits identiques, la forme la plus dépouillée qu’une horloge puisse afficher. Et beaucoup de gens ont appris à la guetter, à travers le vœu, bien avant d’entendre parler d’« heures miroirs ». Une minute qu’on vous a appris à guetter est une minute que vous attrapez.
 
-Ça ne vide pas le moment de son sens. Ce à quoi vous pensiez en la voyant, c’est ça qui est intéressant — et c’est vous qui y pensiez.
+Ensuite, elle fonctionne comme tous les nombres répétés : une fois qu’elle compte pour vous, les heures voisines ne s’impriment plus. 11h12 passe sur votre écran tout aussi souvent, et elle ne vous reste jamais. Ce qui reste, c’est ce que vous étiez en train de faire quand vous avez levé les yeux. Cette part-là vous appartient, et c’est elle qui mérite d’être lue.
 
-## Que faire quand vous voyez 11h11 {#que-faire}
+## Que faire du vœu de 11h11 {#que-faire}
 
-Une coïncidence peut être un bon moment pour vous poser une question. Voici une façon légère de vous en servir :
+Faire un vœu, c’est le plus ancien usage de 11h11. Servez-vous-en, en lui donnant une forme sur laquelle vous pouvez agir :
 
 1. Arrêtez-vous le temps d’une respiration.
-2. Posez la question du 2 : entre quelles deux choses suis-je en train d’hésiter ? Ou celle du 1 : qu’est-ce que je commence ?
-3. Si vous faites un vœu, faites-en une phrase sur laquelle vous pourriez agir cette semaine.
-4. Notez-la avec la date, et relisez-la dans un mois.
+2. Transformez le vœu en question du 2 : entre quelles deux choses suis-je en train de choisir ? Ou en question du 1 : qu’est-ce que je commence ?
+3. Écrivez le vœu en une phrase qui commence par « Je vais » et qui tient dans la semaine.
+4. Quand 11h11 repasse, relisez cette phrase au lieu de faire un nouveau vœu.
+
+Imaginons que le vœu soit « je voudrais que ça s’arrange avec ma sœur ». Le 2 demande sur quoi vous êtes d’accord, elle et vous, que ce soit dit ou non. La phrase pourrait devenir : « Je vais l’appeler dimanche et lui demander comment elle voit les choses. » Ce vœu-là peut se réaliser, parce que c’est vous qui le tenez.
 
 Et si 11h11 commence à ressembler à un verdict — un feu vert sans lequel vous n’osez plus avancer — mettez-la de côté. L’horloge ne connaît pas votre situation ; vous, si. [Le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/), et une horloge non plus.
+
+## Les heures miroirs : 22h22, 12h21 et les autres {#heures-miroirs}
+
+On appelle heures miroirs les heures où les heures et les minutes se répètent : 11h11, 14h14, 22h22. Certains comptent aussi les heures inversées, qui se lisent pareil dans les deux sens, comme 12h21 ou 13h31. De nombreux sites associent chacune d’elles à un ange et à un message, et ces tableaux circulent beaucoup.
+
+La méthode reste la même : lisez les chiffres. 22h22, c’est 2 et 2, ou 22 → 4. 12h21 contient un 1 et un 2 — un début et un accord — et fait 6 une fois additionnée. Posez-vous la question qui va avec le nombre, et laissez-la là.
 
 ## Pour aller plus loin {#pour-aller-plus-loin}
 
