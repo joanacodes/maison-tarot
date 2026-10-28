@@ -23,7 +23,7 @@ The drawing. Ten swords in a man’s back is hard to look at, whatever it means.
 
 Each reason calls for something different. A drawing you dislike needs a closer look. A reputation needs the lenses. A memory needs a little distance. Boredom needs a week of attention.
 
-{{< todo >}}Add here: a card you yourself have never liked, or used to dislike, and why.{{< /todo >}}
+If you’re not sure which one is yours, notice the first thing that happens when the card turns up: a flinch at the picture, a sentence someone once said about it, a date, or a shrug. That first reaction usually names the reason. Every reader has at least one card like this, and it says more about how you met the card than about the card.
 
 ## Read it by its lenses, not its reputation {#lenses}
 
