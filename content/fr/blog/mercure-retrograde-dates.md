@@ -62,6 +62,6 @@ Ce sont de bonnes semaines pour ça, parce qu’on ne vous demande rien de neuf.
 
 ## Et ensuite {#et-ensuite}
 
-Vénus est rétrograde en même temps cet automne, depuis le 3 octobre, et les deux planètes repartent en direct à quelques heures d’écart, mi-novembre. Les dates, et ce qu’on en dit pour la vie amoureuse, sont dans [Vénus rétrograde 2026](/fr/blog/venus-retrograde-2026/).
+Vénus est rétrograde en même temps cet automne, depuis le 3 octobre, et les deux planètes repartent en direct à un jour d’écart, mi-novembre. Les dates, et ce qu’on en dit pour la vie amoureuse, sont dans [Vénus rétrograde 2026](/fr/blog/venus-retrograde-2026/).
 
-Puis gardez ce calendrier sous les yeux. À chaque date de début, notez ce que vous attendez ; à chaque date de fin, relisez. Ne prenez pas mes mots pour une vérité absolue : testez, et faites-en l’expérience vous-même.
+Puis gardez ce calendrier sous les yeux. Les périodes de rétrogradation n’ont jamais fait partie de [mon test du thème astral](/fr/blog/j-ai-teste-mon-theme-astral/), qui portait sur des thèmes de naissance : je n’ai donc aucun chiffre à vous donner, mais voici comment obtenir le vôtre. À chaque date de début, écrivez une ligne : qu’est-ce que je m’attends à voir mal tourner ? À chaque date de fin, relisez-la et mettez-lui une coche ou une croix. Ne prenez pas mes mots pour une vérité absolue : testez, et faites-en l’expérience vous-même.

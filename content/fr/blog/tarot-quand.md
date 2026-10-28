@@ -9,9 +9,9 @@ tags: ["tarot quand", "timing tarot", "date dans un tirage", "prédiction tarot"
 image: "covers/tarot-timing.jpg"
 imageAlt: "Un calendrier en papier punaisé au-dessus d’une table de cuisine, une carte posée face cachée en dessous"
 imagePrompt: "A paper wall calendar pinned above a wooden kitchen table, a single card lying face down on the table below it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Parfois, à peu près : une étape, un ordre, un « pas encore ». Rarement une date sur laquelle je parierais. Les tarologues ont inventé des systèmes de timing — une saison par famille, des jours ou des semaines selon le nombre, l’astrologie imprimée sur les cartes — mais ils ne s’accordent pas entre eux, et une date précise n’est pas une date juste. C’est sur le timing que je me trompe le plus. Ce qu’un tirage montre bien, c’est où vous en êtes dans un cycle et ce qui doit se passer d’abord : c’est ce que je lis, à la place d’un calendrier."
+summary: "Parfois, à peu près : une étape, un ordre, un « pas encore ». Rarement une date sur laquelle je parierais. Les tarologues ont inventé des systèmes de timing — une saison par famille, des jours ou des semaines selon le nombre, l’astrologie imprimée sur les cartes — mais ils ne s’accordent pas entre eux, et une date précise n’est pas une date juste. Le timing est le point faible. Ce qu’un tirage montre bien, c’est où vous en êtes dans un cycle et ce qui doit se passer d’abord : c’est ce que je lis, à la place d’un calendrier."
 ---
-Parfois, à peu près : une étape, un ordre, un « pas encore ». Rarement une date sur laquelle je parierais. C’est sur le timing que je me trompe le plus, et je préfère vous le dire avant que vous posiez la question plutôt que de vous donner une date qui a l’air précise et ne l’est pas.
+Parfois, à peu près : une étape, un ordre, un « pas encore ». Rarement une date sur laquelle je parierais. Une lecture dit mal ce qui arrive précisément la semaine prochaine, et je préfère vous le dire avant que vous posiez la question plutôt que de vous donner une date qui a l’air précise et ne l’est pas.
 
 ## Le tarot peut-il prédire quand quelque chose va arriver ? {#reponse-courte}
 
@@ -37,7 +37,7 @@ Deux semaines plus tard, un camion a percuté sa voiture. Aujourd’hui, elle es
 
 L’événement est venu. Mais ma question portait sur qui mourrait ensuite, et comme réponse à cette question, l’information était fausse sur ce qui comptait. La voix n’avait dit ni quand, ni comment ça finirait. Ce que j’en ai gardé tient au timing, à l’interprétation, et à une étagère dans ma tête, étiquetée *sceptique, mais si ça arrive, j’étais prévenue*. Les messages vont sur cette étagère. Les dates en particulier.
 
-## Pourquoi c’est sur le timing que je me trompe le plus {#pourquoi-je-me-trompe}
+## Pourquoi le timing est le point faible {#pourquoi-je-me-trompe}
 
 Parce qu’un tirage montre une maturité, pas un agenda. Une carte peut montrer que quelque chose est mûr, bloqué, ou en train de finir. Elle ne voit pas les décisions de l’autre, le poste qui s’ouvre un mois plus tard que prévu, le train supprimé.
 

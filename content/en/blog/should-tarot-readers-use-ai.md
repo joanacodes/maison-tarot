@@ -29,13 +29,11 @@ One habit to keep: check what it says against the card in your hand. A fluent an
 
 ## Where I draw the line {#the-line}
 
-At the reading. Whatever reaches a person as their reading should have come from you, looking at their cards. I have three reasons, set out at more length in [AI tarot vs a human reader](/blog/ai-tarot-vs-human/).
+At the reading. Whatever reaches a person as their reading should have come from you, looking at their cards.
 
-It needs context. A model can’t work from nothing; you have to type something, and what you type becomes the reading. My method rests on the opposite: [the person tells me nothing](/blog/the-silence-rule/) before I start.
+The reasons are set out in [AI tarot vs a human reader](/blog/ai-tarot-vs-human/), and they come down to three. A model has to be told something, while my method rests on [the person telling me nothing](/blog/the-silence-rule/). It hedges until it can’t miss, while I count my misses, about one reading in ten. And it explains cards one at a time, when the relations between them carry most of a reading. If you’d rather see that than take my word for it, [test it the way I test myself](/blog/is-ai-tarot-accurate/).
 
-It never misses. It hedges until nothing it says can be wrong. I count my readings, about one in ten misses, and I write each one down. You can’t count a reader who never commits.
-
-It reads cards, not spreads. The relations between cards, the 1 beside the 10, three Cups crowding out one Sword, carry most of a reading, and a model handles the cards one at a time.
+There’s one more reason, and it’s a reader’s reason. In my teaching notes, the same image can read differently from one person to another, and from one day to another. A dictionary gives the same entry every time; that’s its job. It’s also exactly why it can’t be the reading.
 
 Some readers let it write a draft, then correct the draft. I understand the appeal; a blank page is hard at the end of a long day. But once you’ve read its version, you’re reading its version. Your first impression, the one that came before you thought, is gone, and that impression is most of what a reader brings. What I teach is the reverse: say what comes up, before you try to be right.
 
