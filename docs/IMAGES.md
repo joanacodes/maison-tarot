@@ -5,7 +5,7 @@ Every picture the site is waiting for already has its prompt, written in the pag
 - **Article covers:** `imagePrompt` → `assets/covers/<english slug>.jpg`, landscape 4:3. The French article reuses the English picture.
 - **The six pictures on Library pages:** `gallery[].prompt` → `assets/visuals/<translationKey>/1.jpg` … `6.jpg`, portrait 4:5. These pages cover colours, numbers, elements, energies, modes, astrology and symbols.
 
-The full list (760 pictures), with the page each picture belongs to, is in `docs/image-prompts.csv`. The `cards` column shows the 37 covers that will be sent with a real card scan. It opens in any spreadsheet. Run `python3 tools/images.py` to refresh it.
+The full list (747 pictures), with the page each picture belongs to, is in `docs/image-prompts.csv`. The `cards` column shows the 24 covers that will be sent with a real card scan. It opens in any spreadsheet. Run `python3 tools/images.py` to refresh it.
 
 Nothing breaks while pictures are missing. A cover simply doesn't show, and the six-picture block on a Library page stays hidden until at least one of its pictures exists.
 
@@ -14,7 +14,7 @@ Nothing breaks while pictures are missing. A cover simply doesn't show, and the 
 **Model:** `gemini-2.5-flash-image`, through a Google AI Studio API key.
 
 - **It can take an image as input.** For articles about one card, the script sends the real 1909 scan of that card along with the prompt. The generator then only has to place the card on the table; it doesn't redraw it. Generators that work from text alone always get the cards wrong: wrong figures, invented titles.
-- **Price.** About $0.039 per image at the time of writing, so roughly $30 for the whole site (760 pictures: 244 covers and 516 Library pictures). Google's Batch API halves that but takes up to a day. The script uses the normal API, which is simpler.
+- **Price.** About $0.039 per image at the time of writing, so roughly $30 for the whole site (747 pictures: 231 covers and 516 Library pictures). Google's Batch API halves that but takes up to a day. The script uses the normal API, which is simpler.
 - **Your writer app (mt-writer-web)** already knows how to call Gemini.
 - **Watermark.** Gemini adds an invisible SynthID watermark to its images. Nothing shows.
 
