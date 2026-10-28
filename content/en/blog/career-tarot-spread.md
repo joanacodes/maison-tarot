@@ -53,6 +53,8 @@ Across the row: two Fire, two Earth, one Air. And [two 4s](/library/numerology/n
 
 Notice what the cards didn’t say: which one. In this spread, they never do.
 
+This row is all minor cards. When a major arcanum lands in one of the five places, its card page has a section on what it says at work, including the worried question that tends to come with it. [The Tower at work](/library/tarot-cards/the-tower/#at-work) is a good one to read first, because it’s the card people fear most in a job reading.
+
 ## How to decide after the reading {#how-to-decide}
 
 1. Reread positions two and three. Which one made your shoulders drop as you read it? That’s information about you, not a ruling from the deck.
@@ -65,4 +67,4 @@ Notice what the cards didn’t say: which one. In this spread, they never do.
 
 Write the decision down next to the spread, with the date. In three months, reread both: the cards, and what you did. That’s how you learn what your readings are worth — not by whether the cards “were right”, but by whether they helped you see.
 
-If you chose to go, [a five-card spread for your first month](/blog/new-job-tarot-spread/) picks up where this one stops. For decisions beyond work, [tarot for decision-making](/blog/tarot-for-decision-making/) uses the same principle. And if you’d like to read your own spread with someone who knows the lenses, a [one-to-one session](/sessions/) takes an hour.
+If you chose to go, [a five-card spread for your first month](/blog/new-job-tarot-spread/) picks up where this one stops. And if you’d like to read your own spread with someone who knows the lenses, a [one-to-one session](/sessions/) takes an hour.
