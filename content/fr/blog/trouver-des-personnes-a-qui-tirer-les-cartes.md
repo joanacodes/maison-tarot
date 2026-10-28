@@ -15,7 +15,7 @@ Trouver des personnes à qui tirer les cartes est plus facile qu’on ne le croi
 
 ## Les groupes en ligne où l’on demande des tirages {#groupes-en-ligne}
 
-Ma toute première lecture pour une inconnue s’est faite sur un serveur Discord trouvé via Tumblr. J’ai demandé qui voulait un tirage, quelqu’un a dit oui, et je n’avais rien d’autre qu’un pseudo. Il en est sorti une histoire de relation ; elle m’a répondu que ça ne lui parlait pas, puisqu’elle ne cherchait personne. Trois ou quatre jours plus tard, elle m’a écrit, secouée : tout était arrivé. Je raconte l’histoire en entier dans [mon tout premier tirage était « faux »](/fr/blog/premier-tirage-tarot/).
+[Ma toute première lecture pour une inconnue](/fr/blog/premier-tirage-tarot/) s’est faite sur un groupe Discord trouvé via Tumblr.
 
 Quelques mois après mes débuts, je lisais aussi dans des groupes Facebook consacrés au tarot, et j’y faisais des lives. Ces groupes existent parce que des gens veulent des tirages et que des lecteurs veulent s’entraîner, et tout le monde le sait.
 

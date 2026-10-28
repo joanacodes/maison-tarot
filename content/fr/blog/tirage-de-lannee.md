@@ -15,11 +15,9 @@ Un tirage de l’année, ce sont douze cartes, une par mois, tirées une fois pu
 
 ## Qu’est-ce qu’un tirage de l’année ? {#definition}
 
-C’est un tirage qui donne un thème à chaque mois : une carte qui dit où votre attention risque d’aller, et quel genre d’effort le mois demande. Vous pouvez le faire au Nouvel An, à votre anniversaire, ou à Samhain, quand les récoltes sont rentrées. [Mon tirage du Nouvel An 2027](/fr/blog/tirage-nouvel-an-tarot/) montre la table elle-même : treize cartes en quatre rangées.
+C’est un tirage qui donne un thème à chaque mois : une carte qui dit où votre attention risque d’aller, et quel genre d’effort le mois demande. Vous pouvez le faire au Nouvel An, à votre anniversaire, ou à Samhain, quand les récoltes sont rentrées. [Mon tirage du Nouvel An 2027](/fr/blog/tirage-nouvel-an-tarot/) montre la table elle-même : une carte pour l’année, puis les douze mois en quatre rangées de trois.
 
 Ce qu’il n’est pas : un calendrier d’événements. Si juin donne le Trois d’Épées, juin n’est pas réservé au chagrin. C’est un mois pour remarquer ce qui fait mal, et le dire plutôt que le porter.
-
-{{< todo >}}À ajouter ici : quand vous faites votre propre tirage de l’année, si vous en faites un (Nouvel An, anniversaire, autre date){{< /todo >}}
 
 ## Première étape : lire les douze cartes ensemble {#lire-ensemble}
 
@@ -42,13 +40,17 @@ C’est la partie que presque tout le monde saute, et c’est elle qui fait le t
 4. Vivez le mois. Ne relisez pas la carte tous les matins.
 5. Le dernier jour, écrivez ce qui s’est passé, puis une coche, une croix ou un point d’interrogation.
 
-Imaginons qu’avril soit le Deux de Coupes : deux personnes face à face qui lèvent leur coupe. Le 2, c’est la coopération, le lien, l’accord ; les Coupes, les sentiments. Le 1er avril, vous pourriez écrire : « Ce mois-ci, je ferai attention aux gens dont je me suis éloigné. » Le 30 avril : « Ma sœur et moi, on se reparle. Coche. »
+Imaginons qu’avril soit le Deux de Coupes : deux personnes face à face qui lèvent leur coupe.
+
+{{< cards "cu02" >}}
+
+Le 2, c’est la coopération, le lien, l’accord ; les Coupes, les sentiments. Le 1er avril, vous pourriez écrire : « Ce mois-ci, je ferai attention aux gens dont je me suis éloigné. » Le 30 avril : « Ma sœur et moi, on se reparle. Coche. »
 
 En décembre, vous avez douze phrases et douze marques — le récit de votre année, de votre main. **Le tirage aide parce que vous le vérifiez, pas parce qu’il avait raison.** [Le carnet de tirages que je tiens](/fr/blog/carnet-de-tirage-tarot/) suit les mêmes deux colonnes : ce que j’ai dit, ce qui s’est passé.
 
 ## Ce qu’un tirage de l’année ne peut pas faire {#limites}
 
-Il ne donne pas de dates. C’est sur le « quand » que je rate le plus ; une carte de mai parle d’un thème, jamais du 12. [Pourquoi les dates sont le point faible du tarot](/fr/blog/tarot-quand/) raconte ce que j’en ai appris.
+Il ne donne pas de dates. Une carte de mai parle d’un thème, jamais du 12. [Pourquoi les dates sont le point faible du tarot](/fr/blog/tarot-quand/) raconte ce que j’en ai appris.
 
 Il ne répond pas non plus aux questions de santé, de grossesse ou d’argent — « Vais-je aller bien cette année ? », « Quel mois l’argent va-t-il arriver ? » Ces questions viennent de l’inquiétude, et elles méritent de meilleurs outils : un médecin, un conseiller, un plan. Ce qu’une carte du mois peut porter, c’est la version plus douce : « Qu’est-ce qui m’aide à prendre soin de moi en mai ? »
 

@@ -29,7 +29,7 @@ Imaginons que vous tiriez pour une amie le Trois de Coupes, puis le Huit de Pent
 
 Sous chaque lecture, une marque : juste, ou raté.
 
-Notez « juste » quand la personne reconnaît sa situation, par une réaction visible pendant que vous parlez ou par une confirmation après coup. Notez « raté » quand rien ne tombe, ou quand la personne le dit. Il n’y a pas de troisième case. Dès que vous ajoutez « en partie » ou « on verra », tous les ratés glissent dedans et le décompte ne veut plus rien dire.
+Cochez « juste » quand la personne reconnaît sa situation, par une réaction visible pendant que vous parlez ou par une confirmation après coup. Cochez « raté » quand rien ne tombe, ou quand la personne le dit. Il n’y a pas de troisième case. Dès que vous ajoutez « en partie » ou « on verra », tous les ratés glissent dedans et le décompte ne veut plus rien dire.
 
 Un raté se note aussi sobrement qu’une lecture juste. À gauche : « un déménagement, des cartons, une autre ville ». À droite : « Non, rien de tout ça. » Marque : raté. C’est la ligne la plus utile de la page.
 

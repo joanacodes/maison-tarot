@@ -25,9 +25,9 @@ Alors si vous l’avez posée — à un jeu de cartes, à une amie, à une vidé
 
 Elle vous met en pause. Quelle que soit la réponse, elle garde votre attention rivée sur le prochain geste de l’autre, et votre propre vie passe en salle d’attente.
 
-Pensez aux trois réponses qu’un tirage pourrait donner. Un oui vous fait attendre, parfois des mois, parfois quelqu’un qui a déjà tourné la page. Un non fait mal deux fois : une fois pour la perte, une fois pour la carte. Et un peut-être — ce que disent honnêtement la plupart des cartes — vous ramène poser la même question la semaine suivante.
+Pensez aux trois réponses qu’un tirage pourrait donner. Un oui vous fait attendre, parfois des mois, parfois quelqu’un qui a déjà tourné la page. Un non fait mal deux fois : une fois pour la perte, une fois pour la carte. Et un peut-être — ce que disent honnêtement la plupart des cartes — vous ramène poser la même question la semaine suivante. C’est précisément ce peut-être que vendent les [tirages « no contact »](/fr/blog/est-ce-quil-pense-a-moi-tarot/) payants, quelques euros à chaque fois.
 
-Certaines personnes reviennent en effet avec la même question, encore et encore, presque fébriles. Je n’y vois pas de faiblesse. C’est une forte dose de doute, et ce qui l’apaise est rarement un tirage de plus. C’est une respiration, une décision, ou le courage de traverser ce qui fait peur. J’en parle plus longuement dans [pourquoi poser le jeu un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
+Certaines personnes reviennent en effet avec la même question, encore et encore. Je n’y vois pas de faiblesse ; c’est du doute, et ce qui l’apaise est rarement un tirage de plus. J’en parle plus longuement dans [pourquoi poser le jeu un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
 **Cette question vous fait attendre ; elle ne vous aide jamais à traverser l’attente.**
 
@@ -50,7 +50,7 @@ Interrogez la personne qui est là : vous. Quelques questions qui fonctionnent b
 - Que ferais-je autrement si j’arrêtais d’attendre ?
 - Qu’est-ce que cette relation m’a appris sur ce que je veux ?
 
-Imaginons quelqu’un qui pose la première et tire le Cinq de Coupes : une silhouette en manteau noir, tête baissée sur trois coupes renversées, avec deux coupes encore debout derrière elle. Dans mes notes, c’est la carte la plus négative du jeu — la perte, une émotion sombre, être seul avec ses problèmes. C’est honnête sur ce qu’on ressent. Mais [le Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/) garde aussi deux coupes pleines dans son dos, et la silhouette ne s’est pas encore retournée.
+Imaginons quelqu’un qui pose la première et tire le Cinq de Coupes : une silhouette en manteau noir, tête baissée sur trois coupes renversées, avec deux coupes encore debout derrière elle. Dans mes notes, c’est la carte la plus négative du jeu — la perte, une émotion sombre, être seul avec ses problèmes. C’est honnête sur ce qu’on ressent. Mais le Cinq de Coupes garde aussi deux coupes pleines dans son dos, et la silhouette ne s’est pas encore retournée.
 
 À côté, le Six de Coupes : deux enfants dans un jardin, l’un tend à l’autre une coupe remplie de fleurs. Prendre du temps pour soi, revenir à ce qui nous rendait heureux, refleurir.
 
