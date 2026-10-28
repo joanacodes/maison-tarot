@@ -29,8 +29,6 @@ En astrologie, Mercure, c’est la façon dont vous pensez et dont vous parlez :
 
 Quand Mercure semble marcher à reculons, les astrologues lisent donc trois semaines de mots en « re- » : revoir, réviser, relire, répondre, revenir. Les conseils habituels en découlent. Relire un contrat deux fois avant de signer. Sauvegarder son téléphone. Vérifier l’horaire du train. S’attendre à voir revenir de vieux sujets, et parfois de vieux contacts.
 
-Les astrologues comptent aussi une « ombre » de chaque côté : les semaines où Mercure parcourt le même bout de ciel juste avant de tourner et juste après être reparti. C’est pour ça que certains sites donnent des dates plus larges de deux semaines environ de chaque côté. Personne n’a tort ; on ne mesure pas la même chose.
-
 Il y a quelque chose que j’aime dans ces conseils. Ils donnent un thème à trois semaines, et ce thème, c’est revenir sur les choses avant de foncer. Si les gens profitent d’une rétrogradation pour ralentir et relire, ça leur fait du bien, quoi que fasse la planète.
 
 ## Ce dont il n’est pas responsable {#pas-responsable}

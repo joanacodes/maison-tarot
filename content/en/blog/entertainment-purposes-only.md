@@ -62,4 +62,4 @@ If those match the sentence, the reader means it. If they don’t, [the nine red
 
 ## See it in practice {#next-step}
 
-The free events at Maison Tarot run on exactly this sentence: people drawn at random, nothing told to me first, misses said out loud, and nothing to buy at the end. [Come and watch one](/events/), and decide for yourself what it was worth.
+The free events at Maison Tarot run on exactly this sentence: people drawn at random, nothing told to me first, misses said out loud, and no charge for the reading. [Come and watch one](/events/), and decide for yourself what it was worth.
