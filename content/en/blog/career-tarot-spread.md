@@ -53,7 +53,7 @@ Across the row: two Fire, two Earth, one Air. And [two 4s](/library/numerology/n
 
 Notice what the cards didn’t say: which one. In this spread, they never do.
 
-This row is all minor cards. When a major arcanum lands in one of the five places, its card page has a section on what it says at work, including the worried question that tends to come with it. [The Tower at work](/library/tarot-cards/the-tower/#at-work) is a good one to read first, because it’s the card people fear most in a job reading.
+This row is all minor cards. When a major arcanum lands in one of the five places, its card page has a section on what it says at work, including the worried question that tends to come with it. [The Tower at work](/library/tarot-cards/the-tower/#at-work) is a good place to start if the worry behind your spread is losing your job.
 
 ## How to decide after the reading {#how-to-decide}
 
