@@ -15,15 +15,15 @@ Most of the time, reading a card feels ordinary: a word or an image turns up in 
 
 ## Mostly, it sounds like your own thoughts {#own-thoughts}
 
-We all receive impressions: images, sounds, words, smells, sensations, emotions. Some people are sharper in one channel than the others — seeing, hearing, feeling. When you read, these arrive the way thoughts do. There’s no bell and no special voice. A word turns up, and it sounds exactly like you.
+In my teaching notes, impressions come through every channel we have: images, sounds, words, smells, sensations, emotions, and most people are sharper in one of them. When you read, they arrive the way thoughts do. There’s no bell and no special voice: what comes speaks in your own voice, at the speed of an ordinary thought.
 
 Say you turn over the Six of Cups for a friend: two children in a courtyard, one handing the other a cup filled with flowers. In my notes the card is about childhood, taking time for yourself, flowering again. But the word that crosses your mind is “school”. Not a meaning from a book, just a word. That word is what reading feels like.
 
 {{< cards "cu06" >}}
 
-Because it sounds like you, it gets thrown away, and most beginners worry they’re inventing it. There are ways to [tell reading from making it up](/blog/am-i-making-it-up-tarot/), and none of them happen in the moment.
+Because it sounds like you, it’s easy to throw away, or to suspect you invented it. There are ways to [tell reading from making it up](/blog/am-i-making-it-up-tarot/), and none of them happen in the moment: they happen afterwards, when you check.
 
-The cards help in a modest way. They give your eyes somewhere to rest, so your own thoughts and assumptions step aside long enough for something else to come through. In my notes from 2021, I wrote that the more I read, the more things arrived before I’d even shuffled, and that I used the cards mostly because people wanted to see them.
+The cards help in a modest way. They give your eyes somewhere to rest, so your own thoughts and assumptions step aside long enough for something else to come through. With practice, the word can come before you’ve even shuffled. I noted that in my first full year of reading, and I’ve put [that line from my 2021 notes](/blog/what-i-believed-about-tarot/) in context elsewhere.
 
 ## Sometimes it’s an emotion that isn’t yours {#not-yours}
 
