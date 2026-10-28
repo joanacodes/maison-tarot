@@ -51,11 +51,7 @@ Si vous suivez les signes, ces six périodes dessinent un motif. Les trois rétr
 
 ## Utiliser ces trois semaines avec vos cartes {#avec-vos-cartes}
 
-Si le thème du « re- » vous parle, mettez-le au travail. La carte de Mercure, c’est [le Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/) (le Bateleur au tarot de Marseille) : les quatre outils posés sur la table, la baguette levée qui reçoit et qui transmet — le messager. Son revers : il sait faire semblant, si on lui fait confiance les yeux fermés. Lu à travers [la clé de Mercure](/fr/bibliotheque/astrologie/mercure/), il parle moins d’intelligence que de l’art de se servir de ce qu’on a déjà sous la main.
-
-{{< cards "ar01" >}}
-
-C’est une bonne consigne pour une rétrogradation. Plutôt que de poser de nouvelles questions aux cartes, revenez à ce que vous avez :
+Si le thème du « re- » vous parle, mettez-le au travail sur des tirages déjà faits plutôt que sur de nouveaux. (Pour un tirage en trois cartes construit sur le même thème, voyez l’explication de Mercure rétrograde.) Plutôt que de poser de nouvelles questions aux cartes, revenez à ce que vous avez :
 
 1. Ouvrez votre carnet de tirages aux trois derniers mois.
 2. Relisez chaque tirage, pour vous ou pour quelqu’un d’autre, sans retirer de carte.

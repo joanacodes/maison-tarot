@@ -1,6 +1,6 @@
 ---
-title: "Le tarot peut-il dire quand ça arrivera ? C’est sur le timing que je me trompe le plus"
-description: "Le tarot peut-il dire quand ça arrivera ? Rarement à la date près. Les systèmes de timing, pourquoi c’est là que je me trompe le plus, et ce que je lis à la place."
+title: "Le tarot peut-il dire quand ça arrivera ? Pourquoi le timing est son point faible"
+description: "Le tarot peut-il dire quand ça arrivera ? Rarement à la date près. Les systèmes de timing, pourquoi le timing est le point faible, et ce que je lis à la place."
 translationKey: "post-tarot-timing"
 type: blog
 date: 2026-10-24
