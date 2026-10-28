@@ -39,7 +39,7 @@ Five things, in the order I’d check them.
 - AI “readings” built on what you type. You give it your situation, and it hands it back to you in warmer words. I tested that in [is AI tarot accurate?](/blog/is-ai-tarot-accurate/)
 - Paid readers inside the app, billed by the minute or in credits, with a counter you can’t easily see.
 
-None of this means the people who use these apps are doing anything wrong. Most download one out of curiosity, or because a deck felt like too big a step. The point is to know which parts of the app are there for you, and which are there to keep you.
+None of this means the people who use these apps are doing anything wrong. Plenty of people download one out of curiosity, or because a deck felt like too big a step. The point is to know which parts of the app are there for you, and which are there to keep you.
 
 ## Test any app in ten minutes {#ten-minute-test}
 
@@ -56,7 +56,5 @@ Say the app gives you the Tower.
 A good app shows you the lightning, the crown knocked from the top, the two figures falling against a black sky, and lets you sit with it. A poor one shows a small image and the word “disaster”. [The Tower](/library/tarot-cards/the-tower/) is richer than that: a structure that can’t hold any more, the moment it gives way, and often the room it clears for something sturdier.
 
 ## What I’d use instead, mostly {#what-id-use}
-
-{{< todo >}}Add here: which tarot apps I have tried myself, and what I thought of them{{< /todo >}}
 
 An app does what a deck and a notebook already do, with more distractions. One card a day, drawn by hand, described in your own words and checked in the evening, is [the daily practice I’d recommend](/blog/one-card-tarot-pull/). Write it in a [reading notebook](/blog/tarot-journal/) and you’ll keep a record nobody else holds. Cards aren’t magic, you are. If you’d like to learn to read without a screen in between, [start here](/learn-tarot/).

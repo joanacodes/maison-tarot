@@ -35,7 +35,7 @@ Même la carte qui s’appelle la Mort ne parle pas de mourir.
 
 {{< cards "ar13" >}}
 
-Un squelette en armure noire sur un cheval blanc, un roi tombé devant lui, un enfant qui lève les yeux vers le cavalier, et un soleil à l’horizon entre deux tours. Elle parle de la moisson, du terrain qu’on dégage pour recommencer. Y lire une mort au sens propre, c’est une projection, et une projection qui fait peur. La [page de la Mort](/fr/bibliotheque/cartes-tarot/la-mort/) la parcourt avec douceur.
+Dans mes notes, elle parle de la moisson, du terrain qu’on dégage pour recommencer. Y lire une mort au sens propre, c’est une projection, et une projection qui fait peur. La [page de la Mort](/fr/bibliotheque/cartes-tarot/la-mort/) la parcourt avec douceur.
 
 ## Ce qu’un tirage peut porter : l’attente {#l-attente}
 
