@@ -1,0 +1,19 @@
+{{- /* Où une carte se place sur l’Arbre de vie de la Golden Dawn, calculé depuis data/kabbalah.yml et data/cards.yml :
+     un arcane majeur est un sentier, une carte numérale va dans la sphère de son nombre (As → Keter … Dix → Malkhout),
+     une figure de cour dans la sphère de son rang. Rien n’est saisi carte par carte : changer une attribution se fait
+     à un seul endroit. Usage : partial "tree-place.html" "ar00" → dict (kind "path"|"sphere", path, sphere, from, to). */ -}}
+{{- $id := . -}}
+{{- $k := hugo.Data.kabbalah -}}
+{{- $c := false }}{{ range first 1 (where hugo.Data.cards "id" $id) }}{{ $c = . }}{{ end -}}
+{{- $out := dict -}}
+{{- with $c -}}
+  {{- $s := dict }}{{ range $k.sephirot }}{{ $s = merge $s (dict .key .) }}{{ end -}}
+  {{- if eq .suit "major" -}}
+    {{- range first 1 (where $k.paths "card" $id) }}{{ $out = dict "kind" "path" "path" . "from" (index $s .from) "to" (index $s .to) }}{{ end -}}
+  {{- else if le .number 10 -}}
+    {{- range first 1 (where $k.sephirot "n" .number) }}{{ $out = dict "kind" "sphere" "sphere" . }}{{ end -}}
+  {{- else -}}
+    {{- with index $k.courts (string .number) }}{{ $out = dict "kind" "sphere" "sphere" (index $s .) }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

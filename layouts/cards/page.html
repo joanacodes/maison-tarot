@@ -25,7 +25,15 @@
         {{ with $p.element }}<div><div class="k">{{ if $fr }}Élément{{ else }}Element{{ end }}</div><div class="v">{{ . }}{{ partial "sym.html" . }}</div></div>{{ end }}
         {{ with $p.astrology }}<div><div class="k">{{ if $fr }}Astrologie{{ else }}Astrology{{ end }}</div><div class="v">{{ . }}{{ partial "sym.html" . }}</div></div>{{ end }}
         {{ with $p.energy }}<div><div class="k">{{ if $fr }}Énergie{{ else }}Energy{{ end }}</div><div class="v">{{ . }}</div></div>{{ end }}
-        {{ with $p.kabbalah }}<div><div class="k">{{ if $fr }}Kabbale{{ else }}Kabbalah{{ end }}</div><div class="v">{{ . }}</div></div>{{ end }}
+        {{- /* La place sur l’Arbre se calcule (partial tree-place) au lieu d’être saisie : un sentier ouvre l’Arbre interactif sur ce sentier, une sphère mène à sa page */ -}}
+        {{ $place := partial "tree-place.html" (path.BaseName $p.image) }}
+        {{ $tree := $.Site.GetPage (cond $fr "/bibliotheque/kabbale/arbre-de-vie" "/library/kabbalah/tree-of-life") }}
+        {{ if eq $place.kind "path" }}{{ $pa := $place.path }}
+        <div><div class="k">{{ if $fr }}Arbre de vie{{ else }}Tree of Life{{ end }}</div><div class="v tree-place"><a href="{{ with $tree }}{{ .RelPermalink }}{{ end }}#path-{{ $pa.n }}">{{ if $fr }}Sentier{{ else }}Path{{ end }} {{ $pa.n }} · <span lang="he">{{ $pa.glyph }}</span> {{ $p.kabbalah }}</a><small>{{ cond $fr $place.from.fr $place.from.en }} – {{ cond $fr $place.to.fr $place.to.en }}</small></div></div>
+        {{ else if eq $place.kind "sphere" }}{{ $s := $place.sphere }}
+        {{ $sp := $.Site.GetPage (printf "%s/%s" (cond $fr "/bibliotheque/kabbale" "/library/kabbalah") (cond $fr $s.slug_fr $s.slug_en)) }}
+        <div><div class="k">{{ if $fr }}Arbre de vie{{ else }}Tree of Life{{ end }}</div><div class="v tree-place"><a href="{{ with $sp }}{{ .RelPermalink }}{{ end }}">{{ cond $fr $s.fr $s.en }}</a><small>{{ $s.n }} · {{ cond $fr $s.fr_t $s.en_t }}</small></div></div>
+        {{ end }}
       </div>
       <p class="article-meta" style="margin-top:1rem">{{ if $fr }}Illustration : Pamela Colman Smith, 1909 (domaine public).{{ else }}Illustration: Pamela Colman Smith, 1909 (public domain).{{ end }}</p>
     </div>

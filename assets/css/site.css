@@ -808,3 +808,7 @@ body.menu-open { overflow: hidden; }
 .zoom a:hover img, .zoom a:focus-visible img { outline: 2px solid var(--gold); outline-offset: 3px; }
 .zoom figcaption { font-size: var(--t-xs); color: var(--muted); margin-top: .55rem; line-height: 1.4; }
 .zoom figcaption a { color: var(--fg); }
+/* Place de la carte sur l’Arbre, dans les clés de lecture de la page carte */
+.facts .v.tree-place { font-size: var(--t-0); }
+.facts .v.tree-place a { color: inherit; text-decoration-color: var(--gold); }
+.facts .v.tree-place small { display: block; font-size: var(--t-xs); color: var(--muted); margin-top: .2rem; }
