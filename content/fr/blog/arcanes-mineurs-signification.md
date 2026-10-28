@@ -51,11 +51,11 @@ Une case est une poignée, pas une définition. Elle vous donne un point de dép
 
 Prenez un nombre et lisez-le à travers les quatre familles. C’est le moyen le plus rapide que je connaisse pour comprendre à la fois le nombre et les familles, parce qu’une seule chose change à la fois.
 
-Les Cinq sont les plus parlants. Cinq, c’est le conflit, l’épreuve, faire avec ce qui reste. Dans mes notes, les personnages du Cinq de Bâtons semblent se battre, sans aucune coordination. Le Cinq de Coupes est pour moi la lame la plus négative du jeu : perdre, l’émotion sombre, être seul face à ses problèmes. Le Cinq d’Épées est un conflit d’Air, autour des décisions : on n’a pas le même point de vue. Le Cinq de Pentacles, c’est la pauvreté dans la neige, devant l’église où l’on trouverait de la chaleur. Une bagarre, une perte, un désaccord, un hiver difficile. Le conseil du 5 est le même pour les quatre : évitez les combats inutiles, et soyez honnête avec vous-même et avec la situation.
+Les Cinq sont les plus parlants. Cinq, c’est le conflit, l’épreuve, faire avec ce qui reste. Dans mes notes, les personnages du Cinq de Bâtons semblent se battre, sans aucune coordination. Le Cinq de Coupes est pour moi la lame la plus négative du jeu : perdre, l’émotion sombre, être seul face à ses problèmes. Le Cinq d’Épées est un conflit d’Air, autour des décisions : on n’a pas le même point de vue. Le Cinq de Pentacles, c’est la pauvreté dans la neige, en passant devant l’église où l’on trouverait de la chaleur. Une bagarre, une perte, un désaccord, un hiver difficile. Le conseil du 5 est le même pour les quatre : évitez les combats inutiles, et soyez honnête avec vous-même et avec la situation.
 
 {{< cards "wa05 cu05 sw05 pe05" >}}
 
-Les Huit fonctionnent de la même façon. Huit, c’est le quatre exalté : le contrôle, la maîtrise, une porte entre le tangible et l’intangible. Le Huit de Bâtons, c’est le verre à moitié plein ou à moitié vide : des bâtons qui volent ou qui tombent, et c’est vous qui décidez. Le Huit de Coupes passe à autre chose que ce qu’il fait déjà. Le Huit d’Épées, c’est une prisonnière d’elle-même alors qu’elle a tous les outils, et elle peut retirer le bandeau. Le Huit de Pentacles, c’est la maîtrise, et l’effort qu’elle demande. Sur toute la ligne, le 8 pose une seule question : qu’est-ce que vous maîtrisez vraiment ?
+Les Huit fonctionnent de la même façon. Huit, c’est le quatre exalté : le contrôle, la maîtrise, une porte entre le tangible et l’intangible. Le Huit de Bâtons, c’est le verre à moitié plein ou à moitié vide : des bâtons qui volent ou qui tombent, et c’est vous qui décidez. Le Huit de Coupes, c’est quitter ce que vous faites déjà pour passer à autre chose. Le Huit d’Épées, c’est une prisonnière d’elle-même alors qu’elle a tous les outils, et elle peut retirer le bandeau. Le Huit de Pentacles, c’est la maîtrise, et l’effort qu’elle demande. Sur toute la ligne, le 8 pose une seule question : qu’est-ce que vous maîtrisez vraiment ?
 
 Les Dix ferment le cycle. Dix, c’est le couloir entre deux pièces : un passage, la liberté, parfois de courte durée. Garder l’énergie créative sans se surcharger (Bâtons) ; le bonheur et la famille (Coupes) ; toucher le fond avec l’aube derrière (Épées) ; l’abondance complète au foyer, qui sera toujours là si vous quittez le cocon (Pentacles). Ma note sur le 10 le résume le mieux : vu de l’extérieur, on peut vous croire à terre, alors qu’en réalité le papillon est déjà loin, sorti de sa chrysalide.
 
@@ -63,7 +63,7 @@ Toutes les autres lignes se lisent de la même façon, et chaque nombre a sa pag
 
 ## Lire une colonne : une famille, une histoire {#en-colonne}
 
-Lisez une famille de l’As au Dix, et elle raconte une seule histoire. Les Coupes : un sentiment s’ouvre, un lien se noue, des amies font la fête, on ne remarque plus ce qui vous est offert, quelque chose se perd, vous prenez du temps pour vous, trop de choix se présentent, vous vous en allez, le contentement s’installe, et une famille est heureuse sous l’arc-en-ciel. Une histoire d’amour, un chagrin et la façon de s’en remettre, dans une seule famille.
+Lisez une famille de l’As au Dix, et elle raconte une seule histoire. Les Coupes : un sentiment s’ouvre, un lien se noue, des amies font la fête, les offres passent inaperçues, quelque chose se perd, vous prenez du temps pour vous, trop de choix se présentent, vous vous en allez, le contentement s’installe, et une famille est heureuse sous l’arc-en-ciel. Une histoire d’amour, un chagrin et la façon de s’en remettre, dans une seule famille.
 
 Les Épées racontent l’histoire de la tête : une idée claire, un choix repoussé, une coupure, un repos, un affrontement, une traversée vers des eaux plus calmes, une sortie discrète, un piège dont vous pourriez sortir, un cauchemar dont vous sortez, et le fond touché, avec le ciel qui jaunit derrière.
 
@@ -96,7 +96,7 @@ Quand les mineurs côtoient des majeurs, les [22 arcanes majeurs](/fr/blog/arcan
 
 ## Par où commencer {#par-ou-commencer}
 
-Commencez par les quatre As : une graine par élément, et la façon la plus directe de sentir la différence entre les familles. Puis les Cinq, parce que c’est là que le contraste est le plus net. Puis un nombre par semaine : sortez ses quatre cartes du jeu, posez-les côte à côte et dites ce qui change d’une famille à l’autre. Gardez les figures pour la fin ; ce sont les lames qu’on a le plus de mal à situer, et elles prennent leur sens une fois les familles devenues familières.
+Commencez par les quatre As : une graine par élément, et la façon la plus directe de sentir la différence entre les familles. Puis les Cinq, parce que c’est là que le contraste est le plus net. Puis un nombre par semaine : sortez ses quatre cartes du jeu, posez-les côte à côte et dites ce qui change d’une famille à l’autre. Gardez les figures pour la fin ; ce sont les lames qu’on a le plus de mal à situer, et elles prennent leur sens une fois que les familles vous parlent.
 
 Chaque jour, avant de chercher quoi que ce soit, décrivez ce qu’il y a sur la carte, ce que vous voyez et ce que vous recevez. Puis vérifiez sur sa page.
 

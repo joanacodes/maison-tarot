@@ -49,11 +49,13 @@ Inutile non plus d’attendre qu’on vous l’offre. [Acheter son propre jeu ne
 
 Le bon moment pour un deuxième jeu, c’est quand vous lisez un inconnu à partir d’une seule carte sans ouvrir de livre, et que votre carnet le montre. Avant, un deuxième jeu double l’apprentissage sans doubler la lecture. Et c’est un plaisir, pas une étape obligatoire : je lis toujours avec le Rider-Waite-Smith.
 
-Le tarot de Marseille, c’est la tradition française. Ses numérales n’ont pas de scène : vous les lisez avec le nombre et l’élément, rien d’autre. C’est le meilleur test pour savoir si les clés de lecture sont vraiment acquises, et [les deux jeux côte à côte](/fr/blog/tarot-de-marseille-ou-rider-waite/) montrent exactement ce qui change.
+Les autres jeux ont chacun leur moment.
 
-Le tarot de Thoth a été conçu par Aleister Crowley et peint par Frieda Harris. Il est très travaillé, réaliste à sa manière, et chargé de symbolisme occulte. Je l’ai moi-même rangé sur l’étagère « à explorer plus tard ». Je le garderais pour le jour où les symboles vous intéresseront pour eux-mêmes ; [voici ce qui change quand on passe de l’un à l’autre](/fr/blog/thoth-ou-rider-waite/).
+Le tarot de Marseille, c’est pour le moment où les scènes commencent à faire trop de travail à votre place. Ses numérales, comme le Cinq de Coupes plus haut, n’ont personne dedans : le nombre et l’élément doivent porter la lecture seuls. S’ils y arrivent, les clés de lecture sont à vous. [Les deux jeux côte à côte](/fr/blog/tarot-de-marseille-ou-rider-waite/) montrent exactement ce que vous perdez et ce que vous gardez.
 
-Les oracles ne sont pas des tarots : autant de cartes que l’auteur le souhaite, avec les significations qu’il a choisies. Collectionner les jeux, c’est un peu comme collectionner des œuvres d’art, chaque carte étant une image où l’on peut lire un message, et un oracle peut être un très bel objet. Il ne vous apprendra pas la structure du tarot pour autant. [La différence est expliquée ici](/fr/blog/difference-entre-tarot-et-oracle/).
+Le Thoth, conçu par Aleister Crowley et peint par Frieda Harris, c’est pour le moment où vous voudrez comprendre pourquoi une carte est construite ainsi. Il est très travaillé, réaliste à sa manière, et chargé de symbolisme occulte ; dans mes propres notes, il est rangé sous « à explorer plus tard ». [Voici ce qui change quand on passe de l’un à l’autre](/fr/blog/thoth-ou-rider-waite/).
+
+Les oracles, eux, n’ont pas de moment, parce qu’ils ne sont pas une étape sur la même route. Ils comptent autant de cartes que leur auteur le souhaite, avec les significations qu’il a choisies. Collectionner les jeux, c’est un peu comme collectionner des œuvres d’art, chaque carte étant une image où l’on peut lire un message : profitez-en quand vous voulez. Ils ne vous apprendront pas la structure du tarot. [La différence est expliquée ici](/fr/blog/difference-entre-tarot-et-oracle/).
 
 ## Commencez par une carte {#commencer}
 
