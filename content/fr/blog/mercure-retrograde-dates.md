@@ -17,7 +17,7 @@ Si vous voulez d’abord comprendre ce qu’est une rétrogradation, tout est da
 
 ## Mercure rétrograde 2026 : les trois périodes {#dates-2026}
 
-Une rétrogradation de Mercure, c’est la période pendant laquelle Mercure, vu depuis la Terre, semble reculer dans le zodiaque. Chacune a un début (le jour où la planète « stationne » rétrograde), une fin (le jour où elle repart en direct) et un signe qu’elle traverse.
+Chaque rétrogradation a un début (le jour où la planète « stationne » rétrograde), une fin (le jour où elle repart en direct) et un signe qu’elle traverse.
 
 | Début | Fin | Signe |
 |---|---|---|
@@ -37,7 +37,7 @@ Celle d’automne est en cours au moment où je publie. Mercure a fait demi-tour
 | 10 juin 2027 | 4 juillet 2027 | Cancer, puis retour en Gémeaux le 26 juin |
 | 7 octobre 2027 | 28 octobre 2027 | Scorpion, puis retour en Balance le 16 octobre |
 
-En 2027, chaque rétrogradation commence dans un signe et recule dans le précédent avant de repartir. Les astrologues y lisent un dossier qu’on rouvre : celle d’octobre, par exemple, part du terrain du Scorpion et se termine sur celui de la Balance.
+En 2027, chaque rétrogradation commence dans un signe et recule dans le précédent avant de repartir. Les astrologues y lisent un dossier qu’on rouvre sur un autre terrain.
 
 Ces dates concordent dans les éphémérides et les almanachs que j’ai consultés, dont [Cafe Astrology](https://cafeastrology.com/events/mercury-turns-direct-in-scorpio-2026/) et le [Farmers’ Almanac](https://www.farmersalmanac.com/mercury-retrograde). Si un site vous donne des dates plus larges de plusieurs semaines, il compte l’ombre dans la rétrogradation ; si elles sont décalées d’un jour, c’est le fuseau horaire.
 
