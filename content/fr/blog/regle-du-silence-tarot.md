@@ -34,7 +34,7 @@ La règle du silence me retire cet outil. Il me reste la carte, les couleurs, le
 
 ## Ce qui s’est passé la première fois {#premiere-fois}
 
-Ma toute première lecture pour une inconnue s’est faite dans ces conditions, sur un groupe Discord trouvé via Tumblr. La lecture parlait d’une relation, et montrait qu’elle n’avait pas été gentille avec l’autre personne ; elle m’a répondu que ça ne lui parlait pas, qu’elle ne cherchait pas de relation. Trois ou quatre jours plus tard, elle m’a écrit, sous le choc : tout était arrivé.
+Ma toute première lecture pour une inconnue s’est faite dans ces conditions, sur un groupe Discord trouvé via Tumblr. Le tirage parlait d’une relation, et montrait qu’elle n’avait pas été gentille avec l’autre personne ; elle m’a répondu que ça ne lui parlait pas, qu’elle ne cherchait pas de relation. Trois ou quatre jours plus tard, elle m’a écrit, sous le choc : tout était arrivé.
 
 Ce que je retiens de cette histoire, ce n’est pas que j’avais raison — j’aurais très bien pu ne pas l’avoir. C’est que si elle m’avait dit au départ « je ne cherche pas de relation », je n’aurais jamais dit ce que j’ai dit. Le silence m’a laissée dire ce qui montait. [Toute l’histoire](/fr/blog/premier-tirage-tarot/) a sa propre page.
 

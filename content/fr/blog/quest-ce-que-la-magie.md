@@ -53,7 +53,7 @@ Elle ne prétend pas à des pouvoirs. Je n’ai pas de capacités que les autres
 
 Elle ne prétend pas que l’inexpliqué soit dangereux, maléfique ou saint. « Inexpliqué » décrit l’état de nos connaissances, pas la chose elle-même.
 
-Et elle ne prétend à aucune certitude. Quand [un correspondant m’a demandé un jour si je lisais dans les pensées ou si j’étais magicienne](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/), la réponse honnête était ni l’un ni l’autre — et aussi que je ne sais pas expliquer entièrement comment marche un tirage. C’est précisément là que commence ma définition.
+Et elle ne prétend à aucune certitude. Quand [un correspondant m’a demandé un jour si je lisais dans les pensées ou si j’étais magicienne](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/), la réponse honnête, c’était ni l’un ni l’autre — et aussi que je ne sais pas expliquer entièrement comment marche un tirage. C’est précisément là que commence ma définition.
 
 La limite, dite calmement : appeler quelque chose « magie », c’est un aveu, pas une explication. Le risque, c’est de s’arrêter là.
 
