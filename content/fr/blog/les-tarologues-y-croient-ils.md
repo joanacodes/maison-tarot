@@ -33,7 +33,7 @@ Et je ne prétends pas savoir comment ça marche. Personne ne le sait, y compris
 
 ## Ce que je crois, parce que j’ai compté {#ce-que-j-ai-compte}
 
-Je suis arrivée là en sceptique. J’ai lancé une vidéo d’astrologie pour m’en moquer, j’ai lu mon propre thème, et je l’ai trouvé trop précis pour être confortable. Alors je l’ai testé case par case, puis sur ma famille, mes amis, des inconnus. Au total, 30 à 40 % tenaient, et Saturne, Lilith et Chiron tenaient à 75-90 %. Tout le test est dans [j’ai testé mon thème astral case par case](/fr/blog/j-ai-teste-mon-theme-astral/).
+Je suis arrivée là en sceptique : j’ai lancé une vidéo d’astrologie pour m’en moquer, et j’ai fini par tester mon propre thème case par case. Cette histoire, chiffres compris, est dans [un sceptique peut-il apprendre le tarot ?](/fr/blog/un-sceptique-peut-il-apprendre-le-tarot/)
 
 J’ai fait la même chose avec le tarot. J’ai lu pour des inconnus qui ne me disaient rien, et j’ai noté à chaque fois ce que j’avais dit et ce qu’ils confirmaient. À peu près neuf lectures sur dix tenaient. À peu près une sur dix ratait, et je le dis. Ces ratés sont la partie à laquelle je me fie le plus : un tarologue incapable de vous dire combien de fois il se trompe vous demande de croire le reste sur parole.
 

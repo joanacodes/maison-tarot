@@ -57,6 +57,6 @@ Lisez chaque carte par son nombre, son élément et ses couleurs avant de cherch
 
 ## À quand la prochaine ? {#la-prochaine}
 
-Il y en a une en cours au moment où j’écris, en Scorpion. Toutes les périodes de 2026 et 2027, avec leur signe, sont dans [Mercure rétrograde 2026 et 2027 : les dates](/fr/blog/mercure-retrograde-dates/). Cet automne, Vénus est rétrograde en même temps, et [Vénus rétrograde 2026](/fr/blog/venus-retrograde-2026/) dit ce qu’on lui prête pour la vie à deux.
+Il y en a une en cours au moment où j’écris, en Scorpion. Toutes les périodes de 2026 et 2027, avec leur signe et leurs semaines d’« ombre » (la raison pour laquelle certains sites donnent des dates plus larges que d’autres), sont dans [Mercure rétrograde 2026 et 2027 : les dates](/fr/blog/mercure-retrograde-dates/), avec une façon de compter ce qui tourne vraiment mal pendant l’une d’elles.
 
-Si vous aimez suivre les rétrogrades, continuez. Je vous demande seulement de compter. Avant la prochaine, écrivez une ligne dans votre carnet : qu’est-ce que je m’attends à voir mal tourner ? Trois semaines plus tard, relisez la ligne et mettez-lui une coche ou une croix.
+Si vous aimez suivre les rétrogrades, continuez. Je vous demande seulement de compter avant de croire.
