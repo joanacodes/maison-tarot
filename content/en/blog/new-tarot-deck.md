@@ -17,7 +17,7 @@ You don’t need a ritual to start with a new tarot deck. You need a week of loo
 
 No. A new-deck ritual is any small ceremony a reader performs before using a deck for the first time: going through it card by card, sleeping with it under the pillow, cleansing it with smoke or moonlight, knocking on it, or laying a deck interview spread. People do them to mark the start, and to feel that the deck is theirs.
 
-Some of that is pleasant, and I wouldn’t talk anyone out of a habit they enjoy. But what makes a deck yours isn’t the ceremony. It’s learning how its artist draws. I sold sage in 2021 and stopped, because nothing in it improved a reading; I tell that story in [do you need to cleanse your deck](/blog/cleanse-tarot-deck/).
+Some of that is pleasant, and I wouldn’t talk anyone out of a habit they enjoy. But what makes a deck yours isn’t the ceremony. It’s learning how its artist draws. Smoke and moonlight are a question of their own; I once sold sage, and I explain [why I stopped](/blog/cleanse-tarot-deck/).
 
 My first deck was a Christmas present from friends, and I started reading with it on 26 December 2020. **What taught me that deck was reading with it.**
 

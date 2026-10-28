@@ -31,7 +31,7 @@ There's a difference, and it matters.
 
 Upset is sad, hurt, rattled after a hard conversation. You can still sit still. A card later that evening might help you name what you feel.
 
-In a state is something else. You're pulling card after card, reshuffling, asking the same question in new words. Some people arrive at a reading like that, almost fidgety, with a high dose of doubt running through them. When I see it, I usually don't read. They haven't done anything wrong; what they need is to breathe, to make a decision, or to go through the thing they're afraid of. Another card won't give them that, and asking [the same question twice](/blog/ask-tarot-the-same-question-twice/) only makes the doubt louder.
+In a state is something else. You're pulling card after card, reshuffling, asking the same question in new words. I see the same thing in some people who come to me for a reading, a high dose of doubt more than a question, and I usually suggest we don't read at all. Nobody has done anything wrong; another card won't settle the doubt, and asking [the same question twice](/blog/ask-tarot-the-same-question-twice/) only makes it louder.
 
 If you recognise the second picture in yourself, the kindest move is to put the deck in a drawer for the evening. There's more on [why stepping away from the cards helps](/blog/why-you-should-quit-tarot-reading/), and it isn't a punishment.
 

@@ -50,7 +50,7 @@ This is where most of the value is, and where most people go quiet.
 
 Say plainly what landed and what didn’t. “That part was right, that part wasn’t me at all.” A reader who counts needs both, and a miss named honestly is worth more than a polite nod. If a reader turns your “no” into “you’ll understand later”, take note of that too.
 
-Let it sit. Some readings make sense on the spot; some take days. The very first reading I gave a stranger “missed” — she said it didn’t resonate — and three or four days later she texted me, a little shocked, because it had all happened. If something clicks later, telling your reader is a lovely thing to do.
+Let it sit. Some readings make sense on the spot; some take days. [My very first reading for a stranger](/blog/first-tarot-reading-story/) “missed” on the day and came true a few days later. If something clicks later, telling your reader is a lovely thing to do.
 
 Write it down the same day, before your memory tidies it up. Within a week most people remember the parts that landed and forget the rest; a note keeps both, which is the only way to judge the reading fairly later.
 

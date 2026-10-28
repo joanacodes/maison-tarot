@@ -17,7 +17,7 @@ Yes, in my experience. Most of my readings for strangers were done online, often
 
 When I counted my [300 blind readings](/blog/does-tarot-work-300-readings/), most of them happened online: on Discord servers, in group calls, and during a live. Some were face to face. About nine in ten held, by my own count, and the readings behind that number were mostly done through a screen.
 
-My very first reading for a stranger was one of them. It was on a Discord group I’d found through Tumblr, with a woman I had never met. She said it didn’t resonate; three or four days later she texted me, shocked, because everything had happened. The reading and the confirmation both reached me through a screen.
+[My very first reading for a stranger](/blog/first-tarot-reading-story/) was one of them: it happened on a Discord group, and the confirmation came days later, by text. Both reached me through a screen.
 
 One honest limit: that nine in ten covers the online and the face-to-face readings together. It can’t tell you whether one kind held better than the other. What it does show is that a screen didn’t stop readings from holding.
 
@@ -43,7 +43,7 @@ Not the reading itself, usually. The setting.
 
 ## Group calls and lives {#group-calls}
 
-Some of my readings were done in front of others: in group calls, and during a live. One of the reviews I received on Facebook came from someone I read during a live. The format is still the same: they tell me nothing, I say what comes, they say whether it landed. That’s how the [free online events](/events/) work today.
+Some of my readings were done in front of others: in group calls, and during a live. One of the reviews I received on Facebook came from someone I read during a live. The format is still the same: they tell me nothing, I say what comes, they say whether it landed. That’s how my free online events work today.
 
 At the far end of distance there’s the pick-a-card video, recorded by someone who has never met you. One of those made me sob, because it put words on my situation for the first time. I wrote about [whether pick-a-card readings work](/blog/do-pick-a-card-readings-work/), and where they fall short.
 

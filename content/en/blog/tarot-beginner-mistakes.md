@@ -25,7 +25,7 @@ Plenty of beginners wait for a sign that they're “one of those people”. Ther
 
 ### 3. Buying the ritual before learning the deck
 
-Sage, crystals, a full-moon cleanse, a second and third deck by week two. In 2021 I sold sage, candles and “channelled” cards, and I stopped: nothing in any of it improved a reading. **One Rider-Waite-Smith deck is enough for your first year** — [here's why I start everyone on it](/blog/best-tarot-deck-for-beginners/).
+Sage, crystals, a full-moon cleanse, a second and third deck by week two. None of it teaches you to read. **One Rider-Waite-Smith deck is enough for your first year**; add one lens, a notebook and someone who tells you nothing, and you have the whole kit from [the method I teach beginners](/blog/how-to-read-tarot-beginners/).
 
 ## While you read {#while-you-read}
 

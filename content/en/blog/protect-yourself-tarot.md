@@ -25,7 +25,7 @@ Say a reader has a friend coming round to talk about a painful break-up. Before 
 
 Not in the sense that a reading is dangerous without it. Plenty of readers would disagree with me, and they’re entitled to. I respect anyone whose ritual helps them feel steady. A gesture that tells your body “now I’m reading” and “now I’ve stopped” does something real, and that’s worth keeping.
 
-My own path went the other way. I sold sage and candles in 2021, then stopped, because nothing in them improved a reading. I’ve told that part in [why I stopped cleansing my deck](/blog/cleanse-tarot-deck/).
+My own path went the other way: I once sold sage and candles, and I’ve explained [why I stopped](/blog/cleanse-tarot-deck/) elsewhere.
 
 **The protection I rely on isn’t an object; it’s knowing what’s mine.**
 

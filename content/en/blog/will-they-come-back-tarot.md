@@ -25,9 +25,9 @@ So if you’ve asked it — to a deck, to a friend, to a video at two in the mor
 
 It puts you on hold. Whatever the answer, the question keeps your attention fixed on another person’s next move, and your own life goes into the waiting room.
 
-Think about the three answers a reading could give. A yes keeps you waiting, sometimes for months, sometimes for someone who has already moved on. A no hurts twice: once for the loss, once for the card. And a maybe — which is what most cards honestly say — brings you back to ask again next week.
+Think about the three answers a reading could give. A yes keeps you waiting, sometimes for months, sometimes for someone who has already moved on. A no hurts twice: once for the loss, once for the card. And a maybe — which is what most cards honestly say — brings you back to ask again next week. That maybe is what paid [‘no contact’ readings](/blog/no-contact-tarot-readings/) sell, a few euros at a time.
 
-Some people do come back with the same question, again and again, almost fidgety. I don’t see weakness in that. It’s a high dose of doubt, and what helps it is rarely another reading. It’s a breath, a decision, or going through the thing you’re afraid of. I wrote more about that loop in [why you might put the deck down for a while](/blog/why-you-should-quit-tarot-reading/).
+Some people do come back with the same question, again and again. I don’t see weakness in that; it’s doubt, and what helps it is rarely another reading. I wrote more about that loop in [why you might put the deck down for a while](/blog/why-you-should-quit-tarot-reading/).
 
 **The question makes you wait; it never helps you live through the waiting.**
 
@@ -50,7 +50,7 @@ Ask about the person who is in the room: you. A few questions that work well:
 - What would I do differently if I stopped waiting?
 - What did this relationship show me about what I want?
 
-Say someone asks the first one and draws the Five of Cups: a figure in a black cloak, head bowed over three spilled cups, with two cups still standing behind them. In my notes it’s the most negative card of the deck — losing, a dark emotion, being alone with your problems. That’s honest about how it feels. But [the Five of Cups](/library/tarot-cards/five-of-cups/) also keeps two full cups behind the figure, and the figure hasn’t turned round yet.
+Say someone asks the first one and draws the Five of Cups: a figure in a black cloak, head bowed over three spilled cups, with two cups still standing behind them. In my notes it’s the most negative card of the deck — losing, a dark emotion, being alone with your problems. That’s honest about how it feels. But the Five of Cups also keeps two full cups behind the figure, and the figure hasn’t turned round yet.
 
 Next to it, the Six of Cups: two children in a garden, one handing the other a cup full of flowers. Taking time for yourself, going back to what once made you happy, flowering again.
 

@@ -90,6 +90,6 @@ In each case, a few weeks without the cards does more than another draw. You nee
 
 Reading for yourself teaches you the deck. Reading for someone else teaches you whether you can read. Only another person can sit across the table, keep quiet, and then tell you what landed and what didn’t.
 
-So after a few weeks of one card a morning, find one person. A friend who can keep a straight face, a stranger in a tarot group, a pen pal; I found my first strangers through a Discord group I’d come across on Tumblr. Draw one card, say what you see, and let them speak only at the end. The first time you say something true about a person who told you nothing, and you’re as surprised as they are, you’ll understand why I teach this. You can’t be told what it’s like. You can only try.
+So after a few weeks of one card a morning, find one person: a friend who can keep a straight face, a stranger in a tarot group, a pen pal. Draw one card, say what you see, and let them speak only at the end. The first time you say something true about a person who told you nothing, and you’re as surprised as they are, you’ll understand why I teach this. You can’t be told what it’s like. You can only try.
 
 If you don’t know where to look, here’s [where to find people to read for who’ll tell you nothing](/blog/where-to-find-people-to-read-for/).

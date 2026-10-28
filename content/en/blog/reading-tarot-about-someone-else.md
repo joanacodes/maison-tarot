@@ -15,7 +15,7 @@ I’d rather not read about someone who isn’t in the room and hasn’t said ye
 
 ## Why consent matters, even with cards {#consent}
 
-You wouldn’t want someone going through your bedroom while you were out, whatever their reasons. Reading someone without their consent feels like that to me: looking into a private room they haven’t opened.
+You wouldn’t want someone going through your bedroom while you were out, whatever their reasons. Reading someone without their consent feels like that to me: looking into a private room they haven’t opened. It’s why consent comes first in [my short version of tarot ethics](/blog/tarot-ethics-short-version/).
 
 There’s a practical side too. Someone who doesn’t know they’re being read isn’t open to it. In my experience you catch half a sentence of them, and then you’re tempted to build a whole statement on it: “he regrets it”, “she’s jealous”, “they’re about to leave”. This is only my experience and the hypothesis I draw from it; nothing about it has been proven scientifically. It’s enough for me to always ask first, and to step back when the person can’t be asked. It’s on [the list of what I don’t read](/disclaimers/#refusals), and the same goes for [looking up someone’s birth chart without asking](/blog/birth-chart-without-permission/).
 
@@ -41,11 +41,11 @@ What you can read is the conflict as you live it. Say you draw the Five of Sword
 
 “Why is she like this?” “Is she hiding something from me?” Sometimes, quietly: “Is she ill?” Questions about a parent carry a whole childhood in them. The health one in particular isn’t for the cards; I explain why, gently, in [why careful readers step back from health, pregnancy and death](/blog/health-pregnancy-death-tarot/).
 
-What a reading can hold is the relationship from your side. Say you draw [the Empress](/library/tarot-cards/the-empress/): a woman among ripening wheat, the mother who feeds and makes things grow, and who, on her other side, can smother. That card opens a better question than “why is she like this?”: “What do I need from her that I haven’t yet asked for, and what can I give myself?”
+What a reading can hold is the relationship from your side. Say you draw the Empress: a woman among ripening wheat, the mother who feeds and makes things grow, and who, on her other side, can smother. That card opens a better question than “why is she like this?”: “What do I need from her that I haven’t yet asked for, and what can I give myself?”
 
 ## When someone else turns up anyway {#when-they-show-up}
 
-Other people do appear in readings, even when nobody asked about them. In my very first reading for a stranger, the cards talked about a relationship, and also showed that she hadn’t been especially kind to the other person. She told me it didn’t resonate; three or four days later she wrote to say it had all happened. I tell it in full in [my first tarot reading story](/blog/first-tarot-reading-story/).
+Other people do appear in readings, even when nobody asked about them. In [my very first reading for a stranger](/blog/first-tarot-reading-story/), the cards talked about a relationship, and also showed that she hadn’t been especially kind to the other person.
 
 Notice what that reading did: it talked about her, and her part. That’s the difference. When someone turns up in your cards, read them as they live in you: your fear of them, your love for them, your share of the story. That’s yours to look at. Their inner life isn’t.
 

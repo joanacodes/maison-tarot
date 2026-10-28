@@ -77,6 +77,6 @@ What I do, and what I’d suggest:
 
 If you’re reading for someone else, say the card’s plus first and its minus second, in plain words.
 
-And the honest limit, said calmly: a frightening message can be wrong even when it seems to come true. After my closest friend died of cancer, I was so angry that I asked silently “who’s next?” and heard a man’s voice give another friend’s name and “is going to have an accident”. Two weeks later, that friend’s car was hit by a truck. My friend is alive and well today. The information was wrong in what mattered most. I tell it in full in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/).
+And the honest limit, said calmly: a frightening message can be wrong in what matters most even when part of it comes true. I learned that from a voice rather than a card, and I tell it in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/).
 
 Take the four cards out of your deck tonight, lay them in a row, and say each one’s plus out loud. Then, to be fair, do the same with [the happiest cards](/blog/happiest-tarot-cards/) — they have a minus too.

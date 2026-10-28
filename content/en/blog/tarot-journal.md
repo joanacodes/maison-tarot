@@ -29,17 +29,17 @@ Say you read for a friend and draw the Three of Cups, then the Eight of Pentacle
 
 Under each reading, one mark: held, or missed.
 
-I count a reading as held when the person recognises their situation, either with a visible reaction while I'm talking or with a confirmation afterwards. It's missed when nothing lands, or when the person says so. There's no third box. The moment you add "partly" or "we'll see", every miss starts drifting into it and the count stops meaning anything.
+Mark it held when the person recognises their situation, with a visible reaction while you're talking or a confirmation afterwards. Mark it missed when nothing lands, or when the person says so. There's no third box. The moment you add "partly" or "we'll see", every miss starts drifting into it and the count stops meaning anything.
 
 A missed entry looks just as plain as a held one. Left: "a move, boxes, a new city". Right: "No, nothing like that." Mark: missed. It's the most useful line on the page.
 
-Write the mark the same evening, while a miss still stings. Then leave a little room in the right column, because confirmation sometimes arrives late. The first stranger I ever read for told me it didn't resonate; three or four days later she texted me, shocked, because everything had happened. If a message like that comes, add it with its date.
+Write the mark the same evening, while a miss still stings. Then leave a little room in the right column, because confirmation sometimes arrives days later. If it does, add it with its date.
 
 Every ten readings, count. Not to grade yourself, but to see what your misses have in common: a subject, a time of day, a long evening. I sometimes stop after two hours of readings, out of caution, and a notebook is how you find your own limit.
 
 ## What my notebook says {#what-it-says}
 
-I kept this notebook through about three hundred free blind readings for strangers. By my count, about nine in ten held and about one in ten missed. It's a manual tally kept by the person doing the readings, not a study, and [the full count, with what it doesn't prove](/blog/does-tarot-work-300-readings/), has its own page.
+I kept this notebook through about three hundred free blind readings for strangers, and by my count about nine in ten held and one in ten missed. [The full count, with what it doesn't prove](/blog/does-tarot-work-300-readings/), has its own page.
 
 The percentage isn't what changed me. Three habits did:
 

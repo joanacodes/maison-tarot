@@ -27,7 +27,7 @@ Prices, tax included, are on [the sessions page](/sessions/) and [the workshops 
 
 Readings. They happen at events: online evenings where a few people are drawn at random and read one after another, having told me nothing; meetups in person; webinars on one lens with questions at the end.
 
-It has been that way from the start. When I began reading for strangers, it was on Discord servers, in group calls and on a live, with some face to face. All of it was free, because I wanted to know whether it worked, not to earn from it. I kept a notebook and counted: about nine readings in ten held, and one in ten missed.
+It has been that way from the start. The [blind readings I counted](/blog/does-tarot-work-300-readings/) were all free, because I wanted to know whether reading worked, not to earn from it.
 
 **A reading at Maison Tarot is something you’re given, not something you’re sold.**
 
@@ -37,9 +37,9 @@ Because of what a price does to the reader. To me, in other words.
 
 A practice that lives on readings needs people to come back for readings. That isn’t wickedness; it’s arithmetic, and it shapes small things: how a session ends, whether a refused subject starts to look less dangerous in a slow month, whether a miss gets said out loud. When a reading is free, a miss costs me a line in my notebook. When it’s paid, there’s a pull to rescue it, and I’d rather not find out how strong that pull is.
 
-Then there’s the person in front of me. Some people arrive almost fidgety, with the same question they brought last month and the month before. What they need is to breathe, to make a decision, or to go through the thing they’re afraid of. Not another reading. That’s much easier to say when nobody is paying me to do the opposite.
+Then there’s the person in front of me. When someone brings the same question month after month, what they usually need is [a break from readings](/blog/why-you-should-quit-tarot-reading/), not another one, and that’s much easier to say when nobody is paying me to do the opposite.
 
-I’ve also tried selling the objects around tarot. In 2021 I sold sage, candles and “channelled” cards, and I stopped, because nothing in them ever improved a reading. I go into what a reader might sell, if anything, in [should you become a tarot reader professionally](/blog/become-a-tarot-reader/).
+I’ve also tried selling the objects around tarot: sage, candles and “channelled” cards, in 2021. I stopped, for reasons I give in [do you need to cleanse your deck](/blog/cleanse-tarot-deck/).
 
 A lesson works the other way round. Its job is to make you need me less. If you leave a workshop reading a card you’d never seen, it worked. You can’t be told what it’s like; you can only try. Helping you try is something I’m comfortable charging for.
 
@@ -47,13 +47,13 @@ A lesson works the other way round. Its job is to make you need me less. If you 
 
 Yes, many can, and honestly. Reading is work. It takes time, attention and practice, and it’s tiring: interpreting takes energy, and after a run of readings I sometimes stop at two hours, out of caution. A reader who asks to be paid for that hour is asking for what any other professional asks.
 
-What I’d look at isn’t whether there’s a price, but its shape. A stated price for a stated length of time, with nothing added at the end, is a fair exchange. A “second session” needed because the first ended on a cliffhanger rewards the reader for keeping you uncertain. The market side — how readings are sold, what a fair price pays for, how to compare two readers — is in [how much a tarot reading costs](/blog/tarot-reading-price/).
+What I’d look at isn’t whether there’s a price, but its shape. A stated price for a stated length of time, with nothing added at the end, is a fair exchange. A “second session” needed because the first ended on a cliffhanger rewards the reader for keeping you uncertain.
 
 So my choice is mine, not a rule for everyone. I sell lessons because that’s the arrangement where my interest and yours point the same way. A reader who charges a fair price, names their misses and steps back from health, death and money questions is doing honest work, and I’d send people to them.
 
 ## Should tarot be free? {#should-tarot-be-free}
 
-Much of it already is, here. [The Library](/library/), with the colours, numbers, elements, energies and every card, costs nothing. So does every article on this blog, my method and my numbers included. You can learn to read without paying me anything.
+Much of it already is, here. The Library, with the colours, numbers, elements, energies and every card, costs nothing. So does every article on this blog, my method and my numbers included. You can learn to read without paying me anything.
 
 Free isn’t automatically clean, though. A free reading can be the bait at the top of a funnel, and what matters is what comes after it. At my events, what comes after is nothing: the reading ends, and you go home with it.
 

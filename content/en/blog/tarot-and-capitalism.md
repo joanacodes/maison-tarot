@@ -43,7 +43,7 @@ You can watch it drift in three directions:
 
 - Towards the questions that sell. “Is he coming back?”, “Will I get pregnant?”, “Should I take the money?” are the questions people most want answered, and the ones where a wrong word does most damage. They’re on my list of subjects I don’t read on.
 - Towards repeat visits. Sessions that end on a cliffhanger, pay-per-question, [subscriptions and “extended readings”](/blog/tarot-subscriptions/). Each one rewards the reader when you need them again.
-- Towards objects. In 2021 I sold sage, candles and “channelled” cards alongside the rest. I stopped. Nothing in that box ever improved a reading, and a shop pays you for selling things, not for reading well.
+- Towards objects. I sold sage, candles and “channelled” cards in 2021, and I explain [why I stopped](/blog/cleanse-tarot-deck/): nothing in that box improved a reading, and a shop pays you for selling things, not for reading well.
 
 None of this needs a villain. It needs a slow month and a calendar to fill.
 

@@ -33,7 +33,7 @@ For someone who learnt meanings by heart, the lenses are a second way in. Take t
 
 The [method](/method/) is the part experienced readers tend to argue with, and that's fine. It comes down to three habits. The person tells me nothing first. Before I read, I tell myself I'm about to talk nonsense, which keeps my ego quiet. And I keep a notebook in two columns: what I said, what was confirmed.
 
-By my own count, about nine readings in ten held and one in ten missed. It's a manual tally, not a study, and I publish the misses with the hits. What I'd offer a reader who already reads isn't my number, though; it's the notebook. Keep one for a month and you'll know your own rate, which is worth more to you than mine.
+By my own count, about nine readings in ten held and one in ten missed, and I publish the misses with the hits. What I'd offer a reader who already reads isn't my number, though; it's the notebook. Keep one for a month and you'll know your own rate, which is worth more to you than mine.
 
 ## Workshops and sessions: reading blind, with someone checking {#workshops}
 

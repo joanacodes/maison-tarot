@@ -15,7 +15,7 @@ People to read for are easier to find than you’d think: online groups where pe
 
 ## Online groups where people ask for readings {#online-groups}
 
-My first reading for a stranger happened on a Discord group I’d found through Tumblr. I asked who wanted a reading, someone said yes, and I had nothing but a username. The reading came out about a relationship; she said it didn’t resonate, because she wasn’t looking for one. Three or four days later she texted me, shocked: it had all happened. I tell the whole story in [my first reading was “wrong”](/blog/first-tarot-reading-story/).
+My first reading for a stranger happened on a Discord group I’d found through Tumblr. I asked who wanted a reading, and someone said yes. The reading came out about a relationship; she said it didn’t resonate, because she wasn’t looking for one. Three or four days later she texted me, shocked: it had all happened. I tell the whole story in [my first reading was “wrong”](/blog/first-tarot-reading-story/).
 
 A few months after I started, I was reading in Facebook tarot groups too, and doing lives there. Groups like these exist because people want readings and readers want practice, and both sides know it.
 

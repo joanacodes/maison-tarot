@@ -35,15 +35,15 @@ By my definition, all three were magic, and two of them have mostly stopped bein
 
 ## Where tarot sits in that definition {#where-tarot-sits}
 
-What I know happens: people say true things about strangers who’ve told them nothing. I counted my own readings in a notebook, and about nine in ten held. It isn’t a study, but it’s more than a feeling. When friends try it for the first time, they say something true and look shocked by what came out of their own mouth. That look is why I teach.
+What I know happens: people say true things about strangers who’ve told them nothing. [By my own count](/blog/does-tarot-work-300-readings/), about nine in ten of my readings held. It isn’t a study, but it’s more than a feeling. When friends try it for the first time, they say something true and look shocked by what came out of their own mouth. That look is why I teach.
 
 Part of it I can explain. Some of what feels like a hit is general enough to fit anyone, which is why I check my readings against [the Barnum effect](/blog/barnum-effect-tarot/). Memory keeps the hits and drops the misses. A face reacts before its owner decides to.
 
-Part of it I can’t. After reading for a friend, I once felt someone with me at home: her grandfather, a strict Japanese man with a lot of love in him. He seemed to speak Japanese, so I drew instead — the number five, again and again, and “under the house”. My friend went down to storage cell number five in her building’s basement, not hers and already open, and found it full of paint pots. That was the whole message. The rest is among [the strangest things that happened during my readings](/blog/weird-tarot-reading-stories/).
+Part of it I can’t. After reading for a friend, I once felt her grandfather with me at home, and the message he gave me, a five and “under the house”, led her to a basement storage cell number five full of paint pots. I tell it properly in [what one very polite grandfather taught me](/blog/is-tarot-evil/).
 
 I don’t know what that was. I know it happened, and I can’t explain it. That’s exactly where I file it.
 
-If you want the idea in two cards, take the Magician and the High Priestess. In my notes, [the Magician](/library/tarot-cards/the-magician/) has all four elements on his table and knows how to do everything — and his minus is that he can pretend, if you trust him blindly. Both meanings of “magician” in one card. The High Priestess knows a great deal and shows you only a façade, like the hidden face of the moon: what exists and isn’t visible yet.
+If you want the idea in two cards, take the Magician and the High Priestess. In my notes, the Magician has all four elements on his table and knows how to do everything — and his minus is that he can pretend, if you trust him blindly. Both meanings of “magician” in one card. The High Priestess knows a great deal and shows you only a façade, like the hidden face of the moon: what exists and isn’t visible yet.
 
 {{< cards "ar01 ar02" >}}
 
@@ -53,7 +53,7 @@ It doesn’t claim powers. I don’t have abilities other people lack; anyone ca
 
 It doesn’t claim that the unexplained is dangerous, evil or holy. “Unexplained” describes the state of our knowledge, not the thing itself.
 
-And it doesn’t claim certainty. A man on a pen-pal app once wrote back to ask whether I could read minds or was a magician. It made me laugh. The honest answer is neither, and also that I can’t fully tell him how a reading works — which is exactly where my definition begins.
+And it doesn’t claim certainty. When [a pen-pal once asked whether I could read minds or was a magician](/blog/where-to-find-people-to-read-for/), the honest answer was neither, and also that I can’t fully explain how a reading works — which is exactly where my definition begins.
 
 The limit, said calmly: calling something magic is an admission, not an explanation. The risk is stopping there.
 

@@ -21,7 +21,7 @@ A one-card pull, the card of the day, is the best daily practice I know for lear
 4. Look for a full minute before you think. Describe what's on it, what you see, what you receive.
 5. Write three lines, then put the deck away.
 
-That's the whole ritual. Nothing to cleanse, nothing to recite, no special cloth.
+That's the whole ritual. Nothing to cleanse, nothing to recite, no special cloth. If you've never read a single card before, [your first pull, step by step](/blog/how-to-do-a-tarot-reading/) takes about ten minutes.
 
 Some mornings the card will look heavy: the Tower, the Ten of Swords. It isn't a forecast for your day. Every card has a plus and a minus, and a heavy one is read like any other — what's on it, what you see. The Ten of Swords, for instance, has a dawn breaking behind the figure on the ground.
 
@@ -65,7 +65,7 @@ Nobody can promise what your year will show. What it gives you, mechanically, is
 
 - 365 small readings, each with a written check.
 - Four or five meetings with each card on average, in different seasons of your life.
-- A log that shows patterns: [the card that keeps coming back](/blog/same-tarot-card-keeps-coming-up/), the ones you'd rather not look at, the weeks you reached for the deck more often.
+- A log that shows patterns: the card that keeps coming back, the ones you'd rather not look at, the weeks you reached for the deck more often.
 - A few pauses, ideally, written in too.
 
 What it doesn't give you is practice with another person. Your own day is a generous judge, and you know your own story too well. At some point, find someone who'll tell you nothing and read for them.

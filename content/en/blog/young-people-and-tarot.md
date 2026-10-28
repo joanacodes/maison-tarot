@@ -47,7 +47,7 @@ Telling your own story. **A card is often an excuse to finally say what you thin
 
 The cards help you focus, or unfocus, so your own assumptions step aside for a moment.
 
-A community. Online, tarot is rarely practised alone: Discord servers, Facebook groups, lives. My first reading for a stranger was on a Discord server I'd found through Tumblr. For a generation in lockdown, it was also a way of talking to someone, and being listened to.
+A community. Online, tarot is rarely practised alone: Discord servers, Facebook groups, lives. For a generation in lockdown, it was also a way of talking to someone, and being listened to.
 
 Keeping a hand on the wheel. Drawing a card is doing something when you feel you control nothing. That's the strength of the gesture; it's also the trap, when you start drawing every hour.
 

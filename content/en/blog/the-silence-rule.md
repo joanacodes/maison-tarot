@@ -27,15 +27,15 @@ Online it's stricter still: on a Discord server or a group call I often have a u
 
 Because I'm like everyone else: give me one piece of information and my brain builds a story around it, fast. One sentence of context and every card starts confirming what I've just heard. The Three of Swords becomes the break-up you mentioned. It's comfortable, it sounds right, and it proves nothing.
 
-That's exactly the mechanism sceptics point to when they talk about cold reading, and they're right to. A reader who asks ten questions before opening the deck is doing active listening, not tarot. That isn't dishonest in itself, but it shouldn't be called a reading.
+That's exactly the mechanism sceptics point to when they talk about cold reading, and they're right to. A reader who asks ten questions before opening the deck is doing active listening, not tarot. That isn't dishonest in itself, but it shouldn't be called a reading. It's also why silence sits on [my short list of tarot ethics](/blog/tarot-ethics-short-version/), right after consent.
 
 The silence rule takes that tool away from me. What's left is the card, its colours, its number, its element, and whatever comes up when I look. It's less reassuring. It's also the only way to keep a [reading notebook](/blog/tarot-journal/) that's worth anything: on the left what I said, on the right what was confirmed, and neither column contaminated by the other.
 
 ## What happened the first time {#first-time}
 
-My very first reading for a stranger happened this way, on a Discord server I'd found through Tumblr. I had nothing to go on but a username. What came out was a story about a relationship, with an unflattering detail: she hadn't been very kind to the other person. She told me, politely, that it didn't resonate; she wasn't looking for a relationship. Three or four days later she messaged me, shaken. All of it had happened, the unkind part included.
+My very first reading for a stranger happened this way, on a Discord group I'd found through Tumblr. The reading was about a relationship, and showed that she hadn't been kind to the other person; she said it didn't resonate, she wasn't looking for a relationship. Three or four days later she texted me, shocked: everything had happened.
 
-The lesson isn't that I was right; I could as easily have been wrong. It's that if she'd told me at the start "I'm not looking for a relationship", I would never have said what I said. I'd have softened it and looked for something else in the cards. The silence let me say what came up, and [that reading](/blog/first-tarot-reading-story/) is the one that fixed the rule for me.
+The lesson isn't that I was right; I could as easily have been wrong. It's that if she'd told me at the start "I'm not looking for a relationship", I would never have said what I said. The silence let me say what came up. [The whole story](/blog/first-tarot-reading-story/) has its own page.
 
 ## "But how can you answer my question?" {#your-question}
 
@@ -51,7 +51,7 @@ And when it doesn't come out, that's information too. Sometimes a person comes a
 
 Let's be honest about the limits, because a rule nobody questions turns into dogma.
 
-The silence doesn't make a reading right. Misses happen with it as without it, and my count of them is on [the method page](/method/). What the silence does is make the miss visible: when the person says "no, none of that", I have nothing left to save face with. [I say "that one's a miss"](/blog/tarot-reading-wrong/), I write it down, and I don't draw a clarifier card.
+The silence doesn't make a reading right. Misses happen with it as without it, and my count of them is on [the method page](/method/). What the silence does is make the miss visible: when the person says "no, none of that", I have nothing left to save face with. I say "that one's a miss", I write it down, and I don't draw a clarifier card.
 
 Nor does it change the subjects I don't read on. If a reading drifts towards health, a death, a pregnancy, an ongoing court case or a money decision, I stop, gently, and say why. I find out on the way rather than in advance, and step back exactly as [I would if I'd known from the start](/disclaimers/#refusals). The silence is not a licence to go anywhere.
 

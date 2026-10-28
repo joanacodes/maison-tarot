@@ -23,7 +23,7 @@ The drawing. Ten swords in a man’s back is hard to look at, whatever it means.
 
 Each reason calls for something different. A drawing you dislike needs a closer look. A reputation needs the lenses. A memory needs a little distance. Boredom needs a week of attention.
 
-If you’re not sure which one is yours, notice the first thing that happens when the card turns up: a flinch at the picture, a sentence someone once said about it, a date, or a shrug. That first reaction usually names the reason. Most readers have one card like this, and it usually says more about how you met the card than about the card.
+If you’re not sure which one is yours, notice the first thing that happens when the card turns up: a flinch at the picture, a sentence someone once said about it, a date, or a shrug. That first reaction usually names the reason. Most readers have one card like this, and it usually says more about how you met the card than about the card. Sometimes it also says something about you, which is why a disliked card is a good place to start [shadow work](/blog/shadow-work-beginners/).
 
 ## Read it by its lenses, not its reputation {#lenses}
 
@@ -39,7 +39,7 @@ No card is good or bad; every one has both sides. That’s true of the cards you
 
 The [Five of Cups](/library/tarot-cards/five-of-cups/) is, in my own notes, the most negative card in the deck: loss, dark emotion, being alone with your problems. I don’t soften that. But look at the drawing again: three cups are spilled, and two are still standing behind the figure, with a bridge across the river. The minus is real. So is the plus.
 
-[Death](/library/tarot-cards/death/) is another one people keep at arm’s length. In my notes it isn’t about death at all: it’s linked to the harvest, to starting again — someone without a goal who wants to make life fertile again.
+Death is another one people keep at arm’s length. In my notes it isn’t about death at all: it’s linked to the harvest, to starting again — someone without a goal who wants to make life fertile again.
 
 When you’ve found both sides of a card you dislike, you can read it for someone without flinching, and without forcing it into good news either.
 

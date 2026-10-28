@@ -45,7 +45,7 @@ What follows is my reading of the model, not the programme's conclusions. I've r
 4. Always open. Doubt keeps no office hours, and neither does a platform. At two in the morning, the voice on the line is often the only one answering.
 5. The invisible payment. A saved card doesn't hurt. No cash leaves your hand, nothing is signed; you hang up, and the amount arrives later, mixed in with everything else on the statement.
 
-**None of these mechanisms needs a psychic to lie about the cards.** That's what makes them so effective: they live in the billing model, not in the talent of whoever picks up. When someone arrives at a reading almost fidgety, with a high dose of doubt running through them, I usually decline: what they need is to breathe, make a decision, or go through the thing they're afraid of. A platform paid by the minute has every reason to do the opposite. The cruder tricks — curses, urgency, paid rituals — are in [the nine red flags of a fake reader](/blog/how-to-spot-a-fake-tarot-reader/).
+**None of these mechanisms needs a psychic to lie about the cards.** That's what makes them so effective: they live in the billing model, not in the talent of whoever picks up. When someone comes to me with the same doubt again and again, I usually suggest a pause rather than another reading. A platform paid by the minute has every reason to do the opposite. The cruder tricks — curses, urgency, paid rituals — are in [the nine red flags of a fake reader](/blog/how-to-spot-a-fake-tarot-reader/).
 
 ## What the case says about the French market {#the-market}
 

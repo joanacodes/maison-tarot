@@ -43,7 +43,7 @@ The timing that matters most is yours, and some states make a reading unhelpful.
 
 - *You’re asking the same question for the third time.* At that point the cards aren’t answering anything; the doubt is asking. I wrote about this in [why you should quit tarot reading for a while](/blog/why-you-should-quit-tarot-reading/), and it pairs with this page.
 - *You want the cards to choose for you.* A reading can lay out a decision, but [the choice should stay yours](/blog/tarot-for-decision-making/).
-- *You’re in the middle of a storm.* Some people arrive almost fidgety, with doubt running through them. What helps then is to breathe, make a decision, or go through the thing you’re afraid of — not another reading.
+- *You’re in the middle of a storm.* What helps then is to breathe, make a decision, or go through the thing you’re afraid of — not another reading.
 - *The question is about health, a pregnancy, a death, a court case or money.* These questions come from worry or love, and I understand why people bring them. I don’t read on them, and [here’s why](/disclaimers/#refusals); a doctor, a lawyer or an adviser will serve you better, and a reading can still hold how you’re coping.
 
 If your life is fairly stable, you can play with tarot a little more. If it isn’t, it’s the decision-making muscle that needs the work, not the deck.

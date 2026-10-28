@@ -19,7 +19,7 @@ Not reliably, in my experience. A card shows a situation and the state of the pe
 
 What I read is mostly the present: what’s moving in someone’s life at the moment we sit down. How fast that turns into events depends on decisions, on other people, on chance. The future rarely arrives in the shape anyone imagined, and it rarely arrives on the day anyone predicted.
 
-My very first reading for a stranger, on a Discord server, came true three or four days later. I found that out from her text message, not from the cards.
+[My very first reading for a stranger](/blog/first-tarot-reading-story/) came true three or four days later. I found that out from her text message, not from the cards.
 
 ## How tarot timing systems work {#timing-systems}
 
@@ -31,9 +31,9 @@ The systems don’t agree with each other. Depending on whom you read, Wands are
 
 ## The voice that taught me about timing {#the-voice}
 
-This wasn’t a tarot reading, and I tell the whole story in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/). The short version: after my closest friend died, I was enraged, and I asked silently, “Who’s next?” A man’s voice gave another friend’s name and said this friend “is going to have an accident”. Two weeks later, that friend’s car was hit by a truck. My friend is alive and well today.
+This wasn’t a tarot reading, and I tell the whole story in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/). In short: after my closest friend died, I asked silently “who’s next?”, and a voice gave another friend’s name and “is going to have an accident”, without a word about when. Two weeks later that friend’s car was hit by a truck, and my friend is alive and well today: the event came, and the message was wrong in what mattered.
 
-The event came, but I had asked who would die next, and on that the information was wrong in what mattered. The voice hadn’t said when, or how it would end. What I kept is a shelf in my head labelled *sceptical, but if it happens, I was warned*. Messages go on that shelf. Dates especially.
+What I kept is a shelf in my head labelled *sceptical, but if it happens, I was warned*. Messages go on that shelf. Dates especially.
 
 ## Why timing is the weak spot {#why-i-miss}
 

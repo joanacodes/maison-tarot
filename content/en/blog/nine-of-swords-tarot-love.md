@@ -29,7 +29,7 @@ It’s the classic night-time question with this card, and I understand it compl
 
 I don’t read on what a partner does when they aren’t in the room. A card can’t check a phone or a diary, and a yes or a no drawn in the middle of the night feeds the fear either way.
 
-Some people come to a reading almost fidgety, asking the same question again and again. It looks like a need for an answer; most of the time it’s a high dose of doubt. When I see that, I usually suggest we don’t draw at all, and I say why: what helps then is to breathe, to make a decision, or to go through the thing you’re afraid of, and a card can’t do any of those for you. I’ve written about [asking tarot the same question twice](/blog/ask-tarot-the-same-question-twice/) and what it does to you.
+If you catch yourself asking it again and again, that’s usually doubt talking rather than a need for an answer, and [a break from readings](/blog/why-you-should-quit-tarot-reading/) will help more than another card.
 
 A gentler question: “What am I afraid of, and what would I need to ask, in daylight, to feel safe?” That one leads to a conversation, which is where the real answer lives.
 

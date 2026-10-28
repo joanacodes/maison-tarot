@@ -41,7 +41,7 @@ That’s the sentence I hold on to. Tarot is not an authority. A reading can put
 
 A guru can’t afford to miss. A reader has to. About one reading in ten of mine missed, by my own count, and I say it out loud when it happens. Saying “that one’s a miss” in front of someone is one of the best protections against becoming an oracle in their eyes.
 
-In practice, that means no instructions — no “leave him”, no “take the job”. It means asking questions back: what did you feel when I said that? And it means noticing when someone arrives almost fidgety, with the same question as last week. That’s a high dose of doubt running through them. I usually decline then, kindly, because what they need is to breathe, make a decision, or go through the thing they’re afraid of. [Taking a break from readings](/blog/why-you-should-quit-tarot-reading/) is sometimes the most useful thing I can suggest.
+In practice, that means no instructions — no “leave him”, no “take the job”. It means asking questions back: what did you feel when I said that? And it means noticing when someone comes back with the same question as last week, and kindly suggesting [a break from readings](/blog/why-you-should-quit-tarot-reading/) instead of another one.
 
 ## Know which door isn’t yours {#other-doors}
 

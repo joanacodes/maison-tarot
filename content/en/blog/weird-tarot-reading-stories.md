@@ -35,7 +35,7 @@ If you read already, there’s a way to watch it happen in yourself. Before you 
 
 ## The man who asked if I was a magician {#magician}
 
-For a while I practised on a pen-pal app. I sent “letters” to strangers, first asking for messages for the people who needed them. One man wrote back to ask whether I could read minds, or whether I was a magician.
+For a while I practised on a pen-pal app, sending “letters” to strangers. One man wrote back to ask whether I could read minds, or whether I was a magician.
 
 It made me laugh. It’s also a fair question from someone who has just received a letter about his life from a person he’s never met. A letter is an odd way to read: no face, no voice, no reaction to steer by. Whatever lands, lands without any help from you. I tell more about [the places I found people to read for](/blog/where-to-find-people-to-read-for/), letters included.
 
