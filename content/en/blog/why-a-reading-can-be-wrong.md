@@ -43,7 +43,7 @@ A message, a card or an impression shows you something. It rarely shows you when
 
 In card readings, timing is the weak spot. I gave it [a whole article on tarot and timing](/blog/tarot-timing/) for that reason.
 
-Timing cuts the other way too. The very first reading I did for a stranger seemed to miss completely. I read a relationship; she told me it didn’t resonate, she wasn’t looking for one. Three or four days later she texted me, shocked: everything had happened, including the part where she hadn’t been kind to the other person. On the night, I would have written it down as a miss. Four days on, it wasn’t one. The whole story is in [my first tarot reading](/blog/first-tarot-reading-story/).
+Timing cuts the other way too. [My very first reading for a stranger](/blog/first-tarot-reading-story/) seemed to miss completely, and three or four days later she texted me that everything had happened. On the day, I would have written it down as a miss. Four days on, it wasn’t one.
 
 So a reading can look wrong today and be right on Friday. It can also be “right” on Friday in a way nobody expected, as the voice was. Neither tells you the reading was useless. Both tell you to hold the timing loosely, and to be slow to decide what a message meant before it has finished arriving.
 
@@ -95,4 +95,4 @@ If you’re grieving and something like this happens to you, talk to someone —
 
 The most useful thing I can suggest is a notebook with three columns: what was said, what happened, and when. Readings you give, readings you receive, impressions that arrive on their own — all of it.
 
-After a few months, you’ll see your own pattern of misses. Mine is timing. Yours might be something else, and you can only find it by writing it down. That’s what [a reading notebook](/blog/tarot-journal/) is for: not to prove you were right, but to know how you tend to be wrong.
+After a few months, you’ll see your own pattern of misses. The voice taught me to watch timing first. Your weak spot might be somewhere else, and you can only find it by writing it down. That’s what [a reading notebook](/blog/tarot-journal/) is for: not to prove you were right, but to know how you tend to be wrong.

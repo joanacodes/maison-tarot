@@ -15,7 +15,7 @@ Le tarot ne ramène personne, et il ne peut pas vous dire si la personne disparu
 
 ## Ce que le tarot peut porter dans un deuil {#ce-quil-peut-porter}
 
-Le deuil n’est pas un seul sentiment. C’est de la tristesse, mais aussi de la colère, de la culpabilité, de l’engourdissement, parfois du soulagement, souvent tout cela dans le même après-midi. Quand ma meilleure amie est morte d’un cancer, j’étais en colère, pas seulement triste. La colère fait partie du deuil, elle aussi, et elle mérite une place sur la table.
+Le deuil n’est pas un seul sentiment. C’est de la tristesse, mais aussi de la colère, de la culpabilité, de l’engourdissement, parfois du soulagement, souvent tout cela dans le même après-midi. Quand mon meilleur ami est mort d’un cancer, j’étais en colère, pas seulement triste. La colère fait partie du deuil, elle aussi, et elle mérite une place sur la table.
 
 Une carte peut lui donner cette place. Imaginons que vous tiriez le Cinq d’Épées un soir où vous en voulez à tout le monde, y compris à la personne partie. Pas besoin de livre : un homme qui ramasse des épées pendant que deux autres s’éloignent vous dit qu’il y a une dispute en vous, et personne avec qui l’avoir. La voir dessinée aide à la dire à voix haute.
 

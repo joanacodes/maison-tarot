@@ -9,17 +9,17 @@ tags: ["tirage de tarot faux", "pourquoi un tirage se trompe", "tarot et tempora
 image: "covers/why-a-reading-can-be-wrong.jpg"
 imageAlt: "Une simple étagère murale en bois avec quelques carnets fermés et une feuille pliée"
 imagePrompt: "A plain wooden wall shelf holding a few closed notebooks and a single folded sheet of paper, in a quiet room. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Un tirage peut se tromper sur l’essentiel, même quand des détails se réalisent. Après la mort de ma meilleure amie, emportée par un cancer, j’ai demandé en silence « qui est le prochain ? », puis entendu une voix d’homme me donner le prénom d’une autre amie et « va avoir un accident ». Deux semaines plus tard, un camion a percuté sa voiture. Elle est vivante et en bonne santé. Les détails étaient justes ; ce qui comptait, faux. J’en ai tiré trois raisons pour lesquelles un tirage se trompe — le moment, l’interprétation, le simple raté — et une étagère : sceptique, mais si ça arrive, j’étais prévenue."
+summary: "Un tirage peut se tromper sur l’essentiel, même quand des détails se réalisent. Après la mort de mon meilleur ami, emporté par un cancer, j’ai demandé en silence « qui est le prochain ? », puis entendu une voix d’homme me donner le prénom d’une autre amie et « va avoir un accident ». Deux semaines plus tard, un camion a percuté sa voiture. Elle est vivante et en bonne santé. Les détails étaient justes ; ce qui comptait, faux. J’en ai tiré trois raisons pour lesquelles un tirage se trompe — le moment, l’interprétation, le simple raté — et une étagère : sceptique, mais si ça arrive, j’étais prévenue."
 ---
 Un tirage peut se tromper sur ce qui compte le plus, même quand certains de ses détails se réalisent. La leçon la plus claire que j’aie reçue là-dessus ne venait pas d’une carte. Elle venait d’une voix, en plein deuil.
 
 ## La voix {#la-voix}
 
-Ma meilleure amie est morte d’un cancer.
+Mon meilleur ami est mort d’un cancer.
 
 J’étais folle de rage. Et dans cette rage, j’ai posé une question en silence : *qui est le prochain ?*
 
-J’ai entendu une voix d’homme. Elle m’a donné le prénom d’une autre amie, et elle a dit qu’elle « va avoir un accident ».
+J’ai entendu une voix d’homme. Elle m’a donné le prénom d’une amie, et elle a dit qu’elle « va avoir un accident ».
 
 Deux semaines plus tard, un camion a percuté sa voiture.
 
@@ -43,7 +43,7 @@ Un message, une carte ou une impression vous montre quelque chose. Rarement le q
 
 Dans les tirages de cartes, le moment est le point faible. J’y ai consacré [un article entier sur le tarot et les délais](/fr/blog/tarot-quand/) pour cette raison.
 
-Le moment joue aussi dans l’autre sens. Le tout premier tirage que j’ai fait pour une inconnue semblait complètement raté. J’ai lu une relation ; elle m’a répondu que ça ne lui parlait pas, qu’elle ne cherchait pas de relation. Trois ou quatre jours plus tard, elle m’écrivait, secouée : tout était arrivé, y compris la partie où elle n’avait pas été gentille avec l’autre personne. Le soir même, je l’aurais noté comme un raté. Quatre jours après, ce n’en était plus un. Toute l’histoire est dans [mon premier tirage](/fr/blog/premier-tirage-tarot/).
+Le moment joue aussi dans l’autre sens. [Mon tout premier tirage pour une inconnue](/fr/blog/premier-tirage-tarot/) semblait complètement raté, et trois ou quatre jours plus tard, elle m’écrivait que tout était arrivé. Le jour même, je l’aurais noté comme un raté. Quatre jours après, ce n’en était plus un.
 
 Un tirage peut donc sembler faux aujourd’hui et se révéler juste vendredi. Il peut aussi se révéler « juste » vendredi d’une façon que personne n’attendait, comme la voix. Aucun des deux cas ne dit que le tirage ne servait à rien. Les deux disent de tenir le calendrier d’une main légère, et de ne pas trancher trop vite sur le sens d’un message avant qu’il ait fini d’arriver.
 
@@ -95,4 +95,4 @@ Si vous êtes en deuil et que quelque chose de ce genre vous arrive, parlez-en �
 
 La chose la plus utile que je puisse vous proposer, c’est un carnet à trois colonnes : ce qui a été dit, ce qui est arrivé, et quand. Les tirages que vous faites, ceux que vous recevez, les impressions qui arrivent toutes seules — tout.
 
-Au bout de quelques mois, vous verrez votre propre façon de rater. La mienne, c’est le moment. La vôtre sera peut-être autre chose, et vous ne pourrez la trouver qu’en l’écrivant. C’est à ça que sert [un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) : non pas à prouver que vous aviez raison, mais à savoir comment vous avez tendance à vous tromper.
+Au bout de quelques mois, vous verrez votre propre façon de rater. Moi, la voix m’a appris à surveiller d’abord le moment. Votre point faible est peut-être ailleurs, et vous ne le trouverez qu’en l’écrivant. C’est à ça que sert [un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) : non pas à prouver que vous aviez raison, mais à savoir comment vous avez tendance à vous tromper.

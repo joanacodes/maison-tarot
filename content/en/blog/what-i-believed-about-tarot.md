@@ -41,7 +41,7 @@ It’s worth seeing why that kind of thing sells so well. A prop promises to do 
 
 None of this is a judgement on people who like a candle on the table. Light one if you enjoy it. It’s only that, when a reading feels off, the thing that needs a rest is usually the reader, not the deck. I’ve written more about [why I stopped selling sage](/blog/cleanse-tarot-deck/).
 
-## Astrology: I came to laugh at it {#astrology}
+## Astrology: I thought it was a joke {#astrology}
 
 This one comes before the deck. I put on an astrology video to mock it, read my own chart, and it was too precise.
 
