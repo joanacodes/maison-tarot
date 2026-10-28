@@ -19,7 +19,7 @@ The Queen of Swords in love is clarity: knowing what you want, saying it, and ke
 
 Her rank is the Queen: inner mastery, someone who no longer needs to run. The Queen’s advice is to hold without holding on. At her worst she keeps people, feelings and grudges, and mistakes mastery for control. In love, that’s the line between a boundary and a wall.
 
-Her element is Water of Air. Air, in my notes, is the best decision-maker of the four, because it sees everything at once — and on a bad day it’s the viper’s tongue. The Queen brings Water into it: feeling. So she isn’t a mind without a heart. She’s a mind that has felt, and decides with that knowledge rather than in spite of it.
+Her element is Water of Air. Air, in my notes, is the best decision-maker of the four, because it sees everything at once — and on a bad day it’s the viper’s tongue. Water brings feeling into it. So she isn’t a mind without a heart. She’s a mind that has felt, and decides with that knowledge rather than in spite of it.
 
 Her energy is feminine, which has nothing to do with being a woman: patience, thinking before acting, delicate subjects approached by a detour. The Queen of Swords adds the blade, so the care comes first and the sentence that needs saying comes after. One detail of the drawing says it for love: one hand holds the sword upright, the other is raised and open, inviting you to speak. [Her card page](/library/tarot-cards/queen-of-swords/) has every other lens.
 
@@ -37,7 +37,7 @@ After a break-up, she’s clarity about why it ended — without rewriting the s
 
 With this card, people often ask about another woman. “Is she the ex?” “Is it his mother?” “Is someone coming between us?” It’s an understandable reflex: a queen on the table looks like a person, and when you’re worried, a person looks like a threat.
 
-I don’t read on people who aren’t in the room, and I’d rather not turn a court card into a suspect. A court card describes a way of acting, and most often it describes you. I explain how I read all sixteen in [court cards explained](/blog/court-cards-explained/). I also hold my own readings to the honesty she asks for: when something doesn’t land, I say so plainly. A miss is a miss.
+I don’t read on people who aren’t in the room, and I’d rather not turn a court card into a suspect. A court card describes a way of acting, and most often it describes you. I explain how I read them in [court cards explained](/blog/court-cards-explained/). I also hold my own readings to the honesty she asks for: when something doesn’t land, I say so plainly. A miss is a miss.
 
 A kinder question: “Where do I need to be clearer, and how can I say it kindly?” It points the sword where it can help.
 

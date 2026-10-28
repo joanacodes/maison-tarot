@@ -1,17 +1,17 @@
 # Gros plans de la lune (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
 - card: ar18
   box: [0.13, 0.025, 0.87, 0.425]
-  en: "The moon’s profile inside a rayed disc, on the Moon"
-  fr: "Le profil de la lune dans un disque rayonnant, sur la Lune"
+  en: "The moon’s face in profile, inside a rayed disc"
+  fr: "Le visage de la lune de profil, dans un disque rayonnant"
 - card: ar02
   box: [0.36, 0.64, 0.85, 0.92]
   en: "The large crescent at the High Priestess’s feet"
   fr: "Le grand croissant aux pieds de la Grande Prêtresse"
 - card: cu08
   box: [0.10, 0.12, 0.42, 0.34]
-  en: "A calm moon face with closed eyes, crescent and full disc"
-  fr: "Une lune au visage paisible, yeux clos, croissant et disque plein"
+  en: "The moon’s calm face, eyes closed, crescent and full disc in one"
+  fr: "Le visage paisible de la lune, yeux clos, croissant et disque plein à la fois"
 - card: ar07
   box: [0.17, 0.13, 0.77, 0.40]
-  en: "Two crescent moons with faces on the charioteer’s shoulders"
-  fr: "Deux croissants de lune à visage sur les épaules du conducteur"
+  en: "Two crescent moons on the charioteer’s shoulders"
+  fr: "Deux croissants de lune sur les épaules du conducteur"

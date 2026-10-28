@@ -1,0 +1,13 @@
+# Gros plans du lys (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: ar01
+  box: [0.42, 0.685, 0.72, 0.865]
+  en: "x"
+  fr: "x"
+- card: wa02
+  box: [0.045, 0.70, 0.265, 0.875]
+  en: "x"
+  fr: "x"
+- card: cuac
+  box: [0.60, 0.79, 0.90, 0.91]
+  en: "x"
+  fr: "x"

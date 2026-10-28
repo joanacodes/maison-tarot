@@ -49,6 +49,8 @@ gallery:
 
 The moon is the light of night. It’s real, but it’s reflected; it shows outlines, not details; and it changes shape all month. **When a moon is drawn on a card, you’re seeing by a light that hides as much as it shows.**
 
+{{< zoom "moon" "lead" >}}
+
 An everyday example: walking home late down a street you know by heart, and finding it strange. Same pavement, same trees — but the shadows have moved, and your imagination fills in the rest.
 
 ## Where it appears in the deck {#where}
@@ -64,6 +66,8 @@ On the Eight of Cups, a moon with a calm, closed-eyed face — crescent and full
 And [the Moon](/library/tarot-cards/the-moon/), XVIII, gives it the whole sky: a profile inside a rayed disc, a dog and a wolf howling, a crayfish climbing out of a pool.
 
 {{< cards "ar02 ar07 ar18 sw02 cu08" >}}
+
+{{< zoom "moon" "rest" >}}
 
 A note on names: the astrological Moon has [its own page](/library/astrology/moon/), and it goes with the High Priestess, not with the Moon card. This page follows the drawn moon.
 

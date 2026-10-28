@@ -49,6 +49,8 @@ gallery:
 
 La lune, c’est la lumière de la nuit. Elle est réelle, mais réfléchie ; elle montre des contours, pas des détails ; et elle change de forme tout le mois. **Quand une lune est dessinée sur une carte, vous voyez à une lumière qui cache autant qu’elle montre.**
 
+{{< zoom "moon" "lead" >}}
+
 Un exemple de tous les jours : rentrer tard par une rue que vous connaissez par cœur, et la trouver étrange. Même trottoir, mêmes platanes — mais les ombres ont bougé, et votre imagination fait le reste. C’est l’heure « entre chien et loup » : on reconnaît la forme, plus le détail.
 
 ## Où elle apparaît dans le jeu {#ou}
@@ -64,6 +66,8 @@ Sur le Huit de Coupes, une lune au visage paisible, les yeux clos — croissant 
 Et [la Lune](/fr/bibliotheque/cartes-tarot/la-lune/), XVIII, lui donne tout le ciel : un profil dans un disque rayonnant, un chien et un loup qui hurlent, une écrevisse qui sort d’un bassin.
 
 {{< cards "ar02 ar07 ar18 sw02 cu08" >}}
+
+{{< zoom "moon" "rest" >}}
 
 Un mot sur les noms : la Lune astrologique a [sa propre page](/fr/bibliotheque/astrologie/lune/), et elle va avec la Grande Prêtresse, pas avec la carte de la Lune. Cette page suit la lune dessinée.
 

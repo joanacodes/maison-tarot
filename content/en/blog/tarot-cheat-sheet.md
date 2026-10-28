@@ -83,12 +83,23 @@ This is the exercise that ends every [workshop](/workshops/): each person reads 
 
 You'll often find you said, in your own words, what the page says in its words. When you didn't, note where you parted ways — that's your next thing to look at, not a failure. The exercise also works on a deck you've never held: the numbers and suits survive from one tarot to the next, though each deck has its own palette.
 
-## What three questions don't tell you {#limits}
+## Two more questions, for later {#two-more}
+
+I teach five lenses. The last two refine the picture once the first three come without effort.
+
+| Lens | The question | The short answer |
+|---|---|---|
+| Energy | Is it holding or acting? | Feminine waits, imagines, works behind the scenes; masculine acts, shows itself, decides fast. Cups and Pentacles lean feminine, Wands and Swords masculine. |
+| Mode | Is it starting, lasting or changing? | Cardinal starts: the Emperor, the Chariot, Justice, the Devil. Fixed holds: the Hierophant, Strength, Death, the Star. Mutable changes: the Lovers, the Hermit, Temperance, the Moon. |
+
+[Feminine and masculine](/library/feminine-masculine-energies/) have nothing to do with being a woman or a man: they're two dynamics we all carry, in different proportions. The mode applies to the twelve majors that carry a zodiac sign.
+
+## What the questions don't tell you {#limits}
 
 They give you the tone, the stage and the area. They don't give you the story. That comes from the scene on the card, from its neighbours in the spread, from what rises when you look — and from the person in front of you saying yes or no.
 
-The feminine and masculine energies and the astrological modes refine the picture once these three feel natural. And no cheat sheet can tell you whether you were right. Don't take my words as ultimate truth. Test it and experience it for yourself.
+And no cheat sheet can tell you whether you were right. Don't take my words as ultimate truth. Test it and experience it for yourself.
 
 ## Keep it on one page {#one-page}
 
-Copy the three tables onto one card and keep it in your deck box for a month. When you no longer reach for it, you've learned the lenses. If you'd like the whole method in a few printable pages, [the Readers' Guide](/guide/) is free.
+Copy the tables onto one card and keep it in your deck box for a month. When you no longer reach for it, you've learned the lenses. If you'd like the whole method in a few printable pages, [the Readers' Guide](/guide/) is free.
