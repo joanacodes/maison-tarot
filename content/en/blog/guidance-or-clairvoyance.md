@@ -39,7 +39,7 @@ Here they are, in plain terms, with the French word beside each.
 
 I haven't got a crystal ball, and I don't sell what one would show. Things about what's ahead do come up in readings sometimes, and when they do I say them. But I don't build a reading on them, I don't promise them, and timing is [where I miss most](/blog/tarot-timing/). I'd rather look at the present: the surest way to a future you enjoy is to anchor yourself in it.
 
-I don't call what I do clairvoyance, because I don't claim to see. I count: what I said, what was confirmed, misses included — about one in ten, by my own count. I don't call it guidance, because I don't want to steer anyone. I read; you decide. And I don't call it a gift, because there isn't one to have: [anyone can learn this](/blog/do-you-need-psychic-abilities/), and teaching it is most of my work.
+I don't call what I do clairvoyance, because I don't claim to see. I keep count instead, and about one reading in ten misses, by my own tally. I don't call it guidance, because I don't want to steer anyone. I read; you decide. And I don't call it a gift, because there isn't one to have: [anyone can learn this](/blog/do-you-need-psychic-abilities/), and teaching it is most of my work.
 
 Have I had experiences I can't explain? A few, and when I tell them, I tell them as they happened. I don't sell them, and they're not what a reading at Maison Tarot rests on.
 

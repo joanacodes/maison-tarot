@@ -31,9 +31,9 @@ There are other causes too. Reading too often, so every card starts to blur into
 
 If you want to check, there's a fair test. Hand the same deck to a friend who reads and who is rested, and let them read for you. If their reading feels alive, the cards were never the problem.
 
-## Why I stopped selling sage {#why-i-stopped}
+## Why cleansing feels like it works {#cleansing}
 
-In 2021, I sold sage, candles and "channelled" cards. I stopped. Nothing in any of it improved a reading. I wrote about [why I gave it up](/blog/cleanse-tarot-deck/), and I'd still say the same: I don't think anything was ever stuck in the cards.
+I don't think anything was ever stuck in the cards, and I've [sold the sage that's meant to clear them](/blog/cleanse-tarot-deck/).
 
 That doesn't make people who cleanse their decks foolish, and I'm not going to tell them to stop. A ritual does something I'd keep: it makes you pause. Putting seventy-eight cards back in order is ten minutes when you're not reading, and that pause is often exactly what was needed. The ritual works. I think it works on you, not on the cards.
 

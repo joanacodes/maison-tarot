@@ -1,6 +1,6 @@
 ---
-title: "Can a sceptic learn tarot? I came to astrology to laugh at it"
-description: "Can a sceptic learn tarot? Yes, and doubt is a good starting kit. I came to astrology to laugh at it; everyone I’ve helped read managed it within one to three tries."
+title: "Can a sceptic learn tarot? Why doubt is a good starting kit"
+description: "Can a sceptic learn tarot? Yes: doubt keeps a reading honest. How I tested astrology box by box, and why everyone I’ve helped read got there in one to three tries."
 translationKey: "post-can-a-sceptic-learn-tarot"
 type: blog
 date: 2026-10-24
@@ -11,7 +11,7 @@ imageAlt: "An open notebook with two handwritten columns beside a single card on
 imagePrompt: "An open notebook with two handwritten columns and a pencil, a single card lying face up beside it on a kitchen table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Yes. A sceptic can learn tarot, and doubt is a useful starting kit: it makes you keep an honest notebook, say ‘that’s a miss’ without flinching, and refuse to reframe a reading that didn’t land. Nobody needs a gift or a belief to start. Every person I’ve helped read managed it within one to three tries, by my own count. The hard part for a sceptic isn’t believing; it’s letting go long enough to say what comes before deciding whether it sounds reasonable."
 ---
-Yes, and doubt is a good starting kit. I came to astrology to laugh at it, and the habit that came with the laughing — checking everything — is the one I teach. Every person I’ve helped read managed it within one to three tries.
+Yes, and doubt is a good starting kit. My own doubt was aimed at astrology first, and the habit it left me with — checking everything — is the one I teach. Every person I’ve helped read managed it within one to three tries.
 
 ## Can a sceptic learn tarot? {#short-answer}
 
@@ -19,7 +19,7 @@ Yes. Learning to read doesn’t ask you to believe anything. It asks you to look
 
 By my own count, every single person I’ve helped read managed it on the first, second or third try. That isn’t a study; it’s my notebook. But it’s why I say anyone can learn, and why I don’t believe in Chosen Ones. Reading is like art: some people have more talent, and anyone who practises can do it. There’s [no gift you need to have first](/blog/do-you-need-psychic-abilities/).
 
-## I came to astrology to laugh at it {#my-story}
+## What I did with my own doubt {#my-story}
 
 During the pandemic I put on an astrology video to mock it. Then I read my own birth chart, and it was too precise to wave away.
 

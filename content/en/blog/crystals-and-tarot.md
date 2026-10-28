@@ -25,7 +25,7 @@ People who love crystals often describe a feeling of calm, of being held, of the
 
 ## Do crystals make a reading more accurate? {#accuracy}
 
-Not in anything I’ve been able to see. In 2021 I sold sage, candles and “channelled” cards, the kind of things people buy to go around a deck. I stopped, because nothing in any of it improved a reading. I see crystals the same way: lovely to have, not what makes a reading land.
+Not in anything I’ve been able to see. In 2021 I [sold sage, candles and “channelled” cards](/blog/cleanse-tarot-deck/), the kind of things people buy to go around a deck, and I stopped because nothing in any of it improved a reading. I see crystals the same way: lovely to have, not what makes a reading land.
 
 What I have seen change a reading is already at the table. Whether the person told me anything before I started. Whether I’d been reading for two hours and was tired. Whether I was trying to be right instead of saying what came. None of those can be fixed with an object, and none of them need one.
 
@@ -57,6 +57,6 @@ Most people who ask about protection stones are asking for something gentler und
 
 One deck. I start everyone on the 1909 Rider-Waite-Smith, because every card has a scene you can read without a book; [here’s why that deck](/blog/best-tarot-deck-for-beginners/). Then a notebook, to write what you said and what was confirmed. That’s the whole shopping list.
 
-No ritual is needed to begin. If you want a first week with a new deck, I’d rather you [look at every card than cleanse it](/blog/new-tarot-deck/) — and the same reasoning is behind [why I stopped selling sage to cleanse decks](/blog/cleanse-tarot-deck/).
+No ritual is needed to begin. If you want a first week with a new deck, I’d rather you [look at every card than cleanse it](/blog/new-tarot-deck/).
 
 If you love your crystals, keep them where they are. Then turn the first card and notice that the reading starts with you. The [learn tarot page](/learn-tarot/) is where to go next, one card at a time.

@@ -33,7 +33,7 @@ The Death card doesn't mean death anyway. In my notes it's tied to the harvest a
 
 Before you deliver a hard message, remember how often hard messages miss — sometimes not in the event, but in what it means.
 
-I learned this from a message of my own: furious after losing my closest friend, I heard a voice say another friend was going to have an accident, and two weeks later a truck hit that friend's car. My friend is alive and well today; the message was right about an event and wrong in what mattered, as I tell in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/).
+I learned this from a message of my own: furious after losing my closest friend, I heard a voice say another friend was going to have an accident, and two weeks later a truck hit that friend's car. My friend is alive and well today; the message was right about an event and wrong in what mattered, and I tell it in full in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/).
 
 Since then, hard impressions go on a shelf in my head labelled "sceptical, but if it happens, I was warned". They don't go into someone's lap as a forecast.
 

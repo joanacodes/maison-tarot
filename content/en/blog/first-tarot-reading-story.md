@@ -63,7 +63,7 @@ What the story gives a beginner isn’t proof. It’s permission to be wrong in 
 
 ## Why I tell beginners this story {#why-i-tell-it}
 
-Because the fear of being wrong freezes a lot of beginners, and my first reading for a stranger began as a miss. I’m still reading.
+Because the fear of being wrong freezes a lot of beginners, and my first reading for a stranger began as a miss. I’m still reading. It’s why the [method I teach beginners](/blog/how-to-read-tarot-beginners/) begins by expecting a miss: before the first card, you tell yourself you’re about to talk nonsense.
 
 It also shows why I ask people to tell me nothing. Picture the same reading if she’d opened with “I’m not looking for anyone.” The pull would have been to soften what came, steer towards work or family, and never say it: less wrong on the day, and of no use to her a few days later. That is [the silence rule](/blog/the-silence-rule/), and this story shows why it matters.
 

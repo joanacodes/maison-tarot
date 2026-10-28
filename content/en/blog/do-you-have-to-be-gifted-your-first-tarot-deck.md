@@ -51,7 +51,7 @@ A second-hand deck has nothing to clear. If it's in good condition and the scene
 
 Some people also feel a new deck has to be "bonded" with before it reads: slept with under the pillow, carried everywhere for a week. If that ritual comforts you, enjoy it. A week of drawing one card each morning does the useful part of the job, though: you learn the pictures.
 
-As for cleansing: I sold sage in 2021, and I stopped, because nothing in it improved a single reading. [Why I stopped, and what I do instead](/blog/cleanse-tarot-deck/).
+Cleansing gets the same answer; [why I stopped selling sage, and what I do instead](/blog/cleanse-tarot-deck/) goes through it.
 
 Letting other people touch your cards is a matter of comfort or hygiene, not luck, and [whether to let others handle your deck](/blog/let-others-touch-tarot-cards/) has its own page. And if a deck ever feels "off", it's usually you who needs a break, not the cards.
 

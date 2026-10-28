@@ -28,13 +28,13 @@ The usual tools are:
 - *Recasting misses*: “it hasn’t happened yet” or “you’ll understand later”.
 - *Hot reading*, its cousin: finding things out beforehand, from a booking form or a social media profile.
 
-Mentalists perform all of this openly on stage, and it’s a real skill. It’s also worth saying plainly: a lot of cold reading isn’t deliberate. Attentive, empathic people pick up cues without noticing, and a reader can do it with complete sincerity.
+Mentalists perform all of this openly on stage, and it’s a real skill. It’s also worth saying plainly: a lot of cold reading isn’t deliberate. Attentive, empathic people pick up cues without noticing, and a reader can do it with complete sincerity. It’s one of the [four common explanations for how tarot works](/blog/how-does-tarot-work/).
 
 ## Why it works so well {#why-it-works}
 
 Because it’s built on real qualities: attention, listening, warmth. The same ones that make a good friend, a good teacher or a good salesperson.
 
-The person helps, too. They fill the gaps, connect a vague sentence to a precise memory, and afterwards remember the three hits rather than the ten near-misses. Nobody is being stupid here. That’s how all of us listen when someone seems to be talking about us.
+The person helps, too. They fill the gaps, connect a vague sentence to a precise memory, and afterwards remember the three hits rather than the ten near-misses. Nobody is being stupid here. That’s how all of us listen when someone seems to be talking about us, and it’s much of [why readings feel so accurate](/blog/why-tarot-readings-feel-accurate/).
 
 The trouble starts only when the result is presented as coming from the cards.
 

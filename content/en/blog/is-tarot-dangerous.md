@@ -33,7 +33,7 @@ I’ve written more about [where the door is in tarot and mental health](/blog/t
 
 ## 2. When readings become a dependency {#dependency}
 
-Some people arrive almost fidgety. It looks like an addiction, but what’s running through them is a high dose of doubt. Some come back with the same question every week.
+Some people come back with the same question every week, and what drives them isn’t curiosity so much as doubt.
 
 The signs are worth knowing, for yourself as much as for anyone you read for:
 
@@ -42,7 +42,7 @@ The signs are worth knowing, for yourself as much as for anyone you read for:
 - There’s a decision you could make today, and you’re waiting for a card to make it for you.
 - You pull cards for yourself many times a day, looking for reassurance.
 
-When I see this, I usually suggest we don’t read. Not as a judgement. What the person needs is a moment to breathe, then a decision, or the courage to go through the thing they’re afraid of. Another reading gives them ten more minutes of not deciding.
+When I see this, I usually suggest we don’t read. Not as a judgement: another reading only gives them ten more minutes of not deciding.
 
 What helps: put the deck in a drawer for a month, and take the first small step of the decision without asking anything. I go into it in [why you should quit tarot reading for a while](/blog/why-you-should-quit-tarot-reading/). If the doubt doesn’t ease once the cards are away, that isn’t about tarot, and [a therapist’s door is the right one](/disclaimers/#therapy).
 

@@ -25,7 +25,7 @@ This tells the reader which part of what they did actually worked. Was it the co
 
 It can feel harsh. It isn’t. By my count about one reading in ten misses, and the readers who improve are the ones who can write that word in their notebook without flinching. **The kindest feedback is the accurate one.** If it helps the reader on the receiving end, I’ve written about [what to do when a reading is wrong](/blog/tarot-reading-wrong/).
 
-And if something does land later, write to them. That’s feedback too, and often the most useful kind. Tell them what changed, so they can move the note from one column to the other honestly. It happened to me early on: I read for a stranger on a Discord group about a relationship, and she said it didn’t resonate, because she wasn’t looking for one. Three or four days later she texted me, shocked: everything had happened.
+And if something does land later, write to them. That’s feedback too, and often the most useful kind. Tell them what changed, so they can move the note from one column to the other honestly. My own [first reading for a stranger](/blog/first-tarot-reading-story/) moved columns that way, when she texted me a few days later.
 
 ## Separate what they saw from how they said it {#content-and-delivery}
 
@@ -51,7 +51,7 @@ Two readers can look at the same spread, see two different stories, and both exp
 
 ## When to say it, and a script to keep {#timing}
 
-After, not during. While the reading is happening, keep a quiet face and let them speak; reacting mid-way hands them information, and then neither of you knows what they really read. That’s the logic of [the silence rule](/blog/the-silence-rule/).
+After, not during. While the reading is happening, keep a quiet face and let them speak; reacting mid-way hands them information, and then neither of you knows what they really read. That’s the logic of the silence rule.
 
 Then soon after, while they can still write it down. In a group — in a [workshop](/workshops/), for example — talk about the reading, never about the person. Whatever the setting, this order works:
 

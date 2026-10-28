@@ -72,7 +72,7 @@ Say the cards are the Eight of Swords and the Four of Wands.
 
 {{< cards "sw08 wa04" >}}
 
-In my notes, the Eight of Swords is someone prisoner of themselves while holding every tool they need — the blindfold can come off. The Four of Wands is foundations: marriage, building a family. The Barnum version of these two cards is “you feel stuck, but you have more freedom than you think”: it fits anyone, so it’s struck before it’s scored. The specific version names a situation, a role and a cause: “a plan for a home or a wedding is on hold, and you’re the one holding it.” It could be wrong, which is exactly why it’s worth saying.
+In my notes, the Eight of Swords is someone prisoner of themselves while holding every tool they need — the blindfold can come off. The Four of Wands is foundations: marriage, building a family. The Barnum version of these two cards is “you feel stuck, but you have more freedom than you think”: it fits anyone, so it doesn’t count. The specific version names a situation, a role and a cause: “a plan for a home or a wedding is on hold, and you’re the one holding it.” It could be wrong, which is exactly why it’s worth saying.
 
 **A sentence that can be wrong is the only kind worth counting.** If the person says no, it’s a miss and I write it down. If they say yes, it means something, because it could easily have been no.
 

@@ -19,7 +19,7 @@ There are subjects I don't read on: health, death, pregnancy and fertility, ongo
 
 The reason is arithmetic more than principle. By my own count, about one reading in ten misses. On a question about a new job, a miss costs a shrug. On a question about a scan, a pregnancy or a trial, a miss can make someone wait when they should act, or panic when they could rest. I've written more about [why careful readers step back from health, pregnancy and death](/blog/health-pregnancy-death-tarot/).
 
-Two other moments call for a boundary even when the topic is fine. Someone in acute distress, for whom a reading is the wrong tool that day. And someone who comes back with the same question again and again, almost fidgety, with a high dose of doubt running through them. What they need is to breathe, decide, or go through the thing they're afraid of, so I usually decline then.
+Two other moments call for a boundary even when the topic is fine. Someone in acute distress, for whom a reading is the wrong tool that day. And someone who keeps coming back with the same question: I usually decline then, for the reasons in [why you should quit tarot reading for a while](/blog/why-you-should-quit-tarot-reading/).
 
 **A boundary isn't a verdict on the person; it's a fact about the tool.**
 

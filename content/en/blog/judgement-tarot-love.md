@@ -45,7 +45,7 @@ With this card, the question is often that one, or “Will they come back?” Bo
 
 I don’t read what the other person feels or will do. They’re not in the room, and [reading someone without their consent](/blog/reading-tarot-about-someone-else/) is a line I keep for everyone’s sake, theirs and yours. I don’t want a card to make your decision either.
 
-What a reading can do is turn the second look towards you. The very first reading I gave a stranger, on a Discord group, came out about a relationship. She told me it didn’t resonate; she wasn’t looking for anyone. Three or four days later she texted me, a little shocked: it had all happened. And the reading had also shown that she hadn’t been kind to the other person ([the whole story](/blog/first-tarot-reading-story/)). **That’s the second look Judgement asks for: at what they did, and at your own part in it.**
+What a reading can do is turn the second look towards you. My [very first reading for a stranger](/blog/first-tarot-reading-story/) was about her relationship, and it also showed that she hadn’t been kind to the other person. **That’s the second look Judgement asks for: at what they did, and at your own part in it.**
 
 A kinder question: “What would I need to see, this time, to say yes — and what would make me say no?” Write both lists. They’ll tell you more than any spread, and they’ll still be true next month.
 

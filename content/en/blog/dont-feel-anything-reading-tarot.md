@@ -53,12 +53,10 @@ You can't train yourself to feel on command. You can train yourself to let go, a
 
 It grows with practice. In my notes from 2021, my first full year of reading, I wrote that the more I read, the more often something came before I'd even shuffled, and that I was laying the cards out mostly because the person in front of me wanted to see them.
 
-For what it's worth, every person I've helped to read managed it somewhere between the first and the third try. Not on demand, and not always in the way they expected.
-
 ## When nothing is the answer {#when-nothing-is-the-answer}
 
 Some days nothing comes, and that's information too. Tired, worried, distracted: put the cards down and rest. It isn't [your deck that's tired](/blog/do-tarot-cards-get-tired/); it's you, and that's allowed.
 
-I can't promise you'll feel what I feel. Impressions come differently to everyone, and nothing here is proven; it's my experience and what I've seen in the people I've taught. What I can say is that the feeling you're waiting for isn't the entry ticket. Saying what you see is.
+I can't promise you'll feel what I feel. Impressions come differently to everyone, and nothing here is proven; it's my experience, plus one thing I can count: every person I've helped to read managed it somewhere between the first and the third try. The feeling you're waiting for isn't the entry ticket. Saying what you see is.
 
-You can't be told what it's like. You can only try. That's why a [workshop at Maison Tarot](/workshops/) starts with a card in front of you before any explanation.
+That's why a [workshop at Maison Tarot](/workshops/) starts with a card in front of you before any explanation.

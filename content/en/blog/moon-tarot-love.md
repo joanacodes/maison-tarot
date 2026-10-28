@@ -1,6 +1,6 @@
 ---
 title: "The Moon tarot card in love: uncertainty, and how to read what's under the surface"
-description: "The Moon in a love reading means doubt and projection, not proof of a lie. How to read what’s under the surface, what my first reading taught me, and a kinder question."
+description: "The Moon in a love reading means doubt and projection, not proof of a lie. How to read what’s under the surface, in four steps, and a kinder question to ask instead."
 translationKey: "post-moon-tarot-love"
 type: blog
 date: 2026-10-24
@@ -43,11 +43,9 @@ The gentler question: “What do I actually know, what am I imagining, and what 
 
 The dog and the wolf on the card howl at the same light. Fear at night is old and very human, and being afraid of the dark can be being afraid of your own shadow — the place where we put what we never wanted to look at. I used to wait for a light before walking into any dark room; I’ve written about [what changed](/blog/afraid-of-the-dark/).
 
-## What surfaced three days later {#three-days-later}
+## What surfaces later {#what-surfaces}
 
-My very first reading for a stranger, on a Discord group I’d found through Tumblr, was about a relationship. She said it didn’t resonate; she wasn’t looking for a relationship. On the day, that was a miss. Three or four days later she texted me, shocked: everything had happened. And the reading had also shown something less flattering — that she hadn’t been kind to the other person.
-
-That’s the Moon in one story. What was under the surface couldn’t be seen on the day, and part of it was her own. I tell the whole thing in [my first reading, and the text that came days later](/blog/first-tarot-reading-story/).
+Some of what the Moon hides comes up on its own, and not always on the side you expect. My [very first reading for a stranger](/blog/first-tarot-reading-story/) missed on the day and was confirmed within days, including an unflattering part about how she had treated the other person.
 
 So when the Moon comes up in love, this is how I’d read what’s underneath:
 

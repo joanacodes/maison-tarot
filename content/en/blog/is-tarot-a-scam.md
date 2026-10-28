@@ -17,7 +17,7 @@ Tarot isn’t a scam. A deck is 78 pictures, and reading them is a skill anyone 
 
 A tarot deck is a set of printed images; the one I use was drawn in 1909 by Pamela Colman Smith. The cards don’t promise anything. Reading them means looking at a picture and saying what it shows about the person in front of you, and anyone can learn to do it.
 
-What honest readers can’t tell you is how it works. Nobody knows. I count my readings: about nine in ten hold, about one in ten misses, and I say which. That isn’t a guarantee; it’s the opposite of one. It’s also why I’m comfortable with the label “for entertainment”, and I explain [why I like that phrase](/blog/entertainment-purposes-only/).
+What honest readers can’t tell you is how it works. Nobody knows. I count my readings: about nine in ten hold, about one in ten misses, and I say which. That isn’t a guarantee; it’s the opposite of one. It’s also why I’m comfortable with the label “for entertainment”.
 
 So asking whether tarot is a scam is a bit like asking whether painting is one because forgeries exist.
 
@@ -62,7 +62,7 @@ To be fair to readers who earn their living this way: being paid isn’t a con. 
 
 The grey zone is pricing that rewards uncertainty: per question, per minute, subscriptions that renew while you’re still waiting for an answer. I explain how those models work in [tarot subscriptions and pay-per-question](/blog/tarot-subscriptions/).
 
-I’ll include myself here. In 2021 I sold sage, candles and “channelled” cards. Nothing in them improved a reading, so I stopped. Today I sell lessons and give readings away, because that’s the arrangement where I gain nothing from you needing me again: [what I charge for, and what I give away](/blog/what-i-charge-for/).
+I’ll include myself here. In 2021 I [sold sage, candles and “channelled” cards](/blog/cleanse-tarot-deck/), and stopped because nothing in them improved a reading. Today I sell lessons and give readings away, because that’s the arrangement where I gain nothing from you needing me again: [what I charge for, and what I give away](/blog/what-i-charge-for/).
 
 ## If you think you’ve been hooked {#if-hooked}
 

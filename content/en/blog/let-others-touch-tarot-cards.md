@@ -44,7 +44,7 @@ If the answer is about you — “I’d feel less focused”, “I’d worry abo
 
 If the answer is about the cards — “the readings would go wrong”, “their energy would stay in the deck” — that’s a belief about how tarot works, and it’s one you can test. For a fortnight, let the person shuffle in every other reading and note each result in your notebook. Then compare the two columns. If the readings where someone else shuffled miss more often, you’ve learned something about your practice. If they don’t, you’ve freed yourself from a rule.
 
-I’ve been through something similar. In 2021 I sold sage and candles, and then I stopped: nothing in them improved a reading. I tell that story in [why I stopped cleansing decks](/blog/cleanse-tarot-deck/). And if your worry is that cards wear out in a less visible way, [do tarot cards get tired](/blog/do-tarot-cards-get-tired/) looks at that question.
+Cleansing a deck after someone else’s touch is the same kind of rule; [why I stopped selling sage for it](/blog/cleanse-tarot-deck/) has its own page. And if your worry is that cards wear out in a less visible way, [do tarot cards get tired](/blog/do-tarot-cards-get-tired/) looks at that question.
 
 ## Letting the person shuffle — or cut {#shuffle-or-cut}
 

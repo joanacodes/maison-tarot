@@ -60,9 +60,7 @@ Endings are where readings go wrong, usually with good intentions:
 
 The point of ending well is that the person needs you a little less afterwards, not more.
 
-Some people arrive almost fidgety, wanting card after card. In my experience it isn’t a hunger for tarot; it’s a high dose of doubt running through them. When I see that, I usually decline to keep going, gently, because what they need is to breathe, make a decision, or go through the thing they’re afraid of. Another reading won’t do that for them.
-
-Others come back with the same question again and again. Say so kindly: “We looked at this a fortnight ago. What’s changed since?” If nothing has, the cards won’t say anything new; there’s more on that in [asking tarot the same question twice](/blog/ask-tarot-the-same-question-twice/).
+Some people come back with the same question again and again. Say so kindly: “We looked at this a fortnight ago. What’s changed since?” If nothing has, the cards won’t say anything new; there’s more on that in [asking tarot the same question twice](/blog/ask-tarot-the-same-question-twice/).
 
 If someone asks when they should come back, my honest answer is: when something has changed, not when the worry comes back. A reading can be a check-up on your mood and mindset, taken with your feet on the ground. It isn’t meant to be a daily dose. The aim is for the person to trust their own decisions, mistakes included, and to need the cards less as time goes on.
 

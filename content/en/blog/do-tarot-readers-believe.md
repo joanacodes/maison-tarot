@@ -35,15 +35,15 @@ And I don’t claim to know how it works. Nobody does, including the people who 
 
 I came to all this as a sceptic: I put on an astrology video to laugh at it, and ended up testing my own chart box by box. That story, numbers included, is in [can a sceptic learn tarot?](/blog/can-a-sceptic-learn-tarot/)
 
-I did the same with tarot. I read for strangers who told me nothing and wrote down, every time, what I’d said and what they confirmed. About nine readings in ten held. About one in ten missed, and I say so. The misses are the part I trust most: a reader who can’t tell you how often they’re wrong is asking you to take everything else on faith.
+I did the same with tarot, and [counted my blind readings](/blog/does-tarot-work-300-readings/). About nine readings in ten held. About one in ten missed, and I say so. The misses are the part I trust most: a reader who can’t tell you how often they’re wrong is asking you to take everything else on faith.
 
-So what I believe in is a rate, under conditions. It’s a manual count, not a study. It’s enough for me to keep reading and teaching, and not enough to promise anyone anything.
+So what I believe in is a rate, under conditions. It’s my own count, not a study. It’s enough for me to keep reading and teaching, and not enough to promise anyone anything.
 
 ## The things I can’t explain {#what-i-cant-explain}
 
-Some things have happened that a count doesn’t cover. After I’d read for a friend, I felt her grandfather with me at home, and what came, drawn again and again, was the number five and “under the house”. My friend found storage cell number five in her building’s basement open, and full of paint pots. That was the whole message. I tell it in full in [is tarot evil?](/blog/is-tarot-evil/)
+Some things have happened that a count doesn’t cover. The clearest came after I’d read for a friend: what felt like her grandfather’s presence, and a message that sent her to [a basement storage cell full of paint pots](/blog/is-tarot-evil/). That was the whole of it.
 
-I can’t explain it, and I don’t build anything on it. It wasn’t a prophecy; it was paint. My working definition of [magic](/blog/what-is-magic/) fits here: the things we know exist but are unable to explain.
+I can’t explain it, and I don’t build anything on it. It wasn’t a prophecy; it was paint. My working definition of magic fits here: the things we know exist but are unable to explain.
 
 Anything like that, anything I can’t check, goes on a shelf in my head labelled “sceptical, but if it happens, I was warned”. It’s a way of keeping an impression without believing it and without throwing it away. It never goes into someone’s lap as a forecast.
 
