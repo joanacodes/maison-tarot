@@ -22,7 +22,7 @@ Imaginez une femme d’une trentaine d’années qui arrive un peu en retard, t�
 Les outils habituels :
 
 - *L’observation* : lire la personne avant les cartes.
-- *Les affirmations à forte probabilité* : des phrases vraies de la plupart des adultes — l’[effet Barnum](/fr/blog/effet-barnum-tarot/) à l’œuvre.
+- *Les affirmations à forte probabilité* : des phrases vraies de la plupart des adultes. Prises seules, elles relèvent de l’[effet Barnum](/fr/blog/effet-barnum-tarot/), qui fonctionne même sur une page imprimée ; la lecture froide y ajoute quelqu’un qui regarde comment vous les accueillez.
 - *La pêche* : « Je vois un homme plus âgé, une figure paternelle peut-être ? » — et on attend.
 - *Le suivi des réactions* : un hochement veut dire « continuez », un froncement « changez de cap ».
 - *Le rattrapage des ratés* : « ce n’est pas encore arrivé », « vous comprendrez plus tard ».
@@ -67,9 +67,13 @@ Si le tarologue a beaucoup questionné, deviné large, et transformé chaque rat
 
 ## Ce que j’en fais dans mes propres tirages {#ce-que-je-fais}
 
-Je retire autant d’indices que possible. La personne ne me dit rien. En ligne, je n’ai souvent qu’un pseudo et une voix. Je demande de garder un visage de joueur de poker, et on compare à la fin.
+On ne s’arrête pas de remarquer les choses sur commande, et je ne fais pas exception. Ce que je peux faire, c’est retirer un à un les outils de la liste ci-dessus.
 
-Je note ce que j’ai dit et ce qui a été confirmé, en deux colonnes, et je compte. À ce décompte, environ un tirage sur dix rate. Un raté est un raté : je le dis, je l’écris, et je ne tire pas de carte pour le rattraper.
+- *L’observation* : en ligne, je n’ai souvent qu’un pseudo et une voix — pas de visage, pas d’alliance, pas de vêtements à lire.
+- *La pêche* : je ne pose aucune question, ni avant ni pendant le tirage. La personne ne me dit rien, et ne parle qu’une fois que j’ai fini.
+- *Le suivi des réactions* : je demande de garder un visage de joueur de poker, et on compare à la fin.
+- *Le rattrapage des ratés* : environ un tirage sur dix rate, à mon propre décompte. Un raté est un raté : je le dis, je l’écris, et je ne tire pas de carte pour le rattraper.
+- *La lecture chaude* : à mes événements, les personnes lues sont tirées au sort le jour même, il n’y a donc personne à chercher à l’avance.
 
 La limite honnête : le silence n’éteint pas tous les indices. Une voix, un visage en visio, une hésitation portent encore de l’information, et je ne peux pas promettre de ne jamais m’en servir. Ce que fait le silence, c’est rendre le reste vérifiable. J’explique tout le dispositif sur la [page méthode](/fr/methode/).
 

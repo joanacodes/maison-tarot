@@ -41,7 +41,7 @@ Les nombres et les familles sont inscrits clairement : le nombre dit où en est 
 
 N’importe laquelle, pourvu qu’elle reprenne les dessins d’origine de Pamela Colman Smith. Ce sont les scènes que vous achetez ; la boîte et le prix ne changent rien à la lecture. J’ai comparé les principales éditions, leurs couleurs et la taille de leurs cartes dans [une sélection de jeux pour débuter](/fr/blog/meilleurs-jeux-de-tarot/) ; je ne garde donc ici que la règle qui compte tant que vous apprenez.
 
-Un jeu redessiné qui change les scènes n’est plus le jeu que vous apprenez. S’il garde les scènes mais change les couleurs, il vous retire une partie d’une clé de lecture tant que vous ne savez pas ce que dit l’original. Commencez par l’original ; les versions redessinées viendront plus tard.
+Un jeu redessiné qui change les scènes n’est plus le jeu que vous apprenez. S’il garde les scènes mais change les couleurs, il brouille une partie de la clé de lecture des couleurs tant que vous ne savez pas ce que dit l’original. Commencez par l’original ; les versions redessinées viendront plus tard.
 
 Inutile non plus d’attendre qu’on vous l’offre. [Acheter son propre jeu ne porte pas malheur](/fr/blog/premier-jeu-de-tarot-offert/), quoi qu’on vous ait dit.
 
