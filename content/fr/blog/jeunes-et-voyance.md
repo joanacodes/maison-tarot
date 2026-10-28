@@ -47,7 +47,7 @@ Se raconter. **Une carte est souvent un prétexte pour dire enfin ce qu’on pen
 
 Les cartes aident à faire le point, ou à lâcher prise, pour que nos propres préjugés s’écartent un moment.
 
-Une communauté. En ligne, le tarot se pratique rarement seul : serveurs Discord, groupes Facebook, lives. C’est d’ailleurs sur un serveur Discord trouvé via Tumblr que j’ai fait ma première lecture pour une inconnue. Pour une génération confinée, c’était aussi une façon de parler à quelqu’un, et d’être écoutée.
+Une communauté. En ligne, le tarot se pratique rarement seul : serveurs Discord, groupes Facebook, lives. Pour une génération confinée, c’était aussi une façon de parler à quelqu’un, et d’être écoutée.
 
 Garder la main. Tirer une carte, c’est faire quelque chose quand on a l’impression de ne rien maîtriser. C’est la force du geste ; c’est aussi son piège, quand on se met à tirer toutes les heures.
 
