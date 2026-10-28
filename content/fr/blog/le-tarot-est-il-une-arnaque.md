@@ -66,6 +66,6 @@ Je m’inclus dans le lot. En 2021, je vendais de la sauge, des bougies et des c
 
 ## Si vous pensez avoir mordu à l’hameçon {#si-vous-avez-mordu}
 
-Arrêtez de payer, et ne vous sentez pas bête. Ces scénarios fonctionnent sur des gens intelligents, parce qu’ils sont faits pour les moments où l’on a peur ou où l’on est en deuil. Gardez les messages, et parlez-en à une personne de confiance.
+Arrêtez de payer, et ne vous sentez pas bête. Ces scénarios fonctionnent sur des gens intelligents, parce qu’ils sont faits pour les moments où l’on a peur ou où l’on est en deuil. Gardez les messages, et parlez-en à une personne de confiance. Si c’est arrivé sur une ligne facturée à la minute, les démarches concrètes, du total à faire jusqu’au signalement de la plateforme, sont à la fin de [ce que l’enquête de France 2 a révélé sur les plateformes de voyance](/fr/blog/arnaque-plateforme-voyance/).
 
 Ensuite, si le tarot vous intrigue toujours, la meilleure protection reste d’apprendre à le lire vous-même : vous reconnaîtrez un hameçon au premier coup d’œil. Le [parcours pour apprendre le tarot](/fr/apprendre-le-tarot/) commence par une carte et une clé de lecture.
