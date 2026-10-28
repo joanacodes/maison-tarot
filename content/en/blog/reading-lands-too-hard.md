@@ -47,7 +47,7 @@ Describing before interpreting is also how to say a hard thing well the first ti
 
 ## Hand the meaning back {#hand-it-back}
 
-Then give the card back to the person it was read for. A card is a picture; the person in front of you knows their life, and only they can say what the picture means in it.
+Once the weight is right, give the card back to the person it was read for. A card is a picture; the person in front of you knows their life, and only they can say what the picture means in it.
 
 In practice: "That's what I see on the card. Which part of it feels true to you, and which doesn't?" Then listen, and let their answer lead. Say they reply: "The loss part is true, but it isn't my marriage, it's my job." Then that's the reading. Follow them there and leave your first interpretation behind. If none of it fits, say so and drop it: a miss is a miss. About one reading in ten misses, by my count, and a hard reading is no more likely to be right than a gentle one.
 

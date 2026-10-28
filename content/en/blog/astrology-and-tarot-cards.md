@@ -76,6 +76,6 @@ The sign of the card isn’t the sign of the person. A Gemini who draws the Love
 
 The sign comes after the drawing, the number and the colours. If it contradicts what’s in front of you, the drawing wins.
 
-And it’s a lens, not proof. When I [tested my birth chart box by box](/blog/i-tested-my-birth-chart/), 30 to 40% held overall: enough to be useful, not enough to decide anything. If you’re new to signs, start with [what a birth chart is](/blog/what-is-a-birth-chart/).
+And it’s a lens, not proof. When I [tested my birth chart box by box](/blog/i-tested-my-birth-chart/), 30 to 40% held overall: enough to be useful, not enough to decide anything. The sign–card pairings themselves weren't part of that test. If you’re new to signs, start with [what a birth chart is](/blog/what-is-a-birth-chart/).
 
 To try it: take one of these six cards out of your deck. Read it once without the sign and once with it, and write both down. Then look up the sign in [the Library’s table of the twelve signs](/library/astrology/), and its mode among [the three astrological modes](/library/astrological-modes/).

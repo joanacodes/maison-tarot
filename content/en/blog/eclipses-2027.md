@@ -43,7 +43,7 @@ In 2027 the eclipse seasons fall in February and in late July–August, and the 
 
 {{< cards "ar08 ar17" >}}
 
-That's what the tradition says. What I can add is my own count: when [I tested my birth chart box by box](/blog/i-tested-my-birth-chart/), placements held about 30–40% of the time overall. So I treat eclipses as a theme to think with, never as a schedule — and [astrology is not an excuse](/disclaimers/#astrology) for a decision you were going to make anyway.
+That's what the tradition says. What I can add is my own count, with its limit: when [I tested my birth chart box by box](/blog/i-tested-my-birth-chart/), placements held about 30–40% of the time overall, and eclipses weren't part of that test at all. So I treat eclipses as a theme to think with, never as a schedule — and [astrology is not an excuse](/disclaimers/#astrology) for a decision you were going to make anyway.
 
 ## A gentle tarot spread for the 2027 eclipses {#spread}
 
