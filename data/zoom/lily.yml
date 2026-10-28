@@ -1,13 +1,13 @@
 # Gros plans du lys (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
 - card: ar01
   box: [0.42, 0.685, 0.72, 0.865]
-  en: "x"
-  fr: "x"
+  en: "A white lily opening beside a red rose, in the Magician’s garden"
+  fr: "Un lys blanc qui s’ouvre près d’une rose rouge, au jardin"
 - card: wa02
   box: [0.045, 0.70, 0.265, 0.875]
-  en: "x"
-  fr: "x"
+  en: "The cross of red and white flowers carved in the stone"
+  fr: "La croix de fleurs rouges et blanches sculptée dans la pierre"
 - card: cuac
-  box: [0.60, 0.79, 0.90, 0.91]
-  en: "x"
-  fr: "x"
+  box: [0.62, 0.797, 0.86, 0.905]
+  en: "Red water lilies among the round pads, where the streams land"
+  fr: "Des nénuphars rouges parmi les feuilles rondes, là où l’eau retombe"

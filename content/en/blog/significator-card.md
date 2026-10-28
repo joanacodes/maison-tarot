@@ -25,7 +25,7 @@ Some readers use one in any spread: a significator in the middle of a three-card
 
 There are four common ways.
 
-1. *By description.* Waite’s guide picks a court card by age and gender, and the suit by the person’s colouring, from Wands for the fairest to Pentacles for the darkest.
+1. *By description.* Waite’s guide matches the court cards to the person’s age and gender for the rank, and to their colouring — hair, eyes, complexion — for the suit.
 2. *By star sign.* Fire signs get a Wands court card, Water signs a Cups one, and so on. Some readers use the major arcana card linked to the sign instead.
 3. *By choice.* The person looks through the court cards face up and picks the one they feel most like.
 4. *By subject.* The card stands for the question rather than the person: the Ten of Pentacles for a question about a family home, say.
@@ -34,7 +34,7 @@ Here’s what the first method gives in a single suit.
 
 {{< cards "waki wakn waqu wapa" >}}
 
-The King, the Knight, the Queen and the Page of Wands. Under Waite’s rule, Wands are for very fair people with blue eyes, and the rank follows age and gender: a King for a younger man, a Knight for a man over forty, a Queen for a woman over forty, a Page for a younger woman. Yes, the Knight is the older man; that’s how Waite wrote it.
+The King, the Knight, the Queen and the Page of Wands. Under Waite’s rule, Wands are for very fair people with blue eyes, and the rank follows age and gender: a King for a younger man, a Knight for a man of forty or more, a Queen for a woman over forty, a Page for a younger woman. Yes, the Knight is the older man; that’s how Waite wrote it.
 
 ## Why I read without one {#why-without}
 
