@@ -43,7 +43,7 @@ Pas au sens où on l’entend d’habitude. J’ai commencé à lire le 26 déce
 
 Aujourd’hui, avant chaque lecture, je me dis : *je vais dire n’importe quoi.* Plus j’abaisse mes attentes, plus c’est juste. Une tarologue sûre de son don a tendance à sauver ses lectures au lieu de dire ce qui vient.
 
-Je ne sais pas comment marche le tarot. J’ai exposé [les quatre explications qu’on avance](/fr/blog/comment-marche-le-tarot/), et je n’ai besoin d’aucune pour lire. Ce que j’ai à la place de la croyance, c’est un décompte, ratés compris. Si vous êtes sceptique et que vous vous demandez si vous pourriez apprendre quand même, je suis venue à l’astrologie pour m’en moquer, et je le raconte dans [un sceptique peut-il apprendre le tarot](/fr/blog/un-sceptique-peut-il-apprendre-le-tarot/).
+Ce que j’ai à la place de la croyance, c’est un décompte, ratés compris. Les tarologues croient à des choses très différentes, et j’ai expliqué à part [où je me situe, et quoi demander plutôt à un tarologue](/fr/blog/les-tarologues-y-croient-ils/). Si vous êtes sceptique et que vous vous demandez si vous pourriez apprendre quand même, je suis venue à l’astrologie pour m’en moquer, et je le raconte dans [un sceptique peut-il apprendre le tarot](/fr/blog/un-sceptique-peut-il-apprendre-le-tarot/).
 
 ## Quand c’est trop y croire qui pose problème {#trop-y-croire}
 

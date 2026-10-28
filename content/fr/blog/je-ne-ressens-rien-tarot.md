@@ -57,7 +57,7 @@ Pour ce que ça vaut, toutes les personnes que j’ai aidées à lire y sont arr
 
 ## Quand « rien » est la réponse {#quand-rien-est-la-reponse}
 
-Certains jours, rien ne vient, et c’est une information aussi. Fatigué, inquiet, distrait : posez les cartes. Après des lectures, on peut se sentir très fatigué, parce qu’interpréter demande de l’énergie. Écoutez votre corps et reposez-vous. Ce n’est pas [votre jeu qui est fatigué](/fr/blog/cartes-tarot-fatiguees/) ; c’est vous, et c’est permis.
+Certains jours, rien ne vient, et c’est une information aussi. Fatigué, inquiet, distrait : posez les cartes et reposez-vous. Ce n’est pas [votre jeu qui est fatigué](/fr/blog/cartes-tarot-fatiguees/) ; c’est vous, et c’est permis.
 
 Je ne peux pas vous promettre que vous ressentirez ce que je ressens. Les impressions viennent différemment à chacun, et rien de tout ça n’est prouvé ; c’est mon expérience, et ce que j’ai vu chez les personnes à qui j’ai appris. Ce que je peux dire, c’est que le ressenti que vous attendez n’est pas le ticket d’entrée. Dire ce que vous voyez, si.
 

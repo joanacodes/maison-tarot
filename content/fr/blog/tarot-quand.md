@@ -31,11 +31,9 @@ Ces systèmes ne s’accordent pas entre eux. Selon le livre que vous ouvrez, le
 
 ## La voix qui m’a appris le timing {#la-voix}
 
-Ce n’était pas un tirage, et je raconte toute l’histoire dans [pourquoi un tirage peut être faux](/fr/blog/tirage-faux-tarot/). En bref : après avoir perdu la personne dont j’étais la plus proche, j’étais folle de rage, et j’ai demandé en silence : « Qui est le prochain ? » J’ai entendu une voix d’homme donner le prénom d’un autre proche, et dire que cette personne « va avoir un accident ».
+Ce n’était pas un tirage, et je raconte toute l’histoire dans [pourquoi un tirage peut être faux](/fr/blog/tirage-faux-tarot/). En bref : après avoir perdu la personne dont j’étais la plus proche, j’étais folle de rage, et j’ai demandé en silence : « Qui est le prochain ? » J’ai entendu une voix d’homme donner le prénom d’un autre proche, et dire que cette personne « va avoir un accident ». Deux semaines plus tard, un camion a percuté sa voiture. Aujourd’hui, elle est vivante et en pleine forme.
 
-Deux semaines plus tard, un camion a percuté sa voiture. Aujourd’hui, elle est vivante et en pleine forme.
-
-L’événement est venu. Mais ma question portait sur qui mourrait ensuite, et comme réponse à cette question, l’information était fausse sur ce qui comptait. La voix n’avait dit ni quand, ni comment ça finirait. Ce que j’en ai gardé tient au timing, à l’interprétation, et à une étagère dans ma tête, étiquetée *sceptique, mais si ça arrive, j’étais prévenue*. Les messages vont sur cette étagère. Les dates en particulier.
+L’événement est venu, mais j’avais demandé qui mourrait ensuite, et sur ce qui comptait, l’information était fausse. La voix n’avait dit ni quand, ni comment ça finirait. Ce que j’en ai gardé, c’est une étagère dans ma tête, étiquetée *sceptique, mais si ça arrive, j’étais prévenue*. Les messages vont sur cette étagère. Les dates en particulier.
 
 ## Pourquoi le timing est le point faible {#pourquoi-je-me-trompe}
 
