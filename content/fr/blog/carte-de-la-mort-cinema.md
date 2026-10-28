@@ -25,7 +25,7 @@ Aucune autre lame ne fait ce travail aussi bien. La Tour s’en approche, mais u
 
 Je n’ai gardé que des scènes que j’ai pu vérifier. Mieux vaut trois vraies que sept à moitié dans les souvenirs.
 
-*Cléo de 5 à 7* (Agnès Varda, 1962) s’ouvre sur un tirage filmé en plongée, et c’est le seul passage du film en couleur. Cléo, chanteuse, attend les résultats d’un examen médical. La cartomancienne étale les cartes, la Mort sort, et elle dit ce qu’une tarologue dirait : c’est une transformation profonde, pas forcément un décès. Cléo n’entend pas « transformation ». Le reste du film la suit dans Paris, avec le mot qu’elle a entendu ([la fiche du film](https://fr.wikipedia.org/wiki/Cl%C3%A9o_de_5_%C3%A0_7)).
+*Cléo de 5 à 7* (Agnès Varda, 1962) s’ouvre sur un tirage filmé en plongée, et c’est le seul passage du film en couleur. Cléo, chanteuse, attend les résultats d’un examen médical. La cartomancienne étale les cartes, la Mort sort, et elle dit ce qu’une tarologue dirait : c’est une transformation profonde, pas forcément un décès. Cléo n’entend pas « transformation ». Et une fois Cléo partie, la cartomancienne confie à son mari qu’elle a vu dans les cartes un cancer, et la mort. Le reste du film suit Cléo dans Paris, avec le mot qu’elle a entendu ([la fiche du film](https://fr.wikipedia.org/wiki/Cl%C3%A9o_de_5_%C3%A0_7)).
 
 *Les Simpson*, « Le Mariage de Lisa » (1995). Dans une foire Renaissance, Lisa s’assoit devant une diseuse de bonne aventure. La première carte est la Mort, et la voyante explique qu’elle annonce un changement, une page qui se tourne, pas la fin d’une vie. La carte suivante est le « Happy Squirrel », un écureuil joyeux qui n’existe dans aucun vrai jeu. La blague ne fonctionne que parce que les scénaristes connaissaient assez le vrai sens pour jouer avec ([un essai sur la scène, en anglais](https://wildhunt.org/2026/03/tarot-at-my-table-and-in-popular-culture.html)).
 
@@ -37,7 +37,7 @@ Trois choses, et elles comptent davantage que le squelette.
 
 La première, c’est la carte comme verdict. À l’écran, une carte annonce un événement, et l’événement arrive. Aucune carte n’annonce un décès — ni celle-ci, ni une autre. Ce n’est pas une version adoucie du sens ; c’est le sens.
 
-La deuxième, c’est la tireuse de cartes en oracle, voire en menace. Dans ces scènes, elle sait, et la personne en face reçoit. À une vraie table, c’est l’inverse : je lis ; vous décidez.
+La deuxième, c’est la tireuse de cartes en oracle, voire en menace. Dans ces scènes, elle sait, et la personne en face reçoit ; celle de Cléo attend même que la porte se soit refermée pour dire son vrai verdict. À une vraie table, c’est l’inverse : je lis ; vous décidez.
 
 La troisième, c’est de prendre la fin pour la carte entière. Regardez ce qu’a dessiné Pamela Colman Smith : un squelette en armure noire sur un cheval blanc, qui porte une bannière noire frappée d’une rose blanche. Devant lui, un roi gît à terre, un évêque se tient debout, les mains jointes, une jeune femme détourne le visage, un enfant lève les yeux. Et au fond, entre deux tours, un soleil sur l’horizon. L’image contient déjà l’après.
 
