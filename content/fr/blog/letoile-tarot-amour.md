@@ -43,7 +43,7 @@ Après la Tour, l’Étoile, c’est le calme juste après la tempête : quelque
 
 ## « Vais-je retrouver quelqu’un ? » {#retrouver}
 
-Avec l’Étoile, c’est souvent la question, ou bien « Est-ce que cette personne va tout arranger ? ». Elle vient d’un endroit fatigué, et c’est une envie légitime. Après une période dure, on aimerait que quelqu’un nous dise que c’est fini.
+Avec l’Étoile, c’est souvent cette question-là qui arrive, ou bien « Est-ce que cette personne va tout arranger ? ». Elle vient d’un endroit fatigué, et c’est une envie légitime. Après une période dure, on aimerait que quelqu’un nous dise que c’est fini.
 
 Une carte ne peut pas vous promettre une personne, et je ne voudrais pas qu’elle le fasse. Si l’Étoile disait « oui, quelqu’un arrive », vous pourriez passer les mois suivants à surveiller la porte au lieu de soigner votre terrain. Et ce qu’une autre personne ressentira ou fera, je ne le lis pas : cela lui appartient. J’ai réuni [les questions que je préfère laisser de côté](/fr/blog/questions-a-eviter-tarot/), avec une meilleure question pour chacune.
 

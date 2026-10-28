@@ -15,52 +15,53 @@ Le Trois d’Épées, c’est le chagrin dessiné aussi franchement qu’une car
 
 {{< cards "sw03" >}}
 
-## Ce que montre le Trois d’Épées, clé par clé {#les-cles}
+## Un lien qui marchait, et ce qui l’a coupé {#lien-coupe}
 
-Un cœur rouge flotte dans un ciel gris, transpercé par trois épées. Des nuages derrière, la pluie qui tombe. Pas de personnage, pas de sol, pas d’horizon. C’est l’une des rares cartes du jeu sans personne dedans — comme si le sentiment avait pris toute la place.
+Le 3, dans mes notes, c’est le bon rythme : la machine qui tourne, un contrat qui fonctionne. Son moins, c’est la solitude et la trahison. En amour, le Trois d’Épées se tient pile sur cette ligne — un lien qui fonctionnait, et quelque chose qui l’a entaillé.
 
-Le nombre, c’est le [3](/fr/bibliotheque/numerologie/chiffre-3/) : le bon rythme, la machine qui tourne, un contrat qui fonctionne. Son moins, dans mes notes, c’est la solitude et la trahison. Et à côté de cette carte, j’ai noté autre chose : **le Trois d’Épées, c’est aussi un pacte de sang.** Trois lames dans un seul cœur, scellées. Un lien noué dans la douleur — deux personnes qui ont traversé quelque chose de dur ensemble et en sont sorties liées. Ou une promesse qu’on se fait à soi-même, le jour où ça fait mal.
+L’élément, c’est l’Air : la pensée, les décisions, les mots, y compris la langue de vipère. Ce cœur n’a pas été touché par une pierre ; il a été coupé par quelque chose de net et de précis, très souvent une phrase, dite ou lue. L’énergie est masculine, et la parole masculine, dans mes notes, est directe et rapide, et peut être assez brutale pour fermer les gens. C’est comme ça qu’une seule remarque reste plantée en quelqu’un pendant des mois.
 
-L’élément, c’est l’Air : la pensée, les décisions, les mots — y compris la « langue de vipère ». Ce cœur n’a pas été touché par une pierre ; il a été coupé par quelque chose de net et de précis. Souvent une phrase, dite ou lue. Les couleurs disent le reste : le rouge de la passion au centre, le [gris](/fr/bibliotheque/couleurs-tarot/gris/) d’un ciel indifférent, et la pluie — la seule eau dans une carte d’Air. Des larmes, autrement dit.
+Un détail du dessin compte en amour : la pluie, la seule eau dans une carte d’Air. Des larmes, autrement dit. Si l’astrologie vous parle, la carte correspond à Saturne en Balance, une leçon difficile sur la justice entre deux personnes ; Saturne fait partie des placements qui ont tenu entre 75 et 90 % quand [j’ai testé mon propre thème](/fr/blog/j-ai-teste-mon-theme-astral/). Les autres clés sont sur [la page de la carte](/fr/bibliotheque/cartes-tarot/trois-de-epees/).
 
-Si l’astrologie vous parle, la carte correspond à Saturne en Balance : la leçon la plus dure (Saturne a tenu entre 75 et 90 % dans mon propre test de thème astral), dans le signe de l’équilibre et des relations. Une leçon difficile sur la justice entre deux personnes. Facultatif, comme toute l’astrologie. Toutes les clés sont sur [la page de la carte](/fr/bibliotheque/cartes-tarot/trois-de-epees/).
+## Un pacte scellé sous la pluie {#pacte}
 
-Superposez-les et vous avez une phrase avant tout livre. Imaginons quelqu’un qui tire cette carte sans rien vous dire. Un lien, un mot qui a coupé, la pluie. Ce que vous pourriez dire à voix haute : « Quelque chose qu’on vous a dit — ou que vous avez dit — est resté coincé en vous, et ça a besoin de sortir, en mots ou en larmes. » Puis vous vérifiez avec la personne, et si ça ne tombe pas juste, vous appelez ça un raté.
+À côté de cette carte, dans mes notes, j’ai écrit une ligne de plus : **le Trois d’Épées, c’est aussi un pacte de sang.** Trois lames dans un seul cœur, scellées.
 
-## Ce qu’il dit célibataire, en couple, après une rupture {#relation}
+En amour, ce peut être deux personnes qui ont traversé quelque chose de dur ensemble — un deuil, une crise familiale, une année où tout est allé de travers — et qui en sont sorties plus soudées. La blessure était réelle, et ce qu’elle a créé entre elles l’est tout autant.
+
+Ce peut être aussi un pacte que vous passez avec vous-même, le jour où ça fait mal. Certaines de ces promesses sont bonnes : « Je n’accepterai plus qu’on me parle comme ça. » D’autres vous attachent en silence à la blessure : « Je ne laisserai plus jamais personne m’approcher autant. » Les deux sont scellées sous la même pluie ; ça vaut la peine de relire celle que vous avez signée.
+
+## Trois façons d’avoir le cœur percé {#coeur-perce}
 
 Célibataire, ce peut être une vieille blessure encore active — la raison pour laquelle vous reculez quand quelqu’un s’approche. Ou une piqûre plus petite : un béguin qui n’a pas abouti, un message resté en « vu ».
 
-En couple, il désigne souvent une vérité douloureuse dite à voix haute. Une dispute avec une phrase de trop. Un sentiment de trahison, qui n’est pas la même chose qu’une liaison : l’autre a raconté votre secret à sa mère, ou a choisi ses amis le soir où vous aviez besoin de lui. Parfois, la lecture du pacte de sang convient mieux — un couple qui a traversé un deuil ensemble et en est sorti plus soudé.
+En couple, il désigne souvent une vérité douloureuse dite à voix haute. Une dispute avec une phrase de trop. Un sentiment de trahison, qui n’est pas la même chose qu’une liaison : l’autre a raconté votre secret à sa mère, ou a choisi ses amis le soir où vous aviez besoin de sa présence.
 
-Après une rupture, c’est le chagrin lui-même, et la carte ne fait pas semblant. Pas d’éclaircie peinte dans un coin, pas de silhouette qui marche vers un ciel plus clair. Cette honnêteté est une forme de douceur. Elle vous dit que ce que vous ressentez a une forme que d’autres ont dessinée avant vous, et que vous avez le droit de le ressentir pleinement avant qu’on vous demande de tourner la page. « Chagrin d’amour dure toute la vie », dit la vieille romance ; la carte, elle, dessine de la pluie. Et la pluie, c’est la météo : elle tombe, puis elle passe.
+Après une rupture, c’est le chagrin lui-même, et la carte ne fait pas semblant. Pas d’éclaircie peinte dans un coin, pas de silhouette qui marche vers un ciel plus clair — il n’y a personne sur le dessin, comme si le sentiment avait pris toute la place. Cette honnêteté est une forme de douceur. Elle vous dit que ce que vous ressentez a une forme que d’autres ont dessinée avant vous, et que vous avez le droit de le ressentir pleinement avant qu’on vous demande de tourner la page.
 
-## Ce qui aide quand le Trois d’Épées sort {#ce-qui-aide}
+Inversé, c’est la douleur retenue : pas de pluie, pas de mots, « ça va ». Ou la plaie rouverte — les vieux messages relus, la phrase rejouée en boucle. Parfois, c’est la pluie qui s’arrête, sans bruit.
 
-Pas de remède, pas de promesse — seulement ce qui aide, en général.
+## « C’était vrai, au moins ? » {#etait-ce-vrai}
 
-1. Laissez pleuvoir. Il y a de la pluie sur la carte pour une raison. Pleurer n’est pas un retour en arrière.
-2. Dites-le à voix haute à quelqu’un. C’est une carte d’Air : les mots coupent, et les mots commencent aussi à refermer la coupure.
-3. Ne décidez rien dans l’orage. Envoyer, bloquer, déménager, pardonner : presque tout peut attendre une semaine.
-4. Reposez-vous, comme le Quatre d’Épées : allongez-vous, raccrochez les lames au mur pour un temps.
-5. Si la douleur reste aussi vive pendant des semaines, ou se met à envahir vos journées, c’est la porte d’un thérapeute ou d’un médecin, pas celle d’un jeu de cartes. J’en dis [plus ici](/fr/avertissements/#therapie).
+C’est la question qu’on apporte le plus souvent au Trois d’Épées, sous une forme ou une autre : est-ce que l’autre tenait vraiment à moi, est-ce qu’il y a quelqu’un d’autre, est-ce que quelque chose était vrai ? Elle vient de la partie la plus à vif d’un chagrin, et elle mérite une réponse douce.
 
-## Inversé, et à côté d’autres cartes {#inverse-associations}
+Je ne lis pas dessus, et voici pourquoi. L’autre n’est pas dans la pièce et n’a pas accepté d’être lu. Vous n’aimeriez pas que quelqu’un fouille dans votre chambre ; lire quelqu’un sans son accord, c’est à peu près la même chose. Et une carte interrogée sur le cœur de quelqu’un d’autre répond avec votre peur : vous repartez avec la même blessure, plus une image pour l’illustrer.
 
-Inversé, le Trois d’Épées, c’est la douleur retenue : pas de pluie, pas de mots, « ça va ». Ou l’inverse, la plaie rouverte — relire les vieux messages, rejouer la phrase en boucle. Parfois, c’est la pluie qui s’arrête, sans bruit.
+Une question plus douce : « Qu’est-ce qui m’a fait mal, et qu’est-ce que j’ai besoin d’en dire ? » Si quelque chose ne colle pas, sa place est dans une conversation avec l’autre, ou avec un ami qui vous connaît tous les deux — pas dans un tirage.
+
+## Refermer la coupure {#refermer}
+
+Pas de remède, et pas de promesse. Ce qui aide, en général, et les cartes qui le montrent :
 
 {{< cards "cu03 sw04 cu02" >}}
 
-À côté du Trois de Coupes, le trois devient les amis : ceux qui vous tiennent pendant qu’il pleut. À côté du Quatre d’Épées, c’est le repos après la coupure. À côté du Deux de Coupes, c’est le pacte de sang dans sa version la plus tendre : deux personnes plus proches parce qu’elles ont traversé la douleur ensemble, et non en la contournant.
+1. Laissez pleuvoir. Il y a de la pluie sur la carte pour une raison. Pleurer n’est pas un retour en arrière.
+2. Dites-le à voix haute à quelqu’un. C’est une carte d’Air : les mots coupent, et les mots commencent aussi à refermer la coupure. Le Trois de Coupes, trois amies qui lèvent leurs coupes, ce sont les gens qui vous tiennent pendant qu’il pleut.
+3. Reposez-vous, comme le Quatre d’Épées : allongez-vous, raccrochez les lames au mur pour un temps.
+4. Ne décidez rien dans l’orage. Envoyer, bloquer, déménager, pardonner : presque tout peut attendre une semaine.
+5. Faites de ce pacte un pacte tendre. À côté du Deux de Coupes, le Trois d’Épées, ce sont deux personnes plus proches parce qu’elles ont traversé la douleur ensemble, et non en la contournant ; [le Deux de Coupes en amour](/fr/blog/deux-de-coupes-amour/) parle de garder ce lien à égalité.
+6. Si la douleur reste aussi vive pendant des semaines, ou se met à envahir vos journées, c’est la porte d’un thérapeute ou d’un médecin, pas celle d’un jeu de cartes. J’ai écrit sur [ce que les cartes peuvent porter dans le deuil](/fr/blog/tarot-et-deuil/), et sur le moment où il faut quelqu’un.
 
-## « Est-ce qu’il me trompe ? » — et une question plus douce à poser {#tromperie}
+## Sous la pluie, un seul geste {#un-geste}
 
-C’est la question qu’on apporte au Trois d’Épées plus que toute autre. Elle vient de la peur, et souvent de quelque chose de réel qui ne colle pas.
-
-Je ne lis pas dessus, et voici pourquoi. L’autre n’est pas dans la pièce et n’a pas accepté d’être lu. Vous n’aimeriez pas que quelqu’un fouille dans votre chambre ; lire quelqu’un sans son accord, c’est la même chose. Et une carte à qui l’on demande « est-ce qu’il me trompe ? » répond avec votre peur : vous repartez avec la même inquiétude, plus une image pour l’illustrer. J’en parle davantage dans un article sur [le fait de tirer les cartes sur quelqu’un d’autre](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/).
-
-Une question plus douce : « Qu’est-ce qui m’a fait mal, et qu’est-ce que j’ai besoin d’en dire ? » Si quelque chose ne colle pas, sa place est dans une conversation avec lui, ou avec une amie qui vous connaît tous les deux — pas dans un tirage.
-
-## Et maintenant {#et-maintenant}
-
-Tirez une carte pour cette question : « Qu’est-ce qui m’aiderait cette semaine ? » Puis faites cette chose-là, même minuscule. Et si le chagrin ressemble à un fond du gouffre, lisez [le Dix d’Épées en amour](/fr/blog/dix-depees-amour/) : le pire dessin du jeu, avec une aube derrière.
+Tirez une carte pour cette question : « Qu’est-ce qui m’aiderait cette semaine ? » Puis faites cette chose-là, même minuscule. Et si le chagrin ressemble au fond du gouffre, lisez [le Dix d’Épées en amour](/fr/blog/dix-depees-amour/) : le pire dessin du jeu, avec une aube derrière.
