@@ -17,15 +17,15 @@ Yes, in my experience. Most of my readings for strangers were done online, often
 
 When I counted my [300 blind readings](/blog/does-tarot-work-300-readings/), most of them happened online: on Discord servers, in group calls, and during a live. Some were face to face. About nine in ten held, by my own count, and the readings behind that number were mostly done through a screen.
 
-My very first reading for a stranger was one of them. It was on a Discord server I’d found through Tumblr. I had a username and nothing else. She said it didn’t resonate; three or four days later she texted me, shocked, because everything had happened. All of it, the reading and the confirmation, went through a screen.
+My very first reading for a stranger was one of them. It was on a Discord group I’d found through Tumblr, with a woman I had never met. She said it didn’t resonate; three or four days later she texted me, shocked, because everything had happened. The reading and the confirmation both reached me through a screen.
 
-{{< todo >}}Add here: whether you noticed any difference between your online and face-to-face readings{{< /todo >}}
+One honest limit: that nine in ten covers the online and the face-to-face readings together. It can’t tell you whether one kind held better than the other. What it does show is that a screen didn’t stop readings from holding.
 
 ## What changes when you read through a screen {#what-changes}
 
 Less information reaches me, and that helps. In a room, a reader sees shoes, a wedding ring, a tired face, the way someone sits down. On a call I often get a voice and a first name, sometimes only a username. **The less I know before I start, the more a confirmation afterwards is worth.** That’s the whole reason for [the silence rule](/blog/the-silence-rule/).
 
-Video gives back one thing a voice call doesn’t: a face. Faces nod, smile and sigh at the right moment, and that’s information too. I ask people, kindly, to keep a poker face and save their reactions for the end. Some can’t, and that’s fine; I write that down as well.
+Video gives back one thing a voice call doesn’t: a face. Faces nod, smile and sigh at the right moment, and that’s information too. If you read over video, it helps to ask the person, kindly, to keep a poker face and save their reactions for the end. Some can’t, and that’s fine; it’s worth noting next to the reading.
 
 The person doesn’t touch the cards. People often ask whether that matters. I don’t think so. The cards aren’t where the reading comes from; they help me focus, or unfocus, so my own thoughts step aside. More and more, the first impressions come before I’ve shuffled, and I keep the cards on the table mostly because the person wants to see them. So over video, the useful thing is to hold each card up to the camera, so the person sees what you see.
 
@@ -43,7 +43,7 @@ Not the reading itself, usually. The setting.
 
 ## Group calls and lives {#group-calls}
 
-Some of my readings were done in front of others: in group calls, and in a live where people were drawn at random. One of the reviews I received on Facebook came from someone I read during a live. The format is still the same: they tell me nothing, I say what comes, they say whether it landed. That’s how the [free online events](/events/) work today.
+Some of my readings were done in front of others: in group calls, and during a live. One of the reviews I received on Facebook came from someone I read during a live. The format is still the same: they tell me nothing, I say what comes, they say whether it landed. That’s how the [free online events](/events/) work today.
 
 At the far end of distance there’s the pick-a-card video, recorded by someone who has never met you. One of those made me sob, because it put words on my situation for the first time. I wrote about [whether pick-a-card readings work](/blog/do-pick-a-card-readings-work/), and where they fall short.
 

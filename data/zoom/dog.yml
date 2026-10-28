@@ -1,0 +1,5 @@
+# Gros plans du chien (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
+- card: ar00
+  box: [0.55, 0.62, 0.92, 0.88]
+  en: "The little white dog leaping at the Fool’s heels"
+  fr: "Le petit chien blanc qui bondit aux talons du Mat"

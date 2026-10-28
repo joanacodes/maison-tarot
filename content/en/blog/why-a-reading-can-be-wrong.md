@@ -25,8 +25,6 @@ Two weeks later, a truck hit her car.
 
 She is alive and well today. I want to say that clearly, early, and without any suspense, because it’s the most important sentence in this article.
 
-{{< todo >}}Add here (optional): anything you want to say about those two weeks — whether you told her, what you did with the message. If you’d rather not, delete this line.{{< /todo >}}
-
 ## What was right, and what was wrong {#right-and-wrong}
 
 If you count details, a lot of it landed. A name. An accident. A truck, two weeks later. Told that way, it sounds like a perfect premonition, and people who hear the story often stop there.
@@ -45,7 +43,7 @@ A message, a card or an impression shows you something. It rarely shows you when
 
 In card readings, timing is where I miss most. I gave it [a whole article on tarot and timing](/blog/tarot-timing/) for that reason.
 
-Timing cuts the other way too. The very first reading I did for a stranger seemed to miss completely. I read a relationship; she told me it didn’t resonate, she wasn’t looking for one. Three or four days later she texted me, shocked: everything had happened, including the part where she hadn’t been very kind to the other person. On the night, I would have written it down as a miss. Four days on, it wasn’t one. The whole story is in [my first tarot reading](/blog/first-tarot-reading-story/).
+Timing cuts the other way too. The very first reading I did for a stranger seemed to miss completely. I read a relationship; she told me it didn’t resonate, she wasn’t looking for one. Three or four days later she texted me, shocked: everything had happened, including the part where she hadn’t been kind to the other person. On the night, I would have written it down as a miss. Four days on, it wasn’t one. The whole story is in [my first tarot reading](/blog/first-tarot-reading-story/).
 
 So a reading can look wrong today and be right on Friday. It can also be “right” on Friday in a way nobody expected, as the voice was. Neither tells you the reading was useless. Both tell you to hold the timing loosely, and to be slow to decide what a message meant before it has finished arriving.
 

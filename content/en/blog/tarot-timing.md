@@ -31,11 +31,9 @@ The systems don’t agree with each other. Depending on whom you read, Wands are
 
 ## The voice that taught me about timing {#the-voice}
 
-This wasn’t a tarot reading, and I tell the whole story in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/). The short version: after my closest friend died, I was enraged, and I asked silently, “Who’s next?” I heard a man’s voice give another friend’s name and say that this friend “is going to have an accident”.
+This wasn’t a tarot reading, and I tell the whole story in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/). The short version: after my closest friend died, I was enraged, and I asked silently, “Who’s next?” A man’s voice gave another friend’s name and said this friend “is going to have an accident”. Two weeks later, that friend’s car was hit by a truck. My friend is alive and well today.
 
-Two weeks later, that friend’s car was hit by a truck. My friend is alive and well today.
-
-The event came. But the question I’d asked was about who would die next, and as an answer to that, the information was wrong in what mattered. The voice hadn’t said when, or how it would end. What I kept from it is about timing, about interpretation, and a shelf in my head labelled *sceptical, but if it happens, I was warned*. Messages go on that shelf. Dates especially.
+The event came, but I had asked who would die next, and on that the information was wrong in what mattered. The voice hadn’t said when, or how it would end. What I kept is a shelf in my head labelled *sceptical, but if it happens, I was warned*. Messages go on that shelf. Dates especially.
 
 ## Why timing is where I miss most {#why-i-miss}
 
@@ -43,7 +41,7 @@ Because a reading shows readiness, not scheduling. A card can show that somethin
 
 And because of what a date does to the person who receives it. Say someone is told “by spring” about a new relationship. They spend the winter waiting, and don’t notice the person who turns up in November. When spring passes, the reading becomes a disappointment, or a reason to come back and ask again — the same loop I describe in [what the question ‘will they come back?’ does to you](/blog/will-they-come-back-tarot/).
 
-{{< todo >}}Add here: one timing miss from your notebook you’re happy to share — what you said about when, and what actually happened{{< /todo >}}
+The “what” and the “when” of a reading are two separate claims, and one can hold while the other slips. If you keep a notebook, give the “when” its own line. Otherwise a reading that got the event right and the month wrong gets written down as a hit, and you never see where your misses gather.
 
 When a date passes, I don’t say the cards meant a different spring. A miss is a miss, it goes in the notebook, and I’ve written about [what to do when a reading is wrong](/blog/tarot-reading-wrong/).
 

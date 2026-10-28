@@ -47,7 +47,7 @@ Say Aquarius falls in your tenth house, the one for work and public life. An ast
 
 If you want to test it rather than believe it, find that house in your own chart, write one line about how that part of your life looks today, date it, and put it somewhere you'll find it again in five years. That's the only kind of check a transit this long allows.
 
-I'll be honest about the limit. Pluto is hard to test, and it wasn't among the placements that held well when I checked charts box by box; I suspect it's too big for one life. And whatever it describes, it doesn't decide for you. If someone tells you Pluto is why everything is falling apart this month, they're squeezing twenty years into a headline — and if you catch yourself saying "it's my Pluto", have a look at [when astrology becomes an excuse](/blog/astrology-is-not-an-excuse/).
+I'll be honest about the limit. This transit was never part of my test: I checked birth charts box by box, not transits. Even as a birth placement, Pluto wasn't among the ones that held well; shared by everyone born within twenty years, it may be too big for one life. And whatever it describes, it doesn't decide for you. If someone tells you Pluto is why everything is falling apart this month, they're squeezing twenty years into a headline — and if you catch yourself saying "it's my Pluto", have a look at [when astrology becomes an excuse](/blog/astrology-is-not-an-excuse/).
 
 ## Pluto in Aquarius in the cards {#in-the-cards}
 

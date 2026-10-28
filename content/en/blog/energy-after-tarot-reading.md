@@ -27,7 +27,7 @@ And there are the practical things nobody counts. A screen, a headset, a chair y
 
 My notes say it plainly: after a reading you can feel very tired, because interpreting takes energy. Listen to your body, and rest.
 
-{{< todo >}}Add here: what the tiredness felt like for you after a long evening of readings{{< /todo >}}
+That line is what I felt, and the reason I wrote next to it was the work of interpreting. How the tiredness shows differs from one reader to the next: heavy eyes and a stiff back for some, a head that keeps replaying the cards for others, or a hunger that arrives all at once when the call ends. Whatever form yours takes, it tells you how much you gave. It isn't a sign that something went wrong.
 
 The two-hour habit comes from the same place. Nothing dramatic happens at two hours and one minute. But tired readers read worse: impressions get vaguer, you start reciting meanings, and you’re more likely to say something carelessly to a person who’s listening hard. **A limit set before you start is easier to keep than one you negotiate once you’re already tired.**
 

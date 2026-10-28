@@ -63,10 +63,10 @@ And the intention it could lead to: “Two evenings a week on it until the full 
 
 No candle, no crystal, no bath, no particular hour. In 2021 I sold sage and candles; nothing in them improved a reading, and I stopped. I tell that story in [why I stopped cleansing decks](/blog/cleanse-tarot-deck/). If lighting a candle helps you sit down and be quiet, that’s your choice. The spread works the same without it.
 
-You don’t need the exact minute of the new moon either. The evening before or after gives you the same three cards to look at; the date is a reminder, not a deadline. And you don’t need to do it every month. If a month goes by without it, nothing is lost.
+You don’t need the exact minute of the new moon either. The evening before or after works as well; the date is a reminder, not a deadline. And you don’t need to do it every month. If a month goes by without it, nothing is lost.
 
 ## Two weeks later {#two-weeks-later}
 
-The spread has a second half. At the full moon, open your notebook to the intention and tick or cross: did you do it? Not “did it work” — did you do it. That check is what turns a ritual into something that teaches you about yourself, and it’s what the [full moon spread](/blog/full-moon-tarot-spread/) is for.
+The spread has a second half. At the full moon, open your notebook to the intention and tick or cross: did you do it? Not “did it work” — did you do it. That check is what turns a ritual into something that teaches you about yourself. If you want cards that night too, the [full moon spread](/blog/full-moon-tarot-spread/) picks up where this one stops.
 
 If you’d like to read three cards with lenses rather than a book of meanings, the [learn-tarot path](/learn-tarot/) starts with exactly that.

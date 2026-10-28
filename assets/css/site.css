@@ -799,3 +799,12 @@ body.menu-open { overflow: hidden; }
 .tree-of-life figcaption .key { padding: 0 .4em; border-radius: 1em; border: 1px solid var(--line-2); color: var(--fg); }
 .tree-of-life figcaption .key.mother { background: var(--gold); border-color: var(--gold); color: #0a0a0a; }
 .tree-of-life figcaption .key.double { border-color: var(--gold); }
+
+/* Gros plans de symboles ({{< zoom >}}) : en couleur et sans rognage, comme les cartes, puisque c’est le détail qu’on vient voir */
+.zoom-row { display: grid; gap: 1.1rem; grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr)); margin: 1.6rem 0 2.2rem; }
+.zoom-row.lead { grid-template-columns: 1fr; max-width: 28rem; }
+.zoom { margin: 0; }
+.zoom img { display: block; width: 100%; height: auto; border-radius: var(--r-lg); background: var(--bg-3); }
+.zoom a:hover img, .zoom a:focus-visible img { outline: 2px solid var(--gold); outline-offset: 3px; }
+.zoom figcaption { font-size: var(--t-xs); color: var(--muted); margin-top: .55rem; line-height: 1.4; }
+.zoom figcaption a { color: var(--fg); }

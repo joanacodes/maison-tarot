@@ -39,8 +39,6 @@ I can't tell you what it did to the world, and I'd be careful with anyone who sa
 
 So what did it mean? As a collective event, I don't know. As a prompt, it did something useful: for a few weeks, a lot of people asked which parts of their lives were built on a dream and which on something solid. That's a good question for any February.
 
-{{< todo >}}Add here: what you noticed or noted yourself around 20 February 2026, if anything — or delete this line.{{< /todo >}}
-
 ## A test you can still run {#test}
 
 The look-back that means something is your own, done the way I [tested my birth chart, box by box](/blog/i-tested-my-birth-chart/):

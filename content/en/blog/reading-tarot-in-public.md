@@ -53,7 +53,7 @@ Thank them for asking, and move on without a lecture. Nobody should feel told of
 
 ## A shaking body and a calm voice {#staying-calm}
 
-I did lives in Facebook tarot groups, reading for people while others watched. And the more I read, the more often a message came before I'd even shuffled. In front of an audience, say so out loud when it happens, so nobody thinks you skipped a step. [Reading live](/blog/tarot-live-instagram/) has quirks of its own, and I've written about them separately.
+When the audience is behind a screen rather than in the room, [reading live](/blog/tarot-live-instagram/) adds problems of its own, from lag to a comment stream, and I've written about them separately. In a room, it's mostly your body you'll notice.
 
 Your hands may shake, your heart may race, your voice may speed up. That's normal, and it doesn't mean the reading will go wrong. What helps when it's you at the table:
 

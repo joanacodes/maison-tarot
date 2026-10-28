@@ -33,13 +33,13 @@ Where I stand: I don’t draw them. One more card doesn’t clarify the first; i
 
 Some readers cleanse a new deck, or one that feels heavy, with sage smoke, moonlight, salt or a crystal laid on top. For many it marks a beginning and an end, a small ritual that helps them settle before reading for someone. I understand that. Others see cleansing as unnecessary, or as something mostly being sold.
 
-Where I stand: I don’t cleanse. In 2021 I sold sage and candles myself, and I stopped, because nothing in them ever improved a reading. When something feels off, it’s usually the reader who needs a rest, not the cards. If a ritual helps you settle, keep it, as a habit for you rather than a repair for the deck. And if your readings start to feel muddy, try stopping for a few days before reaching for smoke; more often than not, the deck is fine and the reader is tired. The whole story is in [do you need to cleanse your tarot deck?](/blog/cleanse-tarot-deck/)
+Where I stand: I don’t cleanse. In 2021 I sold sage and candles myself, and I stopped, because nothing in them ever improved a reading. When readings start to feel muddy, it’s usually the reader who needs a rest, not the cards: try stopping for a few days before reaching for smoke. If a ritual helps you settle, keep it, as a habit for you rather than a repair for the deck. The whole story is in [do you need to cleanse your tarot deck?](/blog/cleanse-tarot-deck/)
 
 ## Charging for readings {#money}
 
 Some readers charge for readings and see it as skilled work like any other, which it is: it takes time, attention and practice, and it’s tiring. Others feel a reading should never be sold, or only for a donation. Those who charge reply, fairly, that a free reading isn’t free for the reader: the time comes from somewhere, and so does the rent.
 
-Where I stand: in the middle, in a specific way. I charge for lessons, one-hour sessions and three-hour workshops, and I give readings away at events. I’ve never sold a reading. That isn’t a judgement on readers who do. It’s about incentives: a practice that lives on readings needs you to come back, and one that lives on teaching needs you to need it less.
+Where I stand: in the middle, in a specific way. I charge for lessons, one-hour sessions and three-hour workshops, and I give readings away at events. I’ve never sold a reading. That isn’t a judgement on readers who do. It’s about incentives: I’d rather be paid for making you more independent than for your next question.
 
 **What I’d watch isn’t whether a reader charges, but whether the price rewards keeping you uncertain.** Pay-per-question and self-renewing subscriptions do; a stated price for a stated hour doesn’t. I set out my side in [what I charge for and what I give away](/blog/what-i-charge-for/).
 

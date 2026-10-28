@@ -29,33 +29,29 @@ Then I did the same for family, friends and strangers, with their permission and
 
 ## Saturn: the lesson that takes years {#saturn}
 
-Saturn is the planet of structure, responsibility and limits. In a chart it shows where you had to prove yourself, where you arrived late on what you wanted — and where, in time, you became solid precisely because it was hard.
+Saturn is structure, responsibility and limits: in a chart, the hardest lesson, and the place where you slowly become solid because it was hard. [Saturn's Library page](/library/astrology/saturn/) has the full definition and the cards that carry it.
 
 It's slow: about 29 years to go round the zodiac, two and a half in each sign. So people born within a couple of years of each other share a Saturn sign; the house it sits in, which depends on your birth time, is what makes it yours. Say someone has Saturn in the tenth house, the house of career and public life. An astrologer would read a working life that started slowly and became the most solid thing they have.
 
-Why does Saturn tell the truth when the Sun doesn't? The Sun is the shop window: what you're happy to show, and the easiest placement to flatter. Saturn describes what cost you something, and people remember what cost them something in precise words. That's my hypothesis, not an explanation. More on [Saturn's Library page](/library/astrology/saturn/), and its best-known moment, around 29, has [an article of its own](/blog/saturn-return/).
+Why does Saturn tell the truth when the Sun doesn't? In my test the Sun scored about a third, like the other placements everyone reads first. The Sun is the shop window: what you're happy to show, and the easiest placement to flatter. Saturn describes what cost you something, and people remember what cost them something in precise words. That's my hypothesis, not an explanation. Saturn's best-known moment, around 29, has [an article of its own](/blog/saturn-return/).
 
 ## Lilith: what you learned to hide {#lilith}
 
-Lilith — the Black Moon, in modern astrology — isn't a planet. It's a calculated point: the apogee of the Moon's orbit, where the Moon is farthest from the Earth. In a chart it shows what you learned to hide: the desire you don't admit, the anger you put away, the part of yourself you left outside in order to be accepted.
+Lilith, the Black Moon of modern astrology, isn't a planet but a calculated point on the Moon's orbit, the spot where the Moon is farthest from the Earth. In a chart it shows what you learned to hide in order to be accepted. [Lilith's Library page](/library/astrology/lilith/) goes through it, and through why I read it with the Devil, whose chains are loose enough to lift off.
 
-Of the three, it's the placement people recognise and never say out loud. In my test it was often the hardest tick to give, because the person knew it and had never heard anyone else say it.
-
-Lilith came into astrology after the Golden Dawn drew up its correspondences, so it has no traditional card. I read it with the Devil: the chains around the two figures are loose enough to lift off. What was chained can be unchained, once you look at it. More on [Lilith's Library page](/library/astrology/lilith/).
+Say someone's Lilith sits in the seventh house, the house of partners. An astrologer would read a part of themselves they learned to leave outside their relationships: an anger, say, or wanting more than they ask for. Of the three, it's the placement people recognise and never say out loud.
 
 **Because it touches what someone chose to hide, I read Lilith with care: you knock first.** Reading it in another person's chart behind their back is opening a door that was closed on purpose, and [looking up a chart without permission](/blog/birth-chart-without-permission/) has its own article.
 
 ## Chiron: the wound you circle {#chiron}
 
-Chiron is a small body orbiting between Saturn and Uranus, discovered in 1977 and named after the centaur of Greek myth who healed others of a wound he couldn't heal in himself. In a chart it shows exactly that: the wound you keep coming back to, and what you become able to help others with because of it.
+Chiron is a small body between Saturn and Uranus, named after the centaur of Greek myth who healed others of a wound he couldn't heal in himself. In a chart it shows the wound you keep coming back to, and what you become able to help others with because of it. [Chiron's Library page](/library/astrology/chiron/) has the rest, including why I read it with the Hermit, who makes a lantern of his own night.
 
 Say someone's Chiron sits in the third house, the house of speech and siblings. An astrologer would read a wound around being heard — and, often, a person who grows into the friend everyone calls when they need to talk something through. The wound and the skill sit on the same spot.
 
-I read Chiron with the Hermit: he doesn't get rid of his night; he makes a lantern of it and lights other people's way. More on [Chiron's Library page](/library/astrology/chiron/).
-
 ## Why these three, and what I don't claim {#what-i-dont-claim}
 
-All three describe a difficulty, and people may know their difficulties better than their qualities. That's a hypothesis too. It's also a warning: a hard sentence can feel true because it's hard. I was stricter with ticks on these three for that reason.
+All three describe a difficulty, and people may know their difficulties better than their qualities. That's a hypothesis too. It's also a warning: a hard sentence can feel true because it's hard. I checked these three more than the rest, because I didn't want the result to be true.
 
 Same frame as always: a manual count, by me, on people I mostly knew. Not a study. A notebook.
 

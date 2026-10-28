@@ -47,7 +47,7 @@ A lesson works the other way round. Its job is to make you need me less. If you 
 
 Yes, many can, and honestly. Reading is work. It takes time, attention and practice, and it’s tiring: interpreting takes energy, and after a run of readings I sometimes stop at two hours, out of caution. A reader who asks to be paid for that hour is asking for what any other professional asks.
 
-What I’d look at isn’t whether there’s a price, but its shape. A stated price for a stated length of time, with nothing added at the end, is a fair exchange. Pay-per-question, subscriptions that renew themselves, a “second session” needed because the first ended on a cliffhanger: those reward the reader for keeping you uncertain. I set the two side by side in [is tarot a scam?](/blog/is-tarot-a-scam/)
+What I’d look at isn’t whether there’s a price, but its shape. A stated price for a stated length of time, with nothing added at the end, is a fair exchange. A “second session” needed because the first ended on a cliffhanger rewards the reader for keeping you uncertain. The market side — how readings are sold, what a fair price pays for, how to compare two readers — is in [how much a tarot reading costs](/blog/tarot-reading-price/).
 
 So my choice is mine, not a rule for everyone. I sell lessons because that’s the arrangement where my interest and yours point the same way. A reader who charges a fair price, names their misses and steps back from health, death and money questions is doing honest work, and I’d send people to them.
 

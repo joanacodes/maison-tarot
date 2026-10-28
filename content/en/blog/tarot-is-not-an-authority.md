@@ -63,4 +63,4 @@ Put it in a drawer for a few weeks. Not as a punishment: as training. You need t
 
 ## Where to go from here {#from-here}
 
-If you want to understand how a reading works rather than receive one, [learn to read the cards yourself](/learn-tarot/). It’s the surest way to stop treating them as an authority: once you’ve watched a picture become a sentence in your own mouth, you know who wrote the sentence. And if what you really want to know is how much tarot can say about what’s coming, I answer that in [can tarot predict the future?](/blog/can-tarot-predict-the-future/)
+If you want to understand how a reading works rather than receive one, [learn to read the cards yourself](/learn-tarot/). It’s the surest way to stop treating them as an authority: once you’ve watched a picture become a sentence in your own mouth, you know who wrote the sentence. And if you want to see how a reading goes wrong — through timing, through interpretation, or as a plain miss — I take it apart in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/).

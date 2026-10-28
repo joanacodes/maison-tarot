@@ -45,7 +45,7 @@ In France and parts of Europe, tarot is still mostly a card game, played at kitc
 
 Between the texts and life there's a gap, and there's nothing shameful in it. In 2018 the Pew Research Center found that [six in ten American Christians](https://www.pewresearch.org/short-reads/2018/10/01/new-age-beliefs-common-among-both-religious-and-nonreligious-americans/) hold at least one so-called New Age belief — in psychics, astrology, reincarnation, or spiritual energy in physical objects. The share runs from 47% of evangelical Protestants to roughly seven in ten Catholics and members of historically Black Protestant churches.
 
-An honest limit: that survey measures beliefs, not tarot practice, and it covers the United States only. I haven't found a British or French equivalent as detailed.
+An honest limit: that survey measures beliefs, not tarot practice, and it covers the United States only, so it says nothing certain about believers in Britain or France.
 
 What it does show is that people rarely live their faith like a rulebook. Some Christians read cards with a quiet conscience, some abstain out of faithfulness, some hesitate. That last group is usually where the question reaches me, and it rarely sounds like "what does doctrine say?" It sounds like "am I betraying something?"
 
@@ -55,7 +55,7 @@ I'm not a theologian, and I won't tell you what your church allows; I've said wh
 
 What I can tell you is what I do and don't do. I don't call on spirits, I don't promise anything, and I never present a reading as a verdict. I read the situation of the person in front of me, and they decide: [the cards aren't an authority](/disclaimers/#readings). If your church's teaching is aimed at claims to know the future, it's for you and those who guide you to say whether my practice falls under it.
 
-If you're the one holding the deck, the same respect applies the other way. I always ask before reading anyone, and a hesitation counts as a no. A Christian friend who says "I'd rather not" doesn't need a speech about symbolism or psychology; they need you to put the cards away and pour the tea.
+If you're the one holding the deck, the same respect applies the other way. I always ask before reading anyone, and I’d take a hesitation as a no. A Christian friend who says "I'd rather not" doesn't need a speech about symbolism or psychology; they need you to put the cards away and pour the tea.
 
 **A faith that says no deserves exactly the same respect as a curiosity that says yes.** If your church asks you to abstain and you hold to that, it's reason enough, and you have nothing to prove to anyone. If the pictures interest you and you don't want to draw, they can be looked at the way you'd look at a stained-glass window; [the Hierophant](/library/tarot-cards/the-hierophant/) is a good place to start.
 

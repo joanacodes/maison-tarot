@@ -39,20 +39,22 @@ Put together, 11:11 reads as a choice between two things, waiting to be weighed 
 
 One detail, if you come from the Tarot de Marseille: there, 11 is Strength and Justice is 8. The Rider-Waite-Smith swapped them — [the differences between the two decks](/blog/marseille-vs-rider-waite/) have their own article.
 
-## Why you see 11:11 everywhere {#why-everywhere}
+## Why 11:11 and not 10:47 {#why-everywhere}
 
-On a phone set to a 12-hour clock, 11:11 comes round twice a day. Four identical strokes stand out on a screen more than 10:47 does. And once it has meant something to you, you notice it more: you also see 11:12 and 10:58 every day, and they don’t stay with you.
+11:11 has two head starts over every other minute. It looks like nothing else on a screen: four identical upright strokes, the plainest shape a clock can show. And many people were taught to watch for it, through the wish, long before they heard the words “angel number”. A minute you’ve been told to look out for is a minute you catch.
 
-That doesn’t make the moment empty. What you were thinking about when you saw it is the interesting part — and you were the one thinking it.
+After that, it works like every repeating number: once it means something to you, the near misses stop registering. 11:12 is on your screen just as often, and it never stays with you. What does stay is what you were in the middle of when you looked up. That part is yours, and it’s the part worth reading.
 
-## What to do when you see 11:11 {#what-to-do}
+## What to do with the 11:11 wish {#what-to-do}
 
-A coincidence can be a good moment to ask yourself a question. Here’s a light way to use it:
+The wish is the oldest thing people do with 11:11, so use it, and give it a shape you can act on:
 
 1. Stop for the length of one breath.
-2. Ask the 2’s question: what two things am I weighing right now? Or the 1’s: what am I starting?
-3. If you make a wish, make it a sentence you could act on this week.
-4. Write it down with the date, and look back in a month.
+2. Turn the wish into the 2’s question: between which two things am I choosing? Or the 1’s: what am I starting?
+3. Write the wish as a sentence that starts with “I will” and ends this week.
+4. When 11:11 comes round again, check that sentence instead of making a new wish.
+
+Say the wish was “I want things to work out with my sister”. The 2 asks what the two of you have agreed to, out loud or not. The sentence might become “I’ll call her on Sunday and ask how she sees it.” That wish can come true, because you’re the one keeping it.
 
 And if 11:11 starts to feel like a verdict — a green light you need before you can move — set it aside. The clock doesn’t know your situation; you do. [Tarot is not an authority](/blog/tarot-is-not-an-authority/), and neither is a clock.
 

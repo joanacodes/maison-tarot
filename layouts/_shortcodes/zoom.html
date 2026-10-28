@@ -1,0 +1,31 @@
+{{- /* {{< zoom "dog" >}} — gros plans d’un symbole, découpés dans les scans de 1909 (cadres : data/zoom/dog.yml ;
+     images : python3 tools/zoom.py dog). En couleur, entiers, chacun mène à la page de sa carte.
+     {{< zoom "dog" "lead" >}} : le premier seul, en grand, pour montrer le symbole dès le haut de la page.
+     {{< zoom "dog" "rest" >}} : les suivants, pour ne pas montrer deux fois la même image sur une page qui a déjà le premier.
+     Un cadre sans image fait échouer la compilation : un gros plan manquant ne doit pas partir en ligne en silence. */ -}}
+{{- $fr := eq .Page.Language.Lang "fr" -}}
+{{- $sym := .Get 0 -}}
+{{- $part := .Get 1 | default "all" -}}
+{{- $list := index hugo.Data.zoom $sym -}}
+{{- if not $list }}{{ errorf "zoom: data/zoom/%s.yml is missing or empty (in %s)" $sym .Page.File.Path }}{{ end -}}
+{{- $section := cond $fr "/bibliotheque/cartes-tarot" "/library/tarot-cards" -}}
+{{- $items := slice -}}
+{{- range $i, $e := $list }}{{ if or (eq $part "all") (and (eq $part "lead") (eq $i 0)) (and (eq $part "rest") (gt $i 0)) }}{{ $items = $items | append (dict "i" (add $i 1) "e" $e) }}{{ end }}{{ end -}}
+{{- with $items }}
+<div class="zoom-row{{ if eq $part "lead" }} lead{{ end }}">
+{{- range . }}{{ $e := .e }}
+  {{- $img := resources.Get (printf "zoom/%s/%d-%s.jpg" $sym .i $e.card) }}
+  {{- if not $img }}{{ errorf "zoom: assets/zoom/%s/%d-%s.jpg is missing — run python3 tools/zoom.py %s" $sym .i $e.card $sym }}{{ end }}
+  {{- $c := false }}{{ range first 1 (where hugo.Data.cards "id" $e.card) }}{{ $c = . }}{{ end }}
+  {{- if not $c }}{{ errorf "zoom: unknown card %q in data/zoom/%s.yml" $e.card $sym }}{{ end }}
+  {{- $name := cond $fr $c.name_fr $c.name_en }}
+  {{- $caption := cond $fr $e.fr $e.en }}
+  {{- $page := site.GetPage (printf "%s/%s" $section (cond $fr $c.slug_fr $c.slug_en)) }}
+  {{- $small := $img.Resize "480x webp q84" }}{{ $big := $img.Resize (printf "%dx webp q84" (cond (lt $img.Width 900) $img.Width 900)) }}
+  <figure class="zoom">
+    <a href="{{ with $page }}{{ .RelPermalink }}{{ end }}"><img src="{{ $big.RelPermalink }}" srcset="{{ $small.RelPermalink }} 480w, {{ $big.RelPermalink }} {{ $big.Width }}w" sizes="{{ if eq $part "lead" }}(min-width: 800px) 28rem, 100vw{{ else }}(min-width: 800px) 18rem, 50vw{{ end }}" width="{{ $big.Width }}" height="{{ $big.Height }}" alt="{{ $caption }} — {{ if $fr }}détail de {{ else }}detail of {{ end }}{{ $name }}, Rider-Waite-Smith 1909" loading="lazy" decoding="async"></a>
+    <figcaption>{{ $caption }} · <a href="{{ with $page }}{{ .RelPermalink }}{{ end }}">{{ $name }}</a></figcaption>
+  </figure>
+{{- end }}
+</div>
+{{- end -}}

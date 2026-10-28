@@ -17,7 +17,7 @@ If you'd like to know what a retrograde is before you look at the calendar, it's
 
 ## Mercury retrograde 2026: the three periods {#dates-2026}
 
-A Mercury retrograde is the stretch of weeks during which Mercury, seen from Earth, appears to move backwards through the zodiac. Each one has a start (the day it "stations" retrograde), an end (the day it stations direct) and a sign it travels through.
+Each retrograde has a start (the day it “stations” retrograde), an end (the day it stations direct) and a sign it travels through.
 
 | Starts | Ends | Sign |
 |---|---|---|
@@ -25,7 +25,7 @@ A Mercury retrograde is the stretch of weeks during which Mercury, seen from Ear
 | 29 June 2026 | 23 July 2026 | Cancer |
 | 24 October 2026 | 13 November 2026 | Scorpio |
 
-The autumn one is happening as I publish this. Mercury turned around on the morning of 24 October at about 21° Scorpio, and it turns direct on 13 November at 5° Scorpio, without leaving the sign. Astrologers also count a "shadow" on either side: the weeks Mercury spends crossing the same stretch of sky before and after. For this one, roughly 4 October to 30 November.
+The autumn one is happening as I publish this. Mercury turned around on the morning of 24 October at about 21° Scorpio, and it turns direct on 13 November at 5° Scorpio, without leaving the sign. Astrologers also count a “shadow” on either side: the weeks Mercury spends crossing the same stretch of sky before and after. For this one, roughly 4 October to 30 November.
 
 **Dates here are in UK time, and a station can fall on a different calendar day where you live.** The July retrograde ended late in the evening of 23 July in London, when it was already 24 July in Paris; on the American west coast, the February one started on the 25th. A day either way is a time zone, not a contradiction.
 
@@ -37,27 +37,21 @@ The autumn one is happening as I publish this. Mercury turned around on the morn
 | 10 June 2027 | 4 July 2027 | Cancer, back into Gemini on 26 June |
 | 7 October 2027 | 28 October 2027 | Scorpio, back into Libra on 16 October |
 
-In 2027, each retrograde starts in one sign and backs into the previous one before turning direct. Astrologers read that as a subject being reopened: the October one, for example, starts on Scorpio ground and finishes on Libra's.
+In 2027, each retrograde starts in one sign and backs into the previous one before turning direct. Astrologers read that as a subject being reopened on different ground.
 
 These dates agree across the ephemerides and almanacs I checked, including [Cafe Astrology](https://cafeastrology.com/events/mercury-turns-direct-in-scorpio-2026/) and the [Farmers' Almanac](https://www.farmersalmanac.com/mercury-retrograde). If a site gives you dates several weeks wider, it's counting the shadow as part of the retrograde; if they're a day off, it's the time zone.
 
 ## What to expect, honestly {#what-to-expect}
 
-The usual list says: misunderstandings, delayed post, crashing phones, exes texting, contracts gone wrong. In astrology Mercury rules communication, travel and trade, so when it appears to walk backwards, everything with a "re-" in it is said to come up: review, revise, return, reply.
+Expect three things around each of these dates. A wave of warnings first: posts and videos about lost emails and returning exes, starting a few days before the station. Then the usual advice, which is sound in any month: read a contract twice before you sign it, back up your phone, check the train times. And then three weeks much like any others. Why I don't blame the planet for what goes wrong in them is in the explainer linked above, so I won't repeat it here.
 
-What I'd expect: about the same number of lost emails as in any three weeks — with the difference that you'll notice them, because you've been told to watch. That isn't a criticism; it's how attention works. Look for a broken phone and every frozen screen becomes evidence.
+If you follow the signs, these six have a pattern. All three retrogrades of 2026 sit in Water signs. Each one in 2027 starts in a Water sign and backs into an Air sign. With the verbs from my notes, 2026 asks you to go back over what you believe (Pisces), what you feel (Cancer) and what you desire (Scorpio); 2027 carries each of those into the head, towards what you know (Aquarius), what you think (Gemini) and how you weigh things up (Libra). That's a way of reading the calendar, not a forecast.
 
-In my own chart test, Mercury was one of the placements that held about a third of the time: useful as a lens, nowhere near strong enough to schedule a life around ([how I tested, box by box](/blog/i-tested-my-birth-chart/)). So I don't move a signature, a trip or a difficult conversation because of these dates. If you have to sign something during a retrograde, read it twice. That's good advice in any month; the retrograde is only a reminder.
-
-One thing I'd ask: don't let it become an alibi. "Sorry, Mercury" isn't an apology, and [astrology is not an excuse](/disclaimers/#astrology) for the message you sent too fast.
+**A retrograde is a reason to reread, never an alibi.** A message sent too fast in these weeks is still yours to apologise for, and [astrology is not an excuse](/disclaimers/#astrology).
 
 ## Using the three weeks with your cards {#with-your-cards}
 
-If you like the "re-" theme, put it to work. Mercury's card is [the Magician](/library/tarot-cards/the-magician/): the four tools laid out on the table, the wand raised to receive and send — the messenger. His minus side is that he can pretend, if you trust him blindly. Read through [Mercury's lens](/library/astrology/mercury/), he's less about cleverness than about using what's already in front of him.
-
-{{< cards "ar01" >}}
-
-That's a good brief for a retrograde. Instead of asking the cards new questions, go back to what you already have:
+If you like the “re-” theme, put it to work on readings you've already done rather than on new ones. (For a three-card spread built on the same theme, see the explainer.) Instead of asking the cards new questions, go back to what you already have:
 
 1. Open your reading notebook at the last three months.
 2. Reread each reading you did, for yourself or for someone else, without drawing anything new.
@@ -68,6 +62,6 @@ These are good weeks for it, because nothing new is asked of you. If you don't k
 
 ## The next step {#next-step}
 
-Venus is retrograde at the same time this autumn, from 3 October, and the two planets turn direct within hours of each other in mid-November. The dates, and what they're said to mean for a relationship, are in [Venus retrograde 2026](/blog/venus-retrograde-2026/).
+Venus is retrograde at the same time this autumn, from 3 October, and the two planets turn direct within a day of each other in mid-November. The dates, and what they're said to mean for a relationship, are in [Venus retrograde 2026](/blog/venus-retrograde-2026/).
 
-Then keep this calendar somewhere you'll see it. On each start date, write down what you expect; on each end date, look again. Don't take my words as ultimate truth. Test it and experience it for yourself.
+Then keep this calendar somewhere you'll see it. Retrograde periods were never part of [my chart test](/blog/i-tested-my-birth-chart/), which looked at birth charts, so I have no number to give you; here's how to get your own. On each start date, write one line: what do I expect to go wrong? On each end date, read it again and give it a tick or a cross. Don't take my words as ultimate truth. Test it and experience it for yourself.

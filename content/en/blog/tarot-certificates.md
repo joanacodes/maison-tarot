@@ -1,6 +1,6 @@
 ---
 title: "Tarot certificates and lineages: what they can and can't prove"
-description: "What a tarot certificate or a teaching lineage can prove — a course followed, hours practised — and what it can’t: accuracy and ethics. Five questions to ask instead."
+description: "What a tarot certificate or a teaching lineage can prove — a course followed, hours practised — and what it can’t: accuracy, ethics. Five questions to ask a teacher."
 translationKey: "post-tarot-certificates"
 type: blog
 date: 2026-10-24
@@ -47,7 +47,7 @@ That’s what a lineage carries: a language, a set of correspondences, a method,
 
 Sometimes a lineage is offered as a guarantee: my teacher was taught by someone who was taught by a famous name. It can be a true and lovely story. It still answers a different question from yours, which is whether this reader will be careful with you.
 
-## Five questions to ask a teacher instead {#questions}
+## Five questions to ask a teacher, certificate or not {#questions}
 
 1. How do you check your readings? Do you count your misses, and what’s your rate?
 2. What don’t you read on, and why?
@@ -57,8 +57,8 @@ Sometimes a lineage is offered as a guarantee: my teacher was taught by someone 
 
 The first question matters most. A miss is a miss, and a teacher who can say so calmly, with numbers, is showing you something no certificate can.
 
-{{< todo >}}Add here: your position on certificates at Maison Tarot — your 2024 course FAQ offered one, and your brand book says no certification. Which is current?{{< /todo >}}
+None of these questions rules a certificate in or out. A course that issues one can answer all five well; a course that issues none can answer them badly. The certificate tells you about the course; the answers tell you about the teacher.
 
 ## Where to start {#start}
 
-Before paying for any course, watch the teacher read. The [free events](/events/) at Maison Tarot are open for exactly that: readings for people drawn at random, who tell me nothing first, so you can judge the work rather than the paperwork. If you’re on the other side of the table and building your own practice, [how to do it without becoming a guru](/blog/tarot-practice-without-guru/) is the companion to this page.
+Before paying for any course, wherever it is, watch the teacher read. The [free events](/events/) at Maison Tarot are one place to do that: readings for people drawn at random, who tell me nothing first, so you can see a method at work and judge it for yourself. If you’re on the other side of the table and building your own practice, [how to do it without becoming a guru](/blog/tarot-practice-without-guru/) is the companion to this page.

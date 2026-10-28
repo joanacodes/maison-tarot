@@ -1,6 +1,6 @@
 ---
 title: "Mercury retrograde: what it is, and what it isn't responsible for"
-description: "Mercury retrograde, plainly: why the planet seems to move backwards, what astrology says it rules, and what it isn’t to blame for, from a reader who tested it."
+description: "Mercury retrograde, plainly: why the planet seems to move backwards, what astrology says it rules, what it isn’t to blame for, and what my chart test can’t say."
 translationKey: "post-mercury-retrograde"
 type: blog
 date: 2026-10-24
@@ -29,8 +29,6 @@ In astrology, Mercury is how you think and how you speak: the speed of the mind,
 
 So when Mercury appears to walk backwards, astrologers read three weeks of words starting with “re-”: review, revise, reread, reply, return. The usual advice follows from that. Read a contract twice before signing. Back up your phone. Check the train times. Expect old subjects, and sometimes old contacts, to come back up.
 
-Astrologers also count a “shadow” on either side: the weeks Mercury spends crossing the same stretch of sky just before it turns and just after it turns back. That's why some sites give dates a couple of weeks wider on each side. Neither is wrong; they're measuring different things.
-
 There's something in that advice I like. It gives three weeks a theme, and the theme is going back over things before rushing forward. If people use a retrograde to slow down and reread, it does them good, whatever the planet is doing.
 
 ## What it isn't responsible for {#not-responsible}
@@ -39,13 +37,13 @@ The list of things blamed on Mercury retrograde is long: the late train, the fro
 
 What changes during a retrograde is that you've been told to watch for them. So you notice them, and each one becomes evidence. That's not a criticism of anyone; it's how attention works.
 
-In my own chart test, Mercury held about a third of the time — useful as a lens on how someone thinks and talks, nowhere near strong enough to plan a life around. ([How I tested my chart, box by box.](/blog/i-tested-my-birth-chart/)) So I don't move a signature, a trip or a difficult conversation because of these dates. I also haven't measured train delays against retrograde calendars, so I won't claim more than that.
+In my own chart test, Mercury held about a third of the time — useful as a lens on how someone thinks and talks, nowhere near strong enough to plan a life around ([how I tested my chart, box by box](/blog/i-tested-my-birth-chart/)). That was Mercury in birth charts. Retrograde periods were never part of the test: I have no count for them, and I haven't measured train delays against retrograde calendars, so I won't claim more than that. What I can say is that I don't move a signature, a trip or a difficult conversation because of these dates.
 
 And it can't carry the blame for what we say. A retrograde can be a good reason to reread; it can't be the reason for the message you sent in anger. Blaming the planet leaves the other person with no apology at all, and [astrology is not an excuse](/blog/astrology-is-not-an-excuse/).
 
 ## Using a retrograde with your cards {#with-your-cards}
 
-Mercury's card is [the Magician](/library/tarot-cards/the-magician/), and through its two signs it also carries the Lovers (Gemini) and the Hermit (Virgo). Three ways of thinking: the one who lays every tool on the table, the one who has to choose, and the one who checks by lantern-light.
+Mercury's card is [the Magician](/library/tarot-cards/the-magician/), and through its two signs it also carries the Lovers (Gemini) and the Hermit (Virgo). Three ways of thinking: the one who lays every tool on the table, the one who has to choose, and the one who checks by lantern-light. In my notes the Magician is the messenger, his wand raised to receive and send; his minus side is that he can pretend, if you trust him blindly. That's worth keeping in mind for three weeks given over to words.
 
 {{< cards "ar01 ar06 ar09" >}}
 
@@ -59,6 +57,6 @@ Read each card through its number, element and colours before you look anything 
 
 ## When is the next one? {#next}
 
-There's one on as I write this, in Scorpio. Every period for 2026 and 2027, with its sign, is in [Mercury retrograde 2026 and 2027: the dates](/blog/mercury-retrograde-dates/). This autumn Venus is retrograde at the same time, and [Venus retrograde 2026](/blog/venus-retrograde-2026/) covers what that's said to mean for a relationship.
+There's one on as I write this, in Scorpio. Every period for 2026 and 2027, with its sign and its “shadow” weeks (the reason some sites give wider dates than others), is in [Mercury retrograde 2026 and 2027: the dates](/blog/mercury-retrograde-dates/), along with a way to count what actually goes wrong during one.
 
-If you love following the retrogrades, keep following them. I'd only ask that you count. Before the next one starts, write one line in your notebook: what do I expect to go wrong? Three weeks later, read the line again and give it a tick or a cross.
+If you love following the retrogrades, keep following them. I'd only ask that you count before you believe.

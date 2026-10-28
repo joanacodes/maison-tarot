@@ -31,7 +31,7 @@ The second is a wish to rest. Some readers treat eclipse weeks as a pause: no ne
 
 The third is about the reader. Some people feel more tired or more emotional around eclipses and would rather not read in that state.
 
-The third is the one I'd keep. Not because of the sky, but because the state you read in changes a reading far more than the date does.
+The third is the one I'd keep. Not because of the sky, but because the state you read in changes a reading far more than the date does. I know that tiredness from the readings themselves: interpreting takes energy, and I sometimes stop after two hours of readings, out of caution.
 
 And if waiting feels right to you, wait. Nothing is lost by leaving the deck in its box for a fortnight; a question you postpone is still there when you come back to it.
 

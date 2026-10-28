@@ -40,7 +40,7 @@ To a curious friend: "Honestly? I don't know how it works. It holds often enough
 
 To a sharp sceptic: "Fair question. I'm not asking you to believe anything. Don't tell me anything about yourself, let me read, and judge it afterwards. If it misses, I'll say so."
 
-To someone worried for a friend: "That's a kind thing to worry about. I don't read on health, money or court cases, and I tell everyone not to act on a card. If your friend is drawing cards all day, that's rarely about tarot, and a break would do them good."
+To someone worried for a friend: "That's a kind thing to worry about. I don't read on health, court cases or money decisions, and I tell everyone not to act on a card. If your friend is drawing cards all day, that's rarely about tarot, and a break would do them good."
 
 To someone who believes far more than you do: "It's real enough that I take it seriously, and not real enough to decide for you. You still get the last word."
 

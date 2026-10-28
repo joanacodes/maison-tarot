@@ -41,7 +41,7 @@ Part of it I can explain. Some of what feels like a hit is general enough to fit
 
 Part of it I can’t. After reading for a friend, I once felt someone with me at home: her grandfather, a strict Japanese man with a lot of love in him. He seemed to speak Japanese, so I drew instead — the number five, again and again, and “under the house”. My friend went down to storage cell number five in her building’s basement, not hers and already open, and found it full of paint pots. That was the whole message. The rest is among [the strangest things that happened during my readings](/blog/weird-tarot-reading-stories/).
 
-Not everything is about spirits, and I don’t know what that was. I know it happened, and I can’t explain it. That’s exactly where I file it.
+I don’t know what that was. I know it happened, and I can’t explain it. That’s exactly where I file it.
 
 If you want the idea in two cards, take the Magician and the High Priestess. In my notes, [the Magician](/library/tarot-cards/the-magician/) has all four elements on his table and knows how to do everything — and his minus is that he can pretend, if you trust him blindly. Both meanings of “magician” in one card. The High Priestess knows a great deal and shows you only a façade, like the hidden face of the moon: what exists and isn’t visible yet.
 

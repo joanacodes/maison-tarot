@@ -24,7 +24,7 @@ If you can’t decide, start with tarot and borrow one piece of astrology from d
 | | Tarot | Astrology |
 | --- | --- | --- |
 | What you need to start | A deck — I use the 1909 Rider-Waite-Smith | A date, a place and, ideally, a time of birth |
-| What you learn | 78 cards, read through a few lenses | 12 signs, 10 bodies plus points like Lilith and Chiron, 12 houses, the angles between them |
+| What you learn | 78 cards, read through a few lenses | 12 signs, the Sun, the Moon and eight planets, plus Chiron and points like Lilith, 12 houses, the angles between them |
 | What it describes | What’s around you or someone now | Tendencies fixed at birth |
 | How you check it | The person confirms or not, often on the spot | Tick or cross, placement by placement, over weeks |
 | How it gets misused | Asking the same question again and again | Using a sign as an excuse |

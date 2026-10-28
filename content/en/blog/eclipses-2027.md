@@ -15,7 +15,7 @@ There are five eclipses in 2027: two solar, three lunar. The one people will rem
 
 ## The five eclipses of 2027 {#dates}
 
-A solar eclipse is when the Moon passes between the Earth and the Sun and hides part or all of it; it can only happen at a new moon. A lunar eclipse is when the Earth's shadow falls on the Moon; it can only happen at a full moon. A penumbral lunar eclipse is the faintest kind: the Moon only crosses the pale outer edge of the shadow, and most people notice nothing.
+Solar eclipses fall on a new moon, lunar eclipses on a full moon. What each one is, what “eclipse season” means and whether it's fine to read during one are in [eclipse season tarot](/blog/eclipse-season-tarot/); this page keeps to the dates. The table needs one more term: a penumbral lunar eclipse is the faintest kind. The Moon only crosses the pale outer edge of the Earth's shadow, and most people notice nothing.
 
 | Date | Eclipse | Sign | Greatest eclipse (UK time) | Where to see it |
 |---|---|---|---|---|
@@ -39,23 +39,15 @@ From the UK it's a partial eclipse, in the morning. In London it starts at about
 
 ## What astrologers read in the 2027 eclipses {#signs}
 
-In astrology, a solar eclipse is read as a new moon with the volume turned up: a beginning, often one you didn't plan. A lunar eclipse is read as a full moon turned up: something comes to a head or closes. Eclipses come in seasons, two or three within a few weeks, and in 2027 the seasons fall in February and in late July–August.
-
-The axis astrologers will talk about is [Leo](/library/astrology/leo/) and [Aquarius](/library/astrology/aquarius/): both solar eclipses and the August lunar one sit on it. Leo's verb is “I will”: self-expression, pride, the heart that wants to be seen. Aquarius's is “I know”: the group, ideas, what's coming next. Read together, the theme is the pull between me and us. If you like to give each sign a card, the Golden Dawn tradition puts Strength on Leo and the Star on Aquarius.
+In 2027 the eclipse seasons fall in February and in late July–August, and the axis astrologers will talk about is [Leo](/library/astrology/leo/) and [Aquarius](/library/astrology/aquarius/): both solar eclipses and the August lunar one sit on it, because that's where the Moon's Nodes are that year. Leo's verb is “I will”: self-expression, pride, the heart that wants to be seen. Aquarius's is “I know”: the group, ideas, what's coming next. Read together, the theme is the pull between me and us. If you like to give each sign a card, the Golden Dawn tradition puts Strength on Leo and the Star on Aquarius.
 
 {{< cards "ar08 ar17" >}}
 
 That's what the tradition says. What I can add is my own count: when [I tested my birth chart box by box](/blog/i-tested-my-birth-chart/), placements held about 30–40% of the time overall. So I treat eclipses as a theme to think with, never as a schedule — and [astrology is not an excuse](/disclaimers/#astrology) for a decision you were going to make anyway.
 
-## Why I read less in eclipse season, not more {#read-less}
-
-Eclipse weeks are when the questions multiply. The videos say something big is coming, so people pull a card in the morning, three at lunch, a full spread at night — and every new card is another chance to worry.
-
-I'd rather do the opposite: one reading per season, written down, then the cards go back in the drawer until the next one. Take a break from your cards now and then. Whether it's fine to read during an eclipse at all is its own question, and I answer it in [eclipse season tarot](/blog/eclipse-season-tarot/).
-
 ## A gentle tarot spread for the 2027 eclipses {#spread}
 
-Three cards, once in February and once in August. Not on every eclipse, and not every day of the season.
+Three cards, once in February and once in August. Not on every eclipse, and not every day of the season: eclipse weeks are when the questions multiply, and each extra card is one more chance to worry. Take a break from your cards now and then.
 
 1. *What is ready to end on its own?* The lunar card: something that has already done its time.
 2. *What is starting quietly?* The solar card: a beginning you might not have noticed yet.
