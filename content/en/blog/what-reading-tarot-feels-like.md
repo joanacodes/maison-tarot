@@ -47,9 +47,9 @@ None of this is proven. It’s my experience, and the hypothesis I make from it.
 
 ## The moment you surprise yourself {#surprise}
 
-There’s a third feeling, and it’s the one I teach for. When I made friends and family try reading, there was always a moment when one of them said something true about the person in front of them, and was shocked by what they’d said.
+There’s a third feeling, and it’s the one I teach for. I made friends and family try reading, and the moment that counts is the one where someone says something true about the person in front of them, and is shocked by what they’ve just said.
 
-You hear a sentence come out of your mouth that you didn’t know you knew. Then the other person’s face changes. That moment is the reason I teach, and I wrote about it in [what I learned making my friends try](/blog/how-to-teach-tarot/).
+From the inside, it feels like hearing a sentence come out of your mouth that you didn’t know you knew. That moment is the reason I teach, and I wrote about it in [what I learned making my friends try](/blog/how-to-teach-tarot/).
 
 If none of this has happened to you yet, that’s where almost everyone starts. I wrote a whole page on [what to do if you don’t feel anything](/blog/dont-feel-anything-reading-tarot/), and the short version is: say what you see, and let the rest catch up.
 
