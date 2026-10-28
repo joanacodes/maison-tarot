@@ -1,17 +1,17 @@
 # Gros plans de l’oiseau (tools/zoom.py) — cadre en fractions de la carte : gauche, haut, droite, bas
 - card: cuac
-  box: [0.27, 0.012, 0.73, 0.25]
-  en: "x"
-  fr: "x"
+  box: [0.27, 0.026, 0.73, 0.25]
+  en: "The white dove diving towards the cup, a wafer in its beak"
+  fr: "La colombe blanche qui plonge vers la coupe, une hostie au bec"
 - card: pe09
   box: [0.58, 0.155, 0.86, 0.36]
-  en: "x"
-  fr: "x"
+  en: "The hooded hunting bird perched on the woman’s gloved hand"
+  fr: "L’oiseau de chasse au chaperon rouge, posé sur la main gantée"
 - card: ar10
-  box: [0.57, 0.012, 0.98, 0.25]
-  en: "x"
-  fr: "x"
+  box: [0.51, 0.022, 0.951, 0.25]
+  en: "The winged eagle in the top right corner, on its book"
+  fr: "L’aigle aux ailes ouvertes, en haut à droite, sur son livre"
 - card: ar17
-  box: [0.73, 0.25, 0.96, 0.40]
-  en: "x"
-  fr: "x"
+  box: [0.75, 0.255, 0.945, 0.375]
+  en: "The small red bird with a curved beak, perched on the tree"
+  fr: "Le petit oiseau rouge au long bec courbe, perché sur l’arbre"
