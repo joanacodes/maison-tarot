@@ -17,11 +17,11 @@ Reading for someone else starts before the cards come out, with a yes. Ask permi
 
 Before you read anyone, ask: “Would you like me to read for you?” Then take “no” or “not today” as a complete answer.
 
-It sounds obvious, and it’s skipped all the time, especially with people we know well. Reading someone without their consent is a bit like going through their bedroom while they’re out. You wouldn’t want it done to you, whatever the intention.
+It sounds obvious, and it’s the step people skip with the people they know best. The cards come out after dinner, someone says “do me next”, and nobody checks whether the quiet friend at the end of the table wants it at all. A yes given to keep the evening going, or to please you, isn’t much of a yes. If someone hesitates, offer another day, and mean it.
 
-There’s a practical side too. Someone who doesn’t know they’re being read isn’t open to it, so you catch half a sentence of them and build a whole statement on it. That’s my experience and the hypothesis I draw from it; nothing about it has been proven. It’s enough for me to always ask.
+A yes also has edges. Tell the person, before the first card, that they can stop you at any point and that a card can stay unread. Someone who knows they can say “stop” sits more easily, and a person who isn’t bracing for bad news is easier to read; I come back to that below.
 
-Consent also covers who the reading is about. **Read for the person in front of you, about their own life.** Their partner, their boss and their mother haven’t said yes; I explain how I handle those questions in [reading tarot about someone else](/blog/reading-tarot-about-someone-else/).
+Consent also covers who the reading is about. **Read for the person in front of you, about their own life.** If halfway through they ask what their partner really thinks, that’s a different question: the partner isn’t at the table and hasn’t said yes. I explain how I handle it in [reading tarot about someone else](/blog/reading-tarot-about-someone-else/).
 
 ## Ask them to tell you nothing {#tell-me-nothing}
 
