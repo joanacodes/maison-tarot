@@ -40,7 +40,7 @@ Adaptez-les à votre voix. Aucune n’est une réplique pour l’emporter.
 
 À un sceptique affûté, zététicien ou pas : « Bonne question. Je ne vous demande de croire à rien. Ne me dites rien sur vous, laissez-moi lire, et jugez après. Si c’est raté, je vous le dirai. »
 
-À quelqu’un d’inquiet pour un proche : « C’est gentil de vous en soucier. Je ne lis ni sur la santé, ni sur l’argent, ni sur les procès, et je dis à tout le monde de ne pas agir d’après une carte. Si votre amie tire les cartes toute la journée, ce n’est souvent pas une affaire de tarot, et une pause lui ferait du bien. »
+À quelqu’un d’inquiet pour un proche : « C’est gentil de vous en soucier. Je ne lis ni sur la santé, ni sur les procès, ni sur les décisions d’argent, et je dis à tout le monde de ne pas agir d’après une carte. Si votre amie tire les cartes toute la journée, ce n’est souvent pas une affaire de tarot, et une pause lui ferait du bien. »
 
 À quelqu’un qui y croit bien plus que vous : « C’est assez vrai pour que je le prenne au sérieux, et pas assez pour décider à votre place. Le dernier mot reste le vôtre. »
 

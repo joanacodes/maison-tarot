@@ -43,13 +43,11 @@ Ces dates concordent dans les éphémérides et les almanachs que j’ai consult
 
 ## À quoi s’attendre, honnêtement {#a-quoi-s-attendre}
 
-La liste habituelle : malentendus, courrier en retard, téléphones qui plantent, ex qui réécrivent, contrats qui tournent mal. En astrologie, Mercure gouverne la communication, les déplacements et le commerce ; quand il semble reculer, tout ce qui commence par « re- » est censé remonter : revoir, relire, revenir, répondre.
+Attendez-vous à trois choses autour de chacune de ces dates. D’abord une vague d’avertissements : des publications et des vidéos sur les mails perdus et les ex qui reviennent, quelques jours avant la station. Ensuite les conseils habituels, valables n’importe quel mois : relire un contrat deux fois avant de le signer, sauvegarder son téléphone, vérifier l’horaire du train. Et puis trois semaines qui ressemblent beaucoup aux autres. Pourquoi je n’accuse pas la planète de ce qui tourne mal pendant ces semaines-là, je l’explique dans l’article cité plus haut ; je ne le répète pas ici.
 
-Ce que j’attends, moi : à peu près autant de mails perdus que pendant trois semaines ordinaires — à ceci près que vous les remarquerez, parce qu’on vous a dit de guetter. Ce n’est pas un reproche, c’est comme ça que fonctionne l’attention. Cherchez un téléphone en panne, et chaque écran figé devient une preuve.
+Si vous suivez les signes, ces six périodes dessinent un motif. Les trois rétrogradations de 2026 sont toutes en signes d’Eau. Chacune de celles de 2027 commence dans un signe d’Eau et recule dans un signe d’Air. Avec les verbes de mes notes, 2026 vous invite à revenir sur ce que vous croyez (Poissons), ce que vous sentez (Cancer) et ce que vous désirez (Scorpion) ; 2027 fait monter chacun des trois vers la tête, vers ce que vous savez (Verseau), ce que vous pensez (Gémeaux) et la façon dont vous pesez le pour et le contre (Balance). C’est une manière de lire le calendrier, pas une prédiction.
 
-Quand j’ai testé mon thème, Mercure faisait partie des positions qui tenaient environ une fois sur trois : utile comme clé de lecture, très loin de suffire pour organiser sa vie ([comment j’ai testé, case par case](/fr/blog/j-ai-teste-mon-theme-astral/)). Je ne déplace donc ni une signature, ni un voyage, ni une conversation difficile à cause de ces dates. Si vous devez signer pendant une rétrogradation, relisez deux fois, et tournez sept fois votre langue dans votre bouche avant le mail qui fâche. C’est un bon conseil n’importe quel mois ; la rétrogradation n’est qu’un pense-bête.
-
-Une seule chose : n’en faites pas un alibi. « Désolée, c’est Mercure » n’est pas une excuse, et [l’astrologie n’en est pas une](/fr/avertissements/#astrologie) pour le message parti trop vite.
+**Une rétrogradation est une raison de relire, jamais un alibi.** Le message parti trop vite pendant ces semaines reste le vôtre, et c’est à vous de vous en excuser : [l’astrologie n’est pas une excuse](/fr/avertissements/#astrologie).
 
 ## Utiliser ces trois semaines avec vos cartes {#avec-vos-cartes}
 

@@ -15,9 +15,9 @@ Yes, for some things, and I’m clear about which. I use AI as a dictionary: som
 
 ## Where AI helps a reader {#where-it-helps}
 
-As a reference, it’s patient and awake at any hour. Ask why the High Priestess sits between two pillars, or why the Empress rests beside a shield marked with the sign of Venus, and you’ll get a clear answer without anyone sighing at you.
+As a reference, it’s patient and awake at any hour. Ask why the Magician has a cup, a sword, a wand and a pentacle on his table, and you’ll get a clear answer without anyone sighing at you. Then hold the answer up against your own notes. In mine, he’s the card of the four elements plus the ether, relaying messages through the wand he raises.
 
-{{< cards "ar02 ar03" >}}
+{{< cards "ar01 ar02" >}}
 
 Three uses I think are fair:
 
