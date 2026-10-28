@@ -25,7 +25,7 @@ Ceux qui aiment les cristaux décrivent souvent une sensation de calme, l’impr
 
 ## Les cristaux rendent-ils un tirage plus juste ? {#justesse}
 
-Pas d’après ce que j’ai pu observer. En 2021, je [vendais de la sauge, des bougies et des cartes « channelisées »](/fr/blog/purifier-son-jeu-de-tarot/), le genre de choses qu’on achète pour accompagner un jeu, et j’ai arrêté parce que rien dans tout ça n’améliorait une lecture. Je vois les cristaux de la même façon : c’est agréable à avoir, mais ce n’est pas ce qui rend une lecture juste.
+Pas d’après ce que j’ai pu observer. En 2021, je [vendais de la sauge, des bougies et des cartes « canalisées »](/fr/blog/purifier-son-jeu-de-tarot/), le genre de choses qu’on achète pour accompagner un jeu, et j’ai arrêté parce que rien dans tout ça n’améliorait une lecture. Je vois les cristaux de la même façon : c’est agréable à avoir, mais ce n’est pas ce qui rend une lecture juste.
 
 Ce que j’ai vu changer une lecture se trouve déjà sur la table. La personne m’a-t-elle dit quelque chose avant que je commence ? Est-ce que je lisais depuis deux heures, fatiguée ? Est-ce que j’essayais d’avoir raison au lieu de dire ce qui venait ? Aucun objet ne règle ces trois questions, et aucune n’en a besoin.
 
