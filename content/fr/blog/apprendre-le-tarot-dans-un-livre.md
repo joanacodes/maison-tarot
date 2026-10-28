@@ -27,7 +27,7 @@ Bref, il vous apporte du savoir. Lire, c’est autre chose.
 
 Quand j’ai fait essayer la lecture à mes amis et à ma famille, j’ai vu la même scène se répéter : ils disaient quelque chose de juste sur la personne en face, puis restaient saisis par ce qu’ils venaient de dire. C’est pour ce moment-là que j’enseigne. Aucune page ne peut le produire, parce que ce n’est pas une information. On ne peut pas vous raconter ce que ça fait ; on peut seulement essayer. C’est en forgeant qu’on devient forgeron, et le tarot ne fait pas exception.
 
-Mes propres débuts ont suivi le même chemin. Mes amis m’ont offert mon premier jeu à Noël 2020 — il était sur ma liste ; je m’attendais à un livre d’astrologie. J’ai commencé à lire le 26 décembre, et ma première lecture était juste. Je pensais qu’il me faudrait une formation avant.
+Mes propres débuts ont suivi le même chemin. Mes amis m’ont offert mon premier jeu à Noël 2020, j’ai commencé à lire le 26 décembre, et ma première lecture était juste. Je pensais qu’il me faudrait une formation avant.
 
 La pratique apprend ce qu’un livre peut seulement nommer. Lâcher prise, qui est au fond la seule pratique qui existe. Par quel canal vos impressions arrivent — des images, des mots, des sons, une sensation dans le corps. Quand dire une chose avec douceur, ou autrement, parce que la personne n’est pas prête. Et surtout, **quand vous vous trompez — ce qu’aucun livre ne peut vous dire, parce que le livre n’est pas dans la pièce.**
 
@@ -55,13 +55,11 @@ Mettez le livre après la carte, pas avant.
 
 ## Les livres que je conseille vraiment {#mes-livres}
 
-Ma liste est courte, et elle est en anglais. Pour les nombres, je conseille le livre de tarot de Corrine Kenner : c’est celui vers lequel j’oriente les personnes qui veulent creuser [la clé de lecture des nombres](/fr/bibliotheque/numerologie/).
-
-{{< todo >}}À ajouter ici : le titre exact du livre de Corrine Kenner{{< /todo >}}
+Ma liste est courte, et elle est en anglais. Pour les nombres, je conseille un livre de tarot de Corrine Kenner : c’est celui vers lequel j’oriente les personnes qui veulent creuser [la clé de lecture des nombres](/fr/bibliotheque/numerologie/).
 
 Pour l’astrologie, *The Only Astrology Book You’ll Ever Need*, de Joanna Martine Woolfolk. Il couvre les signes et les planètes, et c’est celui que je tendrais à quelqu’un qui veut la clé astrologique sans s’y noyer. Pour calculer les thèmes, j’utilise Astro-Seek, qui est un site et pas un livre.
 
-Et puis il y a [le Guide du lecteur](/fr/guide/), gratuit, qui tient les cinq clés de lecture que j’enseigne en quelques pages. C’est ce que j’ai écrit de plus proche d’un livre, et il est pensé pour être lu une carte dans l’autre main.
+Et puis il y a [le Guide du lecteur](/fr/guide/), gratuit, qui tient en quelques pages mes principales clés de lecture (les couleurs, les nombres, les éléments et les énergies). C’est ce que j’ai écrit de plus proche d’un livre, et il est pensé pour être lu une carte dans l’autre main.
 
 C’est tout. Deux livres, un guide, et beaucoup de cartes posées sur beaucoup de tables.
 

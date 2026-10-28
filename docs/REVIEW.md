@@ -1,29 +1,64 @@
 # Review list
 
-Everything written on the branch `claude/write-all-articles` that needs your eyes, from the most important down.
+Everything on the branch `claude/write-all-articles` that needs you, most important first. Nothing here blocks publishing: every article is complete as it stands.
 
-**To see the notes left inside the pages**, run `hugo server -D` and open a page: each gold box is a question only you can answer. They never show on the live site, the same way missing pictures don’t.
-
-Page paths below are the site addresses (English · French).
+- **Decisions** (below): a short answer each, then I make the edits on every page concerned.
+- **Questions** ([`docs/QUESTIONNAIRE.md`](QUESTIONNAIRE.md), 125 questions): details only you know. Each answer adds a line of first-hand experience to an article — the thing Google rewards and nobody else can write.
+- **Pictures**: [`docs/IMAGES.md`](IMAGES.md).
 
 ## Decisions only you can make
 
-These affect several pages at once. Each one is a quick answer from you, then a few minutes of edits.
+Each of these affects several pages. One answer from you, then a few minutes of edits on my side.
 
-1. **Your sign ↔ card table.** Your sign pages and *I tested my birth chart* give Taurus → the Empress and Cancer → the High Priestess. The card pages and the Golden Dawn give Taurus → the Hierophant and Cancer → the Chariot. The Hierophant and Chariot pages explain both versions, and the new articles avoid those two cards. Choose: keep both and say on the sign pages that yours is a personal table, or align on one.
-2. **Jupiter.** Your published Jupiter page reads it as luck and says it held "a third" in your test. Your notes say Jupiter (its house and sign = your biggest struggles) and the Nodes were *not* part of your tested numbers, and the new big-three article follows the notes. Which is right?
-3. **Leo's verb in French.** The French Leo page says « Je vais » for "I will". The usual formula is « Je veux » (will as volonté). It's your published text, so I left it.
-4. **Your friends in French.** French has to choose a gender. Several French pages say « ma meilleure amie » (the friend who died of cancer) and « mon amie » (the friend in the voice story). Your notes don't say. Tell me "man" or "woman" for each and I'll make every page match.
-5. **The Fool page example.** It tells its example as a real reading ("She had resigned the week before…"). Every other card page uses a clearly hypothetical example. If it happened, keep it; if not, I'll rewrite it as hypothetical.
-6. **Certificates.** Your 2024 course FAQ offered a certificate; your brand book says no certification. The certificates article leaves a todo for your position.
-7. **Prices.** The sessions and workshops pages show no price yet, and the reading-price article has a todo for market price ranges. Nothing on the site gives a figure.
-8. **Author name.** `hugo.toml` has an empty author name and publisher name. Without a name, no author markup is sent to Google, which matters for "who wrote this" trust signals. Fill `params.author.name`, `authorShortDescription` (both languages) and `publisherName`.
-9. **French versions of two sayings.** "Don't take my words as ultimate truth. Test it and experience it for yourself." and "You can't be told what it's like. You can only try." were translated by the writers, in a few variants. Give me your French and I'll use it everywhere.
-10. **Golden Dawn card titles** ("Lord of Swiftness", "Lord of Abandoned Success"…) appear on some minor card pages and the Kabbalah pages. Keep them as background, or drop them from the card pages.
-11. **Court cards and the Tree of Life.** The Kabbalah pages follow the site's card data: Rider-Waite-Smith Kings = the Golden Dawn's mounted Kings (Chokhmah), Knights = the Princes (Tiferet). The other reading is mentioned as debated. Fine unless you read the courts the other way.
-12. **Helplines.** The Tower, Devil and Eight of Swords love pages tell anyone afraid of a partner to reach a support service, but give no number. If you want numbers, check and add France's 3919 and the UK's National Domestic Abuse Helpline.
-13. **Repeated lines.** "Don't go too high too fast… start crescendo" now appears in about six articles, and the Discord first-reading story in several. That's fine for readers who land on one page, but you may want to keep each in two or three places.
-14. **Events.** The Halloween and Samhain articles don't claim a Maison Tarot event. Add one to the events page if you plan it, and link it.
+1. **Your sign ↔ card table.** Your sign pages, the modes page and *I tested my birth chart* give Taurus → the Empress and Cancer → the High Priestess. The card pages, the Tree of Life and the Golden Dawn give Taurus → the Hierophant and Cancer → the Chariot. The new articles avoid the two disputed cards. Choose one:
+   - keep both, and say on the sign pages that yours is a personal table;
+   - or align everything on one of the two.
+2. **Jupiter.** Your published Jupiter page reads it as luck and says it held "a third" in your test. Your notes say Jupiter (its house and sign = your biggest struggles) and the Nodes were *not* part of your tested numbers. The new big-three article follows your notes. Which is right?
+3. **The sign verbs in French.** The French Library says « Je vais » for Leo's "I will" and « Je sens » for Cancer's "I feel"; one French article says « je veux » and « je ressens ». The usual formulas are « Je veux » (will as volonté, not the future tense) and « Je ressens ». Pick yours and every French page will match.
+4. **Your friends in French.** French has to choose a gender. Several French pages say « ma meilleure amie » for the friend who died of cancer and « mon amie » for the friend in the voice story; a few now say « quelqu'un de très proche ». Your notes don't say. Tell me "man" or "woman" for each and I'll make every page match.
+5. **Timing.** Several articles said "timing is where I miss most". Neither your notes nor your published pages say that. Your method page does say a reading is "poor at telling you exactly what happens next week", so the articles now say that ("timing is the weak spot"). If timing really is where your misses gather, say so and the first-person line goes back.
+6. **The 12 €.** Your published pages tie a 12 € figure to three different things:
+   - "a phone number" (*pick-a-card criticism*);
+   - "the phone line" (*no contact readings*);
+   - "one of the country's most-followed young readers" (*TarotTok*).
+
+   Which is true? The new articles use it only as a model price.
+7. **"Raised between two".** *Is tarot a sin?* promises "from someone raised between two" in its title, but the body never says which two. Your father's Buddhism is in two newer pages; what's the other?
+8. **The Fool page example** tells its example as a real reading ("She had resigned the week before…"). Every other card page uses a clearly hypothetical example. If it happened, keep it. If not, I'll make it hypothetical.
+9. **Certificates.** Your 2024 course FAQ offered a certificate; your brand book says no certification. The certificates article stays neutral until you say.
+10. **Prices.** The sessions and workshops pages show no price yet, and the reading-price article explains why it gives no market figures.
+11. **Author name.** `hugo.toml` has an empty author name and publisher name. Without a name, no author markup reaches Google, and that is the strongest "a real person wrote this" signal you can send. Fill in `params.author.name`, `authorShortDescription` (both languages) and `publisherName`.
+12. **The method page is yours.** Its intro says "I'm writing it myself", so its five empty sections were left for you (the silence rule, expecting to talk nonsense, how you counted, what doesn't work, why you stop). Many articles now link to it, which makes it the most important page to finish.
+13. **French versions of two sayings.** "Don't take my words as ultimate truth. Test it and experience it for yourself." and "You can't be told what it's like. You can only try." were translated by the writers, in a few variants. Give me your French and I'll use it everywhere.
+14. **Golden Dawn card titles** ("Lord of Swiftness", "Lord of Ruin"…) appear on some minor card pages and the Kabbalah pages. Keep them as background, or drop them from the card pages.
+15. **Helplines.** The Tower, Devil and Eight of Swords love pages tell anyone afraid of a partner to reach a support service, but give no number. If you want numbers, check and add France's 3919 and the UK's National Domestic Abuse Helpline.
+16. **Events.** The Halloween and Samhain articles don't claim a Maison Tarot event. Add one to the events page if you plan it, and link it.
+
+## Your published articles: what the check found
+
+All 26 published English articles were read against the same two questions:
+- Does it fully answer its title on its own page?
+- Does it hold at least one sentence only you could write?
+
+13 pass as they are. I didn't rewrite any of them. I only fixed plain errors and added links:
+- a count that didn't add up: "switch off all three", after four reasons;
+- the documentary figure, which now matches the sourced €44,000;
+- a promised article that now exists and is linked;
+- the two beginner guides, which now link to each other;
+- a few claims now linked to the sourced pages: the law, the surveys, the Christian teaching.
+
+What's left is yours to decide:
+
+| Article | What the check found | What would fix it |
+|---|---|---|
+| Shadow work for beginners | No sentence of yours: the definition is general Jung. | Add one or two lines from your shadow-work notes (the cell where you hide what you couldn't deal with; the veil you have to acknowledge before you take it off; "be as gentle and tolerant with yourself as you are with others") and link *Afraid of the dark*. |
+| Delulu is the solulu | Little of yours; "it's well documented" has no source; "I've heard this said to grieving people" isn't in your notes. | One line of yours, and either a source or "in my view". |
+| No contact readings | Strict tone ("I refuse it", "every honest reader refuses it"); "I've watched people do a no-contact reading every day for a month" isn't in your notes. | Your consent line (reading someone without consent is like going through their bedroom), and "I don't read on that, and here's why". The new *Will they come back?* now links here. |
+| Pick-a-card criticism / TarotTok | They share the same argument, the same list and nearly the same closing line, so Google may see them as variants. | Rewrite the closing line of one, and cut its shared list to a sentence plus a link to the other. |
+| How to spot a fake tarot reader | "I spend a surprising amount of my time helping people who've been fleeced" isn't in your notes. Heading 8 ("no ethical reader touches") is strict. | Confirm or soften the opening; soften heading 8. |
+| Before a free online reading | Its "four signs of a hook" repeats flags 1–4 of *How to spot a fake tarot reader* almost word for word. | Cut it to two sentences and a link, so the page stays about your events. |
+| Is tarot a sin? | "Raised between two" is never explained (see decision 7). A light aside on Judaism could read as flippant. | Name the two; consider dropping the aside. |
+| I tested my birth chart | "The High Priestess is Cancer" (decision 1); "a mockery vibe" uses a word your brand book avoids. | Decide the table; "a mocking look". |
 
 ## Softer titles and headings for pages that were already published
 
@@ -49,73 +84,9 @@ These pages were already online, so I haven't touched their text. Each line give
 | terms / cgv (heading) | 6. What the publisher refuses / Ce que l’éditeur refuse | 6. What I don’t offer / Ce que je ne propose pas |
 | 24 French city pages (heading) | Ce que la Maison ne fait pas, à … comme ailleurs | Ce que je ne lis pas, à … comme ailleurs — et ce que je propose à la place |
 
-## To update regularly (trends and dates)
+## Site pages still waiting for your words
 
-Each of these depends on what platforms, apps or the calendar look like now (autumn 2026). A yearly look is enough for most; the date-bound ones need their dates changed.
-
-- **Etsy spells and paid rituals: what you're actually buying** — `/blog/etsy-spells/` · `/fr/blog/sorts-payants-etsy/` — *trend*
-- **Tarot on Instagram: the reader you follow and the reader you need** — `/blog/tarot-on-instagram/` · `/fr/blog/tarot-instagram/` — *trend*
-- **Tarot apps: are they any good? What to look for** — `/blog/tarot-apps/` · `/fr/blog/applications-tarot/` — *trend*
-- **Tarot subscriptions, ‘extended readings’ and pay-per-question: how the model works** — `/blog/tarot-subscriptions/` · `/fr/blog/tarot-payant-a-la-question/` — *trend*
-- **Scorpio season tarot: what to read for between late October and November** — `/blog/scorpio-season-tarot/` · `/fr/blog/saison-scorpion-tarot/` — *date-bound*
-- **Samhain tarot: why October is when people finally ask** — `/blog/samhain-tarot/` · `/fr/blog/samhain-tarot/` — *date-bound*
-- **Halloween tarot reading: what to expect if it's your first** — `/blog/halloween-tarot-reading/` · `/fr/blog/tirage-tarot-halloween/` — *date-bound*
-- **Ancestor tarot spread for Samhain: remembering, gently** — `/blog/ancestor-tarot-spread/` · `/fr/blog/tirage-des-ancetres/` — *date-bound*
-- **New Year tarot spread 2027: one card a month, no promises** — `/blog/new-year-tarot-spread/` · `/fr/blog/tirage-nouvel-an-tarot/` — *date-bound*
-- **Year-ahead tarot reading: how I do it, month by month** — `/blog/year-ahead-tarot-reading/` · `/fr/blog/tirage-de-lannee/` — *date-bound*
-- **Reading tarot live on Instagram: what works and what breaks** — `/blog/tarot-live-instagram/` · `/fr/blog/tarot-en-live/` — *trend*
-- **Readers accused of using AI: how the accusation works** — `/blog/tarot-readers-accused-of-ai/` · `/fr/blog/tarologues-accuses-ia/` — *trend*
-- **Should tarot readers use AI at all? Where I draw the line** — `/blog/should-tarot-readers-use-ai/` · `/fr/blog/tarologue-et-ia/` — *trend*
-- **‘For entertainment purposes only’: what it really means (and why I like it)** — `/blog/entertainment-purposes-only/` · `/fr/blog/fins-de-divertissement/` — *trend*
-- Already published and also time-sensitive: `/blog/tarottok/`, `/blog/pick-a-card-criticism/`, `/blog/is-ai-tarot-accurate/`, `/blog/ai-tarot-vs-human/`, `/blog/delulu-manifestation-tarot/`, `/blog/no-contact-tarot-readings/` (and their French twins).
-
-## Researched articles: click each source once
-
-- **The Death card in films and series: what pop culture gets wrong** — `/blog/death-card-pop-culture/` · `/fr/blog/carte-de-la-mort-cinema/` — *check film references*
-- **Mercury retrograde 2026 and 2027: the dates, and what to expect** — `/blog/mercury-retrograde-dates/` · `/fr/blog/mercure-retrograde-dates/` — *dates to verify*
-- **Venus retrograde 2026: dates and a calm guide for your relationships** — `/blog/venus-retrograde-2026/` · `/fr/blog/venus-retrograde-2026/` — *dates to verify*
-- **Pluto in Aquarius: what this long transit means, explained calmly** — `/blog/pluto-in-aquarius/` · `/fr/blog/pluton-en-verseau/` — *dates to verify*
-- **Saturn–Neptune conjunction at 0° Aries (February 2026): what it meant** — `/blog/saturn-neptune-conjunction-2026/` · `/fr/blog/conjonction-saturne-neptune-2026/` — *dates to verify*
-- **Eclipses 2027: dates, signs, and a gentle tarot spread** — `/blog/eclipses-2027/` · `/fr/blog/eclipses-2027/` — *dates to verify*
-- **Rider-Waite-Smith tarot: why it became the standard, and who 'Rider' was** — `/blog/rider-waite-smith-tarot/` · `/fr/blog/tarot-rider-waite-smith/` — *check facts*
-- **Lenormand vs tarot: two systems, two kinds of question** — `/blog/lenormand-vs-tarot/` · `/fr/blog/lenormand-ou-tarot/` — *check facts*
-- **Thoth tarot vs Rider-Waite-Smith: what changes when you switch decks** — `/blog/thoth-vs-rider-waite/` · `/fr/blog/thoth-ou-rider-waite/` — *check facts*
-- **Why is Death the card with no name? The Marseille arcane and the RWS card** — `/blog/death-card-no-name/` · `/fr/blog/arcane-sans-nom-tarot/` — *check facts*
-- **Overcharged psychic phone lines: what a French investigation revealed** — `/blog/psychic-phone-lines-france/` · `/fr/blog/arnaque-plateforme-voyance/` — *facts to verify*
-- **Is tarot reading legal? What the law says in France and the UK** — `/blog/is-tarot-reading-legal/` · `/fr/blog/voyance-legale-france/` — *facts to verify*
-- **Tarot and Christianity: what the texts say, and what people do** — `/blog/tarot-and-christianity/` · `/fr/blog/tarot-et-christianisme/` — *religion*
-- **Is tarot haram? What I read, and how I answer with respect** — `/blog/is-tarot-haram/` · `/fr/blog/voyance-haram-islam/` — *religion*
-- **Why young people are turning to tarot (and what it says about now)** — `/blog/young-people-and-tarot/` · `/fr/blog/jeunes-et-voyance/` — *facts to verify*
-- **The decans: the astrology hidden in the minor arcana** — `/blog/decans-tarot/` · `/fr/blog/decans-tarot/` — *check facts*
-- The whole **Kabbalah**, **History** and **Figures** sections of the Library are researched pages too, each ending with its sources. The writers could only see search results (the network blocked opening pages), so click each source link once.
-
-## Your personal stories: check they’re told the way you’d tell them
-
-- **Why a reading can be wrong: the voice that gave my friend’s name** — `/blog/why-a-reading-can-be-wrong/` · `/fr/blog/tirage-faux-tarot/` — *personal story*
-- **Dream interpretation and tarot: what dreams can tell you, and the gentle tsunami** — `/blog/dream-interpretation-and-tarot/` · `/fr/blog/interpretation-des-reves-tarot/` — *personal story*
-- **The strangest things that happened during my tarot readings** — `/blog/weird-tarot-reading-stories/` · `/fr/blog/histoires-etranges-tarot/` — *personal story*
-- **My first tarot reading for a stranger was ‘wrong’ — then she texted me a few days later** — `/blog/first-tarot-reading-story/` · `/fr/blog/premier-tirage-tarot/` — *personal story*
-- **What it actually feels like to read a tarot card** — `/blog/what-reading-tarot-feels-like/` · `/fr/blog/que-ressent-on-en-tirant-les-cartes/` — *personal story*
-- **Reading for someone I admired: the sentence I said out loud** — `/blog/reading-for-someone-i-admired/` · `/fr/blog/lire-pour-quelquun-que-jadmirais/` — *personal story*
-- **The night I heard my father call my name from another country** — `/blog/father-calling-premonition/` · `/fr/blog/premonition-experience/` — *personal story*
-- **Do you need to cleanse your tarot deck? I sold sage in 2021 — here’s why I stopped** — `/blog/cleanse-tarot-deck/` · `/fr/blog/purifier-son-jeu-de-tarot/` — *personal story*
-- **What I believed about tarot in 2020 that I see differently now** — `/blog/what-i-believed-about-tarot/` · `/fr/blog/ce-que-je-croyais-du-tarot/` — *personal story*
-- **Can tarot tell you when something will happen? Timing is where I miss most** — `/blog/tarot-timing/` · `/fr/blog/tarot-quand/` — *personal story*
-- **Afraid of the dark? What changed for me, and what shadow work has to do with it** — `/blog/afraid-of-the-dark/` · `/fr/blog/peur-du-noir/` — *personal story*
-- **Spiritual, but not into ‘spiritual’ circles: why I keep a little distance** — `/blog/spiritual-but-not-in-spiritual-circles/` · `/fr/blog/spirituelle-mais-pas-dans-les-cercles/` — *personal story*
-
-## Money, positioning and future affiliate links
-
-- **Tarot gift guide: what to buy a beginner (and what to skip)** — `/blog/tarot-gift-guide/` · `/fr/blog/offrir-un-jeu-de-tarot/` — *affiliate later*
-- **Best tarot decks for beginners in 2027: a reader's shortlist** — `/blog/best-tarot-decks/` · `/fr/blog/meilleurs-jeux-de-tarot/` — *affiliate later*
-- **How much does a tarot reading cost? Prices, and what justifies them** — `/blog/tarot-reading-price/` · `/fr/blog/prix-tirage-tarot/` — *money*
-- **What I charge for (lessons) and what I give away (readings)** — `/blog/what-i-charge-for/` · `/fr/blog/ce-que-je-fais-payer/` — *money*
-- **Tarot certificates and lineages: what they can and can't prove** — `/blog/tarot-certificates/` · `/fr/blog/certificat-tarologue/` — *positioning*
-- **North Node and South Node: what they mean in a birth chart** — `/blog/north-node-south-node/` · `/fr/blog/noeud-nord-noeud-sud/` — *not tested*
-
-## Questions only you can answer (90 notes on 68 pages)
-
-Each line is a gold note inside the page. Answer it in the page (replace the whole `{{< todo >}}…{{< /todo >}}` with your sentence), or delete the note if you’d rather leave the gap.
+These are pages of the site, not articles: your method, your sessions and workshops, and the legal pages. They hold gold notes that show only when you run `hugo server -D`. No article has any left.
 
 - `content/en/about.md`
   - [First Last — in hugo.toml]
@@ -138,64 +109,6 @@ Each line is a gold note inside the page. Answer it in the page (replace the who
   - TO FILL — free cancellation window, rescheduling, no-shows, cancellation by the publisher (full refund). Special case: a person in distress → free rescheduling, always.
 - `content/en/workshops.md`
   - TO WRITE, by you — the exact run of a first workshop, minute by minute if you like; what you have people do from the very start.
-- `content/en/blog/afraid-of-the-dark.md`
-  - Add here: what changed between waiting for the light and walking in the dark, if you can name it — a period, a move, a practice, or nothing in particular.
-- `content/en/blog/best-tarot-decks.md`
-  - Add here: which of these decks you have held yourself, and any you’d remove or add
-- `content/en/blog/cleanse-tarot-deck.md`
-  - Add here: why you stopped selling, in your own words — your notes only say that you stopped, and that nothing in it improved a reading.
-  - Add here (optional): a sentence on what the “channelled” cards were, if you’d like readers to know.
-- `content/en/blog/crystals-and-tarot.md`
-  - Add here: whether crystals were part of what you sold in 2021 (your notes mention sage, candles and channelled cards only)
-- `content/en/blog/energy-after-tarot-reading.md`
-  - Add here: what the tiredness felt like for you after a long evening of readings
-- `content/en/blog/father-calling-premonition.md`
-  - Add here: what you were doing when you heard it, and the time of day (the title says night — please confirm or correct).
-  - Add here: how you learned he was at the temple thinking of you — whether you called him, or he told you later.
-- `content/en/blog/first-tarot-reading-story.md`
-  - Add here (optional): anything else you remember — what you said in the reading, or what you answered when her message arrived.
-- `content/en/blog/first-ten-minutes-tarot-workshop.md`
-  - Add here: the exact words or instructions you give in the first ten minutes of a workshop.
-- `content/en/blog/learn-tarot-from-a-book.md`
-  - Add here: the exact title of the Corrine Kenner book you use
-- `content/en/blog/reading-for-someone-i-admired.md`
-  - Add here (optional): how the reading came about — whether he asked or you offered — and which placements made his chart read as harsh, if you’d like to say.
-- `content/en/blog/samhain-tarot.md`
-  - Add here: what you notice in October at your events or in your messages (more requests? which questions come up?)
-- `content/en/blog/saturn-neptune-conjunction-2026.md`
-  - Add here: what you noticed or noted yourself around 20 February 2026, if anything — or delete this line.
-- `content/en/blog/someone-cries-during-reading.md`
-  - Add here: a moment when someone cried during one of your own readings, if you’d like to tell one.
-- `content/en/blog/spiritual-awakening.md`
-  - Check: is “a beginning” (and, for what came after, “developing your senses”) the wording you’d use instead of “awakening”? Both come from your notes; change it if you use another word.
-- `content/en/blog/tarot-apps.md`
-  - Add here: which tarot apps I have tried myself, and what I thought of them
-- `content/en/blog/tarot-card-you-dont-like.md`
-  - Add here: a card you yourself have never liked, or used to dislike, and why.
-- `content/en/blog/tarot-certificates.md`
-  - Add here: your position on certificates at Maison Tarot — your 2024 course FAQ offered one, and your brand book says no certification. Which is current?
-- `content/en/blog/tarot-live-instagram.md`
-  - Add here: what your body did during one of your Facebook lives, if you’d like to tell it
-- `content/en/blog/tarot-over-video-call.md`
-  - Add here: whether you noticed any difference between your online and face-to-face readings
-- `content/en/blog/tarot-readers-community.md`
-  - Add here: what you wish had existed for readers when you started in 2020, in a sentence or two.
-- `content/en/blog/tarot-reading-price.md`
-  - Add here: current price ranges in France and the UK (per session and per minute), each with a reputable source — my searches only found individual readers’ own price lists
-- `content/en/blog/tarot-timing.md`
-  - Add here: one timing miss from your notebook you’re happy to share — what you said about when, and what actually happened
-- `content/en/blog/weird-tarot-reading-stories.md`
-  - Add here: what came up about spells in that reading, if you remember it
-- `content/en/blog/what-i-believed-about-tarot.md`
-  - Add here: if you also believed in 2020 that only some people could read, one sentence in your own words.
-- `content/en/blog/what-reading-tarot-feels-like.md`
-  - Add here: what you feel in your body when you read, if anything — a line or two in your own words.
-- `content/en/blog/why-a-reading-can-be-wrong.md`
-  - Add here (optional): anything you want to say about those two weeks — whether you told her, what you did with the message. If you’d rather not, delete this line.
-- `content/en/blog/year-ahead-tarot-reading.md`
-  - Add here: when you draw your own year-ahead reading, if you do one (New Year, your birthday, another date)
-- `content/en/blog/you-have-a-gift.md`
-  - Add here: a time someone told you ‘you have a gift’, in your own words — after which reading, and what you answered.
 - `content/fr/a-propos.md`
   - [Prénom Nom — dans hugo.toml]
 - `content/fr/ateliers.md`
@@ -219,43 +132,19 @@ Each line is a gold note inside the page. Answer it in the page (replace the who
   - À COMPLÉTER par vous — un paragraphe sur ce qu’on ressent pendant, et le cadre que vous demandez : au calme, personne d’autre dans la pièce, un jeu de cartes sous la main.
 - `content/fr/blog/applications-tarot.md`
   - À ajouter ici : les applications de tarot que j’ai essayées moi-même, et ce que j’en ai pensé
-- `content/fr/blog/apprendre-le-tarot-dans-un-livre.md`
-  - À ajouter ici : le titre exact du livre de Corrine Kenner
-- `content/fr/blog/carte-de-tarot-quon-naime-pas.md`
-  - À ajouter ici : une carte que vous-même n’avez jamais aimée, ou que vous n’aimiez pas, et pourquoi.
 - `content/fr/blog/ce-que-je-croyais-du-tarot.md`
   - À ajouter ici : si vous pensiez aussi en 2020 que seules certaines personnes pouvaient lire, une phrase avec vos mots.
-- `content/fr/blog/certificat-tarologue.md`
-  - À ajouter ici : votre position sur les certificats à Maison Tarot — la FAQ de votre formation de 2024 en proposait un, et votre charte de marque dit « pas de certification ». Laquelle est d’actualité ?
-- `content/fr/blog/communaute-tarologues.md`
-  - À ajouter ici : ce qui vous aurait aidée, côté lecteurs, quand vous avez commencé en 2020, en une ou deux phrases.
-- `content/fr/blog/conjonction-saturne-neptune-2026.md`
-  - À ajouter ici : ce que vous avez remarqué ou noté vous-même autour du 20 février 2026, s’il y a lieu — sinon supprimez cette ligne.
-- `content/fr/blog/cristaux-et-tarot.md`
-  - À ajouter ici : si des cristaux faisaient partie de ce que vous vendiez en 2021 (vos notes ne mentionnent que la sauge, les bougies et les cartes channelisées)
-- `content/fr/blog/energie-apres-un-tirage.md`
-  - À ajouter ici : ce que vous ressentiez concrètement après une longue soirée de tirages
-- `content/fr/blog/eveil-spirituel.md`
-  - À vérifier : « un commencement » (et, pour la suite, « développer ses sens ») est-il bien le mot que vous utilisez à la place d’« éveil » ? Les deux viennent de vos notes ; à changer si vous en employez un autre.
-- `content/fr/blog/histoires-etranges-tarot.md`
-  - À ajouter ici : ce qui s’est dit sur les sorts pendant ce tirage, si vous vous en souvenez
 - `content/fr/blog/lire-pour-quelquun-que-jadmirais.md`
   - À ajouter ici (facultatif) : comment cette lecture s’est faite — s’il vous l’a demandée ou si vous l’avez proposée — et quelles positions rendaient son thème si dur, si vous souhaitez le dire.
 - `content/fr/blog/meilleurs-jeux-de-tarot.md`
   - À ajouter ici : les jeux de cette liste que vous avez eus en main, et ceux que vous retireriez ou ajouteriez
 - `content/fr/blog/peur-du-noir.md`
   - À ajouter ici : ce qui a changé entre attendre la lumière et marcher dans le noir, si vous pouvez le nommer — une période, un déménagement, une pratique, ou rien de précis.
-- `content/fr/blog/pleurer-pendant-un-tirage.md`
-  - À ajouter ici : un moment où quelqu’un a pleuré pendant l’un de vos tirages, si vous souhaitez en raconter un.
 - `content/fr/blog/premier-tirage-tarot.md`
   - À ajouter ici (facultatif) : ce dont vous vous souvenez encore — ce que vous avez dit pendant le tirage, ou ce que vous avez répondu à son message.
-- `content/fr/blog/premieres-minutes-atelier-tarot.md`
-  - À ajouter ici : les mots exacts ou les consignes que vous donnez dans les dix premières minutes d’un atelier.
 - `content/fr/blog/premonition-experience.md`
   - À ajouter ici : ce que vous faisiez quand vous l’avez entendu, et à quel moment de la journée (le titre dit « la nuit » — à confirmer ou à corriger).
   - À ajouter ici : comment vous avez appris qu’il était au temple en train de penser à vous — si vous l’avez appelé, ou s’il vous l’a dit plus tard.
-- `content/fr/blog/prix-tirage-tarot.md`
-  - À ajouter ici : les fourchettes de prix actuelles en France (à la séance et à la minute), chacune avec une source fiable — mes recherches n’ont trouvé que les grilles tarifaires de tarologues individuels
 - `content/fr/blog/purifier-son-jeu-de-tarot.md`
   - À ajouter ici : pourquoi vous avez arrêté de vendre, avec vos mots — vos notes disent seulement que vous avez arrêté, et que rien de tout ça n’a amélioré un tirage.
   - À ajouter ici (facultatif) : une phrase sur ce qu’étaient ces cartes « canalisées », si vous souhaitez que vos lecteurs le sachent.
@@ -263,22 +152,94 @@ Each line is a gold note inside the page. Answer it in the page (replace the who
   - À ajouter ici : ce que vous ressentez dans votre corps quand vous lisez, s’il y a quelque chose — une ou deux phrases, avec vos mots.
 - `content/fr/blog/samhain-tarot.md`
   - À ajouter ici : ce que vous remarquez en octobre aux événements ou dans vos messages (plus de demandes ? quelles questions reviennent ?)
-- `content/fr/blog/tarot-en-live.md`
-  - À ajouter ici : ce que votre corps a fait pendant l’un de vos lives sur Facebook, si vous avez envie de le raconter
-- `content/fr/blog/tarot-en-visio.md`
-  - À ajouter ici : si vous avez remarqué une différence entre vos lectures en ligne et vos lectures en face à face
-- `content/fr/blog/tarot-quand.md`
-  - À ajouter ici : un raté de timing tiré de votre carnet, si vous acceptez de le raconter — ce que vous aviez dit sur le « quand », et ce qui s’est réellement passé
 - `content/fr/blog/tirage-de-lannee.md`
   - À ajouter ici : quand vous faites votre propre tirage de l’année, si vous en faites un (Nouvel An, anniversaire, autre date)
-- `content/fr/blog/tirage-faux-tarot.md`
-  - À ajouter ici (facultatif) : ce que vous voulez dire de ces deux semaines — si vous l’avez prévenue, ce que vous avez fait du message. Si vous préférez ne rien en dire, supprimez cette ligne.
 - `content/fr/blog/tu-as-un-don.md`
   - À ajouter ici : une fois où l’on vous a dit « tu as un don », avec vos mots — après quelle lecture, et ce que vous avez répondu.
 
-## Notes from each batch of writing
+## Articles to update now and then (trends and dates)
 
-What each writer flagged, batch by batch. Lines marked FIXED are already corrected and are here only so you know.
+Each depends on what platforms, apps or the calendar look like now (autumn 2026). A yearly look is enough for most; the date-bound ones need their dates changed.
+
+- **Etsy spells and paid rituals: what you're actually buying** — `/blog/etsy-spells/` · `/fr/blog/sorts-payants-etsy/` — *trend*
+- **Tarot on Instagram: the reader you follow and the reader you need** — `/blog/tarot-on-instagram/` · `/fr/blog/tarot-instagram/` — *trend*
+- **Tarot apps: are they any good? What to look for** — `/blog/tarot-apps/` · `/fr/blog/applications-tarot/` — *trend*
+- **Tarot subscriptions, ‘extended readings’ and pay-per-question: how the model works** — `/blog/tarot-subscriptions/` · `/fr/blog/tarot-payant-a-la-question/` — *trend*
+- **Scorpio season tarot: what to read for between late October and November** — `/blog/scorpio-season-tarot/` · `/fr/blog/saison-scorpion-tarot/` — *date-bound*
+- **Samhain tarot: why October is when people finally ask** — `/blog/samhain-tarot/` · `/fr/blog/samhain-tarot/` — *date-bound*
+- **Halloween tarot reading: what to expect if it's your first** — `/blog/halloween-tarot-reading/` · `/fr/blog/tirage-tarot-halloween/` — *date-bound*
+- **Ancestor tarot spread for Samhain: remembering, gently** — `/blog/ancestor-tarot-spread/` · `/fr/blog/tirage-des-ancetres/` — *date-bound*
+- **New Year tarot spread 2027: one card a month, no promises** — `/blog/new-year-tarot-spread/` · `/fr/blog/tirage-nouvel-an-tarot/` — *date-bound*
+- **Year-ahead tarot reading: how I do it, month by month** — `/blog/year-ahead-tarot-reading/` · `/fr/blog/tirage-de-lannee/` — *date-bound*
+- **Reading tarot live on Instagram: what works and what breaks** — `/blog/tarot-live-instagram/` · `/fr/blog/tarot-en-live/` — *trend*
+- **Readers accused of using AI: how the accusation works** — `/blog/tarot-readers-accused-of-ai/` · `/fr/blog/tarologues-accuses-ia/` — *trend*
+- **Should tarot readers use AI at all? Where I draw the line** — `/blog/should-tarot-readers-use-ai/` · `/fr/blog/tarologue-et-ia/` — *trend*
+- **‘For entertainment purposes only’: what it really means (and why I like it)** — `/blog/entertainment-purposes-only/` · `/fr/blog/fins-de-divertissement/` — *trend*
+- Already published and time-sensitive: `/blog/tarottok/`, `/blog/pick-a-card-criticism/`, `/blog/is-ai-tarot-accurate/`, `/blog/ai-tarot-vs-human/`, `/blog/delulu-manifestation-tarot/`, `/blog/no-contact-tarot-readings/`.
+
+## Researched articles: click each source link once
+
+The writers checked every fact through search results; this session’s network blocked opening many source pages, so one click per link is worth it. The Kabbalah, History and Figures sections of the Library are researched the same way, each page ending with its sources.
+
+- **The Death card in films and series: what pop culture gets wrong** — `/blog/death-card-pop-culture/` · `/fr/blog/carte-de-la-mort-cinema/` — *check film references*
+- **Mercury retrograde 2026 and 2027: the dates, and what to expect** — `/blog/mercury-retrograde-dates/` · `/fr/blog/mercure-retrograde-dates/` — *dates to verify*
+- **Venus retrograde 2026: dates and a calm guide for your relationships** — `/blog/venus-retrograde-2026/` · `/fr/blog/venus-retrograde-2026/` — *dates to verify*
+- **Pluto in Aquarius: what this long transit means, explained calmly** — `/blog/pluto-in-aquarius/` · `/fr/blog/pluton-en-verseau/` — *dates to verify*
+- **Saturn–Neptune conjunction at 0° Aries (February 2026): what it meant** — `/blog/saturn-neptune-conjunction-2026/` · `/fr/blog/conjonction-saturne-neptune-2026/` — *dates to verify*
+- **Eclipses 2027: dates, signs, and a gentle tarot spread** — `/blog/eclipses-2027/` · `/fr/blog/eclipses-2027/` — *dates to verify*
+- **Rider-Waite-Smith tarot: why it became the standard, and who 'Rider' was** — `/blog/rider-waite-smith-tarot/` · `/fr/blog/tarot-rider-waite-smith/` — *check facts*
+- **Lenormand vs tarot: two systems, two kinds of question** — `/blog/lenormand-vs-tarot/` · `/fr/blog/lenormand-ou-tarot/` — *check facts*
+- **Thoth tarot vs Rider-Waite-Smith: what changes when you switch decks** — `/blog/thoth-vs-rider-waite/` · `/fr/blog/thoth-ou-rider-waite/` — *check facts*
+- **Why is Death the card with no name? The Marseille arcane and the RWS card** — `/blog/death-card-no-name/` · `/fr/blog/arcane-sans-nom-tarot/` — *check facts*
+- **Overcharged psychic phone lines: what a French investigation revealed** — `/blog/psychic-phone-lines-france/` · `/fr/blog/arnaque-plateforme-voyance/` — *facts to verify*
+- **Is tarot reading legal? What the law says in France and the UK** — `/blog/is-tarot-reading-legal/` · `/fr/blog/voyance-legale-france/` — *facts to verify*
+- **Tarot and Christianity: what the texts say, and what people do** — `/blog/tarot-and-christianity/` · `/fr/blog/tarot-et-christianisme/` — *religion*
+- **Is tarot haram? What I read, and how I answer with respect** — `/blog/is-tarot-haram/` · `/fr/blog/voyance-haram-islam/` — *religion*
+- **Why young people are turning to tarot (and what it says about now)** — `/blog/young-people-and-tarot/` · `/fr/blog/jeunes-et-voyance/` — *facts to verify*
+- **The decans: the astrology hidden in the minor arcana** — `/blog/decans-tarot/` · `/fr/blog/decans-tarot/` — *check facts*
+
+## Your personal stories: read them once, as you would tell them
+
+- **Why a reading can be wrong: the voice that gave my friend’s name** — `/blog/why-a-reading-can-be-wrong/` · `/fr/blog/tirage-faux-tarot/` — *personal story*
+- **Dream interpretation and tarot: what dreams can tell you, and the gentle tsunami** — `/blog/dream-interpretation-and-tarot/` · `/fr/blog/interpretation-des-reves-tarot/` — *personal story*
+- **The strangest things that happened during my tarot readings** — `/blog/weird-tarot-reading-stories/` · `/fr/blog/histoires-etranges-tarot/` — *personal story*
+- **My first tarot reading for a stranger was ‘wrong’ — then she texted me a few days later** — `/blog/first-tarot-reading-story/` · `/fr/blog/premier-tirage-tarot/` — *personal story*
+- **What it actually feels like to read a tarot card** — `/blog/what-reading-tarot-feels-like/` · `/fr/blog/que-ressent-on-en-tirant-les-cartes/` — *personal story*
+- **Reading for someone I admired: the sentence I said out loud** — `/blog/reading-for-someone-i-admired/` · `/fr/blog/lire-pour-quelquun-que-jadmirais/` — *personal story*
+- **The night I heard my father call my name from another country** — `/blog/father-calling-premonition/` · `/fr/blog/premonition-experience/` — *personal story*
+- **Do you need to cleanse your tarot deck? I sold sage in 2021 — here’s why I stopped** — `/blog/cleanse-tarot-deck/` · `/fr/blog/purifier-son-jeu-de-tarot/` — *personal story*
+- **What I believed about tarot in 2020 that I see differently now** — `/blog/what-i-believed-about-tarot/` · `/fr/blog/ce-que-je-croyais-du-tarot/` — *personal story*
+- **Can tarot tell you when something will happen? Why timing is the weak spot** — `/blog/tarot-timing/` · `/fr/blog/tarot-quand/` — *personal story*
+- **Afraid of the dark? What changed for me, and what shadow work has to do with it** — `/blog/afraid-of-the-dark/` · `/fr/blog/peur-du-noir/` — *personal story*
+- **Spiritual, but not into ‘spiritual’ circles: why I keep a little distance** — `/blog/spiritual-but-not-in-spiritual-circles/` · `/fr/blog/spirituelle-mais-pas-dans-les-cercles/` — *personal story*
+
+## Money, positioning, and future affiliate links
+
+- **Tarot gift guide: what to buy a beginner (and what to skip)** — `/blog/tarot-gift-guide/` · `/fr/blog/offrir-un-jeu-de-tarot/` — *affiliate later*
+- **Best tarot decks for beginners in 2027: a reader's shortlist** — `/blog/best-tarot-decks/` · `/fr/blog/meilleurs-jeux-de-tarot/` — *affiliate later*
+- **How much does a tarot reading cost? Prices, and what justifies them** — `/blog/tarot-reading-price/` · `/fr/blog/prix-tirage-tarot/` — *money*
+- **What I charge for (lessons) and what I give away (readings)** — `/blog/what-i-charge-for/` · `/fr/blog/ce-que-je-fais-payer/` — *money*
+- **Tarot certificates and lineages: what they can and can't prove** — `/blog/tarot-certificates/` · `/fr/blog/certificat-tarologue/` — *positioning*
+- **North Node and South Node: what they mean in a birth chart** — `/blog/north-node-south-node/` · `/fr/blog/noeud-nord-noeud-sud/` — *not tested*
+
+## What changed in this round
+
+- **Every English article was tested against Google's helpful-content questions, then the French followed.** The two questions: does it fully answer its title on its own page, and does it hold a sentence only you could write?
+  - Gaps were written around without inventing anything. Each gap became a question in the questionnaire.
+  - Where two articles answered the same question, one now owns it and the other links to it.
+  - Claims your notes don't support were made general. Example: "timing is where I miss most" became your method page's own words.
+- **The 13 "card at work" articles are now an *At work* section on their card pages.** Three pages per card (meaning, love, career) is the pattern Google treats as mass-produced.
+- **The 21 "card in love" articles were rebuilt from their own card.** Each opens with what that card's number, element and energy do in a relationship, instead of describing the drawing again. Each has its own headings.
+- **One story, one home.** Your stories were told in full on many pages: the sage you sold in 2021, your first Discord reading, the people who keep asking. Each now lives in full on one article. Elsewhere it gets a short mention and a link, or no mention where it didn't serve the question.
+- **Every symbol page shows the symbol itself.** The close-ups are cut from the 1909 scans (`data/zoom/`, `tools/zoom.py`).
+- **The Kabbalah has a Tree of Life you can explore.**
+  - Tap a sphere for its cards, or a path for its letter and its arcanum. A button traces the spheres from 1 to 10.
+  - Every card page shows its own place on the Tree and links straight to it.
+  - It is drawn from the data, so the Tree, the letters table and the card pages can't disagree.
+
+## Earlier notes, batch by batch
+
+From the first round of writing. Lines marked FIXED or CHANGED are done and are here only so you know; some questions here have since moved to the questionnaire.
 
 ### French adaptations batch 2 (B10–B17)
 - B10 curse scam (EN published): body uses "blessed" (banned word) — left as is. FR drops the unverified "retired teacher in the French documentary"; FR adds SignalConso + police complaint as reporting routes — confirm.
