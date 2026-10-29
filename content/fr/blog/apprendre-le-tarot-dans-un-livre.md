@@ -25,7 +25,7 @@ Bref, il vous apporte du savoir. Lire, c’est autre chose.
 
 ## Ce que seule la pratique apprend {#ce-que-la-pratique-apprend}
 
-Quand j’ai fait essayer la lecture à mes amis et à ma famille, j’ai vu la même scène se répéter : ils disaient quelque chose de juste sur la personne en face, puis restaient saisis par ce qu’ils venaient de dire. Aucune page ne peut produire ce moment-là, parce que ce n’est pas une information. C’est en forgeant qu’on devient forgeron, et le tarot ne fait pas exception.
+Quand j’ai fait essayer la lecture à mes amis et à ma famille, la même scène revenait : l’un d’eux disait sur l’autre une chose exacte, puis restait bouche bée devant sa propre phrase. Aucune page ne peut produire ce moment-là, parce que ce n’est pas une information. C’est en forgeant qu’on devient forgeron, et le tarot ne fait pas exception.
 
 Mes propres débuts le confirment. Fin 2020, avec un jeu tout juste reçu en cadeau, j’ai lu sans avoir rien étudié, et cette première lecture a tenu — moi qui croyais devoir passer par une formation d’abord.
 
@@ -35,7 +35,7 @@ La pratique apprend ce qu’un livre peut seulement nommer. Lâcher prise, qui e
 
 Le risque, quand on commence par un livre, c’est de se mettre à réciter. On tire une carte, on attrape la phrase apprise, et on arrête de regarder.
 
-Imaginons que quelqu’un tire le Cinq de Coupes.
+Le Cinq de Coupes sort, et votre manuel est ouvert juste à côté.
 
 {{< cards "cu05" >}}
 
@@ -65,4 +65,4 @@ C’est tout. Deux livres, un guide, et beaucoup de cartes posées sur beaucoup 
 
 ## Fermez le livre, ouvrez le jeu {#etape-suivante}
 
-Ce soir, tirez une carte et dites ce que vous voyez avant de vérifier la moindre définition. Puis lisez ce qu’en dit le livre, et notez où vous êtes d’accord. Si vous préférez essayer avec d’autres personnes autour de vous, dans les [ateliers](/fr/ateliers/), vous tenez déjà une carte quand la théorie n’a pas encore commencé — exprès.
+Ce soir, tirez une carte et racontez ce qui est dessiné, livre fermé, avant toute définition. Puis lisez ce qu’en dit le livre, et notez où vous êtes d’accord. Si vous préférez essayer avec d’autres personnes autour de vous, dans les [ateliers](/fr/ateliers/), vous tenez déjà une carte quand la théorie n’a pas encore commencé — exprès.

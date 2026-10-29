@@ -13,13 +13,13 @@ summary: "Voir 11h11 partout, c’est tomber encore et encore sur l’heure où 
 ---
 Voir 11h11, c’est jeter un œil à l’heure pile quand elle n’affiche que des 1 — puis tomber dessus encore, et encore. Beaucoup de gens y voient un signe : faire un vœu, être sur la bonne voie, prêter attention.
 
-Lue avec les nombres, 11h11 est un 1 dit quatre fois, ou un 11 qui se réduit à 2 : un début, ou deux choses qu’on pèse. Dans les deux cas, c’est un bon moment pour vous poser une question.
+Lue avec les nombres, 11h11 est un 1 dit quatre fois, ou un 11 qui se réduit à 2 : un début, ou deux choses qu’on pèse. Dans les deux cas, l’heure n’annonce rien : elle vous interroge, et la réponse reste chez vous.
 
 ## Ce que veut dire 11h11 {#signification}
 
 11h11 est la seule minute de la journée où tous les chiffres de l’horloge sont des 1. « Voir 11h11 partout », c’est la croiser assez souvent pour que ça ne ressemble plus à un hasard. Vous levez les yeux de votre écran : 11h11. Le lendemain, le four affiche 11h11 au moment où vous le regardez. Le surlendemain, encore.
 
-Les lectures varient. La plus connue est une coutume qu’on apprend souvent enfant : faire un vœu à 11h11. D’autres y voient le signe qu’on est aligné avec ce qu’on veut, une porte qui s’ouvre, ou un message d’anges ou de guides. C’est le plus célèbre des [nombres miroirs](/fr/blog/nombres-miroirs/), ces suites répétées qu’on remarque sur un ticket ou une plaque d’immatriculation.
+Les lectures varient. La plus connue est une coutume qu’on apprend souvent enfant : faire un vœu à 11h11. D’autres y voient le signe qu’on est aligné avec ce qu’on veut, une porte qui s’ouvre, ou un message d’anges ou de guides. Parmi les [nombres miroirs](/fr/blog/nombres-miroirs/), où un même chiffre revient en série, 11h11 tient le rôle de vedette.
 
 **Quoi que vous mettiez derrière, 11h11 est une pause qu’on vous tend, et c’est à vous de décider à quoi elle sert.**
 

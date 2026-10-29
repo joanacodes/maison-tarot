@@ -25,7 +25,7 @@ Je ne sais pas vous dire ce que c’est, et je ne prétends pas que cela prouve 
 
 Les gens veulent voir ce que je regarde. C’est la première raison, et elle est bonne.
 
-Une carte posée sur la table donne à la personne quelque chose à quoi se raccrocher. Elle peut la regarder, s’en souvenir, la noter, comparer ce que je dis avec ce qu’elle a sous les yeux. Imaginez que le Huit d’Épées sorte. Je pourrais dire : « Vous vous sentez piégée, mais vous avez tous les outils pour sortir de là. » Ou je peux tourner la carte vers la personne et la laisser regarder cette femme : les yeux bandés, attachée, des épées tout autour, et les pieds libres. Dans mes notes, cette carte, c’est quelqu’un de prisonnier de lui-même alors qu’il a tous les outils, et le bandeau peut tomber. La personne le voit par elle-même, et ce qu’on trouve seul reste plus longtemps que ce qu’on nous dit.
+Une carte posée sur la table donne à la personne quelque chose à quoi se raccrocher. Elle peut la regarder, s’en souvenir, la noter, comparer ce que je dis avec ce qu’elle a sous les yeux. Imaginez que le Huit d’Épées sorte. Je pourrais dire : « Vous vous sentez piégée, mais vous avez de quoi vous en sortir. » Ou je peux tourner la carte vers la personne et la laisser regarder cette femme : les yeux bandés, attachée, des épées tout autour, et les pieds libres. Ces pieds libres, la personne les remarque d’elle-même, et ce qu’on trouve seul reste plus longtemps que ce qu’on nous dit.
 
 {{< cards "sw08" >}}
 
@@ -47,7 +47,7 @@ Me déconcentrer, parce que pendant que mes yeux sont occupés par la carte, la 
 
 Si vous apprenez, non. Gardez les cartes. C’est avec elles que vous apprendrez à faire la différence entre ce qui vient et ce que vous pensiez déjà, et cette différence, c’est l’essentiel du savoir-faire. [Lire le tarot à l’intuition](/fr/blog/lire-le-tarot-a-lintuition/) commence toujours par une carte.
 
-Si vous lisez depuis longtemps et que les choses arrivent tôt chez vous aussi, n’en faites pas un grade. Le lecteur qui n’a plus besoin des cartes n’est qu’à un pas de celui qui se sent au-dessus de tous ceux qui en ont besoin, et c’est l’un des ego que je décris dans [construire sa pratique sans devenir un gourou](/fr/blog/pratique-sans-gourou/). Remarquez-le, et vérifiez-le comme tout le reste. Voici comment je m’y prendrais :
+Si vous lisez depuis longtemps et que les choses arrivent tôt chez vous aussi, n’en faites pas un grade. Le lecteur qui n’a plus besoin des cartes n’est qu’à un pas de celui qui se sent au-dessus de tous ceux qui en ont besoin, et c’est l’un des [ego qui guettent une pratique au long cours](/fr/blog/pratique-sans-gourou/). Remarquez-le, et vérifiez-le comme tout le reste. Voici comment je m’y prendrais :
 
 1. Choisissez une personne dont vous ignorez tout de la situation — [la règle du silence](/fr/blog/regle-du-silence-tarot/) compte encore plus ici, puisqu’une impression précoce ne vaut rien si vous connaissez déjà l’histoire de la personne.
 2. Avant de mélanger, notez tout ce qui est déjà là, même un seul mot.
