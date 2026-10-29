@@ -84,4 +84,4 @@ Here’s an invented reading: the person in front of you draws the Two of Pentac
 
 Dancing juggler, then a back bent under its load: “You’re keeping a lot going and you’re doing it well, but you’re carrying more than you need to, and something will have to be put down soon.”
 
-Then I hand them one question: “Is there something in your week you could put down, and haven’t?” If an answer comes straight away, it landed. If the person looks blank, it’s a miss, and I say so.
+Their week is where I check it: “Is there something in your week you could put down, and haven’t?” If an answer comes straight away, it landed. If the person looks blank, it’s a miss, and I say so.

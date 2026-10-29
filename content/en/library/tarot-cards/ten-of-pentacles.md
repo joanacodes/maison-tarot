@@ -80,6 +80,6 @@ Next to the [Ten of Cups](/library/tarot-cards/ten-of-cups/), the same family se
 
 An exercise: someone draws the Ten of Pentacles, then the Page of Wands, and the reading is yours to make. Ten then Page: a cycle closing, then a student starting something. Earth then Fire: a house that holds, then a new urge. Three generations under an archway, then a young man alone in a desert, looking up at a wand that sprouts leaves.
 
-A full house beside a lone young traveller, so: “Something at home is complete, and it’s good. And someone young, maybe you, wants to try something of their own. It doesn’t have to be a break.”
+A full house beside a lone young traveller gives this: “Something at home is complete, and it’s good. And someone young, maybe you, wants to try something of their own. It doesn’t have to be a break.”
 
 Then check: “Does that speak to you?” If nothing fits, it’s a miss — say so, note it, and don’t draw another card to rescue it.

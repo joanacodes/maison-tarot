@@ -82,4 +82,4 @@ Read the Six of Cups and the [Nine of Pentacles](/library/tarot-cards/nine-of-pe
 
 The courtyard and the vineyard give one warm sentence: “You’ve worked hard and you’ve earned a pause — something gentle, and for you: a few days somewhere familiar, people you’ve known a long time, time with no goal.”
 
-Then I ask: “When did you last take time that was only for you?” The answer tells me whether it lands. If the person has just come back from three weeks off, the sentence missed, and I note it as a miss.
+The question I put: “When did you last take time that was only for you?” The answer tells me whether it lands. If the person has just come back from three weeks off, the sentence missed, and I note it as a miss.

@@ -82,4 +82,4 @@ Put the Two of Cups beside the [Eight of Pentacles](/library/tarot-cards/eight-o
 
 Two cups beside a craftsman’s bench lead me here: “There’s someone you work well with — a colleague, a partner, maybe a friend — and what you share is turning into something you build together.” I’d add that it isn’t necessarily a romance, because the Two of Cups tempts everyone to hear love.
 
-Then one question: “Does someone come to mind?” I let the person answer and don’t supply the name. If no name comes to mind, it’s a miss, written down as one.
+A single question follows: “Does someone come to mind?” I let the person answer and don’t supply the name. If no name comes to mind, it’s a miss, written down as one.

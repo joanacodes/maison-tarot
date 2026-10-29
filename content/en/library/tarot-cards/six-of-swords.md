@@ -46,7 +46,7 @@ At its heart is **a crossing: leaving rough water for calm, and taking the sword
 
 ## By number: six {#number}
 
-Six is “three exalted”: the machine is launched and moving fast; success, and the chance, finally, to rest or take a holiday. With a six, my advice is serenity and modesty once things start moving. On this card the success is quiet: you got out. The swords aren’t left behind — all six travel in the boat — but they’re no longer in anyone’s hand. For Instagram, the turn came with Facebook’s investment: what had threatened the company became what carried it. That’s the turn [number 6](/library/numerology/number-6/) makes here: the hard part becomes the vehicle.
+Six is “three exalted”: the machine is launched and moving fast; success, and the chance, finally, to rest or take a holiday. With a six, my advice is serenity and modesty once things start moving. On this card the success is quiet: you got out. The swords aren’t left behind — all six travel in the boat — but they’re no longer in anyone’s hand. Instagram lived this when Facebook put money in: what had threatened the company became what carried it. That’s the turn [number 6](/library/numerology/number-6/) makes here: the hard part becomes the vehicle.
 
 ## By element: Air {#element}
 

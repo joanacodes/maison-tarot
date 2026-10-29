@@ -84,6 +84,6 @@ Next to [Justice](/library/tarot-cards/justice/), the scales again: fairness tha
 
 Assume you’re shuffling for a friend, and the Six of Pentacles comes out with the [Four of Swords](/library/tarot-cards/four-of-swords/) beside it. Six then four: the flow of 6 — in my notes, the number where you can finally rest — then the stability of 4. Earth then Air: something given or received, then the mind going quiet. The drawings: gold passing from one hand to another, then a figure lying still on a tomb under a stained-glass window.
 
-Coins handed out, then a body laid still; I’d sum it up as: “You’ve been giving a lot — time, help, maybe money — and now you need to stop and get your breath back.”
+Coins handed out, then a knight resting in a quiet chapel; I’d sum it up as: “You’ve been giving a lot — time, help, maybe money — and now you need to stop and get your breath back.”
 
 Then a question about the recent past: “Does that match the last few weeks?” If it’s yes, I let the person say as much or as little as they like. If the last few weeks looked nothing like that, the miss is mine, and I own it.
