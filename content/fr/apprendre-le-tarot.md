@@ -28,9 +28,9 @@ C’est le principe de toute la [Bibliothèque](/fr/bibliotheque/) : des clés, 
 
 ## Les cinq clés, dans l’ordre {#les-cinq-cles}
 
-1. **[Les couleurs](/fr/bibliotheque/couleurs-tarot/)** — la clé la plus rapide. Le jaune pour la joie, le rouge pour l’action, le bleu pour l’émotion : vous les voyez avant même de savoir quelle carte vous tenez.
+1. **[Les couleurs](/fr/bibliotheque/couleurs-tarot/)** — la clé la plus rapide. Joie pour le jaune, action pour le rouge, émotion pour le bleu : vous les voyez avant même de savoir quelle carte vous tenez.
 2. **[Les quatre éléments](/fr/bibliotheque/quatre-elements/)** — la famille de la carte dit de quoi elle parle : la matière ([Terre](/fr/bibliotheque/quatre-elements/element-terre/)), les émotions ([Eau](/fr/bibliotheque/quatre-elements/element-eau/)), l’élan ([Feu](/fr/bibliotheque/quatre-elements/element-feu/)), le mental ([Air](/fr/bibliotheque/quatre-elements/element-air/)).
-3. **[La numérologie](/fr/bibliotheque/numerologie/)** — le nombre situe l’étape du cycle, du [1](/fr/bibliotheque/numerologie/chiffre-1/) qui commence au 10 qui tourne la page.
+3. **[La numérologie](/fr/bibliotheque/numerologie/)** — le nombre indique à quel moment du cycle on se trouve, du [1](/fr/bibliotheque/numerologie/chiffre-1/) qui commence au 10 qui tourne la page.
 4. **[Les énergies féminine et masculine](/fr/bibliotheque/energies-feminine-masculine/)** — la carte se montre-t-elle, ou se cache-t-elle ? Agit-elle, ou réfléchit-elle ?
 5. **[Les modes astrologiques](/fr/bibliotheque/modes-astrologiques/)** — cardinal, fixe, mutable : commencer, tenir, changer. La clé qui dit le tempo.
 

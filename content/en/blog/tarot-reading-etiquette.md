@@ -19,11 +19,11 @@ Here’s how I’d put it, from the chair I sit in most often and from the one o
 
 Come with a question in mind, and keep it there: no context, no “it’s about my ex”, no first name if we’re online. It feels strange, I know. It’s also the only way you’ll know afterwards whether the reading came from the cards or from what you told the reader; I explain why in [the silence rule](/blog/the-silence-rule/).
 
-Leave other people out of it. A reading is for the person in the chair, not for a partner, a boss or a mother who isn’t in the room. You wouldn’t want someone going through your bedroom drawers while you were out, and reading someone’s energy without their consent is close to that.
+Leave other people out of it. A reading is for the person in the chair, not for a partner, a boss or a mother who isn’t in the room. Reading someone’s energy without their say-so is close to opening their drawers uninvited, and nobody would want that done to them.
 
 A few more things worth checking:
 
-- Ask the reader what they don’t read on. At Maison Tarot that’s health, death, pregnancy, ongoing court cases, money decisions, curses and absent third parties. Knowing it beforehand saves you a hard stop halfway through.
+- Ask the reader what they don’t read on. At Maison Tarot the list runs to seven: health and death, pregnancy, cases still before a court, money choices, curses, and anyone not in the room. Knowing it beforehand saves you a hard stop halfway through.
 - Give it time. A reading squeezed between two meetings is rushed on both sides, and you’ll spend it with one eye on the clock.
 - Come as you are. No sage, no candles, no special clothes. Nothing of that kind has ever improved a reading I’ve given.
 - Notice how you’re arriving. If this would be your fourth reading this month on the same question, the kindest thing may be not to have it.
@@ -73,4 +73,4 @@ The reader’s manners matter as much, and they’re a little stricter.
 
 Before: consent, silence, no absent people. During: a calm face, ask before touching, say stop if you need to. After: honest feedback, no repeat question, your own decision.
 
-If you’d like to see these manners in practice before you sit down for a reading of your own, come to one of the [free events](/events/): the people read are drawn at random, nobody says anything first, and we compare at the end.
+If you’d like to see these manners in practice before you sit down for a reading of your own, come to one of the [free events](/events/): whoever gets read is picked at random, nobody says anything first, and we compare at the end.

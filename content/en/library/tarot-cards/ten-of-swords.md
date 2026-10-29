@@ -64,7 +64,7 @@ Count the swords. One would have been enough. Ten is the mind at the end of a ha
 
 ## By astrology: Sun in Gemini {#astrology}
 
-Gemini’s last decan, under the [Sun](/library/astrology/sun/), goes to this card in the Golden Dawn’s order. Gemini is “I think”; the Sun is the centre, what you organise your life around. A ruin of the centre: the way of thinking you’d built everything on, finished. And the Sun is drawn right there on the card, in that yellow band on the horizon. Skip the decan if you like: the number has already said the same thing.
+Gemini’s last decan, under the [Sun](/library/astrology/sun/), was handed to this card by the Golden Dawn. Gemini is “I think”; the Sun is the centre, what you organise your life around. A ruin of the centre: the way of thinking you’d built everything on, finished. And the Sun is drawn right there on the card, in that yellow band on the horizon. Skip the decan if you like: the number has already said the same thing.
 
 ## In a reading {#reading}
 
@@ -96,4 +96,4 @@ In a practice reading for a stranger, the Ten of Swords might come up beside the
 
 Out loud, you might say: “Something you’d been holding together in your head has come to an end, and it really is over. What’s arriving is a new desire — something you want to make, not something you have to fix.”
 
-Then ask, and give them room: “Has something ended for you recently, something you’d been fighting to keep going?” If they say no, take the miss and don’t stretch the card to fit.
+Then ask, and give them room: “Has something ended for you recently, something you’d been fighting to keep going?” If they say no, take the miss rather than bending the card to fit.

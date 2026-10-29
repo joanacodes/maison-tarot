@@ -33,7 +33,7 @@ Two things make this one unusual. Mercury is retrograde too, from 24 October to 
 
 ## What Venus retrograde is said to mean {#meaning}
 
-In astrology, Venus describes what you love and how you love: taste, attraction, the way you bond, what you find beautiful — and, through Taurus, what you value, money included ([Venus in the Library](/library/astrology/venus/)). When it appears to go backwards, the usual reading is that these subjects get reviewed rather than started. Old relationships resurface, new ones are better not begun, big purchases and dramatic haircuts can wait.
+In astrology, Venus is the planet of affection and attraction: whom and what you're drawn to, how you attach, your sense of beauty — and, through Taurus, what you value, money included ([Venus in the Library](/library/astrology/venus/)). When it appears to go backwards, the usual reading is that these subjects get reviewed rather than started. Old relationships resurface, new ones are better not begun, big purchases and dramatic haircuts can wait.
 
 This one starts in Scorpio — intimacy, trust, what's shared and what's hidden — and finishes in Libra, the sign of partnership and fairness. So the astrological story of autumn 2026 runs from "what do I really want from closeness?" to "is this relationship fair?".
 

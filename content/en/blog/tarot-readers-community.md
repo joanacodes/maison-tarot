@@ -31,7 +31,7 @@ For someone who learnt meanings by heart, the lenses are a second way in. Take t
 
 ## The method: something to measure yourself against {#method}
 
-The [method](/method/) is the part experienced readers tend to argue with, and that's fine. It comes down to three habits. The person tells me nothing first. Before I read, I expect to get it wrong, which keeps my ego quiet. And every reading goes into a notebook, my words on one side and the person's confirmations on the other.
+The [method](/method/) is the part experienced readers tend to argue with, and that's fine. It comes down to three habits. The person tells me nothing first. Before I read, I expect to get it wrong, which keeps my ego quiet. And every reading goes into a notebook, where my words sit opposite whatever the person confirmed.
 
 My notebook says about nine readings in ten held, and I publish the misses with the hits. What I'd offer a reader who already reads isn't my number, though; it's the notebook. Keep one for a month and you'll know your own rate, which is worth more to you than mine.
 

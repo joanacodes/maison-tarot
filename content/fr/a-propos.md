@@ -11,7 +11,7 @@ navTitle: "À propos"
 
 Je m’appelle Joana. Je lis le tarot depuis Paris, en français et en anglais, et surtout je l’enseigne.
 
-Je suis venue à tout ça par la porte de derrière. Je voulais comprendre pourquoi des gens croyaient à l’astrologie — comme on voudrait comprendre les platistes ; c’était de la moquerie. Deux amis m’ont offert un jeu de cartes. J’ai lu pour les gens autour de moi, et ce que j’ai vu m’a coupé le sifflet. Alors j’ai fait ce qu’on fait quand on ne comprend pas : j’ai testé. Trois cents tirages gratuits, pour des inconnus qui gardaient leur question pour eux, en comptant ce qui tenait et ce qui ne tenait pas. Le décompte détaillé est sur la page [Méthode](/fr/methode/).
+Je suis venue à tout ça par la porte de derrière. Je voulais comprendre pourquoi des gens croyaient à l’astrologie — comme on voudrait comprendre les platistes ; c’était de la moquerie. Deux amis m’ont offert un jeu de cartes. J’ai lu pour les gens autour de moi, et ce que j’ai vu m’a coupé le sifflet. Alors j’ai fait ce qu’on fait quand on ne comprend pas : j’ai testé. Trois cents tirages gratuits, pour des inconnus qui gardaient leur question pour eux, en comptant ce qui tenait et ce qui ne tenait pas. Le décompte détaillé se trouve dans [la méthode](/fr/methode/).
 
 Ce qui me plaît le plus, ce n’est pas lire. C’est faire lire quelqu’un pour la première fois et le regarder être surpris par ce qu’il vient de dire.
 

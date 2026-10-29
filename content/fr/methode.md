@@ -41,9 +41,9 @@ Un tirage montre où vous en êtes, émotionnellement, le jour où il a lieu, et
 
 La pression, la mienne ou celle de l’autre. Parfois, rien ne vient : je force trop, ou la personne a peur de ce qu’elle pourrait entendre. La peur en général joue contre la lecture, parce que lire demande de s’ouvrir et que la peur fait se fermer, se recroqueviller. Moins je nourris mon imagination de choses effrayantes, plus la lecture devient facile.
 
-Lire quelqu’un qui n’a rien demandé. Si la personne ignore qu’on la lit, elle reste fermée : on reçoit un bout de phrase, et on en tire une affirmation entière. Voilà en partie pourquoi [je ne lis pas sur les tiers](/fr/avertissements/#refus).
+Lire quelqu’un qui n’a rien demandé. Quelqu’un qu’on lit à son insu ne s’ouvre pas : on capte trois mots, et on en fait une certitude. C’est une des raisons pour lesquelles [les tiers restent hors de mes lectures](/fr/avertissements/#refus).
 
-Et les objets. En 2021, j’ai vendu sauge, bougies et cartes dites « canalisées ». J’ai cessé, parce qu’aucun de ces objets ne rendait un tirage meilleur ; j’en parle dans [l’article sur la purification d’un jeu](/fr/blog/purifier-son-jeu-de-tarot/).
+Et les objets. En 2021, je proposais à la vente bougies, sauge et cartes présentées comme « canalisées ». J’ai cessé : rien de cette marchandise ne rendait mes tirages meilleurs ; j’en parle [à propos de la purification des jeux](/fr/blog/purifier-son-jeu-de-tarot/).
 
 ## Pourquoi je m’arrête parfois ? {#arreter}
 

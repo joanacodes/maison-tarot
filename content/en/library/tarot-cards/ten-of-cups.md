@@ -46,7 +46,7 @@ One detail makes the card. The children aren’t looking at the rainbow: Waite, 
 
 [Ten closes the cycle](/library/numerology/number-10/) and opens onto freedom, onto breathing out. For the Cups, the emotional cycle closes in the best way it can. My own note for this card is short: happiness, family — and the wish to make one.
 
-Every ten has its other side, though: it doesn’t always last, and it nudges you to begin something new. The drawing says so too, since a rainbow is the most fleeting thing in the sky. That isn’t a reason to distrust the moment. It’s a reason to live it while it’s there. Instagram’s 10 is an app its own users barely recognise — the close of one cycle, with a fresh 1 waiting behind it.
+Every ten has its other side, though: the moment is brief, and it hands you the next thing to start. The drawing says so too, since a rainbow is the most fleeting thing in the sky. That isn’t a reason to distrust the moment. It’s a reason to live it while it’s there. Instagram’s 10 is an app its own users barely recognise — the close of one cycle, with a fresh 1 waiting behind it.
 
 ## By element: Water {#element}
 
@@ -70,7 +70,7 @@ Upright: a home that works. A family — of birth, of choice, of friends — at 
 
 Reversed, the happiness is either staged or postponed. Staged, it’s the family photo kept up for others, everyone smiling at the rainbow and nobody talking. Postponed, it’s waiting for the perfect picture — the house, the partner, the children, all at once — before allowing yourself to enjoy what is.
 
-People sometimes hope this card announces a pregnancy or a wedding. That hope is tender, and I understand why it’s brought to the cards. Still, [pregnancy is a question I keep away from the cards](/disclaimers/#refusals): a card is the wrong tool to carry that question, and a doctor is the right one. What the Ten of Cups can hold is the wish itself, and the home you’re already making.
+People sometimes hope this card announces a pregnancy or a wedding. That hope is tender, and I understand why it’s brought to the cards. Still, [the cards stay silent on pregnancy, by my choice](/disclaimers/#refusals): a card is the wrong tool to carry that question, and a doctor is the right one. What the Ten of Cups can hold is the wish itself, and the home you’re already making.
 
 Next to the [Ten of Pentacles](/library/tarot-cards/ten-of-pentacles/), the happiness has a material base too: a house, generations together. Next to [the Sun](/library/tarot-cards/the-sun/), it’s joy without a shadow. Next to the [Five of Cups](/library/tarot-cards/five-of-cups/), the happiness exists, but someone is looking at what spilled. More on [the happiest cards and their other side](/blog/happiest-tarot-cards/).
 
