@@ -59,7 +59,7 @@ gallery:
 ---
 ## What 4 says {#definition}
 
-**4 is stability (2 exalted).** The home, being at home, the structure. Four is stability achieved — 2 exalted, the alliance become a foundation. In the [cycle of numbers](/library/numerology/) it comes after 3 and prepares 5.
+**4 is stability (2 exalted).** The home, being at home, the structure. Four is stability achieved — 2 exalted, the alliance become a foundation. [The cycle](/library/numerology/) reaches it from the running machine of 3; the trial of 5 comes next.
 
 ## The advice of 4 {#advice}
 
@@ -67,7 +67,7 @@ Stay flexible. Open up to possibilities you hadn't considered. A structure that 
 
 ## An example everyone knows {#example}
 
-Instagram is a big success, fast. The app has a shape, a team, habits. It's solid — and that's exactly the moment a company starts believing it will never change again.
+Instagram is a big success, fast. The app has a shape, a team, habits. It's solid — solid enough for a company to start assuming it's done changing.
 
 ## The five cards that carry 4 {#cards}
 
@@ -81,6 +81,6 @@ Instagram is a big success, fast. The app has a shape, a team, habits. It's soli
 
 ## In a reading {#reading}
 
-A 4 in a spread says: **it holds.** The Four of Wands celebrates a home, the Four of Pentacles clutches what it has, the Four of Cups is bored in its comfort, the Four of Swords rests. The Emperor is the 4 that structures: the rule, the throne, the frame. Look at whether the stability protects or confines.
+A 4 among the cards means, first of all: **it holds.** The Four of Wands celebrates a home, the Four of Pentacles clutches what it has, the Four of Cups is bored in its comfort, the Four of Swords rests. The Emperor is the 4 that structures: the rule, the throne, the frame. Look at whether the stability protects or confines.
 
 {{% six %}}

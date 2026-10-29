@@ -9,7 +9,7 @@ tags: ["tirer les cartes bouleversé", "tarot et émotions", "se tirer les carte
 image: "covers/reading-tarot-when-upset.jpg"
 imageAlt: "Une personne de dos à une table de cuisine, les mains autour d’une tasse, un jeu de tarot fermé poussé au bord de la table"
 imagePrompt: "A person seen from behind sitting at a kitchen table with both hands around a mug, a closed tarot deck pushed to the far edge of the table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Le plus souvent, attendez. Quand vous êtes à vif, chaque carte se lit comme votre peur : vous voyez les trois coupes renversées et pas les deux qui tiennent debout. La nuit porte conseil. Respirez, écrivez ce qui s’est passé, parlez à quelqu’un qui vous connaît. Si vous voulez encore tirer ensuite, tirez une seule carte, décrivez-la à voix haute avant de l’interpréter, et posez une question plus douce — de quoi ai-je besoin de prendre soin, maintenant ? — plutôt que celle qui vous empêche de dormir. Et si la peine ne passe plus, c’est une personne qu’il faut, pas un jeu."
+summary: "Le plus souvent, attendez. Quand vous êtes à vif, chaque carte se lit comme votre peur : vous voyez les trois coupes renversées et pas les deux qui tiennent debout. La nuit porte conseil. Respirez, écrivez ce qui s’est passé, parlez à quelqu’un qui vous connaît. Si vous voulez encore tirer ensuite, tirez une seule carte, décrivez-la à voix haute avant de l’interpréter, et demandez-lui plutôt ce qui, ce soir, mérite votre attention et vos soins, au lieu de la question qui vous empêche de dormir. Et si la peine ne passe plus, c’est une personne qu’il faut, pas un jeu."
 ---
 Le plus souvent, pas tout de suite. Un tirage fait en pleine tempête lit la tempête : vous voyez votre peur dans chaque carte, et vous retirez jusqu’à ce qu’une carte lui donne raison. La nuit porte conseil ; revenez au jeu quand vous pourrez regarder une image sans lui demander de vous sauver.
 
@@ -19,7 +19,7 @@ Quand ça ne va pas, votre tête raconte déjà une histoire, et elle la raconte
 
 Sur le Cinq de Coupes, une silhouette en cape noire regarde trois coupes renversées. Derrière elle, deux coupes tiennent encore debout, et un pont s’éloigne au loin. Un jour calme, vous remarquez aussi les deux coupes et le pont. Un jour où vous êtes à vif, vous voyez trois coupes renversées, point final.
 
-Le Neuf d’Épées fonctionne de la même façon. Quelqu’un est assis dans son lit, le visage dans les mains, neuf épées alignées dans le noir au-dessus de lui. Mes notes y lisent la sortie d’un cauchemar, la fin d’une longue période troublée, avec une protection au-dessus de vous. Un soir de peine, vous ne voyez que le cauchemar.
+Même chose avec le Neuf d’Épées. Quelqu’un est assis dans son lit, le visage dans les mains, neuf épées alignées dans le noir au-dessus de lui. Dans mes notes, cette lame parle au contraire d’un cauchemar qui s’achève, d’une période longue et tourmentée qui se termine, et d’une protection qui plane au-dessus de vous. Un soir de peine, vous ne voyez que le cauchemar.
 
 {{< cards "cu05 sw09" >}}
 
@@ -48,7 +48,7 @@ Avant toute carte, dans cet ordre :
 
 Alors tirez-en une. Une seule, et changez de question.
 
-La question qui vous empêche de dormir — « est-ce qu’il va revenir ? », « est-ce que c’est fini ? » — est celle à laisser de côté ce soir. Elle demande un verdict aux cartes, et vous n’êtes pas en état d’en entendre un. Une question plus douce : de quoi ai-je besoin de prendre soin, là, maintenant ?
+La question qui vous empêche de dormir — « va-t-il revenir ? », « tout est-il fini ? » — est celle à laisser de côté ce soir. Elle demande un verdict aux cartes, et vous n’êtes pas en état d’en entendre un. Posez-en une autre, plus tendre : qu’est-ce qui, en moi, a besoin de soin ce soir ?
 
 Tirez, et décrivez la carte à voix haute avant d’interpréter quoi que ce soit. Quelle couleur la remplit ? Le personnage vous fait-il face ou vous tourne-t-il le dos ? Qu’a-t-il dans les mains ? Avec [la carte du jour](/fr/blog/carte-du-jour-tarot/), la description vient d’abord, le sens ensuite. Notez-la, et relisez votre note deux jours plus tard. Souvent, la carte était plus tendre avec vous que vous ne l’étiez ce soir-là.
 
@@ -56,7 +56,7 @@ Tirez, et décrivez la carte à voix haute avant d’interpréter quoi que ce so
 
 Même réponse, avec une raison de plus. Lire pour quelqu’un, c’est ressentir ce que la personne ressent tout en gardant ses propres émotions. Quand vous êtes déjà plein des vôtres, il ne reste plus de place : votre humeur déborde dans ce que vous dites, et la personne entend votre soirée plutôt que ses cartes.
 
-Reportez. « Je ne suis pas en état de vous tirer les cartes ce soir » est une phrase complète. Même les bons jours, il m’arrive de m’arrêter après deux heures de lectures, par prudence. Un mauvais jour, je préfère ne pas commencer.
+Reportez. « Je ne suis pas en état de vous tirer les cartes ce soir » est une phrase complète. Même les bons jours, je m’interdis parfois de dépasser deux heures de lectures. Un mauvais jour, je préfère ne pas commencer.
 
 ## Quand c’est plus que de la peine {#plus-que-de-la-peine}
 

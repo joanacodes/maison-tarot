@@ -43,7 +43,7 @@ Le [Sept de Coupes](/fr/bibliotheque/cartes-tarot/sept-de-coupes/) : un personna
 
 Le Quatre de Bâtons : quatre bâtons reliés par une guirlande, des gens qui font la fête derrière. Le quatre, ce sont les fondations, le fruit de votre travail ; pour moi cette carte, ce sont des racines, une maison qu’on construit. Elle ne dit pas « allez-y ». Elle demande si ce poste construit quelque chose où vous auriez envie de vivre.
 
-Le Deux d’Épées : une femme aux yeux bandés, deux épées croisées contre la poitrine, la mer derrière elle. [Le deux est le chiffre du contrat](/fr/bibliotheque/numerologie/chiffre-2/), et son conseil, c’est de lire le contrat et de peser le pour et le contre. La carte dit : vous refusez de regarder. Enlevez le bandeau, puis décidez.
+Le Deux d’Épées : une femme assise, un bandeau sur le regard, garde deux lames croisées sur son cœur, dos à la mer. [Le deux est le chiffre du contrat](/fr/bibliotheque/numerologie/chiffre-2/), et il conseille de bien lire ce qu’on signe, en mettant avantages et inconvénients dans la balance. La carte dit : vous refusez de regarder. Enlevez le bandeau, puis décidez.
 
 Aucune des trois n’est un verdict. Chacune donne une direction et une condition, ce qu’un oui ne fera jamais.
 

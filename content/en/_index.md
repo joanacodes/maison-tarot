@@ -27,7 +27,7 @@ offers:
     details:
       - { q: "What’s included", a: "One hour by video, one spread read by both of us, the lenses we used sent in writing afterwards. No subscription." }
       - { q: "How it goes", a: "You tell me nothing. We draw, you read first, I read after, we compare." }
-      - { q: "Price", a: "£60 for the hour, tax included. A session makes a good gift." }
+      - { q: "Price", a: "One hour costs £60, taxes included. A session makes a good gift." }
   - kicker: "in a group · 3 h · 12 people"
     title: "Workshops"
     text: "One lens per workshop: colours, numbers, elements and energies. At the end you read an unknown card in front of the others."
@@ -57,6 +57,6 @@ whereTitle: "Where Maison Tarot welcomes you, in English"
 ---
 Welcome to Maison Tarot. This is a house where you learn to read the cards, check whether it works, and keep what holds up.
 
-I’ve done 300 readings for strangers who told me nothing, kept count, and I publish the numbers — misses included. I don’t sell a gift, because I haven’t got one you don’t have. I teach a method: lenses for reading a card you’ve never seen, without memorising all 78.
+I’ve done 300 blind readings for strangers, kept count, and I publish the numbers — misses included. I don’t sell a gift, because I haven’t got one you don’t have. I teach a method: lenses for reading a card you’ve never seen, without memorising all 78.
 
-Maison Tarot has rules. No ranks among readers, no dependency, no guru. You’re the one who decides; the cards are only a screen. The goal, in plain words: that you stop needing us.
+Maison Tarot has rules. No ranks among readers, no dependency, no guru. You’re the one who decides, not the deck. The goal, in plain words: that you stop needing us.

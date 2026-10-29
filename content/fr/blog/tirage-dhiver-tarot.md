@@ -15,7 +15,7 @@ Les semaines les plus sombres de l’année n’appellent pas un grand tirage. E
 
 ## Qu’est-ce qu’une lecture lente ? {#lecture-lente}
 
-Une lecture lente est un tirage qu’on pose sur plusieurs jours au lieu de le poser d’un coup. Vous tirez une carte par soir, dans l’ordre des positions, et vous la lisez seule : ce qu’il y a dessus, ce que vous voyez, ce qui vient. Le lendemain soir, vous tirez la suivante et vous la lisez à côté de la première.
+Une lecture lente est un tirage qu’on pose sur plusieurs jours au lieu de le poser d’un coup. Vous tirez une carte par soir, dans l’ordre des positions, et vous la lisez seule : la scène, les détails qui vous arrêtent, ce qui vous vient. Le lendemain soir, vous tirez la suivante et vous la lisez à côté de la première.
 
 Imaginons que vous commenciez au solstice d’hiver, le 21 ou le 22 décembre dans l’hémisphère nord, la nuit la plus longue de l’année. Au cinquième soir, vous avez un tirage complet, et chaque carte a eu une journée pour se déposer avant que la suivante la rejoigne. Si vous lisez depuis La Réunion ou Nouméa, les semaines les plus sombres tombent en juin, et le tirage marche tout aussi bien à ce moment-là.
 
@@ -41,7 +41,7 @@ Imaginons quelqu’un qui tire, sur cinq soirs, le Cinq de Pentacles, le Quatre 
 
 {{< cards "pe05 wa04 pe07 ar09 peac" >}}
 
-*Ce que l’année a usé :* le Cinq de Pentacles, deux silhouettes qui marchent dans la neige, l’une sur des béquilles, devant un vitrail éclairé. Dans mes notes, c’est la pauvreté, la neige, et l’église où l’on pourrait trouver de la chaleur. Fatigué, transi — et en train de passer devant l’aide qui est juste là.
+*Ce que l’année a usé :* le Cinq de Pentacles, deux silhouettes qui marchent dans la neige, l’une sur des béquilles, devant un vitrail éclairé. Mes notes y voient le dénuement et l’hiver, à deux pas d’une église qui pourrait les réchauffer. Fatigué, transi — et en train de passer devant l’aide qui est juste là.
 
 *Ce qui me tient chaud :* le Quatre de Bâtons, des guirlandes tendues entre quatre bâtons et des personnes qui lèvent des bouquets devant un château. Dans mes notes : les fondations, le mariage, fonder une famille. La maison, et ceux qui l’habitent.
 
@@ -57,7 +57,7 @@ Trois Pentacles sur cinq : cet hiver parle du corps et des choses pratiques. La 
 
 Dans ma grille des couleurs, [le noir](/fr/bibliotheque/couleurs-tarot/noir/), c’est l’absence et le vide, mais aussi vider son esprit, et la réalité : la chose nue, sans vernis. Les semaines sombres peuvent faire cela aussi. Moins d’heures de lumière, moins de projets, un peu plus de vérité.
 
-J’attendais toujours qu’une lumière s’allume avant d’entrer dans une pièce sombre ; allumer partout la nuit, c’était vivre dans la peur sans m’en rendre compte. Aujourd’hui, je marche chez moi lumières éteintes, et un bruit dans la nuit ne m’effraie pas. J’ai raconté ce qui a changé, et le lien avec le travail sur l’ombre, dans [peur du noir](/fr/blog/peur-du-noir/).
+Longtemps, je n’osais pas franchir le seuil d’une pièce obscure sans allumer d’abord, et la nuit, tout restait éclairé : une peur que je ne voyais même pas. Désormais, je circule chez moi dans le noir, et les bruits nocturnes me laissent tranquille. J’ai raconté ce qui a changé, et le lien avec le travail sur l’ombre, dans [peur du noir](/fr/blog/peur-du-noir/).
 
 La limite honnête : un tirage ne soulage pas un moral lourd. Si les semaines sombres vous pèsent chaque année plus que le repos ne peut le réparer, parlez-en à votre médecin ; c’est une question pour une personne, pas pour un jeu de cartes.
 

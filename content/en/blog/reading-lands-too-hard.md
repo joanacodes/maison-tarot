@@ -19,7 +19,7 @@ The signs are usually small. The person repeats your words back as a verdict: "S
 
 The way I read gives me every reason to look for them. The person tells me nothing before I start, so I don't know where the sore spots are, and a card can land on one I had no way of seeing. That isn't a reason to read more timidly. It's a reason to watch the person as closely as the cards; [the silence rule](/blog/the-silence-rule/) comes with that responsibility.
 
-Often it isn't the card so much as your sentence. My own note on the Five of Cups calls it the most negative card of the lot: losing, dark emotion, being alone with your problems. That's a fair note for a notebook. Said out loud to someone, on its own, it can sound like a sentence passed on their life.
+Often it isn't the card so much as your sentence. My own note puts the Five of Cups at the very bottom of the deck: loss, dark feeling, and nobody beside you. That's a fair note for a notebook. Said out loud to someone, on its own, it can sound like a sentence passed on their life.
 
 {{< cards "cu05" >}}
 
@@ -37,9 +37,9 @@ One thing not to do belongs to this moment in particular: don't take back what w
 
 Lower your voice. Put the cards down for a moment. Then go back to the card, slower, and read it through a lens instead of a keyword. A hard landing usually means you gave one word and only half of the card.
 
-Take the Five of Cups again. The keyword was loss. Through its number, the card gets wider: five, in my [number table](/library/numerology/number-5/), is conflict and trying, not being afraid to fail, accepting mistakes, making do with what's left. Then the picture: a figure in a dark cloak looking down at three spilled cups, and behind them two still standing, and a bridge over the river. The slower version: "You're looking at what spilled. Behind you, two are still standing, and there's a way across. Which would you like to look at first?" Same card, same truth, with a door in it.
+Take the Five of Cups again. The keyword was loss. Through its number, the card gets wider: five, in my [number table](/library/numerology/number-5/), covers conflict and attempts, daring to fail, owning your mistakes, getting by on what remains. Then the picture: a figure in a dark cloak looking down at three spilled cups, and behind them two still standing, and a bridge over the river. The slower version: "You're looking at what spilled. Behind you, two are still standing, and there's a way across. Which would you like to look at first?" Same card, same truth, with a door in it.
 
-Or the Nine of Swords: a figure sitting up in bed, face in hands, nine swords lined up in the dark behind. Heard alone, it's a nightmare. My note reads it as coming out of a nightmare, the end of a long, troubled stretch, with protection above you. That isn't sugar. It's the half of the card you hadn't said yet.
+Or the Nine of Swords: a figure sitting up in bed, face in hands, nine swords lined up in the dark behind. Heard alone, it's a nightmare. My note reads it as surfacing from the nightmare rather than being stuck in it: a troubled season closing, with something guarding you from above. That isn't sugar. It's the half of the card you hadn't said yet.
 
 {{< cards "sw09" >}}
 

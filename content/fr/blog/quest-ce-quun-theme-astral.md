@@ -27,8 +27,8 @@ En astrologie, on range le Soleil et la Lune parmi les « planètes », ce qui f
 
 | Planète | Ce qu’elle décrit |
 | --- | --- |
-| Soleil | Votre centre, ce autour de quoi vous organisez votre vie |
-| Lune | Ce que vous ressentez quand personne ne regarde |
+| Soleil | Votre noyau, l’axe sur lequel votre vie s’organise |
+| Lune | Ce que vous éprouvez en privé, loin des regards |
 | Mercure | Votre façon de penser et de parler |
 | Vénus | Ce que vous aimez, et comment |
 | Mars | Votre façon d’agir et de vous battre |
@@ -40,7 +40,7 @@ En astrologie, on range le Soleil et la Lune parmi les « planètes », ce qui f
 
 La plupart des thèmes affichent aussi deux points que je regarde de près : Lilith, un point calculé (ce que vous avez appris à cacher), et Chiron, un petit corps entre Saturne et Uranus (la blessure autour de laquelle vous tournez).
 
-La vitesse compte. La Lune change de signe tous les deux jours et demi, le Soleil tous les mois, Jupiter tous les ans, Saturne tous les deux ans et demi ; Uranus, Neptune et Pluton restent sept ans ou davantage. Toute votre classe de CP partage ces planètes lentes : elles parlent d’une génération plus que de vous.
+La vitesse compte. La Lune passe d’un signe à l’autre en deux jours et demi environ, le Soleil tous les mois, Jupiter tous les ans, Saturne tous les deux ans et demi ; Uranus, Neptune et Pluton restent sept ans ou davantage. Toute votre classe de CP partage ces planètes lentes : elles parlent d’une génération plus que de vous.
 
 ## Les signes : le comment {#signes}
 
@@ -52,12 +52,12 @@ Mercure en Gémeaux pense donc vite et à voix haute ; Mercure en Vierge analyse
 
 ## Les maisons : le où {#maisons}
 
-Les maisons sont douze parts du ciel, calculées à partir de votre heure et de votre lieu de naissance. Chacune correspond à un domaine de la vie. La première commence à l’ascendant, le signe qui se levait à l’horizon, côté est, à la minute de votre naissance ; j’y reviens dans [quel est mon ascendant](/fr/blog/quel-est-mon-ascendant/).
+Les maisons sont douze parts du ciel, calculées à partir de votre heure et de votre lieu de naissance. Chacune correspond à un domaine de la vie. La première commence à l’ascendant, c’est-à-dire au signe qui montait sur l’horizon oriental à l’instant de votre naissance ; j’explique [comment trouver le vôtre](/fr/blog/quel-est-mon-ascendant/).
 
 | Maison | Domaine de la vie |
 | --- | --- |
 | I | Vous-même, l’impression que vous donnez |
-| II | L’argent, ce que vous possédez, ce qui a de la valeur pour vous |
+| II | L’argent, vos biens, ce à quoi vous tenez |
 | III | La communication, les frères et sœurs, les petits trajets |
 | IV | Le foyer, la famille, les racines |
 | V | Le plaisir, la création, les amours, les enfants |
@@ -87,7 +87,7 @@ Disons que quelqu’un a la Lune au carré de Saturne. Le besoin de réconfort (
 
 ## Obtenir le vôtre, et par où commencer {#obtenir-le-votre}
 
-1. Trouvez votre heure de naissance, la plus précise possible : l’ascendant change à peu près toutes les deux heures, et les maisons avec lui. Demandez à votre famille ou regardez votre acte de naissance : en France, l’heure y figure, et vous pouvez en demander une copie intégrale à la mairie de votre lieu de naissance. Ailleurs, ça dépend du pays ; en Angleterre, par exemple, elle n’y est généralement pas.
+1. Trouvez votre heure de naissance, la plus précise possible : l’ascendant glisse d’un signe au suivant en deux heures environ, et les maisons suivent. Demandez à votre famille ou regardez votre acte de naissance : en France, l’heure y figure, et vous pouvez en demander une copie intégrale à la mairie de votre lieu de naissance. Ailleurs, ça dépend du pays ; en Angleterre, par exemple, elle n’y est généralement pas.
 2. Allez sur un site de thème astral gratuit. J’utilise Astro-Seek. Entrez votre date, votre heure et votre ville de naissance.
 3. Imprimez le thème, ou enregistrez-le là où vous le retrouverez.
 

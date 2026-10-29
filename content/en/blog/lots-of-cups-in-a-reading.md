@@ -17,9 +17,9 @@ That’s the first impression. The numbers on the Cups tell you which way the wa
 
 ## What a spread full of Cups is saying {#what-it-means}
 
-The [Water element](/library/four-elements/water-element/) covers emotions, relationships and what feeds you from the inside. We are mostly made of water; it carries us from A to B when we let it, and it can drown us. A spread crowded with Cups says that this is the plane everything is happening on.
+The [Water element](/library/four-elements/water-element/) covers emotions, relationships and what feeds you from the inside. We are mostly made of water; it moves us along when we stop resisting, and it can also swallow us. A spread crowded with Cups says that this is the plane everything is happening on.
 
-Say someone sits down, tells you nothing, and three of their five cards are Cups. Afterwards they tell you the question was about their job. The reading hasn’t gone off-topic. It’s saying the job question is really about the people there, or about how they feel walking in each morning.
+Picture a five-card spread for someone who has kept their question to themselves, with three Cups in it. Afterwards they tell you the question was about their job. The reading hasn’t gone off-topic. It’s saying the job question is really about the people there, or about how they feel walking in each morning.
 
 Cups also mean more than romance. Friends, family, colleagues, the way you treat yourself: all of it is Water. If you want the cards that really speak about couples, I’ve gathered them in [tarot cards for love](/blog/tarot-cards-for-love/).
 
@@ -33,7 +33,7 @@ So one Cup in five cards is ordinary, and you don’t need to comment on it. Thr
 
 Once you know the reading is emotional, the [numbers](/library/numerology/) say where the feeling stands in its cycle.
 
-Low numbers, Ace to Three, are something beginning or flowing well: a new feeling, a bond agreed between two people, a celebration. The middle, Four to Seven, is the water being tested. The [Five of Cups](/library/tarot-cards/five-of-cups/) is, in my notes, the most negative card in the deck: loss, dark emotion, being alone with your problems — and still, two cups stand behind the figure. The Six of Cups is childhood, time for yourself, flowering again. The Seven of Cups is indecision, too many choices floating in a cloud.
+Low numbers, Ace to Three, are something beginning or flowing well: a new feeling, a bond agreed between two people, a celebration. The middle, Four to Seven, is the water being tested. The [Five of Cups](/library/tarot-cards/five-of-cups/) ranks as the darkest card of all in my notes, loss and heavy feeling carried alone — and still, two cups stand behind the figure. The Six of Cups is childhood, time for yourself, flowering again. In the Seven of Cups, the mind can’t settle: options float in a cloud.
 
 High numbers, Eight to Ten, are closings. The Eight of Cups is moving on from what you’re already doing. The Ten of Cups is happiness and family, the whole household under a rainbow.
 
@@ -45,7 +45,7 @@ Court cards of Cups are people, or ways of behaving, in the emotional field. The
 
 Look at the drawings before you look at the meanings. Water pours out of the Ace. Three cups lie spilled in the Five. Cups float in a cloud in the Seven. In the Eight they’re left stacked behind a walking figure.
 
-Moving water is strong emotion; calm water is emotion that has settled. And water has one more habit: it seeps into anything, given time. A neglected emotion can damage the foundations, like mould slowly eating a house. Fire destroys at once; neglected water destroys deeper and over longer.
+Water in motion means feelings running high; still water means feelings that have calmed. Water also gets into everything if you leave it long enough: an emotion nobody tends to undermines a life the way mould slowly works through a house. A fire wrecks things in one go; ignored water does its damage slowly and reaches further down.
 
 So when heavy Cups pile up, the useful question isn’t “what disaster is coming?” It’s “what has been leaking for a long time without being fixed?”
 

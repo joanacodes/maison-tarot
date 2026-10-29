@@ -25,9 +25,9 @@ What it gives you, in short, is knowledge. Reading is something else.
 
 ## What only practice can teach {#what-practice-teaches}
 
-When I first made my friends and family try reading, I watched the same thing happen again and again: they'd say something true about the person in front of them, and then be shocked by what they'd said. No page can produce that moment, because it isn't information.
+When I first made my friends and family try reading, I watched the same thing happen again and again: they'd hit on something true about whoever sat across the table, then be amazed at what had come out of their mouths. No page can produce that moment, because it isn't information.
 
-My own start went the same way. My friends gave me my first deck for Christmas 2020, I started reading on 26 December, and my first reading was accurate. I'd assumed I'd need training first.
+My own start went the same way: a gift from friends that Christmas, a first reading on Boxing Day 2020, and it landed, with no study behind it at all.
 
 Practice teaches the things a book can only name. Letting go, which is the only real practice there is. Which channel your impressions come through — images, words, sounds, a feeling in the body. When to say something gently, or differently, because the person isn't ready. And, most of all, **when you're wrong — which no book can tell you, because the book isn't in the room.**
 
@@ -39,16 +39,16 @@ Say someone draws the Five of Cups.
 
 {{< cards "cu05" >}}
 
-The book says grief, loss, the most negative card in the suit — and my own notes say much the same. But as you look, your eye goes to the two cups still standing behind the figure, and that's what comes out of your mouth. It's what the person needed to hear. The book wasn't wrong. It wasn't the reading, that's all.
+The book says grief, loss, the most negative card in the suit — and my own notes say much the same. But as you look, your eye drifts to the pair of cups left upright behind the figure, and that's what comes out of your mouth. It's what the person needed to hear. The book wasn't wrong. It wasn't the reading, that's all.
 
-The same image can read differently from one person to another, and from one day to the next. And two books will often disagree about the same card — which tells you something about [what tarot readers actually disagree on](/blog/what-tarot-readers-disagree-about/), and why no single author can be your last word.
+Two books will often disagree about the same card, much as two readers, or one reader on a Monday and a Friday, can find different things in it — which tells you something about [what tarot readers actually disagree on](/blog/what-tarot-readers-disagree-about/), and why no single author can be your last word.
 
 ## How to use a tarot book well {#use-a-book-well}
 
 Put the book after the card, not before it.
 
-1. Look first. Draw one card and describe it out loud: what's on it, what you see, what you receive. Only then open the book and compare.
-2. One card a day, then three, then more. That's how I tell people to get familiar with a deck, and it's how the [daily one-card pull](/blog/one-card-tarot-pull/) works.
+1. Look first. Draw one card and describe it out loud: the drawing, what catches your eye, whatever comes to you. Only then open the book and compare.
+2. Begin with one card daily, move up to three, then to bigger spreads. That's how I tell people to get familiar with a deck, and it's how the [daily one-card pull](/blog/one-card-tarot-pull/) works.
 3. One lens at a time. Read the chapter on numbers and spend a week on numbers; then elements. Don't swallow the whole book in one sitting.
 4. Keep a notebook. What you said, what was confirmed. It becomes the book only you could write — here's [how I keep mine](/blog/tarot-journal/).
 5. Read for someone who tells you nothing. That's where a book's meanings get tested against a real person.
@@ -65,4 +65,4 @@ That's all. Two books, a guide, and a lot of cards on a lot of tables.
 
 ## Close the book, open the deck {#next-step}
 
-Tonight, draw one card and say what you see before you check a single meaning. Then read what the book says and notice where you agree. If you'd like to try it with people around you, the [workshops](/workshops/) begin with a card in the first ten minutes and the explanation afterwards — on purpose.
+Tonight, draw one card and say what you see before you check a single meaning. Then read what the book says and notice where you agree. If you'd like to try it with people around you, the [workshops](/workshops/) have you reading before you've been taught anything, and the explaining comes after — on purpose.

@@ -59,7 +59,7 @@ gallery:
 ---
 ## What 3 says {#definition}
 
-**3 is cadence.** The machine running, the contract working, siblings on good terms. Three is the cadence found: it works, and it shows. In the [cycle of numbers](/library/numerology/) it comes after 2 and prepares 4.
+**3 is cadence.** The machine running, the contract working, siblings on good terms. Three is the cadence found: it works, and it shows. It follows the contract of 2 and leads to the structure of 4 in [the ten-step cycle](/library/numerology/).
 
 ## The advice of 3 {#advice}
 
@@ -81,6 +81,6 @@ Instagram's launch works. People sign up, post, come back. Nothing is won yet (s
 
 ## In a reading {#reading}
 
-A 3 in a spread says: **it works, and it shows.** The Three of Cups celebrates, the Three of Pentacles builds together, the Three of Wands watches its ships leave, the Three of Swords — the only painful 3 — shows that when three hearts are involved, the cadence can also break. The Empress is the 3 that produces: fertility in the widest sense.
+Draw a 3 and the message is plain: **it works, and it shows.** The Three of Cups celebrates, the Three of Pentacles builds together, the Three of Wands watches its ships leave, the Three of Swords — the only painful 3 — shows that when three hearts are involved, the cadence can also break. The Empress is the 3 that produces: fertility in the widest sense.
 
 {{% six %}}

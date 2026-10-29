@@ -15,8 +15,8 @@ tags:
 - La Roue de Fortune
 - thème astral
 h1: Jupiter — <em>La Roue de Fortune</em>
-lede: 'Jupiter dit où l’on a de la chance, ou ce qu’on prend pour de la chance : l’expansion,
-  la confiance, la générosité, l’excès.'
+lede: 'Avec Jupiter, tout prend de l’ampleur : la confiance, la générosité, l’expansion
+  — et, à force, l’excès.'
 related:
 - /bibliotheque/astrologie
 - /bibliotheque/cartes-tarot/la-roue-de-fortune
@@ -57,7 +57,7 @@ gallery:
 ---
 ## Ce qu’il fait dans un thème {#theme}
 
-Jupiter dit où l’on a de la chance, ou ce qu’on prend pour de la chance : l’expansion, la confiance, la générosité, l’excès. Il reste un an par signe, donc tout le monde né la même année partage le sien — ce qui limite ce qu’il peut dire d’une personne en particulier. Signe régi : Sagittaire.
+Dans un thème, Jupiter montre le domaine où la chance semble vous suivre, ou du moins ce qui y ressemble : l’expansion, la confiance, la générosité, l’excès. Il reste un an par signe, donc tout le monde né la même année partage le sien — ce qui limite ce qu’il peut dire d’une personne en particulier. Signe régi : Sagittaire.
 
 ## Les cartes qui le portent {#cartes}
 

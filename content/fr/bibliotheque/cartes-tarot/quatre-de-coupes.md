@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/cu04.webp
 h1: Quatre de Coupes — <em>quatre</em>, l’Eau
-lede: 'Avant de chercher ce que « signifie » Quatre de Coupes, regardez ce que vous
-  avez déjà : quatre, l’élément Eau, Lune en Cancer. Vous lisez la carte. Le nombre
-  dit quatre — les fondations, la stabilité ; l’élément dit les émotions, ce qui circule.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Au pied d’un arbre, bras noués sur la poitrine, un jeune homme fixe les trois coupes posées dans l’herbe et ignore la quatrième, tendue par une main sortie d’un nuage. Quelle proposition attend au bord de votre regard ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-eau
@@ -67,9 +63,9 @@ Et le [gris](/fr/bibliotheque/couleurs-tarot/gris/) du petit nuage d’où sort 
 
 ## Par l’astrologie : Lune en Cancer {#astrologie}
 
-Dans la tradition Golden Dawn, le Quatre de Coupes correspond au troisième décan du Cancer, gouverné par la Lune. La [Lune](/fr/bibliotheque/astrologie/lune/), ici, c’est l’humeur qu’il garde pour lui sous son arbre. Le Cancer, signe que gouverne la Lune, c’est *Je sens* : la protectrice qui absorbe et contient. Ensemble : quelqu’un de tourné vers l’intérieur, qui ressent beaucoup et montre peu, qui garde ce qu’il a plutôt que de tendre la main vers autre chose.
+C’est la Lune qui gouverne le troisième décan du Cancer, auquel on rattache le Quatre de Coupes. La [Lune](/fr/bibliotheque/astrologie/lune/), ici, c’est l’humeur qu’il garde pour lui sous son arbre. Le Cancer, signe que gouverne la Lune, c’est *Je sens* : la protectrice qui absorbe et contient. Ensemble : quelqu’un de tourné vers l’intérieur, qui ressent beaucoup et montre peu, qui garde ce qu’il a plutôt que de tendre la main vers autre chose.
 
-Facultatif : les bras croisés l’ont déjà dit.
+Si l’astrologie vous laisse froid, ses bras croisés racontent la même chose.
 
 ## En lecture {#lecture}
 
@@ -77,7 +73,7 @@ Facultatif : les bras croisés l’ont déjà dit.
 
 Renversé, le Quatre de Coupes montre un jeune homme qui relève la tête. Soit il voit enfin la coupe et tend la main — fin de la bouderie, l’énergie revient —, soit, dans l’excès, il a tellement hâte de sortir de l’ennui qu’il prend la première coupe venue sans regarder ce qu’il y a dedans.
 
-À côté du [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/), l’ennui devient un départ : passer à autre chose que ce qu’on fait déjà. À côté du [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/), l’immobilité est un repos nécessaire, pas une bouderie. À côté du [Pendu](/fr/bibliotheque/cartes-tarot/le-pendu/), la pause est choisie, et quelque chose se voit autrement depuis là où il est.
+À côté du [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/), l’ennui devient un départ : on se lève, et on laisse les coupes derrière soi. À côté du [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/), l’immobilité est un repos nécessaire, pas une bouderie. À côté du [Pendu](/fr/bibliotheque/cartes-tarot/le-pendu/), la pause est choisie, et quelque chose se voit autrement depuis là où il est.
 
 {{< cards "cu08 sw04 ar12" >}}
 
@@ -85,6 +81,6 @@ Renversé, le Quatre de Coupes montre un jeune homme qui relève la tête. Soit 
 
 Envisagez le Quatre de Coupes suivi de l’[As de Bâtons](/fr/bibliotheque/cartes-tarot/as-de-batons/), dans un tirage qui n’existe que sur cette page. Quatre puis un : une situation installée, puis un nouveau départ. L’Eau puis le Feu : des émotions calmes, puis un coup d’élan. Les couleurs : le bleu et le vert du Quatre, puis un bâton vivant qui pousse des feuilles vertes — tendu lui aussi par une main sortie d’un nuage, le même geste, version Feu.
 
-La phrase que je dirais à voix haute : « Votre vie est bien installée et vous vous y ennuyez un peu, et on vous a proposé quelque chose de nouveau — une idée, une offre, une invitation — que vous avez mis de côté sans vraiment regarder. »
+L’ennui sous l’arbre, suivi du bâton qui bourgeonne, s’entendrait ainsi : « Votre vie est bien installée et vous vous y ennuyez un peu, et on vous a proposé quelque chose de nouveau — une idée, une offre, une invitation — que vous avez mis de côté sans vraiment regarder. »
 
-Pour vérifier, je demande : « Est-ce qu’on vous a proposé quelque chose récemment que vous n’avez pas pris au sérieux ? » Si la réponse est oui, la question suivante appartient à la personne : en a-t-elle envie ? Si c’est non, c’est un raté, et je ne vais pas chercher une coupe ailleurs pour le sauver.
+Puis je pose une question ouverte : « Est-ce qu’on vous a proposé quelque chose récemment que vous n’avez pas pris au sérieux ? » Si la réponse est oui, la suite appartient à la personne : en a-t-elle envie ? Si c’est non, la main du nuage tendait sa coupe à quelqu’un d’autre, et je ne vais pas en chercher une ailleurs pour sauver la phrase.

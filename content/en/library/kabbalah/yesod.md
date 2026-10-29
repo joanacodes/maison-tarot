@@ -44,7 +44,7 @@ On the Golden Dawn’s ladder of grades, Yesod became the second step, Theoricus
 | [Nine of Swords](/library/tarot-cards/nine-of-swords/) | Lord of Despair and Cruelty (Mars in Gemini) | every worry passing through one head at night |
 | [Nine of Pentacles](/library/tarot-cards/nine-of-pentacles/) | Lord of Material Gain (Venus in Virgo) | the garden that took years, finally enjoyed |
 
-As a number, [nine](/library/numerology/number-9/) is the finish line, the end of a stage, last efforts, introspection, patience — but keep moving. In my notes, the Nine of Pentacles is enjoying what comes, grateful for everything you have; the Nine of Swords is coming out of a nightmare, a long troubled period, with protection above you. Yesod adds the gathering. Through this lens, a Nine is everything the cycle has built, collected in one place before it lands.
+As a number, [nine](/library/numerology/number-9/) means a stage is about to close: final efforts, introspection, patience — but keep moving. In my notes, the Nine of Pentacles is enjoying what comes, grateful for everything you have; the Nine of Swords is a bad dream ending after a long, hard spell, with something protecting you from above. Yesod adds the gathering. Through this lens, a Nine is everything the cycle has built, collected in one place before it lands.
 
 ## Yesod and astrology: the Moon {#astrology}
 

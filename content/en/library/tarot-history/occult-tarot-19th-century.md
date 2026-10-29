@@ -35,7 +35,7 @@ The idea wasn’t entirely new: the Comte de Mellet had already linked the trump
 
 ## What the Kabbalah is, and what was borrowed {#kabbalah}
 
-The Kabbalah is a Jewish mystical tradition. One of its early texts, *Sefer Yetzirah*, sorts the twenty-two letters of the Hebrew alphabet into three “mothers”, seven “doubles” and twelve “simples”, and ties them to the elements, the planets and the signs of the zodiac. Its diagram of ten spheres joined by paths, the [Tree of Life](/library/kabbalah/tree-of-life/), became the occultists’ favourite map.
+The Kabbalah is a Jewish mystical tradition. One of its early texts, *Sefer Yetzirah*, sorts the twenty-two Hebrew letters into three “mothers”, seven “doubles” and twelve “simples”, and ties them to the elements, the planets and the signs of the zodiac. Its diagram of ten spheres joined by paths, the [Tree of Life](/library/kabbalah/tree-of-life/), became the occultists’ favourite map.
 
 **The Kabbalah doesn’t contain tarot; tarot readers borrowed from the Kabbalah.** That is worth saying plainly and respectfully. The letters, the spheres and their meanings belong to a living Jewish tradition. Laying cards on them is a 19th-century occult idea, and the two shouldn’t be confused.
 

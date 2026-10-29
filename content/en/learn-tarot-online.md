@@ -80,4 +80,4 @@ When we meet around a real table, it's in [Paris](/tarot-paris/), where I live, 
 
 ## Before you book {#before}
 
-You'll need a Rider-Waite-Smith deck; [which edition to get](/blog/best-tarot-deck-for-beginners/) matters less than people think. Everything here is for adults, and some subjects stay off the table wherever you are: [what I don't read on](/disclaimers/#refusals).
+Keep your own Rider-Waite-Smith deck at hand; [which edition to get](/blog/best-tarot-deck-for-beginners/) matters less than people think. Everything here is for adults, and some subjects stay off the table wherever you are: [what I don't read on](/disclaimers/#refusals).

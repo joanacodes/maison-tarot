@@ -29,15 +29,15 @@ Celle-là s’est installée sans que je m’en aperçoive. Dans mes notes de 20
 
 Ça a l’air plus impressionnant que ça ne l’est. Les cartes vous aident à vous concentrer, ou à vous déconcentrer, pour que vos propres pensées et vos biais s’écartent. Après assez de tirages, une partie de ça se fait sans elles, un peu comme on finit par faire la pâte à crêpes sans balance. Je me demande ailleurs si [on a encore besoin des cartes quand on sait lire](/fr/blog/a-t-on-besoin-des-cartes/), et pourquoi les miennes restent sur la table.
 
-**Ce n’est pas un pouvoir que j’aurais et pas vous : c’est à quoi ressemble la pratique après quelques centaines de tirages.** Toutes les personnes que j’ai aidées à lire y sont arrivées en un à trois essais. Ceci n’est que la suite du même chemin.
+**Ce n’est pas un pouvoir que j’aurais et pas vous : c’est à quoi ressemble la pratique après quelques centaines de tirages.** Je n’ai jamais vu quelqu’un que j’aidais rester bloqué au-delà d’un troisième essai. Ceci n’est que la suite du même chemin.
 
 Si vous lisez déjà, vous pouvez l’observer chez vous. Avant de mélanger, écrivez une ligne : ce que vous avez en tête au sujet de la personne. Puis faites le tirage comme d’habitude. Après, comparez la ligne avec ce qu’ont dit les cartes et avec ce que la personne a confirmé. Certains jours, la ligne ne sera rien. D’autres jours, ce sera le tirage.
 
 ## L’homme qui m’a demandé si j’étais magicienne {#magicienne}
 
-Pendant un temps, je me suis exercée sur une application de correspondance, en envoyant des « lettres » à des inconnus. Un homme m’a répondu pour savoir si je lisais dans les pensées, ou si j’étais magicienne.
+Pendant un temps, je me suis exercée sur une application de correspondance, en envoyant des « lettres » à des inconnus. Un homme m’a répondu par une question : est-ce que je voyais dans sa tête, ou est-ce que j’étais magicienne ?
 
-Ça m’a fait rire. C’est aussi une question légitime de la part de quelqu’un qui vient de recevoir une lettre sur sa vie, écrite par une personne qu’il n’a jamais vue. Une lettre est une drôle de façon de lire : pas de visage, pas de voix, aucune réaction sur laquelle s’appuyer. Ce qui tombe juste tombe juste sans votre aide. Je raconte davantage [les endroits où j’ai trouvé des personnes à qui tirer les cartes](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/), lettres comprises.
+J’ai ri. Et puis, à sa place, qui ne se la poserait pas, en découvrant sa propre vie sous la plume d’une inconnue ? Une lettre est une drôle de façon de lire : pas de visage, pas de voix, aucune réaction sur laquelle s’appuyer. Ce qui tombe juste tombe juste sans votre aide. Je raconte davantage [les endroits où j’ai trouvé des personnes à qui tirer les cartes](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/), lettres comprises.
 
 Alors non, je ne suis pas magicienne, et je ne lis pas dans les pensées. Ma définition de travail de la magie, ce sont les choses dont on sait qu’elles existent mais qu’on n’arrive pas à expliquer. Un inconnu qui reçoit une lettre qui colle à sa semaine se range quelque part là-dedans, et ça me va très bien de le laisser inexpliqué.
 
@@ -63,4 +63,4 @@ Une histoire marque parce qu’elle sort de l’ordinaire. Les tirages ordinaire
 
 ## Commencez votre propre liste {#prochaine-etape}
 
-Tenez un carnet : à gauche ce que vous avez dit, à droite ce qui a été confirmé, et une troisième colonne pour tout ce qui vous a paru bizarre. Dans un an, vous aurez votre propre liste d’histoires étranges, et les chiffres pour la garder à sa juste place. Voici [comment je tiens mon carnet de tirages](/fr/blog/carnet-de-tirage-tarot/).
+Tenez un carnet en trois colonnes : ce que vous avancez, ce qui se confirme, et tout ce qui vous a paru bizarre. Dans un an, vous aurez votre propre liste d’histoires étranges, et les chiffres pour la garder à sa juste place. Voici [comment je tiens mon carnet de tirages](/fr/blog/carnet-de-tirage-tarot/).

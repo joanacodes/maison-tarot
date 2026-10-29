@@ -15,7 +15,7 @@ Yes, reading tarot is legal in France and in the UK, and in neither country is t
 
 ## France: legal since 1994 {#france}
 
-France's old penal code made a trade of fortune-telling a minor offence, under its article R. 34-7. That article disappeared when the new penal code came into force on 1 March 1994. Since then, fortune-telling has been a free commercial activity with no rules of its own: no diploma, no professional body, no licence.
+France's old penal code made a trade of fortune-telling a minor offence, under its article R. 34-7. That article disappeared when the new penal code came into force on 1 March 1994. Since then, fortune-telling has been an open trade, governed by no law of its own: no diploma, no professional body, no licence.
 
 That isn't my interpretation. A French MP raised it in a written question in 2023, and the government confirmed in [its answer](https://questions.assemblee-nationale.fr/q16/16-6608QE.htm) that fortune-telling is a legal activity. The same answer quotes the agency that monitors cult-like abuses, which says it passes no judgement on beliefs as such.
 
@@ -43,7 +43,7 @@ The line is usually traced back to the 1951 Act's entertainment exemption, and i
 
 Where a rule does exist is on British television. [Ofcom's broadcasting code](https://ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-two-harm-offence) says that when divination is shown as entertainment, this must be made clear to viewers and listeners, and that such programmes must not give individuals life-changing advice — on health, finance, employment or relationships. That last rule is close to my own list of subjects I leave out.
 
-The notice doesn't make a misleading sale legal. A reader who writes "for entertainment only" and then sells you a curse removal is still selling you a curse removal. I've explained elsewhere why [I like the notice anyway](/blog/entertainment-purposes-only/): it's honest about what a reading is. By my own count, about one reading in ten misses, and I'd rather that was said on the door than discovered afterwards.
+The notice doesn't make a misleading sale legal. A reader who writes "for entertainment only" and then sells you a curse removal is still selling you a curse removal. I've explained elsewhere why [I like the notice anyway](/blog/entertainment-purposes-only/): it's honest about what a reading is. Around one reading out of every ten misses, on my tally, and I'd rather that was said on the door than discovered afterwards.
 
 ## What this means for you, and for me {#for-you-and-me}
 
@@ -51,7 +51,7 @@ For you: legal doesn't mean vetted. Nobody checks a reader's competence before t
 
 If you think you've been taken in, there's no shame in it: these methods are built to work on intelligent people at the moment they're struggling. Stop paying, keep everything, report it (Trading Standards via Citizens Advice in the UK; SignalConso in France), and see a lawyer or a consumer association if you want your money back.
 
-For me: I don't sell readings. I sell lessons, on the terms set out in [my terms of sale](/terms/); readings I give for free, in public. And ongoing court cases are among the subjects [I leave out of readings](/disclaimers/#refusals). A legal question deserves a lawyer, not a card. What a reading can hold meanwhile is how you're living through the wait.
+For me: I don't sell readings. I sell lessons, on the terms set out in [my terms of sale](/terms/); my readings cost nothing and happen at public events. And ongoing court cases are among the subjects [I leave out of readings](/disclaimers/#refusals). A legal question deserves a lawyer, not a card. What a reading can hold meanwhile is how you're living through the wait.
 
 ## Before you consult anyone {#before-you-consult}
 

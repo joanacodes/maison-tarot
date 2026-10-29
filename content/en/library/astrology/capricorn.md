@@ -24,12 +24,10 @@ related:
 - /library/astrological-modes/cardinal
 - /library/astrology/saturn
 faq:
-- q: Which tarot card corresponds to Capricorn?
-  a: The Devil, in the Golden Dawn tradition taken up by the Rider-Waite-Smith. When
-    it comes out, the sign gives its verb, element and mode at once.
-- q: 'I''m a Capricorn: is this card ''my'' card?'
-  a: A way in, not an identity. The card says the same thing to anyone; your sign
-    only helps you recognise it faster. Astrology is not an excuse.
+- q: 'Which tarot card corresponds to Capricorn?'
+  a: 'The Devil, card XV: drive, order, and chains loose enough to slip off. Capricorn, the sign of the task and of using every tool, knows all three.'
+- q: 'I’m a Capricorn: is the Devil ‘my’ card?'
+  a: 'It’s one card among 78 that you might spot faster. The Devil asks anyone who draws it what holds them and whether it can come off — and being a Capricorn is no licence to use people as tools.'
 gallery:
 - src: "visuals/sign-capricorn/1.jpg"
   title: "One hold at a time"
@@ -76,7 +74,7 @@ Jon Snow in Game of Thrones; Miranda Priestly in The Devil Wears Prada; army chi
 
 ## Its card: The Devil {#card}
 
-When [the Devil](/library/tarot-cards/the-devil/) comes out, Capricorn is there: ambition, structure, and the chains that come with them — which can be removed, if you look closely. Well placed, it's responsibility taken. Badly placed, it's the tool become the master.
+Capricorn shows up in [the Devil](/library/tarot-cards/the-devil/) as ambition, structure, and the chains that come with them — which can be removed, if you look closely. Responsibility taken, or the tool become the master: what sits next to it says which.
 
 {{< cards "ar15" >}}
 

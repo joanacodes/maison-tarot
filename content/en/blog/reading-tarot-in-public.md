@@ -27,7 +27,7 @@ I always ask permission before reading someone, wherever we are. In public, cons
 
 At Maison Tarot's events, people register and are drawn at random, so they've opted in. I still check at the table, in a sentence that makes saying no painless: "You're happy to be read here, with everyone listening? It's completely fine if not."
 
-What I don't do is read someone in the audience who hasn't volunteered, even as a joke. Reading someone without their consent is like snooping in their bedroom. And someone who doesn't know they're being read isn't open, so you catch half a sentence and build a statement on it.
+What I don't do is read someone in the audience who hasn't volunteered, even as a joke. An unasked-for reading is a bit like letting yourself into someone's bedroom. And someone caught unawares isn't open to it, so you'd glimpse a sliver of them and pass it off as the whole.
 
 ## What's said aloud, and what waits {#aloud-or-private}
 

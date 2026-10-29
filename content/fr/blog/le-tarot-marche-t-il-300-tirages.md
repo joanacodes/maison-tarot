@@ -44,10 +44,10 @@ Trois choses.
 
 1. **Je m’attends à dire n’importe quoi.** À chaque fois. Plus je baisse l’attente, plus c’est juste. [C’est la première chose que j’enseigne.](/fr/blog/apprendre-a-lire-le-tarot-debutant/)
 2. **Je m’arrête quand ça rate.** Pas de remélange, pas de reformulation, pas de « les cartes disent quelque chose que vous n’avez pas encore réalisé ». Le tirage raté va dans le carnet, et on passe.
-3. **Je refuse certains sujets.** La santé, la mort, la grossesse, les procédures, l’argent, les « malédictions ». Pas parce qu’une carte ne peut pas tomber dessus, mais parce qu’à un raté sur dix, un mot faux là-dessus fait de vrais dégâts. [La liste complète est sur la page des avertissements.](/fr/avertissements/#refus)
+3. **Je refuse certains sujets.** La santé, la mort, la grossesse, les procédures, l’argent, les « malédictions ». Rien n’empêche une carte de tomber dessus, mais à un raté sur dix, un mot faux là-dessus fait de vrais dégâts. [La liste complète est sur la page des avertissements.](/fr/avertissements/#refus)
 
 ## Essayez vous-même {#essayez}
 
-Vous n’avez rien à croire de tout ça. Lisez pour dix personnes qui ne vous disent rien, notez ce que vous avez dit et ce qu’elles ont confirmé, comptez. Si votre carnet ressemble au mien, vous comprendrez pourquoi je n’ai pas besoin de discuter de si ça marche. Sinon, écrivez-moi — un second carnet vaut plus qu’un second avis.
+Vous n’avez rien à croire de tout ça. Lisez pour dix personnes qui gardent le silence, notez ce que vous avez dit et ce qu’elles ont confirmé, comptez. Si votre carnet ressemble au mien, vous comprendrez pourquoi je n’ai pas besoin de discuter de si ça marche. Sinon, écrivez-moi — un second carnet vaut plus qu’un second avis.
 
 Les [événements gratuits](/fr/evenements/) sont là où je le fais encore, devant les gens, carnet ouvert.

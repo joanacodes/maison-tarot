@@ -15,10 +15,7 @@ energy: Feminine
 kabbalah: Samekh
 image: cards/ar14.webp
 h1: Temperance — <em>14</em>, Fire
-lede: 'Before looking up what Temperance “means”, look at what you already have: 14,
-  the element Fire, Sagittarius. You’re reading the card. The number says 14 — 1 + 4 = 5 — conflict, trial, making do with what’s left; the element says drive, what you launch. Lay the two over
-  each other, add the colours, and the card is already talking — the rest of the page
-  shows you how.'
+lede: 'One foot in the pool, one on the bank, a red-winged angel pours water slowly between two golden cups. What are you trying to blend, and will you give it the time it needs?'
 related:
 - /library/numerology
 - /library/four-elements/fire-element
@@ -41,13 +38,13 @@ tags:
 
 An angel with large red wings stands with one foot in a pool and the other on the bank. A white robe; on the chest, a triangle inside a square; on the forehead, a small circle of light. The angel pours water from one golden cup into another, and the stream runs between them. Yellow irises grow beside the pool. Behind, a path climbs from the water towards two mountains, and between them shines a golden light shaped like a crown.
 
-Notice what isn’t there: no hurry, no audience, no measuring instrument. **The drawing is about mixing — two things poured into each other until they make a third, at the pace it takes.**
+Nothing here is hurried, nobody watches, and there’s no measuring instrument. **Its subject is mixing — two things poured into each other until they make a third, at the pace it takes.**
 
 ## By number: 14 {#number}
 
 Fourteen reduces to [the number 5](/library/numerology/number-5/), the number of trying: creating, testing, not being afraid to fail, accepting mistakes, making do with what’s left. On Temperance, the 5 isn’t a fight. It’s the trial of the alloy: you pour, you look, you adjust.
 
-Five’s advice is to avoid useless conflicts and to be honest with yourself about the situation — which is what the angel does with two cups. In the Instagram story, 5 is the test, a buyer at the door or a feature that flops, and you find out what holds. Temperance is what comes after: blending what’s left into something that works.
+Five’s advice is to avoid useless conflicts and to be honest with yourself about the situation — which is what the angel does with two cups. Instagram met its 5 in a buyer at the door, or in a feature that flopped: the test that shows what holds. Temperance is what comes after: blending what’s left into something that works.
 
 ## By element: Fire {#element}
 
@@ -59,11 +56,11 @@ Here it’s a controlled fire — the furnace kept at the right temperature, not
 
 White is this card’s colour in my grid: purity, innocence, peace ([white](/library/tarot-colours/white/)). The red wings are passion and action, the fire held behind ([red](/library/tarot-colours/red/)). The blue of the pool is emotion and water. The yellow of the irises, the cups and the crown of light is joy and will. The green of the grass, growth.
 
-Read in a row: peace in front, energy behind, feelings at your feet, and a light at the end of the path.
+From front to back: peace, then energy, feelings at the angel’s feet, and a light at the end of the path.
 
 ## By astrology: Sagittarius {#astrology}
 
-In the Golden Dawn tradition, Temperance corresponds to [Sagittarius](/library/astrology/sagittarius/), whose verb is “I see, I try”. Sagittarius is the traveller who gathers knowledge by leaving, then mixes it to see what it gives together — the angel’s work with two cups. It’s also the sign that judges more slowly than the others: Temperance doesn’t choose between its cups, it combines them.
+Temperance carries [Sagittarius](/library/astrology/sagittarius/) in the Golden Dawn’s list, the sign of “I see, I try”. Sagittarius is the traveller who gathers knowledge by leaving, then mixes it to see what it gives together — the angel’s work with two cups. It’s also the sign that judges more slowly than the others: Temperance doesn’t choose between its cups, it combines them.
 
 ## In a reading {#reading}
 
@@ -71,7 +68,7 @@ Upright, Temperance is the right measure, found by trying. Two things that seeme
 
 Reversed, the mix goes wrong: too much from one cup, nothing from the other. Excess — working, spending, giving too much — or so much caution that nothing is ever poured. It can also be impatience: wanting the alloy before the metal has melted.
 
-Next to [the Devil](/library/tarot-cards/the-devil/), the card that follows it, the measure has been lost and something has taken over. Next to the [Two of Pentacles](/library/tarot-cards/two-of-pentacles/), it’s juggling: the same balance, done in a hurry. Next to [the Star](/library/tarot-cards/the-star/), another figure pouring water with one foot in a pool, it’s a calm that has been earned.
+Next to [the Devil](/library/tarot-cards/the-devil/), its immediate successor, the measure has been lost and something has taken over. Next to the [Two of Pentacles](/library/tarot-cards/two-of-pentacles/), it’s juggling: the same balance, done in a hurry. Next to [the Star](/library/tarot-cards/the-star/), another figure pouring water with one foot in a pool, it’s a calm that has been earned.
 
 {{< cards "ar15 pe02 ar17" >}}
 
@@ -81,6 +78,6 @@ Next to [the Devil](/library/tarot-cards/the-devil/), the card that follows it, 
 
 To try the lenses, read Temperance with the Two of Pentacles beside it. 14, so 5, then 2 — trying, then two things to hold together. Fire then Earth: energy, then something concrete, money or time. White and red on the first card; on the second, a young man juggling two coins in front of a rough sea.
 
-The sentence I’d say: “You’re juggling two very concrete things — work and something else, perhaps — and rather than give one up, you’re trying to make them fit together. You’re getting there, slowly.”
+Slow pouring next to quick juggling suggests: “You’re juggling two very concrete things — work and something else, perhaps — and rather than give one up, you’re trying to make them fit together. You’re getting there, slowly.”
 
-Then the check. Is there a balance they’re trying to find? Two things they refuse to choose between? If not, I write down a miss and leave it at that.
+Then I ask: is there a balance they’re trying to find? Two things they refuse to choose between? If they’ve already chosen, or there’s nothing to blend, I write down a miss and leave it at that.

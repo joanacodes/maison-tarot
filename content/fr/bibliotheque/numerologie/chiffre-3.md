@@ -59,7 +59,7 @@ gallery:
 ---
 ## Ce que dit le 3 {#definition}
 
-**Le 3, c’est cadence.** Machine lancée, contrat qui fonctionne, fratrie en bons termes. Le 3 est la cadence trouvée : ça marche, et ça se voit. Dans le [cycle des nombres](/fr/bibliotheque/numerologie/), il vient après le 2 et prépare le 4.
+**Le 3, c’est cadence.** Machine lancée, contrat qui fonctionne, fratrie en bons termes. Le 3 est la cadence trouvée : ça marche, et ça se voit. Le 2 avait signé, le 3 fait tourner, et le 4 viendra consolider : [l’ensemble du cycle](/fr/bibliotheque/numerologie/) avance d’un cran.
 
 ## Le conseil du 3 {#conseil}
 
@@ -81,6 +81,6 @@ Le lancement d’Instagram marche. Les gens s’inscrivent, postent, reviennent.
 
 ## En lecture {#lecture}
 
-Un 3 dans un tirage dit : **ça fonctionne, et c’est visible.** Le Trois de Coupes fête, le Trois de Pentacles construit à plusieurs, le Trois de Bâtons regarde ses bateaux partir, le Trois d’Épées — le seul 3 douloureux — montre que quand trois cœurs sont en jeu, la cadence peut aussi se rompre. L’Impératrice est le 3 qui produit : la fertilité, au sens le plus large.
+Dans un tirage, le 3 rassure : **ça fonctionne, et c’est visible.** Le Trois de Coupes fête, le Trois de Pentacles construit à plusieurs, le Trois de Bâtons regarde ses bateaux partir, le Trois d’Épées — le seul 3 douloureux — montre que quand trois cœurs sont en jeu, la cadence peut aussi se rompre. L’Impératrice est le 3 qui produit : la fertilité, au sens le plus large.
 
 {{% six %}}

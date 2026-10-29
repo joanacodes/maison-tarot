@@ -19,7 +19,7 @@ Tout commence par quelque chose de bien. Une lecture tombe juste. La personne re
 
 Personne ne se lève un matin en voulant des disciples. Cela se fait à petits pas, et c’est pour cela qu’on le voit si mal de l’intérieur.
 
-Deux cartes résument bien le risque. Dans mes notes, le Magicien (le Bateleur au tarot de Marseille) sait se servir de tout ce qui est posé sur sa table, mais si on lui fait confiance aveuglément, il peut faire semblant. L’Empereur donne des ordres et n’en reçoit pas, et comme le feu, il peut détruire ce qu’il a bâti. Un lecteur suivi par beaucoup de monde peut devenir l’un ou l’autre, sans qu’une seule carte du jeu ait changé.
+Deux cartes résument bien le risque. Le Magicien, dans mes notes, sait se servir de tout ce qui est posé sur sa table, mais il peut jouer la comédie devant ceux qui le croient sur parole. L’Empereur donne des ordres et n’en reçoit pas, et comme le feu, il peut détruire ce qu’il a bâti. Un lecteur suivi par beaucoup de monde peut devenir l’un ou l’autre, sans qu’une seule carte du jeu ait changé.
 
 {{< cards "ar01 ar04" >}}
 
@@ -28,18 +28,18 @@ Deux cartes résument bien le risque. Dans mes notes, le Magicien (le Bateleur a
 Je garde une courte liste de trois ego qu’on croise dans les cercles spirituels, et qu’il vaut la peine de guetter chez soi aussi. Ils sont très humains. La plupart d’entre nous en frôlent un à un moment ou à un autre.
 
 - *Le sauveur.* Celui qui pense sauver le monde. Imaginez un tarologue qui voit passer le message triste d’une inconnue et lui écrit sans qu’elle ait rien demandé : « J’ai vu quelque chose à votre sujet, il vous faut un tirage. » L’intention est peut-être bonne. Le résultat, c’est une personne effrayée qui croit désormais avoir besoin de ce lecteur.
-- *L’élu.* Celui qui se croit membre d’un petit groupe doté de capacités que les autres n’ont pas. Pensez à un professeur qui explique à ses élèves qu’ils ne sont « pas prêts » pour certaines cartes, ou que seules quelques personnes savent vraiment lire. Il n’y a pas d’élus ; tout le monde peut apprendre.
+- *L’élu.* Celui qui se croit membre d’un petit groupe doté de capacités que les autres n’ont pas. Pensez à un professeur qui explique à ses élèves qu’ils ne sont « pas prêts » pour certaines cartes, ou que seules quelques personnes savent vraiment lire. Personne n’est élu ; tout le monde peut apprendre.
 - *L’« éveillé ».* Celui qui a vécu une expérience qui l’a changé et qui se sent désormais au-dessus des gens ordinaires. Imaginez une amie à qui vous confiez votre inquiétude pour le loyer et qui répond « tout ça, c’est encore de l’attachement à la matière », avant de cesser d’écouter.
 
 On tombe en général dans l’un de ces ego après quelque chose qui a compté : une lecture qui a aidé, une expérience qu’on ne s’explique pas, beaucoup de remerciements en peu de temps. Vouloir que cela fasse de nous quelqu’un de spécial, c’est naturel. La sortie ne passe pas par la honte. Elle passe par le fait de le remarquer, et j’ai écrit sur le mot lui-même dans [« éveil spirituel »](/fr/blog/eveil-spirituel/).
 
-**Chacun de ces ego met le lecteur au centre ; une pratique fonctionne quand c’est la personne lue qui y reste.** C’est aussi pour cela que je garde [un peu de distance avec les cercles « spirituels »](/fr/blog/spirituelle-mais-pas-dans-les-cercles/) : pas avec les gens, avec les échelles.
+**Chacun de ces ego met le lecteur au centre ; une pratique fonctionne quand c’est la personne lue qui y reste.** C’est aussi pour cela que je ne fréquente [les cercles « spirituels » que de loin](/fr/blog/spirituelle-mais-pas-dans-les-cercles/) : ce sont les échelles qui me gênent, pas les gens.
 
 ## Rendre la décision à la personne {#vous-decidez}
 
-Une lecture peut mettre des mots sur quelque chose, montrer un angle que vous n’aviez pas vu, confirmer ce que vous saviez déjà. Elle ne peut pas décider à votre place, et j’explique pourquoi dans [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
+Une lecture peut mettre des mots sur quelque chose, montrer un angle que vous n’aviez pas vu, confirmer ce que vous saviez déjà. Le choix, lui, reste le vôtre : [le tarot n’a aucune autorité sur vous](/fr/blog/le-tarot-nest-pas-une-autorite/), et je dis pourquoi.
 
-Un gourou ne peut pas se permettre de rater. Un tarologue, si. Environ une lecture sur dix a raté chez moi, d’après mon propre décompte, et je le dis à voix haute quand ça arrive. Dire « celle-là est ratée » devant quelqu’un est l’une des meilleures protections contre le fait de devenir un oracle à ses yeux.
+Un gourou ne peut pas se permettre de rater. Un tarologue, si. Mes comptes me donnent à peu près un échec toutes les dix lectures, et quand ça arrive, je l’annonce tout haut. Dire « celle-là est ratée » devant quelqu’un est l’une des meilleures protections contre le fait de devenir un oracle à ses yeux.
 
 Concrètement, cela veut dire pas de consignes — pas de « quittez-le », pas de « acceptez le poste ». Cela veut dire renvoyer des questions : qu’avez-vous ressenti quand j’ai dit ça ? Et cela veut dire remarquer quand quelqu’un revient avec la même question que la semaine dernière, et lui proposer avec douceur [une pause dans les tirages](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/) plutôt qu’un tirage de plus.
 
@@ -47,17 +47,17 @@ Concrètement, cela veut dire pas de consignes — pas de « quittez-le », pas 
 
 Un gourou a réponse à tout. Un tarologue sait où s’arrêtent ses réponses.
 
-Une partie de ce que les gens apportent n’est pas une question pour les cartes. Une inquiétude de santé, une procédure en cours, une décision financière : je ne lis pas sur ces sujets, et je dis pourquoi. Un mot de travers y fait des dégâts, et il existe des personnes formées pour cela. Un deuil qui ne bouge pas, une peur qui empêche de dormir nuit après nuit, c’est souvent la porte d’un thérapeute plutôt que la mienne. Le tarot ne doit jamais remplacer une thérapie, ni devenir un cercle de dépendance, pour le lecteur comme pour la personne.
+Une partie de ce que les gens apportent n’est pas une question pour les cartes. Une inquiétude de santé, une procédure en cours, une décision financière : ces sujets restent hors de mes tirages, et j’explique pourquoi. Là, se tromper fait du tort à quelqu’un, et il existe des personnes formées pour cela. Un deuil qui ne bouge pas, une peur qui empêche de dormir nuit après nuit, c’est souvent la porte d’un thérapeute plutôt que la mienne. Le tarot ne doit jamais remplacer une thérapie, ni devenir un cercle de dépendance, pour le lecteur comme pour la personne.
 
 Alors j’indique la bonne porte — un médecin, un avocat, un thérapeute — sans que personne se sente renvoyé. Ma page sur [les cas où un thérapeute est la meilleure porte](/fr/avertissements/#therapie) le dit plus en détail.
 
 ## Les habitudes qui gardent une pratique à sa juste taille {#habitudes}
 
-1. Demandez la permission avant de lire quelqu’un, à chaque fois.
+1. Avant de lire quelqu’un, obtenez son accord, à chaque fois.
 2. Demandez à la personne de ne rien vous dire d’abord, pour ne pas confondre son histoire avec votre lecture.
-3. Tenez un carnet : ce que vous avez dit, ce qui a été confirmé. Comptez les ratés et dites-les.
+3. Gardez par écrit vos lectures et leur verdict. Comptez les ratés et dites-les.
 4. Transmettez la méthode plutôt que de vendre des réponses. C’est pour cela que je vends des cours et que j’offre les lectures, gratuitement, lors des événements.
-5. Arrêtez-vous quand vous êtes fatigué. Il m’arrive de m’arrêter après deux heures de lectures, par prudence.
+5. Arrêtez-vous quand vous êtes fatigué. Moi-même, je range parfois le jeu dès la deuxième heure écoulée, par simple prudence.
 6. Rendez les compliments. Quand on vous dit que vous êtes spécial, [rendez-le avec douceur](/fr/blog/tu-as-un-don/) : la lecture était aussi la sienne.
 
 ## Par où commencer {#commencer}

@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: Vav
 image: cards/ar05.webp
 h1: Le Hiérophante — <em>5</em>, la Terre
-lede: 'Avant de chercher ce que « signifie » Le Hiérophante, regardez ce que vous
-  avez déjà : 5, l’élément Terre, Taureau. Vous lisez la carte. Le nombre dit 5 —
-  cinq — le conflit, l’épreuve, faire avec ce qui reste ; l’élément dit la matière,
-  ce qui tient. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte
-  vous parle déjà — le reste de la page vous montre comment.'
+lede: 'Entre deux colonnes grises, un pontife à triple couronne bénit deux moines agenouillés, deux clés croisées à ses pieds. Ce qu’on vous a transmis, qu’en gardez-vous, et qu’aimeriez-vous vérifier ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre
@@ -51,7 +47,7 @@ Le nom est un vieux titre grec : le hiérophante était le prêtre qui révélai
 
 Un pape en 5, ça peut surprendre, jusqu’à ce qu’on voie ce que fait le 5. Le [chiffre 5](/fr/bibliotheque/numerologie/chiffre-5/), c’est l’épreuve qui mesure : on rencontre ce qui nous teste, et on découvre ce qui tient. Pour le Hiérophante, l’épreuve, c’est la règle — l’école, une tradition, une foi, la façon de faire d’une entreprise — et la question de ce qu’on en garde.
 
-Dans l’histoire d’Instagram de mes pages de numérologie, le 5, c’est Facebook qui débarque pour racheter l’entreprise, une institution qui entre avec ses règles. Le conseil du 5 va bien à cette carte : éviter les conflits inutiles, et être honnête avec soi-même sur la situation. Son revers, c’est le déni — suivre la règle pour ne jamais avoir à se demander si elle est encore la nôtre.
+Le rachat d’Instagram par Facebook en donne l’image : une institution qui entre avec ses règles. Le conseil du 5 va bien à cette carte : éviter les conflits inutiles, et être honnête avec soi-même sur la situation. Son revers, c’est le déni — suivre la règle pour ne jamais avoir à se demander si elle est encore la nôtre.
 
 ## Par l’élément : Terre {#element}
 
@@ -61,11 +57,11 @@ C’est le bon côté : un savoir qui tient, une méthode, un maître, une cér�
 
 ## Par les couleurs {#couleurs}
 
-Le gris domine : le fond et les colonnes. Dans [ma grille des couleurs](/fr/bibliotheque/couleurs-tarot/gris/), le gris, c’est la neutralité, la stabilité, l’absence de volonté propre — sur cette carte, l’institution, ce qui juge sans émotion. Le rouge de la robe : l’action, l’autorité, quelqu’un qui parle au nom du groupe. L’or de la couronne et du bâton : la valeur, ce qu’on a gagné ou hérité. Le rouge et le blanc, encore, sur les deux moines, roses et lys : le désir et la pureté, côte à côte.
+Le gris domine : le fond et les colonnes. Le [gris](/fr/bibliotheque/couleurs-tarot/gris/) apporte la neutralité, la stabilité, l’absence de volonté propre — sur cette carte, l’institution, ce qui juge sans émotion. Le rouge de la robe : l’action, l’autorité, quelqu’un qui parle au nom du groupe. L’or de la couronne et du bâton : la valeur, ce qu’on a gagné ou hérité. Le rouge et le blanc, encore, sur les deux moines, roses et lys : le désir et la pureté, côte à côte.
 
 ## Par l’astrologie : Taureau {#astrologie}
 
-Dans la tradition Golden Dawn, le Hiérophante correspond au [Taureau](/fr/bibliotheque/astrologie/taureau/) : « j’ai », gouverné par Vénus, un signe [fixe](/fr/bibliotheque/modes-astrologiques/fixe/). Les signes fixes sont stables, endurants, et peuvent être lents et têtus ; le Taureau est têtu en terrain connu, ce qui va bien à une carte de tradition.
+La Golden Dawn fait du Hiérophante la carte du [Taureau](/fr/bibliotheque/astrologie/taureau/) : « j’ai », gouverné par Vénus, un signe [fixe](/fr/bibliotheque/modes-astrologiques/fixe/). Les signes fixes sont stables, endurants, et peuvent être lents et têtus ; le Taureau est têtu en terrain connu, ce qui va bien à une carte de tradition.
 
 ## En lecture {#lecture}
 
@@ -83,6 +79,6 @@ Posez le Hiérophante sur la table, et le [Valet de Pentacles](/fr/bibliotheque/
 
 5 puis un Valet : l’épreuve de la règle à côté de l’élève. La Terre et la Terre : du concret — le travail, les études, l’argent, un savoir-faire. Le gris et le rouge de l’institution, puis le vert d’un champ ouvert.
 
-Ce que je dirais à voix haute : « Vous apprenez quelque chose dans les règles de l’art, et une partie de vous voudrait savoir si les règles ont raison. »
+Du cloître au champ ouvert, je résumerais : « Vous apprenez quelque chose dans les règles de l’art, et une partie de vous voudrait savoir si les règles ont raison. »
 
-Puis je vérifierais : y a-t-il une formation, des études ou un nouveau poste où l’on vous apprend une façon de faire ? Si oui, je demanderais ce que la personne y changerait. Si non, ça a raté, et je le note sans l’enjoliver.
+Ma question de vérification : y a-t-il une formation, des études ou un nouveau poste où l’on vous apprend une façon de faire ? Si oui, je demanderais ce que la personne y changerait. Si personne ne lui enseigne rien en ce moment, j’ai mal lu, et je le note sans l’enjoliver.

@@ -24,12 +24,10 @@ related:
 - /library/astrological-modes/fixed
 - /library/astrology/pluto
 faq:
-- q: Which tarot card corresponds to Scorpio?
-  a: Death, in the Golden Dawn tradition taken up by the Rider-Waite-Smith. When it
-    comes out, the sign gives its verb, element and mode at once.
-- q: 'I''m a Scorpio: is this card ''my'' card?'
-  a: A way in, not an identity. The card says the same thing to anyone; your sign
-    only helps you recognise it faster. Astrology is not an excuse.
+- q: 'Which tarot card corresponds to Scorpio?'
+  a: 'Death, arcana XIII: a change carried through to the end. An energy that can kill as much as it can heal matches that card closely.'
+- q: 'I’m a Scorpio: is Death ‘my’ card?'
+  a: 'If you draw it, it’s about a transformation, as it would be for a Pisces or an Aries. Being a Scorpio may help you recognise the sting — it doesn’t give you permission to use it.'
 gallery:
 - src: "visuals/sign-scorpio/1.jpg"
   title: "Where it stings"
@@ -76,7 +74,7 @@ The person who says nothing at the party and draws everyone's attention without 
 
 ## Its card: Death {#card}
 
-When [Death](/library/tarot-cards/death/) comes out, Scorpio is there: a transformation carried through, wanted or not. Well placed, it's the healing that first requires something to end. Badly placed, it's the sting turned on oneself.
+In a spread, [Death](/library/tarot-cards/death/) bears Scorpio's mark: a transformation carried through, wanted or not. On one side, the healing that first requires something to end; on the other, the sting turned on oneself.
 
 {{< cards "ar13" >}}
 

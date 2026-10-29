@@ -53,9 +53,9 @@ Say you sit down on the evening of a new moon and draw the Five of Pentacles, th
 
 Lenses first. Numbers: 5, then 1, then 8 — a trial, a start, then mastery through effort. Elements: Earth, Fire, Earth — something material and a little cold, a spark of creative heat, then back to the bench.
 
-Now the cards. The ground is the Five of Pentacles: two figures walking through the snow past a lit church window. Feeling left out in the cold, short of something, with warmth close by that nobody has gone in to ask for. The seed is the Ace of Wands: a hand from a cloud holding a wand that’s sprouting leaves. An idea with heat in it. The first step is the Eight of Pentacles: a craftsman at his bench, working one pentacle after another. Practice, repetition, the unglamorous part.
+Now the cards. The ground is the Five of Pentacles: two people struggling through snow beneath a lit church window. Feeling left out in the cold, short of something, with warmth close by that nobody has gone in to ask for. The seed, the Ace of Wands: a single wand with fresh green shoots, handed down from the sky. An idea with heat in it. The first step, the Eight of Pentacles: a worker absorbed in shaping coin after coin. Practice, repetition, the unglamorous part.
 
-The sentence you might say to yourself: “I’ve been feeling short — of money or of recognition — and an idea is trying to start. It won’t come from waiting outside the door. It comes from sitting down and doing the work, piece by piece.”
+To yourself, that could sound like: “I’ve been feeling short — of money or of recognition — and an idea is trying to start. It won’t come from waiting outside the door. It comes from sitting down and doing the work, piece by piece.”
 
 And the intention it could lead to: “Two evenings a week on it until the full moon, and one finished piece shown to one person.” A verb you control, checkable, one sentence. If none of the three cards fits what you’re living, write that down too. It belongs in [your reading notebook](/blog/tarot-journal/) as much as the hits.
 

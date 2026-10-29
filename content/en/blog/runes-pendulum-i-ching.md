@@ -33,7 +33,7 @@ A pendulum is a small weight — a stone, a metal drop, sometimes a ring — han
 
 Say you can't decide between two paint colours for your bedroom. You hold the pendulum over each sample, ask “this one?”, and it circles over the second.
 
-What the pendulum does differently is that it only answers yes or no. It doesn't tell you why, or what else is going on. The usual explanation for its movement is the ideomotor effect: tiny movements of the hand that you make without noticing. That doesn't make it useless — it may be exactly what makes it useful, because it shows you which way your body already leans. It's the same principle as the cards: the tool helps you focus, or unfocus, so your own thoughts step aside.
+What the pendulum does differently is that it only answers yes or no. It doesn't tell you why, or what else is going on. The usual explanation for its movement is the ideomotor effect: tiny movements of the hand that you make without noticing. That doesn't make it useless — it may be exactly what makes it useful, because it shows you which way your body already leans. It's the same principle as the cards: the tool gives your attention a place to settle, or to loosen, and your own assumptions get out of the way.
 
 Keep it for small choices: a swinging weight shouldn't decide anything big for you, any more than a reader should. That's also why I answer [yes-or-no questions](/blog/yes-or-no-tarot/) differently with tarot, and why health, pregnancy or money decisions are [subjects I don't read on](/disclaimers/#refusals) with any tool.
 

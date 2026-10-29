@@ -51,7 +51,7 @@ Ces modèles laissent de la place à quelques gestes bien connus :
 
 À l’extrême, la « suite » se révèle être une malédiction à lever, et c’est [un scénario à part entière](/fr/blog/malediction-voyance-arnaque/).
 
-Il y a aussi un geste plus discret : ce qui se passe après un raté. D’après mon décompte, environ une lecture sur dix ne tient pas, et quand l’une des miennes rate, je le dis et je m’arrête là. Dans un modèle payé à la question, un raté devient aussi une occasion de vendre autre chose : reformuler la question, ajouter une carte, passer à la version approfondie. Or un raté n’a pas besoin d’une suite payante.
+Il y a aussi un geste plus discret : ce qui se passe après un raté. Environ une fois sur dix, d’après mes notes, ce que je dis ne se vérifie pas, et quand l’une de mes lectures rate, je le dis et je m’arrête là. Dans un modèle payé à la question, un raté devient aussi une occasion de vendre autre chose : reformuler la question, ajouter une carte, passer à la version approfondie. Or un raté n’a pas besoin d’une suite payante.
 
 Reposer sans cesse la même question en fait partie aussi. La réponse change rarement ; l’inquiétude, si. J’ai écrit sur [ce que les tirages répétés vous font](/fr/blog/combien-de-temps-entre-deux-tirages/), et sur le fait que le plus doux est parfois d’arrêter de demander un moment.
 

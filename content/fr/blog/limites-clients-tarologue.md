@@ -9,13 +9,13 @@ tags: ["limites tarologue", "déontologie du tarot", "tirer les cartes pour les 
 image: "covers/client-boundaries-tarot.jpg"
 imageAlt: "Une main glisse un papier plié sur une petite table en bois vers une autre main, un jeu de tarot fermé poussé sur le côté"
 imagePrompt: "A hand sliding a folded note across a small wooden table towards another person’s open hand, a closed tarot deck pushed to one side. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Poser une limite, ce n’est pas renvoyer quelqu’un : c’est l’orienter vers l’aide qui correspond à sa question. Quand on me parle de santé, de grossesse, d’un procès, d’une décision d’argent, d’une malédiction ou de quelqu’un qui n’est pas là, je fais trois choses. Je reconnais pourquoi la personne demande, presque toujours l’inquiétude, l’amour ou la peur. J’explique doucement pourquoi les cartes ne sont pas le bon outil. Puis je propose ce qui aide : une question plus douce, ce qu’un tirage peut accueillir en attendant, ou le bon professionnel — médecin, avocat, conseiller financier, psy."
+summary: "Poser une limite, ce n’est pas renvoyer quelqu’un : c’est l’orienter vers l’aide qui correspond à sa question. Quand on me parle de santé, de grossesse, d’un procès, d’une décision d’argent, d’une malédiction ou de quelqu’un qui n’est pas là, je fais trois choses. Je reconnais pourquoi la personne demande, presque toujours l’inquiétude, l’amour ou la peur. J’explique doucement en quoi un tirage ne peut pas répondre à cette question-là. Puis je propose ce qui aide : une question plus douce, ce qu’un tirage peut accueillir en attendant, ou le bon professionnel — médecin, avocat, conseiller financier, psy."
 ---
 Orienter quelqu’un ailleurs est l’un des gestes les plus gentils d’un tarologue, à condition que ça ne ressemble pas à une porte qu’on referme. La personne doit repartir avec plus qu’elle n’est venue : une meilleure question, quelqu’un à appeler, et le sentiment d’avoir été entendue. Voici comment je m’y prends, en trois étapes.
 
 ## Quand une question n’est pas pour les cartes {#quand}
 
-Il y a des sujets sur lesquels je ne lis pas : la santé, la mort, la grossesse et la fertilité, les procédures judiciaires en cours, les décisions d’argent, les malédictions, et les personnes absentes. [La liste complète est publique](/fr/avertissements/#refus), pour que personne ne la découvre en plein tirage.
+Il y a des domaines où je ne tire pas les cartes : la santé, les décès, la grossesse et la fertilité, les procédures judiciaires en cours, l’argent à engager, les malédictions, et les gens qui ne sont pas là. [La liste complète est publique](/fr/avertissements/#refus), pour que personne ne la découvre en plein tirage.
 
 La raison tient de l’arithmétique plus que du principe : d’après mon carnet, je rate à peu près un tirage sur dix. Sur une question de nouveau poste, un raté coûte un haussement d’épaules. Sur une question d’examen médical, de grossesse ou de procès, un raté peut faire attendre quelqu’un qui devrait agir, ou paniquer quelqu’un qui pourrait souffler. J’explique ailleurs [pourquoi je m’écarte de la santé, de la grossesse et du décès](/fr/blog/sante-grossesse-deces-tarot/).
 
@@ -26,7 +26,7 @@ Deux autres situations appellent une limite, même sur un sujet anodin. Quelqu�
 ## Trois étapes pour orienter avec douceur {#trois-etapes}
 
 1. Reconnaître pourquoi la personne demande. C’est presque toujours l’inquiétude, l’amour ou la peur, et ça mérite d’être nommé en premier : « Vous demandez parce que vous avez peur pour elle. C’est normal. »
-2. Expliquer doucement pourquoi les cartes ne sont pas le bon outil. Pas « je ne peux pas », mais « voilà pourquoi » : « Je ne lis pas sur la santé. Environ un tirage sur dix rate, et sur cette question, un raté pourrait vous faire du mal. »
+2. Dire avec douceur ce qui empêche un tirage d’y répondre. Pas « je ne peux pas », mais « voilà pourquoi » : « La santé reste en dehors de mes tirages. Je me trompe parfois — à peu près une lecture sur dix —, et sur cette question, une erreur pourrait vous faire du mal. »
 3. Proposer ce qui aide : [une question plus douce à poser](/fr/blog/questions-a-eviter-tarot/), ce qu’un tirage peut accueillir en attendant, ou le professionnel qui a vraiment la réponse.
 
 Imaginons qu’une personne s’assoie, ne vous dise rien, et vous demande à la fin du tirage si l’opération de son père va bien se passer. Première étape : « Bien sûr que vous voulez savoir. Vous l’aimez. » Deuxième : « C’est une question pour son chirurgien, et je n’aimerais pas qu’une carte prenne la place de sa réponse. » Troisième : « Ce que je peux regarder avec vous, c’est comment vous tenez le coup pendant l’attente. On y va ? »
@@ -64,7 +64,7 @@ Parfois, ce qui remonte pendant un tirage est psychologique, parfois plus, et la
 
 Vous ne posez pas de diagnostic. Vous n’en avez pas la compétence, et moi non plus. Vous dites une fois, avec douceur, ce que vous avez remarqué et où ça pourrait aller : « On dirait que c’est là depuis longtemps. Ça mérite plus qu’un tirage. Est-ce qu’il y a quelqu’un à qui vous pourriez en parler ? » Pas de sermon, pas de carte en plus pour adoucir.
 
-Mes notes le disent sans détour : ne laissez jamais le tarot remplacer une thérapie, ni devenir un cercle de dépendance, pour vous comme pour la personne que vous lisez. Un tirage peut mettre une image sur ce qu’on ressent ; il ne peut pas contenir une crise. J’en parle plus longuement dans [où se trouve cette porte](/fr/blog/tarot-et-sante-mentale/).
+Mes notes en font une règle : le tarot ne se substitue jamais à une thérapie, et il ne doit créer de dépendance d’aucun côté de la table. Un tirage peut mettre une image sur ce qu’on ressent ; il ne peut pas contenir une crise. Je développe ce point [à propos du tarot et de la santé mentale](/fr/blog/tarot-et-sante-mentale/).
 
 ## Avant votre prochain tirage {#prochain-tirage}
 

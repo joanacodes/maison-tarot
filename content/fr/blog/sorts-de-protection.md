@@ -62,6 +62,6 @@ Trois cartes valent la peine d’être connues quand la peur est le sujet, et au
 
 {{< cards "sw09 sw08 wa04" >}}
 
-Le Neuf d’Épées, c’est quelqu’un qui sort d’un cauchemar, d’une longue période troublée, avec une protection au-dessus de lui. Le Huit d’Épées montre une personne qui se sent prisonnière alors que tous les outils pour se libérer sont à sa portée ; le bandeau peut tomber. Le Quatre de Bâtons, ce sont les fondations : un foyer, des gens réunis, quelque chose de construit pour durer.
+Le Neuf d’Épées montre la sortie d’un mauvais rêve, au bout de longues nuits agitées, et quelque chose qui veille au-dessus de la personne. Le Huit d’Épées montre quelqu’un qui se croit coincé alors que de quoi se libérer est tout près ; le bandeau peut tomber. Le Quatre de Bâtons parle de bases solides : un foyer, des gens réunis, un édifice pensé pour durer.
 
 Si vous lisez vous-même les cartes et que vous vous demandez s’il faut vous protéger avant un tirage, c’est une autre question, et j’y réponds dans [faut-il se protéger avant de tirer les cartes](/fr/blog/se-proteger-avant-un-tirage/). Et si l’objet que vous alliez acheter était une pierre, voici [ce à quoi les cristaux servent vraiment](/fr/blog/cristaux-et-tarot/).

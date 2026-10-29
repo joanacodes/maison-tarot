@@ -39,9 +39,9 @@ La première, c’est la carte comme verdict. À l’écran, une carte annonce u
 
 La deuxième, c’est la tireuse de cartes en oracle, voire en menace. Dans ces scènes, elle sait, et la personne en face reçoit ; celle de Cléo attend même que la porte se soit refermée pour dire son vrai verdict. À une vraie table, c’est l’inverse : personne ne rend de verdict, et c’est la personne en face qui a le dernier mot.
 
-La troisième, c’est de prendre la fin pour la carte entière. Regardez ce qu’a dessiné Pamela Colman Smith : un squelette en armure noire sur un cheval blanc, qui porte une bannière noire frappée d’une rose blanche. Devant lui, un roi gît à terre, un évêque se tient debout, les mains jointes, une jeune femme détourne le visage, un enfant lève les yeux. Et au fond, entre deux tours, un soleil sur l’horizon. L’image contient déjà l’après.
+La troisième, c’est de prendre la fin pour la carte entière. Regardez ce qu’a dessiné Pamela Colman Smith : un cavalier squelette, bardé de fer sombre, monté sur un cheval clair, qui porte une bannière noire frappée d’une rose blanche. Devant lui, un roi gît à terre, un évêque se tient debout, les mains jointes, une jeune femme détourne le visage, un enfant lève les yeux. Et au fond, entre deux tours, un soleil sur l’horizon. L’image contient déjà l’après.
 
-Ma propre note sur cette carte dit qu’elle ne parle pas de la mort elle-même. Elle est liée à la moisson, au fait de recommencer — quelqu’un sans but qui veut rendre sa vie fertile à nouveau. Par le nombre, 13 se réduit à 4 : les fondations. La suite est sur [la page de la Mort](/fr/bibliotheque/cartes-tarot/la-mort/), et au tarot de Marseille, la lame ne porte même pas son nom — [pourquoi on l’appelle l’arcane sans nom](/fr/blog/arcane-sans-nom-tarot/).
+Ma propre note sur cette carte dit qu’elle ne parle pas de la mort elle-même. Elle est liée à la moisson, au fait de recommencer — quelqu’un qui a perdu sa direction et veut que sa vie redevienne féconde. Par le nombre, 13 se réduit à 4 : les fondations. La suite est sur [la page de la Mort](/fr/bibliotheque/cartes-tarot/la-mort/), et au tarot de Marseille, la lame ne porte même pas son nom — [pourquoi on l’appelle l’arcane sans nom](/fr/blog/arcane-sans-nom-tarot/).
 
 ## Ce qu’elles comprennent bien {#ce-qu-elles-comprennent}
 

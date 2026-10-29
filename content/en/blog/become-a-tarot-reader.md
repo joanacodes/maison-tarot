@@ -21,7 +21,7 @@ Memory is a terrible bookkeeper. It keeps the reading where the woman gasped and
 
 ## What will you refuse? {#refuse}
 
-Here is the list I work from: health, death, pregnancy, ongoing court cases, money decisions, curses, and anyone who isn't in the room and hasn't asked. [Maison Tarot refuses them all](/disclaimers/#refusals), not because a card can't fall on those subjects, but because a wrong word there does real damage, and I've established that I'm wrong one time in ten.
+Here is the list I work from: health, death, pregnancy, a court case still in progress, decisions about money, curses, and anyone who isn't in the room and hasn't asked. [Maison Tarot refuses them all](/disclaimers/#refusals), not because a card can't fall on those subjects, but because a wrong word there does real damage, and I've established that I'm wrong one time in ten.
 
 Now the uncomfortable part. Those are the questions people pay the most for. "Is he cheating", "will I get pregnant", "should I take the money" are the engine of the paid market. Refusing them is not a footnote on your website; it's a decision about how much you'll earn. A reader who will answer anything is a reader who hasn't thought about being wrong. Decide which one you are before you decide on a price.
 
@@ -37,7 +37,7 @@ I sell lessons. Sixty-minute sessions, three-hour workshops with twelve people, 
 
 Sell readings, and your income depends on the same people booking again. That isn't a moral failing; it's arithmetic, and it quietly shapes everything, from how a session ends to which questions you stop refusing in a slow month. A practice that lives on teaching needs people to leave knowing more and needing you less. [What I charge for, and what I give away](/blog/what-i-charge-for/), is the shape of that arithmetic.
 
-I'll add the part I'm not proud of. In 2021 I sold sage, candles and "channelled" cards alongside everything else. I stopped, because nothing in that box ever improved a reading, and because the shop is where the easy money is and where the honesty goes first. If your plan includes a shop, ask what the objects are for.
+I'll add the part I'm not proud of. In 2021 I was selling sage, candles and cards said to be "channelled", alongside everything else. I stopped, because nothing in that box ever improved a reading, and because the shop is where the easy money is and where the honesty goes first. If your plan includes a shop, ask what the objects are for.
 
 ## Can you stop? {#stop}
 

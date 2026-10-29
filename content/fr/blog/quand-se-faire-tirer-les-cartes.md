@@ -41,10 +41,10 @@ Et soyez aussi doux et tolérant avec vous-même qu’avec les autres. Cette par
 
 Le moment qui compte le plus, c’est le vôtre, et certains états rendent un tirage inutile.
 
-- *Vous posez la même question pour la troisième fois.* À ce stade, les cartes ne répondent plus à rien ; c’est le doute qui pose la question. J’en parle dans [pourquoi arrêter de tirer les cartes un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/), qui va de pair avec cette page.
+- *Vous posez la même question pour la troisième fois.* À ce stade, les cartes ne répondent plus à rien ; c’est le doute qui pose la question. Le [moment où il vaut mieux poser le jeu](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/) a sa propre page, qui va de pair avec celle-ci.
 - *Vous voulez que les cartes choisissent pour vous.* Un tirage peut éclairer une décision, mais [le choix doit rester le vôtre](/fr/blog/decision-tarot/).
 - *Vous êtes en pleine tempête.* Ce qui aide alors, c’est de respirer, de prendre une décision, ou de traverser ce qui vous fait peur — pas un tirage de plus.
-- *La question porte sur la santé, une grossesse, un décès, un procès ou l’argent.* Ces questions naissent de l’inquiétude ou de l’amour, et je comprends qu’on les pose. Je ne lis pas sur ces sujets, et [voici pourquoi](/fr/avertissements/#refus) ; un médecin, un avocat ou un conseiller vous aideront mieux, et un tirage peut tout de même accueillir la façon dont vous tenez le coup.
+- *La question porte sur la santé, une grossesse, un décès, un procès ou l’argent.* Ces questions naissent de l’inquiétude ou de l’amour, et je comprends qu’on les pose. Je les laisse en dehors de mes lectures, pour [des raisons que je détaille ailleurs](/fr/avertissements/#refus) ; ce sont un médecin, un avocat, un conseiller qui vous aideront le mieux, et un tirage peut tout de même accueillir la façon dont vous tenez le coup.
 
 Si votre vie est plutôt stable, vous pouvez jouer un peu plus avec le tarot. Si elle ne l’est pas, c’est le muscle de la décision qui a besoin d’entraînement, pas le jeu de cartes.
 

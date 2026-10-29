@@ -9,7 +9,7 @@ tags: ["arcanes majeurs", "arcanes mineurs", "différence arcanes majeurs mineur
 image: "covers/major-vs-minor-arcana.jpg"
 imageAlt: "Deux piles de cartes de tarot face cachée sur une table en bois, une petite et une beaucoup plus haute."
 imagePrompt: "Two face-down piles of tarot cards side by side on a wooden kitchen table, one small and one much taller. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Un jeu de tarot compte 78 cartes réparties en deux groupes. Les 22 arcanes majeurs sont numérotés de 0 à 21 et portent chacun un nom — le Mat, la Mort, le Monde : ils parlent des grands chapitres d’une vie. Les 56 arcanes mineurs forment quatre familles (Bâtons, Coupes, Épées, Pentacles), chacune avec un As, les cartes de 2 à 10 et quatre figures : ils parlent des jours à l’intérieur de ces chapitres. Dans un tirage, comptez-les d’abord. Plusieurs majeurs : quelque chose de plus grand que la question est ouvert. Surtout des mineurs : c’est du quotidien, et ça reste entre vos mains."
+summary: "Un jeu de tarot compte 78 cartes réparties en deux groupes. Les 22 arcanes majeurs sont numérotés de 0 à 21 et portent chacun un nom — le Mat, la Mort, le Monde : ils parlent des grands chapitres d’une vie. Les 56 arcanes mineurs forment quatre familles (Bâtons, Coupes, Épées, Pentacles) de quatorze cartes chacune, de l’As jusqu’au Roi : ils parlent des jours à l’intérieur de ces chapitres. Dans un tirage, comptez-les d’abord. Plusieurs majeurs : quelque chose de plus grand que la question est ouvert. Surtout des mineurs : c’est du quotidien, et ça reste entre vos mains."
 ---
 Un jeu de tarot compte 78 cartes, et elles se rangent en deux groupes. Les 22 arcanes majeurs sont les cartes qui portent un nom — le Mat, les Amoureux, la Mort, le Monde — et ils parlent des grands chapitres d’une vie. Les 56 arcanes mineurs sont les quatre familles, et ils parlent des jours à l’intérieur de ces chapitres.
 
@@ -29,7 +29,7 @@ Je les lis avec les mêmes clés de lecture que les autres cartes — couleur, n
 
 ## Ce que sont les arcanes mineurs {#arcanes-mineurs}
 
-Les arcanes mineurs sont les 56 autres cartes. Ils s’organisent comme un jeu de cartes ordinaire : quatre familles — Bâtons, Coupes, Épées et Pentacles — et dans chaque famille un As, les cartes de 2 à 10, et quatre figures (Valet, Cavalier, Reine, Roi). Quatre familles de quatorze cartes : 56.
+Les arcanes mineurs sont les 56 autres cartes. Ils s’organisent comme un jeu de cartes ordinaire : quatre familles — Bâtons, Coupes, Épées et Pentacles —, et dans chacune, une suite qui va de l’As au 10, puis quatre personnages de cour, du Valet au Roi en passant par le Cavalier et la Reine. Quatre fois quatorze : 56.
 
 Ils décrivent ce qui se passe un mardi. Trois amies qui lèvent leur coupe dans un jardin (le Trois de Coupes). Des heures à l’établi (le Huit de Pentacles). Une nuit sans sommeil (le Neuf d’Épées). Pamela Colman Smith a dessiné une scène sur chacun d’eux en 1909, et c’est pour ça que le Rider-Waite-Smith se lit dès le premier jour. Au tarot de Marseille, que beaucoup de Français connaissent mieux, les mineurs numérotés ne montrent que des arrangements de coupes, de deniers, de bâtons ou d’épées.
 
@@ -45,7 +45,7 @@ Pas besoin de les apprendre un par un. Dix nombres et quatre familles couvrent l
 | Échelle de temps | Des mois, des années, un chapitre | Des jours, des semaines, une situation |
 | La question à laquelle ils répondent | De quoi cette période parle-t-elle ? | Que se passe-t-il, et qu’en faire ? |
 
-**Un majeur n’est pas plus important qu’un mineur ; il est plus lent.** Le Cinq de Coupes est un mineur, et c’est à mes yeux la carte la plus lourde du jeu : perdre, l’émotion sombre, se retrouver seul avec ses problèmes. Il décrit pourtant un moment, pas une vie.
+**Un majeur n’est pas plus important qu’un mineur ; il est plus lent.** Le Cinq de Coupes est un mineur, et je n’en connais pas de plus dur à recevoir : une perte, et personne à côté pour la porter. Il décrit pourtant un moment, pas une vie.
 
 ## Ce que ça change dans un tirage {#dans-un-tirage}
 
@@ -53,11 +53,11 @@ Comptez les majeurs avant de lire quoi que ce soit. 22 cartes sur 78, c’est un
 
 Ça vous donne une échelle :
 
-- Aucun majeur : la situation est quotidienne, et elle est entre les mains de la personne. Rien de plus grand ne pèse dessus. [Un tirage sans majeur](/fr/blog/aucun-arcane-majeur/) a son propre article.
+- Aucun majeur : la situation est quotidienne, et elle est entre les mains de la personne. Rien de plus grand ne pèse dessus, comme je l’explique pour [les tirages sans aucun majeur](/fr/blog/aucun-arcane-majeur/).
 - Un majeur : il donne le thème, et les mineurs disent où il se joue.
 - Deux ou trois majeurs dans un petit tirage : la personne est au milieu de quelque chose qui dépasse sa question. Lisez d’abord les majeurs, lentement.
 
-Imaginons quelqu’un qui s’assied, ne vous dit rien, et tire l’Ermite, le Huit de Pentacles et le Deux de Coupes. Un majeur : l’Ermite, un 9 — la fin d’un cycle, l’introspection. Deux mineurs : la Terre et le 8, la maîtrise et l’effort ; l’Eau et le 2, un lien entre deux personnes qui se scelle.
+Un cas inventé, pour voir : la personne en face tait sa question et retourne l’Ermite, le Huit de Pentacles et le Deux de Coupes. Un majeur : l’Ermite, un 9 — la fin d’un cycle, l’introspection. Deux mineurs : la Terre et le 8, la maîtrise et l’effort ; l’Eau et le 2, un lien entre deux personnes qui se scelle.
 
 {{< cards "ar09 pe08 cu02" >}}
 

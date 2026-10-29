@@ -9,7 +9,7 @@ tags: ["love tarot spread", "relationship tarot spread", "tarot spread for love"
 image: "covers/love-tarot-spread.jpg"
 imageAlt: "Two cups of coffee on a small café table with a tarot deck between them, one chair pulled back."
 imagePrompt: "Two cups of coffee on a small café table with a closed tarot deck between them, one chair pulled back from the table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "An honest love tarot spread reads two things: you, and the relationship as it is between you. Five cards: where you are in love right now, what you bring, what you need, the relationship as it stands, and one thing you can do this week. It works whether you’re single or together. It leaves aside “does he love me?” — not because the question is silly, but because the other person isn’t in the room, and any card would be read through your hope or your fear. A kinder question: what do I need, and have I said it?"
+summary: "An honest love tarot spread reads two things: you, and the relationship as it is between you. Five cards: where you are in love right now, what you bring, what you need, the relationship as it stands, and one thing you can do this week. It works whether you’re single or together. It leaves aside “does he love me?” — not because the question is silly, but because the other person has no say in the reading, and any card would be read through your hope or your fear. A kinder question: what do I need, and have I said it?"
 ---
 An honest love spread reads two things: you, and the relationship as it is between you. It doesn’t read the other person’s mind. Five cards, a question you can act on, and room for everything you feel about it.
 
@@ -49,15 +49,15 @@ The relationship as it is: the Two of Swords. A woman sits blindfolded, two swor
 
 One thing I can do: the Page of Cups, a young man in a blue tunic looking at a fish that pops out of his cup. The Page is the learner and the messenger; blue is emotion. Say something light and a little surprising first — a question, not a verdict.
 
-Three Cups out of five: this is about feeling that wants to move. The sentence out loud: “You’ve settled in and stopped noticing what’s offered; you give steadily, and what you need is to receive; between you there’s a conversation nobody is starting — start it, lightly, this week.”
+Three Cups out of five: this is about feeling that wants to move. As one message for this couple: “You’ve settled in and stopped noticing what’s offered; you give steadily, and what you need is to receive; between you there’s a conversation nobody is starting — start it, lightly, this week.”
 
-If you lay this for a friend, ask them to tell you nothing first — that’s [the silence rule](/blog/the-silence-rule/) — and let them say afterwards whether it landed. If it didn’t, write it down as a miss, and don’t add a sixth card to fix it.
+If you lay this for a friend, ask them to tell you nothing first — that’s [the silence rule](/blog/the-silence-rule/) — and let them say afterwards how much of it was true. What wasn’t is recorded as a miss — no sixth card to patch it up.
 
 ## Why “does he love me?” is left aside {#does-he-love-me}
 
-It’s the question almost everyone arrives with, in one form or another: does he love me, is she thinking of me, will they come back. It comes from love, and often from worry, and there’s nothing silly about it. Pulling the petals off a daisy — he loves me, he loves me not — is the same question, far older than any deck.
+It’s the question most people arrive with, in one form or another: does he love me, is she thinking of me, will they come back. It comes from love, and often from worry, and there’s nothing silly about it. Pulling the petals off a daisy — he loves me, he loves me not — is the same question, far older than any deck.
 
-Here’s why I’d rather not put it to the cards. The other person isn’t in the room and hasn’t agreed to be read; you wouldn’t want someone going through your bedroom drawers, and reading someone’s heart without asking feels close to that. Whatever card comes out, you’ll read it through your hope or your fear. And even a “yes” wouldn’t tell you what to do on Monday. [Reading about someone who isn’t there](/blog/reading-tarot-about-someone-else/) goes into this at more length.
+Here’s why I’d rather not put it to the cards. The other person has no seat at this table and hasn’t said yes to a reading; nobody wants a stranger poking around their bedroom, and reading someone’s heart without asking feels close to that. Whatever card comes out, you’ll read it through your hope or your fear. And even a “yes” wouldn’t tell you what to do on Monday. [Reading about someone who isn’t there](/blog/reading-tarot-about-someone-else/) goes into this at more length.
 
 What to ask instead:
 
@@ -72,7 +72,7 @@ And sometimes the kindest step is outside the cards altogether: ask the person. 
 1. Write the five positions on a slip of paper.
 2. Shuffle, and lay five cards in a row.
 3. Before any meaning, name each card’s element, number and main colour.
-4. Say one sentence for the whole row, out loud, starting with “I”.
+4. Sum up the row in one sentence that starts with “I”, and say it aloud.
 5. Write it down, and reread it in a week.
 
 If you’d like to know which cards really talk about relationships, [the cards for love](/blog/tarot-cards-for-love/) are gathered in one place. And if you’d rather read this spread with someone who knows the lenses, a [one-to-one session](/sessions/) is an hour, one spread, read by both of us.

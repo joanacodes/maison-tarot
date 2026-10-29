@@ -23,7 +23,7 @@ This tells the reader which part of what they did actually worked. Was it the co
 
 “That part didn’t land.” Say it calmly, and leave it there. Don’t add “but maybe it will make sense later”, and don’t bend your life to make a sentence fit.
 
-It can feel harsh. It isn’t. By my count about one reading in ten misses, and the readers who improve are the ones who can write that word in their notebook without flinching. **The kindest feedback is the accurate one.** If it helps the reader on the receiving end, I’ve written about [what to do when a reading is wrong](/blog/tarot-reading-wrong/).
+It can feel harsh. It isn’t. A tenth or so of my readings miss, going by my own tally, and the readers who improve are the ones who can write that word in their notebook without flinching. **The kindest feedback is the accurate one.** If it helps the reader on the receiving end, I’ve written about [handling a reading that missed](/blog/tarot-reading-wrong/).
 
 And if something does land later, write to them. That’s feedback too, and often the most useful kind. Tell them what changed, so they can move the note from one column to the other honestly. My own [first reading for a stranger](/blog/first-tarot-reading-story/) moved columns that way, when she texted me a few days later.
 

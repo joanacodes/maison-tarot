@@ -43,7 +43,7 @@ Et il ne peut pas porter ce que nous disons. Une rétrogradation peut être une 
 
 ## Une rétrogradation avec vos cartes {#avec-vos-cartes}
 
-La carte de Mercure, c’est [le Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/) (le Bateleur au tarot de Marseille), et par ses deux signes il porte aussi les Amoureux (Gémeaux) et l’Ermite (Vierge). Trois façons de penser : celui qui pose tous ses outils sur la table, celui qui doit choisir, celui qui vérifie à la lanterne. Dans mes notes, le Magicien est le messager, la baguette levée pour recevoir et transmettre ; son revers, c’est qu’il sait faire semblant, si on lui fait confiance les yeux fermés. Bon à garder en tête pendant trois semaines vouées aux mots.
+La carte de Mercure, c’est [le Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/), et par ses deux signes il porte aussi les Amoureux (Gémeaux) et l’Ermite (Vierge). Trois façons de penser : celui qui pose tous ses outils sur la table, celui qui doit choisir, celui qui vérifie à la lanterne. Dans mes notes, le Magicien est le messager, la baguette levée pour recevoir et transmettre ; son revers, c’est le bluff, quand on le croit sans vérifier. Bon à garder en tête pendant trois semaines vouées aux mots.
 
 {{< cards "ar01 ar06 ar09" >}}
 
@@ -53,7 +53,7 @@ Si le thème du « re- » vous plaît, donnez-lui un petit tirage sur la communi
 2. *Qu’est-ce que je n’ai pas entendu ?*
 3. *Qu’est-ce que je dirais maintenant, si je le redisais ?*
 
-Lisez chaque carte par son nombre, son élément et ses couleurs avant de chercher quoi que ce soit. Rien ne vous oblige à envoyer quoi que ce soit ensuite. Notez les cartes et une phrase pour chacune dans votre carnet, et relisez la page le jour où Mercure repart en direct.
+Pour chaque carte, partez de ses couleurs, de son nombre et de son élément, et gardez le sens pour après. Rien ne vous oblige à envoyer quoi que ce soit ensuite. Gardez une trace des trois cartes, une ligne par carte, dans votre carnet, puis rouvrez-le le jour où Mercure repart en direct.
 
 ## À quand la prochaine ? {#la-prochaine}
 

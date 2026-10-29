@@ -15,8 +15,8 @@ tags:
 - La Roue de Fortune
 h1: Le 10 — la <em>transition</em>, respirer
 lede: 'Dix, c’est la fin du cycle et le début du suivant en même temps : liberté,
-  changement, voyage, respirer. De l’extérieur, on pourrait vous croire abattu, à
-  terre. En réalité, le papillon est déjà loin, hors de sa chrysalide.'
+  changement, voyage, respirer. Vu de dehors, on peut vous croire au tapis,
+  alors que la chrysalide est déjà vide et que ce qui en est sorti vole loin.'
 related:
 - /bibliotheque/numerologie/chiffre-9
 - /bibliotheque/cartes-tarot/la-roue-de-fortune
@@ -60,7 +60,7 @@ gallery:
 ---
 ## Ce que dit le 10 {#definition}
 
-**Le 10, c’est transition.** Liberté, changement, voyage, respirer. Le 10 — ou le 0 — est la transition : ce qui était finit, ce qui vient n’a pas encore de nom. Dans le [cycle des nombres](/fr/bibliotheque/numerologie/), il vient après le 9 et prépare le 1.
+**Le 10, c’est transition.** Liberté, changement, voyage, respirer. Le 10 — ou le 0 — est la transition : ce qui était finit, ce qui vient n’a pas encore de nom. Il clôt ce que le 9 terminait, et rouvre sur le 1 : [les dix étapes](/fr/bibliotheque/numerologie/) recommencent.
 
 ## Le conseil du 10 {#conseil}
 
@@ -82,6 +82,6 @@ Instagram change graduellement ses designs ; les gens ne reconnaissent plus la p
 
 ## En lecture {#lecture}
 
-Un 10 dans un tirage dit : **une page se tourne.** Le Dix de Coupes ferme le cycle dans la joie, le Dix de Pentacles le transmet, le Dix de Bâtons le porte jusqu’au bout, courbé, le Dix d’Épées le finit à terre — c’est la pire image du jeu, et c’est pourtant l’aube au fond. La Roue de Fortune est le 10 qui tourne : rien ne reste en haut, rien ne reste en bas.
+Un 10 sur la table, et **une page se tourne.** Le Dix de Coupes ferme le cycle dans la joie, le Dix de Pentacles le transmet, le Dix de Bâtons le porte jusqu’au bout, courbé, le Dix d’Épées le finit à terre — c’est la pire image du jeu, et c’est pourtant l’aube au fond. La Roue de Fortune est le 10 qui tourne : rien ne reste en haut, rien ne reste en bas.
 
 {{% six %}}

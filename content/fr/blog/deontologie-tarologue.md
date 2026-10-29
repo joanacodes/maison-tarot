@@ -49,7 +49,7 @@ Les ratés sont le prix de la précision. Une lecture assez vague pour ne jamais
 
 Une lecture à Maison Tarot s’arrête quand elle s’arrête. Pas de « réservez une séance plus approfondie », pas de nettoyage énergétique, pas de suivi nécessaire. C’est facile pour moi puisque [je ne vends pas de lectures du tout](/fr/methode/) — j’enseigne, et les lectures sont gratuites aux événements — mais le principe vaut pour n’importe qui : si votre lecture est suivie d’un tunnel de vente, le tunnel façonne la lecture. On trouve toujours un peu plus de « blocages » chez quelqu’un qui pourrait payer pour les lever.
 
-Et je dis à chaque personne, à la fin : n’agissez pas là-dessus. Une lecture peut vous montrer quelque chose ; elle ne peut pas décider à votre place, et la tarologue qui la laisse décider prend une responsabilité qui n’est pas la sienne. [Le tarot n’est pas une autorité](/fr/avertissements/#lectures). Moi non plus.
+Et je dis à chaque personne, à la fin : n’agissez pas là-dessus. Une lecture peut vous montrer quelque chose ; elle ne peut pas décider à votre place, et la tarologue qui la laisse décider prend une responsabilité qui n’est pas la sienne. [Le tarot ne fait pas autorité](/fr/avertissements/#lectures). Moi non plus.
 
 ## Pourquoi une liste si courte {#pourquoi-court}
 

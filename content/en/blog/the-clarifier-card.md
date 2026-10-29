@@ -37,7 +37,7 @@ Plenty of readers use clarifiers, and some use them carefully. This is why I don
 
 ## What I do when a reading doesn’t land {#when-it-misses}
 
-Misses happen to me about ten per cent of the time. When the person tells me “no, none of that”, I say “that one’s a miss”, I write it down, and I don’t draw again.
+Misses happen to me about ten per cent of the time. When the person says nothing in it fits, I call it a miss out loud, note it in the book, and keep my hands off the deck.
 
 If I drew a clarifier at that point, I wouldn’t be reading any more; I’d be negotiating. And I’d lose the only honest number I have. My count of what held and what didn’t only means something because the misses stay misses. Counting is the backbone of [my method](/method/), and a single rescued reading would quietly spoil it.
 

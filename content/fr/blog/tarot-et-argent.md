@@ -11,7 +11,7 @@ imageAlt: "Quelques pièces, un carnet fermé et une carte de tarot posés sur u
 imagePrompt: "A few loose coins, a closed notebook and a single tarot card lying face up on a plain kitchen table, a chair pulled back. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Les lames qui parlent d’argent sont surtout les Pentacles, la famille de la Terre : l’As (du concret sur quoi bâtir), le Quatre (s’agripper), le Cinq (la dureté, l’aide à portée), le Six (connaître la valeur), le Neuf (la gratitude) et le Dix (l’abondance au foyer), plus l’Impératrice, la Roue de Fortune et le Diable. Elles décrivent votre rapport à la valeur — l’argent, le travail, le temps, le foyer — plutôt que votre solde bancaire. Placer, emprunter, signer, démissionner : ces décisions restent les vôtres, et un conseiller, un comptable ou la Banque de France voient ce qu’une carte ne voit pas."
 ---
-Les Pentacles sont la famille de l’argent, mais ils parlent de valeur plus que de liquide — dans mes notes, toutes les richesses ne sont pas en or. Je les lis avec plaisir. Ce sur quoi je ne lis pas, ce sont les décisions d’argent : placer, signer, emprunter ou démissionner vous appartient, et je vous explique pourquoi sans faire la morale.
+Les Pentacles sont la famille de l’argent, mais ils parlent de valeur plus que de liquide, et l’or n’est qu’une richesse parmi d’autres. Je les lis avec plaisir. Les décisions d’argent, en revanche, je ne les lis pas : placer, signer, emprunter ou démissionner vous appartient, et je vous explique pourquoi sans faire la morale.
 
 ## Quelles lames parlent d’argent au tarot {#lames-argent}
 
@@ -29,9 +29,9 @@ Quelques majeurs les rejoignent. L’Impératrice nourrit — l’abondance, ce 
 
 ## Toutes les richesses ne sont pas en or {#pas-tout-en-or}
 
-Dans mes notes, la Terre, c’est ce qui a de la valeur *pour vous* — de l’argent, ou quelque chose de sentimental. C’est la ténacité et l’endurance, et l’entêtement aussi. Son archétype : le manager d’un artiste qui travaille dans l’ombre, stable et fiable, et qui parfois n’écoute plus parce que son plan « rapporte plus ».
+Dans mes notes, la Terre désigne ce qui a de la valeur *pour vous* — de l’argent, ou quelque chose de sentimental. C’est la ténacité et l’endurance, et l’entêtement aussi. Son archétype : le manager d’un artiste qui travaille dans l’ombre, stable et fiable, et qui parfois n’écoute plus parce que son plan « rapporte plus ».
 
-Une carte de Pentacles ne parle donc pas toujours de fiche de paie. Le [Dix de Pentacles](/fr/bibliotheque/cartes-tarot/dix-de-pentacles/) peut être la maison de la grand-mère pleine de monde le dimanche ; elle ne durera peut-être pas, et elle sera toujours là si vous quittez le cocon. Un Neuf peut être un jardin dont vous avez enfin le temps de vous occuper. Même le Cinq, la carte la plus dure de la famille, c’est dans mes notes la pauvreté et la neige *et* le vitrail de l’église où l’on pourrait trouver de la chaleur : au plus bas, la Terre montre encore l’aide toute proche.
+Une carte de Pentacles ne parle donc pas toujours de fiche de paie. Le [Dix de Pentacles](/fr/bibliotheque/cartes-tarot/dix-de-pentacles/) peut être la maison de la grand-mère pleine de monde le dimanche ; elle ne durera peut-être pas, et pourtant elle vous attendra si vous quittez le cocon. Un Neuf peut être un jardin dont vous avez enfin le temps de vous occuper. Même le Cinq, la lame la plus rude de la famille, réunit dans mes notes la misère, la neige *et* le vitrail allumé d’une église, abri possible à quelques pas : au plus bas, la Terre montre encore l’aide toute proche.
 
 Ce n’est pas tout à fait « l’argent ne fait pas le bonheur ». C’est plutôt ceci : imaginons qu’on tire le Quatre de Pentacles. Avant de parler d’argent, je me demande ce que cet homme serre si fort. Des économies, peut-être. Peut-être un poste qu’il a peur de quitter, ou son temps, ou sa tranquillité. La personne en face de moi saura laquelle.
 
@@ -39,7 +39,7 @@ Ce n’est pas tout à fait « l’argent ne fait pas le bonheur ». C’est plu
 
 On m’interroge sur l’argent parce qu’il empêche de dormir : le loyer, un crédit, une offre d’emploi, un placement qu’un ami vous jure rentable. Cette inquiétude est réelle et je ne la prends pas à la légère.
 
-Mais une carte ne voit ni un contrat, ni un taux d’intérêt, ni un marché. À mon décompte, environ un tirage sur dix rate : c’est acceptable quand on parle de ce que vous ressentez, pas quand il s’agit de vos économies. Un « oui » du jeu peut aussi sonner comme une autorisation, et c’est un poids qu’une carte ne devrait pas porter — c’est pourquoi les décisions d’argent figurent dans [ce que je ne lis pas](/fr/avertissements/#refus).
+Mais une carte ne voit ni un contrat, ni un taux d’intérêt, ni un marché. Sur dix de mes lectures, une en moyenne tombe à côté : c’est acceptable quand on parle de ce que vous ressentez, pas quand il s’agit de vos économies. Un « oui » du jeu peut aussi sonner comme une autorisation, et c’est un poids qu’une carte ne devrait pas porter — c’est pourquoi les décisions d’argent figurent [parmi les questions que je ne prends pas](/fr/avertissements/#refus).
 
 Pour la décision elle-même : un expert-comptable, un conseiller en gestion de patrimoine indépendant, votre banque — et, si les dettes s’accumulent, la commission de surendettement de la Banque de France. Pour l’inquiétude autour, les cartes peuvent aider avec des questions plus douces :
 
@@ -48,7 +48,7 @@ Pour la décision elle-même : un expert-comptable, un conseiller en gestion de 
 3. Où va mon effort, et est-ce qu’il me revient ?
 4. À quoi ressemblerait « assez » ?
 
-J’approfondis dans [prendre une décision avec le tarot, sans laisser les cartes choisir](/fr/blog/decision-tarot/).
+J’explique ailleurs [comment décider avec le tarot sans lui céder la place](/fr/blog/decision-tarot/).
 
 ## Lire les Pentacles dans un tirage {#dans-un-tirage}
 

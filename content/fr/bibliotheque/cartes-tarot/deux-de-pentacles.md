@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/pe02.webp
 h1: Deux de Pentacles — <em>deux</em>, la Terre
-lede: 'Avant de chercher ce que « signifie » Deux de Pentacles, regardez ce que vous
-  avez déjà : deux, l’élément Terre, Jupiter en Capricorne. Vous lisez la carte. Le
-  nombre dit deux — se lier, peser, coopérer ; l’élément dit la matière, ce qui tient.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Sous un chapeau rouge démesuré, un jeune homme fait tourner deux pièces reliées par un huit couché, tandis que des navires dansent sur la houle derrière lui. Ce jonglage, jusqu’à quand ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre
@@ -30,7 +26,7 @@ faq:
 - q: Que signifie Deux de Pentacles ?
   a: 'Mener deux choses de front, et y arriver : deux emplois, deux budgets, le travail et la maison. La carte montre le jonglage qui fonctionne ; la question qu’elle pose, c’est combien de temps il peut durer.'
 - q: Deux de Pentacles renversé, ça change quoi ?
-  a: 'Le jonglage dérape : une pièce tombe, tout arrive le même jour, ou la personne fait tourner les deux pour ne jamais avoir à en choisir une. C’est la même carte, freinée ou excessive.'
+  a: 'Le jonglage dérape : une pièce tombe, tout arrive le même jour, ou la personne fait tourner les deux pour ne jamais avoir à en choisir une.'
 categories:
 - Pentacles
 tags:
@@ -51,7 +47,7 @@ Notez ce qui manque : pas de table pour poser une pièce, personne à qui en pas
 
 Le [chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/), ce sont deux parties et le lien entre elles : un contrat, une alliance, un choix qu’on pèse. Ici, les deux parties sont deux pièces — deux emplois, deux budgets, le travail et la maison — et le ruban vert est le lien. Elles sont attachées : bougez l’une, l’autre bouge aussi.
 
-Dans mes notes, le 2 dit : lisez le contrat, pesez les deux côtés. Son revers, c’est le mental qui s’obstine, l’entêtement, la solitude — et le jongleur est seul, convaincu de tout tenir. Dans l’histoire d’Instagram, le 2, c’est la signature avec les investisseurs : le premier moment où il y a deux choses à garder en équilibre, votre idée et l’argent de quelqu’un d’autre.
+Dans mes notes, le 2 dit : lisez le contrat, pesez les deux côtés. Son revers, c’est le mental qui s’obstine, l’entêtement, la solitude — et le jongleur est seul, convaincu de tout tenir. Instagram a connu ce moment au deuxième stade de son histoire, en signant avec ses premiers investisseurs : deux choses à garder en équilibre, votre idée et l’argent de quelqu’un d’autre.
 
 ## Par l’élément : Terre {#element}
 
@@ -63,13 +59,13 @@ La Terre, c’est aussi l’endurance, et le jongleur peut tenir longtemps — c
 
 Le [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) domine le personnage : le haut chapeau, les manches, les collants. La passion, l’action, l’élan — un corps occupé à faire. Sa tunique est d’un brun orangé plus chaud ; ses chaussures et le ruban sont verts, la couleur de ce qui pousse et reste vivant. Les pièces sont dorées. Derrière lui, du [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) partout, dans le ciel pâle et dans les vagues : les émotions, l’eau, la vitalité.
 
-Lisez les couleurs avant la carte : un corps actif devant une mer agitée. L’action est devant. Le ressenti est derrière, et il est houleux.
+Résumé en couleurs : un corps actif devant une mer agitée. L’action est devant. Le ressenti est derrière, et il est houleux.
 
 ## Par l’astrologie : Jupiter en Capricorne {#astrologie}
 
-Dans la tradition Golden Dawn, le Deux de Pentacles correspond au premier décan du Capricorne, attribué à [Jupiter](/fr/bibliotheque/astrologie/jupiter/). Jupiter pousse à grandir : la confiance, la chance, et le risque d’en faire trop. Le Capricorne dit *J’utilise* : le travail, la structure, le pragmatisme. L’astrologie classique place Jupiter en chute dans le Capricorne : la planète qui veut plus, dans le signe qui compte. Cette tension, c’est la carte — la croissance tenue dans un budget.
+[Jupiter](/fr/bibliotheque/astrologie/jupiter/) gouverne le premier décan du Capricorne, et la Golden Dawn y a rangé le Deux de Pentacles. Jupiter pousse à grandir : la confiance, la chance, et le risque d’en faire trop. Le Capricorne dit *J’utilise* : le travail, la structure, le pragmatisme. L’astrologie classique place Jupiter en chute dans le Capricorne : la planète qui veut plus, dans le signe qui compte. Cette tension, c’est la carte — la croissance tenue dans un budget.
 
-Facultatif : le nombre et les vagues en ont déjà dit l’essentiel.
+Libre à vous de l’ignorer : les vagues derrière le jongleur racontent la même tension.
 
 ## En lecture {#lecture}
 
@@ -87,6 +83,6 @@ Cette carte arrive souvent avec des soucis d’argent — quelle facture d’abo
 
 Une lecture inventée : la personne en face de vous tire le Deux de Pentacles, puis le [Dix de Bâtons](/fr/bibliotheque/cartes-tarot/dix-de-batons/). Deux puis dix : un équilibre qu’on maintient, puis la fin d’un cycle, le passage d’une étape à l’autre. La Terre puis le Feu : la vie pratique, puis l’énergie et l’élan. Les dessins : un corps qui danse devant la mer, puis un homme courbé sous un fagot de dix bâtons. Dans mes notes, le Dix de Bâtons dit : garder l’énergie créative, sans se surcharger.
 
-La phrase que je dirais à voix haute : « Vous menez beaucoup de choses de front et vous le faites bien, mais vous portez plus que nécessaire, et il va falloir poser quelque chose bientôt. »
+La danse devant la mer, puis le fagot sur le dos, ce qui donnerait : « Vous menez beaucoup de choses de front et vous le faites bien, mais vous portez plus que nécessaire, et il va falloir poser quelque chose bientôt. »
 
-Pour vérifier, je demande : « Y a-t-il dans votre semaine quelque chose que vous pourriez poser, et que vous n’avez pas posé ? » Si une réponse vient tout de suite, ça a touché juste. Si la personne reste sans réaction, c’est un raté, et je le dis.
+Je vérifie en demandant : « Dans votre semaine, qu’est-ce qui pourrait être posé et ne l’a pas été ? » Si une réponse vient tout de suite, ça a touché juste. Si la personne reste sans réaction, la pièce a glissé des mains, et je le dis.

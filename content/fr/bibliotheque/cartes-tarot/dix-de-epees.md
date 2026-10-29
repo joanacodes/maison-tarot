@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/sw10.webp
 h1: Dix d’Épées — <em>dix</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » Dix d’Épées, regardez ce que vous avez
-  déjà : dix, l’élément Air, Soleil en Gémeaux. Vous lisez la carte. Le nombre dit
-  dix — la fin du cycle, la transition ; l’élément dit le mental, ce qu’on décide.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Un homme gît, transpercé de dix épées, sous un ciel noir ; pourtant, au ras des collines bleues, une lueur jaune s’étire à l’horizon. Qu’annonce-t-elle ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-air
@@ -30,7 +26,7 @@ faq:
 - q: 'Que signifie le Dix d’Épées ?'
   a: 'La fin de quelque chose, jusqu’au bout : un projet, une situation ou une façon de penser qui est terminée et qu’on ne peut plus pousser plus loin. Le dix, c’est le passage entre deux cycles, l’Air, c’est le mental, et la lumière à l’horizon dit que le cycle suivant a déjà commencé.'
 - q: 'Le Dix d’Épées renversé, ça change quoi ?'
-  a: 'La même fin, freinée ou excessive. Freinée : se relever lentement, une épée après l’autre, une fois le pire passé. Excessive : refuser d’admettre que c’est fini, ou vivre chaque contretemps comme le fond du trou.'
+  a: 'Soit on se relève lentement, une épée après l’autre, une fois le pire passé ; soit on refuse d’admettre que c’est fini, ou l’on vit chaque contretemps comme le fond du trou.'
 - q: 'Le Dix d’Épées annonce-t-il une mort ?'
   a: 'Non. Une carte n’annonce ni une mort, ni une maladie, ni une agression, et je ne lis pas sur ces sujets. Le Dix d’Épées parle d’une fin dans votre vie — une étape, un rôle, une histoire que vous vous racontiez — et de ce qui vient après.'
 - q: 'Que dit le Dix d’Épées pour le travail ?'
@@ -65,19 +61,19 @@ Comptez les épées. Une seule aurait suffi. Dix, c’est le mental au bout d’
 
 ## Par les couleurs {#couleurs}
 
-Le [noir](/fr/bibliotheque/couleurs-tarot/noir/) remplit le ciel : l’absence, le vide, les pensées négatives — et la réalité, la fin qu’on ne peut plus éviter de voir. Dessous, la bande de jaune : la joie, l’optimisme, la volonté. Elle est étroite, mais c’est ce qu’il y a de plus lumineux sur la carte. L’eau et les collines bleues, ce sont des émotions au repos : pas de tempête, pas de vagues. Le rouge de la cape, c’est la passion et la force, posées à terre. Lisez les couleurs seules et vous avez : une fin sombre, des sentiments calmes, une lumière qui monte.
+Le [noir](/fr/bibliotheque/couleurs-tarot/noir/) remplit le ciel : l’absence, le vide, les pensées négatives — et la réalité, la fin qu’on ne peut plus éviter de voir. Dessous, la bande de jaune : la joie, l’optimisme, la volonté. Elle est étroite, mais c’est ce qu’il y a de plus lumineux sur la carte. L’eau et les collines bleues, ce sont des émotions au repos : pas de tempête, pas de vagues. Le rouge de la cape, c’est la passion et la force, posées à terre. Sans un mot d’explication, ces teintes font le récit : une fin sombre, des sentiments calmes, une lumière qui monte.
 
 ## Par l’astrologie : Soleil en Gémeaux {#astrologie}
 
-Dans la tradition Golden Dawn, le Dix d’Épées correspond au [Soleil](/fr/bibliotheque/astrologie/soleil/) dans le troisième décan des Gémeaux. Les Gémeaux, c’est « je pense » ; le Soleil, c’est le centre, ce autour de quoi vous organisez votre vie. La ruine du centre : la façon de penser sur laquelle vous aviez tout bâti, terminée. Et le Soleil est dessiné sur la carte, dans cette bande jaune à l’horizon. Une clé facultative : le nombre dit déjà la même chose.
+Le troisième décan des Gémeaux, attribué au [Soleil](/fr/bibliotheque/astrologie/soleil/), est celui du Dix d’Épées. Le verbe des Gémeaux est « penser » ; le Soleil, lui, désigne le centre d’un thème, l’axe d’une vie. La ruine du centre : la façon de penser sur laquelle vous aviez tout bâti, terminée. Et le Soleil est dessiné sur la carte, dans cette bande jaune à l’horizon. Optionnelle, cette clé : le dix racontait déjà la fin d’un cycle.
 
 ## En lecture {#lecture}
 
 Le Dix d’Épées fait partie des cartes qui font le plus peur, et je comprends pourquoi : c’est le dessin le plus dur du jeu. Il n’annonce ni une mort, ni une maladie, ni une agression, et je ne lis pas sur ces sujets. Il parle d’une fin dans votre vie — un travail, une relation, un rôle, un projet — qui est allée aussi loin qu’elle pouvait aller. Le fond du trou, et aussi le sol sur lequel on prend appui pour remonter. **Le Dix d’Épées, c’est la fin de la chute, pas son début.**
 
-Renversé, cette fin se quitte pas à pas, ou ne finit jamais. Freinée : se relever lentement, une épée après l’autre, une fois le pire passé. Excessive : refuser d’admettre que c’est fini et rester à terre — ou vivre chaque contretemps comme le fond du trou.
+Renversé, cette fin se quitte pas à pas, ou ne finit jamais. Pas à pas : se relever lentement, une épée après l’autre, une fois le pire passé. Sans fin : refuser d’admettre que c’est fini et rester à terre — ou vivre chaque contretemps comme le fond du trou.
 
-Si quelqu’un tire cette carte alors que tout va vraiment au plus mal, la carte n’est pas le sujet. Demandez à la personne comment elle va. Si cela semble plus lourd que ce qu’une lecture peut porter, [un médecin ou un thérapeute est la bonne porte](/fr/avertissements/#therapie), et le dire avec douceur fait partie d’une bonne lecture.
+Si quelqu’un tire cette carte alors que tout va vraiment au plus mal, la carte n’est pas le sujet. Demandez à la personne comment elle va. Si cela semble plus lourd que ce qu’une lecture peut porter, [un médecin ou un psychologue l’aidera davantage](/fr/avertissements/#therapie), et le dire avec douceur fait partie d’une bonne lecture.
 
 À côté de la [Mort](/fr/bibliotheque/cartes-tarot/la-mort/), la fin est confirmée — et dans mes notes, la Mort, c’est aussi la récolte, l’envie de rendre la vie à nouveau fertile. À côté de l’[As d’Épées](/fr/bibliotheque/cartes-tarot/as-de-epees/), le cycle se ferme et une idée neuve et claire ouvre le suivant. J’ai écrit sur cette carte [en amour](/fr/blog/dix-depees-amour/), et sur [les lames qui font peur, plus douces qu’il n’y paraît](/fr/blog/cartes-tarot-qui-font-peur/).
 
@@ -101,4 +97,4 @@ Dans un tirage d’entraînement pour une personne que vous ne connaissez pas, l
 
 À voix haute, cela pourrait donner : « Quelque chose que vous portiez à bout de bras est arrivé à son terme, et c’est vraiment fini. Ce qui arrive, c’est un nouveau désir — quelque chose que vous avez envie de faire, pas quelque chose que vous devez réparer. »
 
-Puis vérifiez : « Est-ce que quelque chose s’est terminé pour vous récemment, quelque chose que vous vous battiez pour faire durer ? » Laissez-lui le temps de répondre. Si elle dit non, c’est un raté : ne tordez pas la carte pour qu’elle colle.
+Puis vérifiez : « Est-ce que quelque chose s’est terminé pour vous récemment, quelque chose que vous vous battiez pour faire durer ? » Laissez-lui le temps de répondre. Si elle dit non, ce Dix-là n’était pas le sien : n’essayez pas de le lui faire porter quand même.

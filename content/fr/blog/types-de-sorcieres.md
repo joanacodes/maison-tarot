@@ -53,7 +53,7 @@ Il y a pourtant un endroit où les deux se croisent. Sur beaucoup d’autels de 
 
 {{< cards "ar01 waac cuac swac peac" >}}
 
-Dans mes notes, le Magicien (le Bateleur au tarot de Marseille) est la carte des quatre éléments — bâton, coupe, épée, pentacle — plus l’éther : quelqu’un qui sait se servir de tout ce qui est sur la table. Son revers : il peut faire semblant. Un outil sur un autel ne fait rien tout seul ; c’est la personne qui le tient qui agit.
+Le Magicien, dans mes notes, rassemble les quatre éléments — bâton, coupe, épée, pentacle — plus l’éther : quelqu’un qui sait tirer parti de chaque objet posé devant lui. Son revers : il peut faire semblant. Un outil sur un autel ne fait rien tout seul ; c’est la personne qui le tient qui agit.
 
 ## Quelle sorcière suis-je ? {#quelle-sorciere}
 
@@ -61,7 +61,7 @@ Je ne me présente pas comme sorcière. Mais j’ai une définition, tirée de m
 
 Alors, quelle sorcière suis-je ? **Peut-être aucune de la liste, et ce n’est pas un manque.**
 
-Les mots ci-dessus servent à comprendre ce que les gens veulent dire, comme n’importe quel glossaire. Comme case où se ranger, ils marchent à peu près aussi bien qu’un signe astrologique tout seul : vous n’êtes pas un signe, vous êtes un mélange de tout. Et c’est pareil pour les étiquettes qu’on choisit devant une vidéo — on ne décide pas de ce qu’on est grâce à un quiz, pas plus qu’on ne choisit son type de starseed (les mots [empathe, starseed et lightworker](/fr/blog/empathe-starseed-lightworker/) sont définis à part). Pratiquez un an, et vous découvrirez votre propre façon d’être sorcière, si vous tenez au mot.
+Les mots ci-dessus servent à comprendre ce que les gens veulent dire, comme n’importe quel glossaire. Comme case où se ranger, ils marchent à peu près aussi bien qu’un signe astrologique tout seul : un signe ne résume personne ; chacun de nous est un assemblage. Et c’est pareil pour les étiquettes qu’on choisit devant une vidéo — on ne décide pas de ce qu’on est grâce à un quiz, pas plus qu’on ne choisit son type de starseed (les mots [empathe, starseed et lightworker](/fr/blog/empathe-starseed-lightworker/) sont définis à part). Pratiquez un an, et vous découvrirez votre propre façon d’être sorcière, si vous tenez au mot.
 
 ## Pour aller plus loin {#etape-suivante}
 

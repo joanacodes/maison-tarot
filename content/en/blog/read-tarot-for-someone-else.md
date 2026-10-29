@@ -39,13 +39,13 @@ So describe the drawing first, out loud, before you go anywhere near what you kn
 
 Sometimes you’ll feel you shouldn’t say something, or should say it differently: the person isn’t ready, or they’re scared, or wary of the whole thing. Adapt your attitude and your words. **Leave a thing unsaid if you need to, but never say something you don’t see.**
 
-Every card has a plus and a minus, and a heavy card is still a drawing with more than one thing in it. Say your friend draws the Ten of Swords and the Five of Cups.
+Even a heavy card has a lighter side, and it’s still a drawing with more than one thing in it. Say your friend draws the Ten of Swords and the Five of Cups.
 
 {{< cards "sw10 cu05" >}}
 
 “Betrayal and grief” is one way to put it, and it lands like a slap. The other way reads the same drawings to the end: a figure on the ground under ten swords, and behind him the yellow of a dawn coming up; a cloaked figure staring at three spilled cups, with two still standing behind. “Something ended hard, and you’ve been looking at what was lost. More is still standing than you’re letting yourself see.” Same cards, same truth, and something to hold.
 
-If you’re very empathic, you may start to feel the other person’s sadness as if it were yours. Listen to the emotion without letting it take over; keep your own. There’s more on difficult sentences in [how to share bad news in a reading](/blog/bad-news-tarot-reading/).
+If you’re very empathic, you may start to feel the other person’s sadness as if it were yours. Hear the feeling out, but don’t let it steer; hold on to yours. There’s more on difficult sentences in [how to share bad news in a reading](/blog/bad-news-tarot-reading/).
 
 ## Reading for friends without losing one {#friends}
 

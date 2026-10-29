@@ -25,7 +25,7 @@ La personne tirée au sort ne vous dit rien avant : ni question, ni situation. C
 
 ## Le minutage : la soirée, et chaque personne {#minutage}
 
-Gardez la soirée courte ; environ quatre-vingt-dix minutes suffisent largement. Il m’arrive de m’arrêter après deux heures de tirages, par prudence, et lire devant un groupe demande plus que lire chez soi.
+Gardez la soirée courte ; environ quatre-vingt-dix minutes suffisent largement. Certains soirs, deux heures de tirages me suffisent et je m’arrête, par précaution ; lire devant un groupe demande plus que lire chez soi.
 
 Donnez à chacun une limite de temps et annoncez-la au début : une dizaine de minutes par personne. Ça paraît strict. C’est en fait une gentillesse. Personne n’a envie de regarder le tirage d’un autre s’éterniser pendant quarante minutes, et la personne lue ne reste pas trop longtemps exposée devant des inconnus.
 
@@ -45,11 +45,11 @@ Mettez-vous d’accord sur ces points avant la première carte :
 
 ## Ce sur quoi vous ne lisez pas, dit avec douceur {#refus}
 
-Dites-le au début, avant le tirage au sort : la santé, la mort, la grossesse, les procès en cours, les décisions d’argent, les malédictions et les personnes absentes ne seront pas lues ce soir. Dites-le une fois, chaleureusement, pour que personne ne se sente visé plus tard.
+Dites-le au début, avant le tirage au sort : ce soir, on ne tire rien sur la santé, sur la mort ou une grossesse, sur un procès en cours ou une décision d’argent, ni sur une malédiction ou une personne absente. Dites-le une fois, chaleureusement, pour que personne ne se sente visé plus tard.
 
-Quand l’un de ces sujets arrive quand même, rappelez-vous pourquoi on pose la question : en général, l’inquiétude, l’amour ou la peur. Quelqu’un qui demande si sa mère va guérir n’enfreint aucune règle ; il a peur. Reconnaissez-le d’abord. Puis dites doucement pourquoi les cartes ne sont pas le bon outil : sur un tel sujet, un mot de travers fait des dégâts, et tout le monde se trompe parfois en lisant. Puis proposez quelque chose : « Je préférerais regarder ce qui vous aiderait à traverser cette semaine. On tire pour ça ? » Ou orientez vers la personne qui peut aider : un médecin, un avocat, quelqu’un de confiance.
+Quand l’un de ces sujets arrive quand même, rappelez-vous pourquoi on pose la question : en général, l’inquiétude, l’amour ou la peur. Quelqu’un qui demande si sa mère va guérir n’enfreint aucune règle ; il a peur. Reconnaissez-le d’abord. Puis expliquez doucement pourquoi un tirage ne convient pas ici : sur un tel sujet, un mot de travers fait des dégâts, et tout le monde se trompe parfois en lisant. Puis proposez quelque chose : « Je préférerais regarder ce qui vous aiderait à traverser cette semaine. On tire pour ça ? » Ou orientez vers la personne qui peut aider : un médecin, un avocat, quelqu’un de confiance.
 
-J’ai une liste de [questions plus douces à proposer à la place](/fr/blog/questions-a-eviter-tarot/), et celle des [sujets sur lesquels je ne lis pas](/fr/avertissements/#refus), avec les raisons.
+J’ai une liste de [questions plus douces à proposer à la place](/fr/blog/questions-a-eviter-tarot/), et celle de [mes refus, chacun avec sa raison](/fr/avertissements/#refus).
 
 ## Rester honnête {#honnete}
 
@@ -57,7 +57,7 @@ L’honnêteté, c’est ce qui fait qu’une soirée gratuite vaut plus qu’un
 
 - Dire les ratés à voix haute, tels quels : pas de deuxième carte pour les rattraper, pas de « vous comprendrez plus tard ».
 - Ne rien vendre. Pas de « réservez un tirage privé pour approfondir » à la fin. Si vous enseignez, mentionnez-le une fois, à la fin, après une soirée passée à dire où vous avez raté.
-- Tout noter après : ce que vous avez dit, et ce qui a été confirmé.
+- Tout noter après coup, en face de chaque phrase ce que la personne a reconnu.
 
 Certaines personnes, déjà passées par un tirage gratuit ailleurs, arrivent sur leurs gardes, en attendant l’argumentaire de vente. [Ce qu’il faut savoir avant une lecture gratuite en ligne](/fr/blog/avant-une-lecture-gratuite-en-ligne/), c’est la page que je leur enverrais avant la soirée, pour qu’elles sachent à quoi s’attendre.
 

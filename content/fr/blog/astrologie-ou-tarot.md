@@ -33,17 +33,17 @@ Mon image pour la différence, c’est une maison. Le thème en est le plan : le
 
 ## Pourquoi je fais commencer presque tout le monde par le tarot {#tarot-dabord}
 
-Parce que le retour est immédiat. Vous tirez une carte pour quelqu’un qui ne vous a rien dit, vous dites ce que vous voyez, et la personne vous dit si ça a tenu. Cette boucle apprend plus vite que n’importe quel livre.
+Parce que le retour est immédiat. Vous tirez une carte pour quelqu’un, sans rien savoir de sa vie, vous dites ce que vous voyez, et la personne vous dit si ça a tenu. Cette boucle apprend plus vite que n’importe quel livre.
 
-Parce que tout le monde peut le faire. Chaque personne que j’ai aidée à lire y est arrivée entre le premier et le troisième essai. Pas besoin de soixante-dix-huit significations apprises par cœur : il faut une manière de regarder — les couleurs, le nombre, l’élément — et le cran de dire ce qui vient. C’est par là que commence [le parcours pour apprendre le tarot](/fr/apprendre-le-tarot/).
+Parce que tout le monde peut le faire. Parmi celles et ceux que j’ai accompagnés, tous y sont parvenus en trois tentatives au maximum. Pas besoin de soixante-dix-huit significations apprises par cœur : il faut une manière de regarder — les couleurs, le nombre, l’élément — et le cran de dire ce qui vient. C’est par là que commence [le parcours pour apprendre le tarot](/fr/apprendre-le-tarot/).
 
 Et parce que ça m’a surprise, moi aussi. Mes amis m’ont offert mon premier jeu à Noël — je m’attendais à un livre d’astrologie. J’ai fait ma première lecture le 26 décembre 2020, et elle était juste, alors que je pensais devoir me former avant. **Le tarot vous dit en une soirée si vous savez lire ; l’astrologie met une saison à vous dire si elle a raison.**
 
 ## Pourquoi l’astrologie garde sa place {#lastrologie}
 
-Je suis venue à l’astrologie pour en rire, j’ai lu mon propre thème, et je l’ai trouvé trop précis. Alors je l’ai testé, case par case, sur moi puis sur d’autres. Dans l’ensemble, 30 à 40 % tenaient. Saturne, Lilith et Chiron tenaient de 75 à 90 %. [Le test complet est raconté ici](/fr/blog/j-ai-teste-mon-theme-astral/) ; la version courte, c’est qu’un tiers suffit pour être utile, pas pour faire confiance.
+Je suis venue à l’astrologie pour en rire ; mon propre thème s’est révélé trop précis pour ça. Je l’ai donc vérifié position par position, sur moi puis sur d’autres. Sur l’ensemble, entre 30 et 40 % des positions se confirmaient ; pour Saturne, Lilith et Chiron, on montait de 75 à 90 %. [J’ai raconté le test en entier ici](/fr/blog/j-ai-teste-mon-theme-astral/) ; la version courte, c’est qu’un tiers suffit pour être utile, pas pour faire confiance.
 
-Dans le jeu, cette utilité est concrète. Dans la tradition de la Golden Dawn, douze arcanes majeurs portent un signe, et les lames mineures de 2 à 10 portent une planète dans un signe. L’Empereur est Bélier, la Force est Lion, la Mort est Scorpion.
+Dans le jeu, cette utilité est concrète. Douze arcanes majeurs ont reçu un signe de la Golden Dawn, et chaque mineur numéroté, du Deux au Dix, est rattaché à une planète placée dans un signe. Ainsi, l’Empereur est Bélier, la Force est Lion, la Mort est Scorpion.
 
 {{< cards "ar04 ar08 ar13" >}}
 
@@ -53,10 +53,10 @@ Quand la Mort sort, le Scorpion vous donne gratuitement un verbe (« je désire 
 
 Parce qu’ils ne répondent pas à la même question. Le thème parle de tendances que vous emportez partout ; un tirage parle du moment. Ensemble, ils vous montrent une habitude et la situation dans laquelle elle se rejoue. Il existe même un pont entre les deux : [la carte de naissance au tarot](/fr/blog/carte-de-naissance-tarot/) part de votre date de naissance, comme un thème, et aboutit à une paire d’arcanes majeurs à connaître vraiment.
 
-Et parce qu’aucun des deux n’a le dernier mot. Le tarot n’est pas une autorité : vous agissez selon ce que vous ressentez. L’astrologie n’est pas une excuse : « je suis Scorpion » n’explique rien de la façon dont vous avez traité quelqu’un. Je garde les deux comme clés de lecture, et les [avertissements le disent clairement](/fr/avertissements/#astrologie).
+Et parce qu’aucun des deux n’a le dernier mot. Le tarot n’est pas une autorité : vous agissez selon ce que vous ressentez. Quant au signe, il ne sert pas d’excuse : « je suis Scorpion » n’explique rien de la façon dont vous avez traité quelqu’un. Je garde les deux comme clés de lecture, et les [avertissements le disent clairement](/fr/avertissements/#astrologie).
 
 ## Par où commencer cette semaine {#cette-semaine}
 
-Pour le tarot : une carte par jour pendant une semaine. Décrivez ce qu’il y a dessus, ce que vous voyez, ce que vous recevez, avant de chercher quoi que ce soit. [La carte du jour](/fr/blog/carte-du-jour-tarot/) explique comment.
+Pour le tarot : une carte par jour pendant une semaine. Notez ce que montre l’image, puis ce qui vous vient en la regardant, avant de chercher quoi que ce soit. [La carte du jour](/fr/blog/carte-du-jour-tarot/) explique comment.
 
-Pour l’astrologie : imprimez votre thème et vérifiez une seule position, votre Saturne, coche ou croix. Comme livre, je recommande *The Only Astrology Book You’ll Ever Need*, de Joanna Martine Woolfolk ; pour les thèmes, Astro-Seek. Puis revenez aux cartes — vous y reconnaîtrez déjà les signes plus facilement.
+Pour l’astrologie : imprimez votre thème et vérifiez une seule position, votre Saturne, coche ou croix. Comme lecture, je conseille le manuel de Joanna Martine Woolfolk, *The Only Astrology Book You’ll Ever Need* ; pour calculer les thèmes, Astro-Seek. Puis revenez aux cartes — vous y reconnaîtrez déjà les signes plus facilement.

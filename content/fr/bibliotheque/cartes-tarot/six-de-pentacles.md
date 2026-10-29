@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/pe06.webp
 h1: Six de Pentacles — <em>six</em>, la Terre
-lede: 'Avant de chercher ce que « signifie » Six de Pentacles, regardez ce que vous
-  avez déjà : six, l’élément Terre, Lune en Taureau. Vous lisez la carte. Le nombre
-  dit six — l’harmonie retrouvée, l’échange ; l’élément dit la matière, ce qui tient.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Entre deux personnes agenouillées, un homme vêtu de rouge tient une balance à plateaux égaux et verse des pièces dans une main tendue. Qui reste debout quand on donne ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre
@@ -30,7 +26,7 @@ faq:
 - q: Que signifie Six de Pentacles ?
   a: 'Un échange qui fonctionne : une aide donnée ou reçue, un accord juste, quelqu’un qui a assez et qui partage. La balance dans la main de celui qui donne demande si l’échange est équilibré, et où se place la personne.'
 - q: Six de Pentacles renversé, ça change quoi ?
-  a: 'La balance penche : une aide qui vient avec des conditions, quelqu’un qui a besoin de rester au-dessus, ou quelqu’un qui donne tant qu’il finit lui-même à genoux. La même carte, freinée ou excessive.'
+  a: 'La balance penche : une aide qui vient avec des conditions, quelqu’un qui a besoin de rester au-dessus, ou quelqu’un qui donne tant qu’il finit lui-même à genoux.'
 - q: Que signifie le Six de Pentacles en amour ?
   a: 'Le donner et le recevoir dans la relation : qui offre du temps, du soin, de l’attention, et qui les reçoit. La carte demande si cet équilibre convient aux deux.'
 categories:
@@ -53,7 +49,7 @@ L’homme est debout ; les deux autres sont à genoux. **C’est une scène de d
 
 Le [chiffre 6](/fr/bibliotheque/numerologie/chiffre-6/), c’est le 3 exalté : la machine ne fait pas que tourner, elle va vite, et il y a assez. Après l’épreuve du 5, les choses circulent de nouveau, et il devient possible de se reposer — ou de donner. Dans mes notes, le Six de Pentacles, c’est la balance : connaître la valeur, et le royaume qui dure.
 
-Le conseil du 6, c’est de rester calme et humble quand les résultats affluent, et la balance, c’est cette humilité devenue objet : donner, mais peser. Dans l’histoire d’Instagram, le 6, c’est l’investissement de Facebook : de l’argent qui arrive de celui-là même qui avait l’air d’une menace.
+Quand les résultats affluent, le 6 conseille le calme et la modestie, et la balance, c’est cette humilité devenue objet : donner, mais peser. Dans l’histoire d’Instagram, le 6, c’est l’investissement de Facebook : de l’argent qui arrive de celui-là même qui avait l’air d’une menace.
 
 ## Par l’élément : Terre {#element}
 
@@ -65,13 +61,13 @@ C’est aussi le côté protecteur de la Terre, celui qui nourrit et prend soin.
 
 Celui qui donne porte du [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) : l’action, la force, celui qui fait. Dessous, une tunique rayée de bleu et de blanc — le sentiment et la pureté à parts égales, comme les deux plateaux de sa balance. Les pièces et les pentacles sont dorés. Les deux personnes à genoux portent un jaune brun pâle et du [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) : l’une plus près de la terre, l’autre de l’émotion.
 
-Le ciel est gris, neutre. Lisez les couleurs avant la carte : une silhouette dans la couleur de l’action, deux dans des couleurs plus calmes, et de l’or qui passe de l’une aux autres.
+Le ciel est gris, neutre. Sur ce fond, une silhouette porte la couleur de l’action, deux autres des teintes plus calmes, et l’or passe de l’une aux autres.
 
 ## Par l’astrologie : Lune en Taureau {#astrologie}
 
-Dans la tradition Golden Dawn, le Six de Pentacles correspond au deuxième décan du Taureau, attribué à la [Lune](/fr/bibliotheque/astrologie/lune/). La Lune, c’est le besoin de sécurité, la façon de se réconforter et de réconforter les autres. Le Taureau dit *J’ai*. L’astrologie classique place la Lune en exaltation dans le Taureau : se sentir en sécurité parce qu’il y a assez. Ensemble : le confort d’avoir assez pour partager.
+À la [Lune](/fr/bibliotheque/astrologie/lune/) revient le deuxième décan du Taureau, et avec lui le Six de Pentacles. La Lune, c’est le besoin de sécurité, la façon de se réconforter et de réconforter les autres. Le Taureau dit *J’ai*. L’astrologie classique place la Lune en exaltation dans le Taureau : se sentir en sécurité parce qu’il y a assez. Ensemble : le confort d’avoir assez pour partager.
 
-Facultatif. La balance en dit l’essentiel.
+À prendre ou à laisser : la balance tenue à niveau raconte déjà ce partage.
 
 ## En lecture {#lecture}
 
@@ -79,7 +75,7 @@ Facultatif. La balance en dit l’essentiel.
 
 Renversée, la balance penche. L’aide vient avec des conditions ; celui qui donne a besoin de rester au-dessus ; celui qui reçoit ne peut ni refuser ni rendre. Ou l’inverse : quelqu’un donne tant — du temps, de l’argent, du soin — qu’il finit lui-même à genoux.
 
-On tire souvent cette carte autour de l’argent : prêter, emprunter, une dette, une augmentation. Ces décisions sont les vôtres, avec quelqu’un qui peut voir les chiffres ; je ne lis pas dessus. Ce que la carte peut montrer, c’est l’équilibre de la relation ([comment je lis les Pentacles quand il est question d’argent](/fr/blog/tarot-et-argent/)).
+On tire souvent cette carte autour de l’argent : prêter, emprunter, une dette, une augmentation. Ces décisions sont les vôtres, avec quelqu’un qui peut voir les chiffres ; les cartes n’ont pas à trancher là-dessus. Ce que la carte peut montrer, c’est l’équilibre de la relation ([prêter, emprunter, et ce que le tarot n’en dit pas](/fr/blog/tarot-et-argent/)).
 
 À côté de [la Justice](/fr/bibliotheque/cartes-tarot/la-justice/), encore une balance : une équité qu’on pèse, pas qu’on ressent. À côté du [Cinq de Pentacles](/fr/bibliotheque/cartes-tarot/cinq-de-pentacles/), l’étape d’avant — les deux silhouettes dans la neige — et ici, l’aide qui arrive. À côté du [Deux de Coupes](/fr/bibliotheque/cartes-tarot/deux-de-coupes/), l’échange se fait debout, face à face, d’égal à égal.
 
@@ -89,6 +85,6 @@ On tire souvent cette carte autour de l’argent : prêter, emprunter, une dette
 
 Admettons que vous battiez les cartes pour une amie, et que le Six de Pentacles sorte avec le [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/) à côté. Six puis quatre : l’élan du 6 — dans mes notes, le nombre où l’on peut enfin se reposer — puis la stabilité du 4. La Terre puis l’Air : quelque chose de donné ou de reçu, puis l’esprit qui se tait. Les dessins : de l’or qui passe d’une main à l’autre, puis une silhouette allongée, immobile, sur un tombeau, sous un vitrail.
 
-La phrase que je dirais à voix haute : « Vous avez beaucoup donné — du temps, de l’aide, peut-être de l’argent — et maintenant il vous faut vous arrêter et reprendre votre souffle. »
+L’or qui passe de main en main, puis le gisant ; je résumerais : « Vous avez beaucoup donné — du temps, de l’aide, peut-être de l’argent — et maintenant il vous faut vous arrêter et reprendre votre souffle. »
 
-Pour vérifier, je demande : « Est-ce que ça correspond à ces dernières semaines ? » Si c’est oui, je laisse la personne en dire autant ou aussi peu qu’elle le veut. Si ces dernières semaines n’y ressemblent pas du tout, le raté est pour moi, et je l’assume.
+Je vérifie par une question large : « Est-ce que ça correspond à ces dernières semaines ? » Si c’est oui, je laisse la personne en dire autant ou aussi peu qu’elle le veut. Si ces dernières semaines n’y ressemblent pas du tout, le raté est pour moi, et je l’assume.

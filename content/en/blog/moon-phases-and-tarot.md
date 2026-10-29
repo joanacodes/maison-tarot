@@ -39,7 +39,7 @@ The deck itself is full of moons. In the Golden Dawn tradition the astrological 
 
 ## What I can and can’t tell you {#what-i-can-say}
 
-What I can’t tell you is whether my readings held better under a full moon. My notebook has two columns — what I said, what was confirmed — and no column for the sky.
+What I can’t tell you is whether my readings held better under a full moon. My notebook tracks my statements and the person’s answers, and there’s no column for the sky.
 
 What I can tell you is what has changed a reading, in my experience. Tiredness: interpreting takes energy, and when mine runs low, so does the reading. Pressure: when I want too much to be right, I see nothing. And the person in front of me: someone afraid of hearing something can block a reading as surely as I can. All three are things you can notice and act on tonight, whatever the moon is doing.
 

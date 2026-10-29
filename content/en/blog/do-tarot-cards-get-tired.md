@@ -23,7 +23,7 @@ Say you've read for six friends in one evening, and the last two readings felt l
 
 ## What's really happening {#what-is-happening}
 
-What gets tired is your attention. Interpreting takes energy, and after a reading you can feel very tired; the next reading pays for it. I sometimes stop after two hours of readings, out of caution — not because the deck has had enough, but because I have.
+What gets tired is your attention. Making sense of a card uses you up, and whatever one reading drains, the next one pays for. Now and then I stop once I've done two hours of readings, as a precaution — not because the deck has had enough, but because I have.
 
 **The cardboard is the same as yesterday. You aren't.**
 

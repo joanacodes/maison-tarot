@@ -9,9 +9,9 @@ tags: ["le tarot n’est pas une autorité", "tarot et décision", "écouter son
 image: "covers/tarot-is-not-an-authority.jpg"
 imageAlt: "Une main qui écrit dans un carnet ouvert, à côté d’une carte retournée face visible sur une table de cuisine"
 imagePrompt: "A hand writing in an open notebook beside a single face-up tarot card on a kitchen table, a mug at the edge of the frame. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Le tarot n’est pas une autorité. Un tirage peut mettre des mots sur ce que vous n’aviez pas dit, vous montrer un angle que vous aviez manqué. Il ne peut pas décider à votre place, et il ne doit pas : les tirages ratent — environ un sur dix des miens, selon mon propre décompte —, une même carte se lit différemment d’un jour à l’autre, et le tarologue est humain. Agissez donc selon ce que vous ressentez, pas selon une carte. Servez-vous du tirage comme d’une question à confronter à votre intuition ; quand les deux divergent, suivez votre intuition et notez ce qui se passe."
+summary: "Le tarot n’est pas une autorité. Un tirage peut mettre des mots sur ce que vous n’aviez pas dit, vous montrer un angle que vous aviez manqué. Il n’a ni le pouvoir ni le droit de choisir pour vous : les tirages ratent — environ un sur dix des miens, selon mon propre décompte —, le sens d’une carte varie avec les jours, et le tarologue est humain. Fiez-vous donc à votre ressenti plutôt qu’à une carte. Servez-vous du tirage comme d’une question à confronter à votre intuition ; quand les deux divergent, suivez votre intuition et notez ce qui se passe."
 ---
-Un tirage de tarot n’est pas une consigne. Il peut vous montrer quelque chose que vous n’aviez pas encore formulé ; ce que vous en faites vous appartient. Ma position tient donc en une ligne : agissez selon ce que vous ressentez, pas selon ce qu’a dit une carte.
+Un tirage de tarot n’est pas une consigne. Il peut vous montrer quelque chose que vous n’aviez pas encore formulé ; ce que vous en faites vous appartient. Ma position tient donc en une ligne : décidez d’après votre ressenti, jamais sur la foi d’une carte.
 
 ## Ce que veut dire « le tarot n’est pas une autorité » {#ce-que-ca-veut-dire}
 
@@ -29,9 +29,9 @@ Trois raisons, toutes très ordinaires.
 
 Les tirages ratent. Selon mon propre décompte, environ un sur dix des miens n’a pas tenu, et j’ai publié [ma façon de compter, ratés compris](/fr/blog/le-tarot-marche-t-il-300-tirages/). Un sur dix, c’est un bon taux pour une conversation. C’est un mauvais taux pour confier sa vie.
 
-Les images bougent. Une même carte peut se lire différemment d’une personne à l’autre, et d’un jour à l’autre pour la même personne. Une Tour un mardi tranquille et une Tour après une nuit blanche ne disent pas la même chose, et aucune des deux n’est un verdict.
+Les images bougent. D’un lecteur à l’autre, une carte change de visage, et chez un même lecteur elle évolue au fil des jours. Une Tour un mardi tranquille et une Tour après une nuit blanche ne disent pas la même chose, et aucune des deux n’est un verdict.
 
-Les tarologues sont humains. Dans mes notes sur le Magicien (le Bateleur au tarot de Marseille), son côté sombre, c’est qu’il sait faire semblant : si on lui fait aveuglément confiance, il peut mentir. C’est vrai de n’importe quel tarologue, moi comprise. Pas forcément par malveillance ; parfois on est fatigué, parfois on veut faire plaisir. Une bonne lecture vous laisse la place de dire « non, ce n’est pas ça ».
+Les tarologues sont humains. Dans mes notes sur le Magicien, son côté sombre, c’est qu’il sait faire semblant : si on lui fait aveuglément confiance, il peut mentir. C’est vrai de n’importe quel tarologue, moi comprise. Pas forcément par malveillance ; parfois on est fatigué, parfois on veut faire plaisir. Une bonne lecture vous laisse la place de dire « non, ce n’est pas ça ».
 
 ## Que faire d’un tirage, alors {#que-faire}
 

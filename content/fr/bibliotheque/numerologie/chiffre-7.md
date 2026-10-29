@@ -59,7 +59,7 @@ gallery:
 ---
 ## Ce que dit le 7 {#definition}
 
-**Le 7, c’est analyse.** Patience, calme, négociations, récolter. Le 7 est l’analyse : on regarde ce qu’on a, et on décide de la suite. Dans le [cycle des nombres](/fr/bibliotheque/numerologie/), il vient après le 6 et prépare le 8.
+**Le 7, c’est analyse.** Patience, calme, négociations, récolter. Le 7 est l’analyse : on regarde ce qu’on a, et on décide de la suite. Il ralentit ce que le 6 avait accéléré, avant que le 8 ne bâtisse l’empire : une halte dans [la seconde moitié du cycle](/fr/bibliotheque/numerologie/).
 
 ## Le conseil du 7 {#conseil}
 
@@ -67,7 +67,7 @@ Se souvenir que tout est temporaire, et que la situation dans laquelle vous ête
 
 ## Un exemple que tout le monde connaît {#exemple}
 
-Facebook décide de changer le modèle d’Instagram et d’en faire une plateforme de publicité. Ce n’est ni le triomphe ni la chute : c’est la table de négociation, où l’on choisit ce que la chose va devenir.
+Facebook décide de changer le modèle d’Instagram et d’en faire une plateforme de publicité. Ce n’est ni le triomphe ni la chute : c’est la table de négociation, là où se décide la forme que prendra l’application.
 
 ## Les cinq cartes qui portent le 7 {#cartes}
 
@@ -81,6 +81,6 @@ Facebook décide de changer le modèle d’Instagram et d’en faire une platefo
 
 ## En lecture {#lecture}
 
-Un 7 dans un tirage dit : **prenez le temps de regarder avant de décider.** Le Sept de Pentacles contemple sa récolte, le Sept de Coupes hésite entre des illusions, le Sept d’Épées agit en douce, le Sept de Bâtons tient sa position. Le Chariot est le 7 de la volonté : il avance parce qu’il a analysé où il va.
+Quand le 7 apparaît, il conseille : **prenez le temps de regarder avant de décider.** Le Sept de Pentacles contemple sa récolte, le Sept de Coupes hésite entre des illusions, le Sept d’Épées agit en douce, le Sept de Bâtons tient sa position. Le Chariot est le 7 de la volonté : il avance parce qu’il a analysé où il va.
 
 {{% six %}}

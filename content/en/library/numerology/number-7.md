@@ -1,6 +1,6 @@
 ---
 title: 'Number 7 in tarot: meaning, cards and advice (tarot numerology)'
-description: "Patience, calm, negotiations, harvesting. Seven is analysis: you look at what you have, and decide what’s next."
+description: "Patience, calm, negotiations, harvesting. Seven is the pause to count what has grown and choose the next move."
 translationKey: num-7
 type: library
 navTitle: Number 7
@@ -59,7 +59,7 @@ gallery:
 ---
 ## What 7 says {#definition}
 
-**7 is analysis.** Patience, calm, negotiations, harvesting. Seven is analysis: you look at what you have, and decide what's next. In the [cycle of numbers](/library/numerology/) it comes after 6 and prepares 8.
+**7 is analysis.** Patience, calm, negotiations, harvesting. Seven takes stock before choosing what's next. Between the speed of 6 and the empire of 8, [the numbers](/library/numerology/) pause here to think.
 
 ## The advice of 7 {#advice}
 
@@ -81,6 +81,6 @@ Facebook decides to change Instagram's model and make it an advertising platform
 
 ## In a reading {#reading}
 
-A 7 in a spread says: **take the time to look before deciding.** The Seven of Pentacles contemplates its harvest, the Seven of Cups hesitates between illusions, the Seven of Swords acts on the sly, the Seven of Wands holds its ground. The Chariot is the 7 of will: it moves because it has analysed where it's going.
+Whenever a 7 shows up: **take the time to look before deciding.** The Seven of Pentacles contemplates its harvest, the Seven of Cups hesitates between illusions, the Seven of Swords acts on the sly, the Seven of Wands holds its ground. The Chariot is the 7 of will: it moves because it has analysed where it's going.
 
 {{% six %}}

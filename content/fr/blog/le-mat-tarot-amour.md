@@ -49,7 +49,7 @@ La question que j’entends avec cette lame, c’est « Est-ce que je me lance ?
 
 Les cartes ne peuvent pas vous dire qui est quelqu’un d’autre, ni si cela va durer. Cette personne n’est pas dans la pièce, et l’avenir de deux personnes se fait à deux, jour après jour. Ce que le Mat peut faire, c’est vous montrer votre façon de marcher.
 
-Une question plus douce : « Qu’est-ce que je sais déjà de l’endroit où je mets les pieds — et qu’est-ce que mon chien essaie de me dire ? » Tout le monde en a un : l’amie qui hausse un sourcil, la petite boule au ventre au deuxième rendez-vous, le détail que vous avez remarqué et décidé de ne pas voir. L’écouter ne veut pas dire ne pas sauter. Qui ne tente rien n’a rien, c’est vrai ; mais on peut tenter les yeux ouverts, en regardant le sol une seconde avant de relever la tête vers le ciel.
+Le chien du Mat vous souffle une question plus tendre : « Qu’est-ce que je sais déjà de l’endroit où je mets les pieds — et qu’est-ce que mon chien essaie de me dire ? » Tout le monde en a un : l’amie qui hausse un sourcil, la petite boule au ventre au deuxième rendez-vous, le détail que vous avez remarqué et décidé de ne pas voir. L’écouter ne veut pas dire ne pas sauter. Qui ne tente rien n’a rien, c’est vrai ; mais on peut tenter les yeux ouverts, en regardant le sol une seconde avant de relever la tête vers le ciel.
 
 ## Inversé : figé au bord, ou lancé sans regarder {#inverse}
 
@@ -57,4 +57,4 @@ Inversé, le Mat, c’est le départ qui ne démarre pas, ou qui démarre sans r
 
 ## Vos premières cartes, avec d’autres débutants autour {#premieres-cartes}
 
-Les nouveaux départs sont un bon moment pour apprendre, en amour comme au tarot. Toutes les personnes que j’ai aidées à lire y sont arrivées entre le premier et le troisième essai ; aucune n’a eu besoin d’un don, seulement d’accepter de dire ce qui venait. Si vous voulez tirer vos premières cartes avec d’autres personnes autour de vous — aucune question à poser, rien à préparer —, c’est à cela que servent [les événements gratuits](/fr/evenements/).
+Les nouveaux départs sont un bon moment pour apprendre, en amour comme au tarot. Chaque personne que j’ai accompagnée vers la lecture a réussi au bout d’une à trois tentatives ; aucune n’a eu besoin d’un don, seulement d’accepter de dire ce qui venait. Si vous voulez tirer vos premières cartes avec d’autres personnes autour de vous — aucune question à poser, rien à préparer —, c’est à cela que servent [les événements gratuits](/fr/evenements/).

@@ -17,7 +17,7 @@ Oui, d’après mon expérience. La plupart de mes lectures pour des inconnus se
 
 Quand j’ai compté mes [300 tirages à l’aveugle](/fr/blog/le-tarot-marche-t-il-300-tirages/), la plupart s’étaient faits en ligne : sur des serveurs Discord, en appels de groupe, et pendant un live. D’autres en face à face. Environ neuf sur dix ont tenu, d’après mon propre décompte, et les lectures derrière ce chiffre se sont faites en majorité à travers un écran.
 
-[Ma toute première lecture pour une inconnue](/fr/blog/premier-tirage-tarot/) en faisait partie : elle s’est faite sur un groupe Discord, et la confirmation est arrivée quelques jours plus tard, par message. Les deux sont passées par un écran.
+[Le tout premier tirage que j’ai fait pour une inconnue](/fr/blog/premier-tirage-tarot/) en faisait partie : il a eu lieu sur un groupe Discord, et la confirmation est arrivée quelques jours plus tard, par message. Les deux sont passés par un écran.
 
 Une limite honnête : ce neuf sur dix réunit les lectures en ligne et celles en face à face. Il ne dit pas si les unes ont mieux tenu que les autres. Ce qu’il montre, c’est qu’un écran n’a pas empêché les lectures de tenir.
 
@@ -27,7 +27,7 @@ Moins d’informations me parviennent, et ça aide. Dans une pièce, on voit les
 
 La visio rend une chose que l’appel vocal ne donne pas : un visage. Un visage hoche la tête, sourit, soupire au bon moment, et c’est aussi de l’information. Si vous lisez en visio, il est utile de demander gentiment à la personne de garder un visage de joueur de poker et de réserver ses réactions pour la fin. Certaines n’y arrivent pas, et ce n’est pas grave ; ça vaut la peine de le noter à côté de la lecture.
 
-La personne ne touche pas les cartes. On me demande souvent si ça compte. Je ne crois pas. Ce n’est pas des cartes que vient la lecture ; elles m’aident à me concentrer, ou à me déconcentrer, pour que mes propres pensées s’écartent. De plus en plus, les premières impressions arrivent avant que j’aie mélangé, et je garde les cartes sur la table surtout parce que la personne a envie de les voir. En visio, le plus utile est donc de montrer chaque carte à la caméra, pour que la personne voie ce que vous voyez.
+La personne ne touche pas les cartes. On me demande souvent si ça compte. Je ne crois pas. Ce n’est pas des cartes que vient la lecture ; elles m’aident à me concentrer, ou à me déconcentrer, pour que mes propres pensées s’écartent. De plus en plus, les premières impressions arrivent avant que j’aie mélangé, et si les cartes restent sur la table, c’est d’abord parce qu’en face, on tient à les voir. En visio, le plus utile est donc de montrer chaque carte à la caméra, pour que la personne voie ce que vous voyez.
 
 Ce que je ne sais pas expliquer, c’est pourquoi la distance ne semble rien changer. Je ne sais pas comment fonctionne le tarot, tout court, et je présente [les quatre explications qu’on avance](/fr/blog/comment-marche-le-tarot/) sans avoir besoin d’en choisir une.
 
@@ -37,7 +37,7 @@ Rarement la lecture elle-même. Plutôt le cadre.
 
 - La connexion coupe au milieu d’une phrase, et le fil part avec. Dites où vous en étiez quand elle revient, sans tout reprendre depuis le début.
 - Quelqu’un d’autre est dans la pièce, et écoute. Une personne qui n’est pas seule n’est pas vraiment ouverte, et vous n’avez que la moitié de la lecture.
-- Quelqu’un passe derrière la caméra — un conjoint, un colocataire — et la tentation est de le lire aussi. Il n’a rien demandé. Je demande toujours la permission avant de lire quelqu’un, et l’écran n’y change rien.
+- Quelqu’un passe derrière la caméra — un conjoint, un colocataire — et la tentation est de le lire aussi. Il n’a rien demandé. Sans son accord, je ne lis personne, et l’écran n’y change rien.
 - L’écran pousse à enchaîner les lectures. Il m’arrive de m’arrêter au bout de deux heures, par prudence, et c’est en ligne que cette limite s’oublie le plus vite.
 - L’enregistrement. Demandez avant d’enregistrer quoi que ce soit. Une lecture est personnelle, même gratuite.
 
@@ -57,4 +57,4 @@ Une partie de mes lectures s’est faite devant d’autres personnes : en appels
 
 Mes [sessions](/fr/sessions/) individuelles se font en visio, une heure. Ce sont des cours plutôt que des lectures : vous lisez la carte d’abord, je lis après vous, et on compare. Si vous voulez savoir ce qu’un écran fait à une lecture, c’est une bonne façon de le découvrir des deux côtés.
 
-Et si vous apprenez et cherchez des gens sur qui vous entraîner, c’est en ligne que j’ai trouvé les miens, grâce à un groupe Discord, des groupes Facebook et une application de correspondance. J’ai rassemblé [où trouver des personnes à qui tirer les cartes](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/), des personnes ravies de ne rien vous dire.
+Et si vous apprenez et cherchez des gens sur qui vous entraîner, c’est en ligne que j’ai trouvé les miens, grâce à un groupe Discord, des groupes Facebook et une application de correspondance. J’ai rassemblé [mes pistes pour dénicher des gens à lire](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/), des personnes ravies de ne rien vous dire.

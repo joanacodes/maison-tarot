@@ -17,11 +17,11 @@ In love, the Empress is care: a relationship that feeds you, a season of tendern
 
 ## Three, Earth and Venus, at home {#three-earth-venus}
 
-The Empress is 3, the machine running: something that works and shows it. In my notes, the advice of 3 is to finish one project before starting another; its minus is planting everywhere at once. In love, that’s a relationship that gives — and the temptation to take on everyone’s needs because it’s going so well.
+The Empress is 3, the machine running: something that works and shows it. My notes give 3 a piece of advice — see one project through before opening the next — and a minus: planting everywhere at once. In love, that’s a relationship that gives — and the temptation to take on everyone’s needs because it’s going so well.
 
 Her element is Earth: protective, stable, the mother of all growth, and stubborn. Between two people, the riches are meals, time, attention, a home that feels like one. Venus, her planet, adds what you love and how you love it.
 
-Her energy is feminine, which in my definition has nothing to do with being a woman ([feminine and masculine, as I use the words](/library/feminine-masculine-energies/feminine-masculine/)). It’s a dynamic: patience, softness, what works behind the scenes. Anyone can carry the Empress in a relationship — the partner who remembers everyone’s appointments, the man who cooks for the whole family every Sunday.
+Her energy is feminine, and in my definition that says nothing about anyone’s gender ([feminine and masculine, as I use the words](/library/feminine-masculine-energies/feminine-masculine/)). It’s a dynamic: patience, softness, what works behind the scenes. Anyone can carry the Empress in a relationship — the partner who remembers everyone’s appointments, the man who cooks for the whole family every Sunday.
 
 My note on her: she feeds, gives, creates life, nourishes — and she can smother with her presence and protection, or stop feeding. [The Empress’s card page](/library/tarot-cards/the-empress/) reads the drawing and the colours.
 
@@ -29,7 +29,7 @@ My note on her: she feeds, gives, creates life, nourishes — and she can smothe
 
 Because the Empress is the mother card, the question that comes with her is often “Am I going to be pregnant?” or “Will we have a child?” It’s one of the most tender questions anyone can bring, and it usually comes with a lot of hope, and sometimes a long wait.
 
-I don’t read on pregnancy or fertility. Not because the question isn’t important — because it’s too important for a card. A wrong word there does real harm, in either direction, and a doctor or a fertility specialist can give you answers I can’t. I’ve written about [pregnancy questions, and what I’d read instead](/blog/tarot-cards-pregnancy/).
+Pregnancy and fertility are outside what I read. Not because the question isn’t important — because it’s too important for a card. A wrong word there does real harm, in either direction, and a doctor or a fertility specialist can give you answers I can’t. I’ve written about [pregnancy questions, and what I’d read instead](/blog/tarot-cards-pregnancy/).
 
 What the Empress can hold meanwhile is the other half of her: care for you. A kinder question is “Who looks after me while I look after everyone else?” or “What would make me feel nourished this month?” My notes on [shadow work](/blog/shadow-work-beginners/) say to be as gentle and tolerant with yourself as you are with others. The Empress is that sentence, drawn.
 

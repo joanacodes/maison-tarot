@@ -21,7 +21,7 @@ La Lune est une carte d’Eau, et l’Eau, c’est ce que deux personnes ressent
 
 Son nombre, 18, se ramène à 1 + 8 = 9 : la dernière ligne droite d’une étape. La Lune sort donc rarement au début d’une histoire d’amour. Elle sort dans le brouillard de la fin d’une période, dans les semaines qui précèdent une conversation qui finit enfin par avoir lieu.
 
-Son énergie est féminine : l’imagination, l’intangible, ce qui se passe en coulisses. En amour, c’est l’histoire que vous écrivez dans les blancs entre deux messages. Les Poissons, si l’astrologie vous parle, disent la même chose : une surface calme, et tout un monde qui grouille dessous. Les autres clés sont sur [la page de la Lune](/fr/bibliotheque/cartes-tarot/la-lune/).
+Son énergie est féminine : l’imagination, l’intangible, ce qui se passe en coulisses. En amour, c’est l’histoire que vous écrivez dans les blancs entre deux messages. Les Poissons, si l’astrologie vous parle, disent la même chose : une surface calme, et tout un monde qui grouille dessous. Les deux tours, le chemin et les couleurs sont détaillés sur [la page de la Lune](/fr/bibliotheque/cartes-tarot/la-lune/).
 
 **La Lune ne dit pas que quelqu’un cache quelque chose ; elle dit que tout n’est pas encore visible, d’un côté comme de l’autre.**
 
@@ -37,9 +37,9 @@ Après une rupture, c’est l’incompréhension. Pourquoi c’est fini, ce qui 
 
 La Lune est la carte qu’on lit comme une tromperie, alors elle arrive souvent avec cette question : « Est-ce qu’il me ment ? » En général, la personne qui la pose a passé des nuits blanches avec, et ça mérite de la douceur, pas une leçon.
 
-Je ne lis pas sur quelqu’un qui n’est pas dans la pièce, et voici pourquoi. Cette personne n’a pas accepté d’être lue. Et la Lune est la carte de la projection : demandez-lui de confirmer un soupçon et elle aura l’air de le confirmer, parce que vous y verrez votre peur. « Il n’y a pas de fumée sans feu », dit-on ; la Lune, c’est parfois du brouillard sans feu. J’en parle davantage dans un article sur [le fait de tirer les cartes sur quelqu’un d’autre](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/).
+Le soupçon vise une personne absente de la lecture, et je ne lis pas sur elle ; voici pourquoi. Elle n’a pas accepté d’être lue. Et la Lune est la carte de la projection : demandez-lui de confirmer un soupçon et elle aura l’air de le confirmer, parce que vous y verrez votre peur. « Il n’y a pas de fumée sans feu », dit-on ; la Lune, c’est parfois du brouillard sans feu. J’en parle davantage à propos de [la lecture d’une personne qui n’a rien demandé](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/).
 
-La question plus douce : « Qu’est-ce que je sais vraiment, qu’est-ce que j’imagine, et qu’est-ce que j’aurais besoin de lui demander directement ? » La réponse se trouve dans la troisième partie : dans une conversation, en plein jour.
+Je vous propose plutôt trois questions à la suite : « Qu’est-ce que je sais pour de bon ? Qu’est-ce que j’invente ? Que faudrait-il lui demander en face ? » La réponse se trouve dans la troisième : dans une conversation, en plein jour.
 
 Le chien et le loup de la carte hurlent vers la même lumière. La peur de la nuit est vieille et très humaine, et avoir peur du noir, c’est parfois avoir peur de sa propre ombre — l’endroit où l’on range ce qu’on n’a jamais voulu regarder. Avant, j’attendais toujours la lumière pour entrer dans une pièce sombre ; j’ai écrit sur [ce qui a changé](/fr/blog/peur-du-noir/).
 

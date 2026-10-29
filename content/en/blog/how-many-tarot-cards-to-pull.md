@@ -9,7 +9,7 @@ tags: ["how many tarot cards", "tarot spreads", "one card pull", "three card spr
 image: "covers/how-many-tarot-cards-to-pull.jpg"
 imageAlt: "Three cards face down in a row on a wooden table, the rest of the deck stacked beside them"
 imagePrompt: "Three tarot cards laid face down in a row on a wooden table, the rest of the deck stacked beside them. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Pull as few tarot cards as the question needs, and decide the number before you shuffle. One card for a single thing, today. Three for a situation with something stuck in it: what’s here, what’s in the way, what you can do. Five when you’re weighing two options. Ten, as in the Celtic Cross, only for a real crossroads and an hour to spare. More cards don’t make a reading more accurate; they make it wider and harder to check. And some questions are better with no cards at all."
+summary: "Pull as few tarot cards as the question needs, and decide the number before you shuffle. One card for a single thing, today. Three for a situation with something stuck in it: the situation itself, the obstacle, and your next move. Five when you’re weighing two options. Ten, as in the Celtic Cross, only for a real crossroads and an hour to spare. More cards don’t make a reading more accurate; they make it wider and harder to check. And some questions are better with no cards at all."
 ---
 Pull as few cards as the question needs, and decide how many before you shuffle. One for a day, three for a situation, five for a choice, ten for a real crossroads with an hour to spare. More cards don’t make a reading truer; they make it harder to check.
 
@@ -18,7 +18,7 @@ Pull as few cards as the question needs, and decide how many before you shuffle.
 | Your question | Cards | How to lay them |
 |---|---|---|
 | One thing, today: “What’s worth noticing today?” | 1 | One card, described before it’s interpreted |
-| A situation with something stuck in it | 3 | What’s here, what’s in the way, what you can do |
+| A situation with something stuck in it | 3 | The situation, the obstacle, your next move |
 | A choice between two options | 5 | One for you, then two for each option: where it leads, what it asks of you |
 | A check-in you’ll repeat every month | 3 to 5 | The same positions every time, so you can compare |
 | A real crossroads, with an hour to spare | 10 | [The Celtic Cross](/blog/celtic-cross-spread/), read two cards at a time |
@@ -30,17 +30,17 @@ If you’re not sure which row your question belongs to, take the smaller number
 
 One card read properly teaches more than ten recited. With one card, all your attention goes to the image. With ten, half of it goes to remembering what position seven stands for.
 
-Fewer cards are also easier to check. “This card is what’s in the way” is a claim the person can confirm or contradict. Ten cards hold so many meanings that something will fit whatever is said next — the mechanism behind statements that feel personal and fit everyone, which I check myself against in [the Barnum effect and tarot](/blog/barnum-effect-tarot/).
+Fewer cards are also easier to check. “This card is the obstacle” is a claim the person can confirm or contradict. Ten cards hold so many meanings that something will fit whatever is said next — the mechanism behind statements that feel personal and fit everyone, which I check myself against in [the Barnum effect and tarot](/blog/barnum-effect-tarot/).
 
-That’s why I teach the same order to everyone: one card a day, then three, then more. **The number of cards should follow the question, not the size of the worry.**
+That’s why I teach everyone the same progression: a single daily card first, then three, and longer spreads only later. **The number of cards should follow the question, not the size of the worry.**
 
 ## An example: three cards for a stuck situation {#example}
 
-Say you’ve started a new job, it isn’t going the way you hoped, and you’re reading for yourself. You write the question down, choose three cards and three positions before shuffling — what’s here, what’s in the way, what you can do — and draw the Page of Pentacles, the Five of Wands and the Eight of Pentacles.
+Say you’ve started a new job, it isn’t going the way you hoped, and you’re reading for yourself. You write the question down, choose three cards and three positions before shuffling — the situation, the obstacle, your next move — and draw the Page of Pentacles, the Five of Wands and the Eight of Pentacles.
 
 {{< cards "pepa wa05 pe08" >}}
 
-What’s here: a young man standing in a green field, holding up a single pentacle and studying it. Earth, a Page: someone learning, careful, at the very start. What’s in the way: five young men with staffs who seem to fight without any coordination. Fire, number five: conflict, and energy pulling in every direction. What you can do: a craftsman at his bench, carving pentacles one after another. In my notes, the Eight of Pentacles is mastery, and the effort it takes.
+The situation: a youth in a field, eyes fixed on the one coin he holds up. Earth, a Page: someone learning, careful, at the very start. The obstacle: five young men brandishing staffs, all at odds and none in step. Fire, number five: conflict, and energy pulling in every direction. Your next move: a man at a workbench, chiselling one coin and then the next. My notes pair this card with mastery and the work that mastery costs.
 
 As one sentence: “I’m new and learning; around me, people are pulling in different directions; I can keep my head down on the work itself, one piece at a time.” Three cards, one sentence, and every part of it can be checked against the week. The layout has its own page: [the three-card spread](/blog/three-card-tarot-spread/).
 
@@ -52,7 +52,7 @@ A few myths turn up here. You don’t need an odd number. Three isn’t luckier 
 
 ## Questions that need no cards {#no-cards}
 
-Some questions are better without tarot, and it isn’t because the cards can’t fall on them. When someone asks about a diagnosis, a pregnancy, a death, a court case, a money decision, or what a person who isn’t in the room is feeling, it’s usually worry, love or fear asking. A wrong word there does real damage, so I don’t read on those; the [list, with my reasons](/disclaimers/#refusals), is public.
+Some questions are better without tarot, and it isn’t because the cards can’t fall on them. When someone asks about a diagnosis, a pregnancy, a death, a court case, a money decision, or what a person who isn’t in the room is feeling, it’s usually worry, love or fear asking. A wrong word there does real damage, so I leave those aside, and I’ve published [each one with my reasons](/disclaimers/#refusals).
 
 What helps instead is a different question. “Will the scan be fine?” is one for a doctor. “What would help me get through this week?” is one the cards can hold, with one card or three. Yes-or-no questions are their own case, and [I answer those differently](/blog/yes-or-no-tarot/).
 

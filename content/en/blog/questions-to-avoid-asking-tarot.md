@@ -25,7 +25,7 @@ The risk isn’t that no card falls. One always does. The risk is what a worried
 
 “Am I ill?” “Will the operation go well?” “How long does my grandmother have?” “Will I get pregnant this year?”
 
-Behind every one of these there is fear, love or longing, sometimes all three. I understand why someone would want a picture to hold while they wait. But a card can’t see inside a body. A Tower drawn the night before a scan can frighten someone for nothing; a Sun can reassure them into delaying a test. These are questions for a doctor, a midwife, a fertility specialist — people who can examine, measure and follow up. I go into each in more detail in [why careful readers step back from health, pregnancy and death](/blog/health-pregnancy-death-tarot/).
+Behind every one of these there is fear, love or longing, sometimes all three. I understand why someone would want a picture to hold while they wait. But a card can’t see inside a body. A Tower drawn the night before a scan can frighten someone for nothing; a Sun can reassure them into delaying a test. These are questions for a doctor, a midwife, a fertility specialist — people who can examine, measure and follow up. I go into each in more detail in [the longer article on illness, pregnancy and the end of life](/blog/health-pregnancy-death-tarot/).
 
 What the cards can hold meanwhile is the waiting. Kinder questions:
 
@@ -55,9 +55,9 @@ That last one tends to send you back to the paperwork, which is where the answer
 
 ## Questions about someone who isn’t in the room {#third-parties}
 
-“Is he cheating?” “What does she think of me?” “Will he come back?”
+“Is he cheating?” “How does she see me?” “Will he come back?”
 
-These usually come from love, hurt, or the particular pain of not knowing. Two reasons I’d rather not read them. You wouldn’t want someone looking through your bedroom while you were out, and reading a person without their consent is a little like that. And someone who doesn’t know they’re being read isn’t open, so you catch half a sentence and build a whole statement on it.
+These usually come from love, hurt, or the particular pain of not knowing. Two reasons I’d rather not read them. Nobody likes the thought of someone rummaging in their room while they’re out; reading a person behind their back is not so different. And a person who has no idea a reading is going on hasn’t opened up to it, so you get a scrap of the picture and end up inventing the rest.
 
 Kinder questions turn back towards you:
 

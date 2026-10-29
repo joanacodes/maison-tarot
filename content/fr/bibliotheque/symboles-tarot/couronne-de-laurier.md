@@ -8,7 +8,7 @@ weight: 15
 categories: ["Symboles"]
 tags: ["symboles du tarot", "couronne de laurier", "le Monde", "Six de Bâtons", "symbolisme du tarot"]
 h1: "La couronne de laurier — une victoire <em>accomplie</em>"
-lede: "Une couronne de laurier, c’est une couronne faite de feuilles, et elle fane : c’est tout son sens. Dans le Rider-Waite-Smith, elle marque une victoire gagnée et vue de tous — le cavalier qui rentre, la danseuse au bout du cycle."
+lede: "Une couronne de laurier, c’est une couronne faite de feuilles, et elle fane : c’est tout son sens. Quand Pamela Colman Smith la dessine, elle marque une victoire gagnée et vue de tous — le cavalier qui rentre, la danseuse au bout du cycle."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/le-monde
@@ -75,9 +75,9 @@ Des feuilles couronnent aussi la tête du Mat, et des fleurs celle de l’enfant
 
 Quand une couronne de laurier sort, quelque chose a été accompli, ou va être reconnu : un examen réussi, un projet livré, une réconciliation scellée. Regardez où elle se trouve. Sur une tête, c’est un succès personnel ; autour de toute une silhouette, comme sur le Monde, c’est un cycle qui se ferme.
 
-Les clés de lecture : le vert, dans [ma grille des couleurs](/fr/bibliotheque/couleurs-tarot/vert/), c’est la croissance et la vie — une victoire encore vivante. Le nombre : le Six de Bâtons porte le 6, « le 3 exalté » : la réussite, le triomphe, un moment où l’on peut souffler. [Le conseil du 6](/fr/bibliotheque/numerologie/chiffre-6/), c’est de rester calme et humble quand les résultats arrivent. Le Monde porte le 21, qui revient à 3 : la machine qui tourne bien.
+Côté couleur, le [vert](/fr/bibliotheque/couleurs-tarot/vert/) parle de croissance, de vie — une victoire encore vivante. Le nombre : le Six de Bâtons porte le 6, « le 3 exalté » : la réussite, le triomphe, un moment où l’on peut souffler. Le conseil du [6](/fr/bibliotheque/numerologie/chiffre-6/) ? Quand ça réussit, rester serein, et ne pas prendre la grosse tête. Le Monde porte le 21, qui revient à 3 : la machine qui tourne bien.
 
-Imaginons que quelqu’un tire le Six de Bâtons après des mois d’efforts. La couronne confirme la victoire. La carte suivante dit ce qu’il en fait.
+Quand le Six de Bâtons arrive après des mois d’efforts, la couronne confirme la victoire, et la carte d’après montre l’usage qu’on en fait.
 
 ## L’autre face {#revers}
 

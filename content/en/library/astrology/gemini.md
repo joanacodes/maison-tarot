@@ -23,12 +23,10 @@ related:
 - /library/astrological-modes/mutable
 - /library/astrology/mercury
 faq:
-- q: Which tarot card corresponds to Gemini?
-  a: The Lovers, in the Golden Dawn tradition taken up by the Rider-Waite-Smith. When
-    it comes out, the sign gives its verb, element and mode at once.
-- q: 'I''m a Gemini: is this card ''my'' card?'
-  a: A way in, not an identity. The card says the same thing to anyone; your sign
-    only helps you recognise it faster. Astrology is not an excuse.
+- q: 'Which tarot card corresponds to Gemini?'
+  a: 'The Lovers: two figures, a choice, and the words exchanged around it. That’s home ground for the sign of communication and relay.'
+- q: 'I’m a Gemini: are the Lovers ‘my’ card?'
+  a: 'They’re a card you might read a little faster, nothing more. Drawn by a Capricorn, the Lovers still speak of a choice and a conversation; drawn by you, they don’t turn gossip into a personality trait.'
 gallery:
 - src: "visuals/sign-gemini/1.jpg"
   title: "Passing it on"
@@ -75,7 +73,7 @@ The very good reporter, the lawyer — or the game of telephone.
 
 ## Its card: The Lovers {#card}
 
-When [the Lovers](/library/tarot-cards/the-lovers/) come out, Gemini is talking: a choice between two, a conversation that decides, a relay. Well placed, it's the right word that unites. Badly placed, it's the version going round that's no longer the true one.
+With [the Lovers](/library/tarot-cards/the-lovers/), Gemini starts talking: a choice between two, a conversation that decides, a relay. The right word can unite; the version going round can also stop being the true one.
 
 {{< cards "ar06" >}}
 

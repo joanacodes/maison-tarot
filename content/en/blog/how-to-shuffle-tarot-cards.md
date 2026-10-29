@@ -59,7 +59,7 @@ A new deck comes out of the box with every card upright. The overhand shuffle an
 
 To get reversals, you need to turn cards around: wash them on the table, or rotate one half of the deck before you riffle. If you don’t read reversals, do the opposite — overhand or riffle, and turn back any card that comes out upside down. Neither choice is more serious than the other; it only has to be the same choice every time, so you know what an upside-down card means when you see one.
 
-If a whole spread comes out reversed, check the shuffle before anything else: the deck has probably been turned over during a cut. [Every card reversed](/blog/all-cards-reversed-tarot/) goes into what it can mean after that. As for whether to read reversals at all, I give [my answer, and a shortcut](/blog/reversed-tarot-cards/), separately: a reversed card is the same card, slowed down or in excess.
+A spread reversed from end to end usually points back at the shuffle: the deck has probably been turned over during a cut. [Every card reversed](/blog/all-cards-reversed-tarot/) goes into what it can mean after that. As for whether to read reversals at all, I give [my answer, and a shortcut](/blog/reversed-tarot-cards/), separately: upside down, a card keeps its meaning but runs too slow or too strong.
 
 ## When to stop, and which card to take {#when-to-stop}
 

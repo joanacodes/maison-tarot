@@ -16,8 +16,7 @@ energy: Masculine
 kabbalah: Aleph
 image: cards/ar00.webp
 h1: The Fool — <em>zero</em>, Air, one step above the drop
-lede: 'Before looking up what The Fool “means”, look at what you already have: zero,
-  the element Air, Uranus. You’re reading the card.'
+lede: 'A young man strolls nose-up towards a cliff edge, bundle on his shoulder and a white rose in hand, a small dog leaping at his heels. Will the next step be a fall or a flight?'
 related:
 - /library/numerology
 - /library/four-elements/air-element
@@ -28,8 +27,7 @@ faq:
   a: 'There isn’t one meaning to memorise: The Fool is read through its number (zero),
     its element (Air) and its colours. The page above lays them out one by one.'
 - q: What about The Fool reversed?
-  a: The same card, slowed down or in excess. Look first at what the card says upright,
-    then at what blocks or overflows.
+  a: 'Reversed, the Fool’s departure is either held back or overdone, like the jump made to flee rather than to go somewhere. Look first at what the card says upright, then at what blocks or overflows.'
 draft: false
 categories:
 - Major arcana
@@ -43,7 +41,7 @@ tags:
 
 A young man walks towards the edge of a cliff, nose in the air, a bundle on a stick, a white rose in his hand. A small white dog jumps at his heels — to warn him or to play, we don’t know. Mountains behind; above, a white sun in a yellow sky. He isn’t looking where he steps. **That is the whole card**: one more step and it’s the drop — or the flight. The drawing doesn’t decide, and that’s on purpose.
 
-Notice what isn’t there: no path, no crowd, no tool. The Fool hasn’t built anything yet. He has light luggage, a flower, a dog and enthusiasm.
+Missing from the picture: a path, a crowd, a tool. The Fool hasn’t built anything yet. He has light luggage, a flower, a dog and enthusiasm.
 
 ## By number: zero {#number}
 
@@ -55,11 +53,11 @@ The Fool is an [Air](/library/four-elements/air-element/) card: the mind, the id
 
 ## By colours {#colours}
 
-**Yellow** everywhere — the sky, the boots, the bundle: joy, intelligence, the energy of a beginning. The **white** of the sun, the rose and the dog: what isn’t soiled yet, not decided yet. The **red** of the feather: a touch of desire, of drive. The **blue-grey** of the mountains behind: the world waiting, cold but not hostile. Read the colours before you read the card ([the colour grid](/library/tarot-colours/)) and you already have: joy, new, drive, a world to cross.
+**Yellow** everywhere — the sky, the boots, the bundle: joy, intelligence, the energy of a beginning. The **white** of the sun, the rose and the dog: what isn’t soiled yet, not decided yet. The **red** of the feather: a touch of desire, of drive. The **blue-grey** of the mountains behind: the world waiting, cold but not hostile. Taken through [the colour grid](/library/tarot-colours/), that’s joy, something new, drive, and a world to cross.
 
 ## By astrology: Uranus {#astrology}
 
-The Golden Dawn gave the Fool to the element of Air; modern [astrology](/library/astrology/) later linked it to **Uranus** — the planet of breaks, of what arrives unannounced, of freedom taken rather than asked for. It isn’t the sign of caution.
+The Golden Dawn counted the Fool as an Air card; modern [astrology](/library/astrology/) later linked it to **Uranus** — the planet of breaks, of what arrives unannounced, of freedom taken rather than asked for. It isn’t the sign of caution.
 
 ## In a reading {#reading}
 

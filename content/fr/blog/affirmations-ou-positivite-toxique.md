@@ -47,9 +47,9 @@ Cinq questions. En général, vous saurez dès la deuxième.
 
 ## Ce que le tarot m’a appris là-dessus {#tarot}
 
-Chaque carte a un plus et un moins. C’est la première ligne de mes notes sur les cartes, et la meilleure protection que je connaisse contre l’envie de tout voir en rose.
+Aucune carte n’est entièrement claire ni entièrement sombre : chacune a sa face lumineuse et son revers. C’est la première ligne de mes notes sur les cartes, et la meilleure protection que je connaisse contre l’envie de tout voir en rose.
 
-Prenez [le Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), que je considère comme la carte la plus négative du jeu : la perte, une émotion sombre, être seul avec ses problèmes. Une lecture positive à tout prix saute directement aux deux coupes encore debout derrière le personnage. Une lecture honnête nomme d’abord les trois coupes renversées, s’y attarde assez pour que la personne se sente entendue, et seulement ensuite se retourne.
+Prenez [le Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/) : à mes yeux, aucune carte ne pèse plus lourd. On y lit ce qu’on a perdu, et un chagrin qu’on porte sans personne. Une lecture positive à tout prix saute directement aux deux coupes encore debout derrière le personnage. Une lecture honnête nomme d’abord les trois coupes renversées, s’y attarde assez pour que la personne se sente entendue, et seulement ensuite se retourne.
 
 Le Neuf d’Épées fonctionne de la même façon : une longue nuit agitée, et une protection au-dessus de vous que vous ne voyez pas encore. L’Étoile, c’est l’espoir après une période difficile — après, pas à la place.
 
@@ -59,12 +59,12 @@ Le Neuf d’Épées fonctionne de la même façon : une longue nuit agitée, et 
 
 ## À essayer : une carte, une affirmation honnête {#essayer}
 
-1. Tirez une carte. Décrivez ce qu’il y a dessus avant d’interpréter quoi que ce soit.
+1. Tirez une carte et racontez son image, personnages et objets compris, avant d’interpréter quoi que ce soit.
 2. Nommez d’abord son moins, avec des mots simples.
 3. Puis son plus.
 4. Écrivez une phrase qui tient les deux, à la première personne, crédible aujourd’hui.
 
-Un exemple. [Le Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/), dans mes notes, c’est être prisonnier de soi-même alors qu’on a tous les outils : le bandeau peut tomber. Une affirmation honnête qui en sort : « Je me sens coincée, et j’ai plus d’outils que ceux dont je me sers aujourd’hui. » D’une carte numérotée sept, dont le conseil est que tout est temporaire : « C’est dur, et ça ne restera pas comme ça. »
+Un exemple. [Le Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/), dans mes notes, c’est un enfermement qu’on s’impose, avec de quoi en sortir à portée de main. Une affirmation honnête qui en sort : « Je me sens coincée, et j’ai plus d’outils que ceux dont je me sers aujourd’hui. » D’une carte numérotée sept, dont le conseil est que tout est temporaire : « C’est dur, et ça ne restera pas comme ça. »
 
 La limite honnête : les affirmations ne changent pas votre situation, et elles ne remplacent pas une personne. Si une émotion est trop lourde pour s’asseoir à côté d’une phrase, c’est [une porte vers un thérapeute](/fr/avertissements/#therapie), pas un échec de votre positivité.
 

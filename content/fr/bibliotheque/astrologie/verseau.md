@@ -26,12 +26,13 @@ related:
 - /bibliotheque/astrologie/uranus
 faq:
 - q: Quelle carte de tarot correspond au Verseau ?
-  a: L’Étoile, dans la tradition Golden Dawn reprise par le Rider-Waite-Smith. Quand
-    elle sort, le signe donne son verbe, son élément et son mode d’un coup.
-- q: 'Je suis Verseau : est-ce que cette carte est « ma » carte ?'
-  a: C’est une entrée, pas une identité. La carte parle à n’importe qui de la même
-    chose ; votre signe vous aide seulement à la reconnaître plus vite. L’astrologie
-    n’est pas une excuse.
+  a: L’Étoile, où l’eau coule de deux cruches — et le Verseau est justement le porteur
+    d’eau du zodiaque. En lecture, la carte apporte l’idée neuve
+    et l’espoir.
+- q: L’Étoile est-elle la carte personnelle des Verseau ?
+  a: 'Votre signe n’y change rien : l’espoir et l’idée neuve dont elle parle valent
+    pour tous ceux qui la tirent. Votre verbe, « je sais », gagne seulement à devenir
+    « j’ai vérifié ».'
 gallery:
 - src: "visuals/sign-aquarius/1.jpg"
   title: "Le petit nouveau"
@@ -78,7 +79,7 @@ Le savant fou, le clown, le fondateur de start-up, le youtubeur tech.
 
 ## Sa carte : L’Étoile {#carte}
 
-Quand l’Étoile sort, le Verseau est là : l’idéal, l’espoir qui ne lâche pas, l’idée neuve qu’on verse pour tout le monde. Bien posé, c’est l’élan qui répare. Mal posé, c’est l’idée qu’on croit savoir et qu’on n’a pas vérifiée. La carte a [sa propre page](/fr/bibliotheque/cartes-tarot/l-etoile/), avec toutes ses clés.
+[L’Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/) verse ce que le Verseau a trouvé : l’idéal, l’espoir qui ne lâche pas, l’idée neuve offerte à tout le monde. Ce peut être l’élan qui répare, ou l’idée qu’on croit savoir et qu’on n’a pas vérifiée.
 
 {{< cards "ar17" >}}
 

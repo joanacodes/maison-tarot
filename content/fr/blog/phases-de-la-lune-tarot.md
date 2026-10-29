@@ -35,15 +35,15 @@ Mes propres notes sur la Grande Prêtresse partent de là : son élément est l�
 
 {{< cards "ar02 ar18" >}}
 
-Le jeu lui-même est plein de lunes. Dans la tradition de la Golden Dawn, la Lune astrologique revient à [la Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), un croissant à ses pieds. La carte de la Lune, la dix-huitième, porte les Poissons : le chien et le loup qui hurlent, l’écrevisse qui sort de l’eau. La confusion est fréquente, et elle rappelle qu’un symbole sur une carte et un astre dans le ciel ne sont pas la même chose.
+Le jeu lui-même est plein de lunes. La Golden Dawn a confié la Lune astrologique à [la Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), un croissant à ses pieds. La carte de la Lune, la dix-huitième, porte les Poissons : le chien et le loup qui hurlent, l’écrevisse qui sort de l’eau. La confusion est fréquente, et elle rappelle qu’un symbole sur une carte et un astre dans le ciel ne sont pas la même chose.
 
 **Une croyance peut compter pour vous sans que les cartes en dépendent.**
 
 ## Ce que je peux vous dire, et ce que je ne peux pas {#ce-que-je-sais}
 
-Ce que je ne peux pas vous dire, c’est si mes lectures tenaient mieux un soir de pleine lune. Mon carnet a deux colonnes — ce que j’ai dit, ce qui a été confirmé — et aucune pour le ciel.
+Ce que je ne peux pas vous dire, c’est si mes lectures tenaient mieux un soir de pleine lune. Mon carnet note ce que j’annonce et ce que la personne valide, rien de plus — pas une ligne sur le ciel.
 
-Ce que je peux vous dire, c’est ce qui a changé une lecture, d’après mon expérience. La fatigue : interpréter demande de l’énergie, et il m’arrive de m’arrêter au bout de deux heures de lectures, par prudence. La pression : quand je veux trop tomber juste, je ne vois plus rien. Et la personne en face : quelqu’un qui a peur d’entendre quelque chose peut bloquer une lecture aussi sûrement que moi. Ces trois-là, vous pouvez les remarquer et agir dessus ce soir, quoi que fasse la lune.
+Ce que je peux vous dire, c’est ce qui a changé une lecture, d’après mon expérience. La fatigue : interpréter demande de l’énergie, et passé deux heures de tirages, je préfère parfois poser le jeu, par précaution. La pression : quand je veux trop tomber juste, je ne vois plus rien. Et la personne en face : quelqu’un qui a peur d’entendre quelque chose peut bloquer une lecture aussi sûrement que moi. Ces trois-là, vous pouvez les remarquer et agir dessus ce soir, quoi que fasse la lune.
 
 C’est aussi pour ça que je tiens à [la règle du silence](/fr/blog/regle-du-silence-tarot/) : la personne ne me dit rien avant. Pour tester quoi que ce soit sur les lectures — la lune comprise —, il faut des confirmations qui n’ont pas été nourries par ce que vous saviez déjà.
 
@@ -51,7 +51,7 @@ C’est aussi pour ça que je tiens à [la règle du silence](/fr/blog/regle-du-
 
 Il vous faut un carnet, un calendrier et trois mois de patience.
 
-1. Ajoutez une colonne à votre [carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) : date, cartes, ce que vous avez dit, ce qui a été confirmé, coche ou croix. Laissez une colonne vide pour la phase.
+1. Ajoutez une colonne à votre [carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) : date, cartes, vos affirmations, leurs confirmations, coche ou croix. Laissez une colonne vide pour la phase.
 2. Ne regardez pas la phase au moment de lire. Remplissez cette colonne après coup, d’un seul coup, avec un calendrier. Si vous savez que c’est la pleine lune, vous lirez autrement — et vous jugerez autrement.
 3. Lisez pour d’autres personnes quand c’est possible, avec la règle du silence. Les lectures pour soi sont bien plus difficiles à cocher ou barrer honnêtement.
 4. Tenez au moins trois cycles complets, soit trois mois environ.

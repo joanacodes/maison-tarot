@@ -18,7 +18,7 @@ faq:
 - q: "Is the sun always a good sign in tarot?"
   a: "It’s a sign that something is in the open. Most of the time that feels good. On Death, the same sun sits low on the horizon, and the card leaves it to you to say whether it’s rising or setting."
 - q: "What’s the difference between this page and the Sun card?"
-  a: "The Sun card, XIX, has its own page, and the Sun in a birth chart has another. This page follows the sun as a drawn detail across the whole deck."
+  a: "The Sun card, XIX, and the Sun in a birth chart are each read on a separate page. This one tracks the sun as a drawn detail across the whole deck."
 gallery:
 - src: "visuals/sym-sun/1.jpg"
   title: "Nothing changed but the light"
@@ -53,13 +53,13 @@ The sun is light, warmth and a day beginning. It’s also visibility: under the 
 
 An everyday example: the morning after a long conversation, when what felt hopelessly tangled at midnight looks obvious over coffee. Nothing changed but the light.
 
-## Where it appears in the deck {#where}
+## Six cards under the sun {#where}
 
 On the Fool, a white sun hangs in the top corner of a yellow sky. The departure happens in full daylight: nothing about it is secret, including the cliff.
 
 On the Lovers, an enormous sun fills the top of the card behind the angel. The choice between the two figures is made in plain view.
 
-On Death, a small sun sits on the horizon between two towers, behind the rider. Rising or setting? The card doesn’t say. In my notes Death is linked to the harvest and to starting again, and that sun holds both.
+On Death, a small sun sits on the horizon between two towers, behind the rider. Rising or setting? The card doesn’t say. My notes pair Death with harvest time and fresh starts, and that sun holds both.
 
 On Temperance, a rayed light rises between two peaks where the path ends, and the angel wears a small circle with a dot on the forehead — the old sign for the sun.
 
@@ -71,7 +71,7 @@ And the Sun, XIX, gives the whole card to it, with a face, straight and wavy ray
 
 {{< zoom "sun" "rest" >}}
 
-The card has [its own page](/library/tarot-cards/the-sun/), and the Sun in a birth chart has [another](/library/astrology/sun/). Here, we follow the drawn sun from card to card.
+[The Sun card](/library/tarot-cards/the-sun/) is read in full elsewhere, and so is [the Sun in a birth chart](/library/astrology/sun/); here, only the painted sun, from card to card.
 
 ## How to read it {#reading}
 

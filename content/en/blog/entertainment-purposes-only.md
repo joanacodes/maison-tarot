@@ -9,7 +9,7 @@ tags: ["for entertainment purposes only", "tarot disclaimer", "psychic disclaime
 image: "covers/entertainment-purposes-only.jpg"
 imageAlt: "A folded paper flyer on a café table beside a closed tarot deck, the small print at the bottom out of focus"
 imagePrompt: "A folded paper flyer lying on a small café table beside a closed tarot deck, the small print at the bottom of the flyer out of focus. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "‘For entertainment purposes only’ means a reader promises no outcome and offers no advice: a reading doesn’t replace a doctor, a lawyer, a financial adviser or a therapist. It doesn’t mean the reader is joking, and it doesn’t make a misleading sale fair. I like the phrase because it’s honest about what a reading is. Nobody knows how tarot works, me included, and by my own count about one reading in ten misses. The sentence hands the decision back to the person it belongs to."
+summary: "‘For entertainment purposes only’ means a reader promises no outcome and offers no advice: a reading doesn’t replace a doctor, a lawyer, a financial adviser or a therapist. It doesn’t mean the reader is joking, and it doesn’t make a misleading sale fair. I like the phrase because it’s honest about what a reading is. Nobody knows how tarot works, me included, and my own notebook records a miss roughly once in every ten readings. The sentence hands the decision back to the person it belongs to."
 ---
 “For entertainment purposes only” means the reader promises no outcome and gives no advice you should follow in place of a professional’s. People often read it as a wink, or as a legal shield. I read it as the most honest sentence on a reader’s page, and it’s on mine.
 
@@ -39,7 +39,7 @@ It isn’t a quality label either. A careful reader and a careless one can carry
 
 Because it’s true. Nobody knows how tarot works, me included. I count my readings, and about one in ten misses, by my own tally: a notebook, not a study. Claiming more than “a reading may show you something” would be pretending, and “entertainment” is a promise not to pretend.
 
-Because it hands the decision back. A reading isn’t an instruction; you act on what you feel, not on what I said. The phrase puts that in writing, where both of us can see it.
+Because it hands the decision back. What I say in a reading is information, never an order: what you do next follows your own feeling, not my words. The phrase puts that in writing, where both of us can see it.
 
 Say someone draws the Eight of Cups.
 
@@ -47,7 +47,7 @@ Say someone draws the Eight of Cups.
 
 I can tell them what I see: a figure walking away at night from eight cups that are still standing, moving on from something that no longer fills them. Whether that’s a job, a flat or nothing at all, and whether they should leave anything, is theirs to decide. The long version of that principle is in [tarot is not an authority](/blog/tarot-is-not-an-authority/).
 
-And because it protects the person more than the reader. Someone who hears “the cards say leave him” may leave him. Someone who hears “here’s what the cards show, and the choice is yours” goes home with their choice intact. That’s also why some subjects stay out of my readings altogether: health, death, pregnancy, ongoing court cases, money decisions. A wrong word costs too much there, entertainment or not. What a reading can hold instead is how you’re living through it.
+And because it protects the person more than the reader. Someone who hears “the cards say leave him” may leave him. Someone who hears “here’s what the cards show, and the choice is yours” goes home with their choice intact. That’s also why some subjects stay out of my readings altogether: anything about health, a death, a pregnancy, a lawsuit still in progress, or what to do with your money. A wrong word costs too much there, entertainment or not. What a reading can hold instead is how you’re living through it.
 
 ## How to read it on someone else’s page {#reading-it}
 
@@ -58,7 +58,7 @@ Check whether the rest of the page agrees with the small print. A page that says
 - A stated price, with nothing added at the end.
 - No urgency: nothing that has to be done tonight.
 
-If those match the sentence, the reader means it. If they don’t, [the nine red flags of a fake reader](/blog/how-to-spot-a-fake-tarot-reader/) will tell you what you’re looking at.
+If those match the sentence, the reader means it. If they don’t, [the warning signs I’d look for next](/blog/how-to-spot-a-fake-tarot-reader/) will tell you what you’re looking at.
 
 ## See it in practice {#next-step}
 

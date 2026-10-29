@@ -62,18 +62,18 @@ Voici ce que le décan ajoute à trois cartes sur lesquelles j’ai mes propres 
 
 Le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), c’est Mars en Scorpion : une silhouette en noir penchée sur trois coupes renversées, la perte sans détour. Mars y ajoute de la chaleur, la colère qui se loge dans le chagrin ; le Scorpion, l’attachement. Ça fait aussi mal parce que ça comptait autant. Le 24 octobre, au moment où j’écris, le Soleil vient d’entrer en Scorpion : nous voilà dans le décan du Cinq de Coupes jusqu’au 1er novembre environ, dix jours pour regarder ce qui s’est renversé, et les deux coupes encore debout. La suite est dans [la saison du Scorpion au tarot](/fr/blog/saison-scorpion-tarot/).
 
-Le Huit d’Épées, c’est Jupiter en Gémeaux. Ma note : prisonnier de soi-même alors qu’on a tous les outils, et on peut retirer le bandeau. Jupiter agrandit ; le verbe des Gémeaux, c’est « je pense ». Ensemble : un esprit où les pensées ont tellement poussé qu’il ne voit plus la sortie.
+Le Huit d’Épées, c’est Jupiter en Gémeaux. Ma note : la personne s’est enfermée elle-même, outils en main, et peut défaire le bandeau quand elle le décide. Jupiter agrandit ; le verbe des Gémeaux, c’est « je pense ». Ensemble : un esprit où les pensées ont tellement poussé qu’il ne voit plus la sortie.
 
 Le Six de Coupes, c’est le Soleil en Scorpion. Ma note : prendre du temps pour soi, l’enfance, refleurir. Le Soleil qui éclaire les profondeurs du Scorpion, c’est une chaleur retrouvée dans des lieux anciens : un souvenir, une personne d’il y a longtemps.
 
 ## Comment utiliser les décans avec légèreté {#avec-legerete}
 
-1. Lisez d’abord la carte par son nombre, son élément et ses couleurs. Le décan vient en dernier, comme une nuance, jamais comme le sens.
+1. Commencez par regarder la carte elle-même : couleurs, nombre, élément. Le décan vient en dernier, comme une nuance, jamais comme le sens.
 2. Si vous êtes curieux, cherchez la carte du décan de votre anniversaire. C’est une curiosité, pas une identité, et ce n’est pas la même chose que [la carte de naissance](/fr/blog/carte-de-naissance-tarot/) qu’on calcule par la numérologie.
 3. Pour un thème de dix jours, posez la carte du décan en cours sur la table et notez ce que vous remarquez.
-4. Si l’astrologie n’est pas votre clé de lecture, laissez tout cela de côté. Les cartes se lisent très bien sans.
+4. Si l’astrologie ne vous parle pas, ignorez tout cela : les cartes s’en passent très bien.
 
-La limite, honnêtement : c’est un système élégant, mais c’est une couche du XIXe siècle posée sur un jeu de cartes du XVe, pas quelque chose que le tarot a toujours eu. Quand j’ai testé mon propre thème, les positions tenaient environ 30 à 40 % du temps au total, et je n’ai jamais testé les décans : je n’ai donc aucun chiffre à vous donner. Prenez-les comme une façon de regarder de plus, et souvenez-vous que [l’astrologie n’est pas une excuse](/fr/avertissements/#astrologie).
+La limite, honnêtement : c’est un système élégant, mais c’est une couche du XIXe siècle posée sur un jeu de cartes du XVe, pas quelque chose que le tarot a toujours eu. Sur mon propre thème, vérifié point par point, le taux de réussite global tournait autour de 30 à 40 % ; les décans n’ont jamais fait partie de l’exercice, si bien que je n’ai aucun chiffre à leur sujet. Prenez-les comme une façon de regarder de plus, et souvenez-vous que [l’astrologie n’est pas une excuse](/fr/avertissements/#astrologie).
 
 ## Et ensuite {#ensuite}
 

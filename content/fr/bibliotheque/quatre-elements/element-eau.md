@@ -49,7 +49,7 @@ gallery:
 ---
 ## Ce que l’Eau représente
 
-Nous sommes faits d’eau presque en totalité ; c’est la chose dont on a besoin pour vivre. L’eau nous porte d’un point A à un point B quand on se laisse bercer par elle. Et paradoxalement, elle peut nous tuer si l’on en manque — ou nous noyer.
+Nous sommes faits d’eau presque en totalité ; c’est la chose dont on a besoin pour vivre. Elle nous déplace d’une rive à l’autre, pour peu qu’on se laisse bercer. Et paradoxalement, elle peut nous tuer si l’on en manque — ou nous noyer.
 
 Les Coupes parlent de tout ça : **les émotions, les relations, ce qui nous nourrit de l’intérieur**, et la façon dont on le laisse circuler ou non.
 
@@ -57,7 +57,7 @@ Les Coupes parlent de tout ça : **les émotions, les relations, ce qui nous nou
 
 À l’état liquide, l’eau finit par s’infiltrer dans n’importe quelle matière, avec le temps. Traduction : **une émotion négligée peut endommager les fondations mêmes de ce qu’on est** — comme une maison qui s’effondre à cause d’une moisissure qui a rongé la structure pendant des années sans que personne ne la voie.
 
-C’est ce qui distingue l’Eau du [Feu](/fr/bibliotheque/quatre-elements/element-feu/). Le feu détruit d’un coup, visiblement. L’eau, mal irriguée par négligence, détruit plus profondément et sur plus longtemps. Quand vous tirez beaucoup de Coupes renversées ou lourdes, la question n’est pas « quelle catastrophe arrive » mais « qu’est-ce qui coule depuis longtemps sans qu’on l’ait réparé ».
+C’est ce qui distingue l’Eau du [Feu](/fr/bibliotheque/quatre-elements/element-feu/). Le feu détruit d’un coup, visiblement. L’eau, mal irriguée par négligence, détruit plus profondément et sur plus longtemps. Devant une série de Coupes renversées ou lourdes, la question n’est pas « quelle catastrophe arrive » mais « qu’est-ce qui coule depuis longtemps sans qu’on l’ait réparé ».
 
 ## Mots-clés
 
@@ -69,7 +69,7 @@ La personne chaleureuse avec qui l’on se sent bien, chez qui l’on se sent ch
 
 ## Exemple de lecture
 
-Le Cinq de Coupes, pour quelqu’un qui ne vous a rien dit. *Cinq* : le conflit, l’épreuve, faire avec ce qu’il reste. *Eau* : les émotions, une relation. Vous pouvez déjà dire qu’il y a un deuil de quelque chose, et que l’attention est sur ce qui a été renversé plutôt que sur ce qui reste debout. Sans avoir appris la carte.
+Le Cinq de Coupes, et en face, quelqu’un qui n’a pas encore ouvert la bouche. *Cinq* : le conflit, l’épreuve, faire avec ce qu’il reste. *Eau* : les émotions, une relation. Vous voyez déjà qu’il y a un deuil de quelque chose, et que l’attention est sur ce qui a été renversé plutôt que sur ce qui reste debout. Sans avoir appris la carte.
 
 {{< cards "cu05" >}}
 

@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/peki.webp
 h1: King of Pentacles — <em>the King</em>, Fire of Earth
-lede: 'Before looking up what King of Pentacles “means”, look at what you already have:
-  the King, the element Fire of Earth. You’re reading the card. The number says
-  the King — outer mastery, decision; the element says matter, what holds. Lay the
-  two over each other, add the colours, and the card is already talking — the rest
-  of the page shows you how.'
+lede: 'Robed in vine leaves and grapes, a king keeps one hand on the coin at his knee; bulls are carved into his throne, and towers rise at his back. Who does all this growth feed?'
 related:
 - /library/numerology
 - /library/four-elements/earth-element
@@ -29,7 +25,7 @@ faq:
 - q: What does King of Pentacles mean?
   a: 'Success that has become stability: someone who has built something solid and now manages it — a business, a household, a craft. The King is outer mastery and Earth is matter, so his authority comes from what he has grown.'
 - q: What about King of Pentacles reversed?
-  a: 'The same mastery, slowed down or overdone. Slowed: security becomes so precious that nothing new is let in. Overdone: everything is measured by what it brings in, including the people around him.'
+  a: 'Mastery that stops growing or grips too hard: security becomes so precious that nothing new is let in, or everything is measured by what it brings in, including the people around him.'
 - q: Does the King of Pentacles mean money?
   a: 'He’s the most prosperous figure of his suit, so people often hope he does. I don’t make money predictions or decisions with the cards; I’d rather look at what the King shows — how someone manages what they have, and for whom.'
 categories:
@@ -45,7 +41,7 @@ A king sits on a dark throne carved with bulls’ heads — two at the top of th
 
 Under the hem of the robe, one foot shows in armour. Behind him, a low wall and, on the right, a castle with towers. Vines climb on the left; small red flowers grow in the bottom corner. The sky is yellow.
 
-His eyes are half-closed, lowered towards the coin. **The card is about what you’ve built becoming your seat — success so complete that you wear it.**
+His eyes are half-closed, lowered towards the coin. **What you’ve built has become your seat — success so complete that you wear it.**
 
 ## By number: the King {#number}
 
@@ -55,7 +51,7 @@ An example everyone knows: the baker on the corner who started with one oven and
 
 ## By element: Earth {#element}
 
-The King of Pentacles is Fire of Earth: the suit is [Earth](/library/four-elements/earth-element/) — matter, value, the result of work — and his own share is [Fire](/library/four-elements/fire-element/): creation, impulse, the energy that motivates. Fire inside Earth is the drive that makes things grow and keeps them growing: the oven under the business, the ambition behind the vineyard.
+The King of Pentacles is Fire of Earth. His suit gives him [Earth](/library/four-elements/earth-element/), the ground of matter, value and earned results; his rank adds [Fire](/library/four-elements/fire-element/): creation, impulse, the energy that motivates. Fire inside Earth is the drive that makes things grow and keeps them growing: the oven under the business, the ambition behind the vineyard.
 
 Earth’s archetype, in my notes, fits him almost too well: the artist’s manager who works steadily so the bills get paid — and who sometimes stops listening, because his vision is the one that “brings in more”. Add Fire’s flip side, the force that can destroy everything, and you have the King at his worst: someone who measures everything, people included, by what it yields.
 
@@ -63,15 +59,15 @@ Earth’s archetype, in my notes, fits him almost too well: the artist’s manag
 
 The robe is almost [black](/library/tarot-colours/black/): reality, absorbed energy, the thing without varnish. This King isn’t dressed for show; he’s dressed in his land. [Green](/library/tarot-colours/green/) leaves cover the black: nature, growth, prosperity — life growing over reality. The red hood and flowers bring passion and action close to the head; the yellow sky and the gold of orb and coin add will and pride.
 
-Read before the card: reality, abundance growing on it, and a strong will at the top.
+Reality, abundance growing on it, and a strong will at the top.
 
 ## In a reading {#reading}
 
 Upright: success turned into stability. Someone who has built something solid — a business, a household, a career, a body of work — and manages it calmly and competently. An authority figure, a mentor, a boss; or you, the day you take responsibility for what you’ve grown. **His mastery is measured by who it protects, not by what it piles up.**
 
-Reversed, his mastery either stops growing or grips too hard. Slowed: security becomes the only goal, and nothing new gets past the castle wall. Overdone: control — the King who decides for everyone, treats people like assets, and confuses having with being.
+Reversed, his mastery either stops growing or grips too hard. Security becomes the only goal, and nothing new gets past the castle wall; or control takes over — the King who decides for everyone, treats people like assets, and confuses having with being.
 
-Because he’s the suit’s most prosperous figure, people sometimes hope he means money is coming, or ask him whether to invest, buy or sell. I understand the hope. Money decisions stay with you; the card can describe how someone manages what they have, and I explain [how I read the Pentacles around money](/blog/tarot-cards-for-money/).
+Because he’s the suit’s most prosperous figure, people sometimes hope he means money is coming, or ask him whether to invest, buy or sell. I understand the hope. Money decisions stay with you; the card can describe how someone manages what they have, and I explain [why a king of coins isn’t a financial forecast](/blog/tarot-cards-for-money/).
 
 Next to [the Emperor](/library/tarot-cards/the-emperor/), two fathers of structure: the Emperor gives orders, the King of Pentacles makes things grow. Next to the [Queen of Pentacles](/library/tarot-cards/queen-of-pentacles/), the household complete. Next to the [Four of Pentacles](/library/tarot-cards/four-of-pentacles/), the King’s shadow: a man who holds his coin so tight he can’t use his hands.
 
@@ -81,6 +77,6 @@ Next to [the Emperor](/library/tarot-cards/the-emperor/), two fathers of structu
 
 For the exercise, the King of Pentacles comes out first and the Six of Cups second, for someone you’re meeting for the first time. King then six: outer mastery, then — in my notes — taking time for yourself, childhood, flowering again. Earth then Water: what has been built, then emotion and memory. A king robed in his own vineyard, then two children in an old courtyard, one handing the other a cup full of flowers.
 
-Out loud: “You’ve built something solid, and everyone counts on you. Part of you is looking back at a time when nothing depended on you — not to go back, but to bring a little of it into what you run now.”
+The vineyard next to the courtyard brings out this: “You’ve built something solid, and everyone counts on you. Part of you is looking back at a time when nothing depended on you — not to go back, but to bring a little of it into what you run now.”
 
-Then check: “Are you the one everyone relies on, and missing a lighter time?” If they aren’t, call it a miss and note it.
+Ask whether they’re the one everyone relies on, and whether they miss a lighter time. If neither is true, that’s a miss to record.

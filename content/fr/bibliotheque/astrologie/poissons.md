@@ -26,12 +26,13 @@ related:
 - /bibliotheque/astrologie/neptune
 faq:
 - q: Quelle carte de tarot correspond au Poissons ?
-  a: La Lune, dans la tradition Golden Dawn reprise par le Rider-Waite-Smith. Quand
-    elle sort, le signe donne son verbe, son élément et son mode d’un coup.
-- q: 'Je suis Poissons : est-ce que cette carte est « ma » carte ?'
-  a: C’est une entrée, pas une identité. La carte parle à n’importe qui de la même
-    chose ; votre signe vous aide seulement à la reconnaître plus vite. L’astrologie
-    n’est pas une excuse.
+  a: 'La Lune, attribuée par la Golden Dawn au dernier signe du zodiaque. La
+    correspondance parle d’elle-même : la carte montre ce qui remue
+    sous l’eau, là où vit le poisson.'
+- q: 'Je suis Poissons : la Lune parle-t-elle surtout de moi ?'
+  a: 'Elle parle de ce qui reste flou, et le flou n’a pas de signe préféré. Un Poissons
+    la sentira peut-être de plus près ; elle ne lui donne pas raison d’office : une intuition sans mots
+    reste à vérifier.'
 gallery:
 - src: "visuals/sign-pisces/1.jpg"
   title: "Un autre élément"
@@ -78,7 +79,7 @@ La personne toujours calme, toujours là, dont on découvre des années plus tar
 
 ## Sa carte : La Lune {#carte}
 
-Quand [la Lune](/fr/bibliotheque/cartes-tarot/la-lune/) sort, les Poissons sont là : ce qui se passe sous la surface, l’intuition qui n’a pas encore de mots, parfois l’illusion. Bien posé, c’est la sagesse qui attend le bon moment. Mal posé, c’est celui qui a plongé et ne dit plus quand il remonte.
+[La Lune](/fr/bibliotheque/cartes-tarot/la-lune/) montre le monde où vivent les Poissons : ce qui se passe sous la surface, l’intuition qui n’a pas encore de mots, parfois l’illusion. Il y a la sagesse qui attend le bon moment pour parler, et il y a celui qui a plongé et ne dit plus quand il remonte.
 
 {{< cards "ar18" >}}
 

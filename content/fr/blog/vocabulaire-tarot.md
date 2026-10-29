@@ -20,8 +20,8 @@ Ce sont les mots des cartes et de la lecture elle-même. Des mots comme empathe,
 1. **Jeu de tarot** — un ensemble de 78 cartes : 22 arcanes majeurs et 56 arcanes mineurs. Exemple : le Rider-Waite-Smith suit exactement cette structure, comme la plupart des tarots vendus aujourd’hui.
 2. **Lame** — un autre mot pour « carte » au tarot, surtout employé en français. Exemple : « la lame XIII », c’est la Mort.
 3. **Arcane** — du latin *arcanum*, « secret » ; au tarot, le mot désigne les cartes elles-mêmes. Exemple : au tarot de Marseille, la lame XIII ne porte pas de nom, d’où son surnom d’« Arcane sans nom ».
-4. **Arcanes majeurs** — les 22 cartes qui portent un nom, du Mat au Monde. Elles parlent des grands chapitres d’une vie. Exemple : le Magicien (le Bateleur au tarot de Marseille) est l’arcane majeur numéro 1.
-5. **Arcanes mineurs** — les 56 autres cartes, en quatre familles de quatorze. Elles parlent des jours à l’intérieur de ces chapitres. Exemple : le Trois de Coupes. [La différence entre majeurs et mineurs](/fr/blog/arcanes-majeurs-et-mineurs/) a sa propre page.
+4. **Arcanes majeurs** — les 22 cartes qui portent un nom, du Mat au Monde. Elles parlent des grands chapitres d’une vie. Exemple : l’arcane majeur numéro 1 est le Magicien, que les jeux marseillais nomment le Bateleur.
+5. **Arcanes mineurs** — les 56 autres cartes, en quatre familles de quatorze. Elles parlent des jours à l’intérieur de ces chapitres. Exemple : le Trois de Coupes. Tout l’écart entre les deux groupes est expliqué dans [majeurs et mineurs, la différence](/fr/blog/arcanes-majeurs-et-mineurs/).
 6. **Famille** (ou enseigne) — l’un des quatre groupes des arcanes mineurs, chacun lié à un élément : Bâtons (Feu), Coupes (Eau), Épées (Air), Pentacles (Terre). Exemple : au tarot de Marseille, les Pentacles s’appellent les Deniers.
 7. **Cartes numérales** — les mineurs numérotés, de l’As au Dix, quarante en tout. Exemple : le Cinq de Pentacles est une numérale.
 8. **Figures** (ou cartes de cour) — les seize cartes « personnages » : Valet, Cavalier, Reine et Roi de chaque famille. Exemple : le Roi de Coupes, souvent lu comme une personne, ou comme une manière d’agir.

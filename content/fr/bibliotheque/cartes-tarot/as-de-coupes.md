@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/cuac.webp
 h1: As de Coupes — <em>un</em>, l’Eau
-lede: 'Avant de chercher ce que « signifie » As de Coupes, regardez ce que vous avez
-  déjà : un, l’élément Eau, Racine de l’Eau. Vous lisez la carte. Le nombre dit un —
-  le début, le diamant brut ; l’élément dit les émotions, ce qui circule. Posez les
-  deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
-  de la page vous montre comment.'
+lede: 'Une coupe déborde au creux d’une main sortie du nuage, une colombe plonge vers elle, et personne n’est là pour boire. Ce sentiment qu’on vous tend, allez-vous ouvrir la main ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-eau
@@ -30,7 +26,7 @@ faq:
 - q: Que signifie As de Coupes ?
   a: 'Un sentiment tout neuf : un amour qui commence, une amitié, ou un cœur qui se rouvre après une période fermée. Le un dit que ça vient de commencer, l’Eau que c’est une affaire d’émotions, et le dessin que c’est offert, pas pris.'
 - q: As de Coupes renversé, ça change quoi ?
-  a: 'La même coupe, mais l’eau n’arrive à personne. Soit un sentiment est retenu parce qu’il semble trop tôt ou trop risqué, soit il se déverse si vite que la personne qui donne finit à sec.'
+  a: 'Une coupe dont l’eau n’arrive à personne. Soit un sentiment est retenu parce qu’il semble trop tôt ou trop risqué, soit il se déverse si vite que la personne qui donne finit à sec.'
 - q: Que signifie l’As de Coupes en amour ?
   a: 'Un début : une nouvelle attirance, ou une relation existante qui retrouve sa chaleur. La carte dit que le sentiment est là ; elle ne dit pas encore ce que l’autre en fera.'
 categories:
@@ -57,7 +53,7 @@ Devant un sentiment aussi neuf, le [chiffre 1](/fr/bibliotheque/numerologie/chif
 
 ## Par l’élément : Eau {#element}
 
-Les Coupes, c’est l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les émotions, les relations, ce qui nous nourrit de l’intérieur. L’eau nous porte d’un point A à un point B quand on se laisse faire, et elle peut aussi nous noyer. Dans l’As, c’est la source à l’état pur. Elle n’a pas encore choisi son lit ; elle passe par-dessus le bord de tous les côtés, sans viser personne.
+Les Coupes, c’est l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les émotions, les relations, ce qui nous nourrit de l’intérieur. Dans l’As, c’est la source à l’état pur. Elle n’a pas encore choisi son lit ; elle passe par-dessus le bord de tous les côtés, sans viser personne.
 
 L’eau qui bouge, ce sont les émotions fortes, et celle-ci n’est que mouvement. C’est pour ça que l’As de Coupes parle aux personnes qui ressentent quelque chose avant de savoir le nommer. La carte ne dit pas à qui ce sentiment est destiné. Elle dit que le robinet est ouvert.
 
@@ -65,13 +61,13 @@ L’eau qui bouge, ce sont les émotions fortes, et celle-ci n’est que mouveme
 
 Au centre, la coupe est jaune doré, et dans ma grille, le [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) veut dire la joie et l’optimisme. Le [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) des gouttes et du bassin : l’émotion, l’eau, ce qui purifie, la vitalité. Le blanc de la colombe : la pureté, la paix, ce que personne n’a encore touché. Le vert et le rose en bas, sur l’étang : la croissance, la vie qui repart.
 
-Reste le gris du fond : la neutralité, aucune volonté particulière. Avant d’avoir lu un mot sur la carte, vous avez déjà une joie qui ne vise encore personne, une eau claire, et un espace vide qui attend quelqu’un.
+Reste le gris du fond : la neutralité, aucune volonté particulière. Ce mélange donne une joie qui ne vise encore personne, une eau claire, et un espace vide qui attend quelqu’un.
 
 ## Par l’astrologie : Racine de l’Eau {#astrologie}
 
 La Golden Dawn, la tradition dont viennent les correspondances du Rider-Waite-Smith, n’a donné aux As ni signe ni planète. Chaque As est la racine de son élément : ici, l’Eau à l’état brut, avant qu’elle ne se partage entre les trois signes d’Eau — Cancer, Scorpion, Poissons — que se répartissent les cartes du Deux au Dix de Coupes.
 
-L’[astrologie](/fr/bibliotheque/astrologie/) apporte donc peu ici, et c’est justement l’information : le sentiment n’a pas encore de caractère. Si elle ne fait pas partie de vos clés de lecture, laissez-la de côté.
+L’[astrologie](/fr/bibliotheque/astrologie/) apporte donc peu ici, et c’est justement l’information : le sentiment n’a pas encore de caractère. Sans elle, rien ne manque : l’eau qui passe par-dessus le bord parle assez fort.
 
 ## En lecture {#lecture}
 
@@ -87,6 +83,6 @@ Renversé, l’As de Coupes penche de l’autre côté. Soit le sentiment est re
 
 Prenons un tirage inventé pour l’exercice : la coupe qui déborde de l’As, et [l’Ermite](/fr/bibliotheque/cartes-tarot/l-ermite/) avec sa lanterne juste à côté. Un à côté de neuf : un début à côté de la fin d’une étape. L’Eau à côté de la Terre, puisque l’Ermite est une carte de la Vierge : un sentiment qui arrive dans une vie restée calme et pratique. Les couleurs : la coupe dorée et l’eau bleue à côté du long manteau gris de l’Ermite et de sa petite lanterne.
 
-La phrase que je dirais à voix haute : « Cela fait un bon moment que vous menez votre vie de votre côté, peut-être par choix, et quelque chose se rouvre — l’envie d’avoir du monde autour de vous, ou quelqu’un en particulier. »
+La coupe pleine à côté de la lanterne m’inspire cette phrase : « Cela fait un bon moment que vous menez votre vie de votre côté, peut-être par choix, et quelque chose se rouvre — l’envie d’avoir du monde autour de vous, ou quelqu’un en particulier. »
 
-Ensuite, je vérifie sans orienter : « Est-ce que ça vous parle ? » Si oui, je laisse la personne dire quoi, au lieu de deviner qui. Si non, c’est un raté, et je ne tire pas une carte de plus pour le rattraper.
+Ensuite, je vérifie sans orienter : « Quelque chose s’est-il rouvert pour vous, ces temps-ci ? » Si oui, je laisse la personne dire quoi, au lieu de deviner qui. Si non, la lecture est passée à côté, et aucune carte supplémentaire ne viendra la repêcher.

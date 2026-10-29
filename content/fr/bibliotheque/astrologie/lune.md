@@ -27,8 +27,7 @@ related:
 faq:
 - q: La carte de la Lune correspond-elle à la Lune ?
   a: 'Non : la carte de la Lune porte les Poissons, et la Lune astrologique porte
-    la Grande Prêtresse. Les noms se ressemblent ; les cartes ne disent pas la même
-    chose.'
+    la Grande Prêtresse. Même nom, deux rôles : en lecture, gardez-les séparés.'
 - q: Que fait la Lune sur une carte de Coupes ?
   a: 'Elle en dit le climat : ce qui se ressent avant d’être compris. Le Quatre de
     Coupes, régi par la Lune, est l’ennui d’une émotion qu’on connaît trop bien.'

@@ -58,7 +58,7 @@ gallery:
 ---
 ## What the mode says {#definition}
 
-The fixed signs sit in the middle of the seasons: Taurus at the heart of spring, Leo of summer, Scorpio of autumn, Aquarius of winter. The season is established; the job is to hold it. It's the energy of perseverance — and of stubbornness, which is its exact flip side.
+The fixed signs sit in the middle of the seasons: Taurus at the heart of spring, Leo of summer, Scorpio of autumn, Aquarius of winter. The season is established; the job is to hold it. Its energy is perseverance — and stubbornness, which is its exact flip side.
 
 ## The four signs and their cards {#signs}
 
@@ -73,14 +73,14 @@ The fixed signs sit in the middle of the seasons: Taurus at the heart of spring,
 
 ## The advice {#advice}
 
-Hold without freezing. Fixed at its best is Strength: a gentle hand that doesn't let go; at its worst, it's the door closed to everything that wasn't planned. The advice of [4](/library/numerology/number-4/) — stay flexible — is addressed to it.
+Hold without freezing. Done well, fixed looks like Strength: a gentle hand that doesn't let go. Done badly, it's the door closed to everything that wasn't planned — which is why [4](/library/numerology/number-4/) advises staying flexible.
 
 ## In a reading {#reading}
 
-A spread dominated by fixed says: **it holds — the question is whether that's a strength or a confinement.** A relationship that lasts, a project that resists, a person who won't be moved. Death, fixed too, reminds you that holding can mean holding until a transformation is complete. The mode says the tempo; the [element](/library/four-elements/) says what's being held.
+Lots of fixed cards together mean: **it holds — the question is whether that's a strength or a confinement.** A relationship that lasts, a project that resists, a person who won't be moved. Death, fixed too, reminds you that holding can mean holding until a transformation is complete. What exactly is being held — money, a bond, an idea, a project — is for the [element](/library/four-elements/) to say.
 
 ## The three modes {#modes}
 
-The other two: [cardinal](/library/astrological-modes/cardinal/) · [mutable](/library/astrological-modes/mutable/).
+Before it comes [cardinal](/library/astrological-modes/cardinal/), the start; after it, [mutable](/library/astrological-modes/mutable/), the change.
 
 {{% six %}}

@@ -59,11 +59,11 @@ gallery:
 ---
 ## What 5 says {#definition}
 
-**5 is trial.** Conflict, test, war or battle, elaborating, setting up, challenge, making do with what's left. Five is the trial that measures. In the [cycle of numbers](/library/numerology/) it comes after 4 and prepares 6.
+**5 is trial.** Conflict, test, war or battle, elaborating, setting up, challenge, making do with what's left. Five is the trial that measures. [The sequence](/library/numerology/) puts it between the comfort of 4 and the success of 6: the test sits in the middle.
 
 ## The advice of 5 {#advice}
 
-Avoid pointless conflicts. Be honest, with yourself and with the situation. Five isn't won by telling yourself there's no problem.
+Avoid pointless conflicts. Be truthful with yourself, and about where things stand. Five isn't won by telling yourself there's no problem.
 
 ## An example everyone knows {#example}
 
@@ -81,6 +81,6 @@ Facebook arrives to buy Instagram — or, another version of the same 5, IGTV fl
 
 ## In a reading {#reading}
 
-A 5 in a spread says: **there's a conflict, and the question is what you do with it.** The Five of Wands brawls, the Five of Swords wins while losing allies, the Five of Cups mourns what's spilled instead of seeing what's standing, the Five of Pentacles walks in the snow past a lit window. The Hierophant is the 5 of institutions: the trial of the rule.
+With a 5 on the table, **there's a conflict, and the question is what you do with it.** The Five of Wands brawls, the Five of Swords wins while losing allies, the Five of Cups mourns what's spilled instead of seeing what's standing, the Five of Pentacles walks in the snow past a lit window. The Hierophant is the 5 of institutions: the trial of the rule.
 
 {{% six %}}

@@ -23,17 +23,17 @@ Scorpio’s verb is *I desire*. Its element is [Water](/library/four-elements/wa
 
 Intensity is the first thing to know about Scorpio, and its strength sits in the sting: it can always find the place that hurts. That makes it wary and observant, and it means this energy can kill as well as it can heal. On the good side: a very good observer, a very good healer. On the other: toxic ties, and a pull towards isolation.
 
-Its archetype, in my notes, is the person who says nothing at a party and draws every eye without trying. Picture them in the armchair at the edge of the room, watching, saying one sentence all evening — the one everyone remembers.
+Its archetype, in my notes, is the guest who stays silent at a party and still has the whole room looking their way. Picture them in the armchair at the edge of the room, watching, saying one sentence all evening — the one everyone remembers.
 
 As a fixed sign, Scorpio holds on, and what it holds on to is emotional attachment. Its Water is the slow kind. In my element notes, fire destroys at once, while water left alone seeps in and does its damage deeper and over longer, like damp eating the foundations of a house. **Scorpio season asks what you’ve been letting seep in, and what you’ve been holding on to past its time.** The [Scorpio page of the Library](/library/astrology/scorpio/) has the rest.
 
 ## Its card: Death, and three Cups {#death-and-cups}
 
-Death doesn’t announce a death. In my notes, it’s linked to the harvest and to starting again — the person who has lost their goal and wants to make life fertile again. It suits the season: by late autumn the crop is in, and the ground is being readied for what comes next. The [Death card page](/library/tarot-cards/death/) reads it lens by lens.
+The card called Death doesn’t foretell anyone’s death. My notes connect it to the harvest season and to fresh starts: someone left without an aim, who wants their life to be fruitful again. It suits the season: by late autumn the crop is in, and the ground is being readied for what comes next. The [Death card page](/library/tarot-cards/death/) reads it lens by lens.
 
 {{< cards "ar13 cu05 cu06 cu07" >}}
 
-Three minor cards carry the sign too, one for each ten days of the season, roughly: the Five of Cups (Mars in Scorpio), the Six of Cups (the Sun in Scorpio) and the Seven of Cups (Venus in Scorpio). The order tells a story. The Five of Cups is, for me, the heaviest card in the deck: losing, dark emotion, being alone with your problems. The Six is taking time for yourself, childhood, flowering again. The Seven is indecision, too many choices at once. Grief, comfort, then the open question of what next. The [decans](/blog/decans-tarot/) explain how these attributions work.
+Three minor cards carry the sign too, one for each ten days of the season, roughly: the Five of Cups (Mars in Scorpio), the Six of Cups (the Sun in Scorpio) and the Seven of Cups (Venus in Scorpio). The order tells a story. The Five of Cups marks the low point, of these three and, in my notes, of the whole deck: loss, a dark mood, problems faced alone. The Six is taking time for yourself, childhood, flowering again. The Seven can’t choose, with too much on offer at once. Grief, comfort, then the open question of what next. The [decans](/blog/decans-tarot/) explain how these attributions work.
 
 The season also crosses [Samhain](/blog/samhain-tarot/) and All Saints, when many people remember their dead. If you’re carrying a loss right now, I’m sorry. I don’t read on death or on health, because a card doesn’t announce either, and a wrong word there can do real harm. What a reading can hold is how you’re carrying it; [why I step back from those questions](/blog/health-pregnancy-death-tarot/) explains the rest.
 
@@ -51,7 +51,7 @@ One thing I’d leave aside this month, however strong the pull: Scorpio’s obs
 
 ## What Scorpio season can’t do {#limits}
 
-It forecasts nothing. When I tested my chart box by box, 30 to 40% held overall, and the Sun sign was among the ordinary placements, not the 75–90% ones (that was Saturn, Lilith and Chiron). The [test, with its numbers](/blog/i-tested-my-birth-chart/), is in its own article. A season gives you questions, not events.
+It forecasts nothing. Only 30 to 40% of my own chart held up when I checked it, and the Sun sign was among the ordinary placements, not the 75–90% ones (that was Saturn, Lilith and Chiron). The [test, with its numbers](/blog/i-tested-my-birth-chart/), is in its own article. A season gives you questions, not events.
 
 It’s no excuse either. “It’s Scorpio season, that’s why I’m jealous” is a good joke and a poor explanation.
 

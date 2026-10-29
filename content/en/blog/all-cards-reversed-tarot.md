@@ -25,7 +25,7 @@ If you never turned any cards round on purpose and they’re all reversed, check
 
 Ten out of ten in a Celtic Cross, on the other hand, is about one chance in a thousand with a fair shuffle. **Before you read a fully reversed spread as a message, rule out the hands that shuffled it.**
 
-The fix takes a minute: turn every card upright, turn half the deck round, and shuffle as you usually do. [Any shuffle works](/blog/how-to-shuffle-tarot-cards/), as long as you lay the cards out the same way each time.
+The fix takes a minute: turn every card upright, turn half the deck round, then mix the deck your normal way. [Whichever shuffle you prefer](/blog/how-to-shuffle-tarot-cards/) will do, provided your way of laying the cards out never changes.
 
 ## If the shuffle was fair: what it can say {#what-it-can-say}
 
@@ -41,11 +41,11 @@ Say someone tells you nothing, shuffles fairly, and draws three cards, all rever
 
 {{< cards "waac pe08 ar19" >}}
 
-Upright first. The Ace of Wands is a hand coming out of a cloud, holding a wand that sprouts green leaves: a 1, Fire, the spark of something new, and green for growth. The Eight of Pentacles is a craftsman at his bench carving coins one by one: an 8, Earth, mastery earned by effort. The Sun is a child on a white horse under a huge sun, sunflowers behind a wall, yellow everywhere — joy, self-expression. Its number, 19, adds up to 10, which in [the numbers cycle is the corridor](/library/numerology/number-10/) between two rooms.
+Upright first. The Ace of Wands offers a single leafy wand from a cloud: a 1, Fire, the spark of something new, and green for growth. The Eight of Pentacles is a craftsman at his bench carving coins one by one: an 8, Earth, mastery earned by effort. The Sun is a child on a white horse under a huge sun, sunflowers behind a wall, yellow everywhere — joy, self-expression. Its number, 19, adds up to 10, which in [the numbers cycle is the corridor](/library/numerology/number-10/) between two rooms.
 
 Upright, the row would tell a story: a spark, the work, then the joy of a stage completed.
 
-Now all three reversed. The spark is there, but nobody has picked it up. The work goes on with the head down. The joy is waiting for permission. The sentence I’d say out loud: “There’s something you’d love to start, you have the skill for it, and you keep working instead of beginning. What would you do if you let yourself enjoy it?”
+Now all three reversed. The spark is there, but nobody has picked it up. The work goes on with the head down. The joy is waiting for permission. My one sentence for the whole spread would be: “There’s something you’d love to start, you have the skill for it, and you keep working instead of beginning. What would you do if you let yourself enjoy it?”
 
 Then you ask whether it lands. If it doesn’t, it’s a miss: you note it, and you don’t redraw to get the cards the right way up.
 

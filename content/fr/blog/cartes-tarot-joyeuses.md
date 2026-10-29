@@ -9,9 +9,9 @@ tags: ["lames joyeuses tarot", "cartes positives tarot", "le Soleil tarot", "l�
 image: "covers/happiest-tarot-cards.jpg"
 imageAlt: "Les cartes du Soleil, de l’Étoile et du Dix de Coupes du tarot Rider-Waite-Smith posées côte à côte sur une table en bois nu."
 imagePrompt: "The Sun, the Star and the Ten of Cups cards from the 1909 Rider-Waite-Smith deck laid side by side on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, the cards in their original colours, warm natural colours around them that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Les lames les plus joyeuses du Rider-Waite-Smith sont le Soleil (une joie qu’on peut montrer), l’Étoile (l’espoir après une période dure) et le Dix de Coupes (le bonheur partagé à la maison), suivies de près par le Neuf de Pentacles, plus discret et plus terrien. Chacune a son revers, parce que chaque carte a un plus et un moins : le Soleil peut devenir une joie jouée, l’Étoile un espoir versé pour tout le monde sauf vous, le Dix de Coupes une photo de famille entretenue pour les autres. La plupart arrivent en fin de cycle : leur bonheur est réel, et c’est un moment."
+summary: "Les lames les plus joyeuses du Rider-Waite-Smith sont le Soleil (une joie qu’on peut montrer), l’Étoile (l’espoir après une période dure) et le Dix de Coupes (le bonheur partagé à la maison), suivies de près par le Neuf de Pentacles, plus discret et plus terrien. Chacune a son revers, comme toutes les lames : le Soleil peut devenir une joie jouée, l’Étoile un espoir versé pour tout le monde sauf vous, le Dix de Coupes une photo de famille entretenue pour les autres. La plupart arrivent en fin de cycle : leur bonheur est réel, et c’est un moment."
 ---
-Les lames les plus joyeuses du jeu sont le Soleil, l’Étoile et le Dix de Coupes, avec le Neuf de Pentacles juste derrière. Elles sont aussi belles qu’elles en ont l’air. Mais chaque carte a un plus et un moins — les joyeuses aussi —, et connaître leur revers, c’est ce qui permet d’en profiter sans s’y agripper.
+Les lames les plus joyeuses du jeu sont le Soleil, l’Étoile et le Dix de Coupes, avec le Neuf de Pentacles juste derrière. Elles sont aussi belles qu’elles en ont l’air. Mais toute lame a deux faces — les joyeuses aussi —, et connaître leur revers, c’est ce qui permet d’en profiter sans s’y agripper.
 
 {{< cards "ar19 ar17 cu10 pe09" >}}
 
@@ -36,7 +36,7 @@ Son revers, c’est la même lumière tournée trop longtemps vers l’extérieu
 
 ## L’Étoile : l’espoir après une période dure {#l-etoile}
 
-L’Étoile vient juste après la Tour dans le jeu. Une femme nue s’agenouille au bord d’un bassin, sous une grande étoile et sept plus petites, et verse l’eau de deux cruches : l’une dans le bassin, l’autre sur la terre. Plus rien ne tombe. C’est une lame d’Air, ce qui dit quelque chose d’inattendu : son espoir n’est pas une humeur, il est choisi. L’eau est versée, mesurée, dirigée.
+L’Étoile vient juste après la Tour dans le jeu. Une femme nue s’agenouille au bord d’un bassin, sous une grande étoile et sept plus petites, et verse deux cruches en même temps, l’une vers l’eau, l’autre vers le sol. Plus rien ne tombe. C’est une lame d’Air, ce qui dit quelque chose d’inattendu : son espoir relève d’une décision plus que d’un état d’âme. Elle verse avec mesure, et elle sait où.
 
 Son revers se loge dans les cruches. Parfois, elle verse tout sur la terre des autres et ne garde rien pour la sienne. Parfois, elle garde les deux cruches pleines et ne verse rien, en se préparant à la prochaine tempête. Et le risque de l’Air, c’est de continuer à verser une idée sans vérifier si quelque chose pousse. [La page de l’Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/) reprend chaque clé en détail.
 
@@ -46,7 +46,7 @@ Un couple sous un arc-en-ciel de dix coupes, bras levés, pendant que deux enfan
 
 Son revers : la photo de famille entretenue pour les autres, tout le monde qui sourit au ciel et personne qui se parle — le repas de Noël qu’on raconte mieux qu’on ne l’a vécu. Ou attendre l’image parfaite avant de s’autoriser à profiter de celle qu’on a. Un arc-en-ciel est ce qu’il y a de plus fugace dans le ciel : c’est une raison de vivre le moment, pas de s’en méfier. Certaines personnes espèrent que cette lame annonce un bébé ; c’est une question pour un médecin plutôt que pour un jeu de cartes, et [la page du Dix de Coupes](/fr/bibliotheque/cartes-tarot/dix-de-coupes/) explique ce que la lame peut porter à la place.
 
-Le Neuf de Pentacles complète les quatre : une femme seule dans sa vigne, un faucon encapuchonné sur son gant — dans mes notes, profiter de ce qui vient, la gratitude pour tout ce qu’on a. « Il faut cultiver notre jardin », concluait Candide ; elle s’y emploie. Son revers, c’est le confort qui se durcit en « je n’ai besoin de personne ».
+Le Neuf de Pentacles complète les quatre : une femme seule parmi ses vignes, un faucon encapuchonné sur son gant — dans mes notes, savourer ce qui arrive et remercier pour ce qu’on possède déjà. « Il faut cultiver notre jardin », concluait Candide ; elle s’y emploie. Son revers, c’est le confort qui se durcit en « je n’ai besoin de personne ».
 
 ## Quand une lame joyeuse sort un jour difficile {#jour-difficile}
 

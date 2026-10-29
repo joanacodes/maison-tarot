@@ -1,6 +1,6 @@
 ---
 title: 'L’Ermite (The Hermit) — tarot Rider-Waite-Smith : lire la carte par ses clés de lecture'
-description: 'L’Ermite au tarot : un vieil homme seul avec sa lanterne, le 9, la Terre et la Vierge. Ce que montre la carte de 1909, et comment la lire en tirage, même renversée.'
+description: 'L’Ermite au tarot : une lanterne levée sur un sommet enneigé, le 9, la Vierge et la Terre. Le retrait choisi qui éclaire, et celui qui tourne à l’isolement.'
 translationKey: card-ar09
 type: cards
 navTitle: L’Ermite
@@ -15,11 +15,7 @@ energy: Féminine
 kabbalah: Yod
 image: cards/ar09.webp
 h1: L’Ermite — <em>9</em>, la Terre
-lede: 'Avant de chercher ce que « signifie » L’Ermite, regardez ce que vous avez déjà
-  : 9, l’élément Terre, Vierge. Vous lisez la carte. Le nombre dit 9 — neuf — l’aboutissement,
-  presque au bout ; l’élément dit la matière, ce qui tient. Posez les deux l’une sur
-  l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste de la page
-  vous montre comment.'
+lede: 'Seul au sommet, dans sa cape grise, un vieil homme tient haut sa lanterne étoilée, les yeux baissés. Qu’avez-vous besoin de comprendre, au calme, avant de redescendre vers les autres ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre
@@ -48,25 +44,25 @@ Remarquez ce qui manque : pas de chemin, pas de maison, pas de compagnon, ni sol
 
 ## Par le nombre : 9 {#nombre}
 
-Le [chiffre 9](/fr/bibliotheque/numerologie/chiffre-9/), c’est la dernière ligne droite : la fin d’une étape, les derniers efforts, l’introspection, la patience — sans cesser d’avancer. C’est exactement la posture de l’Ermite. Il a presque tout gravi, et au lieu de fêter ça, il s’arrête pour regarder en lui avant le dernier pas.
+Le [chiffre 9](/fr/bibliotheque/numerologie/chiffre-9/) annonce la dernière ligne droite : une étape s’achève, il reste un ultime effort à fournir, on se tourne vers soi, on patiente — sans cesser d’avancer. C’est exactement la posture de l’Ermite. Il a presque tout gravi, et au lieu de fêter ça, il s’arrête pour regarder en lui avant le dernier pas.
 
-Dans l’histoire d’Instagram, le 9, c’est la refonte qui met fin à tout ce qui définissait l’application, juste avant qu’elle devienne autre chose. L’Ermite, c’est ce moment dans une vie : ce qui vous définissait se referme, et il vous faut un temps calme pour voir ce que vous gardez.
+C’est l’étape d’Instagram où une refonte efface tout ce qui faisait l’application, juste avant qu’elle devienne autre chose. L’Ermite, c’est ce moment dans une vie : ce qui vous définissait se referme, et il vous faut un temps calme pour voir ce que vous gardez.
 
 ## Par l’élément : Terre {#element}
 
 L’Ermite est une carte de [Terre](/fr/bibliotheque/quatre-elements/element-terre/), ce qui surprend ceux qui le voient comme un pur esprit. La Terre, c’est la patience, la ténacité, l’endurance — et l’entêtement. C’est l’ascension faite à pied, un pas après l’autre, appuyé sur un bâton. Personne ne l’a porté jusque-là.
 
-La Terre, c’est aussi ce qui a de la valeur pour vous, argent ou pas. Ses richesses à lui tiennent dans une lanterne, un bâton, et ce qu’il a appris en montant.
+La Terre, c’est aussi ce qui compte à vos yeux, que ça se chiffre ou non. Ses richesses à lui tiennent dans une lanterne, un bâton, et ce qu’il a appris en montant.
 
 ## Par les couleurs {#couleurs}
 
 Le gris domine — la cape, le ciel, la roche. Dans ma grille, le gris, c’est la neutralité, l’absence de volonté particulière, la stabilité ([le gris](/fr/bibliotheque/couleurs-tarot/gris/)) : rien ne le pousse, rien ne le tire. Le blanc de la barbe et de la neige ajoute la paix. Puis, au milieu de tout ce gris, le jaune de la lanterne et du bâton : la volonté, l’expression de soi, l’enfant intérieur encore vivant ([le jaune](/fr/bibliotheque/couleurs-tarot/jaune/)).
 
-Ne lisez que les couleurs et vous avez la carte : une période calme et neutre, avec un petit point de volonté qui éclaire le chemin.
+Tout ce gris piqué d’un point jaune suffit à raconter une période calme et neutre, où un peu de volonté éclaire le chemin.
 
 ## Par l’astrologie : Vierge {#astrologie}
 
-Dans la tradition Golden Dawn, l’Ermite correspond à la [Vierge](/fr/bibliotheque/astrologie/vierge/), le signe dont le verbe est « J’analyse ». La Vierge est solitaire par nature et veut pourtant servir quelque chose de plus grand qu’elle — l’ingénieur, le conseiller du trône. C’est la lanterne de l’Ermite : une lumière trouvée seul, puis levée pour les autres.
+Chez la Golden Dawn, l’Ermite va avec la [Vierge](/fr/bibliotheque/astrologie/vierge/), le signe dont le verbe est « J’analyse ». La Vierge est solitaire par nature et veut pourtant servir quelque chose de plus grand qu’elle — l’ingénieur, le conseiller du trône. C’est la lanterne de l’Ermite : une lumière trouvée seul, puis levée pour les autres.
 
 ## En lecture {#lecture}
 
@@ -84,6 +80,6 @@ Renversé, le retrait dure trop ou tourne à l’aigre : l’isolement à la pla
 
 L’Ermite est seul sur son sommet ; posez le Trois de Coupes à côté de lui, et regardez ce qui change. 9 puis 3 : la fin d’une étape, puis un premier résultat qui marche. La Terre puis l’Eau : quelque chose de lent et de solide, puis des sentiments. Du gris et une seule lumière jaune d’un côté ; de l’autre, trois femmes en robes vives qui lèvent leurs coupes.
 
-La phrase que je dirais : « Ça fait un moment que vous gardez vos distances, à régler quelque chose de votre côté, et les gens autour de vous attendent votre retour — ils sont plus chaleureux que vous ne le pensez. »
+De la cime au groupe qui trinque, une phrase : « Ça fait un moment que vous gardez vos distances, à régler quelque chose de votre côté, et les gens autour de vous attendent votre retour — ils sont plus chaleureux que vous ne le pensez. »
 
-Puis la vérification. La personne s’est-elle mise en retrait ces derniers temps ? Y a-t-il un groupe dont elle s’est éloignée ? Si rien ne tient, je le dis franchement et je le note comme un raté.
+Puis la vérification. La personne s’est-elle mise en retrait ces derniers temps ? Y a-t-il un groupe dont elle s’est éloignée ? Si elle n’a pris aucune distance, ma phrase se trompait, et je le lui dis avant de l’écrire.

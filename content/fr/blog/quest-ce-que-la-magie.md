@@ -43,7 +43,7 @@ Une autre partie, non. Après une lecture pour une amie, j’ai senti un jour so
 
 Je sais que c’est arrivé, je ne sais pas l’expliquer : c’est exactement là que je le range.
 
-Si vous voulez l’idée en deux cartes, prenez le Magicien (le Bateleur au tarot de Marseille) et la Grande Prêtresse. Dans mes notes, le Magicien a les quatre éléments sur sa table et sait tout faire ; son revers, c’est qu’il peut faire semblant, si on lui fait confiance les yeux fermés. Les deux sens du mot « magicien » dans une seule carte. La Grande Prêtresse sait beaucoup de choses et ne montre qu’une façade, comme la face cachée de la lune : ce qui existe et ne se voit pas encore.
+Si vous voulez l’idée en deux cartes, prenez le Magicien et la Grande Prêtresse. Mes notes donnent au Magicien les quatre éléments sur sa table et l’art de tout faire ; son revers : il sait aussi donner le change à ceux qui ne vérifient rien. Les deux sens du mot « magicien » dans une seule carte. La Grande Prêtresse sait beaucoup de choses et ne montre qu’une façade, comme la face cachée de la lune : ce qui existe et ne se voit pas encore.
 
 {{< cards "ar01 ar02" >}}
 
@@ -53,7 +53,7 @@ Elle ne prétend pas à des pouvoirs. Je n’ai pas de capacités que les autres
 
 Elle ne prétend pas que l’inexpliqué soit dangereux, maléfique ou saint. « Inexpliqué » décrit l’état de nos connaissances, pas la chose elle-même.
 
-Et elle ne prétend à aucune certitude. Quand [un correspondant m’a demandé un jour si je lisais dans les pensées ou si j’étais magicienne](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/), la réponse honnête, c’était ni l’un ni l’autre — et aussi que je ne sais pas expliquer entièrement comment marche un tirage. C’est précisément là que commence ma définition.
+Et elle ne prétend à aucune certitude. Quand [un correspondant m’a demandé un jour, par écrit, si j’étais télépathe ou magicienne](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/), la réponse honnête, c’était ni l’un ni l’autre — et aussi que je ne sais pas expliquer entièrement comment marche un tirage. C’est précisément là que commence ma définition.
 
 La limite, dite calmement : appeler quelque chose « magie », c’est un aveu, pas une explication. Le risque, c’est de s’arrêter là.
 
@@ -61,6 +61,6 @@ La limite, dite calmement : appeler quelque chose « magie », c’est un aveu, 
 
 Gardez une page, à la fin de votre carnet, pour ce que vous avez vu arriver sans pouvoir l’expliquer. Datez chaque entrée. Un an plus tard, relisez.
 
-Certaines auront trouvé une explication ordinaire : une coïncidence, un souvenir qui s’est arrangé tout seul, quelque chose qu’on vous avait dit et que vous aviez oublié. D’autres non. Celles-là vont sur l’étagère que j’appelle « sceptique, mais si ça arrive, j’étais prévenue ».
+Certaines auront trouvé une explication ordinaire : une coïncidence, un souvenir qui s’est arrangé tout seul, quelque chose qu’on vous avait dit et que vous aviez oublié. D’autres non. Celles-là, je les classe à part : j’en doute, et je reste prévenue.
 
-Lisez ensuite [quatre théories sur le fonctionnement du tarot](/fr/blog/comment-marche-le-tarot/), et celle dont je n’ai pas besoin. Et si vous voulez rencontrer l’inexpliqué en personne, lisez une carte pour quelqu’un qui ne vous a rien dit. C’est ce qui se passe aux [événements gratuits](/fr/evenements/), devant tout le monde, avec les ratés dits à voix haute.
+Lisez ensuite [quatre théories sur le fonctionnement du tarot](/fr/blog/comment-marche-le-tarot/), et celle dont je n’ai pas besoin. Et si vous voulez rencontrer l’inexpliqué en personne, lisez une carte pour une personne dont vous ne savez rien. C’est ce qui se passe aux [événements gratuits](/fr/evenements/), devant tout le monde, avec les ratés dits à voix haute.

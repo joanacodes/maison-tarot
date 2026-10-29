@@ -24,12 +24,10 @@ related:
 - /library/astrological-modes/mutable
 - /library/astrology/jupiter
 faq:
-- q: Which tarot card corresponds to Sagittarius?
-  a: Temperance, in the Golden Dawn tradition taken up by the Rider-Waite-Smith. When
-    it comes out, the sign gives its verb, element and mode at once.
-- q: 'I''m a Sagittarius: is this card ''my'' card?'
-  a: A way in, not an identity. The card says the same thing to anyone; your sign
-    only helps you recognise it faster. Astrology is not an excuse.
+- q: 'Which tarot card corresponds to Sagittarius?'
+  a: 'Temperance: an angel passing water from one cup to the other. The sign of the traveller who mixes what it has learned finds its image there.'
+- q: 'I’m a Sagittarius: is Temperance ‘my’ card?'
+  a: 'It’s a card anyone can draw, about blending and measure. Your sign may make the mix feel familiar; it won’t excuse leaving before anything is finished.'
 gallery:
 - src: "visuals/sign-sagittarius/1.jpg"
   title: "Learning by leaving"
@@ -76,7 +74,7 @@ The one who leaves to drive round the world in a van, goes to India, tries the u
 
 ## Its card: Temperance {#card}
 
-When [Temperance](/library/tarot-cards/temperance/) comes out, Sagittarius is there: two things being blended into a third, a measure found on the road. Well placed, it's the alloy that holds. Badly placed, it's one blend too many, or the departure that avoids finishing.
+A measure found on the road, a mix of two that becomes something else: [Temperance](/library/tarot-cards/temperance/) is Sagittarius at work. When it works, it's the alloy that holds; when it doesn't, it's one blend too many, or the departure that avoids finishing.
 
 {{< cards "ar14" >}}
 

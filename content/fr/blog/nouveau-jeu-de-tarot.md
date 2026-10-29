@@ -17,7 +17,7 @@ Pas besoin de rituel pour commencer avec un nouveau jeu de tarot. Il vous faut u
 
 Non. Un rituel de nouveau jeu, c’est une petite cérémonie qu’on fait avant de s’en servir la première fois : le parcourir carte par carte, dormir avec sous l’oreiller, le purifier par la fumée ou à la lumière de la lune, le tapoter, ou poser un tirage d’« interview » du jeu. On les fait pour marquer le début, et pour sentir que le jeu nous appartient.
 
-Certains de ces gestes sont agréables, et je ne dissuaderais personne d’une habitude qui lui plaît. Mais ce qui rend un jeu vôtre, ce n’est pas la cérémonie. C’est d’apprendre comment dessine son illustrateur. La fumée et le clair de lune sont une question à part ; j’ai vendu de la sauge à une époque, et j’explique [pourquoi j’ai arrêté](/fr/blog/purifier-son-jeu-de-tarot/).
+Certains de ces gestes sont agréables, et je ne dissuaderais personne d’une habitude qui lui plaît. Mais ce qui rend un jeu vôtre, ce n’est pas la cérémonie. C’est d’apprendre comment dessine son illustrateur. La fumée et le clair de lune sont une question à part ; j’ai vendu de la sauge à une époque, puis j’ai arrêté, et je m’en explique en parlant de [la purification d’un jeu](/fr/blog/purifier-son-jeu-de-tarot/).
 
 Mon premier jeu était un cadeau de Noël de mes amis, et j’ai commencé à lire avec le 26 décembre 2020. **Ce qui m’a appris ce jeu, c’est de lire avec.**
 
@@ -32,11 +32,11 @@ Le tirage d’interview est un court tirage qu’on pose avec un nouveau jeu com
 5. Comment travailler au mieux avec toi ?
 6. Où va notre relation ?
 
-On tire une carte par position et on lit les réponses comme le jeu qui se présente lui-même. Imaginons qu’en position trois, « tes limites », sorte le Sept de Coupes : un personnage face à sept coupes qui flottent dans un nuage, chacune avec autre chose dedans — un château, des bijoux, une couronne de laurier, un dragon, un serpent, une silhouette voilée, une tête.
+On tire une carte par position et on lit les réponses comme le jeu qui se présente lui-même. Imaginons qu’en position trois, « tes limites », sorte le Sept de Coupes : un personnage face à sept coupes qui flottent dans un nuage, chacune avec son propre contenu, des bijoux jusqu’au serpent.
 
 {{< cards "cu07" >}}
 
-Dans mes notes, le Sept de Coupes, c’est l’indécision, le trop-plein de choix. On pourrait en conclure que ce jeu risque de vous submerger.
+Mes notes rattachent le Sept de Coupes à l’hésitation, quand les options sont trop nombreuses. On pourrait en conclure que ce jeu risque de vous submerger.
 
 C’est une façon douce de passer vingt minutes avec des cartes neuves, et je comprends qu’on l’aime. Ma réserve est pratique. Six cartes sur soixante-dix-huit disent bien peu des soixante-douze autres, et les questions vous invitent à lire vos espoirs et votre trac plutôt que les dessins. Voici la version plus légère que je propose : gardez la curiosité, et tournez-la vers les images. Au lieu de demander au jeu quelles sont ses limites, regardez comment cet illustrateur a dessiné le Sept de Coupes, et ce qu’il a changé.
 
@@ -45,7 +45,7 @@ C’est une façon douce de passer vingt minutes avec des cartes neuves, et je c
 Un quart d’heure par jour, le carnet ouvert à côté de vous.
 
 1. *Premier jour : regardez toutes les cartes.* Face visible, une par une, sans lire. Remarquez celles qui vous plaisent et celles que vous passeriez volontiers. Notez-en trois de chaque.
-2. *Deuxième jour : une carte, décrite.* Tirez une carte. Décrivez ce qu’il y a dessus, ce que vous voyez, ce qui vous vient. Écrivez-le avant d’interpréter quoi que ce soit.
+2. *Deuxième jour : une carte, décrite.* Tirez une carte. Nommez d’abord les personnages et les objets, puis ce qui vous frappe, enfin ce qui vous vient. Écrivez-le avant d’interpréter quoi que ce soit.
 3. *Troisième jour : une carte, par ses couleurs.* Quelle couleur domine ? C’est là qu’un nouveau jeu change le plus, et une autre palette change la lecture ; la [grille des couleurs](/fr/bibliotheque/couleurs-tarot/) montre comment.
 4. *Quatrième jour : comparez.* Posez côte à côte la même carte de deux jeux — le nouveau et un que vous connaissez. Qu’est-ce que l’illustrateur a gardé, ajouté, laissé de côté ?
 5. *Cinquième jour : trois cartes.* Une rangée, lue comme une seule phrase. Notez les éléments et les nombres.
@@ -58,11 +58,11 @@ C’est l’ordre que j’enseigne pour n’importe quel jeu : une carte par jou
 
 Beaucoup de jeux vendus aujourd’hui suivent le Rider-Waite-Smith de 1909 : mêmes scènes, nouveau style. La question du quatrième jour est la porte d’entrée la plus rapide, carte après carte : qu’est-ce qui a changé ? Un Trois de Coupes peint en bleus et en gris plutôt qu’en jaunes chauds ne se lit pas pareil par la clé de lecture des couleurs, même avec les trois mêmes personnages.
 
-Certains jeux ne sont pas des variantes du tout. En France, beaucoup ont d’abord croisé le tarot de Marseille : ses cartes mineures montrent des bâtons, des coupes, des épées ou des deniers disposés en motif, pas des scènes, alors on s’appuie sur le nombre et la famille plutôt que sur un dessin. Je compare les deux dans [tarot de Marseille ou Rider-Waite-Smith](/fr/blog/tarot-de-marseille-ou-rider-waite/). Le Thoth, peint par Frieda Harris pour Aleister Crowley, est très développé et bien plus occulte — un jeu à explorer plus tard. Si c’est votre premier jeu, je commencerais par le Rider-Waite-Smith, pour les raisons que je donne dans [quel jeu de tarot choisir pour commencer](/fr/blog/quel-jeu-de-tarot-choisir/).
+Certains jeux ne sont pas des variantes du tout. En France, beaucoup ont d’abord croisé le tarot de Marseille : ses cartes mineures montrent des bâtons, des coupes, des épées ou des deniers disposés en motif, pas des scènes, alors on s’appuie sur le nombre et la famille plutôt que sur un dessin. Les différences sont détaillées dans [mon comparatif du Marseille et du Rider-Waite-Smith](/fr/blog/tarot-de-marseille-ou-rider-waite/). Le Thoth, peint par Frieda Harris pour Aleister Crowley, est très développé et bien plus occulte — un jeu à explorer plus tard. Si c’est votre premier jeu, je commencerais par le Rider-Waite-Smith, pour les raisons que je donne dans [quel jeu de tarot choisir pour commencer](/fr/blog/quel-jeu-de-tarot-choisir/).
 
 ## Si le jeu ne vous parle pas {#pas-le-declic}
 
-Parfois, au bout de la semaine, un jeu vous reste étranger. Ce n’est un signe ni sur vous ni sur lui ; c’est une question de goût. Collectionner les jeux, c’est un peu comme collectionner l’art : chacun est un ensemble d’images à travers lesquelles on lit des messages, et tous les peintres ne parlent pas à tout le monde.
+Parfois, au bout de la semaine, un jeu vous reste étranger. Ce n’est un signe ni sur vous ni sur lui ; c’est une question de goût. C’est comme en peinture : chaque jeu est une collection d’images à lire, et tous les peintres ne parlent pas à tout le monde.
 
 Rangez-le un mois et réessayez, ou offrez-le à quelqu’un à qui il ira mieux. Le laisser manipuler par d’autres en attendant, c’est à vous de voir ; j’en parle dans [laisser quelqu’un toucher ses cartes](/fr/blog/laisser-toucher-ses-cartes-tarot/).
 

@@ -17,7 +17,7 @@ The honest answer to "how does tarot work?" is that I don't know. I've been aske
 
 Cold reading is the technique stage psychics use: you watch the person, you fish, you say something vague, you see what lands, you follow it. "I'm sensing a loss… a man… older…" and the sitter's face tells you when you're warm. It works, it's a skill, and a lot of what passes for tarot is cold reading with cards as a prop.
 
-I take this one seriously because it's the easiest way to fool yourself. So I removed the material it needs. The person tells me nothing: no question, no context, sometimes no name. Over video I'm often reading a black square. When there is no face to read and nothing to fish from, cold reading has nothing to work with — and the readings still land. That doesn't disprove the theory for other readers. It rules it out for mine.
+I take this one seriously because it's the easiest way to fool yourself. So I removed the material it needs. I'm told nothing: no question, no context, sometimes no name. Over video I'm often reading a black square. When there is no face to read and nothing to fish from, cold reading has nothing to work with — and the readings still land. That doesn't disprove the theory for other readers. It rules it out for mine.
 
 ## Theory two: the Barnum effect {#barnum}
 

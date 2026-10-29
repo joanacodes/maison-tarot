@@ -23,7 +23,7 @@ Personne ne se voit rien vendre. Il n’y a pas de « réservez une lecture priv
 
 ## Ce qui est refusé, même gratuitement {#refuse}
 
-La santé, la mort, la grossesse, une procédure en cours, l’argent, et tout ce qui touche à une « malédiction ». Si votre question est l’une de celles-là, je le dirai gentiment et je passerai. Pas parce qu’une carte ne peut pas tomber dessus — parce qu’un mot faux là-dessus fait des dégâts, et que je me trompe une fois sur dix. [La liste complète, et pourquoi.](/fr/avertissements/#refus)
+La santé, la mort, la grossesse, une procédure en cours, l’argent, et tout ce qui touche à une « malédiction ». Si votre question est l’une de celles-là, je le dirai gentiment et je passerai. Non qu’aucune carte ne puisse en parler — mais parce qu’un mot faux là-dessus fait des dégâts, et que je me trompe une fois sur dix. [La liste complète, et pourquoi.](/fr/avertissements/#refus)
 
 Et si vous allez mal ce soir-là : dites-le, en privé, et je vous passerai. Une lecture n’est pas le bon outil pour cette soirée. Une pause, oui.
 

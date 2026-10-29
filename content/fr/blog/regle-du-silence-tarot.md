@@ -30,13 +30,13 @@ Parce que je suis comme tout le monde : dès que j’ai une information, mon cer
 
 C’est exactement le mécanisme que les sceptiques pointent quand ils parlent de lecture froide, et ils ont raison de le pointer. Un lecteur qui pose dix questions avant d’ouvrir son jeu fait de l’écoute active, pas du tarot. Ce n’est pas malhonnête en soi — mais ça ne devrait pas s’appeler une lecture. C’est d’ailleurs pour cela que le silence figure dans [ma courte liste de déontologie](/fr/blog/deontologie-tarologue/), juste après le consentement.
 
-La règle du silence me retire cet outil. Il me reste la carte, les couleurs, le nombre, l’élément, et ce qui monte quand je regarde. C’est moins rassurant. C’est aussi la seule façon de tenir un [carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) qui serve à quelque chose : à gauche ce que j’ai dit, à droite ce qui a été confirmé, et aucune des deux colonnes contaminée par l’autre.
+La règle du silence me retire cet outil. Il me reste la carte, les couleurs, le nombre, l’élément, et ce qui monte quand je regarde. C’est moins rassurant. C’est aussi la seule façon de tenir un [carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) qui serve à quelque chose : une colonne pour ce que j’avance, une pour ce qui se vérifie, et aucune des deux contaminée par l’autre.
 
 ## Ce qui s’est passé la première fois {#premiere-fois}
 
-Ma toute première lecture pour une inconnue s’est faite dans ces conditions, sur un groupe Discord trouvé via Tumblr. Le tirage parlait d’une relation, et montrait qu’elle n’avait pas été gentille avec l’autre personne ; elle m’a répondu que ça ne lui parlait pas, qu’elle ne cherchait pas de relation. Trois ou quatre jours plus tard, elle m’a écrit, sous le choc : tout était arrivé.
+La toute première inconnue pour qui j’ai tiré les cartes, je l’ai lue dans ces conditions, sur un groupe Discord découvert grâce à Tumblr. Le tirage parlait d’une relation, et d’un manque de gentillesse de sa part envers l’autre ; elle a d’abord nié tout lien : elle ne cherchait personne. Moins d’une semaine plus tard, elle m’écrivait, secouée : tout avait eu lieu.
 
-Ce que je retiens de cette histoire, ce n’est pas que j’avais raison — j’aurais très bien pu ne pas l’avoir. C’est que si elle m’avait dit au départ « je ne cherche pas de relation », je n’aurais jamais dit ce que j’ai dit. Le silence m’a laissée dire ce qui montait. [Toute l’histoire](/fr/blog/premier-tirage-tarot/) a sa propre page.
+Ce que je retiens de cette histoire, ce n’est pas que j’avais raison — j’aurais très bien pu ne pas l’avoir. C’est que si elle m’avait prévenue d’emblée qu’elle n’était en quête de personne, je n’aurais jamais dit ce que j’ai dit. Le silence m’a laissée dire ce qui montait. [Cette première lecture](/fr/blog/premier-tirage-tarot/) est racontée en entier ailleurs.
 
 ## « Mais comment vous pouvez répondre à ma question ? » {#la-question}
 
@@ -66,7 +66,7 @@ La règle vaut pour vous autant que pour moi, et c’est l’exercice le plus ut
 2. Tirez une carte. Une seule, pour commencer.
 3. Dites ce que vous voyez, à voix haute, sans regarder son visage plus que nécessaire.
 4. Laissez-la parler seulement quand vous avez fini.
-5. Notez deux colonnes : ce que vous avez dit, ce qu’elle a confirmé.
+5. Sur deux colonnes, notez chacune de vos phrases et, en regard, ce qu’elle en dit.
 6. Ce qui n’a pas été confirmé reste noté comme un raté : pas de deuxième carte pour rattraper.
 
 Faites-le dix fois et vous saurez quelque chose sur vous que personne ne peut vous raconter. Si vous préférez vous lancer avec quelqu’un à côté, c’est exactement ce qu’on fait aux [événements gratuits](/fr/evenements/) : on tire au sort, on ne dit rien, et on compare après.

@@ -54,7 +54,7 @@ If you like a small ritual to close it, draw one card afterwards and describe wh
 
 ## When meditation isn’t the right tool {#not-the-tool}
 
-Meditation isn’t a treatment, and I don’t make health promises. If anxiety is serious — panic, nights without sleep, fear that takes over your days — a doctor or a therapist is the right person to see, and there’s no shame in that door. I’ve written about [when a therapist is the better door](/disclaimers/#therapy).
+Meditation isn’t a treatment, and I don’t make health promises. If anxiety is serious — panic, nights without sleep, fear that takes over your days — make an appointment with your doctor or a therapist, and there’s no shame in that door. I’ve written about [when a therapist is the better door](/disclaimers/#therapy).
 
 Sitting with your thoughts can also bring up more than you expected. If that happens, open your eyes, stand up, have a glass of water, and talk to someone you trust. Go slowly. Two minutes is not a small amount; it’s the right amount to begin.
 

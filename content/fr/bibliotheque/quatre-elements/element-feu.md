@@ -55,7 +55,7 @@ Les Bâtons parlent de ce qui pousse, de ce qu’on lance, de ce qu’on veut �
 
 ## Le point important : la vitesse
 
-Là où l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) abîme lentement et en silence, le Feu fait des dégâts instantanés et visibles. Ce n’est ni mieux ni pire : c’est une autre échelle de temps. Quand vous tirez beaucoup de Bâtons, regardez la vitesse de la situation. Quelque chose démarre, ou quelque chose part en fumée — mais dans les deux cas, ça va vite.
+Là où l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) abîme lentement et en silence, le Feu fait des dégâts instantanés et visibles. Ce n’est ni mieux ni pire : c’est une autre échelle de temps. Si les Bâtons dominent un tirage, regardez la vitesse de la situation. Quelque chose démarre, ou quelque chose part en fumée — mais dans les deux cas, ça va vite.
 
 ## Mots-clés
 
@@ -67,7 +67,7 @@ L’adolescent plein de vie, qui pense pouvoir tout faire — et qui, parfois, s
 
 ## Exemple de lecture
 
-L’As de Bâtons, pour quelqu’un qui ne vous a rien dit. *As* : le début, le diamant brut ([les nombres](/fr/bibliotheque/numerologie/)). *Feu* : l’élan, la création. Une idée qui vient d’arriver, une envie qui pousse, et le conseil qui va avec : rester humble, rester élève — c’est le début, pas le résultat.
+L’As de Bâtons sort pour quelqu’un dont vous ignorez tout. *As* : le début, le diamant brut ([les nombres](/fr/bibliotheque/numerologie/)). *Feu* : l’élan, la création. Une idée qui vient d’arriver, une envie qui pousse, et le conseil qui va avec : rester humble, rester élève — c’est le début, pas le résultat.
 
 {{< cards "waac" >}}
 

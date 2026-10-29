@@ -15,11 +15,11 @@ Pointing someone elsewhere is one of the kindest things a tarot reader can do, a
 
 ## When a question isn't one for the cards {#when}
 
-There are subjects I don't read on: health, death, pregnancy and fertility, ongoing court cases, money decisions, curses, and people who aren't in the room. The [full list is public](/disclaimers/#refusals), so nobody discovers it halfway through a reading.
+Some subjects stay off my table: anything medical, pregnancy and fertility included; death; a court case still running; a money decision; curses; and anyone who isn't there to speak for themselves. The [full list is public](/disclaimers/#refusals), so nobody discovers it halfway through a reading.
 
-The reason is arithmetic more than principle: my notebook shows about one miss in every ten readings. On a question about a new job, a miss costs a shrug. On a question about a scan, a pregnancy or a trial, a miss can make someone wait when they should act, or panic when they could rest. I've written more about [why careful readers step back from health, pregnancy and death](/blog/health-pregnancy-death-tarot/).
+The reason is arithmetic more than principle: my notebook shows about one miss in every ten readings. On a question about a new job, a miss costs a shrug. On a question about a scan, a pregnancy or a trial, a miss can make someone wait when they should act, or panic when they could rest. I've written more about [what a miss costs on a medical question](/blog/health-pregnancy-death-tarot/).
 
-Two other moments call for a boundary even when the topic is fine. Someone in acute distress, for whom a reading is the wrong tool that day. And someone who keeps coming back with the same question: I usually decline then, for the reasons in [why you should quit tarot reading for a while](/blog/why-you-should-quit-tarot-reading/).
+Two other moments call for a boundary even when the topic is fine. Someone in acute distress, for whom a reading is the wrong tool that day. And someone who keeps coming back with the same question: I usually decline then; [what endless repeat readings do to someone](/blog/why-you-should-quit-tarot-reading/) explains why.
 
 **A boundary isn't a verdict on the person; it's a fact about the tool.**
 
@@ -64,7 +64,7 @@ Sometimes what comes up in a reading is psychological, sometimes more, and the r
 
 You don't diagnose. You're not qualified to, and neither am I. You say once, kindly, what you noticed and where it could go: "This sounds like it's been with you a long time. It deserves more than a reading can give it. Is there someone you could talk to?" No lecture, no pressure, no extra card to soften it.
 
-My notes put it plainly: never let tarot replace therapy, or become a circle of dependency, for you or for the person you read. A reading can give someone a picture for what they feel. It can't hold a crisis, and [I've written about where that door is](/blog/tarot-and-mental-health/) at more length.
+My notes say it in one line: tarot should never stand in for therapy, and never become something either of you can't do without. A reading can give someone a picture for what they feel. It can't hold a crisis, and [I've written about where that door is](/blog/tarot-and-mental-health/) at more length.
 
 ## Before your next reading {#next-step}
 

@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/waac.webp
 h1: Ace of Wands — <em>one</em>, Fire
-lede: 'Before looking up what Ace of Wands “means”, look at what you already have:
-  one, the element Fire, Root of Fire. You’re reading the card. The number says one
-  — the beginning, the rough diamond; the element says drive, what you launch. Lay
-  the two over each other, add the colours, and the card is already talking — the
-  rest of the page shows you how.'
+lede: 'A living branch, knotted and putting out leaves, is offered by a hand nobody owns, with a castle far off over the hills. What will you grow from it before it becomes a tool?'
 related:
 - /library/numerology
 - /library/four-elements/fire-element
@@ -56,19 +52,19 @@ With this card, the humility I ask of any 1 — get ready to learn — matters m
 
 The Wands are [Fire](/library/four-elements/fire-element/): creation, destruction, impulse, the energy that motivates. The Ace is Fire before it has forged anything or spread anywhere — the spark, before it has chosen what to warm and what to burn.
 
-So the card talks about desire in the widest sense: a project, a vocation, an attraction, sometimes plain libido. The teenager full of life who thinks they can do anything, on the morning they wake up with the idea.
+So the card talks about desire in the widest sense: a project, a vocation, an attraction, sometimes plain libido. It’s Fire at its youngest, sure that nothing is out of reach, on the morning the idea arrives.
 
 ## By colours {#colours}
 
 The brown-[orange](/library/tarot-colours/orange/) of the branch is wood and heat: creativity, libido — and, on its flip side, dryness, which the leaves keep away. The [green](/library/tarot-colours/green/) of the leaves and hills says growth and life: this urge grows, it doesn’t only burn. The grey of the cloud is neutrality — the offer doesn’t explain where it comes from.
 
-Together, before any meaning: something warm and alive is held out above a green land. That’s already a reading.
+Warm wood over living green: something alive is being held out to you, above a land that can grow it.
 
 ## By astrology: Root of Fire {#astrology}
 
-In the Golden Dawn system, the minors from Two to Ten each receive a decan, a planet in a sign. The Aces don’t: each is the root of its element, and this one is the root of Fire. It isn’t a placement in a birth chart; it’s the source the rest of the suit draws from, from the Two in Aries to the Ten in Sagittarius.
+The Golden Dawn handed each minor from Two to Ten a decan, a planet in a sign. The Aces don’t: each is the root of its element, and this one is the root of Fire. It isn’t a placement in a birth chart; it’s the source the rest of the suit draws from, from the Two in Aries to the Ten in Sagittarius.
 
-If [astrology](/library/astrology/) speaks to you, keep the image of the root. If not, nothing is lost — the other lenses have said it.
+The root is worth keeping if you read with [astrology](/library/astrology/); without it, the branch in the hand already tells you the suit starts here.
 
 ## In a reading {#reading}
 
@@ -76,7 +72,7 @@ Upright, the Ace of Wands is an urge that has just arrived: the idea at two in t
 
 Reversed, the branch stays in the cloud: the same project talked about for the third month running, the enthusiasm gone before the first step. Or the opposite excess — ten beginnings and no follow-through, or an urge so strong you skip the learning and get burnt.
 
-Next to [the Magician](/library/tarot-cards/the-magician/), another 1, the idea meets its tools: a good moment to start. Next to the [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/), the Fire finds ground — a place, a budget, a base. Next to the [Ten of Wands](/library/tarot-cards/ten-of-wands/), a new idea lands on a back already loaded; what I say of the Ten — keep the creative energy without overloading yourself — holds for both.
+Next to [the Magician](/library/tarot-cards/the-magician/), another 1, the idea meets its tools: a good moment to start. Next to the [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/), the Fire finds ground — a place, a budget, a base. Next to the [Ten of Wands](/library/tarot-cards/ten-of-wands/), a new idea lands on a back already loaded; what I say of the Ten — keep the spark alive without piling on more than you can carry — holds for both.
 
 {{< cards "ar01 peac wa10" >}}
 
@@ -84,6 +80,6 @@ Next to [the Magician](/library/tarot-cards/the-magician/), another 1, the idea 
 
 Imagine the Ace of Wands turning up with the Seven of Cups beside it: one living branch, then too many choices. Number: one, then seven — something begins, then a pause to weigh it up. Element: Fire, then Water — an urge, then daydreams. Colours: warm orange and green, then a dark silhouette facing cups on clouds. From the clear to the hazy.
 
-The sentence I’d say out loud: “You’ve got an idea that really wants to start, and you know which one. But there are several around it, and you’re spending your energy looking at all of them instead of growing one.”
+Put to the person, the branch and the clouded cups become: “You’ve got an idea that really wants to start, and you know which one. But there are several around it, and you’re spending your energy looking at all of them instead of growing one.”
 
-Then I’d check it with them — not before, because the person tells me nothing until I’ve spoken: that’s [the silence rule](/blog/the-silence-rule/). If not, it’s a miss, and I don’t rescue it with a third card. If yes, the useful question is “which one do you want to grow first?”
+Then I’d check it with them — not before, because the person tells me nothing until I’ve spoken: that’s [the silence rule](/blog/the-silence-rule/). If no idea is pushing to start, I read the branch wrong, and no third card gets drawn to save it. If one is, the useful question is “which one do you want to grow first?”

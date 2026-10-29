@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/wa04.webp
 h1: Four of Wands — <em>four</em>, Fire
-lede: 'Before looking up what Four of Wands “means”, look at what you already have:
-  four, the element Fire, Venus in Aries. You’re reading the card. The number says
-  four — foundations, stability; the element says drive, what you launch. Lay the
-  two over each other, add the colours, and the card is already talking — the rest
-  of the page shows you how.'
+lede: 'A garland of leaves, fruit and red flowers hangs between planted staves while two robed figures lift bouquets before a grey castle. What have you built that is worth celebrating, and who stands under it with you?'
 related:
 - /library/numerology
 - /library/four-elements/fire-element
@@ -52,7 +48,7 @@ Nobody is fighting, nobody is working, and nobody holds the wands: they stand on
 
 [Four](/library/numerology/number-4/) is 2 exalted: after the contract, all is well — stable, structured, the fruit of your work. In my own notes, the Four of Wands is the example I give for this number: foundations, marriage, building a family. Four planted wands are the four corners of a house.
 
-In the Instagram story, 4 is the fast success that gives the company a shape, a team, habits. It holds. The advice of 4 — stay flexible, open to what you hadn’t planned — applies to the house too: leave room for whoever turns up. Its minus is carrying on when you should stop, or getting stubborn about how the house must look. The garland is a good reminder: it will wilt and need replacing. The celebration was never the walls.
+Instagram’s 4 was the fast success that gave the company a shape, a team, habits — and it held. The advice of 4 — stay flexible, open to what you hadn’t planned — applies to the house too: leave room for whoever turns up. Its minus: pushing on past the point where you should have stopped, or getting stubborn about how the house must look. The garland is a good reminder: it will wilt and need replacing. The celebration was never the walls.
 
 ## By element: Fire {#element}
 
@@ -68,7 +64,7 @@ The garland adds [green](/library/tarot-colours/green/) and red, growth and life
 
 ## By astrology: Venus in Aries {#astrology}
 
-In the Golden Dawn tradition, the Four of Wands is Venus in Aries, the third decan of the sign. [Venus](/library/astrology/venus/) is how you bond; Aries is the first impulse, “I am”. Together: love that acts, attraction that wants to be celebrated out loud — a fit for garlands and raised bouquets.
+For the Golden Dawn, the Four of Wands is Venus in Aries, the sign’s third decan. [Venus](/library/astrology/venus/) is how you bond; Aries is the first impulse, “I am”. Together: love that acts, attraction that wants to be celebrated out loud — a fit for garlands and raised bouquets.
 
 An extra lens: it adds warmth to the card’s Fire, and the number and the yellow already say nearly the same. [The decans article](/blog/decans-tarot/) explains how they’re shared out.
 
@@ -88,6 +84,6 @@ Next to the [Ten of Cups](/library/tarot-cards/ten-of-cups/) — happiness, fami
 
 Suppose the Four of Wands comes out first, with the Six of Cups beside it, and nothing has been said yet about why the person came. Number: four, then six — something built and stable, then harmony and time for yourself. Element: Fire, then Water — celebration, then memories. Colours: the Four’s yellow, then the yellow courtyard of the Six of Cups, two children in red hoods, cups full of white flowers. Yellow twice: a good moment.
 
-The sentence I’d say out loud: “There’s a gathering in your life, recent or coming, that brings you back to people from before — family, childhood friends, the place you grew up. It feels like coming home, and you’re allowed to enjoy it.”
+With both yellows on the table, I’d tell them: “There’s a gathering in your life, recent or coming, that brings you back to people from before — family, childhood friends, the place you grew up. It feels like coming home, and you’re allowed to enjoy it.”
 
 Then I’d ask if there is such a gathering, and which one. If nobody is coming home and nothing is being celebrated, the sentence missed. Practising pairs like this, with other people around the table, is what the [workshops](/workshops/) are for.

@@ -27,7 +27,7 @@ Ma règle ne change pas en live : la personne lue ne me dit rien avant. Demandez
 
 Tirez au sort plutôt que de prendre ceux qui tapent le plus vite : en live, sinon, seule la vitesse dans les commentaires décide de qui sera lu.
 
-Montrez chaque carte à la caméra. Dans mes notes de 2021, j’écrivais que plus je lisais, plus les messages arrivaient avant que j’aie mélangé, et que je me sers des cartes surtout parce que la personne a envie de les voir. En live, c’est doublement vrai. Si quelque chose vient avant que vous ayez posé une carte, dites-le, puis montrez la carte quand même pour qu’on puisse suivre. **En live, les spectateurs ne peuvent suivre que ce que vous mettez devant l’objectif.** J’explique ailleurs si [on a encore besoin des cartes](/fr/blog/a-t-on-besoin-des-cartes/).
+Montrez chaque carte à la caméra. Dès 2021, plus je pratiquais, plus il m’arrivait de savoir quoi dire avant d’avoir battu le jeu ; les cartes servaient surtout à la personne lue, qui voulait les voir. En live, c’est doublement vrai. Si quelque chose vient avant que vous ayez posé une carte, dites-le, puis montrez la carte quand même pour qu’on puisse suivre. **En live, les spectateurs ne peuvent suivre que ce que vous mettez devant l’objectif.** J’ai consacré une page [au jeu qu’on garde même quand on sait lire](/fr/blog/a-t-on-besoin-des-cartes/).
 
 Et dites les ratés à voix haute, comme dans n’importe quelle salle. Le replay les gardera de toute façon ; autant que ce soit vous qui les nommiez.
 

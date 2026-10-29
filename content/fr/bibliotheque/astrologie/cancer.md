@@ -26,13 +26,13 @@ related:
 - /bibliotheque/astrologie/lune
 faq:
 - q: Quelle carte de tarot correspond au Cancer ?
-  a: Le Chariot, dans la tradition Golden Dawn reprise par le Rider-Waite-Smith.
-    Quand il sort, le signe donne son verbe, son élément et son mode d’un coup.
-    La Grande Prêtresse est la carte de la Lune, qui gouverne le signe.
-- q: 'Je suis Cancer : est-ce que cette carte est « ma » carte ?'
-  a: C’est une entrée, pas une identité. La carte parle à n’importe qui de la même
-    chose ; votre signe vous aide seulement à la reconnaître plus vite. L’astrologie
-    n’est pas une excuse.
+  a: 'Le Chariot : un conducteur en armure, deux lunes en croissant à hauteur d’épaule,
+    qui avance sans tenir de rênes. La Lune, l’astre du Cancer, a de son côté une
+    carte à elle : la Grande Prêtresse.'
+- q: Le Chariot décrit-il les gens nés sous le Cancer ?
+  a: Il décrit un moment — avancer en tenant ce qu’on porte —, pas une personne. Un
+    Cancer peut s’y retrouver, tout comme quelqu’un de n’importe quel autre signe
+    qui avance sous une charge que personne ne voit.
 gallery:
 - src: "visuals/sign-cancer/1.jpg"
   title: "Le foyer qui tient"
@@ -79,7 +79,7 @@ La mère ou le père au foyer. Hodor, dans Game of Thrones : celui qui tient la 
 
 ## Sa carte : Le Chariot {#carte}
 
-Quand [le Chariot](/fr/bibliotheque/cartes-tarot/le-chariot/) sort, le Cancer est là : une carapace dure autour d’un intérieur tendre, un guerrier en armure qui avance sous des poids que personne ne voit. Bien posé, c’est la volonté qui protège et qui tient bon. Mal posé, c’est l’armure qu’on ne retire jamais. Le Cancer ne prend pas ; il donne.
+[Le Chariot](/fr/bibliotheque/cartes-tarot/le-chariot/) montre le Cancer en marche : une carapace dure autour d’un intérieur tendre, un guerrier en armure qui avance sous des poids que personne ne voit. Cette armure tient bon et protège ; le risque est de ne jamais la retirer. Le Cancer ne prend pas ; il donne.
 
 {{< cards "ar07" >}}
 

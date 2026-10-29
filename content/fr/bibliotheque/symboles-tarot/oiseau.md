@@ -8,7 +8,7 @@ weight: 21
 categories: ["Symboles"]
 tags: ["symboles du tarot", "oiseau", "l’Étoile", "As de Coupes", "Épées"]
 h1: "L’oiseau — une pensée <em>en vol</em>"
-lede: "L’oiseau circule entre le sol et le ciel : un message, une idée, un espoir en route. Dans le Rider-Waite-Smith, il se pose près du bassin de l’Étoile, plonge vers l’As de Coupes, se tient sur une main gantée dans le Neuf de Pentacles et traverse le ciel au-dessus de la cour des Épées."
+lede: "L’oiseau circule entre le sol et le ciel : un message, une idée, un espoir en route. Il se pose près du bassin de l’Étoile, plonge vers l’As de Coupes, se tient sur une main gantée dans le Neuf de Pentacles et traverse le ciel au-dessus de la cour des Épées."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/l-etoile
@@ -57,7 +57,7 @@ L’espèce d’oiseau, et ce qu’il fait, disent le reste. Posé, en piqué, q
 
 Sur [l’Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/), un oiseau rouge au long bec courbe est perché dans un arbre, à droite, derrière la femme agenouillée. On y voit généralement un ibis. Elle verse ; l’oiseau regarde, au repos après l’orage de la Tour.
 
-Sur l’As de Coupes, une colombe blanche plonge tête la première vers la coupe, une hostie marquée d’une croix au bec. Quelque chose qui vient d’en haut, dans un récipient ouvert.
+Sur l’As de Coupes, une colombe blanche descend en piqué vers la coupe, tenant dans son bec une hostie frappée d’une croix. Quelque chose qui vient d’en haut, dans un récipient ouvert.
 
 Sur le Neuf de Pentacles, une femme dans un jardin de vignes tient un oiseau sur sa main gauche gantée, la tête couverte d’un chaperon rouge : un oiseau de chasse, dressé pour revenir.
 
@@ -73,9 +73,9 @@ Sur la Roue de Fortune et le Monde, un aigle est l’une des quatre créatures d
 
 Quand un oiseau sort, regardez où il se trouve par rapport à la personne. Au-dessus d’elle, en vol : une idée pas encore attrapée. En train de descendre, sur l’As de Coupes : quelque chose qui arrive sans qu’on soit allé le chercher. Sur une main, dans le Neuf de Pentacles : quelque chose de sauvage qu’on a appris à garder sans cage.
 
-Les clés de lecture : l’oiseau va avec l’[Air](/fr/bibliotheque/quatre-elements/element-air/) — penser, décider, communiquer. Dans mes notes, l’Air tranche net et a accès à tout en même temps ; il peut aussi bloquer, ou tourner à l’obsession. Une volée au-dessus du Valet d’Épées, c’est une tête pleine de pensées qui partent dans tous les sens. La couleur : la colombe est [blanche](/fr/bibliotheque/couleurs-tarot/blanc/), et le blanc, dans ma grille, c’est la pureté, l’innocence, la paix — un message qui arrive sans conditions.
+L’oiseau appartient à l’[Air](/fr/bibliotheque/quatre-elements/element-air/) — penser, décider, communiquer. Dans mes notes, l’Air tranche net et a accès à tout en même temps ; il peut aussi bloquer, ou tourner à l’obsession. Une volée au-dessus du Valet d’Épées, c’est une tête pleine de pensées qui partent dans tous les sens. La couleur : la colombe est [blanche](/fr/bibliotheque/couleurs-tarot/blanc/), la couleur de la pureté, de l’innocence et de la paix — un message qui arrive sans conditions.
 
-Imaginons que quelqu’un tire le Neuf de Pentacles après une longue période de travail. L’oiseau sur le gant pourrait dire : vous avez gagné votre liberté, et vous avez choisi où la poser. Dans mes notes, cette carte, c’est profiter de ce qui vient, avec de la gratitude pour tout ce qu’on a.
+Le Neuf de Pentacles, après une longue période de travail : l’oiseau sur le gant pourrait dire que vous avez gagné votre liberté, et choisi où la poser. Mes notes y voient le plaisir de recevoir ce qui arrive, et la reconnaissance pour chaque chose acquise.
 
 ## L’autre face {#revers}
 

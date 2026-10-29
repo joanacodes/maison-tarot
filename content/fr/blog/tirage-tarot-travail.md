@@ -17,9 +17,9 @@ Un tirage travail pour une décision pose votre choix sur la table, là où vous
 
 Il est fait pour un choix entre deux chemins : rester ou partir, cette offre ou l’autre, le poste que vous avez ou le métier vers lequel vous vous formez. Il montre ce que chaque chemin vous demande et vous donne, et la chose que votre liste de pour et de contre a oubliée.
 
-Il ne choisit pas. Il n’y a volontairement aucune position « laquelle ». [Le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/) : agissez selon ce que vous ressentez, pas selon une carte.
+Il ne choisit pas. Il n’y a volontairement aucune position « laquelle ». [Aucun tirage n’a autorité sur votre carrière](/fr/blog/le-tarot-nest-pas-une-autorite/) : ce que vous ressentez doit mener la danse, pas une carte.
 
-Il laisse aussi de côté les décisions d’argent — le salaire à accepter, le montant d’une rupture conventionnelle, les chiffres d’un projet de création d’entreprise. Ces questions arrivent avec une vraie pression, et elles méritent de vrais chiffres : vos comptes, le contrat, un comptable ou un conseiller qui peut les regarder. Une carte ne le peut pas. Ce qu’un tirage peut porter en attendant, c’est ce que chaque option vous fait ressentir, et ça compte aussi. Les raisons sont sur [la page des refus](/fr/avertissements/#refus).
+Il laisse aussi de côté les décisions d’argent — le salaire à accepter, le montant d’une rupture conventionnelle, les chiffres d’un projet de création d’entreprise. Ces questions arrivent avec une vraie pression, et elles méritent de vrais chiffres : vos comptes, le contrat, un comptable ou un conseiller qui peut les regarder. Une carte ne le peut pas. Ce qu’un tirage peut porter en attendant, c’est ce que chaque option vous fait ressentir, et ça compte aussi. J’explique ces limites sur [la page de mes refus](/fr/avertissements/#refus).
 
 ## Les cinq positions {#positions}
 
@@ -43,13 +43,13 @@ Où j’en suis : le Dix de Bâtons, un homme courbé sous dix bâtons qu’il p
 
 Option A, rester : le Quatre de Pentacles, un homme couronné qui serre une pièce contre sa poitrine, une autre sur sa couronne, deux sous ses pieds. La Terre, le chiffre 4 : la stabilité, le fruit de votre travail — et son versant moins, continuer quand il faudrait s’arrêter. Rester vous donne de la sécurité ; ça vous demande de vous y accrocher.
 
-Option B, partir : le Trois de Bâtons, un homme de dos sur une falaise, qui regarde des navires sous un ciel jaune. Le Feu, le chiffre 3 : la machine qui tourne, l’élan. Le jaune, c’est l’optimisme et la volonté. Partir vous donne une vue plus large, et vous demande le conseil du 3 : finir un projet avant d’en commencer un autre.
+Option B, partir : le Trois de Bâtons, un homme de dos sur une falaise, qui regarde des navires sous un ciel jaune. Le Feu, le chiffre 3 : la machine qui tourne, l’élan. Le jaune, c’est l’optimisme et la volonté. Partir vous donne une vue plus large, et vous demande ce que conseille le 3 : terminer ce qui est entamé avant de vous lancer dans autre chose.
 
-Ce que je ne compte pas : le Quatre d’Épées, un chevalier allongé sur un tombeau, les mains jointes, des épées suspendues au-dessus de lui. L’Air, le chiffre 4 : le repos. Quel que soit votre choix, votre liste a oublié de compter la récupération.
+Ce que je ne compte pas : le Quatre d’Épées, où un chevalier repose, immobile, ses lames rangées au-dessus de lui. L’Air, le chiffre 4 : le repos. Quel que soit votre choix, votre liste a oublié de compter la récupération.
 
-Ce que j’emporte : le Huit de Pentacles, un artisan qui grave des pièces à son établi. La Terre, le chiffre 8 : la maîtrise, l’effort nécessaire. Ce savoir-faire part avec vous, dans tous les cas.
+Ce que j’emporte : le Huit de Pentacles, l’établi où chaque pièce est travaillée avec soin. La Terre, le chiffre 8 : la maîtrise, l’effort nécessaire. Ce savoir-faire part avec vous, dans tous les cas.
 
-Sur toute la ligne : deux Feu, deux Terre, un Air. Et [deux 4](/fr/bibliotheque/numerologie/chiffre-4/) — la stabilité est le vrai sujet, dans le poste comme en vous. La phrase à voix haute : « Vous portez trop ; rester, c’est garder une sécurité que vous avez méritée ; partir, c’est une vue plus large, à condition de finir ce que vous commencez ; ce qui manque à votre liste, c’est le repos ; et votre métier vous suit, quoi que vous choisissiez. »
+Sur toute la ligne : deux Feu, deux Terre, un Air. Et [deux 4](/fr/bibliotheque/numerologie/chiffre-4/) — la stabilité est le vrai sujet, dans le poste comme en vous. Tout cela, dit en une fois : « Vous portez trop ; rester, c’est garder une sécurité que vous avez méritée ; partir, c’est une vue plus large, à condition de finir ce que vous commencez ; ce qui manque à votre liste, c’est le repos ; et votre métier vous suit, quoi que vous choisissiez. »
 
 Remarquez ce que les cartes n’ont pas dit : laquelle. Dans ce tirage, elles ne le disent jamais.
 
@@ -67,4 +67,4 @@ Cette ligne ne compte que des arcanes mineurs. Quand l’un des arcanes majeurs 
 
 Notez votre décision à côté du tirage, avec la date. Dans trois mois, relisez les deux : les cartes, et ce que vous avez fait. C’est comme ça qu’on apprend ce que valent ses lectures — non pas en se demandant si les cartes « avaient raison », mais si elles vous ont aidé à voir.
 
-Si vous avez choisi de partir, [un tirage en cinq cartes pour votre premier mois](/fr/blog/tirage-nouveau-travail/) prend le relais. Et si vous voulez lire votre propre tirage avec quelqu’un qui connaît les clés de lecture, une [séance individuelle](/fr/sessions/) dure une heure.
+Si vous avez choisi de partir, [un tirage en cinq cartes pour votre premier mois](/fr/blog/tirage-nouveau-travail/) prend le relais. Et pour relire votre propre tirage à deux, avec quelqu’un qui maîtrise les clés de lecture, réservez une [séance individuelle](/fr/sessions/) d’une heure.

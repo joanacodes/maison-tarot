@@ -9,7 +9,7 @@ tags: ["Hanged Man love", "Hanged Man tarot meaning", "Hanged Man reversed", "ta
 image: "covers/hanged-man-tarot-love.jpg"
 imageAlt: "The Hanged Man tarot card lying face up on a plain wooden table"
 imagePrompt: "The Hanged Man card from the 1909 Rider-Waite-Smith deck lying upright on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, the card in its original colours, warm natural colours around it that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "In love, the Hanged Man is a pause, not a verdict. Something is on hold — a relationship, a decision, a feeling you can’t name yet — and the card asks you to look at it from another angle before you act. It isn’t a yes or a no, and it doesn’t say how long the wait will last or what the other person will do. It talks about you while you wait. Single, it’s time taken before the next relationship; together, a stalemate worth seeing differently; after a break-up, room to understand before you rush."
+summary: "In love, the Hanged Man is a pause, not a verdict. Something is on hold — a relationship, a decision, a feeling you can’t name yet — and the card asks you to look at it from another angle before you act. It isn’t a yes or a no, and it gives no length for the wait, nor any word on what the other person will do. It talks about you while you wait. Single, it’s time taken before the next relationship; together, a stalemate worth seeing differently; after a break-up, room to understand before you rush."
 ---
 In love, the Hanged Man is a pause, not a verdict. Something is on hold — a relationship, a decision, a feeling you can’t name yet — and the card asks you to turn your head and look at it from another angle before you do anything. It talks about you while you wait, not about how long the wait will be.
 
@@ -17,21 +17,21 @@ In love, the Hanged Man is a pause, not a verdict. Something is on hold — a re
 
 ## A 3 on hold, in still water {#three-on-hold}
 
-The Hanged Man is 12, and 1 + 2 = [3](/library/numerology/number-3/): the machine running, the contract that works. In my notes, the advice of 3 is to finish one project before starting another; its minus is starting something new before the last thing is done. In love, that’s most of the card: don’t rush into the next chapter while this one is still open.
+The Hanged Man is 12, and 1 + 2 = [3](/library/numerology/number-3/): things in motion, the contract that works. Number 3 comes with a rule in my notes: close what you’ve started before you begin something else. Its minus is the reverse, something new begun while the last thing is still open. In love, that’s most of the card: don’t rush into the next chapter while this one is still open.
 
 The element is Water — emotion, what flows — and the energy is feminine: patience, thinking, what happens behind the scenes. A pause in love is a Water thing. Feelings keep moving while nothing outward happens, and a feeling nobody talks about doesn’t stay still: in my notes it seeps into everything with time, like mould slowly eating a house.
 
-One detail of the drawing matters: his face is calm, and the light shines around his head. **The Hanged Man isn’t stuck; he has stopped, and the difference is what you do with the time.** Neptune and the colours are on [the Hanged Man’s card page](/library/tarot-cards/the-hanged-man/).
+Look at his face: it’s calm, and light shines around his head. **The Hanged Man isn’t stuck; he has stopped, and the difference is what you do with the time.** Neptune and the colours are on [the Hanged Man’s card page](/library/tarot-cards/the-hanged-man/).
 
 ## “How long do I have to wait?” {#how-long}
 
 The question that comes with this card is almost always that one — or its sadder cousin, “Will they make up their mind?” I understand it. Waiting is one of the hardest things in love, because it puts your days in someone else’s hands, and a date would at least give you something to hold.
 
-I don’t read on what someone else will decide, and I don’t give dates. A reading isn’t at its best on what the next few days will bring, and when something does come, it often isn’t the way you pictured it; [I explain why in a separate article](/blog/tarot-timing/). A date from a card would give you something to wait for, not something to do. And the other person isn’t in the room; their choice belongs to them.
+Someone else’s decision isn’t something I read on, and I don’t give dates. A reading isn’t at its best on what the next few days will bring, and when something does come, it often isn’t the way you pictured it; [I explain why in a separate article](/blog/tarot-timing/). A date from a card would give you something to wait for, not something to do. And the other person can’t be asked from here; their choice belongs to them.
 
-Some people come back with the same question again and again, and the Hanged Man is often the card on the table when they do. If you’ve drawn it three times this week asking the same thing, the cards aren’t stuck; the question is ([what repeat readings do to you](/blog/ask-tarot-the-same-question-twice/)).
+The same worry, brought back week after week, often finds the Hanged Man waiting on the table. If you’ve drawn it three times this week asking the same thing, the cards aren’t stuck; the question is ([what repeat readings do to you](/blog/ask-tarot-the-same-question-twice/)).
 
-A kinder question is: “What am I waiting for, and what would I do with this time if the answer never came?” That one has an answer you can act on today.
+A kinder question is: “What am I waiting for — and if no answer ever came, how would I spend this time?” That one has an answer you can act on today.
 
 ## Upright again, and that’s the trouble {#reversed}
 

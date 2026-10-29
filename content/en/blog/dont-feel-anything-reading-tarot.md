@@ -25,7 +25,7 @@ Say you draw a card for a friend and the word "staircase" crosses your mind. It 
 
 ## Why nothing comes {#why-nothing-comes}
 
-My notes give two usual reasons, and neither of them is "you don't have the gift". There isn't one — or rather, everyone has the same one.
+My notes give two usual reasons, and neither of them is "you don't have the gift". There's no such gift to lack; whatever it is, everyone was handed the same.
 
 The first is your own block: too much pressure. You want it to work, you're watching yourself, and the part of you that receives goes quiet. The second is the other person's: someone who's afraid of hearing something can sit across from you like a closed door. Then the thing to do is talk with them and reassure them before you go on: nothing on the table is a verdict, and they can stop you whenever they like.
 
@@ -35,28 +35,28 @@ I'd add two more. Tiredness, because interpreting takes energy, and an empty tan
 
 You don't need to feel anything to begin. You need to look.
 
-Say you draw the Nine of Pentacles. A woman stands in a garden heavy with grapes, in a yellow robe, a bird on her gloved hand. Before any feeling: yellow is joy and optimism. Nine is the end of a stage, the last efforts before the finish line. Pentacles are Earth: whatever has value for you, the result of work. My notes on this card say enjoying what comes, and gratitude for everything you have.
+Say you draw the Nine of Pentacles. A woman stands in a garden heavy with grapes, in a yellow robe, a bird on her gloved hand. Before any feeling: yellow is joy and optimism. Nine is the final stretch, the push before the finish line. Pentacles are Earth: whatever has value for you, the result of work. My notes on this card say enjoying what comes, and gratitude for everything you have.
 
 {{< cards "pe09" >}}
 
 That's three things you can say out loud with no feeling at all: something worked, it's nearly complete, take the time to enjoy it. [The five lenses of the method](/method/) exist for exactly this. They give you something true to say while the rest catches up.
 
-Then say the sentence I give every beginner: *I'm about to talk nonsense.* It lowers the pressure enough for the quiet things to come through, and it's at the heart of [how I teach reading from the first card](/blog/how-to-read-tarot-beginners/).
+Then give yourself the permission I give every beginner: permission to talk nonsense. It lowers the pressure enough for the quiet things to come through, and it's at the heart of [how I teach reading from the first card](/blog/how-to-read-tarot-beginners/).
 
 ## Practise letting go, not feeling {#practise}
 
 You can't train yourself to feel on command. You can train yourself to let go, and in my experience that's the only practice there is.
 
-- Draw one card a day. Describe what's on it, what you see, what you receive. Then three cards, then more.
+- Pull a single card each day and talk it through: the picture first, then whatever arrives with it. Then three cards, then more.
 - Do something meditative: [sitting still for a few minutes](/blog/meditation-for-beginners/), painting, or looking at a painting the way you'd look at a card.
 - Write down the small things — the stray word, the odd image — even when they feel like nothing. Check later whether they meant something. That's also how you learn to tell [reading from making it up](/blog/am-i-making-it-up-tarot/).
 
-It grows with practice. In my notes from 2021, my first full year of reading, I wrote that the more I read, the more often something came before I'd even shuffled, and that I was laying the cards out mostly because the person in front of me wanted to see them.
+It grows with practice. My notes from 2021, my first full year of reading, show impressions turning up sooner and sooner, often before any shuffle, until I was laying out cards mainly because the sitter liked to see them.
 
 ## When nothing is the answer {#when-nothing-is-the-answer}
 
 Some days nothing comes, and that's information too. Tired, worried, distracted: put the cards down and rest. It isn't [your deck that's tired](/blog/do-tarot-cards-get-tired/); it's you, and that's allowed.
 
-I can't promise you'll feel what I feel. Impressions come differently to everyone, and nothing here is proven; it's my experience, plus one thing I can count: every person I've helped to read managed it somewhere between the first and the third try. The feeling you're waiting for isn't the entry ticket. Saying what you see is.
+I can't promise you'll feel what I feel. Impressions come differently to everyone, and nothing here is proven; it's my experience, plus one thing I can count: of everyone I've taught to read, not one needed a fourth try. The feeling you're waiting for isn't the entry ticket. Saying what you see is.
 
-That's why a [workshop at Maison Tarot](/workshops/) starts with a card in front of you before any explanation.
+That's why my [workshops](/workshops/) hand you a card before anyone has explained a thing.

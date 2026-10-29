@@ -7,7 +7,7 @@ type: library
 weight: 60
 short: "Signs and planets"
 h1: "Astrology as a lens, <em>not a belief</em>."
-lede: "I came to astrology to mock it. I tested my own chart box by box: 30 to 40% accurate overall, 75 to 90% for Saturn, Lilith and Chiron. So I keep it — as a lens to lay over the cards that carry a sign, not as an explanation of the world."
+lede: "I came to astrology to mock it. I tested my own chart box by box: 30 to 40% accurate overall, and between 75 and 90% on three points — Saturn, Lilith, Chiron. So I keep it — as a lens to lay over the cards that carry a sign, not as an explanation of the world."
 faq:
   - q: "Do I need to know astrology to read tarot?"
     a: "No. Colours, elements and numbers are enough to read the deck. Astrology adds a layer on twelve major arcana and on the cards from 2 to 10; useful, not mandatory."
@@ -33,7 +33,7 @@ faq:
 | Aquarius | The Star | I know | Uranus, Saturn | Air | Fixed | Masculine | Electric blue |
 | Pisces | The Moon | I believe | Neptune, Jupiter | Water | Mutable | Feminine | Sea green, purple |
 
-Each sign has its own page below, with its keywords, its favourable and unfavourable sides, its archetype and its animal — from my notes, which are not horoscopes.
+The twelve sign pages listed below give each sign’s keywords, its favourable and unfavourable sides, its archetype and its animal — from my notes, which are not horoscopes.
 
 ## What the test showed {#the-test}
 
@@ -45,7 +45,7 @@ That frame holds for every sign and every body in this section. **No sign explai
 
 The twelve major arcana above carry a sign: when you draw one, you get its verb, its element and its mode at once. The Emperor *is* — Fire, cardinal: he starts and he commands. The Chariot *feels* — Water, cardinal: he sets off with his feelings held steady.
 
-The cards from 2 to 10 carry a planet in a sign (the decans). It's a finer layer, noted on every [card page](/library/tarot-cards/), useful when the first three lenses no longer settle it.
+Each numbered minor, Two to Ten, holds one planet placed in one sign: its decan. It's a finer layer, noted on every [card page](/library/tarot-cards/), useful when the first three lenses no longer settle it.
 
 ## The twelve bodies {#the-bodies}
 

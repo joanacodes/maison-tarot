@@ -60,7 +60,7 @@ gallery:
 ---
 ## Ce que dit le 5 {#definition}
 
-**Le 5, c’est épreuve.** Conflit, test, guerre ou bataille, élaborer, mettre en place, challenge, faire avec ce qu’il reste. Le 5 est l’épreuve qui mesure. Dans le [cycle des nombres](/fr/bibliotheque/numerologie/), il vient après le 4 et prépare le 6.
+**Le 5, c’est épreuve.** Conflit, test, guerre ou bataille, élaborer, mettre en place, challenge, faire avec ce qu’il reste. Le 5 est l’épreuve qui mesure. Le 4 avait bâti, le 5 secoue, et le 6 récoltera ce que l’épreuve a laissé debout : [ce cycle en dix étapes](/fr/bibliotheque/numerologie/) a besoin de ce passage.
 
 ## Le conseil du 5 {#conseil}
 
@@ -82,6 +82,6 @@ Facebook débarque pour racheter Instagram — ou, autre version du même 5, IGT
 
 ## En lecture {#lecture}
 
-Un 5 dans un tirage dit : **il y a un conflit, et la question est ce qu’on en fait.** Le Cinq de Bâtons se bagarre, le Cinq d’Épées gagne en perdant des alliés, le Cinq de Coupes pleure ce qui est renversé au lieu de voir ce qui reste debout, le Cinq de Pentacles marche dans la neige devant une fenêtre allumée. Le Hiérophante est le 5 des institutions : l’épreuve de la règle.
+Devant un 5, retenez ceci : **il y a un conflit, et la question est ce qu’on en fait.** Le Cinq de Bâtons se bagarre, le Cinq d’Épées gagne en perdant des alliés, le Cinq de Coupes pleure ce qui est renversé au lieu de voir ce qui reste debout, le Cinq de Pentacles marche dans la neige devant une fenêtre allumée. Le Hiérophante est le 5 des institutions : l’épreuve de la règle.
 
 {{% six %}}

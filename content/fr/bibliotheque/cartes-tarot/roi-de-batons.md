@@ -1,7 +1,7 @@
 ---
 title: 'Roi de Bâtons (King of Wands) — tarot Rider-Waite-Smith : lire la carte par
   ses clés de lecture'
-description: 'Roi de Bâtons : un roi de profil, une couronne de flammes, une salamandre à ses pieds. Lisez la vision, l’autorité et leur excès par le rang, le Feu, la couleur.'
+description: 'Roi de Bâtons : un roi de profil, une couronne de flammes, une salamandre vivante. Mener par la vision, décider vite, et savoir à qui profite toute cette chaleur.'
 translationKey: card-waki
 type: cards
 navTitle: Roi de Bâtons
@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/waki.webp
 h1: Roi de Bâtons — <em>le Roi</em>, le Feu de feu
-lede: 'Avant de chercher ce que « signifie » Roi de Bâtons, regardez ce que vous avez
-  déjà : le Roi, l’élément Feu de Feu. Vous lisez la carte. Le nombre dit le Roi —
-  la maîtrise extérieure, la décision ; l’élément dit l’élan, ce qu’on lance. Posez
-  les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà —
-  le reste de la page vous montre comment.'
+lede: 'Couronné de flammes, un roi assis de profil serre son bâton vivant et regarde plus loin que le cadre, une salamandre à ses pieds. Votre vision entraîne-t-elle les autres, ou leur coupe-t-elle la parole ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -64,7 +60,7 @@ Il porte aussi le risque que je note pour l’Empereur, l’arcane majeur du Feu
 
 L’[orange](/fr/bibliotheque/couleurs-tarot/orange/) et le rouge dominent — la robe, le trône : la créativité, l’élan, la passion, l’action. Des flammes d’or sur la couronne. Puis une bande de [vert](/fr/bibliotheque/couleurs-tarot/vert/) aux épaules : la croissance, la vie, la prospérité. C’est le signe que son feu est fait pour faire pousser quelque chose, pas seulement pour briller.
 
-La pierre grise sous le trône lui donne un sol stable. Lisez les couleurs avant la carte : beaucoup de feu, un col de croissance, des appuis solides.
+La pierre grise sous le trône lui donne un sol stable. En trois touches : beaucoup de feu, un col de croissance, des appuis solides.
 
 ## En lecture {#lecture}
 
@@ -80,6 +76,6 @@ Renversé, le feu devient tyrannique : l’impatience, les colères, le chef qui
 
 Un cas fabriqué pour l’enseignement : le Roi de Bâtons sort, puis le [Deux d’Épées](/fr/bibliotheque/cartes-tarot/deux-de-epees/). Le Roi puis 2 — la décision, puis un choix entre deux qui ne se fait pas ; le Feu puis l’Air — la vitesse, puis un esprit verrouillé ; des flammes orange, puis une femme aux yeux bandés, deux épées croisées, devant la mer, sous un croissant de lune.
 
-Une phrase à essayer : « Vous décidez vite partout dans votre vie, sauf sur un sujet, et sur celui-là, c’est vous qui avez noué le bandeau. »
+Le roi qui tranche, la femme qui ne tranche pas : « Vous décidez vite partout dans votre vie, sauf sur un sujet, et sur celui-là, c’est vous qui avez noué le bandeau. »
 
-Puis vous vérifiez : « Y a-t-il une décision que vous laissez en suspens ? » Si la personne acquiesce, laissez-la la nommer ou non ; vous n’avez pas besoin de savoir. Si rien ne sonne juste, c’est un raté, et il compte comme tel.
+La vérification, ensuite : « Est-ce qu’une décision attend, quelque part, que vous la preniez ? » Si la personne acquiesce, laissez-la la nommer ou non ; vous n’avez pas besoin de savoir. Si aucune décision ne traîne, la phrase rejoint les ratés du carnet, sans discussion.

@@ -11,7 +11,7 @@ imageAlt: "Deux mains tenant un gobelet de café dans une salle d’attente, un 
 imagePrompt: "Two hands holding a paper cup of coffee in a quiet waiting room, a coat folded on the empty chair beside them, seen from the side. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Un tarologue prudent ne lit pas les questions de santé, de grossesse et de décès, parce qu’une carte ne voit pas l’intérieur d’un corps, parce qu’un tirage ne peut pas promettre quand, et parce qu’une phrase dite sur ces sujets peut rester des années dans la tête de quelqu’un. On pose ces questions par peur et par amour, et cela mérite de la douceur, pas une porte fermée. Ce qu’un tirage peut porter, c’est l’attente : comment vous la vivez, qui est avec vous, ce dont vous avez besoin cette semaine. Pour le reste, un médecin, une sage-femme, une équipe de soins palliatifs ou un psychologue répondent mieux qu’un jeu de cartes."
 ---
-Je ne lis pas sur la santé, la grossesse ni les décès. On m’apporte ces questions parce qu’on a peur, ou parce qu’on aime quelqu’un, et les deux méritent de l’attention. Ce n’est donc pas une porte fermée. C’est une explication : pourquoi les cartes ne sont pas le bon outil ici, ce qu’elles peuvent porter à la place, et comment être là pour quelqu’un qui vous pose la question.
+La santé, la grossesse, les décès : sur ces trois terrains, mes cartes restent dans leur boîte. On m’apporte ces questions parce qu’on a peur, ou parce qu’on aime quelqu’un, et les deux méritent de l’attention. Ce n’est donc pas une porte fermée. C’est une explication : en quoi un jeu de tarot ne convient pas à ces questions, ce qu’il peut porter à la place, et comment être là pour quelqu’un qui vous pose la question.
 
 ## Pourquoi on apporte ces questions aux cartes {#pourquoi-on-demande}
 
@@ -43,7 +43,7 @@ Un tirage ne peut pas porter le résultat. Il peut vous porter, vous, pendant qu
 
 L’attente a une forme. Il y a le pire qu’on se repasse à trois heures du matin. Il y a le fait d’être fort pour tout le monde et de ne savoir où mettre sa propre peur. Il y a tout ce qu’on a mis entre parenthèses, et parfois la culpabilité de désirer encore des choses ordinaires. Une image peut aider à regarder tout ça.
 
-La question passe alors de « qu’est-ce qui va arriver ? » à « comment est-ce que je porte ça ? » Ou encore : « De quoi ai-je besoin cette semaine ? » « Qui pourrait être là avec moi ? » « Qu’est-ce que j’ai arrêté de faire pour moi ? » Si l’inquiétude porte sur une grossesse, je vais plus loin dans [tarot et grossesse](/fr/blog/tarot-et-grossesse/) ; après un décès, dans [ce que les cartes peuvent porter dans le deuil](/fr/blog/tarot-et-deuil/).
+La question passe alors de « qu’est-ce qui va arriver ? » à « comment est-ce que je porte ça ? » Ou encore : « De quoi ai-je besoin cette semaine ? » « Qui pourrait être là avec moi ? » « Qu’est-ce que j’ai arrêté de faire pour moi ? » Si l’inquiétude porte sur une grossesse, je vais plus loin dans [tarot et grossesse](/fr/blog/tarot-et-grossesse/) ; après un décès, dans [la place du tarot quand on a perdu quelqu’un](/fr/blog/tarot-et-deuil/).
 
 ## Qui peut répondre à ce que les cartes ne peuvent pas {#qui-consulter}
 

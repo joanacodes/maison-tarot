@@ -9,7 +9,7 @@ tags: ["atelier tarot", "apprendre le tarot", "cours de tarot", "tarot débutant
 image: "covers/first-ten-minutes-tarot-workshop.jpg"
 imageAlt: "Des personnes assises le long d’une grande table en bois, chacune avec une carte de tarot retournée devant elle"
 imagePrompt: "People seen from above seated along a long wooden table, each with a single tarot card face up in front of them and their hands resting on the wood. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Dans un atelier Maison Tarot, vous tirez une carte dans les dix premières minutes, avant la moindre explication. Pas de significations à apprendre, pas de théorie d’abord : vous regardez la carte et vous dites ce qu’il y a dessus, ce que vous y voyez et ce qui vous vient. Je procède ainsi parce que ce qu’on ressent à ce moment-là, je peux le décrire mais pas vous le transmettre, et parce qu’une explication donnée d’abord devient une leçon qu’on récite. La clé de lecture du jour — couleurs, nombres, ou éléments et énergies — vient ensuite, et elle se pose sur quelque chose que vous avez déjà remarqué vous-même."
+summary: "Dans un atelier Maison Tarot, les dix premières minutes servent à tirer une carte et à la lire, avant la moindre explication. Pas de significations à apprendre, pas de théorie d’abord : vous regardez la carte et vous dites ce que montre le dessin, ce qui vous frappe, puis ce qui vous vient. Je procède ainsi parce que ce qu’on ressent à ce moment-là, je peux le décrire mais pas vous le transmettre, et parce qu’une explication donnée d’abord devient une leçon qu’on récite. La clé de lecture du jour — couleurs, nombres, ou éléments et énergies — vient ensuite, et elle se pose sur quelque chose que vous avez déjà remarqué vous-même."
 ---
 Un atelier Maison Tarot ne commence pas par un exposé, mais par une carte entre vos mains. Dans les dix premières minutes, vous en tirez une, vous la regardez, et vous en dites quelque chose — avant que j’aie expliqué quoi que ce soit. L’explication vient après, et elle n’en porte que mieux.
 
@@ -53,10 +53,10 @@ L’atelier se termine comme il a commencé, par une carte. À la fin, chacun li
 
 Un atelier dure trois heures, en ligne ou en personne, à douze personnes au plus — assez peu pour que tout le monde lise. Chacun tient seul : pas de niveaux, pas de certificat, pas d’ordre imposé. On commence en général par les couleurs, parce que c’est la clé de lecture qui se voit le plus vite.
 
-Il vous faut un jeu Rider-Waite-Smith ; si vous n’en avez pas, dites-le à la réservation. Ce que vous ne ferez pas : apprendre 78 significations par cœur, purifier votre jeu à la sauge, ou apprendre à vendre des tirages.
+Venez avec un Rider-Waite-Smith, ou prévenez en réservant s’il vous en faut un. En revanche, on n’y apprend ni 78 significations par cœur, ni à purifier ses cartes à la sauge, ni à vendre des tirages.
 
 ## Essayez les dix minutes ce soir {#essayer-ce-soir}
 
-Si vous voulez goûter à ces dix minutes chez vous, tirez une carte ce soir et faites les trois temps à voix haute : ce qu’il y a dessus, ce que vous y voyez, ce que vous recevez. [Comment lire le tarot quand on débute](/fr/blog/apprendre-a-lire-le-tarot-debutant/) vous donne la phrase à vous dire avant de commencer. Et si vous préférez regarder avant d’essayer, les [événements gratuits](/fr/evenements/) sont l’endroit où les tirages se font devant du monde.
+Si vous voulez goûter à ces dix minutes chez vous, tirez une carte ce soir et suivez à voix haute les trois temps décrits plus haut. [Comment lire le tarot quand on débute](/fr/blog/apprendre-a-lire-le-tarot-debutant/) vous donne la phrase à vous dire avant de commencer. Et si vous préférez regarder avant d’essayer, rejoignez un [événement gratuit](/fr/evenements/) : on y tire les cartes devant du monde.
 
 Quand vous aurez envie des trois heures complètes, les dates et les formats sont sur la [page des ateliers](/fr/ateliers/). Venez avec un jeu et votre curiosité ; c’est en forgeant qu’on devient forgeron.

@@ -54,7 +54,7 @@ The eye goes straight to card 10. Many books call it the outcome, so everyone re
 
 And contradictions. Ten cards almost always hold a hopeful one and a heavy one. Beginners try to make them agree, when the tension between them is often the reading itself.
 
-There’s a fifth trap for anyone who reads for others. If you know the question before you lay the cards, ten cards give you ten ways to confirm it. With the silence rule — the person tells me nothing first — card 1 becomes a test: it describes their situation or it doesn’t. By my count about one reading in ten misses, and a big spread doesn’t change that. It only gives you more cards to hide behind.
+There’s a fifth trap for anyone who reads for others. If you know the question before you lay the cards, ten cards give you ten ways to confirm it. With the silence rule — nothing said to me before the cards are down — card 1 becomes a test: it describes their situation or it doesn’t. My misses run at roughly one in ten, and a big spread doesn’t change that. It only gives you more cards to hide behind.
 
 ## A lighter way in {#lighter-way}
 
@@ -80,11 +80,11 @@ Then the column, from the bottom up: the Two of Swords, the Three of Cups, the N
 
 Lenses first. One major arcanum out of ten, the [Star](/library/tarot-cards/the-star/), so this is a life-sized situation, in the person’s own hands. Cups are the strongest suit, three of the nine minors: it’s about what they feel, first of all. The colours: the night sky of the Eight of Cups and the black wall of the Nine of Swords; the grey of the Two of Swords; then the green leaves of the Ace of Wands in the last place. The dark sits at the heart and in the fears. The green is where it’s heading.
 
-The cross. A figure in a red cloak walks away by night from eight stacked cups — in my notes, moving on from what you’re already doing — while across it a crowned man hugs a coin to his chest. An 8 crossed by a 4, Water crossed by Earth: leaving, and holding on to the security that was built.
+The cross. A figure in a red cloak walks away by night from eight stacked cups — for me, the card of leaving behind what you’re in the middle of — while across it a crowned man hugs a coin to his chest. An 8 crossed by a 4, Water crossed by Earth: leaving, and holding on to the security that was built.
 
-The circle. Above, the Star: a woman pouring water from two jugs under a large yellow star — hope, renewal. Below, the Six of Cups: children and white flowers, something loved long ago. Behind, the Five of Wands: the noise and the quarrels, passing. Ahead, the Page of Pentacles: a young man in a field studying one coin — learning, starting small.
+The circle. Above, the Star: a woman pouring water from two jugs under a large yellow star — hope, renewal. Below, the Six of Cups: children and white flowers, something loved long ago. Behind, the Five of Wands: the noise and the quarrels, passing. Ahead, the Page of Pentacles, gazing at the single coin he holds up — learning, starting small.
 
-The column. You: the Two of Swords, a woman blindfolded with two swords crossed over her chest, almost everything grey — undecided, and not quite looking. Around you: the Three of Cups, three women raising their cups — friends who’d celebrate with you. Hopes and fears: the Nine of Swords, someone sitting up in bed at night, face in hands — the 3 a.m. version of all this, which my notes also read as coming out of a long troubled stretch. Where it’s heading: the Ace of Wands, a hand from a cloud holding a sprouting wand — Fire, number 1, a new spark.
+The column. You: the Two of Swords, a woman blindfolded with two swords crossed over her chest, almost everything grey — undecided, and not quite looking. Around you: the Three of Cups, three women raising their cups — friends who’d celebrate with you. Hopes and fears: the Nine of Swords, someone sitting up in bed at night, face in hands — the 3 a.m. version of all this, which my notes also read as coming out of a long troubled stretch. Where it’s heading: the Ace of Wands, its green-leaved wand held out from the clouds — Fire, number 1, a new spark.
 
 Three sentences, out loud:
 
@@ -96,6 +96,6 @@ Then the silence rule pays off: the person says nothing until I’ve finished, t
 
 Card 10 gets read last, and lightly. It’s a direction, not a prophecy: where things go if the person carries on as they are. If they don’t like it, the nine cards before it usually show where the course can change.
 
-Tarot isn’t an authority; act on what you feel, not on the card in tenth place. And a big spread doesn’t open the door to the subjects I don’t read on — health, death, pregnancy, court cases, money decisions, people who aren’t in the room. The reasons are on [the refusals page](/disclaimers/#refusals), and they hold for ten cards as much as for one.
+Tarot isn’t an authority: your own sense of things comes before the card in tenth place. And a big spread doesn’t open the door to what I leave aside: your health or anyone’s, death, pregnancy, an ongoing trial, a money decision, a person who hasn’t agreed to be read. [My refusals page](/disclaimers/#refusals) explains why, and the reasons hold for ten cards as much as for one.
 
 If you’d like to lay your first Celtic Cross with someone beside you, a [workshop](/workshops/) gives you three hours, twelve people and plenty of cards on the table.

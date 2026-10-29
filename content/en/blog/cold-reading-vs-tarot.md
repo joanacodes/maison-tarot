@@ -61,7 +61,7 @@ Six questions to ask yourself on the way home:
 3. Would the statements fit your neighbour? If yes, they don’t count.
 4. Did anything specific come up that you hadn’t hinted at by word or face?
 5. What happened to the misses: named as misses, or reshaped until they fitted?
-6. Did it end with a sales hook — a curse to lift, an extended reading, a “come back next week”? That last one has its own list in [how to spot a fake tarot reader](/blog/how-to-spot-a-fake-tarot-reader/).
+6. Did it end with a sales hook — a curse to lift, an extended reading, a “come back next week”? Hooks like these come up again in [my checklist for spotting a fake reader](/blog/how-to-spot-a-fake-tarot-reader/).
 
 If the reader asked a lot, guessed broadly, and turned every miss into a hit, you probably had a cold reading, sincere or not. That doesn’t mean you wasted your time; a good listener can still help. It means the cards weren’t what did the work.
 
@@ -72,8 +72,8 @@ Nobody stops noticing things on command, and I’m no exception. What I can do i
 - *Observation*: online, I often have only a pseudonym and a voice: no face, no ring, no clothes to read.
 - *Fishing*: I ask nothing before or during the reading. The person tells me nothing, and only speaks once I’ve finished.
 - *Following reactions*: I ask people to keep a poker face, and we compare at the end.
-- *Recasting misses*: about one reading in ten misses, by my own count. When one does, I say so, I write it down, and I don’t draw a card to rescue it.
-- *Hot reading*: at my events, the people read are drawn at random on the day, so there’s no one to look up beforehand.
+- *Recasting misses*: my notebook says roughly one reading in ten goes wrong. When one does, I name it as a miss, log it, and don’t let another card patch it up.
+- *Hot reading*: at my events, who gets read is decided by lot on the day, so there’s no one to look up beforehand.
 
 The honest limit: silence doesn’t switch off every cue. A voice, a face on a video call, a hesitation still carry information, and I can’t promise I never use them. What the silence does is make the rest checkable. I explain the full set-up on the [method page](/method/).
 

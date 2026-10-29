@@ -42,17 +42,17 @@ Say someone turns thirty-five, tells the cards nothing, and draws the Ten of Wan
 
 {{< cards "wa10 pe08 waac pe09" >}}
 
-*The year I’m closing:* the Ten of Wands, a man bent under ten heavy wands, walking towards a town. Ten is the corridor between two rooms, [the end of one cycle and the door to the next](/library/numerology/number-10/). In my notes this card says: keep the creative energy, without overloading. A year of carrying too much, perhaps, and getting there anyway.
+*The year I’m closing:* the Ten of Wands, a man hauling an armful of ten wands towards a town. Ten is the corridor you cross between two rooms, [the end of one cycle and the door to the next](/library/numerology/number-10/). In my notes this card says: keep the creative energy, without overloading. A year of carrying too much, perhaps, and getting there anyway.
 
-*What I’m taking with me:* the Eight of Pentacles, a craftsman at his bench, carving one coin after another. Eight is mastery, the necessary effort that turns into skill. Whatever the heavy year cost, it taught you how to do something well.
+*What I’m taking with me:* the Eight of Pentacles, hammer and chisel in hand, the finished coins hung on a post beside him. Eight is mastery, the necessary effort that turns into skill. Whatever the heavy year cost, it taught you how to do something well.
 
-*The theme of the year ahead:* the Ace of Wands, a hand coming out of a cloud, holding a wand with fresh leaves on it, a castle on a hill in the distance. One is the start of a cycle, the raw diamond. Wands are Fire: creation, impulse, the energy that gets you going. And the advice of 1, in my notes, is humility: get ready to learn.
+*The theme of the year ahead:* the Ace of Wands, one budding wand offered from a cloud, a castle on a distant hill. One is the start of a cycle, the raw diamond. Wands are Fire: creation, impulse, the energy that gets you going. And the advice of 1, in my notes, is humility: get ready to learn.
 
 Look at the two numbers on either side of the gap: 10, then 1. The cycle turns over, exactly as a birthday does.
 
-*A gift to give myself:* the Nine of Pentacles, a woman alone in a garden heavy with grapes, a bird resting on her gloved hand. Enjoying what comes, gratitude for what you have. The gift is to stop and enjoy what you’ve built before you start building the next thing.
+*A gift to give myself:* the Nine of Pentacles, where a woman stands among ripe grapes, a hooded bird perched on her glove. Enjoying what comes, gratitude for what you have. The gift is to stop and enjoy what you’ve built before you start building the next thing.
 
-The sentence out loud might be: “You carried a lot this year and learned your craft doing it. Something new wants to start — go in as a beginner, and take time to enjoy what you already have.” Then ask whether it lands, and write down the answer, hit or miss.
+For someone turning thirty-five, the four cards might come out as: “You carried a lot this year and learned your craft doing it. Something new wants to start — go in as a beginner, and take time to enjoy what you already have.” They tell you whether that matches their year, and you write their answer down, hit or miss.
 
 ## What a birthday reading can’t tell you {#limits}
 

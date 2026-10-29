@@ -25,7 +25,7 @@ Imaginons que vous tiriez une carte pour une amie et que le mot « escalier » v
 
 ## Pourquoi rien ne vient {#pourquoi-rien-ne-vient}
 
-Mes notes donnent deux raisons habituelles, et aucune des deux n’est « vous n’avez pas le don ». Il n’y en a pas — ou plutôt, tout le monde a le même.
+Mes notes donnent deux raisons habituelles, et aucune des deux n’est « vous n’avez pas le don ». Ce don-là n’existe pas, à moins de dire que nous l’avons tous.
 
 La première, c’est votre propre blocage : trop de pression. Vous voulez que ça marche, vous vous regardez faire, et la partie de vous qui reçoit se tait. La seconde, c’est celui de l’autre : quelqu’un qui a peur d’entendre quelque chose peut être assis en face de vous comme une porte fermée. Il faut alors parler avec la personne et la rassurer avant de continuer : rien sur la table n’est un verdict, et elle peut vous arrêter quand elle veut.
 
@@ -35,7 +35,7 @@ J’en ajouterais deux. La fatigue, parce qu’interpréter demande de l’éner
 
 Vous n’avez pas besoin de ressentir quoi que ce soit pour commencer. Vous avez besoin de regarder.
 
-Imaginons que vous tiriez le Neuf de Pentacles. Une femme se tient dans un jardin chargé de raisin, en robe jaune, un oiseau sur sa main gantée. Avant tout ressenti : le jaune, c’est la joie, l’optimisme. Le neuf, c’est la fin d’une étape, les derniers efforts avant la ligne d’arrivée. Les Pentacles, c’est la Terre : ce qui a de la valeur pour vous, le fruit du travail. Mes notes sur cette carte disent : profiter de ce qui vient, et la gratitude pour tout ce qu’on a.
+Imaginons que vous tiriez le Neuf de Pentacles : dans un jardin chargé de raisin, une femme en robe jaune, un oiseau perché sur son gant. Avant tout ressenti : le jaune, c’est la joie, l’optimisme. Le neuf, c’est la fin d’une étape, les derniers efforts avant la ligne d’arrivée. Les Pentacles, c’est la Terre : les biens qui vous sont chers, le fruit du travail. Mes notes sur cette carte parlent de savourer ce qui arrive, et d’être reconnaissant de ce qu’on possède.
 
 {{< cards "pe09" >}}
 
@@ -47,7 +47,7 @@ Puis dites la phrase que je donne à chaque débutant : *je vais dire n’import
 
 On ne s’entraîne pas à ressentir sur commande. On s’entraîne à lâcher prise, et d’après mon expérience, c’est le seul entraînement qui existe.
 
-- Tirez une carte par jour. Décrivez ce qu’il y a dessus, ce que vous voyez, ce que vous recevez. Puis trois cartes, puis davantage.
+- Tirez une carte par jour. Commencez par dire ce qui est représenté, puis l’effet que ça vous fait. Puis trois cartes, puis davantage.
 - Faites quelque chose de méditatif : [rester assis quelques minutes sans rien faire](/fr/blog/commencer-la-meditation/), peindre, ou regarder un tableau au musée comme vous regarderiez une carte.
 - Notez les petites choses — le mot égaré, l’image bizarre — même quand elles ne ressemblent à rien. Vérifiez plus tard si elles voulaient dire quelque chose. C’est aussi comme ça qu’on apprend à distinguer [lire et inventer](/fr/blog/est-ce-que-jinvente-tarot/).
 
@@ -57,6 +57,6 @@ On ne s’entraîne pas à ressentir sur commande. On s’entraîne à lâcher p
 
 Certains jours, rien ne vient, et c’est une information aussi. Fatigué, inquiet, distrait : posez les cartes et reposez-vous. Ce n’est pas [votre jeu qui est fatigué](/fr/blog/cartes-tarot-fatiguees/) ; c’est vous, et c’est permis.
 
-Je ne peux pas vous promettre que vous ressentirez ce que je ressens. Les impressions viennent différemment à chacun, et rien de tout ça n’est prouvé ; c’est mon expérience, plus une chose que je peux compter : toutes les personnes que j’ai aidées à lire y sont arrivées entre le premier et le troisième essai. Le ressenti que vous attendez n’est pas le ticket d’entrée. Dire ce que vous voyez, si.
+Je ne peux pas vous promettre que vous ressentirez ce que je ressens. Les impressions viennent différemment à chacun, et rien de tout ça n’est prouvé ; c’est mon expérience, plus une chose que je peux compter : chez tous ceux que j’ai accompagnés, ça a marché en trois essais ou moins. Le ressenti que vous attendez n’est pas le ticket d’entrée. Dire ce que vous voyez, si.
 
 C’est pour ça qu’un [atelier à la Maison Tarot](/fr/ateliers/) commence par une carte posée devant vous, avant toute explication.

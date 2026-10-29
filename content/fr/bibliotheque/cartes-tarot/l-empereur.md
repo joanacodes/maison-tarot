@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: Hé
 image: cards/ar04.webp
 h1: L’Empereur — <em>4</em>, le Feu
-lede: 'Avant de chercher ce que « signifie » L’Empereur, regardez ce que vous avez
-  déjà : 4, l’élément Feu, Bélier. Vous lisez la carte. Le nombre dit 4 — quatre —
-  les fondations, la stabilité ; l’élément dit l’élan, ce qu’on lance. Posez les deux
-  l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
-  de la page vous montre comment.'
+lede: 'Sur son trône taillé dans la pierre et orné de béliers, un vieil homme en robe rouge cache une armure ; derrière lui, des montagnes nues. Les règles que vous avez posées protègent-elles encore, ou enferment-elles ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -53,7 +49,7 @@ Ce qui manque : toute forme de douceur. Pas de plante, personne d’autre, aucun
 
 Le [chiffre 4](/fr/bibliotheque/numerologie/chiffre-4/), c’est le 2 exalté : l’alliance devenue structure, le fruit du travail, quelque chose qui tient. Regardez le trône : un bloc de pierre, carré, d’aplomb. L’Empereur, c’est un 4 assis sur un 4.
 
-Dans l’histoire d’Instagram de mes pages de numérologie, le 4, c’est le grand succès arrivé vite : une forme, une équipe, des habitudes — et le moment où une entreprise commence à croire qu’elle n’aura plus jamais à changer. D’où le conseil du 4 : rester souple, rester ouvert à ce qu’on n’avait pas prévu. Son revers : continuer quand il faudrait s’arrêter, par pur entêtement.
+Quand Instagram connaît son grand succès, très vite, il se dote d’une équipe et de routines : c’est le moment où une entreprise commence à croire qu’elle n’aura plus jamais à changer. D’où le conseil du 4 : rester souple, rester ouvert à ce qu’on n’avait pas prévu. Son revers : ne plus savoir s’arrêter, par pur entêtement.
 
 ## Par l’élément : Feu {#element}
 
@@ -63,11 +59,11 @@ Un 4 de Feu, c’est le feu dans l’âtre : contenu, utile, qui chauffe la mais
 
 ## Par les couleurs {#couleurs}
 
-Le rouge et l’orange dominent : la robe, le ciel, les montagnes. Dans [ma grille des couleurs](/fr/bibliotheque/couleurs-tarot/rouge/), le rouge, c’est la passion, l’action, la force, l’élan — l’énergie masculine, un corps qui agit. Celui de l’Empereur est un rouge profond, mûr ; dans ma grille, cette nuance tire vers le violet, la couleur de celui qu’un groupe a désigné pour le diriger. Le gris du trône : la stabilité, la matière qui ne bouge pas. L’or de la couronne et du globe : un pouvoir gagné, ou pris.
+Le rouge et l’orange dominent : la robe, le ciel, les montagnes. Ce [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) porte la passion et l’action, la force, l’élan : l’énergie masculine, un corps qui agit. Celui de l’Empereur est un rouge profond, mûr ; dans ma grille, cette nuance tire vers le violet, la couleur de celui qu’un groupe a désigné pour le diriger. Le gris du trône : la stabilité, la matière qui ne bouge pas. L’or de la couronne et du globe : un pouvoir gagné, ou pris.
 
 ## Par l’astrologie : Bélier {#astrologie}
 
-Dans la tradition Golden Dawn, l’Empereur correspond au [Bélier](/fr/bibliotheque/astrologie/belier/), premier signe du zodiaque : « je suis », gouverné par Mars, cardinal — le signe qui fonce. Les têtes de bélier sur le trône en sont la signature. Le Bélier ajoute ce que la pierre cache : l’impatience, l’envie de lancer et de commander. C’est le maçon qui pose la première pierre sans lire le plan, et l’Empereur, c’est ce maçon une fois qu’il a un royaume.
+La Golden Dawn donne à l’Empereur le [Bélier](/fr/bibliotheque/astrologie/belier/), premier signe du zodiaque : « je suis », gouverné par Mars, cardinal — le signe qui fonce. Les têtes de bélier sur le trône en sont la signature. Le Bélier ajoute ce que la pierre cache : l’impatience, l’envie de lancer et de commander. C’est le maçon qui pose la première pierre sans lire le plan, et l’Empereur, c’est ce maçon une fois qu’il a un royaume.
 
 ## En lecture {#lecture}
 
@@ -99,6 +95,6 @@ Inventons un tirage : l’Empereur, puis le [Huit d’Épées](/fr/bibliotheque/
 
 4 puis 8 : une structure, puis le 4 exalté, le contrôle poussé à sa limite. Le Feu puis l’Air : une volonté, puis des pensées qui tournent en rond. Le rouge et l’orange de l’Empereur disent la volonté et la chaleur ; à côté d’une silhouette qui ne voit rien, cette chaleur ne sait pas où aller.
 
-Ce que je dirais à voix haute : « Vous avez construit des règles pour vous protéger, et maintenant ce sont des murs que vous ne voyez plus. »
+Devant la personne, je risquerais : « Vous avez construit des règles pour vous protéger, et maintenant ce sont des murs que vous ne voyez plus. »
 
-Puis je vérifierais : y a-t-il une de vos règles — au travail, à la maison — que vous laisseriez tomber demain si personne ne regardait ? Ma note pour le Huit d’Épées, c’est être prisonnier de soi-même alors qu’on a tous les outils : le bandeau peut s’enlever. Si la réponse est non, le raté va dans mon carnet.
+Je demanderais ensuite : y a-t-il une de vos règles — au travail, à la maison — que vous laisseriez tomber demain si personne ne regardait ? Dans mes notes, la captive du Huit d’Épées s’enferme elle-même, outils à portée de main, et rien ne l’empêche d’ôter le bandeau. Si la personne n’en trouve aucune, c’est moi qui me suis trompée de mur, et je l’écris.

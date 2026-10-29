@@ -14,8 +14,8 @@ related:
 - /library/four-elements/air
 - /library/feminine-masculine-energies
 notClaim:
-- Element–suit correspondences are those of the Rider-Waite-Smith tradition.
-- An element tells you what the card is about, not what will happen.
+- Fire goes with the Wands in the Rider-Waite-Smith; a few schools give the Wands to Air instead.
+- Fire says what a Wands card is about — drive, creation, speed — not how things will turn out.
 categories:
 - Elements
 tags:
@@ -55,7 +55,7 @@ The Wands are about what grows, what you launch, what you want — and what you 
 
 ## The important part: speed
 
-Where [Water](/library/four-elements/water-element/) damages slowly and silently, Fire does instant, visible damage. Neither is better or worse: it’s a different timescale. When you draw a lot of Wands, look at the speed of the situation. Something is starting, or something is going up in smoke — either way, it’s fast.
+Where [Water](/library/four-elements/water-element/) damages slowly and silently, Fire does instant, visible damage. Neither is better or worse: it’s a different timescale. If Wands crowd the spread, look at the speed of the situation. Something is starting, or something is going up in smoke — either way, it’s fast.
 
 ## Keywords
 
@@ -63,11 +63,11 @@ Creation · destruction · impulse · drive.
 
 ## The archetype
 
-The teenager full of life who thinks they can do anything — and who sometimes gives in to their destructive impulses. You love them for it, and you worry for it.
+An adolescent bursting with energy, sure there’s nothing they can’t pull off — and now and then carried away by an urge to destroy. You love them for it, and you worry for it.
 
 ## A reading, as an example
 
-The Ace of Wands, for someone who has told you nothing. *Ace*: the beginning, the rough diamond ([numbers](/library/numerology/)). *Fire*: drive, creation. An idea that just arrived, an urge that’s pushing, and the advice that comes with it: stay humble, stay a student — this is the start, not the result.
+Picture the Ace of Wands, drawn for a stranger who has kept their story to themselves. *Ace*: the beginning, the rough diamond ([numbers](/library/numerology/)). *Fire*: drive, creation. An idea that just arrived, an urge that’s pushing, and the advice that comes with it: stay humble, stay a student — this is the start, not the result.
 
 {{< cards "waac" >}}
 

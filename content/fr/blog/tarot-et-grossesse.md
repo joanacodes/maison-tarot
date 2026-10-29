@@ -9,7 +9,7 @@ tags: ["tarot et grossesse", "tirage grossesse", "tarot fertilité", "éthique d
 image: "covers/tarot-cards-pregnancy.jpg"
 imageAlt: "Deux mains autour d’une tasse de thé sur une table de cuisine, un jeu de cartes fermé repoussé tout au bord"
 imagePrompt: "Two hands wrapped around a mug of tea at a kitchen table near a window, a closed deck of cards pushed to the far edge of the table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Je ne tire pas les cartes sur une grossesse ou la fertilité : ni « est-ce que », ni « quand », ni « fille ou garçon ». La question est profondément humaine, mais une carte ne voit pas un corps, un tirage ne peut pas donner un mois, et une erreur ici coûte des mois d’espoir ou de chagrin pour rien. Ce qu’un tirage peut porter, c’est l’attente elle-même : comment vous tenez, ce dont vous avez besoin, ce que vous pourriez partager. Pour votre corps, un test, un médecin, une sage-femme ou un centre de PMA répondent bien mieux ; pour l’inquiétude, un psychologue."
+summary: "Je ne tire pas les cartes sur une grossesse ou la fertilité : ni « est-ce que », ni « quand », ni « fille ou garçon ». La question est profondément humaine, mais une carte ne voit pas un corps, un tirage ne peut pas donner un mois, et une erreur ici coûte des mois d’espoir ou de chagrin pour rien. Ce qu’un tirage peut porter, c’est l’attente elle-même : comment vous tenez, vos besoins du moment, ce que vous pourriez partager. Pour votre corps, un test, un médecin, une sage-femme ou un centre de PMA répondent bien mieux ; pour l’inquiétude, un psychologue."
 ---
 Je ne tire pas les cartes sur une grossesse ou la fertilité — ni « est-ce que », ni « quand », ni « fille ou garçon ». Ce n’est pas que la question soit mauvaise : c’est l’une des plus humaines qui soient. C’est qu’une carte ne peut pas la porter sans risque, et qu’il y a autre chose que j’aimerais bien mieux regarder avec vous.
 
@@ -23,11 +23,11 @@ L’attente est dure d’une façon bien particulière : rien de ce que vous fai
 
 ## Pourquoi les cartes ne sont pas le bon outil pour cette question {#pourquoi-pas}
 
-À mon propre décompte, environ un tirage sur dix rate. Sur la plupart des sujets, un raté coûte une soirée de doute et une ligne dans mon carnet. Ici, un « oui » erroné peut coûter des mois d’espoir, et un « non » erroné un chagrin qui n’avait pas lieu d’être. C’est trop lourd pour une carte.
+Je le sais par mes chiffres : un tirage sur dix, en gros, ne tient pas. Sur la plupart des sujets, un raté coûte une soirée de doute et une ligne dans mon carnet. Ici, un « oui » erroné peut coûter des mois d’espoir, et un « non » erroné un chagrin qui n’avait pas lieu d’être. C’est trop lourd pour une carte.
 
 « Quand vais-je tomber enceinte ? » est aussi une question de timing à l’état pur, et [le timing, c’est là que je me trompe le plus](/fr/blog/tarot-quand/). Un tirage peut décrire une humeur ou un mouvement ; il ne peut pas vous donner un mois.
 
-Et une carte ne voit pas un corps. Les cartes parlent en images, et une image de croissance, de jardin ou de famille peut décrire un projet, un foyer, un nouveau départ avec soi-même. Y lire une grossesse, c’est la projection du tarologue. Vous trouverez en ligne des listes de cartes censées en annoncer une ; je n’en tiens pas, pour la même raison. Un test, une échographie et un médecin voient ce qu’un jeu ne voit pas. J’explique le raisonnement d’ensemble — santé, grossesse et décès — dans [pourquoi un tarologue prudent ne lit pas ces questions](/fr/blog/sante-grossesse-deces-tarot/).
+Et une carte ne voit pas un corps. Les cartes parlent en images, et une image de croissance, de jardin ou de famille peut décrire un projet, un foyer, un nouveau départ avec soi-même. Y lire une grossesse, c’est la projection du tarologue. Vous trouverez en ligne des listes de cartes censées en annoncer une ; je n’en tiens pas, pour la même raison. Un test, une échographie et un médecin voient ce qu’un jeu ne voit pas. Le raisonnement d’ensemble, qui vaut aussi pour la maladie et le deuil, est détaillé dans [ma page sur ces trois questions sensibles](/fr/blog/sante-grossesse-deces-tarot/).
 
 ## Ce qu’un tirage peut porter à la place {#ce-que-le-tirage-peut-porter}
 

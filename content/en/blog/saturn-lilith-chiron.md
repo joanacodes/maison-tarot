@@ -9,7 +9,7 @@ tags: ["Saturn in astrology", "Black Moon Lilith", "Chiron in astrology", "birth
 image: "covers/saturn-lilith-chiron.jpg"
 imageAlt: "Three tarot cards face down in a row beside a printed birth chart with three placements circled in pencil"
 imagePrompt: "Three tarot cards lying face down in a row beside a printed birth chart with three small pencil circles on a wooden desk. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "When I tested my birth chart placement by placement, tick or cross, most of it held 30 to 40% of the time. Saturn, Lilith and Chiron held 75 to 90%, for me and for the people I tested afterwards. Saturn is the hardest lesson: where you’re limited and slowly become solid. Lilith, a calculated point on the Moon’s orbit, is what you learned to hide. Chiron, a small body between Saturn and Uranus, is the wound you keep circling and end up helping others with. All three describe a difficulty, which may be why they ring so true."
+summary: "When I tested my birth chart placement by placement, tick or cross, most of it held 30 to 40% of the time. Saturn, Lilith and Chiron came in far higher, at 75 to 90%, for me and for the people I tested afterwards. Saturn is the hardest lesson: where you’re limited and slowly become solid. Lilith, a calculated point on the Moon’s orbit, is what you learned to hide. Chiron, a small body between Saturn and Uranus, is the wound you keep circling and end up helping others with. All three describe a difficulty, which may be why they ring so true."
 ---
 When I tested my birth chart box by box, most placements held 30 to 40% of the time. Three held far more often — 75 to 90%, for me and then for the people I tested: Saturn, Lilith and Chiron. All three describe a difficulty: the hardest lesson, the thing you learned to hide, the wound you keep circling.
 
@@ -21,7 +21,7 @@ Each has its own page in the Library. This one puts them side by side: what each
 
 I printed my chart and went down it like an invoice. Next to each placement — the planet, its sign, its house — I read a plain description and put a tick or a cross.
 
-A tick meant: this fits me in a way I couldn't have written about anyone else. A cross meant: vague, wrong, or true of my neighbour too. “You like to feel appreciated” gets a cross on principle, because everybody does. A flattering line that fits everyone counts as a miss.
+A tick meant: this could only have been written about me. A cross meant: vague, wrong, or true of my neighbour too. “You like to feel appreciated” gets a cross on principle, because everybody does. A flattering line that fits everyone counts as a miss.
 
 **A tick had to be specific enough that it couldn't belong to someone else.**
 
@@ -45,7 +45,7 @@ Say someone's Lilith sits in the seventh house, the house of partners. An astrol
 
 ## Chiron: the wound you circle {#chiron}
 
-Chiron is a small body between Saturn and Uranus, named after the centaur of Greek myth who healed others of a wound he couldn't heal in himself. In a chart it shows the wound you keep coming back to, and what you become able to help others with because of it. [Chiron's Library page](/library/astrology/chiron/) has the rest, including why I read it with the Hermit, who makes a lantern of his own night.
+Chiron is a small body between Saturn and Uranus, named after the centaur of Greek myth, a healer who could cure every wound but his own. In a chart it shows the wound you keep coming back to, and what you become able to help others with because of it. [Chiron's Library page](/library/astrology/chiron/) has the rest, including why I read it with the Hermit, who makes a lantern of his own night.
 
 Say someone's Chiron sits in the third house, the house of speech and siblings. An astrologer would read a wound around being heard — and, often, a person who grows into the friend everyone calls when they need to talk something through. The wound and the skill sit on the same spot.
 
@@ -53,7 +53,7 @@ Say someone's Chiron sits in the third house, the house of speech and siblings. 
 
 All three describe a difficulty, and people may know their difficulties better than their qualities. That's a hypothesis too. It's also a warning: a hard sentence can feel true because it's hard. I checked these three more than the rest, because I didn't want the result to be true.
 
-Same frame as always: a manual count, by me, on people I mostly knew. Not a study. A notebook.
+The usual caveat applies: I counted by hand, mostly on people I knew, and the tally sits in a notebook — it was never research.
 
 And these placements touch tender places. If reading your Chiron opens something heavier than a page can hold, that isn't a sign to read more. [Sometimes it's a therapist's door](/disclaimers/#therapy), and walking through it is the brave option, not the weak one.
 
@@ -64,7 +64,7 @@ Five steps and one printed page.
 1. Print your chart, with your birth date, time and place.
 2. Find Saturn, Lilith and Chiron: the sign, and the house if you know your birth time.
 3. Read one plain description of each. The three Library pages are a start.
-4. Tick or cross, as hard on the ticks as you'd be with a stranger.
+4. Tick or cross, judging your own ticks as strictly as you'd judge a stranger's.
 5. Do the same for your Sun, and compare.
 
 If yours hold the way mine did, you'll see why these three got their own pages. If they don't, I'd rather hear about your crosses than repeat my ticks.

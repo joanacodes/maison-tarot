@@ -25,12 +25,13 @@ related:
 - /bibliotheque/astrologie/venus
 faq:
 - q: Quelle carte de tarot correspond au Balance ?
-  a: La Justice, dans la tradition Golden Dawn reprise par le Rider-Waite-Smith. Quand
-    elle sort, le signe donne son verbe, son élément et son mode d’un coup.
-- q: 'Je suis Balance : est-ce que cette carte est « ma » carte ?'
-  a: C’est une entrée, pas une identité. La carte parle à n’importe qui de la même
-    chose ; votre signe vous aide seulement à la reconnaître plus vite. L’astrologie
-    n’est pas une excuse.
+  a: 'La Justice, qui siège entre deux piliers en tenant l’épée et la balance : le
+    symbole même du signe. C’est l’attribution de la Golden Dawn,
+    conservée en 1909, et elle donne une carte d’Air qui pèse avant de trancher.'
+- q: Quand on est Balance, la Justice est-elle sa carte ?
+  a: 'Quand elle sort, elle demande de trancher, et votre signe ne change pas la question.
+    Une Balance qui hésite y trouvera une invitation à décider, pas la confirmation
+    de son hésitation.'
 gallery:
 - src: "visuals/sign-libra/1.jpg"
   title: "La troisième main"
@@ -63,7 +64,7 @@ gallery:
 
 ## Ce que fait cette énergie {#energie}
 
-L’énergie de la Balance se veut juste et recherche l’équilibre à tout prix. Dans un conflit, elle tend à une impartialité totale : elle aimerait que chaque partie ait le même résultat, la même quantité de biens. C’est sa force et son piège : devant un vrai dilemme, celui où aucun plateau ne peut être égal, elle peut rester paralysée.
+L’énergie de la Balance se veut juste et recherche l’équilibre à tout prix. Dans un conflit, elle tend à une impartialité totale : elle aimerait que chaque partie ait le même résultat, la même quantité de biens. Tant qu’un partage égal existe, c’est une force. Quand toute décision lèse forcément quelqu’un, elle peut rester paralysée.
 
 ## Côtés favorables, côtés défavorables {#revers}
 
@@ -77,7 +78,7 @@ Le diplomate ; l’arbitre ; celui qui refait le partage jusqu’à ce que perso
 
 ## Sa carte : La Justice {#carte}
 
-Quand [la Justice](/fr/bibliotheque/cartes-tarot/la-justice/) sort, la Balance est là : une décision à prendre au juste, un compte à régler équitablement. Bien posé, c’est le jugement clair. Mal posé, c’est la balance qu’on regarde osciller sans jamais la lire.
+La balance que tient [la Justice](/fr/bibliotheque/cartes-tarot/la-justice/) est celle du signe : une décision à prendre au juste, un compte à régler équitablement. Le jugement peut être clair ; il arrive aussi qu’on regarde les plateaux osciller sans jamais les lire.
 
 {{< cards "ar11" >}}
 

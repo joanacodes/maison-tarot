@@ -19,7 +19,7 @@ Answer those on paper and you'll have a spread that fits your question better th
 
 Write it in one sentence. If it takes three sentences, you have three questions, and probably three readings.
 
-Then check that it's a question the cards can hold. The good ones are about your own life, in the present, with something you can act on. “What's getting in the way of finishing my portfolio?” works. “Will he leave her?” is harder: it's about someone who isn't in the room, and it asks the cards to decide something that isn't theirs to decide. Health, pregnancy, court cases and money decisions are subjects I don't read on either, because a wrong word there costs too much. I've gathered [kinder ways to ask the questions behind them](/blog/questions-to-avoid-asking-tarot/).
+Then check that it's a question the cards can hold. The good ones are about your own life, in the present, with something you can act on. “What's getting in the way of finishing my portfolio?” works. “Will he leave her?” is harder: it's about someone who isn't at your table, and it asks the cards to decide something that isn't theirs to decide. Health, pregnancy, court cases and money decisions stay outside my readings too: on those, a mistake is too expensive for the person asking. I've gathered [kinder ways to ask the questions behind them](/blog/questions-to-avoid-asking-tarot/).
 
 **A spread can only be as good as the question it's built around.**
 
@@ -33,7 +33,7 @@ Two rules keep positions kind and useful. Make each one about the person in fron
 
 ## Question 3: how many cards, and in what shape? {#shape}
 
-As few as the question needs. One card answers one thing. Three hold a situation with something stuck in it, which is why, after a few weeks of one card a day, I move people on to [three cards in the present](/blog/three-card-tarot-spread/). Five give room for a real crossroads. Beyond seven, most beginners stop reading and start listing.
+As few as the question needs. One card answers one thing. Three hold a situation with something stuck in it, which is why, after a few weeks of one card a day, I move people on to [three cards, all about now](/blog/three-card-tarot-spread/). Five give room for a real crossroads. Beyond seven, most beginners stop reading and start listing.
 
 Shape matters less than people think, but it does something. A row reads left to right, like a sentence. A cross puts one card at the centre and lets the others lean on it. A circle has no first card, which suits a question about something that keeps coming round.
 
@@ -55,15 +55,15 @@ The Page of Pentacles lands first, then the Seven of Cups, then the Eight of Pen
 
 {{< cards "pepa cu07 pe08" >}}
 
-What draws you: a Page, the student, in Earth — a young man in a green field holding up one coin and studying it. Learning something you can touch, for the pleasure of it. What's in the way: a Seven in Water, a dark figure facing seven cups, each holding a different dream. Too many choices, so none gets picked. What would help: an Eight in Earth, a craftsman at his bench making the same coin again and again. Fixed hours, repeated effort.
+What draws you: a Page, the student, in Earth — a youth in a green field, one coin raised to his eyes. Learning something you can touch, for the pleasure of it. What's in the way: a Seven in Water, a dark figure facing seven cups, each with its own fantasy inside. Too many choices, so none gets picked. What would help: an Eight in Earth, a craftsman at his bench making the same coin again and again. Fixed hours, repeated effort.
 
 As one sentence: “You want this for its own sake; what stops you is that it's one dream among many; choose it and give it set hours.” If you can't read the cards yet without a book, [the three-question cheat sheet](/blog/tarot-cheat-sheet/) — colour, number, element — is all I used here.
 
 ## Building a spread for someone who tells you nothing {#blind}
 
-When I read for someone, they don't tell me their question. That means I can't build the spread around it, so I use positions that fit any life: what's here, what's in the way, what you can do. The person keeps the question to themselves and checks at the end whether it got an answer. That's [the silence rule](/blog/the-silence-rule/), and it works for a home-made spread as well as a classic one.
+When I read for someone, they don't tell me their question. That means I can't build the spread around it, so I use positions that fit any life: the present situation, what blocks it, what's in your hands. The person keeps the question to themselves and checks at the end whether it got an answer. That's [the silence rule](/blog/the-silence-rule/), and it works for a home-made spread as well as a classic one.
 
-That's my way, not the only one. Some readers lay the same pattern for every career question; others invent a new layout for each person, and both can explain why — one reason I think of reading as [close to an art form](/blog/is-tarot-an-art-form/). Each spread captures a moment that won't come back, so build the one that fits it.
+That's my way, not the only one. Some readers lay the same pattern for every career question; others invent a new layout for each person, and both can explain why — one reason a spread, to me, has [something of an artwork about it](/blog/is-tarot-an-art-form/). Each spread captures a moment that won't come back, so build the one that fits it.
 
 ## Try it tonight {#try-it}
 

@@ -1,6 +1,6 @@
 ---
 title: 'La Justice (Justice) — tarot Rider-Waite-Smith : lire la carte par ses clés de lecture'
-description: 'La Justice au tarot : une décision prise les yeux ouverts, le 11, l’Air et la Balance. Ce que montre la carte de 1909, et comment la lire en tirage, même renversée.'
+description: 'La Justice au tarot : l’épée, la balance et des yeux sans bandeau, le 11, l’Air, la Balance. Peser puis trancher, et ce qui arrive quand la balance penche.'
 translationKey: card-ar11
 type: cards
 navTitle: La Justice
@@ -15,10 +15,7 @@ energy: Féminine
 kabbalah: Lamed
 image: cards/ar11.webp
 h1: La Justice — <em>11</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » La Justice, regardez ce que vous avez
-  déjà : 11, l’élément Air, Balance. Vous lisez la carte. Le nombre dit 11 — 1 + 1 = 2 — se lier, peser, coopérer ; l’élément dit le mental, ce qu’on décide. Posez les
-  deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
-  de la page vous montre comment.'
+lede: 'Une figure couronnée vous fixe entre deux piliers gris, l’épée droite dans une main, la balance dorée dans l’autre, et sans bandeau. Avez-vous fini de peser, ou repoussez-vous le moment de trancher ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-air
@@ -55,7 +52,7 @@ Dans l’histoire d’Instagram, le 2, c’est le moment où les fondateurs sign
 
 La Justice est une carte d’[Air](/fr/bibliotheque/quatre-elements/element-air/), et l’Air est l’élément des décisions : penser, analyser, communiquer, trancher net. L’épée qu’elle tient, c’est l’outil même de la série.
 
-L’Air voit tout en même temps, ce qui en fait le meilleur décideur des quatre : le Feu est trop impulsif, l’Eau trop émotive, la Terre trop têtue. Son risque, c’est le chef qui devient tyran — le jugement qui n’écoute plus.
+L’Air voit tout à la fois, d’où sa supériorité pour trancher : le Feu s’emballe, l’Eau déborde, la Terre s’entête. Son risque, c’est le chef qui devient tyran — le jugement qui n’écoute plus.
 
 ## Par les couleurs {#couleurs}
 
@@ -65,7 +62,7 @@ Avant même de connaître le nom de la carte, les couleurs vous ont tout dit : q
 
 ## Par l’astrologie : Balance {#astrologie}
 
-Dans la tradition Golden Dawn, la Justice correspond à la [Balance](/fr/bibliotheque/astrologie/balance/), dont le symbole est justement une balance. Son verbe est « J’équilibre » : le diplomate, l’arbitre, celui qui veut que chacun reparte avec la même part. C’est la force de la carte et son piège — devant un vrai dilemme, celui où aucun plateau ne peut être à niveau, la Balance peut se figer.
+La Golden Dawn fait correspondre la Justice à la [Balance](/fr/bibliotheque/astrologie/balance/), dont le symbole est justement une balance. Son verbe est « J’équilibre » : le diplomate, l’arbitre, celui qui veut que chacun reparte avec la même part. C’est la force de la carte et son piège — devant un vrai dilemme, celui où aucun plateau ne peut être à niveau, la Balance peut se figer.
 
 ## En lecture {#lecture}
 
@@ -79,12 +76,12 @@ Renversée, la balance penche. Une décision précipitée, ou jamais prise parce
 
 **La Justice pèse d’abord, tranche ensuite — les yeux ouverts.**
 
-Quand cette carte sort, certaines personnes pensent à une procédure en cours, et je comprends pourquoi : attendre un jugement est éprouvant. Je ne lis pas sur ces questions, pourtant. Une carte ne connaît pas un dossier, et un mot de travers peut faire du tort. Ça, c’est une question pour votre avocat ; ce qu’un tirage peut porter en attendant, c’est la façon dont vous traversez l’attente. ([Ce que je ne lis pas, et pourquoi.](/fr/avertissements/#refus))
+Quand cette carte sort, certaines personnes pensent à une procédure en cours, et je comprends pourquoi : attendre un jugement est éprouvant. Je ne lis pas sur ces questions, pourtant. Une carte ne connaît pas un dossier, et un mot de travers peut faire du tort. Ça, c’est une question pour votre avocat ; les cartes, elles, peuvent tenir compagnie à la façon dont vous vivez ces semaines d’attente. ([Mes refus, procès compris, sont expliqués ici.](/fr/avertissements/#refus))
 
 ## Exemple de tirage {#exemple}
 
 La Justice, puis le Deux d’Épées : une paire pour vous faire la main. 11, donc 2, à côté d’un autre 2 — deux fois le nombre des deux parties et du lien. Deux fois l’Air : tout se passe dans la tête. Du rouge, du vert et du violet sur la première carte ; sur la seconde, une femme aux yeux bandés assise sur un banc de pierre, sous un ciel de nuit.
 
-La phrase que je dirais : « Il y a un choix entre deux options que vous retournez depuis longtemps, et vous savez déjà laquelle est juste — vous ne vous êtes pas encore donné le droit de la regarder. »
+Entre l’épée qui tranche et les épées croisées, ma lecture serait : « Il y a un choix entre deux options que vous retournez depuis longtemps, et vous savez déjà laquelle est juste — vous ne vous êtes pas encore donné le droit de la regarder. »
 
-Puis la vérification. Y a-t-il une décision repoussée ? La personne reconnaît-elle les deux options ? Sinon, c’est un raté, et il va dans le carnet comme tel.
+Reste à vérifier : y a-t-il une décision repoussée ? La personne reconnaît-elle les deux options ? Si aucun choix ne l’attend, le verdict est clair : la phrase était à côté, et elle rejoint le carnet.

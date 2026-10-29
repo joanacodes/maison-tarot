@@ -21,7 +21,7 @@ Son rang, c’est [le Roi](/fr/bibliotheque/numerologie/roi/) : la maîtrise ext
 
 Son élément, c’est le Feu d’Eau. La famille est l’Eau — les émotions, les relations — et le rang apporte le Feu : l’élan, l’action. C’est donc un sentiment qui ne reste pas un sentiment ; il devient un geste, une décision, une façon d’être avec quelqu’un.
 
-Son énergie est masculine, au sens où je l’entends, qui que vous soyez : agir, décider, se montrer. Elle peut décrire une femme aussi bien qu’un homme. Les couleurs sont sur [la page du Roi de Coupes](/fr/bibliotheque/cartes-tarot/roi-de-coupes/).
+Son énergie est masculine, dans mon sens à moi du mot : agir, décider, se montrer. Elle peut décrire une femme aussi bien qu’un homme. Les couleurs sont sur [la page du Roi de Coupes](/fr/bibliotheque/cartes-tarot/roi-de-coupes/).
 
 ## À l’envers : sous le couvercle, la mer {#couvercle}
 
@@ -33,7 +33,7 @@ Dans l’excès, le calme tourne au contrôle : se servir de sa compréhension d
 
 Si vous êtes célibataire, le Roi de Coupes parle en général de vous avant de parler de quelqu’un d’autre. Être stable avec ses propres émotions : ne pas envoyer de message à minuit pour se faire rassurer, ne pas se fermer après un rendez-vous décevant, savoir ce qu’on ressent et choisir quoi en faire. La carte ne promet pas que quelqu’un comme lui arrive. Elle décrit une qualité qui vaut la peine d’être cherchée — et d’être cultivée.
 
-En couple, c’est le partenaire posé : celui qui reste gentil pendant une dispute, n’a pas besoin de la gagner, et peut entendre « je suis contrariée » sans entendre une attaque. Dans mes notes, l’empathie, c’est ressentir et comprendre les émotions de l’autre tout en gardant les siennes ([les mots, définis](/fr/blog/empathe-starseed-lightworker/)). C’est exactement ce Roi : il sent la mer, et il n’est pas la mer. Il mélange aussi les deux façons de parler que j’enseigne avec les énergies. La façon féminine aborde un sujet délicat par des métaphores et des détours ; la façon masculine le dit franchement et tranche vite. Lui sait faire les deux — dire la chose difficile, et la dire avec douceur.
+En couple, c’est le partenaire posé : celui qui reste gentil pendant une dispute, n’a pas besoin de la gagner, et peut entendre « je suis contrariée » sans entendre une attaque. Mes notes définissent l’empathie comme le fait de percevoir et de saisir ce que vit l’autre sans perdre de vue ses propres émotions ([les mots, définis](/fr/blog/empathe-starseed-lightworker/)). C’est exactement ce Roi : il sent la mer, et il n’est pas la mer. Il mélange aussi les deux façons de parler que j’enseigne avec les énergies. La façon féminine aborde un sujet délicat par des métaphores et des détours ; la façon masculine le dit franchement et tranche vite. Lui sait faire les deux — dire la chose difficile, et la dire avec douceur.
 
 Après une rupture, c’est la dignité. Tout ressentir — la colère, le chagrin, le soulagement — et choisir quand même ce qu’on fait : pas de publication vengeresse, pas de message à minuit, un au revoir dit correctement. La mer est forte ; le trône tient.
 
@@ -43,7 +43,7 @@ Après une rupture, c’est la dignité. Tout ressentir — la colère, le chagr
 
 {{< cards "swqu ar14 cu05" >}}
 
-À côté de la Reine d’Épées, le cœur et la tête s’assoient côte à côte : un cœur calme et des mots clairs, dans un même couple ou chez une même personne ([la Reine d’Épées en amour](/fr/blog/reine-depees-amour/)).
+À côté de la Reine d’Épées, l’émotion maîtrisée rencontre la parole nette : deux qualités qu’on peut trouver chez deux partenaires, ou réunies en une seule personne ([la Reine d’Épées en amour](/fr/blog/reine-depees-amour/)).
 
 À côté de Tempérance — un ange qui verse l’eau d’une coupe dans l’autre sans en perdre une goutte —, le calme est authentique : l’émotion mélangée à la patience, rien d’écrasé.
 
@@ -53,7 +53,7 @@ Après une rupture, c’est la dignité. Tout ressentir — la colère, le chagr
 
 Parce que c’est un Roi, on le prend souvent pour un homme en route vers soi, et la question suit : « C’est lui ? » « Est-ce qu’il m’aime ? » « C’est le bon ? » C’est bien naturel de l’espérer quand une carte aussi chaleureuse apparaît.
 
-Ce que ressent quelqu’un d’autre, c’est à cette personne de vous le dire : une carte ne peut pas parler pour quelqu’un qui n’est pas dans la pièce. Et le Roi de Coupes, comme toutes les figures, décrit une façon d’être avant de décrire une personne. Il se pourrait bien que ce soit vous. S’il revient chaque fois que vous posez une question sur une personne en particulier, demandez-vous lesquelles de ses qualités vous espérez trouver chez elle, et lesquelles vous aimeriez trouver en vous.
+Ce que ressent quelqu’un d’autre, c’est à cette personne de vous le dire : une carte ne peut pas parler à la place d’un absent. Et le Roi de Coupes, comme toutes les figures, décrit une façon d’être avant de décrire une personne. Il se pourrait bien que ce soit vous. S’il revient chaque fois que vous posez une question sur une personne en particulier, demandez-vous lesquelles de ses qualités vous espérez trouver chez elle, et lesquelles vous aimeriez trouver en vous.
 
 Une question plus douce : « Est-ce que je me sens libre de dire ce que je ressens dans cette relation — et est-ce que je rends ça possible pour l’autre ? » Ce que vous faites de la réponse vous appartient.
 

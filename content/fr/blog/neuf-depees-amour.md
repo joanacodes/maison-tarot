@@ -9,9 +9,9 @@ tags: ["Neuf d’Épées amour", "Neuf d’Épées inversé amour", "Neuf d’É
 image: "covers/nine-of-swords-tarot-love.jpg"
 imageAlt: "La carte du Neuf d’Épées du tarot Rider-Waite-Smith posée face visible sur une table en bois nue."
 imagePrompt: "The Nine of Swords card from the 1909 Rider-Waite-Smith deck lying upright on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, the card in its original colours, warm natural colours around it that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "En amour, le Neuf d’Épées décrit l’inquiétude de la nuit : la conversation qu’on rejoue, le message qui n’arrive pas, la peur d’être quitté ou de ne jamais rencontrer personne. Dans mes notes, c’est aussi la carte de la sortie d’un cauchemar, avec une protection au-dessus de vous : les neuf épées sont accrochées au mur et ne touchent jamais la personne. Le neuf est la fin d’un cycle, l’Air est le mental : le pire de la rumination touche en général à sa fin. La carte décrit une peur, pas un fait, et ne dit jamais ce que fait un partenaire."
+summary: "En amour, le Neuf d’Épées décrit l’inquiétude de la nuit : la conversation qu’on rejoue, le message qui n’arrive pas, la peur d’être quitté ou de ne jamais rencontrer personne. Dans mes notes, elle marque aussi la fin d’un cauchemar, sous une garde venue d’en haut : les neuf épées sont accrochées au mur et ne touchent jamais la personne. Le neuf est la fin d’un cycle, l’Air est le mental : le pire de la rumination touche en général à sa fin. La carte décrit une peur, pas un fait, et ne dit jamais ce que fait un partenaire."
 ---
-Le Neuf d’Épées en amour, c’est la carte des angoisses de 3 heures du matin : assis dans le noir, à rejouer une phrase, à imaginer le pire. Ma propre note sur elle est plus douce que sa réputation. C’est la carte de la sortie d’un cauchemar, d’une longue période troublée, avec une protection au-dessus de vous — et c’est cette seconde moitié qu’on ne voit pas.
+Le Neuf d’Épées en amour, c’est la carte des angoisses de 3 heures du matin : assis dans le noir, à rejouer une phrase, à imaginer le pire. Ma propre note sur elle est plus douce que sa réputation. J’y ai noté qu’on sort d’un mauvais rêve, au terme d’une longue traversée agitée, et qu’on est protégé d’en haut — et c’est cette seconde moitié qu’on ne voit pas.
 
 {{< cards "sw09" >}}
 
@@ -19,19 +19,19 @@ Le Neuf d’Épées en amour, c’est la carte des angoisses de 3 heures du mati
 
 Regardez où sont les épées. Elles sont accrochées au mur au-dessus du lit, alignées, immobiles, et pas une ne touche la personne assise. **La carte montre la peur, et la protection qui est déjà là.** En amour, c’est l’écart entre ce que vous redoutez et ce qui se passe réellement.
 
-Le nombre, c’est le 9 : la ligne d’arrivée, la fin d’une étape, les derniers efforts — et continuer d’avancer. Neuf n’est pas dix. Le cycle n’est pas bouclé, mais il en est tout près, et c’est pour ça que je lis cette carte comme la fin d’une mauvaise passe plutôt que son début. La nuit est longue, et elle touche à sa fin.
+Le nombre, c’est le 9 : l’arrivée est en vue, l’étape se termine, encore un dernier effort — et continuer d’avancer. Neuf n’est pas dix. Le cycle n’est pas bouclé, mais il en est tout près, et c’est pour ça que je lis cette carte comme la fin d’une mauvaise passe plutôt que son début. La nuit est longue, et elle touche à sa fin.
 
-L’élément, c’est l’Air, le mental. Quand il fonctionne, il décide ; quand il ne fonctionne pas, il bloque ou ressasse. À 3 heures du matin, l’Air tourne à vide : une pensée devient un scénario, le scénario une certitude, et rien de tout ça n’a vu la lumière du jour. On dit que la nuit porte conseil ; à cette heure-là, elle porte surtout des épées. L’énergie est masculine : l’envie d’agir — envoyer le message, vérifier le téléphone, régler ça tout de suite — à la seule heure où rien d’utile ne peut se faire. [La page du Neuf d’Épées](/fr/bibliotheque/cartes-tarot/neuf-de-epees/) détaille les autres clés.
+L’élément, c’est l’Air, le mental. Quand il fonctionne, il décide ; quand il ne fonctionne pas, il bloque ou ressasse. À 3 heures du matin, l’Air tourne à vide : une pensée devient un scénario, le scénario une certitude, et rien de tout ça n’a vu la lumière du jour. À cette heure-là, la nuit n’apporte pas de conseils : elle apporte des épées. L’énergie est masculine : l’envie d’agir — envoyer le message, vérifier le téléphone, régler ça tout de suite — à la seule heure où rien d’utile ne peut se faire. [La page du Neuf d’Épées](/fr/bibliotheque/cartes-tarot/neuf-de-epees/) détaille les autres clés.
 
 ## La question qu’on pose au plafond {#au-plafond}
 
-« Est-ce qu’il me trompe ? » C’est la question classique de la nuit avec cette carte, et je la comprends tout à fait. Ne pas savoir, c’est le plus dur, et une carte paraît plus rapide qu’une conversation.
+« Est-ce qu’il voit quelqu’un d’autre ? » C’est la question classique de la nuit avec cette carte, et je la comprends tout à fait. Ne pas savoir, c’est le plus dur, et une carte paraît plus rapide qu’une conversation.
 
 Je ne lis pas ce que fait un partenaire quand il n’est pas dans la pièce. Une carte ne peut pas vérifier un téléphone ou un agenda, et un oui ou un non tiré en pleine nuit nourrit la peur dans les deux cas.
 
 Si vous vous surprenez à poser cette question encore et encore, c’est en général le doute qui parle plutôt qu’un besoin de réponse, et [une pause dans les tirages](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/) vous aidera davantage qu’une carte de plus.
 
-Une question plus douce : « De quoi ai-je peur, et que faudrait-il que je demande, en plein jour, pour me sentir en sécurité ? » Celle-là mène à une conversation, et c’est là qu’habite la vraie réponse.
+Gardez plutôt pour le matin une question moins dure : « De quoi ai-je peur, et que faudrait-il que je demande, en plein jour, pour me sentir en sécurité ? » Celle-là mène à une conversation, et c’est là qu’habite la vraie réponse.
 
 ## C’est votre nuit qu’elle raconte {#votre-nuit}
 
@@ -45,7 +45,7 @@ Après une rupture, c’est le « et si j’avais dit… » en boucle, à l’he
 
 À l’envers, le Neuf d’Épées peut tourner de deux façons. Dans le bon sens, les mains quittent le visage : la première nuit complète, le matin où l’on remarque que l’inquiétude a rétréci. C’est le cauchemar qui se termine.
 
-Dans l’excès, l’angoisse sort de la nuit et envahit le jour. Fouiller le téléphone de l’autre, avoir besoin d’être rassuré toutes les heures — ou l’inverse, répéter à tout le monde que ça va alors qu’on n’a pas fait une vraie nuit depuis des semaines. Si ces nuits-là durent, un médecin ou un thérapeute est la bonne porte, et il n’y a aucune honte à frapper ([là où les cartes s’arrêtent](/fr/avertissements/#therapie)).
+Dans l’excès, l’angoisse sort de la nuit et envahit le jour. Fouiller le téléphone de l’autre, avoir besoin d’être rassuré toutes les heures — ou l’inverse, répéter à tout le monde que ça va alors qu’on n’a pas fait une vraie nuit depuis des semaines. Si ces nuits-là durent, prenez rendez-vous chez votre médecin ou chez un psychologue, sans la moindre honte ([là où les cartes s’arrêtent](/fr/avertissements/#therapie)).
 
 ## D’autres nuits chez les Épées {#autres-nuits}
 

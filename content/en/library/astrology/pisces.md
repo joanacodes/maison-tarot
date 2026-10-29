@@ -24,12 +24,10 @@ related:
 - /library/astrological-modes/mutable
 - /library/astrology/neptune
 faq:
-- q: Which tarot card corresponds to Pisces?
-  a: The Moon, in the Golden Dawn tradition taken up by the Rider-Waite-Smith. When
-    it comes out, the sign gives its verb, element and mode at once.
-- q: 'I''m a Pisces: is this card ''my'' card?'
-  a: A way in, not an identity. The card says the same thing to anyone; your sign
-    only helps you recognise it faster. Astrology is not an excuse.
+- q: 'Which tarot card corresponds to Pisces?'
+  a: 'The Moon: a pool, a path between two towers, and what climbs out of the water at night. Pisces lives in that layer under the surface.'
+- q: 'I’m a Pisces: is the Moon ‘my’ card?'
+  a: 'Anyone who draws the Moon is reading intuition and what lies below the surface. Being a Pisces might make that feel familiar; it isn’t a reason to stay under and stop answering.'
 gallery:
 - src: "visuals/sign-pisces/1.jpg"
   title: "Another element"
@@ -76,7 +74,7 @@ The person who's always calm, always there, and whom you discover years later kn
 
 ## Its card: The Moon {#card}
 
-When [the Moon](/library/tarot-cards/the-moon/) comes out, Pisces is there: what happens under the surface, the intuition that has no words yet, sometimes illusion. Well placed, it's the wisdom that waits for the right moment. Badly placed, it's the one who dived and no longer says when they'll come up.
+[The Moon](/library/tarot-cards/the-moon/) is Pisces' card: what happens under the surface, the intuition that has no words yet, sometimes illusion. Its best side knows how to wait until the moment is right to speak; its worst has gone down so deep that nobody knows when it will surface.
 
 {{< cards "ar18" >}}
 

@@ -11,7 +11,7 @@ imageAlt: "A single tarot card lying face down apart from a fanned-out deck on a
 imagePrompt: "A single tarot card lying face down a little apart from a fanned-out deck on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "A tarot card you’ve never liked is usually a card you’ve only met from one side — its drawing, its reputation, or the bad day it once fell on. Don’t take it out of the deck. Read it by its lenses instead of its reputation: its number, its element, its colours. Then find its plus and its minus, because every card has both. Spend a week with it, describing it out loud each morning. You don’t have to love the card; you need to be able to read it when it turns up for someone."
 ---
-Every card has a plus and a minus, and a card you’ve never liked is usually one you’ve only met from one side. The answer isn’t to slip it out of the deck. It’s to meet it properly, through its lenses rather than its reputation.
+Each card has two faces, a gift and a cost, and a card you’ve never liked is usually one you’ve only met from one side. The answer isn’t to slip it out of the deck. It’s to meet it properly, through its lenses rather than its reputation.
 
 ## Why some cards put you off {#why}
 
@@ -37,9 +37,9 @@ Put together: a way of thinking has gone as far as it can go, and it’s over. T
 
 No card is good or bad; every one has both sides. That’s true of the cards you love too.
 
-The [Five of Cups](/library/tarot-cards/five-of-cups/) is, in my own notes, the most negative card in the deck: loss, dark emotion, being alone with your problems. I don’t soften that. But look at the drawing again: three cups are spilled, and two are still standing behind the figure, with a bridge across the river. The minus is real. So is the plus.
+I don’t soften the [Five of Cups](/library/tarot-cards/five-of-cups/), which my own notes call the hardest card of them all: what’s lost, the darkness it leaves, and the loneliness of carrying it. But look at the drawing again: three cups are spilled, and two are still standing behind the figure, with a bridge across the river. The minus is real. So is the plus.
 
-Death is another one people keep at arm’s length. In my notes it isn’t about death at all: it’s linked to the harvest, to starting again — someone without a goal who wants to make life fertile again.
+Death is another one people keep at arm’s length. My notes tie it to reaping and beginning over, not to dying: picture someone who has lost their aim and wants something to grow in their life again.
 
 When you’ve found both sides of a card you dislike, you can read it for someone without flinching, and without forcing it into good news either.
 
@@ -56,10 +56,10 @@ The same image reads differently from one day to the next, and a card you look a
 
 If a card fell on a hard day, it can feel as if it brought the day with it. It didn’t. It described a moment; it didn’t cause one. Giving it a week, as above, is a gentle way to loosen the link.
 
-If it keeps turning up and that unsettles you, I’ve written about [why the same card keeps coming up](/blog/same-tarot-card-keeps-coming-up/). And if the fear is about what a card might announce — an illness, a death — that fear makes sense, and a card is the wrong tool for it: it doesn’t announce either. I don’t read on those questions, because a wrong word there does real harm. What the card can speak about is change, endings, and what comes next.
+If it keeps turning up and that unsettles you, I’ve written about [why the same card keeps coming up](/blog/same-tarot-card-keeps-coming-up/). And if the fear is about what a card might announce — an illness, a death — that fear makes sense, and a card is the wrong tool for it: it doesn’t announce either. Those questions stay off my table, since one wrong word there does real harm. What the card can speak about is change, endings, and what comes next.
 
 ## You don’t have to love it {#keep-it}
 
 You don’t have to like every card. You need to be able to read it when it turns up for someone. So keep it in the deck: without it, your deck can no longer say that thing, and sometimes that thing is exactly what a person needs to hear.
 
-If your disliked card is one of the heavy ones, [the scariest tarot cards, and why they’re kinder than they look](/blog/scariest-tarot-cards/) is a good next read.
+If your disliked card is one of the heavy ones, [how the most feared cards turn out gentler up close](/blog/scariest-tarot-cards/) is a good next read.

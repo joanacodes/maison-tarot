@@ -36,7 +36,7 @@ A few patterns I’d watch for, in yourself or in a reader:
 - “It’s my sign”, used to skip an apology. [Astrology as an excuse](/blog/astrology-is-not-an-excuse/) is a close cousin of bypassing.
 - Positive thinking used as a lid: repeating that everything is fine so you don’t have to check whether it is. There’s a real difference between [an affirmation and toxic positivity](/blog/affirmations-vs-toxic-positivity/).
 
-There’s a card that pictures this well. In the Eight of Swords, a woman stands tied and blindfolded, with eight swords stuck in the ground around her. In my notes she’s a prisoner of herself while she has every tool she needs to get out: she can take off the blindfold.
+There’s a card that pictures this well: the Eight of Swords, where a bound, blindfolded woman waits inside a fence of eight swords. My notes say she’s holding herself captive although every means of escape is hers, starting with a blindfold she could remove.
 
 {{< cards "sw08" >}}
 
@@ -46,7 +46,7 @@ Bypassing is a blindfold we tie ourselves, usually for good reasons. [The Eight 
 
 Because it protects us. A spiritual explanation is quicker than a feeling, and it arrives with a sense of meaning that the feeling doesn’t offer. Bypassing is a shield, and sometimes it gets you through a week you couldn’t have got through otherwise.
 
-The trouble starts when the shield stays up. Shadow work, as I define it, is dealing with the things you keep pushing away so you can get through daily life — the same things that end up disabling you. What you step around doesn’t disappear. It works like water: a neglected emotion seeps into the foundations slowly, the way mould eats a house from the inside.
+The trouble starts when the shield stays up. Shadow work, as I define it, means facing what you keep shoving aside in order to function, the very things that end up hobbling you. What you step around doesn’t disappear. It works like water: a neglected emotion seeps into the foundations slowly, the way mould eats a house from the inside.
 
 ## How to tell a practice from a bypass {#how-to-tell}
 
@@ -57,7 +57,7 @@ Four questions to ask yourself after a reading:
 3. Could I have heard a “no”? If only one answer was acceptable, the reading was a permission slip.
 4. Is this the same question I asked last week?
 
-If the answers worry you, put the deck in a drawer for a few weeks. It isn’t a punishment; it gives the muscle that decides a chance to work. I wrote about that in [why you should quit tarot reading, for a while](/blog/why-you-should-quit-tarot-reading/).
+If the answers worry you, give the cards a few weeks off. It isn’t a punishment; it gives the muscle that decides a chance to work. There’s more in [my case for a pause from readings](/blog/why-you-should-quit-tarot-reading/).
 
 ## What helps instead {#what-helps}
 

@@ -23,12 +23,10 @@ related:
 - /library/astrological-modes/fixed
 - /library/astrology/uranus
 faq:
-- q: Which tarot card corresponds to Aquarius?
-  a: The Star, in the Golden Dawn tradition taken up by the Rider-Waite-Smith. When
-    it comes out, the sign gives its verb, element and mode at once.
-- q: 'I''m a Aquarius: is this card ''my'' card?'
-  a: A way in, not an identity. The card says the same thing to anyone; your sign
-    only helps you recognise it faster. Astrology is not an excuse.
+- q: 'Which tarot card corresponds to Aquarius?'
+  a: 'The Star: a kneeling woman emptying her two jugs under a great star. What she pours is what Aquarius hands round — hope, and the new idea shared with everyone.'
+- q: 'I’m an Aquarius: is the Star ‘my’ card?'
+  a: 'The Star gives everyone who draws it the same hope and the same ideal. An Aquarius may recognise them sooner — and should still check the idea before saying “I know”.'
 gallery:
 - src: "visuals/sign-aquarius/1.jpg"
   title: "The new kid"
@@ -61,7 +59,7 @@ gallery:
 
 ## What this energy does {#energy}
 
-Aquarius energy is the enthusiastic new kid arriving in a company full of veterans. It stands for technology, the new, eccentricity; it loves to help and to share what it has found. Rather futuristic, it's the bridge between old and new — where Taurus conserves. Its verb is 'I know', to be heard as 'I think I know'.
+Aquarius energy is the enthusiastic new kid arriving in a company full of veterans. It stands for technology, the new, eccentricity; it loves to help and to share what it has found. Rather futuristic, it's the bridge between old and new — where Taurus conserves. Its verb is 'I know' — which often means 'I think I know'.
 
 ## Favourable sides, unfavourable sides {#flip-side}
 
@@ -75,7 +73,7 @@ The mad scientist, the clown, the start-up founder, the tech YouTuber.
 
 ## Its card: The Star {#card}
 
-When the Star comes out, Aquarius is there: the ideal, the hope that won't let go, the new idea poured out for everyone. Well placed, it's the drive that repairs. Badly placed, it's the idea you think you know and never checked. The card has [its own page](/library/tarot-cards/the-star/), with all its lenses.
+The Star gives Aquarius a picture: the ideal, the hope that won't let go, the new idea poured out for everyone. It can be the drive that repairs — or the idea you think you know and never checked. [The Star's page](/library/tarot-cards/the-star/) reads the card through every lens.
 
 {{< cards "ar17" >}}
 

@@ -21,7 +21,7 @@ Le petit livret glissé dans la boîte donne quelques mots-clés par carte, et l
 
 ### 2. Attendre de se sentir doué
 
-Beaucoup de débutants attendent un signe qui prouverait qu’ils « ont quelque chose ». Toutes les personnes que j’ai aidées à lire y sont arrivées entre le premier et le troisième essai, dès qu’elles ont arrêté de vouloir avoir raison. Ce que vous attendez de ressentir, vous avez plus de chances de le ressentir après la première carte qu’avant.
+Beaucoup de débutants attendent un signe qui prouverait qu’ils « ont quelque chose ». Chez celles et ceux que j’ai aidés, lire est venu vite — trois essais au plus —, dès qu’ils ont arrêté de vouloir avoir raison. Ce que vous attendez de ressentir, vous avez plus de chances de le ressentir après la première carte qu’avant.
 
 ### 3. Acheter le rituel avant d’apprendre le jeu
 
@@ -31,7 +31,7 @@ De la sauge, des pierres, une purification à la pleine lune, un deuxième puis 
 
 ### 4. Commencer par dix cartes
 
-La croix celtique a l’air du « vrai » tarot, alors on s’y lance le deuxième jour. Dix cartes parlent en même temps, et on n’en entend aucune. Commencez par une carte par jour : décrivez ce qu’il y a dessus, ce que vous voyez, ce que vous recevez. Puis trois. Puis davantage, quand trois commencent à vous sembler peu.
+La croix celtique a l’air du « vrai » tarot, alors on s’y lance le deuxième jour. Dix cartes parlent en même temps, et on n’en entend aucune. Commencez par une carte par jour : son dessin d’abord, puis l’impression qu’il vous laisse. Puis trois. Puis davantage, quand trois commencent à vous sembler peu.
 
 ### 5. Chercher le sens avant de regarder la carte
 
@@ -55,17 +55,17 @@ Demander ce qui se passe, ça semble poli. Mais une fois que vous savez, chaque 
 
 ### 9. Lire quelqu’un qui n’a rien demandé
 
-Une amie à l’autre bout de la pièce pendant un dîner, un collègue, un ex par curiosité. Demandez toujours la permission avant de lire quelqu’un, et ne lisez que la personne en face de vous. Vous n’aimeriez pas qu’un inconnu fouille votre chambre ; lire quelqu’un sans son accord, c’est la même chose.
+Une amie à l’autre bout de la pièce pendant un dîner, un collègue, un ex par curiosité. Ne lisez que la personne en face de vous, et seulement si elle a dit oui. Vous n’aimeriez pas qu’un inconnu fouille votre chambre ; lire quelqu’un sans son accord, c’est la même chose.
 
 ### 10. Répondre à toutes les questions
 
-Quelqu’un vous interroge sur une échographie, une grossesse, une audience au tribunal, ou sur le placement de ses économies. Il demande parce qu’il est inquiet, et vous aurez envie d’aider. **Un mot de travers, là, fait de vrais dégâts**, alors ce sont des sujets sur lesquels je ne lis pas. Je préfère [le dire avec douceur](/fr/avertissements/#refus), demander sur quoi la personne aimerait y voir plus clair, et laisser le reste à un médecin, un avocat ou un conseiller.
+Quelqu’un vous interroge sur une échographie, une grossesse, une audience au tribunal, ou sur le placement de ses économies. Il demande parce qu’il est inquiet, et vous aurez envie d’aider. **Sur ces terrains-là, la moindre erreur coûte cher à la personne**, alors je m’abstiens. Je préfère [le dire avec douceur](/fr/avertissements/#refus), demander sur quoi la personne aimerait y voir plus clair, et laisser le reste à un médecin, un avocat ou un conseiller.
 
 ## Avec vous-même {#avec-vous-meme}
 
 ### 11. Ne rien noter — et rattraper les ratés
 
-Sans carnet, on se souvient des lectures qui ont tapé juste et on oublie les autres. Notez la date, les cartes, ce que vous avez dit et ce qui a été confirmé — pour [un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/), un cahier à grands carreaux fait très bien l’affaire. Quand quelque chose ne tient pas, écrivez « raté », sans carte supplémentaire pour le sauver ni « vous comprendrez plus tard ». À mon propre décompte, environ une lecture sur dix rate encore chez moi.
+Sans carnet, on se souvient des lectures qui ont tapé juste et on oublie les autres. Notez la date, les cartes, vos phrases, puis ce que la personne a validé — pour [un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/), un cahier à grands carreaux fait très bien l’affaire. Quand quelque chose ne tient pas, écrivez « raté », sans carte supplémentaire pour le sauver ni « vous comprendrez plus tard ». Dans mes propres comptes, une lecture sur dix, à peu près, manque encore sa cible.
 
 ### 12. Tirer toutes les heures
 

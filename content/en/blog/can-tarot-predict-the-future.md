@@ -9,7 +9,7 @@ tags: ["can tarot predict the future", "tarot and the future", "tarot vs fortune
 image: "covers/can-tarot-predict-the-future.jpg"
 imageAlt: "A single card face up on a kitchen table beside a cup of coffee, a wall calendar blurred behind"
 imagePrompt: "A single tarot card lying face up on a kitchen table beside a cup of coffee, a paper wall calendar out of focus behind it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Sometimes a tarot reading touches something that happens later; I’ve seen it. But I don’t read tarot as fortune telling: I can’t promise a prediction, I can’t time it, and about one reading in ten misses by my count. What I read is the present — where you stand, what you’re holding, what you’re avoiding — because the best way to ensure an enjoyable future is to anchor ourselves in the present. Tarot can’t give you dates, another person’s choices, or answers on health, pregnancy, court cases or money. It can help you see today clearly enough to choose."
+summary: "Sometimes a tarot reading touches something that happens later; I’ve seen it. But I don’t read tarot as fortune telling: I can’t promise a prediction, I can’t time it, and by my own notebook roughly one in every ten readings misses. What I read is the present — where you stand, what you’re holding, what you’re avoiding — because the best way to ensure an enjoyable future is to anchor ourselves in the present. Tarot can’t give you dates, another person’s choices, or answers on health, pregnancy, court cases or money. It can help you see today clearly enough to choose."
 ---
 Sometimes, yes: a reading touches something that happens later, and I’ve seen it happen. But I don’t read tarot as fortune telling, and I don’t build a reading around the future. I read the present, because the best way to ensure an enjoyable future is to anchor ourselves in the present.
 
@@ -17,9 +17,9 @@ Sometimes, yes: a reading touches something that happens later, and I’ve seen 
 
 Honestly: occasionally, and never in a way anyone can promise.
 
-The [first reading I ever did for a stranger](/blog/first-tarot-reading-story/) is a good example: she told me it didn’t resonate, and three or four days later she texted me that it had all happened.
+The [first reading I ever did for a stranger](/blog/first-tarot-reading-story/) is a good example: she said none of it fitted, and a few days on she messaged to say it had all come to pass.
 
-So something in a reading can point ahead. What I can’t do is tell you when, guarantee that it will, or say it with the certainty a prediction needs. About one reading in ten misses, by my own count, and when what I saw does happen, it doesn’t always happen the way either of us imagined. That isn’t a basis for telling anyone what their life will be.
+So something in a reading can point ahead. What I can’t do is tell you when, guarantee that it will, or say it with the certainty a prediction needs. My own tally puts the misses at roughly one reading out of ten, and when what I saw does happen, it doesn’t always happen the way either of us imagined. That isn’t a basis for telling anyone what their life will be.
 
 There’s a quieter reason too. A prediction changes the person who hears it. Tell someone a new job is coming and they may stop looking, or start looking everywhere; either way, the future they walk into is no longer the one the cards were read on. The present doesn’t shift like that when you name it. It stays still long enough to be looked at.
 
@@ -35,9 +35,9 @@ That isn’t a slogan to dodge the question. A future is made of the choices you
 
 ## What I read instead: the present {#the-present}
 
-Say someone sits down, tells me nothing, and draws the Seven of Cups next to the Eight of Swords.
+Picture a stranger I know nothing about who turns up two cards: Seven of Cups first, Eight of Swords second.
 
-The Seven of Cups shows seven cups floating in the clouds, each holding something different — a castle, jewels, a wreath, a snake, a dragon. In my notes it’s indecision: too many choices. The Eight of Swords shows a woman bound and blindfolded, standing among eight swords planted in the ground. In my notes she’s a prisoner of herself while she has every tool she needs; she can take off the blindfold.
+On the Seven of Cups, a row of cups floats on a cloud, every one offering a different prize, from a castle to a dragon. In my notes it’s indecision: too many choices. The Eight of Swords puts a blindfolded woman, arms bound, inside a ring of swords stuck in the earth. In my notes she already has whatever it would take to walk free, and the only one holding her is herself; she could lift the blindfold.
 
 {{< cards "cu07 sw08" >}}
 
@@ -51,8 +51,8 @@ Some questions sit outside what a card can hold, and I’d rather say so gently 
 
 - *When.* Dates and deadlines are a reading’s weak spot. I wrote about it in [tarot and timing](/blog/tarot-timing/).
 - *What someone else will do.* Their choices are theirs, and they aren’t in the room. If that’s the question on your mind, there’s [a kinder one to ask](/blog/will-they-come-back-tarot/).
-- *Health, death, pregnancy, court cases, money decisions, curses.* Not because a card can’t fall, but because a wrong word there does real damage. Those belong with a doctor, a lawyer or a financial adviser, and they’re on [the list of things I don’t read on](/disclaimers/#refusals).
-- *What you should do.* A reading can show you something; the choice stays yours. No card [gets to decide your future for you](/blog/tarot-is-not-an-authority/).
+- *Medical worries, death, pregnancy, legal proceedings, financial choices, curses.* Cards will still turn up for those questions; what keeps me away is the harm one wrong word could do. Those belong with a doctor, a lawyer or a financial adviser, and they’re on [the list of things I don’t read on](/disclaimers/#refusals).
+- *What you should do.* A reading may help you see; the choosing is still yours. No card [gets to decide your future for you](/blog/tarot-is-not-an-authority/).
 
 ## How to ask about the future without asking for a prophecy {#how-to-ask}
 

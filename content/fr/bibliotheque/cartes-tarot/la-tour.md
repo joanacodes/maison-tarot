@@ -1,6 +1,6 @@
 ---
 title: 'La Tour (The Tower) — tarot Rider-Waite-Smith : lire la carte par ses clés de lecture'
-description: 'La Tour au tarot par ses clés : 16 qui devient 7, le Feu, un ciel noir, Mars — un changement brutal, au travail aussi, et pourquoi ce n’est pas une punition.'
+description: 'La Tour au tarot : la foudre sur une tour couronnée, 16 devenu 7, le Feu, Mars — un changement brutal, au travail aussi, et pourquoi ce n’est pas une punition.'
 translationKey: card-ar16
 type: cards
 navTitle: La Tour
@@ -15,10 +15,7 @@ energy: Masculine
 kabbalah: Pé
 image: cards/ar16.webp
 h1: La Tour — <em>16</em>, le Feu
-lede: 'Avant de chercher ce que « signifie » La Tour, regardez ce que vous avez déjà
-  : 16, l’élément Feu, Mars. Vous lisez la carte. Le nombre dit 16 — 1 + 6 = 7 — le doute, l’évaluation, la patience ; l’élément dit l’élan, ce qu’on lance. Posez les deux l’une
-  sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste de la
-  page vous montre comment.'
+lede: 'La foudre arrache la couronne d’une tour grise perchée sur un rocher ; deux silhouettes tombent tête la première dans la nuit. Qu’est-ce qui, dans votre vie, était déjà fissuré avant l’éclair ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -51,21 +48,21 @@ Regardez ce que le dessin ne montre pas : personne à l’intérieur pour étein
 
 Seize se ramène à [7](/fr/bibliotheque/numerologie/chiffre-7/), le nombre du Chariot : la réflexion, l’analyse avant l’action, la négociation. Sur la Tour, le 7, c’est le bilan qu’on n’avait pas prévu — ce qui ne passe pas l’épreuve tombe, et ce qui reste, c’est ce sur quoi vous pouvez compter.
 
-Le conseil du 7 va à cette carte mieux qu’à aucune autre : tout est temporaire, et votre situation, bonne ou mauvaise, va changer. Dans l’histoire d’Instagram, le 7, c’est la table de négociation où Facebook change le modèle ; ni triomphe ni chute, le moment où l’on choisit ce que la chose va devenir. La Tour, c’est ce moment-là qui arrive sans frapper.
+Le conseil du 7 va à cette carte mieux qu’à aucune autre : tout est temporaire, et votre situation, bonne ou mauvaise, va changer. Dans l’histoire d’Instagram, le 7, c’est la table de négociation où Facebook change le modèle : on y décide ce que l’application deviendra. La Tour, c’est ce moment-là qui arrive sans frapper.
 
 ## Par l’élément : Feu {#element}
 
-La Tour est une carte de [Feu](/fr/bibliotheque/quatre-elements/element-feu/). Le Feu crée et détruit : il forge les outils, réchauffe, éclaire la nuit, et se propage vite quand personne ne le maîtrise. Dans mes notes sur les éléments, il y a une comparaison à laquelle je reviens pour cette carte : le feu détruit d’un coup, tandis que l’eau négligée détruit plus profond et plus lentement, comme la moisissure qui ronge une maison de l’intérieur.
+La Tour est une carte de [Feu](/fr/bibliotheque/quatre-elements/element-feu/). Le Feu crée et détruit : il sert à forger, à chauffer, à éclairer, et il file dès qu’on cesse de le surveiller. Dans mes notes sur les éléments, il y a une comparaison à laquelle je reviens pour cette carte : le feu détruit d’un coup, tandis que l’eau négligée détruit plus profond et plus lentement, comme la moisissure qui ronge une maison de l’intérieur.
 
 La Tour, c’est la version rapide. Elle fait peur, et elle est honnête : on voit ce qui est tombé, et on peut repartir de là.
 
 ## Par les couleurs {#couleurs}
 
-Le ciel est [noir](/fr/bibliotheque/couleurs-tarot/noir/) : l’absence, le vide, la réalité sans vernis. La tour est grise, la couleur d’une structure qui tient sans rien dire — jusqu’au jour où elle ne tient plus. Puis le jaune de l’éclair et des gouttes, qui dit dans ma grille la volonté et l’orgueil (de circonstance, sur une carte où une couronne tombe), et le rouge orangé des flammes : l’action, l’impulsion. Lisez les couleurs avant la carte et vous avez déjà : une vérité nue, quelque chose qui ne bougeait plus, et un élan qui n’attendra pas.
+Le ciel est [noir](/fr/bibliotheque/couleurs-tarot/noir/) : l’absence, le vide, la réalité sans vernis. La tour est grise, la couleur d’une structure qui tient sans rien dire — jusqu’au jour où elle ne tient plus. Puis le jaune de l’éclair et des gouttes, qui dit dans ma grille la volonté et l’orgueil (de circonstance, sur une carte où une couronne tombe), et le rouge orangé des flammes : l’action, l’impulsion. Mises bout à bout, ces couleurs donnent une vérité nue, quelque chose qui ne bougeait plus, et un élan qui n’attendra pas.
 
 ## Par l’astrologie : Mars {#astrologie}
 
-Dans la tradition Golden Dawn, la Tour revient à [Mars](/fr/bibliotheque/astrologie/mars/) : la façon d’agir et de se battre, l’énergie brute, la colère, le corps qui bouge. Ici, cette énergie n’a pas de plan : elle frappe.
+La Tour est l’arcane de [Mars](/fr/bibliotheque/astrologie/mars/) chez la Golden Dawn : la façon d’agir et de se battre, l’énergie brute, la colère, le corps qui bouge. Ici, cette énergie n’a pas de plan : elle frappe.
 
 ## En lecture {#lecture}
 
@@ -77,7 +74,7 @@ Renversée, c’est le même effondrement au ralenti : on sent les murs bouger e
 
 {{< cards "ar17 ar13 wa10" >}}
 
-**La Tour ne détruit pas ce qui était solide ; elle vous montre ce qui ne l’était pas.** Pour les questions qu’on me pose le plus, j’ai écrit sur [la Tour en amour](/fr/blog/la-tour-tarot-amour/), et le changement brutal au travail a sa section juste en dessous.
+**La Tour ne détruit pas ce qui était solide ; elle vous montre ce qui ne l’était pas.** Pour les questions qu’on me pose le plus, j’ai écrit sur [la Tour en amour](/fr/blog/la-tour-tarot-amour/), et ce que l’éclair fait à un emploi se lit dans la partie suivante.
 
 ## Au travail {#au-travail}
 
@@ -85,7 +82,7 @@ Au travail, c’est une structure qui rencontre la vérité. Un poste : une réo
 
 Renversée au travail, c’est l’effondrement au ralenti — le projet auquel plus personne ne croit — ou la chute en excès : le mail de démission écrit à minuit, tout le service en copie.
 
-La première question, c’est « Vais-je perdre mon poste ? », et je la comprends : un emploi, c’est le loyer, la routine, une partie de soi. Je ne la lis pas comme une prédiction. Votre poste dépend de personnes qui ne sont pas dans la pièce et de décisions pas encore prises, et une carte qui dirait « vous êtes tranquille » ou « c’est fini » ajouterait un faux calme, ou un second choc au premier. Pour votre contrat, vos droits ou votre argent, voyez un représentant du personnel ou un avocat en droit du travail ([ce que je ne lis pas, et pourquoi](/fr/avertissements/#refus)). Une question plus douce : « Que ferais-je la première semaine si cela arrivait ? » Celle-là a une réponse, qui transforme la peur en plan.
+La première question, c’est « Vais-je perdre mon poste ? », et je la comprends : un emploi, c’est le loyer, la routine, une partie de soi. Je ne la lis pas comme une prédiction. Votre poste dépend de gens absents de cette conversation et de décisions pas encore prises, et une carte qui dirait « vous êtes tranquille » ou « c’est fini » ajouterait un faux calme, ou un second choc au premier. Pour votre contrat, vos droits ou votre argent, voyez un représentant du personnel ou un avocat en droit du travail ([les sujets que je laisse aux professionnels](/fr/avertissements/#refus)). Posez-vous plutôt cette question-ci : « Que ferais-je la première semaine si cela arrivait ? » Celle-là a une réponse, qui transforme la peur en plan.
 
 Cette semaine, sans rien décider, faites deux listes : ce qui est tombé, et ce qui tient encore — vos compétences, les gens qui décrochent quand vous appelez. La seconde est souvent la plus longue. Et laissez les cartes de côté quelques jours, maintenant surtout : tirer une carte toutes les heures après un choc, c’est le choc qui parle.
 
@@ -95,6 +92,6 @@ Corsons l’exercice : la Tour à côté du [Quatre de Bâtons](/fr/bibliotheque
 
 Les nombres : 16 se ramène à 7, le bilan ; le Quatre de Bâtons est un 4, la stabilité, le fruit du travail — des fondations, un mariage, une famille qui se construit. Les éléments : Feu et Feu, donc ce qui arrive arrive vite. Les couleurs : le ciel noir de la Tour à côté du jaune lumineux du Quatre de Bâtons.
 
-La phrase que vous diriez à voix haute : « Quelque chose que vous avez construit est en train d’être secoué, et ce qui restera debout, c’est ce sur quoi vous bâtirez ensuite. La fête n’est pas annulée ; elle déménage sur un terrain plus solide. »
+Pour la personne, deux phrases suffiraient : « Ce que vous avez bâti est secoué en ce moment, et ce qui restera debout, c’est ce sur quoi vous construirez ensuite. La fête n’est pas annulée ; elle déménage sur un terrain plus solide. »
 
-Puis vérifiez, avec douceur : est-ce que quelque chose sur quoi la personne s’appuie — un logement, un projet, une équipe — est mis à l’épreuve en ce moment ? Laissez-la répondre avec ses mots. Si ça ne colle pas, ne tordez pas les cartes pour que ça colle.
+Vérifiez ensuite, doucement : est-ce que quelque chose sur quoi la personne s’appuie — un logement, un projet, une équipe — est mis à l’épreuve en ce moment ? Laissez-la répondre avec ses mots. Si rien ne vacille chez elle, acceptez le raté au lieu de forcer les cartes à dire autre chose.

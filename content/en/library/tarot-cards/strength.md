@@ -15,11 +15,7 @@ energy: Feminine
 kabbalah: Teth
 image: cards/ar08.webp
 h1: Strength — <em>8</em>, Fire
-lede: 'Before looking up what Strength “means”, look at what you already have: 8,
-  the element Fire, Leo. You’re reading the card. The number says 8 — eight — movement,
-  mastery, the fruit of work; the element says drive, what you launch. Lay the two
-  over each other, add the colours, and the card is already talking — the rest of
-  the page shows you how.'
+lede: 'A woman in white, roses at her waist and an infinity loop over her head, cups a lion’s jaws without any strain. What strong thing in you needs a gentle hand rather than a firm grip?'
 related:
 - /library/numerology
 - /library/four-elements/fire-element
@@ -44,29 +40,29 @@ tags:
 
 A woman in a long white dress leans over a big tawny lion and holds its jaws in both hands. In his guide to the deck, Waite wrote that she is closing them; look at her face and you’ll see no strain at all. She has flowers in her hair and a garland of red roses at her waist. Above her head floats the sign we first meet on the Magician: an infinity loop.
 
-The lion’s tail is tucked between its hind legs. Around them, a green plain, a blue mountain in the distance, a yellow sky. Notice what isn’t there: no weapon, no chain, no whip, no crowd watching. **The drawing is about a strength that doesn’t need to fight**: the most dangerous creature in the picture has been calmed by someone who never raised her voice.
+The lion’s tail is tucked between its hind legs. Around them, a green plain, a blue mountain in the distance, a yellow sky. There’s no weapon, no chain, no whip, no crowd watching. **This is a strength that doesn’t need to fight**: the most dangerous creature in the picture has been calmed by someone who never raised her voice.
 
 ## By number: 8 {#number}
 
 In my reading of [the number 8](/library/numerology/number-8/), eight is the empire: 4 doubled, structure turned into power, mastery proved by a gesture repeated until it no longer shows. Look above the woman’s head — the infinity sign is an 8 lying down. The number is drawn on the card. Here the empire isn’t a territory; it’s the hold you have over yourself.
 
-In the Instagram story, 8 is the moment the app becomes infrastructure and nobody asks any more whether it works. Strength is that stage inside a person. (In Marseille decks Strength is 11 and Justice 8; Waite swapped them, and I read in the Rider-Waite-Smith order.)
+Instagram at 8 had become infrastructure: nobody wondered any longer if it worked. Strength is that stage inside a person. (In Marseille decks Strength is 11 and Justice 8; Waite swapped them, and I read in the Rider-Waite-Smith order.)
 
 ## By element: Fire {#element}
 
 Strength is a [Fire](/library/four-elements/fire-element/) card, and the lion is the fire: passion, impulse, the energy that gets you moving. Fire forges tools and warms a house; left to itself, it spreads and burns the house down. The card doesn’t put the fire out. It keeps the lion alive, and calm.
 
-Think of a teenager full of life who believes they can do anything. Strength isn’t the adult who crushes that energy; it’s the one who helps it last. The card’s energy is [feminine](/library/feminine-masculine-energies/): patience and softness doing a job that force would do badly.
+Think of someone young, full of energy, convinced the world is theirs for the taking. Strength isn’t the adult who crushes that energy; it’s the one who helps it last. The card’s energy is [feminine](/library/feminine-masculine-energies/): patience and softness doing a job that force would do badly.
 
 ## By colours {#colours}
 
 The white of her dress says purity, innocence, peace: she comes to the lion with nothing to hide ([white](/library/tarot-colours/white/)). The yellow of the sky and of her hair says joy, pride, will ([yellow](/library/tarot-colours/yellow/)). The lion’s orange-gold is raw creative energy, desire. The roses are red — passion, action — but worn as a garland, not brandished. Under it all, green ground: things growing.
 
-Read them in that order and you have the card before its name: a peaceful will holding a hot energy, in a world that’s growing.
+Put side by side, the colours describe the gesture: a peaceful will holding a hot energy, in a world that’s growing.
 
 ## By astrology: Leo {#astrology}
 
-In the Golden Dawn tradition, Strength corresponds to [Leo](/library/astrology/leo/), and the lion on the card makes it hard to miss. Leo is play, pride and expressiveness, the sign whose verb is “I will” — the opera singer who wants to be seen. The card shows Leo at its best: the will is all there, and it no longer needs an audience.
+The lion gives the Golden Dawn attribution away: Strength belongs to [Leo](/library/astrology/leo/). Leo is play, pride and expressiveness — “I will” — the opera singer who wants to be seen. The card shows Leo at its best: the will is all there, and it no longer needs an audience.
 
 ## In a reading {#reading}
 
@@ -84,6 +80,6 @@ Next to [the Chariot](/library/tarot-cards/the-chariot/), it’s the same victor
 
 Put Strength next to the Five of Wands, as if a stranger had just drawn them. 8 then 5: mastery facing a fight. Fire twice, so a lot of heat in one place. On one card, white and yellow, calm; on the other, five young men swinging staves, dressed in every colour.
 
-The sentence I’d say out loud: “There’s a lot of noise around you at the moment, and you’re the one keeping things from catching fire — it’s costing you more than you show.”
+To the stranger, out loud: “There’s a lot of noise around you at the moment, and you’re the one keeping things from catching fire — it’s costing you more than you show.”
 
-Then I’d stop and check. Does that land? If yes, I’d ask who or what the lion is. If no, it’s a miss: I’d note it as one and not try to rescue it.
+Then I’d stop and check. Does that land? If yes, I’d ask who or what the lion is. If nobody around them is shouting and nothing needs calming, I’d note the miss and leave it there, unrescued.

@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/wa02.webp
 h1: Two of Wands — <em>two</em>, Fire
-lede: 'Before looking up what Two of Wands “means”, look at what you already have:
-  two, the element Fire, Mars in Aries. You’re reading the card. The number says two
-  — to bind, to weigh, to cooperate; the element says drive, what you launch. Lay
-  the two over each other, add the colours, and the card is already talking — the
-  rest of the page shows you how.'
+lede: 'Behind the parapet of a castle roof, a red-cloaked man raises a small globe to his face and gazes over sea and fields. What keeps you on the roof when you could set out?'
 related:
 - /library/numerology
 - /library/four-elements/fire-element
@@ -52,7 +48,7 @@ He’s well dressed, protected, high up — and not going anywhere yet. **He has
 
 [Two](/library/numerology/number-2/) is the contract: two parties, a bond, and caution. Here the two parties are the man and the world — what he has inside the walls, and what he could have out there. One wand in his hand, one fixed to the stone. He’s weighing them.
 
-In the Instagram story, 2 is the signature with investors — the step this man hasn’t taken. The minus of 2 is stubbornness, solitude, the mind going in circles — months on the roof, globe in hand, signing nothing.
+Signing with investors is Instagram’s 2 — the step this man hasn’t taken. The minus of 2 is stubbornness, solitude, the mind going in circles — months on the roof, globe in hand, signing nothing.
 
 ## By element: Fire {#element}
 
@@ -68,9 +64,9 @@ Against the red, the blue of the water and the mountains: what’s far, still to
 
 ## By astrology: Mars in Aries {#astrology}
 
-In the Golden Dawn tradition, the Two of Wands is Mars in Aries — the first ten degrees of the sign that opens the zodiac. [Aries](/library/astrology/aries/) says “I am”: the doer, the bricklayer rather than the architect. Mars rules it, so this is drive at home: raw, quick, direct.
+Its decan, for the Golden Dawn, is Mars in Aries — the first ten degrees of the sign that opens the zodiac. [Aries](/library/astrology/aries/) says “I am”: the doer, the bricklayer rather than the architect. Mars rules it, so this is drive at home: raw, quick, direct.
 
-It tells you the man on the roof isn’t a dreamer. The energy to go is there; what holds him is a choice. Keep this lens or leave it — [the decans](/blog/decans-tarot/) are an extra, never the rule.
+It tells you the man on the roof isn’t a dreamer. The energy to go is there; what holds him is a choice. [The decans](/blog/decans-tarot/) are an extra here, never the rule.
 
 ## In a reading {#reading}
 
@@ -84,7 +80,7 @@ Next to the [Three of Wands](/library/tarot-cards/three-of-wands/), the decision
 
 ## A reading, as an example {#example}
 
-An invented pair to practise on: the Two of Wands, with the Eight of Cups laid beside it. Number: two, then eight — weighing a bond, then moving on from what you’re already doing. Element: Fire, then Water — ambition, then feeling. Colours: the red man on grey stone, then another figure in red, walking away from eight cups under a night sky. The same red, moving this time.
+An invented pair to practise on: the Two of Wands, with the Eight of Cups laid beside it. Number: two, then eight — weighing a bond, then leaving behind work already in progress. Element: Fire, then Water — ambition, then feeling. Colours: the red man on grey stone, then another figure in red, walking away from eight cups under a night sky. The same red, moving this time.
 
 The sentence I’d say out loud: “You’ve been looking at a bigger life from where you are for a while, and part of you has already left. The question isn’t whether it’s possible. It’s whether you’ll let yourself go.”
 

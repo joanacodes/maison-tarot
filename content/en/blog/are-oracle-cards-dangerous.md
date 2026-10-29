@@ -38,7 +38,7 @@ A reader with an oracle deck can give you a gentle, useful half hour. A reader w
 - They tell you to stop seeing your doctor, your therapist or your lawyer.
 - They claim a gift nobody else has.
 
-No card in any deck can make a promise. Only a person can, and that's where to look. I've gathered the rest of the warning signs in [how to spot a fake tarot reader](/blog/how-to-spot-a-fake-tarot-reader/).
+No card in any deck can make a promise. Only a person can, and that's where to look. The other warning signs, oracle or tarot, are in [my fuller list of a fake reader's tactics](/blog/how-to-spot-a-fake-tarot-reader/).
 
 ## When a printed word lands hard {#printed-word}
 
@@ -46,7 +46,7 @@ This is the one risk that's particular to oracles. A tarot card shows a scene yo
 
 It isn't one. A card isn't an authority, and you're the one who decides what to do. Say you draw “Let go” on the morning of a job interview: it might be about the nerves, not the job. Ask what else the word could mean today, and write down your answer before you decide anything.
 
-If one card in your deck always makes your stomach drop, take it out. It's your deck.
+If a single card in the box fills you with dread each time it appears, set it aside for good. The deck belongs to you.
 
 ## When the habit becomes the problem {#habit}
 
@@ -54,7 +54,7 @@ Drawing a card every hour, asking the same question until a card agrees, waiting
 
 Some questions no deck can hold: health, pregnancy, death, court cases, money decisions. People ask them out of worry or love, and I understand why. I don't read on them, with any deck, because a wrong word there costs too much; [the reasons are here](/disclaimers/#refusals), with what a reading can hold instead.
 
-And some people use cards to try to reach spirits. My own view is cautious: with spirits, you don't know who you're calling. And often what's going on isn't spirits at all — sometimes it's psychological, sometimes more, and either way you deserve support. If a reading leaves you frightened for days, or you're hearing or feeling things that scare you, that's a door for a professional rather than another card — I've written about [where that door is](/blog/tarot-and-mental-health/).
+And some people use cards to try to reach spirits. My own view is cautious: if you call on spirits, you can't be sure who you've reached. And often what's going on isn't spirits at all — sometimes it's psychological, sometimes more, and either way you deserve support. If a reading leaves you frightened for days, or you're hearing or feeling things that scare you, that's a door for a professional rather than another card — I've written about [where that door is](/blog/tarot-and-mental-health/).
 
 ## Using an oracle deck calmly {#calmly}
 

@@ -19,21 +19,21 @@ Interpréter un rêve, c’est donner un sens à ses images. Il y a trois grande
 
 La première, c’est la clé des songes : chaque symbole a un sens fixe. L’eau, ce sont les émotions ; la maison, c’est soi ; tomber, c’est perdre le contrôle. La deuxième, c’est la psychologie. Freud, au tournant du XXe siècle, lisait les rêves comme des désirs déguisés ; Jung, comme l’inconscient qui parle en images partagées par beaucoup de gens. La troisième, c’est l’association personnelle : que veut dire *cette* image pour *vous* ?
 
-Je m’appuie sur la troisième, avec la première comme point de départ. Une même image peut se lire différemment d’une personne à l’autre, et d’un jour à l’autre — c’est vrai d’une carte, et c’est vrai d’un rêve. Une clé des songes qui dit « l’eau, ce sont les émotions » fait une bonne première hypothèse ; ce n’est pas votre rêve.
+Je m’appuie sur la troisième, avec la première comme point de départ. Une image ne dit pas la même chose à tout le monde, ni à vous-même tous les matins — c’est vrai d’une carte, et c’est vrai d’un rêve. Une clé des songes qui dit « l’eau, ce sont les émotions » fait une bonne première hypothèse ; ce n’est pas votre rêve.
 
 ## Le tsunami tout doux : mes rêves de fin 2020 {#le-tsunami}
 
-Fin 2020, j’ai fait des rêves très nets. Chaque nuit, un tsunami arrivait. Il était gigantesque, il était doux, et il me disait de m’abandonner.
+Fin 2020, mes nuits ont été habitées par des rêves très nets. Chaque nuit revenait la même vague : un tsunami immense et pourtant doux, qui me demandait de m’abandonner.
 
-Je ne l’ai pas fait. Je me suis cachée dans une maison avec d’autres personnes.
+Je n’ai pas obéi. J’ai préféré m’abriter avec d’autres, à l’intérieur d’une maison.
 
-Une autre nuit, j’ai rêvé que je mourais, et j’ai été déçue de me réveiller.
+Une autre nuit, j’ai rêvé de ma propre mort, et le réveil m’a déçue.
 
 C’est tout, et je le laisse tel qu’il est venu. Je ne vais pas vous donner un sens avec lequel il n’est pas arrivé. Mais un rêve comme celui-là fait un bon exemple de la façon dont les outils que j’utilise sur les cartes peuvent se poser sur un rêve — alors prenons-le comme s’il était le vôtre.
 
 ## Lire un rêve avec les clés du tarot {#cles-de-lecture}
 
-Commencez par l’élément. Un tsunami, c’est l’Eau, dans son plus grand mouvement. Dans mes notes sur [l’élément Eau](/fr/bibliotheque/quatre-elements/element-eau/), l’eau nous porte d’un point A à un point B quand on la laisse faire, et peut nous noyer ; l’eau qui bouge, ce sont des émotions fortes, l’eau calme, des émotions apaisées.
+Commencez par l’élément. Un tsunami, c’est l’Eau, dans son plus grand mouvement. Dans mes notes sur [l’élément Eau](/fr/bibliotheque/quatre-elements/element-eau/), l’eau sait nous emmener plus loin si on se laisse aller, et elle sait aussi nous engloutir ; plus elle s’agite, plus l’émotion est forte, et une eau tranquille dit une émotion posée.
 
 Cherchez ensuite la contradiction. Gigantesque *et* doux. Sur une carte, quand deux signaux se contredisent, c’est là que je regarde en premier, parce que c’est souvent là que se trouve la personne.
 
@@ -43,7 +43,7 @@ Quant à mourir en rêve : les clés des songes y lisent en général la fin d�
 
 {{< cards "ar18 ar02 ar13" >}}
 
-La Lune, c’est la nuit, l’incertitude, le chemin dont on ne voit pas le bout. La Grande Prêtresse est de l’Eau, elle aussi — sa robe tombe comme une cascade — et elle garde une face cachée, comme l’eau dormante : une surface, et ce qu’il y a dessous. Quant à [la Mort](/fr/bibliotheque/cartes-tarot/la-mort/), elle ne parle pas de mourir non plus. C’est la moisson : on coupe pour pouvoir semer à nouveau. **Une image de rêve, comme une carte, pose une question avant de donner une réponse.**
+La Lune, c’est la nuit, l’incertitude, le chemin dont on ne voit pas le bout. La Grande Prêtresse est de l’Eau, elle aussi — sa robe ruisselle comme une chute d’eau — et elle garde une face cachée, comme l’eau dormante : une surface, et ce qu’il y a dessous. Quant à [la Mort](/fr/bibliotheque/cartes-tarot/la-mort/), elle ne parle pas de mourir non plus. C’est la moisson : on coupe pour pouvoir semer à nouveau. **Une image de rêve, comme une carte, pose une question avant de donner une réponse.**
 
 ## Utiliser le tarot sur un rêve {#methode}
 
@@ -51,16 +51,16 @@ La Lune, c’est la nuit, l’incertitude, le chemin dont on ne voit pas le bout
 2. Entourez l’élément : eau, feu, air, terre.
 3. Notez ce que vous avez ressenti au réveil. Ça en dit souvent plus que l’intrigue.
 4. Tirez une carte avec cette question : « Vers quoi ce rêve pointe-t-il dans ma journée ? » Pas « qu’est-ce qui va arriver ? ».
-5. Lisez la carte par son nombre, son élément et ses couleurs, puis posez-la à côté du rêve. Là où ils se rejoignent, regardez.
+5. Lisez la carte avec vos clés habituelles — chiffre, élément, couleurs —, puis posez-la à côté du rêve. Là où ils se rejoignent, regardez.
 6. Si rien ne résonne, notez-le aussi, et passez à autre chose.
 
 Les images qui reviennent valent la peine d’être suivies sur plusieurs semaines. Ce qui revient sans cesse, c’est souvent ce qu’on repousse sans cesse — et c’est là que commence le [travail sur l’ombre](/fr/blog/travail-sur-lombre/).
 
 ## Les rêves prédisent-ils l’avenir ? {#predire}
 
-Certaines personnes ont le sentiment d’avoir rêvé quelque chose qui s’est produit ensuite. Je n’ai pas compté mes rêves comme je compte mes lectures, donc je ne trancherai pas. Ce que je sais, c’est où je mets mon attention : je lis parfois l’avenir, mais je me concentre sur le présent, parce que la meilleure façon de s’assurer un avenir agréable, c’est de s’ancrer dans le présent. La nuit porte conseil, dit-on ; elle ne prédit pas pour autant. J’en parle davantage dans [ce que le tarot peut prédire, ou pas](/fr/blog/le-tarot-predit-il-lavenir/).
+Certaines personnes ont le sentiment d’avoir rêvé quelque chose qui s’est produit ensuite. Je n’ai pas compté mes rêves comme je compte mes lectures, donc je ne trancherai pas. Ce que je sais, c’est où je mets mon attention : je lis parfois l’avenir, mais je reste surtout dans le présent, parce que c’est en l’habitant pleinement qu’on se prépare un lendemain agréable. On dit que la nuit conseille ; on ne dit pas qu’elle prédit. J’en parle davantage dans [ce que le tarot peut prédire, ou pas](/fr/blog/le-tarot-predit-il-lavenir/).
 
-Rêver d’une personne disparue peut être une visite, un souvenir, ou votre tête qui range une semaine difficile — et vous êtes seule ou seul à pouvoir sentir laquelle. Si vos rêves vous empêchent de dormir, vous font peur nuit après nuit ou s’accompagnent de journées lourdes, c’est une porte pour un médecin ou un thérapeute plutôt que pour un jeu de cartes. J’ai écrit sur [l’endroit où se trouve cette porte](/fr/avertissements/#therapie), et sur ce que les cartes peuvent porter en attendant : une question plus douce, comme « qu’est-ce qui m’aiderait à me reposer cette semaine ? ».
+Rêver d’une personne disparue peut être une visite, un souvenir, ou votre tête qui range une semaine difficile — et vous êtes seule ou seul à pouvoir sentir laquelle. Si vos rêves vous empêchent de dormir, vous font peur nuit après nuit ou s’accompagnent de journées lourdes, c’est une porte pour un médecin ou un thérapeute plutôt que pour un jeu de cartes. J’ai noté [vers qui se tourner dans ce cas](/fr/avertissements/#therapie), et ce que les cartes peuvent offrir d’ici là : une question plus douce, comme « qu’est-ce qui m’aiderait à me reposer cette semaine ? ».
 
 ## Essayez pendant une semaine {#etape-suivante}
 

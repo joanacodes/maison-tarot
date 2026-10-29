@@ -53,9 +53,9 @@ Water flows, fills, reflects and takes the shape of its container. In my notes i
 
 An everyday example: the glass of water someone pours you when you arrive upset. Nobody has solved anything yet. But something is being looked after.
 
-## Where it appears in the deck {#where}
+## Cups, jugs, pools and a waterfall {#where}
 
-This page follows water close at hand. Rivers have [their own page](/library/tarot-symbols/river/), and so does [the sea](/library/tarot-symbols/sea/).
+This page follows water close at hand. [Rivers](/library/tarot-symbols/river/) and [the sea](/library/tarot-symbols/sea/) are read separately.
 
 On [Temperance](/library/tarot-cards/temperance/), the angel pours water from one cup into the other, one foot in a pool and one on the bank. Water handled with patience, neither held nor spilled.
 
@@ -83,7 +83,7 @@ Then the lenses. Water belongs with [the Cups and the Water element](/library/fo
 
 ## The other side {#flip-side}
 
-Water that isn’t looked after stagnates. The puddles of the Eight of Swords are the image: the feeling left lying where it fell. In my notes that card is being a prisoner of yourself while you have every tool — you can take off the blindfold.
+Water that isn’t looked after stagnates. The puddles of the Eight of Swords are the image: the feeling left lying where it fell. In my notes, that card is a mind locked in by its own thinking, with every way out within reach — and nothing stops the blindfold coming off.
 
 And too much water drowns. Fire destroys at once; neglected water destroys deeper, over longer.
 

@@ -5,7 +5,7 @@ translationKey: legal
 type: legal
 noindex: true
 ---
-This site is published from France. French law requires the information below (*mentions légales*).
+Maison Tarot’s publisher is based in France, and French law requires the information below (*mentions légales*).
 
 ## Publisher
 

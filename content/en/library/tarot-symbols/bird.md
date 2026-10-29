@@ -53,7 +53,7 @@ A bird lives in two places: it feeds on the ground and travels in the sky. That�
 
 What kind of bird, and what it’s doing, tells you the rest. Perched, diving, flying off, or sitting on a glove.
 
-## Where it appears in the deck {#where}
+## Ibis, dove, falcon, flock — and an eagle {#where}
 
 On [the Star](/library/tarot-cards/the-star/), a red bird with a long curved beak sits in a tree on the right, behind the kneeling woman. It’s usually read as an ibis. She pours; the bird watches, at rest after the storm of the Tower.
 
@@ -63,7 +63,7 @@ On the Nine of Pentacles, a woman in a garden of vines holds a bird on her glove
 
 Over the Page, the Queen and the King of Swords, small black birds cross the sky: a scattered flock above the Page, one bird high above the Queen, two side by side above the King. Swords are Air, the suit of thinking, and these are thoughts in flight.
 
-On the Wheel of Fortune and the World, an eagle is one of the four creatures in the corners — winged, with an open book, on the Wheel, a head in the clouds on the World. Among the four [fixed](/library/astrological-modes/fixed/) signs, it’s usually read as Scorpio.
+An eagle sits in one corner of the Wheel of Fortune, winged and reading a book, and in one corner of the World, where only its head shows among clouds. Among the four [fixed](/library/astrological-modes/fixed/) signs, it’s usually read as Scorpio.
 
 {{< cards "ar17 cuac pe09 swpa swqu swki ar10 ar21" >}}
 

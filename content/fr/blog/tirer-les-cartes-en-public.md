@@ -19,15 +19,15 @@ Tout le monde entend tout. En tête-à-tête, une phrase arrive sur une seule pe
 
 La pression joue dans les deux sens. Mes notes le disent : parfois on ne voit rien dans les cartes, soit par blocage de votre côté, quand la pression est trop forte, soit du côté de la personne, qui a peur de ce qu’elle pourrait entendre. Un public ajoute aux deux. Attendez-vous à un démarrage plus lent, sans combler le vide avec des suppositions.
 
-En public, la règle du silence sert plus que partout ailleurs. La personne lue ne me donne ni question ni contexte, si bien que la salle en sait exactement autant que moi. Quand quelque chose tombe juste, tout le monde voit que rien ne m’a été soufflé avant. [Pourquoi je demande qu’on ne me dise rien](/fr/blog/regle-du-silence-tarot/) a son propre article.
+En public, la règle du silence sert plus que partout ailleurs. La personne lue ne me donne ni question ni contexte, si bien que la salle en sait exactement autant que moi. Quand quelque chose tombe juste, tout le monde voit que rien ne m’a été soufflé avant. C’est tout l’intérêt de [demander qu’on ne me dise rien](/fr/blog/regle-du-silence-tarot/).
 
 ## Le consentement, deux fois {#consentement}
 
-Je demande toujours la permission avant de lire quelqu’un, où que l’on soit. En public, le consentement se donne deux fois : pour être lu, et pour être lu devant les autres. [La note sur les événements](/fr/avertissements/#evenements) le dit clairement : une lecture devant d’autres est une lecture devant d’autres, alors ne venez que si ça vous convient.
+Où que l’on soit, un oui passe avant la première carte. En public, le consentement se donne deux fois : pour être lu, et pour être lu devant les autres. [La note sur les événements](/fr/avertissements/#evenements) le dit clairement : une lecture devant d’autres est une lecture devant d’autres, alors ne venez que si ça vous convient.
 
 Aux événements de Maison Tarot, les gens s’inscrivent et sont tirés au sort : ils ont donc choisi d’y être. Je vérifie quand même à la table, avec une phrase qui rend le « non » facile : « Ça vous va d’être lue ici, devant tout le monde ? Aucun souci si ce n’est pas le cas. »
 
-Je ne lis pas quelqu’un du public qui ne s’est pas proposé, même pour rire : ce serait comme fouiller dans sa chambre. Et une personne qui ne sait pas qu’on la lit n’est pas ouverte ; on attrape une demi-phrase et on bâtit tout dessus.
+Je ne lis pas quelqu’un du public qui ne s’est pas proposé, même pour rire : ce serait comme fouiller dans sa chambre. Et quelqu’un qui ne se sait pas observé ne s’ouvre pas : on n’en saisit que des bribes, et on serait tenté d’en faire tout un récit.
 
 ## Ce qui se dit tout haut, et ce qui attend {#tout-haut}
 
@@ -39,7 +39,7 @@ Imaginons que le Trois d’Épées sorte pour quelqu’un lors d’une soirée. 
 
 En ligne, prévoyez le canal privé avant de commencer : un message après le direct, ou quelques minutes à la fin de l’appel. Si quelqu’un est ému, proposez de terminer à l’écart des autres ; [que faire quand quelqu’un pleure](/fr/blog/pleurer-pendant-un-tirage/) couvre le reste.
 
-Les sujets sur lesquels je ne lis pas restent hors de la table en public aussi : la santé, la mort, la grossesse, les procès, les décisions d’argent. Devant une foule, s’y tromper serait pire encore.
+Les sujets que j’écarte en privé, je les écarte aussi devant une salle : maladie, décès, grossesse, justice, argent à engager. Devant une foule, s’y tromper serait pire encore.
 
 ## Décliner une question avec douceur devant tout le monde {#decliner}
 
@@ -53,15 +53,15 @@ Remerciez pour la question et passez à la suite, sans sermon : personne ne devr
 
 ## Le corps qui tremble, la voix calme {#rester-calme}
 
-Quand le public est derrière un écran plutôt que dans la salle, [lire en direct](/fr/blog/tarot-en-live/) pose des problèmes à part, du décalage au fil des commentaires, et j’en parle dans un autre article. Dans une salle, c’est surtout votre corps que vous remarquerez.
+Quand le public est derrière un écran plutôt que dans la salle, [lire en direct](/fr/blog/tarot-en-live/) pose des problèmes à part, du décalage au fil des commentaires, que je traite séparément. Dans une salle, c’est surtout votre corps que vous remarquerez.
 
 Les mains peuvent trembler, le cœur s’emballer, la voix accélérer. C’est normal, et ça ne dit rien de la qualité du tirage. Ce qui aide quand c’est vous qui êtes à la table :
 
 - Ralentissez votre voix. Le trac fait accélérer, et la salle entend le calme avant d’entendre le contenu.
 - Commencez par décrire la carte, sans l’interpréter. Une description est toujours juste, et elle laisse au trac le temps de retomber.
 - Dites « rien ne vient pour l’instant » si rien ne vient. C’est honnête, et ça détend tout le monde.
-- Dites un raté à voix haute. Environ un tirage sur dix rate, à mon décompte, et vingt personnes apprennent plus d’un « celui-là est raté » honnête que d’un tirage rattrapé.
-- Arrêtez-vous avant d’être vidé. Il m’arrive de m’arrêter après deux heures de tirages, par prudence : interpréter demande de l’énergie.
+- Dites un raté à voix haute. Mes ratés tournent autour d’un sur dix, et vingt personnes apprennent plus d’un « celui-là est raté » honnête que d’un tirage rattrapé.
+- Arrêtez-vous avant d’être vidé. Interpréter demande de l’énergie ; pour ma part, après deux bonnes heures, il m’arrive de ranger les cartes, par prudence.
 
 ## Avant votre premier tirage en public {#avant}
 

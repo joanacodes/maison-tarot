@@ -46,7 +46,7 @@ On the Tree they stand in three columns: the right side expands (Chesed, mercy),
 
 ## The twenty-two paths and the four worlds {#paths}
 
-Sefer Yetzirah opens by saying the world was made through thirty-two paths of wisdom: the ten sefirot and the twenty-two letters of the Hebrew alphabet. On the Tree, the letters become the lines that join the spheres.
+Sefer Yetzirah opens by saying the world was made through thirty-two paths of wisdom: the ten sefirot and the Hebrew alphabet’s twenty-two letters. On the Tree, the letters become the lines that join the spheres.
 
 Later Kabbalah also speaks of four worlds, named after a verse of Isaiah (43:7): Atzilut (emanation), Beriah (creation), Yetzirah (formation) and Assiyah (action). The same ten sephirot, seen at four levels, from the closest to God down to the world where we act.
 

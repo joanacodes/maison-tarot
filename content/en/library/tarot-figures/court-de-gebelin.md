@@ -45,9 +45,9 @@ Volume 8 of *Le Monde primitif*, published in 1781, contains his essay on the ga
 
 {{< cards "ar12" >}}
 
-The same volume prints a second essay, signed only with initials, by the Comte de Mellet — identified by Michael Dummett and his co-authors as Louis-Raphaël-Lucrèce de Fayolle. Mellet called the cards the Book of Thoth, after the Egyptian god of writing. He set the twenty-two trumps beside the twenty-two letters of the Hebrew alphabet, and he described a way to tell fortunes with them.
+The same volume prints a second essay, signed only with initials, by the Comte de Mellet — identified by Michael Dummett and his co-authors as Louis-Raphaël-Lucrèce de Fayolle. Mellet called the cards the Book of Thoth, after the Egyptian god of writing. He set the twenty-two trumps beside the Hebrew alphabet, which has twenty-two letters too, and he described a way to tell fortunes with them.
 
-**From that volume on, tarot was no longer only a game: it was a book to be read.** Two years later, [Etteilla](/library/tarot-figures/etteilla/) began publishing a method for reading it, and [from card game to divination](/library/tarot-history/from-game-to-divination/) follows the rest of that decade.
+**From that volume on, tarot was no longer only a game: it was a book to be read.** Two years later, [Etteilla](/library/tarot-figures/etteilla/) began publishing a method for reading it, and the rest of that decade is told in [the history of tarot’s turn to divination](/library/tarot-history/from-game-to-divination/).
 
 ## What he did not do {#myths}
 

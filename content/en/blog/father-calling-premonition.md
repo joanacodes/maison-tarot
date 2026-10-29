@@ -43,7 +43,7 @@ When I look at it calmly, I can see at least three ways to read it. None of them
 
 *Timing.* A parent with a child abroad thinks of them often. Most of those moments pass without anyone noticing. Now and then one lines up with something on the other side, and that’s the one we remember; nobody tells the story of the day they heard nothing. Its weak point: it can explain almost anything, which means it can’t really be tested.
 
-*Something more.* That two people who love each other can reach each other across a distance in ways we don’t understand. My working definition of [magic](/blog/what-is-magic/) is the things we know exist but are unable to explain, and this sits close to that. Its weak point: I can neither prove it nor rule it out.
+*Something more.* That two people who love each other can reach each other across a distance in ways we don’t understand. My working definition of [magic](/blog/what-is-magic/) is what we’re sure is there without being able to say how it works, and this sits close to that. Its weak point: I can neither prove it nor rule it out.
 
 **I don’t have to choose one of these readings to keep the experience.**
 
@@ -55,7 +55,7 @@ Forcing a conclusion costs something either way. Turn it into proof, and you sta
 
 Stories like this also grow every time they’re told: the voice gets clearer, the timing more exact, the meaning bigger. I’ve tried to tell it here as it is, with the gaps left visible. If one day I understand more, I’ll add it. Until then, the gaps are part of the story too.
 
-For warnings I can’t check, I use a shelf labelled “sceptical, but if it happens, I was warned”; I explain it in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/). This wasn’t a warning, so that shelf doesn’t quite fit. If you have an experience like mine, I’d suggest a different one: things that happened, that you can’t explain, and that you don’t need to.
+For warnings I can’t check, I keep a holding shelf: doubted, not discarded, and if one ever comes true, I’ll know I was told. [Why a reading can be wrong](/blog/why-a-reading-can-be-wrong/) tells where that habit comes from. This wasn’t a warning, so that shelf doesn’t quite fit. If you have an experience like mine, I’d suggest a different one: things that happened, that you can’t explain, and that you don’t need to.
 
 There’s a lesson for reading here too. What arrived was tiny: a name. Most of what comes in a reading is small like that, and the discipline is the same. Say what happened, keep it apart from what you think it means, and let the meaning wait.
 

@@ -40,9 +40,9 @@ Le Roi, le Cavalier, la Reine et le Valet de Bâtons. Selon la règle de Waite, 
 
 Trois raisons.
 
-La première, c’est la règle du silence. La personne que je lis ne me dit rien avant : ni question, ni contexte. Choisir une significatrice suppose de connaître son âge, son apparence, son signe ou sa question — exactement ce que je lui ai demandé de garder pour elle. En ligne, je n’ai souvent qu’un pseudo et une voix ; je ne pourrais pas en choisir une même si je le voulais. J’explique cette règle dans [pourquoi la personne ne me dit rien](/fr/blog/regle-du-silence-tarot/).
+La première, c’est la règle du silence : la personne arrive sans rien me livrer de sa question ni de sa vie. Choisir une significatrice suppose de connaître son âge, son apparence, son signe ou sa question — exactement ce que je lui ai demandé de garder pour elle. En ligne, il m’arrive de ne connaître d’elle qu’un nom d’écran et le son de sa voix ; je ne pourrais pas en choisir une même si je le voulais. J’explique cette règle dans [pourquoi la personne ne me dit rien](/fr/blog/regle-du-silence-tarot/).
 
-La deuxième, ce sont les figures elles-mêmes. Je lis un rang comme un tempérament, pas comme une couleur de cheveux : [la Reine](/fr/bibliotheque/numerologie/reine/) est une façon d’exercer le pouvoir, quelle que soit la personne qui l’exerce. J’y reviens dans [les figures du tarot expliquées](/fr/blog/figures-du-tarot-valet-cavalier-reine-roi/). Assigner quelqu’un à une carte d’après son physique avant même le début du tirage, c’est dire aux cartes qui il est au lieu de les laisser le montrer.
+La deuxième, ce sont les figures elles-mêmes. Je lis un rang comme un tempérament, pas comme une couleur de cheveux : [la Reine](/fr/bibliotheque/numerologie/reine/) est une façon d’exercer le pouvoir, quelle que soit la personne qui l’exerce. C’est ainsi que je lis toutes [les figures du tarot](/fr/blog/figures-du-tarot-valet-cavalier-reine-roi/). Assigner quelqu’un à une carte d’après son physique avant même le début du tirage, c’est dire aux cartes qui il est au lieu de les laisser le montrer.
 
 La troisième, c’est l’arithmétique. Une significatrice laisse soixante-dix-sept cartes dans le jeu. Si la Reine de Coupes trône au centre pour représenter la personne, elle ne peut plus sortir dans le tirage — et c’était peut-être justement la carte qui devait sortir.
 

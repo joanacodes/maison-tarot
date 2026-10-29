@@ -1,7 +1,7 @@
 ---
 title: 'Le Pendu (The Hanged Man) — tarot Rider-Waite-Smith : lire la carte par ses
   clés de lecture'
-description: 'Le Pendu au tarot : une pause acceptée, le 12, l’Eau et Neptune. Ce que montre la carte de 1909, et comment la lire à l’endroit, renversée et au travail.'
+description: 'Le Pendu au tarot : un homme suspendu, calme, la tête en bas, le 12, l’Eau et Neptune — la pause acceptée, celle qu’on subit, et ce qu’elle montre au travail.'
 translationKey: card-ar12
 type: cards
 navTitle: Le Pendu
@@ -16,10 +16,7 @@ energy: Féminine
 kabbalah: Mem
 image: cards/ar12.webp
 h1: Le Pendu — <em>12</em>, l’Eau
-lede: 'Avant de chercher ce que « signifie » Le Pendu, regardez ce que vous avez déjà
-  : 12, l’élément Eau, Neptune. Vous lisez la carte. Le nombre dit 12 — 1 + 2 = 3 — créer, célébrer, le premier résultat ; l’élément dit les émotions, ce qui circule. Posez les deux
-  l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
-  de la page vous montre comment.'
+lede: 'Accroché par le pied à une poutre qui bourgeonne, un homme à l’auréole jaune voit le monde à l’envers, le visage paisible. Si vous cessiez de forcer, que verriez-vous autrement ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-eau
@@ -52,7 +49,7 @@ Remarquez ce qui manque : pas de corde au cou, pas de bourreau, pas de lutte, au
 
 Douze se réduit au [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/) : la machine se lance, la première chose fonctionne. Pour une carte où l’on reste suspendu, c’est surprenant, et c’est la clé. Le résultat du Pendu, c’est un nouveau point de vue, la première chose qui sort de la pause — et il y a un triangle dessiné dans ses propres bras.
 
-Le conseil du 3 lui va aussi : finir un projet avant d’en commencer un autre. Dans l’histoire d’Instagram, le 3, c’est le lancement qui tourne sans qu’on le pousse : les gens reviennent d’eux-mêmes. C’est la leçon du Pendu — parfois les choses avancent parce qu’on a arrêté de pousser.
+Le conseil du 3 lui va aussi : terminer ce qui est en cours avant d’attaquer autre chose. Instagram, une fois lancé, n’a plus eu besoin qu’on le pousse : les gens revenaient d’eux-mêmes. C’est la leçon du Pendu — parfois les choses avancent parce qu’on a arrêté de pousser.
 
 ## Par l’élément : Eau {#element}
 
@@ -64,13 +61,13 @@ Une eau calme, ce sont des émotions posées. Le risque, c’est l’autre visag
 
 La tunique bleue, c’est l’émotion, l’eau — l’élément de la carte, porté sur le corps ([le bleu](/fr/bibliotheque/couleurs-tarot/bleu/)). Les chausses rouges, c’est l’action, l’impulsion, mais à l’envers et à l’arrêt. L’auréole jaune, c’est la volonté et l’expression de soi, une lumière qui n’apparaît que dans cette position. Le fond gris, c’est la neutralité, l’absence de volonté particulière ([le gris](/fr/bibliotheque/couleurs-tarot/gris/)). Et les feuilles vertes sur le bois disent que la vie continue.
 
-Lue sans le titre : une énergie en suspens, des sentiments apaisés, et une tête qui s’est allumée.
+Bilan de la palette : une énergie en suspens, des sentiments apaisés, et une tête qui s’est allumée.
 
 ## Par l’astrologie : Neptune {#astrologie}
 
-La Golden Dawn rattachait cette carte à l’élément Eau lui-même ; le lien avec [Neptune](/fr/bibliotheque/astrologie/neptune/) est venu plus tard, chez les lecteurs modernes, et il tient. Neptune, c’est le rêve, l’intuition, l’illusion, le flou entre soi et le reste.
+Pour la Golden Dawn, cette carte appartenait à l’élément Eau lui-même ; le lien avec [Neptune](/fr/bibliotheque/astrologie/neptune/) est venu plus tard, chez les lecteurs modernes, et il tient. Neptune, c’est le rêve, l’intuition, l’illusion, le flou entre soi et le reste.
 
-Je m’en méfie un peu, parce que c’est le placement qu’on utilise le plus pour excuser ce qu’on ne veut pas regarder. Je le lis à la manière du Pendu : un point de vue à retourner, pas un brouillard où s’installer. Si l’astrologie n’est pas votre clé, laissez-la de côté.
+Je m’en méfie un peu, parce que c’est le placement qu’on utilise le plus pour excuser ce qu’on ne veut pas regarder. Je le lis à la manière du Pendu : un point de vue à retourner, pas un brouillard où s’installer. Sans astrologie, la carte se lit tout aussi bien : il suffit de retourner la tête avec lui.
 
 ## En lecture {#lecture}
 
@@ -92,7 +89,7 @@ Au travail, le Pendu décrit une pause, et il en existe trois sortes. Celle qu�
 
 Renversé, la pause ne sert plus à rien : le sacrifice que personne n’a demandé, ou chaque heure remplie de tâches pour ne jamais regarder votre travail sous un autre jour. Aucun des deux n’est un verdict.
 
-« Quand est-ce que ça va bouger ? » C’est la question qui accompagne cette lame. Attendre au travail est dur : vos journées, parfois vos revenus, sont entre les mains de quelqu’un d’autre ; je comprends qu’on veuille une date. Je n’en donne pas. Les cartes montrent bien comment vous vivez l’attente, mal le jour où elle finit ([ce que le tarot peut dire des dates](/fr/blog/tarot-quand/)). Une question plus douce : « Qu’est-ce que je vois d’ici que je ne voyais pas quand je courais ? » Et si la mise au placard ressemble à une poussée vers la sortie, les RH ou un élu du CSE peuvent vous dire où vous en êtes.
+« Quand est-ce que ça va bouger ? » C’est la question qui accompagne cette lame. Attendre au travail est dur : vos journées, parfois vos revenus, sont entre les mains de quelqu’un d’autre ; je comprends qu’on veuille une date. Je n’en donne pas. Les cartes montrent bien comment vous vivez l’attente, mal le jour où elle finit ([ce que le tarot peut dire des dates](/fr/blog/tarot-quand/)). Mieux vaut se demander : « D’ici, qu’est-ce qui m’apparaît et qui m’échappait quand je courais ? » Et si la mise au placard ressemble à une poussée vers la sortie, les RH ou un élu du CSE peuvent vous dire où vous en êtes.
 
 Cette semaine, notez tout ce que vous avez en cours au travail. Choisissez une chose à terminer et une à abandonner, puis regardez le reste à l’envers : qu’en feriez-vous si vous commenciez aujourd’hui ?
 
@@ -100,6 +97,6 @@ Cette semaine, notez tout ce que vous avez en cours au travail. Choisissez une c
 
 Voici une paire à lire vous-même : le Pendu, puis le Huit de Coupes. 12, donc 3, puis 8 — un premier résultat, puis quelque chose de construit qu’on quitte. Deux fois l’Eau : des sentiments du début à la fin. Du bleu et du gris sur une carte ; sur l’autre, une silhouette en rouge qui s’éloigne sous un ciel de nuit.
 
-La phrase que je dirais : « Vous attendez depuis un moment quelque chose qui compte pour vous, et pendant cette attente vous avez commencé à le voir autrement — assez pour que partir ne vous fasse plus peur. »
+Lue d’un trait, la paire me ferait dire : « Vous attendez depuis un moment quelque chose qui compte pour vous, et pendant cette attente vous avez commencé à le voir autrement — assez pour que partir ne vous fasse plus peur. »
 
-Puis la vérification. Y a-t-il quelque chose que la personne a arrêté de forcer ? L’idée de passer à autre chose lui semble-t-elle plus légère qu’avant ? Si ça ne tient pas, c’est un raté, et je préfère le dire que tordre la lecture pour qu’elle colle.
+Les questions, ensuite : y a-t-il quelque chose que la personne a arrêté de forcer ? L’idée de passer à autre chose lui semble-t-elle plus légère qu’avant ? Si rien ne s’est relâché chez elle, je préfère dire que j’ai raté plutôt que tordre la lecture pour qu’elle colle.

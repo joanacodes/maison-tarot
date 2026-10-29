@@ -9,9 +9,9 @@ tags: ["how long to learn tarot", "learn tarot", "tarot for beginners", "learnin
 image: "covers/how-long-to-learn-tarot.jpg"
 imageAlt: "A wall calendar by a window and, on the table below it, a single tarot card turned face up beside a closed deck."
 imagePrompt: "A paper wall calendar hanging by a window, and on the table below it a single tarot card face up beside a closed deck. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "You can do your first tarot reading today, in minutes: every person I’ve helped read managed it within one to three tries, once they looked at the card’s colour, number and element instead of reciting a meaning. The first month is for one card a day, then three, and for reading friends who tell you nothing. Fluency — reading a whole spread as one story and knowing when you’re wrong — takes months of regular practice and a notebook. It never quite finishes, and that’s fine."
+summary: "You can do your first tarot reading today, in minutes: everyone I’ve taught got there by their third attempt at the latest, once they looked at the card’s colour, number and element instead of reciting a meaning. The first month is for one card a day, then three, and for reading friends who tell you nothing. Fluency — reading a whole spread as one story and knowing when you’re wrong — takes months of regular practice and a notebook. It never quite finishes, and that’s fine."
 ---
-You can do your first tarot reading today, in minutes. Every person I've helped read managed it within one to three tries. Reading fluently — moving through a spread without stopping, and knowing when you're wrong — takes months of regular practice.
+You can do your first tarot reading today, in minutes. Of all the people I've helped, none needed more than three attempts. Reading fluently — moving through a spread without stopping, and knowing when you're wrong — takes months of regular practice.
 
 Here's the timeline as I've seen it, stage by stage.
 
@@ -36,7 +36,7 @@ Say the card is the Nine of Pentacles: a yellow sky over green vines, a nine, Ea
 
 It works fast because you aren't learning information; you're learning to let go.
 
-My own start went that way. My friends gave me my first deck for Christmas 2020. I started reading on 26 December, and my first reading was accurate — which surprised me, because I'd assumed I'd need training first.
+My own start went that way. The deck arrived from friends at Christmas 2020, my first, and I read with it the very next day, 26 December. That reading was accurate, which surprised me, as I'd thought some training would have to come first.
 
 ## The first month: one card, then three {#first-month}
 
@@ -52,7 +52,7 @@ Fluency is when you stop translating. Think of learning to drive: you can start 
 
 In tarot, it looks like this. You read five cards as one story instead of five separate meanings. You see the Queen of Cups and think of a kind of person rather than a definition. You notice that a spread is all Swords before you've read a single card. Within a few months of my first reading, I was reading for strangers in Facebook groups.
 
-The other half of fluency is knowing when you're wrong. That only comes from counting: what you said in one column, what was confirmed in the other. A few dozen counted readings show you your own pattern — which subjects you read well, where you invent. [How I count](/method/) is set out in full.
+The other half of fluency is knowing when you're wrong. That only comes from counting, with two columns side by side: your words, and what the person confirmed. A few dozen counted readings show you your own pattern — which subjects you read well, where you invent. [How I count](/method/) is set out in full.
 
 After that come the extra lenses — feminine and masculine energies, the astrological modes, astrology itself. They refine what you already see rather than replacing it, they're optional, and they're where the slow, pleasant part of learning lives. Take one at a time, for a few weeks each.
 
@@ -68,7 +68,7 @@ Books help with the lenses; for the numbers, I recommend Corrine Kenner's tarot 
 
 ## When is tarot “learned”? {#learned}
 
-Honestly, never quite. By my own count, about one reading in ten still misses for me, and I still learn from those.
+Honestly, never quite. I still miss now and then — about once every ten readings, on my tally — and I still learn from those.
 
 A more useful finish line: you read a card without reaching for the book, you can say “that one's a miss” without flinching, and you enjoy it. In my experience, people who practise a few times a week get there within months, not years.
 
@@ -76,4 +76,4 @@ A more useful finish line: you read a card without reaching for the book, you ca
 
 Draw one card now. Say its colour, its number and its element, then one sentence. That's day one of the timeline.
 
-If you'd rather start with someone beside you, every [workshop](/workshops/) begins with a card in the first ten minutes, and [the learning path](/learn-tarot/) puts the lenses in order.
+If you'd prefer company for those first steps, every [workshop](/workshops/) gets a card into your hands before ten minutes have passed, and [the learning path](/learn-tarot/) sets out the lenses in order.

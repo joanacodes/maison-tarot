@@ -1,7 +1,7 @@
 ---
 title: 'Cavalier de Bâtons (Knight of Wands) — tarot Rider-Waite-Smith : lire la carte
   par ses clés de lecture'
-description: 'Cavalier de Bâtons : un chevalier sur un cheval cabré, le panache comme une flamme. Lisez le départ, l’élan et leur excès par le rang, le Feu, l’Air et les couleurs.'
+description: 'Cavalier de Bâtons : un cheval cabré dans le désert, des rubans comme des flammes. Le départ, l’élan et la fougue qui désarçonne, lus par le rang, le Feu et l’Air.'
 translationKey: card-wakn
 type: cards
 navTitle: Cavalier de Bâtons
@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/wakn.webp
 h1: Cavalier de Bâtons — <em>le Cavalier</em>, l’Air de feu
-lede: 'Avant de chercher ce que « signifie » Cavalier de Bâtons, regardez ce que vous
-  avez déjà : le Cavalier, l’élément Air de Feu. Vous lisez la carte. Le nombre dit
-  le Cavalier — l’action, la quête, l’excès ; l’élément dit l’élan, ce qu’on lance.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'En plein désert, un cheval se cabre sous un chevalier aux rubans couleur de flamme, sans aller nulle part encore. Toute cette énergie, où voulez-vous la lancer, et à quelle allure ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -80,6 +76,6 @@ Renversé, le cheval désarçonne son cavalier : des projets abandonnés à mi-c
 
 Un tirage hypothétique, pour cette page : le Cavalier de Bâtons sur son cheval cabré, puis le [Sept de Pentacles](/fr/bibliotheque/cartes-tarot/sept-de-pentacles/). Le Cavalier puis 7 — l’action, puis la patience et l’analyse avant d’agir ; le Feu puis la Terre — la vitesse, puis la croissance lente ; des flammes rouges et orange, puis un homme appuyé sur son outil, qui regarde un buisson chargé de pièces.
 
-La phrase : « Vous voulez partir maintenant, et quelque chose que vous avez planté a besoin d’une saison de plus. Partir est possible ; partir avant la récolte, c’est ça qu’il faut peser. »
+Cheval cabré d’un côté, buisson qui mûrit de l’autre : « Vous voulez partir maintenant, et quelque chose que vous avez planté a besoin d’une saison de plus. Partir est possible ; partir avant la récolte, c’est ça qu’il faut peser. »
 
-Puis vous vérifiez, avec douceur : « Y a-t-il quelque chose de lent dans votre vie que vous avez envie de lâcher ? » Sa réponse décide si la lecture tient. Si elle ne tient pas, elle ne tient pas — notez le raté et passez à la suite.
+Reste à le demander à la personne, avec douceur : « Y a-t-il quelque chose de lent dans votre vie que vous avez envie de lâcher ? » Sa réponse décide si la lecture tient. Si rien de lent ne lui pèse, inscrivez le raté tel quel, sans éperonner la lecture pour la faire avancer.

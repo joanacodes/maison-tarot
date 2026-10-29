@@ -8,7 +8,7 @@ weight: 10
 categories: ["Kabbale"]
 tags: ["Yesod", "Kabbale et tarot", "Arbre de Vie", "Neuf du tarot", "Lune", "sephirot"]
 h1: "Yesod — le <em>Fondement</em>, là où tout se rassemble"
-lede: "Yesod est la neuvième sephirah : le fondement, le canal qui rassemble tout ce qui vient d’en haut et le transmet au monde. La Golden Dawn lui a donné les quatre Neuf et la Lune — la dernière ligne droite, et la question de ce sur quoi tout repose."
+lede: "Yesod est la neuvième sephirah : le fondement, le canal qui rassemble tout ce qui vient d’en haut et le transmet au monde. Les quatre Neuf et la Lune y sont attachés — la dernière ligne droite, et ce sur quoi tout repose."
 related:
 - /bibliotheque/kabbale
 - /bibliotheque/kabbale/arbre-de-vie
@@ -16,7 +16,7 @@ related:
 - /bibliotheque/astrologie/lune
 faq:
 - q: "Quelles cartes du tarot correspondent à Yesod ?"
-  a: "Les quatre Neuf : Bâtons, Coupes, Épées et Pentacles. Dans le système de la Golden Dawn, Yesod n’a pas de figure attitrée ; les figures vont à Hokhmah, Binah, Tiferet et Malkhout."
+  a: "Les quatre Neuf, un dans chaque couleur. Selon la Golden Dawn, Yesod n’a pas de figure attitrée ; les figures vont à Hokhmah, Binah, Tiferet et Malkhout."
 - q: "La Lune est-elle aussi la planète de Yesod dans la Kabbale juive ?"
   a: "Non. Dans les sources juives, la lune, qui n’a pas de lumière propre, est une image de Malkhout, la dixième sephirah. Donner la Lune à Yesod est un choix de la Golden Dawn."
 gallery: []
@@ -44,11 +44,11 @@ Sur l’échelle des grades de la Golden Dawn, Yesod est devenue la deuxième ma
 | [Neuf d’Épées](/fr/bibliotheque/cartes-tarot/neuf-de-epees/) | Seigneur du Désespoir et de la Cruauté (Mars en Gémeaux) | tous les soucis qui passent par une seule tête, la nuit |
 | [Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/) | Seigneur du Gain matériel (Vénus en Vierge) | le jardin qui a pris des années, enfin savouré |
 
-En tant que nombre, le [9](/fr/bibliotheque/numerologie/chiffre-9/), c’est la ligne d’arrivée, la fin d’une étape, les derniers efforts, l’introspection, la patience — sans s’arrêter pour autant. Dans mes notes, le Neuf de Pentacles, c’est profiter de ce qui vient, avec gratitude pour tout ce qu’on a ; le Neuf d’Épées, c’est sortir d’un cauchemar, d’une longue période troublée, avec une protection au-dessus de soi. Yesod ajoute le rassemblement. Avec cette clé de lecture, un Neuf, c’est tout ce que le cycle a construit, réuni avant d’atterrir.
+En tant que nombre, le [9](/fr/bibliotheque/numerologie/chiffre-9/) annonce l’arrivée toute proche : un cycle qui se termine, l’heure des derniers efforts et du retour sur soi, avec de la patience, mais sans s’arrêter. Dans mes notes, le Neuf de Pentacles savoure ce qui arrive et remercie pour ce qu’il a ; le Neuf d’Épées émerge d’un mauvais rêve, d’une longue période difficile, et quelque chose veille sur lui. Yesod ajoute le rassemblement : un Neuf, c’est tout ce que le cycle a construit, réuni avant d’atterrir.
 
 ## Yesod et l’astrologie : la Lune {#astrologie}
 
-La Golden Dawn donne à Yesod la [Lune](/fr/bibliotheque/astrologie/lune/) : les humeurs, la mémoire, les habitudes, ce qui change et revient. La Lune, la plus rapide et la plus proche des sept, est la dernière planète à descendre l’Arbre.
+À Yesod échoit la [Lune](/fr/bibliotheque/astrologie/lune/) : les humeurs, la mémoire, les habitudes, ce qui change et revient. La Lune, la plus rapide et la plus proche des sept, est la dernière planète à descendre l’Arbre.
 
 Le cas le plus net est le Neuf de Bâtons : Yesod dans la série du Feu, la Lune en Sagittaire. Un homme à la tête bandée, appuyé sur son bâton, huit autres plantés derrière lui comme une palissade : la Lune, ici, c’est la garde de nuit, fatiguée et encore debout.
 
@@ -56,9 +56,9 @@ Dans les sources juives, la lune, qui brille d’une lumière empruntée, est un
 
 ## Yesod dans un tirage {#tirage}
 
-Ce que Yesod peut apporter, c’est une question sur la base : sur quoi tout cela repose-t-il ?
+Yesod ramène le tirage à sa base : sur quoi tout cela repose-t-il ?
 
-Imaginons le Neuf de Coupes à côté du Cinq de Coupes. Le souhait exaucé, et trois coupes renversées. Avec Yesod, la question devient : sur quoi repose cette satisfaction, et la perte d’à côté a-t-elle été regardée, ou seulement enjambée ?
+Mettons le Neuf de Coupes à côté du Cinq de Coupes. Le souhait exaucé, et trois coupes renversées. Avec Yesod, la question devient : sur quoi repose cette satisfaction, et la perte d’à côté a-t-elle été regardée, ou seulement enjambée ?
 
 Sur l’Arbre de la Golden Dawn, le sentier qui descend de Yesod à Malkhout porte la carte du Monde. Un Neuf à côté du Monde, c’est une étape sur le point d’atterrir dans la vraie vie — continuez d’avancer, comme dit le nombre.
 

@@ -61,7 +61,7 @@ Every number also has its cards. A life path 7 points to [the Chariot](/library/
 
 {{< cards "ar07 cu07 sw07 pe07" >}}
 
-The Seven of Cups is indecision, too many choices. The Seven of Swords leaves things behind and still harvests a lot. The Seven of Pentacles leans on his hoe and looks at what’s growing. Three ways of pausing before the next move.
+The Seven of Cups stalls in front of more options than anyone could choose from. The Seven of Swords leaves things behind and still harvests a lot. The Seven of Pentacles leans on his hoe and looks at what’s growing. Three ways of pausing before the next move.
 
 If you’d rather land on a major than on a digit, [the tarot birth card](/blog/tarot-birth-card/) starts from the same date but adds it another way: the day, the month and the year as whole numbers, then the digits of the total, stopping as soon as the result is 22 or under. For 3 August 1976, that’s 3 + 8 + 1976 = 1987, then 25, then 7: the Chariot again.
 

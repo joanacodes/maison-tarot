@@ -33,7 +33,7 @@ Trois choses se sont enchaînées.
 
 ### Une scène sur chaque carte
 
-Dans les jeux qu’on utilisait avant, à commencer par le tarot de Marseille que beaucoup de Français ont d’abord vu, les mineures montrent leurs symboles disposés en motif : le Cinq de Coupes, ce sont cinq coupes rangées sur la carte. Smith a dessiné une scène pour chacune. Son Trois d’Épées, c’est un cœur percé de trois lames sous la pluie ; son Huit de Pentacles, un artisan à son établi qui sculpte une pièce après l’autre. Un débutant peut commencer à les lire sans livre.
+Dans les jeux qu’on utilisait avant, à commencer par le tarot de Marseille que beaucoup de Français ont d’abord vu, les mineures montrent leurs symboles disposés en motif : le Cinq de Coupes, ce sont cinq coupes rangées sur la carte. Smith a dessiné une scène pour chacune. Son Trois d’Épées, c’est un cœur percé de trois lames sous la pluie ; son Huit de Pentacles, un ouvrier qui cisèle ses pentacles un à un. Un débutant peut commencer à les lire sans livre.
 
 {{< cards "sw03 cu05 pe08" >}}
 
@@ -51,7 +51,7 @@ Smith elle-même a été oubliée pendant des décennies ; des expositions comme
 
 ## Pourquoi j’enseigne avec ce jeu {#pourquoi-ce-jeu}
 
-Parce que les clés de lecture que j’enseigne se lisent directement sur le dessin. Le ciel jaune derrière le Mat et le Magicien dit la joie et la volonté avant même que vous connaissiez leur nom. Le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/) est, dans mes notes, la carte la plus lourde du jeu : la perte, l’émotion sombre, la solitude face à ses problèmes. Et pourtant Smith a dessiné deux coupes encore debout derrière la silhouette en cape noire, et un pont sur la rivière. Vous voyez le moins et le plus d’un seul regard.
+Parce que les clés de lecture que j’enseigne se lisent directement sur le dessin. Le ciel jaune derrière le Mat et le Magicien dit la joie et la volonté avant même que vous connaissiez leur nom. De tout le jeu, le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/) est celui que mes notes traitent le plus durement : une perte, un cœur assombri, une solitude face au malheur. Et pourtant Smith a laissé deux coupes intactes dans le dos du personnage drapé de noir, et un pont sur la rivière. Vous voyez le moins et le plus d’un seul regard.
 
 C’est ce qu’une scène apporte à un débutant : quelque chose de juste à dire avant d’avoir appris quoi que ce soit par cœur. La lecture reste la vôtre ; un bon dessin vous aide seulement à démarrer.
 

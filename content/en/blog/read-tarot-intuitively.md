@@ -9,21 +9,21 @@ tags: ["intuitive tarot reading", "tarot intuition", "read tarot without a book"
 image: "covers/read-tarot-intuitively.jpg"
 imageAlt: "A person at a kitchen table looking down at a single tarot card, a closed notebook and a pencil beside it"
 imagePrompt: "A person seen from behind and slightly to the side, sitting at a kitchen table and looking down at a single tarot card, a closed notebook and a pencil beside it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Reading tarot intuitively means looking at a card and saying the impressions it sets off — an image, a word, a feeling — before you know whether they’re right, instead of reciting a memorised meaning. Letting go is the practice; checking is what keeps it honest. Read for someone who tells you nothing, write down what you said and what they confirmed, and count the misses. Then develop it slowly: one card a day, then three, then a person. Going too far too fast is how readers lose their footing."
+summary: "Reading tarot intuitively means looking at a card and saying the impressions it sets off — an image, a word, a feeling — before you know whether they’re right, instead of reciting a memorised meaning. Letting go is the practice; checking is what keeps it honest. Read for someone who tells you nothing, keep a written record of your words next to their confirmations, and count the misses. Then develop it slowly: one card a day, then three, then a person. Going too far too fast is how readers lose their footing."
 ---
 Reading tarot intuitively means saying what a card sets off in you — an image, a word, a feeling — before you know whether it's right. Then you check. Letting go is the practice; checking is what stops it from turning into wishful thinking.
 
 ## What intuitive tarot reading is {#what-it-is}
 
-Intuitive reading is reading from the impressions a card gives you rather than from a meaning you learned. The card is a starting point, not a dictionary entry.
+Intuitive reading means working from what a card stirs in you, not from a meaning you memorised. The card is a starting point, not a dictionary entry.
 
 Those impressions come in different shapes. Some people see images, some hear a word or a sentence, some feel a sensation in the body or an emotion, now and then even a smell. Most of us are sharper in one channel than the others, and no channel is better.
 
-Say you draw the Eight of Swords. A book will tell you something like restriction. You look, and notice the blindfold, the feet left free, the swords that don't quite close the circle. What comes might be: "Someone waiting for a permission they don't need." That sentence is yours, and it's what a reading is made of. My own note on this card is close: a prisoner of yourself while you hold every tool — you can take the blindfold off.
+Say you draw the Eight of Swords. A book will tell you something like restriction. You look, and notice the blindfold, the feet left free, the swords that don't quite close the circle. What comes might be: "Someone waiting for a permission they don't need." That sentence is yours, and it's what a reading is made of. My own note on this card is close: you're the one keeping yourself captive, with everything you'd need already to hand; nothing stops you lifting the blindfold.
 
 {{< cards "sw08" >}}
 
-The cards help, but they aren't the source. They're a medium that lets your usual thoughts and assumptions step aside long enough for you to notice what you'd otherwise talk over.
+The cards help, but they aren't the source. They're a medium: while your eyes rest on the picture, your habitual guesses quiet down, and you notice what you'd otherwise talk over.
 
 ## How to let go when you read {#letting-go}
 
@@ -36,7 +36,7 @@ Letting go is the only real technique, and it's harder than it sounds, because y
 
 If nothing comes, start from what's visible. The [colour grid](/library/tarot-colours/) is the fastest way in: yellow says joy and self-expression before you've remembered which card you're holding. Often the first plain observation unlocks the rest.
 
-Expect the same card to read differently from one person to another, and from one day to the next. That isn't inconsistency. It's the point.
+Expect the same card to say one thing to you and another to the next reader, and to shift again tomorrow. That isn't inconsistency. It's the point.
 
 ## When nothing comes {#nothing-comes}
 
@@ -68,4 +68,4 @@ Empathy helps — feeling and understanding the other person's emotions — as l
 
 Seven mornings, one card each. Write three lines, following step 2 above. On the eighth day, find one person who'll tell you nothing, read for them, and fill both columns.
 
-If you'd like company for the first try, every [workshop](/workshops/) starts with a card in the first ten minutes and the explanation after.
+If you'd like company for the first try, every [workshop](/workshops/) opens on a card and leaves the explaining until afterwards.

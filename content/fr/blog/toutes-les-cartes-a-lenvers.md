@@ -25,7 +25,7 @@ Si vous n’avez jamais retourné de cartes exprès et qu’elles sont toutes in
 
 Dix sur dix dans une croix celtique, en revanche, c’est environ une chance sur mille avec un mélange honnête. **Avant de lire un tirage entièrement inversé comme un message, écartez d’abord les mains qui l’ont mélangé.**
 
-La solution prend une minute : remettez toutes les cartes à l’endroit, retournez la moitié du paquet et mélangez comme d’habitude. [Toutes les façons de mélanger se valent](/fr/blog/comment-melanger-cartes-tarot/), du moment que vous posez les cartes de la même manière à chaque fois.
+La solution prend une minute : remettez toutes les cartes à l’endroit, retournez la moitié du paquet et mélangez comme d’habitude. [Aucune technique de mélange n’est meilleure qu’une autre](/fr/blog/comment-melanger-cartes-tarot/), pourvu que vous posiez les cartes toujours de la même façon.
 
 ## Si le mélange était bon : ce que ça peut dire {#ce-que-ca-dit}
 
@@ -41,11 +41,11 @@ Imaginons que quelqu’un ne vous dise rien, mélange honnêtement et tire trois
 
 {{< cards "waac pe08 ar19" >}}
 
-D’abord à l’endroit. L’As de Bâtons, c’est une main qui sort d’un nuage et tient un bâton couvert de jeunes feuilles vertes : un 1, le Feu, l’étincelle de quelque chose de neuf, et le vert de la croissance. Le Huit de Pentacles, c’est un artisan à son établi qui grave des pièces une à une : un 8, la Terre, la maîtrise gagnée à force d’effort. Le Soleil, c’est un enfant sur un cheval blanc sous un immense soleil, des tournesols derrière un mur, du jaune partout — la joie, l’expression de soi. Son nombre, 19, se réduit à 10, qui est dans [le cycle des nombres le couloir](/fr/bibliotheque/numerologie/chiffre-10/) entre deux pièces.
+D’abord à l’endroit. L’As de Bâtons, c’est un bâton qui bourgeonne de feuilles vertes, tendu par une main surgie d’un nuage : un 1, le Feu, l’étincelle de quelque chose de neuf, et le vert de la croissance. Le Huit de Pentacles, c’est un homme courbé sur son travail, qui façonne ses disques d’or l’un après l’autre : un 8, la Terre, la maîtrise gagnée à force d’effort. Le Soleil, c’est un enfant sur un cheval blanc sous un immense soleil, des tournesols derrière un mur, du jaune partout — la joie, l’expression de soi. Son nombre, 19, se réduit à 10, qui est dans [le cycle des nombres le couloir](/fr/bibliotheque/numerologie/chiffre-10/) entre deux pièces.
 
 À l’endroit, la ligne raconterait une histoire : une étincelle, le travail, puis la joie d’une étape bouclée.
 
-Maintenant, les trois à l’envers. L’étincelle est là, mais personne ne l’a ramassée. Le travail continue, le nez dans le guidon. La joie attend une permission. La phrase que je dirais à voix haute : « Il y a quelque chose que vous aimeriez commencer, vous avez le savoir-faire pour ça, et vous continuez à travailler au lieu de vous lancer. Que feriez-vous si vous vous autorisiez à y prendre plaisir ? »
+Maintenant, les trois à l’envers. L’étincelle est là, mais personne ne l’a ramassée. Le travail continue, le nez dans le guidon. La joie attend une permission. Dit à la personne, cela donne : « Il y a quelque chose que vous aimeriez commencer, vous avez le savoir-faire pour ça, et vous continuez à travailler au lieu de vous lancer. Que feriez-vous si vous vous autorisiez à y prendre plaisir ? »
 
 Puis vous demandez si ça résonne. Si non, c’est raté : vous le notez, et vous ne retirez pas les cartes pour les avoir à l’endroit.
 

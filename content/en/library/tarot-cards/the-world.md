@@ -15,10 +15,7 @@ energy: Feminine
 kabbalah: Tav
 image: cards/ar21.webp
 h1: The World — <em>21</em>, Earth
-lede: 'Before looking up what The World “means”, look at what you already have: 21,
-  the element Earth, Saturn. You’re reading the card. The number says 21 — 2 + 1 = 3 — to create, to celebrate, the first result; the element says matter, what holds. Lay the two over
-  each other, add the colours, and the card is already talking — the rest of the page
-  shows you how.'
+lede: 'Wrapped in a purple scarf, a woman dances inside an oval wreath tied with red ribbons, a wand in each hand, four creatures watching from the corners. What have you finished, and can you let it close?'
 related:
 - /library/numerology
 - /library/four-elements/earth-element
@@ -47,9 +44,9 @@ Nothing on the card is unfinished. No ground under her feet, no road, no task le
 
 ## By number: 21 {#number}
 
-Twenty-one comes back to [3](/library/numerology/number-3/), the number of the Empress: good rhythm, the machine running, a contract that works. Its advice is to finish one project before starting another; its minus is starting new things before the old ones are done.
+Twenty-one comes back to [3](/library/numerology/number-3/), the number of the Empress: good rhythm, the machine running, a contract that works. Its advice: bring one project home before you open the next; its minus is starting new things before the old ones are done.
 
-On the last card of the major arcana, 3 says the work has become a result, and the result keeps turning on its own. In the Instagram story, 3 is the launch that works: people sign up, post and come back, and for the first time the thing runs without being pushed. That’s the dancer in the wreath: no effort showing, everything moving.
+On the last card of the major arcana, 3 says the work has become a result, and the result keeps turning on its own. People signing up, posting and coming back, with nobody pushing them: that was Instagram’s 3, the launch that worked. That’s the dancer in the wreath: no effort showing, everything moving.
 
 ## By element: Earth {#element}
 
@@ -63,7 +60,7 @@ The [green](/library/tarot-colours/green/) of the wreath: growth, life, prosperi
 
 ## By astrology: Saturn {#astrology}
 
-In the Golden Dawn tradition, the World belongs to [Saturn](/library/astrology/saturn/), and to Earth as well. Saturn is the hardest lesson: where you’re limited, made to prove yourself, late on what you wanted — and where, in time, you become solid precisely because it was hard. When I tested astrology box by box, Saturn was one of the three placements that held 75 to 90% of the time, and that result is why I kept astrology at all. So I read this card as Saturn’s reward: what you ended up building.
+The Golden Dawn assigned the World to [Saturn](/library/astrology/saturn/), and to Earth as well. Saturn is the hardest lesson: where you’re held back and kept waiting, until the difficulty itself is what makes you strong. When I tested astrology box by box, Saturn was one of the three placements that held 75 to 90% of the time, and that result is why I kept astrology at all. So I read this card as Saturn’s reward: what you ended up building.
 
 ## In a reading {#reading}
 

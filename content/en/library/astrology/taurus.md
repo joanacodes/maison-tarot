@@ -24,13 +24,10 @@ related:
 - /library/astrological-modes/fixed
 - /library/astrology/venus
 faq:
-- q: Which tarot card corresponds to Taurus?
-  a: The Hierophant, in the Golden Dawn tradition taken up by the Rider-Waite-Smith.
-    When it comes out, the sign gives its verb, element and mode at once. The Empress
-    is Venus's card; Venus rules the sign.
-- q: 'I''m a Taurus: is this card ''my'' card?'
-  a: A way in, not an identity. The card says the same thing to anyone; your sign
-    only helps you recognise it faster. Astrology is not an excuse.
+- q: 'Which tarot card corresponds to Taurus?'
+  a: 'The Hierophant, the keeper of what’s handed down: a fitting card for the sign that guards and maintains. Venus, Taurus’s ruling planet, has a card of its own as well — the Empress.'
+- q: 'I’m a Taurus: is the Hierophant ‘my’ card?'
+  a: 'Only as a door you may find more easily. For a Leo or a Libra, the Hierophant means the same tradition and the same habit, and a Taurus can’t hide behind the sign to refuse a change the card is pointing at.'
 gallery:
 - src: "visuals/sign-taurus/1.jpg"
   title: "A sense of beauty"
@@ -77,7 +74,7 @@ The keeper of the garden, the one who maintains; conservative Taurus, the opposi
 
 ## Its card: The Hierophant {#card}
 
-When [the Hierophant](/library/tarot-cards/the-hierophant/) comes out, Taurus is there: something handed down and kept — a trade, a method, a tradition, the way things have always been done. Well placed, it's knowledge that lasts because someone looked after it. Badly placed, it's a rule followed out of habit, and the change Taurus refuses to consider.
+[The Hierophant](/library/tarot-cards/the-hierophant/) brings Taurus in with something handed down and kept — a trade, a method, a tradition, the way things have always been done. At best, knowledge that lasts because someone looked after it; at worst, a rule followed out of habit, and the change Taurus refuses to consider.
 
 {{< cards "ar05" >}}
 

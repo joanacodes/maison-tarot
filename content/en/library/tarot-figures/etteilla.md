@@ -43,7 +43,7 @@ His first book came out in 1770: *Etteilla, ou manière de se récréer avec un 
 
 Tarot came later, after [Court de Gébelin](/library/tarot-figures/court-de-gebelin/) declared it an Egyptian book in 1781. Etteilla took up the idea and ran with it. Between 1783 and 1785 he published *Manière de se récréer avec le jeu de cartes nommées tarots* — how to amuse oneself with the cards called tarots — in four parts. In 1788 he gathered his students into a society of “interpreters of the Book of Thoth”. Around 1788–1789 he issued his own tarot, usually described as the first deck made for divination rather than for play. He redrew the trumps, renamed and renumbered many of them, and printed a meaning at each end of every card: one to read upright, one reversed.
 
-**Etteilla made tarot reading something you could learn from a book and buy in a box.** His students carried his meanings on, and they fed into the lists that later occultists gave for the cards — [Arthur Edward Waite](/library/tarot-figures/arthur-edward-waite/) among them. A generation later, [Mademoiselle Lenormand](/library/tarot-figures/marie-anne-lenormand/) would make the card reader a celebrity. The wider story is on [from card game to divination](/library/tarot-history/from-game-to-divination/).
+**Etteilla made tarot reading something you could learn from a book and buy in a box.** His students carried his meanings on, and they fed into the lists that later occultists gave for the cards — [Arthur Edward Waite](/library/tarot-figures/arthur-edward-waite/) among them. A generation later, [Mademoiselle Lenormand](/library/tarot-figures/marie-anne-lenormand/) would make the card reader a celebrity. The wider story is [on the history page for that period](/library/tarot-history/from-game-to-divination/).
 
 ## What he did not do {#myths}
 
@@ -57,7 +57,7 @@ And his deck is not an Egyptian book restored. It is a Paris design of the 1780s
 
 Three habits many readers share come from his table: reversed cards with their own meaning, a card that stands for the person being read, and cards laid out in a set pattern. You don’t have to use any of them. It helps to know they were one man’s choices in the 1770s and 1780s, not rules handed down from Egypt.
 
-On reversals, I don’t learn a second list of 78 meanings. A reversed card is the same card, slowed down or in excess, and [my shortcut for reversed cards](/blog/reversed-tarot-cards/) shows how to read it that way.
+On reversals, I don’t learn a second list of 78 meanings. To me a reversal is the upright meaning gone sluggish or gone overboard; [my shortcut for reversed cards](/blog/reversed-tarot-cards/) shows how to read it that way.
 
 And one difference I’ll name plainly. Etteilla sold readings; that was his living, and plenty of honest readers are paid for their time today. My own choice is different: I teach, and the readings I give are free, drawn at random at [Maison Tarot events](/events/).
 

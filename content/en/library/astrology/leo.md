@@ -23,12 +23,10 @@ related:
 - /library/astrological-modes/fixed
 - /library/astrology/sun
 faq:
-- q: Which tarot card corresponds to Leo?
-  a: Strength, in the Golden Dawn tradition taken up by the Rider-Waite-Smith. When
-    it comes out, the sign gives its verb, element and mode at once.
-- q: 'I''m a Leo: is this card ''my'' card?'
-  a: A way in, not an identity. The card says the same thing to anyone; your sign
-    only helps you recognise it faster. Astrology is not an excuse.
+- q: 'Which tarot card corresponds to Leo?'
+  a: 'Strength. The lion in the picture is Leo’s animal, and a woman quiets it with her hands instead of fighting it.'
+- q: 'I’m a Leo: is Strength ‘my’ card?'
+  a: 'Strength speaks to everyone who draws it about courage held gently. Your sign might help you see the lion sooner. It doesn’t give pride a pass when the card asks for the quiet kind of courage.'
 gallery:
 - src: "visuals/sign-leo/1.jpg"
   title: "Play, wholeheartedly"
@@ -75,7 +73,7 @@ The opera singer; kids playing Action Man.
 
 ## Its card: Strength {#card}
 
-When [Strength](/library/tarot-cards/strength/) comes out, Leo is there: mastery through gentleness, the hand on the lion's jaw. Well placed, it's the courage that doesn't need to shout. Badly placed, it's the need to be seen coming before what you do.
+Leo's card is [Strength](/library/tarot-cards/strength/): mastery through gentleness, the hand on the lion's jaw. Its good version is the courage that doesn't need to shout; its bad one, the need to be seen coming before what you do.
 
 {{< cards "ar08" >}}
 

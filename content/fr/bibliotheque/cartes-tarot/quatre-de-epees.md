@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/sw04.webp
 h1: Quatre d’Épées — <em>quatre</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » Quatre d’Épées, regardez ce que vous
-  avez déjà : quatre, l’élément Air, Jupiter en Balance. Vous lisez la carte. Le nombre
-  dit quatre — les fondations, la stabilité ; l’élément dit le mental, ce qu’on décide.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Gisant sur son tombeau, les mains jointes, un chevalier repose sous trois épées raccrochées au mur et un petit vitrail coloré. Quand vous êtes-vous accordé une vraie pause, la dernière fois ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-air
@@ -63,7 +59,7 @@ Surtout du pâle : des murs blanc cassé et [gris](/fr/bibliotheque/couleurs-tar
 
 ## Par l’astrologie : Jupiter en Balance {#astrologie}
 
-Dans la tradition Golden Dawn, le Quatre d’Épées correspond à [Jupiter](/fr/bibliotheque/astrologie/jupiter/) dans le troisième décan de la Balance. Jupiter, c’est l’expansion et la générosité ; la Balance, l’équilibre. Ensemble : un équilibre accordé généreusement — du temps, de l’espace, une trêve assez longue pour récupérer. Le revers de Jupiter, c’est l’excès : un repos qui s’étend jusqu’à devenir de l’évitement. Une clé facultative ; le nombre et l’élément portent déjà la carte.
+Le Quatre d’Épées relève du troisième décan de la Balance, sous [Jupiter](/fr/bibliotheque/astrologie/jupiter/). Jupiter, c’est l’expansion et la générosité ; la Balance, l’équilibre. Ensemble : un équilibre accordé généreusement — du temps, de l’espace, une trêve assez longue pour récupérer. Le revers de Jupiter, c’est l’excès : un repos qui s’étend jusqu’à devenir de l’évitement. Vous pouvez vous en dispenser : les épées rangées au mur disent déjà la trêve.
 
 ## En lecture {#lecture}
 
@@ -71,7 +67,7 @@ Dans la tradition Golden Dawn, le Quatre d’Épées correspond à [Jupiter](/fr
 
 Certaines personnes ont peur de cette carte à cause du tombeau, et je le comprends. Elle n’annonce ni une mort ni une maladie : les mains sont jointes, les épées raccrochées, et le sujet, c’est le repos. Si une inquiétude de santé se cache derrière la question, c’est à un médecin qu’elle revient.
 
-Renversé, la pause tourne mal. Freinée : vous n’arrivez pas à vous reposer, les épées n’arrêtent pas de quitter le mur, le sommeil ne vient pas. Excessive : la retraite qui dure depuis trop longtemps, la personne qui s’est arrêtée et ne sait plus comment repartir.
+Renversé, le repos ne vient pas, ou ne finit plus. Il ne vient pas quand les épées n’arrêtent pas de quitter le mur et que le sommeil se dérobe. Il ne finit plus quand la retraite dure depuis trop longtemps et que la personne ne sait plus comment repartir.
 
 À côté du [Pendu](/fr/bibliotheque/cartes-tarot/le-pendu/), la pause est longue et voulue, et un nouvel angle naîtra de l’immobilité. À côté du [Quatre de Coupes](/fr/bibliotheque/cartes-tarot/quatre-de-coupes/), le repos a viré à l’ennui : quelque chose est offert, et personne ne le voit. À côté du [Dix de Bâtons](/fr/bibliotheque/cartes-tarot/dix-de-batons/), la raison du repos saute aux yeux : trop porté, trop longtemps.
 
@@ -83,6 +79,6 @@ Renversé, la pause tourne mal. Freinée : vous n’arrivez pas à vous reposer,
 
 Faites comme si vous battiez les cartes, coupiez, et retourniez pour quelqu’un le Quatre d’Épées, puis le [Huit de Bâtons](/fr/bibliotheque/cartes-tarot/huit-de-batons/). Quatre puis huit : une structure au repos, puis une structure en plein mouvement. L’Air puis le Feu : la pensée mise de côté, puis la vitesse, l’élan. Du jaune pâle et du gris, puis huit bâtons qui filent dans un ciel ouvert.
 
-Vous pourriez dire : « Vous êtes dans une pause qui ne va plus durer très longtemps. Les choses vont bientôt aller vite : c’est maintenant qu’il faut prendre ce repos. »
+Le repos puis la vitesse ; à dire tel quel : « Vous êtes dans une pause qui ne va plus durer très longtemps. Les choses vont bientôt aller vite : c’est maintenant qu’il faut prendre ce repos. »
 
-Puis vérifiez : « Êtes-vous en pause en ce moment, ou sur le point de reprendre quelque chose de prenant ? » Si c’est non sur les deux points, c’est un raté ; ne tordez pas la lecture pour la sauver. Pour vous entraîner à ce genre de paire — une carte par jour, puis deux —, le [parcours pour apprendre](/fr/apprendre-le-tarot/) avance pas à pas.
+Puis vérifiez : « Êtes-vous en pause en ce moment, ou sur le point de reprendre quelque chose de prenant ? » Si c’est non sur les deux points, la lecture n’a pas tenu ; inutile de la forcer. Pour vous entraîner à ce genre de paire — une carte par jour, puis deux —, le [parcours pour apprendre](/fr/apprendre-le-tarot/) avance pas à pas.

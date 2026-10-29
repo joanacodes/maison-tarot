@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/peki.webp
 h1: Roi de Pentacles — <em>le Roi</em>, le Feu de terre
-lede: 'Avant de chercher ce que « signifie » Roi de Pentacles, regardez ce que vous
-  avez déjà : le Roi, l’élément Feu de Terre. Vous lisez la carte. Le nombre dit le
-  Roi — la maîtrise extérieure, la décision ; l’élément dit la matière, ce qui tient.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Sa robe se confond avec la vigne, son trône porte des têtes de taureau, et sa main gauche garde une pièce sur son genou. Tout ce qu’il a bâti, qui cela nourrit-il ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre
@@ -30,7 +26,7 @@ faq:
 - q: 'Que signifie Roi de Pentacles ?'
   a: 'La réussite devenue stabilité : quelqu’un qui a construit quelque chose de solide et le gère maintenant — une entreprise, une maisonnée, un métier. Le Roi est la maîtrise extérieure et la Terre la matière : son autorité vient de ce qu’il a fait pousser.'
 - q: 'Roi de Pentacles renversé, ça change quoi ?'
-  a: 'La même maîtrise, freinée ou excessive. Freinée : la sécurité devient si précieuse que rien de neuf n’entre plus. Excessive : tout se mesure à ce que ça rapporte, y compris les gens autour de lui.'
+  a: 'La sécurité devient si précieuse que rien de neuf n’entre plus ; ou bien tout se mesure à ce que ça rapporte, y compris les gens autour de lui.'
 - q: 'Le Roi de Pentacles annonce-t-il de l’argent ?'
   a: 'C’est la figure la plus prospère de sa famille, alors on l’espère souvent. Je ne fais ni prévisions ni décisions d’argent avec les cartes ; je préfère regarder ce que montre le Roi — comment quelqu’un gère ce qu’il a, et pour qui.'
 categories:
@@ -56,7 +52,7 @@ Un exemple que tout le monde connaît : le boulanger du quartier qui a commencé
 
 ## Par l’élément : Terre {#element}
 
-Le Roi de Pentacles est Feu de Terre : la famille est la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) — la matière, la valeur, le résultat du travail — et sa part à lui est le [Feu](/fr/bibliotheque/quatre-elements/element-feu/) : la création, l’impulsion, l’énergie qui motive. Le Feu dans la Terre, c’est l’élan qui fait pousser les choses et les fait continuer à pousser : le four sous l’entreprise, l’ambition derrière la vigne.
+Le Roi de Pentacles est Feu de Terre : il appartient à la [Terre](/fr/bibliotheque/quatre-elements/element-terre/), celle des biens et du fruit des efforts, et son rang lui ajoute le [Feu](/fr/bibliotheque/quatre-elements/element-feu/) : la création, l’impulsion, l’énergie qui motive. Le Feu dans la Terre, c’est l’élan qui fait pousser les choses et les fait continuer à pousser : le four sous l’entreprise, l’ambition derrière la vigne.
 
 L’archétype de la Terre, dans mes notes, lui va presque trop bien : le manager de l’artiste qui travaille sans relâche pour que les factures soient payées — et qui cesse parfois d’écouter, parce que sa vision est celle qui « rapporte le plus ». Ajoutez le revers du Feu, cette force qui peut tout détruire, et vous avez le Roi à son pire : quelqu’un qui mesure tout, les gens compris, à ce que ça rapporte.
 
@@ -68,9 +64,9 @@ La robe est presque [noire](/fr/bibliotheque/couleurs-tarot/noir/) : la réalit�
 
 À l’endroit : la réussite devenue stabilité. Quelqu’un qui a bâti quelque chose de solide — une entreprise, une maisonnée, une carrière, une œuvre — et le gère avec calme et compétence. Une figure d’autorité, un mentor, un patron ; ou vous, le jour où vous prenez la responsabilité de ce que vous avez fait pousser. **Sa maîtrise se mesure à ce qu’elle protège, pas à ce qu’elle accumule.**
 
-Renversé, sa maîtrise cesse de grandir, ou serre trop fort. Freinée : la sécurité devient le seul but, et rien de neuf ne passe le mur du château. Excessive : le contrôle — le Roi qui décide pour tout le monde, traite les gens comme des actifs et confond avoir et être.
+Renversé, sa maîtrise cesse de grandir, ou serre trop fort. Quand elle cesse de grandir, la sécurité devient le seul but, et rien de neuf ne passe le mur du château. Quand elle serre, c’est le contrôle — le Roi qui décide pour tout le monde, traite les gens comme des actifs et confond avoir et être.
 
-Figure la plus prospère de sa famille, il fait parfois espérer de l’argent, ou on lui demande s’il faut placer, acheter, vendre. Je comprends cet espoir. Les décisions d’argent vous appartiennent ; la carte peut décrire comment quelqu’un gère ce qu’il a, et j’explique [ma façon de lire les Pentacles quand il est question d’argent](/fr/blog/tarot-et-argent/).
+Figure la plus prospère de sa famille, il fait parfois espérer de l’argent, ou on lui demande s’il faut placer, acheter, vendre. Je comprends cet espoir. Les décisions d’argent vous appartiennent ; la carte peut décrire comment quelqu’un gère ce qu’il a, et j’explique [pourquoi acheter, vendre ou placer reste votre affaire](/fr/blog/tarot-et-argent/).
 
 À côté de [l’Empereur](/fr/bibliotheque/cartes-tarot/l-empereur/), deux pères de la structure : l’Empereur donne des ordres, le Roi de Pentacles fait pousser. À côté de la [Reine de Pentacles](/fr/bibliotheque/cartes-tarot/reine-de-pentacles/), la maisonnée au complet. À côté du [Quatre de Pentacles](/fr/bibliotheque/cartes-tarot/quatre-de-pentacles/), l’ombre du Roi : un homme qui serre sa pièce si fort qu’il ne peut plus se servir de ses mains.
 
@@ -80,6 +76,6 @@ Figure la plus prospère de sa famille, il fait parfois espérer de l’argent, 
 
 Pour l’exercice, le Roi de Pentacles sort en premier et le Six de Coupes en second, pour quelqu’un que vous rencontrez pour la première fois. Roi puis six : la maîtrise extérieure, puis — dans mes notes — prendre du temps pour soi, l’enfance, refleurir. Terre puis Eau : ce qui a été construit, puis l’émotion et la mémoire. Un roi vêtu de sa propre vigne, puis deux enfants dans une vieille cour, l’un tendant à l’autre une coupe pleine de fleurs.
 
-À voix haute : « Vous avez bâti quelque chose de solide, et tout le monde compte sur vous. Une partie de vous regarde vers une époque où rien ne dépendait de vous — pas pour y retourner, mais pour en glisser un peu dans ce que vous menez aujourd’hui. »
+Le roi de la vigne, puis la vieille cour d’enfance ; je me lancerais ainsi : « Vous avez bâti quelque chose de solide, et tout le monde compte sur vous. Une partie de vous regarde vers une époque où rien ne dépendait de vous — pas pour y retourner, mais pour en glisser un peu dans ce que vous menez aujourd’hui. »
 
-Puis vérifiez : « Est-ce vous, la personne sur qui tout le monde compte, avec l’envie d’un temps plus léger ? » Si non, c’est un raté, à noter tel quel.
+Puis vérifiez : « Est-ce vous, la personne sur qui tout le monde compte, avec l’envie d’un temps plus léger ? » Si non, la vigne et la cour d’enfance ne parlaient pas d’elle ; on le note, sans détour.

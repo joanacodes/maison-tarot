@@ -19,7 +19,7 @@ You’ll meet the phrase in meditation, in writing about psychedelics and, latel
 
 It comes in two sizes. The large one is what people describe after deep meditation or a psychedelic experience: overwhelming, sometimes frightening, the feeling that “I” wasn’t there. The small one is ordinary. A painter who looks up and finds three hours gone. A cook who forgot to be anxious. A conversation where you stopped planning what to say next.
 
-Reading tarot asks for the small one every time. Before a card, I tell myself I’m about to talk nonsense. That sentence, which I explain in [my method for beginners](/blog/how-to-read-tarot-beginners/), lets the person who wants to be right, look clever and be liked step aside for the length of the reading. **Ego death is accepting that your self steps aside while you do something, not that it disappears for good.**
+Reading tarot asks for the small one every time. Before a card, I warn myself that nonsense is about to come out of my mouth. That warning, which I explain in [my method for beginners](/blog/how-to-read-tarot-beginners/), lets the person who wants to be right, look clever and be liked step aside for the length of the reading. **Ego death is accepting that your self steps aside while you do something, not that it disappears for good.**
 
 Two cards carry the idea. [Death](/library/tarot-cards/death/), in my notes, isn’t about dying: it’s the harvest, the field cleared so something can grow again. The Hanged Man has stopped struggling and sees the world from another angle.
 
@@ -47,9 +47,9 @@ Picture someone who rearranges their whole week to help a friend move house, and
 
 ## When someone says they’ve had one {#claiming-it}
 
-Watch for one thing, kindly: the ego that claims its own death. The person who has “gone beyond the ego” and now feels above everyone who hasn’t. The one who thinks they’re saving the world, or that they belong to a small group with abilities nobody else has.
+Watch for one thing, kindly: the ego that claims its own death. The person who has “gone beyond the ego” and now feels above everyone who hasn’t. The one convinced it’s their mission to rescue everybody, or that they’re one of a select few with abilities the rest of us lack.
 
-It’s very human. After an experience that felt huge, we all want it to have made us special. But “I’ve killed my ego”, worn as a badge, is the ego in a new outfit. It’s one of the reasons [I keep a little distance from “spiritual” circles](/blog/spiritual-but-not-in-spiritual-circles/).
+It’s very human. After an experience that felt huge, we all want it to have made us special. But “I’ve killed my ego”, worn as a badge, is the ego in a new outfit. It’s also why I’m [wary of self-declared “spiritual” crowds](/blog/spiritual-but-not-in-spiritual-circles/).
 
 ## Go slowly {#go-slowly}
 
@@ -63,4 +63,4 @@ I don’t read on health, and I won’t advise on substances; if you’re consid
 
 Start with the small size. Ten minutes of [meditation for people who think they can’t](/blog/meditation-for-beginners/): doing nothing, letting go of control, which is harder than it sounds. A drawing you don’t show anyone. One card read aloud for a friend who’s told you nothing.
 
-If you’d like to try with other people in the room, the [workshops](/workshops/) open with a card in the first ten minutes, before any explanation.
+If you’d like to try with other people in the room, the [workshops](/workshops/) put a card in every hand before a word of theory.

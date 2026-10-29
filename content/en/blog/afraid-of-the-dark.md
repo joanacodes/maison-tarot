@@ -31,7 +31,7 @@ The dark is as dark as it ever was. Whatever changed, changed on my side of the 
 
 ## What shadow work is {#shadow-work}
 
-The shadow is Carl Jung's word for the parts of yourself you've pushed out of view because they didn't fit who you were supposed to be: an anger you weren't allowed, a want you were ashamed of, a memory you couldn't deal with. Shadow work is dealing with the things you keep pushing away so you can get through the day — the things that end up disabling you precisely because you won't look at them.
+In Carl Jung's terms, the shadow holds whatever you've tucked away from your own sight because it clashed with the person you were supposed to be: an anger you weren't allowed, a want you were ashamed of, a memory you couldn't deal with. Shadow work is dealing with the things you keep pushing away so you can get through the day — the things that end up disabling you precisely because you won't look at them.
 
 Say someone grew up in a house where anger wasn't welcome. As an adult, they're the calm one, always. The anger hasn't gone anywhere. It comes out sideways: a sharp tone over something small, or a joke that bites harder than they meant. Shadow work would be noticing the pattern, naming the anger, and asking where it was put away and why.
 
@@ -43,7 +43,7 @@ Here's my hypothesis, and it's mine, not a rule: being afraid of the dark can be
 
 A switch is a reasonable answer to a dark room. It's a less useful answer to a room you carry around with you, because there's no wall to put it on.
 
-Two cards sit close to this idea. [The Moon](/library/tarot-cards/the-moon/) shows a path running between two towers at night, a dog and a wolf howling, a creature crawling out of the water: what surfaces when the light is low. The [Nine of Swords](/library/tarot-cards/nine-of-swords/), as I read it, is coming out of a nightmare, a long troubled period, with protection above you.
+Two cards sit close to this idea. [The Moon](/library/tarot-cards/the-moon/) shows a path running between two towers at night, a dog and a wolf howling, a creature crawling out of the water: what surfaces when the light is low. The [Nine of Swords](/library/tarot-cards/nine-of-swords/), the way I read it, is the morning that finally follows weeks of bad sleep, with something keeping watch overhead.
 
 {{< cards "ar18 sw09" >}}
 
@@ -53,7 +53,7 @@ Getting past that kind of fear takes a long road, and also a split second. It's 
 
 Being afraid of the dark is common, at any age, and there's nothing to be ashamed of in it. Leaving a light on is fine. Nobody owes anyone a brave walk down a black corridor.
 
-If the fear is heavy, though — if it keeps you from sleeping, from being home alone, or comes with panic — it isn't one for a card or an article. A therapist is the right person, and going to one isn't a failure of anything; it's [the door I point to](/disclaimers/#therapy) whenever something is bigger than a reading. Be as gentle and tolerant with yourself as you are with others.
+If the fear is heavy, though — if it keeps you from sleeping, from being home alone, or comes with panic — it isn't one for a card or an article. A therapist is the right person, and going to one isn't a failure of anything; it's [the door I point to](/disclaimers/#therapy) whenever something is bigger than a reading. And whatever you do with the fear, treat yourself with the same patience you'd show anyone else.
 
 ## One small thing to try {#try}
 

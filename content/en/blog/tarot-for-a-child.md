@@ -23,13 +23,13 @@ Show a child the Sun. A small child rides a white horse, arms wide open, sunflow
 
 {{< cards "ar19 cu06" >}}
 
-It’s the same first exercise I give adults: one card, then describe what’s on it, what you see, what you receive. A child who hasn’t yet heard that there’s a correct meaning to recite may find it more natural than many grown-ups do. [The colour lens](/library/tarot-colours/) suits that age well: “lots of yellow, it feels happy” is a real reading of a colour.
+It’s the same first exercise I give adults: one card, the picture described first, then whatever it brings to mind. A child who hasn’t yet heard that there’s a correct meaning to recite may find it more natural than many grown-ups do. [The colour lens](/library/tarot-colours/) suits that age well: “lots of yellow, it feels happy” is a real reading of a colour.
 
 **Describing a picture together is play; telling a child what will happen to them is something else.**
 
 ## Consent, for a child too {#consent}
 
-I always ask before reading anyone. You wouldn’t want someone snooping in your bedroom; reading someone who hasn’t agreed feels the same to me. Age doesn’t change that principle, even for a game. A sensible way to apply it with a child: the child says yes, a parent knows, and the child can stop whenever they like without giving a reason.
+I always ask before reading anyone. To read a person without their yes is, to me, like rummaging through their bedroom uninvited. Age doesn’t change that principle, even for a game. A sensible way to apply it with a child: the child says yes, a parent knows, and the child can stop whenever they like without giving a reason.
 
 The same goes for drawing cards about a child from a distance, about your son while he’s at school. He isn’t in the room and he hasn’t agreed. I don’t read on people who aren’t in the room, [your mother or your ex included](/blog/reading-tarot-about-someone-else/), and the Maison Tarot rules say [no readings for minors, and none about them](/disclaimers/#adults). If it’s your child who worries you, there’s a gentler question, and it’s about you: what do I need to understand as a parent this week?
 
@@ -47,7 +47,7 @@ A six-year-old making up a story about the Sun card is playing. A thirteen-year-
 
 Death, the Tower, the Ten of Swords: some pictures are hard, and a child will ask about them. Answer plainly. In my notes, Death isn’t about dying at all; it’s tied to the harvest, to starting again. The Tower is a building struck by lightning, something that looked solid being shaken. You can explain that the way you’d explain a frightening page in a picture book: something ends, something new begins.
 
-If a card upsets them, put it away and don’t make it mean anything. [The scariest cards are kinder than they look](/blog/scariest-tarot-cards/), but a child shouldn’t have to take that on trust at bedtime.
+If a card upsets them, put it away and don’t make it mean anything. [Frightening cards usually carry gentler news than their pictures](/blog/scariest-tarot-cards/), but a child shouldn’t have to take that on trust at bedtime.
 
 ## What to teach instead of the future {#what-to-teach}
 

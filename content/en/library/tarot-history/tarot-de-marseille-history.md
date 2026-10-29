@@ -39,7 +39,7 @@ The oldest known Tarot de Marseille was made by Jean Noblet, a card maker in the
 
 In the early 18th century, Jean Dodal printed the pattern in Lyon; his deck is usually dated to around 1701. Around 1760, Nicolas Conver printed it in Marseille, and his version became a model for later editions. Card historians distinguish two slightly different variants of the pattern, which Thierry Depaulis calls Type I and Type II.
 
-What they share is what you see when you lay a Marseille deck next to your Rider-Waite-Smith. The 22 trumps carry Roman numerals and French titles: the Magician is *le Bateleur*, the High Priestess *la Papesse*. Card VIII is Justice and card XI is Strength, the older order that the Golden Dawn later swapped (see [Strength](/library/tarot-cards/strength/) and its story). In most Marseille decks, card XIII carries no title, and French readers call it *l’Arcane sans nom* — [why Death is the card with no name](/blog/death-card-no-name/) has its own article.
+What they share is what you see when you lay a Marseille deck next to your Rider-Waite-Smith. The 22 trumps carry Roman numerals and French titles: the Magician is *le Bateleur*, the High Priestess *la Papesse*. Card VIII is Justice and card XI is Strength, the older order that the Golden Dawn later swapped (see [Strength](/library/tarot-cards/strength/) and its story). In most Marseille decks, card XIII carries no title, and French readers call it *l’Arcane sans nom*, and [the nameless thirteenth card](/blog/death-card-no-name/) gets an article to itself.
 
 The minor cards have no scenes. A Five of Cups is five cups arranged in a pattern. You read the number and the suit, and that is all the card gives you.
 

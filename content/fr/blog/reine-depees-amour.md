@@ -17,11 +17,11 @@ La Reine d’Épées en amour, c’est la clarté : savoir ce qu’on veut, le d
 
 ## Un esprit qui a ressenti {#esprit}
 
-Son rang, c’est la Reine : la maîtrise intérieure, l’état de celle ou celui qui n’a plus besoin de courir. Le conseil de la Reine : tenir sans retenir. À son pire, elle garde — les gens, les émotions, les rancunes — et confond maîtrise et contrôle. En amour, c’est la ligne entre une limite et un mur.
+Son rang, c’est la Reine : la maîtrise intérieure, l’état de celle ou celui qui n’a plus besoin de courir. Le conseil de la Reine : tenir sans retenir. Quand elle se trompe de mesure, elle retient tout — les rancunes, les personnes, ce qu’elle ressent — et prend le contrôle pour de la maîtrise. En amour, c’est la ligne entre une limite et un mur.
 
 Son élément, c’est l’Eau de l’Air. L’Air, dans mes notes, est le meilleur décideur des quatre, parce qu’il voit tout en même temps — et, les mauvais jours, c’est la langue de vipère. L’Eau y ajoute le ressenti. Elle n’est donc pas un esprit sans cœur. C’est un esprit qui a ressenti, et qui décide avec ce savoir plutôt que malgré lui.
 
-Son énergie est féminine, ce qui n’a rien à voir avec le fait d’être une femme : la patience, réfléchir avant d’agir, aborder les sujets délicats par un détour. La Reine d’Épées y ajoute la lame : le soin d’abord, la phrase qu’il faut dire ensuite. Un détail du dessin le dit pour l’amour : une main tient l’épée bien droite, l’autre est levée, ouverte, comme pour vous inviter à parler. [La page de la Reine d’Épées](/fr/bibliotheque/cartes-tarot/reine-de-epees/) détaille toutes les autres clés.
+Son énergie est féminine — un mot qui, chez moi, ne parle pas de genre : la patience, réfléchir avant d’agir, aborder les sujets délicats par un détour. La Reine d’Épées y ajoute la lame : le soin d’abord, la phrase qu’il faut dire ensuite. Ses deux mains le disent pour l’amour : l’une tient l’épée bien droite, l’autre se lève, ouverte, comme pour vous inviter à parler. [La page de la Reine d’Épées](/fr/bibliotheque/cartes-tarot/reine-de-epees/) détaille toutes les autres clés.
 
 **Une main tranche, l’autre est ouverte : c’est toute sa franchise.**
 
@@ -37,7 +37,7 @@ Après une rupture, c’est la clarté sur les raisons de la fin — sans rééc
 
 Avec cette carte, on demande souvent qui est l’autre femme. « C’est son ex ? » « C’est sa mère ? » « Quelqu’un s’immisce entre nous ? » C’est un réflexe compréhensible : une reine sur la table, ça ressemble à une personne, et quand on est inquiet, une personne ressemble vite à une menace.
 
-Je ne lis pas sur des personnes qui ne sont pas dans la pièce, et je préfère ne pas transformer une figure en suspecte. Une figure décrit une façon d’agir, et le plus souvent, elle vous décrit vous. J’explique comment je les lis dans [les figures du tarot, sans s’y perdre](/fr/blog/figures-du-tarot-valet-cavalier-reine-roi/). J’applique aussi à mes propres tirages la franchise qu’elle demande : quand quelque chose ne tient pas, je le dis clairement.
+Je ne lis pas sur des absents, et je préfère ne pas transformer une figure en suspecte. Une figure décrit une façon d’agir, et le plus souvent, elle vous décrit vous. J’explique comment je les lis dans [les figures du tarot, sans s’y perdre](/fr/blog/figures-du-tarot-valet-cavalier-reine-roi/). J’applique aussi à mes propres tirages la franchise qu’elle demande : quand quelque chose ne tient pas, je le dis clairement.
 
 Une question plus douce : « Où ai-je besoin de clarté, et comment le dire avec douceur ? » Elle pointe l’épée là où elle peut servir.
 
@@ -45,7 +45,7 @@ Une question plus douce : « Où ai-je besoin de clarté, et comment le dire ave
 
 {{< cards "cuki sw08 sw03" >}}
 
-À côté du Roi de Coupes, la tête et le cœur s’assoient côte à côte : des mots clairs et un cœur calme, dans un même couple ou chez une même personne ([le Roi de Coupes en amour](/fr/blog/roi-de-coupes-amour/)). À côté du Huit d’Épées, elle est ce que devient le Huit une fois le bandeau retiré : la même épée, tenue droite, par quelqu’un qui a décidé ([le Huit d’Épées en amour](/fr/blog/huit-depees-amour/)). À côté du Trois d’Épées, le chagrin a un nom : un cœur brisé qui a appris la clarté. La douleur est venue d’abord ; la phrase claire en est sortie.
+À côté du Roi de Coupes, la tête et le cœur s’assoient côte à côte : des mots clairs et un cœur calme, dans un même couple ou chez une même personne ([le Roi de Coupes en amour](/fr/blog/roi-de-coupes-amour/)). À côté du Huit d’Épées, elle montre la suite : le bandeau est tombé, et l’épée se lève droite dans la main de quelqu’un qui a tranché ([le Huit d’Épées en amour](/fr/blog/huit-depees-amour/)). À côté du Trois d’Épées, le chagrin a un nom : un cœur brisé qui a appris la clarté. La douleur est venue d’abord ; la phrase claire en est sortie.
 
 ## Une phrase qui reste dans la gorge {#dans-la-gorge}
 

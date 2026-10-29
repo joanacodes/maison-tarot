@@ -25,7 +25,7 @@ Cette structure tient dans le Rider-Waite-Smith de 1909, dans un tarot de Marsei
 
 {{< cards "wa08 cu08 sw08 pe08" >}}
 
-Dans [ma table de numérologie](/fr/bibliotheque/numerologie/chiffre-8/), le huit est un quatre « exalté » : une stabilité durable, le contrôle, une porte entre ce qu’on touche et ce qu’on ne touche pas. Mettez-le dans le Feu, et les bâtons volent ou tombent — verre à moitié plein ou à moitié vide. Dans l’Eau, on quitte ce qu’on est déjà en train de faire. Dans l’Air, on est prisonnier de soi-même alors qu’on a tous les outils pour sortir : le bandeau s’enlève. Dans la Terre, une affaire prospère, la maîtrise, l’effort qu’elle coûte. Un nombre, quatre maisons, quatre lectures, et rien d’appris par cœur.
+Dans [ma table de numérologie](/fr/bibliotheque/numerologie/chiffre-8/), le huit est un quatre « exalté » : une stabilité durable, le contrôle, une porte entre ce qu’on touche et ce qu’on ne touche pas. Mettez-le dans le Feu, et les bâtons volent ou tombent, selon que vous voyez les choses en optimiste ou en pessimiste. Dans l’Eau, on quitte ce qu’on est déjà en train de faire. Dans l’Air, on se ligote soi-même en ayant de quoi se délivrer : le bandeau s’enlève. Dans la Terre, une affaire prospère, la maîtrise, l’effort qu’elle coûte. Un nombre, quatre maisons, quatre lectures, et rien d’appris par cœur.
 
 ## Qu’est-ce qu’un oracle ? {#l-oracle}
 
@@ -57,7 +57,7 @@ Une clé de lecture passe d’un monde à l’autre sans perte : la couleur. Le 
 
 Le tarot — idéalement le Rider-Waite-Smith, où chacune des 78 cartes est une scène qu’on lit sans livre. J’explique [pourquoi je fais commencer tout le monde avec ce jeu](/fr/blog/quel-jeu-de-tarot-choisir/). Apprenez la structure une fois, et chaque tarot suivant s’ouvrira tout seul.
 
-Un oracle fait un très joli deuxième jeu. Certains tarologues tirent une carte d’oracle en fin de tirage, comme une note finale ; d’autres en gardent un pour les matins sans envie de nombres. Collectionner les jeux, pour moi, c’est comme collectionner l’art : chaque carte est une image à travers laquelle on peut voir des messages, et c’est aussi vrai d’un bel oracle que d’un tarot.
+Un oracle fait un très joli deuxième jeu. Certains tarologues tirent une carte d’oracle en fin de tirage, comme une note finale ; d’autres en gardent un pour les matins sans envie de nombres. Pour moi, des jeux se collectionnent comme des tableaux, chaque carte pouvant porter un message, et un bel oracle a autant sa place dans la collection qu’un tarot.
 
 Ce qu’aucun jeu ne peut faire, c’est lire à votre place. La lecture vient de la personne qui tient les cartes, quelles qu’elles soient.
 
@@ -69,4 +69,4 @@ Ce que je surveillerais, c’est la formulation. Un message imprimé est absolu 
 
 ## Essayez les deux cette semaine {#essayer}
 
-Pendant sept matins, tirez une carte de tarot et dites à voix haute son nombre et son élément avant de chercher quoi que ce soit. Si vous avez un oracle, tirez-en une aussi, et remarquez à quel point les deux vous parlent différemment. [La carte du jour](/fr/blog/carte-du-jour-tarot/) explique quoi noter, et [le parcours gratuit pour apprendre le tarot](/fr/apprendre-le-tarot/) vous emmène à travers les clés de lecture, dans l’ordre.
+Pendant sept matins, tirez une carte de tarot ; avant toute recherche, annoncez à voix haute son nombre, puis son élément. Si vous avez un oracle, tirez-en une aussi, et remarquez à quel point les deux vous parlent différemment. [La carte du jour](/fr/blog/carte-du-jour-tarot/) explique quoi noter, et [le parcours gratuit pour apprendre le tarot](/fr/apprendre-le-tarot/) vous emmène à travers les clés de lecture, dans l’ordre.

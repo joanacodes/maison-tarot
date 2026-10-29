@@ -16,7 +16,7 @@ related:
 - /library/astrology/venus
 faq:
 - q: "Which tarot cards correspond to Netzach?"
-  a: "The four Sevens: Wands, Cups, Swords and Pentacles. In the Golden Dawn system, Netzach has no court card of its own; the courts sit on Chokhmah, Binah, Tiferet and Malkhut."
+  a: "The four Sevens, one in each suit. The court figures aren’t part of Netzach; in Book T they belong to other sephirot."
 - q: "Does Netzach mean victory or eternity?"
   a: "Both. The Hebrew word covers victory, endurance and eternity, and Jewish sources play on all three: the victory that counts is the one that lasts."
 gallery: []
@@ -44,7 +44,7 @@ The Golden Dawn made a teaching about endurance into the sphere of Venus — a r
 | [Seven of Swords](/library/tarot-cards/seven-of-swords/) | Lord of Unstable Effort (Moon in Aquarius) | lasting by cunning: carrying off what you can |
 | [Seven of Pentacles](/library/tarot-cards/seven-of-pentacles/) | Lord of Success Unfulfilled (Saturn in Taurus) | the long wait before the harvest |
 
-First, the number: [seven](/library/numerology/number-7/) is reflection, patience, analysis before action, the harvest, negotiation. Its advice: everything is temporary, good or bad. In my notes, the Seven of Cups is indecision, too many choices; the Seven of Swords has to leave things behind but harvests a lot. Netzach adds stamina. Through this lens, a Seven asks whether the patience is worth what it protects.
+First, the number: [seven](/library/numerology/number-7/) is reflection, patience, analysis before action, the harvest, negotiation. Its advice: everything is temporary, good or bad. In my notes, the Seven of Cups can’t pick because there’s too much on offer; the Seven of Swords has to leave things behind but harvests a lot. Netzach adds stamina. Through this lens, a Seven asks whether the patience is worth what it protects.
 
 Look at the Seven of Pentacles: a young farmer leaning on his hoe, looking at a bush of coins that he can’t hurry. That’s Netzach in one picture — the victory is not having given up.
 
@@ -58,7 +58,7 @@ In Jewish sources, Netzach is endurance and victory; with Venus, Hermetic writer
 
 ## Netzach in a reading {#reading}
 
-What Netzach can add is a question about stamina: what are you holding on to, and is it still worth the effort?
+Netzach’s contribution is a question of stamina: what are you holding on to, and is it still worth the effort?
 
 Say someone draws the Seven of Pentacles next to the Eight of Cups. A farmer waiting for a crop; a figure walking away from eight stacked cups. Netzach and Hod side by side on the table: the push to keep going, and the clear look that says when to stop. The reading is in the tension between them.
 

@@ -16,7 +16,7 @@ related:
 - /library/astrology/jupiter
 faq:
 - q: "Which tarot cards correspond to Chesed?"
-  a: "The four Fours: Wands, Cups, Swords and Pentacles. The Golden Dawn gives Chesed no court card; the courts sit on Chokhmah, Binah, Tiferet and Malkhut."
+  a: "The four Fours, from the garlands of the Four of Wands to the coins clutched in the Four of Pentacles. No court rank lands on Chesed: the Golden Dawn seats its Kings, Queens, Princes and Princesses elsewhere on the Tree."
 - q: "Does Chesed mean mercy or kindness?"
   a: "Both translations are used. The Hebrew word is closest to loving-kindness: generosity that gives without being asked. Hermetic diagrams also call the whole right column of the Tree the Pillar of Mercy."
 gallery: []
@@ -58,7 +58,7 @@ If [astrology](/library/astrology/) isn’t one of your lenses, the cards read p
 
 ## Chesed in a reading {#reading}
 
-What Chesed can add is a question about giving: who receives, and is it measured? Chesed alone floods; that’s why Gevurah faces it on the Tree.
+Chesed brings a question about giving: who receives, and is it measured? Chesed alone floods; that’s why Gevurah faces it on the Tree.
 
 Say someone draws the Four of Wands next to the Five of Pentacles: a celebration in a lit house, two people out in the snow. Through Chesed, the question isn’t whether the party is good. It’s who is inside, and whether the door could open wider.
 

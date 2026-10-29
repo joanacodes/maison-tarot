@@ -27,11 +27,11 @@ The cards can also hold a memory for a moment. A warm card can bring back a dinn
 
 Are they at peace? Can they hear me? Did they forgive me? Could I have done something? When will this stop hurting?
 
-These are the questions people bring, and they come from love, and often from guilt that has nowhere to go. I understand why you’d want a card to answer them. I don’t read on them, and here’s why: a card can’t know, and if it seems to answer, you’re the one filling in the answer. On something this tender, a wrong answer can stay with you for years. Readings get things wrong now and then, mine too; that’s fine for a question about your week, and too much for this one. I explain more in [why I step back from health and death questions](/blog/health-pregnancy-death-tarot/).
+These are the questions people bring, and they come from love, and often from guilt that has nowhere to go. I understand why you’d want a card to answer them. I don’t take them to the cards, and the reason is this: a card can’t know, and if it seems to answer, you’re the one filling in the answer. On something this tender, a wrong answer can stay with you for years. Readings get things wrong now and then, mine too; that’s fine for a question about your week, and too much for this one. I explain more in [why I step back from health and death questions](/blog/health-pregnancy-death-tarot/).
 
 What helps instead: write them a letter with the question in it, and keep the letter. Tell someone who knew them the story you remember. And ask the cards about you, which is the part they can hold.
 
-One more thing, because it frightens people. If [the Death card](/library/tarot-cards/death/) turns up while you’re grieving, it isn’t announcing anything. In my notes it’s the harvest: something ends so that the ground can be sown again, one day, not now.
+One more thing, because it frightens people. If [the Death card](/library/tarot-cards/death/) turns up while you’re grieving, it isn’t announcing anything. In my notes it’s the harvest: what was grown is gathered in, and a new crop will follow, one day, not now.
 
 ## A gentle grief spread: four cards {#spread}
 
@@ -39,14 +39,14 @@ Lay four cards in a row.
 
 1. *What I’m carrying today.* Not forever. Today.
 2. *A memory I want to keep.* Let the card bring one back, then write it down.
-3. *What would help me this week.* Something small and doable.
+3. *What could ease this week a little.* Something small and doable.
 4. *Who I could lean on.* A living person you can reach: a friend, a cousin, a neighbour, a professional. If you only lay one card tonight, lay this one.
 
 Say someone, a few months after a loss, draws the Five of Cups, the Three of Cups, the Hermit and the Queen of Cups.
 
 {{< cards "cu05 cu03 ar09 cuqu" >}}
 
-The Five of Cups is the card I call the heaviest in the deck: losing, a dark emotion, being alone with it. A cloaked figure looks down at three spilled cups. Two still stand behind them, and a bridge crosses the river, though the figure hasn’t turned round yet. The Three of Cups, three women dancing with their cups raised, might bring back a celebration: a birthday, a wedding, a good evening with friends. Three is the number of a bond that works.
+The Five of Cups is the most sorrowful card I know, and it fits a loss like this one: grief, a darkened mood, and solitude inside it. A cloaked figure looks down at three spilled cups. Two still stand behind them, and a bridge crosses the river, though the figure hasn’t turned round yet. The Three of Cups, three women dancing with their cups raised, might bring back a celebration: a birthday, a wedding, a good evening with friends. Three is the number of a bond that works.
 
 The Hermit holds a lantern on a snowy peak: withdraw a little this week, with just enough light for the next step. And the Queen of Cups sits at the water’s edge, looking into an ornate cup. [Water](/library/four-elements/water-element/) is feeling; she’s someone warm who listens without hurrying you. Who in your life is like her? That’s who to call.
 

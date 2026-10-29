@@ -41,7 +41,7 @@ So what did it mean? As a collective event, I don't know. As a prompt, it did so
 
 ## A test you can still run {#test}
 
-The look-back that means something is your own, done the way I [tested my birth chart, box by box](/blog/i-tested-my-birth-chart/):
+The look-back that means something is your own, done with the same tick-or-cross honesty I used [on my own natal chart](/blog/i-tested-my-birth-chart/):
 
 1. Find what you wrote around February 2026: a notebook, a notes app, messages to a friend.
 2. List what you expected: an ending, a start, a disillusion, a dream becoming real.

@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: Beth
 image: cards/ar01.webp
 h1: Le Magicien — <em>1</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » Le Magicien, regardez ce que vous avez
-  déjà : 1, l’élément Air, Mercure. Vous lisez la carte. Le nombre dit 1 — un — le
-  début, le diamant brut ; l’élément dit le mental, ce qu’on décide. Posez les deux
-  l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
-  de la page vous montre comment.'
+lede: 'Derrière sa table, un jeune homme lève une baguette vers le ciel et pointe le sol de l’autre main, les quatre outils des séries posés devant lui. Tout est à portée : quel sera votre premier geste ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-air
@@ -59,17 +55,17 @@ Le signe de l’infini au-dessus de sa tête, c’est un 8 couché, et le 8, dan
 
 ## Par l’élément : Air {#element}
 
-Le Magicien est une carte d’[Air](/fr/bibliotheque/quatre-elements/element-air/) : le mental, la décision, la parole. L’Air a accès à tout en même temps, et c’est pour ça que je le tiens pour le meilleur décideur des quatre — le Feu est trop impulsif, l’Eau trop émotive, la Terre trop têtue.
+Le Magicien est une carte d’[Air](/fr/bibliotheque/quatre-elements/element-air/) : le mental, la décision, la parole. L’Air atteint tout à la fois, et c’est pour ça que je le tiens pour le meilleur décideur des quatre — le Feu est trop impulsif, l’Eau trop émotive, la Terre trop têtue.
 
 C’est aussi pour ça qu’il a les quatre outils, un par élément, plus l’éther qui les relie. Dans mes notes, il sait tout faire et reste ancré. Il fait le relais : la baguette levée reçoit, la main tendue vers le sol transmet. Son revers appartient lui aussi à l’Air, à sa « langue de vipère » : quelqu’un qui parle assez bien pour faire semblant. Il a plus d’un tour dans son sac — un compliment, jusqu’au jour où ça n’en est plus un.
 
 ## Par les couleurs {#couleurs}
 
-Le jaune remplit le fond : la joie, l’expression de soi, la volonté. Dans [ma grille des couleurs](/fr/bibliotheque/couleurs-tarot/jaune/), c’est la couleur du Magicien et du Mat, celle de vouloir quelque chose en plein jour. Le rouge du manteau et des roses : l’action, l’élan, l’énergie masculine. Le blanc de la robe et des lys : une intention encore nette. Avant même de lire la carte, vous avez la volonté, l’action et un départ propre.
+Le jaune remplit le fond : la joie, l’expression de soi, la volonté. Mes notes en font [la couleur du Magicien et du Mat](/fr/bibliotheque/couleurs-tarot/jaune/), celle de vouloir quelque chose en plein jour. Le rouge du manteau et des roses : l’action, l’élan, l’énergie masculine. Le blanc de la robe et des lys : une intention encore nette. Ces trois couleurs suffisent déjà : la volonté, l’action et un départ propre.
 
 ## Par l’astrologie : Mercure {#astrologie}
 
-Dans la tradition Golden Dawn, le Magicien correspond à [Mercure](/fr/bibliotheque/astrologie/mercure/), le messager : la façon de penser, de parler, d’apprendre. Ça colle à un personnage qui fait le lien entre le ciel et le sol. Mercure gouverne les Gémeaux, qui parlent, et la Vierge, qui vérifie ; le Magicien a besoin des deux.
+[Mercure](/fr/bibliotheque/astrologie/mercure/), le messager, est la planète du Magicien pour la Golden Dawn : la façon de penser, de parler, d’apprendre. Ça colle à un personnage qui fait le lien entre le ciel et le sol. Mercure gouverne les Gémeaux, qui parlent, et la Vierge, qui vérifie ; le Magicien a besoin des deux.
 
 ## En lecture {#lecture}
 
@@ -89,7 +85,7 @@ Les quatre outils font un bon bilan. Le bâton : en avez-vous encore envie ? La 
 
 Renversé au travail, c’est la présentation qui vaut mieux que le produit — ou l’inquiétude inverse, le syndrome de l’imposteur : un vrai savoir-faire que vous n’osez pas montrer, avec la certitude qu’on finira par vous démasquer. Un diamant brut reste un diamant.
 
-La question qu’attire cette carte : « Est-ce que ça marchera si je me lance ? » Je comprends : se lancer coûte de l’argent, de la sécurité, parfois de la fierté, et on aimerait qu’une carte porte une partie du risque. Démissionner, investir, emprunter : ce sont des décisions d’argent, et [je les laisse hors de mes tirages](/fr/avertissements/#refus) ; qu’une affaire marche dépend de clients et d’un marché qu’aucune carte ne voit. Pour les chiffres, un expert-comptable ou un conseiller à la création d’entreprise vous aidera mieux qu’un tirage. Une question plus douce : « Lequel de mes quatre outils est-ce que je n’utilise pas encore ? »
+La question qu’attire cette carte : « Est-ce que ça marchera si je me lance ? » Je comprends : se lancer coûte de l’argent, de la sécurité, parfois de la fierté, et on aimerait qu’une carte porte une partie du risque. Démissionner, investir, emprunter : ce sont des décisions d’argent, et [je les laisse hors de mes tirages](/fr/avertissements/#refus) ; qu’une affaire marche dépend de clients et d’un marché qu’aucune carte ne voit. Pour les chiffres, un expert-comptable ou un conseiller à la création d’entreprise vous aidera mieux qu’un tirage. Retournez plutôt la question : « Lequel de mes quatre outils est-ce que je n’utilise pas encore ? »
 
 Cette semaine, tracez quatre colonnes sur une feuille : bâton, coupe, épée, pentacle. Sous chacune, notez ce que vous avez déjà pour ce que vous voulez lancer. **La colonne la plus vide, c’est votre première tâche.**
 
@@ -99,6 +95,6 @@ Un exercice à deux cartes : le Magicien, puis le Quatre de Coupes, où un jeune
 
 1 puis 4 : un début, puis un confort qui s’est figé. L’Air puis l’Eau : une décision, puis une humeur. Le jaune éclatant du Magicien, puis une carte plus calme, plus verte. Les moyens sont là ; l’énergie est retombée.
 
-Ce que je dirais à voix haute : « Vous avez ce qu’il faut pour lancer quelque chose, et vous attendez une meilleure offre avant de vous y mettre. »
+Outils prêts, bras croisés : « Vous avez ce qu’il faut pour lancer quelque chose, et vous attendez une meilleure offre avant de vous y mettre. »
 
-Puis je vérifierais : y a-t-il quelque chose que vous repoussez alors que tout est prêt ? Si ce n’est pas le cas, je ne tire pas une carte de plus pour sauver la phrase.
+Je glisserais ensuite : qu’est-ce que vous repoussez alors que tout est prêt ? Si rien ne traîne, je ne tire pas une carte de plus pour sauver la phrase.

@@ -16,7 +16,7 @@ related:
 - /library/kabbalah/binah
 faq:
 - q: "Which tarot cards correspond to Chokhmah?"
-  a: "The four Twos, and in the Golden Dawn system the mounted figures of the court, the Fire of each suit. With the Rider-Waite-Smith, some readers put the Kings there and others the Knights; the card pages on this site follow the Kings."
+  a: "The four Twos. Book T also places the mounted court figures here, the Fire of each suit; for the Rider-Waite-Smith that means the Kings to some readers and the Knights to others, and the Kings are the choice on this site’s card pages."
 - q: "What is Chokhmah’s planet?"
   a: "It has none. The Golden Dawn gives Chokhmah the zodiac as a whole, the sphere of the fixed stars, rather than a single planet."
 - q: "Why is Chokhmah called the father?"
@@ -29,7 +29,7 @@ Chokhmah (חכמה) means “wisdom”. It is the second of the ten sephirot, ri
 
 **Chokhmah is the idea that arrives all at once, before you know how to explain it.** Think of seeing the solution to a problem all at once, then needing an hour to write it down: the seeing is Chokhmah.
 
-On the Tree, Chokhmah is number 2, at the top of the right column, the side of expansion and giving that leads down to [Chesed](/library/kabbalah/chesed/). Keter, Chokhmah and Binah together make the upper three, and the whole layout is on the [Tree of Life page](/library/kabbalah/tree-of-life/).
+On the Tree, Chokhmah is number 2, at the top of the right column, the side of expansion and giving that leads down to [Chesed](/library/kabbalah/chesed/). Keter, Chokhmah and Binah together make the upper three, and [the Tree’s full layout](/library/kabbalah/tree-of-life/) shows all ten.
 
 {{< tree-of-life highlight="chokhmah" >}}
 
@@ -70,7 +70,7 @@ What Chokhmah can add is modest: a question about whether the person already kno
 
 Say someone draws the Two of Swords next to the Two of Wands. A blindfold on one side, a globe in the hand on the other: someone who can’t decide, and someone who already sees the whole map. Through Chokhmah, they can be the same person at two moments — the answer came first, the fear of it came after.
 
-Try it on the four Twos: read them with and without Chokhmah, and keep the lens only if it helps.
+Try it on the four Twos: read them with and without Chokhmah, and see whether it adds anything for you.
 
 ## Sources {#sources}
 

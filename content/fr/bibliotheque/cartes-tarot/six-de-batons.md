@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/wa06.webp
 h1: Six de Bâtons — <em>six</em>, le Feu
-lede: 'Avant de chercher ce que « signifie » Six de Bâtons, regardez ce que vous avez
-  déjà : six, l’élément Feu, Jupiter en Lion. Vous lisez la carte. Le nombre dit six
-  — l’harmonie retrouvée, l’échange ; l’élément dit l’élan, ce qu’on lance. Posez
-  les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà —
-  le reste de la page vous montre comment.'
+lede: 'Le front ceint de laurier, un cavalier fend la foule sur un cheval drapé de vert, une seconde couronne nouée à son bâton. Le succès se voit enfin : sauriez-vous avancer sans les applaudissements ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -51,15 +47,15 @@ Le ciel est d’un bleu clair, tout avance dans le même sens, et le cavalier do
 
 ## Par le nombre : six {#nombre}
 
-[Six](/fr/bibliotheque/numerologie/chiffre-6/), c’est le 3 exalté : la machine ne fait pas que tourner, elle accélère. La réussite, le triomphe, et enfin la possibilité de se reposer. L’harmonie retrouvée : après la mêlée du Cinq, le groupe s’est mis d’accord sur quelqu’un. L’échange : on lui donne la reconnaissance, il donne aux autres une victoire à fêter.
+[Six](/fr/bibliotheque/numerologie/chiffre-6/), le 3 exalté de mes notes, c’est la machine lancée qui prend de la vitesse. La réussite, le triomphe, et enfin la possibilité de se reposer. L’harmonie retrouvée : après la mêlée du Cinq, le groupe s’est mis d’accord sur quelqu’un. L’échange : on lui donne la reconnaissance, il donne aux autres une victoire à fêter.
 
-Dans l’histoire d’Instagram, le 6, c’est Facebook qui décide d’investir : l’entreprise est portée en avant, comme ce cavalier. Il porte une couronne et en brandit une autre — beaucoup de laurier pour un seul homme. C’est pourquoi le conseil du 6 pèse tant sur cette carte : restez calme et humble quand les résultats affluent, parce que des louanges aussi lourdes peuvent tourner la tête avant le prochain combat.
+Au même stade, Instagram voit Facebook investir et se retrouve porté en avant, comme ce cavalier. Il porte une couronne et en brandit une autre — beaucoup de laurier pour un seul homme. C’est pourquoi le conseil du 6 pèse tant sur cette carte : restez calme et humble quand les résultats affluent, parce que des louanges aussi lourdes peuvent tourner la tête avant le prochain combat.
 
 ## Par l’élément : Feu {#element}
 
 Le [Feu](/fr/bibliotheque/quatre-elements/element-feu/) éclaire la nuit et attire les gens. Ici, l’élan a payé et ça se voit : l’enthousiasme, la confiance, l’énergie qui donne envie de suivre — la torche en tête du cortège.
 
-C’est aussi un Feu qui a besoin de combustible. La reconnaissance le nourrit — les applaudissements, une promotion, des likes, un merci — et le risque, c’est de ne plus pouvoir continuer sans. Pensez au maillot jaune sur les Champs-Élysées : l’adolescent qui se croyait capable de tout vient d’avoir raison, en public. C’est beau, et ça se surveille.
+C’est aussi un Feu qui a besoin de combustible. La reconnaissance le nourrit — les applaudissements, une promotion, des likes, un merci — et le risque, c’est de ne plus pouvoir continuer sans. Pensez au maillot jaune sur les Champs-Élysées : l’ado sûr de son coup vient d’avoir raison, en public. C’est beau, et ça se surveille.
 
 ## Par les couleurs {#couleurs}
 
@@ -69,7 +65,7 @@ Le cheval blanc ajoute la paix — une victoire propre, sans sang versé. La tun
 
 ## Par l’astrologie : Jupiter en Lion {#astrologie}
 
-Dans la tradition Golden Dawn, le Six de Bâtons correspond à Jupiter en Lion, deuxième décan du signe. [Jupiter](/fr/bibliotheque/astrologie/jupiter/), c’est l’expansion, la confiance, la générosité — et l’excès, comme cette seconde couronne. Ajoutez le [Lion](/fr/bibliotheque/astrologie/lion/), le « je veux » du zodiaque, et vous avez le dessin : une grande victoire, en public.
+La Golden Dawn loge le Six de Bâtons dans le deuxième décan du Lion : Jupiter en Lion. [Jupiter](/fr/bibliotheque/astrologie/jupiter/), c’est l’expansion, la confiance, la générosité — et l’excès, comme cette seconde couronne. Ajoutez le [Lion](/fr/bibliotheque/astrologie/lion/), le « je veux » du zodiaque, et vous avez le dessin : une grande victoire, en public.
 
 Gardez la clé si elle vous parle. Elle ajoute un avertissement : Jupiter grossit tout ce qu’il touche, et le Lion adore le public. Si l’astrologie n’est pas votre truc, les deux couronnes l’ont déjà dit.
 
@@ -87,6 +83,6 @@ Renversé, le cortège ne vient pas. Le travail est fait et personne ne le remar
 
 Que feriez-vous du Six de Bâtons à côté du Quatre de Coupes ? Prenez-le comme un exercice. Le nombre : six, puis quatre — la réussite, puis une stabilité qui peut tourner à l’ennui. L’élément : le Feu, puis l’Eau — la reconnaissance publique, puis le ressenti intime. Les couleurs : le vert, le rouge et le bleu du cortège, puis un jeune homme sous un arbre, bras croisés, qui ignore la coupe qu’une main lui tend depuis un nuage.
 
-La phrase que je dirais à voix haute : « Vous avez connu une réussite récemment, et les gens l’ont remarquée. Mais à l’intérieur, ce n’est pas ce que vous imaginiez — quelque chose vous laisse à plat, et vous passez peut-être à côté d’une nouvelle proposition à cause de ça. »
+Après le triomphe, l’ennui sous l’arbre : « Une réussite récente a été remarquée autour de vous. Mais à l’intérieur, ce n’est pas ce que vous imaginiez — quelque chose vous laisse à plat, et vous passez peut-être à côté d’une nouvelle proposition à cause de ça. »
 
-Ensuite je demande si ça parle. Si oui, la question utile, c’est ce que la personne attendait de ce succès. Si non, je note le raté. Travailler des paires comme celle-ci à votre rythme, c’est à ça que sert une [séance individuelle](/fr/sessions/).
+Je demande ensuite si la phrase touche juste. Si oui, la question utile, c’est ce que la personne attendait de ce succès. Si aucune réussite récente ne lui vient, je l’inscris comme un raté. Travailler des paires comme celle-ci à votre rythme, c’est à ça que sert une [séance individuelle](/fr/sessions/).

@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/wa02.webp
 h1: Deux de Bâtons — <em>deux</em>, le Feu
-lede: 'Avant de chercher ce que « signifie » Deux de Bâtons, regardez ce que vous
-  avez déjà : deux, l’élément Feu, Mars en Bélier. Vous lisez la carte. Le nombre
-  dit deux — se lier, peser, coopérer ; l’élément dit l’élan, ce qu’on lance. Posez
-  les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà —
-  le reste de la page vous montre comment.'
+lede: 'Sur le toit de son château, un homme en rouge soupèse un petit globe, les yeux sur la mer. Il a les moyens et l’élan : qu’attend-il pour partir, et vous, qu’attendez-vous ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -53,13 +49,13 @@ Il est bien habillé, à l’abri, en hauteur — et il ne part pas encore. **Il
 
 [Deux](/fr/bibliotheque/numerologie/chiffre-2/), c’est le contrat : deux parties, un lien, et la prudence qui va avec. Ici, les deux parties sont l’homme et le monde — ce qu’il a entre ses murs, et ce qu’il pourrait avoir dehors. Un bâton dans la main, l’autre fixé à la pierre. Il les pèse.
 
-Dans l’histoire d’Instagram, le 2, c’est la signature avec les investisseurs — le pas que cet homme n’a pas encore franchi. Le revers du 2, c’est l’entêtement, la solitude, la tête qui tourne en rond — des mois sur le toit, le globe à la main, sans rien signer.
+Pour Instagram, ce cap-là, c’était de signer avec des investisseurs — un pas que cet homme n’a pas encore fait. Le revers du 2, c’est l’entêtement, la solitude, la tête qui tourne en rond — des mois sur le toit, le globe à la main, sans rien signer.
 
 ## Par l’élément : Feu {#element}
 
 Le [Feu](/fr/bibliotheque/quatre-elements/element-feu/), c’est l’impulsion, et ici elle est retenue exprès. L’étincelle brute de l’As est devenue ambition : la question n’est plus « est-ce que je veux quelque chose ? » mais « jusqu’où puis-je l’emmener ? ».
 
-Un Feu qui a un plan forge des outils au lieu d’incendier la grange. Mais le Feu supporte mal l’attente : quand la préparation s’éternise, l’élan tourne à la frustration, et l’adolescent qui se croyait capable de tout se met à faire les cent pas sur les remparts.
+Un Feu qui a un plan forge des outils au lieu d’incendier la grange. Mais le Feu supporte mal l’attente : quand la préparation s’éternise, l’élan tourne à la frustration, et le jeune qui pensait tout pouvoir se met à faire les cent pas sur les remparts.
 
 ## Par les couleurs {#couleurs}
 
@@ -69,9 +65,9 @@ Face au rouge, le bleu de l’eau et des montagnes : ce qui est loin, encore à 
 
 ## Par l’astrologie : Mars en Bélier {#astrologie}
 
-Dans la tradition Golden Dawn, le Deux de Bâtons correspond à Mars en Bélier : les dix premiers degrés du signe qui ouvre le zodiaque. Le [Bélier](/fr/bibliotheque/astrologie/belier/) dit « je suis » : celui qui fait, le maçon plutôt que l’architecte. Mars le gouverne : c’est l’élan chez lui, brut, rapide, direct.
+La Golden Dawn place le Deux de Bâtons sous Mars en Bélier : les dix premiers degrés du signe qui ouvre le zodiaque. Le [Bélier](/fr/bibliotheque/astrologie/belier/) dit « je suis » : celui qui fait, le maçon plutôt que l’architecte. Mars le gouverne : c’est l’élan chez lui, brut, rapide, direct.
 
-Cela vous dit que l’homme sur le toit n’est pas un rêveur. L’énergie de partir est là ; ce qui le retient, c’est un choix. Gardez cette clé ou laissez-la — [les décans](/fr/blog/decans-tarot/) sont un supplément, jamais la règle.
+Cela vous dit que l’homme sur le toit n’est pas un rêveur. L’énergie de partir est là ; ce qui le retient, c’est un choix. Ce supplément, [les décans](/fr/blog/decans-tarot/), se prend ou se laisse ; le manteau rouge suffit à montrer l’impatience.
 
 ## En lecture {#lecture}
 
@@ -85,8 +81,8 @@ Renversé, la préparation devient une cachette : le voyage encore repoussé, le
 
 ## Exemple de tirage {#exemple}
 
-Voici une paire inventée pour s’exercer : le Deux de Bâtons, avec le Huit de Coupes posé à côté. Le nombre : deux, puis huit — peser un lien, puis passer à autre chose que ce qu’on fait déjà. L’élément : le Feu, puis l’Eau — l’ambition, puis le sentiment. Les couleurs : l’homme en rouge sur sa pierre grise, puis une autre silhouette en rouge qui s’éloigne de huit coupes sous un ciel de nuit. Le même rouge, en marche cette fois.
+Voici une paire inventée pour s’exercer : le Deux de Bâtons, avec le Huit de Coupes posé à côté. Le nombre : deux, puis huit — peser un lien, puis laisser derrière soi ce qu’on a déjà en main. L’élément : le Feu, puis l’Eau — l’ambition, puis le sentiment. Les couleurs : l’homme en rouge sur sa pierre grise, puis une autre silhouette en rouge qui s’éloigne de huit coupes sous un ciel de nuit. Le même rouge, en marche cette fois.
 
 La phrase que je dirais à voix haute : « Ça fait un moment que vous regardez une vie plus grande depuis l’endroit où vous êtes, et une partie de vous est déjà partie. La question n’est pas de savoir si c’est possible. C’est de savoir si vous allez vous laisser partir. »
 
-Ensuite, je vérifie : est-ce bien là que la personne en est ? Si oui : quel serait le premier pas, ce mois-ci ? Si non, je le note tel quel — ce que j’ai dit dans une colonne, ce qui a été confirmé dans l’autre. C’est à ça que sert un [carnet de tirages](/fr/blog/carnet-de-tirage-tarot/).
+Je le soumets ensuite à la personne : est-ce bien là qu’elle en est ? Si oui : quel serait le premier pas, ce mois-ci ? Si non, je le note tel quel — ce que j’ai dit dans une colonne, ce qui a été confirmé dans l’autre. C’est à ça que sert un [carnet de tirages](/fr/blog/carnet-de-tirage-tarot/).

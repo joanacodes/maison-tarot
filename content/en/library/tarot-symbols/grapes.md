@@ -16,7 +16,7 @@ related:
 - /library/four-elements/earth-element
 faq:
 - q: "What do the grapes on the King of Pentacles mean?"
-  a: "His robe is covered with vines and bunches of grapes, and more vines grow around his throne. I read them as wealth that has been grown rather than found: the result of work, enjoyed. In my notes, Earth is matter and whatever has value for you."
+  a: "His robe is covered with vines and bunches of grapes, and more vines grow around his throne. I read them as wealth that has been grown rather than found: the result of work, enjoyed. Earth, in my notes, covers matter and anything you value."
 - q: "Which tarot cards have grapes?"
   a: "In the 1909 Rider-Waite-Smith: the King of Pentacles, the Nine of Pentacles, the Ten of Pentacles (in the pattern of the old man’s robe) and the Three of Cups. Three of the four are Pentacles, the suit of Earth and of things you can hold."
 gallery:
@@ -53,7 +53,7 @@ Grapes are a harvest you can’t rush. A new vine takes years to bear well, the 
 
 They’re also a fruit for sharing. Nobody eats a bunch of grapes in one bite.
 
-## Where it appears in the deck {#where}
+## Vines on three Pentacles, and grapes at a party {#where}
 
 On [the King of Pentacles](/library/tarot-cards/king-of-pentacles/), grapes are everywhere. His dark robe is covered with vines and bunches of grapes, more vines climb around a throne carved with bulls’ heads, and a castle stands behind him. The most prosperous-looking card in the deck is dressed as a vineyard.
 
@@ -71,7 +71,7 @@ On the Three of Cups, the woman on the right holds a bunch of grapes in her lowe
 
 When grapes come up, ask whether a harvest is ready, and whether anyone is letting themselves enjoy it. On the Pentacles, grapes are wealth that has been grown: the King wears it, the woman of the Nine walks in it, the old man of the Ten has passed it on. On the Three of Cups, they’re pleasure shared with friends.
 
-Lenses: three of the four cards are [Earth](/library/four-elements/earth-element/), the Pentacles. In my notes Earth is matter, prosperity, whatever has value for you, money or sentimental — and not all riches are gold. Number: 9 is the finish line, 10 the passage to what comes next, and [3](/library/numerology/number-3/) is a good rhythm, the machine running.
+Lenses: three of the four cards are [Earth](/library/four-elements/earth-element/), the Pentacles. In my notes Earth is matter and prosperity, anything that’s worth something to you, financially or sentimentally — and not all riches are gold. Number: 9 is nearly there, 10 the passage to what comes next, and [3](/library/numerology/number-3/) is a good rhythm, the machine running.
 
 Say someone draws the King of Pentacles after years of building a small business. The grapes might say: this is the harvest. Count it, then let yourself taste it.
 

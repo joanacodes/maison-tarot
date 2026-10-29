@@ -9,7 +9,7 @@ tags: ["à des fins de divertissement", "mention divertissement voyance", "avert
 image: "covers/entertainment-purposes-only.jpg"
 imageAlt: "Un prospectus plié sur une table de café à côté d’un jeu de tarot fermé, les petits caractères du bas flous"
 imagePrompt: "A folded paper flyer lying on a small café table beside a closed tarot deck, the small print at the bottom of the flyer out of focus. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "« À des fins de divertissement » signifie qu’un tarologue ne promet aucun résultat et ne donne pas de conseil : une lecture ne remplace ni un médecin, ni un avocat, ni un conseiller financier, ni un thérapeute. Ça ne veut pas dire qu’il plaisante, et ça ne rend pas honnête une vente trompeuse. J’aime cette mention parce qu’elle dit la vérité sur ce qu’est une lecture. Personne ne sait comment le tarot fonctionne, moi comprise, et d’après mon propre décompte, environ une lecture sur dix ne tient pas. La phrase rend la décision à la personne à qui elle appartient."
+summary: "« À des fins de divertissement » signifie qu’un tarologue ne promet aucun résultat et ne donne pas de conseil : une lecture ne remplace ni un médecin, ni un avocat, ni un conseiller financier, ni un thérapeute. Ça ne veut pas dire qu’il plaisante, et ça ne rend pas honnête une vente trompeuse. J’aime cette mention parce qu’elle dit la vérité sur ce qu’est une lecture. Personne ne sait comment le tarot fonctionne, moi comprise, et mon carnet compte un raté pour dix lectures. La phrase rend la décision à la personne à qui elle appartient."
 ---
 « À des fins de divertissement » veut dire que le tarologue ne promet aucun résultat et ne donne aucun conseil à suivre à la place de celui d’un professionnel. On la lit souvent comme un clin d’œil, ou comme un bouclier juridique. Moi, j’y vois la phrase la plus honnête qu’on puisse trouver sur la page d’un tarologue, et elle est sur la mienne.
 
@@ -39,7 +39,7 @@ Ce n’est pas non plus un label de qualité. Un tarologue soigneux et un tarolo
 
 Parce qu’elle est vraie. Personne ne sait comment le tarot fonctionne, moi comprise. Je compte mes lectures, et environ une sur dix ne tient pas, d’après mon propre décompte : un carnet, pas une étude. Prétendre davantage que « une lecture peut vous montrer quelque chose », ce serait faire semblant, et dire « divertissement », c’est promettre de ne pas faire semblant.
 
-Parce qu’elle rend la décision. Une lecture n’est pas un ordre ; vous agissez selon ce que vous ressentez, pas selon ce que j’ai dit. La mention le met par écrit, là où chacun de nous peut le lire.
+Parce qu’elle rend la décision. Une lecture n’est pas un ordre ; c’est votre ressenti qui guide vos actes, pas mes paroles. La mention le met par écrit, là où chacun de nous peut le lire.
 
 Mettons que quelqu’un tire le Huit de Coupes.
 
@@ -47,7 +47,7 @@ Mettons que quelqu’un tire le Huit de Coupes.
 
 Je peux dire ce que je vois : une silhouette qui s’éloigne de nuit de huit coupes encore debout, qui quitte quelque chose qui ne la nourrit plus. Que ce soit un travail, un appartement ou rien du tout, et qu’il faille partir ou non, c’est à la personne d’en décider. La version longue de ce principe est dans [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
 
-Et parce qu’elle protège la personne plus que le tarologue. Quelqu’un qui entend « les cartes disent de le quitter » risque de le quitter. Quelqu’un qui entend « voilà ce que montrent les cartes, le choix vous appartient » rentre chez lui avec son choix intact. C’est aussi pour ça que certains sujets restent hors de mes lectures : la santé, la mort, la grossesse, les procédures en cours, les décisions d’argent. Un mot de travers y coûte trop cher, divertissement ou pas. Ce qu’une lecture peut porter à la place, c’est la façon dont vous traversez la situation.
+Et parce qu’elle protège la personne plus que le tarologue. Quelqu’un qui entend « les cartes disent de le quitter » risque de le quitter. Quelqu’un qui entend « voilà ce que montrent les cartes, le choix vous appartient » rentre chez lui avec son choix intact. C’est aussi pour ça que plusieurs questions n’entrent pas dans mes lectures : celles qui portent sur un corps malade, une grossesse, une mort, une décision d’argent ou un procès encore ouvert. Un mot de travers y coûte trop cher, divertissement ou pas. Ce qu’une lecture peut porter à la place, c’est la façon dont vous traversez la situation.
 
 ## Comment la lire chez quelqu’un d’autre {#la-lire-ailleurs}
 

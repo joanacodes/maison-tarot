@@ -25,13 +25,13 @@ Its suits are Batons, Cups, Swords and Coins, and its court cards are the Valet,
 
 The Rider-Waite-Smith is the deck published in London in 1909, drawn by Pamela Colman Smith under the direction of Arthur Edward Waite. Who the three names belong to, and how it became the standard, is [its own story](/blog/rider-waite-smith-tarot/). What matters here: it keeps the 78-card structure and changes the minors completely. Each of the 56 has a scene, with people doing something.
 
-Its suits are Wands, Cups, Swords and Pentacles. The Eight of Cups is a figure in a red cloak walking away from eight stacked cups, towards the mountains, under a moon. You understand something is being left behind before you've counted anything.
+Its suits are Wands, Cups, Swords and Pentacles. In its Eight of Cups, a red-cloaked traveller turns their back on a neat stack of eight cups and climbs away into the night hills. You understand something is being left behind before you've counted anything.
 
 ## Numbered pips or pictures: how you read each {#pips-or-pictures}
 
 On a Marseille pip, the number and the suit are almost all you have, so that's what you read. Eight is four “exalted”: lasting stability, control, a gate. Cups are Water, the emotions. Put them together and you get emotional stability that holds — and the question of what you do with it. The arrangement on the card helps: are the cups packed tight or spread out, is something growing between them?
 
-On a Rider-Waite-Smith card, you read the scene first and the number comes to confirm it. My note for that Eight of Cups is “moving on from what you're already doing”, and the figure walking away says it without a word.
+On a Rider-Waite-Smith card, you read the scene first and the number comes to confirm it. My note for that Eight of Cups is about leaving behind what you've been busy with, and the departing figure says it without a word.
 
 **The pips make you think in numbers; the pictures make you look.** That's why the Marseille pushes you to know your [numerology](/library/numerology/) cold, and why the Rider-Waite-Smith lets you read a card on the first day. The lenses I teach work on both. On a Marseille pip, number and element do nearly all the work; on a Rider-Waite-Smith card, they check what the picture already told you.
 
@@ -57,7 +57,7 @@ Here are the Rider-Waite-Smith versions of the cards that change the most:
 
 The Bateleur is a street performer at a table of objects; Waite's Magician holds up a wand, with all four suit symbols laid out in front of him. The Papesse becomes a High Priestess between two pillars. Strength and Justice were swapped by the Golden Dawn, the occult order Waite belonged to, so that the cards would follow the zodiac — Strength with Leo, Justice with Libra. If someone trained on the Marseille talks about “card eight”, they mean Justice; a Rider-Waite-Smith reader will hear Strength. Ask before you argue.
 
-And XIII has a number but, in the Marseille, no name: a skeleton mowing a field. It's often called the nameless arcane. The Rider-Waite-Smith writes “Death” on it and puts a skeleton in black armour on a white horse. In both, the card is about an ending that clears the ground, not about dying — the Marseille's mowing makes my own reading of it as a harvest very visible. More on that in [why Death is the card with no name](/blog/death-card-no-name/).
+And XIII has a number but, in the Marseille, no name: a skeleton mowing a field. It's often called the nameless arcane. The Rider-Waite-Smith writes “Death” on it and turns the mower into an armoured rider. In both, the card is about an ending that clears the ground, not about dying — the Marseille's mowing makes my own reading of it as a harvest very visible. More on that in [the story of card XIII's missing title](/blog/death-card-no-name/).
 
 ## Which deck should you learn on? {#which-deck}
 
@@ -65,7 +65,7 @@ The Marseille, if the people who'll teach you read it, if numbers speak to you, 
 
 The Rider-Waite-Smith, if you want to read without a book from the first card. It's the deck I read and teach with, and the one the whole Maison Tarot Library is built on, because every card is a scene.
 
-My honest limit: the notebook where I count my hits and misses was kept with the Rider-Waite-Smith, so I have nothing to say about which deck “works better”, and I'd be wary of anyone who claims to know.
+My honest limit: every reading I've tallied, hit or miss, was done with the Rider-Waite-Smith, so I have nothing to say about which deck “works better”, and I'd distrust anyone who says they can tell.
 
 ## Try both on the same card {#try-both}
 

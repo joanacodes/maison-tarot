@@ -8,7 +8,7 @@ weight: 26
 categories: ["Symboles"]
 tags: ["symboles du tarot", "raisin", "Roi de Pentacles", "Neuf de Pentacles", "Pentacles"]
 h1: "Le raisin — la <em>récolte</em> dont on profite"
-lede: "Le raisin met une saison entière à mûrir, et il faut encore du temps pour en faire du vin. Dans le Rider-Waite-Smith, il couvre la robe du Roi de Pentacles, pend en grappes lourdes dans le jardin du Neuf de Pentacles et se balance au bout d’une main parmi les trois femmes du Trois de Coupes."
+lede: "Le raisin met une saison entière à mûrir, et il faut encore du temps pour en faire du vin. Il couvre la robe du Roi de Pentacles, pend en grappes lourdes dans le jardin du Neuf de Pentacles et se balance au bout d’une main parmi les trois femmes du Trois de Coupes."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/roi-de-pentacles
@@ -16,9 +16,9 @@ related:
 - /bibliotheque/quatre-elements/element-terre
 faq:
 - q: "Que veut dire le raisin sur le Roi de Pentacles ?"
-  a: "Sa robe est couverte de vignes et de grappes, et d’autres vignes poussent autour de son trône. Je le lis comme une richesse qu’on a fait pousser plutôt que trouvée : le résultat du travail, dont on profite. Dans mes notes, la Terre, c’est la matière et tout ce qui a de la valeur pour vous."
+  a: "Sa robe est couverte de vignes et de grappes, et d’autres vignes poussent autour de son trône. Je le lis comme une richesse qu’on a fait pousser plutôt que trouvée : le résultat du travail, dont on profite. Dans mes notes, la Terre couvre la matière et ce à quoi vous attachez du prix."
 - q: "Quelles cartes du tarot ont du raisin ?"
-  a: "Dans le Rider-Waite-Smith de 1909 : le Roi de Pentacles, le Neuf de Pentacles, le Dix de Pentacles (dans le motif de la robe du vieil homme) et le Trois de Coupes. Trois sur quatre sont des Pentacles, la série de la Terre et des choses qu’on peut tenir."
+  a: "On en trouve sur quatre cartes : le Roi de Pentacles, le Neuf de Pentacles, le Dix de Pentacles (dans le motif de la robe du vieil homme) et le Trois de Coupes. Trois sur quatre sont des Pentacles, la série de la Terre et des choses qu’on peut tenir."
 gallery:
 - src: "visuals/sym-grapes/1.jpg"
   title: "Le temps de la vigne"
@@ -71,9 +71,9 @@ Sur le Trois de Coupes, la femme de droite tient une grappe dans sa main baissé
 
 Quand du raisin sort, demandez-vous si une récolte est prête, et si quelqu’un s’autorise à en profiter. Sur les Pentacles, le raisin est une richesse qu’on a fait pousser : le Roi la porte, la femme du Neuf s’y promène, le vieil homme du Dix l’a transmise. Sur le Trois de Coupes, c’est le plaisir partagé entre amies.
 
-Les clés de lecture : trois des quatre cartes sont [Terre](/fr/bibliotheque/quatre-elements/element-terre/), les Pentacles. Dans mes notes, la Terre, c’est la matière, la prospérité, tout ce qui a de la valeur pour vous, en argent ou en sentiment — et toutes les richesses ne sont pas de l’or. Le nombre : le 9 est la ligne d’arrivée, le 10 le passage vers la suite, et le [3](/fr/bibliotheque/numerologie/chiffre-3/), un bon rythme, la machine qui tourne.
+Trois des quatre cartes sont [Terre](/fr/bibliotheque/quatre-elements/element-terre/), les Pentacles. Mes notes rangent sous la Terre le concret, l’aisance matérielle, et ce qui a de l’importance pour vous, par son montant ou par les souvenirs qu’il porte. Toutes les fortunes ne brillent pas. Le nombre : le 9 est la ligne d’arrivée, le 10 le passage vers la suite, et le [3](/fr/bibliotheque/numerologie/chiffre-3/), un bon rythme, la machine qui tourne.
 
-Imaginons que quelqu’un tire le Roi de Pentacles après des années à construire une petite entreprise. Le raisin pourrait dire : la récolte, c’est maintenant. Comptez-la, puis autorisez-vous à y goûter.
+Après des années à construire une petite entreprise, quelqu’un tire le Roi de Pentacles. Le raisin pourrait dire : la récolte, c’est maintenant. Comptez-la, puis autorisez-vous à y goûter.
 
 ## L’autre face {#revers}
 

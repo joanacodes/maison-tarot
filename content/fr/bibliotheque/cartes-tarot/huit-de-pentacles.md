@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/pe08.webp
 h1: Huit de Pentacles — <em>huit</em>, la Terre
-lede: 'Avant de chercher ce que « signifie » Huit de Pentacles, regardez ce que vous
-  avez déjà : huit, l’élément Terre, Soleil en Vierge. Vous lisez la carte. Le nombre
-  dit huit — le mouvement, la maîtrise, le fruit du travail ; l’élément dit la matière,
-  ce qui tient. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte
-  vous parle déjà — le reste de la page vous montre comment.'
+lede: 'Penché sur son établi, un jeune artisan grave une pièce de plus ; les autres s’alignent sur le poteau voisin, et la ville reste loin dans son dos. Combien de pièces avant la maîtrise, et à quel prix ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre
@@ -30,7 +26,7 @@ faq:
 - q: 'Que signifie Huit de Pentacles ?'
   a: 'La maîtrise par la répétition : quelqu’un à l’établi, qui refait le même geste soigné jusqu’à ce qu’il tienne. Le 8 est le nombre de l’empire, la Terre l’élément de la matière : la carte parle d’un travail qui commence à porter ses fruits — et de l’effort qu’il demande encore.'
 - q: 'Huit de Pentacles renversé, ça change quoi ?'
-  a: 'Le même travail, freiné ou excessif. Freiné : le geste fait en pilote automatique, un poste où l’on n’apprend plus rien. Excessif : le perfectionnisme, la même pièce polie pour la dixième fois pendant que la vie attend dehors.'
+  a: 'Le geste perd son soin, ou ne sait plus s’arrêter : le travail fait en pilote automatique, un poste où l’on n’apprend plus rien — ou le perfectionnisme, la même pièce polie pour la dixième fois pendant que la vie attend dehors.'
 - q: 'Que dit le Huit de Pentacles sur le travail ?'
   a: 'C’est l’une des cartes du travail les plus claires du jeu : une formation, un métier, un projet amélioré pièce après pièce. Elle décrit où en est le travail, pas quel poste prendre ni quoi faire de votre salaire — ces choix vous appartiennent.'
 categories:
@@ -69,26 +65,26 @@ Puis le corps : une tunique bleue pour les émotions apaisées et la vitalité, 
 
 ## Par l’astrologie : Soleil en Vierge {#astrologie}
 
-Dans le système de la Golden Dawn, cette carte correspond au Soleil dans le premier décan de la [Vierge](/fr/bibliotheque/astrologie/vierge/). Le verbe de la Vierge, c’est « j’analyse » — l’ingénieur, l’exécutant hors pair — et le Soleil, ce autour de quoi une vie s’organise. Ensemble : quelqu’un dont le centre est de bien faire les choses.
+Le Huit de Pentacles, c’est le Soleil dans le premier décan de la [Vierge](/fr/bibliotheque/astrologie/vierge/). Le verbe de la Vierge, c’est « j’analyse » — l’ingénieur, l’exécutant hors pair — et le Soleil, le point autour duquel tourne une existence. Ensemble : quelqu’un dont le centre est de bien faire les choses.
 
-À garder ici comme petite confirmation : la carte majeure de la Vierge est l’Ermite, et cet homme est un ermite avec un marteau. Si l’[astrologie](/fr/bibliotheque/astrologie/) n’est pas votre clé de lecture, laissez-la de côté ; le nombre et l’élément ont déjà tout dit.
+À garder ici comme petite confirmation : la carte majeure de la Vierge est l’Ermite, et cet homme est un ermite avec un marteau. Sans l’[astrologie](/fr/bibliotheque/astrologie/), la carte reste entière : l’établi et les pièces du poteau en disent autant.
 
 ## En lecture {#lecture}
 
 À l’endroit : un travail en cours, et qui avance bien. Une formation, un apprentissage, un métier, un projet amélioré pièce après pièce ; la personne qui reste tard parce qu’elle veut que ce soit juste. **La maîtrise, c’est le même geste bien fait, encore et encore — la carte ne promet pas de raccourci, et n’en a pas besoin.**
 
-Renversée, le travail à l’établi perd son soin, ou ne s’arrête plus. Freiné : le geste fait en pilote automatique, l’apprentissage abandonné à la sixième pièce. Excessif : le perfectionnisme, ou tant d’heures à l’établi que la ville du coin, et les gens qui y vivent, se fondent dans l’horizon.
+Renversée, la carte montre un établi délaissé, ou un établi qu’on ne quitte plus. Délaissé : le geste fait en pilote automatique, l’apprentissage abandonné à la sixième pièce. Jamais quitté : le perfectionnisme, ou tant d’heures à l’ouvrage que la ville du coin, et les gens qui y vivent, se fondent dans l’horizon.
 
 À côté du [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/), le travail de l’artisan est regardé par d’autres. À côté de [l’Ermite](/fr/bibliotheque/cartes-tarot/l-ermite/), la Vierge deux fois : le retrait pour l’ouvrage, très bien tant qu’il a une fin. À côté du [Mat](/fr/bibliotheque/cartes-tarot/le-mat/), quelque chose qu’on quitte sans plan, et un savoir-faire qu’on apprend en faisant.
 
 {{< cards "pe03 ar09 ar00" >}}
 
-Si la question de fond porte sur l’argent — une augmentation, un placement, quitter un poste —, je comprends qu’elle surgisse avec cette carte. La décision vous appartient ; la carte décrit où en est le travail, et j’explique [comment je lis les Pentacles quand l’argent est sur la table](/fr/blog/tarot-et-argent/).
+Quand l’argent s’invite dans la question — une augmentation, un placement, quitter un poste —, je comprends qu’il surgisse avec cette carte. La décision vous appartient ; la carte décrit où en est le travail, et j’explique [ce qu’elle peut dire d’un salaire, et ce qu’elle ne peut pas dire](/fr/blog/tarot-et-argent/).
 
 ## Exemple de tirage {#exemple}
 
 Mettez-vous en face de quelqu’un qui vient de retourner le Huit de Pentacles, avec le Sept de Coupes à côté. Huit puis sept : une maîtrise en construction, puis la réflexion — et, dans mes notes, l’embarras du choix. Terre puis Eau : les mains dans la matière, puis une tête pleine d’envies. Un homme qui ne voit que sa pièce, puis une silhouette face à sept coupes qui flottent dans un nuage.
 
-À voix haute : « Vous savez faire quelque chose bien, et vous le faites. Mais une partie de vous regarde d’autres vies possibles, et n’est pas sûre que l’établi suffise. »
+L’artisan absorbé, puis les coupes qui flottent ; ma phrase serait : « Vous savez faire quelque chose bien, et vous le faites. Mais une partie de vous regarde d’autres vies possibles, et n’est pas sûre que l’établi suffise. »
 
-Puis vérifiez : « Est-ce que ça vous parle ? » Si oui, demandez quelle coupe tente le plus la personne. Si non, c’est un raté : dites-le, notez-le, et laissez le jeu où il est.
+Puis vérifiez : « Le travail vous suffit-il, ou une partie de vous rêve-t-elle d’autre chose ? » Si oui, demandez quelle coupe tente le plus la personne. Si non, la phrase n’a pas porté ; reconnaissez-le, consignez-le, et rangez le jeu.

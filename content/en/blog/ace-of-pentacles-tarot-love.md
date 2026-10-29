@@ -17,17 +17,17 @@ The Ace of Pentacles in love is a beginning you can touch. Not fireworks: a seed
 
 ## What a single coin does between two people {#a-single-coin}
 
-Two lenses do most of the work here. The number is one: the initiator, the rough diamond, the start of a cycle. My note on one gives it humility as advice — get ready to learn — and the lack of it as its minus, whereas we are all students our whole life. In love, that’s the difference between a beginning you explore and a beginning you think you already understand.
+Two lenses do most of the work here. The number is one: the initiator, the rough diamond, the start of a cycle. My note on one gives it humility as advice — get ready to learn — and the lack of it as its minus, when in truth none of us ever stops being a student. In love, that’s the difference between a beginning you explore and a beginning you think you already understand.
 
-The element is Earth, which in my notes means whatever has value for you, money or sentiment, with a mostly feminine energy: protective, steady, the mother of all growth. Between two people, the coin is time, attention, a spare key, a Sunday kept free: things you can count, and things that hold.
+The element is Earth, which in my notes covers what you treasure, money or otherwise, with a mostly feminine energy: protective, steady, the mother of all growth. Between two people, the coin is time, attention, a spare key, a Sunday kept free: things you can count, and things that hold.
 
-Lay the two together and the card says that something small, real and worth keeping has been offered. One detail of the drawing matters for love: the garden path is empty. The colours and the rest are on [the Ace of Pentacles page](/library/tarot-cards/ace-of-pentacles/).
+Lay the two together and the card says that something small, real and worth keeping has been offered. For a love question, I look past the hand to the garden path: no one on it yet. The colours and the rest are on [the Ace of Pentacles page](/library/tarot-cards/ace-of-pentacles/).
 
 **The coin is offered and the path is empty: the beginning is real, and the walking is yours.**
 
 ## Ground to stand on: alone, together, or after it ends {#ground}
 
-If someone drew this card for a love question and told me nothing first, the sentence I’d say out loud would be close to: “Something small and solid is being offered to you, and you’re wondering whether to trust it.” Then I’d stop and let them tell me whether it lands, and what it is. Where it lands depends on where they stand.
+If someone drew this card for a love question and told me nothing first, my first words would be close to: “Something small and solid is being offered to you, and you’re wondering whether to trust it.” Then I’d stop. They tell me if that’s true, and what the offer is. What it turns out to be depends on where they stand.
 
 When you’re single, the Ace of Pentacles is rarely a lightning bolt. It points at ground. A life steady enough to welcome someone, a week with room in it, the practical steps that make meeting people possible: saying yes to the dinner, joining the class, staying for a second drink. Say someone draws it after months of waiting for chemistry to strike. The card suggests looking for something slower — a person, or a version of yourself, you can build with.
 
@@ -45,7 +45,7 @@ In excess, it’s Earth’s stubbornness and one’s missing humility. Holding t
 
 When something finally feels solid, it’s natural to want a guarantee. “Is this the one?” “Will it last?” “Will they propose?” Those questions usually come from someone who has been let down before and would like, this time, to know before they invest.
 
-I don’t read on the future of two people, because half of it belongs to someone who isn’t in the room, and a card can’t sign a contract on their behalf. The Ace offers a seed, not a promise. Some people also read this card as a partner with money. It says nothing about anyone’s bank account, and money decisions aren’t something I read on ([reading the Pentacles with your feet on the ground](/blog/tarot-cards-for-money/)).
+I don’t read on the future of two people: half of it belongs to someone absent from the table, and a card can’t sign a contract on their behalf. The Ace offers a seed, not a promise. Some people also read this card as a partner with money. It says nothing about anyone’s bank account, and money decisions aren’t something I read on ([why a coin in a love reading isn’t a bank balance](/blog/tarot-cards-for-money/)).
 
 A kinder question: “What am I ready to build, and what would a first concrete step look like this month?” That one has an answer you can carry out.
 
@@ -63,4 +63,4 @@ Next to Death, the harvest and the seed in the same spread: something has ended,
 
 Write down three things your relationship — or your life, if you’re single — is actually built on today. Then add one thing you’d like to build, in concrete terms: a day, a habit, a place. Keep the list, and look at it again in a month.
 
-If you’d like to try reading cards like this with other people around the table, the [free events](/events/) are a good place to start.
+If you’d like to try reading cards this way in company, the [free events](/events/) are where I’d begin.

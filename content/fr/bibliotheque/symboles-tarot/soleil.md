@@ -8,7 +8,7 @@ weight: 2
 categories: ["Symboles"]
 tags: ["symboles du tarot", "soleil tarot", "le Soleil", "la Mort", "les Amoureux"]
 h1: "Le soleil — la <em>lumière</em> qui montre tout"
-lede: "Le soleil, c’est ce qui éclaire et donne à voir. Dans le jeu de 1909, il brille sur six cartes, et pas toujours sur les plus gaies : sur la Mort, il se tient à l’horizon entre deux tours."
+lede: "Le soleil, c’est ce qui éclaire et donne à voir. Il brille sur six cartes du jeu, et pas toujours sur les plus gaies : sur la Mort, il se tient à l’horizon entre deux tours."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/le-soleil
@@ -18,7 +18,7 @@ faq:
 - q: "Le soleil est-il toujours bon signe au tarot ?"
   a: "C’est le signe que quelque chose est à découvert. La plupart du temps, c’est agréable. Sur la Mort, le même soleil est bas sur l’horizon, et la carte vous laisse dire s’il se lève ou s’il se couche."
 - q: "Quelle différence entre cette page et la carte du Soleil ?"
-  a: "La carte XIX a sa propre page, et le Soleil du thème astral en a une autre. Cette page suit le soleil comme détail dessiné, d’un bout à l’autre du jeu."
+  a: "L’arcane XIX et le Soleil astrologique sont traités ailleurs ; ici, le soleil est un détail dessiné, suivi d’un bout à l’autre du jeu."
 gallery:
 - src: "visuals/sym-sun/1.jpg"
   title: "Le matin éclaire"
@@ -51,7 +51,7 @@ Le soleil, c’est la lumière, la chaleur, un jour qui commence. C’est aussi 
 
 {{< zoom "sun" "lead" >}}
 
-Un exemple de tous les jours : le lendemain d’une longue discussion, quand ce qui paraissait inextricable à minuit devient évident devant le café. Rien n’a changé, sauf la lumière. La nuit porte conseil, dit-on ; le matin, surtout, éclaire.
+Souvenez-vous du lendemain d’une longue discussion, quand ce qui paraissait inextricable à minuit devient évident devant le café. Rien n’a changé, sauf la lumière. Le proverbe donne le mérite à la nuit ; c’est pourtant le matin qui éclaire.
 
 ## Où il apparaît dans le jeu {#ou}
 
@@ -71,7 +71,7 @@ Et le Soleil, XIX, lui donne toute la carte, avec un visage, des rayons droits e
 
 {{< zoom "sun" "rest" >}}
 
-La carte a [sa propre page](/fr/bibliotheque/cartes-tarot/le-soleil/), et le Soleil du thème astral en a [une autre](/fr/bibliotheque/astrologie/soleil/). Ici, on suit le soleil dessiné, de carte en carte.
+[La carte du Soleil](/fr/bibliotheque/cartes-tarot/le-soleil/) se lit sur sa page, et [le Soleil du thème astral](/fr/bibliotheque/astrologie/soleil/) sur une autre. Ici, on suit le soleil dessiné, de carte en carte.
 
 ## Comment le lire {#lecture}
 

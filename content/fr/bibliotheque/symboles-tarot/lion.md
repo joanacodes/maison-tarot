@@ -8,7 +8,7 @@ weight: 19
 categories: ["Symboles"]
 tags: ["symboles du tarot", "lion", "la Force", "signe du Lion", "Bâtons"]
 h1: "Le lion — le <em>courage</em>, et la chaleur qui va avec"
-lede: "Le lion, c’est l’énergie brute avec une crinière en guise de couronne : le courage, la fierté, l’appétit. Dans le Rider-Waite-Smith, des mains de femme le calment sur la Force, il est sculpté sur les trônes des Bâtons, et il veille dans un coin de la Roue et du Monde."
+lede: "Le lion, c’est l’énergie brute avec une crinière en guise de couronne : le courage, la fierté, l’appétit. Des mains de femme le calment sur la Force, il est sculpté sur les trônes des Bâtons, et il veille dans un coin de la Roue et du Monde."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/la-force
@@ -55,7 +55,7 @@ Sa crinière ressemble déjà à une couronne, et c’est pour ça qu’il finit
 
 ## Où il apparaît dans le jeu {#ou}
 
-La Force est la carte du lion : une femme en blanc se penche sur un grand lion rouge et lui referme la gueule sans effort. Le lion n’est ni tué ni enchaîné ; il est calmé. [La page de la Force](/fr/bibliotheque/cartes-tarot/la-force/) lit toute la carte, et celle du [Lion](/fr/bibliotheque/astrologie/lion/) le signe qui se tient derrière.
+La Force est la carte du lion : une femme en blanc se penche sur un grand lion rouge et lui referme la gueule sans effort. Le lion n’est ni tué ni enchaîné ; il est calmé. Pour la carte entière, voyez [la Force](/fr/bibliotheque/cartes-tarot/la-force/) ; pour le signe qui se tient derrière, [le Lion](/fr/bibliotheque/astrologie/lion/).
 
 La Roue de Fortune et le Monde gardent tous deux un lion dans le coin en bas à droite — ailé, un livre ouvert devant lui, sur la Roue, une tête dans les nuages sur le Monde. C’est l’une des quatre créatures, avec le taureau, l’aigle et la figure humaine, qu’on lit généralement comme les quatre signes [fixes](/fr/bibliotheque/modes-astrologiques/fixe/).
 
@@ -71,9 +71,9 @@ Sur le Deux de Coupes, une tête de lion rouge aux larges ailes flotte au-dessus
 
 Quand un lion apparaît, regardez ce qu’on en fait. Calmé, sur la Force : un courage qui ne crie pas. Sculpté dans un trône, sur la cour des Bâtons : la passion devenue autorité. Posté dans un coin, sur la Roue et le Monde : une énergie stable qui tient pendant que tout tourne.
 
-Les clés de lecture : le lion est [Feu](/fr/bibliotheque/quatre-elements/element-feu/) — la création, l’élan, l’énergie qui met en mouvement, et qui se propage quand personne ne la maîtrise. Dans mes notes, l’archétype du Feu, c’est l’adolescent plein de vie qui se croit capable de tout. La couleur : le lion de la Force est rouge orangé, et l’[orange](/fr/bibliotheque/couleurs-tarot/orange/), dans ma grille, c’est la créativité et le désir.
+Commencez par l’élément : le lion est [Feu](/fr/bibliotheque/quatre-elements/element-feu/) — la création, l’élan, l’énergie qui met en mouvement, et qui se propage quand personne ne la maîtrise. Mes notes donnent au Feu un archétype : l’ado débordant d’énergie, convaincu de pouvoir tout faire. La couleur : le lion de la Force est rouge orangé, et l’[orange](/fr/bibliotheque/couleurs-tarot/orange/) parle de créativité et de désir.
 
-Imaginons que quelqu’un tire la Force à côté du Roi de Bâtons. Deux lions : l’un calmé, l’autre sur un trône. La lecture pourrait être : vous avez appris à tenir votre colère, et maintenant on vous demande de diriger.
+Avec la Force à côté du Roi de Bâtons, il y a deux lions : l’un calmé, l’autre sur un trône. La lecture pourrait être : vous avez appris à tenir votre colère, et maintenant on vous demande de diriger.
 
 ## L’autre face {#revers}
 

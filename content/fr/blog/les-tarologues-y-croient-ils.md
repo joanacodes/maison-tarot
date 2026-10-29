@@ -25,15 +25,15 @@ Les tarologues y répondent dans toutes les combinaisons. Certains parlent ouver
 
 ## Ce que je ne crois pas {#ce-que-je-ne-crois-pas}
 
-Je ne crois pas que les cartes soient magiques. Ce sont 78 images dessinées en 1909 par Pamela Colman Smith, et une édition bon marché se lit aussi bien qu’une belle. Le jeu aide à se concentrer, ou à lâcher prise, pour que vos propres pensées et vos a priori s’écartent.
+Je ne crois pas que les cartes soient magiques. Ce sont 78 images dessinées en 1909 par Pamela Colman Smith, et une édition bon marché se lit aussi bien qu’une belle. Le jeu sert à fixer l’attention, ou à la détendre, le temps que vos idées sur la question laissent de la place.
 
-Je ne crois pas non plus au don : chez les personnes que j’ai aidées à lire, il a toujours suffi d’un à trois essais.
+Je ne crois pas non plus au don : mes élèves ont tous lu au bout d’un à trois essais.
 
 Et je ne prétends pas savoir comment ça marche. Personne ne le sait, y compris ceux qui vendent des certitudes à ce sujet. Je passe en revue les quatre explications sérieuses dans [comment marche vraiment le tarot ?](/fr/blog/comment-marche-le-tarot/) et je termine quand même sur « je ne sais pas ».
 
 ## Ce que je crois, parce que j’ai compté {#ce-que-j-ai-compte}
 
-Je suis arrivée là en sceptique : j’ai lancé une vidéo d’astrologie pour m’en moquer, et j’ai fini par tester mon propre thème case par case. Cette histoire, chiffres compris, est dans [un sceptique peut-il apprendre le tarot ?](/fr/blog/un-sceptique-peut-il-apprendre-le-tarot/)
+Je suis arrivée là en sceptique : une vidéo d’astrologie regardée pour en rire, puis mon propre thème vérifié position après position. J’ai raconté [comment le doute m’a menée aux cartes, chiffres compris](/fr/blog/un-sceptique-peut-il-apprendre-le-tarot/).
 
 J’ai fait la même chose avec le tarot, et [j’ai compté mes tirages à l’aveugle](/fr/blog/le-tarot-marche-t-il-300-tirages/). À peu près neuf lectures sur dix tenaient. À peu près une sur dix ratait, et je le dis. Ces ratés sont la partie à laquelle je me fie le plus : un tarologue incapable de vous dire combien de fois il se trompe vous demande de croire le reste sur parole.
 
@@ -43,9 +43,9 @@ Ce que je crois, c’est donc un taux, dans des conditions données. C’est mon
 
 Certaines choses sont arrivées qu’aucun décompte ne couvre. La plus nette est venue après un tirage pour une amie : ce qui ressemblait à la présence de son grand-père, et un message qui l’a conduite jusqu’à [une cave pleine de pots de peinture](/fr/blog/le-tarot-est-il-malefique/), au sous-sol de son immeuble. Ça s’est arrêté là.
 
-Je ne l’explique pas, et je ne bâtis rien dessus. Ce n’était pas une prophétie ; c’était de la peinture. Ma définition de travail de la magie trouve sa place ici : ce qu’on sait exister mais qu’on est incapable d’expliquer.
+Je ne l’explique pas, et je ne bâtis rien dessus. Ce n’était pas une prophétie ; c’était de la peinture. La définition de la magie dont je me sers trouve sa place ici : ce qu’on sait exister mais qu’on est incapable d’expliquer.
 
-Tout ce qui ressemble à ça, tout ce que je ne peux pas vérifier, va sur une étagère dans ma tête, avec une étiquette : « sceptique, mais si ça arrive, j’étais prévenue ». C’est une façon de garder une impression sans y croire et sans la jeter. Elle ne finit jamais sur les genoux de quelqu’un sous forme de prédiction.
+Tout ce qui ressemble à ça, tout ce que je ne peux pas vérifier, je le range de côté : j’en doute, mais si ça se produit, je ne serai pas prise de court. C’est une façon de garder une impression sans y croire et sans la jeter. Elle ne se retrouve jamais servie à quelqu’un comme une prédiction.
 
 C’est ce qui ressemble le plus, chez moi, à une croyance. Ni foi ni rejet : un « je ne sais pas » honnête, avec les éléments laissés sur la table.
 
@@ -57,6 +57,6 @@ Demandez plutôt : comment vérifiez-vous ? Comptez-vous vos ratés ? Me demande
 
 ## Faut-il y croire pour essayer ? {#faut-il-y-croire}
 
-Non. Je n’y croyais pas. Vous pouvez venir en sceptique, lire pour quelqu’un qui ne vous dit rien, et noter ce qui se passe. Si vous voulez savoir ce que la croyance change dans une lecture, et ce qu’elle ne change pas, j’en parle dans [faut-il croire au tarot pour que ça marche ?](/fr/blog/faut-il-croire-au-tarot/)
+Non. Je n’y croyais pas. Vous pouvez venir en sceptique, lire pour quelqu’un qui ne vous dit rien, et noter ce qui se passe. Si vous voulez savoir ce que la croyance change dans une lecture, et ce qu’elle ne change pas, voyez [s’il faut y croire pour que ça marche](/fr/blog/faut-il-croire-au-tarot/).
 
 Ou venez à un des [événements gratuits](/fr/evenements/), et regardez les bras croisés. Personne ne vous en voudra.

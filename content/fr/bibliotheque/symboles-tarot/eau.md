@@ -8,7 +8,7 @@ weight: 5
 categories: ["Symboles"]
 tags: ["symboles du tarot", "eau tarot", "Tempérance", "l’Étoile", "As de Coupes"]
 h1: "L’eau — le <em>sentiment</em>, versé ou dormant"
-lede: "L’eau prend la forme de ce qui la contient, et elle finit toujours par passer. Dans le jeu de 1909, elle est versée, rassemblée en bassins, elle tombe d’une coupe — et presque chaque fois, c’est un sentiment qu’on manie."
+lede: "L’eau prend la forme de ce qui la contient, et elle finit toujours par passer. D’une carte à l’autre, elle est versée, rassemblée en bassins, elle tombe d’une coupe — et presque chaque fois, c’est un sentiment qu’on manie."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/quatre-elements/element-eau
@@ -51,11 +51,11 @@ L’eau coule, remplit, reflète et prend la forme de son récipient. Dans mes n
 
 {{< zoom "water" "lead" >}}
 
-Un exemple de tous les jours : le verre d’eau qu’on vous sert quand vous arrivez bouleversé. Personne n’a rien réglé. Mais on s’occupe de quelque chose.
+Dans la vie courante, c’est le verre d’eau qu’on vous sert quand vous arrivez bouleversé. Personne n’a rien réglé. Mais on s’occupe de quelque chose.
 
 ## Où elle apparaît dans le jeu {#ou}
 
-Cette page suit l’eau à portée de main. La rivière a [sa propre page](/fr/bibliotheque/symboles-tarot/riviere/), et [la mer](/fr/bibliotheque/symboles-tarot/mer/) aussi.
+Cette page suit l’eau à portée de main. [La rivière](/fr/bibliotheque/symboles-tarot/riviere/) et [la mer](/fr/bibliotheque/symboles-tarot/mer/) ont chacune leur page.
 
 Sur [Tempérance](/fr/bibliotheque/cartes-tarot/temperance/), l’ange verse l’eau d’une coupe dans l’autre, un pied dans un bassin, l’autre sur la rive. L’eau maniée avec patience, ni retenue ni renversée.
 
@@ -83,9 +83,9 @@ Puis les clés. L’eau va avec [les Coupes et l’élément Eau](/fr/bibliotheq
 
 ## Le revers {#revers}
 
-L’eau dont on ne s’occupe pas croupit. Les flaques du Huit d’Épées en sont l’image : le sentiment laissé là où il est tombé. Dans mes notes, cette carte, c’est être prisonnier de soi alors qu’on a tous les outils — vous pouvez enlever le bandeau.
+L’eau dont on ne s’occupe pas croupit. Les flaques du Huit d’Épées en sont l’image : le sentiment laissé là où il est tombé. J’ai noté, pour cette carte : être prisonnier de soi alors qu’on a tous les outils — vous pouvez enlever le bandeau.
 
-Et trop d’eau noie. Le feu détruit d’un coup ; l’eau négligée détruit plus profond, plus longtemps.
+Et trop d’eau noie. Le feu ravage en un instant ; l’eau négligée détruit plus profond, plus longtemps.
 
 ## Avec les autres clés {#cles}
 

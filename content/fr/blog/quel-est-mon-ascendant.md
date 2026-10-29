@@ -49,11 +49,11 @@ En tarot, c’est l’Empereur à la porte — Bélier, Feu, celui qui commence 
 
 Autre exemple : un ascendant Scorpion, c’est souvent la personne qui ne dit rien de la soirée et attire tous les regards. Derrière cette porte peut vivre un signe solaire bavard et lumineux. La porte ne vous dit pas qui habite là ; elle vous dit comment on vous fera entrer.
 
-Et personne n’est un seul signe. Vous êtes un mélange de tout. [Soleil, Lune et ascendant ensemble](/fr/blog/soleil-lune-ascendant/) donnent un plan approximatif de la maison ; le reste du thème, ce sont les meubles.
+Et personne n’est un seul signe : un thème entier vit en chacun de nous. [Soleil, Lune et ascendant ensemble](/fr/blog/soleil-lune-ascendant/) donnent un plan approximatif de la maison ; le reste du thème, ce sont les meubles.
 
 ## Est-ce que ça compte ? Ce que mon test a dit {#est-ce-que-ca-compte}
 
-Quand [j’ai testé mon thème astral case par case](/fr/blog/j-ai-teste-mon-theme-astral/), coche ou croix pour chaque position, l’ascendant tenait environ une fois sur trois — à peu près comme le Soleil. Ce n’est pas rien, et ce n’est pas une grande preuve : une description flatteuse obtient un tiers sur presque tout le monde.
+Dans [le test que j’ai fait sur mon propre thème](/fr/blog/j-ai-teste-mon-theme-astral/), coche ou croix pour chaque position, l’ascendant tenait environ une fois sur trois — à peu près comme le Soleil. Ce n’est pas rien, et ce n’est pas une grande preuve : une description flatteuse obtient un tiers sur presque tout le monde.
 
 Une chose rend l’ascendant plus difficile à vérifier que le reste : on ne passe jamais devant sa propre maison. La façade, c’est la partie de vous que les autres voient mieux que vous. Pour un test plus juste, lisez la description de votre ascendant à quelqu’un qui vous connaît depuis peu, et laissez-le mettre la coche ou la croix.
 

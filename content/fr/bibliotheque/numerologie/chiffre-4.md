@@ -60,7 +60,7 @@ gallery:
 ---
 ## Ce que dit le 4 {#definition}
 
-**Le 4, c’est stabilité (le 2 exalté).** Le foyer, être chez soi, la structure. Le 4 est la stabilité acquise — le 2 exalté, l’alliance devenue fondation. Dans le [cycle des nombres](/fr/bibliotheque/numerologie/), il vient après le 3 et prépare le 5.
+**Le 4, c’est stabilité (le 2 exalté).** Le foyer, être chez soi, la structure. Le 4 est la stabilité acquise — le 2 exalté, l’alliance devenue fondation. Après la cadence du 3, il pose les murs ; le 5 viendra les éprouver, comme le montre [la suite des dix nombres](/fr/bibliotheque/numerologie/).
 
 ## Le conseil du 4 {#conseil}
 
@@ -68,7 +68,7 @@ Rester flexible. S’ouvrir à des possibilités non envisagées. Une structure 
 
 ## Un exemple que tout le monde connaît {#exemple}
 
-Instagram connaît un grand succès, rapide. L’application a une forme, une équipe, des habitudes. C’est solide — et c’est exactement le moment où une entreprise commence à croire qu’elle ne changera plus.
+Instagram connaît un grand succès, rapide. L’application a une forme, une équipe, des habitudes. C’est solide — et c’est précisément là qu’une entreprise se met à penser qu’elle restera toujours ainsi.
 
 ## Les cinq cartes qui portent le 4 {#cartes}
 
@@ -82,6 +82,6 @@ Instagram connaît un grand succès, rapide. L’application a une forme, une é
 
 ## En lecture {#lecture}
 
-Un 4 dans un tirage dit : **ça tient.** Le Quatre de Bâtons fête une maison, le Quatre de Pentacles serre ce qu’il a, le Quatre de Coupes s’ennuie dans son confort, le Quatre d’Épées se repose. L’Empereur est le 4 qui structure : la règle, le trône, le cadre. Regardez si la stabilité protège ou si elle enferme.
+Posé sur la table, un 4 signifie : **ça tient.** Le Quatre de Bâtons fête une maison, le Quatre de Pentacles serre ce qu’il a, le Quatre de Coupes s’ennuie dans son confort, le Quatre d’Épées se repose. L’Empereur est le 4 qui structure : la règle, le trône, le cadre. Regardez si la stabilité protège ou si elle enferme.
 
 {{% six %}}

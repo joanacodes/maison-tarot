@@ -7,7 +7,7 @@ type: library
 weight: 60
 short: "Signes et planètes"
 h1: "L’astrologie comme clé de lecture, <em>pas comme croyance</em>."
-lede: "Je suis venue à l’astrologie pour m’en moquer. J’ai testé mon thème case par case : 30 à 40 % de juste dans l’ensemble, 75 à 90 % pour Saturne, Lilith et Chiron. Alors je la garde — comme une clé, à poser sur les cartes qui portent un signe, et pas comme une explication du monde."
+lede: "J’avais mis une vidéo d’astrologie pour me moquer de la chose, puis j’ai lu mon thème : il était bien trop juste. Vérifié ligne à ligne, il se confirmait entre 30 et 40 % dans l’ensemble, et entre 75 et 90 % pour Saturne, Lilith et Chiron. Alors je la garde — comme une clé, à poser sur les cartes qui portent un signe, et pas comme une explication du monde."
 faq:
   - q: "Faut-il connaître l’astrologie pour lire le tarot ?"
     a: "Non. Les couleurs, les éléments et les nombres suffisent à lire le jeu. L’astrologie ajoute une couche sur douze arcanes majeurs et sur les cartes de 2 à 10 ; elle est utile, pas obligatoire."
@@ -43,9 +43,9 @@ Ce cadre vaut pour chaque signe et chaque astre de cette rubrique. **Aucun signe
 
 ## Comment poser cette clé sur une carte {#comment}
 
-Les douze arcanes majeurs ci-dessus portent un signe : quand vous en tirez un, vous avez son verbe, son élément et son mode d’un coup. L’Empereur *est* — Feu, cardinal : il commence et il commande. Le Chariot *ressent* — Eau, cardinal : il se met en route, l’émotion tenue.
+Les douze arcanes majeurs ci-dessus portent un signe, et chacun arrive avec trois indications toutes prêtes : ce que fait le signe (son verbe), sa matière (l’élément) et son rythme (le mode). L’Empereur *est* — Feu, cardinal : il commence et il commande. Le Chariot *ressent* — Eau, cardinal : il se met en route, l’émotion tenue.
 
-Les cartes de 2 à 10 portent une planète dans un signe (les décans). C’est une couche plus fine, indiquée sur chaque [page de carte](/fr/bibliotheque/cartes-tarot/), utile quand les trois premières clés ne suffisent plus à départager.
+Chaque carte numérotée des Mineurs, du 2 au 10, a aussi son décan : un astre placé dans un signe. C’est une couche plus fine, indiquée sur chaque [page de carte](/fr/bibliotheque/cartes-tarot/), utile quand les trois premières clés ne suffisent plus à départager.
 
 ## Les douze astres {#les-astres}
 

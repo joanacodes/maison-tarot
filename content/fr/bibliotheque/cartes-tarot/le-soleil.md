@@ -1,6 +1,6 @@
 ---
 title: 'Le Soleil (The Sun) — tarot Rider-Waite-Smith : lire la carte par ses clés de lecture'
-description: 'Le Soleil au tarot par ses clés : 19 qui devient 10, le Feu, le jaune, le Soleil lui-même — la joie, la réussite au travail, et comment la lire honnêtement.'
+description: 'Le Soleil au tarot : un enfant nu sur un cheval blanc, 19 devenu 10, le Feu, le jaune — la joie, la réussite au travail, et comment la lire honnêtement.'
 translationKey: card-ar19
 type: cards
 navTitle: Le Soleil
@@ -15,10 +15,7 @@ energy: Masculine
 kabbalah: Resh
 image: cards/ar19.webp
 h1: Le Soleil — <em>19</em>, le Feu
-lede: 'Avant de chercher ce que « signifie » Le Soleil, regardez ce que vous avez
-  déjà : 19, l’élément Feu, Soleil. Vous lisez la carte. Le nombre dit 19 — 1 + 9 = 10 — la fin du cycle, la transition ; l’élément dit l’élan, ce qu’on lance. Posez les
-  deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
-  de la page vous montre comment.'
+lede: 'Sous un soleil à visage humain, un enfant nu monte un cheval blanc sans selle, les bras grands ouverts, devant un mur que dépassent des tournesols. Ce bon moment, vous autorisez-vous à le vivre au grand jour ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -49,9 +46,9 @@ Regardez ce qui manque : pas de selle, pas de rênes, pas d’adulte, pas de vê
 
 ## Par le nombre : 19 {#nombre}
 
-Dix-neuf se ramène à [10](/fr/bibliotheque/numerologie/chiffre-10/), le nombre de la Roue de Fortune : le couloir entre deux pièces, la liberté, le changement, l’air qu’on reprend. Le 10 peut être de courte durée, et il se ramène lui-même à 1 : le Soleil est une ligne d’arrivée qui est aussi un départ.
+Dix-neuf se ramène à [10](/fr/bibliotheque/numerologie/chiffre-10/), le nombre de la Roue de Fortune : un passage d’une étape à l’autre, la liberté, le changement, l’air qu’on reprend. Le 10 peut être de courte durée, et il se ramène lui-même à 1 : le Soleil est une ligne d’arrivée qui est aussi un départ.
 
-Dans l’histoire d’Instagram, le 10, c’est le moment où les gens ne reconnaissent plus la plateforme, parce qu’elle est devenue tout autre chose : le cycle est bouclé, et une nouvelle histoire commence avec son propre 1. Le Soleil, c’est ce moment vu du bon côté. Vous avez traversé la nuit de la Lune, le 18, et pour l’instant, il n’y a plus rien à traverser.
+Au 10, Instagram a tant changé que ses premiers utilisateurs ne s’y retrouvent plus : le cycle est bouclé, et une nouvelle histoire repart de 1. Le Soleil, c’est ce moment vu du bon côté. Vous avez traversé la nuit de la Lune, le 18, et pour l’instant, il n’y a plus rien à traverser.
 
 ## Par l’élément : Feu {#element}
 
@@ -59,11 +56,11 @@ Le Soleil est une carte de [Feu](/fr/bibliotheque/quatre-elements/element-feu/),
 
 ## Par les couleurs {#couleurs}
 
-Du [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) partout — le soleil, les tournesols : la joie, l’optimisme, la fierté, l’expression de soi, l’enfant intérieur, ici presque au pied de la lettre. Le rouge de la bannière : l’action, la force, l’élan. Le blanc du cheval : l’innocence, la paix. Le gris du mur : la stabilité, ce qui tient sans rien dire. Lisez les couleurs avant la carte et vous avez déjà : de la joie, de l’énergie, rien à cacher, et un appui solide dans le dos.
+Du [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) partout — le soleil, les tournesols : la joie et l’optimisme, une fierté qui s’affiche, l’enfant intérieur, ici presque au pied de la lettre. Le rouge de la bannière : l’action, la force, l’élan. Le blanc du cheval : l’innocence, la paix. Le gris du mur : la stabilité, ce qui tient sans rien dire. Rien qu’en couleurs, voilà de la joie, de l’énergie, rien à cacher, et un appui solide dans le dos.
 
 ## Par l’astrologie : Soleil {#astrologie}
 
-Dans la tradition Golden Dawn, cette carte revient au [Soleil](/fr/bibliotheque/astrologie/soleil/) lui-même — le placement que tout le monde connaît, la réponse à « vous êtes de quel signe ? ». Il dit le centre : ce autour de quoi une personne organise sa vie, la lumière qu’elle veut montrer. Dans mon propre test, c’était l’un des placements les moins fiables, exact environ une fois sur trois : la vitrine plutôt que la boutique. C’est une bonne façon de lire la carte aussi — ce qui se montre volontiers.
+Sans surprise, la Golden Dawn attache cette carte au [Soleil](/fr/bibliotheque/astrologie/soleil/) lui-même — le placement que tout le monde connaît, la réponse à « vous êtes de quel signe ? ». Il dit le centre : ce autour de quoi une personne organise sa vie, la lumière qu’elle veut montrer. Dans mon propre test, c’était l’un des placements les moins fiables, exact environ une fois sur trois : la vitrine plutôt que la boutique. C’est une bonne façon de lire la carte aussi — ce qui se montre volontiers.
 
 ## En lecture {#lecture}
 
@@ -71,7 +68,7 @@ Dans la tradition Golden Dawn, cette carte revient au [Soleil](/fr/bibliotheque/
 
 Renversé, c’est la même lumière retenue — une réussite qu’on ne s’autorise pas à savourer, un bon moment qu’on garde pour plus tard. Ou poussée à l’excès : être vu devient le but, et l’on joue la bonne humeur au lieu de l’avoir.
 
-Certaines personnes voient l’enfant et demandent si la carte annonce une grossesse ; la question vient souvent de l’espoir ou de l’inquiétude. Je ne lis pas sur la grossesse, pour [les mêmes raisons que la santé](/fr/avertissements/#refus) : un médecin peut répondre, et le Soleil, lui, peut porter la joie autour de ce que vous espérez.
+Certaines personnes voient l’enfant et demandent si la carte annonce une grossesse, souvent avec beaucoup d’espoir, parfois avec inquiétude. Ce sujet, je le laisse aux médecins, pour [les mêmes raisons que la santé](/fr/avertissements/#refus) : eux peuvent répondre, et le Soleil, lui, peut porter la joie autour de ce que vous espérez.
 
 À côté de [la Lune](/fr/bibliotheque/cartes-tarot/la-lune/), le Soleil, c’est le matin après une longue nuit. À côté du [Six de Bâtons](/fr/bibliotheque/cartes-tarot/six-de-batons/), un autre cavalier sur un cheval blanc, c’est la réussite que les autres voient. À côté de [la Roue de Fortune](/fr/bibliotheque/cartes-tarot/la-roue-de-fortune/), un autre 10, il rappelle que c’est à vous de tourner la roue : faites votre propre chance tant que la lumière est bonne.
 
@@ -85,7 +82,7 @@ Au travail, le Soleil, c’est le moment où quelque chose marche et où ça se 
 
 Renversé au travail, c’est une réussite qu’on ne s’autorise pas à savourer, ou le mérite passé aux autres avant que quiconque le demande. En excès, c’est le post de félicitations avant que le travail soit fini, la bannière plus grande que le cheval ; mon conseil quand les résultats arrivent : rester calme et humble.
 
-Quand cette carte sort, on me demande si la bonne passe va durer : aurai-je la promotion, gagnerai-je plus ? Je comprends. Quand les choses vont enfin bien, on voudrait être sûr qu’elles continuent. Les promotions se décident entre des personnes qui ne sont pas dans la pièce, et ce que vous gagnerez est une question d’argent, un sujet que je laisse hors de mes tirages. Une carte qui promettrait une augmentation ferait du Soleil une dette dont vous attendriez le remboursement. Si la promotion compte, parlez-en à votre responsable, cette réussite en main. Une question plus douce : « Qu’est-ce qui a fait que ça a marché, et comment continuer ? »
+Quand cette carte sort, on me demande si la bonne passe va durer : aurai-je la promotion, gagnerai-je plus ? Je comprends. Quand les choses vont enfin bien, on voudrait être sûr qu’elles continuent. Les promotions se décident entre des personnes qui ne sont pas dans la pièce, et ce que vous gagnerez est une question d’argent, un sujet que je laisse hors de mes tirages. Une carte qui promettrait une augmentation ferait du Soleil une dette dont vous attendriez le remboursement. Si la promotion compte, parlez-en à votre responsable, cette réussite en main. La question à garder, plutôt : « Qu’est-ce qui a fait que ça a marché, et comment continuer ? »
 
 Cette semaine, notez ce qui a marché, tant que vous vous en souvenez — c’est votre recette pour le prochain 1 —, et le nom de ceux qui ont aidé. Le mur gris derrière l’enfant, ce sont tous ceux qui ont tenu bon pendant que vous chevauchiez devant. Remerciez-en un.
 
@@ -95,6 +92,6 @@ Place à une carte lumineuse : le Soleil, à côté du [Quatre d’Épées](/fr/
 
 Les nombres : 19 se ramène à 10, la fin d’un cycle ; le Quatre d’Épées est un 4, la stabilité, le repos après le travail. Les éléments : Feu et Air — de l’énergie, et un mental qui s’est reposé. Les images : le jaune grand ouvert du Soleil à côté de l’immobilité grise du Quatre d’Épées, un chevalier allongé au repos dans une chapelle silencieuse.
 
-La phrase que vous diriez à voix haute : « Quelque chose s’est terminé, et ça s’est bien passé. Vous vous êtes reposé ; vous avez le droit de vous lever et d’en profiter maintenant. »
+Après le repos, la lumière : « Une étape s’est terminée, et elle s’est bien passée. Vous vous êtes reposé ; vous avez le droit de vous lever et d’en profiter maintenant. »
 
-Puis vérifiez. Demandez à la personne ce que cela lui évoque, et laissez-la le dire avant vous. Si ça rate, notez-le. Quand ça tombe juste, prenez le temps d’en profiter avec la personne avant de passer à la suite.
+Ensuite, laissez la personne dire elle-même ce que la phrase lui rappelle, avant d’ajouter quoi que ce soit. Si rien ne s’est achevé pour elle, le raté va au carnet ; quand ça tombe juste, prenez le temps d’en profiter avec elle avant de passer à la suite.

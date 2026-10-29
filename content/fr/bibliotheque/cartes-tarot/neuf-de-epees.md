@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/sw09.webp
 h1: Neuf d’Épées — <em>neuf</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » Neuf d’Épées, regardez ce que vous avez
-  déjà : neuf, l’élément Air, Mars en Gémeaux. Vous lisez la carte. Le nombre dit
-  neuf — l’aboutissement, presque au bout ; l’élément dit le mental, ce qu’on décide.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Redressée dans son lit, la tête entre les mains, une personne s’éveille dans le noir sous neuf épées alignées ; aucune ne la touche. Que pèse encore le mauvais rêve, une fois les yeux ouverts ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-air
@@ -30,9 +26,9 @@ faq:
 - q: 'Que signifie le Neuf d’Épées ?'
   a: 'Une longue période d’inquiétude, et le moment où l’on s’en réveille. Le neuf, c’est la dernière ligne droite avant la fin d’un cycle, l’Air, c’est le mental, et le dessin montre quelqu’un qui se redresse dans la nuit, les épées au-dessus de lui, pas en lui.'
 - q: 'Le Neuf d’Épées renversé, ça change quoi ?'
-  a: 'La même nuit, qui se lève ou qui s’attarde. Elle se lève : les mains quittent le visage, l’inquiétude est dite à quelqu’un, première vraie nuit de sommeil. Elle s’attarde : la nuit vous suit dans la journée, et l’inquiétude n’a plus de nom précis.'
+  a: 'Soit le jour se lève : les mains quittent le visage, l’inquiétude est dite à quelqu’un, première vraie nuit de sommeil. Soit la nuit déborde sur la journée, et l’inquiétude n’a plus de nom précis.'
 - q: 'Le Neuf d’Épées, est-ce l’anxiété ?'
-  a: 'Il parle souvent d’inquiétude et de nuits blanches, et beaucoup de gens s’y reconnaissent. Une carte peut décrire un sentiment ; elle ne peut pas le soigner. Si l’inquiétude dure depuis des semaines ou a envahi vos journées, un médecin ou un thérapeute est la bonne porte, et ce n’est pas un échec de vos cartes.'
+  a: 'Il parle souvent d’inquiétude et de nuits blanches, et beaucoup de gens s’y reconnaissent. Une carte peut décrire un sentiment ; elle ne peut pas le soigner. Si l’inquiétude dure depuis des semaines ou a envahi vos journées, parlez-en à votre médecin ou à un psychologue ; ce n’est pas un échec de vos cartes.'
 categories:
 - Épées
 tags:
@@ -67,15 +63,15 @@ Le [noir](/fr/bibliotheque/couleurs-tarot/noir/) occupe presque toute la carte. 
 
 ## Par l’astrologie : Mars en Gémeaux {#astrologie}
 
-Dans la tradition Golden Dawn, le Neuf d’Épées correspond à Mars dans le deuxième décan des Gémeaux. [Mars](/fr/bibliotheque/astrologie/mars/) dit comment on agit et comment on se bat ; les Gémeaux, c’est « je pense », le signe des mots et des échanges. Ensemble : un combat qui se livre dans la tête — la dispute qu’on rejoue, la conversation du lendemain répétée dix fois. Laissez cette clé de côté si elle ne vous aide pas : les épées au-dessus du lit montrent déjà ce combat.
+On range le Neuf d’Épées sous Mars, dans le deuxième décan des Gémeaux. [Mars](/fr/bibliotheque/astrologie/mars/) dit comment on agit et comment on se bat ; les Gémeaux, c’est « je pense », le signe des mots et des échanges. Ensemble : un combat qui se livre dans la tête — la dispute qu’on rejoue, la conversation du lendemain répétée dix fois. Si cette clé ne vous dit rien, les épées au-dessus du lit montrent déjà ce combat.
 
 ## En lecture {#lecture}
 
 À l’endroit, le Neuf d’Épées, c’est l’inquiétude : une longue période de stress, des nuits blanches, une peur qui grandit dans le noir. Par son nombre, c’est aussi la fin de cette période — le moment où l’on se redresse. **Le Neuf d’Épées, c’est le réveil du cauchemar, pas le cauchemar lui-même.**
 
-Renversé, la nuit se lève ou s’attarde. Elle se lève : les mains quittent le visage, l’inquiétude est enfin dite à quelqu’un, première vraie nuit de sommeil. Elle s’attarde : la nuit vous suit dans la journée, et l’inquiétude ne porte plus sur rien que vous puissiez nommer.
+Renversé, l’aube arrive, ou la nuit s’éternise. L’aube : les mains quittent le visage, l’inquiétude est enfin dite à quelqu’un, première vraie nuit de sommeil. La nuit qui s’éternise : elle vous suit dans la journée, et l’inquiétude ne porte plus sur rien que vous puissiez nommer.
 
-Si les mauvaises nuits durent depuis des semaines, ou si l’inquiétude envahit aussi vos journées, ce n’est pas un sujet de tirage. Un médecin ou un thérapeute est la bonne porte, et [la pousser n’est pas un échec de vos cartes](/fr/avertissements/#therapie). Ce qu’une lecture peut porter en attendant est plus petit, et plus doux : ce qui aiderait ce soir, et à qui vous pourriez parler demain.
+Si les mauvaises nuits durent depuis des semaines, ou si l’inquiétude envahit aussi vos journées, ce n’est pas un sujet de tirage. C’est chez un soignant qu’il faut frapper, et [passer cette porte n’est pas un échec de vos cartes](/fr/avertissements/#therapie). Ce qu’une lecture peut porter en attendant est plus petit, et plus doux : ce qui aiderait ce soir, et à qui vous pourriez parler demain.
 
 À côté de la [Lune](/fr/bibliotheque/cartes-tarot/la-lune/), la peur est plus grande que les faits — vérifiez ce qui est réel avant d’y croire. À côté du [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/), la mauvaise nuit est suivie d’un vrai repos. À côté de l’[Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/), le calme et l’espoir reviennent après le noir. Pour les nuits blanches passées à cause d’une relation, il y a [les angoisses de 3 heures du matin en amour, et comment les apaiser](/fr/blog/neuf-depees-amour/).
 
@@ -85,6 +81,6 @@ Si les mauvaises nuits durent depuis des semaines, ou si l’inquiétude envahit
 
 Prenez une élève qui s’entraîne avec vous : elle tire le Neuf d’Épées et, juste à côté, le Six de Coupes. Un neuf puis un six : la fin d’une longue période, puis le repos et l’harmonie. L’Air puis l’Eau : des pensées qui tournent, puis des sentiments qui se posent. Du noir et de l’acier, puis une cour ensoleillée et des coupes remplies de fleurs blanches.
 
-À voix haute, cela pourrait donner : « Vous avez enchaîné les mauvaises nuits à cause de quelque chose qui vous trotte dans la tête. C’est presque fini, et ce qui vient est plus doux : du temps pour vous, quelque chose du passé qui vous fait du bien. »
+Les épées dans le noir, puis la cour fleurie ; voici la phrase : « Vous avez enchaîné les mauvaises nuits à cause de quelque chose qui vous trotte dans la tête. C’est presque fini, et ce qui vient est plus doux : du temps pour vous, quelque chose du passé qui vous fait du bien. »
 
-Puis vérifiez, doucement : « Vous dormez mal, en ce moment ? » Si la personne dit oui et que ça semble lourd, demandez-lui si elle a quelqu’un à qui parler ; la lecture n’a pas besoin d’aller plus loin. Si elle dit non, c’est un raté, et c’est très bien aussi.
+Puis vérifiez, doucement : « Vous dormez mal, en ce moment ? » Si la personne dit oui et que ça semble lourd, demandez-lui si elle a quelqu’un à qui parler ; la lecture n’a pas besoin d’aller plus loin. Si elle dort bien, tant mieux : pour une fois, l’erreur est bienvenue.

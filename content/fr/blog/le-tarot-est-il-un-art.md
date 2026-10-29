@@ -35,17 +35,17 @@ Mettez les mêmes cartes devant deux tarologues : l’un verra une histoire, l�
 
 {{< cards "ar02 wa08" >}}
 
-Les bâtons volent-ils, ou tombent-ils ? Dans mes notes, cette carte, c’est « le verre à moitié plein ou à moitié vide ». L’un voit des nouvelles qui arrivent vite ; l’autre, quelque chose de caché qui finit par tomber. **L’interprétation n’est pas un défaut de la méthode ; c’est la méthode.** J’y reviens dans [deux tarologues peuvent-ils lire différemment les mêmes cartes](/fr/blog/deux-lectures-differentes/).
+Les bâtons volent-ils, ou tombent-ils ? Dans mes notes, la réponse dépend de l’œil qui regarde, comme pour l’optimiste et le pessimiste devant le même verre. L’un voit des nouvelles qui arrivent vite ; l’autre, quelque chose de caché qui finit par tomber. **L’interprétation n’est pas un défaut de la méthode ; c’est la méthode.** J’y reviens à propos des [lectures qui divergent sur un même tirage](/fr/blog/deux-lectures-differentes/).
 
 ### 5. La même image change d’un jour à l’autre
 
-La même carte se lit différemment d’une personne à l’autre, et d’un jour à l’autre. Comme un roman qu’on relit à vingt ans puis à quarante : les mots n’ont pas bougé, vous si. C’est aussi pour ça que je préfère qu’on n’apprenne pas les cartes dans une liste de mots-clés : la liste reste immobile, le lecteur non.
+Selon qui la regarde, et selon le jour, une même carte raconte autre chose. Comme un roman qu’on relit à vingt ans puis à quarante : les mots n’ont pas bougé, vous si. C’est aussi pour ça que je préfère qu’on n’apprenne pas les cartes dans une liste de mots-clés : la liste reste immobile, le lecteur non.
 
 ## Ça s’apprend comme un art {#apprendre}
 
 ### 6. Tout le monde peut apprendre ; certains ont plus de facilité
 
-Toutes les personnes que j’ai aidées à lire y sont arrivées dans leurs trois premiers essais. Comme pour le dessin : certains ont plus de talent, et tous ceux qui pratiquent y arrivent. C’est pour ça que je [rends gentiment le compliment « tu as un don »](/fr/blog/tu-as-un-don/).
+Je n’ai encore vu personne échouer : au troisième essai au plus tard, chacun lisait. Comme en dessin : le talent aide certains, la pratique fait réussir tout le monde. C’est pour ça que [je réponds avec douceur quand on me parle de don](/fr/blog/tu-as-un-don/).
 
 ### 7. Sa seule vraie technique, c’est le lâcher-prise
 
@@ -69,8 +69,8 @@ Le tarot divise comme l’art contemporain : d’un côté « mon neveu de cinq 
 
 Un tableau ne peut pas se tromper. Un tirage, si.
 
-Quand je dis quelque chose de précis à quelqu’un, j’avance une affirmation qu’on peut vérifier, et à mon décompte, environ un tirage sur dix rate. Dire que le tarot est un art ne le dispense pas de ça. Je dis toujours « celui-là est raté », je le note, et je ne le maquille pas en sens caché. Et de même qu’un tableau ne prend pas vos décisions, un tirage ne devrait pas les prendre non plus.
+Quand je dis quelque chose de précis à quelqu’un, j’avance une affirmation qu’on peut vérifier, et mes carnets le montrent : pour neuf lectures qui tiennent, il y en a une qui tombe à côté. Dire que le tarot est un art ne le dispense pas de ça. Je dis toujours « celui-là est raté », je le note, et je ne le maquille pas en sens caché. Et de même qu’un tableau ne prend pas vos décisions, un tirage ne devrait pas les prendre non plus.
 
 ## Essayez-le comme un art {#essayer}
 
-La meilleure façon de savoir quel genre de lecteur vous êtes, c’est de poser une carte devant vous, quelqu’un en face, et de voir ce qui vient. C’est comme ça que commence chaque [atelier](/fr/ateliers/) de Maison Tarot : une carte dans les dix premières minutes, l’explication après.
+La meilleure façon de savoir quel genre de lecteur vous êtes, c’est de poser une carte devant vous, quelqu’un en face, et de voir ce qui vient. C’est comme ça que s’ouvre chaque [atelier](/fr/ateliers/) de Maison Tarot : on tire d’abord, on explique ensuite.

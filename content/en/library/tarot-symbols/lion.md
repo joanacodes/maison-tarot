@@ -53,7 +53,7 @@ A lion is strength that doesn’t need to prove itself — until it does. **The 
 
 Its mane already looks like a crown, which is why it ends up on thrones and coats of arms. It’s the animal of whoever wants to be seen as strong.
 
-## Where it appears in the deck {#where}
+## From Strength’s lion to the carved thrones {#where}
 
 Strength is the lion’s card: a woman in white bends over a big red lion and closes its jaws without effort. The lion isn’t killed or chained; it’s calmed. [The Strength page](/library/tarot-cards/strength/) reads the whole card, and [Leo](/library/astrology/leo/) the sign behind it.
 
@@ -71,7 +71,7 @@ On the Two of Cups, a red lion’s head with wide wings floats above the caduceu
 
 When a lion appears, look at what’s being done with it. Calmed, on Strength: courage that doesn’t shout. Carved into a throne, on the Wands court: passion turned into authority. Watching from a corner, on the Wheel and the World: steady energy that holds while everything turns.
 
-Lenses: the lion is [Fire](/library/four-elements/fire-element/) — creation, impulse, the energy that gets you moving, and that spreads when nobody masters it. In my notes, Fire’s archetype is a teenager full of life who thinks they can do anything. Colour: Strength’s lion is red-orange, and [orange](/library/tarot-colours/orange/) in my grid is creativity and desire.
+Lenses: the lion is [Fire](/library/four-elements/fire-element/) — creation, impulse, the energy that gets you moving, and that spreads when nobody masters it. In my notes, Fire’s archetype is a young person brimming with life, convinced nothing is out of their reach. Colour: Strength’s lion is red-orange, and [orange](/library/tarot-colours/orange/) in my grid is creativity and desire.
 
 Say someone draws Strength next to the King of Wands. Two lions: one calmed, one on a throne. The reading might be that you’ve learned to hold your temper, and now people are asking you to lead.
 

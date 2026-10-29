@@ -18,7 +18,7 @@ faq:
 - q: "Why is the King of Cups sitting on the sea?"
   a: "His throne stands on a block of stone in rough water, with a fish leaping on one side and a ship on the other. He holds steady on top of a great deal of feeling — that’s the card."
 - q: "Is a calm sea a good sign and a rough one bad?"
-  a: "Neither. In my notes moving water is strong emotion and calm water is emotion that has settled. A rough sea says a lot is going on; it doesn’t say it will go badly."
+  a: "Neither. In my notes, water in motion is a strong feeling, and still water a feeling that has settled. A rough sea says a lot is going on; it doesn’t say it will go badly."
 gallery:
 - src: "visuals/sym-sea/1.jpg"
   title: "The big horizon"
@@ -53,7 +53,7 @@ The sea is water you can’t cross on foot. It has a horizon instead of a far ba
 
 An everyday example: moving abroad. You can plan the flat, the job, the paperwork. You can’t plan what you’ll feel six months in, looking at the water from the other side.
 
-## Where it appears in the deck {#where}
+## The Twos, the Cups court and open water {#where}
 
 Three of the Twos face the sea. On the Two of Swords, a blindfolded woman sits with her back to a calm sea scattered with rocks. On the Two of Pentacles, two ships ride high waves behind the juggler. On the Two of Wands, a man holding a globe looks out from a battlement over a bay and mountains.
 
@@ -69,13 +69,13 @@ On the Ten of Swords, flat dark water stretches under a black sky, with a band o
 
 Ask how close the person is to the water, and how rough it is. The Queen of Cups is at the edge: she feels everything but keeps her feet dry. The King is in the middle of it and holding steady. The Page has the sea at his back and a fish in his cup — a feeling that has surprised him.
 
-With the lenses: the sea is [Water](/library/four-elements/water-element/), the element of feeling. It’s also bigger than the [water close at hand](/library/tarot-symbols/water/) and has no direction like [the river](/library/tarot-symbols/river/): it’s everything at once. And notice the Twos. In my notes [the number 2](/library/numerology/number-2/) is two parties, a contract, a change; the advice is to read the contract and weigh pros and cons. Three Twos look at the sea: decisions made in front of something larger than the people making them.
+With the lenses: the sea is [Water](/library/four-elements/water-element/), the element of feeling. It’s also bigger than the [water close at hand](/library/tarot-symbols/water/) and has no direction like [the river](/library/tarot-symbols/river/): it’s everything at once. And notice the Twos. In my notes [the number 2](/library/numerology/number-2/) is two parties, a contract, a change, and it advises going through the small print and the trade-offs before committing. Three Twos look at the sea: decisions made in front of something larger than the people making them.
 
 ## The other side {#flip-side}
 
 The sea can be too much to take in. Its shadow is overwhelm — or the opposite, turning your back on it, like the Two of Swords, because looking would mean deciding.
 
-The Ten of Swords shows the other edge: after the worst, the water is flat and the light is coming back on the horizon. In my notes 10 is the corridor between two rooms.
+The Ten of Swords shows the other edge: after the worst, the water is flat and the light is coming back on the horizon. In my notes 10 is a doorway out of one stage and into the next.
 
 ## With the other lenses {#lenses}
 

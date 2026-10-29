@@ -45,7 +45,7 @@ La revoici : *Ta vie a été dure, mais on dirait que tu aimes ça, quelque part
 
 « Mais on dirait. » C’est une impression, présentée comme telle. Pas « ton thème dit », pas « c’est clair ». Elle lui laisse le droit de dire non.
 
-« Que tu aimes ça. » C’est le tournant. La phrase ne nie pas la dureté ; elle regarde la façon dont il la porte. Elle lui rend sa place dans sa propre histoire : pas quelqu’un à qui les choses sont arrivées, mais quelqu’un qui, d’une certaine manière, s’en est emparé. C’est proche de ce que Saturne décrit en astrologie : la leçon la plus dure, là où l’on est limité et sommé de faire ses preuves — et où, avec le temps, on devient solide justement parce que c’était dur. Vous pouvez en lire davantage sur [Saturne comme clé de lecture](/fr/bibliotheque/astrologie/saturne/), quoi que son thème ait montré ou non.
+« Que tu aimes ça. » C’est le tournant. La phrase ne nie pas la dureté ; elle regarde la façon dont il la porte. Elle lui rend sa place dans sa propre histoire : pas quelqu’un à qui les choses sont arrivées, mais quelqu’un qui, d’une certaine manière, s’en est emparé. C’est proche de ce que Saturne décrit en astrologie : l’épreuve la plus rude, la contrainte qui oblige à se montrer à la hauteur — celle dont on sort plus solide, justement parce qu’elle a coûté. Vous pouvez en lire davantage sur [Saturne comme clé de lecture](/fr/bibliotheque/astrologie/saturne/), quoi que son thème ait montré ou non.
 
 « Quelque part. » La phrase admet que je ne comprends pas tout. L’explication lui appartient, pas à moi.
 
@@ -68,7 +68,7 @@ La phrase suit une forme que vous pouvez reprendre, avec un thème, une carte, o
 1. Trouvez le mot simple pour la partie dure. Ne l’arrondissez pas en quelque chose qu’on pourrait dire à n’importe qui.
 2. Cherchez ce que la personne en fait : comment elle le porte, ce que ça lui a donné. Dites-le seulement si vous le voyez. Un réconfort inventé est pire que pas de réconfort du tout.
 3. Présentez-le comme une impression : « on dirait », « j’ai le sentiment que ».
-4. Laissez la porte ouverte : « Est-ce que ça vous parle ? » Puis acceptez ce qui revient, y compris « d’une certaine façon ».
+4. Laissez la porte ouverte : « Ça vous dit quelque chose ? » Puis acceptez ce qui revient, y compris « d’une certaine façon ».
 5. Arrêtez-vous là. Une seule phrase dure, bien dite, suffit. N’empilez pas les détails pour prouver que vous aviez raison.
 
 J’en dis davantage, y compris sur les sujets que je ne lis pas du tout, dans [comment annoncer une mauvaise nouvelle pendant un tirage](/fr/blog/mauvaise-nouvelle-tirage/).

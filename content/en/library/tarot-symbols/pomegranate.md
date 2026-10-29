@@ -18,7 +18,7 @@ faq:
 - q: "Why are there pomegranates on the High Priestess card?"
   a: "The veil behind her is printed with palm leaves and pomegranates cut open to show their seeds. In Greek myth, Persephone eats pomegranate seeds in the underworld and has to go back there every year, and many readers link the High Priestess’s hidden knowledge to that story."
 - q: "Does the pomegranate in tarot mean fertility?"
-  a: "It’s an old symbol of fertility because of its seeds, and the question usually comes from hope or worry. I don’t read on pregnancy or fertility: a doctor can answer that, and a card can’t. In a reading I take the pomegranate as abundance in a wider sense — ideas, projects, care."
+  a: "It’s an old symbol of fertility because of its seeds, and people who ask are often hoping, or afraid. I don’t read on pregnancy or fertility: a doctor can answer that, and a card can’t. In a reading I take the pomegranate as abundance in a wider sense — ideas, projects, care."
 gallery:
 - src: "visuals/sym-pomegranate/1.jpg"
   title: "Plain on the outside"
@@ -53,9 +53,9 @@ From the outside, a pomegranate looks plain: a hard reddish skin, a little crown
 
 It has stood for plenty and fertility for a very long time, precisely because of all those seeds.
 
-## Where it appears in the deck {#where}
+## Printed on a veil, worn on a dress {#where}
 
-On [the High Priestess](/library/tarot-cards/the-high-priestess/), the veil hung between the two pillars behind her is printed with palm leaves and pomegranates, several of them cut open to show red seeds. The fruit sits right behind her head, on the very thing that hides what’s behind her. [The veil](/library/tarot-symbols/veil/) has its own page.
+On [the High Priestess](/library/tarot-cards/the-high-priestess/), the veil hung between the two pillars behind her is printed with palm leaves and pomegranates, several of them cut open to show red seeds. The fruit sits right behind her head, on the very thing that hides what’s behind her. [The veil](/library/tarot-symbols/veil/) is a symbol in its own right.
 
 On the Empress, the white dress is printed all over with pomegranates in red and green. She sits back on her cushions in a field of wheat, a waterfall behind her. Here the fruit isn’t hidden: she wears it.
 

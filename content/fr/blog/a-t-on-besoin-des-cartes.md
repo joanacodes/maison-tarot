@@ -9,9 +9,9 @@ tags: ["lire sans cartes", "tarot intuitif", "a-t-on besoin des cartes", "concen
 image: "covers/do-you-still-need-tarot-cards.jpg"
 imageAlt: "Un jeu de tarot encore dans sa boîte sur une table de cuisine, entre deux tasses de thé, les avant-bras de deux personnes posés au bord."
 imagePrompt: "A tarot deck still in its closed box on a kitchen table between two cups of tea, two people’s forearms resting on the table edge. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "À la rigueur, peut-être pas : plus je lisais, plus il m’arrivait de recevoir quelque chose avant même d’avoir mélangé. Mais je garde mes cartes sur la table, pour deux raisons. La personne en face veut les voir, et une carte qu’elle peut regarder fait de la lecture quelque chose qu’on partage et qu’on peut vérifier. Et les cartes m’aident à me concentrer, ou à me déconcentrer, pour que mes propres pensées et mes préjugés s’écartent. C’est mon expérience, pas une règle ni un pouvoir. Si vous apprenez, gardez vos cartes : c’est avec elles qu’on apprend à distinguer ce qui vient de ce qu’on pensait déjà."
+summary: "À la rigueur, peut-être pas : avec l’expérience, une impression me vient parfois avant le moindre mélange. Mais je garde mes cartes sur la table, pour deux raisons. La personne en face veut les voir, et une carte qu’elle peut regarder fait de la lecture quelque chose qu’on partage et qu’on peut vérifier. Et l’image tient mon attention, ou la relâche, assez pour que mes idées toutes faites sur la personne cèdent la place. C’est mon expérience, pas une règle ni un pouvoir. Si vous apprenez, gardez vos cartes : c’est avec elles qu’on apprend à distinguer ce qui vient de ce qu’on pensait déjà."
 ---
-À la rigueur, peut-être pas. Plus je lisais, plus il m’arrivait de recevoir quelque chose avant même d’avoir mélangé. Mais mes cartes restent sur la table, pour deux raisons qui n’ont rien à voir avec un pouvoir : la personne en face veut les voir, et elles m’aident à écarter mes propres pensées. C’est mon expérience, pas une règle.
+À la rigueur, peut-être pas. À force de lire, un message m’arrive parfois alors que le jeu n’est pas encore battu. Mais mes cartes restent sur la table, pour deux raisons qui n’ont rien à voir avec un pouvoir : la personne en face veut les voir, et elles m’aident à écarter mes propres pensées. C’est mon expérience, pas une règle.
 
 ## Ce qui a changé à force de lire {#ce-qui-a-change}
 
@@ -35,7 +35,7 @@ Cela change aussi la forme de l’échange. Avec les cartes entre nous, on regar
 
 ## Deuxième raison : les cartes m’aident à me concentrer, ou à me déconcentrer {#concentration}
 
-La seconde raison me concerne. Les cartes m’aident à me concentrer ou à me déconcentrer, pour que mes propres pensées et mes préjugés s’écartent.
+La seconde raison me concerne. Une carte sous les yeux règle mon attention dans les deux sens : elle la resserre ou elle la relâche, et dans les deux cas, ce que je crois déjà savoir passe au second plan.
 
 Me concentrer, parce que l’image donne à mon attention un endroit où se poser. Au lieu de dériver vers ce que je crois savoir de la personne, je regarde ce qui est là : le bleu de l’eau, le nombre en haut de la carte, l’élément de la série. [La grille des couleurs](/fr/bibliotheque/couleurs-tarot/) est souvent ma première étape, parce que la couleur vous atteint avant la pensée.
 
@@ -49,7 +49,7 @@ Si vous apprenez, non. Gardez les cartes. C’est avec elles que vous apprendrez
 
 Si vous lisez depuis longtemps et que les choses arrivent tôt chez vous aussi, n’en faites pas un grade. Le lecteur qui n’a plus besoin des cartes n’est qu’à un pas de celui qui se sent au-dessus de tous ceux qui en ont besoin, et c’est l’un des ego que je décris dans [construire sa pratique sans devenir un gourou](/fr/blog/pratique-sans-gourou/). Remarquez-le, et vérifiez-le comme tout le reste. Voici comment je m’y prendrais :
 
-1. Lisez pour quelqu’un qui ne vous dit rien — [la règle du silence](/fr/blog/regle-du-silence-tarot/) compte encore plus ici, puisqu’une impression précoce ne vaut rien si vous connaissez déjà l’histoire de la personne.
+1. Choisissez une personne dont vous ignorez tout de la situation — [la règle du silence](/fr/blog/regle-du-silence-tarot/) compte encore plus ici, puisqu’une impression précoce ne vaut rien si vous connaissez déjà l’histoire de la personne.
 2. Avant de mélanger, notez tout ce qui est déjà là, même un seul mot.
 3. Tirez et lisez comme d’habitude.
 4. À la fin, comparez les deux avec ce que la personne confirme.

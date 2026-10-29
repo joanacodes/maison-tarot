@@ -17,13 +17,13 @@ A deck of cards isn’t dangerous. A reading can be, in a few situations, and th
 
 Often the question comes from somewhere else: a family that kept cards out of the house, a faith that warns against them, a film. That fear deserves respect, and I don’t try to argue anyone out of it.
 
-What I can say is what I’ve seen. A card is a picture; it’s a screen, and we mostly fear what we project onto it. I wrote about [whether tarot is evil](/blog/is-tarot-evil/), including the one time something seemed to come home with me. The danger I’ve actually watched, at the table, comes from how a reading is used. These are the three situations.
+What I can say is what I’ve seen. A card is only an image; like a screen, it shows what we project onto it, and that’s mostly what we fear. I wrote about [whether tarot is evil](/blog/is-tarot-evil/), including the one time something seemed to come home with me. The danger I’ve actually watched, at the table, comes from how a reading is used. These are the three situations.
 
 ## 1. When someone is in distress {#distress}
 
 People often reach for the cards when things are at their worst. That makes complete sense: they want something to hold, an answer, a sign that it will be all right.
 
-It’s also when a reading does the most harm. A heavy card lands harder on someone who is already on the floor. A miss — and about one reading in ten misses, by my count — can feel like proof that nothing helps. And sometimes I feel that a thing shouldn’t be said at all, or not like that, because the person isn’t ready.
+It’s also when a reading does the most harm. A heavy card lands harder on someone who is already on the floor. A miss (and I still have them, about a tenth of the time) can feel like proof that nothing helps. And sometimes I feel that a thing shouldn’t be said at all, or not like that, because the person isn’t ready.
 
 So I put the deck aside. I stay, I listen, and I ask what would help tonight: sleep, a friend, a walk, a phone call. If it’s more than a hard evening, the door I’d point to is a doctor’s, a therapist’s, or a crisis line’s. **When someone is in pain, the person matters more than the reading.** The cards will still be there next week.
 
@@ -33,7 +33,7 @@ I’ve written more about [where the door is in tarot and mental health](/blog/t
 
 ## 2. When readings become a dependency {#dependency}
 
-Some people come back with the same question every week, and what drives them isn’t curiosity so much as doubt.
+Some sitters return every week with an identical question, driven less by curiosity than by doubt.
 
 The signs are worth knowing, for yourself as much as for anyone you read for:
 
@@ -44,7 +44,7 @@ The signs are worth knowing, for yourself as much as for anyone you read for:
 
 When I see this, I usually suggest we don’t read. Not as a judgement: another reading only gives them ten more minutes of not deciding.
 
-What helps: put the deck in a drawer for a month, and take the first small step of the decision without asking anything. I go into it in [why you should quit tarot reading for a while](/blog/why-you-should-quit-tarot-reading/). If the doubt doesn’t ease once the cards are away, that isn’t about tarot, and [a therapist’s door is the right one](/disclaimers/#therapy).
+What helps: a month with the cards out of reach, and the first small step of the decision taken without asking anything. I go into it in [the case for setting readings aside](/blog/why-you-should-quit-tarot-reading/). If the doubt doesn’t ease once the cards are away, that isn’t about tarot, and [a therapist can help where a deck can’t](/disclaimers/#therapy).
 
 ## 3. When a card is treated as an authority {#authority}
 
@@ -52,15 +52,15 @@ Say someone draws the Tower about their job and hands in their notice the next m
 
 {{< cards "ar13 ar16" >}}
 
-Death, as I read it, isn’t about death itself. It’s linked to the harvest, to starting again: making life fertile after a stretch without a goal. And the Tower is sudden change, not an instruction to cause one. Neither card tells you what to do on Monday.
+Death, as I read it, isn’t about death itself. In my notes it’s a harvest card, a card of second starts: life turned fruitful again after a spell with no aim. And the Tower is sudden change, not an instruction to cause one. Neither card tells you what to do on Monday.
 
 A reading can show you a situation from an angle you hadn’t tried; the decision stays yours, and so does the responsibility for it. A gentler question helps here too. Instead of “Should I quit?”, try “What do I need to look at before I decide?”, then decide with your own head. If you notice you can’t act without a card’s permission, that’s the muscle to train, and I explain how in [act on what you feel, not on a card](/blog/tarot-is-not-an-authority/).
 
 ## A word for readers {#for-readers}
 
-The same three situations apply to you, plus one more thing to watch: your own tiredness. Interpreting takes energy. After a reading you can feel very tired, and that’s your body telling you to rest. I listen to mine: some days I close the deck after two hours.
+The same three situations apply to you, plus one more thing to watch: your own tiredness. Interpreting takes energy, so tiredness after reading is normal, and it’s your body asking for rest. I listen to mine: some days I close the deck after two hours.
 
-Empathy means feeling the other person’s emotions while keeping your own. If you start carrying theirs home, step back. And whatever happens, don’t let tarot replace therapy, or become a circle of dependency, for you or for the person in front of you. Always ask permission before reading anyone.
+Empathy is feeling alongside someone while your own feelings stay yours. If you start carrying theirs home, step back. And whatever happens, keep tarot from standing in for therapy or turning into a habit neither of you can break. Always ask permission before reading anyone.
 
 ## When a reading is a good idea {#good-time}
 

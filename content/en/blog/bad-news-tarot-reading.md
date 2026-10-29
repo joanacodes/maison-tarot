@@ -15,19 +15,19 @@ Yes: say what comes, the hard part included. Hiding a card is its own kind of li
 
 ## Should you hide a hard card? {#hide-or-say}
 
-No. If you've agreed to read for someone, you owe them what you see, not only the pleasant half. Every card has a plus and a minus, and that works both ways: the happy cards have a shadow, and the hard ones have a way through.
+No. If you've agreed to read for someone, you owe them what you see, not only the pleasant half. No card in my notes is all good or all bad, and that cuts both ways: the happy cards have a shadow, and the hard ones have a way through.
 
 What usually hurts most isn't the hard sentence. It's the pause before a reader says "hmm, I'd rather not say". The person fills that silence with the worst thing they can imagine, and it's nearly always worse than what's on the table: hard things in a reading tend to be smaller and more personal than people fear.
 
 ## What I don't read on at all {#what-i-dont-read}
 
-Some bad news isn't for the cards. Health, death, pregnancy, an ongoing court case, a money decision: I don't read on those, and if a reading drifts there, I stop and say why. People ask because they're frightened or because they love someone, and that deserves respect. But a wrong word there does real damage, and a card is the wrong tool to deliver it. A doctor, a lawyer or an adviser is the right one; what a reading can hold meanwhile is how the person is carrying it. I've written more about [why careful readers step back from those questions](/blog/health-pregnancy-death-tarot/).
+Some bad news isn't for the cards. Health, death, pregnancy, an ongoing court case, a money decision: I don't read on those, and if a reading drifts there, I stop and say why. People ask because they're frightened or because they love someone, and that deserves respect. But a wrong word there does real damage, and a card is the wrong tool to deliver it. A doctor, a lawyer or an adviser is the right one; while they wait for that answer, a reading can look at how they’re coping. I've written more about [why careful readers step back from those questions](/blog/health-pregnancy-death-tarot/).
 
-The Death card doesn't mean death anyway. In my notes it's tied to the harvest and to starting again: someone who has lost their aim and wants to make life fertile again. The Tower is something that looked solid being shaken. The Three of Swords is a heart pierced by three swords in the rain, and my notes add that it can also be a blood pact. The Ten of Swords is the worst-looking picture in the deck, a figure face down with ten swords in its back, and still the sky on the horizon is getting lighter.
+The Death card doesn't mean death anyway. My notes connect it with reaping and with beginning afresh, for a person who has lost direction and wants things to grow again. The Tower is something that looked solid being shaken. The Three of Swords is a heart pierced by three swords in the rain, and my notes add that it can also be a blood pact. The Ten of Swords is the worst-looking picture in the deck, a figure face down with ten swords in its back, and still the sky on the horizon is getting lighter.
 
 {{< cards "ar13 ar16 sw03 sw10" >}}
 
-[The scariest cards are kinder than they look](/blog/scariest-tarot-cards/), and reading them as verdicts is the first mistake to drop.
+Reading [the four cards that frighten people most](/blog/scariest-tarot-cards/) as verdicts is the first mistake to drop: each one is gentler than its picture.
 
 ## Bad news is often wrong in what matters {#wrong-in-what-matters}
 
@@ -35,7 +35,7 @@ Before you deliver a hard message, remember how often hard messages miss — som
 
 I learned this from a message of my own: furious after losing my closest friend, I heard a voice say another friend was going to have an accident, and two weeks later a truck hit that friend's car. My friend is alive and well today; the message was right about an event and wrong in what mattered, and I tell it in full in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/).
 
-Since then, hard impressions go on a shelf in my head labelled "sceptical, but if it happens, I was warned". They don't go into someone's lap as a forecast.
+Since then, I hold hard impressions at arm's length: doubted, noted, and only remembered if they turn out true. They don't go into someone's lap as a forecast.
 
 ## How to say a hard thing kindly {#how-to-say-it}
 
@@ -49,7 +49,7 @@ Here's the difference in practice. Harsh: "This relationship is over. The Tower 
 
 **A hard thing said kindly is still true; said harshly, it isn't any more honest.**
 
-When I read the chart of a friend I admired, it was on point and harsh. What I said out loud was: "Your life was hard, but it feels like you like it somehow." He said it was right, in a way. The hard part was there, and so was the respect. I told [the story of that sentence](/blog/reading-for-someone-i-admired/) separately.
+When I read the chart of a friend I admired, it was accurate and harsh, and I told him so, adding that he seemed, somehow, to like his hard life. He partly agreed. The hard part was there, and so was the respect, as I tell in [the story of reading for him](/blog/reading-for-someone-i-admired/).
 
 ## When the person isn't ready {#not-ready}
 

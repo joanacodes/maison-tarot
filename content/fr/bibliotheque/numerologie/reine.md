@@ -64,7 +64,7 @@ Chaque Reine est assise, et chacune tient l’outil de sa famille comme une chos
 
 ## Le conseil {#conseil}
 
-Tenir sans retenir. La Reine à son meilleur accueille et laisse passer ; à son pire, elle garde — les gens, les émotions, les choses — et confond maîtrise et contrôle.
+Tenir sans retenir. La Reine en forme accueille et laisse passer ; la Reine déséquilibrée garde tout près d’elle, personnes, émotions, objets, et confond maîtrise et contrôle.
 
 ## Les quatre Reines {#cartes}
 
@@ -77,6 +77,6 @@ Tenir sans retenir. La Reine à son meilleur accueille et laisse passer ; à son
 
 ## En lecture {#lecture}
 
-Une Reine dans un tirage dit : **quelqu’un maîtrise ceci de l’intérieur.** Une personne mûre dans son domaine, ou l’état de celui qui n’a plus besoin de courir. La Reine de Coupes comprend sans qu’on explique, celle de Bâtons rayonne, celle d’Épées tranche avec justesse, celle de Pentacles fait pousser. Ce n’est pas une question de sexe : un homme peut être Reine, et beaucoup le sont.
+Quand une Reine se présente, c’est que **quelqu’un maîtrise ceci de l’intérieur.** Une personne mûre dans son domaine, ou l’état de celui qui n’a plus besoin de courir. La Reine de Coupes comprend sans qu’on explique, celle de Bâtons rayonne, celle d’Épées tranche avec justesse, celle de Pentacles fait pousser. Ce n’est pas une question de sexe : un homme peut être Reine, et beaucoup le sont.
 
 {{% six %}}

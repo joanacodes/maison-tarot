@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/sw05.webp
 h1: Five of Swords — <em>five</em>, Air
-lede: 'Before looking up what Five of Swords “means”, look at what you already have:
-  five, the element Air, Venus in Aquarius. You’re reading the card. The number says
-  five — conflict, trial, making do with what’s left; the element says the mind, what
-  you decide. Lay the two over each other, add the colours, and the card is already
-  talking — the rest of the page shows you how.'
+lede: 'A red-haired young man gathers up swords and half-smiles over his shoulder, while two figures walk off towards the water under torn clouds. What did winning cost you?'
 related:
 - /library/numerology
 - /library/four-elements/air-element
@@ -44,11 +40,11 @@ In the foreground, a young man with wild red hair looks back over his shoulder w
 
 Behind him, two figures walk away towards the water, backs turned. The nearer one wears yellow, an orange cloak over one shoulder; the smaller one stands at the water’s edge, head bowed. Beyond them, a blue sea and a far shore. The sky is pale blue, torn by long jagged grey clouds all blowing the same way: the wind is strong.
 
-The drawing is about **a fight that’s over, where the winner holds all the swords and has nobody left to share them with.**
+Everything points to **a fight that’s over, where the winner holds all the swords and has nobody left to share them with.**
 
 ## By number: five {#number}
 
-Five is the number of the battle: trying, not being afraid to fail or to be disliked, and making do with what’s left afterwards. In my notes, the Five of Swords is an Air conflict — a conflict about decisions, between people who don’t share the same point of view. Not a brawl but a disagreement, and somebody “won” it. The advice of [number 5](/library/numerology/number-5/) is to avoid useless conflicts and to be honest with yourself; its minus is denial. Both are on the card: the man gathering swords isn’t asking whether this fight was worth having. Instagram’s fifth stage was Facebook arriving to buy it, the test from outside where you find out what holds.
+Five is the number of the battle: trying, not being afraid to fail or to be disliked, and making do with what’s left afterwards. In my notes, the Five of Swords is an Air conflict — a conflict about decisions, between people who don’t share the same point of view. Not a brawl but a disagreement, and somebody “won” it. [Number 5](/library/numerology/number-5/) advises picking your battles and being honest with yourself about them; its minus is denial. Both are on the card: the man gathering swords isn’t asking whether this fight was worth having. For Instagram, the 5 came from outside: Facebook at the door, ready to buy.
 
 ## By element: Air {#element}
 
@@ -60,7 +56,7 @@ The sky is the first thing you see: pale blue cut by ragged clouds, the grey of 
 
 ## By astrology: Venus in Aquarius {#astrology}
 
-In the Golden Dawn tradition, the Five of Swords is Venus in the first decan of Aquarius. [Venus](/library/astrology/venus/) is what you love and how you bond; Aquarius is the sign of ideas, “I know” — which I hear as “I think I know”. Together: bonds sacrificed to an idea, caring more about being right than about the people you’re right with. It’s an optional lens, but on this card it lands well.
+On the Golden Dawn’s wheel, this card is Venus in the first decan of Aquarius. [Venus](/library/astrology/venus/) is what you love and how you bond; Aquarius is the sign of ideas, “I know” — which I hear as “I think I know”. Put side by side, they read as bonds sacrificed to an idea, caring more about being right than about the people you’re right with. Astrology stays optional, though here the planet fits the drawing closely.
 
 ## In a reading {#reading}
 
@@ -78,6 +74,6 @@ Next to the [Five of Wands](/library/tarot-cards/five-of-wands/), it’s the Fir
 
 For practice, imagine a sitter who has drawn the Five of Swords and the [Three of Pentacles](/library/tarot-cards/three-of-pentacles/). Five then three: a conflict, then a rhythm that works. Air then Earth: an argument about decisions, then something built together. A torn grey sky, then a craftsman at work in a church, two others standing by with a plan.
 
-You might say: “You won an argument recently, maybe at work, and you’re about to need the very people you argued with.”
+Read together, the torn sky and the church give me: “You won an argument recently, maybe at work, and you’re about to need the very people you argued with.”
 
-Then check: “Has there been a disagreement lately where you got your way?” If yes, ask how things stand with the others now. If no, it’s a miss — note it, and don’t go hunting for another conflict to make it fit. For more on reading two cards side by side, see [how card pairs work](/blog/tarot-card-combinations/).
+Then put it to them: “Has there been a disagreement lately where you got your way?” If yes, ask how things stand with the others now. If no, log the miss, and don’t go hunting for another conflict to make it fit. For more on reading two cards side by side, see [how card pairs work](/blog/tarot-card-combinations/).

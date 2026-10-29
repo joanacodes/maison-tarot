@@ -69,7 +69,7 @@ Without a notebook, you remember the readings that landed and forget the rest. W
 
 ### 12. Pulling cards every hour
 
-Three pulls before lunch on the same worry isn't practice. It's looking for reassurance outside yourself, and cards make poor reassurance. If you notice the habit, put the deck in a drawer for a week. Nothing is lost, and you'll read better when you come back. The question you keep asking usually needs a decision or a conversation, not another card.
+Three pulls before lunch on the same worry isn't practice. It's looking for reassurance outside yourself, and cards make poor reassurance. If you notice the habit, give the deck a week off. Nothing is lost, and you'll read better when you come back. The question you keep asking usually needs a decision or a conversation, not another card.
 
 ## What to do in month two {#month-two}
 

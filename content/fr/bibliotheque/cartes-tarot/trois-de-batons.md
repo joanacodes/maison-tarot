@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/wa03.webp
 h1: Trois de Bâtons — <em>trois</em>, le Feu
-lede: 'Avant de chercher ce que « signifie » Trois de Bâtons, regardez ce que vous
-  avez déjà : trois, l’élément Feu, Soleil en Bélier. Vous lisez la carte. Le nombre
-  dit trois — créer, célébrer, le premier résultat ; l’élément dit l’élan, ce qu’on
-  lance. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous
-  parle déjà — le reste de la page vous montre comment.'
+lede: 'De dos, au bord d’une falaise, un homme en rouge s’appuie sur l’un de ses trois bâtons et regarde de petits bateaux traverser une mer dorée. Votre projet est parti : saurez-vous le laisser naviguer ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -51,9 +47,9 @@ On ne voit jamais son visage. On voit ce qu’il voit. **Le Trois de Bâtons, c�
 
 ## Par le nombre : trois {#nombre}
 
-[Trois](/fr/bibliotheque/numerologie/chiffre-3/), c’est la cadence : la machine qui tourne, le contrat qui marche. Après l’hésitation du Deux, quelque chose a été envoyé, et ça tient. Dans l’histoire d’Instagram, c’est le lancement : les gens s’inscrivent, publient, reviennent, et la machine tourne sans qu’on la pousse.
+[Trois](/fr/bibliotheque/numerologie/chiffre-3/), c’est la cadence : la machine qui tourne, le contrat qui marche. Après l’hésitation du Deux, quelque chose a été envoyé, et ça tient. Instagram a connu ce moment : l’application lancée, les inscriptions qui suivent, et des gens qui reviennent sans qu’on les relance.
 
-Mon conseil devant un 3 : terminez un projet avant d’en commencer un autre — et sur cette carte, il vise juste. Un homme qui a vu partir ses premiers bateaux imagine déjà la flotte suivante. Le revers du 3, c’est exactement ça : lancer du neuf avant que le reste soit rentré au port, et une certaine solitude en haut de la falaise.
+Mon conseil devant un 3 : bouclez ce qui est en route avant d’ouvrir un nouveau chantier — et sur cette carte, il vise juste. Un homme qui a vu partir ses premiers bateaux imagine déjà la flotte suivante. Le revers du 3, c’est exactement ça : lancer du neuf avant que le reste soit rentré au port, et une certaine solitude en haut de la falaise.
 
 ## Par l’élément : Feu {#element}
 
@@ -69,9 +65,9 @@ La cape verte ajoute la croissance : ce qu’il a envoyé doit revenir plus gran
 
 ## Par l’astrologie : Soleil en Bélier {#astrologie}
 
-Dans la tradition Golden Dawn, le Trois de Bâtons correspond au Soleil en Bélier, deuxième décan du signe. Le [Soleil](/fr/bibliotheque/astrologie/soleil/), c’est le centre d’un thème, ce qu’une personne veut montrer ; le Bélier dit « je suis » et passe le premier. Ensemble : une initiative devenue visible, et contente de l’être.
+Soleil en Bélier : la Golden Dawn accorde au Trois de Bâtons le deuxième décan du signe. Le [Soleil](/fr/bibliotheque/astrologie/soleil/), c’est le centre d’un thème, ce qu’une personne veut montrer ; le Bélier dit « je suis » et passe le premier. Ensemble : une initiative devenue visible, et contente de l’être.
 
-La clé colle au dessin — un homme en pleine lumière, au premier plan de sa propre histoire. Elle reste facultative : le jaune vous a déjà dit la même chose.
+La clé colle au dessin — un homme en pleine lumière, au premier plan de sa propre histoire. Libre à vous de la laisser : tout ce jaune raconte déjà un projet qui s’expose au soleil.
 
 ## En lecture {#lecture}
 
@@ -87,6 +83,6 @@ Renversé, l’attente s’aigrit. Les bateaux sont en retard, ou ne sont jamais
 
 Entraînez-vous sur ce cas d’école : le Trois de Bâtons, bateaux déjà au large, sort à côté du Quatre d’Épées. Le nombre : trois, puis quatre — ça tourne, puis ça se pose. L’élément : le Feu, puis l’Air — l’élan, puis la pensée. Les couleurs : le jaune ensoleillé du Trois, puis la pierre pâle du Quatre d’Épées, un gisant aux mains jointes sous un vitrail.
 
-La phrase que je dirais à voix haute : « Vous avez envoyé quelque chose récemment — un projet, une candidature, une proposition — et maintenant vous attendez. Vous n’avez pas besoin d’en faire plus pour l’instant. Vous avez besoin de vous reposer pendant que ça voyage. »
+Je traduirais l’attente ainsi : « Vous avez envoyé quelque chose récemment — un projet, une candidature, une proposition — et maintenant vous attendez. Vous n’avez pas besoin d’en faire plus pour l’instant. Vous avez besoin de vous reposer pendant que ça voyage. »
 
-Ensuite, je demande si la personne attend effectivement quelque chose. Si oui, je lui demande ce qu’elle a envie de faire au lieu de se reposer, parce que c’est souvent là que se cache la prochaine erreur. Si non, la phrase va dans le carnet comme un raté. Le nombre, l’élément, les couleurs, une phrase, puis la vérification : cet ordre, c’est [la méthode](/fr/methode/), et il marche sur n’importe quelle paire de cartes.
+Je vérifie ensuite que la personne attend bien quelque chose. Si oui, je lui demande ce qu’elle a envie de faire au lieu de se reposer, parce que c’est souvent là que se cache la prochaine erreur. Si aucun bateau n’est parti, la phrase a fait naufrage, et je l’écris. Le nombre, l’élément, les couleurs, une phrase, puis la vérification : cet ordre, c’est [la méthode](/fr/methode/), et il marche sur n’importe quelle paire de cartes.

@@ -27,7 +27,7 @@ Start with colour, because it asks for no knowledge at all. Look at the colour t
 | White | Purity, innocence, peace |
 | Black | Absence, emptiness, dark thoughts, reality |
 | Grey | Neutrality, no particular will, stability |
-| Purple | The one chosen by a group |
+| Purple | Whoever a group elects to lead |
 
 Each colour has [its own page in the Library](/library/tarot-colours/), with the cards where it dominates.
 
@@ -69,7 +69,7 @@ Here's how the three questions join up, on two cards.
 
 The Five of Pentacles: two figures in the snow pass a lit stained-glass window. Colour — black night and white snow, with one small window glowing yellow: absence, cold, and a little warmth within reach. Number — five, conflict, making do with what's left. Element — Earth, material things. As a sentence: “A hard time with money or means, getting by on what's left, and help close by that nobody has looked up to see.”
 
-The Three of Swords: a red heart pierced by three swords under a grey, rainy sky. Colour — red passion inside grey neutrality. Number — three, a bond that was working. Element — Air, words and decisions. “Words that cut into something that was going well.” My own notes add a second side: three swords through one heart can also be a blood pact. **Every card has a plus and a minus, and the three questions show you both.**
+The Three of Swords: a red heart pierced by three swords under a grey, rainy sky. Colour — red passion inside grey neutrality. Number — three, a bond that was working. Element — Air, words and decisions. “Words that cut into something that was going well.” My own notes add a second side: three swords through one heart can also be a blood pact. **Each card brings its own help and its own trouble, and the three questions show you both.**
 
 ## Reading a card you've never seen {#unknown-card}
 

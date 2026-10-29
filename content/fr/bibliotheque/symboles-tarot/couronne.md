@@ -8,7 +8,7 @@ weight: 14
 categories: ["Symboles"]
 tags: ["symboles du tarot", "couronne", "As d’Épées", "la Tour", "symbolisme du tarot"]
 h1: "La couronne — une autorité <em>donnée</em>, pas possédée"
-lede: "Une couronne, c’est presque toujours quelqu’un d’autre qui vous la pose sur la tête. Dans le Rider-Waite-Smith, elle marque l’autorité, un esprit aux commandes, une victoire reconnue — et le jeu montre plus d’une fois avec quelle facilité elle tombe."
+lede: "Une couronne, c’est presque toujours quelqu’un d’autre qui vous la pose sur la tête. Dans ce jeu, elle marque l’autorité, un esprit aux commandes, une victoire reconnue — et le jeu montre plus d’une fois avec quelle facilité elle tombe."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/la-tour
@@ -73,13 +73,13 @@ Un détail à chercher : le guide de Waite évoque une couronne qu’on devine d
 
 Quand une couronne sort, demandez qui l’a donnée, et si elle est encore méritée. Une couronne sur une tête calme, c’est une autorité reconnue : un rôle gagné, une décision à laquelle on fait confiance. Une couronne en l’air ou à terre, c’est cette reconnaissance remise en question.
 
-La couleur : l’or, dans [ma grille](/fr/bibliotheque/couleurs-tarot/or-et-brun/), c’est la valeur — ce qu’on possède. L’élément : l’As d’Épées place la couronne dans l’[Air](/fr/bibliotheque/quatre-elements/element-air/), l’élément qui décide ; la couronne y devient la bonne décision, celle que vous seul pouviez prendre. Le nombre : l’Empereur et le Quatre de Pentacles portent tous deux le [4](/fr/bibliotheque/numerologie/chiffre-4/) — la structure chez l’un, la structure à laquelle on s’accroche chez l’autre.
+La couleur : l’[or](/fr/bibliotheque/couleurs-tarot/or-et-brun/) dit la valeur — ce qu’on possède. L’élément : l’As d’Épées place la couronne dans l’[Air](/fr/bibliotheque/quatre-elements/element-air/), l’élément qui décide ; la couronne y devient la bonne décision, celle que vous seul pouviez prendre. Le nombre : l’Empereur et le Quatre de Pentacles portent tous deux le [4](/fr/bibliotheque/numerologie/chiffre-4/) — la structure chez l’un, la structure à laquelle on s’accroche chez l’autre.
 
-Imaginons que quelqu’un tire la Tour à côté de l’Empereur. La couronne, c’est ce qui est en jeu : un titre, une réputation, une position que tout le monde croyait acquise.
+Si la Tour tombe à côté de l’Empereur, la couronne devient l’enjeu : un titre, une réputation, une position que tout le monde croyait acquise.
 
 ## L’autre face {#revers}
 
-L’autre face de la couronne, c’est oublier d’où elle vient. Une autorité reconnue par un groupe peut être retirée par le groupe, et celui qui la traite comme sa propriété est le plus surpris quand elle tombe. Dans mes notes, l’archétype de l’Air, c’est le chef qui prend les décisions que personne d’autre ne peut prendre — et qui peut devenir un tyran. La couronne, c’est le point de bascule.
+L’autre face de la couronne, c’est oublier d’où elle vient. Une autorité reconnue par un groupe peut être retirée par le groupe, et celui qui la traite comme sa propriété est le plus surpris quand elle tombe. Dans mes notes, l’Air a pour archétype le dirigeant qui tranche là où personne d’autre ne le peut, avec le risque de tourner au tyran. La couronne, c’est le point de bascule.
 
 Il y a une ombre plus discrète : le Quatre de Pentacles, qui serre si fort que sa couronne devient un couvercle.
 

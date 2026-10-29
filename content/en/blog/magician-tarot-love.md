@@ -19,9 +19,9 @@ In love, the Magician is the first move — the message, the invitation, the con
 
 In my notes, the Magician is the card of the four elements, plus the ether that links them: he knows how to do everything, and he stays anchored. In love, the four tools are four things you bring. Desire, the wand. Feeling, the cup. The words to say it, the sword. And the plain care of turning up when you said you would, the pentacle. Having all four on the table at once is rarer than it sounds.
 
-His number is 1: the initiator, the raw diamond. Its advice is humility — get ready to learn — and its minus is forgetting that we’re all students our whole life. With someone new, you’re a beginner again, however many relationships you’ve had.
+His number is 1: the initiator, the raw diamond. Its advice is humility, the readiness to learn, and its minus is forgetting that learning never ends. With someone new, you’re a beginner again, however many relationships you’ve had.
 
-His energy is masculine: acting, showing yourself, saying it directly. That’s why he makes the first move instead of waiting to be chosen. One detail of the drawing matters for love: one hand raises the wand, the other points down. In my notes, the wand receives and sends. A first move is a message, and messages go both ways. [The Magician’s own page](/library/tarot-cards/the-magician/) has every other lens.
+His energy is masculine: acting, showing yourself, saying it directly. That’s why he makes the first move instead of waiting to be chosen. In a love reading, watch his hands: one lifts the wand high, the other points at the earth. In my notes, the wand receives and sends. A first move is a message, and messages go both ways. [The Magician’s own page](/library/tarot-cards/the-magician/) has every other lens.
 
 ## Who speaks first {#speaks-first}
 
@@ -31,7 +31,7 @@ In a couple, it can be an initiative that renews things: you suggest, you plan, 
 
 After a break-up, the Magician turns the tools towards you. A 1 opens a new cycle, and the first person it starts with is you: what you want now, how you’d like to be loved, what you’ll do differently next time.
 
-Say someone sits down, tells you nothing, and draws the Magician. A beginning, words, will in broad daylight. The sentence you might say: “There’s something you want to say to someone, and you already know how — you’re waiting for permission.” Then check it with them, and let them correct you.
+Suppose someone draws the Magician without a word about why they came. A beginning, words, will in broad daylight. You could offer: “There’s something you want to say to someone, and you already know how — you’re waiting for permission.” Then let them say which parts fit.
 
 ## Before you ask whether they feel the same {#before-you-ask}
 
@@ -55,10 +55,10 @@ Reversed, the card leans one of two ways. The tools go unused: the message writt
 
 {{< cards "ar00 cu02 cu07" >}}
 
-Next to the Fool, it’s 0 then 1: an urge turning into a move. [The Fool in love](/blog/fool-tarot-love/) is the leap; the Magician is the gesture. Next to the Two of Cups, the first move is answered: two people, two cups, a bond starting as equals ([the Two of Cups in love](/blog/two-of-cups-tarot-love/)). Next to the Seven of Cups — in my notes, indecision, too many choices — the charm comes with illusions, lovely options floating in the clouds. Pick one, and look at it in daylight.
+Next to the Fool, the count goes from zero to one: an urge turning into a move. [The Fool in love](/blog/fool-tarot-love/) is the leap; the Magician is the gesture. Next to the Two of Cups, the first move is answered: two people, two cups, a bond starting as equals ([the Two of Cups in love](/blog/two-of-cups-tarot-love/)). Beside the Seven of Cups, which my notes describe as being spoilt for choice and unable to pick, the charm comes with illusions, lovely options floating in the clouds. Pick one, and look at it in daylight.
 
 ## Say it out loud once {#out-loud}
 
 Write the first move down — the actual sentence. Read it out loud once. If it sounds like you, keep it; if it sounds like a performance, rewrite it until it doesn’t. Then decide when you’ll say it, and to whom, while the wand is still in your hand.
 
-If you’d like to learn to read the cards the way this article does — tools and lenses first, meanings after — [the learning path starts here](/learn-tarot/).
+To learn to read the cards the way this article does — tools and lenses first, meanings after — [the learning path starts here](/learn-tarot/).

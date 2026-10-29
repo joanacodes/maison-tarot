@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/cu02.webp
 h1: Deux de Coupes — <em>deux</em>, l’Eau
-lede: 'Avant de chercher ce que « signifie » Deux de Coupes, regardez ce que vous
-  avez déjà : deux, l’élément Eau, Vénus en Cancer. Vous lisez la carte. Le nombre
-  dit deux — se lier, peser, coopérer ; l’élément dit les émotions, ce qui circule.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Une jeune femme et un jeune homme se tendent chacun une coupe, à la même hauteur, sous le lion aux ailes rouges perché sur le caducée. Ce que chacun donne, l’autre le rend-il ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-eau
@@ -30,7 +26,7 @@ faq:
 - q: Que signifie Deux de Coupes ?
   a: 'Un lien choisi des deux côtés : une relation, une amitié ou une association où l’échange va dans les deux sens. Le deux dit qu’un pacte se noue ; l’Eau dit que c’est un pacte du cœur.'
 - q: Deux de Coupes renversé, ça change quoi ?
-  a: 'Les coupes ne se rejoignent pas tout à fait. L’un donne plus que l’autre, le lien refroidit, ou l’engagement a été pris trop vite ; parfois, ce sont deux personnes qui tiennent encore l’une à l’autre et attendent chacune que l’autre fasse le premier pas.'
+  a: 'L’échange se déséquilibre : une personne donne davantage, la chaleur retombe, ou l’engagement a été pris trop vite ; parfois, ce sont deux personnes qui tiennent encore l’une à l’autre et attendent chacune que l’autre fasse le premier pas.'
 - q: Que signifie le Deux de Coupes en amour ?
   a: 'Une attirance réciproque et un engagement qui prend forme, d’égal à égal. La carte décrit le lien tel qu’il est aujourd’hui, pas une promesse sur sa durée.'
 categories:
@@ -63,11 +59,11 @@ L’eau s’infiltre, aussi. Un lien comme celui-là se nourrit de petites chose
 
 Le fond est un grand [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) pâle : les émotions, l’eau, la vitalité — toute la scène baigne dans un sentiment. La robe blanche de la femme dit la paix et la sincérité. Le jaune du jeune homme dit la joie, l’optimisme, l’expression de soi. Au-dessus d’eux, la tête de lion et ses ailes sont [rouges](/fr/bibliotheque/couleurs-tarot/rouge/) : la passion, l’élan, la force. Derrière, la colline verte : la croissance, quelque chose qui peut vivre.
 
-Lisez les couleurs avant la carte : un sentiment calme, de la joie, de la franchise — et une passion qui plane au-dessus d’eux deux, tenue par le bâton du messager plutôt que lâchée.
+Tout cela compose un sentiment calme, de la joie, de la franchise — et une passion qui plane au-dessus d’eux deux, tenue par le bâton du messager plutôt que lâchée.
 
 ## Par l’astrologie : Vénus en Cancer {#astrologie}
 
-Dans la tradition Golden Dawn, le Deux de Coupes correspond au premier décan du Cancer, gouverné par Vénus. Vénus dit ce qu’on aime et comment on aime. Le [Cancer](/fr/bibliotheque/astrologie/cancer/) dit *Je sens* : la nourrice, la personne qui rend une maison vivable. Ensemble : un amour qui veut un foyer, du soin donné et reçu, l’attachement plus que la conquête.
+Le premier décan du Cancer, gouverné par Vénus, est celui du Deux de Coupes. Vénus dit ce qu’on aime et comment on aime. Le [Cancer](/fr/bibliotheque/astrologie/cancer/) dit *Je sens* : la nourrice, la personne qui rend une maison vivable. Ensemble : un amour qui veut un foyer, du soin donné et reçu, l’attachement plus que la conquête.
 
 Facultatif, comme toujours : si l’astrologie ne fait pas partie de vos clés de lecture, le nombre et l’élément ont déjà tout dit.
 
@@ -75,7 +71,7 @@ Facultatif, comme toujours : si l’astrologie ne fait pas partie de vos clés d
 
 À l’endroit, le Deux de Coupes, c’est **un lien choisi des deux côtés.** Une relation qui commence ou qui s’approfondit, une réconciliation, une amitié qui prend de l’importance, un associé en qui l’on a confiance. Ce n’est pas seulement une histoire d’amour : deux collègues qui s’entendent bien peuvent tirer cette carte. Ce qui compte, c’est que l’échange aille dans les deux sens.
 
-Renversé, le Deux de Coupes montre des coupes qui ne se rejoignent pas tout à fait. L’un donne plus que l’autre, un lien refroidit, ou le serment a été prêté trop vite — avant que quiconque ait lu le contrat. Parfois, c’est une brouille entre deux personnes qui tiennent encore l’une à l’autre, chacune attendant que l’autre fasse le premier pas.
+Renversé, le Deux de Coupes montre deux coupes qui se manquent de peu. L’échange penche d’un côté, la chaleur retombe, ou le serment a été prêté trop vite — avant que quiconque ait lu le contrat. Parfois, c’est une brouille entre deux personnes qui tiennent encore l’une à l’autre, chacune attendant que l’autre fasse le premier pas.
 
 À côté des [Amoureux](/fr/bibliotheque/cartes-tarot/les-amoureux/), le lien devient un choix qui engage plus qu’une humeur. À côté du [Dix de Coupes](/fr/bibliotheque/cartes-tarot/dix-de-coupes/), on voit où le lien peut mener : un foyer, une famille. À côté du [Trois d’Épées](/fr/bibliotheque/cartes-tarot/trois-de-epees/), le lien est réel et quelque chose l’a entaillé — un mot, une tierce personne, une blessure dont on n’a pas parlé. Je détaille le versant amoureux de cette carte dans [le Deux de Coupes en amour](/fr/blog/deux-de-coupes-amour/).
 
@@ -85,6 +81,6 @@ Renversé, le Deux de Coupes montre des coupes qui ne se rejoignent pas tout à 
 
 Posez, pour l’exercice, le Deux de Coupes à côté du [Huit de Pentacles](/fr/bibliotheque/cartes-tarot/huit-de-pentacles/) : personne de réel derrière, seulement la méthode. Deux puis huit : un lien, puis la maîtrise et l’effort régulier. L’Eau puis la Terre : un sentiment qui veut devenir concret. Les couleurs : le bleu doux du Deux à côté des pentacles jaunes et des chausses rouges d’un artisan penché sur son établi.
 
-La phrase que je dirais à voix haute : « Il y a quelqu’un avec qui vous travaillez bien — un collègue, un associé, peut-être un ami — et ce que vous partagez est en train de devenir quelque chose que vous construisez ensemble. » J’ajouterais que ce n’est pas forcément une histoire d’amour, parce que le Deux de Coupes donne envie à tout le monde d’entendre « amour ».
+Pour le lien et l’établi réunis, je proposerais : « Il y a quelqu’un avec qui vous travaillez bien — un collègue, un associé, peut-être un ami — et ce que vous partagez est en train de devenir quelque chose que vous construisez ensemble. » J’ajouterais que ce n’est pas forcément une histoire d’amour, parce que le Deux de Coupes donne envie à tout le monde d’entendre « amour ».
 
 Puis je vérifie : « Est-ce que quelqu’un vous vient en tête ? » Je laisse la personne répondre, sans lui souffler le prénom. Si aucun prénom ne vient, c’est un raté, consigné comme tel.

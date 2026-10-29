@@ -36,7 +36,7 @@ You may well meet one of the three cards people fear most: Death, the Tower or t
 
 Death, in Pamela Colman Smith’s 1909 drawing, rides a white horse while a sun sits on the horizon between two towers. It’s about an ending that makes room: closer to the harvest than to the grave, a season closing so another can start. The Tower is a shake-up — a structure that wasn’t holding, coming down fast. The Devil is attachment: two figures chained so loosely they could lift the chains off themselves.
 
-Every card has a plus and a minus, and these three have as much plus as any. [Why the scariest cards are kinder than they look](/blog/scariest-tarot-cards/) goes through them one by one.
+No card is all light or all shadow, and these three have as much light as any. [The cards people dread most](/blog/scariest-tarot-cards/) get a closer look, one by one, in another article.
 
 If a reader turns one of them into a threat — “something bad is coming, and I can help, for a fee” — that’s your cue to thank them and leave.
 
@@ -44,7 +44,7 @@ If a reader turns one of them into a threat — “something bad is coming, and 
 
 Some questions come up more around Halloween, because the season is full of the dead and the unknown: whether someone who is ill will get better, whether there’s a curse on the family, whether you’re pregnant. People ask them out of worry and love, and I understand why.
 
-I don’t read on them, and here’s why. A card can’t diagnose, can’t see inside a body and can’t date a death, and a wrong word on those subjects can stay with someone for years. The same goes for ongoing court cases, money decisions and people who aren’t in the room.
+They’re not mine to answer with cards. A card can’t diagnose, can’t see inside a body and can’t date a death, and a wrong word on those subjects can stay with someone for years. The same goes for ongoing court cases, money decisions and people who aren’t in the room.
 
 There’s usually a gentler question underneath — “how do I look after myself while I wait for the results?”, “what do I want to say to my grandmother this winter?” — and the cards can hold that one. Here is [the full list of what I don’t read on, and why](/disclaimers/#refusals).
 
@@ -62,7 +62,7 @@ Write down what was said, the same evening, before you decide what it meant. Mem
 
 Then don’t act on it. [Tarot is not an authority](/blog/tarot-is-not-an-authority/), and a ten-minute reading at a party even less so.
 
-And if some of it missed, that’s normal. By my own count, about one reading in ten misses, and a good reader says so rather than bending the miss into a hit.
+And if some of it missed, that’s normal. Misses make up about a tenth of the readings in my notebook, and a good reader says so rather than bending the miss into a hit.
 
 If one sentence keeps going round in your head that night, say it out loud to a friend, or go back and ask the reader what they meant. A line from a card shouldn’t keep you awake; a conversation usually brings it back down to size.
 

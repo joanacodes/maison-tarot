@@ -23,7 +23,7 @@ Laissez les autres en dehors. Un tirage est pour la personne assise en face, pas
 
 Quelques autres points à vérifier :
 
-- Demandez au tarologue ce qu’il ne lit pas. À Maison Tarot, c’est la santé, la mort, la grossesse, les procédures en cours, les décisions d’argent, les malédictions et les personnes absentes. Le savoir avant vous évite un arrêt net en plein milieu.
+- Demandez au tarologue ce qu’il ne lit pas. À Maison Tarot, la liste couvre la maladie, les décès, la grossesse, les affaires en justice, les grosses décisions financières, les malédictions, et quiconque n’est pas là pour en parler. Le savoir avant vous évite un arrêt net en plein milieu.
 - Prévoyez du temps. Un tirage coincé entre deux réunions est bâclé des deux côtés, et vous le passerez l’œil sur la montre.
 - Venez comme vous êtes. Pas de sauge, pas de bougies, pas de tenue particulière. Rien de tout ça n’a jamais amélioré un tirage que j’ai fait.
 - Regardez dans quel état vous arrivez. S’il s’agit de votre quatrième tirage du mois sur la même question, le plus gentil envers vous-même est peut-être de vous en passer.
@@ -66,11 +66,11 @@ Les manières du tarologue comptent tout autant, et elles sont un peu plus stric
 2. Annoncez ce que vous ne lisez pas avant de commencer, tôt et avec douceur.
 3. Dites à la personne qu’elle peut vous arrêter quand elle veut.
 4. Dites « celui-là est raté » quand c’est raté. Pas de nouveau mélange, pas de carte supplémentaire pour rattraper.
-5. Surveillez votre propre fatigue. Interpréter demande de l’énergie ; il m’arrive de m’arrêter après deux heures de tirages, par prudence. Si une séance [vous vide complètement](/fr/blog/energie-apres-un-tirage/), reposez-vous avant la suivante.
+5. Surveillez votre propre fatigue. Lire coûte de l’énergie ; moi, je m’autorise à finir une fois deux heures passées, quand il le faut. Si une séance [vous vide complètement](/fr/blog/energie-apres-un-tirage/), reposez-vous avant la suivante.
 6. Terminez le tirage volontairement au lieu de le laisser s’effilocher — il y a un article entier sur [comment bien terminer un tirage](/fr/blog/terminer-un-tirage/).
 
 ## En résumé {#en-resume}
 
 Avant : le consentement, le silence, pas d’absents. Pendant : un visage calme, demander avant de toucher, dire stop si besoin. Après : un retour honnête, pas de question répétée, votre propre décision.
 
-Si vous voulez voir ces bonnes manières en pratique avant de vous asseoir pour votre propre tirage, venez à l’un des [événements gratuits](/fr/evenements/) : les personnes lues sont tirées au sort, personne ne dit rien avant, et on compare à la fin.
+Si vous voulez voir ces bonnes manières en pratique avant de vous asseoir pour votre propre tirage, venez à l’un des [événements gratuits](/fr/evenements/) : les personnes que je lis y sont choisies au hasard, personne ne dit rien avant, et tout se confronte à la fin.

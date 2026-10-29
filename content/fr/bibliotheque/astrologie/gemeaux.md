@@ -25,12 +25,13 @@ related:
 - /bibliotheque/astrologie/mercure
 faq:
 - q: Quelle carte de tarot correspond au Gémeaux ?
-  a: Les Amoureux, dans la tradition Golden Dawn reprise par le Rider-Waite-Smith.
-    Quand elle sort, le signe donne son verbe, son élément et son mode d’un coup.
-- q: 'Je suis Gémeaux : est-ce que cette carte est « ma » carte ?'
-  a: C’est une entrée, pas une identité. La carte parle à n’importe qui de la même
-    chose ; votre signe vous aide seulement à la reconnaître plus vite. L’astrologie
-    n’est pas une excuse.
+  a: 'Les Amoureux. Ce sont les occultistes anglais de la Golden Dawn qui ont fait
+    le lien, et le jeu de 1909 l’a gardé : deux personnages, un ange au-dessus d’eux,
+    une carte de choix et d’échange — le terrain du signe de la communication.'
+- q: Si je suis Gémeaux, les Amoureux me concernent-ils davantage ?
+  a: 'Ils vous parlent comme à tout le monde, de choix et de conversation. Demandez-vous
+    plutôt ce qui se dit en ce moment dans votre entourage, et par qui ça passe : c’est là
+    que se lit l’énergie des Gémeaux, pas dans votre date de naissance.'
 gallery:
 - src: "visuals/sign-gemini/1.jpg"
   title: "Passer le relais"
@@ -77,7 +78,7 @@ Le très bon reporter, l’avocat — ou le téléphone arabe.
 
 ## Sa carte : Les Amoureux {#carte}
 
-Quand [les Amoureux](/fr/bibliotheque/cartes-tarot/les-amoureux/) sortent, les Gémeaux parlent : un choix entre deux, une conversation qui décide, un relais. Bien posé, c’est le mot juste qui unit. Mal posé, c’est la version qui circule et qui n’est plus la vraie.
+Les Gémeaux prennent la parole à travers [les Amoureux](/fr/bibliotheque/cartes-tarot/les-amoureux/) : un choix entre deux, une conversation qui décide, un relais. Le mot juste peut unir ; la version qui passe de bouche en bouche peut aussi finir par ne plus être la vraie.
 
 {{< cards "ar06" >}}
 

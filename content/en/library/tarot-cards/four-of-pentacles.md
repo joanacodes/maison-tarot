@@ -15,11 +15,7 @@ energy: Feminine
 kabbalah: ''
 image: cards/pe04.webp
 h1: Four of Pentacles — <em>four</em>, Earth
-lede: 'Before looking up what Four of Pentacles “means”, look at what you already
-  have: four, the element Earth, Sun in Capricorn. You’re reading the card. The number
-  says four — foundations, stability; the element says matter, what holds. Lay the
-  two over each other, add the colours, and the card is already talking — the rest
-  of the page shows you how.'
+lede: 'Crowned and seated, a man clasps one coin against his chest, keeps another balanced on his crown and two pinned under his shoes, his back to a whole city. What are you gripping so hard you can’t move?'
 related:
 - /library/numerology
 - /library/four-elements/earth-element
@@ -29,7 +25,7 @@ faq:
 - q: What does Four of Pentacles mean?
   a: 'Security that is held on to: savings, a stable job, a home, a boundary. The card asks whether that grip still protects the person or has started to hold them in place.'
 - q: What about Four of Pentacles reversed?
-  a: 'Either the hold loosens and the person starts to share, delegate or let go, or the fear of losing grows and the grip turns into control. Same card, slowed down or in excess.'
+  a: 'Either the hold loosens and the person starts to share, delegate or let go, or the fear of losing grows and the grip turns into control.'
 - q: Is the Four of Pentacles only about money?
   a: 'No. What the figure clutches can be money, but also a position, a routine, a role, an old way of doing things or a person; Earth is whatever has value for you.'
 categories:
@@ -52,7 +48,7 @@ Look at what his body can’t do. His arms are busy, his feet are pinned, and hi
 
 [Number four](/library/numerology/number-4/) is 2 exalted: the contract has held, and now there’s a structure, a home, the fruit of your work. In my notes, 4 is already the most earthly number — material, abundance, Taurus, earth — so on a Pentacles card it’s doubled: stability on top of stability.
 
-The advice of 4 is to stay flexible and open to what you hadn’t planned. Its minus is carrying on when you should stop, and stubbornness. This card shows both: the foundations are real, and the grip is tight. In the Instagram story, 4 is fast, enormous success; on this card, that success has turned into a grip.
+Four asks you to bend a little and make space for the unplanned; at its worst it’s stubbornness, holding a course you should have dropped. This card shows both: the foundations are real, and the grip is tight. Instagram’s fast, enormous success was its 4; on this card, that kind of success has turned into a grip.
 
 ## By element: Earth {#element}
 
@@ -64,13 +60,13 @@ What he clutches isn’t only money. It can be savings, yes, but also a position
 
 His robe is a dark, deep [red](/library/tarot-colours/red/): strength, will, a body that intends to stay put. The [black](/library/tarot-colours/black/) cloak wraps around it; in my grid, black absorbs energy — it takes and doesn’t give back. A thin line of blue at the hem is the only cool, emotional note on him. The four coins are gold, and so is the crown.
 
-Behind him, the grey sky: neutrality, matter that doesn’t move. The city has its red roofs and green trees, but it’s small and far away. Read the colours before the card: a dense, dark figure, and the living world behind his back.
+Behind him, the grey sky: neutrality, matter that doesn’t move. The city has its red roofs and green trees, but it’s small and far away. A dense, dark figure, and the living world behind his back.
 
 ## By astrology: Sun in Capricorn {#astrology}
 
-In the Golden Dawn tradition, the Four of Pentacles is the third decan of Capricorn, given to the [Sun](/library/astrology/sun/). The Sun is the centre, what a life organises itself around. Capricorn says *I use*: work, responsibility, the wish to depend on no one. Together: a person who has put their security at the centre of everything — power in its earthly sense, having and holding.
+Astrologically, the card is the last decan of Capricorn, which the Golden Dawn handed to the [Sun](/library/astrology/sun/). The Sun is the centre, what a life organises itself around. Capricorn says *I use*: work, responsibility, the wish to depend on no one. The combination is a person who has put their security at the centre of everything — power in its earthly sense, having and holding.
 
-Optional, as always. The posture alone says it.
+Leave the decan out and the posture still says it: arms locked, feet pinned.
 
 ## In a reading {#reading}
 
@@ -78,7 +74,7 @@ Upright, the Four of Pentacles is security kept: savings, a stable job, a home, 
 
 Reversed, the hold loosens, or tightens. Either the person starts to open their arms: they share, delegate, spend on something that matters to them. Or the fear of losing grows, and what was protected becomes a cage — control, mistrust, nothing coming in because nothing is allowed out.
 
-People ask this card about saving, spending, investing. I don’t read on those decisions; they stay with you and, for the figures, with an adviser. What the card can show is the grip itself, and what you’re afraid of losing ([the Pentacles and money, read calmly](/blog/tarot-cards-for-money/)).
+People ask this card about saving, spending, investing. Those calls are yours and, for the figures, an adviser’s; the reading doesn’t touch them. The card can show the grip itself, and what you’re afraid of losing ([the Pentacles and money, read calmly](/blog/tarot-cards-for-money/)).
 
 Next to [the Emperor](/library/tarot-cards/the-emperor/), the major 4, structure meets property: the rule, the frame, the throne — good protection, or a fortress. Next to the [Four of Cups](/library/tarot-cards/four-of-cups/), another 4, comfort has gone flat: safe, and bored. Next to the [Six of Pentacles](/library/tarot-cards/six-of-pentacles/), the arms open: the same coins given and received, and the scales level again.
 
@@ -86,8 +82,8 @@ Next to [the Emperor](/library/tarot-cards/the-emperor/), the major 4, structure
 
 ## A reading, as an example {#example}
 
-Lay out two cards in your mind for someone you’re reading for: the Four of Pentacles on the left, the [Eight of Cups](/library/tarot-cards/eight-of-cups/) on the right. Four then eight: stability, then 4 exalted — and in my notes, the Eight of Cups is moving on from what you’re already doing. Earth then Water: what you hold, then what you feel. The drawings: a man gripping his coins in front of a city, then a figure walking away from eight stacked cups, towards the mountains, under the moon.
+Lay out two cards in your mind for someone you’re reading for: the Four of Pentacles on the left, the [Eight of Cups](/library/tarot-cards/eight-of-cups/) on the right. Four then eight: stability, then 4 exalted — and in my notes the Eight of Cups means walking out on something still in progress. Earth then Water: what you hold, then what you feel. The drawings: a man gripping his coins in front of a city, then a cloaked walker heading for the rocks at night, his cups left standing.
 
-The sentence I’d say out loud: “You’re holding on very tight to something you’ve already started to leave.”
+Grip next to departure fits in one short sentence: “You’re holding on very tight to something you’ve already started to leave.”
 
-To check, I ask: “Is there something you’re keeping out of habit, or out of fear of losing it, more than because you still want it?” If it’s yes, I don’t ask what. If they can’t think of anything, I tell them the sentence missed.
+Then a question, kept open: “Is there something you’re keeping out of habit, or out of fear of losing it, more than because you still want it?” A yes is enough; I don’t ask what. If they can’t think of anything, I tell them the sentence missed.

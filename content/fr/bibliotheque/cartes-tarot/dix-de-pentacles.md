@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/pe10.webp
 h1: Dix de Pentacles — <em>dix</em>, la Terre
-lede: 'Avant de chercher ce que « signifie » Dix de Pentacles, regardez ce que vous
-  avez déjà : dix, l’élément Terre, Mercure en Vierge. Vous lisez la carte. Le nombre
-  dit dix — la fin du cycle, la transition ; l’élément dit la matière, ce qui tient.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Trois générations se croisent sous une arche, avec deux chiens blancs et un vieil homme au manteau couvert de motifs, tandis que dix pièces dessinent un arbre par-dessus. Ce qui se transmet, cadeau ou poids ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre
@@ -30,7 +26,7 @@ faq:
 - q: 'Que signifie Dix de Pentacles ?'
   a: 'Une richesse complète, à la maison : une famille réunie, quelque chose de construit qu’on transmet maintenant. Le 10 ferme un cycle et ouvre le suivant, alors la carte parle d’héritage — et rappelle qu’une maison pleine, c’est aussi un moment.'
 - q: 'Dix de Pentacles renversé, ça change quoi ?'
-  a: 'La même maison, freinée ou excessive. Freinée : tout le monde est là et personne ne se parle, ou l’héritage pèse plus qu’il ne donne. Excessive : le cocon devient le monde entier, et en sortir commence à ressembler à une trahison.'
+  a: 'La maisonnée se tait, ou se referme : tout le monde est là et personne ne se parle, l’héritage pèse plus qu’il ne donne — ou le cocon devient le monde entier, et en sortir commence à ressembler à une trahison.'
 - q: 'Le Dix de Pentacles annonce-t-il de l’argent ?'
   a: 'Beaucoup de tarologues l’associent à la richesse et à l’héritage, et c’est humain d’espérer une rentrée d’argent. Je ne lis ni les prévisions ni les décisions financières ; je préfère regarder ce que montre la carte — qui vous entoure, et ce qui se transmet.'
 categories:
@@ -57,7 +53,7 @@ Dans l’histoire d’Instagram, le 10, c’est la plateforme devenue tout autre
 
 ## Par l’élément : Terre {#element}
 
-La [Terre](/fr/bibliotheque/quatre-elements/element-terre/), c’est la matière, la valeur, le résultat du travail — ce qui compte à vos yeux, en argent ou en sentiment. Ici les deux se rejoignent : une maison, un blason, et aussi les chiens, l’enfant, les gens.
+La [Terre](/fr/bibliotheque/quatre-elements/element-terre/) mesure ce que le travail a produit et ce qui compte pour vous, que cela se paie en argent ou en affection. Ici les deux se rejoignent : une maison, un blason, et aussi les chiens, l’enfant, les gens.
 
 Le revers, c’est l’entêtement de la Terre à l’échelle d’une famille : la maison de famille qu’on ne vend pas, l’entreprise qu’on est censé reprendre. Tout héritage n’est pas un cadeau ; cette carte peut aussi décrire un cocon devenu un peu étroit.
 
@@ -67,15 +63,15 @@ C’est la carte la plus chargée de la série. L’arche est [grise](/fr/biblio
 
 ## Par l’astrologie : Mercure en Vierge {#astrologie}
 
-Dans le système de la Golden Dawn, cette carte correspond à [Mercure](/fr/bibliotheque/astrologie/mercure/) dans le troisième décan de la [Vierge](/fr/bibliotheque/astrologie/vierge/). Mercure gouverne la Vierge : il est ici chez lui, l’esprit qui compte, trie et transmet. C’est aussi la planète de l’échange, qui va bien à une carte de transmission. À garder, pour se rappeler qu’un héritage est aussi une conversation ; si l’astrologie n’est pas votre clé de lecture, le nombre a déjà dit la transmission.
+[Mercure](/fr/bibliotheque/astrologie/mercure/) occupe le troisième décan de la [Vierge](/fr/bibliotheque/astrologie/vierge/), et c’est là que se range le Dix de Pentacles. Mercure gouverne la Vierge : il est ici chez lui, l’esprit qui compte, trie et transmet. C’est aussi la planète de l’échange, qui va bien à une carte de transmission. À garder, pour se rappeler qu’un héritage est aussi une conversation ; sans astrologie, le nombre parlait déjà de transmission.
 
 ## En lecture {#lecture}
 
 À l’endroit : un foyer qui tient, une famille réunie, quelque chose de construit qu’on transmet. Ce peut être concret — une maison, une entreprise familiale, une fête où tout le monde est là — ou un sentiment : appartenir à quelque chose de plus ancien et de plus grand que soi. **Une maison pleine est un moment, pas une forteresse : profitez-en, et sachez que vous pouvez partir et la retrouver.**
 
-Renversée, la maisonnée se tait, ou ferme ses portes. Freinée : tout le monde est là et personne ne se parle ; l’héritage devient un poids ou une querelle. Excessive : le cocon devient le monde entier, et le quitter ressemble à une trahison.
+Renversée, la maisonnée se tait, ou ferme ses portes. Quand elle se tait, tout le monde est là et personne ne se parle ; l’héritage devient un poids ou une querelle. Quand elle se ferme, le cocon devient le monde entier, et le quitter ressemble à une trahison.
 
-Beaucoup espèrent que cette carte annonce un héritage ou une rentrée d’argent. Je comprends : les soucis d’argent pèsent lourd. Mais je ne lis ni les prévisions ni les décisions financières. La carte peut montrer qui vous entoure et ce qui se transmet ; j’en parle dans [ma façon de lire les Pentacles quand il est question d’argent](/fr/blog/tarot-et-argent/).
+Beaucoup espèrent que cette carte annonce un héritage ou une rentrée d’argent. Je comprends : les soucis d’argent pèsent lourd. Mais je ne lis ni les prévisions ni les décisions financières. La carte peut montrer qui vous entoure et ce qui se transmet ; j’en parle dans [ce que les Pentacles disent d’un patrimoine, et ce qu’ils taisent](/fr/blog/tarot-et-argent/).
 
 À côté du [Dix de Coupes](/fr/bibliotheque/cartes-tarot/dix-de-coupes/), la même famille vue du cœur — dans mes notes, le bonheur, la famille, les enfants. À côté du [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/), quelqu’un sort de la maison pleine : le cocon quitté, et toujours là. À côté du [Quatre de Pentacles](/fr/bibliotheque/cartes-tarot/quatre-de-pentacles/), la maison gardée plutôt que transmise.
 
@@ -85,6 +81,6 @@ Beaucoup espèrent que cette carte annonce un héritage ou une rentrée d’arge
 
 Un exercice : quelqu’un tire le Dix de Pentacles, puis le Valet de Bâtons, et c’est à vous de lire. Dix puis Valet : un cycle qui se ferme, puis un élève qui commence quelque chose. Terre puis Feu : une maison qui tient, puis une envie neuve. Trois générations sous une arche, puis un jeune homme seul dans un paysage désertique, les yeux levés vers un bâton qui bourgeonne.
 
-À voix haute : « Quelque chose est complet à la maison, et c’est bien. Et quelqu’un de jeune, peut-être vous, a envie d’essayer quelque chose à soi. Ce n’est pas forcément une rupture. »
+La maison pleine et l’élève qui regarde ailleurs se disent ainsi : « Quelque chose est complet à la maison, et c’est bien. Et quelqu’un de jeune, peut-être vous, a envie d’essayer quelque chose à soi. Ce n’est pas forcément une rupture. »
 
 Puis vérifiez : « Est-ce que ça ressemble à ce qui se passe chez vous ? » Si rien ne colle, c’est un raté : dites-le, notez-le, et ne tirez pas une autre carte pour le rattraper.

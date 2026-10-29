@@ -1,6 +1,6 @@
 ---
 title: 'La Lune (The Moon) — tarot Rider-Waite-Smith : lire la carte par ses clés de lecture'
-description: 'La Lune au tarot par ses clés de lecture : 18 qui devient 9, l’Eau, le bleu de la nuit, les Poissons — l’incertitude, au travail aussi, et avancer sans tout voir.'
+description: 'La Lune au tarot : chien, loup, écrevisse et un chemin flou, 18 devenu 9, l’Eau, les Poissons — l’incertitude, au travail aussi, sans décider dans le brouillard.'
 translationKey: card-ar18
 type: cards
 navTitle: La Lune
@@ -15,10 +15,7 @@ energy: Féminine
 kabbalah: Qoph
 image: cards/ar18.webp
 h1: La Lune — <em>18</em>, l’Eau
-lede: 'Avant de chercher ce que « signifie » La Lune, regardez ce que vous avez déjà
-  : 18, l’élément Eau, Poissons. Vous lisez la carte. Le nombre dit 18 — 1 + 8 = 9 — l’aboutissement, presque au bout ; l’élément dit les émotions, ce qui
-  circule. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous
-  parle déjà — le reste de la page vous montre comment.'
+lede: 'Chien et loup hurlent vers une lune à visage ; une écrevisse sort de l’eau, un chemin file entre deux tours. Dans ce demi-jour, où s’arrête ce que vous voyez, où commence ce que vous imaginez ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-eau
@@ -49,23 +46,23 @@ Il n’y a personne sur cette carte — seulement des animaux, un chemin et une 
 
 ## Par le nombre : 18 {#nombre}
 
-Dix-huit se ramène à [9](/fr/bibliotheque/numerologie/chiffre-9/), le nombre de l’Ermite : la ligne d’arrivée en vue, la fin d’une étape, les derniers efforts, l’introspection — et la patience, sans s’arrêter de marcher. C’est le chemin de la Lune : long, flou, et presque fini.
+Dix-huit se ramène à [9](/fr/bibliotheque/numerologie/chiffre-9/), le nombre de l’Ermite : l’arrivée se devine, une étape se termine, il faut un dernier effort et un regard tourné vers soi — et de la patience, sans cesser de marcher. C’est le chemin de la Lune : long, flou, et presque fini.
 
 Dans l’histoire d’Instagram, le 9, c’est la refonte autour des Reels : ce n’est pas encore une autre application, mais tout ce qui définissait l’ancienne est en train de finir. Sur cette carte, cet entre-deux ressemble à du brouillard. C’est pourtant un 9 : vous êtes plus près de la fin que du début.
 
 ## Par l’élément : Eau {#element}
 
-La Lune est une carte d’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les émotions, les relations, les forces cachées. Dans mes notes, l’eau vous porte de A à B quand vous la laissez faire, et peut vous noyer quand vous luttez contre elle. Avec le temps, elle s’infiltre aussi partout : une émotion négligée abîme lentement les fondations, comme l’humidité dans une maison.
+La Lune est une carte d’[Eau](/fr/bibliotheque/quatre-elements/element-eau/), l’élément des émotions, des liens et de ce qui agit sans se montrer. Dans mes notes, l’eau transporte qui se laisse porter et engloutit qui se débat. Avec le temps, elle s’infiltre aussi partout : une émotion négligée abîme lentement les fondations, comme l’humidité dans une maison.
 
 L’écrevisse qui sort du bassin, c’est cette émotion qui fait surface. La Lune ne crée pas l’inquiétude ; elle vous en montre une qui était déjà dans l’eau.
 
 ## Par les couleurs {#couleurs}
 
-Le [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) domine, dans le ciel et dans le bassin profond : l’émotion, l’eau, l’énergie féminine, ce qui cache et ce qui porte. La lune elle-même est jaune — l’enfant intérieur, l’imagination, une volonté toujours là dans le noir. Les tours sont grises, neutres, deux montants de porte qui ne prennent pas parti ; la terre est verte, elle pousse encore. Lisez les couleurs avant la carte et vous avez déjà : beaucoup d’émotion, une petite lumière qui tient, et un sol vivant sous vos pieds.
+Le [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) domine, dans le ciel et dans le bassin profond : l’émotion, l’eau, l’énergie féminine, ce qui cache et ce qui porte. La lune elle-même est jaune — l’enfant intérieur, l’imagination, une volonté toujours là dans le noir. Les tours sont grises, neutres, deux montants de porte qui ne prennent pas parti ; la terre est verte, elle pousse encore. Ensemble, ces teintes donnent déjà la nuit entière : beaucoup d’émotion, une petite lumière qui tient, et un sol vivant sous vos pieds.
 
 ## Par l’astrologie : Poissons {#astrologie}
 
-Dans la tradition Golden Dawn, la Lune revient aux [Poissons](/fr/bibliotheque/astrologie/poissons/), le signe dont le verbe est « Je crois ». Un poisson vit là où nous ne pouvons pas respirer : vue de dehors, la surface est immobile, et dessous, l’eau grouille de vie. C’est cette carte — calme en surface, tout un monde en dessous. Bien placés, les Poissons sont la sagesse qui attend le bon moment ; mal placés, celui qui a plongé et ne dit plus quand il remonte.
+C’est aux [Poissons](/fr/bibliotheque/astrologie/poissons/) que la Golden Dawn confie la Lune, le signe dont le verbe est « Je crois ». Un poisson vit là où nous ne pouvons pas respirer : vue de dehors, la surface est immobile, et dessous, l’eau grouille de vie. C’est cette carte — calme en surface, tout un monde en dessous. Bien placés, les Poissons sont la sagesse qui attend le bon moment ; mal placés, celui qui a plongé et ne dit plus quand il remonte.
 
 ## En lecture {#lecture}
 
@@ -77,7 +74,7 @@ Renversée, le brouillard se lève doucement — ou il s’épaissit, quand on n
 
 {{< cards "ar02 cu07 ar19" >}}
 
-**La Lune ne dit pas que quelque chose ne va pas ; elle dit que vous ne le voyez pas encore nettement, alors ne décidez pas comme si c’était le cas.** Pour les questions habituelles, j’ai écrit sur [la Lune en amour](/fr/blog/la-lune-tarot-amour/), et l’incertitude au travail a sa section juste en dessous.
+**La Lune ne dit pas que quelque chose ne va pas ; elle dit que vous ne le voyez pas encore nettement, alors ne décidez pas comme si c’était le cas.** Pour les questions habituelles, j’ai écrit sur [la Lune en amour](/fr/blog/la-lune-tarot-amour/), et le travail, avec ses rumeurs et ses attentes, se lit juste en dessous.
 
 ## Au travail {#au-travail}
 
@@ -87,7 +84,7 @@ Ce peut être une intuition : on sent parfois un changement avant qu’il soit a
 
 Renversée au travail, le brouillard se lève : l’annonce finit par tomber, le poste reçoit une fiche, la réponse arrive — pas toujours celle qu’on espérait, mais une vraie.
 
-La Lune attire deux questions : « Vais-je avoir le poste ? » et « Se passe-t-il quelque chose dans mon dos ? » Les deux naissent de l’attente sans information, ce qu’il y a de plus usant. Je ne lis pas ce que pense un recruteur ou un collègue : ils ne sont pas dans la pièce, et je lis la personne en face de moi. Quant à « Quand aurai-je une réponse ? », [les dates sont le point faible de toute lecture](/fr/blog/tarot-quand/), et un « oui, la semaine prochaine » erroné vous coûterait une semaine d’espoir. Une question plus douce : « Qu’est-ce que je sais vraiment, et qu’est-ce que j’imagine ? »
+La Lune attire deux questions : « Vais-je avoir le poste ? » et « Se passe-t-il quelque chose dans mon dos ? » Les deux naissent de l’attente sans information, ce qu’il y a de plus usant. Je ne lis pas ce que pense un recruteur ou un collègue : ils ne sont pas dans la pièce, et je lis la personne en face de moi. Quant à « Quand aurai-je une réponse ? », [les dates sont le point faible de toute lecture](/fr/blog/tarot-quand/), et un « oui, la semaine prochaine » erroné vous coûterait une semaine d’espoir. Je vous proposerais plutôt celle-ci : « Qu’est-ce qui est vérifié, et qu’est-ce que j’invente ? »
 
 Cette semaine, tracez deux colonnes : ce que je sais, ce que j’imagine. Le poids est presque toujours dans la seconde. Puis posez une question claire à qui peut y répondre — « Est-ce que mon poste change ? » — et gardez les pensées de 3 h du matin pour le matin : ni mail ni démission à cette heure-là.
 
@@ -95,8 +92,8 @@ Cette semaine, tracez deux colonnes : ce que je sais, ce que j’imagine. Le poi
 
 Prenez la Lune, et glissez le [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/) à côté d’elle.
 
-Les nombres : 18 se ramène à 9, presque au bout ; le Huit de Coupes est un 8, passer à autre chose que ce qu’on faisait déjà. Les éléments : Eau et Eau, donc c’est émotionnel avant d’être pratique. Les images vont dans le même sens : le Huit de Coupes a sa propre lune, au-dessus d’un personnage qui s’éloigne vers les montagnes.
+Les nombres : 18 se ramène à 9, presque au bout ; le Huit de Coupes est un 8, s’éloigner de ce qui vous occupait jusque-là. Les éléments : Eau et Eau, donc c’est émotionnel avant d’être pratique. Les images vont dans le même sens : le Huit de Coupes a sa propre lune, au-dessus d’un personnage qui s’éloigne vers les montagnes.
 
-La phrase que vous diriez à voix haute : « Vous êtes en train de laisser quelque chose derrière vous sans pouvoir dire encore vers quoi vous marchez. Ce n’est pas une erreur ; le chemin est là, même si vous n’en voyez pas le bout. »
+Sous ces deux lunes, vous pourriez avancer : « Vous êtes en train de laisser quelque chose derrière vous sans pouvoir dire encore vers quoi vous marchez. Ce n’est pas une erreur ; le chemin est là, même si vous n’en voyez pas le bout. »
 
-Vérifiez-la avec la personne, et vous verrez à quoi sert la règle du silence : je ne veux rien savoir avant une lecture, pour que ce qui revient ensuite soit une vraie réponse et pas l’écho de ce qu’on m’a raconté. Si ça ne tombe pas juste, notez un raté.
+Vérifiez-la avec la personne, et vous verrez à quoi sert la règle du silence : je ne veux rien savoir avant une lecture, pour que ce qui revient ensuite soit une vraie réponse et pas l’écho de ce qu’on m’a raconté. Si elle ne laisse rien derrière elle, la phrase s’est perdue dans le brouillard : notez-le.

@@ -9,7 +9,7 @@ tags: ["first tarot reading", "tarot reading wrong", "tarot miss", "reading taro
 image: "covers/first-tarot-reading-story.jpg"
 imageAlt: "A phone with a dark screen lying beside an open notebook and a closed deck of cards on a wooden table"
 imagePrompt: "A phone with a dark blank screen lying face up beside an open notebook and a closed deck of cards on a wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "My first reading for a stranger, on a Discord group I’d found through Tumblr, was about a relationship. She told me it didn’t resonate: she wasn’t looking for a relationship. On the day, that was a miss. Three or four days later she texted me, shocked. Everything had happened, and the reading had also shown something less flattering: she hadn’t been kind to the other person. What the story teaches: write down what you said, let a miss stand, and wait. Sometimes a miss stays a miss. Sometimes the person comes back."
+summary: "My first reading for a stranger, on a Discord group I’d found through Tumblr, was about a relationship. She said it didn’t resonate, since a relationship wasn’t something she was after. On the day, that was a miss. Three or four days later she texted me, shocked. Everything had happened, and the reading had also caught something less flattering: the other person hadn’t had much kindness from her. What the story teaches: write down what you said, let a miss stand, and wait. Sometimes a miss stays a miss. Sometimes the person comes back."
 ---
 My first reading for a stranger missed. She told me it didn’t resonate, and on the day, that made it a miss. Three or four days later she texted me, shocked: everything had happened. The story proves nothing on its own, but it teaches three things I still hold to: write down what you say, let a miss stand, and wait.
 
@@ -19,9 +19,9 @@ I’d started reading at the very end of 2020, on a deck my friends had given me
 
 The reading was about a relationship.
 
-She told me it didn’t resonate. She wasn’t looking for a relationship.
+She told me it didn’t resonate. A partner wasn’t what she was looking for.
 
-Three or four days later, she texted me. She was shocked. Everything had happened. And the reading had also shown something less flattering: she hadn’t been kind to the other person.
+Three or four days later, she texted me. She was shocked. Everything had happened. And the reading had also caught something less flattering: she had not treated the other person kindly.
 
 That is the whole story, told the way it happened. I’d rather give you less of it than dress it up, so everything after this is what the story teaches, not more of the story.
 
@@ -41,7 +41,7 @@ A clear no stays a no: you say it, you note it, and you move on to the next pers
 
 Nothing about the reading changed in those few days. What had changed was her life.
 
-Either the reading described something that hadn’t happened yet, or something already under way that she couldn’t see from where she stood. Both come down to the same thing: timing. A card shows you something; it rarely shows you when. Here, timing made a reading look wrong for three or four days.
+Either the reading described something that hadn’t happened yet, or something already under way that she couldn’t see from where she stood. Both come down to the same thing: timing. A card shows you something; the when is the part it usually leaves out. Here, timing made a reading look wrong for three or four days.
 
 Timing can also do the opposite, and make a message look right in a way that matters far less than it seems. The story that taught me that is in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/), and I’d read the two side by side.
 
@@ -53,11 +53,11 @@ Say you draw for a friend and something comes up that you’d rather not say: th
 
 Three habits, and I’d give them to any beginner.
 
-1. **Write down what you said, before they answer.** In your own words, at the time. Memory improves a reading after the fact; paper doesn’t. My notebook has two columns: what I said, and what was confirmed. Both columns are laid out in [how I keep a reading notebook](/blog/tarot-journal/).
+1. **Write down what you said, before they answer.** In your own words, at the time. Memory improves a reading after the fact; paper doesn’t. My notebook pairs each thing I said with whatever the person confirmed; the page layout is in [my notebook routine](/blog/tarot-journal/).
 2. Write down the answer too, including the no. If it’s a miss, mark it as a miss. No third box for “we’ll see”.
 3. Wait, and don’t chase. Don’t message the person to ask whether it happened; that’s fishing with a delay. If they come back on their own, add a new line with the date. Don’t rewrite the first one. On the day it was a miss, and later it wasn’t, and a notebook should be able to hold both.
 
-I’m careful with this story, because it’s the kind that’s tempting to turn into a rule. It isn’t one. By my own count, about one reading in ten misses, and I don’t treat any of those as a hit that hasn’t arrived yet. If you start believing that every no will turn into a yes, you’ve stopped checking anything at all, and your notebook becomes a list of things you’re waiting for.
+I’m careful with this story, because it’s the kind that’s tempting to turn into a rule. It isn’t one. Misses make up roughly ten per cent of my readings, by my count, and I don’t treat any of those as a hit that hasn’t arrived yet. If you start believing that every no will turn into a yes, you’ve stopped checking anything at all, and your notebook becomes a list of things you’re waiting for.
 
 What the story gives a beginner isn’t proof. It’s permission to be wrong in front of someone, and to let the record show it.
 
@@ -65,6 +65,6 @@ What the story gives a beginner isn’t proof. It’s permission to be wrong in 
 
 Because the fear of being wrong freezes a lot of beginners, and my first reading for a stranger began as a miss. I’m still reading. It’s why the [method I teach beginners](/blog/how-to-read-tarot-beginners/) begins by expecting a miss: before the first card, you tell yourself you’re about to talk nonsense.
 
-It also shows why I ask people to tell me nothing. Picture the same reading if she’d opened with “I’m not looking for anyone.” The pull would have been to soften what came, steer towards work or family, and never say it: less wrong on the day, and of no use to her a few days later. That is [the silence rule](/blog/the-silence-rule/), and this story shows why it matters.
+It also shows why I’d rather people kept quiet before I start. Picture the same reading if she’d opened with “I’m not looking for anyone.” The pull would have been to soften what came, steer towards work or family, and never say it: less wrong on the day, and of no use to her a few days later. That is [the silence rule](/blog/the-silence-rule/), and this story shows why it matters.
 
 If you want a story of your own, you need people who’ll tell you nothing and won’t mind a miss. I found my first ones through a Discord group I’d come across on Tumblr; there are other ideas in [where to find people to read for](/blog/where-to-find-people-to-read-for/). Or come to one of the [free events](/events/), where people are drawn at random for a reading, nobody explains anything first, and a miss is said out loud. Bring a notebook.

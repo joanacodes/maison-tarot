@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/wa05.webp
 h1: Five of Wands — <em>five</em>, Fire
-lede: 'Before looking up what Five of Wands “means”, look at what you already have:
-  five, the element Fire, Saturn in Leo. You’re reading the card. The number says
-  five — conflict, trial, making do with what’s left; the element says drive, what
-  you launch. Lay the two over each other, add the colours, and the card is already
-  talking — the rest of the page shows you how.'
+lede: 'Five young men in mismatched clothes swing their staves every which way, and not one blow lands. Is it a fight, a game, or a group that never agreed what it wanted?'
 related:
 - /library/numerology
 - /library/four-elements/fire-element
@@ -50,13 +46,13 @@ Look closer: no one is hurt, no one is down, no blow really lands. It could be a
 
 [Five](/library/numerology/number-5/) is the trial: conflict, trying, not being afraid to fail or to be disliked, doing several things at once, accepting mistakes. In my own notes, the Five of Wands is my example of a 5 where people seem to fight but aren’t coordinated — the whole drawing.
 
-In the Instagram story, 5 is Facebook arriving to buy, or IGTV flopping: either way, a test of what the company is made of. My advice for a 5 is to avoid useless conflicts and to be honest with yourself and the situation. Its minus is denial — telling yourself there’s no problem while five wands knock together over your head.
+On the Instagram timeline, the 5 is Facebook arriving to buy, or IGTV flopping: either way, a test of what the company is made of. What I advise with any 5: skip the fights that lead nowhere, and be truthful with yourself about where things stand. Its minus is denial — telling yourself there’s no problem while five wands knock together over your head.
 
 ## By element: Fire {#element}
 
 [Fire](/library/four-elements/fire-element/) is impulse, and here it’s impulse times five: each person has drive and ideas, and each pushes their own way. Fire spreads fast when nobody masters it; this is that moment on a small scale — noise, heat, rivalry, no real damage yet.
 
-So I don’t read this card as a war. It’s a group with too much energy and no coordination: a team project where everyone talks at once, a family planning a party with five ideas, a brainstorm turned shouting match. The teenager who thinks they can do anything, five times over, in one room.
+So I don’t read this card as a war. It’s a group with too much energy and no coordination: a team project where everyone talks at once, a family planning a party with five ideas, a brainstorm turned shouting match. Fire’s overconfident youth, multiplied by five and shut in one room.
 
 ## By colours {#colours}
 
@@ -84,6 +80,6 @@ Next to the [Five of Swords](/library/tarot-cards/five-of-swords/), the conflict
 
 Let’s invent a spread where all the sparring of the Five of Wands sits beside the Ace of Swords. Number: five, then one — the trial, then a fresh start. Element: Fire, then Air — energy, then decision; Air decides best of the four, where Fire is too impulsive. Colours: the patchwork of the Five, then the plain grey of the Ace of Swords, one white hand, one straight blade.
 
-The sentence I’d say out loud: “There’s a lot of noise around you — a team, a group, a family — and everyone is pushing their own idea. What’s missing isn’t energy. It’s one clear decision, said out loud, and you may be the one placed to make it.”
+Brawl and blade together, I’d tell the person: “Everyone around you — a team, a group, a family — is pushing their own idea, and it’s loud. What’s missing isn’t energy. It’s one clear decision, said out loud, and you may be the one placed to make it.”
 
-Then I’d check whether a noisy group like that exists in their life, and who’s in it. If not, it’s a miss and I write it down. Reading two cards like this, lens by lens, is where [learning tarot](/learn-tarot/) starts at Maison Tarot.
+Then I’d check whether a noisy group like that exists in their life, and who’s in it. If no such group comes to mind, I’ve misread the jumble, and I note the miss. Reading two cards like this, lens by lens, is where [learning tarot](/learn-tarot/) starts at Maison Tarot.

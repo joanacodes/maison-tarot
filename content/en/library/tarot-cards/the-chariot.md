@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: Cheth
 image: cards/ar07.webp
 h1: The Chariot — <em>7</em>, Water
-lede: 'Before looking up what The Chariot “means”, look at what you already have:
-  7, the element Water, Cancer. You’re reading the card. The number says 7 — seven
-  — doubt, assessment, patience; the element says emotions, what flows. Lay the two
-  over each other, add the colours, and the card is already talking — the rest of
-  the page shows you how.'
+lede: 'A young warrior stands in a stone chariot under a starry canopy, two sphinxes, one black and one white, before him and no reins in his hands. What keeps you moving when nothing is steering?'
 related:
 - /library/numerology
 - /library/four-elements/water-element
@@ -50,7 +46,7 @@ What’s missing: reins. He holds nothing that steers the sphinxes, and they are
 
 A card in motion filed under the patient 7 looks like a contradiction. It isn’t: the [number 7](/library/numerology/number-7/) is analysis before action, the pause where you look at what you have and decide what comes next. The Chariot is the 7 that has done its thinking and moves because it knows where it’s going.
 
-In the Instagram story on my numerology pages, 7 is Facebook turning the app into an advertising platform: neither triumph nor fall, a negotiating table where you choose what the thing will become. The advice of 7 suits a driver: everything is temporary. The position you’re in, good or bad, will move — which is a reason to steer rather than to grip.
+Instagram’s 7 is the advertising turn under Facebook: neither triumph nor fall, a negotiation over what the app will become. The advice of 7 suits a driver: everything is temporary. The position you’re in, good or bad, will move — which is a reason to steer rather than to grip.
 
 ## By element: Water {#element}
 
@@ -60,11 +56,11 @@ In my notes this card is a warrior with both a feminine and a masculine spirit �
 
 ## By colours {#colours}
 
-Yellow fills the sky. In [my colour grid](/library/tarot-colours/yellow/), yellow is will, pride, self-expression — what you want, wanted in daylight. Blue on the canopy: emotion, Water, held overhead like a roof. Black and white on the sphinxes: absence and presence, the void and the clean start, two forces that would pull apart if left alone. Grey on the stone of the chariot: stability, a vehicle built to last.
+Yellow fills the sky, and in [my grid](/library/tarot-colours/yellow/) it stands for will, pride, self-expression — what you want, wanted in daylight. Blue on the canopy: emotion, Water, held overhead like a roof. Black and white on the sphinxes: absence and presence, the void and the clean start, two forces that would pull apart if left alone. Grey on the stone of the chariot: stability, a vehicle built to last.
 
 ## By astrology: Cancer {#astrology}
 
-In the Golden Dawn tradition, the Chariot goes with [Cancer](/library/astrology/cancer/): “I feel”, ruled by the Moon, a cardinal sign that leads humanely. The crab is a good key to this card — hard shell, soft inside, like a warrior in armour with moons on his shoulders. In my notes Cancer is whiny but tough: it carries 78 kilos while others lift 4, and keeps going.
+The Chariot’s Golden Dawn sign is [Cancer](/library/astrology/cancer/): “I feel”, ruled by the Moon, a cardinal sign that leads humanely. The crab is a good key to this card — hard shell, soft inside, like a warrior in armour with moons on his shoulders. In my notes Cancer is whiny but tough: it carries 78 kilos while others lift 4, and keeps going.
 
 ## In a reading {#reading}
 
@@ -82,6 +78,6 @@ For contrast, pair the Chariot with the [Four of Swords](/library/tarot-cards/fo
 
 7 then 4: a will in motion next to a stillness. Water then Air: feelings held steady, then a mind that needs quiet. The Chariot’s bright yellow sky next to the grey of a closed room.
 
-The sentence I’d say out loud: “You’ve been driving everything forward with no reins for a while, and the next move is to stop on purpose, before something stops you.”
+From the rolling chariot to the still effigy: “You’ve been driving everything forward with no reins for a while, and the next move is to stop on purpose, before something stops you.”
 
-Then I’d check: when did you last have a day where nothing moved? If that doesn’t speak to the person, it’s a miss; I write it down and move on.
+Then I’d check: when did you last have a day where nothing moved? If their days are already still, I’ve misjudged the speed, and that goes down as a miss.

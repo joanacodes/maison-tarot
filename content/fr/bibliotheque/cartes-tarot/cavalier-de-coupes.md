@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/cukn.webp
 h1: Cavalier de Coupes — <em>le Cavalier</em>, l’Air d’eau
-lede: 'Avant de chercher ce que « signifie » Cavalier de Coupes, regardez ce que vous
-  avez déjà : le Cavalier, l’élément Air d’Eau. Vous lisez la carte. Le nombre dit
-  le Cavalier — l’action, la quête, l’excès ; l’élément dit les émotions, ce qui circule.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Sur son cheval blanc qui marche au pas, le chevalier au casque ailé présente une coupe d’or, et un cours d’eau le sépare encore de l’autre rive. Son offre arrivera-t-elle jusqu’à quelqu’un ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-eau
@@ -30,9 +26,9 @@ faq:
 - q: 'Que signifie le Cavalier de Coupes ?'
   a: 'Un sentiment qui se met en route vers quelqu’un : une proposition, une invitation, un geste romantique, une offre faite avec le cœur. Le Cavalier est l’action et la quête, l’Eau dit les émotions, et celui-ci apporte ce qu’il porte lentement, exprès.'
 - q: 'Le Cavalier de Coupes renversé, ça change quoi ?'
-  a: 'La même offre, freinée ou excessive. Freinée : la proposition qui n’arrive jamais tout à fait, le cavalier qui ne traverse jamais la rivière. Excessive : du charme sans suite, des promesses faites parce qu’elles font du bien à faire.'
+  a: 'L’offre cale au bord de l’eau, ou se distribue trop facilement : d’un côté, la proposition qui n’arrive jamais tout à fait, le cavalier qui ne traverse jamais la rivière ; de l’autre, du charme sans suite, des promesses faites parce qu’elles font du bien à faire.'
 - q: 'Que signifie le Cavalier de Coupes en amour ?'
-  a: 'Quelqu’un qui fait un pas avec son cœur, ou vous qui le faites. Je le lis pour la personne en face de moi — ce qu’elle offre, ou ce qu’elle est prête à recevoir —, pas comme une fenêtre sur les intentions secrètes de quelqu’un d’autre.'
+  a: 'Quelqu’un qui fait un pas avec son cœur, ou vous qui le faites. La carte parle de vous — ce que vous offrez, ou ce que vous acceptez de recevoir —, pas des intentions secrètes de quelqu’un d’autre.'
 categories:
 - Coupes
 tags:
@@ -60,13 +56,13 @@ L’Air, c’est aussi ce qui passe sans rester. Le cours d’eau devant lui est
 
 ## Par les couleurs {#couleurs}
 
-Le cheval est [blanc](/fr/bibliotheque/couleurs-tarot/blanc/) : la pureté, l’innocence, la paix. L’intention est propre ; il ne vient pas se battre. L’armure est [grise](/fr/bibliotheque/couleurs-tarot/gris/), la couleur de la stabilité et de l’absence de volonté particulière — l’acier est là, mais ce n’est pas le sujet. La coupe est dorée, la seule chose brillante et précieuse entre ses mains. Avant que la carte ait un nom : une approche paisible, un corps stable, quelque chose de précieux qu’on offre.
+Le cheval est [blanc](/fr/bibliotheque/couleurs-tarot/blanc/) : la pureté, l’innocence, la paix. L’intention est propre ; il ne vient pas se battre. L’armure est [grise](/fr/bibliotheque/couleurs-tarot/gris/), la couleur de la stabilité et de l’absence de volonté particulière — l’acier est là, mais ce n’est pas le sujet. La coupe est dorée, la seule chose brillante et précieuse entre ses mains. Trois couleurs, et déjà tout un portrait : une approche paisible, un corps stable, quelque chose de précieux qu’on offre.
 
 ## En lecture {#lecture}
 
 À l’endroit : une offre faite avec le cœur. Une proposition, une invitation, une réconciliation, quelqu’un qui arrive avec des fleurs — ou un projet créatif que vous portez vers ceux qui vont le recevoir. Ça bouge, mais au pas. **Le Cavalier de Coupes est sincère quand il se met en route ; toute la question est de savoir s’il traverse la rivière.**
 
-Renversé, l’offre est soit retenue, soit distribuée trop facilement. Freinée : la déclaration répétée devant le miroir et jamais faite, le cavalier qui tourne des mois au bord de l’eau. Excessive : le charme pour le charme — des promesses qui font du bien à faire, une histoire d’amour avec l’idée de quelqu’un plus qu’avec la personne.
+Renversé, l’offre reste en selle ou se distribue à tout vent. Retenue, c’est la déclaration répétée devant le miroir et jamais faite, le cavalier qui tourne des mois au bord de l’eau. Prodiguée, c’est le charme pour le charme — des promesses qui font du bien à faire, une histoire d’amour avec l’idée de quelqu’un plus qu’avec la personne.
 
 À côté du [Deux de Coupes](/fr/bibliotheque/cartes-tarot/deux-de-coupes/), l’offre est reçue : deux coupes se rencontrent. À côté du [Sept de Coupes](/fr/bibliotheque/cartes-tarot/sept-de-coupes/), l’imagination l’emporte sur la réalité — de jolies visions, peu de substance. À côté du [Cavalier de Bâtons](/fr/bibliotheque/cartes-tarot/cavalier-de-batons/), le cavalier au pas croise celui qui se cabre, et la question devient : est-ce un sentiment ou un désir ? Un [tirage amour qui vous lit, vous, plutôt que l’autre](/fr/blog/tirage-tarot-amour/) est un bon endroit pour la poser.
 
@@ -76,4 +72,4 @@ Renversé, l’offre est soit retenue, soit distribuée trop facilement. Freiné
 
 Placez le Cavalier de Coupes à côté du Huit de Bâtons, et lisez la paire pour vous exercer. Un Cavalier puis un huit : l’action, puis quelque chose d’établi qui file. L’Air d’Eau, puis le Feu : un sentiment mis en mots, puis la vitesse. Un cheval blanc au pas, puis des bâtons qui volent dans un ciel dégagé.
 
-À voix haute, cela pourrait donner : « Quelqu’un est sur le point de dire ce qu’il ressent — peut-être vous — et, une fois que ce sera dit, les choses iront bien plus vite que cette approche lente ne le laissait croire. » Puis demandez si quelqu’un s’apprête à parler. Si la personne dit non, c’est un raté : notez-le, et résistez à la troisième carte qui viendrait le sauver.
+Le pas lent du cheval blanc, puis la volée de bâtons : j’en ferais cette phrase. « Quelqu’un est sur le point de dire ce qu’il ressent — peut-être vous — et, une fois que ce sera dit, les choses iront bien plus vite que cette approche lente ne le laissait croire. » Puis demandez si quelqu’un s’apprête à parler. Si la réponse est non, le cavalier est resté sur l’autre rive : notez-le, et résistez à la troisième carte qui viendrait le sauver.

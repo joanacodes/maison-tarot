@@ -1,6 +1,6 @@
 ---
 title: 'La Force (Strength) — tarot Rider-Waite-Smith : lire la carte par ses clés de lecture'
-description: 'La Force au tarot : une femme qui calme un lion, le 8, le Feu et le Lion. Ce que montre la carte de 1909, et comment la lire à l’endroit, renversée et en tirage.'
+description: 'La Force au tarot : une femme calme un lion sans arme, le 8, le Feu et le Lion. Le courage qui ne crie pas, la colère qui déborde, et la main qui serre trop.'
 translationKey: card-ar08
 type: cards
 navTitle: La Force
@@ -15,11 +15,7 @@ energy: Féminine
 kabbalah: Teth
 image: cards/ar08.webp
 h1: La Force — <em>8</em>, le Feu
-lede: 'Avant de chercher ce que « signifie » La Force, regardez ce que vous avez déjà
-  : 8, l’élément Feu, Lion. Vous lisez la carte. Le nombre dit 8 — huit — le mouvement,
-  la maîtrise, le fruit du travail ; l’élément dit l’élan, ce qu’on lance. Posez les
-  deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
-  de la page vous montre comment.'
+lede: 'Penchée sur un grand lion, une femme vêtue de blanc referme sa gueule à mains nues, sans arme ni effort visible, l’infini au-dessus de la tête. Quel feu, chez vous, demande à être apaisé plutôt que dompté ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -31,7 +27,7 @@ faq:
 - q: La Force renversée, ça change quoi ?
   a: 'Le lion prend le dessus, ou la main serre trop fort. Ce peut être une colère qui déborde après avoir été trop longtemps retenue, ou une maîtrise de soi si serrée qu’on a oublié à quoi servait le feu.'
 - q: Pourquoi la Force porte-t-elle le 8 ici et le 11 au tarot de Marseille ?
-  a: 'Au tarot de Marseille, la Justice est le 8 et la Force le 11. Waite a inversé les deux pour le Rider-Waite-Smith : ici, la Force est le 8 et la Justice le 11, et la clé du nombre suit cet ordre.'
+  a: 'Waite a interverti les deux cartes. À Marseille, la Force est la onzième lame et la Justice la huitième ; dans le Rider-Waite-Smith, la Force passe au 8, et c’est ce nombre que je lis.'
 categories:
 - Arcane majeur
 tags:
@@ -50,23 +46,23 @@ La queue du lion est rentrée entre ses pattes arrière. Autour d’eux, une pla
 
 Dans ma lecture du [chiffre 8](/fr/bibliotheque/numerologie/chiffre-8/), le huit, c’est l’empire : le 4 doublé, la structure devenue puissance, une maîtrise qui se prouve par le geste répété jusqu’à ce qu’il ne se voie plus. Regardez au-dessus de la tête de la femme : le signe de l’infini, c’est un 8 couché. Le nombre est dessiné sur la carte. Ici, l’empire n’est pas un territoire ; c’est la prise qu’on a sur soi-même.
 
-Dans l’histoire d’Instagram, le 8, c’est le moment où l’application devient une infrastructure et où plus personne ne se demande si ça marche. La Force, c’est cette étape à l’intérieur d’une personne. (Au tarot de Marseille, la Force porte le 11 et la Justice le 8 ; Waite les a inversées, et je lis dans l’ordre du Rider-Waite-Smith.)
+Instagram passe ce cap le jour où il devient une infrastructure : plus personne ne se demande si ça marche. La Force, c’est cette étape à l’intérieur d’une personne. (Au tarot de Marseille, la Force porte le 11 et la Justice le 8 ; Waite les a inversées, et je lis dans l’ordre du Rider-Waite-Smith.)
 
 ## Par l’élément : Feu {#element}
 
 La Force est une carte de [Feu](/fr/bibliotheque/quatre-elements/element-feu/), et le Feu, c’est le lion : la passion, l’élan, l’énergie qui met en mouvement. Le feu forge les outils et chauffe la maison ; livré à lui-même, il se propage et la fait brûler. La carte n’éteint pas le feu. Elle garde le lion vivant, et calme.
 
-Pensez à un adolescent plein de vie qui se croit capable de tout. La Force n’est pas l’adulte qui écrase cette énergie ; c’est celui qui l’aide à durer. L’énergie de la carte est [féminine](/fr/bibliotheque/energies-feminine-masculine/) : la patience et la douceur font un travail que la force brute ferait mal. La Fontaine l’a dit en une ligne, à la fin de *Phébus et Borée* : « Plus fait douceur que violence. »
+Pensez à un ado persuadé que rien ne lui résiste, avec toute l’énergie qui va avec. La Force n’est pas l’adulte qui écrase cette énergie ; c’est celui qui l’aide à durer. L’énergie de la carte est [féminine](/fr/bibliotheque/energies-feminine-masculine/) : la patience et la douceur font un travail que la force brute ferait mal. La Fontaine l’a dit en une ligne, à la fin de *Phébus et Borée* : « Plus fait douceur que violence. »
 
 ## Par les couleurs {#couleurs}
 
 Le blanc de la robe dit la pureté, l’innocence, la paix : elle arrive devant le lion sans rien à cacher ([le blanc](/fr/bibliotheque/couleurs-tarot/blanc/)). Le jaune du ciel et des cheveux dit la joie, la fierté, la volonté ([le jaune](/fr/bibliotheque/couleurs-tarot/jaune/)). L’or orangé du lion, c’est l’énergie créatrice à l’état brut, le désir. Les roses sont rouges — la passion, l’action — mais portées en guirlande, pas brandies. Et sous tout ça, le vert du sol : ce qui pousse.
 
-Lisez-les dans cet ordre et vous avez la carte avant son nom : une volonté paisible qui tient une énergie brûlante, dans un monde qui grandit.
+Dans cet ordre, ces couleurs racontent déjà la carte : une volonté paisible qui tient une énergie brûlante, dans un monde qui grandit.
 
 ## Par l’astrologie : Lion {#astrologie}
 
-Dans la tradition Golden Dawn, la Force correspond au [Lion](/fr/bibliotheque/astrologie/lion/), et l’animal sur la carte ne laisse guère de doute. Le Lion, c’est le jeu, la fierté, l’expressivité — le chanteur d’opéra qui veut être vu. La carte montre le Lion sous son meilleur jour : la volonté est entière, et elle n’a plus besoin de public.
+Le [Lion](/fr/bibliotheque/astrologie/lion/) est le signe que la Golden Dawn donne à la Force, et l’animal sur la carte ne laisse guère de doute. Le Lion, c’est le jeu, la fierté, l’expressivité — le chanteur d’opéra qui veut être vu. La carte montre le Lion sous son meilleur jour : la volonté est entière, et elle n’a plus besoin de public.
 
 ## En lecture {#lecture}
 
@@ -84,6 +80,6 @@ Renversée, le lion prend le dessus, ou la main serre trop fort. Deux images opp
 
 Mettez la Force à côté du Cinq de Bâtons, comme si quelqu’un que vous ne connaissez pas venait de les tirer. 8 puis 5 : la maîtrise face à la bagarre. Deux fois le Feu, donc beaucoup de chaleur au même endroit. D’un côté du blanc et du jaune, du calme ; de l’autre, cinq jeunes gens qui agitent des bâtons, habillés de toutes les couleurs.
 
-La phrase que je dirais à voix haute : « Il y a beaucoup de bruit autour de vous en ce moment, et c’est vous qui empêchez que ça prenne feu — ça vous coûte plus que vous ne le montrez. »
+Devant ce lion calmé au cœur de la mêlée, ma phrase serait : « Ça crie de partout en ce moment, et c’est vous qui empêchez l’incendie — ça vous coûte plus que vous ne le montrez. »
 
-Puis je m’arrêterais pour vérifier. Est-ce que ça vous parle ? Si oui, je demanderais qui, ou quoi, est le lion. Si non, je le noterais comme un raté, sans chercher à le rattraper.
+Puis je m’arrêterais pour vérifier. Est-ce que ça vous parle ? Si oui, je demanderais qui, ou quoi, est le lion. Si non, je l’écrirais comme une erreur et je laisserais le lion tranquille.

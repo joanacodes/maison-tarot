@@ -47,14 +47,14 @@ Pour beaucoup de gens, le tarot fait partie d’une vie spirituelle : une conver
 
 Imaginez deux personnes côte à côte dans un atelier, devant l’Étoile. L’une sent sa grand-mère dans la carte. L’autre voit une femme qui verse de l’eau, donc l’Eau, donc les émotions. Les deux lisent. Je leur demande la même chose : dites ce que vous voyez, vérifiez avec la personne, notez les ratés.
 
-Là où je pose une limite, c’est quand la spiritualité devient une échelle, avec le professeur en haut qui détient l’accès et les élèves en bas qui attendent qu’on les laisse monter. C’est un autre sujet, qui a son propre article : [construire sa pratique sans devenir un gourou](/fr/blog/pratique-sans-gourou/). Et pour les élèves qui craignent que le tarot heurte leur foi, j’ai écrit [le tarot est-il un péché ?](/fr/blog/le-tarot-est-il-un-peche/) avec tout le respect dont j’étais capable.
+Là où je pose une limite, c’est quand la spiritualité devient une échelle, avec le professeur en haut qui détient l’accès et les élèves en bas qui attendent qu’on les laisse monter. C’est un autre sujet, que je traite dans [construire sa pratique sans devenir un gourou](/fr/blog/pratique-sans-gourou/). Et pour les élèves qui craignent que le tarot heurte leur foi, j’ai écrit [le tarot est-il un péché ?](/fr/blog/le-tarot-est-il-un-peche/) avec tout le respect dont j’étais capable.
 
 ## Ce qu’il faut vraiment pour enseigner le tarot {#ce-quil-faut}
 
 Si vous pensez à enseigner, voici la liste à laquelle je me confronte moi-même.
 
 1. Une méthode que vous savez expliquer avec des mots simples, pour que vos élèves n’aient pas besoin de vous longtemps.
-2. Un carnet de vos propres lectures : ce que vous avez dit, ce qui a été confirmé. Environ une lecture sur dix a raté chez moi, d’après mon propre décompte, et je le dis à chaque élève.
+2. Un carnet de vos propres lectures, chaque phrase notée en face de ce qui s’est vérifié — ou pas. Environ une lecture sur dix a raté chez moi, d’après mon propre décompte, et je le dis à chaque élève.
 3. Une liste des sujets que vous laissez de côté — santé, mort, grossesse, procès en cours, décisions d’argent, envoûtements, personnes absentes — et la gentillesse d’expliquer pourquoi.
 4. Le consentement. Demandez avant de lire quelqu’un, et apprenez à vos élèves à demander aussi.
 5. Quatre petits mots que vous savez prononcer sans gêne : « Je ne sais pas. »

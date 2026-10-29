@@ -23,9 +23,9 @@ Une question aide beaucoup : que ferais-je de différent si la deuxième carte d
 
 ## Ce que les tirages à répétition vous font {#ce-que-ca-fait}
 
-Imaginons quelqu’un qui demande le lundi : « Est-ce que je vais avoir le poste ? » et tire le Huit de Pentacles : un artisan à son établi, qui grave ses pentacles un par un. De l’effort, du savoir-faire, du travail encore à fournir. Une réponse honnête.
+Imaginons quelqu’un qui demande le lundi : « Est-ce que je vais avoir le poste ? » et tire le Huit de Pentacles, où un compagnon penché sur l’ouvrage cisèle ses disques l’un après l’autre. De l’effort, du savoir-faire, du travail encore à fournir. Une réponse honnête.
 
-Le mardi, toujours nerveux, il redemande et tire le Cinq de Bâtons : cinq personnages qui agitent leurs bâtons, sans aucune coordination. Le mercredi soir, la Lune : un chemin qui passe entre deux tours, un chien et un loup qui hurlent, une écrevisse qui sort d’un bassin.
+Le mardi, toujours nerveux, il redemande et tire le Cinq de Bâtons : cinq personnages qui agitent leurs bâtons, sans aucune coordination. Le mercredi soir, la Lune : deux bêtes qui hurlent vers le ciel, une écrevisse qui remonte de l’eau, et un sentier qui s’enfonce au loin, entre deux tours.
 
 {{< cards "pe08 wa05 ar18" >}}
 

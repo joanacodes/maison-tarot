@@ -9,7 +9,7 @@ tags: ["familles du tarot", "bâtons coupes épées pentacles", "éléments taro
 image: "covers/tarot-suits-explained.jpg"
 imageAlt: "Quatre cartes de tarot face visible alignées sur une table en bois, avec une brindille, un verre d’eau, un coupe-papier et une pièce posés au-dessus."
 imagePrompt: "Four face-up tarot cards in a row on a wooden table, with a small twig, a glass of water, a letter opener and a single coin laid above them. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Les arcanes mineurs du tarot se répartissent en quatre familles de quatorze cartes, et chaque famille est un élément. Les Bâtons sont le Feu : l’élan, les projets, le désir. Les Coupes sont l’Eau : les émotions et les relations. Les Épées sont l’Air : les pensées, les décisions, les mots. Les Pentacles sont la Terre : l’argent, le corps, le travail et tout ce qui a de la valeur pour vous. La famille dit de quoi parle une carte avant même que vous sachiez quoi que ce soit d’autre ; le nombre dit ensuite où en est la situation. Dix nombres et quatre familles suffisent pour lire les quarante cartes numérotées sans rien apprendre par cœur."
+summary: "Les arcanes mineurs du tarot se répartissent en quatre familles de quatorze cartes, et chaque famille est un élément. Les Bâtons sont le Feu : l’élan, les projets, le désir. Les Coupes sont l’Eau : les émotions et les relations. Les Épées sont l’Air : les pensées, les décisions, les mots. Les Pentacles sont la Terre : l’argent, le corps, le travail, et tout trésor, sonnant ou sentimental. La famille dit de quoi parle une carte avant même que vous sachiez quoi que ce soit d’autre ; le nombre dit ensuite où en est la situation. Dix nombres et quatre familles suffisent pour lire les quarante cartes numérotées sans rien apprendre par cœur."
 ---
 Les arcanes mineurs se répartissent en quatre familles, et chaque famille est un élément. Les Bâtons sont le Feu, les Coupes l’Eau, les Épées l’Air, les Pentacles la Terre. La famille vous dit de quoi parle une carte — l’élan, les émotions, les pensées ou la matière — avant que vous sachiez quoi que ce soit d’autre sur elle.
 
@@ -22,7 +22,7 @@ Une famille, c’est un ensemble de quatorze cartes qui partagent un même objet
 | Bâtons | Feu | L’élan, les projets, le désir | Du bois vivant et feuillu ; des salamandres | Trèfle |
 | Coupes | Eau | Les émotions, les relations | Des coupes, des cours d’eau, la mer, des poissons | Cœur |
 | Épées | Air | Les pensées, les décisions, les mots | Des lames nues, des nuages, du vent, des oiseaux, des papillons | Pique |
-| Pentacles | Terre | L’argent, le corps, le travail, ce qui a de la valeur | Des pièces frappées d’une étoile, des jardins, du raisin, des taureaux | Carreau |
+| Pentacles | Terre | L’argent, le corps, le travail, ce à quoi on tient | Des pièces frappées d’une étoile, des jardins, du raisin, des taureaux | Carreau |
 
 Au tarot de Marseille, les Pentacles s’appellent les Deniers ; d’autres jeux parlent de Disques. Mêmes familles. Vous lirez peut-être aussi que les Bâtons sont l’Air et les Épées le Feu : quelques écoles inversent les deux. Je suis l’attribution du Rider-Waite-Smith, et ses dessins lui donnent raison, vous allez le voir.
 
@@ -56,9 +56,9 @@ Une carte pour l’exemple : le Huit d’Épées, une femme ligotée et les yeux
 
 ### Pentacles : la Terre {#pentacles}
 
-Les Pentacles sont la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : l’argent, le corps, le travail, et tout ce qui a de la valeur pour vous ; dans mes notes, toutes les richesses ne sont pas en or. Sur les cartes, des pièces d’or marquées d’une étoile à cinq branches, et tout autour une terre travaillée : des jardins, des vignes, un champ labouré derrière le Cavalier, un établi d’artisan. Le Roi est assis dans une robe couverte de grappes de raisin, sur un trône sculpté de têtes de taureau : l’animal du Taureau, un signe de Terre.
+Les Pentacles sont la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : l’argent, le corps, le travail, et ce que vous estimez précieux, même sans prix ; dans mes notes, toutes les richesses ne sont pas en or. Sur les cartes, des pièces d’or marquées d’une étoile à cinq branches, et tout autour une terre travaillée : des jardins, des vignes, un champ labouré derrière le Cavalier, un établi d’artisan. Le Roi est assis dans une robe couverte de grappes de raisin, sur un trône sculpté de têtes de taureau : l’animal du Taureau, un signe de Terre.
 
-Une carte pour l’exemple : le Neuf de Pentacles, une femme seule dans une vigne, un oiseau posé sur sa main gantée. Profiter de ce qui vient, et la gratitude pour tout ce qu’on a.
+Une carte pour l’exemple : le Neuf de Pentacles, une femme seule dans une vigne, un oiseau posé sur sa main gantée. Profiter de ce qui vient, et remercier pour ce qui est déjà là.
 
 ## Lire les familles dans un tirage {#dans-un-tirage}
 

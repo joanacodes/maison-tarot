@@ -60,7 +60,7 @@ gallery:
 ---
 ## What 2 says {#definition}
 
-**2 is cooperation.** Signing a contract, cooperation between two parties, binding. Two is the number of the alliance — and of the caution it asks for. In the [cycle of numbers](/library/numerology/) it comes after 1 and prepares 3.
+**2 is cooperation.** Signing a contract, cooperation between two parties, binding. Two is the number of the alliance — and of the caution it asks for. On [the 1–10 cycle](/library/numerology/), it's where the lone idea of 1 finds a partner, before 3 sets it running.
 
 ## The advice of 2 {#advice}
 
@@ -68,7 +68,7 @@ Read the contract properly. Weigh the pros and cons. Be steady before you commit
 
 ## An example everyone knows {#example}
 
-Systrom and Krieger sign with investors. The idea exists (the 1), and now someone else is putting money, time and conditions into it. It's the first moment you can lose something other than your own time — hence the advice to read the contract.
+Systrom and Krieger sign with investors. The idea exists (the 1), and now someone else is putting money, time and conditions into it. From here on, more than your own time is at stake, which is why 2 tells you to read the contract.
 
 ## The five cards that carry 2 {#cards}
 
@@ -82,6 +82,6 @@ Systrom and Krieger sign with investors. The idea exists (the 1), and now someon
 
 ## In a reading {#reading}
 
-A 2 in a spread says: **there are two parties, and the bond between them is the question.** A couple, a partner, a choice between two options held at equal distance. The Two of Cups ties, the Two of Swords holds back, the Two of Wands looks far before leaving, the Two of Pentacles juggles. The High Priestess keeps the bond secret: a 2 that doesn't say yet.
+Wherever a 2 lands in a spread, **there are two parties, and the bond between them is the question.** A couple, a partner, a choice between two options held at equal distance. The Two of Cups ties, the Two of Swords holds back, the Two of Wands looks far before leaving, the Two of Pentacles juggles. The High Priestess keeps the bond secret: a 2 that doesn't say yet.
 
 {{% six %}}

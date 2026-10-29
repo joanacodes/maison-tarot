@@ -26,12 +26,13 @@ related:
 - /bibliotheque/astrologie/mars
 faq:
 - q: Quelle carte de tarot correspond au Bélier ?
-  a: L’Empereur, dans la tradition Golden Dawn reprise par le Rider-Waite-Smith. Quand
-    elle sort, le signe donne son verbe, son élément et son mode d’un coup.
-- q: 'Je suis Bélier : est-ce que cette carte est « ma » carte ?'
-  a: C’est une entrée, pas une identité. La carte parle à n’importe qui de la même
-    chose ; votre signe vous aide seulement à la reconnaître plus vite. L’astrologie
-    n’est pas une excuse.
+  a: L’Empereur. Les béliers taillés dans son trône le disent déjà, et c’est la Golden
+    Dawn qui l’a rattaché au signe. En tirage, il amène l’énergie qui commence et qui
+    commande.
+- q: 'Je suis Bélier : l’Empereur parle-t-il de moi ?'
+  a: 'Lisez-le comme n’importe qui le lirait : quelqu’un prend la tête et lance le
+    chantier. Le piège, pour un Bélier, serait d’y voir une permission de foncer
+    sans plan.'
 gallery:
 - src: "visuals/sign-aries/1.jpg"
   title: "Le premier à y aller"
@@ -78,7 +79,7 @@ Le militaire, le guerrier, le maçon qui monte le mur pendant que d’autres dis
 
 ## Sa carte : L’Empereur {#carte}
 
-Quand [l’Empereur](/fr/bibliotheque/cartes-tarot/l-empereur/) sort, le Bélier est dans la pièce : quelqu’un commande, commence, tranche. Bien posé, c’est l’autorité qui protège. Mal posé, c’est le mur monté trop vite. Regardez la carte d’à côté pour savoir si le plan existe.
+Avec [l’Empereur](/fr/bibliotheque/cartes-tarot/l-empereur/), le Bélier entre dans le tirage : quelqu’un commande, commence, tranche. Cette autorité peut protéger, comme elle peut monter le mur trop vite. Regardez la carte d’à côté pour savoir si le plan existe.
 
 {{< cards "ar04" >}}
 

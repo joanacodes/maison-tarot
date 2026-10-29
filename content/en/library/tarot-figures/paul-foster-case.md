@@ -63,7 +63,7 @@ And teaching by post didn’t make it a lesser tarot. A lesson read at home is n
 
 ## Why it matters for a reader today {#today}
 
-Every tarot course you can take from home rests on the idea Case built a school on: that the cards can be learned, step by step, by anyone who does the work. That is my position too. There are no Chosen Ones; there are people who practise.
+Every tarot course you can take from home rests on the idea Case built a school on: that the cards can be learned, step by step, by anyone who does the work. That is my position too: nobody is singled out, and the ones who read well are the ones who practise.
 
 The limit he faced is still the one to watch. Lessons can give you the symbols, the [numbers](/library/numerology/) and the structure. They can’t tell you when you’ve read a card wrongly. That is why I suggest keeping a notebook, what you said on one side and what was confirmed on the other, and why I teach in [workshops](/workshops/), with people in the room.
 

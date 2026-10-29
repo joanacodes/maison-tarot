@@ -27,7 +27,7 @@ Not at first. In your first weeks you’re learning to look at 78 pictures, and 
 
 Turn them on when upright cards start talking to you — when you look at a card and its colour, number and element arrive before the effort does. There’s no date for that. Your notebook will tell you.
 
-Then make one rule and keep it: **decide before you shuffle, not after you’ve seen the card.** If you read reversals only when the card is a pleasant one, or turn the heavy ones upright when they come, you’re no longer reading the cards. You’re editing them.
+Then make one rule and keep it: **make the call before the shuffle, never once the card is face up.** If you read reversals only when the card is a pleasant one, or turn the heavy ones upright when they come, you’re no longer reading the cards. You’re editing them.
 
 ## The shortcut: the same card, slowed down or in excess {#the-shortcut}
 
@@ -52,7 +52,7 @@ Lists of reversed meanings often give you the opposite of the upright card. Oppo
 
 The lenses don’t flip. A reversed Five of Cups is still a 5, the number of conflict and trying; still Water; still a figure in a black cloak over three spilled cups. Upside down it doesn’t become a happy card. It becomes the same grief, either held in and not yet cried, or spilling into every room. [The cycle of numbers](/library/numerology/) and the four elements carry over intact, so everything you’ve already learned keeps working.
 
-And reversed doesn’t mean bad. Every card has a plus and a minus, upright as much as reversed. A reversed Chariot isn’t a disaster; it’s a week to stop pushing and look at which way the sphinxes are facing.
+And reversed doesn’t mean bad. Any card can help or hurt, whichever way up it lands. A reversed Chariot isn’t a disaster; it’s a week to stop pushing and look at which way the sphinxes are facing.
 
 ## Try it for a week {#try-it}
 

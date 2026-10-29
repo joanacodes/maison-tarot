@@ -8,7 +8,7 @@ weight: 27
 categories: ["Symboles"]
 tags: ["symboles du tarot", "clé", "le Hiérophante", "clés croisées", "symbolisme du tarot"]
 h1: "La clé — l’<em>accès</em>, et qui le détient"
-lede: "Une clé ouvre ce que quelqu’un a fermé. Dans le Rider-Waite-Smith, il n’y en a qu’une paire : deux clés croisées aux pieds du Hiérophante. Cette rareté en dit long — dans ce jeu, l’accès est quelque chose qu’une tradition transmet."
+lede: "Une clé ouvre ce que quelqu’un a fermé. Le jeu n’en dessine qu’une paire : deux clés croisées aux pieds du Hiérophante. Cette rareté en dit long — dans ce jeu, l’accès est quelque chose qu’une tradition transmet."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/le-hierophante
@@ -55,7 +55,7 @@ Une clé dit aussi qu’il y avait une serrure. Quelque chose a été fermé exp
 
 ## Où elle apparaît dans le jeu {#ou}
 
-Sur [le Hiérophante](/fr/bibliotheque/cartes-tarot/le-hierophante/) (le Pape au tarot de Marseille), deux clés croisées sont posées au sol, à ses pieds, entre les deux tonsurés tournés vers lui. Elles rappellent les clés croisées des armoiries pontificales, qui remontent aux clés promises à Pierre dans l’Évangile selon Matthieu. Il siège entre deux [colonnes](/fr/bibliotheque/symboles-tarot/colonnes/), une tiare à trois étages sur la tête, une main levée : les clés appartiennent à l’institution au nom de laquelle il parle.
+Sur [le Hiérophante](/fr/bibliotheque/cartes-tarot/le-hierophante/), deux clés croisées sont posées au sol, à ses pieds, entre les deux tonsurés tournés vers lui. Elles rappellent les clés croisées des armoiries pontificales, qui remontent aux clés promises à Pierre dans l’Évangile selon Matthieu. Il siège entre deux [colonnes](/fr/bibliotheque/symboles-tarot/colonnes/), une tiare à trois étages sur la tête, une main levée : les clés appartiennent à l’institution au nom de laquelle il parle.
 
 {{< cards "ar05" >}}
 
@@ -69,9 +69,9 @@ Plusieurs cartes parlent d’accès sans dessiner de clé. La Grande Prêtresse 
 
 Quand les clés du Hiérophante sortent, demandez-vous qui accorde l’accès ici. Un diplôme, une adhésion, une cérémonie, un contrat, l’accord d’un maître. Les clés disent que vous entrerez par une tradition, en apprenant ses règles. Ce n’est pas une mauvaise nouvelle : la plupart des portes qui en valent la peine s’ouvrent avec quelqu’un pour vous apprendre.
 
-Les clés de lecture — le mot tombe bien : le Hiérophante porte le 5 et il est [Terre](/fr/bibliotheque/quatre-elements/element-terre/). Dans [ma table de numérologie](/fr/bibliotheque/numerologie/chiffre-5/), le 5, c’est essayer, se tester, ne pas avoir peur d’échouer, et son conseil est d’être honnête avec soi-même et avec la situation. Lu avec les clés : on vous laissera entrer, et on vous testera en chemin. La Terre ajoute du poids — une structure qui dure, lente à changer.
+Les clés de lecture — le mot tombe bien : le Hiérophante porte le 5 et il est [Terre](/fr/bibliotheque/quatre-elements/element-terre/). Selon [mon tableau des nombres](/fr/bibliotheque/numerologie/chiffre-5/), le 5, c’est essayer, se tester, ne pas avoir peur d’échouer, avec un conseil : ne pas se mentir, ni sur soi ni sur ce qui se passe. Lu avec les clés : on vous laissera entrer, et on vous testera en chemin. La Terre ajoute du poids — une structure qui dure, lente à changer.
 
-Imaginons que quelqu’un tire le Hiérophante en postulant à une formation. Les clés pourraient dire : ceux qui attribuent les places ont leurs critères. Apprenez-les, plutôt que d’espérer une exception.
+Disons que le Hiérophante sorte pour quelqu’un qui postule à une formation. Les clés pourraient dire : ceux qui attribuent les places ont leurs critères. Apprenez-les, plutôt que d’espérer une exception.
 
 ## L’autre face {#revers}
 

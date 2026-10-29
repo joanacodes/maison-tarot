@@ -19,7 +19,7 @@ Pas de façon fiable, d’après mon expérience. Une carte montre une situation
 
 Ce que je lis, c’est surtout le présent : ce qui bouge dans la vie de quelqu’un au moment où l’on s’assoit. La vitesse à laquelle ça devient des événements dépend de décisions, d’autres personnes, du hasard. L’avenir arrive rarement sous la forme qu’on imaginait, et encore plus rarement le jour qu’on avait prévu.
 
-[Ma toute première lecture pour une inconnue](/fr/blog/premier-tirage-tarot/) s’est vérifiée trois ou quatre jours plus tard. Je l’ai appris par son message, pas par les cartes.
+[L’inconnue de mon tout premier tirage sur Discord](/fr/blog/premier-tirage-tarot/) a vu ce que je lui avais dit se vérifier au bout de trois ou quatre jours. Je l’ai appris par son message, pas par les cartes.
 
 ## Comment fonctionnent les systèmes de timing {#systemes-de-timing}
 
@@ -31,7 +31,7 @@ Ces systèmes ne s’accordent pas entre eux. Selon le livre que vous ouvrez, le
 
 ## La voix qui m’a appris le timing {#la-voix}
 
-Ce n’était pas un tirage, et je raconte toute l’histoire dans [pourquoi un tirage peut être faux](/fr/blog/tirage-faux-tarot/). En bref : après la mort de mon meilleur ami, j’ai demandé en silence « qui est le prochain ? », et une voix m’a donné le prénom d’une autre amie, puis « va avoir un accident », sans dire quand. Deux semaines plus tard, un camion a percuté sa voiture, et mon amie est aujourd’hui vivante et en pleine forme : l’événement est bien venu, mais le message était faux sur ce qui comptait.
+Ce n’était pas un tirage, et je raconte toute l’histoire dans [pourquoi un tirage peut être faux](/fr/blog/tirage-faux-tarot/). En bref : après la mort de mon meilleur ami, j’ai demandé en silence « qui est le prochain ? », et une voix m’a donné le prénom d’une autre amie, puis « va avoir un accident », sans dire quand. Quinze jours après, un camion heurtait sa voiture, et mon amie est aujourd’hui vivante et en pleine forme : l’événement est bien venu, mais le message était faux sur ce qui comptait.
 
 Ce que j’en ai gardé, c’est une étagère dans ma tête, étiquetée *sceptique, mais si ça arrive, j’étais prévenue*. Les messages vont sur cette étagère. Les dates en particulier.
 
@@ -61,7 +61,7 @@ Deux cartes montrent le piège et la sortie :
 
 {{< cards "wa08 ar10" >}}
 
-Le Huit de Bâtons est la carte que beaucoup de tarologues lisent comme « rapide ». J’y vois des bâtons qui volent ou qui tombent — le verre à moitié plein ou à moitié vide — et l’image ne dit pas lequel. La Roue de Fortune, pour moi, dit que c’est à vous de tourner la roue : vous fabriquez une part de votre chance, et une part de votre timing.
+Le Huit de Bâtons est la carte que beaucoup de tarologues lisent comme « rapide ». J’y vois des bâtons qui volent ou qui tombent, selon qu’on regarde la scène avec espoir ou avec crainte, et l’image ne dit pas lequel. La Roue de Fortune, pour moi, dit que c’est à vous de tourner la roue : vous fabriquez une part de votre chance, et une part de votre timing.
 
 La question plus douce, ce n’est donc presque jamais « quand ? ». C’est « qu’est-ce qui doit se passer d’abord ? » ou « qu’est-ce que je peux faire en attendant ? ». Celles-là ont des réponses qui se travaillent dès aujourd’hui.
 

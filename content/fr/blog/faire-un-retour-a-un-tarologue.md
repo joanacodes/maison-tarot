@@ -23,7 +23,7 @@ Citez la phrase. Pas « c’était super », mais « quand vous avez parlé d’
 
 « Ça, ça n’a pas résonné. » Dites-le calmement, et arrêtez-vous là. N’ajoutez pas « mais ça prendra peut-être sens plus tard », et ne tordez pas votre vie pour qu’une phrase y entre.
 
-Ça peut sembler dur. Ça ne l’est pas. À mon décompte, environ un tirage sur dix rate, et les lecteurs qui progressent sont ceux qui peuvent écrire « raté » dans leur carnet sans broncher. **Le retour le plus bienveillant, c’est le retour exact.** Pour le lecteur qui reçoit ce genre de retour, j’ai écrit [que faire quand un tirage est faux](/fr/blog/tirage-faux-que-faire/).
+Ça peut sembler dur. Ça ne l’est pas. Je rate moi-même, selon mes comptes, une lecture sur dix ou presque, et les lecteurs qui progressent sont ceux qui peuvent écrire « raté » dans leur carnet sans broncher. **Le retour le plus bienveillant, c’est le retour exact.** Pour le lecteur qui reçoit ce genre de retour, j’ai écrit [que faire quand un tirage est faux](/fr/blog/tirage-faux-que-faire/).
 
 Et si quelque chose résonne plus tard, écrivez-lui. C’est un retour aussi, et souvent le plus utile. Dites-lui ce qui a changé, pour qu’il puisse déplacer sa note d’une colonne à l’autre en toute honnêteté. C’est ce qui est arrivé à mon [premier tirage pour une inconnue](/fr/blog/premier-tirage-tarot/) : il a changé de colonne quand elle m’a écrit, quelques jours plus tard.
 
@@ -41,11 +41,11 @@ Demandez avant de commenter la forme : « Vous voulez un mot sur la manière, ou
 
 Si vous lisez aussi, la tentation est grande de dire « moi, j’aurais lu cette carte autrement ». Résistez, sauf s’il vous le demande. La critique est aisée, et l’art est difficile.
 
-Deux lecteurs peuvent regarder le même tirage, y voir deux histoires différentes, et chacun expliquer pourquoi. C’est ce qui rapproche la lecture d’un art plutôt que d’un code ; j’y reviens dans [deux tarologues peuvent-ils lire différemment les mêmes cartes ?](/fr/blog/deux-lectures-differentes/). Votre retour porte sur ce qui a résonné pour vous, la personne lue. Ce n’est pas une correction du sens du Cinq de Coupes.
+Deux lecteurs peuvent regarder le même tirage, y voir deux histoires différentes, et chacun expliquer pourquoi. C’est ce qui rapproche la lecture d’un art plutôt que d’un code ; [quand deux lecteurs ne voient pas la même chose](/fr/blog/deux-lectures-differentes/), aucun des deux n’a forcément tort. Votre retour porte sur ce qui a résonné pour vous, la personne lue. Ce n’est pas une correction du sens du Cinq de Coupes.
 
 ## Deux compliments à laisser de côté {#a-laisser-de-cote}
 
-« Tu as un don. » C’est dit avec chaleur, et je comprends pourquoi on le dit. Mais ce compliment sort la lecture des mains du lecteur : si c’est un don, il n’y a rien à travailler ni à vérifier. Il y a seulement quelqu’un qui a lâché prise au bon moment, et ça peut se refaire. Nommez plutôt ce qu’il a fait — « vous avez fait confiance à la première image et vous l’avez dite tout de suite » — pour qu’il sache quoi refaire. J’explique pourquoi dans [le compliment que je rends gentiment](/fr/blog/tu-as-un-don/).
+« Tu as un don. » C’est dit avec chaleur, et je comprends pourquoi on le dit. Mais ce compliment sort la lecture des mains du lecteur : si c’est un don, il n’y a rien à travailler ni à vérifier. Il y a seulement quelqu’un qui a lâché prise au bon moment, et ça peut se refaire. Nommez plutôt ce qu’il a fait — « vous avez fait confiance à la première image et vous l’avez dite tout de suite » — pour qu’il sache quoi refaire. C’est [un compliment que je rends toujours, gentiment](/fr/blog/tu-as-un-don/), et je dis pourquoi.
 
 « Vous êtes meilleur que le dernier tarologue que j’ai vu. » Les comparaisons ont l’air généreuses et n’apprennent rien ; le lecteur ne peut rien en faire. Restez sur ce tirage, cette phrase, cette carte.
 
@@ -60,4 +60,4 @@ Puis assez vite, tant qu’il peut encore le noter. En groupe — dans un [ateli
 3. « Ça, je ne sais pas encore : » et la promesse de lui dire si ça change.
 4. « Vous voulez un mot sur la forme ? » — et seulement s’il dit oui.
 
-Quand c’est votre tour de recevoir un retour, les mêmes règles valent dans l’autre sens : dites merci, notez, et ne transformez pas un raté en réussite à force d’arguments. Deux colonnes, ce que vous avez dit et ce qui a été confirmé, tenues honnêtement : c’est [le carnet qui vous fait progresser](/fr/blog/carnet-de-tirage-tarot/).
+Quand c’est votre tour de recevoir un retour, les mêmes règles valent dans l’autre sens : dites merci, notez, et ne transformez pas un raté en réussite à force d’arguments. Deux colonnes tenues honnêtement, vos paroles en face de leur vérification : c’est [le carnet qui vous fait progresser](/fr/blog/carnet-de-tirage-tarot/).

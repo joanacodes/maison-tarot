@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/swac.webp
 h1: Ace of Swords — <em>one</em>, Air
-lede: 'Before looking up what Ace of Swords “means”, look at what you already have:
-  one, the element Air, Root of Air. You’re reading the card. The number says one
-  — the beginning, the rough diamond; the element says the mind, what you decide.
-  Lay the two over each other, add the colours, and the card is already talking —
-  the rest of the page shows you how.'
+lede: 'A pale hand grips a blade pointing straight up, its tip threaded through a gold crown hung with a sprig and a palm frond. What has become clear to you that nobody has heard yet?'
 related:
 - /library/numerology
 - /library/four-elements/air-element
@@ -29,7 +25,7 @@ faq:
 - q: What does Ace of Swords mean?
   a: 'Something becomes clear: a decision taken, a truth that breaks through, the right word found at last. Its number (one) says it’s a beginning and its element (Air) says it happens in the mind. What’s left is to act on it.'
 - q: What about Ace of Swords reversed?
-  a: 'The same clarity, held badly. Either it’s blurred by overthinking, the decision taken and untaken, or it’s in excess, being right used as a weapon. The cards around it tell you which.'
+  a: 'Clarity held badly. Either it’s blurred by overthinking, the decision taken and untaken, or it’s in excess, being right used as a weapon. Its neighbours decide which.'
 - q: 'What does the Ace of Swords mean in love?'
   a: 'A conversation that clears the air, or a decision about the relationship that has become obvious. It talks about what you think and say, not about what the other person feels.'
 categories:
@@ -46,31 +42,31 @@ A pale hand comes out of a grey cloud on the left edge of the card and grips a s
 
 At the top, the blade passes through a gold crown set with small red stones. From the crown hang a leafy sprig dotted with red and a palm frond — usually read as olive and palm, peace and victory. Six yellow drops fall on either side of the blade like sparks. Far below, a low line of bare peaks. No figure, no path, no house: nobody stands on this ground yet.
 
-The drawing is about one thing: **a clear idea held firmly, before anyone has done anything with it.**
+One thing fills the picture: **a clear idea held firmly, before anyone has done anything with it.**
 
 ## By number: one {#number}
 
-One is the initiator: it opens the cycle and knows nothing of what comes next. Here the rough diamond is a thought, the moment something becomes clear in your head. Worth a lot, useful for nothing yet: a decision made but not announced, a truth seen but not said. Instagram’s first stage was exactly that, Burbn stripped down to its one good idea. The advice of [the number 1](/library/numerology/number-1/) is humility, and its minus fits this card closely: the person so sure they’re right that they stop listening.
+One is the initiator: it opens the cycle and knows nothing of what comes next. Here the rough diamond is a thought, the moment something becomes clear in your head. Worth a lot, useful for nothing yet: a decision made but not announced, a truth seen but not said. The app that became Instagram started there too: Burbn stripped down to its one good idea. The advice of [the number 1](/library/numerology/number-1/) is humility, and its minus fits this card closely: the person so sure they’re right that they stop listening.
 
 ## By element: Air {#element}
 
-The Ace is [Air](/library/four-elements/air-element/) at its source: the mind, analysis, the decision. In my notes, Air is the element that decides best, because it sees everything at once: Fire rushes, Water feels too much, Earth digs in. The Ace is that capacity before it’s been used: the fog lifts, and you can cut.
+The Ace is [Air](/library/four-elements/air-element/) at its source: the mind, analysis, the decision. My notes give Air the best judgement of the four elements, since nothing escapes its view: Fire rushes, Water feels too much, Earth digs in. The Ace is that capacity before it’s been used: the fog lifts, and you can cut.
 
 Air is also communication, good or bad. The same blade can say a true thing plainly or turn into the viper’s tongue. An idea this sharp is held by the hilt, not by the edge.
 
 ## By colours {#colours}
 
-The background is almost all [grey](/library/tarot-colours/grey/): neutrality, a stability that waits. Against it, the white of the hand, something untouched, and the cold blue of the steel. Then the touches that matter: the gold of the crown and the yellow drops, joy and will; the green of the branches, growth; tiny red stones, a little impulse. Read the colours before the card ([the colour grid](/library/tarot-colours/)) and you already have it: a calm ground, a cold clarity, a crown of possibilities hanging from the tip.
+The background is almost all [grey](/library/tarot-colours/grey/): neutrality, a stability that waits. Against it, the white of the hand, something untouched, and the cold blue of the steel. Then the touches that matter: the gold of the crown and the yellow drops, joy and will; the green of the branches, growth; tiny red stones, a little impulse. With [the colour grid](/library/tarot-colours/) beside you, that’s a calm ground, a cold clarity, a crown of possibilities hanging from the tip.
 
 ## By astrology: Root of Air {#astrology}
 
-The Aces get no sign and no planet in the Golden Dawn tradition. They are the roots of their element: the Ace of Swords is the seed the suit grows from, while the other Swords are shared between the three Air signs — Libra, Aquarius and Gemini. So the Ace holds all three in potential: Libra’s weighing, Aquarius’s new idea, Gemini’s quick word. If [astrology](/library/astrology/) speaks to you, keep that picture; if not, the number and the element have already said what matters.
+Zodiac signs skip this card, because the Golden Dawn kept them for the numbered cards and treated every Ace as a root. The Ace of Swords is the seed the suit grows from, while the other Swords are shared between the three Air signs — Libra, Aquarius and Gemini. So the Ace holds all three in potential: Libra’s weighing, Aquarius’s new idea, Gemini’s quick word. Readers who use [astrology](/library/astrology/) can keep that triple picture; the crowned blade carries the card for everyone else.
 
 ## In a reading {#reading}
 
 Upright, the Ace of Swords is the moment it becomes clear: a decision taken, a truth that breaks through, the word you’d been looking for. It often comes after a confused stretch and brings clarity rather than comfort, which can feel cold. The useful question is what the person will do with what they now see.
 
-Reversed, the same blade is held badly. Blurred by overthinking: the decision taken, untaken, taken again. Or in excess: being right as a weapon, the sentence said to wound rather than to clear the air.
+Reversed, the blade is held badly. Overthinking blurs it: the decision taken, untaken, taken again. Or it’s swung too hard: being right as a weapon, the sentence said to wound rather than to clear the air.
 
 Next to [the Magician](/library/tarot-cards/the-magician/), another 1, the idea finds its tools. Next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/), it’s the blade that cuts the ties: the blindfold can come off. Next to the [Ace of Cups](/library/tarot-cards/ace-of-cups/), head and heart start together — a new feeling you can finally name.
 
@@ -82,6 +78,6 @@ Next to [the Magician](/library/tarot-cards/the-magician/), another 1, the idea 
 
 Imagine reading for a stranger who turns up the Ace of Swords beside the [Two of Pentacles](/library/tarot-cards/two-of-pentacles/). One then two: a beginning, then a balance to keep. Air then Earth: a thought, then something concrete — money, time, a job. Grey and steel, then a figure juggling two coins with ships riding the waves behind.
 
-You might say: “You’ve been juggling two things for a while, and in your head the choice is already made. What’s missing is saying it.”
+Beside the juggler, the blade suggests: “You’ve been juggling two things for a while, and in your head the choice is already made. What’s missing is saying it.”
 
-Then check, with an open question rather than a leading one: “Is there something you’ve decided and not announced yet?” If the answer is no, it’s a miss, and you note it as one. That’s [the method](/method/) in three steps: lenses, a sentence, a check.
+Then ask an open question rather than a leading one: “Is there something you’ve decided and not announced yet?” If the answer is no, record it as a miss. That’s [the method](/method/) in three steps: lenses, a sentence, a check.

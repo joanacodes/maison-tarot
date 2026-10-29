@@ -35,7 +35,7 @@ Some readers add a collective year card from the digits of the year. For 2027: 2
 
 {{< cards "ar11 ar02" >}}
 
-[Justice](/library/tarot-cards/justice/) sits between two pillars, a sword raised in one hand and scales in the other: weighing, deciding, living with the consequences. Two, in [my numerology table](/library/numerology/number-2/), is cooperation between two parties, a contract, a bond; its advice is to read the contract and weigh the pros and cons, and its minus is stubbornness. The High Priestess adds what isn’t said: still water, the side of the moon we don’t see. Put together: a year for agreements made with your eyes open.
+[Justice](/library/tarot-cards/justice/) sits between two pillars with a raised sword and a pair of scales: weighing, deciding, living with the consequences. Two, in [my numerology table](/library/numerology/number-2/), is cooperation between two sides, a deal, a bond: check every clause, weigh the for and the against, and beware of its minus, stubbornness. The High Priestess adds what isn’t said: still water, the side of the moon we don’t see. Put together: a year for agreements made with your eyes open.
 
 That card is the same for everyone, so treat it as a conversation starter, not your forecast. For something personal, do the same sum with your own birthday: born on 14 March, 1 + 4 + 0 + 3 + 2 + 0 + 2 + 7 = 19, the Sun. [How birth cards are worked out](/blog/tarot-birth-card/) goes further.
 
@@ -47,7 +47,7 @@ So the Ten of Swords in March isn’t “March will be a disaster”. It’s “
 
 **A month card is a question you carry into the month, not an appointment the month has to keep.**
 
-Some months shouldn’t be asked about at all. “Will I be pregnant by June?” or “Which month will the money come?” come from hope and worry, and I understand both. The cards aren’t the right tool for either; a gentler question for that month is “what helps me through the waiting?”
+Some months shouldn’t be asked about at all. “Will I be pregnant by June?” or “Which month will the money come?” come from hope and worry, and I understand both. Neither is a question the cards can carry well; a gentler question for that month is “what helps me through the waiting?”
 
 ## An example: the first quarter of 2027 {#example}
 
@@ -61,6 +61,6 @@ As a quarter, it reads: a spark in January, a February full of options that all 
 
 ## Keep it, then check it {#keep-it}
 
-Put the list somewhere you’ll find it: the back of your diary, a note on your phone. At the start of each month, look at that month’s card for two minutes before you look at your calendar. At the end of the month, put a tick or a cross, and don’t stretch the card until it fits.
+Put the list somewhere you’ll find it: the back of your diary, a note on your phone. At the start of each month, spend two minutes with that month’s card before you open your calendar. At the end of the month, put a tick or a cross, and don’t stretch the card until it fits.
 
 For the month-by-month method in more detail — how I read the twelve together, what I write down, and why I don’t publish predictions — read [my year-ahead reading, month by month](/blog/year-ahead-tarot-reading/). And [a reading notebook](/blog/tarot-journal/) is what makes the December check worth something.

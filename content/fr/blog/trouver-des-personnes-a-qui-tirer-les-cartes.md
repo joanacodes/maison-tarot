@@ -31,21 +31,21 @@ Un homme m’a répondu en me demandant si je lisais dans les pensées, ou si j�
 
 ## Les amis et la famille, avec des règles {#amis}
 
-Au début, j’ai lu pour une centaine de personnes, avant la longue série de lectures à l’aveugle pour des inconnus. J’ai aussi fait essayer mes amis et ma famille, et c’est comme ça que j’ai compris que je voulais enseigner. Les amis sont partants, patients, honnêtes. Leur seul défaut : vous connaissez leur vie. Vous ne savez pas toujours si vous lisez la carte ou si vous vous souvenez du déjeuner de dimanche dernier.
+Au début, j’ai lu pour une centaine de personnes, avant la longue série de lectures à l’aveugle pour des inconnus. J’ai aussi tendu le jeu à mes proches, et c’est en les voyant lire que j’ai su que je voulais enseigner. Les amis sont partants, patients, honnêtes. Leur seul défaut : vous connaissez leur vie. Vous ne savez pas toujours si vous lisez la carte ou si vous vous souvenez du déjeuner de dimanche dernier.
 
 Demandez-leur donc deux choses. D’abord, ne rien vous dire — ni la question, ni même le domaine. Ensuite, être honnêtes après coup, y compris pour dire « non, ça ne colle pas du tout ». Un ami qui dit oui à tout pour vous faire plaisir est un ami gentil, et un contrôle inutile. Pourquoi je tiens tant à la première condition, je l’explique dans [la règle du silence](/fr/blog/regle-du-silence-tarot/).
 
 ## Comment demander, et sur quoi se mettre d’accord {#comment-demander}
 
-Qui ne demande rien n’a rien, dit le proverbe ; au tarot, on pourrait ajouter : qui ne demande pas ne lit pas. Lire quelqu’un sans lui demander, c’est comme entrer dans sa chambre et ouvrir ses tiroirs. C’est aussi moins juste : une personne qui ne sait pas qu’on la lit n’est pas ouverte, et on finit par bâtir toute une affirmation sur une demi-phrase. Le consentement passe en premier, à chaque fois.
+Qui ne demande rien n’a rien, dit le proverbe ; au tarot, on pourrait ajouter : qui ne demande pas ne lit pas. Lire quelqu’un sans lui demander, c’est pousser la porte de sa chambre sans frapper. C’est aussi moins juste : sans le savoir, la personne reste fermée, et l’on se retrouve à tirer des conclusions entières d’un fragment. Le consentement passe en premier, à chaque fois.
 
 Une phrase peut suffire : « J’apprends le tarot et je m’entraîne avec des volontaires ; c’est gratuit, ne me dites pas votre question, et dites-moi à la fin ce qui vous a parlé et ce qui ne vous a pas parlé. » Derrière cette phrase, voici ce sur quoi je vous conseille de vous entendre avant de commencer :
 
 1. Dites que vous vous entraînez, et que c’est gratuit.
 2. Ne demandez ni question ni contexte ; la personne les garde pour elle.
 3. Convenez qu’elle vous dira, après, ce qui a résonné et ce qui n’a pas résonné.
-4. Dites sur quoi vous ne lisez pas : la santé, la mort, la grossesse, les procès en cours, les décisions d’argent, les personnes absentes. Ce sont [les sujets sur lesquels je me retire](/fr/avertissements/#refus), et voici pourquoi.
-5. Notez tout : ce que vous avez dit, ce qu’elle a confirmé.
+4. Annoncez vos limites : maladie, décès, grossesse, procédures en cours, choix financiers, et toute personne absente. Ce sont [les sujets sur lesquels je me retire](/fr/avertissements/#refus), et voici pourquoi.
+5. Gardez une trace écrite de chaque affirmation et de la réponse qu’elle a reçue.
 
 **Le consentement et le silence transforment un service rendu en entraînement.** Sans eux, vous avez une conversation agréable ; avec eux, vous apprenez quelque chose sur votre façon de lire.
 

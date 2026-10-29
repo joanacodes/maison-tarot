@@ -41,7 +41,7 @@ On ne sait pas laquelle est vraie, ni s’il s’agit d’un mélange. Je préf�
 
 Arthur Edward Waite ne partageait pas cette réticence. Il a fait imprimer le nom en bas de la carte, DEATH, et il a demandé une autre image à Pamela Colman Smith. Dans son propre livre, [*The Pictorial Key to the Tarot*](https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot), il s’en explique ; je traduis : « Le voile ou le masque de la vie se perpétue dans le changement, la transformation et le passage de l’inférieur au supérieur, et cela est mieux représenté dans le tarot rectifié par l’une des visions de l’Apocalypse que par l’idée grossière du squelette faucheur. »
 
-Autrement dit : le squelette à la faux était trop brutal pour ce qu’il voulait dire, à savoir le changement et le passage. Smith a donc dessiné un squelette en armure noire sur un cheval blanc, portant une bannière noire frappée d’une rose blanche. Un roi gît à terre, un évêque se tient les mains jointes, une jeune femme détourne le visage, un enfant lève les yeux droit vers le cavalier. Derrière eux coule une rivière, et à l’horizon, entre deux tours, le soleil.
+Autrement dit : le squelette à la faux était trop brutal pour ce qu’il voulait dire, à savoir le changement et le passage. Smith a donc remplacé le faucheur par un cavalier : un squelette cuirassé de noir, sur une monture blanche, avec une bannière sombre où fleurit une rose blanche. Devant lui, chacun réagit à sa façon — le roi est tombé, l’évêque prie, la jeune femme se détourne, l’enfant le regarde en face. Plus loin coule une rivière, et le soleil pointe entre deux tours.
 
 {{< cards "ar13" >}}
 
@@ -51,7 +51,7 @@ Pour être honnête, la vieille peur n’a pas disparu avec la faux. Dans ce mê
 
 **Sans nom, vous voyez d’abord l’image ; avec un nom, le mot arrive avant l’image.** Toute la différence est là, et elle est grande.
 
-Regardez la lame de Marseille sans titre : vous voyez quelqu’un qui fauche, et des plantes qui poussent entre les os. C’est très proche de ma propre note sur cette carte : la Mort est liée à la moisson et au recommencement, comme quelqu’un qui a perdu son but et veut rendre sa vie fertile à nouveau. On coupe ce qui est mûr pour pouvoir semer.
+Regardez la lame de Marseille sans titre : vous voyez quelqu’un qui fauche, et des plantes qui poussent entre les os. C’est très proche de ce que j’ai noté sur cette carte : une récolte, puis un nouveau départ — l’élan de quelqu’un qui, resté sans cap, veut que sa vie redonne des fruits. La faux rentre ce qui est arrivé à maturité, et la terre se prépare pour la suite.
 
 Regardez la carte du Rider-Waite-Smith : vous lisez le nom avant de remarquer le soleil à l’horizon ou l’enfant qui lève les yeux. On réagit au mot, et parfois on n’arrive jamais jusqu’au dessin.
 
@@ -61,7 +61,7 @@ Essayez avec votre propre jeu. Cachez le nom en bas de votre carte de la Mort av
 
 ## Si la carte vous a fait peur {#si-elle-vous-a-fait-peur}
 
-Si vous avez tiré cette carte et que vous arrivez ici inquiet ou inquiète, pour vous ou pour quelqu’un que vous aimez, je comprends : le mot fait cet effet-là. Dans un jeu comme dans l’autre, une carte n’annonce ni un décès ni une maladie. Je ne lis pas sur ces questions, parce qu’un mot de travers peut effrayer quelqu’un pour rien, et qu’une inquiétude de santé se confie à un médecin et à vos proches. Je l’explique plus longuement dans [pourquoi je ne lis pas sur la santé, la grossesse et la mort](/fr/blog/sante-grossesse-deces-tarot/).
+Si vous avez tiré cette carte et que vous arrivez ici inquiet ou inquiète, pour vous ou pour quelqu’un que vous aimez, je comprends : le mot fait cet effet-là. Dans un jeu comme dans l’autre, aucune lame ne prédit qu’on va tomber malade ou mourir. Je laisse ces sujets en dehors de mes tirages : une phrase maladroite suffirait à affoler quelqu’un sans raison, et une inquiétude de santé mérite un médecin et l’oreille de vos proches. J’explique ce choix plus en détail [à propos de la maladie, de la grossesse et du deuil](/fr/blog/sante-grossesse-deces-tarot/).
 
 Ce que la carte peut accueillir, c’est un changement que vous êtes en train de vivre : un chapitre qui se ferme, une habitude qui s’arrête, une version de vous qui a fait son temps.
 

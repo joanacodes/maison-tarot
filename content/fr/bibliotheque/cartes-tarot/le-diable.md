@@ -1,6 +1,6 @@
 ---
 title: 'Le Diable (The Devil) — tarot Rider-Waite-Smith : lire la carte par ses clés de lecture'
-description: 'Le Diable au tarot, lu par ses clés : 15 qui devient 6, la Terre, le Capricorne — l’attachement, un travail qui retient, et pourquoi ses chaînes sont lâches.'
+description: 'Le Diable au tarot : des chaînes sans cadenas, 15 devenu 6, la Terre, le Capricorne — l’attachement, un travail qui retient, et pourquoi on peut desserrer.'
 translationKey: card-ar15
 type: cards
 navTitle: Le Diable
@@ -15,10 +15,7 @@ energy: Masculine
 kabbalah: Ayin
 image: cards/ar15.webp
 h1: Le Diable — <em>15</em>, la Terre
-lede: 'Avant de chercher ce que « signifie » Le Diable, regardez ce que vous avez
-  déjà : 15, l’élément Terre, Capricorne. Vous lisez la carte. Le nombre dit 15 — 1 + 5 = 6 — l’harmonie retrouvée, l’échange ; l’élément dit la matière,
-  ce qui tient. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte
-  vous parle déjà — le reste de la page vous montre comment.'
+lede: 'Sous une créature cornue juchée sur un socle noir, un couple nu porte au cou des chaînes si lâches qu’elles glisseraient d’un geste. Qu’est-ce qui vous tient, et avez-vous déjà essayé de l’enlever ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre
@@ -51,21 +48,21 @@ Pas de cadenas, pas de gardien, pas de porte ; du noir d’un bord à l’autre,
 
 ## Par le nombre : 15 {#nombre}
 
-Quinze se ramène à [6](/fr/bibliotheque/numerologie/chiffre-6/), le nombre des Amoureux — d’où ce couple qui vous dit quelque chose. Le 6, c’est la réussite qui file, et son conseil est de rester calme et humble quand tout va bien ; le Diable, c’est le 6 qui l’a oublié. Dans l’histoire d’Instagram, le 6, c’est Facebook qui investit : tout va plus vite, et personne ne lit plus les conditions. Le Diable en une image : un contrat qui rapporte, et des petites lignes qu’on ne lit plus.
+Quinze se ramène à [6](/fr/bibliotheque/numerologie/chiffre-6/), le nombre des Amoureux — d’où ce couple qui vous dit quelque chose. Le 6, c’est la réussite qui file, et son conseil est de rester calme et humble quand tout va bien ; le Diable, c’est le 6 qui l’a oublié. Au 6, Instagram reçoit l’argent de Facebook : la vitesse augmente, et les conditions passent à la trappe. Le Diable en une image : un contrat qui rapporte, et des petites lignes qu’on ne lit plus.
 
 ## Par l’élément : Terre {#element}
 
-Le Diable est une carte de [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, et tout ce qui a de la valeur pour vous, en argent ou en sentiment. La Terre, c’est la ténacité, l’endurance — et l’entêtement. C’est ce qui tient, et ici, tenir est tout le sujet : le CDI qu’on garde parce qu’il rassure, l’habitude qu’on garde parce qu’elle apaise, la relation qu’on garde parce qu’on la connaît par cœur.
+Le Diable est une carte de [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, et tout ce qui vous est précieux, en euros comme en affection. La Terre, c’est la ténacité, l’endurance — et l’entêtement. C’est ce qui tient, et ici, tenir est tout le sujet : le CDI qu’on garde parce qu’il rassure, l’habitude qu’on garde parce qu’elle apaise, la relation qu’on garde parce qu’on la connaît par cœur.
 
 Ce qui vous enchaîne, c’est presque toujours quelque chose auquel vous tenez, et c’est justement pour ça qu’on a du mal à y voir une chaîne.
 
 ## Par les couleurs {#couleurs}
 
-Du [noir](/fr/bibliotheque/couleurs-tarot/noir/) d’un bord à l’autre : dans ma grille des couleurs, l’absence, le vide, les pensées lourdes — et aussi la réalité, la chose nue, sans vernis. Puis l’orange : le corps de la créature, la peau du couple, les flammes de la torche et de la queue de l’homme — dans ma grille, la créativité et la libido. La créature et les deux personnages sont peints du même ton chaud, comme si ce qui les tient était fait de la même matière qu’eux. Lisez les couleurs avant la carte et vous avez déjà : quelque chose de réel et de lourd, un désir qui continue de brûler, et une emprise qui vient de l’intérieur plus que de l’extérieur.
+Du [noir](/fr/bibliotheque/couleurs-tarot/noir/) d’un bord à l’autre : l’absence, le vide, les pensées lourdes, selon ma grille — et aussi la réalité, la chose nue, sans vernis. Puis l’orange : le corps de la créature, la peau du couple, les flammes de la torche et de la queue de l’homme — dans ma grille, la créativité et la libido. La créature et les deux personnages sont peints du même ton chaud, comme si ce qui les tient était fait de la même matière qu’eux. Sans lire un seul symbole, vous tenez déjà quelque chose de réel et de lourd, un désir qui continue de brûler, et une emprise qui vient de l’intérieur plus que de l’extérieur.
 
 ## Par l’astrologie : Capricorne {#astrologie}
 
-Dans la tradition Golden Dawn, le Diable revient au [Capricorne](/fr/bibliotheque/astrologie/capricorne/) : son verbe est « J’utilise », son animal la chèvre ou le bouc — les cornes que porte la créature. Le Capricorne, c’est l’ambition, la structure, le travail ; bien placé, la responsabilité assumée, mal placé, l’outil devenu maître. Bonne porte d’entrée pour une carte qui parle rarement du mal, et bien plus souvent d’une chose utile qui a pris le dessus.
+Le Diable, chez la Golden Dawn, c’est le [Capricorne](/fr/bibliotheque/astrologie/capricorne/) : son verbe est « J’utilise », son animal la chèvre ou le bouc — les cornes que porte la créature. Le Capricorne, c’est l’ambition, la structure, le travail ; bien placé, la responsabilité assumée, mal placé, l’outil devenu maître. Bonne porte d’entrée pour une carte qui parle rarement du mal, et bien plus souvent d’une chose utile qui a pris le dessus.
 
 ## En lecture {#lecture}
 
@@ -73,21 +70,21 @@ Dans la tradition Golden Dawn, le Diable revient au [Capricorne](/fr/bibliothequ
 
 Renversé, c’est souvent la chaîne qui commence à glisser : on remarque la boucle, on y porte la main. Ou le même attachement en excès — on s’entête, on le cache mieux, on appelle ça un choix.
 
-À côté des [Amoureux](/fr/bibliotheque/cartes-tarot/les-amoureux/), le Diable demande si un choix en est encore un. À côté du [Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/) — prisonnier de soi-même avec tous les outils en main —, il répète que le bandeau peut s’enlever. À côté du [Quatre de Pentacles](/fr/bibliotheque/cartes-tarot/quatre-de-pentacles/), c’est serrer si fort ce qu’on a qu’on ne peut plus s’en servir.
+À côté des [Amoureux](/fr/bibliotheque/cartes-tarot/les-amoureux/), le Diable demande si un choix en est encore un. À côté du [Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/) — des liens qu’on s’impose alors que tout est là pour les défaire —, il répète que le bandeau peut s’enlever. À côté du [Quatre de Pentacles](/fr/bibliotheque/cartes-tarot/quatre-de-pentacles/), c’est serrer si fort ce qu’on a qu’on ne peut plus s’en servir.
 
 {{< cards "ar06 sw08 pe04" >}}
 
-**Le Diable vous montre ce qui vous tient, et que la chaîne n’a jamais été fermée à clé.** Pour les questions de cœur, j’ai écrit sur [le Diable en amour](/fr/blog/le-diable-tarot-amour/) ; un travail qui vous retient a sa propre section, plus bas.
+**Le Diable vous montre ce qui vous tient, et que la chaîne n’a jamais été fermée à clé.** Pour les questions de cœur, j’ai écrit sur [le Diable en amour](/fr/blog/le-diable-tarot-amour/) ; pour le travail qui vous retient, lisez la suite.
 
 ## Au travail {#au-travail}
 
 Au travail, le Diable, c’est un emploi qui vous tient plus que vous ne le tenez : les menottes dorées, un salaire ou un treizième mois qui rendent le départ impensable ; l’intitulé de poste devenu la réponse à « qui êtes-vous ? » ; répondre aux mails à 23 h parce que s’arrêter paraît dangereux. Dans mes notes sur le Capricorne, le signe du Diable, figure Miranda Priestly, la patronne du *Diable s’habille en Prada* : l’ambition, et un travail qui peut avaler la personne qui le fait.
 
-Tirée par quelqu’un resté huit ans dans un poste « correct », la carte ne juge pas ce poste ; elle demande ce qui le retient, exactement. À côté du Huit de Coupes — passer à autre chose que ce qu’on fait déjà, dans mes notes —, elle ne dit toujours pas « partez » : elle montre que c’est possible.
+Tirée par quelqu’un resté huit ans dans un poste « correct », la carte ne juge pas ce poste ; elle demande ce qui le retient, exactement. À côté du Huit de Coupes — tourner les talons à ce qui remplit déjà vos journées, dans mes notes —, elle ne dit toujours pas « partez » : elle montre que c’est possible.
 
 Renversé, la chaîne commence souvent à glisser : le premier soir où vous partez à 18 h, et l’entreprise tient encore debout le lendemain. En excès, travailler plus pour ne rien regarder.
 
-« Est-ce que je dois démissionner ? » On la pose fatigué, en espérant la permission de partir ou une raison de rester, et je le comprends. Mais savoir si vous avez les moyens de partir est une décision d’argent, sur laquelle je ne lis pas ([ce que je ne lis pas, et pourquoi](/fr/avertissements/#refus)). Et une carte qui dirait « partez » deviendrait une chaîne de plus : une voix extérieure qui décide, alors que sur cette lame personne ne tient l’autre bout. Une question plus douce : « Qu’est-ce que ce poste me donne que j’ai peur de perdre, et où pourrais-je le trouver ailleurs ? » Pour le concret, un budget et un conseiller en bilan de compétences ; si les horaires vous coûtent le sommeil ou la santé, un médecin d’abord.
+« Est-ce que je dois démissionner ? » On la pose fatigué, en espérant la permission de partir ou une raison de rester, et je le comprends. Mais savoir si vous avez les moyens de partir est une décision d’argent, sur laquelle je ne lis pas ([les raisons de ce refus](/fr/avertissements/#refus)). Et une carte qui dirait « partez » deviendrait une chaîne de plus : une voix extérieure qui décide, alors que sur cette lame personne ne tient l’autre bout. Je préfère cette question : « Qu’est-ce que ce poste me donne que j’ai peur de perdre, et où pourrais-je le trouver ailleurs ? » Pour le concret, un budget et un conseiller en bilan de compétences ; si les horaires vous coûtent le sommeil ou la santé, un médecin d’abord.
 
 **Soulever la chaîne ne veut pas dire claquer la porte.** Cette semaine, nommez la vôtre en un mot — l’argent, le statut, la peur — et desserrez un maillon : un soir sans mails.
 
@@ -97,6 +94,6 @@ Cette fois, c’est vous qui tenez le jeu : le Diable sort à côté du [Six de 
 
 Deux 6 : le 15 se ramène à 6, comme le Six de Coupes — une harmonie confortable, une harmonie enchaînée. La Terre et l’Eau : ce qui tient et ce qu’on ressent. Le noir du Diable à côté du jaune chaleureux du Six de Coupes : quelque chose de lourd à côté de quelque chose de doux et d’ancien, qui vient de l’enfance.
 
-La phrase que vous diriez à voix haute : « Quelque chose que vous avez commencé il y a longtemps parce que ça vous protégeait — une habitude, un rôle dans la famille — vous tient encore, et c’est plus lâche que vous ne le croyez. »
+Ma proposition de phrase : « Ce que vous avez commencé il y a longtemps parce que ça vous protégeait — une habitude, un rôle dans la famille — vous tient encore, et c’est plus lâche que vous ne le croyez. »
 
-Puis vérifiez. Demandez à la personne si cela lui évoque quelque chose qu’elle fait sans l’avoir décidé, et laissez-la le nommer. Si c’est non, notez un raté, sans en avoir honte.
+Ensuite, demandez si cela évoque à la personne quelque chose qu’elle fait sans l’avoir décidé, et laissez-la le nommer. Si rien ne la tient de cette façon, notez un raté, sans en avoir honte.

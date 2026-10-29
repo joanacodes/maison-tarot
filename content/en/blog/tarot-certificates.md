@@ -25,7 +25,7 @@ That counts for something. Say a certificate reads “40 hours, 30 supervised re
 
 It can’t show accuracy. No certificate counts the misses after the course ends. The only record of that is a notebook: on one side what the reader said, on the other what the person confirmed. That’s why I keep [a reading notebook](/blog/tarot-journal/), and why I’d ask any reader whether they keep one.
 
-It can’t show ethics either. A certificate won’t tell you whether a reader asks before reading someone, steps back from health or court cases, or will one day “discover” a curse and offer to lift it for a fee. For that, the [nine red flags of a fake reader](/blog/how-to-spot-a-fake-tarot-reader/) are more useful than any frame on a wall.
+It can’t show ethics either. A certificate won’t tell you whether a reader asks before reading someone, steps back from health or court cases, or will one day “discover” a curse and offer to lift it for a fee. For that, [a checklist of how fake readers operate](/blog/how-to-spot-a-fake-tarot-reader/) is more useful than any frame on a wall.
 
 And it can’t show whether someone still practises. A certificate from ten years ago describes the person who sat that course, not the person reading for you today.
 

@@ -11,13 +11,13 @@ imageAlt: "Two people at a kitchen table seen from behind, one holding up a sing
 imagePrompt: "Two people at a kitchen table seen from behind over their shoulders, one holding up a single tarot card while the other points at a detail on it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Teach tarot by making people read before you explain anything. Put one card in their hands, ask them to describe what they see and what they receive, and let them say what comes without trying to be right. Every person I’ve helped to read managed it within one to three tries. Then give them lenses instead of a list of 78 meanings: colours, numbers, elements. Teach the rules on day one: ask permission, the person tells you nothing, a miss is said out loud. The rest comes from practice, which nobody can do for them."
 ---
-Teach tarot by making people try before you explain. Hand someone a card, ask what they see, and let them talk. Every person I’ve helped to read managed it within one to three tries; what they needed from me was permission and a few tools, not a lecture.
+Teach tarot by making people try before you explain. Hand someone a card, ask what they see, and let them talk. Each person I’ve taught to read managed it within one to three tries; what they needed from me was permission and a few tools, not a lecture.
 
 ## How I started teaching {#how-i-started}
 
 I didn’t set out to teach. I made my friends and family try reading, and something happened that I hadn’t planned for.
 
-Someone says something true about the person in front of them, and then they’re shocked by what they’ve just said. Their face changes before they’ve decided what to think about it. That moment is why I teach.
+Someone tells the person opposite them something accurate, then looks startled at their own words. Their face changes before they’ve decided what to think about it. That moment is why I teach.
 
 I can’t describe it in a way that does it justice, and that’s the first lesson for whoever is teaching: your explanations matter less than the moment you step back and let the other person speak.
 
@@ -29,7 +29,7 @@ Then let them talk, and don’t correct. Say they look at the Three of Cups and 
 
 It’s how my [workshops start: a card in the first ten minutes](/blog/first-ten-minutes-tarot-workshop/), the explanation after. People who learn the meaning first tend to recite it. People who look first tend to read.
 
-Then build in steps: one card a day for a while, then three cards, then more. Tell them early that the same image can read differently from one person to another, and from one day to the next. It saves them a lot of worrying about whether they’ve got it “right”.
+Then build in steps: one card a day for a while, then three cards, then more. Tell them early that two readers can find different things in one card, and so can one reader on two different days. It saves them a lot of worrying about whether they’ve got it “right”.
 
 ## Give them lenses, not 78 meanings {#lenses}
 

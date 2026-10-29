@@ -17,9 +17,9 @@ Non, le tarot n’a pas à être gratuit, et quelqu’un qui fait payer ses tira
 
 L’idée repose sur deux vieilles croyances. La première : lire les cartes serait un don, et un don ne se vend pas. La seconde : l’argent abîmerait la lecture, comme si un prix pouvait brouiller les cartes.
 
-Je ne crois ni à l’une ni à l’autre. Il n’y a pas de don à vendre : tout le monde peut apprendre à lire, et chaque personne que j’ai accompagnée y est arrivée entre le premier et le troisième essai. Reste un savoir-faire, et vendre un savoir-faire n’a rien d’extraordinaire.
+Je ne crois ni à l’une ni à l’autre. Il n’y a pas de don à vendre : lire s’apprend, et parmi les gens que j’ai formés, personne n’a dépassé le troisième essai. Reste un savoir-faire, et vendre un savoir-faire n’a rien d’extraordinaire.
 
-Quant à l’argent qui fausserait les lectures, rien ne le montre : mon propre décompte — environ un tirage sur dix qui rate — vient de lectures gratuites. La gratuité ne m’a pas rendue plus juste.
+Quant à l’argent qui fausserait les lectures, rien ne le montre : les ratés que j’ai comptés, à peu près un sur dix, viennent de lectures gratuites. La gratuité ne m’a pas rendue plus juste.
 
 Sous le slogan, pourtant, il y a une inquiétude légitime. Quand on dit « ça devrait être gratuit », on veut souvent dire « ça ne devrait pas profiter de gens qui ont peur ». **Sur ce point, c’est juste, et la vraie question n’est pas de savoir si l’on fait payer, mais comment.**
 
@@ -41,9 +41,9 @@ Une pratique se demande : « est-ce que ça a aidé ? ». Un produit : « est-ce
 
 La dérive prend trois directions :
 
-- Vers les questions qui se vendent. « Est-ce qu’il va revenir ? », « Est-ce que je vais tomber enceinte ? », « Est-ce que je dois accepter cet argent ? » sont les questions auxquelles on veut le plus une réponse, et celles où un mot de travers fait le plus de mal. Je ne lis pas sur ces sujets-là.
+- Vers les questions qui se vendent. « Va-t-il revenir ? », « Vais-je tomber enceinte ? », « Faut-il que j’accepte cet argent ? » sont les questions auxquelles on veut le plus une réponse, et celles où une erreur blesse le plus. Je ne lis pas sur ces sujets-là.
 - Vers les visites répétées. Les séances qui finissent sur un suspense, le paiement à la question, [les abonnements et les « tirages approfondis »](/fr/blog/tarot-payant-a-la-question/). Chacun récompense la personne qui lit quand vous avez de nouveau besoin d’elle.
-- Vers les objets. En 2021, je vendais de la sauge, des bougies et des cartes « canalisées », et j’explique [pourquoi j’ai arrêté](/fr/blog/purifier-son-jeu-de-tarot/) : rien dans ce carton n’a amélioré une lecture, et une boutique vous paie pour vendre, pas pour bien lire.
+- Vers les objets. Moi-même, en 2021, j’ai vendu sauge, bougies et cartes dites « canalisées », et j’explique [pourquoi j’ai arrêté](/fr/blog/purifier-son-jeu-de-tarot/) : rien dans ce carton n’a amélioré une lecture, et une boutique vous paie pour vendre, pas pour bien lire.
 
 ## Le gratuit n’est pas forcément plus pur {#gratuit-pas-pur}
 
@@ -57,11 +57,11 @@ Je peux me le permettre parce que les cours me font vivre. Tout le monde n’a p
 
 ## Ma réponse : les cours payants, les tirages gratuits {#ma-reponse}
 
-Je vends des cours : des séances individuelles d’une heure, et des ateliers de trois heures pour douze personnes, une clé de lecture par atelier. Les tirages, eux, ont lieu aux événements gratuits, tirés au sort, devant tout le monde.
+Je vends des cours : des séances individuelles d’une heure, et des ateliers où douze personnes passent trois heures sur une seule clé de lecture. Les tirages, eux, ont lieu aux événements gratuits, tirés au sort, devant tout le monde.
 
 Toujours pour une question d’intérêt. Une pratique qui vit des tirages a besoin qu’on revienne pour des tirages. Une pratique qui vit de l’enseignement a besoin qu’on reparte en sachant plus, et en ayant moins besoin de moi. Et à un événement gratuit, dire « celui-là est raté » ne me coûte rien, alors je le dis à chaque fois.
 
-J’ai détaillé à part [ce que je fais payer et ce que je donne](/fr/blog/ce-que-je-fais-payer/). Pour comparer des tarologues payants, voyez [ce qui se cache dans le prix d’un tirage](/fr/blog/prix-tirage-tarot/).
+J’ai détaillé à part [ce qui est payant chez moi, et ce qui ne l’est pas](/fr/blog/ce-que-je-fais-payer/). Pour comparer des tarologues payants, voyez [ce qui se cache dans le prix d’un tirage](/fr/blog/prix-tirage-tarot/).
 
 ## Reconnaître un tirage payant honnête {#tirage-payant-honnete}
 

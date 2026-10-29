@@ -15,7 +15,7 @@ The Rider-Waite-Smith is the 78-card tarot deck published in London in December 
 
 ## What the Rider-Waite-Smith deck is {#what-it-is}
 
-It's a tarot of 78 cards: 22 major arcana, numbered 0 to 21, and 56 minor arcana in four suits — Wands, Cups, Swords and Pentacles — each running from Ace to Ten, plus a Page, a Knight, a Queen and a King.
+It's a full tarot deck of 78 cards. Twenty-two are the majors, from the Fool at 0 to the World at 21; the other fifty-six split into Wands, Cups, Swords and Pentacles, every suit going from Ace up to Ten and finishing with its four court cards.
 
 Two people made it. [Arthur Edward Waite](/library/tarot-figures/arthur-edward-waite/), a writer on mysticism living in London, chose the symbolism and wrote the companion book, *The Pictorial Key to the Tarot* (1910). [Pamela Colman Smith](/library/tarot-figures/pamela-colman-smith/), an illustrator and stage designer, drew all 78 cards in 1909. Both had been members of the Hermetic Order of the Golden Dawn, an occult society founded in London in 1888, and its system of correspondences runs through the deck. That's why Waite swapped two cards: Strength became VIII and Justice XI, the reverse of the older order. [The Golden Dawn and its tarot](/library/tarot-history/golden-dawn-tarot/) explains where that comes from.
 
@@ -51,7 +51,7 @@ Smith herself was largely forgotten for decades; exhibitions such as the one [Pr
 
 ## Why I teach with it {#why-i-teach-with-it}
 
-Because the lenses I teach read straight off the drawing. The yellow sky behind the Fool and the Magician says joy and will before you know either card's name. The [Five of Cups](/library/tarot-cards/five-of-cups/) is, in my notes, the heaviest card in the deck: losing, dark emotion, alone with your problems. And yet Smith drew two cups still standing behind the cloaked figure, and a bridge across the river. You see the minus and the plus in one glance.
+Because the lenses I teach read straight off the drawing. The yellow sky behind the Fool and the Magician says joy and will before you know either card's name. No card gets graver treatment in my notes than the [Five of Cups](/library/tarot-cards/five-of-cups/): sorrow over what's gone, and no company in it. And yet Smith drew two cups still standing behind the cloaked figure, and a bridge across the river. You see the minus and the plus in one glance.
 
 That's what a scene gives a beginner: something true to say before you've memorised anything.
 

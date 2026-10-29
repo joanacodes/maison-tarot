@@ -16,9 +16,9 @@ related:
 - /library/tarot-symbols/lily
 faq:
 - q: "Why is there a white rose on the Death card?"
-  a: "Death’s black banner carries a large white rose with five petals. I read it as what survives the ending: in my notes Death is linked to the harvest and to starting again, not to dying."
+  a: "Death’s black banner carries a large white rose with five petals. I read it as what survives the ending: my notes tie Death to harvest time and to beginning again, not to dying."
 - q: "What is the difference between red and white roses in tarot?"
-  a: "In my colour grid, red is passion, action and drive, and white is purity, innocence and peace. A red rose wants something; a white rose promises something. On the Magician, red roses grow beside white lilies: desire and clarity in the same garden."
+  a: "Red, in my grid, means passion, action and drive; white means purity, innocence and peace. A red rose wants something; a white rose promises something. On the Magician, red roses grow beside white lilies: desire and clarity in the same garden."
 gallery:
 - src: "visuals/sym-rose/1.jpg"
   title: "Given on purpose"
@@ -53,7 +53,7 @@ A rose is beauty you can hold, and it pricks you if you hold it carelessly. It�
 
 In the Rider-Waite-Smith, roses are red or white, and most of the meaning sits in that difference.
 
-## Where it appears in the deck {#where}
+## Who holds, grows and wears roses {#where}
 
 The Fool carries a small white rose in his raised hand as he walks towards the cliff. Innocence, held lightly.
 
@@ -73,9 +73,9 @@ On the Hierophant, the tonsured figure on the left wears a robe patterned with r
 
 When roses come up, look at the colour first, then at what’s being done with them. Held, on the Fool: an ideal you carry. Grown, on the Magician and the Queen of Pentacles: something cultivated, which takes work and gives back. Worn, on Strength: a bond made of tenderness. Flown on a flag, on Death: what you keep when everything else goes.
 
-Lenses: in [my colour grid](/library/tarot-colours/red/), red is passion, action, strength; [white](/library/tarot-colours/white/) is purity, innocence, peace. A red rose wants; a white rose promises.
+Lenses: [red](/library/tarot-colours/red/) brings passion, action and strength, [white](/library/tarot-colours/white/) purity, innocence and peace. A red rose wants; a white rose promises.
 
-Say someone draws Death next to the Queen of Pentacles. One white rose on a black flag, a whole bower of red ones over a throne. The reading might be: something is ending, and what you’ve grown with care is still there to come home to. In my notes Death isn’t about dying; it’s the harvest, and starting again.
+Say someone draws Death next to the Queen of Pentacles. One white rose on a black flag, a whole bower of red ones over a throne. The reading might be: something is ending, and what you’ve grown with care is still there to come home to.
 
 ## The other side {#flip-side}
 

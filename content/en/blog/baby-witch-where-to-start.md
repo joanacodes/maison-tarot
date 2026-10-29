@@ -21,7 +21,7 @@ A baby witch is a beginner in witchcraft: someone who has just started reading a
 
 Witchcraft itself is a broad word for practices — spells, rituals, working with plants, seasons, the elements, with or without gods — that aim to change something in the world or in yourself through intention. For some people it's a religion; for others it's a craft without any belief; for others still it's mostly an aesthetic.
 
-And a witch? My own definition, from my notes, is this: **a witch is a human being fully aware of their power, and not afraid to use it and be themselves.** By that definition, plenty of people are witches without a single candle in the house. I don't call myself one; I read cards. But it's a definition I'd happily hand to anyone starting out.
+And a witch? The way I put it, **a witch is anyone who knows exactly what power they hold, and isn't afraid either to use it or to be who they are.** By that definition, plenty of people are witches without a single candle in the house. I don't call myself one; I read cards. But it's a definition I'd happily hand to anyone starting out.
 
 ## Start with your senses, not a shopping list {#senses}
 
@@ -35,7 +35,7 @@ None of this means tools are bad. If a candle helps you sit down and focus, ligh
 
 These cost nothing, and they work whatever path you take next.
 
-1. A few minutes of meditation. Meditation is the art of doing literally nothing: letting go of control, letting things flow through your mind. It's hard, and the people who say they can't meditate are the ones who need it most. What I noticed when I started: sharper decisions, less self-doubt. Here's [meditation for people who think they can't](/blog/meditation-for-beginners/).
+1. A few minutes of meditation. Meditation is the art of doing literally nothing: letting go of control, letting things flow through your mind. It's hard, and whoever swears they can't meditate is usually the person who needs it most. What I noticed when I started: sharper decisions, less self-doubt. Here's [meditation for people who think they can't](/blog/meditation-for-beginners/).
 2. A working notebook. Many witches keep a book of shadows: a personal notebook of their practice — what they did, when, and what happened. My tarot notebook is the same idea: what I said on one side, what was confirmed on the other. Write down what didn't work too: a miss teaches you more than a hit.
 3. One card a day. Tarot isn't witchcraft — I've written about [the difference between the two](/blog/is-tarot-witchcraft/) — but a single card each morning is a good way to train your attention. Give it a full minute before you open any book.
 
@@ -51,9 +51,9 @@ Think of the Fool: light luggage, a lot of enthusiasm, free to create anywhere. 
 
 A few things I'd let wait:
 
-- Calling spirits. With spirits, you don't know who you're calling.
+- Calling spirits. When you call out, there's no way to tell who's listening.
 - Curses and hexes. I don't read on curses, and if someone tells you you're cursed and asks for money to lift it, that's [the oldest con in the trade](/blog/lift-the-curse-scam/), not a diagnosis.
-- Reading or working on people without asking them. You wouldn't want someone snooping in your bedroom; it's the same.
+- Reading or working on people without asking them. It's the equivalent of going through someone's bedroom while they're out.
 - Anyone who tells you they're one of the chosen few. Nobody is.
 
 ## Which witch are you? {#which-witch}

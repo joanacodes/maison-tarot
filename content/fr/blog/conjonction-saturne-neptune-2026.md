@@ -41,7 +41,7 @@ Alors, que voulait-elle dire ? Comme événement collectif, je ne sais pas. Comm
 
 ## Un test que vous pouvez encore faire {#test}
 
-Le bilan qui a du sens, c’est le vôtre, fait comme j’ai [testé mon thème astral, case par case](/fr/blog/j-ai-teste-mon-theme-astral/) :
+Le bilan qui a du sens, c’est le vôtre, avec la méthode que j’ai appliquée [à mon propre thème](/fr/blog/j-ai-teste-mon-theme-astral/), une position après l’autre :
 
 1. Retrouvez ce que vous avez écrit autour de février 2026 : un carnet, une application de notes, des messages à une amie.
 2. Listez ce que vous attendiez : une fin, un début, une désillusion, un rêve qui devient réel.

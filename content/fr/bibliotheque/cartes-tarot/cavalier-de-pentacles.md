@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/pekn.webp
 h1: Cavalier de Pentacles — <em>le Cavalier</em>, l’Air de terre
-lede: 'Avant de chercher ce que « signifie » Cavalier de Pentacles, regardez ce que
-  vous avez déjà : le Cavalier, l’élément Air de Terre. Vous lisez la carte. Le nombre
-  dit le Cavalier — l’action, la quête, l’excès ; l’élément dit la matière, ce qui
-  tient. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous
-  parle déjà — le reste de la page vous montre comment.'
+lede: 'Le cheval noir reste planté dans son champ labouré, et son cavalier en armure contemple le pentacle qu’il tient. Ce plan si bien vérifié, quand le mettra-t-il en marche ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre
@@ -30,7 +26,7 @@ faq:
 - q: 'Que signifie Cavalier de Pentacles ?'
   a: 'Un progrès lent et fiable : quelqu’un qui planifie, vérifie, et avance à son rythme. Le Cavalier est l’action et la Terre la matière : c’est une action sur laquelle on peut compter — le plus patient des quatre Cavaliers.'
 - q: 'Cavalier de Pentacles renversé, ça change quoi ?'
-  a: 'La même patience, freinée ou excessive. Freinée : le plan est vérifié tant de fois que le cheval ne bouge jamais. Excessive : la méthode tourne à l’entêtement, la routine à l’ornière, et la constance devient de l’immobilisme.'
+  a: 'Soit la patience ne démarre jamais — le plan vérifié tant de fois que le cheval reste sur place —, soit elle se fige : la méthode tourne à l’entêtement, la routine à l’ornière, et la constance devient de l’immobilisme.'
 - q: 'Que signifie le Cavalier de Pentacles en amour ?'
   a: 'Quelqu’un de stable et de loyal, qui montre son attachement en étant là plutôt que par de grands gestes. La carte demande si cette lenteur rassure, ou si elle commence à donner l’impression que rien ne bouge.'
 categories:
@@ -56,9 +52,9 @@ Le rang demande à un Cavalier de savoir où il va avant de partir, et celui-ci 
 
 ## Par l’élément : Terre {#element}
 
-Le Cavalier de Pentacles est Air de Terre : la famille est la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) — la matière, la valeur, le résultat du travail — et sa part à lui est l’[Air](/fr/bibliotheque/quatre-elements/element-air/) : la pensée, l’analyse, la décision. L’Air voit tout à la fois ; dans la Terre, il devient le plan, le calcul, la méthode. S’il regarde la pièce, c’est qu’il calcule ce qu’il va en faire.
+Le Cavalier de Pentacles est Air de Terre : la famille est la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) — la matière, la chose qu’on peut peser et récolter — et le rang lui apporte l’[Air](/fr/bibliotheque/quatre-elements/element-air/) : la pensée, l’analyse, la décision. L’Air voit tout à la fois ; dans la Terre, il devient le plan, le calcul, la méthode. S’il regarde la pièce, c’est qu’il calcule ce qu’il va en faire.
 
-Son énergie est masculine au sens où je l’entends — agir, construire, le tangible — dans sa version la plus patiente. La Terre lui donne l’endurance : il arrivera. Elle lui donne aussi son défaut classique, l’entêtement, et l’Air peut y ajouter le sien : l’esprit qui tourne en rond. Ensemble, au pire, le plan devient une raison de ne jamais partir.
+Il porte une énergie masculine, telle que je la définis — agir, construire, le tangible —, dans sa version la plus patiente. La Terre lui donne l’endurance : il arrivera. Elle lui donne aussi son défaut classique, l’entêtement, et l’Air peut y ajouter le sien : l’esprit qui tourne en rond. Ensemble, au pire, le plan devient une raison de ne jamais partir.
 
 ## Par les couleurs {#couleurs}
 
@@ -68,18 +64,18 @@ Le cheval est [noir](/fr/bibliotheque/couleurs-tarot/noir/) et occupe la moitié
 
 À l’endroit : un progrès lent et fiable. Un projet qui avance pas à pas, un engagement tenu, une routine qui fonctionne. En tant que personne : quelqu’un de constant, méthodique, loyal — le collègue à qui l’on confie le dossier parce qu’on sait qu’il sera bouclé. **Lent ne veut pas dire bloqué, tant que le cheval finit par faire un pas.**
 
-Renversé, sa patience ne démarre jamais, ou se fige. Freinée : le plan est vérifié si souvent qu’il ne démarre jamais ; la personne attend une certitude qui n’existe pas. Excessive : la méthode devient rigidité — le même trajet, la même façon, « parce qu’on a toujours fait comme ça » — et l’ami fiable devient celui qui ne bouge plus d’un pouce.
+Renversé, sa patience ne démarre jamais, ou se fige. Dans le premier cas, le plan est vérifié si souvent qu’il ne part jamais ; la personne attend une certitude qui n’existe pas. Dans le second, la méthode devient rigidité — le même trajet, la même façon, « parce qu’on a toujours fait comme ça » — et l’ami fiable devient celui qui ne bouge plus d’un pouce.
 
 À côté du [Cavalier d’Épées](/fr/bibliotheque/cartes-tarot/cavalier-de-epees/), deux vitesses à la fois : l’un charge, l’autre n’est pas parti — une équipe, ou deux voix dans la même tête. À côté du [Sept de Pentacles](/fr/bibliotheque/cartes-tarot/sept-de-pentacles/), un autre homme qui regarde ses pièces : la patience avant la récolte, deux fois. À côté du [Chariot](/fr/bibliotheque/cartes-tarot/le-chariot/), l’immobilité se change en mouvement, ou rencontre quelqu’un qui n’attendra pas.
 
 {{< cards "swkn pe07 ar07" >}}
 
-Si la question de fond porte sur l’argent — épargner, placer, dépenser —, la carte décrit un rythme, pas une réponse. Cette décision appartient à la personne, et j’explique pourquoi dans [ma façon de lire les Pentacles quand il est question d’argent](/fr/blog/tarot-et-argent/).
+Si la question de fond porte sur l’argent — épargner, placer, dépenser —, la carte décrit un rythme, pas une réponse. Cette décision appartient à la personne : [les cartes ne choisissent pas entre épargner et placer](/fr/blog/tarot-et-argent/), et je dis pourquoi.
 
 ## Exemple de tirage {#exemple}
 
-Imaginez un tirage où le Cavalier de Pentacles sort d’abord et le Huit de Bâtons ensuite, pour quelqu’un que vous ne connaissez pas. Cavalier puis huit : une action tenue en bride, puis la vitesse — ma note pour le Huit de Bâtons, ce sont des bâtons qui volent ou qui tombent, le verre à moitié plein ou à moitié vide. Terre puis Feu : un plan lent, puis des choses qui vont vite. Un cheval immobile, puis huit bâtons qui traversent un ciel dégagé.
+Imaginez un tirage où le Cavalier de Pentacles sort d’abord et le Huit de Bâtons ensuite, pour quelqu’un que vous ne connaissez pas. Cavalier puis huit : une action tenue en bride, puis la vitesse. Terre puis Feu : un plan lent, puis des choses qui vont vite. Un cheval immobile, puis huit bâtons qui traversent un ciel dégagé.
 
-À voix haute : « Vous êtes la personne prudente, et autour de vous les choses s’accélèrent d’un coup. Rien ne vous oblige à galoper. Mais vous allez peut-être devoir décider un peu plus vite que vous ne le voudriez. »
+Lent d’un côté, rapide de l’autre ; à la personne, je dirais : « Vous êtes la personne prudente, et autour de vous les choses s’accélèrent d’un coup. Rien ne vous oblige à galoper. Mais vous allez peut-être devoir décider un peu plus vite que vous ne le voudriez. »
 
-Puis vérifiez : « Est-ce que quelque chose autour de vous va plus vite que vous ? » Si rien ne s’accélère autour de la personne, c’est un raté, à dire et à noter.
+Puis vérifiez : « Est-ce que quelque chose autour de vous va plus vite que vous ? » Si rien ne s’accélère autour de la personne, la phrase tombe à plat, et cela se note aussi.

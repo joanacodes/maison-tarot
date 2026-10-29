@@ -35,7 +35,7 @@ The second is for the believer. Someone whose religion forbids witchcraft assume
 
 ## What I keep and what I dropped {#what-i-keep}
 
-I'll be honest about my own path. In 2021 I sold sage, candles and "channelled" cards. It was the aesthetic of the moment and I was in it. I stopped, not because I decided witchcraft was wrong — that's not my call — but because none of it improved a reading, and I'd started counting readings. The notebook didn't know the deck had been cleansed. The person across the table didn't know either.
+I'll be honest about my own path. In 2021 I was selling candles, sage and "channelled" cards. It was the aesthetic of the moment and I was in it. I stopped, not because I decided witchcraft was wrong — that's not my call — but because none of it improved a reading, and I'd started counting readings. The notebook didn't know the deck had been cleansed. The person across the table didn't know either.
 
 What I kept is the part that's testable: pictures, attention, honesty about misses. If that makes me a witch, the word has lost its meaning. If it makes me a reader, that's the word I use.
 

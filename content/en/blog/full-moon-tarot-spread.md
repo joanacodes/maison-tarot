@@ -9,7 +9,7 @@ tags: ["full moon tarot spread", "full moon tarot", "three card tarot spread", "
 image: "covers/full-moon-tarot-spread.jpg"
 imageAlt: "Three tarot cards in a row on a white paper napkin on a small café table, a cup of coffee at the edge"
 imagePrompt: "Three tarot cards laid in a row on a white paper napkin on a small café table, a cup of coffee at the edge of the frame. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "This full moon spread is three cards in a row, small enough for a café napkin. First card: what has come to light this month. Second: what you can put down. Third: what you keep. The full moon is when the whole face of the Moon is lit, so the spread asks what you can now see clearly — no candles, crystals or moonlit windowsill needed. Read each card through its number, element and colours before looking anything up, write one sentence per card, and reread the page at the next full moon."
+summary: "This full moon spread is three cards in a row, small enough for a café napkin. First card: what has come to light this month. Second: what you can put down. Third: what you keep. The full moon is when the whole face of the Moon is lit, so the spread asks what you can now see clearly — no candles, crystals or moonlit windowsill needed. Check each card’s number, element and colours first, write one sentence per card, and reread the page at the next full moon."
 ---
 The full moon spread I suggest is three cards in a row, small enough to fit on a café napkin: what has come to light, what you can put down, what you keep. No candle, no crystal, no windowsill. A deck, ten minutes and a pen.
 
@@ -31,7 +31,7 @@ Lay the cards left to right.
 
 Three cards, because three tell a small story and still fit on a napkin. A fourth would start to invite “one more, to clarify”, and [that extra card usually muddies the first three](/blog/the-clarifier-card/).
 
-**The spread has no future position, on purpose.** I read the future sometimes, but I'd rather look at the present: the best way to ensure an enjoyable future is to anchor ourselves in the present.
+**The spread has no future position, on purpose.** Now and then I do read ahead, but I'd rather look at the present: a future worth having grows out of a today you're properly standing in.
 
 ## How to lay it out {#how-to}
 
@@ -52,13 +52,13 @@ Say someone draws, left to right, the Eight of Swords, the Ten of Wands and the 
 
 {{< cards "sw08 wa10 pe09" >}}
 
-*What has come to light:* [the Eight of Swords](/library/tarot-cards/eight-of-swords/). A figure blindfolded and bound, eight swords planted around her, under a grey sky. Eight is control; grey is the colour of no particular will. In my notes it's the card of being a prisoner of yourself while you hold every tool — you can take off the blindfold. What's come to light: the trap was partly self-made, and the knots are loose.
+*What has come to light:* [the Eight of Swords](/library/tarot-cards/eight-of-swords/). A figure blindfolded and bound, eight swords planted around her, under a grey sky. Eight is control; grey is the colour of no particular will. My note on it: you are your own jailer, and you already have what you need to get free. What's come to light: the trap was partly self-made, and the knots are loose.
 
-*What can be put down:* the Ten of Wands. Someone bent under ten wands, walking towards a house. Ten is the corridor between two rooms; Fire is energy and drive. My note for this card: keep the creative energy, without overloading. What can rest: a few of those wands.
+*What can be put down:* the Ten of Wands. Someone bent under ten wands, walking towards a house. Ten is a threshold, one stage handing over to the next; Fire is energy and drive. My note for this card asks you to keep your creative fire going without piling on more. What can rest: a few of those wands.
 
-*What to keep:* [the Nine of Pentacles](/library/tarot-cards/nine-of-pentacles/). A woman in her garden among heavy vines, a bird on her gloved hand. Nine is the finish line; Earth is whatever has value for you. My note: enjoying what comes, gratitude for what you have. What to keep: the thing already built that nobody, including you, has stopped to enjoy.
+*What to keep:* [the Nine of Pentacles](/library/tarot-cards/nine-of-pentacles/). A woman in her garden among heavy vines, a bird on her gloved hand. Nine is the finish line; Earth is anything you value. My note: take pleasure in what arrives, and be grateful for what’s already yours. What to keep: the thing already built that nobody, including you, has stopped to enjoy.
 
-The sentence out loud might be: “You've seen that the knot was looser than it felt. You can set down some of the jobs you took on. And what you've already made deserves an evening of you enjoying it.” Then check it, with the person or with yourself: tick or cross.
+On the napkin, that becomes three short lines: “You've seen that the knot was looser than it felt. You can set down some of the jobs you took on. And what you've already made deserves an evening of you enjoying it.” Then score it, with the person or on your own: tick or cross.
 
 ## Once a month is plenty {#once-a-month}
 

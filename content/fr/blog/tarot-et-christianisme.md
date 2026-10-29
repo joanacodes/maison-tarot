@@ -51,11 +51,11 @@ Ce qu’il montre quand même, c’est qu’on vit rarement sa foi comme un règ
 
 ## Ma position, sans prêcher {#ma-position}
 
-Je ne suis pas théologienne, et je ne vous dirai pas ce que votre Église permet ; j’ai expliqué pourquoi dans [le tarot est-il un péché ?](/fr/blog/le-tarot-est-il-un-peche/), où je raconte aussi d’où je parle. Mon père prie dans un temple bouddhiste, je tire les cartes, et personne n’a jamais demandé à l’autre de choisir.
+Je ne suis pas théologienne, et je ne vous dirai pas ce que votre Église permet ; j’ai expliqué pourquoi en répondant à [la question du péché](/fr/blog/le-tarot-est-il-un-peche/), où je raconte aussi d’où je parle. Mon père prie dans un temple bouddhiste, je tire les cartes, et personne n’a jamais demandé à l’autre de choisir.
 
-Ce que je peux vous dire, c’est ce que je fais et ce que je ne fais pas. Je n’appelle aucun esprit, je ne promets rien, et je ne présente jamais une lecture comme un verdict. Je lis la situation de la personne en face de moi, et c’est elle qui décide : [le tarot n’est pas une autorité](/fr/avertissements/#lectures). Si la doctrine de votre Église vise la prétention à connaître l’avenir, c’est à vous et à ceux qui vous guident de dire si ma pratique en relève.
+Je peux en revanche vous décrire ma pratique, ce que j’y fais et ce que je n’y fais pas. Aucun esprit n’est invoqué à ma table, aucune promesse n’y est faite, et aucune lecture n’y sert de sentence. Je lis ce que traverse la personne qui me fait face, et c’est elle qui décide : [le tarot n’est pas une autorité](/fr/avertissements/#lectures). Si la doctrine de votre Église vise la prétention à connaître l’avenir, c’est à vous et à ceux qui vous guident de dire si ma pratique en relève.
 
-Si c’est vous qui tenez le jeu, le même respect vaut dans l’autre sens. Je demande toujours avant de lire quelqu’un, et je prendrais une hésitation pour un non. Un ami chrétien qui vous dit « je préfère pas » n’a pas besoin d’un exposé sur le symbolisme ou la psychologie ; il a besoin que vous rangiez les cartes et que vous serviez le thé.
+Si c’est vous qui tenez le jeu, le même respect vaut dans l’autre sens. Sans accord clair, je ne tire pas les cartes pour quelqu’un, et je prendrais une hésitation pour un non. Un ami chrétien qui vous dit « je préfère pas » n’a pas besoin d’un exposé sur le symbolisme ou la psychologie ; il a besoin que vous rangiez les cartes et que vous serviez le thé.
 
 **Une foi qui dit non mérite exactement le même respect qu’une curiosité qui dit oui.** Si votre Église vous demande de vous abstenir et que vous y tenez, c’est une raison suffisante, et vous n’avez rien à prouver à personne. Si les images vous intéressent sans que vous vouliez tirer, elles se regardent comme on regarde un vitrail : la page du [Hiérophante](/fr/bibliotheque/cartes-tarot/le-hierophante/) est un bon début.
 

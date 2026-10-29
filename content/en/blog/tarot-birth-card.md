@@ -64,13 +64,13 @@ Both are 2, and both sit between two pillars. In my [numerology table](/library/
 
 A sentence you could test on yourself: “You weigh things before you decide, and you know more than you say. The flip side: decisions kept behind a calm face for too long.”
 
-**Every card has a plus and a minus, and a birth card is no exception: read both before you decide it describes you.**
+**Like every card, a birth card cuts both ways: weigh what it offers and what it costs before you decide it describes you.**
 
 ## What to do with it {#what-to-do}
 
 - Put the two cards where you’ll see them for a week. Each day, describe what’s on them before you read anything about them.
 - Read each card through its number, element and colours, then its plus and its minus.
-- Tick or cross, line by line, the way I tested [my birth chart](/blog/i-tested-my-birth-chart/). Be as hard on the ticks as you’d be on a stranger’s.
+- Tick or cross, line by line, the way I tested [my birth chart](/blog/i-tested-my-birth-chart/). Give your own ticks the same scrutiny you’d give a stranger’s.
 - Use them as a way into the majors. Two cards known well teach you more than twenty-two skimmed — [the 22 major arcana](/blog/major-arcana/) are all on one page when you’re ready.
 
 What I’d avoid: using it as an explanation. “I’m a Tower, I can’t help it” is the birth-card version of “because I’m a Scorpio”.

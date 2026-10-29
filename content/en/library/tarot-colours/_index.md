@@ -20,17 +20,17 @@ faq:
 
 | Colour | What it says | Energy |
 | --- | --- | --- |
-| Red | Passion, action, strength, impulse | Masculine |
-| Orange | Creativity, dryness, libido | — |
-| Yellow | Joy, optimism, pride, the inner child, self-expression, will | — |
-| Green | Nature, growth, birth, life, prosperity | — |
-| Blue | Emotions, making pure, water, vitality | Feminine |
-| White | Purity, innocence, peace | — |
-| Black | Absence, energy absorbed, void, negative thoughts, emptying out, reality | — |
-| Grey | Neutrality, absence of will, stability | — |
-| Purple / fuchsia | The one chosen by a group | — |
+| Red | Action, passion | Masculine |
+| Orange | Creativity, libido | — |
+| Yellow | Joy, optimism, will | — |
+| Green | Growth, life | — |
+| Blue | Emotion, vitality | Feminine |
+| White | Purity, peace | — |
+| Black | Absence, reality | — |
+| Grey | Neutrality, stability | — |
+| Purple / fuchsia | An elected role | — |
 
-Each colour has its own page below, with the cards where it dominates and what it does there.
+Every colour gets a full page below: its whole keyword list, the cards where it dominates and what it does there.
 
 ## How to use this lens {#how}
 

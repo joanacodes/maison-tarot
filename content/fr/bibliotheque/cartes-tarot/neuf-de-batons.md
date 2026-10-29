@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/wa09.webp
 h1: Neuf de Bâtons — <em>neuf</em>, le Feu
-lede: 'Avant de chercher ce que « signifie » Neuf de Bâtons, regardez ce que vous
-  avez déjà : neuf, l’élément Feu, Lune en Sagittaire. Vous lisez la carte. Le nombre
-  dit neuf — l’aboutissement, presque au bout ; l’élément dit l’élan, ce qu’on lance.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'La tête bandée, un homme serre son bâton devant une palissade de huit autres et jette un regard en coin vers un ennemi absent. De quoi vous gardez-vous encore, si près de l’arrivée ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -53,7 +49,7 @@ Ce qui manque, c’est l’ennemi. Personne n’attaque, rien ne descend de la c
 
 Le [9](/fr/bibliotheque/numerologie/chiffre-9/), c’est la ligne d’arrivée en vue : les derniers efforts, la patience, un regard vers l’intérieur avant que le cycle se ferme — et on continue d’avancer. C’est exactement le dessin. Huit bâtons sont déjà plantés derrière lui, le neuvième est entre ses mains ; encore un, et la série est complète. Il ne commence rien : il tient, près de la fin.
 
-Le piège du 9, c’est de s’arrêter à cent mètres de l’arrivée — ou, ici, de monter la garde si longtemps qu’on en oublie de faire les derniers pas. Dans l’histoire d’Instagram, le 9, c’est la refonte autour des Reels : ce qui définissait l’application se termine, et la forme suivante n’est pas encore là. Le Neuf de Bâtons, c’est cet entre-deux, vécu dos à la palissade.
+Le piège du 9, c’est de s’arrêter à cent mètres de l’arrivée — ou, ici, de monter la garde si longtemps qu’on en oublie de faire les derniers pas. Instagram a traversé ce passage en se réorganisant autour des Reels : ce qui le définissait se termine, et la forme suivante n’est pas encore là. Le Neuf de Bâtons, c’est cet entre-deux, vécu dos à la palissade.
 
 ## Par l’élément : Feu {#element}
 
@@ -69,9 +65,9 @@ Le rouge rouille de la tunique garde la force et l’action de la famille, et le
 
 ## Par l’astrologie : Lune en Sagittaire {#astrologie}
 
-Dans la tradition Golden Dawn, cette carte correspond à la Lune en Sagittaire. La [Lune](/fr/bibliotheque/astrologie/lune/) parle pour le moi intime et son besoin de se sentir en sécurité. Le Sagittaire, c’est le voyageur qui veut tout essayer et aller voir. Mettez un besoin de sécurité chez quelqu’un fait pour partir, et vous obtenez cet homme. Chat échaudé craint l’eau froide : un esprit libre qui s’est brûlé une fois, et qui scrute l’horizon avant chaque pas.
+La Golden Dawn voit dans cette carte le décan de la Lune en Sagittaire. La [Lune](/fr/bibliotheque/astrologie/lune/) parle pour le moi intime et son besoin de se sentir en sécurité. Le Sagittaire, c’est le voyageur qui veut tout essayer et aller voir. Mettez un besoin de sécurité chez quelqu’un fait pour partir, et vous obtenez cet homme. Chat échaudé craint l’eau froide : un esprit libre qui s’est brûlé une fois, et qui scrute l’horizon avant chaque pas.
 
-Gardez cette clé si l’astrologie vous parle : elle ajoute le côté intime, la peur sous la garde. Laissez-la sinon ; le dessin le dit déjà.
+Pour qui lit avec l’astrologie, elle ajoute le côté intime, la peur sous la garde ; sans elle, le regard en coin de l’homme en dit déjà long.
 
 ## En lecture {#lecture}
 
@@ -87,6 +83,6 @@ Renversé, la vigilance tourne à la méfiance : chaque message lu comme une men
 
 Rien de vécu dans cet exemple : le Neuf de Bâtons, puis le [Deux de Coupes](/fr/bibliotheque/cartes-tarot/deux-de-coupes/). Du 9 au 2, la fin d’un long effort, puis un échange entre deux personnes ; du Feu à l’Eau, l’endurance, puis le sentiment ; et côté couleurs, un sol gris et un bandage blanc, puis deux personnages face à face, chacun tendant une coupe.
 
-La phrase que vous pourriez tenter : « Vous tenez quelque chose sans aide depuis longtemps, et on vous propose un échange. La question, c’est de savoir si vous pouvez poser un bâton pour prendre la coupe. »
+Bandage d’un côté, coupe tendue de l’autre : « Vous tenez quelque chose sans aide depuis longtemps, et on vous propose un échange. La question, c’est de savoir si vous pouvez poser un bâton pour prendre la coupe. »
 
-Puis vous vérifiez, sans insister : « Y a-t-il un endroit de votre vie où vous êtes encore sur vos gardes ? » Laissez-lui le choix des mots pour répondre. Si rien ne correspond, dites-le, et notez-le comme un raté.
+Une seule question ensuite, sans insister : « Y a-t-il un endroit de votre vie où vous êtes encore sur vos gardes ? » Laissez à la personne le choix des mots pour répondre. Si elle ne se méfie de rien, la palissade était dans votre lecture, pas dans sa vie : notez-le.

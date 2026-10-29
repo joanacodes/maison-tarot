@@ -27,11 +27,11 @@ La peur fait aussi lire trop vite. L’œil s’arrête au squelette et n’atte
 
 ## La Mort : une fin qui dégage le terrain {#la-mort}
 
-*13 → 1 + 3 = 4 · Eau · Scorpion · féminine.* Un squelette en armure noire monte un cheval blanc et porte une bannière noire frappée d’une rose blanche. Un roi est tombé, un évêque fait face au cavalier, un enfant lève les yeux — et à l’horizon, un soleil brille entre deux tours.
+*13 → 1 + 3 = 4 · Eau · Scorpion · féminine.* La Mort arrive à cheval, en armure, sa bannière à la rose blanche déployée. Devant elle, un roi est à terre, un évêque lui fait face, un enfant la regarde — et à l’arrière-plan, une aube point entre deux tours.
 
 Dans mes notes, [la Mort](/fr/bibliotheque/cartes-tarot/la-mort/) n’est pas forcément mauvaise et ne parle pas de mourir. Elle est liée à la récolte et au recommencement : quelqu’un sans but qui veut rendre sa vie fertile à nouveau. Treize se réduit à quatre, le nombre de la structure : la lame dégage une structure pour faire place à une autre. L’Eau et le Scorpion en font un changement émotionnel, ressenti en profondeur, pas une formalité — et le verbe du Scorpion est « je désire » : ce que vous voulez ensuite commence à pousser dans cette clairière.
 
-Une carte n’annonce ni un décès ni une maladie. Si vous vous inquiétez pour la santé de quelqu’un, c’est l’affaire d’un médecin, et c’est pour cela que je ne lis pas là-dessus. Ce dont la Mort parle, c’est de la fin d’un rôle, d’une habitude, d’une façon d’être ensemble — en amour, la fin d’une manière d’être avec quelqu’un, pas forcément de la relation ; au travail, un chapitre qui se ferme. La page de la lame va plus loin sur les deux. Renversée, ou entourée de cartes lourdes, c’est la fin qu’on retient : s’accrocher à ce qui est déjà terminé. Au tarot de Marseille, la lame ne porte même pas de nom, et [pourquoi elle n’en a pas](/fr/blog/arcane-sans-nom-tarot/) est une histoire à part entière.
+La Mort ne prévient d’aucun décès, d’aucune maladie. Si vous vous inquiétez pour la santé de quelqu’un, c’est l’affaire d’un médecin, et c’est pour cela que je ne lis pas là-dessus. Ce dont la Mort parle, c’est de la fin d’un rôle, d’une habitude, d’une façon d’être ensemble — en amour, la fin d’une manière d’être avec quelqu’un, pas forcément de la relation ; au travail, un chapitre qui se ferme. La page de la lame va plus loin sur les deux. Renversée, ou entourée de cartes lourdes, c’est la fin qu’on retient : s’accrocher à ce qui est déjà terminé. Au tarot de Marseille, la XIII reste d’ailleurs sans titre, et [pourquoi elle n’en a pas](/fr/blog/arcane-sans-nom-tarot/) est une histoire à part entière.
 
 ## La Tour : ce qui était bâti sur une fissure s’effondre {#la-tour}
 
@@ -39,7 +39,7 @@ Une carte n’annonce ni un décès ni une maladie. Si vous vous inquiétez pour
 
 [La Tour](/fr/bibliotheque/cartes-tarot/la-tour/) (la Maison Dieu à Marseille) est le changement soudain. Regardez ce que la foudre touche en premier : la couronne, ce qu’on avait posé au sommet. Souvent, c’est un faux-semblant, une fausse prémisse, un château de cartes qui avait l’air solide. Le Feu et Mars lui donnent sa vitesse — elle ne demande pas la permission.
 
-Seize se réduit à sept, et le conseil du sept est celui à garder ici : tout est temporaire, et votre situation, bonne ou mauvaise, va changer. Dans le jeu, la Tour est suivie de l’Étoile, et je ne crois pas que ce soit un hasard. La question utile n’est pas « pourquoi ça m’arrive ? » mais « qu’est-ce qui était fissuré, et ai-je envie de reconstruire la même tour sur le même rocher ? »
+Seize se réduit à sept, et le conseil du sept est celui à garder ici : rien ne dure, ni le pire ni le meilleur, et ce que vous vivez bougera. Dans le jeu, la Tour est suivie de l’Étoile, et je ne crois pas que ce soit un hasard. La question utile n’est pas « pourquoi ça m’arrive ? » mais « qu’est-ce qui était fissuré, et ai-je envie de reconstruire la même tour sur le même rocher ? »
 
 Imaginons qu’une personne ne me dise rien et tire la Tour à côté du Huit de Pentacles. Sept, puis huit ; le Feu, puis la Terre : après l’effondrement, on reconstruit à la main. Je dirais : « Quelque chose est tombé que vous aviez bâti sur un mauvais terrain, et vous êtes déjà en train de reconstruire — plus lentement, et mieux. » Puis je lui demanderais ce qui, là-dedans, lui parle.
 
@@ -55,13 +55,13 @@ Regardez maintenant les chaînes. Elles pendent lâchement autour des cous ; les
 
 *10 · Air · Soleil en Gémeaux · masculine.* Un homme gît face contre terre sous un ciel noir, dix épées dans le dos. Derrière lui, l’eau est calme, et l’horizon jaunit.
 
-Dix, c’est le passage entre deux étapes, le couloir entre deux pièces. [Le Dix d’Épées](/fr/bibliotheque/cartes-tarot/dix-de-epees/) est la dernière carte numérotée de sa famille : le pire est fait, on ne peut pas aller plus loin. L’Air, c’est la tête, et l’astrologie est d’accord : Soleil en Gémeaux, le signe dont le verbe est « je pense ». Le dessin montre exactement ce que fait la tête à trois heures du matin, une nuit blanche — dix épées là où une aurait suffi. C’est exagéré, et je crois que c’est exprès.
+Dix, c’est l’entre-deux, l’instant où une étape s’achève avant que l’autre ait commencé. [Le Dix d’Épées](/fr/bibliotheque/cartes-tarot/dix-de-epees/) est la dernière carte numérotée de sa famille : le pire est fait, on ne peut pas aller plus loin. L’Air, c’est la tête, et l’astrologie est d’accord : Soleil en Gémeaux, le signe dont le verbe est « je pense ». Le dessin montre exactement ce que fait la tête à trois heures du matin, une nuit blanche — dix épées là où une aurait suffi. C’est exagéré, et je crois que c’est exprès.
 
 Puis les couleurs : du noir en haut, du jaune à l’horizon. Dans ma grille, le jaune, c’est la joie et l’optimisme. L’aube est déjà dans l’image. Renversée, la carte, c’est se relever — lentement, les épées encore plantées, mais debout — ou parfois rester à terre plus longtemps que nécessaire.
 
 ## Les autres lames qui inquiètent {#les-autres}
 
-Quelques autres rendent nerveux, et chacune a son autre face. Le Trois d’Épées, c’est le cœur brisé — et, dans mes notes, aussi un pacte de sang : trois lames, un cœur, une promesse scellée, parfois dans la douleur. Le Neuf d’Épées montre quelqu’un assis dans son lit, la nuit ; je le lis comme la sortie d’un cauchemar, d’une longue période agitée, avec une protection au-dessus de soi. Le Cinq de Coupes est pour moi la lame la plus lourde du jeu — la perte, et la solitude face à elle —, et pourtant deux coupes tiennent encore debout derrière la silhouette. Le Huit d’Épées, c’est une prisonnière d’elle-même qui tient tous les outils : elle peut retirer le bandeau. Et la Lune, c’est l’incertitude, où le danger est de prendre une peur pour un fait.
+Quelques autres rendent nerveux, et chacune a son autre face. Le Trois d’Épées, c’est le cœur brisé — et, dans mes notes, aussi un pacte de sang : trois lames, un cœur, une promesse scellée, parfois dans la douleur. Le Neuf d’Épées montre quelqu’un assis dans son lit, la nuit ; je le lis comme un réveil après un mauvais rêve, au bout d’une longue période agitée, sous une protection qui veille d’en haut. Aucune carte du jeu ne pèse autant, pour moi, que le Cinq de Coupes — la perte, et la solitude face à elle —, et pourtant deux coupes tiennent encore debout derrière la silhouette. Dans le Huit d’Épées, une femme se tient captive d’elle-même, avec tout ce qu’il faut pour s’en sortir : le bandeau peut tomber. Et la Lune, c’est l’incertitude, où le danger est de prendre une peur pour un fait.
 
 {{< cards "sw03 sw09 cu05 sw08 ar18" >}}
 

@@ -9,7 +9,7 @@ tags: ["Three of Swords love", "Three of Swords relationship", "Three of Swords 
 image: "covers/three-of-swords-tarot-love.jpg"
 imageAlt: "The Three of Swords card from the Rider-Waite-Smith deck lying face up on a plain wooden table."
 imagePrompt: "The Three of Swords card from the 1909 Rider-Waite-Smith deck lying upright on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, the card in its original colours, warm natural colours around it that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "In love, the Three of Swords is heartbreak: a red heart, three blades, rain. It says something hurts — a word, a loss, a truth — without saying who did what or what happens next. Read through its lenses, three is the number of a bond that works and of betrayal, Air is the mind and the words that cut, and the rain is the only water in the picture. In my notes it can also be a blood pact: a bond sealed through pain. What helps is letting it rain, saying it out loud, and not deciding in the storm."
+summary: "In love, the Three of Swords is heartbreak: a red heart, three blades, rain. It says something hurts — a word, a loss, a truth — without saying who did what or what happens next. Read through its lenses, three stands for a bond that works and for betrayal, Air is the mind and the words that cut, and the rain is the only water in the picture. It can also be read, in my notes, as a blood pact: a bond sealed through pain. What helps is letting it rain, saying it out loud, and not deciding in the storm."
 ---
 The Three of Swords is heartbreak drawn as plainly as a card can draw it: a heart, three blades, rain. It doesn’t say who did what, or what happens next. It says something hurts, and that the hurt deserves to be looked at rather than rushed.
 
@@ -17,15 +17,15 @@ The Three of Swords is heartbreak drawn as plainly as a card can draw it: a hear
 
 ## A bond, a word that cut, and rain {#bond-word-rain}
 
-Three, in my notes, is a good rhythm: the machine running, a contract that works. Its minus is solitude and betrayal. In love, the Three of Swords sits right on that line — a bond that was working, and something that cut into it.
+Three, in my notes, is a good rhythm, things running smoothly, an agreement that works. Its minus is solitude and betrayal. In love, the Three of Swords sits right on that line — a bond that was working, and something that cut into it.
 
 The element is Air: the mind, decisions, words, including the viper’s tongue. This heart wasn’t hit by a stone; it was cut by something sharp and precise, very often a sentence, said or read. The energy is masculine, and masculine speech, in my notes, is direct and fast, and can be brutal enough to close people off. That’s how a single remark ends up lodged in someone for months.
 
-One detail of the drawing matters for love: the rain, the only water in a card of Air. Tears, in other words. If astrology speaks to you, the card is Saturn in Libra, a hard lesson about fairness between two people; Saturn was one of the placements that held 75 to 90% when [I tested my own chart](/blog/i-tested-my-birth-chart/). The other lenses are on [the card’s own page](/library/tarot-cards/three-of-swords/).
+One detail of the drawing matters for love: the rain, the only water in a card of Air. Tears, in other words. In astrology, the card is Saturn in Libra, a hard lesson about fairness between two people; Saturn was one of the placements that held 75 to 90% when [I tested my own chart](/blog/i-tested-my-birth-chart/). Its colours are read on [the Three of Swords page](/library/tarot-cards/three-of-swords/).
 
 ## The blood pact {#blood-pact}
 
-Beside this card, in my notes, I wrote one more line: **the Three of Swords is also a blood pact.** Three blades through one heart, sealed.
+My notes add one more line beside this card, and it matters in love: **three blades in one heart can also be a pledge, signed in blood.**
 
 In love, that can be two people who went through something hard together — a loss, a family crisis, a year when everything went wrong — and came out more tightly bound for it. The hurt was real, and so is what it made between them.
 
@@ -45,7 +45,7 @@ Reversed, it’s the hurt held in: no rain, no words, “I’m fine”. Or the w
 
 This is the question people bring to the Three of Swords most often, in one form or another: did they ever love me, is there someone else, was any of it real? It comes from the rawest part of a heartbreak, and it deserves a gentle answer.
 
-It’s a question I keep away from the cards, for a few reasons. The other person isn’t in the room and hasn’t agreed to be read. You wouldn’t want someone snooping in your bedroom; reading someone without their consent is much the same. And a card asked about someone else’s heart answers with your fear, so you leave with the same hurt and a picture to go with it.
+It’s a question I keep away from the cards, for a few reasons. The other person has no voice in this reading and hasn’t agreed to it, and [reading people behind their backs](/blog/reading-tarot-about-someone-else/) isn’t something I do. And a card asked about someone else’s heart answers with your fear, so you leave with the same hurt and a picture to go with it.
 
 A gentler question: “What hurt me, and what do I need to say about it?” If something doesn’t add up, the place for it is a conversation with them, or with a friend who knows you both — not a spread.
 
@@ -60,7 +60,7 @@ Not a cure, and no promises. What tends to help, and the cards that show it:
 3. Rest, the way the Four of Swords does: lie down, put the blades on the wall for a while.
 4. Don’t decide in the storm. Sending, blocking, moving out, forgiving — most of it can wait a week.
 5. Let the pact be a kind one. Next to the Two of Cups, the Three of Swords is two people closer because they went through the hurt together, not around it; [the Two of Cups in love](/blog/two-of-cups-tarot-love/) is about keeping that bond level.
-6. If the hurt stays as sharp for weeks, or starts to take over your days, that’s a door for a therapist or a doctor, not for a deck. I’ve written about [what the cards can hold in grief](/blog/tarot-for-grief/), and when you need a person.
+6. If the hurt stays as sharp for weeks, or starts to take over your days, that’s a door for a therapist or a doctor, not for a deck. I’ve written about [reading cards while you grieve](/blog/tarot-for-grief/), and about the moment a person will help more than a spread.
 
 ## While it’s still raining, one small thing {#small-thing}
 

@@ -8,7 +8,7 @@ lede: "How I read, how I counted, what doesn’t work and when I stop: the whole
 navTitle: "Method"
 ---
 {{< short-answer >}}
-Three hundred times, for free, for strangers who told me nothing, I drew the cards expecting to talk nonsense. By my count it was accurate about nine times in ten — often with specific details, sometimes completely off. I publish both. I don’t know why it works. I know under which conditions it works better, and that’s what I teach.
+Three hundred times, for free, I drew the cards for a stranger who had said nothing, expecting to talk nonsense. By my count it was accurate about nine times in ten — often with specific details, sometimes completely off. I publish both. I don’t know why it works. I know under which conditions it works better, and that’s what I teach.
 {{< /short-answer >}}
 
 {{< ledger >}}
@@ -41,9 +41,9 @@ A reading shows where you stand emotionally on the day it happens, and a decisio
 
 Pressure, mine or the other person’s. Sometimes nothing comes at all: I’m pushing too hard, or the person is afraid of what they might hear. Fear in general works against reading, because reading asks you to open up and fear makes you close and shrink. The less I feed my imagination with frightening things, the easier reading gets.
 
-Reading someone who hasn’t asked. A person who doesn’t know they’re being read isn’t open, so you get half a sentence and build a whole statement on it. That’s one of the reasons [I don’t read third parties](/disclaimers/#refusals).
+Reading someone who hasn’t asked. Someone unaware of the reading stays closed, so you pick up scraps and stretch them into conclusions. It’s part of why [I don’t read third parties](/disclaimers/#refusals).
 
-And objects. In 2021 I sold sage, candles and “channelled” cards, then stopped, because none of it made a reading better; [the whole story](/blog/cleanse-tarot-deck/) has its own page.
+And objects. Sage, candles, “channelled” cards: I sold them in 2021, then stopped, because none of it made a reading better; [the whole story](/blog/cleanse-tarot-deck/) has its own page.
 
 ## Why do I sometimes stop? {#stopping}
 

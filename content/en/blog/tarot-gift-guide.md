@@ -17,9 +17,9 @@ The best tarot gift for a beginner is a Rider-Waite-Smith deck with the original
 
 Five things, in order of usefulness.
 
-1. *A Rider-Waite-Smith deck.* The 1909 deck drawn by Pamela Colman Smith, where every card, the numbered ones included, has a scene. Look for the original drawings on the box or in the description; several editions exist, with different colouring and card sizes, and I compare a few in [my shortlist of decks for beginners](/blog/best-tarot-decks/). Size matters more than people think: pocket and tin editions suit small hands and handbags, larger cards suit tired eyes.
+1. *A deck with Pamela Colman Smith’s drawings.* That’s the 1909 Rider-Waite-Smith, where every card, the numbered ones included, has a scene. Look for the original drawings on the box or in the description; several editions exist, with different colouring and card sizes, and I compare a few in [my shortlist of decks for beginners](/blog/best-tarot-decks/). Size matters more than people think: pocket and tin editions suit small hands and handbags, larger cards suit tired eyes.
 2. *A notebook.* Plain, sturdy, one that opens flat on a table. It becomes the most useful object in the kit: what I said on the left, what the person confirmed on the right. I explain how in [keeping a reading notebook](/blog/tarot-journal/).
-3. *One good book, if they like books.* Not five. The ones I recommend are in [what books give you, and what only practice can](/blog/learn-tarot-from-a-book/). If they’re curious about astrology too, *The Only Astrology Book You’ll Ever Need* by Joanna Martine Woolfolk is the one I hand people.
+3. *One good book, if they like books.* Not five. The ones I recommend are in [what books give you, and what only practice can](/blog/learn-tarot-from-a-book/). If they’re curious about astrology too, add Joanna Martine Woolfolk’s guide, *The Only Astrology Book You’ll Ever Need*: it’s the one I hand people.
 4. *Something to lay the cards on, and something to keep them in.* A plain cotton cloth or a clean tea towel keeps cards off a sticky table; a small box or pouch keeps a deck together in a bag. Practical, not magical.
 5. *Time together.* Offer to be their first person to read for. Sit down, tell them nothing, and let them try one card on you. It costs nothing and it’s the gift they’ll remember.
 
@@ -49,8 +49,8 @@ Yes, and some people would love it to happen that way. There’s an old belief t
 
 My own first deck came this way. Friends picked it off my wishlist for Christmas 2020; I was expecting an astrology book. I started reading the day after.
 
-That’s the one thing I’d keep from the old belief: give a deck to someone who has asked for one, or hinted. A deck someone wanted is a beginning. A deck nobody asked for is an object on a shelf.
+That’s the one thing I’d keep from the old belief: give a deck only to someone who has asked for one, or dropped a hint. Wished for, it gets used; unasked for, it tends to gather dust.
 
 ## A note to put in the parcel {#the-note}
 
-Write one suggestion on the gift tag: “Draw one card tomorrow morning and describe what you see before you look anything up.” That’s a better start than any ritual, and the first week with a deck can follow the plan in [how to get to know a new tarot deck](/blog/new-tarot-deck/).
+Write one suggestion on the gift tag: “Draw one card tomorrow morning and describe what you see before you look anything up.” That’s a better start than any ritual, and the rest of that first week can follow [the getting-acquainted plan I use](/blog/new-tarot-deck/).

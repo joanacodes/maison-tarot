@@ -17,15 +17,15 @@ En amour, le Jugement est un second regard : sur une relation terminée, sur une
 
 ## Relire le contrat, à voix haute {#relire-le-contrat}
 
-Le Jugement porte le 20, et 2 + 0 = [2](/fr/bibliotheque/numerologie/chiffre-2/) : le chiffre du contrat — deux parties, un lien, une pesée. Son conseil, dans mes notes : lire le contrat, peser le pour et le contre. Son moins : l’entêtement et l’ego. En amour, c’est exactement ce qu’est un second regard : relire l’accord que vous avez passé avec quelqu’un, à voix haute cette fois, et repérer les clauses que vous gardez par fierté.
+Le Jugement porte le 20, et 2 + 0 = [2](/fr/bibliotheque/numerologie/chiffre-2/) : le chiffre du contrat — deux parties, un lien, une pesée. Dans mes notes, le 2 conseille d’examiner les clauses et de mettre en balance ce que chacun y gagne et y perd. Son moins : l’entêtement et l’ego. En amour, c’est exactement ce qu’est un second regard : relire l’accord que vous avez passé avec quelqu’un, à voix haute cette fois, et repérer les clauses que vous gardez par fierté.
 
 L’élément est le Feu : l’élan qui lance les choses et qui fait place nette. En amour, un second regard ne reste pas longtemps une pensée ; il veut bouger — une conversation, une décision, une porte qu’on ouvre ou qu’on ferme. L’énergie est masculine : se montrer, le dire.
 
-Un détail du dessin compte : personne, sur cette carte, n’est puni. Tout le monde répond. Pluton et les couleurs sont sur [la page du Jugement](/fr/bibliotheque/cartes-tarot/le-jugement/).
+Regardez les silhouettes : personne, sur cette carte, n’est puni. Tout le monde répond. Pluton et les couleurs sont sur [la page du Jugement](/fr/bibliotheque/cartes-tarot/le-jugement/).
 
 ## L’appel qu’on n’entend pas, ou qu’on n’entend plus que lui {#inverse}
 
-Chaque carte a un plus et un moins, et le Jugement les tient à parts égales. Son plus, c’est la clarté : vous voyez enfin toute l’histoire. Son moins, c’est le procès qui ne finit jamais, celui où l’on continue de juger bien après qu’il n’y a plus rien à apprendre. À l’envers, la lame penche vers l’un des deux extrêmes.
+Aucune lame n’est toute bonne ou toute mauvaise, et le Jugement pèse les deux côtés à parts égales. Son plus, c’est la clarté : vous voyez enfin toute l’histoire. Son moins, c’est le procès qui ne finit jamais, celui où l’on continue de juger bien après qu’il n’y a plus rien à apprendre. À l’envers, la lame penche vers l’un des deux extrêmes.
 
 Pas entendu : vous repoussez sans cesse le bilan — la même dispute, le même doute, et personne ne s’arrête pour regarder. Entendu trop fort : vous rejouez le passé en boucle, en vous jugeant vous-même ou en jugeant l’autre, sans jamais refermer le dossier. Le premier cas demande une conversation ; le second, un point final. Dans les deux, la lame parle de votre part, pas de celle de l’autre.
 
@@ -37,7 +37,7 @@ Si vous êtes en couple, c’est un bilan — une conversation sur où vous en �
 
 Après une rupture, le Jugement, c’est le moment de comprendre plutôt que d’accuser — vous y compris. Quel était le contrat, qui a tenu quelle part, qu’avez-vous appris ? Les réponses vous appartiennent, que quelqu’un revienne ou non.
 
-Imaginez quelqu’un qui s’assied, ne vous dit rien, et tire le Jugement. Lisez les clés avant toute signification : deux, donc un lien et une pesée ; le Feu, donc de l’énergie, quelque chose qui veut bouger ; les bras ouverts des silhouettes, donc une réponse plutôt qu’une punition. La phrase à dire à voix haute pourrait être : « Il y a une relation que vous regardez à nouveau, et cette fois, vous la regardez les yeux ouverts. » Puis taisez-vous, et laissez la personne dire si cela tombe juste — et de quelle relation il s’agit. Ce n’est pas forcément une histoire d’amour.
+Prenons une lecture sans contexte où le Jugement tombe en premier. Lisez les clés avant toute signification : deux, donc un lien et une pesée ; le Feu, donc de l’énergie, quelque chose qui veut bouger ; les bras ouverts des silhouettes, donc une réponse plutôt qu’une punition. Assemblées, ces clés donnent à peu près : « Il y a une relation que vous regardez à nouveau, et cette fois, vous la regardez les yeux ouverts. » Puis taisez-vous, et laissez la personne dire si cela tombe juste — et de quelle relation il s’agit. Ce n’est pas forcément une histoire d’amour.
 
 ## « Je lui laisse une seconde chance ? » {#seconde-chance}
 

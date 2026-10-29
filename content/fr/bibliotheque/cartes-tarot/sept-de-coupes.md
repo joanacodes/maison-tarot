@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/cu07.webp
 h1: Sept de Coupes — <em>sept</em>, l’Eau
-lede: 'Avant de chercher ce que « signifie » Sept de Coupes, regardez ce que vous
-  avez déjà : sept, l’élément Eau, Vénus en Scorpion. Vous lisez la carte. Le nombre
-  dit sept — le doute, l’évaluation, la patience ; l’élément dit les émotions, ce
-  qui circule. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte
-  vous parle déjà — le reste de la page vous montre comment.'
+lede: 'Vue de dos, une silhouette noire fait face à sept coupes flottant sur des nuages, chacune chargée d’une vision — bijoux, dragon, serpent, couronne. Laquelle tient vraiment debout ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-eau
@@ -51,7 +47,7 @@ Les coupes ne reposent sur rien. Elles flottent sur les nuages, dans un ciel ble
 
 Le 7, c’est l’analyse : on regarde ce qu’on a avant d’agir. C’est la négociation, la réflexion, la récolte qu’on pèse. Dans mes notes, le Sept de Coupes, c’est l’indécision — trop de choix —, autrement dit ce à quoi ressemble le 7 quand l’analyse ne s’arrête jamais.
 
-Le conseil du [chiffre 7](/fr/bibliotheque/numerologie/chiffre-7/) est celui dont cette carte a le plus besoin : tout est temporaire, et la situation dans laquelle vous êtes bougera quoi que vous fassiez. Ne pas choisir, c’est aussi choisir ; c’est laisser le temps décider à votre place. Dans l’histoire d’Instagram, le 7, c’est la table de négociation où l’entreprise a décidé de ce qu’elle deviendrait — une plateforme publicitaire, parmi toutes les versions possibles d’elle-même.
+Le conseil du [chiffre 7](/fr/bibliotheque/numerologie/chiffre-7/) est celui dont cette carte a le plus besoin : tout est temporaire, et la situation dans laquelle vous êtes bougera quoi que vous fassiez. Ne pas choisir, c’est aussi choisir ; c’est laisser le temps décider à votre place. Au septième stade de son histoire, Instagram a dû choisir ce qu’il deviendrait — une plateforme publicitaire, parmi toutes les versions possibles de lui-même.
 
 ## Par l’élément : Eau {#element}
 
@@ -63,19 +59,19 @@ C’est l’Eau sans lit de rivière : des émotions qui n’ont pas encore trou
 
 Le ciel bleu pâle, ce sont encore les émotions, et le [gris](/fr/bibliotheque/couleurs-tarot/gris/) des nuages, la neutralité, aucune volonté particulière — exactement le problème de cet homme. Les coupes sont dorées : la valeur, ou ce qui en a l’air. L’homme, lui, est [noir](/fr/bibliotheque/couleurs-tarot/noir/) de la tête aux pieds : l’absence, le vide, mais aussi la réalité. C’est la seule chose réelle de l’image, et il n’a aucune couleur.
 
-Puis les petites touches vives : la lueur rouge autour de la silhouette voilée (la passion, l’élan), la couronne verte (la croissance, le succès), les bijoux éclatants. Lisez les couleurs avant la carte : beaucoup de couleur sur les nuages, aucune sur la personne.
+Puis les petites touches vives : la lueur rouge autour de la silhouette voilée (la passion, l’élan), la couronne verte (la croissance, le succès), les bijoux éclatants. Toute la couleur est sur les nuages ; il n’en reste aucune pour la personne.
 
 ## Par l’astrologie : Vénus en Scorpion {#astrologie}
 
-Dans la tradition Golden Dawn, le Sept de Coupes correspond au troisième décan du Scorpion, gouverné par Vénus. [Vénus](/fr/bibliotheque/astrologie/venus/), c’est l’envie et l’attirance ; le [Scorpion](/fr/bibliotheque/astrologie/scorpion/), c’est *Je désire*. Ensemble : le désir au carré — vouloir, vouloir encore, et tout s’imaginer avant que quoi que ce soit n’arrive.
+Vénus gouverne le troisième décan du Scorpion, et ce décan est celui du Sept de Coupes. [Vénus](/fr/bibliotheque/astrologie/venus/), c’est l’envie et l’attirance ; le [Scorpion](/fr/bibliotheque/astrologie/scorpion/), c’est *Je désire*. Ensemble : le désir au carré — vouloir, vouloir encore, et tout s’imaginer avant que quoi que ce soit n’arrive.
 
-Si l’astrologie fait partie de vos clés de lecture, elle colle de près à la carte. Sinon, la silhouette sombre face à ses visions l’a déjà dit.
+Pour qui lit les astres, l’accord est frappant. Les autres n’y perdent rien : la silhouette sombre face à ses visions l’a déjà dit.
 
 ## En lecture {#lecture}
 
 À l’endroit, **le Sept de Coupes, c’est trop de choix, et aucun encore les pieds sur terre.** Plusieurs options, plusieurs envies, des rêveries, des projets qui vivent mieux dans la tête que dans la vie. Parfois, l’une des coupes est une vraie occasion ; la carte vous demande de dire laquelle.
 
-Renversé, le Sept de Coupes voit les nuages se dissiper. Soit la personne voit enfin quelle coupe compte et laisse les autres — une décision approche. Soit, en version ralentie, le choix fait si peur qu’elle se fige, ou qu’elle prend la coupe la plus brillante pour ne plus y penser.
+Renversé, le Sept de Coupes voit les nuages se dissiper. Soit la personne voit enfin quelle coupe compte et laisse les autres — une décision approche. Soit le choix fait si peur qu’elle se fige, ou qu’elle prend la coupe la plus brillante pour ne plus y penser.
 
 À côté du [Deux d’Épées](/fr/bibliotheque/cartes-tarot/deux-de-epees/), l’indécision est dans la tête autant que dans le cœur : un bandeau, des épées croisées, personne ne bouge. À côté de [la Lune](/fr/bibliotheque/cartes-tarot/la-lune/), l’illusion redouble ; vérifiez avant de croire. À côté du [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/), la personne cesse de fixer les sept coupes et s’en va chercher autre chose.
 
@@ -85,6 +81,6 @@ Renversé, le Sept de Coupes voit les nuages se dissiper. Soit la personne voit 
 
 Disposez en pensée le Sept de Coupes, puis l’[As d’Épées](/fr/bibliotheque/cartes-tarot/as-de-epees/). Sept puis un : une longue évaluation, puis un début. L’Eau puis l’Air : des envies, puis une décision nette. Les couleurs : les coupes sur leurs nuages gris, puis une seule épée dressée, tenue par une main sortie d’un nuage, une couronne à la pointe.
 
-La phrase que je dirais à voix haute : « Vous gardez trop d’options en tête depuis un moment, et l’une d’elles va bientôt s’imposer. Il faudra laisser partir les autres. »
+Les sept visions, puis l’épée unique ; je dirais : « Vous gardez trop d’options en tête depuis un moment, et l’une d’elles va bientôt s’imposer. Il faudra laisser partir les autres. »
 
-Pour vérifier, je demande : « Entre combien de choses hésitez-vous en ce moment ? » Si la personne rit et donne un chiffre, ça tient. Si elle me dit que sa vie est plutôt calme, c’est un raté, et je le note.
+Puis, pour vérifier : « Entre combien de choses hésitez-vous en ce moment ? » Si la personne rit et donne un chiffre, ça tient. Si elle me dit que sa vie est plutôt calme, les sept coupes n’étaient pas les siennes, et je le note.

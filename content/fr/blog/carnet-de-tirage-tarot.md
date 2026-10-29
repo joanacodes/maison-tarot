@@ -1,6 +1,6 @@
 ---
 title: "Carnet de tirages : tenir un journal de tarot qui vous fait vraiment progresser"
-description: "Un carnet de tirages qui vous fait progresser tient en deux colonnes : ce que vous avez dit, ce qui a été confirmé. Les remplir, compter, noter la carte du jour."
+description: "Un carnet de tirages qui vous fait progresser tient en deux colonnes : vos paroles d’un côté, les confirmations de l’autre. Les remplir, compter, noter la carte du jour."
 translationKey: "post-tarot-journal"
 type: blog
 date: 2026-10-24
@@ -11,7 +11,7 @@ imageAlt: "Un cahier ouvert avec un trait de crayon au milieu de la page, deux c
 imagePrompt: "An open paper notebook on a wooden table with a pencil line ruled down the middle of the page, a pencil and two tarot cards lying beside it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Un carnet de tirages qui vous fait progresser tient en deux colonnes. À gauche, ce que vous avez dit pendant la lecture, écrit avant d’entendre la réponse. À droite, ce que la personne a confirmé, avec ses mots à elle. En dessous, une seule marque : juste ou raté, sans troisième case. Toutes les dix lectures, comptez et regardez ce que vos ratés ont en commun. Les deux mêmes colonnes servent pour la carte du jour : la note du matin à gauche, la journée réelle à droite. C’est le décompte qui transforme l’entraînement en progrès."
 ---
-Un carnet de tirages qui vous fait progresser tient en deux colonnes : ce que j’ai dit, ce qui a été confirmé. C’est toute la méthode. Les croquis, les couleurs, les mises en page soignées sont les bienvenus, mais ils ne vous apprennent rien. Les deux colonnes, si : elles vous permettent de compter.
+Un carnet de tirages qui vous fait progresser tient en deux colonnes : vos paroles pendant la lecture, et ce que la personne en a reconnu ensuite. C’est toute la méthode. Les croquis, les couleurs, les mises en page soignées sont les bienvenus, mais ils ne vous apprennent rien. Les deux colonnes, si : elles vous permettent de compter.
 
 ## Que noter dans un carnet de tirages {#deux-colonnes}
 
@@ -31,15 +31,15 @@ Sous chaque lecture, une marque : juste, ou raté.
 
 Cochez « juste » quand la personne reconnaît sa situation, par une réaction visible pendant que vous parlez ou par une confirmation après coup. Cochez « raté » quand rien ne tombe, ou quand la personne le dit. Il n’y a pas de troisième case. Dès que vous ajoutez « en partie » ou « on verra », tous les ratés glissent dedans et le décompte ne veut plus rien dire.
 
-Un raté se note aussi sobrement qu’une lecture juste. À gauche : « un déménagement, des cartons, une autre ville ». À droite : « Non, rien de tout ça. » Marque : raté. C’est la ligne la plus utile de la page.
+Un raté se note aussi sobrement qu’une lecture juste. À gauche : « un déménagement, des cartons, une autre ville ». À droite : « Aucun déménagement en vue. » Marque : raté. C’est la ligne la plus utile de la page.
 
 Notez la marque le soir même, tant qu’un raté pique encore. Puis laissez un peu de place dans la colonne de droite, parce que la confirmation arrive parfois quelques jours plus tard. Si c’est le cas, ajoutez-la avec sa date.
 
-Toutes les dix lectures, comptez. Pas pour vous noter, mais pour voir ce que vos ratés ont en commun : un sujet, une heure, une longue soirée. Il m’arrive de m’arrêter au bout de deux heures de tirages, par prudence, et c’est le carnet qui vous montre votre propre limite.
+Toutes les dix lectures, comptez. Pas pour vous noter, mais pour voir ce que vos ratés ont en commun : un sujet, une heure, une longue soirée. Moi, passé deux heures de lectures, je pose parfois le jeu par précaution ; votre limite à vous, c’est le carnet qui vous la fera voir.
 
 ## Ce que dit mon carnet {#mon-carnet}
 
-J’ai tenu ce carnet pendant environ trois cents lectures à l’aveugle, gratuites, pour des inconnus, et à mon décompte, à peu près neuf sur dix étaient justes et une sur dix ratée. [Le décompte complet, et ce qu’il ne prouve pas](/fr/blog/le-tarot-marche-t-il-300-tirages/), a sa propre page.
+J’ai tenu ce carnet pendant environ trois cents lectures à l’aveugle, gratuites, pour des inconnus, et à mon décompte, à peu près neuf sur dix étaient justes et une sur dix ratée. Pour les chiffres et leurs limites, voyez [le décompte complet, et ce qu’il ne prouve pas](/fr/blog/le-tarot-marche-t-il-300-tirages/).
 
 Ce n’est pas le pourcentage qui m’a changée. Ce sont trois habitudes :
 
@@ -63,6 +63,6 @@ Ce carnet montre aussi ce qu’aucune lecture isolée ne montre : à quelle fré
 
 ## Commencez par dix lectures {#commencer}
 
-Prenez n’importe quel cahier, celui du supermarché fera l’affaire, et tracez le trait ce soir. Tirez les cartes pour dix personnes qui ne vous disent rien, remplissez les deux colonnes, mettez une marque à chaque fois, et comptez. Dix suffisent pour voir ce que vous faites quand vous ratez.
+Prenez n’importe quel cahier, celui du supermarché fera l’affaire, et tracez le trait ce soir. Tirez les cartes pour dix personnes qui se taisent jusqu’à la fin de la lecture, remplissez les deux colonnes, mettez une marque à chaque fois, et comptez. Dix suffisent pour voir ce que vous faites quand vous ratez.
 
 Si vous ne savez pas encore pour qui tirer, voici [où j’ai trouvé des personnes prêtes à ne rien me dire](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/). Et si vous voulez voir des lectures vérifiées sous vos yeux, chaque [événement gratuit](/fr/evenements/) se termine ainsi : les personnes qui ont reçu une lecture disent ce qui était juste, et on compare.

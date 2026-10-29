@@ -11,7 +11,7 @@ imageAlt: "A few coins, a closed notebook and a single tarot card on a kitchen t
 imagePrompt: "A few loose coins, a closed notebook and a single tarot card lying face up on a plain kitchen table, a chair pulled back. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "The tarot cards that talk about money are mostly the Pentacles, the Earth suit: the Ace (something real to build on), the Four (holding on tight), the Five (hardship, help nearby), the Six (knowing value), the Nine (gratitude) and the Ten (wealth at home), plus the Empress, the Wheel of Fortune and the Devil. They describe your relationship with value — money, work, time, home — rather than predicting your bank balance. Decisions about investing, borrowing, signing or resigning stay yours: an adviser, an accountant or a debt service can see what a card can’t."
 ---
-The Pentacles are the money suit, but they talk about value more than cash — in my notes, not all riches are gold. I read them gladly. What I don’t read on is money decisions: whether to invest, sign, borrow or resign stays yours, and I’ll explain why without wagging a finger.
+The Pentacles are the money suit, but they talk about value more than cash: my notes count riches that have nothing to do with gold. I read them gladly. What I don’t read on is money decisions: whether to invest, sign, borrow or resign stays yours, and I’ll explain why without wagging a finger.
 
 ## Which tarot cards talk about money {#money-cards}
 
@@ -21,7 +21,7 @@ The Ace of Pentacles is a coin held out over a garden — something real to buil
 
 {{< cards "peac pe04 pe05 pe06 pe09 pe10" >}}
 
-A few majors join them. The Empress feeds — abundance, things growing. The Wheel of Fortune, in my notes, says it’s up to you to turn it: create your own luck. The Devil, an Earth card, shows the chain — and money can be one. The King of Pentacles, among his grapes and bulls, makes things prosper. The rest of the suit is laid out in the [minor arcana grid](/blog/minor-arcana/).
+A few majors join them. The Empress feeds — abundance, things growing. The Wheel of Fortune, as I read it, leaves the turning to you, so the luck is partly of your own making. The Devil, an Earth card, shows the chain — and money can be one. The King of Pentacles, among his grapes and bulls, makes things prosper. The rest of the suit is laid out in the [minor arcana grid](/blog/minor-arcana/).
 
 {{< cards "ar03 ar10 ar15 peki" >}}
 
@@ -52,7 +52,7 @@ I go further in [using tarot for decisions without letting it decide](/blog/taro
 
 ## Reading the Pentacles in a spread {#in-a-spread}
 
-Several Pentacles in one spread say the situation is about matter: work, body, home, money, time. Reversed, a Pentacle is the same card slowed down or in excess — the Four that won’t let go of anything, the Eight that works without ever stopping.
+Several Pentacles in one spread say the situation is about matter: work, body, home, money, time. Reversed, a Pentacle stalls or overshoots — the Four that won’t let go of anything, the Eight that works without ever stopping.
 
 The neighbours change the subject. Next to Cups, value meets feeling: what something is worth to you, not on the market — an inheritance, a gift, a family home. Next to Swords, it’s a decision about something concrete, which is exactly where I hand the decision back. Next to Wands, it’s an idea looking for a budget.
 

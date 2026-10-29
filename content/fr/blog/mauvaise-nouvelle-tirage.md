@@ -15,7 +15,7 @@ Oui : dites ce qui vient, la partie dure comprise. Cacher une carte est une form
 
 ## Faut-il cacher une carte difficile ? {#cacher-ou-dire}
 
-Non. Si vous avez accepté de lire pour quelqu’un, vous lui devez ce que vous voyez, pas seulement la moitié agréable. Chaque carte a un plus et un moins, et ça marche dans les deux sens : les cartes joyeuses ont leur ombre, et les cartes dures ont un passage.
+Non. Si vous avez accepté de lire pour quelqu’un, vous lui devez ce que vous voyez, pas seulement la moitié agréable. Aucune carte n’est d’un seul bloc, et ça marche dans les deux sens : les cartes joyeuses ont leur ombre, et les cartes dures ont un passage.
 
 Ce qui fait le plus mal, en général, ce n’est pas la phrase dure. C’est le silence qui précède un « hum, je préfère ne pas vous le dire ». La personne remplit ce silence avec la pire chose qu’elle puisse imaginer, et c’est presque toujours pire que ce qui est sur la table : les choses dures d’un tirage sont souvent plus petites et plus personnelles qu’on ne le craint.
 
@@ -23,19 +23,19 @@ On dit que toute vérité n’est pas bonne à dire. Je dirais plutôt : toute v
 
 ## Ce sur quoi je ne lis pas du tout {#ce-que-je-ne-lis-pas}
 
-Certaines mauvaises nouvelles ne regardent pas les cartes. La santé, la mort, une grossesse, un procès en cours, une décision d’argent : je ne lis pas là-dessus, et si un tirage y dérive, je m’arrête et j’explique pourquoi. Les gens posent ces questions parce qu’ils ont peur ou parce qu’ils aiment quelqu’un, et ça mérite du respect. Mais un mot de travers à cet endroit fait de vrais dégâts, et une carte n’est pas le bon outil pour l’annoncer. Le médecin, l’avocat ou le conseiller, si ; ce qu’un tirage peut porter en attendant, c’est la façon dont la personne vit tout ça. J’explique plus longuement [pourquoi un tarologue prudent ne lit pas ces questions](/fr/blog/sante-grossesse-deces-tarot/).
+Certaines mauvaises nouvelles ne regardent pas les cartes. La santé, la mort, une grossesse, un procès en cours, une décision d’argent : je ne lis pas là-dessus, et si un tirage y dérive, je m’arrête et j’explique pourquoi. Les gens posent ces questions parce qu’ils ont peur ou parce qu’ils aiment quelqu’un, et ça mérite du respect. Mais à cet endroit, une erreur de formulation peut abîmer quelqu’un, et ce n’est pas à une carte d’annoncer ces choses-là. Au médecin, à l’avocat ou au conseiller, oui ; pendant ce temps, un tirage peut accompagner la manière dont la personne traverse tout ça. J’explique plus longuement [pourquoi ces questions-là restent hors du tirage](/fr/blog/sante-grossesse-deces-tarot/).
 
 D’ailleurs, la Mort — l’arcane sans nom du tarot de Marseille — ne parle pas de mort. Dans mes notes, elle est liée à la moisson et au fait de recommencer : quelqu’un qui a perdu son cap et veut rendre sa vie fertile de nouveau. La Tour, c’est quelque chose qui avait l’air solide et qui tremble. Le Trois d’Épées est un cœur transpercé de trois épées sous la pluie, et mes notes ajoutent que c’est aussi, parfois, un pacte de sang. Le Dix d’Épées est l’image la plus dure du jeu, une silhouette face contre terre avec dix épées dans le dos, et pourtant le ciel s’éclaircit à l’horizon.
 
 {{< cards "ar13 ar16 sw03 sw10" >}}
 
-[Les lames qui font peur sont plus douces qu’elles n’en ont l’air](/fr/blog/cartes-tarot-qui-font-peur/), et les lire comme des verdicts est la première erreur à abandonner.
+[Les lames redoutées se révèlent souvent moins cruelles qu’on ne le croit](/fr/blog/cartes-tarot-qui-font-peur/), et les lire comme des verdicts est la première erreur à abandonner.
 
 ## Une mauvaise nouvelle se trompe souvent sur l’essentiel {#se-trompe-sur-lessentiel}
 
 Avant d’annoncer quelque chose de dur, rappelez-vous combien les messages durs se trompent — parfois pas sur l’événement, mais sur ce qu’il veut dire.
 
-Je l’ai appris par un message que j’ai reçu moi-même : folle de rage après la mort de mon meilleur ami, j’ai entendu une voix dire qu’une autre amie allait avoir un accident, et deux semaines plus tard, un camion a percuté sa voiture. Elle va très bien aujourd’hui ; le message était juste sur un événement et faux sur l’essentiel, et je raconte toute l’histoire dans [pourquoi un tirage peut se tromper](/fr/blog/tirage-faux-tarot/).
+Je l’ai appris par un message que j’ai reçu moi-même : folle de rage d’avoir perdu mon meilleur ami, j’ai entendu une voix annoncer un accident pour une autre amie, et quinze jours après, sa voiture était heurtée par un camion. Elle va très bien aujourd’hui ; le message avait vu l’événement et manqué l’essentiel, et je raconte toute l’histoire dans [pourquoi un tirage peut se tromper](/fr/blog/tirage-faux-tarot/).
 
 Depuis, les impressions dures vont sur une étagère dans ma tête, avec une étiquette : « sceptique, mais si ça arrive, j’étais prévenue ». Elles ne finissent pas sur les genoux de quelqu’un sous forme de prédiction.
 
@@ -51,7 +51,7 @@ Voici la différence en pratique. Version dure : « Cette relation est finie. La
 
 **Une chose dure dite avec douceur reste vraie ; dite durement, elle n’en est pas plus honnête.**
 
-Quand j’ai lu le thème d’un ami que j’admirais, il était juste et dur. Ce que j’ai dit à voix haute, c’est : « Ta vie a été dure, mais on dirait que tu aimes ça, quelque part. » Il a reconnu que c’était vrai, à sa façon. La partie dure était là, le respect aussi. J’ai raconté [l’histoire de cette phrase](/fr/blog/lire-pour-quelquun-que-jadmirais/) à part.
+Quand j’ai lu le thème d’un ami que j’admirais, il était juste et dur. Je lui ai dit que sa vie avait été rude, et qu’il semblait pourtant y trouver une forme de goût ; il a reconnu que c’était vrai, à sa façon. La partie dure était là, le respect aussi. J’ai raconté [l’histoire de cette phrase](/fr/blog/lire-pour-quelquun-que-jadmirais/) à part.
 
 ## Quand la personne n’est pas prête {#pas-prete}
 

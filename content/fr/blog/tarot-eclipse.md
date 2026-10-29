@@ -31,7 +31,7 @@ La deuxième, c’est l’envie de faire une pause. Certains lecteurs traitent l
 
 La troisième concerne la personne qui tire. Certains se sentent plus fatigués ou plus à fleur de peau autour des éclipses, et préfèrent ne pas lire dans cet état.
 
-C’est la troisième que je garderais. Pas à cause du ciel, mais parce que l’état dans lequel vous lisez change un tirage bien plus que la date. Cette fatigue-là, je la connais par les tirages eux-mêmes : interpréter demande de l’énergie, et il m’arrive de m’arrêter au bout de deux heures de lectures, par prudence.
+C’est la troisième que je garderais. Pas à cause du ciel, mais parce que l’état dans lequel vous lisez change un tirage bien plus que la date. Cette fatigue-là, je la connais par les tirages eux-mêmes : interpréter demande de l’énergie, et au-delà de deux heures de lecture, il m’arrive de clore la séance, par prudence.
 
 Et si attendre vous semble juste, attendez. On ne perd rien à laisser le jeu dans sa boîte quinze jours ; une question remise à plus tard est toujours là quand vous y revenez.
 
@@ -39,21 +39,21 @@ Et si attendre vous semble juste, attendez. On ne perd rien à laisser le jeu da
 
 Ce qui change, c’est le bruit. Les semaines d’éclipse arrivent avec leurs vidéos et leurs publications qui annoncent quelque chose d’énorme, et des gens qui tirent d’habitude une carte par semaine se mettent à en tirer plusieurs par jour. Chaque nouvelle carte est une occasion de plus de se faire peur.
 
-Imaginez que vous tiriez [la Tour](/fr/bibliotheque/cartes-tarot/la-tour/) une semaine d’éclipse. Certains vous diront qu’elle compte double. Pourtant, la Tour pendant une éclipse est la même Tour qu’un mardi ordinaire : quelque chose de construit sur une base fragile tombe, d’un coup, et laisse la place à quelque chose de plus solide. Son nombre, son élément et ses couleurs n’ont pas bougé.
+Imaginez que vous tiriez [la Tour](/fr/bibliotheque/cartes-tarot/la-tour/) une semaine d’éclipse. Certains vous diront qu’elle compte double. Pourtant, la Tour pendant une éclipse est la même Tour qu’un mardi ordinaire : quelque chose de construit sur une base fragile tombe, d’un coup, et laisse la place à quelque chose de plus solide. Ni son nombre, ni son élément, ni ses couleurs n’ont bougé.
 
 {{< cards "ar16" >}}
 
-Ce qu’un tirage peut porter en saison d’éclipses, c’est ce qu’il porte n’importe quelle semaine : ce que vous ressentez face à un changement déjà en route, ce que vous aimeriez laisser se refermer, où va votre énergie. Ce qu’il ne fait pas mieux que d’habitude, c’est vous donner la date où quelque chose arrivera.
+En saison d’éclipses, un tirage porte ce qu’il porte n’importe quelle semaine : ce que vous ressentez face à un changement déjà en route, ce que vous aimeriez laisser se refermer, où va votre énergie. Ce qu’il ne fait pas mieux que d’habitude, c’est vous donner la date où quelque chose arrivera.
 
 Votre jeu n’absorbe rien non plus. Il n’y a rien à [purifier après coup](/fr/blog/purifier-son-jeu-de-tarot/) : si un tirage vous a pesé, c’est vous qui avez besoin de repos, pas les cartes.
 
-Mon cadre habituel pour l’astrologie vaut ici aussi. Quand [j’ai testé mon thème astral case par case](/fr/blog/j-ai-teste-mon-theme-astral/), l’essentiel tenait 30 à 40 % du temps, et les éclipses n’ont jamais fait partie de ce test. Un tiers suffit pour faire d’une éclipse un thème de réflexion, pas pour la laisser décider du moment où vous avez le droit de battre les cartes.
+Mon cadre habituel pour l’astrologie vaut ici aussi. Dans [le décompte que j’ai fait sur mon thème](/fr/blog/j-ai-teste-mon-theme-astral/), la plupart des positions tombaient juste 30 à 40 % du temps, et les éclipses n’ont jamais fait partie de ce test. Un tiers suffit pour faire d’une éclipse un thème de réflexion, pas pour la laisser décider du moment où vous avez le droit de battre les cartes.
 
 ## Trois questions avant de battre les cartes {#trois-questions}
 
 **Le ciel ne change pas les cartes ; c’est votre état qui change le tirage.** Les questions portent donc sur vous.
 
-1. *Suis-je calme ?* Si vous prenez le jeu parce qu’une vidéo vous a fait peur, posez-le et revenez dans quelques jours. [Tirer les cartes quand on est bouleversé](/fr/blog/tirer-les-cartes-bouleverse/) a son propre article, et la réponse est la même n’importe quelle semaine.
+1. *Suis-je calme ?* Si vous prenez le jeu parce qu’une vidéo vous a fait peur, posez-le et revenez dans quelques jours. Ce que je dis [des tirages faits sous le coup de l’émotion](/fr/blog/tirer-les-cartes-bouleverse/) vaut pour n’importe quelle semaine.
 2. *Ai-je déjà tiré sur ce sujet ?* Si oui, la nouvelle carte ne sera pas plus vraie que la première. Relisez plutôt ce que vous aviez noté.
 3. *Est-ce une décision ?* Les cartes peuvent vous aider à réfléchir ; elles ne décident pas à votre place, éclipse ou pas. Agissez selon ce que vous ressentez et ce que vous savez.
 
@@ -63,4 +63,4 @@ Et si vous êtes dehors pour regarder une éclipse de Soleil, les cartes peuvent
 
 ## Un tirage par saison : l’éclipse de Lune {#un-tirage}
 
-Si vous voulez un seul tirage par saison d’éclipses, faites-le le soir de l’éclipse de Lune. Elle tombe un soir de pleine lune, donc [le tirage de pleine lune qui tient sur une serviette](/fr/blog/tirage-pleine-lune/) marche aussi bien que n’importe quel mois : ce qui est apparu, ce que vous pouvez poser, ce que vous gardez. Notez les trois cartes et une phrase pour chacune, puis relisez la page à la saison des éclipses suivante, environ six mois plus tard.
+Si vous voulez un seul tirage par saison d’éclipses, faites-le le soir de l’éclipse de Lune. Elle tombe un soir de pleine lune, donc [le tirage de pleine lune qui tient sur une serviette](/fr/blog/tirage-pleine-lune/) marche aussi bien que n’importe quel mois, avec ses trois places : ce qui s’est révélé, ce que vous pouvez déposer, ce que vous conservez. Écrivez les trois cartes, chacune avec sa phrase, puis reprenez la page à la saison des éclipses suivante, environ six mois plus tard.

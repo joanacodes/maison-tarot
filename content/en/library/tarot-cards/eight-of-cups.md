@@ -15,11 +15,7 @@ energy: Feminine
 kabbalah: ''
 image: cards/cu08.webp
 h1: Eight of Cups — <em>eight</em>, Water
-lede: 'Before looking up what Eight of Cups “means”, look at what you already have:
-  eight, the element Water, Saturn in Pisces. You’re reading the card. The number
-  says eight — movement, mastery, the fruit of work; the element says emotions, what
-  flows. Lay the two over each other, add the colours, and the card is already talking
-  — the rest of the page shows you how.'
+lede: 'Under a watchful moon, someone wrapped in red walks off into the night, staff in hand, leaving behind stacked gold cups that are still whole. What would you leave, with nothing broken?'
 related:
 - /library/numerology
 - /library/four-elements/water-element
@@ -29,9 +25,9 @@ faq:
 - q: 'What does the Eight of Cups mean?'
   a: 'Leaving something you built because it no longer feeds you. Eight is the number of what is established, Water is emotion, and the man walks away from cups that are still standing: the card is about moving on from what you’re already doing, not about losing it.'
 - q: 'What about the Eight of Cups reversed?'
-  a: 'The same departure, slowed down or overdone. Either someone stays by the cups long after they’ve stopped mattering, or someone leaves everything the moment it settles. The question is the same both ways: what are you leaving, and why now?'
+  a: 'A departure that stalls or never stops. Either someone stays by the cups long after they’ve stopped mattering, or someone leaves everything the moment it settles. The question is the same both ways: what are you leaving, and why now?'
 - q: 'What does the Eight of Cups mean in love?'
-  a: 'It talks about a way of loving you’ve outgrown, more than about a break-up announced. I read it for the person in front of me, for what they are ready to leave, and never as a forecast of what someone else will do.'
+  a: 'It talks about a way of loving you’ve outgrown, more than about a break-up announced. I read it for whoever is sitting with me, for what they are ready to leave, and never as a forecast of what someone else will do.'
 categories:
 - Cups
 tags:
@@ -44,13 +40,13 @@ tags:
 
 A man in a red cloak and red boots walks away from us, staff in hand, towards bare, rocky heights. In the foreground stand eight gold cups in two rows — five below, three on top, with a gap in the top row as if one were missing. Above, a moon with a face looks down, drawn as a crescent against a full disc. It’s night, and he’s leaving anyway.
 
-No broken cup, no spilled one, nobody seeing him off, no road ahead. The cups are upright and whole: he isn’t fleeing a ruin, he’s leaving something that stands. **The card is about walking away from what still works, because it has stopped feeding you.**
+No broken cup, no spilled one, nobody seeing him off, no road ahead. The cups are upright and whole: he isn’t fleeing a ruin, he’s leaving something that stands. **He walks away from what still works, because it has stopped feeding him.**
 
 ## By number: eight {#number}
 
 Eight is 4 exalted: [the empire, the stability you’ve earned](/library/numerology/number-8/). Hence the paradox: the stack is the fruit of the work, carefully built, and the man turns his back on it. In my numerology notes the Eight of Cups gets one line: moving on from what you’re already doing. Not failing at it — having done it, and going elsewhere.
 
-Eight is also a gate between the tangible and the intangible: here, cups you can count on one side, a mountain at night that promises nothing on the other. In the Instagram story I use for the cycle, 8 is the empire inside Facebook — and, in real life, the stage at which the app’s two founders left.
+My notes also make 8 a doorway from the solid to the unseen: here, cups you can count on one side, a mountain at night that promises nothing on the other. Instagram’s 8 was the empire inside Facebook — which is also, in real life, when the app’s two founders left.
 
 ## By element: Water {#element}
 
@@ -60,19 +56,19 @@ And Water seeps. An emotion neglected for years eats at the foundations without 
 
 ## By colours {#colours}
 
-[Red](/library/tarot-colours/red/) is on the man — cloak and boots: action, impulse, the body that moves. It sits on the one who decides. The cups are gold: what stays behind has value, and he knows it. The night sky, closest to [black](/library/tarot-colours/black/) in my grid, is absence and emptying out, but also reality — the bare thing, without varnish. Before you know the card’s name, you have it: someone acting, something of value left behind, a moment of truth.
+[Red](/library/tarot-colours/red/) is on the man — cloak and boots: action, impulse, the body that moves. It sits on the one who decides. The cups are gold: what stays behind has value, and he knows it. The night sky, closest to [black](/library/tarot-colours/black/) in my grid, is absence and emptying out, but also reality — the bare thing, without varnish. Someone acting, something of value left behind, a moment of truth.
 
 ## By astrology: Saturn in Pisces {#astrology}
 
-In the Golden Dawn system, the Eight of Cups is [Saturn](/library/astrology/saturn/) in the first decan of [Pisces](/library/astrology/pisces/). Saturn is limits and time; Pisces is Water and belief, what moves under a calm surface. Together: knowing when an emotional chapter is over, even when it looks fine from outside.
+This card carries [Saturn](/library/astrology/saturn/) in the opening decan of [Pisces](/library/astrology/pisces/), as the Golden Dawn assigned it. Saturn is limits and time; Pisces is Water and belief, what moves under a calm surface. The pair knows when an emotional chapter is over, even when it looks fine from outside.
 
-It’s optional. I keep this one, because Saturn was among the placements that held 75 to 90% of the time when I tested astrology box by box.
+The walker leaves just as well without a planet. I keep this one anyway, because Saturn was among the placements that held 75 to 90% of the time when I tested astrology box by box.
 
 ## In a reading {#reading}
 
 Upright, the Eight of Cups is a departure that has been ripening. The thing was built — a relationship, a job, a role, a circle of friends — and the feeling left quietly before the person did. It often comes with relief and a little guilt, because nothing is broken. **Leaving what still works is allowed; the card asks you to know why you’re going.**
 
-Reversed, the walk stalls or never stops. Slowed: you stand by the cups for months, counting them again, unable to turn away from what no longer holds you. Overdone: you leave every time something settles, so nothing ever gets the chance to fill. [My shortcut for reversed cards](/blog/reversed-tarot-cards/) works the same way on the whole deck.
+Reversed, the walk stalls or never stops. Either you stand by the cups for months, counting them again, unable to turn away from what no longer holds you; or you leave every time something settles, so nothing ever gets the chance to fill. [My shortcut for reversed cards](/blog/reversed-tarot-cards/) works the same way on the whole deck.
 
 Next to [the Hermit](/library/tarot-cards/the-hermit/), the walk becomes a retreat: the same staff, the same dark, time alone to think. Next to the [Six of Cups](/library/tarot-cards/six-of-cups/), what you’re leaving has roots in childhood. Next to the [Five of Cups](/library/tarot-cards/five-of-cups/), you see grief and choice side by side: there, spilled cups and someone mourning them; here, full cups and someone walking away.
 
@@ -82,4 +78,4 @@ Next to [the Hermit](/library/tarot-cards/the-hermit/), the walk becomes a retre
 
 A thought experiment: the Eight of Cups comes up, then the Ace of Wands. Eight then one: a stage closing, a cycle opening. Water then Fire: a feeling that has run its course, then an urge with no shape yet.
 
-Out loud, you might say: “You’re walking away from something that took a long time to build, and not because it failed. Something new is pulling you — a project more than a feeling.” Then stop and ask whether that lands. If the person says no, don’t reach for a third card to rescue it: note it as a miss.
+The walker in red, set next to the budding wand, prompts this: “You’re walking away from something that took a long time to build, and not because it failed. Something new is pulling you — a project more than a feeling.” Then stop and ask whether that lands. If the person says no, write the miss down and leave both cards where they lie.

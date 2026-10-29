@@ -21,13 +21,13 @@ Imaginons que cela fasse dix jours. Vous avez pleuré, mal dormi, dîné de pât
 
 **Un tirage de rupture lit la personne assise à la table, et cette personne, c’est vous.**
 
-Une chose avant de mélanger : le premier soir, celui où tout est à vif, est rarement le soir des cartes. Une marche, une amie ou une longue nuit passent d’abord. À la question de [tirer les cartes quand on est bouleversé](/fr/blog/tirer-les-cartes-bouleverse/), ma réponse courte est : attendez de pouvoir regarder une carte sans avoir besoin qu’elle vous sauve.
+Une chose avant de mélanger : le premier soir, celui où tout est à vif, est rarement le soir des cartes. Une marche, une amie ou une longue nuit passent d’abord. À la question de [savoir s’il faut tirer les cartes sous le coup de l’émotion](/fr/blog/tirer-les-cartes-bouleverse/), ma réponse courte est : attendez de pouvoir regarder une carte sans avoir besoin qu’elle vous sauve.
 
 ## Pourquoi « va-t-il revenir ? » reste en dehors de ce tirage {#va-t-il-revenir}
 
 Parce que c’est la question la plus lourde à porter. On la pose par amour, par manque, par peur de rester seul avec ce qui s’est passé, et elle n’a rien de ridicule.
 
-Mais elle confie vos prochaines semaines à quelqu’un d’absent, qui n’a pas accepté d’être lu et dont les choix lui appartiennent. Et quoi que dise la carte, la question vous fait attendre : un oui vous fait guetter la porte, un non fait mal deux fois, un peut-être vous ramène à la même question la semaine suivante. J’en parle dans [« Va-t-il revenir ? » et une question plus douce à poser](/fr/blog/va-t-il-revenir-tarot/).
+Mais elle confie vos prochaines semaines à quelqu’un d’absent, qui n’a pas accepté d’être lu et dont les choix lui appartiennent. Et quoi que dise la carte, la question vous fait attendre : un oui vous fait guetter la porte, un non fait mal deux fois, un peut-être vous ramène à la même question la semaine suivante. J’en parle dans [pourquoi cette question fait attendre, quelle que soit la carte](/fr/blog/va-t-il-revenir-tarot/).
 
 La question plus douce, c’est celle qui se cache dessous : de quoi ai-je besoin pendant que je ne sais pas ? Tout ce tirage est construit sur elle.
 
@@ -45,25 +45,25 @@ Lisez d’abord la ligne comme une seule histoire, puis carte par carte.
 
 ## Un tirage de rupture, carte par carte {#exemple}
 
-Imaginons quelqu’un qui, trois semaines après une rupture, ne dit rien aux cartes et tire le Trois d’Épées, le Quatre de Pentacles, le Quatre d’Épées, le Six de Pentacles et l’Étoile.
+Trois semaines après une séparation, une personne tire, sans rien expliquer, le Trois d’Épées, le Quatre de Pentacles, le Quatre d’Épées, le Six de Pentacles et l’Étoile.
 
 {{< cards "sw03 pe04 sw04 pe06 ar17" >}}
 
-*Où j’en suis :* [le Trois d’Épées](/fr/bibliotheque/cartes-tarot/trois-de-epees/), un cœur rouge transpercé par trois lames sous une pluie grise. Personne : c’est le sentiment lui-même. Le 3, c’est un lien qui fonctionne, et son revers, c’est la trahison ; dans mes notes, c’est aussi un pacte de sang, quelque chose qui a lié deux personnes. Les Épées, c’est la pensée : la peine qui tourne en boucle dans la tête, la nuit.
+*Où j’en suis :* [le Trois d’Épées](/fr/bibliotheque/cartes-tarot/trois-de-epees/), un cœur rouge transpercé par trois lames sous une pluie grise. Personne : c’est le sentiment lui-même. Le 3, c’est un lien qui fonctionne, et son revers, c’est la trahison ; j’y ai aussi noté un pacte de sang, quelque chose qui a lié deux personnes. Les Épées, c’est la pensée : la peine qui tourne en boucle dans la tête, la nuit.
 
 *Ce à quoi je m’accroche :* le Quatre de Pentacles, un homme assis devant une ville, une pièce serrée contre sa poitrine, une sur sa couronne, une sous chaque pied. Le 4, c’est la stabilité qu’on a bâtie, et son revers, c’est [continuer quand il faudrait s’arrêter](/fr/bibliotheque/numerologie/chiffre-4/). Peut-être l’appartement, les projets à deux.
 
-*Ce dont j’ai besoin :* le Quatre d’Épées, un chevalier allongé sur un tombeau, les mains jointes, trois épées accrochées au mur au-dessus de lui et une en dessous. Le repos. Regardez les deux Quatre côte à côte : le même nombre, deux gestes opposés. L’un serre ; l’autre lâche prise et s’allonge.
+*Ce dont j’ai besoin :* le Quatre d’Épées, un gisant de pierre, mains jointes, trois lames au mur et une quatrième sous lui. Le repos. Regardez les deux Quatre côte à côte : le même nombre, deux gestes opposés. L’un serre ; l’autre lâche prise et s’allonge.
 
 *Ce que la relation m’a appris :* le Six de Pentacles, un homme qui tient une balance et donne des pièces à deux personnes agenouillées. Le 6, c’est l’harmonie et l’échange, et dans mes notes, c’est connaître sa valeur. Peut-être avez-vous donné sans peser, et voudriez-vous, la prochaine fois, une balance équilibrée.
 
 *Le petit pas :* l’Étoile, une femme agenouillée au bord d’un bassin, qui verse l’eau de deux cruches, l’une sur la terre, l’autre dans le bassin. Reversez-en un peu vers vous : un verre d’eau, une vraie nuit, une marche à la lumière du jour. Son versant amoureux est dans [l’Étoile en amour](/fr/blog/letoile-tarot-amour/).
 
-La phrase, à voix haute, pourrait être : « Ça fait mal, et vous tenez encore à quelque chose de solide. Reposez-vous avant de décider quoi que ce soit. Ensuite, regardez ce que vous avez donné, et reversez-vous-en un peu. » Puis demandez si ça tombe juste. Sinon, c’est un raté, et vous le notez comme tel.
+Tout le tirage tient en trois phrases : « Ça fait mal, et vous tenez encore à quelque chose de solide. Reposez-vous avant de décider quoi que ce soit. Ensuite, regardez ce que vous avez donné, et reversez-vous-en un peu. » Puis demandez si ça tombe juste. Sinon, c’est un raté, et vous le notez comme tel.
 
 ## Ce que les cartes ne peuvent pas faire après une rupture {#limites}
 
-Elles ne recollent pas un cœur, et ne disent ni qui avait raison, ni si l’autre souffre aussi, ni quand ça cessera de faire mal. D’après mon propre décompte, environ une lecture sur dix rate ; sur un sujet aussi tendre, tenez chaque carte d’une main légère.
+Elles ne recollent pas un cœur, et ne disent ni qui avait raison, ni si l’autre souffre aussi, ni quand ça cessera de faire mal. Je tiens le compte de mes ratés, et il y en a environ un pour dix lectures ; quand le cœur est à vif, tenez chaque carte d’une main légère.
 
 Si la peine reste lourde des semaines durant, ou qu’elle atteint votre sommeil, votre appétit ou votre travail, frappez à la porte d’une personne plutôt qu’à celle d’un jeu de cartes. Une amie d’abord, votre médecin traitant, un psychologue : [tout ne relève pas des cartes](/fr/avertissements/#therapie), et ce n’est pas un échec de votre tarot : c’est le bon outil.
 

@@ -1,7 +1,7 @@
 ---
 title: 'La Roue de Fortune (Wheel of Fortune) — tarot Rider-Waite-Smith : lire la
   carte par ses clés de lecture'
-description: 'La Roue de Fortune au tarot : un tournant, le 10, le Feu et Jupiter. Ce que montre la carte de 1909, et pourquoi j’y lis votre main sur la roue plutôt que la chance.'
+description: 'La Roue de Fortune au tarot : une roue que personne ne tourne, le 10, le Feu et Jupiter — et pourquoi j’y lis votre main sur la roue plutôt que la chance.'
 translationKey: card-ar10
 type: cards
 navTitle: La Roue de Fortune
@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: Kaph
 image: cards/ar10.webp
 h1: La Roue de Fortune — <em>10</em>, le Feu
-lede: 'Avant de chercher ce que « signifie » La Roue de Fortune, regardez ce que vous
-  avez déjà : 10, l’élément Feu, Jupiter. Vous lisez la carte. Le nombre dit 10 —
-  dix — la fin du cycle, la transition ; l’élément dit l’élan, ce qu’on lance. Posez
-  les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà —
-  le reste de la page vous montre comment.'
+lede: 'Une grande roue orange tourne, un sphinx au sommet, un serpent qui descend, Anubis qui remonte, quatre créatures ailées penchées sur leurs livres. Personne ne la pousse : et si la main manquante était la vôtre ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -49,9 +45,9 @@ Remarquez ce qui manque : une main. Personne ne fait tourner la roue, et il n’
 
 ## Par le nombre : 10 {#nombre}
 
-Le [chiffre 10](/fr/bibliotheque/numerologie/chiffre-10/), c’est le couloir entre deux pièces : ce qui était se termine, ce qui vient n’a pas encore de nom. Il apporte la liberté, le changement, le voyage, une bouffée d’air. Son revers : ça peut être de courte durée, et ça vous dit de commencer autre chose.
+Le [chiffre 10](/fr/bibliotheque/numerologie/chiffre-10/) tient du seuil : ce qui était se termine, ce qui vient n’a pas encore de nom. Il apporte la liberté, le changement, le voyage, une bouffée d’air. Son revers : ça peut être de courte durée, et ça vous dit de commencer autre chose.
 
-Dans l’histoire d’Instagram, le 10, c’est quand l’application a tellement changé que les gens ne la reconnaissent plus ; le cycle est bouclé, un autre commence avec son propre 1. C’est pour ça que la roue est un cercle : le 10 vous ramène au 1.
+Instagram a fini méconnaissable : un cycle bouclé, et le suivant repart à 1. C’est pour ça que la roue est un cercle : le 10 vous ramène au 1.
 
 ## Par l’élément : Feu {#element}
 
@@ -63,11 +59,11 @@ Ma note sur cette carte tient en une ligne : c’est à vous de faire tourner la
 
 La roue est orange : la créativité, l’aridité, le désir — la couleur d’un monde qui chauffe ([l’orange](/fr/bibliotheque/couleurs-tarot/orange/)). Anubis est rouge : l’action, l’impulsion, ce qui monte ([le rouge](/fr/bibliotheque/couleurs-tarot/rouge/)). Le serpent et les quatre créatures sont jaunes : la joie, la volonté. Le ciel est bleu — les émotions, la vitalité — et les nuages sont gris, neutres.
 
-Lue sans le titre : quelque chose de chaud et de créatif en mouvement, l’action qui monte d’un côté, quelque chose qui file de l’autre, dans un cadre calme.
+Résultat : quelque chose de chaud et de créatif en mouvement, l’action qui monte d’un côté, quelque chose qui file de l’autre, dans un cadre calme.
 
 ## Par l’astrologie : Jupiter {#astrologie}
 
-Dans la tradition Golden Dawn, la Roue correspond à [Jupiter](/fr/bibliotheque/astrologie/jupiter/) : l’expansion, la confiance, la générosité, l’excès — la chance, ou ce qu’on prend pour de la chance.
+La Golden Dawn relie la Roue à [Jupiter](/fr/bibliotheque/astrologie/jupiter/) : l’expansion, la confiance, la générosité, l’excès — la chance, réelle ou supposée.
 
 Sur cette carte, Jupiter sert à une chose : quand ça monte, le conseil est de rester humble.
 
@@ -87,6 +83,6 @@ Renversée, la roue semble bloquée, ou elle tourne sans vous. Le même problèm
 
 Ici, la Roue de Fortune sort à côté du Magicien, dans un tirage d’entraînement. 10 puis 1 : un cycle qui se ferme et un nouveau qui commence aussitôt. Le Feu puis l’Air : de l’énergie, puis une idée qui lui donne une direction. De l’orange et du bleu sur la première carte ; du rouge et du blanc sur la seconde, un homme qui a ses quatre outils sur la table.
 
-La phrase que je dirais : « Quelque chose se termine, et vous avez déjà ce qu’il faut pour la suite — la question, c’est de savoir si vous attendez que ça arrive ou si vous le lancez vous-même. »
+Roue et outils ensemble me feraient dire : « Quelque chose se termine, et vous avez déjà ce qu’il faut pour la suite — la question, c’est de savoir si vous attendez que ça arrive ou si vous le lancez vous-même. »
 
-Puis la vérification. Un changement se rapproche-t-il ? Y a-t-il un projet repoussé de mois en mois ? Si ça ne tient pas, je le dis : la personne en face de moi connaît sa vie mieux que n’importe quelle carte.
+Vérification ensuite : un changement se rapproche-t-il ? Y a-t-il un projet repoussé de mois en mois ? Si rien ne tourne de ce côté-là, je le dis : la personne en face de moi connaît sa vie mieux que n’importe quelle carte.

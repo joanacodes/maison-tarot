@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/swki.webp
 h1: Roi d’Épées — <em>le Roi</em>, le Feu d’air
-lede: 'Avant de chercher ce que « signifie » Roi d’Épées, regardez ce que vous avez
-  déjà : le Roi, l’élément Feu d’Air. Vous lisez la carte. Le nombre dit le Roi —
-  la maîtrise extérieure, la décision ; l’élément dit le mental, ce qu’on décide.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Face à vous, sur un trône orné d’un papillon et de croissants de lune, un roi tient son épée dressée et soutient votre regard. Sa décision est prise : à qui profitera-t-elle ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-air
@@ -30,7 +26,7 @@ faq:
 - q: 'Que signifie le Roi d’Épées ?'
   a: 'Une décision prise et assumée : une autorité qui vient d’une pensée claire, d’un jugement équitable et de raisons expliquées. Le Roi, c’est la maîtrise extérieure, et le Feu d’Air, une idée mise en application. Ce peut être un expert, une figure d’autorité, ou le moment où c’est à vous de décider.'
 - q: 'Le Roi d’Épées renversé, ça change quoi ?'
-  a: 'La même autorité, freinée ou excessive. Freinée : la personne qui devrait décider repousse sans cesse, ou décide sans expliquer. Excessive : des règles rigides, des verdicts froids, l’intelligence mise au service de la victoire plutôt que de l’équité.'
+  a: 'L’autorité cale ou se durcit : la personne qui devrait décider repousse sans cesse, ou décide sans expliquer ; ou bien des règles rigides, des verdicts froids, l’intelligence mise au service de la victoire plutôt que de l’équité.'
 - q: 'Le Roi d’Épées, est-ce une personne ?'
   a: 'Ce peut être quelqu’un dont l’autorité vient du savoir — une responsable, un professeur, une avocate —, quel que soit son genre. Ce peut être vous aussi, quand la décision vous revient et que vous aurez à en répondre.'
 categories:
@@ -58,17 +54,17 @@ Le Roi d’Épées, c’est le Roi qui juge : demandez-vous qui ses jugements se
 
 Les Épées sont l’[Air](/fr/bibliotheque/quatre-elements/element-air/), et le rang du Roi ajoute le Feu : le Feu d’Air, une idée mise en application. La pensée devient une règle, un verdict, une décision qui s’impose aux autres.
 
-Mon archétype de l’Air, c’est le chef qui prend les décisions que personne d’autre ne peut prendre — et qui peut devenir un tyran. Ce Roi, c’est cet archétype sur un trône. Son énergie est [masculine au sens où je l’entends](/fr/bibliotheque/energies-feminine-masculine/) : directe, prompte à décider, parfois brutale, prête à se tenir devant tout le monde et à dire « voilà ce qu’on fait ».
+Mon archétype de l’Air, c’est le chef qui prend les décisions que personne d’autre ne peut prendre — et qui peut devenir un tyran. Ce Roi, c’est cet archétype sur un trône. Son [énergie masculine, comme je la comprends](/fr/bibliotheque/energies-feminine-masculine/), le rend direct, prompt à décider, parfois brutal, prêt à se tenir devant tout le monde et à dire « voilà ce qu’on fait ».
 
 ## Par les couleurs {#couleurs}
 
-L’essentiel de la carte est d’un [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) pâle : la robe, le ciel. Dans ma grille, le bleu, c’est l’émotion, l’eau, ce qui purifie — ici, un tempérament calme, une tête qui reste froide. Le manteau [violet](/fr/bibliotheque/couleurs-tarot/violet/), c’est la couleur que j’appelle « celui qu’un groupe a choisi », un rouge mûri : une autorité confiée par les autres, la couleur de l’Empereur. Le capuchon rouge et la doublure rouge orangé, c’est l’action, gardée près du visage. La couronne d’or, la valeur et le rang. Avant le nom : une tête calme, une autorité choisie, une action tenue en bride.
+L’essentiel de la carte est d’un [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) pâle : la robe, le ciel. Dans ma grille, le bleu, c’est l’émotion, l’eau, ce qui purifie — ici, un tempérament calme, une tête qui reste froide. Le manteau [violet](/fr/bibliotheque/couleurs-tarot/violet/), c’est la couleur que j’appelle « celui qu’un groupe a choisi », un rouge mûri : une autorité confiée par les autres, la couleur de l’Empereur. Le capuchon rouge et la doublure rouge orangé, c’est l’action, gardée près du visage. La couronne d’or, la valeur et le rang. Sa tenue résume la carte : une tête calme, une autorité choisie, une action tenue en bride.
 
 ## En lecture {#lecture}
 
 À l’endroit, le Roi d’Épées, c’est une décision claire, assumée : quelqu’un qui réfléchit, pèse, juge et explique. L’avis d’un expert, une responsable qui fixe la règle, un professeur qui connaît son sujet sur le bout des doigts. Ou vous, au moment où le choix vous revient. **Le Roi d’Épées décide, et vous regarde dans les yeux pendant qu’il le fait.**
 
-Renversé, son autorité cale, ou se durcit. Freinée : la personne qui devrait décider repousse sans cesse, ou annonce des décisions sans jamais les expliquer. Excessive : la règle pour la règle, les verdicts froids, l’intelligence mise au service de la victoire plutôt que de l’équité.
+Renversé, le juge se dérobe, ou se raidit. S’il se dérobe, la personne qui devrait décider repousse sans cesse, ou annonce des décisions sans jamais les expliquer. S’il se raidit, c’est la règle pour la règle, les verdicts froids, l’intelligence mise au service de la victoire plutôt que de l’équité.
 
 À côté de l’[Empereur](/fr/bibliotheque/cartes-tarot/l-empereur/), l’autorité double : la structure et la décision dans les mêmes mains, et « pour qui ? » devient la question urgente. À côté de la [Justice](/fr/bibliotheque/cartes-tarot/la-justice/), une décision juste se prend, toutes les cartes sur la table. À côté du [Roi de Coupes](/fr/bibliotheque/cartes-tarot/roi-de-coupes/), la tête et le cœur siègent côte à côte : le verdict, et le calme pour l’annoncer avec douceur.
 
@@ -78,6 +74,6 @@ Renversé, son autorité cale, ou se durcit. Freinée : la personne qui devrait 
 
 Un tirage pour s’entraîner : une personne que vous ne connaissez pas tire le Roi d’Épées, puis le [Six de Pentacles](/fr/bibliotheque/cartes-tarot/six-de-pentacles/). Un Roi puis un six : la décision, puis la réussite et l’échange équitable. Le Feu d’Air puis la Terre : une règle pensée dans la tête, puis son effet dans le monde réel. Un roi qui vous fait face, l’épée dressée, puis un homme qui tient une balance et distribue des pièces.
 
-À voix haute, cela pourrait donner : « C’est à vous de décider comment quelque chose va être partagé — du temps, du travail, du mérite —, et les autres accepteront votre décision si vous expliquez vos raisons. »
+Le juge, puis la balance, et la phrase qui les relie : « C’est à vous de décider comment quelque chose va être partagé — du temps, du travail, du mérite —, et les autres accepteront votre décision si vous expliquez vos raisons. »
 
-Puis vérifiez : « Êtes-vous en ce moment dans une position où vous décidez pour d’autres ? » Si oui, demandez pour qui est la décision. Si non, c’est un raté : notez-le, et tenez-vous-en là.
+Puis vérifiez : « Êtes-vous en ce moment dans une position où vous décidez pour d’autres ? » Si oui, demandez pour qui est la décision. Si non, la décision n’est pas entre ses mains, et la phrase tombe : tenez-vous-en là.

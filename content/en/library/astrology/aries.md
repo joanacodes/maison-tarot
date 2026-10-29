@@ -24,12 +24,10 @@ related:
 - /library/astrological-modes/cardinal
 - /library/astrology/mars
 faq:
-- q: Which tarot card corresponds to Aries?
-  a: The Emperor, in the Golden Dawn tradition taken up by the Rider-Waite-Smith.
-    When it comes out, the sign gives its verb, element and mode at once.
-- q: 'I''m a Aries: is this card ''my'' card?'
-  a: A way in, not an identity. The card says the same thing to anyone; your sign
-    only helps you recognise it faster. Astrology is not an excuse.
+- q: 'Which tarot card corresponds to Aries?'
+  a: 'The Emperor, arcana IV. Rams’ heads decorate his throne — the sign’s own animal — and he does what Aries does best: he starts things, and he gives the orders.'
+- q: 'I’m an Aries: is the Emperor ‘my’ card?'
+  a: 'No more yours than anyone else’s. Whoever draws it gets the same card about command and first moves; being an Aries won’t excuse charging in before there’s a plan.'
 gallery:
 - src: "visuals/sign-aries/1.jpg"
   title: "The first to go"
@@ -76,7 +74,7 @@ The soldier, the warrior, the bricklayer building the wall while others discuss.
 
 ## Its card: The Emperor {#card}
 
-When [the Emperor](/library/tarot-cards/the-emperor/) comes out, Aries is in the room: someone commands, starts, decides. Well placed, it's the authority that protects. Badly placed, it's the wall built too fast. Look at the next card to know whether the plan exists.
+Someone commands, starts, decides: that's Aries arriving through [the Emperor](/library/tarot-cards/the-emperor/). It can be the authority that protects, or the wall built too fast; the next card tells you whether the plan exists.
 
 {{< cards "ar04" >}}
 

@@ -21,7 +21,7 @@ The Moon is a Water card, and Water is what two people feel about each other. In
 
 Its number, 18, becomes 1 + 8 = 9: the last stretch of a stage. So the Moon rarely turns up at the start of a love story. It turns up in the fog near the end of a phase, in the weeks before a conversation finally happens.
 
-Its energy is feminine: imagination, the intangible, what goes on behind the scenes. In love, that’s the story you write in the gaps between two messages. Pisces, if astrology speaks to you, says the same: a calm surface, a whole world teeming underneath. The other lenses are on [the Moon’s own page](/library/tarot-cards/the-moon/).
+Its energy is feminine: imagination, the intangible, what goes on behind the scenes. In love, that’s the story you write in the gaps between two messages. Pisces, the sign tied to this card, says the same: a calm surface, a whole world teeming underneath. [The Moon’s own page](/library/tarot-cards/the-moon/) reads the drawing and its colours in full.
 
 **The Moon doesn’t say someone is hiding something; it says not everything is visible yet, on either side.**
 
@@ -37,15 +37,15 @@ After a break-up, it’s the not-understanding. Why it ended, what was true, whe
 
 The Moon is the card people read as deception, so it often arrives with this question. Usually the person asking has been lying awake with it, and that deserves kindness, not a lecture.
 
-I don’t read on someone who isn’t in the room, and here’s why. They haven’t agreed to be read. And the Moon is the card of projection: ask it to confirm a suspicion and it will look like confirmation, because you’ll see your fear in it. I’ve written more on [reading tarot about someone else](/blog/reading-tarot-about-someone-else/).
+I don’t read on an absent person, and here’s why. They haven’t agreed to be read. And the Moon is the card of projection: ask it to confirm a suspicion and it will look like confirmation, because you’ll see your fear in it. I’ve written more on [reading tarot about someone else](/blog/reading-tarot-about-someone-else/).
 
 The gentler question: “What do I actually know, what am I imagining, and what would I need to ask him directly?” The third part is where the answer lives: in a conversation, in daylight.
 
-The dog and the wolf on the card howl at the same light. Fear at night is old and very human, and being afraid of the dark can be being afraid of your own shadow — the place where we put what we never wanted to look at. I used to wait for a light before walking into any dark room; I’ve written about [what changed](/blog/afraid-of-the-dark/).
+The dog and the wolf on the card howl at the same light. Fear at night is old and very human, and sometimes the thing we dread in the dark is our own shadow: the corner where we’ve put whatever we never wanted to look at. I used to wait for a light before walking into any dark room; I’ve written about [what changed](/blog/afraid-of-the-dark/).
 
 ## What surfaces later {#what-surfaces}
 
-Some of what the Moon hides comes up on its own, and not always on the side you expect. My [very first reading for a stranger](/blog/first-tarot-reading-story/) missed on the day and was confirmed within days, including an unflattering part about how she had treated the other person.
+Some of what the Moon hides comes up on its own, and not always on the side you expect. [The first reading I did for someone I’d never met](/blog/first-tarot-reading-story/) seemed to miss at the time; within days it had all come true, including an unflattering part about how she had treated the other person.
 
 So when the Moon comes up in love, this is how I’d read what’s underneath:
 
@@ -58,7 +58,7 @@ So when the Moon comes up in love, this is how I’d read what’s underneath:
 
 Reversed, the Moon is often the fog lifting: a conversation that clears things, a truth that turns out smaller than the fear. It can also be the confusion in excess — checking phones, rereading old messages for hidden meanings, every shadow turned into a wolf. If you catch yourself doing the second, that’s the moment to stop investigating and start asking.
 
-The cards around it tell you which way the fog is moving.
+Its neighbours show which way the fog is moving.
 
 {{< cards "swqu sw09 ar19" >}}
 
@@ -66,4 +66,4 @@ Next to the Queen of Swords, it lifts through words: one clear, kind question as
 
 ## One card for the crayfish {#crayfish}
 
-Draw one card with a single question: “What is rising in me right now?” Write down what you see, then sit with it for a day before you act on anything. If the doubt keeps you up at night, [the Nine of Swords in love](/blog/nine-of-swords-tarot-love/) talks about exactly those hours.
+Draw one card with a single question: “What is rising in me right now?” Write down what you see, and let a day pass before you act on anything. If the doubt keeps you up at night, [the Nine of Swords in love](/blog/nine-of-swords-tarot-love/) talks about exactly those hours.

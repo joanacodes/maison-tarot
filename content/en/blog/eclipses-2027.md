@@ -43,7 +43,7 @@ In 2027 the eclipse seasons fall in February and in late July–August, and the 
 
 {{< cards "ar08 ar17" >}}
 
-That's what the tradition says. What I can add is my own count, with its limit: when [I tested my birth chart box by box](/blog/i-tested-my-birth-chart/), placements held about 30–40% of the time overall, and eclipses weren't part of that test at all. So I treat eclipses as a theme to think with, never as a schedule — and [astrology is not an excuse](/disclaimers/#astrology) for a decision you were going to make anyway.
+That's what the tradition says. What I can add is my own count, with its limit: when I [put my own chart to the test](/blog/i-tested-my-birth-chart/), about 30–40% of placements held overall, and eclipses weren't part of that test at all. So I treat eclipses as a theme to think with, never as a schedule — and [astrology is not an excuse](/disclaimers/#astrology) for a decision you were going to make anyway.
 
 ## A gentle tarot spread for the 2027 eclipses {#spread}
 
@@ -53,7 +53,7 @@ Three cards, once in February and once in August. Not on every eclipse, and not 
 2. *What is starting quietly?* The solar card: a beginning you might not have noticed yet.
 3. *What can I leave alone until the next eclipse?* The kindest card in the spread: permission to not fix everything now.
 
-Read each card through its colours, its number and its element before you look anything up. Write the three cards and one sentence for each in [your reading notebook](/blog/tarot-journal/), with the date. In August, before you draw again, reread February's page and mark what held, what missed, and what's too early to say.
+Read each card through its colours, its number and its element before you look anything up. Log all three in [your reading notebook](/blog/tarot-journal/), a line apiece and the date at the top. In August, before you draw again, reread February's page and mark what held, what missed, and what's too early to say.
 
 ## The next step {#next-step}
 

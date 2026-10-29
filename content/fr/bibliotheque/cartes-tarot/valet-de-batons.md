@@ -1,7 +1,7 @@
 ---
 title: 'Valet de Bâtons (Page of Wands) — tarot Rider-Waite-Smith : lire la carte
   par ses clés de lecture'
-description: 'Valet de Bâtons : un jeune homme dans le désert contemple les pousses de son bâton. Lisez l’envie neuve et l’apprentissage par le rang, le Feu, la couleur.'
+description: 'Valet de Bâtons : un jeune homme dans le désert contemple les pousses de son bâton. L’envie neuve, l’élève qui débute, et l’étincelle qui doit encore prendre.'
 translationKey: card-wapa
 type: cards
 navTitle: Valet de Bâtons
@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/wapa.webp
 h1: Valet de Bâtons — <em>le Valet</em>, la Terre de feu
-lede: 'Avant de chercher ce que « signifie » Valet de Bâtons, regardez ce que vous
-  avez déjà : le Valet, l’élément Terre de Feu. Vous lisez la carte. Le nombre dit
-  le Valet — l’élève, le message, l’élan neuf ; l’élément dit l’élan, ce qu’on lance.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Seul dans le désert, un jeune homme tient son bâton à deux mains et lève les yeux vers les pousses qui en sortent, comme devant un cadeau. Ce désir tout neuf, accepterez-vous d’apprendre à vous en servir ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -64,7 +60,7 @@ La carte pose donc une question concrète : que ferez-vous de l’étincelle ? L
 
 Le jaune domine — la tunique, les bottes, la cape : la joie, l’optimisme, l’expression de soi, l’enfant intérieur. Une couleur jeune sur un personnage jeune. Le désert et les pyramides sont [orange](/fr/bibliotheque/couleurs-tarot/orange/) : la créativité, et aussi l’aridité. Le sol autour de lui est sec, et rien n’y pousse encore, sauf son bâton.
 
-D’où l’importance des petites pousses [vertes](/fr/bibliotheque/couleurs-tarot/vert/) au sommet : la naissance, la croissance, la seule chose vivante du paysage, et c’est exactement là qu’il regarde. Avant même le nom de la carte, les couleurs vous donnent un débutant joyeux, une envie de créer, et une terre sèche à faire vivre.
+D’où l’importance des petites pousses [vertes](/fr/bibliotheque/couleurs-tarot/vert/) au sommet : la naissance, la croissance, la seule chose vivante du paysage, et c’est exactement là qu’il regarde. Pas besoin du titre : les couleurs vous donnent un débutant joyeux, une envie de créer, et une terre sèche à faire vivre.
 
 ## En lecture {#lecture}
 
@@ -80,6 +76,6 @@ Renversé, l’étincelle ne prend pas : un feu de paille, des idées lancées p
 
 Dans un tirage d’entraînement, le Valet de Bâtons sort à côté du [Quatre de Coupes](/fr/bibliotheque/cartes-tarot/quatre-de-coupes/). Le Valet puis 4 : l’élève, puis une stabilité qui peut tourner à l’immobilité. Le Feu puis l’Eau : une envie, puis une humeur. Un personnage jaune vif qui lève les yeux vers son bâton, puis un boudeur sous un arbre qui refuse de regarder la coupe qu’on lui tend.
 
-À voix haute, cela pourrait donner : « Quelque chose de neuf essaie d’attirer votre attention, et une partie de vous reste assise, les bras croisés. L’envie est là ; vous ne l’avez pas encore laissée entrer. »
+L’élève fasciné, puis le boudeur : « Quelque chose de neuf essaie d’attirer votre attention, et une partie de vous reste assise, les bras croisés. L’envie est là ; vous ne l’avez pas encore laissée entrer. »
 
-Puis vous vérifiez : « Est-ce qu’une idée ou une proposition est arrivée ces derniers temps, que vous laissez de côté ? » Si la personne dit non, restez-en là et notez le raté. Si elle dit oui, laissez-la vous dire de quoi il s’agit, ou pas. Vous pouvez lire la carte sans le savoir.
+Vérifiez alors : « Est-ce qu’une idée ou une proposition est arrivée ces derniers temps, que vous laissez de côté ? » Si rien de neuf n’attend dans un coin, la phrase n’a pas pris, comme une étincelle sur du sable : notez-le. Si la personne dit oui, laissez-la vous dire de quoi il s’agit, ou pas. Vous pouvez lire la carte sans le savoir.

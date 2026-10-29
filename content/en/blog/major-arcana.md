@@ -9,7 +9,7 @@ tags: ["major arcana", "major arcana meanings", "tarot card meanings", "Rider-Wa
 image: "covers/major-arcana.jpg"
 imageAlt: "Twenty-two tarot cards laid face up in three rows on a wooden table, seen from above, a notebook at the edge"
 imagePrompt: "Twenty-two tarot cards laid face up in three neat rows on a plain wooden table, seen from directly above, an open notebook and a pencil at the edge. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "The 22 major arcana run from the Fool (0) to the World (21) and carry the big themes of a reading: a beginning, a choice, an ending, a renewal. You don’t need to memorise them. Each card already holds a number (from 11 to 21, add the digits: 13 becomes 4), an element, a sign or planet and a feminine or masculine energy. Reduced, the numbers sort the 22 into ten families — the Magician, the Wheel of Fortune and the Sun are all 1 — so you can learn two or three cards at a time. Every card has a plus and a minus, Death included."
+summary: "The 22 major arcana run from the Fool (0) to the World (21) and carry the big themes of a reading: a beginning, a choice, an ending, a renewal. You don’t need to memorise them. Each card already holds a number (from 11 to 21, add the digits: 13 becomes 4), an element, a sign or planet and a feminine or masculine energy. Reduced, the numbers sort the 22 into ten families — the Magician, the Wheel of Fortune and the Sun are all 1 — so you can learn two or three cards at a time. Each card has a light side and a heavy side, Death included."
 ---
 The 22 major arcana are the big scenes of the deck, from the Fool setting off (0) to the World dancing at the end (21). You don’t need to learn 22 meanings by heart: each card already carries a number, an element, a sign or planet and an energy, and with those four you can say something true about it before you’ve opened a book. Below, all 22 sit in one table, sorted into families you can learn two or three at a time, and every card links to its own page, where its drawing is read in detail.
 
@@ -21,7 +21,7 @@ Their numbers tell a story, and it helps to know its shape. From 0 to 6, the Foo
 
 That arc is a way to hold 22 cards in your head as one story rather than 22 facts. A spread never lays them out in order, so don’t read it as a timetable.
 
-**Every card has a plus and a minus, and the lenses show you both.** In my notes, Judgement is neither good nor bad, and Death isn’t necessarily bad either: even the darkest drawing has its plus.
+**Each card carries a strength and a shadow, and the lenses show you both.** In my notes, Judgement is neither good nor bad, and Death isn’t necessarily bad either: even the darkest drawing has its plus.
 
 ## The 22 cards through their lenses {#lenses}
 
@@ -73,7 +73,7 @@ One caution before you start. In a Marseille deck, Strength is 11 and Justice is
 
 ### 1: the Magician, the Wheel of Fortune, the Sun {#ones}
 
-One is the initiator, the raw diamond at the start of a cycle. The Magician has every tool on his table. The Wheel, in my notes, says it’s up to you to turn it: create your own luck. The Sun goes 19, 10, then 1, closing a cycle in full light and opening the next. Their shared minus is 1’s: a lack of humility, when we are all students our whole life.
+One is the initiator, the raw diamond at the start of a cycle. The Magician has every tool on his table. The Wheel, in my notes, waits for your hand on it: luck is something you make. The Sun goes 19, 10, then 1, closing a cycle in full light and opening the next. Their shared minus is 1’s: a lack of humility, when we are all students our whole life.
 
 ### 2: the High Priestess, Justice, Judgement {#twos}
 
@@ -81,7 +81,7 @@ Two is the bond, the contract, weighing pros and cons. The High Priestess and Ju
 
 ### 3: the Empress, the Hanged Man, the World {#threes}
 
-Three is the machine running well, the project that works. The Empress feeds and makes things grow; the Hanged Man pauses the rhythm so it can start again; the World is, in my notes, action led by the whole, both hands working. Three’s advice fits all three: finish one project before you start another.
+Three is the machine running well, the project that works. The Empress nourishes, and whatever she tends grows; the Hanged Man pauses the rhythm so it can start again; the World is, in my notes, action led by the whole, both hands working. Three’s advice fits all three: finish one project before you start another.
 
 ### 4: the Emperor and Death {#fours}
 
@@ -101,7 +101,7 @@ Seven is reflection, analysis before action, and the reminder that everything is
 
 ### 8: Strength and the Star {#eights}
 
-Eight is mastery, and a gate between the tangible and the intangible; lie it down and you get the infinity sign floating over Strength’s head. Strength masters the lion without force. The Star pours one jug onto the land and one into the water, into both worlds at once.
+Eight is mastery, and a gateway joining the concrete to the intangible; lie it down and you get the infinity sign floating over Strength’s head. Strength masters the lion without force. The Star pours one jug onto the land and one into the water, into both worlds at once.
 
 ### 9: the Hermit and the Moon {#nines}
 
@@ -109,11 +109,11 @@ Nine is the finish line of a stage: introspection, patience, last efforts — bu
 
 ### 0: the Fool {#zero}
 
-He stands outside the count, or at the 10 that opens the next cycle: the corridor between two rooms. In my notes, the bundle on his stick means he can set up anywhere, free in his decisions. His minus is naivety, and the little dog at his heels is trying to remind him.
+He stands outside the count, or at the 10 that opens the next cycle: the corridor between two rooms. In my notes, the bundle on his stick means he can set up anywhere, free in his decisions. His minus is naivety, and the little dog leaping at his side is there to warn him.
 
 ### By element {#elements}
 
-The elements give you a second way to sort them. Fire has seven majors — the Emperor, Strength, the Wheel, Temperance, the Tower, the Sun and Judgement: creation and destruction, the energy that gets things moving and spreads fast when nobody masters it. Water has five — the High Priestess, the Chariot, the Hanged Man, Death and the Moon: the slow cards, where things seep in rather than strike. Air has five — the Fool, the Magician, the Lovers, Justice and the Star: decisions and words, a mind that can cut cleanly or go round in circles. Earth has five — the Empress, the Hierophant, the Hermit, the Devil and the World: matter, endurance, and stubbornness too. In my notes, not all riches are gold.
+The elements give you a second way to sort them. Fire has seven majors — the Emperor, Strength, the Wheel, Temperance, the Tower, the Sun and Judgement: creation and destruction, the energy that gets things moving and spreads fast when nobody masters it. Water has five — the High Priestess, the Chariot, the Hanged Man, Death and the Moon: the slow cards, where things seep in rather than strike. Air has five — the Fool, the Magician, the Lovers, Justice and the Star: decisions and words, a mind that can cut cleanly or go round in circles. Earth has five — the Empress, the Hierophant, the Hermit, the Devil and the World: matter, endurance, and stubbornness too, with wealth counted in more than money.
 
 The element sort pays off in a spread. Several Fire majors together and something is moving fast, perhaps faster than anyone planned; several Water majors, and it’s being felt more than decided.
 

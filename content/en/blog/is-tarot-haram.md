@@ -45,7 +45,7 @@ The question rarely comes from a taste for theology. It comes from a curiosity t
 
 So I won't try to convince a Muslim that tarot fits with their faith. It isn't my role, and it would be disrespectful to someone who takes their tradition seriously. I've explained in [is tarot a sin?](/blog/is-tarot-a-sin/) why I never tell anyone what their religion permits.
 
-What I can tell you is what I do. I don't claim to know the hidden. I call on no spirits, promise nothing, and never present a reading as a verdict; [the cards aren't an authority](/disclaimers/#readings). I mostly read the present of the person in front of me. But I won't conclude from that that it's halal: that would be convenient, and it isn't mine to say.
+What I can tell you is what I do. I don't claim to know the hidden. I call on no spirits, promise nothing, and never present a reading as a verdict, because [a card has no say over your choices](/disclaimers/#readings). I mostly read the present of the person in front of me. But I won't conclude from that that it's halal: that would be convenient, and it isn't mine to say.
 
 If you're Muslim, you've been reading cards and you now feel uneasy, guilt isn't a good adviser either. Talk it through with someone you trust in your tradition, and whatever you decide, decide it calmly: a choice made in fear rarely holds, in either direction.
 

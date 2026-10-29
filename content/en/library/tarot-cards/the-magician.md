@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: Beth
 image: cards/ar01.webp
 h1: The Magician — <em>1</em>, Air
-lede: 'Before looking up what The Magician “means”, look at what you already have:
-  1, the element Air, Mercury. You’re reading the card. The number says 1 — one —
-  the beginning, the rough diamond; the element says the mind, what you decide. Lay
-  the two over each other, add the colours, and the card is already talking — the
-  rest of the page shows you how.'
+lede: 'One hand raising a white wand, the other pointing down, a young magician stands at a table laid with a cup, a sword, a coin and a wand. Will you use what is already there?'
 related:
 - /library/numerology
 - /library/four-elements/air-element
@@ -58,17 +54,17 @@ The infinity sign over his head is an 8 lying down, and 8, in my notes, is maste
 
 ## By element: Air {#element}
 
-The Magician is an [Air](/library/four-elements/air-element/) card: the mind, the decision, the word. Air reaches everything at once, which is why I call it the best decision-maker of the four — Fire is too impulsive, Water too emotional, Earth too stubborn.
+The Magician is an [Air](/library/four-elements/air-element/) card: the mind, the decision, the word. Air reaches everything at once, so of the four it’s the one I’d let decide: Fire rushes, Water is swayed by feeling, Earth digs its heels in.
 
 It’s also why he holds all four tools, one per element, plus the ether that links them. In my notes he knows how to do everything and stays anchored. He relays: the raised wand receives, the hand pointing down passes it on. His minus belongs to Air too, its “viper’s tongue”: someone who speaks well enough to pretend.
 
 ## By colours {#colours}
 
-Yellow fills the background: joy, self-expression, will. In [my colour grid](/library/tarot-colours/yellow/) it’s the colour of the Magician and the Fool, of wanting something in broad daylight. Red on the cloak and the roses: action, impulse, masculine drive. White on the robe and the lilies: an intention that’s still clean. Before you read the card, you already have will, action and a clean start.
+Yellow fills the background: joy, self-expression, will. My [colour grid](/library/tarot-colours/yellow/) gives yellow to the Magician and the Fool: wanting something in broad daylight. Red on the cloak and the roses: action, impulse, masculine drive. White on the robe and the lilies: an intention that’s still clean. That’s will, action and a clean start, all before the first move.
 
 ## By astrology: Mercury {#astrology}
 
-In the Golden Dawn tradition, the Magician goes with [Mercury](/library/astrology/mercury/), the messenger: how you think, speak and learn. It suits a figure who relays between sky and ground. Mercury rules Gemini, who talks, and Virgo, who checks; the Magician needs both.
+[Mercury](/library/astrology/mercury/), the messenger, rules the Magician in the Golden Dawn: how you think, speak and learn. It suits a figure who relays between sky and ground. Mercury rules Gemini, who talks, and Virgo, who checks; the Magician needs both.
 
 ## In a reading {#reading}
 
@@ -100,4 +96,4 @@ Try this pairing as an exercise: the Magician, then the Four of Cups, where a yo
 
 What I’d say out loud: “You have what you need to start something, and you keep waiting for a better offer before you use it.”
 
-Then I’d check: is there something you’ve been ready to begin for a while? If not, I don’t pull another card to rescue the sentence.
+Then I’d want to know: is there something you’ve been ready to begin for a while? If nothing is waiting on the table for them, I don’t pull another card to rescue the sentence.

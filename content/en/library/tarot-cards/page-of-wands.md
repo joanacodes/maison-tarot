@@ -15,11 +15,7 @@ energy: Feminine
 kabbalah: ''
 image: cards/wapa.webp
 h1: Page of Wands — <em>the Page</em>, Earth of Fire
-lede: 'Before looking up what Page of Wands “means”, look at what you already have:
-  the Page, the element Earth of Fire. You’re reading the card. The number says the
-  Page — the student, the message, the new impulse; the element says drive, what you
-  launch. Lay the two over each other, add the colours, and the card is already talking
-  — the rest of the page shows you how.'
+lede: 'Alone in an orange desert, a young man in a salamander tunic stares up at the green shoots on his staff without using it yet. What will you learn to do with a gift you haven’t opened?'
 related:
 - /library/numerology
 - /library/four-elements/fire-element
@@ -63,7 +59,7 @@ So the card asks something concrete: what will you do with the spark? Fire on it
 
 Yellow dominates — the tunic, the boots, the cloak: joy, optimism, self-expression, the inner child. It’s a young colour on a young figure. The desert and the pyramids are [orange](/library/tarot-colours/orange/): creativity, and also aridity. The ground around him is dry, and nothing grows there yet except his wand.
 
-That’s why the small [green](/library/tarot-colours/green/) shoots at the top matter so much: birth, growth, the one living thing in the landscape, and exactly where he’s looking. Before the card’s name, the colours give you a joyful beginner, a creative urge, and dry ground still to bring to life.
+That’s why the small [green](/library/tarot-colours/green/) shoots at the top matter so much: birth, growth, the one living thing in the landscape, and exactly where he’s looking. Yellow, orange and a little green: a joyful beginner, a creative urge, and dry ground still to bring to life.
 
 ## In a reading {#reading}
 
@@ -79,6 +75,6 @@ Next to the [Ace of Wands](/library/tarot-cards/ace-of-wands/), it’s the same 
 
 In a practice spread, the Page of Wands comes out next to the [Four of Cups](/library/tarot-cards/four-of-cups/). The Page then 4: the student, then stability that can turn into being stuck. Fire then Water: an urge, then a mood. A bright yellow figure looking up at his wand, then a sulking figure under a tree who won’t look at the cup offered to him.
 
-Out loud, it could sound like this: “Something new is trying to get your attention, and part of you is still sitting with its arms crossed. The urge is there; you haven’t let it in yet.”
+The upward gaze next to the folded arms gives this: “Something new is trying to get your attention, and part of you is still sitting with its arms crossed. The urge is there; you haven’t let it in yet.”
 
-Then check: “Has an idea or an offer come up lately that you’ve been ignoring?” If they say no, leave it there and note the miss. If they say yes, let them tell you what it is. You can read the card without knowing.
+Then check: “Has an idea or an offer come up lately that you’ve been ignoring?” If nothing new has knocked lately, leave it there and note the miss. If they say yes, let them tell you what it is. You can read the card without knowing.

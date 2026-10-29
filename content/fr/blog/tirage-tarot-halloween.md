@@ -21,7 +21,7 @@ Dans une soirée entre amis pendant les vacances de la Toussaint, dans un salon 
 2. Quelqu’un mélange — vous ou la personne qui lit. Il n’y a pas de mauvaise façon de faire.
 3. Une carte, trois cartes, parfois plus, sont posées face visible.
 4. La personne décrit ce qu’elle voit — les couleurs, les personnages, les nombres — et ce qui lui vient.
-5. Vous écoutez. Puis vous dites ce qui tenait et ce qui ne tenait pas.
+5. Vous écoutez. Puis vous dites ce qui vous parle et ce qui tombe à côté.
 6. C’est fini. Dix minutes suffisent largement pour une première fois.
 
 **Un bon tarologue demande toujours avant de vous lire, et s’arrête quand vous le lui demandez.** C’est tout le savoir-vivre qu’on attend de vous : vous avez le droit d’être curieux, sceptique, ou les deux.
@@ -36,7 +36,7 @@ Vous croiserez peut-être l’une des trois cartes qui inquiètent le plus : la 
 
 La Mort, dans le dessin de Pamela Colman Smith (1909), avance sur un cheval blanc, avec un soleil à l’horizon entre deux tours. Au tarot de Marseille, la treizième lame n’a même pas de nom. Elle parle d’une fin qui fait de la place : plus proche de la récolte que de la tombe, une saison qui se ferme pour qu’une autre commence. La Tour, c’est une secousse — une structure qui ne tenait plus et qui tombe vite. Le Diable, c’est l’attachement : deux personnages enchaînés si lâchement qu’ils pourraient retirer leurs chaînes eux-mêmes.
 
-Chaque carte a un plus et un moins, et ces trois-là ont autant de plus que les autres. [Pourquoi les cartes qui font peur sont plus douces qu’elles n’en ont l’air](/fr/blog/cartes-tarot-qui-font-peur/) les reprend une par une.
+Comme n’importe quelle lame, ces trois-là ont une face favorable, et elle n’est pas plus mince que chez les autres. [Pourquoi les cartes qui font peur sont plus douces qu’elles n’en ont l’air](/fr/blog/cartes-tarot-qui-font-peur/) les reprend une par une.
 
 Si quelqu’un transforme l’une d’elles en menace — « quelque chose de grave arrive, et je peux vous aider, moyennant finance » —, c’est le moment de remercier et de partir.
 
@@ -46,7 +46,7 @@ Certaines questions reviennent davantage autour d’Halloween et de la Toussaint
 
 Je ne lis pas sur ces sujets, et voici pourquoi. Une carte ne pose pas de diagnostic, ne voit pas à l’intérieur d’un corps et ne date pas un décès, et un mot de travers sur ces questions peut rester des années dans une tête. Il en va de même pour les procès en cours, les décisions d’argent et les personnes qui ne sont pas là.
 
-Il y a souvent une question plus douce juste en dessous — « comment prendre soin de moi en attendant les résultats ? », « qu’est-ce que j’ai envie de dire à ma grand-mère cet hiver ? » — et celle-là, les cartes peuvent la porter. Voici [la liste complète de ce que je ne lis pas, et pourquoi](/fr/avertissements/#refus).
+Il y a souvent une question plus douce juste en dessous — « comment prendre soin de moi en attendant les résultats ? », « qu’est-ce que j’ai envie de dire à ma grand-mère cet hiver ? » — et celle-là, les cartes peuvent la porter. Voici [tous les sujets écartés à Maison Tarot, motifs compris](/fr/avertissements/#refus).
 
 ## Soirée, salon ou événement en ligne {#soiree-salon-en-ligne}
 

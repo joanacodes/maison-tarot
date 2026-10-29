@@ -23,7 +23,7 @@ One question helps here: what would I do differently if the second card said exa
 
 ## What repeat readings do to you {#what-they-do}
 
-Say someone asks on Monday, “Will I get the job?” and draws the Eight of Pentacles: a craftsman at his bench, carving pentacles one at a time. Effort, skill, work still to do. A fair answer.
+Say someone asks on Monday, “Will I get the job?” and draws the [Eight of Pentacles](/library/tarot-cards/eight-of-pentacles/): a man with hammer and chisel, his finished coins hung up beside him and one more taking shape under his hands. Effort, skill, work still to do. A fair answer.
 
 On Tuesday, still nervous, they ask again and draw the Five of Wands: five figures swinging staffs, nobody coordinated. On Wednesday night, the Moon: a path running between two towers, a dog and a wolf howling, a crayfish crawling out of a pool.
 
@@ -35,7 +35,7 @@ By Wednesday they have three readings and less clarity than they had on Monday. 
 
 There’s a second effect, quieter. Once you have three answers, you start choosing the one you prefer. The reading becomes a menu, and you’re ordering from it. At that point you’re not consulting anything; you’re looking for permission.
 
-And there’s a third, which I’ve watched in others: the loop, where the same question comes back again and again, carried by doubt rather than curiosity. When someone comes to me like that, I usually don’t read for them that day; I explain why in [why you should quit tarot reading, for a while at least](/blog/why-you-should-quit-tarot-reading/).
+And there’s a third, which I’ve watched in others: the loop, where the same question comes back again and again, carried by doubt rather than curiosity. When someone comes to me like that, I usually don’t read for them that day, for reasons I set out in [a piece on stepping back from readings](/blog/why-you-should-quit-tarot-reading/).
 
 ## How long to wait between two readings on the same question {#how-long}
 
@@ -47,7 +47,7 @@ A rough guide:
 
 - *A decision:* ask again after you’ve taken a step, not before.
 - *A situation* (a job, a relationship, a move): ask again when there’s news.
-- *The same question more than twice in a month:* treat that as an alarm. Put the deck in a drawer for a few weeks.
+- *A third time on one question inside a month:* treat that as an alarm. Shut it in a drawer and leave it there for a few weeks.
 
 The deck will still be there when you open the drawer, and you’ll read it better.
 

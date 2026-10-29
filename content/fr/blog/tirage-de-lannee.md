@@ -23,7 +23,7 @@ Ce qu’il n’est pas : un calendrier d’événements. Si juin donne le Trois 
 
 Avant de lire une seule carte, je lis toute la table avec les clés de lecture. Ça prend cinq minutes, et ça en dit plus que n’importe quelle carte seule.
 
-1. Comptez les suites. Une année chargée en Coupes est une année d’émotions ; en Épées, une année de décisions et de conversations ; en Pentacles, le travail, l’argent et tout ce qui a de la valeur pour vous ; en Bâtons, les projets et l’élan. [Les quatre éléments](/fr/bibliotheque/quatre-elements/) les expliquent un par un.
+1. Comptez les suites. Une année chargée en Coupes est une année d’émotions ; en Épées, une année de décisions et de conversations ; en Pentacles, le travail, l’argent et ce qui vous est précieux ; en Bâtons, les projets et l’élan. [Les quatre éléments](/fr/bibliotheque/quatre-elements/) les expliquent un par un.
 2. Comptez les arcanes majeurs. Beaucoup : de grands thèmes que vous ne maîtrisez pas tout à fait. Peu : une année surtout entre vos mains.
 3. Cherchez les nombres qui reviennent. Trois 5 dans une année, c’est beaucoup d’essais, d’échecs, et de nouveaux essais.
 4. Regardez les couleurs. Une table presque toute jaune ne se lit pas comme une table grise et bleue, avant même d’avoir nommé une carte.
@@ -46,7 +46,7 @@ Imaginons qu’avril soit le Deux de Coupes : deux personnes face à face qui l�
 
 Le 2, c’est la coopération, le lien, l’accord ; les Coupes, les sentiments. Le 1er avril, vous pourriez écrire : « Ce mois-ci, je ferai attention aux gens dont je me suis éloigné. » Le 30 avril : « Ma sœur et moi, on se reparle. Coche. »
 
-En décembre, vous avez douze phrases et douze marques — le récit de votre année, de votre main. **Le tirage aide parce que vous le vérifiez, pas parce qu’il avait raison.** [Le carnet de tirages que je tiens](/fr/blog/carnet-de-tirage-tarot/) suit les mêmes deux colonnes : ce que j’ai dit, ce qui s’est passé.
+En décembre, vous avez douze phrases et douze marques — le récit de votre année, de votre main. **Le tirage aide parce que vous le vérifiez, pas parce qu’il avait raison.** [Le carnet de tirages que je tiens](/fr/blog/carnet-de-tirage-tarot/) repose sur le même principe à deux colonnes : mes phrases en regard des faits.
 
 ## Ce qu’un tirage de l’année ne peut pas faire {#limites}
 
@@ -62,8 +62,8 @@ Chaque mois de décembre, les magazines et les réseaux se remplissent de prévi
 
 D’abord, je lis des personnes, une à la fois, sans rien savoir d’elles à l’avance. Une prévision pour tout le monde est un tirage pour personne. Ensuite, personne ne peut la vérifier. Quand elle rate, le raté n’est jamais compté — et [compter mes réussites et mes ratés](/fr/blog/le-tarot-marche-t-il-300-tirages/) est la seule raison pour laquelle j’ai confiance dans ce que je fais. Enfin, une prédiction devient vite une autorité. On attend son « bon mois » au lieu d’agir dans celui-ci, et [le tarot n’est pas une autorité](/fr/avertissements/#lectures).
 
-À mon sens, la meilleure façon de s’assurer un avenir agréable, c’est de s’ancrer dans le présent. Un tirage de votre propre année, vérifié mois après mois, laisse la décision entre vos mains.
+À mon sens, le présent, bien habité, reste le meilleur moyen de préparer de beaux lendemains. Un tirage de votre propre année, vérifié mois après mois, laisse la décision entre vos mains.
 
 ## Faire votre propre tirage de l’année {#commencer}
 
-On a jusqu’à fin janvier pour souhaiter la bonne année ; c’est aussi un bon délai pour tirer vos douze cartes. Lisez-les ensemble une fois, puis rouvrez le carnet le premier de chaque mois. Si vous voulez apprendre les clés de lecture avant de commencer, un [atelier](/fr/ateliers/) prend une clé et y consacre trois heures, à douze autour de la table.
+On a jusqu’à fin janvier pour souhaiter la bonne année ; c’est aussi un bon délai pour tirer vos douze cartes. Lisez-les ensemble une fois, puis rouvrez le carnet le premier de chaque mois. Pour découvrir les clés de lecture avant de vous lancer, un [atelier](/fr/ateliers/) prend une clé et y consacre trois heures, à douze autour de la table.

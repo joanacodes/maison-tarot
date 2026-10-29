@@ -9,7 +9,7 @@ tags: ["is tarot real", "how to answer tarot sceptics", "tarot reader advice", "
 image: "covers/is-tarot-real-answer.jpg"
 imageAlt: "Two cups of coffee on a small café table with a closed tarot deck between them, one person’s open hand resting on the table"
 imagePrompt: "Two cups of coffee on a small café table with a closed tarot deck between them, one person’s open hand resting on the table mid-conversation, no faces in frame. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "When someone asks ‘is this real?’, the calm answer is the honest one. Say what you claim and what you don’t: tarot isn’t an authority, nobody knows exactly how it works, and by my own count about one reading in ten misses. Then offer a test instead of an argument: they say nothing about themselves, and judge afterwards. Defensiveness comes from thinking you have to win. You don’t. Agree with what’s fair in the doubt, don’t mock it, and don’t mock people who believe more than you do either."
+summary: "When someone asks ‘is this real?’, the calm answer is the honest one. Say what you claim and what you don’t: tarot isn’t an authority, nobody knows exactly how it works, and a miss turns up in about one reading out of ten, by the count I keep. Then offer a test instead of an argument: they say nothing about themselves, and judge afterwards. Defensiveness comes from thinking you have to win. You don’t. Agree with what’s fair in the doubt, don’t mock it, and don’t mock people who believe more than you do either."
 ---
 When someone asks "is this real?", the calm answer is the honest one: I don't know exactly how it works, I know roughly how often it works for me, and you're welcome to test it. Getting defensive comes from feeling you have to win the argument. You don't.
 
@@ -17,7 +17,7 @@ When someone asks "is this real?", the calm answer is the honest one: I don't kn
 
 It can feel like an attack on something you care about, or on your intelligence. Most of the time it isn't. It's curiosity, a test, a joke to break the ice, or worry for a friend who has started reading a lot.
 
-I've been on the asking side myself. I put on an astrology video to mock it, read my own chart, and found it far too precise. So I tested it, box by box. When someone raises an eyebrow at my deck, I recognise the look. I tell that story in [can a sceptic learn tarot?](/blog/can-a-sceptic-learn-tarot/), and the short version is that doubt is a good place to start.
+I've been on the asking side myself: an astrology video I'd put on for a laugh described my own chart so precisely that I ended up checking it point by point. When someone raises an eyebrow at my deck, I recognise the look: [learning as a sceptic](/blog/can-a-sceptic-learn-tarot/) is how I began, and I’d still call doubt a healthy starting point.
 
 **Most people who ask aren't attacking; they're curious, and curiosity deserves a straight answer.**
 
@@ -26,9 +26,9 @@ I've been on the asking side myself. I put on an astrology video to mock it, rea
 You can't be defensive about a claim you never made, so it helps to know your own list by heart. Here's mine:
 
 - A card gives no orders; the person decides what to do with it.
-- About one reading in ten misses, by my own manual count ([how I counted](/blog/does-tarot-work-300-readings/)). It's a tally, not a study.
+- I get it wrong: nine readings in ten hold up, the tenth doesn’t ([how I counted](/blog/does-tarot-work-300-readings/)). It's a tally, not a study.
 - I don't know how it works. I know some conditions under which it works better, like the person saying nothing about themselves first.
-- There's no gift. Anyone can learn to read.
+- There's no gift; reading is a skill anyone can pick up.
 
 Everything I [don't claim](/disclaimers/#claims) is written down where anyone can see it. And if you've read [the theories on how tarot might work](/blog/how-does-tarot-work/), you know nobody has settled the question. You don't have to settle it either, over coffee, to keep reading.
 

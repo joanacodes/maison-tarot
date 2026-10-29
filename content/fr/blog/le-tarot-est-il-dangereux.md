@@ -17,7 +17,7 @@ Un jeu de cartes n’est pas dangereux. Une lecture peut l’être, dans quelque
 
 Souvent, la question vient d’ailleurs : une famille qui ne voulait pas de cartes à la maison, une religion qui met en garde, un film. Cette peur mérite le respect, et je n’essaie d’en dissuader personne.
 
-Ce que je peux dire, c’est ce que j’ai vu. Une carte est une image ; c’est un écran, et on craint surtout ce qu’on projette dessus. J’ai écrit sur [la question de savoir si le tarot est maléfique](/fr/blog/le-tarot-est-il-malefique/), y compris la seule fois où quelque chose a semblé me suivre jusqu’à la maison. Le danger que j’ai réellement vu, à la table, vient de l’usage qu’on fait d’une lecture. Voici les trois situations.
+Ce que je peux dire, c’est ce que j’ai vu. Une carte reste un dessin : un écran sur lequel on projette, et c’est surtout cette projection qui fait peur. J’ai écrit sur [la question de savoir si le tarot est maléfique](/fr/blog/le-tarot-est-il-malefique/), y compris la seule fois où quelque chose a semblé me suivre jusqu’à la maison. Le danger que j’ai réellement vu, à la table, vient de l’usage qu’on fait d’une lecture. Voici les trois situations.
 
 ## 1. Quand quelqu’un est en détresse {#detresse}
 
@@ -29,7 +29,7 @@ Alors je pose le jeu de côté. Je reste, j’écoute, et je demande ce qui aide
 
 Imaginons qu’une amie vous appelle tard le soir après une rupture et vous demande de tirer les cartes pour savoir s’il va revenir. Vous pouvez lui dire oui à elle et non aux cartes : préparez une tisane, laissez-la parler, et proposez de tirer ensemble un autre jour, quand elle aura dormi. Ce n’est pas la repousser. C’est choisir ce dont elle a besoin.
 
-J’en dis davantage sur [la porte entre tarot et santé mentale](/fr/blog/tarot-et-sante-mentale/), et, pour votre propre jeu, sur [la question de tirer les cartes quand on est bouleversé](/fr/blog/tirer-les-cartes-bouleverse/).
+J’en dis davantage sur [la porte entre tarot et santé mentale](/fr/blog/tarot-et-sante-mentale/), et, pour votre propre jeu, sur [les jours où l’on est trop secoué pour tirer](/fr/blog/tirer-les-cartes-bouleverse/).
 
 ## 2. Quand les tirages deviennent une dépendance {#dependance}
 
@@ -37,7 +37,7 @@ Certaines personnes reviennent chaque semaine avec la même question, et ce qui 
 
 Les signes valent la peine d’être connus, pour vous autant que pour les personnes que vous lisez :
 
-- Vous avez posé la même question aux cartes plus de deux fois ce mois-ci.
+- Depuis le début du mois, la même question est revenue sur la table trois fois ou plus.
 - Vous vous êtes senti plus mal après le dernier tirage, et vous en vouliez un autre quand même.
 - Il y a une décision que vous pourriez prendre aujourd’hui, et vous attendez qu’une carte la prenne à votre place.
 - Vous tirez des cartes pour vous-même plusieurs fois par jour, pour vous rassurer.
@@ -52,15 +52,15 @@ Imaginons que quelqu’un tire la Tour à propos de son travail et pose sa démi
 
 {{< cards "ar13 ar16" >}}
 
-La Mort, telle que je la lis, ne parle pas de la mort elle-même. Elle est liée à la récolte, au recommencement : rendre la vie de nouveau fertile après une période sans but. Et la Tour, c’est un changement soudain, pas l’ordre d’en provoquer un. Aucune des deux ne vous dit quoi faire lundi.
+La Mort, telle que je la lis, ne désigne aucun décès : elle parle de récolte et de recommencement, d’une existence qui redevient fertile après une période à la dérive. Et la Tour, c’est un changement soudain, pas l’ordre d’en provoquer un. Aucune des deux ne vous dit quoi faire lundi.
 
 Une lecture peut vous montrer une situation sous un angle que vous n’aviez pas essayé ; la décision reste la vôtre, et la responsabilité aussi. Une question plus douce aide ici aussi : au lieu de « Dois-je démissionner ? », essayez « Qu’est-ce que je dois regarder avant de décider ? », puis décidez avec votre propre tête. Si vous remarquez que vous ne pouvez plus agir sans la permission d’une carte, c’est ce muscle-là qu’il faut entraîner, et j’explique comment dans [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
 
 ## Un mot pour celles et ceux qui lisent {#pour-qui-lit}
 
-Les trois mêmes situations vous concernent, avec une chose de plus à surveiller : votre propre fatigue. Interpréter demande de l’énergie. Après une lecture, on peut se sentir très fatigué, et c’est le corps qui demande du repos. Il m’arrive de m’arrêter au bout de deux heures de lectures, par prudence.
+Les trois mêmes situations vous concernent, avec une chose de plus à surveiller : votre propre fatigue. Lire puise dans vos réserves ; une lecture peut vous laisser vidé, et c’est le corps qui réclame du repos. Pour ma part, je lève parfois la séance après deux heures : mieux vaut s’arrêter un peu tôt.
 
-L’empathie, c’est ressentir les émotions de l’autre en gardant les siennes. Si vous commencez à rapporter les siennes chez vous, prenez du recul. Et quoi qu’il arrive, ne laissez pas le tarot remplacer une thérapie, ni devenir un cercle de dépendance, pour vous comme pour la personne en face. Demandez toujours la permission avant de lire quelqu’un.
+L’empathie consiste à sentir ce que l’autre traverse sans perdre de vue vos propres émotions. Si vous commencez à rapporter ses émotions chez vous, prenez du recul. Et quoi qu’il arrive, le tarot ne tient pas lieu de thérapie, et il ne doit enfermer ni vous ni la personne en face dans un besoin de tirages. Enfin, ne lisez personne sans son accord.
 
 ## Quand un tirage est une bonne idée {#bon-moment}
 

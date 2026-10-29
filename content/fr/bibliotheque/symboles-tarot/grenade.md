@@ -8,7 +8,7 @@ weight: 25
 categories: ["Symboles"]
 tags: ["symboles du tarot", "grenade", "Grande Prêtresse", "l’Impératrice", "symbolisme du tarot"]
 h1: "La grenade — ce qu’il y a <em>dedans</em>"
-lede: "La grenade cache des centaines de graines sous une peau dure. Dans le Rider-Waite-Smith, elle est imprimée sur le voile de la Grande Prêtresse et sur la robe de l’Impératrice : deux femmes voisines dans le jeu, l’une qui garde ce qu’elle sait, l’autre qui donne ce qu’elle fait pousser."
+lede: "La grenade cache des centaines de graines sous une peau dure. Le dessin de 1909 l’imprime sur le voile de la Grande Prêtresse et sur la robe de l’Impératrice : deux femmes voisines dans le jeu, l’une qui garde ce qu’elle sait, l’autre qui donne ce qu’elle fait pousser."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/la-grande-pretresse
@@ -18,7 +18,7 @@ faq:
 - q: "Pourquoi y a-t-il des grenades sur la carte de la Grande Prêtresse ?"
   a: "Le voile derrière elle est imprimé de palmes et de grenades ouvertes sur leurs graines. Dans le mythe grec, Perséphone mange des graines de grenade aux Enfers et doit y retourner chaque année ; beaucoup de tarologues rattachent à cette histoire le savoir caché de la Grande Prêtresse."
 - q: "La grenade, au tarot, annonce-t-elle une grossesse ?"
-  a: "C’est un vieux symbole de fécondité à cause de ses graines, et la question vient souvent de l’espoir ou de l’inquiétude. Je ne lis pas sur la grossesse ni sur la fertilité : un médecin peut répondre, une carte non. Dans un tirage, je prends la grenade comme une abondance au sens large — des idées, des projets, du soin."
+  a: "C’est un vieux symbole de fécondité à cause de ses graines, et je comprends qu’on la pose, qu’on espère ou qu’on s’inquiète. Pour une grossesse, la réponse appartient à un médecin : aucun tirage ne la remplace. Dans un tirage, je prends la grenade comme une abondance au sens large — des idées, des projets, du soin."
 gallery:
 - src: "visuals/sym-pomegranate/1.jpg"
   title: "Banale de l’extérieur"
@@ -55,7 +55,7 @@ Elle symbolise l’abondance et la fécondité depuis très longtemps, justement
 
 ## Où elle apparaît dans le jeu {#ou}
 
-Sur [la Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), le voile tendu entre les deux colonnes derrière elle est imprimé de palmes et de grenades, plusieurs ouvertes sur leurs graines rouges. Le fruit se trouve juste derrière sa tête, sur ce qui cache ce qu’il y a derrière elle. [Le voile](/fr/bibliotheque/symboles-tarot/voile/) a sa propre page.
+Sur [la Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), le voile tendu entre les deux colonnes derrière elle est imprimé de palmes et de grenades, plusieurs ouvertes sur leurs graines rouges. Le fruit se trouve juste derrière sa tête, sur ce qui cache ce qu’il y a derrière elle. Le [voile](/fr/bibliotheque/symboles-tarot/voile/), lui, mérite une page entière.
 
 Sur l’Impératrice, la robe blanche est imprimée de grenades rouges et vertes. Elle est adossée à ses coussins dans un champ de blé, une cascade derrière elle. Ici, le fruit n’est pas caché : elle le porte.
 
@@ -69,9 +69,9 @@ Deux cartes voisines dans le jeu : la 2 et la 3. Le même fruit, deux gestes opp
 
 Quand la grenade sort, demandez-vous ce qui, dans la situation, n’a pas encore été ouvert. Derrière la Grande Prêtresse, c’est un savoir gardé : dans mes notes, elle est l’eau dormante, ce qu’on ne voit pas, une façade et le reste caché. Sur l’Impératrice, c’est une abondance offerte : elle nourrit, donne, crée, prend soin.
 
-Les clés de lecture : la Grande Prêtresse est [Eau](/fr/bibliotheque/quatre-elements/element-eau/) et l’Impératrice est Terre. Le même fruit dit « ce que vous ressentez sans l’avoir dit » sur l’une, et « ce que vous avez fait pousser et pouvez partager » sur l’autre. Les nombres : le 2, c’est le contrat et la pesée ; le [3](/fr/bibliotheque/numerologie/chiffre-3/), la machine qui tourne, le projet qui marche.
+Par l’élément, la Grande Prêtresse est [Eau](/fr/bibliotheque/quatre-elements/element-eau/) et l’Impératrice Terre. Le même fruit dit « ce que vous ressentez sans l’avoir dit » sur l’une, et « ce que vous avez fait pousser et pouvez partager » sur l’autre. Les nombres : le 2, c’est le contrat et la pesée ; le [3](/fr/bibliotheque/numerologie/chiffre-3/), la machine qui tourne, le projet qui marche.
 
-Imaginons que quelqu’un tire la Grande Prêtresse au moment d’accepter un poste. Les grenades du voile pourraient dire : il y a plus à apprendre sur cette maison que ce que l’entretien a montré. Posez vos questions avant de signer.
+La Grande Prêtresse, tirée la veille d’accepter un poste : les grenades du voile pourraient dire qu’il y a plus à apprendre sur cette maison que ce que l’entretien a montré. Posez vos questions avant de signer.
 
 ## L’autre face {#revers}
 

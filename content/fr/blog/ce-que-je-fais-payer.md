@@ -19,7 +19,7 @@ Deux choses, et les deux sont de l’enseignement.
 
 Une session, c’est une heure en visio, en tête-à-tête, dans votre fuseau horaire. Vous ne me donnez aucun contexte, on tire, vous lisez d’abord, je lis après vous, et on compare. Quand ça ne colle pas, on cherche pourquoi. Vous repartez avec les clés de lecture utilisées, par écrit, sans abonnement ni suite obligatoire.
 
-Un atelier, c’est trois heures, douze personnes au maximum, et une seule clé de lecture : les couleurs, les nombres, ou les éléments et les énergies. Vous tirez une carte dans les dix premières minutes, avant toute explication, et à la fin vous lisez devant les autres une carte que vous ne connaissez pas. Il n’y a ni niveaux ni certificat.
+Un atelier dure trois heures, réunit douze personnes au plus et ne traite qu’une clé de lecture : les couleurs, les nombres, ou les éléments et les énergies. La première carte arrive avant la moindre théorie, et à la fin, chacun lit devant le groupe une carte qu’il n’a jamais étudiée. Il n’y a ni niveaux ni certificat.
 
 Les prix, TTC, sont sur [la page des sessions](/fr/sessions/) et [celle des ateliers](/fr/ateliers/). Je préfère que vous les lisiez là plutôt que dans un article qui risque de vieillir.
 
@@ -35,21 +35,21 @@ C’est comme ça depuis le début. Les [lectures à l’aveugle que j’ai comp
 
 À cause de ce qu’un prix fait au tarologue. À moi, autrement dit.
 
-Une pratique qui vit des lectures a besoin que les gens reviennent pour des lectures. Ce n’est pas de la malhonnêteté, c’est de l’arithmétique, et elle façonne des petites choses : la manière dont une séance se termine, le sujet refusé qui paraît moins dangereux un mois où les rendez-vous se font rares, le raté qu’on dit ou qu’on tait. Quand une lecture est gratuite, un raté me coûte une ligne dans mon carnet. Quand elle est payée, on a envie de la rattraper, et je préfère ne pas mesurer la force de cette envie.
+Quand on gagne sa vie avec des tirages, il faut que les gens reviennent en demander d’autres. Il n’y a là aucune malhonnêteté, c’est un calcul, et ce calcul façonne des petites choses : la manière dont une séance se termine, le sujet refusé qui paraît moins dangereux un mois où les rendez-vous se font rares, le raté qu’on dit ou qu’on tait. Quand une lecture est gratuite, un raté me coûte une ligne dans mon carnet. Quand elle est payée, on a envie de la rattraper, et je préfère ne pas mesurer la force de cette envie.
 
 Il y a aussi la personne en face. Quand quelqu’un revient avec la même question mois après mois, ce dont il a besoin, en général, c’est d’[une pause dans les tirages](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/), pas d’une lecture de plus, et c’est beaucoup plus facile à dire quand personne ne me paie pour faire le contraire.
 
-J’ai aussi essayé de vendre les objets autour du tarot : de la sauge, des bougies et des cartes « canalisées », en 2021. J’ai arrêté, pour des raisons que je donne dans [faut-il purifier son jeu de tarot](/fr/blog/purifier-son-jeu-de-tarot/).
+En 2021, je me suis aussi essayée au commerce : sauge, bougies, et cartes présentées comme « canalisées ». J’ai arrêté, et [j’explique ce qui m’y a fait renoncer](/fr/blog/purifier-son-jeu-de-tarot/).
 
 Un cours fonctionne dans l’autre sens. Son rôle, c’est que vous ayez moins besoin de moi. Si vous sortez d’un atelier en lisant une carte que vous n’aviez jamais vue, il a rempli son office. Vous mettre une carte entre les mains et vous laisser la lire, ça, je n’ai aucun mal à le faire payer.
 
 ## Un tarologue doit-il se faire payer ? {#faut-il-payer}
 
-Oui, beaucoup peuvent le faire, et honnêtement. Lire est un travail. Ça demande du temps, de l’attention, de la pratique, et ça fatigue : interpréter prend de l’énergie, et il m’arrive de m’arrêter au bout de deux heures de lectures, par prudence. Un tarologue qui demande à être payé pour son heure demande ce que demande n’importe quel professionnel.
+Oui, beaucoup peuvent le faire, et honnêtement. Lire est un travail. Il y faut du temps, de la concentration, de l’entraînement, et on en sort fatigué : interpréter consomme de l’énergie, au point que je pose parfois les cartes passé deux heures, par précaution. Un tarologue qui demande à être payé pour son heure demande ce que demande n’importe quel professionnel.
 
 Ce que je regarderais, ce n’est pas s’il y a un prix, mais sa forme. Un prix annoncé pour une durée annoncée, sans rien en plus à la fin, c’est un échange juste. La « deuxième séance » rendue nécessaire par une première qui s’arrête sur un suspense, elle, récompense le tarologue de vous laisser dans le doute.
 
-Mon choix est donc le mien, pas une règle pour tous. Je vends des cours parce que c’est l’arrangement où votre intérêt et le mien vont dans le même sens. Un tarologue qui demande un prix juste, reconnaît ses ratés et ne lit ni la santé, ni la mort, ni les décisions d’argent fait un travail honnête, et je lui enverrais du monde.
+Mon choix est donc le mien, pas une règle pour tous. Je vends des cours parce que c’est l’arrangement où votre intérêt et le mien vont dans le même sens. Un tarologue qui demande un prix juste, reconnaît ses ratés et tient la santé, la mort et les décisions d’argent hors de ses tirages fait un travail honnête, et je lui enverrais du monde.
 
 ## Le tarot devrait-il être gratuit ? {#gratuit}
 

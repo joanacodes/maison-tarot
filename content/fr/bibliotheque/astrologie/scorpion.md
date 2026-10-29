@@ -26,12 +26,11 @@ related:
 - /bibliotheque/astrologie/pluton
 faq:
 - q: Quelle carte de tarot correspond au Scorpion ?
-  a: La Mort, dans la tradition Golden Dawn reprise par le Rider-Waite-Smith. Quand
-    elle sort, le signe donne son verbe, son élément et son mode d’un coup.
-- q: 'Je suis Scorpion : est-ce que cette carte est « ma » carte ?'
-  a: C’est une entrée, pas une identité. La carte parle à n’importe qui de la même
-    chose ; votre signe vous aide seulement à la reconnaître plus vite. L’astrologie
-    n’est pas une excuse.
+  a: 'La Mort. La Golden Dawn a fait ce rapprochement, et on le comprend : d’un côté
+    une fin qui transforme, de l’autre une énergie capable de blesser comme de soigner.'
+- q: Pour un Scorpion, la Mort a-t-elle un sens particulier ?
+  a: 'Pas plus que pour un autre signe. La carte annonce un changement de fond, jamais
+    un enterrement ; être Scorpion ne la rend ni plus lourde ni plus « vraie » pour vous.'
 gallery:
 - src: "visuals/sign-scorpio/1.jpg"
   title: "Là où ça pique"
@@ -78,7 +77,7 @@ La personne qui ne parle pas en soirée et attire l’attention de tout le monde
 
 ## Sa carte : La Mort {#carte}
 
-Quand [la Mort](/fr/bibliotheque/cartes-tarot/la-mort/) sort, le Scorpion est là : une transformation jusqu’au bout, qu’on l’ait voulue ou non. Bien posé, c’est la guérison qui exige d’abord la fin de quelque chose. Mal posé, c’est le dard tourné contre soi.
+[La Mort](/fr/bibliotheque/cartes-tarot/la-mort/) porte l’énergie du Scorpion : une transformation jusqu’au bout, qu’on l’ait voulue ou non. Elle peut annoncer une guérison qui exige d’abord la fin de quelque chose, ou un dard tourné contre soi.
 
 {{< cards "ar13" >}}
 

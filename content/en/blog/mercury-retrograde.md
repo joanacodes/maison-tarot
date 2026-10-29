@@ -25,7 +25,7 @@ Every planet does it, seen from Earth. With Mars, Jupiter or Saturn it's the mir
 
 ## What astrology says Mercury rules {#what-astrology-says}
 
-In astrology, Mercury is how you think and how you speak: the speed of the mind, the taste for words, the way you learn ([Mercury's Library page](/library/astrology/mercury/) goes further). By extension it rules messages, contracts, trade and short journeys, and the two signs of the mind, Gemini and Virgo.
+In astrology, Mercury governs thought and speech: how quickly your mind moves, how much you enjoy words, how you take things in ([Mercury's Library page](/library/astrology/mercury/) goes further). By extension it rules messages, contracts, trade and short journeys, and the two signs of the mind, Gemini and Virgo.
 
 So when Mercury appears to walk backwards, astrologers read three weeks of words starting with “re-”: review, revise, reread, reply, return. The usual advice follows from that. Read a contract twice before signing. Back up your phone. Check the train times. Expect old subjects, and sometimes old contacts, to come back up.
 
@@ -53,7 +53,7 @@ If you like the “re-” theme, give it a small spread about communication. Thr
 2. *What didn't I hear?*
 3. *What would I say now, if I said it again?*
 
-Read each card through its number, element and colours before you look anything up. You don't have to send anything afterwards. Write the cards and one sentence for each in your notebook, and reread the page on the day Mercury turns direct.
+Before looking anything up, let each card's colours, element and number speak first. You don't have to send anything afterwards. Put the three cards in your notebook with a line about each, and go back to that page the day Mercury turns direct.
 
 ## When is the next one? {#next}
 

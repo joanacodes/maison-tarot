@@ -25,7 +25,7 @@ None of that is harmful in itself. It only becomes a problem when it stops someo
 
 ## How I got my first deck {#my-first-deck}
 
-Mine was a Christmas present from friends, picked off my wishlist. I was expecting an astrology book.
+Mine was a Christmas present from friends, picked off my wishlist. I'd thought they were giving me an astrology book.
 
 I started reading on 26 December 2020, the day after. I'd assumed I would need some training before anything landed. My first reading landed anyway.
 
@@ -57,7 +57,7 @@ Letting other people touch your cards is a matter of comfort or hygiene, not luc
 
 ## Buying a deck: what to look for {#buying}
 
-If you're buying for yourself, start with a Rider-Waite-Smith: every card has a scene you can read on the first evening, and [here's why I start everyone on it](/blog/best-tarot-deck-for-beginners/). Any edition with the original drawings will do.
+If you're buying for yourself, start with a Rider-Waite-Smith: Pamela Colman Smith gave all 78 cards a full picture, minors included, so there's something to read on night one; and [here's why I start everyone on it](/blog/best-tarot-deck-for-beginners/). Any edition with the original drawings will do.
 
 If you're buying for someone else, a deck is a lovely present, and their wishlist is the kindest guide. Give it to someone who has asked for one, or hinted. A deck nobody wanted is an object on a shelf; a deck someone wanted is a beginning. The [tarot gift guide](/blog/tarot-gift-guide/) has the rest.
 

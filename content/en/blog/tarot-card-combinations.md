@@ -89,7 +89,7 @@ These are the pairs people ask about most, and the ones where the order matters 
 
 ### The Two of Cups, then the Three of Swords {#two-of-cups-three-of-swords}
 
-*2 → 3 · Water → Air.* The obvious reading is a bond, then a heartbreak. The one in my notes is different: the Three of Swords is also a blood pact — a commitment sealed, sometimes painfully. Ask before you assume.
+*2 → 3 · Water → Air.* The obvious reading is a bond, then a heartbreak. The one in my notes is different: those three blades can seal an oath in blood — a commitment, sometimes a painful one. Ask before you assume.
 
 ### The Three of Swords, then the Two of Cups {#three-of-swords-two-of-cups}
 

@@ -70,7 +70,7 @@ Deux habitudes aident dès le premier jour. Écrivez les dix positions sur un pa
 
 ## Une croix celtique, pas à pas {#exemple}
 
-Imaginons que quelqu’un s’assoie et ne vous dise rien — ni question, ni contexte. Vous mélangez et vous posez la croix et le cercle : le Huit de Coupes au cœur, le Quatre de Pentacles en travers, l’Étoile au-dessus, le Six de Coupes en dessous, le Cinq de Bâtons derrière, le Valet de Pentacles devant.
+Mettons qu’une personne prenne place en face de vous, sans question ni contexte. Vous mélangez et vous posez la croix et le cercle : le Huit de Coupes au cœur, le Quatre de Pentacles en travers, l’Étoile au-dessus, le Six de Coupes en dessous, le Cinq de Bâtons derrière, le Valet de Pentacles devant.
 
 {{< cards "cu08 pe04 ar17 cu06 wa05 pepa" >}}
 
@@ -80,11 +80,11 @@ Puis la colonne, de bas en haut : le Deux d’Épées, le Trois de Coupes, le Ne
 
 Avant de lire position par position, je passe les dix cartes aux clés de lecture. Un seul arcane majeur sur dix, [l’Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/) : c’est une situation à taille humaine, entre les mains de la personne. Les Coupes sont la famille la plus présente, avec trois des neuf arcanes mineurs : il s’agit d’abord de ce que la personne ressent. Les couleurs : le ciel de nuit du Huit de Coupes et le mur noir du Neuf d’Épées ; le gris du Deux d’Épées ; puis le vert des feuilles de l’As de Bâtons à la dernière place. Le sombre est au cœur et dans les craintes. Le vert est dans la direction.
 
-La croix. Une silhouette en cape rouge s’éloigne de nuit de huit coupes empilées — dans mes notes, passer à autre chose que ce qu’on fait déjà —, tandis qu’en travers un homme couronné serre une pièce contre sa poitrine. Un 8 croisé par un 4, l’Eau croisée par la Terre : partir, et s’accrocher à la sécurité construite.
+La croix. Une silhouette en cape rouge s’éloigne de nuit de huit coupes empilées — dans mes notes, laisser en plan ce qu’on faisait pour aller voir ailleurs —, tandis qu’en travers un homme couronné serre une pièce contre sa poitrine. Un 8 croisé par un 4, l’Eau croisée par la Terre : partir, et s’accrocher à la sécurité construite.
 
-Le cercle. Au-dessus, l’Étoile : une femme verse l’eau de deux cruches sous une grande étoile jaune — l’espoir, le renouveau. En dessous, le Six de Coupes : des enfants et des fleurs blanches, quelque chose qu’on a aimé il y a longtemps. Derrière, le Cinq de Bâtons : le bruit et les disputes, qui s’éloignent. Devant, le Valet de Pentacles : un jeune homme dans un champ qui étudie une pièce — apprendre, commencer petit.
+Le cercle. Au-dessus, l’Étoile : une femme verse l’eau de deux cruches sous une grande étoile jaune — l’espoir, le renouveau. En dessous, le Six de Coupes : des enfants et des fleurs blanches, quelque chose qu’on a aimé il y a longtemps. Derrière, le Cinq de Bâtons : le bruit et les disputes, qui s’éloignent. Devant, le Valet de Pentacles, les yeux fixés sur la pièce qu’il tient levée — apprendre, commencer petit.
 
-La colonne. Vous : le Deux d’Épées, une femme aux yeux bandés, deux épées croisées sur la poitrine, presque tout en gris — indécise, et qui ne regarde pas tout à fait. Autour de vous : le Trois de Coupes, trois femmes qui lèvent leur coupe — des amis qui fêteraient ça avec vous. Espoirs et craintes : le Neuf d’Épées, quelqu’un assis dans son lit en pleine nuit, le visage dans les mains — la version trois heures du matin de tout ça, que mes notes lisent aussi comme la sortie d’une longue période agitée. La direction : l’As de Bâtons, une main sortant d’un nuage qui tient un bâton en bourgeons — le Feu, le chiffre 1, une étincelle neuve.
+La colonne. Vous : le Deux d’Épées, bandeau noué, les bras croisés sur deux lames, du gris presque partout — indécise, et qui ne regarde pas tout à fait. Autour de vous : le Trois de Coupes, trois femmes qui lèvent leur coupe — des amis qui fêteraient ça avec vous. Espoirs et craintes : le Neuf d’Épées, quelqu’un assis dans son lit en pleine nuit, le visage dans les mains — la version trois heures du matin de tout ça, que mes notes lisent aussi comme la sortie d’une longue période agitée. La direction : l’As de Bâtons, une main sortant d’un nuage qui tient un bâton en bourgeons — le Feu, le chiffre 1, une étincelle neuve.
 
 Trois phrases, à voix haute :
 
@@ -96,6 +96,6 @@ C’est là que la règle du silence porte ses fruits : la personne attend que j
 
 La carte 10 se lit en dernier, et légèrement. C’est une direction, pas une prophétie : là où vont les choses si la personne continue comme elle est. Si elle ne lui plaît pas, les neuf cartes d’avant montrent en général où le cap peut changer.
 
-Le tarot n’est pas une autorité : agissez selon ce que vous ressentez, pas selon la carte en dixième position. Et un grand tirage n’ouvre pas la porte aux sujets sur lesquels je ne lis pas — la santé, la mort, la grossesse, les procès, les décisions d’argent, les personnes absentes. Les raisons sont sur [la page des refus](/fr/avertissements/#refus), et elles valent pour dix cartes comme pour une.
+Le tarot ne commande rien : ce que vous ressentez pèse plus lourd que la carte posée en dixième position. Et un grand tirage n’ouvre pas la porte à ce que je laisse hors des lectures : maladie, décès, grossesse, affaires en justice, choix financiers, personnes absentes. [Mes refus et leurs raisons](/fr/avertissements/#refus) valent pour dix cartes comme pour une.
 
 Si vous voulez poser votre première croix celtique avec quelqu’un à côté de vous, un [atelier](/fr/ateliers/), c’est trois heures, douze personnes et beaucoup de cartes sur la table.

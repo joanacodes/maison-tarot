@@ -17,7 +17,7 @@ Usually, not straight away. A reading done in the middle of a storm reads the st
 
 When you're upset, your mind is already telling a story, and telling it fast. The cards don't interrupt that story. They feed it.
 
-In the Five of Cups, a figure in a black cloak looks down at three spilled cups. Behind them, two cups are still standing, and a bridge leads away in the distance. In my notes it's the heaviest card in the deck: loss, dark emotion, being alone with your problems. Draw it on a calm day and you notice the two cups and the bridge as well. Draw it while you're upset and you see three spilled cups, full stop.
+In the Five of Cups, someone wrapped in black stares at the three cups knocked over at their feet. Behind them, two cups are still standing, and a bridge leads away in the distance. Of all 78, it's the one my notes treat as hardest: something lost, a dark feeling, and you facing it by yourself. Draw it on a calm day and you notice the two cups and the bridge as well. Draw it while you're upset and you see three spilled cups, full stop.
 
 The Nine of Swords works the same way. Someone sits up in bed with their face in their hands, nine swords lined up in the dark above them. My notes read it as coming out of a nightmare, the end of a long troubled stretch, with protection above you. Upset, you only see the nightmare.
 

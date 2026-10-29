@@ -18,10 +18,10 @@ Your “big three” are the signs of your Sun, your Moon and your rising sign. 
 Three placements from your birth chart:
 
 - Sun sign: the sign the Sun was in on your birthday. It’s the one horoscopes use.
-- Moon sign: the sign the Moon was in when you were born. The Moon changes sign every two and a half days, so your birth date usually settles it, and your birth time makes sure.
-- Rising sign, or Ascendant: the sign coming up over the eastern horizon at the minute you were born. It changes about every two hours, so it needs your exact time and place.
+- Moon sign: the sign the Moon was in when you were born. The Moon moves into a new sign roughly every 60 hours, so your birth date usually settles it, and your birth time makes sure.
+- Rising sign, or Ascendant: the sign that was rising in the east at the moment of your birth. A new sign rises roughly every two hours, so it needs your exact time and place.
 
-If you don’t have your chart yet, [what a birth chart is, and how to get yours](/blog/what-is-a-birth-chart/) walks you through it.
+If you don’t have your chart yet, [my beginner’s page on birth charts](/blog/what-is-a-birth-chart/) walks you through getting one.
 
 ## The Sun: the inner house {#sun}
 

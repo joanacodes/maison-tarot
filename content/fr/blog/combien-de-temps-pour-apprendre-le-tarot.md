@@ -9,9 +9,9 @@ tags: ["combien de temps pour apprendre le tarot", "apprendre le tarot", "tarot 
 image: "covers/how-long-to-learn-tarot.jpg"
 imageAlt: "Un calendrier mural près d’une fenêtre et, sur la table en dessous, une carte de tarot retournée à côté d’un jeu fermé."
 imagePrompt: "A paper wall calendar hanging by a window, and on the table below it a single tarot card face up beside a closed deck. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Vous pouvez faire votre première lecture de tarot aujourd’hui, en quelques minutes : toutes les personnes que j’ai aidées à lire y sont arrivées entre le premier et le troisième essai, dès qu’elles ont regardé la couleur, le nombre et l’élément de la carte au lieu de réciter un sens. Le premier mois sert à tirer une carte par jour, puis trois, et à lire pour des proches qui ne vous disent rien. L’aisance — lire un tirage entier comme une seule histoire et savoir quand on se trompe — demande quelques mois de pratique régulière et un carnet. Elle ne s’achève jamais tout à fait, et c’est très bien."
+summary: "Vous pouvez faire votre première lecture de tarot aujourd’hui, en quelques minutes : chez mes élèves, une à trois tentatives ont toujours suffi, dès qu’ils ont regardé la couleur, le nombre et l’élément de la carte au lieu de réciter un sens. Le premier mois sert à tirer une carte par jour, puis trois, et à lire pour des proches qui ne vous disent rien. L’aisance — lire un tirage entier comme une seule histoire et savoir quand on se trompe — demande quelques mois de pratique régulière et un carnet. Elle ne s’achève jamais tout à fait, et c’est très bien."
 ---
-Vous pouvez faire votre première lecture de tarot aujourd’hui, en quelques minutes. Toutes les personnes que j’ai aidées à lire y sont arrivées entre le premier et le troisième essai. Lire avec aisance — traverser un tirage sans s’arrêter, et savoir quand on se trompe — demande quelques mois de pratique régulière.
+Vous pouvez faire votre première lecture de tarot aujourd’hui, en quelques minutes. Je n’ai encore accompagné personne qui ait eu besoin d’un quatrième essai. Lire avec aisance — traverser un tirage sans s’arrêter, et savoir quand on se trompe — demande quelques mois de pratique régulière.
 
 Voici le calendrier tel que je l’ai vu, étape par étape.
 
@@ -28,7 +28,7 @@ Aucune de ces étapes ne demande de don, de diplôme ni 78 sens appris par cœur
 
 ## La première heure : votre première lecture {#la-premiere-heure}
 
-Tirez une carte et posez-lui trois questions : quelle couleur prend le plus de place, quel est son nombre, à quel élément appartient-elle. Puis dites une phrase qui relie les trois. C’est une lecture. [L’antisèche en trois questions](/fr/blog/antiseche-tarot/) vous donne la grille.
+Tirez une carte et posez-lui trois questions : sa couleur dominante, son chiffre, son élément. Puis dites une phrase qui relie les trois. C’est une lecture. [L’antisèche en trois questions](/fr/blog/antiseche-tarot/) vous donne la grille.
 
 Prenons le Neuf de Pentacles : un ciel jaune au-dessus de vignes vertes, un neuf, la Terre. La joie posée sur ce qui pousse, la dernière ligne droite, le concret. « Vous arrivez au bout d’un long effort, et vous commencez à profiter de ce qu’il vous a apporté. » Pas besoin de connaître le nom de la carte pour dire ça.
 
@@ -36,7 +36,7 @@ Prenons le Neuf de Pentacles : un ciel jaune au-dessus de vignes vertes, un neuf
 
 Ça va vite parce que vous n’apprenez pas des informations : vous apprenez à lâcher prise. C’est comme le dessin : certains ont plus de facilités, et tous ceux qui pratiquent y arrivent.
 
-Mes débuts se sont passés ainsi. Mes amis m’ont offert mon premier jeu à Noël 2020. J’ai commencé à tirer le 26 décembre, et ma première lecture était juste — ce qui m’a surprise, parce que je pensais devoir m’entraîner d’abord.
+Mes débuts se sont passés ainsi. Le premier jeu que j’ai eu, ce sont mes amis qui me l’ont offert, à Noël 2020. J’ai commencé à tirer le 26 décembre, et ma première lecture était juste — ce qui m’a surprise, parce que je pensais devoir m’entraîner d’abord.
 
 ## Le premier mois : une carte, puis trois {#le-premier-mois}
 
@@ -68,7 +68,7 @@ Les livres aident pour les clés de lecture ; pour les nombres, je conseille le 
 
 ## Quand peut-on dire qu’on « sait » ? {#quand-on-sait}
 
-Honnêtement, jamais tout à fait. À mon propre décompte, environ une lecture sur dix rate encore chez moi, et j’apprends toujours de celles-là.
+Honnêtement, jamais tout à fait. Mon carnet compte encore, à peu près, un raté pour neuf lectures qui tiennent, et j’apprends toujours de ces ratés-là.
 
 Une ligne d’arrivée plus utile : vous lisez une carte sans tendre la main vers le livre, vous pouvez dire « celle-là est ratée » sans vous crisper, et vous y prenez plaisir. D’après ce que j’ai vu, ceux qui pratiquent quelques fois par semaine y arrivent en quelques mois, pas en quelques années.
 

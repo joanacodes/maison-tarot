@@ -19,7 +19,7 @@ En France, le jeu traditionnel est le tarot de Marseille, un modèle imprimé pa
 
 Petit décalage culturel au passage : chez nous, le tarot est aussi un jeu de cartes, avec ses vingt et un atouts et l’Excuse, qu’on sort en famille ou entre amis. Un anglophone qui entend « tarot » pense rarement à une partie de cartes.
 
-Les jeux eux-mêmes diffèrent aussi : points ou scènes, vieilles gravures sur bois ou dessins de Pamela Colman Smith. Je les compare dans [tarot de Marseille ou Rider-Waite-Smith](/fr/blog/tarot-de-marseille-ou-rider-waite/). Ici, je m’en tiens aux mots.
+Les jeux eux-mêmes diffèrent aussi : points ou scènes, vieilles gravures sur bois ou dessins de Pamela Colman Smith. Je les mets face à face [dans une comparaison détaillée](/fr/blog/tarot-de-marseille-ou-rider-waite/). Ici, je m’en tiens aux mots.
 
 ## Magician ou Bateleur : les noms qui changent {#noms}
 
@@ -68,11 +68,11 @@ Trois familles se traduisent sans souci : *Wands*, ce sont les Bâtons, *Cups* l
 
 Les Deniers sont de vieilles pièces de monnaie, et le mot tire tout de suite un lecteur français vers l’argent. Les Pentacles sont des disques portant une étoile à cinq branches : c’est ce que Pamela Colman Smith a dessiné. Vous croiserez les deux mots en français ; sur Maison Tarot, les pages françaises disent « Pentacles », ce qui correspond au dessin.
 
-Dans les deux cas, je lis cette famille par son élément. [La Terre](/fr/bibliotheque/quatre-elements/element-terre/), c’est la matière, la prospérité, ce qui a de la valeur pour vous, en argent ou en sentiment. **Quel que soit le mot sur la carte, cette famille parle de ce qui compte pour vous, et toutes les richesses ne sont pas en or.**
+Dans les deux cas, je lis cette famille par son élément. [La Terre](/fr/bibliotheque/quatre-elements/element-terre/), c’est le concret, l’abondance, tout ce à quoi vous accordez du prix, que ce prix soit financier ou affectif. **Quel que soit le mot sur la carte, cette famille parle de ce qui compte pour vous, et une richesse ne brille pas forcément.**
 
 ## Ce qui change dans la lecture elle-même {#lecture}
 
-Moins qu’on ne le croit, et plus que rien. Une même image peut se lire différemment d’une personne à l’autre et d’un jour à l’autre ; la langue est une variable de plus. Si vous avez appris sur le Marseille, *the Magician* ne vous évoquera pas forcément votre Bateleur. Et un anglophone qui vous entend dire « Deniers » risque d’y lire une carte d’argent là où vous pensiez à quelque chose de plus large.
+Moins qu’on ne le croit, et plus que rien. Le sens d’une image bouge déjà avec le lecteur et avec le jour ; la langue ajoute une variable. Si vous avez appris sur le Marseille, *the Magician* ne vous évoquera pas forcément votre Bateleur. Et un anglophone qui vous entend dire « Deniers » risque d’y lire une carte d’argent là où vous pensiez à quelque chose de plus large.
 
 Quand vous lisez pour quelqu’un dans sa deuxième langue, décrivez donc l’image avant de la nommer. « Un homme derrière une table, une main levée, tout son matériel posé devant lui » se comprend dans toutes les langues ; un nom ne fonctionne que si l’on partage le même jeu.
 

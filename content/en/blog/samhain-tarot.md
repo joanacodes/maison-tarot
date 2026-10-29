@@ -33,7 +33,7 @@ There is a veil in the deck: behind the High Priestess, between her two pillars,
 
 Because for a few weeks, tarot is allowed. It’s in shop windows, on party tables, in every feed. Someone who wouldn’t think of asking for a reading in March will pull a card at a Halloween party, and the question they’ve carried since spring comes out with it.
 
-Three other things push the same way. The end of the year comes into view, and people count what worked. The evenings close in, and we turn inward. And this is the season of the dead — All Saints, All Souls, the Day of the Dead — so a grief that sat quietly all year rises to the surface. If that’s where you are, [what tarot can hold in grief, and when you need a person](/blog/tarot-for-grief/) is worth reading before any spread.
+Three other things push the same way. The end of the year comes into view, and people count what worked. The evenings close in, and we turn inward. And this is the season of the dead — All Saints, All Souls, the Day of the Dead — so a grief that sat quietly all year rises to the surface. If that’s where you are, [how a reading can keep company with grief, and where it stops](/blog/tarot-for-grief/) is worth reading before any spread.
 
 Put together, October lowers the cost of asking. It doesn’t change the silence rule: keep your question to yourself, and you’ll know at the end whether it was answered.
 
@@ -55,7 +55,7 @@ Say someone draws the Nine of Pentacles, the Eight of Cups and the Four of Wands
 
 The harvest is the [Nine of Pentacles](/library/tarot-cards/nine-of-pentacles/). Nine is the finish line of a cycle; Pentacles are Earth — matter, money, whatever has value for you. A woman stands in her own garden among the grapes, a bird on her glove. Something was built, and it paid off.
 
-What stays behind is the Eight of Cups: a figure walking away from eight cups stacked with care. Cups are emotion; this eight is moving on from what you’re already doing. Probably not a person — a way of caring that has run its course.
+What stays behind is the Eight of Cups: a figure walking away from eight cups stacked with care. Cups are emotion; this eight turns its back on something that is still going on. Probably not a person — a way of caring that has run its course.
 
 What stays warm is the Four of Wands: four is the stable ground after the effort, Fire is the energy that keeps you going, and the drawing is a garland, two people raising flowers, a house behind them. Foundations. Home.
 

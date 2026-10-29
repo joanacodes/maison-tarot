@@ -16,7 +16,7 @@ related:
 - /library/astrology/mars
 faq:
 - q: "Which tarot cards correspond to Gevurah?"
-  a: "The four Fives: Wands, Cups, Swords and Pentacles. In the Golden Dawn system, Gevurah has no court card of its own."
+  a: "The four Fives, the hardest numbered cards of each suit. Gevurah gets no court card; the Golden Dawn puts the court ranks on four other spheres."
 - q: "Is Gevurah a negative sephirah?"
   a: "No. In Jewish sources it is judgement and restraint, the limit that gives kindness a shape. It becomes harsh only when nothing balances it, which is why Chesed faces it on the Tree and Tiferet joins the two."
 gallery: []

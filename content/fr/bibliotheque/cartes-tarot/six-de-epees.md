@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/sw06.webp
 h1: Six d’Épées — <em>six</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » Six d’Épées, regardez ce que vous avez
-  déjà : six, l’élément Air, Mercure en Verseau. Vous lisez la carte. Le nombre dit
-  six — l’harmonie retrouvée, l’échange ; l’élément dit le mental, ce qu’on décide.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Debout à l’arrière d’une barque, un passeur pousse sa perche vers une rive calme ; ses deux passagers, tête basse, voyagent avec six épées plantées dans le bois. De quelles eaux agitées vous éloignez-vous ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-air
@@ -51,7 +47,7 @@ Le dessin parle d’**une traversée : quitter les eaux agitées pour le calme, 
 
 ## Par le nombre : six {#nombre}
 
-Le six, c’est « le trois exalté » : la machine est lancée et va vite ; le succès, et la possibilité, enfin, de se reposer ou de partir en vacances. Mon conseil pour un six : rester calme et humble quand les choses se mettent à couler. Sur cette carte, le succès est discret : on s’en est sorti. Les épées ne sont pas abandonnées — toutes les six voyagent dans la barque —, mais elles ne sont plus dans la main de personne. Le sixième stade d’Instagram, c’était Facebook qui investit : ce qui menaçait l’entreprise devient ce qui la porte. C’est le tournant que prend ici le [chiffre 6](/fr/bibliotheque/numerologie/chiffre-6/) : la partie difficile devient le véhicule.
+Le six, c’est « le trois exalté » : la machine est lancée et va vite ; le succès, et la possibilité, enfin, de se reposer ou de partir en vacances. Mon conseil pour un six : garder son calme, et sa modestie, quand les choses se mettent à couler. Sur cette carte, le succès est discret : on s’en est sorti. Les épées ne sont pas abandonnées — toutes les six voyagent dans la barque —, mais elles ne sont plus dans la main de personne. Le sixième stade d’Instagram, c’était Facebook qui investit : ce qui menaçait l’entreprise devient ce qui la porte. C’est le tournant que prend ici le [chiffre 6](/fr/bibliotheque/numerologie/chiffre-6/) : la partie difficile devient le véhicule.
 
 ## Par l’élément : Air {#element}
 
@@ -59,11 +55,11 @@ Les Épées, c’est l’[Air](/fr/bibliotheque/quatre-elements/element-air/) : 
 
 ## Par les couleurs {#couleurs}
 
-Un ciel gris pâle sur tout : neutre, stable, sans drame. L’eau est d’un [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) pâle — les émotions, ce qui purifie, ce qui lave —, agitée d’un côté, plate de l’autre. Le passeur et la barque sont d’un [orange](/fr/bibliotheque/couleurs-tarot/orange/) chaud : dans ma grille, la créativité, et aussi la sécheresse, l’énergie de celui qui fait le travail d’avancer. Le passager encapuchonné est lui aussi en jaune orangé, mais recroquevillé : porté, pas porteur. Lues avant la carte, les couleurs disent déjà l’essentiel : des émotions qui se posent, quelqu’un qui rame pendant qu’un autre se repose.
+Un ciel gris pâle sur tout : neutre, stable, sans drame. L’eau est d’un [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) pâle — les émotions, ce qui purifie, ce qui lave —, agitée d’un côté, plate de l’autre. Le passeur et la barque sont d’un [orange](/fr/bibliotheque/couleurs-tarot/orange/) chaud : dans ma grille, la créativité, et aussi la sécheresse, l’énergie de celui qui fait le travail d’avancer. Le passager encapuchonné est lui aussi en jaune orangé, mais recroquevillé : porté, pas porteur. L’orange qui travaille, le bleu qui s’apaise : des émotions qui se posent, quelqu’un qui rame pendant qu’un autre se repose.
 
 ## Par l’astrologie : Mercure en Verseau {#astrologie}
 
-Dans la tradition Golden Dawn, le Six d’Épées correspond à [Mercure](/fr/bibliotheque/astrologie/mercure/) dans le deuxième décan du Verseau. Mercure, c’est la façon dont vous pensez et dont vous parlez ; le Verseau, l’idée neuve, le pont entre l’ancien et le nouveau. Ensemble : un esprit qui a trouvé le passage. Gardez cette clé si vous voulez ; la carte tient debout sans elle.
+Le deuxième décan du Verseau, sous [Mercure](/fr/bibliotheque/astrologie/mercure/), revient au Six d’Épées. Mercure, c’est la façon dont vous pensez et dont vous parlez ; le Verseau, l’idée neuve, le pont entre l’ancien et le nouveau. Ensemble : un esprit qui a trouvé le passage. Prenez cette clé ou non ; la barque avance sans elle.
 
 ## En lecture {#lecture}
 
@@ -81,6 +77,6 @@ Renversé, la traversée cale. La barque reste à quai, ou fait demi-tour à mi-
 
 Disposez le Six d’Épées et l’[As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/) côte à côte, comme pour quelqu’un que vous n’avez jamais vu. Six puis un : quelque chose qui avance vite, puis un nouveau départ. L’Air puis la Terre : un changement d’état d’esprit, puis du concret — de l’argent, un poste, un logement. Du gris et du bleu pâle, puis une main qui tend une pièce d’or au-dessus d’un jardin.
 
-Vous pourriez dire : « Vous sortez d’une période difficile, et de l’autre côté quelque chose de solide vous attend, quelque chose que vous pouvez tenir. »
+La traversée, puis la pièce tendue au-dessus du jardin : « Vous sortez d’une période difficile, et de l’autre côté quelque chose de solide vous attend, quelque chose que vous pouvez tenir. »
 
-Puis vérifiez : « Êtes-vous en train de quitter quelque chose ? Y a-t-il du nouveau, du concret, de l’autre côté ? » Si la personne ne quitte rien, c’est un raté, et c’est aussi une information. Pour voir ça en vrai, [les événements gratuits](/fr/evenements/) proposent des lectures publiques tirées au hasard.
+Puis vérifiez : « Êtes-vous en train de quitter quelque chose ? Y a-t-il du nouveau, du concret, de l’autre côté ? » Si elle ne quitte rien, cette barque n’était pas la sienne — ce qui est aussi une information. Pour voir ça en vrai, [les événements gratuits](/fr/evenements/) proposent des lectures publiques tirées au hasard.

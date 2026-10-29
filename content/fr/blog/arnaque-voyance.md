@@ -53,7 +53,7 @@ Vous êtes quelqu’un de spécial. Vous êtes une vieille âme. Vous avez un do
 
 ## 8. Il lit sur des sujets qu’un lecteur prudent laisse de côté {#sujets}
 
-Un diagnostic de santé, la mort, une grossesse, un procès en cours, la vie privée de quelqu’un d’autre, « est-ce que mon conjoint me trompe ? ». Une carte peut tomber sur ces sujets, mais un mot de travers y fait de vrais dégâts, et aucun lecteur n’a raison à chaque fois. Ces questions naissent d’une vraie inquiétude ; elles méritent un médecin, un avocat ou une conversation franche. Un lecteur qui répond à tout n’a jamais pensé qu’il pouvait se tromper.
+Un diagnostic de santé, la mort, une grossesse, un procès en cours, la vie privée de quelqu’un d’autre, « est-ce que mon conjoint me trompe ? ». Une carte peut tomber sur ces sujets, mais là, une phrase maladroite blesse pour de bon, et aucun lecteur n’a raison à chaque fois. Ces questions naissent d’une vraie inquiétude ; elles méritent un médecin, un avocat ou une conversation franche. Un lecteur qui répond à tout n’a jamais pensé qu’il pouvait se tromper.
 
 ## 9. Les avis sont parfaits {#avis}
 

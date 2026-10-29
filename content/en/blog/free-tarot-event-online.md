@@ -9,7 +9,7 @@ tags: ["host a free tarot reading night", "online tarot event", "free tarot read
 image: "covers/free-tarot-event-online.jpg"
 imageAlt: "A laptop on a kitchen table showing a blurred grid of video call windows, a deck of cards and a kitchen timer beside it"
 imagePrompt: "A laptop open on a kitchen table showing a blurred grid of video call windows, a closed tarot deck and a kitchen timer beside it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "To host a free tarot reading night online, keep it small and clear: a video call of about ninety minutes, people who registered, five or six of them drawn at random, around ten minutes each, read in front of the others. Ask consent before each reading. Say at the start what you don’t read on (health, death, pregnancy, court cases, money decisions, curses, people who aren’t there) and have a kinder question ready to offer instead. Say misses out loud, sell nothing, and stop before you’re tired. That’s what keeps a free night honest."
+summary: "To host a free tarot reading night online, keep it small and clear: a video call of about ninety minutes, people who registered, five or six of them drawn at random, around ten minutes each, read in front of the others. Ask consent before each reading. Say at the start which subjects stay off the table (medical worries, death, pregnancy, lawsuits, money choices, curses, anyone absent) and have a kinder question ready to offer instead. Say misses out loud, sell nothing, and stop before you’re tired. That’s what keeps a free night honest."
 ---
 A free reading night works when it’s small, clear and honest: a set time, a few people drawn at random, a short reading each, and nothing sold at the end. Here’s how I’d set one up, from the format to the questions you’ll gently set aside.
 
@@ -25,7 +25,7 @@ The person who’s drawn tells you nothing first: no question, no situation. Tha
 
 ## Timing: the evening, and each person {#timing}
 
-Keep the whole evening short; about ninety minutes is plenty. I sometimes stop after two hours of readings, out of caution, and reading in front of a group asks more of you than reading at home.
+Keep the whole evening short; about ninety minutes is plenty. After two hours of reading I sometimes end the session there, to be on the safe side, and reading in front of a group asks more of you than reading at home.
 
 Give each person a time limit and say it out loud at the start: around ten minutes each. It sounds strict. It’s actually kind. Nobody wants to watch someone else’s reading drag on for forty minutes, and the person being read isn’t left exposed in front of strangers for too long.
 
@@ -45,7 +45,7 @@ Agree on these before the first card:
 
 ## What you don’t read on, said kindly {#refusals}
 
-Say it at the start, before anyone is drawn: health, death, pregnancy, ongoing court cases, money decisions, curses and people who aren’t there are not read on tonight. Say it once, warmly, so nobody feels singled out later.
+Say it at the start, before anyone is drawn: tonight there will be no readings about illness or death, pregnancy, a case before the courts, a financial choice, curses, or anyone who isn’t in the call. Say it once, warmly, so nobody feels singled out later.
 
 When one comes up anyway, remember why people ask: usually worry, love or fear. Someone asking whether their mother will get better isn’t breaking a rule; they’re frightened. Acknowledge that first. Then say gently why the cards aren’t the right tool: on a subject like that, a wrong word does damage, and every reader misses sometimes. Then offer something. “I’d rather look at what would help you get through this week. Shall we draw for that?” Or point to the person who can help: a doctor, a lawyer, someone they trust.
 

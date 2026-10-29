@@ -9,21 +9,21 @@ tags: ["Wheel of Fortune love", "Wheel of Fortune tarot meaning", "Wheel of Fort
 image: "covers/wheel-of-fortune-tarot-love.jpg"
 imageAlt: "The Wheel of Fortune tarot card lying face up on a plain wooden table"
 imagePrompt: "The Wheel of Fortune card from the 1909 Rider-Waite-Smith deck lying upright on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, the card in its original colours, warm natural colours around it that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "In love, Wheel of Fortune is a turning point: a meeting, an ending, a relationship moving to another stage. It’s often read as luck happening to you, but my note on this card says the opposite — it’s up to you to turn the wheel and create your own luck. Number ten is a transition, the corridor between two rooms; the element Fire is the drive that gets things moving. The card doesn’t say when your love life will change or whether something is meant to be. It asks what part you’re playing in the turn."
+summary: "In love, Wheel of Fortune is a turning point: a meeting, an ending, a relationship moving to another stage. It’s often read as luck happening to you, but my note on the Wheel says the opposite: the turning is yours to do, and so is the luck. Number ten is a transition, the corridor between two rooms; the element Fire is the drive that gets things moving. The card doesn’t say when your love life will change or whether something is meant to be. It asks what part you’re playing in the turn."
 ---
-In love, Wheel of Fortune is a turning point: something changes — a meeting, an ending, a relationship moving to another stage. People often read it as luck happening to them. My note on this card says the opposite: it’s up to you to turn the wheel.
+In love, Wheel of Fortune is a turning point: something changes — a meeting, an ending, a relationship moving to another stage. Many read it as luck happening to them. My note on the Wheel says the opposite: your own hand moves it.
 
 {{< cards "ar10" >}}
 
 ## Create your own luck {#own-luck}
 
-That’s the whole of my note on this card: it’s up to you to turn the wheel — create your own luck. Look at the drawing with that in mind. No human stands on the wheel and no hand is on it. The four winged creatures in the corners aren’t waiting for it to stop; they’re reading, getting ready.
+That one line is all I wrote about this card: you make the wheel turn, and you make your luck. Look at the drawing with that in mind. No human stands on the wheel and no hand is on it. The four winged creatures in the corners aren’t waiting for it to stop; they’re reading, getting ready.
 
-The number is 10: the transition, the corridor between two rooms. In love, it closes one stage and opens the next. Its minus is that what comes can be short-lived, and it tells you to start something else.
+The number is 10: the transition, the corridor between two rooms. In love, it closes one stage and opens the next. Its minus: what arrives may not last, and ten pushes you on to the next thing.
 
 The element is Fire: impulse, desire, the energy that launches things. Many turning points in love start with a spark. Fire also warms a home and can burn one down, and a change made in anger at midnight is Fire too. The energy is masculine — acting, showing yourself — which is the card’s other hint: the turn needs a move from someone. [The card page for Wheel of Fortune](/library/tarot-cards/wheel-of-fortune/) has Jupiter and the other lenses.
 
-**The wheel turns either way; what you do while it turns is yours.**
+**Up or down, the wheel keeps moving; what you do while it moves is yours.**
 
 ## Where the wheel is turning {#turning}
 
@@ -43,7 +43,7 @@ Next to the Fool, it’s a turn you jump into with both feet: a relationship tha
 
 Reversed, the wheel sticks or spins too fast. Stuck: the same pattern keeps coming back — the same kind of person, the same argument, the same ending — and it feels like bad luck. It’s worth asking, gently, what you keep doing that keeps the wheel in that position.
 
-The sky is a tempting place to put the blame. “I don’t date Scorpios.” “It’s because I’m a Taurus.” But you’re not one sign; you’re a mix of everything, and if the same thing keeps hurting, it’s worth checking yourself before the stars. I’ve written about [when astrology becomes an excuse](/blog/astrology-is-not-an-excuse/).
+The sky is a tempting place to put the blame. “I don’t date Scorpios.” “It’s because I’m a Taurus.” But you’re not one sign; you’re a mix of everything, and if the same thing keeps hurting, it’s worth checking yourself before the stars. I’ve written about [why a sign can’t carry the blame](/blog/astrology-is-not-an-excuse/).
 
 Spinning is the other way: changes one after another with no time to breathe, every new turn a way of not looking at the last one. Neither is fate. Both are patterns, and patterns can change, starting with one small move.
 
@@ -51,7 +51,7 @@ Spinning is the other way: changes one after another with no time to breathe, ev
 
 That’s the one. Sometimes it’s “Is this meant to be?” Both come from the same tiredness: you’ve tried, it hasn’t worked, and you’d like the wheel to do the work for a while. That’s completely human, and nobody should be made to feel silly for asking it.
 
-I don’t read the Wheel as a timetable, and I don’t think anyone can tell you what’s “meant”. Timing is the weak spot of any reading, and I go into why in [what tarot can and can’t say about when](/blog/tarot-timing/). And as I wrote in my notes, the best way to ensure an enjoyable future is to anchor ourselves in the present.
+I don’t read the Wheel as a timetable, and I don’t think anyone can tell you what’s “meant”. Dates are where readings are weakest, and I go into why in [what tarot can and can’t say about when](/blog/tarot-timing/). And as my notes have it, you secure a happy future by rooting yourself in today.
 
 A kinder question: “What’s one turn I could give the wheel this month?” A place you’ve never been, a conversation you’ve postponed, a habit you’d like to drop.
 

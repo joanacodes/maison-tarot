@@ -27,7 +27,7 @@ Less information reaches me, and that helps. In a room, a reader sees shoes, a w
 
 Video gives back one thing a voice call doesn’t: a face. Faces nod, smile and sigh at the right moment, and that’s information too. If you read over video, it helps to ask the person, kindly, to keep a poker face and save their reactions for the end. Some can’t, and that’s fine; it’s worth noting next to the reading.
 
-The person doesn’t touch the cards. People often ask whether that matters. I don’t think so. The cards aren’t where the reading comes from; they help me focus, or unfocus, so my own thoughts step aside. More and more, the first impressions come before I’ve shuffled, and I keep the cards on the table mostly because the person wants to see them. So over video, the useful thing is to hold each card up to the camera, so the person sees what you see.
+The person doesn’t touch the cards. People often ask whether that matters. I don’t think so. The cards aren’t where the reading comes from; they help me focus, or unfocus, so my own thoughts step aside. More and more, the first impressions come before I’ve shuffled; I go on laying out cards mainly so the person has the pictures in front of them. So over video, the useful thing is to hold each card up to the camera, so the person sees what you see.
 
 What I can’t explain is why distance doesn’t seem to matter. I don’t know how tarot works at all, and I lay out [the four explanations people give](/blog/how-does-tarot-work/) without picking one I need.
 
@@ -43,7 +43,7 @@ Not the reading itself, usually. The setting.
 
 ## Group calls and lives {#group-calls}
 
-Some of my readings were done in front of others: in group calls, and during a live. One of the reviews I received on Facebook came from someone I read during a live. The format is still the same: they tell me nothing, I say what comes, they say whether it landed. That’s how my free online events work today.
+Some of my readings were done in front of others: in group calls, and during a live. Someone I read during a live later left me a review on Facebook. The format is still the same: they tell me nothing, I say what comes, they say whether it landed. That’s how my free online events work today.
 
 At the far end of distance there’s the pick-a-card video, recorded by someone who has never met you. One of those made me sob, because it put words on my situation for the first time. I wrote about [whether pick-a-card readings work](/blog/do-pick-a-card-readings-work/), and where they fall short.
 

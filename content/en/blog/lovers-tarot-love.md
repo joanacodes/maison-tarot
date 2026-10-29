@@ -17,11 +17,11 @@ The Lovers is the card everyone hopes for in a love reading, and it’s less rom
 
 ## Why the Lovers decides before it swoons {#decides}
 
-Six, in my notes, is “3 exalted”: the machine is running, and running fast. Harmony, exchange, the moment you can rest. In love, that’s the relationship that works — and its risk comes from the same place. When everything runs smoothly, you stop checking whether you’d still choose it. Six’s advice is to stay calm and humble while things flow.
+Six, in my notes, is “3 exalted”: the machine is running, and running fast. Harmony, exchange, the moment you can rest. In love, that’s the relationship that works — and its risk comes from the same place. When everything runs smoothly, you stop checking whether you’d still choose it. Six’s advice is to keep steady and modest while it all flows.
 
-The element is Air, the mind. Air takes in everything at once, which makes it the best decision-maker of the four: Fire is too impulsive, Water too emotional, Earth too stubborn. A Water card would talk about feelings. This one talks about choosing, with your eyes open. Its feminine energy says how: thinking first, and approaching delicate subjects by a detour rather than head-on.
+The element is Air, the mind. Air takes everything in at once; in my notes that makes it the best judge of the four elements, where the others would rush, flood or dig in. A Water card would talk about feelings. This one talks about choosing, with your eyes open. Its feminine energy says how: thinking first, and approaching delicate subjects by a detour rather than head-on.
 
-One detail of the drawing matters here. The man looks at the woman; the woman looks up at the angel; they don’t touch. **This isn’t a picture of two people in love; it’s a picture of two people deciding.** Gemini and the other lenses are on [the Lovers’ own page](/library/tarot-cards/the-lovers/).
+Look at where the eyes go: his rest on her, hers rise to the angel, and their hands stay apart. **This isn’t a picture of two people in love; it’s a picture of two people deciding.** Gemini and the other lenses are on [the Lovers’ own page](/library/tarot-cards/the-lovers/).
 
 ## The talking phase, and what you actually want {#talking-phase}
 
@@ -39,7 +39,7 @@ Say a couple has lived together for six years and draws the Lovers. The card isn
 
 After a break-up, the Lovers can show a choice already made, and the effort to own it rather than replay it. Or a choice still open: trying again, or not. The card won’t make it for you. It shows the crossroads and the angel above, and leaves the walking to you.
 
-If someone sat down, told me nothing and drew the Lovers, I’d start from the lenses: harmony that works, a decision, a conversation, the head as much as the heart. What I’d say out loud is something like: “There’s a choice in front of you that you already know the answer to, and you’re waiting for someone else to make it official.” Then I’d ask whether that lands, and listen. If it doesn’t, it’s a miss, and I’d note it as one.
+If someone sat down, told me nothing and drew the Lovers, I’d start from the lenses: harmony that works, a decision, a conversation, the head as much as the heart. I might put it this way: “There’s a choice in front of you that you already know the answer to, and you’re waiting for someone else to make it official.” Then I’d ask if that rings true, and listen. A no gets written down as a miss.
 
 ## The one, or the one you choose {#the-one}
 
@@ -47,9 +47,9 @@ If someone sat down, told me nothing and drew the Lovers, I’d start from the l
 
 That’s a question I don’t put to the cards. “The one” turns a choice into something written in advance, and the Lovers is precisely the card that says love is chosen. The other person isn’t in the room either; what they feel and what they’ll decide are theirs. A card that told you “yes, it’s them” would be taking a decision away from both of you.
 
-A gentler question: “What am I choosing when I choose this person — and would I choose it again today?” Or: “What do I want a relationship to feel like on an ordinary day?” Those have answers inside you, and they make you better company for the other person, whoever they turn out to be.
+A gentler question: “When I pick this person, what exactly am I picking — and would I pick it again today?” Or: “What do I want a relationship to feel like on an ordinary day?” Those have answers inside you, and they make you better company for the other person, whoever they turn out to be.
 
-People also ask whether the Lovers is a “yes” card. It’s tempting to say so, and it would be a shame: a yes handed down by a deck skips the decision entirely. I’ve written about [why I answer yes-or-no questions differently](/blog/yes-or-no-tarot/).
+People also ask whether the Lovers is a “yes” card. It’s tempting to say so, and it would be a shame: a yes handed down by a deck skips the decision entirely. I’ve written about [what I do with yes-or-no questions instead](/blog/yes-or-no-tarot/).
 
 ## Standing in the middle so you lose nothing {#the-middle}
 
@@ -63,7 +63,7 @@ In excess, it’s choosing over and over without ever settling. Every new person
 
 {{< cards "sw02 ar15 cu02" >}}
 
-Next to the Two of Swords — a blindfolded woman holding two blades crossed over her chest — the choice is being refused. Both options are held level so neither has to be picked. Taking off the blindfold comes before any decision.
+Next to the Two of Swords — blindfolded, two blades crossed over her chest — the choice is being refused. Both options are held level so neither has to be picked. Taking off the blindfold comes before any decision.
 
 Next to the Devil, the question becomes whether a choice is still a choice. The Devil’s two chained figures echo the Lovers nine cards later, and 15 comes back to 6 as well. **The Devil is the 6 that stopped choosing; the Lovers is the 6 that keeps choosing.** I’ve written about [the Devil in love](/blog/devil-tarot-love/) and its loose chains.
 
@@ -73,4 +73,4 @@ Next to the Two of Cups, it’s the exchange made concrete: two people facing ea
 
 The next time the Lovers comes up, write the choice at the top of a page in one sentence. Then two columns: what you choose if you say yes, and what you choose if you say no — because both are choices. Read it again two days later, once the Air has settled.
 
-If the choice is a big one, I’ve laid out the whole approach in [using tarot for a decision without letting the cards decide](/blog/tarot-for-decision-making/).
+If the choice is a big one, I’ve laid out the whole approach in [a full method for big decisions, with the cards kept in their place](/blog/tarot-for-decision-making/).

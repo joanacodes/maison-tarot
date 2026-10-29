@@ -9,7 +9,7 @@ tags: ["l’astrologie comme excuse", "parce que je suis Scorpion", "je ne sors 
 image: "covers/astrology-is-not-an-excuse.jpg"
 imageAlt: "Un thème astral imprimé sur un bureau en bois à côté d’un crayon, une fenêtre de nuit derrière"
 imagePrompt: "A printed birth chart lying on a wooden desk beside a sharpened pencil, a window behind it at night. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "L’astrologie peut décrire une tendance ; elle ne peut pas excuser ce que vous en faites. « Parce que je suis Scorpion » n’explique rien de plus que « parce que je l’ai choisi », et « je ne sors pas avec les Scorpions » écarte un douzième de l’humanité sur une ligne de thème. Vous n’êtes pas un signe ; vous êtes un mélange de tout. Quand j’ai testé mon propre thème, les descriptions tenaient environ une fois sur trois. Servez-vous du thème comme d’un miroir, pas d’une permission : si quelque chose blesse sans cesse vos proches, il vous aide à regarder, mais le regard est le vôtre."
+summary: "L’astrologie peut décrire une tendance ; elle ne peut pas excuser ce que vous en faites. « Parce que je suis Scorpion » n’explique rien de plus que « parce que je l’ai choisi », et « je ne sors pas avec les Scorpions » écarte un douzième de l’humanité sur une ligne de thème. Personne ne se réduit à son signe solaire : le thème en mêle bien d’autres. Quand j’ai testé mon propre thème, les descriptions tenaient environ une fois sur trois. Servez-vous du thème comme d’un miroir, pas d’une permission : si quelque chose blesse sans cesse vos proches, il vous aide à regarder, mais le regard est le vôtre."
 ---
 L’astrologie peut décrire une tendance. Elle ne peut pas excuser ce que vous en faites. « Parce que je suis Scorpion », on le dit souvent en souriant, et c’est très bien — jusqu’au jour où la phrase clôt une conversation qui devait avoir lieu.
 
@@ -32,19 +32,19 @@ Quand quelqu’un dit « je suis Scorpion », il veut dire que le Soleil était 
 
 Je l’explique avec une maison. Le Soleil, c’est l’intérieur de la maison. La Lune, c’est votre chambre à vous, et elle compte énormément. L’ascendant, c’est la façade, ce que les autres voient depuis la rue. Ensuite, chaque planète se trouve quelque part dans cette maison, dans un signe et dans une maison du thème. Un Soleil Scorpion avec une Lune Balance et un ascendant Sagittaire n’a pas grand-chose à voir avec un Soleil Scorpion avec une Lune Capricorne et un ascendant Cancer. Je détaille ce trio dans [Soleil, Lune, ascendant](/fr/blog/soleil-lune-ascendant/).
 
-**Vous n’êtes pas seulement un signe ; vous êtes un mélange de tout.**
+**Un signe n’est qu’une pièce de la maison ; c’est le thème entier qui vous compose.**
 
 C’est pour ça que « je ne sors pas avec les Scorpions » ne tient pas. On juge toute une maison sur une seule pièce, et on écarte un douzième des gens qu’on pourrait rencontrer sur la foi d’une ligne. Et si vous avez un coup de cœur, j’irais plus loin : [ne cherchez pas son thème du tout](/fr/blog/theme-astral-sans-permission/). Laissez la magie opérer entre vous deux.
 
 ## Ce que j’ai trouvé en testant mon propre thème {#ce-que-jai-trouve}
 
-Je suis venue à l’astrologie pour m’en moquer. J’ai lancé une vidéo pour rire, j’ai lu mon propre thème, et il était trop précis pour que j’en rie. Alors je l’ai testé case par case — une coche ou une croix pour chaque position —, puis j’ai fait de même avec ma famille, mes amis et des inconnus.
+Au départ, l’astrologie n’était pour moi qu’un sujet de moquerie. J’ai lancé une vidéo pour rire, j’ai lu mon propre thème, et il était trop précis pour que j’en rie. Alors je l’ai vérifié position par position, en marquant chacune juste ou fausse, puis j’ai fait de même avec ma famille, mes amis et des inconnus.
 
 Sur l’ensemble des cases, entre 30 et 40 % ont tenu : assez pour décrire une tendance, pas pour excuser quoi que ce soit. Saturne, Lilith et Chiron tenaient bien davantage, de 75 à 90 % du temps. Toute l’histoire est dans [comment j’ai testé mon thème astral](/fr/blog/j-ai-teste-mon-theme-astral/).
 
 Ce que ça veut dire ici : la description d’un signe tombe juste environ une fois sur trois. C’est assez pour être intéressant. Ce n’est pas assez pour vous excuser, et certainement pas pour écarter quelqu’un.
 
-Et puisque le Scorpion est dans le titre : dans mes notes, son verbe est « je désire ». C’est un signe fixe — stable, endurant, et de l’autre côté lent à lâcher prise, surtout sur ses attachements affectifs. Son archétype, c’est la personne qui ne dit rien en soirée et qui attire tous les regards. Vous trouverez davantage sur [la page Scorpion de la Bibliothèque](/fr/bibliotheque/astrologie/scorpion/). Au tarot, la carte du Scorpion est la Mort, qui dans mes notes ne parle pas de mourir : c’est la récolte, le recommencement, rendre la vie fertile à nouveau.
+Et puisque le Scorpion est dans le titre : dans mes notes, son verbe est « je désire ». C’est un signe fixe — stable, endurant, et de l’autre côté lent à lâcher prise, surtout sur ses attachements affectifs. Son archétype, c’est la personne qui ne dit rien en soirée et qui attire tous les regards. Vous trouverez davantage sur [la page Scorpion de la Bibliothèque](/fr/bibliotheque/astrologie/scorpion/). Le Scorpion a pour carte la Mort, qui dans mes notes ne parle pas de mourir : c’est la récolte, le recommencement, rendre la vie fertile à nouveau.
 
 {{< cards "ar13" >}}
 

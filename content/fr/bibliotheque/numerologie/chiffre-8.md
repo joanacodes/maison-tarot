@@ -59,7 +59,7 @@ gallery:
 ---
 ## Ce que dit le 8 {#definition}
 
-**Le 8, c’est empire (le 4 exalté).** Héritage, stabilité assurée, prospérité. Le 8 est l’empire — le 4 exalté, la structure devenue puissance. Dans le [cycle des nombres](/fr/bibliotheque/numerologie/), il vient après le 7 et prépare le 9.
+**Le 8, c’est empire (le 4 exalté).** Héritage, stabilité assurée, prospérité. Le 8 est l’empire — le 4 exalté, la structure devenue puissance. Après la halte du 7, il consolide ; le 9 annoncera déjà [la fin du cycle](/fr/bibliotheque/numerologie/).
 
 ## Le conseil du 8 {#conseil}
 
@@ -81,6 +81,6 @@ Instagram, désormais chez Facebook, est devenu un empire qui génère des milli
 
 ## En lecture {#lecture}
 
-Un 8 dans un tirage dit : **c’est solide, et ça dure.** Le Huit de Pentacles travaille pièce après pièce, le Huit de Bâtons file — la vitesse maîtrisée —, le Huit de Coupes quitte ce qui est construit pour chercher autre chose, le Huit d’Épées se croit prisonnier de ce qu’il a bâti. La Force est le 8 de la maîtrise intérieure : la douceur qui tient le lion.
+Avec un 8, le constat est simple : **c’est solide, et ça dure.** Le Huit de Pentacles travaille pièce après pièce, le Huit de Bâtons file — la vitesse maîtrisée —, le Huit de Coupes quitte ce qui est construit pour chercher autre chose, le Huit d’Épées se croit prisonnier de ce qu’il a bâti. La Force est le 8 de la maîtrise intérieure : la douceur qui tient le lion.
 
 {{% six %}}

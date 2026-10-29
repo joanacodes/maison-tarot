@@ -58,7 +58,7 @@ gallery:
 ---
 ## What the mode says {#definition}
 
-In astrology every sign has a mode — cardinal, fixed or mutable — that says *how* it acts: cardinal starts, fixed holds, mutable changes. The four cardinal signs open the seasons: Aries spring, Cancer summer, Libra autumn, Capricorn winter. It's the energy of the first day.
+In astrology every sign has a mode — cardinal, fixed or mutable — that says *how* it acts: cardinal starts, fixed holds, mutable changes. The four cardinal signs open the seasons: Aries spring, Cancer summer, Libra autumn, Capricorn winter. Cardinal is the first day of anything.
 
 ## The four signs and their cards {#signs}
 
@@ -73,14 +73,14 @@ In astrology every sign has a mode — cardinal, fixed or mutable — that says 
 
 ## The advice {#advice}
 
-Start, then hand over. Cardinal at its best gives the push; at its worst it launches ten things and holds none. The advice of [1](/library/numerology/number-1/) — stay humble — is its advice too.
+Start, then hand over. In good form, cardinal gives the push; out of form, it launches ten things and holds none. It shares the counsel of [number 1](/library/numerology/number-1/): stay humble.
 
 ## In a reading {#reading}
 
-A spread dominated by cardinal says: **it's starting, or it's time to.** A decision, a departure, someone taking the lead. If the person was waiting for a signal, here it is; if they're on their third start, the question becomes: what never gets held? The mode says the tempo, the [element](/library/four-elements/) says the field.
+When cardinal cards fill a spread, the message is: **it's starting, or it's time to.** A decision, a departure, someone taking the lead. If the person was waiting for a signal, here it is; if they're on their third start, the question becomes: what never gets held? To see which area of life is starting, ask the [element](/library/four-elements/).
 
 ## The three modes {#modes}
 
-The other two: [fixed](/library/astrological-modes/fixed/) · [mutable](/library/astrological-modes/mutable/). And the [full table of signs](/library/astrology/) to see all three at once.
+Then [fixed](/library/astrological-modes/fixed/), which holds what cardinal started, and [mutable](/library/astrological-modes/mutable/), which changes it. The [full table of signs](/library/astrology/) shows all three at once.
 
 {{% six %}}

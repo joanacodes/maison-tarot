@@ -21,11 +21,11 @@ Ma position : pas pendant vos premières semaines, ensuite oui, mais sans second
 
 {{< cards "ar07" >}}
 
-À l’endroit, c’est avancer, les rênes en main. À l’envers, soit il est à l’arrêt, les deux sphinx tirant chacun de leur côté, soit il fonce quand il faudrait ralentir. Et décidez avant de mélanger, pas après avoir vu la carte. Le raccourci complet est dans [les cartes inversées au tarot](/fr/blog/cartes-inversees-tarot/).
+À l’endroit, c’est avancer, les rênes en main. À l’envers, soit il est à l’arrêt, les deux sphinx tirant chacun de leur côté, soit il fonce quand il faudrait ralentir. Et choisissez votre camp avant que vos mains touchent le paquet, pas en découvrant ce qui est sorti. Le raccourci complet est dans [les cartes inversées au tarot](/fr/blog/cartes-inversees-tarot/).
 
 *La clarification.* Une carte de clarification, c’est une carte supplémentaire tirée pour éclairer une carte obscure. Beaucoup de tarologues s’en servent, et avec soin, et l’argument en sa faveur est réel : une lecture est une conversation, et parfois on a besoin d’un mot de plus.
 
-Ma position : je n’en tire pas. Une carte de plus n’éclaire pas la première ; elle ajoute une seconde image et une seconde histoire. Et l’envie d’en tirer une arrive souvent quand la lecture n’a pas touché, c’est-à-dire au moment où je préfère le dire. J’explique pourquoi dans [la carte de clarification](/fr/blog/carte-de-clarification-tarot/).
+Ma position : je n’en tire pas. Poser une carte par-dessus ne clarifie rien ; vous avez alors deux dessins, et deux récits qui se disputent la place. Et l’envie d’en tirer une arrive souvent quand la lecture n’a pas touché, c’est-à-dire au moment où je préfère le dire. J’explique pourquoi dans [la carte de clarification](/fr/blog/carte-de-clarification-tarot/).
 
 **Sur ces deux questions, la règle qui compte le plus, c’est de décider avant de voir les cartes, pas après.**
 
@@ -33,7 +33,7 @@ Ma position : je n’en tire pas. Une carte de plus n’éclaire pas la premièr
 
 Certains tarologues purifient un jeu neuf, ou un jeu qui leur semble lourd, avec de la fumée de sauge, la lumière de la lune, du sel ou une pierre posée dessus. Pour beaucoup, c’est une façon de marquer un début et une fin, un petit rituel qui aide à se poser avant de lire pour quelqu’un. Je le comprends. D’autres trouvent la purification inutile, ou surtout faite pour être vendue.
 
-Ma position : je ne purifie pas, et j’ai moi-même vendu de la sauge ; [pourquoi j’ai arrêté](/fr/blog/purifier-son-jeu-de-tarot/) a sa propre page. Quand les lectures deviennent troubles, c’est en général la personne qui lit qui a besoin de repos, pas les cartes : essayez de vous arrêter quelques jours avant d’allumer quoi que ce soit. Si un rituel vous aide à vous poser, gardez-le, comme une habitude pour vous plutôt que comme une réparation pour le jeu.
+Ma position : je ne purifie pas, et j’ai moi-même vendu de la sauge ; j’explique [ce que la purification ne fait pas](/fr/blog/purifier-son-jeu-de-tarot/), et pourquoi j’ai arrêté. Quand les lectures deviennent troubles, regardez votre propre fatigue avant d’accuser les cartes : essayez de vous arrêter quelques jours avant d’allumer quoi que ce soit. Si un rituel vous aide à vous poser, gardez-le, comme une habitude pour vous plutôt que comme une réparation pour le jeu.
 
 ## Faire payer les lectures {#argent}
 
@@ -41,7 +41,7 @@ Certains tarologues font payer leurs lectures et y voient un travail qualifié c
 
 Ma position : au milieu, d’une façon précise. Je fais payer les cours, des sessions d’une heure et des ateliers de trois heures, et je donne les lectures pendant les événements. Je n’ai jamais vendu une lecture. Ce n’est pas un jugement sur ceux qui le font. C’est une question d’intérêt : je préfère être payée pour vous rendre plus autonome que pour votre prochaine question.
 
-**Ce que je surveillerais, ce n’est pas si un tarologue fait payer, mais si son prix le récompense de vous laisser dans le doute.** Le paiement à la question et l’abonnement qui se renouvelle tout seul, oui ; un prix annoncé pour une heure annoncée, non. J’explique ma position dans [ce que je fais payer et ce que je donne](/fr/blog/ce-que-je-fais-payer/).
+**Ce que je surveillerais, ce n’est pas si un tarologue fait payer, mais si son prix le récompense de vous laisser dans le doute.** Le paiement à la question et l’abonnement qui se renouvelle tout seul, oui ; un prix annoncé pour une heure annoncée, non. Je raconte comment je m’y prends dans [ce que je facture, et ce que j’offre](/fr/blog/ce-que-je-fais-payer/).
 
 ## L’IA et le tarot {#ia}
 
@@ -59,6 +59,6 @@ Ma position : les deux sont un artisanat, et j’en suis venue à voir un tirage
 
 ## Ce qu’il y a sous les débats, et à vous de jouer {#a-vous}
 
-Sous ces six débats, les tarologues que je respecte ont souvent quelques points en commun. Une lecture n’est pas un ordre. Personne n’a raison à chaque fois, et le dire fait partie du travail. La personne en face compte plus que la méthode. Deux tarologues d’accord là-dessus peuvent être en désaccord sur tout le reste et valoir tous les deux qu’on s’assoie à leur table.
+Sous ces six débats, les tarologues que je respecte ont souvent quelques points en commun. Une lecture ne vous commande rien. Personne n’a raison à chaque fois, et le dire fait partie du travail. La personne en face compte plus que la méthode. Deux tarologues d’accord là-dessus peuvent être en désaccord sur tout le reste et valoir tous les deux qu’on s’assoie à leur table.
 
 Quant à mes positions, le meilleur usage que vous puissiez en faire est de les contredire une semaine : choisissez un débat, essayez le camp qui n’est pas le vôtre, et notez ce qui change dans [votre carnet de tirages](/fr/blog/carnet-de-tirage-tarot/). Vous finirez peut-être là où je suis, ou quelque part de mieux.

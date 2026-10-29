@@ -1,6 +1,6 @@
 ---
 title: 'L’Étoile (The Star) — tarot Rider-Waite-Smith : lire la carte par ses clés de lecture'
-description: 'L’Étoile au tarot, lue par ses clés de lecture : 17 qui devient 8, l’Air, le bleu et le jaune, le Verseau — l’espoir après l’épreuve, plus décision qu’humeur.'
+description: 'L’Étoile au tarot : une femme qui verse deux cruches sous huit étoiles, 17 devenu 8, l’Air, le Verseau — l’espoir après l’épreuve, choisi plus que ressenti.'
 translationKey: card-ar17
 type: cards
 navTitle: L’Étoile
@@ -15,10 +15,7 @@ energy: Féminine
 kabbalah: Tsadé
 image: cards/ar17.webp
 h1: L’Étoile — <em>17</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » L’Étoile, regardez ce que vous avez déjà
-  : 17, l’élément Air, Verseau. Vous lisez la carte. Le nombre dit 17 — 1 + 7 = 8 — le mouvement, la maîtrise, le fruit du travail ; l’élément dit le mental, ce qu’on décide. Posez
-  les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà —
-  le reste de la page vous montre comment.'
+lede: 'Agenouillée et nue sous une grande étoile, une femme verse ses deux cruches, une pour l’eau, une pour la terre. Le pire est passé : où décidez-vous, maintenant, de verser votre soin ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-air
@@ -49,21 +46,21 @@ Après la Tour, le ciel est dégagé : plus rien ne tombe. Pas de vêtement, pas
 
 Dix-sept se ramène à [8](/fr/bibliotheque/numerologie/chiffre-8/), le nombre de la Force : le « 4 exalté », la stabilité qui dure, ce qui n’est plus un pari. Le 8 est aussi une porte entre le tangible et l’intangible — la lemniscate, l’infini couché. L’Étoile montre cette porte : une cruche pour la terre, une pour l’eau, ce qu’on touche et ce qu’on ressent, nourris en même temps.
 
-Après le 7 de la Tour, le bilan, le 8 est ce sur quoi on reconstruit. Dans l’histoire d’Instagram, le 8, c’est l’empire qu’on ne remet plus en question parce qu’il marche ; l’Étoile en est la version discrète, quelque chose qui dure parce qu’on continue d’en prendre soin.
+Après le 7 de la Tour, le bilan, le 8 est ce sur quoi on reconstruit. Instagram, au stade de l’empire, ne se remet plus en question parce qu’il marche ; l’Étoile en est la version discrète, quelque chose qui dure parce qu’on continue d’en prendre soin.
 
 ## Par l’élément : Air {#element}
 
-L’Étoile est une carte d’[Air](/fr/bibliotheque/quatre-elements/element-air/), alors qu’elle est pleine d’eau, et ça mérite qu’on s’y arrête. L’Air, c’est le mental, la décision, la communication ; il a accès à tout à la fois, ce qui en fait le meilleur décideur des quatre éléments. L’eau, ici, n’est pas une inondation. Elle est versée : choisie, dosée, dirigée.
+L’Étoile est une carte d’[Air](/fr/bibliotheque/quatre-elements/element-air/), alors qu’elle est pleine d’eau, et ça mérite qu’on s’y arrête. L’Air, c’est le mental, la décision, la communication ; comme il embrasse tout d’un coup, c’est l’élément qui décide le mieux. L’eau, ici, n’est pas une inondation. Elle est versée : choisie, dosée, dirigée.
 
 L’Étoile, c’est donc l’espoir comme décision plutôt que comme humeur — vous décidez où vont votre attention et votre soin. Le risque de l’Air reste le même : une idée qu’on continue d’arroser sans vérifier que quelque chose pousse.
 
 ## Par les couleurs {#couleurs}
 
-Le [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) du ciel et du bassin : l’émotion, ce qui purifie, la vitalité, ce qui coule. Le [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) de la grande étoile : la joie, l’optimisme, l’enfant intérieur. Le blanc des petites étoiles : la paix, ce qui n’a pas été sali. Le vert de la terre et de l’arbre : la croissance, la vie qui repart. Lisez les couleurs avant la carte et vous avez déjà : des émotions lavées, une joie qui revient, et une terre où quelque chose peut pousser.
+Le [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) du ciel et du bassin : l’émotion, ce qui purifie, la vitalité, ce qui coule. Le [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) de la grande étoile : la joie, l’optimisme, l’enfant intérieur. Le blanc des petites étoiles : la paix, ce qui n’a pas été sali. Le vert de la terre et de l’arbre : la croissance, la vie qui repart. Quatre couleurs, et l’accalmie est déjà là : des émotions lavées, une joie qui revient, une terre où quelque chose peut pousser.
 
 ## Par l’astrologie : Verseau {#astrologie}
 
-Dans la tradition Golden Dawn, l’Étoile revient au [Verseau](/fr/bibliotheque/astrologie/verseau/), le porteur d’eau — et la femme aux deux cruches, c’est exactement lui. Le Verseau est un signe d’Air dont le verbe est « Je sais », à entendre comme « je crois savoir » : l’idée neuve, le pont entre l’ancien et le nouveau, l’envie de partager ce qu’on a trouvé. Il ajoute à la carte une dimension collective : l’eau n’est pas gardée, elle est donnée.
+La Golden Dawn rattache l’Étoile au [Verseau](/fr/bibliotheque/astrologie/verseau/), le porteur d’eau — et la femme aux deux cruches, c’est exactement lui. Le Verseau est un signe d’Air dont le verbe est « Je sais », à entendre comme « je crois savoir » : l’idée neuve, le pont entre l’ancien et le nouveau, l’envie de partager ce qu’on a trouvé. Il ajoute à la carte une dimension collective : l’eau n’est pas gardée, elle est donnée.
 
 ## En lecture {#lecture}
 
@@ -83,6 +80,6 @@ Disposez l’Étoile, puis le [Six d’Épées](/fr/bibliotheque/cartes-tarot/si
 
 Les nombres : 17 se ramène à 8, ce qui dure ; le Six d’Épées est un 6, la machine lancée, la possibilité de se reposer. Les éléments : Air et Air, donc il s’agit de décisions et de mental, pas seulement de sentiments. Les images aident aussi : le ciel ouvert de l’Étoile et, sur le Six d’Épées, une barque qui traverse l’eau vers une rive plus calme.
 
-La phrase que vous diriez à voix haute : « Vous avez passé le plus dur et vous le savez, même si vous êtes encore en train de traverser. Ce qui vous aide maintenant, c’est quelque chose que vous avez décidé, pas quelque chose qui vous est arrivé. »
+Cette traversée, vous pourriez la dire ainsi : « Vous avez passé le plus dur et vous le savez, même si vous êtes encore en train de traverser. Ce qui vous aide maintenant, c’est quelque chose que vous avez décidé, pas quelque chose qui vous est arrivé. »
 
-Puis vérifiez. Demandez à la personne ce que cela lui évoque, et laissez-la répondre avant d’ajouter quoi que ce soit. Si ça tombe juste, remarquez le chemin : trois clés de lecture, aucune signification apprise par cœur. Sinon, notez un raté.
+Puis demandez-lui ce que la phrase réveille chez elle, et taisez-vous jusqu’à sa réponse. Si elle s’y reconnaît, remarquez le chemin parcouru : trois clés de lecture, aucune signification apprise par cœur. Si elle ne traverse rien de tel, la phrase a manqué sa cible, et votre carnet le saura.

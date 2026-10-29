@@ -46,7 +46,7 @@ Un point d’attention avec les éditions recolorées : la couleur est l’une d
 
 Pour un tarot de Marseille, le choix classique en France est l’*Ancien Tarot de Marseille* de Grimaud, la version que Paul Marteau a établie vers 1930 à partir d’un modèle Conver plus ancien. Autre option connue : la restauration Camoin-Jodorowsky, reconstituée en comparant plusieurs anciens tarots de Marseille.
 
-Ni l’un ni l’autre n’est un premier jeu pour ma façon d’enseigner. Leurs cartes numérales montrent des agencements de coupes, d’épées, de deniers et de bâtons plutôt que des personnages : aucune scène sur laquelle s’appuyer, seulement le nombre et l’élément. Une fois les clés de lecture bien installées, c’est justement ce qui donne tout son intérêt à un Marseille. Je mets les deux traditions côte à côte dans [tarot de Marseille ou Rider-Waite-Smith](/fr/blog/tarot-de-marseille-ou-rider-waite/).
+Ni l’un ni l’autre n’est un premier jeu pour ma façon d’enseigner. Leurs cartes numérales montrent des agencements de coupes, d’épées, de deniers et de bâtons plutôt que des personnages : aucune scène sur laquelle s’appuyer, seulement le nombre et l’élément. Une fois les clés de lecture bien installées, c’est justement ce qui donne tout son intérêt à un Marseille. Je mets les deux traditions côte à côte, [des gravures sur bois aux scènes de Pamela Colman Smith](/fr/blog/tarot-de-marseille-ou-rider-waite/).
 
 ## Le Thoth, pour bien plus tard {#thoth}
 

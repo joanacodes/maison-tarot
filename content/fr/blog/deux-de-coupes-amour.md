@@ -29,7 +29,7 @@ Si l’astrologie vous parle, la carte correspond à Vénus en Cancer : un amour
 
 C’est la question qui vient avec cette lame, presque à chaque fois. Elle est courageuse — elle veut dire que vous avez déjà mis quelque chose dans votre coupe — et il est naturel de vouloir être rassuré avant de boire.
 
-Je ne lis pas ce que ressent une autre personne. Elle n’est pas dans la pièce, elle n’a rien accepté, et tout ce qu’une carte « dirait » de son cœur serait en réalité votre espoir ou votre peur, habillés comme si c’étaient les siens. J’ai écrit sur [le fait de tirer les cartes sur quelqu’un qui n’est pas là](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/), et sur les raisons pour lesquelles je préfère m’en abstenir.
+Je ne lis pas ce que ressent une autre personne. Elle n’est pas dans la pièce, elle n’a rien accepté, et tout ce qu’une carte « dirait » de son cœur serait en réalité votre espoir ou votre peur, habillés comme si c’étaient les siens. J’ai écrit sur [le fait de tirer les cartes sur quelqu’un d’absent](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/), et sur les raisons pour lesquelles je préfère m’en abstenir.
 
 Une question plus douce : « Qu’est-ce que j’apporte dans cette coupe — et qu’aurais-je besoin de voir pour savoir que c’est réciproque ? » La seconde moitié ne trouve pas sa réponse dans les cartes. Elle la trouve dans la façon dont l’autre se comporte quand vous êtes tous les deux à table.
 
@@ -47,7 +47,7 @@ Mon [tout premier tirage pour une inconnue](/fr/blog/premier-tirage-tarot/) rapp
 
 {{< cards "ar06 ar01 sw03" >}}
 
-À côté des Amoureux, le lien devient un choix, et un choix engage davantage qu’une humeur ; [les Amoureux en amour](/fr/blog/les-amoureux-tarot-amour/) parlent de le faire librement. À côté du Magicien, un premier pas a reçu sa réponse : l’un a parlé, l’autre a levé sa coupe. À côté du Trois d’Épées, le lien est réel et quelque chose l’a entaillé — un mot, une tierce personne, une blessure dont personne n’a parlé. Ou, comme je l’ai noté pour cette carte, un pacte de sang : deux personnes plus proches parce qu’elles ont traversé la douleur ensemble.
+À côté des Amoureux, le lien devient un choix, et un choix engage davantage qu’une humeur ; [les Amoureux en amour](/fr/blog/les-amoureux-tarot-amour/) parlent de le faire librement. À côté du Magicien, un premier pas a reçu sa réponse : l’un a parlé, l’autre a levé sa coupe. Près du Trois d’Épées, il y a bien un lien, mais entaillé : une parole, quelqu’un d’autre, une douleur restée tue. Ou, comme je l’ai noté pour cette carte, un pacte de sang : deux personnes plus proches parce qu’elles ont traversé la douleur ensemble.
 
 ## Quand une coupe penche {#coupe-penche}
 

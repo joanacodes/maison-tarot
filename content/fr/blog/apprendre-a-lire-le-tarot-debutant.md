@@ -55,7 +55,7 @@ Quatre choses, aucune n’est magique.
 1. **Un Rider-Waite-Smith.** Celui de 1909, dessiné par Pamela Colman Smith. Chaque carte est une scène, et chaque scène se lit sans livre. Les autres jeux viendront plus tard, ou jamais. ([Quel jeu, et pourquoi ça compte moins qu’on croit →](/fr/bibliotheque/cartes-tarot/))
 2. **Une clé de lecture.** Pas soixante-dix-huit significations — une façon de regarder. Les plus rapides sont les [couleurs](/fr/bibliotheque/couleurs-tarot/) : le jaune dit la joie avant même que vous sachiez quelle carte vous tenez. Puis le [nombre](/fr/bibliotheque/numerologie/), puis l’[élément](/fr/bibliotheque/quatre-elements/). Tenez ces trois-là et vous lisez déjà la moitié du jeu sans l’avoir appris.
 3. **Quelqu’un qui ne vous dit rien.** Ni question, ni contexte. C’est la seule façon de savoir, après, si vous lisiez la personne ou ce qu’elle vous avait raconté.
-4. **Un carnet.** Notez ce que vous avez dit et ce qu’elle a confirmé. Comptez. Je l’ai fait trois cents fois ; les chiffres sont sur la [page méthode](/fr/methode/). Compter, c’est ce qui transforme « je crois que ça marche » en « je sais quand ça marche ».
+4. **Un carnet.** Écrivez chaque phrase dite, et en face, ce qu’elle a confirmé. Comptez. Je l’ai fait trois cents fois ; les chiffres sont sur la [page méthode](/fr/methode/). Compter, c’est ce qui transforme « je crois que ça marche » en « je sais quand ça marche ».
 
 ## Votre premier tirage, pas à pas {#premier-tirage}
 
@@ -72,7 +72,7 @@ C’est tout. La première fois est étrange, et l’étrangeté est le but. C�
 
 - **Ne mémorisez pas les 78.** Vous finirez par réciter au lieu de lire, et vous vous figerez à la première carte oubliée. Les clés de lecture existent pour que vous n’en ayez jamais besoin.
 - **Ne purifiez pas votre jeu à la sauge.** Votre jeu n’a rien. Si quelque chose ne va pas, c’est vous qui avez besoin d’une pause, pas les cartes. ([Quand le besoin de tirer devient une habitude →](/fr/avertissements/#lectures))
-- **Ne lisez pas pour quelqu’un en détresse**, et ne lisez ni la santé, ni la mort, ni la grossesse, ni les procédures en cours, ni l’argent. Pas parce qu’une carte ne peut pas tomber, mais parce qu’un mot faux, là, fait des dégâts.
+- **Ne lisez pas pour quelqu’un en détresse**, et ne lisez ni la santé, ni la mort, ni la grossesse, ni les procédures en cours, ni l’argent. Une carte peut très bien sortir sur ces sujets ; seulement, un mot faux, là, fait des dégâts.
 - **Ne lisez pas pour vous vingt fois par jour.** Si vous vous surprenez à tirer des cartes toutes les heures, ce n’est pas une histoire de tarot ; c’est une recherche de validation extérieure, et une lecture n’est pas le bon outil.
 
 ## Ce qui se passe quand ça marche — et quand ça ne marche pas {#ce-qui-se-passe}

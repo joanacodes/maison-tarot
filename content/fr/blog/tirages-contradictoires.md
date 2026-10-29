@@ -33,7 +33,7 @@ La solution est pratique. Écrivez la question avant de mélanger, au présent, 
 
 ## Votre lecture change {#votre-lecture}
 
-Regardez le [Huit de Bâtons](/fr/bibliotheque/cartes-tarot/huit-de-batons/) : huit bâtons qui traversent le ciel. Ils volent, ou ils tombent ? Un bon matin, vous direz qu’ils volent ; un soir de fatigue, qu’ils tombent. C’est le verre à moitié plein ou à moitié vide, et la carte contient les deux.
+Regardez le [Huit de Bâtons](/fr/bibliotheque/cartes-tarot/huit-de-batons/) : huit bâtons qui traversent le ciel. Ils volent, ou ils tombent ? Un bon matin, vous direz qu’ils volent ; un soir de fatigue, qu’ils tombent. Tout dépend de l’humeur qui regarde, et la carte contient les deux.
 
 Ce n’est pas de l’incohérence, c’est de l’interprétation. Et vous pouvez la stabiliser. Les clés de lecture ne changent pas avec votre humeur : le nombre d’une carte, son élément, ses couleurs dominantes sont les mêmes le dimanche et le jeudi. Commencez chaque lecture par elles, et la part qui bouge avec votre humeur rétrécit.
 
@@ -41,13 +41,13 @@ Ce n’est pas de l’incohérence, c’est de l’interprétation. Et vous pouv
 
 Un tirage n’est pas la photo d’un avenir figé. Il lit le présent et la direction dans laquelle les choses penchent, et les gens agissent sur ce qu’ils entendent. Quelqu’un à qui l’on dit « vous ne regardez pas l’offre qui est devant vous » ira peut-être la regarder — et le tirage suivant sera différent parce que sa vie l’est.
 
-Reprenons notre micro-entrepreneuse. Mettons qu’après le jeudi, elle décroche son téléphone et rappelle deux anciens clients. Un tirage la semaine suivante lirait une autre situation, parce qu’elle l’a rendue autre. Rien d’incohérent là-dedans : le tirage fait son travail, et elle fait le sien. J’explique ce que je lis à la place de l’avenir dans [le tarot prédit-il l’avenir ?](/fr/blog/le-tarot-predit-il-lavenir/) Ma réponse courte : la meilleure façon de se préparer un avenir agréable, c’est de s’ancrer dans le présent.
+Reprenons notre micro-entrepreneuse. Mettons qu’après le jeudi, elle décroche son téléphone et rappelle deux anciens clients. Un tirage la semaine suivante lirait une autre situation, parce qu’elle l’a rendue autre. Rien d’incohérent là-dedans : le tirage fait son travail, et elle fait le sien. Ce que je regarde plutôt que l’avenir, je l’explique [dans un article sur la prédiction](/fr/blog/le-tarot-predit-il-lavenir/). Ma réponse courte : on prépare mieux demain en se tenant fermement dans aujourd’hui.
 
 ## Parfois, l’un des deux est raté {#un-rate}
 
 Si deux tirages se contredisent et que l’un d’eux ne correspond à rien du tout, il est peut-être faux. Dites-le, notez-le, et ne cousez pas les deux ensemble en une seule histoire pour les sauver.
 
-Une façon de distinguer un raté d’un changement : un changement a une raison qu’on peut nommer — il s’est passé quelque chose entre les deux jours. Un raté n’en a pas. Il ne collait pas le jour où vous l’avez tiré, et il ne colle toujours pas. Je détaille la marche à suivre dans [que faire quand un tirage est faux ?](/fr/blog/tirage-faux-que-faire/)
+Une façon de distinguer un raté d’un changement : un changement a une raison qu’on peut nommer — il s’est passé quelque chose entre les deux jours. Un raté n’en a pas. Il ne collait pas le jour où vous l’avez tiré, et il ne colle toujours pas. La marche à suivre a [sa propre page, pour les tirages qui ne collent pas](/fr/blog/tirage-faux-que-faire/).
 
 ## Comment comparer deux tirages qui se contredisent {#comparer}
 

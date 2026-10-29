@@ -9,13 +9,13 @@ tags: ["questions à poser au tarot", "questions à éviter au tarot", "question
 image: "covers/questions-to-avoid-asking-tarot.jpg"
 imageAlt: "Deux tasses de thé sur une table de cuisine, une chaise reculée, un jeu de cartes fermé posé entre les deux"
 imagePrompt: "Two cups of tea on a kitchen table, one chair pulled back, a closed deck of cards lying between the cups. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Les questions à éviter au tarot sont les plus lourdes : la santé, la mort, la grossesse, les procédures en cours, les décisions d’argent, et ce que pense ou fera quelqu’un qui n’est pas là. On les pose par peur ou par amour, et cela mérite de l’attention. Mais une carte ne voit pas l’intérieur d’un corps, ne lit pas un contrat et ne parle pas à la place d’un autre ; ici, une phrase de travers fait de vrais dégâts. Chacune a une question plus douce qu’une carte peut porter — sur l’attente, sur vous, sur ce que vous pouvez faire — et un professionnel pour le reste."
+summary: "Les questions à éviter au tarot sont les plus lourdes : un souci médical, un décès, une grossesse espérée, un procès qui court, un choix financier, et ce que pense ou fera quelqu’un d’absent. On les pose par peur ou par amour, et cela mérite de l’attention. Mais une carte ne voit pas l’intérieur d’un corps, ne lit pas un contrat et ne parle pas à la place d’un autre ; ici, une maladresse peut faire beaucoup de mal. Chacune a une question plus douce qu’une carte peut porter — sur l’attente, sur vous, sur ce que vous pouvez faire — et un professionnel pour le reste."
 ---
-Je ne lis pas sur la santé, la mort, la grossesse, les procès, les décisions d’argent, ni sur ce que pense quelqu’un qui n’est pas dans la pièce. Ces questions-là, on les apporte parce qu’on a peur, ou parce qu’on aime quelqu’un, et ça mérite autre chose qu’une porte fermée. Alors pour chacune, voici pourquoi les cartes ne sont pas le bon outil, et la question que je poserais à la place.
+Certaines questions restent hors de mes tirages : un diagnostic, la mort d’un proche, une grossesse, un litige devant le juge, l’argent à placer ou à engager, et les pensées d’une personne absente. Ces questions-là, on les apporte parce qu’on a peur, ou parce qu’on aime quelqu’un, et ça mérite autre chose qu’une porte fermée. Alors pour chacune, voici ce qui empêche une carte d’y répondre, et la question que je poserais à la place.
 
 ## Pourquoi certaines questions ne regardent pas les cartes {#pourquoi}
 
-Une carte lit un moment, en images. Elle ne pose pas de diagnostic, ne plaide pas, ne lit pas un contrat, n’entre pas dans la tête de quelqu’un d’autre. Ces sujets figurent sur [la liste de ce que je ne lis pas](/fr/avertissements/#refus), et ce n’est pas par pudeur.
+Une carte lit un moment, en images. Elle ne pose pas de diagnostic, ne plaide pas, ne lit pas un contrat, n’entre pas dans la tête de quelqu’un d’autre. Ces sujets figurent parmi [les thèmes que je laisse hors des tirages](/fr/avertissements/#refus), et ce n’est pas par pudeur.
 
 Le risque n’est pas qu’aucune carte ne tombe. Il en tombe toujours une. Le risque, c’est ce qu’une personne inquiète fait de la phrase qui l’accompagne. Or n’importe quelle lecture peut rater, les miennes comprises. Quand la question est « qu’est-ce qui m’occupe cette semaine ? », un raté fait hausser les épaules. Quand la question est « est-ce que cette grosseur est grave ? », un raté peut empêcher quelqu’un de dormir pendant un mois, ou lui faire repousser un rendez-vous.
 
@@ -25,19 +25,19 @@ Le risque n’est pas qu’aucune carte ne tombe. Il en tombe toujours une. Le r
 
 « Est-ce que je suis malade ? » « L’opération va-t-elle bien se passer ? » « Combien de temps reste-t-il à ma grand-mère ? » « Vais-je tomber enceinte cette année ? »
 
-Derrière chacune, il y a de la peur, de l’amour ou un désir, parfois les trois. Je comprends qu’on veuille une image à tenir pendant qu’on attend. Mais une carte ne voit pas l’intérieur d’un corps. Une Tour tirée la veille d’un scanner peut affoler quelqu’un pour rien ; un Soleil peut le rassurer au point de repousser un examen. Ce sont des questions pour un médecin, une sage-femme, un spécialiste de la fertilité — des gens qui peuvent examiner, mesurer et suivre. J’entre dans le détail de chacune dans [pourquoi un tarologue prudent ne lit pas la santé, la grossesse et les décès](/fr/blog/sante-grossesse-deces-tarot/).
+Derrière chacune, il y a de la peur, de l’amour ou un désir, parfois les trois. Je comprends qu’on veuille une image à tenir pendant qu’on attend. Mais une carte ne voit pas l’intérieur d’un corps. Une Tour tirée la veille d’un scanner peut affoler quelqu’un pour rien ; un Soleil peut le rassurer au point de repousser un examen. Ce sont des questions pour un médecin, une sage-femme, un spécialiste de la fertilité — des gens qui peuvent examiner, mesurer et suivre. [Santé, grossesse, décès : je détaille chaque cas à part](/fr/blog/sante-grossesse-deces-tarot/).
 
-Ce que les cartes peuvent porter, en attendant, c’est l’attente elle-même. Des questions plus douces :
+En attendant, les cartes peuvent au moins tenir compagnie à l’attente elle-même. Des questions plus douces :
 
 - « Qu’est-ce qui peut m’aider à traverser l’attente des résultats ? »
 - « Comment être là pour ma grand-mère ce mois-ci ? »
 - « De quoi ai-je besoin pour moi, pendant qu’on essaie ? »
 
-Imaginons quelqu’un qui attend des résultats, pose la première, et tire le Quatre d’Épées.
+Exemple : en attente de résultats, une personne pose la première et tire le Quatre d’Épées.
 
 {{< cards "sw04" >}}
 
-Un chevalier allongé sur un tombeau, dans une église silencieuse, les mains jointes, trois épées au mur au-dessus de lui et une sous lui. La carte ne dit rien des résultats, et c’est très bien ainsi. Elle dit : reposez-vous. Allongez-vous. Arrêtez de livrer une bataille qui n’a pas encore commencé. C’est quelque chose qu’on peut faire ce soir.
+Un chevalier gisant sur un tombeau, mains jointes, dans le silence d’une église ; trois épées pendent au-dessus de lui, une quatrième est couchée sous son corps. La carte ne dit rien des résultats, et c’est très bien ainsi. Elle dit : reposez-vous. Allongez-vous. Arrêtez de livrer une bataille qui n’a pas encore commencé. C’est quelque chose qu’on peut faire ce soir.
 
 ## Les procès et les décisions d’argent {#proces-et-argent}
 
@@ -57,7 +57,7 @@ La dernière a tendance à vous renvoyer vers les papiers, et c’est là que se
 
 « Est-ce qu’il me trompe ? » « Qu’est-ce qu’elle pense de moi ? » « Va-t-il revenir ? »
 
-Elles viennent en général de l’amour, de la blessure, ou de cette douleur particulière qu’est le fait de ne pas savoir. Deux raisons pour lesquelles je préfère ne pas les lire. Vous n’aimeriez pas qu’on fouille votre chambre en votre absence, et lire quelqu’un sans son accord, ça y ressemble un peu. Et une personne qui ne sait pas qu’on la lit n’est pas ouverte : on attrape une demi-phrase et on construit une affirmation entière dessus.
+Elles naissent presque toujours de l’amour, d’une blessure, ou de ce tourment bien à part : ne pas savoir. Deux raisons pour lesquelles je préfère ne pas les lire. Vous n’aimeriez pas qu’on fouille votre chambre en votre absence, et lire quelqu’un sans son accord, ça y ressemble un peu. Et quand quelqu’un ignore qu’on le lit, il ne s’ouvre pas : on ne capte qu’un bout de message, et on risque d’en tirer des conclusions entières.
 
 Les questions plus douces se retournent vers vous :
 

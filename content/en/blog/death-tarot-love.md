@@ -17,19 +17,19 @@ Death in a love reading is not a verdict on your relationship. It’s a harvest:
 
 ## A 4 that knows when to stop {#a-four-that-stops}
 
-Three lenses, read for a relationship. The number: 13 becomes 1 + 3 = 4, the number of foundations — what two people have built, their routines and their agreements. The minus of 4 is carrying on when you should stop, out of habit or stubbornness. Death is the 4 that knows when to stop, so that something can be rebuilt on firmer ground.
+Three lenses, read for a relationship. The number: 13 becomes 1 + 3 = 4, the number of foundations — what two people have built, their routines and their agreements. The minus of 4 is not stopping when you should, out of habit or stubbornness. Death is the 4 that knows when to stop, so that something can be rebuilt on firmer ground.
 
 The element is Water: emotions, relationships. In my notes, a neglected emotion seeps into a house like mould into a wall — slowly, and deeper than fire ever goes. Death in love often arrives after something has gone unsaid for a long time; the card is the moment the house gets cleaned. The energy is feminine, so the change happens inside first and shows later.
 
-My own note on this card is about the harvest, not the grave: it’s linked to starting again, to wanting to make life fertile again. The Marseille deck gives the skeleton a scythe and leaves the card unnamed ([why it’s the card with no name](/blog/death-card-no-name/)). The drawing and the other lenses are on [Death’s own page](/library/tarot-cards/death/).
+For me this card is about the harvest, not the grave: in my notes it’s linked to starting again, to wanting to make life fertile again. The Marseille deck gives the skeleton a scythe and leaves the card unnamed ([why it’s the card with no name](/blog/death-card-no-name/)). [Death’s own page](/library/tarot-cards/death/) describes the drawing in full.
 
 ## When the name makes you ask “is it over?” {#is-it-over}
 
 It’s the question almost everyone brings with this card, and it makes sense. You see the name, your stomach drops, and you want someone to say yes or no so the not-knowing stops.
 
-I don’t read on that question, and here’s why. A card can’t decide for two people. The other person isn’t in the room, and what they feel is theirs to say — not mine to read, and not a deck’s. And “is it over?”, asked again and again, tends to come back a little more anxious each time. The more you ask, the less you hear.
+I don’t read on that question, and here’s why. A card can’t decide for two people. Your partner is absent from this reading, and what they feel is theirs to say — not mine to read, and not a deck’s. And “is it over?”, asked again and again, tends to come back a little more anxious each time. The more you ask, the less you hear.
 
-A gentler question is: “What in this relationship has finished its season, and what do I want to plant?” Or, if you’re apart: “What am I still waiting for, and what would I do with my evenings if I stopped?” Those have answers you can act on tomorrow morning. They also give the card back its real job, which is to show you the field — not to tell you who walks out of it.
+A gentler question is: “What in this relationship has run its season, and what would I like to plant?” Or, if you’re apart: “What am I still waiting for, and what would I do with my evenings if I stopped?” Those have answers you can act on tomorrow morning. They also give the card back its real job, which is to show you the field — not to tell you who walks out of it.
 
 One more thing, said plainly because the name frightens people: Death doesn’t announce anyone’s death, and it says nothing about anyone’s health. Those are questions I don’t read on at all, and I’ve explained [why careful readers step back from them](/blog/health-pregnancy-death-tarot/).
 
@@ -39,11 +39,11 @@ Whatever Death shows, the choice of what to clear and what to keep belongs to th
 
 Death talks about an end inside the story, rarely the end of the story. What ends depends on where you stand.
 
-When you’re single, Death usually points at a pattern rather than a person. The way you choose, the type you keep going back to, the role you play on a first date without noticing. Say someone draws it after a year of meeting the same kind of partner in different clothes. The card isn’t saying love is closed to them. It’s saying the old way of looking for it has done its time. Rules can be patterns too. The astrology attached to Death is Scorpio, and “I don’t date Scorpios” is exactly the kind of rule this card would clear: you’re not one sign, you’re a mix of everything ([when astrology becomes an excuse](/blog/astrology-is-not-an-excuse/)).
+When you’re single, Death usually points at a pattern rather than a person. The way you choose, the type you keep going back to, the role you play on a first date without noticing. Say someone draws it after a year of meeting the same kind of partner in different clothes. The card isn’t saying love is closed to them. It’s saying the old way of looking for it has done its time. Rules can be patterns too. The astrology attached to Death is Scorpio, and “I don’t date Scorpios” is exactly the kind of rule this card would clear: nobody is a single sign, everyone is a blend ([why a Sun sign makes a poor dating rule](/blog/astrology-is-not-an-excuse/)).
 
 When you’re together, it often describes a couple changing shape. The first years end and something steadier begins. A move, a child leaving home, one of you changing jobs, a new way of arguing that finally goes somewhere. One chapter closes so the relationship can carry on as something else. Sometimes what falls is a habit that ruled the house for years: who always gives in, who always decides, the Sunday that has to look like every other Sunday. Nobody misses it once it’s gone.
 
-After a break-up, Death tends to talk about the waiting. The part of you that still checks their profile, still rehearses the conversation, still keeps their side of the wardrobe empty. The card doesn’t say whether they’ll come back — that’s a different question, and I’ve written about [what “will they come back?” does to you](/blog/will-they-come-back-tarot/). It says the season of waiting can end, whatever the other person does. In practice that might be small: the evening you don’t open the conversation thread, the photo moved to a folder, the first plan that doesn’t leave a gap for them.
+After a break-up, Death tends to talk about the waiting. The part of you that still checks their profile, still rehearses the conversation, still keeps their side of the wardrobe empty. The card doesn’t say whether they’ll come back — that’s a different question, and I’ve written about [the long wait that question keeps you in](/blog/will-they-come-back-tarot/). It says the season of waiting can end, whatever the other person does. In practice that might be small: the evening you don’t open the conversation thread, the photo moved to a folder, the first plan that doesn’t leave a gap for them.
 
 ## The field nobody cuts {#reversed}
 
@@ -63,7 +63,7 @@ A card never speaks alone. Three neighbours I see often in love questions:
 
 Next to the Two of Cups, Death is a bond changing form, not ending. Two people who still choose each other, and a way of being together that has to go so the choosing stays real.
 
-Next to the Four of Pentacles, it’s holding on: arms wrapped around something that has already lost its value. Two 4s side by side, two kinds of foundations — one being rebuilt, one gripped so tightly nothing new can grow.
+Beside the Four of Pentacles, it’s a grip that won’t let go: arms wrapped around something that has already lost its value. Two 4s side by side, two kinds of foundations — one being rebuilt, one gripped so tightly nothing new can grow.
 
 Next to the Ace of Cups, it’s the harvest and the new seed in the same spread. Something closes emotionally, and a fresh start in feeling is already there, small, waiting to be noticed. **The card that follows Death often tells you more than Death itself.**
 

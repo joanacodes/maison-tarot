@@ -21,7 +21,7 @@ Tout ça mérite une réponse franche plutôt qu’un sourire en coin. Si votre 
 
 ## Ce qu’est un oracle, et ce qu’il ne peut pas faire {#ce-qu-est-un-oracle}
 
-Un oracle est un jeu de cartes de réflexion ou de divination qui ne suit pas la structure fixe du tarot. Son créateur décide du nombre de cartes, du sens de chacune, et imprime souvent un mot ou une phrase dessus. L’Oracle Belline, que beaucoup de Français ont croisé un jour, en est un classique. Imaginons que vous tiriez une carte montrant une porte fermée, avec le mot « Patience » en dessous : le créateur a écrit le message, la carte vous le tend.
+Un oracle, c’est un jeu de cartes pour réfléchir ou pour deviner, libre de la structure fixe du tarot. Son créateur décide du nombre de cartes, du sens de chacune, et imprime souvent un mot ou une phrase dessus. L’Oracle Belline, que beaucoup de Français ont croisé un jour, en est un classique. Imaginons que vous tiriez une carte montrant une porte fermée, avec le mot « Patience » en dessous : le créateur a écrit le message, la carte vous le tend.
 
 C’est tout ce qu’un jeu sait faire : montrer une image et un mot. Il ne vous choisit pas, ne vous suit pas chez vous, n’attend rien de vous. Ce qui se passe pendant une lecture vient de la personne qui lit, pas de la boîte.
 
@@ -52,9 +52,9 @@ Si une carte de votre jeu vous serre toujours l’estomac, retirez-la. C’est v
 
 Tirer une carte toutes les heures, reposer la même question jusqu’à ce qu’une carte soit d’accord, attendre le jeu pour prendre une décision : c’est une habitude, pas le jeu. Rangez-le dans un tiroir une semaine. La question qui se cache dessous demande en général une décision ou une conversation.
 
-Certaines questions, aucun jeu ne peut les porter : la santé, la grossesse, la mort, les procédures en cours, les décisions d’argent. On les pose par inquiétude ou par amour, et je comprends pourquoi. Je ne lis pas sur ces sujets, quel que soit le jeu, parce qu’un mot de travers y coûte trop cher ; [mes raisons sont ici](/fr/avertissements/#refus), avec ce qu’une lecture peut porter à la place.
+Certaines questions, aucun jeu ne peut les porter : la santé, la grossesse, la mort, les procédures en cours, les décisions d’argent. On les pose par inquiétude ou par amour, et je comprends pourquoi. Je ne lis pas sur ces sujets, quel que soit le jeu, parce qu’une erreur s’y paie trop lourdement ; [mes raisons sont ici](/fr/avertissements/#refus), avec ce qu’une lecture peut porter à la place.
 
-Enfin, certaines personnes se servent des cartes pour essayer de joindre des esprits. Mon avis est prudent : avec les esprits, on ne sait pas qui on appelle. Et souvent, ce qui se passe n’a rien à voir avec les esprits — parfois c’est psychologique, parfois c’est autre chose, et dans tous les cas vous méritez d’être accompagné. Si une lecture vous laisse effrayé pendant des jours, ou si vous entendez ou ressentez des choses qui vous font peur, c’est une porte à ouvrir chez un professionnel plutôt qu’une carte de plus — j’ai écrit sur [l’endroit où se trouve cette porte](/fr/blog/tarot-et-sante-mentale/).
+Enfin, certaines personnes se servent des cartes pour essayer de joindre des esprits. Mon avis est prudent : avec les esprits, on ne sait pas qui on appelle. Et souvent, ce qui se passe n’a rien à voir avec les esprits — parfois c’est psychologique, parfois c’est autre chose, et dans tous les cas vous méritez d’être accompagné. Si une lecture vous laisse effrayé pendant des jours, ou si vous entendez ou ressentez des choses qui vous font peur, c’est une porte à ouvrir chez un professionnel plutôt qu’une carte de plus — j’explique [quand passer du tarot à un professionnel](/fr/blog/tarot-et-sante-mentale/).
 
 ## Utiliser un oracle sereinement {#sereinement}
 

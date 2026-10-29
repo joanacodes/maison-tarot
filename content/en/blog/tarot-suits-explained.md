@@ -15,7 +15,7 @@ The minor arcana come in four suits, and each suit is an element. Wands are Fire
 
 ## What a tarot suit is {#what-a-suit-is}
 
-A suit is a family of fourteen cards that share one object: an Ace, the numbers Two to Ten, and four court cards — Page, Knight, Queen, King, which have [their own article](/blog/court-cards-explained/). Tarot shares its suits with playing cards, and the cousins are still recognisable.
+A suit is a family of fourteen cards that share one object: the Ace, nine numbered cards, Two through Ten, and a royal court of Page, Knight, Queen, King, covered in [the court-card guide](/blog/court-cards-explained/). Tarot shares its suits with playing cards, and the cousins are still recognisable.
 
 | Suit | Element | What it’s about | What’s drawn on the cards | Playing-card cousin |
 | --- | --- | --- | --- | --- |
@@ -46,7 +46,7 @@ Example card: the Four of Wands, four wands with a garland strung between them a
 
 Cups are [Water](/library/four-elements/water-element/): feelings, relationships, the strengths you don’t show. On the cards, water runs well beyond the cups: five streams pouring from the Ace into a pond of water lilies, rivers, the sea behind the Page and under the King’s throne. And fish: one looks out of the Page’s cup, another leaps from the waves beside the King.
 
-Example card: the Six of Cups, two children in a village courtyard, one handing the other a cup full of white flowers. In my notes: taking time for yourself, childhood, flowering again, harmony.
+Example card: the Six of Cups, two children in a village courtyard, the taller one holding out a flower-filled cup to the smaller. In my notes: taking time for yourself, childhood, flowering again, harmony.
 
 ### Swords: Air {#swords}
 

@@ -46,7 +46,7 @@ An old man alone on a snowy peak, holding a lantern. Without the sign, it reads 
 
 ### Temperance {#temperance}
 
-An angel pours water from one cup into another, one foot in a pool. Everything in the picture says Water and patience. Its sign, Sagittarius, is Fire: “I see, I try”, the traveller who gathers knowledge by leaving, then mixes it to see what it gives. **Temperance is full of water and carries a Fire sign, and that gap is where the reading changes.** It becomes an experiment more than a pause: try the mixture, adjust, try again. The [Temperance card page](/library/tarot-cards/temperance/) has the full drawing.
+An angel pours water from one cup into another, one foot in a pool. Everything in the picture says Water and patience. Its sign, Sagittarius, is Fire: “I see, I try”, the one who learns by going away and then experiments with whatever they bring back. **Temperance is full of water and carries a Fire sign, and that gap is where the reading changes.** It becomes an experiment more than a pause: try the mixture, adjust, try again. The [Temperance card page](/library/tarot-cards/temperance/) has the full drawing.
 
 ## Two fixed signs: Death and the Star {#fixed}
 
@@ -54,11 +54,11 @@ Fixed signs hold: stable, enduring, and on the other side slow and stubborn. Sco
 
 ### Death {#death}
 
-A skeleton in black armour on a white horse, a king fallen, the sun rising between two towers. In my notes Death isn’t about dying: it’s the harvest, starting again, making life fertile once more. Scorpio adds Water and “I desire”. What ends is something you were attached to, and the hard part is emotional rather than practical. Because the sign is fixed, the letting go is slow. Say Death comes out for someone who has already moved house: with Scorpio, I’d say the move is done on paper and not yet inside.
+The rider is a skeleton, a king is already down, and a sun comes up far behind them. My notes file the card under harvest and new beginnings rather than under dying. Scorpio adds Water and “I desire”. What ends is something you were attached to, and the hard part is emotional rather than practical. Because the sign is fixed, the letting go is slow. Say Death comes out for someone who has already moved house: with Scorpio, I’d say the move is done on paper and not yet inside.
 
 ### The Star {#the-star}
 
-A woman kneels by a pool and pours water from two jugs, one into the pool, one onto the land, under a large star. Without the sign: hope, calm after the storm. Aquarius is the water-bearer, and it’s an Air sign, not a Water sign; people mix that up all the time. Its verb is “I know”, to be heard as “I think I know”: the new idea, the start-upper. The water isn’t kept, it’s given. Say someone draws the Star about a project they’ve kept to themselves. With Aquarius, I’d say the next step is showing it to someone.
+A woman kneels by a pool and pours water from two jugs, one into the pool, one onto the land, under a large star. Without the sign: hope, calm after the storm. Aquarius is the water-bearer, and it’s an Air sign, not a Water sign; people mix that up all the time. Its verb is “I know”, though often that means being sure before having checked: the new idea, the start-upper. The water isn’t kept, it’s given. Say someone draws the Star about a project they’ve kept to themselves. With Aquarius, I’d say the next step is showing it to someone.
 
 ## One cardinal sign: the Devil {#cardinal}
 
@@ -76,6 +76,6 @@ The sign of the card isn’t the sign of the person. A Gemini who draws the Love
 
 The sign comes after the drawing, the number and the colours. If it contradicts what’s in front of you, the drawing wins.
 
-And it’s a lens, not proof. When I [tested my birth chart box by box](/blog/i-tested-my-birth-chart/), 30 to 40% held overall: enough to be useful, not enough to decide anything. The sign–card pairings themselves weren't part of that test. If you’re new to signs, start with [what a birth chart is](/blog/what-is-a-birth-chart/).
+And it’s a lens, not proof. [Checking my own chart against my life](/blog/i-tested-my-birth-chart/), I found that 30 to 40% of it held: enough to be useful, not enough to decide anything. The sign–card pairings themselves weren't part of that test. If you’re new to signs, start with [what a birth chart is](/blog/what-is-a-birth-chart/).
 
 To try it: take one of these six cards out of your deck. Read it once without the sign and once with it, and write both down. Then look up the sign in [the Library’s table of the twelve signs](/library/astrology/), and its mode among [the three astrological modes](/library/astrological-modes/).

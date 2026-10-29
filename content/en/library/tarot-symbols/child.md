@@ -16,7 +16,7 @@ related:
 - /library/tarot-cards/ten-of-cups
 faq:
 - q: "Does a child in a tarot reading mean a pregnancy?"
-  a: "People often ask this out of hope or worry, and I understand why. I don’t read on pregnancy or fertility: a doctor can answer that, and a card can’t. What a child in a reading can hold is a beginning, a younger part of you, or someone you look after."
+  a: "People often ask this out of hope or worry, and I understand why. Pregnancy and fertility belong with a doctor, who can actually answer; the cards can’t, so I leave those questions out of readings. What a child in a reading can hold is a beginning, a younger part of you, or someone you look after."
 - q: "Which tarot cards show children?"
   a: "In the 1909 Rider-Waite-Smith: the Sun, Death, Judgement, the Six of Cups, the Ten of Cups, the Ten of Pentacles and the Six of Swords. A child’s face is also carved into the Queen of Swords’ throne."
 gallery:
@@ -53,7 +53,7 @@ A child is someone at the beginning: small, new, open, and dependent on others. 
 
 A child on a card is usually beside an adult. Look at which one.
 
-## Where it appears in the deck {#where}
+## Seven cards with a child in them {#where}
 
 On Death, a small child kneels in front of the white horse, facing the rider, while a young woman beside it turns her face away and a bishop prays. The child looks at what the adults can’t.
 

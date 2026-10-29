@@ -1,7 +1,7 @@
 ---
 title: 'Tempérance (Temperance) — tarot Rider-Waite-Smith : lire la carte par ses
   clés de lecture'
-description: 'Tempérance au tarot : la juste mesure trouvée en mélangeant, le 14, le Feu et le Sagittaire. Ce que montre la carte de 1909, et comment la lire en tirage.'
+description: 'Tempérance au tarot : un ange qui fait passer l’eau d’une coupe à l’autre, le 14, le Feu et le Sagittaire — la juste mesure trouvée en mélangeant.'
 translationKey: card-ar14
 type: cards
 navTitle: Tempérance
@@ -16,10 +16,7 @@ energy: Féminine
 kabbalah: Samekh
 image: cards/ar14.webp
 h1: Tempérance — <em>14</em>, le Feu
-lede: 'Avant de chercher ce que « signifie » Tempérance, regardez ce que vous avez
-  déjà : 14, l’élément Feu, Sagittaire. Vous lisez la carte. Le nombre dit 14 — 1 + 4 = 5 — le conflit, l’épreuve, faire avec ce qui reste ; l’élément dit l’élan, ce qu’on lance. Posez les
-  deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
-  de la page vous montre comment.'
+lede: 'Un pied dans l’eau, l’autre sur la berge, un ange ailé de rouge fait passer l’eau d’une coupe dorée à l’autre, sans se presser. Quelles deux choses tentez-vous de faire tenir ensemble ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -48,7 +45,7 @@ Remarquez ce qui manque : pas de hâte, pas de public, pas d’instrument de mes
 
 Quatorze se réduit au [chiffre 5](/fr/bibliotheque/numerologie/chiffre-5/), le nombre de l’essai : créer, tester, ne pas avoir peur d’échouer, accepter ses erreurs, faire avec ce qui reste. Sur Tempérance, le 5 n’est pas une bagarre. C’est l’épreuve de l’alliage : on verse, on regarde, on ajuste.
 
-Le conseil du 5, c’est d’éviter les conflits inutiles et d’être honnête avec soi-même sur la situation — exactement ce que fait l’ange avec ses deux coupes. Dans l’histoire d’Instagram, le 5, c’est l’épreuve, un acheteur à la porte ou une fonction qui fait un flop, et on découvre ce qui tient. Tempérance, c’est ce qui vient après : mélanger ce qui reste pour en faire quelque chose qui marche.
+Le conseil du 5, c’est d’éviter les conflits inutiles et d’être honnête avec soi-même sur la situation — exactement ce que fait l’ange avec ses deux coupes. Pour Instagram, l’épreuve a eu deux visages possibles, un acheteur à la porte ou une fonction qui tombe à plat, et elle a montré ce qui tenait. Tempérance, c’est ce qui vient après : mélanger ce qui reste pour en faire quelque chose qui marche.
 
 ## Par l’élément : Feu {#element}
 
@@ -64,7 +61,7 @@ Lues dans l’ordre : la paix devant, l’énergie derrière, les sentiments à 
 
 ## Par l’astrologie : Sagittaire {#astrologie}
 
-Dans la tradition Golden Dawn, Tempérance correspond au [Sagittaire](/fr/bibliotheque/astrologie/sagittaire/), dont le verbe est « Je vois, j’essaie ». Le Sagittaire, c’est le voyageur qui accumule les savoirs en partant, puis les mélange pour voir ce qu’ils donnent ensemble — le travail même de l’ange avec ses deux coupes. C’est aussi le signe qui juge plus lentement que les autres : Tempérance ne choisit pas entre ses coupes, elle les combine.
+C’est le [Sagittaire](/fr/bibliotheque/astrologie/sagittaire/) que la Golden Dawn met derrière Tempérance, le signe dont le verbe est « Je vois, j’essaie ». Le Sagittaire, c’est le voyageur qui accumule les savoirs en partant, puis les mélange pour voir ce qu’ils donnent ensemble — le travail même de l’ange avec ses deux coupes. C’est aussi le signe qui juge plus lentement que les autres : Tempérance ne choisit pas entre ses coupes, elle les combine.
 
 ## En lecture {#lecture}
 
@@ -84,4 +81,4 @@ Tempérance, avec le Deux de Pentacles à côté : de quoi vous exercer. 14, don
 
 La phrase que je dirais : « Vous jonglez avec deux choses très concrètes — le travail et autre chose, peut-être — et plutôt que d’en lâcher une, vous essayez de les faire tenir ensemble. Vous y arrivez, doucement. »
 
-Puis la vérification. Y a-t-il un équilibre que la personne cherche ? Deux choses entre lesquelles elle refuse de choisir ? Sinon, je l’inscris comme un raté, sans m’y attarder.
+Reste à interroger la personne : y a-t-il un équilibre qu’elle cherche ? Deux choses entre lesquelles elle refuse de choisir ? Si rien ne se mélange chez elle, la phrase part au carnet, sans que je m’y attarde.

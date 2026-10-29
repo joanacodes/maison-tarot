@@ -19,7 +19,7 @@ Ces associations viennent de la Golden Dawn, l’ordre de la fin du XIXe siècle
 
 Un verbe, tiré de mes notes : Gémeaux « je pense », Vierge « j’analyse », Capricorne « j’utilise ». Un élément : Feu, Eau, Air ou Terre. Et un mode : les signes cardinaux lancent, les signes fixes tiennent, les signes mutables s’adaptent.
 
-Les mineurs du Deux au Dix portent eux aussi une planète dans un signe. Cette couche plus fine a son propre article, sur [les décans](/fr/blog/decans-tarot/). Ici, je reste sur les majeurs.
+Les mineurs du Deux au Dix portent eux aussi une planète dans un signe. Cette couche plus fine, celle des [décans](/fr/blog/decans-tarot/), se traite à part. Ici, je reste sur les majeurs.
 
 | Carte | Signe | Verbe | Élément | Mode | Ce que le signe déplace |
 | --- | --- | --- | --- | --- | --- |
@@ -54,11 +54,11 @@ Les signes fixes tiennent : stables, endurants, et de l’autre côté lents et 
 
 ### La Mort {#la-mort}
 
-Un squelette en armure noire sur un cheval blanc, un roi à terre, le soleil qui se lève entre deux tours. Dans mes notes, la Mort ne parle pas de mourir : c’est la récolte, le recommencement, rendre la vie à nouveau fertile. Le Scorpion ajoute l’Eau et « je désire ». Ce qui se termine est quelque chose auquel on tenait, et le plus dur est affectif plutôt que pratique. Comme le signe est fixe, le lâcher-prise prend du temps. Disons que la Mort sort pour quelqu’un qui a déjà déménagé : avec le Scorpion, je dirais que le déménagement est fait sur le papier, pas encore à l’intérieur.
+Le cavalier squelette passe, un roi est tombé, et au loin le soleil se lève. Cette lame n’annonce aucun décès : mes notes la rangent du côté de la moisson et du nouveau départ, quand on veut qu’une vie redevienne féconde. Le Scorpion ajoute l’Eau et « je désire ». Ce qui se termine est quelque chose auquel on tenait, et le plus dur est affectif plutôt que pratique. Comme le signe est fixe, le lâcher-prise prend du temps. Disons que la Mort sort pour quelqu’un qui a déjà déménagé : avec le Scorpion, je dirais que le déménagement est fait sur le papier, pas encore à l’intérieur.
 
 ### L’Étoile {#l-etoile}
 
-Une femme agenouillée au bord d’un bassin verse l’eau de deux cruches, l’une dans le bassin, l’autre sur la terre, sous une grande étoile. Sans le signe : l’espoir, le calme après la tempête. Le Verseau, c’est le porteur d’eau, et c’est pourtant un signe d’Air, pas d’Eau ; on confond tout le temps. Son verbe est « je sais », à entendre comme « je crois savoir » : l’idée neuve, le fondateur de start-up. L’eau n’est pas gardée, elle est donnée. Disons que quelqu’un tire l’Étoile à propos d’un projet gardé pour soi. Avec le Verseau, je dirais que l’étape suivante, c’est de le montrer à quelqu’un.
+Une femme à genoux vide deux cruches à la fois sous une grande étoile : un filet retourne à la mare, l’autre arrose le sol. Sans le signe : l’espoir, le calme après la tempête. Le Verseau, c’est le porteur d’eau, et c’est pourtant un signe d’Air, pas d’Eau ; on confond tout le temps. Dans mes notes, le Verseau dit « je sais », avec souvent un « je crois » caché dedans : c’est le signe des idées neuves, celui du fondateur de start-up. Rien de cette eau n’est mis de côté : tout est versé. Disons que quelqu’un tire l’Étoile à propos d’un projet gardé pour soi. Avec le Verseau, je dirais que l’étape suivante, c’est de le montrer à quelqu’un.
 
 ## Un signe cardinal : le Diable {#cardinal}
 
@@ -76,6 +76,6 @@ Le signe de la carte n’est pas le signe de la personne. Un Gémeaux qui tire l
 
 Le signe vient après le dessin, le nombre et les couleurs. S’il contredit ce que vous avez sous les yeux, c’est le dessin qui l’emporte.
 
-Et c’est une clé de lecture, pas une preuve. Quand j’ai [testé mon thème astral case par case](/fr/blog/j-ai-teste-mon-theme-astral/), 30 à 40 % tenaient dans l’ensemble : assez pour être utile, pas assez pour décider de quoi que ce soit. Les associations entre signes et cartes, elles, ne faisaient pas partie de ce test. Si les signes sont nouveaux pour vous, commencez par [ce qu’est un thème astral](/fr/blog/quest-ce-quun-theme-astral/).
+Et c’est une clé de lecture, pas une preuve. Quand j’ai mis [mon propre thème à l’épreuve, une affirmation à la fois](/fr/blog/j-ai-teste-mon-theme-astral/), le total plafonnait entre 30 et 40 % : assez pour être utile, pas assez pour décider de quoi que ce soit. Les associations entre signes et cartes, elles, ne faisaient pas partie de ce test. Si les signes sont nouveaux pour vous, commencez par [ce qu’est un thème astral](/fr/blog/quest-ce-quun-theme-astral/).
 
 Pour essayer : sortez une de ces six cartes de votre jeu. Lisez-la une fois sans le signe, une fois avec, et notez les deux. Puis cherchez le signe dans [le tableau des douze signes de la Bibliothèque](/fr/bibliotheque/astrologie/), et son mode parmi [les trois modes astrologiques](/fr/bibliotheque/modes-astrologiques/).

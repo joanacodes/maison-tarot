@@ -15,11 +15,7 @@ energy: Feminine
 kabbalah: ''
 image: cards/pe05.webp
 h1: Five of Pentacles — <em>five</em>, Earth
-lede: 'Before looking up what Five of Pentacles “means”, look at what you already
-  have: five, the element Earth, Mercury in Taurus. You’re reading the card. The number
-  says five — conflict, trial, making do with what’s left; the element says matter,
-  what holds. Lay the two over each other, add the colours, and the card is already
-  talking — the rest of the page shows you how.'
+lede: 'Through falling snow, a man on crutches and a barefoot woman in a shawl trudge beneath a glowing stained-glass window without looking up. Where is the warmth you haven’t asked for yet?'
 related:
 - /library/numerology
 - /library/four-elements/earth-element
@@ -29,7 +25,7 @@ faq:
 - q: What does Five of Pentacles mean?
   a: 'A cold stretch: a material difficulty, a loss of security, or the feeling of being left outside. The drawing also shows a lit window just above the two figures, so the card holds the hardship and a help within reach.'
 - q: What about Five of Pentacles reversed?
-  a: 'Either someone finally looks up and asks for help, and the cold stretch starts to end, or walking past the light becomes a habit. It is the same card, moving forward or slowed down.'
+  a: 'Either someone finally looks up and asks for help, and the cold stretch starts to end, or walking past the light becomes a habit.'
 - q: Does the Five of Pentacles predict ruin or illness?
   a: 'No. A card describes how someone is going through a difficult time; it is not a diagnosis and not a bank statement, and money or health decisions belong with the right professionals.'
 categories:
@@ -46,7 +42,7 @@ A black sky, and snow falling thick. Two people walk through it. On the left, a 
 
 Above them, set in a grey stone wall, a stained-glass window glows: five gold pentacles among green leaves, framed with strips of red and blue. It’s the only warm light on the card. There’s no door in the drawing — only the lit window, right above their heads, and the two of them walking past it.
 
-**The card shows a hardship and, in the same picture, a place where there’s warmth — not reached yet.**
+**A hardship, and right above it a place where there’s warmth — not reached yet.**
 
 ## By number: five {#number}
 
@@ -64,21 +60,21 @@ Earth also counts what money can’t buy. The Five of Pentacles can be a poverty
 
 The background is [black](/library/tarot-colours/black/), scattered with snow: absence, void, energy absorbed — and, in my grid, reality. The ground is white, cold rather than pure here. The woman’s shawl is orange-red, the man’s smock pale blue: a little warmth and a little feeling, worn on the body against the cold.
 
-Then the window: yellow and gold, green leaves, red and blue in the frame. It’s the brightest part of the card, and they’re walking past it. Read the colours before the card: a dark, cold scene, with all the joy and light gathered in one place, just above.
+Then the window: yellow and gold, green leaves, red and blue in the frame. It’s the brightest part of the card, and they’re walking past it. A dark, cold scene, with all the joy and light gathered in one place, just above.
 
 ## By astrology: Mercury in Taurus {#astrology}
 
-In the Golden Dawn tradition, the Five of Pentacles is the first decan of Taurus, given to [Mercury](/library/astrology/mercury/). Mercury is how you think and speak. Taurus says *I have*: keeping what you hold dear — a fixed sign, slow to change its mind. Together: a mind stuck on what’s missing, turning the same worry over, and finding it hard to say the words that would bring help.
+[Mercury](/library/astrology/mercury/) governs the first decan of Taurus, the slice of the zodiac the Golden Dawn attached to this card. Mercury is how you think and speak. Taurus says *I have*: keeping what you hold dear — a fixed sign, slow to change its mind. Between them: a mind stuck on what’s missing, turning the same worry over, and finding it hard to say the words that would bring help.
 
-Optional. The window has already said it.
+The lit window says the same to anyone who leaves the planets out.
 
 ## In a reading {#reading}
 
-Upright, the Five of Pentacles is a cold stretch: a material difficulty, a loss of security, the feeling of being left outside. It’s one of the heavy cards, and I say so. Every card has a plus and a minus, and here the plus is drawn right in: the window is lit, and it isn’t far. **The card shows a hard time and a help within reach — it doesn’t say the help will be refused, or that the hard time will last.**
+Upright, the Five of Pentacles is a cold stretch: a material difficulty, a loss of security, the feeling of being left outside. It’s one of the heavy cards, and I say so. Its plus is drawn right in, though: the window is lit, and it isn’t far. **The card shows a hard time and a help within reach — it doesn’t say the help will be refused, or that the hard time will last.**
 
-It doesn’t announce a ruin or an illness either, and I don’t read it that way. A card describes how someone is going through something; it isn’t a diagnosis or a bank statement. When the worry is money, I understand why people bring it to the cards; it keeps you awake. Still, the decisions belong with you and with people whose job it is: an adviser, a social worker, an association ([what I don’t read on, and why](/disclaimers/#refusals)). What the card can hold meanwhile is a gentler question: who could you ask? ([How I read the Pentacles around money.](/blog/tarot-cards-for-money/))
+It doesn’t announce a ruin or an illness either, and I don’t read it that way. A card describes how someone is going through something; it isn’t a diagnosis or a bank statement. When the worry is money, I understand why people bring it to the cards; it keeps you awake. Still, the decisions belong with you and with people whose job it is: an adviser, a social worker, an association ([what I don’t read on, and why](/disclaimers/#refusals)). What the card can hold meanwhile is a gentler question: who could you ask? ([Money worries and the Pentacles, at more length.](/blog/tarot-cards-for-money/))
 
-Reversed, the card moves. Either one of the two finally looks up and finds the door — help asked for, accepted, the first warm room after the snow. Or the opposite, slowed down: the hard time becomes a habit of walking past, sure the light isn’t meant for you.
+Reversed, the card moves. Either one of the two finally looks up and finds the door — help asked for, accepted, the first warm room after the snow. Or nobody looks up, and the hard time becomes a habit of walking past, sure the light isn’t meant for you.
 
 Next to the [Six of Pentacles](/library/tarot-cards/six-of-pentacles/), the next card in the suit, someone gives and someone receives: the help arrives. Next to the [Five of Cups](/library/tarot-cards/five-of-cups/), the other heavy 5, the trial is emotional too, and there too something still standing goes unseen. Next to [the Star](/library/tarot-cards/the-star/), after the snow, water poured freely under an open sky: hope coming back.
 
@@ -88,6 +84,6 @@ Next to the [Six of Pentacles](/library/tarot-cards/six-of-pentacles/), the next
 
 Let’s invent a reading: someone turns over the Five of Pentacles, followed by the [Three of Cups](/library/tarot-cards/three-of-cups/). Five then three: a trial, then the cadence of 3 — siblings on good terms, people together. Earth then Water: something material, then relationships. The drawings: two figures in the snow under a lit window, then three women raising their cups together, fruit at their feet.
 
-The sentence I’d say out loud, gently: “You’re going through something hard on your own, and there are people close to you who would be glad to be asked.”
+With the snow next to the raised cups, I’d put it gently: “You’re going through something hard on your own, and there are people close to you who would be glad to be asked.”
 
-To check, I ask: “Is there someone you’ve been meaning to ask, and haven’t?” and I wait. If it’s yes, I don’t ask who; that’s theirs to share or keep. If there’s nobody like that, I say the sentence was wrong.
+One question checks it — “Is there someone you’ve been meaning to ask, and haven’t?” — and then I wait. If it’s yes, I don’t ask who; that’s theirs to share or keep. If there’s nobody like that, I say the sentence was wrong.

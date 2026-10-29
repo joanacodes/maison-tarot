@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: Zayin
 image: cards/ar06.webp
 h1: Les Amoureux — <em>6</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » Les Amoureux, regardez ce que vous avez
-  déjà : 6, l’élément Air, Gémeaux. Vous lisez la carte. Le nombre dit 6 — six — l’harmonie
-  retrouvée, l’échange ; l’élément dit le mental, ce qu’on décide. Posez les deux
-  l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
-  de la page vous montre comment.'
+lede: 'Sous un grand ange aux ailes rouges, deux personnages nus restent à distance, lui devant un arbre de flammes, elle devant l’arbre au serpent. Quel choix êtes-vous en train de faire, et le faites-vous les yeux ouverts ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-air
@@ -47,7 +43,7 @@ tags:
 
 Un homme et une femme nus se tiennent à distance l’un de l’autre, en plein air, sous un grand ange. L’ange déploie des ailes rouges au-dessus d’eux depuis un nuage, les bras ouverts, devant un immense soleil. Derrière l’homme se dresse un arbre aux feuilles de flammes ; derrière la femme, un arbre chargé de fruits, un serpent enroulé autour du tronc. Entre eux, au loin, une seule haute montagne.
 
-Suivez les regards. L’homme regarde la femme. La femme lève les yeux vers l’ange. Personne ne regarde la même chose.
+Suivez les regards : lui la regarde, elle lève la tête vers l’ange. Personne ne regarde la même chose.
 
 Ce qui manque : le contact — leurs mains ne se touchent pas. Pas d’alliance, pas de foule, pas de cérémonie. Au tarot de Marseille, la carte s’appelle l’Amoureux, au singulier, et montre un jeune homme entre deux femmes : le choix y saute aux yeux. **Le dessin parle d’un choix qui se fait sous un regard, plus que d’une romance déjà scellée.**
 
@@ -55,7 +51,7 @@ Ce qui manque : le contact — leurs mains ne se touchent pas. Pas d’alliance,
 
 Le [chiffre 6](/fr/bibliotheque/numerologie/chiffre-6/), c’est le 3 exalté : la machine est lancée et elle va vite, l’harmonie revient après l’épreuve du 5. Sur cette carte, le 6, c’est l’échange entre deux personnes — et le choix qu’il implique, parce que s’accorder avec quelqu’un, c’est lui dire oui et dire non à autre chose.
 
-Dans l’histoire d’Instagram de mes pages de numérologie, le 6, c’est Facebook qui décide d’investir : la menace du 5 devient le moteur, tout s’accélère, et personne ne lit plus les conditions. Le conseil du 6, c’est de rester calme et humble quand tout va bien ; une union heureuse mérite quand même qu’on en lise les termes.
+Quand Facebook décide d’investir dans Instagram, au 6, la menace du 5 devient le moteur, tout s’accélère, et les petites lignes ne retiennent plus l’attention. Le 6 demande de ne pas s’emballer ni se croire arrivé quand tout sourit ; une union heureuse mérite quand même qu’on en lise les termes.
 
 ## Par l’élément : Air {#element}
 
@@ -69,11 +65,11 @@ Le rouge et le jaune dominent le haut de la carte. Dans [ma grille des couleurs]
 
 ## Par l’astrologie : Gémeaux {#astrologie}
 
-Dans la tradition Golden Dawn, les Amoureux correspondent aux [Gémeaux](/fr/bibliotheque/astrologie/gemeaux/) : « je pense », gouvernés par Mercure, un signe mutable qui change pour communiquer. Des jumeaux, deux de quelque chose — le couple de la carte. Au mieux, les Gémeaux sont le grand reporter qui rapporte exactement ce qui a été dit ; au pire, c’est le téléphone arabe, où la version qui circule n’est plus la vraie. Nuance utile pour une carte d’amour : ce qui se dit, et par qui.
+Les Amoureux répondent aux [Gémeaux](/fr/bibliotheque/astrologie/gemeaux/) dans la Golden Dawn : « je pense », gouvernés par Mercure, un signe mutable qui change pour communiquer. Des jumeaux, deux de quelque chose — le couple de la carte. Au mieux, les Gémeaux sont le grand reporter qui rapporte exactement ce qui a été dit ; au pire, c’est le téléphone arabe, où la version qui circule n’est plus la vraie. Nuance utile pour une carte d’amour : ce qui se dit, et par qui.
 
 ## En lecture {#lecture}
 
-À l’endroit, les Amoureux disent : un choix, fait avec quelqu’un ou à propos de quelque chose qu’on aime. Parfois c’est une relation ; souvent c’est un carrefour — deux chemins, deux offres, deux versions de sa vie — et la carte demande de choisir les yeux ouverts. En amour, c’est [un choix plus qu’une romance](/fr/blog/les-amoureux-tarot-amour/) ; au travail, c’est choisir sa voie, et j’y consacre une section plus bas.
+À l’endroit, les Amoureux disent : un choix, fait avec quelqu’un ou à propos de quelque chose qu’on aime. Parfois c’est une relation ; souvent c’est un carrefour — deux chemins, deux offres, deux versions de sa vie — et la carte demande de choisir les yeux ouverts. En amour, c’est [un choix plus qu’une romance](/fr/blog/les-amoureux-tarot-amour/) ; au travail, c’est choisir sa voie, ce que je développe un peu plus loin.
 
 On espère souvent que cette carte dira si quelqu’un nous aime, et je comprends l’envie. Mais je lis la personne en face de moi, pas quelqu’un qui n’est pas dans la pièce : les Amoureux parlent donc de votre choix, pas des sentiments de l’autre ([tirer les cartes sur quelqu’un d’autre, et pourquoi je m’en abstiens](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/)).
 
@@ -85,7 +81,7 @@ Renversés, le choix est repoussé ou fait pour de mauvaises raisons. Soit la pe
 
 ## Au travail {#au-travail}
 
-Au travail, les Amoureux posent un choix sur la table : deux propositions d’embauche, rester expert ou devenir manager, se mettre à son compte ou rester salarié — quitter un CDI, la grande hésitation française —, s’associer ou pas. La carte lit ce choix par les valeurs plus que par les sentiments — dans mes notes, l’Air est le meilleur décideur des quatre éléments, parce qu’il voit tout à la fois — et demande quelle option vous laisse être vous-même un mardi après-midi ordinaire, avec les mails et le trajet. C’est aussi une carte d’association : un accord ne vaut que la conversation qui l’a précédé.
+Au travail, les Amoureux posent un choix sur la table : deux propositions d’embauche, rester expert ou devenir manager, se mettre à son compte ou rester salarié — quitter un CDI, la grande hésitation française —, s’associer ou pas. La carte lit ce choix par les valeurs plus que par les sentiments — dans mes notes, aucun élément ne décide mieux que l’Air, qui a vue sur tout — et demande quelle option vous laisse être vous-même un mardi après-midi ordinaire, avec les mails et le trajet. C’est aussi une carte d’association : un accord ne vaut que la conversation qui l’a précédé.
 
 À côté du Sept de Coupes — l’indécision, le trop-plein de choix, dans mes notes —, le problème n’est plus deux options mais sept, imaginées pour la plupart : gardez les deux qui sont réelles. **On espère souvent qu’un tirage nous épargnera le « non » ; c’est justement la carte qui montre qu’il ne le peut pas.**
 
@@ -101,6 +97,6 @@ Dans un tirage imaginé pour s’exercer, les Amoureux tombent à côté du [Deu
 
 6 puis 2 : un choix qui devrait apporter l’harmonie, à côté d’un 2 qui pèse encore. L’Air puis la Terre : une décision sur quelque chose de concret — l’argent, le temps, un poste, un logement. Le rouge et le jaune des Amoureux, une décision en pleine lumière, à côté d’une carte en mouvement.
 
-Ce que je dirais à voix haute : « Il y a un choix devant vous, et vous ménagez la chèvre et le chou pour ne pas avoir à trancher. »
+Au carrefour, je dirais : « Un choix vous attend, et vous ménagez la chèvre et le chou pour ne pas avoir à trancher. »
 
-Puis je vérifierais : y a-t-il quelque chose dont vous gardez deux versions pour ne renoncer à aucune ? Si ça tombe juste, la question suivante, c’est laquelle la personne garderait s’il fallait décider ce soir. Sinon, je dis franchement que ça a raté.
+Je testerais la phrase ainsi : y a-t-il quelque chose dont vous gardez deux versions pour ne renoncer à aucune ? Si ça tombe juste, la question suivante, c’est laquelle la personne garderait s’il fallait décider ce soir. Si elle n’hésite entre rien, j’ai lu un carrefour qui n’existe pas, et je le dis.

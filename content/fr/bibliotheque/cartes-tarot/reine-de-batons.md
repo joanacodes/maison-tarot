@@ -1,7 +1,7 @@
 ---
 title: 'Reine de Bâtons (Queen of Wands) — tarot Rider-Waite-Smith : lire la carte
   par ses clés de lecture'
-description: 'Reine de Bâtons : un tournesol, des lions sur le trône, un chat noir à ses pieds. Lisez la chaleur, l’assurance et leur ombre par le rang, le Feu, la couleur.'
+description: 'Reine de Bâtons : un tournesol, des lions sur le trône, un chat noir devant elle. La chaleur qui rassemble, l’assurance, et l’ombre qu’elles cachent parfois.'
 translationKey: card-waqu
 type: cards
 navTitle: Reine de Bâtons
@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/waqu.webp
 h1: Reine de Bâtons — <em>la Reine</em>, l’Eau de feu
-lede: 'Avant de chercher ce que « signifie » Reine de Bâtons, regardez ce que vous
-  avez déjà : la Reine, l’élément Eau de Feu. Vous lisez la carte. Le nombre dit la
-  Reine — la maîtrise intérieure, l’accueil ; l’élément dit l’élan, ce qu’on lance.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Tournesol en main, une reine en jaune trône parmi les lions, à l’aise comme chez elle, tandis qu’un chat noir nous fixe à ses pieds. Qui se chauffe à votre feu, et que laissez-vous dans l’ombre ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -80,6 +76,6 @@ Renversée, la chaleur se retourne ou s’aigrit : la jalousie, le besoin d’ê
 
 Ici, la Reine de Bâtons sort la première, puis le [Deux de Pentacles](/fr/bibliotheque/cartes-tarot/deux-de-pentacles/) — un tirage d’imagination, pas de mémoire. La Reine puis 2 — la maîtrise intérieure, puis un équilibre entre deux côtés ; le Feu puis la Terre — la chaleur, puis le jonglage concret ; une femme assise en jaune, puis un jeune homme qui danse avec deux pièces dans un ruban en boucle, des bateaux sur de hautes vagues derrière lui.
 
-Dit à voix haute : « Tout le monde vient se réchauffer à votre feu, et vous jonglez avec plus de choses que vous ne le montrez. La reine est assise ; les mains, non. »
+Pour la personne, en une phrase et demie : « Tout le monde vient se réchauffer à votre feu, et vous jonglez avec plus de choses que vous ne le montrez. La reine est assise ; les mains, non. »
 
-Puis vous vérifiez : « Qui entretient votre feu, pendant que vous entretenez celui des autres ? » Si ça tombe à plat, c’est un raté — dites-le, notez-le, et ne tirez pas une autre carte pour le sauver.
+La vérification tient en une question : « Qui entretient votre feu, pendant que vous entretenez celui des autres ? » Si son propre feu ne manque de rien, dites que vous vous êtes trompé, consignez-le, et laissez le paquet fermé.

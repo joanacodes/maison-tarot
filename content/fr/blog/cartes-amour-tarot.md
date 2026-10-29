@@ -15,7 +15,7 @@ N’importe quelle carte peut sortir dans un tirage amoureux, mais certaines par
 
 ## Ce qui fait d’une lame une carte de l’amour {#carte-de-l-amour}
 
-Trois clés de lecture font l’essentiel du tri. Les Coupes appartiennent à l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les émotions, les relations, les forces cachées. Dans mes notes, l’Eau vous porte d’un point à un autre quand vous la laissez faire, et peut vous noyer ; une émotion négligée s’infiltre lentement, comme l’humidité dans un mur. Ensuite les nombres : le 2, ce sont deux parties qui se lient, un contrat ; le 6, l’harmonie, la chose qui tourne bien. Et les énergies : une relation, c’est aussi un équilibre entre retenir et agir, peu importe qui fait quoi.
+Trois clés de lecture font l’essentiel du tri. Les Coupes appartiennent à l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les émotions, les relations, les forces cachées. Dans mes notes, l’Eau vous porte si vous vous abandonnez au courant, et elle peut aussi vous engloutir ; ce qu’on ressent sans jamais s’en occuper gagne du terrain en silence, jusqu’à fragiliser toute la maison. Ensuite les nombres : le 2, ce sont deux parties qui se lient, un contrat ; le 6, l’harmonie, la chose qui tourne bien. Et les énergies : une relation, c’est aussi un équilibre entre retenir et agir, peu importe qui fait quoi.
 
 **Une carte de l’amour décrit le lien et la façon dont vous le vivez ; elle ne vous dit pas ce que pense l’autre.**
 
@@ -31,7 +31,7 @@ Le [Deux de Coupes](/fr/blog/deux-de-coupes-amour/) est la plus claire : deux pe
 
 Imaginons qu’une personne ne me dise rien et tire le Deux de Coupes à côté de la Reine d’Épées. Deux, l’Eau : un lien d’égal à égal. Puis la Reine, l’Eau de l’Air : le sentiment tenu par un esprit clair, une limite. Je dirais : « Il y a un vrai lien ici, et il lui faut une conversation franche pour rester sain. » Puis je demanderais si ça parle.
 
-Trois autres ouvrent des portes. Le [Magicien](/fr/blog/le-bateleur-tarot-amour/) (le Bateleur au tarot de Marseille), c’est le premier pas, fait et assumé. [Le Mat](/fr/blog/le-mat-tarot-amour/), un nouveau départ — en regardant où l’on met les pieds. [L’Étoile](/fr/blog/letoile-tarot-amour/), l’espoir après une période difficile, et comment le garder sans attendre indéfiniment.
+Trois autres ouvrent des portes. Le [Magicien](/fr/blog/le-bateleur-tarot-amour/), c’est le premier pas, fait et assumé. [Le Mat](/fr/blog/le-mat-tarot-amour/), un nouveau départ — en regardant où l’on met les pieds. [L’Étoile](/fr/blog/letoile-tarot-amour/), l’espoir après une période difficile, et comment le garder sans attendre indéfiniment.
 
 ## Les cartes des tournants {#les-tournants}
 
@@ -41,9 +41,9 @@ Celles-ci disent que quelque chose bouge, pas ce qu’il faut en faire. La [Roue
 
 ## Les cartes de la blessure et de l’inquiétude {#la-blessure}
 
-Le [Trois d’Épées](/fr/blog/trois-depees-amour/), c’est le cœur brisé — et, dans mes notes, aussi un pacte de sang, ce qui change beaucoup de choses à côté du Deux de Coupes. Le [Cinq de Coupes](/fr/blog/cinq-de-coupes-amour/) pleure ce qui s’est renversé ; deux coupes tiennent encore debout derrière lui. Le [Neuf d’Épées](/fr/blog/neuf-depees-amour/), ce sont les nuits blanches de trois heures du matin, et comment les apaiser.
+Le [Trois d’Épées](/fr/blog/trois-depees-amour/) est la peine de cœur ; mes notes y voient aussi un engagement signé avec le sang, ce qui change beaucoup de choses à côté du Deux de Coupes. Le [Cinq de Coupes](/fr/blog/cinq-de-coupes-amour/) pleure ce qui s’est renversé ; deux coupes tiennent encore debout derrière lui. Le [Neuf d’Épées](/fr/blog/neuf-depees-amour/), ce sont les nuits blanches de trois heures du matin, et comment les apaiser.
 
-Le [Huit d’Épées](/fr/blog/huit-depees-amour/), c’est se sentir pris au piège en tenant tous les outils — le bandeau peut tomber. Le [Dix d’Épées](/fr/blog/dix-depees-amour/) est le pire dessin du jeu, avec l’aube à l’horizon. [Le Diable](/fr/blog/le-diable-tarot-amour/), c’est l’attachement, avec des chaînes assez lâches pour qu’on les retire.
+Le [Huit d’Épées](/fr/blog/huit-depees-amour/), c’est se sentir pris au piège en tenant tous les outils — le bandeau peut tomber. Le [Dix d’Épées](/fr/blog/dix-depees-amour/) est le pire dessin du jeu, avec l’aube à l’horizon. [Le Diable](/fr/blog/le-diable-tarot-amour/), c’est l’attachement, et des chaînes dont on pourrait sortir la tête.
 
 {{< cards "ar13 ar16 ar15 sw03 cu05 sw10" >}}
 
@@ -51,7 +51,7 @@ Les paires changent tout cela. Les Amoureux à côté du Diable, ce n’est pas 
 
 ## Ce que je ne lis pas en amour, et ce que je propose à la place {#ce-que-je-ne-lis-pas}
 
-« Va-t-il revenir ? » « Que pense-t-elle de moi ? » « Voit-il quelqu’un ? » Je comprends d’où viennent ces questions — du manque, ou de la peur. Mais elles portent sur une personne qui n’est pas dans la pièce. Lire quelqu’un sans son accord, c’est un peu comme fouiller sa chambre ; et une personne qui ne sait pas qu’on la lit ne vous donne qu’une moitié de phrase, sur laquelle on bâtit toute une histoire.
+« Va-t-il revenir ? » « Que pense-t-elle de moi ? » « Voit-il quelqu’un ? » Je comprends d’où viennent ces questions — du manque, ou de la peur. Mais elles portent sur une personne qui n’est pas dans la pièce. Lire quelqu’un sans son accord, c’est un peu comme fouiller sa chambre ; et quelqu’un qui ignore être lu reste fermé : vous n’en saisissez qu’un fragment, sur lequel on échafaude tout un récit.
 
 Même chose pour le thème astral de quelqu’un qui vous plaît : dans mes notes, laissez la magie opérer entre vous deux. Ces questions vous font aussi attendre dans la vie de quelqu’un d’autre. Une question plus douce vous ramène dans la vôtre : « De quoi ai-je besoin dans une relation en ce moment ? » ou « À quoi est-ce que je m’accroche encore ? » J’explique celle-là dans [« Va-t-il revenir ? » et une question plus douce](/fr/blog/va-t-il-revenir-tarot/), et la règle générale dans [tirer les cartes sur quelqu’un d’autre](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/).
 

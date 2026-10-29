@@ -8,7 +8,7 @@ weight: 11
 categories: ["Symboles"]
 tags: ["symboles du tarot", "colonnes", "Boaz et Jakin", "Grande Prêtresse", "symbolisme du tarot"]
 h1: "Les colonnes — assis <em>entre</em> deux forces"
-lede: "Deux colonnes font une porte. Dans le Rider-Waite-Smith, ceux qui siègent entre elles — la Grande Prêtresse, le Hiérophante, la Justice — gardent un seuil : on ne passe pas tant qu’on n’a pas compris ce qui se tient de chaque côté."
+lede: "Deux colonnes font une porte. Ceux qui siègent entre elles sur les cartes — la Grande Prêtresse, le Hiérophante, la Justice — gardent un seuil : on ne passe pas tant qu’on n’a pas compris ce qui se tient de chaque côté."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/la-grande-pretresse
@@ -57,13 +57,13 @@ Au tarot, les colonnes disent aussi « deux ». Deux forces, deux options, deux 
 
 La Grande Prêtresse est assise entre une colonne noire marquée B et une colonne blanche marquée J, devant un voile de palmes et de grenades tendu entre les deux. On lit traditionnellement ces lettres comme Boaz et Jakin, les colonnes du Temple de Salomon. Elle ne se lève pas pour vous laisser passer.
 
-Le Hiérophante (le Pape au tarot de Marseille) trône entre deux colonnes de pierre grise, deux tonsurés à ses pieds et deux clés croisées au sol. Ici, le seuil est une institution : on le franchit en recevant un enseignement.
+Le Hiérophante trône entre deux colonnes de pierre grise, deux tonsurés à ses pieds et deux clés croisées au sol. Ici, le seuil est une institution : on le franchit en recevant un enseignement.
 
 La Justice siège elle aussi entre deux colonnes grises, avec un rideau violet tendu derrière elle. Les colonnes encadrent le verdict : ce qui se pèse ici se pèse à l’intérieur d’une structure, pas selon l’humeur.
 
 Le Chariot transporte les siennes : des montants soutiennent le dais étoilé au-dessus du conducteur. Une porte qui voyage.
 
-Deux cartes ont des cousines plutôt que des colonnes : les deux tours à l’horizon de [la Lune](/fr/bibliotheque/cartes-tarot/la-lune/) et de la Mort, une porte vue de loin. La [tour](/fr/bibliotheque/symboles-tarot/tour/) a sa propre page.
+Deux cartes ont des cousines plutôt que des colonnes : les deux tours à l’horizon de [la Lune](/fr/bibliotheque/cartes-tarot/la-lune/) et de la Mort, une porte vue de loin. La [tour](/fr/bibliotheque/symboles-tarot/tour/) est traitée à part.
 
 {{< cards "ar02 ar05 ar11 ar07" >}}
 
@@ -73,9 +73,9 @@ Deux cartes ont des cousines plutôt que des colonnes : les deux tours à l’ho
 
 Quand des colonnes sortent, demandez-vous ce qui est gardé de chaque côté. Les colonnes ne bougent pas, et la personne assise entre elles non plus. La carte parle d’un passage qu’on n’a pas encore fait, et des conditions pour le faire.
 
-La couleur d’abord : le noir et le blanc de la Grande Prêtresse, ce sont deux contraires tenus ensemble ; le gris du Hiérophante et de la Justice, dans [ma grille des couleurs](/fr/bibliotheque/couleurs-tarot/gris/), c’est la neutralité et la stabilité — un cadre qui ne prend pas parti. Le nombre ensuite : la Grande Prêtresse porte le 2, et la Justice, lame 11, revient à 2 quand on additionne ses chiffres. Les deux siègent entre deux colonnes. [Le chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/), c’est lier, signer, peser : lisez le contrat avant de vous engager.
+La couleur d’abord : le noir et le blanc de la Grande Prêtresse, ce sont deux contraires tenus ensemble ; le gris du Hiérophante et de la Justice, [couleur de la neutralité](/fr/bibliotheque/couleurs-tarot/gris/) et de la stabilité, donne un cadre qui ne prend pas parti. Le nombre ensuite : la Grande Prêtresse porte le 2, et la Justice, lame 11, revient à 2 quand on additionne ses chiffres. Les deux siègent entre deux colonnes. [Le chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/), c’est lier, signer, peser : lisez le contrat avant de vous engager.
 
-Imaginons que quelqu’un tire le Hiérophante au moment où un nouveau poste se profile. Les colonnes disent : il y a ici une structure, avec ses règles, et vous y entrerez à ses conditions ou pas du tout. Ce n’est pas une mauvaise nouvelle ; c’est une information.
+Si le Hiérophante sort au moment où un nouveau poste se profile, les colonnes disent : il y a ici une structure, avec ses règles, et vous y entrerez à ses conditions ou pas du tout. Ce n’est pas une mauvaise nouvelle ; c’est une information.
 
 ## L’autre face {#revers}
 

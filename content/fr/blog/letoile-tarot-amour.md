@@ -17,7 +17,7 @@ En amour, l’Étoile est l’espoir après une période difficile — l’espoi
 
 ## Deux cruches, la terre et l’eau {#deux-cruches}
 
-L’Étoile porte le 17, et 1 + 7 = 8. Dans mes notes, le 8, c’est la stabilité qui dure, et une porte entre le tangible et l’intangible. La femme de la carte verse deux cruches, l’une sur la terre, l’autre dans le bassin. En amour, c’est le concret et l’émotion nourris en même temps : le dîner préparé et le sentiment dit. Ce n’est pas une mauvaise définition d’une relation qui marche.
+L’Étoile porte le 17, et 1 + 7 = 8. Dans mes notes, le 8 apporte une stabilité qui dure, et il jette un pont entre la matière et ce qui lui échappe. La femme de la carte verse deux cruches, l’une sur la terre, l’autre dans le bassin. En amour, c’est le concret et l’émotion nourris en même temps : le dîner préparé et le sentiment dit. Ce n’est pas une mauvaise définition d’une relation qui marche.
 
 L’élément est l’Air, le mental et la décision, et il vous apprend quelque chose d’inattendu sur cette lame : son espoir n’est pas une humeur. Il est choisi. L’eau est versée, dosée, dirigée.
 
@@ -33,7 +33,7 @@ L’énergie est féminine : la patience, la douceur, l’intangible. L’Étoil
 
 *Après une rupture*, l’Étoile, c’est le premier matin plus léger. Pas fini : plus léger. Après la pluie, le beau temps, dit-on — l’Étoile ajoute que c’est vous qui ouvrez la fenêtre. C’est la lame que j’aimerais le plus voir sortir à ce moment-là, parce qu’elle ramène l’attention là où elle peut servir : sur votre propre terrain. Si vous voulez une disposition pour cette période, [mon tirage tout en douceur après une rupture](/fr/blog/tirage-apres-rupture/) ne parle que de vous.
 
-Imaginez quelqu’un qui s’assied, ne vous dit rien, et tire l’Étoile. Vous ne savez pas si la personne est seule, en couple ou fraîchement séparée, et vous n’avez pas besoin de le savoir. La phrase pourrait être : « Quelque chose de dur est derrière vous, et vous recommencez à prendre soin des choses — d’une relation, ou d’abord de vous. » Puis laissez la personne dire laquelle des deux.
+Si l’Étoile tombe pour une personne restée silencieuse sur sa vie, vous ignorez si elle est seule, en couple ou fraîchement séparée, et vous n’avez pas besoin de le savoir. Une lecture possible : « Quelque chose de dur est derrière vous, et vous recommencez à prendre soin des choses — d’une relation, ou d’abord de vous. » Puis laissez la personne dire laquelle des deux.
 
 ## Entre la Tour et la Lune {#tour-et-lune}
 
@@ -51,7 +51,7 @@ Une question plus douce : « De quoi aurais-je besoin pour me sentir assez solid
 
 ## Tout garder, ou tout donner {#tout-garder}
 
-Dans mes notes, chaque carte a un plus et un moins, et les plus lumineuses ne font pas exception. Inversée, l’Étoile retient son espoir, ou le verse tout entier.
+Mes notes prêtent à toutes les lames une face claire et une face sombre, les plus lumineuses comprises. Inversée, l’Étoile retient son espoir, ou le verse tout entier.
 
 Retenu : vous avez passé le pire mais vous n’y croyez pas encore, alors vous gardez les deux cruches pleines et vous ne versez rien. Personne de nouveau n’a sa chance, parce que vous attendez la prochaine tempête. Versé tout entier : vous donnez tout à quelqu’un d’autre et vous ne gardez rien pour votre propre terre. Le premier demande de la patience avec vous-même ; le second, de garder une cruche pour vous. Le revers des lames les plus lumineuses est un sujet à part entière, et j’y ai consacré un article : [les lames les plus joyeuses, et leur revers](/fr/blog/cartes-tarot-joyeuses/).
 
@@ -64,4 +64,4 @@ L’espoir après une période dure est fragile, et la carte montre comment le p
 3. Laissez-le rester calme. L’Étoile n’est pas un feu d’artifice ; une semaine tranquille compte.
 4. Ne le prenez pas pour une prévision. Si un rendez-vous se passe mal le mois prochain, l’Étoile ne s’est pas trompée. Elle n’a jamais été une promesse sur une personne.
 
-Un exercice : sortez l’Étoile de votre jeu et posez-la là où vous la verrez. Chaque soir, écrivez une ligne : ce que j’ai versé aujourd’hui, et où. Au bout de sept jours, relisez. Si tout est allé aux autres, vous avez appris quelque chose ; si une partie est allée vers vous, vous avez commencé. Si l’habitude vous plaît, [la carte du jour](/fr/blog/carte-du-jour-tarot/) la prolonge.
+Un exercice : sortez l’Étoile de votre jeu et installez-la bien en vue, sur une étagère ou contre un miroir. Chaque soir, écrivez une ligne : ce que j’ai versé aujourd’hui, et où. Au bout de sept jours, relisez. Si tout est allé aux autres, vous avez appris quelque chose ; si une partie est allée vers vous, vous avez commencé. Si l’habitude vous plaît, [la carte du jour](/fr/blog/carte-du-jour-tarot/) la prolonge.

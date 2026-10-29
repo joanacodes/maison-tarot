@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/cuki.webp
 h1: Roi de Coupes — <em>le Roi</em>, le Feu d’eau
-lede: 'Avant de chercher ce que « signifie » Roi de Coupes, regardez ce que vous avez
-  déjà : le Roi, l’élément Feu d’Eau. Vous lisez la carte. Le nombre dit le Roi —
-  la maîtrise extérieure, la décision ; l’élément dit les émotions, ce qui circule.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Les vagues montent de tous côtés, mais le trône ne bouge pas : le roi tient sa coupe d’or et regarde au loin, un petit poisson pendu au cou. Que faire de ce qu’on ressent quand tout tangue ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-eau
@@ -30,7 +26,7 @@ faq:
 - q: 'Que signifie le Roi de Coupes ?'
   a: 'La maturité émotionnelle : quelqu’un qui ressent fort, reste calme, et décide avec son cœur sans se laisser gouverner par lui. Le Roi est la maîtrise extérieure et la décision, et le Feu d’Eau, c’est l’émotion transformée en action.'
 - q: 'Le Roi de Coupes renversé, ça change quoi ?'
-  a: 'Le même calme, freiné ou excessif. Freiné : des sentiments si bien tenus sous la surface que personne autour de lui ne sait ce qu’il ressent. Excessif : le calme devient contrôle, ou se fissure quand la mer finit par atteindre le trône.'
+  a: 'Le calme devient un couvercle — des sentiments si bien tenus sous la surface que personne autour de lui ne sait ce qu’il ressent —, ou il tourne au contrôle, à moins qu’il ne se fissure quand la mer finit par atteindre le trône.'
 - q: 'Que signifie le Roi de Coupes en amour ?'
   a: 'Un ou une partenaire stable, ou une version stable de vous : quelqu’un qui reste doux quand ça se complique et n’a pas besoin de gagner la dispute pour se sentir en sécurité. Lisez-le pour ce qu’il dit de vous dans la relation, pas comme le portrait du cœur de quelqu’un d’autre.'
 categories:
@@ -50,7 +46,7 @@ Il ne regarde pas sa coupe. Il regarde au loin, le monde qu’il gouverne avec e
 
 [Le Roi](/fr/bibliotheque/numerologie/roi/), c’est le rang qui décide et qui en répond. La question à lui poser est celle que je pose à chaque Roi — pour qui ? —, et ici elle veut dire : pour qui garde-t-il son calme ?
 
-Pour le Roi de Coupes, ce qu’il gouverne, ce sont les émotions — les siennes, et le climat de la pièce. C’est lui qui décide quelle part de la mer entre. Son énergie est masculine [au sens où je l’entends](/fr/bibliotheque/energies-feminine-masculine/) : agir, se montrer, décider vite, qui que vous soyez.
+Pour le Roi de Coupes, ce qu’il gouverne, ce sont les émotions — les siennes, et le climat de la pièce. C’est lui qui décide quelle part de la mer entre. Côté énergie, [je le range du côté masculin](/fr/bibliotheque/energies-feminine-masculine/) : agir, se montrer, décider vite, qui que vous soyez.
 
 ## Par l’élément : Eau {#element}
 
@@ -60,13 +56,13 @@ Le Feu et l’Eau ne se mélangent pas facilement, et le dessin montre l’effor
 
 ## Par les couleurs {#couleurs}
 
-Le [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) de la mer entoure tout : l’émotion, la vitalité, ce qui circule et ce qui porte. Le [gris](/fr/bibliotheque/couleurs-tarot/gris/) du trône de pierre, c’est la stabilité et la neutralité — le seul point fixe de l’image. L’or de la coupe et de la couronne, c’est la valeur gagnée. À lire avant la carte : de l’émotion de tous les côtés, et un endroit stable au milieu.
+Le [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) de la mer entoure tout : l’émotion, la vitalité, ce qui circule et ce qui porte. Le [gris](/fr/bibliotheque/couleurs-tarot/gris/) du trône de pierre, c’est la stabilité et la neutralité — le seul point fixe de l’image. L’or de la coupe et de la couronne, c’est la valeur gagnée. Le tableau tient en une ligne : de l’émotion de tous les côtés, et un endroit stable au milieu.
 
 ## En lecture {#lecture}
 
 À l’endroit : la maturité émotionnelle à l’œuvre. Une personne — un mentor, un parent, un ou une partenaire, une responsable — qui écoute, garde la tête froide quand les autres perdent la leur, et décide avec son cœur sans se laisser gouverner par lui. Ou le moment d’être cette personne vous-même. **Le Roi de Coupes ne ressent pas moins que les autres ; il a décidé de ce qu’il fait de ce qu’il ressent.**
 
-Renversé, le calme va trop loin, dans un sens ou dans l’autre. Freiné : le calme devient un couvercle, des sentiments tenus sous la surface depuis si longtemps que personne autour de lui ne sait ce qu’il ressent — parfois pas même lui. Excessif : le contrôle — se servir de sa compréhension des autres pour les diriger, ou la tempête qui finit par atteindre le trône.
+Renversé, le calme va trop loin. Tourné vers le dedans, il devient un couvercle : des sentiments tenus sous la surface depuis si longtemps que personne autour de lui ne sait ce qu’il ressent — parfois pas même lui. Tourné vers le dehors, il devient contrôle : se servir de sa compréhension des autres pour les diriger. Et parfois la tempête finit par atteindre le trône.
 
 En amour, c’est le ou la partenaire stable, qui n’a pas besoin de gagner la dispute ; un article entier lui est consacré : [le Roi de Coupes en amour](/fr/blog/roi-de-coupes-amour/). À côté du [Roi d’Épées](/fr/bibliotheque/cartes-tarot/roi-de-epees/), deux Rois côte à côte : le cœur et la tête se disputent le même trône. À côté de [Tempérance](/fr/bibliotheque/cartes-tarot/temperance/), le calme est authentique — l’émotion mêlée de patience. À côté du [Dix de Coupes](/fr/bibliotheque/cartes-tarot/dix-de-coupes/), c’est lui qui tient la maisonnée.
 
@@ -76,4 +72,4 @@ En amour, c’est le ou la partenaire stable, qui n’a pas besoin de gagner la 
 
 Pour les besoins de l’exercice, le Roi de Coupes sort à côté du Cinq de Bâtons. Un Roi puis un cinq : la décision, puis le conflit. Le Feu d’Eau, puis le Feu : l’émotion devenue action, puis cinq personnes qui agitent des bâtons et semblent se battre sans se coordonner.
 
-À voix haute, cela pourrait donner : « Il y a beaucoup de bruit autour de vous — des gens qui tirent chacun de leur côté — et c’est de vous qu’on attend le calme pour régler ça. Vous en êtes capable. La question, c’est de savoir si quelqu’un vous demande comment vous allez, vous. » Puis demandez à la personne si c’est bien sur elle qu’on compte pour garder son calme dans ce bruit. Si elle dit non, c’est un raté : notez-le, et restez-en là.
+Le roi immobile au milieu de la mêlée, ce qui donne : « Autour de vous, ça s’agite — des gens qui tirent chacun de leur côté — et c’est de vous qu’on attend le calme pour régler ça. Vous en êtes capable. La question, c’est de savoir si quelqu’un vous demande comment vous allez, vous. » Puis demandez à la personne si c’est bien sur elle qu’on compte pour garder son calme dans cette agitation. Si elle dit non, ce trône n’est pas le sien : notez-le, et restez-en là.

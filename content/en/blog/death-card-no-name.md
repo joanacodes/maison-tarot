@@ -41,7 +41,7 @@ We don't know which is true, or whether it's a mix. I'd rather tell you that pla
 
 Arthur Edward Waite didn't share the Marseille reluctance. He printed the name at the bottom of the card, DEATH, and he asked Pamela Colman Smith for a different picture. In his own book, [*The Pictorial Key to the Tarot*](https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot), he explains why: “The veil or mask of life is perpetuated in change, transformation and passage from lower to higher, and this is more fitly represented in the rectified Tarot by one of the apocalyptic visions than by the crude notion of the reaping skeleton.”
 
-In plain words: the skeleton with the scythe was too blunt for what he meant, which was change and passage. So Smith drew a skeleton in black armour on a white horse, carrying a black banner with a white rose. A king lies fallen, a bishop stands with joined hands, a young woman turns away, a child looks straight up. Behind them a river flows, and on the horizon, between two towers, the sun.
+In plain words: the skeleton with the scythe was too blunt for what he meant, which was change and passage. So Smith armoured the skeleton, mounted it on a white horse and gave it a black flag with a white rose on it. At the horse's feet a king is down, a bishop joins his hands, a young woman averts her eyes and a child stares up. A river runs behind, and far away, framed by two towers, the sun.
 
 {{< cards "ar13" >}}
 
@@ -51,7 +51,7 @@ To be honest about it, the old fear didn't vanish with the scythe. Waite's own l
 
 **Without a name, you see the picture first; with a name, the word gets there before the picture does.** That's the whole difference, and it's a big one.
 
-Look at the Marseille card without its title and what you see is someone mowing, with plants growing between the bones. That's very close to my own note on this card: Death is linked to the harvest and to starting again, like someone who has lost their goal and wants to make life fertile again. You cut what's ripe so the field can be sown.
+Look at the Marseille card without its title and what you see is someone mowing, with plants growing between the bones. That's very close to my own note on this card, which sees reaping and a new season in it: for someone who has lost direction, a chance to make their life flourish once more. The mower clears the field so it can be planted.
 
 Look at the Rider-Waite-Smith card and you read DEATH before you notice the sun on the horizon or the child looking up. People react to the word, then sometimes never get to the drawing.
 
@@ -61,7 +61,7 @@ Try this with your own deck. Cover the name at the bottom of your Death card wit
 
 ## If the card frightened you {#if-it-frightened-you}
 
-If you drew this card and came here worried, for yourself or for someone you love, I understand; the word does that. In either deck, a card doesn't announce a death or an illness. I don't read on those questions, because a wrong word can frighten someone for nothing, and a health worry belongs with a doctor and with the people close to you. I explain this more fully in [why I step back from health, pregnancy and death questions](/blog/health-pregnancy-death-tarot/).
+If you drew this card and came here worried, for yourself or for someone you love, I understand; the word does that. In either deck, no card foretells that someone will die or fall ill. Those are questions I leave aside, since one clumsy sentence can scare a person needlessly, and a health worry belongs with a doctor and with the people close to you. I explain this more fully in [why I step back from health, pregnancy and death questions](/blog/health-pregnancy-death-tarot/).
 
 What the card can hold is a change you're living through: a chapter closing, a habit ending, a version of you that has done its time.
 

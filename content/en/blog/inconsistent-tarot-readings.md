@@ -33,7 +33,7 @@ The fix is practical. Write the question down before you shuffle, in the present
 
 ## Your reading changes {#your-reading}
 
-The same picture can read differently from one person to another, and from one day to the next. Look at the [Eight of Wands](/library/tarot-cards/eight-of-wands/): eight staffs crossing the sky. Are they flying, or falling? On a good morning you’ll say flying; on a tired evening, falling. It’s the glass half full or half empty, and the card holds both.
+A picture doesn’t say the same thing to every reader, or to the same reader on every day. Look at the [Eight of Wands](/library/tarot-cards/eight-of-wands/): eight staffs crossing the sky. Are they flying, or falling? On a good morning you’ll say flying; on a tired evening, falling. It’s the glass half full or half empty, and the card holds both.
 
 That isn’t inconsistency; it’s interpretation. You can make it steadier. The lenses don’t change with your mood: the number of a card, its element, its dominant colours are the same on Sunday and on Thursday. Start every reading with them, and the part that moves with your mood gets smaller.
 

@@ -61,7 +61,7 @@ Most chart sites list the North Node among the planets, sometimes as “Node”,
 
 ## What I can and can’t say about them {#limits}
 
-I have no number for the Nodes. When I [tested my birth chart box by box](/blog/i-tested-my-birth-chart/), the 30 to 40% overall and the 75 to 90% for Saturn, Lilith and Chiron came from other placements. I like the Nodes as a way of looking; I haven’t checked them.
+I have no number for the Nodes. [My own chart test](/blog/i-tested-my-birth-chart/) gave a hit rate between 30 and 40% overall, and far higher where Saturn, Lilith and Chiron were concerned (75 to 90%), but those figures come from other placements. I like the Nodes as a way of looking; I haven’t checked them.
 
 Two more limits, said plainly. Everyone born within the same year and a half shares your Node signs, so the house is the more personal part. And they have no tarot card in the Golden Dawn correspondences this site uses.
 

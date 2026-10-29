@@ -17,11 +17,11 @@ You don’t need spreads to read tarot. A spread is a tool for holding a questio
 
 A spread, or layout, is a set pattern for laying out cards in which each place — a position — carries a fixed question. In a past–present–future spread, the card on the left is read as the past, whichever card it is. The Sun in that place is a happy past; the Sun on the right is a happy direction.
 
-Readers use them in two ways, and I find both legitimate. Some follow set patterns: a career reading laid out this way, a love reading that way, every time. Others follow their intuition and invent a new spread for each person, or lay the cards in a row and let the story find its own shape. Two readers can look at the same cards, see two different stories, and both explain why — one of the reasons I think of reading as [close to an art form](/blog/is-tarot-an-art-form/).
+Readers use them in two ways, and I find both legitimate. Some follow set patterns: a career reading laid out this way, a love reading that way, every time. Others follow their intuition and invent a new spread for each person, or lay the cards in a row and let the story find its own shape. Give two readers the same cards and you may get two different stories, each with its reasons — one of the reasons I think of reading as [close to an art form](/blog/is-tarot-an-art-form/).
 
 ## When a layout helps {#when-it-helps}
 
-When you’re starting. Three cards with no positions can all talk at once. A position gives your eye a place to begin and a question to answer. That’s why I start people on one card a day, then [three cards in the present](/blog/three-card-tarot-spread/) — what’s here, what’s in the way, what you can do — and only then more.
+When you’re starting. Three cards with no positions can all talk at once. A position gives your eye a place to begin and a question to answer. That’s why I start people on one card a day, then [a three-card spread about today](/blog/three-card-tarot-spread/) — the situation, the snag, the next move — and only then more.
 
 When you’ll compare over time. If you lay the same five positions every month, you can put the readings side by side in your notebook and see what moved. A different improvised layout each time makes that impossible.
 
@@ -41,7 +41,7 @@ And when collecting spreads replaces reading. You can own a hundred layouts and 
 
 ## Reading without a spread {#without-a-spread}
 
-Decide how many cards before you shuffle — three or five — and lay them in a row with no positions. Then read the row as one sentence through its lenses: which element leads, whether the numbers rise or fall, which colour carries across. The odd one out is often the point.
+Decide how many cards before you shuffle — three or five — and lay them in a row with no positions. Then read the row as one sentence through its lenses: which element leads, whether the numbers rise or fall, which colour carries across. The card that doesn’t match is often the one that matters.
 
 Say you draw four cards: the Queen of Swords, the Seven of Swords, the Two of Swords and the Ace of Cups.
 
@@ -55,7 +55,7 @@ Reading without positions has a cost, and it’s worth saying. With nothing fixe
 
 1. Write your question down in one line.
 2. If it’s about one thing, today, draw one card.
-3. If it’s a situation with something stuck in it, draw three cards in the present.
+3. If it’s a situation with a knot in it, draw three cards about now.
 4. If you’ll want to compare over months, choose a layout and keep it — or [build your own in four questions](/blog/build-your-own-tarot-spread/).
 5. If it’s a real crossroads and you have an hour, try the [Celtic Cross](/blog/celtic-cross-spread/), two cards at a time.
 

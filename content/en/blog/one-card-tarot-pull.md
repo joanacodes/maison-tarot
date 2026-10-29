@@ -9,7 +9,7 @@ tags: ["one card tarot pull", "card of the day", "daily tarot card", "daily taro
 image: "covers/one-card-tarot-pull.jpg"
 imageAlt: "A single tarot card face up beside a cup of coffee on a kitchen counter in morning light"
 imagePrompt: "A single tarot card lying face up beside a cup of coffee and a small notebook on a kitchen counter in early morning. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "A one-card pull, or card of the day, is the best daily exercise for learning tarot: you shuffle, draw a single card, look at it for a full minute, and write three lines — what’s on it, what you see, what you receive. In the evening you write what the day actually held. With no positions to juggle, all your attention goes to the image, and over a year you meet each card four or five times. It stays a practice while you decide; it becomes a crutch when you draw to be told what to do."
+summary: "A one-card pull, or card of the day, is the best daily exercise for learning tarot: you shuffle, draw a single card, look at it for a full minute, and write three lines: the drawing, what strikes you, and what it stirs. In the evening you write what the day actually held. With no positions to juggle, all your attention goes to the image, and over a year you meet each card four or five times. It stays a practice while you decide; it becomes a crutch when you draw to be told what to do."
 ---
 A one-card pull, the card of the day, is the best daily practice I know for learning tarot. It makes you look at one image long enough to read it instead of reciting it. It stays a practice while you're the one deciding, and it becomes a crutch the day you draw to be told what to do. Here's how to tell the difference.
 
@@ -23,7 +23,7 @@ A one-card pull, the card of the day, is the best daily practice I know for lear
 
 That's the whole ritual. Nothing to cleanse, nothing to recite, no special cloth. If you've never read a single card before, [your first pull, step by step](/blog/how-to-do-a-tarot-reading/) takes about ten minutes.
 
-Some mornings the card will look heavy: the Tower, the Ten of Swords. It isn't a forecast for your day. Every card has a plus and a minus, and a heavy one is read like any other — what's on it, what you see. The Ten of Swords, for instance, has a dawn breaking behind the figure on the ground.
+Some mornings the card will look heavy: the Tower, the Ten of Swords. It isn't a forecast for your day. Each card has its gentle side and its hard side, and a heavy one is read like any other — what's on it, what you see. The Ten of Swords, for instance, has a dawn breaking behind the figure on the ground.
 
 {{< cards "ar16 sw10" >}}
 
@@ -57,7 +57,7 @@ Same deck, same gesture; the difference is what you do with the card. Answer hon
 
 If two or more answers are yes, the card has drifted from practice to crutch. That isn't a weakness. It's usually doubt looking for something to lean on, and doubt deserves kindness. But [tarot is not an authority](/blog/tarot-is-not-an-authority/), and a card can't carry a decision for you.
 
-The fix is a pause. Put the deck in a drawer for a week, or a month, and notice what you reach for instead. I've written about [why that pause helps](/blog/why-you-should-quit-tarot-reading/).
+The fix is a pause. Shut the deck away for a week, or a month, and notice what you reach for instead. I've written about [why that pause helps](/blog/why-you-should-quit-tarot-reading/).
 
 ## What a year of daily cards gives you {#a-year}
 

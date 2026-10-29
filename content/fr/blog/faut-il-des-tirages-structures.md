@@ -21,7 +21,7 @@ Les tarologues s’en servent de deux façons, et je trouve les deux légitimes.
 
 ## Quand une disposition aide {#quand-ca-aide}
 
-Quand vous débutez. Trois cartes sans positions peuvent parler toutes en même temps. Une position donne à votre œil un point de départ et une question à laquelle répondre. C’est pour ça que je commence par une carte par jour, puis [trois cartes au présent](/fr/blog/tirage-passe-present-futur/) — ce qui est là, ce qui bloque, ce que vous pouvez faire —, et seulement ensuite davantage.
+Quand vous débutez. Trois cartes sans positions peuvent parler toutes en même temps. Une position donne à votre œil un point de départ et une question à laquelle répondre. C’est pour ça que je commence par une carte par jour, puis [trois cartes au présent](/fr/blog/tirage-passe-present-futur/) — la situation, le frein, votre marge de manœuvre —, et seulement ensuite davantage.
 
 Quand vous comparerez dans le temps. Si vous posez les mêmes cinq positions chaque mois, vous pouvez mettre les lectures côte à côte dans votre carnet et voir ce qui a bougé. Une disposition improvisée différente à chaque fois rend la comparaison impossible.
 

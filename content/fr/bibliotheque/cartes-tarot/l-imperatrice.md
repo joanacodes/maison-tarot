@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: Daleth
 image: cards/ar03.webp
 h1: L’Impératrice — <em>3</em>, la Terre
-lede: 'Avant de chercher ce que « signifie » L’Impératrice, regardez ce que vous avez
-  déjà : 3, l’élément Terre, Vénus. Vous lisez la carte. Le nombre dit 3 — trois —
-  créer, célébrer, le premier résultat ; l’élément dit la matière, ce qui tient. Posez
-  les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà —
-  le reste de la page vous montre comment.'
+lede: 'Couronnée d’étoiles, une femme se repose sur des coussins rouges au milieu du blé mûr, un bouclier en cœur à ses côtés. Tout ce qui pousse autour de vous : en gardez-vous une part pour vous ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre
@@ -55,21 +51,21 @@ Ce qui manque : des murs, une armure, un chantier en cours — et du monde. Pas 
 
 Le [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/), c’est la machine qui tourne : le contrat marche, ça se voit, ça donne. Après le 1 qui a les outils et le 2 qui pèse, l’Impératrice est la première carte où quelque chose est sorti : le blé est mûr.
 
-Dans l’histoire d’Instagram de mes pages de numérologie, le 3, c’est le lancement qui marche : la chose tourne sans qu’on la pousse. Le conseil du 3 : finir un projet avant d’en commencer un autre. Son revers : lancer du neuf avant d’avoir fini. L’abondance y invite — quand tout pousse, on a envie de semer partout.
+Instagram a vécu ce 3 le jour du lancement : l’application marchait, et toute seule. Le conseil du 3 : mener une chose à terme avant d’en ouvrir une nouvelle. Son revers : lancer du neuf avant d’avoir fini. L’abondance y invite — quand tout pousse, on a envie de semer partout.
 
 ## Par l’élément : Terre {#element}
 
-L’Impératrice est une carte de [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, la prospérité, ce qui a de la valeur pour vous, argent ou pas. Dans mes notes, la Terre est protectrice et stable, la mère de toute croissance.
+L’Impératrice est une carte de [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, l’abondance, tout ce que vous estimez, que cela ait un prix ou non. Dans mes notes, la Terre est protectrice et stable, la mère de toute croissance.
 
 C’est l’Impératrice que j’enseigne : la mère, la terre, celle qui nourrit — le blé à ses pieds —, qui donne et crée la vie au sens large : un projet, un foyer, un jardin, une équipe. Son revers vient du même endroit. Elle peut étouffer à force de soins — la mère poule —, protéger au point que rien ne grandit, ou un jour cesser de nourrir et laisser derrière elle des gens qui dépendaient d’elle. Tous les soins ne sont pas légers.
 
 ## Par les couleurs {#couleurs}
 
-Le vert et l’or dominent : les arbres, le blé. Dans [ma grille des couleurs](/fr/bibliotheque/couleurs-tarot/vert/), le vert, c’est la nature, la croissance, la naissance, la vie, la prospérité — ce qui a été planté et qui donne. Le jaune du ciel et des cheveux : la joie, l’optimisme. Le rouge des coussins : le désir, un corps au repos mais bien vivant. Le blanc de la robe : la paix. C’est l’un des dessins les plus chaleureux du jeu.
+Le vert et l’or dominent : les arbres, le blé. Le [vert](/fr/bibliotheque/couleurs-tarot/vert/) dit la nature, la croissance, la naissance, la vie, la prospérité — ce qui a été planté et qui donne. Le jaune du ciel et des cheveux : la joie, l’optimisme. Le rouge des coussins : le désir, un corps au repos mais bien vivant. Le blanc de la robe : la paix. C’est l’un des dessins les plus chaleureux du jeu.
 
 ## Par l’astrologie : Vénus {#astrologie}
 
-Dans la tradition Golden Dawn, l’Impératrice correspond à [Vénus](/fr/bibliotheque/astrologie/venus/), et la carte ne s’en cache pas : le signe est dessiné sur son bouclier. Vénus dit ce qu’on aime et comment : le goût, l’attirance, ce qu’on trouve beau, ce qu’on accepte d’entretenir. Elle ajoute une nuance qui vaut la peine : l’Impératrice ne fait pas que nourrir les autres ; elle profite.
+La Golden Dawn attribue l’Impératrice à [Vénus](/fr/bibliotheque/astrologie/venus/), et la carte ne s’en cache pas : le signe est dessiné sur son bouclier. Vénus dit ce qu’on aime et comment : le goût, l’attirance, ce qu’on trouve beau, ce qu’on accepte d’entretenir. Elle ajoute une nuance qui vaut la peine : l’Impératrice ne fait pas que nourrir les autres ; elle profite.
 
 ## En lecture {#lecture}
 
@@ -91,7 +87,7 @@ Imaginons quelqu’un qui tient un petit atelier de céramique et tire l’Impé
 
 Renversée au travail, elle étouffe ou s’épuise : l’équipe si bien protégée que personne ne sait décider sans vous, ou la personne qui a nourri tout le monde et n’a plus rien. Si la fatigue a gagné votre corps, c’est l’affaire d’un médecin avant d’être celle des cartes.
 
-« Est-ce que mon projet va marcher ? » La question prend bien des formes : l’entreprise va-t-elle tenir, le livre va-t-il se vendre ? Je comprends : vous y avez mis de vous-même. Mais je ne lis ni sur l’argent ni sur les ventes ([ce que je ne lis pas, et pourquoi](/fr/avertissements/#refus)). Un prévisionnel, c’est l’affaire de vrais chiffres et de quelqu’un qui sait les lire, un expert-comptable par exemple. Une carte qui promettrait le succès pourrait vous pousser à investir plus que vous ne pouvez ; une autre qui prédirait l’échec, vous faire lâcher ce qui n’attendait qu’une saison de plus. Une question plus douce : « De quoi ce projet a-t-il besoin de ma part ce mois-ci, et de quoi peut-il se passer ? »
+« Est-ce que mon projet va marcher ? » La question prend bien des formes : l’entreprise va-t-elle tenir, le livre va-t-il se vendre ? Je comprends : vous y avez mis de vous-même. Mais je ne lis ni sur l’argent ni sur les ventes, [pour des raisons que j’explique ici](/fr/avertissements/#refus). Un prévisionnel, c’est l’affaire de vrais chiffres et de quelqu’un qui sait les lire, un expert-comptable par exemple. Une carte qui promettrait le succès pourrait vous pousser à investir plus que vous ne pouvez ; une autre qui prédirait l’échec, vous faire lâcher ce qui n’attendait qu’une saison de plus. Demandez-vous plutôt : « De quoi ce projet a-t-il besoin de ma part ce mois-ci, et de quoi peut-il se passer ? »
 
 Cette semaine, confiez une tâche à quelqu’un d’autre et gardez une soirée pour vous.
 
@@ -99,8 +95,8 @@ Cette semaine, confiez une tâche à quelqu’un d’autre et gardez une soirée
 
 Supposons que l’Impératrice tombe à côté du Dix de Bâtons — un homme voûté sur les dix lourds bâtons qu’il serre contre lui, en route vers une ville.
 
-3 puis 10 : le premier résultat, puis la fin d’un cycle — ma note pour le Dix de Bâtons, c’est garder l’énergie créative sans se surcharger. La Terre puis le Feu : ce qui pousse à côté de ce qui brûle. Le vert et l’or de l’Impératrice, ouverts et chauds, à côté d’un homme dont le visage disparaît derrière son fardeau.
+3 puis 10 : le premier résultat, puis la fin d’un cycle — le Dix de Bâtons, dans mes notes, demande de rester créatif sans crouler sous la charge. La Terre puis le Feu : ce qui pousse à côté de ce qui brûle. Le vert et l’or de l’Impératrice, ouverts et chauds, à côté d’un homme dont le visage disparaît derrière son fardeau.
 
-Ce que je dirais à voix haute : « En ce moment, c’est vous qui nourrissez tout le monde, et ça commence à peser comme une charge au lieu d’un plaisir. »
+Ma phrase pour la personne tiendrait en une ligne : « En ce moment, c’est vous qui nourrissez tout le monde, et ça commence à peser comme une charge au lieu d’un plaisir. »
 
-Puis je vérifierais : qui portez-vous en ce moment — et qui vous porte, vous ? Si ce tableau n’est pas le sien, je note un raté.
+Je poserais alors la question : qui portez-vous en ce moment — et qui vous porte, vous ? Si elle ne nourrit personne ces temps-ci, j’ai lu à côté, et je le consigne.

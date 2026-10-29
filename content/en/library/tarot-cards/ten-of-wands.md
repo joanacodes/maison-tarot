@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/wa10.webp
 h1: Ten of Wands — <em>ten</em>, Fire
-lede: 'Before looking up what Ten of Wands “means”, look at what you already have:
-  ten, the element Fire, Saturn in Sagittarius. You’re reading the card. The number
-  says ten — the end of the cycle, transition; the element says drive, what you launch.
-  Lay the two over each other, add the colours, and the card is already talking —
-  the rest of the page shows you how.'
+lede: 'Bent double, a man hugs a bundle of staves so tight against his chest that he can’t see the red-roofed house just ahead. What could you hand to someone else before you reach the door?'
 related:
 - /library/numerology
 - /library/four-elements/fire-element
@@ -52,7 +48,7 @@ Nobody helps him. No cart, no second pair of arms, no path visible past the bund
 
 [Ten](/library/numerology/number-10/) is the corridor between two rooms, and this man is crossing it with his arms full. Its gifts are freedom, change, breathing — none of which he has yet. The Ten of Wands is the Fire cycle at its close: everything you lit since the Ace is now in your arms, all at once.
 
-My note on this card: keep the creative energy, without overloading. Every wand against his chest was once an idea worth having. The 10 doesn’t ask you to drop them; it asks you not to carry all ten through the next door. In the Instagram story, 10 is the platform turning into something else entirely — the old form doesn’t come through the corridor intact, and isn’t meant to.
+My note on this card: keep the creative energy, without overloading. Every wand against his chest was once an idea worth having. The 10 doesn’t ask you to drop them; it asks you not to carry all ten through the next door. Instagram, at 10, turns into something else entirely — the old form doesn’t come through the corridor intact, and isn’t meant to.
 
 ## By element: Fire {#element}
 
@@ -68,9 +64,9 @@ The ground is a flat [yellow](/library/tarot-colours/yellow/): will, pride, the 
 
 ## By astrology: Saturn in Sagittarius {#astrology}
 
-In the Golden Dawn tradition, the Ten of Wands is Saturn in Sagittarius. [Saturn](/library/astrology/saturn/) is responsibility, the weight you agree to carry. Sagittarius wants the open road. Together, the journey turns into a duty — you’re still travelling, with all the luggage on your own back.
+Saturn in Sagittarius closes the suit in the Golden Dawn decans. [Saturn](/library/astrology/saturn/) is responsibility, the weight you agree to carry. Sagittarius wants the open road. Together, the journey turns into a duty — you’re still travelling, with all the luggage on your own back.
 
-Saturn was one of the three placements that held best when I tested my chart and others’, at 75 to 90% (with Lilith and Chiron). That’s why I keep this attribution when the Ten comes out. It stays optional all the same: the drawing is enough without it.
+In my own test of astrology, on my chart and other people’s, Saturn scored among the highest, with Lilith and Chiron: 75 to 90% right. That’s why I keep this attribution when the Ten comes out. It stays optional all the same: the drawing is enough without it.
 
 ## In a reading {#reading}
 
@@ -78,7 +74,7 @@ Upright, the Ten of Wands is the load: too many responsibilities, a project grow
 
 Reversed, two roads. Either the bundle wins, and everything is dropped in a heap a few metres from the door. Or some of it is finally put down — delegated, cancelled, refused — and the reversal is a relief rather than a fall.
 
-If the weight someone describes sounds like it lives in the body — sleep gone, exhaustion that doesn’t lift — that’s for a doctor rather than a card. Health is one of [the subjects I don’t read on](/disclaimers/#refusals), because a wrong word there costs too much; what the card can hold meanwhile is the question of what to set down first.
+If the weight someone describes sounds like it lives in the body — sleep gone, exhaustion that doesn’t lift — that’s for a doctor rather than a card. I [keep health out of my readings](/disclaimers/#refusals): a careless sentence about someone’s body can do real harm. What the card can hold meanwhile is the question of what to set down first.
 
 Next to the [Three of Pentacles](/library/tarot-cards/three-of-pentacles/), the answer is in the picture: a craftsman at work while two others hold the plan — share it. Next to the [Four of Wands](/library/tarot-cards/four-of-wands/), which I read as foundations and a family being built, the house becomes a celebration worth arriving at. Next to [the World](/library/tarot-cards/the-world/), Saturn’s major card, the cycle truly closes: he gets through the door.
 
@@ -88,6 +84,6 @@ Next to the [Three of Pentacles](/library/tarot-cards/three-of-pentacles/), the 
 
 This pair comes from no real reading: the Ten of Wands followed by the [Ace of Wands](/library/tarot-cards/ace-of-wands/), put together to show a cycle turning over. From 10 to 1, the end of a cycle, then the start of another; Fire and Fire, the same energy, spent, then renewed; a man bent under ten branches, then a single branch held out by a hand from a cloud.
 
-What you might say: “You’re finishing something heavy, and a new idea is already asking for your arms. Put the bundle down before you take it.”
+Bundle first, single branch second: “You’re finishing something heavy, and a new idea is already asking for your arms. Put the bundle down before you take it.”
 
-Then check: “Is there something you’re carrying that you could hand over this month?” Their answer tells you whether you read the right load. If none of it fits, call it a miss, and don’t go looking in the next card for a rescue.
+Then check: “Is there something you’re carrying that you could hand over this month?” Their answer tells you whether you read the right load. If nothing they carry could be handed on, call it a miss; another card won’t find the right load for you.

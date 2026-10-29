@@ -33,9 +33,9 @@ Une Coupe sur cinq cartes est donc tout à fait ordinaire, inutile de la comment
 
 Une fois établi que la lecture est émotionnelle, les [nombres](/fr/bibliotheque/numerologie/) vous disent où en est ce ressenti dans son cycle.
 
-Les petits nombres, de l’As au Trois, parlent de quelque chose qui commence ou qui coule bien : un sentiment nouveau, un lien scellé entre deux personnes, une fête. Le milieu, du Quatre au Sept, c’est l’eau mise à l’épreuve. Le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/) est, dans mes notes, la carte la plus négative du jeu : la perte, l’émotion sombre, se retrouver seul avec ses problèmes — et pourtant, deux coupes restent debout derrière le personnage. Le Six de Coupes, c’est l’enfance, le temps pour soi, une nouvelle floraison. Le Sept de Coupes, l’indécision, trop de choix qui flottent dans un nuage.
+Les petits nombres, de l’As au Trois, parlent de quelque chose qui commence ou qui coule bien : un sentiment nouveau, un lien scellé entre deux personnes, une fête. Le milieu, du Quatre au Sept, c’est l’eau mise à l’épreuve. Le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/) est, dans mes notes, la carte la plus dure de tout le jeu : on a perdu, le cœur est noir, et l’on reste seul avec ce qui pèse — et pourtant, deux coupes restent debout derrière le personnage. Le Six de Coupes ramène à l’enfance, au temps qu’on s’accorde, à une floraison nouvelle. Le Sept de Coupes, c’est l’hésitation devant trop de possibles, suspendus dans un nuage.
 
-Les grands nombres, du Huit au Dix, ferment quelque chose. Le Huit de Coupes, c’est quitter ce qu’on est déjà en train de faire. Le Dix de Coupes, le bonheur et la famille, toute la maisonnée sous un arc-en-ciel.
+Les grands nombres, du Huit au Dix, ferment quelque chose. Le Huit de Coupes, c’est se détourner de ce qui vous occupe déjà, pour aller ailleurs. Le Dix de Coupes, le bonheur et la famille, toute la maisonnée sous un arc-en-ciel.
 
 {{< cards "cuac cu05 cu07 cu08 cu10" >}}
 
@@ -45,7 +45,7 @@ Les figures de Coupes sont des personnes, ou des manières d’être, dans le ch
 
 Regardez les dessins avant de penser aux significations. L’eau déborde de l’As. Trois coupes sont renversées dans le Cinq. Des coupes flottent dans un nuage dans le Sept. Dans le Huit, elles restent empilées derrière un personnage qui s’en va.
 
-L’eau qui bouge, ce sont des émotions fortes ; l’eau calme, des émotions qui se sont posées. Mais l’eau a une autre habitude : avec le temps, elle s’infiltre partout. Une émotion négligée peut abîmer les fondations, comme la moisissure qui ronge une maison sans bruit. Le feu détruit d’un coup ; l’eau négligée détruit plus en profondeur, et plus longtemps. Le proverbe le dit à sa façon : il n’est pire eau que l’eau qui dort.
+Une eau agitée signale un ressenti intense ; une eau tranquille, un ressenti qui s’est déposé. Mais l’eau a une autre habitude : elle finit par passer partout. Une émotion qu’on laisse de côté mine les fondations, comme une humidité qui gagne les murs sans bruit. Un incendie ravage tout en une fois ; une fuite qu’on ignore creuse plus bas, et sur des années. D’où la vieille méfiance envers les eaux trop calmes.
 
 Quand les Coupes lourdes s’accumulent, la question utile n’est donc pas « quelle catastrophe se prépare ? », mais « qu’est-ce qui fuit depuis longtemps sans avoir été réparé ? ».
 

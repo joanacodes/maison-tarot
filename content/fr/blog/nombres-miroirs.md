@@ -21,7 +21,7 @@ Un nombre miroir est un nombre fait d’un seul chiffre répété (111, 222, 333
 
 Un exemple. Votre café coûte 4,44 €. La voiture devant vous au feu est immatriculée AB-444-CD. Le soir, votre numéro de commande finit par 444. À la troisième fois, ça ressemble à plus qu’un hasard.
 
-Beaucoup de gens y lisent un message d’un ange gardien. D’autres, leur propre attention qui leur tape sur l’épaule. Pas besoin de trancher pour s’en servir. Si vous aimez les anges, le jeu en compte trois, dans les Amoureux, Tempérance et le Jugement — [l’ange au tarot](/fr/bibliotheque/symboles-tarot/ange/) a sa propre page.
+Beaucoup de gens y lisent un message d’un ange gardien. D’autres, leur propre attention qui leur tape sur l’épaule. Pas besoin de trancher pour s’en servir. Si vous aimez les anges, le jeu en compte trois, dans les Amoureux, Tempérance et le Jugement — la page [l’ange au tarot](/fr/bibliotheque/symboles-tarot/ange/) les passe en revue.
 
 {{< cards "ar06 ar14 ar20" >}}
 
@@ -46,7 +46,7 @@ Les quatre du titre, d’un peu plus près.
 
 ### 111 : quelque chose commence {#111}
 
-111, c’est le début d’un cycle. Son conseil est l’humilité, parce qu’on reste élève toute sa vie. Sa carte est le Magicien (le Bateleur au tarot de Marseille), qui sait tout faire — et qui peut faire semblant.
+111, c’est le début d’un cycle. Son conseil est l’humilité, parce qu’on reste élève toute sa vie. Sa carte est le Magicien, qui sait tout faire — et qui peut faire semblant.
 
 ### 222 : un accord {#222}
 
@@ -54,11 +54,11 @@ Les quatre du titre, d’un peu plus près.
 
 ### 444 : ce que vous avez construit {#444}
 
-444, c’est le 2 doublé : le contrat a tenu, et il y a maintenant quelque chose de stable, de bâti. Le conseil est de garder la porte ouverte à ce que vous n’aviez pas prévu. Le revers, c’est de continuer quand il faudrait s’arrêter — maintenir une structure par habitude, alors qu’elle ne vous porte plus.
+444, c’est le 2 doublé : le contrat a tenu, et il y a maintenant quelque chose de stable, de bâti. Le conseil est de garder la porte ouverte à ce que vous n’aviez pas prévu. Le revers, c’est de s’obstiner au-delà du moment où il fallait lâcher — maintenir une structure par habitude, alors qu’elle ne vous porte plus.
 
 ### 777 : attendre, et réfléchir {#777}
 
-777, c’est la patience et l’analyse avant l’action, le moment de négocier plutôt que de foncer. Et le conseil que je préfère dans tout le cycle : tout est temporaire, le bon comme le mauvais.
+777, c’est la patience et l’analyse avant l’action, le moment de négocier plutôt que de foncer. Et le conseil que je préfère dans tout le cycle : votre situation, heureuse ou pénible, finira par changer.
 
 Dans les arcanes majeurs, les quatre chiffres du titre sont le Magicien, la Grande Prêtresse, l’Empereur et le Chariot — une carte chacun, si vous voulez une image pour accompagner la question.
 
@@ -85,4 +85,4 @@ Si vous remarquez que vous attendez un nombre avant de choisir quoi que ce soit,
 
 ## Pour aller plus loin {#pour-aller-plus-loin}
 
-L’heure miroir la plus célèbre a son propre article : [voir 11h11 partout](/fr/blog/11h11-signification/). Et si vous voulez un nombre qui se calcule une fois et reste le vôtre, essayez votre [chemin de vie](/fr/blog/chemin-de-vie-numerologie/).
+Pour l’heure miroir la plus célèbre, lisez [voir 11h11 partout](/fr/blog/11h11-signification/). Et si vous voulez un nombre qui se calcule une fois et reste le vôtre, essayez votre [chemin de vie](/fr/blog/chemin-de-vie-numerologie/).

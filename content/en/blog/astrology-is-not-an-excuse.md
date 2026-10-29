@@ -9,7 +9,7 @@ tags: ["astrology as an excuse", "because I’m a Scorpio", "I don’t date Scor
 image: "covers/astrology-is-not-an-excuse.jpg"
 imageAlt: "A printed birth chart on a wooden desk beside a pencil, a dark window behind it"
 imagePrompt: "A printed birth chart lying on a wooden desk beside a sharpened pencil, a window behind it at night. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Astrology can describe a tendency; it can’t excuse what you do with it. ‘Because I’m a Scorpio’ explains nothing that ‘because I chose to’ doesn’t, and ‘I don’t date Scorpios’ rules out a twelfth of the world on one line of a chart. You’re not one sign; you’re a mix of everything — Sun, Moon, rising and every planet. When I tested my own chart, the descriptions held about a third of the time. Use the chart as a mirror, not a permission: if something keeps hurting the people around you, it can help you look, but the looking is yours."
+summary: "Astrology can describe a tendency; it can’t excuse what you do with it. ‘Because I’m a Scorpio’ explains nothing that ‘because I chose to’ doesn’t, and ‘I don’t date Scorpios’ rules out a twelfth of the world on one line of a chart. A chart is far more than one sign: Sun, Moon, rising and every planet all go into the blend. When I tested my own chart, the descriptions held about a third of the time. Use the chart as a mirror, not a permission: when a pattern of yours keeps wounding the people close to you, it can help you look, but the looking is yours."
 ---
 Astrology can describe a tendency. It can’t excuse what you do with it. “Because I’m a Scorpio” is usually said with a smile, and that’s fine — until it ends a conversation that needed to happen.
 
@@ -30,21 +30,21 @@ Most of these are half jokes, and I like that astrology gives people a shared vo
 
 When someone says “I’m a Scorpio”, they mean the Sun was in Scorpio when they were born. That’s one placement out of many.
 
-The way I explain it: picture a house. The Sun is the inner house. The Moon is your own room, and it matters a great deal. The rising sign is the outside, what others see from the street. Then every planet sits somewhere in that house, in a sign and in a house of the chart. A Scorpio Sun with a Libra Moon and a Sagittarius rising is a very different person from a Scorpio Sun with a Capricorn Moon and a Cancer rising. I go through those three in [Sun, Moon and rising](/blog/sun-moon-rising-big-three/).
+I picture a chart as a home: the Sun is that home from within, the Moon is your private bedroom, which counts for a lot, while the rising sign is all that passers-by can see of it from the pavement. Then every planet sits somewhere in that house, in a sign and in a house of the chart. A Scorpio Sun with a Libra Moon and a Sagittarius rising is a very different person from a Scorpio Sun with a Capricorn Moon and a Cancer rising. I go through those three in [Sun, Moon and rising](/blog/sun-moon-rising-big-three/).
 
-**You’re not just a sign; you’re a mix of everything.**
+**Your Sun sign is one line of the chart; you are every line of it.**
 
-That’s why “I don’t date Scorpios” doesn’t hold up. It judges a whole house by one room, and it rules out a twelfth of the people you might meet on the strength of a single line. If you have a crush, I’d go further: [don’t look up their chart at all](/blog/birth-chart-without-permission/). Let the magic happen for the two of you.
+That’s why “I don’t date Scorpios” doesn’t hold up. It judges a whole house by one room, and it rules out a twelfth of the people you might meet on the strength of a single line. If you have a crush, I’d go further: [don’t look up their chart at all](/blog/birth-chart-without-permission/), and leave the discovering to the pair of you.
 
 ## What I found when I tested my own chart {#what-i-found}
 
-I came to astrology to mock it. I put on a video to laugh, read my own chart, and it was too precise to laugh at. So I tested it box by box — a tick or a cross for every placement — then did the same with family, friends and strangers.
+I came to astrology to mock it. I put on a video to laugh, read my own chart, and it was too precise to laugh at. So I went through it placement by placement, marking each one right or wrong, then repeated the exercise with family, friends and strangers.
 
-Overall, 30 to 40% held. Saturn, Lilith and Chiron held far more, 75 to 90% of the time. The whole story is in [how I tested my birth chart](/blog/i-tested-my-birth-chart/).
+My overall score came to 30 to 40%; three placements stood well above it, with Saturn, Lilith and Chiron scoring 75 to 90%. The method and the full tally are in [my birth chart experiment](/blog/i-tested-my-birth-chart/).
 
 What that means here: a sign description is right roughly a third of the time. That’s enough to be interesting. It isn’t enough to excuse yourself, and it’s certainly not enough to rule someone out.
 
-And since Scorpio is in the title: in my notes, its verb is “I desire”. It’s a fixed sign — stable, enduring, and on the other side slow to let go, especially of emotional attachments. Its archetype is the person who says nothing at a party and draws every eye. There’s more on [the Scorpio page of the Library](/library/astrology/scorpio/). In tarot, Scorpio’s card is Death, which in my notes isn’t about dying: it’s the harvest, starting again, making life fertile once more.
+And since Scorpio is in the title: in my notes, its verb is “I desire”. It’s a fixed sign — stable, enduring, and on the other side slow to let go, especially of emotional attachments. Its archetype is the silent guest everyone at the party ends up watching. There’s more on [the Scorpio page of the Library](/library/astrology/scorpio/). In tarot, Scorpio’s card is Death, which in my notes isn’t about dying: it’s the harvest, starting again, making life fertile once more.
 
 {{< cards "ar13" >}}
 

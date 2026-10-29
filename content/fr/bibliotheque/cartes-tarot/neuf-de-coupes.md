@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/cu09.webp
 h1: Neuf de Coupes — <em>neuf</em>, l’Eau
-lede: 'Avant de chercher ce que « signifie » Neuf de Coupes, regardez ce que vous
-  avez déjà : neuf, l’élément Eau, Jupiter en Poissons. Vous lisez la carte. Le nombre
-  dit neuf — l’aboutissement, presque au bout ; l’élément dit les émotions, ce qui
-  circule. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous
-  parle déjà — le reste de la page vous montre comment.'
+lede: 'Bras croisés sur son banc, un homme replet nous sourit, ses neuf coupes alignées derrière lui, sans y toucher. Le vœu exaucé, qu’en fait-on ensuite ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-eau
@@ -30,7 +26,7 @@ faq:
 - q: 'Que signifie le Neuf de Coupes ?'
   a: 'Le contentement : vous avez ce que vous vouliez, ou presque. Le neuf est la dernière marche avant la fin d’un cycle et l’Eau dit les émotions : la carte parle d’une satisfaction affective, en rappelant qu’un neuf n’est pas encore un dix.'
 - q: 'Le Neuf de Coupes renversé, ça change quoi ?'
-  a: 'La même satisfaction, freinée ou excessive. Freinée : le vœu s’est réalisé et ne vous remplit pas comme prévu. Excessive : le contentement tourne à l’autosatisfaction, ou à l’envie de montrer ce qu’on a plutôt que d’en profiter.'
+  a: 'Le vœu s’est réalisé et ne remplit pas comme prévu ; ou bien le contentement tourne à l’autosatisfaction, à l’envie de montrer ce qu’on a plutôt que d’en profiter.'
 - q: 'Le Neuf de Coupes, c’est un oui ?'
   a: 'Beaucoup de lecteurs l’appellent la carte des vœux et le lisent comme un oui. Je préfère le lire comme un état plutôt qu’une réponse : quelqu’un tout près de ce qu’il veut, avec encore une dernière ligne droite à parcourir.'
 categories:
@@ -49,9 +45,9 @@ Regardez où sont les coupes : derrière lui, pas dans ses mains. Il ne boit dan
 
 ## Par le nombre : neuf {#nombre}
 
-[Le 9, c’est la dernière ligne droite](/fr/bibliotheque/numerologie/chiffre-9/) : la fin d’une étape, les derniers efforts, l’introspection. Ma note pour tous les neuf tient en quelques mots — « presque arrivé, continuez d’avancer » —, et cette carte est assise pile sur cette ligne. L’homme a ses neuf coupes, et il s’est assis. Un neuf qui s’installe trop confortablement oublie qu’il y a un dix.
+[Avec le 9, on approche de l’arrivée](/fr/bibliotheque/numerologie/chiffre-9/) : une étape se termine, il reste un dernier effort, et l’on regarde en soi. Ma note pour tous les neuf tient en quelques mots — « presque arrivé, continuez d’avancer » —, et cette carte est assise pile sur cette ligne. L’homme a ses neuf coupes, et il s’est assis. Un neuf qui s’installe trop confortablement oublie qu’il y a un dix.
 
-Comparez avec le Neuf de Pentacles, que je lis comme le fait de profiter de ce qui vient, avec de la gratitude pour tout ce qu’on a. Même nombre, autre posture : la femme dans son jardin s’occupe de ce qui pousse ; l’homme sur son banc est tourné vers ceux qui le regardent. Le risque de ce neuf porte un nom : se reposer sur ses lauriers.
+Comparez avec le Neuf de Pentacles, que je lis comme la joie de recevoir ce qui vient, et la reconnaissance pour tout ce qui est là. Même nombre, autre posture : la femme dans son jardin s’occupe de ce qui pousse ; l’homme sur son banc est tourné vers ceux qui le regardent. Le risque de ce neuf porte un nom : se reposer sur ses lauriers.
 
 ## Par l’élément : Eau {#element}
 
@@ -61,11 +57,11 @@ Dans ses bons jours, cet homme incarne l’archétype de l’Eau, la personne ch
 
 ## Par les couleurs {#couleurs}
 
-Le [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) remplit tout le fond : la joie, l’optimisme, l’expression de soi — et la fierté, qui est sur la même ligne de ma grille. C’est la couleur de quelqu’un d’heureux d’être exactement là où il est. Le tissu [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) sous les coupes, c’est l’émotion, ce qui porte : ce sont littéralement les sentiments qui soutiennent la vitrine. Le bonnet rouge met une pointe d’élan sur sa tête. À lire avant la carte : la joie, la fierté, et des émotions soigneusement rangées.
+Le [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) remplit tout le fond : la joie, l’optimisme, l’expression de soi — et la fierté, qui est sur la même ligne de ma grille. C’est la couleur de quelqu’un d’heureux d’être exactement là où il est. Le tissu [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) sous les coupes, c’est l’émotion, ce qui porte : ce sont littéralement les sentiments qui soutiennent la vitrine. Le bonnet rouge met une pointe d’élan sur sa tête. Bilan des teintes : la joie, la fierté, et des émotions soigneusement rangées.
 
 ## Par l’astrologie : Jupiter en Poissons {#astrologie}
 
-Dans le système de la Golden Dawn, le Neuf de Coupes correspond à [Jupiter](/fr/bibliotheque/astrologie/jupiter/) dans le deuxième décan des Poissons. Jupiter, c’est l’expansion, la générosité, la chance — ou ce qu’on prend pour de la chance — et l’excès. Dans les Poissons, signe d’eau et de croyance, il devient le sentiment que tout finira bien, et l’abondance qui va avec.
+Au Neuf de Coupes revient le deuxième décan des Poissons, sous [Jupiter](/fr/bibliotheque/astrologie/jupiter/). Jupiter, c’est l’expansion, la générosité, la chance — ou ce qu’on prend pour de la chance — et l’excès. Dans les Poissons, signe d’eau et de croyance, il devient le sentiment que tout finira bien, et l’abondance qui va avec.
 
 Lisez la planète ici comme un rappel plutôt qu’une promesse : rester humble quand tout coule. Si l’[astrologie](/fr/bibliotheque/astrologie/) n’est pas votre clé de lecture, passez : l’homme sur son banc en a dit autant.
 
@@ -73,7 +69,7 @@ Lisez la planète ici comme un rappel plutôt qu’une promesse : rester humble 
 
 À l’endroit : le contentement. Quelque chose qu’on attendait est arrivé — une relation qui sonne juste, un chez-soi, une reconnaissance, un plaisir qu’on s’est enfin autorisé. Beaucoup de lecteurs l’appellent la carte des vœux et s’arrêtent là ; je lis aussi la posture. **Obtenir ce qu’on voulait ouvre une question au lieu d’en fermer une : et maintenant ?**
 
-Renversé, la satisfaction tourne mal, de deux façons. Freinée : le vœu s’est réalisé et ne vous remplit pas comme vous l’imaginiez — neuf coupes, et toujours soif. Excessive : le contentement tourne à l’autosatisfaction, à l’envie de montrer plutôt que de profiter, ou à une installation si confortable que la dernière ligne droite n’est jamais parcourue.
+Renversé, le contentement se gâte. Parfois le vœu s’est réalisé et ne vous remplit pas comme vous l’imaginiez — neuf coupes, et toujours soif. Parfois il tourne à l’autosatisfaction, à l’envie de montrer plutôt que de profiter, ou à une installation si confortable que la dernière ligne droite n’est jamais parcourue.
 
 À côté du [Dix de Coupes](/fr/bibliotheque/cartes-tarot/dix-de-coupes/), l’étagère s’ouvre : ce que vous gardiez pour vous devient partagé. À côté du [Quatre de Coupes](/fr/bibliotheque/cartes-tarot/quatre-de-coupes/) — un autre homme aux bras croisés —, vous avez tout et n’en voyez rien. À côté du [Soleil](/fr/bibliotheque/cartes-tarot/le-soleil/), la fierté se détend en joie toute simple, celle qu’on n’a pas besoin de montrer. Et si votre tirage se remplit de cette famille, voici [ce que beaucoup de Coupes vous disent](/fr/blog/beaucoup-de-coupes-tirage/).
 
@@ -83,4 +79,4 @@ Renversé, la satisfaction tourne mal, de deux façons. Freinée : le vœu s’e
 
 Ici, l’exemple est hypothétique, et la personne aussi : le Neuf de Coupes sort à côté du Huit de Pentacles. Neuf puis huit : presque au bout d’une chose, pendant qu’une autre est bien lancée. L’Eau puis la Terre : un contentement affectif, puis des mains occupées à un métier. Un homme assis, immobile, puis un artisan à son établi.
 
-À voix haute, cela pourrait donner : « Vous avez obtenu quelque chose que vous vouliez, et vous avez raison d’en profiter. Mais l’histoire ne s’arrête pas là — une partie de vous travaille à autre chose, patiemment, pièce après pièce. » Puis demandez si la personne s’y retrouve. Si non, dites-le, notez le raté, et laissez le paquet où il est.
+L’homme sur son banc, puis l’artisan à son établi ; je les relierais ainsi : « Vous avez obtenu quelque chose que vous vouliez, et vous avez raison d’en profiter. Mais l’histoire ne s’arrête pas là — une partie de vous travaille à autre chose, patiemment, pièce après pièce. » Puis demandez si la personne s’y retrouve. Si elle répond non, ce portrait n’était pas le sien ; dites-le, et refermez le paquet.

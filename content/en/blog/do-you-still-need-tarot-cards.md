@@ -9,9 +9,9 @@ tags: ["reading without tarot cards", "intuitive tarot reading", "do you need ta
 image: "covers/do-you-still-need-tarot-cards.jpg"
 imageAlt: "A boxed tarot deck on a kitchen table between two cups of tea, two people’s forearms resting on the edge."
 imagePrompt: "A tarot deck still in its closed box on a kitchen table between two cups of tea, two people’s forearms resting on the table edge. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Strictly speaking, maybe not: the more I read, the more often something came before I’d even shuffled. But I keep my cards on the table for two reasons. The person in front of me wants to see them, and a card they can look at makes the reading something we share and can check. And the cards help me focus, or unfocus, so my own thoughts and biases step aside. That’s my experience, not a rule and not a power. If you’re learning, keep your cards: they’re how you learn to tell what comes up from what you already think."
+summary: "Strictly speaking, maybe not: as my practice grew, messages often arrived before the shuffle. But I keep my cards on the table for two reasons. The person in front of me wants to see them, and a card they can look at makes the reading something we share and can check. And the cards help me focus, or unfocus, so my own thoughts and biases step aside. That’s my experience, not a rule and not a power. If you’re learning, keep your cards: they’re how you learn to tell what comes up from what you already think."
 ---
-Strictly speaking, maybe not. The more I read, the more often something came before I’d even shuffled. But my cards stay on the table, for two reasons that have nothing to do with power: the person in front of me wants to see them, and they help me get my own thoughts out of the way. This is my experience, not a rule.
+Strictly speaking, maybe not. With practice, impressions began turning up earlier and earlier, often before the deck was even mixed. But my cards stay on the table, for two reasons that have nothing to do with power: the person in front of me wants to see them, and they help me get my own thoughts out of the way. This is my experience, not a rule.
 
 ## What changed the more I read {#what-changed}
 
@@ -57,4 +57,4 @@ If you’ve read for a long time and things arrive early for you too, don’t ma
 
 ## Where to go next {#next}
 
-Focusing and unfocusing at will is something you can practise away from the cards, too. The closest thing I know is sitting still for two minutes a day, and I’ve written about it for people who are sure they can’t: [meditation for people who think they can’t meditate](/blog/meditation-for-beginners/).
+Focusing and unfocusing at will is something you can practise away from the cards, too. The closest thing I know is sitting still for two minutes a day, and [a beginner’s way into meditation](/blog/meditation-for-beginners/) shows how to start even if you’re convinced it’s not for you.

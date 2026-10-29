@@ -1,7 +1,7 @@
 ---
 title: 'As de Bâtons (Ace of Wands) — tarot Rider-Waite-Smith : lire la carte par
   ses clés de lecture'
-description: 'As de Bâtons : une main sortie d’un nuage tend une branche vivante. Lisez-la par le nombre, le Feu et les couleurs — l’étincelle d’un projet, et ce qu’elle demande.'
+description: 'As de Bâtons : une branche qui bourgeonne, offerte par une main venue d’un nuage. Nombre, Feu et couleurs y lisent l’étincelle d’un projet, et ce qu’elle exige.'
 translationKey: card-waac
 type: cards
 navTitle: As de Bâtons
@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/waac.webp
 h1: As de Bâtons — <em>un</em>, le Feu
-lede: 'Avant de chercher ce que « signifie » As de Bâtons, regardez ce que vous avez
-  déjà : un, l’élément Feu, Racine du Feu. Vous lisez la carte. Le nombre dit un —
-  le début, le diamant brut ; l’élément dit l’élan, ce qu’on lance. Posez les deux
-  l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
-  de la page vous montre comment.'
+lede: 'Une main sans corps sort d’un nuage et vous tend une branche brute qui bourgeonne encore ; le château est loin. Cette envie neuve, allez-vous la planter, ou la laisser dans le nuage ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -57,7 +53,7 @@ Avec cette carte, l’humilité que je demande devant tout 1 — se préparer à
 
 Les Bâtons, c’est le [Feu](/fr/bibliotheque/quatre-elements/element-feu/) : la création, la destruction, l’impulsion, l’énergie qui motive. L’As, c’est le Feu avant qu’il ait rien forgé ni gagné le moindre terrain — l’étincelle, avant qu’elle ait choisi quoi réchauffer et quoi brûler.
 
-D’où une carte qui parle du désir au sens large : un projet, une vocation, une attirance, parfois la libido tout court. L’adolescent plein de vie qui se croit capable de tout, le matin où il se réveille avec l’idée.
+D’où une carte qui parle du désir au sens large : un projet, une vocation, une attirance, parfois la libido tout court. L’ado qui déborde d’énergie et ne doute de rien, le matin où l’idée le réveille.
 
 ## Par les couleurs {#couleurs}
 
@@ -69,7 +65,7 @@ Ensemble, avant toute signification : quelque chose de chaud et de vivant, tendu
 
 Dans le système de la Golden Dawn, les mineurs du Deux au Dix reçoivent chacun un décan, une planète dans un signe. Pas les As : chacun est la racine de son élément, et celui-ci, la racine du Feu. Ce n’est pas une position qu’on trouve dans un thème natal ; c’est la source où puise toute la famille, du Deux en Bélier au Dix en Sagittaire.
 
-Si l’[astrologie](/fr/bibliotheque/astrologie/) vous parle, gardez l’image de la racine. Sinon, vous ne perdez rien : les autres clés de lecture l’ont déjà dit.
+Si vous lisez avec l’[astrologie](/fr/bibliotheque/astrologie/), gardez cette racine en tête ; sinon, les jeunes feuilles sur le bois brut racontent déjà un commencement.
 
 ## En lecture {#lecture}
 
@@ -77,7 +73,7 @@ Si l’[astrologie](/fr/bibliotheque/astrologie/) vous parle, gardez l’image d
 
 Renversé, la branche reste dans le nuage : le même projet raconté au dîner pour le troisième mois de suite, l’enthousiasme retombé avant le premier pas. Ou l’excès inverse — dix débuts sans suite, ou un élan si fort qu’on saute l’apprentissage et qu’on se brûle.
 
-À côté du [Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/), autre 1, l’idée rencontre ses outils : c’est le bon moment pour commencer. À côté de l’[As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/), le Feu trouve un sol — un lieu, un budget, une base. À côté du [Dix de Bâtons](/fr/bibliotheque/cartes-tarot/dix-de-batons/), une idée neuve tombe sur des épaules déjà chargées ; ce que je dis du Dix — garder l’énergie créative sans se surcharger — vaut pour les deux.
+À côté du [Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/), autre 1, l’idée rencontre ses outils : c’est le bon moment pour commencer. À côté de l’[As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/), le Feu trouve un sol — un lieu, un budget, une base. À côté du [Dix de Bâtons](/fr/bibliotheque/cartes-tarot/dix-de-batons/), une idée neuve tombe sur des épaules déjà chargées ; mon conseil pour le Dix, créer sans plier sous le poids, vaut pour les deux.
 
 {{< cards "ar01 peac wa10" >}}
 
@@ -85,6 +81,6 @@ Renversé, la branche reste dans le nuage : le même projet raconté au dîner p
 
 Supposons que l’As de Bâtons sorte avec le Sept de Coupes à côté : une seule branche vivante, puis trop de choix. Le nombre : un, puis sept — quelque chose commence, puis vient une pause pour peser. L’élément : le Feu, puis l’Eau — un élan, puis la rêverie. Les couleurs : l’orange et le vert, chauds, puis une silhouette sombre face à des coupes posées sur des nuages. Du net au flou.
 
-La phrase que je dirais à voix haute : « Vous avez une idée qui a très envie de démarrer, et vous savez laquelle. Mais il y en a plusieurs autour, et vous dépensez votre énergie à les regarder toutes au lieu d’en faire pousser une. »
+Ce passage du net au flou, je le formulerais ainsi : « Vous avez une idée qui a très envie de démarrer, et vous savez laquelle. Mais il y en a plusieurs autour, et vous dépensez votre énergie à les regarder toutes au lieu d’en faire pousser une. »
 
-Ensuite, je vérifie auprès de la personne — pas avant, puisqu’elle ne me dit rien tant que je n’ai pas parlé : c’est [la règle du silence](/fr/blog/regle-du-silence-tarot/). Si non, c’est un raté, et je ne le rattrape pas avec une troisième carte. Si oui, la question utile devient : « Laquelle voulez-vous faire pousser en premier ? »
+Ensuite, je vérifie auprès de la personne — pas avant, puisqu’elle ne me dit rien tant que je n’ai pas parlé : c’est [la règle du silence](/fr/blog/regle-du-silence-tarot/). Si aucune idée n’attend chez elle, la phrase tombe à côté, et elle entre ainsi dans mon carnet. Si oui, la question utile devient : « Laquelle voulez-vous faire pousser en premier ? »

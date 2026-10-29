@@ -45,7 +45,7 @@ What follows is my reading of the model, not the programme's conclusions. I've r
 4. Always open. Doubt keeps no office hours, and neither does a platform. At two in the morning, the voice on the line is often the only one answering.
 5. The invisible payment. A saved card doesn't hurt. No cash leaves your hand, nothing is signed; you hang up, and the amount arrives later, mixed in with everything else on the statement.
 
-**None of these mechanisms needs a psychic to lie about the cards.** That's what makes them so effective: they live in the billing model, not in the talent of whoever picks up. When someone comes to me with the same doubt again and again, I usually suggest a pause rather than another reading. A platform paid by the minute has every reason to do the opposite. The cruder tricks — curses, urgency, paid rituals — are in [the nine red flags of a fake reader](/blog/how-to-spot-a-fake-tarot-reader/).
+**None of these mechanisms needs a psychic to lie about the cards.** That's what makes them so effective: they live in the billing model, not in the talent of whoever picks up. When someone comes to me with the same doubt again and again, I usually suggest a pause rather than another reading. A platform paid by the minute has every reason to do the opposite. The cruder tricks — curses, urgency, paid rituals — appear on [my list of signs that a reader is selling fear](/blog/how-to-spot-a-fake-tarot-reader/).
 
 ## What the case says about the French market {#the-market}
 
@@ -72,8 +72,8 @@ What helps, in practice:
 
 If the question that makes you pick up the phone is about money, health or a court case, those are subjects [I leave out of my readings](/disclaimers/#refusals), because a misunderstood sentence costs too much there. A gentler and more useful question is: "What do I need to make this decision myself?" The cards can sit with that one, and the decision stays yours.
 
-Sometimes the most useful thing is to put the phone, or the deck, down for a while. I've written about that in [why you should quit tarot reading, at least for a while](/blog/why-you-should-quit-tarot-reading/).
+Sometimes the most useful thing is to put the phone, or the deck, down for a while. I've written about that in [why hanging up on readings for a while can help](/blog/why-you-should-quit-tarot-reading/).
 
 ## A reading with no meter running {#no-meter}
 
-If you want to see what a reading looks like when nobody is charging by the minute, come to [a free Maison Tarot event](/events/). The people read are drawn at random, they tell me nothing, and I say when I'm wrong — about one time in ten, by my count. Nobody will call you next week to ask whether things have moved.
+If you'd like a reading where nobody is counting the minutes, come to [a free Maison Tarot event](/events/). Who gets read is left to chance, nobody briefs me beforehand, and I own up to every miss, which by my tally is one reading in ten or so. Nobody will call you next week to ask whether things have moved.

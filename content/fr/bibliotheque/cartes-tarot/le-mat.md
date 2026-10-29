@@ -16,8 +16,7 @@ energy: Masculine
 kabbalah: Aleph
 image: cards/ar00.webp
 h1: Le Mat — <em>zéro</em>, L’Air, le pas au-dessus du vide
-lede: 'Avant de chercher ce que « signifie » Le Mat, regardez ce que vous avez déjà
-  : zéro, l’élément Air, Uranus. Vous lisez la carte.'
+lede: 'Un jeune voyageur, baluchon sur l’épaule et regard au ciel, s’apprête à poser le pied dans le vide ; à ses côtés, un chien blanc bondit. Savez-vous que vous êtes au bord, et y allez-vous quand même ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-air
@@ -55,7 +54,7 @@ Le Mat est une carte d’[Air](/fr/bibliotheque/quatre-elements/element-air/) : 
 
 ## Par les couleurs {#couleurs}
 
-Le **jaune** partout — le ciel, les bottes, le baluchon : la joie, l’intelligence, l’énergie du début. Le **blanc** du soleil, de la rose et du chien : ce qui n’est pas encore sali, pas encore décidé. Le **rouge** de la plume : une pointe de désir, d’élan. Les **gris-bleu** des montagnes au fond : le monde qui attend, froid, mais pas hostile. Lisez les couleurs avant de lire la carte ([la grille des couleurs](/fr/bibliotheque/couleurs-tarot/)) et vous aurez déjà : joie, neuf, élan, un monde à traverser.
+Le **jaune** partout — le ciel, les bottes, le baluchon : la joie, l’intelligence, l’énergie du début. Le **blanc** du soleil, de la rose et du chien : ce qui n’est pas encore sali, pas encore décidé. Le **rouge** de la plume : une pointe de désir, d’élan. Les **gris-bleu** des montagnes au fond : le monde qui attend, froid, mais pas hostile. Passés à [la grille des couleurs](/fr/bibliotheque/couleurs-tarot/), ces quatre tons racontent déjà : joie, neuf, élan, un monde à traverser.
 
 ## Par l’astrologie : Uranus {#astrologie}
 
@@ -69,4 +68,4 @@ Renversé, ou entouré de cartes lourdes, le Mat devient l’imprudence qui coû
 
 ## Exemple de tirage {#exemple}
 
-Imaginez un tirage pour quelqu’un qui n’a rien dit : le Mat sort en première position, suivi du [Huit de Pentacles](/fr/bibliotheque/cartes-tarot/huit-de-pentacles/). Avant toute « signification » : zéro puis huit, l’Air puis la Terre, le début puis le travail. Cela donne : « Vous êtes en train de quitter quelque chose sans savoir encore ce que vous allez faire, et vous allez le découvrir en travaillant, pas en réfléchissant. » Pour quelqu’un qui vient de démissionner pour se reconvertir dans un métier manuel, la phrase tombe juste, sans une seule signification apprise par cœur.
+Imaginez un tirage pour quelqu’un qui n’a rien dit : le Mat sort en première position, suivi du [Huit de Pentacles](/fr/bibliotheque/cartes-tarot/huit-de-pentacles/). Avant toute « signification » : zéro puis huit, l’Air puis la Terre, le début puis le travail. J’en tirerais : « Vous êtes en train de quitter quelque chose sans savoir encore ce que vous allez faire, et vous allez le découvrir en travaillant, pas en réfléchissant. » Pour quelqu’un qui vient de démissionner pour se reconvertir dans un métier manuel, la phrase tombe juste, sans une seule signification apprise par cœur.

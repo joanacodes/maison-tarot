@@ -11,7 +11,7 @@ imageAlt: "Two people at a table, one reading a card to the other, both laughing
 imagePrompt: "Two friends at a kitchen table, one holding up a single tarot card toward the other, both laughing, seen from over the shoulder so neither face is recognisable. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "There are no Chosen Ones. Every person I’ve taught — sceptics, engineers, my own friends who came to laugh — has read a stranger accurately within a few tries, once they stopped trying to be right. What people call a gift is a learnable state plus a method. The test is one card, one stranger, one sentence, and it takes ten minutes."
 ---
-"I'd love to read cards but I don't have the gift." I hear this every month, and every month I say the same thing: there isn't one. Or rather — everyone has the same one, and it's not the thing you think it is.
+"I'd love to read cards but I don't have the gift." I hear this every month, and every month I say the same thing: there isn't one. Or, more exactly — we all have the same one, and it's not the thing you think it is.
 
 ## Where the idea comes from {#where-it-comes-from}
 

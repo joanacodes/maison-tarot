@@ -22,12 +22,10 @@ related:
 - /library/astrological-modes/cardinal
 - /library/astrology/venus
 faq:
-- q: Which tarot card corresponds to Libra?
-  a: Justice, in the Golden Dawn tradition taken up by the Rider-Waite-Smith. When
-    it comes out, the sign gives its verb, element and mode at once.
-- q: 'I''m a Libra: is this card ''my'' card?'
-  a: A way in, not an identity. The card says the same thing to anyone; your sign
-    only helps you recognise it faster. Astrology is not an excuse.
+- q: 'Which tarot card corresponds to Libra?'
+  a: 'Justice, the card of the sword and the scales: a decision weighed so that each side gets its due, which is exactly what Libra tries to do.'
+- q: 'I’m a Libra: is Justice ‘my’ card?'
+  a: 'It isn’t reserved for you. Justice asks anyone for a fair decision; a Libra may feel the weighing more keenly. And the sign is no reason to leave a real dilemma unsettled.'
 gallery:
 - src: "visuals/sign-libra/1.jpg"
   title: "The third hand"
@@ -74,7 +72,7 @@ The diplomat; the referee; the one who redoes the split until nobody is short-ch
 
 ## Its card: Justice {#card}
 
-When [Justice](/library/tarot-cards/justice/) comes out, Libra is there: a decision to be made fairly, an account to be settled evenly. Well placed, it's clear judgment. Badly placed, it's the scale you watch swing without ever reading it.
+[Justice](/library/tarot-cards/justice/) puts Libra in front of a decision to be made fairly, an account to be settled evenly. Either the judgment comes out clear, or the scale keeps swinging and nobody reads it.
 
 {{< cards "ar11" >}}
 

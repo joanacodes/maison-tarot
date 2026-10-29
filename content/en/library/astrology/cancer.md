@@ -25,13 +25,10 @@ related:
 - /library/astrological-modes/cardinal
 - /library/astrology/moon
 faq:
-- q: Which tarot card corresponds to Cancer?
-  a: The Chariot, in the Golden Dawn tradition taken up by the Rider-Waite-Smith.
-    When it comes out, the sign gives its verb, element and mode at once. The High
-    Priestess is the Moon's card; the Moon rules the sign.
-- q: 'I''m a Cancer: is this card ''my'' card?'
-  a: A way in, not an identity. The card says the same thing to anyone; your sign
-    only helps you recognise it faster. Astrology is not an excuse.
+- q: 'Which tarot card corresponds to Cancer?'
+  a: 'The Chariot: an armoured driver pushing forward, which is Cancer’s shell put on wheels. Its ruler, the Moon, goes with another major: the High Priestess.'
+- q: 'I’m a Cancer: is the Chariot ‘my’ card?'
+  a: 'Not as a portrait. Anyone who draws the Chariot is moving forward under some weight; the sign may help you feel that sooner, but it doesn’t excuse keeping the armour on for good.'
 gallery:
 - src: "visuals/sign-cancer/1.jpg"
   title: "The home that holds"
@@ -78,7 +75,7 @@ The mother or the father at home. Hodor, in Game of Thrones: the one who holds t
 
 ## Its card: The Chariot {#card}
 
-When [the Chariot](/library/tarot-cards/the-chariot/) comes out, Cancer is there: a hard shell around a soft inside, a warrior in armour who moves forward under weights nobody sees. Well placed, it's the will that protects and keeps going. Badly placed, it's the armour that never comes off. Cancer doesn't take; it gives.
+[The Chariot](/library/tarot-cards/the-chariot/) shows Cancer in armour: a hard shell around a soft inside, a warrior moving forward under weights nobody sees. The same armour is the will that protects and keeps going, or the one that never comes off. Cancer doesn't take; it gives.
 
 {{< cards "ar07" >}}
 

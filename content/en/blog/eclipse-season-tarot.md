@@ -31,7 +31,7 @@ The second is a wish to rest. Some readers treat eclipse weeks as a pause: no ne
 
 The third is about the reader. Some people feel more tired or more emotional around eclipses and would rather not read in that state.
 
-The third is the one I'd keep. Not because of the sky, but because the state you read in changes a reading far more than the date does. I know that tiredness from the readings themselves: interpreting takes energy, and I sometimes stop after two hours of readings, out of caution.
+The third is the one I'd keep. Not because of the sky, but because the state you read in changes a reading far more than the date does. I know that tiredness from the readings themselves: interpreting takes energy, and there are days I stop after the second hour, to be safe.
 
 And if waiting feels right to you, wait. Nothing is lost by leaving the deck in its box for a fortnight; a question you postpone is still there when you come back to it.
 
@@ -47,7 +47,7 @@ What a reading can hold in eclipse season is what it holds in any week: how you 
 
 Nor does your deck soak anything up. There's nothing to [cleanse afterwards](/blog/cleanse-tarot-deck/): if a reading felt heavy, it's you who needs a rest, not the cards.
 
-My own frame for astrology applies here too. When [I tested my birth chart box by box](/blog/i-tested-my-birth-chart/), most of it held 30 to 40% of the time, and eclipses were never part of that test. A third is enough to treat an eclipse as a theme to think with, and not enough to let it decide when you're allowed to shuffle.
+My own frame for astrology applies here too. In [my test of my own birth chart](/blog/i-tested-my-birth-chart/), between 30 and 40% of the descriptions held overall, and eclipses never came into it. A third is enough to treat an eclipse as a theme to think with, and not enough to let it decide when you're allowed to shuffle.
 
 ## Three questions before you shuffle in eclipse season {#three-questions}
 
@@ -63,4 +63,4 @@ And if you're outside watching a solar eclipse, the cards can wait. Your eyes ne
 
 ## One reading per season: the lunar eclipse {#one-reading}
 
-If you want one reading in eclipse season, make it on the night of the lunar eclipse. It falls on a full moon, so [the napkin-sized full moon spread](/blog/full-moon-tarot-spread/) works as well then as any month: what has come to light, what you can put down, what you keep. Write the three cards and one sentence for each, then reread the page at the next eclipse season, about six months later.
+If you want one reading in eclipse season, make it on the night of the lunar eclipse. It falls on a full moon, so [the napkin-sized full moon spread](/blog/full-moon-tarot-spread/) works as well then as any month, with its three questions: what the light has shown, what you can set down, what you'll hold on to. Note each card with a line of your own, then reread the page at the next eclipse season, about six months later.

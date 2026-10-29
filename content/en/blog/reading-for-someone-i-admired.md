@@ -17,7 +17,7 @@ The sentence I said out loud wasn’t about a card. It was about a friend’s bi
 
 I should be precise, because the title says “reading”: this one wasn’t tarot. It was astrology.
 
-I first watched an astrology video to make fun of it, and my own chart came out uncomfortably precise. So I tested it, box by box: every placement, a tick or a cross. Then I did the same for my family, my friends, strangers — and for a friend I admired. The whole method and its numbers are in [how I tested my birth chart](/blog/i-tested-my-birth-chart/): overall, 30 to 40% held; Saturn, Lilith and Chiron held 75 to 90%.
+I first watched an astrology video to make fun of it, and my own chart came out uncomfortably precise. So I tested it, box by box: every placement, a tick or a cross. Then I did the same for my family, my friends, strangers — and for a friend I admired. The whole method and its numbers are in [how I tested my birth chart](/blog/i-tested-my-birth-chart/): overall, 30 to 40% held; Saturn, Lilith and Chiron did far better, between 75 and 90%.
 
 His chart was on point. It was also harsh.
 
@@ -29,7 +29,7 @@ Reading for someone you admire raises the stakes in a way that has nothing to do
 
 In my notes, one of the two usual reasons nothing comes in a reading is the reader’s own block: too much pressure. Admiration is pressure. You want to be right in front of this person. You want them to think well of you. You don’t want to be the one who hurts them.
 
-With him, the pressure had a precise shape: I admired him too much to want him to think I was crazy. I did it anyway.
+With him, the pressure had a precise shape: I didn’t want someone I looked up to that much deciding I’d lost my mind. I read his chart all the same.
 
 That pressure pushes in two directions, and both are traps. The first is to soften the hard part until it says nothing: “You’ve had a few challenges, like everyone.” The second is to prove yourself by being blunt, because precision feels like competence: “Your chart is brutal.” One protects you from their disappointment; the other tries to impress them. Neither is about them.
 
@@ -45,7 +45,7 @@ Here it is again: *Your life was hard, but it feels like you like it somehow.*
 
 “But it feels like.” This is an impression, offered as one. Not “your chart says”, not “clearly”. It hands him the right to say no.
 
-“You like it somehow.” This is the turn. It doesn’t deny the hardness; it looks at how he carries it. It gives him back his place in his own story: not someone things happened to, but someone who, in some way, took to them. It’s close to what Saturn describes in astrology: the hardest lesson, where you’re limited and made to prove yourself — and where, in time, you become solid precisely because it was hard. You can read more on [Saturn as a lens](/library/astrology/saturn/), whatever his chart did or didn’t show.
+“You like it somehow.” This is the turn. It doesn’t deny the hardness; it looks at how he carries it. It gives him back his place in his own story: not someone things happened to, but someone who, in some way, took to them. It’s close to what Saturn stands for in astrology: the toughest lesson, the place where limits hem you in and you have to earn your way — and where, given time, hardship turns out to be what toughens you. You can read more on [Saturn as a lens](/library/astrology/saturn/), whatever his chart did or didn’t show.
 
 “Somehow.” It admits I don’t fully understand it. The explanation is his to give, not mine.
 

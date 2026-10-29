@@ -16,7 +16,7 @@ related:
 - /library/astrology
 faq:
 - q: "Which Hebrew letter goes with the Fool?"
-  a: "Aleph in the Golden Dawn system, which this site and the Rider-Waite-Smith tradition follow. In the French tradition of Éliphas Lévi and Oswald Wirth, the Fool takes Shin and Aleph goes to the Magician."
+  a: "Aleph, in the Golden Dawn’s table — the one this site and the Rider-Waite-Smith tradition follow. In the French tradition of Éliphas Lévi and Oswald Wirth, the Fool takes Shin and Aleph goes to the Magician."
 - q: "Why do Strength and Justice have different numbers in different decks?"
   a: "The Golden Dawn gave Teth (Leo, the lion) to Strength and Lamed (Libra, the scales) to Justice, which meant swapping their old places. The 1909 Rider-Waite-Smith prints Strength as VIII and Justice as XI; Marseille decks keep Justice VIII and Strength XI."
 gallery: []
@@ -27,7 +27,7 @@ The twenty-two letters of the Hebrew alphabet are paired with the twenty-two maj
 
 The letters belong to the Jewish tradition before they belong to the tarot. Sefer Yetzirah, an early Hebrew text on how the world was made, sorts them into three kinds. Three mother letters (Aleph, Mem, Shin) go with air, water and fire. Seven double letters, called double because each had two pronunciations, go with the seven planets known in antiquity and the days of the week. Twelve simple letters go with the twelve signs of the zodiac and the twelve months, in order, from He for Aries to Qoph for Pisces.
 
-Pairing them with the tarot is not part of that tradition. It is an idea of French occultists, made famous by [Éliphas Lévi](/library/tarot-figures/eliphas-levi/) in the 1850s, then reworked by the [Golden Dawn](/library/tarot-history/golden-dawn-tarot/) in London from 1888.
+Pairing them with the tarot is not part of that tradition. French occultists came up with it; [Éliphas Lévi](/library/tarot-figures/eliphas-levi/) popularised it in the 1850s, and from 1888 the [Golden Dawn](/library/tarot-history/golden-dawn-tarot/), in London, gave it a new form.
 
 The Golden Dawn tied each letter to a card with two threads. The first is order: the Fool, numbered zero, comes first and takes Aleph, and the others follow. The second is Sefer Yetzirah’s attributions: a mother letter brings an element, a double a planet, a simple a sign, and the card has to fit. Teth is Leo, the lion, but the eighth card was Justice; so Strength and Justice changed places, a swap already suggested in the Cipher Manuscripts the order was founded on. **The VIII and XI on your Rider-Waite-Smith cards are that swap, printed in 1909.**
 

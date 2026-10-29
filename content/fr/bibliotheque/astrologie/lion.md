@@ -24,12 +24,12 @@ related:
 - /bibliotheque/astrologie/soleil
 faq:
 - q: Quelle carte de tarot correspond au Lion ?
-  a: La Force, dans la tradition Golden Dawn reprise par le Rider-Waite-Smith. Quand
-    elle sort, le signe donne son verbe, son élément et son mode d’un coup.
-- q: 'Je suis Lion : est-ce que cette carte est « ma » carte ?'
-  a: C’est une entrée, pas une identité. La carte parle à n’importe qui de la même
-    chose ; votre signe vous aide seulement à la reconnaître plus vite. L’astrologie
-    n’est pas une excuse.
+  a: La Force, où une femme apaise un lion de ses seules mains. En lecture, c’est l’énergie
+    du signe tenue par la douceur plutôt que lâchée.
+- q: 'Je suis Lion : la Force me ressemble-t-elle ?'
+  a: 'Elle ne vous est pas réservée : la douceur qui tient une énergie forte, tout
+    le monde peut la tirer. Si vous êtes Lion, regardez surtout si vous agissez pour
+    faire les choses, ou pour qu’on vous voie les faire.'
 gallery:
 - src: "visuals/sign-leo/1.jpg"
   title: "Jouer à fond"
@@ -76,7 +76,7 @@ L’acteur d’opéra ; des enfants qui jouent à Action Man.
 
 ## Sa carte : La Force {#carte}
 
-Quand [la Force](/fr/bibliotheque/cartes-tarot/la-force/) sort, le Lion est là : la maîtrise par la douceur, la main sur la gueule du fauve. Bien posé, c’est le courage qui n’a pas besoin de crier. Mal posé, c’est le besoin d’être vu qui passe avant ce qu’on fait.
+Le signe a son animal dessiné sur [la Force](/fr/bibliotheque/cartes-tarot/la-force/) : la maîtrise par la douceur, la main sur la gueule du fauve. On y lit un courage qui n’a pas besoin de crier — ou, dans sa version sombre, le besoin d’être vu qui passe avant ce qu’on fait.
 
 {{< cards "ar08" >}}
 

@@ -37,9 +37,9 @@ Alors décrivez d’abord le dessin, à voix haute, avant d’aller vers ce que 
 
 ## Choisir des mots qu’on peut porter {#mots}
 
-Il arrive qu’on sente qu’il ne faut pas dire quelque chose, ou qu’il faut le dire autrement : la personne n’est pas prête, elle a peur, ou elle se méfie de l’exercice. Adaptez votre attitude et vos mots. **Vous pouvez taire une chose si besoin, mais ne dites jamais ce que vous ne voyez pas.**
+Parfois, vous sentirez qu’une chose doit attendre, ou se dire d’une autre manière : en face, on n’est pas prêt, on a peur, ou on se méfie de l’exercice. Ajustez votre ton et vos mots. **Vous pouvez taire une chose si besoin, mais ne dites jamais ce que vous ne voyez pas.**
 
-Chaque carte a un plus et un moins, et une carte lourde reste un dessin où il y a plus d’une chose. Imaginons que votre amie tire le Dix d’Épées et le Cinq de Coupes.
+Même une carte lourde a son bon côté, et son dessin contient toujours plus d’une chose. Imaginons que votre amie tire le Dix d’Épées et le Cinq de Coupes.
 
 {{< cards "sw10 cu05" >}}
 
@@ -57,7 +57,7 @@ On commence presque tous par ses amis, et c’est un bon endroit pour commencer.
 4. Ne devenez pas son oracle quotidien. Si le même ami revient chaque semaine avec la même question, dites-le gentiment et proposez une pause.
 5. Les sujets que je laisse de côté avec des inconnus, je les laisse de côté avec mes amis : santé, grossesse, décès, procédures judiciaires en cours, décisions d’argent. La [liste, avec mes raisons](/fr/avertissements/#refus), est publique.
 
-Quand un ami pose une de ces questions, c’est presque toujours l’inquiétude qui parle. Accueillez-la, dites doucement que les cartes ne sont pas le bon outil pour ça, et proposez une question plus douce. « De quoi ai-je besoin pour tenir jusqu’à dimanche ? » : celle-là, les cartes savent la porter.
+Quand un ami pose une de ces questions, c’est presque toujours l’inquiétude qui parle. Accueillez-la, dites doucement que les cartes ne sont pas le bon outil pour ça, et proposez autre chose, de plus tendre : « De quoi ai-je besoin pour tenir jusqu’à dimanche ? » Celle-là, les cartes savent la porter.
 
 ## Quand on ne voit rien, ou que c’est trop {#rien-ou-trop}
 

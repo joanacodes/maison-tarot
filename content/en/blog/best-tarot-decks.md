@@ -17,7 +17,7 @@ My shortlist for 2027 is mostly one deck in several editions: the Rider-Waite-Sm
 
 Four things decided the list.
 
-1. *The drawings.* Every card should have Smith’s scene, the numbered cards included, because a scene is something you can read on the first evening. [Why I start everyone on the Rider-Waite-Smith](/blog/best-tarot-deck-for-beginners/) explains this at length.
+1. *The drawings.* Every card should carry Smith’s scene, the numbered ones too, because a scene lets a beginner start reading straight away. [My case for it as a first deck](/blog/best-tarot-deck-for-beginners/) makes the argument at length.
 2. *The colours.* I teach colour as a lens, so the colouring of an edition matters more to me than its box.
 3. *The size.* Small cards suit small hands and bags; large cards suit tired eyes and table readings.
 4. *Whether you can find it.* A deck you can’t buy where you live isn’t a recommendation.

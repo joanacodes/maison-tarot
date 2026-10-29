@@ -38,21 +38,21 @@ Posez les deux premières cartes à gauche, les deux dernières à droite, avec 
 
 ## Un tirage d’anniversaire, carte par carte {#exemple}
 
-Imaginons quelqu’un qui fête ses trente-cinq ans, ne dit rien aux cartes, et tire le Dix de Bâtons, le Huit de Pentacles, l’As de Bâtons et le Neuf de Pentacles.
+Prenons une personne qui souffle ses trente-cinq bougies sans rien confier aux cartes : elle tire le Dix de Bâtons, le Huit de Pentacles, l’As de Bâtons et le Neuf de Pentacles.
 
 {{< cards "wa10 pe08 waac pe09" >}}
 
-*L’année que je referme :* le Dix de Bâtons, un homme courbé sous dix lourds bâtons, qui marche vers une ville. Le 10, c’est le couloir entre deux pièces, [la fin d’un cycle et la porte du suivant](/fr/bibliotheque/numerologie/chiffre-10/). Dans mes notes, cette carte dit : gardez l’énergie créatrice, sans vous surcharger. Une année où l’on a trop porté, peut-être, et où l’on est arrivé quand même.
+*L’année que je referme :* le Dix de Bâtons, un homme qui avance vers une ville, plié sous sa charge de dix bâtons. Le 10, c’est l’entre-deux, [la fin d’un cycle et la porte du suivant](/fr/bibliotheque/numerologie/chiffre-10/). Dans mes notes, cette carte dit : gardez l’énergie créatrice, sans vous surcharger. Une année où l’on a trop porté, peut-être, et où l’on est arrivé quand même.
 
-*Ce que j’emporte :* le Huit de Pentacles, un artisan à son établi, qui grave une pièce après l’autre. Le 8, c’est la maîtrise, l’effort nécessaire qui devient savoir-faire. Quoi qu’ait coûté cette année lourde, elle vous a appris à bien faire quelque chose.
+*Ce que j’emporte :* le Huit de Pentacles, et son artisan qui recommence le même geste jusqu’à le maîtriser. Le 8, c’est la maîtrise, l’effort nécessaire qui devient savoir-faire. Quoi qu’ait coûté cette année lourde, elle vous a appris à bien faire quelque chose.
 
-*Le thème de l’année qui vient :* l’As de Bâtons, une main qui sort d’un nuage et tient un bâton couvert de jeunes feuilles, un château sur une colline au loin. Le 1, c’est le début d’un cycle, le diamant brut. Les Bâtons, c’est le Feu : la création, l’élan, l’énergie qui fait démarrer. Et le conseil du 1, dans mes notes, c’est l’humilité : préparez-vous à apprendre.
+*Le thème de l’année qui vient :* l’As de Bâtons, un seul bâton, déjà en bourgeons, et un château au loin. Le 1, c’est le début d’un cycle, le diamant brut. Les Bâtons, c’est le Feu : la création, l’élan, l’énergie qui fait démarrer. Et le conseil du 1, dans mes notes, c’est l’humilité : préparez-vous à apprendre.
 
 Regardez les deux nombres de part et d’autre de l’espace : 10, puis 1. Le cycle repart à zéro, exactement comme un anniversaire.
 
-*Un cadeau à me faire :* le Neuf de Pentacles, une femme seule dans un jardin chargé de raisins, un oiseau posé sur sa main gantée. Profiter de ce qui vient, être reconnaissant pour ce qu’on a. Le cadeau, c’est de vous arrêter pour savourer ce que vous avez construit avant de commencer à bâtir la suite.
+*Un cadeau à me faire :* le Neuf de Pentacles, son jardin plein de raisins et l’oiseau sur le gant de la dame. Savourer ce qui arrive, dire merci pour ce qu’on a. Le cadeau, c’est de vous arrêter pour savourer ce que vous avez construit avant de commencer à bâtir la suite.
 
-La phrase, à voix haute, pourrait être : « Vous avez beaucoup porté cette année, et vous y avez appris votre métier. Quelque chose de neuf veut commencer : allez-y en débutant, et prenez le temps de profiter de ce que vous avez déjà. » Puis demandez si ça tombe juste, et notez la réponse, réussite ou raté.
+Lu d’un seul tenant, le tirage donnerait : « Vous avez beaucoup porté cette année, et vous y avez appris votre métier. Quelque chose de neuf veut commencer : allez-y en débutant, et prenez le temps de profiter de ce que vous avez déjà. » Puis demandez-lui ce qui a sonné juste, et notez la réponse, réussite ou raté.
 
 ## Ce qu’un tirage d’anniversaire ne peut pas vous dire {#limites}
 

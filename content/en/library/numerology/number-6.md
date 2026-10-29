@@ -59,7 +59,7 @@ gallery:
 ---
 ## What 6 says {#definition}
 
-**6 is expansion (3 exalted).** Success, triumph, speed multiplied. Six is expansion — 3 exalted, the machine that not only runs but accelerates. In the [cycle of numbers](/library/numerology/) it comes after 5 and prepares 7.
+**6 is expansion (3 exalted).** Success, triumph, speed multiplied. Six is expansion — 3 exalted, the machine that not only runs but accelerates. The trial of 5 comes right before it, the analysis of 7 right after — see [how the ten steps connect](/library/numerology/).
 
 ## The advice of 6 {#advice}
 
@@ -81,6 +81,6 @@ Facebook decides to invest. The trial of 5 is passed, and what threatened the co
 
 ## In a reading {#reading}
 
-A 6 in a spread says: **it's succeeding, and it's fast.** The Six of Wands parades as the winner, the Six of Pentacles has enough to give, the Six of Cups finds the sweetness of before, the Six of Swords crosses to a calmer shore. The Lovers are the 6 of the happy choice: union — and the choice it implies.
+When a 6 turns up, **it's succeeding, and it's fast.** The Six of Wands parades as the winner, the Six of Pentacles has enough to give, the Six of Cups finds the sweetness of before, the Six of Swords crosses to a calmer shore. The Lovers are the 6 of the happy choice: union — and the choice it implies.
 
 {{% six %}}

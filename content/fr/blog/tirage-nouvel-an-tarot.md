@@ -35,7 +35,7 @@ Certains ajoutent une carte de l’année collective, à partir des chiffres du 
 
 {{< cards "ar11 ar02" >}}
 
-[La Justice](/fr/bibliotheque/cartes-tarot/la-justice/) est assise entre deux colonnes, une épée levée d’une main, une balance dans l’autre : peser, décider, assumer les conséquences. Le 2, dans [mon tableau de numérologie](/fr/bibliotheque/numerologie/chiffre-2/), c’est la coopération entre deux parties, le contrat, le lien ; son conseil est de lire le contrat et de peser le pour et le contre, son moins, l’entêtement. La Grande Prêtresse ajoute ce qui ne se dit pas : l’eau dormante, la face cachée de la lune. Ensemble : une année pour des accords passés les yeux ouverts.
+[La Justice](/fr/bibliotheque/cartes-tarot/la-justice/) est assise entre deux colonnes, une épée levée d’une main, une balance dans l’autre : peser, décider, assumer les conséquences. Le 2, dans [mon tableau de numérologie](/fr/bibliotheque/numerologie/chiffre-2/), c’est la coopération entre deux parties, le contrat, le lien ; il conseille de lire chaque ligne avant de signer et de faire les comptes des deux côtés ; son moins, l’entêtement. La Grande Prêtresse ajoute ce qui ne se dit pas : l’eau dormante, la face cachée de la lune. Ensemble : une année pour des accords passés les yeux ouverts.
 
 Cette carte est la même pour tout le monde : prenez-la comme un sujet de conversation, pas comme votre horoscope. Pour quelque chose de personnel, faites la même addition avec votre date d’anniversaire. Né le 14 juillet ? 1 + 4 + 0 + 7 + 2 + 0 + 2 + 7 = 23 ; au-delà de 21, on réduit : 2 + 3 = 5, le Hiérophante. [Comment on calcule sa carte de naissance](/fr/blog/carte-de-naissance-tarot/) va plus loin.
 
@@ -47,7 +47,7 @@ Le Dix d’Épées en mars ne veut donc pas dire « mars sera une catastrophe »
 
 **Une carte du mois est une question que vous emportez dans le mois, pas un rendez-vous que le mois devrait honorer.**
 
-Et certains mois ne devraient pas être interrogés du tout. « Serai-je enceinte en juin ? », « L’argent arrivera-t-il avant l’été ? » : ces questions viennent de l’espoir et de l’inquiétude, et je comprends les deux. Les cartes ne sont pas le bon outil ; pour ce mois-là, une question plus douce serait « qu’est-ce qui m’aide à traverser l’attente ? ».
+Et certains mois ne devraient pas être interrogés du tout. « Serai-je enceinte en juin ? », « L’argent arrivera-t-il avant l’été ? » : ces questions viennent de l’espoir et de l’inquiétude, et je comprends les deux. Un tirage les servirait mal ; pour ce mois-là, je poserais plutôt : « qu’est-ce qui rendrait l’attente plus légère ? ».
 
 ## Un exemple : le premier trimestre 2027 {#exemple}
 

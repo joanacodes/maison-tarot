@@ -23,7 +23,7 @@ Mélangez, tirez trois cartes, posez-les de gauche à droite.
 
 Il est populaire parce qu’il est clair — un début, un milieu, une fin — et il apprend à voir trois cartes comme une seule histoire plutôt que trois significations séparées.
 
-Il a deux points faibles. La carte du passé vous dit souvent ce que vous savez déjà, ce qui donne une impression de justesse sans prouver grand-chose : vous la lisez à travers vos propres souvenirs. Et la carte du futur aspire toute l’attention. On survole les deux premières pour arriver à la troisième, puis on attend qu’elle se réalise au lieu de faire quoi que ce soit. Il m’arrive de lire l’avenir, mais **la meilleure façon de s’assurer un avenir agréable, c’est de s’ancrer dans le présent.**
+Il a deux points faibles. La carte du passé vous dit souvent ce que vous savez déjà, ce qui donne une impression de justesse sans prouver grand-chose : vous la lisez à travers vos propres souvenirs. Et la carte du futur aspire toute l’attention. On survole les deux premières pour arriver à la troisième, puis on attend qu’elle se réalise au lieu de faire quoi que ce soit. L’avenir, il m’arrive de le lire ; mais **c’est en habitant pleinement le présent qu’on se prépare un avenir heureux** ([ma façon de lire plutôt que de prédire](/fr/blog/le-tarot-predit-il-lavenir/)).
 
 ## La version qui marche mieux : trois cartes au présent {#trois-au-present}
 
@@ -39,17 +39,17 @@ Le tarot n’est pas une autorité : la troisième carte suggère, et c’est vo
 
 ## Un tirage en trois cartes, pas à pas {#exemple}
 
-Imaginons que quelqu’un s’assoie, ne vous dise rien, et tire le Cinq de Bâtons, le Huit d’Épées et le Six de Coupes.
+Exemple : sans un mot sur sa situation, une personne retourne le Cinq de Bâtons, le Huit d’Épées et le Six de Coupes.
 
 {{< cards "wa05 sw08 cu06" >}}
 
 Ce qui est là : le Cinq de Bâtons — cinq jeunes gens armés de bâtons qui ont l’air de se battre, sans aucune coordination. Le Feu, le chiffre 5 : le conflit, l’essai, beaucoup d’énergie et aucun accord sur l’endroit où la mettre.
 
-Ce qui bloque : le [Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/) — une femme aux yeux bandés, attachée sans serrer, huit épées plantées autour d’elle, un château sur une colline derrière. L’Air, le chiffre 8. Dans mes notes, c’est être prisonnière de soi-même alors qu’on a tous les outils : le bandeau peut tomber. Le blocage est une pensée, pas un mur.
+Ce qui bloque : le [Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/) — une femme aux yeux bandés, attachée sans serrer, huit épées plantées autour d’elle, un château sur une colline derrière. L’Air, le chiffre 8. Dans mes notes, cette carte décrit une prison bâtie par soi-même, avec pourtant tout le nécessaire pour en sortir — et ce bandeau-là s’enlève. Le blocage est une pensée, pas un mur.
 
 Ce que vous pouvez faire : le Six de Coupes — deux enfants dans un jardin de village, l’un tend à l’autre une coupe pleine de fleurs blanches, toute la scène dans des jaunes chauds. L’Eau, le chiffre 6 : prendre du temps pour soi, l’enfance, l’harmonie. Et le jaune, dans ma grille des couleurs, c’est la joie et l’enfant intérieur.
 
-En lisant la ligne : le Feu, puis l’Air, puis l’Eau — le bruit, puis une pensée, puis un sentiment. Les nombres 5, 8, 6 : le conflit, le point de blocage, la respiration. La phrase à voix haute : « Il y a beaucoup de bruit autour de vous et chacun tire de son côté ; ce qui vous retient, c’est l’idée que vous ne pouvez pas bouger ; cette semaine, faites quelque chose de petit et de doux pour vous, le genre de chose que vous faisiez enfant. »
+En lisant la ligne : le Feu, puis l’Air, puis l’Eau — le bruit, puis une pensée, puis un sentiment. Les nombres 5, 8, 6 : le conflit, le point de blocage, la respiration. Résumé pour la personne : « Ça s’agite beaucoup autour de vous et chacun tire de son côté ; ce qui vous retient, c’est l’idée que vous ne pouvez pas bouger ; cette semaine, faites quelque chose de petit et de doux pour vous, le genre de chose que vous faisiez enfant. »
 
 Puis demandez si ça résonne. Si non, dites-le et notez-le : il n’y a pas de [quatrième carte pour rattraper un raté](/fr/blog/carte-de-clarification-tarot/).
 
@@ -74,7 +74,7 @@ Vous avez lu la ligne sans une seule position. [Le guide des associations de car
 1. Écrivez les trois positions sur un bout de papier : ce qui est là, ce qui bloque, ce que je peux faire.
 2. Mélangez, tirez trois cartes, posez-les de gauche à droite.
 3. Avant tout sens, nommez l’élément, le nombre et la couleur principale de chaque carte.
-4. Dites une seule phrase pour toute la ligne, à voix haute.
+4. Résumez la ligne entière en une phrase, et prononcez-la.
 5. Notez-la dans votre [carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) et relisez-la demain soir.
 
 Quand trois cartes commencent à vous venir naturellement, la [croix celtique](/fr/blog/croix-celtique-tirage/) est la grande version de la même idée — et il existe une façon plus douce d’y entrer que de poser les dix cartes d’un coup.

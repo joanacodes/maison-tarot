@@ -60,9 +60,9 @@ Here's what the decan adds to three cards I have my own notes on.
 
 {{< cards "cu05 sw08 cu06" >}}
 
-The [Five of Cups](/library/tarot-cards/five-of-cups/) is Mars in Scorpio. In my notes it's the heaviest card in the deck: losing, dark emotion, alone with your problems. Mars adds heat, the anger that sits inside grief; Scorpio adds attachment. It hurts this much because it mattered this much. As I write, on 24 October, the Sun has just entered Scorpio, which by this table puts us in the Five of Cups decan until about 1 November: ten days to look at what spilled, and at the two cups still standing. What else this season is said to bring is in [Scorpio season tarot](/blog/scorpio-season-tarot/).
+The [Five of Cups](/library/tarot-cards/five-of-cups/) is Mars in Scorpio. My notes put it at the lowest point of the whole deck: something lost, a black mood, and the weight carried alone. Mars adds heat, the anger that sits inside grief; Scorpio adds attachment. It hurts this much because it mattered this much. As I write, on 24 October, the Sun has just entered Scorpio, which by this table puts us in the Five of Cups decan until about 1 November: ten days to look at what spilled, and at the two cups still standing. What else this season is said to bring is in [Scorpio season tarot](/blog/scorpio-season-tarot/).
 
-The Eight of Swords is Jupiter in Gemini. My note: a prisoner of yourself while you hold every tool, and you can take off the blindfold. Jupiter enlarges; Gemini's verb is “I think”. Together: a mind that has grown too many thoughts to see the way out.
+The Eight of Swords is Jupiter in Gemini. My note: a cell of your own making while every tool to open it is already yours, and nothing but you keeps the blindfold on. Jupiter enlarges; Gemini's verb is “I think”. Together: a mind that has grown too many thoughts to see the way out.
 
 The Six of Cups is the Sun in Scorpio. My note: taking time for yourself, childhood, flowering again. The Sun lighting up Scorpio's depths reads as warmth found in old, deep places — a memory, a person from long ago.
 

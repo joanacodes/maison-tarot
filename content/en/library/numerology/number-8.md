@@ -59,7 +59,7 @@ gallery:
 ---
 ## What 8 says {#definition}
 
-**8 is empire (4 exalted).** Legacy, assured stability, prosperity. Eight is the empire — 4 exalted, structure become power. In the [cycle of numbers](/library/numerology/) it comes after 7 and prepares 9.
+**8 is empire (4 exalted).** Legacy, assured stability, prosperity. Eight is the empire — 4 exalted, structure become power. After 7's negotiation comes 8's empire, then 9's home stretch: [the cycle of ten](/library/numerology/) is nearly complete.
 
 ## The advice of 8 {#advice}
 
@@ -81,6 +81,6 @@ Instagram, now at Facebook, has become an empire generating billions a year. It'
 
 ## In a reading {#reading}
 
-An 8 in a spread says: **it's solid, and it lasts.** The Eight of Pentacles works piece after piece, the Eight of Wands flies — speed mastered — the Eight of Cups leaves what's built to look for something else, the Eight of Swords thinks itself prisoner of what it built. Strength is the 8 of inner mastery: the gentleness that holds the lion.
+An 8 is the card that tells you **it's solid, and it lasts.** The Eight of Pentacles works piece after piece, the Eight of Wands flies — speed mastered — the Eight of Cups leaves what's built to look for something else, the Eight of Swords thinks itself prisoner of what it built. Strength is the 8 of inner mastery: the gentleness that holds the lion.
 
 {{% six %}}

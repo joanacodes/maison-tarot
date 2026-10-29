@@ -60,7 +60,7 @@ gallery:
 ---
 ## Ce que dit le 6 {#definition}
 
-**Le 6, c’est expansion (le 3 exalté).** Réussite, triomphe, vitesse décuplée. Le 6 est l’expansion — le 3 exalté, la machine qui non seulement tourne, mais accélère. Dans le [cycle des nombres](/fr/bibliotheque/numerologie/), il vient après le 5 et prépare le 7.
+**Le 6, c’est expansion (le 3 exalté).** Réussite, triomphe, vitesse décuplée. Le 6 est l’expansion — le 3 exalté, la machine qui non seulement tourne, mais accélère. Placé entre l’épreuve du 5 et la pause du 7, il marque le moment où [le cycle complet](/fr/bibliotheque/numerologie/) prend de la vitesse.
 
 ## Le conseil du 6 {#conseil}
 
@@ -82,6 +82,6 @@ Facebook décide d’investir. L’épreuve du 5 est passée, et ce qui la mena�
 
 ## En lecture {#lecture}
 
-Un 6 dans un tirage dit : **ça réussit, et ça va vite.** Le Six de Bâtons défile en vainqueur, le Six de Pentacles a assez pour donner, le Six de Coupes retrouve la douceur d’avant, le Six d’Épées traverse vers une rive plus calme. Les Amoureux sont le 6 du choix heureux : l’union — et le choix qu’elle implique.
+Le message d’un 6 tient en une phrase : **ça réussit, et ça va vite.** Le Six de Bâtons défile en vainqueur, le Six de Pentacles a assez pour donner, le Six de Coupes retrouve la douceur d’avant, le Six d’Épées traverse vers une rive plus calme. Les Amoureux sont le 6 du choix heureux : l’union — et le choix qu’elle implique.
 
 {{% six %}}

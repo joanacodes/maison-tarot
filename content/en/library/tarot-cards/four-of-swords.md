@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/sw04.webp
 h1: Four of Swords — <em>four</em>, Air
-lede: 'Before looking up what Four of Swords “means”, look at what you already have:
-  four, the element Air, Jupiter in Libra. You’re reading the card. The number says
-  four — foundations, stability; the element says the mind, what you decide. Lay the
-  two over each other, add the colours, and the card is already talking — the rest
-  of the page shows you how.'
+lede: 'In a quiet chapel, an armoured figure lies on a tomb with palms pressed together, swords hung above him and one laid along the stone. When did you last let yourself stop?'
 related:
 - /library/numerology
 - /library/four-elements/air-element
@@ -46,11 +42,11 @@ Inside a church or a chapel, a knight lies on his back on a stone tomb, eyes clo
 
 Three swords hang on the wall above him, points down, and his joined hands point up towards them. A fourth sword lies along the side of the tomb, flat, as if set down. In the top corner, a stained-glass window — the only bright patch on the card, red, blue, yellow and green — shows a standing figure bending towards a smaller one who kneels. The rest is pale wall. No movement, no landscape, no open door.
 
-The drawing is about **a deliberate, protected stop: the swords are put away, for now.**
+The picture amounts to **a deliberate, protected stop: the swords are put away, for now.**
 
 ## By number: four {#number}
 
-Four is “two exalted”: the contract has been signed and now it holds — structure, the fruit of your work. In my notes, its advice is to stay flexible, and its minus is carrying on when you should stop. The Four of Swords is the four that has stopped. After the cut of the Three, the structure becomes a frame for rest: four walls, a tomb, a pause that holds you. At this stage Instagram had a shape, a team and habits. [Number 4](/library/numerology/number-4/) can protect or confine; this card is the protective version, as long as the stop stays a stop and doesn’t become a hiding place.
+Four is “two exalted”: the contract has been signed and now it holds — structure, the fruit of your work. My notes ask a 4 to stay flexible, and warn against pushing on when it’s time to halt. The Four of Swords is the four that has stopped. After the cut of the Three, the structure becomes a frame for rest: four walls, a tomb, a pause that holds you. At this stage Instagram had a shape, a team and habits. [Number 4](/library/numerology/number-4/) can protect or confine; this card is the protective version, as long as the stop stays a stop and doesn’t become a hiding place.
 
 ## By element: Air {#element}
 
@@ -62,15 +58,15 @@ Mostly pale: off-white and [grey](/library/tarot-colours/grey/) walls, the grey 
 
 ## By astrology: Jupiter in Libra {#astrology}
 
-In the Golden Dawn tradition, the Four of Swords is [Jupiter](/library/astrology/jupiter/) in the third decan of Libra. Jupiter is expansion and generosity; Libra is balance. Together: balance granted generously — time, space, a truce long enough to recover. Jupiter’s own warning is excess: a rest that keeps expanding until it becomes avoidance. An optional lens; the number and the element already carry the card.
+[Jupiter](/library/astrology/jupiter/) ruling the closing decan of Libra: the Golden Dawn’s choice for this card. Jupiter is expansion and generosity; Libra is balance. Between them, balance is granted generously — time, space, a truce long enough to recover. Jupiter’s own warning is excess: a rest that keeps expanding until it becomes avoidance. The tomb and the hung swords carry the card even if you never look at a chart.
 
 ## In a reading {#reading}
 
 Upright, the Four of Swords is rest: a break, a retreat, sleep, a time-out after a hard stretch. Sometimes it’s literally a holiday; more often it’s permission to stop thinking about something for a while.
 
-Some people fear the card because of the tomb, and I understand why. It doesn’t announce a death or an illness: the hands are joined, the swords are hung up, and the subject is rest. If a health worry is behind the question, that one belongs with a doctor.
+Some people fear the card because of the tomb, and I understand why. The tomb isn’t a forecast of death or illness: the hands are joined, the swords are hung up, and the subject is rest. If a health worry is behind the question, that one belongs with a doctor.
 
-Reversed, the pause goes wrong. Slowed down: you can’t rest, the swords keep coming off the wall, sleep won’t come. In excess: the retreat that has lasted too long, the person who stopped and can’t remember how to start again.
+Reversed, the stop doesn’t work. Either rest won’t come — the swords keep coming off the wall, sleep stays away — or the retreat has lasted too long, and the person who stopped can’t remember how to start again.
 
 Next to [the Hanged Man](/library/tarot-cards/the-hanged-man/), the pause is long and deliberate, and a new angle will come out of the stillness. Next to the [Four of Cups](/library/tarot-cards/four-of-cups/), rest has tipped into boredom: something is being offered and not seen. Next to the [Ten of Wands](/library/tarot-cards/ten-of-wands/), the reason for the rest is obvious — too much carried for too long.
 
@@ -82,6 +78,6 @@ Next to [the Hanged Man](/library/tarot-cards/the-hanged-man/), the pause is lon
 
 Think of someone shuffling, cutting and turning up the Four of Swords, then the [Eight of Wands](/library/tarot-cards/eight-of-wands/). Four then eight: a structure at rest, then a structure in full motion. Air then Fire: the thought set aside, then speed and impulse. Pale yellow and grey, then eight wands flying through an open sky.
 
-You might say: “You’re in a pause that won’t last much longer. Things are about to move fast, so this is the rest to take now.”
+Stillness, then wands in flight, which I’d phrase as: “You’re in a pause that won’t last much longer. Things are about to move fast, so this is the rest to take now.”
 
-Then check: “Are you on a break at the moment, or about to go back to something busy?” If the answer is no on both counts, it’s a miss; don’t bend the reading to save it. To practise this kind of pairing, one card a day and then two, the [learning path](/learn-tarot/) takes it step by step.
+Then ask whether they’re on a break at the moment, or about to go back to something busy. No on both counts means the sentence missed; don’t bend the reading to save it. To practise this kind of pairing, one card a day and then two, the [learning path](/learn-tarot/) takes it step by step.

@@ -19,7 +19,7 @@ Les signes sont souvent minuscules. La personne vous renvoie vos mots comme un v
 
 Ma façon de lire me donne toutes les raisons de les guetter. La personne ne me dit rien avant que je commence : je ne sais donc pas où sont les points sensibles, et une carte peut tomber sur l’un d’eux sans que j’aie pu le voir. Ce n’est pas une raison pour lire plus timidement. C’est une raison pour regarder la personne d’aussi près que les cartes ; [la règle du silence](/fr/blog/regle-du-silence-tarot/) vient avec cette responsabilité.
 
-Souvent, c’est moins la carte que votre phrase. Dans mes notes, le Cinq de Coupes est la carte la plus négative du lot : la perte, l’émotion sombre, se retrouver seul avec ses problèmes. C’est une note honnête pour un carnet. Dite telle quelle à quelqu’un, sans le reste, elle peut sonner comme une condamnation.
+Souvent, c’est moins la carte que votre phrase. Mes notes placent le Cinq de Coupes au plus sombre du jeu, en trois mots secs : perte, chagrin noir, solitude. C’est une note honnête pour un carnet. Dite telle quelle à quelqu’un, sans le reste, elle peut sonner comme une condamnation.
 
 {{< cards "cu05" >}}
 
@@ -39,7 +39,7 @@ Baissez la voix. Posez les cartes un instant. Puis revenez à la carte, plus len
 
 Reprenons le Cinq de Coupes. Le mot-clé, c’était la perte. Par son nombre, la carte s’élargit : le cinq, dans mon [tableau des nombres](/fr/bibliotheque/numerologie/chiffre-5/), c’est le conflit et l’essai, ne pas avoir peur d’échouer, accepter ses erreurs, faire avec ce qu’il reste. Puis l’image : une silhouette en manteau sombre, les yeux baissés sur trois coupes renversées, et derrière elle deux coupes encore debout, et un pont sur la rivière. La version lente : « Vous regardez ce qui s’est renversé. Derrière vous, deux coupes tiennent encore debout, et il y a un pont pour traverser. Par quoi voulez-vous commencer ? » Même carte, même vérité, avec une porte dedans.
 
-Ou le Neuf d’Épées : une silhouette assise dans son lit, le visage dans les mains, neuf épées alignées dans le noir derrière elle. Entendue seule, c’est un cauchemar. Ma note y lit la sortie d’un cauchemar, la fin d’une longue période troublée, avec une protection au-dessus de soi. Ce n’est pas du sucre. C’est la moitié de la carte que vous n’aviez pas encore dite.
+Ou le Neuf d’Épées : une personne redressée sur sa couche, le front dans les paumes, neuf lames empilées sur le fond noir. Entendue seule, c’est un cauchemar. Ma note dit l’inverse : on se dégage d’un cauchemar et d’une longue période de trouble, avec, au-dessus, quelque chose qui protège. Ce n’est pas du sucre. C’est la moitié de la carte que vous n’aviez pas encore dite.
 
 {{< cards "sw09" >}}
 
@@ -49,7 +49,7 @@ Décrire avant d’interpréter, c’est aussi la façon de bien dire une chose 
 
 Une fois le poids ajusté, rendez la carte à la personne pour qui vous l’avez lue. Une carte est une image ; la personne en face de vous connaît sa vie, et elle seule peut dire ce que l’image y signifie.
 
-Concrètement : « Voilà ce que je vois sur la carte. Quelle partie vous semble juste, et laquelle non ? » Puis écoutez, et laissez sa réponse mener. Imaginons qu’elle réponde : « La perte, c’est vrai, mais ce n’est pas mon couple, c’est mon travail. » Alors c’est ça, le tirage. Suivez-la là-bas et laissez votre première interprétation derrière vous. Si rien ne colle, dites-le et passez à autre chose. Environ un tirage sur dix rate, à mon décompte, et un tirage dur n’a pas plus de chances d’être juste qu’un tirage doux.
+Concrètement : « Voilà ce que je vois sur la carte. Quelle partie vous semble juste, et laquelle non ? » Puis écoutez, et laissez sa réponse mener. Imaginons qu’elle réponde : « La perte, c’est vrai, mais ce n’est pas mon couple, c’est mon travail. » Alors c’est ça, le tirage. Suivez-la là-bas et laissez votre première interprétation derrière vous. Si rien ne colle, dites-le et passez à autre chose. Mon carnet me donne tort environ une fois sur dix, et un tirage dur n’a pas plus de chances d’être juste qu’un tirage doux.
 
 Si vous la sentez prête à emporter votre phrase chez elle comme une consigne, dites-lui à voix haute que ce n’en est pas une.
 

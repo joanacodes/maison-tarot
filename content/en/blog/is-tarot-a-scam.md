@@ -62,7 +62,7 @@ To be fair to readers who earn their living this way: being paid isn’t a con. 
 
 The grey zone is pricing that rewards uncertainty: per question, per minute, subscriptions that renew while you’re still waiting for an answer. I explain how those models work in [tarot subscriptions and pay-per-question](/blog/tarot-subscriptions/).
 
-I’ll include myself here. In 2021 I [sold sage, candles and “channelled” cards](/blog/cleanse-tarot-deck/), and stopped because nothing in them improved a reading. Today I sell lessons and give readings away, because that’s the arrangement where I gain nothing from you needing me again: [what I charge for, and what I give away](/blog/what-i-charge-for/).
+I’ll include myself here. Sage, candles, supposedly “channelled” cards: [I sold all three in 2021](/blog/cleanse-tarot-deck/), and gave it up when I saw that not one of them sharpened a reading. Today I sell lessons and give readings away, because that’s the arrangement where I gain nothing from you needing me again: [how my lessons and free readings are set up](/blog/what-i-charge-for/).
 
 ## If you think you’ve been hooked {#if-hooked}
 

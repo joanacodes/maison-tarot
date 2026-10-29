@@ -51,12 +51,12 @@ And when readings start to feel flat, it’s usually the reader who is tired, no
 
 ## What I do instead: a break {#a-break}
 
-A break is my whole alternative to cleansing. Put the deck in a drawer for a few days, or a week, or until you miss it. If you find you’re reaching for it several times a day, or asking the same question in new words, the cards aren’t the problem; the habit is, and a break is the kindest way to see it. I never want tarot to become a circle of dependency, for me or for the people I read for, and I wish the same for you. I wrote more on [why quitting readings for a while helps](/blog/why-you-should-quit-tarot-reading/).
+A break is my whole alternative to cleansing. Tuck the cards out of sight for a few days, or a week, or until you miss them. If you find you’re reaching for it several times a day, or asking the same question in new words, the cards aren’t the problem; the habit is, and a break is the kindest way to see it. I never want tarot to become a circle of dependency, for me or for the people I read for, and I wish the same for you. I wrote more on [why quitting readings for a while helps](/blog/why-you-should-quit-tarot-reading/).
 
 Between two readings, a shuffle is enough, and there’s [no wrong way to do it](/blog/how-to-shuffle-tarot-cards/).
 
 ## If you’ve just bought a deck {#new-deck}
 
-You don’t need to cleanse it before it will work. Get to know it instead: one card a day for a week, described out loud — what’s on it, what you see, what comes to you. By the end of the week the deck will feel like yours, which is what most cleansing rituals are trying to give you. The whole routine is in [how to get to know a new deck](/blog/new-tarot-deck/).
+You don’t need to cleanse it before it will work. Get to know it instead: one card a day for a week, talked through aloud, from the plain details of the picture to whatever it stirs in you. By the end of the week the deck will feel like yours, which is what most cleansing rituals are trying to give you. The whole routine is in [how to get to know a new deck](/blog/new-tarot-deck/).
 
 If you love your ritual, keep it, for the pause it gives you. Don’t spend much on it, and don’t let anyone sell you the idea that your cards need protecting from you.

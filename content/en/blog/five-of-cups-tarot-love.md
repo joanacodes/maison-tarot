@@ -9,19 +9,19 @@ tags: ["Five of Cups love", "Five of Cups reversed love", "Five of Cups relation
 image: "covers/five-of-cups-tarot-love.jpg"
 imageAlt: "The Five of Cups card from the Rider-Waite-Smith deck lying face up on a plain wooden table."
 imagePrompt: "The Five of Cups card from the 1909 Rider-Waite-Smith deck lying upright on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, the card in its original colours, warm natural colours around it that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "In a love reading, the Five of Cups describes grief: a break-up, a disappointment, a hope that didn’t work out. In my notes it’s the heaviest card in the deck — losing, a dark emotion, being alone with it. But the drawing also shows two cups still standing behind the grieving figure, and a bridge over the river. Read through its lenses — five, the number of trial, and Water, the element of feeling — it describes how someone is carrying a loss and where they’re looking. It never says what another person feels or will do."
+summary: "In a love reading, the Five of Cups describes grief: a break-up, a disappointment, a hope that didn’t work out. No card in my notes weighs more: loss, a sombre feeling, and no one to share the trouble with. But the drawing also shows two cups still standing behind the grieving figure, and a bridge over the river. Read through its lenses — five, the number of trial, and Water, the element of feeling — it shows the way a loss is being carried, and which way the person faces. It never says what another person feels or will do."
 ---
-The Five of Cups is the heaviest card in the deck, by my own notes: losing something, a dark emotion, being alone with your problems. In a love reading it describes grief over something that spilled — a break-up, a disappointment, a hope that didn’t hold. It also shows, in the same drawing, two cups that are still standing, and I’d like to explain the card gently enough that you can see both.
+My notes give the Five of Cups the darkest place among all 78 cards: something lost, sorrow, and facing it on your own. In a love reading it describes grief over something that spilled — a break-up, a disappointment, a hope that didn’t hold. It also shows, in the same drawing, two cups that are still standing, and I’d like to explain the card gently enough that you can see both.
 
 {{< cards "cu05" >}}
 
 ## A five in Water: losing, and what’s left {#five-in-water}
 
-[Five](/library/numerology/number-5/), in my notes, is trial: conflict, making do with what’s left, not being afraid to fail. Its advice is to be honest with yourself and with the situation; its minus is denial. In this card the denial isn’t of the loss — the figure knows exactly what spilled. It’s of the other half: what’s still there.
+[Five](/library/numerology/number-5/), in my notes, is trial: conflict, making do with what’s left, not being afraid to fail. Its advice is honesty, towards yourself and about what’s happening; its minus is denial. In this card the denial isn’t of the loss — the figure knows exactly what spilled. It’s of the other half: what’s still there.
 
-The element is Water: emotions, relationships, what carries you when you let it and can drown you when you fight it. Moving water is strong emotion, and the river here is moving, past the figure, towards somewhere else. The energy is feminine — inward, out of sight — and so is most grieving.
+The element is Water: emotions, relationships, a current that can carry you along or close over your head. Moving water is strong emotion, and the river here is moving, past the figure, towards somewhere else. The energy is feminine — inward, out of sight — and so is most grieving.
 
-So in love, this is a card about how someone is carrying a loss, not about what happens next. One detail of the drawing matters: two cups are still standing behind the figure, where they can’t see them. The colours and Mars in Scorpio are on [the Five of Cups page](/library/tarot-cards/five-of-cups/).
+So in love, this is a card about living with a loss, not about what happens next. Look behind the figure: there are two upright cups there, out of their sight. The colours and Mars in Scorpio are on [the Five of Cups page](/library/tarot-cards/five-of-cups/).
 
 ## What spilled, depending on where you stand {#what-spilled}
 
@@ -33,13 +33,13 @@ When you’re together, it often describes a disappointment inside the relations
 
 ## “Will they come back?” — asked in front of the spilled cups {#come-back-question}
 
-It’s the question almost everyone brings with this card, and it makes complete sense. When you’re standing in front of the spilled cups, you want someone to tell you they’ll be filled again.
+Most people who draw this card ask it, and of course they do. When you’re standing in front of the spilled cups, you want someone to tell you they’ll be filled again.
 
-I don’t read on what someone else will feel or do, and here’s why. The other person isn’t in the room; their choice is theirs to make and to say. And the question keeps your eyes exactly where the figure’s are — on the spill. I’ve written more about [what “will they come back?” does to you](/blog/will-they-come-back-tarot/).
+I don’t read on what someone else will feel or do, and here’s why. Your ex isn’t part of this reading; their choice is theirs to make and to say. And the question keeps your eyes exactly where the figure’s are — on the spill. I’ve written more about [what “will they come back?” does to you](/blog/will-they-come-back-tarot/).
 
-A gentler question is: “What’s still standing for me, and who can I lean on this week?” Or: “What do I need to grieve this properly?” Those have answers you can act on tonight.
+A gentler question is: “What’s still standing for me, and who can I lean on this week?” Or: “What do I need to grieve this properly?” You can do something with those tonight.
 
-And if you notice you’re drawing cards on the same loss every evening, put the deck away for a while. Grief needs people more than it needs spreads, and a card drawn at midnight on the same question rarely tells you anything the last one didn’t.
+And if you notice you’re drawing cards on the same loss every evening, set the deck aside for a while. Grief needs people more than it needs spreads, and a midnight card on the same question seldom adds anything to the last one.
 
 ## When the Star or the Eight of Cups comes next {#what-comes-next}
 
@@ -51,11 +51,11 @@ Next to the Two of Cups, the two standing cups become a pair. In a couple, there
 
 Next to the Eight of Cups, the figure walks away from cups that are still upright. A decision to leave, made after the grief rather than in the heat of it — often a kinder departure than the one made the night of the argument.
 
-Next to the Star, water is being poured again. Hope coming back after a loss — slowly, and from your own hands. [The Star in love](/blog/star-tarot-love/) picks up where this card leaves off.
+Next to the Star, someone is pouring again: hope returning after the loss, slowly, from your own hands. [The Star in love](/blog/star-tarot-love/) picks up where this card leaves off.
 
 ## Turning round, or keeping the cloak on {#reversed}
 
-Reversed, the same card slows down or goes too far.
+Reversed, the grief either eases or digs in.
 
 In the kind direction, the figure starts to turn round. They notice the two cups: the friend who keeps calling, the first Sunday that feels lighter, a laugh that takes them by surprise. Grief doesn’t end there, but it starts to move.
 
@@ -65,4 +65,4 @@ In the other direction, regret becomes a place to live. Rereading old messages e
 
 Take a sheet of paper and draw a line down the middle. On the left, what spilled — name it plainly. On the right, what’s still standing: people, habits, parts of you. Don’t force the right column to be longer than the left. Make sure it exists.
 
-When you want to go further, the [gentle spread for after a breakup](/blog/breakup-tarot-spread/) does the same work, one card at a time.
+When you want to go further, [a five-card spread for the first weeks apart](/blog/breakup-tarot-spread/) turns those two columns into positions you can lay out.

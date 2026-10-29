@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/wa04.webp
 h1: Quatre de Bâtons — <em>quatre</em>, le Feu
-lede: 'Avant de chercher ce que « signifie » Quatre de Bâtons, regardez ce que vous
-  avez déjà : quatre, l’élément Feu, Vénus en Bélier. Vous lisez la carte. Le nombre
-  dit quatre — les fondations, la stabilité ; l’élément dit l’élan, ce qu’on lance.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Sous une guirlande tendue entre quatre bâtons, deux silhouettes lèvent leurs bouquets devant un château aux toits rouges, dans un ciel tout jaune. Qu’avez-vous bâti qui mérite une fête, et qui laissez-vous entrer ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -53,7 +49,7 @@ Personne ne se bat, personne ne travaille, et personne ne tient les bâtons : il
 
 [Quatre](/fr/bibliotheque/numerologie/chiffre-4/), c’est le 2 exalté : après le contrat, tout va bien — stable, structuré, le fruit de votre travail. Dans mes propres notes, c’est le Quatre de Bâtons que je donne en exemple pour ce nombre : les fondations, le mariage, fonder une famille. Quatre bâtons plantés, ce sont les quatre coins d’une maison.
 
-Dans l’histoire d’Instagram, le 4, c’est le succès rapide qui donne à l’entreprise une forme, une équipe, des habitudes. Ça tient. Le conseil du 4 — rester souple, ouvert à ce qu’on n’avait pas prévu — vaut aussi pour la maison : laissez de la place à qui se présentera. Son revers, c’est de continuer quand il faudrait s’arrêter, ou de s’entêter sur ce à quoi la maison doit ressembler. La guirlande le rappelle : elle fanera, et il faudra la remplacer. La fête n’a jamais été les murs.
+Au 4, le succès rapide d’Instagram lui donne sa première forme stable, avec ses équipes et ses rituels. Ça tient. Le conseil du 4 — rester souple, ouvert à ce qu’on n’avait pas prévu — vaut aussi pour la maison : laissez de la place à qui se présentera. Son revers : poursuivre alors que le moment est venu de s’arrêter, ou s’entêter sur ce à quoi la maison doit ressembler. La guirlande le rappelle : elle fanera, et il faudra la remplacer. La fête n’a jamais été les murs.
 
 ## Par l’élément : Feu {#element}
 
@@ -69,9 +65,9 @@ La guirlande ajoute du [vert](/fr/bibliotheque/couleurs-tarot/vert/) et du rouge
 
 ## Par l’astrologie : Vénus en Bélier {#astrologie}
 
-Dans la tradition Golden Dawn, le Quatre de Bâtons correspond à Vénus en Bélier, troisième décan du signe. [Vénus](/fr/bibliotheque/astrologie/venus/), c’est la façon dont vous vous liez ; le Bélier, c’est la première impulsion, « je suis ». Ensemble : un amour qui agit, une attirance qui veut être fêtée à voix haute — ça va bien aux guirlandes et aux bouquets levés.
+Vénus en Bélier, troisième décan du signe, c’est la part astrologique du Quatre de Bâtons chez la Golden Dawn. [Vénus](/fr/bibliotheque/astrologie/venus/), c’est la façon dont vous vous liez ; le Bélier, c’est la première impulsion, « je suis ». Ensemble : un amour qui agit, une attirance qui veut être fêtée à voix haute — ça va bien aux guirlandes et aux bouquets levés.
 
-Une clé en plus : elle ajoute de la chaleur au Feu de la carte, et le nombre comme le jaune disent déjà presque la même chose. [L’article sur les décans](/fr/blog/decans-tarot/) explique comment ils se répartissent.
+Une clé en plus, qui ajoute de la chaleur au Feu de la carte ; sans elle, les bouquets levés racontent presque la même chose. [L’article sur les décans](/fr/blog/decans-tarot/) explique comment ils se répartissent.
 
 ## En lecture {#lecture}
 
@@ -89,6 +85,6 @@ Renversé, la fête n’a pas lieu, ou a lieu sans joie : la maison qui ne devie
 
 Mettons que le Quatre de Bâtons sorte en premier, le Six de Coupes à côté, sans que la personne ait encore dit pourquoi elle est venue. Le nombre : quatre, puis six — quelque chose de construit et de stable, puis l’harmonie et du temps pour soi. L’élément : le Feu, puis l’Eau — la fête, puis les souvenirs. Les couleurs : le jaune du Quatre, puis la cour jaune du Six de Coupes, deux enfants en capuchon rouge, des coupes pleines de fleurs blanches. Deux fois du jaune : un bon moment.
 
-La phrase que je dirais à voix haute : « Il y a un rassemblement dans votre vie, récent ou à venir, qui vous ramène vers des gens d’avant — la famille, des amis d’enfance, l’endroit où vous avez grandi. Ça ressemble à un retour à la maison, et vous avez le droit d’en profiter. »
+J’en ferais cette phrase : « Un rassemblement, récent ou à venir, vous ramène vers des gens d’avant — la famille, des amis d’enfance, l’endroit où vous avez grandi. Ça ressemble à un retour à la maison, et vous avez le droit d’en profiter. »
 
 Ensuite, je demande s’il y a bien un rassemblement de ce genre, et lequel. Si personne ne revient et que rien ne se fête, la phrase a raté. S’entraîner sur des paires comme celle-ci, avec d’autres autour de la table, c’est à ça que servent les [ateliers](/fr/ateliers/).

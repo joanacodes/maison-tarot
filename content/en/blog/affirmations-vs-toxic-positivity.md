@@ -47,11 +47,11 @@ Five questions. You’ll usually know by the second.
 
 ## What tarot taught me about this {#tarot}
 
-Every card has a plus and a minus. It’s the first line of my card notes, and the best protection I know against painting every reading pink.
+The first line of my card notes gives each card an upside and a downside, and holding both in view is the best protection I know against painting every reading pink.
 
-Take [the Five of Cups](/library/tarot-cards/five-of-cups/), which I consider the most negative card in the deck: losing, a dark emotion, being alone with your problems. A toxic-positive reading jumps straight to the two cups still standing behind the figure. An honest one names the three spilled cups first, stays there long enough for the person to feel heard, and only then turns round.
+Take [the Five of Cups](/library/tarot-cards/five-of-cups/), the bleakest card of the 78 for me: a loss, a heavy mood, and the sense of facing it with nobody beside you. A toxic-positive reading jumps straight to the two cups still standing behind the figure. An honest one names the three spilled cups first, stays there long enough for the person to feel heard, and only then turns round.
 
-The Nine of Swords works the same way: a long, troubled night, and protection above you that you can’t see yet. The Star is hope after a hard time — after, not instead of.
+The Nine of Swords works the same way: a long, troubled night, and protection above you that you can’t see yet. The Star’s hope arrives once the worst has passed: it follows the hard stretch, it doesn’t replace it.
 
 {{< cards "cu05 sw09 ar17" >}}
 
@@ -64,7 +64,7 @@ The Nine of Swords works the same way: a long, troubled night, and protection ab
 3. Then name its plus.
 4. Write one sentence that holds both, in the first person, believable today.
 
-An example. [The Eight of Swords](/library/tarot-cards/eight-of-swords/), in my notes, is being a prisoner of yourself while you have every tool: the blindfold can come off. An honest affirmation from it: “I feel stuck, and I have more tools than I’m using today.” From any card numbered seven, whose advice is that everything is temporary: “This is hard, and it won’t stay this way.”
+An example. [The Eight of Swords](/library/tarot-cards/eight-of-swords/), in my notes, is a trap you’ve built yourself while everything you need to get out is already in your hands, and the blindfold is yours to remove. An honest affirmation from it: “I feel stuck, and I have more tools than I’m using today.” From any card numbered seven, whose advice is that everything is temporary: “This is hard, and it won’t stay this way.”
 
 The honest limit: affirmations don’t change your circumstances, and they don’t replace a person. If a feeling is too heavy to sit beside any sentence, that’s [a door for a therapist](/disclaimers/#therapy), not a failure of your positivity.
 

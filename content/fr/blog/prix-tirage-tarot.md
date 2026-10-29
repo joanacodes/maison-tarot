@@ -28,7 +28,7 @@ Vous ne trouverez pas de fourchette de prix sur cette page. Les prix publiés so
 
 ## Ce que paie un prix honnête {#ce-que-paie-un-prix}
 
-Du temps, d’abord, et plus que ce que vous voyez. Une heure de tirage, c’est de la préparation avant, des notes après, et du repos. Interpréter fatigue ; il m’arrive de m’arrêter au bout de deux heures de lectures, par prudence, et quelqu’un qui travaille à la journée doit intégrer dans son prix les heures qu’il ne peut pas vendre.
+Du temps, d’abord, et plus que ce que vous voyez. Une heure de tirage, c’est de la préparation avant, des notes après, et du repos. Interpréter fatigue, au point que deux heures d’affilée suffisent parfois à me faire ranger le jeu ; quelqu’un qui travaille à la journée doit donc intégrer dans son prix les heures qu’il ne peut pas vendre.
 
 De l’expérience, mais pas celle qui se compte en années. Ce qui compte, c’est de savoir si la personne a vérifié son propre travail. Quelqu’un qui tient un carnet — ce qu’il a dit d’un côté, ce qui a été confirmé de l’autre — connaît son taux de ratés. Quelqu’un qui n’en tient pas devine sa propre justesse, et fait payer la devinette.
 
@@ -45,7 +45,7 @@ Certaines choses se vendent comme un supplément et ne devraient pas :
 - *L’urgence.* « Je vois quelque chose de grave, rappelez-moi aujourd’hui. »
 - *Les objets et les rituels.* Bougies, bains, « nettoyages » ajoutés après la lecture.
 - *Le désenvoûtement.* C’est [la plus vieille arnaque du métier](/fr/blog/malediction-voyance-arnaque/), et aucun tirage n’en a jamais besoin.
-- *Une promesse de justesse.* Personne ne lit juste à cent pour cent. À mon propre décompte, environ un tirage sur dix rate, et je me méfierais de quiconque prétend ne jamais se tromper.
+- *Une promesse de justesse.* Aucun tarologue ne tombe juste à tous les coups ; mes carnets comptent un raté pour dix tirages environ, et quiconque prétend ne jamais se tromper mérite votre méfiance.
 
 ## Comment comparer deux prix {#comparer}
 
@@ -58,7 +58,7 @@ Certaines choses se vendent comme un supplément et ne devraient pas :
 
 ## Ce que je fais payer, et ce que je ne fais pas payer {#mes-prix}
 
-Je ne vends pas de tirages, donc je suis en dehors de ce marché. Je vends des cours — des séances individuelles d’une heure, des ateliers de trois heures pour douze personnes — et les tirages sont gratuits aux événements. Le détail est dans [ce que je fais payer et ce que je donne](/fr/blog/ce-que-je-fais-payer/), et la raison de ce choix, avec ce que l’argent fait à une pratique, dans [le tarot doit-il être gratuit ?](/fr/blog/commercialisation-du-tarot/).
+Je ne vends pas de tirages, donc je suis en dehors de ce marché. Je vends des cours — des séances d’une heure en tête-à-tête, des ateliers de trois heures pour douze personnes — et les tirages sont gratuits aux événements. Le détail est dans [ma page sur ce que je vends et ce que j’offre](/fr/blog/ce-que-je-fais-payer/), et j’explique pourquoi j’ai fait ce choix [dans un article sur le tarot devenu produit](/fr/blog/commercialisation-du-tarot/).
 
 Une limite honnête : aucune grille tarifaire ne vous dira ce qu’un tirage vaut pour vous. Ça dépend de ce que vous en faites ensuite, et un tirage n’est pas une raison d’agir.
 

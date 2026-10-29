@@ -8,7 +8,7 @@ weight: 7
 categories: ["Kabbale"]
 tags: ["Tiferet", "Kabbale et tarot", "Arbre de Vie", "Six du tarot", "Soleil", "sephirot"]
 h1: "Tiferet — la <em>Beauté</em>, le cœur de l’Arbre"
-lede: "Tiferet est la sixième sephirah : la beauté, l’équilibre, la compassion — le centre où le don et la limite se rencontrent. La Golden Dawn lui a donné les quatre Six, les Princes et le Soleil : une réussite qui dure parce qu’elle est en juste proportion."
+lede: "Tiferet est la sixième sephirah : la beauté, l’équilibre, la compassion — le centre où le don et la limite se rencontrent. Le tarot hermétique y place les quatre Six, les Princes et le Soleil : une réussite qui dure parce qu’elle est en juste proportion."
 related:
 - /bibliotheque/kabbale
 - /bibliotheque/kabbale/arbre-de-vie
@@ -17,7 +17,7 @@ related:
 - /bibliotheque/astrologie/soleil
 faq:
 - q: "Quelles cartes du tarot correspondent à Tiferet ?"
-  a: "Les quatre Six et, dans le système de la Golden Dawn, les quatre Princes. Avec le Rider-Waite-Smith, certains lecteurs y placent les Cavaliers, d’autres les Rois ; les pages de cartes de ce site suivent les Cavaliers."
+  a: "Les quatre Six, et les quatre Princes de la Golden Dawn. Avec le Rider-Waite-Smith, certains lecteurs y placent les Cavaliers, d’autres les Rois ; les pages de cartes de ce site suivent les Cavaliers."
 - q: "Pourquoi dit-on que Tiferet est le cœur de l’Arbre ?"
   a: "Elle se trouve au centre de la colonne du milieu, entre Hesed et Gevurah, qu’elle tient en équilibre. Sur l’Arbre de la Golden Dawn, un sentier la relie à toutes les autres sephirot, sauf Malkhout."
 gallery: []
@@ -28,7 +28,7 @@ Tiferet (תפארת) veut dire « beauté », parfois « gloire ». C’est la s
 
 Son travail, c’est l’équilibre. [Hesed](/fr/bibliotheque/kabbale/hesed/), à droite, donne sans compter ; [Gevurah](/fr/bibliotheque/kabbale/gevurah/), à gauche, pose la limite. Tiferet tient les deux ensemble : la Kabbale enseigne qu’un monde fondé sur la seule miséricorde, ou sur la seule rigueur, ne tiendrait pas. **Tiferet, c’est la beauté comme juste proportion : assez donné, assez retenu.** Pensez à la maîtresse de CM2 dont vous vous souvenez encore : chaleureuse, et capable de dire non.
 
-Sur le corps, c’est le torse et le cœur. La tradition la rattache à Jacob, après Abraham (Hesed) et Isaac (Gevurah) ; pendant Souccot, Jacob est l’invité du troisième jour. Les images de la Kabbale font aussi de Tiferet un fiancé, ou un prince, qui cherche l’union avec [Malkhout](/fr/bibliotheque/kabbale/malkhout/), la Shekhinah. Avec Hesed et Gevurah, elle ferme la [deuxième triade](/fr/bibliotheque/kabbale/arbre-de-vie/), que les schémas hermétiques appellent le triangle éthique.
+Sur le corps, c’est le torse et le cœur. On lui associe Jacob, après Abraham (Hesed) et Isaac (Gevurah) ; pendant Souccot, Jacob est l’invité du troisième jour. Les images de la Kabbale font aussi de Tiferet un fiancé, ou un prince, qui cherche l’union avec [Malkhout](/fr/bibliotheque/kabbale/malkhout/), la Shekhinah. Avec Hesed et Gevurah, elle ferme la [deuxième triade](/fr/bibliotheque/kabbale/arbre-de-vie/), que les schémas hermétiques appellent le triangle éthique.
 
 {{< tree-of-life highlight="tiferet" >}}
 
@@ -38,7 +38,7 @@ Sur le corps, c’est le torse et le cœur. La tradition la rattache à Jacob, a
 
 {{< cards "wa06 cu06 sw06 pe06" >}}
 
-| Carte | Titre Golden Dawn, traduit (décan) | Ce que Tiferet ajoute |
+| Carte | Titre (décan) | Ce que Tiferet ajoute |
 |---|---|---|
 | [Six de Bâtons](/fr/bibliotheque/cartes-tarot/six-de-batons/) | Seigneur de la Victoire (Jupiter en Lion) | une réussite qui se voit, et qu’il faut encore bien porter |
 | [Six de Coupes](/fr/bibliotheque/cartes-tarot/six-de-coupes/) | Seigneur du Plaisir (Soleil en Scorpion) | l’harmonie retrouvée, le cœur au repos |
@@ -59,15 +59,15 @@ Dans la cour, la troisième lettre du Nom, YHVH — Vav, l’Air de chaque séri
 
 ## Tiferet et l’astrologie : le Soleil {#astrologie}
 
-La Golden Dawn donne à Tiferet le [Soleil](/fr/bibliotheque/astrologie/soleil/). En comptant depuis la plus lente, après Saturne, Jupiter et Mars, le Soleil est la quatrième des sept planètes : le milieu de la liste, comme Tiferet est le milieu de l’Arbre.
+Au centre de l’Arbre, la Golden Dawn a mis le [Soleil](/fr/bibliotheque/astrologie/soleil/). En comptant depuis la plus lente, après Saturne, Jupiter et Mars, le Soleil est la quatrième des sept planètes : le milieu de la liste, comme Tiferet est le milieu de l’Arbre.
 
 Le Six de Coupes, Tiferet dans la série de l’Eau, est le Soleil en Scorpion. Deux enfants dans une vieille cour, des coupes pleines de fleurs blanches. Le Soleil y est une chaleur plutôt qu’un éclat : dans mes notes, du temps pour soi, l’enfance, refleurir.
 
 ## Tiferet dans un tirage {#tirage}
 
-Ce que Tiferet peut apporter, c’est une question : est-ce que ça tient parce que c’est équilibré ? Les Six sont des cartes agréables ; avec cette clé de lecture, elles montrent aussi ce qui fait tenir le plaisir debout.
+Tiferet demande si ça tient parce que c’est équilibré. Les Six sont des cartes agréables ; lues à travers elle, elles montrent aussi ce qui fait tenir le plaisir debout.
 
-Imaginons le Six de Bâtons à côté du Cinq d’Épées : un défilé de vainqueur, façon Champs-Élysées un soir de finale, à côté d’une bagarre gagnée aux dépens des autres. Avec Tiferet, la question n’est plus de savoir si la personne a gagné. C’est de savoir si sa victoire a la juste mesure qui la fera durer, et qui l’a payée.
+Posez le Six de Bâtons à côté du Cinq d’Épées : un défilé de vainqueur, façon Champs-Élysées un soir de finale, à côté d’une bagarre gagnée aux dépens des autres. Avec Tiferet, la question n’est plus de savoir si la personne a gagné. C’est de savoir si sa victoire a la juste mesure qui la fera durer, et qui l’a payée.
 
 ## Sources {#sources}
 

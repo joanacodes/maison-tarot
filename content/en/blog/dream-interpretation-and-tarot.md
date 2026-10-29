@@ -19,7 +19,7 @@ Dream interpretation is the practice of giving meaning to the images of a dream.
 
 The first is the dream dictionary: each symbol has a fixed meaning. Water is emotion, a house is the self, falling is losing control. The second is psychology. Freud, at the turn of the twentieth century, read dreams as wishes in disguise; Jung read them as the unconscious speaking in images that many people share. The third is personal association: what does *this* image mean to *you*?
 
-I lean on the third, with the first as a starting point. The same image can read differently from one person to another, and from one day to the next — that's true of a card, and it's true of a dream. A dictionary that says “water means emotion” is a fair first guess; it isn't your dream.
+I lean on the third, with the first as a starting point. A picture doesn't mean the same thing to two people, or even to one person on two different mornings — that's true of a card, and it's true of a dream. A dictionary that says “water means emotion” is a fair first guess; it isn't your dream.
 
 ## The gentle tsunami: my dreams of late 2020 {#gentle-tsunami}
 
@@ -33,7 +33,7 @@ That's all of it, and I'll leave it as it came. I'm not going to hand you a mean
 
 ## Reading a dream with tarot lenses {#lenses}
 
-Start with the element. A tsunami is Water, in its largest movement. In my notes on [the Water element](/library/four-elements/water-element/), water carries us from A to B when we let it, and can drown us; moving water is strong emotion, calm water is settled emotion.
+Start with the element. A tsunami is Water, in its largest movement. In my notes on [the Water element](/library/four-elements/water-element/), water will take you where you need to go if you stop fighting it, and it can also pull you under. Rough water is a strong feeling; still water, one that has come to rest.
 
 Then look for the contradiction. Gigantic *and* gentle. In a card, when two signals disagree, that's where I look first, because that's usually where the person is.
 
@@ -43,7 +43,7 @@ As for dying in a dream: dream dictionaries usually read it as the end of a stag
 
 {{< cards "ar18 ar02 ar13" >}}
 
-The Moon is night, uncertainty, the path you can't see the end of. The High Priestess is Water too — her robe falls like a waterfall — and she keeps a hidden side, like still water: a surface, and what's under it. And [Death](/library/tarot-cards/death/) isn't about dying either. It's the harvest: something cut so that the ground can be sown again. **A dream image, like a card, asks a question before it gives an answer.**
+The Moon is night, uncertainty, the path you can't see the end of. The High Priestess is Water too — her robe falls like a waterfall — and she keeps a hidden side, like still water: a surface, and what's under it. And [Death](/library/tarot-cards/death/) isn't about dying either. It's the harvest: a field cleared and made ready to plant again. **A dream image, like a card, asks a question before it gives an answer.**
 
 ## How to use tarot on a dream {#how-to}
 
@@ -58,9 +58,9 @@ Recurring images are worth following over weeks. If something keeps coming back,
 
 ## Can dreams predict the future? {#predict}
 
-Some people feel they've dreamt something that then happened. I haven't counted dreams the way I count readings, so I won't claim it either way. What I do know is where I put my attention: I read the future sometimes, but I focus on the present, because the best way to ensure an enjoyable future is to anchor ourselves in the present. More on that in [what tarot can and can't predict](/blog/can-tarot-predict-the-future/).
+Some people feel they've dreamt something that then happened. I haven't counted dreams the way I count readings, so I won't claim it either way. What I do know is where I put my attention: I read the future sometimes, but I focus on the present, because a future you'll enjoy starts with standing firmly in today. More on that in [what tarot can and can't predict](/blog/can-tarot-predict-the-future/).
 
-A dream of someone you've lost can be a visit, a memory, or your mind sorting a heavy week — and you're the only one who can feel which. If dreams keep you from sleeping, frighten you night after night, or come with heavy days, that's a door for a doctor or a therapist rather than a deck. I've written about [where that door is](/disclaimers/#therapy), and what the cards can still hold meanwhile: a gentler question, like “what would help me rest this week?”
+A dream of someone you've lost can be a visit, a memory, or your mind sorting a heavy week — and you're the only one who can feel which. If dreams keep you from sleeping, frighten you night after night, or come with heavy days, take them to your doctor or to a therapist, not to the cards. I've written about [where my role stops and theirs begins](/disclaimers/#therapy), and what the cards can still hold meanwhile: a gentler question, like “what would help me rest this week?”
 
 ## Try it for one week {#next-step}
 

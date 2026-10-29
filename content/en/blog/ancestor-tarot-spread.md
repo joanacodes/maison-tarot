@@ -49,14 +49,14 @@ Gratitude is the Ten of Pentacles: an old man sitting by an archway, dogs at his
 
 ## What this spread leaves aside {#what-it-leaves-aside}
 
-This spread asks what someone left you, not what they would say to you now. So it leaves aside the questions people long to put to the dead — are you at peace, what should I do, would you be proud of me — because no card can know their answer. It also leaves aside how and when anyone died or will die, illnesses that run in the family, and who should get the house. Those belong with doctors, solicitors and long family conversations; [why I step back from health and death questions](/blog/health-pregnancy-death-tarot/) explains the rest.
+This spread asks what someone left you, not what they would say to you now. So it leaves aside the questions people long to put to the dead — are you at peace, what should I do, would you be proud of me — because no card can know their answer. It also leaves aside how and when anyone died or will die, illnesses that run in the family, and who should get the house. Those belong with doctors, solicitors and long family conversations; [my page on health and death questions](/blog/health-pregnancy-death-tarot/) explains the rest.
 
 If a question like “did you forgive me?” keeps rising while you shuffle, give it to the third position instead. It may be a weight you no longer need to carry, and the third card asks exactly what you could set down, with respect.
 
-And if the loss is recent, or the grief feels heavy rather than tender, start with [what tarot can hold in grief, and when you need a person](/blog/tarot-for-grief/) before this spread. Sometimes the right door is [a counsellor’s or a therapist’s](/disclaimers/#therapy), and knocking on it is a kindness to yourself.
+And if the loss is recent, or the grief feels heavy rather than tender, start with [tarot in the early months of a loss](/blog/tarot-for-grief/) before this spread. Sometimes the right door is [a counsellor’s or a therapist’s](/disclaimers/#therapy), and knocking on it is a kindness to yourself.
 
 ## Before you lay it out {#before}
 
 Choose a quiet evening. Put a photograph or an object of theirs on the table if you have one — a watch, a handwritten recipe. Shuffle while you think of them, and stop whenever it gets heavy; the cards will wait.
 
-The cards don’t hold your grandfather. You do — and at Samhain, remembering is the whole of the work. If you’d like to learn the lenses I used above, start with [one card, today](/learn-tarot/).
+The cards don’t hold your grandfather. You do — and at Samhain, remembering is the whole of the work. To learn the lenses I used above, start with [one card, today](/learn-tarot/).

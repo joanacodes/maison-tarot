@@ -19,7 +19,7 @@ This is the exercise from my own notes, and it’s still the one I’d start wit
 
 Do it out loud. Reading is something you say, and the words come differently when you speak them than when you think them. After a week of single cards, move to three. Then more.
 
-**Describe before you interpret.** If you jump to the meaning, you skip the part that trains your eye. The same image can read differently from one day to the next, and you only notice that if you look at it fresh each time. I’ve written more about [the one-card pull as a daily practice](/blog/one-card-tarot-pull/).
+**Describe before you interpret.** If you jump to the meaning, you skip the part that trains your eye. A card you drew on Monday can say something else on Thursday, and you only notice that if you look at it fresh each time. I’ve written more about [the one-card pull as a daily practice](/blog/one-card-tarot-pull/).
 
 ## Drills with the lenses {#lens-drills}
 

@@ -44,19 +44,19 @@ I like this centre for one reason: it isn’t an extra card drawn to rescue a co
 
 ## A cross, read through as an example {#example}
 
-Say someone sits down, tells you nothing, and the cross comes out like this: the Ace of Wands on the left, the Seven of Cups on the right, the Hermit at the top and the Six of Wands at the bottom. The sum is 1 + 7 + 9 + 6 = 23. That’s over 22, so 2 + 3 = 5: the Hierophant goes in the centre.
+Say the person opposite you hasn’t said a word about their question, and the cross comes out like this: the Ace of Wands on the left, the Seven of Cups on the right, the Hermit at the top and the Six of Wands at the bottom. The sum is 1 + 7 + 9 + 6 = 23. That’s over 22, so 2 + 3 = 5: the Hierophant goes in the centre.
 
 {{< cards "waac cu07 ar09 wa06 ar05" >}}
 
-Lenses first. For you: an Ace, a 1, the initiator — and Fire, the spark of something new. Against you: a Seven of Cups, seven cups floating in a cloud, each holding a different prize; too many choices, Water, emotions pulling in every direction. The way through: the Hermit, grey cloak and lantern, alone on a height; step back and look by your own light. Where it’s heading: a Six, the number where the machine runs and success comes — a rider crowned with laurel.
+Lenses first. For you: an Ace, a 1, the initiator — and Fire, the spark of something new. Against you: a Seven of Cups, a cloud full of cups, every one offering something different; too many choices, Water, emotions pulling in every direction. The way through: the Hermit, grey cloak and lantern, alone on a height; step back and look by your own light. Where it’s heading: a Six, the number where the machine runs and success comes — a rider crowned with laurel.
 
 Two Fire cards around a Water obstacle: the energy is there, and what slows it down is feeling — wanting every option at once. The Earth of the Hermit and the Hierophant brings it back to the ground.
 
 The centre: the [Hierophant](/library/tarot-cards/the-hierophant/), a teacher before two kneeling figures, and a 5, the number of trying, learning and accepting mistakes.
 
-Out loud, it might sound like this: “You’ve got the spark of a new project, and too many versions of it. Take some time alone to pick one. It can go well. And the centre says you’ll do it better inside a structure — a course, a mentor, a method — and that you’re allowed to get things wrong while you learn. Does that land?”
+With the centre added, the whole reading might run: “You’ve got the spark of a new project, and too many versions of it. Take some time alone to pick one. It can go well. And the centre says you’ll do it better inside a structure — a course, a mentor, a method — and that you’re allowed to get things wrong while you learn.”
 
-Then you let them answer, and you note what they confirm and what they don’t.
+Then you ask if any of it matches their situation, let them answer, and note what they confirm and what they don’t.
 
 ## When one card is enough {#one-card}
 
@@ -68,4 +68,4 @@ Its for-and-against shape also makes the cross tempting for a court case or a mo
 
 ## Where to go from here {#next-step}
 
-Try the cross on someone who tells you nothing, and write down what lands. If you enjoy the shape and want more positions, the [Celtic Cross, explained position by position](/blog/celtic-cross-spread/), is a different spread: ten cards, a column beside the cross, and nothing to add up. And if you’d like to lay your first spreads with someone beside you, a [workshop](/workshops/) is three hours, twelve people and a lot of cards on the table.
+Try the cross on a friend who tells you nothing first, and note what lands. If you enjoy the shape and want more positions, the [Celtic Cross, explained position by position](/blog/celtic-cross-spread/), is a different spread: ten cards, a column beside the cross, and nothing to add up. And if you’d like to lay your first spreads with someone beside you, a [workshop](/workshops/) puts twelve of you round a table for three hours.

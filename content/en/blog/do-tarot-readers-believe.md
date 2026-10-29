@@ -25,7 +25,7 @@ Readers answer those in every combination. Some speak openly of guides. Some tre
 
 ## What I don’t believe {#what-i-dont-believe}
 
-I don’t believe the cards are magic. They’re 78 pictures drawn in 1909 by Pamela Colman Smith, and a cheap print reads as well as a beautiful one. The deck helps you focus, or unfocus, so your own thoughts and biases step aside.
+I don’t believe the cards are magic. They’re 78 pictures drawn in 1909 by Pamela Colman Smith, and a cheap print reads as well as a beautiful one. The deck sharpens or softens your attention, and either way your own opinions and assumptions move aside.
 
 I don’t believe in a gift, either. When friends and family have tried reading with me, they’ve said true things without one.
 
@@ -43,9 +43,9 @@ So what I believe in is a rate, under conditions. It’s my own count, not a stu
 
 Some things have happened that a count doesn’t cover. The clearest came after I’d read for a friend: what felt like her grandfather’s presence, and a message that sent her to [a basement storage cell full of paint pots](/blog/is-tarot-evil/). That was the whole of it.
 
-I can’t explain it, and I don’t build anything on it. It wasn’t a prophecy; it was paint. My working definition of magic fits here: the things we know exist but are unable to explain.
+I can’t explain it, and I don’t build anything on it. It wasn’t a prophecy; it was paint. My working definition of magic fits here: whatever we know is real and still can’t account for.
 
-Anything like that, anything I can’t check, goes on a shelf in my head labelled “sceptical, but if it happens, I was warned”. It’s a way of keeping an impression without believing it and without throwing it away. It never goes into someone’s lap as a forecast.
+Anything like that, anything I can’t check, goes on a mental shelf of its own: I stay doubtful, and if it ever comes true, at least I’ll have had notice. It’s a way of keeping an impression without believing it and without throwing it away. It never goes into someone’s lap as a forecast.
 
 That’s as close to belief as I get. Not faith, not dismissal: an honest “I don’t know”, with the evidence kept on the table.
 

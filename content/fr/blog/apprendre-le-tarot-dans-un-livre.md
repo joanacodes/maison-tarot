@@ -27,9 +27,9 @@ Bref, il vous apporte du savoir. Lire, c’est autre chose.
 
 Quand j’ai fait essayer la lecture à mes amis et à ma famille, j’ai vu la même scène se répéter : ils disaient quelque chose de juste sur la personne en face, puis restaient saisis par ce qu’ils venaient de dire. Aucune page ne peut produire ce moment-là, parce que ce n’est pas une information. C’est en forgeant qu’on devient forgeron, et le tarot ne fait pas exception.
 
-Mes propres débuts ont suivi le même chemin. Mes amis m’ont offert mon premier jeu à Noël 2020, j’ai commencé à lire le 26 décembre, et ma première lecture était juste. Je pensais qu’il me faudrait une formation avant.
+Mes propres débuts le confirment. Fin 2020, avec un jeu tout juste reçu en cadeau, j’ai lu sans avoir rien étudié, et cette première lecture a tenu — moi qui croyais devoir passer par une formation d’abord.
 
-La pratique apprend ce qu’un livre peut seulement nommer. Lâcher prise, qui est au fond la seule pratique qui existe. Par quel canal vos impressions arrivent — des images, des mots, des sons, une sensation dans le corps. Quand dire une chose avec douceur, ou autrement, parce que la personne n’est pas prête. Et surtout, **quand vous vous trompez — ce qu’aucun livre ne peut vous dire, parce que le livre n’est pas dans la pièce.**
+La pratique apprend ce qu’un livre peut seulement nommer. Lâcher prise, qui est au fond la seule pratique qui existe. Par quel canal vos impressions arrivent — des images, des mots, des sons, une sensation dans le corps. Quand dire une chose plus doucement, ou la formuler autrement, parce que l’autre n’est pas en mesure de l’entendre. Et surtout, **quand vous vous trompez — ce qu’aucun livre ne peut vous dire, parce que le livre n’est pas dans la pièce.**
 
 ## Le piège : réciter le livre {#le-piege}
 
@@ -41,17 +41,17 @@ Imaginons que quelqu’un tire le Cinq de Coupes.
 
 Le livre dit chagrin, perte, la carte la plus sombre de la famille — et mes propres notes ne disent pas autre chose. Mais en regardant, votre œil va vers les deux coupes encore debout derrière le personnage, et c’est ça qui sort de votre bouche. C’est ce que la personne avait besoin d’entendre. Le livre n’avait pas tort. Ce n’était pas la lecture, voilà tout.
 
-Une même image peut se lire différemment d’une personne à l’autre, et d’un jour à l’autre. Et deux livres se contredisent souvent sur la même carte — ce qui en dit long sur [ce qui divise les tarologues](/fr/blog/ce-qui-divise-les-tarologues/), et sur le fait qu’aucun auteur ne peut avoir le dernier mot pour vous.
+Une carte ne parle pas pareil à deux lecteurs, ni à vous d’une semaine sur l’autre. Et deux livres se contredisent souvent sur la même carte — ce qui en dit long sur [ce qui divise les tarologues](/fr/blog/ce-qui-divise-les-tarologues/), et sur le fait qu’aucun auteur ne peut avoir le dernier mot pour vous.
 
 ## Bien se servir d’un livre de tarot {#bien-utiliser-un-livre}
 
 Mettez le livre après la carte, pas avant.
 
-1. Regardez d’abord. Tirez une carte et décrivez-la à voix haute : ce qu’il y a dessus, ce que vous voyez, ce que vous recevez. Ensuite seulement, ouvrez le livre et comparez.
-2. Une carte par jour, puis trois, puis davantage. C’est ce que je conseille pour apprivoiser un jeu, et c’est le principe de [la carte du jour](/fr/blog/carte-du-jour-tarot/).
+1. Regardez d’abord. Tirez une carte et décrivez-la à voix haute : la scène, le détail qui accroche votre œil, l’impression qui vous vient. Ensuite seulement, ouvrez le livre et comparez.
+2. Commencez par une seule carte chaque jour, passez à trois quand c’est confortable, puis élargissez. C’est ce que je conseille pour apprivoiser un jeu, et c’est le principe de [la carte du jour](/fr/blog/carte-du-jour-tarot/).
 3. Une clé de lecture à la fois. Lisez le chapitre sur les nombres et passez une semaine sur les nombres ; puis les éléments. N’avalez pas le livre d’une traite.
-4. Tenez un carnet. Ce que vous avez dit, ce qui a été confirmé. Il devient le livre que vous seul pouviez écrire — voici [comment je tiens le mien](/fr/blog/carnet-de-tirage-tarot/).
-5. Lisez pour quelqu’un qui ne vous dit rien. C’est là que les définitions du livre se confrontent à une vraie personne.
+4. Gardez un carnet : d’un côté vos phrases, de l’autre ce qui s’est vérifié. Il devient le livre que vous seul pouviez écrire — voici [comment je tiens le mien](/fr/blog/carnet-de-tirage-tarot/).
+5. Tirez les cartes à quelqu’un qui ne vous raconte rien de sa situation. C’est là que les définitions du livre se confrontent à une vraie personne.
 
 ## Les livres que je conseille vraiment {#mes-livres}
 
@@ -65,4 +65,4 @@ C’est tout. Deux livres, un guide, et beaucoup de cartes posées sur beaucoup 
 
 ## Fermez le livre, ouvrez le jeu {#etape-suivante}
 
-Ce soir, tirez une carte et dites ce que vous voyez avant de vérifier la moindre définition. Puis lisez ce qu’en dit le livre, et notez où vous êtes d’accord. Si vous préférez essayer avec d’autres personnes autour de vous, les [ateliers](/fr/ateliers/) commencent par une carte dans les dix premières minutes, et l’explication vient après — exprès.
+Ce soir, tirez une carte et dites ce que vous voyez avant de vérifier la moindre définition. Puis lisez ce qu’en dit le livre, et notez où vous êtes d’accord. Si vous préférez essayer avec d’autres personnes autour de vous, dans les [ateliers](/fr/ateliers/), vous tenez déjà une carte quand la théorie n’a pas encore commencé — exprès.

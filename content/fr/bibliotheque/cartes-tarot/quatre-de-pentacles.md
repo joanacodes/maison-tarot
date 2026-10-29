@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/pe04.webp
 h1: Quatre de Pentacles — <em>quatre</em>, la Terre
-lede: 'Avant de chercher ce que « signifie » Quatre de Pentacles, regardez ce que
-  vous avez déjà : quatre, l’élément Terre, Soleil en Capricorne. Vous lisez la carte.
-  Le nombre dit quatre — les fondations, la stabilité ; l’élément dit la matière,
-  ce qui tient. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte
-  vous parle déjà — le reste de la page vous montre comment.'
+lede: 'Assis face à nous, un homme étreint une pièce des deux bras ; une autre trône sur sa couronne, deux sont bloquées sous ses semelles. À force de tout tenir, peut-il encore bouger ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre
@@ -30,9 +26,9 @@ faq:
 - q: Que signifie Quatre de Pentacles ?
   a: 'Une sécurité qu’on garde : des économies, un emploi stable, un logement, une limite posée. La carte demande si cette prise protège encore la personne ou si elle a commencé à la retenir sur place.'
 - q: Quatre de Pentacles renversé, ça change quoi ?
-  a: 'Soit la prise se desserre et la personne commence à partager, déléguer, lâcher ; soit la peur de perdre grandit et la prise devient contrôle. La même carte, freinée ou excessive.'
+  a: 'Soit la prise se desserre et la personne commence à partager, déléguer, lâcher ; soit la peur de perdre grandit et la prise devient contrôle.'
 - q: Le Quatre de Pentacles parle-t-il seulement d’argent ?
-  a: 'Non. Ce que le personnage serre peut être de l’argent, mais aussi une place, une routine, un rôle, une vieille habitude ou une personne ; la Terre, c’est tout ce qui a de la valeur à vos yeux.'
+  a: 'Non. Ce que le personnage serre peut être de l’argent, mais aussi une place, une routine, un rôle, une vieille habitude ou une personne  : la Terre englobe tout ce à quoi l’on tient.'
 categories:
 - Pentacles
 tags:
@@ -57,7 +53,7 @@ Le conseil du 4, c’est de rester souple et ouvert à l’imprévu. Son revers,
 
 ## Par l’élément : Terre {#element}
 
-La [Terre](/fr/bibliotheque/quatre-elements/element-terre/), c’est ce qui a de la valeur à vos yeux, et la volonté de le garder. La ténacité, la persévérance, l’endurance — et l’entêtement. Le Quatre de Pentacles, c’est ce dernier mot dessiné en entier : un homme qui a construit quelque chose et qui a décidé que personne ne le lui prendrait.
+La [Terre](/fr/bibliotheque/quatre-elements/element-terre/), c’est ce qui vous est cher, et la volonté de le garder. La ténacité, la persévérance, l’endurance — et l’entêtement. Le Quatre de Pentacles, c’est ce dernier mot dessiné en entier : un homme qui a construit quelque chose et qui a décidé que personne ne le lui prendrait.
 
 On pense tout de suite à Harpagon serrant sa cassette, et c’est un peu injuste. Ce que ce personnage-ci serre n’est pas seulement de l’argent : des économies, oui, mais aussi une place, une routine, un rôle dans la famille, une vieille façon de faire, une personne. La Terre protège — c’est une énergie surtout féminine, celle qui met à l’abri. La question, c’est le moment où protéger devient ne plus lâcher.
 
@@ -65,13 +61,13 @@ On pense tout de suite à Harpagon serrant sa cassette, et c’est un peu injust
 
 Sa robe est d’un [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) sombre et profond : la force, la volonté, un corps décidé à rester où il est. Le manteau [noir](/fr/bibliotheque/couleurs-tarot/noir/) l’enveloppe ; dans ma grille, le noir absorbe l’énergie — il prend et ne rend pas. Un mince liseré bleu à l’ourlet est la seule note fraîche, émotive, sur lui. Les quatre pièces sont dorées, la couronne aussi.
 
-Derrière lui, le ciel gris : la neutralité, la matière qui ne bouge pas. La ville a ses toits rouges et ses arbres verts, mais elle est petite et lointaine. Lisez les couleurs avant la carte : une silhouette dense et sombre, et le monde vivant dans son dos.
+Derrière lui, le ciel gris : la neutralité, la matière qui ne bouge pas. La ville a ses toits rouges et ses arbres verts, mais elle est petite et lointaine. D’un côté, une silhouette dense et sombre ; de l’autre, le monde vivant dans son dos.
 
 ## Par l’astrologie : Soleil en Capricorne {#astrologie}
 
-Dans la tradition Golden Dawn, le Quatre de Pentacles correspond au troisième décan du Capricorne, attribué au [Soleil](/fr/bibliotheque/astrologie/soleil/). Le Soleil, c’est le centre, ce autour de quoi une vie s’organise. Le Capricorne dit *J’utilise* : le travail, la responsabilité, le désir de ne dépendre de personne. Ensemble : quelqu’un qui a mis sa sécurité au centre de tout — le pouvoir au sens terrestre, avoir et tenir.
+Le [Soleil](/fr/bibliotheque/astrologie/soleil/) règne sur le troisième décan du Capricorne, celui du Quatre de Pentacles. Il représente le centre d’une vie, ce qu’on place au milieu de tout. Le Capricorne dit *J’utilise* : le travail, la responsabilité, le désir de ne dépendre de personne. Ensemble : quelqu’un qui a mis sa sécurité au centre de tout — le pouvoir au sens terrestre, avoir et tenir.
 
-Facultatif, comme toujours. La posture suffit à le dire.
+Si l’astrologie n’est pas votre outil, la posture de l’homme suffit.
 
 ## En lecture {#lecture}
 
@@ -87,8 +83,8 @@ On interroge cette carte sur l’épargne, les dépenses, les placements. Je ne 
 
 ## Exemple de tirage {#exemple}
 
-Posons le cas d’un tirage à deux cartes pour quelqu’un : le Quatre de Pentacles à gauche, le [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/) à droite. Quatre puis huit : la stabilité, puis le 4 exalté — et dans mes notes, le Huit de Coupes, c’est passer à autre chose que ce qu’on fait déjà. La Terre puis l’Eau : ce qu’on tient, puis ce qu’on ressent. Les dessins : un homme cramponné à ses pièces devant une ville, puis une silhouette qui s’éloigne de huit coupes empilées, vers les montagnes, sous la lune.
+Posons le cas d’un tirage à deux cartes pour quelqu’un : le Quatre de Pentacles à gauche, le [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/) à droite. Quatre puis huit : la stabilité, puis le 4 exalté — et dans mes notes, le Huit de Coupes, c’est délaisser l’ouvrage en cours pour aller ailleurs. La Terre puis l’Eau : ce qu’on tient, puis ce qu’on ressent. Les dessins : un homme cramponné à ses pièces devant une ville, puis un marcheur vêtu de rouge, sa pile de coupes abandonnée, qui grimpe vers les rochers, sous la lune.
 
-La phrase que je dirais à voix haute : « Vous vous accrochez très fort à quelque chose que vous avez déjà commencé à quitter. »
+Les pièces serrées, puis le voyageur qui s’en va ; une phrase courte suffit : « Vous vous accrochez très fort à quelque chose que vous avez déjà commencé à quitter. »
 
-Pour vérifier, je demande : « Y a-t-il quelque chose que vous gardez par habitude, ou par peur de le perdre, plus que parce que vous le voulez encore ? » Si c’est oui, je ne demande pas quoi. Si rien de tel ne lui vient, je lui dis que la phrase a raté.
+Je vérifie avec une seule question : « Gardez-vous quelque chose par habitude, ou par peur de le perdre, plus que parce que vous le voulez encore ? » Si c’est oui, je ne demande pas quoi. Si rien de tel ne lui vient, je lui dis que ma phrase est passée à côté.

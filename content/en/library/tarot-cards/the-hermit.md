@@ -1,6 +1,6 @@
 ---
 title: 'The Hermit — Rider-Waite-Smith tarot: read the card through its lenses'
-description: 'The Hermit in tarot: an old man alone with a lantern, the number 9, Earth and Virgo. What the 1909 card shows, and how to read it upright, reversed and in a spread.'
+description: 'The Hermit in tarot: an old man alone with a lantern, the number 9, Earth and Virgo. Solitude chosen to see clearly, and the point where it turns into isolation.'
 translationKey: card-ar09
 type: cards
 navTitle: The Hermit
@@ -15,11 +15,7 @@ energy: Feminine
 kabbalah: Yod
 image: cards/ar09.webp
 h1: The Hermit — <em>9</em>, Earth
-lede: 'Before looking up what The Hermit “means”, look at what you already have: 9,
-  the element Earth, Virgo. You’re reading the card. The number says 9 — nine — near
-  completion, almost there; the element says matter, what holds. Lay the two over
-  each other, add the colours, and the card is already talking — the rest of the page
-  shows you how.'
+lede: 'On a snowy summit, a hooded old man lowers his eyes and holds up a lantern with a star inside, his staff in the other hand. What will your own small light let you see?'
 related:
 - /library/numerology
 - /library/four-elements/earth-element
@@ -44,29 +40,29 @@ tags:
 
 An old man stands alone on a snowy peak, wrapped in a long grey cloak with the hood up. His beard is white, his head bowed, his eyes lowered. In one hand he holds up a lantern, and inside it shines a six-pointed star. In the other, a long yellow staff. Behind him the sky is dark, nearly the same grey as his cloak.
 
-Notice what isn’t there: no path, no house, no companion, no sun or moon. He has reached the top and he isn’t looking at the view. **The drawing is about a light you carry yourself — enough to see the next step, not the whole road.**
+No path, no house, no companion, no sun or moon. He has reached the top and he isn’t looking at the view. **His is a light you carry yourself — enough to see the next step, not the whole road.**
 
 ## By number: 9 {#number}
 
 [The number 9](/library/numerology/number-9/) is the finish line in sight: the end of a stage, the last efforts, introspection, patience — while you keep moving. That’s the Hermit’s posture exactly. He has climbed nearly all the way, and instead of celebrating he stops to look inward before the last step.
 
-In the Instagram story, 9 is the redesign that ends everything that defined the app, before it becomes something else. The Hermit is that moment in a life: what defined you is closing, and you need a quiet stretch to see what you’ll keep.
+The redesign that closed everything Instagram had been known for, just before it became something else, was its 9. The Hermit is that moment in a life: what defined you is closing, and you need a quiet stretch to see what you’ll keep.
 
 ## By element: Earth {#element}
 
 The Hermit is an [Earth](/library/four-elements/earth-element/) card, which surprises people who see him as pure spirit. Earth is patience, tenacity, endurance — and stubbornness. It’s the climb done on foot, one step after another, leaning on a staff. Nobody carried him up there.
 
-Earth is also whatever has value for you, money or not. His riches are a lantern, a staff, and what he learned on the way up.
+Earth is also what you hold dear, priced or not. His riches are a lantern, a staff, and what he learned on the way up.
 
 ## By colours {#colours}
 
 Grey dominates — cloak, sky, rock. In my grid, grey is neutrality, no particular will, stability ([grey](/library/tarot-colours/grey/)): nothing pushes him and nothing pulls. The white of the beard and the snow adds peace. Then, in all that grey, the yellow of the lantern and the staff: will, self-expression, the inner child still alive ([yellow](/library/tarot-colours/yellow/)).
 
-Read only the colours and you have the card: a calm, neutral stretch of life, with one small point of will that lights the way.
+Grey with one spot of yellow: a calm, neutral stretch of life, with one small point of will that lights the way.
 
 ## By astrology: Virgo {#astrology}
 
-In the Golden Dawn tradition, the Hermit corresponds to [Virgo](/library/astrology/virgo/), the sign whose verb is “I analyse”. Virgo is solitary by nature and still wants to be useful to something bigger than itself — the engineer, the adviser to the throne. That’s the Hermit’s lantern: light found alone, then held up for others.
+[Virgo](/library/astrology/virgo/) — “I analyse” — is where the Golden Dawn placed the Hermit. Virgo is solitary by nature and still wants to be useful to something bigger than itself — the engineer, the adviser to the throne. That’s the Hermit’s lantern: light found alone, then held up for others.
 
 ## In a reading {#reading}
 
@@ -84,6 +80,6 @@ Next to [the High Priestess](/library/tarot-cards/the-high-priestess/), it’s k
 
 The Hermit is alone on his peak; put the Three of Cups beside him and see what changes. 9 then 3: the end of a stage, then a first result that works. Earth then Water: something slow and solid, then feelings. Grey and a single yellow light on one card; on the other, three women in bright robes raising their cups.
 
-The sentence I’d say: “You’ve kept to yourself for a while, working something out on your own, and the people around you are waiting for you to come back — they’re warmer than you think.”
+Solitude on one card, company on the other; my sentence would be: “You’ve kept to yourself for a while, working something out on your own, and the people around you are waiting for you to come back — they’re warmer than you think.”
 
-Then the check. Has the person been withdrawn lately? Is there a group they’ve stepped away from? If neither lands, I say so plainly and write it down as a miss.
+Has the person been withdrawn lately? Is there a group they’ve stepped away from? If they’ve been anything but solitary, the lantern isn’t theirs: I say so plainly and note the miss.

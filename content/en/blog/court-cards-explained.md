@@ -13,7 +13,7 @@ summary: "Tarot has sixteen court cards: a Page, a Knight, a Queen and a King in
 ---
 The court cards are the sixteen people of the minor arcana: a Page, a Knight, a Queen and a King in each of the four suits. Their rank says how far someone has got with the element — learning it, acting with it, holding it, deciding with it — and their suit says which element.
 
-In a reading, a court card can be a person or a state of mind. The person in front of you is the one who tells you which.
+In a reading, a court card may be a person or a state of mind; whoever you're reading for is the one who recognises which.
 
 ## What the court cards are {#what-they-are}
 
@@ -31,7 +31,7 @@ The [Knight](/library/numerology/knight/) is acting. Look at the horse: it rears
 
 The [Queen](/library/numerology/queen/) is holding. She has absorbed her element so well that it’s part of her. She’s seated, she knows, and she proves nothing.
 
-The [King](/library/numerology/king/) is deciding. He doesn’t look at his tool any more; he looks at the world he manages with it.
+The [King](/library/numerology/king/) is deciding. His eyes have left his tool and gone to what he runs with it.
 
 None of this is about sex. A Queen can be a man, a King can be a woman. Pages and Queens lean towards [feminine energy](/library/feminine-masculine-energies/), Knights and Kings towards masculine — dynamics that every one of us carries in different proportions.
 

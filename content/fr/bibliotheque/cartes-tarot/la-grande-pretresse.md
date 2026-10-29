@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: Gimel
 image: cards/ar02.webp
 h1: La Grande Prêtresse — <em>2</em>, l’Eau
-lede: 'Avant de chercher ce que « signifie » La Grande Prêtresse, regardez ce que
-  vous avez déjà : 2, l’élément Eau, Lune. Vous lisez la carte. Le nombre dit 2 —
-  deux — se lier, peser, coopérer ; l’élément dit les émotions, ce qui circule. Posez
-  les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà —
-  le reste de la page vous montre comment.'
+lede: 'Assise entre une colonne noire et une colonne blanche, une femme garde sur ses genoux un rouleau à moitié caché, un voile de grenades dans son dos. Que savez-vous déjà, sans l’avoir encore dit ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-eau
@@ -49,23 +45,23 @@ Ce qui manque : l’action, le paysage, quelqu’un d’autre. Au tarot de Marse
 
 ## Par le nombre : 2 {#nombre}
 
-Le [chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/), c’est l’alliance : deux parties, un lien, un contrat. Ici, il est dessiné sur la carte même — une colonne noire, une blanche — et elle est assise entre les deux, à peser. Le conseil du 2, c’est de lire le contrat avant de s’engager, et le rouleau sur ses genoux est à moitié caché : un contrat dont personne n’a lu les petites lignes. Dans l’histoire d’Instagram de mes pages de numérologie, ce sont les fondateurs qui signent avec des investisseurs, le meilleur moment pour lire lentement. Le revers du 2 se voit aussi : la solitude, ou un mental si occupé à peser qu’il ne partage plus rien.
+Le [chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/), c’est l’alliance : deux parties, un lien, un contrat. Ici, il est dessiné sur la carte même — une colonne noire, une blanche — et elle est assise entre les deux, à peser. Le conseil du 2, c’est de lire le contrat avant de s’engager, et le rouleau sur ses genoux est à moitié caché : un contrat dont personne n’a lu les petites lignes. Instagram a franchi ce cap en faisant entrer des investisseurs à son capital : le meilleur moment pour lire lentement. Le revers du 2 se voit aussi : la solitude, ou un mental si occupé à peser qu’il ne partage plus rien.
 
 ## Par l’élément : Eau {#element}
 
 La Grande Prêtresse est une carte d’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les émotions, les relations, les forces cachées. La lune, sur sa tête et à ses pieds, est ce qui fait bouger l’eau.
 
-Mais c’est une eau calme. L’eau qui bouge, ce sont des émotions fortes ; l’eau calme, des émotions posées, et elle cache ce qu’il y a sous sa surface. Dans mes notes, l’eau s’infiltre partout avec le temps : une émotion qu’on ne regarde pas peut abîmer les fondations, lentement, comme la moisissure qui ronge une maison. C’est le revers de cette carte, et le proverbe le dit déjà : il faut se méfier de l’eau qui dort.
+Mais c’est une eau calme. Une eau agitée dit des émotions vives ; une eau immobile, des émotions apaisées, qui gardent pour elles ce qui dort au fond. Dans mes notes, l’eau s’infiltre partout avec le temps : une émotion qu’on ne regarde pas peut abîmer les fondations, lentement, comme la moisissure qui ronge une maison. C’est le revers de cette carte, et le proverbe le dit déjà : il faut se méfier de l’eau qui dort.
 
-Son énergie est [féminine](/fr/bibliotheque/energies-feminine-masculine/) au sens où je l’enseigne — la patience, l’intangible, ce qui travaille en coulisses —, ce qui n’a rien à voir avec le fait d’être une femme.
+Côté énergie, elle est [féminine](/fr/bibliotheque/energies-feminine-masculine/), dans le sens que je donne à ce mot — la patience, l’intangible, ce qui travaille en coulisses —, ce qui n’a rien à voir avec le fait d’être une femme.
 
 ## Par les couleurs {#couleurs}
 
-Le bleu domine : le manteau, et l’eau qu’il devient. Dans [ma grille des couleurs](/fr/bibliotheque/couleurs-tarot/bleu/), le bleu, c’est l’émotion, l’eau, la vitalité, l’énergie féminine. Le blanc de la robe, de la croix et de la colonne J : la paix, une intention claire. Le noir de la colonne B : l’absence, le vide, et le réel sans vernis. Deux côtés, et elle ne choisit pas devant vous ; entre les deux, une réponse qui se sentira avant de s’expliquer.
+Le bleu domine : le manteau, et l’eau qu’il devient. Le [bleu](/fr/bibliotheque/couleurs-tarot/bleu/), je le lis comme l’émotion, l’eau, la vitalité, l’énergie féminine. Le blanc de la robe, de la croix et de la colonne J : la paix, une intention claire. Le noir de la colonne B : l’absence, le vide, et le réel sans vernis. Deux côtés, et elle ne choisit pas devant vous ; entre les deux, une réponse qui se sentira avant de s’expliquer.
 
 ## Par l’astrologie : Lune {#astrologie}
 
-Dans la tradition Golden Dawn, la Grande Prêtresse correspond à la [Lune](/fr/bibliotheque/astrologie/lune/) : ce qu’on ressent quand personne ne regarde. Quand j’explique un thème astral, je dis que la Lune, c’est « votre chambre », la pièce la plus intime de la maison — et c’est cette carte, une pièce qu’on ne vous fait pas visiter. La Lune a aussi une face qu’on ne voit jamais depuis la Terre ; la Grande Prêtresse fonctionne pareil, une façade et beaucoup de choses derrière.
+La Golden Dawn associe la Grande Prêtresse à la [Lune](/fr/bibliotheque/astrologie/lune/) : ce qu’on ressent quand personne ne regarde. Quand j’explique un thème astral, je dis que la Lune, c’est « votre chambre », la pièce la plus intime de la maison — et c’est cette carte, une pièce qu’on ne vous fait pas visiter. La Lune a aussi une face qu’on ne voit jamais depuis la Terre ; la Grande Prêtresse fonctionne pareil, une façade et beaucoup de choses derrière.
 
 ## En lecture {#lecture}
 
@@ -81,8 +77,8 @@ Renversée, l’eau qui dort stagne. Le secret est gardé si longtemps qu’il d
 
 Représentez-vous la Grande Prêtresse qui sort à côté du [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/) — quelqu’un en rouge qui tourne le dos à huit coupes empilées et part vers les montagnes, au clair de lune.
 
-2 puis 8 : un lien qu’on pèse, puis ce qu’on laisse derrière soi — ma note pour le Huit de Coupes, c’est passer à autre chose que ce qu’on fait déjà. L’Eau et l’Eau : des sentiments, pas de la logistique. Son bleu et son blanc, puis un manteau rouge qui s’en va ; et une lune sur les deux cartes.
+2 puis 8 : un lien qu’on pèse, puis ce qu’on laisse derrière soi — et je lis le Huit de Coupes comme un départ loin de ce qui vous occupe déjà. L’Eau et l’Eau : des sentiments, pas de la logistique. Son bleu et son blanc, puis un manteau rouge qui s’en va ; et une lune sur les deux cartes.
 
-Ce que je dirais à voix haute : « Vous avez déjà décidé de quitter quelque chose, et vous ne l’avez encore dit à personne. »
+J’oserais cette phrase : « Vous avez déjà décidé de quitter quelque chose, et vous ne l’avez encore dit à personne. »
 
-Puis je vérifierais : est-ce que cela correspond à quelque chose, et si oui, s’agit-il d’un lieu, d’une personne ou d’une habitude ? Si rien ne correspond, je parle de raté, sans détour.
+Vient alors la question : cela correspond-il à quelque chose, et si oui, s’agit-il d’un lieu, d’une personne ou d’une habitude ? Si la personne ne quitte rien, la phrase était fausse, et je le dis sans voile.

@@ -62,7 +62,7 @@ Pluto says where you die and are reborn while alive: power, transformation, what
 
 ## The cards that carry it {#cards}
 
-[Judgement](/library/tarot-cards/judgement/), arcana XX: the graves opening, the call, what rises. Through Scorpio, Death. Two cards that frighten in the picture and say the same thing: something ends so that something else can begin.
+[Judgement](/library/tarot-cards/judgement/), arcana XX: the graves opening, the call, what rises. Through Scorpio, Death as well. Both pictures scare people, and both say the same thing: what finishes leaves space for what follows.
 
 {{< cards "ar20" >}}
 

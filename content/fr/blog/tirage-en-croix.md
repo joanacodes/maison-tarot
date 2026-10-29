@@ -44,7 +44,7 @@ J’aime ce centre pour une raison : ce n’est pas une carte de plus tirée pou
 
 ## Un tirage en croix, lu en entier {#exemple}
 
-Imaginons que quelqu’un s’assoie, ne vous dise rien, et que la croix donne ceci : l’As de Bâtons à gauche, le Sept de Coupes à droite, l’Ermite en haut et le Six de Bâtons en bas. La somme fait 1 + 7 + 9 + 6 = 23. C’est plus que 22, donc 2 + 3 = 5 : le Hiérophante va au centre.
+Une personne se tait sur sa question, et la croix donne ceci : l’As de Bâtons à gauche, le Sept de Coupes à droite, l’Ermite en haut et le Six de Bâtons en bas. La somme fait 1 + 7 + 9 + 6 = 23. C’est plus que 22, donc 2 + 3 = 5 : le Hiérophante va au centre.
 
 {{< cards "waac cu07 ar09 wa06 ar05" >}}
 
@@ -52,7 +52,7 @@ Pour vous : un As, un 1, l’initiateur — et le Feu, l’étincelle de quelque
 
 Deux cartes de Feu autour d’un obstacle d’Eau : l’énergie est là, et ce qui la freine, c’est le sentiment — vouloir toutes les options à la fois. La Terre de l’Ermite et du Hiérophante ramène tout ça au sol.
 
-Au centre : le [Hiérophante](/fr/bibliotheque/cartes-tarot/le-hierophante/) (le Pape au tarot de Marseille), un maître devant deux personnages agenouillés, et un 5, le nombre de l’essai, de l’apprentissage et des erreurs qu’on accepte.
+Au centre : le [Hiérophante](/fr/bibliotheque/cartes-tarot/le-hierophante/), que le tarot de Marseille nomme le Pape, un maître devant deux personnages agenouillés, et un 5, le nombre de l’essai, de l’apprentissage et des erreurs qu’on accepte.
 
 À voix haute, ça pourrait donner : « Vous avez l’étincelle d’un nouveau projet, et trop de versions de ce projet. Prenez un moment seul pour en choisir une. Ça peut bien se passer. Et le centre dit que vous le ferez mieux dans un cadre — une formation, un mentor, une méthode —, et que vous avez le droit de vous tromper en apprenant. Lequel de ces projets vous appelle en premier ? »
 

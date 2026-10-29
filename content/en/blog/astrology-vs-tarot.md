@@ -35,15 +35,15 @@ My image for the difference is a house. The chart is the plan: the Sun is the in
 
 Because the feedback is immediate. You draw a card for someone who has told you nothing, you say what you see, and they tell you whether it held. That loop teaches faster than any book.
 
-Because anyone can do it. Every single person I’ve helped to read managed it somewhere between the first and the third try. You don’t need seventy-eight memorised meanings; you need one way of looking — the colours, the number, the element — and the nerve to say what comes. It’s how [the learn-tarot path](/learn-tarot/) begins.
+Because anyone can do it. No one I’ve helped to start has needed more than three attempts. You don’t need seventy-eight memorised meanings; you need one way of looking — the colours, the number, the element — and the nerve to say what comes. It’s how [the learn-tarot path](/learn-tarot/) begins.
 
 And because it surprised me too. My friends gave me my first deck for Christmas — I’d been expecting an astrology book. I gave my first reading on 26 December 2020, and it was accurate, when I’d expected to need training first. **Tarot lets you find out in one evening whether you can read; astrology takes a season to tell you whether it’s right.**
 
 ## Why astrology still earns its place {#why-astrology}
 
-I came to astrology to laugh at it, read my own chart, and found it too precise. So I tested it, box by box, on me and then on others, and 30 to 40% of the boxes held. Saturn, Lilith and Chiron held 75 to 90%. The [whole test is told here](/blog/i-tested-my-birth-chart/); the short version is that a third is enough to be useful and not enough to be trusted.
+I came to astrology to laugh at it, read my own chart, and found it more accurate than I liked. I started ticking and crossing each placement, on my own chart first and then on other people’s. The overall hit rate came out between 30 and 40%, while Saturn, Lilith and Chiron landed far more often, between 75 and 90%. The [full account of that experiment](/blog/i-tested-my-birth-chart/) has its own page; what I kept from it is that being right a third of the time makes astrology worth consulting, and too shaky to lean on.
 
-Inside the deck, that usefulness is concrete. In the Golden Dawn tradition, twelve major arcana carry a sign and the minor cards from 2 to 10 carry a planet in a sign. The Emperor is Aries, Strength is Leo, Death is Scorpio.
+Inside the deck, that usefulness is concrete. Twelve major arcana have a sign attached, a pairing inherited from the Golden Dawn, and each numbered minor from Two to Ten pairs a planet with a sign. The Emperor is Aries, Strength is Leo, Death is Scorpio.
 
 {{< cards "ar04 ar08 ar13" >}}
 
@@ -53,10 +53,10 @@ When Death comes out, Scorpio hands you a verb (“I desire”), an element (Wat
 
 Because they don’t answer the same question. The chart talks about tendencies you carry everywhere; a reading talks about the moment. Together, they let you see a habit and the situation it’s playing out in. There’s even a bridge between the two: [the tarot birth card](/blog/tarot-birth-card/) starts from your date of birth, as a chart does, and lands on a pair of major arcana you can get to know properly.
 
-And because neither gets the last word. Tarot is not an authority: you act on what you feel. Astrology is not an excuse: “I’m a Scorpio” explains nothing about how you treated someone. I keep both as lenses, and the [disclaimers say so plainly](/disclaimers/#astrology).
+And because neither gets the last word. Tarot is not an authority: you act on what you feel. Astrology doesn’t excuse anything either: “I’m a Scorpio” explains nothing about how you treated someone. I keep both as lenses, and the [disclaimers say so plainly](/disclaimers/#astrology).
 
 ## Where to start this week {#start}
 
-For tarot: one card a day for a week. Describe what’s on it, what you see, what you receive, before you look anything up. [The one-card pull](/blog/one-card-tarot-pull/) explains how.
+For tarot: one card a day for a week. Before you look anything up, say what’s in the picture, what you notice first, and what you sense from it. [The one-card pull](/blog/one-card-tarot-pull/) explains how.
 
-For astrology: print your chart and check one placement, your Saturn, tick or cross. For a book, I recommend *The Only Astrology Book You’ll Ever Need* by Joanna Martine Woolfolk; for charts, Astro-Seek. Then come back to the cards — the signs will already be easier to recognise there.
+For astrology: print your chart and check one placement, your Saturn, tick or cross. For a book, Joanna Martine Woolfolk’s *The Only Astrology Book You’ll Ever Need* is the one I recommend; for charts, Astro-Seek. Then come back to the cards — the signs will already be easier to recognise there.

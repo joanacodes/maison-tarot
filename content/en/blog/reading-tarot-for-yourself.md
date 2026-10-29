@@ -25,11 +25,11 @@ What reading for yourself gives you: practice every day without needing anyone, 
 
 ## The honest problem: you already know the question {#the-problem}
 
-When I read for someone, I ask them to tell me nothing: no question, no context. That’s how I know afterwards whether I read them or my assumptions about them. I explain why in [the silence rule](/blog/the-silence-rule/).
+When I read for someone, I ask them to tell me nothing: no question, no context. That’s how I know afterwards whether I read them or my assumptions about them, which is the whole point of [the silence rule](/blog/the-silence-rule/).
 
 With yourself, there’s no silence. You know the question, you know the story so far, and you know what you want to hear. Your mind builds the story faster than your eyes reach the card. It usually goes wrong in one of two directions: you read your hope, or you read your fear.
 
-Say you’ve been hoping for a sign to leave the city you live in, and you draw the Eight of Cups: a figure in a red cloak walking away from eight stacked cups, towards the mountains, at night. You’ll read “leave” in half a second. Maybe that’s right. But you’d have read “leave” in almost any card.
+Say you’ve been hoping for a sign to leave the city you live in, and you draw the Eight of Cups: someone with their back to you, leaving a stack of cups behind and climbing into the hills by moonlight. You’ll read “leave” in half a second. Maybe that’s right. But you’d have read “leave” in almost any card.
 
 Now say you’re dreading a conversation, and you draw the Tower: lightning, the crown knocked off the top of a tower, two figures falling. You’ll read “disaster”. Yet the Tower can be the relief of something finally said — a structure that had been cracked for months coming down, so you can stop holding it up.
 
@@ -42,10 +42,10 @@ Now say you’re dreading a conversation, and you draw the Tower: lightning, the
 None of these is complicated. Together they stand in for the person across the table.
 
 1. *Write the question before you shuffle.* Exact words, and the date. Once it’s on paper, you can’t quietly move it after you’ve seen the card.
-2. *Tell yourself you’re about to talk nonsense.* It sounds like a joke. It switches off the part of you that’s trying to be right, and leaves the part that looks.
+2. *Tell yourself you’re about to talk nonsense.* Strange advice, but it works: it switches off the part of you that’s trying to be right, and leaves the part that looks.
 3. *Describe before you interpret.* What’s on the card, the dominant colour, the number, the [element](/library/four-elements/) — out loud or on paper, before you decide what it means for you. The lenses don’t care what you hope.
 4. *Use two columns.* “What I see” on the left, “what I’d like it to say” on the right. If the two lines are identical, be suspicious of yourself, kindly.
-5. *One draw per question.* No reshuffle, and no extra card to rescue a card you don’t like; I explain why in [the clarifier card](/blog/the-clarifier-card/).
+5. *One draw per question.* No reshuffle, and no extra card to rescue a card you don’t like; [the clarifier card](/blog/the-clarifier-card/) has my reasons.
 6. *Read in the present tense.* “What’s going on” rather than “what will happen”. You can check the present; the future you can only wait for.
 7. *Reread it a week later.* Note what held and what didn’t. This is the most important of the seven, and it’s the habit I describe in [keeping a reading notebook](/blog/tarot-journal/).
 
@@ -80,7 +80,7 @@ Questions about outcomes you can’t control, or about what someone else thinks,
 Reading for yourself is good practice. It can also turn into a habit that does the opposite of what you wanted. A few signs:
 
 - You’re upset and want the cards to calm you down. You’ll read the upset, not the card.
-- You’ve asked the same question more than twice in a month. That’s no longer reading; it’s waiting for permission. I go into it in [what repeat readings do to you](/blog/ask-tarot-the-same-question-twice/).
+- You’ve put one question to the cards three times or more this month. That’s no longer reading; it’s waiting for permission. I go into it in [what repeat readings do to you](/blog/ask-tarot-the-same-question-twice/).
 - You’re waiting for a card to make a decision you could make today. That decision was yours before you shuffled, and it still is.
 - The cards are standing in for a person: a friend you haven’t called, a doctor you haven’t seen, a therapist. Sometimes what’s going on is psychological, and the right door isn’t a deck. There’s no failure in walking through it.
 

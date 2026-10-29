@@ -43,11 +43,11 @@ And it doesn't prove that *I* am special. Three hundred readings taught me the o
 Three things.
 
 1. **I expect to talk nonsense.** Every time. The lower I set the expectation, the more accurate it gets. [It's the first thing I teach.](/blog/how-to-read-tarot-beginners/)
-2. **I stop when it misses.** No reshuffling, no reframing, no "the cards mean something you haven't realised yet". It goes in the notebook as a miss, and we move on.
+2. **I stop when it misses.** No reshuffling, no reframing, no "you'll understand it in time". It goes in the notebook as a miss, and we move on.
 3. **I refuse some subjects.** Health, death, pregnancy, court cases, money, "curses". Not because a card can't fall on them, but because at a one-in-ten miss rate, a wrong word there does real damage. [The full list is on the disclaimers page.](/disclaimers/#refusals)
 
 ## Try it yourself {#try-it}
 
-You don't have to believe any of this. Read for ten people who tell you nothing, write down what you said and what they confirmed, count. If your notebook looks like mine, you'll understand why I don't need to argue about whether it works. If it doesn't, write to me — a second notebook is worth more than a second opinion.
+You don't have to believe any of this. Read for ten strangers who say nothing beforehand, note what you said beside what they confirmed, count. If your notebook looks like mine, you'll understand why I don't need to argue about whether it works. If it doesn't, write to me — a second notebook is worth more than a second opinion.
 
 The [free events](/events/) are where I still do this, in front of people, with the notebook open.

@@ -20,14 +20,14 @@ faq:
 
 | Élément | Enseigne | De quoi ça parle | Énergie | L’archétype |
 | --- | --- | --- | --- | --- |
-| [Terre](/fr/bibliotheque/quatre-elements/element-terre/) | Pentacles | La matière, la valeur, le résultat du travail | Féminine | Le manager d’un artiste |
-| [Eau](/fr/bibliotheque/quatre-elements/element-eau/) | Coupes | Les émotions, les relations, ce qui circule | Féminine | La personne chaleureuse chez qui on se sent chez soi |
-| [Feu](/fr/bibliotheque/quatre-elements/element-feu/) | Bâtons | La création, la destruction, l’impulsion | Masculine | L’adolescent plein de vie |
+| [Terre](/fr/bibliotheque/quatre-elements/element-terre/) | Pentacles | Matière, valeur, travail | Féminine | Le manager d’un artiste |
+| [Eau](/fr/bibliotheque/quatre-elements/element-eau/) | Coupes | Émotions, relations, échanges | Féminine | La personne chaleureuse chez qui on se sent chez soi |
+| [Feu](/fr/bibliotheque/quatre-elements/element-feu/) | Bâtons | Création, destruction, élan | Masculine | L’adolescent plein de vie |
 | [Air](/fr/bibliotheque/quatre-elements/element-air/) | Épées | Réfléchir, analyser, décider | Masculine | Le chef qui tranche — et qui peut devenir tyran |
 
 ## Ce qu’un élément fait à une carte {#ce-que-ca-fait}
 
-Le [nombre](/fr/bibliotheque/numerologie/) dit *où en est* la situation ; l’élément dit *sur quel plan* elle se joue. Un Cinq — le conflit, l’épreuve — n’est pas le même conflit selon sa famille : le Cinq de Coupes est un chagrin, le Cinq d’Épées une victoire qui coûte, le Cinq de Bâtons une bagarre d’ego, le Cinq de Pentacles une gêne matérielle. Même étape, quatre plans.
+Le [nombre](/fr/bibliotheque/numerologie/) donne l’étape ; l’élément, le *terrain* sur lequel elle se joue. Un Cinq — le conflit, l’épreuve — n’est pas le même conflit selon sa famille : le Cinq de Coupes est un chagrin, le Cinq d’Épées une victoire qui coûte, le Cinq de Bâtons une bagarre d’ego, le Cinq de Pentacles une gêne matérielle. Même étape, quatre plans.
 
 C’est le principe qui évite d’apprendre quarante cartes : dix nombres, quatre familles, et la combinaison fait le reste.
 

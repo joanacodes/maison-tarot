@@ -8,7 +8,7 @@ weight: 8
 categories: ["Kabbale"]
 tags: ["Netzah", "Kabbale et tarot", "Arbre de Vie", "Sept du tarot", "Vénus", "sephirot"]
 h1: "Netzah — la <em>Victoire</em>, la force de durer"
-lede: "Netzah est la septième sephirah : la victoire, l’endurance, la force qui continue. La Golden Dawn lui a donné les quatre Sept et Vénus — voilà pourquoi les Sept parlent de tenir bon, et de ce à quoi l’on tient."
+lede: "Netzah est la septième sephirah : la victoire, l’endurance, la force qui continue. À elle les quatre Sept et Vénus — voilà pourquoi les Sept parlent de tenir bon, et de ce à quoi l’on tient."
 related:
 - /bibliotheque/kabbale
 - /bibliotheque/kabbale/arbre-de-vie
@@ -16,7 +16,7 @@ related:
 - /bibliotheque/astrologie/venus
 faq:
 - q: "Quelles cartes du tarot correspondent à Netzah ?"
-  a: "Les quatre Sept : Bâtons, Coupes, Épées et Pentacles. Dans le système de la Golden Dawn, Netzah n’a pas de figure attitrée ; les figures vont à Hokhmah, Binah, Tiferet et Malkhout."
+  a: "Les quatre Sept, et c’est tout : la Golden Dawn n’a placé là aucun Roi, aucune Reine, aucun Prince ni aucune Princesse."
 - q: "Netzah veut-il dire victoire ou éternité ?"
   a: "Les deux. Le mot hébreu couvre la victoire, l’endurance et l’éternité, et les sources juives jouent sur les trois : la victoire qui compte, c’est celle qui dure."
 gallery: []
@@ -37,20 +37,20 @@ D’un enseignement sur l’endurance, la Golden Dawn a tiré la sphère de Vén
 
 {{< cards "wa07 cu07 sw07 pe07" >}}
 
-| Carte | Titre Golden Dawn, traduit (décan) | Ce que Netzah ajoute |
+| Carte | Titre (décan) | Ce que Netzah ajoute |
 |---|---|---|
 | [Sept de Bâtons](/fr/bibliotheque/cartes-tarot/sept-de-batons/) | Seigneur de la Vaillance (Mars en Lion) | tenir la hauteur, seul contre six |
 | [Sept de Coupes](/fr/bibliotheque/cartes-tarot/sept-de-coupes/) | Seigneur du Succès illusoire (Vénus en Scorpion) | le désir qui multiplie les options et oublie de choisir |
 | [Sept d’Épées](/fr/bibliotheque/cartes-tarot/sept-de-epees/) | Seigneur de l’Effort instable (Lune en Verseau) | durer par la ruse : emporter ce qu’on peut |
 | [Sept de Pentacles](/fr/bibliotheque/cartes-tarot/sept-de-pentacles/) | Seigneur du Succès inaccompli (Saturne en Taureau) | la longue attente avant la récolte |
 
-D’abord le nombre : le [7](/fr/bibliotheque/numerologie/chiffre-7/), c’est la réflexion, la patience, l’analyse avant l’action, la récolte, la négociation. Son conseil : tout est temporaire, le bon comme le mauvais. Dans mes notes, le Sept de Coupes, c’est l’indécision, trop de choix ; le Sept d’Épées doit laisser des choses derrière lui, mais récolte beaucoup. Netzah ajoute l’endurance. Avec cette clé de lecture, un Sept demande si la patience vaut ce qu’elle protège.
+D’abord le nombre : le [7](/fr/bibliotheque/numerologie/chiffre-7/) invite à réfléchir, à patienter, à analyser avant d’agir ; c’est aussi la récolte et la négociation. Son conseil : aucune situation n’est définitive, heureuse ou non. Mes notes voient dans le Sept de Coupes quelqu’un qui ne sait plus choisir, devant trop d’options ; le Sept d’Épées doit laisser des choses derrière lui, mais récolte beaucoup. Netzah ajoute l’endurance : un Sept demande alors si la patience vaut ce qu’elle protège.
 
 Regardez le Sept de Pentacles : un jeune paysan appuyé sur sa houe, qui regarde un buisson de pièces qu’il ne peut pas presser. C’est Netzah en une image — la victoire, c’est de ne pas avoir lâché.
 
 ## Netzah et l’astrologie : Vénus {#astrologie}
 
-La Golden Dawn donne à Netzah [Vénus](/fr/bibliotheque/astrologie/venus/) : l’amour, le plaisir, la beauté, ce qui vous attire. Vénus arrive cinquième en descendant, après Saturne, Jupiter, Mars et le Soleil.
+[Vénus](/fr/bibliotheque/astrologie/venus/) revient à Netzah dans l’Arbre hermétique : l’amour, le plaisir, la beauté, ce qui vous attire. Vénus arrive cinquième en descendant, après Saturne, Jupiter, Mars et le Soleil.
 
 Dans le Sept de Coupes, Netzah dans la série de l’Eau, le décan est Vénus en Scorpion. Sept coupes dans les nuages, chacune avec un rêve différent : Vénus, ici, c’est vouloir tout à la fois. Le titre de la Golden Dawn dit la suite — succès illusoire.
 
@@ -58,9 +58,9 @@ Dans les sources juives, Netzah est endurance et victoire ; avec Vénus, les aut
 
 ## Netzah dans un tirage {#tirage}
 
-Ce que Netzah peut apporter, c’est une question d’endurance : à quoi vous accrochez-vous, et est-ce que ça vaut encore l’effort ?
+Netzah met l’endurance en question : à quoi vous accrochez-vous, et est-ce que ça vaut encore l’effort ?
 
-Imaginons le Sept de Pentacles à côté du Huit de Coupes. Un paysan qui attend sa récolte ; une silhouette qui s’éloigne de huit coupes empilées. Netzah et Hod côte à côte sur la table : l’élan de continuer, et le regard lucide qui dit quand s’arrêter. La lecture est dans la tension entre les deux.
+Imaginons le Sept de Pentacles à côté du Huit de Coupes. Un paysan qui attend sa récolte ; un homme qui s’en va en laissant ses coupes. Netzah et Hod côte à côte sur la table : l’élan de continuer, et le regard lucide qui dit quand s’arrêter. La lecture est dans la tension entre les deux.
 
 ## Sources {#sources}
 

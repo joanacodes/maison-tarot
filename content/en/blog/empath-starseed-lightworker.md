@@ -44,4 +44,4 @@ A few neighbouring words have pages of their own:
 
 Use them the way you’d use any glossary: to understand what someone means when they say them. **A word can describe what you feel; it can’t tell you who you are.**
 
-If one of them describes something you live, the quietest first step I know is sitting still for two minutes and noticing what’s yours. I’ve written it up for people who are sure they can’t: [meditation for people who think they can’t meditate](/blog/meditation-for-beginners/).
+If one of them describes something you live, the quietest first step I can suggest is two still minutes spent noticing what’s yours. If you’ve always assumed meditation isn’t for you, [my guide for first-timers](/blog/meditation-for-beginners/) was written with you in mind.

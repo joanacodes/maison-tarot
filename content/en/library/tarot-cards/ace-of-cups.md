@@ -15,11 +15,7 @@ energy: Feminine
 kabbalah: ''
 image: cards/cuac.webp
 h1: Ace of Cups — <em>one</em>, Water
-lede: 'Before looking up what Ace of Cups “means”, look at what you already have:
-  one, the element Water, Root of Water. You’re reading the card. The number says
-  one — the beginning, the rough diamond; the element says emotions, what flows. Lay
-  the two over each other, add the colours, and the card is already talking — the
-  rest of the page shows you how.'
+lede: 'A golden cup spills over on an open palm while a white dove dives towards it with a wafer in its beak. Nobody is there to drink yet: are you ready to hold out your hand?'
 related:
 - /library/numerology
 - /library/four-elements/water-element
@@ -42,7 +38,7 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-A hand comes out of a grey cloud on the right, palm up, a faint halo of light around it. On the palm stands one golden cup. Water spills over its rim in thin streams and falls into a pond below, where water lilies float — small pink flowers among round green leaves. Drops fall all around the cup, like rain that hasn’t decided where to land.
+On the right edge, a hand emerges from a grey cloud, palm up, a faint halo of light around it. On the palm stands one golden cup. Water spills over its rim in thin streams and falls into a pond below, where water lilies float — small pink flowers among round green leaves. Drops fall all around the cup, like rain that hasn’t decided where to land.
 
 Above, a white dove dives head first towards the cup, holding in its beak a round wafer marked with a cross, like a communion host. On the cup itself there’s a letter: an M drawn upside down, or a W, depending on how you look at it. The background is plain and pale: no sky, no sun, only a thin strip of shore on the left.
 
@@ -56,7 +52,7 @@ For a feeling this new, [number one](/library/numerology/number-1/) asks for hum
 
 ## By element: Water {#element}
 
-The Cups are [Water](/library/four-elements/water-element/): emotions, relationships, what feeds you from the inside. Water carries you from A to B when you let it, and it can drown you. In the Ace it’s pure source. It hasn’t chosen a riverbed yet; it runs over the rim on every side without aiming at anyone.
+The Cups are [Water](/library/four-elements/water-element/): emotions, relationships, what feeds you from the inside. In the Ace it’s pure source. It hasn’t chosen a riverbed yet; it runs over the rim on every side without aiming at anyone.
 
 Moving water means strong emotions, and this water is all movement. That’s why the Ace of Cups speaks to people who feel something before they can name it. The card doesn’t say who the feeling is for. It says the tap is open.
 
@@ -64,13 +60,13 @@ Moving water means strong emotions, and this water is all movement. That’s why
 
 The cup in the centre is yellow-gold, and [yellow](/library/tarot-colours/yellow/) in my grid means joy and optimism. The [blue](/library/tarot-colours/blue/) of the drops and the pond is emotion, water, purifying, vitality. The white of the dove: purity, peace, something nobody has touched yet. Green and pink at the bottom, on the lily pond: growth, life starting again.
 
-Then the grey of the background: neutrality, no particular will. Before you’ve read a word about the card, you already have a joy not yet aimed anywhere, clean water, and an empty space waiting for someone.
+Then the grey of the background: neutrality, no particular will. That makes a joy not yet aimed anywhere, clean water, and an empty space waiting for someone.
 
 ## By astrology: Root of Water {#astrology}
 
-The Golden Dawn, the tradition the Rider-Waite-Smith correspondences come from, gave the Aces no sign and no planet. Each Ace is the root of its element: here, Water in its raw state, before it divides into the three Water signs — Cancer, Scorpio, Pisces — that the Two to the Ten of Cups share between them.
+The Golden Dawn, the tradition the Rider-Waite-Smith correspondences come from, gave the Aces no sign and no planet. Each Ace stands for its element at the source: here, Water in its raw state, before it divides into the three Water signs — Cancer, Scorpio, Pisces — that the Two to the Ten of Cups share between them.
 
-So [astrology](/library/astrology/) adds little here, and that is the information: the feeling hasn’t got a character yet. If it isn’t one of your lenses, leave it aside.
+So [astrology](/library/astrology/) adds little here, and that is the information: the feeling hasn’t got a character yet. Nobody who reads without the zodiac misses anything on this card.
 
 ## In a reading {#reading}
 
@@ -86,6 +82,6 @@ Next to the [Four of Cups](/library/tarot-cards/four-of-cups/), it’s the same 
 
 Take a made-up spread: the overflowing cup of the Ace, with [the Hermit](/library/tarot-cards/the-hermit/) and his lantern beside it. One next to nine: a beginning beside the end of a stage. Water next to Earth, since the Hermit is a Virgo card: a feeling arriving in a life that has been quiet and practical. Colours: the gold cup and the blue water beside the Hermit’s long grey cloak and his small lantern.
 
-The sentence I’d say out loud: “You’ve been on your own for a while, maybe by choice, and something is opening again — wanting people around, or someone in particular.”
+Cup and lantern side by side give me this sentence: “You’ve been on your own for a while, maybe by choice, and something is opening again — wanting people around, or someone in particular.”
 
-Then I check, without leading: “Does that mean something to you?” If it does, I let the person say what rather than guessing who. If it doesn’t, it’s a miss, and I don’t draw another card to rescue it.
+Then I check, without leading: “Does that mean something to you?” If it does, I let the person say what rather than guessing who. If nothing comes, I count a miss, and the spread stays at two cards.

@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: Hé
 image: cards/ar04.webp
 h1: The Emperor — <em>4</em>, Fire
-lede: 'Before looking up what The Emperor “means”, look at what you already have:
-  4, the element Fire, Aries. You’re reading the card. The number says 4 — four —
-  foundations, stability; the element says drive, what you launch. Lay the two over
-  each other, add the colours, and the card is already talking — the rest of the page
-  shows you how.'
+lede: 'An old king sits rigid on a square stone throne carved with rams’ heads, armour showing under his red robe, bare mountains behind him. What are you defending so hard that nothing can grow around it?'
 related:
 - /library/numerology
 - /library/four-elements/fire-element
@@ -62,15 +58,15 @@ A 4 of Fire is fire in a hearth: contained, useful, keeping the house warm. Unde
 
 ## By colours {#colours}
 
-Red and orange dominate: the robe, the sky, the mountains. In [my colour grid](/library/tarot-colours/red/), red is passion, action, strength, impulse — masculine energy, a body doing something. The Emperor’s is a deep, mature red; in my grid that shade leans towards purple, the colour of the one a group puts in charge. Grey on the throne: stability, matter that doesn’t move. Gold on the crown and the orb: power that has been earned, or taken.
+Red and orange dominate: the robe, the sky, the mountains. [Red](/library/tarot-colours/red/) carries passion, action, strength and impulse in my grid — masculine energy, a body doing something. The Emperor’s is a deep, mature red; in my grid that shade leans towards purple, the colour of the one a group puts in charge. Grey on the throne: stability, matter that doesn’t move. Gold on the crown and the orb: power that has been earned, or taken.
 
 ## By astrology: Aries {#astrology}
 
-In the Golden Dawn tradition, the Emperor goes with [Aries](/library/astrology/aries/), the first sign of the zodiac: “I am”, ruled by Mars, cardinal — the sign that charges. The rams’ heads on the throne are its signature. Aries adds what the stone hides: impatience, the urge to start and to command. Aries is the bricklayer who lays the first stone without reading the plan, and the Emperor is that bricklayer once he has a kingdom.
+For the Emperor, the Golden Dawn chose [Aries](/library/astrology/aries/), the first sign of the zodiac: “I am”, ruled by Mars, cardinal — the sign that charges. The rams’ heads on the throne are its signature. Aries adds what the stone hides: impatience, the urge to start and to command. Aries is the bricklayer who lays the first stone without reading the plan, and the Emperor is that bricklayer once he has a kingdom.
 
 ## In a reading {#reading}
 
-Upright, the Emperor says structure: rules, a frame, a plan, someone who decides. Sometimes it’s an authority in the person’s life — a boss, a parent, an institution — and sometimes it’s their own discipline. I read it for the person in front of me first, not for someone who isn’t in the room ([why I read you, not your boss or your father](/blog/reading-tarot-about-someone-else/)). At work it’s leadership, and the question of leading well, which has its own section below.
+Upright, the Emperor says structure: rules, a frame, a plan, someone who decides. Sometimes it’s an authority in the person’s life — a boss, a parent, an institution — and sometimes it’s their own discipline. I read it for the person in front of me first, not for someone who isn’t in the room ([why I read you, not your boss or your father](/blog/reading-tarot-about-someone-else/)). At work it’s leadership, and how to lead well, which I come to after the cards.
 
 Reversed, the fire leaves the hearth or goes out. Either the rules harden and authority turns into control — the manager who can’t delegate, the parent who decides everything — or there’s no structure at all, and nothing holds.
 
@@ -98,6 +94,6 @@ An invented two-card draw: the Emperor, then the [Eight of Swords](/library/taro
 
 4 then 8: a structure, then the 4 exalted, control pushed to its limit. Fire then Air: a will, then thoughts going round in circles. The Emperor’s red and orange say will and heat; beside a figure who can’t see, that heat has nowhere to go.
 
-The sentence I’d say out loud: “You’ve built rules to protect yourself, and now they’re walls you can’t see past.”
+A stone throne beside a fence of swords comes down to: “You’ve built rules to protect yourself, and now they’re walls you can’t see past.”
 
-Then I’d check: is there a rule of yours — at work, at home — that you’d drop tomorrow if nobody were watching? My note for the Eight of Swords is that you’re a prisoner of yourself while holding every tool: the blindfold can come off. If the answer is no, that’s a miss, and I write it down.
+Then one question: is there a rule of yours — at work, at home — that you’d drop tomorrow if nobody were watching? In my notes the Eight of Swords is someone locked in by themselves, with every tool to get out at hand: the blindfold can come off. If they’d keep every rule they have, I misread the throne, and I record a miss.

@@ -16,14 +16,14 @@ related:
 - /library/astrology/mercury
 faq:
 - q: "Which tarot cards correspond to Hod?"
-  a: "The four Eights: Wands, Cups, Swords and Pentacles. In the Golden Dawn system, Hod has no court card of its own; the courts sit on Chokhmah, Binah, Tiferet and Malkhut."
+  a: "The four Eights, from the flying staves of the Wands to the craftsman of the Pentacles at his bench. Hod is left out of the court-card scheme altogether."
 - q: "Why is Hod linked to Mercury?"
   a: "Because the Golden Dawn hung the seven planets on the Tree in the old order of the skies, and Mercury falls on the eighth sephirah. The link belongs to the Hermetic system, not to the Jewish meaning of Hod."
 gallery: []
 ---
 ## Hod in the Jewish tradition {#tradition}
 
-Hod (הוד) means “splendour” or “majesty”. It is the eighth of the ten sephirot, at the foot of the left column under [Gevurah](/library/kabbalah/gevurah/), and it completes that column. Jewish sources describe it as the lower channel through which judgement reaches the world, and associate it with prophecy.
+Hod (הוד) means “splendour” or “majesty”. It is the eighth of the ten sephirot, at the foot of the left column under [Gevurah](/library/kabbalah/gevurah/), and it completes that column. Jewish sources see it as the lower channel through which judgement reaches the world, and link it with prophecy.
 
 The word shares its root with hoda’ah, acknowledgement or thanks, and Chassidic teaching reads Hod through it: gratitude and humility. **Hod is a splendour that knows where it comes from.** Think of a conductor who takes the applause and turns at once to point at the orchestra: the brilliance and the thanks are one gesture.
 
@@ -44,7 +44,7 @@ For the Golden Dawn, a teaching about majesty and acknowledgement became the sph
 | [Eight of Swords](/library/tarot-cards/eight-of-swords/) | Lord of Shortened Force (Jupiter in Gemini) | the mind that ties itself up |
 | [Eight of Pentacles](/library/tarot-cards/eight-of-pentacles/) | Lord of Prudence (Sun in Virgo) | craft repeated until it shines |
 
-The number gives the frame: [eight](/library/numerology/number-8/) is four exalted — the empire, guaranteed stability, control; the Magician’s lemniscate, an eight lying down; a gate between the tangible and the intangible. In my notes, the Eight of Pentacles is mastery and the effort it takes; the Eight of Cups, moving on from what you’re already doing. Hod adds form. Through this lens, an Eight is something given its shape, its method, its words.
+The number gives the frame: [eight](/library/numerology/number-8/) is four exalted — the empire, guaranteed stability, control; the Magician’s lemniscate, an eight lying down; a doorway from what you can touch to what you can’t. In my notes, the Eight of Pentacles is mastery and the effort it takes; the Eight of Cups, leaving behind what you were busy with. Hod adds form. Through this lens, an Eight is something given its shape, its method, its words.
 
 ## Hod and astrology: Mercury {#astrology}
 
@@ -56,9 +56,9 @@ That’s where the Hermetic system moved the tradition. In Jewish sources, Hod i
 
 ## Hod in a reading {#reading}
 
-What Hod can add is a question about the mind’s part: is the thinking serving the situation, or running it?
+Hod asks about the mind’s part: is the thinking serving the situation, or running it?
 
-Say someone draws the Eight of Swords alone. A woman bound and blindfolded, the swords planted around her but not touching. My note on this card: a prisoner of yourself while you have every tool — you can take off the blindfold. Through Hod, the bonds are made of thoughts. And the older meaning of the word helps too: the first step out is to acknowledge the blindfold is there.
+Say someone draws the Eight of Swords alone. A woman bound and blindfolded, the swords planted around her but not touching. My note on this card: you’re your own jailer, holding everything you’d need to get out — and you’re free to untie the blindfold. Through Hod, the bonds are made of thoughts. And the older meaning of the word helps too: the first step out is to acknowledge the blindfold is there.
 
 Next to a Seven, Hod meets Netzach on the table: the drive to continue, and the analysis that checks it. Read them as a conversation.
 

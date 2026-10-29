@@ -11,7 +11,7 @@ imageAlt: "A phone lying face down on a kitchen table next to two cups of coffee
 imagePrompt: "A phone lying face down on a kitchen table next to two cups of coffee, a hand resting on it without turning it over. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Looking up someone’s birth chart without asking means reading the most private map you can draw of a person — their Moon, their wounds, their hardest lessons — while they aren’t there to say “that’s not me”. I don’t do it, for the same reason I don’t read tarot about people who aren’t in the room. With a crush, I’d hold back even more: you would meet a chart before you meet a person. Ask them instead, read it together if they want to, or let the two of you find out the slow way."
 ---
-I don’t look up someone’s birth chart without asking them first. And if you have a crush, I’d gently suggest you don’t look up theirs at all: let the magic happen for the two of you.
+I don’t look up someone’s birth chart without asking them first. And if you have a crush, I’d gently suggest you don’t look up theirs at all, and leave the two of you the pleasure of discovering each other.
 
 That isn’t a rule handed down from above. It comes from what I saw when I tested charts, and from how I treat tarot.
 
@@ -39,7 +39,7 @@ When I tested charts — family, friends, then strangers — it was always with 
 
 Without the person, nobody can say “that’s not me”. And overall, only 30 to 40% of what I checked held. Read someone’s chart alone and two lines in three may be wrong, and you’ll never know which.
 
-There’s a second effect, which I’ve noticed in readings as well. Someone who doesn’t know they’re being read isn’t open: you get half a sentence and build a whole statement on it. Then you start reading their behaviour through that statement. A late reply becomes “typical of their Moon”. This is only my experience and the hypothesis I make from it; nothing has been proven scientifically.
+There’s a second effect, which I’ve noticed in readings as well. A person with no idea they’re being read stays closed, so all you pick up is a fragment, and you end up stretching it into a conclusion. Then you start reading their behaviour through that conclusion. A late reply becomes “typical of their Moon”. That’s what I’ve observed and what I infer from it, not something science has shown.
 
 ## Your crush included (especially your crush) {#your-crush}
 

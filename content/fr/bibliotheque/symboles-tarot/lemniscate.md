@@ -8,7 +8,7 @@ weight: 16
 categories: ["Symboles"]
 tags: ["symboles du tarot", "lemniscate", "signe de l’infini", "le Magicien", "la Force"]
 h1: "La lemniscate — un <em>huit</em> couché"
-lede: "La lemniscate, c’est le signe de l’infini : un huit couché sur le côté. Dans le Rider-Waite-Smith, elle flotte au-dessus de deux têtes, celle du Magicien et celle de la Force, et serpente entre les mains du Deux de Pentacles. Elle dit que l’énergie circule, et que rien ne se perd."
+lede: "La lemniscate, c’est le signe de l’infini : un huit couché sur le côté. Elle flotte au-dessus de deux têtes, celle du Magicien et celle de la Force, et serpente entre les mains du Deux de Pentacles. Elle dit que l’énergie circule, et que rien ne se perd."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/le-magicien
@@ -55,7 +55,7 @@ La lemniscate, c’est le signe ∞ : un huit couché sur le côté. Son nom vie
 
 ## Où elle apparaît dans le jeu {#ou}
 
-Le Magicien (le Bateleur au tarot de Marseille) l’a au-dessus de la tête, comme une auréole. Une main lève une baguette, l’autre montre le sol : ce qui entre par le haut ressort par le bas, et la boucle fait circuler le tout.
+Le Magicien — le Bateleur des jeux de Marseille — l’a au-dessus de la tête, comme une auréole. Une main lève une baguette, l’autre montre le sol : ce qui entre par le haut ressort par le bas, et la boucle fait circuler le tout.
 
 La Force porte le même signe au-dessus de la femme qui calme le lion. Ici, la boucle, c’est la maîtrise de soi : l’énergie n’est pas arrêtée, elle est gardée en mouvement.
 
@@ -71,15 +71,15 @@ Certains la voient aussi dans les rubans qui nouent la couronne du Monde. Je la 
 
 Quand la lemniscate est sur la carte, demandez ce qui circule, et si ça coule ou si ça tourne en rond. C’est un signe de maîtrise — celle d’un mouvement, pas d’un objet.
 
-Comptez les nombres. La lemniscate est un 8 couché, et dans mes notes [le 8](/fr/bibliotheque/numerologie/chiffre-8/), c’est l’empire : la maîtrise, la stabilité qui dure, une porte entre le tangible et l’intangible. La Force est la lame 8, et le Deux de Pentacles est un 2 qui dessine un 8. Puis les éléments : le Magicien est une carte d’[Air](/fr/bibliotheque/quatre-elements/element-air/), l’esprit ; la Force est de Feu, l’élan ; le Deux de Pentacles est de Terre, le quotidien. L’infini dans la pensée, dans la chaleur, et dans l’agenda.
+Comptez les nombres. La lemniscate est un 8 couché, et dans mes notes [le 8](/fr/bibliotheque/numerologie/chiffre-8/), c’est l’empire : la maîtrise, la stabilité qui dure, un pont jeté entre le concret et l’insaisissable. La Force est la lame 8, et le Deux de Pentacles est un 2 qui dessine un 8. Puis les éléments : le Magicien est une carte d’[Air](/fr/bibliotheque/quatre-elements/element-air/), l’esprit ; la Force est de Feu, l’élan ; le Deux de Pentacles est de Terre, le quotidien. L’infini dans la pensée, dans la chaleur, et dans l’agenda.
 
-Imaginons que quelqu’un tire le Deux de Pentacles alors qu’il mène de front un travail et un déménagement. Le huit dit que ça peut tenir — tant que le ruban continue de bouger.
+Le Deux de Pentacles sort pour quelqu’un qui mène de front un travail et un déménagement : le huit dit que ça peut tenir — tant que le ruban continue de bouger.
 
 ## L’autre face {#revers}
 
 Une boucle sans fin peut aussi être une boucle dont on ne sort pas. L’autre face de la lemniscate, c’est le même souci qui tourne toute la nuit, la même dispute rejouée en boucle, le jongleur qui ne peut poser aucun des deux pentacles.
 
-Pour le Magicien, ma note est franche : il sait tout faire, et il peut mentir si on lui fait confiance les yeux fermés. Un savoir-faire infini, c’est aussi une capacité infinie à faire semblant.
+Pour le Magicien, ma note est franche : il sait tout faire, et il peut mentir à qui le suit sans rien vérifier. Un savoir-faire infini, c’est aussi une capacité infinie à faire semblant.
 
 ## Avec les autres clés {#cles}
 

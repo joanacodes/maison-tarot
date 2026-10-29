@@ -54,7 +54,7 @@ Cette dernière habitude mérite un exemple. Voici une même carte, décrite de 
 
 {{< cards "sw08" >}}
 
-La version du livre : le Huit d’Épées représente l’enfermement et la restriction. La version de la tarologue : une femme aux yeux bandés, les bras liés, huit épées plantées autour d’elle sans qu’aucune ne la touche, les jambes libres et le chemin devant elle ouvert. Elle est prisonnière d’elle-même alors qu’elle a tous les outils pour sortir ; le bandeau peut tomber. La première phrase pourrait venir de n’importe où. La seconde vient de quelqu’un qui a regardé [la carte elle-même](/fr/bibliotheque/cartes-tarot/huit-de-epees/).
+La version du livre : le Huit d’Épées représente l’enfermement et la restriction. La version de la tarologue : une femme aux yeux bandés, les bras liés, huit épées plantées autour d’elle sans qu’aucune ne la touche, les jambes libres et le chemin devant elle ouvert. Ce qui l’enferme, c’est elle, et elle a de quoi se libérer : le tissu sur ses yeux ne tient qu’à elle. La première phrase pourrait venir de n’importe où. La seconde vient de quelqu’un qui a regardé [la carte elle-même](/fr/bibliotheque/cartes-tarot/huit-de-epees/).
 
 ## Si l’on vous accuse {#si-on-vous-accuse}
 
@@ -64,4 +64,4 @@ Puis relisez vous-même le tirage, comme si un inconnu l’avait écrit. S’il 
 
 ## Où voir une lecture sans rien à soupçonner {#ou-voir}
 
-Je ne vends pas de tirages, ni écrits ni autres. Je lis lors d’événements gratuits, en direct, pour des personnes tirées au sort qui ne m’ont rien dit, et je dis à voix haute quand quelque chose ne tient pas. Si vous voulez voir à quoi ressemble une lecture quand il n’y a aucun texte à mettre en doute, [venez à l’un d’eux](/fr/evenements/).
+Je ne vends pas de tirages, ni écrits ni autres. Je lis lors d’événements gratuits, en direct, pour des personnes tirées au sort qui ne m’ont rien dit, et je dis à voix haute quand quelque chose ne tient pas. Pour voir de vos yeux une lecture où il n’y a aucun texte à mettre en doute, [venez à l’un d’eux](/fr/evenements/).

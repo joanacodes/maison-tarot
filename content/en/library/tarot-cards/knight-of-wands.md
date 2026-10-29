@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/wakn.webp
 h1: Knight of Wands — <em>the Knight</em>, Air of Fire
-lede: 'Before looking up what Knight of Wands “means”, look at what you already have:
-  the Knight, the element Air of Fire. You’re reading the card. The number says the
-  Knight — action, the quest, excess; the element says drive, what you launch. Lay
-  the two over each other, add the colours, and the card is already talking — the
-  rest of the page shows you how.'
+lede: 'On a horse rearing above the desert, the grey-armoured rider trails a plume like a flame, and no road shows anywhere. You have the momentum; where will you point it?'
 related:
 - /library/numerology
 - /library/four-elements/fire-element
@@ -57,13 +53,13 @@ You have probably met this Knight. The friend who books the flight before checki
 
 Here [Fire](/library/four-elements/fire-element/) — impulse, passion — gets a gust of wind: the Knight is Air of Fire, and [Air](/library/four-elements/air-element/) feeds a flame. Air is the mind, decisions, communication; blown into Fire, it makes the blaze jump. That’s why this Knight talks fast, decides fast, and changes his mind fast.
 
-Picture the suit’s restless teenager, the one who thinks anything is possible, and give them a horse.
+Take the suit’s fearless adolescent and give them a horse.
 
 ## By colours {#colours}
 
 [Red](/library/tarot-colours/red/) and orange burn all over the card — plume, mane, streamers: passion, action, impulse, the masculine energy of the suit. The yellow of the tunic adds will and pride.
 
-Against all that heat stands the [grey](/library/tarot-colours/grey/) of the armour: neutrality, stability, the one cool thing in the picture. The armour is what lets him survive his own speed. Colours only, then: fire everywhere, a will on top, and a grey shell holding it together.
+Against all that heat stands the [grey](/library/tarot-colours/grey/) of the armour: neutrality, stability, the one cool thing in the picture. The armour is what lets him survive his own speed. So: fire everywhere, a will on top, and a grey shell holding it together.
 
 ## In a reading {#reading}
 
@@ -79,6 +75,6 @@ Next to the [Knight of Pentacles](/library/tarot-cards/knight-of-pentacles/), yo
 
 A hypothetical draw for this page: the Knight of Wands on his rearing horse, then the [Seven of Pentacles](/library/tarot-cards/seven-of-pentacles/). The Knight then 7 — action, then patience and analysis before acting; Fire then Earth — speed, then slow growth; red and orange flames, then a man leaning on his tool, looking at a bush heavy with coins.
 
-The sentence: “You want to leave now, and something you planted needs one more season. Leaving is possible; leaving before the harvest is the part to think about.”
+Horse and harvest, in one sentence: “You want to leave now, and something you planted needs one more season. Leaving is possible; leaving before the harvest is the part to think about.”
 
-Then check, gently: “Is there something slow in your life you’re tempted to drop?” Their answer decides whether the reading holds. If it doesn’t, it doesn’t — note the miss and move on.
+Then check, gently: “Is there something slow in your life you’re tempted to drop?” Their answer decides whether the reading holds. If nothing in their life is growing that slowly, the season I described isn’t theirs: note the miss and move on.

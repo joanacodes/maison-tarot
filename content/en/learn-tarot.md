@@ -14,7 +14,7 @@ faq:
   - q: "How long does it take to learn tarot?"
     a: "With the lenses, you read an unknown card in the first hour. Reading *well* — knowing when you're wrong — takes a few dozen counted readings. Not years."
   - q: "Do you need a gift to read cards?"
-    a: "No. There are no Chosen Ones. Over 300 free readings for strangers, I counted what held and what didn't; the method is published, and it can be learned."
+    a: "No. Reading isn't reserved for a few people born with something extra. Over 300 free readings for strangers I kept a tally of hits and misses, and the method is published so you can learn it."
   - q: "Which tarot deck should a beginner choose?"
     a: "The 1909 Rider-Waite-Smith. Every card is a scene you can read without a book, and the whole Library is built on it."
   - q: "Should I read reversed cards?"
@@ -28,7 +28,7 @@ That's the principle of the whole [Library](/library/): lenses, not meanings.
 
 ## The five lenses, in order {#the-five-lenses}
 
-1. **[Colours](/library/tarot-colours/)** — the fastest lens. Yellow says joy, red says action, blue says emotion, black says absence. You see them before you know which card you're holding.
+1. **[Colours](/library/tarot-colours/)** — the fastest lens. A colour sets the mood of a card before you've even found its name.
 2. **[The four elements](/library/four-elements/)** — the card's house says what it's about: matter ([Earth](/library/four-elements/earth-element/)), emotion ([Water](/library/four-elements/water-element/)), drive ([Fire](/library/four-elements/fire-element/)), the mind ([Air](/library/four-elements/air-element/)).
 3. **[Numerology](/library/numerology/)** — the number says where the situation is in its cycle, from the [1](/library/numerology/number-1/) that begins to the 10 that turns the page.
 4. **[Feminine and masculine energies](/library/feminine-masculine-energies/)** — is the card showing itself or hiding? Acting or thinking?
@@ -44,10 +44,10 @@ The rest — the sentence to say first, the silence rule, the notebook for count
 
 ## What I've checked {#checked}
 
-I did 300 free readings for strangers who told me nothing, and I counted. The result — about nine times in ten by my count, misses included — and the way of counting are on the [Method](/method/) page. You don't have to believe it: the method is there so you can test it.
+Three hundred strangers got a free reading from me, none of them saying a word about themselves first, and I kept count. The result — about nine times in ten by my count, misses included — and the way of counting are on the [Method](/method/) page. You don't have to believe it: the method is there so you can test it.
 
 ## When you want someone in front of you {#in-front}
 
-Reading alone teaches a lot; reading in front of someone teaches faster. The [workshops](/workshops/) take one lens at a time, three hours, twelve people, and end with a blind reading in front of the others. The [sessions](/sessions/) do the same one-to-one. The [events](/events/) are free, and that's where the readings happen.
+Reading alone teaches a lot; reading in front of someone teaches faster. Each [workshop](/workshops/) works through a single lens with twelve people over three hours, and closes with each person reading an unfamiliar card to the group. The [sessions](/sessions/) do the same one-to-one. The [events](/events/) are free, and that's where the readings happen.
 
 And if you'd rather read quietly first: [the Readers' Guide](/guide/) holds the five lenses in a few pages, free, always.

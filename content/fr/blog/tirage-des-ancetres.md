@@ -41,7 +41,7 @@ Imaginons quelqu’un qui pense à un grand-père qui tenait un potager et répa
 
 {{< cards "peki pe08 sw05 pe10 cu06" >}}
 
-Trois Pentacles sur cinq, ça dit déjà beaucoup. [La Terre](/fr/bibliotheque/quatre-elements/element-terre/), c’est la matière, ce qu’on construit de ses mains, tout ce qui a de la valeur pour vous — et toutes les richesses ne sont pas en or. Le Roi, sur un trône sculpté de taureaux et couvert de raisins, est le portrait de quelqu’un de solide, qui pourvoyait. Le Huit de Pentacles, un artisan qui grave pièce après pièce, c’est la transmission : la patience au travail, l’effort qui devient maîtrise.
+Trois Pentacles sur cinq, ça dit déjà beaucoup. [La Terre](/fr/bibliotheque/quatre-elements/element-terre/), c’est la matière, ce qu’on construit de ses mains, ce qui compte vraiment pour vous, en argent comme en affection. Le Roi, sur un trône sculpté de taureaux et couvert de raisins, est le portrait de quelqu’un de solide, qui pourvoyait. Le Huit de Pentacles — un établi, des pièces alignées — dit la transmission : la patience au travail, l’effort qui devient maîtrise.
 
 Le Cinq d’Épées, c’est ce qui n’est pas à vous : un homme qui ramasse les épées pendant que deux autres s’éloignent. Le 5, c’est le conflit ; les Épées, c’est la pensée — peut-être une habitude familiale de devoir gagner chaque dispute. On peut la poser.
 
@@ -53,10 +53,10 @@ Ce tirage demande ce que quelqu’un vous a laissé, pas ce qu’il vous dirait 
 
 Si une question comme « m’as-tu pardonné ? » revient pendant que vous mélangez, confiez-la plutôt à la troisième position. C’est peut-être un poids que vous n’avez plus besoin de porter, et la troisième carte demande justement ce que vous pourriez poser, avec respect.
 
-Et si la perte est récente, ou si le deuil est lourd plutôt que tendre, commencez par [ce que le tarot peut porter dans un deuil, et quand il faut quelqu’un](/fr/blog/tarot-et-deuil/) avant ce tirage. Parfois, la bonne porte est [celle d’un psychologue ou d’un thérapeute](/fr/avertissements/#therapie), et y frapper est une gentillesse envers vous-même.
+Et si la perte est récente, ou si le deuil est lourd plutôt que tendre, lisez d’abord [ce que j’écris du tarot face à un deuil récent](/fr/blog/tarot-et-deuil/), avant ce tirage. Parfois, la bonne porte est [celle d’un psychologue ou d’un thérapeute](/fr/avertissements/#therapie), et y frapper est une gentillesse envers vous-même.
 
 ## Avant de poser les cartes {#avant}
 
 Choisissez une soirée calme. Posez sur la table une photo ou un objet qui lui appartenait, si vous en avez un — une montre, une recette écrite à la main. Mélangez en pensant à cette personne, et arrêtez-vous dès que ça devient lourd ; les cartes attendront.
 
-Les cartes ne contiennent pas votre grand-père. C’est vous qui le portez, et à Samhain, se souvenir, c’est tout le travail. Si vous voulez apprendre les clés de lecture que j’ai utilisées plus haut, commencez par [une carte, aujourd’hui](/fr/apprendre-le-tarot/).
+Les cartes ne contiennent pas votre grand-père. C’est vous qui le portez, et à Samhain, se souvenir, c’est tout le travail. Pour apprendre à lire comme je l’ai fait plus haut, commencez par [une carte, aujourd’hui](/fr/apprendre-le-tarot/).

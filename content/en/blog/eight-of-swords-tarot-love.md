@@ -17,17 +17,17 @@ The Eight of Swords in love describes feeling trapped — and, in the same drawi
 
 ## Eight swords, and every one of them hers {#every-sword-hers}
 
-Eight is the 4 exalted: control, an empire, everything held in place. In my notes it’s also a gate between what you can touch and what you can’t. In this card the control has turned inwards. The element is [Air](/library/four-elements/air-element/): thinking, deciding, talking. Air cuts cleanly when it works, and blocks or obsesses when it doesn’t. The energy is masculine — decide, act — and that’s exactly what is tied up.
+Eight is the 4 exalted: control, an empire, everything held in place. In this card the control has turned inwards. The element is [Air](/library/four-elements/air-element/): thinking, deciding, talking. Air cuts cleanly when it works, and blocks or obsesses when it doesn’t. The energy is masculine — decide, act — and that’s exactly what is tied up.
 
 So in love, the Eight of Swords is a relationship, or a single life, run by the mind against itself. The prison is made of sentences: “nobody will want me”, “I can’t leave now”, “I’ll ruin it if I speak”. Each one feels as solid as a blade. **She isn’t short of resources; she can’t see them.**
 
-One detail of the drawing matters for love: nothing ties her feet. The castle, the puddles and Jupiter in Gemini are on [the Eight of Swords page](/library/tarot-cards/eight-of-swords/).
+For love, look down at her feet: nothing ties them. The castle, the puddles and Jupiter in Gemini are on [the Eight of Swords page](/library/tarot-cards/eight-of-swords/).
 
 ## Where the swords stand, in or out of a relationship {#where-the-swords-stand}
 
 When you’re single, the swords are usually beliefs. “All the good ones are taken.” “I’m not someone people fall for.” “I’ll start dating when I feel ready.” Say someone draws this card after a year of turning down every invitation. The card isn’t saying nobody is out there. It says the thing standing between them and other people might be a sentence they repeat to themselves.
 
-When you’re together, it often describes feeling stuck inside the relationship: a conversation you never start, a need you never name, a habit you both resent and neither breaks. The swords are the arguments you rehearse in your head and never say out loud. Air is also communication, good or bad, and my notes have a name for the bad side: the viper’s tongue. Sometimes a band around you is a sentence someone once said to you, repeated in your head until it sounds like your own. The tool is there — your voice — and the card asks what keeps the blindfold on.
+When you’re together, it often describes feeling stuck inside the relationship: a conversation you never start, a need you never name, a habit you both resent and neither breaks. The swords are the arguments you rehearse in your head and never say out loud. Air also carries what we say, kind or cruel, and my notes have a name for the cruel side: the viper’s tongue. Sometimes a band around you is a sentence someone once said to you, repeated in your head until it sounds like your own. The tool is there — your voice — and the card asks what keeps the blindfold on.
 
 One thing I want to say carefully. If being trapped is literal — if someone controls your money, your phone, who you see, or you’re afraid of them — that isn’t a blindfold you can take off by thinking differently, and it isn’t a question for cards. Talk to someone you trust, or to a domestic abuse support service in your country: the free National Domestic Abuse Helpline in the UK (0808 2000 247, open around the clock), or the 3919 in France, free and anonymous. If you’re in danger right now, call 999 or 112. That comes first.
 
@@ -53,7 +53,7 @@ In excess, it becomes a new kind of prison. Planning the escape so carefully tha
 
 With this card, people often ask about the other person. “Will he leave her?” “Why won’t she commit?” “Is he going to change?” It makes sense: when you feel trapped, it’s tempting to believe the key is in someone else’s pocket.
 
-I don’t read on another person’s choices. They’re not in the room, and their decisions are theirs to make. Reading someone without their consent is like going through their bedroom while they’re out; and someone who doesn’t know they’re being read isn’t open, so you’d only catch half a sentence and build a whole story on it. I explain more in [reading tarot about someone else](/blog/reading-tarot-about-someone-else/). There’s a gentler reason too: that question keeps the blindfold on, because it hands your way out to somebody else.
+I don’t read on another person’s choices. They’re not in the room, and their decisions are theirs to make. Reading a person who hasn’t said yes is like letting yourself into their room while they’re away, and if they don’t know a reading is happening, they aren’t open to it: you’d get fragments and fill the rest with guesswork. I explain more in [reading tarot about someone else](/blog/reading-tarot-about-someone-else/). There’s a gentler reason too: that question keeps the blindfold on, because it hands your way out to somebody else.
 
 A kinder question is: “Which of my own thoughts is keeping me here, and which one can I loosen first?” It’s yours, so it has an answer; the step out of the circle is yours too.
 

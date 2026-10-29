@@ -14,7 +14,7 @@ faq:
   - q: "Do the major arcana have numbers too?"
     a: "Yes, 0 to 21. You read them by reducing: the Wheel of Fortune (10) shares something with the tens; the Tower (16) with the sevens. But it's a secondary lens for the majors, whose picture already says a lot."
   - q: "What about the court cards — Page, Knight, Queen, King?"
-    a: "They're ranks more than numbers: the student, the one who acts, the one who masters inside, the one who decides outside. Each has its own page."
+    a: "They're ranks more than numbers: the student, the one who acts, the one who masters inside, the one who decides outside. Each rank is covered on a separate page."
 ---
 ## The cycle, in ten words {#the-cycle}
 
@@ -31,7 +31,7 @@ faq:
 | 9 | Home stretch | Last efforts, introspection. | The whole design pivots to Reels |
 | 10 | Transition | Freedom, change, breathing. | Nobody recognises the platform: it's another one |
 
-A detail people miss about 10: from the outside, you might think the person is down. In reality the butterfly is already far away, out of its chrysalis.
+A detail people miss about 10: someone who looks knocked flat may already have left the old shape behind. The [Ten of Swords](/library/tarot-cards/ten-of-swords/) page has the image I use for it.
 
 ## Why Instagram and not a Greek myth {#why-instagram}
 

@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/sw07.webp
 h1: Sept d’Épées — <em>sept</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » Sept d’Épées, regardez ce que vous avez
-  déjà : sept, l’élément Air, Lune en Verseau. Vous lisez la carte. Le nombre dit
-  sept — le doute, l’évaluation, la patience ; l’élément dit le mental, ce qu’on décide.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'À pas de loup, un homme file du camp avec cinq lames contre lui et en abandonne deux, plantées dans le sol. Ce sourire jeté par-dessus l’épaule, soulagement ou malice ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-air
@@ -63,7 +59,7 @@ Le ciel [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) inonde la carte : la joi
 
 ## Par l’astrologie : Lune en Verseau {#astrologie}
 
-Dans la tradition Golden Dawn, le Sept d’Épées correspond à la Lune dans le troisième décan du [Verseau](/fr/bibliotheque/astrologie/verseau/). Le Verseau est le signe de l’idée originale et du « je sais » — que j’entends comme « je crois savoir » —, avec une tendance à se retrouver dans des situations bizarres et inconfortables. La Lune, c’est ce que vous ressentez quand personne ne regarde. Ensemble : un plan personnel, mené seul, très malin jusqu’au moment où il ne l’est plus. Vous pouvez laisser cette clé de côté : le sourire par-dessus l’épaule en dit autant.
+Le Sept d’Épées est rattaché à la Lune, dans le troisième décan du [Verseau](/fr/bibliotheque/astrologie/verseau/). Le Verseau est le signe de l’idée originale et du « je sais » — que j’entends comme « je crois savoir » —, avec une tendance à se retrouver dans des situations bizarres et inconfortables. La Lune, c’est votre monde intime, ce qui se joue à l’abri des regards. Ensemble : un plan personnel, mené seul, très malin jusqu’au moment où il ne l’est plus. Vous pouvez laisser cette clé de côté : le sourire par-dessus l’épaule en dit autant.
 
 ## En lecture {#lecture}
 
@@ -71,7 +67,7 @@ Dans la tradition Golden Dawn, le Sept d’Épées correspond à la Lune dans le
 
 On me demande souvent si cette carte veut dire qu’on vous trompe, et je comprends l’inquiétude. Elle peut désigner quelque chose de caché, mais elle ne peut pas dire ce que fait une personne qui n’est pas là, et [je ne lis pas sur les absents](/fr/avertissements/#refus). Une question plus douce : qu’avez-vous cessé de dire, vous ?
 
-Renversé, le plan sort au grand jour. Freiné, le secret devient trop lourd, trop d’épées pour deux bras. Excessif, le mensonge grossit et l’habileté tourne à la méfiance envers tout le monde. Parfois, la carte renversée, c’est le moment d’avouer et de remettre les épées en place.
+Renversé, le plan sort au grand jour. Tantôt le secret devient trop lourd, trop d’épées pour deux bras ; tantôt le mensonge grossit et l’habileté tourne à la méfiance envers tout le monde. Parfois, la carte renversée, c’est le moment d’avouer et de remettre les épées en place.
 
 À côté du [Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/), le savoir-faire et le faux-semblant se côtoient ; dans mes notes, le Magicien peut mentir si on lui fait aveuglément confiance. À côté de la [Lune](/fr/bibliotheque/cartes-tarot/la-lune/), ce qui est caché devient plus trouble : vérifiez les faits avant d’accuser qui que ce soit. À côté du [Sept de Pentacles](/fr/bibliotheque/cartes-tarot/sept-de-pentacles/), un autre sept qui contemple sa récolte : ce qu’on emporte valait l’effort.
 
@@ -83,6 +79,6 @@ Renversé, le plan sort au grand jour. Freiné, le secret devient trop lourd, tr
 
 Et si, pendant un entraînement, quelqu’un tirait le Sept d’Épées, puis le [Trois de Bâtons](/fr/bibliotheque/cartes-tarot/trois-de-batons/) ? Sept puis trois : une récolte et un compromis, puis un rythme qui fonctionne. L’Air puis le Feu : un plan dans la tête, puis l’élan, l’expansion. Un ciel jaune, puis un homme sur une hauteur qui regarde des bateaux prendre la mer.
 
-Vous pourriez dire : « Vous êtes en train de quitter quelque chose sans bruit, avec plus que ce que vous aviez en arrivant, et vous regardez déjà plus loin. »
+Le départ discret, puis les bateaux au loin, me souffleraient : « Vous êtes en train de quitter quelque chose sans bruit, avec plus que ce que vous aviez en arrivant, et vous regardez déjà plus loin. »
 
-Puis vérifiez : « Êtes-vous en train de quitter quelque chose sans l’avoir encore annoncé ? » Si la personne dit non, n’insistez pas : c’est un raté. Si oui, la question suivante, c’est ce qu’elle laisse par terre, et si c’est voulu.
+Puis vérifiez : « Êtes-vous en train de quitter quelque chose sans l’avoir encore annoncé ? » Si la personne dit non, n’insistez pas ; la lecture s’arrête là. Si oui, la question suivante, c’est ce qu’elle laisse par terre, et si c’est voulu.

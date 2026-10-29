@@ -87,7 +87,7 @@ Les arcanes majeurs vont sur les sentiers, une lettre chacun. La [Golden Dawn](/
 
 Chez la Golden Dawn, les figures s’appellent Roi, Reine, Prince et Princesse. Le Roi, un cavalier couronné (certains papiers de la Golden Dawn, puis le tarot de Thoth de Crowley, l’appellent Cavalier), va en Hokhmah ; la Reine en Binah ; le Prince, sur son char, en Tiferet ; la Princesse en Malkhout.
 
-Comment le Roi, la Reine, le Cavalier et le Valet du Rider-Waite-Smith s’y accordent, on en débat encore. Si l’on suit les titres, le Roi du RWS est le Roi de la Golden Dawn et le Cavalier devient le Prince : c’est la table des figures de [l’article de Wikipédia sur le tarot de Thoth](https://en.wikipedia.org/wiki/Thoth_Tarot) (en anglais). Si l’on suit l’image, c’est le Cavalier du RWS qui est à cheval : certains lui donnent Hokhmah, et le Roi va en Tiferet. Le Valet reste avec la Princesse dans les deux cas. Les pages de cartes de ce site suivent la première lecture : le Roi de Bâtons est Feu de Feu, le Cavalier de Bâtons Air de Feu.
+Comment le Roi, la Reine, le Cavalier et le Valet du Rider-Waite-Smith s’y accordent, on en débat encore. Si l’on suit les titres, le Roi du RWS est le Roi de la Golden Dawn et le Cavalier devient le Prince : c’est la table des figures de [l’article de Wikipédia sur le tarot de Thoth](https://en.wikipedia.org/wiki/Thoth_Tarot) (en anglais). Si l’on suit l’image, c’est le Cavalier du RWS qui est à cheval : certains lui donnent Hokhmah, et le Roi va en Tiferet. Le Valet reste avec la Princesse dans les deux cas. Sur ce site, c’est la première lecture qui a été retenue : Feu de Feu pour le Roi de Bâtons, Air de Feu pour le Cavalier de Bâtons.
 
 ## D’autres arbres, d’autres numéros {#autres-systemes}
 

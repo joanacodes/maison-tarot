@@ -17,9 +17,9 @@ A career spread for a decision lays your choice out on the table where you can s
 
 It’s built for a choice between two paths: stay or go, this offer or that one, the job you have or the one you’re training for. It shows what each path asks of you and gives you, and the thing your list of pros and cons forgot.
 
-It doesn’t pick. There’s deliberately no position called “which one”. [Tarot isn’t an authority](/blog/tarot-is-not-an-authority/): act on what you feel, not on a card.
+It doesn’t pick. There’s deliberately no position called “which one”. [Tarot isn’t an authority](/blog/tarot-is-not-an-authority/): act on what you feel rather than on a card.
 
-It also leaves money decisions aside — the salary to accept, whether you can afford to resign, the figures in a business plan. Those questions come with real pressure, and they deserve real numbers: your accounts, the contract, an accountant or an adviser who can see them. A card can’t. What a reading can hold meanwhile is how each option feels to you, and that matters too. The reasons are on [the refusals page](/disclaimers/#refusals).
+It also leaves money decisions aside — the salary to accept, whether you can afford to resign, the figures in a business plan. Those questions come with real pressure, and they deserve real numbers: your accounts, the contract, an accountant or an adviser who can see them. A card can’t. Meanwhile, the cards can still look at how each option feels to you, and that matters too. The reasons are on [the refusals page](/disclaimers/#refusals).
 
 ## The five positions {#positions}
 
@@ -41,15 +41,15 @@ Say you’re weighing whether to stay in your job (A) or take an offer from a sm
 
 Where I stand: the Ten of Wands, a man bent under ten wands, carrying them towards a house. Fire, number 10: the end of a cycle — and, in my notes, keeping the creative energy without overloading. You’re carrying too much, and you’re nearly there.
 
-Option A, staying: the Four of Pentacles, a crowned man holding a coin tight to his chest, another on his crown, two under his feet. Earth, number 4: stability, the fruit of your work — and its minus, carrying on when you should stop. Staying gives security; it asks you to hold on.
+Option A, staying: the Four of Pentacles, a crowned man holding a coin tight to his chest, another on his crown, two under his feet. Earth, number 4: stability, the fruit of your work — and its minus, staying past the point where you should have left. Staying gives security; it asks you to hold on.
 
 Option B, going: the Three of Wands, a man on a cliff with his back to us, looking out at ships under a yellow sky. Fire, number 3: the machine running, momentum. Yellow is optimism and will. Going gives you a wider view, and asks for the 3’s advice: finish one project before you start the next.
 
-What I’m not counting: the Four of Swords, a knight lying on a tomb, hands joined, swords hanging above him. Air, number 4: rest. Whichever you choose, your list forgot to count recovery.
+What I’m not counting: the Four of Swords, a knight at rest on his tomb, hands in prayer, the blades hung up above him. Air, number 4: rest. Whichever you choose, your list forgot to count recovery.
 
 What I take with me: the Eight of Pentacles, a craftsman carving coins at his bench. Earth, number 8: mastery, necessary effort. That skill goes with you either way.
 
-Across the row: two Fire, two Earth, one Air. And [two 4s](/library/numerology/number-4/) — stability is the real subject, in the job and in you. The sentence out loud: “You’re carrying too much; staying means holding on to security you’ve earned; going means a wider view, if you finish what you start; what’s missing from your list is rest; and your craft comes with you either way.”
+Across the row: two Fire, two Earth, one Air. And [two 4s](/library/numerology/number-4/) — stability is the real subject, in the job and in you. Told in one breath to the person weighing the move: “You’re carrying too much; staying means holding on to security you’ve earned; going means a wider view, if you finish what you start; what’s missing from your list is rest; and your craft comes with you either way.”
 
 Notice what the cards didn’t say: which one. In this spread, they never do.
 
@@ -67,4 +67,4 @@ This row is all minor cards. When one of the big majors lands in one of the five
 
 Write the decision down next to the spread, with the date. In three months, reread both: the cards, and what you did. That’s how you learn what your readings are worth — not by whether the cards “were right”, but by whether they helped you see.
 
-If you chose to go, [a five-card spread for your first month](/blog/new-job-tarot-spread/) picks up where this one stops. And if you’d like to read your own spread with someone who knows the lenses, a [one-to-one session](/sessions/) takes an hour.
+If you chose to go, [a five-card spread for your first month](/blog/new-job-tarot-spread/) picks up where this one stops. And if you’d like a second pair of eyes on a career spread of your own, a [one-to-one session](/sessions/) takes an hour.

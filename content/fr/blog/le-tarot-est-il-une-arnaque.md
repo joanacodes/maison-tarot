@@ -62,7 +62,7 @@ Pour être juste envers les tarologues qui en vivent : être payé n’est pas u
 
 La zone grise, c’est la tarification qui récompense l’incertitude : à la question, à la minute, l’abonnement qui se renouvelle pendant que vous attendez toujours une réponse. J’explique comment ces modèles fonctionnent dans [le tarot payant à la question](/fr/blog/tarot-payant-a-la-question/).
 
-Je m’inclus dans le lot. En 2021, je [vendais de la sauge, des bougies et des cartes « canalisées »](/fr/blog/purifier-son-jeu-de-tarot/), et j’ai arrêté parce que rien de tout ça n’améliorait une lecture. Aujourd’hui je vends des cours et je donne les lectures, parce que c’est l’arrangement où je ne gagne rien à ce que vous ayez de nouveau besoin de moi : [ce que je fais payer, et ce que je donne](/fr/blog/ce-que-je-fais-payer/).
+Je m’inclus dans le lot. En 2021, [j’ai fait commerce de sauge, de bougies et de cartes dites « canalisées »](/fr/blog/purifier-son-jeu-de-tarot/), puis j’y ai renoncé : aucun de ces objets ne rendait une lecture meilleure. Aujourd’hui je vends des cours et je donne les lectures, parce que de cette façon je ne gagne rien à ce que vous ayez de nouveau besoin de moi. J’explique [où je trace la ligne entre cours et lectures](/fr/blog/ce-que-je-fais-payer/).
 
 ## Si vous pensez avoir mordu à l’hameçon {#si-vous-avez-mordu}
 

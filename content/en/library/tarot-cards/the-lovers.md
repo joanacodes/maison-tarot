@@ -15,11 +15,7 @@ energy: Feminine
 kabbalah: Zayin
 image: cards/ar06.webp
 h1: The Lovers — <em>6</em>, Air
-lede: 'Before looking up what The Lovers “means”, look at what you already have: 6,
-  the element Air, Gemini. You’re reading the card. The number says 6 — six — harmony
-  regained, exchange; the element says the mind, what you decide. Lay the two over
-  each other, add the colours, and the card is already talking — the rest of the page
-  shows you how.'
+lede: 'A naked man and woman stand apart under an angel with red wings, a tree of flames behind him and a tree with a snake behind her. What are you choosing, and are your eyes open?'
 related:
 - /library/numerology
 - /library/four-elements/air-element
@@ -46,15 +42,15 @@ tags:
 
 A naked man and a naked woman stand apart in the open, under a great angel. The angel spreads red wings over them from a cloud, arms open, with a huge sun blazing behind. Behind the man stands a tree whose leaves are flames; behind the woman, a tree heavy with fruit, a snake coiled around its trunk. Between them, in the distance, rises a single tall mountain.
 
-Follow the gazes. The man looks at the woman. The woman looks up at the angel. Nobody is looking at the same thing.
+Follow the gazes: his goes to her, hers goes up to the angel. Nobody is looking at the same thing.
 
-What’s missing: contact — their hands don’t touch. No ring, no crowd, no ceremony. **The drawing is about a choice being made under someone’s gaze, more than about a romance already sealed.**
+What’s missing: contact — their hands don’t touch. No ring, no crowd, no ceremony. **What it shows is a choice being made under someone’s gaze, more than a romance already sealed.**
 
 ## By number: 6 {#number}
 
 The [number 6](/library/numerology/number-6/) is 3 exalted: the machine is launched and fast, and harmony comes back after the trial of 5. On this card the 6 is the exchange between two people — and the choice it implies, because agreeing with someone means saying yes to them and no to something else.
 
-In the Instagram story on my numerology pages, 6 is Facebook deciding to invest: the threat of the 5 becomes the engine, everything speeds up, and nobody reads the conditions any more. The advice of 6 is to stay calm and humble while it’s going well; a happy union still deserves a look at its terms.
+Instagram’s 6 arrived with Facebook’s investment: the threat of the 5 turned into the engine, the pace picked up, and the fine print stopped getting read. The advice of 6 — keep your head and your modesty while things go well — applies here: a happy union still deserves a look at its terms.
 
 ## By element: Air {#element}
 
@@ -66,27 +62,27 @@ So the card is a choice more than a romance: two people talking, weighing, decid
 
 Red and yellow dominate the top of the card. In [my colour grid](/library/tarot-colours/red/), red is passion, action, impulse; on the angel’s wings and in the flames of the man’s tree, it’s an energy that pushes. Yellow on the sun: joy, will, a choice made in broad daylight.
 
-Read before the card: desire, will, and a decision taken in full light.
+Red over yellow, then: desire, will, and a decision taken in full light.
 
 ## By astrology: Gemini {#astrology}
 
-In the Golden Dawn tradition, the Lovers go with [Gemini](/library/astrology/gemini/): “I think”, ruled by Mercury, a mutable sign that changes in order to communicate. Twins, two of something — the card’s pair. At its best Gemini is the great reporter who says exactly what was meant; at its worst it’s a game of Chinese whispers, where the version going round is no longer the true one. A useful nuance for a love card: what’s being said, and by whom.
+Golden Dawn astrologers placed the Lovers under [Gemini](/library/astrology/gemini/): “I think”, ruled by Mercury, a mutable sign that changes in order to communicate. Twins, two of something — the card’s pair. At its best Gemini is the great reporter who says exactly what was meant; at its worst it’s a game of Chinese whispers, where the version going round is no longer the true one. A useful nuance for a love card: what’s being said, and by whom.
 
 ## In a reading {#reading}
 
-Upright, the Lovers say: a choice, made with someone or about something you love. Sometimes it’s a relationship; often it’s a crossroads — two paths, two offers, two versions of your life — and the card asks you to choose with your eyes open. In love it’s [a choice more than a romance](/blog/lovers-tarot-love/); at work it’s choosing a path, which has its own section below.
+Upright, the Lovers say: a choice, made with someone or about something you love. Sometimes it’s a relationship; often it’s a crossroads — two paths, two offers, two versions of your life — and the card asks you to choose with your eyes open. In love it’s [a choice more than a romance](/blog/lovers-tarot-love/); at work it’s choosing a path, and that gets a closer look further down.
 
 People often hope this card will tell them whether someone loves them. I understand the wish. But I read the person in front of me, not someone who isn’t in the room, so the Lovers speak about your choice rather than another person’s feelings ([more on reading about someone else](/blog/reading-tarot-about-someone-else/)).
 
 Reversed, the choice is postponed or made for the wrong reasons. Either the person stays at the crossroads, unable to give anything up, or the exchange breaks down — two people talking past each other, each sure they’ve been clear.
 
-Next to the [Two of Cups](/library/tarot-cards/two-of-cups/), two people exchanging cups, the bond is mutual and the feeling is there. Next to [the Devil](/library/tarot-cards/the-devil/) — the same naked couple, this time chained to a pedestal — the question is whether the bond is a choice or a habit; on that card, the chains are loose enough to lift off. **The Lovers don’t tell you whom to choose; they show you that you are choosing.**
+Next to the [Two of Cups](/library/tarot-cards/two-of-cups/), two people exchanging cups, the bond is mutual and the feeling is there. Next to [the Devil](/library/tarot-cards/the-devil/) — the same naked couple, this time chained to a pedestal — the question is whether the bond is a choice or a habit; on that card, nothing stops them slipping the chains off. **The Lovers don’t tell you whom to choose; they show you that you are choosing.**
 
 {{< cards "cu02 ar15" >}}
 
 ## At work {#at-work}
 
-At work, the Lovers puts a choice on the table: two job offers, staying an expert or becoming a manager, going freelance or staying employed, joining a business partner or not. The card reads that choice through values more than feelings — in my notes, Air is the best decision-maker of the four elements, because it sees everything at once — and asks which option lets you be yourself on an ordinary Tuesday afternoon, with the emails and the commute. It’s a card of partnerships too: a deal is only as good as the conversation behind it.
+At work, the Lovers puts a choice on the table: two job offers, staying an expert or becoming a manager, going freelance or staying employed, joining a business partner or not. The card reads that choice through values more than feelings — in my notes, Air makes the soundest decisions of the four elements, because nothing escapes its view — and asks which option lets you be yourself on an ordinary Tuesday afternoon, with the emails and the commute. It’s a card of partnerships too: a deal is only as good as the conversation behind it.
 
 Next to the Seven of Cups — in my notes, indecision, too many choices — the problem isn’t two options but seven, most of them imagined: find the two that are real. **People often hope a reading will spare them the “no”; this is the card that shows it can’t.**
 
@@ -102,6 +98,6 @@ In a reading made up for practice, the Lovers sit beside the [Two of Pentacles](
 
 6 then 2: a choice that should bring harmony, next to a 2 still weighing. Air then Earth: a decision about something concrete — money, time, a job, a home. The Lovers’ red and yellow, a decision in full light, next to a card in motion.
 
-The sentence I’d say out loud: “There’s a choice in front of you, and you’ve been juggling both options so you don’t have to pick one.”
+The choice and the juggle, together: “There’s a choice in front of you, and you’ve been juggling both options so you don’t have to pick one.”
 
-Then I’d check: is there something you’re keeping two of, so you don’t have to give either up? If it lands, the next question is which one they’d keep if they had to decide tonight. If it doesn’t, I tell them plainly that it missed.
+Then I’d check: is there something you’re keeping two of, so you don’t have to give either up? If it lands, the next question is which one they’d keep if they had to decide tonight. If they aren’t holding on to two of anything, I tell them plainly that it missed.

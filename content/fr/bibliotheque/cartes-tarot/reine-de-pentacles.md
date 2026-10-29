@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/pequ.webp
 h1: Reine de Pentacles — <em>la Reine</em>, l’Eau de terre
-lede: 'Avant de chercher ce que « signifie » Reine de Pentacles, regardez ce que vous
-  avez déjà : la Reine, l’élément Eau de Terre. Vous lisez la carte. Le nombre dit
-  la Reine — la maîtrise intérieure, l’accueil ; l’élément dit la matière, ce qui
-  tient. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous
-  parle déjà — le reste de la page vous montre comment.'
+lede: 'Sous une arche de roses, une reine penche la tête vers le pentacle posé sur ses genoux, tandis qu’un lapin se tient dans l’herbe. Son soin nourrit-il les autres, ou finit-il par les retenir ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre
@@ -30,7 +26,7 @@ faq:
 - q: 'Que signifie Reine de Pentacles ?'
   a: 'Le soin rendu concret : quelqu’un qui rend une maison, une équipe ou un jardin vivable, et s’occupe des autres avec des choses pratiques — un repas, une pièce chaude, un problème réglé. La Reine est la maîtrise intérieure et la Terre la matière : son attention, on peut la toucher.'
 - q: 'Reine de Pentacles renversé, ça change quoi ?'
-  a: 'Le même soin, freiné ou excessif. Freiné : la personne qui s’occupe de tout le monde oublie de s’occuper d’elle, ou finit par s’épuiser. Excessif : le soin devient contrôle, et la protection commence à étouffer.'
+  a: 'Soit la personne qui s’occupe de tout le monde oublie de s’occuper d’elle, et finit par s’épuiser ; soit le soin devient contrôle, et la protection commence à étouffer.'
 - q: 'Que signifie la Reine de Pentacles en amour ?'
   a: 'La chaleur, la loyauté et un foyer où l’on se sent en sécurité. Renversée ou mal entourée, elle peut décrire quelqu’un qui donne tant que la relation finit par ressembler à un travail.'
 categories:
@@ -56,7 +52,7 @@ Un exemple que tout le monde connaît : dans une famille, la personne dont la cu
 
 ## Par l’élément : Terre {#element}
 
-La Reine de Pentacles est Eau de Terre : la famille est la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) — la matière, la prospérité, ce qui a de la valeur à vos yeux — et sa part à elle est l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les émotions, les relations, les forces cachées. L’Eau dans la Terre, c’est ce qui rend le sol fertile. Elle change le sentiment en quelque chose de concret : un repas, un jardin, une pièce chaude. Cette Reine a la chaleur que mes notes prêtent à l’Eau : chez elle, on se sent chez soi, et il y a un jardin en plus.
+La Reine de Pentacles est Eau de Terre. Sa famille, la [Terre](/fr/bibliotheque/quatre-elements/element-terre/), tient les biens, l’abondance, tout ce qu’on chérit ; son rang lui ajoute l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les émotions, les relations, les forces cachées. L’Eau dans la Terre, c’est ce qui rend le sol fertile. Elle change le sentiment en quelque chose de concret : un repas, un jardin, une pièce chaude. Cette Reine a la chaleur que mes notes prêtent à l’Eau : chez elle, on se sent chez soi, et il y a un jardin en plus.
 
 Le revers vient des deux éléments. La Terre est têtue ; l’Eau négligée s’infiltre lentement, comme l’humidité dans un mur. Une Reine qui donne tout sans jamais dire ce qu’elle ressent peut finir épuisée — ou serrer tout le monde un peu trop fort.
 
@@ -66,9 +62,9 @@ Le [rouge](/fr/bibliotheque/couleurs-tarot/rouge/), c’est sa robe : la passion
 
 ## En lecture {#lecture}
 
-À l’endroit : le soin rendu pratique. Quelqu’un qui rend un lieu vivable — une maison, une équipe, une famille — et prend soin des gens avec des choses réelles. Ce peut être une personne autour de vous ou un état que vous traversez : ancré, généreux, bien dans votre corps et dans votre maison. Ce n’est pas une question de sexe : la cuisine toujours ouverte dont je parlais plus haut peut tout aussi bien être celle d’un homme. **Le meilleur soin rend les gens plus forts, pas plus dépendants.**
+À l’endroit : le soin rendu pratique. Quelqu’un qui rend un lieu vivable — une maison, une équipe, une famille — et prend soin des gens avec des choses réelles. Il peut s’agir de quelqu’un de votre entourage, ou d’un état que vous traversez : ancré, généreux, bien dans votre corps et dans votre maison. Ce n’est pas une question de sexe : la cuisine toujours ouverte dont je parlais plus haut peut tout aussi bien être celle d’un homme. **Le meilleur soin rend les gens plus forts, pas plus dépendants.**
 
-Renversée, son soin s’épuise, ou retient trop. Freiné : celle ou celui qui nourrit tout le monde oublie de manger, et le jardin reste en friche faute d’énergie. Excessif : une protection qui étouffe — ma note sur l’Impératrice, qui peut étouffer par sa présence maternelle, vaut aussi ici — ou un confort devenu le seul but.
+Renversée, son soin s’épuise, ou retient trop. À bout de forces, celle ou celui qui nourrit tout le monde oublie de manger, et le jardin reste en friche. Trop présent, le soin étouffe — ma note sur l’Impératrice, qui peut étouffer par sa présence maternelle, vaut aussi ici — ou fait du confort le seul but.
 
 À côté de [l’Impératrice](/fr/bibliotheque/cartes-tarot/l-imperatrice/), la mère nourricière deux fois, et la même question : nourrir, ou garder ? À côté du [Roi de Pentacles](/fr/bibliotheque/cartes-tarot/roi-de-pentacles/), la maisonnée au complet : l’une entretient, l’autre gère. À côté du [Cinq de Pentacles](/fr/bibliotheque/cartes-tarot/cinq-de-pentacles/) — deux silhouettes dans la neige qui passent devant un vitrail éclairé —, sa chaleur est ce qui manque, ou ce qu’il faut oser demander.
 
@@ -76,8 +72,8 @@ Renversée, son soin s’épuise, ou retient trop. Freiné : celle ou celui qui 
 
 ## Exemple de tirage {#exemple}
 
-Exercez-vous sur ce duo : la personne que vous lisez tire la Reine de Pentacles, puis le [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/). Reine puis quatre : la maîtrise intérieure, puis la stabilité — une pause, une structure. Terre puis Air : le soin avec les mains, puis un esprit qui a besoin de s’arrêter. Une reine qui tient sa pièce, puis un chevalier allongé sur un tombeau, mains jointes, des épées accrochées au mur au-dessus de lui.
+Exercez-vous sur ce duo : la personne que vous lisez tire la Reine de Pentacles, puis le [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/). Reine puis quatre : la maîtrise intérieure, puis la stabilité — une pause, une structure. Terre puis Air : le soin avec les mains, puis un esprit qui a besoin de s’arrêter. Une reine qui tient sa pièce, puis un gisant en armure, mains jointes, sous trois lames suspendues.
 
-À voix haute : « Vous vous occupez de beaucoup de monde, et vous le faites bien. Ces cartes demandent qui s’occupe de vous — et suggèrent un repos qui ne soit pas une récompense. Un repos, tout court. »
+Celle qui nourrit, puis celui qui se repose ; ma phrase : « Vous vous occupez de beaucoup de monde, et vous le faites bien. Ces cartes demandent qui s’occupe de vous — et suggèrent un repos qui ne soit pas une récompense. Un repos, tout court. »
 
-Puis vérifiez : « Est-ce que ça vous ressemble, ou est-ce que ça ressemble à quelqu’un de proche ? » Si non, c’est un raté ; notez-le et n’allez pas plus loin.
+Puis vérifiez : « Est-ce que ça vous ressemble, ou est-ce que ça ressemble à quelqu’un de proche ? » Si la personne ne voit personne de tel, ni en elle ni autour, la phrase n’a pas trouvé preneur ; on s’arrête là.

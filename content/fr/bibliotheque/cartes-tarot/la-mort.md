@@ -1,6 +1,6 @@
 ---
 title: 'La Mort (Death) — tarot Rider-Waite-Smith : lire la carte par ses clés de lecture'
-description: 'La Mort au tarot n’annonce ni un décès ni un licenciement. Ce que montre la carte de 1909, le 13, l’Eau et le Scorpion, et la fin dont elle parle, au travail aussi.'
+description: 'La Mort au tarot n’annonce ni un décès ni un licenciement. Le squelette à cheval, le 13, l’Eau et le Scorpion : une fin naturelle, une moisson, au travail aussi.'
 translationKey: card-ar13
 type: cards
 navTitle: La Mort
@@ -15,10 +15,7 @@ energy: Féminine
 kabbalah: Nun
 image: cards/ar13.webp
 h1: La Mort — <em>13</em>, l’Eau
-lede: 'Avant de chercher ce que « signifie » La Mort, regardez ce que vous avez déjà
-  : 13, l’élément Eau, Scorpion. Vous lisez la carte. Le nombre dit 13 — 1 + 3 = 4 — les fondations, la stabilité ; l’élément dit les émotions, ce qui circule. Posez
-  les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà —
-  le reste de la page vous montre comment.'
+lede: 'Sur un cheval blanc, un squelette cuirassé de noir avance ; un roi est à terre, un enfant regarde le cavalier sans détourner les yeux. Qu’est-ce qui, chez vous, est mûr pour la moisson ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-eau
@@ -30,7 +27,7 @@ faq:
 - q: La Mort renversée, ça change quoi ?
   a: 'La fin est refusée ou elle traîne : une situation terminée qu’on maintient, un changement fait à moitié. La question qu’elle pose : qu’est-ce que vous tenez encore et qui est déjà fini ?'
 - q: La carte de la Mort annonce-t-elle un décès ?
-  a: 'Non. Une carte n’annonce ni un décès ni une maladie, et je ne lis pas sur ces questions, parce qu’un mot de travers peut faire peur pour rien. Si la santé de quelqu’un vous inquiète, c’est un médecin qu’il faut voir ; un tirage peut porter le changement que vous traversez.'
+  a: 'Non. Une carte n’annonce ni un décès ni une maladie. Ces sujets-là restent en dehors de mes lectures, parce qu’une parole mal choisie peut semer une peur inutile. Si la santé de quelqu’un vous inquiète, c’est un médecin qu’il faut voir ; un tirage peut porter le changement que vous traversez.'
 - q: Que dit La Mort pour le travail ?
   a: 'Elle n’annonce pas un licenciement : elle décrit une saison professionnelle qui se termine, comme un poste devenu trop étroit ou une façon de travailler qui ne vous va plus. La question qu’elle pose : qu’est-ce qui a fini sa saison, et qu’avez-vous envie de faire pousser ensuite ?'
 categories:
@@ -53,7 +50,7 @@ Ce qui manque : la faux que les jeux plus anciens mettaient entre les mains du s
 
 Additionnez les chiffres et 13 devient le [chiffre 4](/fr/bibliotheque/numerologie/chiffre-4/) : les fondations, la structure, le fruit du travail. Ça semble l’inverse de la Mort, jusqu’à ce qu’on regarde le revers du 4 : continuer alors qu’il faudrait s’arrêter. La Mort répond à ce revers-là. Elle dégage ce qui ne marche plus pour qu’on puisse bâtir du solide sur un terrain propre.
 
-Dans l’histoire d’Instagram, le 4, c’est l’application à son plus solide — le moment où une entreprise commence à croire qu’elle ne changera plus jamais. La Mort, c’est la carte qui rappelle que si.
+Chez Instagram, ce stade ressemble à une application au sommet de sa solidité, qui se croit installée pour de bon. La Mort est la carte qui rappelle que rien ne l’est.
 
 ## Par l’élément : Eau {#element}
 
@@ -65,21 +62,21 @@ C’est pour ça que la Mort est si rarement brutale en tirage. Le plus souvent,
 
 Du noir et du blanc, presque rien d’autre. Le noir de l’armure et de l’étendard, c’est l’absence, le vide, faire place nette — et, dans ma grille, la réalité ([le noir](/fr/bibliotheque/couleurs-tarot/noir/)). Le blanc du cheval et de la rose, c’est la pureté, la paix, ce qui repart à neuf. L’or de la robe de l’évêque et du soleil : la volonté, la lumière.
 
-Avant même le nom, les couleurs disent : un vide qu’on fait, une page blanche, une lumière derrière.
+Noir, blanc, or : un vide qu’on fait, une page blanche, une lumière derrière.
 
 ## Par l’astrologie : Scorpion {#astrologie}
 
-Dans la tradition Golden Dawn, la Mort correspond au [Scorpion](/fr/bibliotheque/astrologie/scorpion/), le signe dont le verbe est « Je désire ». Le Scorpion, c’est l’intensité, l’observation attentive, la transformation menée jusqu’au bout, voulue ou non. Il donne de la profondeur à la carte : ce qui se termine ici, c’est quelque chose auquel on tenait.
+La Golden Dawn range la Mort sous le [Scorpion](/fr/bibliotheque/astrologie/scorpion/), le signe dont le verbe est « Je désire ». Le Scorpion, c’est l’intensité, l’observation attentive, la transformation menée jusqu’au bout, voulue ou non. Il donne de la profondeur à la carte : ce qui se termine ici, c’est quelque chose auquel on tenait.
 
 ## En lecture {#lecture}
 
-À l’endroit, la Mort est une transformation. Un emploi, une relation, une habitude, une version de vous-même arrive à sa fin naturelle. Ma propre note sur cette carte parle de moisson : la Mort est liée au fait de recommencer, à la personne qui a perdu son but et veut rendre sa vie fertile à nouveau. On fauche ce qui est mûr pour pouvoir semer — ce n’est pas un hasard si on l’appelle la Faucheuse. Au tarot de Marseille, c’est l’[arcane sans nom](/fr/blog/arcane-sans-nom-tarot/), la treizième lame, qui ne porte pas de titre.
+À l’endroit, la Mort est une transformation. Un emploi, une relation, une habitude, une version de vous-même arrive à sa fin naturelle. Ma propre note sur cette carte parle de moisson et de recommencement : quelqu’un qui ne sait plus où il va, et qui veut que sa vie redevienne féconde. On fauche ce qui est mûr pour pouvoir semer — ce n’est pas un hasard si on l’appelle la Faucheuse. Au tarot de Marseille, c’est l’[arcane sans nom](/fr/blog/arcane-sans-nom-tarot/), la treizième lame, qui ne porte pas de titre.
 
-Si vous êtes ici parce que la santé de quelqu’un vous inquiète, je comprends ; le nom de la carte fait cet effet-là. Mais une carte n’annonce ni un décès ni une maladie, et je ne lis pas sur ces questions — elles reviennent à un médecin et aux personnes proches de vous. J’explique pourquoi dans [santé, grossesse, décès : pourquoi je ne lis pas ces questions](/fr/blog/sante-grossesse-deces-tarot/). Ce qu’un tirage peut porter, c’est le changement que vous traversez.
+Si vous êtes ici parce que la santé de quelqu’un vous inquiète, je comprends ; le nom de la carte fait cet effet-là. Mais une carte n’annonce ni un décès ni une maladie, et ces questions-là, je ne les lis pas : elles reviennent à un médecin et aux personnes proches de vous. J’explique pourquoi dans [santé, grossesse, décès : pourquoi je ne lis pas ces questions](/fr/blog/sante-grossesse-deces-tarot/). Ce qu’un tirage peut porter, c’est le changement que vous traversez.
 
 Renversée, la fin est refusée ou elle traîne : quelque chose de terminé qu’on maintient en vie, le poste qu’on a déjà quitté dans sa tête, un changement à moitié fait — ni l’ancienne vie, ni la nouvelle.
 
-À côté de la [Tour](/fr/bibliotheque/cartes-tarot/la-tour/), le changement est brutal ; seule, la Mort est le plus souvent lente. À côté de l’[As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/), la moisson est suivie d’une graine : quelque chose de concret commence sur le terrain dégagé. Pour le couple, voyez [la Mort en amour](/fr/blog/la-mort-tarot-amour/) ; le travail a sa propre section, plus bas.
+À côté de la [Tour](/fr/bibliotheque/cartes-tarot/la-tour/), le changement est brutal ; seule, la Mort est le plus souvent lente. À côté de l’[As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/), la moisson est suivie d’une graine : quelque chose de concret commence sur le terrain dégagé. Pour le couple, voyez [la Mort en amour](/fr/blog/la-mort-tarot-amour/) ; pour l’emploi, continuez à lire, j’y viens juste après.
 
 {{< cards "ar16 peac" >}}
 
@@ -93,7 +90,7 @@ Au travail, ma note sur la moisson va surtout à quelqu’un qui n’est ni lice
 
 À l’envers, la moisson est en retard : le poste qu’on a déjà quitté dans sa tête et où l’on retourne chaque matin. Dans l’excès, c’est démissionner sur un coup de colère un lundi matin, brûler le champ au lieu de le moissonner.
 
-« Est-ce que je vais perdre mon travail ? » C’est la question qu’on apporte avec cette lame, et la peur est bien réelle : le loyer, la famille, l’idée de soi qui vient avec un métier. Je ne lis pas sur cette question. Une carte ne voit pas les décisions d’une entreprise, et un mot de travers peut pousser à démissionner dans la panique ou à se figer au moment d’agir ; les décisions d’argent restent elles aussi hors de mes tirages ([ce que je ne lis pas, et pourquoi](/fr/avertissements/#refus)). Pour le concret, un bilan de compétences ou un conseiller en évolution professionnelle sont les bons interlocuteurs. Une question plus douce : « Qu’est-ce qui, dans mon travail, a fini sa saison, et qu’ai-je envie de faire pousser ensuite ? »
+« Est-ce que je vais perdre mon travail ? » C’est la question qu’on apporte avec cette lame, et la peur est bien réelle : le loyer, la famille, l’idée de soi qui vient avec un métier. Je ne lis pas sur cette question. Une carte ne voit pas les décisions d’une entreprise, et un mot de travers peut pousser à démissionner dans la panique ou à se figer au moment d’agir ; les décisions d’argent figurent elles aussi sur [la liste de mes refus](/fr/avertissements/#refus). Pour le concret, un bilan de compétences ou un conseiller en évolution professionnelle sont les bons interlocuteurs. Une question qui aide davantage : « Qu’est-ce qui, dans mon travail, a fini sa saison, et qu’ai-je envie de faire pousser ensuite ? »
 
 Cette semaine, écrivez deux listes courtes : ce qui est mûr dans votre travail, et ce que vous aimeriez semer. Gardez-les un mois, et regardez laquelle pousse.
 
@@ -101,6 +98,6 @@ Cette semaine, écrivez deux listes courtes : ce qui est mûr dans votre travail
 
 La Mort sort la première dans ce tirage imaginaire, et l’As de Pentacles la suit. 13, donc 4, puis 1 — des fondations dégagées, puis un nouveau départ. L’Eau puis la Terre : les sentiments d’abord, ensuite quelque chose de concret. Du noir et du blanc d’un côté ; de l’or et du vert de l’autre.
 
-La phrase que je dirais : « Quelque chose s’est terminé pour vous, ou se termine, et ça a été lourd — mais juste derrière, il y a un nouveau départ très concret, quelque chose que vous pouvez construire de vos mains. »
+Avec douceur, parce que la lame fait peur, je dirais : « Quelque chose s’est terminé pour vous, ou se termine, et ça a été lourd — mais juste derrière, il y a un nouveau départ très concret, quelque chose que vous pouvez construire de vos mains. »
 
-Puis la vérification. Un chapitre s’est-il fermé récemment — un travail, un logement, une façon de vivre ? Un nouveau projet se rapproche-t-il ? Si rien ne tient, c’est un raté, et je le dirais sans l’enrober.
+Je vérifierais ensuite, avec précaution : un chapitre s’est-il fermé récemment — un travail, un logement, une façon de vivre ? Un nouveau projet se rapproche-t-il ? Si aucune page ne s’est tournée pour la personne, ma phrase ne valait rien ici, et je le dirais sans l’enrober.

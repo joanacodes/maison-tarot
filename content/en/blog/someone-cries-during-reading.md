@@ -15,7 +15,7 @@ Stop, stay, and let them cry. Tears during a reading rarely mean something went 
 
 ## Why people cry during a reading {#why-people-cry}
 
-I know this from the other chair. A pick-a-card video by Kloee Taylor once made me sob, not tear up. It was the first time anyone had put words on my situation, and what made me cry was hearing it said out loud by someone else. I've told [the story of that video](/blog/do-pick-a-card-readings-work/) in full.
+I know this from the other chair. A pick-a-card video by Kloee Taylor once made me sob, not tear up. Nobody had ever named what I was living through until then, and what made me cry was hearing it said out loud by someone else. I've told [the story of that video](/blog/do-pick-a-card-readings-work/) in full.
 
 If you read for other people for long enough, it will happen at your table too. People cry in readings for all sorts of reasons: relief, recognition, a grief they've been holding for months, tiredness, the strangeness of hearing a stranger say something true. Very few of those are sadness about a card.
 
@@ -52,7 +52,7 @@ If what made them cry was a hard card, the way you put it into words matters eve
 
 It happens, and it isn't a failure. In the video that made me sob, the reader cried too, and that video is where it all started for me.
 
-What matters is keeping your own feelings while you feel theirs. That's what empathy means to me: feeling and understanding the other person's emotions while keeping your own. Very empathic readers can end up feeling, even expressing, the other person's emotion. Let a tear come if it comes, but stay the steady one, so the person doesn't end up looking after you.
+What matters is keeping your own feelings while you feel theirs. That's what empathy means to me: feeling and understanding the other person's emotions while keeping your own. When empathy runs high, a reader can start to feel, and even show, what the other person is going through. Let a tear come if it comes, but stay the steady one, so the person doesn't end up looking after you.
 
 Afterwards, rest. Interpreting takes energy, and a reading with tears in it takes more. Don't go straight into the next one.
 
@@ -60,6 +60,6 @@ Afterwards, rest. Interpreting takes energy, and a reading with tears in it take
 
 Some tears are about something that's been there a long time: a loss, a fear, a weight carried alone. A reading can name it. It can't hold it.
 
-When that weight is psychological, or heavier still, the right door is a therapist's, a doctor's, or a trusted friend's. Say it once, kindly: "I think this deserves more time than a reading can give it. Is there someone you can talk to about it?" No pressure, no lecture. If the tears are about a loss, [what the cards can hold in grief, and when you need a person](/blog/tarot-for-grief/) may help. The [disclaimers page](/disclaimers/#therapy) says plainly where my role ends, and [where the door is](/blog/tarot-and-mental-health/) has more.
+When that weight is psychological, or heavier still, the right door is a therapist's, a doctor's, or a trusted friend's. Say it once, kindly: "I think this deserves more time than a reading can give it. Is there someone you can talk to about it?" No pressure, no lecture. If the tears are about a loss, [reading for someone who is grieving](/blog/tarot-for-grief/) may help. The [disclaimers page](/disclaimers/#therapy) says plainly where my role ends, and [where the door is](/blog/tarot-and-mental-health/) has more.
 
 Then close the reading gently rather than letting it trail off. A few calm words, a glass of water finished, a moment before they stand up. There's a short guide to [ending a tarot reading well](/blog/how-to-end-a-tarot-reading/), and it matters most on days like this.

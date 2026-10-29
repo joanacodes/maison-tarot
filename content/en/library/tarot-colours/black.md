@@ -22,8 +22,7 @@ related:
 - /library/feminine-masculine-energies
 faq:
 - q: Is black an evil colour?
-  a: No. It's a colour of absence. Tarot is only evil for those who see evil everywhere
-    — black is just what's missing.
+  a: 'No. It’s a colour of absence, of what’s missing, not of wickedness. Anyone hunting for evil will find it in black; the colour itself only shows that something is absent.'
 - q: Why so little black in the deck?
   a: Because Pamela Colman Smith kept black for moments when something is really absent.
     When you see it, it counts.
@@ -57,7 +56,7 @@ gallery:
 
 **Absence, energy absorbed, void, negative thoughts, emptying out, reality.**
 
-## Where the colour appears in the deck {#where}
+## Six places black shows up {#where}
 
 The Five of Cups' cloak, the Devil's background, the Tower's sky, Death's armour, the Queen of Wands' cat, the High Priestess's left pillar. Black almost never dresses someone who's doing well.
 

@@ -46,7 +46,7 @@ Un tirage de mineurs a plus de structure qu’on ne l’imagine. Chaque carte po
 2. Alignez les nombres. Tous petits (de l’As au Trois) : quelque chose commence. Tous au milieu (du Quatre au Sept) : c’est mis à l’épreuve. Tous grands (du Huit au Dix) : une étape se termine. La [clé de lecture des nombres](/fr/bibliotheque/numerologie/) vous donne le cycle complet de 1 à 10.
 3. Regardez les figures. Ce sont des personnes, ou des manières d’agir : le Valet apprend, le Cavalier part, la Reine tient, le Roi décide. [Les figures du tarot](/fr/blog/figures-du-tarot-valet-cavalier-reine-roi/) les passent toutes les seize en revue.
 
-Imaginons quelqu’un qui s’assied, ne vous dit rien, et tire le Huit de Pentacles, le Trois de Bâtons et le Valet d’Épées.
+Un exemple inventé : une personne tire trois cartes sans dire un mot de sa question, et aucune n’est un majeur — le Huit de Pentacles, le Trois de Bâtons et le Valet d’Épées.
 
 {{< cards "pe08 wa03 swpa" >}}
 
@@ -54,7 +54,7 @@ Terre, Feu, Air : le travail, l’élan, la pensée. Huit, c’est l’effort et
 
 ## Ce qu’il vaut mieux éviter {#a-eviter}
 
-Ne tirez pas de cartes supplémentaires jusqu’à voir apparaître un majeur. Une carte tirée pour boucher un trou brouille la lecture au lieu de la compléter ; j’explique pourquoi dans [la carte de clarification](/fr/blog/carte-de-clarification-tarot/). Moi, je n’en tire jamais, pour la même raison que je ne rattrape pas une lecture qui a raté : ce qui est sorti du jeu, c’est la lecture.
+Ne tirez pas de cartes supplémentaires jusqu’à voir apparaître un majeur. Une carte tirée pour boucher un trou brouille la lecture au lieu de la compléter, et c’est ma principale objection à [la carte de clarification](/fr/blog/carte-de-clarification-tarot/). Moi, je n’en tire jamais, pour la même raison que je ne rattrape pas une lecture qui a raté : ce qui est sorti du jeu, c’est la lecture.
 
 Ne lisez pas l’absence comme « ça n’a pas d’importance ». La question de la personne compte exactement autant avec trois mineurs qu’avec trois majeurs. Le tirage décrit l’échelle de la situation, pas son poids dans une vie.
 

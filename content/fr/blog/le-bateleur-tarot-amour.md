@@ -21,7 +21,7 @@ Dans mes notes, le Magicien (le Bateleur au tarot de Marseille) est la lame des 
 
 Son nombre, c’est le 1 : l’initiateur, le diamant brut. Son conseil, c’est l’humilité — se préparer à apprendre —, et son revers, c’est d’oublier qu’on reste élève toute sa vie. Avec quelqu’un de nouveau, vous redevenez débutant, quel que soit le nombre d’histoires derrière vous.
 
-Son énergie est masculine : agir, se montrer, dire les choses en face. C’est pour ça qu’il fait le premier pas au lieu d’attendre d’être choisi. Un détail du dessin compte en amour : une main lève la baguette, l’autre pointe vers le sol. Dans mes notes, la baguette reçoit et transmet. Un premier pas est un message, et les messages vont dans les deux sens. [La page du Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/) détaille toutes les autres clés.
+Son énergie est masculine : agir, se montrer, dire les choses en face. C’est pour ça qu’il fait le premier pas au lieu d’attendre d’être choisi. En amour, ses mains parlent : l’une lève la baguette, l’autre pointe vers le sol. Dans mes notes, la baguette reçoit et transmet. Un premier pas est un message, et les messages vont dans les deux sens. [La page du Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/) détaille toutes les autres clés.
 
 ## Oser le premier message {#premier-message}
 
@@ -31,19 +31,19 @@ En couple, ce peut être une initiative qui renouvelle les choses : vous propose
 
 Après une rupture, le Magicien tourne les outils vers vous. Un 1 ouvre un nouveau cycle, et la première personne avec qui il commence, c’est vous : ce que vous voulez maintenant, comment vous aimeriez qu’on vous aime, ce que vous ferez autrement la prochaine fois.
 
-Imaginons quelqu’un qui s’assied, ne vous dit rien, et tire le Magicien. Un début, des mots, la volonté en plein jour. La phrase que vous pourriez dire : « Il y a quelque chose que vous voulez dire à quelqu’un, et vous savez déjà comment — vous attendez la permission. » Puis vérifiez avec la personne, et laissez-la vous corriger.
+Disons que le Magicien sorte pour quelqu’un qui tait sa question. Un début, des mots, la volonté en plein jour : « Il y a quelque chose que vous voulez dire à quelqu’un, et vous savez déjà comment — vous attendez la permission. » La personne vous dira si c’est juste, et où ça ne l’est pas.
 
 ## « Je me lance ? » {#se-lancer}
 
 C’est la question que le Magicien apporte : dois-je faire le premier pas, et l’autre ressent-il la même chose ? Elle vient de l’espoir, et de la peur d’essuyer un refus. Les deux sont très humains.
 
-Je ne lis pas ce que ressent quelqu’un d’autre. Cette personne n’est pas dans la pièce, son cœur lui appartient, et une carte qui dirait « oui, c’est réciproque » pourrait vous envoyer au rendez-vous avec un texte appris par cœur plutôt qu’avec vous-même. J’ai écrit sur [le fait de tirer les cartes sur quelqu’un d’autre](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/), et j’y explique pourquoi je préfère ne pas le faire. Et le Magicien, plus qu’aucune autre lame, vous rappelle que tout ce qui est sur sa table est déjà à vous.
+Je ne lis pas ce que ressent quelqu’un d’autre. Cette personne n’est pas dans la pièce, son cœur lui appartient, et une carte qui dirait « oui, c’est réciproque » pourrait vous envoyer au rendez-vous avec un texte appris par cœur plutôt qu’avec vous-même. J’explique dans un autre article [pourquoi je ne lis pas les absents](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/). Et le Magicien, plus qu’aucune autre lame, vous rappelle que tout ce qui est sur sa table est déjà à vous.
 
-Une question plus douce : « Qu’est-ce que je veux dire, et est-ce que je le penserais quelle que soit la réponse ? » Si la seconde moitié est un oui, vous tenez votre premier pas.
+La question à se poser avant de lever la baguette : « Qu’est-ce que je veux dire, et est-ce que je le penserais quelle que soit la réponse ? » Si la seconde moitié est un oui, vous tenez votre premier pas.
 
 ## Le beau parleur {#beau-parleur}
 
-Dans mes notes, le revers de cette lame est clair : si on lui fait confiance les yeux fermés, le Magicien peut mentir. Il peut faire semblant. Le même talent qui fait un joli premier pas peut faire un numéro très convaincant.
+Dans mes notes, le revers de cette lame est clair : à qui le croit sans réserve, le Magicien peut mentir. Il peut faire semblant. Le même talent qui fait un joli premier pas peut faire un numéro très convaincant.
 
 En amour, c’est la personne qui dit tout ce qu’il faut au premier rendez-vous, et dont les actes ne suivent jamais tout à fait. Ce peut être vous aussi : jouer un rôle pour plaire, dire « je suis très cool là-dessus » quand ce n’est pas vrai, promettre ce que vous ne pourrez pas tenir parce que ça sonne bien sur le moment.
 
@@ -55,7 +55,7 @@ Inversée, la lame penche d’un côté ou de l’autre. Soit les outils restent
 
 {{< cards "ar00 cu02 cu07" >}}
 
-À côté du Mat, c’est 0 puis 1 : une envie qui devient un acte. [Le Mat en amour](/fr/blog/le-mat-tarot-amour/) parle du saut ; le Magicien, du geste. À côté du Deux de Coupes, le premier pas reçoit une réponse : deux personnes, deux coupes, un lien qui commence d’égal à égal ([le Deux de Coupes en amour](/fr/blog/deux-de-coupes-amour/)). À côté du Sept de Coupes — dans mes notes, l’indécision, trop de choix —, le charme s’accompagne d’illusions, de jolies possibilités qui flottent dans les nuages. Choisissez-en une, et regardez-la au grand jour.
+À côté du Mat, le 0 rejoint le 1 : l’envie passe à l’acte. [Le Mat en amour](/fr/blog/le-mat-tarot-amour/) parle du saut ; le Magicien, du geste. À côté du Deux de Coupes, le premier pas reçoit une réponse : deux personnes, deux coupes, un lien qui commence d’égal à égal ([le Deux de Coupes en amour](/fr/blog/deux-de-coupes-amour/)). À côté du Sept de Coupes — dans mes notes, l’indécision, trop de choix —, le charme s’accompagne d’illusions, de jolies possibilités qui flottent dans les nuages. Choisissez-en une, et regardez-la au grand jour.
 
 ## Tant que la baguette est levée {#baguette-levee}
 

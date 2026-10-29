@@ -25,12 +25,12 @@ related:
 - /bibliotheque/astrologie/jupiter
 faq:
 - q: Quelle carte de tarot correspond au Sagittaire ?
-  a: Tempérance, dans la tradition Golden Dawn reprise par le Rider-Waite-Smith. Quand
-    elle sort, le signe donne son verbe, son élément et son mode d’un coup.
-- q: 'Je suis Sagittaire : est-ce que cette carte est « ma » carte ?'
-  a: C’est une entrée, pas une identité. La carte parle à n’importe qui de la même
-    chose ; votre signe vous aide seulement à la reconnaître plus vite. L’astrologie
-    n’est pas une excuse.
+  a: Tempérance, où un ange transvase l’eau entre deux coupes. Le voyageur qui rapporte
+    ses découvertes et les combine entre elles s’y retrouve sans peine.
+- q: 'Je suis Sagittaire : Tempérance est-elle faite pour moi ?'
+  a: 'Elle parle de dosage, et chacun en a besoin un jour. Un Sagittaire y verra son
+    goût du mélange ; la carte lui rappelle surtout qu’un alliage demande de rester
+    assez longtemps pour prendre.'
 gallery:
 - src: "visuals/sign-sagittarius/1.jpg"
   title: "Apprendre en partant"
@@ -77,7 +77,7 @@ Celui qui part faire le tour du monde en van, fait un voyage en Inde, goûte la 
 
 ## Sa carte : Tempérance {#carte}
 
-Quand [Tempérance](/fr/bibliotheque/cartes-tarot/temperance/) sort, le Sagittaire est là : deux choses qu’on mélange pour en faire une troisième, une mesure trouvée en chemin. Bien posé, c’est l’alliage qui tient. Mal posé, c’est le mélange de trop, ou le départ qui évite de finir.
+Dans [Tempérance](/fr/bibliotheque/cartes-tarot/temperance/), le Sagittaire fait ce qu’il préfère : mélanger deux choses pour en obtenir une troisième, trouver la mesure en chemin. Si l’alliage tient, tant mieux ; sinon, c’est le mélange de trop, ou le départ qui évite de finir.
 
 {{< cards "ar14" >}}
 

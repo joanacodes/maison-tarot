@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/pe09.webp
 h1: Neuf de Pentacles — <em>neuf</em>, la Terre
-lede: 'Avant de chercher ce que « signifie » Neuf de Pentacles, regardez ce que vous
-  avez déjà : neuf, l’élément Terre, Vénus en Vierge. Vous lisez la carte. Le nombre
-  dit neuf — l’aboutissement, presque au bout ; l’élément dit la matière, ce qui tient.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Seule dans sa vigne lourde de raisins, une femme porte au poing un faucon coiffé de rouge et savoure l’instant, les yeux mi-clos. Vous accordez-vous ce genre de pause ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre
@@ -30,7 +26,7 @@ faq:
 - q: 'Que signifie Neuf de Pentacles ?'
   a: 'Profiter de ce qu’on a fait pousser, et en être reconnaissant. Le 9 est la dernière ligne droite d’un cycle et la Terre ce qui a de la valeur : la carte montre quelqu’un à l’aise dans son propre jardin — confortable, indépendant, et pas encore tout à fait au bout.'
 - q: 'Neuf de Pentacles renversé, ça change quoi ?'
-  a: 'Le même confort, freiné ou excessif. Freiné : vous avez le jardin et n’arrivez pas à en profiter, ou ne vous en sentez pas le droit. Excessif : le confort devient un mur, et l’indépendance une façon de tenir tout le monde à distance.'
+  a: 'Le jardin est là et vous n’arrivez pas à en profiter, ou ne vous en sentez pas le droit ; ou bien le confort devient un mur, et l’indépendance une façon de tenir tout le monde à distance.'
 - q: 'Que signifie le Neuf de Pentacles en amour ?'
   a: 'Il décrit une personne bien avec elle-même, qui ne cherche pas quelqu’un pour la compléter. C’est bon signe pour ce qu’elle apporte à une relation, et une question douce sur la place qu’elle laisse à l’autre.'
 categories:
@@ -51,9 +47,9 @@ Elle ne nous regarde pas, ni l’oiseau. Ses yeux sont baissés, presque fermés
 
 ## Par le nombre : neuf {#nombre}
 
-[Le 9, c’est la dernière ligne droite](/fr/bibliotheque/numerologie/chiffre-9/) : presque fini, un temps pour la patience et le regard intérieur, en continuant de marcher. Ma note pour cette carte : profiter de ce qui vient, la gratitude pour tout ce qu’on a. Les pièces reposent parmi les vignes comme des fruits, et elle a le droit de s’arrêter pour regarder.
+[Le 9, c’est la dernière ligne droite](/fr/bibliotheque/numerologie/chiffre-9/) : presque fini, un temps pour la patience et le regard intérieur, en continuant de marcher. Ma note pour cette carte : savourer ce qui arrive, et dire merci pour tout ce qu’on possède. Les pièces reposent parmi les vignes comme des fruits, et elle a le droit de s’arrêter pour regarder.
 
-S’arrêter, pas s’installer. Dans l’histoire d’Instagram, le 9, c’est la refonte autour des Reels : la plateforme à son sommet, et déjà en train de changer. Profitez du jardin, en sachant que c’est une saison.
+S’arrêter, pas s’installer. Instagram, à son neuvième stade, se reconstruisait autour des Reels : la plateforme à son sommet, et déjà en train de changer. Profitez du jardin, en sachant que c’est une saison.
 
 ## Par l’élément : Terre {#element}
 
@@ -69,15 +65,15 @@ Le rouge du bonnet, des fleurs et du chaperon ajoute de l’élan et du désir, 
 
 ## Par l’astrologie : Vénus en Vierge {#astrologie}
 
-Dans le système de la Golden Dawn, cette carte correspond à [Vénus](/fr/bibliotheque/astrologie/venus/) dans le deuxième décan de la [Vierge](/fr/bibliotheque/astrologie/vierge/). Vénus, c’est ce qu’on aime et ce qu’on trouve beau ; la Vierge, « j’analyse ». L’astrologie traditionnelle dit Vénus « en chute » en Vierge — le plaisir sous l’œil d’une perfectionniste. Ici, cela se lit comme un plaisir mérité : le jardin est beau parce qu’il a été soigné.
+Cette carte reçoit [Vénus](/fr/bibliotheque/astrologie/venus/), placée dans le deuxième décan de la [Vierge](/fr/bibliotheque/astrologie/vierge/). Vénus, c’est ce qu’on aime et ce qu’on trouve beau ; la Vierge, « j’analyse ». L’astrologie traditionnelle dit Vénus « en chute » en Vierge — le plaisir sous l’œil d’une perfectionniste. Ici, cela se lit comme un plaisir mérité : le jardin est beau parce qu’il a été soigné.
 
-Gardez cette clé si l’astrologie vous parle ; sinon, le nombre et l’élément ont dit la même chose.
+Laissez-la si les astres ne sont pas votre langue : la vigne soignée dit déjà ce plaisir mérité.
 
 ## En lecture {#lecture}
 
-À l’endroit : le plaisir, la gratitude, l’indépendance. Quelqu’un qui s’est construit une vie qui tient — une maison, un métier, un quotidien qui nourrit — et qui en profite sans avoir besoin d’applaudissements. Ce peut être une personne autour de vous, ou vous-même, le jour où vous cessez de vous demander si vous en avez fait assez. **La gratitude est le travail du 9 : regardez ce que vous avez avant de compter ce qui manque.**
+À l’endroit : le plaisir, la gratitude, l’indépendance. Quelqu’un qui s’est construit une vie qui tient — une maison, un métier, un quotidien qui nourrit — et qui en profite sans avoir besoin d’applaudissements. Cette personne peut être dans votre entourage, ou c’est vous, à partir du moment où vous cessez de vous demander si vous en avez fait assez. **La gratitude est le travail du 9 : regardez ce que vous avez avant de compter ce qui manque.**
 
-Renversée, le plaisir du jardin s’éteint, ou s’enferme. Freiné : tout ce qui est sur la carte vous appartient, et vous n’arrivez pas à en profiter — la culpabilité de se reposer, les yeux déjà sur la prochaine récolte. Excessif : le confort se durcit en mur ; l’indépendance devient « je n’ai besoin de personne », et le faucon ne quitte jamais le gant.
+Renversée, le plaisir du jardin s’éteint, ou s’enferme. Éteint : tout ce qui est sur la carte vous appartient, et vous n’arrivez pas à en profiter — la culpabilité de se reposer, les yeux déjà sur la prochaine récolte. Enfermé : le confort se durcit en mur ; l’indépendance devient « je n’ai besoin de personne », et le faucon ne quitte jamais le gant.
 
 À côté du [Dix de Pentacles](/fr/bibliotheque/cartes-tarot/dix-de-pentacles/), le jardin se remplit de monde : ce qu’on savourait seul se partage entre générations. À côté du [Neuf de Coupes](/fr/bibliotheque/cartes-tarot/neuf-de-coupes/), deux contentements : l’un exhibe ses coupes, l’autre se promène dans ses vignes. À côté de la [Reine de Pentacles](/fr/bibliotheque/cartes-tarot/reine-de-pentacles/), la femme du jardin s’assoit et se met à nourrir les autres.
 
@@ -87,8 +83,8 @@ Si quelqu’un espère que cette carte annonce une rentrée d’argent, je préf
 
 ## Exemple de tirage {#exemple}
 
-Voici un tirage fictif de deux cartes, pour quelqu’un que vous venez de rencontrer : le Neuf de Pentacles, puis le [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/). Neuf puis huit : la dernière ligne droite d’un cycle, puis — dans mes notes — passer à autre chose que ce qu’on fait déjà. Terre puis Eau : un jardin qui tient, puis des émotions en mouvement. Une femme immobile dans sa vigne, puis une silhouette en rouge qui s’éloigne de huit coupes empilées, vers les montagnes.
+Voici un tirage fictif de deux cartes, pour quelqu’un que vous venez de rencontrer : le Neuf de Pentacles, puis le [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/). Neuf puis huit : la dernière ligne droite d’un cycle, puis — dans mes notes — le moment de laisser derrière soi ce qu’on faisait jusque-là. Terre puis Eau : un jardin qui tient, puis des émotions en mouvement. Une femme immobile dans sa vigne, puis une silhouette en rouge qui s’éloigne de huit coupes empilées, vers les montagnes.
 
-À voix haute : « Vous avez construit quelque chose de confortable, et vous avez le droit d’en profiter. Mais une partie de vous enfile déjà son manteau — pas parce que quelque chose ne va pas, mais parce que vous avez fait le tour. »
+Le jardin savouré, puis le départ sous la lune ; j’en tirerais ceci : « Vous avez construit quelque chose de confortable, et vous avez le droit d’en profiter. Mais une partie de vous enfile déjà son manteau — pas parce que quelque chose ne va pas, mais parce que vous avez fait le tour. »
 
-Puis vérifiez, avec douceur : « Est-ce que ça sonne juste, ou pas du tout ? » Si non, c’est un raté : dites-le et notez-le.
+Puis vérifiez, avec douceur : « Avez-vous l’impression d’avoir fait le tour de quelque chose ? » Sinon, la lecture s’est trompée : reconnaissez-le, sans rien ajouter.

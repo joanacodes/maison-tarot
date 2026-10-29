@@ -17,7 +17,7 @@ I’d rather not read about someone who isn’t in the room and hasn’t said ye
 
 You wouldn’t want someone going through your bedroom while you were out, whatever their reasons. Reading someone without their consent feels like that to me: looking into a private room they haven’t opened. It’s why consent comes first in [my short version of tarot ethics](/blog/tarot-ethics-short-version/).
 
-There’s a practical side too. Someone who doesn’t know they’re being read isn’t open to it. In my experience you catch half a sentence of them, and then you’re tempted to build a whole statement on it: “he regrets it”, “she’s jealous”, “they’re about to leave”. This is only my experience and the hypothesis I draw from it; nothing about it has been proven scientifically. It’s enough for me to always ask first, and to step back when the person can’t be asked. It’s on [the list of what I don’t read](/disclaimers/#refusals), and the same goes for [looking up someone’s birth chart without asking](/blog/birth-chart-without-permission/).
+There’s a practical side too. Someone who doesn’t know they’re being read isn’t open to it. In my experience you catch half a sentence of them, and then you’re tempted to build a whole statement on it: “he regrets it”, “she’s jealous”, “they’re about to leave”. I offer that as something I’ve noticed and a guess I’ve made from it; science hasn’t confirmed any of it. It’s enough for me to always ask first, and to step back when the person can’t be asked. It’s among [the questions I leave alone](/disclaimers/#refusals), and the same goes for [looking up someone’s birth chart without asking](/blog/birth-chart-without-permission/).
 
 **A reading about someone who isn’t there is mostly a reading about the person asking.**
 
@@ -29,7 +29,7 @@ Here is how that plays out with the three people in the title, with one card for
 
 “Does he still think about me?” “Is she with someone new?” “Will they come back?” These come from the particular pain of not knowing, and I understand them. But a card can’t tell you what another person feels, and a reading that claims to can keep you waiting for months.
 
-Say you ask “what am I still holding on to?” instead, and draw the Eight of Cups: a figure in a red cloak walking away from eight stacked cups, towards the mountains, at night. It’s the card of moving on from what you’re already doing. The card isn’t about your ex at all. It’s about you, and a door you may already be walking through. I give the hardest version of this question its own article: [“will they come back?”, and a kinder question](/blog/will-they-come-back-tarot/).
+Say you ask “what am I still holding on to?” instead, and draw the Eight of Cups, where a traveller in red sets off at night and leaves the full cups standing. It’s the card of stepping away from something you’re still busy with. The card isn’t about your ex at all. It’s about you, and a door you may already be walking through. I give the hardest version of this question its own article: [why I turn “will they come back?” around](/blog/will-they-come-back-tarot/).
 
 ## Your boss {#your-boss}
 
@@ -39,13 +39,13 @@ What you can read is the conflict as you live it. Say you draw the Five of Sword
 
 ## Your mother {#your-mother}
 
-“Why is she like this?” “Is she hiding something from me?” Sometimes, quietly: “Is she ill?” Questions about a parent carry a whole childhood in them. The health one in particular isn’t for the cards; I explain why, gently, in [why careful readers step back from health, pregnancy and death](/blog/health-pregnancy-death-tarot/).
+“Why is she like this?” “Is she hiding something from me?” Sometimes, quietly: “Is she ill?” Questions about a parent carry a whole childhood in them. The health one in particular isn’t for the cards; I explain why, gently, in [the piece on reading about someone’s health](/blog/health-pregnancy-death-tarot/).
 
 What a reading can hold is the relationship from your side. Say you draw the Empress: a woman among ripening wheat, the mother who feeds and makes things grow, and who, on her other side, can smother. That card opens a better question than “why is she like this?”: “What do I need from her that I haven’t yet asked for, and what can I give myself?”
 
 ## When someone else turns up anyway {#when-they-show-up}
 
-Other people do appear in readings, even when nobody asked about them. In [my very first reading for a stranger](/blog/first-tarot-reading-story/), the cards talked about a relationship, and also showed that she hadn’t been especially kind to the other person.
+Other people do appear in readings, even when nobody asked about them. In [my very first reading for a stranger](/blog/first-tarot-reading-story/), the cards talked about a relationship, and also showed that her own behaviour towards the other person had been less than kind.
 
 Notice what that reading did: it talked about her, and her part. That’s the difference. When someone turns up in your cards, read them as they live in you: your fear of them, your love for them, your share of the story. That’s yours to look at. Their inner life isn’t.
 

@@ -43,7 +43,7 @@ En 2027, les saisons d’éclipses tombent en février et entre fin juillet et a
 
 {{< cards "ar08 ar17" >}}
 
-Voilà pour la tradition. Ce que je peux ajouter, c’est mon propre décompte, avec sa limite : quand [j’ai testé mon thème astral case par case](/fr/blog/j-ai-teste-mon-theme-astral/), les positions tenaient environ 30 à 40 % du temps au total, et les éclipses ne faisaient pas du tout partie de ce test. Je traite donc les éclipses comme un thème de réflexion, jamais comme un agenda — et [l’astrologie n’est pas une excuse](/fr/avertissements/#astrologie) pour une décision que vous alliez prendre de toute façon.
+Voilà pour la tradition. Ce que je peux ajouter, c’est mon propre décompte, avec sa limite : quand [j’ai confronté mon thème à ma vie réelle](/fr/blog/j-ai-teste-mon-theme-astral/), les positions tenaient environ 30 à 40 % du temps au total, et les éclipses ne faisaient pas du tout partie de ce test. Je traite donc les éclipses comme un thème de réflexion, jamais comme un agenda — et [l’astrologie n’est pas une excuse](/fr/avertissements/#astrologie) pour une décision que vous alliez prendre de toute façon.
 
 ## Un tirage tout en douceur pour les éclipses de 2027 {#tirage}
 
@@ -53,7 +53,7 @@ Trois cartes, une fois en février et une fois en août. Pas à chaque éclipse,
 2. *Qu’est-ce qui commence sans bruit ?* La carte solaire : un début que vous n’avez peut-être pas encore remarqué.
 3. *Qu’est-ce que je peux laisser tranquille jusqu’à la prochaine éclipse ?* La plus bienveillante : la permission de ne pas tout régler maintenant.
 
-Lisez chaque carte par ses couleurs, son nombre et son élément avant de chercher quoi que ce soit. Notez les trois cartes et une phrase pour chacune dans [votre carnet de tirages](/fr/blog/carnet-de-tirage-tarot/), avec la date. En août, avant de tirer à nouveau, relisez la page de février et marquez ce qui a tenu, ce qui est raté, et ce qu’il est trop tôt pour dire.
+Lisez chaque carte par ses couleurs, son nombre et son élément avant de chercher quoi que ce soit. Inscrivez les trois cartes dans [le carnet où vous gardez vos tirages](/fr/blog/carnet-de-tirage-tarot/), une ligne pour chacune, avec la date. En août, avant de tirer à nouveau, relisez la page de février et marquez ce qui a tenu, ce qui est raté, et ce qu’il est trop tôt pour dire.
 
 ## Et ensuite {#ensuite}
 

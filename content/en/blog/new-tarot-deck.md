@@ -9,7 +9,7 @@ tags: ["new tarot deck", "deck interview spread", "bonding with a tarot deck", "
 image: "covers/new-tarot-deck.jpg"
 imageAlt: "A new tarot deck fanned out face up next to its open box and a notebook with a pencil"
 imagePrompt: "A new tarot deck fanned out face up on a wooden table beside its open box and a notebook with a pencil. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "To get to know a new tarot deck, give it a week of looking rather than a ritual. Go through every card face up, then draw one card a day and describe the drawing before you interpret it, read a card through its colours, compare it with a deck you know, try three cards, and finally read for someone who tells you nothing. A deck interview spread — six cards asking the deck about itself — is a gentle way in, but a week of short sessions teaches you the artist’s language faster."
+summary: "The way into a new tarot deck is a week of looking rather than a ritual. Go through every card face up, then draw one card a day and describe the drawing before you interpret it, read a card through its colours, compare it with a deck you know, try three cards, and finally read for someone who tells you nothing. A deck interview spread — six cards asking the deck about itself — is a gentle way in, but a week of short sessions teaches you the artist’s language faster."
 ---
 You don’t need a ritual to start with a new tarot deck. You need a week of looking: fifteen minutes a day, a notebook, and one person to read for at the end. By then the deck has stopped being a new object and become something you can read with.
 
@@ -32,11 +32,11 @@ A deck interview spread is a short spread you lay with a new deck as if you were
 5. How can I best work with you?
 6. Where is our relationship going?
 
-You draw a card for each position and read the answers as the deck describing itself. Say position three, “your limits”, brings up the Seven of Cups: a figure facing seven cups floating in a cloud, each holding something different — a castle, jewels, a wreath, a dragon, a snake, a veiled figure, a head.
+You draw a card for each position and read the answers as the deck describing itself. Say position three, “your limits”, brings up the Seven of Cups: a cloud stacked with seven cups, a different object in each — a castle, a snake, a wreath.
 
 {{< cards "cu07" >}}
 
-In my notes, the Seven of Cups is indecision, too many choices. So you might conclude the deck could overwhelm you.
+My notes read it as being unable to choose among too much on offer. So you might conclude the deck could overwhelm you.
 
 It’s a gentle way to spend twenty minutes with new cards, and I can see why people like it. My hesitation is practical. Six cards out of seventy-eight tell you very little about the other seventy-two, and the questions invite you to read your hopes and nerves about the deck rather than its drawings. Here’s the lighter version I’d suggest: keep the curiosity and turn it towards the pictures. Instead of asking the deck what its limits are, look at how this artist drew the Seven of Cups, and what they changed.
 
@@ -62,7 +62,7 @@ Some decks aren’t redrawings at all. In a Marseille deck, the minor cards show
 
 ## If the deck doesn’t click {#doesnt-click}
 
-Sometimes, at the end of the week, a deck still feels foreign. That isn’t a sign about you or about the deck; it’s taste. Collecting decks is a bit like collecting art: each one is a set of pictures you can read messages through, and not every painter speaks to everyone.
+Sometimes, at the end of the week, a deck still feels foreign. That isn’t a sign about you or about the deck; it’s taste. A deck is a painter’s work as much as a tool: you read messages through its pictures, and not every painter speaks to everyone.
 
 Put it away for a month and try again, or pass it on to someone it suits. Whether you let others handle it in the meantime is up to you; I look at that in [letting other people touch your cards](/blog/let-others-touch-tarot-cards/).
 

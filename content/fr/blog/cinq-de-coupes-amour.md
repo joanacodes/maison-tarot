@@ -9,19 +9,19 @@ tags: ["Cinq de Coupes amour", "Cinq de Coupes inversé amour", "Cinq de Coupes 
 image: "covers/five-of-cups-tarot-love.jpg"
 imageAlt: "La carte du Cinq de Coupes du tarot Rider-Waite-Smith posée face visible sur une table en bois nue."
 imagePrompt: "The Five of Cups card from the 1909 Rider-Waite-Smith deck lying upright on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, the card in its original colours, warm natural colours around it that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "En amour, le Cinq de Coupes parle de chagrin : une rupture, une déception, un espoir qui n’a pas tenu. Dans mes notes, c’est la carte la plus lourde du jeu — perdre, une émotion sombre, se retrouver seul avec ses problèmes. Mais le dessin montre aussi deux coupes encore debout derrière la silhouette en deuil, et un pont sur la rivière. Lu par ses clés de lecture — le cinq, chiffre de l’épreuve, et l’Eau, élément des sentiments —, il décrit la façon dont on porte une perte et l’endroit où l’on regarde. Il ne dit jamais ce que l’autre ressent ni ce qu’il fera."
+summary: "En amour, le Cinq de Coupes parle de chagrin : une rupture, une déception, un espoir qui n’a pas tenu. Aucune carte n’est plus négative à mes yeux : une perte, une émotion sombre, et la solitude face à ce qui pèse. Mais le dessin montre aussi deux coupes encore debout derrière la silhouette en deuil, et un pont sur la rivière. Lu par ses clés de lecture — le cinq, chiffre de l’épreuve, et l’Eau, élément des sentiments —, il décrit la façon dont on porte une perte et l’endroit où l’on regarde. Il ne dit jamais ce que l’autre ressent ni ce qu’il fera."
 ---
-Le Cinq de Coupes est la carte la plus lourde du jeu, d’après mes propres notes : perdre quelque chose, une émotion sombre, se retrouver seul avec ses problèmes. En amour, il parle du chagrin de ce qui s’est renversé — une rupture, une déception, un espoir qui n’a pas tenu. Il montre aussi, dans le même dessin, deux coupes encore debout, et j’aimerais vous l’expliquer assez doucement pour que vous voyiez les deux.
+De tout le jeu, c’est le Cinq de Coupes que mes notes décrivent le plus sombrement : on perd, l’émotion est noire, et l’on reste seul face à ses soucis. En amour, il parle du chagrin de ce qui s’est renversé — une rupture, une déception, un espoir qui n’a pas tenu. Il montre aussi, dans le même dessin, deux coupes encore debout, et j’aimerais vous l’expliquer assez doucement pour que vous voyiez les deux.
 
 {{< cards "cu05" >}}
 
 ## Un cinq dans l’Eau : l’épreuve qui passe par le cœur {#cinq-et-eau}
 
-Le [cinq](/fr/bibliotheque/numerologie/chiffre-5/), dans mes notes, c’est l’épreuve : le conflit, faire avec ce qui reste, ne pas avoir peur d’échouer. Son conseil est d’être honnête avec soi-même et avec la situation ; son revers, c’est le déni. Dans cette carte, le déni ne porte pas sur la perte — la silhouette sait très bien ce qui s’est renversé. Il porte sur l’autre moitié : ce qui est encore là.
+Le [cinq](/fr/bibliotheque/numerologie/chiffre-5/), dans mes notes, c’est l’épreuve : le conflit, faire avec ce qui reste, ne pas avoir peur d’échouer. Il conseille la franchise, envers la situation comme envers soi ; mal vécu, il tourne au déni. Ici, personne ne nie la rupture : la silhouette a les yeux rivés sur ce qui s’est renversé. Ce qui lui échappe, c’est ce qui tient encore, dans son dos.
 
-L’élément, c’est l’Eau : les émotions, les relations, ce qui vous porte quand vous la laissez faire et peut vous noyer quand vous luttez contre elle. L’eau qui bouge, ce sont des émotions fortes, et la rivière, ici, coule : elle passe devant la silhouette et file ailleurs. Le chagrin aussi avance, à son rythme. L’énergie est féminine — tournée vers l’intérieur, à l’abri des regards —, comme la plupart des deuils.
+L’élément, c’est l’Eau, celle des émotions et des liens. Elle vous emmène si vous la suivez, elle vous engloutit si vous vous débattez. Ici, la rivière court — une émotion vive, donc — et elle longe la silhouette sans s’arrêter. Le chagrin aussi avance, à son rythme. L’énergie est féminine — tournée vers l’intérieur, à l’abri des regards —, comme la plupart des deuils.
 
-En amour, c’est donc une carte qui parle de la façon dont quelqu’un porte une perte, pas de ce qui arrivera ensuite. Un détail du dessin compte : deux coupes sont encore debout derrière la silhouette, là où elle ne peut pas les voir. Les couleurs et Mars en Scorpion sont sur [la page du Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/).
+En amour, c’est donc une carte qui parle de la façon dont quelqu’un porte une perte, pas de ce qui arrivera ensuite. Et ce qui compte se trouve dans son dos : une paire de coupes intactes, hors de sa vue. Les couleurs et Mars en Scorpion sont sur [la page du Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/).
 
 ## Les coupes renversées, d’une histoire à l’autre {#ce-qui-sest-renverse}
 
@@ -33,7 +33,7 @@ En couple, elle décrit souvent une déception à l’intérieur de la relation.
 
 ## « Va-t-il revenir ? », les yeux sur les coupes renversées {#va-t-il-revenir}
 
-C’est la question que presque tout le monde apporte avec cette carte, et elle se comprend parfaitement. Devant les coupes renversées, on voudrait entendre qu’elles seront de nouveau pleines.
+Avec le Cinq de Coupes sur la table, cette question-là arrive presque à chaque fois, et on la comprend. Devant les coupes renversées, on voudrait entendre qu’elles seront de nouveau pleines.
 
 Je ne lis pas ce qu’une autre personne ressentira ou fera, et voici pourquoi. Elle n’est pas dans la pièce ; son choix lui appartient, à elle de le faire et de le dire. Et la question garde vos yeux exactement là où sont ceux de la silhouette : sur ce qui s’est répandu. J’en parle plus longuement dans [ce que la question « va-t-il revenir ? » vous fait](/fr/blog/va-t-il-revenir-tarot/).
 
@@ -65,4 +65,4 @@ Dans l’autre sens, le regret devient un endroit où l’on habite. Relire les 
 
 Prenez une feuille et tracez un trait au milieu. À gauche, ce qui s’est renversé : nommez-le sans détour. À droite, ce qui tient encore — des personnes, des habitudes, des morceaux de vous. Ne forcez pas la colonne de droite à être plus longue que l’autre. Assurez-vous qu’elle existe.
 
-Quand vous aurez envie d’aller plus loin, le [tirage tout en douceur après une rupture](/fr/blog/tirage-apres-rupture/) fait le même travail, une carte à la fois.
+Quand vous aurez envie d’aller plus loin, [un tirage de cinq cartes pour l’après-rupture](/fr/blog/tirage-apres-rupture/) prolonge cet exercice : chaque carte y parle de vous, jamais de l’autre.

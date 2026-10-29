@@ -19,9 +19,9 @@ Les Amoureux, c’est la lame que tout le monde espère voir sortir dans un tira
 
 Le 6, dans mes notes, c’est « le 3 exalté » : la machine tourne, et elle tourne vite. L’harmonie, l’échange, le moment où l’on peut se reposer. En amour, c’est la relation qui fonctionne — et son risque vient du même endroit. Quand tout roule, on oublie de vérifier qu’on la choisirait encore. Le conseil du 6 : rester calme et humble pendant que tout va bien.
 
-L’élément, c’est l’Air, la pensée. L’Air a accès à tout en même temps, ce qui en fait le meilleur décideur des quatre : le Feu est trop impulsif, l’Eau trop émotive, la Terre trop têtue. Une carte d’Eau parlerait de sentiments. Celle-ci parle de choisir, les yeux ouverts. Son énergie féminine dit comment : réfléchir d’abord, et aborder les sujets délicats par un détour plutôt que de front.
+L’élément, c’est l’Air, la pensée. L’Air perçoit toute la situation à la fois ; c’est pourquoi, des quatre éléments, c’est lui qui tranche le mieux — le Feu part trop vite, l’Eau se noie dans le ressenti, la Terre refuse de bouger. Une carte d’Eau parlerait de sentiments. Celle-ci parle de choisir, les yeux ouverts. Son énergie féminine dit comment : réfléchir d’abord, et aborder les sujets délicats par un détour plutôt que de front.
 
-Un détail du dessin compte ici. L’homme regarde la femme ; la femme lève les yeux vers l’ange ; ils ne se touchent pas. **Ce n’est pas le portrait de deux personnes amoureuses ; c’est le portrait de deux personnes qui décident.** Le tarot de Marseille, qui l’appelle l’Amoureux, au singulier, le dessine plus franchement encore : un jeune homme debout entre deux femmes. Les Gémeaux et les autres clés de lecture sont sur [la page de la lame](/fr/bibliotheque/cartes-tarot/les-amoureux/).
+Suivez les regards : lui la regarde, elle regarde l’ange au-dessus d’eux, et aucun ne touche l’autre. **Ce n’est pas le portrait de deux personnes amoureuses ; c’est le portrait de deux personnes qui décident.** Le tarot de Marseille, qui l’appelle l’Amoureux, au singulier, le dessine plus franchement encore : un jeune homme debout entre deux femmes. Les Gémeaux et les autres clés de lecture sont sur [la page de la lame](/fr/bibliotheque/cartes-tarot/les-amoureux/).
 
 ## Se parler jusqu’à deux heures du matin {#se-parler}
 
@@ -39,7 +39,7 @@ Imaginons un couple qui vit ensemble depuis six ans et qui tire les Amoureux. La
 
 Après une rupture, les Amoureux peuvent montrer un choix déjà fait, et l’effort de l’assumer plutôt que de le rejouer. Ou un choix encore ouvert : réessayer, ou non. La lame ne le fera pas pour vous. Elle montre le carrefour et l’ange au-dessus, et vous laisse la marche.
 
-Si quelqu’un s’asseyait en face de moi, ne me disait rien et tirait les Amoureux, je partirais des clés de lecture : une harmonie qui fonctionne, une décision, une conversation, la tête autant que le cœur. Ce que je dirais à voix haute ressemblerait à : « Il y a un choix devant vous dont vous connaissez déjà la réponse, et vous attendez que quelqu’un d’autre la rende officielle. » Puis je demanderais si ça tombe juste, et j’écouterais. Sinon, c’est un raté, et je le noterais comme tel.
+Si quelqu’un s’asseyait en face de moi, ne me disait rien et tirait les Amoureux, je partirais des clés de lecture : une harmonie qui fonctionne, une décision, une conversation, la tête autant que le cœur. Bout à bout, ces clés me feraient dire : « Il y a un choix devant vous dont vous connaissez déjà la réponse, et vous attendez que quelqu’un d’autre la rende officielle. » Puis je demanderais si ça tombe juste, et j’écouterais. Sinon, c’est un raté, et je le noterais comme tel.
 
 ## « Le bon » ne s’écrit pas d’avance {#le-bon}
 
@@ -63,7 +63,7 @@ En excès, c’est choisir encore et encore sans jamais se poser. Chaque nouvell
 
 {{< cards "sw02 ar15 cu02" >}}
 
-À côté du Deux d’Épées — une femme aux yeux bandés, deux lames croisées sur la poitrine —, le choix est refusé. Les deux options sont tenues à égalité pour n’avoir à en prendre aucune. Enlever le bandeau vient avant toute décision.
+À côté du Deux d’Épées et de son bandeau, le choix est refusé. Les deux options sont tenues à égalité pour n’avoir à en prendre aucune. Enlever le bandeau vient avant toute décision.
 
 À côté du Diable, la question devient : ce choix en est-il encore un ? Les deux personnages enchaînés du Diable font écho aux Amoureux neuf lames plus loin, et le 15 se ramène lui aussi à 6. **Le Diable, c’est le 6 qui a cessé de choisir ; les Amoureux, le 6 qui continue de choisir.** J’ai écrit sur [le Diable en amour](/fr/blog/le-diable-tarot-amour/) et ses chaînes lâches.
 
@@ -73,4 +73,4 @@ En excès, c’est choisir encore et encore sans jamais se poser. Chaque nouvell
 
 La prochaine fois que les Amoureux sortent, écrivez le choix en haut d’une feuille, en une phrase. Puis deux colonnes : ce que vous choisissez si vous dites oui, et ce que vous choisissez si vous dites non — parce que les deux sont des choix. Relisez la feuille deux jours plus tard, quand l’Air sera retombé.
 
-Si le choix est de taille, j’ai détaillé toute la démarche dans [prendre une décision avec le tarot, sans laisser les cartes choisir](/fr/blog/decision-tarot/).
+Si le choix est de taille, j’ai détaillé toute la démarche dans [un guide pour décider avec les cartes sans leur céder la main](/fr/blog/decision-tarot/).

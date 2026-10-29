@@ -21,7 +21,7 @@ Her rank is the Queen: inner mastery, someone who no longer needs to run. The Qu
 
 Her element is Water of Air. Air, in my notes, is the best decision-maker of the four, because it sees everything at once — and on a bad day it’s the viper’s tongue. Water brings feeling into it. So she isn’t a mind without a heart. She’s a mind that has felt, and decides with that knowledge rather than in spite of it.
 
-Her energy is feminine, which has nothing to do with being a woman: patience, thinking before acting, delicate subjects approached by a detour. The Queen of Swords adds the blade, so the care comes first and the sentence that needs saying comes after. One detail of the drawing says it for love: one hand holds the sword upright, the other is raised and open, inviting you to speak. [Her card page](/library/tarot-cards/queen-of-swords/) has every other lens.
+Her energy is feminine, whoever happens to carry it: patience, thinking before acting, delicate subjects approached by a detour. The Queen of Swords adds the blade, so the care comes first and the sentence that needs saying comes after. For love, the drawing puts it in two gestures: one hand holds the sword upright, the other is raised and open, inviting you to speak. [Her card page](/library/tarot-cards/queen-of-swords/) covers the rest of her lenses.
 
 **One hand cuts, the other is open: that’s the whole of her honesty.**
 
@@ -37,7 +37,7 @@ After a break-up, she’s clarity about why it ended — without rewriting the s
 
 With this card, people often ask about another woman. “Is she the ex?” “Is it his mother?” “Is someone coming between us?” It’s an understandable reflex: a queen on the table looks like a person, and when you’re worried, a person looks like a threat.
 
-I don’t read on people who aren’t in the room, and I’d rather not turn a court card into a suspect. A court card describes a way of acting, and most often it describes you. I explain how I read them in [court cards explained](/blog/court-cards-explained/). I also hold my own readings to the honesty she asks for: when something doesn’t land, I say so plainly.
+I don’t read on absent people, and I’d rather not turn a court card into a suspect. A court card describes a way of acting, and most often it describes you. I explain how I read them in [court cards explained](/blog/court-cards-explained/). I also hold my own readings to the honesty she asks for: when something doesn’t land, I say so plainly.
 
 A kinder question: “Where do I need to be clearer, and how can I say it kindly?” It points the sword where it can help.
 
@@ -45,11 +45,11 @@ A kinder question: “Where do I need to be clearer, and how can I say it kindly
 
 {{< cards "cuki sw08 sw03" >}}
 
-Next to the King of Cups, head and heart sit side by side: clear words and a calm heart, in one couple or in one person ([the King of Cups in love](/blog/king-of-cups-tarot-love/)). Next to the Eight of Swords, she’s what the Eight becomes with the blindfold off: the same sword, held upright, by someone who has decided ([the Eight of Swords in love](/blog/eight-of-swords-tarot-love/)). Next to the Three of Swords, the sorrow has a name: a heartbreak that taught clarity. The pain came first; the clear sentence grew out of it.
+With the King of Cups beside her, clear words meet a steady heart — two people who balance each other, or one person who has both ([the King of Cups in love](/blog/king-of-cups-tarot-love/)). Next to the Eight of Swords, she’s the woman from that card after the blindfold comes off and the choice is made: one blade, raised, in a steady hand ([the Eight of Swords in love](/blog/eight-of-swords-tarot-love/)). Next to the Three of Swords, the sorrow has a name: a heartbreak that taught clarity. The pain came first; the clear sentence grew out of it.
 
 ## The open hand closes {#hand-closes}
 
-Reversed, the same clarity slows down or goes too far. Slowed, the sentence stays in the throat: the boundary you know you need and never state, the conversation postponed again because the timing is never right.
+Reversed, her clarity either stalls or overshoots. Stalled, the sentence stays in the throat: the boundary you know you need and never state, the conversation postponed again because the timing is never right.
 
 In excess, it’s honesty without the open hand. Sarcasm, cutting remarks, the cold silence that punishes. Being right becomes more important than being heard. Sometimes it’s old sorrow talking: the hurt that made her clear also making her hard. That version can become the tyrant my notes warn about, the one who decides for everyone and asks no one.
 

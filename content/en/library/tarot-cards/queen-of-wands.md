@@ -15,11 +15,7 @@ energy: Feminine
 kabbalah: ''
 image: cards/waqu.webp
 h1: Queen of Wands — <em>the Queen</em>, Water of Fire
-lede: 'Before looking up what Queen of Wands “means”, look at what you already have:
-  the Queen, the element Water of Fire. You’re reading the card. The number says the
-  Queen — inner mastery, welcome; the element says drive, what you launch. Lay the
-  two over each other, add the colours, and the card is already talking — the rest
-  of the page shows you how.'
+lede: 'A queen in yellow sits square on a throne of lions, holding a wand and a sunflower, a black cat at her feet. Does your warmth draw people in, and what does it keep quiet?'
 related:
 - /library/numerology
 - /library/four-elements/fire-element
@@ -79,6 +75,6 @@ Next to [Strength](/library/tarot-cards/strength/), the lions of her throne meet
 
 Here the Queen of Wands comes out first, then the [Two of Pentacles](/library/tarot-cards/two-of-pentacles/) — a spread from imagination, not from memory. The Queen then 2 — inner mastery, then a balance between two sides; Fire then Earth — warmth, then the practical juggle; a seated woman in yellow, then a young man dancing with two coins inside a looped ribbon, ships on high waves behind him.
 
-Said out loud: “Everyone warms themselves at your fire, and you’re juggling more than you show. The queen is sitting down; the hands aren’t.”
+What the yellow queen and the juggler suggest to me: “Everyone warms themselves at your fire, and you’re juggling more than you show. The queen is sitting down; the hands aren’t.”
 
-Then check: “Who keeps your fire going, while you keep everyone else’s going?” If it falls flat, it’s a miss — say so, note it, and don’t reach for another card to save it.
+Then check: “Who keeps your fire going, while you keep everyone else’s going?” If nobody leans on them and nothing is being juggled, the reading missed: tell them, write it down, and leave the deck alone.

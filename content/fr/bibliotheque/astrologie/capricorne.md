@@ -26,12 +26,13 @@ related:
 - /bibliotheque/astrologie/saturne
 faq:
 - q: Quelle carte de tarot correspond au Capricorne ?
-  a: Le Diable, dans la tradition Golden Dawn reprise par le Rider-Waite-Smith. Quand
-    elle sort, le signe donne son verbe, son élément et son mode d’un coup.
-- q: 'Je suis Capricorne : est-ce que cette carte est « ma » carte ?'
-  a: C’est une entrée, pas une identité. La carte parle à n’importe qui de la même
-    chose ; votre signe vous aide seulement à la reconnaître plus vite. L’astrologie
-    n’est pas une excuse.
+  a: Le Diable, une figure à cornes de bouc — l’animal du signe — perchée au-dessus
+    de deux personnages enchaînés. Le lien a été fixé par la Golden Dawn ; en tirage,
+    la carte parle d’ambition et de ce qui attache.
+- q: Être Capricorne fait-il du Diable ma carte ?
+  a: 'Le Diable ne choisit pas ses lecteurs par signe. Il montre des chaînes qu’on
+    pourrait retirer, et la question qu’il pose — qu’est-ce qui vous retient ? — vaut
+    pour tout le monde, Capricornes ambitieux compris.'
 gallery:
 - src: "visuals/sign-capricorn/1.jpg"
   title: "Une prise après l’autre"
@@ -78,7 +79,7 @@ Jon Snow dans Game of Thrones ; Miranda Priestly dans Le Diable s’habille en P
 
 ## Sa carte : Le Diable {#carte}
 
-Quand [le Diable](/fr/bibliotheque/cartes-tarot/le-diable/) sort, le Capricorne est là : l’ambition, la structure, et les chaînes qui vont avec — qu’on peut retirer, si l’on regarde bien. Bien posé, c’est la responsabilité prise. Mal posé, c’est l’outil devenu maître.
+Dans [le Diable](/fr/bibliotheque/cartes-tarot/le-diable/), le Capricorne retrouve son ambition, sa structure, et les chaînes qui vont avec — qu’on peut retirer, si l’on regarde bien. Tout dépend de qui tient l’autre : la responsabilité prise, ou l’outil devenu maître.
 
 {{< cards "ar15" >}}
 

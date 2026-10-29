@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: Vav
 image: cards/ar05.webp
 h1: The Hierophant — <em>5</em>, Earth
-lede: 'Before looking up what The Hierophant “means”, look at what you already have:
-  5, the element Earth, Taurus. You’re reading the card. The number says 5 — five
-  — conflict, trial, making do with what’s left; the element says matter, what holds.
-  Lay the two over each other, add the colours, and the card is already talking —
-  the rest of the page shows you how.'
+lede: 'Between two grey pillars, a figure in a triple crown raises two fingers over a pair of kneeling monks, crossed keys at his feet. Which of the rules you were handed would you still choose today?'
 related:
 - /library/numerology
 - /library/four-elements/earth-element
@@ -44,13 +40,13 @@ A religious figure sits on a throne between two grey stone pillars, facing you. 
 
 Two tonsured monks kneel before him with their backs to us, one robe patterned with roses, the other with lilies.
 
-The name is an old Greek title: the hierophant was the priest who showed initiates the mysteries at Eleusis. What’s missing: a sky, a landscape, a way out. Everyone is indoors, in their place. **The drawing is about transmission — a teacher between two pillars, passing on what he was given to the people in front of him.**
+The name is an old Greek title: the hierophant was the priest who showed initiates the mysteries at Eleusis. What’s missing: a sky, a landscape, a way out. Everyone is indoors, in their place. **At its heart is transmission — a teacher between two pillars, passing on what he was given to the people in front of him.**
 
 ## By number: 5 {#number}
 
 A pope as a 5 can look odd, until you see what 5 does. The [number 5](/library/numerology/number-5/) is the trial that measures: you meet something that tests you, and you find out what holds. For the Hierophant, the trial is the rule — school, a tradition, a faith, a company’s way of doing things — and the question of what you keep of it.
 
-In the Instagram story on my numerology pages, 5 is Facebook arriving to buy the company, an institution walking in with its rules. The advice of 5 suits this card: avoid useless conflicts, and be honest with yourself about the situation. Its minus is denial — following the rule so you never have to ask whether it’s still yours.
+Instagram met an institution at its 5: Facebook arriving to buy the company, rules and all. The advice of 5 suits this card: skip the pointless battles, and look squarely at the situation you’re in. Its minus is denial — following the rule so you never have to ask whether it’s still yours.
 
 ## By element: Earth {#element}
 
@@ -60,11 +56,11 @@ That’s the plus: knowledge that holds, a method, a teacher, a ceremony that ma
 
 ## By colours {#colours}
 
-Grey dominates: the background and the pillars. In [my colour grid](/library/tarot-colours/grey/), grey is neutrality, stability, the absence of personal will — on this card, the institution, what judges without emotion. Red on the robe: action, authority, someone who speaks for the group. Gold on the crown and the staff: value, what has been earned or inherited. Red and white again on the kneeling men, roses and lilies: desire and purity, side by side.
+Grey dominates: the background and the pillars. Grey, [as my grid reads it](/library/tarot-colours/grey/), is neutrality, stability, the absence of personal will — on this card, the institution, what judges without emotion. Red on the robe: action, authority, someone who speaks for the group. Gold on the crown and the staff: value, what has been earned or inherited. Red and white again on the kneeling men, roses and lilies: desire and purity, side by side.
 
 ## By astrology: Taurus {#astrology}
 
-In the Golden Dawn tradition, the Hierophant goes with [Taurus](/library/astrology/taurus/): “I have”, ruled by Venus, a [fixed](/library/astrological-modes/fixed/) sign. Fixed signs are stable and enduring, and can be slow and stubborn; Taurus is stubborn on familiar ground, which suits a card about tradition.
+The Hierophant answers to [Taurus](/library/astrology/taurus/) in the Golden Dawn: “I have”, ruled by Venus, a [fixed](/library/astrological-modes/fixed/) sign. Fixed signs are stable and enduring, and can be slow and stubborn; Taurus is stubborn on familiar ground, which suits a card about tradition.
 
 ## In a reading {#reading}
 
@@ -82,6 +78,6 @@ Lay the Hierophant down and put the [Page of Pentacles](/library/tarot-cards/pag
 
 5 then a Page: the trial of the rule next to the student. Earth and Earth: something concrete — work, study, money, a skill. The grey and red of the institution, then the green of an open field.
 
-The sentence I’d say out loud: “You’re learning something by the book, and part of you wants to know whether the book is right.”
+Teacher and student together come out as: “You’re learning something by the book, and part of you wants to know whether the book is right.”
 
-Then I’d check: is there a course, a training or a new job where you’re being taught a way of doing things? If yes, I’d ask what they would change in it. If no, the reading missed, and I note it without dressing it up.
+Then I’d ask whether there’s a course, a training or a new job where they’re being taught a way of doing things. If yes, I’d ask what they would change in it. If no one is teaching them anything at the moment, the reading missed, and it goes in my notes as such.

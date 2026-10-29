@@ -27,13 +27,13 @@ Je l’ai écrit dans mon [guide pour apprendre à lire le tarot](/fr/blog/appre
 
 Voici pourquoi. Quelqu’un qui veut que ça marche aide trop. Il hoche la tête, il comble les trous, il se reconnaît dans tout ce qui sonne chaleureux. C’est le mécanisme de l’effet Barnum, et j’explique [pourquoi un tirage peut sembler juste](/fr/blog/pourquoi-les-tirages-sont-justes/) même quand il ne l’est pas. Quelqu’un qui doute fait l’inverse. Il attend, il vérifie, et **quand une personne qui doute dit « oui, c’est ça », ce oui vaut quelque chose.**
 
-Ma toute première lecture pour une inconnue en est un bon exemple : à la fin, elle m’a dit que ça ne lui parlait pas, et trois ou quatre jours plus tard, elle m’a écrit que tout était arrivé. Son « non » pendant la lecture n’a rien empêché. Il a rendu son message impossible à discuter.
+Ma toute première lecture pour une inconnue en est un bon exemple : à la fin, elle ne s’y était pas reconnue ; moins d’une semaine après, elle me racontait par écrit que tout avait eu lieu. Son « non » pendant la lecture n’a rien empêché. Il a rendu son message impossible à discuter.
 
 ## Croire et être ouvert, ce n’est pas pareil {#ouverture}
 
 L’ouverture, au sens où j’emploie le mot, veut dire que vous avez accepté d’être lu. Vous êtes là, vous avez dit oui, et vous êtes prêt à écouter jusqu’au bout.
 
-C’est important, parce qu’une personne qui ne sait pas qu’on la lit n’est pas ouverte : on n’obtient d’elle qu’une moitié de phrase, et on construit toute une affirmation dessus. C’est l’une des raisons pour lesquelles je ne [tire pas les cartes sur quelqu’un qui n’a rien demandé](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/). Comme je l’ai noté pour moi-même : ce n’est que mon expérience et l’hypothèse que j’en tire ; rien n’a été prouvé scientifiquement.
+C’est important, parce que quelqu’un qu’on lit à son insu reste fermé : on ne récolte de lui qu’un bout de phrase, et on construit toute une affirmation dessus. C’est l’une des raisons pour lesquelles je ne [tire pas les cartes sur quelqu’un qui n’a rien demandé](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/). Comme je l’ai noté pour moi-même : voilà ce que ma pratique m’a montré, et la supposition que j’en fais ; rien n’a été prouvé scientifiquement.
 
 Ce qui ferme une lecture, d’après mon expérience, ce n’est pas le doute. C’est la peur. Parfois je ne vois rien dans les cartes, et c’est soit mon propre blocage — trop de pression pour bien faire —, soit celui de l’autre, parce qu’il a peur de ce qu’il pourrait entendre. Dans ces cas-là, je m’arrête et on parle. Je rassure. Une personne qui pense que tout ça ne rime à rien peut être plus facile à lire qu’une personne qui en a peur.
 
@@ -41,15 +41,15 @@ Ce qui ferme une lecture, d’après mon expérience, ce n’est pas le doute. C
 
 Pas au sens où on l’entend d’habitude. J’ai commencé à lire le 26 décembre 2020, en m’attendant à devoir m’entraîner avant que quoi que ce soit tombe juste. Je n’y croyais pas, et la toute première lecture a tenu quand même.
 
-Aujourd’hui, avant chaque lecture, je me dis : *je vais dire n’importe quoi.* Plus j’abaisse mes attentes, plus c’est juste. Une tarologue sûre de son don a tendance à sauver ses lectures au lieu de dire ce qui vient.
+Aujourd’hui, avant chaque lecture, je me répète que je vais dire des absurdités. Plus j’abaisse mes attentes, plus c’est juste. Une tarologue sûre de son don a tendance à sauver ses lectures au lieu de dire ce qui vient.
 
-Ce que j’ai à la place de la croyance, c’est un décompte, ratés compris. Les tarologues croient à des choses très différentes, et j’ai expliqué à part [où je me situe, et quoi demander plutôt à un tarologue](/fr/blog/les-tarologues-y-croient-ils/). Si vous êtes sceptique et que vous vous demandez si vous pourriez apprendre quand même, je suis venue à l’astrologie pour m’en moquer, et je le raconte dans [un sceptique peut-il apprendre le tarot](/fr/blog/un-sceptique-peut-il-apprendre-le-tarot/).
+Ce que j’ai à la place de la croyance, c’est un décompte, ratés compris. Les tarologues croient à des choses très différentes, et j’ai expliqué à part [où je me situe, et quoi demander plutôt à un tarologue](/fr/blog/les-tarologues-y-croient-ils/). Si vous êtes sceptique et que vous vous demandez si vous pourriez apprendre quand même, sachez que j’ai commencé par tourner l’astrologie en dérision ; je raconte la suite dans [ce que je dis aux sceptiques tentés d’apprendre](/fr/blog/un-sceptique-peut-il-apprendre-le-tarot/).
 
 ## Quand c’est trop y croire qui pose problème {#trop-y-croire}
 
 S’il y a une personne pour qui je m’inquiète, ce n’est pas celle qui doute. C’est celle qui croit chaque mot : qui ressort d’un tirage avec une consigne, démissionne à cause d’une carte, ou revient chaque semaine chercher la même réponse.
 
-Une lecture peut vous montrer quelque chose ; c’est vous qui décidez quoi en faire. J’ai écrit sur [les situations où je repose les cartes](/fr/blog/le-tarot-est-il-dangereux/), et trop y croire en fait partie.
+Un tirage peut éclairer un point ; la décision, elle, reste entre vos mains. J’ai écrit sur [les situations où je repose les cartes](/fr/blog/le-tarot-est-il-dangereux/), et trop y croire en fait partie.
 
 ## Venez le tester en sceptique {#tester}
 

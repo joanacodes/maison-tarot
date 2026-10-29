@@ -16,7 +16,7 @@ related:
 - /library/four-elements
 faq:
 - q: "Which tarot cards correspond to Malkhut?"
-  a: "The four Tens, and in the Golden Dawn system the four Princesses. With the Rider-Waite-Smith, the Princesses are read as the Pages, the least disputed match of the court."
+  a: "The four Tens, along with the Golden Dawn’s four Princesses. With the Rider-Waite-Smith, the Princesses are read as the Pages, the least disputed match of the court."
 - q: "What is the link between Malkhut and the Shekhinah?"
   a: "In Kabbalah, Malkhut is also called the Shekhinah, a Talmudic word for God’s presence dwelling in the world. It is pictured as feminine, and as the bride Tiferet seeks to join."
 gallery: []
@@ -27,7 +27,7 @@ Malkhut (מלכות) means “kingship” or “sovereignty”; tarot books usua
 
 Malkhut has nothing of its own. The Zohar says so, and Kabbalists compare it to the moon, which shines with light it receives from the sun. **Malkhut is where everything above finally arrives, and is received.** Think of a letter: the writer’s whole intention, and nothing happens until someone opens it.
 
-Kabbalah also calls Malkhut the Shekhinah, a word from the Talmud for God’s presence dwelling in the world. Here that presence is pictured as feminine: the bride whom [Tiferet](/library/kabbalah/tiferet/), the bridegroom, seeks to join. The tradition attaches Malkhut to King David, the figure of kingship. The [Tree of Life page](/library/kabbalah/tree-of-life/) shows it at the foot of the whole structure.
+Kabbalah also calls Malkhut the Shekhinah, a word from the Talmud for God’s presence dwelling in the world. Here that presence is pictured as feminine: the bride whom [Tiferet](/library/kabbalah/tiferet/), the bridegroom, seeks to join. The tradition attaches Malkhut to King David, the figure of kingship. [The diagram of the whole Tree](/library/kabbalah/tree-of-life/) shows it at the foot of the structure.
 
 {{< tree-of-life highlight="malkhut" >}}
 
@@ -44,7 +44,7 @@ Malkhut is where the Hermetic shift is easiest to see: in Jewish sources, it is 
 | [Ten of Swords](/library/tarot-cards/ten-of-swords/) | Lord of Ruin (Sun in Gemini) | the end touched, and the dawn behind it |
 | [Ten of Pentacles](/library/tarot-cards/ten-of-pentacles/) | Lord of Wealth (Mercury in Virgo) | three generations, the Tree drawn in coins |
 
-Start with the number: [ten](/library/numerology/number-10/) is the transition between two stages, the corridor between two rooms; its minus is that it can be short-lived, and it tells you to start something else. In my notes, the Ten of Pentacles is complete wealth at home, the whole family present; the Golden Dawn calls it the Lord of Wealth. Malkhut adds the landing. Through this lens, a Ten is the cycle arrived somewhere you can touch.
+Start with the number: [ten](/library/numerology/number-10/) is the transition between two stages, the corridor between two rooms; its weak point is that the moment may not last, and it pushes you towards something new. In my notes, the Ten of Pentacles is complete wealth at home, the whole family present; the Golden Dawn calls it the Lord of Wealth. Malkhut adds the landing. Through this lens, a Ten is the cycle arrived somewhere you can touch.
 
 Look closely at the Ten of Pentacles: its ten coins are laid out in the shape of the Tree of Life, the whole structure brought down into one family’s courtyard.
 
@@ -52,7 +52,7 @@ Look closely at the Ten of Pentacles: its ten coins are laid out in the shape of
 
 Among the court cards, the Golden Dawn gives Malkhut the last letter of the Name, YHVH: the final Heh, the Earth of each suit. Its figure is the Princess, a young woman standing on her own feet.
 
-The matching with the Rider-Waite-Smith is disputed for the Kings and the Knights, and the [Chokhmah page](/library/kabbalah/chokhmah/) gives both sides. The Princesses are the clearer case. **By title and by picture, the Rider-Waite-Smith [Pages](/library/numerology/page/) are the Princesses**, and the card pages on this site agree: the Page of Wands is Earth of Fire.
+The matching with the Rider-Waite-Smith is disputed for the Kings and the Knights, and the [Chokhmah page](/library/kabbalah/chokhmah/) gives both sides. The Princesses are the clearer case. **By title and by picture, the Rider-Waite-Smith [Pages](/library/numerology/page/) are the Princesses**, which is how the cards are read here: the Page of Wands is Earth of Fire.
 
 {{< cards "wapa cupa swpa pepa" >}}
 
@@ -66,7 +66,7 @@ On the Golden Dawn’s Tree, three paths arrive in Malkhut, carrying the Moon, J
 
 ## Malkhut in a reading {#reading}
 
-What Malkhut can add is a question about the concrete: where does this land — in which house, which job, which week?
+Malkhut asks for the concrete: where does this land — in which house, which job, which week?
 
 Say someone draws the Ten of Wands. Ten says a stage is complete and asks you to start something else. Malkhut adds that the load is real: carried by one person, towards an actual front door. The question becomes what can be put down at the threshold.
 

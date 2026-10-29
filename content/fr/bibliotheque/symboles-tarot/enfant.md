@@ -8,7 +8,7 @@ weight: 30
 categories: ["Symboles"]
 tags: ["symboles du tarot", "enfant", "Six de Coupes", "enfant intérieur", "symbolisme du tarot"]
 h1: "L’enfant — ce qui est <em>neuf</em>, et ce dont on se souvient"
-lede: "Un enfant sur une carte, c’est quelqu’un qui commence et qui voit tout pour la première fois. Dans le Rider-Waite-Smith, des enfants s’agenouillent devant la Mort, sortent d’un cercueil sur le Jugement, dansent sur le Dix de Coupes, traversent l’eau sur le Six d’Épées et s’offrent des fleurs sur le Six de Coupes."
+lede: "Un enfant sur une carte, c’est quelqu’un qui commence et qui voit tout pour la première fois. Des enfants s’agenouillent devant la Mort, sortent d’un cercueil sur le Jugement, dansent sur le Dix de Coupes, traversent l’eau sur le Six d’Épées et s’offrent des fleurs sur le Six de Coupes."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/six-de-coupes
@@ -16,9 +16,9 @@ related:
 - /bibliotheque/cartes-tarot/dix-de-coupes
 faq:
 - q: "Un enfant dans un tirage annonce-t-il une grossesse ?"
-  a: "On me pose souvent la question, par espoir ou par inquiétude, et je comprends pourquoi. Je ne lis pas sur la grossesse ni sur la fertilité : un médecin peut répondre, une carte non. Ce qu’un enfant peut porter dans un tirage, c’est un commencement, une part plus jeune de vous, ou quelqu’un dont vous prenez soin."
+  a: "On me pose souvent la question, par espoir ou par inquiétude, et je comprends pourquoi. Une grossesse, ou le désir d’enfant, c’est l’affaire d’un médecin : lui peut vous répondre, les cartes ne le peuvent pas, alors je laisse ce sujet de côté. Ce qu’un enfant peut porter dans un tirage, c’est un commencement, une part plus jeune de vous, ou quelqu’un dont vous prenez soin."
 - q: "Quelles cartes du tarot montrent des enfants ?"
-  a: "Dans le Rider-Waite-Smith de 1909 : le Soleil, la Mort, le Jugement, le Six de Coupes, le Dix de Coupes, le Dix de Pentacles et le Six d’Épées. Un visage d’enfant est aussi sculpté sur le trône de la Reine d’Épées."
+  a: "Sept cartes du jeu de 1909 : le Soleil, la Mort, le Jugement, le Six de Coupes, le Dix de Coupes, le Dix de Pentacles et le Six d’Épées. Un visage d’enfant est aussi sculpté sur le trône de la Reine d’Épées."
 gallery:
 - src: "visuals/sym-child/1.jpg"
   title: "À côté d’un adulte"
@@ -65,7 +65,7 @@ Sur le Dix de Coupes, deux enfants dansent main dans la main à côté de leurs 
 
 Sur le Six d’Épées, une petite silhouette est blottie à côté d’une femme encapuchonnée, dans la barque que le passeur fait traverser.
 
-Et le Soleil a l’enfant le plus connu du jeu, sur son cheval blanc ; [la page de la carte](/fr/bibliotheque/cartes-tarot/le-soleil/) le lit en entier.
+Et le Soleil a l’enfant le plus connu du jeu, sur son cheval blanc ; c’est [sur la page de l’arcane XIX](/fr/bibliotheque/cartes-tarot/le-soleil/) qu’il est lu en entier.
 
 {{< cards "ar13 ar20 cu06 cu10 pe10 sw06 ar19" >}}
 
@@ -75,9 +75,9 @@ Et le Soleil a l’enfant le plus connu du jeu, sur son cheval blanc ; [la page 
 
 Quand un enfant sort, demandez-vous duquel il s’agit. Un commencement : un projet, une relation, une idée qui fait ses premiers pas. Un souvenir : le Six de Coupes, où le passé revient les mains pleines de fleurs. Ou une responsabilité : l’enfant qu’on fait traverser sur le Six d’Épées, qui dépend des choix d’un adulte.
 
-Les clés de lecture : le [jaune](/fr/bibliotheque/couleurs-tarot/jaune/), dans ma grille, c’est l’enfant intérieur — la joie, l’optimisme, l’expression de soi. Le nombre : le Six de Coupes et le Six d’Épées portent tous deux le 6, et dans [ma table de numérologie](/fr/bibliotheque/numerologie/chiffre-6/), le 6, c’est le moment où l’on peut enfin se reposer, prendre des vacances. Leurs éléments complètent : l’Eau, ce que vous ressentez ; l’Air, la décision que vous prenez pour l’enfant.
+Passons aux clés. Le [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) porte l’enfant intérieur — la joie, l’optimisme, l’expression de soi. Le nombre : le Six de Coupes et le Six d’Épées portent tous deux le 6, et, selon [mes notes sur le 6](/fr/bibliotheque/numerologie/chiffre-6/), c’est le moment où l’on peut enfin se reposer, prendre des vacances. Leurs éléments complètent : l’Eau, ce que vous ressentez ; l’Air, la décision que vous prenez pour l’enfant.
 
-Imaginons que quelqu’un tire le Six de Coupes après des années sans dessiner, peindre ou jouer de la musique. Les enfants pourraient dire : revenez à ce que vous aimiez avant qu’on vous mette des notes.
+Pensez au Six de Coupes tiré après des années sans dessiner, peindre ou jouer de la musique. Les enfants pourraient dire : revenez à ce que vous aimiez avant qu’on vous mette des notes.
 
 ## L’autre face {#revers}
 

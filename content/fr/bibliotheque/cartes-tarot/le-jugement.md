@@ -1,7 +1,7 @@
 ---
 title: 'Le Jugement (Judgement) — tarot Rider-Waite-Smith : lire la carte par ses
   clés de lecture'
-description: 'Le Jugement au tarot, lu par ses clés : 20 qui devient 2, le Feu, le gris et le blanc, Pluton — un appel, une seconde chance au travail, ni bonne ni mauvaise carte.'
+description: 'Le Jugement au tarot : une trompette et des cercueils ouverts, 20 devenu 2, le Feu, Pluton — un appel, une seconde chance au travail, ni bonne ni mauvaise carte.'
 translationKey: card-ar20
 type: cards
 navTitle: Le Jugement
@@ -16,10 +16,7 @@ energy: Masculine
 kabbalah: Shin
 image: cards/ar20.webp
 h1: Le Jugement — <em>20</em>, le Feu
-lede: 'Avant de chercher ce que « signifie » Le Jugement, regardez ce que vous avez
-  déjà : 20, l’élément Feu, Pluton. Vous lisez la carte. Le nombre dit 20 — 2 + 0 = 2 — se lier, peser, coopérer ; l’élément dit l’élan, ce qu’on lance. Posez les
-  deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà — le reste
-  de la page vous montre comment.'
+lede: 'Un ange souffle dans une trompette dorée ; sur l’eau, des cercueils s’ouvrent et des corps gris se lèvent, bras tendus vers le son. Quel appel ne pouvez-vous plus faire semblant de ne pas entendre ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -52,7 +49,7 @@ L’image fait penser au Jugement dernier sculpté au portail central de Notre-D
 
 Vingt se ramène à [2](/fr/bibliotheque/numerologie/chiffre-2/), le nombre de la Grande Prêtresse : deux parties, un contrat, un lien. Son conseil : lire avant de s’engager, peser avant de répondre ; son moins : l’entêtement, la solitude, le mental qui tourne en rond.
 
-Sur le Jugement, les deux parties, ce sont l’appel et la réponse : la trompette sonne, et quelqu’un doit décider s’il se lève. Dans l’histoire d’Instagram, le 2, c’est le moment où les fondateurs signent avec des investisseurs — l’idée engage désormais quelqu’un d’autre, et l’on peut perdre plus que son propre temps. Le Jugement a ce poids-là : répondre engage.
+Sur le Jugement, les deux parties, ce sont l’appel et la réponse : la trompette sonne, et quelqu’un doit décider s’il se lève. Instagram a connu ce 2 avec ses premiers investisseurs : l’idée engage désormais quelqu’un d’autre, et l’on peut perdre plus que son propre temps. Le Jugement a ce poids-là : répondre engage.
 
 ## Par l’élément : Feu {#element}
 
@@ -62,7 +59,7 @@ Le Feu est la seule attribution que la Golden Dawn ait donnée à cette carte, e
 
 ## Par les couleurs {#couleurs}
 
-Le [gris](/fr/bibliotheque/couleurs-tarot/gris/) des corps et des cercueils : la neutralité, pas encore de volonté propre — des gens qui attendaient. Le blanc des montagnes et de la bannière : la pureté, la paix, la page blanche. Le rouge de la croix : l’action, la force. L’or de la trompette : la volonté, la voix qui porte. Lisez les couleurs avant la carte et vous avez déjà : une longue attente, un nouveau départ, et un signal net pour agir.
+Le [gris](/fr/bibliotheque/couleurs-tarot/gris/) des corps et des cercueils : la neutralité, pas encore de volonté propre — des gens qui attendaient. Le blanc des montagnes et de la bannière : la pureté, la paix, la page blanche. Le rouge de la croix : l’action, la force. L’or de la trompette : la volonté, la voix qui porte. De quoi raconter, sans un mot, une longue attente, un nouveau départ et un signal net pour agir.
 
 ## Par l’astrologie : Pluton {#astrologie}
 
@@ -70,7 +67,7 @@ La Golden Dawn a attribué le Jugement à l’élément Feu, par la lettre hébr
 
 ## En lecture {#lecture}
 
-Le Jugement n’est ni bon ni mauvais. Chaque carte a un plus et un moins, et celle-ci montre les deux franchement. À l’endroit, c’est un appel : un second regard, un bilan, une seconde chance, le moment où l’on ne peut plus faire comme si on n’avait rien entendu. Le plus, c’est de se lever. Le moins, c’est le verdict qu’on apporte soi-même — entendre l’appel comme une condamnation plutôt que comme une invitation.
+Le Jugement n’est ni bon ni mauvais. Comme n’importe quelle lame, il a ses forces et ses pièges, et il les montre franchement. À l’endroit, c’est un appel : un second regard, un bilan, une seconde chance, le moment où l’on ne peut plus faire comme si on n’avait rien entendu. Le plus, c’est de se lever. Le moins, c’est le verdict qu’on apporte soi-même — entendre l’appel comme une condamnation plutôt que comme une invitation.
 
 Renversé, c’est le même appel resté sans réponse : on l’entend et on reste couché, ou l’on repasse le passé en revue sans rien décider. En excès, c’est se juger, ou juger les autres, sans fin.
 
@@ -80,15 +77,15 @@ Parce que le dessin montre des morts qui se relèvent, certaines personnes craig
 
 {{< cards "ar13 ar21 cu06" >}}
 
-**Le Jugement n’est pas un verdict sur vous ; c’est un appel, et vous choisissez d’y répondre ou non.** J’en dis plus sur [le Jugement en amour](/fr/blog/le-jugement-tarot-amour/) ; la vocation au travail a sa propre section, plus bas.
+**Le Jugement n’est pas un verdict sur vous ; c’est un appel, et vous choisissez d’y répondre ou non.** J’en dis plus sur [le Jugement en amour](/fr/blog/le-jugement-tarot-amour/) ; la vocation, elle, se joue au travail, dans la partie qui suit.
 
 ## Au travail {#au-travail}
 
-Au travail, le Jugement prend trois formes. Une vocation : quelque chose que vous vouliez faire bien avant d’avoir un emploi revient sans cesse — la formation que vous n’avez pas suivie, le métier que vous admiriez. Un bilan : l’entretien annuel, un bilan de compétences, l’anniversaire où vous relisez votre CV en vous demandant comment vous en êtes arrivé là ; la lame décrit le regard, pas la note. Une seconde chance : reprendre des études à quarante ans, repostuler là où l’on vous a dit non, ressortir un projet du tiroir. **Ceux qui se relèvent sur la carte ne sont pas de nouvelles personnes ; ce sont les mêmes, debout.** À côté du Huit de Pentacles — la maîtrise et l’effort nécessaire, dans mes notes —, la vocation devient un apprentissage.
+Au travail, le Jugement prend trois formes. Une vocation : quelque chose que vous vouliez faire bien avant d’avoir un emploi revient sans cesse — la formation que vous n’avez pas suivie, le métier que vous admiriez. Un bilan : l’entretien annuel, un bilan de compétences, l’anniversaire où vous relisez votre CV en vous demandant comment vous en êtes arrivé là ; la lame décrit le regard, pas la note. Une seconde chance : reprendre des études à quarante ans, repostuler là où l’on vous a dit non, ressortir un projet du tiroir. **Ceux qui se relèvent sur la carte ne sont pas de nouvelles personnes ; ce sont les mêmes, debout.** Avec le Huit de Pentacles, que je lis comme le métier qu’on maîtrise à force d’effort, la vocation devient un apprentissage.
 
-Renversé au travail, l’appel reste sans réponse (« quand les enfants seront plus grands », chaque mois de janvier), ou il en reçoit tant que vous refaites le bilan sans jamais décider. Le premier cas demande un petit pas ; le second, un point final.
+Renversé au travail, l’appel reste sans réponse (« quand les enfants seront plus grands », chaque mois de janvier), ou il en reçoit tant que vous refaites le bilan sans jamais décider. Dans le premier cas, faites un petit pas ; dans le second, arrêtez de refaire les comptes.
 
-« Est-ce ma vraie vocation ? Est-il trop tard ? » Ces questions portent l’espoir, le regret, la peur de perdre encore des années, et je comprends qu’on veuille qu’une carte tranche. Une carte ne peut pas vous dire ce que vous êtes censé faire, et je me méfierais d’un tirage qui s’y essaierait. Une vocation n’est pas un verdict qui tombe d’en haut ; elle se met à l’épreuve, parce que personne ne peut vous raconter de l’extérieur ce qu’elle fait vivre. Démissionner ou financer une formation, c’est une décision d’argent ([ce que je ne lis pas, et pourquoi](/fr/avertissements/#refus)), et un conseiller en évolution professionnelle vous aidera mieux qu’une carte. Une question plus douce : « Qu’est-ce qui me rappelle sans cesse, et à quoi ressemblerait un petit essai ? »
+« Est-ce ma vraie vocation ? Est-il trop tard ? » Ces questions portent l’espoir, le regret, la peur de perdre encore des années, et je comprends qu’on veuille qu’une carte tranche. Une carte ne peut pas vous dire ce que vous êtes censé faire, et je me méfierais d’un tirage qui s’y essaierait. Une vocation n’est pas un verdict qui tombe d’en haut ; elle se met à l’épreuve, parce que personne ne peut vous raconter de l’extérieur ce qu’elle fait vivre. Démissionner ou financer une formation, c’est une décision d’argent ([ce que je ne lis pas, et pourquoi](/fr/avertissements/#refus)), et un conseiller en évolution professionnelle vous aidera mieux qu’une carte. Une question plus féconde : « Qu’est-ce qui me rappelle sans cesse, et à quoi ressemblerait un petit essai ? »
 
 Cette semaine, prévoyez un petit essai : un stage d’un week-end, un café avec quelqu’un qui fait ce métier, une soirée à le tester à côté.
 
@@ -98,6 +95,6 @@ Pour cet exercice, le Jugement sort avec l’[As de Bâtons](/fr/bibliotheque/ca
 
 Les nombres : 20 se ramène à 2, un lien, un engagement ; l’As est un 1, le début brut d’un cycle. Les éléments : Feu et Feu, donc une fois que ça bouge, ça va vite. Les images : une trompette qui appelle et, sur l’As, une main qui sort d’un nuage en tenant une branche qui bourgeonne encore.
 
-La phrase que vous diriez à voix haute : « Quelque chose que vous avez laissé de côté il y a un moment vous rappelle, et cette fois, ça vient avec l’énergie de le commencer pour de bon. »
+Trompette et branche neuve, côte à côte, appellent cette phrase : « Ce que vous aviez laissé de côté il y a un moment vous rappelle, et cette fois, ça vient avec l’énergie de le commencer pour de bon. »
 
-Puis vérifiez : y a-t-il un projet, une personne ou un plan que la personne a mis de côté et qui lui revient sans cesse en tête ? Laissez-la répondre avant d’en dire plus. Si ça ne colle pas, c’est un raté ; si ça colle, ce qu’elle en fait lui appartient, pas à vous, et pas aux cartes.
+Vérifiez auprès de la personne : y a-t-il un projet, quelqu’un ou un plan qu’elle a mis de côté et qui lui revient sans cesse en tête ? Laissez-la répondre avant d’en dire plus. Si aucun appel ne résonne, la trompette a sonné dans le vide, et ça se note ; si ça colle, ce qu’elle en fait lui appartient, pas à vous, et pas aux cartes.

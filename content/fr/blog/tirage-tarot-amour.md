@@ -9,7 +9,7 @@ tags: ["tirage amour", "tirage tarot amour", "tirage relation amoureuse", "est-c
 image: "covers/love-tarot-spread.jpg"
 imageAlt: "Deux tasses de café sur une petite table de café avec un jeu de tarot entre elles, une chaise reculée."
 imagePrompt: "Two cups of coffee on a small café table with a closed tarot deck between them, one chair pulled back from the table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Un tirage amour honnête lit deux choses : vous, et la relation telle qu’elle existe entre vous. Cinq cartes : où vous en êtes en amour aujourd’hui, ce que vous apportez, ce dont vous avez besoin, la relation telle qu’elle est, et une chose que vous pouvez faire cette semaine. Il fonctionne en couple comme célibataire. Il laisse de côté « est-ce qu’il m’aime ? » — non que la question soit bête, mais parce que l’autre n’est pas dans la pièce, et que toute carte serait lue à travers votre espoir ou votre peur. Une question plus douce : de quoi ai-je besoin, et l’ai-je dit ?"
+summary: "Un tirage amour honnête lit deux choses : vous, et la relation telle qu’elle existe entre vous. Cinq cartes : où vous en êtes en amour aujourd’hui, ce que vous apportez, ce dont vous avez besoin, la relation telle qu’elle est, et une chose que vous pouvez faire cette semaine. Il fonctionne en couple comme célibataire. Il laisse de côté « est-ce qu’il m’aime ? » — non que la question soit bête, mais parce que l’autre n’est pas dans la pièce, et que toute carte serait lue à travers votre espoir ou votre peur. Mieux vaut se demander ce dont on a besoin, et si on l’a dit."
 ---
 Un tirage amour honnête lit deux choses : vous, et la relation telle qu’elle existe entre vous. Il ne lit pas dans la tête de l’autre. Cinq cartes, une question sur laquelle vous pouvez agir, et de la place pour tout ce que vous ressentez.
 
@@ -45,7 +45,7 @@ Ce que j’apporte : la Reine de Pentacles, assise dans un jardin, une pièce su
 
 Ce dont j’ai besoin : l’As de Coupes, une coupe qui déborde dans une main sortie d’un nuage. L’Eau, le chiffre 1 : un nouveau départ dans le ressenti. Après avoir tant donné, il vous faut recevoir.
 
-La relation telle qu’elle est : le Deux d’Épées. Une femme assise, les yeux bandés, deux épées croisées sur la poitrine, la mer derrière elle, presque tout en gris. L’Air, le chiffre 2 — la coopération, avec l’entêtement comme versant moins —, et le gris, dans ma grille des couleurs, c’est la neutralité, aucune volonté particulière. Entre vous deux, une conversation que personne n’entame.
+La relation telle qu’elle est : le Deux d’Épées. Face à la mer, une femme assise, bandeau sur les yeux, bras et lames croisés devant elle, dans un camaïeu de gris. L’Air, le chiffre 2 — la coopération, avec l’entêtement comme versant moins —, et le gris, dans ma grille des couleurs, c’est la neutralité, aucune volonté particulière. Entre vous deux, une conversation que personne n’entame.
 
 Une chose que je peux faire : le Valet de Coupes, un jeune homme en tunique bleue qui regarde un poisson sortir de sa coupe. Le Valet, c’est l’élève et le messager ; le bleu, l’émotion. Dites quelque chose de léger et d’un peu inattendu en premier — une question, pas un verdict.
 
@@ -55,9 +55,9 @@ Si vous faites ce tirage pour un ami, demandez-lui de ne rien vous dire avant �
 
 ## Pourquoi « est-ce qu’il m’aime ? » reste de côté {#est-ce-quil-maime}
 
-C’est la question que presque tout le monde apporte, sous une forme ou une autre : est-ce qu’il m’aime, est-ce qu’elle pense à moi, va-t-il revenir. Elle vient de l’amour, souvent de l’inquiétude, et elle n’a rien de ridicule. Effeuiller la marguerite — il m’aime un peu, beaucoup, passionnément, à la folie, pas du tout —, c’est la même question, bien plus ancienne que n’importe quel jeu de tarot.
+Cette question, presque chacun l’apporte un jour, avec ses variantes : est-ce qu’il m’aime, est-ce qu’elle pense à moi, va-t-il revenir. Elle vient de l’amour, souvent de l’inquiétude, et elle n’a rien de ridicule. Effeuiller la marguerite — il m’aime un peu, beaucoup, passionnément, à la folie, pas du tout —, c’est la même question, bien plus ancienne que n’importe quel jeu de tarot.
 
-Voici pourquoi je préfère ne pas la poser aux cartes. L’autre n’est pas dans la pièce et n’a pas accepté d’être lu ; vous n’aimeriez pas qu’on fouille les tiroirs de votre chambre, et lire le cœur de quelqu’un sans lui demander, ça s’en approche. Quelle que soit la carte qui sort, vous la lirez à travers votre espoir ou votre peur. Et même un « oui » ne vous dirait pas quoi faire lundi. [Tirer les cartes sur quelqu’un qui n’est pas là](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/) en parle plus longuement.
+Voici pourquoi je préfère ne pas la poser aux cartes. L’autre est absent de la lecture et n’y a pas consenti ; or sonder un cœur sans l’accord de son propriétaire, c’est un peu ouvrir les tiroirs de sa chambre. Quelle que soit la carte qui sort, vous la lirez à travers votre espoir ou votre peur. Et même un « oui » ne vous dirait pas quoi faire lundi. J’y reviens plus longuement à propos des [tirages faits dans le dos des gens](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/).
 
 Quoi demander à la place :
 

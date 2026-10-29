@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/sw05.webp
 h1: Cinq d’Épées — <em>cinq</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » Cinq d’Épées, regardez ce que vous avez
-  déjà : cinq, l’élément Air, Vénus en Verseau. Vous lisez la carte. Le nombre dit
-  cinq — le conflit, l’épreuve, faire avec ce qui reste ; l’élément dit le mental,
-  ce qu’on décide. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte
-  vous parle déjà — le reste de la page vous montre comment.'
+lede: 'Un jeune homme ramasse les épées avec un demi-sourire, tandis que les deux autres quittent le terrain, de dos, sous des nuages déchiquetés. Il a eu le dernier mot : avec qui fêtera-t-il ça ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-air
@@ -49,7 +45,7 @@ Le dessin parle d’**une bataille terminée, où le vainqueur tient toutes les 
 
 ## Par le nombre : cinq {#nombre}
 
-Le cinq, c’est le nombre de la bataille : essayer, ne pas avoir peur d’échouer ni de déplaire, et faire avec ce qui reste après. Dans mes notes, le Cinq d’Épées est un conflit d’Air — un conflit de décisions, entre des gens qui n’ont pas le même point de vue. Pas une bagarre : un désaccord, et quelqu’un l’a « gagné ». Le conseil du [chiffre 5](/fr/bibliotheque/numerologie/chiffre-5/) est d’éviter les conflits inutiles et d’être honnête avec soi-même ; son revers, c’est le déni. Les deux sont sur la carte : l’homme qui ramasse les épées ne se demande pas si ce combat valait la peine. Le cinquième stade d’Instagram, c’était Facebook qui débarque pour le racheter : l’épreuve venue de l’extérieur, celle où l’on découvre ce qui tient.
+Le cinq, c’est le nombre de la bataille : essayer, ne pas avoir peur d’échouer ni de déplaire, et faire avec ce qui reste après. Dans mes notes, le Cinq d’Épées est un conflit d’Air — un conflit de décisions, entre des gens qui n’ont pas le même point de vue. Pas une bagarre : un désaccord, et quelqu’un l’a « gagné ». Le conseil du [chiffre 5](/fr/bibliotheque/numerologie/chiffre-5/) est d’éviter les conflits inutiles et d’être honnête avec soi-même ; le danger qui le guette, c’est le déni. Les deux sont sur la carte : l’homme qui ramasse les épées ne se demande pas si ce combat valait la peine. Le cinquième stade d’Instagram, c’était Facebook qui débarque pour le racheter : l’épreuve venue de l’extérieur, celle où l’on découvre ce qui tient.
 
 ## Par l’élément : Air {#element}
 
@@ -61,7 +57,7 @@ Le ciel, c’est la première chose qu’on voit : un bleu pâle coupé de nuage
 
 ## Par l’astrologie : Vénus en Verseau {#astrologie}
 
-Dans la tradition Golden Dawn, le Cinq d’Épées correspond à Vénus dans le premier décan du Verseau. [Vénus](/fr/bibliotheque/astrologie/venus/), c’est ce que vous aimez et la façon dont vous vous liez ; le Verseau est le signe des idées, du « je sais », que j’entends comme « je crois savoir ». Ensemble : des liens sacrifiés à une idée, tenir davantage à avoir raison qu’aux personnes face à qui l’on a raison. C’est une clé facultative, mais sur cette carte elle tombe juste.
+Vénus, dans le premier décan du Verseau : c’est l’attribution que la Golden Dawn a donnée au Cinq d’Épées. [Vénus](/fr/bibliotheque/astrologie/venus/), c’est ce que vous aimez et la façon dont vous vous liez ; le Verseau est le signe des idées, du « je sais », que j’entends comme « je crois savoir ». Ensemble : des liens sacrifiés à une idée, tenir davantage à avoir raison qu’aux personnes face à qui l’on a raison. On peut lire la carte sans elle ; ici, pourtant, elle éclaire bien ce vainqueur resté seul.
 
 ## En lecture {#lecture}
 
@@ -79,6 +75,6 @@ Renversé, le conflit s’étire dans la tête, chaque réplique répétée bien
 
 Pour vous exercer, imaginez une personne qui a tiré le Cinq d’Épées et le [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/). Cinq puis trois : un conflit, puis un rythme qui fonctionne. L’Air puis la Terre : une dispute sur des décisions, puis quelque chose qu’on construit ensemble. Un ciel gris déchiré, puis un artisan au travail dans une église, deux autres à côté avec un plan.
 
-Vous pourriez dire : « Vous avez gagné une dispute récemment, peut-être au travail, et vous allez bientôt avoir besoin des personnes avec qui vous n’étiez pas d’accord. »
+Le vainqueur solitaire et le chantier à trois se rejoignent dans cette phrase : « Vous avez gagné une dispute récemment, peut-être au travail, et vous allez bientôt avoir besoin des personnes avec qui vous n’étiez pas d’accord. »
 
-Puis vérifiez : « Y a-t-il eu un désaccord récemment où vous avez eu gain de cause ? » Si oui, demandez où en sont les choses avec les autres. Si non, c’est un raté : notez-le, et n’allez pas chercher un autre conflit pour que ça colle. Pour aller plus loin sur la lecture de deux cartes côte à côte, voyez [comment lire une paire de cartes](/fr/blog/association-carte-tarot/).
+Puis vérifiez : « Y a-t-il eu un désaccord récemment où vous avez eu gain de cause ? » Si oui, demandez où en sont les choses avec les autres. Sans désaccord récent, la paire n’a rien touché ; inutile d’aller fouiller pour trouver une dispute qui la ferait coller. Pour aller plus loin sur la lecture de deux cartes côte à côte, voyez [comment lire une paire de cartes](/fr/blog/association-carte-tarot/).

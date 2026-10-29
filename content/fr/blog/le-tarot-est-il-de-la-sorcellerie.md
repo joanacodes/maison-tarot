@@ -9,7 +9,7 @@ tags: ["le tarot est-il de la sorcellerie", "tarot et sorcellerie", "WitchTok", 
 image: "covers/is-tarot-witchcraft.jpg"
 imageAlt: "Un jeu de cartes tout simple sur une table blanche, sans bougie ni cristal"
 imagePrompt: "A plain tarot deck squared neatly on a bare white table, nothing else in the frame. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Non. Le tarot, c’est un jeu de 78 images et une façon de les lire ; la sorcellerie, c’est un ensemble de pratiques et, pour beaucoup, un système de croyances. Les deux se croisent dans les boutiques, sur TikTok et dans l’imaginaire, pas sur le fond. Vous pouvez tirer les cartes toute votre vie sans jeter le moindre sort, et c’est le cas de la plupart des tarologues."
+summary: "Non. Le tarot, ce sont 78 cartes illustrées et l’art de les lire ; la sorcellerie, c’est un ensemble de pratiques et, pour beaucoup, un système de croyances. Les deux se croisent dans les boutiques, sur TikTok et dans l’imaginaire, pas sur le fond. Vous pouvez tirer les cartes toute votre vie sans jeter le moindre sort, et c’est le cas de la plupart des tarologues."
 ---
 Tapez « tarot » dans une recherche, et l’algorithme vous montrera des bougies en moins d’une minute. Non pas parce que le tarot est de la sorcellerie, mais parce que le même public achète les deux et que les mêmes comptes les vendent. Le mélange est commercial, pas historique. Démêlons-le : il décourage des gens qui feraient de très bons lecteurs.
 
@@ -35,7 +35,7 @@ Le second, pour les croyants. Quelqu’un dont la religion interdit la sorceller
 
 ## Ce que j’ai gardé, et ce que j’ai laissé {#garde-et-laisse}
 
-Je serai honnête sur mon parcours. En 2021, je vendais de la sauge, des bougies et des cartes « canalisées ». C’était l’esthétique du moment et j’étais dedans. J’ai arrêté, non parce que j’aurais décidé que la sorcellerie était une mauvaise chose — ce n’est pas à moi d’en juger —, mais parce que rien de tout ça n’améliorait une lecture, et que je m’étais mise à compter. Le carnet ne savait pas que le jeu avait été purifié. La personne en face non plus.
+Je serai honnête sur mon parcours. En 2021, j’étais moi-même du côté des vendeurs : sauge, bougies, et même des cartes « canalisées ». C’était l’esthétique du moment et j’étais dedans. J’ai arrêté, non parce que j’aurais décidé que la sorcellerie était une mauvaise chose — ce n’est pas à moi d’en juger —, mais parce que rien de tout ça n’améliorait une lecture, et que je m’étais mise à compter. Le carnet ne savait pas que le jeu avait été purifié. La personne en face non plus.
 
 Ce que j’ai gardé, c’est la partie qui se vérifie : les images, l’attention, l’honnêteté sur les ratés. Si ça fait de moi une sorcière, le mot n’a plus de sens. Si ça fait de moi une lectrice, c’est le mot que j’emploie.
 

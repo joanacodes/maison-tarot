@@ -14,8 +14,8 @@ tags:
 - Wheel of Fortune
 h1: Ten — the <em>transition</em>, breathing
 lede: 'Ten is the end of the cycle and the start of the next at the same time: freedom,
-  change, travel, breathing. From the outside you might look beaten, down. In reality
-  the butterfly is already far away, out of its chrysalis.'
+  change, travel, breathing. What looks like a fall from outside is often
+  a change of skin that has already happened.'
 related:
 - /library/numerology/number-9
 - /library/tarot-cards/wheel-of-fortune
@@ -59,7 +59,7 @@ gallery:
 ---
 ## What 10 says {#definition}
 
-**10 is transition.** Freedom, change, travel, breathing. Ten — or 0 — is the transition: what was is finishing, what comes has no name yet. In the [cycle of numbers](/library/numerology/) it comes after 9 and prepares 1.
+**10 is transition.** Freedom, change, travel, breathing. Ten — or 0 — is the transition: what was is finishing, what comes has no name yet. It closes [the whole cycle](/library/numerology/) that 9 brought near its end, and opens onto the next 1.
 
 ## The advice of 10 {#advice}
 
@@ -81,6 +81,6 @@ Instagram gradually changes its designs; people no longer recognise the platform
 
 ## In a reading {#reading}
 
-A 10 in a spread says: **a page is turning.** The Ten of Cups closes the cycle in joy, the Ten of Pentacles hands it on, the Ten of Wands carries it to the end, bent double, the Ten of Swords finishes it on the ground — the worst image in the deck, and yet there's dawn at the back. The Wheel of Fortune is the 10 that turns: nothing stays up, nothing stays down.
+Lay down a 10 and **a page is turning.** The Ten of Cups closes the cycle in joy, the Ten of Pentacles hands it on, the Ten of Wands carries it to the end, bent double, the Ten of Swords finishes it on the ground — the worst image in the deck, and yet there's dawn at the back. The Wheel of Fortune is the 10 that turns: nothing stays up, nothing stays down.
 
 {{% six %}}

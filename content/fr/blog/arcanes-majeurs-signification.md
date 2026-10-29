@@ -21,7 +21,7 @@ Leurs numéros racontent une histoire, et il est utile d’en connaître la form
 
 Cet arc permet de garder les 22 lames en tête comme une seule histoire plutôt que comme 22 faits isolés. Un tirage ne les sort jamais dans l’ordre : ne prenez donc pas cet arc pour un calendrier.
 
-**Chaque lame a un plus et un moins, et les clés de lecture vous montrent les deux.** Dans mes notes, le Jugement n’est ni bon ni mauvais, et la Mort n’est pas forcément mauvaise non plus : même le dessin le plus sombre a son plus.
+**Chaque lame a deux faces, l’une qui porte et l’autre qui pèse, et vos clés de lecture vous les montrent toutes les deux.** Dans mes notes, le Jugement n’est ni bon ni mauvais, et la Mort n’est pas forcément mauvaise non plus : même le dessin le plus sombre a son plus.
 
 ## Les 22 lames par leurs clés de lecture {#cles-de-lecture}
 
@@ -29,7 +29,7 @@ Je lis chaque majeur avec les mêmes clés que le reste du jeu. Les deux premiè
 
 1. Le nombre. Les lames 0 à 10 se placent directement sur le [cycle des nombres](/fr/bibliotheque/numerologie/), du départ (1) au couloir entre deux pièces (10). De 11 à 21, on additionne les chiffres : 13 donne 1 + 3 = 4, 18 donne 9. La lame joue alors son nombre sur une scène plus grande.
 2. L’élément. Chaque majeur a le Feu, l’Eau, l’Air ou la Terre — les mêmes [quatre éléments](/fr/bibliotheque/quatre-elements/) que les familles des mineurs. Le Feu agit, l’Eau ressent, l’Air pense et tranche, la Terre construit et garde.
-3. L’astrologie. À la fin du XIXe siècle, la Golden Dawn a donné à chaque majeur un signe, une planète ou un élément ; les astrologues modernes ont ajouté plus tard Uranus, Neptune et Pluton. L’[astrologie](/fr/bibliotheque/astrologie/) est une clé en plus : gardez-la si elle vous parle.
+3. L’astrologie. À la fin du XIXe siècle, la Golden Dawn a donné à chaque majeur un signe, une planète ou un élément ; les astrologues modernes ont ajouté plus tard Uranus, Neptune et Pluton. L’[astrologie](/fr/bibliotheque/astrologie/) est une clé en plus, à prendre ou à laisser selon ce qu’elle vous apporte.
 4. L’énergie. [Féminin et masculin](/fr/bibliotheque/energies-feminine-masculine/feminin-masculin/), ici, ne parlent pas des femmes et des hommes. Le féminin garde, attend, imagine, travaille en coulisses ; le masculin agit, se montre, construit, décide vite. Chacun de nous porte les deux.
 
 Ensuite, regardez le dessin. Pamela Colman Smith a donné une scène à chaque lame en 1909, et la page de chaque lame la lit avec vous.
@@ -55,7 +55,7 @@ Ensuite, regardez le dessin. Pamela Colman Smith a donné une scène à chaque l
 | [La Tour](/fr/bibliotheque/cartes-tarot/la-tour/) | 16 → 7 | Feu | Mars | Masculine | ce qui était bâti sur une fissure s’effondre |
 | [L’Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/) | 17 → 8 | Air | Verseau | Féminine | l’espoir après la tempête |
 | [La Lune](/fr/bibliotheque/cartes-tarot/la-lune/) | 18 → 9 | Eau | Poissons | Féminine | ce qu’on sent sans le voir |
-| [Le Soleil](/fr/bibliotheque/cartes-tarot/le-soleil/) | 19 → 10 → 1 | Feu | Soleil | Masculine | une joie qu’on peut montrer |
+| [Le Soleil](/fr/bibliotheque/cartes-tarot/le-soleil/) | 19 → 10 → 1 | Feu | Soleil | Masculine | la joie au grand jour |
 | [Le Jugement](/fr/bibliotheque/cartes-tarot/le-jugement/) | 20 → 2 | Feu | Pluton | Masculine | un appel, un second regard |
 | [Le Monde](/fr/bibliotheque/cartes-tarot/le-monde/) | 21 → 3 | Terre | Saturne | Féminine | un cycle accompli |
 
@@ -63,31 +63,31 @@ Ces correspondances sont un système construit au fil du temps, pas des vérité
 
 Je lis le Rider-Waite-Smith. Si vous venez du tarot de Marseille, sept noms changent : le Bateleur devient le Magicien, la Papesse la Grande Prêtresse, le Pape le Hiérophante, l’Amoureux les Amoureux, l’Hermite l’Ermite, la Maison Dieu la Tour, et la lame XIII, l’arcane sans nom, s’appelle ici la Mort.
 
-Imaginons que vous tiriez Tempérance sans rien savoir d’elle. Quatorze donne 1 + 4 = 5 : l’épreuve, faire avec ce qui reste. Le Feu : l’énergie, l’élan. Le Sagittaire : « je vois, j’essaie ». Le féminin : la patience, savoir tenir. À voix haute : « Quelque chose vous met à l’épreuve, et la sortie passe par la patience avec votre propre feu — essayer, ajuster, essayer encore. » Puis regardez le dessin, un ange qui verse d’une coupe dans l’autre, et voyez s’il est d’accord.
+Imaginons que vous tiriez Tempérance sans rien savoir d’elle. Quatorze donne 1 + 4 = 5 : l’épreuve, faire avec ce qui reste. Le Feu : l’énergie, l’élan. Le Sagittaire : « je vois, j’essaie ». Le féminin : la patience, savoir tenir. Mis bout à bout : « Quelque chose vous met à l’épreuve, et la sortie passe par la patience avec votre propre feu — essayer, ajuster, essayer encore. » Puis regardez le dessin, un ange qui verse d’une coupe dans l’autre, et voyez s’il est d’accord.
 
 ## Les apprendre par familles, pas une par une {#familles}
 
 Une fois les nombres réduits, les 22 majeurs se rangent en dix familles. Apprenez une famille et vous avez appris deux ou trois lames d’un coup : elles partagent une étape du cycle, et chacune la joue à sa façon.
 
-Une précaution avant de commencer. Au tarot de Marseille, la Force porte le 11 et la Justice le 8 ; la Golden Dawn les a inversées et Waite a suivi. Avec un Marseille, la Force rejoint donc les 2 et la Justice les 8. Réduisez le numéro imprimé sur vos propres cartes, pas celui d’un livre.
+Une précaution avant de commencer : le 8 et le 11 ne désignent pas les mêmes lames partout. Sur un Marseille, c’est la Justice qui est numérotée 8, et la Force 11 ; la Golden Dawn a permuté les deux, et Waite l’a suivie. Avec un Marseille, la Force rejoint donc les 2 et la Justice les 8. Réduisez le numéro imprimé sur vos propres cartes, pas celui d’un livre.
 
 {{< cards "ar01 ar10 ar19 ar02 ar11 ar20" >}}
 
 ### 1 : le Magicien, la Roue de Fortune, le Soleil {#les-un}
 
-Un, c’est l’initiateur, le diamant brut du début de cycle. Le Magicien a tous ses outils sur la table. La Roue, dans mes notes, dit que c’est à vous de la tourner : la chance, ça se provoque. Le Soleil fait 19, 10, puis 1 : il ferme un cycle en pleine lumière et ouvre le suivant. Leur moins commun est celui du 1 : le manque d’humilité, alors que nous restons élèves toute notre vie.
+Un, c’est l’initiateur, le diamant brut du début de cycle. Le Magicien a tous ses outils sur la table. La Roue, dans mes notes, ne tourne que si vous la poussez : la chance se fabrique. Le Soleil fait 19, 10, puis 1 : il ferme un cycle en pleine lumière et ouvre le suivant. Leur moins commun est celui du 1 : le manque d’humilité, alors que nous restons élèves toute notre vie.
 
 ### 2 : la Grande Prêtresse, la Justice, le Jugement {#les-deux}
 
-Deux, c’est le lien, le contrat, peser le pour et le contre. La Grande Prêtresse et la Justice siègent toutes deux entre deux piliers : l’une garde ce qu’elle sait, l’autre le pèse. Le Jugement est un nouvel accord avec votre propre passé. Leur moins est celui du 2 : l’entêtement, et le mental qui prend toute la place.
+Deux, c’est l’accord entre deux parties : on relit les clauses, on compare les arguments, puis on signe. La Grande Prêtresse et la Justice siègent toutes deux entre deux piliers : l’une garde ce qu’elle sait, l’autre le pèse. Le Jugement est un nouvel accord avec votre propre passé. Leur moins est celui du 2 : l’entêtement, et le mental qui prend toute la place.
 
 ### 3 : l’Impératrice, le Pendu, le Monde {#les-trois}
 
-Trois, c’est la machine qui tourne bien, le projet qui marche. L’Impératrice nourrit et fait pousser ; le Pendu suspend le rythme pour mieux repartir ; le Monde, dans mes notes, c’est l’action menée par l’ensemble, les deux mains au travail. Le conseil du 3 va aux trois : terminez un projet avant d’en commencer un autre.
+Trois, c’est la machine qui tourne bien, le projet qui marche. L’Impératrice fait croître tout ce qu’elle nourrit ; le Pendu suspend le rythme pour mieux repartir ; le Monde, dans mes notes, c’est l’action menée par l’ensemble, les deux mains au travail. Le conseil du 3 va aux trois : terminez un projet avant d’en commencer un autre.
 
 ### 4 : l’Empereur et la Mort {#les-quatre}
 
-Quatre, c’est la structure, la maison debout, le fruit du travail. L’Empereur la bâtit et donne les ordres — et, dans mes notes, il peut aussi tout détruire, comme le feu. La Mort répond au moins du 4, continuer alors qu’il faudrait s’arrêter : c’est la récolte, on coupe ce qui est mûr pour pouvoir ressemer le champ.
+Quatre, c’est la structure, la maison debout, le fruit du travail. L’Empereur la bâtit et donne les ordres — et, dans mes notes, il peut aussi tout détruire, comme le feu. La Mort répond au moins du 4, continuer alors qu’il faudrait s’arrêter : c’est la moisson, qui fauche ce qui a mûri et rend le champ aux semailles suivantes.
 
 ### 5 : le Hiérophante et Tempérance {#les-cinq}
 
@@ -95,7 +95,7 @@ Cinq, c’est l’épreuve : essayer, faire avec, ne pas avoir peur d’échouer
 
 ### 6 : les Amoureux et le Diable {#les-six}
 
-Six, c’est l’harmonie et la réussite, la machine lancée à pleine vitesse. Le Diable est dessiné en écho aux Amoureux : deux personnages sous une figure plus grande. D’un côté, un choix fait les yeux ouverts ; de l’autre, un choix qui a durci en attachement, avec des chaînes assez lâches pour qu’on les retire.
+Six, c’est l’harmonie et la réussite, la machine lancée à pleine vitesse. Le Diable est dessiné en écho aux Amoureux : deux personnages sous une figure plus grande. D’un côté, un choix fait les yeux ouverts ; de l’autre, un choix qui a durci en attachement — des chaînes, oui, mais si peu serrées qu’on peut s’en défaire.
 
 ### 7 : le Chariot et la Tour {#les-sept}
 
@@ -111,11 +111,11 @@ Neuf, c’est la ligne d’arrivée d’une étape : l’introspection, la patie
 
 ### 0 : le Mat {#le-zero}
 
-Il se tient hors du compte — au tarot de Marseille, il ne porte même pas de numéro —, ou au 10 qui ouvre le cycle suivant : le couloir entre deux pièces. Dans mes notes, le baluchon au bout de son bâton veut dire qu’il peut s’installer n’importe où, libre de ses décisions. Son moins, c’est la naïveté — il part la fleur au fusil —, et le petit chien à ses pieds essaie de le lui rappeler.
+Il se tient hors du compte — au tarot de Marseille, il ne porte même pas de numéro —, ou au 10 qui ouvre le cycle suivant : le couloir entre deux pièces. Dans mes notes, le baluchon au bout de son bâton veut dire qu’il peut s’installer n’importe où, libre de ses décisions. Son moins, c’est la naïveté — il part la fleur au fusil —, et c’est justement ce que le chien, tout contre lui, cherche à lui signaler.
 
 ### Par élément {#par-element}
 
-Les éléments offrent une deuxième façon de les ranger. Le Feu compte sept majeurs — l’Empereur, la Force, la Roue, Tempérance, la Tour, le Soleil et le Jugement : la création et la destruction, l’énergie qui met les choses en mouvement et se propage vite quand personne ne la maîtrise. L’Eau en compte cinq — la Grande Prêtresse, le Chariot, le Pendu, la Mort et la Lune : les lames lentes, où les choses s’infiltrent plutôt qu’elles ne frappent. L’Air en compte cinq — le Mat, le Magicien, les Amoureux, la Justice et l’Étoile : les décisions et les mots, une tête qui peut trancher net ou tourner en rond. La Terre en compte cinq — l’Impératrice, le Hiérophante, l’Ermite, le Diable et le Monde : la matière, l’endurance, et l’entêtement aussi. Dans mes notes, toutes les richesses ne sont pas en or.
+Les éléments offrent une deuxième façon de les ranger. Le Feu compte sept majeurs — l’Empereur, la Force, la Roue, Tempérance, la Tour, le Soleil et le Jugement : la création et la destruction, l’énergie qui met les choses en mouvement et se propage vite quand personne ne la maîtrise. L’Eau en compte cinq — la Grande Prêtresse, le Chariot, le Pendu, la Mort et la Lune : les lames lentes, où les choses s’infiltrent plutôt qu’elles ne frappent. L’Air en compte cinq — le Mat, le Magicien, les Amoureux, la Justice et l’Étoile : les décisions et les mots, une tête qui peut trancher net ou tourner en rond. La Terre en compte cinq — l’Impératrice, le Hiérophante, l’Ermite, le Diable et le Monde : la matière, l’endurance, et l’entêtement aussi, avec une richesse qui ne se compte pas toujours en euros.
 
 Ce tri par élément sert dans un tirage. Plusieurs majeurs de Feu ensemble, et quelque chose va vite, peut-être plus vite que prévu ; plusieurs majeurs d’Eau, et la situation se ressent plus qu’elle ne se décide.
 
@@ -123,7 +123,7 @@ Ce tri par élément sert dans un tirage. Plusieurs majeurs de Feu ensemble, et 
 
 Pas par une liste de 22 lames à apprendre par cœur. Voici l’ordre que je vous suggère.
 
-1. Tirez un majeur par jour. Avant de lire quoi que ce soit, décrivez ce qu’il y a dessus, ce que vous voyez et ce que vous recevez. C’est l’exercice que je donne aux débutants : vous lisez avant que quiconque vous ait dit quoi penser.
+1. Tirez un majeur par jour. Avant de lire quoi que ce soit, mettez des mots sur le dessin, puis sur ce que vous y remarquez et sur l’impression qu’il vous laisse. C’est l’exercice que je donne aux débutants : vous lisez avant que quiconque vous ait dit quoi penser.
 2. Dites ses quatre clés à voix haute, puis ouvrez la page de la lame et vérifiez.
 3. Une fois par semaine, sortez une famille du jeu et posez ses lames côte à côte. Dites ce qui change d’une lame à l’autre. En dix semaines, vous aurez rencontré les 22.
 4. Quand les lames seules vous sont familières, tirez-en trois à la fois, puis davantage.

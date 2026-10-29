@@ -25,25 +25,25 @@ Dans le tarot et tout autour, un don désigne une capacité avec laquelle on na�
 
 Je ne crois pas que ce soit le cas. Ce qu’on appelle un don, ce sont des impressions — une image, un mot, une sensation — et tout le monde en reçoit. Certains sont plus aiguisés sur un canal que sur un autre — ils voient plus vite, ou entendent, ou ressentent — mais personne n’est privé de tous les canaux.
 
-Lire tient davantage de l’art que du sixième sens. Certains ont plus de facilités, et tout le monde y arrive en pratiquant. Quand j’ai fait essayer mes amis et ma famille, chacun a réussi à lire au premier, au deuxième ou au troisième essai. Si vous vous demandez s’il faut un don pour commencer, j’y ai répondu à part, [avec un test de dix minutes](/fr/blog/faut-il-un-don-pour-lire-les-cartes/).
+Lire tient davantage de l’art que du sixième sens. Certains ont plus de facilités, et tout le monde y arrive en pratiquant. Quand mes proches ont pris le jeu en main pour essayer, il ne leur a jamais fallu plus de trois tentatives pour lire. Si vous vous demandez s’il faut un don pour commencer, j’y ai répondu à part, [avec un test de dix minutes](/fr/blog/faut-il-un-don-pour-lire-les-cartes/).
 
 ## Ce que j’ai vraiment arrêté de faire {#vouloir-avoir-raison}
 
 Je n’ai rien acquis. J’ai arrêté quelque chose : vouloir avoir raison.
 
-Vouloir avoir raison, c’est ce qui aplatit une lecture. Imaginons que vous tiriez le Six de Coupes, une carte d’enfance et de temps pris pour soi, et que le mot « sœur » vous vienne. La partie de vous qui veut avoir raison s’inquiète. Trop précis. Et si la personne en face n’a pas de sœur ? Alors vous arrondissez en « famille » : prudent, vrai pour tout le monde, et inutile.
+Vouloir avoir raison, c’est ce qui aplatit une lecture. Imaginons que vous tiriez le Six de Coupes, une carte d’enfance et de temps pris pour soi, et que le mot « sœur » vous vienne. Votre envie d’avoir raison prend peur. Trop précis. Et si la personne en face n’a pas de sœur ? Alors vous arrondissez en « famille » : prudent, vrai pour tout le monde, et inutile.
 
 {{< cards "cu06" >}}
 
 La personne qu’on dit douée est souvent celle qui a dit « sœur » quand même. Tout est là : faire confiance à ce qui vient, ne pas se prendre trop au sérieux, et laisser arriver les messages sans les faire d’abord passer au contrôle de sécurité.
 
-**Dire le détail bizarre, c’est accepter de se tromper parfois.** Environ une lecture sur dix rate, à mon décompte, et je le dis quand ça arrive. Si vous craignez d’inventer ce qui vous vient, il existe un moyen d’en avoir le cœur net : [comment savoir si vous inventez](/fr/blog/est-ce-que-jinvente-tarot/).
+**Dire le détail bizarre, c’est accepter de se tromper parfois.** Sur dix lectures, il y en a environ une qui rate, d’après mes comptes, et je le dis quand ça arrive. Si vous craignez d’inventer ce qui vous vient, il existe un moyen d’en avoir le cœur net : [comment savoir si vous inventez](/fr/blog/est-ce-que-jinvente-tarot/).
 
 Ma propre première lecture m’avait surprise de la même façon. Je pensais qu’il me faudrait d’abord une formation ; ça fait partie de [ce que je croyais du tarot en 2020 et que je vois autrement](/fr/blog/ce-que-je-croyais-du-tarot/).
 
 ## Pourquoi je préfère que vous ne croyiez pas à mon don {#rendre-le-don}
 
-À cause de ce que le mot fait ensuite. Si j’ai quelque chose que vous n’avez pas, mes mots se mettent à peser plus lourd que les vôtres, sur votre propre vie. Une lecture sert à réfléchir, pas à recevoir des consignes. Vous agissez selon ce que vous ressentez, pas selon ce qu’une personne spéciale vous a dit ; c’est pour ça que je tiens à ce que [le tarot ne soit pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
+À cause de ce que le mot fait ensuite. Si j’ai quelque chose que vous n’avez pas, mes mots se mettent à peser plus lourd que les vôtres, sur votre propre vie. Une lecture sert à réfléchir, pas à recevoir des consignes. Vos décisions suivent votre propre ressenti, pas la parole d’une personne réputée spéciale ; c’est pour ça que je tiens à ce que [le tarot ne soit pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
 
 Le mot rend aussi la tarologue difficile à quitter. Si le don n’appartient qu’à elle, vous avez besoin d’elle à chaque question, et le tarot ne devrait jamais devenir un cercle vicieux de dépendance, ni pour vous ni pour la personne qui lit. Je vends des cours, jamais de lectures. Un don ne s’enseignerait pas ; ceci s’enseigne.
 
@@ -58,6 +58,6 @@ Si vous avez déjà dit à quelqu’un qu’il avait un don, vous n’aviez pas 
 3. Dites ce que vous voyez avec des mots de tous les jours, détails bizarres compris, sans chercher à avoir raison.
 4. Laissez la personne vous dire si ça tenait, et notez-le dans tous les cas.
 
-Le moment qui m’a donné envie d’enseigner, c’est celui où quelqu’un fait exactement ça, dit une chose juste, et reste saisi par ce qu’il vient de dire. Je peux vous décrire ce moment, mais ça ne vous avancera pas beaucoup.
+Le moment qui m’a donné envie d’enseigner, c’est celui où quelqu’un fait exactement ça, tombe juste, et reste bouche bée devant sa propre phrase. Je peux vous décrire ce moment, mais ça ne vous avancera pas beaucoup.
 
 [Le parcours pour apprendre](/fr/apprendre-le-tarot/) est gratuit et commence par cette première carte. Si vous préférez vous faire tirer les cartes avant de les tirer vous-même, les [événements gratuits](/fr/evenements/) tirent les lectures au sort.

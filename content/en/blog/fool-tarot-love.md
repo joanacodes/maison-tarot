@@ -9,7 +9,7 @@ tags: ["Fool tarot love", "Fool tarot meaning", "Fool reversed love", "tarot lov
 image: "covers/fool-tarot-love.jpg"
 imageAlt: "The Fool tarot card lying face up on a plain wooden table"
 imagePrompt: "The Fool card from the 1909 Rider-Waite-Smith deck lying upright on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, the card in its original colours, warm natural colours around it that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "In love, the Fool is a beginning that nothing justifies yet: a crush, a first date, a relationship started on enthusiasm, a leap after a break-up. It’s a free, light, open card with one condition: look where you put your feet. The young man walks towards a cliff edge without looking down, and the little dog at his heels is trying to remind him. The Fool doesn’t say whether a new person is right for you or whether it will last; it shows how you’re walking into it, and asks whether you know you’re at the edge."
+summary: "In love, the Fool is a beginning that nothing justifies yet: a crush, a first date, a relationship started on enthusiasm, a leap after a break-up. It’s a free, light, open card with one condition: look where you put your feet. The young man walks towards a cliff edge without looking down, and the little dog jumping at his heels seems to be warning him. The Fool doesn’t say whether a new person is right for you or whether it will last; it shows how you’re walking into it, and asks whether you know you’re at the edge."
 ---
 In love, the Fool is a beginning that nothing justifies yet: a crush, a first date, a relationship started on enthusiasm alone. It’s a lovely card — free, light, open — with one condition: look where you put your feet. The little dog on the card is there to remind him, and you.
 
@@ -17,15 +17,15 @@ In love, the Fool is a beginning that nothing justifies yet: a crush, a first da
 
 ## Zero, Air, and a dog at his heels {#zero-and-air}
 
-The Fool is zero: the breath before the cycle, the page before the first word. In love, that’s the moment before anything has a name — before “seeing someone”, before “together”. Zero has no fixed place, either. You can put the Fool at the very start, innocence setting out, or at the very end, someone who has been through everything and comes back light. A first relationship and a new one after many can both draw this card; the second kind knows where the cliff is and walks there on purpose.
+The Fool is zero: the breath before the cycle, the page before the first word. In love, that’s the moment before anything has a name — before “seeing someone”, before “together”. Zero has no fixed place, either. He can stand at the very beginning, innocence heading out the door, or at the very end: someone who has lived it all and returns lighter. A first relationship and a new one after many can both draw this card; the second kind knows where the cliff is and walks there on purpose.
 
 His element is Air, the mind: a relationship that lives mostly in your head for now, all ideas and no weight. His energy is masculine — going, showing yourself, acting first.
 
-My note on him has two halves. The plus: the stick and bundle — he’s free in his decisions and can make a life anywhere. The minus: he’s naive, and [the dog at his feet](/library/tarot-symbols/dog/) is trying to remind him. The colours and Uranus are on [the Fool’s card page](/library/tarot-cards/the-fool/).
+My note on him has two halves. The plus: the stick and bundle — he’s free in his decisions and can make a life anywhere. The minus: he’s naive, and [the dog at his feet](/library/tarot-symbols/dog/) keeps trying to warn him. The colours and Uranus are on [the Fool’s card page](/library/tarot-cards/the-fool/).
 
 ## The crush, the leap, the clean slate {#crush-leap-slate}
 
-If you’re single, the Fool is the crush, the dating app downloaded on a whim, the trip where you meet someone. It says go — and keep your eyes open. One piece of advice from my own notes: if you have a crush, don’t look up their birth chart. A chart read in secret gives you a story about someone before they’ve had a chance to tell you theirs; I explain why in [the article on reading someone’s chart without asking](/blog/birth-chart-without-permission/).
+If you’re single, the Fool is the crush, the dating app downloaded on a whim, the trip where you meet someone. It says go — and keep your eyes open. My notes have a rule for this: with a crush, leave their birth chart alone. A chart read in secret gives you a story about someone before they’ve had a chance to tell you theirs; I explain why in [the article on reading someone’s chart without asking](/blog/birth-chart-without-permission/).
 
 If you’re together, the Fool brings fresh air into something settled: a spontaneous trip, a new project together, a decision taken on the spot — moving in, moving country. It can be wonderful. The dog’s question is whether both of you are jumping, or one is jumping and the other being pulled along. Say a couple draws it the week one of them gets an offer abroad. The card doesn’t say go or stay. It asks whether the leap has been talked about by two people, or announced by one.
 
@@ -57,4 +57,4 @@ Reversed, the Fool is the beginning that doesn’t start, or starts without look
 
 ## Your first step, with other people around {#first-step}
 
-New beginnings are a good moment to learn, in love and in tarot. Every person I’ve helped to read managed it on the first to third try; nobody needed a gift, only the willingness to say what came. If you’d like to draw your first cards with other people around — no question to ask, nothing to prepare — that’s what [the free events](/events/) are for.
+New beginnings are a good moment to learn, in love and in tarot. Of all the people I’ve helped to read, not one took more than three tries to get there, and none of them needed a gift — only the willingness to say what came. If you’d like to draw your first cards with other people around — no question to ask, nothing to prepare — [the free events](/events/) were made for exactly that.

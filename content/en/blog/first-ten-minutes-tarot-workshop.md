@@ -31,7 +31,7 @@ You don’t need to know the card’s name. You don’t need to have read anythi
 
 ## “But I don’t know anything yet” {#nothing-yet}
 
-That’s the point. Every person I’ve helped to read has managed it on the first to third try. Not because they were special — there are no Chosen Ones — but because reading is mostly letting go, and letting go is easier before you’ve filled your head with rules.
+That’s the point. So far, every beginner I’ve guided has got there by the third attempt or sooner. Not because they were special — there are no Chosen Ones — but because reading is mostly letting go, and letting go is easier before you’ve filled your head with rules.
 
 Two things can happen, and both are fine.
 
@@ -57,6 +57,6 @@ You’ll need a Rider-Waite-Smith deck; if you don’t have one, say so when you
 
 ## Try the ten minutes tonight {#try-tonight}
 
-If you’d like to feel it at home first, draw one card tonight and do the three steps out loud: what’s on it, what you see, what you receive. [How to read tarot cards for beginners](/blog/how-to-read-tarot-beginners/) gives you the one sentence to say before you start. If you’d rather watch before you try, the [free events](/events/) are where readings happen in front of people.
+If you’d like to feel it at home first, draw one card tonight and take it through the three steps above, aloud. [How to read tarot cards for beginners](/blog/how-to-read-tarot-beginners/) gives you the one sentence to say before you start. If you’d rather watch before you try, the [free events](/events/) are where readings happen in front of people.
 
 When you’re ready for the full three hours, the dates and formats are on the [workshops page](/workshops/). Bring a deck and your curiosity.

@@ -53,9 +53,9 @@ Imaginons que vous vous asseyiez un soir de nouvelle lune et que vous tiriez le 
 
 Les nombres : 5, puis 1, puis 8 — une épreuve, un départ, puis la maîtrise par l’effort. Les éléments : Terre, Feu, Terre — quelque chose de matériel et d’un peu froid, une étincelle de chaleur créatrice, puis retour à l’établi.
 
-Puis les cartes. Le terrain, c’est le Cinq de Pentacles : deux silhouettes qui marchent dans la neige devant un vitrail éclairé. Se sentir laissé dehors, à court de quelque chose, avec de la chaleur tout près que personne n’est allé demander. La graine, c’est l’As de Bâtons : une main sortie d’un nuage tient un bâton qui bourgeonne. Une idée qui a du feu. Le premier pas, c’est le Huit de Pentacles : un artisan à son établi, qui façonne un pentacle après l’autre. La pratique, la répétition, la partie qui ne brille pas.
+Puis les cartes. Le terrain, c’est le Cinq de Pentacles : deux silhouettes qui marchent dans la neige devant un vitrail éclairé. Se sentir laissé dehors, à court de quelque chose, avec de la chaleur tout près que personne n’est allé demander. La graine, c’est l’As de Bâtons : une main sortie d’un nuage tient un bâton qui bourgeonne. Une idée qui a du feu. Le premier pas, c’est le Huit de Pentacles : penché sur l’ouvrage, on façonne un pentacle, puis le suivant. La pratique, la répétition, la partie qui ne brille pas.
 
-La phrase que vous pourriez vous dire : « Je me sens à court — d’argent ou de reconnaissance — et une idée essaie de démarrer. Elle ne viendra pas en attendant devant la porte. Elle viendra en s’asseyant et en faisant le travail, pièce par pièce. »
+Mis en mots pour vous-même : « Je me sens à court — d’argent ou de reconnaissance — et une idée essaie de démarrer. Elle ne viendra pas en attendant devant la porte. Elle viendra en s’asseyant et en faisant le travail, pièce par pièce. »
 
 Et l’intention qui pourrait en sortir : « Deux soirs par semaine dessus jusqu’à la pleine lune, et une pièce terminée montrée à une personne. » Un verbe qui dépend de vous, vérifiable, une seule phrase. Si rien ne correspond à ce que vous vivez, notez-le aussi dans [votre carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) : un raté s’y inscrit comme le reste.
 

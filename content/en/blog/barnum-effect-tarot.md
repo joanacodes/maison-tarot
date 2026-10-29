@@ -25,7 +25,7 @@ It isn’t the same thing as [cold reading](/blog/cold-reading-vs-tarot/). Cold 
 
 Barnum statements share a few features:
 
-- *They’re true of almost every adult.* “You give more than you receive.” “There’s someone you haven’t fully forgiven.”
+- *They’re true of almost every adult.* “You’ve been more patient with others than they’ve been with you.” “There’s a conversation you keep putting off.”
 - *They’re two-sided.* “You can be very sociable, but you need time alone to recharge.” Whichever side you are today, it fits.
 - *They’re mostly flattering.* “You have potential you haven’t fully used yet.” Nobody argues with that.
 - *They point at a feeling, not a fact.* “Part of you is still waiting for something to change.”
@@ -36,7 +36,7 @@ Later research found the effect gets stronger when you believe the description w
 
 Three things in a reading make it fertile ground.
 
-The cards are broad. Every card has a plus and a minus — that’s how I teach them — which means any card can be read in two directions. That breadth is what makes the deck useful, and it’s also what lets a vague sentence slide in.
+The cards are broad. I teach each one with a bright side and a shadow side, which means any card can be read in two directions. That breadth is what makes the deck useful, and it’s also what lets a vague sentence slide in.
 
 Say someone draws the Two of Swords, the Moon and the Five of Cups.
 
@@ -50,7 +50,7 @@ The third is the reader. A reader who sounds sure of themselves lends weight to 
 
 ## Check one: the silence rule {#silence-rule}
 
-The first check happens before I draw a single card. The person tells me nothing — no question, no context, no situation.
+The first check happens before I draw a single card. I start without knowing anything about the person’s life, not even what they want to ask.
 
 This matters for the Barnum effect in a specific way. Vague sentences become convincing when they meet a known story. If you tell me “it’s about my relationship” and I say “there’s something you haven’t said to them yet”, you’ll find the thing — everyone has one. If you’ve told me nothing, I have nothing to tailor the vague sentence to, and the temptation to use one drops.
 
@@ -58,7 +58,7 @@ It also changes how I speak. Without a story to lean on, the only thing I can be
 
 ## Check two: the notebook {#notebook}
 
-The second check happens on paper. I keep a notebook with two columns: what I said, and what was confirmed. I write the sentence as I say it, before the person reacts, and mark it afterwards.
+The second check happens on paper. Each page of my notebook is split down the middle, my sentences on the left and the person’s confirmations on the right. I write the sentence as I say it, before the person reacts, and mark it afterwards.
 
 Next to held and missed, single sentences get a third mark, more often than I’d like: *too vague to score*. A sentence like “you’ve been carrying a lot lately” goes there even if the person says yes, because a yes to a vague sentence isn’t a hit. It’s a Barnum statement doing its job.
 
@@ -78,7 +78,7 @@ In my notes, the Eight of Swords is someone prisoner of themselves while holding
 
 When I catch a vague sentence on its way out of my mouth, I try to push it one step further: not “you feel stuck”, but stuck where, with whom, since when. If nothing more specific comes, I’d rather leave the sentence unsaid.
 
-I ran the same test when I was testing astrology: my own birth chart box by box, a tick if a placement described me in a way I couldn’t have written about anyone else, a cross if it would fit my neighbour, then the charts of family, friends and strangers. Overall, about 30 to 40% held; Saturn, Lilith and Chiron, 75 to 90%. That story is in [I tested my birth chart box by box](/blog/i-tested-my-birth-chart/).
+I used the same test on astrology, starting with my own chart: a placement earned a tick only if it caught something about me that wouldn’t suit another person, and a cross if my neighbour could have claimed it. Then I scored the charts of family, friends and strangers. Taken together, roughly 30 to 40% of placements held; the exceptions, Saturn, Lilith and Chiron, reached 75 to 90%. The full account is in [my own chart, scored placement by placement](/blog/i-tested-my-birth-chart/).
 
 ## What the Barnum effect doesn’t explain {#limits}
 

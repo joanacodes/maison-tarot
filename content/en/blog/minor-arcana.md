@@ -24,7 +24,7 @@ Each suit belongs to one of the four elements, and the element tells you where t
 | Swords | Air | thinking, deciding, communicating | Masculine |
 | Pentacles | Earth | matter, work, money, whatever has value for you | Feminine |
 
-[Fire](/library/four-elements/fire-element/) forges tools, warms and lights the night, and spreads fast when nobody masters it. [Water](/library/four-elements/water-element/) carries you from A to B when you let it, and can drown you; a neglected emotion seeps in slowly, like damp eating a wall. [Air](/library/four-elements/air-element/) has access to everything at once, which makes it the best decision-maker — until it obsesses, or turns into a tyrant. [Earth](/library/four-elements/earth-element/) is tenacity and endurance, and stubbornness too; in my notes, not all riches are gold.
+[Fire](/library/four-elements/fire-element/) forges tools, warms and lights the night, and spreads fast when nobody masters it. [Water](/library/four-elements/water-element/) is a current: go with it and it gets you somewhere, though it can also close over your head; a neglected emotion seeps in slowly, like damp eating a wall. [Air](/library/four-elements/air-element/) has access to everything at once, which makes it the best decision-maker — until it obsesses, or turns into a tyrant. [Earth](/library/four-elements/earth-element/) is tenacity and endurance, and stubbornness too; my notes add that wealth comes in more forms than gold.
 
 **The suit tells you on which plane something happens; the number tells you at which stage.** If you’d like the suits on their own first, I go through them in [tarot suits explained](/blog/tarot-suits-explained/).
 
@@ -51,13 +51,13 @@ A cell is a handle, not a definition. It gives you somewhere to start, and the c
 
 Take one number and read it through the four suits. It’s the fastest way I know to understand both the number and the suits, because only one thing changes at a time.
 
-The Fives are the clearest. Five is conflict, trial, making do with what’s left. In my notes, the figures of the Five of Wands seem to fight, without any coordination. The Five of Cups is, for me, the most negative card of the deck: losing, dark emotion, being alone with your problems. The Five of Swords is an Air conflict, about decisions: not the same point of view. The Five of Pentacles is poverty in the snow, walking past the church where warmth could be found. A fight, a loss, a disagreement, a hard winter. Five’s advice is the same for all four: avoid pointless fights, and be honest with yourself and the situation.
+The Fives are the clearest. Five is conflict, trial, making do with what’s left. In my notes, the figures of the Five of Wands seem to fight, without any coordination. In Cups, the Five is the bleakest card I know: something lost, a dark mood, and nobody to share it with. The Five of Swords is an Air conflict, about decisions: not the same point of view. The Five of Pentacles is poverty in the snow, walking past the church where warmth could be found. A fight, a loss, a disagreement, a hard winter. Five’s advice is the same for all four: avoid pointless fights, and be honest with yourself and the situation.
 
 {{< cards "wa05 cu05 sw05 pe05" >}}
 
-The Eights work the same way. Eight is four raised a level: control, mastery, a gate between the tangible and the intangible. The Eight of Wands is the glass half full or half empty: staves flying or falling, and you decide which. The Eight of Cups moves on from what you’re already doing. The Eight of Swords is a prisoner of herself while she holds every tool, and she can take off the blindfold. The Eight of Pentacles is mastery, and the effort it takes. Across the row, 8 asks one question: what are you really in control of?
+The Eights work the same way. Eight is four raised a level: control, mastery, a doorway joining the material world to the unseen one. The Eight of Wands is the glass half full or half empty: staves flying or falling, and you decide which. The Eight of Cups moves on from what you’re already doing. In the Eight of Swords she is held by nothing but herself, every tool within reach, free to remove the blindfold whenever she chooses. In the Eight of Pentacles, mastery is earned at the workbench. Across the row, 8 asks one question: what are you really in control of?
 
-The Tens close the cycle. Ten is the corridor between two rooms: a transition, freedom, sometimes short-lived. Keep the creative energy without overloading (Wands); happiness and family (Cups); rock bottom with the dawn behind (Swords); complete wealth at home, which will still be there if you leave the cocoon (Pentacles). My note on 10 says it best: from the outside you might look knocked down, while in reality the butterfly is already far away, out of its chrysalis.
+The Tens close the cycle. Ten is the corridor between two rooms: a transition, freedom, sometimes short-lived. Keep the creative energy without overloading (Wands); happiness and family (Cups); rock bottom with the dawn behind (Swords); complete wealth at home, which will still be there if you leave the cocoon (Pentacles). My note on 10 says it best: people looking on may think you’ve been flattened, when the butterfly has long since left its chrysalis and flown.
 
 Every other row reads the same way, and each number has its own page in the Library with its five cards, the major included.
 
@@ -73,7 +73,7 @@ That’s why a spread full of one suit tells you the plane before it tells you a
 
 ## The court cards: Page, Knight, Queen, King {#court-cards}
 
-Each suit has four court cards. The rank says how someone acts; the suit says on what. In the convention I use, each rank also brings an element to its suit — the Page Earth, the Knight Air, the Queen Water, the King Fire — so the Queen of Cups is Water of Water. **A court card can be a person in your life or a state you’re in, and the person in front of you is the one who tells you which.** I go further in [court cards explained](/blog/court-cards-explained/).
+Each suit has four court cards. The rank says how someone acts; the suit says on what. In the convention I use, each rank also brings an element to its suit — the Page Earth, the Knight Air, the Queen Water, the King Fire — so the Queen of Cups is doubly Water. **A court card can be a person in your life or a state you’re in, and the person in front of you is the one who tells you which.** I go further in [court cards explained](/blog/court-cards-explained/).
 
 | Rank | Wands | Cups | Swords | Pentacles |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ Each suit has four court cards. The rank says how someone acts; the suit says on
 
 The [Page](/library/numerology/page/) learns, watches, tries and carries the message. The [Knight](/library/numerology/knight/) leaves: he has learned what was needed, or thinks he has, and you can read each one by his horse, from the one that rears to the only one standing still. The [Queen](/library/numerology/queen/) doesn’t leave and doesn’t command: she holds, mastery from the inside. The [King](/library/numerology/king/) decides, then answers for it. The question to ask every King is: for whom?
 
-The double element explains a lot of the keywords. The King of Swords is Fire of Air: a mind that decides, and decides fast, which is why he makes the call nobody else will. The Knight of Wands is Air of Fire, wind on a flame: the departure before the plan. The Page of Pentacles is Earth of Earth, the most concrete of the sixteen: the student who learns by doing. The Queen of Cups is Water of Water, feeling held inside feeling.
+The double element explains a lot of the keywords. The King of Swords is Fire of Air: a mind that decides, and decides fast, which is why he makes the call nobody else will. The Knight of Wands is Air of Fire, wind on a flame: the departure before the plan. The Page of Pentacles is Earth of Earth, the most concrete of the sixteen: the student who learns by doing. The Queen of Cups, Water of Water, is feeling held inside feeling.
 
 ## Reading a minor card in thirty seconds {#how-to-read}
 

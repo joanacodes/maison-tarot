@@ -53,7 +53,7 @@ A wreath is a ring of leaves or flowers, worn on the head or hung up. Ancient Gr
 
 Unlike a metal crown, a wreath wilts. It belongs to one moment, one victory.
 
-## Where it appears in the deck {#where}
+## Laurel on the World, the rider and the Chariot {#where}
 
 The World is framed by the biggest wreath in the deck: a tall oval of green leaves tied top and bottom with red ribbons, the dancer inside. The cycle is complete.
 
@@ -75,7 +75,7 @@ Leaves crown the Fool’s head too, and flowers crown the child on the Sun: ligh
 
 When a wreath comes up, something has been achieved, or is about to be recognised: an exam passed, a project delivered, a reconciliation sealed. Look at where it sits. On a head, it’s a personal success; around a whole figure, as on the World, it’s a cycle closed.
 
-Lenses: green, in [my colour grid](/library/tarot-colours/green/), is growth and life — the wreath is a victory that’s still alive. Number: the Six of Wands is 6, “3 exalted”: success, triumph, a moment you can rest. [The advice of 6](/library/numerology/number-6/) is to stay calm and humble while the results flow. The World is 21, which comes back to 3: the machine running well.
+Lenses: [green](/library/tarot-colours/green/), in my grid, is growth and life — the wreath is a victory that’s still alive. Number: the Six of Wands is 6, “3 exalted”: success, triumph, a moment you can rest. [Six’s advice](/library/numerology/number-6/) fits too: when results pour in, stay level-headed and modest. The World is 21, which comes back to 3: the machine running well.
 
 Say someone draws the Six of Wands after months of effort. The wreath confirms the win. The next card says what they do with it.
 

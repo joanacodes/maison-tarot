@@ -77,7 +77,7 @@ Tenir sans se figer. Le fixe à son meilleur est la Force : une main douce qui n
 
 ## En lecture {#lecture}
 
-Un tirage dominé par le fixe dit : **ça tient — la question est si c’est une force ou un enfermement.** Une relation qui dure, un projet qui résiste, une personne qu’on ne fera pas bouger. La Mort, fixe elle aussi, rappelle que tenir peut vouloir dire tenir jusqu’au bout d’une transformation. Le mode dit le tempo ; l’[élément](/fr/bibliotheque/quatre-elements/) dit ce qu’on tient.
+Un tirage dominé par le fixe dit : **ça tient — la question est si c’est une force ou un enfermement.** Une relation qui dure, un projet qui résiste, une personne qu’on ne fera pas bouger. La Mort, fixe elle aussi, rappelle que tenir peut vouloir dire tenir jusqu’au bout d’une transformation. Le tempo, c’est le mode qui le donne ; ce qu’on tient, c’est l’[élément](/fr/bibliotheque/quatre-elements/).
 
 ## Les trois modes {#modes}
 

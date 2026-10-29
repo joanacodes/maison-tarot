@@ -60,11 +60,11 @@ gallery:
 ---
 ## Ce que dit le 2 {#definition}
 
-**Le 2, c’est coopération.** Signature de contrat, coopération entre deux parties, se lier. Le 2 est le nombre de l’alliance — et de la prudence qu’elle demande. Dans le [cycle des nombres](/fr/bibliotheque/numerologie/), il vient après le 1 et prépare le 3.
+**Le 2, c’est coopération.** Signature de contrat, coopération entre deux parties, se lier. Le 2 est le nombre de l’alliance — et de la prudence qu’elle demande. Dans [la suite de un à dix](/fr/bibliotheque/numerologie/), il fait le pont entre l’idée du 1, encore seule, et la cadence du 3.
 
 ## Le conseil du 2 {#conseil}
 
-Bien lire le contrat. Peser le pour et le contre. Être stable avant de s’engager : le 2 récompense ceux qui prennent le temps, pas ceux qui signent vite.
+Lire chaque clause avant de signer. Mettre en balance les avantages et les risques. Être stable avant de s’engager : le 2 récompense ceux qui prennent le temps, pas ceux qui signent vite.
 
 ## Un exemple que tout le monde connaît {#exemple}
 
@@ -82,6 +82,6 @@ Systrom et Krieger signent avec des investisseurs. L’idée existe (le 1), et m
 
 ## En lecture {#lecture}
 
-Un 2 dans un tirage dit : **il y a deux parties, et le lien entre elles est la question.** Un couple, un associé, un choix entre deux options tenues à égale distance. Le Deux de Coupes noue, le Deux d’Épées retient, le Deux de Bâtons regarde au loin avant de partir, le Deux de Pentacles jongle. La Grande Prêtresse, elle, garde le lien secret : c’est un 2 qui ne dit pas encore.
+Tiré, un 2 annonce : **il y a deux parties, et le lien entre elles est la question.** Un couple, un associé, un choix entre deux options tenues à égale distance. Le Deux de Coupes noue, le Deux d’Épées retient, le Deux de Bâtons regarde au loin avant de partir, le Deux de Pentacles jongle. La Grande Prêtresse, elle, garde le lien secret : c’est un 2 qui ne dit pas encore.
 
 {{% six %}}

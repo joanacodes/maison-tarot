@@ -47,7 +47,7 @@ The cards that worry people when they repeat are rarely the Sun. They’re these
 
 {{< cards "ar16 ar13 sw10" >}}
 
-The Tower, Death, the Ten of Swords. Seeing one of them three times in a week can feel like a warning. It isn’t one. Death isn’t about dying; in my notes it’s the harvest, the end of something so that something else can be planted. The Tower is a sudden change, often of something that was already cracked. The Ten of Swords is rock bottom — and the sky at the edge of the card is getting lighter. I go through each in [the scariest tarot cards, and why they’re kinder than they look](/blog/scariest-tarot-cards/).
+The Tower, Death, the Ten of Swords. Seeing one of them three times in a week can feel like a warning. It isn’t one. Death isn’t about dying; in my notes it’s the harvest, the end of something so that something else can be planted. The Tower is a sudden change, often of something that was already cracked. The Ten of Swords is rock bottom — and the sky at the edge of the card is getting lighter. I go through each in [what those three heavy cards really carry](/blog/scariest-tarot-cards/).
 
 A heavy card that repeats doesn’t announce a disaster. Read it the way you would read any card: the number, the element, the colours. And if the worry is bigger than the card — you’re reshuffling at night, you can’t settle — put the deck away for a while. The cards will keep.
 

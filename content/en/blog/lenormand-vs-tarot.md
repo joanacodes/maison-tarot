@@ -33,7 +33,7 @@ Spreads are lines of three or five cards, or the Grand Tableau: all 36 cards lai
 
 A tarot deck has 22 major arcana and 56 minor arcana, and in the Rider-Waite-Smith each card is a full scene: figures, colours, a number, an element, a posture. A single card can hold a whole reading, which is why I teach with five lenses instead of a list of meanings.
 
-Take the [Five of Cups](/library/tarot-cards/five-of-cups/). At first glance it's all loss: a figure in a black cloak, three cups spilled. But the drawing also shows two cups still standing behind the grieving figure. Lenormand's Mice would tell you, quickly, that something is being lost. The tarot card shows you how it feels, and what's still there.
+Take the [Five of Cups](/library/tarot-cards/five-of-cups/). At first glance it's all loss: a mourner in black facing three tipped-over cups. Yet behind that bowed back, a second pair has stayed upright. Lenormand's Mice would tell you, quickly, that something is being lost. The tarot card shows you how it feels, and what's still there.
 
 {{< cards "cu05" >}}
 
@@ -52,7 +52,7 @@ The difference shows in the questions each deck answers well. “What's going on
 
 Neither deck is an oracle deck in the modern sense, by the way: both have a fixed structure that every reader shares, which most oracle decks don't. I explain that difference in [tarot vs oracle cards](/blog/tarot-vs-oracle-cards/).
 
-One gentle word about the concrete cards. Lenormand has a Coffin, a Scythe and a Cross, and because the deck feels so literal, it's tempting to ask it whether someone will get better, or whether a court case will go your way. I understand why: it's usually worry, or love. But whichever deck you hold, I don't read on health, death, pregnancy, court cases or money decisions, because a wrong word there does real harm; a doctor or a lawyer is the right person. What a reading can hold is how you're carrying the worry. My [refusals](/disclaimers/#refusals) apply to both decks.
+One gentle word about the concrete cards. Lenormand has a Coffin, a Scythe and a Cross, and because the deck feels so literal, it's tempting to ask it whether someone will get better, or whether a court case will go your way. I understand why: it's usually worry, or love. But whichever deck you hold, questions of health, dying, pregnancy, legal disputes or financial choices stay outside my readings, because one careless sentence on those subjects can hurt; a doctor or a lawyer is the person to ask. A reading can still look at the worry itself, and at how you're bearing it. My [refusals](/disclaimers/#refusals) apply to both decks.
 
 ## Which one to learn first? {#which-first}
 

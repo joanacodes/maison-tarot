@@ -18,8 +18,8 @@ Votre trio, le « big three » des réseaux sociaux, ce sont les signes de votre
 Trois positions de votre thème astral :
 
 - Le signe solaire : le signe où se trouvait le Soleil le jour de votre naissance. C’est celui des horoscopes.
-- Le signe lunaire : le signe où se trouvait la Lune à votre naissance. La Lune change de signe tous les deux jours et demi : votre date de naissance suffit en général, votre heure permet d’en être sûr.
-- L’ascendant : le signe qui se levait à l’horizon, côté est, à la minute de votre naissance. Il change à peu près toutes les deux heures, donc il demande votre heure et votre lieu exacts.
+- Le signe lunaire : le signe où se trouvait la Lune à votre naissance. La Lune ne reste guère plus de deux jours et demi dans un signe : votre date de naissance suffit en général, votre heure permet d’en être sûr.
+- L’ascendant : le signe qui se levait à l’horizon, côté est, à la minute de votre naissance. Il bascule dans le signe suivant toutes les deux heures ou presque, d’où le besoin de connaître votre heure et votre lieu exacts.
 
 Si vous n’avez pas encore votre thème, [ce qu’est un thème astral, et comment obtenir le vôtre](/fr/blog/quest-ce-quun-theme-astral/) vous guide pas à pas.
 
@@ -29,7 +29,7 @@ Le Soleil décrit votre centre : ce autour de quoi vous organisez votre vie, la 
 
 Disons que votre Soleil est en Capricorne, « j’utilise » : une maison bâtie pour durer, avec des plans et des murs porteurs.
 
-C’est lui qu’on donne quand on vous demande votre signe. C’est aussi la position la plus facile à flatter. Quand j’ai testé des thèmes case par case, le Soleil a tenu environ une fois sur trois, à peu près comme le reste du thème.
+C’est lui qu’on donne quand on vous demande votre signe. C’est aussi la position la plus facile à flatter. Dans mes vérifications de thèmes, position par position, le Soleil a tenu environ une fois sur trois — ni mieux ni moins bien que le reste du thème.
 
 ## La Lune : votre chambre {#lune}
 

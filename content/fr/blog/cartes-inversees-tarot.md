@@ -27,7 +27,7 @@ Pas au début. Vos premières semaines, vous apprenez à regarder 78 images, et 
 
 Activez-les quand les cartes à l’endroit commencent à vous parler — quand vous regardez une carte et que sa couleur, son nombre et son élément arrivent avant l’effort. Il n’y a pas de date pour ça. Votre carnet vous le dira.
 
-Ensuite, fixez une règle et tenez-la : **décidez avant de mélanger, pas après avoir vu la carte.** Si vous ne lisez l’inversion que lorsque la carte est agréable, ou si vous remettez à l’endroit les cartes lourdes quand elles sortent, vous ne lisez plus les cartes. Vous les retouchez.
+Ensuite, fixez une règle et tenez-la : **le choix se fait avant de battre le jeu, jamais une fois la carte découverte.** Si vous ne lisez l’inversion que lorsque la carte est agréable, ou si vous remettez à l’endroit les cartes lourdes quand elles sortent, vous ne lisez plus les cartes. Vous les retouchez.
 
 ## Le raccourci : la même carte, freinée ou en excès {#le-raccourci}
 
@@ -52,7 +52,7 @@ Les listes de sens inversés donnent souvent le contraire de la carte à l’end
 
 Les clés de lecture, elles, ne se retournent pas. Un Cinq de Coupes inversé reste un 5, le nombre du conflit et de l’essai ; reste de l’Eau ; reste une silhouette en cape noire devant trois coupes renversées. À l’envers, il ne devient pas une carte joyeuse. Il devient le même chagrin, soit retenu, pas encore pleuré, soit débordant dans toutes les pièces. [Le cycle des nombres](/fr/bibliotheque/numerologie/) et les quatre éléments restent intacts : tout ce que vous avez déjà appris continue de servir.
 
-Et inversée ne veut pas dire mauvaise. Chaque carte a un plus et un moins, à l’endroit comme à l’envers. Un Chariot inversé n’est pas une catastrophe ; c’est une semaine pour arrêter de pousser et regarder de quel côté se tournent les sphinx.
+Et inversée ne veut pas dire mauvaise. Dans un sens comme dans l’autre, une carte garde un côté qui aide et un côté qui coince. Un Chariot inversé n’est pas une catastrophe ; c’est une semaine pour arrêter de pousser et regarder de quel côté se tournent les sphinx.
 
 ## Essayez pendant une semaine {#essayer}
 

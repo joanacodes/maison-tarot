@@ -15,10 +15,7 @@ energy: Feminine
 kabbalah: Nun
 image: cards/ar13.webp
 h1: Death — <em>13</em>, Water
-lede: 'Before looking up what Death “means”, look at what you already have: 13, the
-  element Water, Scorpio. You’re reading the card. The number says 13 — 1 + 3 = 4 — foundations, stability; the element says emotions, what flows. Lay
-  the two over each other, add the colours, and the card is already talking — the
-  rest of the page shows you how.'
+lede: 'An armoured skeleton on a white horse rides past a fallen king, a child looks straight up at him, and a low sun waits between two towers. What in your life has already run its course?'
 related:
 - /library/numerology
 - /library/four-elements/water-element
@@ -53,7 +50,7 @@ What’s missing: the scythe that older decks put in the skeleton’s hands, and
 
 Add the digits and 13 becomes [the number 4](/library/numerology/number-4/): foundations, structure, the fruit of your work. That sounds like the opposite of Death until you look at 4’s minus: carrying on when you should stop. Death is the answer to that minus. It clears what no longer works so that something stable can be built on clean ground.
 
-In the Instagram story, 4 is the app at its most solid — the moment a company starts believing it will never change again. Death is the card that reminds you it will.
+Instagram had its 4 as well: the app at its most solid, with the people running it convinced it would stay that way for good. Death is the card that disagrees.
 
 ## By element: Water {#element}
 
@@ -65,23 +62,23 @@ That’s why Death is so rarely sudden in a reading. Usually it’s the end of s
 
 Black and white, almost nothing else. The black of the armour and the banner is absence, void, emptying out — and, in my grid, reality ([black](/library/tarot-colours/black/)). The white of the horse and the rose is purity, peace, what starts clean. The gold of the bishop’s robe and of the sun: will, light.
 
-Before the name, the colours already say it: an emptying, a clean slate, a light behind.
+Three colours, three steps: an emptying, a clean slate, a light behind.
 
 ## By astrology: Scorpio {#astrology}
 
-In the Golden Dawn tradition, Death corresponds to [Scorpio](/library/astrology/scorpio/), the sign whose verb is “I desire”. Scorpio is intensity, close observation, and transformation carried through, wanted or not. It adds depth to the card: what ends here is something you were attached to.
+The Golden Dawn paired Death with [Scorpio](/library/astrology/scorpio/), whose verb is “I desire”. Scorpio is intensity, close observation, and transformation carried through, wanted or not. It adds depth to the card: what ends here is something you were attached to.
 
-If astrology isn’t your lens, the number and the element have already said it.
+Scorpio stays optional: the slow river and the cleared ground of the 4 tell the same story without a chart.
 
 ## In a reading {#reading}
 
-Upright, Death is a transformation. A job, a relationship, a habit, a version of yourself comes to its natural end. My own note on this card is about the harvest: Death is tied to starting again, to the person who has lost their goal and wants to make life fertile again. You cut what’s ripe so that the field can be sown — which is why older decks gave the skeleton a scythe, a harvest tool. In Marseille decks it’s [the card with no name](/blog/death-card-no-name/).
+Upright, Death is a transformation. A job, a relationship, a habit, a version of yourself comes to its natural end. In my notes the card sits with the harvest and with beginning again: someone left without a goal, wanting their life to bear fruit once more. What’s ripe gets cut so the field can take new seed — which is why older decks gave the skeleton a scythe, a harvest tool. In Marseille decks it’s [the card with no name](/blog/death-card-no-name/).
 
-If you came here worried about someone’s health, I understand; the name of the card does that. But a card doesn’t announce a death or an illness, and I don’t read on those questions — they belong with a doctor and with the people close to you. I explain why in [why I step back from health, pregnancy and death questions](/blog/health-pregnancy-death-tarot/). What a reading can hold is the change you’re living through.
+If you came here worried about someone’s health, I understand; the name of the card does that. But a card doesn’t announce a death or an illness, and I don’t read on those questions: they’re for a doctor, and for the people who love you. The reasons are in [why I step back from health, pregnancy and death questions](/blog/health-pregnancy-death-tarot/). What a reading can hold is the change you’re living through.
 
 Reversed, the ending is resisted or it drags: something that’s over but kept going, the job you’ve already left in your head, a change half-made — neither the old life nor the new one.
 
-Next to [the Tower](/library/tarot-cards/the-tower/), the change is sudden; alone, Death is usually slow. Next to the [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/), the harvest is followed by a seed: something concrete starts on the cleared ground. For relationships, see [Death in love](/blog/death-tarot-love/); work has its own section below.
+Next to [the Tower](/library/tarot-cards/the-tower/), the change is sudden; alone, Death is usually slow. Next to the [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/), the harvest is followed by a seed: something concrete starts on the cleared ground. For relationships, see [Death in love](/blog/death-tarot-love/); for the job you’re afraid of losing, keep reading.
 
 {{< cards "ar16 peac" >}}
 
@@ -95,7 +92,7 @@ At work, my harvest note usually belongs to someone who isn’t fired or in cris
 
 Reversed, the harvest is late: the job you’ve already left in your head and still go to every morning. In excess, it’s resigning in anger on a Monday, burning the field instead of harvesting it.
 
-“Am I going to lose my job?” is the question this card brings, and the fear behind it is real: the rent, the family, the sense of who you are. I don’t read on that. A card can’t see a company’s decisions, and a wrong word can make someone quit in a panic or freeze when they should act; money decisions stay out of my readings too ([what I don’t read on, and why](/disclaimers/#refusals)). For the concrete side, a careers adviser is the right person to see. A gentler question: “What in my work has finished its season, and what do I want to grow next?”
+“Am I going to lose my job?” is the question this card brings, and the fear behind it is real: the rent, the family, the sense of who you are. I don’t read on that. A card can’t see a company’s decisions, and a wrong word can make someone quit in a panic or freeze when they should act; money decisions stay out of my readings too ([my reasons, with the other subjects I leave aside](/disclaimers/#refusals)). For the concrete side, a careers adviser is the right person to see. A gentler question: “What in my work has finished its season, and what do I want to grow next?”
 
 This week, write two short lists: what in your work feels ripe, and what you’d like to plant. Keep them for a month and see which one grows.
 
@@ -103,6 +100,6 @@ This week, write two short lists: what in your work feels ripe, and what you’d
 
 Death comes out first in this imagined reading, and the Ace of Pentacles follows. 13, so 4, then 1 — foundations cleared, then a new start. Water then Earth: feelings first, then something concrete. Black and white on one card; gold and green on the other.
 
-The sentence I’d say: “Something has ended for you, or is ending, and it’s been heavy — but right behind it there’s a very concrete new start, something you can build with your hands.”
+From the rider to the coin, I’d say: “Something has ended for you, or is ending, and it’s been heavy — but right behind it there’s a very concrete new start, something you can build with your hands.”
 
-Then the check. Has a chapter closed recently — a job, a home, a way of living? Does a new project feel close? If none of it lands, it’s a miss, and I’d say so without dressing it up.
+Two questions test it. Has a chapter closed recently — a job, a home, a way of living? Does a new project feel close? If nothing has ended and nothing is starting, the reading missed, and I’d tell them so plainly.

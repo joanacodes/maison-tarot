@@ -27,7 +27,7 @@ faq:
 
 ## What an element does to a card {#what-it-does}
 
-The [number](/library/numerology/) says *where* the situation is; the element says *on which plane* it plays out. A Five — conflict, trial — isn't the same conflict in each house: the Five of Cups is grief, the Five of Swords a victory that costs, the Five of Wands an ego fight, the Five of Pentacles material hardship. Same step, four planes.
+Where the situation stands is the [number](/library/numerology/)'s business; the element shows *on which plane* it plays out. A Five — conflict, trial — isn't the same conflict in each house: the Five of Cups is grief, the Five of Swords a victory that costs, the Five of Wands an ego fight, the Five of Pentacles material hardship. Same step, four planes.
 
 That's the principle that saves you from learning forty cards: ten numbers, four houses, and the combination does the rest.
 

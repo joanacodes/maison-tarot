@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/wa08.webp
 h1: Eight of Wands — <em>eight</em>, Fire
-lede: 'Before looking up what Eight of Wands “means”, look at what you already have:
-  eight, the element Fire, Mercury in Sagittarius. You’re reading the card. The number
-  says eight — movement, mastery, the fruit of work; the element says drive, what
-  you launch. Lay the two over each other, add the colours, and the card is already
-  talking — the rest of the page shows you how.'
+lede: 'Living branches streak across a pale sky towards a field; no hand threw them and nobody stands ready to catch them. Are they rising or coming down — and where will you be when they land?'
 related:
 - /library/numerology
 - /library/four-elements/fire-element
@@ -50,7 +46,7 @@ Look for a person and you won’t find one: no hand throws the wands, no one wai
 
 ## By number: eight {#number}
 
-[Eight](/library/numerology/number-8/) is 4 exalted: what was built has become an empire, solid enough to run without anyone pushing. In the Wands, that solidity turns into momentum: the work is done, and now it travels. In the Instagram story, 8 is the moment the app, bought by Facebook, became infrastructure — nobody asked any more whether it would work.
+[Eight](/library/numerology/number-8/) is 4 exalted: what was built has become an empire, solid enough to run without anyone pushing. In the Wands, that solidity turns into momentum: the work is done, and now it travels. Instagram reached its 8 when the app, bought by Facebook, turned into infrastructure — nobody asked any more whether it would work.
 
 My own note on this card is about angle: the wands are flying, or they’re falling — glass half full or half empty. The drawing allows both, and so will the person in front of you. “Everything is happening at once” can be the best news of the year or the most stressful week of it. The 8 says the thing is under way; it doesn’t say which way it lands.
 
@@ -66,13 +62,13 @@ A Fire card with no one at the controls asks a plain question: who decides where
 
 The card is mostly sky. That pale [blue](/library/tarot-colours/blue/) — vitality, water, purification — is unusual for a Fire card, and it gives the Eight its clean, open feel: the air is clear, nothing stands in the way. The orange-brown of the wands carries the Fire itself: creativity, drive.
 
-Then the small [green](/library/tarot-colours/green/) shoots, repeated on every wand and on the hills below: growth, life. What’s flying is alive and can take root wherever it lands. Before you even know the card’s name, the colours say: clear sky, things moving, things growing.
+Then the small [green](/library/tarot-colours/green/) shoots, repeated on every wand and on the hills below: growth, life. What’s flying is alive and can take root wherever it lands. Mostly sky, a little wood, a scatter of shoots: clear air, things moving, things growing.
 
 ## By astrology: Mercury in Sagittarius {#astrology}
 
-In the Golden Dawn tradition, the Eight of Wands is Mercury in Sagittarius. [Mercury](/library/astrology/mercury/) is the speed of the mind: words, messages, the way you learn. Sagittarius is the traveller, whose verb is “I see, I try”. Together they give news from far away, a message sent before it’s fully thought through, a decision taken in mid-flight.
+Golden Dawn astrology files the Eight of Wands under Mercury in Sagittarius. [Mercury](/library/astrology/mercury/) is the speed of the mind: words, messages, the way you learn. Sagittarius is the traveller, whose verb is “I see, I try”. Together they give news from far away, a message sent before it’s fully thought through, a decision taken in mid-flight.
 
-If astrology is one of your lenses, keep this layer of messages and distance; if not, number, element and colours already say speed.
+Messages and distance are what this layer adds. Without it, the number, the element and the open sky still say speed.
 
 ## In a reading {#reading}
 
@@ -90,4 +86,4 @@ An imaginary spread, built on speed and daydreams: the Eight of Wands, then the 
 
 What you might say out loud: “A lot is arriving at once, and you have more options than you can feel your way through. Before you choose, let things land.”
 
-Then you check, plainly: “Does that sound like your week, or not at all?” If it doesn’t fit, it’s a miss; note it as one. If it does, let them tell you which of the cups they keep looking at — you don’t need to guess.
+Then you check, plainly: “Does that sound like your week, or not at all?” If their week has been quiet, with nothing in the air, the reading missed: write that down. If it does sound like their week, let them tell you which of the cups they keep looking at — you don’t need to guess.

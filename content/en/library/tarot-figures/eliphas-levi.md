@@ -61,7 +61,7 @@ And his order isn’t the ancient one, because there isn’t one. Neither is the
 
 ## Why it matters for a reader today {#today}
 
-This is the practical part. The card pages on this site follow the Golden Dawn: the Fool is Aleph, the Magician is Beth. Many French books follow Lévi and Wirth: the Magician is Aleph, and most cards get the letter just before the one you’ll see here. Neither table is a mistake. [The table of the 22 letters](/library/kabbalah/hebrew-letters-major-arcana/) sets them side by side, so you can tell at a glance which one a book is using.
+This is the practical part. Every card page here uses the Golden Dawn’s letters: the Fool is Aleph, the Magician is Beth. Many French books follow Lévi and Wirth: the Magician is Aleph, and most cards get the letter just before the one you’ll see here. Neither table is a mistake. [The table of the 22 letters](/library/kabbalah/hebrew-letters-major-arcana/) sets them side by side, so you can tell at a glance which one a book is using.
 
 I treat the letters as an extra layer, not a foundation. You can read the whole deck without a word of Hebrew; if a letter adds something to a card for you, keep it.
 

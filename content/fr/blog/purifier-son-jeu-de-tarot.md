@@ -51,12 +51,12 @@ Et quand les tirages sonnent creux, c’est en général la personne qui lit qui
 
 ## Ce que je fais à la place : une pause {#une-pause}
 
-La pause est toute mon alternative à la purification. Rangez le jeu dans un tiroir quelques jours, une semaine, jusqu’à ce qu’il vous manque. Si vous vous surprenez à le sortir plusieurs fois par jour, ou à reposer la même question avec d’autres mots, le problème n’est pas dans les cartes ; il est dans l’habitude, et une pause est la façon la plus douce de s’en rendre compte. Je ne veux pas que le tarot devienne un cercle de dépendance, ni pour moi ni pour les personnes à qui je tire les cartes, et je vous souhaite la même chose. J’en parle davantage dans [pourquoi arrêter de tirer les cartes, au moins un temps](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
+La pause est toute mon alternative à la purification. Rangez le jeu dans un tiroir quelques jours, une semaine, jusqu’à ce qu’il vous manque. Si vous vous surprenez à le sortir plusieurs fois par jour, ou à reposer la même question avec d’autres mots, le problème n’est pas dans les cartes ; il est dans l’habitude, et une pause est la façon la plus douce de s’en rendre compte. Je ne veux pas que le tarot devienne un cercle de dépendance, ni pour moi ni pour les personnes à qui je tire les cartes, et je vous souhaite la même chose. J’en parle davantage à propos [des raisons de lâcher le jeu un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
 Entre deux tirages, un mélange suffit, et [il n’y a pas de mauvaise façon de mélanger](/fr/blog/comment-melanger-cartes-tarot/).
 
 ## Si vous venez d’acheter un jeu {#jeu-neuf}
 
-Inutile de le purifier pour qu’il fonctionne. Faites plutôt connaissance : une carte par jour pendant une semaine, décrite à voix haute — ce qu’il y a dessus, ce que vous voyez, ce qui vous vient. Au bout de la semaine, le jeu sera le vôtre, et c’est exactement ce que la plupart des rituels de purification cherchent à vous donner. Toute la marche à suivre est dans [comment faire connaissance avec un nouveau jeu](/fr/blog/nouveau-jeu-de-tarot/).
+Inutile de le purifier pour qu’il fonctionne. Faites plutôt connaissance : une carte par jour pendant une semaine, que vous racontez à voix haute — sa scène, ce qui attire votre œil, ce qu’elle éveille en vous. Au bout de la semaine, le jeu sera le vôtre, et c’est exactement ce que la plupart des rituels de purification cherchent à vous donner. Toute la marche à suivre est dans [comment faire connaissance avec un nouveau jeu](/fr/blog/nouveau-jeu-de-tarot/).
 
 Si vous aimez votre rituel, gardez-le, pour la pause qu’il vous offre. N’y mettez pas trop d’argent, et ne laissez personne vous vendre l’idée que vos cartes doivent être protégées de vous.

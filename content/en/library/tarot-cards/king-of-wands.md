@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/waki.webp
 h1: King of Wands — <em>the King</em>, Fire of Fire
-lede: 'Before looking up what King of Wands “means”, look at what you already have:
-  the King, the element Fire of Fire. You’re reading the card. The number says the
-  King — outer mastery, decision; the element says drive, what you launch. Lay the
-  two over each other, add the colours, and the card is already talking — the rest
-  of the page shows you how.'
+lede: 'Crowned with flames and robed in salamanders, a king in profile gazes beyond the frame while a live salamander crosses at his feet. Where are you leading, and who does all that heat serve?'
 related:
 - /library/numerology
 - /library/four-elements/fire-element
@@ -63,7 +59,7 @@ It also carries the risk I note for the Emperor, the major card of Fire and of t
 
 [Orange](/library/tarot-colours/orange/) and red dominate — the robe, the throne: creativity, drive, passion, action. Gold flames sit on the crown. Then comes a band of [green](/library/tarot-colours/green/) at the shoulders: growth, life, prosperity. It’s the sign that his fire is meant to make something grow, not only to shine.
 
-The grey stone under the throne gives him stable ground. Read the colours before the card: a great deal of fire, a collar of growth, solid footing.
+The grey stone under the throne gives him stable ground. Heat everywhere, a collar of growth, stone underfoot: a ruler whose fire has somewhere to stand.
 
 ## In a reading {#reading}
 
@@ -81,4 +77,4 @@ A case invented for teaching: the King of Wands comes out, then the [Two of Swor
 
 A sentence to try: “You decide fast everywhere in your life except on one subject, and on that one you’ve tied the blindfold yourself.”
 
-Then check: “Is there one decision you’ve been leaving open?” If they nod, let them name it or not; you don’t need to know. If none of it rings true, that’s a miss, and it counts as one.
+Then check: “Is there one decision you’ve been leaving open?” If they nod, let them name it or not; you don’t need to know. If no decision is hanging open, the blindfold was my invention: that’s a miss, and it counts as one.

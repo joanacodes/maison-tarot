@@ -19,7 +19,7 @@ No. There's no age for it, and there's no gift you needed to receive young. Ever
 
 It's a bit like drawing or music: some people have a knack, and anyone who practises gets there. The only practice that really matters in tarot is letting go, and letting go has no age limit.
 
-What you need hasn't changed since you were twenty: a deck, a way of looking, someone who tells you nothing, and a notebook. The [beginners' guide](/blog/how-to-read-tarot-beginners/) covers all four, and if you're wondering which deck, [here's why I start everyone on the Rider-Waite-Smith](/blog/best-tarot-deck-for-beginners/): every card has a scene, and scenes are what experience reads best.
+What you need hasn't changed since you were twenty: a deck, a way of looking, someone who tells you nothing, and a notebook. The [beginners' guide](/blog/how-to-read-tarot-beginners/) covers all four, and if you're wondering which deck, [my pick for anyone starting out is the Rider-Waite-Smith](/blog/best-tarot-deck-for-beginners/): every card has a scene, and scenes are what experience reads best.
 
 ## Why life experience reads better {#experience}
 
@@ -29,7 +29,7 @@ A tarot card shows a situation. Reading it means recognising what's going on, an
 
 The Ten of Pentacles shows three generations in a courtyard: an old man in a patterned cloak, a couple, a child, two dogs. My note on it: complete wealth at home, the whole family present — and possibly short-lived. If you've been the child, then the parent, then watched your own parents age, you read "short-lived" in a way a twenty-year-old can only guess at.
 
-The Five of Pentacles shows two figures in the snow passing a lit church window: poverty, cold, and the place where warmth could have been found. If you've been through a hard winter of your own, you're more likely to notice the window.
+The Five of Pentacles puts two figures out in a snowstorm, hurrying past a church whose window is lit. Hardship and cold, and a warm place right beside them. If you've been through a hard winter of your own, you're more likely to notice the window.
 
 The Six of Cups is childhood, taking time for yourself, flowering again. At fifty, childhood is a place you can look at from a distance, with some tenderness.
 
@@ -55,7 +55,7 @@ Reading isn't only seeing. It's also knowing how to say it. Sometimes you sense 
 
 The same goes for the moments when nothing comes. Often it's because the person is afraid of what they'll hear, and the answer is to put the cards down, talk and reassure them before going on. Years of conversations at work, in families and around kitchen tables have trained you for exactly that.
 
-You also tend to know which questions belong elsewhere. Health, death, pregnancy, court cases, money decisions: people ask about them out of worry or love, and a card is the wrong tool for them. If you've ever waited for a medical result, you understand why without being told. [I explain where I step back, and why](/disclaimers/#refusals).
+You also tend to know which questions belong elsewhere. Illness and death, pregnancy, lawsuits, big money choices: people ask about them out of worry or love, and a card is the wrong tool for them. If you've ever waited for a medical result, you understand why without being told. [I explain where I step back, and why](/disclaimers/#refusals).
 
 ## Where to start {#start}
 

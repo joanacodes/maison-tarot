@@ -25,7 +25,7 @@ Waiting is hard in a particular way: nothing you do seems to change the outcome,
 
 My readings miss sometimes, and I keep count. On most subjects a miss costs an evening of doubt and a line in my notebook. Here, a wrong “yes” can cost months of hope, and a wrong “no” can cost a grief that didn’t need to happen. That’s too much weight for a card to carry.
 
-“When will I be pregnant?” is also a timing question in its purest form, and [timing is the weak spot of any reading](/blog/tarot-timing/). A reading can describe a mood or a movement; it can’t give you a month.
+“When will I be pregnant?” is also a timing question in its purest form, and [tarot is weakest of all on dates](/blog/tarot-timing/). A reading can describe a mood or a movement; it can’t give you a month.
 
 And a card can’t see a body. The cards speak in pictures, and a picture of growth, a garden or a family can describe a project, a home, a new start with yourself. Reading a pregnancy into it is the reader’s projection. You’ll find lists online of cards said to announce one; I don’t keep such a list, for the same reason. A test, a scan and a doctor can see what a deck can’t. I set out the wider reasoning — health, pregnancy and death together — in [why careful readers step back from these questions](/blog/health-pregnancy-death-tarot/).
 
@@ -33,7 +33,7 @@ And a card can’t see a body. The cards speak in pictures, and a picture of gro
 
 A reading can hold the waiting. Not the outcome — you. How you’re carrying this, what’s taking up all the room in your head, what you need from the people around you, what you could set down for a week.
 
-Say someone sits down, tells me nothing, and draws the Nine of Swords: a person sitting up in bed in the dark. If, at the end, she tells me she has been trying for a year, I don’t turn the card into a result. I read the nights — the 3 a.m. thoughts — and we talk about what could make them a little lighter.
+Imagine a woman who keeps her situation to herself and draws the Nine of Swords: someone awake and upright in bed in the dark. If, at the end, she tells me she has been trying for a year, I don’t turn the card into a result. I read the nights — the 3 a.m. thoughts — and we talk about what could make them a little lighter.
 
 Some gentler questions to bring to the cards, or to a notebook:
 

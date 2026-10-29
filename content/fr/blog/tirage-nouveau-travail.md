@@ -43,7 +43,7 @@ Ce que vous apportez : la Reine d’Épées, droite sur son trône, l’épée l
 
 Où chercher de l’aide : le Roi de Coupes, calme sur un trône qui flotte sur une mer agitée. Cherchez la personne qui reste posée quand une réunion part dans tous les sens, quel que soit son titre.
 
-Ce qu’il faut laisser décanter : le [Cinq de Bâtons](/fr/bibliotheque/cartes-tarot/cinq-de-batons/), cinq jeunes gens qui agitent des bâtons, l’air de se battre sans aucune coordination. Le bruit de l’équipe n’est pas une guerre, et ce n’est pas à vous de le régler la première semaine.
+Ce qu’il faut laisser décanter : le [Cinq de Bâtons](/fr/bibliotheque/cartes-tarot/cinq-de-batons/), cinq jeunes gens qui brandissent des bâtons dans une mêlée où personne ne suit de plan. Le bruit de l’équipe n’est pas une guerre, et ce n’est pas à vous de le régler la première semaine.
 
 Une chose à faire : le Trois de Pentacles, un artisan debout sur un banc dans une église, qui montre son travail à deux personnes tenant les plans. Le 3, c’est la machine qui tourne bien. Avant la fin du mois, montrez à quelqu’un un travail en cours et demandez ce qu’il changerait.
 
@@ -53,7 +53,7 @@ Lue comme une seule phrase, la ligne dit : « Apprenez avant de prouver quoi que
 
 Certaines questions arrivent avec chaque nouveau poste : vais-je passer la période d’essai, est-ce que mon responsable m’apprécie, faut-il renégocier mon salaire, aurais-je dû accepter l’autre offre. Elles viennent de la fragilité de tout recommencer, et elles sont profondément humaines.
 
-Les cartes ne sont pas le bon outil pour y répondre. Votre responsable n’est pas dans la pièce ; un salaire est une décision d’argent, avec de vrais chiffres ; et le fait de garder ou non le poste dépend de choses qu’une carte ne voit pas. Ce qu’un tirage peut porter, c’est la question en dessous : « qu’est-ce qui m’aide à me sentir à ma place ici ? » Pour une vraie décision plus tard — rester, partir, demander —, [mon tirage pour le travail](/fr/blog/tirage-tarot-travail/) lit un choix sans laisser les cartes le faire.
+Un tirage n’est pas fait pour trancher ces questions-là. Votre responsable n’est pas dans la pièce ; un salaire est une décision d’argent, avec de vrais chiffres ; et le fait de garder ou non le poste dépend de choses qu’une carte ne voit pas. Ce qu’un tirage peut porter, c’est la question en dessous : « qu’est-ce qui m’aide à me sentir à ma place ici ? » Pour une vraie décision plus tard — rester, partir, demander —, [mon tirage pour le travail](/fr/blog/tirage-tarot-travail/) lit un choix sans laisser les cartes le faire.
 
 ## Quand le faire, et quand y revenir {#quand}
 

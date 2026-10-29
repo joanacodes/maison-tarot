@@ -31,7 +31,7 @@ Il en faisait partie le soir où je l’ai entendu m’appeler, comme depuis la 
 
 L’essentiel de ce que visent les objections religieuses n’est pas dans ma pratique, parce que je l’ai retiré pour d’autres raisons.
 
-Je ne prédis pas : je lis le présent d’une personne, et je le dis. Je n’invoque, ne purifie, ne protège ni ne canalise rien — [j’ai vendu de la sauge en 2021 et j’ai arrêté](/fr/blog/purifier-son-jeu-de-tarot/), parce que ça ne servait à rien. Je ne dis pas aux gens quoi faire ; [les cartes ne sont pas une autorité](/fr/avertissements/#lectures). Je ne prétends pas avoir un don. Je ne lis pas sur les sujets où un mot de travers fait du mal — la santé, la mort, la grossesse —, je préfère vous orienter vers la bonne personne. Et je ne touche à rien de ce qui concerne les malédictions.
+Je ne prédis pas : je lis le présent d’une personne, et je le dis. Je n’invoque, ne purifie, ne protège ni ne canalise rien — [la sauge que je vendais en 2021, je ne la vends plus](/fr/blog/purifier-son-jeu-de-tarot/), parce que ça ne servait à rien. Je ne dis pas aux gens quoi faire ; [les cartes ne sont pas une autorité](/fr/avertissements/#lectures). Je ne prétends pas avoir un don. Je ne lis pas sur les sujets où un mot de travers fait du mal — la santé, la mort, la grossesse —, je préfère vous orienter vers la bonne personne. Et je ne touche à rien de ce qui concerne les malédictions.
 
 Retirez la prédiction, le rituel, l’autorité et les esprits : il reste quelqu’un qui regarde une image et dit ce qu’il voit. Si c’est un péché, lire un roman en est un aussi.
 

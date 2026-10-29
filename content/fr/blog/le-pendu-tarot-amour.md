@@ -17,11 +17,11 @@ En amour, le Pendu est une pause, pas un verdict. Quelque chose est en suspens �
 
 ## Le 3 suspendu, et l’eau qui dort {#trois-suspendu}
 
-Le Pendu porte le 12, et 1 + 2 = [3](/fr/bibliotheque/numerologie/chiffre-3/) : la machine qui tourne, le contrat qui fonctionne. Dans mes notes, le conseil du 3 est de terminer un projet avant d’en commencer un autre ; son moins, c’est de se lancer dans du neuf avant d’avoir fini l’ancien. En amour, c’est presque toute la lame : ne pas passer au chapitre suivant tant que celui-ci reste ouvert.
+Le Pendu porte le 12, et 1 + 2 = [3](/fr/bibliotheque/numerologie/chiffre-3/) : un rythme trouvé, un accord qui tient ses promesses. Dans mes notes, le 3 demande de finir ce qu’on a commencé avant de se lancer ailleurs ; son revers, c’est d’accumuler les débuts sans rien boucler. En amour, c’est presque toute la lame : ne pas passer au chapitre suivant tant que celui-ci reste ouvert.
 
-L’élément est l’Eau — l’émotion, ce qui coule — et l’énergie est féminine : la patience, la réflexion, ce qui se joue en coulisses. Une pause en amour, c’est une affaire d’Eau. Les sentiments continuent de bouger pendant que rien ne se passe au-dehors, et un sentiment dont on ne parle pas ne reste pas immobile pour autant : il n’est pire eau que l’eau qui dort. Dans mes notes, il s’infiltre partout avec le temps, comme la moisissure qui ronge lentement une maison.
+L’élément est l’Eau — l’émotion, ce qui coule — et l’énergie est féminine : la patience, la réflexion, ce qui se joue en coulisses. Une pause en amour, c’est une affaire d’Eau. Les sentiments continuent de bouger pendant que rien ne se passe au-dehors, et un sentiment dont on ne parle pas ne reste pas immobile pour autant : c’est sous une surface tranquille qu’il travaille le plus. Dans mes notes, il s’infiltre partout avec le temps, comme la moisissure qui ronge lentement une maison.
 
-Un détail du dessin compte : son visage est calme, et la lumière brille autour de sa tête. **Le Pendu n’est pas coincé : il s’est arrêté, et toute la différence tient à ce que vous faites de ce temps.** Neptune et les couleurs sont sur [la page du Pendu](/fr/bibliotheque/cartes-tarot/le-pendu/).
+Observez son visage : il est calme, et un halo de lumière entoure sa tête. **Le Pendu n’est pas coincé : il s’est arrêté, et toute la différence tient à ce que vous faites de ce temps.** Neptune et les couleurs sont sur [la page du Pendu](/fr/bibliotheque/cartes-tarot/le-pendu/).
 
 ## « Combien de temps encore ? » {#combien-de-temps}
 
@@ -29,7 +29,7 @@ La question qui accompagne cette lame est presque toujours « Combien de temps d
 
 Je ne lis pas ce que quelqu’un d’autre va décider, et je ne donne pas de dates. Un tirage n’est pas à son meilleur sur ce que les prochains jours vont apporter, et quand quelque chose arrive, c’est souvent autrement que vous l’imaginiez ; [j’explique pourquoi dans un article à part](/fr/blog/tarot-quand/). Une date sortie d’une carte vous donnerait quelque chose à attendre, pas quelque chose à faire. Et l’autre personne n’est pas dans la pièce : son choix lui appartient.
 
-Certaines personnes reviennent avec la même question, encore et encore, et c’est souvent le Pendu qui est sur la table quand elles reviennent. Si vous l’avez tiré trois fois cette semaine en posant la même question, ce ne sont pas les cartes qui sont coincées : c’est la question ([ce que les tirages à répétition vous font](/fr/blog/combien-de-temps-entre-deux-tirages/)).
+Certaines personnes reviennent avec la même question, encore et encore, et c’est souvent le Pendu qui est sur la table quand elles reviennent. Si vous l’avez tiré trois fois cette semaine en posant la même question, ce ne sont pas les cartes qui sont coincées : c’est la question ([pourquoi tirer en boucle ne fait pas avancer](/fr/blog/combien-de-temps-entre-deux-tirages/)).
 
 Une question plus douce : « Qu’est-ce que j’attends, au juste, et que ferais-je de ce temps si la réponse ne venait jamais ? » Celle-là a une réponse sur laquelle vous pouvez agir dès aujourd’hui.
 

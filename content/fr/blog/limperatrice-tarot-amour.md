@@ -17,11 +17,11 @@ En amour, l’Impératrice, c’est le soin : une relation qui vous nourrit, une
 
 ## Ce que le 3, la Terre et Vénus apportent au foyer {#trois-terre-venus}
 
-L’Impératrice porte le 3, la machine qui tourne : quelque chose qui fonctionne, et qui se voit. Dans mes notes, le conseil du 3 est de finir un projet avant d’en commencer un autre ; son moins, c’est de semer partout à la fois. En amour, c’est une relation qui donne — et la tentation de prendre en charge les besoins de tout le monde, puisque ça marche si bien.
+L’Impératrice porte le 3, la machine qui tourne : quelque chose qui fonctionne, et qui se voit. Dans mes notes, le 3 veut qu’on achève une entreprise avant d’en lancer une autre ; mal vécu, il éparpille ses graines dans tous les sens. En amour, c’est une relation qui donne — et la tentation de prendre en charge les besoins de tout le monde, puisque ça marche si bien.
 
 Son élément, c’est la Terre : protectrice, stable, mère de toute croissance, et entêtée. Entre deux personnes, les richesses, ce sont les repas, le temps, l’attention, une maison qui ressemble à un foyer. Vénus, sa planète, y ajoute ce que vous aimez et la façon dont vous aimez.
 
-Son énergie est féminine, ce qui, dans ma définition, n’a rien à voir avec le fait d’être une femme ([le féminin et le masculin, au sens où je les emploie](/fr/bibliotheque/energies-feminine-masculine/feminin-masculin/)). C’est une dynamique : la patience, la douceur, ce qui travaille en coulisses. N’importe qui peut porter l’Impératrice dans une relation — celle ou celui qui retient les rendez-vous de tout le monde, l’homme qui fait le pot-au-feu pour toute la famille le dimanche.
+Son énergie est féminine, et chez moi ce mot ne désigne ni les femmes ni les hommes ([le féminin et le masculin, au sens où je les emploie](/fr/bibliotheque/energies-feminine-masculine/feminin-masculin/)). C’est une dynamique : la patience, la douceur, ce qui travaille en coulisses. N’importe qui peut porter l’Impératrice dans une relation — celle ou celui qui retient les rendez-vous de tout le monde, l’homme qui fait le pot-au-feu pour toute la famille le dimanche.
 
 Ma note sur elle : elle nourrit, elle donne, elle crée la vie, elle fait grandir — et elle peut étouffer par sa présence et sa protection, ou cesser de nourrir. [La page de l’Impératrice](/fr/bibliotheque/cartes-tarot/l-imperatrice/) lit le dessin et les couleurs.
 
@@ -29,7 +29,7 @@ Ma note sur elle : elle nourrit, elle donne, elle crée la vie, elle fait grandi
 
 Parce que l’Impératrice est la lame de la mère, la question qui vient avec elle est souvent « Est-ce que je vais tomber enceinte ? » ou « Est-ce qu’on aura un enfant ? ». C’est l’une des questions les plus tendres qu’on puisse poser, et elle arrive en général avec beaucoup d’espoir, parfois après une longue attente.
 
-Je ne lis pas sur la grossesse ni sur la fertilité. Pas parce que la question n’est pas importante : parce qu’elle l’est trop pour une carte. Un mot de travers, là, fait vraiment mal, dans un sens comme dans l’autre, et un médecin ou un spécialiste de la fertilité peut vous donner des réponses que je n’ai pas. J’ai écrit sur [les questions de grossesse, et ce que je lis à la place](/fr/blog/tarot-et-grossesse/).
+Grossesse et fertilité : là, je ne tire pas les cartes. Pas parce que la question n’est pas importante : parce qu’elle l’est trop pour une carte. Un mot de travers, là, fait vraiment mal, dans un sens comme dans l’autre, et un médecin ou un spécialiste de la fertilité peut vous donner des réponses que je n’ai pas. J’ai écrit sur [les questions de grossesse, et ce que je lis à la place](/fr/blog/tarot-et-grossesse/).
 
 Ce que l’Impératrice peut porter en attendant, c’est son autre moitié : le soin de vous. Une question plus douce : « Qui prend soin de moi pendant que je prends soin de tout le monde ? » ou « Qu’est-ce qui me nourrirait vraiment, ce mois-ci ? » Mes notes sur le [travail de l’ombre](/fr/blog/travail-sur-lombre/) disent de se traiter avec autant de douceur et de tolérance qu’on en a pour les autres. L’Impératrice, c’est cette phrase, dessinée.
 

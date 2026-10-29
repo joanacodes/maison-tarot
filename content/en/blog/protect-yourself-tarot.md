@@ -9,7 +9,7 @@ tags: ["protect yourself before tarot reading", "tarot protection ritual", "grou
 image: "covers/protect-yourself-tarot.jpg"
 imageAlt: "Two bare feet resting flat on a wooden floor beside a low table with a deck of cards on it"
 imagePrompt: "Two bare feet resting flat on a wooden floor beside a low table with a closed tarot deck on it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "For tarot readers, protecting yourself means doing something before or after a reading so that the other person’s emotions, or anything else around the reading, don’t stay with you: picturing light around you, saying an intention, keeping a stone nearby, washing your hands. If a ritual helps you, keep it. You don’t need one to read safely. What I rely on is empathy done well: feeling the other person’s emotions while keeping your own, staying grounded in your body and the room, and staying calm, because what you feel in a reading often isn’t yours to carry home."
+summary: "For tarot readers, protecting yourself means doing something before or after a reading so that the other person’s emotions, or anything else around the reading, don’t stay with you: picturing light around you, saying an intention, keeping a stone nearby, washing your hands. If a ritual helps you, keep it. You don’t need one to read safely. What I rely on is empathy done well: letting someone’s emotions reach you without trading them for yours, staying grounded in your body and the room, and staying calm, because what you feel in a reading often isn’t yours to carry home."
 ---
 You don’t need a ritual to read tarot safely. What you need is to know which emotions are yours and which belong to the person in front of you. If a ritual helps you do that, keep it: it’s a good habit, not a requirement.
 
@@ -31,9 +31,9 @@ My own path went the other way: I once sold sage and candles, and I’ve explain
 
 ## Empathy: feeling without taking on {#empathy}
 
-In my notes, empathy is feeling and understanding the other person’s emotions while keeping your own. Both halves matter. Without the first, you read cards like a dictionary. Without the second, you go home with someone else’s grief.
+My notes split empathy in two: taking in and understanding what the other person feels, and not letting go of yours in the process. Both halves matter. Without the first, you read cards like a dictionary. Without the second, you go home with someone else’s grief.
 
-Very empathic readers can end up feeling the other person’s emotions, even expressing them: a lump in the throat that isn’t theirs, tears in the middle of someone else’s story. If that happens to you, it doesn’t mean you’re doing it wrong. It means you need a little distance. Listen to the emotion; don’t let it take over.
+The more empathic the reader, the likelier they are to feel someone else’s emotions as their own, even to show them: a lump in the throat that isn’t theirs, tears in the middle of someone else’s story. If that happens to you, it doesn’t mean you’re doing it wrong. It means you need a little distance. Listen to the emotion; don’t let it take over.
 
 People sometimes call this being an empath: someone with a higher capacity to feel other people’s feelings. It can be trained, and it has a downside: if you don’t know yourself well, you can absorb an environment that isn’t good for you. I keep [plain definitions of empath, starseed and the rest](/blog/empath-starseed-lightworker/) on one page.
 
@@ -59,7 +59,7 @@ A calm reader is also a kinder one. When you flinch at a card, the person reads 
 
 Protection works in the other direction too. Ask permission before you read anyone: reading someone who hasn’t agreed is like walking into their bedroom and opening the drawers. The basics are in [how to read tarot for someone else](/blog/read-tarot-for-someone-else/).
 
-And if what worries you is spirits rather than emotions: most of what a reader feels during a reading is human, and comes from the person across the table. Reading tarot doesn’t require calling on anyone, and I don’t use the cards that way, partly because with spirits, you don’t know who you’re calling.
+And if what worries you is spirits rather than emotions: most of what a reader feels during a reading is human, and comes from the person across the table. Reading tarot doesn’t require calling on anyone, and I don’t use the cards that way, partly because nobody calling on spirits can know who will turn up.
 
 ## What to try at your next reading {#next-step}
 

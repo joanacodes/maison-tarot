@@ -41,7 +41,7 @@ Astrologers also point back to the last pass, which covered the American Revolut
 
 ## What it means for you, personally {#for-you}
 
-Pluto is a generational placement: everyone born between 2024 and 2043 will have it in Aquarius, so it says nothing about any one of them. The personal part is the house — the area of your chart where Aquarius falls. That needs your birth time, and if you've never looked, here's [what a birth chart is and how to read one](/blog/what-is-a-birth-chart/).
+Pluto is a generational placement: everyone born between 2024 and 2043 will have it in Aquarius, so it says nothing about any one of them. The personal part is the house — the area of your chart where Aquarius falls. That needs your birth time, and if you've never looked, here's [a guide to getting your chart and finding its houses](/blog/what-is-a-birth-chart/).
 
 Say Aquarius falls in your tenth house, the one for work and public life. An astrologer would read the next twenty years as a slow change in how you work and how you're seen at work. Slow is the key word: two decades, not a crisis this month.
 

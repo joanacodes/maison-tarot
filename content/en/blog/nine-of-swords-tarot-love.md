@@ -11,7 +11,7 @@ imageAlt: "The Nine of Swords card from the Rider-Waite-Smith deck lying face up
 imagePrompt: "The Nine of Swords card from the 1909 Rider-Waite-Smith deck lying upright on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, the card in its original colours, warm natural colours around it that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "In a love reading, the Nine of Swords describes worry at night: the replayed conversation, the message that hasn’t come, the fear of being left or of never meeting anyone. In my notes it’s also the card of coming out of a nightmare, with protection above you — the nine swords hang on the wall and never touch the figure. Nine is the end of a cycle and Air is the mind: the worst of the worrying is usually near its end. The card describes a fear, not a fact, and it never tells you what a partner is doing."
 ---
-The Nine of Swords in love is the card of the 3 a.m. worries: sitting up in the dark, replaying a sentence, imagining the worst. My own note on it is gentler than its reputation. It’s the card of coming out of a nightmare, a long troubled period, with protection above you — and that second half is the one people miss.
+The Nine of Swords in love is the card of the 3 a.m. worries: sitting up in the dark, replaying a sentence, imagining the worst. What I wrote about it in my notes is gentler than its reputation: a nightmare loosening its grip as a long hard stretch draws to a close, with something watching over you — and that second half is the one people miss.
 
 {{< cards "sw09" >}}
 
@@ -19,7 +19,7 @@ The Nine of Swords in love is the card of the 3 a.m. worries: sitting up in the 
 
 Look at where the swords are. They hang on the wall above the bed, lined up and still, and not one of them touches the person sitting up. **The card shows the fear, and the protection that is already there.** In love, that’s the gap between what you’re afraid of and what is actually happening.
 
-The number is 9: the finish line, the end of a stage, last efforts — and keep moving. Nine isn’t ten. The cycle hasn’t closed, but it’s close, which is why I read this card as the end of a bad stretch rather than its beginning. The night is long, and it’s nearly over.
+The number is 9: the last stretch before a cycle closes, the final push — and keep moving. Nine isn’t ten. The cycle hasn’t closed, but it’s close, which is why I read this card as the end of a bad stretch rather than its beginning. The night is long, and it’s nearly over.
 
 Swords belong to Air, the mind. When it works, it decides; when it doesn’t, it blocks or obsesses. At 3 a.m., Air spins: a thought becomes a scenario, the scenario becomes a certainty, and none of it has met daylight. The energy is masculine, the urge to act — send the message, check the phone, settle it now — at the one hour when nothing useful can be done. [The Nine of Swords page](/library/tarot-cards/nine-of-swords/) has the other lenses.
 
@@ -43,15 +43,15 @@ After a break-up, it’s “what if I’d said…” on a loop, at the hour when
 
 ## When the worry follows you into the day {#into-the-day}
 
-Reversed, this card either slows the worry down or lets it spill over. Slowed in the good direction, the hands come down from the face: the first night you sleep through, the morning you notice the worry has shrunk. That’s the nightmare ending.
+Reversed, this card either slows the worry down or lets it spill over. Slowed in the good direction, the figure lowers their hands: the first night you sleep through, the morning you notice the worry has shrunk. That’s the nightmare ending.
 
-In excess, the worry leaks out of the night into the day. Checking someone’s phone, needing reassurance every hour — or the opposite, telling everyone you’re fine when you haven’t slept properly in weeks. If nights like that go on, a doctor or a therapist is the right door, and there’s no shame in knocking ([where the cards stop](/disclaimers/#therapy)).
+In excess, the worry leaks out of the night into the day. Checking someone’s phone, needing reassurance every hour — or the opposite, telling everyone you’re fine when you haven’t slept properly in weeks. If nights like that go on, see a therapist or a doctor, and don’t let embarrassment hold you back ([where the cards stop](/disclaimers/#therapy)).
 
 ## Other nights in the same suit {#same-suit}
 
 {{< cards "sw08 sw10 ar19" >}}
 
-Next to the Eight of Swords, the same thoughts trap you by day and wake you at night; [the Eight of Swords in love](/blog/eight-of-swords-tarot-love/) is about the blindfold you can take off. Next to the Ten of Swords, the worst has been imagined so often that it has become the floor, and in that drawing the sky is already brightening ([the Ten of Swords in love](/blog/ten-of-swords-tarot-love/)). Next to the Sun, morning comes: a worry seen in daylight is usually smaller than the one you met at 3 a.m.
+Beside the Eight of Swords, what traps you by day is what wakes you at night; [the Eight of Swords in love](/blog/eight-of-swords-tarot-love/) is about the blindfold you can take off. Next to the Ten of Swords, the worst has been imagined so often that it has become the floor, and in that drawing the sky is already brightening ([the Ten of Swords in love](/blog/ten-of-swords-tarot-love/)). Next to the Sun, morning comes: a worry seen in daylight is usually smaller than the one you met at 3 a.m.
 
 ## Four things to do before morning {#before-morning}
 

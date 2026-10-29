@@ -25,7 +25,7 @@ Ceux qui aiment les cristaux décrivent souvent une sensation de calme, l’impr
 
 ## Les cristaux rendent-ils un tirage plus juste ? {#justesse}
 
-Pas d’après ce que j’ai pu observer. En 2021, je [vendais de la sauge, des bougies et des cartes « canalisées »](/fr/blog/purifier-son-jeu-de-tarot/), le genre de choses qu’on achète pour accompagner un jeu, et j’ai arrêté parce que rien dans tout ça n’améliorait une lecture. Je vois les cristaux de la même façon : c’est agréable à avoir, mais ce n’est pas ce qui rend une lecture juste.
+Pas d’après ce que j’ai pu observer. En 2021, je vendais moi-même [des objets de ce genre](/fr/blog/purifier-son-jeu-de-tarot/), bougies et sauge comprises, et j’ai arrêté, faute d’en avoir vu un seul améliorer une lecture. Je vois les cristaux de la même façon : c’est agréable à avoir, mais ce n’est pas ce qui rend une lecture juste.
 
 Ce que j’ai vu changer une lecture se trouve déjà sur la table. La personne m’a-t-elle dit quelque chose avant que je commence ? Est-ce que je lisais depuis deux heures, fatiguée ? Est-ce que j’essayais d’avoir raison au lieu de dire ce qui venait ? Aucun objet ne règle ces trois questions, et aucune n’en a besoin.
 
@@ -41,9 +41,9 @@ Un presse-papier. En terrasse ou près d’une fenêtre ouverte, les cartes s’
 
 Un signal de départ. Certaines personnes ont besoin d’un petit geste qui dit *maintenant, je lis* : débarrasser la table, poser une pierre, se faire un thé. Le geste aide à lâcher prise, et lâcher prise est la seule vraie pratique du tarot. Une pierre fait ça très bien. Une tasse de thé aussi.
 
-La beauté. Pour moi, collectionner des jeux de tarot, c’est comme collectionner de l’art : chaque carte est une image à travers laquelle on peut lire des messages. Les pierres peuvent occuper la même place dans votre vie, celle des choses qu’on aime regarder. C’est une raison suffisante d’en avoir.
+La beauté. Je range mes jeux de tarot du côté des œuvres d’art, des images où l’on peut aussi lire des messages. Les pierres peuvent occuper la même place dans votre vie, celle des choses qu’on aime regarder. C’est une raison suffisante d’en avoir.
 
-Une couleur sur la table. Si vous choisissez une pierre pour sa couleur, gardez ce regard : la couleur est la première clé de lecture que j’enseigne, parce que le jaune dit la joie avant même que vous sachiez quelle carte vous tenez. La [grille des couleurs](/fr/bibliotheque/couleurs-tarot/) l’applique aux cartes elles-mêmes.
+Une couleur sur la table. Si vous choisissez une pierre pour sa couleur, gardez ce regard : la couleur est la première clé de lecture que j’enseigne, et un jaune annonce la joie avant même que vous ayez reconnu la carte. La [grille des couleurs](/fr/bibliotheque/couleurs-tarot/) l’applique aux cartes elles-mêmes.
 
 ## Quand « il vous faut cette pierre » devient un argument de vente {#argument-de-vente}
 
@@ -55,7 +55,7 @@ La plupart des gens qui cherchent des pierres de protection demandent, au fond, 
 
 ## Quoi acheter à la place quand on débute {#debuter}
 
-Un jeu. Je fais commencer tout le monde avec le Rider-Waite-Smith de 1909, parce que chaque carte porte une scène qu’on peut lire sans livre ; [voici pourquoi ce jeu-là](/fr/blog/quel-jeu-de-tarot-choisir/). Puis un carnet, pour noter ce que vous avez dit et ce qui a été confirmé. C’est toute la liste de courses.
+Un jeu. Je fais commencer tout le monde avec le Rider-Waite-Smith de 1909, parce que même ses cartes numérotées montrent une scène, qu’on déchiffre sans manuel ; [voici pourquoi ce jeu-là](/fr/blog/quel-jeu-de-tarot-choisir/). Puis un carnet, où noter vos phrases et ce qu’il en est advenu. C’est toute la liste de courses.
 
 Aucun rituel n’est nécessaire pour commencer. Pour votre première semaine avec un nouveau jeu, je préfère que vous [regardiez chaque carte plutôt que de le purifier](/fr/blog/nouveau-jeu-de-tarot/).
 

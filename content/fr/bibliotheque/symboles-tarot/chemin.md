@@ -8,7 +8,7 @@ weight: 28
 categories: ["Symboles"]
 tags: ["symboles du tarot", "chemin", "Tempérance", "la Lune", "symbolisme du tarot"]
 h1: "Le chemin — la voie est <em>tracée</em>, la marche ne l’est pas"
-lede: "Un chemin, c’est une voie que d’autres ont parcourue avant vous. Dans le Rider-Waite-Smith, il monte d’un bassin vers les montagnes sur Tempérance et la Lune, traverse l’arche d’un jardin sur l’As de Pentacles et file vers la ville derrière le Huit de Pentacles."
+lede: "Un chemin, c’est une voie que d’autres ont parcourue avant vous. On le voit monter d’un bassin vers les montagnes sur Tempérance et la Lune, traverse l’arche d’un jardin sur l’As de Pentacles et file vers la ville derrière le Huit de Pentacles."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/temperance
@@ -69,15 +69,15 @@ Et une carte sans chemin : sur le Huit de Coupes, un homme s’éloigne de ses c
 
 {{< zoom "path" "rest" >}}
 
-Les sommets vers lesquels mènent ces chemins ont [leur propre page](/fr/bibliotheque/symboles-tarot/montagne/).
+Pour les sommets où mènent ces chemins, voyez [la montagne](/fr/bibliotheque/symboles-tarot/montagne/).
 
 ## Comment le lire {#lecture}
 
 Quand un chemin sort, regardez où il commence, s’il y a de la lumière au bout, et qui s’y trouve. Sur Tempérance et la Lune, il part de l’eau, des émotions, et monte vers les montagnes : de ce qu’on ressent vers ce qu’on vise. Sur l’As de Pentacles, il part d’un jardin : un début concret, avec le portail déjà ouvert.
 
-Les clés de lecture : Tempérance est [Feu](/fr/bibliotheque/quatre-elements/element-feu/), la Lune est Eau, l’As de Pentacles est Terre. Le même chemin peut donc être un élan à suivre (Feu), un ressenti auquel on se fie sans voir loin (Eau), ou un plan concret (Terre). Le nombre : le Huit de Pentacles porte le 8 — dans mes notes, la maîtrise et l’effort qu’elle demande. Sa route, c’est là où finit par aller le travail bien fait.
+Chaque carte a son élément : Tempérance est [Feu](/fr/bibliotheque/quatre-elements/element-feu/), la Lune est Eau, l’As de Pentacles est Terre. Le même chemin peut donc être un élan à suivre (Feu), un ressenti auquel on se fie sans voir loin (Eau), ou un plan concret (Terre). Le nombre : le Huit de Pentacles porte le 8 — dans mes notes, un savoir-faire qu’on n’obtient qu’à force de travail. Sa route, c’est là où finit par aller le travail bien fait.
 
-Imaginons que quelqu’un tire la Lune alors qu’il hésite à déménager dans une autre ville. Le chemin pourrait dire : la voie existe, même si ce soir vous ne voyez que les quelques pas devant vous.
+Supposons que la Lune sorte pour quelqu’un qui hésite à déménager dans une autre ville. Le chemin pourrait dire : la voie existe, même si ce soir vous ne voyez que les quelques pas devant vous.
 
 ## L’autre face {#revers}
 
@@ -87,6 +87,6 @@ Et un chemin où personne ne marche, comme ceux de Tempérance et de la Lune, pe
 
 ## Avec les autres clés {#cles}
 
-Regardez [le Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/) : dans mes notes, c’est passer à autre chose que ce qu’on fait déjà, et personne ne lui a dessiné de route.
+Regardez [le Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/) : dans mes notes, il délaisse ce qu’il faisait pour partir vers autre chose, et personne ne lui a dessiné de route.
 
 {{% six %}}

@@ -41,7 +41,7 @@ Extreme can also be a matter of how often. A reading before every decision, a ri
 
 ## Egos nobody needs {#ego}
 
-The third reason is ego: the one who thinks they're saving the world, the one who believes they're among the chosen few, the "awakened" who feel above everyone else. I've written about [those three egos, and how a reader avoids becoming one](/blog/tarot-practice-without-guru/).
+The third reason is ego, in three familiar shapes: the self-appointed saviour of the world, the member of a gifted few, and the "awakened" person looking down on the rest. I've written about [those three egos, and how a reader avoids becoming one](/blog/tarot-practice-without-guru/).
 
 What worries me isn't that someone has an ego; everyone does. It's who pays for it. People often arrive in a circle at a fragile moment, and a confident voice that believes it's special can be risky for them. There are no Chosen Ones, in a circle or anywhere else.
 

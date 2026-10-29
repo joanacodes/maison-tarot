@@ -50,11 +50,11 @@ The four in the title, a little closer.
 
 ### 222: an agreement {#222}
 
-222 is two parties binding themselves: a contract, a relationship, a promise. Read the small print, weigh the pros and cons. Its minus is stubbornness.
+222 is two parties binding themselves: a contract, a relationship, a promise. Read the small print and set what you gain against what you give; where a 2 goes wrong, it turns stubborn.
 
 ### 444: what you’ve built {#444}
 
-444 is the 2 doubled: the contract has held, and now there’s something stable and built. The advice is to stay open to what you hadn’t planned. The minus is carrying on when you should stop — holding a structure in place out of habit, after it has stopped holding you.
+444 is the 2 doubled: the contract has held, and now there’s something stable and built. The advice is to stay open to what you hadn’t planned. Its shadow is persisting past the point where you ought to quit — holding a structure in place out of habit, after it has stopped holding you.
 
 ### 777: wait, and think {#777}
 

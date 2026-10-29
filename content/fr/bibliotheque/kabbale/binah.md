@@ -8,7 +8,7 @@ weight: 4
 categories: ["Kabbale"]
 tags: ["Binah", "Kabbale et tarot", "Arbre de Vie", "Trois du tarot", "Reines du tarot", "Saturne"]
 h1: "Binah — l’<em>Intelligence</em>, la forme"
-lede: "Binah est la troisième sephirah, l’intelligence qui prend un éclair d’intuition et lui donne une forme. La Golden Dawn lui a donné les quatre Trois, les quatre Reines et Saturne : trois façons de dire qu’une idée a désormais des murs."
+lede: "Binah est la troisième sephirah, l’intelligence qui prend un éclair d’intuition et lui donne une forme. Côté tarot, elle reçoit les quatre Trois, les quatre Reines et Saturne : trois façons de dire qu’une idée a désormais des murs."
 related:
 - /bibliotheque/kabbale
 - /bibliotheque/kabbale/arbre-de-vie
@@ -16,7 +16,7 @@ related:
 - /bibliotheque/astrologie/saturne
 faq:
 - q: "Quelles cartes du tarot correspondent à Binah ?"
-  a: "Les quatre Trois et, dans le système de la Golden Dawn, les quatre Reines. Les Reines sont le seul rang de la cour qui garde son nom de la Golden Dawn au Rider-Waite-Smith."
+  a: "Les quatre Trois, auxquels la Golden Dawn ajoute les quatre Reines — le seul rang de la cour qui garde son nom de la Golden Dawn au Rider-Waite-Smith."
 - q: "Pourquoi Binah est-elle associée à Saturne ?"
   a: "Parce que la Golden Dawn a donné à chaque sephirah une sphère du ciel, et que Saturne est celle de Binah. C’est une correspondance hermétique, pas la définition juive de Binah : la forme, les limites et le temps, lus à travers la plus lente des planètes anciennes."
 gallery: []
@@ -33,24 +33,24 @@ Sur l’Arbre, Binah porte le numéro 3, en haut de la colonne de gauche, le cô
 
 ## Les quatre Trois {#cartes}
 
-Dans le système de la Golden Dawn, la mère des sephirot devient une sphère gouvernée par Saturne, et son nombre lui vaut les quatre Trois.
+Une fois passée par la Golden Dawn, la mère des sephirot devient une sphère gouvernée par Saturne, et son nombre lui vaut les quatre Trois.
 
 {{< cards "wa03 cu03 sw03 pe03" >}}
 
-| Carte | Titre Golden Dawn, traduit (décan) | Ce que Binah ajoute |
+| Carte | Titre (décan) | Ce que Binah ajoute |
 |---|---|---|
 | [Trois de Bâtons](/fr/bibliotheque/cartes-tarot/trois-de-batons/) | Seigneur de la Force établie (Soleil en Bélier) | le plan lancé, les navires déjà sur l’eau |
 | [Trois de Coupes](/fr/bibliotheque/cartes-tarot/trois-de-coupes/) | Seigneur de l’Abondance (Mercure en Cancer) | un sentiment qui trouve un cercle où vivre |
 | [Trois d’Épées](/fr/bibliotheque/cartes-tarot/trois-de-epees/) | Seigneur du Chagrin (Saturne en Balance) | la compréhension qui fait mal : voir clairement ce qui s’est passé |
 | [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/) | Seigneur des Travaux matériels (Mars en Capricorne) | les plans lus ensemble, le métier qui leur donne un corps |
 
-Le nombre dit déjà que la machine tourne : le [3](/fr/bibliotheque/numerologie/chiffre-3/), c’est le bon rythme, le contrat qui fonctionne, avec un conseil — finir un projet avant d’en commencer un autre. Binah dit pourquoi ça tourne : quelqu’un a pris le temps de comprendre. Mes notes sur les Trois gardent un autre rappel : le Trois d’Épées, c’est aussi un pacte de sang. Vu par Binah, cela se tient — une compréhension qui lie, même quand elle coûte.
+Le nombre dit déjà que la machine tourne : le [3](/fr/bibliotheque/numerologie/chiffre-3/), c’est le bon rythme, le contrat qui fonctionne, et son conseil : boucler ce qui est en cours avant de lancer autre chose. Binah dit pourquoi ça tourne : quelqu’un a pris le temps de comprendre. Mes notes donnent aussi au Trois d’Épées le sens d’un serment scellé dans le sang. Vu par Binah, cela se tient — une compréhension qui lie, même quand elle coûte.
 
 ## Les Reines {#figures}
 
 Le Livre T de la Golden Dawn range les quatre rangs de la cour sur l’Arbre selon les quatre lettres du Nom, YHVH. La deuxième lettre, He, l’Eau de chaque série, revient à Binah. Sa figure est une Reine sur un trône : pour les Bâtons, la « Reine des Trônes de Flamme ».
 
-Le passage des titres de la Golden Dawn aux figures du Rider-Waite-Smith fait débat — surtout pour les Rois et les Cavaliers, voir Hokhmah — et des autrices comme Benebell Wen le disent ouvertement. **Les Reines sont le seul rang qui garde son nom d’un système à l’autre.** Les quatre siègent en Binah, chacune l’Eau de sa série, comme sur les pages de cartes de ce site, où la Reine de Coupes est Eau d’Eau.
+Le passage des titres de la Golden Dawn aux figures du Rider-Waite-Smith fait débat — surtout pour les Rois et les Cavaliers, voir Hokhmah — et des autrices comme Benebell Wen le disent ouvertement. **Les Reines sont le seul rang qui garde son nom d’un système à l’autre.** Les quatre siègent en Binah, chacune l’Eau de sa série ; c’est pourquoi, sur ce site, la Reine de Coupes est Eau d’Eau.
 
 {{< cards "waqu cuqu swqu pequ" >}}
 

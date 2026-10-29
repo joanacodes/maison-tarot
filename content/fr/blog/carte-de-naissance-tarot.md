@@ -60,11 +60,11 @@ Certains additionnent chaque chiffre un par un, comme pour le chemin de vie (1 +
 
 Reprenons l’exemple. [La Justice](/fr/bibliotheque/cartes-tarot/la-justice/), c’est 11, donc 2 une fois réduit ; l’Air ; la Balance dans la Golden Dawn. Un personnage assis tient une épée levée et une balance. [La Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), c’est 2 ; l’Eau ; la Lune. Mes notes sur elle : la lune influence l’eau, sa robe tombe comme une cascade, et elle sait beaucoup de choses — avec une façade sur le reste, comme la face de la lune qu’on ne voit jamais.
 
-Les deux sont des 2, et les deux sont assises entre deux colonnes. Dans mon [tableau de numérologie](/fr/bibliotheque/numerologie/), le 2, c’est la coopération, le contrat, peser le pour et le contre ; son revers, l’entêtement, la solitude, l’ego. L’Air et l’Eau ensemble : décider avec la tête, ressentir sous la surface.
+Les deux sont des 2, et les deux sont assises entre deux colonnes. Dans mon [tableau de numérologie](/fr/bibliotheque/numerologie/), le 2 parle de deux parties qui s’engagent l’une envers l’autre, avec un conseil : examiner l’accord sous tous ses angles avant de signer. Quand il tourne mal, il se bute, s’isole et laisse l’ego mener. L’Air et l’Eau ensemble : décider avec la tête, ressentir sous la surface.
 
 Une phrase à tester sur vous : « Vous pesez les choses avant de décider, et vous en savez plus que vous n’en dites. Le revers : des décisions gardées trop longtemps derrière un visage calme. »
 
-**Chaque carte a un plus et un moins, et la carte de naissance ne fait pas exception : lisez les deux avant de décider qu’elle vous décrit.**
+**Votre paire a ses forces et ses travers, comme n’importe quelle carte : lisez les deux avant de décider qu’elle vous décrit.**
 
 ## Quoi en faire {#quoi-en-faire}
 

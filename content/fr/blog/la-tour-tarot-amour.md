@@ -17,11 +17,11 @@ La Tour en amour, c’est le moment où tout tremble : une vérité éclate, une
 
 ## L’éclair, puis le bilan {#le-bilan}
 
-La Tour (la Maison Dieu au tarot de Marseille) porte le 16, et 1 + 6 = 7. Dans mes notes, le 7, c’est la réflexion, la patience, l’analyse avant l’action, et son conseil, c’est que tout est temporaire : votre situation, bonne ou mauvaise, va changer. Drôle de chiffre pour la lame la plus violente du jeu, et c’est justement la clé pour la lire en amour. **L’éclair n’est pas la fin de l’histoire ; c’est le début du bilan.**
+La Tour (la Maison Dieu au tarot de Marseille) porte le 16, et 1 + 6 = 7. Dans mes notes, le 7 prend son temps : il réfléchit, il patiente, il examine avant d’agir. Et il rappelle que rien n’est figé : ce que vous vivez, heureux ou non, finira par bouger. Drôle de chiffre pour la lame la plus violente du jeu, et c’est justement la clé pour la lire en amour. **L’éclair n’est pas la fin de l’histoire ; c’est le début du bilan.**
 
 L’élément, c’est le Feu, qui détruit d’un coup. L’Eau, dans mes notes, détruit plus profond et plus lentement, comme l’humidité qui ronge un mur derrière le papier peint. Dans un couple, la Tour est très souvent les deux à la fois : l’éclair ne fait tomber que ce que l’eau fragilisait depuis des mois — la rancœur jamais dite, la discussion repoussée d’un week-end à l’autre. C’est la goutte d’eau qui fait déborder le vase, sauf qu’ici, elle tombe du ciel en feu.
 
-L’énergie est masculine : l’action, l’impatience, la scène. Les moments Tour arrivent rarement en silence. Ils arrivent dans la cuisine à minuit, ou devant les amis. Et le dessin s’arrête en pleine chute ; on ne voit jamais où les deux personnages atterrissent. Tout ce que vous redoutez pour la suite, c’est votre imagination qui remplit le cadre. Les autres clés sont sur [la page de la Tour](/fr/bibliotheque/cartes-tarot/la-tour/).
+L’énergie est masculine : l’action, l’impatience, la scène. Les moments Tour arrivent rarement en silence. Ils arrivent dans la cuisine à minuit, ou devant les amis. Et le dessin s’arrête en pleine chute ; on ne voit jamais où les deux personnages atterrissent. Tout ce que vous redoutez pour la suite, c’est votre imagination qui remplit le cadre. [La page de la Tour](/fr/bibliotheque/cartes-tarot/la-tour/) reprend le dessin en entier, de la couronne aux flammes.
 
 ## Là où tombe la foudre {#la-foudre}
 
@@ -41,7 +41,7 @@ La suite de la relation après la Tour, je ne la lis pas : elle dépend de deux 
 
 Une question plus douce : « Qu’est-ce que ça m’a montré que je ne voulais pas voir ? » Puis : « De quoi ai-je besoin cette semaine pour me sentir stable ? » Celles-là trouvent leur réponse chez vous. Elles mènent aussi, tout naturellement, à la conversation qui décidera du reste — celle avec l’autre, pas avec un jeu de cartes.
 
-Si une carte semble un jour vous dire de rester ou de partir, souvenez-vous que [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/). Agissez selon ce que vous ressentez, avec les personnes concernées, à votre rythme.
+Si une carte semble un jour vous dire de rester ou de partir, rappelez-vous que [le tarot n’a pas le dernier mot](/fr/blog/le-tarot-nest-pas-une-autorite/) : fiez-vous à ce que vous ressentez pour agir, avec les personnes concernées, à votre rythme.
 
 ## Les premiers jours après la secousse {#premiers-jours}
 
@@ -49,10 +49,10 @@ C’est la partie du titre qui compte le plus. La carte ne peut pas vous dire la
 
 1. **Ne décidez rien dans l’éclair.** Le 7, c’est l’analyse avant l’action. Partir, rester, pardonner, confronter : rien de tout ça ne doit être tranché ce soir.
 2. Retrouvez d’abord le sol sous vos pieds. Dormir, manger, marcher, appeler l’ami qui ne prend pas parti. Le feu se calme quand il n’a plus rien à brûler.
-3. Faites deux listes : ce qui est tombé, et ce qui tient encore. La seconde est presque toujours plus longue que prévu.
+3. Sur une feuille, séparez ce que la foudre a emporté de ce qui est resté debout. La deuxième colonne surprend presque toujours par sa longueur.
 4. Parlez quand le feu est retombé. Une conversation trois jours plus tard en dit plus qu’une conversation hurlée à minuit.
 5. Si vous avez peur de quelqu’un, ce n’est pas une question pour une carte. Parlez-en à une personne de confiance, et tournez-vous vers un professionnel ou une ligne d’écoute spécialisée : en France, le 3919, gratuit et anonyme, répond jour et nuit ; ailleurs, le service équivalent de votre pays. En cas de danger immédiat, appelez le 17 ou le 112. Les cartes peuvent accueillir ce que vous ressentez ; elles ne peuvent pas vous protéger.
-6. Posez le jeu un moment. Tirer une carte toutes les heures après un choc, c’est le choc qui parle.
+6. Posez le jeu un moment. Juste après une secousse, les cartes qu’on tire en rafale ne font que rejouer la secousse.
 
 ## Les cartes qui entourent la chute {#la-chute}
 

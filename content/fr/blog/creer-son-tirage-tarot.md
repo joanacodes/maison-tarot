@@ -19,7 +19,7 @@ Répondez-y sur papier : vous aurez un tirage plus ajusté que n’importe quel 
 
 Écrivez-la en une phrase. S’il en faut trois, vous avez trois questions, et sans doute trois tirages.
 
-Vérifiez ensuite que les cartes peuvent la porter. Les bonnes questions parlent de votre vie, au présent, et vous laissent une prise pour agir. « Qu’est-ce qui m’empêche de finir mon dossier de candidature ? » fonctionne. « Est-ce qu’il va la quitter ? » est plus délicat : la question porte sur quelqu’un qui n’est pas là, et elle demande aux cartes de trancher à la place de quelqu’un d’autre. La santé, la grossesse, les procédures en cours et les décisions d’argent sont aussi des sujets sur lesquels je ne lis pas, parce qu’un mot de travers y coûte trop cher. J’ai rassemblé [des façons plus douces de poser les questions qui se cachent derrière](/fr/blog/questions-a-eviter-tarot/).
+Vérifiez ensuite que les cartes peuvent la porter. Les bonnes questions parlent de votre vie, au présent, et vous laissent une prise pour agir. « Qu’est-ce qui m’empêche de finir mon dossier de candidature ? » fonctionne. « Est-ce qu’il va la quitter ? » est plus délicat : la question porte sur quelqu’un qui n’est pas là, et elle demande aux cartes de trancher à la place de quelqu’un d’autre. Il y a aussi la santé, la grossesse, les procédures en cours et les décisions d’argent : je ne m’aventure pas sur ces terrains, où une carte mal comprise peut faire de vrais dégâts. J’ai rassemblé [des façons plus douces de poser les questions qui se cachent derrière](/fr/blog/questions-a-eviter-tarot/).
 
 **Un tirage ne vaut jamais mieux que la question autour de laquelle il est construit.**
 
@@ -61,9 +61,9 @@ En une phrase : « Vous en avez envie pour elle-même ; ce qui vous retient, c�
 
 ## Construire un tirage pour quelqu’un qui ne vous dit rien {#a-l-aveugle}
 
-Quand je lis pour quelqu’un, la personne ne me donne pas sa question. Je ne peux donc pas bâtir le tirage autour d’elle, et j’utilise des positions qui vont à n’importe quelle vie : ce qui est là, ce qui bloque, ce que vous pouvez faire. La personne garde sa question pour elle et vérifie à la fin si elle a reçu une réponse. C’est [la règle du silence](/fr/blog/regle-du-silence-tarot/), et elle vaut pour un tirage maison comme pour un classique.
+Quand je lis pour quelqu’un, la personne ne me donne pas sa question. Je ne peux donc pas bâtir le tirage autour d’elle, et j’utilise des positions qui vont à n’importe quelle vie : l’état des lieux, l’obstacle, et ce qui est à votre portée. La personne garde sa question pour elle et vérifie à la fin si elle a reçu une réponse. C’est [la règle du silence](/fr/blog/regle-du-silence-tarot/), et elle vaut pour un tirage maison comme pour un classique.
 
-C’est ma façon de faire, pas la seule. Certains tarologues posent le même schéma pour toutes les questions de travail ; d’autres inventent une disposition pour chaque personne, et tous savent expliquer pourquoi — une des raisons pour lesquelles je vois la lecture comme [un art à part entière](/fr/blog/le-tarot-est-il-un-art/). Chaque tirage saisit un moment qui ne reviendra pas : construisez celui qui lui va.
+C’est ma façon de faire, pas la seule. Certains tarologues posent le même schéma pour toutes les questions de travail ; d’autres inventent une disposition pour chaque personne, et chacun peut défendre son choix. C’est l’une des choses qui rapprochent [la lecture d’un art](/fr/blog/le-tarot-est-il-un-art/). Chaque tirage saisit un moment qui ne reviendra pas : construisez celui qui lui va.
 
 ## À essayer ce soir {#essayer}
 

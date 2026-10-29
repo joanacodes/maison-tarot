@@ -1,7 +1,7 @@
 ---
 title: 'Dix de Bâtons (Ten of Wands) — tarot Rider-Waite-Smith : lire la carte par
   ses clés de lecture'
-description: 'Dix de Bâtons : un homme plié sous dix branches, presque arrivé, porte tout seul. Lisez la charge et ce qu’on peut poser par le 10, le Feu et Saturne.'
+description: 'Dix de Bâtons : un homme plié sous dix branches, presque arrivé, porte tout seul. Lisez la charge, et ce qu’on peut en poser, par le nombre, le Feu et Saturne.'
 translationKey: card-wa10
 type: cards
 navTitle: Dix de Bâtons
@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/wa10.webp
 h1: Dix de Bâtons — <em>dix</em>, le Feu
-lede: 'Avant de chercher ce que « signifie » Dix de Bâtons, regardez ce que vous avez
-  déjà : dix, l’élément Feu, Saturne en Sagittaire. Vous lisez la carte. Le nombre
-  dit dix — la fin du cycle, la transition ; l’élément dit l’élan, ce qu’on lance.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Un homme plié sous dix bâtons serrés contre lui marche vers une maison toute proche, sans même voir la porte. Lequel de ces fardeaux pourriez-vous poser, ou confier, avant d’arriver ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -51,9 +47,9 @@ Personne ne l’aide. Pas de charrette, pas d’autres bras, pas de chemin visib
 
 ## Par le nombre : dix {#nombre}
 
-Le [10](/fr/bibliotheque/numerologie/chiffre-10/), c’est le couloir entre deux pièces, et cet homme le traverse les bras chargés. Il apporte la liberté, le changement, le souffle — rien de tout cela n’est encore pour lui. Le Dix de Bâtons, c’est le cycle du Feu qui se clôt : tout ce que vous avez allumé depuis l’As est maintenant dans vos bras, d’un seul coup.
+Le [10](/fr/bibliotheque/numerologie/chiffre-10/) est un couloir : on a quitté une pièce sans être encore dans l’autre, et cet homme le traverse les bras chargés. Il apporte la liberté, le changement, le souffle — rien de tout cela n’est encore pour lui. Le Dix de Bâtons, c’est le cycle du Feu qui se clôt : tout ce que vous avez allumé depuis l’As est maintenant dans vos bras, d’un seul coup.
 
-Ma note sur cette carte : garder l’énergie créatrice, sans se surcharger. Chaque bâton contre sa poitrine a d’abord été une idée qui valait la peine. Qui trop embrasse mal étreint, dit le proverbe, et le 10 ne demande pas de tout lâcher : il demande de ne pas passer la porte suivante avec les dix. Dans l’histoire d’Instagram, le 10, c’est la plateforme devenue tout autre chose — l’ancienne forme ne traverse pas le couloir intacte, et ce n’est pas son rôle.
+Ma note sur cette carte : garder l’énergie créatrice, sans se surcharger. Chaque bâton contre sa poitrine a d’abord été une idée qui valait la peine. Qui trop embrasse mal étreint, dit le proverbe, et le 10 ne demande pas de tout lâcher : il demande de ne pas passer la porte suivante avec les dix. Au bout de son cycle, Instagram ne ressemble plus à l’application du début : l’ancienne forme ne traverse pas le couloir intacte, et ce n’est pas son rôle.
 
 ## Par l’élément : Feu {#element}
 
@@ -69,9 +65,9 @@ Le sol est d’un [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) plat : la volo
 
 ## Par l’astrologie : Saturne en Sagittaire {#astrologie}
 
-Dans la tradition Golden Dawn, le Dix de Bâtons correspond à Saturne en Sagittaire. [Saturne](/fr/bibliotheque/astrologie/saturne/), c’est la responsabilité, le poids qu’on accepte de porter. Le Sagittaire veut la route ouverte. Ensemble, le voyage devient un devoir : on voyage toujours, mais avec tous les bagages sur le dos.
+Saturne en Sagittaire : c’est le décan que la Golden Dawn attribue au Dix de Bâtons. [Saturne](/fr/bibliotheque/astrologie/saturne/), c’est la responsabilité, le poids qu’on accepte de porter. Le Sagittaire veut la route ouverte. Ensemble, le voyage devient un devoir : on voyage toujours, mais avec tous les bagages sur le dos.
 
-Quand j’ai testé mon thème puis ceux d’autres personnes, Saturne a fait partie des trois placements qui tenaient le mieux, entre 75 et 90 % (avec Lilith et Chiron). Je garde donc cette correspondance quand le Dix sort, mais elle reste facultative : le dessin suffit sans elle.
+Quand j’ai testé mon thème puis ceux d’autres personnes, Saturne a fait partie des trois placements qui tenaient le mieux, entre 75 et 90 % (avec Lilith et Chiron). Je garde donc cette correspondance quand le Dix sort ; qui lit sans astrologie trouve déjà tout dans le dos courbé de l’homme.
 
 ## En lecture {#lecture}
 
@@ -79,7 +75,7 @@ Quand j’ai testé mon thème puis ceux d’autres personnes, Saturne a fait pa
 
 Renversé, deux chemins. Soit le fagot l’emporte, et tout tombe en tas à quelques mètres de la porte. Soit une partie est enfin posée — confiée, annulée, refusée — et le renversement devient un soulagement plutôt qu’une chute.
 
-Si le poids que décrit la personne semble logé dans le corps — le sommeil parti, une fatigue qui ne passe pas —, c’est l’affaire d’un médecin plutôt que d’une carte. La santé fait partie [des sujets sur lesquels je ne lis pas](/fr/avertissements/#refus), parce qu’un mot de travers y coûte trop cher ; ce que la carte peut porter en attendant, c’est la question de ce qu’on pose en premier.
+Si le poids que décrit la personne semble logé dans le corps — le sommeil parti, une fatigue qui ne passe pas —, c’est l’affaire d’un médecin plutôt que d’une carte. [La santé n’entre pas dans mes tirages](/fr/avertissements/#refus) : sur ce terrain, une phrase mal tournée pèse trop lourd. Le Dix, lui, peut accueillir une question plus légère : quel bâton poser en premier.
 
 À côté du [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/), la réponse est dans l’image : un artisan au travail pendant que deux autres tiennent le plan — partagez. À côté du [Quatre de Bâtons](/fr/bibliotheque/cartes-tarot/quatre-de-batons/), que je lis comme des fondations et une famille qui se construit, la maison devient une fête qui vaut la peine d’arriver. À côté du [Monde](/fr/bibliotheque/cartes-tarot/le-monde/), l’arcane majeur de Saturne, le cycle se ferme pour de bon : il passe la porte.
 
@@ -89,6 +85,6 @@ Si le poids que décrit la personne semble logé dans le corps — le sommeil pa
 
 Cette paire ne vient d’aucun tirage réel : le Dix de Bâtons suivi de l’[As de Bâtons](/fr/bibliotheque/cartes-tarot/as-de-batons/), réunis pour montrer un cycle qui se retourne. Du 10 au 1, la fin d’un cycle, puis le début d’un autre ; Feu et Feu, la même énergie, dépensée, puis renouvelée ; un homme plié sous dix branches, puis une seule branche tendue par une main qui sort d’un nuage.
 
-Ce que vous pourriez dire : « Vous terminez quelque chose de lourd, et une idée neuve réclame déjà vos bras. Posez le fagot avant de la prendre. »
+Du fagot à la branche unique : « Vous terminez quelque chose de lourd, et une idée neuve réclame déjà vos bras. Posez le fagot avant de la prendre. »
 
-Puis vous vérifiez : « Y a-t-il quelque chose que vous portez et que vous pourriez confier à quelqu’un ce mois-ci ? » Sa réponse vous dit si vous avez lu la bonne charge. Si rien ne correspond, c’est un raté ; n’allez pas chercher dans la carte suivante de quoi le rattraper.
+Ensuite, une question : « Parmi ce que vous portez, qu’est-ce qui pourrait passer dans d’autres bras ce mois-ci ? » Sa réponse vous dit si vous avez lu la bonne charge. Si la personne ne porte rien de trop, la lecture s’est trompée de fardeau ; n’allez pas en chercher un autre dans la carte suivante.

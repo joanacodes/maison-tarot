@@ -36,7 +36,7 @@ Quelques schémas que je surveillerais, chez vous comme chez un tarologue :
 - « C’est mon signe », pour éviter de s’excuser. [L’astrologie comme excuse](/fr/blog/lastrologie-nest-pas-une-excuse/) est une proche cousine du contournement.
 - La pensée positive utilisée comme un couvercle : répéter que tout va bien pour ne pas avoir à vérifier si c’est vrai. Il y a une vraie différence entre [une affirmation et la positivité toxique](/fr/blog/affirmations-ou-positivite-toxique/).
 
-Une carte illustre très bien tout ça : le Huit d’Épées, une femme aux yeux bandés entourée de lames. Dans mes notes, elle est prisonnière d’elle-même alors qu’elle a tous les outils pour sortir : elle peut retirer son bandeau.
+Une carte illustre très bien tout ça : le Huit d’Épées, une femme aux yeux bandés entourée de lames. Mes notes la décrivent enfermée par elle-même, avec pourtant de quoi s’en aller : le bandeau, elle peut l’enlever.
 
 {{< cards "sw08" >}}
 
@@ -46,7 +46,7 @@ Le contournement est un bandeau qu’on se noue soi-même, en général pour de 
 
 Parce que ça nous protège. Une explication spirituelle va plus vite qu’une émotion, et elle arrive avec une impression de sens que l’émotion n’apporte pas. Le contournement est un bouclier, et il vous aide parfois à traverser une semaine que vous n’auriez pas traversée autrement.
 
-Le problème commence quand le bouclier reste levé. Le travail sur l’ombre, tel que je le définis, consiste à s’occuper de ce qu’on repousse sans cesse pour tenir au quotidien — ces mêmes choses qui finissent par vous handicaper. Ce qu’on contourne ne disparaît pas. Ça agit comme l’eau : une émotion négligée s’infiltre lentement dans les fondations, comme la moisissure ronge une maison de l’intérieur.
+Le problème commence quand le bouclier reste levé. Le travail sur l’ombre, tel que je le définis, c’est prendre en main ce qu’on met de côté jour après jour pour continuer d’avancer — et qui, à force, finit par vous entraver. Ce qu’on contourne ne disparaît pas. Ça agit comme l’eau : une émotion négligée s’infiltre lentement dans les fondations, comme la moisissure ronge une maison de l’intérieur.
 
 ## Comment distinguer une pratique d’un contournement {#distinguer}
 

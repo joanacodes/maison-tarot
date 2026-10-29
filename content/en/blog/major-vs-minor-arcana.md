@@ -27,7 +27,7 @@ I read them with the same lenses as any other card — colour, number, element �
 
 ## What the minor arcana are {#minor-arcana}
 
-The minor arcana are the other 56 cards. They’re organised like a pack of playing cards: four suits — Wands, Cups, Swords and Pentacles — and in each suit an Ace, the numbers Two to Ten, and four court cards (Page, Knight, Queen, King). Four suits of fourteen cards: 56.
+The minor arcana are the other 56 cards. They’re organised like a pack of playing cards. Each of the four suits — Wands, Cups, Swords, Pentacles — has fourteen cards, counting from Ace to Ten before its four court figures, Page up to King. Four times fourteen: 56.
 
 They describe what happens on a Tuesday. Three friends raising their cups in a garden (Three of Cups). Hours at the workbench (Eight of Pentacles). A night you can’t sleep (Nine of Swords). Pamela Colman Smith drew a scene on every one of them in 1909, which is why the Rider-Waite-Smith is readable from the first day; in the Tarot de Marseille, the numbered minors show only arrangements of cups, coins, batons or swords.
 
@@ -43,7 +43,7 @@ You don’t need to learn them one by one. Ten numbers and four suits cover the 
 | Time scale | Months, years, a chapter | Days, weeks, a situation |
 | The question they answer | What is this period about? | What’s happening, and what can you do with it? |
 
-**A major isn’t more important than a minor; it’s slower.** The Five of Cups is a minor, and to my eye it’s the heaviest card in the deck: losing, dark emotion, being alone with your problems. It still describes a moment, not a life.
+**A major isn’t more important than a minor; it’s slower.** The Five of Cups is a minor, and for me no card in the deck is harder to draw: loss, gloom, and having to face it on your own. It still describes a moment, not a life.
 
 ## What it changes in a spread {#in-a-spread}
 
@@ -55,11 +55,11 @@ So the number of majors tells you how large the matter is:
 - One major: it sets the theme, and the minors say where it plays out.
 - Two or three majors in a small spread: the person is in the middle of something bigger than the question. Read the majors first, slowly.
 
-Say someone sits down, tells you nothing, and draws the Hermit, the Eight of Pentacles and the Two of Cups. One major: the Hermit, a 9 — the end of a cycle, introspection. Two minors: Earth and 8, mastery and effort; Water and 2, a bond between two people being agreed.
+Take three cards drawn by a person whose question you haven’t heard: the Hermit, the Eight of Pentacles and the Two of Cups. One major: the Hermit, a 9 — the end of a cycle, introspection. Two minors: Earth and 8, mastery and effort; Water and 2, a bond between two people being agreed.
 
 {{< cards "ar09 pe08 cu02" >}}
 
-You might say: “You’re in a longer period of stepping back. Inside it, day to day, you’re working hard, and something between you and one other person is being settled.” Then you stop, and let them tell you whether it lands.
+You might say: “You’re in a longer period of stepping back. Inside it, day to day, you’re working hard, and something between you and one other person is being settled.” Then go quiet and let them judge whether any of it fits.
 
 ## Which group to learn first {#which-first}
 

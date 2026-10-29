@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/wa09.webp
 h1: Nine of Wands — <em>nine</em>, Fire
-lede: 'Before looking up what Nine of Wands “means”, look at what you already have:
-  nine, the element Fire, Moon in Sagittarius. You’re reading the card. The number
-  says nine — near completion, almost there; the element says drive, what you launch.
-  Lay the two over each other, add the colours, and the card is already talking —
-  the rest of the page shows you how.'
+lede: 'Head bandaged, a man grips a staff in front of a fence of planted ones and glances sideways at a blow that never comes. Why stay braced, this close to the end?'
 related:
 - /library/numerology
 - /library/four-elements/fire-element
@@ -52,7 +48,7 @@ What’s missing is the enemy. No one attacks, nothing comes over the hill. **He
 
 [Nine](/library/numerology/number-9/) is the finish line in sight: last efforts, patience, a look inward before the cycle closes — and you keep moving. That’s the drawing exactly. Eight wands are already planted behind him, the ninth is in his hands; one more and the series is complete. He isn’t starting anything, he’s holding on near the end.
 
-The risk of 9 is stopping a hundred metres from the line — or, here, standing guard so long that you forget to walk the last stretch. In the Instagram story, 9 is the redesign built around Reels: what defined the app is ending, and the next form isn’t there yet. The Nine of Wands is that in-between, lived with your back to a fence.
+The risk of 9 is stopping a hundred metres from the line — or, here, standing guard so long that you forget to walk the last stretch. Instagram went through its own 9 when it rebuilt itself around Reels: the app people knew was ending, and its next form hadn’t arrived. The Nine of Wands is that in-between, lived with your back to a fence.
 
 ## By element: Fire {#element}
 
@@ -68,9 +64,9 @@ The rust red of his tunic keeps the strength and action of the suit, and the gre
 
 ## By astrology: Moon in Sagittarius {#astrology}
 
-In the Golden Dawn tradition, this card is the Moon in Sagittarius. The [Moon](/library/astrology/moon/) speaks for the private self and its need to feel safe. Sagittarius is the traveller who wants to try everything and go and see. Put a need for safety inside someone built to roam and you get this man: a free spirit who was hurt once and now checks the horizon before taking a step.
+The Golden Dawn set this card under the Moon in Sagittarius. The [Moon](/library/astrology/moon/) speaks for the private self and its need to feel safe. Sagittarius is the traveller who wants to try everything and go and see. Put a need for safety inside someone built to roam and you get this man: a free spirit who was hurt once and now checks the horizon before taking a step.
 
-Keep it if astrology is one of your lenses, because it adds the intimate side, the fear under the guard. Leave it if not; the drawing already says it.
+The intimate side, the fear under the guard, is the extra this attribution brings. Without it, the bandage and the sideways glance say much the same.
 
 ## In a reading {#reading}
 
@@ -86,6 +82,6 @@ Next to the [Seven of Wands](/library/tarot-cards/seven-of-wands/), you see the 
 
 This one is for practice: the Nine of Wands, then the [Two of Cups](/library/tarot-cards/two-of-cups/). Nine to two is the end of a long effort, then an exchange between two people; Fire to Water, endurance, then feeling; and in colour, grey ground and a white bandage, then two figures facing each other, each holding out a cup.
 
-The sentence you might try: “You’ve been holding something on your own for a long time, and an exchange is being offered. The question is whether you can put one wand down to take the cup.”
+From the guard to the cup, I’d try: “You’ve been holding something on your own for a long time, and an exchange is being offered. The question is whether you can put one wand down to take the cup.”
 
-Then check without pushing: “Is there a place in your life where you’re still on guard?” Leave the wording of the answer to them. If nothing in it fits, say so and write it down as a miss.
+Then check without pushing: “Is there a place in your life where you’re still on guard?” Leave the wording of the answer to them. If they aren’t guarding anything, the bandage belongs to someone else: say so, and log the miss.

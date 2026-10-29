@@ -53,12 +53,12 @@ Certaines personnes pensent aussi qu’il faut « se lier » à un nouveau jeu a
 
 La purification appelle la même réponse ; je raconte ailleurs [pourquoi j’ai arrêté de vendre de la sauge, et ce que je fais à la place](/fr/blog/purifier-son-jeu-de-tarot/).
 
-Laisser d’autres personnes toucher vos cartes est une question de confort ou d’hygiène, pas de chance, et [la question de laisser toucher son jeu](/fr/blog/laisser-toucher-ses-cartes-tarot/) a sa propre page. Et si un jeu vous semble un jour « bizarre », c’est en général vous qui avez besoin d’une pause, pas les cartes.
+Laisser d’autres personnes toucher vos cartes est une question de confort ou d’hygiène, pas de chance, et [chacun peut choisir qui touche son jeu](/fr/blog/laisser-toucher-ses-cartes-tarot/). Et si un jeu vous semble un jour « bizarre », c’est en général vous qui avez besoin d’une pause, pas les cartes.
 
 ## Acheter un jeu : quoi regarder {#acheter}
 
 Si vous l’achetez pour vous, commencez par un Rider-Waite-Smith : chaque carte porte une scène que vous pouvez lire dès le premier soir, et [voici pourquoi je le conseille à tout le monde](/fr/blog/quel-jeu-de-tarot-choisir/). N’importe quelle édition avec les dessins d’origine convient.
 
-Si vous l’achetez pour quelqu’un d’autre, un jeu est un très beau cadeau, et sa liste d’envies reste le guide le plus délicat. Offrez-le à quelqu’un qui en a demandé un, ou qui l’a laissé entendre. Un jeu que personne n’a voulu est un objet sur une étagère ; un jeu que quelqu’un attendait est un début. [Le guide pour offrir un jeu de tarot](/fr/blog/offrir-un-jeu-de-tarot/) dit le reste.
+Si vous l’achetez pour quelqu’un d’autre, un jeu est un très beau cadeau, et sa liste d’envies reste le guide le plus délicat. Choisissez une personne qui en veut un, qu’elle l’ait dit franchement ou à demi-mot : sinon, le jeu risque surtout de prendre la poussière. Pour les autres questions de cadeau, voyez [mon guide pour offrir un jeu de tarot](/fr/blog/offrir-un-jeu-de-tarot/).
 
 Ensuite, une fois le jeu entre vos mains, oubliez le rituel et passez une première semaine à faire connaissance. [Voici comment je passerais cette semaine](/fr/blog/nouveau-jeu-de-tarot/).

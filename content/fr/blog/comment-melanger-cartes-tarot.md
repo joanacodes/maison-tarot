@@ -19,9 +19,9 @@ La seule chose que votre méthode change vraiment, c’est l’apparition ou non
 
 Non. Ce qui compte se passe de votre côté de la table, et le mélange est la petite pause où ça commence. Pendant que vos mains travaillent, votre tête a un moment pour sortir de la conversation et laisser vos idées toutes faites s’écarter, pour que ce que vous direz ensuite vienne de la carte, et pas de ce que vous attendiez.
 
-En face à face, le mélange peut revenir à la personne ou au lecteur ; les deux fonctionnent. Et la plupart de mes lectures pour des inconnus se sont faites en ligne, sur des serveurs Discord et en appels de groupe, où la personne n’a jamais touché mes cartes. Si une lecture dépendait des mains qui ont mélangé, ces lectures-là n’auraient eu prise sur rien.
+En face à face, le mélange peut revenir à la personne ou au lecteur ; les deux fonctionnent. Et quand je lisais pour des inconnus, c’était surtout à distance, par écran interposé (Discord, appels à plusieurs) : personne n’a jamais touché mes cartes. Si une lecture dépendait des mains qui ont mélangé, ces lectures-là n’auraient eu prise sur rien.
 
-Pas besoin de rituel, donc : pas de petits coups sur le paquet, pas de purification entre deux tirages ([j’ai vendu de la sauge en 2021, et rien là-dedans n’a amélioré une lecture](/fr/blog/purifier-son-jeu-de-tarot/)). Laisser quelqu’un d’autre mélanger vos cartes est une préférence, pas une règle — [laisser toucher son jeu](/fr/blog/laisser-toucher-ses-cartes-tarot/) a son propre article.
+Pas besoin de rituel, donc : pas de petits coups sur le paquet, pas de purification entre deux tirages ([la sauge, j’en ai vendu en 2021, et aucune lecture n’en a profité](/fr/blog/purifier-son-jeu-de-tarot/)). Laisser quelqu’un d’autre mélanger vos cartes est une préférence, pas une règle — [qui touche votre jeu](/fr/blog/laisser-toucher-ses-cartes-tarot/), c’est vous qui en décidez.
 
 **Le mélange est une pause, pas un sortilège.**
 

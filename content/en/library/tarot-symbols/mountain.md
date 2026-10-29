@@ -16,7 +16,7 @@ related:
 - /library/tarot-cards/the-hermit
 faq:
 - q: "Why is the Hermit standing on a mountain?"
-  a: "Because the climb is done. He’s on a snowy summit, alone, holding up his lantern for whoever comes after. In my notes his number, 9, is the finish line: the end of a stage, introspection, last efforts."
+  a: "Because the climb is done. He’s on a snowy summit, alone, holding up his lantern for whoever comes after. In my notes his number, 9, is where a stage closes: introspection, the last push."
 - q: "Are the mountains on the Fool a warning?"
   a: "They’re what lies ahead. Snowy peaks rise behind him while he walks off a cliff without looking. The mountains will still be there when he lands — that’s the journey the rest of the deck tells."
 gallery:
@@ -53,7 +53,7 @@ A mountain is an obstacle and a viewpoint at once. It’s hard to climb, cold at
 
 An everyday example: an exam you have to resit. It will be there in June whatever you do. The only choice is how you climb.
 
-## Where it appears in the deck {#where}
+## Peaks behind the Fool, snow under the Hermit {#where}
 
 On the Fool, white peaks rise behind the young man as he steps towards the cliff edge. The hard part of the journey is already on the horizon; he hasn’t noticed.
 
@@ -65,7 +65,7 @@ On [the Hermit](/library/tarot-cards/the-hermit/), he stands on a snowy summit w
 
 On Temperance, the path from the pool winds towards two peaks with a light rising between them. On Judgement, a line of white peaks stands behind the figures rising from their coffins.
 
-On the Eight of Cups, a man walks away from his cups towards dark, rocky mountains under the moon. In my notes, the card is moving on from what you’re already doing.
+The Eight of Cups shows someone leaving eight stacked cups behind and heading for dark, rocky mountains under the moon. My notes read that card as leaving something you’re still in the middle of.
 
 On the Ace of Swords, a range of mountains lies under the sword, far below the crown.
 
@@ -79,7 +79,7 @@ Mountains also show through the rose arch of the Ace of Pentacles, and the Tower
 
 Ask where the person is in relation to the mountain. In front of it (the Fool, the Eight of Cups), the effort is coming. On top (the Hermit), it’s done and the view is earned. Behind a throne (the Emperor), it’s the hard ground power stands on.
 
-With the lenses: a mountain is [Earth](/library/four-elements/earth-element/) at its most solid — tenacity, endurance, and stubbornness. It’s the image of the [fixed mode](/library/astrological-modes/fixed/): stable, enduring, slow to move. And the Hermit’s summit fits his number: in my notes [9](/library/numerology/number-9/) is the finish line in sight, last efforts, patience — but keep moving.
+With the lenses: a mountain is [Earth](/library/four-elements/earth-element/) at its most solid — tenacity, endurance, and stubbornness. It’s the image of the [fixed mode](/library/astrological-modes/fixed/): stable, enduring, slow to move. And the Hermit’s summit fits his number: in my notes [9](/library/numerology/number-9/) means the end is in sight: last efforts, patience — but keep moving.
 
 ## The other side {#flip-side}
 

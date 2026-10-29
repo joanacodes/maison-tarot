@@ -49,7 +49,7 @@ Imaginez quelqu’un qui bouleverse toute sa semaine pour aider une amie à dém
 
 Méfiez-vous d’une chose, avec bienveillance : l’ego qui revendique sa propre mort. La personne qui a « dépassé l’ego » et se sent désormais au-dessus de tous ceux qui ne l’ont pas fait. Celle qui croit sauver le monde, ou appartenir à un petit groupe doté de capacités que les autres n’ont pas.
 
-C’est très humain. Après une expérience immense, on voudrait tous qu’elle nous ait rendus spéciaux. Mais « j’ai tué mon ego », porté comme une médaille, c’est l’ego qui a changé de costume. C’est une des raisons pour lesquelles [je garde un peu de distance avec les cercles « spirituels »](/fr/blog/spirituelle-mais-pas-dans-les-cercles/).
+C’est très humain. Après une expérience immense, on voudrait tous qu’elle nous ait rendus spéciaux. Mais « j’ai tué mon ego », porté comme une médaille, c’est l’ego qui a changé de costume. C’est une des raisons pour lesquelles [je me tiens un peu à l’écart des milieux « spirituels »](/fr/blog/spirituelle-mais-pas-dans-les-cercles/).
 
 ## Allez-y doucement {#doucement}
 
@@ -63,4 +63,4 @@ Je ne lis pas sur la santé, et je ne donne pas de conseils sur les substances ;
 
 Commencez par la petite taille. Dix minutes de [méditation pour celles et ceux qui pensent ne pas savoir méditer](/fr/blog/commencer-la-meditation/) : ne rien faire, lâcher le contrôle, ce qui est plus dur qu’il n’y paraît. Un dessin que vous ne montrez à personne. Une carte lue à voix haute pour un ami qui ne vous a rien dit.
 
-Pour tenter la petite taille avec d’autres personnes dans la pièce, les [ateliers](/fr/ateliers/) commencent par une carte dans les dix premières minutes, avant toute explication.
+Pour tenter la petite taille avec d’autres personnes dans la pièce, venez à un [atelier](/fr/ateliers/) : la première carte y est retournée avant que j’aie ouvert la bouche.

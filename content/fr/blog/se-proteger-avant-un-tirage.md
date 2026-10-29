@@ -9,7 +9,7 @@ tags: ["se protéger avant un tirage", "rituel de protection tarot", "ancrage ta
 image: "covers/protect-yourself-tarot.jpg"
 imageAlt: "Deux pieds nus posés à plat sur un parquet, à côté d’une table basse où repose un jeu de cartes"
 imagePrompt: "Two bare feet resting flat on a wooden floor beside a low table with a closed tarot deck on it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Pour un tarologue, se protéger, c’est faire quelque chose avant ou après un tirage pour que les émotions de l’autre ne restent pas accrochées à soi : visualiser une lumière autour de soi, dire une intention, garder une pierre, se laver les mains. Si un rituel vous aide, gardez-le. Vous n’en avez pas besoin pour lire sans danger. Ce sur quoi je compte, c’est une empathie bien tenue : ressentir les émotions de l’autre en gardant les siennes, rester ancré dans son corps et dans la pièce, et rester calme, parce que ce qu’on ressent pendant un tirage n’est souvent pas à soi."
+summary: "Pour un tarologue, se protéger, c’est faire quelque chose avant ou après un tirage pour que les émotions de l’autre ne restent pas accrochées à soi : visualiser une lumière autour de soi, dire une intention, garder une pierre, se laver les mains. Si un rituel vous aide, gardez-le. Vous n’en avez pas besoin pour lire sans danger. Ce sur quoi je compte, c’est une empathie bien tenue : accueillir le ressenti de l’autre sans y perdre le sien, rester ancré dans son corps et dans la pièce, et rester calme, parce que ce qu’on ressent pendant un tirage n’est souvent pas à soi."
 ---
 Vous n’avez pas besoin d’un rituel pour tirer les cartes sans danger. Ce qu’il vous faut, c’est savoir quelles émotions sont les vôtres et lesquelles appartiennent à la personne en face. Si un rituel vous aide à faire ce tri, gardez-le : c’est une bonne habitude, pas une obligation.
 
@@ -33,7 +33,7 @@ Mon chemin est allé dans l’autre sens : j’ai vendu de la sauge et des bougi
 
 L’empathie, telle que je l’entends, a deux moitiés : ressentir ce que vit l’autre, et garder vos propres émotions. Sans la première, vous lisez les cartes comme un dictionnaire. Sans la seconde, vous rentrez chez vous avec le chagrin de quelqu’un d’autre.
 
-Les tarologues très empathiques peuvent finir par ressentir les émotions de l’autre, voire par les exprimer : une boule dans la gorge qui n’est pas la leur, des larmes au milieu de l’histoire d’un autre. Si ça vous arrive, ce n’est pas le signe que vous vous y prenez mal. C’est le signe qu’il vous faut un peu de distance. Écoutez l’émotion ; ne la laissez pas prendre le dessus.
+Chez les tarologues très empathiques, l’émotion de l’autre peut finir par passer de leur côté, jusqu’à s’exprimer à travers eux : une boule dans la gorge qui n’est pas la leur, des larmes au milieu de l’histoire d’un autre. Si ça vous arrive, ce n’est pas le signe que vous vous y prenez mal. C’est le signe qu’il vous faut un peu de distance. Écoutez l’émotion ; ne la laissez pas prendre le dessus.
 
 On appelle parfois cela être empathe : avoir une capacité plus grande que la moyenne à ressentir ce que ressentent les autres. Ça se travaille, et ça a un revers : si vous vous connaissez mal, vous pouvez absorber un environnement qui ne vous fait pas de bien. Je donne [des définitions claires d’empathe, de starseed et des autres](/fr/blog/empathe-starseed-lightworker/) sur une même page.
 
@@ -49,7 +49,7 @@ Rien de tout ça ne demande de matériel :
 4. À la fin, levez-vous, buvez un verre d’eau, ouvrez la fenêtre.
 5. Avant la personne suivante, vérifiez à nouveau : ce que je ressens, est-ce à moi ?
 
-Si rester immobile à respirer vous paraît impossible, ça s’apprend : j’ai écrit sur [la méditation pour ceux qui pensent ne pas y arriver](/fr/blog/commencer-la-meditation/). Comme je le dis à propos de développer ses sens : ne montez pas trop haut trop vite, vous pourriez ne plus retrouver le chemin de la maison.
+Si rester immobile à respirer vous paraît impossible, ça s’apprend : j’ai écrit sur [la méditation pour ceux qui pensent ne pas y arriver](/fr/blog/commencer-la-meditation/). C’est aussi ce que je conseille pour développer ses sens : avancer crescendo, sans grimper si vite qu’on ne sache plus redescendre.
 
 ## Rester calme : ces émotions ne sont pas les vôtres {#rester-calme}
 

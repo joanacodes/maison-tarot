@@ -9,11 +9,11 @@ tags: ["fatigue après un tirage", "vidé après un tirage de tarot", "burn-out 
 image: "covers/energy-after-tarot-reading.jpg"
 imageAlt: "Un verre d’eau et un jeu de cartes fermé sur une table de chevet, à côté d’un lit aux draps ouverts"
 imagePrompt: "A glass of water and a closed tarot deck on a bedside table beside a bed with the covers turned back. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Oui, un tirage peut fatiguer, et ce n’est pas dans votre tête. Interpréter demande de l’énergie : vous gardez votre attention sur une personne, vous ressentez ses émotions tout en gardant les vôtres, et en ligne s’ajoutent l’écran et le trac. Ce qui aide est ordinaire : dormir, boire de l’eau, manger, marcher, faire une pause entre deux tirages, et fixer une limite avant de commencer. Il m’arrive de m’arrêter après deux heures de tirages, par prudence. Si la fatigue ne passe pas avec le repos, ce n’est plus une question de tarot : c’est votre médecin qu’il faut voir."
+summary: "Oui, un tirage peut fatiguer, et ce n’est pas dans votre tête. Interpréter demande de l’énergie : vous gardez votre attention sur une personne, vous ressentez ses émotions tout en gardant les vôtres, et en ligne s’ajoutent l’écran et le trac. Ce qui aide est ordinaire : dormir, boire de l’eau, manger, marcher, faire une pause entre deux tirages, et fixer une limite avant de commencer. Moi, je range parfois le jeu quand deux heures se sont écoulées : c’est une précaution. Si la fatigue ne passe pas avec le repos, le tarot n’y est plus pour rien : c’est votre médecin qu’il faut voir."
 ---
 Être fatigué après un tirage, c’est normal. Interpréter demande de l’énergie, et après une longue soirée de cartes, le corps le fait savoir. Écoutez-le et reposez-vous : dormir d’abord, le reste ensuite.
 
-Je le prends assez au sérieux pour en avoir fait une habitude : il m’arrive de m’arrêter après deux heures de tirages, par prudence, même quand la soirée pourrait continuer.
+Je le prends assez au sérieux pour en avoir fait une habitude : passé deux heures de tirages, il m’arrive de tout ranger, par prudence, même quand la soirée pourrait continuer.
 
 ## Pourquoi un tirage peut vous vider {#pourquoi}
 
@@ -25,7 +25,7 @@ Et puis il y a tout ce qu’on ne compte pas : un écran, un casque, une chaise 
 
 ## Ce que je ressentais, et pourquoi je m’arrête après deux heures {#deux-heures}
 
-Mes notes le disent sans détour : après un tirage, on peut se sentir très fatigué, parce qu’interpréter demande de l’énergie. Écoutez votre corps, et reposez-vous.
+Une de mes notes tient en peu de mots : on peut sortir d’un tirage épuisé, parce que l’interprétation puise dans vos forces. Le corps prévient : entendez-le, et accordez-vous du repos.
 
 Cette ligne dit ce que je ressentais, et la raison notée à côté, c’est le travail d’interprétation. La fatigue ne prend pas la même forme d’un tarologue à l’autre : les yeux lourds et le dos raide chez certains, chez d’autres une tête qui rejoue les cartes en boucle, ou une faim de loup qui tombe d’un coup quand l’appel se termine. Quelle que soit sa forme chez vous, elle dit combien vous avez donné. Ce n’est pas le signe que quelque chose s’est mal passé.
 
@@ -50,7 +50,7 @@ Certains aiment marquer la fin par un petit geste : se laver les mains, remettre
 
 ## La carte que j’épinglerais au-dessus du bureau {#quatre-d-epees}
 
-Si une carte devait représenter cet article, ce serait le Quatre d’Épées : un chevalier allongé immobile sur un tombeau, les mains jointes, trois épées accrochées au mur au-dessus de lui et une quatrième posée le long de son flanc.
+Si une carte devait représenter cet article, ce serait le Quatre d’Épées : un chevalier figé en gisant, les paumes réunies sur la poitrine ; trois lames pendent au mur, une quatrième repose à ses côtés.
 
 {{< cards "sw04" >}}
 

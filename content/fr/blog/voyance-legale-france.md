@@ -54,8 +54,8 @@ On attribue souvent à cette exception pour le divertissement l’habitude de la
 
 Pour vous : légal ne veut pas dire garanti. Personne ne vérifie les compétences d’un voyant avant qu’il ouvre une ligne. Il n’existe pas non plus de voyant « agréé » : un titre, un label ou un diplôme affiché sur un site relève de la communication, pas d’un contrôle de l’État. La loi vous protège contre la tromperie, pas contre une lecture médiocre.
 
-Pour moi : je ne vends pas de lectures. Je vends des cours, aux conditions écrites dans [les conditions générales de vente](/fr/cgv/) ; les lectures, je les fais gratuitement, en public. Et les procédures en cours font partie des sujets que [je laisse de côté](/fr/avertissements/#refus). Si vous avez une question juridique, elle mérite un avocat, pas une carte. Ce que le tirage peut accompagner, en attendant, c’est la façon dont vous vivez l’attente.
+Pour moi : aucune lecture n’est à vendre ici. Ce que je vends, ce sont des cours, aux conditions écrites dans [les conditions générales de vente](/fr/cgv/) ; les lectures, elles, ont lieu en public et sans frais. Et les procédures en cours restent [hors du champ de mes tirages](/fr/avertissements/#refus). Si vous avez une question juridique, elle mérite un avocat, pas une carte. Ce que le tirage peut accompagner, en attendant, c’est la façon dont vous vivez l’attente.
 
 ## Avant de consulter qui que ce soit {#avant-de-consulter}
 
-Avant d’appeler un voyant, ou de payer une séance, prenez dix minutes pour lire [les neuf signaux d’une arnaque à la voyance](/fr/blog/arnaque-voyance/). Ils ne vous diront pas si une lecture est juste. Ils vous diront si quelqu’un essaie de vous vendre de la peur, et c’est déjà beaucoup.
+Avant d’appeler un voyant, ou de payer une séance, prenez dix minutes pour lire [les neuf signes qui doivent vous mettre en alerte](/fr/blog/arnaque-voyance/). Ils ne vous diront pas si une lecture est juste. Ils vous diront si quelqu’un essaie de vous vendre de la peur, et c’est déjà beaucoup.

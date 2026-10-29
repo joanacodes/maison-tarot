@@ -25,7 +25,7 @@ And there are the practical things nobody counts. A screen, a headset, a chair y
 
 ## What I felt, and why I stop after two hours {#two-hours}
 
-My notes say it plainly: after a reading you can feel very tired, because interpreting takes energy. Listen to your body, and rest.
+My notes say it plainly: after a reading you can feel very tired, because interpreting takes energy. Then: pay attention to what your body is telling you, and rest.
 
 That line is what I felt, and the reason I wrote next to it was the work of interpreting. How the tiredness shows differs from one reader to the next: heavy eyes and a stiff back for some, a head that keeps replaying the cards for others, or a hunger that arrives all at once when the call ends. Whatever form yours takes, it tells you how much you gave. It isn’t a sign that something went wrong.
 
@@ -50,11 +50,11 @@ Some readers like a small gesture to mark the end: washing their hands, putting 
 
 ## The card I’d pin above the desk {#four-of-swords}
 
-If one card had to stand for this article, it would be the Four of Swords: a knight lying still on a tomb, hands joined, three swords hung on the wall above him and a fourth laid along his side.
+If one card had to stand for this article, it would be the Four of Swords: a knight laid out on a tomb in prayer, three swords mounted over him and a fourth running along the side.
 
 {{< cards "sw04" >}}
 
-Read it through the lenses and it says what your body is saying. Swords are Air, the mind. Four is structure, the fruit of your work, and in my notes its minus is carrying on when you should stop. The [Four of Swords](/library/tarot-cards/four-of-swords/) is the mind put down to rest, with every tool still within reach for tomorrow.
+Read it through the lenses and it says what your body is saying. Swords are Air, the mind. Four is structure, the fruit of your work, and in my notes its weak side is refusing to stop when it’s time to. The [Four of Swords](/library/tarot-cards/four-of-swords/) is the mind put down to rest, with every tool still within reach for tomorrow.
 
 It’s also a reminder that the cards were never what got tired. If you’ve wondered, [the deck doesn’t need a rest](/blog/do-tarot-cards-get-tired/). You do.
 

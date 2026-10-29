@@ -15,11 +15,7 @@ energy: Feminine
 kabbalah: ''
 image: cards/swpa.webp
 h1: Page of Swords — <em>the Page</em>, Earth of Air
-lede: 'Before looking up what Page of Swords “means”, look at what you already have:
-  the Page, the element Earth of Air. You’re reading the card. The number says the
-  Page — the student, the message, the new impulse; the element says the mind, what
-  you decide. Lay the two over each other, add the colours, and the card is already
-  talking — the rest of the page shows you how.'
+lede: 'On a windswept rise, a young figure grips a raised sword in both hands but looks the other way, hair blown back, birds crossing the sky. What are you watching for before you act?'
 related:
 - /library/numerology
 - /library/four-elements/air-element
@@ -29,7 +25,7 @@ faq:
 - q: What does Page of Swords mean?
   a: 'A new idea, picked up and held up to the light: curiosity, learning, watching, a message on its way. The Page is the student, and Earth of Air is a thought looking for solid ground. It’s often a moment you’re in rather than a person.'
 - q: What about Page of Swords reversed?
-  a: 'The same curiosity, slowed down or overdone. Slowed down: an idea that won’t come into focus, watching without ever acting. Overdone: suspicion, gossip, words that go out before the thought is finished.'
+  a: 'Curiosity that blurs or pries: an idea that won’t come into focus, watching without ever acting — or suspicion, gossip, words that go out before the thought is finished.'
 - q: 'Is the Page of Swords a person?'
   a: 'It can be: a young person, a student, someone sharp and curious who asks a lot of questions, of any gender. More often it describes a moment — the start of learning something, or news on its way.'
 categories:
@@ -45,13 +41,13 @@ A young figure stands on a rise of uneven ground, green and yellow underfoot, ho
 
 The wind is everywhere: the copper hair blows back, big grey-white clouds sweep across the sky, a tree bends at the far left, and a flock of birds crosses high in the blue. The Page wears a dusky red tunic belted in black, yellow sleeves, pale yellow hose and red boots. Far off on the right, low blue hills.
 
-**The drawing is about alertness: an idea in hand, eyes on the horizon, not yet sure where to strike.**
+**Alertness: an idea in hand, eyes on the horizon, not yet sure where to strike.**
 
 ## By number: the Page {#number}
 
 This [Page](/library/numerology/page/) grips the sword in both hands like a tool they haven’t learned to use yet. Pages also carry messages, and a Swords message is news, or a sharp word. The rank’s advice is to stay a student, and the trap for this one is believing the sword already makes them a King.
 
-The Page of Swords is the Page who keeps watch. The sword is up, ready, but nothing has been cut yet: the idea is sharpening. Its energy is [feminine in the sense I give the word](/library/feminine-masculine-energies/): watching, thinking, preparing behind the scenes before stepping on stage.
+The Page of Swords is the Page who keeps watch. The sword is up, ready, but nothing has been cut yet: the idea is sharpening. Its energy is feminine — [the dynamic, not the gender](/library/feminine-masculine-energies/): watching, thinking, preparing behind the scenes before stepping on stage.
 
 ## By element: Air {#element}
 
@@ -61,13 +57,13 @@ Air is also communication, good or bad — the viper’s tongue, when it goes wr
 
 ## By colours {#colours}
 
-The sky is blue and crowded with moving grey-white clouds: a mind in motion, neutral, not yet settled. The Page’s clothes carry the heat. [Red](/library/tarot-colours/red/) on the tunic and boots: action, impulse, drive. [Yellow](/library/tarot-colours/yellow/) on the sleeves and hose: joy, self-expression, the inner child — someone young, or something new. Green and yellow underfoot: growth. Before the card has a name: youthful drive, a lively mind, ground that is still growing.
+The sky is blue and crowded with moving grey-white clouds: a mind in motion, neutral, not yet settled. The Page’s clothes carry the heat. [Red](/library/tarot-colours/red/) on the tunic and boots: action, impulse, drive. [Yellow](/library/tarot-colours/yellow/) on the sleeves and hose: joy, self-expression, the inner child — someone young, or something new. Green and yellow underfoot: growth. Youthful drive, a lively mind, ground that is still growing.
 
 ## In a reading {#reading}
 
 Upright, the Page of Swords is a new idea and the urge to understand it: learning, asking questions, gathering information, watching how something works. It can be news on its way, a message, a conversation that opens a subject. It can be a young person with a sharp mind and a sharper tongue. **The Page of Swords has just picked up the idea: look at it from every side before you swing it.**
 
-Reversed, the Page’s curiosity either blurs or starts prying. Slowed down: the idea won’t come into focus, and you keep watching without ever acting. Overdone: suspicion, checking up on people, repeating what you heard before you’ve thought it through.
+Reversed, the Page’s curiosity either blurs or starts prying. Blurred, the idea won’t come into focus, and you keep watching without ever acting. Prying, it turns into suspicion, checking up on people, repeating what you heard before you’ve thought it through.
 
 Next to the [Ace of Swords](/library/tarot-cards/ace-of-swords/), the idea arrives clear and the Page learns to hold it. Next to the [Seven of Swords](/library/tarot-cards/seven-of-swords/), watching turns into sneaking: ask who is being watched, and why. Next to the [Page of Cups](/library/tarot-cards/page-of-cups/), head and heart are both young — a new idea and a new feeling arriving together.
 
@@ -77,6 +73,6 @@ Next to the [Ace of Swords](/library/tarot-cards/ace-of-swords/), the idea arriv
 
 Try this pair with a friend who wants to see how a reading works: the Page of Swords, then the [Three of Pentacles](/library/tarot-cards/three-of-pentacles/). A Page then a three: the student, then a rhythm that works. Earth of Air then Earth: an idea looking for ground, then the ground itself. A figure alone on a windy hill, then three people discussing a piece of work under a stone arch.
 
-Out loud, you might say: “You’re learning something new and watching it closely. You’ll learn faster by working with others than by observing on your own.”
+The lone watcher beside the team at work points to: “You’re learning something new and watching it closely. You’ll learn faster by working with others than by observing on your own.”
 
-Then check: “Are you starting to learn something right now — a skill, a job, a subject?” If yes, ask who they could learn it with. If no, the sentence missed: note it and move on.
+Then a question to test it: “Are you starting to learn something right now — a skill, a job, a subject?” If yes, ask who they could learn it with. If no, the sentence missed: note it and move on.

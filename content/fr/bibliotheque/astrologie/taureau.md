@@ -26,13 +26,13 @@ related:
 - /bibliotheque/astrologie/venus
 faq:
 - q: Quelle carte de tarot correspond au Taureau ?
-  a: Le Hiérophante, dans la tradition Golden Dawn reprise par le Rider-Waite-Smith.
-    Quand il sort, le signe donne son verbe, son élément et son mode d’un coup.
-    L’Impératrice est la carte de Vénus, qui gouverne le signe.
-- q: 'Je suis Taureau : est-ce que cette carte est « ma » carte ?'
-  a: C’est une entrée, pas une identité. La carte parle à n’importe qui de la même
-    chose ; votre signe vous aide seulement à la reconnaître plus vite. L’astrologie
-    n’est pas une excuse.
+  a: Le Hiérophante, l’homme aux deux clés. Il porte ce que le Taureau garde et entretient
+    — un savoir transmis, une façon de faire qui a fait ses preuves. L’Impératrice,
+    elle, revient à Vénus, la planète du signe.
+- q: Né sous le Taureau, dois-je prendre le Hiérophante pour moi ?
+  a: Il n’appartient à personne et parle de transmission à quiconque le tire. Qu’un
+    Taureau s’y reconnaisse, c’est possible ; qu’il s’en serve pour ne jamais changer
+    d’avis, c’est autre chose.
 gallery:
 - src: "visuals/sign-taurus/1.jpg"
   title: "Le sens du beau"
@@ -79,7 +79,7 @@ La gardienne du jardin, celle qui entretient ; le Taureau conservateur, à l’o
 
 ## Sa carte : Le Hiérophante {#carte}
 
-Quand [le Hiérophante](/fr/bibliotheque/cartes-tarot/le-hierophante/) sort, le Taureau est là : ce qui a été transmis et gardé — un métier, une méthode, une tradition, la façon dont on a toujours fait. Bien posé, c’est un savoir qui dure parce que quelqu’un l’a entretenu. Mal posé, c’est la règle suivie par habitude, et le changement que le Taureau refuse d’envisager.
+Le Taureau parle par la bouche du [Hiérophante](/fr/bibliotheque/cartes-tarot/le-hierophante/) : ce qui a été transmis et gardé — un métier, une méthode, une tradition, la façon dont on a toujours fait. Le côté heureux, c’est un savoir qui dure parce que quelqu’un l’a entretenu ; l’autre côté, la règle suivie par habitude, et le changement que le Taureau refuse d’envisager.
 
 {{< cards "ar05" >}}
 

@@ -23,7 +23,7 @@ Shuffle, draw three cards, lay them left to right.
 
 It’s popular because it’s clear — a beginning, a middle, an end — and it teaches you to see three cards as one story rather than three separate meanings.
 
-It has two weak spots. The past card often tells you what you already know, which feels like accuracy and proves very little: you read it through your own memories. And the future card swallows the attention. People skim the first two to reach the third, then wait for it to happen instead of doing anything. I do read the future sometimes, but **the best way to ensure an enjoyable future is to anchor ourselves in the present.**
+It has two weak spots. The past card often tells you what you already know, which feels like accuracy and proves very little: you read it through your own memories. And the future card swallows the attention. People skim the first two to reach the third, then wait for it to happen instead of doing anything. The future does turn up in my readings now and then, but **the surest way to a good future is a firm footing in the present.**
 
 ## The version that works better: three cards in the present {#three-in-the-present}
 
@@ -39,17 +39,17 @@ Tarot isn’t an authority, so the third card suggests and you decide whether it
 
 ## A three-card spread, worked through {#example}
 
-Say someone sits down, tells you nothing, and draws the Five of Wands, the Eight of Swords and the Six of Cups.
+A reading for someone who has kept their question private might bring the Five of Wands, the Eight of Swords and the Six of Cups.
 
 {{< cards "wa05 sw08 cu06" >}}
 
 What’s here: the Five of Wands — five young men with staffs who seem to fight, without any coordination. Fire, number 5: conflict, trying, plenty of energy and no agreement on where to put it.
 
-What’s in the way: the [Eight of Swords](/library/tarot-cards/eight-of-swords/) — a woman blindfolded and loosely bound, eight swords planted around her, a castle on a hill behind. Air, number 8. In my notes this card is being a prisoner of yourself while you hold every tool: the blindfold can come off. The block is a thought, not a wall.
+What’s in the way: the [Eight of Swords](/library/tarot-cards/eight-of-swords/) — a woman blindfolded and loosely bound, eight swords planted around her, a castle on a hill behind. Air, number 8. My note on it: a trap you’ve set yourself, with the key in your own pocket. The block is a thought, not a wall.
 
-What you can do: the Six of Cups — two children in a village garden, one handing the other a cup full of white flowers, the whole scene in warm yellows. Water, number 6: taking time for yourself, childhood, harmony. And yellow, in my colour grid, is joy and the inner child.
+What you can do: the Six of Cups — in a sunny village garden, a child offers a smaller one a cup with white flowers in it, the whole scene in warm yellows. Water, number 6: taking time for yourself, childhood, harmony. And yellow, in my colour grid, is joy and the inner child.
 
-Read across: Fire, then Air, then Water — noise, then a thought, then a feeling. Numbers 5, 8, 6: the conflict, the stuck point, the breathing space. The sentence out loud: “There’s a lot of noise around you and everyone pulls their own way; what keeps you stuck is a belief that you can’t move; this week, do something small and kind for yourself, the sort of thing you did as a child.”
+Read across: Fire, then Air, then Water — noise, then a thought, then a feeling. Numbers 5, 8, 6: the conflict, the stuck point, the breathing space. Put as one sentence: “Everyone around you is making noise and pulling their own way; what keeps you stuck is a belief that you can’t move; this week, do something small and kind for yourself, the sort of thing you did as a child.”
 
 Then ask whether it lands. If it doesn’t, say so and write it down — there’s no [fourth card to rescue it](/blog/the-clarifier-card/).
 

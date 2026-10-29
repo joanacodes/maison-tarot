@@ -15,7 +15,7 @@ On peut apprendre le tarot à tout âge, et commencer à 40, 50 ou 60 ans a un v
 
 ## Est-il trop tard pour apprendre le tarot ? {#trop-tard}
 
-Non. Il n’y a pas d’âge pour ça, et pas de don qu’il aurait fallu recevoir jeune. Toutes les personnes que j’ai aidées à lire y sont arrivées dès leurs trois premiers essais, une fois qu’elles ont arrêté de vouloir avoir raison.
+Non. Il n’y a pas d’âge pour ça, et pas de don qu’il aurait fallu recevoir jeune. Les gens que j’ai fait lire y sont tous parvenus vite, en trois tentatives au maximum, dès qu’ils ont laissé de côté l’envie d’avoir raison.
 
 C’est un peu comme le piano ou l’aquarelle : certains ont des facilités, et tous ceux qui pratiquent y arrivent. La seule pratique qui compte vraiment au tarot, c’est le lâcher-prise, et le lâcher-prise n’a pas de limite d’âge.
 
@@ -33,7 +33,7 @@ Le Cinq de Pentacles montre deux silhouettes dans la neige qui passent devant le
 
 Le Six de Coupes, c’est l’enfance, le temps pris pour soi, le fait de refleurir. À cinquante ans, l’enfance est un endroit qu’on regarde de loin, avec une certaine tendresse.
 
-Et la Mort ne parle pas de mourir. C’est la moisson, le début d’autre chose — quelqu’un qui n’a plus de but et veut rendre sa vie fertile à nouveau. Si vous avez vécu une reconversion, un déménagement à l’autre bout de la France ou un nouveau départ après une séparation, vous savez déjà qu’un chapitre peut se fermer sans que rien ne s’arrête.
+La Mort, elle, n’annonce pas qu’on va mourir : c’est une moisson, le début d’autre chose — quelqu’un qui n’a plus de but et veut rendre sa vie fertile à nouveau. Si vous avez vécu une reconversion, un déménagement à l’autre bout de la France ou un nouveau départ après une séparation, vous savez déjà qu’un chapitre peut se fermer sans que rien ne s’arrête.
 
 ## Ce qui est plus difficile quand on commence tard, et ce qui aide {#plus-difficile}
 
@@ -51,11 +51,11 @@ Le temps compte moins qu’on ne le croit. Dix minutes par jour suffisent pour c
 
 ## Ce que vous apportez à une lecture {#ce-que-vous-apportez}
 
-Lire, ce n’est pas seulement voir. C’est aussi savoir le dire. Parfois, vous sentez qu’il vaut mieux ne pas dire quelque chose tout de suite, ou le dire autrement, parce que la personne n’est pas prête ou qu’elle a peur. C’est une compétence que la vie enseigne mieux qu’un cours : quand attendre, quand adoucir, quand se taire.
+Lire, ce n’est pas seulement voir. C’est aussi savoir le dire. Parfois, vous sentez qu’une chose gagne à attendre, ou à prendre un autre chemin : en face, on a peur, ou on n’est pas encore en état de l’entendre. C’est une compétence que la vie enseigne mieux qu’un cours : quand attendre, quand adoucir, quand se taire.
 
 Pareil pour les moments où rien ne vient. Souvent, c’est que la personne a peur de ce qu’elle va entendre, et la réponse consiste à poser les cartes, parler et la rassurer avant de reprendre. Des années de conversations au travail, en famille et autour de la table de la cuisine vous y ont préparé.
 
-Vous savez aussi, souvent, quelles questions relèvent d’ailleurs. La santé, la mort, la grossesse, les procès en cours, les décisions d’argent : on les pose par inquiétude ou par amour, et une carte n’est pas le bon outil pour y répondre. Si vous avez déjà attendu un résultat d’examen, vous comprenez pourquoi sans qu’on vous l’explique. [J’explique où je m’arrête, et pourquoi](/fr/avertissements/#refus).
+Vous savez aussi, souvent, quelles questions relèvent d’ailleurs. Santé, décès, grossesse, procès en cours, argent à engager : derrière ces demandes, il y a presque toujours une peur ou de l’amour, et ce n’est pas à un tirage d’y répondre. Si vous avez déjà attendu un résultat d’examen, vous comprenez pourquoi sans qu’on vous l’explique. [J’explique où je m’arrête, et pourquoi](/fr/avertissements/#refus).
 
 ## Par où commencer {#commencer}
 
