@@ -8,7 +8,7 @@ ctaPrimary: { label: "See the workshops", ref: "/workshops" }
 ctaSecondary: { label: "Read the method", ref: "/method" }
 heroImage: "hero.jpg"
 heroAlt: "A tarot reader, cards in hand, in a wood-panelled room"
-ticker: ["Cards aren’t magic. You are.", "Don’t force yourself.", "Don’t take my words as truth: test it.", "Take a break from your cards.", "Demystify mysticism."]
+ticker: ["Cards aren’t magic. You are.", "Don’t force yourself.", "Demystify mysticism."]
 statement: "A school, a library, a tea room. <em>No guru.</em>"
 stepsTitle: "We try first. We explain <em>after</em>."
 stepsText: "What you feel while reading a card can’t be told. So you draw a card in the first ten minutes, and everything else follows from that."

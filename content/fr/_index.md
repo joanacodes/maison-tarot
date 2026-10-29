@@ -8,7 +8,7 @@ ctaPrimary: { label: "Voir les ateliers", ref: "/ateliers" }
 ctaSecondary: { label: "Lire la méthode", ref: "/methode" }
 heroImage: "hero.jpg"
 heroAlt: "Une tarologue, cartes en main, dans une pièce boisée"
-ticker: ["Les cartes ne sont pas magiques. Vous, si.", "Ne vous forcez pas.", "Ne prenez pas mes mots pour une vérité : testez.", "Faites une pause avec vos cartes.", "Demystify mysticism."]
+ticker: ["Les cartes ne sont pas magiques. Vous, si.", "Ne vous forcez pas.", "Demystify mysticism."]
 statement: "Une école, une bibliothèque, un salon de thé. <em>Pas de gourou.</em>"
 stepsTitle: "On essaie d’abord. On explique <em>après</em>."
 stepsText: "Ce qu’on ressent en lisant une carte ne se raconte pas. Alors vous tirez une carte dans les dix premières minutes, et le reste vient de là."
