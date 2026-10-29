@@ -43,7 +43,7 @@ Après une rupture, la Roue peut sembler cruelle — en haut hier, en bas aujour
 
 Inversée, la roue se grippe ou s’emballe. Grippée : le même schéma revient — le même genre de personne, la même dispute, la même fin — et cela ressemble à de la malchance. Il vaut la peine de se demander, avec douceur, ce que vous continuez de faire qui maintient la roue dans cette position.
 
-Le ciel est un coupable bien commode. « Je ne sors pas avec les Scorpions. » « C’est parce que je suis Taureau. » Mais vous n’êtes pas un seul signe ; vous êtes un mélange de tout, et si la même chose continue de faire mal, mieux vaut regarder de votre côté avant d’accuser les astres. J’ai écrit sur [le moment où l’astrologie devient une excuse](/fr/blog/lastrologie-nest-pas-une-excuse/).
+Le ciel est un coupable bien commode : « C’est parce que je suis Taureau. » Mais vous n’êtes pas un seul signe ; vous êtes un mélange de tout, et si la même chose continue de faire mal, mieux vaut regarder de votre côté avant d’accuser les astres. J’ai écrit sur [le moment où l’astrologie devient une excuse](/fr/blog/lastrologie-nest-pas-une-excuse/).
 
 Emballée, c’est l’autre sens : les changements s’enchaînent sans laisser le temps de respirer, et chaque nouveau tournant sert à ne pas regarder le précédent. Ni l’un ni l’autre n’est une fatalité. Ce sont des schémas, et un schéma peut changer, en commençant par un petit geste.
 
