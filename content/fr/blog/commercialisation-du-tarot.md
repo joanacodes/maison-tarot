@@ -53,7 +53,7 @@ Le gratuit peut aussi épuiser la personne qui lit, à force de tirer les cartes
 
 Et je vais être honnête sur mes propres événements. Les tirages y sont gratuits, mais ils sont aussi une façon de me rencontrer avant de s’inscrire à un atelier, et je parle des ateliers exactement une fois, à la fin. Un tirage gratuit chez Maison Tarot fait donc bien partie d’une activité commerciale, mais d’une activité qui ne vend pas de tirages.
 
-Je peux me le permettre parce que les cours me font vivre. Tout le monde n’a pas cette possibilité, et juger quelqu’un qui ne l’a pas serait injuste.
+Je peux me le permettre parce que les cours, eux, sont payants. Tout le monde n’a pas cette possibilité, et juger quelqu’un qui ne l’a pas serait injuste.
 
 ## Ma réponse : les cours payants, les tirages gratuits {#ma-reponse}
 
