@@ -17,7 +17,7 @@
         <div><b data-d>00</b><small>{{ if $fr }}jours{{ else }}days{{ end }}</small></div><div><b data-h>00</b><small>{{ if $fr }}heures{{ else }}hours{{ end }}</small></div><div><b data-m>00</b><small>min</small></div><div><b data-s>00</b><small>sec</small></div>
       </div>
       <div class="actions">
-        <a class="btn btn-solid btn-arrow" href="#register" data-register="{{ .File.UniqueID }}">{{ if $fr }}S’inscrire{{ else }}Register{{ end }}</a>
+        <a class="btn btn-solid btn-arrow" href="#register-{{ .File.UniqueID }}" data-register="{{ .File.UniqueID }}">{{ if $fr }}S’inscrire{{ else }}Register{{ end }}</a>
         {{ if eq (.Params.price | default "free") "free" }}<span class="tag tag-gold" style="align-self:center">{{ i18n "free" }}</span>{{ end }}
       </div>
     </div>

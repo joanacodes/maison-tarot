@@ -1,6 +1,6 @@
 {{- /* Dialogue d'inscription : détails à gauche, formulaire à droite. Appelé avec la page événement. */ -}}
 {{- $fr := eq .Language.Lang "fr" -}}{{ $t := time .Params.start }}
-<div class="dialog" data-dialog="{{ .File.UniqueID }}" aria-hidden="true">
+<div class="dialog" id="register-{{ .File.UniqueID }}" data-dialog="{{ .File.UniqueID }}" aria-hidden="true">
   <div class="scrim" style="position:absolute;inset:0"></div>
   <div class="panel glass" role="dialog" aria-modal="true" aria-labelledby="dlg-{{ .File.UniqueID }}" style="position:relative">
     <button type="button" class="pill close" data-close>{{ i18n "close" }}</button>
