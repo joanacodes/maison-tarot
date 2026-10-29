@@ -61,9 +61,9 @@ gallery:
 
 ## Where the colour appears in the deck {#where}
 
-The King of Cups' cloak, the Queen of Swords' robe, touches on the Hierophant and on Judgement, the cloth of the Wheel of Fortune. Purple sits on the shoulders of those who carry an office.
+The King of Swords' cloak, and the wings of the angel in Judgement. Purple sits on the shoulders of those who carry an office.
 
-{{< cards "cuki swqu ar05 ar20 ar10" >}}
+{{< cards "swki ar20" >}}
 
 ## How to read it {#reading}
 

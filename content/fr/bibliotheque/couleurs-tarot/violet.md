@@ -61,9 +61,9 @@ gallery:
 
 ## Où la couleur apparaît dans le jeu {#ou}
 
-Le manteau du Roi de Coupes, la robe de la Reine d’Épées, des touches sur le Hiérophante et sur le Jugement, le tissu de la Roue de Fortune. Le violet est sur les épaules de ceux qui portent une fonction.
+Le manteau du Roi d’Épées, et les ailes de l’ange du Jugement. Le violet est sur les épaules de ceux qui portent une fonction.
 
-{{< cards "cuki ar05 ar20 ar10" >}}
+{{< cards "swki ar20" >}}
 
 ## Comment la lire {#lecture}
 
