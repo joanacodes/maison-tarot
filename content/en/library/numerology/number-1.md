@@ -82,11 +82,11 @@ When 1 comes out, the advice fits in one word: **humility**.
 
 In 2010, Kevin Systrom and Mike Krieger built a small location-sharing app called Burbn. It didn't really work. They kept the only feature people used — sharing a photo — and renamed it Instagram.
 
-At that moment they had a 1: an idea that fits in the hand, no proof it's worth anything, and only one right move available — staying a student of what they'd just launched. The rest of the cycle, from [2](/library/numerology/number-2/) (investors signing) to [10](/library/numerology/number-10/) (a platform nobody recognises any more), is the story of the same company. That's why Maison Tarot uses Instagram as its running example: you already know the ending, so you can see the cycle.
+At that moment they had a 1: an idea that fits in the hand, no proof it's worth anything, and only one right move available — staying a student of what they'd just launched. The rest of the cycle, from [2](/library/numerology/number-2/) (investors signing) to [10](/library/numerology/number-10/) (a platform nobody recognises any more), is the story of the same company.
 
 ## The five cards that carry 1 {#cards}
 
-You don't have to memorise these five. You already know they're about a beginning; the [element](/library/four-elements/) tells you in which area.
+You already know they're about a beginning; the [element](/library/four-elements/) tells you in which area.
 
 - [The Magician](/library/tarot-cards/the-magician/) — major arcana I. The beginning that has every tool on the table and no result yet.
 - [Ace of Wands](/library/tarot-cards/ace-of-wands/) — 1 + Fire: an urge, a drive, an idea that's growing.

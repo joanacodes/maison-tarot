@@ -85,6 +85,6 @@ The Magician’s snake biting its tail adds a third: the loop that feeds on itse
 
 ## With the other lenses {#lenses}
 
-The snake is a detail, read after colour, number and element — [the complete path](/learn-tarot/) puts them in that order. Then look again at the [Wheel of Fortune](/library/tarot-cards/wheel-of-fortune/): on which side is the snake, and on which side are you?
+Look again at the [Wheel of Fortune](/library/tarot-cards/wheel-of-fortune/): on which side is the snake, and on which side are you?
 
 {{% six %}}

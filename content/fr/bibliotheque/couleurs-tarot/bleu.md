@@ -57,7 +57,7 @@ gallery:
 ---
 ## Ce que dit le bleu {#definition}
 
-**Émotions, rendre pur, l’eau, vitalité.** Énergie féminine. C’est la [grille des couleurs](/fr/bibliotheque/couleurs-tarot/) en une ligne ; le reste de la page dit où regarder et comment lire.
+**Émotions, rendre pur, l’eau, vitalité.** Énergie féminine.
 
 ## Où la couleur apparaît dans le jeu {#ou}
 
@@ -75,6 +75,6 @@ Le revers du bleu est la noyade : l’émotion qui submerge, la mélancolie, ce 
 
 ## Avec les autres clés {#cles}
 
-La couleur donne le ton ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le domaine, le [nombre](/fr/bibliotheque/numerologie/) l’étape. Posez les trois, et la carte parle. [Le parcours complet](/fr/apprendre-le-tarot/) les met dans l’ordre.
+Sur la [Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), le manteau bleu va avec le nombre [2](/fr/bibliotheque/numerologie/chiffre-2/), le lien entre deux : un sentiment qui concerne quelqu’un, retenu, pas encore dit.
 
 {{% six %}}

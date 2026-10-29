@@ -79,6 +79,6 @@ Le Dix d’Épées montre l’autre bord : après le pire, l’eau est plate et 
 
 ## Avec les autres clés {#cles}
 
-La mer vous donne l’échelle ; le nombre et la figure de cour vous disent qui lui fait face, et à quelle étape. [Le parcours complet](/fr/apprendre-le-tarot/) montre comment poser une clé sur l’autre.
+La mer vous donne l’échelle ; le nombre et la figure de cour vous disent qui lui fait face, et à quelle étape.
 
 {{% six %}}

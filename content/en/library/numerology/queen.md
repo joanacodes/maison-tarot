@@ -68,8 +68,6 @@ Hold without holding on. The Queen at her best welcomes and lets through; at her
 
 ## The four Queens {#cards}
 
-The rank says *how* one acts; the [element](/library/four-elements/) says *on what*.
-
 - [The Queen of Wands](/library/tarot-cards/queen-of-wands/) — Fire.
 - [The Queen of Cups](/library/tarot-cards/queen-of-cups/) — Water.
 - [The Queen of Swords](/library/tarot-cards/queen-of-swords/) — Air.
@@ -80,9 +78,5 @@ The rank says *how* one acts; the [element](/library/four-elements/) says *on wh
 ## In a reading {#reading}
 
 A Queen in a spread says: **someone masters this from the inside.** A person mature in their field, or the state of someone who no longer needs to run. The Queen of Cups understands without being told, Wands radiates, Swords decides with precision, Pentacles makes things grow. It isn't about sex: a man can be a Queen, and many are.
-
-## The four ranks, one after the other {#ranks}
-
-[Page](/library/numerology/page/) — [Knight](/library/numerology/knight/) — [Queen](/library/numerology/queen/) — [King](/library/numerology/king/): learn, act, hold, decide. Temperaments more than steps, and [feminine and masculine energies](/library/feminine-masculine-energies/) explain why Queen and King are equals.
 
 {{% six %}}

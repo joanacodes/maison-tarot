@@ -85,6 +85,6 @@ A rose is also a cliché. If every red flower in a reading means love, you stop 
 
 ## With the other lenses {#lenses}
 
-A rose is a detail; colour, number and element come first, and [the complete path](/learn-tarot/) gives the order. Then compare it with [the lily](/library/tarot-symbols/lily/), the white flower that grows beside it in the Magician’s garden.
+Compare it with [the lily](/library/tarot-symbols/lily/), the white flower that grows beside it in the Magician’s garden.
 
 {{% six %}}

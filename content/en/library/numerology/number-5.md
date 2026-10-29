@@ -69,11 +69,9 @@ Avoid pointless conflicts. Be honest, with yourself and with the situation. Five
 
 ## An example everyone knows {#example}
 
-Facebook arrives to buy Instagram — or, another version of the same 5, IGTV flops and will be pulled. A threat from outside, or a bet lost inside: either way, you find out what holds. The thread running through this whole section is the story of Instagram, from [1](/library/numerology/number-1/) to 10: you know how it ends, so you can see the cycle.
+Facebook arrives to buy Instagram — or, another version of the same 5, IGTV flops and will be pulled. A threat from outside, or a bet lost inside: either way, you find out what holds.
 
 ## The five cards that carry 5 {#cards}
-
-You don't have to memorise them. The number says the step; the [element](/library/four-elements/) says the plane it plays on.
 
 - [The Hierophant](/library/tarot-cards/the-hierophant/) — major arcana 5.
 - [Five of Wands](/library/tarot-cards/five-of-wands/) — 5 + Fire.

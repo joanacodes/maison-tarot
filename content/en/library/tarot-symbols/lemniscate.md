@@ -83,6 +83,6 @@ For the Magician, my note is plain: he knows how to do everything, and he can be
 
 ## With the other lenses {#lenses}
 
-The sign is small; read it after the colour, the number and the element — [the complete path](/learn-tarot/) puts them in order. Then compare [the Magician](/library/tarot-cards/the-magician/) and [Strength](/library/tarot-cards/strength/): the same sign, one turned outwards, one inwards.
+Compare [the Magician](/library/tarot-cards/the-magician/) and [Strength](/library/tarot-cards/strength/): the same sign, one turned outwards, one inwards.
 
 {{% six %}}

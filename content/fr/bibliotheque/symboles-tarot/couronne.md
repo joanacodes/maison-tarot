@@ -85,6 +85,6 @@ Il y a une ombre plus discrète : le Quatre de Pentacles, qui serre si fort que 
 
 ## Avec les autres clés {#cles}
 
-Une couronne est un détail ; lisez-la après la couleur, le nombre et l’élément — [le parcours complet](/fr/apprendre-le-tarot/) les présente dans l’ordre. Puis regardez de nouveau [la Tour](/fr/bibliotheque/cartes-tarot/la-tour/) : la couronne est la première chose à partir.
+Regardez de nouveau [la Tour](/fr/bibliotheque/cartes-tarot/la-tour/) : la couronne est la première chose à partir.
 
 {{% six %}}

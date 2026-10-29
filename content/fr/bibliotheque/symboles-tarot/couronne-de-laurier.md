@@ -87,6 +87,6 @@ Le Sept de Coupes montre l’autre risque : la couronne comme rêverie, une vict
 
 ## Avec les autres clés {#cles}
 
-Lisez la couronne de laurier après la couleur, le nombre et l’élément ; [le parcours complet](/fr/apprendre-le-tarot/) donne l’ordre. Puis regardez [le Monde](/fr/bibliotheque/cartes-tarot/le-monde/) et voyez ce qui se referme dans sa couronne. Pour le métal plutôt que les feuilles, allez voir la [couronne](/fr/bibliotheque/symboles-tarot/couronne/).
+Regardez [le Monde](/fr/bibliotheque/cartes-tarot/le-monde/) et voyez ce qui se referme dans sa couronne. Pour le métal plutôt que les feuilles, allez voir la [couronne](/fr/bibliotheque/symboles-tarot/couronne/).
 
 {{% six %}}

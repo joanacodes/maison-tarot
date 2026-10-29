@@ -81,6 +81,6 @@ Le Huit d’Épées le rappelle. Parfois la porte est ouverte, et la serrure est
 
 ## Avec les autres clés {#cles}
 
-Une clé est un détail ; la couleur, le nombre et l’élément passent avant, et [le parcours complet](/fr/apprendre-le-tarot/) les met dans l’ordre. Puis regardez [le Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/) en pensant aux clés du Hiérophante : à qui a-t-elle confié les siennes ?
+Regardez [le Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/) en pensant aux clés du Hiérophante : à qui a-t-elle confié les siennes ?
 
 {{% six %}}

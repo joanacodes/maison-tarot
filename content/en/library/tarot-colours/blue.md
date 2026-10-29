@@ -57,7 +57,7 @@ gallery:
 ---
 ## What blue says {#definition}
 
-**Emotions, making pure, water, vitality.** Feminine energy. That's the [colour grid](/library/tarot-colours/) in one line; the rest of the page says where to look and how to read.
+**Emotions, making pure, water, vitality.** Feminine energy.
 
 ## Where the colour appears in the deck {#where}
 
@@ -75,6 +75,6 @@ Blue's flip side is drowning: emotion that submerges, melancholy, what has seepe
 
 ## With the other lenses {#lenses}
 
-Colour gives the tone; the [element](/library/four-elements/) says the field, the [number](/library/numerology/) the step. Lay all three and the card speaks. [The complete path](/learn-tarot/) puts them in order.
+On [the High Priestess](/library/tarot-cards/the-high-priestess/), the blue mantle comes with the number [2](/library/numerology/number-2/), the bond between two: a feeling about someone, held back and not yet said.
 
 {{% six %}}

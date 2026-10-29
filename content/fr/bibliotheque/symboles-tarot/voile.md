@@ -85,6 +85,6 @@ Ce peut être aussi une façade : quelqu’un qui montre une surface calme et vo
 
 ## Avec les autres clés {#cles}
 
-Le voile est un détail ; la couleur, le nombre et l’élément passent d’abord, et [le parcours complet](/fr/apprendre-le-tarot/) les enseigne dans cet ordre. Puis restez une minute avec [la Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/) et demandez-vous ce que vous voudriez savoir avant de lui demander de le soulever.
+Restez une minute avec [la Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/) et demandez-vous ce que vous voudriez savoir avant de lui demander de le soulever.
 
 {{% six %}}

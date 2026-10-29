@@ -87,6 +87,6 @@ And a path with nobody on it, like Temperance’s and the Moon’s, can stay a v
 
 ## With the other lenses {#lenses}
 
-A path is a detail; read it after the colour, the number and the element — [the complete path](/learn-tarot/) gives the order, and that one is meant to be walked. Then look at [the Eight of Cups](/library/tarot-cards/eight-of-cups/): in my notes it’s moving on from what you’re already doing, and nobody drew him a road.
+Look at [the Eight of Cups](/library/tarot-cards/eight-of-cups/): in my notes it’s moving on from what you’re already doing, and nobody drew him a road.
 
 {{% six %}}

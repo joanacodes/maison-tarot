@@ -87,6 +87,6 @@ Il existe une ombre plus discrète. Une fleur blanche au milieu des rouges peut 
 
 ## Avec les autres clés {#cles}
 
-Un lys est un détail ; lisez-le après la couleur, le nombre et l’élément — [le parcours complet](/fr/apprendre-le-tarot/) explique l’ordre. Puis lisez la page de [la rose](/fr/bibliotheque/symboles-tarot/rose/) : dans ce jeu, les deux fleurs poussent rarement l’une sans l’autre.
+Lisez la page de [la rose](/fr/bibliotheque/symboles-tarot/rose/) : dans ce jeu, les deux fleurs poussent rarement l’une sans l’autre.
 
 {{% six %}}

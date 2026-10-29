@@ -56,7 +56,7 @@ gallery:
 ---
 ## Ce que dit le vert {#definition}
 
-**Nature, croissance, naissance, vie, prospérité.** C’est la [grille des couleurs](/fr/bibliotheque/couleurs-tarot/) en une ligne ; le reste de la page dit où regarder et comment lire.
+**Nature, croissance, naissance, vie, prospérité.**
 
 ## Où la couleur apparaît dans le jeu {#ou}
 
@@ -74,6 +74,6 @@ Le revers du vert est la croissance qu’on ne voit pas parce qu’elle est lent
 
 ## Avec les autres clés {#cles}
 
-La couleur donne le ton ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le domaine, le [nombre](/fr/bibliotheque/numerologie/) l’étape. Posez les trois, et la carte parle. [Le parcours complet](/fr/apprendre-le-tarot/) les met dans l’ordre.
+Le [Valet de Pentacles](/fr/bibliotheque/cartes-tarot/valet-de-pentacles/) est vêtu de vert au milieu d’un pré vert, et son rang dit où en est la croissance : un [Valet](/fr/bibliotheque/numerologie/valet/) apprend encore, donc quelque chose a été semé, et rien n’est encore bon à cueillir.
 
 {{% six %}}

@@ -85,6 +85,6 @@ But the moon also comes back. Whatever is dark tonight won’t stay that dark fo
 
 ## With the other lenses {#lenses}
 
-The moon tells you the light is low; the number and element tell you what you’re walking through. [The complete path](/learn-tarot/) puts the lenses in order, so a single moon doesn’t have to carry the whole reading.
+The moon tells you the light is low; the number and element tell you what you’re walking through.
 
 {{% six %}}

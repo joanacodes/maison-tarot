@@ -69,11 +69,9 @@ La maîtrise se prouve par le geste répété, pas par le titre. Le 8 conseille 
 
 ## Un exemple que tout le monde connaît {#exemple}
 
-Instagram, désormais chez Facebook, est devenu un empire qui génère des milliards par an. Ce n’est plus un pari ni une négociation : c’est une infrastructure. On ne se demande plus si ça marche, on se demande ce que ça fait au monde. Le fil rouge de toute cette section est l’histoire d’Instagram, du [1](/fr/bibliotheque/numerologie/chiffre-1/) au 10 : vous en connaissez la fin, alors vous voyez le cycle.
+Instagram, désormais chez Facebook, est devenu un empire qui génère des milliards par an. Ce n’est plus un pari ni une négociation : c’est une infrastructure. On ne se demande plus si ça marche, on se demande ce que ça fait au monde.
 
 ## Les cinq cartes qui portent le 8 {#cartes}
-
-Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le plan sur lequel elle se joue.
 
 - [La Force](/fr/bibliotheque/cartes-tarot/la-force/) — arcane majeur 8.
 - [Huit de Bâtons](/fr/bibliotheque/cartes-tarot/huit-de-batons/) — 8 + Feu.

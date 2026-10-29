@@ -69,11 +69,9 @@ Se souvenir que tout est temporaire, et que la situation dans laquelle vous ête
 
 ## Un exemple que tout le monde connaît {#exemple}
 
-Facebook décide de changer le modèle d’Instagram et d’en faire une plateforme de publicité. Ce n’est ni le triomphe ni la chute : c’est la table de négociation, où l’on choisit ce que la chose va devenir. Le fil rouge de toute cette section est l’histoire d’Instagram, du [1](/fr/bibliotheque/numerologie/chiffre-1/) au 10 : vous en connaissez la fin, alors vous voyez le cycle.
+Facebook décide de changer le modèle d’Instagram et d’en faire une plateforme de publicité. Ce n’est ni le triomphe ni la chute : c’est la table de négociation, où l’on choisit ce que la chose va devenir.
 
 ## Les cinq cartes qui portent le 7 {#cartes}
-
-Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le plan sur lequel elle se joue.
 
 - [Le Chariot](/fr/bibliotheque/cartes-tarot/le-chariot/) — arcane majeur 7.
 - [Sept de Bâtons](/fr/bibliotheque/cartes-tarot/sept-de-batons/) — 7 + Feu.

@@ -67,8 +67,6 @@ Stay a student. The Page who thinks they're a King fails the lesson; the Page wh
 
 ## The four Pages {#cards}
 
-The rank says *how* one acts; the [element](/library/four-elements/) says *on what*.
-
 - [The Page of Wands](/library/tarot-cards/page-of-wands/) — Fire.
 - [The Page of Cups](/library/tarot-cards/page-of-cups/) — Water.
 - [The Page of Swords](/library/tarot-cards/page-of-swords/) — Air.
@@ -79,9 +77,5 @@ The rank says *how* one acts; the [element](/library/four-elements/) says *on wh
 ## In a reading {#reading}
 
 A Page in a spread says: **someone is learning, or news is coming.** The Page of Cups gets a fish in the cup — an unexpected feeling; the Page of Wands watches the wand sprout — a new urge; the Page of Swords keeps watch — an idea sharpening; the Page of Pentacles contemplates the coin — a concrete offer. Sometimes a young person, more often a state: the start of an apprenticeship.
-
-## The four ranks, one after the other {#ranks}
-
-[Page](/library/numerology/page/) — [Knight](/library/numerology/knight/) — [Queen](/library/numerology/queen/) — [King](/library/numerology/king/): learn, act, hold, decide. Temperaments more than steps, and [feminine and masculine energies](/library/feminine-masculine-energies/) explain why Queen and King are equals.
 
 {{% six %}}

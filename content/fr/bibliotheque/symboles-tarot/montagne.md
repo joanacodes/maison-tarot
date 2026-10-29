@@ -89,6 +89,6 @@ L’autre ombre, c’est fixer la montagne au lieu de faire le premier pas. Un o
 
 ## Avec les autres clés {#cles}
 
-La montagne vous dit que l’effort est réel ; le nombre vous dit à quelle hauteur vous êtes, la couleur ce que ça fait — la roche orange de l’Empereur et la neige blanche de l’Ermite ne sont pas la même ascension. [Le parcours complet](/fr/apprendre-le-tarot/) met les clés dans l’ordre.
+La montagne vous dit que l’effort est réel ; le nombre vous dit à quelle hauteur vous êtes, la couleur ce que ça fait — la roche orange de l’Empereur et la neige blanche de l’Ermite ne sont pas la même ascension.
 
 {{% six %}}

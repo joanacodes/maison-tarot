@@ -85,6 +85,6 @@ La rose est aussi un cliché. Si chaque fleur rouge d’un tirage veut dire « a
 
 ## Avec les autres clés {#cles}
 
-Une rose est un détail ; la couleur, le nombre et l’élément passent avant, et [le parcours complet](/fr/apprendre-le-tarot/) donne l’ordre. Puis comparez-la avec [le lys](/fr/bibliotheque/symboles-tarot/lys/), la fleur blanche qui pousse à côté d’elle dans le jardin du Magicien.
+Comparez-la avec [le lys](/fr/bibliotheque/symboles-tarot/lys/), la fleur blanche qui pousse à côté d’elle dans le jardin du Magicien.
 
 {{% six %}}

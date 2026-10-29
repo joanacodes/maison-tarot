@@ -79,6 +79,6 @@ The Ten of Swords shows the other edge: after the worst, the water is flat and t
 
 ## With the other lenses {#lenses}
 
-The sea gives you the scale; the number and the court figure tell you who is facing it and at what step. [The complete path](/learn-tarot/) shows how to lay one lens over the other.
+The sea gives you the scale; the number and the court figure tell you who is facing it and at what step.
 
 {{% six %}}

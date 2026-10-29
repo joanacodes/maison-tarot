@@ -58,7 +58,7 @@ gallery:
 ---
 ## Ce que dit le rouge {#definition}
 
-**Passion, action, force, impulsion.** Énergie masculine. C’est la [grille des couleurs](/fr/bibliotheque/couleurs-tarot/) en une ligne ; le reste de la page dit où regarder et comment lire.
+**Passion, action, force, impulsion.** Énergie masculine.
 
 ## Où la couleur apparaît dans le jeu {#ou}
 
@@ -76,6 +76,6 @@ Le revers du rouge est la brutalité : l’impulsion qui ne s’arrête pas, la 
 
 ## Avec les autres clés {#cles}
 
-La couleur donne le ton ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le domaine, le [nombre](/fr/bibliotheque/numerologie/) l’étape. Posez les trois, et la carte parle. [Le parcours complet](/fr/apprendre-le-tarot/) les met dans l’ordre.
+Le manteau du [Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/) est rouge, mais son nombre est le [1](/fr/bibliotheque/numerologie/chiffre-1/), le tout début du cycle : toute l’énergie de la couleur, et rien n’en a encore été fait. L’action est devant lui.
 
 {{% six %}}

@@ -57,7 +57,7 @@ gallery:
 ---
 ## Ce que dit le jaune {#definition}
 
-**Joie, optimisme, fierté, l’enfant intérieur, l’expression de soi, la volonté.** C’est la [grille des couleurs](/fr/bibliotheque/couleurs-tarot/) en une ligne ; le reste de la page dit où regarder et comment lire.
+**Joie, optimisme, fierté, l’enfant intérieur, l’expression de soi, la volonté.**
 
 ## Où la couleur apparaît dans le jeu {#ou}
 
@@ -75,6 +75,6 @@ Le revers du jaune est la fierté qui tourne à la vanité, et l’enfant intér
 
 ## Avec les autres clés {#cles}
 
-La couleur donne le ton ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le domaine, le [nombre](/fr/bibliotheque/numerologie/) l’étape. Posez les trois, et la carte parle. [Le parcours complet](/fr/apprendre-le-tarot/) les met dans l’ordre.
+Le jaune couvre le [Six de Coupes](/fr/bibliotheque/cartes-tarot/six-de-coupes/), des pierres aux coupes, et son enfant intérieur y prend la forme de deux vrais enfants. L’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) fait de la joie un sentiment, et le [6](/fr/bibliotheque/numerologie/chiffre-6/), le nombre de ce qui réussit, en fait une gentillesse qui arrive à bon port.
 
 {{% six %}}

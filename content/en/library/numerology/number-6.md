@@ -69,11 +69,9 @@ Stay calm and humble in the flow of favourable results. Six goes to the head; a 
 
 ## An example everyone knows {#example}
 
-Facebook decides to invest. The trial of 5 is passed, and what threatened the company becomes what propels it. Everything goes faster, everything goes better — and nobody reads the conditions any more. The thread running through this whole section is the story of Instagram, from [1](/library/numerology/number-1/) to 10: you know how it ends, so you can see the cycle.
+Facebook decides to invest. The trial of 5 is passed, and what threatened the company becomes what propels it. Everything goes faster, everything goes better — and nobody reads the conditions any more.
 
 ## The five cards that carry 6 {#cards}
-
-You don't have to memorise them. The number says the step; the [element](/library/four-elements/) says the plane it plays on.
 
 - [The Lovers](/library/tarot-cards/the-lovers/) — major arcana 6.
 - [Six of Wands](/library/tarot-cards/six-of-wands/) — 6 + Fire.

@@ -87,6 +87,6 @@ And a child is easily read too literally. Not every child in a reading is a real
 
 ## With the other lenses {#lenses}
 
-A child is a detail; read it after the colour, the number and the element — [the complete path](/learn-tarot/) puts them in order. Then look at [the Ten of Cups](/library/tarot-cards/ten-of-cups/): the parents look up at the rainbow, and the children look at each other.
+Look at [the Ten of Cups](/library/tarot-cards/ten-of-cups/): the parents look up at the rainbow, and the children look at each other.
 
 {{% six %}}

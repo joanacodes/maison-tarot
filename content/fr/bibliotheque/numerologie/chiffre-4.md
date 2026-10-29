@@ -70,11 +70,9 @@ Rester flexible. S’ouvrir à des possibilités non envisagées. Une structure 
 
 ## Un exemple que tout le monde connaît {#exemple}
 
-Instagram connaît un grand succès, rapide. L’application a une forme, une équipe, des habitudes. C’est solide — et c’est exactement le moment où une entreprise commence à croire qu’elle ne changera plus. Le fil rouge de toute cette section est l’histoire d’Instagram, du [1](/fr/bibliotheque/numerologie/chiffre-1/) au 10 : vous en connaissez la fin, alors vous voyez le cycle.
+Instagram connaît un grand succès, rapide. L’application a une forme, une équipe, des habitudes. C’est solide — et c’est exactement le moment où une entreprise commence à croire qu’elle ne changera plus.
 
 ## Les cinq cartes qui portent le 4 {#cartes}
-
-Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le plan sur lequel elle se joue.
 
 - [L’Empereur](/fr/bibliotheque/cartes-tarot/l-empereur/) — arcane majeur 4.
 - [Quatre de Bâtons](/fr/bibliotheque/cartes-tarot/quatre-de-batons/) — 4 + Feu.

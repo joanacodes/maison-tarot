@@ -55,7 +55,7 @@ gallery:
 ---
 ## What grey says {#definition}
 
-**Neutrality, absence of will, stability.** That's the [colour grid](/library/tarot-colours/) in one line; the rest of the page says where to look and how to read.
+**Neutrality, absence of will, stability.**
 
 ## Where the colour appears in the deck {#where}
 
@@ -73,6 +73,6 @@ Grey's flip side is indifference — neutrality become lifelessness — and the 
 
 ## With the other lenses {#lenses}
 
-Colour gives the tone; the [element](/library/four-elements/) says the field, the [number](/library/numerology/) the step. Lay all three and the card speaks. [The complete path](/learn-tarot/) puts them in order.
+Grey fills everything around the heart on [the Three of Swords](/library/tarot-cards/three-of-swords/). Add [Air](/library/four-elements/air-element/), the suit of thinking, and [3](/library/numerology/number-3/), the one painful three, and the grey reads as the flat stretch after a hurt, before any wish comes back.
 
 {{% six %}}

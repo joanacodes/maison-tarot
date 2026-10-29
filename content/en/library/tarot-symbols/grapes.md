@@ -57,7 +57,7 @@ They’re also a fruit for sharing. Nobody eats a bunch of grapes in one bite.
 
 On [the King of Pentacles](/library/tarot-cards/king-of-pentacles/), grapes are everywhere. His dark robe is covered with vines and bunches of grapes, more vines climb around a throne carved with bulls’ heads, and a castle stands behind him. The most prosperous-looking card in the deck is dressed as a vineyard.
 
-On the Nine of Pentacles, a woman stands in a garden of vines heavy with grapes, a hooded bird on her gloved hand. In my notes, this card is enjoying what comes, with gratitude for everything you have.
+On the Nine of Pentacles, a woman stands in a garden of vines heavy with grapes, a hooded bird on her gloved hand.
 
 On the Ten of Pentacles, bunches of grapes are part of the pattern on the robe of the old man in the foreground, among the family, the dogs and the archway. The harvest handed down.
 
@@ -83,6 +83,6 @@ And ripe fruit doesn’t keep. What isn’t picked in time spoils on the stem.
 
 ## With the other lenses {#lenses}
 
-Grapes are a detail; read them after the colour, the number and the element — [the complete path](/learn-tarot/) explains the order. Then look at [the Nine of Pentacles](/library/tarot-cards/nine-of-pentacles/): she stands among the vines, and picks nothing.
+Look at [the Nine of Pentacles](/library/tarot-cards/nine-of-pentacles/): she stands among the vines, and picks nothing.
 
 {{% six %}}

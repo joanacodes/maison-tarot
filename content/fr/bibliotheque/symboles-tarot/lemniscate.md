@@ -83,6 +83,6 @@ Pour le Magicien, ma note est franche : il sait tout faire, et il peut mentir si
 
 ## Avec les autres clés {#cles}
 
-Le signe est petit ; lisez-le après la couleur, le nombre et l’élément — [le parcours complet](/fr/apprendre-le-tarot/) les met dans l’ordre. Puis comparez [le Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/) et [la Force](/fr/bibliotheque/cartes-tarot/la-force/) : le même signe, tourné vers l’extérieur chez l’un, vers l’intérieur chez l’autre.
+Comparez [le Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/) et [la Force](/fr/bibliotheque/cartes-tarot/la-force/) : le même signe, tourné vers l’extérieur chez l’un, vers l’intérieur chez l’autre.
 
 {{% six %}}

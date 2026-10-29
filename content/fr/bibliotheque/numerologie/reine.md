@@ -68,8 +68,6 @@ Tenir sans retenir. La Reine à son meilleur accueille et laisse passer ; à son
 
 ## Les quatre Reines {#cartes}
 
-Le rang dit *comment* on agit ; l’[élément](/fr/bibliotheque/quatre-elements/) dit *sur quoi*.
-
 - [La Reine de Bâtons](/fr/bibliotheque/cartes-tarot/reine-de-batons/) — Feu.
 - [La Reine de Coupes](/fr/bibliotheque/cartes-tarot/reine-de-coupes/) — Eau.
 - [La Reine d’Épées](/fr/bibliotheque/cartes-tarot/reine-de-epees/) — Air.
@@ -80,9 +78,5 @@ Le rang dit *comment* on agit ; l’[élément](/fr/bibliotheque/quatre-elements
 ## En lecture {#lecture}
 
 Une Reine dans un tirage dit : **quelqu’un maîtrise ceci de l’intérieur.** Une personne mûre dans son domaine, ou l’état de celui qui n’a plus besoin de courir. La Reine de Coupes comprend sans qu’on explique, celle de Bâtons rayonne, celle d’Épées tranche avec justesse, celle de Pentacles fait pousser. Ce n’est pas une question de sexe : un homme peut être Reine, et beaucoup le sont.
-
-## Les quatre rangs, l’un après l’autre {#rangs}
-
-[Valet](/fr/bibliotheque/numerologie/valet/) — [Cavalier](/fr/bibliotheque/numerologie/cavalier/) — [Reine](/fr/bibliotheque/numerologie/reine/) — [Roi](/fr/bibliotheque/numerologie/roi/) : apprendre, agir, tenir, décider. Ce sont des tempéraments plus que des étapes, et les [énergies féminine et masculine](/fr/bibliotheque/energies-feminine-masculine/) expliquent pourquoi Reine et Roi se valent.
 
 {{% six %}}

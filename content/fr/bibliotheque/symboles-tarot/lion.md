@@ -83,6 +83,6 @@ Il existe une ombre inverse : le lion qu’on ne laisse jamais sortir. Un courag
 
 ## Avec les autres clés {#cles}
 
-Un lion est un détail ; lisez-le après la couleur, le nombre et l’élément — [le parcours complet](/fr/apprendre-le-tarot/) donne l’ordre. Puis regardez [la Reine de Bâtons](/fr/bibliotheque/cartes-tarot/reine-de-batons/) : ses lions sont sculptés, et le chat noir à ses pieds est bien réel.
+Regardez [la Reine de Bâtons](/fr/bibliotheque/cartes-tarot/reine-de-batons/) : ses lions sont sculptés, et le chat noir à ses pieds est bien réel.
 
 {{% six %}}

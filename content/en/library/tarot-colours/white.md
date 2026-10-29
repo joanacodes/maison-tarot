@@ -56,7 +56,7 @@ gallery:
 ---
 ## What white says {#definition}
 
-**Purity, innocence, peace.** That's the [colour grid](/library/tarot-colours/) in one line; the rest of the page says where to look and how to read.
+**Purity, innocence, peace.**
 
 ## Where the colour appears in the deck {#where}
 
@@ -74,6 +74,6 @@ White's flip side is naivety — the innocence that doesn't see it coming — an
 
 ## With the other lenses {#lenses}
 
-Colour gives the tone; the [element](/library/four-elements/) says the field, the [number](/library/numerology/) the step. Lay all three and the card speaks. [The complete path](/learn-tarot/) puts them in order.
+White lilies grow in the garden below the coin on [the Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/). With [Earth](/library/four-elements/earth-element/) and a [1](/library/numerology/number-1/), the clean start becomes a concrete one: an offer or a sum of money that nobody has touched yet.
 
 {{% six %}}

@@ -85,6 +85,6 @@ And a river is a border. The Five of Cups has a bridge, but a bridge only helps 
 
 ## With the other lenses {#lenses}
 
-The river gives the movement; the card’s [number](/library/numerology/) gives the step — a 5 is a conflict, a 6 is success and the right to rest, a 10 is the corridor to what comes next. [The complete path](/learn-tarot/) puts those steps in order.
+The river gives the movement; the card’s [number](/library/numerology/) gives the step — a 5 is a conflict, a 6 is success and the right to rest, a 10 is the corridor to what comes next.
 
 {{% six %}}

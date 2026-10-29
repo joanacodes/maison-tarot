@@ -85,6 +85,6 @@ Le trône moelleux de l’Impératrice a sa propre ombre : le soin qui étouffe,
 
 ## Avec les autres clés {#cles}
 
-Lisez le trône après la couleur, le nombre et l’élément ; [le parcours complet](/fr/apprendre-le-tarot/) explique pourquoi cet ordre fonctionne. Puis posez [l’Empereur](/fr/bibliotheque/cartes-tarot/l-empereur/) à côté du Chariot et comparez : l’un siège, l’autre conduit.
+Posez [l’Empereur](/fr/bibliotheque/cartes-tarot/l-empereur/) à côté du Chariot et comparez : l’un siège, l’autre conduit.
 
 {{% six %}}

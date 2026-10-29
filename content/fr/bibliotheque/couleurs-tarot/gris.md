@@ -56,7 +56,7 @@ gallery:
 ---
 ## Ce que dit le gris {#definition}
 
-**Neutralité, absence de volonté, stabilité.** C’est la [grille des couleurs](/fr/bibliotheque/couleurs-tarot/) en une ligne ; le reste de la page dit où regarder et comment lire.
+**Neutralité, absence de volonté, stabilité.**
 
 ## Où la couleur apparaît dans le jeu {#ou}
 
@@ -74,6 +74,6 @@ Le revers du gris est l’indifférence — la neutralité devenue absence de vi
 
 ## Avec les autres clés {#cles}
 
-La couleur donne le ton ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le domaine, le [nombre](/fr/bibliotheque/numerologie/) l’étape. Posez les trois, et la carte parle. [Le parcours complet](/fr/apprendre-le-tarot/) les met dans l’ordre.
+Sur le [Trois d’Épées](/fr/bibliotheque/cartes-tarot/trois-de-epees/), le gris remplit tout autour du cœur. Ajoutez l’[Air](/fr/bibliotheque/quatre-elements/element-air/), la famille de la pensée, et le [3](/fr/bibliotheque/numerologie/chiffre-3/), le seul 3 qui fasse mal : le gris devient ce long moment plat qui suit une blessure, avant que l’envie revienne.
 
 {{% six %}}

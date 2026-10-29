@@ -83,6 +83,6 @@ L’autre ombre, c’est trancher en pleine tempête. Des nuages déchirés, ce 
 
 ## Avec les autres clés {#cles}
 
-Le nuage vous donne la météo ; le nombre et l’élément de la carte vous disent ce qu’il y a dessous. [Le parcours complet](/fr/apprendre-le-tarot/) montre comment lire le ciel et le sol ensemble.
+Le nuage vous donne la météo ; le nombre et l’élément de la carte vous disent ce qu’il y a dessous.
 
 {{% six %}}

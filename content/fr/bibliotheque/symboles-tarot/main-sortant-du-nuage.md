@@ -81,10 +81,10 @@ Puis le nombre. Chaque As est [un 1](/fr/bibliotheque/numerologie/chiffre-1/) : 
 
 La main peut faire attendre. Son ombre, c’est la passivité : rester sous l’arbre jusqu’à ce que quelque chose tombe du ciel, au lieu d’aller chercher. Tous les commencements n’arrivent pas par nuage. Aide-toi, le ciel t’aidera, dit le proverbe — à vous de faire le premier geste.
 
-L’autre ombre, c’est le Quatre de Coupes lui-même : une offre refusée parce qu’on est occupé à compter ce qu’on a déjà. Et parfois ce refus est juste — toutes les offres ne sont pas pour vous. La carte ne tranche pas. Elle vous demande de lever les yeux.
+L’autre ombre, c’est le Quatre de Coupes lui-même : une offre refusée parce qu’on est occupé à compter ce qu’on a déjà. Et parfois ce refus est juste — toutes les offres ne sont pas pour vous. La carte vous demande seulement de lever les yeux.
 
 ## Avec les autres clés {#cles}
 
-La main vous dit que quelque chose est proposé ; la suite vous dit dans quel domaine, la couleur avec quelle humeur. La main sort d’un [nuage](/fr/bibliotheque/symboles-tarot/nuage/), qui a sa propre page. [Le parcours complet](/fr/apprendre-le-tarot/) met les clés dans l’ordre.
+La main vous dit que quelque chose est proposé ; la suite vous dit dans quel domaine, la couleur avec quelle humeur. La main sort d’un [nuage](/fr/bibliotheque/symboles-tarot/nuage/), qui a sa propre page.
 
 {{% six %}}

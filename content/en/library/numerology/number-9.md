@@ -69,11 +69,9 @@ Don't stop a hundred metres from the finish. Nine asks you to hold a little long
 
 ## An example everyone knows {#example}
 
-Instagram redesigns its whole platform and promotes nothing but Reels. It isn't another app yet (that's the 10), but everything that defined it is ending. The thread running through this whole section is the story of Instagram, from [1](/library/numerology/number-1/) to 10: you know how it ends, so you can see the cycle.
+Instagram redesigns its whole platform and promotes nothing but Reels. It isn't another app yet (that's the 10), but everything that defined it is ending.
 
 ## The five cards that carry 9 {#cards}
-
-You don't have to memorise them. The number says the step; the [element](/library/four-elements/) says the plane it plays on.
 
 - [The Hermit](/library/tarot-cards/the-hermit/) — major arcana 9.
 - [Nine of Wands](/library/tarot-cards/nine-of-wands/) — 9 + Fire.

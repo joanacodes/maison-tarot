@@ -67,8 +67,6 @@ Act, yes; charge, no. The Knight is made for leaving, not arriving; the Queen an
 
 ## The four Knights {#cards}
 
-The rank says *how* one acts; the [element](/library/four-elements/) says *on what*.
-
 - [The Knight of Wands](/library/tarot-cards/knight-of-wands/) — Fire.
 - [The Knight of Cups](/library/tarot-cards/knight-of-cups/) — Water.
 - [The Knight of Swords](/library/tarot-cards/knight-of-swords/) — Air.
@@ -79,9 +77,5 @@ The rank says *how* one acts; the [element](/library/four-elements/) says *on wh
 ## In a reading {#reading}
 
 A Knight in a spread says: **it's moving, and fast.** A departure, a decision taken on the go, a person arriving with momentum. The Knight of Wands throws themselves at the project, Swords cuts without looking, Cups brings a proposal, Pentacles advances at their own stubborn pace. Each one's excess is their quality pushed too far.
-
-## The four ranks, one after the other {#ranks}
-
-[Page](/library/numerology/page/) — [Knight](/library/numerology/knight/) — [Queen](/library/numerology/queen/) — [King](/library/numerology/king/): learn, act, hold, decide. Temperaments more than steps, and [feminine and masculine energies](/library/feminine-masculine-energies/) explain why Queen and King are equals.
 
 {{% six %}}

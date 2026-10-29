@@ -70,11 +70,9 @@ Rester calme et humble face au flux de résultats favorables. Le 6 fait monter l
 
 ## Un exemple que tout le monde connaît {#exemple}
 
-Facebook décide d’investir. L’épreuve du 5 est passée, et ce qui la menaçait devient ce qui la propulse. Tout va plus vite, tout va mieux — et personne ne lit plus les conditions. Le fil rouge de toute cette section est l’histoire d’Instagram, du [1](/fr/bibliotheque/numerologie/chiffre-1/) au 10 : vous en connaissez la fin, alors vous voyez le cycle.
+Facebook décide d’investir. L’épreuve du 5 est passée, et ce qui la menaçait devient ce qui la propulse. Tout va plus vite, tout va mieux — et personne ne lit plus les conditions.
 
 ## Les cinq cartes qui portent le 6 {#cartes}
-
-Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le plan sur lequel elle se joue.
 
 - [Les Amoureux](/fr/bibliotheque/cartes-tarot/les-amoureux/) — arcane majeur 6.
 - [Six de Bâtons](/fr/bibliotheque/cartes-tarot/six-de-batons/) — 6 + Feu.

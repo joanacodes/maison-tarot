@@ -57,7 +57,7 @@ C’est aussi un fruit qui se partage. Personne ne mange une grappe d’une seul
 
 Sur [le Roi de Pentacles](/fr/bibliotheque/cartes-tarot/roi-de-pentacles/), le raisin est partout. Sa robe sombre est couverte de vignes et de grappes, d’autres vignes grimpent autour d’un trône sculpté de têtes de taureau, et un château se dresse derrière lui. La carte la plus prospère du jeu est habillée en vignoble.
 
-Sur le Neuf de Pentacles, une femme se tient dans un jardin de vignes chargées de grappes, un oiseau encapuchonné sur sa main gantée. Dans mes notes, cette carte, c’est profiter de ce qui vient, avec de la gratitude pour tout ce qu’on a.
+Sur le Neuf de Pentacles, une femme se tient dans un jardin de vignes chargées de grappes, un oiseau encapuchonné sur sa main gantée.
 
 Sur le Dix de Pentacles, des grappes font partie du motif de la robe du vieil homme, au premier plan, au milieu de la famille, des chiens et de l’arche. La récolte transmise.
 
@@ -83,6 +83,6 @@ Et un fruit mûr ne se garde pas. Ce qu’on ne cueille pas à temps pourrit sur
 
 ## Avec les autres clés {#cles}
 
-Le raisin est un détail ; lisez-le après la couleur, le nombre et l’élément — [le parcours complet](/fr/apprendre-le-tarot/) explique l’ordre. Puis regardez [le Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/) : elle se tient au milieu des vignes, et ne cueille rien.
+Regardez [le Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/) : elle se tient au milieu des vignes, et ne cueille rien.
 
 {{% six %}}

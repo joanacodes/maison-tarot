@@ -70,11 +70,9 @@ Ne pas confondre la mue et la chute. Le 10 demande de respirer, de laisser la fo
 
 ## Un exemple que tout le monde connaît {#exemple}
 
-Instagram change graduellement ses designs ; les gens ne reconnaissent plus la plateforme, parce que c’en est devenu une tout autre. Le cycle est bouclé. Ce qui commence maintenant est une autre histoire — avec son propre 1. Le fil rouge de toute cette section est l’histoire d’Instagram, du [1](/fr/bibliotheque/numerologie/chiffre-1/) au 10 : vous en connaissez la fin, alors vous voyez le cycle.
+Instagram change graduellement ses designs ; les gens ne reconnaissent plus la plateforme, parce que c’en est devenu une tout autre. Le cycle est bouclé. Ce qui commence maintenant est une autre histoire — avec son propre 1.
 
 ## Les cinq cartes qui portent le 10 {#cartes}
-
-Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le plan sur lequel elle se joue.
 
 - [La Roue de Fortune](/fr/bibliotheque/cartes-tarot/la-roue-de-fortune/) — arcane majeur X.
 - [Dix de Bâtons](/fr/bibliotheque/cartes-tarot/dix-de-batons/) — 10 + Feu.

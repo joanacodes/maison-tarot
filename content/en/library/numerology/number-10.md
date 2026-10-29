@@ -69,11 +69,9 @@ Don't mistake the moult for the fall. Ten asks you to breathe, to let the old sh
 
 ## An example everyone knows {#example}
 
-Instagram gradually changes its designs; people no longer recognise the platform, because it has become another one entirely. The cycle is closed. What starts now is another story — with its own 1. The thread running through this whole section is the story of Instagram, from [1](/library/numerology/number-1/) to 10: you know how it ends, so you can see the cycle.
+Instagram gradually changes its designs; people no longer recognise the platform, because it has become another one entirely. The cycle is closed. What starts now is another story — with its own 1.
 
 ## The five cards that carry 10 {#cards}
-
-You don't have to memorise them. The number says the step; the [element](/library/four-elements/) says the plane it plays on.
 
 - [Wheel of Fortune](/library/tarot-cards/wheel-of-fortune/) — major arcana X.
 - [Ten of Wands](/library/tarot-cards/ten-of-wands/) — 10 + Fire.

@@ -59,7 +59,7 @@ Sur le Mat, un soleil blanc est accroché dans le coin d’un ciel jaune. Le dé
 
 Sur les Amoureux, un soleil immense occupe tout le haut de la carte, derrière l’ange. Le choix entre les deux personnages se fait au grand jour.
 
-Sur la Mort, un petit soleil se tient à l’horizon entre deux tours, derrière le cavalier. Lever ou coucher ? La carte ne tranche pas. Dans mes notes, la Mort est liée à la moisson et au fait de recommencer, et ce soleil porte les deux.
+Sur la Mort, un petit soleil se tient à l’horizon entre deux tours, derrière le cavalier. Lever ou coucher ? Dans mes notes, la Mort est liée à la moisson et au fait de recommencer, et ce soleil porte les deux.
 
 Sur Tempérance, une lumière rayonnante se lève entre deux sommets, là où finit le chemin, et l’ange porte au front un petit cercle pointé — l’ancien signe du soleil.
 
@@ -77,7 +77,7 @@ La carte a [sa propre page](/fr/bibliotheque/cartes-tarot/le-soleil/), et le Sol
 
 Demandez-vous sur quoi tombe la lumière. Sur le Mat, sur un commencement ; sur les Amoureux, sur un choix ; sur la Mort, sur une fin qu’on voit venir. Le soleil ne juge pas ce qu’il montre. Il le montre.
 
-Croisez-le ensuite avec les autres clés. Dans ce jeu, le soleil est [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) : la joie, l’optimisme, la fierté, l’enfant intérieur, la volonté. Il va avec le [Feu](/fr/bibliotheque/quatre-elements/element-feu/), qui réchauffe et éclaire la nuit. Et il penche vers l’[énergie masculine](/fr/bibliotheque/energies-feminine-masculine/) au sens où je l’entends : ce qui se montre, ce qui monte sur scène.
+Dans ce jeu, le soleil est [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) : la joie, l’optimisme, la fierté, l’enfant intérieur, la volonté. Il va avec le [Feu](/fr/bibliotheque/quatre-elements/element-feu/), qui réchauffe et éclaire la nuit. Et il penche vers l’[énergie masculine](/fr/bibliotheque/energies-feminine-masculine/) au sens où je l’entends : ce qui se montre, ce qui monte sur scène.
 
 ## Le revers {#revers}
 
@@ -87,6 +87,6 @@ Et le soleil de la Mort rappelle que le soleil se couche aussi. Une chose peut �
 
 ## Avec les autres clés {#cles}
 
-Le soleil vous donne la lumière ; le [nombre](/fr/bibliotheque/numerologie/) de la carte et son élément vous disent sur quoi elle tombe. [Le parcours complet](/fr/apprendre-le-tarot/) montre comment poser les clés l’une sur l’autre jusqu’à ce que la carte parle.
+Le soleil vous donne la lumière ; le [nombre](/fr/bibliotheque/numerologie/) de la carte et son élément vous disent sur quoi elle tombe.
 
 {{% six %}}

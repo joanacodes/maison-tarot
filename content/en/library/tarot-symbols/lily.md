@@ -87,6 +87,6 @@ There’s a quieter shadow too. A white flower among red ones can be the voice t
 
 ## With the other lenses {#lenses}
 
-A lily is a detail; read it after the colour, the number and the element — [the complete path](/learn-tarot/) explains the order. Then read [the rose](/library/tarot-symbols/rose/) page: in this deck, the two flowers rarely grow apart.
+Read [the rose](/library/tarot-symbols/rose/) page: in this deck, the two flowers rarely grow apart.
 
 {{% six %}}

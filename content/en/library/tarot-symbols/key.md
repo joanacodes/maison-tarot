@@ -81,6 +81,6 @@ The Eight of Swords is the reminder. Sometimes the door is open, and the lock is
 
 ## With the other lenses {#lenses}
 
-A key is a detail; colour, number and element come first, and [the complete path](/learn-tarot/) puts them in order. Then look at [the Eight of Swords](/library/tarot-cards/eight-of-swords/) with the Hierophant’s keys in mind: who did she hand hers to?
+Look at [the Eight of Swords](/library/tarot-cards/eight-of-swords/) with the Hierophant’s keys in mind: who did she hand hers to?
 
 {{% six %}}

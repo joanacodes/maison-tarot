@@ -69,8 +69,6 @@ Décider, puis rendre des comptes. Le Roi à son meilleur protège ce qu’il go
 
 ## Les quatre Rois {#cartes}
 
-Le rang dit *comment* on agit ; l’[élément](/fr/bibliotheque/quatre-elements/) dit *sur quoi*.
-
 - [Le Roi de Bâtons](/fr/bibliotheque/cartes-tarot/roi-de-batons/) — Feu.
 - [Le Roi de Coupes](/fr/bibliotheque/cartes-tarot/roi-de-coupes/) — Eau.
 - [Le Roi d’Épées](/fr/bibliotheque/cartes-tarot/roi-de-epees/) — Air.
@@ -81,9 +79,5 @@ Le rang dit *comment* on agit ; l’[élément](/fr/bibliotheque/quatre-elements
 ## En lecture {#lecture}
 
 Un Roi dans un tirage dit : **quelqu’un décide, ou doit décider.** Une figure d’autorité, ou le moment de l’être soi-même. Le Roi de Bâtons entraîne, celui de Coupes garde son calme dans la tempête, celui d’Épées juge, celui de Pentacles fait fructifier. Deux Rois côte à côte : un conflit de pouvoir. Un Roi renversé : l’autorité qui a cessé de servir.
-
-## Les quatre rangs, l’un après l’autre {#rangs}
-
-[Valet](/fr/bibliotheque/numerologie/valet/) — [Cavalier](/fr/bibliotheque/numerologie/cavalier/) — [Reine](/fr/bibliotheque/numerologie/reine/) — [Roi](/fr/bibliotheque/numerologie/roi/) : apprendre, agir, tenir, décider. Ce sont des tempéraments plus que des étapes, et les [énergies féminine et masculine](/fr/bibliotheque/energies-feminine-masculine/) expliquent pourquoi Reine et Roi se valent.
 
 {{% six %}}

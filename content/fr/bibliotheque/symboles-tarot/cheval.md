@@ -81,6 +81,6 @@ Sur la Mort, le cheval rappelle aussi que certains changements arrivent à leur 
 
 ## Avec les autres clés {#cles}
 
-Le cheval est un détail ; lisez-le après la couleur, le nombre et l’élément — [le parcours complet](/fr/apprendre-le-tarot/) montre comment. Puis regardez [le Soleil](/fr/bibliotheque/cartes-tarot/le-soleil/) et son enfant qui monte sans rênes, et demandez-vous ce qu’il vous faudrait pour avoir autant confiance.
+Regardez [le Soleil](/fr/bibliotheque/cartes-tarot/le-soleil/) et son enfant qui monte sans rênes, et demandez-vous ce qu’il vous faudrait pour avoir autant confiance.
 
 {{% six %}}

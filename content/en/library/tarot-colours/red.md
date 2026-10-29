@@ -57,7 +57,7 @@ gallery:
 ---
 ## What red says {#definition}
 
-**Passion, action, strength, impulse.** Masculine energy. That's the [colour grid](/library/tarot-colours/) in one line; the rest of the page says where to look and how to read.
+**Passion, action, strength, impulse.** Masculine energy.
 
 ## Where the colour appears in the deck {#where}
 
@@ -75,6 +75,6 @@ Red's flip side is brutality: the impulse that won't stop, anger, the passion th
 
 ## With the other lenses {#lenses}
 
-Colour gives the tone; the [element](/library/four-elements/) says the field, the [number](/library/numerology/) the step. Lay all three and the card speaks. [The complete path](/learn-tarot/) puts them in order.
+[The Magician](/library/tarot-cards/the-magician/)'s cloak is red, but his number is [1](/library/numerology/number-1/), the very start of the cycle: all the drive of the colour, and nothing done with it yet. The action is still ahead of him.
 
 {{% six %}}

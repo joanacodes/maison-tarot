@@ -57,7 +57,7 @@ gallery:
 ---
 ## Ce que dit le blanc {#definition}
 
-**Pureté, innocence, paix.** C’est la [grille des couleurs](/fr/bibliotheque/couleurs-tarot/) en une ligne ; le reste de la page dit où regarder et comment lire.
+**Pureté, innocence, paix.**
 
 ## Où la couleur apparaît dans le jeu {#ou}
 
@@ -75,6 +75,6 @@ Le revers du blanc est la naïveté — l’innocence qui ne voit pas venir — 
 
 ## Avec les autres clés {#cles}
 
-La couleur donne le ton ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le domaine, le [nombre](/fr/bibliotheque/numerologie/) l’étape. Posez les trois, et la carte parle. [Le parcours complet](/fr/apprendre-le-tarot/) les met dans l’ordre.
+Des lys blancs poussent dans le jardin, sous la pièce de l’[As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/). Avec la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) et le [1](/fr/bibliotheque/numerologie/chiffre-1/), le départ propre devient concret : une offre ou une somme d’argent dont personne ne s’est encore servi.
 
 {{% six %}}

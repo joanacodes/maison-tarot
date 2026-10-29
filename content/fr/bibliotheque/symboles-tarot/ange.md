@@ -79,10 +79,10 @@ La couleur : les trois grands anges ont des ailes rouges, et le rouge, dans [ma 
 
 L’autre face de l’ange, c’est attendre d’être sauvé. Une figure dans le ciel peut devenir une raison de ne pas agir : quelqu’un viendra, quelqu’un décidera, quelqu’un arrangera les choses. La femme des Amoureux, qui lève les yeux vers l’ange plutôt que vers l’homme en face d’elle, peut se lire aussi de cette façon.
 
-Et tout n’est pas une affaire d’esprits. Parfois, la vue plus large dont vous avez besoin est celle d’une amie, d’un médecin ou d’un thérapeute, et c’est un très bon ange.
+Parfois, la vue plus large dont vous avez besoin est celle d’une amie, d’un médecin ou d’un thérapeute, et c’est un très bon ange.
 
 ## Avec les autres clés {#cles}
 
-L’ange est un détail ; la couleur, le nombre et l’élément passent d’abord, et [le parcours complet](/fr/apprendre-le-tarot/) explique l’ordre. Puis relisez [le Jugement](/fr/bibliotheque/cartes-tarot/le-jugement/) en pensant à la trompette : quel appel faites-vous semblant de ne pas entendre ?
+Relisez [le Jugement](/fr/bibliotheque/cartes-tarot/le-jugement/) en pensant à la trompette : quel appel faites-vous semblant de ne pas entendre ?
 
 {{% six %}}

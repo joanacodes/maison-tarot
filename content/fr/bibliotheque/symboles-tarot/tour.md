@@ -85,6 +85,6 @@ Et chaque tour debout du jeu a une cousine qui tombe. Une structure construite s
 
 ## Avec les autres clés {#cles}
 
-Une tour est un détail ; la couleur, le nombre et l’élément passent avant, et [le parcours complet](/fr/apprendre-le-tarot/) explique l’ordre. Puis regardez de nouveau [le Deux de Bâtons](/fr/bibliotheque/cartes-tarot/deux-de-batons/) : il a le globe dans la main et le mur devant lui.
+Regardez de nouveau [le Deux de Bâtons](/fr/bibliotheque/cartes-tarot/deux-de-batons/) : il a le globe dans la main et le mur devant lui.
 
 {{% six %}}

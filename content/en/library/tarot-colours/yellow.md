@@ -57,7 +57,7 @@ gallery:
 ---
 ## What yellow says {#definition}
 
-**Joy, optimism, pride, the inner child, self-expression, will.** That's the [colour grid](/library/tarot-colours/) in one line; the rest of the page says where to look and how to read.
+**Joy, optimism, pride, the inner child, self-expression, will.**
 
 ## Where the colour appears in the deck {#where}
 
@@ -75,6 +75,6 @@ Yellow's flip side is pride turned vanity, and the inner child who refuses to gr
 
 ## With the other lenses {#lenses}
 
-Colour gives the tone; the [element](/library/four-elements/) says the field, the [number](/library/numerology/) the step. Lay all three and the card speaks. [The complete path](/learn-tarot/) puts them in order.
+Yellow covers [the Six of Cups](/library/tarot-cards/six-of-cups/), stone and cups alike, and its inner child is drawn as two real children. [Water](/library/four-elements/water-element/) makes the joy a feeling, and [6](/library/numerology/number-6/), the number of things going well, makes it a kindness that lands.
 
 {{% six %}}

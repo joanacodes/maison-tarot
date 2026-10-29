@@ -89,6 +89,6 @@ And too much water drowns. Fire destroys at once; neglected water destroys deepe
 
 ## With the other lenses {#lenses}
 
-Water tells you the reading is about feeling; the number and colour tell you how much, and in what state. [The complete path](/learn-tarot/) lays the lenses out one after the other.
+Water tells you the reading is about feeling; the number and colour tell you how much, and in what state.
 
 {{% six %}}

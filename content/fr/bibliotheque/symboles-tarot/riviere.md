@@ -85,6 +85,6 @@ Et une rivière est une frontière. Le Cinq de Coupes a un pont, mais un pont ne
 
 ## Avec les autres clés {#cles}
 
-La rivière donne le mouvement ; le [nombre](/fr/bibliotheque/numerologie/) de la carte donne l’étape — le 5 est un conflit, le 6 la réussite et le droit au repos, le 10 le couloir vers ce qui vient. [Le parcours complet](/fr/apprendre-le-tarot/) met ces étapes dans l’ordre.
+La rivière donne le mouvement ; le [nombre](/fr/bibliotheque/numerologie/) de la carte donne l’étape — le 5 est un conflit, le 6 la réussite et le droit au repos, le 10 le couloir vers ce qui vient.
 
 {{% six %}}

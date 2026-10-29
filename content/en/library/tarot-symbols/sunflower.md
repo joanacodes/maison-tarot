@@ -83,6 +83,6 @@ And a flower that only faces the light has a side it never looks at. Next to hea
 
 ## With the other lenses {#lenses}
 
-A sunflower is a detail; colour, number and element come first, and [the complete path](/learn-tarot/) puts them in order. Then go back to [the Sun](/library/tarot-cards/the-sun/) and look at the wall: the flowers grow above it, and the child rides in front of it.
+Go back to [the Sun](/library/tarot-cards/the-sun/) and look at the wall: the flowers grow above it, and the child rides in front of it.
 
 {{% six %}}

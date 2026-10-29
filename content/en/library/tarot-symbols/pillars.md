@@ -73,7 +73,7 @@ Two cards have cousins rather than pillars: the two towers on the horizon of [th
 
 When pillars come up, ask what’s being kept on either side. The pillars don’t move, and the person between them doesn’t either. The card is about a passage you haven’t made yet, and the conditions for making it.
 
-Then lay the other lenses on top. Colour first: black and white on the High Priestess is two opposites held together; grey on the Hierophant and Justice is, in [my colour grid](/library/tarot-colours/grey/), neutrality and stability — a frame that doesn’t take sides. Number next: the High Priestess is 2, and Justice, card 11, comes back to 2 when you add its digits. Both sit between two pillars. [The number 2](/library/numerology/number-2/) is binding, signing, weighing: read the contract before you commit.
+Colour first: black and white on the High Priestess is two opposites held together; grey on the Hierophant and Justice is, in [my colour grid](/library/tarot-colours/grey/), neutrality and stability — a frame that doesn’t take sides. Number next: the High Priestess is 2, and Justice, card 11, comes back to 2 when you add its digits. Both sit between two pillars. [The number 2](/library/numerology/number-2/) is binding, signing, weighing: read the contract before you commit.
 
 Say someone draws the Hierophant just as a new job is on the table. The pillars say there’s a structure here, with its own rules, and you’ll go in on its terms or not at all. That isn’t bad news; it’s information.
 
@@ -85,6 +85,6 @@ When the cards around it are heavy, the question shifts from “how do I get thr
 
 ## With the other lenses {#lenses}
 
-A symbol is a detail; it doesn’t replace the card. Read the pillars after the colour, the number and the element, never instead of them — [the complete path](/learn-tarot/) puts the lenses in order. Then go back to [the High Priestess](/library/tarot-cards/the-high-priestess/) and look at what she’s sitting in front of.
+Go back to [the High Priestess](/library/tarot-cards/the-high-priestess/) and look at what she’s sitting in front of.
 
 {{% six %}}

@@ -70,11 +70,9 @@ gallery:
 
 ## Un exemple que tout le monde connaît {#exemple}
 
-Facebook débarque pour racheter Instagram — ou, autre version du même 5, IGTV fait un flop et sera retiré. Une menace de l’extérieur, ou un pari raté de l’intérieur : dans les deux cas, on découvre ce qui tient. Le fil rouge de toute cette section est l’histoire d’Instagram, du [1](/fr/bibliotheque/numerologie/chiffre-1/) au 10 : vous en connaissez la fin, alors vous voyez le cycle.
+Facebook débarque pour racheter Instagram — ou, autre version du même 5, IGTV fait un flop et sera retiré. Une menace de l’extérieur, ou un pari raté de l’intérieur : dans les deux cas, on découvre ce qui tient.
 
 ## Les cinq cartes qui portent le 5 {#cartes}
-
-Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le plan sur lequel elle se joue.
 
 - [Le Hiérophante](/fr/bibliotheque/cartes-tarot/le-hierophante/) — arcane majeur 5.
 - [Cinq de Bâtons](/fr/bibliotheque/cartes-tarot/cinq-de-batons/) — 5 + Feu.

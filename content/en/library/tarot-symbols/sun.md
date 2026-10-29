@@ -77,7 +77,7 @@ The card has [its own page](/library/tarot-cards/the-sun/), and the Sun in a bir
 
 Ask what the light is falling on. On the Fool, it’s a beginning; on the Lovers, a choice; on Death, an ending you can see coming. The sun doesn’t judge what it shows. It shows.
 
-Then cross it with the other lenses. The sun is [yellow](/library/tarot-colours/yellow/) in this deck: joy, optimism, pride, the inner child, will. It belongs with [Fire](/library/four-elements/fire-element/), which warms and lights the night. And it leans towards [masculine energy](/library/feminine-masculine-energies/) in my sense of the word: what shows itself, what goes on stage.
+The sun is [yellow](/library/tarot-colours/yellow/) in this deck: joy, optimism, pride, the inner child, will. It belongs with [Fire](/library/four-elements/fire-element/), which warms and lights the night. And it leans towards [masculine energy](/library/feminine-masculine-energies/) in my sense of the word: what shows itself, what goes on stage.
 
 ## The other side {#flip-side}
 
@@ -87,6 +87,6 @@ And Death’s sun is a reminder that the sun also sets. Something can be lit up 
 
 ## With the other lenses {#lenses}
 
-The sun gives you the light; the card’s [number](/library/numerology/) and its element tell you what the light is falling on. [The complete path](/learn-tarot/) shows how to lay the lenses one over the other until the card speaks.
+The sun gives you the light; the card’s [number](/library/numerology/) and its element tell you what the light is falling on.
 
 {{% six %}}

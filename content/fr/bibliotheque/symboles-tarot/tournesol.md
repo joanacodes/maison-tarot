@@ -83,6 +83,6 @@ Et une fleur toujours tournée vers la lumière a un côté qu’elle ne regarde
 
 ## Avec les autres clés {#cles}
 
-Un tournesol est un détail ; la couleur, le nombre et l’élément passent avant, et [le parcours complet](/fr/apprendre-le-tarot/) les met dans l’ordre. Puis revenez au [Soleil](/fr/bibliotheque/cartes-tarot/le-soleil/) et regardez le mur : les fleurs poussent au-dessus, l’enfant passe devant.
+Revenez au [Soleil](/fr/bibliotheque/cartes-tarot/le-soleil/) et regardez le mur : les fleurs poussent au-dessus, l’enfant passe devant.
 
 {{% six %}}

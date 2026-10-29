@@ -87,6 +87,6 @@ Et un chemin où personne ne marche, comme ceux de Tempérance et de la Lune, pe
 
 ## Avec les autres clés {#cles}
 
-Un chemin est un détail ; lisez-le après la couleur, le nombre et l’élément — [le parcours complet](/fr/apprendre-le-tarot/) donne l’ordre, et celui-là est fait pour être parcouru. Puis regardez [le Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/) : dans mes notes, c’est passer à autre chose que ce qu’on fait déjà, et personne ne lui a dessiné de route.
+Regardez [le Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/) : dans mes notes, c’est passer à autre chose que ce qu’on fait déjà, et personne ne lui a dessiné de route.
 
 {{% six %}}

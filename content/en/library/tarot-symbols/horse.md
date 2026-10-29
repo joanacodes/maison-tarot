@@ -81,6 +81,6 @@ On Death, the horse is also a reminder that some changes arrive at their own spe
 
 ## With the other lenses {#lenses}
 
-The horse is a detail; read it after the colour, the number and the element — [the complete path](/learn-tarot/) shows how. Then look at [the Sun](/library/tarot-cards/the-sun/) and its child riding without reins, and ask what you’d need to trust that much.
+Look at [the Sun](/library/tarot-cards/the-sun/) and its child riding without reins, and ask what you’d need to trust that much.
 
 {{% six %}}

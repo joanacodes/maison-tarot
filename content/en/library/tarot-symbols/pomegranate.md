@@ -81,6 +81,6 @@ On the Empress the shadow is the reverse: too much fruit. In my notes she can sm
 
 ## With the other lenses {#lenses}
 
-A pomegranate is a detail; read it after the colour, the number and the element — [the complete path](/learn-tarot/) gives the order. Then open [the Empress](/library/tarot-cards/the-empress/) next to the High Priestess and look at where each woman keeps her fruit.
+Open [the Empress](/library/tarot-cards/the-empress/) next to the High Priestess and look at where each woman keeps her fruit.
 
 {{% six %}}

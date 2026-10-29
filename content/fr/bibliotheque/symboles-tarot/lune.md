@@ -85,6 +85,6 @@ Mais la lune revient aussi. Ce qui est sombre ce soir ne le restera pas toujours
 
 ## Avec les autres clés {#cles}
 
-La lune vous dit que la lumière est basse ; le nombre et l’élément vous disent ce que vous traversez. [Le parcours complet](/fr/apprendre-le-tarot/) met les clés dans l’ordre, pour qu’une seule lune n’ait pas à porter toute la lecture.
+La lune vous dit que la lumière est basse ; le nombre et l’élément vous disent ce que vous traversez.
 
 {{% six %}}

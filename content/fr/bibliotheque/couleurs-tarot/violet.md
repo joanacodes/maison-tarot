@@ -57,7 +57,7 @@ gallery:
 ---
 ## Ce que dit le violet {#definition}
 
-**L’élu choisi par un groupe.** C’est la [grille des couleurs](/fr/bibliotheque/couleurs-tarot/) en une ligne ; le reste de la page dit où regarder et comment lire.
+**L’élu choisi par un groupe.**
 
 ## Où la couleur apparaît dans le jeu {#ou}
 
@@ -75,6 +75,6 @@ Le revers du violet est le titre sans le mérite — l’élu qui se croit spéc
 
 ## Avec les autres clés {#cles}
 
-La couleur donne le ton ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le domaine, le [nombre](/fr/bibliotheque/numerologie/) l’étape. Posez les trois, et la carte parle. [Le parcours complet](/fr/apprendre-le-tarot/) les met dans l’ordre.
+Sur le [Roi d’Épées](/fr/bibliotheque/cartes-tarot/roi-de-epees/), le violet est un manteau, et les autres clés disent à quoi sert la fonction : un [Roi](/fr/bibliotheque/numerologie/roi/) décide, et l’[Air](/fr/bibliotheque/quatre-elements/element-air/) est l’élément de la réflexion. Une autorité qu’un groupe lui a confiée, pour juger à tête reposée.
 
 {{% six %}}

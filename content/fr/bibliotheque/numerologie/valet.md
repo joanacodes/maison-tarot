@@ -69,8 +69,6 @@ Rester élève. Le Valet qui se croit Roi rate sa leçon ; le Valet qui accepte 
 
 ## Les quatre Valets {#cartes}
 
-Le rang dit *comment* on agit ; l’[élément](/fr/bibliotheque/quatre-elements/) dit *sur quoi*.
-
 - [Le Valet de Bâtons](/fr/bibliotheque/cartes-tarot/valet-de-batons/) — Feu.
 - [Le Valet de Coupes](/fr/bibliotheque/cartes-tarot/valet-de-coupes/) — Eau.
 - [Le Valet d’Épées](/fr/bibliotheque/cartes-tarot/valet-de-epees/) — Air.
@@ -81,9 +79,5 @@ Le rang dit *comment* on agit ; l’[élément](/fr/bibliotheque/quatre-elements
 ## En lecture {#lecture}
 
 Un Valet dans un tirage dit : **quelqu’un apprend, ou une nouvelle arrive.** Le Valet de Coupes reçoit un poisson dans sa coupe — une émotion inattendue ; le Valet de Bâtons regarde son bâton pousser — une envie neuve ; le Valet d’Épées guette — une idée qui s’aiguise ; le Valet de Pentacles contemple sa pièce — une offre concrète. C’est parfois une personne jeune, plus souvent un état : le début d’un apprentissage.
-
-## Les quatre rangs, l’un après l’autre {#rangs}
-
-[Valet](/fr/bibliotheque/numerologie/valet/) — [Cavalier](/fr/bibliotheque/numerologie/cavalier/) — [Reine](/fr/bibliotheque/numerologie/reine/) — [Roi](/fr/bibliotheque/numerologie/roi/) : apprendre, agir, tenir, décider. Ce sont des tempéraments plus que des étapes, et les [énergies féminine et masculine](/fr/bibliotheque/energies-feminine-masculine/) expliquent pourquoi Reine et Roi se valent.
 
 {{% six %}}

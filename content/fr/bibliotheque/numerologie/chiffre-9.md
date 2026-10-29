@@ -70,11 +70,9 @@ Ne pas s’arrêter à cent mètres de l’arrivée. Le 9 demande de tenir un pe
 
 ## Un exemple que tout le monde connaît {#exemple}
 
-Instagram transforme tout le design de sa plateforme et ne promeut plus que les Reels. Ce n’est pas encore une autre application (ce sera le 10), mais tout ce qui la définissait est en train de finir. Le fil rouge de toute cette section est l’histoire d’Instagram, du [1](/fr/bibliotheque/numerologie/chiffre-1/) au 10 : vous en connaissez la fin, alors vous voyez le cycle.
+Instagram transforme tout le design de sa plateforme et ne promeut plus que les Reels. Ce n’est pas encore une autre application (ce sera le 10), mais tout ce qui la définissait est en train de finir.
 
 ## Les cinq cartes qui portent le 9 {#cartes}
-
-Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le plan sur lequel elle se joue.
 
 - [L’Ermite](/fr/bibliotheque/cartes-tarot/l-ermite/) — arcane majeur 9.
 - [Neuf de Bâtons](/fr/bibliotheque/cartes-tarot/neuf-de-batons/) — 9 + Feu.

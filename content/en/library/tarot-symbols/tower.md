@@ -85,6 +85,6 @@ And every standing tower in the deck has one cousin that falls. A structure buil
 
 ## With the other lenses {#lenses}
 
-A tower is a detail; colour, number and element come first, and [the complete path](/learn-tarot/) explains the order. Then look again at [the Two of Wands](/library/tarot-cards/two-of-wands/): he has the globe in his hand and the wall in front of him.
+Look again at [the Two of Wands](/library/tarot-cards/two-of-wands/): he has the globe in his hand and the wall in front of him.
 
 {{% six %}}

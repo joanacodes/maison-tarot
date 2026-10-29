@@ -85,6 +85,6 @@ The hooded bird has its shadow. Kept on a glove, it’s beautiful, and it isn’
 
 ## With the other lenses {#lenses}
 
-A bird is a detail; read it after the colour, the number and the element, never instead of them — [the complete path](/learn-tarot/) puts them in order. Then look again at [the Nine of Pentacles](/library/tarot-cards/nine-of-pentacles/): a snail crawls along the ground below her, and the bird on her hand doesn’t move at all.
+Look again at [the Nine of Pentacles](/library/tarot-cards/nine-of-pentacles/): a snail crawls along the ground below her, and the bird on her hand doesn’t move at all.
 
 {{% six %}}

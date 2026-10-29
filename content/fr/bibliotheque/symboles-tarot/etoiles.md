@@ -87,6 +87,6 @@ Le Diable montre une autre ombre : le signe qui guide, mis à l’envers, une di
 
 ## Avec les autres clés {#cles}
 
-L’étoile vous donne la direction ; le nombre et l’élément vous disent où vous en êtes sur la route. [Le parcours complet](/fr/apprendre-le-tarot/) pose les clés dans l’ordre, pour lire le ciel et le sol en même temps.
+L’étoile vous donne la direction ; le nombre et l’élément vous disent où vous en êtes sur la route.
 
 {{% six %}}

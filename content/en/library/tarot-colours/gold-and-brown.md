@@ -57,7 +57,7 @@ gallery:
 ---
 ## What gold and brown says {#definition}
 
-**Value earned, matter, worked earth.** That's the [colour grid](/library/tarot-colours/) in one line; the rest of the page says where to look and how to read.
+**Value earned, matter, worked earth.**
 
 ## Where the colour appears in the deck {#where}
 
@@ -75,6 +75,6 @@ Gold's flip side is greed — the Four of Pentacles clutching its coins — and 
 
 ## With the other lenses {#lenses}
 
-Colour gives the tone; the [element](/library/four-elements/) says the field, the [number](/library/numerology/) the step. Lay all three and the card speaks. [The complete path](/learn-tarot/) puts them in order.
+On [the Seven of Pentacles](/library/tarot-cards/seven-of-pentacles/), gold and brown sit on a [7](/library/numerology/number-7/), the step where you look at what you have before deciding what's next. The coins can already be counted, and the brown ground he stands on is the work they cost.
 
 {{% six %}}

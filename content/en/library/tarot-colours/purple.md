@@ -57,7 +57,7 @@ gallery:
 ---
 ## What purple says {#definition}
 
-**The one chosen by a group.** That's the [colour grid](/library/tarot-colours/) in one line; the rest of the page says where to look and how to read.
+**The one chosen by a group.**
 
 ## Where the colour appears in the deck {#where}
 
@@ -75,6 +75,6 @@ Purple's flip side is the title without the merit — the chosen one who thinks 
 
 ## With the other lenses {#lenses}
 
-Colour gives the tone; the [element](/library/four-elements/) says the field, the [number](/library/numerology/) the step. Lay all three and the card speaks. [The complete path](/learn-tarot/) puts them in order.
+Purple shows up as a cloak on [the King of Swords](/library/tarot-cards/king-of-swords/), and the other lenses say what the office is for: a [King](/library/numerology/king/) decides, and [Air](/library/four-elements/air-element/) is where decisions get thought through. Authority a group handed him, to judge with a clear head.
 
 {{% six %}}

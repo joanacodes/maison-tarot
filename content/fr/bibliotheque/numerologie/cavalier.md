@@ -67,8 +67,6 @@ Agir, oui ; foncer, non. Le Cavalier est fait pour partir, pas pour arriver ; c�
 
 ## Les quatre Cavaliers {#cartes}
 
-Le rang dit *comment* on agit ; l’[élément](/fr/bibliotheque/quatre-elements/) dit *sur quoi*.
-
 - [Le Cavalier de Bâtons](/fr/bibliotheque/cartes-tarot/cavalier-de-batons/) — Feu.
 - [Le Cavalier de Coupes](/fr/bibliotheque/cartes-tarot/cavalier-de-coupes/) — Eau.
 - [Le Cavalier d’Épées](/fr/bibliotheque/cartes-tarot/cavalier-de-epees/) — Air.
@@ -79,9 +77,5 @@ Le rang dit *comment* on agit ; l’[élément](/fr/bibliotheque/quatre-elements
 ## En lecture {#lecture}
 
 Un Cavalier dans un tirage dit : **ça bouge, et vite.** Un départ, une décision prise en marchant, une personne qui arrive avec de l’élan. Le Cavalier de Bâtons se jette dans le projet, celui d’Épées tranche sans regarder, celui de Coupes apporte une proposition, celui de Pentacles avance à son rythme, obstiné. L’excès de chacun est sa qualité poussée trop loin.
-
-## Les quatre rangs, l’un après l’autre {#rangs}
-
-[Valet](/fr/bibliotheque/numerologie/valet/) — [Cavalier](/fr/bibliotheque/numerologie/cavalier/) — [Reine](/fr/bibliotheque/numerologie/reine/) — [Roi](/fr/bibliotheque/numerologie/roi/) : apprendre, agir, tenir, décider. Ce sont des tempéraments plus que des étapes, et les [énergies féminine et masculine](/fr/bibliotheque/energies-feminine-masculine/) expliquent pourquoi Reine et Roi se valent.
 
 {{% six %}}

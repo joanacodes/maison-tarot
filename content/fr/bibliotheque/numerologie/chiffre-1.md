@@ -84,11 +84,11 @@ Quand le 1 sort, le conseil tient en un mot : **l’humilité**.
 
 En 2010, Kevin Systrom et Mike Krieger créent une petite application de géolocalisation qui s’appelle Burbn. Elle ne marche pas vraiment. Ils gardent la seule fonction que les gens utilisent — partager une photo — et la renomment Instagram.
 
-À ce moment-là, ils ont un 1 : une idée qui tient dans la main, aucune preuve qu’elle vaut quelque chose, et une seule bonne décision possible — rester élève de ce qu’ils viennent de lancer. Le reste du cycle, du [2](/fr/bibliotheque/numerologie/chiffre-2/) (les investisseurs qui signent) au [10](/fr/bibliotheque/numerologie/chiffre-10/) (une plateforme qu’on ne reconnaît plus), c’est l’histoire de la même entreprise. C’est pour ça que la Maison prend Instagram comme fil rouge : vous connaissez déjà la fin, alors vous voyez le cycle.
+À ce moment-là, ils ont un 1 : une idée qui tient dans la main, aucune preuve qu’elle vaut quelque chose, et une seule bonne décision possible — rester élève de ce qu’ils viennent de lancer. Le reste du cycle, du [2](/fr/bibliotheque/numerologie/chiffre-2/) (les investisseurs qui signent) au [10](/fr/bibliotheque/numerologie/chiffre-10/) (une plateforme qu’on ne reconnaît plus), c’est l’histoire de la même entreprise.
 
 ## Les cinq cartes qui portent le 1 {#cartes}
 
-Vous n’avez pas à mémoriser ces cinq cartes. Vous savez déjà qu’elles parlent d’un début ; l’[élément](/fr/bibliotheque/quatre-elements/) vous dit dans quel domaine.
+Vous savez déjà qu’elles parlent d’un début ; l’[élément](/fr/bibliotheque/quatre-elements/) vous dit dans quel domaine.
 
 - [Le Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/) — arcane majeur I. Le début qui a tous les outils sur la table, et pas encore de résultat.
 - [As de Bâtons](/fr/bibliotheque/cartes-tarot/as-de-batons/) — 1 + Feu : une envie, un élan, une idée qui pousse.

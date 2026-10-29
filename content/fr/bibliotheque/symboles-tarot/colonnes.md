@@ -73,7 +73,7 @@ Deux cartes ont des cousines plutôt que des colonnes : les deux tours à l’ho
 
 Quand des colonnes sortent, demandez-vous ce qui est gardé de chaque côté. Les colonnes ne bougent pas, et la personne assise entre elles non plus. La carte parle d’un passage qu’on n’a pas encore fait, et des conditions pour le faire.
 
-Posez ensuite les autres clés de lecture par-dessus. La couleur d’abord : le noir et le blanc de la Grande Prêtresse, ce sont deux contraires tenus ensemble ; le gris du Hiérophante et de la Justice, dans [ma grille des couleurs](/fr/bibliotheque/couleurs-tarot/gris/), c’est la neutralité et la stabilité — un cadre qui ne prend pas parti. Le nombre ensuite : la Grande Prêtresse porte le 2, et la Justice, lame 11, revient à 2 quand on additionne ses chiffres. Les deux siègent entre deux colonnes. [Le chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/), c’est lier, signer, peser : lisez le contrat avant de vous engager.
+La couleur d’abord : le noir et le blanc de la Grande Prêtresse, ce sont deux contraires tenus ensemble ; le gris du Hiérophante et de la Justice, dans [ma grille des couleurs](/fr/bibliotheque/couleurs-tarot/gris/), c’est la neutralité et la stabilité — un cadre qui ne prend pas parti. Le nombre ensuite : la Grande Prêtresse porte le 2, et la Justice, lame 11, revient à 2 quand on additionne ses chiffres. Les deux siègent entre deux colonnes. [Le chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/), c’est lier, signer, peser : lisez le contrat avant de vous engager.
 
 Imaginons que quelqu’un tire le Hiérophante au moment où un nouveau poste se profile. Les colonnes disent : il y a ici une structure, avec ses règles, et vous y entrerez à ses conditions ou pas du tout. Ce n’est pas une mauvaise nouvelle ; c’est une information.
 
@@ -85,6 +85,6 @@ Quand les cartes autour sont lourdes, la question change : on passe de « commen
 
 ## Avec les autres clés {#cles}
 
-Un symbole est un détail ; il ne remplace pas la carte. Lisez les colonnes après la couleur, le nombre et l’élément, jamais à leur place — [le parcours complet](/fr/apprendre-le-tarot/) met les clés dans l’ordre. Puis revenez à [la Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/) et regardez ce devant quoi elle est assise.
+Revenez à [la Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/) et regardez ce devant quoi elle est assise.
 
 {{% six %}}

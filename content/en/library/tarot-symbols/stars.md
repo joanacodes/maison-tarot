@@ -87,6 +87,6 @@ The Devil shows another shadow: the guiding sign turned upside down, a direction
 
 ## With the other lenses {#lenses}
 
-The star gives you the direction; the number and element tell you how far along the road you are. [The complete path](/learn-tarot/) lays the lenses out in order, so you can read the sky and the ground at the same time.
+The star gives you the direction; the number and element tell you how far along the road you are.
 
 {{% six %}}

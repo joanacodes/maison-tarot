@@ -69,11 +69,9 @@ S’assurer de terminer un projet avant d’en commencer un autre. Le 3 donne de
 
 ## Un exemple que tout le monde connaît {#exemple}
 
-Le lancement d’Instagram marche. Les gens s’inscrivent, postent, reviennent. Rien n’est encore gagné (voir le 5), mais pour la première fois la chose tourne sans qu’on la pousse. Le fil rouge de toute cette section est l’histoire d’Instagram, du [1](/fr/bibliotheque/numerologie/chiffre-1/) au 10 : vous en connaissez la fin, alors vous voyez le cycle.
+Le lancement d’Instagram marche. Les gens s’inscrivent, postent, reviennent. Rien n’est encore gagné (voir le 5), mais pour la première fois la chose tourne sans qu’on la pousse.
 
 ## Les cinq cartes qui portent le 3 {#cartes}
-
-Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le plan sur lequel elle se joue.
 
 - [L’Impératrice](/fr/bibliotheque/cartes-tarot/l-imperatrice/) — arcane majeur 3.
 - [Trois de Bâtons](/fr/bibliotheque/cartes-tarot/trois-de-batons/) — 3 + Feu.

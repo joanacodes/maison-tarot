@@ -70,11 +70,9 @@ Bien lire le contrat. Peser le pour et le contre. Être stable avant de s’enga
 
 ## Un exemple que tout le monde connaît {#exemple}
 
-Systrom et Krieger signent avec des investisseurs. L’idée existe (le 1), et maintenant quelqu’un d’autre y met de l’argent, du temps et des conditions. C’est le premier moment où l’on peut perdre autre chose que son propre temps — d’où le conseil de lire le contrat. Le fil rouge de toute cette section est l’histoire d’Instagram, du [1](/fr/bibliotheque/numerologie/chiffre-1/) au 10 : vous en connaissez la fin, alors vous voyez le cycle.
+Systrom et Krieger signent avec des investisseurs. L’idée existe (le 1), et maintenant quelqu’un d’autre y met de l’argent, du temps et des conditions. C’est le premier moment où l’on peut perdre autre chose que son propre temps — d’où le conseil de lire le contrat.
 
 ## Les cinq cartes qui portent le 2 {#cartes}
-
-Vous n’avez pas à les mémoriser. Le nombre dit l’étape ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le plan sur lequel elle se joue.
 
 - [La Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/) — arcane majeur 2.
 - [Deux de Bâtons](/fr/bibliotheque/cartes-tarot/deux-de-batons/) — 2 + Feu.

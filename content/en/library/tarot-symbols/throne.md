@@ -85,6 +85,6 @@ The Empress’s soft throne has its own shadow: care that smothers, protection t
 
 ## With the other lenses {#lenses}
 
-Read the throne after the colour, the number and the element; [the complete path](/learn-tarot/) explains why that order works. Then put [the Emperor](/library/tarot-cards/the-emperor/) next to the Chariot and compare: one sits, the other drives.
+Put [the Emperor](/library/tarot-cards/the-emperor/) next to the Chariot and compare: one sits, the other drives.
 
 {{% six %}}

@@ -85,6 +85,6 @@ It can also be a façade: someone who shows a calm surface and lets you imagine 
 
 ## With the other lenses {#lenses}
 
-The veil is a detail; the colour, the number and the element come first, and [the complete path](/learn-tarot/) teaches them in that order. Then sit with [the High Priestess](/library/tarot-cards/the-high-priestess/) for a minute and ask what you’d want to know before you asked her to lift it.
+Sit with [the High Priestess](/library/tarot-cards/the-high-priestess/) for a minute and ask what you’d want to know before you asked her to lift it.
 
 {{% six %}}

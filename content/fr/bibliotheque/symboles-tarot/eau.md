@@ -89,6 +89,6 @@ Et trop d’eau noie. Le feu détruit d’un coup ; l’eau négligée détruit 
 
 ## Avec les autres clés {#cles}
 
-L’eau vous dit que la lecture parle de sentiment ; le nombre et la couleur vous disent combien, et dans quel état. [Le parcours complet](/fr/apprendre-le-tarot/) pose les clés l’une après l’autre.
+L’eau vous dit que la lecture parle de sentiment ; le nombre et la couleur vous disent combien, et dans quel état.
 
 {{% six %}}

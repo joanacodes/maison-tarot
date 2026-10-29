@@ -71,7 +71,7 @@ Sur le Dix de Pentacles, deux lévriers blancs se tiennent près du vieil homme 
 
 Quand un chien apparaît, posez deux questions : que dit l’instinct, et quelqu’un l’écoute-t-il ? Sur le Mat, personne. Sur la Lune, tout le monde, et fort. Sur le Dix de Pentacles, l’instinct est devenu habitude — la fidélité tranquille des gens qui vivent ensemble depuis longtemps.
 
-Ajoutez ensuite les autres clés. Le chien du Mat et les lévriers du Dix de Pentacles sont [blancs](/fr/bibliotheque/couleurs-tarot/blanc/), ce qui dans ma grille des couleurs veut dire innocence et paix : un avertissement donné sans malice. Sur une carte d’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) comme la Lune, le chien, c’est l’émotion qui parle avant la pensée. Sur une carte de Terre comme le Dix de Pentacles, c’est l’attachement du corps à ce qui paraît solide.
+Le chien du Mat et les lévriers du Dix de Pentacles sont [blancs](/fr/bibliotheque/couleurs-tarot/blanc/), ce qui dans ma grille des couleurs veut dire innocence et paix : un avertissement donné sans malice. Sur une carte d’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) comme la Lune, le chien, c’est l’émotion qui parle avant la pensée. Sur une carte de Terre comme le Dix de Pentacles, c’est l’attachement du corps à ce qui paraît solide.
 
 ## Le revers {#revers}
 
@@ -81,6 +81,6 @@ Quand le chien prend toute la place dans un tirage, vérifiez donc s’il s’ag
 
 ## Avec les autres clés {#cles}
 
-Un symbole ne se lit jamais seul. Le chien dit qu’un instinct est présent ; le [nombre](/fr/bibliotheque/numerologie/) de la carte dit à quelle étape du cycle, l’élément dans quel domaine. [La page du Mat](/fr/bibliotheque/cartes-tarot/le-mat/) montre toutes les clés posées sur une seule carte, et [le parcours complet](/fr/apprendre-le-tarot/) les met dans l’ordre.
+Le chien dit qu’un instinct est présent ; le [nombre](/fr/bibliotheque/numerologie/) de la carte dit à quelle étape du cycle, l’élément dans quel domaine. [La page du Mat](/fr/bibliotheque/cartes-tarot/le-mat/) montre toutes les clés posées sur une seule carte.
 
 {{% six %}}

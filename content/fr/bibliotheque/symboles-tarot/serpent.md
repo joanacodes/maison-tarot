@@ -85,6 +85,6 @@ Le serpent du Magicien, qui se mord la queue, en ajoute une troisième : la bouc
 
 ## Avec les autres clés {#cles}
 
-Le serpent est un détail, à lire après la couleur, le nombre et l’élément — [le parcours complet](/fr/apprendre-le-tarot/) les met dans cet ordre. Puis regardez de nouveau [la Roue de Fortune](/fr/bibliotheque/cartes-tarot/la-roue-de-fortune/) : de quel côté est le serpent, et de quel côté êtes-vous ?
+Regardez de nouveau [la Roue de Fortune](/fr/bibliotheque/cartes-tarot/la-roue-de-fortune/) : de quel côté est le serpent, et de quel côté êtes-vous ?
 
 {{% six %}}

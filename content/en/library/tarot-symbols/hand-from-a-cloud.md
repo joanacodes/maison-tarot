@@ -85,6 +85,6 @@ The other shadow is the Four of Cups itself: an offer refused because you’re b
 
 ## With the other lenses {#lenses}
 
-The hand tells you something is being offered; the suit tells you in which part of life, the colour how it feels. The hand comes out of a [cloud](/library/tarot-symbols/cloud/), and the cloud has its own page. [The complete path](/learn-tarot/) puts the lenses in order.
+The hand tells you something is being offered; the suit tells you in which part of life, the colour how it feels. The hand comes out of a [cloud](/library/tarot-symbols/cloud/), and the cloud has its own page.
 
 {{% six %}}

@@ -89,6 +89,6 @@ The other shadow is staring at the mountain instead of taking the first step. An
 
 ## With the other lenses {#lenses}
 
-The mountain tells you the effort is real; the number tells you how far up you are, the colour how it feels — the Emperor’s orange rock and the Hermit’s white snow aren’t the same climb. [The complete path](/learn-tarot/) puts the lenses in order.
+The mountain tells you the effort is real; the number tells you how far up you are, the colour how it feels — the Emperor’s orange rock and the Hermit’s white snow aren’t the same climb.
 
 {{% six %}}

@@ -83,6 +83,6 @@ The other shadow is deciding in the storm. Torn clouds are a bad moment to cut a
 
 ## With the other lenses {#lenses}
 
-The cloud tells you the weather; the card’s number and element tell you what’s under it. [The complete path](/learn-tarot/) shows how to read the sky and the ground together.
+The cloud tells you the weather; the card’s number and element tell you what’s under it.
 
 {{% six %}}

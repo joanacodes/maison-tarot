@@ -69,11 +69,9 @@ Mastery is proved by the repeated gesture, not the title. Eight advises you to k
 
 ## An example everyone knows {#example}
 
-Instagram, now at Facebook, has become an empire generating billions a year. It's no longer a bet or a negotiation: it's infrastructure. Nobody asks whether it works; they ask what it does to the world. The thread running through this whole section is the story of Instagram, from [1](/library/numerology/number-1/) to 10: you know how it ends, so you can see the cycle.
+Instagram, now at Facebook, has become an empire generating billions a year. It's no longer a bet or a negotiation: it's infrastructure. Nobody asks whether it works; they ask what it does to the world.
 
 ## The five cards that carry 8 {#cards}
-
-You don't have to memorise them. The number says the step; the [element](/library/four-elements/) says the plane it plays on.
 
 - [Strength](/library/tarot-cards/strength/) — major arcana 8.
 - [Eight of Wands](/library/tarot-cards/eight-of-wands/) — 8 + Fire.

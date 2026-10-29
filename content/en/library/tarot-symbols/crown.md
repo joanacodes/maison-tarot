@@ -85,6 +85,6 @@ There’s a quieter shadow too: the Four of Pentacles, holding on so tightly tha
 
 ## With the other lenses {#lenses}
 
-A crown is a detail; read it after the colour, the number and the element — [the complete path](/learn-tarot/) sets them out. Then look at [the Tower](/library/tarot-cards/the-tower/) again: the crown is the first thing to go.
+Look at [the Tower](/library/tarot-cards/the-tower/) again: the crown is the first thing to go.
 
 {{% six %}}

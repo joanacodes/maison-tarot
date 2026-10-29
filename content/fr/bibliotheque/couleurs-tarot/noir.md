@@ -58,7 +58,7 @@ gallery:
 ---
 ## Ce que dit le noir {#definition}
 
-**Absence, absorption d’énergie, néant, pensées négatives, faire le vide, réalité.** C’est la [grille des couleurs](/fr/bibliotheque/couleurs-tarot/) en une ligne ; le reste de la page dit où regarder et comment lire.
+**Absence, absorption d’énergie, néant, pensées négatives, faire le vide, réalité.**
 
 ## Où la couleur apparaît dans le jeu {#ou}
 
@@ -76,6 +76,6 @@ Le noir a un endroit et un envers. À l’endroit, c’est le vide utile — fai
 
 ## Avec les autres clés {#cles}
 
-La couleur donne le ton ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le domaine, le [nombre](/fr/bibliotheque/numerologie/) l’étape. Posez les trois, et la carte parle. [Le parcours complet](/fr/apprendre-le-tarot/) les met dans l’ordre.
+Sur le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), le noir prend son sens avec les deux autres clés. L’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) fait de l’absence une question de sentiments, et le [5](/fr/bibliotheque/numerologie/chiffre-5/), l’épreuve, la place au milieu du cycle plutôt qu’à sa fin : derrière le manteau, deux coupes tiennent encore debout.
 
 {{% six %}}

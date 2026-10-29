@@ -81,6 +81,6 @@ Chez l’Impératrice, l’ombre est inverse : trop de fruits. Dans mes notes, e
 
 ## Avec les autres clés {#cles}
 
-Une grenade est un détail ; lisez-la après la couleur, le nombre et l’élément — [le parcours complet](/fr/apprendre-le-tarot/) donne l’ordre. Puis posez [l’Impératrice](/fr/bibliotheque/cartes-tarot/l-imperatrice/) à côté de la Grande Prêtresse et regardez où chacune garde son fruit.
+Posez [l’Impératrice](/fr/bibliotheque/cartes-tarot/l-imperatrice/) à côté de la Grande Prêtresse et regardez où chacune garde son fruit.
 
 {{% six %}}

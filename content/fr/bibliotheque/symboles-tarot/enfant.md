@@ -87,6 +87,6 @@ Et un enfant se lit vite trop au pied de la lettre. Tous les enfants d’un tira
 
 ## Avec les autres clés {#cles}
 
-Un enfant est un détail ; lisez-le après la couleur, le nombre et l’élément — [le parcours complet](/fr/apprendre-le-tarot/) les met dans l’ordre. Puis regardez [le Dix de Coupes](/fr/bibliotheque/cartes-tarot/dix-de-coupes/) : les parents lèvent les yeux vers l’arc-en-ciel, et les enfants se regardent l’un l’autre.
+Regardez [le Dix de Coupes](/fr/bibliotheque/cartes-tarot/dix-de-coupes/) : les parents lèvent les yeux vers l’arc-en-ciel, et les enfants se regardent l’un l’autre.
 
 {{% six %}}

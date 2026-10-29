@@ -45,7 +45,7 @@ Deux nombres côte à côte se lisent comme un mouvement : un 1 à côté d’un
 
 ## Les quatre rangs {#les-rangs}
 
-Le Valet est l’élève, celui qui apprend et qui porte le message. Le Cavalier agit, part, exagère parfois. La Reine maîtrise de l’intérieur : elle accueille et elle tient. Le Roi maîtrise de l’extérieur : il décide. Ce sont des tempéraments plus que des étapes, et chacun a sa page dans cette section.
+Le [Valet](/fr/bibliotheque/numerologie/valet/) est l’élève, celui qui apprend et qui porte le message. Le [Cavalier](/fr/bibliotheque/numerologie/cavalier/) agit, part, exagère parfois. La [Reine](/fr/bibliotheque/numerologie/reine/) maîtrise de l’intérieur : elle accueille et elle tient. Le [Roi](/fr/bibliotheque/numerologie/roi/) maîtrise de l’extérieur : il décide. Le rang dit *comment* on agit ; l’élément dit *sur quoi*. Ce sont des tempéraments plus que des étapes, et les [énergies féminine et masculine](/fr/bibliotheque/energies-feminine-masculine/) expliquent pourquoi Reine et Roi se valent.
 
 ## Pour continuer {#continuer}
 

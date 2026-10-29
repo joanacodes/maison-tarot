@@ -58,7 +58,7 @@ gallery:
 ---
 ## Ce que dit l’or et le brun {#definition}
 
-**La valeur acquise, la matière, la terre travaillée.** C’est la [grille des couleurs](/fr/bibliotheque/couleurs-tarot/) en une ligne ; le reste de la page dit où regarder et comment lire.
+**La valeur acquise, la matière, la terre travaillée.**
 
 ## Où la couleur apparaît dans le jeu {#ou}
 
@@ -76,6 +76,6 @@ Le revers de l’or est la cupidité — le Quatre de Pentacles qui serre ses pi
 
 ## Avec les autres clés {#cles}
 
-La couleur donne le ton ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le domaine, le [nombre](/fr/bibliotheque/numerologie/) l’étape. Posez les trois, et la carte parle. [Le parcours complet](/fr/apprendre-le-tarot/) les met dans l’ordre.
+Sur le [Sept de Pentacles](/fr/bibliotheque/cartes-tarot/sept-de-pentacles/), l’or et le brun tombent sur un [7](/fr/bibliotheque/numerologie/chiffre-7/), l’étape où l’on regarde ce qu’on a avant de décider de la suite. Les pièces se comptent déjà, et le sol brun sous ses pieds, c’est le travail qu’elles ont coûté.
 
 {{% six %}}

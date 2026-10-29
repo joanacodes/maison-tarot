@@ -85,6 +85,6 @@ L’oiseau encapuchonné a son ombre. Tenu sur un gant, il est magnifique, et il
 
 ## Avec les autres clés {#cles}
 
-Un oiseau est un détail ; lisez-le après la couleur, le nombre et l’élément, jamais à leur place — [le parcours complet](/fr/apprendre-le-tarot/) met les clés dans l’ordre. Puis regardez de nouveau [le Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/) : un escargot avance sur le sol, en bas de la carte, et l’oiseau sur sa main ne bouge pas du tout.
+Regardez de nouveau [le Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/) : un escargot avance sur le sol, en bas de la carte, et l’oiseau sur sa main ne bouge pas du tout.
 
 {{% six %}}

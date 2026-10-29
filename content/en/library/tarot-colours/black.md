@@ -58,7 +58,7 @@ gallery:
 ---
 ## What black says {#definition}
 
-**Absence, energy absorbed, void, negative thoughts, emptying out, reality.** That's the [colour grid](/library/tarot-colours/) in one line; the rest of the page says where to look and how to read.
+**Absence, energy absorbed, void, negative thoughts, emptying out, reality.**
 
 ## Where the colour appears in the deck {#where}
 
@@ -76,6 +76,6 @@ Black has a right side and a wrong side. Right side up, it's the useful void —
 
 ## With the other lenses {#lenses}
 
-Colour gives the tone; the [element](/library/four-elements/) says the field, the [number](/library/numerology/) the step. Lay all three and the card speaks. [The complete path](/learn-tarot/) puts them in order.
+Black on [the Five of Cups](/library/tarot-cards/five-of-cups/) takes its meaning from the other two lenses. [Water](/library/four-elements/water-element/) makes the absence a matter of feeling, and [5](/library/numerology/number-5/), the trial, puts it in the middle of the cycle rather than at its end: two cups are still standing behind the cloak.
 
 {{% six %}}

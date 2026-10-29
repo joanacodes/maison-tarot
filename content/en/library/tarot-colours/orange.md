@@ -56,7 +56,7 @@ gallery:
 ---
 ## What orange says {#definition}
 
-**Creativity, dryness, libido.** That's the [colour grid](/library/tarot-colours/) in one line; the rest of the page says where to look and how to read.
+**Creativity, dryness, libido.**
 
 ## Where the colour appears in the deck {#where}
 
@@ -74,6 +74,6 @@ Orange's flip side is dryness: cracked ground, heat without water, desire that c
 
 ## With the other lenses {#lenses}
 
-Colour gives the tone; the [element](/library/four-elements/) says the field, the [number](/library/numerology/) the step. Lay all three and the card speaks. [The complete path](/learn-tarot/) puts them in order.
+Orange runs all over [the Knight of Wands](/library/tarot-cards/knight-of-wands/), and the rank tells you what the heat is doing: a [Knight](/library/numerology/knight/) is made for setting off. Creative drive in a hurry, which is exactly when orange's dryness can catch up.
 
 {{% six %}}

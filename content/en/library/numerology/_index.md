@@ -45,7 +45,7 @@ Two numbers side by side read as a movement: a 1 next to a 10 is a page turning;
 
 ## The four ranks {#the-ranks}
 
-The Page is the student, learning and carrying the message. The Knight acts, leaves, sometimes overdoes it. The Queen masters from the inside: she welcomes and she holds. The King masters from the outside: he decides. They're temperaments more than steps, and each has its page in this section.
+The [Page](/library/numerology/page/) is the student, learning and carrying the message. The [Knight](/library/numerology/knight/) acts, leaves, sometimes overdoes it. The [Queen](/library/numerology/queen/) masters from the inside: she welcomes and she holds. The [King](/library/numerology/king/) masters from the outside: he decides. The rank says *how* one acts; the element says *on what*. They're temperaments more than steps, and [feminine and masculine energies](/library/feminine-masculine-energies/) explain why Queen and King are equals.
 
 ## To continue {#continue}
 

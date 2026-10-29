@@ -67,8 +67,6 @@ Decide, then answer for it. The King at his best protects what he governs; at hi
 
 ## The four Kings {#cards}
 
-The rank says *how* one acts; the [element](/library/four-elements/) says *on what*.
-
 - [The King of Wands](/library/tarot-cards/king-of-wands/) — Fire.
 - [The King of Cups](/library/tarot-cards/king-of-cups/) — Water.
 - [The King of Swords](/library/tarot-cards/king-of-swords/) — Air.
@@ -79,9 +77,5 @@ The rank says *how* one acts; the [element](/library/four-elements/) says *on wh
 ## In a reading {#reading}
 
 A King in a spread says: **someone decides, or must.** An authority figure, or the moment to be one yourself. The King of Wands leads, Cups keeps calm in the storm, Swords judges, Pentacles makes things prosper. Two Kings side by side: a power conflict. A reversed King: authority that has stopped serving.
-
-## The four ranks, one after the other {#ranks}
-
-[Page](/library/numerology/page/) — [Knight](/library/numerology/knight/) — [Queen](/library/numerology/queen/) — [King](/library/numerology/king/): learn, act, hold, decide. Temperaments more than steps, and [feminine and masculine energies](/library/feminine-masculine-energies/) explain why Queen and King are equals.
 
 {{% six %}}

@@ -87,6 +87,6 @@ The Seven of Cups shows the other risk: the wreath as a daydream, a victory imag
 
 ## With the other lenses {#lenses}
 
-Read the wreath after the colour, the number and the element; [the complete path](/learn-tarot/) gives the order. Then look at [the World](/library/tarot-cards/the-world/) and see what closes inside its wreath. For metal rather than leaves, go to the [crown](/library/tarot-symbols/crown/).
+Look at [the World](/library/tarot-cards/the-world/) and see what closes inside its wreath. For metal rather than leaves, go to the [crown](/library/tarot-symbols/crown/).
 
 {{% six %}}

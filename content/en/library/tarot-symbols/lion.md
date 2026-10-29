@@ -83,6 +83,6 @@ There’s an opposite shadow too: the lion you never let out. Courage swallowed 
 
 ## With the other lenses {#lenses}
 
-A lion is a detail; read it after the colour, the number and the element — [the complete path](/learn-tarot/) gives the order. Then look at the [Queen of Wands](/library/tarot-cards/queen-of-wands/): her lions are carved, and the black cat at her feet is real.
+Look at the [Queen of Wands](/library/tarot-cards/queen-of-wands/): her lions are carved, and the black cat at her feet is real.
 
 {{% six %}}

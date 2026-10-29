@@ -57,7 +57,7 @@ gallery:
 ---
 ## Ce que dit l’orange {#definition}
 
-**Créativité, aridité, libido.** C’est la [grille des couleurs](/fr/bibliotheque/couleurs-tarot/) en une ligne ; le reste de la page dit où regarder et comment lire.
+**Créativité, aridité, libido.**
 
 ## Où la couleur apparaît dans le jeu {#ou}
 
@@ -75,6 +75,6 @@ Le revers de l’orange est l’aridité : le sol craquelé, la chaleur sans eau
 
 ## Avec les autres clés {#cles}
 
-La couleur donne le ton ; l’[élément](/fr/bibliotheque/quatre-elements/) dit le domaine, le [nombre](/fr/bibliotheque/numerologie/) l’étape. Posez les trois, et la carte parle. [Le parcours complet](/fr/apprendre-le-tarot/) les met dans l’ordre.
+L’orange court sur tout le [Cavalier de Bâtons](/fr/bibliotheque/cartes-tarot/cavalier-de-batons/), et le rang dit ce que fait cette chaleur : un [Cavalier](/fr/bibliotheque/numerologie/cavalier/) est fait pour partir. De la créativité lancée à toute allure — c’est justement là que l’aridité de l’orange peut la rattraper.
 
 {{% six %}}

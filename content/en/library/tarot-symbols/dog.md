@@ -71,7 +71,7 @@ On the Ten of Pentacles, two white hounds stand beside the old man in the foregr
 
 When a dog shows up, ask two things: what is the instinct saying, and is anyone listening? On the Fool, nobody is. On the Moon, everyone is, and loudly. On the Ten of Pentacles, the instinct has settled into habit — the quiet loyalty of people who have been together a long time.
 
-Then add the other lenses. The Fool’s dog and the Ten of Pentacles’ hounds are [white](/library/tarot-colours/white/), which in my colour grid is innocence and peace: a warning given without malice. On a [Water](/library/four-elements/water-element/) card like the Moon, the dog is emotion speaking before thought. On an Earth card like the Ten of Pentacles, it’s the body’s attachment to what feels solid.
+The Fool’s dog and the Ten of Pentacles’ hounds are [white](/library/tarot-colours/white/), which in my colour grid is innocence and peace: a warning given without malice. On a [Water](/library/four-elements/water-element/) card like the Moon, the dog is emotion speaking before thought. On an Earth card like the Ten of Pentacles, it’s the body’s attachment to what feels solid.
 
 ## The other side {#flip-side}
 
@@ -81,6 +81,6 @@ So when the dog takes over a reading, check whether it’s a warning or an echo.
 
 ## With the other lenses {#lenses}
 
-A symbol never reads alone. The dog tells you an instinct is present; the card’s [number](/library/numerology/) tells you at which step of the cycle, the element in which part of life. [The Fool’s own page](/library/tarot-cards/the-fool/) shows all the lenses stacked on one card, and [the complete path](/learn-tarot/) puts them in order.
+The dog tells you an instinct is present; the card’s [number](/library/numerology/) tells you at which step of the cycle, the element in which part of life. [The Fool’s own page](/library/tarot-cards/the-fool/) shows all the lenses stacked on one card.
 
 {{% six %}}

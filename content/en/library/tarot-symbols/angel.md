@@ -79,10 +79,10 @@ Colour: the three large angels have red wings, and red in [my grid](/library/tar
 
 The angel’s flip side is waiting to be rescued. A figure in the sky can become a reason not to act: someone will come, someone will decide, someone will put it right. The woman on the Lovers, looking up at the angel rather than at the man in front of her, can be read that way too.
 
-And not everything is about spirits. Sometimes the wider view you need belongs to a friend, a doctor or a therapist, and that’s a perfectly good angel.
+Sometimes the wider view you need belongs to a friend, a doctor or a therapist, and that’s a perfectly good angel.
 
 ## With the other lenses {#lenses}
 
-The angel is a detail; colour, number and element come first, and [the complete path](/learn-tarot/) explains the order. Then read [Judgement](/library/tarot-cards/judgement/) with the trumpet in mind: what call have you been pretending not to hear?
+Read [Judgement](/library/tarot-cards/judgement/) with the trumpet in mind: what call have you been pretending not to hear?
 
 {{% six %}}
