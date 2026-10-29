@@ -21,7 +21,7 @@ The moon goes through its phases in about 29.5 days: new (invisible), waxing (gr
 | --- | --- | --- |
 | New moon | Beginnings, planting, intentions | What to start; a [new moon spread](/blog/new-moon-tarot-spread/) |
 | Waxing moon | Growth, building, adding | A project, what to develop next |
-| Full moon | Culmination, clarity, emotions running high | What has come to light; a [full moon spread](/blog/full-moon-tarot-spread/) |
+| Full moon | Culmination, clarity, emotions running high | Taking stock; a three-card [full moon spread](/blog/full-moon-tarot-spread/) |
 | Waning moon | Letting go, clearing, rest | What to end, what to put down |
 | Dark moon (the last days before new) | Rest, introspection | Some readers rest their deck; others keep it for the deepest questions |
 

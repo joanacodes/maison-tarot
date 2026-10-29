@@ -1,6 +1,6 @@
 ---
 title: "Full moon tarot spread: three cards, small enough for a napkin"
-description: "A three-card full moon tarot spread that fits on a café napkin: what you now see clearly, what to put down, what to keep. Each position explained, with an example."
+description: "A three-card full moon tarot spread that fits on a café napkin: what has come to light, what to put down, what to keep. Each position explained, with an example."
 translationKey: "post-full-moon-tarot-spread"
 type: blog
 date: 2026-10-24
@@ -9,9 +9,9 @@ tags: ["full moon tarot spread", "full moon tarot", "three card tarot spread", "
 image: "covers/full-moon-tarot-spread.jpg"
 imageAlt: "Three tarot cards in a row on a white paper napkin on a small café table, a cup of coffee at the edge"
 imagePrompt: "Three tarot cards laid in a row on a white paper napkin on a small café table, a cup of coffee at the edge of the frame. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "This full moon spread is three cards in a row, small enough for a café napkin. First card: what this month has made plain. Second: what you can put down. Third: what you keep. The full moon is when the whole face of the Moon is lit, so the spread asks what you can now see clearly — no candles, crystals or moonlit windowsill needed. Check each card’s number, element and colours first, write one sentence per card, and reread the page at the next full moon."
+summary: "This full moon spread is three cards in a row, small enough for a café napkin. First card: what has come to light this month. Second: what you can put down. Third: what you keep. The full moon is when the whole face of the Moon is lit, so the spread asks what you can now see clearly — no candles, crystals or moonlit windowsill needed. Check each card’s number, element and colours first, write one sentence per card, and reread the page at the next full moon."
 ---
-The full moon spread I suggest is three cards in a row, small enough to fit on a café napkin: what you can now see, what you can put down, what you keep. No candle, no crystal, no windowsill. A deck, ten minutes and a pen.
+The full moon spread I suggest is three cards in a row, small enough to fit on a café napkin: what has come to light, what you can put down, what you keep. No candle, no crystal, no windowsill. A deck, ten minutes and a pen.
 
 ## What the full moon is, and why it suits a reading {#full-moon}
 
@@ -25,7 +25,7 @@ That's the only reason I tie this spread to it. Once a month, it's a good night 
 
 Lay the cards left to right.
 
-1. *What can I see now?* Full moon, full light. This card shows something that has become clear: finished, revealed, or obvious at last. It's a picture of now, not a prediction.
+1. *What has come to light?* Full moon, full light. This card shows something that has become clear: finished, revealed, or obvious at last. It's a picture of now, not a prediction.
 2. *What can I put down?* The weight you've been carrying that has done its time. Not “what must I cut out of my life”, which is a harsh question to ask on a Tuesday night. A gentler one: what can rest?
 3. *What do I keep?* What has been worth it this month, and what you'd like to carry into the next new moon.
 
@@ -52,7 +52,7 @@ An imagined napkin, left to right: the Eight of Swords, the Ten of Wands and the
 
 {{< cards "sw08 wa10 pe09" >}}
 
-*What I can see now:* [the Eight of Swords](/library/tarot-cards/eight-of-swords/). A figure blindfolded and bound, eight swords planted around her, under a grey sky. Eight is control; grey is the colour of no particular will. My note on it: you are your own jailer, and you already have what you need to get free. What's now in plain view: the trap was partly self-made, and the knots are loose.
+*What has come to light:* [the Eight of Swords](/library/tarot-cards/eight-of-swords/). A figure blindfolded and bound, eight swords planted around her, under a grey sky. Eight is control; grey is the colour of no particular will. My note on it: you are your own jailer, and you already have what you need to get free. What's now in plain view: the trap was partly self-made, and the knots are loose.
 
 *What can be put down:* the Ten of Wands. Someone bent under ten wands, walking towards a house. Ten is a threshold, one stage handing over to the next; Fire is energy and drive. My note for this card asks you to keep your creative fire going without piling on more. What can rest: a few of those wands.
 

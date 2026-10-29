@@ -35,7 +35,7 @@ My own version of grounded is modest. When there's a noise in my place at night,
 
 A practice becomes extreme when it asks for all of you: everything has to be read through one idea, and a label starts to stand in for the person.
 
-Take the words that travel through these circles: empath, starseed, lightworker. They mean something real to people, and I've [defined them plainly elsewhere](/blog/empath-starseed-lightworker/). What I keep my distance from is the moment a word becomes a rank or a cage. Nobody gets assigned a starseed category by watching a video. Lightwork is one I know little about, and what I've found is that it can be risky if you don't know what you're doing. And you don't need a label to be yourself.
+Take the words that travel through these circles: empath, starseed, lightworker. They mean something real to people, and I've [defined them plainly elsewhere](/blog/empath-starseed-lightworker/). What I keep my distance from is the moment a word becomes a rank or a cage. Nobody chooses a starseed type off a video. Lightwork is one I know little about, and what I've found is that it can be risky if you don't know what you're doing. And you don't need a label to be yourself.
 
 Extreme can also be a matter of how often. A reading before every decision, a ritual for every worry: at that point the practice is making your choices for you. I'd rather people learn to make decisions, make mistakes, and accept being imperfect. A reading is a check-up on where you are, taken with your feet on the ground, never a permission slip. Stepping away from the cards for a while is part of the practice, not a lapse in it.
 

@@ -49,7 +49,7 @@ None of this needs a villain. It needs a slow month and a calendar to fill.
 
 ## Free isn’t automatically pure {#free-isnt-pure}
 
-Free has its own traps. Plenty of sales start with a reading that costs nothing: the first card is a gift, the “blockage” it reveals costs a lot. If you’ve ever wondered how to tell a present from a hook, I wrote down [what to check before a free online reading](/blog/before-a-free-online-reading/).
+Free has its own traps. Plenty of sales start with a reading that costs nothing: the first card is on the house, the “blockage” it reveals costs a lot. If you’ve ever wondered how to tell a present from a hook, I wrote down [what to check before a free online reading](/blog/before-a-free-online-reading/).
 
 Free can also wear out the reader, especially the generous ones who end up reading for hours for people who don’t think to ask how they are.
 

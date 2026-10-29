@@ -43,7 +43,7 @@ And because it surprised me too. My friends gave me my first deck for Christmas 
 
 I came to astrology to laugh at it, read my own chart, and found it more accurate than I liked. I started ticking and crossing each placement, on my own chart first and then on other people’s. The overall hit rate came out between 30 and 40%, while Saturn, Lilith and Chiron landed far more often, between 75 and 90%. Every tick and cross from [that experiment](/blog/i-tested-my-birth-chart/) is on record; what I kept from it is that being right a third of the time makes astrology worth consulting, and too shaky to lean on.
 
-Inside the deck, that usefulness is concrete. Twelve major arcana have a sign attached, a pairing inherited from the Golden Dawn, and each numbered minor from Two to Ten pairs a planet with a sign. Three you’ll meet early: Aries for the Emperor, Leo for Strength, Scorpio for Death.
+Inside the deck, that usefulness is concrete. Twelve major arcana have a sign attached, a pairing inherited from the Golden Dawn, and each numbered minor from Two to Ten pairs a planet with a sign. Three examples: Aries for the Emperor, Leo for Strength, Scorpio for Death.
 
 {{< cards "ar04 ar08 ar13" >}}
 
