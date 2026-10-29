@@ -68,8 +68,6 @@ No old attribution. I read it with the Hermit, arcana IX: the one who withdrew, 
 
 ## What the test showed {#test}
 
-**75 to 90% in the test.** The third of the three placements that held. I notice that Saturn, Lilith and Chiron all speak of a difficulty — the lesson, the hidden, the wound — and that this may be what people know best about themselves. I use it for one thing: reminding you that a good reader reads with their own wound, not in spite of it.
-
-A reminder of the frame: I checked my chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
+**75 to 90% in [the test](/library/astrology/#the-test).** The third of the three placements that held. I notice that Saturn, Lilith and Chiron all speak of a difficulty — the lesson, the hidden, the wound — and that this may be what people know best about themselves. I use it for one thing: reminding you that a good reader reads with their own wound, not in spite of it.
 
 {{% six %}}

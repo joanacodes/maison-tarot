@@ -2,7 +2,7 @@
 title: 'The fixed mode in tarot and astrology: to hold — signs, cards and reading'
 description: 'The fixed mode holds. It stabilises what cardinal launched, it lasts,
   it resists — and it refuses to change its mind even when reality insists. Four signs
-  carry it — Taurus, Leo, Scorpio, Aquarius — and four major arcana: the Empress,
+  carry it — Taurus, Leo, Scorpio, Aquarius — and four major arcana: the Hierophant,
   Strength, Death, the Star.'
 translationKey: mode-fixed
 type: library
@@ -17,7 +17,7 @@ tags:
 h1: Fixed — <em>to hold</em>
 lede: 'The fixed mode holds. It stabilises what cardinal launched, it lasts, it resists
   — and it refuses to change its mind even when reality insists. Four signs carry
-  it — Taurus, Leo, Scorpio, Aquarius — and four major arcana: the Empress, Strength,
+  it — Taurus, Leo, Scorpio, Aquarius — and four major arcana: the Hierophant, Strength,
   Death, the Star.'
 related:
 - /library/astrological-modes
@@ -64,12 +64,12 @@ The fixed signs sit in the middle of the seasons: Taurus at the heart of spring,
 
 | Sign | Element | Card | What it holds |
 | --- | --- | --- | --- |
-| Taurus | Earth | [The Empress](/library/tarot-cards/the-empress/) | What grows, what nourishes |
+| Taurus | Earth | [The Hierophant](/library/tarot-cards/the-hierophant/) | Tradition, familiar ground |
 | Leo | Fire | [Strength](/library/tarot-cards/strength/) | Gentle mastery, will |
 | Scorpio | Water | [Death](/library/tarot-cards/death/) | Transformation all the way through |
 | Aquarius | Air | [The Star](/library/tarot-cards/the-star/) | The ideal, the hope that won't let go |
 
-{{< cards "ar03 ar08 ar13 ar17" >}}
+{{< cards "ar05 ar08 ar13 ar17" >}}
 
 ## The advice {#advice}
 
@@ -81,6 +81,6 @@ A spread dominated by fixed says: **it holds — the question is whether that's 
 
 ## The three modes {#modes}
 
-To start, to hold, to change. The other two: [cardinal](/library/astrological-modes/cardinal/) · [mutable](/library/astrological-modes/mutable/). And the [full table of signs](/library/astrology/) to see all three at once.
+The other two: [cardinal](/library/astrological-modes/cardinal/) · [mutable](/library/astrological-modes/mutable/).
 
 {{% six %}}

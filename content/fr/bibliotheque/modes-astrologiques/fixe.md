@@ -3,7 +3,7 @@ title: 'Le mode fixe au tarot et en astrologie : tenir — signes, cartes et lec
 description: 'Le mode fixe tient. Il stabilise ce que le cardinal a lancé, il dure,
   il résiste — et il refuse de changer d’avis, même quand la réalité insiste. Quatre
   signes le portent — Taureau, Lion, Scorpion, Verseau — et quatre arcanes majeurs
-  : l’Impératrice, la Force, la Mort, l’Étoile.'
+  : le Hiérophante, la Force, la Mort, l’Étoile.'
 translationKey: mode-fixed
 type: library
 navTitle: Fixe
@@ -17,7 +17,7 @@ tags:
 h1: Fixe — <em>tenir</em>
 lede: 'Le mode fixe tient. Il stabilise ce que le cardinal a lancé, il dure, il résiste
   — et il refuse de changer d’avis, même quand la réalité insiste. Quatre signes le
-  portent — Taureau, Lion, Scorpion, Verseau — et quatre arcanes majeurs : l’Impératrice,
+  portent — Taureau, Lion, Scorpion, Verseau — et quatre arcanes majeurs : le Hiérophante,
   la Force, la Mort, l’Étoile.'
 related:
 - /bibliotheque/modes-astrologiques
@@ -64,12 +64,12 @@ Les signes fixes sont au milieu des saisons : le Taureau au cœur du printemps, 
 
 | Signe | Élément | Carte | Ce qu’il tient |
 | --- | --- | --- | --- |
-| Taureau | Terre | [L’Impératrice](/fr/bibliotheque/cartes-tarot/l-imperatrice/) | Ce qui pousse, ce qui nourrit |
+| Taureau | Terre | [Le Hiérophante](/fr/bibliotheque/cartes-tarot/le-hierophante/) | La tradition, le terrain connu |
 | Lion | Feu | [La Force](/fr/bibliotheque/cartes-tarot/la-force/) | La maîtrise douce, la volonté |
 | Scorpion | Eau | [La Mort](/fr/bibliotheque/cartes-tarot/la-mort/) | La transformation jusqu’au bout |
 | Verseau | Air | [L’Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/) | L’idéal, l’espoir qui ne lâche pas |
 
-{{< cards "ar03 ar08 ar13 ar17" >}}
+{{< cards "ar05 ar08 ar13 ar17" >}}
 
 ## Le conseil {#conseil}
 
@@ -81,6 +81,6 @@ Un tirage dominé par le fixe dit : **ça tient — la question est si c’est u
 
 ## Les trois modes {#modes}
 
-Commencer, tenir, changer. Les deux autres : [cardinal](/fr/bibliotheque/modes-astrologiques/cardinal/) · [mutable](/fr/bibliotheque/modes-astrologiques/mutable/). Et la [table complète des signes](/fr/bibliotheque/astrologie/) pour voir les trois à la fois.
+Les deux autres : [cardinal](/fr/bibliotheque/modes-astrologiques/cardinal/) · [mutable](/fr/bibliotheque/modes-astrologiques/mutable/).
 
 {{% six %}}

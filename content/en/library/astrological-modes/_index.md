@@ -18,8 +18,8 @@ faq:
 
 | Mode | The verb | Signs | Cards |
 | --- | --- | --- | --- |
-| [Cardinal](/library/astrological-modes/cardinal/) | To start | Aries, Cancer, Libra, Capricorn | The Emperor, the High Priestess, Justice, the Devil |
-| [Fixed](/library/astrological-modes/fixed/) | To hold | Taurus, Leo, Scorpio, Aquarius | The Empress, Strength, Death, the Star |
+| [Cardinal](/library/astrological-modes/cardinal/) | To start | Aries, Cancer, Libra, Capricorn | The Emperor, the Chariot, Justice, the Devil |
+| [Fixed](/library/astrological-modes/fixed/) | To hold | Taurus, Leo, Scorpio, Aquarius | The Hierophant, Strength, Death, the Star |
 | [Mutable](/library/astrological-modes/mutable/) | To change | Gemini, Virgo, Sagittarius, Pisces | The Lovers, the Hermit, Temperance, the Moon |
 
 ## How to use this lens {#how}

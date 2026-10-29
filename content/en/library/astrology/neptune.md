@@ -62,14 +62,12 @@ Neptune says where you dissolve: dream, intuition, illusion, the blur between yo
 
 ## The cards that carry it {#cards}
 
-The Hanged Man, arcana XII: suspended, head down, seeing the world the other way up. Through Pisces, the Moon. Two cards of inverted perspective, not of misfortune. [The main card's page.](/library/tarot-cards/the-hanged-man/)
+[The Hanged Man](/library/tarot-cards/the-hanged-man/), arcana XII: suspended, head down, seeing the world the other way up. Through Pisces, the Moon. Two cards of inverted perspective, not of misfortune.
 
 {{< cards "ar12" >}}
 
 ## What the test showed {#test}
 
-Hard to test, and I'm careful with it for a precise reason: it's the placement most used to excuse what people don't want to look at. 'It's my Neptune.' No. I read it as the Hanged Man: a viewpoint to turn over, not a fog to live in.
-
-A reminder of the frame: I checked my chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
+[Hard to test](/library/astrology/#the-test), and I'm careful with it for a precise reason: it's the placement most used to excuse what people don't want to look at. 'It's my Neptune.' No. I read it as the Hanged Man: a viewpoint to turn over, not a fog to live in.
 
 {{% six %}}

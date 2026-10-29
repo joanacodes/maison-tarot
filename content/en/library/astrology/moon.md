@@ -63,14 +63,12 @@ The Moon says what you feel when nobody's watching: the need for safety, emotion
 
 ## The cards that carry it {#cards}
 
-The High Priestess, arcana II, in the Golden Dawn tradition: the moon at her feet, the veil, what is known and not said. The Moon card (XVIII) carries Pisces, not the Moon itself — a frequent confusion. In the minors: the Four of Cups, the Nine of Wands, the Two of Swords, the Seven of Swords, the Six of Pentacles. [The main card's page.](/library/tarot-cards/the-high-priestess/)
+[The High Priestess](/library/tarot-cards/the-high-priestess/), arcana II, in the Golden Dawn tradition: the moon at her feet, the veil, what is known and not said. The Moon card (XVIII) carries Pisces, not the Moon itself — a frequent confusion. In the minors: the Four of Cups, the Nine of Wands, the Two of Swords, the Seven of Swords, the Six of Pentacles.
 
 {{< cards "ar02" >}}
 
 ## What the test showed {#test}
 
-A little over a third in the test, but with a bias: it's the placement people most readily say 'yes, that's it' to, because it describes what they already know about themselves. I use it as a lens on the Water cards, not as a portrait.
-
-A reminder of the frame: I checked my chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
+A little over a third in [the test](/library/astrology/#the-test), but with a bias: it's the placement people most readily say 'yes, that's it' to, because it describes what they already know about themselves. I use it as a lens on the Water cards, not as a portrait.
 
 {{% six %}}

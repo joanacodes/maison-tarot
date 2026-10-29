@@ -78,12 +78,8 @@ Celui qui part faire le tour du monde en van, fait un voyage en Inde, goûte la 
 
 ## Sa carte : Tempérance {#carte}
 
-Quand Tempérance sort, le Sagittaire est là : deux choses qu’on mélange pour en faire une troisième, une mesure trouvée en chemin. Bien posé, c’est l’alliage qui tient. Mal posé, c’est le mélange de trop, ou le départ qui évite de finir. La carte a [sa propre page](/fr/bibliotheque/cartes-tarot/temperance/), avec toutes ses clés.
+Quand [Tempérance](/fr/bibliotheque/cartes-tarot/temperance/) sort, le Sagittaire est là : deux choses qu’on mélange pour en faire une troisième, une mesure trouvée en chemin. Bien posé, c’est l’alliage qui tient. Mal posé, c’est le mélange de trop, ou le départ qui évite de finir.
 
 {{< cards "ar14" >}}
-
-## Ce que la Maison ne dit pas {#limites}
-
-Ce signe n’explique personne. J’ai testé mon thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)
 
 {{% six %}}

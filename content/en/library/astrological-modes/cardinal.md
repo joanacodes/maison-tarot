@@ -3,7 +3,7 @@ title: 'The cardinal mode in tarot and astrology: to start — signs, cards and 
 description: 'The cardinal mode opens. It launches the season, the decision, the project;
   it doesn''t necessarily know how to finish, but without it nothing begins. Four
   signs carry it — Aries, Cancer, Libra, Capricorn — and four major arcana with them:
-  the Emperor, the High Priestess, Justice, the Devil.'
+  the Emperor, the Chariot, Justice, the Devil.'
 translationKey: mode-cardinal
 type: library
 navTitle: Cardinal
@@ -18,7 +18,7 @@ h1: Cardinal — <em>to start</em>
 lede: 'The cardinal mode opens. It launches the season, the decision, the project;
   it doesn''t necessarily know how to finish, but without it nothing begins. Four
   signs carry it — Aries, Cancer, Libra, Capricorn — and four major arcana with them:
-  the Emperor, the High Priestess, Justice, the Devil.'
+  the Emperor, the Chariot, Justice, the Devil.'
 related:
 - /library/astrological-modes
 - /library/astrology
@@ -65,11 +65,11 @@ In astrology every sign has a mode — cardinal, fixed or mutable — that says 
 | Sign | Element | Card | What it starts |
 | --- | --- | --- | --- |
 | Aries | Fire | [The Emperor](/library/tarot-cards/the-emperor/) | Action, command |
-| Cancer | Water | [The High Priestess](/library/tarot-cards/the-high-priestess/) | Feeling, the secret that initiates |
+| Cancer | Water | [The Chariot](/library/tarot-cards/the-chariot/) | Moving with a direction, leading humanely |
 | Libra | Air | [Justice](/library/tarot-cards/justice/) | The right decision, balance |
 | Capricorn | Earth | [The Devil](/library/tarot-cards/the-devil/) | Ambition, structure — and its chains |
 
-{{< cards "ar04 ar02 ar11 ar15" >}}
+{{< cards "ar04 ar07 ar11 ar15" >}}
 
 ## The advice {#advice}
 
@@ -81,6 +81,6 @@ A spread dominated by cardinal says: **it's starting, or it's time to.** A decis
 
 ## The three modes {#modes}
 
-To start, to hold, to change. The other two: [fixed](/library/astrological-modes/fixed/) · [mutable](/library/astrological-modes/mutable/). And the [full table of signs](/library/astrology/) to see all three at once.
+The other two: [fixed](/library/astrological-modes/fixed/) · [mutable](/library/astrological-modes/mutable/). And the [full table of signs](/library/astrology/) to see all three at once.
 
 {{% six %}}

@@ -80,8 +80,4 @@ When the Star comes out, Aquarius is there: the ideal, the hope that won't let g
 
 {{< cards "ar17" >}}
 
-## What Maison Tarot doesn't say {#limits}
-
-This sign explains no one. I tested my chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)
-
 {{% six %}}

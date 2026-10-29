@@ -77,12 +77,8 @@ L’acteur d’opéra ; des enfants qui jouent à Action Man.
 
 ## Sa carte : La Force {#carte}
 
-Quand la Force sort, le Lion est là : la maîtrise par la douceur, la main sur la gueule du fauve. Bien posé, c’est le courage qui n’a pas besoin de crier. Mal posé, c’est le besoin d’être vu qui passe avant ce qu’on fait. La carte a [sa propre page](/fr/bibliotheque/cartes-tarot/la-force/), avec toutes ses clés.
+Quand [la Force](/fr/bibliotheque/cartes-tarot/la-force/) sort, le Lion est là : la maîtrise par la douceur, la main sur la gueule du fauve. Bien posé, c’est le courage qui n’a pas besoin de crier. Mal posé, c’est le besoin d’être vu qui passe avant ce qu’on fait.
 
 {{< cards "ar08" >}}
-
-## Ce que la Maison ne dit pas {#limites}
-
-Ce signe n’explique personne. J’ai testé mon thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)
 
 {{% six %}}

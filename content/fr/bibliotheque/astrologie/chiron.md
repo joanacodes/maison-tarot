@@ -70,8 +70,6 @@ Pas d’attribution ancienne. La Maison le lit avec l’Ermite, arcane IX : celu
 
 ## Ce que le test a montré {#test}
 
-**75 à 90 % au test.** Le troisième des trois placements qui ont tenu. La Maison remarque que Saturne, Lilith et Chiron parlent tous d’une difficulté — la leçon, le caché, la blessure — et que c’est peut-être ce que les gens savent le mieux d’eux-mêmes. Elle s’en sert pour une chose : rappeler qu’un bon lecteur lit avec sa propre blessure, pas malgré elle.
-
-Rappel du cadre : j’ai vérifié mon thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
+**75 à 90 % [au test](/fr/bibliotheque/astrologie/#le-test).** Le troisième des trois placements qui ont tenu. La Maison remarque que Saturne, Lilith et Chiron parlent tous d’une difficulté — la leçon, le caché, la blessure — et que c’est peut-être ce que les gens savent le mieux d’eux-mêmes. Elle s’en sert pour une chose : rappeler qu’un bon lecteur lit avec sa propre blessure, pas malgré elle.
 
 {{% six %}}

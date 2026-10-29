@@ -61,7 +61,7 @@ Jupiter dit où l’on a de la chance, ou ce qu’on prend pour de la chance : l
 
 ## Les cartes qui le portent {#cartes}
 
-La Roue de Fortune, arcane X : ce qui monte, ce qui descend, et le fait que rien ne reste. Par le Sagittaire, Tempérance. Dans les mineurs : le Six de Bâtons, le Neuf de Coupes, le Quatre et le Huit d’Épées, le Deux de Pentacles. [La page de la carte principale.](/fr/bibliotheque/cartes-tarot/la-roue-de-fortune/)
+[La Roue de Fortune](/fr/bibliotheque/cartes-tarot/la-roue-de-fortune/), arcane X : ce qui monte, ce qui descend, et le fait que rien ne reste. Par le Sagittaire, Tempérance. Dans les mineurs : le Six de Bâtons, le Neuf de Coupes, le Quatre et le Huit d’Épées, le Deux de Pentacles.
 
 {{< cards "ar10" >}}
 

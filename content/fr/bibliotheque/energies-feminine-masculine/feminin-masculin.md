@@ -84,7 +84,7 @@ Une designer utilise l’art (énergie féminine) et ses connaissances en calcul
 
 ## Sur les cartes
 
-Chaque [élément](/fr/bibliotheque/quatre-elements/) penche : la Terre et l’Eau vers le féminin, le Feu et l’Air vers le masculin. Chaque signe du zodiaque aussi — la page [astrologie](/fr/bibliotheque/astrologie/) le détaille. Quand vous tenez une carte inconnue, demandez-vous d’abord : est-ce que ça se montre, ou est-ce que ça se cache ? Vous avez déjà la moitié de la lecture.
+Chaque [élément](/fr/bibliotheque/quatre-elements/) penche : la Terre et l’Eau vers le féminin, le Feu et l’Air vers le masculin. Chaque signe du zodiaque aussi — la page [astrologie](/fr/bibliotheque/astrologie/) le détaille. Quand vous tenez une carte inconnue, demandez-vous d’abord : est-ce que ça se montre, ou est-ce que ça se cache ?
 
 ## Sur le champ de bataille {#champ-de-bataille}
 

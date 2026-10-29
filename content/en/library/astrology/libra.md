@@ -75,12 +75,8 @@ The diplomat; the referee; the one who redoes the split until nobody is short-ch
 
 ## Its card: Justice {#card}
 
-When Justice comes out, Libra is there: a decision to be made fairly, an account to be settled evenly. Well placed, it's clear judgment. Badly placed, it's the scale you watch swing without ever reading it. The card has [its own page](/library/tarot-cards/justice/), with all its lenses.
+When [Justice](/library/tarot-cards/justice/) comes out, Libra is there: a decision to be made fairly, an account to be settled evenly. Well placed, it's clear judgment. Badly placed, it's the scale you watch swing without ever reading it.
 
 {{< cards "ar11" >}}
-
-## What Maison Tarot doesn't say {#limits}
-
-This sign explains no one. I tested my chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)
 
 {{% six %}}

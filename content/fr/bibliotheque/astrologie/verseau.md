@@ -83,8 +83,4 @@ Quand l’Étoile sort, le Verseau est là : l’idéal, l’espoir qui ne lâch
 
 {{< cards "ar17" >}}
 
-## Ce que la Maison ne dit pas {#limites}
-
-Ce signe n’explique personne. J’ai testé mon thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)
-
 {{% six %}}

@@ -81,7 +81,7 @@ A designer uses art (feminine energy) and her knowledge of calculation (masculin
 
 ## On the cards
 
-Every [element](/library/four-elements/) leans: Earth and Water towards the feminine, Fire and Air towards the masculine. Every zodiac sign too — the [astrology](/library/astrology/) page goes through them. When you hold an unknown card, ask first: is this showing itself, or hiding? You already have half the reading.
+Every [element](/library/four-elements/) leans: Earth and Water towards the feminine, Fire and Air towards the masculine. Every zodiac sign too — the [astrology](/library/astrology/) page goes through them. When you hold an unknown card, ask first: is this showing itself, or hiding?
 
 ## On the battlefield {#battlefield}
 

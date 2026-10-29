@@ -77,12 +77,8 @@ The one who leaves to drive round the world in a van, goes to India, tries the u
 
 ## Its card: Temperance {#card}
 
-When Temperance comes out, Sagittarius is there: two things being blended into a third, a measure found on the road. Well placed, it's the alloy that holds. Badly placed, it's one blend too many, or the departure that avoids finishing. The card has [its own page](/library/tarot-cards/temperance/), with all its lenses.
+When [Temperance](/library/tarot-cards/temperance/) comes out, Sagittarius is there: two things being blended into a third, a measure found on the road. Well placed, it's the alloy that holds. Badly placed, it's one blend too many, or the departure that avoids finishing.
 
 {{< cards "ar14" >}}
-
-## What Maison Tarot doesn't say {#limits}
-
-This sign explains no one. I tested my chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)
 
 {{% six %}}

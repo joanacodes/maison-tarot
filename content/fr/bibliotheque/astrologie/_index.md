@@ -1,6 +1,6 @@
 ---
 title: "Astrologie et tarot : les 12 signes du zodiaque et leur carte, testés plutôt que crus"
-description: "Chaque signe astrologique correspond à une carte du tarot Rider-Waite-Smith : Bélier l’Empereur, Taureau l’Impératrice, Gémeaux les Amoureux, Cancer la Grande Prêtresse, Lion la Force, Vierge l’Ermite, Balance la Justice, Scorpion la Mort, Sagittaire Tempérance, Capricorne le Diable, Verseau l’Étoile, Poissons la Lune. La table complète, avec verbe, planète, élément, mode et couleur — et ce que mon test a montré."
+description: "Chaque signe astrologique correspond à une carte du tarot Rider-Waite-Smith : Bélier l’Empereur, Taureau le Hiérophante, Gémeaux les Amoureux, Cancer le Chariot, Lion la Force, Vierge l’Ermite, Balance la Justice, Scorpion la Mort, Sagittaire Tempérance, Capricorne le Diable, Verseau l’Étoile, Poissons la Lune. La table complète, avec verbe, planète, élément, mode et couleur — et ce que mon test a montré."
 translationKey: lib-astrology
 navTitle: "Astrologie"
 type: library
@@ -21,9 +21,9 @@ faq:
 | Signe | Carte | Verbe | Astre | Élément | Mode | Énergie | Couleur |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Bélier | L’Empereur | Je suis | Mars | Feu | Cardinal | Masculine | Rouge |
-| Taureau | L’Impératrice | J’ai | Vénus | Terre | Fixe | Féminine | Vert, bleu pâle, mauve |
+| Taureau | Le Hiérophante | J’ai | Vénus | Terre | Fixe | Féminine | Vert, bleu pâle, mauve |
 | Gémeaux | Les Amoureux | Je pense | Mercure | Air | Mutable | Masculine | Bleu |
-| Cancer | La Grande Prêtresse | Je ressens | Lune | Eau | Cardinal | Féminine | Argent, blanc |
+| Cancer | Le Chariot | Je ressens | Lune | Eau | Cardinal | Féminine | Vert, argent |
 | Lion | La Force | Je veux | Soleil | Feu | Fixe | Masculine | Or, orange |
 | Vierge | L’Ermite | J’analyse | Mercure | Terre | Mutable | Féminine | Beige, brun |
 | Balance | La Justice | J’équilibre | Vénus | Air | Cardinal | Masculine | Rose, bleu clair |
@@ -33,21 +33,23 @@ faq:
 | Verseau | L’Étoile | Je sais | Uranus, Saturne | Air | Fixe | Masculine | Bleu électrique |
 | Poissons | La Lune | Je crois | Neptune, Jupiter | Eau | Mutable | Féminine | Vert d’eau, violet |
 
-Chaque signe aura sa page, avec ses mots-clés, ses côtés favorables et défavorables, son archétype et son animal — à partir de mes notes, qui ne sont pas des horoscopes.
+Chaque signe a sa page, avec ses mots-clés, ses côtés favorables et défavorables, son archétype et son animal — à partir de mes notes, qui ne sont pas des horoscopes.
 
 ## Ce que le test a montré {#le-test}
 
-J’ai pris mon thème astral et je l’ai vérifié case par case, comme on vérifie une facture. Dans l’ensemble : 30 à 40 % de juste. Pour trois corps en particulier — Saturne, Lilith, Chiron — 75 à 90 %. C’est peu et beaucoup à la fois : assez pour garder l’astrologie comme clé, pas assez pour lui confier une décision. Le détail est sur la page [Méthode](/fr/methode/), et les articles du blog racontent le test corps par corps.
+J’ai pris mon thème astral et je l’ai vérifié case par case, comme on vérifie une facture ; puis j’ai fait de même avec les thèmes de proches et d’inconnus — un comptage manuel, pas une étude. Dans l’ensemble : 30 à 40 % de juste. Pour trois corps en particulier — Saturne, Lilith, Chiron — 75 à 90 %. C’est peu et beaucoup à la fois : assez pour garder l’astrologie comme clé, pas assez pour lui confier une décision. Le détail est sur la page [Méthode](/fr/methode/) et dans [l’article qui raconte le test](/fr/blog/j-ai-teste-mon-theme-astral/) ; les articles du blog le reprennent ensuite corps par corps.
+
+Ce cadre vaut pour chaque signe et chaque astre de cette rubrique. **Aucun signe n’explique personne, pas même le vôtre.**
 
 ## Comment poser cette clé sur une carte {#comment}
 
-Les douze arcanes majeurs ci-dessus portent un signe : quand vous en tirez un, vous avez son verbe, son élément et son mode d’un coup. L’Empereur *est* — Feu, cardinal : il commence et il commande. La Grande Prêtresse *ressent* — Eau, cardinale : elle initie en silence.
+Les douze arcanes majeurs ci-dessus portent un signe : quand vous en tirez un, vous avez son verbe, son élément et son mode d’un coup. L’Empereur *est* — Feu, cardinal : il commence et il commande. Le Chariot *ressent* — Eau, cardinal : il se met en route, l’émotion tenue.
 
 Les cartes de 2 à 10 portent une planète dans un signe (les décans). C’est une couche plus fine, indiquée sur chaque [page de carte](/fr/bibliotheque/cartes-tarot/), utile quand les trois premières clés ne suffisent plus à départager.
 
 ## Les douze astres {#les-astres}
 
-Soleil, Lune, Mercure, Vénus, Mars, Jupiter, Saturne, Uranus, Neptune, Pluton — et Lilith et Chiron, qui ont gagné leur page au test. Chacun aura la sienne : ce qu’il fait à un signe, quelles cartes le portent, et pourquoi la Maison lui fait confiance ou non.
+Soleil, Lune, Mercure, Vénus, Mars, Jupiter, Saturne, Uranus, Neptune, Pluton — et Lilith et Chiron, qui ont gagné leur page au test. Chacun a la sienne : ce qu’il fait à un signe, quelles cartes le portent, et pourquoi je lui fais confiance ou non.
 
 ## Pour continuer {#continuer}
 

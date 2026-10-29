@@ -62,14 +62,12 @@ Le Soleil est le signe que tout le monde connaît — celui qu’on donne quand 
 
 ## Les cartes qui le portent {#cartes}
 
-Le Soleil, arcane XIX : l’enfant sur le cheval blanc, les tournesols, la joie sans réserve. Et par le Lion, la Force. Dans les mineurs, le Soleil régit les décans du Trois de Bâtons, du Six de Coupes, du Dix d’Épées et du Quatre et du Huit de Pentacles. [La page de la carte principale.](/fr/bibliotheque/cartes-tarot/le-soleil/)
+[Le Soleil](/fr/bibliotheque/cartes-tarot/le-soleil/), arcane XIX : l’enfant sur le cheval blanc, les tournesols, la joie sans réserve. Et par le Lion, la Force. Dans les mineurs, le Soleil régit les décans du Trois de Bâtons, du Six de Coupes, du Dix d’Épées et du Quatre et du Huit de Pentacles.
 
 {{< cards "ar19" >}}
 
 ## Ce que le test a montré {#test}
 
-Un tiers de juste au test — la vitrine, pas la boutique. La Maison le lit comme la carte du Soleil : ce qui se montre volontiers. Utile pour savoir où la personne veut être vue ; inutile pour savoir ce qu’elle cache.
-
-Rappel du cadre : j’ai vérifié mon thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
+Un tiers de juste [au test](/fr/bibliotheque/astrologie/#le-test) — la vitrine, pas la boutique. La Maison le lit comme la carte du Soleil : ce qui se montre volontiers. Utile pour savoir où la personne veut être vue ; inutile pour savoir ce qu’elle cache.
 
 {{% six %}}

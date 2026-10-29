@@ -77,12 +77,8 @@ The person who's always calm, always there, and whom you discover years later kn
 
 ## Its card: The Moon {#card}
 
-When the Moon comes out, Pisces is there: what happens under the surface, the intuition that has no words yet, sometimes illusion. Well placed, it's the wisdom that waits for the right moment. Badly placed, it's the one who dived and no longer says when they'll come up. The card has [its own page](/library/tarot-cards/the-moon/), with all its lenses.
+When [the Moon](/library/tarot-cards/the-moon/) comes out, Pisces is there: what happens under the surface, the intuition that has no words yet, sometimes illusion. Well placed, it's the wisdom that waits for the right moment. Badly placed, it's the one who dived and no longer says when they'll come up.
 
 {{< cards "ar18" >}}
-
-## What Maison Tarot doesn't say {#limits}
-
-This sign explains no one. I tested my chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)
 
 {{% six %}}

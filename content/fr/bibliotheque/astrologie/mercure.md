@@ -63,14 +63,12 @@ Mercure dit comment on pense et comment on parle : la vitesse de l’esprit, le 
 
 ## Les cartes qui le portent {#cartes}
 
-Le Magicien, arcane I : les quatre outils sur la table, la main levée, l’intelligence qui relie. Par les Gémeaux, les Amoureux ; par la Vierge, l’Ermite. Dans les mineurs : le Huit de Bâtons, le Trois de Coupes, le Six d’Épées, le Cinq et le Dix de Pentacles. [La page de la carte principale.](/fr/bibliotheque/cartes-tarot/le-magicien/)
+[Le Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/), arcane I : les quatre outils sur la table, la main levée, l’intelligence qui relie. Par les Gémeaux, les Amoureux ; par la Vierge, l’Ermite. Dans les mineurs : le Huit de Bâtons, le Trois de Coupes, le Six d’Épées, le Cinq et le Dix de Pentacles.
 
 {{< cards "ar01" >}}
 
 ## Ce que le test a montré {#test}
 
-Un tiers de juste. La Maison l’utilise pour une chose précise : savoir si la personne lit une carte avec les mots ou avec les yeux. Un Mercure en Air commente ; un Mercure en Terre vérifie. C’est utile en atelier, pas dans une lecture.
-
-Rappel du cadre : j’ai vérifié mon thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
+[Un tiers de juste](/fr/bibliotheque/astrologie/#le-test). La Maison l’utilise pour une chose précise : savoir si la personne lit une carte avec les mots ou avec les yeux. Un Mercure en Air commente ; un Mercure en Terre vérifie. C’est utile en atelier, pas dans une lecture.
 
 {{% six %}}

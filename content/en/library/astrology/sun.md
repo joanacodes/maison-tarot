@@ -62,14 +62,12 @@ The Sun is the sign everyone knows — the one you give when someone asks 'what 
 
 ## The cards that carry it {#cards}
 
-The Sun, arcana XIX: the child on the white horse, the sunflowers, unreserved joy. And through Leo, Strength. In the minors, the Sun rules the decans of the Three of Wands, the Six of Cups, the Ten of Swords and the Four and Eight of Pentacles. [The main card's page.](/library/tarot-cards/the-sun/)
+[The Sun](/library/tarot-cards/the-sun/), arcana XIX: the child on the white horse, the sunflowers, unreserved joy. And through Leo, Strength. In the minors, the Sun rules the decans of the Three of Wands, the Six of Cups, the Ten of Swords and the Four and Eight of Pentacles.
 
 {{< cards "ar19" >}}
 
 ## What the test showed {#test}
 
-A third accurate in the test — the shop window, not the shop. I read it like the Sun card: what shows itself willingly. Useful for knowing where the person wants to be seen; useless for knowing what they hide.
-
-A reminder of the frame: I checked my chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
+A third accurate in [the test](/library/astrology/#the-test) — the shop window, not the shop. I read it like the Sun card: what shows itself willingly. Useful for knowing where the person wants to be seen; useless for knowing what they hide.
 
 {{% six %}}

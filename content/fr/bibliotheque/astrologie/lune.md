@@ -64,14 +64,12 @@ La Lune dit ce qu’on ressent quand personne ne regarde : le besoin de sécurit
 
 ## Les cartes qui le portent {#cartes}
 
-La Grande Prêtresse, arcane II, par la tradition Golden Dawn : la lune à ses pieds, le voile, ce qui se sait et ne se dit pas. La Lune (XVIII) porte les Poissons, pas la Lune elle-même — c’est une confusion fréquente. Dans les mineurs : le Quatre de Coupes, le Neuf de Bâtons, le Deux d’Épées, le Sept d’Épées, le Six de Pentacles. [La page de la carte principale.](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/)
+[La Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), arcane II, par la tradition Golden Dawn : la lune à ses pieds, le voile, ce qui se sait et ne se dit pas. La Lune (XVIII) porte les Poissons, pas la Lune elle-même — c’est une confusion fréquente. Dans les mineurs : le Quatre de Coupes, le Neuf de Bâtons, le Deux d’Épées, le Sept d’Épées, le Six de Pentacles.
 
 {{< cards "ar02" >}}
 
 ## Ce que le test a montré {#test}
 
-Un peu plus d’un tiers au test, mais avec un biais : c’est le placement dont la personne dit le plus facilement « oui, c’est ça », parce qu’il décrit ce qu’elle sait déjà d’elle. La Maison s’en sert comme clé sur les cartes d’Eau, pas comme portrait.
-
-Rappel du cadre : j’ai vérifié mon thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
+Un peu plus d’un tiers [au test](/fr/bibliotheque/astrologie/#le-test), mais avec un biais : c’est le placement dont la personne dit le plus facilement « oui, c’est ça », parce qu’il décrit ce qu’elle sait déjà d’elle. La Maison s’en sert comme clé sur les cartes d’Eau, pas comme portrait.
 
 {{% six %}}

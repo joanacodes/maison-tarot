@@ -1,6 +1,6 @@
 ---
-title: 'Taurus in astrology and tarot: its card (The Empress), its energy, its archetype'
-description: 'The sign of Taurus read as a tarot lens: its card The Empress, its verb
+title: 'Taurus in astrology and tarot: its card (The Hierophant), its energy, its archetype'
+description: 'The sign of Taurus read as a tarot lens: its card The Hierophant, its verb
   ''I have'', Venus, Earth, fixed mode, feminine energy. Guardian energy, beauty,
   stability. Its favourable and unfavourable sides, its archetype, and how to read
   it in a spread.'
@@ -13,21 +13,22 @@ categories:
 tags:
 - zodiac sign
 - taurus
-- The Empress
+- The Hierophant
 - Venus
 h1: Taurus — <em>I have</em>
 lede: Taurus energy has a sense of beauty and aims for a happy ending at any cost
   — which makes it very patient and strong over time.
 related:
 - /library/astrology
-- /library/tarot-cards/the-empress
+- /library/tarot-cards/the-hierophant
 - /library/four-elements/earth-element
 - /library/astrological-modes/fixed
 - /library/astrology/venus
 faq:
 - q: Which tarot card corresponds to Taurus?
-  a: The Empress, in the Golden Dawn tradition taken up by the Rider-Waite-Smith.
-    When it comes out, the sign gives its verb, element and mode at once.
+  a: The Hierophant, in the Golden Dawn tradition taken up by the Rider-Waite-Smith.
+    When it comes out, the sign gives its verb, element and mode at once. The Empress
+    is Venus's card; Venus rules the sign.
 - q: 'I''m a Taurus: is this card ''my'' card?'
   a: A way in, not an identity. The card says the same thing to anyone; your sign
     only helps you recognise it faster. Astrology is not an excuse.
@@ -75,14 +76,12 @@ Taurus energy has a sense of beauty and aims for a happy ending at any cost — 
 
 The keeper of the garden, the one who maintains; conservative Taurus, the opposite of Aquarius who wants the new.
 
-## Its card: The Empress {#card}
+## Its card: The Hierophant {#card}
 
-When the Empress comes out, Taurus is there: something grows, feeds, holds. Well placed, it's the prosperity that comes from having tended. Badly placed, it's what you can no longer let go of. The Four of Pentacles next to it says which. The card has [its own page](/library/tarot-cards/the-empress/), with all its lenses.
+When [the Hierophant](/library/tarot-cards/the-hierophant/) comes out, Taurus is there: something handed down and kept — a trade, a method, a tradition, the way things have always been done. Well placed, it's knowledge that lasts because someone looked after it. Badly placed, it's a rule followed out of habit, and the change Taurus refuses to consider.
 
-{{< cards "ar03" >}}
+{{< cards "ar05" >}}
 
-## What Maison Tarot doesn't say {#limits}
-
-This sign explains no one. I tested my chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)
+[Venus](/library/astrology/venus/), the planet that rules Taurus, has a card of its own: the Empress.
 
 {{% six %}}

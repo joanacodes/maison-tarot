@@ -62,14 +62,12 @@ Mars dit comment on agit et comment on se bat : l’énergie brute, la colère, 
 
 ## Les cartes qui le portent {#cartes}
 
-La Tour, arcane XVI : la foudre, la couronne qui tombe, ce qui s’effondre d’un coup. Par le Bélier, l’Empereur — Mars dans sa version construite. Dans les mineurs : le Deux et le Sept de Bâtons, le Cinq et le Dix de Coupes, le Neuf d’Épées, le Trois de Pentacles. [La page de la carte principale.](/fr/bibliotheque/cartes-tarot/la-tour/)
+[La Tour](/fr/bibliotheque/cartes-tarot/la-tour/), arcane XVI : la foudre, la couronne qui tombe, ce qui s’effondre d’un coup. Par le Bélier, l’Empereur — Mars dans sa version construite. Dans les mineurs : le Deux et le Sept de Bâtons, le Cinq et le Dix de Coupes, le Neuf d’Épées, le Trois de Pentacles.
 
 {{< cards "ar16" >}}
 
 ## Ce que le test a montré {#test}
 
-Un peu moins d’une fois sur deux : mieux que la moyenne. La Maison lit Mars comme la Tour et l’Empereur ensemble — la même force, selon qu’elle a un plan ou non. Sur une carte de Bâtons, Mars dit la vitesse ; sur une carte d’Épées, la dureté.
-
-Rappel du cadre : j’ai vérifié mon thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
+[Un peu moins d’une fois sur deux](/fr/bibliotheque/astrologie/#le-test) : mieux que la moyenne. La Maison lit Mars comme la Tour et l’Empereur ensemble — la même force, selon qu’elle a un plan ou non. Sur une carte de Bâtons, Mars dit la vitesse ; sur une carte d’Épées, la dureté.
 
 {{% six %}}

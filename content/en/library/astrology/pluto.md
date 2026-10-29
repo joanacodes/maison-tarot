@@ -62,14 +62,12 @@ Pluto says where you die and are reborn while alive: power, transformation, what
 
 ## The cards that carry it {#cards}
 
-Judgement, arcana XX: the graves opening, the call, what rises. Through Scorpio, Death. Two cards that frighten in the picture and say the same thing: something ends so that something else can begin. [The main card's page.](/library/tarot-cards/judgement/)
+[Judgement](/library/tarot-cards/judgement/), arcana XX: the graves opening, the call, what rises. Through Scorpio, Death. Two cards that frighten in the picture and say the same thing: something ends so that something else can begin.
 
 {{< cards "ar20" >}}
 
 ## What the test showed {#test}
 
-Hard to test as such. But I note that Lilith and Chiron — two points tied to what Pluto describes, the wound and the shadow — held 75 to 90% in the test. Pluto may be too big for one life; its small cousins speak better.
-
-A reminder of the frame: I checked my chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
+[Hard to test](/library/astrology/#the-test) as such. But I note that Lilith and Chiron — two points tied to what Pluto describes, the wound and the shadow — held 75 to 90% in the test. Pluto may be too big for one life; its small cousins speak better.
 
 {{% six %}}

@@ -79,12 +79,8 @@ Le militaire, le guerrier, le maçon qui monte le mur pendant que d’autres dis
 
 ## Sa carte : L’Empereur {#carte}
 
-Quand l’Empereur sort, le Bélier est dans la pièce : quelqu’un commande, commence, tranche. Bien posé, c’est l’autorité qui protège. Mal posé, c’est le mur monté trop vite. Regardez la carte d’à côté pour savoir si le plan existe. La carte a [sa propre page](/fr/bibliotheque/cartes-tarot/l-empereur/), avec toutes ses clés.
+Quand [l’Empereur](/fr/bibliotheque/cartes-tarot/l-empereur/) sort, le Bélier est dans la pièce : quelqu’un commande, commence, tranche. Bien posé, c’est l’autorité qui protège. Mal posé, c’est le mur monté trop vite. Regardez la carte d’à côté pour savoir si le plan existe.
 
 {{< cards "ar04" >}}
-
-## Ce que la Maison ne dit pas {#limites}
-
-Ce signe n’explique personne. J’ai testé mon thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)
 
 {{% six %}}

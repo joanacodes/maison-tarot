@@ -62,14 +62,12 @@ Pluton dit où l’on meurt et renaît de son vivant : le pouvoir, la transforma
 
 ## Les cartes qui le portent {#cartes}
 
-Le Jugement, arcane XX : les tombes qui s’ouvrent, l’appel, ce qui se relève. Par le Scorpion, la Mort. Deux cartes qui font peur sur l’image et disent la même chose : quelque chose finit pour qu’autre chose commence. [La page de la carte principale.](/fr/bibliotheque/cartes-tarot/le-jugement/)
+[Le Jugement](/fr/bibliotheque/cartes-tarot/le-jugement/), arcane XX : les tombes qui s’ouvrent, l’appel, ce qui se relève. Par le Scorpion, la Mort. Deux cartes qui font peur sur l’image et disent la même chose : quelque chose finit pour qu’autre chose commence.
 
 {{< cards "ar20" >}}
 
 ## Ce que le test a montré {#test}
 
-Difficile à tester en tant que tel. Mais la Maison note que Lilith et Chiron — deux points liés à ce que Pluton décrit, la blessure et l’ombre — ont tenu 75 à 90 % au test. Pluton est peut-être trop grand pour une seule vie ; ses petits cousins parlent mieux.
-
-Rappel du cadre : j’ai vérifié mon thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
+[Difficile à tester](/fr/bibliotheque/astrologie/#le-test) en tant que tel. Mais la Maison note que Lilith et Chiron — deux points liés à ce que Pluton décrit, la blessure et l’ombre — ont tenu 75 à 90 % au test. Pluton est peut-être trop grand pour une seule vie ; ses petits cousins parlent mieux.
 
 {{% six %}}

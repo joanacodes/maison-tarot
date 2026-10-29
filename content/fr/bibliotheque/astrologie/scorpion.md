@@ -79,12 +79,8 @@ La personne qui ne parle pas en soirée et attire l’attention de tout le monde
 
 ## Sa carte : La Mort {#carte}
 
-Quand la Mort sort, le Scorpion est là : une transformation jusqu’au bout, qu’on l’ait voulue ou non. Bien posé, c’est la guérison qui exige d’abord la fin de quelque chose. Mal posé, c’est le dard tourné contre soi. La carte a [sa propre page](/fr/bibliotheque/cartes-tarot/la-mort/), avec toutes ses clés.
+Quand [la Mort](/fr/bibliotheque/cartes-tarot/la-mort/) sort, le Scorpion est là : une transformation jusqu’au bout, qu’on l’ait voulue ou non. Bien posé, c’est la guérison qui exige d’abord la fin de quelque chose. Mal posé, c’est le dard tourné contre soi.
 
 {{< cards "ar13" >}}
-
-## Ce que la Maison ne dit pas {#limites}
-
-Ce signe n’explique personne. J’ai testé mon thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)
 
 {{% six %}}

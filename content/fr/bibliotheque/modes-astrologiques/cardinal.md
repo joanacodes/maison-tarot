@@ -4,7 +4,7 @@ title: 'Le mode cardinal au tarot et en astrologie : commencer — signes, carte
 description: 'Le mode cardinal ouvre. Il lance la saison, la décision, le projet ;
   il ne sait pas forcément finir, mais sans lui rien ne démarre. Quatre signes le
   portent — Bélier, Cancer, Balance, Capricorne — et quatre arcanes majeurs avec eux
-  : l’Empereur, la Grande Prêtresse, la Justice, le Diable.'
+  : l’Empereur, le Chariot, la Justice, le Diable.'
 translationKey: mode-cardinal
 type: library
 navTitle: Cardinal
@@ -19,7 +19,7 @@ h1: Cardinal — <em>commencer</em>
 lede: 'Le mode cardinal ouvre. Il lance la saison, la décision, le projet ; il ne
   sait pas forcément finir, mais sans lui rien ne démarre. Quatre signes le portent
   — Bélier, Cancer, Balance, Capricorne — et quatre arcanes majeurs avec eux : l’Empereur,
-  la Grande Prêtresse, la Justice, le Diable.'
+  le Chariot, la Justice, le Diable.'
 related:
 - /bibliotheque/modes-astrologiques
 - /bibliotheque/astrologie
@@ -66,11 +66,11 @@ En astrologie, chaque signe a un mode — cardinal, fixe ou mutable — qui dit 
 | Signe | Élément | Carte | Ce qu’il commence |
 | --- | --- | --- | --- |
 | Bélier | Feu | [L’Empereur](/fr/bibliotheque/cartes-tarot/l-empereur/) | L’action, le commandement |
-| Cancer | Eau | [La Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/) | Le ressenti, le secret qui initie |
+| Cancer | Eau | [Le Chariot](/fr/bibliotheque/cartes-tarot/le-chariot/) | Avancer avec une direction, diriger avec humanité |
 | Balance | Air | [La Justice](/fr/bibliotheque/cartes-tarot/la-justice/) | La décision juste, l’équilibre |
 | Capricorne | Terre | [Le Diable](/fr/bibliotheque/cartes-tarot/le-diable/) | L’ambition, la structure — et ses chaînes |
 
-{{< cards "ar04 ar02 ar11 ar15" >}}
+{{< cards "ar04 ar07 ar11 ar15" >}}
 
 ## Le conseil {#conseil}
 
@@ -82,6 +82,6 @@ Un tirage dominé par le cardinal dit : **ça commence, ou il est temps de comme
 
 ## Les trois modes {#modes}
 
-Commencer, tenir, changer. Les deux autres : [fixe](/fr/bibliotheque/modes-astrologiques/fixe/) · [mutable](/fr/bibliotheque/modes-astrologiques/mutable/). Et la [table complète des signes](/fr/bibliotheque/astrologie/) pour voir les trois à la fois.
+Les deux autres : [fixe](/fr/bibliotheque/modes-astrologiques/fixe/) · [mutable](/fr/bibliotheque/modes-astrologiques/mutable/). Et la [table complète des signes](/fr/bibliotheque/astrologie/) pour voir les trois à la fois.
 
 {{% six %}}

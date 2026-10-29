@@ -18,8 +18,8 @@ faq:
 
 | Mode | Le verbe | Signes | Cartes |
 | --- | --- | --- | --- |
-| [Cardinal](/fr/bibliotheque/modes-astrologiques/cardinal/) | Commencer | Bélier, Cancer, Balance, Capricorne | L’Empereur, la Grande Prêtresse, la Justice, le Diable |
-| [Fixe](/fr/bibliotheque/modes-astrologiques/fixe/) | Tenir | Taureau, Lion, Scorpion, Verseau | L’Impératrice, la Force, la Mort, l’Étoile |
+| [Cardinal](/fr/bibliotheque/modes-astrologiques/cardinal/) | Commencer | Bélier, Cancer, Balance, Capricorne | L’Empereur, le Chariot, la Justice, le Diable |
+| [Fixe](/fr/bibliotheque/modes-astrologiques/fixe/) | Tenir | Taureau, Lion, Scorpion, Verseau | Le Hiérophante, la Force, la Mort, l’Étoile |
 | [Mutable](/fr/bibliotheque/modes-astrologiques/mutable/) | Changer | Gémeaux, Vierge, Sagittaire, Poissons | Les Amoureux, l’Ermite, Tempérance, la Lune |
 
 ## Comment poser cette clé {#comment}

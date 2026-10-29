@@ -60,7 +60,7 @@ Jupiter says where you're lucky, or what you take for luck: expansion, confidenc
 
 ## The cards that carry it {#cards}
 
-The Wheel of Fortune, arcana X: what goes up, what goes down, and the fact that nothing stays. Through Sagittarius, Temperance. In the minors: the Six of Wands, the Nine of Cups, the Four and Eight of Swords, the Two of Pentacles. [The main card's page.](/library/tarot-cards/wheel-of-fortune/)
+[The Wheel of Fortune](/library/tarot-cards/wheel-of-fortune/), arcana X: what goes up, what goes down, and the fact that nothing stays. Through Sagittarius, Temperance. In the minors: the Six of Wands, the Nine of Cups, the Four and Eight of Swords, the Two of Pentacles.
 
 {{< cards "ar10" >}}
 

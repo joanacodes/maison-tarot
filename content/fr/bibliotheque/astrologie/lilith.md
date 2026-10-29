@@ -63,14 +63,12 @@ Lilith — la Lune noire, en astrologie moderne — n’est pas un astre : c’e
 
 ## Les cartes qui le portent {#cartes}
 
-Pas d’attribution Golden Dawn — Lilith est postérieure au système. La Maison la lit avec le Diable, arcane XV : les chaînes qu’on pourrait retirer, ce qu’on a laissé enchaîner, l’appétit qu’on a décidé de mépriser. Et parfois avec le Huit d’Épées : celle qui se croit prisonnière d’un lien qu’elle n’a pas vérifié. [La page de la carte principale.](/fr/bibliotheque/cartes-tarot/le-diable/)
+Pas d’attribution Golden Dawn — Lilith est postérieure au système. La Maison la lit avec [le Diable](/fr/bibliotheque/cartes-tarot/le-diable/), arcane XV : les chaînes qu’on pourrait retirer, ce qu’on a laissé enchaîner, l’appétit qu’on a décidé de mépriser. Et parfois avec le Huit d’Épées : celle qui se croit prisonnière d’un lien qu’elle n’a pas vérifié.
 
 {{< cards "ar15" >}}
 
 ## Ce que le test a montré {#test}
 
-**75 à 90 % au test.** Avec Saturne et Chiron, le placement qui a le mieux tenu — souvent le plus dur à dire à voix haute, parce que la personne le savait et n’avait jamais entendu quelqu’un le dire. La Maison lit Lilith avec précaution : c’est une clé qui ouvre une porte fermée exprès. On frappe avant.
-
-Rappel du cadre : j’ai vérifié mon thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
+**Avec Saturne et Chiron, Lilith a le mieux tenu : [75 à 90 %](/fr/bibliotheque/astrologie/#le-test).** C’est souvent le placement le plus dur à dire à voix haute, parce que la personne le savait et n’avait jamais entendu quelqu’un le dire. La Maison lit Lilith avec précaution : c’est une clé qui ouvre une porte fermée exprès. On frappe avant.
 
 {{% six %}}

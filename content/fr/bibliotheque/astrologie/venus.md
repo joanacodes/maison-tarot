@@ -62,14 +62,12 @@ Vénus dit ce qu’on aime et comment on aime : le goût, l’attirance, la faç
 
 ## Les cartes qui le portent {#cartes}
 
-L’Impératrice, arcane III : Vénus est inscrite sur son bouclier, littéralement. Par le Taureau, la même Impératrice ; par la Balance, la Justice. Dans les mineurs : le Quatre de Bâtons, le Deux et le Sept de Coupes, le Cinq d’Épées, le Neuf de Pentacles. [La page de la carte principale.](/fr/bibliotheque/cartes-tarot/l-imperatrice/)
+[L’Impératrice](/fr/bibliotheque/cartes-tarot/l-imperatrice/), arcane III : Vénus est inscrite sur son bouclier, littéralement. Par le Taureau, le Hiérophante ; par la Balance, la Justice. Dans les mineurs : le Quatre de Bâtons, le Deux et le Sept de Coupes, le Cinq d’Épées, le Neuf de Pentacles.
 
 {{< cards "ar03" >}}
 
 ## Ce que le test a montré {#test}
 
-Un tiers de juste, et une règle : la Maison ne lit pas « est-ce qu’il m’aime » avec Vénus ni avec autre chose. Vénus sert à lire une carte de Coupes — le Deux de Coupes est régi par Vénus, et ça se voit — pas à prédire un sentiment.
-
-Rappel du cadre : j’ai vérifié mon thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
+[Un tiers de juste](/fr/bibliotheque/astrologie/#le-test), et une règle : la Maison ne lit pas « est-ce qu’il m’aime » avec Vénus ni avec autre chose. Vénus sert à lire une carte de Coupes — le Deux de Coupes est régi par Vénus, et ça se voit — pas à prédire un sentiment.
 
 {{% six %}}

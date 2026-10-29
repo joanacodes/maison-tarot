@@ -62,14 +62,12 @@ Uranus says where you break: freedom taken rather than asked for, the unforeseen
 
 ## The cards that carry it {#cards}
 
-The Fool, arcana 0: the step above the drop, the departure nothing justifies. Through Aquarius, the Star. A planet discovered in 1781; its card attributions are modern, and I take them for what they are — a useful convention. [The main card's page.](/library/tarot-cards/the-fool/)
+[The Fool](/library/tarot-cards/the-fool/), arcana 0: the step above the drop, the departure nothing justifies. Through Aquarius, the Star. A planet discovered in 1781; its card attributions are modern, and I take them for what they are — a useful convention.
 
 {{< cards "ar00" >}}
 
 ## What the test showed {#test}
 
-Hard to test: what Uranus describes rarely happens at the moment you check. I use it to read the Fool — the leap — and ask nothing more of it.
-
-A reminder of the frame: I checked my chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
+[Hard to test](/library/astrology/#the-test): what Uranus describes rarely happens at the moment you check. I use it to read the Fool — the leap — and ask nothing more of it.
 
 {{% six %}}

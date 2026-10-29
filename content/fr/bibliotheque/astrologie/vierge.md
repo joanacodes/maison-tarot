@@ -79,12 +79,8 @@ Jinx dans Arcane ; l’ingénieur, le conseiller du trône, le manager.
 
 ## Sa carte : L’Ermite {#carte}
 
-Quand l’Ermite sort, la Vierge est là : quelqu’un s’est retiré pour comprendre, analyse avant d’agir, éclaire un pas à la fois. Bien posé, c’est la solution que personne ne voyait. Mal posé, c’est le service rendu à la mauvaise cause. La carte a [sa propre page](/fr/bibliotheque/cartes-tarot/l-ermite/), avec toutes ses clés.
+Quand [l’Ermite](/fr/bibliotheque/cartes-tarot/l-ermite/) sort, la Vierge est là : quelqu’un s’est retiré pour comprendre, analyse avant d’agir, éclaire un pas à la fois. Bien posé, c’est la solution que personne ne voyait. Mal posé, c’est le service rendu à la mauvaise cause.
 
 {{< cards "ar09" >}}
-
-## Ce que la Maison ne dit pas {#limites}
-
-Ce signe n’explique personne. J’ai testé mon thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)
 
 {{% six %}}

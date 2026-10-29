@@ -80,6 +80,6 @@ Un tirage dominé par le mutable dit : **c’est en train de changer, et la form
 
 ## Les trois modes {#modes}
 
-Commencer, tenir, changer. Les deux autres : [cardinal](/fr/bibliotheque/modes-astrologiques/cardinal/) · [fixe](/fr/bibliotheque/modes-astrologiques/fixe/). Et la [table complète des signes](/fr/bibliotheque/astrologie/) pour voir les trois à la fois.
+Les deux autres : [cardinal](/fr/bibliotheque/modes-astrologiques/cardinal/) · [fixe](/fr/bibliotheque/modes-astrologiques/fixe/).
 
 {{% six %}}

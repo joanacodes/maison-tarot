@@ -77,12 +77,8 @@ The person who says nothing at the party and draws everyone's attention without 
 
 ## Its card: Death {#card}
 
-When Death comes out, Scorpio is there: a transformation carried through, wanted or not. Well placed, it's the healing that first requires something to end. Badly placed, it's the sting turned on oneself. The card has [its own page](/library/tarot-cards/death/), with all its lenses.
+When [Death](/library/tarot-cards/death/) comes out, Scorpio is there: a transformation carried through, wanted or not. Well placed, it's the healing that first requires something to end. Badly placed, it's the sting turned on oneself.
 
 {{< cards "ar13" >}}
-
-## What Maison Tarot doesn't say {#limits}
-
-This sign explains no one. I tested my chart box by box: signs hold about one time in three — enough for a lens, not for a verdict. [The test, and its numbers.](/blog/i-tested-my-birth-chart/)
 
 {{% six %}}

@@ -1,8 +1,8 @@
 ---
-title: 'Cancer en astrologie et au tarot : sa carte (La Grande Prêtresse), son énergie,
+title: 'Cancer en astrologie et au tarot : sa carte (Le Chariot), son énergie,
   son archétype'
-description: 'Le signe du Cancer lu comme une clé de lecture du tarot : sa carte La
-  Grande Prêtresse, son verbe « Je ressens », Lune, Eau, mode cardinal, énergie féminine.
+description: 'Le signe du Cancer lu comme une clé de lecture du tarot : sa carte Le
+  Chariot, son verbe « Je ressens », Lune, Eau, mode cardinal, énergie féminine.
   Nourrice, directrice, protectrice, très forte intuition. Ses côtés favorables et
   défavorables, son archétype, et comment le lire dans un tirage.'
 translationKey: sign-cancer
@@ -14,21 +14,22 @@ categories:
 tags:
 - signe astrologique
 - cancer
-- La Grande Prêtresse
+- Le Chariot
 - Lune
 h1: Cancer — <em>je ressens</em>
 lede: Deux personnes soulèvent des poids qui se ressemblent comme deux gouttes d’eau
   ; ceux de la première font 4 kilos, ceux de l’autre 78.
 related:
 - /bibliotheque/astrologie
-- /bibliotheque/cartes-tarot/la-grande-pretresse
+- /bibliotheque/cartes-tarot/le-chariot
 - /bibliotheque/quatre-elements/element-eau
 - /bibliotheque/modes-astrologiques/cardinal
 - /bibliotheque/astrologie/lune
 faq:
 - q: Quelle carte de tarot correspond au Cancer ?
-  a: La Grande Prêtresse, dans la tradition Golden Dawn reprise par le Rider-Waite-Smith.
-    Quand elle sort, le signe donne son verbe, son élément et son mode d’un coup.
+  a: Le Chariot, dans la tradition Golden Dawn reprise par le Rider-Waite-Smith.
+    Quand il sort, le signe donne son verbe, son élément et son mode d’un coup.
+    La Grande Prêtresse est la carte de la Lune, qui gouverne le signe.
 - q: 'Je suis Cancer : est-ce que cette carte est « ma » carte ?'
   a: C’est une entrée, pas une identité. La carte parle à n’importe qui de la même
     chose ; votre signe vous aide seulement à la reconnaître plus vite. L’astrologie
@@ -77,14 +78,12 @@ Deux personnes soulèvent des poids qui se ressemblent comme deux gouttes d’ea
 
 La mère ou le père au foyer. Hodor, dans Game of Thrones : celui qui tient la porte.
 
-## Sa carte : La Grande Prêtresse {#carte}
+## Sa carte : Le Chariot {#carte}
 
-Quand la Grande Prêtresse sort, le Cancer est là : quelque chose se ressent et ne se dit pas, quelqu’un contient. Bien posé, c’est l’intuition qui protège. Mal posé, c’est l’émotion qui monte et descend sans qu’on sache pourquoi. Le Cancer ne prend pas ; il donne. La carte a [sa propre page](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), avec toutes ses clés.
+Quand [le Chariot](/fr/bibliotheque/cartes-tarot/le-chariot/) sort, le Cancer est là : une carapace dure autour d’un intérieur tendre, un guerrier en armure qui avance sous des poids que personne ne voit. Bien posé, c’est la volonté qui protège et qui tient bon. Mal posé, c’est l’armure qu’on ne retire jamais. Le Cancer ne prend pas ; il donne.
 
-{{< cards "ar02" >}}
+{{< cards "ar07" >}}
 
-## Ce que la Maison ne dit pas {#limites}
-
-Ce signe n’explique personne. J’ai testé mon thème case par case : les signes tiennent environ une fois sur trois — assez pour une clé de lecture, pas pour un verdict. [Le test, et ses chiffres.](/fr/blog/j-ai-teste-mon-theme-astral/)
+La Grande Prêtresse revient à [la Lune](/fr/bibliotheque/astrologie/lune/), l’astre qui gouverne le signe.
 
 {{% six %}}
