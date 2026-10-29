@@ -56,7 +56,7 @@ C’est un jeu profond et superbe, dense en astrologie et en symboles, et dans m
 
 ## Ce que j’ai laissé de côté, et pourquoi {#laisse-de-cote}
 
-Les oracles, parce que ce ne sont pas des tarots : chacun fixe librement son nombre de cartes et le sens de chacune. Agréables à posséder ; ils ne vous apprendront pas la structure du tarot.
+Les oracles, parce que ce ne sont pas des tarots : chacun fixe librement son nombre de cartes et le sens de chacune. Agréables à posséder ; pour comprendre comment un tarot est bâti, ils ne vous serviront à rien.
 
 Les nombreuses versions redessinées du Rider-Waite-Smith. Certaines sont très belles, et une fois l’original connu, elles peuvent être un vrai plaisir. Je préfère que vous en choisissiez une avec une édition de Smith à côté, pour voir ce que l’artiste a gardé et ce qu’il a changé.
 

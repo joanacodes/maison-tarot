@@ -41,7 +41,7 @@ Imaginons quelqu’un qui tire, sur cinq soirs, le Cinq de Pentacles, le Quatre 
 
 {{< cards "pe05 wa04 pe07 ar09 peac" >}}
 
-*Ce que l’année a usé :* le Cinq de Pentacles : deux personnes transies avancent dans la neige, l’une sur des béquilles, sous une fenêtre d’église allumée. Mes notes y voient le dénuement et l’hiver, à deux pas d’une église qui pourrait les réchauffer. Fatigué, transi — et en train de passer devant l’aide qui est juste là.
+*Ce que l’année a usé :* le Cinq de Pentacles : dans la neige, deux personnes transies avancent, l’une sur des béquilles, sous une fenêtre d’église allumée. Mes notes y voient le dénuement et l’hiver, à deux pas d’une église qui pourrait les réchauffer. Fatigué, transi — et en train de passer devant l’aide qui est juste là.
 
 *Ce qui me tient chaud :* le Quatre de Bâtons, des guirlandes tendues entre quatre bâtons et des personnes qui lèvent des bouquets devant un château. Dans mes notes : les fondations, le mariage, fonder une famille. La maison, et ceux qui l’habitent.
 

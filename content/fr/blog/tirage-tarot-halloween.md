@@ -58,7 +58,7 @@ Où que vous soyez, deux signes disent que ce n’est pas un tirage mais une ven
 
 ## Après votre premier tirage {#apres}
 
-Notez ce qui a été dit le soir même, avant toute interprétation. La mémoire retouche vite ; une semaine plus tard, vous vous souviendrez du tirage que vous vouliez, pas de celui que vous avez eu.
+Le soir même, mettez par écrit ce que vous avez entendu, avant toute interprétation. La mémoire retouche vite ; une semaine plus tard, vous vous souviendrez du tirage que vous vouliez, pas de celui que vous avez eu.
 
 Ensuite, n’agissez pas en fonction de lui : [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/), et un tirage de dix minutes en soirée encore moins.
 

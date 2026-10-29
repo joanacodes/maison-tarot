@@ -33,7 +33,7 @@ Pourquoi si long ? Pluton met environ 248 ans à faire le tour du Soleil, sur un
 
 ## Ce que les astrologues y lisent {#signification}
 
-En astrologie, Pluton parle de pouvoir et de métamorphose : ce qu’on ensevelit finit par refaire surface. [Le Verseau](/fr/bibliotheque/astrologie/verseau/) est un Air fixe, le signe dont le verbe est « je sais » : les idées, les groupes, les réseaux, les inventions, l’avenir. Mes archétypes pour lui sont le savant fou et le fondateur de start-up — des gens qui restent fidèles à une idée bien après que tout le monde est passé à autre chose.
+En astrologie, Pluton parle de pouvoir et de métamorphose : ce qu’on ensevelit finit par refaire surface. [Le Verseau](/fr/bibliotheque/astrologie/verseau/) est un Air fixe, le signe du « je sais » : les idées, les groupes, les réseaux, les inventions, l’avenir. Mes archétypes pour lui sont le savant fou et le fondateur de start-up — des gens qui restent fidèles à une idée bien après que tout le monde est passé à autre chose.
 
 Mettez les deux ensemble et vous obtenez la lecture habituelle de ce transit : un pouvoir qui passe par la technologie, les réseaux et les collectifs. Qui possède les outils, qui appartient à quel groupe, quelles idées organisent les gens. Les vingt années précédentes, Pluton en Capricorne (2008-2024), se lisaient à travers les institutions, les États et la dette.
 
@@ -59,4 +59,4 @@ Côte à côte, elles racontent le transit en deux images : ce qui était enterr
 
 ## Et ensuite {#et-ensuite}
 
-Pluton en Verseau n’est pas le seul événement lent que les astrologues surveillent. Il y a eu aussi, en février 2026, la rencontre de Saturne et de Neptune au tout premier degré du Bélier ; je reviens sur [ce qu’on attendait de cette conjonction, et ce qu’on peut honnêtement en dire aujourd’hui](/fr/blog/conjonction-saturne-neptune-2026/).
+Pluton en Verseau n’est pas le seul événement lent que les astrologues surveillent. Il y a eu aussi, en février 2026, la rencontre de Saturne et de Neptune au tout premier degré du Bélier ; je reviens sur [les attentes autour de cette conjonction, et ce qu’elles sont devenues](/fr/blog/conjonction-saturne-neptune-2026/).

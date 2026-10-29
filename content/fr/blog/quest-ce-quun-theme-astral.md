@@ -38,7 +38,7 @@ En astrologie, on range le Soleil et la Lune parmi les « planètes », ce qui f
 | Neptune | Le rêve, l’intuition, l’illusion |
 | Pluton | Le pouvoir, la transformation |
 
-La plupart des thèmes affichent aussi deux points que je regarde de près : Lilith, un point calculé (ce que vous avez appris à cacher), et Chiron, un petit astre dont l’orbite passe entre celles de Saturne et d’Uranus (la blessure autour de laquelle vous tournez).
+La plupart des thèmes affichent aussi deux points que je regarde de près : Lilith, un point calculé (ce que vous avez appris à cacher), et Chiron, un petit astre dont l’orbite passe entre celles de Saturne et d’Uranus (la blessure qui vous fait tourner en rond).
 
 La vitesse compte. La Lune passe d’un signe à l’autre en deux jours et demi environ, le Soleil tous les mois, Jupiter tous les ans, Saturne tous les deux ans et demi ; Uranus, Neptune et Pluton restent sept ans ou davantage. Toute votre classe de CP partage ces planètes lentes : elles parlent d’une génération plus que de vous.
 
