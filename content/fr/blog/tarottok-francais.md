@@ -31,24 +31,12 @@ Parce que c’est rapide, chaleureux, et que ça arrive quand on est seul. Les a
 
 Je n’y vois pas un problème. J’y vois une porte.
 
-## Là où les critiques ont raison {#critiques-raison}
+## Là où les critiques ont raison, et là où ils se trompent {#critiques-raison}
 
-Les tarologues expérimentés n’aiment pas TarotTok, et une partie de ce rejet est méritée.
+Une partie du rejet est méritée : les tas flatteurs, les tunnels vers des tirages payants, les promesses sur les sentiments des autres, et les lectures qui ne se trompent jamais. Je les passe en revue, avec les habitudes qui les corrigent, dans [ce que la critique du pick-a-card voit juste, et ce qu’elle rate](/fr/blog/critique-pick-a-card/). TikTok en ajoute un qui lui est propre : le rythme. Quinze secondes, c’est assez pour nommer une carte, pas assez pour lire quoi que ce soit.
 
-La flatterie : chaque tas est spécial, quelqu’un pense à vous, l’abondance arrive. Les tunnels de vente : une vidéo gratuite, puis « réservez votre tirage personnalisé, lien en bio ». Les promesses : « il va revenir », dit à cent mille inconnus à la fois. Le rythme : des lectures compressées en quinze secondes, assez pour nommer une carte, pas assez pour lire quoi que ce soit. Et le sans-faute permanent, alors qu’[une personne qui ne se trompe jamais ne lit pas](/fr/blog/pourquoi-les-tirages-sont-justes/).
-
-Tout cela est réel, et c’est exactement la liste de [signaux d’alerte](/fr/blog/arnaque-voyance/) que je donnerais pour n’importe qui, partout.
-
-## Là où les critiques se trompent {#critiques-tort}
-
-Ils reprochent les tunnels de vente au format, et ils méprisent le public.
-
-Le format est un miroir tendu à une foule. On peut le tenir honnêtement, en s’engageant sur quelque chose de précis pour chaque tas, en ne vendant rien, en disant quand un tas est brouillé, et certaines personnes le font. Les tunnels existent parce que le tirage était un produit bien avant TikTok : la voyance sur Minitel et au téléphone se vendait déjà à la minute. L’application a seulement rétréci la vitrine.
-
-Et le public, ce sont les gens que les livres n’ont jamais atteints. Quand une tarologue forte de vingt ans d’expérience soupire « ces jeunes ne savent pas ce qu’ils font », j’entends surtout qu’ils le font sans demander la permission, exactement comme moi au début. [Personne ne m’a transmis de don](/fr/blog/faut-il-un-don-pour-lire-les-cartes/). Une vidéo, si.
+Là où les critiques se trompent, c’est quand ils reprochent les tunnels à l’application. Le tirage était un produit bien avant TikTok : la voyance sur Minitel et au téléphone se vendait déjà à la minute. L’application a seulement rétréci la vitrine. Et ils méprisent le public, qui est fait des gens que les livres n’ont jamais atteints. Quand une tarologue forte de vingt ans d’expérience soupire « ces jeunes ne savent pas ce qu’ils font », j’entends surtout qu’ils le font sans demander la permission, exactement comme moi au début. [Personne ne m’a transmis de don](/fr/blog/faut-il-un-don-pour-lire-les-cartes/). Une vidéo, si.
 
 ## Ce que j’aimerais que TarotTok soit {#ce-que-jaimerais}
 
-La même chose que j’attends de toute personne qui lit : qu’on ne lui dise rien, qu’elle préfère le précis au flatteur, qu’elle annonce ses ratés, et qu’elle n’ait rien à vendre à la fin. C’est une barre haute pour une vidéo de quinze secondes, et quelques personnes la franchissent.
-
-[Les événements gratuits de Maison Tarot](/fr/evenements/) sont ma tentative de version honnête : en public, tirage au sort, carnet ouvert. C’est TarotTok sans le tunnel de vente : il reste presque tout ce qui valait la peine.
+Davantage des formats que personne ne regarde : la carte du jour et les significations des cartes, souvent honnêtes. Moins de tirages sur le cœur des autres. Et plus de personnes prêtes à dire, face caméra, qu’un tas n’a rien donné. [Les événements gratuits](/fr/evenements/) sont l’endroit où j’essaie de le faire en public : des personnes tirées au sort, rien ne m’est dit avant, et le carnet reste ouvert.

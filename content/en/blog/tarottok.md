@@ -31,22 +31,12 @@ Because it's fast, warm, and arrives when you're alone. Tarot's traditional gate
 
 I don't think that's a problem. I think that's a door.
 
-## Where the critics are right {#critics-right}
+## Where the critics are right, and where they're wrong {#critics-right}
 
-Experienced readers dislike TarotTok, and some of it is deserved.
+Some of the dislike is deserved: flattering piles, funnels to paid readings, promises about other people, and readers who never miss. I go through those, and the habits that fix them, in [what the pick-a-card criticism gets right and wrong](/blog/pick-a-card-criticism/). TikTok adds one of its own: the pace. Fifteen seconds is enough to say a card's name and not enough to read anything.
 
-The flattery: every pile is special, someone is thinking of you, abundance is coming. The funnels: free video, then "book a personal reading, link in bio". The promises: "he's coming back", said to a hundred thousand strangers at once. The pace: readings compressed to fifteen seconds, which is enough time to say a card's name and not enough to read anything. And the never-missing: [a reader who is never wrong isn't reading](/blog/why-tarot-readings-feel-accurate/).
-
-All of that is real, and all of it is the same list of [red flags](/blog/how-to-spot-a-fake-tarot-reader/) I'd give for any reader in any medium.
-
-## Where the critics are wrong {#critics-wrong}
-
-They blame the format for the funnels, and they sneer at the audience.
-
-The format is a mirror held up to a crowd. It can be done honestly — commit to something specific per pile, sell nothing, say when a pile is muddy — and some readers do. The funnels exist because readings were a product before TikTok existed; the app just made the shop window smaller.
-
-And the audience is the people the books never reached. When a reader with twenty years' experience says "these kids don't know what they're doing", what I hear is that the kids are doing it without asking permission, which is exactly how I started. [Nobody gave me a gift](/blog/do-you-need-psychic-abilities/). A video did.
+Where the critics go wrong is in blaming the app for the funnels. Readings were a product long before TikTok existed; the app just made the shop window smaller. And they sneer at the audience, who are the people the books never reached. When a reader with twenty years' experience says "these kids don't know what they're doing", what I hear is that the kids are doing it without asking permission, which is exactly how I started. [Nobody gave me a gift](/blog/do-you-need-psychic-abilities/). A video did.
 
 ## What I'd want TarotTok to be {#what-id-want}
 
-The same thing I want from any reader: told nothing, specific over flattering, misses said out loud, nothing to sell at the end. It's a high bar for a fifteen-second video, and a few people clear it. [The free event format at Maison Tarot](/events/) is my attempt at the honest version — public, drawn at random, notebook open. It's TarotTok with the funnel removed, which turns out to be most of what needed removing.
+More of the formats nobody watches: card-a-day and card meanings, which are often decent. Fewer readings about someone else's heart. And more readers willing to say, on camera, that a pile didn't land. The [free events](/events/) are where I try it in public: people drawn at random, nothing said to me beforehand, and the notebook open.
