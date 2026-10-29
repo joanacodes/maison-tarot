@@ -4,7 +4,7 @@ description: "Before every reading I tell myself I’ll talk nonsense, and the p
 translationKey: method
 eyebrow: "the method"
 h1: "I expect to talk nonsense, and the person tells me <em>nothing</em>."
-lede: "This is the most important page on this site, and I’m writing it myself. Meanwhile: the structure, the numbers, and what I don’t claim."
+lede: "How I read, how I counted, what doesn’t work and when I stop: the whole method on one page, with its numbers and its limits."
 navTitle: "Method"
 ---
 {{< short-answer >}}
@@ -13,37 +13,47 @@ Three hundred times, for free, for strangers who told me nothing, I drew the car
 
 {{< ledger >}}
 
-## Why does the person tell me nothing beforehand?
+## Why does the person tell me nothing beforehand? {#silence}
 
-{{< todo >}}TO WRITE — the silence rule: what it makes checkable, what it rules out (cold reading, Barnum effect), and how it was born.{{< /todo >}}
+Because it’s the only way a reading can be checked. If you tell me you’ve just been through a break-up, anything I say about loss will sound right, and neither of us will know whether it came from the cards or from you. When I know nothing, every sentence is mine, and each one can be marked right or wrong afterwards.
 
-## Why do I tell myself I’m about to talk nonsense?
+It also takes away the material of the two usual explanations for readings that feel accurate: [cold reading](/blog/cold-reading-vs-tarot/), where a reader picks up clues from the person, and the [Barnum effect](/blog/barnum-effect-tarot/), where a sentence vague enough fits anyone. No clues to pick up, and vague sentences don’t count. The rule comes from my first reading for a stranger, which I tell on [the silence rule](/blog/the-silence-rule/) page.
 
-{{< todo >}}TO WRITE — the anti-ego stance, expectation at zero, curiosity over wanting to be right, and the finding: the lower I go, the more accurate it gets.{{< /todo >}}
+## Why do I tell myself I’m about to talk nonsense? {#nonsense}
 
-## How did I count?
+Because wanting to be right is what spoils a reading. Whenever I’ve gone in wanting to be absolutely right, I’ve given bad readings. When I tell myself beforehand that I’m about to talk nonsense, the reading comes out precise, often with several events at once.
 
-{{< todo >}}TO WRITE — what you call “accurate” (visible reaction during, verbal confirmation after), one or two anonymised examples, and the cases counted as misses.{{< /todo >}}
+Expecting nothing takes the brakes off. I stop checking every sentence for whether it sounds plausible, and I stop doubting before I’ve finished speaking. Some readings I barely remember afterwards, as if the message went through me; others I feel, and those stay with me. Curiosity reads well. Ego, the part that wants to look gifted, reads badly.
 
-## Why do I read the present rather than the future?
+## How did I count? {#count}
 
-A reading reads your emotional world at the moment it happens. Anything can change with a decision you’re about to make. It’s excellent for understanding what you’ve been through and how to meet what’s coming; it’s poor at telling you exactly what happens next week — it does happen, but rarely the way you imagined, and above all it pulls you out of your present. What I work on is “how to get through what’s coming”, not “what’s coming”.
+In a notebook with two columns: what I said, and what the person confirmed. About three hundred readings for strangers, all free, mostly online — Discord servers, group calls, one live — and some face to face.
 
-## What doesn’t work?
+Held, when the person recognised their situation, whether they reacted while I was speaking or confirmed it afterwards. Missed, when nothing landed or they told me so. A miss is a miss. I don’t reframe it, I don’t draw an extra card to rescue it, and it only changes column if the person comes back with something that actually happened.
 
-{{< todo >}}TO WRITE — the failures, the conditions under which it degrades, what you stopped doing.{{< /todo >}}
+That gives about nine readings in ten held and one in ten missed. It’s a hand count by the person doing the readings, which is exactly its limit; [the 300 readings](/blog/does-tarot-work-300-readings/) go through the figures and what they don’t prove.
 
-## Why do I sometimes stop mid-reading?
+## Why do I read the present rather than the future? {#present}
 
-{{< todo >}}TO WRITE — the state during a reading, the fatigue after two hours, the session you cut short out of caution. It’s your ethics; say it.{{< /todo >}}
+A reading shows where you stand emotionally on the day it happens, and a decision you’re about to make can change everything after it. It’s excellent for understanding what you’ve been through and how to meet what’s coming; it’s poor at telling you exactly what happens next week — it does happen, but rarely the way you imagined, and above all it pulls you out of your present. What I work on is “how to get through what’s coming”, not “what’s coming”.
 
-## And tarot is not an authority
+## What doesn’t work? {#what-doesnt-work}
 
-Act on what you feel, not on what was said during a reading. The cards aren’t powerful; you are. And if you catch yourself consulting constantly, that isn’t about tarot: it’s a search for outside validation. Take a break. Train the muscle that decides.
+Pressure, mine or the other person’s. Sometimes nothing comes at all: I’m pushing too hard, or the person is afraid of what they might hear. Fear in general works against reading, because reading asks you to open up and fear makes you close and shrink. The less I feed my imagination with frightening things, the easier reading gets.
 
-## What I don’t claim
+Reading someone who hasn’t asked. A person who doesn’t know they’re being read isn’t open, so you get half a sentence and build a whole statement on it. That’s one of the reasons [I don’t read third parties](/disclaimers/#refusals).
 
-It’s on the disclaimers page, with everything else, because we decided to stop repeating it everywhere: [what I don’t claim](/disclaimers/#claims).
+And objects. In 2021 I sold sage, candles and “channelled” cards, then stopped, because none of it made a reading better; [the whole story](/blog/cleanse-tarot-deck/) has its own page.
+
+## Why do I sometimes stop? {#stopping}
+
+Because interpreting takes energy. After about two hours of readings I stop, out of caution, and I rest. The tiredness is real, and [it has a page of its own](/blog/energy-after-tarot-reading/).
+
+I also stop when reading has become a habit for the person in front of me. If the same question keeps coming back, one more spread won’t settle it; [a break from readings](/blog/why-you-should-quit-tarot-reading/) will do more.
+
+## What I don’t claim {#claims}
+
+It’s on the disclaimers page, with everything else, so it isn’t repeated across the site: [what I don’t claim](/disclaimers/#claims), and why the decision always stays yours.
 
 ## What now?
 

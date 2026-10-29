@@ -4,7 +4,7 @@ description: "Avant chaque tirage, je me dis que je vais dire n’importe quoi, 
 translationKey: method
 eyebrow: "la méthode"
 h1: "Je m’attends à dire n’importe quoi, et la personne ne me dit <em>rien</em>."
-lede: "C’est la page la plus importante de la Maison, et je l’écris moi-même. En attendant, la structure, les chiffres, et ce que je ne prétends pas."
+lede: "Comment je lis, comment j’ai compté, ce qui ne marche pas et quand je m’arrête : toute la méthode sur une page, avec ses chiffres et ses limites."
 navTitle: "Méthode"
 ---
 {{< short-answer >}}
@@ -13,37 +13,47 @@ Trois cents fois, gratuitement, pour des inconnus qui ne me disaient rien, j’a
 
 {{< ledger >}}
 
-## Pourquoi la personne ne me dit rien avant ?
+## Pourquoi la personne ne me dit rien avant ? {#silence}
 
-{{< todo >}}À COMPLÉTER — la règle du silence : ce qu’elle rend vérifiable, ce qu’elle empêche (lecture à froid, effet Barnum), et comment elle est née.{{< /todo >}}
+Parce que c’est la seule façon de pouvoir vérifier un tirage. Si vous me dites que vous sortez d’une rupture, tout ce que je dirai sur la perte sonnera juste, et aucun de nous deux ne saura si ça venait des cartes ou de vous. Quand je ne sais rien, chaque phrase est la mienne, et chacune peut être notée juste ou fausse ensuite.
 
-## Pourquoi je me dis que je vais dire n’importe quoi ?
+Ça retire aussi leur matière aux deux explications habituelles des tirages qui paraissent justes : la [lecture froide](/fr/blog/lecture-froide-tarot/), où le tarologue capte des indices chez la personne, et l’[effet Barnum](/fr/blog/effet-barnum-tarot/), où une phrase assez vague va à tout le monde. Pas d’indices à capter, et les phrases vagues ne comptent pas. La règle est née de mon premier tirage pour une inconnue, que je raconte avec [la règle du silence](/fr/blog/regle-du-silence-tarot/).
 
-{{< todo >}}À COMPLÉTER — l’anti-ego, l’attente à zéro, la curiosité plutôt que la volonté d’avoir raison, et le constat : plus je baisse, plus c’est juste.{{< /todo >}}
+## Pourquoi je me dis que je vais dire n’importe quoi ? {#nimporte-quoi}
 
-## Comment j’ai compté ?
+Parce que vouloir avoir raison, c’est ce qui gâche un tirage. Chaque fois que j’ai voulu avoir absolument raison, j’ai fait de mauvais tirages. Quand je me dis avant de commencer que je vais dire n’importe quoi, le tirage sort précis, souvent avec plusieurs événements à la fois.
 
-{{< todo >}}À COMPLÉTER — ce que vous appelez « juste » (réaction visible pendant, confirmation verbale après), un ou deux exemples anonymisés, et les cas comptés comme faux.{{< /todo >}}
+Ne rien attendre, c’est lâcher le frein. J’arrête de vérifier à chaque phrase si elle a l’air plausible, et j’arrête de douter avant d’avoir fini de parler. De certains tirages, je ne me souviens presque pas, comme si le message passait à travers moi ; d’autres, je les ressens, et ceux-là restent. La curiosité lit bien. L’ego, la part de soi qui veut avoir l’air douée, lit mal.
 
-## Pourquoi je lis le présent plutôt que l’avenir ?
+## Comment j’ai compté ? {#decompte}
 
-Une lecture lit votre monde émotionnel au moment où elle a lieu. Tout peut changer selon une décision que vous prendrez bientôt. C’est excellent pour comprendre ce que vous traversez et comment aborder ce qui arrive ; c’est médiocre pour savoir exactement ce qui se passera la semaine prochaine — ça arrive, mais rarement de la façon qu’on imagine, et surtout, ça vous sort du présent. Ce sur quoi je travaille, c’est « comment traverser ce qui vient », pas « ce qui vient ».
+Dans un carnet à deux colonnes : ce que j’ai dit, et ce que la personne a confirmé. Environ trois cents tirages pour des inconnus, tous gratuits, surtout en ligne — des serveurs Discord, des appels de groupe, un live — et quelques-uns en face à face.
 
-## Qu’est-ce qui ne marche pas ?
+Juste, quand la personne se reconnaissait, qu’elle réagisse pendant que je parlais ou qu’elle le confirme après. Raté, quand rien ne touchait ou qu’elle me le disait. Un raté est un raté. Je ne le reformule pas, je ne tire pas une carte de plus pour le sauver, et il ne change de colonne que si la personne revient avec quelque chose qui s’est réellement passé.
 
-{{< todo >}}À COMPLÉTER — les échecs, les conditions où ça se dégrade, ce que vous avez arrêté de faire.{{< /todo >}}
+Cela donne environ neuf tirages sur dix justes, et un sur dix raté. C’est un décompte à la main, tenu par celle qui fait les tirages, et c’est précisément sa limite ; [les 300 tirages](/fr/blog/le-tarot-marche-t-il-300-tirages/) reprennent les chiffres et ce qu’ils ne prouvent pas.
 
-## Pourquoi je m’arrête parfois en pleine lecture ?
+## Pourquoi je lis le présent plutôt que l’avenir ? {#present}
 
-{{< todo >}}À COMPLÉTER — l’état pendant une lecture, la fatigue après deux heures, la séance interrompue par prudence. C’est votre éthique ; dites-la.{{< /todo >}}
+Un tirage montre où vous en êtes, émotionnellement, le jour où il a lieu, et une décision que vous êtes sur le point de prendre peut tout changer ensuite. C’est excellent pour comprendre ce que vous traversez et comment aborder ce qui arrive ; c’est médiocre pour savoir exactement ce qui se passera la semaine prochaine — ça arrive, mais rarement de la façon qu’on imagine, et surtout, ça vous sort du présent. Ce sur quoi je travaille, c’est « comment traverser ce qui vient », pas « ce qui vient ».
 
-## Et le tarot n’est pas une autorité
+## Qu’est-ce qui ne marche pas ? {#ce-qui-ne-marche-pas}
 
-Agissez sur ce que vous ressentez, pas sur ce qui a été dit pendant une lecture. Les cartes ne sont pas puissantes ; vous, si. Et si vous vous surprenez à consulter sans arrêt, ce n’est pas une histoire de tarot : c’est une recherche de validation extérieure. Faites une pause. Entraînez le muscle qui décide.
+La pression, la mienne ou celle de l’autre. Parfois, rien ne vient : je force trop, ou la personne a peur de ce qu’elle pourrait entendre. La peur en général joue contre la lecture, parce que lire demande de s’ouvrir et que la peur fait se fermer, se recroqueviller. Moins je nourris mon imagination de choses effrayantes, plus la lecture devient facile.
 
-## Ce que je ne prétends pas
+Lire quelqu’un qui n’a rien demandé. Une personne qui ne sait pas qu’on la lit n’est pas ouverte : on obtient une moitié de phrase et on bâtit toute une affirmation dessus. C’est l’une des raisons pour lesquelles [je ne lis pas sur les tiers](/fr/avertissements/#refus).
 
-C’est sur la page des avertissements, avec tout le reste, parce qu’on a décidé d’arrêter de le répéter partout : [ce que je ne prétends pas](/fr/avertissements/#pretentions).
+Et les objets. En 2021, j’ai vendu de la sauge, des bougies et des cartes « canalisées », puis j’ai arrêté, parce que rien de tout ça n’améliorait un tirage ; [toute l’histoire](/fr/blog/purifier-son-jeu-de-tarot/) a sa page.
+
+## Pourquoi je m’arrête parfois ? {#arreter}
+
+Parce qu’interpréter demande de l’énergie. Après environ deux heures de tirages, je m’arrête, par prudence, et je me repose. La fatigue est réelle, et [elle a sa propre page](/fr/blog/energie-apres-un-tirage/).
+
+Je m’arrête aussi quand le tirage est devenu une habitude pour la personne en face de moi. Si la même question revient sans cesse, un tirage de plus ne la réglera pas ; [une pause](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/) fera davantage.
+
+## Ce que je ne prétends pas {#pretentions}
+
+C’est sur la page des avertissements, avec tout le reste, pour ne pas le répéter partout sur le site : [ce que je ne prétends pas](/fr/avertissements/#pretentions), et pourquoi la décision vous revient toujours.
 
 ## Et maintenant ?
 

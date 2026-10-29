@@ -27,4 +27,4 @@ Texts, published data and graphic elements on this site belong to the publisher 
 
 ## Nature of the services
 
-Sessions, workshops and readings offered by Maison Tarot are for entertainment purposes only. No outcome is guaranteed. They are not a substitute for medical, legal, financial or psychological advice. 18+ only. See the [terms](/terms/) and the [privacy policy](/privacy/).
+What the services are, and what they aren’t, is set out in the [terms](/terms/), and in plain words on the [disclaimers page](/disclaimers/). Adults only. Personal data: the [privacy policy](/privacy/).

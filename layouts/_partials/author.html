@@ -3,11 +3,12 @@
 {{- $a := site.Params.author -}}
 {{- $about := .Site.GetPage (cond $fr "/a-propos" "/about") -}}
 {{- $img := resources.Get $a.image -}}
+{{- $name := .Site.Language.Params.authorName | default $a.name -}}
 <aside class="author" aria-label="{{ if $fr }}Auteure{{ else }}Author{{ end }}">
-  <div class="author-pic">{{ if $img }}{{ $r := $img.Fill "240x240 webp q82" }}<img src="{{ $r.RelPermalink }}" alt="{{ $a.name }}" width="120" height="120" loading="lazy">{{ else }}<div class="img-placeholder square" role="img" aria-label="{{ if $fr }}portrait{{ else }}portrait{{ end }}">portrait<br>[{{ $a.image }}]</div>{{ end }}</div>
+  <div class="author-pic">{{ if $img }}{{ $r := $img.Fill "240x240 webp q82" }}<img src="{{ $r.RelPermalink }}" alt="{{ $name }}" width="120" height="120" loading="lazy">{{ else }}<div class="img-placeholder square" role="img" aria-label="{{ if $fr }}portrait{{ else }}portrait{{ end }}">portrait<br>[{{ $a.image }}]</div>{{ end }}</div>
   <div>
     <p class="label">{{ if $fr }}Écrit par{{ else }}Written by{{ end }}</p>
-    <p class="author-name">{{ with $a.name }}{{ . }}{{ else }}<span class="todo">{{ if $fr }}nom de l’auteure{{ else }}author name{{ end }}</span>{{ end }}</p>
+    <p class="author-name">{{ with $name }}{{ . }}{{ else }}<span class="todo">{{ if $fr }}nom de l’auteure{{ else }}author name{{ end }}</span>{{ end }}</p>
     {{ with .Site.Language.Params.authorShortDescription }}<p class="small muted">{{ . }}</p>{{ end }}
     {{ with $about }}<a class="link-arrow" href="{{ .RelPermalink }}">{{ if $fr }}À propos de moi{{ else }}About me{{ end }}</a>{{ end }}
   </div>

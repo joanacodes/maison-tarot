@@ -10,9 +10,9 @@ lede: "On nous a fait remarquer qu’on avait l’air pédants. C’est vrai. Al
 ---
 ## Le divertissement {#divertissement}
 
-Les sessions, ateliers et lectures proposés par Maison Tarot le sont **à des fins de divertissement uniquement**. Aucun résultat n’est garanti. Ils ne remplacent en aucun cas un avis médical, juridique, financier ou psychologique.
+Tout ce que propose Maison Tarot — sessions, ateliers, lectures — l’est **à titre de divertissement**, sans résultat promis, et jamais à la place d’un médecin, d’un avocat, d’un conseiller financier ou d’un thérapeute.
 
-C’est la phrase que la loi attend, et on la trouve juste. Pas parce qu’on prend le tarot à la légère — on a fait 300 tirages pour le vérifier — mais parce que **personne ne sait comment ça marche**, nous compris. Dire « divertissement », c’est promettre de ne pas prétendre.
+C’est ce que la loi attend qu’on dise, et on le trouve juste. Pas parce qu’on prend le tarot à la légère — on a fait 300 tirages pour le vérifier — mais parce que **personne ne sait comment ça marche**, nous compris. Dire « divertissement », c’est promettre de ne pas prétendre.
 
 ## Les majeurs {#majeurs}
 
@@ -31,15 +31,15 @@ Ce n’est pas de la pruderie. Ce sont les sujets où une carte, même bien lue,
 - Que mon décompte soit une **étude scientifique**. C’est un comptage manuel, non audité. « Juste » veut dire : la personne a dit que c’était juste.
 - Prédire **l’avenir**. Une lecture lit votre monde émotionnel au moment où elle a lieu. Le futur arrive rarement de la façon qu’on imagine, et c’est très bien.
 
-## Le tarot n’est pas une autorité {#lectures}
+## C’est vous qui décidez, pas les cartes {#lectures}
 
-Agissez sur ce que vous ressentez, pas sur ce qui a été dit pendant une lecture. Une lecture n’est pas une injonction ; vous restez responsable de vos choix. Les cartes ne sont pas puissantes : vous, si.
+Agissez sur ce que vous ressentez, pas sur ce qui a été dit pendant une lecture. Une lecture n’est pas une injonction ; vous restez responsable de vos choix.
 
-Si vous vous surprenez à consulter tout le temps, ce n’est pas une histoire de tarot, c’est une recherche de validation extérieure. **Faites une pause avec vos cartes.** Entraînez le muscle qui décide.
+Si vous vous surprenez à consulter tout le temps, ce n’est pas une histoire de tarot, c’est une recherche de validation extérieure : [éloignez-vous des tirages un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/), et entraînez le muscle qui décide.
 
 Et si vous voyez le mal partout : le tarot n’est maléfique que pour ceux qui voient le mal partout. Une carte est un écran ; on n’a peur que de ce qu’on y projette.
 
-## Tout n’est pas une histoire d’esprits {#therapie}
+## Quand la bonne porte est celle d’un thérapeute {#therapie}
 
 Parfois c’est psychologique, parfois psychiatrique. Dans ces cas-là, la bonne porte n’est pas la mienne, et je vous le dirai — sans détour, mais gentiment. Voir un thérapeute n’est pas un échec de vos cartes ; c’est le bon outil pour le bon travail.
 

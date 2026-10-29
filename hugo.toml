@@ -20,7 +20,8 @@ defaultContentLanguageInSubdir = false
       locale = "fr_FR"
       dateFormat = "2 January 2006"
       email = "bonjour@maisontarot.fr"
-      authorShortDescription = ""   # ex. « Lectrice et enseignante de tarot à Paris. 300 tirages à l’aveugle, comptés. » (vide = ligne masquée)
+      authorName = "Joana de Maison Tarot"
+      authorShortDescription = "Joana lit et enseigne le tarot depuis Paris, en français et en anglais. Depuis 2020, elle a fait environ trois cents tirages gratuits pour des inconnus qui ne lui disaient rien, et compté ses ratés : environ un sur dix. Elle enseigne cinq clés de lecture plutôt que 78 significations. Les cartes ne sont pas magiques. Vous, si."
       bookedUntil = "février 2027"      # vide = pas de badge
       bookedLabel = "Disponible en"
       guideFile = "/guide/maison-tarot-guide-du-lecteur.pdf"
@@ -33,7 +34,8 @@ defaultContentLanguageInSubdir = false
       locale = "en_GB"
       dateFormat = "2 January 2006"
       email = "hello@maisontarot.co.uk"
-      authorShortDescription = ""   # e.g. "Tarot reader and teacher in Paris. 300 blind readings, counted." (empty = line hidden)
+      authorName = "Joana from Maison Tarot"
+      authorShortDescription = "Joana reads and teaches tarot from Paris, in English and French. Since 2020 she has read for about three hundred strangers who told her nothing, for free, and counted her misses: about one in ten. She teaches five lenses instead of 78 meanings. The cards aren’t magic. You are."
       bookedUntil = "February 2027"
       bookedLabel = "Available in"
       guideFile = "/guide/maison-tarot-readers-guide.pdf"
@@ -56,7 +58,7 @@ defaultContentLanguageInSubdir = false
     cadence_fr = "Nouvel épisode tous les jeudis"
     cadence_en = "New episodes every Thursday"
   [params.author]
-    name = ""            # [À COMPLÉTER] — sans nom, aucun schema Person n'est émis
+    name = "Joana from Maison Tarot"   # nom par défaut ; chaque langue a le sien (languages.<lang>.params.authorName), c'est lui qu'on affiche
     image = "author.jpg"  # portrait dans assets/ (carré, ≥ 800 px) — placeholder tant qu'il manque
     jobTitle = "Tarot reader and teacher"
     handle = "maisontarot"

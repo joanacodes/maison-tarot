@@ -25,4 +25,4 @@ Les textes, données publiées et éléments graphiques de ce site sont la propr
 
 ## Nature des services
 
-Les sessions, ateliers et lectures proposés par Maison Tarot le sont à des fins de divertissement uniquement. Aucun résultat n’est garanti. Ils ne remplacent en aucun cas un avis médical, juridique, financier ou psychologique. Réservé aux personnes majeures. Voir les [CGV](/fr/cgv/) et la [politique de confidentialité](/fr/confidentialite/).
+Ce que sont les services, et ce qu’ils ne sont pas, est précisé dans les [CGV](/fr/cgv/), et en mots simples sur la page des [avertissements](/fr/avertissements/). Réservé aux personnes majeures. Données personnelles : la [politique de confidentialité](/fr/confidentialite/).

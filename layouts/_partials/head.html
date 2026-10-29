@@ -34,7 +34,7 @@
 <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
 {{- range .Params.categories }}<meta property="article:section" content="{{ . }}">{{ end }}
 {{- range .Params.tags }}<meta property="article:tag" content="{{ . }}">{{ end }}
-{{- with site.Params.author.name }}<meta name="author" content="{{ . }}">{{ end }}
+{{- with site.Language.Params.authorName | default site.Params.author.name }}<meta name="author" content="{{ . }}">{{ end }}
 {{- end }}{{ end }}
 <meta name="robots" content="{{ if .Params.noindex }}noindex, follow{{ else }}index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1{{ end }}">
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#0a0a0a" media="(prefers-color-scheme: dark)">

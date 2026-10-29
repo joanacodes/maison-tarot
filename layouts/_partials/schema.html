@@ -2,18 +2,19 @@
 {{- $lang := .Language.Lang -}}
 {{- $orgId := printf "%s#org" site.BaseURL -}}
 {{- $authorId := printf "%s#author" site.BaseURL -}}
+{{- $authorName := .Site.Language.Params.authorName | default site.Params.author.name -}}
 {{- $nodes := slice -}}
 {{- $org := dict "@type" "Organization" "@id" $orgId "name" site.Params.brand "url" site.BaseURL "sameAs" site.Params.author.sameAs -}}
 {{- with .Site.Language.Params.email }}{{ $org = merge $org (dict "email" .) }}{{ end -}}
 {{- $nodes = $nodes | append $org -}}
 {{- $nodes = $nodes | append (dict "@type" "WebSite" "@id" (printf "%s#website" site.BaseURL) "name" site.Params.brand "url" site.BaseURL "inLanguage" (slice "fr" "en") "publisher" (dict "@id" $orgId)) -}}
-{{- if site.Params.author.name -}}
-  {{- $person := dict "@type" "Person" "@id" $authorId "name" site.Params.author.name "url" (.Site.GetPage (cond (eq $lang "fr") "/a-propos" "/about")).Permalink "sameAs" site.Params.author.sameAs "worksFor" (dict "@id" $orgId) "knowsLanguage" (slice "fr" "en") "homeLocation" (dict "@type" "Place" "name" site.Params.author.basedIn) "jobTitle" site.Params.author.jobTitle -}}
+{{- if $authorName -}}
+  {{- $person := dict "@type" "Person" "@id" $authorId "name" $authorName "url" (.Site.GetPage (cond (eq $lang "fr") "/a-propos" "/about")).Permalink "sameAs" site.Params.author.sameAs "worksFor" (dict "@id" $orgId) "knowsLanguage" (slice "fr" "en") "homeLocation" (dict "@type" "Place" "name" site.Params.author.basedIn) "jobTitle" site.Params.author.jobTitle -}}
   {{- with .Site.Language.Params.authorShortDescription }}{{ $person = merge $person (dict "description" .) }}{{ end -}}
   {{- with resources.Get site.Params.author.image }}{{ $person = merge $person (dict "image" (.Fill "600x600 webp q82").Permalink) }}{{ end -}}
   {{- $nodes = $nodes | append $person -}}
 {{- end -}}
-{{- $author := cond (ne site.Params.author.name "") (dict "@id" $authorId) (dict "@id" $orgId) -}}
+{{- $author := cond (ne $authorName "") (dict "@id" $authorId) (dict "@id" $orgId) -}}
 {{- $pageImg := "" }}{{ with .Params.image }}{{ with $.Resources.Get . }}{{ $pageImg = (.Fill "1200x630 webp q80").Permalink }}{{ else }}{{ with resources.Get . }}{{ $pageImg = (.Fill "1200x630 webp q80").Permalink }}{{ end }}{{ end }}{{ end }}{{ if not $pageImg }}{{ $pageImg = site.Params.defaultImage | absURL }}{{ end -}}
 {{- $nodes = $nodes | append (dict "@type" "WebPage" "@id" (printf "%s#webpage" .Permalink) "url" .Permalink "name" .Title "description" .Params.description "inLanguage" $lang "isPartOf" (dict "@id" (printf "%s#website" site.BaseURL)) "primaryImageOfPage" $pageImg "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02")) -}}
 {{- if in (slice "blog" "library" "cards" "podcast") .Type -}}
