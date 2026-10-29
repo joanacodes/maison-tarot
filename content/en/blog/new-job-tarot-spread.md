@@ -61,4 +61,4 @@ Lay it at the end of your first week, when you have faces to put to the position
 
 Leave it there until the month is out. A card drawn every morning before work pulls your attention onto the table, and your first month needs it on the job.
 
-On the last day of the month, reread your five sentences and mark what held. If you’d like to learn the lenses I used here — rank, element, number — a [one-to-one session](/sessions/) goes through them in an hour, with your own cards.
+On the last day of the month, reread your five sentences and mark what held. The lenses I used here — rank, element, number — are the stuff of a [one-to-one session](/sessions/): an hour, with your own cards.

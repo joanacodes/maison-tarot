@@ -53,7 +53,7 @@ A hand comes out of a cloud, with no arm or body behind it, and holds out the ca
 
 An everyday example: a friend forwards you a job advert you would never have found. You didn’t look for it. Now it’s in your inbox, and the rest is your move.
 
-## Where it appears in the deck {#where}
+## Four Aces, and one cup nobody takes {#where}
 
 On the Ace of Wands, the hand grips a wand that is still sprouting leaves, a few falling loose. Below, a castle on a hill and a river.
 
@@ -85,6 +85,6 @@ The other shadow is the Four of Cups itself: an offer refused because you’re b
 
 ## With the other lenses {#lenses}
 
-The hand tells you something is being offered; the suit tells you in which part of life, the colour how it feels. The hand comes out of a [cloud](/library/tarot-symbols/cloud/), and the cloud has its own page.
+The hand tells you something is being offered; the suit tells you in which part of life, the colour how it feels. The hand comes out of a [cloud](/library/tarot-symbols/cloud/): read that weather too.
 
 {{% six %}}

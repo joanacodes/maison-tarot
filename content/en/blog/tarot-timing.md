@@ -11,7 +11,7 @@ imageAlt: "A paper wall calendar pinned above a wooden table, a single card lyin
 imagePrompt: "A paper wall calendar pinned above a wooden kitchen table, a single card lying face down on the table below it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Sometimes, roughly: a stage, an order, ‘not yet’. Rarely a date worth standing behind. Readers have built timing systems — suits as seasons, numbers as days or weeks, the astrology printed on the cards — but they don’t agree with each other, and a precise date is not the same as a right one. Timing is the weak spot. What a reading shows well is where you are in a cycle and what needs to happen first, so that’s what I read instead of a calendar."
 ---
-Sometimes, roughly: a stage, an order, “not yet”. Rarely a date I’d stand behind. A reading is poor at telling you exactly what happens next week, and I’d rather say that before you ask than hand you a date that feels precise and isn’t.
+Sometimes, roughly: a stage, an order, “not yet”. Rarely a date I’d stand behind. Pinning down what happens next week is exactly what a reading does badly, and I’d rather say that before you ask than hand you a date that feels precise and isn’t.
 
 ## Can tarot predict when something will happen? {#short-answer}
 
@@ -31,7 +31,7 @@ The systems don’t agree with each other. Depending on whom you read, Wands are
 
 ## The voice that taught me about timing {#the-voice}
 
-This wasn’t a tarot reading, and I tell the whole story in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/). In short: after my closest friend died, I asked silently “who’s next?”, and a voice gave another friend’s name and “is going to have an accident”, without a word about when. Two weeks later that friend’s car was hit by a truck, and my friend is alive and well today: the event came, and the message was wrong in what mattered.
+This wasn’t a tarot reading, and I tell the whole story in [the piece on readings that go wrong](/blog/why-a-reading-can-be-wrong/). In short: grieving my closest friend, I silently asked who would be next, and a voice named another friend and said an accident was coming, without a word about when. Two weeks later that friend’s car was hit by a truck, and my friend is alive and well today: the event came, and the message was wrong in what mattered.
 
 What I kept is a place in my head for things I doubt but don’t throw away, in case they come true. Messages go there. Dates especially.
 

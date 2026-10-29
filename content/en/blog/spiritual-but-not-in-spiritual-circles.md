@@ -27,7 +27,7 @@ Being grounded means being able to come back to ordinary life after whatever you
 
 Say every late train becomes a sign, every disagreement a test, every tired evening a message. Nothing is allowed to be only what it is. That's exhausting to live in, and it leaves no room for the plainest explanation, which is often the right one.
 
-When the signs are really a mind under strain, or something heavier, the right door is [a therapist's](/disclaimers/#therapy), not a circle's. The advice I give about developing your senses holds here too: build up slowly, and never lose the road back to ordinary life.
+When the signs are really a mind under strain, or something heavier, it's [a therapist](/disclaimers/#therapy) who can help, not a circle. The advice I give about developing your senses holds here too: build up slowly, and never lose the road back to ordinary life.
 
 My own version of grounded is modest. When there's a noise in my place at night, I let it be; I wrote about [how I stopped being afraid of the dark](/blog/afraid-of-the-dark/).
 
@@ -35,7 +35,7 @@ My own version of grounded is modest. When there's a noise in my place at night,
 
 A practice becomes extreme when it asks for all of you: everything has to be read through one idea, and a label starts to stand in for the person.
 
-Take the words that travel through these circles: empath, starseed, lightworker. They mean something real to people, and I've [defined them plainly elsewhere](/blog/empath-starseed-lightworker/). What I keep my distance from is the moment a word becomes a rank or a cage. You don't pick your starseed type from a video. Lightwork is one I know little about, and what I've found is that it can be risky if you don't know what you're doing. And you don't need a label to be yourself.
+Take the words that travel through these circles: empath, starseed, lightworker. They mean something real to people, and I've [defined them plainly elsewhere](/blog/empath-starseed-lightworker/). What I keep my distance from is the moment a word becomes a rank or a cage. Nobody gets assigned a starseed category by watching a video. Lightwork is one I know little about, and what I've found is that it can be risky if you don't know what you're doing. And you don't need a label to be yourself.
 
 Extreme can also be a matter of how often. A reading before every decision, a ritual for every worry: at that point the practice is making your choices for you. I'd rather people learn to make decisions, make mistakes, and accept being imperfect. A reading is a check-up on where you are, taken with your feet on the ground, never a permission slip. Stepping away from the cards for a while is part of the practice, not a lapse in it.
 
@@ -58,4 +58,4 @@ If one of the last three gives you pause, you don't have to leave anything. Step
 
 And if your circle is where you were first believed, hold on to that. Distance can be partial. You can keep the company and the kindness, and leave the parts that make you smaller at the door.
 
-As for me, I'd rather practise where both feet stay on the floor. Come to one of the [free events](/events/): the readings are drawn at random, the person tells me nothing, and nobody in the room outranks anybody else.
+As for me, I'd rather practise where both feet stay on the floor, and the [free events](/events/) are built that way: the readings are drawn at random, the person tells me nothing, and nobody in the room outranks anybody else.

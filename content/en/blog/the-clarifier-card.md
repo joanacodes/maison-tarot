@@ -29,7 +29,7 @@ Plenty of readers use clarifiers, and some use them carefully. This is why I don
 
 *It’s a new card, not a clearer one.* The Knight of Wands didn’t explain the Four of Cups. It added a rider, a horse and a direction the first card never had. You haven’t looked harder at what was confusing you; you’ve looked away from it.
 
-*With enough cards, anything fits.* Every extra card adds meanings, and the combined story gets wider and vaguer until it can match almost whatever the person says next. That’s how statements that fit everyone come to feel personal — the mechanism I check myself against in [the Barnum effect and tarot](/blog/barnum-effect-tarot/).
+*With enough cards, anything fits.* Every extra card adds meanings, and the combined story gets wider and vaguer until it can match almost whatever the person says next. That’s how statements that fit everyone come to feel personal, and it’s why I keep [testing my own readings against the Barnum effect](/blog/barnum-effect-tarot/).
 
 *It moves the goalposts.* Notice when the urge to draw one arrives. It’s rarely while the person is nodding along. It tends to come when the reading hasn’t landed.
 
@@ -47,8 +47,8 @@ It’s also kinder than it sounds. The person in front of me doesn’t have to p
 
 A confusing card is usually a card you haven’t looked at long enough. Go back to it instead of away from it.
 
-1. *Describe the drawing out loud.* The Four of Cups: a young man sitting under a tree, arms crossed, three cups on the grass in front of him, and a hand coming out of a cloud offering a fourth. He isn’t looking at it.
-2. *Read the lenses.* Four is stability, structure, the fruit of your work; [its advice](/library/numerology/number-4/) is to stay open to what you hadn’t planned, and its flip side is carrying on when you should stop. Cups are Water: emotions.
+1. *Describe the drawing out loud.* The Four of Cups: beneath a tree, a youth sits with his arms folded, three cups set on the grass before him, while a hand reaches out of a cloud with a fourth. He isn’t looking at it.
+2. *Read the lenses.* Four is stability, structure, the fruit of your work; [its advice](/library/numerology/number-4/) is to leave room for the unplanned, and its flip side is pressing on after it’s time to stop. Cups are Water: emotions.
 3. *Say what you see, even if it’s small.* “You’re comfortable — maybe too comfortable — and something is being offered that you haven’t looked at yet.”
 4. *Let the person answer, after.* If it lands, good. If it doesn’t, that’s an answer too.
 5. *If it still makes no sense, say so.* “I don’t know what this one is doing.” An unread card is more honest than a patched one.

@@ -41,7 +41,7 @@ Say someone asks, silently, “Should I take the job in Bristol?” and draws on
 
 The [Seven of Cups](/library/tarot-cards/seven-of-cups/): someone gazes up at a bank of cloud where seven cups hover, a castle in one, jewels in another, a snake in a third. A yes-or-no reader would call it “no”, or “unclear”. I’d say: you’re not choosing between yes and no, you’re choosing between several dreams, and some of them are made of cloud. Which one is Bristol?
 
-The Four of Wands: four wands with a garland strung across them, people celebrating behind. Four is foundations, the fruit of your work; for me this card is roots, a home being built. It doesn’t say “go”. It asks whether this job builds something you’d want to live in.
+The Four of Wands: a garlanded gateway of four staffs, with a celebration going on beyond it. Four is foundations, the fruit of your work; for me this card is roots, a home being built. It doesn’t say “go”. It asks whether this job builds something you’d want to live in.
 
 The Two of Swords: a woman blindfolded, holding two crossed swords, the sea behind her. [Two is the number of the contract](/library/numerology/number-2/), and what it advises is checking the terms and setting gains against costs. The card says: you’re refusing to look. Take the blindfold off, then decide.
 
@@ -64,4 +64,4 @@ Some closed questions are closed because they’re heavy: am I ill, will she pul
 
 Flip a coin. I mean it. While it’s in the air, notice which side you’re hoping for. That flicker is the information, and it costs nothing.
 
-Tarot is worth taking lightly, and a coin is lighter than a deck. Keep the cards for the questions that deserve a scene. If you’d like to see the difference, bring a closed question to one of the [free events](/events/), keep it to yourself, and listen to what the card says around it.
+Tarot is worth taking lightly, and a coin is lighter than a deck. Keep the cards for the questions that deserve a scene. The difference is easiest to hear in person: bring a closed question to one of the [free events](/events/), keep it to yourself, and listen to what the card says around it.

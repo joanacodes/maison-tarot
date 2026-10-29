@@ -31,7 +31,7 @@ Ces systèmes ne s’accordent pas entre eux. Selon le livre que vous ouvrez, le
 
 ## La voix qui m’a appris le timing {#la-voix}
 
-Ce n’était pas un tirage, et je raconte toute l’histoire dans [pourquoi un tirage peut être faux](/fr/blog/tirage-faux-tarot/). En bref : mon meilleur ami venait de mourir quand une question m’a traversée sans que je la prononce — « qui est le prochain ? » —, et une voix a nommé une autre amie, avec ces mots : « va avoir un accident », sans dire quand. Quinze jours après, un camion heurtait sa voiture, et mon amie est aujourd’hui vivante et en pleine forme : l’événement est bien venu, mais le message était faux sur ce qui comptait.
+Ce n’était pas un tirage, et je raconte toute l’histoire dans [pourquoi un tirage peut être faux](/fr/blog/tirage-faux-tarot/). En bref : mon meilleur ami venait de mourir quand j’ai posé une question sans la dire à voix haute — « qui est le prochain ? » —, et une voix a nommé une autre amie, avec ces mots : « va avoir un accident », sans dire quand. Quinze jours après, un camion heurtait sa voiture, et mon amie est aujourd’hui vivante et en pleine forme : l’événement est bien venu, mais le message était faux sur ce qui comptait.
 
 Ce que j’en ai gardé, c’est une étagère dans ma tête, étiquetée *sceptique, mais si ça arrive, j’étais prévenue*. Les messages vont sur cette étagère. Les dates en particulier.
 

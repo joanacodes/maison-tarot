@@ -45,7 +45,7 @@ He was born in Fairport, New York, in 1884. Around 1920 he was the chief instruc
 
 He taught it by correspondence. A correspondence course works like this: you enrol, lessons arrive by post one at a time, you study them at home, in order, and you move to the next when you’re ready. Applied to tarot, it means the cards are learned the way a language is learned: a little at a time, with exercises, over months. A book hands you everything at once; a course decides the order for you, and the order is a large part of the teaching.
 
-That was a real change of setting. In the Hermetic Order of the Golden Dawn, where [Arthur Edward Waite](/library/tarot-figures/arthur-edward-waite/) and Aleister Crowley learned their tarot, the teaching was handed out inside the order, grade by grade, to initiates. A correspondence course sends the lessons to a kitchen table.
+That was a real change of setting. Inside the Golden Dawn, the order in which [Arthur Edward Waite](/library/tarot-figures/arthur-edward-waite/) and Aleister Crowley learned their tarot, the teaching was handed out grade by grade, to initiates only. A correspondence course sends the lessons to a kitchen table.
 
 **Case’s model turns tarot into a subject you study in order, at home, rather than a secret you wait to be let into.**
 

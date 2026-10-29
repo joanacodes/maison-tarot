@@ -8,7 +8,7 @@ weight: 6
 categories: ["Kabbalah"]
 tags: ["Gevurah", "Kabbalah and tarot", "Tree of Life", "tarot Fives", "Mars", "sephirot"]
 h1: "Gevurah — <em>Strength</em>, the limit"
-lede: "Gevurah is the fifth sephirah: strength, judgement, the power to hold back. The Golden Dawn gave it the four Fives and Mars, which is why some of the hardest minor cards sit here — and why they aren’t only bad news."
+lede: "Gevurah is the fifth sephirah: strength, judgement, the power to hold back. A sphere of limits takes the four Fives and Mars, so some of the hardest minor cards sit here — and they aren’t only bad news."
 related:
 - /library/kabbalah
 - /library/kabbalah/tree-of-life
@@ -58,7 +58,7 @@ The Five of Cups holds both at once: Gevurah in the suit of Water, Mars in Scorp
 
 What Gevurah can add is a reframe, said carefully. A Five through this lens is a place where a limit is being set — by you, by someone else, by circumstance. That doesn’t make a loss less of a loss, and I won’t pretend it does.
 
-Say someone draws the Five of Swords next to the Two of Cups: a disagreement inside a bond. Without the Tree, it reads as a fight. Through Gevurah, the question becomes: what boundary is this argument trying to draw, and can it be said more kindly?
+Pair the Five of Swords with the Two of Cups and you have a disagreement inside a bond. Without the Tree, it reads as a fight. Through Gevurah, the question becomes: what boundary is this argument trying to draw, and can it be said more kindly?
 
 When a Five sits next to a Four, Chesed and Gevurah are side by side on the table: what was given, and where it stops. That pairing is often the whole story.
 

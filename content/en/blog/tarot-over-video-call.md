@@ -55,6 +55,6 @@ At the far end of distance there’s the pick-a-card video, recorded by someone 
 4. Keep a straight face if you can; react at the end.
 5. Write down what was said. Confirmations sometimes come days later.
 
-My one-to-one [sessions](/sessions/) are by video, sixty minutes. They’re lessons rather than readings: you read the card first, I read after you, and we compare. If you want to see what a screen does to a reading, that’s a good way to find out from both sides.
+My one-to-one [sessions](/sessions/) are by video, sixty minutes. They’re lessons rather than readings: your reading of the card comes first, mine second, and then we set the two side by side. If you want to see what a screen does to a reading, that’s a good way to find out from both sides.
 
 And if you’re learning and need people to practise on, online is where I found mine, through a Discord group, Facebook groups and a pen-pal app. I’ve written up [where to find people to read for](/blog/where-to-find-people-to-read-for/), people who will happily tell you nothing.

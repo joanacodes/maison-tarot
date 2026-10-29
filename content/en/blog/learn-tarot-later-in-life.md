@@ -15,7 +15,7 @@ You can learn tarot at any age, and starting at 40, 50 or 60 has a real advantag
 
 ## Is it too late to learn tarot? {#too-late}
 
-No. There's no age for it, and there's no gift you needed to receive young. Every person I've helped to read has managed it within their first three tries, once they stopped trying to be right.
+No. There's no age for it, and there's no gift you needed to receive young. The people I've taught have all managed it within three tries, and the turning point was the moment they stopped needing to be right.
 
 It's a bit like drawing or music: some people have a knack, and anyone who practises gets there. The only practice that really matters in tarot is letting go, and letting go has no age limit.
 
@@ -27,7 +27,7 @@ A tarot card shows a situation. Reading it means recognising what's going on, an
 
 {{< cards "pe10 pe05 cu06 ar13" >}}
 
-The Ten of Pentacles shows three generations in a courtyard: an old man in a patterned cloak, a couple, a child, two dogs. My note on it: complete wealth at home, the whole family present — and possibly short-lived. If you've been the child, then the parent, then watched your own parents age, you read "short-lived" in a way a twenty-year-old can only guess at.
+The Ten of Pentacles shows three generations in a courtyard: an old man in a patterned cloak, a couple, a child, two dogs. My note on it: a home rich in every sense, with everyone gathered — and possibly short-lived. If you've been the child, then the parent, then watched your own parents age, you read "short-lived" in a way a twenty-year-old can only guess at.
 
 The Five of Pentacles puts two figures out in a snowstorm, hurrying past a church whose window is lit. Hardship and cold, and a warm place right beside them. If you've been through a hard winter of your own, you're more likely to notice the window.
 
@@ -51,11 +51,11 @@ Time matters less than you'd think. Ten minutes a day is enough to begin, with [
 
 ## What you bring to a reading {#what-you-bring}
 
-Reading isn't only seeing. It's also knowing how to say it. Sometimes you sense you shouldn't say something yet, or should say it differently, because the person isn't ready or is frightened. That's a skill life teaches better than any course: when to wait, when to soften, when to stay quiet.
+Reading isn't only seeing. It's also knowing how to say it. Sometimes you sense a thing should wait, or come out in other words, because the other person isn't ready to hear it, or is frightened. That's a skill life teaches better than any course: when to wait, when to soften, when to stay quiet.
 
 The same goes for the moments when nothing comes. Often it's because the person is afraid of what they'll hear, and the answer is to put the cards down, talk and reassure them before going on. Years of conversations at work, in families and around kitchen tables have trained you for exactly that.
 
-You also tend to know which questions belong elsewhere. Illness and death, pregnancy, lawsuits, big money choices: people ask about them out of worry or love, and a card is the wrong tool for them. If you've ever waited for a medical result, you understand why without being told. [I explain where I step back, and why](/disclaimers/#refusals).
+You also tend to know which questions belong elsewhere. Illness and death, pregnancy, lawsuits, big money choices: what drives those questions is usually worry or love, and they deserve better than a card. If you've ever waited for a medical result, you understand why without being told. [I explain where I step back, and why](/disclaimers/#refusals).
 
 ## Where to start {#start}
 

@@ -17,7 +17,7 @@ The Tower in love is the moment things shake: a truth comes out, a row breaks th
 
 ## Lightning first, then a seven {#lightning-then-seven}
 
-The Tower is 16, and 1 + 6 = 7. In my notes, seven is reflection, patience, analysis before action, and its advice is that nothing lasts: whatever your situation, good or bad, it will shift. That’s an odd number for the most violent card in the deck, and it’s the key to reading it in love. **The lightning isn’t the end of the story; it’s the start of the assessment.**
+The Tower is 16, and 1 + 6 = 7. In my notes, seven is reflection, patience, analysis before action, and its advice is that nothing lasts: whatever your situation, good or bad, it will shift. That’s an odd number for the most violent card in the deck, and it’s the key to reading it in love. **The lightning closes nothing; it opens the assessment.**
 
 The element is Fire, which destroys at once. Water, in my notes, destroys deeper and slower, like damp eating a wall behind the wallpaper. In a relationship the Tower is very often both: the lightning only brings down what water had been weakening for months — the unspoken resentment, the conversation postponed one more weekend.
 

@@ -44,7 +44,7 @@ Everything points to **a fight that’s over, where the winner holds all the swo
 
 ## By number: five {#number}
 
-Five is the number of the battle: trying, not being afraid to fail or to be disliked, and making do with what’s left afterwards. In my notes, the Five of Swords is an Air conflict — a conflict about decisions, between people who don’t share the same point of view. Not a brawl but a disagreement, and somebody “won” it. [Number 5](/library/numerology/number-5/) advises picking your battles and being honest with yourself about them; its minus is denial. Both are on the card: the man gathering swords isn’t asking whether this fight was worth having. For Instagram, the 5 came from outside: Facebook at the door, ready to buy.
+Five is the number of the battle: having a go without fearing failure or disapproval, and making do with what’s left afterwards. In my notes, the Five of Swords is an Air conflict — a conflict about decisions, between people who don’t share the same point of view. Not a brawl but a disagreement, and somebody “won” it. [Number 5](/library/numerology/number-5/) advises picking your battles and being honest with yourself about them; its minus is denial. Both are on the card: the man gathering swords isn’t asking whether this fight was worth having. For Instagram, the 5 came from outside: Facebook at the door, ready to buy.
 
 ## By element: Air {#element}
 
@@ -56,7 +56,7 @@ The sky is the first thing you see: pale blue cut by ragged clouds, the grey of 
 
 ## By astrology: Venus in Aquarius {#astrology}
 
-On the Golden Dawn’s wheel, this card is Venus in the first decan of Aquarius. [Venus](/library/astrology/venus/) is what you love and how you bond; Aquarius is the sign of ideas, “I know” — which I hear as “I think I know”. Put side by side, they read as bonds sacrificed to an idea, caring more about being right than about the people you’re right with. Astrology stays optional, though here the planet fits the drawing closely.
+On the Golden Dawn’s wheel, this card is Venus in the first decan of Aquarius. [Venus](/library/astrology/venus/) is what you love and how you bond; Aquarius is the sign of ideas; its “I know” can slide into a certainty nobody has checked. Put side by side, they read as bonds sacrificed to an idea, caring more about being right than about the people you’re right with. Astrology stays optional, though here the planet fits the drawing closely.
 
 ## In a reading {#reading}
 

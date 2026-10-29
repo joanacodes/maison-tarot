@@ -37,7 +37,7 @@ After a break-up, the Fool is the urge to start again from zero. A new city, a n
 
 {{< cards "cu02 ar06 ar18" >}}
 
-Next to the Two of Cups, the crush finds an answer: two people meeting, cups at the same height. I go into that card in [the Two of Cups in love](/blog/two-of-cups-tarot-love/).
+Beside the Two of Cups, a crush finds its answer: two people meeting, cup to cup. That meeting gets its full reading on [the Two of Cups love page](/blog/two-of-cups-tarot-love/).
 
 Next to the Lovers, the light start runs into a real choice, and the Fool has to decide whether to stop wandering. [The Lovers in love](/blog/lovers-tarot-love/) is about that choice.
 
@@ -49,7 +49,7 @@ The question I hear with this card is “Should I jump in?” or “Is this new 
 
 The cards can’t tell you who someone else is, or whether it will last. That person isn’t in the room, and the future of two people is made by two people, day after day. What the Fool can do is show you how you’re walking.
 
-A kinder question: “What do I already know about where I’m stepping — and what is my dog trying to tell me?” Everyone has one: the friend who raises an eyebrow, the feeling in your stomach on the second date, the detail you noticed and decided not to see. Listening to it doesn’t mean not jumping. It means jumping awake, with your eyes on the ground for a second before they go back to the sky.
+The question I’d hand the Fool: “What do I already know about where I’m stepping — and what is my dog trying to tell me?” Everyone has one: the friend who raises an eyebrow, the feeling in your stomach on the second date, the detail you noticed and decided not to see. Listening to it doesn’t mean not jumping. It means jumping awake, with your eyes on the ground for a second before they go back to the sky.
 
 ## Frozen at the edge, or leaping blind {#reversed}
 
@@ -57,4 +57,4 @@ Reversed, the Fool is the beginning that doesn’t start, or starts without look
 
 ## Your first step, with other people around {#first-step}
 
-New beginnings are a good moment to learn, in love and in tarot. Of all the people I’ve helped to read, not one took more than three tries to get there, and none of them needed a gift — only the willingness to say what came. If you’d like to draw your first cards with other people around — no question to ask, nothing to prepare — [the free events](/events/) were made for exactly that.
+New beginnings are a good moment to learn, in love and in tarot. Of all the people I’ve helped to read, not one took more than three tries to get there, and none of them needed a gift — only the willingness to say what came. Drawing your first cards with other people around — no question to ask, nothing to prepare — is exactly what [the free events](/events/) were made for.

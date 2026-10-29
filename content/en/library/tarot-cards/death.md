@@ -92,7 +92,7 @@ At work, my harvest note usually belongs to someone who isn’t fired or in cris
 
 Reversed, the harvest is late: the job you’ve already left in your head and still go to every morning. In excess, it’s resigning in anger on a Monday, burning the field instead of harvesting it.
 
-“Am I going to lose my job?” is the question this card brings, and the fear behind it is real: the rent, the family, the sense of who you are. I don’t read on that. A card can’t see a company’s decisions, and a wrong word can make someone quit in a panic or freeze when they should act; money decisions stay out of my readings too ([my reasons, with the other subjects I leave aside](/disclaimers/#refusals)). For the concrete side, a careers adviser is the right person to see. A gentler question: “What in my work has finished its season, and what do I want to grow next?”
+“Am I going to lose my job?” is the question this card brings, and the fear behind it is real: bills to pay, people who depend on you, a whole identity built on the job. Still, I don’t read on that. A card can’t see a company’s decisions, and a wrong word can make someone quit in a panic or freeze when they should act; money decisions stay out of my readings too ([my reasons, with the other subjects I leave aside](/disclaimers/#refusals)). For the concrete side, a careers adviser is the right person to see. The harvest image gives another way to put it: “What in my work has finished its season, and what do I want to grow next?”
 
 This week, write two short lists: what in your work feels ripe, and what you’d like to plant. Keep them for a month and see which one grows.
 

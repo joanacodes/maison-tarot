@@ -19,7 +19,7 @@ Two things, both of them teaching.
 
 A session is one hour by video, one-to-one, in your time zone. You tell me nothing, we draw, you read first, I read after you, and we compare. When it doesn’t fit, we look at why. You leave with the lenses we used, in writing, and with no subscription or follow-up you’re obliged to book.
 
-A workshop is three hours, twelve people at most, and one lens: colours, numbers, or elements and energies. You draw a card in the first ten minutes, before any explanation, and at the end you read a card you don’t know in front of the others. There are no levels and no certificate.
+Each workshop takes one lens — colours, numbers, or elements and energies — and stays with it for three hours, never with more than twelve people. Cards come out in the first minutes, before I’ve explained a thing, and you finish by reading a card you’ve never studied, out loud, for the others. There are no levels and no certificate.
 
 Prices, tax included, are on [the sessions page](/sessions/) and [the workshops page](/workshops/). I’d rather you read them there than in an article that might go out of date.
 
@@ -45,7 +45,7 @@ A lesson works the other way round. Its job is to make you need me less. If you 
 
 ## Should tarot readers charge money? {#should-readers-charge}
 
-Yes, many can, and honestly. Reading is work. It takes time, attention and practice, and it’s tiring: interpreting takes energy. A reader who asks to be paid for that hour is asking for what any other professional asks.
+Yes, many can, and honestly. Reading is work: hours of practice behind it, full attention during it, and real tiredness after, because interpreting takes energy. A reader who asks to be paid for that hour is asking for what any other professional asks.
 
 What I’d look at isn’t whether there’s a price, but its shape. A stated price for a stated length of time, and no extras afterwards, is a fair exchange. A “second session” needed because the first ended on a cliffhanger rewards the reader for keeping you uncertain.
 
@@ -57,8 +57,8 @@ Much of it already is, here. The Library, with the colours, numbers, elements, e
 
 Free isn’t automatically clean, though. A free reading can be the bait at the top of a funnel, and what matters is what comes after it. At my events, what comes after is nothing: the reading ends, and you go home with it.
 
-What I charge for is my time, live, with you. That seems a fair line to me. The bigger question, what happens to a practice when it becomes a product on platforms, in apps and in subscriptions, deserves more than a paragraph, and it has its own article: [should tarot be free?](/blog/tarot-and-capitalism/)
+What I charge for is my time, live, with you. That seems a fair line to me. The bigger question, what happens to a practice when it becomes a product on platforms, in apps and in subscriptions, deserves more than a paragraph, so I gave it a full piece: [should tarot be free?](/blog/tarot-and-capitalism/)
 
 ## Where to start {#where-to-start}
 
-If you’d like a reading, come to one of the [free events](/events/): you tell me nothing, and you see how I work before you ever spend anything. If you’d rather learn, pick the lens that speaks to you and book a workshop, or a session if you prefer to work one-to-one.
+For a reading, the [free events](/events/) are the place: you tell me nothing, and you see how I work before you ever spend anything. If you’d rather learn, pick whichever lens draws you and book a workshop, or a session if you prefer to work one-to-one.

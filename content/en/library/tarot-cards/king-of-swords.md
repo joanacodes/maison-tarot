@@ -27,7 +27,7 @@ faq:
 - q: What about King of Swords reversed?
   a: 'Authority that stalls or hardens. Stalled: the person who should decide keeps putting it off, or decides without explaining. Hardened: rigid rules, cold verdicts, intelligence used to win rather than to be fair.'
 - q: 'Is the King of Swords a person?'
-  a: 'It can be: someone whose authority comes from knowledge, like a manager, a teacher or a lawyer, of any gender. It can also be you, when the decision is yours to take and to answer for.'
+  a: 'It can be: someone whose authority comes from knowledge, like a manager, a teacher or a lawyer, whatever their gender. Or it’s you, when the decision is yours to take and to answer for.'
 categories:
 - Swords
 tags:
@@ -37,7 +37,7 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-A king sits facing you, looking straight out of the card. In his right hand he holds a sword upright, the blade tilted slightly to one side; his other hand rests on his knee. He wears a gold crown over a red hood, a long pale blue robe that falls to the ground, and a purple cloak lined with orange-red.
+A king sits facing you, looking straight out of the card. He holds a sword upright in his right hand, the blade tilted slightly to one side; his other hand rests on his knee. He wears a gold crown over a red hood, a long pale blue robe that falls to the ground, and a purple cloak lined with orange-red.
 
 His throne is grey stone, with a tall back that rises well above his head, carved with a butterfly and crescent moons. Around it: a pale sky, low clouds, two birds at the top right, dark trees on both sides. The ground is green and orange-brown.
 
@@ -57,7 +57,7 @@ My archetype for Air is the leader who takes the decisions nobody else can take 
 
 ## By colours {#colours}
 
-Most of the card is pale [blue](/library/tarot-colours/blue/): the robe, the sky. In my grid, blue is emotion, water, what purifies — here, a calm temperament, a head that stays cool. The [purple](/library/tarot-colours/purple/) cloak is the colour I call “the one chosen by a group”, a mature red: authority given by others, the Emperor’s colour. The red hood and the orange-red lining are action, kept close to his face. The gold crown is value and rank. A calm head, a chosen authority, action held in check.
+Most of the card is pale [blue](/library/tarot-colours/blue/): the robe, the sky. Blue, in my grid, stands for emotion, water and purification; on him it reads as a calm temperament, a head that stays cool. The [purple](/library/tarot-colours/purple/) cloak is the colour I call “the one chosen by a group”, a mature red: authority given by others, the Emperor’s colour. The red hood and the orange-red lining are action, kept close to his face. The gold crown is value and rank. A calm head, a chosen authority, action held in check.
 
 ## In a reading {#reading}
 

@@ -55,7 +55,7 @@ Because he’s a King, people often take him for a man on his way to them, and t
 
 Another person’s feelings aren’t something I read on. They’re theirs to tell you, and a card can’t speak for someone who isn’t there to answer. And the King of Cups, like any court card, describes a way of being before it describes a person. It might well be you. If he keeps turning up when you ask about one particular person, it’s worth asking which of his qualities you’re hoping they have, and which you’d like to find in yourself.
 
-A kinder question: “Do I feel safe saying what I feel in this relationship — and do I make it safe for the other person?” What you do with the answer is yours.
+Ask about the King in you instead: “Do I feel safe saying what I feel in this relationship — and do I make it safe for the other person?” What you do with the answer is yours.
 
 ## One calm moment, looked at twice {#next-step}
 

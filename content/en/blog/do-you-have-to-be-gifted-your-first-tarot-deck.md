@@ -33,7 +33,7 @@ So yes, on paper I'm an example of the myth. But that deck was on my wishlist be
 
 ## Is it bad luck to buy your own tarot deck? {#bad-luck}
 
-No. For buying a deck to bring bad luck, the deck itself would have to be doing the work, and it isn't. The reading comes from you, not from the cardboard, and certainly not from the receipt.
+No. For buying a deck to bring bad luck, the deck itself would have to be doing the work, and it isn't. Whatever a reading says, you are the one saying it — the cardboard isn't, and the receipt certainly isn't.
 
 People who ask this are rarely superstitious so much as careful. They want to start well, and that's a good instinct. Starting well, though, means starting.
 
@@ -53,12 +53,12 @@ Some people also feel a new deck has to be "bonded" with before it reads: slept 
 
 Cleansing gets the same answer; [why I stopped selling sage, and what I do instead](/blog/cleanse-tarot-deck/) goes through it.
 
-Letting other people touch your cards is a matter of comfort or hygiene, not luck, and [whether to let others handle your deck](/blog/let-others-touch-tarot-cards/) has its own page. And if a deck ever feels "off", it's usually you who needs a break, not the cards.
+Letting other people touch your cards is a matter of comfort or hygiene, not luck; I go into it in [whether to let others handle your deck](/blog/let-others-touch-tarot-cards/). And if a deck ever feels "off", the rest it needs is usually yours.
 
 ## Buying a deck: what to look for {#buying}
 
 If you're buying for yourself, start with a Rider-Waite-Smith: Pamela Colman Smith gave all 78 cards a full picture, minors included, so there's something to read on night one; and [here's why I start everyone on it](/blog/best-tarot-deck-for-beginners/). Any edition with the original drawings will do.
 
-If you're buying for someone else, a deck is a lovely present, and their wishlist is the kindest guide. Give it to someone who has asked for one, or hinted. A deck nobody wanted is an object on a shelf; a deck someone wanted is a beginning. The [tarot gift guide](/blog/tarot-gift-guide/) has the rest.
+If you're buying for someone else, a deck is a lovely present, and their wishlist is the kindest guide. Choose someone who has said they'd like one, or who keeps hinting. A deck nobody wanted is an object on a shelf; a deck someone wanted is a beginning. The [tarot gift guide](/blog/tarot-gift-guide/) has the rest.
 
 Then, once the deck is in your hands, skip the ritual and spend a first week getting to know it. [This is how I'd spend that week](/blog/new-tarot-deck/).

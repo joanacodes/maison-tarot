@@ -9,9 +9,9 @@ tags: ["Star tarot love", "Star tarot meaning", "Star reversed love", "tarot lov
 image: "covers/star-tarot-love.jpg"
 imageAlt: "The Star tarot card lying face up on a plain wooden table"
 imagePrompt: "The Star card from the 1909 Rider-Waite-Smith deck lying upright on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, the card in its original colours, warm natural colours around it that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "In love, the Star is hope after a hard time — the quiet, steady kind. It says you’re getting ready to care again, starting with yourself, and that you can be seen as you are. It isn’t a promise that someone is coming or that a relationship will be saved; it describes you getting your breath back. Single, it’s ground being prepared; together, a relationship breathing again after tension; after a break-up, the first lighter morning. Reversed, the hope is either held back or poured out entirely for someone else."
+summary: "In love, the Star is hope after a hard time — the quiet, steady kind. It says you’re getting ready to care again, starting with yourself, and that you can let yourself be seen without a mask. It doesn’t promise that someone is coming or that a relationship will be saved; it describes you getting your breath back. Single, it’s ground being prepared; together, a relationship breathing again after tension; after a break-up, the first lighter morning. Reversed, the hope is either held back or poured out entirely for someone else."
 ---
-In love, the Star is hope after a hard time — the quiet, steady kind, not the fireworks. It says you’re ready to care again, starting with yourself. It isn’t a promise about another person; it’s a description of you, getting your breath back.
+In love, the Star is hope after a hard time — the quiet, steady kind, not the fireworks. You’re getting ready to care again, and the care starts with you. It makes no promise about anyone else; it’s a description of you, getting your breath back.
 
 {{< cards "ar17" >}}
 
@@ -31,7 +31,7 @@ The energy is feminine: patience, softness, the intangible. The Star doesn’t p
 
 *If you’re together*, it describes a relationship breathing again after tension: an apology accepted, a difficult year behind you, a slower rhythm. It can also be a plain, good moment of being seen as you are. Keep an eye on the two jugs: are you both pouring, and does something reach each of you?
 
-*After a break-up*, the Star is the first morning that feels lighter. Not over; lighter. It’s the card I’d most like people to draw at this stage, because it puts the attention back where it can do something: on your own ground. If you’d like a layout for that moment, [my gentle spread for after a break-up](/blog/breakup-tarot-spread/) asks only about you.
+*After a break-up*, the Star is the first morning that feels lighter. Not over; lighter. It’s the card I’d most like people to draw at this stage, because it puts the attention back where it can do something: on your own ground. There’s a layout for exactly that moment: [my gentle spread for after a break-up](/blog/breakup-tarot-spread/) asks only about you.
 
 When the Star turns up for a person who has kept their situation to themselves, you don’t know whether they’re single, together or freshly apart, and you don’t need to. You might begin: “Something hard is behind you, and you’re starting to put care back into things — into a relationship, or into yourself first.” Then let them tell you which.
 
@@ -47,7 +47,7 @@ With the Star, the question is usually that one, or “Is this the person who’
 
 A card can’t promise you a person, and I wouldn’t want it to. If the Star said “yes, someone is coming”, you might spend the next months watching the door instead of tending the ground. And what another person will feel or do isn’t something I read; it belongs to them. I’ve gathered [the questions I gently steer away from](/blog/questions-to-avoid-asking-tarot/), with a better one for each.
 
-A kinder question: “What would help me feel steady enough to hope?” Or, closer to the drawing: “Where am I pouring, and is anything coming back?” Those have answers you can live with this week, whatever anyone else does.
+Here’s one the Star can actually answer: “What would help me feel steady enough to hope?” Or, closer to the drawing: “Where am I pouring, and is anything coming back?” Those have answers you can live with this week, whatever anyone else does.
 
 ## Jugs held back, or poured out {#jugs-reversed}
 

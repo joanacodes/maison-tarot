@@ -8,7 +8,7 @@ weight: 20
 categories: ["Symbols"]
 tags: ["tarot symbols", "horse", "Knights", "Death card", "The Sun"]
 h1: "The horse — energy <em>in motion</em>"
-lede: "A horse is power you ride rather than carry. In the Rider-Waite-Smith its pace says as much as its rider: the Knights’ horses rear, gallop, walk or stand still, and the white horses of Death and the Sun bring a change in."
+lede: "A horse is power you ride rather than carry. On these cards its pace says as much as its rider: the Knights’ horses rear, gallop, walk or stand still, and the white horses of Death and the Sun bring a change in."
 related:
 - /library/tarot-symbols
 - /library/numerology/knight
@@ -18,7 +18,7 @@ faq:
 - q: "Why are there horses on so many tarot cards?"
   a: "Because the Knights ride them, and the Knights are the court’s movement: the element going somewhere. Outside the court, horses carry the big arrivals — Death, the Sun, the victor of the Six of Wands."
 - q: "What does the white horse on the Death card mean?"
-  a: "It carries the change in: Death doesn’t walk, it arrives, steadily, and everyone in its path reacts in their own way. White, in my colour grid, is purity — a clean slate more than a disaster."
+  a: "It carries the change in: Death doesn’t walk, it arrives, steadily, and everyone in its path reacts in their own way. White here is purity — a clean slate more than a disaster."
 gallery:
 - src: "visuals/sym-horse/1.jpg"
   title: "Strength you borrow"
@@ -51,7 +51,7 @@ A horse is strength you borrow. You don’t carry it; it carries you, faster and
 
 {{< zoom "horse" "lead" >}}
 
-## Where it appears in the deck {#where}
+## Four Knights’ paces, three white horses {#where}
 
 The four Knights are the horse’s main cards, and the pace is the message. The Knight of Wands’ horse rears, the Knight of Swords’ gallops flat out, the Knight of Cups’ walks, the Knight of Pentacles’ black horse stands still. Same animal, four speeds. [The Knight](/library/numerology/knight/) page reads them one by one.
 
@@ -69,9 +69,9 @@ The Six of Wands sets the victor on a white horse draped in green, a wreath on h
 
 When a horse comes up, look at its pace before anything else. Rearing is impatience, galloping is urgency, walking is steady progress, standing is waiting — or refusing to move. Then ask whether the rider is steering or being carried.
 
-Colour comes next. The three horses outside the Knights — Death’s, the Sun’s, the Six of Wands’ — are all white, which in [my grid](/library/tarot-colours/white/) is purity and a fresh start: all three bring something new in. Then the element: the Knights are [the elements](/library/four-elements/) in motion, so read the suit through the horse’s pace.
+Colour comes next. The three horses outside the Knights — Death’s, the Sun’s, the Six of Wands’ — are all [white](/library/tarot-colours/white/), purity and a fresh start: all three bring something new in. Then the element: the Knights are [the elements](/library/four-elements/) in motion, so read the suit through the horse’s pace.
 
-Say someone sits down, tells me nothing, and draws the Knight of Swords next to the Four of Swords. A horse at full gallop beside a knight lying still on a tomb: you’re running flat out, and something in you is asking to stop.
+Here’s a made-up case: a sitter tells me nothing, then draws the Knight of Swords next to the Four of Swords. A horse at full gallop beside a knight lying still on a tomb: you’re running flat out, and something in you is asking to stop.
 
 ## The other side {#flip-side}
 

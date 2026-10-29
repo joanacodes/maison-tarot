@@ -57,7 +57,7 @@ gallery:
 
 **Passion, action, strength, impulse.** Masculine energy.
 
-## Where the colour appears in the deck {#where}
+## Red on bodies in motion {#where}
 
 The Magician's outer cloak and his belt; the red feather of the Fool and the Sun; Strength's lion; the Emperor's cloak; the Knight of Wands' clothes; Death's banner; the wings of the Lovers' angel. Red is almost always on a body doing something.
 
@@ -65,11 +65,11 @@ The Magician's outer cloak and his belt; the red feather of the Fool and the Sun
 
 ## How to read it {#reading}
 
-Red says **action, desire, strength** — the energy that pushes. Next to yellow it's joyful action; next to black it's force without direction. A card where red dominates is about what is being done, not what is felt: it's a [Fire](/library/four-elements/fire-element/) colour, with [masculine](/library/feminine-masculine-energies/) energy.
+Red says **action, desire, strength** — the energy that pushes. Next to yellow it's joyful action; next to black it's force without direction. Where red dominates, the card shows what is being done, not what is felt: the colour belongs to [Fire](/library/four-elements/fire-element/), with [masculine](/library/feminine-masculine-energies/) energy.
 
 ## The flip side {#flip-side}
 
-Red's flip side is brutality: the impulse that won't stop, anger, the passion that burns what it wanted to keep. When red is everywhere and no colour tempers it, the card asks you to slow down.
+Pushed too far, red turns brutal: the impulse that won't stop, anger, the passion that burns what it wanted to keep. When red is everywhere and no colour tempers it, the card asks you to slow down.
 
 ## With the other lenses {#lenses}
 

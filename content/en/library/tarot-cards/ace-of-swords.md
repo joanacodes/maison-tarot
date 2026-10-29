@@ -52,7 +52,7 @@ One is the initiator: it opens the cycle and knows nothing of what comes next. H
 
 The Ace is [Air](/library/four-elements/air-element/) at its source: the mind, analysis, the decision. My notes give Air the best judgement of the four elements, since nothing escapes its view: Fire rushes, Water feels too much, Earth digs in. The Ace is that capacity before it’s been used: the fog lifts, and you can cut.
 
-Air is also communication, good or bad. The same blade can say a true thing plainly or turn into the viper’s tongue. An idea this sharp is held by the hilt, not by the edge.
+Air also carries words, kind or cruel: the same blade can say a true thing plainly or turn into the viper’s tongue. An idea this sharp is held by the hilt, not by the edge.
 
 ## By colours {#colours}
 
@@ -68,7 +68,7 @@ Upright, the Ace of Swords is the moment it becomes clear: a decision taken, a t
 
 Reversed, the blade is held badly. Overthinking blurs it: the decision taken, untaken, taken again. Or it’s swung too hard: being right as a weapon, the sentence said to wound rather than to clear the air.
 
-Next to [the Magician](/library/tarot-cards/the-magician/), another 1, the idea finds its tools. Next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/), it’s the blade that cuts the ties: the blindfold can come off. Next to the [Ace of Cups](/library/tarot-cards/ace-of-cups/), head and heart start together — a new feeling you can finally name.
+With [the Magician](/library/tarot-cards/the-magician/), a 1 like this Ace, the thought gets the tools to act on it. Next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/), it’s the blade that cuts the ties: the blindfold can come off. Next to the [Ace of Cups](/library/tarot-cards/ace-of-cups/), head and heart start together — a new feeling you can finally name.
 
 {{< cards "ar01 sw08 cuac" >}}
 

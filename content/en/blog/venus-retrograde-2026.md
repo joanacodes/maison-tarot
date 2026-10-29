@@ -41,12 +41,12 @@ That's a good pair of questions. You don't need a planet to ask them, and you do
 
 ## A calm guide for your relationships {#calm-guide}
 
-In my chart test, Venus held about a third of the time — like most placements, and not one of the strong three. So I use it as a prompt, never as a timetable. In practice:
+In my chart test, Venus came out right roughly one time in three — an ordinary score, nowhere near the strong three. So I use it as a prompt, never as a timetable. In practice:
 
 - If an ex gets in touch, the question is the same as in any month: what has changed? If nothing has, the retrograde isn't a reason to try again. If something has, it isn't a reason not to.
 - If a wedding, a first date or a move is booked in these weeks, keep it. Nothing in my numbers would justify shifting it.
 - If you're tempted to leave or to stay because of the dates, don't hand that decision to a planet. It's yours, and you'll live with it long after 14 November.
-- If you're waiting to hear from someone, I'd gently put the phone down. "Will they come back?" is a question about a person who isn't in the room, and the cards can't answer it for them. I've written about [why 'no contact' readings cost more than they give](/blog/no-contact-tarot-readings/).
+- If you're waiting to hear from someone, I'd gently put the phone down. "Will they come back?" asks about someone who's absent from the reading, and the cards can't answer it for them. I've written about [why 'no contact' readings cost more than they give](/blog/no-contact-tarot-readings/).
 
 **A retrograde can start a conversation about your relationship; it can't have it for you.** And if you feel the pull to look up someone's chart before a date, I'd leave it: [some things are better found out across the table](/blog/birth-chart-without-permission/).
 
@@ -66,4 +66,4 @@ Draw it once — now, or on the day Venus turns direct — and write the answers
 
 ## The next step {#next-step}
 
-If you'd like a fuller layout for a relationship, my [love tarot spread](/blog/love-tarot-spread/) asks about you before it asks about them. The next Venus retrograde comes in May and June 2028, in Gemini; by then, your notes from this one will tell you more than any forecast.
+A fuller layout for a relationship is my [love tarot spread](/blog/love-tarot-spread/), which asks about you before it asks about them. The next Venus retrograde comes in May and June 2028, in Gemini; by then, your notes from this one will tell you more than any forecast.

@@ -57,7 +57,7 @@ What kind of bird, and what it’s doing, tells you the rest. Perched, diving, f
 
 On [the Star](/library/tarot-cards/the-star/), a red bird with a long curved beak sits in a tree on the right, behind the kneeling woman. It’s usually read as an ibis. She pours; the bird watches, at rest after the storm of the Tower.
 
-On the Ace of Cups, a white dove dives head first towards the cup, holding a round wafer marked with a cross. Something given from above, into an open vessel.
+On the Ace of Cups, a white dove plunges straight at the cup, carrying a small round host stamped with a cross. Something given from above, into an open vessel.
 
 On the Nine of Pentacles, a woman in a garden of vines holds a bird on her gloved left hand, its head covered by a red hood: a hunting bird, trained to come back.
 
@@ -75,7 +75,7 @@ When a bird comes up, ask where it is in relation to the person. Flying above th
 
 Lenses: the bird belongs with [Air](/library/four-elements/air-element/) — thinking, deciding, communicating. In my notes Air cuts cleanly and has access to everything at once; it can also block or obsess. A flock over the Page of Swords is a head full of thoughts going every way. Colour: the dove is [white](/library/tarot-colours/white/), which in my grid is purity, innocence, peace — a message that arrives without conditions.
 
-Say someone draws the Nine of Pentacles after a long stretch of work. The bird on the glove might say you’ve earned your freedom and chosen where to spend it. In my notes, this card is enjoying what comes, with gratitude for everything you have.
+If the Nine of Pentacles turns up after a long stretch of work, the bird on the glove can mean you’ve earned your freedom and chosen where to spend it. In my notes, this card is enjoying what comes, with gratitude for everything you have.
 
 ## The other side {#flip-side}
 

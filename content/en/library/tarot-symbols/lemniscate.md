@@ -8,7 +8,7 @@ weight: 16
 categories: ["Symbols"]
 tags: ["tarot symbols", "lemniscate", "infinity sign", "The Magician", "Strength"]
 h1: "The lemniscate — an <em>eight</em> lying down"
-lede: "The lemniscate is the infinity sign: a figure eight on its side. In the Rider-Waite-Smith it floats over two heads, the Magician’s and Strength’s, and winds through the hands of the Two of Pentacles. It says the energy goes round, and nothing is lost."
+lede: "The lemniscate is the infinity sign: a figure eight on its side. In this deck it floats over two heads, the Magician’s and Strength’s, and winds through the hands of the Two of Pentacles. It says the energy goes round, and nothing is lost."
 related:
 - /library/tarot-symbols
 - /library/tarot-cards/the-magician
@@ -53,7 +53,7 @@ The lemniscate is the sign ∞: a figure eight lying on its side. The name comes
 
 **The lemniscate says: the energy goes round, and nothing is lost on the way.** Think of the figure of eight a skater traces on the ice: two loops, one line, and the crossing in the middle is where the weight shifts.
 
-## Where it appears in the deck {#where}
+## Over two heads, through a juggler’s hands {#where}
 
 The Magician has it floating above his head like a halo. One hand raises a wand, the other points to the ground: what comes in at the top goes out at the bottom, and the loop keeps it moving.
 
@@ -71,9 +71,9 @@ Some readers also see it in the ribbons that tie the World’s wreath. I leave i
 
 When the lemniscate is on the card, ask what’s circulating, and whether it’s flowing or going round in circles. It’s a sign of mastery — of a movement, not of a thing.
 
-Count the numbers. The lemniscate is an 8 lying down, and in my notes [8](/library/numerology/number-8/) is the empire: control, lasting stability, a gate between the tangible and the intangible. Strength is card 8, and the Two of Pentacles is a 2 drawing an 8. Then the elements: the Magician is an [Air](/library/four-elements/air-element/) card, the mind; Strength is Fire, drive; the Two of Pentacles is Earth, daily life. Infinity in thought, in heat, and in the diary.
+Count the numbers. The lemniscate is an 8 lying down, and in my notes [8](/library/numerology/number-8/) is the empire: control, lasting stability, a gate between the tangible and the intangible. Strength is card 8, and the Two of Pentacles is a 2 drawing an 8. Then the elements: the Magician belongs to [Air](/library/four-elements/air-element/), the mind; Strength is Fire, drive; the Two of Pentacles is Earth, daily life. Infinity in thought, in heat, and in the diary.
 
-Say someone draws the Two of Pentacles while holding down a job and a house move at the same time. The eight says it can last — as long as the band keeps moving.
+A sitter holding down a job and a house move at once — an invented example — turns up the Two of Pentacles. The eight says it can last, as long as the band keeps moving.
 
 ## The other side {#flip-side}
 

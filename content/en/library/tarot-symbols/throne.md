@@ -8,7 +8,7 @@ weight: 13
 categories: ["Symbols"]
 tags: ["tarot symbols", "throne", "Emperor", "court cards", "tarot symbolism"]
 h1: "The throne — power that <em>stays</em> put"
-lede: "A throne is a seat nobody else may take. In the Rider-Waite-Smith, whoever sits on one has stopped travelling: they hold a place, and they answer for it. Look at what the throne is made of before you look at who’s on it."
+lede: "A throne is a seat nobody else may take. Whoever sits on one in these cards has stopped travelling: they hold a place, and they answer for it. Look at what the throne is made of before you look at who’s on it."
 related:
 - /library/tarot-symbols
 - /library/tarot-cards/the-emperor
@@ -53,7 +53,7 @@ A throne is a chair with a job. You don’t sit on it to rest; you sit on it bec
 
 It’s the opposite of the horse or the road. On a throne, power has stopped moving and become a place.
 
-## Where it appears in the deck {#where}
+## Rams, cushions, butterflies and a seat in the sea {#where}
 
 The Emperor sits on a great grey stone block with four ram’s heads carved into it, armour showing under his red robe. The hardest seat in the deck, and the one built to last.
 
@@ -73,9 +73,9 @@ All eight Queens and Kings are seated too, and each throne tells you the suit: l
 
 Ask two questions: what is the throne made of, and does the person look at ease on it? Stone is permanence, and rigidity. Cushions are comfort and care. A throne standing in water is power that rests on emotions.
 
-Then the lenses. Colour: the Emperor’s mature red is, in my grid, close to [purple](/library/tarot-colours/purple/) — “the one chosen by a group”. A throne is given by others before it’s held. Number: the Emperor is [4](/library/numerology/number-4/), stability and structure, the fruit of work. Element: the Earth thrones (the Empress, the Hierophant) keep and feed; the Fire thrones (the Emperor, the Wands court) rule by drive.
+Then the lenses. Colour: the Emperor’s mature red sits close to [purple](/library/tarot-colours/purple/) — “the one chosen by a group”. A throne is given by others before it’s held. Number: the Emperor is [4](/library/numerology/number-4/), stability and structure, the fruit of work. Element: the Earth thrones (the Empress, the Hierophant) keep and feed; the Fire thrones (the Emperor, the Wands court) rule by drive.
 
-Say the Emperor comes up for someone who has just been promoted. The throne asks: are you sitting in the place, or is the place sitting on you?
+Someone newly promoted who draws the Emperor might hear the throne ask: are you sitting in the place, or is the place sitting on you?
 
 ## The other side {#flip-side}
 

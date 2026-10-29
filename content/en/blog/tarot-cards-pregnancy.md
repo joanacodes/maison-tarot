@@ -56,7 +56,7 @@ After a loss, the grief is real even if very few people knew. I wrote about [wha
 
 If you read for friends, this question will come. A sentence that works: “I don’t read on that, because a wrong word there could stay with you for months. What I’d love to do is look at how you’re doing while you wait.” Most people hear the care in it.
 
-Because the person tells me nothing before I read, the subject sometimes surfaces in the middle of a reading instead. When it does, I say so kindly, set that thread aside, and go back to what the cards can hold. I go through how to do that without closing the door on someone in [knowing when to point someone elsewhere](/blog/client-boundaries-tarot/).
+Since nobody tells me their question before I start, the subject sometimes surfaces in the middle of a reading instead. When it does, I say so kindly, set that thread aside, and go back to what the cards can hold. I go through how to do that without closing the door on someone in [knowing when to point someone elsewhere](/blog/client-boundaries-tarot/).
 
 This is my practice, not a law for every reader. But it’s the reason it sits on my list of [what I don’t read](/disclaimers/#refusals), next to health, death and court cases.
 

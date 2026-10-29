@@ -71,7 +71,7 @@ When the pomegranate comes up, ask what in the situation hasn’t been opened ye
 
 Lenses: the High Priestess is [Water](/library/four-elements/water-element/) and the Empress is Earth. The same fruit says “what you feel and haven’t said” on one card, and “what you’ve grown and can share” on the other. Numbers: 2 is the contract and the weighing up; [3](/library/numerology/number-3/) is the machine running, the project that works.
 
-Say someone draws the High Priestess while deciding whether to accept a job. The pomegranates on the veil might say: there’s more to learn about this place than the interview showed. Ask before you sign.
+Let’s invent a case: the High Priestess turns up for someone deciding whether to accept a job. The pomegranates on the veil hint that there’s more to learn about this place than the interview showed. Ask before you sign.
 
 ## The other side {#flip-side}
 

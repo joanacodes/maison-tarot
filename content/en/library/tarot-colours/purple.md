@@ -57,7 +57,7 @@ gallery:
 
 **The one chosen by a group.**
 
-## Where the colour appears in the deck {#where}
+## Only twice: a cloak and a pair of wings {#where}
 
 The King of Swords' cloak, and the wings of the angel in Judgement. Purple sits on the shoulders of those who carry an office.
 
@@ -65,11 +65,11 @@ The King of Swords' cloak, and the wings of the angel in Judgement. Purple sits 
 
 ## How to read it {#reading}
 
-Purple says **appointed, mandated, chosen by others**. A purple card is about a responsibility received — a post, a role, a place others gave you. It's the colour of institutions and ranks, and it asks: for whom are you carrying this?
+Purple says **appointed, mandated, chosen by others**. When purple appears, the card is dealing with a responsibility received — a post, a role, a place others gave you. It's the colour of institutions and ranks, and it asks: for whom are you carrying this?
 
 ## The flip side {#flip-side}
 
-Purple's flip side is the title without the merit — the chosen one who thinks himself special because he was chosen — and the loneliness of office. Maison Tarot reminds you there are no Chosen Ones; only people chosen for a time.
+Worn badly, purple is the title without the merit — the chosen one who thinks himself special because he was chosen — and the loneliness of office. Maison Tarot reminds you there are no Chosen Ones; only people chosen for a time.
 
 ## With the other lenses {#lenses}
 

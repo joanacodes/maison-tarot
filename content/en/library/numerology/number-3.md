@@ -26,8 +26,9 @@ related:
 - /library/tarot-cards/three-of-pentacles
 faq:
 - q: Why is the Three of Swords sad if 3 is a good rhythm?
-  a: 'Because the element changes everything: in Air, the mind, three is one person
-    too many in a thought. The number says cadence; the Sword says it cuts.'
+  a: 'Because the element changes everything. In Air, the suit of the mind, a third
+    party crowds the thinking and three becomes a triangle. The number says cadence;
+    the Sword says it cuts.'
 - q: Does 3 announce a birth?
   a: It announces a result that shows. Sometimes a child, more often a project, a
     party, a team that takes.

@@ -53,7 +53,7 @@ A river is water with a direction. It comes from a source, goes to the sea, and 
 
 An everyday example: a friendship that slowly drifted. Nobody decided anything; the current did the work. Years later you’re on different banks, and you can’t quite say when it happened.
 
-## Where it appears in the deck {#where}
+## Past Death, past a mourner, across to calmer water {#where}
 
 On Death, a river runs behind the white horse, with a small boat sailing on it. In my notes Death is the harvest and starting again: the river keeps going past the ending.
 
@@ -75,7 +75,7 @@ On the Ace of Wands, a river runs through the landscape below the hand; on the E
 
 Ask which way the water is going, and where the person stands in relation to it. Beside the river (Five of Cups), they’re watching life pass. On it (Six of Swords), they’re being carried across. Following it (Knight of Cups), they’re going with their feelings. The river under the Ten of Cups is the same current, arrived home.
 
-With the lenses: a river is [Water](/library/four-elements/water-element/), so it’s about feeling. But it’s water that moves, which in my notes means strong emotion — not a still pool, which is the [water close at hand](/library/tarot-symbols/water/), and not the open horizon of [the sea](/library/tarot-symbols/sea/).
+A river is [Water](/library/four-elements/water-element/), so it’s about feeling. But it’s water that moves, which in my notes means strong emotion — not a still pool, which is the [water close at hand](/library/tarot-symbols/water/), and not the open horizon of [the sea](/library/tarot-symbols/sea/).
 
 ## The other side {#flip-side}
 

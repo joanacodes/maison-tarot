@@ -9,7 +9,7 @@ tags: ["Saturn return", "Saturn return at 29", "what is a Saturn return", "Satur
 image: "covers/saturn-return.jpg"
 imageAlt: "A person in their late twenties, seen from behind, carrying a cardboard moving box up a narrow stairwell"
 imagePrompt: "A person in their late twenties seen from behind, carrying a cardboard moving box up a narrow stairwell. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "A Saturn return is the period when Saturn comes back to the place in the zodiac it occupied when you were born. Saturn takes about 29 and a half years to go round, so the first return falls around 29 to 30 and the second around 58 to 59. Astrologers read it as a review: what you built on solid ground holds, what you built to please others gets tested. Many people do change jobs, cities or relationships at that age. Whether that’s Saturn or being 29, I can’t say — and either way it doesn’t have to be a catastrophe."
+summary: "A Saturn return is the period when Saturn comes back to the place in the zodiac it occupied when you were born. Saturn takes about 29 and a half years to go round, so the first return falls around 29 to 30 and the second around 58 to 59. Astrologers read it as a review: what you built on solid ground holds, what you built to please others gets tested. Many people do change jobs, cities or relationships at that age. I can’t tell you if the planet or the age is behind it — and either way it doesn’t have to be a catastrophe."
 ---
 A Saturn return is the period when Saturn comes back to the exact place in the zodiac where it was when you were born. It happens first around 29 to 30, again around 58 to 59, and it has a reputation as the great crisis of the late twenties. It doesn't have to be one. And a lot of what gets blamed on it might also be what being 29 does to anyone.
 
@@ -54,7 +54,7 @@ Four things to hold onto, whatever you believe about Saturn.
 
 ## A three-card check-in for your Saturn return {#spread}
 
-Saturn's card is [the World](/library/tarot-cards/the-world/): the wreath, the end of a cycle, what you ended up building. Through Capricorn, the sign Saturn rules, it also carries the Devil: structure that has turned into a chain.
+Saturn's card is [the World](/library/tarot-cards/the-world/): a wreath closing a cycle around whatever you managed to build. And because Saturn rules Capricorn, the Devil belongs to it too: a framework gone rigid enough to bind you.
 
 {{< cards "ar21 ar15" >}}
 

@@ -40,7 +40,7 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-A young man stands behind a table and faces you. His right hand lifts a white wand towards the sky; his left points at the ground. Above his head floats an infinity sign, a figure eight lying on its side. He wears a white robe under a red cloak, a white band in his dark hair and, as a belt, a snake biting its own tail.
+A young man stands behind a table and faces you. His right hand lifts a white wand towards the sky; his left points at the ground. Above his head floats an infinity sign, an 8 tipped over. He wears a white robe under a red cloak, a white band in his dark hair and, as a belt, a snake biting its own tail.
 
 On the table lie the four suits of the deck: wand, cup, sword, pentacle. Red roses hang above him and grow at his feet among white lilies, against a flat yellow background with no horizon.
 
@@ -84,7 +84,7 @@ The four tools make a good check-up. The wand: do you still want this? The cup: 
 
 Reversed at work, it’s the pitch better than the product — or the opposite worry, real skill you don’t dare show because you’re sure someone will find you out. A raw diamond is still a diamond.
 
-The question this card brings is often “Will my business work if I go for it?” I understand: starting costs money, security, sometimes pride, and you’d like a card to carry part of the risk. Resigning, investing or borrowing are money decisions, and [those stay out of my readings](/disclaimers/#refusals); whether a business works depends on clients and markets no card can see. For the figures, an accountant or a business adviser will help more than any spread. A kinder question: “Which of my four tools am I not using yet?”
+The question this card brings is often “Will my business work if I go for it?” I understand: starting costs money, security, sometimes pride, and you’d like a card to carry part of the risk. Resigning, investing or borrowing are money decisions, and [those stay out of my readings](/disclaimers/#refusals); whether a business works depends on clients and markets no card can see. For the figures, an accountant or a business adviser will help more than any spread. Look at the table instead and ask: “Which of my four tools am I not using yet?”
 
 This week, draw four columns on a sheet of paper: wand, cup, sword, pentacle. Under each, write what you already have for the thing you want to start. **The emptiest column is your first task.**
 

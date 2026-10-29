@@ -8,7 +8,7 @@ weight: 5
 categories: ["Kabbalah"]
 tags: ["Chesed", "Kabbalah and tarot", "Tree of Life", "tarot Fours", "Jupiter", "sephirot"]
 h1: "Chesed — <em>Mercy</em>, the hand that gives"
-lede: "Chesed is the fourth sephirah: loving-kindness, the giving that doesn’t count. The Golden Dawn gave it the four Fours and Jupiter — stability as abundance, and the question of what you do with it."
+lede: "Chesed is the fourth sephirah: loving-kindness, the giving that doesn’t count. On the Hermetic Tree, its open hand holds the four Fours and Jupiter — stability as abundance, and the question of what you do with it."
 related:
 - /library/kabbalah
 - /library/kabbalah/tree-of-life
@@ -44,23 +44,23 @@ In the Golden Dawn’s hands, a teaching about how God gives becomes a sphere ru
 | [Four of Swords](/library/tarot-cards/four-of-swords/) | Lord of Rest from Strife (Jupiter in Libra) | rest granted, a truce you didn’t have to win |
 | [Four of Pentacles](/library/tarot-cards/four-of-pentacles/) | Lord of Earthly Power (Sun in Capricorn) | abundance held — and the question of whether it’s shared |
 
-The number gives the structure: [four](/library/numerology/number-4/) is two doubled, the fruit of your work, the foundations — in my notes, the Four of Wands is marriage, building a family. Its advice is to stay flexible; its minus, carrying on when you should stop. Chesed adds generosity to the structure. A Four through this lens is a house you can invite people into.
+The number gives the structure: [four](/library/numerology/number-4/) is two doubled, the fruit of your work, the foundations — in my notes, the Four of Wands is marriage, building a family. Its advice is to stay flexible; its minus, digging in when it’s time to stop. Chesed adds generosity to the structure. A Four through this lens is a house you can invite people into.
 
 The Four of Pentacles is where the lens gets interesting. The Golden Dawn calls it earthly power; the picture shows a man clutching his coins. Chesed asks the question the card doesn’t: is this stability being kept, or given?
 
 ## Chesed and astrology: Jupiter {#astrology}
 
-The Golden Dawn gives Chesed [Jupiter](/library/astrology/jupiter/): expansion, confidence, what you take for luck. The planets come down the Tree in the old order of the skies, slowest first — Saturn on Binah, then Jupiter, then Mars — so Jupiter lands on the sephirah of giving.
+The Golden Dawn gives Chesed [Jupiter](/library/astrology/jupiter/): expansion, confidence, what you take for luck. The planets are hung on the Tree from the slowest down — Saturn on Binah, Jupiter next, then Mars — which puts Jupiter on the sephirah of giving.
 
 You can see the pairing in the Four of Swords, Chesed in the suit of Air and Jupiter in Libra. A knight lying at rest in a church, three swords on the wall: the generosity of Jupiter, here, is the permission to stop.
 
-If [astrology](/library/astrology/) isn’t one of your lenses, the cards read perfectly well without it.
+And if [astrology](/library/astrology/) means nothing to you, drop Jupiter: the Fours hold up without it.
 
 ## Chesed in a reading {#reading}
 
 Chesed brings a question about giving: who receives, and is it measured? Chesed alone floods; that’s why Gevurah faces it on the Tree.
 
-Say someone draws the Four of Wands next to the Five of Pentacles: a celebration in a lit house, two people out in the snow. Through Chesed, the question isn’t whether the party is good. It’s who is inside, and whether the door could open wider.
+A spread with the Four of Wands next to the Five of Pentacles shows a celebration in a lit house and two people out in the snow. Through Chesed, the party matters less than the guest list: who is inside, and whether the door could open wider.
 
 Or the Four of Cups alone: someone looking down at three cups while a hand from a cloud offers a fourth. Chesed reminds you the gift is there; it can’t make anyone take it.
 

@@ -55,7 +55,7 @@ Trois Pentacles sur cinq : cet hiver parle du corps et des choses pratiques. La 
 
 ## L’obscurité n’est pas seulement à traverser {#obscurite}
 
-Le [noir](/fr/bibliotheque/couleurs-tarot/noir/), sur ma grille, désigne le manque et le vide, mais aussi vider son esprit, et la réalité : la chose nue, sans vernis. Les semaines sombres peuvent faire cela aussi. Moins d’heures de lumière, moins de projets, un peu plus de vérité.
+Le [noir](/fr/bibliotheque/couleurs-tarot/noir/), sur ma grille, c’est le manque et le vide, mais aussi vider son esprit, et la réalité : la chose nue, sans vernis. Les semaines sombres peuvent faire cela aussi. Moins d’heures de lumière, moins de projets, un peu plus de vérité.
 
 Longtemps, je n’osais pas franchir le seuil d’une pièce obscure sans allumer d’abord, et la nuit, tout restait éclairé : une peur que je ne voyais même pas. Désormais, je circule chez moi dans le noir, et les bruits nocturnes me laissent tranquille. J’ai raconté ce qui a changé, et le lien avec le travail sur l’ombre, dans [peur du noir](/fr/blog/peur-du-noir/).
 

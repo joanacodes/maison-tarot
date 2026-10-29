@@ -29,7 +29,7 @@ faq:
 - q: Is The Hanged Man a bad card?
   a: 'No. He hangs by one ankle, not by the neck, and his face is calm. It’s a card of pause and perspective, not of punishment.'
 - q: What does The Hanged Man mean for my career?
-  a: 'At work, the Hanged Man is a pause: a project on hold, an answer that doesn’t come, a break you chose or one you didn’t. It doesn’t say how long the wait will last; it says the time is for seeing your work from another angle.'
+  a: 'At work, the Hanged Man is a pause: a project on hold, an answer that doesn’t come, a break you chose or one you didn’t. How long the pause lasts is beyond it; what it says is that the time is for seeing your work from another angle.'
 categories:
 - Major arcana
 tags:
@@ -74,7 +74,7 @@ Upright, the Hanged Man is a pause that serves something: waiting you accept, sp
 
 Reversed, the pause is suffered rather than chosen, or it has gone on too long. Waiting becomes an excuse: “I’m waiting for the right moment”, three years running. Or the opposite — so much fidgeting that nothing settles long enough to be seen differently.
 
-Next to [Death](/library/tarot-cards/death/), which comes straight after it, the pause is preparing an ending that needs to happen. Next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/), the difference is choice: she is bound and blindfolded and thinks she can’t move; he is bound and has accepted it. Next to the [Four of Swords](/library/tarot-cards/four-of-swords/), it’s rest, plainly. I’ve written separately about [the Hanged Man in love](/blog/hanged-man-tarot-love/); work has its own section below.
+Next to [Death](/library/tarot-cards/death/), which comes straight after it, the pause is preparing an ending that needs to happen. Next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/), the difference is choice: she is bound and blindfolded and thinks she can’t move; he is bound and has accepted it. Next to the [Four of Swords](/library/tarot-cards/four-of-swords/), it’s rest, plainly. I’ve written separately about [the Hanged Man in love](/blog/hanged-man-tarot-love/); work comes further down this page.
 
 {{< cards "ar13 sw08 sw04" >}}
 
@@ -88,7 +88,7 @@ At work, the Hanged Man describes a pause, and there are three kinds. The one yo
 
 Reversed at work, the pause has stopped serving anything: the sacrifice nobody asked for, or every hour filled with tasks so you never have to look at your work from another side. Neither is a verdict.
 
-“When will things move?” is the question this card brings. Waiting at work is hard, because it puts your days, and sometimes your income, in someone else’s hands; I understand wanting a date. I don’t give one. Cards are good at showing how you’re living the wait and poor at naming the day it ends ([what tarot can say about dates](/blog/tarot-timing/)). A kinder question: “What can I see from here that I couldn’t see while I was running?” And if being sidelined starts to feel like being pushed out, HR or a staff representative can tell you where you stand.
+“When will things move?” is the question this card brings. Waiting at work is hard, because it puts your days, and sometimes your income, in someone else’s hands; I understand wanting a date. I don’t give one. Cards are good at showing how you’re living the wait and poor at naming the day it ends ([what tarot can say about dates](/blog/tarot-timing/)). From upside down, a different question opens: “What can I see from here that I couldn’t see while I was running?” And if being sidelined starts to feel like being pushed out, HR or a staff representative can tell you where you stand.
 
 This week, write down everything you have open at work. Pick one thing to finish and one to drop, then look at the rest upside down: what would you do with it if you were starting today?
 

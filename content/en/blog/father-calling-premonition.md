@@ -65,7 +65,7 @@ There’s a lesson for reading here too. What arrived was tiny: a name. Most of 
 2. If you want to know, ask the person what they were doing. Ask kindly, and before you tell them what you heard, so their answer isn’t shaped by yours.
 3. Keep the two apart in your notes: what you experienced, and what you learned afterwards.
 4. Don’t make decisions on it. One moment is a moment, not a rule.
-5. If it happens often, frightens you, or comes with other things that worry you, talk to a doctor. Not because you were wrong to hear it, but because some experiences like this have causes a doctor can help with, and checking is a kindness to yourself. Sometimes [a therapist’s door is the right one](/disclaimers/#therapy).
+5. If it happens often, frightens you, or comes with other things that worry you, talk to a doctor. Hearing it wasn’t a mistake; it’s that some experiences like this have causes a doctor can help with, and checking is a kindness to yourself. Sometimes [a therapist’s door is the right one](/disclaimers/#therapy).
 
 If you’re curious about other things I can’t fully explain, the strangest moments from my readings have [their own article](/blog/weird-tarot-reading-stories/), and the vivid dreams I had at the end of 2020 are in [dream interpretation and tarot](/blog/dream-interpretation-and-tarot/). Read them the way I’d like you to read this one: as things that happened, told at their real size.
 

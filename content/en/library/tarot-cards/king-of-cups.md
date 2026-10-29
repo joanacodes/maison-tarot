@@ -23,7 +23,7 @@ related:
 - /library/astrology
 faq:
 - q: 'What does the King of Cups mean?'
-  a: 'Emotional maturity: someone who feels strongly, stays calm, and decides with their heart without being run by it. The King is outer mastery and decision, and Fire of Water is emotion turned into action.'
+  a: 'A grown-up way of feeling: strong emotions, a calm surface, and decisions made with the heart without letting it take the wheel. As a King he masters the outside world and decides; as Fire of Water, he turns emotion into action.'
 - q: 'What about the King of Cups reversed?'
   a: 'Calm pushed too far, in either direction: feelings held under so well that no one around him knows what he feels, or a calm that turns into control, or cracks when the sea finally reaches the throne.'
 - q: 'What does the King of Cups mean in love?'

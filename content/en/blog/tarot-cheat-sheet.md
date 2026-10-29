@@ -33,7 +33,7 @@ Every colour is [written up in the Library](/library/tarot-colours/), with the c
 
 ## Question 2: what number is it? {#number}
 
-The numbers on the cards aren't codes. They're the ten steps of a cycle you already know from any project, company or relationship.
+Card numbers aren't a cipher. Read in order, one to ten, they trace a cycle familiar from any project, company or relationship.
 
 | Number | Where you are in the cycle |
 |---|---|
@@ -67,13 +67,13 @@ Here's how the three questions join up, on two cards.
 
 {{< cards "pe05 sw03" >}}
 
-The Five of Pentacles: two figures in the snow pass a lit stained-glass window. Colour — black night and white snow, with one small window glowing yellow: absence, cold, and a little warmth within reach. Number — five, conflict, making do with what's left. Element — Earth, material things. As a sentence: “A hard time with money or means, getting by on what's left, and help close by that nobody has looked up to see.”
+The Five of Pentacles: a lit stained-glass window, and two figures trudging past it through snow. Colour — black night and white snow, with one small window glowing yellow: absence, cold, and a little warmth within reach. Number — five, conflict, and coping with whatever remains. Element — Earth, material things. As a sentence: “A hard time with money or means, getting by on what's left, and help close by that nobody has looked up to see.”
 
-The Three of Swords: a red heart pierced by three swords under a grey, rainy sky. Colour — red passion inside grey neutrality. Number — three, a bond that was working. Element — Air, words and decisions. “Words that cut into something that was going well.” My own notes add a second side: three swords through one heart can also be a blood pact. **Each card brings its own help and its own trouble, and the three questions show you both.**
+The Three of Swords: three blades through one red heart, and rain falling from a grey sky. Colour — red passion inside grey neutrality. Number — three, a bond that was working. Element — Air, words and decisions. “Words that cut into something that was going well.” My own notes add a second side: the same pierced heart may stand for a blood pact. **Each card brings its own help and its own trouble, and the three questions show you both.**
 
 ## Reading a card you've never seen {#unknown-card}
 
-This is the exercise that ends every [workshop](/workshops/): each person reads a card they don't know, in front of the others. It almost always works. Here's how to do it at home.
+This is the exercise that ends every [workshop](/workshops/): each person reads a card they don't know, in front of the others. Nearly everyone manages it. Here's how to do it at home.
 
 1. Go through the deck and put aside the cards you already feel you know.
 2. Draw one from what's left. Cover its name with your thumb.
@@ -102,4 +102,4 @@ And no cheat sheet can tell you whether you were right.
 
 ## Keep it on one page {#one-page}
 
-Copy the tables onto one card and keep it in your deck box for a month. When you no longer reach for it, you've learned the lenses. If you'd like the whole method in a few printable pages, [the Readers' Guide](/guide/) is free.
+Copy the tables onto one card and keep it in your deck box for a month. When you no longer reach for it, you've learned the lenses. The whole method also fits in a few printable pages: [the Readers' Guide](/guide/), free.

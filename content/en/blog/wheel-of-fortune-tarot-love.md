@@ -53,7 +53,7 @@ That’s the one. Sometimes it’s “Is this meant to be?” Both come from the
 
 I don’t read the Wheel as a timetable, and I don’t think anyone can tell you what’s “meant”. Dates are where readings are weakest, and I go into why in [what tarot can and can’t say about when](/blog/tarot-timing/). And as my notes have it, you secure a happy future by rooting yourself in today.
 
-A kinder question: “What’s one turn I could give the wheel this month?” A place you’ve never been, a conversation you’ve postponed, a habit you’d like to drop.
+Better to ask what your own hand can do: “What’s one turn I could give the wheel this month?” A place you’ve never been, a conversation you’ve postponed, a habit you’d like to drop.
 
 ## Your hand on the wheel {#your-hand}
 
@@ -61,4 +61,4 @@ That’s the “your part” in the title. One of the big turns in my own life, 
 
 If the Wheel came up for you this week, write down the last three turning points in your love life and, next to each, one thing you did that helped it turn: an invitation you accepted, a conversation you started, a door you finally closed. Then add the one turn you’re resisting now. You’ll probably find more of your own hand on the wheel than you expected.
 
-If you’d like to see why I read cards this way — lenses first, and a count of what holds and what misses — [my method is laid out here](/method/).
+The reasons I read cards this way — lenses first, and a count of what holds and what misses — are all in [my method, laid out in full](/method/).

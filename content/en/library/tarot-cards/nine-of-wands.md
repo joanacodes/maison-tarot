@@ -74,7 +74,7 @@ Upright, the Nine of Wands is resilience: you’ve been through a lot, you’re 
 
 Reversed, the vigilance curdles into suspicion: every message read as a threat, every hand refused, the fence of wands turned into a wall no one can cross. Or the strength gives out, and he sits down a few steps from the end, too tired to plant the last wand. Ask which of the two it is.
 
-Next to the [Seven of Wands](/library/tarot-cards/seven-of-wands/), you see the fight that came before: the Seven defends a height against six wands rising from below, the Nine has survived it and waits. Next to [the Hermit](/library/tarot-cards/the-hermit/), the other 9, the watch turns inward — less scanning the hills, more looking at what the battles changed. Next to the [Four of Swords](/library/tarot-cards/four-of-swords/), the advice is rest: the bandage needs time more than another guard shift.
+Next to the [Seven of Wands](/library/tarot-cards/seven-of-wands/), you see the fight that came before: the Seven defends a height against six wands rising from below, the Nine has survived it and waits. Next to [the Hermit](/library/tarot-cards/the-hermit/), the other 9, the watch turns inward — less scanning the hills, more looking at what the battles changed. With the [Four of Swords](/library/tarot-cards/four-of-swords/) nearby, rest wins: the bandage needs time more than another guard shift.
 
 {{< cards "wa07 ar09 sw04" >}}
 

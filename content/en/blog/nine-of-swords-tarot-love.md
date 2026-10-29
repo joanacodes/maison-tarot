@@ -35,7 +35,7 @@ A gentler question: “What am I afraid of, and which question, asked in dayligh
 
 ## Whose night the card describes {#whose-night}
 
-When you’re single, the Nine of Swords is often the replay. What you said on that date, the message you sent too fast, the fear that everyone else has found someone. Say someone draws it after a first date that went well and a reply that hasn’t come. The card describes their night, not the other person’s silence.
+When you’re single, the Nine of Swords is often the replay. What you said on that date, the message you sent too fast, the fear that everyone else has found someone. Picture it drawn after a first date that went well and a reply that hasn’t come: the card describes the night of whoever drew it, not the other person’s silence.
 
 When you’re together, it describes worries that grow in the dark: a late reply, a change of tone, a name mentioned once too often. Jealousy, insecurity, the fear of being left. The card shows what the worry is doing to you; it doesn’t confirm what the worry is about. That distinction is where the card is kindest.
 

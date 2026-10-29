@@ -38,7 +38,7 @@ You might put it like this: “That’s what I see. What you do with it is yours
 
 Don’t end with a recap of every card. Pick one sentence the person can take home, ideally something they can do this week.
 
-If the last card is heavy, read it to the end instead of stopping at its worst word. Say the reading closes on the Nine of Swords: a figure sitting up in bed in the dark, face in hands, nine swords lined up on the wall behind.
+If the last card is heavy, read it to the end instead of stopping at its worst word. Say the reading closes on the Nine of Swords: someone awake at night with their head in their hands, the swords hung on the wall behind them.
 
 {{< cards "sw09" >}}
 

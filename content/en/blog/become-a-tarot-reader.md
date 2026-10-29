@@ -23,7 +23,7 @@ Memory is a terrible bookkeeper. It keeps the reading where the woman gasped and
 
 Here is the list I work from: health, death, pregnancy, a court case still in progress, decisions about money, curses, and anyone who isn't in the room and hasn't asked. [Maison Tarot refuses them all](/disclaimers/#refusals), not because a card can't fall on those subjects, but because a wrong word there does real damage, and I've established that I'm wrong one time in ten.
 
-Now the uncomfortable part. Those are the questions people pay the most for. "Is he cheating", "will I get pregnant", "should I take the money" are the engine of the paid market. Refusing them is not a footnote on your website; it's a decision about how much you'll earn. A reader who will answer anything is a reader who hasn't thought about being wrong. Decide which one you are before you decide on a price.
+Now the uncomfortable part. Those are the questions people pay the most for. "Is he cheating", "will I get pregnant", "should I take the money" are the engine of the paid market. Refusing them is not a footnote on your website; it's a decision about how much you'll earn. A reader who will answer anything has given no thought to being wrong. Decide which one you are before you decide on a price.
 
 ## Can you say "that's a miss" to someone who paid? {#miss-paid}
 
@@ -55,4 +55,4 @@ None of the five questions can be answered from a chair. So, in order:
 4. Draft your refusals list and imagine turning down the person who'd have paid you most.
 5. Then decide what you're selling.
 
-If you'd like to see what free readings look like when nothing is for sale afterwards, [come to an event](/events/). Bring a notebook, keep your question to yourself, and count me too.
+To see what free readings look like when nothing is for sale afterwards, [come to an event](/events/). Bring a notebook, keep your question to yourself, and count me too.

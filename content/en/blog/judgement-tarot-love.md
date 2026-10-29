@@ -47,7 +47,7 @@ I don’t read what the other person feels or will do. They’re not in the room
 
 What a reading can do is turn the second look towards you. The [very first stranger I read for](/blog/first-tarot-reading-story/) asked about a relationship, and the cards also showed that she had been unkind to the other person. **That’s the second look Judgement asks for: at what they did, and at your own part in it.**
 
-A kinder question: “What would I need to see, this time, to say yes — and what would make me say no?” Write both lists. They’ll tell you more than any spread, and they’ll still be true next month.
+Keep the question about you, where it can be answered: “What would I need to see, this time, to say yes — and what would make me say no?” Write both lists. They’ll tell you more than any spread, and they’ll still be true next month.
 
 ## When it lands beside the Hanged Man or Death {#beside}
 
@@ -61,6 +61,6 @@ And next to the Two of Cups, the second look brings two people back to the same 
 
 ## What was said, what happened {#notebook}
 
-Draw two columns on a sheet of paper, the way I keep my reading notebook: what was said, and what happened. Fill it in for the relationship you’re reviewing, facts only. Then sit with it for a day before you act.
+Split a page down the middle, as in my reading notebook: what was said on the left, what happened on the right. Fill it in for the relationship you’re reviewing, facts only. Then sit with it for a day before you act.
 
-If you’d like help reading what comes up in your own cards, that’s what a one-to-one [session](/sessions/) is for — an hour in which you learn to read, rather than one in which I read for you.
+Help reading what comes up in your own cards is what my [one-to-one hours](/sessions/) offer: sixty minutes in which you learn to read, rather than sixty in which I read for you.

@@ -9,7 +9,7 @@ tags: ["tarot and health", "tarot and pregnancy", "tarot and death", "questions 
 image: "covers/health-pregnancy-death-tarot.jpg"
 imageAlt: "Two hands holding a paper cup of coffee in a waiting room, a coat folded on the chair beside them"
 imagePrompt: "Two hands holding a paper cup of coffee in a quiet waiting room, a coat folded on the empty chair beside them, seen from the side. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Careful readers step back from questions about health, pregnancy and death because a card can’t see inside a body, because a reading can’t promise when, and because a sentence said on these subjects can stay with someone for years. People ask out of fear and love, and that deserves gentleness, not a closed door. What a reading can hold is the waiting: how you’re carrying it, who is with you, what you need this week. For the rest, a doctor, a midwife, a palliative care team or a counsellor can answer what a deck can’t."
+summary: "Careful readers step back from questions about health, pregnancy and death because a card can’t see inside a body, because a reading can’t promise when, and because a sentence said on these subjects can stay with someone for years. People ask out of fear and love, and that deserves gentleness, not a closed door. A reading can keep someone company through the wait instead: how you’re carrying it, who is with you, what you need this week. For the rest, a doctor, a midwife, a palliative care team or a counsellor can answer what a deck can’t."
 ---
 I don’t read on health, pregnancy or death. People bring these questions because they’re frightened, or because they love someone, and both deserve care. So this isn’t a closed door. It’s an explanation of why the cards are the wrong tool here, what they can hold instead, and how to be with someone who asks.
 
@@ -17,7 +17,7 @@ I don’t read on health, pregnancy or death. People bring these questions becau
 
 Most people who ask are waiting. For scan results. For a test to turn positive, or not to. For a call from the hospital about a parent. Waiting is its own kind of hard: nothing you do seems to change anything, and the mind fills the empty days with the worst version.
 
-In that state, a deck of cards can look like a window. A picture to hold, an answer of any kind, something that ends the not-knowing. Wanting that isn’t foolish. It’s what fear and love do when they have nowhere to go.
+In that state, anything that promises a glimpse ahead feels like a window, a deck included. A picture to hold, an answer of any kind, something that ends the not-knowing. Wanting that isn’t foolish. It’s what fear and love do when they have nowhere to go.
 
 **The question is rarely about the cards; it’s about how to get through the wait.**
 
@@ -29,7 +29,7 @@ A card can’t see a body. It reads a moment, in pictures. Any link from a pictu
 
 These questions are nearly all about timing: when, how long, by spring, and exact timing is not what a reading does best. My overall rate is about one miss in ten, and on most subjects a miss is a line in my notebook. Here it can be someone delaying an appointment, or grieving something that hasn’t happened.
 
-And words stay. In grief and anger, I once heard a voice announce an accident for a friend; the accident came, and my friend is alive and well today. That message was wrong in exactly what mattered, and I’d never hand one like it to anyone else ([why a reading can be wrong](/blog/why-a-reading-can-be-wrong/)).
+And words stay. In grief and anger, I once heard a voice announce an accident for a friend; the accident came, and the friend is still here, and well. That message was wrong in exactly what mattered, and I’d never hand one like it to anyone else ([why a reading can be wrong](/blog/why-a-reading-can-be-wrong/)).
 
 Even the card called Death isn’t about dying.
 
@@ -54,11 +54,11 @@ So the question changes from “what will happen?” to “how am I carrying thi
 
 ## If someone asks you {#if-someone-asks-you}
 
-If you read for friends, this question will come, often late in the evening, often as a joke that isn’t one. How you answer matters more than any card.
+Read for friends long enough and one of these questions will reach you, often late in the evening, often as a joke that isn’t one. How you answer matters more than any card.
 
 1. Listen first. Let them say the whole thing before you say anything about tarot.
 2. Name what you hear: “You’re really worried about your dad.” People often need that more than an answer.
-3. Say gently why you won’t read on it: “I don’t read on that, because a wrong word could stay with you for a long time.”
+3. Say gently why you won’t read on it: “I don’t take that one to the cards. A mistaken sentence about it could follow you for a long time.”
 4. Offer what you can: a reading about how they’re coping, a walk, a lift to the appointment, a message the night before the results.
 5. Don’t argue with their hope or their fear. Neither needs correcting tonight.
 6. If it surfaces in the middle of a reading, set that thread down kindly and come back to what the cards can hold.

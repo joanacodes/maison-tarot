@@ -79,4 +79,4 @@ And an honest limit. A harsh chart isn’t a verdict on a person. Astrology held
 
 Ask first, and mean it: they can say no, and they can stop you at any point. Decide in advance that you’re not there to impress them. And before you say the hard thing, find its other half — the way they carry it — so that what you hand them is the whole picture, not only the weight.
 
-If you’d like to see why Saturn, Lilith and Chiron held so well when I tested them, and how to check your own, they have [an article of their own](/blog/saturn-lilith-chiron/). And if you’d like to practise putting hard things into kind words with someone watching, that’s exactly the kind of thing a [one-to-one session](/sessions/) is for.
+Why Saturn, Lilith and Chiron held so well when I tested them, and how to check your own, is the subject of [a separate piece on those three placements](/blog/saturn-lilith-chiron/). As for putting hard things into kind words with someone watching, that’s exactly what the [one-to-one sessions](/sessions/) are built around.

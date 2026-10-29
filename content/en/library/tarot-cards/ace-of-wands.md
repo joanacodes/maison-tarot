@@ -23,7 +23,7 @@ related:
 - /library/astrology
 faq:
 - q: What does Ace of Wands mean?
-  a: 'The Ace of Wands is a 1 of Fire: an urge, an idea or a desire that has just arrived and wants to grow. It gives you the spark and the raw material, not the finished result, so the advice that comes with it is to stay humble and get ready to learn.'
+  a: 'The Ace of Wands is a 1 of Fire: an urge, an idea or a desire that has just arrived and wants to grow. It gives you the spark and the raw material, not the finished result, so it asks for humility and a readiness to learn.'
 - q: What about Ace of Wands reversed?
   a: 'Reversed, the urge is there but doesn’t turn into action: the project you keep talking about, the enthusiasm that burns out before the first step, or ten starts with no follow-through. Look at what is holding the spark back, or at where it is scattering.'
 - q: What does the Ace of Wands mean in love?

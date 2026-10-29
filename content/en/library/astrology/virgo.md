@@ -24,12 +24,10 @@ related:
 - /library/astrological-modes/mutable
 - /library/astrology/mercury
 faq:
-- q: Which tarot card corresponds to Virgo?
-  a: The Hermit, in the Golden Dawn tradition taken up by the Rider-Waite-Smith. When
-    it comes out, the sign gives its verb, element and mode at once.
-- q: 'I''m a Virgo: is this card ''my'' card?'
-  a: A way in, not an identity. The card says the same thing to anyone; your sign
-    only helps you recognise it faster. Astrology is not an excuse.
+- q: 'Which tarot card corresponds to Virgo?'
+  a: 'The Hermit, arcana IX: an old man on a summit, studying the ground by the light of one lantern. Virgo works the same way: alone, closely, and with the idea of being useful afterwards.'
+- q: 'I’m a Virgo: is the Hermit ‘my’ card?'
+  a: 'The Hermit hands every reader the same lantern and the same step back. A Virgo may spot the analyst in it first; the sign still doesn’t excuse lending your skills to a cause you never questioned.'
 gallery:
 - src: "visuals/sign-virgo/1.jpg"
   title: "I analyse"
@@ -76,7 +74,7 @@ Jinx in Arcane; the engineer, the adviser to the throne, the manager.
 
 ## Its card: The Hermit {#card}
 
-When [the Hermit](/library/tarot-cards/the-hermit/) comes out, Virgo is there: someone has withdrawn to understand, analyses before acting, lights one step at a time. Well placed, it's the solution nobody saw. Badly placed, it's service rendered to the wrong cause.
+[The Hermit](/library/tarot-cards/the-hermit/) gives Virgo its lantern: a mind that steps away from the noise to examine one problem closely, then comes back with something useful. The good version is the engineer who finds the fix nobody else saw; the bad one puts the same care into a job without ever asking who it serves.
 
 {{< cards "ar09" >}}
 

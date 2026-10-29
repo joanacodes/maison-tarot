@@ -45,7 +45,7 @@ Yeats also brought her into the Hermetic Order of the Golden Dawn, around 1901. 
 
 In 1909 Waite asked her to draw a complete deck of 78 cards. William Rider & Son of London published it in December that year. According to the V&A, Waite gave her detailed direction for the 22 major arcana; the 56 minor cards were hers to design.
 
-That second half changed how tarot is learned. In most older decks, the Five of Cups was five cups arranged on the card, and nothing else. Smith gave every minor a person and a situation: a cloaked figure bent over three spilled cups, with two still standing behind. **She turned the minors from patterns into scenes, and a scene is something a beginner can read.**
+That second half changed how tarot is learned. In most older decks, the Five of Cups was five cups arranged on the card, and nothing else. Smith gave every minor a person and a situation: a cloaked figure bent over the three cups that fell, while two others stand behind. **She turned the minors from patterns into scenes, and a scene is something a beginner can read.**
 
 She didn’t work from nothing. Photographs of the Sola Busca, an Italian deck from the late fifteenth century whose minors are also illustrated, were at the British Museum by 1907, and the tarot scholar Mary K. Greer thinks Waite and Smith probably saw them there. Two of her cards echo it closely: the [Three of Swords](/library/tarot-cards/three-of-swords/) and the Ten of Wands.
 
@@ -69,7 +69,7 @@ When you look at the Five of Cups and feel the loss before you know a single key
 
 That is why I start everyone on her deck. My method leans on what is drawn: the [colours](/library/tarot-colours/), the numbers, the elements. Those are her choices — the red of a cloak, the grey of a sky — and they hold together across 78 cards.
 
-Try it with the three cards above. Look at her Three of Swords, then the Ten of Wands, and say what you see before you say what they “mean”. That is the first exercise on [the learning path](/learn-tarot/). The story of the deck itself, its publisher and how it became the standard, is in [the Rider-Waite-Smith article](/blog/rider-waite-smith-tarot/); the order she belonged to has its own page, [the Golden Dawn and its tarot](/library/tarot-history/golden-dawn-tarot/); and [tarot in the 20th century](/library/tarot-history/tarot-in-the-20th-century/) follows the century her cards conquered.
+Try it with the three cards above. Look at her Three of Swords, then the Ten of Wands, and say what you see before you say what they “mean”. That is the first exercise on [the learning path](/learn-tarot/). The story of the deck itself, its publisher and how it became the standard, is in [the Rider-Waite-Smith article](/blog/rider-waite-smith-tarot/); for the order she belonged to, see [the Golden Dawn and its tarot](/library/tarot-history/golden-dawn-tarot/); and [tarot in the 20th century](/library/tarot-history/tarot-in-the-20th-century/) follows the century her cards conquered.
 
 ## Sources {#sources}
 

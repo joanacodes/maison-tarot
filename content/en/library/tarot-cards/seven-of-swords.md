@@ -27,7 +27,7 @@ faq:
 - q: What about Seven of Swords reversed?
   a: 'The plan comes into the open. Either the secret gets too heavy to carry, or the cleverness tips into excess. Sometimes it’s the moment of owning up and putting the swords back.'
 - q: 'Does the Seven of Swords mean someone is cheating?'
-  a: 'It can point to something hidden, but it can’t tell you what someone who isn’t in the room is doing. A kinder question is what you aren’t saying yourself, or what you need to know to feel safe.'
+  a: 'It can point to something hidden, but it can’t tell you what someone who isn’t in the room is doing. The reading can look instead at what you aren’t saying yourself, or what you’d need to know to feel safe.'
 categories:
 - Swords
 tags:
@@ -64,7 +64,7 @@ The Golden Dawn paired this card with the Moon in [Aquarius](/library/astrology/
 
 Upright, the Seven of Swords is a strategy carried out quietly: leaving without announcing it, taking what’s yours (or what you think is), working around a problem instead of facing it. It can be resourcefulness, knowing what to save and what to drop. It can be avoidance or a lie. Most often, the person carrying the swords is the one in front of you, not someone else.
 
-People often ask whether it means they’re being cheated on, and I understand the worry. The card can point to something hidden, but it can’t say what someone who isn’t in the room is doing, and [I don’t read on third parties](/disclaimers/#refusals). A gentler question is what you’ve stopped saying yourself.
+People often ask whether it means they’re being cheated on, and I understand the worry. The card can point to something hidden, but it can’t say what someone who isn’t in the room is doing, and [I don’t read on third parties](/disclaimers/#refusals). The card can turn the question round, towards what you’ve stopped saying yourself.
 
 Reversed, the plan comes out. The secret may get too heavy — too many swords for two arms — or the lie may grow until the cleverness tips into suspicion of everyone. Sometimes reversed is the moment of owning up and putting the swords back.
 

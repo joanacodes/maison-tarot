@@ -31,7 +31,7 @@ When you’re together, it can be a low point: a row that felt final, a way of r
 
 After a break-up, it’s the full stop you already know about. It can also be the overthinking: the ten versions of the last conversation, the ten things you should have said. Each one is a sword you put back in yourself.
 
-Say someone draws this card and tells you nothing. An end, the mind going round, darkness and a strip of light. You could put it like this: “Something is finished, and you’ve already understood it — what’s still hurting is the thinking about it.” Then you check with them, and let them correct you.
+Now read it blind, knowing nothing of the person’s situation: an end, the mind going round, darkness and a strip of light. You could put it like this: “Something is finished, and you’ve already understood it — what’s still hurting is the thinking about it.” Then you check with them, and let them correct you.
 
 ## Waiting for them to come back and help you up {#help-you-up}
 

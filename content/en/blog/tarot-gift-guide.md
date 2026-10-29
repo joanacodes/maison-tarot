@@ -45,7 +45,7 @@ Other ideas that work: a fresh notebook, because the old one is always full; a b
 
 ## Is it all right to give someone their first deck? {#first-deck}
 
-Yes, and some people would love it to happen that way. There’s an old belief that your first deck should be a gift. It’s a belief, not a rule, and [buying your own brings no bad luck either](/blog/do-you-have-to-be-gifted-your-first-tarot-deck/), so your present is welcome without being required.
+Yes, and some people would love it to happen that way. There’s an old belief that a first deck ought to come as a present. That’s tradition talking, not a rule — [one you pay for yourself works just as well](/blog/do-you-have-to-be-gifted-your-first-tarot-deck/) — so your present is welcome without being required.
 
 My own first deck came this way. Friends picked it off my wishlist for Christmas 2020; I was expecting an astrology book. I started reading the day after.
 

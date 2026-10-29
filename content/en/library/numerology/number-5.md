@@ -81,6 +81,6 @@ Facebook arrives to buy Instagram — or, another version of the same 5, IGTV fl
 
 ## In a reading {#reading}
 
-With a 5 on the table, **there's a conflict, and the question is what you do with it.** The Five of Wands brawls, the Five of Swords wins while losing allies, the Five of Cups mourns what's spilled instead of seeing what's standing, the Five of Pentacles walks in the snow past a lit window. The Hierophant is the 5 of institutions: the trial of the rule.
+With a 5 on the table, **there's a conflict, and what matters is how you handle it.** The Five of Wands brawls, the Five of Swords wins while losing allies, the Five of Cups mourns what's spilled instead of seeing what's standing, the Five of Pentacles walks in the snow past a lit window. The Hierophant is the 5 of institutions: the trial of the rule.
 
 {{% six %}}

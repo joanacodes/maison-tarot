@@ -27,7 +27,7 @@ faq:
 - q: What about Page of Pentacles reversed?
   a: 'An apprenticeship that never starts or never ends: the opportunity is admired but never used, the course never started — or so much preparing that nothing gets done, or eyes so fixed on one goal that the rest of the field goes unseen.'
 - q: Is the Page of Pentacles a person?
-  a: 'Sometimes: a young person, a student, an apprentice, someone new in a job. More often it describes a state — the start of learning something real — and the person in front of you will tell you which.'
+  a: 'Sometimes: someone young, a student or apprentice, someone new in a job. More often it describes a state — the start of learning something real — and only the person you’re reading for can say which applies.'
 categories:
 - Pentacles
 tags:
@@ -47,7 +47,7 @@ He stands on fresh grass, with worked earth further off. **A value you can see b
 
 The [Page](/library/numerology/page/) is young without being a child, and this one holds his coin at eye level, still working out what it’s for. In the tradition they’re also the messenger — the letter, the offer, the news.
 
-In Pentacles, the message is concrete: a job offer, a place on a course, a first pay slip, a plot of land to look after. The rank’s advice is to stay a student. My note for number 1 fits him too: humility, get ready to learn — a student for life, like all of us. A Page of Pentacles who thinks he’s already a King drops the coin.
+In Pentacles, the message is concrete: a job offer, a place on a course, a first pay slip, a plot of land to look after. Pages are meant to remain students. My note for number 1 fits him too: humility, get ready to learn — a student for life, like all of us. A Page of Pentacles who thinks he’s already a King drops the coin.
 
 ## By element: Earth {#element}
 
@@ -61,7 +61,7 @@ That’s the card’s strength — tenacity, perseverance — and its flip side:
 
 ## In a reading {#reading}
 
-Upright: the start of an apprenticeship. Someone learning a trade, beginning a course, taking a first job, or receiving a concrete offer and studying it before saying yes. It can be a young person, a student, a newcomer — or you, at the start of something you want to learn properly. It’s a card I’d hand anyone who wants to [learn tarot](/learn-tarot/) one card at a time. **The Page doesn’t need to know yet; he needs to keep looking, and then to start.**
+Upright: the start of an apprenticeship. Someone learning a trade, beginning a course, taking a first job, or receiving a concrete offer and studying it before saying yes. The figure might be someone young, someone studying, a newcomer — or you, at the start of something you want to learn properly. It’s a card I’d hand anyone who wants to [learn tarot](/learn-tarot/) one card at a time. **The Page doesn’t need to know yet; he needs to keep looking, and then to start.**
 
 Reversed, the student either never starts or can’t stop preparing: the offer admired but never used, the course planned and never begun, the coin left in the air — or studying turned into a way of not doing, one more training, one more book.
 

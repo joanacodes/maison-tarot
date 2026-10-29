@@ -25,7 +25,7 @@ For love, look down at her feet: nothing ties them. The castle, the puddles and 
 
 ## Where the swords stand, in or out of a relationship {#where-the-swords-stand}
 
-When you’re single, the swords are usually beliefs. “All the good ones are taken.” “I’m not someone people fall for.” “I’ll start dating when I feel ready.” Say someone draws this card after a year of turning down every invitation. The card isn’t saying nobody is out there. It says the thing standing between them and other people might be a sentence they repeat to themselves.
+When you’re single, the swords are usually beliefs. “All the good ones are taken.” “I’m not someone people fall for.” “I’ll start dating when I feel ready.” Take a person who has spent a year turning down every invitation. For them, the card isn’t saying nobody is out there. It says the thing standing between them and other people might be a sentence they repeat to themselves.
 
 When you’re together, it often describes feeling stuck inside the relationship: a conversation you never start, a need you never name, a habit you both resent and neither breaks. The swords are the arguments you rehearse in your head and never say out loud. Air also carries what we say, kind or cruel, and my notes have a name for the cruel side: the viper’s tongue. Sometimes a band around you is a sentence someone once said to you, repeated in your head until it sounds like your own. The tool is there — your voice — and the card asks what keeps the blindfold on.
 
@@ -55,10 +55,10 @@ With this card, people often ask about the other person. “Will he leave her?�
 
 I don’t read on another person’s choices. They’re not in the room, and their decisions are theirs to make. Reading a person who hasn’t said yes is like letting yourself into their room while they’re away, and if they don’t know a reading is happening, they aren’t open to it: you’d get fragments and fill the rest with guesswork. I explain more in [reading tarot about someone else](/blog/reading-tarot-about-someone-else/). There’s a gentler reason too: that question keeps the blindfold on, because it hands your way out to somebody else.
 
-A kinder question is: “Which of my own thoughts is keeping me here, and which one can I loosen first?” It’s yours, so it has an answer; the step out of the circle is yours too.
+Turn the question round instead: “Which of my own thoughts is keeping me here, and which one can I loosen first?” It’s yours, so it has an answer; the step out of the circle is yours too.
 
 ## Eight lines on a page {#eight-lines}
 
 Draw eight lines on a page, one per sword. On each, write a thought that keeps you where you are in love. Then mark each line: a fact, or a story? You’ll usually find more stories than facts. Pick one story and do one small thing this week that contradicts it.
 
-If you’d like to learn to read a card like this through its number and its element, without memorising anything, that’s what the [workshops](/workshops/) are for: three hours, twelve people, one lens.
+Reading a card like this through its number and its element, without memorising anything, is what the [workshops](/workshops/) teach: three hours, twelve people, one lens.

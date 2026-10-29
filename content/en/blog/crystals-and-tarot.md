@@ -43,7 +43,7 @@ A signal to start. Some people need a small gesture that says *now I’m reading
 
 Beauty. I see collecting tarot decks as collecting art: each card is a picture you can read messages through. Stones can live in the same place in your life, as things you love looking at. That’s reason enough to own something.
 
-A colour on the table. If you choose a stone for its colour, keep that eye: colour is the first lens I teach, because yellow says joy before you know which card you’re holding. The [colour grid](/library/tarot-colours/) puts it to work on the cards themselves.
+A colour on the table. If you choose a stone for its colour, keep that eye: colour is the first lens I teach, because it speaks before you’ve even named the card: a yellow card already says joy. The [colour grid](/library/tarot-colours/) puts it to work on the cards themselves.
 
 ## When “you need this stone” becomes a sales line {#sales-line}
 

@@ -8,7 +8,7 @@ weight: 10
 categories: ["Kabbalah"]
 tags: ["Yesod", "Kabbalah and tarot", "Tree of Life", "tarot Nines", "the Moon", "sephirot"]
 h1: "Yesod — the <em>Foundation</em>, where everything gathers"
-lede: "Yesod is the ninth sephirah: the foundation, the channel that gathers everything above it and passes it on to the world. The Golden Dawn gave it the four Nines and the Moon — the last stretch before the end, and the question of what it all stands on."
+lede: "Yesod is the ninth sephirah: the foundation, the channel that gathers everything above it and passes it on to the world. Through that channel run the four Nines and the Moon — the last stretch before the end, and the question of what it all stands on."
 related:
 - /library/kabbalah
 - /library/kabbalah/tree-of-life
@@ -58,7 +58,7 @@ In Jewish sources, the moon, which shines with borrowed light, is an image of Ma
 
 What Yesod can add is a question about the base: what is all this standing on?
 
-Say someone draws the Nine of Cups next to the Five of Cups. The wish come true, and three cups spilled. Through Yesod, the question is what the satisfaction rests on, and whether the loss beside it has been looked at, or only stepped over.
+Set the Nine of Cups next to the Five of Cups. The wish come true, and three cups spilled. Through Yesod, the question is what the satisfaction rests on, and whether the loss beside it has been looked at, or only stepped over.
 
 On the Golden Dawn’s Tree, the path from Yesod down to Malkhut carries the World card. A Nine next to the World is a stage about to land in real life — keep moving, as the number says.
 

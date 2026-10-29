@@ -63,7 +63,7 @@ gallery:
 
 ## The advice of 8 {#advice}
 
-Mastery is proved by the repeated gesture, not the title. Eight advises you to keep working as if nothing were secured — because that's how it stayed secured.
+Mastery is proved by the repeated gesture, not the title. Eight's advice: carry on working as though none of it were guaranteed — that's precisely how it stays in place.
 
 ## An example everyone knows {#example}
 

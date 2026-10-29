@@ -47,7 +47,7 @@ Two cards sit close to this idea. [The Moon](/library/tarot-cards/the-moon/) sho
 
 {{< cards "ar18 sw09" >}}
 
-Getting past that kind of fear takes a long road, and also a split second. It's like a veil you take off. **But first you have to see that there's a veil.** Most of the road is that part.
+Getting past that kind of fear is slow and sudden at once: a long road, then a single moment when something like a veil comes off. **Before it can come off, you have to notice you're wearing one.** Most of the road is that part.
 
 ## If the dark is heavy for you {#if-its-heavy}
 
@@ -59,4 +59,4 @@ If the fear is heavy, though — if it keeps you from sleeping, from being home 
 
 If your fear is a light one, here's an experiment. The next time your hand reaches for a switch, pause for one breath before you press it. Notice what you were expecting to find. Write it down, in one line. Then turn the light on; there's no prize for leaving it off.
 
-Do that for a week and read the lines back. If the same thing turns up night after night, that's worth noticing: it's rarely about the room. If you'd like to bring what you find to the cards, the [three-card shadow work spread](/blog/shadow-work-beginners/) is a gentle place to start.
+Do that for a week and read the lines back. If the same thing turns up night after night, that's worth noticing: it's rarely about the room. Once you have a few of those lines, the [three-card shadow work spread](/blog/shadow-work-beginners/) is a gentle way to put them in front of the cards.

@@ -8,7 +8,7 @@ weight: 18
 categories: ["Symbols"]
 tags: ["tarot symbols", "snake", "serpent", "The Lovers", "Wheel of Fortune"]
 h1: "The snake — <em>temptation</em> and renewal"
-lede: "The snake sheds its skin and slides in where nobody expects it. In the Rider-Waite-Smith it coils around the Lovers’ tree, slides down the Wheel of Fortune and rises from one of the Seven of Cups: desire, change, and the voice that makes a bad idea sound good."
+lede: "The snake sheds its skin and slides in where nobody expects it. The deck shows it coiled around the Lovers’ tree, sliding down the Wheel of Fortune and rising from one of the Seven of Cups: desire, change, and the voice that makes a bad idea sound good."
 related:
 - /library/tarot-symbols
 - /library/tarot-cards/the-lovers
@@ -53,7 +53,7 @@ A snake moves without legs, sheds its skin, and is rarely seen coming. Those thr
 
 It isn’t only a villain. Shedding is renewal: the old skin left on a stone, the animal carrying on without it.
 
-## Where it appears in the deck {#where}
+## Coiled on a tree, sliding down a wheel, rising from a cup {#where}
 
 On [the Lovers](/library/tarot-cards/the-lovers/), a green snake coils around the trunk of the fruit tree behind the woman. The scene borrows from the Garden of Eden, and the choice the card is about comes with its temptation built in.
 
@@ -75,7 +75,7 @@ When a snake comes up, ask whether something is being shed or something is slipp
 
 Lenses: the Lovers is an [Air](/library/four-elements/air-element/) card, and in my notes Air is communication, good or bad — the viper’s tongue. The snake there is the persuasive voice, inside you or outside. The Seven of Cups is [7](/library/numerology/number-7/): indecision, too many choices, and the snake is the option that looks like any other. Colour: the snakes on the Wheel and the Seven of Cups are yellow, will and pride; the Lovers’ snake is green, growth and appetite.
 
-Say someone draws the Lovers next to the Seven of Cups. Two snakes, two choices, and the useful question isn’t “which one?” but “whose voice is talking me into it?”
+With the Lovers and the Seven of Cups side by side, there are two snakes and two choices, and the useful question isn’t “which one?” but “whose voice is talking me into it?”
 
 ## The other side {#flip-side}
 

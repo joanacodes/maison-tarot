@@ -38,7 +38,7 @@ Lay the first two cards on the left and the last two on the right, with a little
 
 ## A birthday spread, card by card {#example}
 
-Say someone turns thirty-five, tells the cards nothing, and draws the Ten of Wands, the Eight of Pentacles, the Ace of Wands and the Nine of Pentacles.
+Say someone turns thirty-five, tells the cards nothing, and lays out four: Ten of Wands, Eight of Pentacles, Ace of Wands, Nine of Pentacles.
 
 {{< cards "wa10 pe08 waac pe09" >}}
 
@@ -46,7 +46,7 @@ Say someone turns thirty-five, tells the cards nothing, and draws the Ten of Wan
 
 *What I’m taking with me:* the Eight of Pentacles, hammer and chisel in hand, the finished coins hung on a post beside him. Eight is mastery, the necessary effort that turns into skill. Whatever the heavy year cost, it taught you how to do something well.
 
-*The theme of the year ahead:* the Ace of Wands, one budding wand offered from a cloud, a castle on a distant hill. One is the start of a cycle, the raw diamond. Wands are Fire: creation, impulse, the energy that gets you going. And the advice of 1, in my notes, is humility: get ready to learn.
+*The theme of the year ahead:* the Ace of Wands, one budding wand offered from a cloud, a castle on a distant hill. One opens a cycle: the raw diamond. Wands are Fire, which in my notes means making things, acting on impulse, finding the push to begin. And the advice of 1, in my notes, is humility: get ready to learn.
 
 Look at the two numbers on either side of the gap: 10, then 1. The cycle turns over, exactly as a birthday does.
 
@@ -66,4 +66,4 @@ And if the year that’s closing was a very hard one, the first position may hur
 
 Draw the four cards on your birthday morning, or on the evening before, and write one line for each. Then close the notebook and keep the page for next year: reading last year’s spread on your next birthday is the best part, because you’ll see what the theme really turned out to mean.
 
-If you’d like a card that outlasts this year, [your tarot birth card](/blog/tarot-birth-card/) is calculated from the same date and stays with you for life.
+A card that outlasts this year comes from the same date: [your tarot birth card](/blog/tarot-birth-card/), which stays with you for life.

@@ -21,7 +21,7 @@ That's what this place is built around. It's also worth saying what it isn't. Th
 
 ## The Library: a second way into cards you know {#library}
 
-The [Library](/library/) is free and holds everything I teach: colours, the four elements, the numbers up to ten, the two energies (feminine and masculine), astrological modes, and astrology and symbols for those who want them. Each of the 78 cards has its own page, linked to its lenses.
+The [Library](/library/) is free and holds everything I teach: colours, the four elements, the numbers up to ten, the two energies (feminine and masculine), astrological modes, and astrology and symbols for those who want them. All 78 cards are there, one page apiece, each linked to its lenses.
 
 For someone who learnt meanings by heart, the lenses are a second way in. Take the Eight of Swords. You may know it as "trapped". Through the number, eight is control, and a door between what's material and what isn't. Through the element, Air is the mind. Put together, my note reads: shut in by your own thoughts while holding all the keys, free to slip the blindfold whenever you choose.
 
@@ -45,7 +45,7 @@ Sessions work the same way, one to one: an hour by video, you read first, I read
 
 ## Events: where readings happen in the open {#events}
 
-The [events](/events/) are free. At online reading nights, a few people are drawn at random and read one by one in front of the others, with me knowing nothing about them. At in-person meetups, in Paris and the cities Maison Tarot visits, we read, compare and talk. Webinars take one hour on one lens, with questions.
+The [events](/events/) are free. At online reading nights, names are picked at random and those people are read in turn while the rest watch, without my knowing anything about them. At in-person meetups, in Paris and the cities Maison Tarot visits, we read, compare and talk. Webinars spend an hour on a single lens and end with questions.
 
 For a reader, watching teaches as much as reading. You see someone handle a hard card, a miss or a question they don't read on, in real time. And sitting in the other chair now and then reminds you what it feels like to be read. If you're thinking of reading for a group yourself, [what changes when twenty people are watching](/blog/reading-tarot-in-public/) is the companion piece.
 

@@ -17,9 +17,9 @@ Twelve major arcana carry a zodiac sign. On most of them the sign repeats what t
 
 The pairings come from the Golden Dawn, the late-nineteenth-century order that Arthur Edward Waite and Pamela Colman Smith both belonged to. Each sign goes to one major arcanum, and it brings three things at once.
 
-A verb, from my notes: Gemini “I think”, Virgo “I analyse”, Capricorn “I use”. An element: Fire, Water, Air or Earth. And a mode: cardinal signs start things, fixed signs hold on, mutable signs adapt.
+A verb, from my notes: Gemini “I think”, Virgo “I analyse”, Capricorn “I use”. An element: Fire, Water, Air or Earth. And one of three modes — cardinal, fixed or mutable — which the sections below take in turn.
 
-The minor cards from Two to Ten carry a planet in a sign as well. That finer layer has its own article, on [the decans](/blog/decans-tarot/). Here I stay with the majors.
+The minor cards from Two to Ten carry a planet in a sign as well. That finer layer belongs to [the decans](/blog/decans-tarot/); here I stay with the majors.
 
 | Card | Sign | Verb | Element | Mode | What the sign shifts |
 | --- | --- | --- | --- | --- | --- |
@@ -38,7 +38,7 @@ Mutable signs change, but for a purpose: in my notes, Gemini changes to communic
 
 ### The Lovers {#the-lovers}
 
-A man and a woman under an angel: the drawing pulls everyone towards romance. Gemini is an Air sign, and Air is the mind. With the sign, the card moves from the heart to the head: a choice argued out, what is said and by whom. At its best Gemini is the great reporter; at its worst, a game of Chinese whispers. Say someone draws the Lovers about a job offer. With the sign, I’d talk about a decision being discussed, perhaps with someone else, before I’d talk about love.
+A man and a woman under an angel: the drawing pulls everyone towards romance. Gemini is an Air sign, and Air is the mind. With the sign, the card moves from the heart to the head: a choice argued out, what is said and by whom. My notes give Gemini two faces: the reporter who gets the story right, and the rumour that changes a little with each retelling. If the Lovers came out over a job offer, the sign would have me talk about a decision being discussed, perhaps with someone else, before I said a word about love.
 
 ### The Hermit {#the-hermit}
 
@@ -50,7 +50,7 @@ An angel pours water from one cup into another, one foot in a pool. Everything i
 
 ## Two fixed signs: Death and the Star {#fixed}
 
-Fixed signs hold: stable, enduring, and on the other side slow and stubborn. Scorpio holds on to emotional attachments; Aquarius holds on to ideas.
+Fixed signs hold. That makes them steady and durable, and also slow to move and hard to talk round. Scorpio holds on to emotional attachments; Aquarius holds on to ideas.
 
 ### Death {#death}
 
@@ -58,7 +58,7 @@ The rider is a skeleton, a king is already down, and a sun comes up far behind t
 
 ### The Star {#the-star}
 
-A woman kneels by a pool and pours water from two jugs, one into the pool, one onto the land, under a large star. Without the sign: hope, calm after the storm. Aquarius is the water-bearer, and it’s an Air sign, not a Water sign; people mix that up all the time. Its verb is “I know”, though often that means being sure before having checked: the new idea, the start-upper. The water isn’t kept, it’s given. Say someone draws the Star about a project they’ve kept to themselves. With Aquarius, I’d say the next step is showing it to someone.
+A woman kneels by a pool and pours water from two jugs, one into the pool, one onto the land, under a large star. Without the sign: hope, calm after the storm. Aquarius is the water-bearer, and it’s an Air sign, not a Water sign; people mix that up all the time. Its verb is “I know”, though often that means being sure before having checked: the new idea, the start-upper. The water isn’t kept, it’s given. For a project someone has kept to themselves, the Star with Aquarius behind it points to the next step: showing it to someone.
 
 ## One cardinal sign: the Devil {#cardinal}
 
@@ -66,7 +66,7 @@ Cardinal signs start things, and Capricorn starts them pragmatically.
 
 The drawing: a horned figure on a pedestal, a man and a woman chained to it, the chains loose enough to lift off. Without the sign, readers go straight to temptation and something wicked. Capricorn is Earth and “I use”: ambition, structure, work. **With Capricorn, the Devil is rarely about evil and often about something useful that took over.** A job that was a tool and became the master. A salary you organise everything around.
 
-One of the Capricorn archetypes in my notes is Miranda Priestly, and the film is called *The Devil Wears Prada*. I couldn’t have planned it better. Say someone draws the Devil about their career: with the sign, I’d ask what they use that now uses them. The [Devil’s card page](/library/tarot-cards/the-devil/) goes further.
+One of the Capricorn archetypes in my notes is Miranda Priestly, and the film is called *The Devil Wears Prada*. I couldn’t have planned it better. When the Devil comes up in a career question, the sign makes me ask what the person uses that now uses them. The [Devil’s card page](/library/tarot-cards/the-devil/) goes further.
 
 ## Using the sign without letting it take over {#use-it}
 

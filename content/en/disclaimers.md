@@ -35,7 +35,7 @@ This isn’t prudishness. These are the subjects where a card, even well read, c
 
 Let what you feel lead, more than anything said during a reading. A reading is not an instruction; you remain responsible for your choices.
 
-If you catch yourself consulting all the time, that isn’t about tarot, it’s a search for outside validation: [step away from readings for a while](/blog/why-you-should-quit-tarot-reading/), and train the muscle that decides.
+If you catch yourself consulting all the time, the cards have stopped being the point: what you’re after is someone else’s approval. [Step away from readings for a while](/blog/why-you-should-quit-tarot-reading/), and train the muscle that decides.
 
 And if tarot looks evil to you: the evil people find in it is usually the evil they brought with them. A card is a screen; we only fear what we project onto it.
 

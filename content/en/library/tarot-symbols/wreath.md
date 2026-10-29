@@ -77,7 +77,7 @@ When a wreath comes up, something has been achieved, or is about to be recognise
 
 Lenses: [green](/library/tarot-colours/green/), in my grid, is growth and life — the wreath is a victory that’s still alive. Number: the Six of Wands is 6, “3 exalted”: success, triumph, a moment you can rest. [Six’s advice](/library/numerology/number-6/) fits too: when results pour in, stay level-headed and modest. The World is 21, which comes back to 3: the machine running well.
 
-Say someone draws the Six of Wands after months of effort. The wreath confirms the win. The next card says what they do with it.
+Draw the Six of Wands after months of effort, and the wreath confirms the win; the next card shows how the win gets used.
 
 ## The other side {#flip-side}
 

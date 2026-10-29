@@ -62,7 +62,7 @@ And Water seeps. An emotion neglected for years eats at the foundations without 
 
 This card carries [Saturn](/library/astrology/saturn/) in the opening decan of [Pisces](/library/astrology/pisces/), as the Golden Dawn assigned it. Saturn is limits and time; Pisces is Water and belief, what moves under a calm surface. The pair knows when an emotional chapter is over, even when it looks fine from outside.
 
-The walker leaves just as well without a planet. I keep this one anyway, because Saturn was among the placements that held 75 to 90% of the time when I tested astrology box by box.
+The walker leaves just as well without a planet. I keep this one anyway, because Saturn scored between 75 and 90% in my box-by-box test of astrology — one of only three placements that did.
 
 ## In a reading {#reading}
 

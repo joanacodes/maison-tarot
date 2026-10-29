@@ -46,7 +46,7 @@ Searches on the site still turn up listings that call themselves spells. A polic
 
 Because a worry wants a shape. A breakup that won’t settle, money that keeps running out, the sense of being stuck: a spell turns that into something you can do tonight, with a price and a delivery date. It feels like taking back a little control.
 
-That wish deserves to be heard. If someone asks me for a spell, I hear “I’d like this to change, and I don’t know where to start”. I don’t cast spells; I teach tarot. But the question underneath is a good one, and I’ve written about what people are really asking for in [protection spells](/blog/protection-spells/). As for magic, I’d call it [the things we know exist but can’t explain](/blog/what-is-magic/), which is a long way from a checkout page.
+That wish deserves to be heard. If someone asks me for a spell, I hear “I’d like this to change, and I don’t know where to start”. I don’t cast spells; I teach tarot. But the question underneath is a good one, and I’ve written about what people are really asking for in [protection spells](/blog/protection-spells/). As for magic, [my own definition](/blog/what-is-magic/) keeps the word for what we’ve witnessed and can’t yet explain, which is a long way from a checkout page.
 
 ## What helps more {#what-helps}
 
@@ -58,4 +58,4 @@ That wish deserves to be heard. If someone asks me for a spell, I hear “I’d 
 
 ## A question the cards can hold {#next-step}
 
-A reading won’t change anyone’s heart for you. What it can do is look at where you stand. Instead of “Will the spell work?”, try “What would help me feel steadier this month?” And if you’d like to see a reading that costs nothing and promises nothing, come to one of the [free events](/events/).
+A reading won’t change anyone’s heart for you. What it can do is look at where you stand. Instead of “Will the spell work?”, try “What would help me feel steadier this month?” For a reading that costs nothing and promises nothing, there are the [free events](/events/).

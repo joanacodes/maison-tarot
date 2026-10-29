@@ -56,7 +56,7 @@ gallery:
 
 **Nature, growth, birth, life, prosperity.**
 
-## Where the colour appears in the deck {#where}
+## Green underfoot: gardens, vines, hills {#where}
 
 The Empress's wheat, the leaves on the Wands, the Queen of Pentacles' garden, the vines of the Nine and the King of Pentacles, Temperance's hills, the Page of Pentacles' robe. Green is almost always at the figures' feet: it's their ground.
 
@@ -64,11 +64,11 @@ The Empress's wheat, the leaves on the Wands, the Queen of Pentacles' garden, th
 
 ## How to read it {#reading}
 
-Green says **growth, life, prosperity, nature**. A green card is about something that was planted and is giving — or about to. It's the colour of [Earth](/library/four-elements/earth-element/) when it nourishes.
+Green says **growth, life, prosperity, nature**. On a green card, something that was planted is giving — or about to. [Earth](/library/four-elements/earth-element/) turns green when it nourishes.
 
 ## The flip side {#flip-side}
 
-Green's flip side is growth you can't see because it's slow, and envy — jealousy of what grows next door. Little green on a Pentacles card: the value is there, but nothing is growing.
+The trouble with green is growth too slow to see, and envy — jealousy of what grows next door. Little green on a Pentacles card: the value is there, but nothing is growing.
 
 ## With the other lenses {#lenses}
 

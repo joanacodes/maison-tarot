@@ -80,7 +80,7 @@ Next to the [Seven of Wands](/library/tarot-cards/seven-of-wands/), the next ste
 
 ## A reading, as an example {#example}
 
-What would you make of the Six of Wands next to the Four of Cups? Treat it as a practice case. Number: six, then four — success, then a stability that can turn to boredom. Element: Fire, then Water — public recognition, then private feeling. Colours: the green, red and blue of the procession, then a young man under a tree, arms crossed, ignoring the cup a hand holds out to him from a cloud.
+What would you make of the Six of Wands next to the Four of Cups? Treat it as a practice case. Number: six, then four — success, then a stability that can turn to boredom. Element: Fire, then Water — public recognition, then private feeling. Colours: the green, red and blue of the procession, then a young man under a tree, arms crossed, refusing to look at the fourth cup reaching him from a cloud.
 
 The procession and the folded arms come together like this: “You’ve had a success recently, and people noticed. But inside it doesn’t feel the way you imagined — something about it leaves you flat, and you might be missing a new offer because of it.”
 

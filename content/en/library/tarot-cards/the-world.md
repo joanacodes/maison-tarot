@@ -68,7 +68,7 @@ Upright, the World is completion: a cycle closes, a project lands, a stage of li
 
 Reversed, it’s the same completion slowed down: the last few steps you can’t bring yourself to take, the box you won’t tick. Or in excess: celebrating the ending for so long that the next thing never gets to begin.
 
-Next to [the Fool](/library/tarot-cards/the-fool/), who comes after it when the deck starts over, the World says: finished, and ready to set off light. Next to the [Wheel of Fortune](/library/tarot-cards/wheel-of-fortune/), with the same four creatures, it’s the difference between a cycle that turns you and one you’ve completed. Next to the [Three of Cups](/library/tarot-cards/three-of-cups/), another 3, it’s the celebration with the people who helped.
+Next to [the Fool](/library/tarot-cards/the-fool/), who comes after it when the deck starts over, the World says: finished, and ready to set off light. Next to the [Wheel of Fortune](/library/tarot-cards/wheel-of-fortune/), with the same four creatures, it’s the difference between a cycle that turns you and one you’ve completed. Alongside the [Three of Cups](/library/tarot-cards/three-of-cups/), which shares its 3, it’s the celebration with the people who helped.
 
 {{< cards "ar00 ar10 cu03" >}}
 

@@ -53,13 +53,13 @@ The dog is instinct we have domesticated. It’s loyal, it guards, it follows �
 
 An everyday example: you’re about to sign up for something that looks perfect on paper, and something in your stomach tightens. Nothing rational, nothing you could defend in a meeting. That tightening is the dog barking.
 
-## Where it appears in the deck {#where}
+## The Fool’s dog, the Moon’s pair, the family hounds {#where}
 
 Only three cards in the 1909 deck have a dog on them, which makes each one worth a close look.
 
 On the Fool, a small white dog jumps up at the young man’s heels as he walks towards the edge of the cliff. In my notes on the card, the Fool’s minus is naivety, and the dog is the one trying to remind him. He has his nose in the air; the dog is the only one looking at the ground.
 
-On [the Moon](/library/tarot-cards/the-moon/), a dog and a wolf stand on either side of the path, both howling at the sky. The tame animal and the wild one, nearly the same shape, making the same noise. The card doesn’t say which of the two you are tonight.
+On [the Moon](/library/tarot-cards/the-moon/), a dog howls at the sky from one side of the path and a wolf from the other. The tame animal and the wild one, nearly the same shape, making the same noise. The card doesn’t say which of the two you are tonight.
 
 On the Ten of Pentacles, two white hounds stand beside the old man in the foreground, one nosing at his hand. They belong to the household: the dog as part of what a family has built and keeps.
 
@@ -71,13 +71,13 @@ On the Ten of Pentacles, two white hounds stand beside the old man in the foregr
 
 When a dog shows up, ask two things: what is the instinct saying, and is anyone listening? On the Fool, nobody is. On the Moon, everyone is, and loudly. On the Ten of Pentacles, the instinct has settled into habit — the quiet loyalty of people who have been together a long time.
 
-The Fool’s dog and the Ten of Pentacles’ hounds are [white](/library/tarot-colours/white/), which in my colour grid is innocence and peace: a warning given without malice. On a [Water](/library/four-elements/water-element/) card like the Moon, the dog is emotion speaking before thought. On an Earth card like the Ten of Pentacles, it’s the body’s attachment to what feels solid.
+The Fool’s dog and the Ten of Pentacles’ hounds are [white](/library/tarot-colours/white/), the colour of innocence and peace: a warning given without malice. On a [Water](/library/four-elements/water-element/) card like the Moon, the dog is emotion speaking before thought. On an Earth card like the Ten of Pentacles, it’s the body’s attachment to what feels solid.
 
 ## The other side {#flip-side}
 
 A dog can also bark at the postman every single morning. Instinct isn’t always right: sometimes it’s an old fear dressed up as a new warning, or loyalty to something that stopped deserving it a while ago. The Moon shows this well — two animals howling at a light that can’t hear them.
 
-So when the dog takes over a reading, check whether it’s a warning or an echo. Loyalty has its shadow too: staying because you always have. In my notes the Ten of Pentacles’ comfort can be short-lived — and if you leave the cocoon, it will still be there.
+So when the dog takes over a reading, check whether it’s a warning or an echo. Loyalty has its shadow too: staying because you always have. My notes add that the Ten of Pentacles’ comfort can be short-lived — and that stepping out of the cocoon doesn’t make it disappear.
 
 ## With the other lenses {#lenses}
 

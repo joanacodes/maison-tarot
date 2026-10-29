@@ -13,8 +13,8 @@ related:
 - /library/four-elements/air
 - /library/feminine-masculine-energies
 notClaim:
-- Element–suit correspondences are those of the Rider-Waite-Smith tradition.
-- An element tells you what the card is about, not what will happen.
+- Cups as Water is the convention of the 1909 deck every Library page uses, not a universal rule.
+- Water names the plane — feelings, bonds, what has been left to seep — and stops there. No Cup forecasts whether a love will last.
 categories:
 - Elements
 tags:
@@ -56,7 +56,7 @@ The Cups are about all of that: **emotions, relationships, what feeds us from th
 
 Liquid water eventually seeps into any material, given time. Translation: **a neglected emotion can damage the very foundations of who we are** — like a house collapsing because mould has eaten the structure for years without anyone seeing it.
 
-That’s what separates Water from [Fire](/library/four-elements/fire-element/). Fire destroys at once, visibly. Water, badly channelled through neglect, destroys deeper and over longer. When you draw a lot of reversed or heavy Cups, the question isn’t “what disaster is coming” but “what has been leaking for a long time without being fixed”.
+That’s what separates Water from [Fire](/library/four-elements/fire-element/). Fire destroys at once, visibly. Water, badly channelled through neglect, destroys deeper and over longer. A spread crowded with heavy or reversed Cups rarely announces a catastrophe. It points at a feeling that has been dripping for months while nobody fetched a bucket.
 
 ## Keywords
 
@@ -68,7 +68,7 @@ The warm person you feel good around, whose place feels like home. And who, when
 
 ## A reading, as an example
 
-The Five of Cups, for someone who has told you nothing. *Five*: conflict, trial, making do with what’s left. *Water*: emotions, a relationship. You can already say there’s grief over something, and that the attention is on what got spilled rather than what’s still standing. Without having learned the card.
+Lay down the Five of Cups with no story attached: nobody has told you a thing. *Five*: conflict, trial, making do with what’s left. *Water*: emotions, a relationship. You can already say there’s grief over something, and that the attention is on what got spilled rather than what’s still standing. Without having learned the card.
 
 {{< cards "cu05" >}}
 

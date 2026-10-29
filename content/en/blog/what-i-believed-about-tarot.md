@@ -29,13 +29,13 @@ That’s a line from my 2021 notes. With practice, messages had started arriving
 
 The idea underneath it is one I teach. The cards are a medium, something that helps you let go long enough to notice what surrounds you or another person. **What comes, comes from you, not from the cardboard.**
 
-But the same notes give the cards a job, even when the message arrives first. They help you focus, or unfocus, so your own thoughts and biases step aside for a moment. And the person gets something to look at: a picture they can hold my words up against, instead of taking my word for it.
+But the same notes give the cards a job, even when the message arrives first. They give your attention something to settle on, or something to drift from, and for a moment your own thoughts and biases stop leading. And the person gets something to look at: a picture they can hold my words up against, instead of taking my word for it.
 
 If you’re starting out, please don’t read that 2021 sentence as a goal. It describes where a year of reading had taken me, not a level you have to reach before you count as a reader. Most of what you need in your first year is the deck in front of you, and something to look at while you let go.
 
 ## Sage, candles and ‘channelled’ cards {#props}
 
-In 2021 I also sold sage, candles and “channelled” cards. I stopped. Not one of those products made my readings any better.
+Sage, candles, “channelled” cards: in 2021 I sold all three, then stopped, because none of them made my readings any better.
 
 It’s worth seeing why that kind of thing sells so well. A prop promises to do the hard part for you: clear the deck, set the mood, bring the message. But the hard part is the letting go, and nobody can sell you that.
 
@@ -45,7 +45,7 @@ None of this is a judgement on people who like a candle on the table. Light one 
 
 This one comes before the deck. I put on an astrology video to mock it, read my own chart, and it was too precise.
 
-“Too precise” was a feeling, not a result. So I tested my chart box by box, a tick or a cross for each placement, then the charts of family, friends and strangers. Overall, 30–40% held. Saturn, Lilith and Chiron held 75–90%. The [whole test](/blog/i-tested-my-birth-chart/) has its own page.
+“Too precise” was a feeling, not a result. So I tested my chart box by box, a tick or a cross for each placement, then the charts of family, friends and strangers. Overall, 30–40% held. Saturn, Lilith and Chiron held 75–90%. [The whole test](/blog/i-tested-my-birth-chart/) is there for anyone who wants to check my working.
 
 So I moved twice: from mocking astrology to being struck by it, and from being struck by it to counting. **Both first reactions were stronger than the numbers.**
 
@@ -63,4 +63,4 @@ A story like that makes it tempting to treat every miss as a hit running late. I
 
 The surprise. The moment that made me want to teach is still the reason I teach: someone I’m teaching says something true about another person, then stops, amazed that it came from them.
 
-My own first reading, the one I thought I’d need training for, gave me that same surprise. If you’d like to find it for yourself, the [workshops](/workshops/) are three hours, twelve people, and one lens each.
+My own first reading, the one I thought I’d need training for, gave me that same surprise. It’s easier to find in company, and the [workshops](/workshops/) supply it: one lens, three hours, a table of twelve.

@@ -15,8 +15,8 @@ tags:
 - The Hermit
 - birth chart
 h1: Chiron — <em>The Hermit</em>
-lede: Chiron is a small body between Saturn and Uranus, discovered in 1977, named
-  after the centaur who healed others of a wound he couldn't heal in himself.
+lede: Chiron was spotted in 1977, circling the Sun between Saturn and Uranus, and
+  named after the centaur who could heal everyone but himself.
 related:
 - /library/astrology
 - /library/tarot-cards/the-hermit
@@ -25,8 +25,9 @@ related:
 - /library/astrology/chiron
 faq:
 - q: Is Chiron a planet?
-  a: 'A centaur, in the astronomical sense: a small body between Saturn and Uranus.
-    Discovered in 1977, adopted by astrology in the years that followed.'
+  a: 'Not in the usual sense. Astronomers class it as a centaur, one of the small
+    objects whose orbits cross those of the giant planets; Chiron’s runs between Saturn
+    and Uranus. Astrology took it up in the years after its discovery.'
 - q: Why the Hermit?
   a: Because the Hermit doesn't heal his night; he makes a lantern of it. That's the
     definition of Chiron.
@@ -58,7 +59,7 @@ gallery:
 ---
 ## What it does in a chart {#chart}
 
-Chiron is a small body between Saturn and Uranus, discovered in 1977, named after the centaur who healed others of a wound he couldn't heal in himself. In astrology it says exactly that: the wound you circle all your life, and what you become able to heal in others because of it. Sign ruled: no sign — an asteroid.
+Chiron is a small object on an orbit between Saturn and Uranus, discovered in 1977. It takes its name from the centaur who healed others of a wound he couldn't heal in himself. In astrology it says exactly that: the wound you circle all your life, and what you become able to heal in others because of it. Sign ruled: no sign — an asteroid.
 
 ## The cards that carry it {#cards}
 

@@ -57,7 +57,7 @@ gallery:
 
 **Value earned, matter, worked earth.**
 
-## Where the colour appears in the deck {#where}
+## Coins and crowns, ground and wheat {#where}
 
 Every pentacle, the crowns of the Emperor and Justice, the Sun, hair and wheat; and the brown of the ground under the Hermit, the Seven of Pentacles, the Wheel, the mountains behind the Hierophant. Gold is what you have; brown is where you found it.
 
@@ -65,14 +65,14 @@ Every pentacle, the crowns of the Emperor and Justice, the Sun, hair and wheat; 
 
 ## How to read it {#reading}
 
-Gold says **value, success, what shines legitimately**; brown says **work, matter, patience**. Together they're the colour of [Earth](/library/four-elements/earth-element/): what you own because you cultivated it. A gold-and-brown card is about results — real ones, the kind you can count.
+Gold says **value, success, what shines legitimately**; brown says **work, matter, patience**. Together they paint [Earth](/library/four-elements/earth-element/): what you own because you cultivated it. Where they dominate, the card talks results — real ones, the kind you can count.
 
 ## The flip side {#flip-side}
 
-Gold's flip side is greed — the Four of Pentacles clutching its coins — and brown's is heaviness: the earth that sticks to your boots, the Ten of Wands bent double. Too much gold with no green: you have, but nothing grows any more.
+Gold can turn to greed — the Four of Pentacles clutching its coins — and brown to heaviness: the earth that sticks to your boots, the Ten of Wands bent double. Too much gold with no green: you have, but nothing grows any more.
 
 ## With the other lenses {#lenses}
 
-On [the Seven of Pentacles](/library/tarot-cards/seven-of-pentacles/), gold and brown sit on a [7](/library/numerology/number-7/), the step where you look at what you have before deciding what's next. The coins can already be counted, and the brown ground he stands on is the work they cost.
+On [the Seven of Pentacles](/library/tarot-cards/seven-of-pentacles/), gold and brown sit on a [7](/library/numerology/number-7/), the pause for taking stock before the next move. The coins can already be counted, and the brown ground he stands on is the work they cost.
 
 {{% six %}}

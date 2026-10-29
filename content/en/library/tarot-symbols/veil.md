@@ -8,7 +8,7 @@ weight: 12
 categories: ["Symbols"]
 tags: ["tarot symbols", "veil", "High Priestess", "hidden knowledge", "tarot symbolism"]
 h1: "The veil — what is <em>hidden</em>, not lost"
-lede: "A veil doesn’t lock anything away: it hangs in front of something you can almost see. In the Rider-Waite-Smith it marks knowledge that exists and isn’t handed over yet — the High Priestess’s secret, the cup nobody has uncovered."
+lede: "A veil doesn’t lock anything away: it hangs in front of something you can almost see. Here it marks knowledge that exists and isn’t handed over yet — the High Priestess’s secret, the cup nobody has uncovered."
 related:
 - /library/tarot-symbols
 - /library/tarot-cards/the-high-priestess
@@ -53,7 +53,7 @@ A veil is a thin cloth hung in front of something. It doesn’t lock it away; it
 
 In a reading, it’s the knowledge that exists but hasn’t been handed over: a secret, an intuition you haven’t put into words, a part of the story the person isn’t ready to look at.
 
-## Where it appears in the deck {#where}
+## Behind a priestess, inside a cup, below a row of cups {#where}
 
 The High Priestess sits in front of a veil hung between two [pillars](/library/tarot-symbols/pillars/), printed with palm leaves and pomegranates. A long blue mantle also falls from her crown over her head. Two veils, then: one behind her, one on her.
 
@@ -73,9 +73,9 @@ The Queen of Pentacles wears a green veil falling from her crown down her back: 
 
 A veil asks for patience, not force. When it comes up, I don’t try to name what’s behind it. I say that something is behind it, and let the person decide whether they want to look.
 
-Its colour tells you what kind of hiding it is. Blue, on the High Priestess and the Nine of Cups, is emotion and water in [my colour grid](/library/tarot-colours/blue/): a feeling held back. Purple, on Justice, is “the one chosen by a group”: an office, a role. White, on the Seven of Cups, is innocence — a choice that looks pure because you can’t see it. The High Priestess is a [Water](/library/four-elements/water-element/) card, and still water hides its depth the same way.
+Its colour tells you what kind of hiding it is. Blue, on the High Priestess and the Nine of Cups, is [emotion and water](/library/tarot-colours/blue/): a feeling held back. Purple, on Justice, is authority others have conferred — a post, a mandate. White, on the Seven of Cups, is innocence — a choice that looks pure because you can’t see it. The High Priestess is a [Water](/library/four-elements/water-element/) card, and still water hides its depth the same way.
 
-Say someone draws the Seven of Cups when they’re torn between offers. The veiled cup is worth a question: which option are you refusing to look at properly?
+When the Seven of Cups comes up for someone torn between offers, the veiled cup is worth a question: which option are you refusing to look at properly?
 
 ## The other side {#flip-side}
 

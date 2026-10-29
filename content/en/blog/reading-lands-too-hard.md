@@ -39,7 +39,7 @@ Lower your voice. Put the cards down for a moment. Then go back to the card, slo
 
 Take the Five of Cups again. The keyword was loss. Through its number, the card gets wider: five, in my [number table](/library/numerology/number-5/), covers conflict and attempts, daring to fail, owning your mistakes, getting by on what remains. Then the picture: a figure in a dark cloak looking down at three spilled cups, and behind them two still standing, and a bridge over the river. The slower version: "You're looking at what spilled. Behind you, two are still standing, and there's a way across. Which would you like to look at first?" Same card, same truth, with a door in it.
 
-Or the Nine of Swords: a figure sitting up in bed, face in hands, nine swords lined up in the dark behind. Heard alone, it's a nightmare. My note reads it as surfacing from the nightmare rather than being stuck in it: a troubled season closing, with something guarding you from above. That isn't sugar. It's the half of the card you hadn't said yet.
+Or the Nine of Swords: a figure sitting up in bed, face in hands, the darkness behind striped with blades. Heard alone, it's a nightmare. My note reads it as surfacing from the nightmare rather than being stuck in it: a troubled season closing, with something guarding you from above. That isn't sugar. It's the half of the card you hadn't said yet.
 
 {{< cards "sw09" >}}
 
@@ -55,7 +55,7 @@ If they look ready to carry your sentence home as an instruction, say out loud t
 
 ## When it's bigger than the card {#bigger-than-the-card}
 
-Sometimes a card lands hard because it touched something the person has carried for a long time. No better sentence repairs that, and it isn't a reader's to repair. Say once, kindly, that it deserves more time than a reading can give, and leave it there: it's the same door as for tears that go deeper than the card. The words I use and who to suggest are in [how to point someone elsewhere kindly](/blog/client-boundaries-tarot/), and [where my role ends](/disclaimers/#therapy) is written down for the same reason.
+Sometimes a card lands hard because it touched something the person has carried for a long time. No better sentence repairs that, and it isn't a reader's to repair. Say once, kindly, that a weight that old needs more than a reading can offer, and leave it there: it's the same door as for tears that go deeper than the card. The words I use and who to suggest are in [how to point someone elsewhere kindly](/blog/client-boundaries-tarot/), and [where my role ends](/disclaimers/#therapy) is written down for the same reason.
 
 ## After a hard landing {#after}
 

@@ -8,7 +8,7 @@ weight: 24
 categories: ["Symbols"]
 tags: ["tarot symbols", "sunflower", "The Sun", "Queen of Wands", "tarot symbolism"]
 h1: "The sunflower — joy that <em>faces</em> outwards"
-lede: "A sunflower is named after the sun and grows towards it, and it’s hard to look at one without smiling. In the Rider-Waite-Smith it appears on two cards only, both Fire: over the wall behind the child on the Sun, and in the hand of the Queen of Wands."
+lede: "A sunflower is named after the sun and grows towards it, and it’s hard to look at one without smiling. The deck gives it to two cards only, both Fire: over the wall behind the child on the Sun, and in the hand of the Queen of Wands."
 related:
 - /library/tarot-symbols
 - /library/tarot-cards/queen-of-wands
@@ -53,11 +53,11 @@ A sunflower is a big yellow face on a tall stem, turned towards the light. It’
 
 Where the rose is desire and the lily is clarity, the sunflower is plain happiness, with no secret behind it.
 
-## Where it appears in the deck {#where}
+## A row on a wall, one in a queen’s hand {#where}
 
 Only two cards in the 1909 deck have sunflowers, and both are Fire.
 
-On the Sun, a row of sunflowers grows over the grey wall behind the child on the white horse. Their heads face out of the card, towards us, rather than up at the sun in the sky. Joy turned towards the people looking at it. [The sun as a symbol](/library/tarot-symbols/sun/) has its own page.
+On the Sun, a row of sunflowers grows over the grey wall behind the child on the white horse. Their heads face out of the card, towards us, rather than up at the sun in the sky. Joy turned towards the people looking at it, while [the sun itself](/library/tarot-symbols/sun/) stays above.
 
 On [the Queen of Wands](/library/tarot-cards/queen-of-wands/), the Queen holds a sunflower in her left hand and her staff in her right. More flowers with dark centres, usually read as sunflowers, are worked into the back of her throne on either side of her head, beside two red lions. A black cat sits at her feet.
 
@@ -71,13 +71,13 @@ That’s a short list, and it’s worth noticing. The deck keeps the sunflower f
 
 When a sunflower comes up, look at who is showing what. On the Sun, it’s joy without effort: nothing held, nothing hidden. On the Queen of Wands, it’s joy held in the hand — warmth she decides to offer, next to the staff she leads with.
 
-Lenses: [yellow](/library/tarot-colours/yellow/), in my grid, is joy, optimism, pride, the inner child and self-expression. The element is [Fire](/library/four-elements/fire-element/): passion, the energy that gets you moving. Together, the sunflower is confidence that warms the people around it rather than burning them.
+Lenses: [yellow](/library/tarot-colours/yellow/) carries joy, optimism, pride, the inner child and self-expression. The element is [Fire](/library/four-elements/fire-element/): passion, the energy that gets you moving. Together, the sunflower is confidence that warms the people around it rather than burning them.
 
-Say someone draws the Queen of Wands the day before a presentation they’ve been dreading. The sunflower in her hand might say: you know your subject, and the room will follow your warmth more than your slides.
+Hand the Queen of Wands to someone the day before a presentation they dread, and her sunflower would say: you know your subject, and the room will follow your warmth more than your slides.
 
 ## The other side {#flip-side}
 
-Yellow is also pride in my grid. A sunflower can be the person who needs the light on them all the time, who turns every conversation back to their good news. Joy that has to be watched stops being joy.
+Yellow also carries pride. A sunflower can be the person who needs the light on them all the time, who turns every conversation back to their good news. Joy that has to be watched stops being joy.
 
 And a flower that only faces the light has a side it never looks at. Next to heavy cards, the sunflower can be cheerfulness used to avoid a problem.
 

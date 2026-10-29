@@ -48,7 +48,7 @@ The [number 2](/library/numerology/number-2/) is the alliance: two parties, a bo
 
 ## By element: Water {#element}
 
-The High Priestess is a [Water](/library/four-elements/water-element/) card: emotions, relationships, hidden strengths. The moon on her head and at her feet is what moves water.
+Her element is [Water](/library/four-elements/water-element/): feeling, the bonds between people, the strengths nobody sees. The moon on her head and at her feet is what moves water.
 
 But this is calm water. Moving water is strong emotion. Hers has settled, and it hides what lies under its surface. In my notes, water seeps into anything with time: a feeling nobody looks at can damage the foundations, slowly, like mould eating a house. That is this card’s minus. Still waters run deep, and sometimes they stagnate.
 

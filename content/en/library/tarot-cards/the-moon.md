@@ -29,7 +29,7 @@ faq:
 - q: 'What does The Moon mean in love?'
   a: 'In love, the Moon often points to what isn’t said yet, on either side, and to the stories you tell yourself in the gaps. It asks for patience and plain questions rather than conclusions.'
 - q: 'What does The Moon mean for my career?'
-  a: 'Uncertainty at work: a rumour, an interview with no answer yet, a role nobody has quite defined. It asks you not to decide in the fog, and to check what you actually know.'
+  a: 'Uncertainty at work: a rumour, an interview with no answer yet, a role nobody has quite defined. Its advice: hold off on decisions while the fog lasts, and check what you actually know.'
 categories:
 - Major arcana
 tags:
@@ -84,7 +84,7 @@ Sometimes it’s intuition, and you sense a change before it’s announced. The 
 
 Reversed at work, the fog lifts: the announcement comes, the role gets a brief, the answer arrives — not always the one you wanted, but a real one you can work with.
 
-The Moon attracts two questions: “Will I get the job?” and “Is something going on behind my back?” Both come from waiting without information, one of the hardest things to do well. I don’t read on what a recruiter or a colleague thinks: they aren’t in the room, and I read the person in front of me. As for “When will I hear back?”, [timing is the weak spot of any reading](/blog/tarot-timing/), and a wrong “yes, next week” would cost you a week of hope. A kinder question: “What do I actually know, and what am I imagining?”
+The Moon attracts two questions: “Will I get the job?” and “Is something going on behind my back?” Both come from waiting without information, one of the hardest things to do well. I don’t read on what a recruiter or a colleague thinks: they aren’t in the room, and I read the person in front of me. As for “When will I hear back?”, [timing is the weak spot of any reading](/blog/tarot-timing/), and a wrong “yes, next week” would cost you a week of hope. Under this card, a more useful thing to ask is: “What do I actually know, and what am I imagining?”
 
 This week, draw two columns: what I know, what I’m imagining. Most of the weight is usually in the second. Then ask one plain question of the person who can answer it — “Is my role changing?” or “When do you expect to decide?” — and leave the 3 a.m. thoughts until morning: no emails, plans or resignations at that hour.
 

@@ -72,7 +72,7 @@ An extra lens: it adds warmth to the card’s Fire, and the number and the yello
 
 Upright, the Four of Wands is a stable, happy moment: a home that finally feels like one, a move, an engagement, a wedding, a reunion, the end of a building stage that deserves a party. **The Four of Wands celebrates what you’ve built — and reminds you that the people under the garland matter more than the walls.**
 
-People sometimes hope this card announces a wedding or a baby, and it’s a lovely thing to hope for. I don’t read it that way: a card doesn’t give dates, and pregnancy is a question I leave to doctors, because a wrong word there can hurt. What the card does show is the wish for a home and the warmth around it.
+People sometimes hope this card announces a wedding or a baby, and it’s a lovely thing to hope for. I don’t read it that way: a card doesn’t give dates, and pregnancy is a question I leave to doctors, because on that subject a careless word can wound. What the card does show is the wish for a home and the warmth around it.
 
 Reversed, the celebration doesn’t happen, or happens without joy: the house that doesn’t feel like home, a wedding planned to please others, a family event where everyone is tense. Or the 4 in excess — clinging to the structure, refusing to move or to let someone new in.
 

@@ -37,7 +37,7 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-A king sits on a dark throne carved with bulls’ heads — two at the top of the back, more lower down on the sides. His robe is dark and covered with vine leaves and bunches of grapes, so that he seems to grow out of the garden around him. In his right hand he holds a sceptre topped with a golden orb; his left hand rests on a pentacle balanced on his knee. He wears a crown wreathed with red flowers, and a red hood around his face.
+A king sits on a dark throne carved with bulls’ heads — two at the top of the back, more lower down on the sides. His robe is dark and covered with vine leaves and bunches of grapes, so that he seems to grow out of the garden around him. His right hand grips a sceptre topped with a golden orb; his left rests on a pentacle balanced on his knee. He wears a crown wreathed with red flowers, and a red hood around his face.
 
 Under the hem of the robe, one foot shows in armour. Behind him, a low wall and, on the right, a castle with towers. Vines climb on the left; small red flowers grow in the bottom corner. The sky is yellow.
 

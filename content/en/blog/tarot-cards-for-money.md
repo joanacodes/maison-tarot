@@ -33,13 +33,13 @@ In my notes, Earth is whatever has value *for you* — money, or something senti
 
 So a Pentacle card isn’t always about a payslip. The [Ten of Pentacles](/library/tarot-cards/ten-of-pentacles/) can be a grandmother’s house full of people on a Sunday; it may not last, and it will still be there if you leave the cocoon. A Nine can be a garden you finally have time for. Even the Five, the hardest card of the suit, is in my notes poverty and snow *and* the church window where warmth could be found: at its lowest, Earth still points to the help nearby.
 
-Say someone draws the Four of Pentacles. Before I talk about money, I ask myself what this man is holding so tight. It might be savings. It might be a job he’s afraid to leave, or his time, or his privacy. The person in front of me will know which.
+When the Four of Pentacles comes up, I ask myself, before I mention money, what this man is holding so tight. It might be savings. It might be a job he’s afraid to leave, or his time, or his privacy. The person in front of me will know which.
 
 ## Why your money decisions stay yours {#decisions-stay-yours}
 
 People ask about money because it keeps them up at night: the rent, a debt, a job offer, an investment a friend swears by. That worry is real and I don’t take it lightly.
 
-But a card can’t see a contract, an interest rate or a market. My notebook shows misses too, about a tenth of my readings: fine when we’re talking about how you feel, not fine when it’s your savings. A “yes” from the deck can also feel like permission, and that’s a weight a card shouldn’t carry — it’s why money decisions are on my list of [what I don’t read](/disclaimers/#refusals).
+But a card can’t see a contract, an interest rate or a market. My notebook shows misses too, about a tenth of my readings: fine when we’re talking about how you feel, not fine when it’s your savings. A “yes” from the deck can also feel like permission, and that’s a weight a card shouldn’t carry — it’s why money decisions sit among [the subjects I leave to others](/disclaimers/#refusals).
 
 For the decision itself: an accountant, an independent financial adviser, your bank, or a free debt advice service if things are tight. For the worry around it, the cards can help with gentler questions:
 
@@ -62,4 +62,4 @@ Say the Eight of Pentacles comes up next to the Ten of Wands: skill and effort, 
 
 Take the fourteen Pentacles out of your deck and draw one each morning with a single question: what has value for me today? Write the answer in a line. By the end of the week you’ll notice how few of the answers were about money.
 
-If you’d like to go further with the elements, the [workshops](/workshops/) give one lens three full hours.
+The elements reward a longer look: each [workshop](/workshops/) gives one lens three full hours.

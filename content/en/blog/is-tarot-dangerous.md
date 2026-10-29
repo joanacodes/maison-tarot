@@ -37,18 +37,18 @@ Some sitters return every week with an identical question, driven less by curios
 
 The signs are worth knowing, for yourself as much as for anyone you read for:
 
-- You’ve asked the cards the same question more than twice this month.
+- The same worry has had three or more spreads this month.
 - You felt worse after the last reading, and wanted another one anyway.
 - There’s a decision you could make today, and you’re waiting for a card to make it for you.
 - You pull cards for yourself many times a day, looking for reassurance.
 
-When I see this, I usually suggest we don’t read. Not as a judgement: another reading only gives them ten more minutes of not deciding.
+When I see this, I usually suggest we don’t read. Not as a judgement: one more spread would only push the decision back another few minutes.
 
 What helps: a month with the cards out of reach, and the first small step of the decision taken without asking anything. I go into it in [the case for setting readings aside](/blog/why-you-should-quit-tarot-reading/). If the doubt doesn’t ease once the cards are away, that isn’t about tarot, and [a therapist can help where a deck can’t](/disclaimers/#therapy).
 
 ## 3. When a card is treated as an authority {#authority}
 
-Say someone draws the Tower about their job and hands in their notice the next morning. Or draws Death about a relationship and ends it that night.
+Imagine the Tower turning up in a question about work, and a resignation handed in the next morning. Or Death, drawn about a relationship, and a break-up that same night.
 
 {{< cards "ar13 ar16" >}}
 

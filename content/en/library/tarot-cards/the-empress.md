@@ -88,7 +88,7 @@ Say someone runs a small ceramics studio and draws the Empress. The card doesn�
 
 Reversed at work, she smothers or runs dry: the team so well protected that nobody can decide without you, or the person who has fed everyone and has nothing left. If that exhaustion has reached your body, it’s one for a doctor before it’s one for the cards.
 
-“Will my project succeed?” comes in many forms: will the business hold, will the book sell? It makes sense; you’ve put yourself into it. But I don’t read on money or sales ([here’s that list, and my reasons](/disclaimers/#refusals)). A forecast belongs to real numbers and someone who knows how to read them, such as an accountant. A card that promised success could push you to invest more than you can afford; one that predicted failure could make you drop something that only needed another season. A kinder question: “What does this project need from me this month, and what can it do without?”
+“Will my project succeed?” comes in many forms: will the business hold, will the book sell? It makes sense; you’ve put yourself into it. But I don’t read on money or sales ([here’s that list, and my reasons](/disclaimers/#refusals)). A forecast belongs to real numbers and someone who knows how to read them, such as an accountant. A card that promised success could push you to invest more than you can afford; one that predicted failure could make you drop something that only needed another season. Ask it the way the Empress tends a garden: “What does this project need from me this month, and what can it do without?”
 
 This week, hand one task to someone else and keep one evening for yourself.
 

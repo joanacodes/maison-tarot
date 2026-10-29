@@ -38,13 +38,13 @@ That’s why “I don’t date Scorpios” doesn’t hold up. It judges a whole 
 
 ## What I found when I tested my own chart {#what-i-found}
 
-I came to astrology to mock it. I put on a video to laugh, read my own chart, and it was too precise to laugh at. So I went through it placement by placement, marking each one right or wrong, then repeated the exercise with family, friends and strangers.
+My own way in was a joke that backfired: an astrology video put on for a laugh, then my own chart, which described me far too accurately to be funny. So I went through it placement by placement, marking each one right or wrong, then repeated the exercise with family, friends and strangers.
 
 My overall score came to 30 to 40%; three placements stood well above it, with Saturn, Lilith and Chiron scoring 75 to 90%. The method and the full tally are in [my birth chart experiment](/blog/i-tested-my-birth-chart/).
 
 What that means here: a sign description is right roughly a third of the time. That’s enough to be interesting. It isn’t enough to excuse yourself, and it’s certainly not enough to rule someone out.
 
-And since Scorpio is in the title: in my notes, its verb is “I desire”. It’s a fixed sign — stable, enduring, and on the other side slow to let go, especially of emotional attachments. Its archetype is the silent guest everyone at the party ends up watching. There’s more on [the Scorpio page of the Library](/library/astrology/scorpio/). In tarot, Scorpio’s card is Death, which in my notes isn’t about dying: it’s the harvest, starting again, making life fertile once more.
+And since Scorpio is in the title: in my notes, its verb is “I desire”. It’s a fixed sign — stable, enduring, and on the other side slow to let go, especially of emotional attachments. Its archetype is the silent guest everyone at the party ends up watching. There’s more on [the Scorpio page of the Library](/library/astrology/scorpio/). In tarot, Scorpio’s card is Death — in my notes, a card of harvest and starting over, of making life fertile once more, rather than of dying.
 
 {{< cards "ar13" >}}
 

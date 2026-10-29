@@ -31,7 +31,7 @@ One habit to keep: check what it says against the card in your hand. A fluent an
 
 At the reading. Whatever reaches a person as their reading should have come from you, looking at their cards.
 
-The reasons are set out in [AI tarot vs a human reader](/blog/ai-tarot-vs-human/), and they come down to three. A model has to be told something, while my method rests on [the person telling me nothing](/blog/the-silence-rule/). It hedges until it can’t miss, while I count my misses, about one reading in ten. And it explains cards one at a time, when the relations between them carry most of a reading. If you’d rather see that than take my word for it, [test it the way I test myself](/blog/is-ai-tarot-accurate/).
+The reasons are set out in [AI tarot vs a human reader](/blog/ai-tarot-vs-human/), and they come down to three. A model has to be told something, while my method rests on [the person telling me nothing](/blog/the-silence-rule/). It hedges until it can’t miss, while my notebook records mine: roughly one reading in ten. And it explains cards one at a time, when the relations between them carry most of a reading. If you’d rather see that than take my word for it, [test it the way I test myself](/blog/is-ai-tarot-accurate/).
 
 I’d add a reason of my own. In my notes, a picture never means one fixed thing: it shifts with the person looking and with the day. A dictionary gives the same entry every time; that’s its job. It’s also exactly why it can’t be the reading.
 

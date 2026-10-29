@@ -23,16 +23,16 @@ Ask ten readers and you’ll get ten lists, but these four turn up on most of th
 |---|---|---|---|---|
 | The Sun | 19 → 10 | Fire | joy you can show | joy that has to be shown |
 | The Star | 17 → 8 | Air | hope you choose | hope poured out for everyone but you |
-| Ten of Cups | 10 | Water | happiness shared at home | the family photo kept up for others |
+| Ten of Cups | 10 | Water | happiness shared at home | happiness staged for visitors |
 | Nine of Pentacles | 9 | Earth | enjoying what you have | enjoying it behind a wall |
 
 Look at the numbers. Three of the four sit at the end of a cycle: 9 is the finish line, [10 the transition between two stages](/library/numerology/number-10/). In my notes, 10 is the corridor between two rooms, and its minus is that it can be short-lived. Tarot puts happiness after an effort, not before it, and it doesn’t pretend it stays. **The happiest cards are real, and they are moments.**
 
 ## The Sun: joy you can show {#the-sun}
 
-A naked child rides a white horse under a huge sun with a face, arms wide open, a red banner streaming beside them. Behind, a grey wall and a row of sunflowers. No saddle, no reins, no clothes: joy with nothing to hide and nothing to grip. Fire at its kindest — it warms, it lights, it gets you moving.
+Under a beaming sun, a bare child sits a white horse with arms thrown open, a red banner flying, sunflowers peering over the wall behind. No saddle or reins, no clothes: a happiness that conceals nothing and holds on to nothing. Fire at its kindest — it warms, it lights, it gets you moving.
 
-Its other side is the same light pointed outwards too long. Joy that has to be shown all the time gets tiring: the good mood performed instead of felt, the celebration posted before the work is done. And a 10 closes a chapter; it doesn’t freeze it. Every lens, and the Sun at work, are on [the Sun’s own page](/library/tarot-cards/the-sun/).
+Its other side is the same light pointed outwards too long. Cheerfulness kept on display wears you out: the good mood performed instead of felt, the celebration posted while the work is still half done. And a 10 closes a chapter; it doesn’t freeze it. Every lens, and the Sun at work, are on [the Sun’s own page](/library/tarot-cards/the-sun/).
 
 ## The Star: hope after a hard time {#the-star}
 
@@ -42,11 +42,11 @@ Its other side lives in the jugs. Sometimes she pours everything onto other peop
 
 ## The Ten of Cups: happiness at home {#ten-of-cups}
 
-A couple under a rainbow of ten cups, arms raised, while two children dance beside them; a river, green land, a house. My own note for this card is short: happiness, family. The detail I love is that the children aren’t looking at the rainbow. They’re happy without needing a sign.
+Ten cups arc across a rainbow above a couple, their free arms lifted; two children dance at their side, and beyond lie a river, green fields and a house. My notes give it two words: happiness, family. The detail I love is the children, too busy dancing to look up: happy without needing a sign.
 
-Its other side: the family photo kept up for others, everyone smiling at the sky and nobody talking. Or waiting for the perfect picture before allowing yourself to enjoy the one you have. A rainbow is the most fleeting thing in the sky, which is a reason to live the moment, not to distrust it. Some people hope this card announces a baby; that’s a question for a doctor rather than a deck, and [the Ten of Cups’ page](/library/tarot-cards/ten-of-cups/) explains what the card can hold instead.
+Its other side is happiness staged for an audience: a family posing under the rainbow with nobody actually talking. Or holding out for the flawless picture before letting yourself enjoy the one you have. Rainbows never last, which is a reason to live the moment, not to distrust it. Some people hope this card means a baby is coming; that’s a question for a doctor rather than a deck, and [the Ten of Cups’ page](/library/tarot-cards/ten-of-cups/) explains what the card can hold instead.
 
-The Nine of Pentacles completes the four: a woman alone in her vineyard, a hooded falcon on her glove — in my notes, enjoying what comes, gratitude for everything you have. Its other side is comfort that hardens into “I don’t need anyone”.
+The Nine of Pentacles completes the four: a woman on her own among the vines, a hooded bird of prey resting on her glove — in my notes, savouring whatever comes her way and being thankful for all she has. Its other side is comfort that hardens into “I don’t need anyone”.
 
 ## When a happy card comes up on a hard day {#hard-day}
 

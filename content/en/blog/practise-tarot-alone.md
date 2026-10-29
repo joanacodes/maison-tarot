@@ -51,7 +51,7 @@ Ask about today, not about the big decisions. Tarot isn’t an authority: if you
 
 Don’t draw again because you didn’t like the answer. The second card is a negotiation, not a reading.
 
-And don’t pull twenty times a day. If you catch yourself reaching for the deck every hour, it’s no longer practice; it’s a search for reassurance.
+And keep the draws few. Once your hand goes to the deck every hour, it’s no longer practice; it’s a search for reassurance.
 
 ## Keep a notebook, even with nobody to check {#notebook}
 
@@ -63,4 +63,4 @@ It won’t prove anything; you know your own life too well for that. What it sho
 
 Alone, you’ll never hear “how did you know that?” — because you knew. The real check is someone who tells you nothing and confirms or not afterwards. That’s the only moment that shows you whether you were reading or remembering.
 
-So practise alone for as long as you like, and when you’re ready, find a person. I’ve gathered the places I found mine in [where to find people to read for](/blog/where-to-find-people-to-read-for/). And if you’d like a room full of people who also want to practise, the [free events](/events/) are a good first step.
+So practise alone for as long as you like, and when you’re ready, find a person. I’ve gathered the places I found mine in [where to find people to read for](/blog/where-to-find-people-to-read-for/). And for a room full of people keen to practise too, the [free events](/events/) are a good first step.

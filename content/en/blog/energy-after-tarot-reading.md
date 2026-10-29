@@ -9,7 +9,7 @@ tags: ["drained after tarot reading", "tired after reading tarot", "tarot reader
 image: "covers/energy-after-tarot-reading.jpg"
 imageAlt: "A glass of water and a closed deck of cards on a bedside table, next to a bed with the covers turned back"
 imagePrompt: "A glass of water and a closed tarot deck on a bedside table beside a bed with the covers turned back. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Yes, a tarot reading can leave you tired, and it isn’t in your head. Interpreting takes energy: you hold your focus on one person, you feel their emotions while keeping your own, and online you add a screen and nerves. What helps is ordinary: sleep, water, food, a walk, a pause between readings, and a limit you set before you start. I sometimes stop after two hours of readings, out of caution. If the tiredness doesn’t pass after rest, it isn’t a tarot question any more, and a doctor is the right person to see."
+summary: "Yes, a tarot reading can leave you tired, and it isn’t in your head. Interpreting takes energy: you hold your focus on one person, you feel their emotions while keeping your own, and online you add a screen and nerves. What helps is ordinary: sleep, water, food, a walk, a pause between readings, and a limit you set before you start. I sometimes stop after two hours of readings, out of caution. If rest doesn’t lift the tiredness, it has stopped being a tarot question: see a doctor."
 ---
 Feeling tired after a tarot reading is normal. Interpreting takes energy, and after a long evening of cards your body says so. Listen to it and rest: sleep first, then everything else.
 
@@ -21,7 +21,7 @@ Because reading is work. You hold your attention on one person, one card and wha
 
 Then there are the other person’s emotions. In my notes, empathy means feeling and understanding someone’s emotions **while keeping your own**. Very empathic readers can end up feeling the other person’s emotions, sometimes even expressing them. Say someone sits down carrying a heavy week and the Five of Cups comes up: you may feel the weight of it in your chest for a moment. Feeling it is part of reading. Carrying it home isn’t.
 
-And there are the practical things nobody counts. A screen, a headset, a chair you haven’t left in two hours, a glass of water you poured and forgot. Most of my readings for strangers were online, so I know that evening well.
+And there are the practical things nobody counts. A screen, a headset, a chair you haven’t left in two hours, a glass of water you poured and forgot. Most of the strangers I read for were on the other side of a screen, so I know that evening well.
 
 ## What I felt, and why I stop after two hours {#two-hours}
 

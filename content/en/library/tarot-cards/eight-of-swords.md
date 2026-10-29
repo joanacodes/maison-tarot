@@ -80,4 +80,4 @@ Consider an imaginary reading in which the Eight of Swords comes up beside the [
 
 From the blindfold to the coin held up, my words would be: “You feel stuck where you are, and you tell yourself you don’t know enough to leave. You know more than you think, and what gets you out is learning one practical thing.”
 
-Then ask: “Is there a place in your life where you feel you can’t move right now?” A yes opens the next question — what do they think they’re missing? A no is a miss; write it down as one.
+Then ask: “Do you feel stuck somewhere in your life at the moment, unable to move?” A yes opens the next question — what do they think they’re missing? A no is a miss; write it down as one.

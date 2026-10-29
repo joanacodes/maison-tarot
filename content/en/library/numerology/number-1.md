@@ -92,7 +92,7 @@ You already know they're about a beginning; the [element](/library/four-elements
 - [Ace of Wands](/library/tarot-cards/ace-of-wands/) — 1 + Fire: an urge, a drive, an idea that's growing.
 - [Ace of Cups](/library/tarot-cards/ace-of-cups/) — 1 + Water: a new feeling, a relationship starting, a heart opening again.
 - [Ace of Swords](/library/tarot-cards/ace-of-swords/) — 1 + Air: a clear idea, a decision that just landed, a truth breaking through.
-- [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/) — 1 + Earth: a concrete opportunity, money arriving, a project that finally has a base.
+- [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/) — 1 + Earth: a concrete opportunity, money coming in, a project that at last stands on something solid.
 
 {{< cards "ar01 waac cuac swac peac" >}}
 

@@ -17,7 +17,7 @@ In love, the Magician is the first move — the message, the invitation, the con
 
 ## Four tools on the table, and a 1 {#four-tools}
 
-In my notes, the Magician is the card of the four elements, plus the ether that links them: he knows how to do everything, and he stays anchored. In love, the four tools are four things you bring. Desire, the wand. Feeling, the cup. The words to say it, the sword. And the plain care of turning up when you said you would, the pentacle. Having all four on the table at once is rarer than it sounds.
+My notes give him the four elements, with the ether binding them together; he can turn his hand to anything, and his feet stay on the ground. In love, the four tools are four things you bring. Desire, the wand. Feeling, the cup. The words to say it, the sword. And the plain care of turning up when you said you would, the pentacle. Having all four on the table at once is rarer than it sounds.
 
 His number is 1: the initiator, the raw diamond. Its advice is humility, the readiness to learn, and its minus is forgetting that learning never ends. With someone new, you’re a beginner again, however many relationships you’ve had.
 
@@ -39,7 +39,7 @@ That’s the question the Magician brings: should I make the first move, and do 
 
 The second half of that question is one I leave out of the cards. They aren’t in the room, their heart belongs to them, and a card that said “yes, they do” might send you in with a script instead of yourself. I’ve written about [reading tarot about someone else](/blog/reading-tarot-about-someone-else/), and why I’d rather not. What the Magician says, more plainly than any other card, is that everything on his table is already yours.
 
-A kinder question: “What do I want to say, and would I mean it whatever the answer?” If the second half is a yes, you have your first move.
+The question worth bringing to his table is yours alone: “What do I want to say, and would I mean it whatever the answer?” If the second half is a yes, you have your first move.
 
 ## Charm that says all the right things {#charm}
 

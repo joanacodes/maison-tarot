@@ -43,7 +43,7 @@ The Visconti-Sforza deck is the most complete of all, and it is linked to France
 
 The Morgan catalogues two of its trumps as *Love* and *Time*; you know them as the Lovers and the Hermit. The figures were there; the meanings were not yet fixed.
 
-This year the Morgan gave the first half of its exhibition *Tarot! Renaissance Symbols, Modern Visions*, which closed on 4 October 2026, to these three Milanese decks.
+This year the Morgan devoted the first half of its tarot exhibition, which closed on 4 October 2026, to these three Milanese decks.
 
 ## Not every “tarocchi” is a tarot {#mantegna}
 

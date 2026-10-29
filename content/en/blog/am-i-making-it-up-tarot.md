@@ -34,15 +34,15 @@ Real invention, the kind worth worrying about, comes from wanting to be right. Y
 You can't feel the difference, but you can check four things.
 
 1. Did you know anything beforehand? If the person told you their question, everything you said may be a rewording of it. That's why I start without hearing a word about their situation: [the silence rule](/blog/the-silence-rule/) exists to answer exactly this.
-2. Could it be true of anyone? "You've been through changes lately" fits everybody alive. The Barnum effect is our tendency to accept a vague, general statement as a precise description of ourselves, and it's [the most common way of making things up without noticing](/blog/barnum-effect-tarot/).
+2. Could it be true of anyone? "You've been through changes lately" fits everybody alive. Mistaking a sentence that fits everyone for one written about you is called the Barnum effect, and it's [the most common way of making things up without noticing](/blog/barnum-effect-tarot/).
 3. Did you adjust as you went? If you watched their face and bent the reading towards every nod, you were reading their face.
 4. Did it surprise you? The details worth noticing are often the ones you'd never have chosen: too specific, too odd or too unflattering to invent to please someone.
 
-Say you draw the Eight of Swords: a figure bound and blindfolded, swords all around, the way out open behind her. "You feel a bit stuck" is true of most people on most days. "You're waiting for permission you already have" could be wrong — and that's what makes it worth saying, and worth checking.
+Turn over the Eight of Swords — blindfold, loose ropes, blades planted all round. "You feel a bit stuck" is true of most people on most days. "You're waiting for permission you already have" could be wrong — and that's what makes it worth saying, and worth checking.
 
 {{< cards "sw08" >}}
 
-My [first reading for a stranger](/blog/first-tarot-reading-story/) had one of those: a detail neither of us liked, about her own lack of kindness towards the other person. She said it didn't resonate, and a few days later wrote that everything had happened, that part included. I'd never have made up that detail to please a stranger.
+My [first reading with a stranger](/blog/first-tarot-reading-story/) had one of those: a detail neither of us liked, about her own lack of kindness towards the other person. On the day, none of it rang true for her. Three or four days later a message came: it had all played out, that part included. I'd never have made up that detail to please a stranger.
 
 ## The notebook: the only real answer {#the-notebook}
 
@@ -52,9 +52,9 @@ The honest answer to "am I making it up?" is: let's count.
 2. On the left, write what you said, in your words, before the person responds.
 3. On the right, write what they confirmed, in their words.
 4. Mark each reading: held, or missed. No third box.
-5. Every ten readings, count, and look at what the misses have in common.
+5. After each batch of ten, tally the marks and ask what the misses share.
 
-I kept that notebook through all my free blind readings for strangers. By my own count, about nine in ten held and about one in ten missed. It's a tally kept by the person doing the readings, not a study, and it says nothing about how tarot works. What it tells me is that I wasn't only making it up — or not nine times out of ten. [How to keep a reading notebook](/blog/tarot-journal/) is explained step by step elsewhere.
+I kept that notebook through every free blind reading I gave strangers. For every reading that missed, roughly nine held. I did the reading and the marking myself, which makes it a record rather than a study, and it says nothing about how tarot works. What it tells me is that I wasn't only making it up — or not nine times out of ten. [How to keep a reading notebook](/blog/tarot-journal/) is explained step by step elsewhere.
 
 The misses go in as they are: you don't rescue one with a second card, and you don't reframe it into "you'll understand later". If the person comes back on their own days afterwards, add their message with the date. Don't go asking. There's more on [what I do once a reading has missed](/blog/tarot-reading-wrong/), and it's mostly about saying so out loud.
 

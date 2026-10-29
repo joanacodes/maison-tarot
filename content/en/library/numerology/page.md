@@ -59,7 +59,7 @@ gallery:
 ---
 ## What the page says {#definition}
 
-The Page is young without being a child: they already hold their house's tool — the cup, the wand, the sword, the pentacle — and look at it the way you look at something you don't know how to use yet. In the tradition they're also the messenger: the letter, the news, the invitation.
+A Page is no longer a child, but still new to the trade: each holds their house's tool — the cup, the wand, the sword, the pentacle — and studies it like an object whose use they haven't worked out. Tradition also makes the Page a carrier of news: a letter, an announcement, an invitation.
 
 ## The advice {#advice}
 

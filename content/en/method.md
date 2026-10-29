@@ -8,7 +8,7 @@ lede: "How I read, how I counted, what doesn’t work and when I stop: the whole
 navTitle: "Method"
 ---
 {{< short-answer >}}
-Three hundred times, for free, I drew the cards for a stranger who had said nothing, expecting to talk nonsense. By my count it was accurate about nine times in ten — often with specific details, sometimes completely off. I publish both. I don’t know why it works. I know under which conditions it works better, and that’s what I teach.
+Three hundred times, for free, I drew the cards for a stranger who had said nothing, expecting to talk nonsense. By my count it was accurate about nine times in ten — often with specific details, sometimes completely off. I publish both. Why it works, I can’t tell you; when it works better, I can — and that’s what I teach.
 {{< /short-answer >}}
 
 {{< ledger >}}
@@ -27,7 +27,7 @@ Expecting nothing takes the brakes off. I stop checking every sentence for wheth
 
 ## How did I count? {#count}
 
-In a notebook with two columns: what I said, and what the person confirmed. About three hundred readings for strangers, all free, mostly online — Discord servers, group calls, one live — and some face to face.
+In a notebook split in two: my words in one column, the person’s confirmations in the other. About three hundred readings for strangers, all free, mostly online — Discord servers, group calls, one live — and some face to face.
 
 Held, when the person recognised their situation, whether they reacted while I was speaking or confirmed it afterwards. Missed, when nothing landed or they told me so. A miss is a miss. I don’t reframe it, I don’t draw an extra card to rescue it, and it only changes column if the person comes back with something that actually happened.
 
@@ -43,11 +43,11 @@ Pressure, mine or the other person’s. Sometimes nothing comes at all: I’m pu
 
 Reading someone who hasn’t asked. Someone unaware of the reading stays closed, so you pick up scraps and stretch them into conclusions. It’s part of why [I don’t read third parties](/disclaimers/#refusals).
 
-And objects. Sage, candles, “channelled” cards: I sold them in 2021, then stopped, because none of it made a reading better; [the whole story](/blog/cleanse-tarot-deck/) has its own page.
+And objects. Sage, candles, “channelled” cards: I sold them in 2021, then stopped, because none of it made a reading better. [The article on cleansing a deck](/blog/cleanse-tarot-deck/) says what I sold and why I gave it up.
 
 ## Why do I sometimes stop? {#stopping}
 
-Because interpreting takes energy. After about two hours of readings I stop, out of caution, and I rest. The tiredness is real, and [it has a page of its own](/blog/energy-after-tarot-reading/).
+Because interpreting takes energy. After about two hours of readings I stop, out of caution, and I rest. The tiredness is real, and I’ve written up [what I do about it, starting with sleep](/blog/energy-after-tarot-reading/).
 
 I also stop when reading has become a habit for the person in front of me. If the same question keeps coming back, one more spread won’t settle it; [a break from readings](/blog/why-you-should-quit-tarot-reading/) will do more.
 

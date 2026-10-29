@@ -73,7 +73,7 @@ When grapes come up, ask whether a harvest is ready, and whether anyone is letti
 
 Lenses: three of the four cards are [Earth](/library/four-elements/earth-element/), the Pentacles. In my notes Earth is matter and prosperity, anything that’s worth something to you, financially or sentimentally — and not all riches are gold. Number: 9 is nearly there, 10 the passage to what comes next, and [3](/library/numerology/number-3/) is a good rhythm, the machine running.
 
-Say someone draws the King of Pentacles after years of building a small business. The grapes might say: this is the harvest. Count it, then let yourself taste it.
+Give the King of Pentacles to someone who has spent years building a small business, as a thought experiment: the grapes say this is the harvest. Count it, then let yourself taste it.
 
 ## The other side {#flip-side}
 

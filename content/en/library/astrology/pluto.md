@@ -16,8 +16,8 @@ tags:
 - Judgement
 - birth chart
 h1: Pluto — <em>Judgement</em>
-lede: 'Pluto says where you die and are reborn while alive: power, transformation,
-  what you bury and what comes back up.'
+lede: 'Pluto marks the place where you go through an ending and a rebirth without
+  dying: power, transformation, what you bury and what comes back up.'
 related:
 - /library/astrology
 - /library/tarot-cards/judgement
@@ -58,7 +58,7 @@ gallery:
 ---
 ## What it does in a chart {#chart}
 
-Pluto says where you die and are reborn while alive: power, transformation, what you bury and what comes back up. Twenty years in each sign; a generational placement, and only its house is personal. Sign ruled: Scorpio.
+Pluto says where you shed one life and start another, all within this one: power, transformation, what you bury and what comes back up. Twenty years in each sign; a generational placement, and only its house is personal. Sign ruled: Scorpio.
 
 ## The cards that carry it {#cards}
 

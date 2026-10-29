@@ -53,7 +53,7 @@ A star is a point of light, very far away, that doesn’t move much from night t
 
 An everyday example: the thing you keep coming back to when you think about the next five years — the job you’d do if money didn’t count, the place you’d live. You’re not there. But you know which way it is.
 
-## Where it appears in the deck {#where}
+## Over a pool, on a crown, inside every coin {#where}
 
 On [the Star](/library/tarot-cards/the-star/), XVII, one large eight-pointed yellow star shines over seven smaller white ones, above a woman pouring water into a pool and onto the land. It’s the sky after the Tower: nothing is falling any more.
 
@@ -71,13 +71,13 @@ And on every Pentacle card, the suit sign is a five-pointed star inside a coin. 
 
 {{< zoom "stars" "rest" >}}
 
-The Star card has its own page, and its Golden Dawn sign, [Aquarius](/library/astrology/aquarius/), has another. This page follows the drawn stars.
+Both the Star card and its Golden Dawn sign, [Aquarius](/library/astrology/aquarius/), are read elsewhere in the Library; here the subject is the stars as Smith drew them.
 
 ## How to read it {#reading}
 
 Ask what is guiding the person, and how far away it is. On the Empress or the Chariot, the star is worn: the direction is part of who they are. On the Star, it’s in the sky: hope as something to steer by, not something you already hold.
 
-Then add the lenses. The Star’s small stars are [white](/library/tarot-colours/white/), peace and what hasn’t been soiled; the big one is yellow, joy and optimism. The Star card is [Air](/library/four-elements/air-element/): hope as a decision rather than a mood. And the Pentacle’s star belongs to Earth — value, the result of work.
+Then add the lenses. The Star’s small stars are [white](/library/tarot-colours/white/), peace and what hasn’t been soiled; the big one is yellow, joy and optimism. The Star card is [Air](/library/four-elements/air-element/): hope you choose, not hope you merely feel. And the Pentacle’s star belongs to Earth — value, the result of work.
 
 ## The other side {#flip-side}
 

@@ -23,7 +23,7 @@ related:
 - /library/astrology
 faq:
 - q: What does Eight of Pentacles mean?
-  a: 'Mastery built by repetition: someone at the bench, making the same careful gesture until it holds. Eight is the number of the empire and Earth is matter, so the card speaks of work that is starting to pay off — and of the effort it still asks for.'
+  a: 'Mastery built by repetition: someone at the bench, making the same careful gesture until it holds. With eight, the number of the empire, working in Earth, the element of matter, the card is about work that’s starting to pay — and the effort it still demands.'
 - q: What about Eight of Pentacles reversed?
   a: 'Work that goes slack or never stops: the gesture made on autopilot, a job you have stopped learning from — or perfectionism, the same coin polished a tenth time while life waits outside the workshop.'
 - q: What does the Eight of Pentacles mean for work?
@@ -46,7 +46,7 @@ Behind him, almost nothing: a pale grey sky and, small in the lower left corner,
 
 ## By number: eight {#number}
 
-[Eight is the empire](/library/numerology/number-8/): four exalted, structure turned into lasting strength. My note for this card is short — prosperous business, mastery, necessary effort — and the third part matters as much as the first two. Lay an 8 on its side and you get the infinity sign above the Magician’s head: control, a gesture that loops back on itself.
+[Eight is the empire](/library/numerology/number-8/): four exalted, structure turned into lasting strength. My note for this card is short — prosperous business, mastery, necessary effort — and the third part matters as much as the first two. Tip the 8 over and it becomes the infinity sign floating above the Magician: control, a gesture that loops back on itself.
 
 Instagram as an empire is the loud version of 8; this card is its quiet side, the hours at the bench that nobody films.
 

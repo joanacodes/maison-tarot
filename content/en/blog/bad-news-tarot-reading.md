@@ -9,7 +9,7 @@ tags: ["bad news tarot reading", "how to deliver a hard tarot message", "scary t
 image: "covers/bad-news-tarot-reading.jpg"
 imageAlt: "Two people’s hands on either side of a small wooden table, a few tarot cards laid face up between them"
 imagePrompt: "Two people’s hands resting on either side of a small wooden table, one hand reaching gently towards the other, a few tarot cards laid face up between them, no faces in frame. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Yes, share what comes, the hard part included: hiding a card, or going quiet with a worried face, frightens people more than words. But how you say it matters as much as what you say. Describe the card before you interpret it, speak about now rather than later, ask instead of announcing, and hand the decision back. Some subjects — health, death, pregnancy, court cases, money decisions — belong with a professional, not a deck. And if the person isn’t ready, slow down and adapt your words."
+summary: "Yes, share what comes, the hard part included: hiding a card, or going quiet with a worried face, frightens people more than words. But how you say it matters as much as what you say. Describe the card before you interpret it, speak about now rather than later, ask instead of announcing, and hand the decision back. Questions about illness, dying, pregnancy, lawsuits or big money choices go to a professional, not a deck. And if the person isn’t ready, slow down and adapt your words."
 ---
 Yes: say what comes, the hard part included. Hiding a card is its own kind of lie, and a worried silence frightens people far more than words. But a hard thing can be said kindly and stay true, and some subjects aren't mine to read at all.
 
@@ -23,7 +23,7 @@ What usually hurts most isn't the hard sentence. It's the pause before a reader 
 
 Some bad news isn't for the cards. Illness and dying, pregnancy, a lawsuit still running, a choice about money: those are off the table for me, and if a reading drifts there, I stop and say why. People ask out of fear, or out of love for someone, and that deserves respect. But a mistaken word on those subjects does real damage, and a card is the wrong tool to deliver it. A doctor, a lawyer or an adviser is the right one; while they wait for that answer, a reading can look at how they're coping. I've written more about [why a deck is the wrong place for those fears](/blog/health-pregnancy-death-tarot/).
 
-The Death card doesn't mean death anyway. My notes connect it with reaping and with beginning afresh, for a person who has lost direction and wants things to grow again. The Tower is something that looked solid being shaken. The Three of Swords is a heart pierced by three swords in the rain, and my notes add that it can also be a blood pact. The Ten of Swords is the worst-looking picture in the deck, a figure face down with ten swords in its back, and still the sky on the horizon is getting lighter.
+The Death card doesn't mean death anyway. My notes connect it with reaping and with beginning afresh, for a person who has lost direction and wants things to grow again. The Tower is something that looked solid being shaken. The Three of Swords, for all its rain and blades, can also be a blood pact in my notes. The Ten of Swords is the worst-looking picture in the deck, a figure face down with ten swords in its back, and still the sky on the horizon is getting lighter.
 
 {{< cards "ar13 ar16 sw03 sw10" >}}
 
@@ -33,7 +33,7 @@ Reading [the four cards that frighten people most](/blog/scariest-tarot-cards/) 
 
 Before you deliver a hard message, remember how often hard messages miss — sometimes not in the event, but in what it means.
 
-I learned this from a message of my own: furious after losing my closest friend, I heard a voice say another friend was going to have an accident, and two weeks later a truck hit that friend's car. My friend is alive and well today; the message was right about an event and wrong in what mattered, and I tell it in full in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/).
+I learned this from a message of my own: furious after losing my closest friend, I heard a voice say another friend was going to have an accident, and two weeks later a truck hit that friend's car. That friend came through and is fine today: the message got an event right and what mattered wrong, and I tell it in full in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/).
 
 Since then, I hold hard impressions at arm's length: doubted, noted, and only remembered if they turn out true. They don't go into someone's lap as a forecast.
 
@@ -55,7 +55,7 @@ When I read the chart of a friend I admired, it was accurate and harsh, and I to
 
 Sometimes you feel you shouldn't say something, or should say it differently, because the person isn't ready, is scared, or is wary. My notes are clear: adapt your attitude and your words. That isn't hiding. It's pacing.
 
-Slow down. Say less. Watch for crossed arms, a face going still, a laugh that comes too fast. "Shall I go on?" is a fair question, and "not today" is a fair answer. Sometimes nothing comes at all because the person is afraid of what they might hear; then talk with them and reassure them before going any further.
+Slow down. Say less. Watch for crossed arms, a face going still, a laugh that comes too fast. "Shall I go on?" is a fair question, and "not today" is a fair answer. Now and then the cards go blank because fear of the answer has closed the person off; then talk with them and reassure them before going any further.
 
 If a sentence lands too hard anyway, there's a way back, and I've written about [what to say when a reading lands too hard](/blog/reading-lands-too-hard/). If tears come, [what to do when someone cries](/blog/someone-cries-during-reading/) is mostly about staying calm and staying put.
 

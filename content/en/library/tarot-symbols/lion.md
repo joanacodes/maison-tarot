@@ -73,7 +73,7 @@ When a lion appears, look at what’s being done with it. Calmed, on Strength: c
 
 Lenses: the lion is [Fire](/library/four-elements/fire-element/) — creation, impulse, the energy that gets you moving, and that spreads when nobody masters it. In my notes, Fire’s archetype is a young person brimming with life, convinced nothing is out of their reach. Colour: Strength’s lion is red-orange, and [orange](/library/tarot-colours/orange/) in my grid is creativity and desire.
 
-Say someone draws Strength next to the King of Wands. Two lions: one calmed, one on a throne. The reading might be that you’ve learned to hold your temper, and now people are asking you to lead.
+Strength and the King of Wands in the same spread give you two lions: one calmed, one on a throne. The reading might be that you’ve learned to hold your temper, and now people are asking you to lead.
 
 ## The other side {#flip-side}
 

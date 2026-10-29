@@ -8,7 +8,7 @@ weight: 14
 categories: ["Symbols"]
 tags: ["tarot symbols", "crown", "Ace of Swords", "The Tower", "tarot symbolism"]
 h1: "The crown — authority <em>given</em>, not owned"
-lede: "A crown is usually put on your head by someone else. In the Rider-Waite-Smith it marks authority, a mind in charge, a victory recognised — and the deck shows more than once how easily it falls."
+lede: "A crown is usually put on your head by someone else. On the 1909 cards it marks authority, a mind in charge, a victory recognised — and the deck shows more than once how easily it falls."
 related:
 - /library/tarot-symbols
 - /library/tarot-cards/the-tower
@@ -53,7 +53,7 @@ A crown sits on the head, and it’s rarely put there by the person who wears it
 
 Because it sits on the head, it’s also about the mind. Who’s in charge up there, and on whose behalf?
 
-## Where it appears in the deck {#where}
+## Worn by rulers, pierced by a sword, knocked off by lightning {#where}
 
 The Emperor wears a gold crown set with stones, a sign of office over a soldier’s armour. The Empress wears a crown of stars over a green wreath. The Hierophant’s tiara rises in three tiers, authority stacked on authority. The High Priestess wears a crown of the moon: a full disc between two horns. Justice wears a gold crown with battlements and a single square stone.
 
@@ -75,7 +75,7 @@ When a crown comes up, ask who gave it, and whether it’s still deserved. A cro
 
 Colour: gold, in [my grid](/library/tarot-colours/gold-and-brown/), is value — what you have. Element: the Ace of Swords puts the crown in [Air](/library/four-elements/air-element/), the element that decides, so the crown there is the right decision, the one only you could make. Number: the Emperor and the Four of Pentacles are both [4](/library/numerology/number-4/) — structure on one, structure clung to on the other.
 
-Say someone draws the Tower next to the Emperor. The crown is what’s at stake: a title, a reputation, a position everyone thought was permanent.
+Should the Tower land beside the Emperor, the crown is what’s at stake: a title, a reputation, a position everyone thought was permanent.
 
 ## The other side {#flip-side}
 

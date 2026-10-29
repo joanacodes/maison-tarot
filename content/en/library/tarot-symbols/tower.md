@@ -8,7 +8,7 @@ weight: 29
 categories: ["Symbols"]
 tags: ["tarot symbols", "tower", "castle", "Death card", "The Moon"]
 h1: "The tower — <em>shelter</em> on the horizon"
-lede: "A tower is built to see far and to keep people out. The Tower card has its own page; this one follows the other towers of the Rider-Waite-Smith — two on the horizon of Death and the Moon, castles behind the Four of Wands and the Eight of Swords, a ruin across the river on the Five of Cups."
+lede: "A tower is built to see far and to keep people out. Leaving aside the Tower card itself, this page follows the deck’s other towers — two on the horizon of Death and the Moon, castles behind the Four of Wands and the Eight of Swords, a ruin across the river on the Five of Cups."
 related:
 - /library/tarot-symbols
 - /library/tarot-cards/the-tower
@@ -51,9 +51,9 @@ A tower is a building that goes up rather than out. It sees far, it’s seen fro
 
 {{< zoom "tower" "lead" >}}
 
-This page follows the towers standing in the background of the deck. The one struck by lightning has [its own card page](/library/tarot-cards/the-tower/).
+The towers that matter here stand in the background; the one struck by lightning belongs to [the Tower card](/library/tarot-cards/the-tower/).
 
-## Where it appears in the deck {#where}
+## On the horizon, behind the wall, across the river {#where}
 
 On Death, two grey towers stand on the horizon on the right, a sun between them, beyond the river. On [the Moon](/library/tarot-cards/the-moon/), two towers stand at either side of the card, and the path runs between them into the mountains. Same layout on two cards: a gateway seen from far off. The [pillars](/library/tarot-symbols/pillars/) page calls them cousins.
 
@@ -71,11 +71,11 @@ Walled towns and castle towers also stand behind the Chariot, the King of Pentac
 
 ## How to read it {#reading}
 
-When a tower comes up, ask whether you’re inside it, living in its shadow, or looking at it from far away. Inside, on the Two of Wands: a safe place to plan from, the world in your hand. Behind you, on the Four of Wands and the Ten of Pentacles: the home you’ve built. In my notes the Four of Wands is foundations, marriage, building a family. Far off, on Death and the Moon: the way out, not reached yet.
+When a tower comes up, ask whether you’re inside it, living in its shadow, or looking at it from far away. Inside, on the Two of Wands: a safe place to plan from, the world in your hand. Behind you, on the Four of Wands and the Ten of Pentacles: the home you’ve built. My own note: the Four of Wands is foundations, marriage, building a family. Far off, on Death and the Moon: the way out, not reached yet.
 
-Lenses: towers are stone, and stone is [grey](/library/tarot-colours/grey/) — in my grid, neutrality, stability, no particular will. A grey tower holds without saying anything. Number: 4, the structure, is the Four of Wands, and in [my numerology table](/library/numerology/number-4/) its advice is to stay flexible.
+Lenses: towers are stone, and stone is [grey](/library/tarot-colours/grey/): neutral, stable, wanting nothing. A grey tower holds without saying anything. Number: 4, the structure, is the Four of Wands, and in [my numerology table](/library/numerology/number-4/) its advice is to stay flexible.
 
-Say someone draws the Two of Wands while deciding whether to leave a secure job. The tower might say: you’re safe up here, and you can see a long way. The question is whether you’ll take the stairs down.
+Someone weighing whether to leave a secure job turns over the Two of Wands (a scenario, not a real reading). The tower says: you’re safe up here, and you can see a long way. The question is whether you’ll take the stairs down.
 
 ## The other side {#flip-side}
 

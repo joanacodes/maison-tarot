@@ -47,7 +47,7 @@ The title carries a myth. *Bohémiens* meant the Romani people, and the idea tha
 
 ## Where it went next {#next}
 
-The French system crossed the Channel. In London, the Hermetic Order of the Golden Dawn, founded in 1888, kept the idea of letters and paths but changed the order: it moved the Fool to the front, on Aleph, so cards I to XX each took the next letter along. [The Golden Dawn page](/library/tarot-history/golden-dawn-tarot/) tells that story.
+The French system crossed the Channel. In London, a society founded in 1888, the Hermetic Order of the Golden Dawn, kept the idea of letters and paths but changed the order: it moved the Fool to the front, on Aleph, so cards I to XX each took the next letter along. [The Golden Dawn page](/library/tarot-history/golden-dawn-tarot/) tells that story.
 
 That’s why your books disagree. A French book following Lévi or Wirth gives Aleph to the Magician; an English book following the Golden Dawn gives it to the Fool. Neither is wrong. They are two systems, each coherent on its own terms. [The table of the 22 letters](/library/kabbalah/hebrew-letters-major-arcana/) gives the two orders in neighbouring columns.
 

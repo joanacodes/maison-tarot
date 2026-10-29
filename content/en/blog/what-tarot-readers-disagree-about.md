@@ -15,7 +15,7 @@ Tarot readers agree on less than you’d think. Six debates come up again and ag
 
 ## Reversed cards and clarifier cards {#reversals-and-clarifiers}
 
-*Reversals.* When a card lands upside down, some readers turn it upright and read it as usual, every time. Others read the direction as part of the message, and many booklets give each card a second, reversed meaning, which turns 78 meanings into 156. The upright camp says the picture is the picture. The reversed camp says the direction adds a layer it would be a shame to throw away. Both read well.
+*Reversals.* When a card lands upside down, some readers turn it upright and carry on as normal, every time. Others read the direction as part of the message, and many booklets double the work by adding an upside-down meaning for every card: 156 entries instead of 78. The upright camp says the picture is the picture. The reversed camp says the direction adds a layer it would be a shame to throw away. Both read well.
 
 Where I stand: not in your first weeks, then yes, but without a second list. To me a reversal changes the pace, not the card: number, element and colours all stay put, and the energy either stalls or overflows. Say the Chariot lands reversed.
 

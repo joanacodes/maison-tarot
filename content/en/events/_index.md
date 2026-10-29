@@ -8,6 +8,6 @@ h1: "This is where the readings happen. And they’re <em>free</em>."
 lede: "I don’t sell readings. I give them away, during online events, in-person meetups and webinars. You come, you tell me nothing, and we see what it gives."
 navTitle: "Events"
 ---
-Three formats come back. **Free online readings**: one evening, a few people drawn at random, one reading each, in front of the others, knowing nothing about them. **In-person meetups**: in Paris and in the cities Maison Tarot visits — we read, compare, talk. **Webinars**: one hour on one lens, open to everyone, with questions.
+Three formats come back. **Free online readings**: one evening, a few people drawn at random, one reading each, in front of the others, knowing nothing about them. **In-person meetups**: in Paris, and in other cities whenever Maison Tarot is passing through — reading together, comparing, talking. **Webinars**: one hour on one lens, open to everyone, with questions.
 
 None of them is a consultation. All are offered for entertainment, and you remain the one who decides.

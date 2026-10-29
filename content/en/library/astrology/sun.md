@@ -58,7 +58,7 @@ gallery:
 ---
 ## What it does in a chart {#chart}
 
-The Sun is the sign everyone knows — the one you give when someone asks 'what are you?'. It says the centre: what the person organises their life around, the light they want to project. It's also the easiest placement to flatter, and the one I found least reliable in my test. Sign ruled: Leo.
+The Sun is the sign everyone knows — the one you give when someone asks 'what are you?'. It names the core: the thing a person builds their days around, and the image they hope to give off. It's also the easiest placement to flatter, and the one I found least reliable in my test. Sign ruled: Leo.
 
 ## The cards that carry it {#cards}
 

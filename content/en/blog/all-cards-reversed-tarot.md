@@ -41,7 +41,7 @@ Say someone tells you nothing, shuffles fairly, and draws three cards, all rever
 
 {{< cards "waac pe08 ar19" >}}
 
-Upright first. The Ace of Wands offers a single leafy wand from a cloud: a 1, Fire, the spark of something new, and green for growth. The Eight of Pentacles is a craftsman at his bench carving coins one by one: an 8, Earth, mastery earned by effort. The Sun is a child on a white horse under a huge sun, sunflowers behind a wall, yellow everywhere — joy, self-expression. Its number, 19, adds up to 10, which in [the numbers cycle is the corridor](/library/numerology/number-10/) between two rooms.
+Upright first. The Ace of Wands offers a single leafy wand from a cloud: a 1, Fire, the spark of something new, and green for growth. The Eight of Pentacles shows patient work, one coin chiselled after another: an 8, Earth, mastery earned by effort. The Sun is a child on a white horse under a huge sun, sunflowers behind a wall, yellow everywhere — joy, self-expression. Its number, 19, adds up to 10, which in [the numbers cycle is the corridor](/library/numerology/number-10/) between two rooms.
 
 Upright, the row would tell a story: a spark, the work, then the joy of a stage completed.
 
@@ -65,4 +65,4 @@ And if you notice you’re asking again and again, hoping for an upright spread 
 4. Write one sentence for the whole spread.
 5. Put the deck away until tomorrow, and reread the sentence in the evening.
 
-If you’d like to practise on other people’s cards rather than your own, the [free events](/events/) are a good place to start: someone tells you nothing, you read, and you compare after.
+Once your own deck behaves, try other people’s cards: at the [free events](/events/), someone tells you nothing, you read, and you compare after.

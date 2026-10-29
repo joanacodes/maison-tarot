@@ -22,13 +22,13 @@ Pull as few cards as the question needs, and decide how many before you shuffle.
 | A choice between two options | 5 | One for you, then two for each option: where it leads, what it asks of you |
 | A check-in you’ll repeat every month | 3 to 5 | The same positions every time, so you can compare |
 | A real crossroads, with an hour to spare | 10 | [The Celtic Cross](/blog/celtic-cross-spread/), read two cards at a time |
-| Health, pregnancy, death, a court case, a money decision, someone who isn’t in the room | 0 | A kinder question instead |
+| Health, pregnancy, death, a court case, a money decision, someone who isn’t in the room | 0 | Ask something the cards can hold |
 
 If you’re not sure which row your question belongs to, take the smaller number. You can always draw again another day; you can’t un-see ten cards.
 
 ## Why fewer cards usually read better {#fewer-cards}
 
-One card read properly teaches more than ten recited. With one card, all your attention goes to the image. With ten, half of it goes to remembering what position seven stands for.
+A single card, looked at closely, teaches more than ten recited from memory. Alone on the table, a card gets every bit of your looking; among ten, it has to share you with the question of what position seven was supposed to mean.
 
 Fewer cards are also easier to check. “This card is the obstacle” is a claim the person can confirm or contradict. Ten cards hold so many meanings that something will fit whatever is said next — the mechanism behind statements that feel personal and fit everyone, which I check myself against in [the Barnum effect and tarot](/blog/barnum-effect-tarot/).
 
@@ -52,7 +52,7 @@ A few myths turn up here. You don’t need an odd number. Three isn’t luckier 
 
 ## Questions that need no cards {#no-cards}
 
-Some questions are better without tarot, and it isn’t because the cards can’t fall on them. When someone asks about a diagnosis, a pregnancy, a death, a court case, a money decision, or what a person who isn’t in the room is feeling, it’s usually worry, love or fear asking. A wrong word there does real damage, so I leave those aside, and I’ve published [each one with my reasons](/disclaimers/#refusals).
+Some questions are better without tarot, and it isn’t because the cards can’t fall on them. When someone asks about a diagnosis, a pregnancy, a death, a court case, a money decision, or what a person who isn’t in the room is feeling, it’s usually worry, love or fear asking. Getting one of those wrong can do lasting harm, so I leave them aside, and I’ve published [each one with my reasons](/disclaimers/#refusals).
 
 What helps instead is a different question. “Will the scan be fine?” is one for a doctor. “What would help me get through this week?” is one the cards can hold, with one card or three. Yes-or-no questions are their own case, and [I answer those differently](/blog/yes-or-no-tarot/).
 

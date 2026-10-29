@@ -52,7 +52,7 @@ The advice of 7 suits this card better than any other: everything is temporary, 
 
 ## By element: Fire {#element}
 
-The Tower is a [Fire](/library/four-elements/fire-element/) card. Fire creates and destroys: it forges tools, warms, lights the night, and spreads fast when nobody masters it. In my notes on the elements there’s a comparison I come back to for this card: fire destroys at once, while neglected water destroys deeper and slower, like mould working through a house from inside.
+The Tower is a [Fire](/library/four-elements/fire-element/) card. Fire creates and destroys: it forges tools and keeps people warm, and left uncontrolled it races through everything in its path. In my notes on the elements there’s a comparison I come back to for this card: fire destroys at once, while neglected water destroys deeper and slower, like mould working through a house from inside.
 
 The Tower is the fast kind. It’s frightening, and it’s also honest: you see what fell, and you can start from there.
 
@@ -82,7 +82,7 @@ At work, the Tower is a structure meeting the truth. A job: a restructure, a mer
 
 Reversed at work, it’s the collapse in slow motion — the project nobody believes in — or the fall in excess, the resignation email written at midnight and copied to everyone.
 
-The first question is “Will I lose my job?”, and I understand why: a job is rent, routine and a part of who you are. I don’t read that as a prediction. Whether a post survives depends on people who aren’t in the room and decisions not yet made, and a card that said “you’re safe” or “you’re out” would add a false calm, or a second shock to the first. If your contract, your rights or your money are at stake, that’s one for an employment adviser, a union rep or a lawyer ([why those questions stay with professionals](/disclaimers/#refusals)). A gentler question: “What would I do in the first week if it happened?” That one has an answer, and turns fear into a plan.
+The first question is “Will I lose my job?”, and I understand why: a job is rent, routine and a part of who you are. I don’t read that as a prediction. Whether a post survives depends on people who aren’t in the room and decisions not yet made, and a card that said “you’re safe” or “you’re out” would add a false calm, or a second shock to the first. If your contract, your rights or your money are at stake, that’s one for an employment adviser, a union rep or a lawyer ([why those questions stay with professionals](/disclaimers/#refusals)). Try asking instead: “What would I do in the first week if it happened?” That one has an answer, and turns fear into a plan.
 
 This week, before deciding anything, make two lists: what fell, and what’s still standing — your skills, the people who answer your calls. The second is usually longer. And step away from the cards for a few days, especially now: pulling a card every hour after a shock is the shock talking.
 

@@ -72,13 +72,13 @@ Upright, **the Four of Cups is an offer you haven’t looked at yet.** Someone i
 
 Reversed, the man lifts his head. Either he finally sees the cup and reaches for it — the end of a sulk, energy coming back — or he’s so keen to get out of the boredom that he takes the first cup offered without checking what’s in it.
 
-Next to the [Eight of Cups](/library/tarot-cards/eight-of-cups/), the boredom turns into a departure from a life that’s already up and running. Next to the [Four of Swords](/library/tarot-cards/four-of-swords/), the stillness is a rest that’s needed, not a sulk. Next to [the Hanged Man](/library/tarot-cards/the-hanged-man/), the pause is chosen, and something is being seen differently from where he sits.
+Next to the [Eight of Cups](/library/tarot-cards/eight-of-cups/), the boredom turns into a departure from a life that’s already up and running. Next to the [Four of Swords](/library/tarot-cards/four-of-swords/), the stillness is a rest that’s needed, not a sulk. With [the Hanged Man](/library/tarot-cards/the-hanged-man/) beside it, the stillness is chosen, and he’s starting to see things from another angle.
 
 {{< cards "cu08 sw04 ar12" >}}
 
 ## A reading, as an example {#example}
 
-Consider the Four of Cups followed by the [Ace of Wands](/library/tarot-cards/ace-of-wands/), in a spread that exists only on this page. Four then one: a settled situation, then a new start. Water then Fire: calm emotions, then a burst of drive. Colours: the blue and green of the Four, then a living wand putting out green leaves — held out by a hand from a cloud as well, the same gesture in Fire.
+Consider the Four of Cups followed by the [Ace of Wands](/library/tarot-cards/ace-of-wands/), in a spread that exists only on this page. Four then one: a settled situation, then a new start. Water then Fire: calm emotions, then a burst of drive. Colours: the blue and green of the Four, then a living wand putting out green leaves — offered from a cloud too, the same gesture in Fire.
 
 Folded arms first, a living wand second; what I’d say is: “Your life is set up and you’re a bit bored in it, and something new has been offered to you — an idea, a proposal, an invitation — that you put aside without really looking.”
 

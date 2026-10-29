@@ -21,7 +21,7 @@ Say someone asks about their small business on a Sunday and draws the Six of Wan
 
 {{< cards "wa06 pe05" >}}
 
-A contradiction? Between Sunday and Thursday, they lost their biggest client. Sunday’s reading read Sunday. Thursday’s read Thursday, including the warmth in the window that the two figures don’t see. And the two cards share a thread if you read the [numbers](/library/numerology/): six is the machine launched and running fast, five is conflict and making do with what’s left. Two stages of the same cycle, a few days apart.
+A contradiction? Between Sunday and Thursday, they lost their biggest client. Sunday’s reading read Sunday. Thursday’s read Thursday, including the warmth in the window that the two figures don’t see. And the two cards share a thread if you read the [numbers](/library/numerology/): six is the venture up to speed, five the clash, and making do with whatever survives it. Two stages of the same cycle, a few days apart.
 
 **Two readings that disagree are often two true pictures of two different days.**
 

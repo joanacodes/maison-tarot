@@ -25,7 +25,7 @@ faq:
 - q: Do you meet in person in Paris?
   a: Yes, when a table fills up. Dates go on the events page first; the rest of the time, lessons run by video.
 - q: Can I get a reading while I'm in Paris?
-  a: Not a paid one. Readings happen at free events, mostly online.
+  a: "No: I give readings away rather than sell them, in Paris as everywhere. They happen at the free events, most of which run online."
 local:
   shops: []
   events: []

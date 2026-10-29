@@ -38,7 +38,7 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-No people on this card. In the middle turns a large orange wheel with eight spokes. On its outer rim, the letters T, A, R, O alternate with Hebrew letters; on the inner ring, alchemical signs. A blue sphinx sits on top, holding a sword. A yellow snake slides down the left side, and on the right a red figure with a jackal’s head — Anubis — rises with the turn. In the four corners, on grey clouds against a blue sky, four winged creatures each read an open book: an angel, an eagle, a bull and a lion.
+No people on this card. In the middle turns a large orange wheel with eight spokes. On its outer rim, the letters T, A, R, O alternate with Hebrew letters; on the inner ring, alchemical signs. A blue sphinx sits on top, holding a sword. Down the left side glides a yellow snake; on the right, a red figure with a jackal’s head — Anubis — rises with the turn. In the four corners, on grey clouds against a blue sky, four winged creatures each read an open book: an angel, an eagle, a bull and a lion.
 
 The missing piece is a hand: nobody is turning the wheel, and there’s no handle. **The drawing shows everything that moves with the wheel and leaves empty the place of whoever turns it** — and that empty place is where I read this card.
 

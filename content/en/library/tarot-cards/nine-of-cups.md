@@ -56,7 +56,7 @@ At his best, this man is the Water archetype, the warm person whose home feels l
 
 ## By colours {#colours}
 
-[Yellow](/library/tarot-colours/yellow/) fills the whole background: joy, optimism, self-expression — and pride, which sits on the same line of my grid. It’s the colour of someone glad to be exactly where he is. The [blue](/library/tarot-colours/blue/) cloth under the cups is emotion, what carries: feelings are literally holding up the display. The red cap puts a touch of drive on his head. Joy, pride, and emotions arranged with care.
+[Yellow](/library/tarot-colours/yellow/) fills the whole background: joy, optimism, self-expression — and pride, which sits on the same line of my grid. Here it means plain contentment with where he’s sitting. The [blue](/library/tarot-colours/blue/) cloth under the cups is emotion, what carries: feelings are literally holding up the display. The red cap puts a touch of drive on his head. Joy, pride, and emotions arranged with care.
 
 ## By astrology: Jupiter in Pisces {#astrology}
 

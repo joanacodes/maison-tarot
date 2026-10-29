@@ -65,4 +65,4 @@ Your hands may shake, your heart may race, your voice may speed up. That's norma
 
 ## Before your first public reading {#before}
 
-Say the rules out loud at the start: the person says nothing about themselves first, these subjects stay off the table, misses happen and you'll say so, and anyone can stop at any moment. Then the room knows what to expect, and so do you. If you'd like to see how it runs before you try, come and watch at one of the [free events](/events/); and if you want to host your own, here's [how to run a free reading night online](/blog/free-tarot-event-online/).
+Say the rules out loud at the start: the person says nothing about themselves first, these subjects stay off the table, misses happen and you'll say so, and anyone can stop at any moment. Then the room knows what to expect, and so do you. Watching one first helps, and any of the [free events](/events/) will show you; if you want to host your own, here's [how to run a free reading night online](/blog/free-tarot-event-online/).

@@ -17,7 +17,7 @@ Yes, it's OK to read tarot during an eclipse. An eclipse doesn't damage a deck, 
 
 A solar eclipse is when the Moon passes between the Earth and the Sun and hides part or all of it. It can only happen at a new moon. A lunar eclipse is when the Earth's shadow falls on the Moon, and it can only happen at a full moon.
 
-Eclipse season is the window when eclipses are possible: a little over a month, about twice a year, when a new or full moon falls close to the two points where the Moon's path crosses the Sun's. Most seasons bring two eclipses, about two weeks apart — one solar, one lunar — and now and then three. In astrology those two crossing points are the [North and South Nodes](/blog/north-node-south-node/).
+Eclipse season is the window when eclipses are possible: a little over a month, about twice a year, when any new or full moon lands near one of the two points where the Moon's orbit cuts across the ecliptic, the Sun's yearly path through the sky. Most seasons bring two eclipses, about two weeks apart — one solar, one lunar — and now and then three. In astrology those two crossing points are the [North and South Nodes](/blog/north-node-south-node/).
 
 Astrologers read a solar eclipse as an intensified new moon: a beginning, often one you didn't plan. A lunar eclipse is an intensified full moon: something comes to a head or closes. The dates, signs and times for the coming year are in [Eclipses 2027](/blog/eclipses-2027/).
 

@@ -8,7 +8,7 @@ weight: 27
 categories: ["Symbols"]
 tags: ["tarot symbols", "key", "The Hierophant", "crossed keys", "tarot symbolism"]
 h1: "The key — <em>access</em>, and who holds it"
-lede: "A key opens what someone has locked. In the Rider-Waite-Smith there’s one pair of them: two crossed keys at the Hierophant’s feet. That scarcity says a lot — in this deck, access is something a tradition hands down."
+lede: "A key opens what someone has locked. The 1909 deck draws just one pair of them: two crossed keys at the Hierophant’s feet. That scarcity says a lot — in this deck, access is something a tradition hands down."
 related:
 - /library/tarot-symbols
 - /library/tarot-cards/the-hierophant
@@ -53,7 +53,7 @@ A key is permission you can hold in your hand. Whoever has it decides who comes 
 
 A key also tells you there was a lock. Something was closed on purpose.
 
-## Where it appears in the deck {#where}
+## One pair of keys, and other closed doors {#where}
 
 On [the Hierophant](/library/tarot-cards/the-hierophant/), two crossed keys lie on the floor at his feet, between the two tonsured figures who face him. They echo the crossed keys of the papal coat of arms, which go back to the keys promised to Peter in the Gospel of Matthew. He sits between two [pillars](/library/tarot-symbols/pillars/), a three-tiered crown on his head, one hand raised: the keys belong to the institution he speaks for.
 
@@ -61,7 +61,7 @@ On [the Hierophant](/library/tarot-cards/the-hierophant/), two crossed keys lie 
 
 As far as I can see on the 1909 print, these are the only keys in the deck. That makes them loud.
 
-Several cards talk about access without drawing a key. The High Priestess sits in front of a veil, a scroll half hidden in her robe: what’s behind her isn’t locked, and it isn’t handed out either. The Eight of Swords shows a woman bound and blindfolded among swords, with no lock anywhere; in my notes she’s a prisoner of herself while she has every tool, and she can take off the blindfold. The Four of Pentacles holds one coin to his chest and keeps others under his feet and on his crown: a man who has become his own lock.
+Several cards talk about access without drawing a key. Behind the High Priestess hangs a veil, and a scroll is half hidden in her robe: what’s behind her isn’t locked, and it isn’t handed out either. The Eight of Swords shows a woman bound and blindfolded among swords, with no lock anywhere; in my notes she’s a prisoner of herself while she has every tool, and she can take off the blindfold. The Four of Pentacles holds one coin to his chest and keeps others under his feet and on his crown: a man who has become his own lock.
 
 {{< cards "ar02 sw08 pe04" >}}
 
@@ -71,7 +71,7 @@ When the Hierophant’s keys come up, ask who grants access here. A diploma, a m
 
 Lenses: the Hierophant is 5 and [Earth](/library/four-elements/earth-element/). In [my numerology table](/library/numerology/number-5/), 5 is trying, testing, not being afraid to fail, and its advice is to be honest with yourself and the situation. Read with the keys: you’ll be let in, and tested on the way. Earth adds weight — a structure that lasts and is slow to change.
 
-Say someone draws the Hierophant while applying for a training course. The keys might say: the people who hand out the places have their criteria. Learn them, rather than hoping for an exception.
+One plausible case: the Hierophant comes up while someone is applying for a training course. The keys point to the people who hand out the places, and their criteria: learn them, rather than hoping for an exception.
 
 ## The other side {#flip-side}
 

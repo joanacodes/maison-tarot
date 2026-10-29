@@ -58,7 +58,7 @@ A pale grey sky over everything: neutral, stable, no drama. The water is pale [b
 
 ## By astrology: Mercury in Aquarius {#astrology}
 
-The Golden Dawn matched this card with [Mercury](/library/astrology/mercury/) in Aquarius’s middle decan. Mercury is how you think and how you speak; Aquarius is the new idea, the bridge between old and new. It adds up to a mind that has found the way across. Use that or leave it; the boat and the smooth water ahead tell the story either way.
+The Golden Dawn matched this card with [Mercury](/library/astrology/mercury/) in Aquarius’s middle decan. Mercury is how you think and how you speak; Aquarius brings the fresh idea that links what was to what’s coming. It adds up to a mind that has found the way across. Use that or leave it; the boat and the smooth water ahead tell the story either way.
 
 ## In a reading {#reading}
 
@@ -66,7 +66,7 @@ Upright, the Six of Swords is a transition: leaving a difficult situation for a 
 
 Reversed, the crossing stalls. The boat stays at the bank, or turns back halfway because the rough water at least was familiar. Pushed the other way, it’s the person who leaves every time it gets hard, a new boat each time, with all six swords on board.
 
-Next to the [Three of Swords](/library/tarot-cards/three-of-swords/), you can see what’s being left: the hurt is behind, slowly. Next to the [Eight of Cups](/library/tarot-cards/eight-of-cups/), it’s a departure by choice, walking away from something built. Next to [the Chariot](/library/tarot-cards/the-chariot/), the slow boat becomes a vehicle with a direction and a will.
+Next to the [Three of Swords](/library/tarot-cards/three-of-swords/), you can see what’s being left: the hurt is behind, slowly. Paired with the [Eight of Cups](/library/tarot-cards/eight-of-cups/), the crossing is a departure by choice, walking away from something built. Next to [the Chariot](/library/tarot-cards/the-chariot/), the slow boat becomes a vehicle with a direction and a will.
 
 {{< cards "sw03 cu08 ar07" >}}
 
@@ -78,4 +78,4 @@ Set the Six of Swords and the [Ace of Pentacles](/library/tarot-cards/ace-of-pen
 
 The boat heading for the far bank, then the coin over the garden: “You’re coming out of a hard stretch, and on the other side there’s something solid waiting for you, something you can hold.”
 
-Two questions check it: “Are you in the middle of leaving something? Is there something new and concrete on the other side?” If they aren’t leaving anything, the sentence missed, and that’s information too. If you’d like to watch this done live, [the free events](/events/) include public readings drawn at random.
+Two questions check it: “Are you in the middle of leaving something? Is there something new and concrete on the other side?” If they aren’t leaving anything, the sentence missed, and that’s information too. [The free events](/events/) put readings like this one before an audience, with sitters drawn at random.

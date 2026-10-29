@@ -17,12 +17,12 @@ Ce sont les mots des cartes et de la lecture elle-même. Des mots comme empathe,
 
 ## Le jeu : lames, arcanes et familles {#le-jeu}
 
-1. **Jeu de tarot** — un ensemble de 78 cartes : les 22 arcanes majeurs, puis les 56 arcanes mineurs. Exemple : le Rider-Waite-Smith suit exactement cette structure, comme la plupart des tarots vendus aujourd’hui.
+1. **Jeu de tarot** — un ensemble de 78 cartes, soit 22 arcanes majeurs plus 56 mineurs. Exemple : le Rider-Waite-Smith suit exactement cette structure, comme la plupart des tarots vendus aujourd’hui.
 2. **Lame** — un autre mot pour « carte » au tarot, surtout employé en français. Exemple : « la lame XIII », c’est la Mort.
 3. **Arcane** — du latin *arcanum*, « secret » ; au tarot, le mot désigne les cartes elles-mêmes. Exemple : au tarot de Marseille, la lame XIII ne porte pas de nom, d’où son surnom d’« Arcane sans nom ».
 4. **Arcanes majeurs** — les 22 cartes qui portent un nom, du Mat au Monde. Elles parlent des grands chapitres d’une vie. Exemple : l’arcane majeur numéro 1 est le Magicien, que les jeux marseillais nomment le Bateleur.
 5. **Arcanes mineurs** — les 56 autres cartes, en quatre familles de quatorze. Elles parlent des jours à l’intérieur de ces chapitres. Exemple : le Trois de Coupes. Tout l’écart entre les deux groupes est expliqué dans [majeurs et mineurs, la différence](/fr/blog/arcanes-majeurs-et-mineurs/).
-6. **Famille** (ou enseigne) — l’un des quatre groupes des arcanes mineurs, chacun lié à un élément : Bâtons (Feu), Coupes (Eau), Épées (Air), Pentacles (Terre). Exemple : ce que le Rider-Waite-Smith nomme Pentacles, le tarot de Marseille l’appelle Deniers.
+6. **Famille** (ou enseigne) — l’un des quatre groupes des arcanes mineurs, chacun lié à un élément : Bâtons (Feu), Coupes (Eau), Épées (Air), Pentacles (Terre). Exemple : les Pentacles du Rider-Waite-Smith sont les Deniers du Marseille.
 7. **Cartes numérales** — les mineurs numérotés, de l’As au Dix, quarante en tout. Exemple : le Cinq de Pentacles est une numérale.
 8. **Figures** (ou cartes de cour) — les seize cartes « personnages » : Valet, Cavalier, Reine et Roi de chaque famille. Exemple : le Roi de Coupes, souvent lu comme une personne, ou comme une manière d’agir.
 9. **Rider-Waite-Smith** — le jeu publié à Londres en 1909 : Arthur Edward Waite l’a conçu, Pamela Colman Smith l’a illustré, et chaque carte y porte une scène, numérales comprises. Exemple : toutes les cartes affichées sur ce site en viennent.
@@ -55,4 +55,4 @@ Ce sont les mots des cartes et de la lecture elle-même. Des mots comme empathe,
 
 Inutile de connaître les 25 pour commencer. Trois suffisent pour une première soirée : tirer une carte, l’élément, la clé de lecture. Tirez une carte, nommez son élément, regardez-la avec une seule clé, et dites ce que vous voyez.
 
-Le reste viendra en lisant. Quand vous voudrez voir les clés de lecture dans l’ordre, [la page méthode](/fr/methode/) les présente une à une.
+Le reste viendra en lisant. Quand vous voudrez aborder les clés de lecture une par une, [la page méthode](/fr/methode/) les présente dans l’ordre.

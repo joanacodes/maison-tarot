@@ -2,7 +2,7 @@
 title: 'Aries in astrology and tarot: its card (The Emperor), its energy, its archetype'
 description: 'The sign of Aries read as a tarot lens: its card The Emperor, its verb
   ''I am'', Mars, Fire, cardinal mode, masculine energy. Impulse, the soldier, the
-  warrior, the doer — the bricklayer rather than the architect.'
+  warrior, the doer — hands on the bricks, not on the blueprint.'
 translationKey: sign-aries
 type: library
 navTitle: Aries
@@ -56,11 +56,11 @@ gallery:
 ---
 ## In one line {#in-one-line}
 
-**Impulse, the soldier, the warrior, the doer — the bricklayer rather than the architect.** Verb: *I am*. Body: [Mars](/library/astrology/mars/). Element: [Fire](/library/four-elements/fire-element/). Mode: [cardinal](/library/astrological-modes/cardinal/). Energy: [masculine](/library/feminine-masculine-energies/). Colour: red. Animal: the ram, the sheep.
+**Impulse, the soldier, the warrior, the doer — hands on the bricks, not on the blueprint.** Verb: *I am*. Body: [Mars](/library/astrology/mars/). Element: [Fire](/library/four-elements/fire-element/). Mode: [cardinal](/library/astrological-modes/cardinal/). Energy: [masculine](/library/feminine-masculine-energies/). Colour: red. Animal: the ram, the sheep.
 
 ## What this energy does {#energy}
 
-Aries energy is very enthusiastic, enterprising and active — and also gullible, and dangerously clumsy with itself. It's the doer, not the architect: the one who lays the first stone without reading the plan, and who is often right to go. Without it nothing starts; with it alone, nothing finishes.
+Aries energy is very enthusiastic, enterprising and active — and also gullible, and dangerously clumsy with itself. It's the doer, not the architect: it gets the wall going before anyone has checked the drawings, and it's often right to go. Without it nothing starts; with it alone, nothing finishes.
 
 ## Favourable sides, unfavourable sides {#flip-side}
 

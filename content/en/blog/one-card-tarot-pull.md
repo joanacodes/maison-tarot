@@ -29,7 +29,7 @@ Some mornings the card will look heavy: the Tower, the Ten of Swords. It isn't a
 
 ## What to write down {#what-to-note}
 
-In the morning, the card, then what you notice through the lenses: the colour that dominates, the number, the element. In the evening, what the day held and whether the morning note fits. Write the evening line before rereading the morning one, or the day will politely rearrange itself to match.
+Each morning, note the card and what the lenses show you: which colour leads, the number, the element. In the evening, what actually happened, and how well the morning's note stood up. Do the evening entry first, without looking back, or the day will politely rearrange itself to match.
 
 Say Tuesday's card is the Four of Wands. Morning: "Yellow everywhere, a garland, two figures raising bouquets, a castle behind. Four, Fire: something built and steady, a home, a celebration." The evening line might be "Housewarming at a friend's new flat", or it might be "Nothing like that today". Both are useful. The second one is the line that teaches you something.
 
@@ -41,13 +41,13 @@ The four in that note comes from the [number grid](/library/numerology/): four i
 
 **One card read properly teaches more than ten cards recited.** In a spread, half your attention goes to "what does position three stand for". With one card, all of it goes to the image.
 
-You also meet the whole deck. A year of daily pulls is 365 draws across 78 cards, so on average you see each card four or five times, on different days and in different moods. That's how you learn a card's range: the same image reads differently from one day to the next.
+You also meet the whole deck. A year of daily pulls is 365 draws across 78 cards, so on average you see each card four or five times, on different days and in different moods. That's how you learn a card's range: one picture, a different reading on a Tuesday than on a Saturday.
 
 Spreads come later. Once a single card reads comfortably, three is the natural next step, and the [three-card spread](/blog/three-card-tarot-spread/) is where I'd go.
 
 ## Practice or crutch: a test {#practice-or-crutch}
 
-Same deck, same gesture; the difference is what you do with the card. Answer honestly:
+Same deck, same gesture; what separates practice from a crutch is what happens to the card afterwards. Answer honestly:
 
 - Do you draw more than once a day?
 - Do you draw again when you don't like the card?
@@ -76,4 +76,4 @@ Leave the deck next to the kettle tonight. Tomorrow: one card, one minute, three
 
 After seven days, reread the week in one sitting. Seven cards side by side, with seven evenings next to them, show you more about how you read than any single morning can.
 
-If you'd like a structure around it, the [learn path](/learn-tarot/) puts the lenses in order, one at a time.
+To give the habit a structure, the [learn path](/learn-tarot/) puts the lenses in order, one at a time.

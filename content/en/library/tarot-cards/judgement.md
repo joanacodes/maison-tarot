@@ -62,7 +62,7 @@ Fire is the only attribution the Golden Dawn gave this card, and that says somet
 
 ## By astrology: Pluto {#astrology}
 
-The Golden Dawn gave Judgement to the element Fire, through the Hebrew letter Shin, and not to a planet. Modern readers later linked it to [Pluto](/library/astrology/pluto/), discovered in 1930: the planet of power and transformation, where you die and are reborn while alive, what you bury and what comes back up. Through Scorpio, Pluto also ties Judgement to Death: two cards that frighten in the picture and say the same thing, that something ends so something else can begin. And Pluto is a generational planet: it stays in one sign for years on end, so it speaks to a generation more than to one person.
+The Golden Dawn gave Judgement to the element Fire, through the Hebrew letter Shin, and not to a planet. Modern readers later linked it to [Pluto](/library/astrology/pluto/), discovered in 1930: the planet of power and transformation, where you die and are reborn while alive, where buried things resurface. Through Scorpio, Pluto also ties Judgement to Death: two cards that frighten in the picture and say the same thing, that something ends so something else can begin. And Pluto is a generational planet: it stays in one sign for years on end, so it speaks to a generation more than to one person.
 
 ## In a reading {#reading}
 
@@ -84,7 +84,7 @@ At work, Judgement comes in three forms. A calling: something you wanted to do l
 
 Reversed at work, the call goes unanswered (“when the children are older”, every January) or gets answered so often that you review your career endlessly and never decide. The first needs a small step; the second, a full stop.
 
-“Is this my true calling? Is it too late?” Those questions carry hope, regret and the fear of losing more years, and I understand wanting a card to settle them. A card can’t tell you what you’re meant to do, and I’d be wary of any reading that tried. A calling isn’t a verdict handed down; it’s something you test, because nobody can tell you from outside what it feels like. Whether to resign or pay for a course is a money decision ([one of the questions I leave out of readings](/disclaimers/#refusals)), and a careers adviser will help you more than a card. A kinder question: “What keeps calling me back, and what would a small test of it look like?”
+“Is this my true calling? Is it too late?” Those questions carry hope, regret and the fear of losing more years, and I understand wanting a card to settle them. A card can’t tell you what you’re meant to do, and I’d be wary of any reading that tried. A calling isn’t a verdict handed down; it’s something you test, because nobody can tell you from outside what it feels like. Whether to resign or pay for a course is a money decision ([one of the questions I leave out of readings](/disclaimers/#refusals)), and a careers adviser will help you more than a card. Judgement’s trumpet suggests a better thing to ask: “What keeps calling me back, and what would a small test of it look like?”
 
 This week, book one small test: a weekend course, a coffee with someone who does the job, an evening trying it on the side.
 

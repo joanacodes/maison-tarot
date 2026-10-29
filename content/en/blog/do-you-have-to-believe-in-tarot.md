@@ -15,7 +15,7 @@ No. Some of the people I’ve read for were openly doubtful, and in my opinion n
 
 ## Does tarot work if you don’t believe in it? {#short-answer}
 
-In the way I read, belief doesn’t enter the process at any point. The person tells me nothing — not the question, not the situation. I draw, I say what comes, and they tell me afterwards whether it landed. Then it goes in my notebook, held or missed.
+In the way I read, belief doesn’t enter the process at any point. The person tells me nothing — not the question, not the situation. The cards go down, I speak whatever comes, and afterwards they say whether it landed. Then it goes in my notebook, held or missed.
 
 There’s no step in that loop where the person has to believe anything. There is a step where they have to be honest. That’s a much smaller ask, and a more useful one.
 
@@ -35,7 +35,7 @@ Openness, the way I use the word, means you’ve agreed to be read. You’re in 
 
 It matters because a person read without knowing it hasn’t opened up: you catch a scrap of them and inflate it into a portrait. It’s partly why I [leave alone anyone who hasn’t asked to be read](/blog/reading-tarot-about-someone-else/). My notes are careful about this: it’s what I’ve noticed and the theory I’ve built on it; nothing has been proven scientifically.
 
-What tends to close a reading, in my experience, isn’t doubt. It’s fear. Sometimes I can’t see anything in the cards, and it’s either my own block — too much pressure to get it right — or the other person’s, because they’re afraid of what they might hear. When that happens I stop and we talk. I reassure them. A person who thinks the whole thing is nonsense can be easier to read than a person who is frightened of it.
+What tends to close a reading, in my experience, isn’t doubt. It’s fear. Sometimes the cards stay blank for me, and the block is either mine — I’m pushing too hard for a hit — or theirs, because they dread what might come out. When that happens I stop and we talk. I reassure them. A person who thinks the whole thing is nonsense can be easier to read than a person who is frightened of it.
 
 ## Does the reader have to believe? {#the-reader}
 
@@ -43,7 +43,7 @@ Not in the way people usually mean. I started reading on 26 December 2020, expec
 
 Before every reading now, I assume that what I’m about to say may be rubbish. Doubt, in my experience, doesn’t get in the way; it helps. A reader who is sure of their gift tends to start rescuing readings instead of saying what comes.
 
-What I have instead of belief is a count, misses included. Readers differ widely on what they believe, and I’ve set out [where I stand, and what to ask any reader instead](/blog/do-tarot-readers-believe/), separately. If you’re a sceptic wondering whether you could learn anyway, I came to astrology to laugh at it, and [how a doubter like me ended up reading](/blog/can-a-sceptic-learn-tarot/) might reassure you.
+What I have instead of belief is a count, misses included. Readers differ widely on what they believe, and I’ve set out [where I stand, and what to ask any reader instead](/blog/do-tarot-readers-believe/), separately. If you’re a sceptic wondering whether you could learn anyway: my own first look at astrology was meant as a joke, and [how a doubter like me ended up reading](/blog/can-a-sceptic-learn-tarot/) might reassure you.
 
 ## When believing too much is the problem {#too-much-belief}
 
@@ -53,4 +53,4 @@ The cards can raise something; the choice of what to do with it stays with you. 
 
 ## Come and test it as a doubter {#test-it}
 
-Come to one of the [free events](/events/) with your arms folded if you like. Keep your story to yourself, listen to the end, and say honestly whether it landed. If it doesn’t, I’ll call it a miss in front of everyone, and you’ll have learned something too.
+Turn up at a [free event](/events/) with your arms folded, if you like. Keep your story to yourself, listen to the end, and say honestly whether it landed. If it doesn’t, I’ll call it a miss in front of everyone, and you’ll have learned something too.

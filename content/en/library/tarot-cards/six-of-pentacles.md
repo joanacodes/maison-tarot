@@ -46,7 +46,7 @@ The man is standing; the other two are on their knees. **Giving — and who stan
 
 ## By number: six {#number}
 
-[Number six](/library/numerology/number-6/) is 3 exalted: the machine isn’t only running, it’s fast, and there’s enough. After the trial of 5, things flow again, and it becomes possible to rest — or to give. In my notes, the Six of Pentacles is the scales: knowing value, and the kingdom lasting.
+[Number six](/library/numerology/number-6/) raises 3 a level: the machine runs at speed now, and there’s enough to go round. After the trial of 5, things flow again, and it becomes possible to rest — or to give. In my notes, the Six of Pentacles is the scales: knowing value, and the kingdom lasting.
 
 When results flow, 6 wants you calm and unassuming, and the scales are that humility made into an object: give, but weigh. Instagram’s 6 was the investment that came from Facebook, the very company that had looked like a threat.
 

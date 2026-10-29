@@ -57,7 +57,7 @@ In the Rider-Waite-Smith, roses are red or white, and most of the meaning sits i
 
 The Fool carries a small white rose in his raised hand as he walks towards the cliff. Innocence, held lightly.
 
-On [the Magician](/library/tarot-cards/the-magician/), red roses and white lilies grow in the garden at his feet, and more roses hang over the top of the card. Desire and clear intent, cultivated side by side by the man with all four tools on his table.
+On [the Magician](/library/tarot-cards/the-magician/), red roses and white lilies grow in the garden at his feet, and more roses hang over the top of the card. Desire and clear intent, cultivated side by side by the one figure who has every suit’s tool in front of him.
 
 Strength wears roses: a chain of flowers with red roses in it winds round the woman’s waist and down her dress, and leaves and flowers crown her hair. What links her to the lion is soft.
 
@@ -75,7 +75,7 @@ When roses come up, look at the colour first, then at what’s being done with t
 
 Lenses: [red](/library/tarot-colours/red/) brings passion, action and strength, [white](/library/tarot-colours/white/) purity, innocence and peace. A red rose wants; a white rose promises.
 
-Say someone draws Death next to the Queen of Pentacles. One white rose on a black flag, a whole bower of red ones over a throne. The reading might be: something is ending, and what you’ve grown with care is still there to come home to.
+Death beside the Queen of Pentacles would put one white rose on a black flag next to a whole bower of red ones over a throne. The reading might be: something is ending, and what you’ve grown with care is still there to come home to.
 
 ## The other side {#flip-side}
 

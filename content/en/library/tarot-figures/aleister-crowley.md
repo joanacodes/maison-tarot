@@ -37,7 +37,7 @@ gallery: []
 
 Aleister Crowley was born in Royal Leamington Spa, in England, in 1875, and died in Hastings in 1947. Britannica describes him as an occultist, writer and mountaineer. He grew up in a Plymouth Brethren family, turned against that upbringing early, studied at Trinity College, Cambridge, and left in 1898 without a degree.
 
-That same year he joined the Hermetic Order of the Golden Dawn, where he learned the system of correspondences that ties each tarot card to a Hebrew letter, a planet, a sign or an element. In 1904, in Cairo, he wrote *The Book of the Law*, which he presented as dictated to him, and which became the founding text of his own religious movement, Thelema.
+That same year he was initiated into the Golden Dawn, the Hermetic order in which he learned the system of correspondences that ties each tarot card to a Hebrew letter, a planet, a sign or an element. In 1904, in Cairo, he wrote *The Book of the Law*, which he presented as dictated to him, and which became the founding text of his own religious movement, Thelema.
 
 He spent the following decades writing, travelling, founding groups and attracting scandal. The popular press of the 1920s called him “the wickedest man in the world”. Britannica sums up the arc in one line: denounced in his lifetime, he became a cult figure after his death. For this page, the question is narrower: what did he do for tarot?
 
@@ -45,7 +45,7 @@ He spent the following decades writing, travelling, founding groups and attracti
 
 Two things: a deck and a book.
 
-In June 1937 the writer Clifford Bax introduced him to the painter [Frieda Harris](/library/tarot-figures/frieda-harris/). The tarot they started was meant to take six months; it took from 1938 to 1943. Crowley supplied the design, the symbolism of every card worked out from the Golden Dawn system and his own revisions, and Harris painted it. By Crowley’s own account in his book, she painted some cards as many as eight times before he was satisfied. Her paintings are now held by the Warburg Institute in London.
+In June 1937 the writer Clifford Bax introduced him to the painter [Frieda Harris](/library/tarot-figures/frieda-harris/). The tarot they started was meant to take six months; it took from 1938 to 1943. Crowley supplied the design, the symbolism of every card worked out from the Golden Dawn system and his own revisions, and Harris painted it. By Crowley’s own account in his book, she painted some cards as many as eight times before he was satisfied. The originals have since gone to London’s Warburg Institute, which holds them today.
 
 The book is *The Book of Thoth*, published in 1944 in an edition of 200 signed copies. It explains each card and the system behind it, and most of what people now call “the Thoth meanings” comes from it.
 

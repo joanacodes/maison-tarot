@@ -19,7 +19,7 @@ It's a full tarot deck of 78 cards. Twenty-two are the majors, from the Fool at 
 
 Two people made it. [Arthur Edward Waite](/library/tarot-figures/arthur-edward-waite/), a writer on mysticism living in London, chose the symbolism and wrote the companion book, *The Pictorial Key to the Tarot* (1910). [Pamela Colman Smith](/library/tarot-figures/pamela-colman-smith/), an illustrator and stage designer, drew all 78 cards in 1909. Both had been members of the Hermetic Order of the Golden Dawn, an occult society founded in London in 1888, and its system of correspondences runs through the deck. That's why Waite swapped two cards: Strength became VIII and Justice XI, the reverse of the older order. [The Golden Dawn and its tarot](/library/tarot-history/golden-dawn-tarot/) explains where that comes from.
 
-Smith was paid a flat fee for the drawings, with no share in the sales. For most of the twentieth century her name wasn't in the deck's name either. “Rider-Waite-Smith”, or “Waite-Smith”, is how readers now put her back.
+Smith received a single payment for the drawings and nothing from the sales. For most of the twentieth century her name wasn't in the deck's name either. “Rider-Waite-Smith”, or “Waite-Smith”, is how readers now put her back.
 
 ## Who was ‘Rider’? {#who-was-rider}
 
@@ -37,7 +37,7 @@ In the decks most people used before, the Tarot de Marseille among them, the min
 
 {{< cards "sw03 cu05 pe08" >}}
 
-She had a model. The Sola Busca, an Italian deck from the end of the fifteenth century, had already illustrated its minor cards, and she very likely saw photographs of it in London. But it was her deck that made illustrated minors the norm.
+She had a model. Scenes on the minor cards already existed in the Sola Busca, made in Italy at the end of the fifteenth century, and she very likely saw photographs of it in London. But it was her deck that made illustrated minors the norm.
 
 ### A cheap edition in the United States
 

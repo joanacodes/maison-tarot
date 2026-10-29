@@ -13,10 +13,8 @@ related:
 - /library/four-elements/air
 - /library/feminine-masculine-energies
 notClaim:
-- Element–suit correspondences are those of the Rider-Waite-Smith tradition. Other
-  decks make other choices.
-- 'An element is a lens, not a verdict: it tells you what the card is about, not what
-  will happen.'
+- The Pentacles–Earth pairing is the one the Rider-Waite-Smith makes; other decks are free to choose differently.
+- Earth tells you a Pentacles card is about value — money, a home, a body, work and what it earns. It can’t say what any of it will be worth next year.
 categories:
 - Elements
 tags:
@@ -56,7 +54,7 @@ It’s an element with mostly [feminine](/library/feminine-masculine-energies/) 
 
 ## Its strength, and the flip side
 
-Earth’s stability means tenacity, perseverance, endurance. The flip side is obvious: **stubborn, dug in**, slow to change its mind even when reality insists. When you draw a lot of Pentacles, ask whether the person is holding steady — or holding on.
+Earth’s stability means tenacity, perseverance, endurance. The flip side is obvious: **stubborn, dug in**, slow to change its mind even when reality insists. A spread heavy with Pentacles raises one question: is this person holding steady, or holding on?
 
 ## Keywords
 
@@ -68,7 +66,7 @@ An artist’s manager. Works in the shadows, constantly and solemnly, and it’s
 
 ## A reading, as an example
 
-You draw the Ten of Pentacles for someone who has told you nothing. Before looking up what the card “means”, you already have two things: *ten* — the end of a cycle, the transition ([numbers](/library/numerology/)) — and *Earth* — what has value, what has been built. You can already talk about an inheritance, a house, an estate changing hands. You memorised nothing.
+You turn over the Ten of Pentacles; the person facing you hasn’t explained a thing. Before looking up what the card “means”, you already have two things: *ten* — the end of a cycle, the transition ([numbers](/library/numerology/)) — and *Earth* — what has value, what has been built. You can already talk about an inheritance, a house, an estate changing hands. You memorised nothing.
 
 {{< cards "pe10" >}}
 

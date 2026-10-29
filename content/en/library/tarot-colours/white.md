@@ -56,7 +56,7 @@ gallery:
 
 **Purity, innocence, peace.**
 
-## Where the colour appears in the deck {#where}
+## Roses, lilies and white horses {#where}
 
 The Magician's inner robe, the Fool's rose and dog, the Sun's horse, Death's horse, the lily of the Ace of Pentacles, Temperance's clothes, the Star's robe — bare, it's the same idea. White is on what starts clean.
 
@@ -64,11 +64,11 @@ The Magician's inner robe, the Fool's rose and dog, the Sun's horse, Death's hor
 
 ## How to read it {#reading}
 
-White says **purity, innocence, peace** — what isn't marked yet. A white card is about a new state, a clear intention, a calm. On Death, the white horse says the transformation is clean: it doesn't soil, it erases.
+White says **purity, innocence, peace** — what isn't marked yet. White on a card points to a new state, a clear intention, a calm. On Death, the white horse says the transformation is clean: it doesn't soil, it erases.
 
 ## The flip side {#flip-side}
 
-White's flip side is naivety — the innocence that doesn't see it coming — and emptiness: the blank page you don't dare start. A lot of white and nothing else: the card is waiting to be written on.
+White can also mean naivety — the innocence that doesn't see it coming — and emptiness: the blank page you don't dare start. A lot of white and nothing else: the card is waiting to be written on.
 
 ## With the other lenses {#lenses}
 

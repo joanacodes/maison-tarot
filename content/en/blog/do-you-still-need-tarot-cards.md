@@ -9,7 +9,7 @@ tags: ["reading without tarot cards", "intuitive tarot reading", "do you need ta
 image: "covers/do-you-still-need-tarot-cards.jpg"
 imageAlt: "A boxed tarot deck on a kitchen table between two cups of tea, two people’s forearms resting on the edge."
 imagePrompt: "A tarot deck still in its closed box on a kitchen table between two cups of tea, two people’s forearms resting on the table edge. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Strictly speaking, maybe not: as my practice grew, messages often arrived before the shuffle. But I keep my cards on the table for two reasons. The person in front of me wants to see them, and a card they can look at makes the reading something we share and can check. And the cards help me focus, or unfocus, so my own thoughts and biases step aside. That’s my experience, not a rule and not a power. If you’re learning, keep your cards: they’re how you learn to tell what comes up from what you already think."
+summary: "Strictly speaking, maybe not: as my practice grew, messages often arrived before the shuffle. But I keep my cards on the table for two reasons. The person in front of me wants to see them, and a card they can look at makes the reading something we share and can check. And a card gives my attention a place to narrow or to drift, so my own opinions and biases move aside. That’s my experience, not a rule and not a power. If you’re learning, keep your cards: they’re how you learn to tell what comes up from what you already think."
 ---
 Strictly speaking, maybe not. With practice, impressions began turning up earlier and earlier, often before the deck was even mixed. But my cards stay on the table, for two reasons that have nothing to do with power: the person in front of me wants to see them, and they help me get my own thoughts out of the way. This is my experience, not a rule.
 
@@ -35,7 +35,7 @@ It also changes the shape of the conversation. With the cards between us, we’r
 
 ## Reason two: the cards help me focus, or unfocus {#focus}
 
-The second reason is about me. The cards help me focus or unfocus, so that my own thoughts and biases step aside.
+The second reason is about me. A card lets my attention narrow or go loose, and either way my own thoughts and biases move aside.
 
 Focus, because the image gives my attention somewhere to land. Instead of drifting towards what I think I know about the person, I look at what’s there: the blue of the water, the number at the top, the element of the suit. [The colour grid](/library/tarot-colours/) is often my first step, because colour reaches you before thought does.
 
@@ -49,7 +49,7 @@ If you’re learning, no. Keep the cards. They’re how you’ll learn to tell t
 
 If you’ve read for a long time and things arrive early for you too, don’t make it into a rank. The reader who no longer needs cards is only a short step from the reader who feels above everyone who does, and that’s one of the egos I describe in [building a practice without becoming a guru](/blog/tarot-practice-without-guru/). Notice it and check it like everything else. Here’s how I’d test it:
 
-1. Read for someone who tells you nothing first — the [silence rule](/blog/the-silence-rule/) matters even more here, since an early impression means nothing if you already know their story.
+1. Choose a sitter who says nothing about themselves beforehand — the [silence rule](/blog/the-silence-rule/) matters even more here, since an early impression means nothing if you already know their story.
 2. Before you shuffle, write down anything that’s already there, even a single word.
 3. Draw and read as usual.
 4. At the end, compare both with what the person confirms.

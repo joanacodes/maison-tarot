@@ -70,7 +70,7 @@ Upright, Strength is courage that doesn’t shout. Someone holding a difficult s
 
 Reversed, the lion gets the upper hand, or the hand grips too hard. Two opposite pictures: anger that spills over after weeks of holding it in, or self-control so tight that you’ve forgotten what the fire was for. Ask which one it is; the person usually knows at once.
 
-Next to [the Chariot](/library/tarot-cards/the-chariot/), it’s the same victory won two ways: the Chariot by direction, Strength by gentleness. Next to [the Magician](/library/tarot-cards/the-magician/), with the same loop above his head, it’s skill turned inward. Next to the [Five of Wands](/library/tarot-cards/five-of-wands/), it’s the calm person in a room where everyone is shouting.
+Next to [the Chariot](/library/tarot-cards/the-chariot/), it’s the same victory won two ways: the Chariot by direction, Strength by gentleness. Next to [the Magician](/library/tarot-cards/the-magician/), with the same loop above his head, it’s skill turned inward. Set beside the [Five of Wands](/library/tarot-cards/five-of-wands/), Strength is the calm person in a room where everyone is shouting.
 
 {{< cards "ar07 ar01 wa05" >}}
 

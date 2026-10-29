@@ -62,7 +62,7 @@ Libra energy wants to be fair and seeks balance at any cost. In a conflict it te
 
 ## Favourable sides, unfavourable sides {#flip-side}
 
-**Favourable.** Wants to be fair; seeks balance at any cost; impartial in a conflict, because it would like each side to leave with the same thing.
+**Favourable.** Wants to be fair; seeks balance at any cost; impartial in a conflict, because it wants nobody to walk away with less than the other.
 
 **Unfavourable.** Indecision — paralysed before an impossible dilemma.
 

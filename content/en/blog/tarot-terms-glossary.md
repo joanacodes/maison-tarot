@@ -17,14 +17,14 @@ These are the words of the cards and of the reading itself. Words like empath, s
 
 ## The deck: cards and suits {#the-deck}
 
-1. **Tarot deck** — a set of 78 cards: 22 major arcana and 56 minor arcana. Example: the Rider-Waite-Smith follows exactly that structure, like most tarot decks sold today.
+1. **Tarot deck** — a set of 78 cards, in which 22 major arcana sit beside a larger group of 56 minor ones. Example: the Rider-Waite-Smith follows exactly that structure, like most tarot decks sold today.
 2. **Arcana** — from the Latin *arcanum*, "a secret"; in tarot, the word for the cards themselves. Example: "the major arcana" are the 22 big cards; one of them is "an arcanum".
 3. **Major arcana** — the 22 named cards, numbered 0 to 21, from the Fool to the World. They speak about the big chapters of a life. Example: Death is major arcanum number 13.
 4. **Minor arcana** — the other 56 cards, in four suits of fourteen. They speak about the days inside those chapters. Example: the Three of Cups is a minor. [The difference between the two groups](/blog/major-vs-minor-arcana/) gets a full comparison.
 5. **Suit** — one of the four families of the minor arcana, each tied to an element; the Wands are Fire, the Cups Water, the Swords Air and the Pentacles Earth. Example: a spread full of Cups is mostly about feelings and relationships.
 6. **Pip cards** — the numbered minors, Ace to Ten, forty in all. Example: the Five of Pentacles is a pip card.
 7. **Court cards** — the sixteen "people" cards: Page, Knight, Queen and King of each suit. Example: the King of Cups, often read as a person, or as a way of behaving.
-8. **Rider-Waite-Smith** — the deck published in London in 1909, conceived by Arthur Edward Waite and drawn by Pamela Colman Smith, in which every card has a scene, pips included. Example: every card shown on this site comes from it.
+8. **Rider-Waite-Smith** — the 1909 London deck that Pamela Colman Smith drew to Arthur Edward Waite's plan, every card a scene, pips included. Example: every card shown on this site comes from it.
 9. **Tarot de Marseille** — the older French pattern, whose pips show the suit symbols arranged on the card, without a scene. Example: its Three of Cups shows three cups, not three women raising them.
 10. **Oracle deck** — a deck with no fixed structure: any number of cards, with meanings set by its author. Example: an oracle might hold 44 cards with a word printed on each. It isn't a tarot, and [here's how the two differ](/blog/tarot-vs-oracle-cards/).
 
@@ -41,7 +41,7 @@ These are the words of the cards and of the reading itself. Words like empath, s
 17. **Reversed card** — a card that comes out upside down. Some readers give it its own meaning, others turn it back. Example: an upside-down Sun. On this site, a reversed card keeps its identity and reads as the same card running slow or running over.
 18. **Significator** — a card chosen to represent the person before the reading starts, often a court card. Example: a Queen of Wands set in the middle for someone fiery. I read without one, and [here's why](/blog/significator-card/).
 19. **Clarifier** — an extra card drawn to explain one that confuses you. Example: a puzzling Moon followed by a "clarifying" Two of Swords. I don't use them. If a reading doesn't land, I call it a miss, and a fourth card would only muddy it.
-20. **Jumper** — a card that falls out of the deck while you shuffle. Some readers treat it as a message; others put it back. Example: the Ace of Cups slipping to the floor mid-shuffle. Neither choice is a rule.
+20. **Jumper** — a card that escapes the deck during shuffling. Some readers treat it as a message; others put it back. Example: the Ace of Cups slipping to the floor mid-shuffle. Neither choice is a rule.
 
 ## The way of reading {#the-practice}
 

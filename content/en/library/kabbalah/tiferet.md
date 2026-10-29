@@ -8,7 +8,7 @@ weight: 7
 categories: ["Kabbalah"]
 tags: ["Tiferet", "Kabbalah and tarot", "Tree of Life", "tarot Sixes", "the Sun", "sephirot"]
 h1: "Tiferet — <em>Beauty</em>, the heart of the Tree"
-lede: "Tiferet is the sixth sephirah: beauty, balance, compassion — the centre where giving and limits meet. The Golden Dawn gave it the four Sixes, the Princes and the Sun: success that lasts because it’s in proportion."
+lede: "Tiferet is the sixth sephirah: beauty, balance, compassion — the centre where giving and limits meet. At that centre sit the four Sixes, the Princes and the Sun: success that lasts because it’s in proportion."
 related:
 - /library/kabbalah
 - /library/kabbalah/tree-of-life
@@ -45,7 +45,7 @@ In the Golden Dawn, the Tree was also a ladder of initiation, and Tiferet became
 | [Six of Swords](/library/tarot-cards/six-of-swords/) | Lord of Earned Success (Mercury in Aquarius) | the crossing to calmer water after the Fives |
 | [Six of Pentacles](/library/tarot-cards/six-of-pentacles/) | Lord of Material Success (Moon in Taurus) | the scales: giving and measuring in one gesture |
 
-On its own, [six](/library/numerology/number-6/) is three exalted, the machine launched and speeding up — success, triumph, a moment you can rest. Its advice is to stay calm and humble when results flow. Tiferet adds the reason a Six holds: it’s balanced.
+On its own, [six](/library/numerology/number-6/) is three exalted, the machine launched and speeding up — success, triumph, a moment you can rest. Its advice, while the results keep coming, is composure and modesty. Tiferet adds the reason a Six holds: it’s balanced.
 
 The Six of Pentacles is where the lens fits best. In my notes it’s the scales, knowing what things are worth. A merchant gives coins with one hand and holds a balance in the other: Chesed and Gevurah in one figure, and Tiferet in the gesture that joins them.
 
@@ -61,13 +61,13 @@ In the court, the third letter of the Name, YHVH — Vav, the Air of each suit �
 
 The Golden Dawn gives Tiferet the [Sun](/library/astrology/sun/). Counted from the slowest, after Saturn, Jupiter and Mars, the Sun is the fourth of the seven planets: the middle of the list, as Tiferet is the middle of the Tree.
 
-The Six of Cups, Tiferet in the suit of Water, is the Sun in Scorpio. Two children in an old courtyard, cups full of white flowers. The Sun here is warmth rather than glare: in my notes, time for yourself, childhood, flowering again.
+The Six of Cups, Tiferet in the suit of Water, is the Sun in Scorpio. Two children in an old courtyard, cups full of white flowers. The Sun here is warmth rather than glare: my notes give this card time to yourself, childhood, a second flowering.
 
 ## Tiferet in a reading {#reading}
 
 What Tiferet can add is one question: is this holding because it’s balanced? Sixes are pleasant cards; through this lens, they also show what keeps the pleasure standing.
 
-Say someone draws the Six of Wands next to the Five of Swords: a victory parade beside a fight won at someone else’s expense. Through Tiferet, the question isn’t whether the person won. It’s whether the win has the proportion that lets it last, and who paid for it.
+A Six of Wands next to a Five of Swords sets a victory parade beside a fight won at someone else’s expense. Through Tiferet, the win itself is a given; what counts is whether it has the proportion that lets it last, and who paid for it.
 
 ## Sources {#sources}
 

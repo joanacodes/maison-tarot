@@ -25,7 +25,7 @@ faq:
 - q: 'What does The Devil mean?'
   a: 'The Devil talks about an attachment: a job, a habit, a relationship or a way of seeing yourself that holds you more than you hold it. It isn’t a judgement or a sign of evil, and the chains on the card are loose enough to lift off. Read it through its number (15, which becomes 6), its element (Earth) and its black background.'
 - q: 'What about The Devil reversed?'
-  a: 'Reversed, the Devil is often the chain starting to slip: you notice what holds you and begin to loosen it. It can also be the same attachment in excess, doubled down on or better hidden. Either way the drawing doesn’t change, and the chains were never locked.'
+  a: 'Reversed, the Devil is often the chain starting to slip: you notice what holds you and begin to loosen it. Or the opposite: the attachment pushed further, doubled down on or better hidden. Either way the drawing doesn’t change, and the chains were never locked.'
 - q: 'Is The Devil a bad card?'
   a: 'No. Like any card it has a plus: here, desire, ambition and the energy to want things. Its minus is when that wanting takes the wheel, and the card shows it so you can do something about it.'
 - q: 'What does The Devil mean for my career?'
@@ -58,7 +58,7 @@ What chains you is usually something you value, which is exactly why it’s hard
 
 ## By colours {#colours}
 
-[Black](/library/tarot-colours/black/) from edge to edge: in my colour grid, absence, void, heavy thoughts — and also reality, the bare thing without varnish. Then orange: the creature’s body, the couple’s skin, the flames of the torch and of the man’s tail — in my grid, creativity and libido. The creature and the two people are painted in the same warm tone, as if what holds them were made of the same stuff they are. Black around, orange within: something real and heavy, a desire that keeps burning, and a hold that comes from inside more than from outside.
+[Black](/library/tarot-colours/black/) from edge to edge, which I read as absence, void, heavy thoughts — and also reality, stripped of its varnish. Then orange: the creature’s body, the couple’s skin, the flames of the torch and of the man’s tail — in my grid, creativity and libido. The creature and the two people are painted in the same warm tone, as if what holds them were made of the same stuff they are. Black around, orange within: something real and heavy, a desire that keeps burning, and a hold that comes from inside more than from outside.
 
 ## By astrology: Capricorn {#astrology}
 
@@ -84,7 +84,7 @@ Say someone has stayed eight years in a job they call “fine” and draws the D
 
 Reversed at work, the chain often starts to slip: the first evening you leave at six and find the building still standing the next morning. In excess, it’s working more so you never have to look.
 
-“Should I quit?” People usually ask it tired, hoping for permission to go or a good reason to stay. I understand. But whether you can afford a change is a money decision, which I don’t read on ([the reasons, and the rest of that list](/disclaimers/#refusals)), and a card that said “leave” would become one more chain: a voice outside you, deciding, when on this card nobody holds the other end. A kinder question: “What is this job giving me that I’m afraid of losing, and where else could I find it?” A budget and an honest adviser will help with the practical side; if the hours cost you sleep or health, see a doctor first.
+“Should I quit?” People usually ask it tired, hoping for permission to go or a good reason to stay. I understand. But whether you can afford a change is a money decision, which I don’t read on ([the reasons, and the rest of that list](/disclaimers/#refusals)), and a card that said “leave” would become one more chain: a voice outside you, deciding, when on this card nobody holds the other end. Turn it towards the chain instead: “What is this job giving me that I’m afraid of losing, and where else could I find it?” A budget and an honest adviser will help with the practical side; if the hours cost you sleep or health, see a doctor first.
 
 **You don’t have to walk out to lift the chain.** This week, name yours in one word — money, status, fear — and loosen one link: one evening without email.
 

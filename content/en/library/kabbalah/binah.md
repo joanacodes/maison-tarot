@@ -8,7 +8,7 @@ weight: 4
 categories: ["Kabbalah"]
 tags: ["Binah", "Kabbalah and tarot", "Tree of Life", "tarot Threes", "tarot Queens", "Saturn"]
 h1: "Binah — <em>Understanding</em>, the form"
-lede: "Binah is the third sephirah, the understanding that takes a flash of insight and gives it a shape. The Golden Dawn gave it the four Threes, the four Queens and Saturn: three ways of saying that an idea now has walls."
+lede: "Binah is the third sephirah, the understanding that takes a flash of insight and gives it a shape. In occult tarot, that shape shows in the four Threes, the four seated Queens and slow Saturn: three ways of saying that an idea now has walls."
 related:
 - /library/kabbalah
 - /library/kabbalah/tree-of-life
@@ -48,7 +48,7 @@ The number already says the machine is running: [three](/library/numerology/numb
 
 ## The Queens {#court}
 
-The Golden Dawn’s Book T places the four court ranks on the Tree after the four letters of the Name, YHVH. The second letter, He, the Water of each suit, goes to Binah. Its figure is a Queen on a throne: for Wands, the Queen of the Thrones of Flame.
+In the Golden Dawn’s Book T, the court cards follow the Name, YHVH: one letter per rank. Binah gets the second letter, He, which stands for the Water in each suit, and its figure is a Queen on a throne — for Wands, the Queen of the Thrones of Flame.
 
 How the Rider-Waite-Smith courts map onto the Golden Dawn’s titles is debated — the Kings and the Knights above all, as the Chokhmah page explains — and tarot authors such as Benebell Wen say so openly. **The Queens are the one rank that keeps its name in both systems.** All four sit in Binah, each the Water of her suit, as the card pages here list them — the Cups Queen being Water twice over.
 
@@ -64,7 +64,7 @@ When I tested astrology on my own chart and other people’s, Saturn came out am
 
 ## Binah in a reading {#reading}
 
-Binah’s question is about form: has this idea found its container yet? Say someone draws the Three of Pentacles after the Two of Wands. Through the Tree, the Two is the plan seen in a flash; the Three is the plan understood well enough to be built with other people.
+Binah’s question is about form: has this idea found its container yet? Put the Three of Pentacles straight after the Two of Wands in a spread. Through the Tree, the Two is the plan seen in a flash; the Three is the plan understood well enough to be built with other people.
 
 It works the other way too. A spread full of Twos and no Threes can describe someone who sees clearly and hasn’t yet sat down to work it out. Binah doesn’t tell them what to do; it names the step.
 

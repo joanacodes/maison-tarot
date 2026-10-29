@@ -53,7 +53,7 @@ The Tarot de Marseille, the French tradition, is for the moment the scenes start
 
 The Thoth, which Frieda Harris painted to Aleister Crowley's design, is for the moment you want to know why a card is built the way it is. It's richly developed, realistic in its own way, and heavy with occult symbolism; in my own notes it sits under "to explore later". [Here's what changes when you switch](/blog/thoth-vs-rider-waite/).
 
-Oracle decks have no moment, because they aren't a step on the same road. They have any number of cards, with meanings set by each author. I see a shelf of oracle decks the way I'd see a small gallery, every card an artwork you can find a message in, so enjoy them whenever you like. What they can't give you is tarot's own frame of suits and numbers. [The difference is explained here](/blog/tarot-vs-oracle-cards/).
+Oracle decks have no moment, because they aren't a step on the same road. They come in any size, and each maker decides what the cards mean. I see a shelf of oracle decks the way I'd see a small gallery, every card an artwork you can find a message in, so enjoy them whenever you like. What they can't give you is tarot's own frame of suits and numbers. [The difference is explained here](/blog/tarot-vs-oracle-cards/).
 
 ## Start with one card {#start}
 

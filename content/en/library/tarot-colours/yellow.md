@@ -56,19 +56,19 @@ gallery:
 
 **Joy, optimism, pride, the inner child, self-expression, will.**
 
-## Where the colour appears in the deck {#where}
+## The sky behind the happiest cards {#where}
 
-The sky of the Fool, the Magician, Strength, the Wheel of Fortune, the Sun, many Pentacles and Cups — the Three of Cups, the Six of Cups, the Nine of Pentacles. The blond hair of the Empress and the Fool. Yellow is the background of the world when the world is well.
+The sky of the Fool, the Magician, Strength, the Wheel of Fortune, the Sun, many Pentacles and Cups — the Three of Cups, the Six of Cups, the Nine of Pentacles. The blond hair of the Empress and the Fool. Yellow is the backdrop whenever things are going well.
 
 {{< cards "ar00 ar01 ar08 ar10 ar19 cu03 cu06 pe09 ar03" >}}
 
 ## How to read it {#reading}
 
-Yellow says **joy, will, pride, the child within**. A yellow-sky card is about something expressing itself, asserting itself, glad to be there. It's also the colour of will: what you want, you want in the sun.
+Yellow says **joy, will, pride, the child within**. Under a yellow sky, something is expressing itself, asserting itself, glad to be there. It's also the colour of will: what you want, you want in the sun.
 
 ## The flip side {#flip-side}
 
-Yellow's flip side is pride turned vanity, and the inner child who refuses to grow up. A bright yellow on a conflict card — the Five of Swords — says someone is gloating over what hurts others.
+In excess, yellow is pride turned vanity, and the inner child who refuses to grow up. A bright yellow on a conflict card — the Five of Swords — says someone is gloating over what hurts others.
 
 ## With the other lenses {#lenses}
 

@@ -38,7 +38,7 @@ Read the digit, not the repetition. The repetition says “look”; the digit sa
 | 555 | 5 — the trial | Which conflict is worth having, and which is useless? |
 | 666 | 6 — expansion, success | Can I stay calm while it flows? |
 | 777 | 7 — analysis, patience | What needs thinking through before I act? |
-| 888 | 8 — the empire, control | What am I holding on to, and what will I pass on? |
+| 888 | 8 — the empire, control | What am I gripping, and who will inherit it? |
 | 999 | 9 — the home stretch | What’s ending, and what’s the last effort? |
 | 000 | 0 or 10 — the transition | Which two rooms am I standing between? |
 
@@ -60,7 +60,7 @@ The four in the title, a little closer.
 
 777 is patience and analysis before action, the moment to negotiate rather than charge. And the advice I like best in the whole cycle: everything is temporary, good or bad.
 
-In the major arcana, the four digits of the title are the Magician, the High Priestess, the Emperor and the Chariot — one card each, if you’d like a picture to go with the question.
+In the major arcana, the four digits of the title are the Magician, the High Priestess, the Emperor and the Chariot — one card each, should you want a picture to go with the question.
 
 {{< cards "ar01 ar02 ar04 ar07" >}}
 
@@ -85,4 +85,4 @@ If you notice that you’ve started waiting for a number before choosing anythin
 
 ## Where to go next {#next}
 
-For the most famous repeating number, read [seeing 11:11 everywhere](/blog/11-11-meaning/). And if you’d like a number that’s calculated once and stays yours, try your [life path number](/blog/life-path-number/).
+For the most famous repeating number, read [seeing 11:11 everywhere](/blog/11-11-meaning/). For a number that’s calculated once and then stays yours, there’s your [life path number](/blog/life-path-number/).

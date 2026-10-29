@@ -16,7 +16,7 @@ faq:
   - q: "Do you need a gift to read cards?"
     a: "No. Reading isn't reserved for a few people born with something extra. Over 300 free readings for strangers I kept a tally of hits and misses, and the method is published so you can learn it."
   - q: "Which tarot deck should a beginner choose?"
-    a: "The 1909 Rider-Waite-Smith. Every card is a scene you can read without a book, and the whole Library is built on it."
+    a: "The 1909 Rider-Waite-Smith. Its pictures show what’s happening even on the numbered cards, so the book is optional from day one — and the whole Library is built on that deck."
   - q: "Should I read reversed cards?"
     a: "A choice, not a rule. Start upright; the lenses already say what the card is about, and the context says whether it's blocked or overflowing."
 ---
@@ -34,7 +34,7 @@ That's the principle of the whole [Library](/library/): lenses, not meanings.
 4. **[Feminine and masculine energies](/library/feminine-masculine-energies/)** — is the card showing itself or hiding? Acting or thinking?
 5. **[Astrological modes](/library/astrological-modes/)** — cardinal, fixed, mutable: to start, to hold, to change. The lens that says the tempo.
 
-With the first three you already read half the deck. The last two refine. [Astrology](/library/astrology/) and [symbols](/library/tarot-symbols/) come after, for those who want to go further — and they aren't mandatory.
+With the first three you already read half the deck. The last two refine. [Astrology](/library/astrology/) and [symbols](/library/tarot-symbols/) come after: extra depth if you want it, never a requirement.
 
 ## Your first reading, today {#first-reading}
 

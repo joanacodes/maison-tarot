@@ -18,7 +18,7 @@ faq:
 - q: "Does a child in a tarot reading mean a pregnancy?"
   a: "People often ask this out of hope or worry, and I understand why. Pregnancy and fertility belong with a doctor, who can actually answer; the cards can’t, so I leave those questions out of readings. What a child in a reading can hold is a beginning, a younger part of you, or someone you look after."
 - q: "Which tarot cards show children?"
-  a: "In the 1909 Rider-Waite-Smith: the Sun, Death, Judgement, the Six of Cups, the Ten of Cups, the Ten of Pentacles and the Six of Swords. A child’s face is also carved into the Queen of Swords’ throne."
+  a: "Seven of the 1909 cards: the Sun, Death, Judgement, the Six of Cups, the Ten of Cups, the Ten of Pentacles and the Six of Swords. A child’s face is also carved into the Queen of Swords’ throne."
 gallery:
 - src: "visuals/sym-child/1.jpg"
   title: "Beside an adult"
@@ -77,7 +77,7 @@ When a child comes up, ask which kind it is. A beginning: a project, a relations
 
 Lenses: [yellow](/library/tarot-colours/yellow/), in my grid, is the inner child — joy, optimism, self-expression. Number: the Six of Cups and the Six of Swords are both 6, and in [my numerology table](/library/numerology/number-6/) 6 is when you can finally rest and take a holiday. Their elements add the rest: Water, what you feel about it; Air, the decision you make for it.
 
-Say someone draws the Six of Cups after years without drawing, painting or playing music. The children might say: go back to the thing you loved before anyone marked it.
+For someone who stopped drawing, painting or playing music years ago, the Six of Cups could carry this message from its children: go back to the thing you loved before anyone marked it.
 
 ## The other side {#flip-side}
 

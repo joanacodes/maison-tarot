@@ -1,7 +1,7 @@
 ---
 title: 'The fixed mode in tarot and astrology: to hold — signs, cards and reading'
 description: 'The fixed mode holds. It stabilises what cardinal launched, it lasts,
-  it resists — and it refuses to change its mind even when reality insists. Four signs
+  it resists — and it stays put even after the facts have moved on. Four signs
   carry it — Taurus, Leo, Scorpio, Aquarius — and four major arcana: the Hierophant,
   Strength, Death, the Star.'
 translationKey: mode-fixed
@@ -16,7 +16,7 @@ tags:
 - cardinal fixed mutable
 h1: Fixed — <em>to hold</em>
 lede: 'The fixed mode holds. It stabilises what cardinal launched, it lasts, it resists
-  — and it refuses to change its mind even when reality insists. Four signs carry
+  — and it stays put even after the facts have moved on. Four signs carry
   it — Taurus, Leo, Scorpio, Aquarius — and four major arcana: the Hierophant, Strength,
   Death, the Star.'
 related:
@@ -67,7 +67,7 @@ The fixed signs sit in the middle of the seasons: Taurus at the heart of spring,
 | Taurus | Earth | [The Hierophant](/library/tarot-cards/the-hierophant/) | Tradition, familiar ground |
 | Leo | Fire | [Strength](/library/tarot-cards/strength/) | Gentle mastery, will |
 | Scorpio | Water | [Death](/library/tarot-cards/death/) | Transformation all the way through |
-| Aquarius | Air | [The Star](/library/tarot-cards/the-star/) | The ideal, the hope that won't let go |
+| Aquarius | Air | [The Star](/library/tarot-cards/the-star/) | An ideal, and a hope it keeps alive |
 
 {{< cards "ar05 ar08 ar13 ar17" >}}
 

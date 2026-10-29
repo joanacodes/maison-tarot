@@ -8,7 +8,7 @@ weight: 8
 categories: ["Kabbalah"]
 tags: ["Netzach", "Kabbalah and tarot", "Tree of Life", "tarot Sevens", "Venus", "sephirot"]
 h1: "Netzach — <em>Victory</em>, the strength to last"
-lede: "Netzach is the seventh sephirah: victory, endurance, the force that keeps going. The Golden Dawn gave it the four Sevens and Venus — which is why the Sevens are about holding on, and about what you’re holding on to."
+lede: "Netzach is the seventh sephirah: victory, endurance, the force that keeps going. Its stamina belongs to the four Sevens and to Venus — so the Sevens are about holding on, and about what you’re holding on to."
 related:
 - /library/kabbalah
 - /library/kabbalah/tree-of-life
@@ -60,7 +60,7 @@ In Jewish sources, Netzach is endurance and victory; with Venus, Hermetic writer
 
 Netzach’s contribution is a question of stamina: what are you holding on to, and is it still worth the effort?
 
-Say someone draws the Seven of Pentacles next to the Eight of Cups. A farmer waiting for a crop; a figure walking away from eight stacked cups. Netzach and Hod side by side on the table: the push to keep going, and the clear look that says when to stop. The reading is in the tension between them.
+Here’s a pairing to try: the Seven of Pentacles beside the Eight of Cups. A farmer waiting for a crop; a figure walking away from eight stacked cups. Netzach and Hod side by side on the table: the push to keep going, and the clear look that says when to stop. The reading is in the tension between them.
 
 ## Sources {#sources}
 

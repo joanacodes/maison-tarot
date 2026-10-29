@@ -58,7 +58,7 @@ gallery:
 ---
 ## What it does in a chart {#chart}
 
-Neptune says where you dissolve: dream, intuition, illusion, the blur between yourself and the rest. Fourteen years in each sign — a generational placement, and the hardest of all to check, because what it describes won't be described. Sign ruled: Pisces.
+Neptune says where you dissolve: dream, intuition, illusion, the blur between yourself and the rest. A whole generation shares its sign, since it lingers about fourteen years in each — and it's the hardest of all to check, because what it describes won't be described. Sign ruled: Pisces.
 
 ## The cards that carry it {#cards}
 
@@ -68,6 +68,6 @@ Neptune says where you dissolve: dream, intuition, illusion, the blur between yo
 
 ## What the test showed {#test}
 
-[Hard to test](/library/astrology/#the-test), and I'm careful with it for a precise reason: it's the placement most used to excuse what people don't want to look at. 'It's my Neptune.' No. I read it as the Hanged Man: a viewpoint to turn over, not a fog to live in.
+[Hard to test](/library/astrology/#the-test), and I'm careful with it for a precise reason: it's the placement most used to excuse what people don't want to look at. 'It's my Neptune.' No. I read it the way I read the Hanged Man: a change of angle you can use, not a mist to settle into.
 
 {{% six %}}

@@ -8,7 +8,7 @@ weight: 11
 categories: ["Kabbalah"]
 tags: ["Malkhut", "Kabbalah and tarot", "Tree of Life", "tarot Tens", "Shekhinah", "sephirot"]
 h1: "Malkhut — the <em>Kingdom</em>, where everything lands"
-lede: "Malkhut is the tenth and last sephirah: kingship, the presence of God in the world, the place where everything from above is received. The Golden Dawn gave it the four Tens, the Princesses and the elements — the cycle complete, in a real house, with real people."
+lede: "Malkhut is the tenth and last sephirah: kingship, the presence of God in the world, the place where everything from above is received. Everything that comes down lands on the four Tens, the Princesses and the elements — the cycle complete, in a real house, with real people."
 related:
 - /library/kabbalah
 - /library/kabbalah/tree-of-life
@@ -68,7 +68,7 @@ On the Golden Dawn’s Tree, three paths arrive in Malkhut, carrying the Moon, J
 
 Malkhut asks for the concrete: where does this land — in which house, which job, which week?
 
-Say someone draws the Ten of Wands. Ten says a stage is complete and asks you to start something else. Malkhut adds that the load is real: carried by one person, towards an actual front door. The question becomes what can be put down at the threshold.
+The Ten of Wands shows how. Ten says a stage is complete and asks you to start something else. Malkhut adds that the load is real: carried by one person, towards an actual front door. The question becomes what can be put down at the threshold.
 
 A reading only reaches Malkhut when someone does something with it. This lens is at its best when it brings a reading back down to earth.
 

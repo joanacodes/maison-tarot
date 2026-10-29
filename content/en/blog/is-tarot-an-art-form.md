@@ -21,7 +21,7 @@ The deck I use was drawn in 1909 by [Pamela Colman Smith](/library/tarot-figures
 
 ### 2. Decks are collected like paintings
 
-Collecting tarot and oracle decks is like collecting art: each card is a small piece of art you can see messages through. A deck designer makes art meant to be used, a little like a product designer who mixes art and calculation. Few objects sit that neatly between the two.
+I treat my decks, tarot and oracle alike, the way a collector treats prints: every card a small work with messages in it. A deck designer makes art meant to be used, a little like a product designer who mixes art and calculation. Few objects sit that neatly between the two.
 
 ## Reading is interpretation, not translation {#interpretation}
 
@@ -45,7 +45,7 @@ A card changes with the person reading it, and with the day it’s read. Like a 
 
 ### 6. Anyone can learn it; some have a knack
 
-Every single person I’ve helped to read managed it within their first three tries. Like drawing: some people have more talent, and anyone who practises gets there. There are no Chosen Ones, which is why I [gently hand back the “you have a gift” compliment](/blog/you-have-a-gift/).
+Everyone I’ve coached through a first reading managed it in three goes or fewer. Like drawing: some people have more talent, and anyone who practises gets there. There are no Chosen Ones, which is why I [gently hand back the “you have a gift” compliment](/blog/you-have-a-gift/).
 
 ### 7. Its only real technique is letting go
 

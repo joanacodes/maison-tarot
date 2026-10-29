@@ -14,9 +14,8 @@ related:
 - /library/four-elements/fire
 - /library/feminine-masculine-energies
 notClaim:
-- Element–suit correspondences are those of the Rider-Waite-Smith tradition. Some
-  schools swap Air and Fire; Maison Tarot follows the Rider-Waite-Smith.
-- An element tells you what the card is about, not what will happen.
+- Swords are Air in Waite and Smith’s deck. Some schools hand them to Fire instead; I keep the 1909 pairing.
+- Air shows that a Swords card is about thinking and deciding. Which way the decision goes, it can’t tell you.
 categories:
 - Elements
 tags:
@@ -62,11 +61,11 @@ To think · analysis · decision-making · the mind.
 
 ## The archetype
 
-The chief, the leader, the authority figure who takes the decisions nobody else can take. And who, by the same token, can become a tyrant. Many Swords in a spread: someone thinks a lot, decides a lot, or has their life dictated by someone who decides for them.
+The chief, the leader, the authority figure: when a choice is too heavy for anyone else, it lands on them. And the same seat can turn them into a tyrant. Many Swords in a spread: someone thinks a lot, decides a lot, or has their life dictated by someone who decides for them.
 
 ## A reading, as an example
 
-The Two of Swords, for someone who has told you nothing. *Two*: cooperation, binding, weighing pros and cons. *Air*: the mind, the decision. You can already talk about a choice being postponed with eyes closed, two options held at equal distance. Nothing memorised.
+Out comes the Two of Swords, and you know nothing about the person’s situation. *Two*: cooperation, binding, weighing pros and cons. *Air*: the mind, the decision. You can already talk about a choice being postponed with eyes closed, two options held at equal distance. Nothing memorised.
 
 {{< cards "sw02" >}}
 

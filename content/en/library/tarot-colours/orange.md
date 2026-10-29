@@ -56,7 +56,7 @@ gallery:
 
 **Creativity, dryness, libido.**
 
-## Where the colour appears in the deck {#where}
+## The hot ground of the Wands {#where}
 
 The ground and sky of many Wands — the Three, the Five, the Seven — the Knight of Wands' robe, the Chariot's canopy, the Wheel of Fortune itself, the Devil's flames. Wherever the world heats up.
 
@@ -64,11 +64,11 @@ The ground and sky of many Wands — the Three, the Five, the Seven — the Knig
 
 ## How to read it {#reading}
 
-Orange says **creativity, libido, heat** — the energy that makes. An orange card is about a desire looking for a shape: a project, an attraction, an urge to do. It's the colour of the [Wands](/library/four-elements/fire-element/) above all.
+Orange says **creativity, libido, heat** — the energy that makes. Orange on a card means a desire looking for a shape: a project, an attraction, an urge to do. The [Wands](/library/four-elements/fire-element/) wear it more than any other suit.
 
 ## The flip side {#flip-side}
 
-Orange's flip side is dryness: cracked ground, heat without water, desire that comes to nothing. A lot of orange and no blue: the card is thirsty.
+Left to burn, orange dries out: cracked ground, heat without water, desire that comes to nothing. A lot of orange and no blue: the card is thirsty.
 
 ## With the other lenses {#lenses}
 

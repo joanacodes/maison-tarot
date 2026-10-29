@@ -19,7 +19,7 @@ Intuitive reading means working from what a card stirs in you, not from a meanin
 
 Those impressions come in different shapes. Some people see images, some hear a word or a sentence, some feel a sensation in the body or an emotion, now and then even a smell. Most of us are sharper in one channel than the others, and no channel is better.
 
-Say you draw the Eight of Swords. A book will tell you something like restriction. You look, and notice the blindfold, the feet left free, the swords that don't quite close the circle. What comes might be: "Someone waiting for a permission they don't need." That sentence is yours, and it's what a reading is made of. My own note on this card is close: you're the one keeping yourself captive, with everything you'd need already to hand; nothing stops you lifting the blindfold.
+Say you draw the Eight of Swords. A book will tell you something like restriction. You look, and notice the blindfold, the feet left free, the swords that don't quite close the circle. What comes might be: "Someone holding out for a yes nobody has to give them." That sentence is yours, and it's what a reading is made of. My notes on this card come close: you're the one keeping yourself captive, with everything you'd need already to hand; nothing stops you lifting the blindfold.
 
 {{< cards "sw08" >}}
 
@@ -30,7 +30,7 @@ The cards help, but they aren't the source. They're a medium: while your eyes re
 Letting go is the only real technique, and it's harder than it sounds, because you're trying to stop trying.
 
 1. Say a sentence that lowers the stakes before you start. Mine is in [the beginners' guide](/blog/how-to-read-tarot-beginners/).
-2. Describe before you interpret: what's on the card, what you see, what you receive, in that order.
+2. Start with the picture, not the meaning: what's on the card, what you see, what you receive, in that order.
 3. Say it out loud, in plain words, without correcting yourself halfway.
 4. Don't take yourself too seriously. A reading isn't an exam.
 
@@ -54,7 +54,7 @@ Other times something comes and you feel you shouldn't say it, or not like that.
 - Write down what you said and, beside it, what they confirmed. The [tarot journal](/blog/tarot-journal/) shows how.
 - Count your misses, and write them in the notebook too.
 
-The honest limit: a confirmation is still the person's judgement, and people are generous. Checking doesn't prove how intuition works. It shows you when yours is working, which is what a reader needs. If you keep wondering whether you're inventing it all, I've written about [how to tell whether you're making it up](/blog/am-i-making-it-up-tarot/).
+The honest limit: a confirmation is still the person's judgement, and people are generous. Checking doesn't prove how intuition works. It shows you when yours is working, which is what a reader needs. If you keep wondering whether you're inventing it all, I've written about [telling a reading from an invention](/blog/am-i-making-it-up-tarot/).
 
 ## Go slowly {#go-slowly}
 
@@ -68,4 +68,4 @@ Empathy helps — feeling and understanding the other person's emotions — as l
 
 Seven mornings, one card each. Write three lines, following step 2 above. On the eighth day, find one person who'll tell you nothing, read for them, and fill both columns.
 
-If you'd like company for the first try, every [workshop](/workshops/) opens on a card and leaves the explaining until afterwards.
+Company helps on a first try: every [workshop](/workshops/) opens on a card and leaves the explaining until afterwards.

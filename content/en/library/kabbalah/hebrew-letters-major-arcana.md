@@ -128,13 +128,13 @@ The sign on each of these cards is also its door into [astrology](/library/astro
 
 ## The French order: Lévi and Wirth {#levi-wirth}
 
-French books often give other letters, and they aren’t wrong: they follow another system. Éliphas Lévi, in *Dogme et rituel de la haute magie*, lets the letters follow the numbers of the Tarot de Marseille. Aleph goes to card I, the Magician (the Bateleur), Beth to card II, and so on to Resh for Judgement (XX). The Fool, which has no number, takes Shin, the twenty-first letter, so it sits between Judgement and the World, which takes Tav. [Oswald Wirth](/library/tarot-figures/oswald-wirth/) printed Lévi’s letters on the cards he drew in 1889 (see the [Wikipedia article on his deck](https://en.wikipedia.org/wiki/Oswald_Wirth_Tarot)).
+French books often give other letters, and they aren’t wrong: they follow another system. Éliphas Lévi, in *Dogme et rituel de la haute magie*, matches them to the Marseille numbering instead: Aleph takes the Magician (the Bateleur), card I; Beth, card II; and so on to Resh for Judgement (XX). The Fool, which has no number, takes Shin, letter twenty-one, so it sits between Judgement and the World, which takes Tav. [Oswald Wirth](/library/tarot-figures/oswald-wirth/) printed Lévi’s letters on the cards he drew in 1889 (see the [Wikipedia article on his deck](https://en.wikipedia.org/wiki/Oswald_Wirth_Tarot)).
 
 Marseille decks keep Justice at VIII and Strength at XI, so Lévi gives Cheth to Justice and Kaph to Strength. The result: for most cards, a French book gives the letter just before the one on this site. The Magician is Aleph, not Beth; the Hermit is Teth, not Yod. **Check which table a book uses before you compare its meanings with these.**
 
 ## What a letter adds to a reading {#reading}
 
-A letter adds an image, not a meaning. Say the Hermit comes up: Yod, the hand. Look at what his hand is doing, and at what yours would do in his place. If the image helps you see the card, keep it; if it doesn’t, the number, the element and the colours do the work without it.
+A letter adds an image, not a meaning. If the Hermit comes up, think Yod, the hand. Look at what his hand is doing, and at what yours would do in his place. If the image helps you see the card, keep it; if it doesn’t, the number, the element and the colours do the work without it.
 
 The letters sit on the paths of [the Tree of Life](/library/kabbalah/tree-of-life/): that page shows which two spheres each card joins.
 

@@ -17,13 +17,13 @@ If you want to read for people soon, learn tarot first: you can give a first rea
 
 Start with tarot if you want to read for others this month, if you like faces more than tables, or if you learn by doing. Start with astrology if you love systems, if you want to understand yourself before anyone else, and if you have the time to check slowly.
 
-If you can’t decide, start with tarot and borrow one piece of astrology from day one: the three [astrological modes](/library/astrological-modes/) — cardinal, fixed, mutable — which are one of the five lenses I teach. They tell you whether a card starts something, holds it, or adapts it, without asking you to learn a single chart.
+If you can’t decide, start with tarot and borrow one piece of astrology from day one: the three [astrological modes](/library/astrological-modes/) — cardinal, fixed, mutable — the one lens out of my five that astrology lends to tarot. They tell you whether a card starts something, holds it, or adapts it, without asking you to learn a single chart.
 
 ## How they differ, side by side {#side-by-side}
 
 | | Tarot | Astrology |
 | --- | --- | --- |
-| What you need to start | A deck — I use the 1909 Rider-Waite-Smith | A date, a place and, ideally, a time of birth |
+| What you need to start | A deck — mine is Rider-Waite-Smith, the 1909 edition | A date, a place and, ideally, a time of birth |
 | What you learn | 78 cards, read through a few lenses | 12 signs, the Sun, the Moon and eight planets, plus Chiron and points like Lilith, 12 houses, the angles between them |
 | What it describes | What’s around you or someone now | Tendencies fixed at birth |
 | How you check it | The person confirms or not, often on the spot | Tick or cross, placement by placement, over weeks |
@@ -41,13 +41,13 @@ And because it surprised me too. My friends gave me my first deck for Christmas 
 
 ## Why astrology still earns its place {#why-astrology}
 
-I came to astrology to laugh at it, read my own chart, and found it more accurate than I liked. I started ticking and crossing each placement, on my own chart first and then on other people’s. The overall hit rate came out between 30 and 40%, while Saturn, Lilith and Chiron landed far more often, between 75 and 90%. The [full account of that experiment](/blog/i-tested-my-birth-chart/) has its own page; what I kept from it is that being right a third of the time makes astrology worth consulting, and too shaky to lean on.
+I came to astrology to laugh at it, read my own chart, and found it more accurate than I liked. I started ticking and crossing each placement, on my own chart first and then on other people’s. The overall hit rate came out between 30 and 40%, while Saturn, Lilith and Chiron landed far more often, between 75 and 90%. Every tick and cross from [that experiment](/blog/i-tested-my-birth-chart/) is on record; what I kept from it is that being right a third of the time makes astrology worth consulting, and too shaky to lean on.
 
-Inside the deck, that usefulness is concrete. Twelve major arcana have a sign attached, a pairing inherited from the Golden Dawn, and each numbered minor from Two to Ten pairs a planet with a sign. The Emperor is Aries, Strength is Leo, Death is Scorpio.
+Inside the deck, that usefulness is concrete. Twelve major arcana have a sign attached, a pairing inherited from the Golden Dawn, and each numbered minor from Two to Ten pairs a planet with a sign. Three you’ll meet early: Aries for the Emperor, Leo for Strength, Scorpio for Death.
 
 {{< cards "ar04 ar08 ar13" >}}
 
-When Death comes out, Scorpio hands you a verb (“I desire”), an element (Water) and a mode (fixed) for free: what ends here is something you were attached to. That’s what astrology does for a reader. I show six cards where it changes the reading in [astrology and tarot together](/blog/astrology-and-tarot-cards/).
+When Death comes out, Scorpio hands you a verb (“I desire”), an element (Water) and a mode (fixed) for free, and between them they tell you that whatever is ending had a hold on someone’s heart. That’s what astrology does for a reader. I show six cards where it changes the reading in [astrology and tarot together](/blog/astrology-and-tarot-cards/).
 
 ## Why I keep both {#why-both}
 

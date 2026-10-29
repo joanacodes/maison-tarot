@@ -62,7 +62,7 @@ Calm feeling, joy, honesty — and a passion hovering over the two of them, held
 
 ## By astrology: Venus in Cancer {#astrology}
 
-This card sits at the very start of Cancer, in Venus’s decan. Venus says what you love and how you love. [Cancer](/library/astrology/cancer/) says *I feel*: the nurturer, the one who makes a home liveable. In combination: a love that wants a home, care given and received, attachment more than conquest.
+This card sits at the very start of Cancer, in Venus’s decan. Venus shows what you’re drawn to and how you give your affection. [Cancer](/library/astrology/cancer/) says *I feel*: the nurturer, the one who makes a home liveable. In combination: a love that wants a home, care given and received, attachment more than conquest.
 
 Optional, as always: if astrology isn’t one of your lenses, the number and the element have already said it.
 

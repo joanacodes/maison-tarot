@@ -19,7 +19,7 @@ A conjunction is the moment when two planets, seen from Earth, sit at the same d
 
 This one took a year to arrive. Neptune entered Aries on 30 March 2025, and Saturn followed in late May. In July 2025 they came within about a fifth of a degree of each other without quite meeting, then both backed into Pisces — Saturn on 1 September, Neptune on 22 October. They returned to Aries early in 2026, Neptune on 26 January and Saturn in mid-February, and met exactly on the 20th.
 
-The previous Saturn–Neptune conjunction was in 1989, in Capricorn. The last one in Aries was in 1703, at about 11°. Bigger claims went round — "the first at 0° Aries in two thousand years", "the first since 4361 BC" — but they don't agree with each other and I couldn't check them, so I leave them out. [Cafe Astrology's page for the day](https://cafeastrology.com/events/february-20-2026) has the date; [Jessica Adams's list of past conjunctions](https://www.jessicaadams.com/2025/01/10/blog/the-saturn-neptune-conjunction-in-aries/) has 1703.
+The previous Saturn–Neptune conjunction was in 1989, in Capricorn. The last one in Aries was in 1703, at about 11°. Bigger claims went round — "the first at 0° Aries in two thousand years", "the first since 4361 BC" — but they contradict one another and I couldn't check them, so I leave them out. [Cafe Astrology's page for the day](https://cafeastrology.com/events/february-20-2026) has the date; [Jessica Adams's list of past conjunctions](https://www.jessicaadams.com/2025/01/10/blog/the-saturn-neptune-conjunction-in-aries/) has 1703.
 
 One more detail about the timing: the same fortnight held a solar eclipse on 17 February and the start of a Mercury retrograde on 26 February. With three signals in ten days, it becomes very hard to say which one did anything at all.
 
@@ -56,4 +56,4 @@ As a three-card look-back, that gives: what closed for me this year, what I now 
 
 ## The next step {#next-step}
 
-Saturn and Neptune met once and moved on; some transits stay for decades. If you'd like the calm version of the long one, here is [Pluto in Aquarius, explained without the drama](/blog/pluto-in-aquarius/).
+Saturn and Neptune met once and moved on; some transits stay for decades. For the calm version of the long one, here is [Pluto in Aquarius, explained without the drama](/blog/pluto-in-aquarius/).

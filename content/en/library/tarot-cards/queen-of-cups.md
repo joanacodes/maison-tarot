@@ -23,7 +23,7 @@ related:
 - /library/astrology
 faq:
 - q: 'What does the Queen of Cups mean?'
-  a: 'Emotional understanding from the inside: someone who feels what others feel and stays herself. The Queen is inner mastery and Water of Water is emotion at its deepest, so she understands without being told.'
+  a: 'Emotional understanding from the inside: someone who feels what others feel and stays herself. As a Queen she masters what happens inside, and as Water of Water she feels at the deepest level, so she understands without being told.'
 - q: 'What about the Queen of Cups reversed?'
   a: 'Depth that closes up or floods: the lid stays on the cup, feelings kept so private that no one can reach them, or you absorb everyone’s emotions until you can’t tell which ones are yours.'
 - q: 'Is the Queen of Cups a person?'

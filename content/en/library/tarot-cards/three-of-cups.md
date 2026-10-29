@@ -38,7 +38,7 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-Three young women dance in a circle, each raising a golden cup above her head. The one on the left wears white, her dark curly hair loose, and turns towards us. The one in the middle has her back to us, wrapped in a long red cloak, and lifts her cup highest. The one on the right wears a brown tunic over a white skirt, leaves in her hair, a bunch of grapes in her lowered hand. Their arms cross and touch; you can’t quite tell where one ends and the next begins.
+Three young women dance in a circle, each raising a golden cup above her head. The one on the left wears white, her dark curly hair loose, and turns towards us. The one in the middle has her back to us, wrapped in a long red cloak, and lifts her cup highest. The one on the right wears a brown tunic over a white skirt, leaves in her hair, and lets a cluster of grapes hang from one hand. Their arms cross and touch; you can’t quite tell where one ends and the next begins.
 
 At their feet lies the harvest: a pumpkin, grapes, vine leaves, and on the left a bush heavy with orange fruit. Behind them, a plain pale blue sky. No house, no table, no audience — the celebration is for the three of them. **It’s a party with nothing to prove: the harvest is in, and they’re raising a cup to it.**
 

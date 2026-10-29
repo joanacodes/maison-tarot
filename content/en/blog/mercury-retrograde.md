@@ -43,7 +43,7 @@ And it can't carry the blame for what we say. A retrograde can be a good reason 
 
 ## Using a retrograde with your cards {#with-your-cards}
 
-Mercury's card is [the Magician](/library/tarot-cards/the-magician/), and through its two signs it also carries the Lovers (Gemini) and the Hermit (Virgo). Three ways of thinking: the one who lays every tool on the table, the one who has to choose, and the one who checks by lantern-light. In my notes the Magician is the messenger, his wand raised to receive and send; his minus side is that he can pretend, if you trust him blindly. That's worth keeping in mind for three weeks given over to words.
+Mercury's card is [the Magician](/library/tarot-cards/the-magician/), and through its two signs it also carries the Lovers (Gemini) and the Hermit (Virgo). Three ways of thinking: the one who lays every tool on the table, the one who has to choose, and the one who checks by lantern-light. My notes make the Magician the messenger, his wand raised to receive and send — and, trusted blindly, a skilled pretender. That's worth keeping in mind for three weeks given over to words.
 
 {{< cards "ar01 ar06 ar09" >}}
 

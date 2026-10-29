@@ -35,7 +35,7 @@ Practice teaches the things a book can only name. Letting go, which is the only 
 
 The risk with learning from a book first is that you start reciting. You draw a card, you reach for the sentence you memorised, and you stop looking.
 
-Say someone draws the Five of Cups.
+The Five of Cups makes a good test.
 
 {{< cards "cu05" >}}
 
@@ -65,4 +65,4 @@ That's all. Two books, a guide, and a lot of cards on a lot of tables.
 
 ## Close the book, open the deck {#next-step}
 
-Tonight, draw one card and say what you see before you check a single meaning. Then read what the book says and notice where you agree. If you'd like to try it with people around you, the [workshops](/workshops/) have you reading before you've been taught anything, and the explaining comes after — on purpose.
+Tonight, draw one card and say what you see before you check a single meaning. Then read what the book says and notice where you agree. Doing the same with people around you is how the [workshops](/workshops/) run: you read before you've been taught anything, and the explaining comes after — on purpose.

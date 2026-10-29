@@ -31,7 +31,7 @@ The Victoria and Albert Museum, which holds cards from the deck, describes the d
 
 **The scenes on the minor cards, which let you read the deck without memorising it, are Pamela Colman Smith’s.** In the Tarot de Marseille, the minors are pips: cups, coins, swords or batons arranged by number. Hers show people: a figure walking away from eight cups, three women raising theirs, a man carrying ten heavy staves. I teach with this deck because of those pictures.
 
-The deck still goes by several names. Many readers now say Rider-Waite-Smith, or Smith-Waite, to give the artist her due; “Rider” is the publisher. [Why it became the standard](/blog/rider-waite-smith-tarot/) has its own article.
+The deck still goes by several names. Many readers now say Rider-Waite-Smith, or Smith-Waite, to give the artist her due; “Rider” is the publisher. The blog covers [why it became the standard](/blog/rider-waite-smith-tarot/).
 
 ## The secrets go into print {#print}
 

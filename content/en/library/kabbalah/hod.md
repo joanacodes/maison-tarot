@@ -8,7 +8,7 @@ weight: 9
 categories: ["Kabbalah"]
 tags: ["Hod", "Kabbalah and tarot", "Tree of Life", "tarot Eights", "Mercury", "sephirot"]
 h1: "Hod — <em>Splendour</em>, the light that bows"
-lede: "Hod is the eighth sephirah: splendour, majesty, and the acknowledgement that goes with them. The Golden Dawn gave it the four Eights and Mercury — the mind at work, the craft, the message — and the question of what the mind does with its own brilliance."
+lede: "Hod is the eighth sephirah: splendour, majesty, and the acknowledgement that goes with them. Its splendour lands on the four Eights and on Mercury — the mind at work, the craft, the message — and on the question of what the mind does with its own brilliance."
 related:
 - /library/kabbalah
 - /library/kabbalah/tree-of-life
@@ -58,7 +58,7 @@ That’s where the Hermetic system moved the tradition. In Jewish sources, Hod i
 
 Hod asks about the mind’s part: is the thinking serving the situation, or running it?
 
-Say someone draws the Eight of Swords alone. A woman bound and blindfolded, the swords planted around her but not touching. My note on this card: you’re your own jailer, holding everything you’d need to get out — and you’re free to untie the blindfold. Through Hod, the bonds are made of thoughts. And the older meaning of the word helps too: the first step out is to acknowledge the blindfold is there.
+Take the Eight of Swords on its own. A woman bound and blindfolded, the swords planted around her but not touching. My note on this card: you’re your own jailer, holding everything you’d need to get out — and you’re free to untie the blindfold. Through Hod, the bonds are made of thoughts. And the older meaning of the word helps too: the first step out is to acknowledge the blindfold is there.
 
 Next to a Seven, Hod meets Netzach on the table: the drive to continue, and the analysis that checks it. Read them as a conversation.
 

@@ -8,7 +8,7 @@ weight: 28
 categories: ["Symbols"]
 tags: ["tarot symbols", "path", "Temperance", "The Moon", "tarot symbolism"]
 h1: "The path — the way is <em>drawn</em>, the walking isn’t"
-lede: "A path is a way someone has walked before you. In the Rider-Waite-Smith it winds from a pool to the mountains on Temperance and the Moon, runs through a garden arch on the Ace of Pentacles, and leads off to town behind the Eight of Pentacles."
+lede: "A path is a way someone has walked before you. On the cards it winds from a pool to the mountains on Temperance and the Moon, runs through a garden arch on the Ace of Pentacles, and leads off to town behind the Eight of Pentacles."
 related:
 - /library/tarot-symbols
 - /library/tarot-cards/temperance
@@ -53,7 +53,7 @@ A path is a line on the ground made by people walking the same way. Nobody desig
 
 On a card, ask three things: where the path starts, where it goes, and whether anyone is on it.
 
-## Where it appears in the deck {#where}
+## From the pool to the peaks, and the road to town {#where}
 
 On [Temperance](/library/tarot-cards/temperance/), a path climbs from the pool where the angel stands, through green hills, towards two peaks with a rayed light rising between them. Nobody is walking it yet.
 
@@ -69,7 +69,7 @@ And one card without a path: on the Eight of Cups, a man walks away from his cup
 
 {{< zoom "path" "rest" >}}
 
-The peaks these paths lead to have [their own page](/library/tarot-symbols/mountain/).
+The peaks these paths lead to are covered under [the mountain](/library/tarot-symbols/mountain/).
 
 ## How to read it {#reading}
 
@@ -77,7 +77,7 @@ When a path comes up, look at where it starts, whether there’s light at the en
 
 Lenses: Temperance is [Fire](/library/four-elements/fire-element/), the Moon is Water, the Ace of Pentacles is Earth. The same path can be an impulse to follow (Fire), a feeling you trust without seeing far (Water), or a practical plan (Earth). Number: the Eight of Pentacles is 8 — in my notes, mastery and the effort it takes. Its road is where good work ends up going.
 
-Say someone draws the Moon while unsure about moving to another city. The path might say: the way exists, even if tonight you can only see the next few steps.
+Someone unsure about moving to another city — to take an imagined case — draws the Moon. The path’s answer: the way exists, even if tonight you can only see the next few steps.
 
 ## The other side {#flip-side}
 

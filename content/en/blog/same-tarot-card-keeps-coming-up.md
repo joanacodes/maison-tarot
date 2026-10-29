@@ -37,7 +37,7 @@ Say someone pulls the Eight of Swords five times in two weeks.
 
 {{< cards "sw08" >}}
 
-A woman stands bound and blindfolded, eight swords planted in the ground around her. Her feet aren’t tied, and the swords don’t close the circle. For me, [the Eight of Swords](/library/tarot-cards/eight-of-swords/) is being a prisoner of yourself while you’re holding every tool you need: you can take the blindfold off. If that person has spent weeks saying they can’t leave a job, the card isn’t stuck. They are, and they know it.
+A woman stands bound and blindfolded inside a loose ring of eight blades stuck in the earth. Her feet aren’t tied, and the ring has a gap. For me, [the Eight of Swords](/library/tarot-cards/eight-of-swords/) is being a prisoner of yourself while you’re holding every tool you need: you can take the blindfold off. If that person has spent weeks saying they can’t leave a job, the card isn’t stuck. They are, and they know it.
 
 What to do with it: treat the repeated card as a question rather than a verdict. Write down, “If this card were right about me, what would I do this week?” Then do the smallest version of the answer. Sometimes, once something moves, the card stops turning up — or you stop noticing it, which, as the section above shows, can amount to the same thing.
 

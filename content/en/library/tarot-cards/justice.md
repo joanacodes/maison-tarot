@@ -38,7 +38,7 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-A crowned figure sits between two grey stone pillars and looks straight at you. She wears a red robe under a green cape, and a golden crown. In her right hand she holds a sword upright; in her left, a pair of golden scales. Behind her, a purple curtain hangs between the pillars, with a yellow background above it. One white shoe peeks out from under her robe.
+A crowned figure sits between two grey stone pillars and looks straight at you. She wears a red robe under a green cape, and a golden crown. Her right hand raises a sword, point up; her left holds a pair of golden scales. Behind her, a purple curtain hangs between the pillars, with a yellow background above it. One white shoe peeks out from under her robe.
 
 One thing is missing: the blindfold. The figures of Justice you see on statues and paintings often have their eyes covered; this one doesn’t. **This is a decision made with your eyes open — weighed first, then cut.**
 
@@ -46,7 +46,7 @@ One thing is missing: the blindfold. The figures of Justice you see on statues a
 
 Add the digits of 11 and you land on [the number 2](/library/numerology/number-2/): two parties, the contract, the bond. Its advice could be written on this card: know what you’re signing, and put each side on the scale before you choose. Its minus is the stubbornness of someone who decided before weighing anything.
 
-In the Instagram story, 2 is the moment the founders sign with investors: someone else’s money and conditions come in, and you’d better have read the small print. Justice is that signature. (In Marseille decks, Justice is 8 and Strength 11; Waite swapped them.)
+In the Instagram story, 2 is the moment the founders sign with investors: someone else’s money and conditions come in, and you’d better have read the small print. Justice is that signature. (The Marseille numbering has the two the other way round — Justice 8, Strength 11 — and Waite swapped them.)
 
 ## By element: Air {#element}
 
@@ -70,7 +70,7 @@ Upright, Justice is a fair decision, a balance restored, the consequence of what
 
 Reversed, the scales tip. A decision rushed, or never made because you keep weighing. An unfair arrangement you’ve accepted, or a judgement on yourself that’s harsher than the facts.
 
-Next to the [Two of Swords](/library/tarot-cards/two-of-swords/), the other Air 2, you see the difference: the blindfolded woman can’t decide; Justice can. Next to the [Six of Pentacles](/library/tarot-cards/six-of-pentacles/), with its own pair of scales, it’s about knowing your value — a salary, a fair share of the work. Next to [Strength](/library/tarot-cards/strength/), its swapped twin, it’s firmness and gentleness in the same decision.
+Beside the [Two of Swords](/library/tarot-cards/two-of-swords/), another Air 2, the difference shows: the blindfolded woman can’t decide; Justice can. Next to the [Six of Pentacles](/library/tarot-cards/six-of-pentacles/), with its own pair of scales, it’s about knowing your value — a salary, a fair share of the work. Next to [Strength](/library/tarot-cards/strength/), its swapped twin, it’s firmness and gentleness in the same decision.
 
 {{< cards "sw02 pe06 ar08" >}}
 
@@ -80,7 +80,7 @@ When this card comes up, some people think of an ongoing court case, and I under
 
 ## A reading, as an example {#example}
 
-Justice, then the Two of Swords, in a draw you set up yourself. 11, so 2, next to another 2 — twice the number of two sides and a bond. Air twice: it’s all happening in the head. Red, green and purple on the first card; on the second, a blindfolded woman on a stone bench under a night sky.
+Justice, then the Two of Swords, in a draw you set up yourself. 11, so 2, next to another 2 — twice the number of two sides and a bond. Air twice: it’s all happening in the head. Red, green and purple for Justice; for the Two, a blindfolded woman on a stone bench under a night sky.
 
 Open eyes beside a blindfold, put into words: “There’s a choice between two options you’ve been turning over for a long time, and you already know which one is fair — you haven’t let yourself look at it yet.”
 

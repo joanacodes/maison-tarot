@@ -31,7 +31,7 @@ Take the card, put aside everything you’ve heard about it, and say three thing
 
 The Ten of Swords, read that way. [Ten](/library/numerology/number-10/) closes a cycle, with the next one already in view. Swords are [Air](/library/four-elements/air-element/): thinking, decisions, the mind that cuts cleanly and can also go round in circles. The colours: a black sky over the figure, and under it, along the horizon, a band of light.
 
-Put together: a way of thinking has gone as far as it can go, and it’s over. The worst is already on the ground; the light is at the edge of the picture. **The lenses read the card in front of you, not the one you’ve been told about.**
+Put together: a way of thinking has run out of road, and it’s over. The worst is already on the ground; the light is at the edge of the picture. **The lenses read the card in front of you, not the one you’ve been told about.**
 
 ## Find its plus, then its minus {#plus-and-minus}
 
@@ -50,7 +50,7 @@ When you’ve found both sides of a card you dislike, you can read it for someon
 3. Write one line in your notebook.
 4. At the end of the week, put it back, and notice how it feels the next time it turns up.
 
-The same image reads differently from one day to the next, and a card you look at fresh every morning slowly stops being the card you’d decided it was. It works like the daily card in [practising tarot with nobody to read for](/blog/practise-tarot-alone/), with one card held still for a whole week.
+The same image reads differently from one day to the next, and a card you look at fresh every morning slowly stops being the card you’d decided it was. It works like the daily card in [my solo practice drills](/blog/practise-tarot-alone/), with one card held still for a whole week.
 
 ## When the dislike is a memory {#memory}
 

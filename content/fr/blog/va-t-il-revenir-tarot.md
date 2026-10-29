@@ -50,7 +50,7 @@ Interrogez la personne qui est là : vous. Quelques questions qui fonctionnent b
 - Que ferais-je autrement si j’arrêtais d’attendre ?
 - Qu’est-ce que cette relation m’a appris sur ce que je veux ?
 
-Supposons que la première question fasse sortir le Cinq de Coupes : une silhouette en manteau noir, la tête penchée vers les trois coupes tombées, sans voir les deux qui tiennent toujours derrière elle. Pour moi, c’est la plus sombre des 78 : la perte, le cœur en berne, et l’impression d’être seul avec tout ça. C’est honnête sur ce qu’on ressent. Mais le Cinq de Coupes garde aussi deux coupes pleines dans son dos, et la silhouette ne s’est pas encore retournée.
+Supposons que la première question fasse sortir le Cinq de Coupes : une silhouette en manteau noir, la tête penchée vers les trois coupes tombées. Pour moi, c’est la plus sombre des 78 : la perte, le cœur en berne, et l’impression d’être seul avec tout ça. C’est honnête sur ce qu’on ressent. Mais le Cinq de Coupes garde aussi deux coupes pleines dans son dos, et la silhouette ne s’est pas encore retournée.
 
 À côté, le Six de Coupes : deux enfants dans un jardin, l’un tend à l’autre une coupe remplie de fleurs. Prendre du temps pour soi, revenir à ce qui nous rendait heureux, refleurir.
 
@@ -63,7 +63,7 @@ Aucune des deux ne dit si quelqu’un va revenir. Ensemble, elles disent quelque
 1. Retournez votre téléphone le temps d’une soirée. Pas pour toujours ; pour une soirée.
 2. Si vous voulez vous servir de vos cartes, tirez-en une, sur vous. Notez ce que vous voyez avant de décider de ce que ça veut dire.
 3. Dites à voix haute, à une personne de confiance, ce que vous ressentez.
-4. Si la douleur reste lourde pendant des semaines, ou qu’elle gagne votre sommeil et votre travail, la porte d’un thérapeute vaut mieux qu’un jeu de cartes. Vos cartes n’ont pas failli : pour ce poids-là, une personne formée est l’outil juste.
+4. Si la douleur reste lourde pendant des semaines, ou qu’elle gagne votre sommeil et votre travail, la porte d’un thérapeute vaut mieux qu’un jeu de cartes. Vos cartes n’ont pas failli pour autant : pour ce poids-là, c’est la bonne porte.
 
 Et quoi que dise un tirage, le vôtre ou le mien, [une carte n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
 

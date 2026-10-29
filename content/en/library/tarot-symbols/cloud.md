@@ -53,13 +53,13 @@ A cloud is weather. It sits between the sky and the ground, it hides the sun for
 
 An everyday example: the week of waiting for exam results, or for news after a job interview. Nothing has happened. You can’t see through it. And yet you know it will pass, one way or the other.
 
-## Where it appears in the deck {#where}
+## Soft clouds that carry, torn clouds that threaten {#where}
 
 The deck draws two kinds of cloud.
 
 The first are soft and white, and they carry something. On the Lovers, the angel floats above a cloud. On Judgement, the angel bursts out of a bank of clouds with a trumpet. On the World and on the Wheel of Fortune, four winged creatures — a human figure, an eagle, a bull, a lion — sit on clouds at the corners.
 
-The second are grey or torn. On the Tower, grey clouds hang against a black sky while the building burns. On the Three of Swords, a heavy cloud lets rain fall in slanting lines behind the pierced heart; in my notes that card is also a blood pact. On the Knight of Swords, the clouds are shredded by the wind he rides into. On the Five of Swords, they’re jagged.
+The second are grey or torn. On the Tower, grey clouds hang against a black sky while the building burns. On the Three of Swords, a heavy cloud lets rain fall in slanting lines behind the pierced heart; my notes also give that card a second sense, a bond signed in blood. On the Knight of Swords, the clouds are shredded by the wind he rides into. On the Five of Swords, they’re jagged.
 
 On [the Seven of Cups](/library/tarot-cards/seven-of-cups/), the cups themselves rest on a bank of cloud.
 
@@ -67,13 +67,13 @@ On [the Seven of Cups](/library/tarot-cards/seven-of-cups/), the cups themselves
 
 {{< zoom "cloud" "rest" >}}
 
-The Page, Queen and King of Swords all have clouds behind them too. And five cards bring a hand out of a cloud — that one has [its own page](/library/tarot-symbols/hand-from-a-cloud/).
+The Page, Queen and King of Swords all have clouds behind them too. And five cards bring a hand out of a cloud — see [the hand from a cloud](/library/tarot-symbols/hand-from-a-cloud/) for those.
 
 ## How to read it {#reading}
 
 First, which kind of cloud? White and carrying a figure, it’s a message arriving from above the situation. Grey and torn, it’s the situation itself: unsettled, noisy, not finished.
 
-With the lenses: clouds belong with [Air](/library/four-elements/air-element/), the element of the mind, decisions and communication — which is why the Swords are full of them. In colour, they’re white or [grey](/library/tarot-colours/grey/): in my grid, grey is neutrality, no particular will. A cloud doesn’t want anything. It passes.
+Clouds belong with [Air](/library/four-elements/air-element/), the element of the mind, decisions and communication — which is why the Swords are full of them. In colour, they’re white or [grey](/library/tarot-colours/grey/), the colour I read as neutral, wanting nothing in particular. A cloud doesn’t want anything. It passes.
 
 ## The other side {#flip-side}
 

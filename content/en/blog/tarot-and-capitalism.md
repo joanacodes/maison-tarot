@@ -41,7 +41,7 @@ The incentive changes. A practice asks “did this help?”. A product asks “w
 
 You can watch it drift in three directions:
 
-- Towards the questions that sell. “Is he coming back?”, “Will I get pregnant?”, “Should I take the money?” are the questions people most want answered, and the ones where a wrong word does most damage. They’re on my list of subjects I don’t read on.
+- Towards the questions that sell. “Is he coming back?”, “Am I going to get pregnant?”, “Should I invest the money?” People want those answered more than anything, and a wrong word does the most damage there. They’re on my list of subjects I don’t read on.
 - Towards repeat visits. Sessions that end on a cliffhanger, pay-per-question, [subscriptions and “extended readings”](/blog/tarot-subscriptions/). Each one rewards the reader when you need them again.
 - Towards objects. I sold sage, candles and “channelled” cards in 2021, and I explain [why I stopped](/blog/cleanse-tarot-deck/): nothing in that box improved a reading, and a shop pays you for selling things, not for reading well.
 
@@ -49,7 +49,7 @@ None of this needs a villain. It needs a slow month and a calendar to fill.
 
 ## Free isn’t automatically pure {#free-isnt-pure}
 
-Free has its own traps. A free reading is often the opening move of a sale: the first card costs nothing, the “blockage” it reveals costs a lot. If you’ve ever wondered how to tell a present from a hook, I wrote down [what to check before a free online reading](/blog/before-a-free-online-reading/).
+Free has its own traps. Plenty of sales start with a reading that costs nothing: the first card is a gift, the “blockage” it reveals costs a lot. If you’ve ever wondered how to tell a present from a hook, I wrote down [what to check before a free online reading](/blog/before-a-free-online-reading/).
 
 Free can also wear out the reader, especially the generous ones who end up reading for hours for people who don’t think to ask how they are.
 
@@ -59,7 +59,7 @@ I can afford that because lessons pay. Not every reader has that option, and jud
 
 ## My answer: lessons paid, readings free {#my-answer}
 
-I sell lessons: one-to-one sessions of sixty minutes, and three-hour workshops for twelve people, one lens each. Readings happen at free events, drawn at random, in front of everyone.
+What I sell is teaching: sixty-minute one-to-one sessions, and three-hour workshops for twelve people, one lens each. Readings happen at free events, drawn at random, in front of everyone.
 
 The reason is the incentive again. If readings paid my rent, I’d depend on people coming back for more of them. Lessons work the other way: they’ve done their job when a student needs me less. And at a free event, saying “that’s a miss” costs me nothing, so I say it every time.
 
@@ -76,4 +76,4 @@ If you’d rather pay a reader — and plenty of good readers charge — here’
 5. The session ends without a cliffhanger.
 6. Nobody tells you something is “on you” that only they can remove.
 
-To see what a reading looks like when nothing is for sale afterwards, [come to a free event](/events/). The people I read there tell me nothing first, and you can count my misses with me.
+A reading with nothing to buy at the end is what the [free events](/events/) offer. The people I read there tell me nothing first, and you can count my misses with me.

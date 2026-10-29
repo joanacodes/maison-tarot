@@ -23,7 +23,7 @@ Arthur Edward Waite printed this spread in the guide he wrote for the Rider-Wait
 
 You’ll find books that number the four cards around the centre in a different order. Pick one version, write it down, and keep it: a layout that changes every week can’t teach you anything.
 
-Don’t confuse it with the cross spread taught in France, which shares the outline of a cross and little else: five cards, no column, and a centre card you calculate by adding up the other four. That one has its own page, [the French cross spread](/blog/cross-tarot-spread/); this one is about the ten-card Celtic Cross.
+Don’t confuse it with the cross spread taught in France, which shares the outline of a cross and little else: five cards, no column, and a centre card you calculate by adding up the other four. For that one, see [the French cross spread](/blog/cross-tarot-spread/); here, it’s the ten-card Celtic Cross.
 
 Waite began by choosing one card to stand for the person — a significator — and laid the spread over it. I leave that step out. [I read without a significator](/blog/significator-card/), so card 1 comes from the shuffle like all the others.
 
@@ -98,4 +98,4 @@ Card 10 gets read last, and lightly. It’s a direction, not a prophecy: where t
 
 Tarot isn’t an authority: your own sense of things comes before the card in tenth place. And a big spread doesn’t open the door to what I leave aside: your health or anyone’s, death, pregnancy, an ongoing trial, a money decision, a person who hasn’t agreed to be read. [My refusals page](/disclaimers/#refusals) explains why, and the reasons hold for ten cards as much as for one.
 
-If you’d like to lay your first Celtic Cross with someone beside you, a [workshop](/workshops/) gives you three hours, twelve people and plenty of cards on the table.
+Laying your first Celtic Cross goes better with someone beside you: a [workshop](/workshops/) gives you three hours, twelve people and plenty of cards on the table.

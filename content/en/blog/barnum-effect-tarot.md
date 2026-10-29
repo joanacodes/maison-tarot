@@ -38,7 +38,7 @@ Three things in a reading make it fertile ground.
 
 The cards are broad. I teach each one with a bright side and a shadow side, which means any card can be read in two directions. That breadth is what makes the deck useful, and it’s also what lets a vague sentence slide in.
 
-Say someone draws the Two of Swords, the Moon and the Five of Cups.
+A three-card example: the Two of Swords, the Moon and the Five of Cups.
 
 {{< cards "sw02 ar18 cu05" >}}
 
@@ -72,7 +72,7 @@ Say the cards are the Eight of Swords and the Four of Wands.
 
 {{< cards "sw08 wa04" >}}
 
-In my notes, the Eight of Swords is someone prisoner of themselves while holding every tool they need — the blindfold can come off. The Four of Wands is foundations: marriage, building a family. The Barnum version of these two cards is “you feel stuck, but you have more freedom than you think”: it fits anyone, so it doesn’t count. The specific version names a situation, a role and a cause: “a plan for a home or a wedding is on hold, and you’re the one holding it.” It could be wrong, which is exactly why it’s worth saying.
+My notes on the first: a self-made prison, with every means of escape already in hand, and a blindfold that can be lifted. On the second: foundations — a wedding, a family being built. The Barnum version of these two cards is “you feel stuck, but you have more freedom than you think”: it fits anyone, so it doesn’t count. The specific version names a situation, a role and a cause: “a plan for a home or a wedding is on hold, and you’re the one holding it.” It could be wrong, which is exactly why it’s worth saying.
 
 **A sentence that can be wrong is the only kind worth counting.** If the person says no, it’s a miss and I write it down. If they say yes, it means something, because it could easily have been no.
 
@@ -84,9 +84,9 @@ I used the same test on astrology, starting with my own chart: a placement earne
 
 The Barnum effect explains very well why vague readings feel accurate. It’s worth being just as clear about what it doesn’t cover.
 
-It predicts instant agreement. My [very first reading for a stranger](/blog/first-tarot-reading-story/) went the other way: she said it didn’t resonate, and a few days later wrote back that it had all happened. A Barnum statement gets a yes on the spot. This got a no, and then a fact.
+It predicts instant agreement. With [the first stranger I ever read for](/blog/first-tarot-reading-story/), it went the other way: she said it didn’t resonate, and a few days later wrote back that it had all happened. A Barnum statement gets a yes on the spot. This got a no, and then a fact.
 
-That’s one story, and one story proves nothing on its own. I don’t know why the specific hits happen, and I don’t claim to; I’ve gone through [the four usual theories](/blog/how-does-tarot-work/), and none of them fully covers it. What I can say is that once the vague sentences are struck, something is left over, at a rate I can state, with misses I name.
+That’s one story, and one story proves nothing on its own. I don’t know why the specific hits happen, and I don’t claim to; I’ve gone through [the four usual theories](/blog/how-does-tarot-work/), and each leaves part of it unexplained. What I can say is that once the vague sentences are struck, something remains: a rate I can put a number on, and misses I can point to one by one.
 
 The other honest limit is me. My checks reduce the Barnum effect; they don’t remove it. I still catch vague sentences in my own notebook, and I expect I always will. Finding them is the work.
 
@@ -100,4 +100,4 @@ You don’t need to trust my numbers; run the checks on readings of your own.
 4. Of what’s left, mark what was confirmed and what wasn’t.
 5. Do this ten times before you draw any conclusion about yourself.
 
-The gap between the accuracy you felt and the accuracy you scored is the most useful thing a reader can see. If you’d rather do it with someone watching, come to one of the [free events](/events/), where the people read are drawn at random and every reading is compared at the end.
+Set how right a reading felt beside how right it scored: nothing will teach you more about your own reading than the distance between the two. You can also watch the checks done live: at the [free events](/events/), whoever gets read is picked by lot, and every reading is compared at the end.

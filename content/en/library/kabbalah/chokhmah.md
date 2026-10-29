@@ -8,7 +8,7 @@ weight: 3
 categories: ["Kabbalah"]
 tags: ["Chokhmah", "Kabbalah and tarot", "Tree of Life", "tarot Twos", "court cards", "Golden Dawn"]
 h1: "Chokhmah — <em>Wisdom</em>, the first flash"
-lede: "Chokhmah is the second sephirah, the flash of wisdom that comes before words. The Golden Dawn gave it the four Twos and the court’s mounted figures — and which Rider-Waite-Smith card that means is still argued about."
+lede: "Chokhmah is the second sephirah, the flash of wisdom that comes before words. In the cards, that flash belongs to the four Twos and to the court’s horsemen — and readers still argue over which Rider-Waite-Smith figure the horseman is."
 related:
 - /library/kabbalah
 - /library/kabbalah/tree-of-life
@@ -68,7 +68,7 @@ That suits the Twos, the first cards in each suit to receive a decan, a planet i
 
 What Chokhmah can add is modest: a question about whether the person already knows. Twos are often read as hesitation. With Chokhmah in mind, they can also be an intuition that hasn’t been trusted yet.
 
-Say someone draws the Two of Swords next to the Two of Wands. A blindfold on one side, a globe in the hand on the other: someone who can’t decide, and someone who already sees the whole map. Through Chokhmah, they can be the same person at two moments — the answer came first, the fear of it came after.
+Lay the Two of Swords beside the Two of Wands. A blindfold on one side, a globe in the hand on the other: someone who can’t decide, and someone who already sees the whole map. Through Chokhmah, they can be the same person at two moments — the answer came first, the fear of it came after.
 
 Try it on the four Twos: read them with and without Chokhmah, and see whether it adds anything for you.
 

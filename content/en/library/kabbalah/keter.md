@@ -8,7 +8,7 @@ weight: 2
 categories: ["Kabbalah"]
 tags: ["Keter", "Kabbalah and tarot", "Tree of Life", "sephirot", "tarot Aces", "Golden Dawn"]
 h1: "Keter — the <em>Crown</em>"
-lede: "Keter is the first sephirah of the Tree of Life, the crown above the head. In Jewish Kabbalah it is the most hidden of the ten; in the Golden Dawn’s tarot it holds the four Aces, the roots of the elements before they do anything."
+lede: "Keter is the first sephirah of the Tree of Life, the crown above the head. Jewish Kabbalah calls it the most hidden of the ten; in the deck, that hidden source shows up as the four Aces, the roots of the elements before they do anything."
 related:
 - /library/kabbalah
 - /library/kabbalah/tree-of-life
@@ -35,7 +35,7 @@ On the Tree, Keter is number 1, at the top of the middle column. With [Chokhmah]
 
 ## The four Aces {#cards}
 
-The link between the Tree and the cards came late. Christian scholars borrowed the Tree, nineteenth-century occultists reworked it, and the Hermetic Order of the Golden Dawn, founded in London in 1888, gave every card, planet and element a place on it. [The Golden Dawn’s tarot](/library/tarot-history/golden-dawn-tarot/) has its own page.
+The link between the Tree and the cards came late. Christian scholars borrowed the Tree, nineteenth-century occultists reworked it, and the Golden Dawn, a Hermetic order set up in London in 1888, found a place on it for every card, planet and element. The History section follows [how that order built its tarot](/library/tarot-history/golden-dawn-tarot/).
 
 Its tarot manuscript, Book T, places the numbered minors by number: each sephirah takes the four cards of its number, one per suit. Keter — a sephirah some Jewish sources won’t even count — receives the Aces.
 
@@ -62,7 +62,7 @@ It fits the cards. In the same system the Aces get no planet and no sign; the de
 
 Keter adds a question more than a meaning: is this still a wish, or already a direction?
 
-Say someone draws the Ace of Swords next to the Eight of Pentacles. Through Keter, the Ace is the idea at its root, with no skill attached yet; the Eight is the work that will give it a form. The reading becomes: the idea is sound, and now it has to come down the Tree, into someone’s hands.
+Suppose the Ace of Swords lands next to the Eight of Pentacles. Through Keter, the Ace is the idea at its root, with no skill attached yet; the Eight is the work that will give it a form. The reading becomes: the idea is sound, and now it has to come down the Tree, into someone’s hands.
 
 Several Aces at once are a crowd of beginnings, none of them shaped. That isn’t a bad sign. It says that beginnings need choosing, and the cards around them will often show which one has started to move.
 

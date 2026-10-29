@@ -44,7 +44,7 @@ No path, no house, no companion, no sun or moon. He has reached the top and he i
 
 ## By number: 9 {#number}
 
-[The number 9](/library/numerology/number-9/) is the finish line in sight: the end of a stage, the last efforts, introspection, patience — while you keep moving. That’s the Hermit’s posture exactly. He has climbed nearly all the way, and instead of celebrating he stops to look inward before the last step.
+[The number 9](/library/numerology/number-9/) marks the last stretch: a stage closing, final efforts, introspection, patience — without stopping. That’s the Hermit’s posture exactly. He has climbed nearly all the way, and instead of celebrating he stops to look inward before the last step.
 
 The redesign that closed everything Instagram had been known for, just before it became something else, was its 9. The Hermit is that moment in a life: what defined you is closing, and you need a quiet stretch to see what you’ll keep.
 

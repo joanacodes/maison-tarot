@@ -8,7 +8,7 @@ weight: 11
 categories: ["Symbols"]
 tags: ["tarot symbols", "pillars", "Boaz and Jachin", "High Priestess", "tarot symbolism"]
 h1: "The pillars — standing <em>between</em> two forces"
-lede: "Two pillars make a doorway. In the Rider-Waite-Smith, the figures who sit between them — the High Priestess, the Hierophant, Justice — keep a threshold: you don’t go through until you understand what stands on either side."
+lede: "Two pillars make a doorway. The deck seats three figures between them — the High Priestess, the Hierophant, Justice — and each keeps a threshold: you don’t go through until you understand what stands on either side."
 related:
 - /library/tarot-symbols
 - /library/tarot-cards/the-high-priestess
@@ -18,7 +18,7 @@ faq:
 - q: "What do the B and J on the High Priestess’s pillars mean?"
   a: "They’re traditionally read as Boaz and Jachin, the two pillars at the entrance of Solomon’s Temple in the Bible. The card doesn’t explain them; what it shows is one black pillar, one white one, and a woman sitting between them."
 - q: "Are the two towers on the Moon and Death cards pillars too?"
-  a: "They aren’t drawn as pillars, but they do a similar job: two uprights with a passage between them. I read them as a gateway seen from far away."
+  a: "They aren’t drawn as pillars, but they do a similar job: two uprights with a passage between them. To me they work like a distant gate."
 gallery:
 - src: "visuals/sym-pillars/1.jpg"
   title: "Two posts, one entrance"
@@ -53,7 +53,7 @@ A pillar holds something up; two pillars make an entrance. That’s the whole sy
 
 In tarot, pillars also say “two”. Two forces, two options, two sides that hold the roof up precisely because they stand apart.
 
-## Where it appears in the deck {#where}
+## B and J, grey stone, and a canopy on wheels {#where}
 
 The High Priestess sits between a black pillar marked B and a white one marked J, with a veil of palms and pomegranates hung between them. The letters are traditionally read as Boaz and Jachin, the pillars of Solomon’s Temple. She doesn’t get up to let you through.
 
@@ -63,7 +63,7 @@ Justice sits between two grey pillars as well, with a purple curtain hung behind
 
 The Chariot carries its own: posts hold up the starry canopy above the driver. A doorway that travels.
 
-Two cards have cousins rather than pillars: the two towers on the horizon of [the Moon](/library/tarot-cards/the-moon/) and of Death, a gateway seen from far off. The [tower](/library/tarot-symbols/tower/) has its own page.
+Two cards have cousins rather than pillars: the two towers on the horizon of [the Moon](/library/tarot-cards/the-moon/) and of Death, an entrance glimpsed at a distance. For those, see [the tower](/library/tarot-symbols/tower/).
 
 {{< cards "ar02 ar05 ar11 ar07" >}}
 
@@ -73,9 +73,9 @@ Two cards have cousins rather than pillars: the two towers on the horizon of [th
 
 When pillars come up, ask what’s being kept on either side. The pillars don’t move, and the person between them doesn’t either. The card is about a passage you haven’t made yet, and the conditions for making it.
 
-Colour first: black and white on the High Priestess is two opposites held together; grey on the Hierophant and Justice is, in [my colour grid](/library/tarot-colours/grey/), neutrality and stability — a frame that doesn’t take sides. Number next: the High Priestess is 2, and Justice, card 11, comes back to 2 when you add its digits. Both sit between two pillars. [The number 2](/library/numerology/number-2/) is binding, signing, weighing: read the contract before you commit.
+Colour first: black and white on the High Priestess is two opposites held together; grey on the Hierophant and Justice reads as [neutrality and stability](/library/tarot-colours/grey/): a frame that doesn’t take sides. Number next: the High Priestess is 2, and Justice, card 11, comes back to 2 when you add its digits. Both sit between two pillars. [The number 2](/library/numerology/number-2/) is binding, signing, weighing: read the contract before you commit.
 
-Say someone draws the Hierophant just as a new job is on the table. The pillars say there’s a structure here, with its own rules, and you’ll go in on its terms or not at all. That isn’t bad news; it’s information.
+If a new job is on the table when the Hierophant appears, the pillars say there’s a structure here, with its own rules, and you’ll go in on its terms or not at all. That isn’t bad news; it’s information.
 
 ## The other side {#flip-side}
 

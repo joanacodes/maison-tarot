@@ -60,7 +60,7 @@ A [blue](/library/tarot-colours/blue/) sky: emotion, vitality, the feminine, wha
 
 ## By astrology: Mars in Pisces {#astrology}
 
-The Golden Dawn closes the Cups with [Mars](/library/astrology/mars/) in the final decan of Pisces. Mars is action, desire, the way you take what you want. In Pisces, that energy goes into protecting and providing rather than fighting. It’s an odd pairing for such a peaceful card, and it says something useful: this happiness was worked for.
+The Golden Dawn closes the Cups with [Mars](/library/astrology/mars/) in the final decan of Pisces. Mars is action and appetite, going after what you want. In Pisces, that energy goes into protecting and providing rather than fighting. It’s an odd pairing for such a peaceful card, and it says something useful: this happiness was worked for.
 
 Readers who don’t use the zodiac lose nothing: the rainbow and the dancing children carry the card.
 

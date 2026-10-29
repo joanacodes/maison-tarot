@@ -48,7 +48,7 @@ What’s missing: softness of any kind. No plants, no other people, no gesture o
 
 The [number 4](/library/numerology/number-4/) is 2 exalted: the alliance has become a structure, the fruit of your work, something that holds. Look at the throne: a block of stone, square and level. The Emperor is a 4 sitting on a 4.
 
-In the story of Instagram on my numerology pages, 4 is the big success that came fast: a shape, a team, habits — and the moment a company starts believing it will never have to change again. Hence the advice of 4: stay flexible, stay open to what you hadn’t planned. Its minus is carrying on when you should stop, out of pure stubbornness.
+In the story of Instagram on my numerology pages, 4 is the big success that came fast: a shape, a team, habits — and the moment a company starts believing it will never have to change again. Hence the advice of 4: stay flexible, make space for what nobody planned. Its minus: persisting past the point of sense, out of pure stubbornness.
 
 ## By element: Fire {#element}
 
@@ -84,7 +84,7 @@ Say someone has just been promoted to lead the team they used to belong to. The 
 
 Reversed at work, the rules harden into control — checking every email, confusing respect with fear — or the throne sits empty and nobody decides anything.
 
-“What does my boss think of me?” is a natural question with this card: that person holds part of your working life. But your boss isn’t in the room. The Emperor gives orders; a reading shouldn’t. A kinder question: “What do I need from the people above me, and how can I ask for it clearly?” If the worry is about your contract or how you’re being treated, HR or a staff representative can tell you where you stand.
+A worry about the boss, and what they think of you, often turns up with this card, which is natural: that person holds part of your working life. But your boss isn’t in the room. The Emperor gives orders; a reading shouldn’t. What you can ask the cards is about your side of it: “What do I need from the people above me, and how can I ask for it clearly?” If the worry is about your contract or how you’re being treated, the people to ask are your HR department or an employee representative: they know what your contract actually says.
 
 This week, ask one person for feedback and act on one piece of it — the one thing the Emperor never does.
 

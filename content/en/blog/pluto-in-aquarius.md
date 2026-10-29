@@ -37,7 +37,7 @@ In astrology, Pluto describes power and transformation: what gets buried, and wh
 
 Put the two together and you get the usual reading of this transit: power moving through technology, networks and collectives. Who owns the tools, who belongs to which group, which ideas organise people. The previous twenty years, Pluto in Capricorn (2008–2024), were read through institutions, governments and debt.
 
-Astrologers also point back to the last pass, which covered the American Revolution and the French Revolution of 1789. **A twenty-year window in any century holds enormous events, so matching them afterwards proves very little.** What would count is a forecast written before, specific enough to be wrong. I keep that in mind every time I read "Pluto in Aquarius means…".
+Astrologers also point back to the last pass, which covered the American Revolution and the French Revolution of 1789. **A twenty-year window in any century holds enormous events, so matching them afterwards proves very little.** What would count is a prediction made in advance and precise enough to fail. I keep that in mind every time I read "Pluto in Aquarius means…".
 
 ## What it means for you, personally {#for-you}
 
@@ -51,7 +51,7 @@ I'll be honest about the limit. This transit was never part of my test: I checke
 
 ## Pluto in Aquarius in the cards {#in-the-cards}
 
-On this site, Pluto is read through [Judgement](/library/tarot-cards/judgement/): the angel's trumpet, the graves opening, people rising with their arms up. Aquarius belongs to [the Star](/library/tarot-cards/the-star/): a woman kneeling by the water, pouring from two jugs, one into the pool and one onto the land, under one large star and seven small ones.
+On this site, Pluto is read through [Judgement](/library/tarot-cards/judgement/): the angel's trumpet, the graves opening, people rising with their arms up. Aquarius belongs to [the Star](/library/tarot-cards/the-star/): two jugs tipped out, over water and over earth, by a woman kneeling beneath a sky of eight stars.
 
 {{< cards "ar20 ar17" >}}
 

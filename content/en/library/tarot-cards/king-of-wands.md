@@ -27,7 +27,7 @@ faq:
 - q: What about King of Wands reversed?
   a: 'The fire turns domineering, with impatience, temper and a boss who listens to no one, or it goes out, and the visionary stops believing in his own idea. Ask the King’s question: who is this power serving now?'
 - q: Is the King of Wands a person?
-  a: 'It can be a boss, a mentor or an entrepreneur around you, of any gender. It can also be you, at the moment you are asked to lead your own project instead of waiting for permission.'
+  a: 'It can be a boss, a mentor or an entrepreneur around you, of any gender. It can also be you, once you’re asked to lead your own project instead of waiting for permission.'
 categories:
 - Wands
 tags:
@@ -37,7 +37,7 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-A king sits in profile on his throne, turned towards the left of the card. In his right hand he holds a tall sprouting wand, its foot on the ground. He sits upright, his other hand resting in his lap.
+A king sits in profile on his throne, turned towards the left of the card. A tall sprouting wand stands in his right hand, its foot on the ground. He sits upright, his other hand resting in his lap.
 
 His crown is gold, its points shaped like flames, over a red cap. He wears an orange-red robe, a green cape with a scalloped edge over his shoulders, and a long cloak patterned with salamanders curled into rings. The high back of the throne, yellow and orange, is decorated with black lions and salamanders. At his feet, on the grey stone platform, a small live salamander walks past — the fire lizard of the old stories.
 

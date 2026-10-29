@@ -44,7 +44,7 @@ There are six cups, and each holds a white, star-shaped flower among green leave
 
 ## By number: six {#number}
 
-Six is 3 doubled: after the trial of 5, things work again, and faster. In my notes it’s the number of results flowing — and of being allowed to rest, to take holidays. In the Six of Cups that rest has a particular flavour: taking time for yourself, childhood, flowering again, harmony.
+Six is 3 doubled: after the trial of 5, things work again, and faster. In my notes it’s the number of results flowing — and of being allowed to rest, to take holidays. In the Six of Cups that rest has a particular flavour: time kept for yourself, the child you were, a second blossoming, everything back in tune.
 
 That’s why it follows the Five so well: the two cups left standing have become six, full of flowers. [Number six](/library/numerology/number-6/) wants a steady head and no swagger while things go well; here, that means enjoying the sweetness without trying to live in it for ever. For Instagram, 6 was Facebook’s investment, a gentler stretch after the scare of the 5.
 

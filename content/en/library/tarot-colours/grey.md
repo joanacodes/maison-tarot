@@ -55,7 +55,7 @@ gallery:
 
 **Neutrality, absence of will, stability.**
 
-## Where the colour appears in the deck {#where}
+## Grey skies and grey stone {#where}
 
 The grey sky of the Five of Cups and the Three of Swords, the pillars of the Hierophant and Justice, the Emperor's throne, the wall of the Four of Swords, the clouds of the Four of Cups, the Tower's stone before it burns. Grey is matter that doesn't move.
 
@@ -63,11 +63,11 @@ The grey sky of the Five of Cups and the Three of Swords, the pillars of the Hie
 
 ## How to read it {#reading}
 
-Grey says **neutrality, stability, absence of will**. A grey sky is about a situation that won't decide itself; grey stone, a structure that holds without a word. On Justice and the Hierophant, grey is the institution: what judges without emotion.
+Grey says **neutrality, stability, absence of will**. Under a grey sky, a situation won't decide itself; in grey stone, a structure holds without a word. On Justice and the Hierophant, grey is the institution: what judges without emotion.
 
 ## The flip side {#flip-side}
 
-Grey's flip side is indifference — neutrality become lifelessness — and the wait that never ends. A grey spread: nobody wants anything, and that's the problem.
+Turned sour, grey becomes indifference — neutrality become lifelessness — and the wait that never ends. A grey spread: nobody wants anything, and that's the problem.
 
 ## With the other lenses {#lenses}
 

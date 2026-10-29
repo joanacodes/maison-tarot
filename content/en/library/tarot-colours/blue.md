@@ -57,7 +57,7 @@ gallery:
 
 **Emotions, making pure, water, vitality.** Feminine energy.
 
-## Where the colour appears in the deck {#where}
+## Robes, rivers and poured water {#where}
 
 The High Priestess's robe, the Empress's cloak, the water in every Cups card, the water Temperance pours from cup to cup, the river at the Emperor's feet, the background of the Knight of Cups. Blue is wherever emotion is.
 
@@ -65,11 +65,11 @@ The High Priestess's robe, the Empress's cloak, the water in every Cups card, th
 
 ## How to read it {#reading}
 
-Blue says **emotion, purity, vitality, what flows**. A blue card is about the inner world — a relationship, a grief, a peace regained. It's the colour of [Water](/library/four-elements/water-element/), with [feminine](/library/feminine-masculine-energies/) energy: what hides, what carries.
+Blue says **emotion, purity, vitality, what flows**. When it fills a card, the subject is the inner world — a relationship, a grief, a peace regained. [Water](/library/four-elements/water-element/) wears it, and its energy is [feminine](/library/feminine-masculine-energies/): it hides, it carries.
 
 ## The flip side {#flip-side}
 
-Blue's flip side is drowning: emotion that submerges, melancholy, what has seeped in too long without being looked at. Dark blue with no yellow: the card needs light.
+Too much blue drowns: emotion that submerges, melancholy, what has seeped in too long without being looked at. Dark blue with no yellow: the card needs light.
 
 ## With the other lenses {#lenses}
 

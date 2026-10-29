@@ -49,7 +49,7 @@ His part was the programme. The V&A notes that he gave Smith detailed direction 
 
 {{< cards "ar06 ar19 ar08 ar11" >}}
 
-He also swapped two cards. In the Marseille order, Justice is 8 and Strength is 11. Waite put [Strength](/library/tarot-cards/strength/) at 8 and Justice at 11. This follows the Golden Dawn, which ties the eighth card to Leo and the eleventh to Libra: Leo’s lion belongs with Strength, Libra’s scales with Justice. In the *Pictorial Key* he declined to explain, saying the change “carries nothing with it which will signify to the reader”.
+He also swapped two cards. The Marseille order numbers Justice 8 and Strength 11; Waite put [Strength](/library/tarot-cards/strength/) at 8 and Justice at 11. This follows the Golden Dawn, which ties the eighth card to Leo and the eleventh to Libra: Leo’s lion belongs with Strength, Libra’s scales with Justice. In the *Pictorial Key* he declined to explain, saying the change “carries nothing with it which will signify to the reader”.
 
 **The book matters as much as the deck: Waite set down a short divinatory meaning for every card, upright and reversed, and many of today’s keyword lists still echo his.**
 

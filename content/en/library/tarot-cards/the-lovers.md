@@ -72,7 +72,7 @@ Golden Dawn astrologers placed the Lovers under [Gemini](/library/astrology/gemi
 
 Upright, the Lovers say: a choice, made with someone or about something you love. Sometimes it’s a relationship; often it’s a crossroads — two paths, two offers, two versions of your life — and the card asks you to choose with your eyes open. In love it’s [a choice more than a romance](/blog/lovers-tarot-love/); at work it’s choosing a path, and that gets a closer look further down.
 
-People often hope this card will tell them whether someone loves them. I understand the wish. But I read the person in front of me, not someone who isn’t in the room, so the Lovers speak about your choice rather than another person’s feelings ([more on reading about someone else](/blog/reading-tarot-about-someone-else/)).
+People often hope this card will tell them whether someone loves them. I understand the wish. But I only read for the person who’s actually there, not for someone absent, so the Lovers speak about your choice rather than another person’s feelings ([more on reading about someone else](/blog/reading-tarot-about-someone-else/)).
 
 Reversed, the choice is postponed or made for the wrong reasons. Either the person stays at the crossroads, unable to give anything up, or the exchange breaks down — two people talking past each other, each sure they’ve been clear.
 

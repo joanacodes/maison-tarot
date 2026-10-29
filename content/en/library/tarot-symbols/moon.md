@@ -53,7 +53,7 @@ The moon is the light of night. It’s real, but it’s reflected; it shows outl
 
 An everyday example: walking home late down a street you know by heart, and finding it strange. Same pavement, same trees — but the shadows have moved, and your imagination fills in the rest.
 
-## Where it appears in the deck {#where}
+## Crescents, a closed-eyed face and a full night sky {#where}
 
 On the High Priestess, a large crescent lies at her feet, against the robe that pours down like water. On her head, two horns curve around a full white disc, which many readers see as the moon in its phases. In my notes she’s Water, the moon pulls the water, and her hidden side is the hidden face of the moon: she shows a façade, not the rest.
 
@@ -69,17 +69,17 @@ And [the Moon](/library/tarot-cards/the-moon/), XVIII, gives it the whole sky: a
 
 {{< zoom "moon" "rest" >}}
 
-A note on names: the astrological Moon has [its own page](/library/astrology/moon/), and it goes with the High Priestess, not with the Moon card. This page follows the drawn moon.
+A note on names: the astrological Moon goes with the High Priestess, not with the Moon card — [the planet’s page](/library/astrology/moon/) sorts that out. This page follows the drawn moon.
 
 ## How to read it {#reading}
 
 Ask what can’t be seen clearly yet, and what is filling the gap: intuition, or worry. On the Two of Swords, a decision is being put off in the dark. On the Eight of Cups, someone leaves without a full view of where they’re going — and goes anyway.
 
-With the other lenses: the moon sits in [blue](/library/tarot-colours/blue/) skies here, the colour of emotion and water. It belongs with [Water](/library/four-elements/water-element/), the element of feelings and hidden strengths. And it leans towards [feminine energy](/library/feminine-masculine-energies/): the intangible, what works behind the scenes.
+Through the other lenses, the moon sits in [blue](/library/tarot-colours/blue/) skies here, the colour of emotion and water. It belongs with [Water](/library/four-elements/water-element/), the element of feelings and hidden strengths. And it leans towards [feminine energy](/library/feminine-masculine-energies/): the intangible, what works behind the scenes.
 
 ## The other side {#flip-side}
 
-Moonlight makes things look bigger, closer or stranger than they are. Its shadow is illusion: deciding in the fog as if you could see. Its other shadow is mood — a feeling that waxes and wanes and gets mistaken for a fact.
+Moonlight makes things look bigger, closer or stranger than they are. Its shadow is illusion: acting on a blurred view as though it were sharp. Its other shadow is mood — a feeling that waxes and wanes and gets mistaken for a fact.
 
 But the moon also comes back. Whatever is dark tonight won’t stay that dark for ever.
 

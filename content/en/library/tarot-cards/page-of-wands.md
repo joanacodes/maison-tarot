@@ -37,7 +37,7 @@ tags:
 ---
 ## What’s on the card {#the-card}
 
-A young man stands in a desert, seen in profile, holding a tall wand upright with both hands. He isn’t using it. He looks up at its top, where green shoots are coming out, the way you look at something you’ve just been given.
+A young man stands in a desert, seen in profile, holding a tall wand upright with both hands. He isn’t using it. He gazes up at its tip, where green shoots are coming out, as if it had only just been put into his hands.
 
 His hat is pale, with a red-orange feather that rises like a flame. His yellow tunic is patterned with black salamanders — the lizard that, in old stories, lived in fire. A yellow-green cloak hangs from his shoulders, and his yellow boots have tops cut like flames. Around him: sand, orange pyramids on the right, a pale blue sky.
 

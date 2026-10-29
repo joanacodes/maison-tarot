@@ -29,9 +29,9 @@ That is the whole story, told the way it happened. I’d rather give you less of
 
 When someone tells you a reading doesn’t fit, the honest thing is to believe them. She was the one living her life; I was the one describing it from a few cards. “I’m not looking for a relationship” is a clear answer, and it deserves to be taken as one.
 
-Love isn’t even the subject I’m most at ease with; careers and self-development come more easily to me. But you don’t pick what comes. You say it.
+Love isn’t even the subject I feel most comfortable reading; careers and self-development come more easily to me. What arrives isn’t up to me, though; saying it is.
 
-There are ways to rescue a moment like that, and every reader feels the pull. You reframe it: maybe it’s someone you haven’t met yet. You draw an extra card to “clarify”. You ask questions until something fits. Each of those turns a clear no into a maybe, and a maybe can never be checked. I’ve written more about [what to do when a reading is wrong](/blog/tarot-reading-wrong/), and it mostly comes down to saying so.
+There are ways to rescue a moment like that, and every reader feels the pull. You reframe it: maybe it’s someone you haven’t met yet. You draw an extra card to “clarify”. You ask questions until something fits. Each of those turns a clear no into a maybe, and a maybe can never be checked. [Handling a reading that turns out wrong](/blog/tarot-reading-wrong/) mostly comes down to saying so.
 
 A clear no stays a no: you say it, you note it, and you move on to the next person.
 
@@ -47,7 +47,7 @@ Timing can also do the opposite, and make a message look right in a way that mat
 
 The detail I’d point any beginner to is the unkind one. Nobody invents an unflattering detail to please a stranger. A reader guessing at what someone wants to hear leaves that part out first. It’s hard to hear from anyone, let alone a stranger. It was also true, and it was hers to know.
 
-Say you draw for a friend and something comes up that you’d rather not say: that she’s been short with someone, or that she’s avoiding a person who deserves better. The temptation is to drop it and keep the pleasant half. That half is usually the part anyone could have guessed. The rule I’ve kept is a plain one: don’t try to say something right. Say what comes up.
+Say you draw for a friend and something comes up that you’d rather not say: that she’s been short with someone, or that she’s avoiding a person who deserves better. The temptation is to drop it and keep the pleasant half. That half is usually the part anyone could have guessed. The rule I’ve kept is a plain one: forget being right, and pass on whatever arrives.
 
 ## What I took from it {#what-i-took}
 
@@ -67,4 +67,4 @@ Because the fear of being wrong freezes a lot of beginners, and my first reading
 
 It also shows why I’d rather people kept quiet before I start. Picture the same reading if she’d opened with “I’m not looking for anyone.” The pull would have been to soften what came, steer towards work or family, and never say it: less wrong on the day, and of no use to her a few days later. That is [the silence rule](/blog/the-silence-rule/), and this story shows why it matters.
 
-If you want a story of your own, you need people who’ll tell you nothing and won’t mind a miss. I found my first ones through a Discord group I’d come across on Tumblr; there are other ideas in [where to find people to read for](/blog/where-to-find-people-to-read-for/). Or come to one of the [free events](/events/), where people are drawn at random for a reading, nobody explains anything first, and a miss is said out loud. Bring a notebook.
+If you want a story of your own, you need people who’ll tell you nothing and won’t mind a miss. I found my first ones through a Discord group I’d come across on Tumblr; there are other ideas in [finding people willing to be read](/blog/where-to-find-people-to-read-for/). Or come to one of the [free events](/events/), where people are drawn at random for a reading, nobody explains anything first, and a miss is said out loud. Bring a notebook.

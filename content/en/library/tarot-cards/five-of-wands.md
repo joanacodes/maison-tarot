@@ -62,7 +62,7 @@ On the ground, a patchwork of outfits that never match, like five people who nev
 
 ## By astrology: Saturn in Leo {#astrology}
 
-In the Golden Dawn tradition, the Five of Wands is Saturn in Leo, the first decan of the sign. [Leo](/library/astrology/leo/) is “I will”: play, challenge, pride, wanting to be seen. [Saturn](/library/astrology/saturn/) is the hardest lesson — limits, structure, the work that takes years. Saturn in Leo is pride meeting a limit: everyone wants to shine, and there isn’t room for five stars on one stage.
+The Golden Dawn’s decans file the Five of Wands under Saturn in Leo, the sign’s first ten degrees. [Leo](/library/astrology/leo/) is “I will”: play, challenge, pride, wanting to be seen. [Saturn](/library/astrology/saturn/) is the hardest lesson — limits, structure, the work that takes years. Saturn in Leo is pride meeting a limit: everyone wants to shine, and there isn’t room for five stars on one stage.
 
 An optional lens, and a useful one: it turns the brawl into a lesson. The trial isn’t who wins. It’s learning to share the stage.
 

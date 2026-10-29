@@ -26,8 +26,8 @@ related:
 - /library/astrology/chiron
 faq:
 - q: Does the Moon card correspond to the Moon?
-  a: 'No: the Moon card carries Pisces, and the astrological Moon carries the High
-    Priestess. The names look alike; the cards don''t say the same thing.'
+  a: 'No. The Moon card carries Pisces; the astrological Moon goes to the High
+    Priestess. Sharing a name doesn’t make them the same lens.'
 - q: What does the Moon do on a Cups card?
   a: 'It gives the climate: what is felt before it''s understood. The Four of Cups,
     ruled by the Moon, is the boredom of a feeling you know too well.'
@@ -63,7 +63,7 @@ The Moon says what you feel when nobody's watching: the need for safety, emotion
 
 ## The cards that carry it {#cards}
 
-[The High Priestess](/library/tarot-cards/the-high-priestess/), arcana II, in the Golden Dawn tradition: the moon at her feet, the veil, what is known and not said. The Moon card (XVIII) carries Pisces, not the Moon itself — a frequent confusion. In the minors: the Four of Cups, the Nine of Wands, the Two of Swords, the Seven of Swords, the Six of Pentacles.
+[The High Priestess](/library/tarot-cards/the-high-priestess/), arcana II, gets the Moon in the table the Golden Dawn drew up and Waite kept: the moon at her feet, the veil, what is known and not said. The Moon card (XVIII) carries Pisces, not the Moon itself — a frequent confusion. In the minors: the Four of Cups, the Nine of Wands, the Two of Swords, the Seven of Swords, the Six of Pentacles.
 
 {{< cards "ar02" >}}
 

@@ -31,7 +31,7 @@ Fear also makes us read too fast. The eye stops at the skeleton and never reache
 
 In my notes, [Death](/library/tarot-cards/death/) is not necessarily bad and not about dying. It’s linked to the harvest and to starting again: picture someone with no aim left, hoping to bring their life back into bloom. Thirteen reduces to four, the number of structure, so the card clears one structure to make room for another. Water and Scorpio make it an emotional change, felt deep down, not a paperwork one — and Scorpio’s verb is “I desire”: what you want next starts growing in that clearing.
 
-No card can tell you that a person is going to die, or get sick. If you’re worried about someone’s health, that’s one for a doctor, which is why I don’t read on it. What Death does talk about is the end of a role, a habit, a way of being together — in love, the end of how you were with someone, not necessarily of the relationship; at work, a chapter closing. The card’s page goes further on both. Reversed, or surrounded by heavy cards, it’s the ending being held back: clinging to what’s already over. In the Marseille deck the card doesn’t even carry a name, and [why it has none](/blog/death-card-no-name/) is a story of its own.
+No card can tell you that a person is going to die, or get sick. If you’re worried about someone’s health, that’s one for a doctor, which is why I don’t read on it. What Death does talk about is the end of a role, a habit, a way of being together — in love, the end of how you were with someone, not necessarily of the relationship; at work, a chapter closing. The card’s page goes further on both. Reversed, or surrounded by heavy cards, it’s the ending being held back: clinging to what’s already over. The Marseille deck leaves the card unnamed, and [why it has none](/blog/death-card-no-name/) is a story of its own.
 
 ## The Tower: what was built on a crack comes down {#the-tower}
 
@@ -41,13 +41,13 @@ No card can tell you that a person is going to die, or get sick. If you’re wor
 
 Sixteen reduces to seven, and seven’s advice is the one to hold here: nothing lasts, whether it’s going well or badly, and this will shift too. In the deck the Tower is followed by the Star, and I don’t think that’s an accident. The useful question isn’t “why is this happening to me?” but “what was cracked, and do I want to rebuild the same tower on the same rock?”
 
-Say someone tells me nothing and draws the Tower next to the Eight of Pentacles. Seven, then eight; Fire, then Earth: after the collapse, rebuilding by hand. I’d say, “Something came down that you’d built on the wrong ground, and you’re already rebuilding — slower, and better.” And then I’d wait for them to tell me if it fits.
+The Tower and the Eight of Pentacles, side by side, for someone who has told me nothing. Seven, then eight; Fire, then Earth: after the collapse, rebuilding by hand. I’d say, “Something came down that you’d built on the wrong ground, and you’re already rebuilding — slower, and better.” And then I’d wait for them to tell me if it fits.
 
 ## The Devil: chains you could lift off {#the-devil}
 
 *15 → 1 + 5 = 6 · Earth · Capricorn · masculine.* A horned figure with bat wings crouches on a black block. A naked man and woman are chained to it, wearing small horns and tails of their own.
 
-Fifteen reduces to six, the number of the Lovers, and the drawing echoes theirs: two people, a larger figure above. [The Devil](/library/tarot-cards/the-devil/) is a bond that has turned into attachment — to a job, a person, a habit, money, a screen. Earth and Capricorn make it material and stubborn. Capricorn’s verb is “I use” — and here, what you use has started using you.
+Fifteen reduces to six, the number of the Lovers, and the drawing echoes theirs: two people, a larger figure above. [The Devil](/library/tarot-cards/the-devil/) is a bond that has turned into attachment, whether to work, someone you love, a routine, money or a screen. Earth and Capricorn make it material and stubborn. Capricorn’s verb is “I use” — and here, what you use has started using you.
 
 Now look at the chains. They hang loosely around the necks; the two could lift them off. That’s the card’s plus, and it’s a big one: it shows you the chain. The Devil isn’t evil and isn’t a curse; it’s a picture of what holds you. The cards themselves can hold you too. If the Devil came up for someone who had been drawing every morning for months, I wouldn’t read a curse; I’d ask, gently, whether the deck had become one of the chains. In a relationship that chain is attachment; at work, a job that holds you.
 

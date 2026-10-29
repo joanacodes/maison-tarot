@@ -53,9 +53,9 @@ An angel, on a card, is a winged figure set above the human ones. You don’t ne
 
 What the angel does with its hands tells you the rest. It pours, it calls, it opens its arms.
 
-## Where it appears in the deck {#where}
+## Wings over Temperance, the Lovers, Judgement and the Wheel {#where}
 
-Temperance has the deck’s most complete angel: red wings, a white robe, a triangle inside a square on the chest, one foot in the water and one on the bank, pouring from one cup into another. Balance worked at, drop by drop. [Its card page](/library/tarot-cards/temperance/) goes further.
+Temperance has the deck’s most complete angel: red wings, a white robe, a triangle inside a square on the chest, one foot in the water and one on the bank, pouring from one cup into another. Balance worked at, drop by drop, which [the Temperance card](/library/tarot-cards/temperance/) explores in full.
 
 On [the Lovers](/library/tarot-cards/the-lovers/), an angel with red wings and flame-like hair opens its arms over a naked man and woman, a huge sun behind it. The man looks at the woman; the woman looks up at the angel. The choice happens under its gaze.
 

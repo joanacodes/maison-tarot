@@ -9,7 +9,7 @@ tags: ["Devil tarot love", "Devil card relationship", "Devil reversed love", "at
 image: "covers/devil-tarot-love.jpg"
 imageAlt: "The Devil card from the Rider-Waite-Smith deck lying face up on a plain wooden table."
 imagePrompt: "The Devil card from the 1909 Rider-Waite-Smith deck lying upright on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, the card in its original colours, warm natural colours around it that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "In love, the Devil talks about attachment: a desire, a habit or a relationship that holds you more than you hold it. It isn’t a sign of evil, and it doesn’t say anyone is bad. Its plus is real — desire, chemistry, wanting things. Its minus is when the wanting runs you. Read through its lenses, 15 becomes 6, the number of the Lovers, and the element is Earth, what holds. Look closely at the drawing: the chains around the two figures’ necks are loose. The card shows you what holds you, so you can lift it off."
+summary: "In love, the Devil talks about attachment: a desire, a habit or a relationship that has taken the upper hand. Nothing in it says evil, and nobody in the reading is cast as bad. Its plus is real — desire, chemistry, wanting things. Its minus is when the wanting runs you. Read through its lenses, 15 becomes 6, the number of the Lovers, and the element is Earth, what holds. Look closely at the drawing: the chains around the two figures’ necks are loose. The card shows you what holds you, so you can lift it off."
 ---
 The Devil in love is about attachment: a desire, a habit or a person with more hold on you than you have on them. It isn’t a judgement and it isn’t evil. And if you look closely at the drawing, the chains are loose — that’s the most useful thing the card has to tell you.
 
@@ -33,7 +33,7 @@ When you’re together, it can be strong physical chemistry, and nothing more wo
 
 After a break-up, the Devil is often the tie that hasn’t been cut. Messages at midnight. Sleeping together “one last time” for the fifth time. Watching their stories while telling friends you’ve moved on. If this is you, there’s no shame in it. It’s Earth doing what Earth does: holding on to what had value. The card only adds one thing — the loop around your neck is wider than it feels.
 
-One thing to say gently and clearly. If the attachment is to someone who frightens you, hurts you, or controls your money, your phone or who you see, that isn’t a question for a card. Talk to someone you trust, and reach out to a professional or a specialist support line where you live — in the UK, the National Domestic Abuse Helpline (0808 2000 247, free, 24 hours a day); in France, the 3919 (free and anonymous). A card can keep you company with what you feel. Keeping you safe takes people, and no deck should be asked to do it. I’ve written about [where tarot stops and other doors open](/blog/tarot-and-mental-health/).
+One thing to say gently and clearly. If the attachment is to someone who frightens you, hurts you, or controls your money, your phone or who you see, that isn’t a question for a card. Talk to someone you trust; then contact a professional or a specialist support line where you live: the UK’s National Domestic Abuse Helpline is on 0808 2000 247, free, 24 hours a day; France has the 3919, free and anonymous. A card can keep you company with what you feel. Keeping you safe takes people, and no deck should be asked to do it. I’ve written about [where tarot stops and other doors open](/blog/tarot-and-mental-health/).
 
 ## The question under “does he still want me?” {#let-go}
 
@@ -41,7 +41,7 @@ People bring the Devil with two questions, often in the same breath: does he sti
 
 Asking a deck again and again about the same person can become a chain of its own. When someone comes to me caught in that loop, I usually decline to read for them that day: one more card would only feed the doubt, and what helps is a breath and a decision ([why stepping away from readings can help](/blog/why-you-should-quit-tarot-reading/)). If you pull a card every morning about the same person, that’s the Devil showing up in your practice rather than in your spread. That chain is loose too: a few mornings without the deck will show you how loose.
 
-The kinder question is: “What am I getting from this that I’m afraid to lose?” Not “what’s wrong with me”, but what this attachment gives you — reassurance, excitement, the feeling of mattering to someone, a reason not to face something else. Once you can name it, you can look for it somewhere that doesn’t hold you by the neck.
+Ask the chain itself: “What am I getting from this that I’m afraid to lose?” Not “what’s wrong with me”, but what this attachment gives you — reassurance, excitement, the feeling of mattering to someone, a reason not to face something else. Once you can name it, you can look for it somewhere that doesn’t hold you by the neck.
 
 ## The chain starting to slip {#reversed}
 
