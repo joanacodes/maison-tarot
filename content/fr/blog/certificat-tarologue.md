@@ -61,4 +61,6 @@ Aucune de ces questions n’écarte un certificat, ni ne le rend indispensable. 
 
 ## Par où commencer {#commencer}
 
+Pour être claire sur ma propre maison : Maison Tarot ne propose aucune formation et ne délivre aucun certificat. C’est un endroit pour apprendre, avec des leçons pour qui en veut et des événements de temps en temps.
+
 Avant de payer une formation, où qu’elle ait lieu, regardez le professeur lire. Les [événements gratuits](/fr/evenements/) de Maison Tarot sont l’un des endroits où le faire : des lectures pour des personnes tirées au sort, qui ne me disent rien avant, pour que vous voyiez une méthode à l’œuvre et que vous la jugiez par vous-même. Et si vous êtes de l’autre côté de la table, en train de construire votre propre pratique, [le faire sans devenir un gourou](/fr/blog/pratique-sans-gourou/) est le complément de cette page.

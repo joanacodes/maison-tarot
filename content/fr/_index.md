@@ -27,7 +27,7 @@ offers:
     details:
       - { q: "Ce qui est inclus", a: "Une heure en visio, un tirage lu à deux, les clés de lecture utilisées envoyées par écrit après. Aucun abonnement." }
       - { q: "Déroulé", a: "Vous ne me dites rien. On tire, vous lisez d’abord, je lis ensuite, on compare." }
-      - { q: "Prix", a: "Affiché dès que le processeur de paiement est validé. Une session s’offre." }
+      - { q: "Prix", a: "60 € l’heure, TTC. Une session s’offre." }
   - kicker: "en groupe · 3 h · 12 personnes"
     title: "Ateliers"
     text: "Une clé de lecture par atelier : les couleurs, les nombres, les éléments et les énergies. À la fin, vous lisez une carte inconnue devant les autres."
@@ -38,7 +38,7 @@ offers:
     details:
       - { q: "Ce qui est inclus", a: "Trois heures, douze personnes au plus, la grille de la clé de lecture par écrit, un exercice de lecture à l’aveugle." }
       - { q: "Déroulé", a: "On essaie dans les dix premières minutes. Puis on tourne la clé de lecture dans tous les sens jusqu’à ce qu’elle devienne un réflexe." }
-      - { q: "Prix", a: "Affiché dès que le processeur de paiement est validé. Pas de niveaux, pas de certificat." }
+      - { q: "Prix", a: "46 € par personne, ou 39,99 € chacun à partir de sept. Pas de niveaux, pas de certificat." }
   - kicker: "gratuit · en ligne et en personne"
     title: "Événements"
     text: "Lectures gratuites en ligne, rencontres en personne, webinaires. C’est là que les lectures ont lieu — et elles ne se vendent pas."

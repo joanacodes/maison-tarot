@@ -23,7 +23,7 @@ Pour 4,44 €, ou 12, ou un abonnement. Et c’est un soulagement, le temps d’
 
 Pas parce que le tarot ne marcherait pas. Je pense qu’il peut marcher, dans des conditions que je sais décrire. Le problème, c’est ce qu’on prétend faire. La personne qui tire n’a jamais rencontré votre ex. Votre ex n’a pas accepté d’être lu. Et le tirage passe par vous : votre chagrin, votre espoir, votre façon de raconter l’histoire. Ce qui en sort, c’est votre vie intérieure, habillée comme si c’était la sienne.
 
-**Personne ne peut vous dire ce que ressent une autre personne.** Ni moi, ni la tarologue de la vidéo, ni la ligne de voyance à douze euros. Celles et ceux qui affirment le contraire se trompent peut-être de bonne foi ; pour vous, le prix est le même.
+**Personne ne peut vous dire ce que ressent une autre personne.** Ni moi, ni la tarologue de la vidéo, ni la ligne de voyance. Celles et ceux qui affirment le contraire se trompent peut-être de bonne foi ; pour vous, le prix est le même.
 
 ## Ce que ça coûte {#ce-que-ca-coute}
 

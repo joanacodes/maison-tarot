@@ -23,9 +23,9 @@ If you belong to one of these, the person to ask is the one who guides you in it
 
 ## What I saw at home {#at-home}
 
-My father prays. The night I heard him call my name as if from the next room — I was in London, he was in Paris, at his temple, thinking about me — he wasn't reading cards, he was praying. I've told that story elsewhere; what matters here is that nothing in it asked me to choose. He didn't stop praying because his daughter started reading. I didn't stop being his daughter because I did.
+I grew up in a Christian family that didn't practise. I didn't wonder or care much about spirituality, though in one sense I already was spiritual: I wanted peace and fairness for everyone. Then my father went into a branch of Buddhism, and later he left it.
 
-I grew up between two ways of taking the invisible seriously, and what I learned is that they weren't competing for the same space. One was devotion. The other was attention. You can hold both.
+He was in it the night I heard him call my name as if from the next room — I was in London, he was in Paris, at his temple, praying and thinking about me. I've told that story elsewhere; what matters here is that nothing in it asked me to choose.
 
 ## What I refuse, and why it helps here {#what-i-refuse}
 

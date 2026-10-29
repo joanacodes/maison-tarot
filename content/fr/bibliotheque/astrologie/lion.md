@@ -1,7 +1,7 @@
 ---
 title: 'Lion en astrologie et au tarot : sa carte (La Force), son énergie, son archétype'
 description: 'Le signe du Lion lu comme une clé de lecture du tarot : sa carte La
-  Force, son verbe « Je vais », Soleil, Feu, mode fixe, énergie masculine. La jeunesse,
+  Force, son verbe « Je veux », Soleil, Feu, mode fixe, énergie masculine. La jeunesse,
   le jeu, l’expressivité, le challenge, la fierté, l’innocence. Ses côtés favorables
   et défavorables, son archétype, et comment le lire dans un tirage.'
 translationKey: sign-leo
@@ -15,7 +15,7 @@ tags:
 - lion
 - La Force
 - Soleil
-h1: Lion — <em>je vais</em>
+h1: Lion — <em>je veux</em>
 lede: L’énergie du Lion est très démonstrative ; elle aime les jeux et les défis.
 related:
 - /bibliotheque/astrologie
@@ -59,7 +59,7 @@ gallery:
 ---
 ## En une ligne {#en-une-ligne}
 
-**La jeunesse, le jeu, l’expressivité, le challenge, la fierté, l’innocence.** Verbe : *Je vais*. Astre : [Soleil](/fr/bibliotheque/astrologie/soleil/). Élément : [Feu](/fr/bibliotheque/quatre-elements/element-feu/). Mode : [fixe](/fr/bibliotheque/modes-astrologiques/fixe/). Énergie : [masculine](/fr/bibliotheque/energies-feminine-masculine/). Couleur : orange, or, jaune. Animal : les félins.
+**La jeunesse, le jeu, l’expressivité, le challenge, la fierté, l’innocence.** Verbe : *Je veux*. Astre : [Soleil](/fr/bibliotheque/astrologie/soleil/). Élément : [Feu](/fr/bibliotheque/quatre-elements/element-feu/). Mode : [fixe](/fr/bibliotheque/modes-astrologiques/fixe/). Énergie : [masculine](/fr/bibliotheque/energies-feminine-masculine/). Couleur : orange, or, jaune. Animal : les félins.
 
 ## Ce que fait cette énergie {#energie}
 

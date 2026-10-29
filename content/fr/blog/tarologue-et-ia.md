@@ -33,7 +33,7 @@ Une habitude à garder : vérifiez ce qu’elle dit avec la carte que vous avez 
 
 Les raisons sont développées dans [tirage par IA ou tarologue humain](/fr/blog/tarot-ia-ou-tarologue/), et elles tiennent en trois. Un modèle a besoin qu’on lui dise quelque chose, alors que ma méthode repose sur [une personne qui ne me dit rien](/fr/blog/regle-du-silence-tarot/). Il nuance jusqu’à ne plus pouvoir se tromper, alors que je compte mes ratés : environ une lecture sur dix. Et il explique les cartes une par une, alors que ce sont les liens entre elles qui portent l’essentiel d’une lecture. Si vous préférez le constater plutôt que me croire sur parole, [testez l’IA comme je me teste moi-même](/fr/blog/tirage-tarot-ia/).
 
-J’ajouterais une raison qui m’est propre. Dans mes notes de cours, une même image peut se lire différemment d’une personne à l’autre, et d’un jour à l’autre. Un dictionnaire donne la même définition à chaque fois ; c’est son rôle. C’est aussi exactement pour ça qu’il ne peut pas être la lecture.
+J’ajouterais une raison qui m’est propre. Dans mes notes, une même image peut se lire différemment d’une personne à l’autre, et d’un jour à l’autre. Un dictionnaire donne la même définition à chaque fois ; c’est son rôle. C’est aussi exactement pour ça qu’il ne peut pas être la lecture.
 
 Certains tarologues laissent l’IA écrire un brouillon, qu’ils corrigent ensuite. Je comprends : une page blanche, c’est dur au bout d’une longue journée. Mais une fois que vous avez lu sa version, vous lisez sa version. Votre première impression, celle qui venait avant de réfléchir, a disparu, et c’est l’essentiel de ce qu’un tarologue apporte. Ce que j’enseigne, c’est l’inverse : dire ce qui monte, avant d’essayer d’avoir raison.
 

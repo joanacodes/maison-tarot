@@ -27,7 +27,7 @@ offers:
     details:
       - { q: "What’s included", a: "One hour by video, one spread read by both of us, the lenses we used sent in writing afterwards. No subscription." }
       - { q: "How it goes", a: "You tell me nothing. We draw, you read first, I read after, we compare." }
-      - { q: "Price", a: "Shown as soon as the payment processor is approved. A session makes a good gift." }
+      - { q: "Price", a: "£60 for the hour, tax included. A session makes a good gift." }
   - kicker: "in a group · 3 h · 12 people"
     title: "Workshops"
     text: "One lens per workshop: colours, numbers, elements and energies. At the end you read an unknown card in front of the others."
@@ -38,7 +38,7 @@ offers:
     details:
       - { q: "What’s included", a: "Three hours, twelve people at most, the lens grid in writing, a blind reading exercise." }
       - { q: "How it goes", a: "We try in the first ten minutes. Then we turn the lens over until it becomes a reflex." }
-      - { q: "Price", a: "Shown as soon as the payment processor is approved. No levels, no certificate." }
+      - { q: "Price", a: "£45 per person, or £39.99 each from seven people. No levels, no certificate." }
   - kicker: "free · online and in person"
     title: "Events"
     text: "Free online readings, in-person meetups, webinars. This is where the readings happen — and they aren’t for sale."

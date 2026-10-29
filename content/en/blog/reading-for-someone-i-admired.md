@@ -27,7 +27,7 @@ That’s all I’ll tell you about him. The story isn’t his life; it’s one s
 
 Reading for someone you admire raises the stakes in a way that has nothing to do with the chart or the cards.
 
-In my teaching notes, one of the two usual reasons nothing comes in a reading is the reader’s own block: too much pressure. Admiration is pressure. You want to be right in front of this person. You want them to think well of you. You don’t want to be the one who hurts them.
+In my notes, one of the two usual reasons nothing comes in a reading is the reader’s own block: too much pressure. Admiration is pressure. You want to be right in front of this person. You want them to think well of you. You don’t want to be the one who hurts them.
 
 With him, the pressure had a precise shape: I admired him too much to want him to think I was crazy. I did it anyway.
 

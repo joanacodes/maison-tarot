@@ -33,7 +33,7 @@ When you’re together, it can be strong physical chemistry, and nothing more wo
 
 After a break-up, the Devil is often the tie that hasn’t been cut. Messages at midnight. Sleeping together “one last time” for the fifth time. Watching their stories while telling friends you’ve moved on. If this is you, there’s no shame in it. It’s Earth doing what Earth does: holding on to what had value. The card only adds one thing — the loop around your neck is wider than it feels.
 
-One thing to say gently and clearly. If the attachment is to someone who frightens you, hurts you, or controls your money, your phone or who you see, that isn’t a question for a card. Talk to someone you trust, and reach out to a professional or a specialist support line where you live. The cards can hold what you feel; they can’t keep you safe, and they shouldn’t be asked to. I’ve written about [where tarot stops and other doors open](/blog/tarot-and-mental-health/).
+One thing to say gently and clearly. If the attachment is to someone who frightens you, hurts you, or controls your money, your phone or who you see, that isn’t a question for a card. Talk to someone you trust, and reach out to a professional or a specialist support line where you live — in the UK, the National Domestic Abuse Helpline (0808 2000 247, free, 24 hours a day); in France, the 3919 (free and anonymous). The cards can hold what you feel; they can’t keep you safe, and they shouldn’t be asked to. I’ve written about [where tarot stops and other doors open](/blog/tarot-and-mental-health/).
 
 ## The question under “does he still want me?” {#let-go}
 

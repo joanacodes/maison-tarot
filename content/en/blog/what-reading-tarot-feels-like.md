@@ -15,7 +15,7 @@ Most of the time, reading a card feels ordinary: a word or an image turns up in 
 
 ## Mostly, it sounds like your own thoughts {#own-thoughts}
 
-In my teaching notes, impressions come through every channel we have: images, sounds, words, smells, sensations, emotions, and some people are sharper in one of them. When you read, they arrive the way thoughts do. There’s no bell and no special voice: what comes speaks in your own voice, at the speed of an ordinary thought.
+In my notes, impressions come through every channel we have: images, sounds, words, smells, sensations, emotions, and some people are sharper in one of them. When you read, they arrive the way thoughts do. There’s no bell and no special voice: what comes speaks in your own voice, at the speed of an ordinary thought.
 
 Say you turn over the Six of Cups for a friend: two children in a courtyard, one handing the other a cup filled with flowers. In my notes the card is about childhood, taking time for yourself, flowering again. But the word that crosses your mind is “school”. Not a meaning from a book, just a word. That word is what reading feels like.
 
@@ -29,7 +29,7 @@ The cards help in a modest way. They give your eyes somewhere to rest, so your o
 
 At the other end of the scale, what arrives isn’t a word but a feeling. Sensations and emotions are channels too, and for some readers they’re the loudest ones.
 
-Say you’re reading for someone and a heaviness settles on you that wasn’t there a minute ago. Nothing in your own day explains it. That is what empathy can look like when you read. In my teaching notes, empathy means feeling and understanding another person’s emotions while keeping your own. Very empathic readers can end up feeling the other person’s emotions, and sometimes expressing them, as if they were theirs.
+Say you’re reading for someone and a heaviness settles on you that wasn’t there a minute ago. Nothing in your own day explains it. That is what empathy can look like when you read. In my notes, empathy means feeling and understanding another person’s emotions while keeping your own. Very empathic readers can end up feeling the other person’s emotions, and sometimes expressing them, as if they were theirs.
 
 That is where it needs care. If you start crying the other person’s tears, you’ve stopped reading for them; they’re now looking after you.
 

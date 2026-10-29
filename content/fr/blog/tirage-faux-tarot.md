@@ -63,7 +63,7 @@ Quelqu’un en deuil qui tire l’une ou l’autre entendra le pire. Quelqu’un
 
 L’état du tarologue compte tout autant. J’étais folle de rage quand j’ai entendu cette voix. La colère et le chagrin font beaucoup de bruit, et ils se mêlent à tout ce que vous recevez. C’est une des raisons pour lesquelles je suis prudente quand il s’agit de [tirer les cartes quand on est bouleversé](/fr/blog/tirer-les-cartes-bouleverse/) : non pas parce que rien ne viendra, mais parce que tout ce qui viendra sera lu à travers l’état dans lequel vous êtes.
 
-Et parfois, c’est l’inverse : rien ne vient. Dans mes notes de cours, je l’écris ainsi — parfois on ne voit rien dans les cartes, à cause de son propre blocage (trop de pression) ou de celui de la personne (elle a peur d’entendre quelque chose). Ce n’est pas un échec des cartes non plus. C’est un tirage qui rencontre une personne là où elle en est.
+Et parfois, c’est l’inverse : rien ne vient. Dans mes notes, je l’écris ainsi — parfois on ne voit rien dans les cartes, à cause de son propre blocage (trop de pression) ou de celui de la personne (elle a peur d’entendre quelque chose). Ce n’est pas un échec des cartes non plus. C’est un tirage qui rencontre une personne là où elle en est.
 
 ## Et parfois, ça rate {#ca-rate}
 

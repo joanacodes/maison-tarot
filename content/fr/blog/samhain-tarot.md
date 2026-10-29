@@ -63,4 +63,4 @@ Au chaud, le Quatre de Bâtons : le 4 est le sol stable après l’effort, le Fe
 
 ## Pour aller plus loin {#et-apres}
 
-Si votre inventaire se tourne vers ceux que vous avez perdus, le [tirage des ancêtres pour Samhain](/fr/blog/tirage-des-ancetres/) est fait pour se souvenir et dire merci, en douceur. Si c’est votre tout premier tirage, pendant une soirée, lisez d’abord [à quoi s’attendre pour un tirage d’Halloween](/fr/blog/tirage-tarot-halloween/). Et pour voir la règle du silence à l’œuvre, venez aux [événements gratuits](/fr/evenements/), où je lis pour des inconnus qui gardent leur question pour eux.
+Si votre inventaire se tourne vers ceux que vous avez perdus, le [tirage des ancêtres pour Samhain](/fr/blog/tirage-des-ancetres/) est fait pour se souvenir et dire merci, en douceur. Si c’est votre tout premier tirage, pendant une soirée, lisez d’abord [à quoi s’attendre pour un tirage d’Halloween](/fr/blog/tirage-tarot-halloween/). Et pour voir la règle du silence à l’œuvre, venez à [l’heure gratuite en ligne consacrée à ce tirage pour Samhain 2027](/fr/evenements/samhain-2027/), où des volontaires tirent leurs cartes et gardent leur question pour eux.

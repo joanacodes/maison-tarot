@@ -16,20 +16,20 @@ formats:
     image: "ws-colours.jpg"
     text: "Red, blue, yellow, white, black: every colour says something before you even know which card you’re holding. The first workshop, the one to start with."
     included: ["Three hours, twelve people", "The colour grid, sent in writing", "A blind reading exercise at the end"]
-    price: ""
+    price: "£45 per person; £39.99 per person from 7 people. Tax included."
   - kicker: "3 h · online or in person"
     title: "Numbers"
     image: "ws-numbers.jpg"
     text: "From 1 to 10, a cycle you find everywhere — from a company being founded to a story ending. With examples everybody knows."
     included: ["Three hours, twelve people", "The 1–10 cycle, illustrated", "A blind reading exercise"]
-    price: ""
+    price: "£45 per person; £39.99 per person from 7 people. Tax included."
   - kicker: "3 h · online or in person"
     title: "Elements and energies"
     image: "ws-elements.jpg"
     text: "Earth, water, fire, air; feminine, masculine. Four families and two dynamics that are enough to read half the deck."
     included: ["Three hours, twelve people", "The four elements and two energies, in writing", "A blind reading exercise"]
-    price: ""
-formatsNote: "Prices include tax, shown as soon as the payment processor is approved. No levels, no certificate, no mandatory path: start with the lens that speaks to you. A workshop is a good gift."
+    price: "£45 per person; £39.99 per person from 7 people. Tax included."
+formatsNote: "No levels, no certificate, no mandatory path: start with the lens that speaks to you. A workshop is a good gift, or an evening out with friends: the price per person drops from seven people."
 stepsTitle: "How it goes"
 steps:
   - { title: "We try before we explain", text: "You draw a card within the first ten minutes. What you feel right then can’t be described; it has to be lived.", image: "step-1.jpg" }

@@ -63,4 +63,4 @@ Out loud: “This year paid you back for something you built. There’s an emoti
 
 ## Where to take it next {#next}
 
-If your stocktake turns towards the people you’ve lost, the [ancestor spread for Samhain](/blog/ancestor-tarot-spread/) is built for remembering and saying thank you, gently. If this is your very first reading and it’s happening at a party, read [what to expect from a Halloween reading](/blog/halloween-tarot-reading/) first. To watch the silence rule at work, come to the [free events](/events/), where I read for strangers who keep their questions to themselves.
+If your stocktake turns towards the people you’ve lost, the [ancestor spread for Samhain](/blog/ancestor-tarot-spread/) is built for remembering and saying thank you, gently. If this is your very first reading and it’s happening at a party, read [what to expect from a Halloween reading](/blog/halloween-tarot-reading/) first. To watch the silence rule at work, come to [the free online hour on this spread for Samhain 2027](/events/samhain-2027/), where volunteers draw and keep their questions to themselves.

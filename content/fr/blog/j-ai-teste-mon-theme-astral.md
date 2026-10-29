@@ -37,7 +37,7 @@ Même réserve que toujours : un comptage manuel, par moi, surtout sur des gens 
 
 Parce qu’un tiers, c’est assez pour être utile et pas assez pour être cru. C’est exactement le statut d’une clé de lecture : on regarde *à travers*, on ne lui obéit pas.
 
-Sur ce site, l’astrologie vit dans la [Bibliothèque](/fr/bibliotheque/astrologie/) comme l’une des façons de lire une carte. Douze arcanes majeurs portent un signe — l’Empereur est Bélier, la Grande Prêtresse est Cancer, la Mort est Scorpion — et quand vous en tirez un, le signe vous donne un verbe, un élément et un tempo gratuitement. Les cartes de 2 à 10 portent une planète dans un signe. C’est à ça que je m’en sers. Rien de plus.
+Sur ce site, l’astrologie vit dans la [Bibliothèque](/fr/bibliotheque/astrologie/) comme l’une des façons de lire une carte. Douze arcanes majeurs portent un signe — l’Empereur est Bélier, le Chariot est Cancer, la Mort est Scorpion — et quand vous en tirez un, le signe vous donne un verbe, un élément et un tempo gratuitement. Les cartes de 2 à 10 portent une planète dans un signe. C’est à ça que je m’en sers. Rien de plus.
 
 ## Ce que je refuse d’en faire {#ce-que-je-refuse}
 

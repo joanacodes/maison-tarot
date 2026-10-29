@@ -16,8 +16,8 @@ formats:
     image: "session.jpg"
     text: "Vous arrivez avec une question ou avec rien. On tire, vous lisez d’abord, je lis ensuite, on compare. Vous repartez avec une chose que vous savez faire de plus."
     included: ["Une heure en visio, dans votre heure locale", "Un tirage lu à deux", "Les clés de lecture utilisées, envoyées par écrit après la session", "Aucun abonnement, aucune suite obligatoire"]
-    price: ""
-formatsNote: "Prix TTC, en euros ou dans votre devise, affiché dès que le processeur de paiement est validé. Une session s’offre — à soi, ou à quelqu’un."
+    price: "60 € l’heure, TTC"
+formatsNote: "Une heure en tête-à-tête, 60 € TTC. Une session s’offre — à soi, ou à quelqu’un."
 stepsTitle: "Comment ça se passe"
 steps:
   - { title: "Vous réservez un créneau", text: "Il s’affiche dans votre heure locale, que vous soyez à Montréal, Bruxelles ou Genève.", image: "step-1.jpg" }

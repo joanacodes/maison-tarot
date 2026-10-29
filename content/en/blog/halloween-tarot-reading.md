@@ -66,4 +66,4 @@ And if some of it missed, that’s normal. By my own count, about one reading in
 
 If one sentence keeps going round in your head that night, say it out loud to a friend, or go back and ask the reader what they meant. A line from a card shouldn’t keep you awake; a conversation usually brings it back down to size.
 
-If you enjoyed it, the next step is to sit on the other side of the table. The [free events](/events/) are a good place to watch how it’s done, and the [Samhain spread](/blog/samhain-tarot/) is three cards you can try at home on the night itself.
+If you enjoyed it, the next step is to sit on the other side of the table. [Halloween night 2027 is a free online readings evening](/events/halloween-2027/), a good place to watch how it’s done, and the [Samhain spread](/blog/samhain-tarot/) is three cards you can try at home on the night itself.

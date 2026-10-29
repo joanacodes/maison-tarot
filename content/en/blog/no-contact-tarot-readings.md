@@ -23,7 +23,7 @@ For 4,44 €, or 12, or a subscription. And it feels like relief, for an afterno
 
 Not because tarot can't work — I think it can, under conditions I can describe — but because of what's being claimed. The reader has never met your ex. Your ex hasn't consented to being read. And the reading is being done through you: your grief, your hope, your description of the situation. What comes out is your inner life, dressed as theirs.
 
-I'll say it more plainly. **No reader can tell you what another person feels.** Not me, not the woman on the video, not the phone line at twelve euros. Any reader who says they can is either fooling themselves or fooling you, and the cost is the same either way.
+I'll say it more plainly. **No reader can tell you what another person feels.** Not me, not the woman on the video, not the phone line. Any reader who says they can is either fooling themselves or fooling you, and the cost is the same either way.
 
 ## What it costs {#what-it-costs}
 

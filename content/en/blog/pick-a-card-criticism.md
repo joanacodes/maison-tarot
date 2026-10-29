@@ -19,7 +19,7 @@ A lot of the format is bad, and bad in predictable ways.
 
 **Every pile is special.** "Whoever chose this pile, you are so loved, someone is thinking of you right now." Four piles, four versions of the same flattery. That's not reading; it's a lottery where everyone wins the same prize.
 
-**It sells.** The video ends with "for your personal reading, link in bio", or with an extended version behind a paywall, or — in the French market — with a phone number at twelve euros a question. The free reading was the top of a funnel, and [funnels shape readings](/blog/how-to-spot-a-fake-tarot-reader/).
+**It sells.** The video ends with "for your personal reading, link in bio", or with an extended version behind a paywall, or — in the French market — with a premium-rate phone number. The free reading was the top of a funnel, and [funnels shape readings](/blog/how-to-spot-a-fake-tarot-reader/).
 
 **It promises people.** "He's coming back." "They regret it." "Your person is manifesting you." Specific outcomes about a specific human who isn't in the room. [I refuse these questions](/disclaimers/#refusals) one-to-one; at scale, to thousands, they're worse.
 

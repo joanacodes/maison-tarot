@@ -65,7 +65,7 @@ Le jaune remplit le ciel. Dans [ma grille des couleurs](/fr/bibliotheque/couleur
 
 ## Par l’astrologie : Cancer {#astrologie}
 
-Dans la tradition Golden Dawn, le Chariot correspond au [Cancer](/fr/bibliotheque/astrologie/cancer/) : « je sens », gouverné par la Lune, un signe cardinal qui dirige avec humanité. Le crabe est une bonne clé pour cette carte — carapace dure, intérieur tendre, comme un guerrier en armure avec des lunes sur les épaules. Dans mes notes, le Cancer se plaint mais tient bon : il porte 78 kilos quand d’autres en soulèvent 4, et il continue. Sur la page du Cancer, vous trouverez la Grande Prêtresse, par la Lune ; la Golden Dawn donne le signe lui-même au Chariot. Facultatif, comme toujours.
+Dans la tradition Golden Dawn, le Chariot correspond au [Cancer](/fr/bibliotheque/astrologie/cancer/) : « je ressens », gouverné par la Lune, un signe cardinal qui dirige avec humanité. Le crabe est une bonne clé pour cette carte — carapace dure, intérieur tendre, comme un guerrier en armure avec des lunes sur les épaules. Dans mes notes, le Cancer se plaint mais tient bon : il porte 78 kilos quand d’autres en soulèvent 4, et il continue. Sur la page du Cancer, vous trouverez la Grande Prêtresse, par la Lune ; la Golden Dawn donne le signe lui-même au Chariot. Facultatif, comme toujours.
 
 ## En lecture {#lecture}
 

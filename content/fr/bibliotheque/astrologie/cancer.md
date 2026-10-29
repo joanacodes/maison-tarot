@@ -2,7 +2,7 @@
 title: 'Cancer en astrologie et au tarot : sa carte (La Grande Prêtresse), son énergie,
   son archétype'
 description: 'Le signe du Cancer lu comme une clé de lecture du tarot : sa carte La
-  Grande Prêtresse, son verbe « Je sens », Lune, Eau, mode cardinal, énergie féminine.
+  Grande Prêtresse, son verbe « Je ressens », Lune, Eau, mode cardinal, énergie féminine.
   Nourrice, directrice, protectrice, très forte intuition. Ses côtés favorables et
   défavorables, son archétype, et comment le lire dans un tirage.'
 translationKey: sign-cancer
@@ -16,7 +16,7 @@ tags:
 - cancer
 - La Grande Prêtresse
 - Lune
-h1: Cancer — <em>je sens</em>
+h1: Cancer — <em>je ressens</em>
 lede: Deux personnes soulèvent des poids qui se ressemblent comme deux gouttes d’eau
   ; ceux de la première font 4 kilos, ceux de l’autre 78.
 related:
@@ -61,7 +61,7 @@ gallery:
 ---
 ## En une ligne {#en-une-ligne}
 
-**Nourrice, directrice, protectrice, très forte intuition.** Verbe : *Je sens*. Astre : [Lune](/fr/bibliotheque/astrologie/lune/). Élément : [Eau](/fr/bibliotheque/quatre-elements/element-eau/). Mode : [cardinal](/fr/bibliotheque/modes-astrologiques/cardinal/). Énergie : [féminine](/fr/bibliotheque/energies-feminine-masculine/). Couleur : vert et argent. Animal : les crabes et crustacés, la pieuvre.
+**Nourrice, directrice, protectrice, très forte intuition.** Verbe : *Je ressens*. Astre : [Lune](/fr/bibliotheque/astrologie/lune/). Élément : [Eau](/fr/bibliotheque/quatre-elements/element-eau/). Mode : [cardinal](/fr/bibliotheque/modes-astrologiques/cardinal/). Énergie : [féminine](/fr/bibliotheque/energies-feminine-masculine/). Couleur : vert et argent. Animal : les crabes et crustacés, la pieuvre.
 
 ## Ce que fait cette énergie {#energie}
 

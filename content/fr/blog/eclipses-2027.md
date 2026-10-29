@@ -39,7 +39,7 @@ Depuis la France, l’éclipse est partielle. À Paris, elle commence vers 10 h 
 
 ## Ce que les astrologues lisent dans les éclipses de 2027 {#signes}
 
-En 2027, les saisons d’éclipses tombent en février et entre fin juillet et août, et l’axe dont les astrologues vont parler, c’est le [Lion](/fr/bibliotheque/astrologie/lion/) et le [Verseau](/fr/bibliotheque/astrologie/verseau/) : les deux éclipses solaires et l’éclipse lunaire d’août s’y trouvent, parce que c’est là que passent les Nœuds de la Lune cette année-là. Le verbe du Lion, c’est « je vais » : l’expression de soi, la fierté, le cœur qui a besoin d’être vu. Celui du Verseau, « je sais » : le groupe, les idées, ce qui vient. Lus ensemble, ils parlent du tiraillement entre moi et nous. Si vous aimez donner une carte à chaque signe, la tradition de la Golden Dawn place la Force sur le Lion et l’Étoile sur le Verseau.
+En 2027, les saisons d’éclipses tombent en février et entre fin juillet et août, et l’axe dont les astrologues vont parler, c’est le [Lion](/fr/bibliotheque/astrologie/lion/) et le [Verseau](/fr/bibliotheque/astrologie/verseau/) : les deux éclipses solaires et l’éclipse lunaire d’août s’y trouvent, parce que c’est là que passent les Nœuds de la Lune cette année-là. Le verbe du Lion, c’est « je veux » : l’expression de soi, la fierté, le cœur qui a besoin d’être vu. Celui du Verseau, « je sais » : le groupe, les idées, ce qui vient. Lus ensemble, ils parlent du tiraillement entre moi et nous. Si vous aimez donner une carte à chaque signe, la tradition de la Golden Dawn place la Force sur le Lion et l’Étoile sur le Verseau.
 
 {{< cards "ar08 ar17" >}}
 

@@ -51,7 +51,7 @@ C’est la partie du titre qui compte le plus. La carte ne peut pas vous dire la
 2. Retrouvez d’abord le sol sous vos pieds. Dormir, manger, marcher, appeler l’ami qui ne prend pas parti. Le feu se calme quand il n’a plus rien à brûler.
 3. Faites deux listes : ce qui est tombé, et ce qui tient encore. La seconde est presque toujours plus longue que prévu.
 4. Parlez quand le feu est retombé. Une conversation trois jours plus tard en dit plus qu’une conversation hurlée à minuit.
-5. Si vous avez peur de quelqu’un, ce n’est pas une question pour une carte. Parlez-en à une personne de confiance, et tournez-vous vers un professionnel ou une ligne d’écoute spécialisée. Les cartes peuvent accueillir ce que vous ressentez ; elles ne peuvent pas vous protéger.
+5. Si vous avez peur de quelqu’un, ce n’est pas une question pour une carte. Parlez-en à une personne de confiance, et tournez-vous vers un professionnel ou une ligne d’écoute spécialisée : en France, le 3919, gratuit et anonyme, répond jour et nuit ; ailleurs, le service équivalent de votre pays. En cas de danger immédiat, appelez le 17 ou le 112. Les cartes peuvent accueillir ce que vous ressentez ; elles ne peuvent pas vous protéger.
 6. Posez le jeu un moment. Tirer une carte toutes les heures après un choc, c’est le choc qui parle. Faites une pause avec vos cartes de temps en temps — surtout maintenant.
 
 ## Les cartes qui entourent la chute {#la-chute}

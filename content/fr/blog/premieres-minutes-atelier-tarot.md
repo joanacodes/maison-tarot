@@ -25,7 +25,7 @@ Il y a une deuxième raison, et c’est la raison même pour laquelle j’enseig
 
 Très peu, et c’est voulu. Vous tirez une carte. Vous la regardez. Vous dites à voix haute ce que vous remarquez : une couleur qui saute aux yeux, une posture, un mot, une sensation, une image qui n’a rien à voir avec le dessin.
 
-L’exercice vient de mes propres notes de cours, en trois temps : décrire ce qu’il y a sur la carte, puis ce que vous y voyez, puis ce que vous recevez. Le premier temps, tout le monde sait le faire. Le troisième, c’est celui que personne ne pense réussir, et que la plupart réussissent.
+L’exercice vient de mes propres notes, en trois temps : décrire ce qu’il y a sur la carte, puis ce que vous y voyez, puis ce que vous recevez. Le premier temps, tout le monde sait le faire. Le troisième, c’est celui que personne ne pense réussir, et que la plupart réussissent.
 
 Inutile de connaître le nom de la carte. Inutile d’avoir lu quoi que ce soit. Si vous connaissez déjà une signification par cœur, mettez-la de côté dix minutes : elle vous attendra.
 

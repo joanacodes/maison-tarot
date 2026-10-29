@@ -69,4 +69,4 @@ Reversed, or surrounded by heavy cards, the Fool becomes the carelessness that c
 
 ## A reading, as an example {#example}
 
-Someone who told me nothing. The Fool comes out first, followed by the [Eight of Pentacles](/library/tarot-cards/eight-of-pentacles/). Before any “meaning”: zero then eight, Air then Earth, the beginning then the work. I say: “You’re leaving something without knowing yet what you’ll do, and you’ll find out by working, not by thinking.” She had resigned the week before to retrain in a manual trade. I had memorised nothing.
+Imagine a reading for someone who hasn’t said a word: the Fool comes out first, followed by the [Eight of Pentacles](/library/tarot-cards/eight-of-pentacles/). Before any “meaning”: zero then eight, Air then Earth, the beginning then the work. That gives: “You’re leaving something without knowing yet what you’ll do, and you’ll find out by working, not by thinking.” For someone who has just left a job to retrain in a manual trade, that sentence lands, and not one meaning was learnt by heart.

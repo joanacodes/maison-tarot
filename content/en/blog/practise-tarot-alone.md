@@ -15,7 +15,7 @@ You can practise tarot alone every day, and most of what makes a reader is train
 
 ## One card a day, described out loud {#one-card}
 
-This is the exercise from my own course notes, and it’s still the one I’d start with. Draw one card. Describe what’s on it. Then say what you see in it. Then say what you receive — an image, a word, a feeling that has nothing to do with the drawing.
+This is the exercise from my own notes, and it’s still the one I’d start with. Draw one card. Describe what’s on it. Then say what you see in it. Then say what you receive — an image, a word, a feeling that has nothing to do with the drawing.
 
 Do it out loud. Reading is something you say, and the words come differently when you speak them than when you think them. After a week of single cards, move to three. Then more.
 

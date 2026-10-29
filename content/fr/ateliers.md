@@ -16,20 +16,20 @@ formats:
     image: "ws-colours.jpg"
     text: "Rouge, bleu, jaune, blanc, noir : chaque couleur dit quelque chose avant même qu’on sache quelle carte on tient. Le premier atelier, celui par lequel on commence."
     included: ["Trois heures, douze personnes", "La grille des couleurs, envoyée par écrit", "Un exercice de lecture à l’aveugle en fin d’atelier"]
-    price: ""
+    price: "46 € par personne ; 39,99 € par personne à partir de 7. TTC."
   - kicker: "3 h · en ligne ou en personne"
     title: "Les nombres"
     image: "ws-numbers.jpg"
     text: "De 1 à 10, un cycle qu’on retrouve partout — de la création d’une entreprise à la fin d’une histoire. Avec des exemples que tout le monde connaît."
     included: ["Trois heures, douze personnes", "Le cycle 1–10 illustré", "Un exercice de lecture à l’aveugle"]
-    price: ""
+    price: "46 € par personne ; 39,99 € par personne à partir de 7. TTC."
   - kicker: "3 h · en ligne ou en personne"
     title: "Les éléments et les énergies"
     image: "ws-elements.jpg"
     text: "Terre, eau, feu, air ; féminin, masculin. Quatre familles et deux dynamiques qui suffisent à lire la moitié du jeu."
     included: ["Trois heures, douze personnes", "Les quatre éléments et les deux énergies, par écrit", "Un exercice de lecture à l’aveugle"]
-    price: ""
-formatsNote: "Prix TTC, affichés dès que le processeur de paiement est validé. Pas de niveaux, pas de certificat, pas de parcours obligatoire : on commence par la clé de lecture qui vous parle. Un atelier s’offre."
+    price: "46 € par personne ; 39,99 € par personne à partir de 7. TTC."
+formatsNote: "Pas de niveaux, pas de certificat, pas de parcours obligatoire : on commence par la clé de lecture qui vous parle. Un atelier s’offre, ou se vit entre amis : le prix par personne baisse à partir de sept."
 stepsTitle: "Comment ça se passe"
 steps:
   - { title: "On essaie avant d’expliquer", text: "Vous tirez une carte dans les dix premières minutes. Ce que vous ressentez à ce moment-là ne se raconte pas ; il faut le vivre.", image: "step-1.jpg" }

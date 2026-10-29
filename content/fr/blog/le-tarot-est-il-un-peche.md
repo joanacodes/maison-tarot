@@ -23,9 +23,9 @@ Si vous appartenez à l’une de ces traditions, la personne à interroger est c
 
 ## Ce que j’ai vu chez moi {#chez-moi}
 
-Mon père prie. Le soir où je l’ai entendu m’appeler, comme depuis la pièce d’à côté, j’étais à Londres ; lui était à Paris, à son temple bouddhiste, et il pensait à moi. Il ne tirait pas les cartes, il priait. J’ai raconté cette histoire ailleurs ; ce qui compte ici, c’est que rien là-dedans ne m’a demandé de choisir. Il n’a pas cessé de prier parce que sa fille lisait les cartes. Je n’ai pas cessé d’être sa fille parce que je les lisais.
+J’ai grandi dans une famille chrétienne non pratiquante. Je ne me posais pas vraiment de questions sur la spiritualité, et elle ne m’intéressait pas beaucoup ; pourtant, j’étais déjà spirituelle à ma façon : je voulais la paix et la justice pour tout le monde. Puis mon père est entré dans une branche du bouddhisme, qu’il a quittée plus tard.
 
-J’ai grandi entre deux façons de prendre l’invisible au sérieux, et j’en ai appris qu’elles ne se disputaient pas la même place. L’une était la dévotion. L’autre, l’attention. On peut tenir les deux.
+Il en faisait partie le soir où je l’ai entendu m’appeler, comme depuis la pièce d’à côté : j’étais à Londres ; lui était à Paris, à son temple bouddhiste, il priait et pensait à moi. J’ai raconté cette histoire ailleurs ; ce qui compte ici, c’est que rien là-dedans ne m’a demandé de choisir.
 
 ## Ce que je laisse de côté, et pourquoi ça compte ici {#ce-que-je-laisse}
 

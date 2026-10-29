@@ -31,7 +31,7 @@ Mon chemin est allé dans l’autre sens : j’ai vendu de la sauge et des bougi
 
 ## L’empathie : ressentir sans prendre sur soi {#empathie}
 
-Dans mes notes de cours, l’empathie, c’est ressentir et comprendre les émotions de l’autre tout en gardant les siennes. Les deux moitiés comptent. Sans la première, vous lisez les cartes comme un dictionnaire. Sans la seconde, vous rentrez chez vous avec le chagrin de quelqu’un d’autre.
+Dans mes notes, l’empathie, c’est ressentir et comprendre les émotions de l’autre tout en gardant les siennes. Les deux moitiés comptent. Sans la première, vous lisez les cartes comme un dictionnaire. Sans la seconde, vous rentrez chez vous avec le chagrin de quelqu’un d’autre.
 
 Les tarologues très empathiques peuvent finir par ressentir les émotions de l’autre, voire par les exprimer : une boule dans la gorge qui n’est pas la leur, des larmes au milieu de l’histoire d’un autre. Si ça vous arrive, ce n’est pas le signe que vous vous y prenez mal. C’est le signe qu’il vous faut un peu de distance. Écoutez l’émotion ; ne la laissez pas prendre le dessus.
 

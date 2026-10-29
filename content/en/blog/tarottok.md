@@ -21,7 +21,7 @@ Vertical, under a minute, often under thirty seconds. A reader, usually young, u
 - **"This is for whoever needs to hear it"** — no piles, one message, aimed at the algorithm's guess about who's watching.
 - **"Your person / your ex / your next lover"** — the most viewed and the most harmful; [the same reading I refuse one-to-one](/blog/no-contact-tarot-readings/), at scale.
 - **Card-a-day** and **card meanings**, which are often decent and the least watched.
-- **Live readings**, where viewers pay for a question — in France, one of the country's most-followed young readers charges twelve euros a question, according to a 2025 television investigation.
+- **Live readings**, where viewers pay for each question they ask.
 
 Hashtags: #tarottok, #witchtok, #pickacard, #tarotreading, and in French #tarotfrançais and #tiragesentimental.
 

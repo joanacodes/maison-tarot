@@ -31,7 +31,7 @@ My own path went the other way: I once sold sage and candles, and I’ve explain
 
 ## Empathy: feeling without taking on {#empathy}
 
-In my course notes, empathy is feeling and understanding the other person’s emotions while keeping your own. Both halves matter. Without the first, you read cards like a dictionary. Without the second, you go home with someone else’s grief.
+In my notes, empathy is feeling and understanding the other person’s emotions while keeping your own. Both halves matter. Without the first, you read cards like a dictionary. Without the second, you go home with someone else’s grief.
 
 Very empathic readers can end up feeling the other person’s emotions, even expressing them: a lump in the throat that isn’t theirs, tears in the middle of someone else’s story. If that happens to you, it doesn’t mean you’re doing it wrong. It means you need a little distance. Listen to the emotion; don’t let it take over.
 

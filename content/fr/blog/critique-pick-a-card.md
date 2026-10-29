@@ -19,7 +19,7 @@ Une bonne partie du format est mauvaise, et mauvaise de façon prévisible.
 
 *Chaque tas est spécial.* « Si vous avez choisi ce tas, quelqu’un pense à vous en ce moment même. » Quatre tas, quatre versions de la même flatterie. Ce n’est pas une lecture, c’est un loto où tout le monde gagne le même lot.
 
-*Il vend.* La vidéo se termine par « pour un tirage personnalisé, lien en bio », par une version longue derrière un paiement, ou, chez nous, par un numéro de téléphone à douze euros la question. Le tirage gratuit était l’entrée d’un tunnel de vente, et [un tunnel de vente façonne le tirage](/fr/blog/arnaque-voyance/).
+*Il vend.* La vidéo se termine par « pour un tirage personnalisé, lien en bio », par une version longue derrière un paiement, ou, chez nous, par un numéro de téléphone surtaxé. Le tirage gratuit était l’entrée d’un tunnel de vente, et [un tunnel de vente façonne le tirage](/fr/blog/arnaque-voyance/).
 
 *Il promet des personnes.* « Il va revenir. » « Elle regrette. » « Ta personne te manifeste. » Des issues précises au sujet d’un être humain précis qui n’est pas dans la pièce. [Je ne lis pas sur ces questions](/fr/avertissements/#refus) en tête-à-tête ; devant des milliers de personnes à la fois, c’est pire.
 

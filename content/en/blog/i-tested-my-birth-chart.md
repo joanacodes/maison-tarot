@@ -37,7 +37,7 @@ Same caveat as always: a manual count, by me, on people I mostly knew. Not a stu
 
 Because a third is enough to be useful and not enough to be trusted. That's exactly the status of a lens: you look *through* it, you don't obey it.
 
-On this site, astrology lives in the [Library](/library/astrology/) as one of the ways to read a card. Twelve major arcana carry a sign — the Emperor is Aries, the High Priestess is Cancer, Death is Scorpio — and when you draw one, the sign gives you a verb, an element and a tempo for free. The cards from 2 to 10 carry a planet in a sign. That's what I use it for. Nothing more.
+On this site, astrology lives in the [Library](/library/astrology/) as one of the ways to read a card. Twelve major arcana carry a sign — the Emperor is Aries, the Chariot is Cancer, Death is Scorpio — and when you draw one, the sign gives you a verb, an element and a tempo for free. The cards from 2 to 10 carry a planet in a sign. That's what I use it for. Nothing more.
 
 ## What I refuse to do with it {#what-i-refuse}
 

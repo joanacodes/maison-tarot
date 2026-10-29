@@ -63,7 +63,7 @@ It happens with gentler cards too. The Three of Swords — a heart pierced by th
 
 The reader’s state matters just as much. I was enraged when I heard that voice. Anger and grief are loud, and they get into whatever you receive. It’s one of the reasons I’m careful about [reading tarot when you’re upset](/blog/reading-tarot-when-upset/): not because nothing will come, but because whatever comes will be read through the state you’re in.
 
-And sometimes it’s the other way round: nothing comes at all. In my teaching notes I put it like this — sometimes you can’t see anything in the cards, because of your own block (too much pressure) or because of the person’s (they’re afraid of hearing something). That isn’t the cards failing either. It’s a reading meeting a person where they are.
+And sometimes it’s the other way round: nothing comes at all. In my notes I put it like this — sometimes you can’t see anything in the cards, because of your own block (too much pressure) or because of the person’s (they’re afraid of hearing something). That isn’t the cards failing either. It’s a reading meeting a person where they are.
 
 ## And sometimes it misses {#a-miss}
 

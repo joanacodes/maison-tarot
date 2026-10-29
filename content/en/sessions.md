@@ -16,8 +16,8 @@ formats:
     image: "session.jpg"
     text: "Come with a question or with nothing. We draw, you read first, then I read, and we compare. You leave with one more thing you know how to do."
     included: ["One hour by video, in your local time", "One spread, read by both of us", "The lenses we used, sent to you in writing afterwards", "No subscription, no mandatory follow-up"]
-    price: ""
-formatsNote: "Price includes tax, in your currency, shown as soon as the payment processor is approved. A session is something you can gift — to yourself, or to someone else."
+    price: "£60 for the hour, tax included"
+formatsNote: "One hour, one-to-one, £60. A session is something you can gift — to yourself, or to someone else."
 stepsTitle: "How it goes"
 steps:
   - { title: "You book a slot", text: "It shows in your local time, whether you’re in Sydney, London or Los Angeles.", image: "step-1.jpg" }

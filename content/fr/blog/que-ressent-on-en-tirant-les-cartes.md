@@ -15,7 +15,7 @@ La plupart du temps, lire une carte n’a rien de spectaculaire : un mot ou une 
 
 ## La plupart du temps, ça ressemble à vos propres pensées {#vos-pensees}
 
-Dans mes notes de cours, les impressions passent par tous les canaux que nous avons : images, sons, mots, odeurs, sensations, émotions, et certaines personnes sont plus fines sur l’un d’eux. Quand vous lisez, elles arrivent comme arrivent les pensées. Pas de clochette, pas de voix particulière : ce qui vient parle avec votre propre voix, à la vitesse d’une pensée ordinaire.
+Dans mes notes, les impressions passent par tous les canaux que nous avons : images, sons, mots, odeurs, sensations, émotions, et certaines personnes sont plus fines sur l’un d’eux. Quand vous lisez, elles arrivent comme arrivent les pensées. Pas de clochette, pas de voix particulière : ce qui vient parle avec votre propre voix, à la vitesse d’une pensée ordinaire.
 
 Imaginez que vous retourniez le Six de Coupes pour une amie : deux enfants dans une cour, l’un tend à l’autre une coupe remplie de fleurs. Dans mes notes, cette carte parle d’enfance, de temps pris pour soi, d’une seconde floraison. Mais le mot qui vous traverse l’esprit, c’est « école ». Pas un sens appris dans un livre, juste un mot. Ce mot-là, c’est à ça que ressemble une lecture.
 
@@ -29,7 +29,7 @@ Les cartes aident, modestement. Elles donnent à vos yeux un endroit où se pose
 
 À l’autre bout de l’échelle, ce qui arrive n’est pas un mot mais un ressenti. Les sensations et les émotions sont des canaux, elles aussi, et chez certains tarologues ce sont les plus bruyants.
 
-Imaginez que vous lisiez pour quelqu’un et qu’une lourdeur s’installe en vous, qui n’était pas là une minute plus tôt. Rien dans votre propre journée ne l’explique. C’est à ça que l’empathie peut ressembler quand on lit. Dans mes notes de cours, l’empathie, c’est ressentir et comprendre les émotions de l’autre tout en gardant les siennes. Les tarologues très empathiques peuvent finir par ressentir les émotions de la personne, et parfois par les exprimer, comme si elles leur appartenaient.
+Imaginez que vous lisiez pour quelqu’un et qu’une lourdeur s’installe en vous, qui n’était pas là une minute plus tôt. Rien dans votre propre journée ne l’explique. C’est à ça que l’empathie peut ressembler quand on lit. Dans mes notes, l’empathie, c’est ressentir et comprendre les émotions de l’autre tout en gardant les siennes. Les tarologues très empathiques peuvent finir par ressentir les émotions de la personne, et parfois par les exprimer, comme si elles leur appartenaient.
 
 C’est là qu’il faut faire attention. Si vous pleurez les larmes de la personne en face, vous ne lisez plus pour elle ; c’est elle qui s’occupe de vous.
 

@@ -19,7 +19,7 @@ I take it seriously enough to have a habit around it. I sometimes stop after two
 
 Because reading is work. You hold your attention on one person, one card and whatever comes up, without letting your own thoughts take the wheel. That kind of focus costs something, the way an exam or a long drive does.
 
-Then there are the other person’s emotions. In my course notes, empathy means feeling and understanding someone’s emotions **while keeping your own**. Very empathic readers can end up feeling the other person’s emotions, sometimes even expressing them. Say someone sits down carrying a heavy week and the Five of Cups comes up: you may feel the weight of it in your chest for a moment. Feeling it is part of reading. Carrying it home isn’t.
+Then there are the other person’s emotions. In my notes, empathy means feeling and understanding someone’s emotions **while keeping your own**. Very empathic readers can end up feeling the other person’s emotions, sometimes even expressing them. Say someone sits down carrying a heavy week and the Five of Cups comes up: you may feel the weight of it in your chest for a moment. Feeling it is part of reading. Carrying it home isn’t.
 
 And there are the practical things nobody counts. A screen, a headset, a chair you haven’t left in two hours, a glass of water you poured and forgot. Most of my readings for strangers were online, so I know that evening well.
 

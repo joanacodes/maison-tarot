@@ -15,7 +15,7 @@ On peut s’entraîner au tarot seul tous les jours, et la plus grande partie de
 
 ## Une carte par jour, décrite à voix haute {#une-carte}
 
-C’est l’exercice de mes propres notes de cours, et c’est toujours celui par lequel je commencerais. Tirez une carte. Décrivez ce qu’il y a dessus. Dites ensuite ce que vous y voyez. Puis ce que vous recevez — une image, un mot, une sensation qui n’a rien à voir avec le dessin.
+C’est l’exercice de mes propres notes, et c’est toujours celui par lequel je commencerais. Tirez une carte. Décrivez ce qu’il y a dessus. Dites ensuite ce que vous y voyez. Puis ce que vous recevez — une image, un mot, une sensation qui n’a rien à voir avec le dessin.
 
 Faites-le à voix haute. Lire, c’est dire, et les mots ne viennent pas de la même façon quand on les prononce que quand on les pense. Après une semaine de cartes seules, passez à trois. Puis à davantage.
 

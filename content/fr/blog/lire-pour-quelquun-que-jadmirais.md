@@ -27,7 +27,7 @@ Je ne vous en dirai pas plus sur lui. L’histoire n’est pas sa vie ; c’est 
 
 Lire pour quelqu’un qu’on admire fait monter la pression d’une façon qui n’a rien à voir avec le thème ni avec les cartes.
 
-Dans mes notes de cours, l’une des deux raisons habituelles pour lesquelles rien ne vient pendant une lecture, c’est le blocage du lecteur lui-même : trop de pression. Or l’admiration, c’est de la pression. Vous voulez avoir raison devant cette personne. Vous voulez qu’elle pense du bien de vous. Vous ne voulez pas être celle ou celui qui lui fait mal.
+Dans mes notes, l’une des deux raisons habituelles pour lesquelles rien ne vient pendant une lecture, c’est le blocage du lecteur lui-même : trop de pression. Or l’admiration, c’est de la pression. Vous voulez avoir raison devant cette personne. Vous voulez qu’elle pense du bien de vous. Vous ne voulez pas être celle ou celui qui lui fait mal.
 
 Avec lui, la pression avait une forme précise : je l’admirais trop pour vouloir qu’il me croie folle. Je l’ai fait quand même.
 

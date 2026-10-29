@@ -19,7 +19,7 @@ Je le prends assez au sérieux pour en avoir fait une habitude : il m’arrive d
 
 Parce que lire, c’est un travail. Vous gardez votre attention sur une personne, une carte et ce qui monte, sans laisser vos propres pensées prendre le volant. Ce genre de concentration se paie, comme un oral d’examen ou cinq heures d’autoroute un samedi de départs en vacances.
 
-Il y a aussi les émotions de l’autre. Dans mes notes de cours, l’empathie, c’est ressentir et comprendre les émotions de quelqu’un **tout en gardant les siennes**. Les tarologues très empathiques peuvent finir par ressentir les émotions de l’autre, parfois même par les exprimer. Imaginons que quelqu’un s’assoie avec une semaine lourde sur les épaules et que le Cinq de Coupes sorte : vous sentirez peut-être ce poids dans la poitrine un instant. Le ressentir fait partie de la lecture. Le ramener chez vous, non.
+Il y a aussi les émotions de l’autre. Dans mes notes, l’empathie, c’est ressentir et comprendre les émotions de quelqu’un **tout en gardant les siennes**. Les tarologues très empathiques peuvent finir par ressentir les émotions de l’autre, parfois même par les exprimer. Imaginons que quelqu’un s’assoie avec une semaine lourde sur les épaules et que le Cinq de Coupes sorte : vous sentirez peut-être ce poids dans la poitrine un instant. Le ressentir fait partie de la lecture. Le ramener chez vous, non.
 
 Et puis il y a tout ce qu’on ne compte pas : un écran, un casque, une chaise qu’on n’a pas quittée depuis deux heures, un verre d’eau servi et oublié. La plupart de mes tirages pour des inconnus se sont faits en ligne ; ce genre de soirée, je le connais bien.
 

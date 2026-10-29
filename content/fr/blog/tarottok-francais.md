@@ -21,7 +21,7 @@ Verticale, moins d’une minute, souvent moins de trente secondes. Une personne,
 - *« Ce message est pour qui a besoin de l’entendre »* : pas de tas, un seul message, adressé à la personne que l’algorithme devine derrière l’écran.
 - *« Ta personne, ton ex, ton prochain amour »* : le plus regardé et le plus nocif. C’est [le tirage sur lequel je ne lis pas en tête-à-tête](/fr/blog/est-ce-quil-pense-a-moi-tarot/), en version de masse.
 - *La carte du jour* et *la signification des cartes* : souvent correctes, et les moins regardées.
-- *Les lives*, où l’on paie pour poser une question. En France, d’après une enquête télévisée diffusée en 2025, l’une des jeunes tarologues les plus suivies du pays facture douze euros la question.
+- *Les lives*, où l’on paie chaque question posée.
 
 Hashtags : #tarottok, #witchtok, #pickacard, #tarotreading, et en français #tarotfrançais et #tiragesentimental.
 

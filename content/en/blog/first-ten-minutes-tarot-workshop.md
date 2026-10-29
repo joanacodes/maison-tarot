@@ -25,7 +25,7 @@ There’s a second reason, and it’s the reason I teach at all. When I first ma
 
 Very little, on purpose. You draw a card. You look at it. You say, out loud, what you notice: a colour that jumps out, a posture, a word, a feeling, an image that has nothing to do with the drawing.
 
-The exercise comes from my own course notes, and it has three steps: describe what’s on the card, then what you see in it, then what you receive. The first is a description anyone can give. The third is the one people don’t expect to manage, and usually do.
+The exercise comes from my own notes, and it has three steps: describe what’s on the card, then what you see in it, then what you receive. The first is a description anyone can give. The third is the one people don’t expect to manage, and usually do.
 
 You don’t need to know the card’s name. You don’t need to have read anything. If you already know a meaning by heart, put it aside for ten minutes; it will still be there afterwards.
 

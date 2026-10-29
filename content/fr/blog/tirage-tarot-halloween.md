@@ -66,4 +66,4 @@ Et si une partie a raté, c’est normal. À mon propre décompte, environ un ti
 
 Si une phrase vous tourne dans la tête ce soir-là, dites-la à voix haute à un ami, ou retournez demander ce qu’elle voulait dire. Une phrase sortie d’une carte ne devrait pas vous empêcher de dormir ; une conversation la ramène en général à sa juste taille.
 
-Si l’expérience vous a plu, l’étape suivante, c’est de passer de l’autre côté de la table. Les [événements gratuits](/fr/evenements/) sont un bon endroit pour voir comment on s’y prend, et le [tirage de Samhain](/fr/blog/samhain-tarot/) tient en trois cartes à essayer chez vous, le soir même.
+Si l’expérience vous a plu, l’étape suivante, c’est de passer de l’autre côté de la table. [Le soir d’Halloween 2027, une soirée de lectures gratuites a lieu en ligne](/fr/evenements/halloween-2027/) : un bon endroit pour voir comment on s’y prend. Et le [tirage de Samhain](/fr/blog/samhain-tarot/) tient en trois cartes à essayer chez vous, le soir même.

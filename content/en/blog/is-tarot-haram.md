@@ -53,7 +53,7 @@ If a decision is weighing on you, your tradition has *istikhara*, and an imam yo
 
 ## Respect, both ways {#respect}
 
-My father prays at his Buddhist temple; I read cards. I've never had to look down on his way of taking the invisible seriously to keep mine, and that's what I try to hold to here.
+For a time my father belonged to a branch of Buddhism; I read cards. I never had to look down on his way of taking the invisible seriously to keep mine, and that's what I try to hold to here.
 
 I don't ask anyone's religion before a reading. I only ask whether they want to be read, and a hesitation counts as a no. If you read for others, do the same: don't guess anyone's faith from their name or their appearance, and ask every time. At [the free events](/events/), the people read are drawn at random, and I always ask before I begin; nobody has to explain a no.
 

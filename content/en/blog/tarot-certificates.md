@@ -61,4 +61,6 @@ None of these questions rules a certificate in or out. A course that issues one 
 
 ## Where to start {#start}
 
+To be clear about my own house: Maison Tarot runs no course and gives no certificate. It's a place to learn, with lessons for anyone who wants them and events now and then.
+
 Before paying for any course, wherever it is, watch the teacher read. The [free events](/events/) at Maison Tarot are one place to do that: readings for people drawn at random, who tell me nothing first, so you can see a method at work and judge it for yourself. If you’re on the other side of the table and building your own practice, [how to do it without becoming a guru](/blog/tarot-practice-without-guru/) is the companion to this page.

@@ -29,7 +29,7 @@ When you’re single, the swords are usually beliefs. “All the good ones are t
 
 When you’re together, it often describes feeling stuck inside the relationship: a conversation you never start, a need you never name, a habit you both resent and neither breaks. The swords are the arguments you rehearse in your head and never say out loud. Air is also communication, good or bad, and my notes have a name for the bad side: the viper’s tongue. Sometimes a band around you is a sentence someone once said to you, repeated in your head until it sounds like your own. The tool is there — your voice — and the card asks what keeps the blindfold on.
 
-One thing I want to say carefully. If being trapped is literal — if someone controls your money, your phone, who you see, or you’re afraid of them — that isn’t a blindfold you can take off by thinking differently, and it isn’t a question for cards. Talk to someone you trust, or to a domestic abuse support service in your country. That comes first.
+One thing I want to say carefully. If being trapped is literal — if someone controls your money, your phone, who you see, or you’re afraid of them — that isn’t a blindfold you can take off by thinking differently, and it isn’t a question for cards. Talk to someone you trust, or to a domestic abuse support service in your country: the free National Domestic Abuse Helpline in the UK (0808 2000 247, open around the clock), or the 3919 in France, free and anonymous. If you’re in danger right now, call 999 or 112. That comes first.
 
 After a break-up, the Eight of Swords is the story you tell yourself about why it ended, on a loop. Or the waiting: not dating, not moving, keeping your life on hold in case they come back. Her feet are free, and the first step is hers to take.
 
