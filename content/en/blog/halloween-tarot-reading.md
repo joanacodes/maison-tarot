@@ -26,7 +26,7 @@ At a party, a fair or an online event, a first reading usually goes like this.
 
 **A careful reader always asks before reading you, and stops when you ask them to.** That’s the whole of the etiquette on your side: you’re allowed to be curious, sceptical, or both.
 
-At Maison Tarot there’s one more rule, before step one. Tell me nothing — not your question, not your situation. It feels odd for about a minute. It’s also the only way you’ll know, at the end, that I read you and not what you’d told me. [The silence rule, explained](/blog/the-silence-rule/).
+At Maison Tarot there’s one more rule, before step one: you keep your question and your situation to yourself. It feels odd for about a minute. It’s also the only way you’ll know, at the end, that I read you and not what you’d told me. [The silence rule, explained](/blog/the-silence-rule/).
 
 ## Will the cards be scary? {#scary-cards}
 
@@ -60,7 +60,7 @@ Wherever you are, two signs tell you it isn’t a reading but a sale: urgency (�
 
 Write down what was said, the same evening, before you decide what it meant. Memory edits fast; a week later you’ll remember the reading you wanted, not the one you had.
 
-Then don’t act on it. Act on what you feel. [Tarot is not an authority](/blog/tarot-is-not-an-authority/), and a ten-minute reading at a party even less so.
+Then don’t act on it. [Tarot is not an authority](/blog/tarot-is-not-an-authority/), and a ten-minute reading at a party even less so.
 
 And if some of it missed, that’s normal. By my own count, about one reading in ten misses, and a good reader says so rather than bending the miss into a hit.
 

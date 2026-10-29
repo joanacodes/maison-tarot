@@ -27,7 +27,7 @@ So asking whether tarot is a scam is a bit like asking whether painting is one b
 
 A reading is complete in itself. It starts, it says what it sees, and it ends.
 
-The reader can work without your story; I ask people to tell me nothing. They describe what’s on the cards and what it suggests. When something doesn’t land, they say so. A miss is a miss: no “it’ll make sense later”, no extra card to rescue it. At the end, the decision goes back to you, and nothing is left hanging.
+The reader can work without your story; I ask people to tell me nothing. They describe what’s on the cards and what it suggests. When something doesn’t land, they say so: no “it’ll make sense later”, no extra card to rescue it. At the end, the decision goes back to you, and nothing is left hanging.
 
 Even a heavy card leaves you free. Say someone draws the Tower.
 

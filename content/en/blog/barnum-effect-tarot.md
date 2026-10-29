@@ -66,7 +66,7 @@ The notebook does two things the memory can’t. It keeps the misses, which memo
 
 ## Check three: the neighbour test {#neighbour-test}
 
-The third check is a single question I ask of every sentence afterwards: would this fit my neighbour? If yes, it doesn’t count. I’ve scored one of my own readings this way, sentence by sentence, in [why tarot readings feel so accurate](/blog/why-tarot-readings-feel-accurate/), so here I’ll show the difference on two cards instead.
+The third check is a single question I ask of every sentence afterwards: would this fit my neighbour? A sentence that would fit them too scores zero. I’ve scored one of my own readings this way, sentence by sentence, in [why tarot readings feel so accurate](/blog/why-tarot-readings-feel-accurate/), so here I’ll show the difference on two cards instead.
 
 Say the cards are the Eight of Swords and the Four of Wands.
 
@@ -92,10 +92,10 @@ The other honest limit is me. My checks reduce the Barnum effect; they don’t r
 
 ## Try it on your next reading {#try-it}
 
-You don’t need to trust my numbers. Don’t take my words as ultimate truth. Test it and experience it for yourself.
+You don’t need to trust my numbers; run the checks on readings of your own.
 
 1. Before the reading, agree that the person tells you nothing.
-2. Write down every sentence you say, as you say it.
+2. Write your sentences down while you speak, one per line, so each can be scored.
 3. Afterwards, strike every sentence that would fit your neighbour.
 4. Of what’s left, mark what was confirmed and what wasn’t.
 5. Do this ten times before you draw any conclusion about yourself.

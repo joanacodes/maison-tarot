@@ -29,7 +29,7 @@ Not in anything I’ve been able to see. In 2021 I [sold sage, candles and “ch
 
 What I have seen change a reading is already at the table. Whether the person told me anything before I started. Whether I’d been reading for two hours and was tired. Whether I was trying to be right instead of saying what came. None of those can be fixed with an object, and none of them need one.
 
-Cards aren’t magic, you are — and the same goes for whatever sits next to them. **A reading lands because of the person reading and the person being read, not because of what’s on the table.**
+**A reading lands because of the person reading and the person being read, not because of what’s on the table.**
 
 I can’t prove a stone does nothing for you. I can tell you that what I teach doesn’t need one.
 

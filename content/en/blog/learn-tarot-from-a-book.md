@@ -25,7 +25,7 @@ What it gives you, in short, is knowledge. Reading is something else.
 
 ## What only practice can teach {#what-practice-teaches}
 
-When I first made my friends and family try reading, I watched the same thing happen again and again: they'd say something true about the person in front of them, and then be shocked by what they'd said. That moment is why I teach. No page can produce it, because it isn't information. You can't be told what it's like. You can only try.
+When I first made my friends and family try reading, I watched the same thing happen again and again: they'd say something true about the person in front of them, and then be shocked by what they'd said. No page can produce that moment, because it isn't information.
 
 My own start went the same way. My friends gave me my first deck for Christmas 2020, I started reading on 26 December, and my first reading was accurate. I'd assumed I'd need training first.
 

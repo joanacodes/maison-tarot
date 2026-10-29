@@ -31,7 +31,7 @@ The [Knight](/library/numerology/knight/) is acting. Look at the horse: it rears
 
 The [Queen](/library/numerology/queen/) is holding. She has absorbed her element so well that it’s part of her. She’s seated, she knows, and she proves nothing.
 
-The [King](/library/numerology/king/) is deciding. He doesn’t look at his tool any more; he looks at the world he manages with it. The question to ask him is always: for whom?
+The [King](/library/numerology/king/) is deciding. He doesn’t look at his tool any more; he looks at the world he manages with it.
 
 None of this is about sex. A Queen can be a man, a King can be a woman. Pages and Queens lean towards [feminine energy](/library/feminine-masculine-energies/), Knights and Kings towards masculine — dynamics that every one of us carries in different proportions.
 
@@ -50,7 +50,7 @@ Both are possible, and I don’t decide alone. Four clues help:
 1. The position. A court card in a position about the person themselves is usually a state. In a position about the people around them, it may be someone.
 2. How many there are. One court card among numbered cards is often a state of mind. Three or four in a small spread is a cast of people.
 3. The story around it. If the numbered cards tell a story, the court card is often the one acting in it.
-4. Saying both out loud. The person tells me nothing before the reading, so I don’t know who’s in their life — and that’s the point. Tell me nothing; I’ll name both readings, and you’ll know which one is yours.
+4. Saying both out loud. The person tells me nothing before the reading, so I don’t know who’s in their life — and that’s the point. I name both readings, and they know which one is theirs.
 
 Say someone draws the King of Swords next to the Two of Cups. A King decides; Swords are Air, thought. The Two of Cups is a bond between two people. You might say: “There’s a cool-headed decision inside a relationship. Either someone near you is making it — or it’s you, and lately you’ve been more judge than partner. Which is it?”
 

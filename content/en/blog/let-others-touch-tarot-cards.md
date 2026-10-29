@@ -15,7 +15,7 @@ Yes, you can let other people touch your tarot cards. A deck is cardboard and in
 
 ## Can someone else touch your tarot cards? {#can-they}
 
-Yes. Cards aren’t magic, you are. The deck is a medium: it helps you let go and read what’s around a person. It doesn’t store anything the next reading depends on.
+Yes. The deck is a medium: it helps you let go and read what’s around a person. It doesn’t store anything the next reading depends on.
 
 My own practice is the clearest example I have. Most of my readings for strangers happened online, on Discord servers and in group calls. Nobody touched my cards but me, and that didn’t stop the readings from landing. If touch were what tied a person to the cards, those readings would have had nothing to stand on.
 

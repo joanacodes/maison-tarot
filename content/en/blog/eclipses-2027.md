@@ -47,7 +47,7 @@ That's what the tradition says. What I can add is my own count, with its limit: 
 
 ## A gentle tarot spread for the 2027 eclipses {#spread}
 
-Three cards, once in February and once in August. Not on every eclipse, and not every day of the season: eclipse weeks are when the questions multiply, and each extra card is one more chance to worry. Take a break from your cards now and then.
+Three cards, once in February and once in August. Not on every eclipse, and not every day of the season: eclipse weeks are when the questions multiply, and each extra card is one more chance to worry.
 
 1. *What is ready to end on its own?* The lunar card: something that has already done its time.
 2. *What is starting quietly?* The solar card: a beginning you might not have noticed yet.

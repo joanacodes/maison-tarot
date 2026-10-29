@@ -11,7 +11,7 @@ imageAlt: "A tarot deck next to a laptop and a notebook with two columns drawn i
 imagePrompt: "A tarot deck lying next to a closed laptop and an open notebook with two empty columns drawn in pencil, on a desk by a window. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "A career tarot spread for a decision lays the choice out so you can see it, then gives it back to you. Five cards: where you stand at work now, what the first option asks and gives, what the second one asks and gives, what you’re leaving out of your list, and what you take with you either way. There’s deliberately no card for “which one”: the cards describe, you decide. Salaries, contracts and money decisions belong to real numbers and the right professional, not to a card."
 ---
-A career spread for a decision lays your choice out on the table where you can see it, then hands it back. The cards describe the options and what you bring to them; they don’t vote. I read; you decide.
+A career spread for a decision lays your choice out on the table where you can see it, then hands it back. The cards describe the options and what you bring to them; they don’t vote.
 
 ## What this spread does, and what it doesn’t {#what-it-does}
 

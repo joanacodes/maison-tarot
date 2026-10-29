@@ -48,7 +48,7 @@ Then say the sentence I give every beginner: *I'm about to talk nonsense.* It lo
 You can't train yourself to feel on command. You can train yourself to let go, and in my experience that's the only practice there is.
 
 - Draw one card a day. Describe what's on it, what you see, what you receive. Then three cards, then more.
-- Do something meditative: [sitting still for a few minutes](/blog/meditation-for-beginners/), painting, or looking at a painting the way you'd look at a card. You can read in anything.
+- Do something meditative: [sitting still for a few minutes](/blog/meditation-for-beginners/), painting, or looking at a painting the way you'd look at a card.
 - Write down the small things — the stray word, the odd image — even when they feel like nothing. Check later whether they meant something. That's also how you learn to tell [reading from making it up](/blog/am-i-making-it-up-tarot/).
 
 It grows with practice. In my notes from 2021, my first full year of reading, I wrote that the more I read, the more often something came before I'd even shuffled, and that I was laying the cards out mostly because the person in front of me wanted to see them.

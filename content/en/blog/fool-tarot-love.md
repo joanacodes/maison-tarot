@@ -25,7 +25,7 @@ My note on him has two halves. The plus: the stick and bundle — he’s free in
 
 ## The crush, the leap, the clean slate {#crush-leap-slate}
 
-If you’re single, the Fool is the crush, the dating app downloaded on a whim, the trip where you meet someone. It says go — and keep your eyes open. One piece of advice from my own notes: if you have a crush, don’t look up their birth chart. Let the magic happen for the two of you. A chart read in secret gives you a story about someone before they’ve had a chance to tell you theirs; I explain why in [the article on reading someone’s chart without asking](/blog/birth-chart-without-permission/).
+If you’re single, the Fool is the crush, the dating app downloaded on a whim, the trip where you meet someone. It says go — and keep your eyes open. One piece of advice from my own notes: if you have a crush, don’t look up their birth chart. A chart read in secret gives you a story about someone before they’ve had a chance to tell you theirs; I explain why in [the article on reading someone’s chart without asking](/blog/birth-chart-without-permission/).
 
 If you’re together, the Fool brings fresh air into something settled: a spontaneous trip, a new project together, a decision taken on the spot — moving in, moving country. It can be wonderful. The dog’s question is whether both of you are jumping, or one is jumping and the other being pulled along. Say a couple draws it the week one of them gets an offer abroad. The card doesn’t say go or stay. It asks whether the leap has been talked about by two people, or announced by one.
 
@@ -57,4 +57,4 @@ Reversed, the Fool is the beginning that doesn’t start, or starts without look
 
 ## Your first step, with other people around {#first-step}
 
-New beginnings are a good moment to learn, in love and in tarot. Every person I’ve helped to read managed it on the first to third try; nobody needed a gift, only the willingness to say what came. You can’t be told what it’s like. You can only try. If you’d like to draw your first cards with other people around — no question to ask, nothing to prepare — that’s what [the free events](/events/) are for.
+New beginnings are a good moment to learn, in love and in tarot. Every person I’ve helped to read managed it on the first to third try; nobody needed a gift, only the willingness to say what came. If you’d like to draw your first cards with other people around — no question to ask, nothing to prepare — that’s what [the free events](/events/) are for.

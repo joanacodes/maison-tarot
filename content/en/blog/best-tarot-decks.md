@@ -62,7 +62,7 @@ The many modern redraws of the Rider-Waite-Smith. Some are beautiful, and once y
 
 Prices, because they change faster than this page will. And anything I couldn’t be sure exists in the shops.
 
-The honest limit: this is a reader’s shortlist, not a laboratory test. Don’t take my words as ultimate truth. Test it and experience it for yourself.
+The honest limit: this is a reader’s shortlist, not a laboratory test.
 
 ## Your next step {#next-step}
 

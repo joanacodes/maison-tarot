@@ -30,7 +30,7 @@ The fourth question matters more than it looks. Sometimes what the person came f
 
 Then give the reading back to its owner. A reading can show something; it can’t make a choice, and a reader who lets it decide is carrying a responsibility that isn’t theirs. The idea to close on is one I hold to: don’t act on a card; act on what you feel.
 
-You might put it like this: “That’s what I see. What you do with it is yours. If any of it doesn’t sit right with you, trust that over the cards.” I read; you decide.
+You might put it like this: “That’s what I see. What you do with it is yours. If any of it doesn’t sit right with you, trust that over the cards.”
 
 **The last word of a reading should belong to the person, not to the cards.** I explain why in [tarot is not an authority](/blog/tarot-is-not-an-authority/).
 

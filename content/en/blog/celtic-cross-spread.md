@@ -90,7 +90,7 @@ Three sentences, out loud:
 
 “You’re walking away from something that used to fill you, and part of you is holding on to the security it gave. What draws you is hope, and something you loved long ago; the quarrels are behind you, and what’s ahead is learning, starting small. You haven’t decided and you’re not quite looking yet; your friends are on your side, the nights are the hard part, and the direction, if you keep going, is a fresh start.”
 
-Then the silence rule pays off. Tell me nothing until I’ve finished — then tell me what held. If the heart of the matter doesn’t land, the nine other cards don’t get to rescue it, and there’s no eleventh card to clarify it.
+Then the silence rule pays off: the person says nothing until I’ve finished, then tells me what held. If the heart of the matter doesn’t land, the nine other cards don’t get to rescue it, and there’s no eleventh card to clarify it.
 
 ## What I do with card ten {#card-ten}
 

@@ -33,7 +33,7 @@ The kinder question is the one underneath: what do I need while I don’t know? 
 
 ## The five positions {#positions}
 
-Lay five cards in a row, left to right.
+Draw five cards and place them side by side: today on the left, your small step on the right.
 
 1. *Where I am today.* Not where you should be. A portrait of this week.
 2. *What I’m holding on to.* A routine, a hope, a version of the future you’d planned, a grudge. Holding on isn’t wrong; the card asks whether it still serves you.
@@ -41,7 +41,7 @@ Lay five cards in a row, left to right.
 4. *What this relationship showed me about what I want.* Not who was right. What you’d like next time, and what you won’t accept again.
 5. *One small step back towards myself.* Small enough to do tomorrow.
 
-Read the row as one story first, then card by card.
+Read the five together first, from today to that small step, before you take them one by one.
 
 ## A breakup spread, card by card {#example}
 
@@ -71,4 +71,4 @@ If the pain stays heavy for weeks, or it reaches your sleep, your appetite or yo
 
 Put your phone in another room. Lay the five cards, write one line for each, then close the notebook and do whatever the fifth card asked, that same evening if you can.
 
-Come back to the page in a month and read it again. You’ll see how far you’ve walked, which is the one thing a breakup hides from you. Cards aren’t magic, you are, and [a reading notebook](/blog/tarot-journal/) is how you get to see it.
+Come back to the page in a month and read it again. You’ll see how far you’ve walked, which is the one thing a breakup hides from you. The walking was all yours, and [a reading notebook](/blog/tarot-journal/) is how you get to see it.

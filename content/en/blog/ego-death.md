@@ -63,4 +63,4 @@ I don’t read on health, and I won’t advise on substances; if you’re consid
 
 Start with the small size. Ten minutes of [meditation for people who think they can’t](/blog/meditation-for-beginners/): doing nothing, letting go of control, which is harder than it sounds. A drawing you don’t show anyone. One card read aloud for a friend who’s told you nothing.
 
-You can’t be told what it’s like. You can only try. If you’d like to try with other people in the room, the [workshops](/workshops/) open with a card in the first ten minutes, before any explanation.
+If you’d like to try with other people in the room, the [workshops](/workshops/) open with a card in the first ten minutes, before any explanation.

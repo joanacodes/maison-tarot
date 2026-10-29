@@ -34,13 +34,13 @@ Say the card is the Nine of Pentacles: a yellow sky over green vines, a nine, Ea
 
 {{< cards "pe09" >}}
 
-It works fast because you aren't learning information; you're learning to let go. It's like drawing: some people have more talent, and anyone who practises can do it.
+It works fast because you aren't learning information; you're learning to let go.
 
 My own start went that way. My friends gave me my first deck for Christmas 2020. I started reading on 26 December, and my first reading was accurate — which surprised me, because I'd assumed I'd need training first.
 
 ## The first month: one card, then three {#first-month}
 
-For the first weeks, draw [one card a day](/blog/one-card-tarot-pull/). Describe what's on it, what you see, what you receive. Write a line about it. You'll meet a good part of the deck this way, one card at a time, without having memorised any of it.
+For the first weeks, draw [one card a day](/blog/one-card-tarot-pull/). Write a line about it. You'll meet a good part of the deck this way, one card at a time, without having memorised any of it.
 
 When one card starts to feel small, move to three, read as one sentence. Then find a friend who agrees to tell you nothing and read for them. That's where you'll make most of the [classic first-month mistakes](/blog/tarot-beginner-mistakes/) — reshuffling, rescuing a miss, asking them to explain first — and that's fine. Everyone does.
 
@@ -64,7 +64,7 @@ Buying more decks. A second deck teaches you a second art style, not a second sk
 
 Reading for yourself many times a day. You learn more from one reading for a stranger than from twenty for your own worries.
 
-Books help with the lenses; for the numbers, I recommend Corrine Kenner's tarot book. But [what a book can't give you](/blog/learn-tarot-from-a-book/) is the moment you say something true about a person and are surprised by your own words. That moment is why I teach.
+Books help with the lenses; for the numbers, I recommend Corrine Kenner's tarot book. But [what a book can't give you](/blog/learn-tarot-from-a-book/) is the moment you say something true about a person and are surprised by your own words.
 
 ## When is tarot “learned”? {#learned}
 
@@ -74,6 +74,6 @@ A more useful finish line: you read a card without reaching for the book, you ca
 
 ## Start today {#start-today}
 
-Draw one card now. Say its colour, its number and its element, then one sentence. That's day one of the timeline. You can't be told what it's like. You can only try.
+Draw one card now. Say its colour, its number and its element, then one sentence. That's day one of the timeline.
 
 If you'd rather start with someone beside you, every [workshop](/workshops/) begins with a card in the first ten minutes, and [the learning path](/learn-tarot/) puts the lenses in order.

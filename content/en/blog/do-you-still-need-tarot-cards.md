@@ -55,8 +55,6 @@ If you’ve read for a long time and things arrive early for you too, don’t ma
 4. At the end, compare both with what the person confirms.
 5. Do it ten times and count.
 
-Don’t take my words as ultimate truth. Test it and experience it for yourself.
-
 ## Where to go next {#next}
 
 Focusing and unfocusing at will is something you can practise away from the cards, too. The closest thing I know is sitting still for two minutes a day, and I’ve written about it for people who are sure they can’t: [meditation for people who think they can’t meditate](/blog/meditation-for-beginners/).

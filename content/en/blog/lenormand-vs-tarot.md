@@ -33,7 +33,7 @@ Spreads are lines of three or five cards, or the Grand Tableau: all 36 cards lai
 
 A tarot deck has 22 major arcana and 56 minor arcana, and in the Rider-Waite-Smith each card is a full scene: figures, colours, a number, an element, a posture. A single card can hold a whole reading, which is why I teach with five lenses instead of a list of meanings.
 
-Take the [Five of Cups](/library/tarot-cards/five-of-cups/). In my notes it's the heaviest card in the deck: losing, dark emotion, alone with your problems. But the drawing also shows two cups still standing behind the grieving figure. Lenormand's Mice would tell you, quickly, that something is being lost. The tarot card shows you how it feels, and what's still there.
+Take the [Five of Cups](/library/tarot-cards/five-of-cups/). At first glance it's all loss: a figure in a black cloak, three cups spilled. But the drawing also shows two cups still standing behind the grieving figure. Lenormand's Mice would tell you, quickly, that something is being lost. The tarot card shows you how it feels, and what's still there.
 
 {{< cards "cu05" >}}
 
@@ -58,4 +58,4 @@ One gentle word about the concrete cards. Lenormand has a Coffin, a Scythe and a
 
 If your questions are mostly about events and you like a fixed vocabulary, Lenormand may suit you. If you want to read feelings, people and the choices in front of you, start with tarot. Learning one doesn't spoil the other; plenty of readers keep both on the table, and some add [runes or a pendulum](/blog/runes-pendulum-i-ching/) too.
 
-I can only speak for tarot, which I read and teach. Don't take my words as ultimate truth. Test it and experience it for yourself: draw [one tarot card a day](/blog/one-card-tarot-pull/) for a week, describe what you see, and you'll know quickly whether scenes speak to you. If they do, [the learning path](/learn-tarot/) is the next step.
+I can only speak for tarot, which I read and teach. Here's a check you can run yourself: draw [one tarot card a day](/blog/one-card-tarot-pull/) for a week, describe what you see, and you'll know quickly whether scenes speak to you. If they do, [the learning path](/learn-tarot/) is the next step.

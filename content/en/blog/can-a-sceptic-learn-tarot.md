@@ -11,7 +11,7 @@ imageAlt: "An open notebook with two handwritten columns beside a single card on
 imagePrompt: "An open notebook with two handwritten columns and a pencil, a single card lying face up beside it on a kitchen table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Yes. A sceptic can learn tarot, and doubt is a useful starting kit: it makes you keep an honest notebook, say ‘that’s a miss’ without flinching, and refuse to reframe a reading that didn’t land. Nobody needs a gift or a belief to start. Every person I’ve helped read managed it within one to three tries, by my own count. The hard part for a sceptic isn’t believing; it’s letting go long enough to say what comes before deciding whether it sounds reasonable."
 ---
-Yes, and doubt is a good starting kit. My own doubt was aimed at astrology first, and the habit it left me with — checking everything — is the one I teach. Every person I’ve helped read managed it within one to three tries.
+Yes, and doubt is a good starting kit. My own doubt was aimed at astrology first, and the habit it left me with — checking everything — is the one I teach.
 
 ## Can a sceptic learn tarot? {#short-answer}
 
@@ -25,7 +25,7 @@ During the pandemic I put on an astrology video to mock it. Then I read my own b
 
 So I did what a sceptic does. I went through my chart box by box, a tick or a cross next to each placement. Then my family’s, my friends’, strangers’. Overall, 30 to 40% held, which didn’t impress me much. But three placements — Saturn, Lilith and Chiron — held 75 to 90% of the time. I wrote up [how I tested my birth chart](/blog/i-tested-my-birth-chart/), numbers included.
 
-I didn’t stop being sceptical. I started counting. When my friends gave me my first tarot deck one Christmas — I’d expected an astrology book — I did the same thing with the cards. My first reading was accurate. I’d assumed I would need training first.
+I didn’t stop being sceptical. I started counting. When my friends gave me my first tarot deck one Christmas — I’d expected an astrology book — I did the same thing with the cards, and the very first reading held. I’d assumed I would need training first.
 
 ## Why sceptics often make good readers {#good-readers}
 
@@ -47,7 +47,7 @@ Say you draw the Five of Cups.
 
 The sceptical voice starts at once: a gloomy card, it would fit anyone. Fine; keep that for later. First say what you see. A figure in a black cloak, three cups spilled, two still standing behind. Black for absence, five for conflict, cups for emotions: something lost, and someone alone with it. Then ask whether it landed, and only then let the sceptic speak.
 
-That’s why I teach the way I do. I made friends and family try reading, and the moment I teach for is the one where someone says something true and is shocked by what they’ve just said. You can’t be told what it’s like. You can only try.
+That’s why I teach the way I do. I made friends and family try reading, and the moment I teach for is the one where someone says something true and is shocked by what they’ve just said.
 
 ## How a sceptic can start {#how-to-start}
 
@@ -55,7 +55,7 @@ That’s why I teach the way I do. I made friends and family try reading, and th
 2. Learn one lens, not 78 meanings. Colours are the fastest way in.
 3. Find someone who will tell you nothing: no question, no context.
 4. Say the sentence, then say what you see, out loud.
-5. Write down what you said and what they confirmed. Count the misses too.
+5. Note it all in two columns, said and confirmed. Count the misses too.
 6. Do it ten times before you decide anything.
 
 The full first session is in [how to read tarot as a beginner](/blog/how-to-read-tarot-beginners/), and the counting is in [how I keep a reading notebook](/blog/tarot-journal/).

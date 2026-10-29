@@ -19,7 +19,7 @@ The Ace of Pentacles in love is a beginning you can touch. Not fireworks: a seed
 
 Two lenses do most of the work here. The number is one: the initiator, the rough diamond, the start of a cycle. My note on one gives it humility as advice — get ready to learn — and the lack of it as its minus, whereas we are all students our whole life. In love, that’s the difference between a beginning you explore and a beginning you think you already understand.
 
-The element is Earth, which in my notes means whatever has value for you, money or sentiment, with a mostly feminine energy: protective, steady, the mother of all growth. Not all riches are gold. Between two people, the coin is time, attention, a spare key, a Sunday kept free: things you can count, and things that hold.
+The element is Earth, which in my notes means whatever has value for you, money or sentiment, with a mostly feminine energy: protective, steady, the mother of all growth. Between two people, the coin is time, attention, a spare key, a Sunday kept free: things you can count, and things that hold.
 
 Lay the two together and the card says that something small, real and worth keeping has been offered. One detail of the drawing matters for love: the garden path is empty. The colours and the rest are on [the Ace of Pentacles page](/library/tarot-cards/ace-of-pentacles/).
 
@@ -61,6 +61,6 @@ Next to Death, the harvest and the seed in the same spread: something has ended,
 
 ## Three foundations and a first brick {#try-this}
 
-Write down three things your relationship — or your life, if you’re single — is actually built on today. Then add one thing you’d like to build, in concrete terms: a day, a habit, a place. Keep the list, and look at it again in a month. Don’t take my words as ultimate truth: test it and experience it for yourself.
+Write down three things your relationship — or your life, if you’re single — is actually built on today. Then add one thing you’d like to build, in concrete terms: a day, a habit, a place. Keep the list, and look at it again in a month.
 
 If you’d like to try reading cards like this with other people around the table, the [free events](/events/) are a good place to start.

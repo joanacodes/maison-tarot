@@ -29,13 +29,13 @@ Now the uncomfortable part. Those are the questions people pay the most for. "Is
 
 At a free event this is easy. Nothing happened, I got it wrong, I say so, we move on. Money changes the incentive in a way you can feel in your chest: a paying client didn't come to hear "no", and there are three ready-made rescues waiting. "It may make sense later." "This might be about someone close to you." One more card, to clarify.
 
-A miss is a miss. No reframing, no clarifier. The professional version of that sentence is "that didn't land, tell me where I went wrong", followed by a refund if it was paid. If you can't imagine [saying it out loud](/blog/tarot-reading-wrong/) to someone holding a receipt, the business card will train you out of honesty faster than any bad habit could.
+"I got it wrong" has to survive the money. No reframing, no clarifier. The professional version of that sentence is "that didn't land, tell me where I went wrong", followed by a refund if it was paid. If you can't imagine [saying it out loud](/blog/tarot-reading-wrong/) to someone holding a receipt, the business card will train you out of honesty faster than any bad habit could.
 
 ## What are you selling: readings, or the ability to read? {#what-you-sell}
 
 I sell lessons. Sixty-minute sessions, three-hour workshops with twelve people, one lens at a time. I have never sold a reading, and readings still happen constantly, free, drawn at random at events. This is the choice I'd press you hardest on.
 
-A practice that lives on readings needs people to come back for readings. That isn't a moral failing; it's arithmetic, and it quietly shapes everything, from how a session ends to which questions you stop refusing in a slow month. A practice that lives on teaching needs people to leave knowing more and needing you less. [What I charge for, and what I give away](/blog/what-i-charge-for/), is the shape of that arithmetic.
+Sell readings, and your income depends on the same people booking again. That isn't a moral failing; it's arithmetic, and it quietly shapes everything, from how a session ends to which questions you stop refusing in a slow month. A practice that lives on teaching needs people to leave knowing more and needing you less. [What I charge for, and what I give away](/blog/what-i-charge-for/), is the shape of that arithmetic.
 
 I'll add the part I'm not proud of. In 2021 I sold sage, candles and "channelled" cards alongside everything else. I stopped, because nothing in that box ever improved a reading, and because the shop is where the easy money is and where the honesty goes first. If your plan includes a shop, ask what the objects are for.
 
@@ -43,7 +43,7 @@ I'll add the part I'm not proud of. In 2021 I sold sage, candles and "channelled
 
 Reading for two hours and then closing the deck, even when there are people waiting, is a rule I keep out of caution. I don't fully understand what tires me after two hours; I know that what I say after that point is worth less, and I'd rather not find out how much less on someone who trusted me.
 
-A professional calendar wants the day filled. Twelve slots, back to back, a lunch break if you're organised. Before you commit to that, [read about what two hours do to a reader](/blog/energy-after-tarot-reading/), and take a break from your cards now and then. Dependency runs in both directions.
+A professional calendar wants the day filled. Twelve slots, back to back, a lunch break if you're organised. Before you commit to that, [read about what two hours do to a reader](/blog/energy-after-tarot-reading/), and keep whole days in the week free of readings. Dependency runs in both directions.
 
 ## What to do before the card {#before-the-card}
 
@@ -55,4 +55,4 @@ None of the five questions can be answered from a chair. So, in order:
 4. Draft your refusals list and imagine turning down the person who'd have paid you most.
 5. Then decide what you're selling.
 
-If you'd like to see what free readings look like when nothing is for sale afterwards, [come to an event](/events/). Bring a notebook, tell me nothing, and count me too.
+If you'd like to see what free readings look like when nothing is for sale afterwards, [come to an event](/events/). Bring a notebook, keep your question to yourself, and count me too.

@@ -71,7 +71,7 @@ Everyone born on the same day shares it, and with only nine results you share yo
 
 It isn’t an excuse either. “I’m a 1, I can’t work in a team” is the numerology version of [“because I’m a Scorpio”](/blog/astrology-is-not-an-excuse/).
 
-And I hold it lightly. I counted my tarot readings and tested my birth chart box by box; I haven’t run the same test on life path numbers. Don’t take my words as ultimate truth. Test it and experience it for yourself.
+And I hold it lightly. I counted my tarot readings and tested my birth chart box by box; I haven’t run the same test on life path numbers.
 
 ## Try it on three people {#try-it}
 

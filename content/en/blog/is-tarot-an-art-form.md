@@ -59,7 +59,7 @@ Some readers are paid thousands; others read for nothing. As with painters, the 
 
 ### 9. Every spread is a moment you can’t capture again
 
-You can photograph the cards. You can’t photograph what came up, the face across the table, the silence before “how did you know?”. Like a concert, it happens once. You can’t be told what it’s like. You can only try.
+You can photograph the cards. You can’t photograph what came up, the face across the table, the silence before “how did you know?”. Like a concert, it happens once.
 
 ### 10. People think it’s fake, or they swear by it
 

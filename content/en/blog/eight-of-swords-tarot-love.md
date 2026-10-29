@@ -55,7 +55,7 @@ With this card, people often ask about the other person. “Will he leave her?�
 
 I don’t read on another person’s choices. They’re not in the room, and their decisions are theirs to make. Reading someone without their consent is like going through their bedroom while they’re out; and someone who doesn’t know they’re being read isn’t open, so you’d only catch half a sentence and build a whole story on it. I explain more in [reading tarot about someone else](/blog/reading-tarot-about-someone-else/). There’s a gentler reason too: that question keeps the blindfold on, because it hands your way out to somebody else.
 
-A kinder question is: “Which of my own thoughts is keeping me here, and which one can I loosen first?” It’s yours, so it has an answer. Cards aren’t magic; you are — and so is the step out of the circle.
+A kinder question is: “Which of my own thoughts is keeping me here, and which one can I loosen first?” It’s yours, so it has an answer; the step out of the circle is yours too.
 
 ## Eight lines on a page {#eight-lines}
 

@@ -33,7 +33,7 @@ Love isn’t even the subject I’m most at ease with; careers and self-developm
 
 There are ways to rescue a moment like that, and every reader feels the pull. You reframe it: maybe it’s someone you haven’t met yet. You draw an extra card to “clarify”. You ask questions until something fits. Each of those turns a clear no into a maybe, and a maybe can never be checked. I’ve written more about [what to do when a reading is wrong](/blog/tarot-reading-wrong/), and it mostly comes down to saying so.
 
-A miss is a miss. You say it, you note it, and you move on to the next person.
+A clear no stays a no: you say it, you note it, and you move on to the next person.
 
 **If you argue with a “no” on the day, any “yes” that comes later is worth nothing.** The text a few days later only means something if nobody pushed her towards it. A reader who spends the evening convincing someone that a reading fits has also, quietly, written the message they’ll receive next week.
 
@@ -53,7 +53,7 @@ Say you draw for a friend and something comes up that you’d rather not say: th
 
 Three habits, and I’d give them to any beginner.
 
-1. **Write down what you said, before they answer.** In your own words, at the time. Memory improves a reading after the fact; paper doesn’t. My notebook has two columns: what I said, and what was confirmed. The format is in [how I keep a reading notebook](/blog/tarot-journal/).
+1. **Write down what you said, before they answer.** In your own words, at the time. Memory improves a reading after the fact; paper doesn’t. My notebook has two columns: what I said, and what was confirmed. Both columns are laid out in [how I keep a reading notebook](/blog/tarot-journal/).
 2. Write down the answer too, including the no. If it’s a miss, mark it as a miss. No third box for “we’ll see”.
 3. Wait, and don’t chase. Don’t message the person to ask whether it happened; that’s fishing with a delay. If they come back on their own, add a new line with the date. Don’t rewrite the first one. On the day it was a miss, and later it wasn’t, and a notebook should be able to hold both.
 

@@ -17,7 +17,7 @@ Pointing someone elsewhere is one of the kindest things a tarot reader can do, a
 
 There are subjects I don't read on: health, death, pregnancy and fertility, ongoing court cases, money decisions, curses, and people who aren't in the room. The [full list is public](/disclaimers/#refusals), so nobody discovers it halfway through a reading.
 
-The reason is arithmetic more than principle. By my own count, about one reading in ten misses. On a question about a new job, a miss costs a shrug. On a question about a scan, a pregnancy or a trial, a miss can make someone wait when they should act, or panic when they could rest. I've written more about [why careful readers step back from health, pregnancy and death](/blog/health-pregnancy-death-tarot/).
+The reason is arithmetic more than principle: my notebook shows about one miss in every ten readings. On a question about a new job, a miss costs a shrug. On a question about a scan, a pregnancy or a trial, a miss can make someone wait when they should act, or panic when they could rest. I've written more about [why careful readers step back from health, pregnancy and death](/blog/health-pregnancy-death-tarot/).
 
 Two other moments call for a boundary even when the topic is fine. Someone in acute distress, for whom a reading is the wrong tool that day. And someone who keeps coming back with the same question: I usually decline then, for the reasons in [why you should quit tarot reading for a while](/blog/why-you-should-quit-tarot-reading/).
 
@@ -60,7 +60,7 @@ Leave out the sentences that shut a door in someone's face: "I can't help you", 
 
 ## When the door is a therapist's {#therapist}
 
-Not everything is about spirits. Sometimes what comes up in a reading is psychological, sometimes more, and the right door is a therapist's. [Where my role ends](/disclaimers/#therapy) is written down for exactly that reason.
+Sometimes what comes up in a reading is psychological, sometimes more, and the right door is a therapist's. [Where my role ends](/disclaimers/#therapy) is written down for exactly that reason.
 
 You don't diagnose. You're not qualified to, and neither am I. You say once, kindly, what you noticed and where it could go: "This sounds like it's been with you a long time. It deserves more than a reading can give it. Is there someone you could talk to?" No lecture, no pressure, no extra card to soften it.
 

@@ -17,7 +17,7 @@ The one thing your method really changes is whether reversed cards turn up.
 
 ## Is there a right way to shuffle tarot cards? {#right-way}
 
-No. A deck is cardboard and ink. Cards aren’t magic, you are — and the shuffle is the small pause where that starts. While your hands are busy, your head gets a moment to step out of the conversation and let your own ideas and assumptions move aside, so that what you say next comes from the card and not from what you expected.
+No. Any shuffle works, because it isn’t for the cards: it’s a small pause for you. While your hands are busy, your head gets a moment to step out of the conversation and let your own ideas and assumptions move aside, so that what you say next comes from the card and not from what you expected.
 
 Face to face, the person can shuffle or the reader can; both work. And most of my readings for strangers were online, on Discord servers and group calls, where the person never touched my cards at all. If a reading depended on whose hands shuffled, those readings would have had nothing to hold on to.
 

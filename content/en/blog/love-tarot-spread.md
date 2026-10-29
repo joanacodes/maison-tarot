@@ -19,11 +19,11 @@ It reads your side: where you are, what you give, what you need. And it reads th
 
 It works whether you’re in a relationship, between two, or not looking at all. If you’re single, the fourth position reads the kind of bond you’re making room for rather than a particular person.
 
-The cards don’t know what’s in someone else’s head. They don’t know what’s in yours either, until you look: cards aren’t magic, you are. **What a love reading can see is what you bring to the table — and that’s the part you can change.**
+The cards don’t know what’s in someone else’s head. They don’t know what’s in yours either, until you look. **What a love reading can see is what you bring to the table — and that’s the part you can change.**
 
 ## The five positions {#positions}
 
-Lay five cards in a row, left to right.
+Draw five cards, one per position.
 
 1. Where I am in love right now. Your state today: open, tired, hopeful, guarded.
 2. What I bring. What you give in a relationship — what people feel when they’re with you.

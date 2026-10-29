@@ -79,7 +79,7 @@ None of that makes the moment empty. What you were thinking about when 444 appea
 3. Write the question down, with the date. One line is enough.
 4. Leave the decision where it was: with you.
 
-I read; you decide. A number can open a question; it can’t close one — the same way [tarot is not an authority](/blog/tarot-is-not-an-authority/).
+A number can open a question; it can’t close one — the same way [tarot is not an authority](/blog/tarot-is-not-an-authority/).
 
 If you notice that you’ve started waiting for a number before choosing anything, or checking clocks for a sign, that usually comes from worry, and worry deserves gentler company than a clock: a friend, a walk, a decision made small enough to take today. Put the numbers down for a while; they’ll still be there.
 

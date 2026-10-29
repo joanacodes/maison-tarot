@@ -9,7 +9,7 @@ tags: ["cleanse tarot deck", "how to cleanse tarot cards", "sage and tarot", "ta
 image: "covers/cleanse-tarot-deck.jpg"
 imageAlt: "A tarot deck in its open cardboard box on a kitchen windowsill, next to a small dish of coarse salt"
 imagePrompt: "A tarot deck in its open cardboard box on a kitchen windowsill next to a small plain dish of coarse salt, a tap out of focus behind. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "No, you don’t need to cleanse your tarot deck: nothing gets stuck in the cards. Readers cleanse with sage smoke, moonlight, salt, a knock on the deck or a long shuffle, usually to clear what they feel the cards have absorbed, or to mark a fresh start. If a ritual helps you settle before you read, keep it. In 2021 I sold sage, candles and ‘channelled’ cards. I stopped, and nothing in any of it improved a reading. What I suggest instead costs nothing: take a break from your cards now and then."
+summary: "No, you don’t need to cleanse your tarot deck: nothing gets stuck in the cards. Readers cleanse with sage smoke, moonlight, salt, a knock on the deck or a long shuffle, usually to clear what they feel the cards have absorbed, or to mark a fresh start. If a ritual helps you settle before you read, keep it. In 2021 I sold sage, candles and ‘channelled’ cards. I stopped, and nothing in any of it improved a reading. What I suggest instead costs nothing: put the deck away for a while."
 ---
 No. Nothing gets stuck in your cards, and they don’t need clearing before they’ll read well. If a ritual helps you settle, keep it; I sold sage in 2021, and I’m not here to laugh at anyone who still uses it.
 
@@ -51,9 +51,7 @@ And when readings start to feel flat, it’s usually the reader who is tired, no
 
 ## What I do instead: a break {#a-break}
 
-Take a break from your cards now and then.
-
-That’s my whole alternative to cleansing. Put the deck in a drawer for a few days, or a week, or until you miss it. If you find you’re reaching for it several times a day, or asking the same question in new words, the cards aren’t the problem; the habit is, and a break is the kindest way to see it. I never want tarot to become a circle of dependency, for me or for the people I read for, and I wish the same for you. I wrote more on [why quitting readings for a while helps](/blog/why-you-should-quit-tarot-reading/).
+A break is my whole alternative to cleansing. Put the deck in a drawer for a few days, or a week, or until you miss it. If you find you’re reaching for it several times a day, or asking the same question in new words, the cards aren’t the problem; the habit is, and a break is the kindest way to see it. I never want tarot to become a circle of dependency, for me or for the people I read for, and I wish the same for you. I wrote more on [why quitting readings for a while helps](/blog/why-you-should-quit-tarot-reading/).
 
 Between two readings, a shuffle is enough, and there’s [no wrong way to do it](/blog/how-to-shuffle-tarot-cards/).
 

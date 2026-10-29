@@ -54,7 +54,7 @@ That wish deserves to be heard. If someone asks me for a spell, I hear “I’d 
 2. Find the action that’s yours: a message to send or not send, a conversation, a budget, a door to close.
 3. If a ritual helps you, make it your own. Writing an intention on a piece of paper costs nothing, and nobody needs to sell it to you.
 4. If a seller says you need more, stop paying and keep the messages. “It needs another casting” is the same script as [the curse scam](/blog/lift-the-curse-scam/), told more softly.
-5. If the worry won’t switch off whatever you do, that’s a door for someone else. Not everything is about spirits; sometimes it’s [a therapist’s door](/disclaimers/#therapy), and that’s a good door.
+5. If the worry won’t switch off whatever you do, that’s a door for someone else. No spell reaches that kind of worry; sometimes it’s [a therapist’s door](/disclaimers/#therapy), and that’s a good door.
 
 ## A question the cards can hold {#next-step}
 

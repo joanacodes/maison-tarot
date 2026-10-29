@@ -62,7 +62,7 @@ The sentence out loud might be: “You've seen that the knot was looser than it 
 
 ## Once a month is plenty {#once-a-month}
 
-Take a break from your cards now and then. One full moon reading a month is plenty, and between two full moons the deck can stay in the drawer.
+One full moon reading a month is plenty, and between two full moons the deck can stay in the drawer.
 
 If you'd like the other half of the cycle, the [new moon spread](/blog/new-moon-tarot-spread/) asks the opposite question: what to start. And when a lunar eclipse falls on the full moon, the same three cards work; [reading in eclipse season](/blog/eclipse-season-tarot/) explains why I'd keep it to one reading.
 

@@ -33,7 +33,7 @@ A gentler question is: “What in this relationship has finished its season, and
 
 One more thing, said plainly because the name frightens people: Death doesn’t announce anyone’s death, and it says nothing about anyone’s health. Those are questions I don’t read on at all, and I’ve explained [why careful readers step back from them](/blog/health-pregnancy-death-tarot/).
 
-**I read; you decide.** Whatever Death shows, the choice of what to clear and what to keep belongs to the people in the relationship, and a card has no authority over it.
+Whatever Death shows, the choice of what to clear and what to keep belongs to the people in the relationship, and a card has no authority over it.
 
 ## What a harvest takes: a pattern, a shape, a wait {#what-ends}
 

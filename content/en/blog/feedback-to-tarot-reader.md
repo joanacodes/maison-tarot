@@ -21,7 +21,7 @@ This tells the reader which part of what they did actually worked. Was it the co
 
 ## Say the misses plainly {#the-miss}
 
-“That part didn’t land.” Say it calmly, and leave it there. Don’t add “but maybe it will make sense later”, and don’t bend your life to make a sentence fit. A miss is a miss.
+“That part didn’t land.” Say it calmly, and leave it there. Don’t add “but maybe it will make sense later”, and don’t bend your life to make a sentence fit.
 
 It can feel harsh. It isn’t. By my count about one reading in ten misses, and the readers who improve are the ones who can write that word in their notebook without flinching. **The kindest feedback is the accurate one.** If it helps the reader on the receiving end, I’ve written about [what to do when a reading is wrong](/blog/tarot-reading-wrong/).
 

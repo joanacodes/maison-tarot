@@ -43,7 +43,7 @@ And it doesn't prove that *I* am special. Three hundred readings taught me the o
 Three things.
 
 1. **I expect to talk nonsense.** Every time. The lower I set the expectation, the more accurate it gets. [It's the first thing I teach.](/blog/how-to-read-tarot-beginners/)
-2. **I stop when it misses.** No reshuffling, no reframing, no "the cards mean something you haven't realised yet". A miss is a miss, it goes in the notebook, we move on.
+2. **I stop when it misses.** No reshuffling, no reframing, no "the cards mean something you haven't realised yet". It goes in the notebook as a miss, and we move on.
 3. **I refuse some subjects.** Health, death, pregnancy, court cases, money, "curses". Not because a card can't fall on them, but because at a one-in-ten miss rate, a wrong word there does real damage. [The full list is on the disclaimers page.](/disclaimers/#refusals)
 
 ## Try it yourself {#try-it}

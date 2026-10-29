@@ -55,7 +55,7 @@ If a fully reversed spread frightened you, that’s understandable: upside-down 
 
 It doesn’t need fixing either. Drawing a fourth card to “clarify” the first three, or reshuffling until they come out upright, only buries the first reading under a second one. [One more card](/blog/the-clarifier-card/) muddies a reading far more often than it clears it.
 
-And if you notice you’re asking again and again, hoping for an upright spread this time, notice it kindly. Take a break from your cards now and then. [Asking the same question twice](/blog/ask-tarot-the-same-question-twice/) tends to tell you more about the asking than about the answer.
+And if you notice you’re asking again and again, hoping for an upright spread this time, notice it kindly. [Asking the same question twice](/blog/ask-tarot-the-same-question-twice/) tends to tell you more about the asking than about the answer.
 
 ## Try it tonight {#try-tonight}
 

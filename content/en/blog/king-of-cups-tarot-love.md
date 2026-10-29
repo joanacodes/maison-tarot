@@ -19,7 +19,7 @@ The King of Cups in love is emotional maturity: someone who feels as much as any
 
 His rank is [the King](/library/numerology/king/): outer mastery, decision. Every King looks at the world he manages rather than at his tool, and this one isn’t looking at his cup. The question to ask any King is: for whom? A King of Cups who governs his emotions for the people around him makes a relationship feel safe. One who governs them only for himself keeps everyone at arm’s length.
 
-His element is Fire of Water. The suit is Water — emotions, relationships — and the rank brings Fire: impulse, action. So this is a feeling that doesn’t stay a feeling; it becomes a gesture, a decision, a way of being with someone. Fire and Water don’t mix easily, and the drawing shows the effort: a stone throne on a moving sea.
+His element is Fire of Water. The suit is Water — emotions, relationships — and the rank brings Fire: impulse, action. So this is a feeling that doesn’t stay a feeling; it becomes a gesture, a decision, a way of being with someone.
 
 His energy is masculine in my sense of the word, whoever you are: acting, deciding, showing yourself. It can describe a woman as easily as a man. The colours are on [the King of Cups page](/library/tarot-cards/king-of-cups/).
 

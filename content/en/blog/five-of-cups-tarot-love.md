@@ -19,7 +19,7 @@ The Five of Cups is the heaviest card in the deck, by my own notes: losing somet
 
 [Five](/library/numerology/number-5/), in my notes, is trial: conflict, making do with what’s left, not being afraid to fail. Its advice is to be honest with yourself and with the situation; its minus is denial. In this card the denial isn’t of the loss — the figure knows exactly what spilled. It’s of the other half: what’s still there.
 
-The element is Water: emotions, relationships, what carries you when you let it and can drown you when you fight it. Moving water is strong emotion, and the river here is moving, past the figure, towards somewhere else. Grief moves too, at its own pace. The energy is feminine — inward, out of sight — and so is most grieving.
+The element is Water: emotions, relationships, what carries you when you let it and can drown you when you fight it. Moving water is strong emotion, and the river here is moving, past the figure, towards somewhere else. The energy is feminine — inward, out of sight — and so is most grieving.
 
 So in love, this is a card about how someone is carrying a loss, not about what happens next. One detail of the drawing matters: two cups are still standing behind the figure, where they can’t see them. The colours and Mars in Scorpio are on [the Five of Cups page](/library/tarot-cards/five-of-cups/).
 
@@ -27,7 +27,7 @@ So in love, this is a card about how someone is carrying a loss, not about what 
 
 After a break-up, this is the card’s most natural place. It’s grief, plainly drawn: the evenings that feel too long, the songs you skip, the habit of turning to tell them something. I don’t read it as “move on”. The bridge is in the picture, but the figure isn’t on it yet, and nothing in the drawing hurries them. You cross when you’re ready, not before.
 
-When you’re single, the Five of Cups usually talks about something you’re still carrying. A past relationship you haven’t finished grieving. A date that felt promising and went nowhere. Or the loss of an idea — the life you thought you’d have by now. Say someone draws it after months of first dates that never become second ones. The card isn’t saying love is closed to them. It describes the tiredness, and it points behind them: friends, family, their own capacity to love, still upright.
+When you’re single, the Five of Cups usually talks about something you’re still carrying. A past relationship you haven’t finished grieving. A date that felt promising and went nowhere. Or the loss of an idea — the life you thought you’d have by now. Say someone draws it after months of first dates that never become second ones. It doesn’t mean they’ll stay single. It describes the tiredness, and it points behind them: friends, family, their own capacity to love, still upright.
 
 When you’re together, it often describes a disappointment inside the relationship. A promise not kept, a move that didn’t happen, a sentence that hurt more than it was meant to. It doesn’t say the relationship is over. Look at the cups again: knocked over, not broken. **Something spilled; the cups themselves are still whole.** What the card asks is where your attention has gone, and whether the two standing cups — the things that still work between you — are getting any of it.
 
@@ -43,7 +43,7 @@ And if you notice you’re drawing cards on the same loss every evening, put the
 
 ## When the Star or the Eight of Cups comes next {#what-comes-next}
 
-A card never speaks alone. Three neighbours that change it in a love reading:
+Three neighbours that change it in a love reading:
 
 {{< cards "cu02 cu08 ar17" >}}
 

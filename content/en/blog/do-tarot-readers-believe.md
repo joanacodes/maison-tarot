@@ -25,9 +25,9 @@ Readers answer those in every combination. Some speak openly of guides. Some tre
 
 ## What I don’t believe {#what-i-dont-believe}
 
-I don’t believe the cards are magic. They’re 78 pictures drawn in 1909 by Pamela Colman Smith, and a cheap print reads as well as a beautiful one. Cards aren’t magic, you are: the deck helps you focus, or unfocus, so your own thoughts and biases step aside.
+I don’t believe the cards are magic. They’re 78 pictures drawn in 1909 by Pamela Colman Smith, and a cheap print reads as well as a beautiful one. The deck helps you focus, or unfocus, so your own thoughts and biases step aside.
 
-I don’t believe in a gift, either. Every person I’ve helped to read managed it within one to three tries.
+I don’t believe in a gift, either. When friends and family have tried reading with me, they’ve said true things without one.
 
 And I don’t claim to know how it works. Nobody does, including the people who sell certainty about it. I walk through the four serious explanations in [how does tarot actually work?](/blog/how-does-tarot-work/) and still end on “I don’t know”.
 

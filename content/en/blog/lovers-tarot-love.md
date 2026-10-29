@@ -29,7 +29,7 @@ When you’re single, the Lovers often asks what you actually want, as opposed t
 
 Gemini adds its own flavour: this card often turns up in the talking phase. Messages, long voice notes, the first conversations that go on until two in the morning. Air loves that stage, and it’s a real pleasure. It’s also where you can fall for a version of someone made mostly of words. In my notes, Gemini at its best is a great reporter, and at its worst a game of Chinese whispers: the story that grows a little with every message until it’s no longer quite true. So the card asks you to meet the person as well as the conversation.
 
-If there’s a crush, one piece of advice from my own notes: don’t go and look up their birth chart. Let the magic happen for the two of you. I’ve explained why in a piece about [looking up someone’s chart without asking](/blog/birth-chart-without-permission/).
+If there’s a crush, one piece of advice from my own notes: don’t go and look up their birth chart. Let them tell you who they are, in their own words. I’ve explained why in a piece about [looking up someone’s chart without asking](/blog/birth-chart-without-permission/).
 
 ## Choosing each other again, years in {#choosing-again}
 
@@ -45,11 +45,11 @@ If someone sat down, told me nothing and drew the Lovers, I’d start from the l
 
 “Is this the one?” is the question this card attracts more than any other, and I understand it. You’ve met someone, it feels important, and you’d love a guarantee before you open your heart further.
 
-I don’t read on that question, and here’s why. “The one” turns a choice into something written in advance, and the Lovers is precisely the card that says love is chosen. The other person isn’t in the room either; what they feel and what they’ll decide are theirs. A card that told you “yes, it’s them” would be taking a decision away from both of you.
+That’s a question I don’t put to the cards. “The one” turns a choice into something written in advance, and the Lovers is precisely the card that says love is chosen. The other person isn’t in the room either; what they feel and what they’ll decide are theirs. A card that told you “yes, it’s them” would be taking a decision away from both of you.
 
 A gentler question: “What am I choosing when I choose this person — and would I choose it again today?” Or: “What do I want a relationship to feel like on an ordinary day?” Those have answers inside you, and they make you better company for the other person, whoever they turn out to be.
 
-People also ask whether the Lovers is a “yes” card. It’s tempting to say so, and it would be a shame: a yes handed down by a deck skips the decision entirely. I’ve written about [why I answer yes-or-no questions differently](/blog/yes-or-no-tarot/). I read; you decide.
+People also ask whether the Lovers is a “yes” card. It’s tempting to say so, and it would be a shame: a yes handed down by a deck skips the decision entirely. I’ve written about [why I answer yes-or-no questions differently](/blog/yes-or-no-tarot/).
 
 ## Standing in the middle so you lose nothing {#the-middle}
 

@@ -25,7 +25,7 @@ And a witch? My own definition, from my notes, is this: **a witch is a human bei
 
 ## Start with your senses, not a shopping list {#senses}
 
-We were all born with our senses. To develop them: meditate, read, paint — any meditative art. Read tarot, read coffee cups, read a painting. You can read in anything.
+We were all born with our senses. To develop them: meditate, read, paint — any meditative art. Read tarot, read coffee cups, read a painting.
 
 What sharpened my own senses wasn't anything I bought, and I say that as someone who once [sold sage and candles](/blog/cleanse-tarot-deck/). Eating fresher food helped. Living alone in my own flat was the real trigger.
 
@@ -36,8 +36,8 @@ None of this means tools are bad. If a candle helps you sit down and focus, ligh
 These cost nothing, and they work whatever path you take next.
 
 1. A few minutes of meditation. Meditation is the art of doing literally nothing: letting go of control, letting things flow through your mind. It's hard, and the people who say they can't meditate are the ones who need it most. What I noticed when I started: sharper decisions, less self-doubt. Here's [meditation for people who think they can't](/blog/meditation-for-beginners/).
-2. A working notebook. Many witches keep a book of shadows: a personal notebook of their practice — what they did, when, and what happened. My tarot notebook is the same idea: what I said on one side, what was confirmed on the other. Write down what didn't work too. A miss is a miss, and it teaches you more than a hit.
-3. One card a day. Tarot isn't witchcraft — I've written about [the difference between the two](/blog/is-tarot-witchcraft/) — but a single card each morning is a good way to train your attention. Describe what's on it, what you see, what you receive.
+2. A working notebook. Many witches keep a book of shadows: a personal notebook of their practice — what they did, when, and what happened. My tarot notebook is the same idea: what I said on one side, what was confirmed on the other. Write down what didn't work too: a miss teaches you more than a hit.
+3. One card a day. Tarot isn't witchcraft — I've written about [the difference between the two](/blog/is-tarot-witchcraft/) — but a single card each morning is a good way to train your attention. Give it a full minute before you open any book.
 
 If you'd like a fourth, follow the seasons. Many witches mark the Wheel of the Year, eight festivals spread through the year. One of them is Samhain, on the night of 31 October: the end of the harvest, the start of the dark half of the year, and a time to remember the dead. I've written about [Samhain and tarot](/blog/samhain-tarot/) if you want a quiet way in.
 

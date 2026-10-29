@@ -58,7 +58,7 @@ The sentence out loud might be: “You carried a lot this year and learned your 
 
 It can’t tell you what will happen this year, and I wouldn’t want it to. The Ace of Wands doesn’t promise a new job or a new love; it describes an energy you can bring to whatever comes. A card is a theme, not an appointment.
 
-It also isn’t a reading of your solar return chart. If you want the astrology, read the chart itself, and treat it the same way: a description of tendencies, never a script. I read; you decide.
+It also isn’t a reading of your solar return chart. If you want the astrology, read the chart itself, and treat it the same way: a description of tendencies, never a script.
 
 And if the year that’s closing was a very hard one, the first position may hurt to look at. You can leave it face down and start from the second card. The spread is yours.
 

@@ -44,7 +44,7 @@ None of this needs a ritual. It’s the advice you’d give a friend after any l
 5. Leave a pause between two readings. Stand up, open a window, put the cards down.
 6. Decide the number of readings, or the time you’ll stop, before the first card.
 
-Take a break from your cards now and then, too. A few days without reading and you often come back seeing the pictures again. I’ve written about [why quitting readings for a while helps](/blog/why-you-should-quit-tarot-reading/), and it applies to readers as much as to the people they read for.
+Days off count too: a few days without reading and you often come back seeing the pictures again. There’s more on longer pauses in [why quitting readings for a while helps](/blog/why-you-should-quit-tarot-reading/).
 
 Some readers like a small gesture to mark the end: washing their hands, putting the deck back in order, closing the box. If it helps you stop, keep it. I go through what people do before and after reading, and what I rely on instead, in [whether you need to protect yourself before reading](/blog/protect-yourself-tarot/).
 

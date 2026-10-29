@@ -33,7 +33,7 @@ So yes, on paper I'm an example of the myth. But that deck was on my wishlist be
 
 ## Is it bad luck to buy your own tarot deck? {#bad-luck}
 
-No. For buying a deck to bring bad luck, the deck itself would have to be doing the work, and it isn't. Cards aren't magic; you are. The reading comes from you, not from the cardboard, and certainly not from the receipt.
+No. For buying a deck to bring bad luck, the deck itself would have to be doing the work, and it isn't. The reading comes from you, not from the cardboard, and certainly not from the receipt.
 
 People who ask this are rarely superstitious so much as careful. They want to start well, and that's a good instinct. Starting well, though, means starting.
 
@@ -41,7 +41,7 @@ You don't have to take my word for it, either. Keep a notebook with your bought 
 
 If the belief still sits uneasily with you, there are gentle ways round it. Put the deck on a wishlist, as I did, and let a birthday take care of it. Or ask a friend to come and choose it with you. Either way, don't wait months to begin; a borrowed deck will do in the meantime.
 
-There's another "gifted" myth, by the way: that you have to be born with something to read at all. There are no Chosen Ones. [You don't need psychic abilities](/blog/do-you-need-psychic-abilities/), and anyone who practises can learn.
+There's another "gifted" myth, by the way: that you have to be born with something to read at all. [You don't need psychic abilities](/blog/do-you-need-psychic-abilities/), and anyone who practises can learn.
 
 ## Second-hand decks, cleansing, other people's hands {#neighbouring-rules}
 

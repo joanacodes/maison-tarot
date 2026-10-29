@@ -54,7 +54,7 @@ It happens, and it can sting. You’re having a terrible week and the Sun lands 
 
 A happy card isn’t an order to be happy. That would be toxic positivity, and I’ve written about [the difference between that and a kind affirmation](/blog/affirmations-vs-toxic-positivity/). Often the card points at the small part that is working — a friend, a morning, a skill — or at what comes after the stretch you’re in. Sometimes it doesn’t fit at all, and then it’s a miss.
 
-The other side of the happy cards is also in the hands that shuffle. If you catch yourself drawing again and again until the Sun comes out, the cards aren’t the point any more; reassurance is. Take a break from your cards now and then.
+The other side of the happy cards is also in the hands that shuffle. If you catch yourself drawing again and again until the Sun comes out, the cards aren’t the point any more; reassurance is.
 
 ## Where to go from here {#next-step}
 

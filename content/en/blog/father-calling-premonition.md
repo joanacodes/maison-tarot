@@ -49,7 +49,7 @@ When I look at it calmly, I can see at least three ways to read it. None of them
 
 ## Why I leave it open {#leave-it-open}
 
-Not everything is about spirits. This story doesn’t even have one in it. There’s no ghost here: only my father, in Paris, at his temple, thinking of me. When people hear a story like this, they often reach for the most dramatic explanation available. I’d rather keep it at its real size: strange, and small.
+This story doesn’t have a spirit in it. There’s no ghost here: only my father, in Paris, at his temple, thinking of me. When people hear a story like this, they often reach for the most dramatic explanation available. I’d rather keep it at its real size: strange, and small.
 
 Forcing a conclusion costs something either way. Turn it into proof, and you start building beliefs on a single moment, and waiting for the next one. Dismiss it, and you throw away something that mattered. Leaving it open isn’t indecision. It’s the most accurate thing I can say.
 

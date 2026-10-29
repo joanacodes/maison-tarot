@@ -19,7 +19,7 @@ Because an explanation given first becomes something to recite. If I open with �
 
 A card with nothing around it leaves you with the only thing that matters: the image, and what comes up when you look at it. That is the skill. Everything I teach afterwards is there to support it, never to replace it.
 
-There’s a second reason, and it’s the reason I teach at all. When I first made friends and family try reading, there was always a moment when one of them said something true and looked shocked by what had come out of their own mouth. I can describe that moment; I can’t hand it to you. **You can’t be told what it’s like. You can only try.**
+There’s a second reason, and it’s the reason I teach at all. When I first made friends and family try reading, there was always a moment when one of them said something true and looked shocked by what had come out of their own mouth. I can describe that moment; I can’t hand it to you.
 
 ## What the first ten minutes ask of you {#what-you-do}
 

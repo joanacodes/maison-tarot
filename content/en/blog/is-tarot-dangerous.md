@@ -54,11 +54,11 @@ Say someone draws the Tower about their job and hands in their notice the next m
 
 Death, as I read it, isn’t about death itself. It’s linked to the harvest, to starting again: making life fertile after a stretch without a goal. And the Tower is sudden change, not an instruction to cause one. Neither card tells you what to do on Monday.
 
-Tarot is not an authority. A reading can show you a situation from an angle you hadn’t tried; the decision stays yours, and so does the responsibility for it. I read; you decide. A gentler question helps here too. Instead of “Should I quit?”, try “What do I need to look at before I decide?”, then decide with your own head. If you notice you can’t act without a card’s permission, that’s the muscle to train, and I explain how in [act on what you feel, not on a card](/blog/tarot-is-not-an-authority/).
+A reading can show you a situation from an angle you hadn’t tried; the decision stays yours, and so does the responsibility for it. A gentler question helps here too. Instead of “Should I quit?”, try “What do I need to look at before I decide?”, then decide with your own head. If you notice you can’t act without a card’s permission, that’s the muscle to train, and I explain how in [act on what you feel, not on a card](/blog/tarot-is-not-an-authority/).
 
 ## A word for readers {#for-readers}
 
-The same three situations apply to you, plus one more thing to watch: your own tiredness. Interpreting takes energy. After a reading you can feel very tired, and that’s your body telling you to rest. I sometimes stop after two hours of readings, out of caution.
+The same three situations apply to you, plus one more thing to watch: your own tiredness. Interpreting takes energy. After a reading you can feel very tired, and that’s your body telling you to rest. I listen to mine: some days I close the deck after two hours.
 
 Empathy means feeling the other person’s emotions while keeping your own. If you start carrying theirs home, step back. And whatever happens, don’t let tarot replace therapy, or become a circle of dependency, for you or for the person in front of you. Always ask permission before reading anyone.
 

@@ -60,7 +60,7 @@ Recurring images are worth following over weeks. If something keeps coming back,
 
 Some people feel they've dreamt something that then happened. I haven't counted dreams the way I count readings, so I won't claim it either way. What I do know is where I put my attention: I read the future sometimes, but I focus on the present, because the best way to ensure an enjoyable future is to anchor ourselves in the present. More on that in [what tarot can and can't predict](/blog/can-tarot-predict-the-future/).
 
-And not everything is about spirits. A dream of someone you've lost can be a visit, a memory, or your mind sorting a heavy week — and you're the only one who can feel which. If dreams keep you from sleeping, frighten you night after night, or come with heavy days, that's a door for a doctor or a therapist rather than a deck. I've written about [where that door is](/disclaimers/#therapy), and what the cards can still hold meanwhile: a gentler question, like “what would help me rest this week?”
+A dream of someone you've lost can be a visit, a memory, or your mind sorting a heavy week — and you're the only one who can feel which. If dreams keep you from sleeping, frighten you night after night, or come with heavy days, that's a door for a doctor or a therapist rather than a deck. I've written about [where that door is](/disclaimers/#therapy), and what the cards can still hold meanwhile: a gentler question, like “what would help me rest this week?”
 
 ## Try it for one week {#next-step}
 

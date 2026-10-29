@@ -27,7 +27,7 @@ I’ve set out the short version, with a kinder question for each subject, in [q
 
 A card can’t see a body. It reads a moment, in pictures. Any link from a picture to an organ, a pregnancy or a date is something the reader adds, and the frightened person in front of them can’t tell where the card ends and the reader begins.
 
-Timing is where readings miss most, and these questions are nearly all about timing: when, how long, by spring. By my own count, about one reading in ten misses. On most subjects a miss is a line in my notebook. Here it can be someone delaying an appointment, or grieving something that hasn’t happened.
+Timing is where readings miss most, and these questions are nearly all about timing: when, how long, by spring. My overall rate is about one miss in ten, and these questions sit where the misses gather. On most subjects a miss is a line in my notebook. Here it can be someone delaying an appointment, or grieving something that hasn’t happened.
 
 And words stay. In grief and anger, I once heard a voice announce an accident for a friend; the accident came, and my friend is alive and well today. That message was wrong in exactly what mattered, and I’d never hand one like it to anyone else ([why a reading can be wrong](/blog/why-a-reading-can-be-wrong/)).
 

@@ -59,4 +59,4 @@ Reading without positions has a cost, and it’s worth saying. With nothing fixe
 4. If you’ll want to compare over months, choose a layout and keep it — or [build your own in four questions](/blog/build-your-own-tarot-spread/).
 5. If it’s a real crossroads and you have an hour, try the [Celtic Cross](/blog/celtic-cross-spread/), two cards at a time.
 
-Then test it rather than taking my word for it: one week with a layout, one week without, both in your notebook. Don’t take my words as ultimate truth. Test it and experience it for yourself.
+Then test it rather than taking my word for it: one week with a layout, one week without, both in your notebook.

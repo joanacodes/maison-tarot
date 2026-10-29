@@ -32,7 +32,7 @@ And if you're in distress that evening: say so, privately, and I'll skip you. A 
 - **Don't prepare a question.** The best readings happen to people who came for the lesson and got drawn by accident.
 - **Be doubtful.** Doubt is the best state to be read in; it keeps both of us honest. The people who write me three days later saying "how did you know" are the ones who frowned during.
 - **Write down what was said**, right after, before you decide what it meant. You'll be surprised what you remember differently a week later.
-- **Don't act on it.** Act on what you feel. [Tarot is not an authority](/disclaimers/#readings), and a reading in front of twenty strangers even less so.
+- **Don't act on it.** [Tarot is not an authority](/disclaimers/#readings), and a reading in front of twenty strangers even less so.
 
 ## The four signs of a hook {#the-hook}
 

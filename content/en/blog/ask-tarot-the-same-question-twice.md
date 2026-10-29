@@ -49,7 +49,7 @@ A rough guide:
 - *A situation* (a job, a relationship, a move): ask again when there’s news.
 - *The same question more than twice in a month:* treat that as an alarm. Put the deck in a drawer for a few weeks.
 
-Take a break from your cards now and then. They’ll still be there, and you’ll read them better.
+The deck will still be there when you open the drawer, and you’ll read it better.
 
 ## When asking again does help {#when-it-helps}
 

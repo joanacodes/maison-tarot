@@ -56,7 +56,7 @@ The honest answer to "am I making it up?" is: let's count.
 
 I kept that notebook through all my free blind readings for strangers. By my own count, about nine in ten held and about one in ten missed. It's a tally kept by the person doing the readings, not a study, and it says nothing about how tarot works. What it tells me is that I wasn't only making it up — or not nine times out of ten. [How to keep a reading notebook](/blog/tarot-journal/) is explained step by step elsewhere.
 
-A miss is a miss. You don't rescue it with a second card, and you don't reframe it into "you'll understand later". If the person comes back on their own days afterwards, add their message with the date. Don't go asking. There's more on [what to do when a reading is wrong](/blog/tarot-reading-wrong/), and it's mostly about saying so out loud.
+The misses go in as they are: you don't rescue one with a second card, and you don't reframe it into "you'll understand later". If the person comes back on their own days afterwards, add their message with the date. Don't go asking. There's more on [what to do when a reading is wrong](/blog/tarot-reading-wrong/), and it's mostly about saying so out loud.
 
 ## What if the notebook says you are? {#if-you-miss}
 

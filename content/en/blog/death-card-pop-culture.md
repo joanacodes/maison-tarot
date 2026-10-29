@@ -37,7 +37,7 @@ Three things, and they matter more than the skeleton.
 
 The first is the card as a verdict. On screen, a card announces an event and the event happens. No card announces a death — not this one, not any other. That isn't a softened version of the meaning; it is the meaning.
 
-The second is the reader as an oracle, or as a threat. In these scenes the reader knows and the sitter is told; Cléo's reader even keeps her real verdict for after the door has closed. At a real table it goes the other way: I read; you decide.
+The second is the reader as an oracle, or as a threat. In these scenes the reader knows and the sitter is told; Cléo's reader even keeps her real verdict for after the door has closed. At a real table it goes the other way: I say everything I see while the person is there, and what to make of it is theirs to decide.
 
 The third is treating the ending as the whole card. Look at what Pamela Colman Smith drew: a skeleton in black armour on a white horse, carrying a black banner with a white rose. A king lies fallen in front of him, a bishop stands with his hands joined, a young woman turns her face away, a child looks up. And in the background, between two towers, a sun on the horizon. The picture already contains the after.
 

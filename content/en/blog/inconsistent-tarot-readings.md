@@ -15,7 +15,7 @@ Tarot readings seem inconsistent because almost everything around the cards chan
 
 ## You change between two readings {#you-change}
 
-A reading reads the person at the moment it happens: their mood, what they hope for, what they’re afraid of. The Sunday-afternoon you and the Thursday-night you aren’t asking the same question, even with the same words. Cards aren’t magic, you are — the reading comes from you, not from the cardboard — so when you change, the reading changes with you.
+A reading reads the person at the moment it happens: their mood, what they hope for, what they’re afraid of. The Sunday-afternoon you and the Thursday-night you aren’t asking the same question, even with the same words. The reading comes from you, not from the cardboard, so when you change, the reading changes with you.
 
 Say someone asks about their small business on a Sunday and draws the Six of Wands: a rider crowned with a wreath, a crowd raising staffs around him. Success, recognition. On Thursday, same question, they draw the Five of Pentacles: two figures limping through the snow past a lit church window.
 
@@ -45,7 +45,7 @@ Take the business owner from Sunday and Thursday. Say that after Thursday they p
 
 ## Sometimes one of them is a miss {#a-miss}
 
-By my own count, about one reading in ten misses. If two readings contradict each other and one of them doesn’t land at all, it may be wrong. Say so, write it down, and don’t stitch both into a single story to save them.
+Readings do miss — in my notebook, about one in ten. If two readings contradict each other and one of them doesn’t land at all, it may be wrong. Say so, write it down, and don’t stitch both into a single story to save them.
 
 One way to tell a miss from a change: a change has a reason you can name — something happened between the two days. A miss has none. It didn’t fit on the day you drew it, and it still doesn’t. I go through what to do in [when a tarot reading is wrong](/blog/tarot-reading-wrong/).
 

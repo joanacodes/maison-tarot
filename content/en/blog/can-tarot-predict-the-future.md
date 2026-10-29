@@ -52,7 +52,7 @@ Some questions sit outside what a card can hold, and I’d rather say so gently 
 - *When.* Dates and deadlines are where readings slip most. I wrote about it in [tarot and timing](/blog/tarot-timing/).
 - *What someone else will do.* Their choices are theirs, and they aren’t in the room. If that’s the question on your mind, there’s [a kinder one to ask](/blog/will-they-come-back-tarot/).
 - *Health, death, pregnancy, court cases, money decisions, curses.* Not because a card can’t fall, but because a wrong word there does real damage. Those belong with a doctor, a lawyer or a financial adviser, and they’re on [the list of things I don’t read on](/disclaimers/#refusals).
-- *What you should do.* A reading can show you something; the choice stays yours. [Tarot is not an authority](/blog/tarot-is-not-an-authority/).
+- *What you should do.* A reading can show you something; the choice stays yours. No card [gets to decide your future for you](/blog/tarot-is-not-an-authority/).
 
 ## How to ask about the future without asking for a prophecy {#how-to-ask}
 

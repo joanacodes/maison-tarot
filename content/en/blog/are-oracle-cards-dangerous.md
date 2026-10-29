@@ -23,7 +23,7 @@ All of those deserve a straight answer rather than a smile. If your faith asks y
 
 An oracle deck is a set of cards for reflection or divination that doesn't follow tarot's fixed structure. Its creator decides how many cards there are, what each one means, and often prints a word or a phrase on each. Say you draw a card showing a closed door with the word “Wait” underneath: the creator has written the message, and the card hands it to you.
 
-That's all a deck can do: show a picture and a word. It doesn't choose you, follow you home or need anything from you. Cards aren't magic, you are: whatever happens in a reading comes from the person reading, not from the box.
+That's all a deck can do: show a picture and a word. It doesn't choose you, follow you home or need anything from you. Whatever happens in a reading comes from the person reading, not from the box.
 
 **The cardboard does nothing on its own; what matters is what someone says while holding it.**
 

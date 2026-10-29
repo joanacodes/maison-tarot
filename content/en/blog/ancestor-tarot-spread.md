@@ -59,4 +59,4 @@ And if the loss is recent, or the grief feels heavy rather than tender, start wi
 
 Choose a quiet evening. Put a photograph or an object of theirs on the table if you have one — a watch, a handwritten recipe. Shuffle while you think of them, and stop whenever it gets heavy; the cards will wait.
 
-The cards don’t hold your grandfather. You do. Cards aren’t magic, you are — and at Samhain, remembering is the whole of the work. If you’d like to learn the lenses I used above, start with [one card, today](/learn-tarot/).
+The cards don’t hold your grandfather. You do — and at Samhain, remembering is the whole of the work. If you’d like to learn the lenses I used above, start with [one card, today](/learn-tarot/).

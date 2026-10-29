@@ -39,9 +39,9 @@ What tends to close a reading, in my experience, isn’t doubt. It’s fear. Som
 
 ## Does the reader have to believe? {#the-reader}
 
-Not in the way people usually mean. I started reading on 26 December 2020, expecting to need training before anything landed. My first reading was accurate. I hadn’t believed it would be; it happened anyway.
+Not in the way people usually mean. I started reading on 26 December 2020, expecting to need training before anything landed. The first reading did. I hadn’t believed it would; it happened anyway.
 
-Before every reading now, I tell myself: *I’m about to talk nonsense.* The lower I set the expectation, the more accurate it gets. A reader who is sure of their gift tends to start rescuing readings instead of saying what comes.
+Before every reading now, I tell myself: *I’m about to talk nonsense.* Doubt, in my experience, doesn’t get in the way; it helps. A reader who is sure of their gift tends to start rescuing readings instead of saying what comes.
 
 What I have instead of belief is a count, misses included. Readers differ widely on what they believe, and I’ve set out [where I stand, and what to ask any reader instead](/blog/do-tarot-readers-believe/), separately. If you’re a sceptic wondering whether you could learn anyway, I came to astrology to laugh at it, and I tell that story in [can a sceptic learn tarot](/blog/can-a-sceptic-learn-tarot/).
 
@@ -49,8 +49,8 @@ What I have instead of belief is a count, misses included. Readers differ widely
 
 If I worry about one kind of sitter, it isn’t the doubtful one. It’s the person who believes every word: who leaves a reading with an instruction, quits a job because of one card, or comes back every week for the same answer.
 
-Tarot is not an authority. A reading can show you something; you decide what to do with it. I wrote about [the situations where I’d put the cards down](/blog/is-tarot-dangerous/), and too much belief is one of them.
+A reading can show you something; you decide what to do with it. I wrote about [the situations where I’d put the cards down](/blog/is-tarot-dangerous/), and too much belief is one of them.
 
 ## Come and test it as a doubter {#test-it}
 
-Don’t take my words as ultimate truth. Test it and experience it for yourself. Come to one of the [free events](/events/) with your arms folded if you like. Tell me nothing, listen to the end, and say honestly whether it landed. If it doesn’t, I’ll call it a miss in front of everyone, and you’ll have learned something too.
+Come to one of the [free events](/events/) with your arms folded if you like. Keep your story to yourself, listen to the end, and say honestly whether it landed. If it doesn’t, I’ll call it a miss in front of everyone, and you’ll have learned something too.

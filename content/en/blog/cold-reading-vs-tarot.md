@@ -72,7 +72,7 @@ Nobody stops noticing things on command, and I’m no exception. What I can do i
 - *Observation*: online, I often have only a pseudonym and a voice: no face, no ring, no clothes to read.
 - *Fishing*: I ask nothing before or during the reading. The person tells me nothing, and only speaks once I’ve finished.
 - *Following reactions*: I ask people to keep a poker face, and we compare at the end.
-- *Recasting misses*: about one reading in ten misses, by my own count. A miss is a miss: I say so, I write it down, and I don’t draw a card to rescue it.
+- *Recasting misses*: about one reading in ten misses, by my own count. When one does, I say so, I write it down, and I don’t draw a card to rescue it.
 - *Hot reading*: at my events, the people read are drawn at random on the day, so there’s no one to look up beforehand.
 
 The honest limit: silence doesn’t switch off every cue. A voice, a face on a video call, a hesitation still carry information, and I can’t promise I never use them. What the silence does is make the rest checkable. I explain the full set-up on the [method page](/method/).

@@ -25,7 +25,7 @@ Looking back, I’d call that living in fear without noticing. That’s the part
 
 Lights off. If there’s a noise in the night, I don’t panic. What I tell myself is more or less this: *well, if that was ever a spirit or something, let it be.*
 
-That sentence isn't "there's nothing there", and it isn't "it's a spirit". It leaves the question open and stops needing an answer. Not everything is about spirits; most night noises are a building being a building. And if a noise were ever something more, the sentence still holds: let it be.
+That sentence isn't "there's nothing there", and it isn't "it's a spirit". It leaves the question open and stops needing an answer. Most night noises are a building being a building. And if a noise were ever something more, the sentence still holds: let it be.
 
 The dark is as dark as it ever was. Whatever changed, changed on my side of the switch, and that side is exactly what shadow work looks at.
 

@@ -11,7 +11,7 @@ imageAlt: "A worn tarot deck with soft, bent corners resting in its open cardboa
 imagePrompt: "A worn tarot deck with soft, bent corners resting in its open cardboard box on a windowsill. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Tarot cards don’t get tired; the person reading them does. When readings start to feel flat, muddled or repetitive, the cause is almost always the reader: too many readings in a row, the same question asked again, a worry too heavy to see past, or plain fatigue, since interpreting takes energy. Cleansing rituals can help, mostly because they make you stop. The real fix is a break from the cards — a few days, a week, until you miss them. The only way a deck truly wears out is physically."
 ---
-No. Nothing is wrong with your deck. When readings start feeling flat, muddled or repetitive, it's almost always the reader who's tired, and the fix is a break rather than a ritual.
+No. When readings start feeling flat, muddled or repetitive, it's almost always the reader who's tired, and the fix is a break rather than a ritual.
 
 ## What people mean by a “tired” deck {#what-people-mean}
 
@@ -49,7 +49,7 @@ If two or more of those sound familiar, the deck is fine. You need a rest.
 
 ## How to take a break {#how-to-take-a-break}
 
-Take a break from your cards now and then. Put the deck in a drawer. There's no rule for how long: a few days, a week, until you miss it. In the meantime, do something that has nothing to do with tarot — a walk, a proper night's sleep, a painting, a few minutes of sitting still.
+Put the deck in a drawer. There's no rule for how long: a few days, a week, until you miss it. In the meantime, do something that has nothing to do with tarot — a walk, a proper night's sleep, a painting, a few minutes of sitting still.
 
 If you find you can't go two days without drawing, that tells you something too, and it's kinder to notice it now. I've written about [why quitting readings for a while helps](/blog/why-you-should-quit-tarot-reading/), and it applies to readers as much as to the people they read for.
 

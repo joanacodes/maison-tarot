@@ -39,7 +39,7 @@ It isn’t a quality label either. A careful reader and a careless one can carry
 
 Because it’s true. Nobody knows how tarot works, me included. I count my readings, and about one in ten misses, by my own tally: a notebook, not a study. Claiming more than “a reading may show you something” would be pretending, and “entertainment” is a promise not to pretend.
 
-Because it hands the decision back. A reading isn’t an instruction; you act on what you feel, not on what I said. I read; you decide. The phrase puts that in writing, where both of us can see it.
+Because it hands the decision back. A reading isn’t an instruction; you act on what you feel, not on what I said. The phrase puts that in writing, where both of us can see it.
 
 Say someone draws the Eight of Cups.
 

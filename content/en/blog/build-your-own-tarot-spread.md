@@ -61,7 +61,7 @@ As one sentence: “You want this for its own sake; what stops you is that it's 
 
 ## Building a spread for someone who tells you nothing {#blind}
 
-When I read for someone, they don't tell me their question. Tell me nothing. That means I can't build the spread around it, so I use positions that fit any life: what's here, what's in the way, what you can do. The person keeps the question to themselves and checks at the end whether it got an answer. That's [the silence rule](/blog/the-silence-rule/), and it works for a home-made spread as well as a classic one.
+When I read for someone, they don't tell me their question. That means I can't build the spread around it, so I use positions that fit any life: what's here, what's in the way, what you can do. The person keeps the question to themselves and checks at the end whether it got an answer. That's [the silence rule](/blog/the-silence-rule/), and it works for a home-made spread as well as a classic one.
 
 That's my way, not the only one. Some readers lay the same pattern for every career question; others invent a new layout for each person, and both can explain why — one reason I think of reading as [close to an art form](/blog/is-tarot-an-art-form/). Each spread captures a moment that won't come back, so build the one that fits it.
 

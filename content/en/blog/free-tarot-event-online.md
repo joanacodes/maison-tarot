@@ -55,7 +55,7 @@ I keep a list of [kinder questions to offer instead](/blog/questions-to-avoid-as
 
 Honesty is what makes a free night worth more than a paid one that hides its misses. Three habits do most of the work:
 
-- Say misses out loud. A miss is a miss: no second card drawn to rescue it, no “you’ll understand later”.
+- Say misses out loud, with no second card drawn to rescue them and no “you’ll understand later”.
 - Sell nothing. No “book a private reading to go deeper” at the end. If you teach, mention it once, at the end, after an evening of saying where you got it wrong.
 - Write it down afterwards: what you said, and what was confirmed.
 

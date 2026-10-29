@@ -69,6 +69,6 @@ Uses I’d gently put down:
 - Excusing a behaviour that hurts someone.
 - Choosing or ruling out partners by Sun sign.
 - Reading someone’s chart without asking them.
-- Letting it make your decisions. At a third, it would be wrong two times in three.
+- Letting it make your decisions.
 
 It’s also on my [disclaimers page](/disclaimers/#astrology): astrology is not an excuse. Next time you hear yourself say “because I’m a…”, try finishing the sentence differently: “…and what I’m going to do about it is…”.

@@ -41,7 +41,7 @@ And because it surprised me too. My friends gave me my first deck for Christmas 
 
 ## Why astrology still earns its place {#why-astrology}
 
-I came to astrology to laugh at it, read my own chart, and found it too precise. So I tested it, box by box, on me and then on others. Overall, 30 to 40% held. Saturn, Lilith and Chiron held 75 to 90%. The [whole test is told here](/blog/i-tested-my-birth-chart/); the short version is that a third is enough to be useful and not enough to be trusted.
+I came to astrology to laugh at it, read my own chart, and found it too precise. So I tested it, box by box, on me and then on others, and 30 to 40% of the boxes held. Saturn, Lilith and Chiron held 75 to 90%. The [whole test is told here](/blog/i-tested-my-birth-chart/); the short version is that a third is enough to be useful and not enough to be trusted.
 
 Inside the deck, that usefulness is concrete. In the Golden Dawn tradition, twelve major arcana carry a sign and the minor cards from 2 to 10 carry a planet in a sign. The Emperor is Aries, Strength is Leo, Death is Scorpio.
 

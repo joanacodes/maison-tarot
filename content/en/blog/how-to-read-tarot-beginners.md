@@ -71,7 +71,7 @@ That's it. The first time is strange, and the strangeness is the point. What you
 ## What not to do {#what-not-to-do}
 
 - **Don't memorise the 78.** You'll end up reciting instead of reading, and you'll freeze on the first card you've forgotten. The lenses exist so you never need to.
-- **Don't cleanse your deck with sage.** Nothing is wrong with your deck. If something feels off, it's you who needs a break, not the cards. ([Take a break from your cards →](/disclaimers/#readings))
+- **Don't cleanse your deck with sage.** Nothing is wrong with your deck. If something feels off, it's you who needs a break, not the cards. ([When to put the deck down →](/disclaimers/#readings))
 - **Don't read for someone in distress**, and don't read about health, death, pregnancy, court cases or money. Not because a card can't fall, but because a wrong word there does damage.
 - **Don't read for yourself twenty times a day.** If you catch yourself pulling cards every hour, that isn't about tarot; it's a search for outside validation, and a reading is the wrong tool for it.
 
@@ -79,7 +79,7 @@ That's it. The first time is strange, and the strangeness is the point. What you
 
 When it works, the person's face changes before they've decided what to say. That look is worth more than any confirmation.
 
-When it doesn't — and by my count that's about one time in ten — you say "that one's a miss", you note it, and you move on. You don't reshuffle, you don't reframe, you don't turn a miss into "the cards mean something you haven't realised yet". A miss is a miss. Readers who can't say that word are the ones to avoid.
+When it doesn't — and by my count that's about one time in ten — you say "that one's a miss", you note it, and you move on. You don't reshuffle, you don't reframe, you don't turn a miss into "the cards mean something you haven't realised yet". It stays a miss. Readers who can't say that word are the ones to avoid.
 
 ## The short version {#short-version}
 

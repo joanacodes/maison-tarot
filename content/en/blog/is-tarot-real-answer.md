@@ -25,7 +25,7 @@ I've been on the asking side myself. I put on an astrology video to mock it, rea
 
 You can't be defensive about a claim you never made, so it helps to know your own list by heart. Here's mine:
 
-- Tarot is not an authority. Act on what you feel, not on what a card said.
+- A card gives no orders; the person decides what to do with it.
 - About one reading in ten misses, by my own manual count ([how I counted](/blog/does-tarot-work-300-readings/)). It's a tally, not a study.
 - I don't know how it works. I know some conditions under which it works better, like the person saying nothing about themselves first.
 - There's no gift. Anyone can learn to read.
@@ -52,7 +52,7 @@ To a joke: smile. "Real enough that you asked."
 
 Agree with what's fair. Cold reading exists. The Barnum effect exists. People remember the hits and forget the misses. Those are good objections, and they're the reason I ask people to say nothing first and why I count my misses. I've written about [how to tell cold reading from a tarot reading](/blog/cold-reading-vs-tarot/). "You're right, that's a real risk" ends more arguments than any comeback.
 
-Then let it go. A calm answer won't convert anyone, and it isn't meant to. The aim is that the person leaves knowing what you actually do, rather than what they'd imagined. You don't need their agreement to keep reading, and they don't need yours to keep doubting. Don't take my words as ultimate truth. Test it and experience it for yourself. It's the sentence I'd leave anyone with, sceptic or believer.
+Then let it go. A calm answer won't convert anyone, and it isn't meant to. The aim is that the person leaves knowing what you actually do, rather than what they'd imagined. You don't need their agreement to keep reading, and they don't need yours to keep doubting.
 
 ## What not to say {#what-not-to-say}
 

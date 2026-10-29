@@ -19,7 +19,7 @@ I didn’t set out to teach. I made my friends and family try reading, and somet
 
 Someone says something true about the person in front of them, and then they’re shocked by what they’ve just said. Their face changes before they’ve decided what to think about it. That moment is why I teach.
 
-I can’t describe it in a way that does it justice. You can’t be told what it’s like. You can only try. That’s the first lesson for whoever is teaching, too: your explanations matter less than the moment you step back and let the other person speak.
+I can’t describe it in a way that does it justice, and that’s the first lesson for whoever is teaching: your explanations matter less than the moment you step back and let the other person speak.
 
 ## Card first, explanation after {#card-first}
 

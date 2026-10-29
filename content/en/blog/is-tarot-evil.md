@@ -49,6 +49,6 @@ What tarot does, day to day, is far less spectacular and far more useful: it sho
 
 ## What I'd say to someone who's afraid of it {#if-afraid}
 
-Don't do it. Truly — if the pictures frighten you, there's no prize for pushing through. Fear reads badly. And if you do it anyway and it frightens you *more*, [put the deck away](/blog/why-you-should-quit-tarot-reading/). Not everything is about spirits; sometimes what's frightening is inside, and the right door is a therapist's, not a reader's.
+Don't do it. Truly — if the pictures frighten you, there's no prize for pushing through. Fear reads badly. And if you do it anyway and it frightens you *more*, [put the deck away](/blog/why-you-should-quit-tarot-reading/). Sometimes what's frightening is inside, and the right door is a therapist's, not a reader's.
 
 But if what you're afraid of is being told something true — that's the only thing tarot has ever done to me. I recommend it.

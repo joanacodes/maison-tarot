@@ -73,7 +73,7 @@ The Six of Cups is the Sun in Scorpio. My note: taking time for yourself, childh
 3. For a ten-day theme, put the current decan's card on your table and note what you notice. Nothing more.
 4. If astrology isn't your lens, skip all of this. The cards read perfectly well without it.
 
-The honest limit: this is an elegant system, but it's a nineteenth-century layer on a fifteenth-century card game, not something tarot always had. When I tested my own chart, placements held about 30–40% of the time overall, and I've never tested the decans at all, so I have no number to give you. Treat them as one more way of looking, and remember that [astrology is not an excuse](/disclaimers/#astrology). Don't take my words as ultimate truth. Test it and experience it for yourself.
+The honest limit: this is an elegant system, but it's a nineteenth-century layer on a fifteenth-century card game, not something tarot always had. When I tested my own chart, placements held about 30–40% of the time overall, and I've never tested the decans at all, so I have no number to give you. Treat them as one more way of looking, and remember that [astrology is not an excuse](/disclaimers/#astrology).
 
 ## The next step {#next-step}
 

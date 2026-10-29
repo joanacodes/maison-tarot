@@ -43,7 +43,7 @@ Since then, hard impressions go on a shelf in my head labelled "sceptical, but i
 2. Speak about now, not later. "There's a hurt here" rather than "you're going to be hurt".
 3. Ask instead of announcing. "Does this sound like something you're living now, or something past?"
 4. Give the card's other side honestly. Not sugar, but its own plus.
-5. Hand the decision back. I read; you decide.
+5. Hand the decision back.
 
 Here's the difference in practice. Harsh: "This relationship is over. The Tower says so." Kinder: "I see something shaking here, something that looked solid. That can hurt, and it can also show you what was really holding it up. Does that land?"
 
