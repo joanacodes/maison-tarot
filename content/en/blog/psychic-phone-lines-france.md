@@ -70,7 +70,7 @@ What helps, in practice:
 5. If you think someone took advantage of a vulnerable person, that can be a criminal offence: it's a matter for a complaint, and for a lawyer or a consumer association.
 6. Talk to someone. With a parent, avoid putting them on trial: ask what the calls give them — company, a voice, an answer — and look together for where else to find it.
 
-If the question that makes you pick up the phone is about money, health or a court case, those are subjects [I leave out of my readings](/disclaimers/#refusals), because a misunderstood sentence costs too much there. A gentler and more useful question is: "What do I need to make this decision myself?" The cards can sit with that one. The decision stays yours: I read; you decide.
+If the question that makes you pick up the phone is about money, health or a court case, those are subjects [I leave out of my readings](/disclaimers/#refusals), because a misunderstood sentence costs too much there. A gentler and more useful question is: "What do I need to make this decision myself?" The cards can sit with that one, and the decision stays yours.
 
 Sometimes the most useful thing is to put the phone, or the deck, down for a while. I've written about that in [why you should quit tarot reading, at least for a while](/blog/why-you-should-quit-tarot-reading/).
 

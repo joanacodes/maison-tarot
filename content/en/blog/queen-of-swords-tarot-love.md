@@ -37,7 +37,7 @@ After a break-up, she’s clarity about why it ended — without rewriting the s
 
 With this card, people often ask about another woman. “Is she the ex?” “Is it his mother?” “Is someone coming between us?” It’s an understandable reflex: a queen on the table looks like a person, and when you’re worried, a person looks like a threat.
 
-I don’t read on people who aren’t in the room, and I’d rather not turn a court card into a suspect. A court card describes a way of acting, and most often it describes you. I explain how I read them in [court cards explained](/blog/court-cards-explained/). I also hold my own readings to the honesty she asks for: when something doesn’t land, I say so plainly. A miss is a miss.
+I don’t read on people who aren’t in the room, and I’d rather not turn a court card into a suspect. A court card describes a way of acting, and most often it describes you. I explain how I read them in [court cards explained](/blog/court-cards-explained/). I also hold my own readings to the honesty she asks for: when something doesn’t land, I say so plainly.
 
 A kinder question: “Where do I need to be clearer, and how can I say it kindly?” It points the sword where it can help.
 

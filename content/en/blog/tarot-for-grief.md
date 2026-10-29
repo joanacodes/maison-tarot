@@ -27,7 +27,7 @@ The cards can also hold a memory for a moment. A warm card can bring back a dinn
 
 Are they at peace? Can they hear me? Did they forgive me? Could I have done something? When will this stop hurting?
 
-These are the questions people bring, and they come from love, and often from guilt that has nowhere to go. I understand why you’d want a card to answer them. I don’t read on them, and here’s why: a card can’t know, and if it seems to answer, you’re the one filling in the answer. On something this tender, a wrong answer can stay with you for years. By my own count, about one reading in ten misses; that’s fine for a question about your week, and too much for this one. I explain more in [why I step back from health and death questions](/blog/health-pregnancy-death-tarot/).
+These are the questions people bring, and they come from love, and often from guilt that has nowhere to go. I understand why you’d want a card to answer them. I don’t read on them, and here’s why: a card can’t know, and if it seems to answer, you’re the one filling in the answer. On something this tender, a wrong answer can stay with you for years. Readings get things wrong now and then, mine too; that’s fine for a question about your week, and too much for this one. I explain more in [why I step back from health and death questions](/blog/health-pregnancy-death-tarot/).
 
 What helps instead: write them a letter with the question in it, and keep the letter. Tell someone who knew them the story you remember. And ask the cards about you, which is the part they can hold.
 
@@ -61,7 +61,7 @@ Grief takes the time it takes, and there’s no schedule to keep. But some signs
 
 Then the door is a person’s: a friend first, your doctor, a bereavement counsellor or a therapist. [Not everything is a matter for the cards](/disclaimers/#therapy), and knocking on that door isn’t giving up on anyone. If you’re having thoughts of ending your life, please call now: Samaritans on 116 123 in the UK and Ireland, 988 in the US and Canada, Lifeline on 13 11 14 in Australia, or your local emergency number.
 
-If you’re drawing every night, take a break from your cards now and then. It isn’t about forgetting them. It’s about making room for the people who are still here; I wrote more about [putting the deck down for a while](/blog/why-you-should-quit-tarot-reading/).
+If you’re drawing every night, try a few evenings without the deck. It isn’t about forgetting them. It’s about making room for the people who are still here; I wrote more about [putting the deck down for a while](/blog/why-you-should-quit-tarot-reading/).
 
 ## A first gentle step {#first-step}
 

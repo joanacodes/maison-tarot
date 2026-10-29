@@ -17,13 +17,13 @@ Usually, not straight away. A reading done in the middle of a storm reads the st
 
 When you're upset, your mind is already telling a story, and telling it fast. The cards don't interrupt that story. They feed it.
 
-Take the Five of Cups. A figure in a black cloak looks down at three spilled cups. Behind them, two cups are still standing, and a bridge leads away in the distance. In my notes it's the heaviest card in the deck: loss, dark emotion, being alone with your problems. Draw it on a calm day and you notice the two cups and the bridge as well. Draw it while you're upset and you see three spilled cups, full stop.
+In the Five of Cups, a figure in a black cloak looks down at three spilled cups. Behind them, two cups are still standing, and a bridge leads away in the distance. In my notes it's the heaviest card in the deck: loss, dark emotion, being alone with your problems. Draw it on a calm day and you notice the two cups and the bridge as well. Draw it while you're upset and you see three spilled cups, full stop.
 
 The Nine of Swords works the same way. Someone sits up in bed with their face in their hands, nine swords lined up in the dark above them. My notes read it as coming out of a nightmare, the end of a long troubled stretch, with protection above you. Upset, you only see the nightmare.
 
 {{< cards "cu05 sw09" >}}
 
-**Cards aren't magic, you are — which is exactly why they read differently when you're shaken.** The picture is the same as yesterday. The person looking at it isn't.
+**When you're shaken, you read your mood, not the card.** The picture is the same as yesterday. The person looking at it isn't.
 
 ## Upset, or in a state? {#upset-or-in-a-state}
 
@@ -56,7 +56,7 @@ Draw, and describe the card out loud before you interpret anything. What colour 
 
 The same answer, with one more reason. Reading for someone means feeling what they feel while keeping your own feelings. When you're already full of yours, there's no room left: your mood leaks into what you say, and the person ends up hearing your evening rather than their cards.
 
-Postpone. "I'm not in the right place to read for you tonight" is a complete sentence. Even on good days, I sometimes stop after two hours of readings, out of caution. On a bad day, I'd rather not start.
+Postpone. "I'm not in the right place to read for you tonight" is a complete sentence. Even on good days, I sometimes call it a night after two hours of readings. On a bad day, I'd rather not start.
 
 ## When it's more than upset {#more-than-upset}
 

@@ -19,7 +19,7 @@ Everyone hears everything. In a one-to-one reading, a sentence lands on one pers
 
 The pressure goes both ways. My notes say that sometimes you can't see anything in the cards, for one of two reasons: your own block, from too much pressure, or the person's, because they're afraid of what they might hear. An audience adds to both. Expect a slower start, and don't fill the gap with guesses.
 
-The silence rule helps more in public than anywhere else. *Tell me nothing*: no question, no context, so the room knows exactly as much as I do. When something lands, everyone can see it wasn't fed to me first. [Why I ask people to say nothing](/blog/the-silence-rule/) is its own article.
+The silence rule helps more in public than anywhere else. The person gives no question and no context, so the room knows exactly as much as I do. When something lands, everyone can see it wasn't fed to me first. [Why I ask people to say nothing](/blog/the-silence-rule/) is its own article.
 
 ## Consent, twice {#consent}
 
@@ -58,10 +58,10 @@ When the audience is behind a screen rather than in the room, [reading live](/bl
 Your hands may shake, your heart may race, your voice may speed up. That's normal, and it doesn't mean the reading will go wrong. What helps when it's you at the table:
 
 - Slow your voice down. Nerves speed you up, and the room hears calm before it hears content.
-- Describe the card before you interpret it. A description is always true, and it gives your nerves time to settle.
+- Start with what's on the card, not what it means. A description is always true, and it gives your nerves time to settle.
 - Say "nothing's coming yet" if nothing is. It's honest, and it lowers the pressure for both of you.
-- Say a miss out loud. About one reading in ten misses, by my count, and twenty people learn more from an honest "that one's a miss" than from a rescued reading.
-- Stop before you're drained. I sometimes stop after two hours of readings, out of caution. Interpreting takes energy, and you'll feel it afterwards.
+- Say a miss out loud. Misses will happen, and twenty people learn more from an honest "that one's a miss" than from a rescued reading.
+- Stop before you're drained. Interpreting takes energy, and you'll feel it afterwards.
 
 ## Before your first public reading {#before}
 

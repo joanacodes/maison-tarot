@@ -39,7 +39,7 @@ Say someone draws the Four of Pentacles. Before I talk about money, I ask myself
 
 People ask about money because it keeps them up at night: the rent, a debt, a job offer, an investment a friend swears by. That worry is real and I don’t take it lightly.
 
-But a card can’t see a contract, an interest rate or a market. By my own count about one reading in ten misses, which is fine when we’re talking about how you feel and not fine when it’s your savings. A “yes” from the deck can also feel like permission, and that’s a weight a card shouldn’t carry — it’s why money decisions are on my list of [what I don’t read](/disclaimers/#refusals). I read; you decide.
+But a card can’t see a contract, an interest rate or a market. My notebook shows misses too, about a tenth of my readings: fine when we’re talking about how you feel, not fine when it’s your savings. A “yes” from the deck can also feel like permission, and that’s a weight a card shouldn’t carry — it’s why money decisions are on my list of [what I don’t read](/disclaimers/#refusals).
 
 For the decision itself: an accountant, an independent financial adviser, your bank, or a free debt advice service if things are tight. For the worry around it, the cards can help with gentler questions:
 

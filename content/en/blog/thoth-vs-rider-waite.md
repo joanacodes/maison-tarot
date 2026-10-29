@@ -62,6 +62,6 @@ Third, the imagery is dense with Crowley's own system: Thelema, astrology, alche
 
 You don't need to. One deck can last a whole reading life, and the [Rider-Waite-Smith](/blog/rider-waite-smith-tarot/) is a fine one to stay with. If you're curious, though, curiosity is a good reason.
 
-A gentle way in: borrow or buy a Thoth deck and, for a week, lay one card next to its Rider-Waite-Smith twin each day. Describe both, out loud, through number, element and colour, before you open any book. Write down where they agree and where they pull apart. You can't be told what it's like. You can only try.
+A gentle way in: borrow or buy a Thoth deck and, for a week, lay one card next to its Rider-Waite-Smith twin each day. Describe both, out loud, through number, element and colour, before you open any book. Write down where they agree and where they pull apart.
 
 Then give the new deck its own first week, the way I describe in [how to get to know a new tarot deck](/blog/new-tarot-deck/): no ritual, a few cards a day, and a notebook.

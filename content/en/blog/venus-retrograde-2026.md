@@ -48,7 +48,7 @@ In my chart test, Venus held about a third of the time — like most placements,
 - If you're tempted to leave or to stay because of the dates, don't hand that decision to a planet. It's yours, and you'll live with it long after 14 November.
 - If you're waiting to hear from someone, I'd gently put the phone down. "Will they come back?" is a question about a person who isn't in the room, and the cards can't answer it for them. I've written about [why 'no contact' readings cost more than they give](/blog/no-contact-tarot-readings/).
 
-**A retrograde can start a conversation about your relationship; it can't have it for you.** And if you feel the pull to look up someone's chart before a date, I'd leave it: [let the magic happen for the two of you](/blog/birth-chart-without-permission/).
+**A retrograde can start a conversation about your relationship; it can't have it for you.** And if you feel the pull to look up someone's chart before a date, I'd leave it: [some things are better found out across the table](/blog/birth-chart-without-permission/).
 
 ## Reading Venus in the cards {#in-the-cards}
 
@@ -62,7 +62,7 @@ Turned into questions for these weeks, that gives a three-card spread:
 2. Where am I holding on too tight?
 3. What have I stopped tending?
 
-Draw it once — now, or on the day Venus turns direct — and write the answers down. Not every evening: take a break from your cards now and then, especially when you're waiting for someone.
+Draw it once — now, or on the day Venus turns direct — and write the answers down. Not every evening, though, least of all while you're waiting for someone.
 
 ## The next step {#next-step}
 

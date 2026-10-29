@@ -47,7 +47,7 @@ If you read for others, the best answer to the accusation comes before it. A few
 2. Show the spread. Send a photo of the actual cards on your actual table with the reading.
 3. Read live when you can. A voice or video call is hard to outsource, and the person can watch you look at the cards.
 4. Ask for silence. When the person tells you nothing first, [anything that lands couldn’t have come from them](/blog/the-silence-rule/), or from a prompt they typed.
-5. Keep your misses in. A model never writes “that part didn’t land”. A reader who does sounds like a person, because only a person does it. A miss is a miss.
+5. Keep your misses in. A model never writes “that part didn’t land”. A reader who does sounds like a person, because only a person does it.
 6. Read the picture, not the book. Your own words for what’s on a card are hard to mistake for anyone else’s.
 
 That last habit is worth an example. Here’s one card, described two ways.

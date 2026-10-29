@@ -17,7 +17,7 @@ Here’s how I’d put it, from the chair I sit in most often and from the one o
 
 ## Before the reading {#before}
 
-Come with a question in mind, and keep it there. Tell me nothing. No context, no “it’s about my ex”, no first name if we’re online. It feels strange, I know. It’s also the only way you’ll know afterwards whether the reading came from the cards or from what you told the reader; I explain why in [the silence rule](/blog/the-silence-rule/).
+Come with a question in mind, and keep it there: no context, no “it’s about my ex”, no first name if we’re online. It feels strange, I know. It’s also the only way you’ll know afterwards whether the reading came from the cards or from what you told the reader; I explain why in [the silence rule](/blog/the-silence-rule/).
 
 Leave other people out of it. A reading is for the person in the chair, not for a partner, a boss or a mother who isn’t in the room. You wouldn’t want someone going through your bedroom drawers while you were out, and reading someone’s energy without their consent is close to that.
 
@@ -66,7 +66,7 @@ The reader’s manners matter as much, and they’re a little stricter.
 2. Say what you don’t read on before you start, gently and early.
 3. Tell the person they can stop you whenever they like.
 4. Say “that’s a miss” when it’s a miss. No reshuffle, no extra card to rescue it.
-5. Watch your own tiredness. Interpreting takes energy; I sometimes stop after two hours of readings, out of caution. If you leave a session [feeling drained](/blog/energy-after-tarot-reading/), rest before the next one.
+5. Watch your own tiredness: interpreting takes energy. If you leave a session [feeling drained](/blog/energy-after-tarot-reading/), rest before the next one.
 6. End the reading on purpose rather than letting it trail off — there’s a whole piece on [how to end a tarot reading well](/blog/how-to-end-a-tarot-reading/).
 
 ## The short version {#short-version}

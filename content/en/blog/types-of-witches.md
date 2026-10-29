@@ -59,7 +59,7 @@ In my notes, the Magician is the card of the four elements — wand, cup, sword,
 
 I don't call myself a witch. But I do have a definition, from my own notes: a witch is a human being fully aware of their power, and not afraid to use it and be themselves.
 
-So, which witch am I? **You don't need a label. Just be yourself — that's witchy enough.**
+So, which witch am I? **None of these types is a uniform you have to wear; being yourself is plenty.**
 
 The words above are useful for understanding what people mean, the way a glossary is. As a box to fit into, they work about as well as a single star sign does: you're not just one sign, you're a mix of everything. And the same goes for the labels people pick from a video — you don't choose what you are from a quiz, any more than you pick a starseed type ([the words empath, starseed and lightworker](/blog/empath-starseed-lightworker/) are defined separately). Practise for a year, and you'll find you've become your own kind of witch, if you want the word at all.
 

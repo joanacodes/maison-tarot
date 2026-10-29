@@ -51,7 +51,7 @@ What you can do: the Six of Cups — two children in a village garden, one handi
 
 Read across: Fire, then Air, then Water — noise, then a thought, then a feeling. Numbers 5, 8, 6: the conflict, the stuck point, the breathing space. The sentence out loud: “There’s a lot of noise around you and everyone pulls their own way; what keeps you stuck is a belief that you can’t move; this week, do something small and kind for yourself, the sort of thing you did as a child.”
 
-Then ask whether it lands. If it doesn’t, say so and write it down. A miss is a miss — and there’s no [fourth card to rescue it](/blog/the-clarifier-card/).
+Then ask whether it lands. If it doesn’t, say so and write it down — there’s no [fourth card to rescue it](/blog/the-clarifier-card/).
 
 ## Reading three cards without a spread {#without-a-spread}
 

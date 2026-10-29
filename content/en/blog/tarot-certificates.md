@@ -55,7 +55,7 @@ Sometimes a lineage is offered as a guarantee: my teacher was taught by someone 
 4. Can I watch you read for a stranger who tells you nothing?
 5. If there’s a certificate, what exactly does it state — hours, readings, a test?
 
-The first question matters most. A miss is a miss, and a teacher who can say so calmly, with numbers, is showing you something no certificate can.
+The first question matters most. A teacher who can name their misses calmly, with numbers, is showing you something no certificate can.
 
 None of these questions rules a certificate in or out. A course that issues one can answer all five well; a course that issues none can answer them badly. The certificate tells you about the course; the answers tell you about the teacher.
 

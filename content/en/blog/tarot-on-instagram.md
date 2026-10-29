@@ -43,7 +43,7 @@ When you want to be read, the criteria change. Three things matter, and none of 
 
 Method. Can they say how they read? Not “I have a gift”, because there isn’t one and anyone can learn, but what they look at: the colours, the numbers, the elements, the scene. A reader with a method can explain why they said what they said.
 
-Honesty. Do they ever say “that one missed”? Nobody reads at a hundred per cent; by my count, about one reading in ten misses. A reader whose posts never mention a miss is either not counting or not telling.
+Honesty. Do they ever say “that one missed”? Nobody gets every reading right — I get about nine in ten — and a reader whose posts never mention a miss is either not counting or not telling.
 
 Limits. What won’t they read on? I leave out health, death, pregnancy, court cases, money decisions, curses and people who aren’t in the room, and [I say so publicly](/disclaimers/#refusals). A reader with no limits hasn’t thought much about being wrong.
 
@@ -53,7 +53,7 @@ What to look for on a profile before you book:
 
 - A post that explains how they work, in their own words.
 - A list of subjects they don’t read on.
-- A stated price, with nothing added at the end.
+- The price in their bio or a pinned post, and no extras sold once the reading is over.
 - Misses mentioned somewhere, even once.
 - No message out of the blue saying they “picked something up” about you. That’s a sales opening, not a reading.
 
@@ -63,7 +63,7 @@ And you can ask. A reader with a method is usually glad to explain it, misses in
 
 A feed has a rhythm, and it can become yours. You check the card of the day before deciding what to wear, then before sending a message, then before answering one. You swipe through piles until one says what you hoped to hear.
 
-That isn’t foolishness; it’s worry looking for a hand to hold. But it’s a search for outside validation, and a feed will supply it for ever. If you notice it, mute a few accounts for a week and see what you decide without them. Take a break from your cards now and then, and from other people’s. I’ve written more on [why stepping back helps](/blog/why-you-should-quit-tarot-reading/).
+That isn’t foolishness; it’s worry looking for a hand to hold. But it’s a search for outside validation, and a feed will supply it for ever. If you notice it, mute a few accounts for a week and see what you decide without them. Your own deck can have that week off too. I’ve written more on [why stepping back helps](/blog/why-you-should-quit-tarot-reading/).
 
 ## Where to go from here {#next-step}
 

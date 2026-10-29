@@ -21,7 +21,7 @@ That's the whole idea. Everything else — the prompts, the moon phases, the "he
 
 ## What it isn't {#what-it-isnt}
 
-It isn't therapy. It isn't a substitute for therapy. It isn't a practice you do alone at 2 a.m. when you're already falling. [Not everything is about spirits](/blog/tarot-and-mental-health/), and not everything is about shadows either; sometimes what you're looking at is depression, and that needs a person with training, not a prompt list.
+It isn't therapy. It isn't a substitute for therapy. It isn't a practice you do alone at 2 a.m. when you're already falling. Sometimes what you're looking at isn't a shadow at all but depression, and that needs [a person with training](/blog/tarot-and-mental-health/), not a prompt list.
 
 It also isn't dramatic. The TikTok version makes it sound like descending into a cave. Mostly it's noticing that you're jealous of a friend and saying so to yourself in plain words. That's it. That's the work.
 

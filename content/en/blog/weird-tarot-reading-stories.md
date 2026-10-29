@@ -29,7 +29,7 @@ This one crept up on me. In my notes from 2021, I wrote that the more I read, th
 
 It sounds grander than it is. The cards help you focus, or unfocus, so that your own thoughts and biases step aside. After enough readings, some of that happens without them, a little like a cook who stops measuring the salt. I’ve written about whether [you still need the cards once you can read](/blog/do-you-still-need-tarot-cards/), and why mine stay on the table.
 
-**It isn’t a power I have and you don’t; it’s what practice looks like after a few hundred readings.** Every person I’ve helped to read managed it within one to three tries. This is further along the same road.
+**It isn’t a power I have and you don’t; it’s what practice looks like after a few hundred readings.** The people I’ve taught were all reading after a try or three, and this is further along the same road.
 
 If you read already, there’s a way to watch it happen in yourself. Before you shuffle, write one line: whatever is in your head about the person. Then do the reading as usual. Afterwards, compare the line with what the cards said and with what the person confirmed. Some days the line will be nothing. Some days it will be the reading.
 
@@ -39,7 +39,7 @@ For a while I practised on a pen-pal app, sending “letters” to strangers. On
 
 It made me laugh. It’s also a fair question from someone who has just received a letter about his life from a person he’s never met. A letter is an odd way to read: no face, no voice, no reaction to steer by. Whatever lands, lands without any help from you. I tell more about [the places I found people to read for](/blog/where-to-find-people-to-read-for/), letters included.
 
-So no, I’m not a magician, and I can’t read minds. My working definition of magic is the things we know exist but can’t explain. A stranger getting a letter that fits his week sits somewhere in there, and I’m happy to leave it unexplained.
+So no, I’m not a magician, and I can’t read minds. I keep the word magic for things that clearly happen and that nobody can explain. A stranger getting a letter that fits his week sits somewhere in there, and I’m happy to leave it unexplained.
 
 If someone asks you the same question one day, take it kindly. Tell them what you’re doing: you’re practising, it’s free, and it’s for them to say whether it fits.
 
@@ -57,9 +57,9 @@ My father calling my name from another country: [the night I heard him](/blog/fa
 
 ## What these stories don’t prove {#what-they-dont-prove}
 
-They don’t prove that tarot predicts, or that I’m special. About one reading in ten missed, by my own count, and a miss stays a miss in my notebook. I wouldn’t turn one into “wait and see”; the one that came true later is the exception that makes a good story, not the rule.
+They don’t prove that tarot predicts, or that I’m special. Around one in ten of my readings missed, and in my notebook none of those was quietly upgraded. I wouldn’t turn one into “wait and see”; the one that came true later is the exception that makes a good story, not the rule.
 
-A story is memorable because it’s unusual. The ordinary readings, the ones that landed quietly or missed quietly, don’t make articles, and they’re most of the work. So take these for what they are: things that happened to one reader. Don’t take my words as ultimate truth. Test it and experience it for yourself.
+A story is memorable because it’s unusual. The ordinary readings, the ones that landed quietly or missed quietly, don’t make articles, and they’re most of the work. So take these for what they are: things that happened to one reader.
 
 ## Start your own list {#next-step}
 

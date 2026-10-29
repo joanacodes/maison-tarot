@@ -54,7 +54,7 @@ It can’t give dates. A card for May speaks about a theme, never about the 12th
 
 It can’t answer questions about health, pregnancy or money either — “Will I be well this year?”, “Which month will the money come?” Those questions come from worry, and they deserve better tools: a doctor, an adviser, a plan. What a month card can hold is the gentler version: “What helps me look after myself in May?”
 
-And it will miss sometimes. By my own count, about one reading in ten misses. Mark the cross and move on.
+And some months it will miss, as any reading can. Mark the cross and move on.
 
 ## Why I don’t publish predictions for 2027 {#no-predictions}
 
@@ -62,7 +62,7 @@ Every December, feeds fill with forecasts: the year for each sign, the collectiv
 
 First, I read people, one at a time, knowing nothing about them beforehand. A forecast for everyone is a reading for no one. Second, nobody can check it. When it misses, the miss is never counted — and [counting my hits and misses](/blog/does-tarot-work-300-readings/) is the only reason I trust what I do. Third, a prediction quietly becomes an authority. People wait for their “good month” instead of acting in this one, and [tarot is not an authority](/disclaimers/#readings).
 
-As I see it, the best way to ensure an enjoyable future is to anchor yourself in the present. I read; you decide — and a reading of your own year, checked month by month, keeps the deciding with you.
+As I see it, the best way to ensure an enjoyable future is to anchor yourself in the present. A reading of your own year, checked month by month, keeps the deciding with you.
 
 ## Start your own year-ahead reading {#start}
 

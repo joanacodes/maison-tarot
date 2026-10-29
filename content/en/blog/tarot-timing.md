@@ -43,7 +43,7 @@ And because of what a date does to the person who receives it. Say someone is to
 
 The “what” and the “when” of a reading are two separate claims, and one can hold while the other slips. If you keep a notebook, give the “when” its own line. Otherwise a reading that got the event right and the month wrong gets written down as a hit, and you never see where your misses gather.
 
-When a date passes, I don’t say the cards meant a different spring. A miss is a miss, it goes in the notebook, and I’ve written about [what to do when a reading is wrong](/blog/tarot-reading-wrong/).
+When a date passes, I don’t say the cards meant a different spring. The miss goes in the notebook, and I’ve written about [what to do when a reading is wrong](/blog/tarot-reading-wrong/).
 
 ## What I read instead of a date {#instead-of-a-date}
 

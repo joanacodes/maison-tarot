@@ -65,4 +65,4 @@ The placements that did hold, at 75 to 90%, were three others: [Saturn, Lilith a
 
 Find your rising sign's card in [the table of the twelve signs](/library/astrology/) and take it out of the deck. Show it to someone who met you in the last year and ask one question: “Is this how I came across, the first time?”
 
-Write down the card, their answer, and your own tick or cross. Then do the same with your Sun sign's card and compare the two pages. Don't take my words as ultimate truth. Test it and experience it for yourself.
+Write down the card, their answer, and your own tick or cross. Then do the same with your Sun sign's card and compare the two pages.

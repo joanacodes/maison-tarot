@@ -54,7 +54,7 @@ Before you use AI for anything near a reading, try these:
 3. Did I type anything they told me in confidence?
 4. Am I using it to avoid saying “I don’t know”, or “that one missed”?
 
-If an answer makes you uncomfortable, that’s your line, and it may sit somewhere slightly different from mine. Don’t take my words as ultimate truth. Test it and experience it for yourself.
+If an answer makes you uncomfortable, that’s your line, and it may sit somewhere slightly different from mine.
 
 ## What to use instead {#what-to-use-instead}
 

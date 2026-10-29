@@ -133,7 +133,7 @@ These are the pairs people ask about most, and the ones where the order matters 
 
 The Sun next to the Five of Cups looks like a mistake. It isn’t: life holds both at once, and a pair that pulls apart often describes exactly that. Read the tension itself — “a success with a grief in it” — before trying to decide which card wins.
 
-What I don’t do is draw a third card to settle it. One more card muddies the reading more than it clears it, as I explain in [the clarifier card](/blog/the-clarifier-card/). If the pair means nothing to the person, it’s a miss, and a miss is a miss.
+What I don’t do is draw a third card to settle it. One more card muddies the reading more than it clears it, as I explain in [the clarifier card](/blog/the-clarifier-card/). If the pair means nothing to the person, that’s a miss, and it gets written down as one.
 
 ## Practise with your own pairs {#practise}
 

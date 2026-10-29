@@ -46,7 +46,7 @@ The look-back that means something is your own, done the way I [tested my birth 
 1. Find what you wrote around February 2026: a notebook, a notes app, messages to a friend.
 2. List what you expected: an ending, a start, a disillusion, a dream becoming real.
 3. Next to each, tick or cross. Tick only if it happened in a way you couldn't have said of anyone.
-4. Count. If an expectation missed, write it down as a miss. A miss is a miss.
+4. Count. If an expectation missed, write it down as a miss, without softening it.
 
 If you read tarot, there's a picture for it too. Saturn's card is the World, Neptune's is [the Hanged Man](/library/tarot-cards/the-hanged-man/), and Aries belongs to the Emperor. Side by side: a cycle that closes, a view turned upside down, and the one who gives the first order.
 

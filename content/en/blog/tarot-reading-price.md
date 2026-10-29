@@ -28,7 +28,7 @@ You won’t find a price range on this page. Published prices are each reader’
 
 ## What a fair price pays for {#what-goes-in}
 
-Time, first, and more of it than you see. A one-hour reading has preparation before it, notes after it, and rest. Interpreting takes energy; I sometimes stop after two hours of readings, out of caution, and a reader who works full days has to price in the hours they can’t sell.
+Time, first, and more of it than you see. A one-hour reading has preparation before it, notes after it, and rest. Interpreting takes energy, so a reader only has so many good hours in a day, and one who works full days has to price in the hours they can’t sell.
 
 Experience, but not the kind measured in years. What matters is whether the reader has checked their own work. Someone who keeps a notebook of what they said and what was confirmed knows their miss rate. Someone who doesn’t is guessing about their own accuracy, and charging for the guess.
 
@@ -45,7 +45,7 @@ Some things get sold as premium and shouldn’t be:
 - *Urgency.* “I see something serious, call me back today.”
 - *Objects and rituals.* Candles, baths, “clearings” added after the reading.
 - *Curse removal.* It’s [the oldest con in the trade](/blog/lift-the-curse-scam/), and no reading ever needs it.
-- *A promise of accuracy.* Nobody reads at a hundred per cent. By my own count, about one reading in ten misses, and I’d be wary of anyone who claims none.
+- *A promise of accuracy.* Nobody reads at a hundred per cent, me included, and I’d be wary of anyone who claims to.
 
 ## How to compare two prices {#compare}
 
@@ -60,6 +60,6 @@ Some things get sold as premium and shouldn’t be:
 
 I don’t sell readings, so I’m outside this market. I sell lessons — one-to-one sessions of an hour, workshops of three hours for twelve people — and readings are free at events. The details are on [what I charge for and what I give away](/blog/what-i-charge-for/), and why I chose that model, with what money does to a practice, is in [should tarot be free?](/blog/tarot-and-capitalism/).
 
-One honest limit: no price list tells you what a reading is worth to you. That depends on what you do with it afterwards, and a reading isn’t a reason to act. Act on what you feel.
+One honest limit: no price list tells you what a reading is worth to you. That depends on what you do with it afterwards, and a reading isn’t a reason to act.
 
 If you’d like to see a reading before you ever pay for one, [come to a free event](/events/). People are drawn at random, they tell me nothing, and the misses are said out loud.

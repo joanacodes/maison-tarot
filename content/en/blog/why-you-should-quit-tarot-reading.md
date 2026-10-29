@@ -29,7 +29,7 @@ When that happens, the cards are no longer the point. What the person wants is f
 
 I've thought about this a lot, because I've watched it in others and felt the pull of it myself. It's never about the cards. **It's a search for outside validation.** Something in you already knows what you think; you don't trust it; you go looking for a voice — any voice — that will say it out loud so you don't have to own it.
 
-Tarot is dangerous here precisely because it works. If it were nonsense, you'd get bored. Because it lands nine times in ten, it's easy to believe the tenth time is the one that will finally make the decision for you. It won't. [Tarot is not an authority.](/disclaimers/#readings) Act on what you feel, not on what a card said.
+Tarot is dangerous here precisely because it works. If it were nonsense, you'd get bored. Because it lands nine times in ten, it's easy to believe the tenth time is the one that will finally make the decision for you. It won't: [a reading describes, it doesn't decide](/disclaimers/#readings). Act on what you feel, not on what a card said.
 
 ## The test {#the-test}
 
@@ -43,11 +43,11 @@ Three questions. If you answer yes to two, put the deck away.
 
 - **Put the deck in a drawer for a month.** Not forever. A month. The urge will spike for three days and then fade, which tells you something about what the urge was.
 - **Make the decision, small.** Not the whole thing — the first step of it. The cards were never going to take that step for you.
-- **Train the muscle that decides.** Every decision made without consulting anything makes the next one easier. That muscle atrophies fast when a deck does the lifting.
+- **Strengthen your own deciding.** Every choice made without consulting anything makes the next one easier. That muscle atrophies fast when a deck does the lifting.
 - **When you come back, read for someone else.** The healthiest thing you can do with a deck is use it on a person who isn't you, who tells you nothing, and count. [That's the method](/method/), and it has the side effect of curing the habit: you can't be addicted to something you're measuring.
 
 ## And if it's more than a habit {#more-than-a-habit}
 
-Sometimes the doubt has nothing to do with tarot, and no deck, put away or not, will touch it. Not everything is about the cards; sometimes it's psychological, sometimes it's more. If the fidgeting doesn't stop when the cards do, the right door is a therapist's, and there's no failure in walking through it. [I say so on the disclaimers page](/disclaimers/#therapy), and I'll say it to your face.
+Sometimes the doubt has nothing to do with tarot, and no deck, put away or not, will touch it. It may be psychological, or something heavier. If the fidgeting doesn't stop when the cards do, the right door is a therapist's, and there's no failure in walking through it. [I say so on the disclaimers page](/disclaimers/#therapy), and I'll say it to your face.
 
 Take a break from your cards. They'll wait. They're patient, which is more than the doubt is.

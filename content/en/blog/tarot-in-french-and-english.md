@@ -74,7 +74,7 @@ Either way, I read the suit through its element. [Earth](/library/four-elements/
 
 Less than you'd think, and more than nothing. The same image can read differently from one person to another and from one day to another; the language is one more thing that shifts. A French speaker who learnt on the Marseille may hear "the Magician" and not connect it with their Bateleur. An English speaker may hear "Deniers" and read a money card where you meant something broader.
 
-So when you read for someone in their second language, describe the picture before you name it. "A man at a table, one hand raised, everything laid out in front of him" works in any language; a name only works if you share the same deck. And one sentence crosses over without losing anything: cards aren't magic, you are. *Les cartes ne sont pas magiques, vous l'êtes.*
+So when you read for someone in their second language, describe the picture before you name it. "A man at a table, one hand raised, everything laid out in front of him" works in any language; a name only works if you share the same deck.
 
 ## Try it with one card {#try-it}
 

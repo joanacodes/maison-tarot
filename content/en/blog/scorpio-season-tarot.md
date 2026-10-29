@@ -21,7 +21,7 @@ Scorpio’s verb is *I desire*. Its element is [Water](/library/four-elements/wa
 
 ## Scorpio, in my notes {#scorpio-energy}
 
-Scorpio energy is very intense, and Scorpio knows exactly where to sting so that it hurts. All its power is in the sting. That makes it wary and observant, and it means this energy can kill as well as it can heal. On the good side: a very good observer, a very good healer. On the other: toxic ties, and a pull towards isolation.
+Intensity is the first thing to know about Scorpio, and its strength sits in the sting: it can always find the place that hurts. That makes it wary and observant, and it means this energy can kill as well as it can heal. On the good side: a very good observer, a very good healer. On the other: toxic ties, and a pull towards isolation.
 
 Its archetype, in my notes, is the person who says nothing at a party and draws every eye without trying. Picture them in the armchair at the edge of the room, watching, saying one sentence all evening — the one everyone remembers.
 
@@ -29,7 +29,7 @@ As a fixed sign, Scorpio holds on, and what it holds on to is emotional attachme
 
 ## Its card: Death, and three Cups {#death-and-cups}
 
-Death doesn’t announce a death. In my notes, it’s linked to the harvest and to starting again — the person who has lost their goal and wants to make life fertile again. You cut what’s ripe so the field can be sown. The [Death card page](/library/tarot-cards/death/) reads it lens by lens.
+Death doesn’t announce a death. In my notes, it’s linked to the harvest and to starting again — the person who has lost their goal and wants to make life fertile again. It suits the season: by late autumn the crop is in, and the ground is being readied for what comes next. The [Death card page](/library/tarot-cards/death/) reads it lens by lens.
 
 {{< cards "ar13 cu05 cu06 cu07" >}}
 

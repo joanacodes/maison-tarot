@@ -48,8 +48,8 @@ Neither answer makes the period less real. A hard year is a hard year, whatever 
 Four things to hold onto, whatever you believe about Saturn.
 
 - *It's a review, not a sentence.* Saturn is the planet of things that become solid because they were hard. That's the end of the story, not only the middle.
-- *It's not an alibi.* “It's my Saturn return” explains a mood; it doesn't excuse leaving people in the lurch. [Astrology is not an excuse.](/disclaimers/#astrology)
-- *The decision stays yours.* If you bring the question to the cards, the rule is the same as always: I read; you decide.
+- *It's not an alibi.* “It's my Saturn return” explains a mood; it doesn't [excuse leaving people in the lurch](/disclaimers/#astrology).
+- *The decision stays yours.* Bring the question to the cards if you like; what you do about it is still your call.
 - *If it gets heavier than a hard year, talk to someone.* A friend first, and a therapist if it doesn't lift. That isn't failing your Saturn return. It's handling it well.
 
 ## A three-card check-in for your Saturn return {#spread}
@@ -64,4 +64,4 @@ That pair makes a small spread. Three cards, once — not every week of the tran
 2. *What am I carrying that was never mine?* The Devil's.
 3. *What do I want to build next?* Yours.
 
-Read each card through its colours, its number and its element before you look anything up. Write the three cards and one sentence for each in your notebook, and reread the page on your 30th birthday. If you like marking birthdays with the cards, the [birthday spread](/blog/birthday-tarot-spread/) does it every year, and [Saturn, Lilith and Chiron](/blog/saturn-lilith-chiron/) shows where Saturn stands beside the two other placements that held in my test.
+Before you open any book, look at each card's colours, then its number, then its element. Write the three cards and one sentence for each in your notebook, and reread the page on your 30th birthday. If you like marking birthdays with the cards, the [birthday spread](/blog/birthday-tarot-spread/) does it every year, and [Saturn, Lilith and Chiron](/blog/saturn-lilith-chiron/) shows where Saturn stands beside the two other placements that held in my test.

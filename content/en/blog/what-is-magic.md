@@ -41,7 +41,7 @@ Part of it I can explain. Some of what feels like a hit is general enough to fit
 
 Part of it I can’t. After reading for a friend, I once felt her grandfather with me at home, and the message he gave me, a five and “under the house”, led her to a basement storage cell number five full of paint pots. I tell it properly in [what one very polite grandfather taught me](/blog/is-tarot-evil/).
 
-I don’t know what that was. I know it happened, and I can’t explain it. That’s exactly where I file it.
+What it was, I can’t say. I know it happened, and I can’t explain it. That’s exactly where I file it.
 
 If you want the idea in two cards, take the Magician and the High Priestess. In my notes, the Magician has all four elements on his table and knows how to do everything — and his minus is that he can pretend, if you trust him blindly. Both meanings of “magician” in one card. The High Priestess knows a great deal and shows you only a façade, like the hidden face of the moon: what exists and isn’t visible yet.
 
@@ -49,7 +49,7 @@ If you want the idea in two cards, take the Magician and the High Priestess. In 
 
 ## What this definition doesn’t claim {#doesnt-claim}
 
-It doesn’t claim powers. I don’t have abilities other people lack; anyone can learn to read. Cards aren’t magic, you are — which is the same definition pointed at a person. What happens in a reading comes from the two people at the table, not the cardboard, and nobody can fully explain it yet.
+It doesn’t claim powers. I don’t have abilities other people lack; anyone can learn to read. What happens in a reading comes from the two people at the table, not the cardboard, and nobody can fully explain it yet.
 
 It doesn’t claim that the unexplained is dangerous, evil or holy. “Unexplained” describes the state of our knowledge, not the thing itself.
 

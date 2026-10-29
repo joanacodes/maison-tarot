@@ -25,7 +25,7 @@ Picture a farm family on the last evening of October: the crop is in, the cattle
 
 “The veil thins” means this: at Samhain, the boundary between our world and the other one — the dead, the fairy folk, the Otherworld of the old Irish stories — is believed to be at its most open. Spirits can cross, and the living can sense them more easily. For a lot of people it’s the heart of the festival.
 
-My own position is narrower. I don’t use tarot to call anyone, at Samhain or on any other night, because with spirits you don’t know who you’re calling. And when a reading in October feels heavier, I look first at the person in front of me: the dark coming at five, the anniversary they haven’t mentioned, the year catching up with them. Not everything is about spirits. Sometimes it’s grief, and sometimes it’s [a door that belongs to a therapist rather than to me](/disclaimers/#therapy).
+My own position is narrower. I don’t use tarot to call anyone, at Samhain or on any other night, because with spirits you don’t know who you’re calling. And when a reading in October feels heavier, I look first at the person in front of me: the dark coming at five, the anniversary they haven’t mentioned, the year catching up with them. Sometimes it’s grief, and sometimes it’s [a door that belongs to a therapist rather than to me](/disclaimers/#therapy).
 
 There is a veil in the deck: behind the High Priestess, between her two pillars, embroidered with pomegranates. She doesn’t lift it; she sits in front of it, calm, knowing more than she says. A better model for October than any summoning — more on [what the veil means in tarot](/library/tarot-symbols/veil/).
 

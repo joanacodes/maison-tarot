@@ -43,7 +43,7 @@ The honest answer is the short one: “Then that one’s a miss.”
 
 After the reading, open your notebook. Two columns: what I said, what was confirmed. For this one, the right-hand column reads “no — on her own all month”. Mark it as a miss.
 
-Counting is what turns “I think this works” into “I know when it works”. I kept that notebook for my readings for strangers, and the one-in-ten figure comes from it: a manual tally, not a study. The format is in [how I keep a reading notebook](/blog/tarot-journal/).
+Writing it down is the difference between believing the method works and knowing when it does. I kept that notebook for my readings for strangers, and the one-in-ten figure comes from it: a manual tally, not a study. The format is in [how I keep a reading notebook](/blog/tarot-journal/).
 
 If the person writes days later to say something did happen, my suggestion is to add a new line with the date rather than rewrite the first. My very first reading for a stranger went that way: a miss on the day, and three or four days later a text to say all of it had happened. Both things are true, and a notebook should be able to show both.
 
@@ -53,15 +53,15 @@ A reader who never misses is a reader who never says anything specific. “Chang
 
 Misses also teach you, once you have a few. Read back over a month of them and they tend to cluster: timing, perhaps, or one kind of question, or readings done late when you were tired. That pattern is worth more than any meaning learned by heart. Sometimes what goes wrong is the timing or the interpretation more than the message itself — I tell the story that taught me that in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/).
 
-And misses tell you when to stop. Two or three in a row usually means you’re tired, not that the deck has turned against you. I sometimes stop after two hours of readings, out of caution, and I’d suggest the same.
+And misses tell you when to stop. Two or three in a row usually means you’re tired, not that the deck has turned against you. Stopping is allowed: I sometimes do after two hours, out of caution, and I’d suggest the same.
 
-A miss is a miss. It isn’t a failure, and it isn’t a secret.
+A miss isn’t a failure, and it isn’t a secret.
 
 ## If you were the one being read {#if-you-were-read}
 
 If someone read for you and it didn’t fit, you’re allowed to say so, and you’re allowed to leave it there. You don’t owe the reader a match, and you don’t need a second reading to cancel out the first.
 
-A good reader will thank you for it. If a reader insists you’ll understand later, or offers a paid session to “go deeper” into what didn’t land, that’s worth noticing. Either way, [tarot is not an authority](/blog/tarot-is-not-an-authority/): act on what you feel, not on what was said.
+A good reader will thank you for it. If a reader insists you’ll understand later, or offers a paid session to “go deeper” into what didn’t land, that’s worth noticing. Either way, [tarot is not an authority](/blog/tarot-is-not-an-authority/): your own sense of what fits counts for more than anything a reader said.
 
 ## Try it at your next reading {#next-step}
 

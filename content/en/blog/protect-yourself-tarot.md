@@ -49,7 +49,7 @@ None of this needs equipment:
 4. At the end, stand up, drink a glass of water, open a window.
 5. Before the next person, check again: is what I’m feeling mine?
 
-If sitting still with your breath feels impossible, that’s a skill too, and it can be learned; I wrote about [meditation for people who think they can’t](/blog/meditation-for-beginners/). Go slowly with all of it. As I say about developing your senses: don’t go too high too fast, or you might not find your way back home.
+If sitting still with your breath feels impossible, that’s a skill too, and it can be learned; I wrote about [meditation for people who think they can’t](/blog/meditation-for-beginners/). Go slowly with all of it, as with developing your senses: small steps keep the way back in sight.
 
 ## Staying calm: the emotions aren’t yours {#staying-calm}
 
@@ -59,7 +59,7 @@ A calm reader is also a kinder one. When you flinch at a card, the person reads 
 
 Protection works in the other direction too. Ask permission before you read anyone: reading someone who hasn’t agreed is like walking into their bedroom and opening the drawers. The basics are in [how to read tarot for someone else](/blog/read-tarot-for-someone-else/).
 
-And if what worries you is spirits rather than emotions: not everything is about spirits. Most of what a reader feels during a reading is human, and comes from the person across the table. Reading tarot doesn’t require calling on anyone, and I don’t use the cards that way, partly because with spirits, you don’t know who you’re calling.
+And if what worries you is spirits rather than emotions: most of what a reader feels during a reading is human, and comes from the person across the table. Reading tarot doesn’t require calling on anyone, and I don’t use the cards that way, partly because with spirits, you don’t know who you’re calling.
 
 ## What to try at your next reading {#next-step}
 

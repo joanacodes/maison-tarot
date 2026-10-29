@@ -19,7 +19,7 @@ In love, the Star is hope after a hard time — the quiet, steady kind, not the 
 
 The Star is 17, and 1 + 7 = 8. In my notes, eight is lasting stability, and a gate between the tangible and the intangible. The woman on the card pours from two jugs, one onto the land and one into the pool. In love, that’s the practical and the emotional fed at the same time: the dinner cooked and the feeling said. It’s not a bad description of a relationship that works.
 
-The element is Air, the mind and decision, and it tells you something surprising about this card: its hope isn’t a mood. It’s chosen. The water is poured, measured, directed.
+The element is Air, the mind and decision, and it tells you something surprising about this card: its hope isn’t a mood. It’s chosen. Nothing spills by accident: she aims each jug.
 
 The energy is feminine: patience, softness, the intangible. The Star doesn’t push anyone anywhere; it kneels and pours. She’s also naked, which for love isn’t about seduction. It’s about being seen without armour. [The Star’s card page](/library/tarot-cards/the-star/) reads the other lenses, Aquarius included.
 

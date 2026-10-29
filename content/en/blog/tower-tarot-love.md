@@ -37,7 +37,7 @@ After a break-up, the Tower is often the moment you understood. Or the collapse 
 
 People bring this card with fear in their voice: are we going to make it? Is this the end? It’s a natural thing to ask. When the ground moves, you want someone to tell you where it will settle.
 
-I don’t read on that question, and here’s why. Whether a relationship survives a shock depends on two people, their choices over the next weeks and months, and a lot of things neither of them knows yet. The other person isn’t in the room. A card can’t answer for them, and a reading that pretends to will only add a second shock to the first.
+No card can settle that one, and I’d rather tell you why than pretend. Whether a relationship survives a shock depends on two people, their choices over the next weeks and months, and a lot of things neither of them knows yet. The other person isn’t in the room. A card can’t answer for them, and a reading that pretends to will only add a second shock to the first.
 
 A gentler question: “What has this shown me that I didn’t want to see?” And then: “What do I need this week to feel steady?” Those you can answer. They also lead, quite naturally, to the conversation that will decide the rest — the one with the other person, not with a deck.
 
@@ -52,7 +52,7 @@ This is the part of the title that matters most. The card can’t tell you what 
 3. Make two lists: what fell, and what is still standing. There’s usually more on the second list than you expect.
 4. Talk when the fire is down. A conversation held three days later says more than one shouted at midnight.
 5. If you’re ever afraid of someone, that isn’t a question for a card. Tell someone you trust, and reach for a professional or a support line: in the UK, the National Domestic Abuse Helpline on 0808 2000 247 is free and answers day and night; in France, the 3919 is free and anonymous. If you’re in danger right now, call your local emergency number (999 in the UK, 17 or 112 in France). The cards can hold what you feel; they can’t keep you safe.
-6. Put the deck down for a while. Pulling a card every hour after a shock is the shock talking. Take a break from your cards now and then — especially now.
+6. Put the deck down for a while. Pulling a card every hour after a shock is the shock talking.
 
 ## What the cards around it say about the fall {#around-the-fall}
 

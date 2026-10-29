@@ -21,7 +21,7 @@ The little book in the box gives each card a few keywords, and the first instinc
 
 ### 2. Waiting to feel gifted
 
-Plenty of beginners wait for a sign that they're “one of those people”. There are no Chosen Ones. Every person I've helped read managed it within one to three tries, once they stopped trying to be right. It's like drawing: some people have more talent, and anyone who practises can do it. Whatever you're waiting to feel, you're more likely to feel it after the first card than before.
+Plenty of beginners wait for a sign that they're “one of those people”. No such group exists. Among the people I've helped, the third try was the latest anyone needed, once they stopped trying to be right. Talent varies, as it does with drawing; practice is what makes the reader. Whatever you're waiting to feel, you're more likely to feel it after the first card than before.
 
 ### 3. Buying the ritual before learning the deck
 
@@ -65,7 +65,7 @@ Someone asks about a scan, a pregnancy, a court date, or whether to put their sa
 
 ### 11. Keeping no notes — and rescuing the misses
 
-Without a notebook, you remember the readings that landed and forget the rest. Write the date, the cards, what you said and what was confirmed — [a reading notebook](/blog/tarot-journal/) can be a school exercise book. When something doesn't land, write “miss”. A miss is a miss: no extra card to rescue it, no “it'll make sense later”. By my own count, about one reading in ten still misses for me.
+Without a notebook, you remember the readings that landed and forget the rest. Write the date, the cards, what you said and what was confirmed — [a reading notebook](/blog/tarot-journal/) can be a school exercise book. When something doesn't land, write “miss”, and leave it there: no extra card to rescue it, no “it'll make sense later”. Even now, roughly one of my readings in ten ends up with that word next to it.
 
 ### 12. Pulling cards every hour
 

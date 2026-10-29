@@ -23,7 +23,7 @@ Say you turn over the Six of Cups for a friend: two children in a courtyard, one
 
 Because it sounds like you, it’s tempting to throw it away, or to suspect you invented it. There are ways to [tell reading from making it up](/blog/am-i-making-it-up-tarot/), and none of them happen in the moment: they happen afterwards, when you check.
 
-The cards help in a modest way. They give your eyes somewhere to rest, so your own thoughts and assumptions step aside long enough for something else to come through. With practice, the word can come before you’ve even shuffled. I noted that in my first full year of reading, and I’ve put [that line from my 2021 notes](/blog/what-i-believed-about-tarot/) in context elsewhere.
+The cards’ own part is a small one. They give your eyes somewhere to rest, so your own thoughts and assumptions step aside long enough for something else to come through. With practice, the word can come before you’ve even shuffled. I noted that in my first full year of reading, and I’ve put [that line from my 2021 notes](/blog/what-i-believed-about-tarot/) in context elsewhere.
 
 ## Sometimes it’s an emotion that isn’t yours {#not-yours}
 
@@ -41,7 +41,7 @@ That is where it needs care. If you start crying the other person’s tears, you
 2. Slow down. Keep your voice level and your words plain. “There’s a lot of emotion around this” helps the person; a running commentary on what’s happening in your chest doesn’t.
 3. Listen to the emotion without letting it take over. It’s information about the reading, not an instruction.
 4. If it’s too much, stop. You can always finish another day, and nobody is owed a reading at your expense.
-5. Afterwards, rest. Interpreting takes energy, and you can feel very tired after a reading; listen to your body. I sometimes stop after two hours of readings, out of caution. There’s more on [feeling drained after a reading](/blog/energy-after-tarot-reading/) and what helps.
+5. Afterwards, rest. Interpreting takes energy, and you can feel very tired after a reading; listen to your body. There’s more on [feeling drained after a reading](/blog/energy-after-tarot-reading/) and what helps.
 
 None of this is proven. It’s my experience, and the hypothesis I make from it.
 
@@ -57,7 +57,7 @@ If none of this has happened to you yet, that’s where almost everyone starts. 
 
 You can’t be told what it’s like. You can only try.
 
-1. Find someone who will tell you nothing: no question, no context.
+1. Find someone willing to sit down without saying why.
 2. Draw one card.
 3. Tell yourself the sentence from [my method for beginners](/blog/how-to-read-tarot-beginners/): *I’m about to talk nonsense.*
 4. Say what you see and whatever turns up, word or image, even if it seems random.

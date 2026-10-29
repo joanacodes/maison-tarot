@@ -51,7 +51,7 @@ These models leave room for a handful of familiar moves:
 
 At the far end, the “more” turns out to be a curse that needs lifting, and that’s [a script of its own](/blog/lift-the-curse-scam/).
 
-There’s a quieter move too: what happens after a miss. By my count, about one reading in ten misses, and when one of mine does, I say so and stop there. In a model paid by the question, a miss is also a reason to sell another: rephrase it, add a card, try the extended version. A miss is a miss. It doesn’t need a follow-up you pay for.
+There’s a quieter move too: what happens after a miss. When one of my readings misses — and some do — I say so and stop there. In a model paid by the question, a miss is also a reason to sell another: rephrase it, add a card, try the extended version. A miss needs no follow-up you pay for.
 
 Asking the same question again and again belongs here too. The answer rarely changes; the worry does. I’ve written about [what repeat readings do to you](/blog/ask-tarot-the-same-question-twice/), and why the kindest thing is sometimes to stop asking for a while.
 
@@ -60,7 +60,7 @@ Asking the same question again and again belongs here too. The answer rarely cha
 1. Ask for the total, not the unit price: how much for everything you’re about to buy?
 2. Know what you’ll receive, in what form, and when.
 3. For a subscription, note the renewal date and price, and find the cancel button before you subscribe.
-4. Ask what the reader doesn’t read on. “Nothing” is an answer.
+4. Find out which subjects the reader leaves alone. “None” is an answer.
 5. Set your own ceiling for the month, and stop when you reach it.
 
 ## How to cancel {#how-to-cancel}

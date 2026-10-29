@@ -63,6 +63,6 @@ The honest limit: a spread doesn’t lift a heavy mood. If the dark weeks weigh 
 
 ## Start on the longest night {#start}
 
-Choose your five evenings, put the deck somewhere you’ll see it, and draw the first card on the solstice. Read it for five minutes, write three lines, and leave the rest for the next evening. You can’t be told what it’s like. You can only try.
+Choose your five evenings, put the deck somewhere you’ll see it, and draw the first card on the solstice. Read it for five minutes, write three lines, and leave the rest for the next evening.
 
 Then, when the year turns, the [New Year spread](/blog/new-year-tarot-spread/) is waiting, with a card for each month ahead.

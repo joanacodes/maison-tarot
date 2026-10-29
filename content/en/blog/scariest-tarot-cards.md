@@ -49,7 +49,7 @@ Say someone tells me nothing and draws the Tower next to the Eight of Pentacles.
 
 Fifteen reduces to six, the number of the Lovers, and the drawing echoes theirs: two people, a larger figure above. [The Devil](/library/tarot-cards/the-devil/) is a bond that has turned into attachment — to a job, a person, a habit, money, a screen. Earth and Capricorn make it material and stubborn. Capricorn’s verb is “I use” — and here, what you use has started using you.
 
-Now look at the chains. They hang loosely around the necks; the two could lift them off. That’s the card’s plus, and it’s a big one: it shows you the chain. The Devil isn’t evil and isn’t a curse; it’s a picture of what holds you. The cards themselves can hold you too. If the Devil came up for someone who had been drawing every morning for months, I wouldn’t read a curse; I’d ask, gently, whether the deck had become one of the chains. Take a break from your cards now and then. In a relationship that chain is attachment; at work, a job that holds you.
+Now look at the chains. They hang loosely around the necks; the two could lift them off. That’s the card’s plus, and it’s a big one: it shows you the chain. The Devil isn’t evil and isn’t a curse; it’s a picture of what holds you. The cards themselves can hold you too. If the Devil came up for someone who had been drawing every morning for months, I wouldn’t read a curse; I’d ask, gently, whether the deck had become one of the chains. In a relationship that chain is attachment; at work, a job that holds you.
 
 ## The Ten of Swords: rock bottom, and the dawn behind it {#ten-of-swords}
 

@@ -36,7 +36,7 @@ A few patterns I’d watch for, in yourself or in a reader:
 - “It’s my sign”, used to skip an apology. [Astrology as an excuse](/blog/astrology-is-not-an-excuse/) is a close cousin of bypassing.
 - Positive thinking used as a lid: repeating that everything is fine so you don’t have to check whether it is. There’s a real difference between [an affirmation and toxic positivity](/blog/affirmations-vs-toxic-positivity/).
 
-There’s a card that pictures this well. The Eight of Swords shows a woman bound and blindfolded, standing among eight swords planted in the ground. In my notes she’s a prisoner of herself while she has every tool she needs to get out: she can take off the blindfold.
+There’s a card that pictures this well. In the Eight of Swords, a woman stands tied and blindfolded, with eight swords stuck in the ground around her. In my notes she’s a prisoner of herself while she has every tool she needs to get out: she can take off the blindfold.
 
 {{< cards "sw08" >}}
 
@@ -65,7 +65,7 @@ Gently, and roughly in this order:
 
 1. Say the plain sentence before you shuffle: “I’m sad.” “I’m angry.” “I’m scared of deciding.” If you can say it, you may not need the cards for this one.
 2. Ask about yourself, not about the situation or the other person.
-3. Be as gentle and tolerant with yourself as you are with others. That line is from my own notes on shadow work, and it’s the one I come back to most.
-4. When it’s heavier than cards can hold, open another door. Not everything is about spirits: sometimes it’s psychological, and a therapist is the right person. [I say where that door is](/disclaimers/#therapy), and seeing one isn’t your practice failing.
+3. Treat yourself with the patience you’d give a friend. That idea comes from my own notes on shadow work, and it’s the one I come back to most.
+4. When it’s heavier than cards can hold, open another door. If what you’re carrying is psychological, a therapist is the right person. [I say where that door is](/disclaimers/#therapy), and seeing one isn’t your practice failing.
 
 If you want somewhere to start, [shadow work for beginners](/blog/shadow-work-beginners/) starts with one card, a few honest questions and a notebook, aimed at the thing you’ve been walking around.

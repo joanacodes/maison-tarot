@@ -40,7 +40,7 @@ These are the words of the cards and of the reading itself. Words like empath, s
 16. **Cut** — to split the deck into piles and restack them before drawing, sometimes done by the person being read. Example: three piles, put back in a different order.
 17. **Reversed card** — a card that comes out upside down. Some readers give it its own meaning, others turn it back. Example: an upside-down Sun. On this site, a reversed card is read as the same card, slowed down or in excess.
 18. **Significator** — a card chosen to represent the person before the reading starts, often a court card. Example: a Queen of Wands set in the middle for someone fiery. I read without one, and [here's why](/blog/significator-card/).
-19. **Clarifier** — an extra card drawn to explain one that confuses you. Example: a puzzling Moon followed by a "clarifying" Two of Swords. I don't use them. If a reading doesn't land, a miss is a miss, and a fourth card only muddies it.
+19. **Clarifier** — an extra card drawn to explain one that confuses you. Example: a puzzling Moon followed by a "clarifying" Two of Swords. I don't use them. If a reading doesn't land, I call it a miss, and a fourth card would only muddy it.
 20. **Jumper** — a card that falls out of the deck while you shuffle. Some readers treat it as a message; others put it back. Example: the Ace of Cups slipping to the floor mid-shuffle. Neither choice is a rule.
 
 ## The way of reading {#the-practice}

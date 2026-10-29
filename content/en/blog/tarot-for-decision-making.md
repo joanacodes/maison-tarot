@@ -11,7 +11,7 @@ imageAlt: "A hand holding a pen above an open notebook, a single card face up be
 imagePrompt: "A hand holding a pen above an open notebook on a kitchen table, a single tarot card face up beside it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Tarot can help you make a decision without making it for you. Used well, the cards lay out what pulls you each way, what you’re afraid of and how you’re deciding — with your head, your heart, your stubbornness or your impatience. Then you close the deck and choose. Write down what you’d pick before you draw, read the cards for what they show about you rather than the outcome, and leave money, health and legal decisions to the people trained for them. The decision, and the muscle that makes it, stay yours."
 ---
-Tarot can help you see a decision more clearly, and it should stop there. The cards lay out what’s around the choice — what pulls you, what scares you, what you already know — and the choosing stays with you. I read; you decide.
+Tarot can help you see a decision more clearly, and it should stop there. The cards lay out what’s around the choice — what pulls you, what scares you, what you already know — and the choosing stays with you.
 
 That isn’t modesty. It’s the condition for the cards being useful at all.
 
@@ -29,9 +29,9 @@ Now notice your body. Which card made your shoulders drop, and which made your j
 
 ## Why I don’t let the cards decide {#why-not}
 
-Because [tarot is not an authority](/disclaimers/#readings). Act on what you feel, not on what a card said.
+Because [tarot is not an authority](/disclaimers/#readings): what you feel about the options outranks anything printed on cardboard.
 
-There’s also a plain numbers reason. By my own count, about one reading in ten misses. If you hand your decision to the cards, you accept a one-in-ten chance that the hand steering your life is wrong — and you won’t know which time it is.
+There’s also a plain numbers reason: my own readings miss about once in every ten. If you hand your decision to the cards, you accept a one-in-ten chance that the hand steering your life is wrong — and you won’t know which time it is.
 
 And there’s the reason that matters most. Deciding is a muscle. Every time a deck does the lifting, it gets weaker, and the next decision feels heavier, so you reach for the deck again. That loop is how a helpful tool turns into a habit that feeds doubt; I wrote about it in [why you should quit tarot reading for a while](/blog/why-you-should-quit-tarot-reading/).
 

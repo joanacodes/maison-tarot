@@ -11,7 +11,7 @@ imageAlt: "A hand writing in an open notebook beside a single face-up card on a 
 imagePrompt: "A hand writing in an open notebook beside a single face-up tarot card on a kitchen table, a mug at the edge of the frame. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Tarot is not an authority. A reading can put words on something you hadn’t said, show you an angle you’d missed, or confirm what you already knew. It can’t decide for you, and it shouldn’t: readings miss — about one in ten of mine did, by my own count — the same card reads differently on different days, and the reader is human. So act on what you feel, not on what a card said. Use the reading as a question to check against your gut; when the two disagree, go with your gut and write down what happens."
 ---
-A tarot reading is not an instruction. It can show you something you hadn’t put into words; what you do next is yours. So my position fits in one line: act on what you feel, not on what a card said.
+A tarot reading is not an instruction. It can show you something you hadn’t put into words; what you do next is yours. So my position fits in one line: your feelings get the last word, not the card.
 
 ## What ‘tarot is not an authority’ means {#what-it-means}
 
@@ -27,7 +27,7 @@ Say someone has a job offer they quietly want, draws the Tower, and turns the of
 
 Three reasons, all of them ordinary.
 
-Readings miss. By my own count, about one in ten of mine didn’t hold, and I’ve published [how I counted, misses included](/blog/does-tarot-work-300-readings/). One in ten is a good rate for a conversation. It’s a poor rate for handing over your life.
+Readings miss. In my own notebook, about one in ten didn’t hold, and I’ve published [how I counted, misses included](/blog/does-tarot-work-300-readings/). One in ten is a good rate for a conversation. It’s a poor rate for handing over your life.
 
 Images move. The same card can read differently from one person to the next, and from one day to the next for the same person. A Tower on a calm Tuesday and a Tower after a sleepless night won’t say the same thing, and neither is a ruling.
 
@@ -53,7 +53,7 @@ There’s a card I like for this. In my notes, the Wheel of Fortune isn’t luck
 
 {{< cards "ar10 ar04" >}}
 
-A reading should never become your Emperor. And when [the Wheel of Fortune](/library/tarot-cards/wheel-of-fortune/) comes up while you’re waiting for the cards to decide, I read it as a nudge back to you: the wheel has a handle, and it’s on your side. Cards aren’t magic, you are.
+A reading should never become your Emperor. And when [the Wheel of Fortune](/library/tarot-cards/wheel-of-fortune/) comes up while you’re waiting for the cards to decide, I read it as a nudge back to you: the wheel has a handle, and it’s on your side.
 
 ## When you start asking before every choice {#dependency}
 

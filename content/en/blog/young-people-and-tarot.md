@@ -55,9 +55,9 @@ Keeping a hand on the wheel. Drawing a card is doing something when you feel you
 
 Not rules; a few landmarks.
 
-1. You don't need a gift. Anyone can learn to read, and everyone I've helped managed it between the first and third try. Cards aren't magic; you are.
+1. You don't need a gift. Anyone can learn to read, and everyone I've helped managed it between the first and third try.
 2. Tarot isn't an authority. If a reading tells you to stay and you feel you should go, listen to what you feel.
-3. Drawing every hour isn't tarot any more; it's looking for validation outside yourself. Take a break — I explain why in [why you should quit tarot reading, for a while](/blog/why-you-should-quit-tarot-reading/).
+3. Drawing every hour isn't tarot any more; it's looking for validation outside yourself. Give the deck a rest — I explain why in [why you should quit tarot reading, for a while](/blog/why-you-should-quit-tarot-reading/).
 4. Be wary of paid readings "via the link in bio", of curses to lift, of "he's coming back" sold to thousands of strangers at once. [The nine red flags of a fake reader](/blog/how-to-spot-a-fake-tarot-reader/) catch almost all of them.
 5. Some questions have another door. Your health belongs with a doctor; what weighs too much, for too long, deserves [a therapist](/disclaimers/#therapy). The cards can keep you company while you wait; they don't replace those appointments.
 6. Keep a notebook: on the left what you saw in the cards, on the right what actually happened. It's the best cure for both gullibility and cynicism, and you'll soon know when you're reading well.

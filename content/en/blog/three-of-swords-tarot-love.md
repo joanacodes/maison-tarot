@@ -45,7 +45,7 @@ Reversed, it’s the hurt held in: no rain, no words, “I’m fine”. Or the w
 
 This is the question people bring to the Three of Swords most often, in one form or another: did they ever love me, is there someone else, was any of it real? It comes from the rawest part of a heartbreak, and it deserves a gentle answer.
 
-I don’t read on it, and here’s why. The other person isn’t in the room and hasn’t agreed to be read. You wouldn’t want someone snooping in your bedroom; reading someone without their consent is much the same. And a card asked about someone else’s heart answers with your fear, so you leave with the same hurt and a picture to go with it.
+It’s a question I keep away from the cards, for a few reasons. The other person isn’t in the room and hasn’t agreed to be read. You wouldn’t want someone snooping in your bedroom; reading someone without their consent is much the same. And a card asked about someone else’s heart answers with your fear, so you leave with the same hurt and a picture to go with it.
 
 A gentler question: “What hurt me, and what do I need to say about it?” If something doesn’t add up, the place for it is a conversation with them, or with a friend who knows you both — not a spread.
 

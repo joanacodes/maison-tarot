@@ -23,7 +23,7 @@ Waiting is hard in a particular way: nothing you do seems to change the outcome,
 
 ## Why the cards aren’t the right tool for this question {#why-not}
 
-By my own count, about one reading in ten misses. On most subjects a miss costs an evening of doubt and a line in my notebook. Here, a wrong “yes” can cost months of hope, and a wrong “no” can cost a grief that didn’t need to happen. That’s too much weight for a card to carry.
+My readings miss sometimes, and I keep count. On most subjects a miss costs an evening of doubt and a line in my notebook. Here, a wrong “yes” can cost months of hope, and a wrong “no” can cost a grief that didn’t need to happen. That’s too much weight for a card to carry.
 
 “When will I be pregnant?” is also a timing question in its purest form, and [timing is the weak spot of any reading](/blog/tarot-timing/). A reading can describe a mood or a movement; it can’t give you a month.
 
@@ -42,7 +42,7 @@ Some gentler questions to bring to the cards, or to a notebook:
 3. What am I carrying alone that I could share?
 4. What is mine, outside of this, that I want to keep looking after?
 
-I have more of these in [kinder questions to ask tarot](/blog/questions-to-avoid-asking-tarot/). And if you’ve been drawing cards about it every morning, I’d gently suggest putting the deck in a drawer for a while. Take a break from your cards now and then; the waiting is heavy enough without a daily verdict.
+I have more of these in [kinder questions to ask tarot](/blog/questions-to-avoid-asking-tarot/). And if you’ve been drawing cards about it every morning, I’d gently suggest putting the deck in a drawer for a while: the waiting is heavy enough without a daily verdict.
 
 ## Who can really help {#who-to-see}
 

@@ -54,5 +54,3 @@ That’s the one thing I’d keep from the old belief: give a deck to someone wh
 ## A note to put in the parcel {#the-note}
 
 Write one suggestion on the gift tag: “Draw one card tomorrow morning and describe what you see before you look anything up.” That’s a better start than any ritual, and the first week with a deck can follow the plan in [how to get to know a new tarot deck](/blog/new-tarot-deck/).
-
-And if you want a line to finish the card with: cards aren’t magic, you are.

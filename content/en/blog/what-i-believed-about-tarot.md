@@ -19,7 +19,7 @@ My friends gave me my first deck that Christmas, from my wishlist. I’d been ex
 
 My first reading was accurate. I hadn’t trained for it.
 
-What I’d add now is what that meant, and what it didn’t. It wasn’t proof of anything about me. Since then I’ve made friends and family try, and every single person I’ve helped to read managed it on the first, second or third try. Reading is like art: some people have more talent, and anyone who practises can do it. The only practice is letting go.
+What I’d add now is what that meant, and what it didn’t. It wasn’t proof of anything about me. Since then I’ve made friends and family try, and all of them said something true within three attempts. Some arrive with more flair, as in any art; everyone else gets there by practising.
 
 **That first reading told me something about reading, not about me.** It’s why I hand back [the compliment “you have a gift”](/blog/you-have-a-gift/), and why the [learn path](/learn-tarot/) has you read a card on day one instead of testing your talent.
 
@@ -27,7 +27,7 @@ What I’d add now is what that meant, and what it didn’t. It wasn’t proof o
 
 That’s a line from my 2021 notes. The more I read, the more messages came before I’d even shuffled, and I was using the cards mostly because the person in front of me wanted to see them.
 
-The idea underneath it is one I teach. **Cards aren’t magic, you are.** They’re a medium that helps you let go and read what’s around you, or around someone. What comes, comes from you, not from the cardboard.
+The idea underneath it is one I teach. The cards are a medium, something that helps you let go long enough to notice what surrounds you or another person. **What comes, comes from you, not from the cardboard.**
 
 But the same notes give the cards a job, even when the message arrives first. They help you focus, or unfocus, so your own thoughts and biases step aside for a moment. And the person gets something to look at: a picture they can hold my words up against, instead of taking my word for it.
 
@@ -35,7 +35,7 @@ If you’re starting out, please don’t read that 2021 sentence as a goal. It d
 
 ## Sage, candles and ‘channelled’ cards {#props}
 
-In 2021 I also sold sage, candles and “channelled” cards. I stopped. Nothing in any of it improved a reading.
+In 2021 I also sold sage, candles and “channelled” cards. I stopped. Not one of those products made my readings any better.
 
 It’s worth seeing why that kind of thing sells so well. A prop promises to do the hard part for you: clear the deck, set the mood, bring the message. But the hard part is the letting go, and nobody can sell you that.
 
@@ -53,7 +53,7 @@ What I hold now is narrower than either. A chart can be worth reading, and it is
 
 ## What I hold most firmly now: misses count {#misses}
 
-About one reading in ten misses, by my own count, and I say so. No reframing, no extra card to rescue it.
+My notebook counts a miss in roughly every ten readings, and I say so out loud. No reframing, no extra card to rescue it.
 
 [My first reading for a stranger](/blog/first-tarot-reading-story/) shows what makes that hard to hold: on the day it was a miss, and three or four days later she texted me that everything had happened.
 

@@ -17,7 +17,7 @@ The sentence I said out loud wasn’t about a card. It was about a friend’s bi
 
 I should be precise, because the title says “reading”: this one wasn’t tarot. It was astrology.
 
-I came to astrology to mock it. I put a video on, read my own chart, and it was too precise. So I tested it, box by box: every placement, a tick or a cross. Then I did the same for my family, my friends, strangers — and for a friend I admired. The whole method and its numbers are in [how I tested my birth chart](/blog/i-tested-my-birth-chart/): overall, 30 to 40% held; Saturn, Lilith and Chiron held 75 to 90%.
+I first watched an astrology video to make fun of it, and my own chart came out uncomfortably precise. So I tested it, box by box: every placement, a tick or a cross. Then I did the same for my family, my friends, strangers — and for a friend I admired. The whole method and its numbers are in [how I tested my birth chart](/blog/i-tested-my-birth-chart/): overall, 30 to 40% held; Saturn, Lilith and Chiron held 75 to 90%.
 
 His chart was on point. It was also harsh.
 
@@ -59,7 +59,7 @@ Not a full yes, and I think that’s the most honest answer he could have given.
 
 It’s also a reminder of how to count. If you keep a notebook of what you said and what was confirmed, “in a way” stays “in a way”. You don’t upgrade it to a hit because the moment felt important, and you don’t throw it away because it wasn’t complete.
 
-That’s what the shape of the sentence protects: the hard part gets said, and nobody is made smaller. I read; you decide. He decided how much of that sentence was his, and that was the right person to decide it.
+That’s what the shape of the sentence protects: the hard part gets said, and nobody is made smaller. He decided how much of that sentence was his, and that was the right person to decide it.
 
 ## How to say a hard thing kindly {#how-to}
 

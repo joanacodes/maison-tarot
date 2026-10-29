@@ -27,7 +27,7 @@ It cannot tell you why you feel what you feel. When a reader says "the cards sho
 
 It cannot hold a crisis. Someone in acute distress — not sad, not stuck, but in the place where the ground has gone — does not need a picture. They need a person trained to be there, and possibly a doctor. A reading in that state does one of two things: it lands and makes everything heavier, or it misses and confirms that nothing helps. I've seen both. I don't do it any more.
 
-It cannot replace a diagnosis, a medication, or a professional. Not everything is about spirits; sometimes it's psychological, sometimes it's more, and the honest reader knows where their competence ends. Mine ends at the picture.
+It cannot replace a diagnosis, a medication, or a professional. Sometimes what's underneath is psychological, sometimes it's more, and the honest reader knows where their competence ends. Mine ends at the picture.
 
 ## The people I don't read for {#who-i-dont-read}
 

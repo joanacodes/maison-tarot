@@ -27,7 +27,7 @@ Being grounded means being able to come back to ordinary life after whatever you
 
 Say every late train becomes a sign, every disagreement a test, every tired evening a message. Nothing is allowed to be only what it is. That's exhausting to live in, and it leaves no room for the plainest explanation, which is often the right one.
 
-Not everything is about spirits. Sometimes it's psychological, sometimes more than that, and then the right door is [a therapist's](/disclaimers/#therapy), not a circle's. The advice I give about developing your senses holds here too: don't go too high too fast, or you might not find your way back home. Start slowly and build up.
+When the signs are really a mind under strain, or something heavier, the right door is [a therapist's](/disclaimers/#therapy), not a circle's. The advice I give about developing your senses holds here too: build up slowly, and never lose the road back to ordinary life.
 
 My own version of grounded is modest. When there's a noise in my place at night, I let it be; I wrote about [how I stopped being afraid of the dark](/blog/afraid-of-the-dark/).
 

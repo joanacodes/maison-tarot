@@ -27,7 +27,7 @@ Three reasons, all practical.
 
 The first is that a card isn’t a switch. The Four of Wands has a number, an element, colours, people, a garland. Calling it “yes” is like reading the first word of a letter and throwing the rest away.
 
-The second is that a verdict moves the decision onto cardboard. [Tarot is not an authority](/disclaimers/#readings): a reading describes a moment, and you’re the one who lives with the choice. That’s the deal at every reading I give — I read; you decide. A yes-or-no quietly turns it round.
+The second is that a verdict moves the decision onto cardboard. A card [carries no authority](/disclaimers/#readings): a reading describes a moment, and you’re the one who lives with the choice. That’s the deal at every reading I give, and a yes-or-no quietly turns it round.
 
 The third is the reshuffle. Notice what you would do with a no. **If a no would make you shuffle again, the answer you were hoping for is already your answer.** You didn’t need the card for that, and you’ll trust it more coming from you.
 

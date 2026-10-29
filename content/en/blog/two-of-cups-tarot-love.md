@@ -47,11 +47,11 @@ My [very first reading for a stranger](/blog/first-tarot-reading-story/) is a go
 
 {{< cards "ar06 ar01 sw03" >}}
 
-Next to the Lovers, the bond becomes a choice, and a choice commits you more than a mood does; [the Lovers in love](/blog/lovers-tarot-love/) is about making it freely. Next to the Magician, a first move has been answered: one person spoke, the other raised their cup. Next to the Three of Swords, the bond is real and something has cut into it — a word, a third person, a hurt nobody has talked about. Or, as I noted for that card, a blood pact: two people closer because they went through the hurt together.
+Next to the Lovers, the bond becomes a choice, and a choice commits you more than a mood does; [the Lovers in love](/blog/lovers-tarot-love/) is about making it freely. Next to the Magician, a first move has been answered: one person spoke, the other raised their cup. Beside the Three of Swords, a real bond has taken a wound: something said, someone else, a hurt left unspoken. Or, as I noted for that card, a blood pact: two people closer because they went through the hurt together.
 
 ## When one cup sits lower {#lower-cup}
 
-Reversed, the cups don’t quite meet. One person gives more than the other; a bond is cooling; a commitment was made before anyone read the contract.
+Reversed, the exchange goes lopsided. In a couple, that’s one partner doing most of the giving, affection cooling, or a promise signed before anyone read the small print.
 
 Often it’s quieter than a crisis. One of you wants to move in, the other thought things were fine as they were. Nobody broke the contract; nobody re-read it either. Or two people who still care each wait for the other to take the first step — number two’s stubbornness in its purest form. The card doesn’t say who should move. It asks whether you’re waiting for something you could do yourself.
 

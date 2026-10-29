@@ -65,6 +65,6 @@ Once you have your three, I like adding Jupiter: its sign and its house.
 
 Most astrology books call Jupiter the planet of expansion and luck. In my notes, its house and its sign show your biggest struggles. One way to hold both: the place where you’re asked to grow is rarely the comfortable one. Say Jupiter sits in your seventh house, partners and one-to-one relationships: that’s where I’d look first for the lessons that keep coming back.
 
-I want to be clear on this one. Jupiter wasn’t part of my tested numbers: the 30 to 40% overall, and the 75 to 90% for Saturn, Lilith and Chiron, don’t cover it. It’s a habit of mine, not a result. Don’t take my words as ultimate truth. Test it and experience it for yourself.
+I want to be clear on this one. Jupiter wasn’t part of my tested numbers: the 30 to 40% overall, and the 75 to 90% for Saturn, Lilith and Chiron, don’t cover it. It’s a habit of mine, not a result.
 
 So here’s the next step. Write your three signs on a piece of paper, then Jupiter’s sign and house. Tick or cross each one, as honestly as you would for a stranger, the way I did when I [tested my birth chart](/blog/i-tested-my-birth-chart/). Then show it to someone who knows you well and let them tick too.

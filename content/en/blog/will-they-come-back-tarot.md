@@ -63,8 +63,8 @@ Neither card says whether anyone is coming back. Together they say something you
 1. Put your phone face down for an evening. Not forever; for an evening.
 2. If you want to use your cards, draw one, about you. Write down what you see before you decide what it means.
 3. Tell one person you trust, out loud, how you feel.
-4. If the pain stays heavy for weeks, or it’s reaching your sleep and your work, a therapist is a better door than a deck. That isn’t your cards failing; it’s the right tool for the job.
+4. If the pain stays heavy for weeks, or it’s reaching your sleep and your work, a therapist is a better door than a deck. Going there doesn’t mean your cards failed; it’s the right tool for the job.
 
-And whatever a reading says, yours or mine, [a card is not an authority](/blog/tarot-is-not-an-authority/). I read; you decide.
+And whatever a reading says, yours or mine, [a card is not an authority](/blog/tarot-is-not-an-authority/).
 
 If you’d like a whole spread built around looking after yourself rather than watching the door, I put one together in [tarot after a breakup](/blog/breakup-tarot-spread/).

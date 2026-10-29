@@ -33,9 +33,9 @@ Shadow work means dealing with the things you keep pushing away so you can get t
 
 A reading can point at the door of that cell. Say the Moon comes up, or the Five of Cups: something isn’t clear, or something lost is still being mourned. The card doesn’t open the door for you; it shows you there’s a door. You have to acknowledge the veil before you can take it off.
 
-It’s hard work, and it’s slow, even if the moment of understanding can be very quick. Can you do it with a therapist? Of course, and you should; a reading can sit beside that work, never replace it. If you want to start gently, [shadow work for beginners](/blog/shadow-work-beginners/) gives you one card to begin with.
+It’s hard work, and it’s slow, even if the moment of understanding can be very quick. A therapist is the right companion for it; a reading can sit beside that work, never replace it. If you want to start gently, [shadow work for beginners](/blog/shadow-work-beginners/) gives you one card to begin with.
 
-And be as gentle and tolerant with yourself as you are with others. That part matters more than any card.
+And give yourself the kindness you’d give anyone else doing this work. That part matters more than any card.
 
 ## When to wait {#when-to-wait}
 
@@ -62,4 +62,4 @@ But the date matters much less than the state you arrive in. A calm Tuesday beat
 4. You’re ready to hear “that’s a miss” and not ask again.
 5. You plan to make the decision yourself afterwards.
 
-Four out of five, and it’s a good time. Take a break from your cards now and then; when you come back, you’ll hear them better. I don’t sell readings; I give them away at the [free events](/events/), where the people read are drawn at random. Before you come, there’s a short guide to [reading etiquette before, during and after](/blog/tarot-reading-etiquette/).
+Four out of five, and it’s a good time. Fewer, and it can wait; you’ll hear the cards better for the pause. I don’t sell readings; I give them away at the [free events](/events/), where the people read are drawn at random. Before you come, there’s a short guide to [reading etiquette before, during and after](/blog/tarot-reading-etiquette/).

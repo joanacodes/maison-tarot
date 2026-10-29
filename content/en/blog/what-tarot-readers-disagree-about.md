@@ -51,14 +51,14 @@ Where I stand: AI is a good dictionary and a poor reader. Ask it why the High Pr
 
 ## Set spreads or free spreads {#spreads}
 
-Some readers follow set patterns: the Celtic Cross, or a career reading always laid out the same way, with every position fixed in advance. Others follow their intuition and build a new spread for each person. The first camp values structure and the chance to compare readings over time. The second values fit.
+Some readers follow set patterns: the Celtic Cross, or a career reading always laid out the same way, with every position fixed in advance. Others improvise, inventing a layout to fit whoever is sitting in front of them. The first camp values structure and the chance to compare readings over time. The second values fit.
 
 Say someone is torn between two jobs. A set spread might be the Celtic Cross, ten positions decided long before they sat down. A free one might be two columns of three cards, one column per job, invented on the spot. Both can work. The risk on one side is squeezing a person into boxes that don’t fit them; on the other, deciding what a position meant after you’ve seen what landed in it.
 
-Where I stand: both are crafts, and I’ve come to see a spread as closer to art than to a form you fill in. One reader sees one story, another sees a different one, and both can explain why. That’s how two readers can get [different answers from the same cards](/blog/two-readers-different-answers/) without either being wrong. Whichever you choose, decide what each position means before you turn the cards over.
+Where I stand: both are crafts, and I’ve come to see a spread as closer to art than to a form you fill in. That’s how two readers can get [different answers from the same cards](/blog/two-readers-different-answers/) without either being wrong. Whichever you choose, decide what each position means before you turn the cards over.
 
 ## What’s under the debates, and your turn {#your-turn}
 
 Under all six, the readers I respect tend to share a few things. A reading isn’t an order. Nobody is right every time, and saying so is part of the job. The person in front of you matters more than the method. Readers who agree on that can disagree about everything above and still both be worth sitting down with.
 
-As for my positions: don’t take my words as ultimate truth. Test it and experience it for yourself. Pick one debate, try the side you don’t hold for a week, and write down what changes in [your reading notebook](/blog/tarot-journal/). You may end up where I am, or somewhere better.
+As for my positions, they’re one reader’s. Pick one debate, try the side you don’t hold for a week, and write down what changes in [your reading notebook](/blog/tarot-journal/). You may end up where I am, or somewhere better.

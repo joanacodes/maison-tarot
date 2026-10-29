@@ -58,7 +58,7 @@ And reversed doesn’t mean bad. Every card has a plus and a minus, upright as m
 
 1. Before you shuffle, decide: this week, I read reversals.
 2. Give your deck some reversals: turn half of it round, then shuffle as you usually do. [Any shuffle works](/blog/how-to-shuffle-tarot-cards/), as long as you turn cards over the same way each time you lay them.
-3. Draw one card a day. If it’s reversed, read it upright first, then ask: held back, or overflowing?
+3. Each morning, draw a single card. If it’s reversed, read it upright first, then ask: held back, or overflowing?
 4. Write one sentence in your notebook, and in the evening, whether it held.
 5. At the end of the week, compare with a week of upright-only cards.
 

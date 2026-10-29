@@ -59,7 +59,7 @@ Tarot — ideally the Rider-Waite-Smith, where every one of the 78 cards is a sc
 
 An oracle makes a lovely second deck. Some readers draw one oracle card at the end of a tarot spread as a closing note; others keep one for the mornings they don't want to think in numbers. Collecting decks, for me, is like collecting art: each card is a picture through which you can see messages, and that's as true of a beautiful oracle as of a tarot.
 
-What no deck can do is read for you. Cards aren't magic, you are. The reading comes from the person holding the cards, whichever cards they are.
+What no deck can do is read for you. The reading comes from the person holding the cards, whichever cards they are.
 
 ## Is an oracle weaker, or riskier? {#weaker-or-riskier}
 

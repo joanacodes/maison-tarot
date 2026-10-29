@@ -35,7 +35,7 @@ Say you can't decide between two paint colours for your bedroom. You hold the pe
 
 What the pendulum does differently is that it only answers yes or no. It doesn't tell you why, or what else is going on. The usual explanation for its movement is the ideomotor effect: tiny movements of the hand that you make without noticing. That doesn't make it useless — it may be exactly what makes it useful, because it shows you which way your body already leans. It's the same principle as the cards: the tool helps you focus, or unfocus, so your own thoughts step aside.
 
-Keep it for small choices. I read; you decide — and a swinging weight shouldn't decide anything big for you either. That's also why I answer [yes-or-no questions](/blog/yes-or-no-tarot/) differently with tarot, and why health, pregnancy or money decisions are [subjects I don't read on](/disclaimers/#refusals) with any tool.
+Keep it for small choices: a swinging weight shouldn't decide anything big for you, any more than a reader should. That's also why I answer [yes-or-no questions](/blog/yes-or-no-tarot/) differently with tarot, and why health, pregnancy or money decisions are [subjects I don't read on](/disclaimers/#refusals) with any tool.
 
 ## What is the I Ching? {#i-ching}
 
@@ -47,7 +47,7 @@ Yin and yang are close to how I teach [feminine and masculine energies](/library
 
 ## Coffee cups, paintings: you can read in anything {#read-in-anything}
 
-We were all born with our senses. To sharpen them: meditate, read, paint — any meditative art. Then read tarot, coffee cups, even a painting on a museum wall. You can read in anything.
+Reading starts with the senses everyone already has. To sharpen them: meditate, read, paint — any meditative art. Then read tarot, coffee cups, even a painting on a museum wall. You can read in anything.
 
 Coffee cup reading is a good example. After a Turkish coffee, you turn the cup upside down onto its saucer, let it cool, then read the shapes the grounds have left on the sides: a bird, a road, a face. A painting works the same way as a card: colours first, then the figures, then what comes to you. **The tool focuses you; the reading comes from you.** That's why the [colour grid](/library/tarot-colours/) I use on cards works on a canvas too.
 

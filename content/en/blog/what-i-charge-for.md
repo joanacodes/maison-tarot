@@ -41,13 +41,13 @@ Then there’s the person in front of me. When someone brings the same question 
 
 I’ve also tried selling the objects around tarot: sage, candles and “channelled” cards, in 2021. I stopped, for reasons I give in [do you need to cleanse your deck](/blog/cleanse-tarot-deck/).
 
-A lesson works the other way round. Its job is to make you need me less. If you leave a workshop reading a card you’d never seen, it worked. You can’t be told what it’s like; you can only try. Helping you try is something I’m comfortable charging for.
+A lesson works the other way round. Its job is to make you need me less. If you leave a workshop reading a card you’d never seen, it worked. Getting you to that point is something I’m comfortable charging for.
 
 ## Should tarot readers charge money? {#should-readers-charge}
 
-Yes, many can, and honestly. Reading is work. It takes time, attention and practice, and it’s tiring: interpreting takes energy, and after a run of readings I sometimes stop at two hours, out of caution. A reader who asks to be paid for that hour is asking for what any other professional asks.
+Yes, many can, and honestly. Reading is work. It takes time, attention and practice, and it’s tiring: interpreting takes energy. A reader who asks to be paid for that hour is asking for what any other professional asks.
 
-What I’d look at isn’t whether there’s a price, but its shape. A stated price for a stated length of time, with nothing added at the end, is a fair exchange. A “second session” needed because the first ended on a cliffhanger rewards the reader for keeping you uncertain.
+What I’d look at isn’t whether there’s a price, but its shape. A stated price for a stated length of time, and no extras afterwards, is a fair exchange. A “second session” needed because the first ended on a cliffhanger rewards the reader for keeping you uncertain.
 
 So my choice is mine, not a rule for everyone. I sell lessons because that’s the arrangement where my interest and yours point the same way. A reader who charges a fair price, names their misses and steps back from health, death and money questions is doing honest work, and I’d send people to them.
 

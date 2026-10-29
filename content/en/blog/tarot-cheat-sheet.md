@@ -98,7 +98,7 @@ I teach five lenses. The last two refine the picture once the first three come w
 
 They give you the tone, the stage and the area. They don't give you the story. That comes from the scene on the card, from its neighbours in the spread, from what rises when you look — and from the person in front of you saying yes or no.
 
-And no cheat sheet can tell you whether you were right. Don't take my words as ultimate truth. Test it and experience it for yourself.
+And no cheat sheet can tell you whether you were right.
 
 ## Keep it on one page {#one-page}
 

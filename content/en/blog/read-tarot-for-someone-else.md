@@ -63,10 +63,10 @@ When a friend asks about one of those, it’s almost always worry talking. Ackno
 
 Some days you’ll look at the cards and get nothing. It can be your block — too much pressure to get it right, which is common with people you love — or theirs, if part of them is afraid of what they’ll hear. Put the cards down, talk, reassure them. Then try again, or don’t.
 
-If your friend is in real distress, it isn’t a reading night. Make tea, listen, and if it’s more than a bad week, help them find someone trained for it. That isn’t the cards failing; it’s the right door.
+If your friend is in real distress, it isn’t a reading night. Make tea, listen, and if it’s more than a bad week, help them find someone trained for it.
 
 Afterwards you may feel very tired. Interpreting takes energy. Rest.
 
 ## Your next step {#next-step}
 
-This week, ask one friend if they’d like a reading. If they say yes, ask them to tell you nothing, draw three cards, describe before you interpret, and let them speak at the end. If something doesn’t land, [call it a miss and move on](/blog/tarot-reading-wrong/). Then close the reading properly, as I describe in [how to end a tarot reading well](/blog/how-to-end-a-tarot-reading/) — by handing the decision back. I read; you decide.
+This week, ask one friend if they’d like a reading. If they say yes, ask them to tell you nothing, draw three cards, describe before you interpret, and let them speak at the end. If something doesn’t land, [call it a miss and move on](/blog/tarot-reading-wrong/). Then close the reading properly, as I describe in [how to end a tarot reading well](/blog/how-to-end-a-tarot-reading/) — by handing the decision back.

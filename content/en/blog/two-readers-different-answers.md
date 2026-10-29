@@ -59,6 +59,6 @@ Different is fine. A few differences deserve a second look:
 2. Underline what both readers said. Two people who didn’t confer and still overlap are worth more than either alone.
 3. For the rest, ask which sentences you recognise, not which ones you like.
 4. Let go of what didn’t land. A miss doesn’t turn true because someone else said something close to it.
-5. Then decide with your own head. I read; you decide.
+5. Then decide with your own head.
 
 You can see all this from the inside with a friend. Draw three cards, each write a reading without talking, then compare. You’ll be surprised how differently two people look, and how often you still meet in the middle. Readers disagree about plenty beyond this; I go through the big debates, and where I stand, in [what tarot readers disagree about](/blog/what-tarot-readers-disagree-about/).

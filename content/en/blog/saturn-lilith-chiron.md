@@ -21,7 +21,7 @@ Each has its own page in the Library. This one puts them side by side: what each
 
 I printed my chart and went down it like an invoice. Next to each placement — the planet, its sign, its house — I read a plain description and put a tick or a cross.
 
-A tick meant: this fits me in a way I couldn't have written about anyone else. A cross meant: vague, wrong, or true of my neighbour too. “You like to feel appreciated” gets a cross on principle, because everybody does. A miss is a miss, and a flattering line that fits everyone counts as one.
+A tick meant: this fits me in a way I couldn't have written about anyone else. A cross meant: vague, wrong, or true of my neighbour too. “You like to feel appreciated” gets a cross on principle, because everybody does. A flattering line that fits everyone counts as a miss.
 
 **A tick had to be specific enough that it couldn't belong to someone else.**
 

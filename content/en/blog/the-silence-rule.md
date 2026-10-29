@@ -33,7 +33,7 @@ The silence rule takes that tool away from me. What's left is the card, its colo
 
 ## What happened the first time {#first-time}
 
-My very first reading for a stranger happened this way, on a Discord group I'd found through Tumblr. The reading was about a relationship, and showed that she hadn't been kind to the other person; she said it didn't resonate, she wasn't looking for a relationship. Three or four days later she texted me, shocked: everything had happened.
+My very first reading for a stranger happened this way, on a Discord group I'd found through Tumblr. The reading was about a relationship, and showed that she hadn't been kind to the other person; she said it didn't resonate, she wasn't looking for a relationship. Within the week she wrote to me, stunned: all of it had happened.
 
 The lesson isn't that I was right; I could as easily have been wrong. It's that if she'd told me at the start "I'm not looking for a relationship", I would never have said what I said. The silence let me say what came up. [The whole story](/blog/first-tarot-reading-story/) has its own page.
 

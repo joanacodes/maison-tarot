@@ -52,7 +52,7 @@ Here is what I’d suggest instead, in this order.
 2. Match it with a real action. A new lock, a blocked number, a changed password, a neighbour who knows, a conversation you’ve been putting off. If someone is actually threatening you, the police or a lawyer, not a ritual.
 3. Keep the calming habits that cost nothing. If lighting a candle by the door at night helps you sleep, that habit is yours. Nobody needs to sell it to you.
 4. Tell one person. Fear kept secret gets louder.
-5. Notice if the fear has no object. If it’s there every night, in every room, whatever you do, that’s a door for a therapist or a doctor. Not everything is about spirits, and [the therapist’s door](/disclaimers/#therapy) is a good one.
+5. Notice if the fear has no object. If it’s there every night, in every room, whatever you do, it may be asking for [a therapist or a doctor](/disclaimers/#therapy) rather than a spell, and seeing one is a good step.
 
 ## What a reading can hold instead {#what-a-reading-can-hold}
 

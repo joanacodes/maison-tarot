@@ -38,7 +38,7 @@ Not the reading itself, usually. The setting.
 - The connection drops in the middle of a sentence, and the thread goes with it. Say where you were when it comes back, and don’t start again from the top.
 - Someone else is in the room, listening. A person who isn’t alone isn’t really open, and you get half the reading.
 - Someone walks past the camera — a partner, a flatmate — and it’s tempting to read them too. They haven’t asked. I always ask permission before reading anyone, and a screen doesn’t change that.
-- Screens make it tempting to do one reading after another. I sometimes stop after two hours, out of caution, and online is where that limit is easiest to forget.
+- Screens make it tempting to do one reading after another. Out of caution, I sometimes end a session at the two-hour mark, and online is where that limit is easiest to forget.
 - Recording. Ask before you record anything. A reading is personal, even a free one.
 
 ## Group calls and lives {#group-calls}
@@ -50,7 +50,7 @@ At the far end of distance there’s the pick-a-card video, recorded by someone 
 ## How to get a good reading over video {#how-to}
 
 1. Find a quiet room where you’re alone, with headphones if you can.
-2. Tell the reader nothing. Not your question, not your situation.
+2. Keep your question and your circumstances to yourself until the end.
 3. Ask the reader to show you every card, so you see what they see.
 4. Keep a straight face if you can; react at the end.
 5. Write down what was said. Confirmations sometimes come days later.

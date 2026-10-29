@@ -43,7 +43,7 @@ For someone who wants to act, that’s good news. It also means the reading won�
 A spread of minors has more structure than people expect. Each card carries an element, a number and sometimes a rank. Use all three, in this order:
 
 1. Count the suits. Which element leads? Lots of Pentacles is matter and work; lots of Swords, decisions and words; lots of Cups, [feelings and relationships](/blog/lots-of-cups-in-a-reading/); lots of Wands, drive.
-2. Line up the numbers. All low (Ace to Three): something is beginning. All middle (Four to Seven): it’s being tested. All high (Eight to Ten): a stage is closing. The [numerology lens](/library/numerology/) gives you the full 1–10 cycle.
+2. Line up the numbers. All low (Ace to Three): something is beginning. All middle (Four to Seven): it’s being tested. All high (Eight to Ten): a stage is closing. If you’re unsure where a number sits, [the numerology lens](/library/numerology/) walks through all ten.
 3. Look at the court cards. They are people, or ways of behaving: the Page learns, the Knight leaves, the Queen holds, the King decides. [Court cards explained](/blog/court-cards-explained/) covers all sixteen.
 
 Say someone sits down, tells you nothing, and draws the Eight of Pentacles, the Three of Wands and the Page of Swords.

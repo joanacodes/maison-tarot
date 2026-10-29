@@ -67,13 +67,13 @@ And sometimes it’s the other way round: nothing comes at all. In my notes I pu
 
 ## And sometimes it misses {#a-miss}
 
-By my own count, about one reading in ten misses. Not “misses for now”, not “means something you haven’t understood yet”. Misses.
+Some readings don’t hold — around one in every ten of mine. Not “misses for now”, not “means something you haven’t understood yet”. Misses.
 
 With a story like the voice, it’s tempting to rescue it after the fact: there *was* an accident, so it counts. I understand the pull. But to make it count, I’d have to quietly change the question I asked so that the answer fits. I don’t do that with cards either: no clarifier card, no reshuffle, no “the cards meant something deeper”.
 
-Misses aren’t always mysterious, either. Interpreting takes energy, and after a long run of readings you can feel very tired; I sometimes stop after two hours of readings, out of caution. A tired reader is more likely to fill the gaps with guesses. Sometimes the reader is off. Sometimes the person is somewhere else in their head. Sometimes there’s no reason anyone can find.
+Misses aren’t always mysterious, either. Interpreting takes energy, and after a long run of readings you can feel very tired. A tired reader is more likely to fill the gaps with guesses. Sometimes the reader is off. Sometimes the person is somewhere else in their head. Sometimes there’s no reason anyone can find.
 
-A miss is a miss. Saying so, out loud, is what keeps the other nine honest.
+Saying it out loud is what keeps the other nine honest.
 
 If you’ve just had a reading that didn’t hold, I wrote separately about [what to do when a tarot reading is wrong](/blog/tarot-reading-wrong/) — the practical side, for the reader and for the person who was read.
 

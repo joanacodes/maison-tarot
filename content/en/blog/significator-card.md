@@ -58,7 +58,7 @@ Let the shuffle choose it. Draw the first card face up and read it as “how you
 
 Earth, a Knight — Air of Earth in the court system: someone moving at their own steady pace, carefully, not to be hurried. The person now has a card that represents them, and you didn’t choose it. More on this card on its [Library page](/library/tarot-cards/knight-of-pentacles/).
 
-Or keep your usual significator, but count. Note in your notebook which readings used one and which didn’t, and compare after a month. Don’t take my words as ultimate truth. Test it and experience it for yourself.
+Or keep your usual significator, but count. Note in your notebook which readings used one and which didn’t, and compare after a month.
 
 ## Where to go from here {#next-step}
 

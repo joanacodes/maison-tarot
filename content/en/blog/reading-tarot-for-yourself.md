@@ -19,7 +19,7 @@ Yes. Reading for yourself means shuffling, drawing and interpreting cards about 
 
 You may have heard otherwise: that it’s bad luck, that someone else has to shuffle, that you can’t read for yourself because you’re too close. The first two are habits some readers keep, not rules. The third has some truth in it, and the rest of this article is about that truth.
 
-The way in is small. One card a day. Describe what’s on it, what you see, what comes to you. Then three cards, then more. Say you draw the Page of Pentacles on a Tuesday morning: a young man standing in a green field, holding up a single pentacle and looking at it closely. You don’t need a book to say “today, I’m looking carefully at one thing”. That’s a reading. A small one, and yours.
+The way in is small. Start with a single card each morning and put it into plain words: the drawing, the detail that catches you, the feeling it leaves. Spreads can wait until single cards feel familiar. Say you draw the Page of Pentacles on a Tuesday morning: a young man standing in a green field, holding up a single pentacle and looking at it closely. You don’t need a book to say “today, I’m looking carefully at one thing”. That’s a reading. A small one, and yours.
 
 What reading for yourself gives you: practice every day without needing anyone, a way to learn the deck card by card, and — used lightly — a check-up on your own mood and mindset while you keep your feet on the ground. What it doesn’t give you is anyone to tell you that you’re wrong.
 
@@ -81,7 +81,7 @@ Reading for yourself is good practice. It can also turn into a habit that does t
 
 - You’re upset and want the cards to calm you down. You’ll read the upset, not the card.
 - You’ve asked the same question more than twice in a month. That’s no longer reading; it’s waiting for permission. I go into it in [what repeat readings do to you](/blog/ask-tarot-the-same-question-twice/).
-- You’re waiting for a card to make a decision you could make today. Tarot is not an authority. Act on what you feel.
+- You’re waiting for a card to make a decision you could make today. That decision was yours before you shuffled, and it still is.
 - The cards are standing in for a person: a friend you haven’t called, a doctor you haven’t seen, a therapist. Sometimes what’s going on is psychological, and the right door isn’t a deck. There’s no failure in walking through it.
 
 In each case, a few weeks without the cards does more than another draw. You need to trust yourself, make decisions, make mistakes and live with a bit of imperfection — and those muscles only grow when the deck isn’t doing the lifting.
@@ -90,6 +90,6 @@ In each case, a few weeks without the cards does more than another draw. You nee
 
 Reading for yourself teaches you the deck. Reading for someone else teaches you whether you can read. Only another person can sit across the table, keep quiet, and then tell you what landed and what didn’t.
 
-So after a few weeks of one card a morning, find one person: a friend who can keep a straight face, a stranger in a tarot group, a pen pal. Draw one card, say what you see, and let them speak only at the end. The first time you say something true about a person who told you nothing, and you’re as surprised as they are, you’ll understand why I teach this. You can’t be told what it’s like. You can only try.
+So after a few weeks of one card a morning, find one person: a friend who can keep a straight face, a stranger in a tarot group, a pen pal. Draw one card, say what you see, and let them speak only at the end. The first time you say something true about a person who told you nothing, and you’re as surprised as they are, you’ll understand why I teach this.
 
 If you don’t know where to look, here’s [where to find people to read for who’ll tell you nothing](/blog/where-to-find-people-to-read-for/).

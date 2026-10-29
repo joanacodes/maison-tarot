@@ -35,7 +35,7 @@ What strikes me now is how ordinary the ingredients were: a recorded video, a st
 
 Because it often gets used in ways that don’t help the person using it, or the people around them.
 
-- *As a rank.* Some people who call themselves awakened start to feel above everyone else, as if there were a list and they’d made it. There are no Chosen Ones. I wrote about the compliment that tends to come with this in [‘you have a gift’](/blog/you-have-a-gift/).
+- *As a rank.* Some people who call themselves awakened start to feel above everyone else, as if there were a list and they’d made it. There is no such list. I wrote about the compliment that tends to come with this in [‘you have a gift’](/blog/you-have-a-gift/).
 - *As an excuse.* “I’ve outgrown them” can be true. It can also be a way of dropping people, duties or feelings you’d rather not face — which is [spiritual bypassing](/blog/spiritual-bypassing/) under a nicer name.
 - *As a finish line.* As if you wake up once and you’re done. Nobody is done.
 - *As something to sell.* When a turning point becomes a product, the person going through it becomes a customer.
@@ -46,16 +46,16 @@ Because it often gets used in ways that don’t help the person using it, or the
 
 I still use the word for that video. For everything that came after, the phrase in my own notes is plainer: developing your senses. It names a practice rather than a status, it doesn’t rank anyone, and it doesn’t pretend anything is finished.
 
-We were all born with our senses. You develop them by doing things that ask you to let go a little: meditating, reading, painting, any meditative art. Reading tarot, or coffee cups, or even a painting — you can read in anything. None of it is reserved for people who’ve had a dramatic moment.
+Everyone has them to begin with. You develop them by doing things that ask you to let go a little: meditating, reading, painting. Tarot is one more of those practices, and none of them is reserved for people who’ve had a dramatic moment.
 
-And one piece of advice from the same notes, for anyone who feels something opening: don’t go too high too fast, or you might not find your way back home. Start crescendo.
+And one piece of advice from the same notes, for anyone who feels something opening: if you rush upwards, the way back down gets harder to find. Start crescendo.
 
 ## If you think it’s happening to you {#if-its-you}
 
 1. Keep your feet on the ground: sleep, eat, keep a few routines.
 2. Stay close to people who knew you before. They’re your best reality check.
 3. Go slowly with big decisions while everything feels new.
-4. If it becomes frightening, or you stop sleeping, that’s a door for a doctor or a therapist rather than a deck. [Not everything is about spirits](/disclaimers/#therapy), and there’s no shame in the other door.
+4. If it becomes frightening, or you stop sleeping, that’s a door for [a doctor or a therapist](/disclaimers/#therapy) rather than a deck, and there’s no shame in walking through it.
 5. If you want a practice to hold it, start small. [Meditation for people who think they can’t meditate](/blog/meditation-for-beginners/) is where I’d begin.
 
 And if the beginning has made you curious about the cards themselves, [learning to read them](/learn-tarot/) is a grounded way to follow it: one card, one lens, and someone who tells you nothing.

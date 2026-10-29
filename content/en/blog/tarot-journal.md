@@ -35,7 +35,7 @@ A missed entry looks just as plain as a held one. Left: "a move, boxes, a new ci
 
 Write the mark the same evening, while a miss still stings. Then leave a little room in the right column, because confirmation sometimes arrives days later. If it does, add it with its date.
 
-Every ten readings, count. Not to grade yourself, but to see what your misses have in common: a subject, a time of day, a long evening. I sometimes stop after two hours of readings, out of caution, and a notebook is how you find your own limit.
+Every ten readings, count. Not to grade yourself, but to see what your misses have in common: a subject, a time of day, a long evening. A notebook is how you find your own limit.
 
 ## What my notebook says {#what-it-says}
 
@@ -43,8 +43,8 @@ I kept this notebook through about three hundred free blind readings for strange
 
 The percentage isn't what changed me. Three habits did:
 
-1. I expect to talk nonsense. The lower I set the bar, the better the left column reads.
-2. I stop when a reading misses. No second card to rescue it, no reframing. A miss is a miss, and it goes in the notebook.
+1. I go in ready to say nonsense. The lower I set the bar, the better the left column reads.
+2. I stop when a reading misses. No second card to rescue it, no reframing: it goes in the notebook as it is.
 3. I wait for the right column. Some readings only close days later.
 
 ## Logging your daily card {#daily-log}

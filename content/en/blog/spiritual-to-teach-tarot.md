@@ -33,13 +33,13 @@ A student can get there in two minutes, without believing anything about where a
 
 After that, the student adds what comes up: an image, a word, a feeling. That part is personal. It’s where teaching stops and practice begins.
 
-## Cards aren’t magic, you are {#not-magic}
+## A medium, not a source {#not-magic}
 
 Tarot cards are a medium. They help you let go and read what’s around you, or around someone else. What comes out comes from you, not from the cards.
 
-That’s why anyone can learn. Every person I’ve helped to read managed it on the first to third try. It works like art: some people have more talent, and anyone who practises can do it. The only practice is letting go.
+That’s why anyone can learn. Nobody I’ve helped has needed more than three tries to read. It works like art: some start with more talent, but practice gets everyone there. The only practice is letting go.
 
-It also means a teacher hands over nothing mysterious. No initiation, no transmission, no gift passed from one hand to the next — I’ve explained why [nobody needs psychic abilities to read](/blog/do-you-need-psychic-abilities/). I started teaching because of one moment, the one where a friend tries a reading, says something true, and is shocked by what they’ve heard themselves say. That moment can’t be described to anyone. It can only be experienced, and a teacher’s job is to make room for it.
+It also means a teacher hands over nothing mysterious. No initiation, no transmission, no gift passed from one hand to the next — I’ve explained why [nobody needs psychic abilities to read](/blog/do-you-need-psychic-abilities/). I started teaching because of one moment, the one where a friend tries a reading, says something true, and is shocked by what they’ve heard themselves say. A teacher can’t hand that moment over either; the job is to make room for it.
 
 ## For people whose tarot is spiritual {#respect}
 
@@ -54,7 +54,7 @@ Where I draw a line is when spirituality turns into a ladder, with the teacher a
 If you’re thinking of teaching, here’s the list I’d check myself against.
 
 1. A method you can explain in plain words, so that your students won’t need you for long.
-2. A notebook of your own readings: what you said, what was confirmed. About one reading in ten of mine missed, by my own count, and I say so to every student.
+2. A notebook of your own readings: what you said, what was confirmed. Mine has the misses written in, and every student of mine hears the count.
 3. A list of subjects you leave out — health, death, pregnancy, court cases, money decisions, curses, people who aren’t in the room — and the kindness to explain why.
 4. Consent. Ask before reading anyone, and teach your students to ask too.
 5. Three words you’re comfortable saying: “I don’t know.”

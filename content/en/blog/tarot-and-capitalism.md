@@ -17,9 +17,9 @@ No, tarot doesn’t have to be free, and a reader who charges isn’t doing anyt
 
 The idea usually rests on two older beliefs. The first is that reading is a gift, and a gift shouldn’t be sold. The second is that money spoils the reading, as if a price could blur the cards.
 
-I don’t hold either. There’s no gift to sell: anyone can learn to read, and every person I’ve helped managed it within their first three tries. What’s left is a skill, and selling a skill is ordinary.
+I don’t hold either. There’s no gift to sell: anyone can learn to read, and the people I’ve helped all got there by their third try. What’s left is a skill, and selling a skill is ordinary.
 
-As for money spoiling accuracy, I have no evidence of it. My own count — about one reading in ten misses — comes from readings I gave for free, so free didn’t make me more accurate either.
+As for money spoiling accuracy, I have no evidence of it. My own count of misses — roughly one in ten — comes from readings I gave for free, so free didn’t make me more accurate either.
 
 Under the slogan, though, there’s a fair worry. When people say “it should be free”, they often mean “it shouldn’t profit from people who are scared”. **That part is right, and it’s a question of how a reader charges, not whether.**
 
@@ -61,7 +61,7 @@ I can afford that because lessons pay. Not every reader has that option, and jud
 
 I sell lessons: one-to-one sessions of sixty minutes, and three-hour workshops for twelve people, one lens each. Readings happen at free events, drawn at random, in front of everyone.
 
-The reason is the incentive again. A practice that lives on readings needs people to come back for readings. A practice that lives on teaching needs people to leave knowing more and needing me less. And at a free event, saying “that’s a miss” costs me nothing, so I say it every time. A miss is a miss.
+The reason is the incentive again. If readings paid my rent, I’d depend on people coming back for more of them. Lessons work the other way: they’ve done their job when a student needs me less. And at a free event, saying “that’s a miss” costs me nothing, so I say it every time.
 
 I’ve laid out [what I charge for and what I give away](/blog/what-i-charge-for/) separately, so I won’t repeat it here. If you’re comparing paid readers instead, [what goes into the price of a reading](/blog/tarot-reading-price/) is the companion to this page.
 

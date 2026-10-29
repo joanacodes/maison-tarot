@@ -9,7 +9,7 @@ tags: ["tarot readers community", "tarot for experienced readers", "tarot practi
 image: "covers/tarot-readers-community.jpg"
 imageAlt: "A long wooden table with chairs pulled out, card decks and notebooks left at different places as if people had just stepped away"
 imagePrompt: "A long wooden table with several chairs pulled out, card decks and open notebooks left at different places as if people had just stepped away. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Maison Tarot is written so that a beginner can start from nothing, but much of it is for people who already read. The free Library gives you lenses — colours, elements, numbers, energies, modes — to lay over cards you think you know. The method gives you something to measure yourself against: tell me nothing, a notebook, misses counted. Workshops end with a blind reading in front of others, and free events let you watch readings happen or sit in the other chair. There’s no forum, no membership and no ranks among readers."
+summary: "Maison Tarot is written so that a beginner can start from nothing, but much of it is for people who already read. The free Library gives you lenses — colours, elements, numbers, energies, modes — to lay over cards you think you know. The method gives you something to measure yourself against: the silence rule, a notebook, misses counted. Workshops end with a blind reading in front of others, and free events let you watch readings happen or sit in the other chair. There’s no forum, no membership and no ranks among readers."
 ---
 Maison Tarot is written so that someone curious can start from nothing, but much of it is for people who already read. There's no forum here and no membership. There's a free Library, a method you can measure yourself against, workshops where you read blind in front of others, and events where readings happen in the open.
 
@@ -17,7 +17,7 @@ Maison Tarot is written so that someone curious can start from nothing, but much
 
 If you've been reading for a while, you probably don't need another list of meanings. What helps at that stage is usually something else: a fresh way into cards you think you know, a way to find out how often you're right, and people in front of whom you can try.
 
-That's what this place is built around. It's also worth saying what it isn't. There are no levels, no certificates and no ranks among readers, and nobody here holds the ultimate truth. If you're after a diploma or a path into selling readings, Maison Tarot won't give you that: I teach reading, not the business of it.
+That's what this place is built around. It's also worth saying what it isn't. There are no levels, no certificates and no ranks among readers, and nobody here has the final word. If you're after a diploma or a path into selling readings, Maison Tarot won't give you that: I teach reading, not the business of it.
 
 ## The Library: a second way into cards you know {#library}
 
@@ -33,7 +33,7 @@ For someone who learnt meanings by heart, the lenses are a second way in. Take t
 
 The [method](/method/) is the part experienced readers tend to argue with, and that's fine. It comes down to three habits. The person tells me nothing first. Before I read, I tell myself I'm about to talk nonsense, which keeps my ego quiet. And I keep a notebook in two columns: what I said, what was confirmed.
 
-By my own count, about nine readings in ten held and one in ten missed, and I publish the misses with the hits. What I'd offer a reader who already reads isn't my number, though; it's the notebook. Keep one for a month and you'll know your own rate, which is worth more to you than mine.
+My notebook says about nine readings in ten held, and I publish the misses with the hits. What I'd offer a reader who already reads isn't my number, though; it's the notebook. Keep one for a month and you'll know your own rate, which is worth more to you than mine.
 
 ## Workshops and sessions: reading blind, with someone checking {#workshops}
 
@@ -41,7 +41,7 @@ A [workshop](/workshops/) is three hours, twelve people at most, and one lens. Y
 
 For a beginner, that last exercise is a first. For a reader, it's practice under a little pressure, with up to eleven other people who can tell you what landed and what didn't. Giving that kind of feedback is a skill of its own, and I've written about [how to give feedback to another reader kindly](/blog/feedback-to-tarot-reader/).
 
-Sessions work the same way, one to one: an hour by video, you read first, I read after, and we compare. I teach because of one moment, when someone says something true and is shocked by what they've just said. You can't be told what it's like. You can only try.
+Sessions work the same way, one to one: an hour by video, you read first, I read after, and we compare. I teach because of one moment, when someone says something true and is shocked by what they've just said.
 
 ## Events: where readings happen in the open {#events}
 
@@ -51,7 +51,7 @@ For a reader, watching teaches as much as reading. You see someone handle a hard
 
 ## How I learnt, and why this place looks the way it does {#when-i-started}
 
-I started reading on 26 December 2020, with a deck my friends had given me. My first reading was accurate, which surprised me; I'd expected to need training first. Within a few months I was reading for strangers: in a Discord group I'd found through Tumblr, in Facebook tarot groups, and by letter on a pen-pal app. [Where to find people to read for](/blog/where-to-find-people-to-read-for/) has the practical side of that.
+I started reading on 26 December 2020, with a deck my friends had given me. To my surprise, that very first reading was accurate; I'd expected to need training first. Within a few months I was reading for strangers: in a Discord group I'd found through Tumblr, in Facebook tarot groups, and by letter on a pen-pal app. [Where to find people to read for](/blog/where-to-find-people-to-read-for/) has the practical side of that.
 
 I learnt by reading for people who told me nothing and writing down what held. Most of what Maison Tarot offers readers is that same set-up, gathered in one place: strangers who say nothing first at the events, a notebook to count in, and a room of other readers at a workshop who can tell you what landed.
 

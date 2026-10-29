@@ -37,9 +37,9 @@ Four cards, one [number 5](/library/numerology/number-5/): conflict, the test, m
 
 ## Read things that aren’t cards {#read-anything}
 
-You can read in anything: a painting, a photograph in a newspaper, coffee grounds at the bottom of a cup. The cards are one surface among many.
+A painting, a photograph in a newspaper, coffee grounds at the bottom of a cup: all of them can be read. The cards are one surface among many.
 
-Stand in front of a painting, or open a magazine at a photo you’ve never seen. Read it the way you’d read a card. Which colour dominates? Is the figure showing itself or hiding? Acting or waiting? Then say, in one sentence, what the scene is about.
+Stand in front of a painting, or open a magazine at a photo you’ve never seen. Read it the way you’d read a card. Which colour dominates? Is the person in it turned towards you or away? Acting or waiting? Then say, in one sentence, what the scene is about.
 
 This trains the same muscle without the comfort of a card name you half remember. If you can read a stranger’s painting, a Rider-Waite-Smith card will feel generous.
 
@@ -51,7 +51,7 @@ Ask about today, not about the big decisions. Tarot isn’t an authority: if you
 
 Don’t draw again because you didn’t like the answer. The second card is a negotiation, not a reading.
 
-And don’t pull twenty times a day. If you catch yourself reaching for the deck every hour, it’s no longer practice; it’s a search for reassurance. Take a break from your cards now and then.
+And don’t pull twenty times a day. If you catch yourself reaching for the deck every hour, it’s no longer practice; it’s a search for reassurance.
 
 ## Keep a notebook, even with nobody to check {#notebook}
 

@@ -57,4 +57,4 @@ A good app shows you the lightning, the crown knocked from the top, the two figu
 
 ## What I’d use instead, mostly {#what-id-use}
 
-An app does what a deck and a notebook already do, with more distractions. One card a day, drawn by hand, described in your own words and checked in the evening, is [the daily practice I’d recommend](/blog/one-card-tarot-pull/). Write it in a [reading notebook](/blog/tarot-journal/) and you’ll keep a record nobody else holds. Cards aren’t magic, you are. If you’d like to learn to read without a screen in between, [start here](/learn-tarot/).
+An app does what a deck and a notebook already do, with more distractions. One card a day, drawn by hand, described in your own words and checked in the evening, is [the daily practice I’d recommend](/blog/one-card-tarot-pull/). Write it in a [reading notebook](/blog/tarot-journal/) and you’ll keep a record nobody else holds. If you’d like to learn to read without a screen in between, [start here](/learn-tarot/).

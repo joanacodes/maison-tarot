@@ -23,7 +23,7 @@ Say you draw the Eight of Swords. A book will tell you something like restrictio
 
 {{< cards "sw08" >}}
 
-The cards help, but they aren't the source. Cards aren't magic; you are. They're a medium that lets your usual thoughts and assumptions step aside long enough for you to notice what you'd otherwise talk over.
+The cards help, but they aren't the source. They're a medium that lets your usual thoughts and assumptions step aside long enough for you to notice what you'd otherwise talk over.
 
 ## How to let go when you read {#letting-go}
 
@@ -44,21 +44,21 @@ Sometimes you look at the cards and see nothing at all. In my experience it come
 
 In both cases, talk. Put the cards down for a moment and reassure them — about the reading, not about their question, which you still don't need to know. Reassure yourself too. A reading that starts after two minutes of ordinary warmth often goes better than one forced in a tense silence.
 
-Other times something comes and you feel you shouldn't say it, or not like that. The person isn't ready, or they're scared, or wary. Adapt your attitude and your words. You don't have to say everything the moment it arrives.
+Other times something comes and you feel you shouldn't say it, or not like that. The person isn't ready, or they're scared, or wary. Then pick your moment and your phrasing. You don't have to say everything the moment it arrives.
 
 ## How to check yourself {#check-yourself}
 
 **Intuition you never check is a guess you never correct.** Three habits keep it honest.
 
 - Read for someone who tells you nothing first. If they've given you their question, you can't tell whether you read them or rephrased them.
-- Keep two columns: what you said, what they confirmed. The [tarot journal](/blog/tarot-journal/) shows how.
-- Count your misses. By my own count, about one reading in ten misses. Those go in the notebook too.
+- Write down what you said and, beside it, what they confirmed. The [tarot journal](/blog/tarot-journal/) shows how.
+- Count your misses, and write them in the notebook too.
 
 The honest limit: a confirmation is still the person's judgement, and people are generous. Checking doesn't prove how intuition works. It shows you when yours is working, which is what a reader needs. If you keep wondering whether you're inventing it all, I've written about [how to tell whether you're making it up](/blog/am-i-making-it-up-tarot/).
 
 ## Go slowly {#go-slowly}
 
-The advice I give most often here is to develop it slowly: one card a day for a while, then three cards, then a person. The [one-card pull](/blog/one-card-tarot-pull/) is built for that first stage. Alongside it, anything meditative trains the same attention: painting, reading, meditation, looking at a picture in a museum and asking what it says. You can read in anything.
+The advice I give most often here is to develop it slowly: one card a day for a while, then three cards, then a person. The [one-card pull](/blog/one-card-tarot-pull/) is built for that first stage. Alongside it, anything meditative trains the same attention: painting, reading, meditation, looking at a picture in a museum and asking what it says.
 
 Reading takes energy. After a session you may feel very tired, because interpreting is work. Listen to your body and rest. I sometimes stop after two hours myself.
 
@@ -66,6 +66,6 @@ Empathy helps — feeling and understanding the other person's emotions — as l
 
 ## Try it this week {#try-it}
 
-Seven mornings, one card each. Write three lines: what's on it, what you see, what you receive. On the eighth day, find one person who'll tell you nothing, read for them, and fill both columns.
+Seven mornings, one card each. Write three lines, following step 2 above. On the eighth day, find one person who'll tell you nothing, read for them, and fill both columns.
 
 If you'd like company for the first try, every [workshop](/workshops/) starts with a card in the first ten minutes and the explanation after.

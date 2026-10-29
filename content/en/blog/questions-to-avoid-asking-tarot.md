@@ -17,7 +17,7 @@ I don’t read on health, death, pregnancy, court cases, money decisions, or wha
 
 A card reads a moment, in pictures. It doesn’t diagnose, plead a case, read a contract or see into someone else’s head. Those subjects sit on [the list of what I don’t read](/disclaimers/#refusals), and the reason isn’t prudishness.
 
-The risk isn’t that no card falls. One always does. The risk is what a worried person does with the sentence that comes with it. By my own count, about one reading in ten misses. When the question is “what’s on my mind this week?”, a miss is a shrug. When the question is “is the lump serious?”, a miss can keep someone awake for a month, or make them put off an appointment.
+The risk isn’t that no card falls. One always does. The risk is what a worried person does with the sentence that comes with it. And readings do miss, mine included. When the question is “what’s on my mind this week?”, a miss is a shrug. When the question is “is the lump serious?”, a miss can keep someone awake for a month, or make them put off an appointment.
 
 **The heavier the question, the more a miss costs — and the cards don’t know which questions are heavy.**
 
@@ -69,6 +69,6 @@ The question about an ex has [a whole article of its own](/blog/will-they-come-b
 
 ## The kindest question is sometimes none {#no-question}
 
-When I read for someone, I ask them for one thing: tell me nothing. Not the subject, not the question. Whatever is weighing on a person tends to come up on its own, and when it doesn’t, that’s information too.
+Before a reading, I’d rather not hear the subject or the question. Whatever is weighing on a person tends to come up on its own, and when it doesn’t, that’s information too.
 
 You can try it yourself. Next time something heavy is pressing on you, shuffle without a question, draw one card, and see what it talks about before you decide what it “should” be about. If you want to know why this works better than it sounds, I explain it in [the silence rule](/blog/the-silence-rule/).

@@ -29,7 +29,7 @@ If you’re not sure which one is yours, notice the first thing that happens whe
 
 Take the card, put aside everything you’ve heard about it, and say three things out loud: its number, its element, its dominant colour.
 
-The Ten of Swords, read that way. [Ten](/library/numerology/number-10/) is the transition between two stages, the corridor between two rooms. Swords are [Air](/library/four-elements/air-element/): thinking, decisions, the mind that cuts cleanly and can also go round in circles. The colours: a black sky over the figure, and under it, along the horizon, a band of light.
+The Ten of Swords, read that way. [Ten](/library/numerology/number-10/) closes a cycle, with the next one already in view. Swords are [Air](/library/four-elements/air-element/): thinking, decisions, the mind that cuts cleanly and can also go round in circles. The colours: a black sky over the figure, and under it, along the horizon, a band of light.
 
 Put together: a way of thinking has gone as far as it can go, and it’s over. The worst is already on the ground; the light is at the edge of the picture. **The lenses read the card in front of you, not the one you’ve been told about.**
 

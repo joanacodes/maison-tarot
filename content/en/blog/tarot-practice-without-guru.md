@@ -28,18 +28,18 @@ Two cards hold the risk well. In my notes, the Magician knows how to use everyth
 I keep a short list of three egos you meet in spiritual circles, and they’re worth watching for in yourself too. They’re very human. Most of us brush against one at some point.
 
 - *The saviour.* The one who thinks they’re saving the world. Say a reader sees a stranger’s sad post and messages them unprompted: “I’ve seen something about you, you need a reading.” The intention may be kind. The result is a frightened person who now feels they need that reader.
-- *The chosen one.* The one who believes they belong to a small group with abilities other people don’t have. Picture a teacher who tells students they’re “not ready” for certain cards, or that only a few people can really read. There are no Chosen Ones; anyone can learn.
+- *The chosen one.* The one who believes they belong to a small group with abilities other people don’t have. Picture a teacher who tells students they’re “not ready” for certain cards, or that only a few people can really read. That small group doesn’t exist; anyone can learn.
 - *The “awakened”.* The one who has had an experience that changed them and now feels above ordinary people. Imagine a friend who answers your worry about rent with “you’re still stuck in the material world”, and stops listening.
 
 People usually fall into these after something that mattered: a reading that helped, an experience they can’t explain, a lot of thanks in a short time. Wanting that to have made you special is natural. The way out isn’t shame. It’s noticing, and I’ve written more about the word itself in [‘spiritual awakening’](/blog/spiritual-awakening/).
 
 **Each of these egos puts the reader at the centre; a practice works when the person being read stays there.** It’s also why I keep [a little distance from ‘spiritual’ circles](/blog/spiritual-but-not-in-spiritual-circles/): not from the people, from the ladders.
 
-## I read; you decide {#you-decide}
+## Hand the decision back {#you-decide}
 
-That’s the sentence I hold on to. Tarot is not an authority. A reading can put words on something, show an angle you’d missed, confirm what you already knew. It can’t decide for you, and I’ve written why in [tarot is not an authority](/blog/tarot-is-not-an-authority/).
+A reading can put words on something, show an angle you’d missed, confirm what you already knew. It can’t decide for you, and I’ve written why in [tarot is not an authority](/blog/tarot-is-not-an-authority/).
 
-A guru can’t afford to miss. A reader has to. About one reading in ten of mine missed, by my own count, and I say it out loud when it happens. Saying “that one’s a miss” in front of someone is one of the best protections against becoming an oracle in their eyes.
+A guru can’t afford to miss. A reader has to. My notebook has its share of misses, and I say each one out loud when it happens. Saying “that one’s a miss” in front of someone is one of the best protections against becoming an oracle in their eyes.
 
 In practice, that means no instructions — no “leave him”, no “take the job”. It means asking questions back: what did you feel when I said that? And it means noticing when someone comes back with the same question as last week, and kindly suggesting [a break from readings](/blog/why-you-should-quit-tarot-reading/) instead of another one.
 
@@ -57,7 +57,7 @@ So I point to the right door — a doctor, a lawyer, a therapist — without mak
 2. Ask the person to tell you nothing first, so you can’t mistake their story for your reading.
 3. Keep a notebook: what you said, what was confirmed. Count the misses and say them.
 4. Teach the method rather than selling answers. It’s why I sell lessons and give readings away for free at events.
-5. Stop when you’re tired. I sometimes stop after two hours of readings, out of caution.
+5. Stop when you’re tired.
 6. Hand the compliments back. When someone tells you you’re special, [hand it back gently](/blog/you-have-a-gift/): it was their reading too.
 
 ## Where to start {#start}

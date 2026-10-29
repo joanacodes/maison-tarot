@@ -29,8 +29,6 @@ You remember the card that means something to you and forget the twenty that cam
 
 The test is to count. Write down every card you draw for a month, with the date, in a notebook — the same habit I describe in [keeping a tarot journal](/blog/tarot-journal/). At the end, look at the real tally. Sometimes the card you were sure was haunting you came up twice, like several others you never noticed. Sometimes it really did come up more often than the rest. Either way, you’ll know instead of feeling it.
 
-Don’t take my words as ultimate truth. Test it and experience it for yourself.
-
 ## The third explanation: a theme you’re circling {#a-theme}
 
 Sometimes a card keeps coming because what it describes keeps being true. Not a spirit knocking on the door — a question you haven’t answered yet.
