@@ -1,7 +1,7 @@
 ---
 title: 'Gémeaux en astrologie et au tarot : sa carte (Les Amoureux), son énergie,
   son archétype'
-description: 'Le signe du Gémeaux lu comme une clé de lecture du tarot : sa carte
+description: 'Le signe des Gémeaux lu comme une clé de lecture du tarot : sa carte
   Les Amoureux, son verbe « Je pense », Mercure, Air, mode mutable, énergie masculine.
   Communication, échanges, relais, connexion.'
 translationKey: sign-gemini
@@ -24,7 +24,7 @@ related:
 - /bibliotheque/modes-astrologiques/mutable
 - /bibliotheque/astrologie/mercure
 faq:
-- q: Quelle carte de tarot correspond au Gémeaux ?
+- q: Quelle carte de tarot correspond aux Gémeaux ?
   a: 'Les Amoureux. Ce sont les occultistes anglais de la Golden Dawn qui ont fait
     le lien, et le jeu de 1909 l’a gardé : deux personnages, un ange au-dessus d’eux,
     une carte de choix et d’échange — le terrain du signe de la communication.'

@@ -1,7 +1,7 @@
 ---
 title: 'Poissons en astrologie et au tarot : sa carte (La Lune), son énergie, son
   archétype'
-description: 'Le signe du Poissons lu comme une clé de lecture du tarot : sa carte
+description: 'Le signe des Poissons lu comme une clé de lecture du tarot : sa carte
   La Lune, son verbe « Je crois », Neptune, Eau, mode mutable, énergie féminine. Calme,
   concentration, sagesse, écoute, émotion, aide — et l’étrange, le mystérieux, l’isolement.'
 translationKey: sign-pisces
@@ -25,7 +25,7 @@ related:
 - /bibliotheque/modes-astrologiques/mutable
 - /bibliotheque/astrologie/neptune
 faq:
-- q: Quelle carte de tarot correspond au Poissons ?
+- q: Quelle carte de tarot correspond aux Poissons ?
   a: 'La Lune, attribuée par la Golden Dawn au dernier signe du zodiaque. La
     correspondance parle d’elle-même : la carte montre ce qui remue
     sous l’eau, là où vit le poisson.'
@@ -65,13 +65,13 @@ gallery:
 
 ## Ce que fait cette énergie {#energie}
 
-Un poisson vit dans l’eau, pas sur terre à respirer de l’oxygène : dans un environnement où les humains ne peuvent pas vivre. C’est ce qu’il faut comprendre du Poissons — la plus calme des énergies du zodiaque, solitaire et sociale à la fois. Vue de l’extérieur, la surface est immobile ; dessous, le monde foisonne de vie et de créatures. Cette énergie est sage au sens précis où elle sait se garder : elle ne dira rien tant que la conversation ne le mérite pas, et parlera quand c’est nécessaire. Son opinion est rare, donc de qualité. Le risque est que la surface finisse par tout cacher : l’effacement, puis la profondeur qui ne remonte plus.
+Un poisson vit dans l’eau, pas sur terre à respirer de l’oxygène : dans un environnement où les humains ne peuvent pas vivre. C’est ce qu’il faut comprendre des Poissons — la plus calme des énergies du zodiaque, solitaire et sociale à la fois. Vue de l’extérieur, la surface est immobile ; dessous, le monde foisonne de vie et de créatures. Cette énergie est sage au sens précis où elle sait se garder : elle ne dira rien tant que la conversation ne le mérite pas, et parlera quand c’est nécessaire. Son opinion est rare, donc de qualité. Le risque est que la surface finisse par tout cacher : l’effacement, puis la profondeur qui ne remonte plus.
 
 ## Côtés favorables, côtés défavorables {#revers}
 
 **Favorables.** Amicale, à l’écoute, sait se garder : ne dépense pas son énergie dans une conversation inutile, mais donne son avis quand ça compte — et cet avis, rare, est précieux.
 
-**Défavorables.** Dépression, effacement.
+**Défavorables.** L’effacement.
 
 ## L’archétype {#archetype}
 

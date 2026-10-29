@@ -1,7 +1,7 @@
 ---
 title: 'Balance en astrologie et au tarot : sa carte (La Justice), son énergie, son
   archétype'
-description: 'Le signe du Balance lu comme une clé de lecture du tarot : sa carte
+description: 'Le signe de la Balance lu comme une clé de lecture du tarot : sa carte
   La Justice, son verbe « J’équilibre », Vénus, Air, mode cardinal, énergie masculine.
   Diplomatie.'
 translationKey: sign-libra
@@ -24,7 +24,7 @@ related:
 - /bibliotheque/modes-astrologiques/cardinal
 - /bibliotheque/astrologie/venus
 faq:
-- q: Quelle carte de tarot correspond au Balance ?
+- q: Quelle carte de tarot correspond à la Balance ?
   a: 'La Justice, qui siège entre deux piliers en tenant l’épée et la balance : le
     symbole même du signe. C’est l’attribution de la Golden Dawn,
     conservée en 1909, et elle donne une carte d’Air qui pèse avant de trancher.'

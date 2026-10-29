@@ -1,6 +1,6 @@
 ---
 title: 'Vierge en astrologie et au tarot : sa carte (L’Ermite), son énergie, son archétype'
-description: 'Le signe du Vierge lu comme une clé de lecture du tarot : sa carte L’Ermite,
+description: 'Le signe de la Vierge lu comme une clé de lecture du tarot : sa carte L’Ermite,
   son verbe « J’analyse », Mercure, Terre, mode mutable, énergie féminine. Service,
   commerce et communication, pragmatisme.'
 translationKey: sign-virgo
@@ -25,7 +25,7 @@ related:
 - /bibliotheque/modes-astrologiques/mutable
 - /bibliotheque/astrologie/mercure
 faq:
-- q: Quelle carte de tarot correspond au Vierge ?
+- q: Quelle carte de tarot correspond à la Vierge ?
   a: L’Ermite, dans la tradition Golden Dawn reprise par le Rider-Waite-Smith. Quand
     elle sort, le signe donne son verbe, son élément et son mode d’un coup.
 - q: 'Je suis Vierge : est-ce que cette carte est « ma » carte ?'

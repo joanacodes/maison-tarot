@@ -69,7 +69,7 @@ Le noir dit **absence, pensées négatives, faire le vide, réalité**. Une cart
 
 ## Le revers {#revers}
 
-Le noir a un endroit et un envers. À l’endroit, c’est le vide utile — faire de la place, regarder la réalité. À l’envers, c’est le trou où l’énergie disparaît : la dépression, le déni, la Tour qu’on n’a pas vue venir. La carte voisine dit lequel.
+Le noir a un endroit et un envers. À l’endroit, c’est le vide utile — faire de la place, regarder la réalité. À l’envers, c’est le trou où l’énergie disparaît : le déni, la Tour qu’on n’a pas vue venir. La carte voisine dit lequel.
 
 ## Avec les autres clés {#cles}
 
