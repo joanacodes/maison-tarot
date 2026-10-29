@@ -85,6 +85,6 @@ On tire souvent cette carte autour de l’argent : prêter, emprunter, une dette
 
 Admettons que vous battiez les cartes pour une amie, et que le Six de Pentacles sorte avec le [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/) à côté. Six puis quatre : l’élan du 6 — dans mes notes, le nombre où l’on peut enfin se reposer — puis la stabilité du 4. La Terre puis l’Air : quelque chose de donné ou de reçu, puis l’esprit qui se tait. Les dessins : de l’or qui passe d’une main à l’autre, puis une silhouette allongée, immobile, sur un tombeau, sous un vitrail.
 
-L’or qui passe de main en main, puis le gisant ; je résumerais : « Vous avez beaucoup donné — du temps, de l’aide, peut-être de l’argent — et maintenant il vous faut vous arrêter et reprendre votre souffle. »
+Je résumerais la paire pour elle : « Vous avez beaucoup donné — du temps, de l’aide, peut-être de l’argent — et maintenant il vous faut vous arrêter et reprendre votre souffle. »
 
 Je vérifie par une question large : « Est-ce que ça correspond à ces dernières semaines ? » Si c’est oui, je laisse la personne en dire autant ou aussi peu qu’elle le veut. Si ces dernières semaines n’y ressemblent pas du tout, le raté est pour moi, et je l’assume.

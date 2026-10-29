@@ -83,4 +83,4 @@ Posez, pour l’exercice, le Deux de Coupes à côté du [Huit de Pentacles](/fr
 
 Pour le lien et l’établi réunis, je proposerais : « Il y a quelqu’un avec qui vous travaillez bien — un collègue, un associé, peut-être un ami — et ce que vous partagez est en train de devenir quelque chose que vous construisez ensemble. » J’ajouterais que ce n’est pas forcément une histoire d’amour, parce que le Deux de Coupes donne envie à tout le monde d’entendre « amour ».
 
-Puis je vérifie : « Est-ce que quelqu’un vous vient en tête ? » Je laisse la personne répondre, sans lui souffler le prénom. Si aucun prénom ne vient, c’est un raté, consigné comme tel.
+Puis je vérifie : « Est-ce que quelqu’un vous vient en tête ? » Je laisse la personne répondre, sans lui souffler le prénom. Si aucun prénom ne vient, la phrase n’a trouvé personne : c’est noté.

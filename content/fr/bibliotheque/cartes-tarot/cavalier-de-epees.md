@@ -76,4 +76,4 @@ Un cas d’école : la personne en face de vous retourne le Cavalier d’Épées
 
 Le galop qui finit sur un gisant me souffle cette phrase : « Vous foncez sur quelque chose depuis des semaines, et la prochaine étape n’est pas une nouvelle charge : c’est de vous arrêter le temps de reprendre votre souffle. »
 
-Puis vérifiez : « Vous êtes à fond sur quelque chose en ce moment ? » Si oui, demandez ce qui se passerait si la personne levait le pied une semaine. Si non, la charge a visé à côté : notez-le, sans discuter.
+Puis vérifiez : « Vous êtes à fond sur quelque chose en ce moment ? » Si oui, demandez ce qui se passerait si la personne levait le pied une semaine. Si non, la charge n’a rien atteint : notez-le, sans discuter.

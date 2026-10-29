@@ -87,4 +87,4 @@ Voici un tirage fictif de deux cartes, pour quelqu’un que vous venez de rencon
 
 Le jardin savouré, puis le départ sous la lune ; j’en tirerais ceci : « Vous avez construit quelque chose de confortable, et vous avez le droit d’en profiter. Mais une partie de vous enfile déjà son manteau — pas parce que quelque chose ne va pas, mais parce que vous avez fait le tour. »
 
-Puis vérifiez, avec douceur : « Avez-vous l’impression d’avoir fait le tour de quelque chose ? » Sinon, la lecture s’est trompée : reconnaissez-le, sans rien ajouter.
+Puis vérifiez, avec douceur : « Avez-vous l’impression d’avoir fait le tour de quelque chose ? » Sinon, la lecture a fait fausse route : reconnaissez-le, sans rien ajouter.

@@ -52,7 +52,7 @@ Dans l’histoire d’Instagram, le 9, c’est la refonte autour des Reels : ce 
 
 ## Par l’élément : Eau {#element}
 
-La Lune est une carte d’[Eau](/fr/bibliotheque/quatre-elements/element-eau/), l’élément des émotions, des liens et des forces qu’on ne voit pas. Dans mes notes, l’eau transporte qui se laisse porter et engloutit qui se débat. Avec le temps, elle s’infiltre aussi partout : une émotion négligée abîme lentement les fondations, comme l’humidité dans une maison.
+La Lune est une carte d’[Eau](/fr/bibliotheque/quatre-elements/element-eau/), l’élément des émotions, des liens et de ce qui remue sous la surface. Dans mes notes, l’eau transporte qui se laisse porter et engloutit qui se débat. Avec le temps, elle s’infiltre aussi partout : une émotion négligée abîme lentement les fondations, comme l’humidité dans une maison.
 
 L’écrevisse qui sort du bassin, c’est cette émotion qui fait surface. La Lune ne crée pas l’inquiétude ; elle vous en montre une qui était déjà dans l’eau.
 

@@ -15,11 +15,7 @@ energy: Feminine
 kabbalah: ''
 image: cards/cu03.webp
 h1: Three of Cups — <em>three</em>, Water
-lede: 'Before looking up what Three of Cups “means”, look at what you already have:
-  three, the element Water, Mercury in Cancer. You’re reading the card. The number
-  says three — to create, to celebrate, the first result; the element says emotions,
-  what flows. Lay the two over each other, add the colours, and the card is already
-  talking — the rest of the page shows you how.'
+lede: 'Arms linked and cups held high, a trio of young women dances over a harvest of pumpkin and grapes, with nobody watching. Who are the people you raise a glass with?'
 related:
 - /library/numerology
 - /library/four-elements/water-element
@@ -56,19 +52,19 @@ At a party, the advice of [number three](/library/numerology/number-3/) sounds o
 
 [Water](/library/four-elements/water-element/) makes this 3 a matter of the heart rather than the purse: the result being celebrated is emotional. A friendship that has lasted, a reunion, a group that held together through something hard and is now raising a glass to it.
 
-The water is moving — they’re dancing — but it moves together, in a circle. That’s the Water archetype at its best: the warm people you feel at home with. Its shadow isn’t far. When nobody is quite aligned, emotions spill over everyone, and the party becomes the place where it all comes out.
+The water is moving — they’re dancing — but it moves together, in a circle. That’s the Water archetype at its best: people whose company feels like home. Its shadow isn’t far. When nobody is quite aligned, emotions spill over everyone, and the party becomes the place where it all comes out.
 
 ## By colours {#colours}
 
 The pale blue sky frames the scene: emotions, vitality. In the middle, the big [red](/library/tarot-colours/red/) cloak — passion, action, impulse: the energy of the dance. White on the left: innocence, peace. On the right and at their feet, the brown tunic, the orange pumpkin and fruit: in my grid, brown is value earned and worked earth ([gold and brown](/library/tarot-colours/gold-and-brown/)), and orange is creativity. The cups are yellow-gold: joy.
 
-Before the card: joy, movement, warmth, and a harvest on the ground — the celebration of something that grew.
+Joy, movement, warmth, and a harvest on the ground — the celebration of something that grew.
 
 ## By astrology: Mercury in Cancer {#astrology}
 
-In the Golden Dawn tradition, the Three of Cups is the second decan of Cancer, ruled by [Mercury](/library/astrology/mercury/). Cancer is *I feel*, the sign of the home; Mercury brings the words. Together: the conversation of people who feel at home with each other — news shared, stories told, laughter round a table that has lasted all evening.
+[Mercury](/library/astrology/mercury/) rules Cancer’s middle decan, the one this card was given by the Golden Dawn. Cancer is *I feel*, the sign of the home; Mercury brings the words. The two give you the conversation of people who feel at home with each other — news shared, stories told, laughter round a table that has lasted all evening.
 
-Optional, as always: you lose nothing by leaving it aside.
+Leave the planet out and the dance still says it.
 
 ## In a reading {#reading}
 
@@ -84,6 +80,6 @@ Next to the [Three of Swords](/library/tarot-cards/three-of-swords/), you see th
 
 Picture the dancers of the Three of Cups next to the [Three of Pentacles](/library/tarot-cards/three-of-pentacles/), in a spread made up for this page. Two threes: the machine is running, twice. Water then Earth: something felt becoming something built. Colours: the red, white and brown of the dance beside the grey stone of a church, where three people are discussing a piece of work.
 
-The sentence I’d say out loud: “There’s a group of people you love being with, and you’re about to make something with them — a project, an event, maybe a small business.” Then the advice of 3, gently: finish what you start with them before adding the next idea.
+Dancers beside builders, and the sentence follows: “There’s a group of people you love being with, and you’re about to make something with them — a project, an event, maybe a small business.” Then the advice of 3, gently: finish what you start with them before adding the next idea.
 
-To check, I ask who that group might be and let the person answer. If the reply is “I’ve been on my own lately”, that sentence missed, and I write it down as a miss.
+Then I ask who that group might be and let the person answer. If the reply is “I’ve been on my own lately”, that sentence missed, and I write it down as a miss.

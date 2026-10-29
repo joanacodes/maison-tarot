@@ -40,7 +40,7 @@ In astrology, “planets” includes the Sun and the Moon, which astronomers wou
 
 Most charts also show two points I watch closely: Lilith, a calculated point (what you learned to hide), and Chiron, a small body between Saturn and Uranus (the wound you keep circling).
 
-Speed matters. The Moon changes sign every two and a half days, the Sun every month, Jupiter every year, Saturn every two and a half years; Uranus, Neptune and Pluto stay seven years or more. Everyone in your school year shares those slow planets, so they say more about a generation than about you.
+Speed matters. The Moon crosses a sign in two days and a half, the Sun in a month, Jupiter in a year, Saturn in about thirty months; Uranus, Neptune and Pluto stay seven years or more. Everyone in your school year shares those slow planets, so they say more about a generation than about you.
 
 ## The signs: how {#signs}
 
@@ -52,7 +52,7 @@ So Mercury in Gemini thinks out loud and fast; Mercury in Virgo analyses before 
 
 ## The houses: where {#houses}
 
-The houses are twelve slices of the sky, calculated from your birth time and place. Each one is an area of life. The first begins at the rising sign, the sign coming up over the eastern horizon at the minute you were born; I explain it more in [what is my rising sign](/blog/what-is-my-rising-sign/).
+The houses are twelve slices of the sky, calculated from your birth time and place. Each one is an area of life. The first begins at the rising sign, whichever sign the eastern sky was showing on the horizon as you came into the world; I explain it more in [what is my rising sign](/blog/what-is-my-rising-sign/).
 
 | House | Area of life |
 | --- | --- |
@@ -93,4 +93,4 @@ Say someone has the Moon square Saturn. The need for comfort (Moon) and the sens
 
 No birth time? You still get the Sun and the planets in their signs, and usually the Moon. The rising sign and the houses won’t be reliable.
 
-Then don’t read everything at once. Start with three placements: [your Sun, Moon and rising](/blog/sun-moon-rising-big-three/). After that, test it. When I [tested my own chart box by box](/blog/i-tested-my-birth-chart/), 30 to 40% held overall, and [Saturn, Lilith and Chiron](/blog/saturn-lilith-chiron/) held 75 to 90%. A chart is a lens to look through, not a verdict, so print yours, take a pencil, and tick or cross.
+Then don’t read everything at once. Start with three placements: [your Sun, Moon and rising](/blog/sun-moon-rising-big-three/). After that, test it. When I [tested my own chart box by box](/blog/i-tested-my-birth-chart/), 30 to 40% held overall, and [Saturn, Lilith and Chiron](/blog/saturn-lilith-chiron/) were right far more often: 75% at the least, 90% at best. A chart is a lens to look through, not a verdict, so print yours, take a pencil, and tick or cross.

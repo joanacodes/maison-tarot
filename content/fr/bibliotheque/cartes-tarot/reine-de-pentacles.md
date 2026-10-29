@@ -74,6 +74,6 @@ Renversée, son soin s’épuise, ou retient trop. À bout de forces, celle ou c
 
 Exercez-vous sur ce duo : la personne que vous lisez tire la Reine de Pentacles, puis le [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/). Reine puis quatre : la maîtrise intérieure, puis la stabilité — une pause, une structure. Terre puis Air : le soin avec les mains, puis un esprit qui a besoin de s’arrêter. Une reine qui tient sa pièce, puis un gisant en armure, mains jointes, sous trois lames suspendues.
 
-Celle qui nourrit, puis celui qui se repose ; ma phrase : « Vous vous occupez de beaucoup de monde, et vous le faites bien. Ces cartes demandent qui s’occupe de vous — et suggèrent un repos qui ne soit pas une récompense. Un repos, tout court. »
+Ma phrase tiendrait en trois temps : « Vous vous occupez de beaucoup de monde, et vous le faites bien. Ces cartes demandent qui s’occupe de vous — et suggèrent un repos qui ne soit pas une récompense. Un repos, tout court. »
 
 Puis vérifiez : « Est-ce que ça vous ressemble, ou est-ce que ça ressemble à quelqu’un de proche ? » Si la personne ne voit personne de tel, ni en elle ni autour, la phrase n’a pas trouvé preneur ; on s’arrête là.

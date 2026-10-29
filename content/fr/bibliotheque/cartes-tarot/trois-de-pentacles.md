@@ -85,6 +85,6 @@ Si la question derrière la carte est une augmentation ou un devis à accepter, 
 
 Disons qu’une collègue curieuse du tarot tire le Trois de Pentacles et le [Quatre de Coupes](/fr/bibliotheque/cartes-tarot/quatre-de-coupes/). Trois puis quatre : la cadence trouvée, puis la stabilité qui suit. La Terre puis l’Eau : le travail, puis ce qu’on ressent à son sujet. Les dessins : trois personnes autour d’une sculpture dans une église, puis un jeune homme assis sous un arbre, bras croisés, qui ne regarde pas la coupe qu’une main lui tend depuis un nuage.
 
-Le chantier, puis la coupe ignorée ; voici ce que j’en dirais : « Votre travail se passe bien, on compte sur vous, et vous ne ressentez plus rien en le faisant. »
+Voici ce que j’en dirais, sans détour : « Votre travail se passe bien, on compte sur vous, et vous ne ressentez plus rien en le faisant. »
 
 Je vérifie avec la question la plus directe : « Est-ce que le travail ressemble à ça en ce moment — ça va, mais c’est plat ? » Si c’est oui, la suite lui appartient. Si son travail la passionne encore, l’erreur est de mon côté, et je l’inscris au carnet.

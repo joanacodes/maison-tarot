@@ -85,4 +85,4 @@ Prenons un tirage inventé pour l’exercice : la coupe qui déborde de l’As, 
 
 La coupe pleine à côté de la lanterne m’inspire cette phrase : « Cela fait un bon moment que vous menez votre vie de votre côté, peut-être par choix, et quelque chose se rouvre — l’envie d’avoir du monde autour de vous, ou quelqu’un en particulier. »
 
-Ensuite, je vérifie sans orienter : « Quelque chose s’est-il rouvert pour vous, ces temps-ci ? » Si oui, je laisse la personne dire quoi, au lieu de deviner qui. Si non, la lecture est passée à côté, et aucune carte supplémentaire ne viendra la repêcher.
+Ensuite, je vérifie sans orienter : « Quelque chose s’est-il rouvert pour vous, ces temps-ci ? » Si oui, je laisse la personne dire quoi, au lieu de deviner qui. Si non, je l’accepte tel quel, et aucune carte supplémentaire ne viendra repêcher la phrase.

@@ -81,6 +81,6 @@ Si les mauvaises nuits durent depuis des semaines, ou si l’inquiétude envahit
 
 Prenez une élève qui s’entraîne avec vous : elle tire le Neuf d’Épées et, juste à côté, le Six de Coupes. Un neuf puis un six : la fin d’une longue période, puis le repos et l’harmonie. L’Air puis l’Eau : des pensées qui tournent, puis des sentiments qui se posent. Du noir et de l’acier, puis une cour ensoleillée et des coupes remplies de fleurs blanches.
 
-Les épées dans le noir, puis la cour fleurie ; voici la phrase : « Vous avez enchaîné les mauvaises nuits à cause de quelque chose qui vous trotte dans la tête. C’est presque fini, et ce qui vient est plus doux : du temps pour vous, quelque chose du passé qui vous fait du bien. »
+Je m’adresserais à elle ainsi : « Vous avez enchaîné les mauvaises nuits à cause de quelque chose qui vous trotte dans la tête. C’est presque fini, et ce qui vient est plus doux : du temps pour vous, quelque chose du passé qui vous fait du bien. »
 
 Puis vérifiez, doucement : « Vous dormez mal, en ce moment ? » Si la personne dit oui et que ça semble lourd, demandez-lui si elle a quelqu’un à qui parler ; la lecture n’a pas besoin d’aller plus loin. Si elle dort bien, tant mieux : pour une fois, l’erreur est bienvenue.

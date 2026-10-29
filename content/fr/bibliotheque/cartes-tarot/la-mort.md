@@ -15,7 +15,7 @@ energy: Féminine
 kabbalah: Nun
 image: cards/ar13.webp
 h1: La Mort — <em>13</em>, l’Eau
-lede: 'Sur un cheval blanc, un squelette cuirassé de noir avance ; un roi est à terre, un enfant regarde le cavalier sans détourner les yeux. Dans votre vie, qu’est-ce qui est mûr pour la moisson ?'
+lede: 'Sur un cheval blanc, un squelette cuirassé de noir avance ; un roi est à terre, un enfant regarde le cavalier sans détourner les yeux. Dans votre vie, qu’est-ce qui attend la moisson ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-eau
@@ -70,7 +70,7 @@ La Golden Dawn range la Mort sous le [Scorpion](/fr/bibliotheque/astrologie/scor
 
 ## En lecture {#lecture}
 
-À l’endroit, la Mort est une transformation. Un emploi, une relation, une habitude, une version de vous-même arrive à sa fin naturelle. Ma propre note sur cette carte parle de moisson et de recommencement : une personne sans cap, qui voudrait voir sa vie porter de nouveau des fruits. On fauche ce qui est mûr pour pouvoir semer — ce n’est pas un hasard si on l’appelle la Faucheuse. Au tarot de Marseille, c’est l’[arcane sans nom](/fr/blog/arcane-sans-nom-tarot/), la treizième lame, qui ne porte pas de titre.
+À l’endroit, la Mort est une transformation. Un emploi, une relation, une habitude, une version de vous-même arrive à sa fin naturelle. Ma propre note sur cette carte parle de moisson et de recommencement : une personne sans cap, qui voudrait voir sa vie reverdir. On fauche ce qui est mûr pour pouvoir semer — ce n’est pas un hasard si on l’appelle la Faucheuse. Au tarot de Marseille, c’est l’[arcane sans nom](/fr/blog/arcane-sans-nom-tarot/), la treizième lame, qui ne porte pas de titre.
 
 Si vous êtes ici parce que la santé de quelqu’un vous inquiète, je comprends ; le nom de la carte fait cet effet-là. Mais une carte n’annonce ni un décès ni une maladie, et ces questions reviennent à un médecin et aux personnes proches de vous, pas à mes cartes. J’explique pourquoi dans [santé, grossesse, décès : pourquoi je ne lis pas ces questions](/fr/blog/sante-grossesse-deces-tarot/). Ce qu’un tirage peut porter, c’est le changement que vous traversez.
 

@@ -41,7 +41,7 @@ The honest answer is the short one: “Then that one’s a miss.”
 
 ## Write it down {#write-it-down}
 
-After the reading, open your notebook: your sentences go on the left, the person’s answers on the right. For this one, the right-hand column reads “no — on her own all month”. Mark it as a miss.
+After the reading, open your notebook: your sentences go on the left, the person’s replies on the right. For this one, the right-hand column reads “no — on her own all month”. Mark it as a miss.
 
 Writing it down is the difference between believing the method works and knowing when it does. I kept that notebook for my readings for strangers, and the one-in-ten figure comes from it: a manual tally, not a study. The format is in [the reading-notebook guide](/blog/tarot-journal/).
 

@@ -15,11 +15,7 @@ energy: Feminine
 kabbalah: ''
 image: cards/pe02.webp
 h1: Two of Pentacles — <em>two</em>, Earth
-lede: 'Before looking up what Two of Pentacles “means”, look at what you already have:
-  two, the element Earth, Jupiter in Capricorn. You’re reading the card. The number
-  says two — to bind, to weigh, to cooperate; the element says matter, what holds.
-  Lay the two over each other, add the colours, and the card is already talking —
-  the rest of the page shows you how.'
+lede: 'In a towering red hat, a young man dances with a coin in each hand, both caught in a looping green band, as ships climb the waves behind him. How long can you keep everything in the air?'
 related:
 - /library/numerology
 - /library/four-elements/earth-element
@@ -29,7 +25,7 @@ faq:
 - q: What does Two of Pentacles mean?
   a: 'Keeping two things going at once, and managing it: two jobs, two budgets, work and home. The card shows the juggling working; the question it raises is how long it can last.'
 - q: What about Two of Pentacles reversed?
-  a: 'The juggling slips: a coin drops, everything lands on the same day, or the person keeps both moving so as never to choose one. It is the same card, slowed down or in excess.'
+  a: 'The juggling slips: a coin drops, everything lands on the same day, or the person keeps both moving so as never to choose one.'
 categories:
 - Pentacles
 tags:
@@ -50,7 +46,7 @@ Notice what isn’t there: no table to put a coin down, no one to hand one to. *
 
 [Number two](/library/numerology/number-2/) is two parties and the bond between them: a contract, an alliance, a choice being weighed. Here the two parties are two coins — two jobs, two budgets, work and home — and the green band is the bond. They’re tied together: move one and the other moves too.
 
-In my notes, 2 says: read the contract, weigh both sides. The minus of 2 is the mind that insists, stubbornness, solitude — and he is alone, sure he can keep it all going. In the Instagram story, 2 is signing with investors: the first moment there are two things to keep in balance, your idea and someone else’s money.
+In my notes, 2 says: read the contract, weigh both sides. The minus of 2 is the mind that insists, stubbornness, solitude — and he is alone, sure he can keep it all going. When Instagram took on investors — its 2 — there were suddenly two things to keep in balance: the founders’ idea and someone else’s money.
 
 ## By element: Earth {#element}
 
@@ -62,19 +58,19 @@ Earth is also endurance, and the juggler can keep going a long time — that’s
 
 [Red](/library/tarot-colours/red/) dominates the figure: the tall hat, the sleeves, the tights. Passion, action, impulse — a body busy doing something. His tunic is a warmer orange-brown; his shoes and the band are green, the colour of what grows and stays alive. The coins are gold. Behind him, [blue](/library/tarot-colours/blue/) everywhere, in the pale sky and the waves: emotions, water, vitality.
 
-Read the colours before the card: an active body in front of a moving sea. The action is up front. The feeling is behind, and it’s rough.
+An active body in front of a moving sea. The action is up front. The feeling is behind, and it’s rough.
 
 ## By astrology: Jupiter in Capricorn {#astrology}
 
-In the Golden Dawn tradition, the Two of Pentacles is the first decan of Capricorn, given to [Jupiter](/library/astrology/jupiter/). Jupiter wants growth: confidence, luck, and the risk of too much. Capricorn says *I use*: work, structure, pragmatism. Classical astrology places Jupiter in its fall in Capricorn: the planet that wants more, in the sign that counts. That tension is the card — growth kept inside a budget.
+The Golden Dawn assigned this card [Jupiter](/library/astrology/jupiter/) at the threshold of Capricorn, its first decan. Jupiter wants growth: confidence, luck, and the risk of too much. Capricorn says *I use*: work, structure, pragmatism. Classical astrology places Jupiter in its fall in Capricorn: the planet that wants more, in the sign that counts. That tension is the card — growth kept inside a budget.
 
-Optional: the number and the waves have already said most of it.
+Without astrology, the waves behind him have said most of it already.
 
 ## In a reading {#reading}
 
 Upright, the Two of Pentacles is juggling that works: two jobs, two projects, a budget stretched between two needs — and the person keeping it all in the air. Change is moving through, and they adapt. **The card asks how long the juggling can last, not whether the person is good at it — they are.**
 
-Reversed, the band slackens. One coin drops and the other wobbles: a deadline missed, the end of the month arriving early, a day when everything lands at once. Or, in excess, the juggling has become the whole life, and the person keeps both coins moving so they never have to choose one.
+Reversed, the band slackens. One coin drops and the other wobbles: a deadline missed, the end of the month arriving early, a day when everything lands at once. Or the juggling has become the whole life, and the person keeps both coins moving so they never have to choose one.
 
 This card often comes with money worries — which bill first, whether to take on a second job. I don’t read on those decisions; they stay with you, and the figures belong with someone who can see them. What the card can show is how the juggling feels and what it costs you ([reading the Pentacles with your feet on the ground](/blog/tarot-cards-for-money/)).
 
@@ -86,6 +82,6 @@ Next to [Temperance](/library/tarot-cards/temperance/), the juggling calms into 
 
 Here’s an invented reading: the person in front of you draws the Two of Pentacles, then the [Ten of Wands](/library/tarot-cards/ten-of-wands/). Two then ten: a balance being kept, then the end of a cycle, the corridor between two rooms. Earth then Fire: practical life, then energy and drive. The drawings: a body dancing in front of the sea, then a man bent under a bundle of ten wands. In my notes, the Ten of Wands says keep the creative energy — without overloading.
 
-The sentence I’d say out loud: “You’re keeping a lot going and you’re doing it well, but you’re carrying more than you need to, and something will have to be put down soon.”
+Dancing juggler, then a back bent under its load: “You’re keeping a lot going and you’re doing it well, but you’re carrying more than you need to, and something will have to be put down soon.”
 
-To check, I ask: “Is there something in your week you could put down, and haven’t?” If an answer comes straight away, it landed. If the person looks blank, it’s a miss, and I say so.
+Then I hand them one question: “Is there something in your week you could put down, and haven’t?” If an answer comes straight away, it landed. If the person looks blank, it’s a miss, and I say so.

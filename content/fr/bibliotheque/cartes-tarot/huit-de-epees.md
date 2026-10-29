@@ -63,7 +63,7 @@ Le [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) de la robe est ce qu’il y a
 
 ## Par l’astrologie : Jupiter en Gémeaux {#astrologie}
 
-Jupiter gouverne le premier décan des [Gémeaux](/fr/bibliotheque/astrologie/gemeaux/), celui du Huit d’Épées. Les Gémeaux, c’est « je pense ». Jupiter, c’est l’expansion, la confiance, l’excès. Ensemble : des pensées qui enflent plus vite que la situation, un mental qui grossit chaque risque. Sur la carte, toute la force est là, coupée net au niveau des bras. Prenez-la ou laissez-la : les bras ligotés en disent autant.
+Le premier décan des [Gémeaux](/fr/bibliotheque/astrologie/gemeaux/), celui du Huit d’Épées, a Jupiter pour maître. Les Gémeaux, c’est « je pense ». Jupiter, c’est l’expansion, la confiance, l’excès. Ensemble : des pensées qui enflent plus vite que la situation, un mental qui grossit chaque risque. Sur la carte, toute la force est là, coupée net au niveau des bras. Prenez-la ou laissez-la : les bras ligotés en disent autant.
 
 ## En lecture {#lecture}
 
@@ -81,4 +81,4 @@ Considérez une lecture imaginaire où le Huit d’Épées sort à côté du [Va
 
 La cage d’épées et le jeune homme penché sur sa pièce, mis bout à bout : « Vous avez l’impression de ne pas pouvoir bouger d’où vous êtes, et vous vous dites que vous n’en savez pas assez pour partir. Vous en savez plus que vous ne le pensez, et ce qui vous fera sortir, c’est d’apprendre une chose concrète. »
 
-Puis vérifiez : « Avez-vous, en ce moment, l’impression de ne pas pouvoir bouger quelque part dans votre vie ? » Si oui, demandez à la personne ce qui, selon elle, lui manque. Si non, rien ne la retient de ce côté-là ; notez que la phrase n’a pas tenu.
+Puis vérifiez : « Avez-vous, en ce moment, l’impression de ne pas pouvoir bouger quelque part dans votre vie ? » Si oui, demandez à la personne ce qui, selon elle, lui manque. Si non, rien ne la retient de ce côté-là, et c’est ce que vous noterez.

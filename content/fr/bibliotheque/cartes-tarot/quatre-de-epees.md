@@ -59,7 +59,7 @@ Surtout du pâle : des murs blanc cassé et [gris](/fr/bibliotheque/couleurs-tar
 
 ## Par l’astrologie : Jupiter en Balance {#astrologie}
 
-Le Quatre d’Épées relève du troisième décan de la Balance, sous [Jupiter](/fr/bibliotheque/astrologie/jupiter/). Jupiter, c’est l’expansion et la générosité ; la Balance, l’équilibre. Ensemble : un équilibre accordé généreusement — du temps, de l’espace, une trêve assez longue pour récupérer. Le revers de Jupiter, c’est l’excès : un repos qui s’étend jusqu’à devenir de l’évitement. Vous pouvez vous en dispenser : les épées rangées au mur disent déjà la trêve.
+Le Quatre d’Épées relève du troisième décan de la Balance, que gouverne [Jupiter](/fr/bibliotheque/astrologie/jupiter/). Jupiter, c’est l’expansion et la générosité ; la Balance, l’équilibre. Ensemble : un équilibre accordé généreusement — du temps, de l’espace, une trêve assez longue pour récupérer. Le revers de Jupiter, c’est l’excès : un repos qui s’étend jusqu’à devenir de l’évitement. Vous pouvez vous en dispenser : les épées rangées au mur disent déjà la trêve.
 
 ## En lecture {#lecture}
 

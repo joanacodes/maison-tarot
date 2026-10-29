@@ -83,4 +83,4 @@ Représentez-vous les danseuses du Trois de Coupes à côté du [Trois de Pentac
 
 La ronde et le chantier, en une seule phrase : « Il y a un groupe de personnes avec qui vous adorez être, et vous êtes sur le point de faire quelque chose avec elles — un projet, un événement, une association, peut-être une petite entreprise. » Puis le conseil du 3, avec douceur : finissez ce que vous commencez avec elles avant d’ajouter l’idée suivante.
 
-Ensuite, je demande qui pourrait être ce groupe, et je laisse la personne répondre. Si la réponse est « ces temps-ci, je suis plutôt de mon côté », la ronde se dansait sans elle, et je l’inscris dans le carnet.
+Ensuite, je demande qui pourrait être ce groupe, et je laisse la personne répondre. Si la réponse est « ces temps-ci, je suis plutôt de mon côté », la ronde se dansait sans elle, et le carnet le retient.

@@ -47,7 +47,7 @@ Remarquez ce qui manque : une main. Personne ne fait tourner la roue, et il n’
 
 Le [chiffre 10](/fr/bibliotheque/numerologie/chiffre-10/) tient du seuil : ce qui était se termine, ce qui vient n’a pas encore de nom. Il apporte la liberté, le changement, le voyage, une bouffée d’air. Son revers : ça peut être de courte durée, et ça vous dit de commencer autre chose.
 
-Instagram a fini méconnaissable : un cycle bouclé, et le suivant repart à 1. C’est pour ça que la roue est un cercle : le 10 vous ramène au 1.
+Instagram a fini méconnaissable : un cycle bouclé, un autre qui démarre. C’est pour ça que la roue est un cercle : le 10 vous ramène au 1.
 
 ## Par l’élément : Feu {#element}
 

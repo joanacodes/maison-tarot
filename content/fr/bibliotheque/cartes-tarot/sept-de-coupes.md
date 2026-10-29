@@ -63,7 +63,7 @@ Puis les petites touches vives : la lueur rouge autour de la silhouette voilée 
 
 ## Par l’astrologie : Vénus en Scorpion {#astrologie}
 
-Vénus gouverne le troisième décan du Scorpion, et ce décan est celui du Sept de Coupes. [Vénus](/fr/bibliotheque/astrologie/venus/), c’est l’envie et l’attirance ; le [Scorpion](/fr/bibliotheque/astrologie/scorpion/), c’est *Je désire*. Ensemble : le désir au carré — vouloir, vouloir encore, et tout s’imaginer avant que quoi que ce soit n’arrive.
+Le troisième décan du Scorpion, celui du Sept de Coupes, a Vénus pour planète. [Vénus](/fr/bibliotheque/astrologie/venus/), c’est l’envie et l’attirance ; le [Scorpion](/fr/bibliotheque/astrologie/scorpion/), c’est *Je désire*. Ensemble : le désir au carré — vouloir, vouloir encore, et tout s’imaginer avant que quoi que ce soit n’arrive.
 
 Pour qui lit les astres, l’accord est frappant. Les autres n’y perdent rien : la silhouette sombre face à ses visions l’a déjà dit.
 
@@ -81,6 +81,6 @@ Renversé, le Sept de Coupes voit les nuages se dissiper. Soit la personne voit 
 
 Disposez en pensée le Sept de Coupes, puis l’[As d’Épées](/fr/bibliotheque/cartes-tarot/as-de-epees/). Sept puis un : une longue évaluation, puis un début. L’Eau puis l’Air : des envies, puis une décision nette. Les couleurs : les coupes sur leurs nuages gris, puis une seule épée dressée, tenue par une main sortie d’un nuage, une couronne à la pointe.
 
-Les sept visions, puis l’épée unique ; je dirais : « Vous gardez trop d’options en tête depuis un moment, et l’une d’elles va bientôt s’imposer. Il faudra laisser partir les autres. »
+D’où cette phrase : « Vous gardez trop d’options en tête depuis un moment, et l’une d’elles va bientôt s’imposer. Il faudra laisser partir les autres. »
 
-Puis, pour vérifier : « Entre combien de choses hésitez-vous en ce moment ? » Si la personne rit et donne un chiffre, ça tient. Si elle me dit que sa vie est plutôt calme, les sept coupes n’étaient pas les siennes, et je le note.
+Puis, pour vérifier : « Entre combien de choses hésitez-vous en ce moment ? » Si la personne rit et donne un chiffre, ça tient. Si elle me dit que sa vie est plutôt calme, mes sept coupes flottaient pour rien, et je le note.

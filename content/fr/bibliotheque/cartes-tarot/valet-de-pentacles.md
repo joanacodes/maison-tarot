@@ -74,6 +74,6 @@ Renversé, l’élève ne commence jamais, ou n’en finit plus de se préparer.
 
 À titre d’illustration, une voisine vous demande d’essayer et tire le Valet de Pentacles à côté du [Deux d’Épées](/fr/bibliotheque/cartes-tarot/deux-de-epees/). Valet puis deux : un élève, puis un choix entre deux côtés — dans mes notes, un contrat à lire attentivement, le pour et le contre à peser. Terre puis Air : quelque chose de concret dans les mains, puis un esprit qui soupèse. Un jeune homme qui contemple une pièce, puis une silhouette au bandeau blanc, deux lames croisées contre la poitrine, la mer dans son dos.
 
-L’élève à la pièce, puis les lames croisées ; je formulerais : « On vous a proposé quelque chose de réel — une place, un poste, une formation — et vous le regardez sous tous les angles. Vous n’avez dit ni oui ni non. Vous attendez peut-être une certitude, et elle ne viendra sans doute qu’une fois le premier pas fait. »
+Je formulerais la chose ainsi : « On vous a proposé quelque chose de réel — une place, un poste, une formation — et vous le regardez sous tous les angles. Vous n’avez dit ni oui ni non. Vous attendez peut-être une certitude, et elle ne viendra sans doute qu’une fois le premier pas fait. »
 
 Puis vérifiez : « Y a-t-il une offre de ce genre autour de vous en ce moment ? » Si la réponse est non, c’est un raté ; notez-le, et n’allez pas chercher un autre sens.

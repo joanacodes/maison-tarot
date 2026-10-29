@@ -83,4 +83,4 @@ Supposons que l’As de Bâtons sorte avec le Sept de Coupes à côté : une seu
 
 Ce passage du net au flou tient en une phrase : « Vous avez une idée qui a très envie de démarrer, et vous savez laquelle. Mais il y en a plusieurs autour, et vous dépensez votre énergie à les regarder toutes au lieu d’en faire pousser une. »
 
-Ensuite, je vérifie auprès de la personne — pas avant, puisqu’elle ne me dit rien tant que je n’ai pas parlé : c’est [la règle du silence](/fr/blog/regle-du-silence-tarot/). Si aucune idée n’attend chez elle, la phrase tombe à côté, et elle entre ainsi dans mon carnet. Si oui, la question utile devient : « Laquelle voulez-vous faire pousser en premier ? »
+Ensuite, je vérifie auprès de la personne — pas avant, puisqu’elle ne me dit rien tant que je n’ai pas parlé : c’est [la règle du silence](/fr/blog/regle-du-silence-tarot/). Si aucune idée n’attend chez elle, la phrase tombe à côté, et c’est ainsi qu’elle entre dans mon carnet. Si une idée attend bien, la question utile devient : « Laquelle voulez-vous faire pousser en premier ? »

@@ -9,7 +9,7 @@ tags: ["can a sceptic learn tarot", "learn tarot", "tarot for sceptics", "anyone
 image: "covers/can-a-sceptic-learn-tarot.jpg"
 imageAlt: "An open notebook with two handwritten columns beside a single card on a kitchen table"
 imagePrompt: "An open notebook with two handwritten columns and a pencil, a single card lying face up beside it on a kitchen table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Yes. A sceptic can learn tarot, and doubt is a useful starting kit: it makes you keep an honest notebook, say ‘that’s a miss’ without flinching, and refuse to reframe a reading that didn’t land. Nobody needs a gift or a belief to start. By my own count, everyone I’ve helped was reading by their third attempt at the latest. The hard part for a sceptic isn’t believing; it’s letting go long enough to say what comes before deciding whether it sounds reasonable."
+summary: "Yes. A sceptic can learn tarot, and doubt is a useful starting kit: it makes you keep an honest notebook, say ‘that’s a miss’ without flinching, and refuse to reframe a reading that didn’t land. Nobody needs a gift or a belief to start. By my own count, three tries have always been enough for the people I’ve helped. The hard part for a sceptic isn’t believing; it’s letting go long enough to say what comes before deciding whether it sounds reasonable."
 ---
 Yes, and doubt is a good starting kit. My own doubt was aimed at astrology first, and the habit it left me with — checking everything — is the one I teach.
 
@@ -51,7 +51,7 @@ That’s why I teach the way I do. I got friends and family to try reading, and 
 
 ## How a sceptic can start {#how-to-start}
 
-1. Get one deck, the 1909 Rider-Waite-Smith, where even the numbered cards show people doing something you can describe.
+1. Get one deck: the 1909 Rider-Waite-Smith. Even its numbered cards show people doing something you can describe.
 2. Learn one lens, not 78 meanings. Colours are the fastest way in.
 3. Find someone who will tell you nothing: no question, no context.
 4. Say the sentence, then say what you see, out loud.

@@ -15,11 +15,7 @@ energy: Feminine
 kabbalah: ''
 image: cards/cu02.webp
 h1: Two of Cups — <em>two</em>, Water
-lede: 'Before looking up what Two of Cups “means”, look at what you already have:
-  two, the element Water, Venus in Cancer. You’re reading the card. The number says
-  two — to bind, to weigh, to cooperate; the element says emotions, what flows. Lay
-  the two over each other, add the colours, and the card is already talking — the
-  rest of the page shows you how.'
+lede: 'Face to face on level ground, a woman in white and a youth in yellow pledge their cups beneath a winged lion’s head rising from a staff of twin snakes. Does what you give match what comes back?'
 related:
 - /library/numerology
 - /library/four-elements/water-element
@@ -50,7 +46,7 @@ Above them rises a staff wound with two snakes — the caduceus of Hermes, the m
 
 Two is the contract, and in the Two of Cups the contract is emotional. A love that becomes mutual, a friendship that’s chosen, a partnership in which people like each other as well as work together.
 
-In love, the advice of [number two](/library/numerology/number-2/) — read the contract, weigh the pros and cons — sounds unromantic, and yet it’s what the card shows: they look at each other before they drink. In the Instagram story, 2 is the founders signing with their first investors. The minus of 2 is stubbornness, the ego that waits for the other person to come all the way across.
+In love, the advice of [number two](/library/numerology/number-2/) — read the contract, weigh the pros and cons — sounds unromantic, and yet it’s what the card shows: they look at each other before they drink. Instagram’s founders reached their 2 when they signed with their first investors. The minus of 2 is stubbornness, the ego that waits for the other person to come all the way across.
 
 ## By element: Water {#element}
 
@@ -62,11 +58,11 @@ Water also seeps in. A bond like this one is fed by small daily things and damag
 
 The background is a wide pale [blue](/library/tarot-colours/blue/): emotions, water, vitality — the whole scene sits inside a feeling. The woman’s white gown says peace and sincerity. The man’s yellow says joy, optimism, self-expression. Above them, the lion’s head and its wings are [red](/library/tarot-colours/red/): passion, impulse, strength. Behind, the green hill: growth, something that can live.
 
-Read the colours before the card: calm feeling, joy, honesty — and a passion hovering over the two of them, held up by the messenger’s staff rather than let loose.
+Calm feeling, joy, honesty — and a passion hovering over the two of them, held up by the messenger’s staff rather than let loose.
 
 ## By astrology: Venus in Cancer {#astrology}
 
-In the Golden Dawn tradition, the Two of Cups is the first decan of Cancer, ruled by Venus. Venus says what you love and how you love. [Cancer](/library/astrology/cancer/) says *I feel*: the nurturer, the one who makes a home liveable. Together: a love that wants a home, care given and received, attachment more than conquest.
+This card sits at the very start of Cancer, in Venus’s decan. Venus says what you love and how you love. [Cancer](/library/astrology/cancer/) says *I feel*: the nurturer, the one who makes a home liveable. In combination: a love that wants a home, care given and received, attachment more than conquest.
 
 Optional, as always: if astrology isn’t one of your lenses, the number and the element have already said it.
 
@@ -84,6 +80,6 @@ Next to [the Lovers](/library/tarot-cards/the-lovers/), the bond turns into a ch
 
 Put the Two of Cups beside the [Eight of Pentacles](/library/tarot-cards/eight-of-pentacles/) as an exercise, with nobody real behind it. Two then eight: a bond, then mastery and steady effort. Water then Earth: a feeling that wants to become something concrete. Colours: the soft blue of the Two beside the yellow pentacles and the red hose of a craftsman bent over his bench.
 
-The sentence I’d say out loud: “There’s someone you work well with — a colleague, a partner, maybe a friend — and what you share is turning into something you build together.” I’d add that it isn’t necessarily a romance, because the Two of Cups tempts everyone to hear love.
+Two cups beside a craftsman’s bench lead me here: “There’s someone you work well with — a colleague, a partner, maybe a friend — and what you share is turning into something you build together.” I’d add that it isn’t necessarily a romance, because the Two of Cups tempts everyone to hear love.
 
-Then I check: “Does someone come to mind?” I let the person answer and don’t supply the name. If no name comes to mind, it’s a miss, written down as one.
+Then one question: “Does someone come to mind?” I let the person answer and don’t supply the name. If no name comes to mind, it’s a miss, written down as one.

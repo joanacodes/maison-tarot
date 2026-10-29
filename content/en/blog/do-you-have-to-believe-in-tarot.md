@@ -27,7 +27,7 @@ I wrote it in my [guide to reading for beginners](/blog/how-to-read-tarot-beginn
 
 Here’s why. Someone who wants it to work helps too much. They nod, they fill in the gaps, they recognise themselves in anything that sounds warm. That’s the mechanism behind the Barnum effect, and I explain [why readings can feel accurate](/blog/why-tarot-readings-feel-accurate/) even when they aren’t. A doubtful person does the opposite. They wait, they check, and **when a doubtful person says “yes, that’s right”, the yes is worth something.**
 
-My very first reading for a stranger is a good example: she told me none of it fitted, and within the week she wrote back, stunned, because all of it had happened. Her “no” during the reading didn’t stop anything. It made her message impossible to argue with.
+The first time I ever read for someone I didn’t know proves the point. She rejected it on the spot, then got back in touch days later, shocked, because it had all happened. Her “no” during the reading didn’t stop anything. It made her message impossible to argue with.
 
 ## Belief and openness aren’t the same thing {#openness}
 

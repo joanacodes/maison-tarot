@@ -76,4 +76,4 @@ Un tirage pour s’entraîner : une personne que vous ne connaissez pas tire le 
 
 Le juge, puis la balance, et la phrase qui les relie : « C’est à vous de décider comment quelque chose va être partagé — du temps, du travail, du mérite —, et les autres accepteront votre décision si vous expliquez vos raisons. »
 
-Puis vérifiez : « Êtes-vous en ce moment dans une position où vous décidez pour d’autres ? » Si oui, demandez pour qui est la décision. Si non, la décision n’est pas entre ses mains, et la phrase tombe : tenez-vous-en là.
+Puis vérifiez : « Êtes-vous en ce moment dans une position où vous décidez pour d’autres ? » Si oui, demandez pour qui est la décision. Si non, la décision n’est pas entre ses mains ; tenez-vous-en là.

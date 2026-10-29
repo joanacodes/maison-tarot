@@ -17,4 +17,4 @@ Vous vous inscrivez ; le soir même, six personnes sont tirées au sort. Chacune
 
 Si la Mort ou la Tour sortent, on les lit comme n’importe quelle carte, par leurs clés de lecture. [À quoi ressemble vraiment un tirage d’Halloween](/fr/blog/tirage-tarot-halloween/) explique pourquoi elles font moins peur qu’il n’y paraît.
 
-Même gratuitement, certaines questions restent hors des cartes : la santé, les décès, les grossesses, les procès en cours, les choix d’argent. [Les avertissements](/fr/avertissements/) expliquent pourquoi.
+Même gratuite, la soirée laisse de côté quelques sujets : [la liste est dans les avertissements](/fr/avertissements/#refus), avec la raison de chacun.

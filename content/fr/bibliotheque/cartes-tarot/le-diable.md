@@ -52,7 +52,7 @@ Quinze se ramène à [6](/fr/bibliotheque/numerologie/chiffre-6/), le nombre des
 
 ## Par l’élément : Terre {#element}
 
-Le Diable est une carte de [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, et ce à quoi vous attachez du prix, en euros comme en affection. La Terre, c’est la ténacité, l’endurance — et l’entêtement. C’est ce qui tient, et ici, tenir est tout le sujet : le CDI qu’on garde parce qu’il rassure, l’habitude qu’on garde parce qu’elle apaise, la relation qu’on garde parce qu’on la connaît par cœur.
+Le Diable est une carte de [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, et tout ce que vous possédez ou chérissez, en euros comme en affection. La Terre, c’est la ténacité, l’endurance — et l’entêtement. C’est ce qui tient, et ici, tenir est tout le sujet : le CDI qu’on garde parce qu’il rassure, l’habitude qu’on garde parce qu’elle apaise, la relation qu’on garde parce qu’on la connaît par cœur.
 
 Ce qui vous enchaîne, c’est presque toujours quelque chose auquel vous tenez, et c’est justement pour ça qu’on a du mal à y voir une chaîne.
 

@@ -67,7 +67,7 @@ La Golden Dawn a attribué le Jugement à l’élément Feu, par la lettre hébr
 
 ## En lecture {#lecture}
 
-Le Jugement n’est ni bon ni mauvais. Comme n’importe quelle lame, il a ses forces et ses pièges, et il les montre franchement. À l’endroit, c’est un appel : un second regard, un bilan, une seconde chance, le moment où l’on ne peut plus faire comme si on n’avait rien entendu. Le plus, c’est de se lever. Le moins, c’est le verdict qu’on apporte soi-même — entendre l’appel comme une condamnation plutôt que comme une invitation.
+Le Jugement n’est ni bon ni mauvais. Comme n’importe quelle lame, il a ses atouts et ses écueils, et il les montre franchement. À l’endroit, c’est un appel : un second regard, un bilan, une seconde chance, le moment où l’on ne peut plus faire comme si on n’avait rien entendu. Le plus, c’est de se lever. Le moins, c’est le verdict qu’on apporte soi-même — entendre l’appel comme une condamnation plutôt que comme une invitation.
 
 Renversé, c’est le même appel resté sans réponse : on l’entend et on reste couché, ou l’on repasse le passé en revue sans rien décider. En excès, c’est se juger, ou juger les autres, sans fin.
 
@@ -81,7 +81,7 @@ Parce que le dessin montre des morts qui se relèvent, certaines personnes craig
 
 ## Au travail {#au-travail}
 
-Au travail, le Jugement prend trois formes. Une vocation : quelque chose que vous vouliez faire bien avant d’avoir un emploi revient sans cesse — la formation que vous n’avez pas suivie, le métier que vous admiriez. Un bilan : l’entretien annuel, un bilan de compétences, l’anniversaire où vous relisez votre CV en vous demandant comment vous en êtes arrivé là ; la lame décrit le regard, pas la note. Une seconde chance : reprendre des études à quarante ans, repostuler là où l’on vous a dit non, ressortir un projet du tiroir. **Ceux qui se relèvent sur la carte ne sont pas de nouvelles personnes ; ce sont les mêmes, debout.** Avec le Huit de Pentacles, l’établi où l’on progresse pièce après pièce, la vocation devient un apprentissage.
+Au travail, le Jugement prend trois formes. Une vocation : quelque chose que vous vouliez faire bien avant d’avoir un emploi revient sans cesse — la formation que vous n’avez pas suivie, le métier que vous admiriez. Un bilan : l’entretien annuel, un bilan de compétences, l’anniversaire où vous relisez votre CV en vous demandant comment vous en êtes arrivé là ; la lame décrit le regard, pas la note. Une seconde chance : reprendre des études à quarante ans, repostuler là où l’on vous a dit non, ressortir un projet du tiroir. **Ceux qui se relèvent sur la carte ne sont pas de nouvelles personnes ; ce sont les mêmes, debout.** Avec le Huit de Pentacles, l’artisan penché sur sa pièce, la vocation devient un apprentissage.
 
 Renversé au travail, l’appel reste sans réponse (« quand les enfants seront plus grands », chaque mois de janvier), ou il en reçoit tant que vous refaites le bilan sans jamais décider. Dans le premier cas, faites un petit pas ; dans le second, arrêtez de refaire les comptes.
 

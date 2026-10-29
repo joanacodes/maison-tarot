@@ -15,7 +15,7 @@ energy: Masculine
 kabbalah: Resh
 image: cards/ar19.webp
 h1: Le Soleil — <em>19</em>, le Feu
-lede: 'Sous un soleil à visage humain, un enfant nu chevauche sans selle un cheval blanc, les bras grands ouverts, devant un mur que dépassent des tournesols. Ce bon moment, vous autorisez-vous à le vivre au grand jour ?'
+lede: 'Sous un soleil à visage humain, un enfant nu chevauche sans selle un cheval blanc, bras écartés, devant un mur que dépassent des tournesols. Ce bon moment, vous autorisez-vous à le vivre au grand jour ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu

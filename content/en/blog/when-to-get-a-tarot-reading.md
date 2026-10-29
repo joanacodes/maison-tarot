@@ -29,7 +29,7 @@ Write down the two or three sentences that struck you, and read them again at th
 
 ## For shadow work {#shadow-work}
 
-Shadow work means dealing with the things you keep pushing away so you can get through the day — the things that, left alone long enough, end up holding you back. It’s like a cell where you’ve put everything you never wanted to look at, or couldn’t deal with at the time.
+Shadow work is turning to face what you’ve been shoving aside just to cope with daily life: the stuff that, ignored for long enough, starts to hold you back. It’s like a cell where you’ve put everything you never wanted to look at, or couldn’t deal with at the time.
 
 A reading can point at the door of that cell. Say the Moon comes up, or the Five of Cups: something isn’t clear, or something lost is still being mourned. The card doesn’t open the door for you; it shows you there’s a door. You have to acknowledge the veil before you can take it off.
 

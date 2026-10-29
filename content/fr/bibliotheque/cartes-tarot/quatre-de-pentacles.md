@@ -16,7 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/pe04.webp
 h1: Quatre de Pentacles — <em>quatre</em>, la Terre
-lede: 'Assis face à nous, un homme étreint une pièce des deux bras ; une autre trône sur sa couronne, deux sont bloquées sous ses semelles. À force de tout tenir, peut-il encore bouger ?'
+lede: 'Assis face à nous, un homme étreint une pièce à pleins bras ; une autre trône sur sa couronne, deux sont bloquées sous ses semelles. À force de tout tenir, peut-il encore bouger ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre
@@ -67,7 +67,7 @@ Derrière lui, le ciel gris : la neutralité, la matière qui ne bouge pas. La v
 
 Le [Soleil](/fr/bibliotheque/astrologie/soleil/) règne sur le troisième décan du Capricorne, celui du Quatre de Pentacles. Il représente le centre d’une vie, ce qu’on place au milieu de tout. Le Capricorne dit *J’utilise* : le travail, la responsabilité, le désir de ne dépendre de personne. Ensemble : quelqu’un qui a mis sa sécurité au centre de tout — le pouvoir au sens terrestre, avoir et tenir.
 
-Si l’astrologie n’est pas votre outil, la posture de l’homme suffit.
+Et si les planètes ne vous disent rien, la posture de l’homme suffit.
 
 ## En lecture {#lecture}
 
@@ -87,4 +87,4 @@ Posons le cas d’un tirage à deux cartes pour quelqu’un : le Quatre de Penta
 
 Les pièces serrées, puis le voyageur qui s’en va ; une phrase courte suffit : « Vous vous accrochez très fort à quelque chose que vous avez déjà commencé à quitter. »
 
-Je vérifie avec une seule question : « Gardez-vous quelque chose par habitude, ou par peur de le perdre, plus que parce que vous le voulez encore ? » Si c’est oui, je ne demande pas quoi. Si rien de tel ne lui vient, je lui dis que ma phrase est passée à côté.
+Je vérifie avec une seule question : « Gardez-vous quelque chose par habitude, ou par peur de le perdre, plus que parce que vous le voulez encore ? » Si c’est oui, je ne demande pas quoi. Si rien de tel ne lui vient, je lui dis que la phrase ne tient pas.

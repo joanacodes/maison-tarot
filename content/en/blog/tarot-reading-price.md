@@ -58,7 +58,7 @@ Some things get sold as premium and shouldn’t be:
 
 ## What I charge, and what I don’t {#my-prices}
 
-I don’t sell readings, so I’m outside this market. I sell lessons — one-to-one sessions of an hour, workshops of three hours for twelve people — and readings are free at events. The details are on [what I charge for and what I give away](/blog/what-i-charge-for/), and why I chose that model, with what money does to a practice, is in [should tarot be free?](/blog/tarot-and-capitalism/).
+I don’t sell readings, so I’m outside this market. I sell lessons — one-to-one sessions of an hour, workshops of three hours for twelve people — and readings are free at events. The details are on [my page about what’s paid and what’s free here](/blog/what-i-charge-for/), and why I chose that model, with what money does to a practice, is in [should tarot be free?](/blog/tarot-and-capitalism/).
 
 One honest limit: no price list tells you what a reading is worth to you. That depends on what you do with it afterwards, and a reading isn’t a reason to act.
 

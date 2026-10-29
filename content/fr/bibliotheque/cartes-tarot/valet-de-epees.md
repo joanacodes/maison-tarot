@@ -74,6 +74,6 @@ Renversé, la curiosité du Valet se brouille, ou se met à fouiller. Brouillée
 
 Essayez cette paire avec un ami curieux de voir comment se passe une lecture : le Valet d’Épées, puis le [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/). Un Valet puis un trois : l’élève, puis un rythme qui fonctionne. La Terre d’Air puis la Terre : une idée qui cherche un sol, puis le sol lui-même. Un personnage seul sur une colline venteuse, puis trois personnes qui discutent d’un ouvrage sous une arche de pierre.
 
-L’élève au vent, puis le chantier à trois ; ma proposition : « Vous êtes en train d’apprendre quelque chose de nouveau, et vous l’observez de près. Vous apprendrez plus vite en travaillant avec d’autres qu’en regardant dans votre coin. »
+Ma proposition à la personne : « Vous êtes en train d’apprendre quelque chose de nouveau, et vous l’observez de près. Vous apprendrez plus vite en travaillant avec d’autres qu’en regardant dans votre coin. »
 
-Puis vérifiez : « Est-ce que vous commencez à apprendre quelque chose en ce moment — un savoir-faire, un métier, un sujet ? » Si oui, demandez avec qui la personne pourrait l’apprendre. Si non, aucune leçon en cours : la phrase tombe, et l’on change de sujet.
+Puis vérifiez : « Est-ce que vous commencez à apprendre quelque chose en ce moment — un savoir-faire, un métier, un sujet ? » Si oui, demandez avec qui la personne pourrait l’apprendre. Si non, aucune leçon en cours ; on referme le sujet.

@@ -26,9 +26,9 @@ related:
 - /bibliotheque/astrologie/mars
 faq:
 - q: Quelle carte de tarot correspond au Bélier ?
-  a: L’Empereur. Les béliers taillés dans son trône le disent déjà, et c’est la Golden
-    Dawn qui l’a rattaché au signe. En tirage, il amène l’énergie qui commence et qui
-    commande.
+  a: L’Empereur. Les têtes de bélier taillées dans son trône annoncent déjà le signe,
+    et c’est la Golden Dawn qui a fait le lien. En tirage, il amène l’énergie qui
+    commence et qui commande.
 - q: 'Je suis Bélier : l’Empereur parle-t-il de moi ?'
   a: 'Lisez-le comme n’importe qui le lirait : quelqu’un prend la tête et lance le
     chantier. Le piège, pour un Bélier, serait d’y voir une permission de foncer

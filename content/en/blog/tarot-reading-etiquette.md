@@ -73,4 +73,4 @@ The reader’s manners matter as much, and they’re a little stricter.
 
 Before: consent, silence, no absent people. During: a calm face, ask before touching, say stop if you need to. After: honest feedback, no repeat question, your own decision.
 
-If you’d like to see these manners in practice before you sit down for a reading of your own, come to one of the [free events](/events/): whoever gets read is picked at random, nobody says anything first, and we compare at the end.
+To watch these manners at work before your own first reading, drop in on a [free event](/events/): whoever gets read is picked at random, nobody says anything first, and the comparing happens at the end.
