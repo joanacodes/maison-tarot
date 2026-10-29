@@ -63,7 +63,9 @@ If you read tarot, two of the three have a card. The Sun has the Sun, arcana XIX
 
 Once you have your three, I like adding Jupiter: its sign and its house.
 
-Most astrology books call Jupiter the planet of expansion and luck. In my notes, its house and its sign show your biggest struggles. One way to hold both: the place where you’re asked to grow is rarely the comfortable one. Say Jupiter sits in your seventh house, partners and one-to-one relationships: that’s where I’d look first for the lessons that keep coming back.
+Most astrology books call Jupiter the planet of expansion and luck: where you grow, and where you risk overdoing it. In the seventh house, partners and one-to-one relationships, they would say you grow through other people, and can promise them more than you can give.
+
+Someone’s biggest struggles show elsewhere. For those I look at Saturn first, then Chiron and Lilith; [Saturn, Lilith and Chiron](/blog/saturn-lilith-chiron/) explains why.
 
 I want to be clear on this one. Jupiter wasn’t part of my tested numbers: the 30 to 40% overall, and the 75 to 90% for Saturn, Lilith and Chiron, don’t cover it. It’s a habit of mine, not a result.
 

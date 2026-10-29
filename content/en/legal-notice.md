@@ -12,8 +12,7 @@ Maison Tarot’s publisher is based in France, and French law requires the infor
 {{< legal-field key="publisherName" label="publisher name" >}}<br>
 {{< legal-field key="status" label="legal status" >}}<br>
 {{< legal-field key="address" label="address" >}}<br>
-SIREN: {{< legal-field key="siren" label="SIREN / SIRET" >}}<br>
-Phone: {{< legal-field key="phone" label="business phone" >}}<br>
+SIREN: {{< legal-field key="siren" label="SIREN / SIRET" >}}<br>{{< legal-optional key="phone" prefix="Phone: " >}}
 Contact: {{< lang-email >}}
 
 Publication director: {{< legal-field key="director" label="publication director" >}}

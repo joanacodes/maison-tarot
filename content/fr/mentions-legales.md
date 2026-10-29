@@ -10,8 +10,7 @@ noindex: true
 {{< legal-field key="publisherName" label="nom ou raison sociale" >}}<br>
 {{< legal-field key="status" label="statut juridique" >}}<br>
 {{< legal-field key="address" label="adresse" >}}<br>
-SIREN : {{< legal-field key="siren" label="SIREN / SIRET" >}}<br>
-Téléphone : {{< legal-field key="phone" label="téléphone professionnel" >}}<br>
+SIREN : {{< legal-field key="siren" label="SIREN / SIRET" >}}<br>{{< legal-optional key="phone" prefix="Téléphone : " >}}
 Contact : {{< lang-email >}}
 
 Directrice de la publication : {{< legal-field key="director" label="directrice de la publication" >}}

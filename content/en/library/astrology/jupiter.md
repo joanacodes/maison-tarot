@@ -66,6 +66,6 @@ Jupiter says where you're lucky, or what you take for luck: expansion, confidenc
 
 ## Not part of my test {#test}
 
-Jupiter wasn't one of the placements I counted [when I tested my chart](/blog/i-tested-my-birth-chart/), so I have no figure for it. I still add it when I read a chart, for a reason of my own that has nothing to do with luck: [where Jupiter sits is where I look for your biggest struggles](/blog/sun-moon-rising-big-three/#jupiter). Jupiter on a card is useful for one thing: recognising the Six, expansion, and remembering the advice that goes with it — stay humble.
+Jupiter wasn't one of the placements I counted [when I tested my chart](/blog/i-tested-my-birth-chart/), so I have no figure for it. I still [add it to the big three](/blog/sun-moon-rising-big-three/#jupiter) when I read a chart. It isn’t where I look for someone’s biggest struggles, though: that’s [Saturn](/library/astrology/saturn/) first, then Chiron and Lilith. Jupiter on a card is useful for one thing: recognising the Six, expansion, and remembering the advice that goes with it — stay humble.
 
 {{% six %}}

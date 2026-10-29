@@ -63,7 +63,9 @@ Si vous lisez le tarot, deux des trois ont une carte. Le Soleil a le Soleil, l�
 
 Une fois votre trio en main, j’aime ajouter Jupiter : son signe et sa maison.
 
-La plupart des livres d’astrologie font de Jupiter la planète de l’expansion et de la chance. Dans mes notes, sa maison et son signe montrent vos plus grandes difficultés. Une façon de tenir les deux ensemble : l’endroit où l’on vous demande de grandir est rarement le plus confortable. Disons que Jupiter se trouve dans votre maison VII, le couple et les relations en tête-à-tête : c’est là que je chercherais d’abord les leçons qui reviennent.
+La plupart des livres d’astrologie font de Jupiter la planète de l’expansion et de la chance : là où l’on grandit, et là où l’on risque d’en faire trop. En maison VII, le couple et les relations en tête-à-tête, ils diraient qu’on y grandit par les autres, et qu’on peut aussi leur promettre plus qu’on ne tient.
+
+Les plus grandes difficultés de quelqu’un se lisent ailleurs. Pour elles, je regarde d’abord Saturne, puis Chiron et Lilith ; [Saturne, Lilith et Chiron](/fr/blog/saturne-lilith-chiron/) explique pourquoi.
 
 Je veux être claire sur ce point. Jupiter ne faisait pas partie des chiffres de mon test : les 30 à 40 % dans l’ensemble, et les 75 à 90 % pour Saturne, Lilith et Chiron, ne le concernent pas. C’est une habitude à moi, pas un résultat.
 

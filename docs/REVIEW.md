@@ -8,19 +8,16 @@ Everything on the branch `claude/write-all-articles` that needs you, most import
 
 ## Still open
 
-1. **A business phone number for the legal notice.**
-   - French law (the LCEN) asks a person who publishes a site professionally for a name, an address and a phone number.
-   - A professional number is fine, such as a second line or a virtual number. It goes in `hugo.toml`, `phone = ""` under `[params.legal]`.
-   - Until then the legal notice shows a gold "to complete" mark.
-2. **A consumer mediator.**
-   - Because you sell lessons to the public, French law asks you to name a consumer mediator customers can turn to, free for them.
-   - You sign up with one (several approved mediators exist, for a yearly fee), then put its name and website in `mediator = ""`. The terms already have the sentence waiting for it.
+1. **A consumer mediator.**
+   - A consumer mediator is an independent, approved body that a customer can turn to for free if a disagreement with you can't be settled between you, a refund for instance.
+   - French law requires every business that sells to the public to name one, on the site and in the terms of sale. You sign up with one (they charge a yearly fee) and send me its name and website.
+   - Until then the terms show a gold "to complete" mark.
 
 ## Worth knowing
 
-- **Your registration.** The public listing you sent shows two things worth checking with the guichet unique (INPI) or your accountant:
-  - It still gives Sucy-en-Brie, so the registry should get your new address.
-  - It lists your activity as "artistic creation (plastic arts)". Selling tarot lessons may need adding as an activity.
+- **Your address.** The site shows 47 rue Vivienne, 75002 Paris. URSSAF already has it and the public registry is being updated.
+- **Your activity.** The public listing describes your activity as "artistic creation (plastic arts)". Selling tarot lessons may need adding; your accountant or the guichet unique can tell you.
+- **Phone number.** You chose not to show one, so the legal notice no longer has a phone line. For the record, the law's text (LCEN) asks a sole trader for a phone number. If you ever want to cover it without showing your own, a virtual number works.
 - **Cookies.** No banner is needed today. The site stores only your visitors' language and theme choices, and loads no tracker or advertising. That changes if you add an analytics or advertising tool: tell me first and I'll set it up the compliant way.
 - **A date clash, fixed.** The page on 20th-century tarot said Waite's *Key to the Tarot* came out in 1910. The Waite and Pamela Colman Smith pages, which cite their source, say it was sold with the deck from December 1909, and that the illustrated *Pictorial Key* followed in 1910. The 20th-century page now says that too.
 - **Sign colours, aligned.** The table on the astrology page gave eight signs different colours from their own pages; Virgo, for instance, was "beige, brown" in the table and "blue, grey" on its page. The table now follows the sign pages, which come from your notes.
@@ -32,8 +29,8 @@ Everything on the branch `claude/write-all-articles` that needs you, most import
 
 - **Sign ↔ card.** Your Taurus and Cancer pages said their cards were the Empress and the High Priestess "in the Golden Dawn tradition". In that tradition, Taurus is the Hierophant and Cancer is the Chariot. The Empress and the High Priestess belong to Venus and the Moon, the planets that rule those two signs. Both pages, the modes tables and *I tested my birth chart* now give the right cards, and each sign page mentions its ruling planet's card.
 - **Jupiter** no longer claims a test result. It now says it wasn't part of your tested numbers.
-  - Three pages in each language also said you "distrust" Jupiter, or "hold it lightly": the Jupiter page, the Wheel of Fortune and the Nine of Cups. Your notes say the opposite: you like adding it, and its sign and house show someone's biggest struggles. The Jupiter page now says that and links to *Sun, Moon, rising*, where you explain it.
-  - The card pages keep only the planet's usual meaning.
+  - Three pages in each language also said you "distrust" Jupiter, or "hold it lightly": the Jupiter page, the Wheel of Fortune and the Nine of Cups. That's gone.
+  - You told me someone's biggest struggles show mostly in Saturn, then in Chiron and Lilith, not in Jupiter. The Jupiter page and *Sun, Moon, rising* now say that, and Jupiter keeps its usual meaning: expansion, luck, excess.
 - **French verbs:** « Je veux » for Leo, « Je ressens » for Cancer, everywhere.
 - **No repeats.** Each of your sayings now lives on one page in each language:
   - "I read; you decide": sessions;

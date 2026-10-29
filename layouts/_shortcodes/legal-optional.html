@@ -1,0 +1,2 @@
+{{- /* Ligne facultative des mentions légales : n'apparaît que si la valeur est renseignée dans hugo.toml, sans repère « à compléter ». */ -}}
+{{- with index site.Params.legal (.Get "key") }}{{ $.Get "prefix" }}{{ . }}<br>{{ end -}}

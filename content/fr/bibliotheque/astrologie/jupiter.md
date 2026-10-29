@@ -67,6 +67,6 @@ Dans un thème, Jupiter montre le domaine où la chance semble vous suivre, ou d
 
 ## Hors de mon test {#test}
 
-Jupiter ne faisait pas partie des placements que j’ai comptés [quand j’ai testé mon thème](/fr/blog/j-ai-teste-mon-theme-astral/) : je n’ai donc pas de chiffre pour lui. Je l’ajoute quand même quand je lis un thème, pour une raison à moi qui n’a rien à voir avec la chance : [là où se trouve Jupiter, je cherche vos plus grandes difficultés](/fr/blog/soleil-lune-ascendant/#jupiter). Jupiter sur une carte est utile pour une chose : reconnaître le Six, l’expansion, et se rappeler le conseil qui va avec — rester humble.
+Jupiter ne faisait pas partie des placements que j’ai comptés [quand j’ai testé mon thème](/fr/blog/j-ai-teste-mon-theme-astral/) : je n’ai donc pas de chiffre pour lui. Je l’ajoute quand même [au trio Soleil, Lune, ascendant](/fr/blog/soleil-lune-ascendant/#jupiter) quand je lis un thème. Ce n’est pas là que je cherche les plus grandes difficultés de quelqu’un : pour elles, je regarde d’abord [Saturne](/fr/bibliotheque/astrologie/saturne/), puis Chiron et Lilith. Jupiter sur une carte est utile pour une chose : reconnaître le Six, l’expansion, et se rappeler le conseil qui va avec — rester humble.
 
 {{% six %}}
