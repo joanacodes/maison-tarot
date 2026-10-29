@@ -57,7 +57,7 @@ gallery:
 
 **Pureté, innocence, paix.**
 
-## Où la couleur apparaît dans le jeu {#ou}
+## Sur ce qui commence propre : chevaux, lis, robes {#ou}
 
 La robe intérieure du Magicien, la rose et le chien du Mat, le cheval du Soleil, le cheval de la Mort, le lis de l’As de Pentacles, les vêtements de la Tempérance, la robe de l’Étoile — nue, c’est la même idée. Le blanc est sur ce qui commence propre.
 

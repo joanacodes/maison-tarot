@@ -53,7 +53,7 @@ La mer, c’est l’eau qu’on ne traverse pas à pied. Elle a un horizon au li
 
 Imaginez un départ pour vivre à l’étranger. Vous pouvez prévoir l’appartement, le travail, les papiers. Vous ne pouvez pas prévoir ce que vous ressentirez six mois plus tard, en regardant la mer depuis l’autre côté.
 
-## Où elle apparaît dans le jeu {#ou}
+## Trois Deux face à la mer, la cour des Coupes au bord de l’eau {#ou}
 
 Trois des Deux font face à la mer. Sur le Deux d’Épées, c’est dos à une mer calme semée de rochers que la femme au bandeau s’est assise. Sur le Deux de Pentacles, deux navires montent sur de hautes vagues derrière le jongleur. Sur le Deux de Bâtons, un homme qui tient un globe regarde, depuis un rempart, une baie et des montagnes.
 

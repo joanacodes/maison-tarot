@@ -53,7 +53,7 @@ Un enfant, c’est quelqu’un au début : petit, neuf, ouvert, et dépendant de
 
 Sur une carte, un enfant est presque toujours à côté d’un adulte. Regardez lequel.
 
-## Où il apparaît dans le jeu {#ou}
+## Un enfant devant la Mort, un autre au Jugement {#ou}
 
 Sur la Mort, un petit enfant est agenouillé devant le cheval blanc, face au cavalier, pendant qu’une jeune femme à côté de lui détourne le visage et qu’un évêque prie. L’enfant regarde ce que les adultes n’arrivent pas à regarder.
 

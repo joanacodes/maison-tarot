@@ -58,7 +58,7 @@ gallery:
 
 **Passion, action, force, impulsion.** Énergie masculine.
 
-## Où la couleur apparaît dans le jeu {#ou}
+## Sur des corps qui agissent {#ou}
 
 Le manteau extérieur du Magicien et sa ceinture ; la plume rouge du Mat et du Soleil ; le lion de la Force ; le manteau de l’Empereur ; les vêtements du Cavalier de Bâtons ; la bannière de la Mort ; les ailes de l’ange des Amoureux. Le rouge est presque toujours sur un corps qui fait quelque chose.
 

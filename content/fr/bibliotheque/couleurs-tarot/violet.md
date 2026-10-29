@@ -57,7 +57,7 @@ gallery:
 
 **L’élu choisi par un groupe.**
 
-## Où la couleur apparaît dans le jeu {#ou}
+## Deux fois seulement : un manteau et des ailes {#ou}
 
 Le manteau du Roi d’Épées, et les ailes de l’ange du Jugement. Le violet est sur les épaules de ceux qui portent une fonction.
 

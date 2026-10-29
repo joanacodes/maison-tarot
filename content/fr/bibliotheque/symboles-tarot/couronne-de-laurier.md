@@ -53,7 +53,7 @@ C’est un anneau de feuilles ou de fleurs, porté sur la tête ou suspendu. Les
 
 Contrairement à la couronne de métal, elle fane. Elle appartient à un moment, à une victoire.
 
-## Où elle apparaît dans le jeu {#ou}
+## Du Monde au Six de Bâtons, des couronnes de feuillage {#ou}
 
 Le Monde est encadré par la plus grande couronne de feuillage du jeu : un grand ovale de feuilles vertes, noué en haut et en bas de rubans rouges, la danseuse à l’intérieur. Le cycle est complet.
 

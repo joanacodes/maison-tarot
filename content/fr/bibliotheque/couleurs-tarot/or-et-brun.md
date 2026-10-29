@@ -57,7 +57,7 @@ gallery:
 
 **La valeur acquise, la matière, la terre travaillée.**
 
-## Où la couleur apparaît dans le jeu {#ou}
+## Des pièces et des couronnes, des sols et des blés {#ou}
 
 Tous les pentacles, les couronnes de l’Empereur et de la Justice, le Soleil, les cheveux et les blés ; et le brun des sols de l’Ermite, du Sept de Pentacles, de la Roue, des montagnes derrière le Hiérophante. L’or est ce qu’on a ; le brun est où on l’a trouvé.
 

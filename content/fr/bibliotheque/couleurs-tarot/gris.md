@@ -56,7 +56,7 @@ gallery:
 
 **Neutralité, absence de volonté, stabilité.**
 
-## Où la couleur apparaît dans le jeu {#ou}
+## Ciels bas et pierre immobile {#ou}
 
 Le ciel gris du Cinq de Coupes et du Trois d’Épées, les piliers du Hiérophante et de la Justice, le trône de l’Empereur, le mur du Quatre d’Épées, les nuages du Quatre de Coupes, la pierre de la Tour avant qu’elle ne brûle. Le gris est la matière qui ne bouge pas.
 

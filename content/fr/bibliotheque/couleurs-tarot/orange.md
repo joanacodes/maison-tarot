@@ -57,7 +57,7 @@ gallery:
 
 **Créativité, aridité, libido.**
 
-## Où la couleur apparaît dans le jeu {#ou}
+## Le sol brûlant des Bâtons {#ou}
 
 Le sol et le ciel de nombreux Bâtons — le Trois, le Cinq, le Sept —, la robe du Cavalier de Bâtons, les tentures du Chariot, la Roue de Fortune elle-même, les flammes du Diable. Là où le monde chauffe.
 

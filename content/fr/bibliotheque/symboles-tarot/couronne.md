@@ -53,7 +53,7 @@ La couronne se porte sur la tête, et c’est rarement celui qui la porte qui l�
 
 Comme elle se pose sur la tête, elle parle aussi de l’esprit. Qui commande là-haut, et pour le compte de qui ?
 
-## Où elle apparaît dans le jeu {#ou}
+## D’or, d’étoiles ou de lune : les couronnes du jeu {#ou}
 
 L’Empereur porte une couronne d’or sertie de pierres, signe de sa fonction posé sur une armure de soldat. L’Impératrice porte une couronne d’étoiles par-dessus une couronne de feuillage vert. La tiare du Hiérophante s’élève sur trois étages, l’autorité empilée sur l’autorité. La Grande Prêtresse porte une couronne de lune : un disque plein entre deux cornes. La Justice porte une couronne d’or crénelée, ornée d’une seule pierre carrée.
 

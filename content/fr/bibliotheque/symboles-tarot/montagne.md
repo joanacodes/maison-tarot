@@ -53,7 +53,7 @@ Une montagne est à la fois un obstacle et un point de vue. Elle est dure à gra
 
 Au quotidien, ça ressemble à un examen à repasser. Il sera là en juin quoi que vous fassiez. Le seul choix, c’est la façon de grimper. Petit à petit, l’oiseau fait son nid.
 
-## Où elle apparaît dans le jeu {#ou}
+## Des sommets derrière le Mat, du roc autour de l’Empereur {#ou}
 
 Sur le Mat, des sommets blancs se dressent derrière le jeune homme qui avance vers le bord de la falaise. La partie difficile du voyage est déjà à l’horizon ; il ne l’a pas remarquée.
 

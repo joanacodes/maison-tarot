@@ -56,7 +56,7 @@ gallery:
 
 **Nature, croissance, naissance, vie, prospérité.**
 
-## Où la couleur apparaît dans le jeu {#ou}
+## Le vert sous les pieds : jardins, vignes, collines {#ou}
 
 Le blé de l’Impératrice, les feuilles des Bâtons, le jardin de la Reine de Pentacles, les vignes du Neuf et du Roi de Pentacles, les collines de la Tempérance, la robe du Valet de Pentacles. Le vert est presque toujours au pied des personnages : c’est leur terrain.
 

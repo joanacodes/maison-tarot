@@ -57,7 +57,7 @@ gallery:
 
 **Absence, absorption d’énergie, néant, pensées négatives, faire le vide, réalité.**
 
-## Où la couleur apparaît dans le jeu {#ou}
+## Six cartes où le noir s’impose {#ou}
 
 Le manteau du Cinq de Coupes, le fond du Diable, le ciel de la Tour, l’armure de la Mort, le chat de la Reine de Bâtons, le pilier gauche de la Grande Prêtresse. Le noir n’habille presque jamais quelqu’un qui va bien.
 

@@ -53,7 +53,7 @@ Un oiseau vit à deux endroits : il se nourrit au sol et voyage dans le ciel. C�
 
 L’espèce d’oiseau, et ce qu’il fait, disent le reste. Posé, en piqué, qui s’envole, ou tenu sur un gant.
 
-## Où il apparaît dans le jeu {#ou}
+## Un ibis sur l’Étoile, une colombe sur l’As de Coupes {#ou}
 
 Sur [l’Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/), un oiseau rouge au long bec courbe est perché dans un arbre, à droite, derrière la femme agenouillée. On y voit généralement un ibis. Elle verse ; l’oiseau regarde, au repos après l’orage de la Tour.
 

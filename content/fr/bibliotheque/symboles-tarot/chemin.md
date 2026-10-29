@@ -53,7 +53,7 @@ Un chemin, c’est une trace au sol faite par des gens qui passent tous au même
 
 Sur une carte, posez trois questions : où le chemin commence, où il mène, et si quelqu’un y marche.
 
-## Où il apparaît dans le jeu {#ou}
+## De Tempérance à la Lune, un chemin vers les sommets {#ou}
 
 Sur [Tempérance](/fr/bibliotheque/cartes-tarot/temperance/), un chemin monte du bassin où se tient l’ange, à travers des collines vertes, vers deux sommets entre lesquels se lève une lumière rayonnante. Personne n’y marche encore.
 

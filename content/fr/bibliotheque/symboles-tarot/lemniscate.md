@@ -53,7 +53,7 @@ La lemniscate, c’est le signe ∞ : un huit couché sur le côté. Son nom vie
 
 **La lemniscate dit : l’énergie circule, et rien ne se perd en route.** Pensez aux huit qu’une patineuse trace sur la glace : deux boucles, une seule ligne, et le croisement du milieu, là où le poids du corps bascule.
 
-## Où elle apparaît dans le jeu {#ou}
+## Au-dessus du Magicien, de la Force, et entre les mains du jongleur {#ou}
 
 Le Magicien — le Bateleur des jeux de Marseille — l’a au-dessus de la tête, comme une auréole. Une main lève une baguette, l’autre montre le sol : ce qui entre par le haut ressort par le bas, et la boucle fait circuler le tout.
 

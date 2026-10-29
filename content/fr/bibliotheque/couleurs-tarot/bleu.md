@@ -57,7 +57,7 @@ gallery:
 
 **Émotions, rendre pur, l’eau, vitalité.** Énergie féminine.
 
-## Où la couleur apparaît dans le jeu {#ou}
+## Des robes, des rivières, de l’eau qu’on verse {#ou}
 
 La robe de la Grande Prêtresse, le manteau de l’Impératrice, l’eau de toutes les Coupes, l’eau que la Tempérance verse d’une coupe à l’autre, la rivière au pied de l’Empereur, le fond du Cavalier de Coupes. Le bleu est là où l’émotion est là.
 

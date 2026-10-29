@@ -56,7 +56,7 @@ gallery:
 
 **Joie, optimisme, fierté, l’enfant intérieur, l’expression de soi, la volonté.**
 
-## Où la couleur apparaît dans le jeu {#ou}
+## Le ciel des cartes heureuses {#ou}
 
 Le ciel du Mat, du Magicien, de la Force, de la Roue de Fortune, du Soleil, de nombreux Pentacles et Coupes — le Trois de Coupes, le Six de Coupes, le Neuf de Pentacles. Les cheveux blonds de l’Impératrice et du Mat. Le jaune est le fond du monde quand le monde va bien.
 

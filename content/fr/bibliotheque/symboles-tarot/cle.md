@@ -53,7 +53,7 @@ Une clé, c’est une permission qu’on tient dans la main. Celui qui l’a dé
 
 Une clé dit aussi qu’il y avait une serrure. Quelque chose a été fermé exprès.
 
-## Où elle apparaît dans le jeu {#ou}
+## Deux clés croisées aux pieds du Hiérophante {#ou}
 
 Sur [le Hiérophante](/fr/bibliotheque/cartes-tarot/le-hierophante/), deux clés croisées sont posées au sol, à ses pieds, entre les deux tonsurés tournés vers lui. Elles rappellent les clés croisées des armoiries pontificales, qui remontent aux clés promises à Pierre dans l’Évangile selon Matthieu. Il siège entre deux [colonnes](/fr/bibliotheque/symboles-tarot/colonnes/), une tiare à trois étages sur la tête, une main levée : les clés appartiennent à l’institution au nom de laquelle il parle.
 
