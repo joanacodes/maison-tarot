@@ -78,12 +78,15 @@ defaultContentLanguageInSubdir = false
       "https://maisontarot.substack.com",
     ]
   [params.legal]
-    publisherName = ""   # [À COMPLÉTER]
-    status = ""          # [À COMPLÉTER] ex. Entrepreneur individuel
-    address = ""         # [À COMPLÉTER]
-    siren = ""           # [À COMPLÉTER]
+    publisherName = "Joana Mehou-Loko EI"   # nom légal ; « EI » obligatoire depuis 2022 à côté du nom d'un entrepreneur individuel
+    status = "Entrepreneur individuel (EI)"
+    address = "47 rue Vivienne, 75002 Paris"   # adresse professionnelle : c'est elle qui s'affiche, jamais le domicile
+    siren = "908 032 139"
+    director = "Joana Mehou-Loko"   # directrice de la publication (mention légale), distincte du nom d'autrice affiché sous les articles
+    phone = ""           # [À COMPLÉTER] téléphone exigé par la LCEN pour une personne physique ; un numéro professionnel suffit
     hostName = "GitHub, Inc."
     hostAddress = "88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA"
+    hostPhone = "+1 877 448 4820"
     mediator = ""        # [À COMPLÉTER] médiateur de la consommation
   [params.numbers]
     readings = 300

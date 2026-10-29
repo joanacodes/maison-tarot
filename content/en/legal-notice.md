@@ -13,13 +13,14 @@ This site is published from France. French law requires the information below (*
 {{< legal-field key="status" label="legal status" >}}<br>
 {{< legal-field key="address" label="address" >}}<br>
 SIREN: {{< legal-field key="siren" label="SIREN / SIRET" >}}<br>
+Phone: {{< legal-field key="phone" label="business phone" >}}<br>
 Contact: {{< lang-email >}}
 
-Publication director: {{< author-field key="name" label="author name" >}}
+Publication director: {{< legal-field key="director" label="publication director" >}}
 
 ## Hosting provider
 
-{{< legal-field key="hostName" label="host" >}} — {{< legal-field key="hostAddress" label="host address" >}}
+{{< legal-field key="hostName" label="host" >}} — {{< legal-field key="hostAddress" label="host address" >}} — {{< legal-field key="hostPhone" label="host phone" >}}
 
 ## Intellectual property
 

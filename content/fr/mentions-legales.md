@@ -11,13 +11,14 @@ noindex: true
 {{< legal-field key="status" label="statut juridique" >}}<br>
 {{< legal-field key="address" label="adresse" >}}<br>
 SIREN : {{< legal-field key="siren" label="SIREN / SIRET" >}}<br>
+Téléphone : {{< legal-field key="phone" label="téléphone professionnel" >}}<br>
 Contact : {{< lang-email >}}
 
-Directrice de la publication : {{< author-field key="name" label="nom de l’autrice" >}}
+Directrice de la publication : {{< legal-field key="director" label="directrice de la publication" >}}
 
 ## Hébergeur
 
-{{< legal-field key="hostName" label="hébergeur" >}} — {{< legal-field key="hostAddress" label="adresse de l’hébergeur" >}}
+{{< legal-field key="hostName" label="hébergeur" >}} — {{< legal-field key="hostAddress" label="adresse de l’hébergeur" >}} — {{< legal-field key="hostPhone" label="téléphone de l’hébergeur" >}}
 
 ## Propriété intellectuelle
 
