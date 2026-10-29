@@ -16,7 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/wa05.webp
 h1: Cinq de Bâtons — <em>cinq</em>, le Feu
-lede: 'Cinq jeunes gens dépareillés croisent leurs bâtons sans qu’aucun coup ne porte : jeu, rivalité ou répétition ? Et dans votre groupe, qui a dit tout haut ce que vous cherchez à faire ensemble ?'
+lede: 'Cinq jeunes gens dépareillés croisent leurs bâtons sans qu’aucun coup ne porte : jeu, rivalité ou répétition ? Et dans votre groupe, quelqu’un a-t-il seulement nommé le but commun ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -81,6 +81,6 @@ Renversé, le conflit passe sous la table ou déborde. Soit tout le monde évite
 
 Inventons un tirage où toute la bousculade du Cinq de Bâtons se retrouve à côté de l’As d’Épées. Le nombre : cinq, puis un — l’épreuve, puis un nouveau départ. L’élément : le Feu, puis l’Air — l’énergie, puis la décision ; des quatre éléments, l’Air est celui qui tranche le mieux, là où le Feu est trop impulsif. Les couleurs : le patchwork du Cinq, puis le gris uni de l’As d’Épées, une main blanche, une lame droite.
 
-La mêlée, puis une lame qui tranche : « Autour de vous, ça s’agite — une équipe, un groupe, une famille — et chacun défend son idée. Ce qui manque, ce n’est pas l’énergie. C’est une décision claire, annoncée à tous, et vous êtes peut-être la personne la mieux placée pour la prendre. »
+La mêlée, puis une lame qui tranche : « Dans votre équipe, votre groupe ou votre famille, chacun tire de son côté et défend son idée. Ce qui manque, ce n’est pas l’énergie. C’est une décision claire, annoncée à tous, et vous êtes peut-être la personne la mieux placée pour la prendre. »
 
 Je demande alors à la personne si un groupe aussi bruyant existe bien dans sa vie, et qui en fait partie. Si son entourage est calme de ce côté-là, j’inscris la phrase comme fausse, point. Lire deux cartes ainsi, clé par clé, c’est par là que commence [l’apprentissage du tarot](/fr/apprendre-le-tarot/) ici.

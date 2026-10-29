@@ -97,4 +97,4 @@ Inventons un tirage : l’Empereur, puis le [Huit d’Épées](/fr/bibliotheque/
 
 Devant la personne, je risquerais : « Vous avez construit des règles pour vous protéger, et maintenant ce sont des murs que vous ne voyez plus. »
 
-Je demanderais ensuite : y a-t-il une de vos règles — au travail, à la maison — que vous laisseriez tomber demain si personne ne regardait ? Dans mes notes, la captive du Huit d’Épées s’enferme elle-même, outils à portée de main, et rien ne l’empêche d’ôter le bandeau. Si la personne n’en trouve aucune, c’est moi qui me suis trompée de mur, et je l’écris.
+Je demanderais ensuite : y a-t-il une de vos règles — au travail, à la maison — que vous laisseriez tomber demain si personne ne regardait ? Dans mes notes, la captive du Huit d’Épées s’enferme elle-même, ses outils près d’elle, et son bandeau tomberait d’un geste. Si la personne n’en trouve aucune, c’est moi qui me suis trompée de mur, et je l’écris.

@@ -37,7 +37,7 @@ Put together, 11:11 reads as a choice between two things, waiting to be weighed 
 
 {{< cards "ar11 ar01 ar02" >}}
 
-One detail, if you come from the Tarot de Marseille: there, 11 is Strength and Justice is 8. The Rider-Waite-Smith swapped them — [the differences between the two decks](/blog/marseille-vs-rider-waite/) have their own article.
+One detail, if you come from the Tarot de Marseille: there, 11 is Strength and Justice is 8. The Rider-Waite-Smith swapped them, one of several [differences between the two decks](/blog/marseille-vs-rider-waite/).
 
 ## Why 11:11 and not 10:47 {#why-everywhere}
 

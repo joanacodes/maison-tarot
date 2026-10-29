@@ -39,7 +39,7 @@ From the UK it's a partial eclipse, in the morning. In London it starts at about
 
 ## What astrologers read in the 2027 eclipses {#signs}
 
-In 2027 the eclipse seasons fall in February and in late July–August, and the axis astrologers will talk about is [Leo](/library/astrology/leo/) and [Aquarius](/library/astrology/aquarius/): both solar eclipses and the August lunar one sit on it, because that's where the Moon's Nodes are that year. Leo's verb is “I will”: self-expression, pride, the heart that wants to be seen. Aquarius's is “I know”: the group, ideas, what's coming next. Read together, the theme is the pull between me and us. If you like to give each sign a card, the Golden Dawn tradition puts Strength on Leo and the Star on Aquarius.
+In 2027 the eclipse seasons fall in February and in late July–August, and the axis astrologers will talk about is [Leo](/library/astrology/leo/) and [Aquarius](/library/astrology/aquarius/): both solar eclipses and the August lunar one sit on it, because that's where the Moon's Nodes are that year. Leo's verb is “I will”: self-expression, pride, the heart that wants to be seen. Aquarius's is “I know”: the group, ideas, what's coming next. Read together, the theme is the pull between me and us. If you like to give each sign a card, the old Golden Dawn pairings match Leo with Strength and Aquarius with the Star.
 
 {{< cards "ar08 ar17" >}}
 

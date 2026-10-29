@@ -47,7 +47,7 @@ On ne voit jamais son visage. On voit ce qu’il voit. **Le Trois de Bâtons, c�
 
 ## Par le nombre : trois {#nombre}
 
-[Trois](/fr/bibliotheque/numerologie/chiffre-3/), c’est la cadence : la machine qui tourne, le contrat qui marche. Après l’hésitation du Deux, quelque chose a été envoyé, et ça tient. Instagram a connu ce moment : l’application lancée, les inscriptions qui suivent, et des gens qui reviennent sans qu’on les relance.
+[Trois](/fr/bibliotheque/numerologie/chiffre-3/), c’est la cadence : la machine qui tourne, le contrat qui marche. Après l’hésitation du Deux, quelque chose a été envoyé, et ça tient. Instagram l’a vécu au lancement : l’application en ligne, les inscriptions qui suivent, et des gens qui reviennent sans qu’on les relance.
 
 Mon conseil devant un 3 : bouclez ce qui est en route avant d’ouvrir un nouveau chantier — et sur cette carte, il vise juste. Un homme qui a vu partir ses premiers bateaux imagine déjà la flotte suivante. Le revers du 3, c’est exactement ça : lancer du neuf avant que le reste soit rentré au port, et une certaine solitude en haut de la falaise.
 

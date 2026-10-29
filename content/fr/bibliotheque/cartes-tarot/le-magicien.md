@@ -65,7 +65,7 @@ Le jaune remplit le fond : la joie, l’expression de soi, la volonté. Mes note
 
 ## Par l’astrologie : Mercure {#astrologie}
 
-[Mercure](/fr/bibliotheque/astrologie/mercure/), le messager, est la planète du Magicien pour la Golden Dawn : la façon de penser, de parler, d’apprendre. Ça colle à un personnage qui fait le lien entre le ciel et le sol. Mercure gouverne les Gémeaux, qui parlent, et la Vierge, qui vérifie ; le Magicien a besoin des deux.
+[Mercure](/fr/bibliotheque/astrologie/mercure/), le messager, gouverne le Magicien dans la Golden Dawn ; à lui la façon de penser, de parler, d’apprendre. Ça colle à un personnage qui fait le lien entre le ciel et le sol. Mercure gouverne les Gémeaux, qui parlent, et la Vierge, qui vérifie ; le Magicien a besoin des deux.
 
 ## En lecture {#lecture}
 

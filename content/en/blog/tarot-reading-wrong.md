@@ -43,7 +43,7 @@ The honest answer is the short one: “Then that one’s a miss.”
 
 After the reading, open your notebook: your sentences go on the left, the person’s answers on the right. For this one, the right-hand column reads “no — on her own all month”. Mark it as a miss.
 
-Writing it down is the difference between believing the method works and knowing when it does. I kept that notebook for my readings for strangers, and the one-in-ten figure comes from it: a manual tally, not a study. The format is in [how I keep a reading notebook](/blog/tarot-journal/).
+Writing it down is the difference between believing the method works and knowing when it does. I kept that notebook for my readings for strangers, and the one-in-ten figure comes from it: a manual tally, not a study. The format is in [the reading-notebook guide](/blog/tarot-journal/).
 
 If the person writes days later to say something did happen, my suggestion is to add a new line with the date rather than rewrite the first. My very first reading for a stranger went that way: a miss on the day, and three or four days later a text to say all of it had happened. Both things are true, and a notebook should be able to show both.
 

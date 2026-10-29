@@ -20,7 +20,7 @@ These are the words of the cards and of the reading itself. Words like empath, s
 1. **Tarot deck** — a set of 78 cards: 22 major arcana and 56 minor arcana. Example: the Rider-Waite-Smith follows exactly that structure, like most tarot decks sold today.
 2. **Arcana** — from the Latin *arcanum*, "a secret"; in tarot, the word for the cards themselves. Example: "the major arcana" are the 22 big cards; one of them is "an arcanum".
 3. **Major arcana** — the 22 named cards, numbered 0 to 21, from the Fool to the World. They speak about the big chapters of a life. Example: Death is major arcanum number 13.
-4. **Minor arcana** — the other 56 cards, in four suits of fourteen. They speak about the days inside those chapters. Example: the Three of Cups is a minor. [The difference between the two groups](/blog/major-vs-minor-arcana/) has its own page.
+4. **Minor arcana** — the other 56 cards, in four suits of fourteen. They speak about the days inside those chapters. Example: the Three of Cups is a minor. [The difference between the two groups](/blog/major-vs-minor-arcana/) gets a full comparison.
 5. **Suit** — one of the four families of the minor arcana, each tied to an element; the Wands are Fire, the Cups Water, the Swords Air and the Pentacles Earth. Example: a spread full of Cups is mostly about feelings and relationships.
 6. **Pip cards** — the numbered minors, Ace to Ten, forty in all. Example: the Five of Pentacles is a pip card.
 7. **Court cards** — the sixteen "people" cards: Page, Knight, Queen and King of each suit. Example: the King of Cups, often read as a person, or as a way of behaving.

@@ -52,11 +52,11 @@ offers:
 methodImage: "method.jpg"
 methodAlt: "Carnet de comptage des 300 tirages, ouvert sur une table"
 methodTitle: "Avant chaque tirage, je me dis que je vais dire <em>n’importe quoi</em>."
-methodText: "Plus je baisse l’attente, plus c’est juste. J’ai fait 300 tirages gratuits pour des inconnus qui ne me disaient rien, j’ai compté, et je publie le résultat — y compris ce qui n’a pas marché."
+methodText: "Plus je baisse l’attente, plus c’est juste. J’ai tiré les cartes 300 fois, gratuitement, pour des inconnus restés muets sur leur question ; j’ai compté, et je publie le résultat — y compris ce qui n’a pas marché."
 whereTitle: "Où la Maison reçoit, en français"
 ---
 Bienvenue à Maison Tarot. Ici, on apprend à lire les cartes, on vérifie si ça marche, et on garde ce qui tient.
 
-J’ai fait 300 tirages pour des inconnus qui ne me disaient rien, j’ai compté, et je publie mes chiffres — y compris mes erreurs. Je ne vends pas de don, parce que je n’en ai pas que vous n’ayez pas. J’enseigne une méthode : des clés de lecture pour lire une carte que vous n’avez jamais vue, sans mémoriser les 78.
+Trois cents lectures à l’aveugle, chacune notée et vérifiée : mes chiffres sont publiés, erreurs comprises. Je ne vends pas de don, parce que je n’en ai pas que vous n’ayez pas. J’enseigne une méthode : des clés de lecture pour lire une carte que vous n’avez jamais vue, sans mémoriser les 78.
 
-La Maison a des règles. Pas de hiérarchie entre lecteurs, pas de dépendance, pas de gourou. Vous êtes la personne qui décide ; les cartes ne sont qu’un écran. Le but, écrit noir sur blanc : que vous n’ayez plus besoin de nous.
+La Maison a des règles. Pas de hiérarchie entre lecteurs, pas de dépendance, pas de gourou. Vous êtes la personne qui décide ; les cartes ne servent que de support. Le but, écrit noir sur blanc : que vous n’ayez plus besoin de nous.

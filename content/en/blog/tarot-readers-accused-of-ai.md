@@ -64,4 +64,4 @@ Then reread the reading yourself, as if a stranger had written it. If it could h
 
 ## Where to see a reading with nothing to suspect {#next-step}
 
-I don’t sell readings, written or otherwise. I read at free events, live, for people drawn at random who’ve told me nothing, and I say out loud when something misses. If you’d like to see what a reading looks like when there’s no text to doubt, [come to one](/events/).
+I don’t sell readings, written or otherwise. I read at free events, live, for people drawn at random who’ve told me nothing, and I say out loud when something misses. [Come to an event](/events/) to watch a reading with no written text to doubt.

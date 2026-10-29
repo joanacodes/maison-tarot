@@ -50,7 +50,7 @@ Après le 7 de la Tour, le bilan, le 8 est ce sur quoi on reconstruit. Instagram
 
 ## Par l’élément : Air {#element}
 
-L’Étoile est une carte d’[Air](/fr/bibliotheque/quatre-elements/element-air/), alors qu’elle est pleine d’eau, et ça mérite qu’on s’y arrête. L’Air, c’est le mental, la décision, la communication ; comme il embrasse tout d’un coup, c’est l’élément qui décide le mieux. L’eau, ici, n’est pas une inondation. Elle est versée : choisie, dosée, dirigée.
+L’Étoile est une carte d’[Air](/fr/bibliotheque/quatre-elements/element-air/), alors qu’elle est pleine d’eau, et ça mérite qu’on s’y arrête. L’Air, c’est le mental, la décision, la communication ; comme il embrasse tout d’un coup, c’est lui qui tranche le plus sûrement. L’eau, ici, n’est pas une inondation. Elle est versée : choisie, dosée, dirigée.
 
 L’Étoile, c’est donc l’espoir comme décision plutôt que comme humeur — vous décidez où vont votre attention et votre soin. Le risque de l’Air reste le même : une idée qu’on continue d’arroser sans vérifier que quelque chose pousse.
 

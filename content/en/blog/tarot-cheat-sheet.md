@@ -29,7 +29,7 @@ Start with colour, because it asks for no knowledge at all. Look at the colour t
 | Grey | Neutrality, no particular will, stability |
 | Purple | Whoever a group elects to lead |
 
-Each colour has [its own page in the Library](/library/tarot-colours/), with the cards where it dominates.
+Every colour is [written up in the Library](/library/tarot-colours/), with the cards where it dominates.
 
 ## Question 2: what number is it? {#number}
 

@@ -61,7 +61,7 @@ Lues dans l’ordre : la paix devant, l’énergie derrière, les sentiments à 
 
 ## Par l’astrologie : Sagittaire {#astrologie}
 
-C’est le [Sagittaire](/fr/bibliotheque/astrologie/sagittaire/) que la Golden Dawn met derrière Tempérance, le signe dont le verbe est « Je vois, j’essaie ». Le Sagittaire, c’est le voyageur qui accumule les savoirs en partant, puis les mélange pour voir ce qu’ils donnent ensemble — le travail même de l’ange avec ses deux coupes. C’est aussi le signe qui juge plus lentement que les autres : Tempérance ne choisit pas entre ses coupes, elle les combine.
+C’est le [Sagittaire](/fr/bibliotheque/astrologie/sagittaire/) que la Golden Dawn met derrière Tempérance ; son verbe : « Je vois, j’essaie ». Le Sagittaire, c’est le voyageur qui accumule les savoirs en partant, puis les mélange pour voir ce qu’ils donnent ensemble — le travail même de l’ange avec ses deux coupes. C’est aussi le signe qui juge plus lentement que les autres : Tempérance ne choisit pas entre ses coupes, elle les combine.
 
 ## En lecture {#lecture}
 
@@ -81,4 +81,4 @@ Tempérance, avec le Deux de Pentacles à côté : de quoi vous exercer. 14, don
 
 La phrase que je dirais : « Vous jonglez avec deux choses très concrètes — le travail et autre chose, peut-être — et plutôt que d’en lâcher une, vous essayez de les faire tenir ensemble. Vous y arrivez, doucement. »
 
-Reste à interroger la personne : y a-t-il un équilibre qu’elle cherche ? Deux choses entre lesquelles elle refuse de choisir ? Si rien ne se mélange chez elle, la phrase part au carnet, sans que je m’y attarde.
+Reste à interroger la personne : cherche-t-elle un équilibre ? Deux choses entre lesquelles elle refuse de choisir ? Si rien ne se mélange chez elle, la phrase part au carnet, sans que je m’y attarde.

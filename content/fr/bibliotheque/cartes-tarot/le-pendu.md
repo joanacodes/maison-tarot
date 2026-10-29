@@ -49,7 +49,7 @@ Remarquez ce qui manque : pas de corde au cou, pas de bourreau, pas de lutte, au
 
 Douze se réduit au [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/) : la machine se lance, la première chose fonctionne. Pour une carte où l’on reste suspendu, c’est surprenant, et c’est la clé. Le résultat du Pendu, c’est un nouveau point de vue, la première chose qui sort de la pause — et il y a un triangle dessiné dans ses propres bras.
 
-Le conseil du 3 lui va aussi : terminer ce qui est en cours avant d’attaquer autre chose. Instagram, une fois lancé, n’a plus eu besoin qu’on le pousse : les gens revenaient d’eux-mêmes. C’est la leçon du Pendu — parfois les choses avancent parce qu’on a arrêté de pousser.
+Le conseil du 3 lui va aussi : clore une affaire avant d’en attaquer une autre. Instagram, une fois lancé, n’a plus eu besoin qu’on le pousse : les gens revenaient d’eux-mêmes. C’est la leçon du Pendu — parfois les choses avancent parce qu’on a arrêté de pousser.
 
 ## Par l’élément : Eau {#element}
 
@@ -99,4 +99,4 @@ Voici une paire à lire vous-même : le Pendu, puis le Huit de Coupes. 12, donc 
 
 Lue d’un trait, la paire me ferait dire : « Vous attendez depuis un moment quelque chose qui compte pour vous, et pendant cette attente vous avez commencé à le voir autrement — assez pour que partir ne vous fasse plus peur. »
 
-Les questions, ensuite : y a-t-il quelque chose que la personne a arrêté de forcer ? L’idée de passer à autre chose lui semble-t-elle plus légère qu’avant ? Si rien ne s’est relâché chez elle, je préfère dire que j’ai raté plutôt que tordre la lecture pour qu’elle colle.
+Les questions viennent après : la personne a-t-elle arrêté de forcer quelque chose ? L’idée de passer à autre chose lui semble-t-elle plus légère qu’avant ? Si rien ne s’est relâché chez elle, je préfère dire que j’ai raté plutôt que tordre la lecture pour qu’elle colle.

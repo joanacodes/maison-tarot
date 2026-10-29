@@ -17,7 +17,7 @@ In love, the Hanged Man is a pause, not a verdict. Something is on hold — a re
 
 ## A 3 on hold, in still water {#three-on-hold}
 
-The Hanged Man is 12, and 1 + 2 = [3](/library/numerology/number-3/): things in motion, the contract that works. Number 3 comes with a rule in my notes: close what you’ve started before you begin something else. Its minus is the reverse, something new begun while the last thing is still open. In love, that’s most of the card: don’t rush into the next chapter while this one is still open.
+The Hanged Man is 12, and 1 + 2 = [3](/library/numerology/number-3/): things in motion, the contract that works. Number 3 comes with a rule in my notes: close what you’ve started before you begin something else. Its minus is the reverse: something new begun before the last thing is finished. In love, that’s most of the card: don’t rush into the next chapter while this one is still open.
 
 The element is Water — emotion, what flows — and the energy is feminine: patience, thinking, what happens behind the scenes. A pause in love is a Water thing. Feelings keep moving while nothing outward happens, and a feeling nobody talks about doesn’t stay still: in my notes it seeps into everything with time, like mould slowly eating a house.
 

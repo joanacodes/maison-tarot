@@ -81,4 +81,4 @@ Considérez une lecture imaginaire où le Huit d’Épées sort à côté du [Va
 
 La cage d’épées et le jeune homme penché sur sa pièce, mis bout à bout : « Vous avez l’impression de ne pas pouvoir bouger d’où vous êtes, et vous vous dites que vous n’en savez pas assez pour partir. Vous en savez plus que vous ne le pensez, et ce qui vous fera sortir, c’est d’apprendre une chose concrète. »
 
-Puis vérifiez : « Y a-t-il un endroit de votre vie où vous avez l’impression de ne pas pouvoir bouger en ce moment ? » Si oui, demandez à la personne ce qui, selon elle, lui manque. Si non, rien ne la retient de ce côté-là ; notez que la phrase n’a pas tenu.
+Puis vérifiez : « Avez-vous, en ce moment, l’impression de ne pas pouvoir bouger quelque part dans votre vie ? » Si oui, demandez à la personne ce qui, selon elle, lui manque. Si non, rien ne la retient de ce côté-là ; notez que la phrase n’a pas tenu.

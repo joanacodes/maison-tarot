@@ -16,7 +16,7 @@ energy: Féminine
 kabbalah: Zayin
 image: cards/ar06.webp
 h1: Les Amoureux — <em>6</em>, l’Air
-lede: 'Sous un grand ange aux ailes rouges, deux personnages nus restent à distance, lui devant un arbre de flammes, elle devant l’arbre au serpent. Quel choix êtes-vous en train de faire, et le faites-vous les yeux ouverts ?'
+lede: 'Sous un grand ange aux ailes rouges, deux personnages nus restent à distance, lui devant un arbre de flammes, elle devant l’arbre au serpent. Quel choix se joue pour vous, et le faites-vous les yeux ouverts ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-air
@@ -43,7 +43,7 @@ tags:
 
 Un homme et une femme nus se tiennent à distance l’un de l’autre, en plein air, sous un grand ange. L’ange déploie des ailes rouges au-dessus d’eux depuis un nuage, les bras ouverts, devant un immense soleil. Derrière l’homme se dresse un arbre aux feuilles de flammes ; derrière la femme, un arbre chargé de fruits, un serpent enroulé autour du tronc. Entre eux, au loin, une seule haute montagne.
 
-Suivez les regards : lui la regarde, elle lève la tête vers l’ange. Personne ne regarde la même chose.
+Regardez où vont les yeux : l’homme fixe la femme, qui, elle, lève la tête vers l’ange. Personne ne regarde la même chose.
 
 Ce qui manque : le contact — leurs mains ne se touchent pas. Pas d’alliance, pas de foule, pas de cérémonie. Au tarot de Marseille, la carte s’appelle l’Amoureux, au singulier, et montre un jeune homme entre deux femmes : le choix y saute aux yeux. **Le dessin parle d’un choix qui se fait sous un regard, plus que d’une romance déjà scellée.**
 

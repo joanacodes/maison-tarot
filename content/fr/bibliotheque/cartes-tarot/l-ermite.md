@@ -52,7 +52,7 @@ C’est l’étape d’Instagram où une refonte efface tout ce qui faisait l’
 
 L’Ermite est une carte de [Terre](/fr/bibliotheque/quatre-elements/element-terre/), ce qui surprend ceux qui le voient comme un pur esprit. La Terre, c’est la patience, la ténacité, l’endurance — et l’entêtement. C’est l’ascension faite à pied, un pas après l’autre, appuyé sur un bâton. Personne ne l’a porté jusque-là.
 
-La Terre, c’est aussi ce qui compte à vos yeux, que ça se chiffre ou non. Ses richesses à lui tiennent dans une lanterne, un bâton, et ce qu’il a appris en montant.
+La Terre, c’est aussi la richesse au sens large, celle des comptes comme celle du cœur. Ses richesses à lui tiennent dans une lanterne, un bâton, et ce qu’il a appris en montant.
 
 ## Par les couleurs {#couleurs}
 
@@ -62,7 +62,7 @@ Tout ce gris piqué d’un point jaune suffit à raconter une période calme et 
 
 ## Par l’astrologie : Vierge {#astrologie}
 
-Chez la Golden Dawn, l’Ermite va avec la [Vierge](/fr/bibliotheque/astrologie/vierge/), le signe dont le verbe est « J’analyse ». La Vierge est solitaire par nature et veut pourtant servir quelque chose de plus grand qu’elle — l’ingénieur, le conseiller du trône. C’est la lanterne de l’Ermite : une lumière trouvée seul, puis levée pour les autres.
+Chez la Golden Dawn, l’Ermite va avec la [Vierge](/fr/bibliotheque/astrologie/vierge/), qui a pour verbe « J’analyse ». La Vierge est solitaire par nature et veut pourtant servir quelque chose de plus grand qu’elle — l’ingénieur, le conseiller du trône. C’est la lanterne de l’Ermite : une lumière trouvée seul, puis levée pour les autres.
 
 ## En lecture {#lecture}
 

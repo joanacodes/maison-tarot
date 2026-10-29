@@ -58,7 +58,7 @@ Mon archétype de l’Air, c’est le chef qui prend les décisions que personne
 
 ## Par les couleurs {#couleurs}
 
-L’essentiel de la carte est d’un [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) pâle : la robe, le ciel. Dans ma grille, le bleu, c’est l’émotion, l’eau, ce qui purifie — ici, un tempérament calme, une tête qui reste froide. Le manteau [violet](/fr/bibliotheque/couleurs-tarot/violet/), c’est la couleur que j’appelle « celui qu’un groupe a choisi », un rouge mûri : une autorité confiée par les autres, la couleur de l’Empereur. Le capuchon rouge et la doublure rouge orangé, c’est l’action, gardée près du visage. La couronne d’or, la valeur et le rang. Sa tenue résume la carte : une tête calme, une autorité choisie, une action tenue en bride.
+L’essentiel de la carte est d’un [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) pâle : la robe, le ciel. Le bleu de ma grille dit l’émotion et ce qui purifie — ici, un tempérament calme, une tête qui reste froide. Le manteau [violet](/fr/bibliotheque/couleurs-tarot/violet/), c’est la couleur que j’appelle « celui qu’un groupe a choisi », un rouge mûri : une autorité confiée par les autres, la couleur de l’Empereur. Le capuchon rouge et la doublure rouge orangé, c’est l’action, gardée près du visage. La couronne d’or, la valeur et le rang. Sa tenue résume la carte : une tête calme, une autorité choisie, une action tenue en bride.
 
 ## En lecture {#lecture}
 

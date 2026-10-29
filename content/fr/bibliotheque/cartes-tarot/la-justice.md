@@ -52,7 +52,7 @@ Dans l’histoire d’Instagram, le 2, c’est le moment où les fondateurs sign
 
 La Justice est une carte d’[Air](/fr/bibliotheque/quatre-elements/element-air/), et l’Air est l’élément des décisions : penser, analyser, communiquer, trancher net. L’épée qu’elle tient, c’est l’outil même de la série.
 
-L’Air voit tout à la fois, d’où sa supériorité pour trancher : le Feu s’emballe, l’Eau déborde, la Terre s’entête. Son risque, c’est le chef qui devient tyran — le jugement qui n’écoute plus.
+L’Air saisit l’ensemble d’un seul regard, d’où sa supériorité pour trancher : le Feu s’emballe, l’Eau déborde, la Terre s’entête. Son risque, c’est le chef qui devient tyran — le jugement qui n’écoute plus.
 
 ## Par les couleurs {#couleurs}
 

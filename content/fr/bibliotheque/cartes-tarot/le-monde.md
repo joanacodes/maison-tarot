@@ -50,7 +50,7 @@ Sur la dernière carte des arcanes majeurs, le 3 dit que le travail est devenu u
 
 ## Par l’élément : Terre {#element}
 
-Le Monde est une carte de [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, ce à quoi vous tenez, le résultat du travail. La Terre, c’est la ténacité et l’endurance, ce qui fait durer les choses — ce qui convient à la fin des majeurs : vingt et une cartes d’effort, et voici enfin quelque chose sur quoi tenir debout.
+Le Monde est une carte de [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, vos richesses quelles qu’elles soient, le résultat du travail. La Terre, c’est la ténacité et l’endurance, ce qui fait durer les choses — ce qui convient à la fin des majeurs : vingt et une cartes d’effort, et voici enfin quelque chose sur quoi tenir debout.
 
 Dans mes notes, le Monde, c’est l’action menée par le tout : les deux baguettes. Pas un seul outil qui pousse dans une seule direction, comme l’unique baguette levée du Magicien, mais tout ce que vous avez rassemblé qui travaille ensemble. Le moins de la Terre est le même que d’habitude : s’accrocher si longtemps à ce qui est fini qu’on ne peut plus commencer la suite.
 
@@ -60,7 +60,7 @@ Le [vert](/fr/bibliotheque/couleurs-tarot/vert/) de la couronne : la croissance,
 
 ## Par l’astrologie : Saturne {#astrologie}
 
-Le Monde reçoit de la Golden Dawn [Saturne](/fr/bibliotheque/astrologie/saturne/), et la Terre aussi. Saturne enseigne à la dure : il marque nos limites, l’endroit où il faut faire ses preuves et où l’on se sent en retard — puis, avec les années, ce qui devient solide justement parce que ça a coûté. Quand j’ai testé l’astrologie case par case, Saturne a fait partie des trois placements justes de 75 à 90 % du temps, et c’est ce résultat qui m’a fait garder l’astrologie. Je lis donc cette carte comme la récompense de Saturne : ce qu’on a fini par construire.
+Le Monde reçoit de la Golden Dawn [Saturne](/fr/bibliotheque/astrologie/saturne/), et la Terre aussi. Saturne, c’est l’école des limites : on y fait ses preuves, on s’y croit en retard, et c’est pourtant là que, des années plus tard, on se découvre solide, à force d’efforts. Quand j’ai testé l’astrologie case par case, Saturne a fait partie des trois placements justes de 75 à 90 % du temps, et c’est ce résultat qui m’a fait garder l’astrologie. Je lis donc cette carte comme la récompense de Saturne : ce qu’on a fini par construire.
 
 ## En lecture {#lecture}
 

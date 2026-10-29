@@ -23,7 +23,7 @@ That's what this place is built around. It's also worth saying what it isn't. Th
 
 The [Library](/library/) is free and holds everything I teach: colours, the four elements, numbers 1 to 10, feminine and masculine energies, astrological modes, and astrology and symbols for those who want them. Each of the 78 cards has its own page, linked to its lenses.
 
-For someone who learnt meanings by heart, the lenses are a second way in. Take the Eight of Swords. You may know it as "trapped". Through the number, eight is control, and a gate between what you can touch and what you can't. Through the element, Air is the mind. Put together, my note reads: a prisoner of yourself while you hold every tool, and free to take off the blindfold.
+For someone who learnt meanings by heart, the lenses are a second way in. Take the Eight of Swords. You may know it as "trapped". Through the number, eight is control, and a door between what's material and what isn't. Through the element, Air is the mind. Put together, my note reads: shut in by your own thoughts while holding all the keys, free to slip the blindfold whenever you choose.
 
 {{< cards "sw08" >}}
 
@@ -31,17 +31,17 @@ For someone who learnt meanings by heart, the lenses are a second way in. Take t
 
 ## The method: something to measure yourself against {#method}
 
-The [method](/method/) is the part experienced readers tend to argue with, and that's fine. It comes down to three habits. The person tells me nothing first. Before I read, I tell myself I'm about to talk nonsense, which keeps my ego quiet. And I keep a notebook in two columns: what I said, what was confirmed.
+The [method](/method/) is the part experienced readers tend to argue with, and that's fine. It comes down to three habits. The person tells me nothing first. Before I read, I expect to get it wrong, which keeps my ego quiet. And every reading goes into a notebook, my words on one side and the person's confirmations on the other.
 
 My notebook says about nine readings in ten held, and I publish the misses with the hits. What I'd offer a reader who already reads isn't my number, though; it's the notebook. Keep one for a month and you'll know your own rate, which is worth more to you than mine.
 
 ## Workshops and sessions: reading blind, with someone checking {#workshops}
 
-A [workshop](/workshops/) is three hours, twelve people at most, and one lens. You draw a card in the first ten minutes, and at the end you read a card you don't know in front of the others. There's no level to pass first; you start with whichever lens speaks to you.
+A [workshop](/workshops/) runs for three hours with no more than a dozen people, built around a single lens. A card is in your hands within minutes, and the session closes with you reading an unfamiliar card while the group watches. There's no level to pass first; you start with whichever lens speaks to you.
 
 For a beginner, that last exercise is a first. For a reader, it's practice under a little pressure, with up to eleven other people who can tell you what landed and what didn't. Giving that kind of feedback is a skill of its own, and I've written about [how to give feedback to another reader kindly](/blog/feedback-to-tarot-reader/).
 
-Sessions work the same way, one to one: an hour by video, you read first, I read after, and we compare. I teach because of one moment, when someone says something true and is shocked by what they've just said.
+Sessions work the same way, one to one: an hour by video, you read first, I read after, and we compare. I teach for one moment in particular: someone hits on a truth and can't believe they were the one who said it.
 
 ## Events: where readings happen in the open {#events}
 
@@ -51,7 +51,7 @@ For a reader, watching teaches as much as reading. You see someone handle a hard
 
 ## How I learnt, and why this place looks the way it does {#when-i-started}
 
-I started reading on 26 December 2020, with a deck my friends had given me. To my surprise, that very first reading was accurate; I'd expected to need training first. Within a few months I was reading for strangers: in a Discord group I'd found through Tumblr, in Facebook tarot groups, and by letter on a pen-pal app. [Where to find people to read for](/blog/where-to-find-people-to-read-for/) has the practical side of that.
+I started reading on 26 December 2020, with a deck my friends had given me. To my surprise, that very first reading was accurate, though I'd assumed I would have to study before anything landed. Within a few months I was reading for strangers: in a Discord group I'd found through Tumblr, in Facebook tarot groups, and by letter on a pen-pal app. [Where to find people to read for](/blog/where-to-find-people-to-read-for/) has the practical side of that.
 
 I learnt by reading for people who told me nothing and writing down what held. Most of what Maison Tarot offers readers is that same set-up, gathered in one place: strangers who say nothing first at the events, a notebook to count in, and a room of other readers at a workshop who can tell you what landed.
 

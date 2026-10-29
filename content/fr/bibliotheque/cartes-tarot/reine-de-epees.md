@@ -76,4 +76,4 @@ Voici une association à travailler : quelqu’un tire la Reine d’Épées, et 
 
 La lucidité à côté du chagrin, je la mettrais en mots comme ceci : « Quelque chose a été perdu, et vous êtes la première personne à le voir clairement. Vous pouvez déjà nommer ce qui s’est passé, même si votre entourage en est encore à regarder les coupes renversées. »
 
-Puis vérifiez : « Est-ce que ça ressemble à ce que vous vivez ? » Attendez la réponse, et laissez ses silences tranquilles. Si ça ne correspond pas, l’épée a tranché dans le vide : notez-le au carnet.
+Puis vérifiez : « Vous reconnaissez-vous là-dedans ? » Attendez la réponse, et laissez ses silences tranquilles. Si ça ne correspond pas, l’épée a tranché dans le vide : notez-le au carnet.

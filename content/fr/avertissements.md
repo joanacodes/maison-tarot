@@ -26,7 +26,7 @@ Ce n’est pas de la pruderie. Ce sont les sujets où une carte, même bien lue,
 
 ## Ce que je ne prétends pas {#pretentions}
 
-- Savoir **comment** ça marche. Je sais que ça marche à un certain taux, dans certaines conditions, et je dis lesquelles.
+- Savoir **comment** ça marche. Ce que je sais, c’est que ça tient à un certain pourcentage, quand certaines conditions sont réunies, et je dis lesquelles.
 - Avoir un **don**. Je n’en ai aucun que vous n’ayez pas.
 - Que mon décompte soit une **étude scientifique**. C’est un comptage manuel, non audité. « Juste » veut dire : la personne a dit que c’était juste.
 - Prédire **l’avenir**. Une lecture lit votre monde émotionnel au moment où elle a lieu. Le futur arrive rarement de la façon qu’on imagine, et c’est très bien.
@@ -35,9 +35,9 @@ Ce n’est pas de la pruderie. Ce sont les sujets où une carte, même bien lue,
 
 Agissez sur ce que vous ressentez, pas sur ce qui a été dit pendant une lecture. Une lecture n’est pas une injonction ; vous restez responsable de vos choix.
 
-Si vous vous surprenez à consulter tout le temps, ce n’est pas une histoire de tarot, c’est une recherche de validation extérieure : [éloignez-vous des tirages un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/), et entraînez le muscle qui décide.
+Si vous vous surprenez à consulter tout le temps, le tarot n’est pas le vrai sujet : vous cherchez une approbation hors de vous. [éloignez-vous des tirages un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/), et entraînez le muscle qui décide.
 
-Et si vous voyez le mal partout : le tarot n’est maléfique que pour ceux qui voient le mal partout. Une carte est un écran ; on n’a peur que de ce qu’on y projette.
+Et si le tarot vous paraît maléfique : le mal qu’on y voit vient du regard qu’on y pose. Une carte est un écran ; on n’a peur que de ce qu’on y projette.
 
 ## Quand la bonne porte est celle d’un thérapeute {#therapie}
 

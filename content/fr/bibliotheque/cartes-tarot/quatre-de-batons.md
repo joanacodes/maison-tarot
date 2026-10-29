@@ -16,7 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/wa04.webp
 h1: Quatre de Bâtons — <em>quatre</em>, le Feu
-lede: 'Sous une guirlande tendue entre quatre bâtons, deux silhouettes lèvent leurs bouquets devant un château aux toits rouges, dans un ciel tout jaune. Qu’avez-vous bâti qui mérite une fête, et qui laissez-vous entrer ?'
+lede: 'Sous une guirlande tendue entre quatre bâtons, deux silhouettes lèvent leurs bouquets devant les tours d’un château, dans un ciel tout jaune. Qu’avez-vous bâti qui mérite une fête, et qui laissez-vous entrer ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -49,7 +49,7 @@ Personne ne se bat, personne ne travaille, et personne ne tient les bâtons : il
 
 [Quatre](/fr/bibliotheque/numerologie/chiffre-4/), c’est le 2 exalté : après le contrat, tout va bien — stable, structuré, le fruit de votre travail. Dans mes propres notes, c’est le Quatre de Bâtons que je donne en exemple pour ce nombre : les fondations, le mariage, fonder une famille. Quatre bâtons plantés, ce sont les quatre coins d’une maison.
 
-Au 4, le succès rapide d’Instagram lui donne sa première forme stable, avec ses équipes et ses rituels. Ça tient. Le conseil du 4 — rester souple, ouvert à ce qu’on n’avait pas prévu — vaut aussi pour la maison : laissez de la place à qui se présentera. Son revers : poursuivre alors que le moment est venu de s’arrêter, ou s’entêter sur ce à quoi la maison doit ressembler. La guirlande le rappelle : elle fanera, et il faudra la remplacer. La fête n’a jamais été les murs.
+Au 4, le succès rapide d’Instagram lui donne sa première forme stable, avec ses équipes et ses rituels. Ça tient. Le conseil du 4 — rester souple, ouvert à ce qu’on n’avait pas prévu — vaut aussi pour la maison : laissez de la place à qui se présentera. Son revers : poursuivre quand il serait temps de s’arrêter, ou s’entêter sur ce à quoi la maison doit ressembler. La guirlande le rappelle : elle fanera, et il faudra la remplacer. La fête n’a jamais été les murs.
 
 ## Par l’élément : Feu {#element}
 

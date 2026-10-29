@@ -17,7 +17,7 @@ You don’t need spreads to read tarot. A spread is a tool for holding a questio
 
 A spread, or layout, is a set pattern for laying out cards in which each place — a position — carries a fixed question. In a past–present–future spread, the card on the left is read as the past, whichever card it is. The Sun in that place is a happy past; the Sun on the right is a happy direction.
 
-Readers use them in two ways, and I find both legitimate. Some follow set patterns: a career reading laid out this way, a love reading that way, every time. Others follow their intuition and invent a new spread for each person, or lay the cards in a row and let the story find its own shape. Give two readers the same cards and you may get two different stories, each with its reasons — one of the reasons I think of reading as [close to an art form](/blog/is-tarot-an-art-form/).
+Readers use them in two ways, and I find both legitimate. Some follow set patterns: a career reading laid out this way, a love reading that way, every time. Others follow their intuition and invent a new spread for each person, or lay the cards in a row and let the story find its own shape. Give two readers the same cards and you may get two different stories, each with its own logic — one of the reasons I think of reading as [close to an art form](/blog/is-tarot-an-art-form/).
 
 ## When a layout helps {#when-it-helps}
 

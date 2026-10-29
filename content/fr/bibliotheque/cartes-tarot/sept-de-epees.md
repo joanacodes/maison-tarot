@@ -81,4 +81,4 @@ Et si, pendant un entraînement, quelqu’un tirait le Sept d’Épées, puis le
 
 Le départ discret, puis les bateaux au loin, me souffleraient : « Vous êtes en train de quitter quelque chose sans bruit, avec plus que ce que vous aviez en arrivant, et vous regardez déjà plus loin. »
 
-Puis vérifiez : « Êtes-vous en train de quitter quelque chose sans l’avoir encore annoncé ? » Si la personne dit non, n’insistez pas ; la lecture s’arrête là. Si oui, la question suivante, c’est ce qu’elle laisse par terre, et si c’est voulu.
+Puis vérifiez : « Partez-vous de quelque part sans l’avoir encore annoncé ? » Si la personne dit non, n’insistez pas ; la lecture s’arrête là. Si oui, la question suivante, c’est ce qu’elle laisse par terre, et si c’est voulu.

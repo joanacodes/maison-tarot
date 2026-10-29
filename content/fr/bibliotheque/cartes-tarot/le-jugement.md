@@ -16,7 +16,7 @@ energy: Masculine
 kabbalah: Shin
 image: cards/ar20.webp
 h1: Le Jugement — <em>20</em>, le Feu
-lede: 'Un ange souffle dans une trompette dorée ; sur l’eau, des cercueils s’ouvrent et des corps gris se lèvent, bras tendus vers le son. Quel appel ne pouvez-vous plus faire semblant de ne pas entendre ?'
+lede: 'Un ange souffle dans une trompette dorée ; sur l’eau, des cercueils s’ouvrent et des corps gris se lèvent, bras tendus vers le son. Quel appel vous est-il devenu impossible d’ignorer ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -81,7 +81,7 @@ Parce que le dessin montre des morts qui se relèvent, certaines personnes craig
 
 ## Au travail {#au-travail}
 
-Au travail, le Jugement prend trois formes. Une vocation : quelque chose que vous vouliez faire bien avant d’avoir un emploi revient sans cesse — la formation que vous n’avez pas suivie, le métier que vous admiriez. Un bilan : l’entretien annuel, un bilan de compétences, l’anniversaire où vous relisez votre CV en vous demandant comment vous en êtes arrivé là ; la lame décrit le regard, pas la note. Une seconde chance : reprendre des études à quarante ans, repostuler là où l’on vous a dit non, ressortir un projet du tiroir. **Ceux qui se relèvent sur la carte ne sont pas de nouvelles personnes ; ce sont les mêmes, debout.** Avec le Huit de Pentacles, que je lis comme le métier qu’on maîtrise à force d’effort, la vocation devient un apprentissage.
+Au travail, le Jugement prend trois formes. Une vocation : quelque chose que vous vouliez faire bien avant d’avoir un emploi revient sans cesse — la formation que vous n’avez pas suivie, le métier que vous admiriez. Un bilan : l’entretien annuel, un bilan de compétences, l’anniversaire où vous relisez votre CV en vous demandant comment vous en êtes arrivé là ; la lame décrit le regard, pas la note. Une seconde chance : reprendre des études à quarante ans, repostuler là où l’on vous a dit non, ressortir un projet du tiroir. **Ceux qui se relèvent sur la carte ne sont pas de nouvelles personnes ; ce sont les mêmes, debout.** Avec le Huit de Pentacles, l’établi où l’on progresse pièce après pièce, la vocation devient un apprentissage.
 
 Renversé au travail, l’appel reste sans réponse (« quand les enfants seront plus grands », chaque mois de janvier), ou il en reçoit tant que vous refaites le bilan sans jamais décider. Dans le premier cas, faites un petit pas ; dans le second, arrêtez de refaire les comptes.
 

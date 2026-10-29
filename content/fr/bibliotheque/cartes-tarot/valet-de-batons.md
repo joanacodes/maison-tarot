@@ -16,7 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/wapa.webp
 h1: Valet de Bâtons — <em>le Valet</em>, la Terre de feu
-lede: 'Seul dans le désert, un jeune homme tient son bâton à deux mains et lève les yeux vers les pousses qui en sortent, comme devant un cadeau. Ce désir tout neuf, accepterez-vous d’apprendre à vous en servir ?'
+lede: 'Seul dans le désert, un jeune homme tient son bâton à deux mains, le regard levé vers les pousses qui en sortent, comme devant un cadeau. Ce désir tout neuf, accepterez-vous d’apprendre à vous en servir ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu

@@ -58,7 +58,7 @@ That’s why I teach the way I do. I got friends and family to try reading, and 
 5. Note it all in two columns, said and confirmed. Count the misses too.
 6. Do it ten times before you decide anything.
 
-The full first session is in [how to read tarot as a beginner](/blog/how-to-read-tarot-beginners/), and the counting is in [how I keep a reading notebook](/blog/tarot-journal/).
+The full first session is in [how to read tarot as a beginner](/blog/how-to-read-tarot-beginners/), and the counting is in [my notebook method, misses included](/blog/tarot-journal/).
 
 ## What you don’t have to sign up to {#what-you-dont-need}
 

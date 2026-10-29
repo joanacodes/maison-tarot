@@ -33,7 +33,7 @@ I keep a short list of three egos you meet in spiritual circles, and they’re w
 
 People usually fall into these after something that mattered: a reading that helped, an experience they can’t explain, a lot of thanks in a short time. Wanting that to have made you special is natural. The way out isn’t shame. It’s noticing, and I’ve written more about the word itself in [‘spiritual awakening’](/blog/spiritual-awakening/).
 
-**Each of these egos puts the reader at the centre; a practice works when the person being read stays there.** It’s also why I keep [a little distance from ‘spiritual’ circles](/blog/spiritual-but-not-in-spiritual-circles/): not from the people, from the ladders.
+**Each of these egos puts the reader at the centre; a practice works when the person being read stays there.** It’s also why I [keep ‘spiritual’ groups at arm’s length](/blog/spiritual-but-not-in-spiritual-circles/): not the people in them, the ladders.
 
 ## Hand the decision back {#you-decide}
 
@@ -55,7 +55,7 @@ So I point to the right door — a doctor, a lawyer, a therapist — without mak
 
 1. Ask permission before reading anyone, every time.
 2. Ask the person to tell you nothing first, so you can’t mistake their story for your reading.
-3. Keep a notebook: what you said, what was confirmed. Count the misses and say them.
+3. Log every reading, your claims on one side and the person’s answers on the other. Count the misses and say them.
 4. Teach the method rather than selling answers. It’s why I sell lessons and give readings away for free at events.
 5. Stop when you’re tired.
 6. Hand the compliments back. When someone tells you you’re special, [hand it back gently](/blog/you-have-a-gift/): it was their reading too.

@@ -67,7 +67,7 @@ Le rouge rouille de la tunique garde la force et l’action de la famille, et le
 
 La Golden Dawn voit dans cette carte le décan de la Lune en Sagittaire. La [Lune](/fr/bibliotheque/astrologie/lune/) parle pour le moi intime et son besoin de se sentir en sécurité. Le Sagittaire, c’est le voyageur qui veut tout essayer et aller voir. Mettez un besoin de sécurité chez quelqu’un fait pour partir, et vous obtenez cet homme. Chat échaudé craint l’eau froide : un esprit libre qui s’est brûlé une fois, et qui scrute l’horizon avant chaque pas.
 
-Pour qui lit avec l’astrologie, elle ajoute le côté intime, la peur sous la garde ; sans elle, le regard en coin de l’homme en dit déjà long.
+Avec l’astrologie, la carte gagne ce côté intime, la peur sous la garde ; sans elle, le regard en coin de l’homme en dit déjà long.
 
 ## En lecture {#lecture}
 

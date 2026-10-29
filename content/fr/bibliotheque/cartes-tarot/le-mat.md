@@ -16,7 +16,7 @@ energy: Masculine
 kabbalah: Aleph
 image: cards/ar00.webp
 h1: Le Mat — <em>zéro</em>, L’Air, le pas au-dessus du vide
-lede: 'Un jeune voyageur, baluchon sur l’épaule et regard au ciel, s’apprête à poser le pied dans le vide ; à ses côtés, un chien blanc bondit. Savez-vous que vous êtes au bord, et y allez-vous quand même ?'
+lede: 'Un jeune voyageur, baluchon sur l’épaule et regard au ciel, s’avance au bord de la falaise ; à ses côtés, un chien blanc bondit. Savez-vous que le vide est là, et y allez-vous quand même ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-air

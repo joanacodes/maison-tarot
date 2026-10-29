@@ -87,4 +87,4 @@ Disons qu’une collègue curieuse du tarot tire le Trois de Pentacles et le [Qu
 
 Le chantier, puis la coupe ignorée ; voici ce que j’en dirais : « Votre travail se passe bien, on compte sur vous, et vous ne ressentez plus rien en le faisant. »
 
-Je vérifie avec la question la plus directe : « Est-ce que le travail ressemble à ça en ce moment — ça va, mais c’est plat ? » Si c’est oui, je laisse la personne en dire ce qu’elle veut. Si son travail la passionne encore, l’erreur est de mon côté, et je l’inscris au carnet.
+Je vérifie avec la question la plus directe : « Est-ce que le travail ressemble à ça en ce moment — ça va, mais c’est plat ? » Si c’est oui, la suite lui appartient. Si son travail la passionne encore, l’erreur est de mon côté, et je l’inscris au carnet.

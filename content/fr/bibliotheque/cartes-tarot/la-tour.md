@@ -52,7 +52,7 @@ Le conseil du 7 va à cette carte mieux qu’à aucune autre : tout est temporai
 
 ## Par l’élément : Feu {#element}
 
-La Tour est une carte de [Feu](/fr/bibliotheque/quatre-elements/element-feu/). Le Feu crée et détruit : il sert à forger, à chauffer, à éclairer, et il file dès qu’on cesse de le surveiller. Dans mes notes sur les éléments, il y a une comparaison à laquelle je reviens pour cette carte : le feu détruit d’un coup, tandis que l’eau négligée détruit plus profond et plus lentement, comme la moisissure qui ronge une maison de l’intérieur.
+La Tour est une carte de [Feu](/fr/bibliotheque/quatre-elements/element-feu/). Le Feu crée et détruit : il sert à forger, à chauffer, à éclairer, et il file sitôt qu’on le quitte des yeux. Dans mes notes sur les éléments, il y a une comparaison à laquelle je reviens pour cette carte : le feu détruit d’un coup, tandis que l’eau négligée détruit plus profond et plus lentement, comme la moisissure qui ronge une maison de l’intérieur.
 
 La Tour, c’est la version rapide. Elle fait peur, et elle est honnête : on voit ce qui est tombé, et on peut repartir de là.
 
@@ -82,7 +82,7 @@ Au travail, c’est une structure qui rencontre la vérité. Un poste : une réo
 
 Renversée au travail, c’est l’effondrement au ralenti — le projet auquel plus personne ne croit — ou la chute en excès : le mail de démission écrit à minuit, tout le service en copie.
 
-La première question, c’est « Vais-je perdre mon poste ? », et je la comprends : un emploi, c’est le loyer, la routine, une partie de soi. Je ne la lis pas comme une prédiction. Votre poste dépend de gens absents de cette conversation et de décisions pas encore prises, et une carte qui dirait « vous êtes tranquille » ou « c’est fini » ajouterait un faux calme, ou un second choc au premier. Pour votre contrat, vos droits ou votre argent, voyez un représentant du personnel ou un avocat en droit du travail ([les sujets que je laisse aux professionnels](/fr/avertissements/#refus)). Posez-vous plutôt cette question-ci : « Que ferais-je la première semaine si cela arrivait ? » Celle-là a une réponse, qui transforme la peur en plan.
+La première question, c’est « Vais-je perdre mon poste ? », et je la comprends : un emploi, c’est le loyer, la routine, une partie de soi. Je ne la lis pas comme une prédiction. Votre poste dépend de gens absents de cette conversation et de décisions pas encore prises, et une carte qui dirait « vous êtes tranquille » ou « c’est fini » ajouterait un faux calme, ou un second choc au premier. Pour votre contrat, vos droits ou votre argent, voyez un représentant du personnel ou un avocat en droit du travail ([pourquoi ces questions vont à des professionnels](/fr/avertissements/#refus)). Posez-vous plutôt cette question-ci : « Que ferais-je la première semaine si cela arrivait ? » Celle-là a une réponse, qui transforme la peur en plan.
 
 Cette semaine, sans rien décider, faites deux listes : ce qui est tombé, et ce qui tient encore — vos compétences, les gens qui décrochent quand vous appelez. La seconde est souvent la plus longue. Et laissez les cartes de côté quelques jours, maintenant surtout : tirer une carte toutes les heures après un choc, c’est le choc qui parle.
 
@@ -92,6 +92,6 @@ Corsons l’exercice : la Tour à côté du [Quatre de Bâtons](/fr/bibliotheque
 
 Les nombres : 16 se ramène à 7, le bilan ; le Quatre de Bâtons est un 4, la stabilité, le fruit du travail — des fondations, un mariage, une famille qui se construit. Les éléments : Feu et Feu, donc ce qui arrive arrive vite. Les couleurs : le ciel noir de la Tour à côté du jaune lumineux du Quatre de Bâtons.
 
-Pour la personne, deux phrases suffiraient : « Ce que vous avez bâti est secoué en ce moment, et ce qui restera debout, c’est ce sur quoi vous construirez ensuite. La fête n’est pas annulée ; elle déménage sur un terrain plus solide. »
+Pour la personne, deux phrases suffiraient : « Votre édifice tremble en ce moment, et ce qui restera debout, c’est ce sur quoi vous construirez ensuite. La fête n’est pas annulée ; elle déménage sur un terrain plus solide. »
 
 Vérifiez ensuite, doucement : est-ce que quelque chose sur quoi la personne s’appuie — un logement, un projet, une équipe — est mis à l’épreuve en ce moment ? Laissez-la répondre avec ses mots. Si rien ne vacille chez elle, acceptez le raté au lieu de forcer les cartes à dire autre chose.

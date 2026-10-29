@@ -14,7 +14,7 @@ faq:
   - q: "Combien de temps faut-il pour apprendre le tarot ?"
     a: "Avec les clés, vous lisez une carte inconnue dès la première heure. Lire *bien* — c’est-à-dire savoir quand vous vous trompez — prend quelques dizaines de tirages comptés. Pas des années."
   - q: "Faut-il un don pour lire les cartes ?"
-    a: "Non. Il n’y a pas d’Élus. Sur 300 tirages gratuits pour des inconnus, j’ai compté ce qui tenait et ce qui ne tenait pas ; la méthode est publiée, et elle s’apprend."
+    a: "Non : ce n’est pas un don réservé à quelques-uns. Sur 300 tirages gratuits pour des inconnus, j’ai noté ce qui se confirmait et ce qui ratait ; la méthode est publiée, et elle s’apprend."
   - q: "Quel jeu de tarot choisir pour débuter ?"
     a: "Le Rider-Waite-Smith de 1909. Chaque carte est une scène qui se lit sans livre, et toute la Bibliothèque est construite dessus."
   - q: "Faut-il lire les cartes renversées ?"
@@ -28,9 +28,9 @@ C’est le principe de toute la [Bibliothèque](/fr/bibliotheque/) : des clés, 
 
 ## Les cinq clés, dans l’ordre {#les-cinq-cles}
 
-1. **[Les couleurs](/fr/bibliotheque/couleurs-tarot/)** — la clé la plus rapide. Le jaune dit la joie, le rouge l’action, le bleu l’émotion, le noir l’absence. Vous les voyez avant même de savoir quelle carte vous tenez.
+1. **[Les couleurs](/fr/bibliotheque/couleurs-tarot/)** — la clé la plus rapide. Le jaune pour la joie, le rouge pour l’action, le bleu pour l’émotion : vous les voyez avant même de savoir quelle carte vous tenez.
 2. **[Les quatre éléments](/fr/bibliotheque/quatre-elements/)** — la famille de la carte dit de quoi elle parle : la matière ([Terre](/fr/bibliotheque/quatre-elements/element-terre/)), les émotions ([Eau](/fr/bibliotheque/quatre-elements/element-eau/)), l’élan ([Feu](/fr/bibliotheque/quatre-elements/element-feu/)), le mental ([Air](/fr/bibliotheque/quatre-elements/element-air/)).
-3. **[La numérologie](/fr/bibliotheque/numerologie/)** — le nombre dit où en est la situation dans son cycle, du [1](/fr/bibliotheque/numerologie/chiffre-1/) qui commence au 10 qui tourne la page.
+3. **[La numérologie](/fr/bibliotheque/numerologie/)** — le nombre situe l’étape du cycle, du [1](/fr/bibliotheque/numerologie/chiffre-1/) qui commence au 10 qui tourne la page.
 4. **[Les énergies féminine et masculine](/fr/bibliotheque/energies-feminine-masculine/)** — la carte se montre-t-elle, ou se cache-t-elle ? Agit-elle, ou réfléchit-elle ?
 5. **[Les modes astrologiques](/fr/bibliotheque/modes-astrologiques/)** — cardinal, fixe, mutable : commencer, tenir, changer. La clé qui dit le tempo.
 
@@ -44,10 +44,10 @@ La suite — la phrase à se dire avant, la règle du silence, le carnet pour co
 
 ## Ce que j’ai vérifié {#verifie}
 
-J’ai fait 300 tirages gratuits pour des inconnus qui ne me disaient rien, et j’ai compté. Le résultat — environ neuf fois sur dix, à mon décompte, avec les ratés inclus — et la façon de compter sont sur la page [Méthode](/fr/methode/). Vous n’avez pas à me croire : la méthode est là pour que vous la testiez.
+Trois cents tirages gratuits, chaque fois sans connaître ni la question ni la vie de la personne, et tous comptés. Le résultat — environ neuf fois sur dix, à mon décompte, avec les ratés inclus — et la façon de compter sont sur la page [Méthode](/fr/methode/). Vous n’avez pas à me croire : la méthode est là pour que vous la testiez.
 
 ## Quand vous voulez quelqu’un en face {#en-face}
 
-Lire seul apprend beaucoup ; lire devant quelqu’un apprend plus vite. Les [ateliers](/fr/ateliers/) prennent une clé à la fois, trois heures, douze personnes, et finissent par une lecture à l’aveugle devant les autres. Les [sessions](/fr/sessions/) font la même chose à deux. Les [événements](/fr/evenements/) sont gratuits, et c’est là que les lectures ont lieu.
+Lire seul apprend beaucoup ; lire devant quelqu’un apprend plus vite. Un [atelier](/fr/ateliers/), c’est une seule clé travaillée pendant trois heures à douze, jusqu’à une lecture à l’aveugle devant le groupe. Les [sessions](/fr/sessions/) font la même chose à deux. Les [événements](/fr/evenements/) sont gratuits, et c’est là que les lectures ont lieu.
 
 Et si vous préférez d’abord lire tranquillement : [le Guide du lecteur](/fr/guide/) tient les cinq clés en quelques pages, gratuitement, pour toujours.

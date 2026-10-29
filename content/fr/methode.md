@@ -8,7 +8,7 @@ lede: "Comment je lis, comment j’ai compté, ce qui ne marche pas et quand je 
 navTitle: "Méthode"
 ---
 {{< short-answer >}}
-Trois cents fois, gratuitement, pour des inconnus qui ne me disaient rien, j’ai tiré les cartes en me disant que j’allais dire n’importe quoi. À mon décompte, c’était juste environ neuf fois sur dix — souvent avec des détails précis, parfois complètement à côté. Je publie les deux. Je ne sais pas pourquoi ça marche. Je sais dans quelles conditions ça marche mieux, et c’est ce que j’enseigne.
+Trois cents fois, gratuitement, face à des inconnus silencieux, j’ai tiré les cartes en me disant que j’allais dire n’importe quoi. À mon décompte, c’était juste environ neuf fois sur dix — souvent avec des détails précis, parfois complètement à côté. Je publie les deux. Pourquoi ça marche, je l’ignore. Ce que je connais, ce sont les conditions qui l’aident, et c’est cela que j’enseigne.
 {{< /short-answer >}}
 
 {{< ledger >}}
@@ -29,7 +29,7 @@ Ne rien attendre, c’est lâcher le frein. J’arrête de vérifier à chaque p
 
 Dans un carnet à deux colonnes : ce que j’ai dit, et ce que la personne a confirmé. Environ trois cents tirages pour des inconnus, tous gratuits, surtout en ligne — des serveurs Discord, des appels de groupe, un live — et quelques-uns en face à face.
 
-Juste, quand la personne se reconnaissait, qu’elle réagisse pendant que je parlais ou qu’elle le confirme après. Raté, quand rien ne touchait ou qu’elle me le disait. Un raté est un raté. Je ne le reformule pas, je ne tire pas une carte de plus pour le sauver, et il ne change de colonne que si la personne revient avec quelque chose qui s’est réellement passé.
+Juste, quand la personne se reconnaissait, qu’elle réagisse pendant que je parlais ou qu’elle le confirme après. Raté, quand rien ne touchait ou qu’elle me le disait. Un raté est un raté. Je ne le reformule pas, je n’ajoute aucune carte pour le rattraper, et il ne change de colonne que si la personne revient avec quelque chose qui s’est réellement passé.
 
 Cela donne environ neuf tirages sur dix justes, et un sur dix raté. C’est un décompte à la main, tenu par celle qui fait les tirages, et c’est précisément sa limite ; [les 300 tirages](/fr/blog/le-tarot-marche-t-il-300-tirages/) reprennent les chiffres et ce qu’ils ne prouvent pas.
 
@@ -41,13 +41,13 @@ Un tirage montre où vous en êtes, émotionnellement, le jour où il a lieu, et
 
 La pression, la mienne ou celle de l’autre. Parfois, rien ne vient : je force trop, ou la personne a peur de ce qu’elle pourrait entendre. La peur en général joue contre la lecture, parce que lire demande de s’ouvrir et que la peur fait se fermer, se recroqueviller. Moins je nourris mon imagination de choses effrayantes, plus la lecture devient facile.
 
-Lire quelqu’un qui n’a rien demandé. Une personne qui ne sait pas qu’on la lit n’est pas ouverte : on obtient une moitié de phrase et on bâtit toute une affirmation dessus. C’est l’une des raisons pour lesquelles [je ne lis pas sur les tiers](/fr/avertissements/#refus).
+Lire quelqu’un qui n’a rien demandé. Si la personne ignore qu’on la lit, elle reste fermée : on reçoit un bout de phrase, et on en tire une affirmation entière. Voilà en partie pourquoi [je ne lis pas sur les tiers](/fr/avertissements/#refus).
 
-Et les objets. En 2021, j’ai vendu de la sauge, des bougies et des cartes « canalisées », puis j’ai arrêté, parce que rien de tout ça n’améliorait un tirage ; [toute l’histoire](/fr/blog/purifier-son-jeu-de-tarot/) a sa page.
+Et les objets. En 2021, j’ai vendu sauge, bougies et cartes dites « canalisées ». J’ai cessé, parce qu’aucun de ces objets ne rendait un tirage meilleur ; j’en parle dans [l’article sur la purification d’un jeu](/fr/blog/purifier-son-jeu-de-tarot/).
 
 ## Pourquoi je m’arrête parfois ? {#arreter}
 
-Parce qu’interpréter demande de l’énergie. Après environ deux heures de tirages, je m’arrête, par prudence, et je me repose. La fatigue est réelle, et [elle a sa propre page](/fr/blog/energie-apres-un-tirage/).
+Parce qu’interpréter demande de l’énergie. Après environ deux heures de tirages, je m’arrête, par prudence, et je me repose. La fatigue est réelle, et [l’énergie qu’on laisse dans un tirage](/fr/blog/energie-apres-un-tirage/) mérite qu’on en parle.
 
 Je m’arrête aussi quand le tirage est devenu une habitude pour la personne en face de moi. Si la même question revient sans cesse, un tirage de plus ne la réglera pas ; [une pause](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/) fera davantage.
 

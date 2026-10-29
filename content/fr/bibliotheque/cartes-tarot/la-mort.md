@@ -15,7 +15,7 @@ energy: Féminine
 kabbalah: Nun
 image: cards/ar13.webp
 h1: La Mort — <em>13</em>, l’Eau
-lede: 'Sur un cheval blanc, un squelette cuirassé de noir avance ; un roi est à terre, un enfant regarde le cavalier sans détourner les yeux. Qu’est-ce qui, chez vous, est mûr pour la moisson ?'
+lede: 'Sur un cheval blanc, un squelette cuirassé de noir avance ; un roi est à terre, un enfant regarde le cavalier sans détourner les yeux. Dans votre vie, qu’est-ce qui est mûr pour la moisson ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-eau
@@ -27,7 +27,7 @@ faq:
 - q: La Mort renversée, ça change quoi ?
   a: 'La fin est refusée ou elle traîne : une situation terminée qu’on maintient, un changement fait à moitié. La question qu’elle pose : qu’est-ce que vous tenez encore et qui est déjà fini ?'
 - q: La carte de la Mort annonce-t-elle un décès ?
-  a: 'Non. Une carte n’annonce ni un décès ni une maladie. Ces sujets-là restent en dehors de mes lectures, parce qu’une parole mal choisie peut semer une peur inutile. Si la santé de quelqu’un vous inquiète, c’est un médecin qu’il faut voir ; un tirage peut porter le changement que vous traversez.'
+  a: 'Non. Une carte n’annonce ni un décès ni une maladie. Ces sujets-là ne passent pas par mes cartes, parce qu’une parole mal choisie peut semer une peur inutile. Si la santé de quelqu’un vous inquiète, c’est un médecin qu’il faut voir ; un tirage peut porter le changement que vous traversez.'
 - q: Que dit La Mort pour le travail ?
   a: 'Elle n’annonce pas un licenciement : elle décrit une saison professionnelle qui se termine, comme un poste devenu trop étroit ou une façon de travailler qui ne vous va plus. La question qu’elle pose : qu’est-ce qui a fini sa saison, et qu’avez-vous envie de faire pousser ensuite ?'
 categories:
@@ -66,13 +66,13 @@ Noir, blanc, or : un vide qu’on fait, une page blanche, une lumière derrière
 
 ## Par l’astrologie : Scorpion {#astrologie}
 
-La Golden Dawn range la Mort sous le [Scorpion](/fr/bibliotheque/astrologie/scorpion/), le signe dont le verbe est « Je désire ». Le Scorpion, c’est l’intensité, l’observation attentive, la transformation menée jusqu’au bout, voulue ou non. Il donne de la profondeur à la carte : ce qui se termine ici, c’est quelque chose auquel on tenait.
+La Golden Dawn range la Mort sous le [Scorpion](/fr/bibliotheque/astrologie/scorpion/), dont le verbe est « Je désire ». Le Scorpion, c’est l’intensité, l’observation attentive, la transformation menée jusqu’au bout, voulue ou non. Il donne de la profondeur à la carte : ce qui se termine ici, c’est quelque chose auquel on tenait.
 
 ## En lecture {#lecture}
 
-À l’endroit, la Mort est une transformation. Un emploi, une relation, une habitude, une version de vous-même arrive à sa fin naturelle. Ma propre note sur cette carte parle de moisson et de recommencement : quelqu’un qui ne sait plus où il va, et qui veut que sa vie redevienne féconde. On fauche ce qui est mûr pour pouvoir semer — ce n’est pas un hasard si on l’appelle la Faucheuse. Au tarot de Marseille, c’est l’[arcane sans nom](/fr/blog/arcane-sans-nom-tarot/), la treizième lame, qui ne porte pas de titre.
+À l’endroit, la Mort est une transformation. Un emploi, une relation, une habitude, une version de vous-même arrive à sa fin naturelle. Ma propre note sur cette carte parle de moisson et de recommencement : une personne sans cap, qui voudrait voir sa vie porter de nouveau des fruits. On fauche ce qui est mûr pour pouvoir semer — ce n’est pas un hasard si on l’appelle la Faucheuse. Au tarot de Marseille, c’est l’[arcane sans nom](/fr/blog/arcane-sans-nom-tarot/), la treizième lame, qui ne porte pas de titre.
 
-Si vous êtes ici parce que la santé de quelqu’un vous inquiète, je comprends ; le nom de la carte fait cet effet-là. Mais une carte n’annonce ni un décès ni une maladie, et ces questions-là, je ne les lis pas : elles reviennent à un médecin et aux personnes proches de vous. J’explique pourquoi dans [santé, grossesse, décès : pourquoi je ne lis pas ces questions](/fr/blog/sante-grossesse-deces-tarot/). Ce qu’un tirage peut porter, c’est le changement que vous traversez.
+Si vous êtes ici parce que la santé de quelqu’un vous inquiète, je comprends ; le nom de la carte fait cet effet-là. Mais une carte n’annonce ni un décès ni une maladie, et ces questions reviennent à un médecin et aux personnes proches de vous, pas à mes cartes. J’explique pourquoi dans [santé, grossesse, décès : pourquoi je ne lis pas ces questions](/fr/blog/sante-grossesse-deces-tarot/). Ce qu’un tirage peut porter, c’est le changement que vous traversez.
 
 Renversée, la fin est refusée ou elle traîne : quelque chose de terminé qu’on maintient en vie, le poste qu’on a déjà quitté dans sa tête, un changement à moitié fait — ni l’ancienne vie, ni la nouvelle.
 

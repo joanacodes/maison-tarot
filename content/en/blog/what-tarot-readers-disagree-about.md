@@ -33,7 +33,7 @@ Where I stand: I don’t draw them. An extra card doesn’t sharpen the first on
 
 Some readers cleanse a new deck, or one that feels heavy, with sage smoke, moonlight, salt or a crystal laid on top. For many it marks a beginning and an end, a small ritual that helps them settle before reading for someone. I understand that. Others see cleansing as unnecessary, or as something mostly being sold.
 
-Where I stand: I don’t cleanse, and I once sold sage myself; [why I stopped](/blog/cleanse-tarot-deck/) has its own page. When readings start to feel muddy, it’s usually the reader who needs a rest, not the cards: try stopping for a few days before reaching for smoke. If a ritual helps you settle, keep it, as a habit for you rather than a repair for the deck.
+Where I stand: I don’t cleanse, and I once sold sage myself before I [stopped and wrote down why](/blog/cleanse-tarot-deck/). When readings start to feel muddy, it’s usually the reader who needs a rest, not the cards: try stopping for a few days before reaching for smoke. If a ritual helps you settle, keep it, as a habit for you rather than a repair for the deck.
 
 ## Charging for readings {#money}
 

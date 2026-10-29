@@ -81,6 +81,6 @@ Renversé, la branche reste dans le nuage : le même projet raconté au dîner p
 
 Supposons que l’As de Bâtons sorte avec le Sept de Coupes à côté : une seule branche vivante, puis trop de choix. Le nombre : un, puis sept — quelque chose commence, puis vient une pause pour peser. L’élément : le Feu, puis l’Eau — un élan, puis la rêverie. Les couleurs : l’orange et le vert, chauds, puis une silhouette sombre face à des coupes posées sur des nuages. Du net au flou.
 
-Ce passage du net au flou, je le formulerais ainsi : « Vous avez une idée qui a très envie de démarrer, et vous savez laquelle. Mais il y en a plusieurs autour, et vous dépensez votre énergie à les regarder toutes au lieu d’en faire pousser une. »
+Ce passage du net au flou tient en une phrase : « Vous avez une idée qui a très envie de démarrer, et vous savez laquelle. Mais il y en a plusieurs autour, et vous dépensez votre énergie à les regarder toutes au lieu d’en faire pousser une. »
 
 Ensuite, je vérifie auprès de la personne — pas avant, puisqu’elle ne me dit rien tant que je n’ai pas parlé : c’est [la règle du silence](/fr/blog/regle-du-silence-tarot/). Si aucune idée n’attend chez elle, la phrase tombe à côté, et elle entre ainsi dans mon carnet. Si oui, la question utile devient : « Laquelle voulez-vous faire pousser en premier ? »

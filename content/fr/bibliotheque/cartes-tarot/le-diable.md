@@ -52,7 +52,7 @@ Quinze se ramène à [6](/fr/bibliotheque/numerologie/chiffre-6/), le nombre des
 
 ## Par l’élément : Terre {#element}
 
-Le Diable est une carte de [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, et tout ce qui vous est précieux, en euros comme en affection. La Terre, c’est la ténacité, l’endurance — et l’entêtement. C’est ce qui tient, et ici, tenir est tout le sujet : le CDI qu’on garde parce qu’il rassure, l’habitude qu’on garde parce qu’elle apaise, la relation qu’on garde parce qu’on la connaît par cœur.
+Le Diable est une carte de [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, et ce à quoi vous attachez du prix, en euros comme en affection. La Terre, c’est la ténacité, l’endurance — et l’entêtement. C’est ce qui tient, et ici, tenir est tout le sujet : le CDI qu’on garde parce qu’il rassure, l’habitude qu’on garde parce qu’elle apaise, la relation qu’on garde parce qu’on la connaît par cœur.
 
 Ce qui vous enchaîne, c’est presque toujours quelque chose auquel vous tenez, et c’est justement pour ça qu’on a du mal à y voir une chaîne.
 
@@ -94,6 +94,6 @@ Cette fois, c’est vous qui tenez le jeu : le Diable sort à côté du [Six de 
 
 Deux 6 : le 15 se ramène à 6, comme le Six de Coupes — une harmonie confortable, une harmonie enchaînée. La Terre et l’Eau : ce qui tient et ce qu’on ressent. Le noir du Diable à côté du jaune chaleureux du Six de Coupes : quelque chose de lourd à côté de quelque chose de doux et d’ancien, qui vient de l’enfance.
 
-Ma proposition de phrase : « Ce que vous avez commencé il y a longtemps parce que ça vous protégeait — une habitude, un rôle dans la famille — vous tient encore, et c’est plus lâche que vous ne le croyez. »
+Ma proposition de phrase : « Une habitude prise il y a longtemps parce qu’elle vous protégeait — ou un rôle dans la famille — vous tient encore, et c’est plus lâche que vous ne le croyez. »
 
 Ensuite, demandez si cela évoque à la personne quelque chose qu’elle fait sans l’avoir décidé, et laissez-la le nommer. Si rien ne la tient de cette façon, notez un raté, sans en avoir honte.

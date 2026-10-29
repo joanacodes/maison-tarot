@@ -33,7 +33,7 @@ The systems don’t agree with each other. Depending on whom you read, Wands are
 
 This wasn’t a tarot reading, and I tell the whole story in [why a reading can be wrong](/blog/why-a-reading-can-be-wrong/). In short: after my closest friend died, I asked silently “who’s next?”, and a voice gave another friend’s name and “is going to have an accident”, without a word about when. Two weeks later that friend’s car was hit by a truck, and my friend is alive and well today: the event came, and the message was wrong in what mattered.
 
-What I kept is a shelf in my head labelled *sceptical, but if it happens, I was warned*. Messages go on that shelf. Dates especially.
+What I kept is a place in my head for things I doubt but don’t throw away, in case they come true. Messages go there. Dates especially.
 
 ## Why timing is the weak spot {#why-i-miss}
 
@@ -43,7 +43,7 @@ And because of what a date does to the person who receives it. Say someone is to
 
 The “what” and the “when” of a reading are two separate claims, and one can hold while the other slips. If you keep a notebook, give the “when” its own line. Otherwise a reading that got the event right and the month wrong gets written down as a hit, and you never see where your misses gather.
 
-When a date passes, I don’t say the cards meant a different spring. The miss goes in the notebook, and I’ve written about [what to do when a reading is wrong](/blog/tarot-reading-wrong/).
+When a date passes, I don’t say the cards meant a different spring. The miss goes in the notebook; what happens after that is in [my piece on readings that got it wrong](/blog/tarot-reading-wrong/).
 
 ## What I read instead of a date {#instead-of-a-date}
 
@@ -61,7 +61,7 @@ Two cards show the trap and the way out:
 
 {{< cards "wa08 ar10" >}}
 
-The Eight of Wands is the card many readers treat as “fast”. I see wands that are either flying or falling — glass half full or half empty — and the picture doesn’t say which. The Wheel of Fortune, to me, says it’s up to you to turn the wheel: you create part of your own luck, and part of your own timing.
+The Eight of Wands is the card many readers treat as “fast”. I see wands that could be climbing or dropping, the old half-full, half-empty question, and the picture doesn’t say which. The Wheel of Fortune, to me, is a wheel you turn yourself: you create part of your own luck, and part of your own timing.
 
 So the kinder question is rarely “when?”. It’s “what needs to happen first?” or “what can I do while I wait?”. Those have answers you can act on today.
 

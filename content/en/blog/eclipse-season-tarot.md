@@ -53,7 +53,7 @@ My own frame for astrology applies here too. In [my test of my own birth chart](
 
 **The sky doesn't change the cards; your state changes the reading.** So the questions are about you.
 
-1. *Am I calm?* If you're reaching for the deck because a video scared you, put it down and come back in a few days. [Reading when you're upset](/blog/reading-tarot-when-upset/) has its own article, and the answer is the same in any week.
+1. *Am I calm?* If you're reaching for the deck because a video scared you, put it down and come back in a few days. The advice in [reading when you're upset](/blog/reading-tarot-when-upset/) holds in any week, eclipse or not.
 2. *Have I already read on this?* If you have, the new card won't be more true than the first. Reread what you wrote instead.
 3. *Is this a decision?* The cards can help you think; they can't decide for you, eclipse or not. Act on what you feel and know.
 

@@ -45,7 +45,7 @@ If someone asks you the same question one day, take it kindly. Tell them what yo
 
 ## The stranger ones, told elsewhere {#told-elsewhere}
 
-A few stories were stranger than anything above, and each has its own page, so one line each here.
+A few stories were stranger than anything above; they’re told in full on separate pages, so one line each here.
 
 My first reading for a stranger was a miss that came true three or four days later: [my first reading was “wrong”](/blog/first-tarot-reading-story/).
 
@@ -63,4 +63,4 @@ A story is memorable because it’s unusual. The ordinary readings, the ones tha
 
 ## Start your own list {#next-step}
 
-Keep a notebook: what you said on the left, what was confirmed on the right, and a third column for anything odd. In a year, you’ll have your own strange list, and the numbers to keep it in proportion. Here’s [how I keep a reading notebook](/blog/tarot-journal/).
+Keep a notebook: what you said on the left, what was confirmed on the right, and a third column for anything odd. In a year, you’ll have your own strange list, and the numbers to keep it in proportion. Here’s [how I lay out my own notebook](/blog/tarot-journal/).

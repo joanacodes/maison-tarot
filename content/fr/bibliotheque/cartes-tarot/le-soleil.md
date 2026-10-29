@@ -15,7 +15,7 @@ energy: Masculine
 kabbalah: Resh
 image: cards/ar19.webp
 h1: Le Soleil — <em>19</em>, le Feu
-lede: 'Sous un soleil à visage humain, un enfant nu monte un cheval blanc sans selle, les bras grands ouverts, devant un mur que dépassent des tournesols. Ce bon moment, vous autorisez-vous à le vivre au grand jour ?'
+lede: 'Sous un soleil à visage humain, un enfant nu chevauche sans selle un cheval blanc, les bras grands ouverts, devant un mur que dépassent des tournesols. Ce bon moment, vous autorisez-vous à le vivre au grand jour ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -46,7 +46,7 @@ Regardez ce qui manque : pas de selle, pas de rênes, pas d’adulte, pas de vê
 
 ## Par le nombre : 19 {#nombre}
 
-Dix-neuf se ramène à [10](/fr/bibliotheque/numerologie/chiffre-10/), le nombre de la Roue de Fortune : un passage d’une étape à l’autre, la liberté, le changement, l’air qu’on reprend. Le 10 peut être de courte durée, et il se ramène lui-même à 1 : le Soleil est une ligne d’arrivée qui est aussi un départ.
+Dix-neuf se ramène à [10](/fr/bibliotheque/numerologie/chiffre-10/), le nombre de la Roue de Fortune : la transition, la liberté, le changement, l’air qu’on reprend. Le 10 peut être de courte durée, et il se ramène lui-même à 1 : le Soleil est une ligne d’arrivée qui est aussi un départ.
 
 Au 10, Instagram a tant changé que ses premiers utilisateurs ne s’y retrouvent plus : le cycle est bouclé, et une nouvelle histoire repart de 1. Le Soleil, c’est ce moment vu du bon côté. Vous avez traversé la nuit de la Lune, le 18, et pour l’instant, il n’y a plus rien à traverser.
 
@@ -94,4 +94,4 @@ Les nombres : 19 se ramène à 10, la fin d’un cycle ; le Quatre d’Épées e
 
 Après le repos, la lumière : « Une étape s’est terminée, et elle s’est bien passée. Vous vous êtes reposé ; vous avez le droit de vous lever et d’en profiter maintenant. »
 
-Ensuite, laissez la personne dire elle-même ce que la phrase lui rappelle, avant d’ajouter quoi que ce soit. Si rien ne s’est achevé pour elle, le raté va au carnet ; quand ça tombe juste, prenez le temps d’en profiter avec elle avant de passer à la suite.
+Ensuite, laissez la personne dire elle-même ce que la phrase lui rappelle, avant d’ajouter un mot. Si rien ne s’est achevé pour elle, le raté va au carnet ; quand ça tombe juste, prenez le temps d’en profiter avec elle avant de passer à la suite.

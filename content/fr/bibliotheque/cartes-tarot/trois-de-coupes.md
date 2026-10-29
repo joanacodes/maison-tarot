@@ -73,7 +73,7 @@ Vous pouvez la sauter : la ronde des trois danseuses raconte la même chaleur.
 
 Renversé, le Trois de Coupes voit son cercle se briser ou déborder. Trop de fête : la célébration qui devient une façon de ne pas regarder quelque chose. Ou un groupe où quelqu’un se sent à l’écart, une amie qui parle dans votre dos — le revers du 3, la trahison, est là. Parfois, ce sont trois personnes là où il devrait y en avoir deux.
 
-À côté du [Trois d’Épées](/fr/bibliotheque/cartes-tarot/trois-de-epees/), on voit l’autre face du 3 : le cercle où trois cœurs peuvent aussi se briser (mes notes y ajoutent un pacte scellé par le sang). À côté du [Quatre de Bâtons](/fr/bibliotheque/cartes-tarot/quatre-de-batons/), la fête devient fondation — un foyer, un mariage, une famille qui se construit. À côté du [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), les amis des bons moments sont ceux dont on aura besoin pour le mauvais.
+À côté du [Trois d’Épées](/fr/bibliotheque/cartes-tarot/trois-de-epees/), on voit l’autre face du 3 : le cercle où trois cœurs peuvent aussi se briser (un pacte de sang, selon mes notes). À côté du [Quatre de Bâtons](/fr/bibliotheque/cartes-tarot/quatre-de-batons/), la fête devient fondation — un foyer, un mariage, une famille qui se construit. À côté du [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), les amis des bons moments sont ceux dont on aura besoin pour le mauvais.
 
 {{< cards "sw03 wa04 cu05" >}}
 

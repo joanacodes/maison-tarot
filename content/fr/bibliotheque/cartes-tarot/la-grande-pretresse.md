@@ -16,7 +16,7 @@ energy: Féminine
 kabbalah: Gimel
 image: cards/ar02.webp
 h1: La Grande Prêtresse — <em>2</em>, l’Eau
-lede: 'Assise entre une colonne noire et une colonne blanche, une femme garde sur ses genoux un rouleau à moitié caché, un voile de grenades dans son dos. Que savez-vous déjà, sans l’avoir encore dit ?'
+lede: 'Entre deux colonnes, l’une noire, l’autre blanche, une femme immobile garde sur ses genoux un rouleau à demi caché, un voile de grenades dans son dos. Que savez-vous déjà, sans l’avoir encore dit ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-eau
@@ -77,7 +77,7 @@ Renversée, l’eau qui dort stagne. Le secret est gardé si longtemps qu’il d
 
 Représentez-vous la Grande Prêtresse qui sort à côté du [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/) — quelqu’un en rouge qui tourne le dos à huit coupes empilées et part vers les montagnes, au clair de lune.
 
-2 puis 8 : un lien qu’on pèse, puis ce qu’on laisse derrière soi — et je lis le Huit de Coupes comme un départ loin de ce qui vous occupe déjà. L’Eau et l’Eau : des sentiments, pas de la logistique. Son bleu et son blanc, puis un manteau rouge qui s’en va ; et une lune sur les deux cartes.
+2 puis 8 : un lien qu’on pèse, puis ce qu’on laisse derrière soi — et je lis le Huit de Coupes comme un départ vers autre chose que le quotidien installé. L’Eau et l’Eau : des sentiments, pas de la logistique. Son bleu et son blanc, puis un manteau rouge qui s’en va ; et une lune sur les deux cartes.
 
 J’oserais cette phrase : « Vous avez déjà décidé de quitter quelque chose, et vous ne l’avez encore dit à personne. »
 

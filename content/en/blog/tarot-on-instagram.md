@@ -45,7 +45,7 @@ Method. Can they say how they read? Not “I have a gift”, because there isn�
 
 Honesty. Do they ever say “that one missed”? Nobody gets every reading right — I get about nine in ten — and a reader whose posts never mention a miss is either not counting or not telling.
 
-Limits. What won’t they read on? I leave out health, death, pregnancy, court cases, money decisions, curses and people who aren’t in the room, and [I say so publicly](/disclaimers/#refusals). A reader with no limits hasn’t thought much about being wrong.
+Limits. What won’t they read on? I keep seven subjects out of my readings — health, death, pregnancy, pending lawsuits, choices about money, curses, people who aren’t present — and [I say so publicly](/disclaimers/#refusals). A reader with no limits hasn’t thought much about being wrong.
 
 **Follow for the pictures; choose a reader for the method.**
 

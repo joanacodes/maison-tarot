@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/sw10.webp
 h1: Ten of Swords — <em>ten</em>, Air
-lede: 'Before looking up what Ten of Swords “means”, look at what you already have:
-  ten, the element Air, Sun in Gemini. You’re reading the card. The number says ten
-  — the end of the cycle, transition; the element says the mind, what you decide.
-  Lay the two over each other, add the colours, and the card is already talking —
-  the rest of the page shows you how.'
+lede: 'Face to the ground beside still water, a man has a row of swords planted down his back, while a yellow band of light opens beneath a black sky. What has truly ended, and what is already dawning?'
 related:
 - /library/numerology
 - /library/four-elements/air-element
@@ -29,7 +25,7 @@ faq:
 - q: What does Ten of Swords mean?
   a: 'The end of something, all the way down: a plan, a situation or a way of thinking that is finished and can’t be pushed any further. Ten is the passage between two cycles, Air is the mind, and the light on the horizon says the next cycle has already begun.'
 - q: What about Ten of Swords reversed?
-  a: 'The same ending, slowed down or overdone. Slowed down: getting up slowly, one sword at a time, once the worst has passed. Overdone: refusing to accept that it’s over, or treating every setback as rock bottom.'
+  a: 'An ending left behind bit by bit, or never allowed to finish: getting up slowly, one sword at a time, once the worst has passed — or refusing to accept that it’s over, or treating every setback as rock bottom.'
 - q: 'Does the Ten of Swords mean death?'
   a: 'No. A card doesn’t announce a death, an illness or an attack, and I don’t read on those. The Ten of Swords talks about an ending in your life — a stage, a role, a story you told yourself — and about what comes after it.'
 - q: 'What does the Ten of Swords mean for my career?'
@@ -48,13 +44,13 @@ A man lies face down on the ground at the edge of a stretch of still water. Ten 
 
 The top half of the card is a black sky. Low down, just above a line of blue hills, runs a band of yellow light, and below it the water is calm and blue. Nothing moves. Nobody else is there.
 
-**The drawing is about an ending that is complete — with light already on the horizon.**
+**An ending that is complete — with light already on the horizon.**
 
 ## By number: ten {#number}
 
 Ten closes the cycle, and this man lies in the corridor between a room that is finished and one that has no name yet. It brings freedom, change, a breath; its minus is that it tells you to start something else, ready or not.
 
-My notes on 10 hold a sentence made for this card: from the outside you might look knocked down, while in reality the butterfly is already far away, out of its chrysalis. At its tenth stage, Instagram had changed so much that people no longer recognised it. The advice of [number 10](/library/numerology/number-10/) is not to mistake the moult for the fall.
+My notes on 10 hold a sentence made for this card: from the outside you might look knocked down, while in reality the butterfly is already far away, out of its chrysalis. Instagram’s tenth step left it so changed that people no longer recognised it. The advice of [number 10](/library/numerology/number-10/) is not to mistake the moult for the fall.
 
 ## By element: Air {#element}
 
@@ -64,19 +60,19 @@ Count the swords. One would have been enough. Ten is the mind at the end of a ha
 
 ## By colours {#colours}
 
-[Black](/library/tarot-colours/black/) fills the sky: absence, void, negative thoughts — and reality, the end you can no longer avoid seeing. Under it lies the band of yellow: joy, optimism, will. It’s narrow, but it’s the brightest thing on the card. The blue water and hills are emotion at rest. The red of the cloak is passion and strength, laid down. Read the colours alone and you get: a dark end, calm feelings, a light coming up.
+[Black](/library/tarot-colours/black/) fills the sky: absence, void, negative thoughts — and reality, the end you can no longer avoid seeing. Under it lies the band of yellow: joy, optimism, will. It’s narrow, but it’s the brightest thing on the card. The blue water and hills are emotion at rest. The red of the cloak is passion and strength, laid down. A dark end, calm feelings, a light coming up.
 
 ## By astrology: Sun in Gemini {#astrology}
 
-In the Golden Dawn tradition, the Ten of Swords is the [Sun](/library/astrology/sun/) in the third decan of Gemini. Gemini is “I think”; the Sun is the centre, what you organise your life around. A ruin of the centre: the way of thinking you’d built everything on, finished. And the Sun is drawn right there on the card, in that yellow band on the horizon. Optional — the number already says the same thing.
+Gemini’s last decan, under the [Sun](/library/astrology/sun/), goes to this card in the Golden Dawn’s order. Gemini is “I think”; the Sun is the centre, what you organise your life around. A ruin of the centre: the way of thinking you’d built everything on, finished. And the Sun is drawn right there on the card, in that yellow band on the horizon. Skip the decan if you like: the number has already said the same thing.
 
 ## In a reading {#reading}
 
 The Ten of Swords is one of the cards people fear most, and I understand why: it’s the hardest drawing in the deck. It doesn’t announce a death, an illness or an attack, and I don’t read on those. It talks about an ending in your life — a job, a relationship, a role, a plan — that has gone as far as it can go. Rock bottom, and also the floor you push off from. **The Ten of Swords is the end of the fall, not the start of it.**
 
-Reversed, this ending is either left behind bit by bit or never allowed to finish. Slowed down: getting up slowly, one sword out at a time, once the worst has passed. Overdone: refusing to accept that it’s over and staying on the ground — or treating every setback as rock bottom.
+Reversed, this ending is either left behind bit by bit or never allowed to finish. Bit by bit means getting up slowly, one sword out at a time, once the worst has passed. Never finishing means refusing to accept that it’s over and staying on the ground — or treating every setback as rock bottom.
 
-If someone draws this card while things really are at their lowest, the card isn’t the point. Ask how they are. If it sounds heavier than a reading can hold, [a doctor or a therapist is the right door](/disclaimers/#therapy), and saying so gently is part of reading well.
+If someone draws this card while things really are at their lowest, the card isn’t the point. Ask how they are. If it sounds heavier than a reading can hold, [point them gently towards their doctor, or a therapist](/disclaimers/#therapy); telling them so is part of reading well.
 
 Next to [Death](/library/tarot-cards/death/), the ending is confirmed — and in my notes Death is also the harvest, the urge to make life fertile again. Next to the [Ace of Swords](/library/tarot-cards/ace-of-swords/), the cycle closes and a new, clear idea opens the next one. I’ve written about this card [in love](/blog/ten-of-swords-tarot-love/), and about why [the scariest cards are kinder than they look](/blog/scariest-tarot-cards/).
 
@@ -100,4 +96,4 @@ In a practice reading for a stranger, the Ten of Swords might come up beside the
 
 Out loud, you might say: “Something you’d been holding together in your head has come to an end, and it really is over. What’s arriving is a new desire — something you want to make, not something you have to fix.”
 
-Then check: “Has something ended for you recently, something you’d been fighting to keep going?” Give them room to answer. If they say no, it’s a miss: don’t stretch the card to fit.
+Then ask, and give them room: “Has something ended for you recently, something you’d been fighting to keep going?” If they say no, take the miss and don’t stretch the card to fit.

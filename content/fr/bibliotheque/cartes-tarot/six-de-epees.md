@@ -79,4 +79,4 @@ Disposez le Six d’Épées et l’[As de Pentacles](/fr/bibliotheque/cartes-tar
 
 La traversée, puis la pièce tendue au-dessus du jardin : « Vous sortez d’une période difficile, et de l’autre côté quelque chose de solide vous attend, quelque chose que vous pouvez tenir. »
 
-Puis vérifiez : « Êtes-vous en train de quitter quelque chose ? Y a-t-il du nouveau, du concret, de l’autre côté ? » Si elle ne quitte rien, cette barque n’était pas la sienne — ce qui est aussi une information. Pour voir ça en vrai, [les événements gratuits](/fr/evenements/) proposent des lectures publiques tirées au hasard.
+Puis vérifiez : « Quittez-vous quelque chose en ce moment ? Y a-t-il du nouveau, du concret, de l’autre côté ? » Si elle ne quitte rien, cette barque n’était pas la sienne — ce qui est aussi une information. Pour voir ça en vrai, [les événements gratuits](/fr/evenements/) proposent des lectures publiques tirées au hasard.

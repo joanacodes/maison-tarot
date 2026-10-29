@@ -49,7 +49,7 @@ Il a l’avantage du terrain, et il est seul. **Le Sept de Bâtons, c’est la p
 
 [Sept](/fr/bibliotheque/numerologie/chiffre-7/), c’est la réflexion avant l’action, la patience, la négociation. Étrange pour un homme en plein combat — jusqu’à ce qu’on regarde sa position. Il ne charge pas ; il mesure d’où viendra le prochain bâton. Le 7, ici, c’est l’évaluation qu’on fait sous pression : ce qui vaut d’être défendu, et ce qui ne le vaut pas.
 
-La septième étape d’Instagram ressemble à ce face-à-face : Facebook en fait une plateforme publicitaire, et tout se négocie. Mon conseil devant un 7 : rien ne dure, et ce que vous vivez, en bien ou en mal, finira par changer. Bon à rappeler à l’homme sur sa colline. Le siège ne durera pas toujours, et il n’a pas à gagner chaque manche.
+La septième étape d’Instagram ressemble à ce face-à-face : Facebook en fait une plateforme publicitaire, et tout se négocie. Mon conseil devant un 7 : tout passe, les bons moments comme les mauvais. Bon à rappeler à l’homme sur sa colline. Le siège ne durera pas toujours, et il n’a pas à gagner chaque manche.
 
 ## Par l’élément : Feu {#element}
 
@@ -85,4 +85,4 @@ Sans personne en face de vous, réfléchissez au Sept de Bâtons suivi du Cinq d
 
 Colline tenue, fenêtre éclairée tout près : « Vous tenez une position sans renfort depuis un moment, et ça vous fatigue plus que vous ne le montrez. L’aide dont vous avez besoin est plus proche que vous ne le pensez — vous passez peut-être déjà devant. »
 
-Je demanderais alors à la personne si elle se sent seule sur sa colline et, si oui, qui pourrait être cette aide. Si elle se sent bien entourée, la lecture n’a pas tenu la colline, et je le dis sans fard. Pour voir ça se faire avec des inconnus et des cartes tirées au hasard, venez à l’un des [événements](/fr/evenements/) gratuits.
+Je chercherais ensuite à savoir si la personne se sent seule sur sa colline et, si oui, qui pourrait être cette aide. Si elle se sent bien entourée, ma phrase a perdu sa colline, et je l’avoue sans fard. Pour voir ça se faire avec des inconnus et des cartes tirées au hasard, venez à l’un des [événements](/fr/evenements/) gratuits.

@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/sw06.webp
 h1: Six of Swords — <em>six</em>, Air
-lede: 'Before looking up what Six of Swords “means”, look at what you already have:
-  six, the element Air, Mercury in Aquarius. You’re reading the card. The number says
-  six — harmony regained, exchange; the element says the mind, what you decide. Lay
-  the two over each other, add the colours, and the card is already talking — the
-  rest of the page shows you how.'
+lede: 'A ferryman poles a small boat away from choppy water towards a calm far bank, carrying a hunched, hooded passenger, a smaller figure and a cargo of upright swords. What are you taking with you into calmer water?'
 related:
 - /library/numerology
 - /library/four-elements/air-element
@@ -31,7 +27,7 @@ faq:
 - q: What about Six of Swords reversed?
   a: 'The crossing stalls: the person can’t quite leave, or turns back halfway because the rough water at least was familiar. In excess, it’s leaving every time things get hard, and taking every worry along.'
 - q: 'Does the Six of Swords mean travel?'
-  a: 'Sometimes, quite literally a journey over water. More often it’s a move from one state of mind, or one situation, to another; the cards around it tell you which.'
+  a: 'Sometimes, quite literally a journey over water. More often it’s a move from one state of mind, or one situation, to another; the cards drawn with it settle which.'
 categories:
 - Swords
 tags:
@@ -46,11 +42,11 @@ A ferryman, seen from behind, stands at the back of a small boat and pushes it f
 
 The water tells the story. Close to us, on the right, it’s ruffled with waves; ahead, towards the far bank, it’s smooth. On the other side, a low shore with grey-blue trees. The sky is an even, pale grey. Nobody looks back, and nobody looks at us.
 
-The drawing is about **a crossing: leaving rough water for calm, and taking the swords along.**
+At its heart is **a crossing: leaving rough water for calm, and taking the swords along.**
 
 ## By number: six {#number}
 
-Six is “three exalted”: the machine is launched and moving fast; success, and the chance, finally, to rest or take a holiday. My advice for a six is to stay calm and humble when things start to flow. On this card the success is quiet: you got out. The swords aren’t left behind — all six travel in the boat — but they’re no longer in anyone’s hand. Instagram’s sixth stage was Facebook investing, when what had threatened the company became what carried it. That’s the turn [number 6](/library/numerology/number-6/) makes here: the hard part becomes the vehicle.
+Six is “three exalted”: the machine is launched and moving fast; success, and the chance, finally, to rest or take a holiday. With a six, my advice is serenity and modesty once things start moving. On this card the success is quiet: you got out. The swords aren’t left behind — all six travel in the boat — but they’re no longer in anyone’s hand. For Instagram, the turn came with Facebook’s investment: what had threatened the company became what carried it. That’s the turn [number 6](/library/numerology/number-6/) makes here: the hard part becomes the vehicle.
 
 ## By element: Air {#element}
 
@@ -58,17 +54,17 @@ The Swords are [Air](/library/four-elements/air-element/): the mind, decisions. 
 
 ## By colours {#colours}
 
-A pale grey sky over everything: neutral, stable, no drama. The water is pale [blue](/library/tarot-colours/blue/) — emotions, purification, what washes — choppy on one side, flat on the other. The ferryman and the boat are warm [orange](/library/tarot-colours/orange/): in my grid, creativity, and also dryness, the energy of whoever does the work of moving. The hooded passenger is wrapped in orange-yellow too, but hunched: carried, not carrying. Read before the card, that’s already it — emotions settling, one person rowing while another rests.
+A pale grey sky over everything: neutral, stable, no drama. The water is pale [blue](/library/tarot-colours/blue/) — emotions, purification, what washes — choppy on one side, flat on the other. The ferryman and the boat are warm [orange](/library/tarot-colours/orange/): in my grid, creativity, and also dryness, the energy of whoever does the work of moving. The hooded passenger is wrapped in orange-yellow too, but hunched: carried, not carrying. Emotions settling, one person rowing while another rests.
 
 ## By astrology: Mercury in Aquarius {#astrology}
 
-In the Golden Dawn tradition, the Six of Swords is [Mercury](/library/astrology/mercury/) in the second decan of Aquarius. Mercury is how you think and how you speak; Aquarius is the new idea, the bridge between old and new. Together: a mind that has found the way across. Keep it as a lens if you like; the card holds up without it.
+The Golden Dawn matched this card with [Mercury](/library/astrology/mercury/) in Aquarius’s middle decan. Mercury is how you think and how you speak; Aquarius is the new idea, the bridge between old and new. It adds up to a mind that has found the way across. Use that or leave it; the boat and the smooth water ahead tell the story either way.
 
 ## In a reading {#reading}
 
 Upright, the Six of Swords is a transition: leaving a difficult situation for a calmer one. A move, a change of job, the end of a hard period, sometimes a real journey over water. It isn’t a triumphant card — the passenger’s head is bowed — but it’s a moving one. The worst is behind, and you’re carrying what you need.
 
-Reversed, the crossing stalls. The boat stays at the bank, or turns back halfway because the rough water at least was familiar. In excess, it’s the person who leaves every time it gets hard, a new boat each time, with all six swords on board.
+Reversed, the crossing stalls. The boat stays at the bank, or turns back halfway because the rough water at least was familiar. Pushed the other way, it’s the person who leaves every time it gets hard, a new boat each time, with all six swords on board.
 
 Next to the [Three of Swords](/library/tarot-cards/three-of-swords/), you can see what’s being left: the hurt is behind, slowly. Next to the [Eight of Cups](/library/tarot-cards/eight-of-cups/), it’s a departure by choice, walking away from something built. Next to [the Chariot](/library/tarot-cards/the-chariot/), the slow boat becomes a vehicle with a direction and a will.
 
@@ -80,6 +76,6 @@ Next to the [Three of Swords](/library/tarot-cards/three-of-swords/), you can se
 
 Set the Six of Swords and the [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/) side by side, as if for someone you’ve never met. Six then one: something moving fast, then a new start. Air then Earth: a change of mind, then something concrete — money, a job, a home. Grey and pale blue, then a hand holding out a gold coin above a garden.
 
-You might say: “You’re coming out of a hard stretch, and on the other side there’s something solid waiting for you, something you can hold.”
+The boat heading for the far bank, then the coin over the garden: “You’re coming out of a hard stretch, and on the other side there’s something solid waiting for you, something you can hold.”
 
-Then check: “Are you in the middle of leaving something? Is there something new and concrete on the other side?” If they aren’t leaving anything, it’s a miss, and that’s information too. If you’d like to watch this done live, [the free events](/events/) include public readings drawn at random.
+Two questions check it: “Are you in the middle of leaving something? Is there something new and concrete on the other side?” If they aren’t leaving anything, the sentence missed, and that’s information too. If you’d like to watch this done live, [the free events](/events/) include public readings drawn at random.

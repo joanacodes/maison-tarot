@@ -13,8 +13,8 @@ link: ""
 ---
 Halloween, c’est le soir où l’on s’attend à ce que les cartes fassent peur. Venez plutôt voir à quoi ressemble une vraie lecture.
 
-Vous vous inscrivez ; le soir même, six personnes sont tirées au sort. Chacune reçoit une lecture d’une dizaine de minutes devant les autres, sans que je sache rien d’elle : ni prénom, ni question. Ensuite, chacune dit où elle en est, et on compare ce qui a touché juste et ce qui a raté. Les autres regardent et posent leurs questions.
+Vous vous inscrivez ; le soir même, six personnes sont tirées au sort. Chacune reçoit une lecture d’une dizaine de minutes devant les autres, sans que je sache rien d’elle : ni prénom, ni question. Ensuite, chacune dit où elle en est, et on fait ensemble le tri entre les phrases justes et les ratés. Les autres regardent et posent leurs questions.
 
 Si la Mort ou la Tour sortent, on les lit comme n’importe quelle carte, par leurs clés de lecture. [À quoi ressemble vraiment un tirage d’Halloween](/fr/blog/tirage-tarot-halloween/) explique pourquoi elles font moins peur qu’il n’y paraît.
 
-Je ne lis pas sur la santé, la mort, la grossesse, les procédures en cours ou l’argent, même gratuitement. [Les avertissements](/fr/avertissements/) disent pourquoi.
+Certains sujets restent hors des cartes, même gratuitement : la santé, la mort, une grossesse, une procédure en cours, l’argent. [Les avertissements](/fr/avertissements/) expliquent pourquoi.

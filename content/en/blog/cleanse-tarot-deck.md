@@ -51,7 +51,7 @@ And when readings start to feel flat, it’s usually the reader who is tired, no
 
 ## What I do instead: a break {#a-break}
 
-A break is my whole alternative to cleansing. Tuck the cards out of sight for a few days, or a week, or until you miss them. If you find you’re reaching for it several times a day, or asking the same question in new words, the cards aren’t the problem; the habit is, and a break is the kindest way to see it. I never want tarot to become a circle of dependency, for me or for the people I read for, and I wish the same for you. I wrote more on [why quitting readings for a while helps](/blog/why-you-should-quit-tarot-reading/).
+A break is my whole alternative to cleansing. Tuck the cards out of sight for a few days, or a week, or until you miss them. If you find you’re reaching for them several times a day, or asking the same question in new words, the cards aren’t the problem; the habit is, and a break is the kindest way to see it. I never want tarot to become a circle of dependency, for me or for the people I read for, and I wish the same for you. I wrote more on [stepping away from readings when the habit takes hold](/blog/why-you-should-quit-tarot-reading/).
 
 Between two readings, a shuffle is enough, and there’s [no wrong way to do it](/blog/how-to-shuffle-tarot-cards/).
 

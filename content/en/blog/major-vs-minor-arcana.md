@@ -31,7 +31,7 @@ The minor arcana are the other 56 cards. They’re organised like a pack of play
 
 They describe what happens on a Tuesday. Three friends raising their cups in a garden (Three of Cups). Hours at the workbench (Eight of Pentacles). A night you can’t sleep (Nine of Swords). Pamela Colman Smith drew a scene on every one of them in 1909, which is why the Rider-Waite-Smith is readable from the first day; in the Tarot de Marseille, the numbered minors show only arrangements of cups, coins, batons or swords.
 
-You don’t need to learn them one by one. Ten numbers and four suits cover the 40 numbered cards; four ranks cover the other 16. [The four suits](/blog/tarot-suits-explained/) and [the court cards](/blog/court-cards-explained/) each have their own article, and [the minor arcana page](/blog/minor-arcana/) lays out the whole grid.
+You don’t need to learn them one by one. Ten numbers and four suits cover the 40 numbered cards; four ranks cover the other 16. I go deeper into [the four suits](/blog/tarot-suits-explained/) and [the court cards](/blog/court-cards-explained/) separately, and [the minor arcana page](/blog/minor-arcana/) lays out the whole grid.
 
 ## The difference, side by side {#side-by-side}
 
@@ -51,7 +51,7 @@ Count the majors before you read anything. 22 cards out of 78 is a little over a
 
 So the number of majors tells you how large the matter is:
 
-- No major: the matter is everyday and in the person’s hands. Nothing larger is pressing on it. [A spread with no majors](/blog/no-major-arcana-in-spread/) has its own article.
+- No major: the matter is everyday and in the person’s hands. Nothing larger is pressing on it. I look more closely at [a spread with no majors](/blog/no-major-arcana-in-spread/) in another piece.
 - One major: it sets the theme, and the minors say where it plays out.
 - Two or three majors in a small spread: the person is in the middle of something bigger than the question. Read the majors first, slowly.
 
@@ -59,7 +59,7 @@ Take three cards drawn by a person whose question you haven’t heard: the Hermi
 
 {{< cards "ar09 pe08 cu02" >}}
 
-You might say: “You’re in a longer period of stepping back. Inside it, day to day, you’re working hard, and something between you and one other person is being settled.” Then go quiet and let them judge whether any of it fits.
+Put together, that becomes: “You’re in a longer period of stepping back. Inside it, day to day, you’re working hard, and something between you and one other person is being settled.” Then go quiet and let them judge whether any of it fits.
 
 ## Which group to learn first {#which-first}
 

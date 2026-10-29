@@ -15,7 +15,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/sw07.webp
 h1: Seven of Swords — <em>seven</em>, Air
-lede: 'Under a bright yellow sky, a man tiptoes out of a camp with an armful of swords held awkwardly by their blades, grinning over his shoulder, while a pair stays planted in the ground. What are you slipping away with?'
+lede: 'Under a yellow sky, a man tiptoes out of a camp with an armful of swords held awkwardly by their blades, grinning over his shoulder, while a pair stays planted in the ground. What are you slipping away with?'
 related:
 - /library/numerology
 - /library/four-elements/air-element

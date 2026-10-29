@@ -31,7 +31,7 @@ Lay the cards left to right.
 
 Three cards, because three tell a small story and still fit on a napkin. A fourth would start to invite “one more, to clarify”, and [that extra card usually muddies the first three](/blog/the-clarifier-card/).
 
-**The spread has no future position, on purpose.** Now and then I do read ahead, but I'd rather look at the present: a future worth having grows out of a today you're properly standing in.
+**The spread has no future position, on purpose.** Now and then I do read ahead, but I'd rather look at the present: a future worth having grows out of a present you've got both feet in.
 
 ## How to lay it out {#how-to}
 

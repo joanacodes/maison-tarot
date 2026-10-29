@@ -42,7 +42,7 @@ Say you’ve started a new job, it isn’t going the way you hoped, and you’re
 
 The situation: a youth in a field, eyes fixed on the one coin he holds up. Earth, a Page: someone learning, careful, at the very start. The obstacle: five young men brandishing staffs, all at odds and none in step. Fire, number five: conflict, and energy pulling in every direction. Your next move: a man at a workbench, chiselling one coin and then the next. My notes pair this card with mastery and the work that mastery costs.
 
-As one sentence: “I’m new and learning; around me, people are pulling in different directions; I can keep my head down on the work itself, one piece at a time.” Three cards, one sentence, and every part of it can be checked against the week. The layout has its own page: [the three-card spread](/blog/three-card-tarot-spread/).
+As one sentence: “I’m new and learning; around me, people are pulling in different directions; I can keep my head down on the work itself, one piece at a time.” Three cards, one sentence, and every part of it can be checked against the week. [The three-card spread](/blog/three-card-tarot-spread/) sets out the layout in full.
 
 ## Decide before you shuffle {#decide-first}
 
@@ -58,4 +58,4 @@ What helps instead is a different question. “Will the scan be fine?” is one 
 
 ## Start this week {#next-step}
 
-For one week, draw one card each morning. The next week, take one real situation and draw three. Note each reading in two columns: what you said, what turned out. After a fortnight you’ll know which number suits which question better than any table can tell you. The daily habit has its own article: [the one-card pull](/blog/one-card-tarot-pull/).
+For one week, draw one card each morning. The next week, take one real situation and draw three. Note each reading in two columns: what you said, what turned out. After a fortnight you’ll know which number suits which question better than any table can tell you. [The one-card pull](/blog/one-card-tarot-pull/) walks through the daily habit.

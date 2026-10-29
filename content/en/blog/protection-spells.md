@@ -62,6 +62,6 @@ Three cards are worth knowing when fear is the subject, and none of them is a th
 
 {{< cards "sw09 sw08 wa04" >}}
 
-The Nine of Swords is someone surfacing from a bad dream after a rough season, protected from above. The Eight of Swords is a person who feels trapped while every tool to get free is within reach, and who could lift the blindfold any time. The Four of Wands is foundations: a home, people gathered, something built to last.
+The Nine of Swords is someone surfacing from a bad dream after a rough season, protected from above. The Eight of Swords is a person who feels trapped yet has everything she needs to walk free, and who could lift the blindfold any time. The Four of Wands is foundations: a home, people gathered, something built to last.
 
 If you read tarot yourself and you’re wondering whether you need protecting before a reading, that’s a different question, and I answer it in [do you need to protect yourself before reading](/blog/protect-yourself-tarot/). And if the object you were going to buy was a stone, [here’s what crystals are nice for](/blog/crystals-and-tarot/).

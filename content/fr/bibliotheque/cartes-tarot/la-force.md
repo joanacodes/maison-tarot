@@ -15,7 +15,7 @@ energy: Féminine
 kabbalah: Teth
 image: cards/ar08.webp
 h1: La Force — <em>8</em>, le Feu
-lede: 'Penchée sur un grand lion, une femme vêtue de blanc referme sa gueule à mains nues, sans arme ni effort visible, l’infini au-dessus de la tête. Quel feu, chez vous, demande à être apaisé plutôt que dompté ?'
+lede: 'Penchée sur un grand lion, une femme vêtue de blanc referme sa gueule à mains nues, sans arme ni effort visible, l’infini flottant sur sa tête. Quel feu, chez vous, demande à être apaisé plutôt que dompté ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-feu
@@ -62,7 +62,7 @@ Dans cet ordre, ces couleurs racontent déjà la carte : une volonté paisible q
 
 ## Par l’astrologie : Lion {#astrologie}
 
-Le [Lion](/fr/bibliotheque/astrologie/lion/) est le signe que la Golden Dawn donne à la Force, et l’animal sur la carte ne laisse guère de doute. Le Lion, c’est le jeu, la fierté, l’expressivité — le chanteur d’opéra qui veut être vu. La carte montre le Lion sous son meilleur jour : la volonté est entière, et elle n’a plus besoin de public.
+Le [Lion](/fr/bibliotheque/astrologie/lion/) revient à la Force dans la Golden Dawn, et l’animal sur la carte ne laisse guère de doute. Le Lion, c’est le jeu, la fierté, l’expressivité — le chanteur d’opéra qui veut être vu. La carte montre le Lion sous son meilleur jour : la volonté est entière, et elle n’a plus besoin de public.
 
 ## En lecture {#lecture}
 

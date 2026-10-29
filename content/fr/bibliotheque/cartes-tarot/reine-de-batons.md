@@ -78,4 +78,4 @@ Ici, la Reine de Bâtons sort la première, puis le [Deux de Pentacles](/fr/bibl
 
 Pour la personne, en une phrase et demie : « Tout le monde vient se réchauffer à votre feu, et vous jonglez avec plus de choses que vous ne le montrez. La reine est assise ; les mains, non. »
 
-La vérification tient en une question : « Qui entretient votre feu, pendant que vous entretenez celui des autres ? » Si son propre feu ne manque de rien, dites que vous vous êtes trompé, consignez-le, et laissez le paquet fermé.
+Une question suffit pour vérifier : « Qui entretient votre feu, pendant que vous entretenez celui des autres ? » Si son propre feu ne manque de rien, dites que vous vous êtes trompé, consignez-le, et laissez le paquet fermé.

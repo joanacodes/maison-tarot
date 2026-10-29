@@ -13,7 +13,7 @@ summary: "When I tested my birth chart placement by placement, tick or cross, mo
 ---
 When I tested my birth chart box by box, most placements held 30 to 40% of the time. Three held far more often — 75 to 90%, for me and then for the people I tested: Saturn, Lilith and Chiron. All three describe a difficulty: the hardest lesson, the thing you learned to hide, the wound you keep circling.
 
-Each has its own page in the Library. This one puts them side by side: what each is, plainly, what “held” means, and how to check yours. In tarot I read them with three cards: the World for Saturn, the Devil for Lilith, the Hermit for Chiron.
+The Library gives each of them a page. This one puts them side by side: what each is, plainly, what “held” means, and how to check yours. In tarot I read them with three cards: the World for Saturn, the Devil for Lilith, the Hermit for Chiron.
 
 {{< cards "ar21 ar15 ar09" >}}
 
@@ -41,7 +41,7 @@ Lilith, the Black Moon of modern astrology, isn't a planet but a calculated poin
 
 Say someone's Lilith sits in the seventh house, the house of partners. An astrologer would read a part of themselves they learned to leave outside their relationships: an anger, say, or wanting more than they ask for. Of the three, it's the placement people recognise and never say out loud.
 
-**Because it touches what someone chose to hide, I read Lilith with care: you knock first.** Reading it in another person's chart behind their back is opening a door that was closed on purpose, and [looking up a chart without permission](/blog/birth-chart-without-permission/) has its own article.
+**Because it touches what someone chose to hide, I read Lilith with care: you knock first.** Reading it in another person's chart behind their back is opening a door that was closed on purpose, a point I take further in [looking up a chart without permission](/blog/birth-chart-without-permission/).
 
 ## Chiron: the wound you circle {#chiron}
 

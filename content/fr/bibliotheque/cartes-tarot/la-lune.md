@@ -46,13 +46,13 @@ Il n’y a personne sur cette carte — seulement des animaux, un chemin et une 
 
 ## Par le nombre : 18 {#nombre}
 
-Dix-huit se ramène à [9](/fr/bibliotheque/numerologie/chiffre-9/), le nombre de l’Ermite : l’arrivée se devine, une étape se termine, il faut un dernier effort et un regard tourné vers soi — et de la patience, sans cesser de marcher. C’est le chemin de la Lune : long, flou, et presque fini.
+Dix-huit se ramène à [9](/fr/bibliotheque/numerologie/chiffre-9/), le nombre de l’Ermite : on aperçoit l’arrivée, on boucle une étape au prix d’un dernier effort, on regarde en soi — et l’on patiente, sans cesser de marcher. C’est le chemin de la Lune : long, flou, et presque fini.
 
 Dans l’histoire d’Instagram, le 9, c’est la refonte autour des Reels : ce n’est pas encore une autre application, mais tout ce qui définissait l’ancienne est en train de finir. Sur cette carte, cet entre-deux ressemble à du brouillard. C’est pourtant un 9 : vous êtes plus près de la fin que du début.
 
 ## Par l’élément : Eau {#element}
 
-La Lune est une carte d’[Eau](/fr/bibliotheque/quatre-elements/element-eau/), l’élément des émotions, des liens et de ce qui agit sans se montrer. Dans mes notes, l’eau transporte qui se laisse porter et engloutit qui se débat. Avec le temps, elle s’infiltre aussi partout : une émotion négligée abîme lentement les fondations, comme l’humidité dans une maison.
+La Lune est une carte d’[Eau](/fr/bibliotheque/quatre-elements/element-eau/), l’élément des émotions, des liens et des forces qu’on ne voit pas. Dans mes notes, l’eau transporte qui se laisse porter et engloutit qui se débat. Avec le temps, elle s’infiltre aussi partout : une émotion négligée abîme lentement les fondations, comme l’humidité dans une maison.
 
 L’écrevisse qui sort du bassin, c’est cette émotion qui fait surface. La Lune ne crée pas l’inquiétude ; elle vous en montre une qui était déjà dans l’eau.
 
@@ -62,7 +62,7 @@ Le [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) domine, dans le ciel et dans le
 
 ## Par l’astrologie : Poissons {#astrologie}
 
-C’est aux [Poissons](/fr/bibliotheque/astrologie/poissons/) que la Golden Dawn confie la Lune, le signe dont le verbe est « Je crois ». Un poisson vit là où nous ne pouvons pas respirer : vue de dehors, la surface est immobile, et dessous, l’eau grouille de vie. C’est cette carte — calme en surface, tout un monde en dessous. Bien placés, les Poissons sont la sagesse qui attend le bon moment ; mal placés, celui qui a plongé et ne dit plus quand il remonte.
+C’est aux [Poissons](/fr/bibliotheque/astrologie/poissons/) que la Golden Dawn confie la Lune ; leur verbe est « Je crois ». Un poisson vit là où nous ne pouvons pas respirer : vue de dehors, la surface est immobile, et dessous, l’eau grouille de vie. C’est cette carte — calme en surface, tout un monde en dessous. Bien placés, les Poissons sont la sagesse qui attend le bon moment ; mal placés, celui qui a plongé et ne dit plus quand il remonte.
 
 ## En lecture {#lecture}
 
