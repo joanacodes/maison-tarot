@@ -53,7 +53,7 @@ The Library tells the cycle of [numerology](/library/numerology/) through the st
 
 There’s no life path 10: it becomes 1 + 0 = 1, the cycle starting again.
 
-**A life path number is a question you carry, not a sentence you serve.** The example above, the 7, is the moment in the Instagram story when the model changes and advertising becomes the core: patience, negotiation, harvest. Its advice is the one I like best in the table — everything is temporary, good or bad. [Number 7](/library/numerology/number-7/) has its own page.
+**A life path number is a question you carry, not a sentence you serve.** The example above, the 7, matches the stage in Instagram’s history when its model changes and advertising becomes the core: patience, negotiation, harvest. Its advice is my favourite in the table: no situation, good or bad, stays put. More on [number 7](/library/numerology/number-7/) in the Library.
 
 ## Your life path in the tarot {#tarot}
 

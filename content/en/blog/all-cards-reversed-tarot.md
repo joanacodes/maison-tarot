@@ -47,7 +47,7 @@ Upright, the row would tell a story: a spark, the work, then the joy of a stage 
 
 Now all three reversed. The spark is there, but nobody has picked it up. The work goes on with the head down. The joy is waiting for permission. My one sentence for the whole spread would be: “There’s something you’d love to start, you have the skill for it, and you keep working instead of beginning. What would you do if you let yourself enjoy it?”
 
-Then you ask whether it lands. If it doesn’t, it’s a miss: you note it, and you don’t redraw to get the cards the right way up.
+Then you ask whether it lands. A no goes in the notebook as a miss, and you don’t redraw to get the cards the right way up.
 
 ## What it doesn’t mean {#what-it-doesnt-mean}
 

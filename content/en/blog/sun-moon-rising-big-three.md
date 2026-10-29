@@ -55,7 +55,7 @@ One way to hold all three at once is to give each its verb. In my notes every si
 
 That’s why “I’m a Scorpio” says so little, and why “I don’t date Scorpios” judges a whole house by its address. You’re a mix of everything, and the chart goes well beyond three placements. It’s also why [astrology is not an excuse](/blog/astrology-is-not-an-excuse/): a description isn’t a permission.
 
-If you read tarot, two of the three have a card. The Sun has the Sun, arcana XIX. The Moon has the High Priestess in the Golden Dawn tradition; I call that card [a room you aren’t shown](/library/tarot-cards/the-high-priestess/). The Moon card, XVIII, carries Pisces, not the Moon, which confuses a lot of people.
+If you read tarot, two of the three have a card. The Sun has the Sun, arcana XIX. The Moon has the High Priestess, following the astrology Waite inherited; I call that card [a room you aren’t shown](/library/tarot-cards/the-high-priestess/). The Moon card, XVIII, carries Pisces, not the Moon, which confuses a lot of people.
 
 {{< cards "ar19 ar02" >}}
 

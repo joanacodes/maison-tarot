@@ -15,7 +15,7 @@ People to read for are easier to find than you’d think: online groups where pe
 
 ## Online groups where people ask for readings {#online-groups}
 
-My [first reading for a stranger](/blog/first-tarot-reading-story/) happened on a Discord group I’d found through Tumblr.
+My [first reading for a stranger](/blog/first-tarot-reading-story/) took place in a Discord group that Tumblr had led me to.
 
 A few months after I started, I was reading in Facebook tarot groups too, and doing lives there. Groups like these exist because people want readings and readers want practice, and both sides know it.
 
@@ -37,15 +37,15 @@ So ask them for two things. First, tell you nothing — not the question, not ev
 
 ## How to ask, and what to agree on {#how-to-ask}
 
-Reading someone without asking is like walking into their bedroom and opening the drawers. It’s also less accurate: someone who doesn’t know they’re being read isn’t open, and you end up building a whole statement on half a sentence. Consent comes first, every time.
+Reading someone without asking is the equivalent of letting yourself into their bedroom and going through their things. It’s also less accurate: a person unaware of the reading gives you almost nothing to work with, and the little you catch gets blown up into a claim. Consent comes first, every time.
 
 You can keep it to one sentence: “I’m learning tarot and practising with volunteers; it’s free, don’t tell me your question, and tell me afterwards what landed and what didn’t.” Behind that sentence, here is what I’d agree on before you start:
 
 1. Say you’re practising, and that it’s free.
 2. Ask for no question and no context; they keep it to themselves.
 3. Agree that they’ll tell you, afterwards, what landed and what didn’t.
-4. Say what you don’t read on: health, death, pregnancy, court cases, money decisions, people who aren’t there. These are [the subjects I step back from](/disclaimers/#refusals), and why.
-5. Write it down: what you said, what they confirmed.
+4. Name the subjects you leave alone; for me that’s health and death, pregnancy, lawsuits, money decisions and anyone who isn’t there. These are [the topics my readings leave out](/disclaimers/#refusals), with the reasons.
+5. Note both sides: your words, and their verdict on each.
 
 **Consent and silence are the two things that turn a favour into practice.** Without them, you’re having a pleasant conversation; with them, you’re learning something about how you read.
 

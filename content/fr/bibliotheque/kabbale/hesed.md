@@ -50,7 +50,7 @@ Le Quatre de Pentacles est là où la clé devient intéressante. La Golden Dawn
 
 ## Hesed et l’astrologie : Jupiter {#astrologie}
 
-[Jupiter](/fr/bibliotheque/astrologie/jupiter/), chez la Golden Dawn, revient à Hesed : l’expansion, la confiance, la chance qu’on croit avoir. Les planètes descendent l’Arbre dans l’ordre ancien du ciel, de la plus lente à la plus rapide — Saturne en Binah, puis Jupiter, puis Mars — si bien que Jupiter tombe sur la sephirah du don.
+[Jupiter](/fr/bibliotheque/astrologie/jupiter/), aux yeux de la Golden Dawn, revient à Hesed : l’expansion, la confiance, la chance qu’on croit avoir. Les planètes descendent l’Arbre dans l’ordre ancien du ciel, de la plus lente à la plus rapide — Saturne en Binah, puis Jupiter, puis Mars — si bien que Jupiter tombe sur la sephirah du don.
 
 On voit le rapprochement dans le Quatre d’Épées, Hesed dans la série de l’Air et Jupiter en Balance. Un chevalier couché au repos dans une église, trois épées au mur : la générosité de Jupiter, ici, c’est la permission de s’arrêter.
 

@@ -23,7 +23,7 @@ Its suits are Batons, Cups, Swords and Coins, and its court cards are the Valet,
 
 ## What is the Rider-Waite-Smith? {#what-is-rws}
 
-The Rider-Waite-Smith is the deck published in London in 1909, drawn by Pamela Colman Smith under the direction of Arthur Edward Waite. Who the three names belong to, and how it became the standard, is [its own story](/blog/rider-waite-smith-tarot/). What matters here: it keeps the 78-card structure and changes the minors completely. Each of the 56 has a scene, with people doing something.
+The Rider-Waite-Smith is the deck published in London in 1909, drawn by Pamela Colman Smith under the direction of Arthur Edward Waite. Who the three names belong to, and how it became the standard, is told in [how the Rider-Waite-Smith came about](/blog/rider-waite-smith-tarot/). What matters here: it keeps the 78-card structure and changes the minors completely. Each of the 56 has a scene, with people doing something.
 
 Its suits are Wands, Cups, Swords and Pentacles. In its Eight of Cups, a red-cloaked traveller turns their back on a neat stack of eight cups and climbs away into the night hills. You understand something is being left behind before you've counted anything.
 
@@ -61,7 +61,7 @@ And XIII has a number but, in the Marseille, no name: a skeleton mowing a field.
 
 ## Which deck should you learn on? {#which-deck}
 
-The Marseille, if the people who'll teach you read it, if numbers speak to you, or if you'd like to read with the majors alone, as plenty of Marseille readers do — [what you gain and lose with only the 22 majors](/blog/major-arcana-only/) is its own question. It's an old pattern with a long line of readers behind it.
+The Marseille, if the people who'll teach you read it, if numbers speak to you, or if you'd like to read with the majors alone, as plenty of Marseille readers do — [what you gain and lose with only the 22 majors](/blog/major-arcana-only/) is worth weighing first. It's an old pattern with a long line of readers behind it.
 
 The Rider-Waite-Smith, if you want to read without a book from the first card. It's the deck I read and teach with, and the one the whole Maison Tarot Library is built on, because every card is a scene.
 

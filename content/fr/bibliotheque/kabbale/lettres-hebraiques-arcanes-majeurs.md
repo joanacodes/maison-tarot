@@ -16,7 +16,7 @@ related:
 - /bibliotheque/astrologie
 faq:
 - q: "Quelle lettre hébraïque va avec le Mat ?"
-  a: "Aleph, selon l’attribution de la Golden Dawn, que suivent ce site et la tradition du Rider-Waite-Smith. Dans la tradition française d’Éliphas Lévi et d’Oswald Wirth, le Mat prend Shin, et Aleph va au Magicien, le Bateleur du tarot de Marseille."
+  a: "Aleph, d’après la Golden Dawn, que suivent ce site et la tradition du Rider-Waite-Smith. Dans la tradition française d’Éliphas Lévi et d’Oswald Wirth, le Mat prend Shin, et Aleph va au Magicien, le Bateleur du tarot de Marseille."
 - q: "Pourquoi la Force et la Justice n’ont-elles pas le même numéro selon les jeux ?"
   a: "La Golden Dawn a donné Teth (le Lion) à la Force et Lamed (la Balance) à la Justice, ce qui obligeait à échanger leurs places. Le Rider-Waite-Smith de 1909 imprime la Force en VIII et la Justice en XI ; le tarot de Marseille garde la Justice en VIII et la Force en XI."
 gallery: []
@@ -134,7 +134,7 @@ Le tarot de Marseille garde la Justice en VIII et la Force en XI : Lévi donne d
 
 ## Ce qu’une lettre ajoute à un tirage {#lecture}
 
-Une lettre ajoute une image, pas un sens. Disons que l’Ermite sort : Yod, la main. Regardez ce que fait sa main, et ce que ferait la vôtre à sa place. Si l’image vous aide à voir la carte, gardez-la ; sinon, le nombre, l’élément et les couleurs font le travail sans elle.
+Une lettre ajoute une image, pas un sens. Disons que l’Ermite sort : Yod, la main. Regardez ce que fait sa main, et ce que ferait la vôtre à sa place. Si l’image vous aide à voir la carte, tant mieux ; sinon, le nombre, l’élément et les couleurs font le travail sans elle.
 
 Les lettres sont posées sur les sentiers de [l’Arbre de Vie](/fr/bibliotheque/kabbale/arbre-de-vie/) : cette page montre quelles sphères relie chaque carte.
 

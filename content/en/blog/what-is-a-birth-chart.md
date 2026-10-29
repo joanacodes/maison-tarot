@@ -52,7 +52,7 @@ So Mercury in Gemini thinks out loud and fast; Mercury in Virgo analyses before 
 
 ## The houses: where {#houses}
 
-The houses are twelve slices of the sky, calculated from your birth time and place. Each one is an area of life. The first begins at the rising sign, whichever sign the eastern sky was showing on the horizon as you came into the world; I explain it more in [what is my rising sign](/blog/what-is-my-rising-sign/).
+The houses are twelve slices of the sky, calculated from your birth time and place. Each one is an area of life. The first begins at the rising sign, the sign appearing on the eastern horizon as you came into the world; I explain it more in [what is my rising sign](/blog/what-is-my-rising-sign/).
 
 | House | Area of life |
 | --- | --- |

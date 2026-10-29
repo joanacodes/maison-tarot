@@ -21,7 +21,7 @@ A video call works better than a broadcast for this. You can see who’s there, 
 
 Drawing at random matters. It stops the evening from going to whoever writes first, and it takes the pressure off people who came only to watch.
 
-The person who’s drawn tells you nothing first: no question, no situation. That’s what makes their confirmation afterwards worth something, for them and for everyone watching. I explain [why I ask for silence](/blog/the-silence-rule/) on its own page.
+The person who’s drawn tells you nothing first: no question, no situation. That’s what makes their confirmation afterwards worth something, for them and for everyone watching. [Why I ask for silence](/blog/the-silence-rule/) is worth reading before your first evening.
 
 ## Timing: the evening, and each person {#timing}
 

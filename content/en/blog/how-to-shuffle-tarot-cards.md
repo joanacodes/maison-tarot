@@ -21,7 +21,7 @@ No. Any shuffle works, because it isn’t for the cards: it’s a small pause fo
 
 Face to face, the person can shuffle or the reader can; both work. And most of my readings for strangers were online, on Discord servers and group calls, where the person never touched my cards at all. If a reading depended on whose hands shuffled, those readings would have had nothing to hold on to.
 
-So you don’t need a ritual: no knocking on the deck, no cleansing between readings ([I sold sage in 2021, and nothing in it improved a reading](/blog/cleanse-tarot-deck/)). Whether you let other people shuffle your cards is a preference, not a rule — [letting others touch your deck](/blog/let-others-touch-tarot-cards/) has its own article.
+So you don’t need a ritual: no knocking on the deck, no cleansing between readings ([I sold sage in 2021, and nothing in it improved a reading](/blog/cleanse-tarot-deck/)). Whether you let other people shuffle your cards is a preference, not a rule, and I weigh it up in [letting others touch your deck](/blog/let-others-touch-tarot-cards/).
 
 **The shuffle is a pause, not a spell.**
 

@@ -21,7 +21,7 @@ In France and in the UK, readings are sold in a handful of formats. **The format
 - *Per question.* One question, one answer, often written or recorded and sent afterwards.
 - *Per minute.* The model of phone lines and chat platforms. In France it has long meant premium-rate numbers, and now often a card payment with a counter running. The total depends on how long you stay.
 - *Written or recorded readings.* You send a first name, sometimes a photo, and a reading arrives by email or video. There’s no conversation, so no moment to say “that doesn’t fit”.
-- *Bundles and subscriptions.* A set of questions or a monthly plan, cheaper per unit. [How pay-per-question and subscriptions work](/blog/tarot-subscriptions/) deserves its own page.
+- *Bundles and subscriptions.* A set of questions or a monthly plan, cheaper per unit. [How pay-per-question and subscriptions work](/blog/tarot-subscriptions/) takes longer to explain than a bullet allows.
 - *Fairs and events.* A few minutes at a stand, at a wellbeing show or a psychic fair.
 
 You won’t find a price range on this page. Published prices are each reader’s own list, so they tell you what one person asks, not what readings cost. To get a range that means something where you live, take three readers who sell the same format for the same length, note the total each would charge, and compare those three numbers. A per-minute rate next to an hourly fee tells you nothing until you’ve turned both into a total.

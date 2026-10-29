@@ -19,7 +19,7 @@ The word does three different jobs, and most arguments about magic come from mix
 
 Stage magic is illusion. Someone knows exactly how it works and hides it from you on purpose; the pleasure is in being fooled. A coin vanishes, and the explanation is up a sleeve.
 
-Ritual magic is a set of practices meant to change something through symbols, words and intention: spells, ritual, a candle lit for a reason. It belongs to witchcraft and to many folk and religious traditions, and it’s a practice rather than an explanation. [Whether tarot counts as witchcraft](/blog/is-tarot-witchcraft/) is its own question.
+Ritual magic is a set of practices meant to change something through symbols, words and intention: spells, ritual, a candle lit for a reason. It belongs to witchcraft and to many folk and religious traditions, and it’s a practice rather than an explanation. [Whether tarot counts as witchcraft](/blog/is-tarot-witchcraft/) is a question I take up elsewhere.
 
 Everyday magic is the “it was magic” kind: a first concert, a coincidence that made you laugh out loud, an evening that went beyond what you could describe.
 

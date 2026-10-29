@@ -29,7 +29,7 @@ The cards’ own part is a small one. They give your eyes somewhere to rest, so 
 
 At the other end of the scale, what arrives isn’t a word but a feeling. Sensations and emotions are channels too, and for some readers they’re the loudest ones.
 
-Say you’re reading for someone and a heaviness settles on you that wasn’t there a minute ago. Nothing in your own day explains it. That is what empathy can look like when you read. In my notes, empathy means feeling and understanding another person’s emotions while keeping your own. Very empathic readers can end up feeling the other person’s emotions, and sometimes expressing them, as if they were theirs.
+Say you’re reading for someone and a heaviness settles on you that wasn’t there a minute ago. Nothing in your own day explains it. That is what empathy can look like when you read. My notes define it as taking in and making sense of someone else’s feelings without giving up yours. Readers with a lot of it can find another person’s mood settling in them, even coming out of their own mouths, as though it belonged to them.
 
 That is where it needs care. If you start crying the other person’s tears, you’ve stopped reading for them; they’re now looking after you.
 
@@ -59,8 +59,8 @@ You can’t be told what it’s like. You can only try.
 
 1. Find someone willing to sit down without saying why.
 2. Draw one card.
-3. Tell yourself the sentence from [my method for beginners](/blog/how-to-read-tarot-beginners/): *I’m about to talk nonsense.*
+3. Lower the stakes the way [my method for beginners](/blog/how-to-read-tarot-beginners/) does: expect to talk rubbish.
 4. Say what you see and whatever turns up, word or image, even if it seems random.
 5. Write down what you said, then ask whether it meant anything.
 
-If you’d rather try it with someone beside you, every [workshop at Maison Tarot](/workshops/) starts with a card in front of you in the first ten minutes, and the explanations after.
+If you’d rather not try it alone, a [Maison Tarot workshop](/workshops/) puts a card before you almost at once and saves the explaining for later.

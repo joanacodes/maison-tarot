@@ -45,7 +45,7 @@ Court cards of Cups are people, or ways of behaving, in the emotional field. The
 
 Look at the drawings before you look at the meanings. Water pours out of the Ace. Three cups lie spilled in the Five. Cups float in a cloud in the Seven. In the Eight they’re left stacked behind a walking figure.
 
-Water in motion means feelings running high; still water means feelings that have calmed. Water also gets into everything if you leave it long enough: an emotion nobody tends to undermines a life the way mould slowly works through a house. A fire wrecks things in one go; ignored water does its damage slowly and reaches further down.
+Water in motion means feelings running high; still water means feelings that have calmed. Water also gets into everything if you leave it long enough: a feeling left untended eats into a life the way mould slowly works through a house. A fire wrecks things in one go; ignored water does its damage slowly and reaches further down.
 
 So when heavy Cups pile up, the useful question isn’t “what disaster is coming?” It’s “what has been leaking for a long time without being fixed?”
 

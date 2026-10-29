@@ -66,7 +66,7 @@ Le tarot de Thoth de Crowley, peint par [Frieda Harris](/fr/bibliotheque/figures
 
 Je traite les correspondances de la Golden Dawn comme une clé de lecture de plus, pas comme la vérité des cartes. Elles sont utiles quand vous lisez des livres anciens, quand vous lisez le Thoth, ou quand l’[astrologie](/fr/bibliotheque/astrologie/) vous parle. Elles sont facultatives quand vous débutez.
 
-Imaginons que quelqu’un tire l’Empereur à côté du Quatre de Bâtons. Sans aucun système, vous voyez déjà du rouge, un trône, une structure, une fête. La Golden Dawn ajoute le Bélier à l’Empereur et Vénus en Bélier au Quatre de Bâtons : deux fois le Bélier, un départ qui veut durer. Utile si ça vous aide. Laissez-le de côté sinon.
+Tirez l’Empereur à côté du Quatre de Bâtons : sans aucun système, vous voyez déjà du rouge, un trône, une structure, une fête. La Golden Dawn ajoute le Bélier à l’Empereur et Vénus en Bélier au Quatre de Bâtons : deux fois le Bélier, un départ qui veut durer.
 
 ## Sources {#sources}
 

@@ -58,7 +58,7 @@ Le Cinq de Coupes réunit les deux : Gevurah dans la série de l’Eau, Mars en 
 
 Gevurah apporte un autre regard, à manier avec délicatesse. Avec cette clé, un Cinq est un endroit où une limite se pose — par vous, par quelqu’un d’autre, par les circonstances. Cela ne rend pas une perte moins lourde, et je ne vais pas prétendre le contraire.
 
-Imaginons qu’on tire le Cinq d’Épées à côté du Deux de Coupes : un désaccord à l’intérieur d’un lien. Sans l’Arbre, on lit une dispute. Vu par Gevurah, la question devient : quelle frontière cette dispute essaie-t-elle de tracer, et peut-on la dire plus gentiment ?
+Le Cinq d’Épées posé près du Deux de Coupes montre un désaccord à l’intérieur d’un lien. Sans l’Arbre, on lit une dispute. Vu par Gevurah, la question devient : quelle frontière cette dispute essaie-t-elle de tracer, et peut-on la dire plus gentiment ?
 
 Quand un Cinq tombe à côté d’un Quatre, Hesed et Gevurah sont côte à côte sur la table : ce qui a été donné, et où cela s’arrête. Ce duo raconte souvent toute l’histoire.
 

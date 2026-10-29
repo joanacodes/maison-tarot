@@ -33,7 +33,7 @@ The moon really does move the oceans: the tides are its pull. From there, it’s
 
 {{< cards "ar02 ar18" >}}
 
-The deck itself is full of moons. In the Golden Dawn tradition the astrological Moon belongs to [the High Priestess](/library/tarot-cards/the-high-priestess/), with a crescent at her feet. The Moon card, number 18, carries Pisces — the dog and the wolf howling, the crayfish climbing out of the pool. It’s a frequent confusion, and a good reminder that a symbol on a card and a body in the sky aren’t the same thing.
+The deck itself is full of moons. The occult order that shaped the Rider-Waite-Smith gave the astrological Moon to [the High Priestess](/library/tarot-cards/the-high-priestess/), who has a crescent at her feet. The Moon card, number 18, carries Pisces — the dog and the wolf howling, the crayfish climbing out of the pool. It’s a frequent confusion, and a good reminder that a symbol on a card and a body in the sky aren’t the same thing.
 
 **A belief can be meaningful to you without being something the cards depend on.**
 

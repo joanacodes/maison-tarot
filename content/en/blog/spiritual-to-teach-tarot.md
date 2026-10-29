@@ -47,7 +47,7 @@ For many people, tarot is part of a spiritual life: a conversation with their gu
 
 Say a workshop has two people side by side looking at the Star. One feels her grandmother in the card. The other sees a woman pouring water, so Water, so emotions. Both are reading. I ask both the same thing: say what you see, check it with the person, write down the misses.
 
-Where I draw a line is when spirituality turns into a ladder, with the teacher at the top holding access and the students waiting to be let in. That’s a separate subject, with its own article: [building a practice without becoming a guru](/blog/tarot-practice-without-guru/). And for students worried that tarot clashes with their faith, I’ve written [is tarot a sin?](/blog/is-tarot-a-sin/) with as much respect as I could.
+Where I draw a line is when spirituality turns into a ladder, with the teacher at the top holding access and the students waiting to be let in. [Building a practice without becoming a guru](/blog/tarot-practice-without-guru/) is where I deal with that. And for students worried that tarot clashes with their faith, I’ve written [is tarot a sin?](/blog/is-tarot-a-sin/) with as much respect as I could.
 
 ## What you do need to teach tarot {#what-you-need}
 

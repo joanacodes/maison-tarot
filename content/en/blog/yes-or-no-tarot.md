@@ -39,11 +39,11 @@ Say someone asks, silently, “Should I take the job in Bristol?” and draws on
 
 {{< cards "cu07 wa04 sw02" >}}
 
-The [Seven of Cups](/library/tarot-cards/seven-of-cups/): a figure facing seven cups floating in a cloud, each holding something different — a castle, jewels, a wreath, a snake. A yes-or-no reader would call it “no”, or “unclear”. I’d say: you’re not choosing between yes and no, you’re choosing between several dreams, and some of them are made of cloud. Which one is Bristol?
+The [Seven of Cups](/library/tarot-cards/seven-of-cups/): someone gazes up at a bank of cloud where seven cups hover, a castle in one, jewels in another, a snake in a third. A yes-or-no reader would call it “no”, or “unclear”. I’d say: you’re not choosing between yes and no, you’re choosing between several dreams, and some of them are made of cloud. Which one is Bristol?
 
 The Four of Wands: four wands with a garland strung across them, people celebrating behind. Four is foundations, the fruit of your work; for me this card is roots, a home being built. It doesn’t say “go”. It asks whether this job builds something you’d want to live in.
 
-The Two of Swords: a woman blindfolded, holding two crossed swords, the sea behind her. [Two is the number of the contract](/library/numerology/number-2/), and its advice is to read the contract and weigh the pros and cons. The card says: you’re refusing to look. Take the blindfold off, then decide.
+The Two of Swords: a woman blindfolded, holding two crossed swords, the sea behind her. [Two is the number of the contract](/library/numerology/number-2/), and what it advises is checking the terms and setting gains against costs. The card says: you’re refusing to look. Take the blindfold off, then decide.
 
 None of the three is a verdict. Each gives you a direction and a condition, which is more than a yes ever could.
 

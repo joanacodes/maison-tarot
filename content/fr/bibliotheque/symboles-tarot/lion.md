@@ -16,7 +16,7 @@ related:
 - /bibliotheque/quatre-elements/element-feu
 faq:
 - q: "Le lion, au tarot, est-ce toujours le signe du Lion ?"
-  a: "Souvent, pas toujours. La tradition de la Golden Dawn attribue la Force au Lion, et l’animal ne laisse guère de doute. Dans les coins de la Roue et du Monde, le lion est l’une des quatre créatures qu’on lit généralement comme les quatre signes fixes : Lion, Taureau, Scorpion et Verseau."
+  a: "Souvent, pas toujours. Les tables de la Golden Dawn rangent la Force sous le Lion, et l’animal dessiné ne laisse d’ailleurs guère de doute. Dans les coins de la Roue et du Monde, le lion est l’une des quatre créatures qu’on lit généralement comme les quatre signes fixes : Lion, Taureau, Scorpion et Verseau."
 - q: "Que veut dire le lion ailé du Deux de Coupes ?"
   a: "Une tête de lion rouge aux grandes ailes flotte au-dessus des coupes du couple. Je la lis comme la passion qui prend des ailes : un désir qui élève l’accord au lieu de le consumer."
 gallery:

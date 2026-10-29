@@ -43,7 +43,7 @@ Here's my hypothesis, and it's mine, not a rule: being afraid of the dark can be
 
 A switch is a reasonable answer to a dark room. It's a less useful answer to a room you carry around with you, because there's no wall to put it on.
 
-Two cards sit close to this idea. [The Moon](/library/tarot-cards/the-moon/) shows a path running between two towers at night, a dog and a wolf howling, a creature crawling out of the water: what surfaces when the light is low. The [Nine of Swords](/library/tarot-cards/nine-of-swords/), the way I read it, is the morning that finally follows weeks of bad sleep, with something keeping watch overhead.
+Two cards sit close to this idea. [The Moon](/library/tarot-cards/the-moon/) shows a path running between two towers at night, a dog and a wolf howling, a creature crawling out of the water: what surfaces when the light is low. The [Nine of Swords](/library/tarot-cards/nine-of-swords/), the way I read it, is waking up as a hard period finally lets go of you, with something keeping watch overhead.
 
 {{< cards "ar18 sw09" >}}
 

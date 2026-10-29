@@ -33,7 +33,7 @@ That's all of it, and I'll leave it as it came. I'm not going to hand you a mean
 
 ## Reading a dream with tarot lenses {#lenses}
 
-Start with the element. A tsunami is Water, in its largest movement. In my notes on [the Water element](/library/four-elements/water-element/), water will take you where you need to go if you stop fighting it, and it can also pull you under. Rough water is a strong feeling; still water, one that has come to rest.
+Start with the element. A tsunami is Water, in its largest movement. In my notes on [the Water element](/library/four-elements/water-element/), water is both a ride and a risk: let it, and it moves you from one place to another; it can drown you as well. Rough water is a strong feeling; still water, one that has come to rest.
 
 Then look for the contradiction. Gigantic *and* gentle. In a card, when two signals disagree, that's where I look first, because that's usually where the person is.
 

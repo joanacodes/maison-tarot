@@ -64,7 +64,7 @@ Quand j’ai testé l’astrologie sur mon thème et sur ceux des autres, Saturn
 
 ## Binah dans un tirage {#tirage}
 
-Binah apporte une question sur la forme : cette idée a-t-elle trouvé son contenant ? Imaginons qu’on tire le Trois de Pentacles après le Deux de Bâtons. Vu par l’Arbre, le Deux est le plan aperçu en un éclair ; le Trois, le plan assez bien compris pour être construit à plusieurs.
+Binah apporte une question sur la forme : cette idée a-t-elle trouvé son contenant ? Le Trois de Pentacles sort-il après le Deux de Bâtons ? Vu par l’Arbre, le Deux est le plan aperçu en un éclair ; le Trois, le plan assez bien compris pour être construit à plusieurs.
 
 L’inverse marche aussi. Un tirage plein de Deux et sans Trois peut décrire quelqu’un qui voit clair mais ne s’est pas encore assis pour travailler. Binah ne lui dit pas quoi faire ; elle nomme l’étape.
 

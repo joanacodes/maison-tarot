@@ -21,7 +21,7 @@ An angel number is a number made of one repeated digit (111, 222, 333…) or a s
 
 An example. You check your phone and it’s 4:44. Your coffee comes to £4.44. The bus that pulls up is the 444. By the third time, it feels like more than chance.
 
-Many people read that as a message from a guardian angel. Others read it as their own attention tapping them on the shoulder. You don’t have to settle which to use it. If you like angels, the deck has three, in the Lovers, Temperance and Judgement — the [angel in tarot](/library/tarot-symbols/angel/) has its own page.
+Many people read that as a message from a guardian angel. Others read it as their own attention tapping them on the shoulder. You don’t have to settle which to use it. If you like angels, the deck has three, in the Lovers, Temperance and Judgement — see [the angel as a tarot symbol](/library/tarot-symbols/angel/).
 
 {{< cards "ar06 ar14 ar20" >}}
 
@@ -85,4 +85,4 @@ If you notice that you’ve started waiting for a number before choosing anythin
 
 ## Where to go next {#next}
 
-The most famous repeating number has its own article: [seeing 11:11 everywhere](/blog/11-11-meaning/). And if you’d like a number that’s calculated once and stays yours, try your [life path number](/blog/life-path-number/).
+For the most famous repeating number, read [seeing 11:11 everywhere](/blog/11-11-meaning/). And if you’d like a number that’s calculated once and stays yours, try your [life path number](/blog/life-path-number/).

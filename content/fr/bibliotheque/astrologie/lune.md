@@ -63,7 +63,7 @@ La Lune dit ce qu’on ressent quand personne ne regarde : le besoin de sécurit
 
 ## Les cartes qui le portent {#cartes}
 
-[La Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), arcane II, par la tradition Golden Dawn : la lune à ses pieds, le voile, ce qui se sait et ne se dit pas. La Lune (XVIII) porte les Poissons, pas la Lune elle-même — c’est une confusion fréquente. Dans les mineurs : le Quatre de Coupes, le Neuf de Bâtons, le Deux d’Épées, le Sept d’Épées, le Six de Pentacles.
+[La Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), arcane II, comme le veut la Golden Dawn : la lune à ses pieds, le voile, ce qui se sait et ne se dit pas. La Lune (XVIII) porte les Poissons, pas la Lune elle-même — c’est une confusion fréquente. Dans les mineurs : le Quatre de Coupes, le Neuf de Bâtons, le Deux d’Épées, le Sept d’Épées, le Six de Pentacles.
 
 {{< cards "ar02" >}}
 
