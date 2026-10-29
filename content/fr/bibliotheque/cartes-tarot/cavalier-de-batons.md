@@ -50,9 +50,9 @@ Regardez maintenant la direction. Le cheval ne galope pas vers l’avant : il se
 
 ## Par le nombre : le Cavalier {#nombre}
 
-**le Cavalier — l’action, la quête, l’excès.** Le [Cavalier](/fr/bibliotheque/numerologie/cavalier/), c’est l’élément en mouvement, ce que fait la famille quand elle agit, et le cheval de chaque Cavalier dit comment. Celui des Bâtons se cabre : des quatre, c’est le plus impatient. Le conseil du rang semble écrit pour cette carte : agir, oui ; foncer, non. Vérifiez la direction avant la vitesse.
+Le [Cavalier](/fr/bibliotheque/numerologie/cavalier/), c’est ici le Feu en mouvement, et son cheval se cabre : des chevaux des quatre Cavaliers, c’est le plus impatient. Le conseil du rang semble écrit pour cette carte : agir, oui ; foncer, non.
 
-Vous connaissez sûrement ce Cavalier. L’ami qui réserve le billet avant de vérifier les dates, pose sa démission le vendredi et lance son entreprise le lundi — la charrue avant les bœufs, mais avec un enthousiasme magnifique. Le risque loge au même endroit que la qualité : l’excès d’un Cavalier, c’est toujours sa force poussée d’un cran de trop.
+Vous connaissez sûrement ce Cavalier. L’ami qui réserve le billet avant de vérifier les dates, pose sa démission le vendredi et lance son entreprise le lundi — la charrue avant les bœufs, mais avec un enthousiasme magnifique. Le risque loge au même endroit que la qualité : la vitesse qui le lance est aussi celle qui le désarçonne.
 
 ## Par l’élément : Feu {#element}
 
@@ -78,7 +78,7 @@ Renversé, le cheval désarçonne son cavalier : des projets abandonnés à mi-c
 
 ## Exemple de tirage {#exemple}
 
-Supposons qu’une personne qui ne vous a rien dit tire le Cavalier de Bâtons à côté du [Sept de Pentacles](/fr/bibliotheque/cartes-tarot/sept-de-pentacles/). Les clés de lecture d’abord : le Cavalier puis 7 — l’action, puis la patience et l’analyse avant d’agir ; le Feu puis la Terre — la vitesse, puis la croissance lente ; des flammes rouges et orange, puis un homme appuyé sur son outil, qui regarde un buisson chargé de pièces.
+Un tirage hypothétique, pour cette page : le Cavalier de Bâtons sur son cheval cabré, puis le [Sept de Pentacles](/fr/bibliotheque/cartes-tarot/sept-de-pentacles/). Le Cavalier puis 7 — l’action, puis la patience et l’analyse avant d’agir ; le Feu puis la Terre — la vitesse, puis la croissance lente ; des flammes rouges et orange, puis un homme appuyé sur son outil, qui regarde un buisson chargé de pièces.
 
 La phrase : « Vous voulez partir maintenant, et quelque chose que vous avez planté a besoin d’une saison de plus. Partir est possible ; partir avant la récolte, c’est ça qu’il faut peser. »
 

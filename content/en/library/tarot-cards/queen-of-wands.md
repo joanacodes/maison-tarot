@@ -49,15 +49,15 @@ She isn’t looking at the cat, or at us; she looks off to one side. **Sunflower
 
 ## By number: the Queen {#number}
 
-**the Queen — inner mastery, welcome.** The [Queen](/library/numerology/queen/) is seated: she knows, and doesn’t need to prove it. Every Queen holds her house’s tool like something familiar, and this one holds hers loosely, with a flower in the other hand. Hold without holding on, says the rank. At her best she welcomes and lets things through; at her worst she keeps — people, attention, the room — and mistakes mastery for control.
+The [Queen](/library/numerology/queen/) rules from the inside, seated, with nothing to prove — and this one holds her wand loosely, a sunflower in the other hand. Hold without holding on, says the rank. At her best her warmth draws people in and lets them go again; at her worst she holds on to the room — the attention, the people, the last word — and calls it mastery.
 
 An everyday example: the person whose kitchen everyone ends up in at a party. She hasn’t asked anyone to come. They come because it’s warm there.
 
 ## By element: Fire {#element}
 
-Her suit is [Fire](/library/four-elements/fire-element/), the energy that creates and motivates; her own share of it is Water. [Water](/library/four-elements/water-element/) is emotions, relationships, hidden strengths. Fire with Water in it becomes warmth rather than blaze: the heat that gathers people instead of burning them.
+Her suit is [Fire](/library/four-elements/fire-element/), the energy that creates and motivates; her own share of it is [Water](/library/four-elements/water-element/), the element of feeling and of what’s hidden. Fire with Water in it becomes warmth rather than blaze: the heat that gathers people instead of burning them.
 
-That is also where her shadow lives. Neglected water seeps in slowly, like damp in a wall; a Fire queen with feelings she never voices can slide from warmth to jealousy without anyone noticing the moment it happened.
+That is also where her shadow lives. Neglected water seeps in slowly; a Fire queen with feelings she never voices can slide from warmth to jealousy without anyone noticing the moment it happened.
 
 ## By colours {#colours}
 
@@ -77,7 +77,7 @@ Next to [Strength](/library/tarot-cards/strength/), the lions of her throne meet
 
 ## A reading, as an example {#example}
 
-A hypothetical sitter, silent as agreed, turns over the Queen of Wands and then the [Two of Pentacles](/library/tarot-cards/two-of-pentacles/). Lenses first: the Queen then 2 — inner mastery, then a balance between two sides; Fire then Earth — warmth, then the practical juggle; a seated woman in yellow, then a young man dancing with two coins inside a looped ribbon, ships on high waves behind him.
+Here the Queen of Wands comes out first, then the [Two of Pentacles](/library/tarot-cards/two-of-pentacles/) — a spread from imagination, not from memory. The Queen then 2 — inner mastery, then a balance between two sides; Fire then Earth — warmth, then the practical juggle; a seated woman in yellow, then a young man dancing with two coins inside a looped ribbon, ships on high waves behind him.
 
 Said out loud: “Everyone warms themselves at your fire, and you’re juggling more than you show. The queen is sitting down; the hands aren’t.”
 

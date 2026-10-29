@@ -49,9 +49,9 @@ Il ne la regarde pas. Ses yeux sont baissés, vers les trois coupes ou vers rien
 
 ## Par le nombre : quatre {#nombre}
 
-**quatre — les fondations, la stabilité.** Le 4, c’est le 2 redoublé : après le lien et le premier résultat, ça tient. C’est le fruit du travail, la structure, le foyer. Dans le Quatre de Coupes, cette stabilité est affective — la vie est installée, les relations sont connues, les coupes sont alignées. Et tout ça est devenu un peu fade.
+Le 4, c’est le 2 redoublé : après le lien et le premier résultat, ça tient. C’est le fruit du travail, la structure, le foyer. Dans le Quatre de Coupes, cette stabilité est affective — la vie est installée, les relations sont connues, les coupes sont alignées. Et tout ça est devenu un peu fade.
 
-Dans mes notes, le revers du [chiffre 4](/fr/bibliotheque/numerologie/chiffre-4/), c’est continuer quand il faudrait s’arrêter, l’entêtement, et avoir la tête dans les nuages — ici, c’est d’ailleurs le nuage qui essaie de l’atteindre. Le conseil du 4 est toute la leçon de cette carte : rester souple, rester ouvert aux possibilités qu’on n’avait pas prévues. Dans l’histoire d’Instagram, le 4, c’est le grand succès qui arrive vite, et le moment où une entreprise commence à croire qu’elle n’aura plus jamais besoin de changer.
+Dans mes notes, le revers du [chiffre 4](/fr/bibliotheque/numerologie/chiffre-4/), c’est continuer quand il faudrait s’arrêter, l’entêtement, et avoir la tête dans les nuages — ici, c’est d’ailleurs le nuage qui essaie de l’atteindre. Le conseil du 4 est toute la leçon de cette carte : rester souple, rester ouvert aux possibilités qu’on n’avait pas prévues. Dans l’histoire d’Instagram, le 4, c’est un gros succès, et rapide ; le jeune homme sous l’arbre, c’est l’entreprise qui a cessé de chercher la suite.
 
 ## Par l’élément : Eau {#element}
 
@@ -67,9 +67,9 @@ Et le [gris](/fr/bibliotheque/couleurs-tarot/gris/) du petit nuage d’où sort 
 
 ## Par l’astrologie : Lune en Cancer {#astrologie}
 
-Dans la tradition Golden Dawn, le Quatre de Coupes correspond au troisième décan du Cancer, gouverné par la Lune, et porte le titre de « Seigneur du Plaisir mêlé » — un plaisir mélangé à quelque chose de moins plaisant. La [Lune](/fr/bibliotheque/astrologie/lune/) dit ce qu’on ressent quand personne ne regarde. Le Cancer, signe que gouverne la Lune, c’est *Je sens* : la protectrice qui absorbe et contient. Ensemble : quelqu’un de tourné vers l’intérieur, qui ressent beaucoup et montre peu, qui garde ce qu’il a plutôt que de tendre la main vers autre chose.
+Dans la tradition Golden Dawn, le Quatre de Coupes correspond au troisième décan du Cancer, gouverné par la Lune. La [Lune](/fr/bibliotheque/astrologie/lune/), ici, c’est l’humeur qu’il garde pour lui sous son arbre. Le Cancer, signe que gouverne la Lune, c’est *Je sens* : la protectrice qui absorbe et contient. Ensemble : quelqu’un de tourné vers l’intérieur, qui ressent beaucoup et montre peu, qui garde ce qu’il a plutôt que de tendre la main vers autre chose.
 
-Facultatif : le nombre a déjà dit la même chose.
+Facultatif : les bras croisés l’ont déjà dit.
 
 ## En lecture {#lecture}
 
@@ -83,7 +83,7 @@ Renversé, le Quatre de Coupes montre un jeune homme qui relève la tête. Soit 
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Quatre de Coupes à côté de l’[As de Bâtons](/fr/bibliotheque/cartes-tarot/as-de-batons/). Les clés de lecture d’abord. Quatre puis un : une situation installée, puis un nouveau départ. L’Eau puis le Feu : des émotions calmes, puis un coup d’élan. Les couleurs : le bleu et le vert du Quatre, puis un bâton vivant qui pousse des feuilles vertes — tendu lui aussi par une main sortie d’un nuage, le même geste, version Feu.
+Envisagez le Quatre de Coupes suivi de l’[As de Bâtons](/fr/bibliotheque/cartes-tarot/as-de-batons/), dans un tirage qui n’existe que sur cette page. Quatre puis un : une situation installée, puis un nouveau départ. L’Eau puis le Feu : des émotions calmes, puis un coup d’élan. Les couleurs : le bleu et le vert du Quatre, puis un bâton vivant qui pousse des feuilles vertes — tendu lui aussi par une main sortie d’un nuage, le même geste, version Feu.
 
 La phrase que je dirais à voix haute : « Votre vie est bien installée et vous vous y ennuyez un peu, et on vous a proposé quelque chose de nouveau — une idée, une offre, une invitation — que vous avez mis de côté sans vraiment regarder. »
 

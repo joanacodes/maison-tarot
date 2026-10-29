@@ -48,7 +48,7 @@ Beyond, a river runs across the whole card. On the far bank stand a small stone 
 
 ## By number: five {#number}
 
-**five — conflict, trial, making do with what’s left.** Five is the trial in the middle of the cycle, the moment you find out what holds. In my notes, the Five of Cups is the heaviest card of all: losing, a dark emotion, being alone with your problems. I say it plainly because it’s what the drawing shows, and saying it plainly is kinder than pretending otherwise.
+Five is the trial in the middle of the cycle, and this card shows what didn’t hold: three spilled cups. In my notes, the Five of Cups is the heaviest card of all: losing, a dark emotion, being alone with your problems. I say it plainly because it’s what the drawing shows, and saying it plainly is kinder than pretending otherwise.
 
 [Number five](/library/numerology/number-5/) also has a minus, and here it’s the key: denial. Not denial of the loss — the figure clearly knows. The other denial: not seeing what’s still there. The advice of 5 is to be honest with yourself and with the situation, both halves of it. In the Instagram story, one version of 5 is IGTV, a bet that flopped and was pulled — while the app itself kept standing.
 
@@ -66,7 +66,7 @@ Then the things that aren’t dark: the gold of the five cups, two of them uprig
 
 ## By astrology: Mars in Scorpio {#astrology}
 
-In the Golden Dawn tradition, the Five of Cups is the first decan of Scorpio, ruled by Mars, Scorpio’s traditional ruler; its title is the Lord of Loss in Pleasure. [Scorpio](/library/astrology/scorpio/) says *I desire*: intensity, emotional attachment, a tendency to withdraw when it hurts. Mars is how you act and fight. Together: a feeling that runs deep, and energy that should go outwards turned inwards — fighting the loss instead of walking away from it.
+In the Golden Dawn tradition, the Five of Cups is the first decan of Scorpio, ruled by Mars, Scorpio’s traditional ruler. [Scorpio](/library/astrology/scorpio/) says *I desire*: intensity, emotional attachment, a tendency to withdraw when it hurts. Mars is the fighter in a chart. Together: a feeling that runs deep, and energy that should go outwards turned inwards — fighting the loss instead of walking away from it.
 
 Optional: the number and the colours have already said this.
 
@@ -82,7 +82,7 @@ Next to the [Six of Cups](/library/tarot-cards/six-of-cups/), the next card in t
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Five of Cups next to the [Six of Swords](/library/tarot-cards/six-of-swords/). Lenses first. Five then six: the trial, then the movement after it. Water then Air: a feeling, then a decision. Colours: the grey sky and the black cloak, then a small boat crossing pale water towards a calmer shore.
+As a practice case, the Five of Cups lands next to the [Six of Swords](/library/tarot-cards/six-of-swords/). Five then six: the trial, then the movement after it. Water then Air: grief, then the decision to move. Colours: the grey sky and the black cloak, then a small boat crossing pale water towards a calmer shore.
 
 The sentence I’d say out loud, gently: “You’ve lost something that mattered to you, and you’ve started — slowly — to move away from it. You’re not over it, and you don’t have to be yet.”
 

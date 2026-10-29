@@ -50,7 +50,7 @@ Il ne bouge pas. Pas de cheval, pas de route, personne d’autre ; le désert es
 
 ## Par le nombre : le Valet {#nombre}
 
-**le Valet — l’élève, le message, l’élan neuf.** Le [Valet](/fr/bibliotheque/numerologie/valet/) est jeune sans être un enfant : il tient déjà l’outil de sa famille, et le regarde comme une chose qu’il ne sait pas encore utiliser. Son conseil : rester élève. Le Valet qui se croit Roi rate sa leçon ; celui qui accepte de ne pas savoir devient Cavalier.
+Le [Valet](/fr/bibliotheque/numerologie/valet/) est l’élève de sa famille, et ici la leçon, c’est le bâton lui-même, tenu comme un cadeau qu’on n’a pas encore ouvert. Son conseil : rester élève.
 
 Chez les Bâtons, ce que le Valet étudie, c’est une envie. Pensez à la première semaine d’un nouveau loisir : la guitare achetée sur un coup de tête, le cours de poterie réservé, le carnet de croquis encore vierge. L’enthousiasme est réel, le savoir-faire pas encore là, et les deux vont très bien ensemble. Le Valet est aussi un messager : celui-ci peut être une nouvelle qui allume quelque chose — une invitation, une idée qu’on vous lance.
 
@@ -78,7 +78,7 @@ Renversé, l’étincelle ne prend pas : un feu de paille, des idées lancées p
 
 ## Exemple de tirage {#exemple}
 
-Imaginons qu’une personne ne vous dise rien, et que le Valet de Bâtons sorte à côté du [Quatre de Coupes](/fr/bibliotheque/cartes-tarot/quatre-de-coupes/). Les clés de lecture d’abord : le Valet puis 4 — l’élève, puis une stabilité qui peut tourner à l’immobilité ; le Feu puis l’Eau — une envie, puis une humeur ; un personnage jaune vif, puis un jeune homme assis sous un arbre, bras croisés, qui ignore la coupe qu’une main lui tend depuis un nuage.
+Dans un tirage d’entraînement, le Valet de Bâtons sort à côté du [Quatre de Coupes](/fr/bibliotheque/cartes-tarot/quatre-de-coupes/). Le Valet puis 4 : l’élève, puis une stabilité qui peut tourner à l’immobilité. Le Feu puis l’Eau : une envie, puis une humeur. Un personnage jaune vif qui lève les yeux vers son bâton, puis un boudeur sous un arbre qui refuse de regarder la coupe qu’on lui tend.
 
 À voix haute, cela pourrait donner : « Quelque chose de neuf essaie d’attirer votre attention, et une partie de vous reste assise, les bras croisés. L’envie est là ; vous ne l’avez pas encore laissée entrer. »
 

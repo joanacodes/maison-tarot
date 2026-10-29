@@ -50,9 +50,9 @@ He has the high ground and he’s alone. **The Seven of Wands is the person who 
 
 ## By number: seven {#number}
 
-**seven — doubt, assessment, patience.** [Seven](/library/numerology/number-7/) is reflection before action, patience, negotiation. Odd for a man in a fight — until you look at his position. He isn’t charging; he’s measuring where the next wand will come from. The 7 here is the assessment you make under pressure: what’s worth defending, and what isn’t.
+[Seven](/library/numerology/number-7/) is reflection before action, patience, negotiation. Odd for a man in a fight — until you look at his position. He isn’t charging; he’s measuring where the next wand will come from. The 7 here is the assessment you make under pressure: what’s worth defending, and what isn’t.
 
-In the Instagram story, 7 is Facebook turning the app into an advertising platform: neither triumph nor fall, the negotiating table where you choose what the thing becomes. My advice for a 7: everything is temporary, and your situation, good or bad, will change. Worth telling the man on the hill. The siege won’t last forever, and he doesn’t have to win every round.
+In the Instagram story, 7 is Facebook turning the app into an advertising platform — a stage of negotiation, much like this standoff. My advice for a 7: everything is temporary, and your situation, good or bad, will change. Worth telling the man on the hill. The siege won’t last forever, and he doesn’t have to win every round.
 
 ## By element: Fire {#element}
 
@@ -64,11 +64,11 @@ It can also burn itself out. Someone who fights everything — every comment, ev
 
 The [green](/library/tarot-colours/green/) of his tunic and of the ground says growth and life: something has grown here, and it’s worth protecting. The yellow sleeves add will and pride. The orange of his legs is heat and drive — and, on its flip side, dryness, the risk of running out.
 
-And the light blue sky has no storm in it. The pressure doesn’t come from above; it comes from below, from the people around him.
+The pale blue sky is calm: the pressure doesn’t come from above but from below, from the people around him.
 
 ## By astrology: Mars in Leo {#astrology}
 
-In the Golden Dawn tradition, the Seven of Wands is Mars in Leo, the third decan of the sign, titled Lord of Valour. [Mars](/library/astrology/mars/) is how you act and how you fight; [Leo](/library/astrology/leo/) is “I will”, pride, the wish to be seen. Together: courage with an audience — the fight you won’t back down from because people are watching, and because it’s yours.
+In the Golden Dawn tradition, the Seven of Wands is Mars in Leo, the third decan of the sign. [Mars](/library/astrology/mars/) is how you act and how you fight; [Leo](/library/astrology/leo/) is the sign of pride. Together: courage with an audience — the fight you won’t back down from because people are watching, and because it’s yours.
 
 It adds one useful question: valour, or pride? Mars in Leo can be both. Keep the lens if it speaks to you; the drawing says most of it already.
 
@@ -84,8 +84,8 @@ Next to the [Nine of Wands](/library/tarot-cards/nine-of-wands/), the siege has 
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Seven of Wands next to the Five of Pentacles. Lenses first. Number: seven, then five — patience under pressure, then the trial, making do with what’s left. Element: Fire, then Earth — conviction, then material reality and the body. Colours: green hill and blue sky, then snow, night, two figures passing a single lit window.
+Without anyone in front of you, think through the Seven of Wands followed by the Five of Pentacles. Number: seven, then five — patience under pressure, then the trial, making do with what’s left. Element: Fire, then Earth — conviction, then material reality and the body. Colours: green hill and blue sky, then snow, night, two figures passing a single lit window.
 
 The sentence I’d say out loud: “You’ve been holding a position on your own for a while, and it’s tiring you more than you let people see. The help you need is closer than you think — you may already be walking past it.”
 
-Then I’d ask whether it lands and, if it does, who that help might be. If it doesn’t, it’s a miss, and I don’t dress it up. To watch this done with strangers and cards drawn at random, come to one of the free [events](/events/).
+Then I’d ask whether they feel alone on that hill and, if they do, who that help might be. If they don’t, it’s a miss, and I don’t dress it up. To watch this done with strangers and cards drawn at random, come to one of the free [events](/events/).

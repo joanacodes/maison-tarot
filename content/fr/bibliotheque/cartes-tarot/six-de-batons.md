@@ -51,9 +51,9 @@ Le ciel est d’un bleu clair, tout avance dans le même sens, et le cavalier do
 
 ## Par le nombre : six {#nombre}
 
-**six — l’harmonie retrouvée, l’échange.** [Six](/fr/bibliotheque/numerologie/chiffre-6/), c’est le 3 exalté : la machine ne fait pas que tourner, elle accélère. La réussite, le triomphe, et enfin la possibilité de se reposer. L’harmonie retrouvée : après la mêlée du Cinq, le groupe s’est mis d’accord sur quelqu’un. L’échange : on lui donne la reconnaissance, il donne aux autres une victoire à fêter.
+[Six](/fr/bibliotheque/numerologie/chiffre-6/), c’est le 3 exalté : la machine ne fait pas que tourner, elle accélère. La réussite, le triomphe, et enfin la possibilité de se reposer. L’harmonie retrouvée : après la mêlée du Cinq, le groupe s’est mis d’accord sur quelqu’un. L’échange : on lui donne la reconnaissance, il donne aux autres une victoire à fêter.
 
-Dans l’histoire d’Instagram, le 6, c’est Facebook qui décide d’investir : ce qui menaçait l’entreprise devient ce qui la propulse. Mon conseil devant un 6 : restez calme et humble quand les résultats affluent. Le cavalier porte une couronne et en brandit une autre — beaucoup de laurier pour un seul homme. Le 6 monte à la tête, et la grosse tête fait les erreurs du 7.
+Dans l’histoire d’Instagram, le 6, c’est Facebook qui décide d’investir : l’entreprise est portée en avant, comme ce cavalier. Il porte une couronne et en brandit une autre — beaucoup de laurier pour un seul homme. C’est pourquoi le conseil du 6 pèse tant sur cette carte : restez calme et humble quand les résultats affluent, parce que des louanges aussi lourdes peuvent tourner la tête avant le prochain combat.
 
 ## Par l’élément : Feu {#element}
 
@@ -69,7 +69,7 @@ Le cheval blanc ajoute la paix — une victoire propre, sans sang versé. La tun
 
 ## Par l’astrologie : Jupiter en Lion {#astrologie}
 
-Dans la tradition Golden Dawn, le Six de Bâtons correspond à Jupiter en Lion, deuxième décan du signe, avec le titre de « Seigneur de la Victoire » (Lord of Victory). [Jupiter](/fr/bibliotheque/astrologie/jupiter/), c’est l’expansion, la confiance, la générosité — et l’excès. Le [Lion](/fr/bibliotheque/astrologie/lion/), c’est le jeu, le défi, la fierté, l’envie d’être vu. Ensemble, c’est le dessin : une grande victoire, en public.
+Dans la tradition Golden Dawn, le Six de Bâtons correspond à Jupiter en Lion, deuxième décan du signe. [Jupiter](/fr/bibliotheque/astrologie/jupiter/), c’est l’expansion, la confiance, la générosité — et l’excès, comme cette seconde couronne. Ajoutez le [Lion](/fr/bibliotheque/astrologie/lion/), le « je veux » du zodiaque, et vous avez le dessin : une grande victoire, en public.
 
 Gardez la clé si elle vous parle. Elle ajoute un avertissement : Jupiter est la planète du « ça va aller », et le Lion adore le public. Si l’astrologie n’est pas votre truc, les deux couronnes l’ont déjà dit.
 
@@ -85,7 +85,7 @@ Renversé, le cortège ne vient pas. Le travail est fait et personne ne le remar
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Six de Bâtons à côté du Quatre de Coupes. Les clés de lecture d’abord. Le nombre : six, puis quatre — la réussite, puis une stabilité qui peut tourner à l’ennui. L’élément : le Feu, puis l’Eau — la reconnaissance publique, puis le ressenti intime. Les couleurs : le vert, le rouge et le bleu du cortège, puis un jeune homme sous un arbre, bras croisés, qui ignore la coupe qu’une main lui tend depuis un nuage.
+Que feriez-vous du Six de Bâtons à côté du Quatre de Coupes ? Prenez-le comme un exercice. Le nombre : six, puis quatre — la réussite, puis une stabilité qui peut tourner à l’ennui. L’élément : le Feu, puis l’Eau — la reconnaissance publique, puis le ressenti intime. Les couleurs : le vert, le rouge et le bleu du cortège, puis un jeune homme sous un arbre, bras croisés, qui ignore la coupe qu’une main lui tend depuis un nuage.
 
 La phrase que je dirais à voix haute : « Vous avez connu une réussite récemment, et les gens l’ont remarquée. Mais à l’intérieur, ce n’est pas ce que vous imaginiez — quelque chose vous laisse à plat, et vous passez peut-être à côté d’une nouvelle proposition à cause de ça. »
 

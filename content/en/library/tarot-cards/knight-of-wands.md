@@ -49,9 +49,9 @@ Now notice the direction. The horse isn’t galloping forward; it’s rearing on
 
 ## By number: the Knight {#number}
 
-**the Knight — action, the quest, excess.** The [Knight](/library/numerology/knight/) is the element in motion, what the house does when it acts, and every Knight’s horse tells you how. The Wands horse rears; of the four, it’s the most impatient. The rank’s advice could have been written for this card: act, yes; charge, no. Check the direction before the speed.
+The [Knight](/library/numerology/knight/) is Fire in motion here, and his horse rears: of the four Knights’ horses, it’s the most impatient. The rank’s advice could have been written for this card: act, yes; charge, no.
 
-You have probably met this Knight. The friend who books the flight before checking the dates, hands in their notice on Friday and starts a business on Monday. Brilliant energy — and the risk sits in the same place as the quality, because a Knight’s excess is always his strength pushed one step too far.
+You have probably met this Knight. The friend who books the flight before checking the dates, hands in their notice on Friday and starts a business on Monday. Brilliant energy — and the risk sits in the same place as the quality: the speed that gets him going is the speed that throws him.
 
 ## By element: Fire {#element}
 
@@ -77,7 +77,7 @@ Next to the [Knight of Pentacles](/library/tarot-cards/knight-of-pentacles/), yo
 
 ## A reading, as an example {#example}
 
-Imagine someone who has told you nothing draws the Knight of Wands beside the [Seven of Pentacles](/library/tarot-cards/seven-of-pentacles/). Lenses first: the Knight then 7 — action, then patience and analysis before acting; Fire then Earth — speed, then slow growth; red and orange flames, then a man leaning on his tool, looking at a bush heavy with coins.
+A hypothetical draw for this page: the Knight of Wands on his rearing horse, then the [Seven of Pentacles](/library/tarot-cards/seven-of-pentacles/). The Knight then 7 — action, then patience and analysis before acting; Fire then Earth — speed, then slow growth; red and orange flames, then a man leaning on his tool, looking at a bush heavy with coins.
 
 The sentence: “You want to leave now, and something you planted needs one more season. Leaving is possible; leaving before the harvest is the part to think about.”
 

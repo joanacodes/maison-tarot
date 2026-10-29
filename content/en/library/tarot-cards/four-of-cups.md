@@ -48,9 +48,9 @@ He doesn’t look at it. His eyes are lowered, towards the three cups or towards
 
 ## By number: four {#number}
 
-**four — foundations, stability.** Four is 2 doubled: after the bond and the first result, it holds. It’s the fruit of your work, the structure, the home. In the Four of Cups that stability is emotional — life is set up, the relationships are known, the cups are lined up. And it has gone a little flat.
+Four is 2 doubled: after the bond and the first result, it holds. It’s the fruit of your work, the structure, the home. In the Four of Cups that stability is emotional — life is set up, the relationships are known, the cups are lined up. And it has gone a little flat.
 
-In my notes, the minus of [number four](/library/numerology/number-4/) is carrying on when you should stop, stubbornness, and having your head in the clouds — here, funnily enough, it’s the cloud that’s trying to reach him. The advice of 4 is the whole lesson of this card: stay flexible, stay open to possibilities you hadn’t planned. In the Instagram story, 4 is the big success that comes fast, and the moment a company starts believing it will never need to change.
+In my notes, the minus of [number four](/library/numerology/number-4/) is carrying on when you should stop, stubbornness, and having your head in the clouds — here, funnily enough, it’s the cloud that’s trying to reach him. The advice of 4 is the whole lesson of this card: stay flexible, stay open to possibilities you hadn’t planned. In the Instagram story, 4 is a quick, big success; the man under the tree is the company that has stopped looking for what’s next.
 
 ## By element: Water {#element}
 
@@ -66,9 +66,9 @@ And the [grey](/library/tarot-colours/grey/) of the little cloud the hand comes 
 
 ## By astrology: Moon in Cancer {#astrology}
 
-In the Golden Dawn tradition, the Four of Cups is the third decan of Cancer, ruled by the Moon, and its title is the Lord of Blended Pleasure — pleasure mixed with something less pleasant. The [Moon](/library/astrology/moon/) says what you feel when nobody’s watching. Cancer, the sign the Moon rules, is *I feel*: the protector who absorbs and contains. Together: someone turned inward, feeling a lot and showing little, guarding what they have rather than reaching for more.
+In the Golden Dawn tradition, the Four of Cups is the third decan of Cancer, ruled by the Moon. The [Moon](/library/astrology/moon/) here is the mood he keeps to himself under the tree. Cancer, the sign the Moon rules, is *I feel*: the protector who absorbs and contains. Together: someone turned inward, feeling a lot and showing little, guarding what they have rather than reaching for more.
 
-Optional: the number has already said the same thing.
+Optional: the folded arms have already said it.
 
 ## In a reading {#reading}
 
@@ -82,7 +82,7 @@ Next to the [Eight of Cups](/library/tarot-cards/eight-of-cups/), the boredom be
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Four of Cups next to the [Ace of Wands](/library/tarot-cards/ace-of-wands/). Lenses first. Four then one: a settled situation, then a new start. Water then Fire: calm emotions, then a burst of drive. Colours: the blue and green of the Four, then a living wand putting out green leaves — held out by a hand from a cloud as well, the same gesture in Fire.
+Consider the Four of Cups followed by the [Ace of Wands](/library/tarot-cards/ace-of-wands/), in a spread that exists only on this page. Four then one: a settled situation, then a new start. Water then Fire: calm emotions, then a burst of drive. Colours: the blue and green of the Four, then a living wand putting out green leaves — held out by a hand from a cloud as well, the same gesture in Fire.
 
 The sentence I’d say out loud: “Your life is set up and you’re a bit bored in it, and something new has been offered to you — an idea, a proposal, an invitation — that you put aside without really looking.”
 

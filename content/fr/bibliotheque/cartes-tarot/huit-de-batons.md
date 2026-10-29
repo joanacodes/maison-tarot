@@ -51,7 +51,7 @@ Cherchez un personnage : il n’y en a pas. Aucune main ne lance les bâtons, pe
 
 ## Par le nombre : huit {#nombre}
 
-**huit — le mouvement, la maîtrise, le fruit du travail.** Le [8](/fr/bibliotheque/numerologie/chiffre-8/), c’est le 4 exalté : ce qui a été bâti est devenu un empire, assez solide pour tourner sans qu’on pousse. Chez les Bâtons, cette solidité devient de l’élan : le travail est fait, maintenant il voyage. Dans l’histoire d’Instagram, le 8, c’est l’application rachetée par Facebook et devenue une infrastructure — plus personne ne se demande si ça marche.
+Le [8](/fr/bibliotheque/numerologie/chiffre-8/), c’est le 4 exalté : ce qui a été bâti est devenu un empire, assez solide pour tourner sans qu’on pousse. Chez les Bâtons, cette solidité devient de l’élan : le travail est fait, maintenant il voyage. Dans l’histoire d’Instagram, le 8, c’est l’application rachetée par Facebook et devenue une infrastructure — plus personne ne se demande si ça marche.
 
 Ma note sur cette carte tient en une question d’angle : les bâtons volent, ou ils tombent. Le verre à moitié plein ou à moitié vide. Le dessin permet les deux, et la personne en face de vous aussi. « Tout arrive en même temps » peut être la meilleure nouvelle de l’année comme la semaine la plus stressante. Le 8 dit que c’est en route ; il ne dit pas de quel côté ça retombe.
 
@@ -71,7 +71,7 @@ Puis les petites pousses [vertes](/fr/bibliotheque/couleurs-tarot/vert/), sur ch
 
 ## Par l’astrologie : Mercure en Sagittaire {#astrologie}
 
-Dans la tradition Golden Dawn, le Huit de Bâtons correspond à Mercure en Sagittaire, et l’Ordre l’appelait le Seigneur de la Rapidité (*Lord of Swiftness*). [Mercure](/fr/bibliotheque/astrologie/mercure/), c’est la vitesse de l’esprit : les mots, les messages, la façon d’apprendre. Le Sagittaire, c’est le voyageur, dont le verbe est « je vois, j’essaie ». Ensemble : des nouvelles qui viennent de loin, un message envoyé avant d’être tout à fait réfléchi, une décision prise en plein vol.
+Dans la tradition Golden Dawn, le Huit de Bâtons correspond à Mercure en Sagittaire. [Mercure](/fr/bibliotheque/astrologie/mercure/), c’est la vitesse de l’esprit : les mots, les messages, la façon d’apprendre. Le Sagittaire, c’est le voyageur, dont le verbe est « je vois, j’essaie ». Ensemble : des nouvelles qui viennent de loin, un message envoyé avant d’être tout à fait réfléchi, une décision prise en plein vol.
 
 Si l’astrologie est une de vos clés de lecture, gardez cette couche de messages et de distance ; sinon, le nombre, l’élément et les couleurs disent déjà la vitesse.
 
@@ -87,7 +87,7 @@ Renversé, les bâtons restent suspendus : la réponse qui ne vient pas, le coli
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : une personne s’assied, ne vous dit rien, et tire le Huit de Bâtons à côté du [Sept de Coupes](/fr/bibliotheque/cartes-tarot/sept-de-coupes/). Les clés de lecture d’abord : 8 puis 7 — l’élan, puis la réflexion et l’embarras du choix ; le Feu puis l’Eau — la vitesse, puis le ressenti ; un ciel bleu dégagé, puis une silhouette sombre face à sept coupes flottant dans un nuage.
+Un tirage imaginaire, tout en vitesse et en rêveries : le Huit de Bâtons, puis le [Sept de Coupes](/fr/bibliotheque/cartes-tarot/sept-de-coupes/). Les nombres vont de 8 à 7 — l’élan, puis la réflexion et l’embarras du choix ; les éléments, du Feu à l’Eau — la vitesse, puis le ressenti ; les couleurs, d’un ciel bleu dégagé à une silhouette sombre face à sept coupes flottant dans un nuage.
 
 Ce que vous pourriez dire à voix haute : « Beaucoup de choses arrivent en même temps, et vous avez plus d’options que vous n’arrivez à en ressentir. Avant de choisir, laissez atterrir. »
 

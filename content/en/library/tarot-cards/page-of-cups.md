@@ -47,13 +47,13 @@ No one else, no boat, no letter in his hand. The sea is at his back; what holds 
 
 ## By number: the Page {#number}
 
-**the Page — the student, the message, the new impulse.** [The Page](/library/numerology/page/) is young without being a child: he already holds his suit’s tool and looks at it like something he doesn’t yet know how to use. In the tradition he’s also the messenger — the news, the invitation. The Page of Cups gets the strangest message of the four: a fish, where you expected a drink.
+[The Page](/library/numerology/page/) is the student and the messenger of the suit, and the Page of Cups gets the strangest message of the four: a fish, where you expected a drink.
 
 The Page’s advice is to stay a student, and this one does it well. He isn’t frightened by the fish, and he isn’t pretending he understands it. He’s looking. His energy is [feminine in my sense of the word](/library/feminine-masculine-energies/) — imagination, softness, what happens inside — which has nothing to do with being a girl or a boy.
 
 ## By element: Water {#element}
 
-The suit is [Water](/library/four-elements/water-element/): emotions, relationships, hidden strengths. The rank adds a second element, and for every Page it’s [Earth](/library/four-elements/earth-element/): the concrete, the first form a thing takes. Earth of Water is a feeling becoming tangible — a crush you can finally name, a sensitivity that turns into a first drawing, a sudden tenderness for someone you’d never noticed.
+To the suit’s [Water](/library/four-elements/water-element/), the rank adds a second element, and for every Page it’s [Earth](/library/four-elements/earth-element/): the concrete, the first form a thing takes. Earth of Water is a feeling becoming tangible — a crush you can finally name, a sensitivity that turns into a first drawing, a sudden tenderness for someone you’d never noticed.
 
 Moving water is strong emotion. Here the big water stays behind him, in the sea, and the feeling he faces is small enough to hold in one hand. That’s the Page’s scale: not the ocean, the first fish.
 
@@ -65,7 +65,7 @@ Moving water is strong emotion. Here the big water stays behind him, in the sea,
 
 Upright: a surprise of the heart. News about feelings, an invitation, a crush, a creative idea that arrives sideways. Sometimes a young person; more often, the start of learning something about your own emotions. **The fish is allowed to be strange; the Page’s job is to look at it before deciding what it means.**
 
-Reversed, the same surprise is slowed down or overdone. Slowed: the feeling stays in the cup — the message never sent, the tenderness never said, the poem kept in a drawer. Overdone: every fish becomes a sign, and you live in the cup rather than on the shore, reading meaning into each small coincidence.
+Reversed, the surprise either stays bottled up or takes over. Slowed: the feeling stays in the cup — the message never sent, the tenderness never said, the poem kept in a drawer. Overdone: every fish becomes a sign, and you live in the cup rather than on the shore, reading meaning into each small coincidence.
 
 Next to the [Ace of Cups](/library/tarot-cards/ace-of-cups/), a feeling begins and gets its first messenger. Next to the [Two of Cups](/library/tarot-cards/two-of-cups/), the message is meant for someone: an exchange, a first date. Next to the [Seven of Cups](/library/tarot-cards/seven-of-cups/), imagination runs ahead — too many cups, too many visions — and it’s worth checking what’s real. Telling a person from a state is the hard part of every court card; [court cards explained](/blog/court-cards-explained/) goes through it.
 
@@ -73,6 +73,6 @@ Next to the [Ace of Cups](/library/tarot-cards/ace-of-cups/), a feeling begins a
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Page of Cups next to the Three of Pentacles. Lenses first. A Page then a three: learning, then something that works with others. Earth of Water, then Earth: a feeling taking shape, then concrete work. A boy alone on the shore, then a craftsman showing his work to two people.
+Let’s practise on the Page of Cups, fish and all, with the Three of Pentacles at its side. A Page then a three: learning, then something that works with others. Earth of Water, then Earth: a feeling taking shape, then concrete work. A boy alone on the shore, then a craftsman showing his work to two people.
 
 Out loud, you might say: “Something you feel is turning into something you make — maybe a creative side you didn’t take seriously, and now other people are looking at it.” Then ask whether that means anything to the person. If it doesn’t, it’s a miss; write it down as one, without a third card to rescue it.

@@ -49,9 +49,9 @@ Regardez de plus près : personne n’est blessé, personne n’est à terre, au
 
 ## Par le nombre : cinq {#nombre}
 
-**cinq — le conflit, l’épreuve, faire avec ce qui reste.** [Cinq](/fr/bibliotheque/numerologie/chiffre-5/), c’est l’épreuve : le conflit, l’essai, ne pas avoir peur d’échouer ni de déplaire, faire plusieurs choses à la fois, accepter ses erreurs. Dans mes notes, le Cinq de Bâtons est mon exemple d’un 5 où les gens ont l’air de se battre mais ne sont pas coordonnés — c’est tout le dessin.
+[Cinq](/fr/bibliotheque/numerologie/chiffre-5/), c’est l’épreuve : le conflit, l’essai, ne pas avoir peur d’échouer ni de déplaire, faire plusieurs choses à la fois, accepter ses erreurs. Dans mes notes, le Cinq de Bâtons est mon exemple d’un 5 où les gens ont l’air de se battre mais ne sont pas coordonnés — c’est tout le dessin.
 
-Dans l’histoire d’Instagram, le 5, c’est Facebook qui arrive pour racheter, ou IGTV qui fait un flop : dans les deux cas, on découvre ce qui tient. Mon conseil devant un 5 : évitez les conflits inutiles, soyez honnête avec vous-même et avec la situation. Son revers, c’est le déni — se dire qu’il n’y a pas de problème pendant que cinq bâtons s’entrechoquent au-dessus de votre tête.
+Dans l’histoire d’Instagram, le 5, c’est Facebook qui arrive pour racheter, ou IGTV qui fait un flop : dans les deux cas, on découvre de quoi l’entreprise est faite. Mon conseil devant un 5 : évitez les conflits inutiles, soyez honnête avec vous-même et avec la situation. Son revers, c’est le déni — se dire qu’il n’y a pas de problème pendant que cinq bâtons s’entrechoquent au-dessus de votre tête.
 
 ## Par l’élément : Feu {#element}
 
@@ -67,7 +67,7 @@ Au sol, un patchwork de tenues qui ne vont jamais ensemble, comme cinq personnes
 
 ## Par l’astrologie : Saturne en Lion {#astrologie}
 
-Dans la tradition Golden Dawn, le Cinq de Bâtons correspond à Saturne en Lion, premier décan du signe, avec le titre de « Seigneur de la Lutte » (Lord of Strife). Le [Lion](/fr/bibliotheque/astrologie/lion/), c’est le jeu, le défi, la fierté, l’envie d’être vu. [Saturne](/fr/bibliotheque/astrologie/saturne/), c’est la leçon la plus dure — les limites, la structure, le travail qui prend des années. Saturne en Lion, c’est la fierté qui rencontre une limite : tout le monde veut briller, et il n’y a pas de place pour cinq vedettes sur une seule scène.
+Dans la tradition Golden Dawn, le Cinq de Bâtons correspond à Saturne en Lion, premier décan du signe. Le [Lion](/fr/bibliotheque/astrologie/lion/), c’est le jeu, le défi, la fierté, l’envie d’être vu. [Saturne](/fr/bibliotheque/astrologie/saturne/), c’est la leçon la plus dure — les limites, la structure, le travail qui prend des années. Saturne en Lion, c’est la fierté qui rencontre une limite : tout le monde veut briller, et il n’y a pas de place pour cinq vedettes sur une seule scène.
 
 Une clé facultative, et utile ici : elle transforme la mêlée en leçon. L’épreuve n’est pas de savoir qui gagne, mais d’apprendre à partager la scène.
 
@@ -83,8 +83,8 @@ Renversé, le conflit passe sous la table ou déborde. Soit tout le monde évite
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Cinq de Bâtons à côté de l’As d’Épées. Les clés de lecture d’abord. Le nombre : cinq, puis un — l’épreuve, puis un nouveau départ. L’élément : le Feu, puis l’Air — l’énergie, puis la décision ; des quatre éléments, l’Air est celui qui tranche le mieux, là où le Feu est trop impulsif. Les couleurs : le patchwork du Cinq, puis le gris uni de l’As d’Épées, une main blanche, une lame droite.
+Inventons un tirage où toute la bousculade du Cinq de Bâtons se retrouve à côté de l’As d’Épées. Le nombre : cinq, puis un — l’épreuve, puis un nouveau départ. L’élément : le Feu, puis l’Air — l’énergie, puis la décision ; des quatre éléments, l’Air est celui qui tranche le mieux, là où le Feu est trop impulsif. Les couleurs : le patchwork du Cinq, puis le gris uni de l’As d’Épées, une main blanche, une lame droite.
 
 La phrase que je dirais à voix haute : « Il y a beaucoup de bruit autour de vous — une équipe, un groupe, une famille — et chacun pousse son idée. Ce qui manque, ce n’est pas l’énergie. C’est une décision claire, dite à voix haute, et vous êtes peut-être la personne la mieux placée pour la prendre. »
 
-Ensuite je demande si ça parle et, si oui, de quel groupe il s’agit. Si non, c’est un raté, et je le note. Lire deux cartes ainsi, clé par clé, c’est par là que commence [l’apprentissage du tarot](/fr/apprendre-le-tarot/) ici.
+Ensuite, je vérifie qu’un groupe aussi bruyant existe bien dans la vie de la personne, et qui en fait partie. Si non, c’est un raté, et je le note. Lire deux cartes ainsi, clé par clé, c’est par là que commence [l’apprentissage du tarot](/fr/apprendre-le-tarot/) ici.

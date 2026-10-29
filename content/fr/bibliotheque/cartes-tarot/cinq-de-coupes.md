@@ -49,7 +49,7 @@ Plus loin, une rivière traverse toute la carte. Sur l’autre rive, un petit ch
 
 ## Par le nombre : cinq {#nombre}
 
-**cinq — le conflit, l’épreuve, faire avec ce qui reste.** Le 5, c’est l’épreuve au milieu du cycle, le moment où l’on découvre ce qui tient. Dans mes notes, le Cinq de Coupes est la carte la plus lourde de toutes : perdre, une émotion sombre, être seul avec ses problèmes. Je le dis franchement parce que c’est ce que montre le dessin, et le dire franchement est plus doux que de faire semblant.
+Le 5, c’est l’épreuve au milieu du cycle, et cette carte montre ce qui n’a pas tenu : trois coupes renversées. Dans mes notes, le Cinq de Coupes est la carte la plus lourde de toutes : perdre, une émotion sombre, être seul avec ses problèmes. Je le dis franchement parce que c’est ce que montre le dessin, et le dire franchement est plus doux que de faire semblant.
 
 Le [chiffre 5](/fr/bibliotheque/numerologie/chiffre-5/) a aussi un revers, et ici c’est la clé : le déni. Pas le déni de la perte — la silhouette sait très bien. L’autre déni : ne pas voir ce qui est encore là. Le conseil du 5, c’est d’être honnête avec soi-même et avec la situation, ses deux moitiés comprises. Dans l’histoire d’Instagram, une version du 5, c’est IGTV, un pari raté puis retiré — pendant que l’application, elle, restait debout.
 
@@ -67,7 +67,7 @@ Puis ce qui n’est pas sombre : l’or des cinq coupes, dont deux debout ; le b
 
 ## Par l’astrologie : Mars en Scorpion {#astrologie}
 
-Dans la tradition Golden Dawn, le Cinq de Coupes correspond au premier décan du Scorpion, gouverné par Mars, maître traditionnel du Scorpion ; son titre est « Seigneur de la Perte dans le Plaisir ». Le [Scorpion](/fr/bibliotheque/astrologie/scorpion/) dit *Je désire* : l’intensité, l’attachement affectif, la tendance à s’isoler quand ça fait mal. Mars, c’est la façon d’agir et de se battre. Ensemble : un sentiment qui va très loin, et une énergie qui devrait aller vers l’extérieur et se retourne vers l’intérieur — se battre avec la perte au lieu de s’en éloigner.
+Dans la tradition Golden Dawn, le Cinq de Coupes correspond au premier décan du Scorpion, gouverné par Mars, maître traditionnel du Scorpion. Le [Scorpion](/fr/bibliotheque/astrologie/scorpion/) dit *Je désire* : l’intensité, l’attachement affectif, la tendance à s’isoler quand ça fait mal. Mars, c’est la part combative d’un thème. Ensemble : un sentiment qui va très loin, et une énergie qui devrait aller vers l’extérieur et se retourne vers l’intérieur — se battre avec la perte au lieu de s’en éloigner.
 
 Facultatif : le nombre et les couleurs l’ont déjà dit.
 
@@ -83,7 +83,7 @@ Quand la carte sort renversée, la silhouette commence à se retourner. Soit ell
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Cinq de Coupes à côté du [Six d’Épées](/fr/bibliotheque/cartes-tarot/six-de-epees/). Les clés de lecture d’abord. Cinq puis six : l’épreuve, puis le mouvement qui la suit. L’Eau puis l’Air : un sentiment, puis une décision. Les couleurs : le ciel gris et le manteau noir, puis une petite barque qui traverse une eau pâle vers une rive plus calme.
+Exemple d’entraînement, et délicat : le Cinq de Coupes tombe à côté du [Six d’Épées](/fr/bibliotheque/cartes-tarot/six-de-epees/). Cinq puis six : l’épreuve, puis le mouvement qui la suit. L’Eau puis l’Air : le chagrin, puis la décision de bouger. Les couleurs : le ciel gris et le manteau noir, puis une petite barque qui traverse une eau pâle vers une rive plus calme.
 
 La phrase que je dirais à voix haute, doucement : « Vous avez perdu quelque chose qui comptait pour vous, et vous avez commencé — lentement — à vous en éloigner. Ce n’est pas fini, et ça n’a pas besoin de l’être encore. »
 

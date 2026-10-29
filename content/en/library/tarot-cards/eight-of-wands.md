@@ -50,7 +50,7 @@ Look for a person and you won’t find one: no hand throws the wands, no one wai
 
 ## By number: eight {#number}
 
-**eight — movement, mastery, the fruit of work.** [Eight](/library/numerology/number-8/) is 4 exalted: what was built has become an empire, solid enough to run without anyone pushing. In the Wands, that solidity turns into momentum: the work is done, and now it travels. In the Instagram story, 8 is the moment the app, bought by Facebook, became infrastructure — nobody asked any more whether it would work.
+[Eight](/library/numerology/number-8/) is 4 exalted: what was built has become an empire, solid enough to run without anyone pushing. In the Wands, that solidity turns into momentum: the work is done, and now it travels. In the Instagram story, 8 is the moment the app, bought by Facebook, became infrastructure — nobody asked any more whether it would work.
 
 My own note on this card is about angle: the wands are flying, or they’re falling — glass half full or half empty. The drawing allows both, and so will the person in front of you. “Everything is happening at once” can be the best news of the year or the most stressful week of it. The 8 says the thing is under way; it doesn’t say which way it lands.
 
@@ -70,7 +70,7 @@ Then the small [green](/library/tarot-colours/green/) shoots, repeated on every 
 
 ## By astrology: Mercury in Sagittarius {#astrology}
 
-In the Golden Dawn tradition, the Eight of Wands is Mercury in Sagittarius, and the Order called it the Lord of Swiftness. [Mercury](/library/astrology/mercury/) is the speed of the mind: words, messages, the way you learn. Sagittarius is the traveller, whose verb is “I see, I try”. Together they give news from far away, a message sent before it’s fully thought through, a decision taken in mid-flight.
+In the Golden Dawn tradition, the Eight of Wands is Mercury in Sagittarius. [Mercury](/library/astrology/mercury/) is the speed of the mind: words, messages, the way you learn. Sagittarius is the traveller, whose verb is “I see, I try”. Together they give news from far away, a message sent before it’s fully thought through, a decision taken in mid-flight.
 
 If astrology is one of your lenses, keep this layer of messages and distance; if not, number, element and colours already say speed.
 
@@ -86,7 +86,7 @@ Next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/), the same n
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Eight of Wands next to the [Seven of Cups](/library/tarot-cards/seven-of-cups/). Lenses first: 8 then 7 — momentum, then reflection and too many choices; Fire then Water — speed, then feeling; a clear blue sky, then a dark silhouette facing seven cups floating in a cloud.
+An imaginary spread, built on speed and daydreams: the Eight of Wands, then the [Seven of Cups](/library/tarot-cards/seven-of-cups/). The numbers run 8 then 7 — momentum, then reflection and too many choices; the elements, Fire then Water — speed, then feeling; the colours, a clear blue sky, then a dark silhouette facing seven cups floating in a cloud.
 
 What you might say out loud: “A lot is arriving at once, and you have more options than you can feel your way through. Before you choose, let things land.”
 

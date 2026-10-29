@@ -62,7 +62,7 @@ Moving water means strong emotions, and this water is all movement. That’s why
 
 ## By colours {#colours}
 
-The cup in the centre is yellow-gold. In my grid, [yellow](/library/tarot-colours/yellow/) is joy, optimism, the inner child. The [blue](/library/tarot-colours/blue/) of the drops and the pond is emotion, water, purifying, vitality. The white of the dove: purity, peace, something nobody has touched yet. Green and pink at the bottom, on the lily pond: growth, life starting again.
+The cup in the centre is yellow-gold, and [yellow](/library/tarot-colours/yellow/) in my grid means joy and optimism. The [blue](/library/tarot-colours/blue/) of the drops and the pond is emotion, water, purifying, vitality. The white of the dove: purity, peace, something nobody has touched yet. Green and pink at the bottom, on the lily pond: growth, life starting again.
 
 Then the grey of the background: neutrality, no particular will. Before you’ve read a word about the card, you already have a joy not yet aimed anywhere, clean water, and an empty space waiting for someone.
 

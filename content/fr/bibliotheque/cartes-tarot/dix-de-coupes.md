@@ -49,13 +49,13 @@ Un détail fait toute la carte. Les enfants ne regardent pas l’arc-en-ciel : W
 
 ## Par le nombre : dix {#nombre}
 
-**dix — la fin du cycle, la transition.** [Le 10 ferme le cycle](/fr/bibliotheque/numerologie/chiffre-10/) : le couloir entre deux pièces, la liberté, le souffle qu’on reprend. Pour les Coupes, le cycle affectif se ferme de la plus belle façon possible. Ma note sur cette carte est courte : le bonheur, la famille — et l’envie d’en fonder une.
+[Le 10 ferme le cycle](/fr/bibliotheque/numerologie/chiffre-10/) et ouvre sur la liberté, sur le souffle qu’on reprend. Pour les Coupes, le cycle affectif se ferme de la plus belle façon possible. Ma note sur cette carte est courte : le bonheur, la famille — et l’envie d’en fonder une.
 
-Mais chaque dix a son revers : il peut durer peu, et il vous dit de commencer autre chose. Le dessin le dit aussi, puisqu’un arc-en-ciel est ce qu’il y a de plus fugace dans le ciel. Ce n’est pas une raison de se méfier du moment ; c’est une raison de le vivre pendant qu’il est là. Dans l’histoire d’Instagram qui me sert pour le cycle, le 10 est le moment où la plateforme est devenue tout autre chose : un cycle se ferme, un autre commence avec son propre 1.
+Mais chaque dix a son revers : il peut durer peu, et il vous dit de commencer autre chose. Le dessin le dit aussi, puisqu’un arc-en-ciel est ce qu’il y a de plus fugace dans le ciel. Ce n’est pas une raison de se méfier du moment ; c’est une raison de le vivre pendant qu’il est là. Dans l’histoire d’Instagram qui me sert pour le cycle, le 10, c’est la plateforme qu’on ne reconnaît plus : un cycle se ferme, un autre commence avec son propre 1.
 
 ## Par l’élément : Eau {#element}
 
-L’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) est ici calme et en mouvement à la fois : la rivière coule sans se presser à travers la campagne. C’est l’émotion posée qui continue de circuler — ni stagnante, ni en tempête. L’archétype de l’Eau à son meilleur : le lieu chaleureux où l’on se sent chez soi.
+L’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) est ici calme et en mouvement à la fois : la rivière coule sans se presser à travers la campagne. C’est l’émotion posée qui continue de circuler — ni stagnante, ni en tempête, celle qui fait d’une maison un chez-soi.
 
 L’eau s’infiltre aussi, lentement, dans les fondations. Ici, elle s’est infiltrée dans le bon sens. Ce qu’on entretient pendant des années — la patience, les excuses, les déjeuners du dimanche, les disputes réglées avant d’aller dormir — finit par tenir la maison debout.
 
@@ -65,7 +65,7 @@ Un ciel [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) : l’émotion, la vitalit
 
 ## Par l’astrologie : Mars en Poissons {#astrologie}
 
-Dans le système de la Golden Dawn, le Dix de Coupes correspond à [Mars](/fr/bibliotheque/astrologie/mars/) dans le dernier décan des Poissons, sous le titre « Lord of Perfected Success » : le seigneur du succès accompli. Mars, c’est l’action, le désir, la façon de prendre ce qu’on veut. Dans les Poissons, cette énergie sert à protéger et à pourvoir plutôt qu’à se battre. L’association est étrange pour une carte aussi paisible, et elle dit quelque chose d’utile : ce bonheur-là a été travaillé.
+Dans le système de la Golden Dawn, le Dix de Coupes correspond à [Mars](/fr/bibliotheque/astrologie/mars/) dans le dernier décan des Poissons. Mars, c’est l’action, le désir, la façon de prendre ce qu’on veut. Dans les Poissons, cette énergie sert à protéger et à pourvoir plutôt qu’à se battre. L’association est étrange pour une carte aussi paisible, et elle dit quelque chose d’utile : ce bonheur-là a été travaillé.
 
 Gardez-la si l’astrologie vous parle ; laissez-la sinon. Le nombre et l’élément suffisent.
 
@@ -73,7 +73,7 @@ Gardez-la si l’astrologie vous parle ; laissez-la sinon. Le nombre et l’él�
 
 À l’endroit : un foyer qui fonctionne. Une famille — de naissance, de cœur, d’amis — bien ensemble. Une relation devenue maisonnée. Une paix qui arrive après des années d’efforts. **La carte vous demande de remarquer le bonheur qui est déjà dans la maison, pas seulement celui qui est dans le ciel.**
 
-Renversé, le même bonheur est freiné ou excessif. Freiné : la photo de famille entretenue pour les autres, tout le monde sourit à l’arc-en-ciel et personne ne se parle. Excessif : attendre l’image parfaite — la maison, le couple, les enfants, tout en même temps — avant de s’autoriser à profiter de ce qui est.
+Renversé, le bonheur est soit mis en scène, soit remis à plus tard. Freiné : la photo de famille entretenue pour les autres, tout le monde sourit à l’arc-en-ciel et personne ne se parle. Excessif : attendre l’image parfaite — la maison, le couple, les enfants, tout en même temps — avant de s’autoriser à profiter de ce qui est.
 
 Il arrive qu’on espère voir cette carte annoncer une grossesse ou un mariage. C’est un espoir tendre, et je comprends qu’on l’apporte aux cartes. Mais [la grossesse fait partie des sujets sur lesquels je ne lis pas](/fr/avertissements/#refus) : une carte n’est pas le bon outil pour porter cette question, un médecin l’est. Ce que le Dix de Coupes peut accueillir, c’est le souhait lui-même, et le foyer que vous construisez déjà.
 
@@ -83,6 +83,6 @@ Il arrive qu’on espère voir cette carte annoncer une grossesse ou un mariage.
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Dix de Coupes à côté du Six d’Épées. Les clés de lecture d’abord. Dix puis six : un cycle qui se ferme bien, puis une étape où les choses tournent et où l’on peut souffler. L’Eau puis l’Air : un foyer plein d’émotion, puis une décision. Une famille sous un arc-en-ciel, puis une barque qui traverse vers des eaux plus calmes.
+Faites un essai à blanc avec le Dix de Coupes et le Six d’Épées, comme si quelqu’un venait de les tirer. Dix puis six : un cycle qui se ferme bien, puis une étape où les choses tournent et où l’on peut souffler. L’Eau puis l’Air : un foyer plein d’émotion, puis une décision. Une famille sous un arc-en-ciel, puis une barque qui traverse vers des eaux plus calmes.
 
-À voix haute, cela pourrait donner : « Il y a un foyer qui marche, et vous êtes sur le point de le déplacer — une traversée, un nouveau lieu, des eaux plus calmes devant. » Puis demandez si ça parle. Si la personne dit non, c’est un raté : notez-le. Pas de carte supplémentaire pour le sauver.
+À voix haute, cela pourrait donner : « Il y a un foyer qui marche, et vous êtes sur le point de le déplacer — une traversée, un nouveau lieu, des eaux plus calmes devant. » Puis demandez si un déménagement est dans l’air. Si la personne dit non, c’est un raté : notez-le. Pas de carte supplémentaire pour le sauver.

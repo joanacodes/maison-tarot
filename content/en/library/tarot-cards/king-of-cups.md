@@ -47,7 +47,7 @@ He doesn’t look at his cup. He looks out, at the world he governs with it. The
 
 ## By number: the King {#number}
 
-**the King — outer mastery, decision.** Every [King](/library/numerology/king/) sits on a throne and looks at the world he manages rather than at his tool. The King’s advice: decide, then answer for it. At his best he protects what he governs; at his less good, he governs for himself. The question to ask any King is always: for whom?
+[The King](/library/numerology/king/) is the rank that decides and answers for it. The question for him is the one I ask of every King — for whom? — and here it means: whose calm is he keeping?
 
 For the King of Cups, what he governs is emotion — his own, and the climate of the room. He decides how much of the sea gets in. His energy is masculine in [the sense I give it](/library/feminine-masculine-energies/): acting, showing yourself, deciding fast, whoever you are.
 
@@ -55,7 +55,7 @@ For the King of Cups, what he governs is emotion — his own, and the climate of
 
 The suit is [Water](/library/four-elements/water-element/), and the King’s rank adds [Fire](/library/four-elements/fire-element/): impulse, drive, the energy that acts. Fire of Water is emotion turned into decision — a feeling that doesn’t stay a feeling but becomes a choice, a gesture, a way of leading.
 
-Fire and Water don’t mix easily, and the drawing shows the effort: a stone throne on a moving sea. Water seeps, and a neglected emotion eats at the foundations. This King’s mastery is real, but the sea is still there. Calm on top can be wisdom — or a lid.
+Fire and Water don’t mix easily, and the drawing shows the effort: a stone throne on a moving sea. Water seeps, too: what he holds down doesn’t disappear. This King’s mastery is real, but the sea is still there. Calm on top can be wisdom — or a lid.
 
 ## By colours {#colours}
 
@@ -65,7 +65,7 @@ The [blue](/library/tarot-colours/blue/) of the sea surrounds everything: emotio
 
 Upright: emotional maturity at work. A person — a mentor, a parent, a partner, a manager — who listens, keeps their head when others lose theirs, and decides with their heart without being run by it. Or the moment to be that person yourself. **The King of Cups doesn’t feel less than anyone else; he has decided what to do with what he feels.**
 
-Reversed, the same calm is slowed down or overdone. Slowed: the calm becomes a lid, feelings held under for so long that nobody around him knows what he feels — sometimes not even him. Overdone: control — using his understanding of others to steer them, or the storm finally reaching the throne.
+Reversed, the calm goes too far one way or the other. Slowed: the calm becomes a lid, feelings held under for so long that nobody around him knows what he feels — sometimes not even him. Overdone: control — using his understanding of others to steer them, or the storm finally reaching the throne.
 
 In love, this is the steady partner, the one who doesn’t need to win the argument; there’s a whole article on [the King of Cups in love](/blog/king-of-cups-tarot-love/). Next to the [King of Swords](/library/tarot-cards/king-of-swords/), two Kings side by side: heart and head competing for the same throne. Next to [Temperance](/library/tarot-cards/temperance/), the calm is the real thing — feeling mixed with patience. Next to the [Ten of Cups](/library/tarot-cards/ten-of-cups/), he’s the one holding the household steady.
 
@@ -73,6 +73,6 @@ In love, this is the steady partner, the one who doesn’t need to win the argum
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the King of Cups next to the Five of Wands. Lenses first. A King then a five: decision, then conflict. Fire of Water, then Fire: emotion turned into action, then five people waving wands who seem to fight without coordinating.
+For the sake of the exercise, the King of Cups comes out next to the Five of Wands. A King then a five: decision, then conflict. Fire of Water, then Fire: emotion turned into action, then five people waving wands who seem to fight without coordinating.
 
-Out loud, you might say: “There’s a lot of noise around you — people pulling in different directions — and you’re the one expected to stay calm and settle it. You can. The question is whether anyone is asking how you feel.” Then ask whether that lands. If the person says no, call it a miss, write it down, and leave it there.
+Out loud, you might say: “There’s a lot of noise around you — people pulling in different directions — and you’re the one expected to stay calm and settle it. You can. The question is whether anyone is asking how you feel.” Then ask whether they are the calm one in that noise. If the person says no, call it a miss, write it down, and leave it there.

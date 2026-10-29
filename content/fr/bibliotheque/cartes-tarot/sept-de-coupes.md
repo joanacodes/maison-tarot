@@ -49,7 +49,7 @@ Les coupes ne reposent sur rien. Elles flottent sur les nuages, dans un ciel ble
 
 ## Par le nombre : sept {#nombre}
 
-**sept — le doute, l’évaluation, la patience.** Le 7, c’est l’analyse : on regarde ce qu’on a avant d’agir. C’est la négociation, la réflexion, la récolte qu’on pèse. Dans mes notes, le Sept de Coupes, c’est l’indécision — trop de choix —, autrement dit ce à quoi ressemble le 7 quand l’analyse ne s’arrête jamais.
+Le 7, c’est l’analyse : on regarde ce qu’on a avant d’agir. C’est la négociation, la réflexion, la récolte qu’on pèse. Dans mes notes, le Sept de Coupes, c’est l’indécision — trop de choix —, autrement dit ce à quoi ressemble le 7 quand l’analyse ne s’arrête jamais.
 
 Le conseil du [chiffre 7](/fr/bibliotheque/numerologie/chiffre-7/) est celui dont cette carte a le plus besoin : tout est temporaire, et la situation dans laquelle vous êtes bougera quoi que vous fassiez. Ne pas choisir, c’est aussi choisir ; c’est laisser le temps décider à votre place. Dans l’histoire d’Instagram, le 7, c’est la table de négociation où l’entreprise a décidé de ce qu’elle deviendrait — une plateforme publicitaire, parmi toutes les versions possibles d’elle-même.
 
@@ -67,9 +67,9 @@ Puis les petites touches vives : la lueur rouge autour de la silhouette voilée 
 
 ## Par l’astrologie : Vénus en Scorpion {#astrologie}
 
-Dans la tradition Golden Dawn, le Sept de Coupes correspond au troisième décan du Scorpion, gouverné par Vénus, et son titre dit tout : « Seigneur du Succès illusoire ». [Vénus](/fr/bibliotheque/astrologie/venus/), c’est ce qu’on aime et comment on aime ; le [Scorpion](/fr/bibliotheque/astrologie/scorpion/), c’est *Je désire*. Ensemble : le désir au carré — vouloir, vouloir encore, et tout s’imaginer avant que quoi que ce soit n’arrive.
+Dans la tradition Golden Dawn, le Sept de Coupes correspond au troisième décan du Scorpion, gouverné par Vénus. [Vénus](/fr/bibliotheque/astrologie/venus/), c’est l’envie et l’attirance ; le [Scorpion](/fr/bibliotheque/astrologie/scorpion/), c’est *Je désire*. Ensemble : le désir au carré — vouloir, vouloir encore, et tout s’imaginer avant que quoi que ce soit n’arrive.
 
-Si l’astrologie fait partie de vos clés de lecture, elle colle de près à la carte. Sinon, le dessin le dit déjà.
+Si l’astrologie fait partie de vos clés de lecture, elle colle de près à la carte. Sinon, la silhouette sombre face à ses visions l’a déjà dit.
 
 ## En lecture {#lecture}
 
@@ -83,7 +83,7 @@ Renversé, le Sept de Coupes voit les nuages se dissiper. Soit la personne voit 
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Sept de Coupes à côté de l’[As d’Épées](/fr/bibliotheque/cartes-tarot/as-de-epees/). Les clés de lecture d’abord. Sept puis un : une longue évaluation, puis un début. L’Eau puis l’Air : des envies, puis une décision nette. Les couleurs : les coupes sur leurs nuages gris, puis une seule épée dressée, tenue par une main sortie d’un nuage, une couronne à la pointe.
+Disposez en pensée le Sept de Coupes, puis l’[As d’Épées](/fr/bibliotheque/cartes-tarot/as-de-epees/). Sept puis un : une longue évaluation, puis un début. L’Eau puis l’Air : des envies, puis une décision nette. Les couleurs : les coupes sur leurs nuages gris, puis une seule épée dressée, tenue par une main sortie d’un nuage, une couronne à la pointe.
 
 La phrase que je dirais à voix haute : « Vous gardez trop d’options en tête depuis un moment, et l’une d’elles va bientôt s’imposer. Il faudra laisser partir les autres. »
 

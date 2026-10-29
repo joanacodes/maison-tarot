@@ -50,7 +50,7 @@ Il ne nous regarde pas, ni son bâton, ni la salamandre. Il regarde au-delà du 
 
 ## Par le nombre : le Roi {#nombre}
 
-**le Roi — la maîtrise extérieure, la décision.** Le [Roi](/fr/bibliotheque/numerologie/roi/) ne regarde pas son outil ; il regarde le monde qu’il gouverne avec. Les salamandres de son trône nomment sa famille : le Feu. Décider, puis rendre des comptes : voilà ce que demande le rang. Et la question à poser à chaque Roi est toujours la même — pour qui ?
+Le [Roi](/fr/bibliotheque/numerologie/roi/) de cette famille tient un bâton vivant et regarde au-delà, vers ce qu’il mène ; les salamandres de son trône nomment sa famille : le Feu. Décider, puis rendre des comptes, dit le rang — et avec le Feu, rendre des comptes, c’est dire à qui profite toute cette chaleur.
 
 Suivez le bâton à travers la cour. Le Valet l’a découvert, le Cavalier a chargé avec, la Reine l’a tenu avec chaleur ; le Roi s’en sert pour mener. Pensez à un chef de cuisine qui mène sa brigade de trente personnes avec la recette qu’il avait en tête au départ. Qu’on le suive parce que la vision est bonne, ou parce que personne d’autre n’a droit à la parole : c’est exactement ce que cette carte demande.
 
@@ -78,8 +78,8 @@ Renversé, le feu devient tyrannique : l’impatience, les colères, le chef qui
 
 ## Exemple de tirage {#exemple}
 
-Mettons que la personne en face de vous n’ait rien dit, et que le Roi de Bâtons sorte avant le [Deux d’Épées](/fr/bibliotheque/cartes-tarot/deux-de-epees/). Les clés de lecture d’abord : le Roi puis 2 — la décision, puis un choix entre deux qui ne se fait pas ; le Feu puis l’Air — la vitesse, puis un esprit verrouillé ; des flammes orange, puis une femme aux yeux bandés, deux épées croisées, devant la mer, sous un croissant de lune.
+Un cas fabriqué pour l’enseignement : le Roi de Bâtons sort, puis le [Deux d’Épées](/fr/bibliotheque/cartes-tarot/deux-de-epees/). Le Roi puis 2 — la décision, puis un choix entre deux qui ne se fait pas ; le Feu puis l’Air — la vitesse, puis un esprit verrouillé ; des flammes orange, puis une femme aux yeux bandés, deux épées croisées, devant la mer, sous un croissant de lune.
 
 Une phrase à essayer : « Vous décidez vite partout dans votre vie, sauf sur un sujet, et sur celui-là, c’est vous qui avez noué le bandeau. »
 
-Puis vous vérifiez : « Y a-t-il une décision que vous laissez en suspens ? » Si la personne acquiesce, laissez-la la nommer ou non ; vous n’avez pas besoin de savoir. Si rien ne sonne juste, c’est un raté, et il va dans le carnet comme tel.
+Puis vous vérifiez : « Y a-t-il une décision que vous laissez en suspens ? » Si la personne acquiesce, laissez-la la nommer ou non ; vous n’avez pas besoin de savoir. Si rien ne sonne juste, c’est un raté, et il compte comme tel.

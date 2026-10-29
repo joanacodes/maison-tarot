@@ -48,7 +48,7 @@ The cups don’t stand on anything. They float on clouds against a pale blue sky
 
 ## By number: seven {#number}
 
-**seven — doubt, assessment, patience.** Seven is analysis: you look at what you have before you act. It’s negotiation, reflection, the harvest weighed. In my notes, the Seven of Cups is indecision — too many choices — which is what seven looks like when the analysis never ends.
+Seven is analysis: you look at what you have before you act. It’s negotiation, reflection, the harvest weighed. In my notes, the Seven of Cups is indecision — too many choices — which is what seven looks like when the analysis never ends.
 
 The advice of [number seven](/library/numerology/number-7/) is the one this card needs most: everything is temporary, and the situation you’re in will move whatever you do. Not choosing is also a choice; it lets time choose for you. In the Instagram story, 7 is the negotiating table where the company decided what it would become — an advertising platform, among all the possible versions of itself.
 
@@ -66,9 +66,9 @@ Then the little bursts: the red glow around the veiled figure (passion, impulse)
 
 ## By astrology: Venus in Scorpio {#astrology}
 
-In the Golden Dawn tradition, the Seven of Cups is the third decan of Scorpio, ruled by Venus, and its title says it all: the Lord of Illusionary Success. [Venus](/library/astrology/venus/) is what you love and how you love; [Scorpio](/library/astrology/scorpio/) is *I desire*. Together: desire doubled — wanting, and wanting more, and imagining it all before anything has happened.
+In the Golden Dawn tradition, the Seven of Cups is the third decan of Scorpio, ruled by Venus. [Venus](/library/astrology/venus/) is wanting and being drawn; [Scorpio](/library/astrology/scorpio/) is *I desire*. Together: desire doubled — wanting, and wanting more, and imagining it all before anything has happened.
 
-If astrology is one of your lenses, it fits the card closely. If not, the drawing already says it.
+If astrology is one of your lenses, it fits the card closely. If not, the dark figure facing his visions has said it already.
 
 ## In a reading {#reading}
 
@@ -82,7 +82,7 @@ Next to the [Two of Swords](/library/tarot-cards/two-of-swords/), the indecision
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Seven of Cups next to the [Ace of Swords](/library/tarot-cards/ace-of-swords/). Lenses first. Seven then one: a long assessment, then a beginning. Water then Air: wishes, then a clear decision. Colours: the cups on grey clouds, then a single upright sword, held by a hand from a cloud, with a crown at its tip.
+Lay out, in your head, the Seven of Cups and then the [Ace of Swords](/library/tarot-cards/ace-of-swords/). Seven then one: a long assessment, then a beginning. Water then Air: wishes, then a clear decision. Colours: the cups on grey clouds, then a single upright sword, held by a hand from a cloud, with a crown at its tip.
 
 The sentence I’d say out loud: “You’ve been holding too many options in your head for a while, and one of them is about to become obvious. You’ll have to let the others go.”
 

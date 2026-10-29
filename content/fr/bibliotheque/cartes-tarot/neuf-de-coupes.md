@@ -49,7 +49,7 @@ Regardez où sont les coupes : derrière lui, pas dans ses mains. Il ne boit dan
 
 ## Par le nombre : neuf {#nombre}
 
-**neuf — l’aboutissement, presque au bout.** [Le 9, c’est la dernière ligne droite](/fr/bibliotheque/numerologie/chiffre-9/) : la fin d’une étape, les derniers efforts, l’introspection. Ma note pour tous les neuf tient en quelques mots — « presque arrivé, continuez d’avancer » —, et cette carte est assise pile sur cette ligne. L’homme a ses neuf coupes, et il s’est assis. Un neuf qui s’installe trop confortablement oublie qu’il y a un dix.
+[Le 9, c’est la dernière ligne droite](/fr/bibliotheque/numerologie/chiffre-9/) : la fin d’une étape, les derniers efforts, l’introspection. Ma note pour tous les neuf tient en quelques mots — « presque arrivé, continuez d’avancer » —, et cette carte est assise pile sur cette ligne. L’homme a ses neuf coupes, et il s’est assis. Un neuf qui s’installe trop confortablement oublie qu’il y a un dix.
 
 Comparez avec le Neuf de Pentacles, que je lis comme le fait de profiter de ce qui vient, avec de la gratitude pour tout ce qu’on a. Même nombre, autre posture : la femme dans son jardin s’occupe de ce qui pousse ; l’homme sur son banc est tourné vers ceux qui le regardent. Le risque de ce neuf porte un nom : se reposer sur ses lauriers.
 
@@ -57,7 +57,7 @@ Comparez avec le Neuf de Pentacles, que je lis comme le fait de profiter de ce q
 
 L’[Eau](/fr/bibliotheque/quatre-elements/element-eau/), ce sont les émotions, et ici on les a versées dans des coupes, puis rangées sur une étagère. Pas de rivière, pas de mer, pas de vague : ce qui bougeait s’est arrêté. L’eau calme, c’est l’émotion posée. Ça peut être la paix, un contentement mérité après une longue route. Ça peut aussi être un sentiment bien rangé à sa place, là où il n’éclabousse personne… et n’atteint personne non plus.
 
-L’archétype de l’Eau, c’est la personne chaleureuse chez qui l’on se sent chez soi. Dans ses bons jours, cet homme est cette personne : il a de quoi, et les coupes sont pour la tablée. Dans ses moins bons, elles sont pour la vitrine, et le banc n’a qu’une place.
+Dans ses bons jours, cet homme incarne l’archétype de l’Eau, la personne chaleureuse chez qui l’on se sent chez soi : il a de quoi, et les coupes sont pour la tablée. Dans ses moins bons, elles sont pour la vitrine, et le banc n’a qu’une place.
 
 ## Par les couleurs {#couleurs}
 
@@ -65,15 +65,15 @@ Le [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) remplit tout le fond : la joi
 
 ## Par l’astrologie : Jupiter en Poissons {#astrologie}
 
-Dans le système de la Golden Dawn, le Neuf de Coupes correspond à [Jupiter](/fr/bibliotheque/astrologie/jupiter/) dans le deuxième décan des Poissons, sous le titre « Lord of Material Happiness » : le seigneur du bonheur matériel. Jupiter, c’est l’expansion, la générosité, la chance — ou ce qu’on prend pour de la chance — et l’excès. Dans les Poissons, signe d’eau et de croyance, il devient le sentiment que tout finira bien, et l’abondance qui va avec.
+Dans le système de la Golden Dawn, le Neuf de Coupes correspond à [Jupiter](/fr/bibliotheque/astrologie/jupiter/) dans le deuxième décan des Poissons. Jupiter, c’est l’expansion, la générosité, la chance — ou ce qu’on prend pour de la chance — et l’excès. Dans les Poissons, signe d’eau et de croyance, il devient le sentiment que tout finira bien, et l’abondance qui va avec.
 
-Je me méfie de Jupiter plus que des autres placements, parce que c’est celui qui fait dire « ça va aller ». Gardez-le ici comme un rappel plutôt qu’une promesse : rester humble quand tout coule. Si l’[astrologie](/fr/bibliotheque/astrologie/) n’est pas votre clé de lecture, laissez-la de côté ; le nombre a déjà dit la même chose.
+Je me méfie de Jupiter plus que des autres placements, parce que c’est celui qui fait dire « ça va aller ». Gardez-le ici comme un rappel plutôt qu’une promesse : rester humble quand tout coule. Si l’[astrologie](/fr/bibliotheque/astrologie/) n’est pas votre clé de lecture, passez : l’homme sur son banc en a dit autant.
 
 ## En lecture {#lecture}
 
 À l’endroit : le contentement. Quelque chose qu’on attendait est arrivé — une relation qui sonne juste, un chez-soi, une reconnaissance, un plaisir qu’on s’est enfin autorisé. Beaucoup de lecteurs l’appellent la carte des vœux et s’arrêtent là ; je lis aussi la posture. **Obtenir ce qu’on voulait ouvre une question au lieu d’en fermer une : et maintenant ?**
 
-Renversé, la même satisfaction est freinée ou excessive. Freinée : le vœu s’est réalisé et ne vous remplit pas comme vous l’imaginiez — neuf coupes, et toujours soif. Excessive : le contentement tourne à l’autosatisfaction, à l’envie de montrer plutôt que de profiter, ou à une installation si confortable que la dernière ligne droite n’est jamais parcourue.
+Renversé, la satisfaction tourne mal, de deux façons. Freinée : le vœu s’est réalisé et ne vous remplit pas comme vous l’imaginiez — neuf coupes, et toujours soif. Excessive : le contentement tourne à l’autosatisfaction, à l’envie de montrer plutôt que de profiter, ou à une installation si confortable que la dernière ligne droite n’est jamais parcourue.
 
 À côté du [Dix de Coupes](/fr/bibliotheque/cartes-tarot/dix-de-coupes/), l’étagère s’ouvre : ce que vous gardiez pour vous devient partagé. À côté du [Quatre de Coupes](/fr/bibliotheque/cartes-tarot/quatre-de-coupes/) — un autre homme aux bras croisés —, vous avez tout et n’en voyez rien. À côté du [Soleil](/fr/bibliotheque/cartes-tarot/le-soleil/), la fierté se détend en joie toute simple, celle qu’on n’a pas besoin de montrer. Et si votre tirage se remplit de cette famille, voici [ce que beaucoup de Coupes vous disent](/fr/blog/beaucoup-de-coupes-tirage/).
 
@@ -81,6 +81,6 @@ Renversé, la même satisfaction est freinée ou excessive. Freinée : le vœu s
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Neuf de Coupes à côté du Huit de Pentacles. Les clés de lecture d’abord. Neuf puis huit : presque au bout d’une chose, pendant qu’une autre est bien lancée. L’Eau puis la Terre : un contentement affectif, puis des mains occupées à un métier. Un homme assis, immobile, puis un artisan à son établi.
+Ici, l’exemple est hypothétique, et la personne aussi : le Neuf de Coupes sort à côté du Huit de Pentacles. Neuf puis huit : presque au bout d’une chose, pendant qu’une autre est bien lancée. L’Eau puis la Terre : un contentement affectif, puis des mains occupées à un métier. Un homme assis, immobile, puis un artisan à son établi.
 
-À voix haute, cela pourrait donner : « Vous avez obtenu quelque chose que vous vouliez, et vous avez raison d’en profiter. Mais l’histoire ne s’arrête pas là — une partie de vous travaille à autre chose, patiemment, pièce après pièce. » Puis demandez si ça évoque quelque chose. Si non, dites-le, notez le raté, et laissez le paquet où il est.
+À voix haute, cela pourrait donner : « Vous avez obtenu quelque chose que vous vouliez, et vous avez raison d’en profiter. Mais l’histoire ne s’arrête pas là — une partie de vous travaille à autre chose, patiemment, pièce après pièce. » Puis demandez si la personne s’y retrouve. Si non, dites-le, notez le raté, et laissez le paquet où il est.

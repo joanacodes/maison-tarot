@@ -48,9 +48,9 @@ There are six cups, and each holds a white, star-shaped flower among green leave
 
 ## By number: six {#number}
 
-**six — harmony regained, exchange.** Six is 3 doubled: after the trial of 5, things work again, and faster. In my notes it’s the number of results flowing — and of being allowed to rest, to take holidays. In the Six of Cups that rest has a particular flavour: taking time for yourself, childhood, flowering again, harmony.
+Six is 3 doubled: after the trial of 5, things work again, and faster. In my notes it’s the number of results flowing — and of being allowed to rest, to take holidays. In the Six of Cups that rest has a particular flavour: taking time for yourself, childhood, flowering again, harmony.
 
-That’s why it follows the Five so well: the two cups left standing have become six, full of flowers. The advice of [number six](/library/numerology/number-6/) is to stay calm and humble when things flow; here, it means enjoying the sweetness without trying to live in it for ever. In the Instagram story, 6 is Facebook investing: what threatened the company now carries it.
+That’s why it follows the Five so well: the two cups left standing have become six, full of flowers. The advice of [number six](/library/numerology/number-6/) is to stay calm and humble when things flow; here, it means enjoying the sweetness without trying to live in it for ever. In the Instagram story, 6 is Facebook investing; after the scare of the 5, a gentler stretch begins.
 
 ## By element: Water {#element}
 
@@ -66,7 +66,7 @@ Read the colours before the card: joy, innocence, warmth, and plenty of it. You 
 
 ## By astrology: Sun in Scorpio {#astrology}
 
-In the Golden Dawn tradition, the Six of Cups is the second decan of Scorpio, ruled by the Sun; its title is the Lord of Pleasure. The [Sun](/library/astrology/sun/) is the centre, what you organise your life around. [Scorpio](/library/astrology/scorpio/) is *I desire*, a fixed sign whose staying power goes into emotional attachment. Together: a heart that holds on — to people, places, memories — and finds its centre there.
+In the Golden Dawn tradition, the Six of Cups is the second decan of Scorpio, ruled by the [Sun](/library/astrology/sun/) — the centre of a chart, and here the warm light on the courtyard. [Scorpio](/library/astrology/scorpio/) is *I desire*, a fixed sign whose staying power goes into emotional attachment. Together: a heart that holds on — to people, places, memories — and finds its centre there.
 
 Nice to know, never required: the yellow has already said it.
 
@@ -82,7 +82,7 @@ Next to the [Five of Cups](/library/tarot-cards/five-of-cups/), the card just be
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Six of Cups next to the [Nine of Pentacles](/library/tarot-cards/nine-of-pentacles/). Lenses first. Six then nine: harmony, then the end of a stage, enjoying what has come. Water then Earth: a feeling, then comfort that has been earned. Colours: yellow in both — the stone of the Six, the bright sky of the Nine, where a woman walks alone in her vineyard.
+Read the Six of Cups and the [Nine of Pentacles](/library/tarot-cards/nine-of-pentacles/) together, as if for a stranger. Six then nine: harmony, then the end of a stage, enjoying what has come. Water then Earth: a feeling, then comfort that has been earned. Colours: yellow in both — the stone of the Six, the bright sky of the Nine, where a woman walks alone in her vineyard.
 
 The sentence I’d say out loud: “You’ve worked hard and you’ve earned a pause — something gentle, and for you: a few days somewhere familiar, people you’ve known a long time, time with no goal.”
 

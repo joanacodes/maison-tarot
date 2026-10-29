@@ -49,7 +49,7 @@ He doesn’t look at us, at his wand, or at the salamander. He looks past the ed
 
 ## By number: the King {#number}
 
-**the King — outer mastery, decision.** The [King](/library/numerology/king/) doesn’t look at his tool; he looks at the world he manages with it. The salamanders on his throne name his house, Fire. Decide, then answer for it: that’s what the rank asks. And the question to put to every King is always the same — for whom?
+The [King](/library/numerology/king/) of this suit holds a living wand and looks past it, towards what he leads; the salamanders on his throne name his house, Fire. Decide, then answer for it, the rank says — and with Fire, answering means saying whom all that heat is for.
 
 Follow the wand through the court. The Page discovered it, the Knight charged with it, the Queen held it warmly; the King uses it to lead. Picture a founder who still carries the first idea and now has thirty people following it. Whether they follow because the vision is good, or because no one else gets to speak, is exactly what this card asks.
 
@@ -77,8 +77,8 @@ Next to [the Emperor](/library/tarot-cards/the-emperor/), two authorities with o
 
 ## A reading, as an example {#example}
 
-Suppose the person across the table has said nothing, and the King of Wands comes out before the [Two of Swords](/library/tarot-cards/two-of-swords/). Lenses first: the King then 2 — decision, then a choice between two that isn’t being made; Fire then Air — speed, then a mind locked in place; orange flames, then a blindfolded woman holding two crossed swords by the sea, under a crescent moon.
+A case invented for teaching: the King of Wands comes out, then the [Two of Swords](/library/tarot-cards/two-of-swords/). The King then 2 — decision, then a choice between two that isn’t being made; Fire then Air — speed, then a mind locked in place; orange flames, then a blindfolded woman holding two crossed swords by the sea, under a crescent moon.
 
 A sentence to try: “You decide fast everywhere in your life except on one subject, and on that one you’ve tied the blindfold yourself.”
 
-Then check: “Is there one decision you’ve been leaving open?” If they nod, let them name it or not; you don’t need to know. If none of it rings true, it’s a miss, and it goes in the notebook as one.
+Then check: “Is there one decision you’ve been leaving open?” If they nod, let them name it or not; you don’t need to know. If none of it rings true, that’s a miss, and it counts as one.

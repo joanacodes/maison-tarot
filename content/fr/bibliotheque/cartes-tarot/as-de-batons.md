@@ -55,7 +55,7 @@ Avec cette carte, l’humilité que je demande devant tout 1 — se préparer à
 
 ## Par l’élément : Feu {#element}
 
-Les Bâtons, c’est le [Feu](/fr/bibliotheque/quatre-elements/element-feu/) : la création, la destruction, l’impulsion, l’énergie qui motive. Le Feu forge, réchauffe, éclaire la nuit, et se propage vite quand personne ne le maîtrise. L’As, c’est le Feu avant tout cela — l’étincelle, avant qu’elle ait choisi quoi réchauffer et quoi brûler.
+Les Bâtons, c’est le [Feu](/fr/bibliotheque/quatre-elements/element-feu/) : la création, la destruction, l’impulsion, l’énergie qui motive. L’As, c’est le Feu avant qu’il ait rien forgé ni gagné le moindre terrain — l’étincelle, avant qu’elle ait choisi quoi réchauffer et quoi brûler.
 
 D’où une carte qui parle du désir au sens large : un projet, une vocation, une attirance, parfois la libido tout court. L’adolescent plein de vie qui se croit capable de tout, le matin où il se réveille avec l’idée.
 
@@ -83,8 +83,8 @@ Renversé, la branche reste dans le nuage : le même projet raconté au dîner p
 
 ## Exemple de tirage {#exemple}
 
-Supposons que l’As de Bâtons sorte avec le Sept de Coupes à côté : une seule branche vivante, puis sept coupes posées sur des nuages. Le nombre : un, puis sept — quelque chose commence, puis vient une pause pour peser. L’élément : le Feu, puis l’Eau — un élan, puis la rêverie. Les couleurs : l’orange et le vert, chauds, puis une silhouette sombre face à des coupes posées sur des nuages. Du net au flou.
+Supposons que l’As de Bâtons sorte avec le Sept de Coupes à côté : une seule branche vivante, puis trop de choix. Le nombre : un, puis sept — quelque chose commence, puis vient une pause pour peser. L’élément : le Feu, puis l’Eau — un élan, puis la rêverie. Les couleurs : l’orange et le vert, chauds, puis une silhouette sombre face à des coupes posées sur des nuages. Du net au flou.
 
 La phrase que je dirais à voix haute : « Vous avez une idée qui a très envie de démarrer, et vous savez laquelle. Mais il y en a plusieurs autour, et vous dépensez votre énergie à les regarder toutes au lieu d’en faire pousser une. »
 
-Ensuite je demande si ça parle — pas avant, puisque la personne ne me dit rien tant que je n’ai pas parlé : c’est [la règle du silence](/fr/blog/regle-du-silence-tarot/). Si non, c’est un raté, et je ne le rattrape pas avec une troisième carte. Si oui, la question utile devient : « Laquelle voulez-vous faire pousser en premier ? »
+Ensuite, je vérifie auprès de la personne — pas avant, puisqu’elle ne me dit rien tant que je n’ai pas parlé : c’est [la règle du silence](/fr/blog/regle-du-silence-tarot/). Si non, c’est un raté, et je ne le rattrape pas avec une troisième carte. Si oui, la question utile devient : « Laquelle voulez-vous faire pousser en premier ? »

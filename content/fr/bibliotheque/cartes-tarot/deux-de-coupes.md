@@ -49,9 +49,9 @@ Au-dessus d’eux s’élève un bâton autour duquel s’enroulent deux serpent
 
 ## Par le nombre : deux {#nombre}
 
-**deux — se lier, peser, coopérer.** Le 2, c’est le contrat : deux parties, un lien, et les conditions qui vont avec. Dans le Deux de Coupes, le contrat est affectif. Un amour qui devient réciproque, une amitié qu’on choisit, une association où l’on s’apprécie autant qu’on travaille ensemble.
+Le 2, c’est le contrat, et dans le Deux de Coupes, ce contrat est affectif. Un amour qui devient réciproque, une amitié qu’on choisit, une association où l’on s’apprécie autant qu’on travaille ensemble.
 
-Le conseil du [chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/), dans mes notes : lire le contrat, peser le pour et le contre. En amour, ça manque de romantisme, et pourtant c’est ce que montre la carte — ils se regardent avant de boire. Dans l’histoire d’Instagram, le 2, ce sont les fondateurs qui signent avec leurs premiers investisseurs. Le revers du 2, c’est l’entêtement, l’ego qui attend que l’autre fasse tout le chemin.
+En amour, le conseil du [chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/) — lire le contrat, peser le pour et le contre — manque de romantisme, et pourtant c’est ce que montre la carte : ils se regardent avant de boire. Dans l’histoire d’Instagram, le 2, ce sont les fondateurs qui signent avec leurs premiers investisseurs. Le revers du 2, c’est l’entêtement, l’ego qui attend que l’autre fasse tout le chemin.
 
 ## Par l’élément : Eau {#element}
 
@@ -67,7 +67,7 @@ Lisez les couleurs avant la carte : un sentiment calme, de la joie, de la franch
 
 ## Par l’astrologie : Vénus en Cancer {#astrologie}
 
-Dans la tradition Golden Dawn, le Deux de Coupes correspond au premier décan du Cancer, gouverné par Vénus, et porte le titre de « Seigneur de l’Amour ». Vénus dit ce qu’on aime et comment on aime. Le [Cancer](/fr/bibliotheque/astrologie/cancer/) dit *Je sens* : la nourrice, la personne qui rend une maison vivable. Ensemble : un amour qui veut un foyer, du soin donné et reçu, l’attachement plus que la conquête.
+Dans la tradition Golden Dawn, le Deux de Coupes correspond au premier décan du Cancer, gouverné par Vénus. Vénus dit ce qu’on aime et comment on aime. Le [Cancer](/fr/bibliotheque/astrologie/cancer/) dit *Je sens* : la nourrice, la personne qui rend une maison vivable. Ensemble : un amour qui veut un foyer, du soin donné et reçu, l’attachement plus que la conquête.
 
 Facultatif, comme toujours : si l’astrologie ne fait pas partie de vos clés de lecture, le nombre et l’élément ont déjà tout dit.
 
@@ -83,8 +83,8 @@ Renversé, le Deux de Coupes montre des coupes qui ne se rejoignent pas tout à 
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Deux de Coupes à côté du [Huit de Pentacles](/fr/bibliotheque/cartes-tarot/huit-de-pentacles/). Les clés de lecture d’abord. Deux puis huit : un lien, puis la maîtrise et l’effort régulier. L’Eau puis la Terre : un sentiment qui veut devenir concret. Les couleurs : le bleu doux du Deux à côté des pentacles jaunes et des chausses rouges d’un artisan penché sur son établi.
+Posez, pour l’exercice, le Deux de Coupes à côté du [Huit de Pentacles](/fr/bibliotheque/cartes-tarot/huit-de-pentacles/) : personne de réel derrière, seulement la méthode. Deux puis huit : un lien, puis la maîtrise et l’effort régulier. L’Eau puis la Terre : un sentiment qui veut devenir concret. Les couleurs : le bleu doux du Deux à côté des pentacles jaunes et des chausses rouges d’un artisan penché sur son établi.
 
 La phrase que je dirais à voix haute : « Il y a quelqu’un avec qui vous travaillez bien — un collègue, un associé, peut-être un ami — et ce que vous partagez est en train de devenir quelque chose que vous construisez ensemble. » J’ajouterais que ce n’est pas forcément une histoire d’amour, parce que le Deux de Coupes donne envie à tout le monde d’entendre « amour ».
 
-Puis je vérifie : « Est-ce que quelqu’un vous vient en tête ? » Je laisse la personne répondre, sans lui souffler le prénom. Si rien ne correspond, c’est un raté, et il va dans mon carnet comme tel.
+Puis je vérifie : « Est-ce que quelqu’un vous vient en tête ? » Je laisse la personne répondre, sans lui souffler le prénom. Si aucun prénom ne vient, c’est un raté, consigné comme tel.

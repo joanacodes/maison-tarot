@@ -49,15 +49,15 @@ Pas de coupe brisée, pas de coupe renversée, personne pour l’accompagner, pa
 
 ## Par le nombre : huit {#nombre}
 
-**huit — le mouvement, la maîtrise, le fruit du travail.** Le 8, c’est le 4 exalté : [l’empire, la stabilité acquise](/fr/bibliotheque/numerologie/chiffre-8/). D’où le paradoxe : la pile est le fruit du travail, montée avec soin, et l’homme lui tourne le dos. Dans mes notes de numérologie, le Huit de Coupes tient en une ligne : passer à autre chose que ce qu’on fait déjà. Pas échouer — avoir fait, et aller voir ailleurs.
+Le 8, c’est le 4 exalté : [l’empire, la stabilité acquise](/fr/bibliotheque/numerologie/chiffre-8/). D’où le paradoxe : la pile est le fruit du travail, montée avec soin, et l’homme lui tourne le dos. Dans mes notes de numérologie, le Huit de Coupes tient en une ligne : passer à autre chose que ce qu’on fait déjà. Pas échouer — avoir fait, et aller voir ailleurs.
 
 Le 8 est aussi une porte entre le tangible et l’intangible : ici, d’un côté des coupes qu’on peut compter, de l’autre une montagne dans la nuit qui ne promet rien. Dans l’histoire d’Instagram qui me sert à raconter le cycle, le 8 est l’empire, une fois l’application chez Facebook — et c’est, dans la réalité, l’étape où ses deux fondateurs sont partis.
 
 ## Par l’élément : Eau {#element}
 
-Les Coupes sont de l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les émotions, les relations, ce qui nous nourrit de l’intérieur. Ce qu’on quitte ici est un investissement affectif avant d’être un poste ou un lieu — un rôle dans la famille, une amitié entretenue par habitude, une façon d’aimer qui vous allait autrefois.
+L’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) des Coupes, c’est le sentiment : ce qu’on quitte ici est un investissement affectif avant d’être un poste ou un lieu — un rôle dans la famille, une amitié entretenue par habitude, une façon d’aimer qui vous allait autrefois.
 
-Et l’eau s’infiltre. Une émotion négligée pendant des années ronge les fondations comme le salpêtre ronge un mur de cave, sans bruit. Le vide dans la pile dit que quelque chose fuit depuis un moment ; la carte montre le soir où quelqu’un s’en est aperçu.
+Et l’eau s’infiltre. Une émotion négligée pendant des années ronge les fondations, sans bruit. Le vide dans la pile dit que quelque chose fuit depuis un moment ; la carte montre le soir où quelqu’un s’en est aperçu.
 
 ## Par les couleurs {#couleurs}
 
@@ -65,7 +65,7 @@ Le [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) est sur l’homme — la cape
 
 ## Par l’astrologie : Saturne en Poissons {#astrologie}
 
-Dans le système de la Golden Dawn, le Huit de Coupes correspond à [Saturne](/fr/bibliotheque/astrologie/saturne/) dans le premier décan des [Poissons](/fr/bibliotheque/astrologie/poissons/), sous le titre « Lord of Abandoned Success » : le seigneur du succès abandonné. Saturne, c’est la leçon la plus dure, le travail qui prend des années ; les Poissons, c’est l’Eau et la croyance, ce qui bouge sous une surface calme. Ensemble : savoir qu’un chapitre affectif est terminé, même quand tout a l’air d’aller vu de l’extérieur.
+Dans le système de la Golden Dawn, le Huit de Coupes correspond à [Saturne](/fr/bibliotheque/astrologie/saturne/) dans le premier décan des [Poissons](/fr/bibliotheque/astrologie/poissons/). Saturne, ce sont les limites et le temps ; les Poissons, c’est l’Eau et la croyance, ce qui bouge sous une surface calme. Ensemble : savoir qu’un chapitre affectif est terminé, même quand tout a l’air d’aller vu de l’extérieur.
 
 C’est une clé de lecture facultative. Je garde celle-ci, parce que Saturne fait partie des placements qui ont tenu dans 75 à 90 % des cas quand j’ai testé l’astrologie case par case.
 
@@ -73,7 +73,7 @@ C’est une clé de lecture facultative. Je garde celle-ci, parce que Saturne fa
 
 À l’endroit, le Huit de Coupes est un départ qui a mûri. La chose a été construite — une relation, un poste, un rôle, une bande d’amis — et le sentiment est parti sur la pointe des pieds, avant la personne. Ça s’accompagne souvent d’un soulagement et d’un peu de culpabilité, puisque rien n’est cassé. **Quitter ce qui marche encore est permis ; la carte vous demande de savoir pourquoi vous partez.**
 
-Renversé, c’est la même marche, freinée ou excessive. Freinée : vous restez des mois devant les coupes à les recompter, sans parvenir à tourner le dos à ce qui ne vous retient plus. Excessive : vous partez chaque fois que quelque chose se pose, et rien n’a jamais le temps de se remplir. [Mon raccourci pour les cartes renversées](/fr/blog/cartes-inversees-tarot/) fonctionne de la même façon sur tout le jeu.
+Renversé, le Huit montre une marche qui cale ou ne s’arrête plus. Freinée : vous restez des mois devant les coupes à les recompter, sans parvenir à tourner le dos à ce qui ne vous retient plus. Excessive : vous partez chaque fois que quelque chose se pose, et rien n’a jamais le temps de se remplir. [Mon raccourci pour les cartes renversées](/fr/blog/cartes-inversees-tarot/) fonctionne de la même façon sur tout le jeu.
 
 À côté de [l’Ermite](/fr/bibliotheque/cartes-tarot/l-ermite/), la marche devient une retraite : le même bâton, la même obscurité, du temps seul pour réfléchir. À côté du [Six de Coupes](/fr/bibliotheque/cartes-tarot/six-de-coupes/), ce que vous quittez a des racines dans l’enfance. À côté du [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), le deuil et le choix se font face : là-bas, des coupes renversées et quelqu’un qui les pleure ; ici, des coupes pleines et quelqu’un qui s’en va.
 
@@ -81,6 +81,6 @@ Renversé, c’est la même marche, freinée ou excessive. Freinée : vous reste
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Huit de Coupes, puis l’As de Bâtons. Les clés de lecture d’abord. Huit puis un : une étape qui se ferme, un cycle qui s’ouvre. L’Eau puis le Feu : un sentiment arrivé au bout, puis une envie qui n’a pas encore de forme.
+Une expérience de pensée : le Huit de Coupes sort, puis l’As de Bâtons. Huit puis un : une étape qui se ferme, un cycle qui s’ouvre. L’Eau puis le Feu : un sentiment arrivé au bout, puis une envie qui n’a pas encore de forme.
 
-À voix haute, cela pourrait donner : « Vous vous éloignez de quelque chose qui vous a demandé du temps à construire, et pas parce que ça a échoué. Quelque chose de neuf vous attire — un projet plus qu’un sentiment. » Puis on s’arrête, et on demande si ça parle. Si la personne dit non, pas de troisième carte pour rattraper : c’est un raté, et il se note comme tel. À mon décompte, c’est le cas d’environ un tirage sur dix.
+À voix haute, cela pourrait donner : « Vous vous éloignez de quelque chose qui vous a demandé du temps à construire, et pas parce que ça a échoué. Quelque chose de neuf vous attire — un projet plus qu’un sentiment. » Puis on s’arrête, et on demande si ça parle. Si la personne dit non, pas de troisième carte pour rattraper : c’est un raté, et il se note comme tel.

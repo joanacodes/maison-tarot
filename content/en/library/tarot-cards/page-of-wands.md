@@ -49,7 +49,7 @@ He stands still. No horse, no road, no one else; the desert is empty and he isn�
 
 ## By number: the Page {#number}
 
-**the Page — the student, the message, the new impulse.** The [Page](/library/numerology/page/) is young without being a child: they already hold their house’s tool, and look at it as something they don’t yet know how to use. Its advice: stay a student. The Page who thinks they’re a King fails the lesson; the Page who accepts not knowing becomes a Knight.
+The [Page](/library/numerology/page/) is the student of the suit, and here the lesson is the wand itself, held like a gift not yet opened. Its advice: stay a student.
 
 In the Wands, what the Page studies is an urge. Think of the first week of a new hobby: the guitar bought on impulse, the pottery class booked, the sketchbook still clean. The excitement is real, the skill isn’t there yet, and both are fine. Pages are also messengers, so this one can be news that lights something up — an invitation, an idea someone throws your way.
 
@@ -77,7 +77,7 @@ Next to the [Ace of Wands](/library/tarot-cards/ace-of-wands/), it’s the same 
 
 ## A reading, as an example {#example}
 
-Say someone tells you nothing, and the Page of Wands comes out next to the [Four of Cups](/library/tarot-cards/four-of-cups/). Lenses first: the Page then 4 — the student, then stability that can turn into being stuck; Fire then Water — an urge, then a mood; a bright yellow figure, then a young man sitting under a tree, arms crossed, ignoring the cup a hand holds out to him from a cloud.
+In a practice spread, the Page of Wands comes out next to the [Four of Cups](/library/tarot-cards/four-of-cups/). The Page then 4: the student, then stability that can turn into being stuck. Fire then Water: an urge, then a mood. A bright yellow figure looking up at his wand, then a sulking figure under a tree who won’t look at the cup offered to him.
 
 Out loud, it could sound like this: “Something new is trying to get your attention, and part of you is still sitting with its arms crossed. The urge is there; you haven’t let it in yet.”
 

@@ -50,15 +50,15 @@ Elle ne regarde ni le chat ni nous : son regard part sur le côté. **Des tourne
 
 ## Par le nombre : la Reine {#nombre}
 
-**la Reine — la maîtrise intérieure, l’accueil.** La [Reine](/fr/bibliotheque/numerologie/reine/) est assise : elle sait, et n’a pas besoin de le prouver. Chaque Reine tient l’outil de sa famille comme une chose familière, et celle-ci tient le sien sans le serrer, une fleur dans l’autre main. Tenir sans retenir, dit le rang. À son meilleur, elle accueille et laisse passer ; à son pire, elle garde — les gens, l’attention, la pièce — et confond maîtrise et contrôle.
+La [Reine](/fr/bibliotheque/numerologie/reine/) règne de l’intérieur, assise, sans rien avoir à prouver — et celle-ci tient son bâton sans le serrer, un tournesol dans l’autre main. Tenir sans retenir, dit le rang. À son meilleur, sa chaleur attire les gens et les laisse repartir ; à son pire, elle s’accroche à la pièce — l’attention, les gens, le dernier mot — et appelle ça de la maîtrise.
 
 Un exemple de tous les jours : la personne chez qui la soirée finit toujours dans la cuisine. Elle n’a demandé à personne de venir. On vient parce qu’il fait chaud.
 
 ## Par l’élément : Feu {#element}
 
-Sa famille, c’est le [Feu](/fr/bibliotheque/quatre-elements/element-feu/), l’énergie qui crée et qui motive ; sa part à elle, c’est l’Eau. L’[Eau](/fr/bibliotheque/quatre-elements/element-eau/), ce sont les émotions, les relations, les forces cachées. Un feu qui contient de l’eau devient chaleur plutôt que brasier : la chaleur qui rassemble au lieu de brûler.
+Sa famille, c’est le [Feu](/fr/bibliotheque/quatre-elements/element-feu/), l’énergie qui crée et qui motive ; sa part à elle, c’est l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/), l’élément du ressenti et de ce qui est caché. Un feu qui contient de l’eau devient chaleur plutôt que brasier : la chaleur qui rassemble au lieu de brûler.
 
-C’est aussi là que loge son ombre. L’eau négligée s’infiltre lentement, comme l’humidité dans un mur ; une reine de Feu qui ne dit jamais ce qu’elle ressent peut glisser de la chaleur à la jalousie sans que personne ne voie le moment où ça s’est produit.
+C’est aussi là que loge son ombre. L’eau négligée s’infiltre lentement ; une reine de Feu qui ne dit jamais ce qu’elle ressent peut glisser de la chaleur à la jalousie sans que personne ne voie le moment où ça s’est produit.
 
 ## Par les couleurs {#couleurs}
 
@@ -78,7 +78,7 @@ Renversée, la chaleur se retourne ou s’aigrit : la jalousie, le besoin d’ê
 
 ## Exemple de tirage {#exemple}
 
-Une personne, silencieuse comme convenu, retourne la Reine de Bâtons puis le [Deux de Pentacles](/fr/bibliotheque/cartes-tarot/deux-de-pentacles/) — c’est un exemple, pas un souvenir. Les clés de lecture d’abord : la Reine puis 2 — la maîtrise intérieure, puis un équilibre entre deux côtés ; le Feu puis la Terre — la chaleur, puis le jonglage concret ; une femme assise en jaune, puis un jeune homme qui danse avec deux pièces dans un ruban en boucle, des bateaux sur de hautes vagues derrière lui.
+Ici, la Reine de Bâtons sort la première, puis le [Deux de Pentacles](/fr/bibliotheque/cartes-tarot/deux-de-pentacles/) — un tirage d’imagination, pas de mémoire. La Reine puis 2 — la maîtrise intérieure, puis un équilibre entre deux côtés ; le Feu puis la Terre — la chaleur, puis le jonglage concret ; une femme assise en jaune, puis un jeune homme qui danse avec deux pièces dans un ruban en boucle, des bateaux sur de hautes vagues derrière lui.
 
 Dit à voix haute : « Tout le monde vient se réchauffer à votre feu, et vous jonglez avec plus de choses que vous ne le montrez. La reine est assise ; les mains, non. »
 

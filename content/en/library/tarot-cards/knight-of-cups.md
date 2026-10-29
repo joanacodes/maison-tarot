@@ -47,13 +47,13 @@ Waite describes him as “graceful, but not warlike; riding quietly”. He holds
 
 ## By number: the Knight {#number}
 
-**the Knight — action, the quest, excess.** Every [Knight](/library/numerology/knight/) is his element in motion, and the horse says how: Wands rears, Swords charges, Pentacles stands still, Cups walks. This is the gentlest of the four. The Knight’s advice is to act without charging, and to check the direction before the speed — which this one does by nature.
+[The Knight](/library/numerology/knight/) is Water in motion here, and his horse walks: the gentlest pace of the four. The rank asks Knights to act without charging, and this one does it by nature.
 
-A Knight’s excess is his quality pushed too far. Here the quality is romance and imagination. The excess is a life spent on the way to someone, never quite arriving.
+His quality is romance and imagination, and pushed too far it becomes a life spent on the way to someone, never quite arriving.
 
 ## By element: Water {#element}
 
-The suit is [Water](/library/four-elements/water-element/): emotion, relationships. The rank adds [Air](/library/four-elements/air-element/), as it does for every Knight: the mind, communication, ideas. Air of Water is a feeling put into words — a love letter, a declaration, an artistic idea carried towards the people it’s for. That’s the cup held out: an emotion that has become a message.
+Here the [Water](/library/four-elements/water-element/) of emotion and relationships gets a dose of [Air](/library/four-elements/air-element/), as it does in every Knight: the mind, communication, ideas. Air of Water is a feeling put into words — a love letter, a declaration, an artistic idea carried towards the people it’s for. That’s the cup held out: an emotion that has become a message.
 
 Air is also what blows through without staying. The stream ahead is the test of the card: an offer made in words still has to cross the water to arrive.
 
@@ -65,7 +65,7 @@ The horse is [white](/library/tarot-colours/white/): purity, innocence, peace. T
 
 Upright: an offer made with the heart. A proposal, an invitation, a reconciliation, someone arriving with flowers — or a creative project you’re carrying towards the people who’ll receive it. It moves, but at a walk. **The Knight of Cups is sincere when he sets out; the question is whether he crosses the stream.**
 
-Reversed, the same offer is slowed down or overdone. Slowed: the declaration rehearsed and never made, the rider circling the water for months. Overdone: charm for its own sake — promises that feel good to make, a romance with the idea of someone more than with the person.
+Reversed, the offer is either held back or handed out too freely. Slowed: the declaration rehearsed and never made, the rider circling the water for months. Overdone: charm for its own sake — promises that feel good to make, a romance with the idea of someone more than with the person.
 
 Next to the [Two of Cups](/library/tarot-cards/two-of-cups/), the offer is received: two cups meet. Next to the [Seven of Cups](/library/tarot-cards/seven-of-cups/), imagination wins over reality — lovely visions, little substance. Next to the [Knight of Wands](/library/tarot-cards/knight-of-wands/), the walking rider meets the rearing one, and the question becomes: is this a feeling or a desire? A [love spread that reads you rather than the other person](/blog/love-tarot-spread/) is a good place to put that question.
 
@@ -73,6 +73,6 @@ Next to the [Two of Cups](/library/tarot-cards/two-of-cups/), the offer is recei
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Knight of Cups next to the Eight of Wands. Lenses first. A Knight then an eight: action, then something established moving fast. Air of Water, then Fire: a feeling put into words, then speed. A white horse at a walk, then wands flying through an open sky.
+Set the Knight of Cups beside the Eight of Wands and read the pair for practice. A Knight then an eight: action, then something established moving fast. Air of Water, then Fire: a feeling put into words, then speed. A white horse at a walk, then wands flying through an open sky.
 
-Out loud, you might say: “Someone is about to say what they feel — perhaps you — and once it’s said, things will move much faster than the slow approach suggested.” Then ask whether that lands. If the person says no, that’s a miss: note it, and resist the third card that would rescue it.
+Out loud, you might say: “Someone is about to say what they feel — perhaps you — and once it’s said, things will move much faster than the slow approach suggested.” Then ask whether someone is about to speak up. If the person says no, that’s a miss: note it, and resist the third card that would rescue it.

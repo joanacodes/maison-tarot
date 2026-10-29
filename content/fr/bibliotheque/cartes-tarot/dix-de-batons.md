@@ -51,7 +51,7 @@ Personne ne l’aide. Pas de charrette, pas d’autres bras, pas de chemin visib
 
 ## Par le nombre : dix {#nombre}
 
-**dix — la fin du cycle, la transition.** Le [10](/fr/bibliotheque/numerologie/chiffre-10/), c’est le couloir entre deux pièces : ce qui était se termine, ce qui vient n’a pas encore de nom. Il apporte la liberté, le changement, le souffle ; son revers : il peut durer peu, et il vous dit de commencer autre chose. Le Dix de Bâtons, c’est le cycle du Feu qui se clôt : tout ce que vous avez allumé depuis l’As est maintenant dans vos bras, d’un seul coup.
+Le [10](/fr/bibliotheque/numerologie/chiffre-10/), c’est le couloir entre deux pièces, et cet homme le traverse les bras chargés. Il apporte la liberté, le changement, le souffle — rien de tout cela n’est encore pour lui. Le Dix de Bâtons, c’est le cycle du Feu qui se clôt : tout ce que vous avez allumé depuis l’As est maintenant dans vos bras, d’un seul coup.
 
 Ma note sur cette carte : garder l’énergie créatrice, sans se surcharger. Chaque bâton contre sa poitrine a d’abord été une idée qui valait la peine. Qui trop embrasse mal étreint, dit le proverbe, et le 10 ne demande pas de tout lâcher : il demande de ne pas passer la porte suivante avec les dix. Dans l’histoire d’Instagram, le 10, c’est la plateforme devenue tout autre chose — l’ancienne forme ne traverse pas le couloir intacte, et ce n’est pas son rôle.
 
@@ -69,7 +69,7 @@ Le sol est d’un [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) plat : la volo
 
 ## Par l’astrologie : Saturne en Sagittaire {#astrologie}
 
-Dans la tradition Golden Dawn, le Dix de Bâtons correspond à Saturne en Sagittaire, et l’Ordre l’appelait le Seigneur de l’Oppression (*Lord of Oppression*). [Saturne](/fr/bibliotheque/astrologie/saturne/), c’est la leçon la plus dure : la responsabilité, la structure, le travail de plusieurs années. Le Sagittaire veut la route ouverte. Ensemble, le voyage devient un devoir : on voyage toujours, mais avec tous les bagages sur le dos.
+Dans la tradition Golden Dawn, le Dix de Bâtons correspond à Saturne en Sagittaire. [Saturne](/fr/bibliotheque/astrologie/saturne/), c’est la responsabilité, le poids qu’on accepte de porter. Le Sagittaire veut la route ouverte. Ensemble, le voyage devient un devoir : on voyage toujours, mais avec tous les bagages sur le dos.
 
 Quand j’ai testé mon thème puis ceux d’autres personnes, Saturne a fait partie des trois placements qui tenaient le mieux, entre 75 et 90 % (avec Lilith et Chiron). Je garde donc cette correspondance quand le Dix sort, mais elle reste facultative : le dessin suffit sans elle.
 
@@ -87,7 +87,7 @@ Si le poids que décrit la personne semble logé dans le corps — le sommeil pa
 
 ## Exemple de tirage {#exemple}
 
-Imaginez quelqu’un qui s’assied sans un mot et tire le Dix de Bâtons, suivi de l’[As de Bâtons](/fr/bibliotheque/cartes-tarot/as-de-batons/). Les clés de lecture d’abord : 10 puis 1 — la fin d’un cycle, puis le début d’un autre ; Feu et Feu — la même énergie, dépensée, puis renouvelée ; un homme plié sous dix branches, puis une seule branche tendue par une main qui sort d’un nuage.
+Cette paire ne vient d’aucun tirage réel : le Dix de Bâtons suivi de l’[As de Bâtons](/fr/bibliotheque/cartes-tarot/as-de-batons/), réunis pour montrer un cycle qui se retourne. Du 10 au 1, la fin d’un cycle, puis le début d’un autre ; Feu et Feu, la même énergie, dépensée, puis renouvelée ; un homme plié sous dix branches, puis une seule branche tendue par une main qui sort d’un nuage.
 
 Ce que vous pourriez dire : « Vous terminez quelque chose de lourd, et une idée neuve réclame déjà vos bras. Posez le fagot avant de la prendre. »
 

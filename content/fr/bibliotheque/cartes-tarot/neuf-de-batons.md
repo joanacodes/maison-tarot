@@ -51,7 +51,7 @@ Ce qui manque, c’est l’ennemi. Personne n’attaque, rien ne descend de la c
 
 ## Par le nombre : neuf {#nombre}
 
-**neuf — l’aboutissement, presque au bout.** Le [9](/fr/bibliotheque/numerologie/chiffre-9/), c’est la ligne d’arrivée en vue : les derniers efforts, la patience, un regard vers l’intérieur avant que le cycle se ferme — et on continue d’avancer. C’est exactement le dessin. Huit bâtons sont déjà plantés derrière lui, le neuvième est entre ses mains ; encore un, et la série est complète. Il ne commence rien : il tient, près de la fin.
+Le [9](/fr/bibliotheque/numerologie/chiffre-9/), c’est la ligne d’arrivée en vue : les derniers efforts, la patience, un regard vers l’intérieur avant que le cycle se ferme — et on continue d’avancer. C’est exactement le dessin. Huit bâtons sont déjà plantés derrière lui, le neuvième est entre ses mains ; encore un, et la série est complète. Il ne commence rien : il tient, près de la fin.
 
 Le piège du 9, c’est de s’arrêter à cent mètres de l’arrivée — ou, ici, de monter la garde si longtemps qu’on en oublie de faire les derniers pas. Dans l’histoire d’Instagram, le 9, c’est la refonte autour des Reels : ce qui définissait l’application se termine, et la forme suivante n’est pas encore là. Le Neuf de Bâtons, c’est cet entre-deux, vécu dos à la palissade.
 
@@ -69,7 +69,7 @@ Le rouge rouille de la tunique garde la force et l’action de la famille, et le
 
 ## Par l’astrologie : Lune en Sagittaire {#astrologie}
 
-Dans la tradition Golden Dawn, cette carte correspond à la Lune en Sagittaire ; l’Ordre la nommait le Seigneur de la Grande Force (*Lord of Great Strength*). La [Lune](/fr/bibliotheque/astrologie/lune/), c’est ce qu’on ressent quand personne ne regarde : le besoin de sécurité. Le Sagittaire, c’est le voyageur qui veut tout essayer et aller voir. Mettez un besoin de sécurité chez quelqu’un fait pour partir, et vous obtenez cet homme. Chat échaudé craint l’eau froide : un esprit libre qui s’est brûlé une fois, et qui scrute l’horizon avant chaque pas.
+Dans la tradition Golden Dawn, cette carte correspond à la Lune en Sagittaire. La [Lune](/fr/bibliotheque/astrologie/lune/) parle pour le moi intime et son besoin de se sentir en sécurité. Le Sagittaire, c’est le voyageur qui veut tout essayer et aller voir. Mettez un besoin de sécurité chez quelqu’un fait pour partir, et vous obtenez cet homme. Chat échaudé craint l’eau froide : un esprit libre qui s’est brûlé une fois, et qui scrute l’horizon avant chaque pas.
 
 Gardez cette clé si l’astrologie vous parle : elle ajoute le côté intime, la peur sous la garde. Laissez-la sinon ; le dessin le dit déjà.
 
@@ -85,8 +85,8 @@ Renversé, la vigilance tourne à la méfiance : chaque message lu comme une men
 
 ## Exemple de tirage {#exemple}
 
-Prenons une personne qui ne vous dit rien et tire le Neuf de Bâtons, puis le [Deux de Coupes](/fr/bibliotheque/cartes-tarot/deux-de-coupes/). Les clés de lecture d’abord : 9 puis 2 — la fin d’un long effort, puis un échange entre deux personnes ; le Feu puis l’Eau — l’endurance, puis le sentiment ; un sol gris et un bandage blanc, puis deux personnages face à face, chacun tendant une coupe.
+Rien de vécu dans cet exemple : le Neuf de Bâtons, puis le [Deux de Coupes](/fr/bibliotheque/cartes-tarot/deux-de-coupes/). Du 9 au 2, la fin d’un long effort, puis un échange entre deux personnes ; du Feu à l’Eau, l’endurance, puis le sentiment ; et côté couleurs, un sol gris et un bandage blanc, puis deux personnages face à face, chacun tendant une coupe.
 
 La phrase que vous pourriez tenter : « Vous tenez quelque chose sans aide depuis longtemps, et on vous propose un échange. La question, c’est de savoir si vous pouvez poser un bâton pour prendre la coupe. »
 
-Puis vous vérifiez, sans insister : « Y a-t-il un endroit de votre vie où vous êtes encore sur vos gardes ? » Laissez la personne répondre avec ses mots. Si rien ne correspond, dites-le, et notez-le comme un raté.
+Puis vous vérifiez, sans insister : « Y a-t-il un endroit de votre vie où vous êtes encore sur vos gardes ? » Laissez-lui le choix des mots pour répondre. Si rien ne correspond, dites-le, et notez-le comme un raté.

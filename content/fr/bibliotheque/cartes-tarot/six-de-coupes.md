@@ -49,9 +49,9 @@ Il y a six coupes, et chacune contient une fleur blanche en forme d’étoile pa
 
 ## Par le nombre : six {#nombre}
 
-**six — l’harmonie retrouvée, l’échange.** Le 6, c’est le 3 redoublé : après l’épreuve du 5, les choses fonctionnent de nouveau, et plus vite. Dans mes notes, c’est le nombre des résultats qui arrivent — et du droit de se reposer, de prendre des vacances. Dans le Six de Coupes, ce repos a une saveur particulière : prendre du temps pour soi, l’enfance, refleurir, l’harmonie.
+Le 6, c’est le 3 redoublé : après l’épreuve du 5, les choses fonctionnent de nouveau, et plus vite. Dans mes notes, c’est le nombre des résultats qui arrivent — et du droit de se reposer, de prendre des vacances. Dans le Six de Coupes, ce repos a une saveur particulière : prendre du temps pour soi, l’enfance, refleurir, l’harmonie.
 
-C’est pour ça qu’il suit si bien le Cinq : les deux coupes restées debout sont devenues six, remplies de fleurs. Le conseil du [chiffre 6](/fr/bibliotheque/numerologie/chiffre-6/), c’est de rester calme et humble quand tout roule ; ici, ça veut dire profiter de la douceur sans essayer d’y vivre pour toujours. Dans l’histoire d’Instagram, le 6, c’est Facebook qui investit : ce qui menaçait l’entreprise la porte désormais.
+C’est pour ça qu’il suit si bien le Cinq : les deux coupes restées debout sont devenues six, remplies de fleurs. Le conseil du [chiffre 6](/fr/bibliotheque/numerologie/chiffre-6/), c’est de rester calme et humble quand tout roule ; ici, ça veut dire profiter de la douceur sans essayer d’y vivre pour toujours. Dans l’histoire d’Instagram, le 6, c’est Facebook qui investit ; après la frayeur du 5, une période plus douce commence.
 
 ## Par l’élément : Eau {#element}
 
@@ -67,7 +67,7 @@ Lisez les couleurs avant la carte : de la joie, de l’innocence, de la chaleur,
 
 ## Par l’astrologie : Soleil en Scorpion {#astrologie}
 
-Dans la tradition Golden Dawn, le Six de Coupes correspond au deuxième décan du Scorpion, gouverné par le Soleil ; son titre est « Seigneur du Plaisir ». Le [Soleil](/fr/bibliotheque/astrologie/soleil/), c’est le centre, ce autour de quoi on organise sa vie. Le [Scorpion](/fr/bibliotheque/astrologie/scorpion/), c’est *Je désire*, un signe fixe dont l’endurance passe dans l’attachement affectif. Ensemble : un cœur qui s’accroche — aux gens, aux lieux, aux souvenirs — et qui y trouve son centre.
+Dans la tradition Golden Dawn, le Six de Coupes correspond au deuxième décan du Scorpion, gouverné par le [Soleil](/fr/bibliotheque/astrologie/soleil/) — le centre d’un thème, et ici la lumière chaude sur la cour. Le [Scorpion](/fr/bibliotheque/astrologie/scorpion/), c’est *Je désire*, un signe fixe dont l’endurance passe dans l’attachement affectif. Ensemble : un cœur qui s’accroche — aux gens, aux lieux, aux souvenirs — et qui y trouve son centre.
 
 Agréable à savoir, jamais obligatoire : le jaune l’a déjà dit.
 
@@ -83,7 +83,7 @@ Renversé, le Six de Coupes laisse trop de place au passé. Soit quelqu’un vit
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Six de Coupes à côté du [Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/). Les clés de lecture d’abord. Six puis neuf : l’harmonie, puis la fin d’une étape, profiter de ce qui vient. L’Eau puis la Terre : un sentiment, puis un confort qu’on a gagné. Les couleurs : du jaune dans les deux — la pierre du Six, le ciel éclatant du Neuf, où une femme se promène seule dans sa vigne.
+Lisez la paire Six de Coupes et [Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/) comme vous le feriez pour quelqu’un que vous ne connaissez pas. Six puis neuf : l’harmonie, puis la fin d’une étape, profiter de ce qui vient. L’Eau puis la Terre : un sentiment, puis un confort qu’on a gagné. Les couleurs : du jaune dans les deux — la pierre du Six, le ciel éclatant du Neuf, où une femme se promène seule dans sa vigne.
 
 La phrase que je dirais à voix haute : « Vous avez beaucoup travaillé et vous avez mérité une pause — quelque chose de doux, rien que pour vous : quelques jours dans la maison de famille, des gens que vous connaissez depuis longtemps, du temps sans objectif. »
 

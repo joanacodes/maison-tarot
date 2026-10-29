@@ -48,7 +48,7 @@ Il ne regarde pas sa coupe. Il regarde au loin, le monde qu’il gouverne avec e
 
 ## Par le nombre : le Roi {#nombre}
 
-**le Roi — la maîtrise extérieure, la décision.** Chaque [Roi](/fr/bibliotheque/numerologie/roi/) est sur un trône et regarde le monde qu’il gère plutôt que son outil. Le conseil du Roi : décider, puis rendre des comptes. À son meilleur, il protège ce qu’il gouverne ; dans ses moins bons jours, il gouverne pour lui. La question à poser à tout Roi est toujours la même : pour qui ?
+[Le Roi](/fr/bibliotheque/numerologie/roi/), c’est le rang qui décide et qui en répond. La question à lui poser est celle que je pose à chaque Roi — pour qui ? —, et ici elle veut dire : pour qui garde-t-il son calme ?
 
 Pour le Roi de Coupes, ce qu’il gouverne, ce sont les émotions — les siennes, et le climat de la pièce. C’est lui qui décide quelle part de la mer entre. Son énergie est masculine [au sens où je l’entends](/fr/bibliotheque/energies-feminine-masculine/) : agir, se montrer, décider vite, qui que vous soyez.
 
@@ -56,7 +56,7 @@ Pour le Roi de Coupes, ce qu’il gouverne, ce sont les émotions — les sienne
 
 La famille est l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/), et le rang du Roi ajoute le [Feu](/fr/bibliotheque/quatre-elements/element-feu/) : l’impulsion, l’élan, l’énergie qui agit. Le Feu d’Eau, c’est l’émotion transformée en décision — un sentiment qui ne reste pas un sentiment mais devient un choix, un geste, une façon de mener. Le français a un mot pour ça, et il marie justement le chaud et le froid : le sang-froid.
 
-Le Feu et l’Eau ne se mélangent pas facilement, et le dessin montre l’effort : un trône de pierre sur une mer qui bouge. L’eau s’infiltre, et une émotion négligée ronge les fondations. La maîtrise de ce Roi est réelle, mais la mer est toujours là. Le calme à la surface peut être de la sagesse — ou un couvercle.
+Le Feu et l’Eau ne se mélangent pas facilement, et le dessin montre l’effort : un trône de pierre sur une mer qui bouge. L’eau s’infiltre, aussi : ce qu’il tient sous la surface ne disparaît pas. La maîtrise de ce Roi est réelle, mais la mer est toujours là. Le calme à la surface peut être de la sagesse — ou un couvercle.
 
 ## Par les couleurs {#couleurs}
 
@@ -66,7 +66,7 @@ Le [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) de la mer entoure tout : l’é
 
 À l’endroit : la maturité émotionnelle à l’œuvre. Une personne — un mentor, un parent, un ou une partenaire, une responsable — qui écoute, garde la tête froide quand les autres perdent la leur, et décide avec son cœur sans se laisser gouverner par lui. Ou le moment d’être cette personne vous-même. **Le Roi de Coupes ne ressent pas moins que les autres ; il a décidé de ce qu’il fait de ce qu’il ressent.**
 
-Renversé, le même calme est freiné ou excessif. Freiné : le calme devient un couvercle, des sentiments tenus sous la surface depuis si longtemps que personne autour de lui ne sait ce qu’il ressent — parfois pas même lui. Excessif : le contrôle — se servir de sa compréhension des autres pour les diriger, ou la tempête qui finit par atteindre le trône.
+Renversé, le calme va trop loin, dans un sens ou dans l’autre. Freiné : le calme devient un couvercle, des sentiments tenus sous la surface depuis si longtemps que personne autour de lui ne sait ce qu’il ressent — parfois pas même lui. Excessif : le contrôle — se servir de sa compréhension des autres pour les diriger, ou la tempête qui finit par atteindre le trône.
 
 En amour, c’est le ou la partenaire stable, qui n’a pas besoin de gagner la dispute ; un article entier lui est consacré : [le Roi de Coupes en amour](/fr/blog/roi-de-coupes-amour/). À côté du [Roi d’Épées](/fr/bibliotheque/cartes-tarot/roi-de-epees/), deux Rois côte à côte : le cœur et la tête se disputent le même trône. À côté de [Tempérance](/fr/bibliotheque/cartes-tarot/temperance/), le calme est authentique — l’émotion mêlée de patience. À côté du [Dix de Coupes](/fr/bibliotheque/cartes-tarot/dix-de-coupes/), c’est lui qui tient la maisonnée.
 
@@ -74,6 +74,6 @@ En amour, c’est le ou la partenaire stable, qui n’a pas besoin de gagner la 
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Roi de Coupes à côté du Cinq de Bâtons. Les clés de lecture d’abord. Un Roi puis un cinq : la décision, puis le conflit. Le Feu d’Eau, puis le Feu : l’émotion devenue action, puis cinq personnes qui agitent des bâtons et semblent se battre sans se coordonner.
+Pour les besoins de l’exercice, le Roi de Coupes sort à côté du Cinq de Bâtons. Un Roi puis un cinq : la décision, puis le conflit. Le Feu d’Eau, puis le Feu : l’émotion devenue action, puis cinq personnes qui agitent des bâtons et semblent se battre sans se coordonner.
 
-À voix haute, cela pourrait donner : « Il y a beaucoup de bruit autour de vous — des gens qui tirent chacun de leur côté — et c’est de vous qu’on attend le calme pour régler ça. Vous en êtes capable. La question, c’est de savoir si quelqu’un vous demande comment vous allez, vous. » Puis demandez si ça parle. Si la personne dit non, c’est un raté : notez-le, et restez-en là.
+À voix haute, cela pourrait donner : « Il y a beaucoup de bruit autour de vous — des gens qui tirent chacun de leur côté — et c’est de vous qu’on attend le calme pour régler ça. Vous en êtes capable. La question, c’est de savoir si quelqu’un vous demande comment vous allez, vous. » Puis demandez à la personne si c’est bien sur elle qu’on compte pour garder son calme dans ce bruit. Si elle dit non, c’est un raté : notez-le, et restez-en là.

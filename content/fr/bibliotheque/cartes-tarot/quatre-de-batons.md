@@ -45,15 +45,15 @@ tags:
 
 Quatre grands bâtons sont plantés au premier plan et, en travers, pend une lourde guirlande de feuillage, de fleurs rouges et de fruits, attachée aux bâtons extérieurs par des rubans rouges — un portail, ou l’armature d’un dais. Derrière, deux personnages en robe longue, l’un en blanc avec un drapé bleu, l’autre en rouge sombre, lèvent des bouquets au-dessus de leur tête. Un peu plus loin à gauche, quelques personnes se rassemblent.
 
-Derrière tout ce monde, un château de pierre grise aux tours coiffées de toits rouges, et un petit pont à droite. Le ciel est d’un jaune vif et uni.
+Derrière tout ce monde, un château de pierre grise aux tours coiffées de toits rouges, et un petit pont à droite. Tout le ciel est peint d’un même jaune vif.
 
 Personne ne se bat, personne ne travaille, et personne ne tient les bâtons : ils tiennent tout seuls. **Le Quatre de Bâtons est une structure faite pour célébrer — un seuil, un foyer, une invitation à entrer.**
 
 ## Par le nombre : quatre {#nombre}
 
-**quatre — les fondations, la stabilité.** [Quatre](/fr/bibliotheque/numerologie/chiffre-4/), c’est le 2 exalté : après le contrat, tout va bien — stable, structuré, le fruit de votre travail. Dans mes propres notes, c’est le Quatre de Bâtons que je donne en exemple pour ce nombre : les fondations, le mariage, fonder une famille. Quatre bâtons plantés, ce sont les quatre coins d’une maison.
+[Quatre](/fr/bibliotheque/numerologie/chiffre-4/), c’est le 2 exalté : après le contrat, tout va bien — stable, structuré, le fruit de votre travail. Dans mes propres notes, c’est le Quatre de Bâtons que je donne en exemple pour ce nombre : les fondations, le mariage, fonder une famille. Quatre bâtons plantés, ce sont les quatre coins d’une maison.
 
-Dans l’histoire d’Instagram, le 4, c’est le grand succès qui arrive vite : une forme, une équipe, des habitudes. Ça tient. Mon conseil devant un 4 : restez souple, ouvert à ce que vous n’aviez pas prévu. Son revers, c’est de continuer quand il faudrait s’arrêter, ou de s’entêter sur ce à quoi la maison doit ressembler. La guirlande le rappelle : elle fanera, et il faudra la remplacer. La fête n’a jamais été les murs.
+Dans l’histoire d’Instagram, le 4, c’est le succès rapide qui donne à l’entreprise une forme, une équipe, des habitudes. Ça tient. Le conseil du 4 — rester souple, ouvert à ce qu’on n’avait pas prévu — vaut aussi pour la maison : laissez de la place à qui se présentera. Son revers, c’est de continuer quand il faudrait s’arrêter, ou de s’entêter sur ce à quoi la maison doit ressembler. La guirlande le rappelle : elle fanera, et il faudra la remplacer. La fête n’a jamais été les murs.
 
 ## Par l’élément : Feu {#element}
 
@@ -69,7 +69,7 @@ La guirlande ajoute du [vert](/fr/bibliotheque/couleurs-tarot/vert/) et du rouge
 
 ## Par l’astrologie : Vénus en Bélier {#astrologie}
 
-Dans la tradition Golden Dawn, le Quatre de Bâtons correspond à Vénus en Bélier, troisième décan du signe, avec le titre de « Seigneur du Travail accompli » (Lord of Perfected Work). [Vénus](/fr/bibliotheque/astrologie/venus/), c’est ce que vous aimez et la façon dont vous vous liez ; le Bélier, c’est la première impulsion, « je suis ». Ensemble : un amour qui agit, une attirance qui veut être fêtée à voix haute — ça va bien aux guirlandes et aux bouquets levés.
+Dans la tradition Golden Dawn, le Quatre de Bâtons correspond à Vénus en Bélier, troisième décan du signe. [Vénus](/fr/bibliotheque/astrologie/venus/), c’est la façon dont vous vous liez ; le Bélier, c’est la première impulsion, « je suis ». Ensemble : un amour qui agit, une attirance qui veut être fêtée à voix haute — ça va bien aux guirlandes et aux bouquets levés.
 
 Une clé en plus : elle ajoute de la chaleur au Feu de la carte, et le nombre comme le jaune disent déjà presque la même chose. [L’article sur les décans](/fr/blog/decans-tarot/) explique comment ils se répartissent.
 
@@ -87,8 +87,8 @@ Renversé, la fête n’a pas lieu, ou a lieu sans joie : la maison qui ne devie
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Quatre de Bâtons à côté du Six de Coupes. Les clés de lecture d’abord. Le nombre : quatre, puis six — quelque chose de construit et de stable, puis l’harmonie et du temps pour soi. L’élément : le Feu, puis l’Eau — la fête, puis les souvenirs. Les couleurs : le jaune du Quatre, puis la cour jaune du Six de Coupes, deux enfants en capuchon rouge, des coupes pleines de fleurs blanches. Deux fois du jaune : un bon moment.
+Mettons que le Quatre de Bâtons sorte en premier, le Six de Coupes à côté, sans que la personne ait encore dit pourquoi elle est venue. Le nombre : quatre, puis six — quelque chose de construit et de stable, puis l’harmonie et du temps pour soi. L’élément : le Feu, puis l’Eau — la fête, puis les souvenirs. Les couleurs : le jaune du Quatre, puis la cour jaune du Six de Coupes, deux enfants en capuchon rouge, des coupes pleines de fleurs blanches. Deux fois du jaune : un bon moment.
 
 La phrase que je dirais à voix haute : « Il y a un rassemblement dans votre vie, récent ou à venir, qui vous ramène vers des gens d’avant — la famille, des amis d’enfance, l’endroit où vous avez grandi. Ça ressemble à un retour à la maison, et vous avez le droit d’en profiter. »
 
-Ensuite je demande si ça parle, et de quel rassemblement il s’agit. Si non, je le dis et je le note. S’entraîner sur des paires comme celle-ci, avec d’autres autour de la table, c’est à ça que servent les [ateliers](/fr/ateliers/).
+Ensuite, je demande s’il y a bien un rassemblement de ce genre, et lequel. Si personne ne revient et que rien ne se fête, la phrase a raté. S’entraîner sur des paires comme celle-ci, avec d’autres autour de la table, c’est à ça que servent les [ateliers](/fr/ateliers/).

@@ -50,7 +50,7 @@ Nobody helps him. No cart, no second pair of arms, no path visible past the bund
 
 ## By number: ten {#number}
 
-**ten — the end of the cycle, transition.** [Ten](/library/numerology/number-10/) is the corridor between two rooms: what was is finishing, what comes has no name yet. Its gifts are freedom, change, breathing; its minus is that it can be short-lived, and that it tells you to start something else. The Ten of Wands is the Fire cycle at its close: everything you lit since the Ace is now in your arms, all at once.
+[Ten](/library/numerology/number-10/) is the corridor between two rooms, and this man is crossing it with his arms full. Its gifts are freedom, change, breathing — none of which he has yet. The Ten of Wands is the Fire cycle at its close: everything you lit since the Ace is now in your arms, all at once.
 
 My note on this card: keep the creative energy, without overloading. Every wand against his chest was once an idea worth having. The 10 doesn’t ask you to drop them; it asks you not to carry all ten through the next door. In the Instagram story, 10 is the platform turning into something else entirely — the old form doesn’t come through the corridor intact, and isn’t meant to.
 
@@ -68,7 +68,7 @@ The ground is a flat [yellow](/library/tarot-colours/yellow/): will, pride, the 
 
 ## By astrology: Saturn in Sagittarius {#astrology}
 
-In the Golden Dawn tradition, the Ten of Wands is Saturn in Sagittarius, and the Order called it the Lord of Oppression. [Saturn](/library/astrology/saturn/) is the hardest lesson: responsibility, structure, the work of years. Sagittarius wants the open road. Together, the journey turns into a duty — you’re still travelling, with all the luggage on your own back.
+In the Golden Dawn tradition, the Ten of Wands is Saturn in Sagittarius. [Saturn](/library/astrology/saturn/) is responsibility, the weight you agree to carry. Sagittarius wants the open road. Together, the journey turns into a duty — you’re still travelling, with all the luggage on your own back.
 
 Saturn was one of the three placements that held best when I tested my chart and others’, at 75 to 90% (with Lilith and Chiron). That’s why I keep this attribution when the Ten comes out. It stays optional all the same: the drawing is enough without it.
 
@@ -86,7 +86,7 @@ Next to the [Three of Pentacles](/library/tarot-cards/three-of-pentacles/), the 
 
 ## A reading, as an example {#example}
 
-Picture someone who sits down without a word and draws the Ten of Wands followed by the [Ace of Wands](/library/tarot-cards/ace-of-wands/). Lenses first: 10 then 1 — the end of a cycle, then the start of another; Fire and Fire — the same energy, spent, then renewed; a man bent under ten branches, then a single branch held out by a hand from a cloud.
+This pair comes from no real reading: the Ten of Wands followed by the [Ace of Wands](/library/tarot-cards/ace-of-wands/), put together to show a cycle turning over. From 10 to 1, the end of a cycle, then the start of another; Fire and Fire, the same energy, spent, then renewed; a man bent under ten branches, then a single branch held out by a hand from a cloud.
 
 What you might say: “You’re finishing something heavy, and a new idea is already asking for your arms. Put the bundle down before you take it.”
 

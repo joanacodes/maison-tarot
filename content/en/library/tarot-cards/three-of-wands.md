@@ -50,7 +50,7 @@ We never see his face. We see what he sees. **The Three of Wands is someone watc
 
 ## By number: three {#number}
 
-**three — to create, to celebrate, the first result.** [Three](/library/numerology/number-3/) is cadence: the machine running, the contract that works. After the hesitation of the Two, something has been sent out, and it holds. In the Instagram story, it’s the launch: people sign up, post, come back, and the thing turns without being pushed.
+[Three](/library/numerology/number-3/) is cadence: the machine running, the contract that works. After the hesitation of the Two, something has been sent out, and it holds. In the Instagram story, it’s the launch: people sign up, post, come back, and the thing turns without being pushed.
 
 My advice with a 3 is to finish one project before starting another — and on this card it has a real target. A man who has seen his first ships leave is already picturing the next fleet. The minus of 3 is exactly that: launching new things before the others are home, and a certain solitude at the top of the cliff.
 
@@ -68,7 +68,7 @@ The green cloak adds growth: what he sent out should come back bigger. The touch
 
 ## By astrology: Sun in Aries {#astrology}
 
-In the Golden Dawn tradition, the Three of Wands is the Sun in Aries, the second decan of the sign, titled Lord of Established Strength. [The Sun](/library/astrology/sun/) is the centre of a chart, what a person wants to project; Aries says “I am” and goes first. Together: initiative that has become visible, and is happy to be seen.
+In the Golden Dawn tradition, the Three of Wands is the Sun in Aries, the second decan of the sign. [The Sun](/library/astrology/sun/) is the centre of a chart, what a person wants to project; Aries says “I am” and goes first. Together: initiative that has become visible, and is happy to be seen.
 
 The lens matches the drawing — a man in full light, at the front of his own story. It stays optional: the yellow has already told you the same.
 
@@ -84,8 +84,8 @@ Next to the [Eight of Wands](/library/tarot-cards/eight-of-wands/), the returns 
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Three of Wands next to the Four of Swords. Lenses first. Number: three, then four — it’s running, then it settles. Element: Fire, then Air — drive, then the mind. Colours: the sunny yellow of the Three, then the pale stone of the Four of Swords, a figure lying still with joined hands under a stained-glass window.
+For practice, picture the Three of Wands, ships already out, coming up next to the Four of Swords. Number: three, then four — it’s running, then it settles. Element: Fire, then Air — drive, then the mind. Colours: the sunny yellow of the Three, then the pale stone of the Four of Swords, a figure lying still with joined hands under a stained-glass window.
 
 The sentence I’d say out loud: “You’ve sent something out recently — a project, an application, a proposal — and now you’re waiting. You don’t need to do more right now. You need to rest while it travels.”
 
-Then I’d ask whether it lands. If it does, I’d ask what they’re tempted to do instead of resting, because that’s where the next mistake usually hides. If it doesn’t, it goes in the notebook as a miss. Number, element, colours, one sentence, then the check: that order is [the method](/method/), and it works on any pair of cards.
+Then I’d ask whether they are, in fact, waiting on something. If they are, I’d ask what they’re tempted to do instead of resting, because that’s where the next mistake usually hides. If they aren’t, the sentence goes in the notebook as a miss. Number, element, colours, one sentence, then the check: that order is [the method](/method/), and it works on any pair of cards.

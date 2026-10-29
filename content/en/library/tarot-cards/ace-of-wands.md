@@ -54,7 +54,7 @@ With this card, the humility I ask of any 1 — get ready to learn — matters m
 
 ## By element: Fire {#element}
 
-The Wands are [Fire](/library/four-elements/fire-element/): creation, destruction, impulse, the energy that motivates. Fire forges, warms, lights the night, and spreads fast when nobody masters it. The Ace is Fire before any of that — the spark, before it has chosen what to warm and what to burn.
+The Wands are [Fire](/library/four-elements/fire-element/): creation, destruction, impulse, the energy that motivates. The Ace is Fire before it has forged anything or spread anywhere — the spark, before it has chosen what to warm and what to burn.
 
 So the card talks about desire in the widest sense: a project, a vocation, an attraction, sometimes plain libido. The teenager full of life who thinks they can do anything, on the morning they wake up with the idea.
 
@@ -82,8 +82,8 @@ Next to [the Magician](/library/tarot-cards/the-magician/), another 1, the idea 
 
 ## A reading, as an example {#example}
 
-Imagine the Ace of Wands turning up with the Seven of Cups beside it: one living branch, then seven cups floating on clouds. Number: one, then seven — something begins, then a pause to weigh it up. Element: Fire, then Water — an urge, then daydreams. Colours: warm orange and green, then a dark silhouette facing cups on clouds. From the clear to the hazy.
+Imagine the Ace of Wands turning up with the Seven of Cups beside it: one living branch, then too many choices. Number: one, then seven — something begins, then a pause to weigh it up. Element: Fire, then Water — an urge, then daydreams. Colours: warm orange and green, then a dark silhouette facing cups on clouds. From the clear to the hazy.
 
 The sentence I’d say out loud: “You’ve got an idea that really wants to start, and you know which one. But there are several around it, and you’re spending your energy looking at all of them instead of growing one.”
 
-Then I’d ask whether it lands — not before, because the person tells me nothing until I’ve spoken: that’s [the silence rule](/blog/the-silence-rule/). If not, it’s a miss, and I don’t rescue it with a third card. If yes, the useful question is “which one do you want to grow first?”
+Then I’d check it with them — not before, because the person tells me nothing until I’ve spoken: that’s [the silence rule](/blog/the-silence-rule/). If not, it’s a miss, and I don’t rescue it with a third card. If yes, the useful question is “which one do you want to grow first?”

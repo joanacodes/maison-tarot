@@ -47,13 +47,13 @@ Every other cup in the Cups is open. This one is closed: what she sees, she sees
 
 ## By number: the Queen {#number}
 
-**the Queen — inner mastery, welcome.** Every [Queen](/library/numerology/queen/) is seated and holds her suit’s tool like something familiar: they know, they prove nothing. The Queen of Cups is the one who looks into her cup. Her advice is to hold without holding on. At her best she welcomes and lets through; at her less good she keeps — people, feelings — and mistakes mastery for control.
+[The Queen](/library/numerology/queen/) masters her suit from within, and the Queen of Cups does it by looking: she knows what’s in her cup without having to show it. For a Queen of Water, holding without holding on means feeling with people without keeping their feelings. At her best, what others pour into her comes back as understanding; at her less good, she keeps it all, and mistakes holding for helping.
 
-Her energy is [feminine in the sense I give the word](/library/feminine-masculine-energies/): patience, imagination, what happens behind the scenes. It has nothing to do with being a woman. A man can be a Queen of Cups, and many are.
+Her energy is [feminine in the sense I give the word](/library/feminine-masculine-energies/): patience, imagination, what happens behind the scenes. It has nothing to do with being a woman. The best listener you know may well be a man.
 
 ## By element: Water {#element}
 
-Cups are [Water](/library/four-elements/water-element/), and the Queen’s rank adds Water again: the element twice. Emotion at its deepest, and the archetype at its warmest — the person you feel at home with, who understands before you’ve finished your sentence.
+Cups are [Water](/library/four-elements/water-element/), and the Queen’s rank adds Water again: the element twice. Emotion at its deepest, and the archetype at its warmest — someone who understands before you’ve finished your sentence.
 
 Twice the water is also twice the risk: water carries you, and it can drown you. My definition of empathy is feeling and understanding someone else’s emotions while keeping your own. This Queen is the picture of that skill — and, when it tips over, of the person who soaks up everyone’s moods and carries them home. I write about [feeling without taking on, when you read for someone](/blog/protect-yourself-tarot/).
 
@@ -65,14 +65,14 @@ Twice the water is also twice the risk: water carries you, and it can drown you.
 
 Upright: emotional intelligence. Someone who listens deeply, reads a room, takes care — a friend, a parent, a nurse, a reader. Or it’s you, at the moment you finally listen to yourself. **The Queen of Cups feels everything and still knows which feelings are hers.**
 
-Reversed, the same depth is slowed down or overdone. Slowed: the lid stays on — feelings so guarded no one can reach them, intuition heard and then ignored. Overdone: the water floods — absorbing other people’s emotions, carrying their moods home, losing track of your own until you can’t say what you want.
+Reversed, the depth either closes up or spills over. Slowed: the lid stays on — feelings so guarded no one can reach them, intuition heard and then ignored. Overdone: the water floods — absorbing other people’s emotions, carrying their moods home, losing track of your own until you can’t say what you want.
 
-Next to [the High Priestess](/library/tarot-cards/the-high-priestess/), intuition is doubled: what isn’t said gets heard. Next to the [Queen of Swords](/library/tarot-cards/queen-of-swords/), heart and head work together — understanding first, then a clear word. Next to [the Moon](/library/tarot-cards/the-moon/), the feeling risks turning into illusion, and it’s worth checking what’s yours and what’s fear.
+Next to [the High Priestess](/library/tarot-cards/the-high-priestess/), intuition is doubled: what isn’t said gets heard. Next to the [Queen of Swords](/library/tarot-cards/queen-of-swords/), the two Queens share the work: one takes in what’s felt, the other names it. Next to [the Moon](/library/tarot-cards/the-moon/), the feeling risks turning into illusion, and it’s worth checking what’s yours and what’s fear.
 
 {{< cards "cuqu ar02 swqu ar18" >}}
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Queen of Cups next to the Nine of Wands. Lenses first. A Queen then a nine: inner mastery, then the last stretch. Water twice, then Fire: deep feeling, then a fighter worn out by the effort. A woman seated by the sea, then a man with a bandaged head still guarding his wands.
+Try the method on a pairing that exists only on paper: the Queen of Cups next to the Nine of Wands. A Queen then a nine: inner mastery, then the last stretch. Water twice, then Fire: deep feeling, then a fighter worn out by the effort. A woman seated by the sea, then a man with a bandaged head still guarding his wands.
 
-Out loud, you might say: “You’re the one people come to with their feelings, and you’ve been holding the line for a long time. You’re tired, and some of what you carry isn’t yours.” Then ask whether that lands. If it does, let the person say how, in their own words. If it doesn’t, it’s a miss, and it goes in the notebook as one.
+Out loud, you might say: “You’re the one people come to with their feelings, and you’ve been holding the line for a long time. You’re tired, and some of what you carry isn’t yours.” Then ask whether they recognise the tiredness. If they do, let them say how, in their own words. If they don’t, I’d call it a miss and log it.

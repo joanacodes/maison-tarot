@@ -51,7 +51,7 @@ On ne voit jamais son visage. On voit ce qu’il voit. **Le Trois de Bâtons, c�
 
 ## Par le nombre : trois {#nombre}
 
-**trois — créer, célébrer, le premier résultat.** [Trois](/fr/bibliotheque/numerologie/chiffre-3/), c’est la cadence : la machine qui tourne, le contrat qui marche. Après l’hésitation du Deux, quelque chose a été envoyé, et ça tient. Dans l’histoire d’Instagram, c’est le lancement : les gens s’inscrivent, publient, reviennent, et la machine tourne sans qu’on la pousse.
+[Trois](/fr/bibliotheque/numerologie/chiffre-3/), c’est la cadence : la machine qui tourne, le contrat qui marche. Après l’hésitation du Deux, quelque chose a été envoyé, et ça tient. Dans l’histoire d’Instagram, c’est le lancement : les gens s’inscrivent, publient, reviennent, et la machine tourne sans qu’on la pousse.
 
 Mon conseil devant un 3 : terminez un projet avant d’en commencer un autre — et sur cette carte, il vise juste. Un homme qui a vu partir ses premiers bateaux imagine déjà la flotte suivante. Le revers du 3, c’est exactement ça : lancer du neuf avant que le reste soit rentré au port, et une certaine solitude en haut de la falaise.
 
@@ -69,7 +69,7 @@ La cape verte ajoute la croissance : ce qu’il a envoyé doit revenir plus gran
 
 ## Par l’astrologie : Soleil en Bélier {#astrologie}
 
-Dans la tradition Golden Dawn, le Trois de Bâtons correspond au Soleil en Bélier, deuxième décan du signe, avec le titre de « Seigneur de la Force établie » (Lord of Established Strength). Le [Soleil](/fr/bibliotheque/astrologie/soleil/), c’est le centre d’un thème, ce qu’une personne veut montrer ; le Bélier dit « je suis » et passe le premier. Ensemble : une initiative devenue visible, et contente de l’être.
+Dans la tradition Golden Dawn, le Trois de Bâtons correspond au Soleil en Bélier, deuxième décan du signe. Le [Soleil](/fr/bibliotheque/astrologie/soleil/), c’est le centre d’un thème, ce qu’une personne veut montrer ; le Bélier dit « je suis » et passe le premier. Ensemble : une initiative devenue visible, et contente de l’être.
 
 La clé colle au dessin — un homme en pleine lumière, au premier plan de sa propre histoire. Elle reste facultative : le jaune vous a déjà dit la même chose.
 
@@ -85,8 +85,8 @@ Renversé, l’attente s’aigrit. Les bateaux sont en retard, ou ne sont jamais
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Trois de Bâtons à côté du Quatre d’Épées. Les clés de lecture d’abord. Le nombre : trois, puis quatre — ça tourne, puis ça se pose. L’élément : le Feu, puis l’Air — l’élan, puis la pensée. Les couleurs : le jaune ensoleillé du Trois, puis la pierre pâle du Quatre d’Épées, un gisant aux mains jointes sous un vitrail.
+Entraînez-vous sur ce cas d’école : le Trois de Bâtons, bateaux déjà au large, sort à côté du Quatre d’Épées. Le nombre : trois, puis quatre — ça tourne, puis ça se pose. L’élément : le Feu, puis l’Air — l’élan, puis la pensée. Les couleurs : le jaune ensoleillé du Trois, puis la pierre pâle du Quatre d’Épées, un gisant aux mains jointes sous un vitrail.
 
 La phrase que je dirais à voix haute : « Vous avez envoyé quelque chose récemment — un projet, une candidature, une proposition — et maintenant vous attendez. Vous n’avez pas besoin d’en faire plus pour l’instant. Vous avez besoin de vous reposer pendant que ça voyage. »
 
-Ensuite je demande si ça parle. Si oui, je demande ce qu’on a envie de faire au lieu de se reposer, parce que c’est souvent là que se cache la prochaine erreur. Si non, ça va dans le carnet comme un raté. Le nombre, l’élément, les couleurs, une phrase, puis la vérification : cet ordre, c’est [la méthode](/fr/methode/), et il marche sur n’importe quelle paire de cartes.
+Ensuite, je demande si la personne attend effectivement quelque chose. Si oui, je lui demande ce qu’elle a envie de faire au lieu de se reposer, parce que c’est souvent là que se cache la prochaine erreur. Si non, la phrase va dans le carnet comme un raté. Le nombre, l’élément, les couleurs, une phrase, puis la vérification : cet ordre, c’est [la méthode](/fr/methode/), et il marche sur n’importe quelle paire de cartes.

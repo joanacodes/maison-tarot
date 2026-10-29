@@ -48,9 +48,9 @@ Above them rises a staff wound with two snakes — the caduceus of Hermes, the m
 
 ## By number: two {#number}
 
-**two — to bind, to weigh, to cooperate.** Two is the contract: two parties, one bond, and the conditions that come with it. In the Two of Cups the contract is emotional. A love that becomes mutual, a friendship that’s chosen, a partnership in which people like each other as well as work together.
+Two is the contract, and in the Two of Cups the contract is emotional. A love that becomes mutual, a friendship that’s chosen, a partnership in which people like each other as well as work together.
 
-The advice of [number two](/library/numerology/number-2/), in my notes: read the contract, weigh the pros and cons. In love that sounds unromantic, and yet it’s what the card shows — they look at each other before they drink. In the Instagram story, 2 is the founders signing with their first investors. The minus of 2 is stubbornness, the ego that waits for the other person to come all the way across.
+In love, the advice of [number two](/library/numerology/number-2/) — read the contract, weigh the pros and cons — sounds unromantic, and yet it’s what the card shows: they look at each other before they drink. In the Instagram story, 2 is the founders signing with their first investors. The minus of 2 is stubbornness, the ego that waits for the other person to come all the way across.
 
 ## By element: Water {#element}
 
@@ -66,7 +66,7 @@ Read the colours before the card: calm feeling, joy, honesty — and a passion h
 
 ## By astrology: Venus in Cancer {#astrology}
 
-In the Golden Dawn tradition, the Two of Cups is the first decan of Cancer, ruled by Venus, and its title is the Lord of Love. Venus says what you love and how you love. [Cancer](/library/astrology/cancer/) says *I feel*: the nurturer, the one who makes a home liveable. Together: a love that wants a home, care given and received, attachment more than conquest.
+In the Golden Dawn tradition, the Two of Cups is the first decan of Cancer, ruled by Venus. Venus says what you love and how you love. [Cancer](/library/astrology/cancer/) says *I feel*: the nurturer, the one who makes a home liveable. Together: a love that wants a home, care given and received, attachment more than conquest.
 
 Optional, as always: if astrology isn’t one of your lenses, the number and the element have already said it.
 
@@ -82,8 +82,8 @@ Next to [the Lovers](/library/tarot-cards/the-lovers/), the bond turns into a ch
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Two of Cups next to the [Eight of Pentacles](/library/tarot-cards/eight-of-pentacles/). Lenses first. Two then eight: a bond, then mastery and steady effort. Water then Earth: a feeling that wants to become something concrete. Colours: the soft blue of the Two beside the yellow pentacles and the red hose of a craftsman bent over his bench.
+Put the Two of Cups beside the [Eight of Pentacles](/library/tarot-cards/eight-of-pentacles/) as an exercise, with nobody real behind it. Two then eight: a bond, then mastery and steady effort. Water then Earth: a feeling that wants to become something concrete. Colours: the soft blue of the Two beside the yellow pentacles and the red hose of a craftsman bent over his bench.
 
 The sentence I’d say out loud: “There’s someone you work well with — a colleague, a partner, maybe a friend — and what you share is turning into something you build together.” I’d add that it isn’t necessarily a romance, because the Two of Cups tempts everyone to hear love.
 
-Then I check: “Does someone come to mind?” I let the person answer and don’t supply the name. If nothing fits, it’s a miss, and it goes in my notebook as one.
+Then I check: “Does someone come to mind?” I let the person answer and don’t supply the name. If no name comes to mind, it’s a miss, written down as one.

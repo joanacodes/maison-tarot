@@ -48,13 +48,13 @@ Waite le décrit « gracieux, mais pas guerrier », chevauchant tranquillement. 
 
 ## Par le nombre : le Cavalier {#nombre}
 
-**le Cavalier — l’action, la quête, l’excès.** Chaque [Cavalier](/fr/bibliotheque/numerologie/cavalier/) est son élément en mouvement, et le cheval dit comment : celui des Bâtons se cabre, celui des Épées charge, celui des Pentacles ne bouge pas, celui des Coupes avance au pas. C’est le plus doux des quatre. Le conseil du Cavalier, c’est d’agir sans foncer, et de vérifier la direction avant la vitesse — ce que celui-ci fait par nature.
+[Le Cavalier](/fr/bibliotheque/numerologie/cavalier/), c’est ici l’Eau en mouvement, et son cheval avance au pas : l’allure la plus douce des quatre. Le rang demande aux Cavaliers d’agir sans foncer, et celui-ci le fait par nature.
 
-L’excès d’un Cavalier, c’est sa qualité poussée trop loin. Ici, la qualité, c’est le romantisme et l’imagination. L’excès, c’est une vie passée en chemin vers quelqu’un, sans jamais tout à fait arriver : conter fleurette, et ne jamais frapper à la porte.
+Sa qualité, c’est le romantisme et l’imagination ; poussée trop loin, elle devient une vie passée en chemin vers quelqu’un, sans jamais tout à fait arriver : conter fleurette, et ne jamais frapper à la porte.
 
 ## Par l’élément : Eau {#element}
 
-La famille, c’est l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les émotions, les relations. Le rang ajoute l’[Air](/fr/bibliotheque/quatre-elements/element-air/), comme pour tous les Cavaliers : le mental, la communication, les idées. L’Air d’Eau, c’est un sentiment mis en mots — une lettre d’amour, une déclaration, une idée artistique portée vers ceux à qui elle est destinée. C’est la coupe tendue : une émotion devenue message.
+Ici, l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) des émotions et des relations reçoit une part d’[Air](/fr/bibliotheque/quatre-elements/element-air/), comme chez tous les Cavaliers : le mental, la communication, les idées. L’Air d’Eau, c’est un sentiment mis en mots — une lettre d’amour, une déclaration, une idée artistique portée vers ceux à qui elle est destinée. C’est la coupe tendue : une émotion devenue message.
 
 L’Air, c’est aussi ce qui passe sans rester. Le cours d’eau devant lui est l’épreuve de la carte : une offre faite en paroles doit encore traverser l’eau pour arriver.
 
@@ -66,7 +66,7 @@ Le cheval est [blanc](/fr/bibliotheque/couleurs-tarot/blanc/) : la pureté, l’
 
 À l’endroit : une offre faite avec le cœur. Une proposition, une invitation, une réconciliation, quelqu’un qui arrive avec des fleurs — ou un projet créatif que vous portez vers ceux qui vont le recevoir. Ça bouge, mais au pas. **Le Cavalier de Coupes est sincère quand il se met en route ; toute la question est de savoir s’il traverse la rivière.**
 
-Renversé, la même offre est freinée ou excessive. Freinée : la déclaration répétée devant le miroir et jamais faite, le cavalier qui tourne des mois au bord de l’eau. Excessive : le charme pour le charme — des promesses qui font du bien à faire, une histoire d’amour avec l’idée de quelqu’un plus qu’avec la personne.
+Renversé, l’offre est soit retenue, soit distribuée trop facilement. Freinée : la déclaration répétée devant le miroir et jamais faite, le cavalier qui tourne des mois au bord de l’eau. Excessive : le charme pour le charme — des promesses qui font du bien à faire, une histoire d’amour avec l’idée de quelqu’un plus qu’avec la personne.
 
 À côté du [Deux de Coupes](/fr/bibliotheque/cartes-tarot/deux-de-coupes/), l’offre est reçue : deux coupes se rencontrent. À côté du [Sept de Coupes](/fr/bibliotheque/cartes-tarot/sept-de-coupes/), l’imagination l’emporte sur la réalité — de jolies visions, peu de substance. À côté du [Cavalier de Bâtons](/fr/bibliotheque/cartes-tarot/cavalier-de-batons/), le cavalier au pas croise celui qui se cabre, et la question devient : est-ce un sentiment ou un désir ? Un [tirage amour qui vous lit, vous, plutôt que l’autre](/fr/blog/tirage-tarot-amour/) est un bon endroit pour la poser.
 
@@ -74,6 +74,6 @@ Renversé, la même offre est freinée ou excessive. Freinée : la déclaration 
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Cavalier de Coupes à côté du Huit de Bâtons. Les clés de lecture d’abord. Un Cavalier puis un huit : l’action, puis quelque chose d’établi qui file. L’Air d’Eau, puis le Feu : un sentiment mis en mots, puis la vitesse. Un cheval blanc au pas, puis des bâtons qui volent dans un ciel dégagé.
+Placez le Cavalier de Coupes à côté du Huit de Bâtons, et lisez la paire pour vous exercer. Un Cavalier puis un huit : l’action, puis quelque chose d’établi qui file. L’Air d’Eau, puis le Feu : un sentiment mis en mots, puis la vitesse. Un cheval blanc au pas, puis des bâtons qui volent dans un ciel dégagé.
 
-À voix haute, cela pourrait donner : « Quelqu’un est sur le point de dire ce qu’il ressent — peut-être vous — et, une fois que ce sera dit, les choses iront bien plus vite que cette approche lente ne le laissait croire. » Puis demandez si ça parle. Si la personne dit non, c’est un raté : notez-le, et résistez à la troisième carte qui viendrait le sauver.
+À voix haute, cela pourrait donner : « Quelqu’un est sur le point de dire ce qu’il ressent — peut-être vous — et, une fois que ce sera dit, les choses iront bien plus vite que cette approche lente ne le laissait croire. » Puis demandez si quelqu’un s’apprête à parler. Si la personne dit non, c’est un raté : notez-le, et résistez à la troisième carte qui viendrait le sauver.

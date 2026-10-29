@@ -48,9 +48,9 @@ At their feet lies the harvest: a pumpkin, grapes, vine leaves, and on the left 
 
 ## By number: three {#number}
 
-**three — to create, to celebrate, the first result.** Three is the machine running: after the bond of 2, something works and it shows. In my notes, 3 is also “siblings on good terms”, and that’s this card exactly — people who get on, a group that clicks. In the Instagram story, 3 is the launch that works: people sign up, post, come back.
+Three is the machine running: after the bond of 2, something works and it shows. In my notes, 3 is also “siblings on good terms”, and that’s this card exactly — people who get on, a group that clicks. In the Instagram story, 3 is the launch that works — and, as after a good party, people come back.
 
-The advice of [number three](/library/numerology/number-3/) is to finish a project before starting another. At a party that sounds odd, and yet the Three of Cups is the moment ideas fly round the table at midnight — a trip, a business, a band. The minus of 3 is exactly that: the next thing started before this one is finished, and the loneliness, sometimes the betrayal, that follows when the group scatters.
+At a party, the advice of [number three](/library/numerology/number-3/) sounds odd: finish a project before starting another. And yet the Three of Cups is the moment ideas fly round the table at midnight — a trip, a business, a band. The minus of 3 is exactly that: the next thing started before this one is finished, and the loneliness, sometimes the betrayal, that follows when the group scatters.
 
 ## By element: Water {#element}
 
@@ -66,7 +66,7 @@ Before the card: joy, movement, warmth, and a harvest on the ground — the cele
 
 ## By astrology: Mercury in Cancer {#astrology}
 
-In the Golden Dawn tradition, the Three of Cups is the second decan of Cancer, ruled by Mercury; its title is the Lord of Abundance. [Mercury](/library/astrology/mercury/) is how you think and speak. Cancer is *I feel*, the sign of the home. Together: the conversation of people who feel at home with each other — news shared, stories told, laughter round a table that has lasted all evening.
+In the Golden Dawn tradition, the Three of Cups is the second decan of Cancer, ruled by [Mercury](/library/astrology/mercury/). Cancer is *I feel*, the sign of the home; Mercury brings the words. Together: the conversation of people who feel at home with each other — news shared, stories told, laughter round a table that has lasted all evening.
 
 Optional, as always: you lose nothing by leaving it aside.
 
@@ -82,7 +82,7 @@ Next to the [Three of Swords](/library/tarot-cards/three-of-swords/), you see th
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Three of Cups next to the [Three of Pentacles](/library/tarot-cards/three-of-pentacles/). Lenses first. Two threes: the machine is running, twice. Water then Earth: something felt becoming something built. Colours: the red, white and brown of the dance beside the grey stone of a church, where three people are discussing a piece of work.
+Picture the dancers of the Three of Cups next to the [Three of Pentacles](/library/tarot-cards/three-of-pentacles/), in a spread made up for this page. Two threes: the machine is running, twice. Water then Earth: something felt becoming something built. Colours: the red, white and brown of the dance beside the grey stone of a church, where three people are discussing a piece of work.
 
 The sentence I’d say out loud: “There’s a group of people you love being with, and you’re about to make something with them — a project, an event, maybe a small business.” Then the advice of 3, gently: finish what you start with them before adding the next idea.
 

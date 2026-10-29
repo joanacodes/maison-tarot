@@ -49,9 +49,9 @@ Trois jeunes femmes dansent en rond, chacune levant une coupe dorée au-dessus d
 
 ## Par le nombre : trois {#nombre}
 
-**trois — créer, célébrer, le premier résultat.** Le 3, c’est la machine qui tourne : après le lien du 2, quelque chose fonctionne, et ça se voit. Dans mes notes, le 3, c’est aussi « des frères et sœurs qui s’entendent bien », et c’est exactement cette carte — des gens qui s’entendent, une bande où le courant passe. Dans l’histoire d’Instagram, le 3, c’est le lancement qui marche : les gens s’inscrivent, publient, reviennent.
+Le 3, c’est la machine qui tourne : après le lien du 2, quelque chose fonctionne, et ça se voit. Dans mes notes, le 3, c’est aussi « des frères et sœurs qui s’entendent bien », et c’est exactement cette carte — des gens qui s’entendent, une bande où le courant passe. Dans l’histoire d’Instagram, le 3, c’est le lancement qui marche — et, comme après une bonne soirée, les gens reviennent.
 
-Le conseil du [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/), c’est de finir un projet avant d’en commencer un autre. En pleine fête, ça paraît étrange, et pourtant le Trois de Coupes est le moment où les idées fusent autour de la table à minuit — un voyage, une boîte, un groupe de musique. Le revers du 3, c’est précisément ça : le projet suivant lancé avant que celui-ci soit fini, et la solitude, parfois la trahison, quand la bande se disperse.
+En pleine fête, le conseil du [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/) paraît étrange : finir un projet avant d’en commencer un autre. Et pourtant, le Trois de Coupes est le moment où les idées fusent autour de la table à minuit — un voyage, une boîte, un groupe de musique. Le revers du 3, c’est précisément ça : le projet suivant lancé avant que celui-ci soit fini, et la solitude, parfois la trahison, quand la bande se disperse.
 
 ## Par l’élément : Eau {#element}
 
@@ -67,7 +67,7 @@ Avant même la carte : de la joie, du mouvement, de la chaleur, et une récolte 
 
 ## Par l’astrologie : Mercure en Cancer {#astrologie}
 
-Dans la tradition Golden Dawn, le Trois de Coupes correspond au deuxième décan du Cancer, gouverné par Mercure ; son titre est « Seigneur de l’Abondance ». [Mercure](/fr/bibliotheque/astrologie/mercure/), c’est la façon de penser et de parler. Le Cancer, c’est *Je sens*, le signe du foyer. Ensemble : la conversation de gens qui se sentent chez eux les uns avec les autres — des nouvelles qu’on se donne, des histoires qu’on se raconte, des rires autour d’une tablée qui s’éternise.
+Dans la tradition Golden Dawn, le Trois de Coupes correspond au deuxième décan du Cancer, gouverné par [Mercure](/fr/bibliotheque/astrologie/mercure/). Le Cancer, c’est *Je sens*, le signe du foyer ; Mercure apporte les mots. Ensemble : la conversation de gens qui se sentent chez eux les uns avec les autres — des nouvelles qu’on se donne, des histoires qu’on se raconte, des rires autour d’une tablée qui s’éternise.
 
 Facultatif, comme toujours : vous ne perdez rien à la laisser de côté.
 
@@ -83,7 +83,7 @@ Renversé, le Trois de Coupes voit son cercle se briser ou déborder. Trop de f�
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Trois de Coupes à côté du [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/). Les clés de lecture d’abord. Deux 3 : la machine tourne, deux fois. L’Eau puis la Terre : quelque chose de ressenti qui devient quelque chose de construit. Les couleurs : le rouge, le blanc et le brun de la danse à côté de la pierre grise d’une église où trois personnes discutent d’un ouvrage.
+Représentez-vous les danseuses du Trois de Coupes à côté du [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/), dans un tirage créé de toutes pièces pour cette page. Deux 3 : la machine tourne, deux fois. L’Eau puis la Terre : quelque chose de ressenti qui devient quelque chose de construit. Les couleurs : le rouge, le blanc et le brun de la danse à côté de la pierre grise d’une église où trois personnes discutent d’un ouvrage.
 
 La phrase que je dirais à voix haute : « Il y a un groupe de personnes avec qui vous adorez être, et vous êtes sur le point de faire quelque chose avec elles — un projet, un événement, une association, peut-être une petite entreprise. » Puis le conseil du 3, avec douceur : finissez ce que vous commencez avec elles avant d’ajouter l’idée suivante.
 

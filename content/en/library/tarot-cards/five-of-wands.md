@@ -48,9 +48,9 @@ Look closer: no one is hurt, no one is down, no blow really lands. It could be a
 
 ## By number: five {#number}
 
-**five — conflict, trial, making do with what’s left.** [Five](/library/numerology/number-5/) is the trial: conflict, trying, not being afraid to fail or to be disliked, doing several things at once, accepting mistakes. In my own notes, the Five of Wands is my example of a 5 where people seem to fight but aren’t coordinated — the whole drawing.
+[Five](/library/numerology/number-5/) is the trial: conflict, trying, not being afraid to fail or to be disliked, doing several things at once, accepting mistakes. In my own notes, the Five of Wands is my example of a 5 where people seem to fight but aren’t coordinated — the whole drawing.
 
-In the Instagram story, 5 is Facebook arriving to buy, or IGTV flopping: either way, you find out what holds. My advice for a 5 is to avoid useless conflicts and to be honest with yourself and the situation. Its minus is denial — telling yourself there’s no problem while five wands knock together over your head.
+In the Instagram story, 5 is Facebook arriving to buy, or IGTV flopping: either way, a test of what the company is made of. My advice for a 5 is to avoid useless conflicts and to be honest with yourself and the situation. Its minus is denial — telling yourself there’s no problem while five wands knock together over your head.
 
 ## By element: Fire {#element}
 
@@ -66,7 +66,7 @@ On the ground, a patchwork of outfits that never match, like five people who nev
 
 ## By astrology: Saturn in Leo {#astrology}
 
-In the Golden Dawn tradition, the Five of Wands is Saturn in Leo, the first decan of the sign, titled Lord of Strife. [Leo](/library/astrology/leo/) is “I will”: play, challenge, pride, wanting to be seen. [Saturn](/library/astrology/saturn/) is the hardest lesson — limits, structure, the work that takes years. Saturn in Leo is pride meeting a limit: everyone wants to shine, and there isn’t room for five stars on one stage.
+In the Golden Dawn tradition, the Five of Wands is Saturn in Leo, the first decan of the sign. [Leo](/library/astrology/leo/) is “I will”: play, challenge, pride, wanting to be seen. [Saturn](/library/astrology/saturn/) is the hardest lesson — limits, structure, the work that takes years. Saturn in Leo is pride meeting a limit: everyone wants to shine, and there isn’t room for five stars on one stage.
 
 An optional lens, and a useful one: it turns the brawl into a lesson. The trial isn’t who wins. It’s learning to share the stage.
 
@@ -82,8 +82,8 @@ Next to the [Five of Swords](/library/tarot-cards/five-of-swords/), the conflict
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Five of Wands next to the Ace of Swords. Lenses first. Number: five, then one — the trial, then a fresh start. Element: Fire, then Air — energy, then decision; Air decides best of the four, where Fire is too impulsive. Colours: the patchwork of the Five, then the plain grey of the Ace of Swords, one white hand, one straight blade.
+Let’s invent a spread where all the sparring of the Five of Wands sits beside the Ace of Swords. Number: five, then one — the trial, then a fresh start. Element: Fire, then Air — energy, then decision; Air decides best of the four, where Fire is too impulsive. Colours: the patchwork of the Five, then the plain grey of the Ace of Swords, one white hand, one straight blade.
 
 The sentence I’d say out loud: “There’s a lot of noise around you — a team, a group, a family — and everyone is pushing their own idea. What’s missing isn’t energy. It’s one clear decision, said out loud, and you may be the one placed to make it.”
 
-Then I’d ask whether it lands and, if so, which group it is. If not, it’s a miss and I write it down. Reading two cards like this, lens by lens, is where [learning tarot](/learn-tarot/) starts at Maison Tarot.
+Then I’d check whether a noisy group like that exists in their life, and who’s in it. If not, it’s a miss and I write it down. Reading two cards like this, lens by lens, is where [learning tarot](/learn-tarot/) starts at Maison Tarot.

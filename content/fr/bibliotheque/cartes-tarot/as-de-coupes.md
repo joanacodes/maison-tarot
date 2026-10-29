@@ -63,7 +63,7 @@ L’eau qui bouge, ce sont les émotions fortes, et celle-ci n’est que mouveme
 
 ## Par les couleurs {#couleurs}
 
-Au centre, la coupe est jaune doré. Dans ma grille, le [jaune](/fr/bibliotheque/couleurs-tarot/jaune/), c’est la joie, l’optimisme, l’enfant intérieur. Le [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) des gouttes et du bassin : l’émotion, l’eau, ce qui purifie, la vitalité. Le blanc de la colombe : la pureté, la paix, ce que personne n’a encore touché. Le vert et le rose en bas, sur l’étang : la croissance, la vie qui repart.
+Au centre, la coupe est jaune doré, et dans ma grille, le [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) veut dire la joie et l’optimisme. Le [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) des gouttes et du bassin : l’émotion, l’eau, ce qui purifie, la vitalité. Le blanc de la colombe : la pureté, la paix, ce que personne n’a encore touché. Le vert et le rose en bas, sur l’étang : la croissance, la vie qui repart.
 
 Reste le gris du fond : la neutralité, aucune volonté particulière. Avant d’avoir lu un mot sur la carte, vous avez déjà une joie qui ne vise encore personne, une eau claire, et un espace vide qui attend quelqu’un.
 

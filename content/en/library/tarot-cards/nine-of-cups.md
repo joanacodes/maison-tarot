@@ -48,7 +48,7 @@ Look where the cups are: behind him, not in his hands. He isn’t drinking from 
 
 ## By number: nine {#number}
 
-**nine — near completion, almost there.** [Nine is the home stretch](/library/numerology/number-9/): the end of a stage, the last efforts, introspection. My note for every nine is “almost there — keep moving”, and this card sits right on that line. The man has his nine cups and he has sat down. A nine that sits too comfortably forgets there’s a ten.
+[Nine is the home stretch](/library/numerology/number-9/): the end of a stage, the last efforts, introspection. My note for every nine is “almost there — keep moving”, and this card sits right on that line. The man has his nine cups and he has sat down. A nine that sits too comfortably forgets there’s a ten.
 
 Compare it with the Nine of Pentacles, which I read as enjoying what comes, with gratitude for everything you have. Same number, different posture: the woman in her garden is busy with what grows; the man on his bench is turned towards whoever is watching. The risk of this nine has a name — resting on your laurels.
 
@@ -56,7 +56,7 @@ Compare it with the Nine of Pentacles, which I read as enjoying what comes, with
 
 [Water](/library/four-elements/water-element/) is emotion, and here it has been poured into cups and set on a shelf. No river, no sea, no wave: whatever moved has stopped moving. Calm water is settled emotion. That can be peace, a contentment earned after a long stretch. It can also be feeling kept neatly in its place, where it can’t spill on anyone — and can’t reach anyone either.
 
-The archetype of Water is the warm person whose home feels like yours. At his best, this man is that person: he has plenty, and the cups are for the table. At his less good, they’re for display, and the bench seats one.
+At his best, this man is the Water archetype, the warm person whose home feels like yours: he has plenty, and the cups are for the table. At his less good, they’re for display, and the bench seats one.
 
 ## By colours {#colours}
 
@@ -64,15 +64,15 @@ The archetype of Water is the warm person whose home feels like yours. At his be
 
 ## By astrology: Jupiter in Pisces {#astrology}
 
-In the Golden Dawn system, the Nine of Cups is [Jupiter](/library/astrology/jupiter/) in the second decan of Pisces, under the title “Lord of Material Happiness”. Jupiter is expansion, generosity, luck — or what you take for luck — and excess. In watery, believing Pisces, it becomes the feeling that things will turn out well, and the plenty that comes with it.
+In the Golden Dawn system, the Nine of Cups is [Jupiter](/library/astrology/jupiter/) in the second decan of Pisces. Jupiter is expansion, generosity, luck — or what you take for luck — and excess. In watery, believing Pisces, it becomes the feeling that things will turn out well, and the plenty that comes with it.
 
-I distrust Jupiter more than most placements, because it’s the one that makes people say “it’ll be fine”. Keep it here as a reminder rather than a promise: stay humble while things flow. If [astrology](/library/astrology/) isn’t your lens, leave it aside; the number has said the same.
+I distrust Jupiter more than most placements, because it’s the one that makes people say “it’ll be fine”. Keep it here as a reminder rather than a promise: stay humble while things flow. If [astrology](/library/astrology/) isn’t your lens, skip it: the man on his bench has said as much.
 
 ## In a reading {#reading}
 
 Upright: contentment. Something wanted has arrived — a relationship that feels right, a home, recognition, a pleasure you finally allowed yourself. Many readers call it the wish card and stop there; I read the posture too. **Getting what you wanted is the start of a question, not the end of one: now what?**
 
-Reversed, the same satisfaction is slowed down or overdone. Slowed: the wish came true and doesn’t fill you the way you thought — nine cups, and still thirsty. Overdone: contentment turns into smugness, into showing what you have rather than enjoying it, or into sitting so comfortably that the last stretch never gets walked.
+Reversed, the satisfaction sours in one of two ways. Slowed: the wish came true and doesn’t fill you the way you thought — nine cups, and still thirsty. Overdone: contentment turns into smugness, into showing what you have rather than enjoying it, or into sitting so comfortably that the last stretch never gets walked.
 
 Next to the [Ten of Cups](/library/tarot-cards/ten-of-cups/), the shelf opens: what you had for yourself becomes shared. Next to the [Four of Cups](/library/tarot-cards/four-of-cups/) — another man with crossed arms — you have everything and see none of it. Next to [the Sun](/library/tarot-cards/the-sun/), the pride relaxes into plain joy, the kind you don’t need to show. And if a spread fills up with this suit, here’s [what a lot of Cups is telling you](/blog/lots-of-cups-in-a-reading/).
 
@@ -80,6 +80,6 @@ Next to the [Ten of Cups](/library/tarot-cards/ten-of-cups/), the shelf opens: w
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Nine of Cups next to the Eight of Pentacles. Lenses first. Nine then eight: almost at the end of one thing, while another is well under way. Water then Earth: emotional contentment, then hands busy with a craft. A man sitting still, then a man at his workbench.
+Here the example is hypothetical, and so is the person: the Nine of Cups comes out next to the Eight of Pentacles. Nine then eight: almost at the end of one thing, while another is well under way. Water then Earth: emotional contentment, then hands busy with a craft. A man sitting still, then a man at his workbench.
 
-Out loud, you might say: “You have something you wanted, and you’re right to be pleased with it. But you haven’t sat down for good — part of you is working on something else, patiently, piece by piece.” Then ask whether that means anything. If it doesn’t, say so, note the miss, and leave the deck where it is.
+Out loud, you might say: “You have something you wanted, and you’re right to be pleased with it. But you haven’t sat down for good — part of you is working on something else, patiently, piece by piece.” Then ask whether they recognise themselves in it. If they don’t, say so, note the miss, and leave the deck where it is.

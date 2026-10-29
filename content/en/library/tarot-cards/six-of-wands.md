@@ -50,9 +50,9 @@ The sky is a clear light blue, and everything moves one way, the rider higher th
 
 ## By number: six {#number}
 
-**six — harmony regained, exchange.** [Six](/library/numerology/number-6/) is 3 exalted: the machine isn’t only running, it’s fast. Success, triumph, and at last the chance to rest. Harmony regained: after the jumble of the Five, the group has agreed on someone. Exchange: they give him recognition, he gives them a victory to celebrate.
+[Six](/library/numerology/number-6/) is 3 exalted: the machine isn’t only running, it’s fast. Success, triumph, and at last the chance to rest. Harmony regained: after the jumble of the Five, the group has agreed on someone. Exchange: they give him recognition, he gives them a victory to celebrate.
 
-In the Instagram story, 6 is Facebook deciding to invest: what threatened the company becomes what propels it. My advice for a 6 is to stay calm and humble while the results flow. The rider wears one wreath and carries another — a lot of laurel for one man. A 6 goes to the head, and a swollen head makes the mistakes of the 7.
+In the Instagram story, 6 is Facebook deciding to invest: the company is carried forward, like this rider. He wears one wreath and carries another — a lot of laurel for one man. That’s why the advice of 6 weighs so much on this card: stay calm and humble while the results flow, because praise this heavy can turn a head before the next fight.
 
 ## By element: Fire {#element}
 
@@ -68,7 +68,7 @@ The white horse adds peace — a clean win, no blood. The orange tunic is the he
 
 ## By astrology: Jupiter in Leo {#astrology}
 
-In the Golden Dawn tradition, the Six of Wands is Jupiter in Leo, the second decan of the sign, titled Lord of Victory. [Jupiter](/library/astrology/jupiter/) is expansion, confidence, generosity — and excess. [Leo](/library/astrology/leo/) is “I will”: play, challenge, pride, wanting to be seen. Together they’re the drawing: a big win, in public.
+In the Golden Dawn tradition, the Six of Wands is Jupiter in Leo, the second decan of the sign. [Jupiter](/library/astrology/jupiter/) is expansion, confidence, generosity — and excess, like that second wreath. Add [Leo](/library/astrology/leo/), the “I will” of the zodiac, and you have the drawing: a big win, in public.
 
 Keep the lens if it speaks to you. It adds one warning: Jupiter is the planet of “it’ll be fine”, and Leo loves an audience. If astrology isn’t your thing, the two wreaths have said it already.
 
@@ -84,7 +84,7 @@ Next to the [Seven of Wands](/library/tarot-cards/seven-of-wands/), the next ste
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Six of Wands next to the Four of Cups. Lenses first. Number: six, then four — success, then a stability that can turn to boredom. Element: Fire, then Water — public recognition, then private feeling. Colours: the green, red and blue of the procession, then a young man under a tree, arms crossed, ignoring the cup a hand holds out to him from a cloud.
+What would you make of the Six of Wands next to the Four of Cups? Treat it as a practice case. Number: six, then four — success, then a stability that can turn to boredom. Element: Fire, then Water — public recognition, then private feeling. Colours: the green, red and blue of the procession, then a young man under a tree, arms crossed, ignoring the cup a hand holds out to him from a cloud.
 
 The sentence I’d say out loud: “You’ve had a success recently, and people noticed. But inside it doesn’t feel the way you imagined — something about it leaves you flat, and you might be missing a new offer because of it.”
 

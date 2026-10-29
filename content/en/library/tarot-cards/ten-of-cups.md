@@ -48,13 +48,13 @@ One detail makes the card. The children aren’t looking at the rainbow: Waite, 
 
 ## By number: ten {#number}
 
-**ten — the end of the cycle, transition.** [Ten closes the cycle](/library/numerology/number-10/): the corridor between two rooms, freedom, breathing out. For the Cups, the emotional cycle closes in the best way it can. My own note for this card is short: happiness, family — and the wish to make one.
+[Ten closes the cycle](/library/numerology/number-10/) and opens onto freedom, onto breathing out. For the Cups, the emotional cycle closes in the best way it can. My own note for this card is short: happiness, family — and the wish to make one.
 
-Every ten has its other side, though: it can be short-lived, and it tells you to start something else. The drawing says so too, since a rainbow is the most fleeting thing in the sky. That isn’t a reason to distrust the moment. It’s a reason to live it while it’s there. In the Instagram story I use for the cycle, 10 is the point where the platform has become something else entirely: a cycle closes, and another begins with its own 1.
+Every ten has its other side, though: it can be short-lived, and it tells you to start something else. The drawing says so too, since a rainbow is the most fleeting thing in the sky. That isn’t a reason to distrust the moment. It’s a reason to live it while it’s there. In the Instagram story I use for the cycle, 10 is the platform people no longer recognise: one cycle closes, and another begins with its own 1.
 
 ## By element: Water {#element}
 
-[Water](/library/four-elements/water-element/) here is calm and moving at once: the river runs, unhurried, through the land. That’s settled emotion that still flows — neither stagnant nor stormy. It’s Water’s archetype at its best: the warm place where people feel at home.
+[Water](/library/four-elements/water-element/) here is calm and moving at once: the river runs, unhurried, through the land. That’s settled emotion that still flows — neither stagnant nor stormy, the kind that makes a house feel like home.
 
 Water also seeps, slowly, into foundations. Here it has seeped the right way. What gets tended for years — patience, apologies, meals shared, quarrels settled before bed — ends up holding the house up.
 
@@ -64,7 +64,7 @@ A [blue](/library/tarot-colours/blue/) sky: emotion, vitality, the feminine, wha
 
 ## By astrology: Mars in Pisces {#astrology}
 
-In the Golden Dawn system, the Ten of Cups is [Mars](/library/astrology/mars/) in the last decan of Pisces, under the title “Lord of Perfected Success”. Mars is action, desire, the way you take what you want. In Pisces, that energy goes into protecting and providing rather than fighting. It’s an odd pairing for such a peaceful card, and it says something useful: this happiness was worked for.
+In the Golden Dawn system, the Ten of Cups is [Mars](/library/astrology/mars/) in the last decan of Pisces. Mars is action, desire, the way you take what you want. In Pisces, that energy goes into protecting and providing rather than fighting. It’s an odd pairing for such a peaceful card, and it says something useful: this happiness was worked for.
 
 Keep it if astrology talks to you; drop it if not. The number and the element are enough.
 
@@ -72,7 +72,7 @@ Keep it if astrology talks to you; drop it if not. The number and the element ar
 
 Upright: a home that works. A family — of birth, of choice, of friends — at ease. A relationship that has grown into a household. A peace that arrives after years of effort. **The card asks you to notice the happiness already in the house, not only the one in the sky.**
 
-Reversed, the same happiness is slowed down or overdone. Slowed: the family photo kept up for others, everyone smiling at the rainbow and nobody talking. Overdone: waiting for the perfect picture — the house, the partner, the children, all at once — before allowing yourself to enjoy what is.
+Reversed, the happiness is either staged or postponed. Slowed: the family photo kept up for others, everyone smiling at the rainbow and nobody talking. Overdone: waiting for the perfect picture — the house, the partner, the children, all at once — before allowing yourself to enjoy what is.
 
 People sometimes hope this card announces a pregnancy or a wedding. That hope is tender, and I understand why it’s brought to the cards. Still, [pregnancy is one of the subjects I don’t read on](/disclaimers/#refusals): a card is the wrong tool to carry that question, and a doctor is the right one. What the Ten of Cups can hold is the wish itself, and the home you’re already making.
 
@@ -82,6 +82,6 @@ Next to the [Ten of Pentacles](/library/tarot-cards/ten-of-pentacles/), the happ
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Ten of Cups next to the Six of Swords. Lenses first. Ten then six: a cycle closing well, then a stage where things run and can rest. Water then Air: a home full of feeling, then a decision. A family under a rainbow, then a boat crossing calmer water.
+Give the Ten of Cups and the Six of Swords a dry run together, as if someone had drawn them. Ten then six: a cycle closing well, then a stage where things run and can rest. Water then Air: a home full of feeling, then a decision. A family under a rainbow, then a boat crossing calmer water.
 
-Out loud, you might say: “There’s a home that works, and you’re about to move it — a crossing, a new place, quieter water ahead.” Then ask whether that lands. If the person says no, take it as a miss and write it down. No extra card to save it.
+Out loud, you might say: “There’s a home that works, and you’re about to move it — a crossing, a new place, quieter water ahead.” Then ask whether a move is in the air. If the answer is no, that’s a miss for the notebook. No extra card to save it.
