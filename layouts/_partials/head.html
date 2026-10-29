@@ -38,8 +38,8 @@
 {{- end }}{{ end }}
 <meta name="robots" content="{{ if .Params.noindex }}noindex, follow{{ else }}index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1{{ end }}">
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#0a0a0a" media="(prefers-color-scheme: dark)">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="sitemap" type="application/xml" href="/sitemap.xml">
+<link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+<link rel="sitemap" type="application/xml" href="{{ "sitemap.xml" | relURL }}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&family=DM+Mono:wght@400&display=swap">

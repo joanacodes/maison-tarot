@@ -1,0 +1,7 @@
+{{- /* Le site est servi depuis un sous-dossier (joanacodes.github.io/maison-tarot/). Un lien interne écrit depuis la racine (« /blog/… », « /fr/blog/… ») doit recevoir ce préfixe, sinon il pointe hors du site. relURL l'ajoute, et ne change rien si le site est un jour servi à la racine d'un domaine. */ -}}
+{{- $href := .Destination -}}
+{{- if and (strings.HasPrefix $href "/") (not (strings.HasPrefix $href "//")) -}}
+  {{- $href = strings.TrimPrefix "/" $href | relURL -}}
+{{- end -}}
+<a href="{{ $href | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text }}</a>
+{{- /* */ -}}
