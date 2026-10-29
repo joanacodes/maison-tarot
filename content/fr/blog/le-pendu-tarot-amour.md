@@ -27,7 +27,7 @@ Un détail du dessin compte : son visage est calme, et la lumière brille autour
 
 La question qui accompagne cette lame est presque toujours « Combien de temps dois-je encore attendre ? » — ou sa cousine plus triste, « Est-ce que l’autre va enfin se décider ? ». Je la comprends. Attendre est l’une des choses les plus dures en amour, parce que vos journées se retrouvent entre les mains de quelqu’un d’autre, et qu’une date vous donnerait au moins quelque chose à quoi vous raccrocher.
 
-Je ne lis pas ce que quelqu’un d’autre va décider, et je ne donne pas de dates. À mon propre décompte, environ un tirage sur dix rate, et c’est sur le timing que les ratés se concentrent ; [j’explique pourquoi dans un article à part](/fr/blog/tarot-quand/). Une date sortie d’une carte vous donnerait quelque chose à attendre, pas quelque chose à faire. Et l’autre personne n’est pas dans la pièce : son choix lui appartient.
+Je ne lis pas ce que quelqu’un d’autre va décider, et je ne donne pas de dates. Un tirage n’est pas à son meilleur sur ce que les prochains jours vont apporter, et quand quelque chose arrive, c’est souvent autrement que vous l’imaginiez ; [j’explique pourquoi dans un article à part](/fr/blog/tarot-quand/). Une date sortie d’une carte vous donnerait quelque chose à attendre, pas quelque chose à faire. Et l’autre personne n’est pas dans la pièce : son choix lui appartient.
 
 Certaines personnes reviennent avec la même question, encore et encore, et c’est souvent le Pendu qui est sur la table quand elles reviennent. Si vous l’avez tiré trois fois cette semaine en posant la même question, ce ne sont pas les cartes qui sont coincées : c’est la question ([ce que les tirages à répétition vous font](/fr/blog/combien-de-temps-entre-deux-tirages/)).
 

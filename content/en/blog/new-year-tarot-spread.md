@@ -41,7 +41,7 @@ That card is the same for everyone, so treat it as a conversation starter, not y
 
 ## How to read a month card without turning it into a promise {#no-promises}
 
-Here’s what I read in a spread like this, and what I don’t promise. I read themes: where your attention is likely to be pulled, what kind of effort a month asks for, what to keep an eye on. I don’t promise events, dates or outcomes. Timing is where readings slip most easily, and [why tarot is weakest on dates](/blog/tarot-timing/) explains what I’ve learned there.
+Here’s what I read in a spread like this, and what I don’t promise. I read themes: where your attention is likely to be pulled, what kind of effort a month asks for, what to keep an eye on. I don’t promise events, dates or outcomes. Exact dates are beyond what cards do well, and [why tarot is weakest on dates](/blog/tarot-timing/) explains what I’ve learned there.
 
 So the Ten of Swords in March isn’t “March will be a disaster”. It’s “in March, notice what is finishing, even painfully” — and the drawing has a dawn on its horizon. The Sun in August isn’t a guaranteed holiday; it’s an invitation to be seen.
 

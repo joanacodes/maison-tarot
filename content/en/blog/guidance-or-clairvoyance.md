@@ -37,7 +37,7 @@ Here they are, in plain terms, with the French word beside each.
 
 ## The one I use: reading {#reading}
 
-I haven't got a crystal ball, and I don't sell what one would show. Things about what's ahead do come up in readings sometimes, and when they do I say them. But I don't build a reading on them, I don't promise them, and timing is [where I miss most](/blog/tarot-timing/). I'd rather look at the present: the surest way to a future you enjoy is to anchor yourself in it.
+I haven't got a crystal ball, and I don't sell what one would show. Things about what's ahead do come up in readings sometimes, and when they do I say them. But I don't build a reading on them, I don't promise them, and [dates are not what tarot does best](/blog/tarot-timing/). I'd rather look at the present: the surest way to a future you enjoy is to anchor yourself in it.
 
 I don't call what I do clairvoyance, because I don't claim to see. I keep count instead, and about one reading in ten misses, by my own tally. I don't call it guidance, because I don't want to steer anyone. And I don't call it a gift, because there isn't one to have: [anyone can learn this](/blog/do-you-need-psychic-abilities/), and teaching it is most of my work.
 

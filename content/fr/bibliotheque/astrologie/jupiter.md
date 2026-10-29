@@ -67,6 +67,6 @@ Jupiter dit où l’on a de la chance, ou ce qu’on prend pour de la chance : l
 
 ## Hors de mon test {#test}
 
-Jupiter ne faisait pas partie des placements que j’ai comptés [quand j’ai testé mon thème](/fr/blog/j-ai-teste-mon-theme-astral/) : je n’ai donc pas de chiffre pour lui. Je m’en méfie quand même plus que des autres, parce que c’est le placement qui fait dire « ça va aller ». Jupiter sur une carte est utile pour une chose : reconnaître le Six, l’expansion, et se rappeler le conseil qui va avec — rester humble.
+Jupiter ne faisait pas partie des placements que j’ai comptés [quand j’ai testé mon thème](/fr/blog/j-ai-teste-mon-theme-astral/) : je n’ai donc pas de chiffre pour lui. Je l’ajoute quand même quand je lis un thème, pour une raison à moi qui n’a rien à voir avec la chance : [là où se trouve Jupiter, je cherche vos plus grandes difficultés](/fr/blog/soleil-lune-ascendant/#jupiter). Jupiter sur une carte est utile pour une chose : reconnaître le Six, l’expansion, et se rappeler le conseil qui va avec — rester humble.
 
 {{% six %}}

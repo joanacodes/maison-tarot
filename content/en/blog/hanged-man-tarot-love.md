@@ -27,7 +27,7 @@ One detail of the drawing matters: his face is calm, and the light shines around
 
 The question that comes with this card is almost always that one — or its sadder cousin, “Will they make up their mind?” I understand it. Waiting is one of the hardest things in love, because it puts your days in someone else’s hands, and a date would at least give you something to hold.
 
-I don’t read on what someone else will decide, and I don’t give dates. By my own count, about one reading in ten misses, and timing is where the misses gather; [I explain why in a separate article](/blog/tarot-timing/). A date from a card would give you something to wait for, not something to do. And the other person isn’t in the room; their choice belongs to them.
+I don’t read on what someone else will decide, and I don’t give dates. A reading isn’t at its best on what the next few days will bring, and when something does come, it often isn’t the way you pictured it; [I explain why in a separate article](/blog/tarot-timing/). A date from a card would give you something to wait for, not something to do. And the other person isn’t in the room; their choice belongs to them.
 
 Some people come back with the same question again and again, and the Hanged Man is often the card on the table when they do. If you’ve drawn it three times this week asking the same thing, the cards aren’t stuck; the question is ([what repeat readings do to you](/blog/ask-tarot-the-same-question-twice/)).
 

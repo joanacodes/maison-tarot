@@ -70,7 +70,7 @@ The white horse adds peace — a clean win, no blood. The orange tunic is the he
 
 In the Golden Dawn tradition, the Six of Wands is Jupiter in Leo, the second decan of the sign. [Jupiter](/library/astrology/jupiter/) is expansion, confidence, generosity — and excess, like that second wreath. Add [Leo](/library/astrology/leo/), the “I will” of the zodiac, and you have the drawing: a big win, in public.
 
-Keep the lens if it speaks to you. It adds one warning: Jupiter is the planet of “it’ll be fine”, and Leo loves an audience. If astrology isn’t your thing, the two wreaths have said it already.
+Keep the lens if it speaks to you. It adds one warning: Jupiter enlarges whatever it touches, and Leo loves an audience. If astrology isn’t your thing, the two wreaths have said it already.
 
 ## In a reading {#reading}
 

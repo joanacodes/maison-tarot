@@ -66,7 +66,7 @@ Read without the title: something warm and creative in motion, action rising on 
 
 ## By astrology: Jupiter {#astrology}
 
-In the Golden Dawn tradition, the Wheel corresponds to [Jupiter](/library/astrology/jupiter/): expansion, confidence, generosity, excess — luck, or what we take for luck. It’s the placement that makes people say “it’ll be fine”, and that’s why I hold it lightly here.
+In the Golden Dawn tradition, the Wheel corresponds to [Jupiter](/library/astrology/jupiter/): expansion, confidence, generosity, excess — luck, or what we take for luck.
 
 Jupiter is useful on this card for one thing: when things go up, the advice is to stay humble.
 

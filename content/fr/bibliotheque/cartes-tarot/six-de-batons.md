@@ -71,7 +71,7 @@ Le cheval blanc ajoute la paix — une victoire propre, sans sang versé. La tun
 
 Dans la tradition Golden Dawn, le Six de Bâtons correspond à Jupiter en Lion, deuxième décan du signe. [Jupiter](/fr/bibliotheque/astrologie/jupiter/), c’est l’expansion, la confiance, la générosité — et l’excès, comme cette seconde couronne. Ajoutez le [Lion](/fr/bibliotheque/astrologie/lion/), le « je veux » du zodiaque, et vous avez le dessin : une grande victoire, en public.
 
-Gardez la clé si elle vous parle. Elle ajoute un avertissement : Jupiter est la planète du « ça va aller », et le Lion adore le public. Si l’astrologie n’est pas votre truc, les deux couronnes l’ont déjà dit.
+Gardez la clé si elle vous parle. Elle ajoute un avertissement : Jupiter grossit tout ce qu’il touche, et le Lion adore le public. Si l’astrologie n’est pas votre truc, les deux couronnes l’ont déjà dit.
 
 ## En lecture {#lecture}
 

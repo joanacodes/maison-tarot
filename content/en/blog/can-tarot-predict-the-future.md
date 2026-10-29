@@ -19,7 +19,7 @@ Honestly: occasionally, and never in a way anyone can promise.
 
 The [first reading I ever did for a stranger](/blog/first-tarot-reading-story/) is a good example: she told me it didn’t resonate, and three or four days later she texted me that it had all happened.
 
-So something in a reading can point ahead. What I can’t do is tell you when, guarantee that it will, or say it with the certainty a prediction needs. About one reading in ten misses, by my own count, and timing is where I miss most. That isn’t a basis for telling anyone what their life will be.
+So something in a reading can point ahead. What I can’t do is tell you when, guarantee that it will, or say it with the certainty a prediction needs. About one reading in ten misses, by my own count, and when what I saw does happen, it doesn’t always happen the way either of us imagined. That isn’t a basis for telling anyone what their life will be.
 
 There’s a quieter reason too. A prediction changes the person who hears it. Tell someone a new job is coming and they may stop looking, or start looking everywhere; either way, the future they walk into is no longer the one the cards were read on. The present doesn’t shift like that when you name it. It stays still long enough to be looked at.
 
@@ -49,7 +49,7 @@ This is what tarot does better than anything I know: it puts words on something 
 
 Some questions sit outside what a card can hold, and I’d rather say so gently than pretend:
 
-- *When.* Dates and deadlines are where readings slip most. I wrote about it in [tarot and timing](/blog/tarot-timing/).
+- *When.* Dates and deadlines are a reading’s weak spot. I wrote about it in [tarot and timing](/blog/tarot-timing/).
 - *What someone else will do.* Their choices are theirs, and they aren’t in the room. If that’s the question on your mind, there’s [a kinder one to ask](/blog/will-they-come-back-tarot/).
 - *Health, death, pregnancy, court cases, money decisions, curses.* Not because a card can’t fall, but because a wrong word there does real damage. Those belong with a doctor, a lawyer or a financial adviser, and they’re on [the list of things I don’t read on](/disclaimers/#refusals).
 - *What you should do.* A reading can show you something; the choice stays yours. No card [gets to decide your future for you](/blog/tarot-is-not-an-authority/).

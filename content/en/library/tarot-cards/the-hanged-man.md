@@ -91,7 +91,7 @@ At work, the Hanged Man describes a pause, and there are three kinds. The one yo
 
 Reversed at work, the pause has stopped serving anything: the sacrifice nobody asked for, or every hour filled with tasks so you never have to look at your work from another side. Neither is a verdict.
 
-“When will things move?” is the question this card brings. Waiting at work is hard, because it puts your days, and sometimes your income, in someone else’s hands; I understand wanting a date. I don’t give one. Timing is where readings miss most ([why timing is where I miss](/blog/tarot-timing/)), and a date from a card would give you something to wait for, not something to do. A kinder question: “What can I see from here that I couldn’t see while I was running?” And if being sidelined starts to feel like being pushed out, HR or a staff representative can tell you where you stand.
+“When will things move?” is the question this card brings. Waiting at work is hard, because it puts your days, and sometimes your income, in someone else’s hands; I understand wanting a date. I don’t give one. Cards are good at showing how you’re living the wait and poor at naming the day it ends ([what tarot can say about dates](/blog/tarot-timing/)). A kinder question: “What can I see from here that I couldn’t see while I was running?” And if being sidelined starts to feel like being pushed out, HR or a staff representative can tell you where you stand.
 
 This week, write down everything you have open at work. Pick one thing to finish and one to drop, then look at the rest upside down: what would you do with it if you were starting today?
 

@@ -67,7 +67,7 @@ Le [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) remplit tout le fond : la joi
 
 Dans le système de la Golden Dawn, le Neuf de Coupes correspond à [Jupiter](/fr/bibliotheque/astrologie/jupiter/) dans le deuxième décan des Poissons. Jupiter, c’est l’expansion, la générosité, la chance — ou ce qu’on prend pour de la chance — et l’excès. Dans les Poissons, signe d’eau et de croyance, il devient le sentiment que tout finira bien, et l’abondance qui va avec.
 
-Je me méfie de Jupiter plus que des autres placements, parce que c’est celui qui fait dire « ça va aller ». Gardez-le ici comme un rappel plutôt qu’une promesse : rester humble quand tout coule. Si l’[astrologie](/fr/bibliotheque/astrologie/) n’est pas votre clé de lecture, passez : l’homme sur son banc en a dit autant.
+Lisez la planète ici comme un rappel plutôt qu’une promesse : rester humble quand tout coule. Si l’[astrologie](/fr/bibliotheque/astrologie/) n’est pas votre clé de lecture, passez : l’homme sur son banc en a dit autant.
 
 ## En lecture {#lecture}
 

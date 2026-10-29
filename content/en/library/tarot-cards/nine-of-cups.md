@@ -66,7 +66,7 @@ At his best, this man is the Water archetype, the warm person whose home feels l
 
 In the Golden Dawn system, the Nine of Cups is [Jupiter](/library/astrology/jupiter/) in the second decan of Pisces. Jupiter is expansion, generosity, luck — or what you take for luck — and excess. In watery, believing Pisces, it becomes the feeling that things will turn out well, and the plenty that comes with it.
 
-I distrust Jupiter more than most placements, because it’s the one that makes people say “it’ll be fine”. Keep it here as a reminder rather than a promise: stay humble while things flow. If [astrology](/library/astrology/) isn’t your lens, skip it: the man on his bench has said as much.
+Read the planet here as a reminder rather than a promise: stay humble while things flow. If [astrology](/library/astrology/) isn’t your lens, skip it: the man on his bench has said as much.
 
 ## In a reading {#reading}
 

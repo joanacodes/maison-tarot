@@ -67,7 +67,7 @@ Lue sans le titre : quelque chose de chaud et de créatif en mouvement, l’acti
 
 ## Par l’astrologie : Jupiter {#astrologie}
 
-Dans la tradition Golden Dawn, la Roue correspond à [Jupiter](/fr/bibliotheque/astrologie/jupiter/) : l’expansion, la confiance, la générosité, l’excès — la chance, ou ce qu’on prend pour de la chance. C’est le placement qui fait dire « ça va aller », et c’est pour ça que je le tiens à distance ici.
+Dans la tradition Golden Dawn, la Roue correspond à [Jupiter](/fr/bibliotheque/astrologie/jupiter/) : l’expansion, la confiance, la générosité, l’excès — la chance, ou ce qu’on prend pour de la chance.
 
 Sur cette carte, Jupiter sert à une chose : quand ça monte, le conseil est de rester humble.
 
