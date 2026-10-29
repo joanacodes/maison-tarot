@@ -1,8 +1,7 @@
 ---
-title: 'Jupiter in astrology and tarot: what it says in a chart, its card, and what
-  the test showed'
+title: 'Jupiter in astrology and tarot: what it says in a chart, and its card'
 description: 'Jupiter read as a tarot lens: its card (Wheel of Fortune), the sign
-  it rules (Sagittarius), what it describes in a birth chart, and its result in my test — about one time in three.'
+  it rules (Sagittarius) and what it describes in a birth chart. It wasn’t part of my test.'
 translationKey: body-jupiter
 type: library
 navTitle: Jupiter
@@ -65,10 +64,8 @@ The Wheel of Fortune, arcana X: what goes up, what goes down, and the fact that 
 
 {{< cards "ar10" >}}
 
-## What the test showed {#test}
+## Not part of my test {#test}
 
-A third — and I distrust it more than the others, because it's the placement that makes people say 'it'll be fine'. Jupiter on a card is useful for one thing: recognising the Six, expansion, and remembering the advice that goes with it — stay humble.
-
-A reminder of the frame: I checked my chart box by box, then those of friends and strangers — a manual count, not a study. [The article about the test](/blog/i-tested-my-birth-chart/) and [the table of the twelve signs](/library/astrology/).
+Jupiter wasn't one of the placements I counted [when I tested my chart](/blog/i-tested-my-birth-chart/), so I have no figure for it. I still distrust it more than the others, because it's the placement that makes people say 'it'll be fine'. Jupiter on a card is useful for one thing: recognising the Six, expansion, and remembering the advice that goes with it — stay humble.
 
 {{% six %}}

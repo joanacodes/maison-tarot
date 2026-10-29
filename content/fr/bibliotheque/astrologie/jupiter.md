@@ -1,9 +1,8 @@
 ---
-title: 'Jupiter en astrologie et au tarot : ce qu’il dit dans un thème, sa carte,
-  et ce que le test a montré'
+title: 'Jupiter en astrologie et au tarot : ce qu’il dit dans un thème, et sa carte'
 description: 'Jupiter lu comme clé de lecture du tarot : sa carte (La Roue de Fortune),
-  le signe qu’il régit (Sagittaire), ce qu’il décrit dans un thème astral, et son
-  résultat dans mon test — environ une fois sur trois.'
+  le signe qu’il régit (Sagittaire), et ce qu’il décrit dans un thème astral. Il ne faisait
+  pas partie de mon test.'
 translationKey: body-jupiter
 type: library
 navTitle: Jupiter
@@ -66,10 +65,8 @@ La Roue de Fortune, arcane X : ce qui monte, ce qui descend, et le fait que rien
 
 {{< cards "ar10" >}}
 
-## Ce que le test a montré {#test}
+## Hors de mon test {#test}
 
-Un tiers — et la Maison se méfie de lui plus que des autres, parce que c’est le placement qui fait dire « ça va aller ». Jupiter sur une carte est utile pour une chose : reconnaître le Six, l’expansion, et se rappeler le conseil qui va avec — rester humble.
-
-Rappel du cadre : j’ai vérifié mon thème case par case, puis ceux de proches et d’inconnus — un comptage manuel, pas une étude. [L’article du test](/fr/blog/j-ai-teste-mon-theme-astral/) et [la table des douze signes](/fr/bibliotheque/astrologie/).
+Jupiter ne faisait pas partie des placements que j’ai comptés [quand j’ai testé mon thème](/fr/blog/j-ai-teste-mon-theme-astral/) : je n’ai donc pas de chiffre pour lui. Je m’en méfie quand même plus que des autres, parce que c’est le placement qui fait dire « ça va aller ». Jupiter sur une carte est utile pour une chose : reconnaître le Six, l’expansion, et se rappeler le conseil qui va avec — rester humble.
 
 {{% six %}}
