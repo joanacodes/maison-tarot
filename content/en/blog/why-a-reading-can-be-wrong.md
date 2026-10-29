@@ -43,7 +43,7 @@ A message, a card or an impression shows you something. It rarely shows you when
 
 In card readings, timing is the weak spot. I gave it [a whole article on tarot and timing](/blog/tarot-timing/) for that reason.
 
-Timing cuts the other way too. [My very first reading for a stranger](/blog/first-tarot-reading-story/) seemed to miss completely, until her text arrived a few days later: all of it had happened. On the day, I would have written it down as a miss. Four days on, it wasn’t one.
+Timing cuts the other way too. [My very first reading for a stranger](/blog/first-tarot-reading-story/) seemed to miss completely, until her text arrived a few days later: the whole thing had come true. On the day, I would have written it down as a miss. Four days on, it wasn’t one.
 
 So a reading can look wrong today and be right on Friday. It can also be “right” on Friday in a way nobody expected, as the voice was. Neither tells you the reading was useless. Both tell you to hold the timing loosely, and to be slow to decide what a message meant before it has finished arriving.
 

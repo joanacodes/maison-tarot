@@ -60,7 +60,7 @@ The background is almost all [grey](/library/tarot-colours/grey/): neutrality, a
 
 ## By astrology: Root of Air {#astrology}
 
-Zodiac signs skip this card, because the Golden Dawn kept them for the numbered cards and treated every Ace as a root. The Ace of Swords is the seed the suit grows from, while the other Swords are shared between the three Air signs — Libra, Aquarius and Gemini. So the Ace holds all three in potential: Libra’s weighing, Aquarius’s new idea, Gemini’s quick word. Readers who use [astrology](/library/astrology/) can keep that triple picture; the crowned blade carries the card for everyone else.
+Zodiac signs skip this card, because the Golden Dawn kept them for the cards from Two up to Ten and treated every Ace as a root. The Ace of Swords is the seed the suit grows from, while the other Swords are shared between the three Air signs — Libra, Aquarius and Gemini. So the Ace holds all three in potential: Libra’s weighing, Aquarius’s new idea, Gemini’s quick word. Readers who use [astrology](/library/astrology/) can keep that triple picture; the crowned blade carries the card for everyone else.
 
 ## In a reading {#reading}
 

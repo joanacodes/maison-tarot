@@ -16,7 +16,7 @@ related:
 - /bibliotheque/astrologie
 faq:
 - q: "Quelle lettre hébraïque va avec le Mat ?"
-  a: "Aleph dans le système de la Golden Dawn, que suivent ce site et la tradition du Rider-Waite-Smith. Dans la tradition française d’Éliphas Lévi et d’Oswald Wirth, le Mat prend Shin, et Aleph va au Magicien, le Bateleur du tarot de Marseille."
+  a: "Aleph, selon l’attribution de la Golden Dawn, que suivent ce site et la tradition du Rider-Waite-Smith. Dans la tradition française d’Éliphas Lévi et d’Oswald Wirth, le Mat prend Shin, et Aleph va au Magicien, le Bateleur du tarot de Marseille."
 - q: "Pourquoi la Force et la Justice n’ont-elles pas le même numéro selon les jeux ?"
   a: "La Golden Dawn a donné Teth (le Lion) à la Force et Lamed (la Balance) à la Justice, ce qui obligeait à échanger leurs places. Le Rider-Waite-Smith de 1909 imprime la Force en VIII et la Justice en XI ; le tarot de Marseille garde la Justice en VIII et la Force en XI."
 gallery: []

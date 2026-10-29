@@ -15,7 +15,7 @@ energy: Feminine
 kabbalah: ''
 image: cards/cuqu.webp
 h1: Queen of Cups — <em>the Queen</em>, Water of Water
-lede: 'At the sea’s edge, a queen gazes into the only lidded cup of her suit, its handles shaped like angels, her throne decorated with tiny sea-children. How much can you feel for others and still know your own?'
+lede: 'At the sea’s edge, a queen gazes into the only lidded cup of her suit, its handles shaped like angels, her throne decorated with sea-children. How much can you feel for others and still know your own?'
 related:
 - /library/numerology
 - /library/four-elements/water-element

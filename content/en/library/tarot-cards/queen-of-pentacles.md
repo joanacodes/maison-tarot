@@ -51,7 +51,7 @@ An example everyone knows: the person in a family whose kitchen is always open, 
 
 ## By element: Earth {#element}
 
-The Queen of Pentacles is Water of Earth: [Earth](/library/four-elements/earth-element/) from her suit — matter, prosperity, what has value for you — and [Water](/library/four-elements/water-element/) from her rank: emotions, relationships, hidden strengths. Water in Earth is what makes soil fertile. It turns feeling into something concrete: a meal, a garden, a warm room. Water’s archetype, in my notes, is the warm person you feel at home with. This Queen is that person, with a garden.
+The Queen of Pentacles is Water of Earth: [Earth](/library/four-elements/earth-element/) from her suit — matter, prosperity, what has value for you — and [Water](/library/four-elements/water-element/) from her rank: emotions, relationships, hidden strengths. Water in Earth is what makes soil fertile. It turns feeling into something concrete: a meal, a garden, a warm room. Water’s archetype, in my notes, is the warm one people feel at ease around. This Queen is that person, with a garden.
 
 The flip side comes from both elements. Earth is stubborn; neglected Water seeps in slowly, like damp in a wall. A Queen who gives everything and never says what she feels can end up exhausted — or holding everyone a little too tight.
 

@@ -37,7 +37,7 @@ Two reasons, and neither is a rule for its own sake.
 
 The first is consent. You wouldn’t want someone wandering into your bedroom to look through your things; reading a person who hasn’t agreed to it feels the same to me. Your ex hasn’t asked to be read, and their choices belong to them. That’s why people who aren’t in the room are on [the short list of things I don’t read on](/disclaimers/#refusals).
 
-The second is honesty. Someone who doesn’t know they’re being read isn’t open to it, so at best you catch half a sentence and build a whole story on top of it. And that story is read through you — your hope, your grief, the ending you’d like. What comes out is mostly your own heart, dressed as theirs. I go into this in [reading tarot about someone else](/blog/reading-tarot-about-someone-else/).
+The second is honesty. Your ex, unaware of being read, hasn’t opened any door to you, so at best you glimpse a sliver and build the rest of the story yourself. And that story is read through you — your hope, your grief, the ending you’d like. What comes out is mostly your own heart, dressed as theirs. I go into this in [reading tarot about someone else](/blog/reading-tarot-about-someone-else/).
 
 Even in good conditions, readings miss. I’ve told the story of the time [information I received was wrong in the part that mattered](/blog/why-a-reading-can-be-wrong/). On a question like this one, a miss can cost you months.
 
@@ -50,9 +50,9 @@ Ask about the person who is in the room: you. A few questions that work well:
 - What would I do differently if I stopped waiting?
 - What did this relationship show me about what I want?
 
-Say someone asks the first one and draws the Five of Cups: a figure in a black cloak, head bowed over three spilled cups, with two cups still standing behind them. In my notes it’s the most negative card of the deck — losing, a dark emotion, being alone with your problems. That’s honest about how it feels. But the Five of Cups also keeps two full cups behind the figure, and the figure hasn’t turned round yet.
+Say someone asks the first one and draws the Five of Cups: a figure in a black cloak, head bowed over three spilled cups, with two cups still standing behind them. My notes put no card lower: grief, gloom, and nobody to lean on. That’s honest about how it feels. But the Five of Cups also keeps two full cups behind the figure, and the figure hasn’t turned round yet.
 
-Next to it, the Six of Cups: two children in a garden, one handing the other a cup full of flowers. Taking time for yourself, going back to what once made you happy, flowering again.
+Next to it, the Six of Cups, where flowers in a cup pass from one child’s hands to another’s in a garden. Taking time for yourself, going back to what once made you happy, flowering again.
 
 {{< cards "cu05 cu06" >}}
 

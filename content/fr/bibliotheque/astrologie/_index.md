@@ -7,7 +7,7 @@ type: library
 weight: 60
 short: "Signes et planètes"
 h1: "L’astrologie comme clé de lecture, <em>pas comme croyance</em>."
-lede: "J’avais mis une vidéo d’astrologie pour me moquer de la chose, puis j’ai lu mon thème : il était bien trop juste. Vérifié ligne à ligne, il visait juste pour 30 à 40 % des positions, et même entre 75 et 90 % sur Saturne, Lilith et Chiron. Alors je la garde — comme une clé, à poser sur les cartes qui portent un signe, et pas comme une explication du monde."
+lede: "J’avais mis une vidéo d’astrologie pour me moquer de la chose, puis j’ai lu mon thème : beaucoup trop juste à mon goût. Vérifié ligne à ligne, il visait juste pour 30 à 40 % des positions, et même entre 75 et 90 % sur Saturne, Lilith et Chiron. Alors je la garde — comme une clé, à poser sur les cartes qui portent un signe, et pas comme une explication du monde."
 faq:
   - q: "Faut-il connaître l’astrologie pour lire le tarot ?"
     a: "Non. Les couleurs, les éléments et les nombres suffisent à lire le jeu. L’astrologie ajoute une couche sur douze arcanes majeurs et sur les cartes de 2 à 10 ; elle est utile, pas obligatoire."

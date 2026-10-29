@@ -44,7 +44,7 @@ Pour la Golden Dawn, un enseignement sur la majesté et la reconnaissance est de
 | [Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/) | Seigneur de la Force écourtée (Jupiter en Gémeaux) | l’esprit qui se ligote lui-même |
 | [Huit de Pentacles](/fr/bibliotheque/cartes-tarot/huit-de-pentacles/) | Seigneur de la Prudence (Soleil en Vierge) | le geste répété jusqu’à ce qu’il brille |
 
-Le nombre pose le cadre : le [8](/fr/bibliotheque/numerologie/chiffre-8/), c’est le 4 exalté — l’empire, la stabilité assurée, le contrôle ; la lemniscate du Magicien, un huit couché ; une porte entre le tangible et l’intangible. Dans mes notes, le Huit de Pentacles, c’est la maîtrise et l’effort qu’elle demande ; le Huit de Coupes, laisser là ce qu’on fait déjà et partir ailleurs. Hod ajoute la forme : un Huit, c’est quelque chose qui reçoit sa méthode, son geste, ses mots — comme un compagnon du Devoir qui refait la même pièce jusqu’à la maîtriser.
+Le nombre pose le cadre : le [8](/fr/bibliotheque/numerologie/chiffre-8/), c’est le 4 exalté — l’empire, la stabilité assurée, le contrôle ; la lemniscate du Magicien, un huit couché ; une charnière entre le matériel et l’immatériel. Dans mes notes, le Huit de Pentacles, c’est la maîtrise et l’effort qu’elle demande ; le Huit de Coupes, laisser là ce qu’on fait déjà et partir ailleurs. Hod ajoute la forme : un Huit, c’est quelque chose qui reçoit sa méthode, son geste, ses mots — comme un compagnon du Devoir qui refait la même pièce jusqu’à la maîtriser.
 
 ## Hod et l’astrologie : Mercure {#astrologie}
 

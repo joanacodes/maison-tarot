@@ -83,6 +83,6 @@ Cette carte arrive souvent avec des soucis d’argent — quelle facture d’abo
 
 Une lecture inventée : la personne en face de vous tire le Deux de Pentacles, puis le [Dix de Bâtons](/fr/bibliotheque/cartes-tarot/dix-de-batons/). Deux puis dix : un équilibre qu’on maintient, puis la fin d’un cycle, le passage d’une étape à l’autre. La Terre puis le Feu : la vie pratique, puis l’énergie et l’élan. Les dessins : un corps qui danse devant la mer, puis un homme courbé sous un fagot de dix bâtons. Dans mes notes, le Dix de Bâtons dit : garder l’énergie créative, sans se surcharger.
 
-La danse devant la mer, puis le fagot sur le dos, ce qui donnerait : « Vous menez beaucoup de choses de front et vous le faites bien, mais vous portez plus que nécessaire, et il va falloir poser quelque chose bientôt. »
+La danse devant la mer, puis le fagot sur le dos, me mènent à cette phrase : « Vous menez beaucoup de choses de front et vous le faites bien, mais vous portez plus que nécessaire, et il va falloir poser quelque chose bientôt. »
 
 Je vérifie en demandant : « Dans votre semaine, qu’est-ce qui pourrait être posé et ne l’a pas été ? » Si une réponse vient tout de suite, ça a touché juste. Si la personne reste sans réaction, la pièce a glissé des mains, et je le dis.

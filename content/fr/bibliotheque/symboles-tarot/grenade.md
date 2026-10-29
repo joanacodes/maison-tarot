@@ -18,7 +18,7 @@ faq:
 - q: "Pourquoi y a-t-il des grenades sur la carte de la Grande Prêtresse ?"
   a: "Le voile derrière elle est imprimé de palmes et de grenades ouvertes sur leurs graines. Dans le mythe grec, Perséphone mange des graines de grenade aux Enfers et doit y retourner chaque année ; beaucoup de tarologues rattachent à cette histoire le savoir caché de la Grande Prêtresse."
 - q: "La grenade, au tarot, annonce-t-elle une grossesse ?"
-  a: "C’est un vieux symbole de fécondité à cause de ses graines, et je comprends qu’on la pose, qu’on espère ou qu’on s’inquiète. Pour une grossesse, la réponse appartient à un médecin : aucun tirage ne la remplace. Dans un tirage, je prends la grenade comme une abondance au sens large — des idées, des projets, du soin."
+  a: "C’est un vieux symbole de fécondité à cause de ses graines, et je comprends qu’on pose la question, qu’on espère ou qu’on s’inquiète. Pour une grossesse, la réponse appartient à un médecin : aucun tirage ne la remplace. Dans un tirage, je prends la grenade comme une abondance au sens large — des idées, des projets, du soin."
 gallery:
 - src: "visuals/sym-pomegranate/1.jpg"
   title: "Banale de l’extérieur"

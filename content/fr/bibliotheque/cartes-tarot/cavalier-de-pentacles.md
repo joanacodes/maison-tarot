@@ -16,7 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/pekn.webp
 h1: Cavalier de Pentacles — <em>le Cavalier</em>, l’Air de terre
-lede: 'Le cheval noir reste planté dans son champ labouré, et son cavalier en armure contemple le pentacle qu’il tient. Ce plan si bien vérifié, quand le mettra-t-il en marche ?'
+lede: 'Le cheval noir reste planté devant un champ labouré, et son cavalier en armure contemple le pentacle qu’il tient. Ce plan si bien vérifié, quand le mettra-t-il en marche ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre

@@ -16,7 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/pe10.webp
 h1: Dix de Pentacles — <em>dix</em>, la Terre
-lede: 'Trois générations se croisent sous une arche, avec deux chiens blancs et un vieil homme au manteau couvert de motifs, tandis que dix pièces dessinent un arbre par-dessus. Ce qui se transmet, cadeau ou poids ?'
+lede: 'Trois générations se retrouvent autour d’une arche — un couple, un enfant, un vieil homme au manteau couvert de motifs, deux chiens blancs —, tandis que dix pièces dessinent un arbre par-dessus. Ce qui se transmet, cadeau ou poids ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre
@@ -81,6 +81,6 @@ Beaucoup espèrent que cette carte annonce un héritage ou une rentrée d’arge
 
 Un exercice : quelqu’un tire le Dix de Pentacles, puis le Valet de Bâtons, et c’est à vous de lire. Dix puis Valet : un cycle qui se ferme, puis un élève qui commence quelque chose. Terre puis Feu : une maison qui tient, puis une envie neuve. Trois générations sous une arche, puis un jeune homme seul dans un paysage désertique, les yeux levés vers un bâton qui bourgeonne.
 
-La maison pleine et l’élève qui regarde ailleurs se disent ainsi : « Quelque chose est complet à la maison, et c’est bien. Et quelqu’un de jeune, peut-être vous, a envie d’essayer quelque chose à soi. Ce n’est pas forcément une rupture. »
+La maison pleine et l’élève au bâton bourgeonnant se disent ainsi : « Quelque chose est complet à la maison, et c’est bien. Et quelqu’un de jeune, peut-être vous, a envie d’essayer quelque chose à soi. Ce n’est pas forcément une rupture. »
 
 Puis vérifiez : « Est-ce que ça ressemble à ce qui se passe chez vous ? » Si rien ne colle, c’est un raté : dites-le, notez-le, et ne tirez pas une autre carte pour le rattraper.

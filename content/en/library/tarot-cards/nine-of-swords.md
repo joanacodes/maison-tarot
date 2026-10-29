@@ -27,7 +27,7 @@ faq:
 - q: What about Nine of Swords reversed?
   a: 'The night, lifting or lingering. Lifting: the hands come down from the face, the worry gets said out loud, the first good night’s sleep. Lingering: the night follows you into the day, and the worry no longer has a clear name.'
 - q: 'Does the Nine of Swords mean anxiety?'
-  a: 'It often speaks of worry and sleepless nights, and many people recognise themselves in it. A card can describe a feeling; it can’t treat one. If the worry has lasted for weeks or taken over your days, it deserves a doctor’s or a therapist’s time; that isn’t your cards failing.'
+  a: 'It often speaks of worry and sleepless nights, and many people recognise themselves in it. A card can describe a feeling; it can’t treat one. If the worry has lasted for weeks or taken over your days, it deserves a doctor’s or a therapist’s time, and going to them isn’t your cards failing.'
 categories:
 - Swords
 tags:

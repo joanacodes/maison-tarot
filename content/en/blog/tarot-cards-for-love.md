@@ -53,7 +53,7 @@ Pairs change all of this. The Lovers next to the Devil isn’t the Lovers next t
 
 “Will he come back?” “What does she think of me?” “Is he seeing someone?” I understand why these come — they come from missing someone, or from fear. But they’re about a person who isn’t in the room. A reading done without someone’s yes is a small intrusion, like opening their wardrobe uninvited; and someone read without their knowledge stays closed: what reaches you is a fragment, and guesses fill the gaps.
 
-The same goes for looking up a crush’s birth chart: my notes put it simply, don’t spoil what you could find out together. These questions also keep you waiting on someone else’s life. A gentler question puts you back in yours: “What do I need from a relationship right now?” or “What am I still holding on to?” I explain this one in [‘Will they come back?’ and a kinder question](/blog/will-they-come-back-tarot/), and the wider rule in [reading tarot about someone else](/blog/reading-tarot-about-someone-else/).
+The same goes for looking up a crush’s birth chart: on that, my notes are short: don’t spoil what you could find out together. These questions also keep you waiting on someone else’s life. A gentler question puts you back in yours: “What do I need from a relationship right now?” or “What am I still holding on to?” I explain this one in [‘Will they come back?’ and a kinder question](/blog/will-they-come-back-tarot/), and the wider rule in [reading tarot about someone else](/blog/reading-tarot-about-someone-else/).
 
 ## A love reading to try {#try}
 

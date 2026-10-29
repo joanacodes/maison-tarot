@@ -17,7 +17,7 @@ Scorpio season is the month the Sun spends in Scorpio: this year from 23 October
 
 Over a year, the Sun passes through the twelve signs, about a month in each. “Scorpio season” is the stretch when it’s in Scorpio, from around 23 October to 21 or 22 November, depending on the year. Astrology reads the Sun’s sign as a climate for everyone, not only for people born in it: a month coloured by that sign’s verb.
 
-Scorpio’s verb is *I desire*. Its element is [Water](/library/four-elements/water-element/), its mode is fixed, its energy feminine; modern astrology gives it Pluto, older astrology Mars. In the Golden Dawn tradition, its card is Death. For people born now, it’s also birthday season — a good moment to look back at the year.
+Scorpio’s verb is *I desire*. Its element is [Water](/library/four-elements/water-element/), its mode is fixed, its energy feminine; modern astrology gives it Pluto, older astrology Mars. The Golden Dawn gave it Death as its card. For people born now, it’s also birthday season — a good moment to look back at the year.
 
 ## Scorpio, in my notes {#scorpio-energy}
 

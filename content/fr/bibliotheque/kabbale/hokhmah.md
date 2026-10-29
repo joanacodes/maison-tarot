@@ -46,7 +46,7 @@ La Golden Dawn suit ici la logique du nombre : à la deuxième sphère, la deuxi
 | [Deux d’Épées](/fr/bibliotheque/cartes-tarot/deux-de-epees/) | Seigneur de la Paix rétablie (Lune en Balance) | la réponse déjà connue, les yeux bandés |
 | [Deux de Pentacles](/fr/bibliotheque/cartes-tarot/deux-de-pentacles/) | Seigneur du Changement harmonieux (Jupiter en Capricorne) | l’art de faire tourner deux choses à la fois |
 
-Le nombre pose le terrain : le [2](/fr/bibliotheque/numerologie/chiffre-2/), c’est la coopération, le contrat, le moment où l’on pèse le pour et le contre. Hokhmah y ajoute la vitesse de la première intuition, et un Deux devient une décision déjà à moitié prise à l’instinct — et le conseil du nombre tient toujours : lisez le contrat avant de signer.
+Le nombre pose le terrain : le [2](/fr/bibliotheque/numerologie/chiffre-2/), c’est la coopération, le contrat, le moment où l’on pèse le pour et le contre. Hokhmah y ajoute la vitesse de la première intuition. Un Deux devient alors une décision déjà à moitié prise à l’instinct, et le conseil du nombre tient toujours : lisez le contrat avant de signer.
 
 ## Les figures : Rois ou Cavaliers ? {#figures}
 

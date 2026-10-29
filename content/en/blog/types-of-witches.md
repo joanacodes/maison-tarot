@@ -53,7 +53,7 @@ There is one place where the two meet, though. On many witches' altars sit four 
 
 {{< cards "ar01 waac cuac swac peac" >}}
 
-In my notes, the Magician is the card of the four elements — wand, cup, sword, pentacle — plus the ether: someone who knows how to use everything on the table. His weak side: he can pretend. A tool on an altar does nothing on its own; the person holding it does.
+My notes give the Magician all four elements at once — wand, cup, sword, pentacle — with the ether on top: someone who can work with everything in front of him. His weak side: he can pretend. A tool on an altar does nothing on its own; the person holding it does.
 
 ## Which witch am I? {#which-witch-am-i}
 
@@ -61,7 +61,7 @@ I don't call myself a witch. But I do have a definition, from my own notes: a wi
 
 So, which witch am I? **None of these types is a uniform you have to wear; being yourself is plenty.**
 
-The words above are useful for understanding what people mean, the way a glossary is. As a box to fit into, they work about as well as a single star sign does: you're not just one sign, you're a mix of everything. And the same goes for the labels people pick from a video — you don't choose what you are from a quiz, any more than you pick a starseed type ([the words empath, starseed and lightworker](/blog/empath-starseed-lightworker/) are defined separately). Practise for a year, and you'll find you've become your own kind of witch, if you want the word at all.
+The words above are useful for understanding what people mean, the way a glossary is. As a box to fit into, they work about as well as a single star sign does, and no one is a single sign; each of us is made of the whole chart. The same goes for the labels people pick from a video — you don't choose what you are from a quiz, any more than you pick a starseed type ([the words empath, starseed and lightworker](/blog/empath-starseed-lightworker/) are defined separately). Practise for a year, and you'll find you've become your own kind of witch, if you want the word at all.
 
 ## Where to go next {#next-step}
 

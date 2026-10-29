@@ -35,7 +35,7 @@ Ce n’est pas de la pruderie. Ce sont les sujets où une carte, même bien lue,
 
 Agissez sur ce que vous ressentez, pas sur ce qui a été dit pendant une lecture. Une lecture n’est pas une injonction ; vous restez responsable de vos choix.
 
-Si vous vous surprenez à consulter tout le temps, le tarot n’est pas le vrai sujet : vous cherchez une approbation hors de vous. [éloignez-vous des tirages un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/), et entraînez le muscle qui décide.
+Si vous vous surprenez à consulter tout le temps, le tarot n’est pas le vrai sujet ; c’est une approbation extérieure que vous cherchez. [Éloignez-vous des tirages un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/), et entraînez le muscle qui décide.
 
 Et si le tarot vous paraît maléfique : le mal qu’on y voit vient du regard qu’on y pose. Une carte est un écran ; on n’a peur que de ce qu’on y projette.
 

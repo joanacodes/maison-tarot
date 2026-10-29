@@ -51,7 +51,7 @@ If two or more of those sound familiar, the deck is fine. You need a rest.
 
 Put the deck in a drawer. There's no rule for how long: a few days, a week, until you miss it. In the meantime, do something that has nothing to do with tarot — a walk, a proper night's sleep, a painting, a few minutes of sitting still.
 
-If you find you can't go two days without drawing, that tells you something too, and it's kinder to notice it now. I've written about [a few weeks away from the deck](/blog/why-you-should-quit-tarot-reading/), and it applies to readers as much as to the people they read for.
+If you find you can't go two days without drawing, that tells you something too, and it's kinder to notice it now. I've written about [taking a few weeks off from the deck](/blog/why-you-should-quit-tarot-reading/), and it applies to readers as much as to the people they read for.
 
 When you come back, start small: one card, described out loud, before any meaning. You'll often notice the pictures again — the colour of a sky, a detail in a corner you'd stopped seeing. That's the freshness people hoped the ritual would give the deck.
 

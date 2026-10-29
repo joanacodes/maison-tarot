@@ -30,7 +30,7 @@ faq:
     une fin qui transforme, de l’autre une énergie capable de blesser comme de soigner.'
 - q: Pour un Scorpion, la Mort a-t-elle un sens particulier ?
   a: 'Pas plus que pour un autre signe. La carte annonce un changement de fond, jamais
-    un enterrement ; être Scorpion ne la rend ni plus lourde ni plus « vraie » pour vous.'
+    la mort de quelqu’un ; être Scorpion ne la rend ni plus lourde ni plus « vraie » pour vous.'
 gallery:
 - src: "visuals/sign-scorpio/1.jpg"
   title: "Là où ça pique"

@@ -15,7 +15,7 @@ energy: Feminine
 kabbalah: ''
 image: cards/peac.webp
 h1: Ace of Pentacles — <em>one</em>, Earth
-lede: 'A gold coin rests on an open palm above a quiet garden, where a gap in the hedge lets a yellow path run towards far blue mountains. Something real is on offer: what stops you closing your hand on it?'
+lede: 'A gold coin rests on an open palm above a garden, where a gap in the hedge lets a yellow path run towards blue mountains. Something real is on offer: what stops you closing your hand on it?'
 related:
 - /library/numerology
 - /library/four-elements/earth-element
@@ -84,6 +84,6 @@ Next to [the Magician](/library/tarot-cards/the-magician/), another 1, the skill
 
 Suppose a friend you’re practising with draws the Ace of Pentacles, then the [Two of Swords](/library/tarot-cards/two-of-swords/). One then two: a beginning, then a choice between two sides. Earth then Air: something concrete, then a decision held in the head. The drawings: a gold coin on an open hand, then a blindfolded figure with two swords crossed over her chest.
 
-With the coin on one side and the blindfold on the other, I would say: “Something concrete is being offered to you, and you’re keeping your eyes closed so you don’t have to choose yet.”
+Putting the offered coin beside the blindfold, I would say: “Something concrete is being offered to you, and you’re keeping your eyes closed so you don’t have to choose yet.”
 
 Then I hand the question back: “Is there something on the table at the moment that you haven’t answered?” A yes doesn’t mean I tell the person whether to take it. If nothing is waiting for an answer, the sentence missed, and I write that down.

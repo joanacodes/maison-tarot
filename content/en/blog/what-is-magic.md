@@ -61,6 +61,6 @@ The limit, said calmly: calling something magic is an admission, not an explanat
 
 Keep a page at the back of your notebook for things you’ve seen happen and can’t explain. Date each one. A year later, reread it.
 
-Some entries will have found an ordinary explanation: a coincidence, a memory that tidied itself up, something you’d been told and forgot. Some won’t. Those go on the shelf I label “sceptical, but if it happens, I was warned”.
+Some entries will have found an ordinary explanation: a coincidence, a memory that tidied itself up, something you’d been told and forgot. Some won’t. Those stay on a shelf marked doubtful, in case one ever comes true and I can say I’d been warned.
 
 [Four theories of how tarot works](/blog/how-does-tarot-work/), and the one I don’t need, are a good next read. And if you’d like to meet the unexplained first-hand, read one card for someone who’s told you nothing. That’s what happens at the [free events](/events/), with everyone watching and the misses said out loud.

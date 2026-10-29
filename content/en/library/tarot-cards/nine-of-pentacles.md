@@ -82,7 +82,7 @@ If someone hopes this card means a windfall, I’d rather look at what they alre
 
 ## A reading, as an example {#example}
 
-Here’s a made-up spread of two cards, for someone you’ve just met: the Nine of Pentacles, then the [Eight of Cups](/library/tarot-cards/eight-of-cups/). Nine then eight: the last stretch of one cycle, then my note for that card: putting down what you’re busy with and going elsewhere. Earth then Water: a garden that holds, then feelings on the move. A woman standing still among her vines, then a figure in red walking away from eight stacked cups, towards the mountains.
+Here’s a made-up spread of two cards, for someone you’ve just met: the Nine of Pentacles, then the [Eight of Cups](/library/tarot-cards/eight-of-cups/). Nine then eight: the last stretch of one cycle, then — my note for that card — putting down what you’re busy with and going elsewhere. Earth then Water: a garden that holds, then feelings on the move. A woman standing still among her vines, then a figure in red walking away from eight stacked cups, towards the mountains.
 
 The vineyard and the night walk, in one breath: “You’ve built something comfortable, and you’re allowed to enjoy it. But part of you is already reaching for its coat — not because anything is wrong here, but because you’ve seen what there is to see.”
 

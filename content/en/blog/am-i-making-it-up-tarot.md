@@ -17,7 +17,7 @@ In the moment, you can't, and you're not meant to. The feeling of making it up i
 
 Impressions arrive in your own voice. There's no special tone, no bell that rings when something is real. A word comes, an image, a sense that this is about a sister, and it feels exactly like something you thought up. It is something you thought; the question is where the thought came from.
 
-The cards help in a modest way. They give your eyes something to hold, and while your eyes are busy, your own guesses loosen their grip and something else can get a word in. Some days it works. Some days your own story stays in front.
+The cards help in a modest way. They give your eyes something to hold, and while they're busy, your own guesses loosen their grip and something else can get a word in. Some days it works. Some days your own story stays in front.
 
 **Feeling as if you're making it up is not evidence that you are.** Everyone who reads asks this question. The readers I'd worry about are the ones who never do.
 

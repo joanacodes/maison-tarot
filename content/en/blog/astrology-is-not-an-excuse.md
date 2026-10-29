@@ -30,7 +30,7 @@ Most of these are half jokes, and I like that astrology gives people a shared vo
 
 When someone says “I’m a Scorpio”, they mean the Sun was in Scorpio when they were born. That’s one placement out of many.
 
-I picture a chart as a home: the Sun is that home from within, the Moon is your private bedroom, which counts for a lot, while the rising sign is all that passers-by can see of it from the pavement. Then every planet sits somewhere in that house, in a sign and in a house of the chart. A Scorpio Sun with a Libra Moon and a Sagittarius rising is a very different person from a Scorpio Sun with a Capricorn Moon and a Cancer rising. I go through those three in [Sun, Moon and rising](/blog/sun-moon-rising-big-three/).
+I picture a chart as a home: the Sun is its interior, the Moon is your private bedroom, which counts for a lot, while the rising sign is all that passers-by can see of it from the pavement. Then every planet sits somewhere in that house, in a sign and in a house of the chart. A Scorpio Sun with a Libra Moon and a Sagittarius rising is a very different person from a Scorpio Sun with a Capricorn Moon and a Cancer rising. I go through those three in [Sun, Moon and rising](/blog/sun-moon-rising-big-three/).
 
 **Your Sun sign is one line of the chart; you are every line of it.**
 

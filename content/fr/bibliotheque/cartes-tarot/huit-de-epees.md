@@ -79,6 +79,6 @@ Renversé, la cage bouge : elle se desserre quand un nœud glisse, que quelqu’
 
 Considérez une lecture imaginaire où le Huit d’Épées sort à côté du [Valet de Pentacles](/fr/bibliotheque/cartes-tarot/valet-de-pentacles/). Un huit puis un Valet : une structure qui vous tient, puis l’élève. L’Air puis la Terre : une cage faite de pensées, puis quelque chose de concret à apprendre. Du gris et du rouge, puis un jeune homme dans un champ vert, une pièce levée devant lui.
 
-La cage d’épées et le jeune homme penché sur sa pièce, mis bout à bout : « Vous avez l’impression de ne pas pouvoir bouger d’où vous êtes, et vous vous dites que vous n’en savez pas assez pour partir. Vous en savez plus que vous ne le pensez, et ce qui vous fera sortir, c’est d’apprendre une chose concrète. »
+La cage d’épées et le jeune homme qui lève sa pièce, mis bout à bout : « Vous avez l’impression de ne pas pouvoir bouger d’où vous êtes, et vous vous dites que vous n’en savez pas assez pour partir. Vous en savez plus que vous ne le pensez, et ce qui vous fera sortir, c’est d’apprendre une chose concrète. »
 
 Puis vérifiez : « Avez-vous, en ce moment, l’impression de ne pas pouvoir bouger quelque part dans votre vie ? » Si oui, demandez à la personne ce qui, selon elle, lui manque. Si non, rien ne la retient de ce côté-là, et c’est ce que vous noterez.

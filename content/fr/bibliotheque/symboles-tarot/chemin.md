@@ -8,7 +8,7 @@ weight: 28
 categories: ["Symboles"]
 tags: ["symboles du tarot", "chemin", "Tempérance", "la Lune", "symbolisme du tarot"]
 h1: "Le chemin — la voie est <em>tracée</em>, la marche ne l’est pas"
-lede: "Un chemin, c’est une voie que d’autres ont parcourue avant vous. On le voit monter d’un bassin vers les montagnes sur Tempérance et la Lune, traverse l’arche d’un jardin sur l’As de Pentacles et file vers la ville derrière le Huit de Pentacles."
+lede: "Un chemin, c’est une voie que d’autres ont parcourue avant vous. On le voit monter d’un bassin vers les montagnes sur Tempérance et la Lune, traverser l’arche d’un jardin sur l’As de Pentacles et filer vers la ville derrière le Huit de Pentacles."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/temperance

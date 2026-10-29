@@ -62,7 +62,7 @@ Imaginons qu’on tire le Cinq d’Épées à côté du Deux de Coupes : un dés
 
 Quand un Cinq tombe à côté d’un Quatre, Hesed et Gevurah sont côte à côte sur la table : ce qui a été donné, et où cela s’arrête. Ce duo raconte souvent toute l’histoire.
 
-Le but n’est pas d’adoucir les cartes difficiles, seulement de les regarder avec un peu moins d’appréhension. Si Gevurah n’y aide pas, les Cinq se lisent très bien sans elle.
+Le but n’est pas d’adoucir les cartes difficiles, seulement de les regarder avec un peu moins d’appréhension. Si Gevurah n’y aide pas, laissez-la : les Cinq ont assez de leurs autres clés.
 
 ## Sources {#sources}
 

@@ -51,7 +51,7 @@ La mer, c’est l’eau qu’on ne traverse pas à pied. Elle a un horizon au li
 
 {{< zoom "sea" "lead" >}}
 
-Prenez un départ pour vivre à l’étranger. Vous pouvez prévoir l’appartement, le travail, les papiers. Vous ne pouvez pas prévoir ce que vous ressentirez six mois plus tard, en regardant la mer depuis l’autre côté.
+Imaginez un départ pour vivre à l’étranger. Vous pouvez prévoir l’appartement, le travail, les papiers. Vous ne pouvez pas prévoir ce que vous ressentirez six mois plus tard, en regardant la mer depuis l’autre côté.
 
 ## Où elle apparaît dans le jeu {#ou}
 

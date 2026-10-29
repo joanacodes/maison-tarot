@@ -47,7 +47,7 @@ A rough guide:
 
 - *A decision:* ask again after you’ve taken a step, not before.
 - *A situation* (a job, a relationship, a move): ask again when there’s news.
-- *A third time on one question inside a month:* treat that as an alarm. Shut it in a drawer and leave it there for a few weeks.
+- *A third time on one question inside a month:* treat that as an alarm. Shut the cards in a drawer and leave them there for a few weeks.
 
 The deck will still be there when you open the drawer, and you’ll read it better.
 

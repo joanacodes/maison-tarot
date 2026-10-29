@@ -46,7 +46,7 @@ Look where the cups are: behind him, not in his hands. He isn’t drinking from 
 
 [Nine brings you within sight of the end](/library/numerology/number-9/): a stage nearly done, a final push, time spent looking inward. My note for every nine is “almost there — keep moving”, and this card sits right on that line. The man has his nine cups and he has sat down. A nine that sits too comfortably forgets there’s a ten.
 
-Compare it with the Nine of Pentacles, which I read as delight in what turns up, and thanks for all of it. Same number, different posture: the woman in her garden is busy with what grows; the man on his bench is turned towards whoever is watching. The risk of this nine has a name — resting on your laurels.
+Compare it with the Nine of Pentacles, which I read as delight in what turns up, and gratitude for all of it. Same number, different posture: the woman in her garden is busy with what grows; the man on his bench is turned towards whoever is watching. The risk of this nine has a name — resting on your laurels.
 
 ## By element: Water {#element}
 

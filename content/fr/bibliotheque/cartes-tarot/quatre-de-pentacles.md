@@ -28,7 +28,7 @@ faq:
 - q: Quatre de Pentacles renversé, ça change quoi ?
   a: 'Soit la prise se desserre et la personne commence à partager, déléguer, lâcher ; soit la peur de perdre grandit et la prise devient contrôle.'
 - q: Le Quatre de Pentacles parle-t-il seulement d’argent ?
-  a: 'Non. Ce que le personnage serre peut être de l’argent, mais aussi une place, une routine, un rôle, une vieille habitude ou une personne  : la Terre englobe tout ce à quoi l’on tient.'
+  a: 'Non. Ce que le personnage serre peut être de l’argent, mais aussi une place, une routine, un rôle, une vieille habitude ou une personne : la Terre englobe tout ce à quoi l’on tient.'
 categories:
 - Pentacles
 tags:

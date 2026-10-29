@@ -49,11 +49,11 @@ In tarot terms, that's the Emperor at the door — Aries, Fire, the one who star
 
 Another one: a Scorpio rising is often the person who says nothing at a party and draws every eye. Behind that door there may be a chatty, sunny Sun sign. The door doesn't tell you who lives there; it tells you how you'll be let in.
 
-And nobody is one sign anyway. You're a mix of everything. [Sun, Moon and rising together](/blog/sun-moon-rising-big-three/) give you a rough floor plan; the rest of the chart is the furniture.
+And nobody is one sign anyway: everyone carries the full mixture. [Sun, Moon and rising together](/blog/sun-moon-rising-big-three/) give you a rough floor plan; the rest of the chart is the furniture.
 
 ## Does it matter? What my test said {#does-it-matter}
 
-When I [tested my birth chart box by box](/blog/i-tested-my-birth-chart/), tick or cross for every placement, the rising sign held about a third of the time — roughly the same as the Sun. That isn't nothing, and it isn't proof of much: a flattering description can score a third on almost anyone.
+When I [audited my own chart](/blog/i-tested-my-birth-chart/), tick or cross for every placement, the rising sign came out right in about a third of cases, much like the Sun. That isn't nothing, and it isn't proof of much: a flattering description can score a third on almost anyone.
 
 One thing makes the rising sign harder to check than the rest: you never walk past your own house. The façade is the part of you that other people see better than you do. So for a fairer test, read the description of your rising sign to someone who met you recently and let them give the tick or the cross.
 

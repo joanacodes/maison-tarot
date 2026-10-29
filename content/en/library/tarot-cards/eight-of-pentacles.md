@@ -15,7 +15,7 @@ energy: Feminine
 kabbalah: ''
 image: cards/pe08.webp
 h1: Eight of Pentacles — <em>eight</em>, Earth
-lede: 'Bent over his bench, a young craftsman chisels another coin; finished ones hang on a post, and a white-walled town waits at his back. What are you repeating until it’s right, and what have you set aside for it?'
+lede: 'Bent over his bench, a craftsman chisels another coin; finished ones hang on a post, and a small town waits at his back. What are you repeating until it’s right, and what have you set aside for it?'
 related:
 - /library/numerology
 - /library/four-elements/earth-element

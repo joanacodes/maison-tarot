@@ -52,7 +52,7 @@ Both are possible, and I don’t decide alone. Four clues help:
 3. The story around it. If the numbered cards tell a story, the court card is often the one acting in it.
 4. Saying both out loud. The person tells me nothing before the reading, so I don’t know who’s in their life — and that’s the point. I name both readings, and they know which one is theirs.
 
-Say someone draws the King of Swords next to the Two of Cups. A King decides; Swords are Air, thought. The Two of Cups is a bond between two people. You might say: “There’s a cool-headed decision inside a relationship. Either someone near you is making it — or it’s you, and lately you’ve been more judge than partner. Which is it?”
+Say someone draws the King of Swords next to the Two of Cups. A King decides; Swords are Air, thought. The Two of Cups is a bond between two people. Put together, the reading could go: “There’s a cool-headed decision inside a relationship. Either someone near you is making it — or it’s you, and lately you’ve been more judge than partner. Which is it?”
 
 Some older books read court cards as physical types: hair colour, age. I don’t; a rank is a temperament. It’s also why I read without [a significator card](/blog/significator-card/), the court card traditionally picked to stand for the person.
 

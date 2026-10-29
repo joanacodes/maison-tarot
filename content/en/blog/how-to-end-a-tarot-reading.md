@@ -22,7 +22,7 @@ At Maison Tarot the person tells me nothing before a reading. The end is where t
 3. What surprised you?
 4. Is there something you expected to hear and didn’t?
 
-Listen without defending. If something missed, say “that one’s a miss” and leave it there; I go through it in [owning a card that landed wrong](/blog/tarot-reading-wrong/).
+Listen without defending. If something missed, say “that one’s a miss” and leave it there; I go through [how to own a card that landed wrong](/blog/tarot-reading-wrong/) separately.
 
 The fourth question matters more than it looks. Sometimes what the person came for never came up, and saying so out loud is a relief. They’re allowed to leave with their question still theirs.
 

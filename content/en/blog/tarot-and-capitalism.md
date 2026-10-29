@@ -63,7 +63,7 @@ I sell lessons: one-to-one sessions of sixty minutes, and three-hour workshops f
 
 The reason is the incentive again. If readings paid my rent, I’d depend on people coming back for more of them. Lessons work the other way: they’ve done their job when a student needs me less. And at a free event, saying “that’s a miss” costs me nothing, so I say it every time.
 
-[What I’m paid for, and what costs you nothing](/blog/what-i-charge-for/), is set out elsewhere, so I’ll skip it here. If you’re comparing paid readers instead, [what goes into the price of a reading](/blog/tarot-reading-price/) is the companion to this page.
+I’ve set out [what I’m paid for, and what costs you nothing](/blog/what-i-charge-for/) elsewhere, so I’ll skip it here. If you’re comparing paid readers instead, [what goes into the price of a reading](/blog/tarot-reading-price/) is the companion to this page.
 
 ## How to recognise a fair paid reading {#fair-paid-reading}
 

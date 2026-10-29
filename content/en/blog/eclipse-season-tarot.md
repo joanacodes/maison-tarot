@@ -47,7 +47,7 @@ What a reading can hold in eclipse season is what it holds in any week: how you 
 
 Nor does your deck soak anything up. There's nothing to [cleanse afterwards](/blog/cleanse-tarot-deck/): if a reading felt heavy, it's you who needs a rest, not the cards.
 
-My own frame for astrology applies here too. In [my test of my own birth chart](/blog/i-tested-my-birth-chart/), between 30 and 40% of the descriptions held overall, and eclipses never came into it. A third is enough to treat an eclipse as a theme to think with, and not enough to let it decide when you're allowed to shuffle.
+My own frame for astrology applies here too. In [the test I ran on my own birth chart](/blog/i-tested-my-birth-chart/), between 30 and 40% of the descriptions held overall, and eclipses never came into it. A third is enough to treat an eclipse as a theme to think with, and not enough to let it decide when you're allowed to shuffle.
 
 ## Three questions before you shuffle in eclipse season {#three-questions}
 

@@ -33,7 +33,7 @@ The usual modern reading goes like this. The South Node is what comes naturally:
 
 Say someone has the South Node in Virgo and the North Node in Pisces. Analysing, organising and fixing details come without effort; overdone, that turns into control and criticism. The Pisces side asks for the opposite muscles: trust, imagination, letting go.
 
-You’ll also meet a karmic reading, common in what’s called evolutionary astrology: the South Node is what you bring from past lives, the North Node the direction of this one. If that framing speaks to you, it’s there. The reading in my notes stays closer to the ground: natural strengths and weaknesses, in this life.
+You’ll also meet a karmic reading, common in what’s called evolutionary astrology: the South Node is what you bring from past lives, the North Node the direction of this one. If that framing means something to you, it’s available. The reading in my notes stays closer to the ground: natural strengths and weaknesses, in this life.
 
 ## The six axes, in one table {#axes}
 

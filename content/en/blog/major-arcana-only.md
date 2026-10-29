@@ -47,7 +47,7 @@ Say someone tells you nothing and draws three majors: the Hermit, the Wheel of F
 
 {{< cards "ar09 ar10 ar17" >}}
 
-The Hermit, a 9 in Earth: a grey figure alone on a peak with a lantern — the end of a cycle, introspection. The Wheel of Fortune, a 10 in Fire: a great wheel turning, and nobody's hand on it. In my notes, the turning is your job, and so is the luck. The Star, 17 reduced to 8, in Air: a woman pouring water under an open sky, giving freely after a hard time.
+The Hermit, a 9 in Earth: a grey figure alone on a peak with a lantern — the end of a cycle, introspection. The Wheel of Fortune, a 10 in Fire: a great wheel turning, and nobody's hand on it. In my notes, that missing hand is meant to be yours: luck is made, not waited for. The Star, 17 reduced to 8, in Air: a woman pouring water under an open sky, giving freely after a hard time.
 
 As a sentence: “You've spent a while withdrawn, finishing something on your own. A turn is coming, and nobody else is going to turn it for you. After it, something like hope.”
 

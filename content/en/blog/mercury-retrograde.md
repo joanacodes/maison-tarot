@@ -53,7 +53,7 @@ If you like the “re-” theme, give it a small spread about communication. Thr
 2. *What didn't I hear?*
 3. *What would I say now, if I said it again?*
 
-Before looking anything up, let each card's colours, element and number speak first. You don't have to send anything afterwards. Put the three cards in your notebook with a line about each, and go back to that page the day Mercury turns direct.
+Before looking anything up, let each card's colours, element and number speak. You don't have to send anything afterwards. Put the three cards in your notebook with a line about each, and go back to that page the day Mercury turns direct.
 
 ## When is the next one? {#next}
 
