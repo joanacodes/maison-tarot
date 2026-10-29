@@ -31,7 +31,7 @@ Il existe une trace plus ancienne. Le chercheur italien Franco Pratesi a retrouv
 
 ## 1781 : Court de Gébelin et le livre égyptien {#gebelin}
 
-[Antoine Court de Gébelin](/fr/bibliotheque/figures-du-tarot/court-de-gebelin/) est un érudit parisien lancé dans une œuvre immense, *Le Monde primitif, analysé et comparé avec le monde moderne*. Dans le tome 8, paru en 1781, il en vient au tarot. Sa thèse : ce n’est pas un simple jeu de cartes, mais un vestige de l’Égypte ancienne, dont les images portent la théologie égyptienne. Il voit Isis dans la Papesse, notre [Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/).
+[Antoine Court de Gébelin](/fr/bibliotheque/figures-du-tarot/court-de-gebelin/) est un érudit parisien lancé dans une vaste entreprise, *Le Monde primitif, analysé et comparé avec le monde moderne*. Dans le tome 8, paru en 1781, il en vient au tarot. Sa thèse : ce n’est pas un simple jeu de cartes, mais un vestige de l’Égypte ancienne, dont les images portent la théologie égyptienne. Il voit Isis dans la Papesse, notre [Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/).
 
 Le même tome contient un second essai, signé « M. le C. de M.*** », que l’on identifie aujourd’hui à Louis-Raphaël-Lucrèce de Fayolle, comte de Mellet. Il relie les atouts aux lettres de l’alphabet hébreu et décrit une manière de tirer l’avenir avec les cartes. Les historiens du tarot jugent son essai le plus influent des deux.
 
@@ -39,7 +39,7 @@ Le même tome contient un second essai, signé « M. le C. de M.*** », que l’
 
 ## Etteilla, le premier à en vivre {#etteilla}
 
-Jean-Baptiste Alliette (1738-1791) signait de son nom à l’envers : [Etteilla](/fr/bibliotheque/figures-du-tarot/etteilla/). Après son livre sur le piquet, en 1770, il reprend la théorie de Court de Gébelin et la pousse beaucoup plus loin. Entre 1783 et 1785, il publie sa méthode pour le tarot en quatre cahiers, *Manière de se récréer avec le jeu de cartes nommées tarots*. En 1788, il fonde une société d’« interprètes du Livre de Thot ».
+Jean-Baptiste Alliette (1738-1791) signait de son nom à l’envers : [Etteilla](/fr/bibliotheque/figures-du-tarot/etteilla/). Il a déjà derrière lui son livre sur le piquet, de 1770, quand la théorie de Court de Gébelin lui donne un nouveau sujet. Sa méthode pour le tarot paraît en quatre cahiers entre 1783 et 1785, sous le titre *Manière de se récréer avec le jeu de cartes nommées tarots*, et il fonde en 1788 une société, les « interprètes du Livre de Thot ».
 
 Puis il fait quelque chose de neuf : il conçoit un jeu de tarot pour lire, et non pour jouer. Les gravures sont commandées en 1788, et le jeu paraît vers 1789. Vous le verrez parfois daté de 1785 : c’est l’année de son dernier cahier, et les cartes sont venues quelques années après.
 
@@ -53,9 +53,9 @@ Deux idées reçues prennent racine pendant cette décennie ou peu après. L’�
 
 ## Ce que j’en garde {#lecture}
 
-Chaque sens d’un petit livret a un auteur et une date. Ceux d’Etteilla datent des années 1780, ceux de Waite de 1910, ceux de mon carnet de ces dernières années. Ce n’est pas une raison pour les jeter. C’est une raison pour les traiter comme des propositions, pas comme des révélations.
+Chaque sens d’un petit livret a un auteur et une date. Ceux d’Etteilla datent des années 1780, ceux de Waite de 1910, ceux de mon carnet de ces dernières années. Ce n’est pas une raison pour les jeter. C’est une raison pour les traiter comme des propositions, pas comme des révélations. Ça vaut pour Court de Gébelin autant que pour moi.
 
-*Ne prenez pas mes mots pour une vérité absolue. Testez, et faites-en l’expérience vous-même.* Ça vaut pour Court de Gébelin autant que pour moi. [La méthode](/fr/methode/) explique comment je compte ce qui a tenu et ce qui a raté, pour que les sens que vous gardez soient ceux qui ont mérité leur place.
+[La méthode](/fr/methode/) explique comment je compte ce qui a tenu et ce qui a raté, pour que les sens que vous gardez soient ceux qui ont mérité leur place.
 
 ## Sources {#sources}
 

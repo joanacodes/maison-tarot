@@ -55,19 +55,19 @@ Il change aussi le vocabulaire du jeu. Quatre majeurs sont rebaptisés : la Just
 
 ## Ce qu’il n’a pas fait {#idees-recues}
 
-Il n’a pas peint le jeu. Chaque carte est l’œuvre de Harris. L’étude récente de Deja Whitehouse, publiée par Oxford University Press, va plus loin : selon elle, le rôle de Harris dépasse de loin l’exécution de consignes. Elle a façonné les images, les a fait connaître et les a exposées.
+Il n’a pas peint le jeu. Chaque carte est l’œuvre de Harris. Deja Whitehouse, dans une étude récente parue chez Oxford University Press, va plus loin : selon elle, le rôle de Harris dépasse de loin l’exécution de consignes.
 
 Il n’a pas vu les cartes imprimées. *The Book of Thoth* est sorti à 200 exemplaires, et le jeu n’a été imprimé sous forme de cartes qu’après la mort de Crowley et de Harris ; la première édition est en général datée de 1969.
 
 Il n’a pas inventé les correspondances. Le schéma dont il part, chaque majeur relié à une lettre hébraïque et à une attribution astrologique, est celui de la Golden Dawn, qui reprenait lui-même ce qu’avaient proposé [Éliphas Lévi](/fr/bibliotheque/figures-du-tarot/eliphas-levi/) et les occultistes français. Crowley a révisé une partie du système ; il ne l’a pas créé. [La page sur la Golden Dawn](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/) montre d’où il vient.
 
-Et le jeu n’est pas dangereux à posséder ni à lire. Il est dense, il porte tout le système de Crowley, ce qui est autre chose. **Les cartes ne sont pas magiques, vous l’êtes : c’est vrai pour le Thoth comme pour n’importe quel jeu.**
+Et le jeu n’est pas dangereux à posséder ni à lire. Il est dense, il porte tout le système de Crowley, ce qui est autre chose.
 
 ## Pourquoi ça compte pour vous aujourd’hui {#aujourdhui}
 
 Le Thoth est souvent le deuxième jeu qu’on découvre après le [Rider-Waite-Smith](/fr/blog/tarot-rider-waite-smith/), et passer de l’un à l’autre ne se résume pas à un changement de style. Les noms changent, deux numéros échangent leur place, et les mineurs fonctionnent autrement : là où Pamela Colman Smith dessinait des scènes, Harris a peint les symboles des enseignes eux-mêmes, si bien que la couleur et la forme portent une plus grande part du sens.
 
-Si vous apprenez, je vous conseille de commencer par un seul jeu et d’y rester jusqu’à ce que les [nombres](/fr/bibliotheque/numerologie/) et les [éléments](/fr/bibliotheque/quatre-elements/) viennent sans y penser. Ces acquis se transportent. Ouvrez ensuite le Thoth avec les noms de Crowley en tête, et vérifiez où sont la Force et la Justice avant de vous fier à un numéro. La comparaison complète est dans [Thoth ou Rider-Waite-Smith](/fr/blog/thoth-ou-rider-waite/), et le siècle qui a produit les deux jeux se raconte dans [le tarot au XXe siècle](/fr/bibliotheque/histoire-du-tarot/le-tarot-au-xxe-siecle/).
+Si vous apprenez, je vous conseille de commencer par un seul jeu et d’y rester jusqu’à ce que les [nombres](/fr/bibliotheque/numerologie/) et les [éléments](/fr/bibliotheque/quatre-elements/) viennent sans y penser. Ces acquis se transportent. Ouvrez ensuite le Thoth avec les noms de Crowley en tête, et vérifiez où sont la Force et la Justice avant de vous fier à un numéro. La comparaison complète est dans [Thoth ou Rider-Waite-Smith](/fr/blog/thoth-ou-rider-waite/), et [le tarot au XXe siècle](/fr/bibliotheque/histoire-du-tarot/le-tarot-au-xxe-siecle/) retrace le siècle qui a produit les deux jeux.
 
 On peut juger l’homme et le jeu séparément. Nul besoin d’admirer Crowley pour trouver le Thoth utile, ni de l’utiliser pour comprendre pourquoi tant de lecteurs y tiennent.
 

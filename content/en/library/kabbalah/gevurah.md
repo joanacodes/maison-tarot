@@ -27,13 +27,13 @@ Gevurah (גבורה) means “strength” or “might”. It is the fifth of the
 
 **Gevurah isn’t cruelty: it’s the limit that makes kindness possible.** [Chesed](/library/kabbalah/chesed/), on its own, would flood; Gevurah decides how much, for whom, and when. Think of a parent who says no to a third dessert: the no is part of the care.
 
-The tradition attaches it to Isaac, as it attaches Chesed to Abraham. On the Tree, Gevurah is number 5, on the left column under [Binah](/library/kabbalah/binah/), facing Chesed on the right. The two meet in [Tiferet](/library/kabbalah/tiferet/), in the middle, which balances them; Hermetic diagrams call these three the ethical triangle. The [Tree of Life page](/library/kabbalah/tree-of-life/) shows them in place.
+The tradition attaches it to Isaac, as it attaches Chesed to Abraham. On the [Tree](/library/kabbalah/tree-of-life/), Gevurah is number 5, on the left column under [Binah](/library/kabbalah/binah/), facing Chesed on the right. The two meet in [Tiferet](/library/kabbalah/tiferet/), in the middle, which balances them; Hermetic diagrams call these three the ethical triangle.
 
 {{< tree-of-life highlight="gevurah" >}}
 
 ## The four Fives {#cards}
 
-The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of the Golden Dawn, which borrowed the Tree and rebuilt it as a system for cards, planets and elements. In that system, a teaching about how judgement tempers kindness becomes a sphere ruled by Mars, and the Fives — conflict, loss, defeat — land on it. I keep the two apart. Each sephirah takes the four minor cards of its number, so Gevurah takes the Fives.
+The Golden Dawn turned a teaching about how judgement tempers kindness into a sphere ruled by Mars, and the Fives — conflict, loss, defeat — land on it.
 
 {{< cards "wa05 cu05 sw05 pe05" >}}
 
@@ -50,11 +50,9 @@ The number frames them: [five](/library/numerology/number-5/) is conflict and tr
 
 ## Gevurah and astrology: Mars {#astrology}
 
-The Golden Dawn gives Gevurah [Mars](/library/astrology/mars/): raw energy, anger, desire, the way you fight. The planets come down the Tree in the old order of the skies, slowest first — Saturn, Jupiter, then Mars — so Mars lands on the sephirah of judgement, facing Jupiter’s generosity across the Tree.
+The Golden Dawn gives Gevurah [Mars](/library/astrology/mars/): raw energy, anger, desire, the way you fight. Mars is the third planet down, after Saturn and Jupiter, so it lands on the sephirah of judgement, facing Jupiter’s generosity across the Tree.
 
-One card shows the link: the Five of Cups, Gevurah in the suit of Water, is Mars in Scorpio. A cloaked figure looking at three spilled cups, two still standing behind: Mars, here, is the force of grief, not of attack.
-
-These planets belong to the Hermetic system, not to the Jewish definition of Gevurah.
+The Five of Cups holds both at once: Gevurah in the suit of Water, Mars in Scorpio. A cloaked figure looking at three spilled cups, two still standing behind: Mars, here, is the force of grief, not of attack.
 
 ## Gevurah in a reading {#reading}
 
@@ -64,11 +62,11 @@ Say someone draws the Five of Swords next to the Two of Cups: a disagreement ins
 
 When a Five sits next to a Four, Chesed and Gevurah are side by side on the table: what was given, and where it stops. That pairing is often the whole story.
 
-It stays an optional extra lens. If it helps you look at the hard cards with less dread, keep it; if not, the number and the element have already said what matters.
+If this lens helps you look at the hard cards with less dread, keep it; if it doesn’t, set it aside.
 
 ## Sources {#sources}
 
 - [Sefaria, “Gevura”](https://www.sefaria.org/topics/gevura) — the sephirah in Jewish sources: the fifth of the ten, named for restraint and constriction, on the left column.
-- [Chabad.org, “Ladder With No Snakes”](https://www.chabad.org/kabbalah/article_cdo/aid/379343/jewish/Ladder-With-No-Snakes.htm) — the patriarchs and the sephirot: Abraham with Chesed on the right, Isaac with Gevurah on the left.
-- [Encyclopaedia Britannica, “Sefira”](https://www.britannica.com/topic/sefira) — the ten sephirot as emanations, from the Sefer Yetzirah to later Kabbalah.
-- [Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983)](https://discovery.nypl.org/research/research-catalog/bib/b10815500) — library record of a study of the Golden Dawn’s tarot on the Tree of Life, sephirah by sephirah.
+- [Chabad.org, “Ladder With No Snakes”](https://www.chabad.org/kabbalah/article_cdo/aid/379343/jewish/Ladder-With-No-Snakes.htm) — Isaac and Gevurah, set beside Abraham and Chesed, in a Chabad essay on the patriarchs.
+- [Encyclopaedia Britannica, “Sefira”](https://www.britannica.com/topic/sefira) — the reference entry on the ten sephirot, for readers who want the wider frame.
+- [Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983)](https://discovery.nypl.org/research/research-catalog/bib/b10815500) — library record of Wang’s study of the Golden Dawn tarot, which reads the Fives through Gevurah.

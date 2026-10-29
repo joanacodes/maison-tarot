@@ -25,7 +25,7 @@ Au XXe siècle, le tarot sort des sociétés secrètes. En 1909, un éditeur lon
 
 ## 1909 : un jeu pour tous, venu d’une société secrète {#rws}
 
-En 1909, l’occultiste [Arthur Edward Waite](/fr/bibliotheque/figures-du-tarot/arthur-edward-waite/) (1857-1942) commande à l’artiste [Pamela Colman Smith](/fr/bibliotheque/figures-du-tarot/pamela-colman-smith/) (1878-1951) les dessins d’un jeu de 78 cartes. William Rider & Son le publie à Londres en décembre 1909, et le livre de Waite qui l’accompagne, *The Key to the Tarot*, suit en 1910. Tous deux avaient été membres de la Golden Dawn, et ses correspondances traversent le jeu : [la Force y est VIII, la Justice XI](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/).
+En 1909, l’occultiste [Arthur Edward Waite](/fr/bibliotheque/figures-du-tarot/arthur-edward-waite/) (1857-1942) commande à l’artiste [Pamela Colman Smith](/fr/bibliotheque/figures-du-tarot/pamela-colman-smith/) (1878-1951) les dessins d’un jeu de 78 cartes. Le jeu paraît en décembre 1909 chez William Rider & Son, à Londres, et le livre de Waite qui l’accompagne, *The Key to the Tarot*, suit en 1910. Tous deux avaient été membres de la Golden Dawn, et ses correspondances traversent le jeu : [la Force y est VIII, la Justice XI](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/).
 
 Le Victoria and Albert Museum de Londres, qui conserve des cartes de ce jeu, décrit le partage du travail. Waite a donné à Smith des instructions strictes pour les arcanes majeurs. Les arcanes mineurs sont entièrement de sa conception à elle.
 
@@ -35,7 +35,7 @@ Le jeu porte encore plusieurs noms. Beaucoup de tarologues disent aujourd’hui 
 
 ## Les secrets passent à l’imprimerie {#imprime}
 
-L’enseignement de la Golden Dawn sur le tarot n’est pas resté longtemps entre les murs du temple. En 1912, Aleister Crowley en imprime une version, « A Description of the Cards of the Tarot », dans sa revue *The Equinox*. Entre 1937 et 1940, Israel Regardie publie à Chicago, en quatre volumes, les rituels et l’enseignement de l’Ordre. Ce qui avait été juré secret pouvait désormais s’emprunter en bibliothèque.
+L’enseignement de la Golden Dawn sur le tarot n’est pas resté longtemps entre les murs du temple. Aleister Crowley en fait paraître une version dans sa revue, *The Equinox*, en 1912, et les quatre volumes qu’Israel Regardie tire des papiers de l’Ordre sortent à Chicago entre 1937 et 1940.
 
 [Aleister Crowley](/fr/bibliotheque/figures-du-tarot/aleister-crowley/) conçoit ensuite son propre jeu, le tarot de Thoth, peint par Frieda Harris. Il garde l’astrologie et les décans de la Golden Dawn, et change l’apparence de tout le reste. [Thoth ou Rider-Waite-Smith](/fr/blog/thoth-ou-rider-waite/) compare les deux du point de vue d’un lecteur.
 
@@ -51,7 +51,7 @@ Le tarot de Thoth, lui, a attendu : Harris l’a peint entre 1938 et 1943, et il
 
 ## En France : le Marseille trouve son édition de référence {#france}
 
-En France, le siècle s’ouvre avec le tarot occultiste de Papus et de Wirth, paru en 1889, déjà en circulation. En 1930, Paul Marteau, qui dirige la maison Grimaud, publie *L’Ancien Tarot de Marseille*, une nouvelle édition tirée de modèles du XVIIIe siècle. Son titre a fixé le nom du modèle, et c’est peut-être le Marseille que vous avez déjà croisé, dans une brocante ou chez une grand-mère. [La page sur le Tarot de Marseille](/fr/bibliotheque/histoire-du-tarot/histoire-du-tarot-de-marseille/) raconte d’où vient ce modèle.
+En France, le siècle s’ouvre avec le tarot occultiste de Papus et de Wirth, paru en 1889, déjà en circulation. L’édition de référence arrive en 1930 : Paul Marteau, à la tête de la maison Grimaud, fait paraître *L’Ancien Tarot de Marseille*, tiré de jeux du XVIIIe siècle ; son titre a fixé le nom du modèle, et c’est peut-être le Marseille que vous avez déjà croisé, dans une brocante ou chez une grand-mère. [La page sur le Tarot de Marseille](/fr/bibliotheque/histoire-du-tarot/histoire-du-tarot-de-marseille/) remonte aux origines du modèle.
 
 ## Le tarot au musée et à l’atelier {#art}
 
@@ -69,7 +69,7 @@ Si vous débutez, commencez là où les images de Smith le permettent : regardez
 
 - [Victoria and Albert Museum, carte du Rider-Waite-Smith par Pamela Colman Smith](https://collections.vam.ac.uk/item/O1028236) (en anglais) — la commande de 1909, et qui a dessiné quelles cartes.
 - [The Morgan Library & Museum, *Tarot! Renaissance Symbols, Modern Visions*, communiqué](https://www.themorgan.org/press/2026/tarot-exhibition) (en anglais) — l’exposition de 2026, des jeux milanais aux artistes modernes.
-- [Museum of Witchcraft and Magic, Israel Regardie, *The Golden Dawn*](https://museumofwitchcraftandmagic.co.uk/library/314-golden-dawn-the/) (en anglais) — les volumes de 1937-1940 qui ont imprimé l’enseignement de l’Ordre.
-- [Yale University Library, *Ancien Tarot de Marseille* (Grimaud)](https://collections.library.yale.edu/catalog/10991686) (en anglais) — la notice de l’édition de Paul Marteau.
+- [Museum of Witchcraft and Magic, Israel Regardie, *The Golden Dawn*](https://museumofwitchcraftandmagic.co.uk/library/314-golden-dawn-the/) (en anglais) — la fiche des quatre volumes de Regardie consacrés aux papiers de l’Ordre.
+- [Yale University Library, *Ancien Tarot de Marseille* (Grimaud)](https://collections.library.yale.edu/catalog/10991686) (en anglais) — la fiche de Yale pour le jeu Grimaud publié par Paul Marteau.
 - [Mary K. Greer, « Eden Gray’s Fool’s Journey »](https://marykgreer.com/2008/03/27/eden-grays-fools-journey/) (en anglais) — historienne et autrice sur le tarot : les livres d’Eden Gray et l’origine du « voyage du Mat ».
 - [U.S. Games Systems](https://en.wikipedia.org/wiki/U.S._Games_Systems) (en anglais) — Wikipédia : l’entreprise, sa fondation en 1968 et les droits du Rider-Waite.

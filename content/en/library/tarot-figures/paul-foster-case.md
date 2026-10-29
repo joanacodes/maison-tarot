@@ -67,7 +67,7 @@ Every tarot course you can take from home rests on the idea Case built a school 
 
 The limit he faced is still the one to watch. Lessons can give you the symbols, the [numbers](/library/numerology/) and the structure. They can’t tell you when you’ve read a card wrongly. That is why I suggest keeping a notebook, what you said on one side and what was confirmed on the other, and why I teach in [workshops](/workshops/), with people in the room.
 
-If you want to start the way Case’s students did, with one subject at a time and in order, [the learning path](/learn-tarot/) is built like that. The orders and schools that shaped modern tarot are on [the Golden Dawn page](/library/tarot-history/golden-dawn-tarot/), and the century of decks and courses that followed is in [tarot in the 20th century](/library/tarot-history/tarot-in-the-20th-century/).
+If you want to start the way Case’s students did, with one subject at a time and in order, [the learning path](/learn-tarot/) is built like that. The orders and schools that shaped modern tarot are on [the Golden Dawn page](/library/tarot-history/golden-dawn-tarot/), and [tarot in the 20th century](/library/tarot-history/tarot-in-the-20th-century/) picks up the century of decks and courses that followed.
 
 ## Sources {#sources}
 

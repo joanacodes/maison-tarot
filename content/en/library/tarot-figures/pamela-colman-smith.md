@@ -69,7 +69,7 @@ When you look at the Five of Cups and feel the loss before you know a single key
 
 That is why I start everyone on her deck. My method leans on what is drawn: the [colours](/library/tarot-colours/), the numbers, the elements. Those are her choices — the red of a cloak, the grey of a sky — and they hold together across 78 cards.
 
-Try it with the three cards above. Look at her Three of Swords, then the Ten of Wands, and say what you see before you say what they “mean”. That is the first exercise on [the learning path](/learn-tarot/). The story of the deck itself, its publisher and how it became the standard, is in [the Rider-Waite-Smith article](/blog/rider-waite-smith-tarot/); the order she belonged to has its own page, [the Golden Dawn and its tarot](/library/tarot-history/golden-dawn-tarot/); and the century her cards conquered is told in [tarot in the 20th century](/library/tarot-history/tarot-in-the-20th-century/).
+Try it with the three cards above. Look at her Three of Swords, then the Ten of Wands, and say what you see before you say what they “mean”. That is the first exercise on [the learning path](/learn-tarot/). The story of the deck itself, its publisher and how it became the standard, is in [the Rider-Waite-Smith article](/blog/rider-waite-smith-tarot/); the order she belonged to has its own page, [the Golden Dawn and its tarot](/library/tarot-history/golden-dawn-tarot/); and [tarot in the 20th century](/library/tarot-history/tarot-in-the-20th-century/) follows the century her cards conquered.
 
 ## Sources {#sources}
 

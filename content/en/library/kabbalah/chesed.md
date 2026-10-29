@@ -27,13 +27,13 @@ Chesed (חסד) is usually translated “loving-kindness”; “mercy” and “
 
 Chassidic teaching describes chesed as giving without limit — it wants to do good even to someone who lacks nothing. **Chesed is the hand that opens before it asks whether the gift is needed.** Think of the friend who cooks for ten when four are coming.
 
-The tradition attaches it to Abraham, who in Genesis runs out to welcome three strangers to his tent. On the Tree, Chesed is number 4, on the right column under [Chokhmah](/library/kabbalah/chokhmah/), facing [Gevurah](/library/kabbalah/gevurah/) on the left. The two meet in [Tiferet](/library/kabbalah/tiferet/), in the middle, which balances them. Hermetic diagrams call these three the ethical triangle. The [Tree of Life page](/library/kabbalah/tree-of-life/) shows them in place.
+The tradition attaches it to Abraham, who in Genesis runs out to welcome three strangers to his tent. On the [Tree](/library/kabbalah/tree-of-life/), Chesed is number 4, on the right column under [Chokhmah](/library/kabbalah/chokhmah/), facing [Gevurah](/library/kabbalah/gevurah/) on the left; below them both, in the middle column, sits [Tiferet](/library/kabbalah/tiferet/), where the two are brought into balance.
 
 {{< tree-of-life highlight="chesed" >}}
 
 ## The four Fours {#cards}
 
-The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of the Golden Dawn, which borrowed the Tree and rebuilt it as a system for cards, planets and elements. In that system, a teaching about how God gives becomes a sphere ruled by Jupiter, holding four playing cards. I keep the two apart. Each sephirah takes the four minor cards of its number, so Chesed takes the Fours.
+In the Golden Dawn’s hands, a teaching about how God gives becomes a sphere ruled by Jupiter, holding four playing cards: the Fours.
 
 {{< cards "wa04 cu04 sw04 pe04" >}}
 
@@ -52,9 +52,9 @@ The Four of Pentacles is where the lens gets interesting. The Golden Dawn calls 
 
 The Golden Dawn gives Chesed [Jupiter](/library/astrology/jupiter/): expansion, confidence, what you take for luck. The planets come down the Tree in the old order of the skies, slowest first — Saturn on Binah, then Jupiter, then Mars — so Jupiter lands on the sephirah of giving.
 
-One card shows the link: the Four of Swords, Chesed in the suit of Air, is Jupiter in Libra. A knight lying at rest in a church, three swords on the wall: the generosity of Jupiter, here, is the permission to stop.
+You can see the pairing in the Four of Swords, Chesed in the suit of Air and Jupiter in Libra. A knight lying at rest in a church, three swords on the wall: the generosity of Jupiter, here, is the permission to stop.
 
-These planets belong to the Hermetic system, not to the Jewish definition of Chesed. If [astrology](/library/astrology/) isn’t one of your lenses, the cards read perfectly well without it.
+If [astrology](/library/astrology/) isn’t one of your lenses, the cards read perfectly well without it.
 
 ## Chesed in a reading {#reading}
 
@@ -64,11 +64,9 @@ Say someone draws the Four of Wands next to the Five of Pentacles: a celebration
 
 Or the Four of Cups alone: someone looking down at three cups while a hand from a cloud offers a fourth. Chesed reminds you the gift is there; it can’t make anyone take it.
 
-Use this lens lightly. It’s an optional extra beside the five I teach, and it works best as a question you ask, not an answer you impose.
-
 ## Sources {#sources}
 
 - [Sefaria, “Ḥesed”](https://www.sefaria.org/topics/hesed) — the sephirah in Jewish sources: the fourth of the ten, the right hand of the structure.
 - [Chabad.org, “Ladder With No Snakes”](https://www.chabad.org/kabbalah/article_cdo/aid/379343/jewish/Ladder-With-No-Snakes.htm) — the patriarchs and the sephirot: Abraham with Chesed on the right, Isaac with Gevurah on the left.
-- [Encyclopaedia Britannica, “Sefira”](https://www.britannica.com/topic/sefira) — the ten sephirot as emanations, from the Sefer Yetzirah to later Kabbalah.
+- [Encyclopaedia Britannica, “Sefira”](https://www.britannica.com/topic/sefira) — the encyclopaedia’s definition of a sefira, and of the ten together.
 - [Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983)](https://discovery.nypl.org/research/research-catalog/bib/b10815500) — library record of a study of the Golden Dawn’s tarot on the Tree of Life, sephirah by sephirah.

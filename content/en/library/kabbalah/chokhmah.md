@@ -29,13 +29,13 @@ Chokhmah (חכמה) means “wisdom”. It is the second of the ten sephirot, ri
 
 **Chokhmah is the idea that arrives all at once, before you know how to explain it.** Think of seeing the solution to a problem all at once, then needing an hour to write it down: the seeing is Chokhmah.
 
-On the Tree, Chokhmah is number 2, at the top of the right column, the side of expansion and giving that leads down to [Chesed](/library/kabbalah/chesed/). With Keter and Binah it forms the upper three. The [Tree of Life page](/library/kabbalah/tree-of-life/) shows the whole layout.
+On the Tree, Chokhmah is number 2, at the top of the right column, the side of expansion and giving that leads down to [Chesed](/library/kabbalah/chesed/). Keter, Chokhmah and Binah together make the upper three, and the whole layout is on the [Tree of Life page](/library/kabbalah/tree-of-life/).
 
 {{< tree-of-life highlight="chokhmah" >}}
 
 ## The four Twos {#cards}
 
-The tarot correspondences aren’t Jewish. They come from the Hermetic Qabalah of the Golden Dawn, which borrowed the Tree and rebuilt it as a system for cards, planets and elements. It’s a transformation of the tradition, and I keep the two apart. In that system, each sephirah takes the four minor cards of its number, so Chokhmah takes the Twos.
+On the Golden Dawn’s Tree, the second sphere takes the second card of every suit: the four Twos.
 
 {{< cards "wa02 cu02 sw02 pe02" >}}
 
@@ -54,7 +54,7 @@ Book T, the Golden Dawn’s tarot manuscript, also puts the court cards on the T
 
 The Chokhmah figure is a crowned rider on horseback, and the Golden Dawn’s own papers give him two names. Decks drawn from them, like Robert Wang’s, call him the King; Book T’s card titles call him the Knight and describe him as a king — for Wands, “Lord of the Flame and the Lightning, King of the Spirits of Fire”.
 
-**Which Rider-Waite-Smith card sits here is debated.** Waite’s deck keeps the older names — King, Queen, Knight, Page — and they don’t line up one to one with the Golden Dawn’s. Read by title and rank, the Rider-Waite-Smith King is the Golden Dawn King, so the four [Kings](/library/numerology/king/) take Chokhmah. That’s how Benebell Wen teaches it for the Rider-Waite-Smith (she puts the Knights here for the Thoth deck), and she says openly that the point is argued. It’s also the reading the card pages on this site follow: the King of Wands is Fire of Fire. Read by picture, the rider is the [Knight](/library/numerology/knight/), and some authors put the Knights here instead.
+**Which Rider-Waite-Smith card sits here is debated.** Waite’s deck keeps the older names — King, Queen, Knight, Page — and they don’t line up one to one with the Golden Dawn’s. Read by title and rank, the Rider-Waite-Smith King is the Golden Dawn King, so the four [Kings](/library/numerology/king/) take Chokhmah. That’s how Benebell Wen teaches it for the Rider-Waite-Smith (she puts the Knights here for the Thoth deck), and she says openly that the point is argued. It’s also the choice made on this site’s card pages, which give the King of Wands Fire of Fire. Read by picture, the rider is the [Knight](/library/numerology/knight/), and some authors put the Knights here instead.
 
 {{< cards "waki cuki swki peki" >}}
 
@@ -62,7 +62,7 @@ The Chokhmah figure is a crowned rider on horseback, and the Golden Dawn’s own
 
 The Golden Dawn gives Chokhmah no planet. Its sphere is the zodiac, also called the sphere of the fixed stars: in medieval astronomy, the eighth heaven, beyond the seven planets. All twelve signs at once, before any of them is singled out.
 
-That suits the Twos, the first cards in each suit to receive a decan, a planet in a sign. Some modern writers put Uranus or Neptune here, without agreeing among themselves; it isn’t the Golden Dawn’s scheme.
+That suits the Twos, the first cards in each suit to receive a decan, a planet in a sign. Some modern writers put Uranus or Neptune here, without agreeing among themselves; the Golden Dawn sticks to the zodiac.
 
 ## Chokhmah in a reading {#reading}
 
@@ -70,7 +70,7 @@ What Chokhmah can add is modest: a question about whether the person already kno
 
 Say someone draws the Two of Swords next to the Two of Wands. A blindfold on one side, a globe in the hand on the other: someone who can’t decide, and someone who already sees the whole map. Through Chokhmah, they can be the same person at two moments — the answer came first, the fear of it came after.
 
-The Tree stays an optional extra, beside the five lenses I teach. Don’t take my words as ultimate truth. Test it and experience it for yourself: lay the Twos out, read them with and without Chokhmah, and keep the lens only if it helps.
+Try it on the four Twos: read them with and without Chokhmah, and keep the lens only if it helps.
 
 ## Sources {#sources}
 

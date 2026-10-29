@@ -25,9 +25,9 @@ In the 19th century, French occultists turned tarot from a fortune-telling pack 
 
 ## Éliphas Lévi and the 22 letters {#levi}
 
-[Éliphas Lévi](/library/tarot-figures/eliphas-levi/) was the pen name of Alphonse-Louis Constant (1810–1875), a Parisian. His *Dogme et rituel de la haute magie* came out in two volumes; the Bibliothèque nationale de France records the Paris edition of 1856. Each volume has twenty-two chapters, one for each trump. The French encyclopaedia *Universalis* dates from 1856 the “new impetus” tarot received from the occultist movement around Lévi, Paul Christian and a few others, and calls Lévi the main founder of that movement in France.
+[Éliphas Lévi](/library/tarot-figures/eliphas-levi/) was the pen name of Alphonse-Louis Constant (1810–1875), a Parisian. His *Dogme et rituel de la haute magie* came out in two volumes; the Bibliothèque nationale de France records the Paris edition of 1856. Its two volumes follow the trumps, twenty-two chapters apiece. The French encyclopaedia *Universalis* dates from 1856 the “new impetus” tarot received from the occultist movement around Lévi, Paul Christian and a few others, and calls Lévi the main founder of that movement in France.
 
-Lévi’s thesis was ambitious: the tarot, he argued, was the original source of the West’s magical symbolism. To hold that together, he matched the cards to the Hebrew alphabet in their Marseille order. Aleph went to card I, [the Magician](/library/tarot-cards/the-magician/) (the Bateleur of the Marseille deck), Beth to card II, and so on up to Resh for Judgement, card XX. The Fool, which carries no number, took Shin, the twenty-first letter, and so sat between Judgement and the World, which took Tav.
+Lévi’s thesis was ambitious: the tarot, he argued, was the original source of the West’s magical symbolism. To hold that together, he matched the cards to the Hebrew alphabet in their Marseille order: [the Magician](/library/tarot-cards/the-magician/), card I (the Bateleur of the Marseille deck), took Aleph, and the unnumbered Fool was slipped in near the end of the alphabet.
 
 The idea wasn’t entirely new: the Comte de Mellet had already linked the trumps to Hebrew letters in 1781 (see [the 18th-century turn](/library/tarot-history/from-game-to-divination/)). Lévi made it a doctrine.
 
@@ -43,19 +43,19 @@ The Kabbalah is a Jewish mystical tradition. One of its early texts, *Sefer Yetz
 
 Lévi’s heirs went further at the end of the century. In 1889, Gérard Encausse, who wrote as Papus, published *Le Tarot des Bohémiens* in Paris. The same year, [Oswald Wirth](/library/tarot-figures/oswald-wirth/) drew twenty-two major arcana closely inspired by the Tarot de Marseille, which appeared with Papus’s book.
 
-The title carries a myth. *Bohémiens* meant the Romani people, and the idea that they had carried tarot across Europe was popular among French occultists of the period. The records say otherwise: playing cards were in Europe in the 1370s, decades before the first Romani groups appear in western European records. [The first page of this history](/library/tarot-history/playing-cards-arrive-in-europe/) gives the dates. The myth has followed Romani people ever since; it deserves to be set down kindly and for good.
+The title carries a myth. *Bohémiens* meant the Romani people, and the idea that they had carried tarot across Europe was popular among French occultists of the period. The records say otherwise: playing cards were in Europe in the 1370s, decades before Romani groups first turn up in western European records. [The first page of this history](/library/tarot-history/playing-cards-arrive-in-europe/) gives the dates. The myth has followed Romani people ever since; it deserves to be set down kindly and for good.
 
 ## Where it went next {#next}
 
 The French system crossed the Channel. In London, the Hermetic Order of the Golden Dawn, founded in 1888, kept the idea of letters and paths but changed the order: it moved the Fool to the front, on Aleph, so cards I to XX each took the next letter along. [The Golden Dawn page](/library/tarot-history/golden-dawn-tarot/) tells that story.
 
-That’s why your books disagree. A French book following Lévi or Wirth gives Aleph to the Magician; an English book following the Golden Dawn gives it to the Fool. Neither is wrong. They are two systems, each coherent on its own terms. [The table of the 22 letters](/library/kabbalah/hebrew-letters-major-arcana/) sets them side by side.
+That’s why your books disagree. A French book following Lévi or Wirth gives Aleph to the Magician; an English book following the Golden Dawn gives it to the Fool. Neither is wrong. They are two systems, each coherent on its own terms. [The table of the 22 letters](/library/kabbalah/hebrew-letters-major-arcana/) gives the two orders in neighbouring columns.
 
 ## What it means at the table {#reading}
 
 The letters are a lens some readers love, and I respect that. They are not required. Maison Tarot teaches you to read a card by its colours, its number and its element, which you can see on the card itself, before any system printed in a book.
 
-If the Kabbalah interests you, go to it as a tradition in its own right, not as a key that unlocks the deck. And start with the cards in front of you: [the complete path](/learn-tarot/) puts the lenses in order.
+If the Kabbalah interests you, go to it as a tradition in its own right, not as a key that unlocks the deck. And start with the cards in front of you: [the complete path](/learn-tarot/) starts from what is printed on them.
 
 ## Sources {#sources}
 

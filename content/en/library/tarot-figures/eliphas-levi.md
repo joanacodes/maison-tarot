@@ -41,7 +41,7 @@ Around 1854 he took a new name: Éliphas Lévi, his first names put into Hebrew.
 
 ## What he did for tarot {#tarot}
 
-*Dogme et rituel* is built on the tarot. Each of its two volumes has twenty-two chapters, one for each trump and each Hebrew letter, and Lévi called the trumps keys. His table follows the numbers of the Tarot de Marseille: Aleph for card I, the Magician (the Bateleur), Beth for card II, and so on to Tav for the World. The Fool, which has no number, takes Shin and sits between Judgement and the World.
+*Dogme et rituel* is built on the tarot. Each of its two volumes has twenty-two chapters, one for each trump and each Hebrew letter, and Lévi called the trumps keys. His table follows the Marseille numbering, from Aleph on card I, the Magician (the Bateleur), to Tav on the World; the unnumbered Fool gets Shin and lands between Judgement and the World.
 
 He also drew. His Chariot is pulled by two sphinxes instead of horses, and his Baphomet, a winged figure with a goat’s head, became a model for later Devils. In his guide to the 1909 deck, [Arthur Edward Waite](/library/tarot-figures/arthur-edward-waite/) wrote of the Chariot: “I have accepted the variation of Éliphas Lévi; two sphinxes thus draw his chariot.” [Pamela Colman Smith](/library/tarot-figures/pamela-colman-smith/)’s Devil borrows the pose of Lévi’s Baphomet too.
 
@@ -63,7 +63,7 @@ And his order isn’t the ancient one, because there isn’t one. Neither is the
 
 This is the practical part. The card pages on this site follow the Golden Dawn: the Fool is Aleph, the Magician is Beth. Many French books follow Lévi and Wirth: the Magician is Aleph, and most cards get the letter just before the one you’ll see here. Neither table is a mistake. [The table of the 22 letters](/library/kabbalah/hebrew-letters-major-arcana/) sets them side by side, so you can tell at a glance which one a book is using.
 
-I treat the letters as an extra layer, not a foundation. You can read the whole deck without a word of Hebrew; if a letter adds something to a card for you, keep it. Don’t take my words as ultimate truth. Test it and experience it for yourself.
+I treat the letters as an extra layer, not a foundation. You can read the whole deck without a word of Hebrew; if a letter adds something to a card for you, keep it.
 
 A good place to start is [the Magician](/library/tarot-cards/the-magician/), the card Lévi put first.
 

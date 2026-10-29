@@ -45,7 +45,7 @@ The minor cards have no scenes. A Five of Cups is five cups arranged in a patter
 
 ## Who named it {#name}
 
-The name is a 19th-century label: the International Playing-Card Society notes that scholars and occultists coined it in that century. The occultists took the pattern as their model. In 1889, [Oswald Wirth](/library/tarot-figures/oswald-wirth/) drew 22 major arcana closely inspired by it, published that same year with Papus’s book on tarot; [the page on occult tarot](/library/tarot-history/occult-tarot-19th-century/) tells that story.
+The name is a 19th-century label: the International Playing-Card Society notes that scholars and occultists coined it in that century. The occultists took the pattern as their model: the 22 major arcana that [Oswald Wirth](/library/tarot-figures/oswald-wirth/) drew in 1889, published with Papus’s book on tarot, follow it closely. [The page on occult tarot](/library/tarot-history/occult-tarot-19th-century/) tells that story.
 
 The 20th century made the name stick. In 1930, Paul Marteau, who ran the Paris card maker Grimaud, published *L’Ancien Tarot de Marseille*. Despite the word *ancien*, it is a 20th-century edition based on 18th-century models.
 

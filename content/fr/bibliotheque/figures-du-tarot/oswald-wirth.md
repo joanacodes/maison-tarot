@@ -65,7 +65,7 @@ Si vous apprenez avec des livres français, vous croiserez tôt ou tard les imag
 
 Faites l’essai avec une seule carte. Chez Wirth, le Bateleur porte Aleph ; sur [la page du Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/), ici, il porte Beth. Même figure, deux tables, et aucune n’est fausse.
 
-Le Rider-Waite-Smith que j’utilise a été dessiné vingt ans après son premier jeu, sur d’autres choix. [Tarot de Marseille ou Rider-Waite-Smith](/fr/blog/tarot-de-marseille-ou-rider-waite/) compare les deux familles.
+Le Rider-Waite-Smith que j’utilise a été dessiné vingt ans après son premier jeu, sur d’autres choix. [Tarot de Marseille ou Rider-Waite-Smith](/fr/blog/tarot-de-marseille-ou-rider-waite/) met les deux familles face à face.
 
 Ce que je garde de Wirth, c’est sa patience devant l’image. Son livre prend chaque arcane lentement : ce qui est dessiné, et pourquoi ce pourrait être là. C’est proche de ma façon d’enseigner — regarder avant d’interpréter — et [le parcours](/fr/apprendre-le-tarot/) commence exactement là.
 

@@ -62,7 +62,7 @@ Cela n’en fait pas une escroque, ni une voyante infaillible. C’était une pr
 
 Si vous tirez le Lenormand, vous utilisez un jeu allemand avec un nom français sur la boîte, et c’est très bien : le système fonctionne pour lui-même. Ce n’est pas du tarot, et ce n’est pas le sien. [Lenormand ou tarot](/fr/blog/lenormand-ou-tarot/) explique ce qui change quand on s’assoit pour lire.
 
-L’autre leçon concerne les clients célèbres. Une liste de noms prouve une notoriété, pas une justesse. Je compte mes ratés — environ un tirage sur dix, d’après mon carnet — et je le dis quand ça arrive. Un raté est un raté.
+L’autre leçon concerne les clients célèbres. Une liste de noms prouve une notoriété, pas une justesse. Je compte mes ratés — environ un tirage sur dix, d’après mon carnet — et je le dis quand ça arrive.
 
 Et il est utile de se rappeler pourquoi on allait la voir : la Révolution, la guerre, la prison, le divorce. La plupart des gens qui interrogent les cartes s’inquiètent pour quelqu’un, et cela mérite de l’attention plutôt qu’un spectacle. C’est pour ça que je dis clairement [ce qu’un tirage à la Maison peut faire, et ce qu’il ne peut pas faire](/fr/avertissements/#lectures).
 

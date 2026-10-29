@@ -29,13 +29,13 @@ Hokhmah (חכמה) veut dire « sagesse ». C’est la deuxième des dix sephiro
 
 **Hokhmah, c’est l’idée qui arrive d’un coup, avant que vous sachiez l’expliquer.** Pensez au déclic : la solution d’un problème vous apparaît entière, et il vous faudra une heure pour l’écrire. Le déclic, c’est Hokhmah.
 
-Sur l’Arbre, Hokhmah porte le numéro 2, en haut de la colonne de droite, le côté de l’expansion et du don, qui descend vers [Hesed](/fr/bibliotheque/kabbale/hesed/). Avec Keter et Binah, elle forme les trois sephirot supérieures de l’[Arbre de Vie](/fr/bibliotheque/kabbale/arbre-de-vie/).
+Sur l’Arbre, Hokhmah porte le numéro 2, en haut de la colonne de droite, le côté de l’expansion et du don, qui descend vers [Hesed](/fr/bibliotheque/kabbale/hesed/). Keter, Hokhmah et Binah forment ensemble les trois sephirot supérieures, et tout le schéma se trouve sur la page de l’[Arbre de Vie](/fr/bibliotheque/kabbale/arbre-de-vie/).
 
 {{< tree-of-life highlight="chokhmah" >}}
 
 ## Les quatre Deux {#cartes}
 
-Les correspondances du tarot ne sont pas juives. Elles viennent de la Qabale hermétique de la Golden Dawn, qui a emprunté l’Arbre pour en faire un système de cartes, de planètes et d’éléments. C’est une transformation de la tradition, et je garde les deux séparées. Chaque sephirah y reçoit les quatre cartes mineures de son nombre : pour Hokhmah, les Deux.
+Sur l’Arbre de la Golden Dawn, la deuxième sphère reçoit la deuxième carte de chaque série : les quatre Deux.
 
 {{< cards "wa02 cu02 sw02 pe02" >}}
 
@@ -62,7 +62,7 @@ La figure de Hokhmah est un cavalier couronné, et les papiers de la Golden Dawn
 
 La Golden Dawn ne donne à Hokhmah aucune planète. Sa sphère est le zodiaque, qu’on appelle aussi la sphère des étoiles fixes : dans l’astronomie médiévale, le huitième ciel, au-delà des sept planètes : les douze signes à la fois.
 
-Cela va bien aux Deux, premières cartes de chaque série à recevoir un décan, une planète dans un signe. Certains auteurs modernes y placent Uranus ou Neptune, sans s’accorder entre eux ; ce n’est pas le système de la Golden Dawn.
+Cela va bien aux Deux, premières cartes de chaque série à recevoir un décan, une planète dans un signe. Certains auteurs modernes y placent Uranus ou Neptune, sans s’accorder entre eux ; la Golden Dawn, elle, s’en tient au zodiaque.
 
 ## Hokhmah dans un tirage {#tirage}
 
@@ -70,7 +70,7 @@ Hokhmah apporte une question modeste : la personne sait-elle déjà ? On lit sou
 
 Imaginons qu’on tire le Deux d’Épées à côté du Deux de Bâtons. Un bandeau sur les yeux, un globe dans la main : quelqu’un qui n’arrive pas à trancher, quelqu’un qui voit déjà toute la carte. Vu par Hokhmah, ce peut être la même personne à deux moments — la réponse est venue d’abord, la peur de la réponse ensuite.
 
-L’Arbre reste un supplément, à côté des cinq clés de lecture que j’enseigne. Ne prenez pas mes mots pour une vérité absolue : testez, et faites-en l’expérience vous-même. Étalez les quatre Deux, lisez-les avec et sans Hokhmah, et ne gardez cette clé que si elle vous sert.
+Essayez sur les quatre Deux : lisez-les avec et sans Hokhmah, et ne gardez cette clé que si elle vous sert.
 
 ## Sources {#sources}
 

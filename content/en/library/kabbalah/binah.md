@@ -33,7 +33,7 @@ On the Tree, Binah is number 3, at the top of the left column, the side of limit
 
 ## The four Threes {#cards}
 
-The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of the Golden Dawn, which borrowed the Tree and rebuilt it as a system for cards, planets and elements; the mother of the sephirot becomes, in that system, a sphere ruled by Saturn. I keep the two apart. Each sephirah takes the four minor cards of its number, so Binah takes the Threes.
+In the Golden Dawn’s system, the mother of the sephirot becomes a sphere ruled by Saturn, and its number brings it the four Threes.
 
 {{< cards "wa03 cu03 sw03 pe03" >}}
 
@@ -48,7 +48,7 @@ The number already says the machine is running: [three](/library/numerology/numb
 
 ## The Queens {#court}
 
-Book T, the Golden Dawn’s tarot manuscript, places the four court ranks on the Tree after the four letters of the Name, YHVH. The second letter, He, the Water of each suit, goes to Binah. Its figure is a Queen on a throne: for Wands, the Queen of the Thrones of Flame.
+The Golden Dawn’s Book T places the four court ranks on the Tree after the four letters of the Name, YHVH. The second letter, He, the Water of each suit, goes to Binah. Its figure is a Queen on a throne: for Wands, the Queen of the Thrones of Flame.
 
 How the Rider-Waite-Smith courts map onto the Golden Dawn’s titles is debated — the Kings and the Knights above all, as the Chokhmah page explains — and tarot authors such as Benebell Wen say so openly. **The Queens are the one rank that keeps its name in both systems.** All four sit in Binah, each the Water of her suit, as on this site’s card pages, where the Queen of Cups is Water of Water.
 
@@ -68,11 +68,11 @@ What Binah can add is a question about form: has this idea found its container y
 
 It works the other way too. A spread full of Twos and no Threes can describe someone who sees clearly and hasn’t yet sat down to work it out. Binah doesn’t tell them what to do; it names the step.
 
-That’s all this lens claims. It’s an optional extra beside the number, the element and the colour, and a reading holds without it.
+That’s all this lens claims.
 
 ## Sources {#sources}
 
 - [Sefaria, “Bina”](https://www.sefaria.org/topics/bina2) — the sephirah in Jewish sources: understanding one thing from another, receiving the light of wisdom, the partzuf Imma.
-- [Encyclopaedia Britannica, “Sefira”](https://www.britannica.com/topic/sefira) — the ten sephirot as emanations, from the Sefer Yetzirah to later Kabbalah.
+- [Encyclopaedia Britannica, “Sefira”](https://www.britannica.com/topic/sefira) — a general entry on the sephirot, the frame in which Binah sits.
 - [Benebell Wen, “The Kings/Knights: Tarot Card Meanings”](https://benebellwen.com/2019/08/17/the-kings-knights-tarot-card-meanings/) — a tarot author’s lecture on how the Golden Dawn court titles map onto the Rider-Waite-Smith and Thoth decks, and why it’s debated.
 - [Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983)](https://discovery.nypl.org/research/research-catalog/bib/b10815500) — library record of a study of the Golden Dawn’s tarot on the Tree of Life, with the Queens under Binah.

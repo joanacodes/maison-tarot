@@ -33,7 +33,7 @@ La Kabbale appelle aussi Malkhout la Shekhinah, un mot du Talmud pour la présen
 
 ## Les quatre Dix {#cartes}
 
-Les correspondances du tarot ne sont pas juives. Elles viennent de la Qabale hermétique de la Golden Dawn, et c’est sur Malkhout que le déplacement se voit le mieux : dans les sources juives, c’est la présence de Dieu dans le monde ; dans les tableaux de la Golden Dawn, c’est le monde lui-même, la sphère des éléments, et le premier grade de l’initiation, Zelator, 1=10. Je garde les deux séparées. Chaque sephirah y reçoit les quatre cartes mineures de son nombre : pour Malkhout, les Dix.
+C’est sur Malkhout que le déplacement hermétique se voit le mieux : dans les sources juives, c’est la présence de Dieu dans le monde ; dans les tableaux de la Golden Dawn, c’est le monde lui-même, la sphère des éléments, et le premier grade de l’initiation, Zelator, 1=10. Dixième sphère, elle reçoit les quatre Dix.
 
 {{< cards "wa10 cu10 sw10 pe10" >}}
 
@@ -44,15 +44,15 @@ Les correspondances du tarot ne sont pas juives. Elles viennent de la Qabale her
 | [Dix d’Épées](/fr/bibliotheque/cartes-tarot/dix-de-epees/) | Seigneur de la Ruine (Soleil en Gémeaux) | la fin touchée, et l’aube derrière |
 | [Dix de Pentacles](/fr/bibliotheque/cartes-tarot/dix-de-pentacles/) | Seigneur de la Richesse (Mercure en Vierge) | trois générations, l’Arbre dessiné en pièces |
 
-Le nombre pose le cadre : le [10](/fr/bibliotheque/numerologie/chiffre-10/), c’est le passage entre deux étapes, le couloir entre deux pièces ; son revers, c’est qu’il peut durer peu, et il vous dit de commencer autre chose. Dans mes notes, le Dix de Pentacles, c’est la richesse complète à la maison, toute la famille réunie ; la Golden Dawn l’appelle le Seigneur de la Richesse. Malkhout ajoute l’atterrissage. Avec cette clé de lecture, un Dix, c’est le cycle arrivé quelque part où l’on peut le toucher.
+Commençons par le nombre : le [10](/fr/bibliotheque/numerologie/chiffre-10/), c’est le passage entre deux étapes, le couloir entre deux pièces ; son revers, c’est qu’il peut durer peu, et il vous dit de commencer autre chose. Dans mes notes, le Dix de Pentacles, c’est la richesse complète à la maison, toute la famille réunie ; la Golden Dawn l’appelle le Seigneur de la Richesse. Malkhout ajoute l’atterrissage. Avec cette clé de lecture, un Dix, c’est le cycle arrivé quelque part où l’on peut le toucher.
 
 Regardez bien le Dix de Pentacles : ses dix pièces sont disposées selon le schéma de l’Arbre de Vie, tout l’édifice descendu dans la cour d’une famille.
 
 ## Les figures : les Princesses {#figures}
 
-La Golden Dawn place les figures sur l’Arbre selon les quatre lettres du Nom, YHVH. Le He final — la Terre de chaque série — revient à Malkhout : la Princesse, une jeune femme debout.
+Parmi les figures, la Golden Dawn donne à Malkhout la dernière lettre du Nom, YHVH : le He final, la Terre de chaque série. Sa figure est la Princesse, une jeune femme debout.
 
-La correspondance entre les figures du Rider-Waite-Smith et les titres de la Golden Dawn est débattue, surtout pour les Rois et les Cavaliers ; la [page de Hokhmah](/fr/bibliotheque/kabbale/hokhmah/) expose les deux lectures. Les Princesses sont le cas le plus clair. **Par le titre comme par l’image, les [Valets](/fr/bibliotheque/numerologie/valet/) du Rider-Waite-Smith sont les Princesses**, et les pages de cartes de ce site vont dans le même sens : le Valet de Bâtons y est Terre de Feu.
+L’accord avec le Rider-Waite-Smith se discute pour les Rois et les Cavaliers, et la [page de Hokhmah](/fr/bibliotheque/kabbale/hokhmah/) donne les deux points de vue. Les Princesses sont le cas le plus clair. **Par le titre comme par l’image, les [Valets](/fr/bibliotheque/numerologie/valet/) du Rider-Waite-Smith sont les Princesses**, et les pages de cartes de ce site vont dans le même sens : le Valet de Bâtons y est Terre de Feu.
 
 {{< cards "wapa cupa swpa pepa" >}}
 
@@ -70,7 +70,7 @@ Ce que Malkhout peut apporter, c’est une question concrète : où est-ce que �
 
 Imaginons le Dix de Bâtons. Le 10 dit qu’une étape s’achève et demande de commencer autre chose. Malkhout ajoute que la charge est réelle : portée par une seule personne, jusqu’à une vraie porte d’entrée. La question devient : qu’est-ce qu’on peut poser sur le paillasson ?
 
-Une lecture n’atteint Malkhout que quand quelqu’un en fait quelque chose. Je lis ; vous décidez. Cette clé de lecture reste un supplément, à côté des cinq que j’enseigne, et elle est à son meilleur quand elle ramène un tirage sur terre.
+Une lecture n’atteint Malkhout que quand quelqu’un en fait quelque chose. Cette clé de lecture est à son meilleur quand elle ramène un tirage sur terre.
 
 ## Sources {#sources}
 

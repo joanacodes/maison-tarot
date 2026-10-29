@@ -65,7 +65,7 @@ If you learn from French books, you’ll meet Wirth’s images and Lévi’s let
 
 Try it with one card. In Wirth’s deck the Magician carries Aleph; on [the Magician’s page](/library/tarot-cards/the-magician/) here, he is Beth. Same figure, two tables, and neither is wrong.
 
-The Rider-Waite-Smith I use was drawn twenty years after his first deck, on other choices. [Marseille vs Rider-Waite-Smith](/blog/marseille-vs-rider-waite/) compares the two families of cards.
+The Rider-Waite-Smith I use was drawn twenty years after his first deck, on other choices. [Marseille vs Rider-Waite-Smith](/blog/marseille-vs-rider-waite/) puts the two families of cards face to face.
 
 What I keep from Wirth is his patience with the picture. His book takes each trump slowly: what is drawn, and why it might be there. That’s close to how I teach — look before you interpret — and [the learning path](/learn-tarot/) starts exactly there.
 

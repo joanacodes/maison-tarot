@@ -9,7 +9,7 @@ short: L’Arbre de vie
 ---
 La Kabbale est une tradition mystique juive : une façon de lire la Torah et de penser le lien entre Dieu et le monde, portée par des textes comme le Sefer Yetsirah et le Zohar. Son image la plus connue est l’Arbre de Vie, dix sphères reliées par vingt-deux sentiers.
 
-Au XIXe siècle, des occultistes étrangers au judaïsme ont emprunté cet Arbre et l’ont remanié : c’est ce qu’on écrit souvent « Qabale », la Kabbale hermétique. À Londres, la Golden Dawn s’en est servie pour ranger le tarot : les cartes numérotées sur les sphères, les arcanes majeurs sur les sentiers, une lettre hébraïque par arcane. Les lettres des pages de cartes de ce site viennent de là.
+Les correspondances du tarot ne sont pas juives. Au XIXe siècle, des occultistes étrangers au judaïsme ont emprunté cet Arbre et l’ont remanié : c’est ce qu’on écrit souvent « Qabale », la Kabbale hermétique. À Londres, la Golden Dawn en a fait un système de cartes, de planètes et d’éléments, et s’en est servie pour ranger le tarot : les cartes numérotées sur les sphères, les arcanes majeurs sur les sentiers, une lettre hébraïque par arcane. Les lettres des pages de cartes de ce site viennent de là. Je garde les deux séparées.
 
 À la Maison, c’est une clé de lecture en plus, pas l’une des cinq que j’enseigne. Vous pouvez lire tout le jeu sans elle. Ces pages sont là pour qui veut savoir d’où viennent les correspondances, et ce que dit vraiment chaque tradition.
 

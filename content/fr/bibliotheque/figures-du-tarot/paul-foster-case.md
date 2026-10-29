@@ -67,7 +67,7 @@ Tous les cours de tarot qu’on peut suivre de chez soi reposent sur l’idée d
 
 La limite qu’il rencontrait reste celle à surveiller. Des leçons peuvent vous donner les symboles, les [nombres](/fr/bibliotheque/numerologie/) et la structure. Elles ne peuvent pas vous dire quand vous avez mal lu une carte. C’est pour ça que je vous suggère de tenir un carnet, ce que vous avez dit d’un côté, ce qui a été confirmé de l’autre, et que j’enseigne en [ateliers](/fr/ateliers/), avec des gens dans la pièce.
 
-Si vous voulez commencer comme les élèves de Case, un sujet à la fois et dans l’ordre, [le parcours d’apprentissage](/fr/apprendre-le-tarot/) est construit ainsi. Les ordres et les écoles qui ont façonné le tarot moderne sont sur [la page de la Golden Dawn](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/), et le siècle de jeux et de cours qui a suivi se raconte dans [le tarot au XXe siècle](/fr/bibliotheque/histoire-du-tarot/le-tarot-au-xxe-siecle/).
+Si vous voulez commencer comme les élèves de Case, un sujet à la fois et dans l’ordre, [le parcours d’apprentissage](/fr/apprendre-le-tarot/) est construit ainsi. Les ordres et les écoles qui ont façonné le tarot moderne sont sur [la page de la Golden Dawn](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/), et [le tarot au XXe siècle](/fr/bibliotheque/histoire-du-tarot/le-tarot-au-xxe-siecle/) prend la suite, avec le siècle de jeux et de cours qui a suivi.
 
 ## Sources {#sources}
 

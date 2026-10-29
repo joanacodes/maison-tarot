@@ -35,7 +35,7 @@ Sur l’Arbre, Keter porte le numéro 1, au sommet de la colonne du milieu. Avec
 
 ## Les quatre As {#cartes}
 
-La Kabbale juive ne dit rien des cartes de tarot. Le lien s’est construit plus tard : des savants chrétiens ont emprunté l’Arbre, des occultistes du XIXe siècle — en France, notamment Éliphas Lévi — l’ont rapproché du tarot, et l’Ordre hermétique de la Golden Dawn, fondé à Londres en 1888, en a fait un système de classement pour les cartes, les planètes et les éléments. Cette Qabale hermétique transforme la tradition ; elle ne parle pas en son nom. [Le tarot de la Golden Dawn](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/) a sa propre page.
+Le lien entre l’Arbre et les cartes est venu tard. Des savants chrétiens ont emprunté l’Arbre, des occultistes du XIXe siècle — en France, notamment Éliphas Lévi — l’ont rapproché du tarot, et l’Ordre hermétique de la Golden Dawn, fondé à Londres en 1888, y a donné une place à chaque carte, chaque planète et chaque élément. [Le tarot de la Golden Dawn](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/) a sa propre page.
 
 Son manuscrit sur le tarot, le Livre T, range les cartes numérotées par nombre : chaque sephirah reçoit les quatre cartes de son nombre, une par série. Keter — que certaines sources juives ne comptent même pas — reçoit les As.
 
@@ -60,13 +60,13 @@ Dans le système de la Golden Dawn, chaque sephirah reçoit une sphère du ciel.
 
 ## Keter dans un tirage {#tirage}
 
-L’Arbre ne fait pas partie des cinq clés de lecture que j’enseigne. C’est un supplément, pour qui aime savoir d’où viennent les correspondances, et Keter apporte une question plus qu’un sens : est-ce encore un souhait, ou déjà une direction ?
+Keter apporte une question plus qu’un sens : est-ce encore un souhait, ou déjà une direction ?
 
 Imaginons qu’on tire l’As d’Épées à côté du Huit de Pentacles. Vu par Keter, l’As est l’idée à sa racine, sans savoir-faire encore attaché ; le Huit est le travail qui lui donnera une forme. La lecture devient : l’idée tient la route, et maintenant il faut qu’elle descende l’Arbre, jusque dans les mains de quelqu’un.
 
 Plusieurs As d’un coup, c’est une foule de commencements dont aucun n’a encore de forme. Ce n’est pas mauvais signe. Cela dit qu’un commencement se choisit, et les cartes autour montrent souvent lequel s’est déjà mis en route.
 
-Keter n’ajoute aucun pouvoir aux As, et ne rend pas un tirage plus solennel. Les cartes ne sont pas magiques, vous l’êtes. Si l’Arbre ne vous parle pas, il ne vous manque rien : le nombre et l’élément ont dit l’essentiel, et [le parcours complet](/fr/apprendre-le-tarot/) fonctionne très bien sans lui.
+Keter n’ajoute aucun pouvoir aux As, et ne rend pas un tirage plus solennel. Si l’Arbre ne vous parle pas, il ne vous manque rien : un As parle déjà par son nombre et son élément, et [le parcours complet](/fr/apprendre-le-tarot/) fonctionne très bien sans l’Arbre.
 
 ## Sources {#sources}
 

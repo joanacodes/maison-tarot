@@ -33,7 +33,7 @@ Sur l’Arbre, Binah porte le numéro 3, en haut de la colonne de gauche, le cô
 
 ## Les quatre Trois {#cartes}
 
-Les correspondances du tarot ne sont pas juives. Elles viennent de la Qabale hermétique de la Golden Dawn, qui a emprunté l’Arbre pour en faire un système de cartes, de planètes et d’éléments ; la mère des sephirot y devient une sphère gouvernée par Saturne. Je garde les deux séparées. Chaque sephirah y reçoit les quatre cartes mineures de son nombre : pour Binah, les Trois.
+Dans le système de la Golden Dawn, la mère des sephirot devient une sphère gouvernée par Saturne, et son nombre lui vaut les quatre Trois.
 
 {{< cards "wa03 cu03 sw03 pe03" >}}
 
@@ -48,7 +48,7 @@ Le nombre dit déjà que la machine tourne : le [3](/fr/bibliotheque/numerologie
 
 ## Les Reines {#figures}
 
-Le Livre T, le manuscrit de la Golden Dawn sur le tarot, range les quatre rangs de la cour sur l’Arbre selon les quatre lettres du Nom, YHVH. La deuxième lettre, He, l’Eau de chaque série, revient à Binah. Sa figure est une Reine sur un trône : pour les Bâtons, la « Reine des Trônes de Flamme ».
+Le Livre T de la Golden Dawn range les quatre rangs de la cour sur l’Arbre selon les quatre lettres du Nom, YHVH. La deuxième lettre, He, l’Eau de chaque série, revient à Binah. Sa figure est une Reine sur un trône : pour les Bâtons, la « Reine des Trônes de Flamme ».
 
 Le passage des titres de la Golden Dawn aux figures du Rider-Waite-Smith fait débat — surtout pour les Rois et les Cavaliers, voir Hokhmah — et des autrices comme Benebell Wen le disent ouvertement. **Les Reines sont le seul rang qui garde son nom d’un système à l’autre.** Les quatre siègent en Binah, chacune l’Eau de sa série, comme sur les pages de cartes de ce site, où la Reine de Coupes est Eau d’Eau.
 
@@ -68,13 +68,13 @@ Binah apporte une question sur la forme : cette idée a-t-elle trouvé son conte
 
 L’inverse marche aussi. Un tirage plein de Deux et sans Trois peut décrire quelqu’un qui voit clair mais ne s’est pas encore assis pour travailler. Binah ne lui dit pas quoi faire ; elle nomme l’étape.
 
-Cette clé de lecture ne prétend rien de plus. C’est un supplément, à côté du nombre, de l’élément et de la couleur ; un tirage tient très bien sans elle.
+Cette clé de lecture ne prétend rien de plus.
 
 ## Sources {#sources}
 
 Toutes en anglais.
 
 - [Sefaria, « Bina »](https://www.sefaria.org/topics/bina2) — la sephirah dans les sources juives : comprendre une chose à partir d’une autre, le partsouf Imma.
-- [Encyclopædia Britannica, « Sefira »](https://www.britannica.com/topic/sefira) — les dix sephirot comme émanations, du Sefer Yetsira à la Kabbale plus tardive.
+- [Encyclopædia Britannica, « Sefira »](https://www.britannica.com/topic/sefira) — une entrée d’encyclopédie sur les sephirot, le cadre où s’inscrit Binah.
 - [Benebell Wen, « The Kings/Knights: Tarot Card Meanings »](https://benebellwen.com/2019/08/17/the-kings-knights-tarot-card-meanings/) — les titres de la Golden Dawn face aux figures du Rider-Waite-Smith et du Thoth, et pourquoi c’est discuté.
 - [Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983)](https://discovery.nypl.org/research/research-catalog/bib/b10815500) — notice de bibliothèque d’une étude du tarot de la Golden Dawn sur l’Arbre de Vie, avec les Reines en Binah.

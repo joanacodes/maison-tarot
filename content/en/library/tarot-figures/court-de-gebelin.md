@@ -47,7 +47,7 @@ Volume 8 of *Le Monde primitif*, published in 1781, contains his essay on the ga
 
 The same volume prints a second essay, signed only with initials, by the Comte de Mellet — identified by Michael Dummett and his co-authors as Louis-Raphaël-Lucrèce de Fayolle. Mellet called the cards the Book of Thoth, after the Egyptian god of writing. He set the twenty-two trumps beside the twenty-two letters of the Hebrew alphabet, and he described a way to tell fortunes with them.
 
-**From that volume on, tarot was no longer only a game: it was a book to be read.** Two years later, [Etteilla](/library/tarot-figures/etteilla/) began publishing a method for reading it. The whole period is told on the page [from card game to divination](/library/tarot-history/from-game-to-divination/).
+**From that volume on, tarot was no longer only a game: it was a book to be read.** Two years later, [Etteilla](/library/tarot-figures/etteilla/) began publishing a method for reading it, and [from card game to divination](/library/tarot-history/from-game-to-divination/) follows the rest of that decade.
 
 ## What he did not do {#myths}
 
@@ -61,7 +61,7 @@ And he wasn’t a crank in his own time. He was a respected scholar, and his met
 
 Every book or video that calls tarot “ancient Egyptian wisdom” is repeating 1781. The idea travelled through Etteilla, then [Éliphas Lévi](/library/tarot-figures/eliphas-levi/) and the occultists of the nineteenth century, all the way to the decks we use now.
 
-So what do you keep? His question was the right one: what does this picture say? Looking at a card as an image that means something, rather than a token in a game, is where reading starts. What you can let go of is the pedigree. A card doesn’t need to be ancient to be useful. The deck I read was drawn in 1909, and it works because of what is drawn on it and what you notice there, not because of its age. Cards aren’t magic, you are — and they aren’t Egyptian either.
+So what do you keep? His question was the right one: what does this picture say? Looking at a card as an image that means something, rather than a token in a game, is where reading starts. What you can let go of is the pedigree. A card doesn’t need to be ancient to be useful. The deck I read was drawn in 1909, and it works because of what is drawn on it and what you notice there, not because of its age.
 
 If you want to start where he started, with the picture, [the learning path](/learn-tarot/) begins with colour, the first thing your eye sees.
 

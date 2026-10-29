@@ -47,7 +47,7 @@ Le tome VIII, paru en 1781, contient son essai « Du jeu des tarots ». Sa thès
 
 Le même volume publie un second essai, signé de simples initiales, du comte de Mellet — Louis-Raphaël-Lucrèce de Fayolle, selon l’identification de Michael Dummett, Thierry Depaulis et Ronald Decker. Mellet appelle le jeu « Livre de Thot », du nom du dieu égyptien de l’écriture. Il met les vingt-deux atouts en regard des vingt-deux lettres de l’alphabet hébreu, et il décrit une manière de tirer les cartes.
 
-**À partir de ce volume, le tarot n’est plus seulement un jeu : c’est un livre qu’on lit.** Deux ans plus tard, [Etteilla](/fr/bibliotheque/figures-du-tarot/etteilla/) commence à publier sa méthode. Toute la période est racontée dans [du jeu de cartes à la divination](/fr/bibliotheque/histoire-du-tarot/du-jeu-a-la-divination/).
+**À partir de ce volume, le tarot n’est plus seulement un jeu : c’est un livre qu’on lit.** Deux ans plus tard, [Etteilla](/fr/bibliotheque/figures-du-tarot/etteilla/) commence à publier sa méthode, et [du jeu de cartes à la divination](/fr/bibliotheque/histoire-du-tarot/du-jeu-a-la-divination/) suit le reste de cette décennie.
 
 ## Ce qu’il n’a pas fait {#mythes}
 
@@ -61,7 +61,7 @@ Et ce n’était pas un illuminé. C’était un érudit respecté, et sa démar
 
 Chaque fois qu’un livre ou une vidéo vous présente le tarot comme une « sagesse de l’Égypte ancienne », il répète 1781. L’idée est passée par Etteilla, puis par [Éliphas Lévi](/fr/bibliotheque/figures-du-tarot/eliphas-levi/) et les occultistes du XIXe siècle, jusqu’aux jeux qu’on trouve aujourd’hui en librairie.
 
-Alors, que garder ? Sa question était la bonne : que dit cette image ? Regarder une carte comme une image qui a un sens, et non comme un pion dans une partie, c’est là que commence la lecture. Ce que vous pouvez laisser tomber, c’est le pedigree. Une carte n’a pas besoin d’être ancienne pour être utile. Le jeu que j’utilise a été dessiné en 1909, et il fonctionne par ce qui est dessiné dessus et par ce que vous y remarquez, pas par son âge. Les cartes ne sont pas magiques, vous l’êtes — et elles ne sont pas égyptiennes non plus.
+Alors, que garder ? Sa question était la bonne : que dit cette image ? Regarder une carte comme une image qui a un sens, et non comme un pion dans une partie, c’est là que commence la lecture. Ce que vous pouvez laisser tomber, c’est le pedigree. Une carte n’a pas besoin d’être ancienne pour être utile. Le jeu que j’utilise a été dessiné en 1909, et il fonctionne par ce qui est dessiné dessus et par ce que vous y remarquez, pas par son âge.
 
 Pour commencer là où il a commencé, par l’image, [le parcours](/fr/apprendre-le-tarot/) s’ouvre sur la couleur, la première chose que l’œil voit.
 

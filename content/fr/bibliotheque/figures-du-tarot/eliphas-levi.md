@@ -41,7 +41,7 @@ Vers 1854, il prend un nouveau nom : Éliphas Lévi, ses prénoms transposés en
 
 ## Ce qu’il a fait pour le tarot {#tarot}
 
-*Dogme et rituel* est construit sur le tarot. Chacun des deux volumes compte vingt-deux chapitres, un par atout et par lettre hébraïque, et Lévi appelle les atouts des « clés ». Sa table suit la numérotation du Tarot de Marseille : Aleph pour la lame I, le Bateleur (le Magicien dans le Rider-Waite-Smith), Beth pour la lame II, et ainsi de suite jusqu’à Tav pour le Monde. Le Mat, sans numéro, reçoit Shin et se glisse entre le Jugement et le Monde.
+*Dogme et rituel* est construit sur le tarot. Chacun des deux volumes compte vingt-deux chapitres, un par atout et par lettre hébraïque, et Lévi appelle les atouts des « clés ». Sa table suit la numérotation du Tarot de Marseille, d’Aleph sur la lame I, le Bateleur (le Magicien dans le Rider-Waite-Smith), à Tav sur le Monde ; le Mat, sans numéro, reçoit Shin et se glisse entre le Jugement et le Monde.
 
 Il dessine aussi. Son Chariot est tiré par deux sphinx au lieu de chevaux, et son Baphomet, une figure ailée à tête de bouc, servira de modèle à bien des Diables. Dans son guide du jeu de 1909, [Arthur Edward Waite](/fr/bibliotheque/figures-du-tarot/arthur-edward-waite/) écrit à propos du Chariot qu’il a « accepté la variante d’Éliphas Lévi » (je traduis) : deux sphinx tirent donc le char. Le Diable de [Pamela Colman Smith](/fr/bibliotheque/figures-du-tarot/pamela-colman-smith/) reprend, lui, la pose du Baphomet.
 
@@ -63,7 +63,7 @@ Enfin, son ordre n’est pas l’ordre ancien, parce qu’il n’y en a pas. Cel
 
 C’est la partie pratique. Les fiches de cartes de ce site suivent la Golden Dawn : le Mat est Aleph, le Magicien est Beth. Beaucoup de livres français suivent Lévi et Wirth : le Bateleur est Aleph, et la plupart des lames reçoivent la lettre qui précède celle que vous verrez ici. Aucune des deux tables n’est une erreur. [La table des 22 lettres](/fr/bibliotheque/kabbale/lettres-hebraiques-arcanes-majeurs/) les met côte à côte, pour que vous voyiez d’un coup d’œil laquelle un livre utilise.
 
-Je traite les lettres comme une couche en plus, pas comme une fondation. Vous pouvez lire tout le jeu sans un mot d’hébreu ; si une lettre ajoute quelque chose à une carte pour vous, gardez-la. Ne prenez pas mes mots pour une vérité absolue : testez, et faites-en l’expérience vous-même.
+Je traite les lettres comme une couche en plus, pas comme une fondation. Vous pouvez lire tout le jeu sans un mot d’hébreu ; si une lettre ajoute quelque chose à une carte pour vous, gardez-la.
 
 Pour commencer, voyez [le Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/), la lame que Lévi plaçait en tête.
 

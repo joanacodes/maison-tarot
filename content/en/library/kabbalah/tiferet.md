@@ -28,13 +28,13 @@ Tiferet (תפארת) means “beauty”, sometimes “glory”. It is the sixth 
 
 Its work is balance. [Chesed](/library/kabbalah/chesed/), on the right, gives without counting; [Gevurah](/library/kabbalah/gevurah/), on the left, sets the limit. Tiferet holds the two together: the Kabbalah teaches that a world built on mercy alone, or on judgement alone, couldn’t last. **Tiferet is beauty as proportion: enough given, enough held back.** Think of the teacher you remember fondly, warm and still able to say no.
 
-On the body, it is the torso and the heart. The tradition attaches it to Jacob, after Abraham (Chesed) and Isaac (Gevurah); during Sukkot, Jacob is the guest of the third day. Kabbalistic imagery also pictures Tiferet as a bridegroom, or a prince, seeking union with [Malkhut](/library/kabbalah/malkhut/), the Shekhinah. With Chesed and Gevurah it closes the second triad, which Hermetic diagrams call the ethical triangle. The [Tree of Life page](/library/kabbalah/tree-of-life/) shows them in place.
+On the body, it is the torso and the heart. The tradition attaches it to Jacob, after Abraham (Chesed) and Isaac (Gevurah); during Sukkot, Jacob is the guest of the third day. Kabbalistic imagery also pictures Tiferet as a bridegroom, or a prince, seeking union with [Malkhut](/library/kabbalah/malkhut/), the Shekhinah. With Chesed and Gevurah it closes the [second triad](/library/kabbalah/tree-of-life/), which Hermetic diagrams call the ethical triangle.
 
 {{< tree-of-life highlight="tiferet" >}}
 
 ## The four Sixes {#cards}
 
-The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of the Golden Dawn, which borrowed the Tree and rebuilt it as a system for cards, planets and elements — and as a ladder of initiation, where Tiferet became the grade of Adeptus Minor, 5=6. I keep the two apart. Each sephirah takes the four minor cards of its number, so Tiferet takes the Sixes.
+In the Golden Dawn, the Tree was also a ladder of initiation, and Tiferet became the grade of Adeptus Minor, 5=6. Its cards are the four Sixes.
 
 {{< cards "wa06 cu06 sw06 pe06" >}}
 
@@ -45,33 +45,29 @@ The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of
 | [Six of Swords](/library/tarot-cards/six-of-swords/) | Lord of Earned Success (Mercury in Aquarius) | the crossing to calmer water after the Fives |
 | [Six of Pentacles](/library/tarot-cards/six-of-pentacles/) | Lord of Material Success (Moon in Taurus) | the scales: giving and measuring in one gesture |
 
-The number gives the frame: [six](/library/numerology/number-6/) is three exalted, the machine launched and speeding up — success, triumph, a moment you can rest. Its advice is to stay calm and humble when results flow. Tiferet adds the reason a Six holds: it’s balanced.
+On its own, [six](/library/numerology/number-6/) is three exalted, the machine launched and speeding up — success, triumph, a moment you can rest. Its advice is to stay calm and humble when results flow. Tiferet adds the reason a Six holds: it’s balanced.
 
 The Six of Pentacles is where the lens fits best. In my notes it’s the scales, knowing what things are worth. A merchant gives coins with one hand and holds a balance in the other: Chesed and Gevurah in one figure, and Tiferet in the gesture that joins them.
 
 ## The court cards: the Princes {#court}
 
-The Golden Dawn also puts the court cards on the Tree, following the four letters of the Name, YHVH. The third letter, Vav — the Air of each suit — goes to Tiferet: the Prince, a crowned young man driving a chariot.
+In the court, the third letter of the Name, YHVH — Vav, the Air of each suit — goes to Tiferet. Its figure is the Prince, a crowned young man driving a chariot.
 
-**Which Rider-Waite-Smith card is the Prince is debated.** Waite’s deck keeps the older names, King, Queen, Knight, Page. Read by rank, the four [Knights](/library/numerology/knight/) are the Princes; that’s how Benebell Wen teaches it, and the card pages on this site follow it (the Knight of Wands is Air of Fire). Read by picture, some authors put the Kings here instead. The [Chokhmah page](/library/kabbalah/chokhmah/) sets out both readings.
+**Which Rider-Waite-Smith card is the Prince is debated.** Read by rank, the four [Knights](/library/numerology/knight/) are the Princes; that’s how Benebell Wen teaches it, and the card pages on this site follow it (the Knight of Wands is Air of Fire). Read by picture, some authors put the Kings here instead. The [Chokhmah page](/library/kabbalah/chokhmah/) sets out both readings.
 
 {{< cards "wakn cukn swkn pekn" >}}
 
 ## Tiferet and astrology: the Sun {#astrology}
 
-The Golden Dawn gives Tiferet the [Sun](/library/astrology/sun/). The planets come down the Tree in the old order of the skies, slowest first — Saturn, Jupiter, Mars, then the Sun. In that list of seven, the Sun stands fourth, in the middle, as Tiferet stands in the middle of the Tree.
+The Golden Dawn gives Tiferet the [Sun](/library/astrology/sun/). Counted from the slowest, after Saturn, Jupiter and Mars, the Sun is the fourth of the seven planets: the middle of the list, as Tiferet is the middle of the Tree.
 
-One card shows the link: the Six of Cups, Tiferet in the suit of Water, is the Sun in Scorpio. Two children in an old courtyard, cups full of white flowers. The Sun here is warmth rather than glare: in my notes, time for yourself, childhood, flowering again.
-
-These planets belong to the Hermetic system, not to the Jewish definition of Tiferet.
+The Six of Cups, Tiferet in the suit of Water, is the Sun in Scorpio. Two children in an old courtyard, cups full of white flowers. The Sun here is warmth rather than glare: in my notes, time for yourself, childhood, flowering again.
 
 ## Tiferet in a reading {#reading}
 
 What Tiferet can add is one question: is this holding because it’s balanced? Sixes are pleasant cards; through this lens, they also show what keeps the pleasure standing.
 
 Say someone draws the Six of Wands next to the Five of Swords: a victory parade beside a fight won at someone else’s expense. Through Tiferet, the question isn’t whether the person won. It’s whether the win has the proportion that lets it last, and who paid for it.
-
-Use the lens lightly. It’s an optional extra beside the five I teach: a question you ask, not an answer you impose.
 
 ## Sources {#sources}
 

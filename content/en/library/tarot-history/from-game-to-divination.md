@@ -39,7 +39,7 @@ The same volume carries a second essay, signed “M. le C. de M.***”, now iden
 
 ## Etteilla: the first to make a living from it {#etteilla}
 
-Jean-Baptiste Alliette (1738–1791) wrote under his surname read backwards: [Etteilla](/library/tarot-figures/etteilla/). After his piquet book of 1770, he took up Court de Gébelin’s theory and ran with it. Between 1783 and 1785 he published his method for tarot in four booklets, *Manière de se récréer avec le jeu de cartes nommées tarots*. In 1788 he founded a society of “interpreters of the Book of Thoth”.
+Jean-Baptiste Alliette (1738–1791) wrote under his surname read backwards: [Etteilla](/library/tarot-figures/etteilla/). He already had his piquet book of 1770 behind him when Court de Gébelin’s theory gave him a new subject. His method for tarot came out in four booklets between 1783 and 1785, under the title *Manière de se récréer avec le jeu de cartes nommées tarots*, and in 1788 he founded a society, the “interpreters of the Book of Thoth”.
 
 Then he did something new: he designed a tarot deck for reading, not for play. The engravings were commissioned in 1788 and the deck appeared around 1789. You will sometimes see it dated 1785; that is the year of his last booklet, and the cards came a few years after.
 
@@ -53,9 +53,9 @@ Two myths take root in this decade or shortly after it. The Egyptian one starts 
 
 ## What I keep from it {#reading}
 
-Every meaning in a little guidebook has an author and a date. Etteilla’s are from the 1780s, Waite’s from 1910, and the ones in my notebook from the last few years. That’s no reason to throw any of them away. It’s a reason to treat them as proposals, not as revelations.
+Every meaning in a little guidebook has an author and a date. Etteilla’s are from the 1780s, Waite’s from 1910, and the ones in my notebook from the last few years. That’s no reason to throw any of them away. It’s a reason to treat them as proposals, not as revelations. That applies to Court de Gébelin as much as to me.
 
-*Don’t take my words as ultimate truth. Test it and experience it for yourself.* That applies to Court de Gébelin as much as to me. [The method](/method/) explains how I count what held and what missed, so the meanings you keep are the ones that earned their place.
+[The method](/method/) explains how I count what held and what missed, so the meanings you keep are the ones that earned their place.
 
 ## Sources {#sources}
 

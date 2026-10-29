@@ -23,17 +23,17 @@ gallery: []
 ---
 ## Yesod dans la tradition juive {#tradition}
 
-Yesod (יסוד) veut dire « fondement ». C’est la neuvième des dix sephirot, sur la colonne du milieu, sous [Tiferet](/fr/bibliotheque/kabbale/tiferet/) et juste au-dessus de [Malkhout](/fr/bibliotheque/kabbale/malkhout/). Les kabbalistes la décrivent comme l’endroit où se rassemble tout ce qui descend des sephirot supérieures, avant de passer à Malkhout, le monde.
+Yesod (יסוד) veut dire « fondement ». C’est la neuvième des dix sephirot, sur la [colonne du milieu](/fr/bibliotheque/kabbale/arbre-de-vie/), sous [Tiferet](/fr/bibliotheque/kabbale/tiferet/) et juste au-dessus de [Malkhout](/fr/bibliotheque/kabbale/malkhout/). Les kabbalistes la décrivent comme l’endroit où se rassemble tout ce qui descend des sephirot supérieures, avant de passer à Malkhout, le monde.
 
 **Yesod, c’est le canal : tout ce qui vient d’en haut passe par lui avant d’atteindre le monde.** Pensez au passe d’une cuisine de brasserie, ce comptoir où chaque assiette s’arrête avant de partir en salle. On n’y cuisine rien, et rien ne sort sans lui.
 
-La tradition rattache Yesod au tsaddik, le juste, à travers un verset des Proverbes (10,25) lu comme « le juste est le fondement du monde ». Sa figure biblique est Joseph. Sur le corps, c’est l’organe de la génération, marqué par l’alliance de la circoncision : Yesod parle de lien et de transmission. Il ferme la troisième triade avec [Netzah](/fr/bibliotheque/kabbale/netzah/) et [Hod](/fr/bibliotheque/kabbale/hod/), à droite et à gauche. La [page de l’Arbre de Vie](/fr/bibliotheque/kabbale/arbre-de-vie/) les montre en place.
+La tradition rattache Yesod au tsaddik, le juste, à travers un verset des Proverbes (10,25) lu comme « le juste est le fondement du monde ». Sa figure biblique est Joseph. Sur le corps, c’est l’organe de la génération, marqué par l’alliance de la circoncision : Yesod parle de lien et de transmission. Il ferme la troisième triade avec [Netzah](/fr/bibliotheque/kabbale/netzah/) et [Hod](/fr/bibliotheque/kabbale/hod/), à droite et à gauche.
 
 {{< tree-of-life highlight="yesod" >}}
 
 ## Les quatre Neuf {#cartes}
 
-Les correspondances du tarot ne sont pas juives. Elles viennent de la Qabale hermétique de la Golden Dawn, qui a emprunté l’Arbre pour en faire un système de cartes, de planètes et d’éléments, et une échelle de grades : Yesod y est devenue la deuxième marche, Theoricus, 2=9. Je garde les deux séparées. Chaque sephirah y reçoit les quatre cartes mineures de son nombre : pour Yesod, les Neuf.
+Sur l’échelle des grades de la Golden Dawn, Yesod est devenue la deuxième marche, Theoricus, 2=9 ; côté cartes, elle reçoit les quatre Neuf.
 
 {{< cards "wa09 cu09 sw09 pe09" >}}
 
@@ -44,15 +44,15 @@ Les correspondances du tarot ne sont pas juives. Elles viennent de la Qabale her
 | [Neuf d’Épées](/fr/bibliotheque/cartes-tarot/neuf-de-epees/) | Seigneur du Désespoir et de la Cruauté (Mars en Gémeaux) | tous les soucis qui passent par une seule tête, la nuit |
 | [Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/) | Seigneur du Gain matériel (Vénus en Vierge) | le jardin qui a pris des années, enfin savouré |
 
-Le nombre pose le cadre : le [9](/fr/bibliotheque/numerologie/chiffre-9/), c’est la ligne d’arrivée, la fin d’une étape, les derniers efforts, l’introspection, la patience — sans s’arrêter pour autant. Dans mes notes, le Neuf de Pentacles, c’est profiter de ce qui vient, avec gratitude pour tout ce qu’on a ; le Neuf d’Épées, c’est sortir d’un cauchemar, d’une longue période troublée, avec une protection au-dessus de soi. Yesod ajoute le rassemblement. Avec cette clé de lecture, un Neuf, c’est tout ce que le cycle a construit, réuni avant d’atterrir.
+En tant que nombre, le [9](/fr/bibliotheque/numerologie/chiffre-9/), c’est la ligne d’arrivée, la fin d’une étape, les derniers efforts, l’introspection, la patience — sans s’arrêter pour autant. Dans mes notes, le Neuf de Pentacles, c’est profiter de ce qui vient, avec gratitude pour tout ce qu’on a ; le Neuf d’Épées, c’est sortir d’un cauchemar, d’une longue période troublée, avec une protection au-dessus de soi. Yesod ajoute le rassemblement. Avec cette clé de lecture, un Neuf, c’est tout ce que le cycle a construit, réuni avant d’atterrir.
 
 ## Yesod et l’astrologie : la Lune {#astrologie}
 
-La Golden Dawn donne à Yesod la [Lune](/fr/bibliotheque/astrologie/lune/) : les humeurs, la mémoire, les habitudes, ce qui change et revient. Les planètes descendent l’Arbre dans l’ordre ancien du ciel, de la plus lente à la plus rapide, et la Lune, la plus rapide et la plus proche, ferme la liste des sept.
+La Golden Dawn donne à Yesod la [Lune](/fr/bibliotheque/astrologie/lune/) : les humeurs, la mémoire, les habitudes, ce qui change et revient. La Lune, la plus rapide et la plus proche des sept, est la dernière planète à descendre l’Arbre.
 
-Une carte montre le lien : le Neuf de Bâtons, Yesod dans la série du Feu, est la Lune en Sagittaire. Un homme à la tête bandée, appuyé sur son bâton, huit autres plantés derrière lui comme une palissade : la Lune, ici, c’est la garde de nuit, fatiguée et encore debout.
+Le cas le plus net est le Neuf de Bâtons : Yesod dans la série du Feu, la Lune en Sagittaire. Un homme à la tête bandée, appuyé sur son bâton, huit autres plantés derrière lui comme une palissade : la Lune, ici, c’est la garde de nuit, fatiguée et encore debout.
 
-C’est là que le système hermétique a déplacé la tradition. Dans les sources juives, la lune, qui brille d’une lumière empruntée, est une image de Malkhout. La Golden Dawn l’a placée une marche plus haut, sur Yesod. Les deux lectures se tiennent ; ce n’est pas le même arbre.
+Dans les sources juives, la lune, qui brille d’une lumière empruntée, est une image de Malkhout. La Golden Dawn l’a placée une marche plus haut, sur Yesod. Les deux lectures se tiennent ; ce n’est pas le même arbre.
 
 ## Yesod dans un tirage {#tirage}
 
@@ -61,8 +61,6 @@ Ce que Yesod peut apporter, c’est une question sur la base : sur quoi tout cel
 Imaginons le Neuf de Coupes à côté du Cinq de Coupes. Le souhait exaucé, et trois coupes renversées. Avec Yesod, la question devient : sur quoi repose cette satisfaction, et la perte d’à côté a-t-elle été regardée, ou seulement enjambée ?
 
 Sur l’Arbre de la Golden Dawn, le sentier qui descend de Yesod à Malkhout porte la carte du Monde. Un Neuf à côté du Monde, c’est une étape sur le point d’atterrir dans la vraie vie — continuez d’avancer, comme dit le nombre.
-
-Cela reste une clé de lecture facultative, à côté des cinq que j’enseigne : une question à poser, pas un sens à imposer.
 
 ## Sources {#sources}
 

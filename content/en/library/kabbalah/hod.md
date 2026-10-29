@@ -27,13 +27,13 @@ Hod (הוד) means “splendour” or “majesty”. It is the eighth of the ten
 
 The word shares its root with hoda’ah, acknowledgement or thanks, and Chassidic teaching reads Hod through it: gratitude and humility. **Hod is a splendour that knows where it comes from.** Think of a conductor who takes the applause and turns at once to point at the orchestra: the brilliance and the thanks are one gesture.
 
-On the body, Hod is the left leg, facing [Netzach](/library/kabbalah/netzach/), the right: one pushes forward, the other steadies. Kabbalists pair Netzach with Moses and Hod with Aaron, his brother and the first high priest. With Netzach and [Yesod](/library/kabbalah/yesod/), Hod forms the third triad, often taught as the forces of action. The [Tree of Life page](/library/kabbalah/tree-of-life/) shows them in place.
+On the body, Hod is the left leg, facing [Netzach](/library/kabbalah/netzach/), the right: one pushes forward, the other steadies. Kabbalists pair Netzach with Moses and Hod with Aaron, his brother and the first high priest. With Netzach and [Yesod](/library/kabbalah/yesod/), Hod forms the [third triad](/library/kabbalah/tree-of-life/), often taught as the forces of action.
 
 {{< tree-of-life highlight="hod" >}}
 
 ## The four Eights {#cards}
 
-The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of the Golden Dawn, which borrowed the Tree and rebuilt it as a system for cards, planets and elements. In that system, a teaching about majesty and acknowledgement becomes the sphere of Mercury, the mind. I keep the two apart. Each sephirah takes the four minor cards of its number, so Hod takes the Eights.
+For the Golden Dawn, a teaching about majesty and acknowledgement became the sphere of Mercury, the mind, and the eighth sphere took the four Eights.
 
 {{< cards "wa08 cu08 sw08 pe08" >}}
 
@@ -48,9 +48,9 @@ The number gives the frame: [eight](/library/numerology/number-8/) is four exalt
 
 ## Hod and astrology: Mercury {#astrology}
 
-The Golden Dawn gives Hod [Mercury](/library/astrology/mercury/): thought, language, trade, the messenger. The planets come down the Tree in the old order of the skies, slowest first — Saturn, Jupiter, Mars, the Sun, Venus, then Mercury.
+The Golden Dawn gives Hod [Mercury](/library/astrology/mercury/): thought, language, trade, the messenger. Of the seven planets on the way down the Tree, Mercury is the sixth, just after Venus.
 
-One card shows the link: the Eight of Wands, Hod in the suit of Fire, is Mercury in Sagittarius. Eight staves flying over open country, nobody holding them: the messenger planet in the sign of long journeys. In my notes, it’s also the glass half full or half empty — wands flying or falling, depending on who looks.
+Take the Eight of Wands: Hod in the suit of Fire, and Mercury in Sagittarius. Eight staves flying over open country, nobody holding them: the messenger planet in the sign of long journeys. In my notes, it’s also the glass half full or half empty — wands flying or falling, depending on who looks.
 
 That’s where the Hermetic system moved the tradition. In Jewish sources, Hod is majesty, acknowledgement and prophecy; with Mercury, Hermetic writers made it the sphere of the intellect. Netzach feels, Hod analyses — a neat pair, but a Hermetic one.
 
@@ -61,8 +61,6 @@ What Hod can add is a question about the mind’s part: is the thinking serving 
 Say someone draws the Eight of Swords alone. A woman bound and blindfolded, the swords planted around her but not touching. My note on this card: a prisoner of yourself while you have every tool — you can take off the blindfold. Through Hod, the bonds are made of thoughts. And the older meaning of the word helps too: the first step out is to acknowledge the blindfold is there.
 
 Next to a Seven, Hod meets Netzach on the table: the drive to continue, and the analysis that checks it. Read them as a conversation.
-
-It stays an optional extra lens, beside the five I teach. Keep it if it sharpens your reading; drop it if it only adds weight.
 
 ## Sources {#sources}
 

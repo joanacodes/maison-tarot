@@ -55,13 +55,13 @@ He also changed the deck’s vocabulary. Four majors are renamed: Justice become
 
 ## What he did not do {#myths}
 
-He didn’t paint the deck. Every card is Harris’s work. Deja Whitehouse’s recent study for Oxford University Press goes further and argues that her part went well beyond carrying out his instructions: she shaped the images, promoted them and exhibited them.
+He didn’t paint the deck. Every card is Harris’s work. Deja Whitehouse’s recent study for Oxford University Press goes further and argues that her part went well beyond carrying out his instructions.
 
 He didn’t see the cards printed. *The Book of Thoth* came out in 200 copies, and the deck itself was only printed as cards after both he and Harris had died; the first edition is usually dated 1969.
 
 He didn’t invent the correspondences. The scheme he worked from, each major tied to a Hebrew letter and an astrological attribution, is the Golden Dawn’s, itself a reworking of what [Éliphas Lévi](/library/tarot-figures/eliphas-levi/) and the French occultists had proposed. Crowley revised parts of that system; he didn’t create it. [The Golden Dawn page](/library/tarot-history/golden-dawn-tarot/) shows where it came from.
 
-And the deck isn’t dangerous to own or to read with. It is dense, and it carries the full weight of Crowley’s system, which is a different thing. **Cards aren’t magic, you are: that holds for the Thoth as much as for any other deck.**
+And the deck isn’t dangerous to own or to read with. It is dense, and it carries the full weight of Crowley’s system, which is a different thing.
 
 ## Why it matters for a reader today {#today}
 

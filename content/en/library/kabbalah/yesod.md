@@ -23,17 +23,17 @@ gallery: []
 ---
 ## Yesod in the Jewish tradition {#tradition}
 
-Yesod (יסוד) means “foundation”. It is the ninth of the ten sephirot, on the middle column, below [Tiferet](/library/kabbalah/tiferet/) and just above [Malkhut](/library/kabbalah/malkhut/). Kabbalists describe it as the place where everything flowing down from the sephirot above is gathered and passed on to Malkhut, the world.
+Yesod (יסוד) means “foundation”. It is the ninth of the ten sephirot, on the [middle column](/library/kabbalah/tree-of-life/), below [Tiferet](/library/kabbalah/tiferet/) and just above [Malkhut](/library/kabbalah/malkhut/). Kabbalists describe it as the place where everything flowing down from the sephirot above is gathered and passed on to Malkhut, the world.
 
 **Yesod is the channel: whatever comes from above goes through it before it reaches the world.** Think of the pass in a restaurant kitchen, the counter where every plate stops before it goes out to a table. Nothing is cooked there, and nothing leaves without it.
 
-The tradition links Yesod to the tzaddik, the righteous one, through a verse of Proverbs (10:25) read as “the righteous is the foundation of the world”. Its biblical figure is Joseph. On the body, it is the organ of generation, marked by the covenant of circumcision: Yesod is about connection and what is handed on. It closes the third triad with [Netzach](/library/kabbalah/netzach/) and [Hod](/library/kabbalah/hod/), on the right and the left. The [Tree of Life page](/library/kabbalah/tree-of-life/) shows them in place.
+The tradition links Yesod to the tzaddik, the righteous one, through a verse of Proverbs (10:25) read as “the righteous is the foundation of the world”. Its biblical figure is Joseph. On the body, it is the organ of generation, marked by the covenant of circumcision: Yesod is about connection and what is handed on. It closes the third triad with [Netzach](/library/kabbalah/netzach/) and [Hod](/library/kabbalah/hod/), on the right and the left.
 
 {{< tree-of-life highlight="yesod" >}}
 
 ## The four Nines {#cards}
 
-The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of the Golden Dawn, which borrowed the Tree and rebuilt it as a system for cards, planets and elements, and as a ladder of grades: Yesod became the second step, Theoricus, 2=9. I keep the two apart. Each sephirah takes the four minor cards of its number, so Yesod takes the Nines.
+On the Golden Dawn’s ladder of grades, Yesod became the second step, Theoricus, 2=9; among the cards, it holds the four Nines.
 
 {{< cards "wa09 cu09 sw09 pe09" >}}
 
@@ -44,15 +44,15 @@ The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of
 | [Nine of Swords](/library/tarot-cards/nine-of-swords/) | Lord of Despair and Cruelty (Mars in Gemini) | every worry passing through one head at night |
 | [Nine of Pentacles](/library/tarot-cards/nine-of-pentacles/) | Lord of Material Gain (Venus in Virgo) | the garden that took years, finally enjoyed |
 
-The number gives the frame: [nine](/library/numerology/number-9/) is the finish line, the end of a stage, last efforts, introspection, patience — but keep moving. In my notes, the Nine of Pentacles is enjoying what comes, grateful for everything you have; the Nine of Swords is coming out of a nightmare, a long troubled period, with protection above you. Yesod adds the gathering. Through this lens, a Nine is everything the cycle has built, collected in one place before it lands.
+As a number, [nine](/library/numerology/number-9/) is the finish line, the end of a stage, last efforts, introspection, patience — but keep moving. In my notes, the Nine of Pentacles is enjoying what comes, grateful for everything you have; the Nine of Swords is coming out of a nightmare, a long troubled period, with protection above you. Yesod adds the gathering. Through this lens, a Nine is everything the cycle has built, collected in one place before it lands.
 
 ## Yesod and astrology: the Moon {#astrology}
 
-The Golden Dawn gives Yesod the [Moon](/library/astrology/moon/): moods, memory, habits, what changes and comes back. The planets come down the Tree in the old order of the skies, slowest first, and the Moon, the fastest and nearest, comes last of the seven.
+The Golden Dawn gives Yesod the [Moon](/library/astrology/moon/): moods, memory, habits, what changes and comes back. The Moon, the fastest and nearest of the seven, is the last planet down the Tree.
 
-One card shows the link: the Nine of Wands, Yesod in the suit of Fire, is the Moon in Sagittarius. A man with a bandaged head leaning on his staff, eight more planted behind him like a fence: the Moon here is the night watch, tired and still awake.
+The clearest case is the Nine of Wands: Yesod in the suit of Fire, the Moon in Sagittarius. A man with a bandaged head leaning on his staff, eight more planted behind him like a fence: the Moon here is the night watch, tired and still awake.
 
-That’s where the Hermetic system moved the tradition. In Jewish sources, the moon, which shines with borrowed light, is an image of Malkhut. The Golden Dawn put it one step higher, on Yesod. Both readings hang together; they aren’t the same tree.
+In Jewish sources, the moon, which shines with borrowed light, is an image of Malkhut. The Golden Dawn put it one step higher, on Yesod. Both readings hang together; they aren’t the same tree.
 
 ## Yesod in a reading {#reading}
 
@@ -61,8 +61,6 @@ What Yesod can add is a question about the base: what is all this standing on?
 Say someone draws the Nine of Cups next to the Five of Cups. The wish come true, and three cups spilled. Through Yesod, the question is what the satisfaction rests on, and whether the loss beside it has been looked at, or only stepped over.
 
 On the Golden Dawn’s Tree, the path from Yesod down to Malkhut carries the World card. A Nine next to the World is a stage about to land in real life — keep moving, as the number says.
-
-It stays an optional extra lens, beside the five I teach: a question to ask, not a meaning to impose.
 
 ## Sources {#sources}
 

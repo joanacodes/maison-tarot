@@ -35,7 +35,7 @@ On the Tree, Keter is number 1, at the top of the middle column. With [Chokhmah]
 
 ## The four Aces {#cards}
 
-Jewish Kabbalah has nothing to say about tarot cards. The link was built later: Christian scholars borrowed the Tree, nineteenth-century occultists reworked it, and the Hermetic Order of the Golden Dawn, founded in London in 1888, turned it into a filing system for cards, planets and elements. That Hermetic Qabalah transforms the tradition; it doesn’t speak for it. [The Golden Dawn’s tarot](/library/tarot-history/golden-dawn-tarot/) has its own page.
+The link between the Tree and the cards came late. Christian scholars borrowed the Tree, nineteenth-century occultists reworked it, and the Hermetic Order of the Golden Dawn, founded in London in 1888, gave every card, planet and element a place on it. [The Golden Dawn’s tarot](/library/tarot-history/golden-dawn-tarot/) has its own page.
 
 Its tarot manuscript, Book T, places the numbered minors by number: each sephirah takes the four cards of its number, one per suit. Keter — a sephirah some Jewish sources won’t even count — receives the Aces.
 
@@ -60,13 +60,13 @@ It fits the cards. In the same system the Aces get no planet and no sign; the de
 
 ## Keter in a reading {#reading}
 
-The Tree isn’t one of the five lenses I teach. It’s an extra, for readers who like to know where the correspondences come from, and Keter adds a question more than a meaning: is this still a wish, or already a direction?
+Keter adds a question more than a meaning: is this still a wish, or already a direction?
 
 Say someone draws the Ace of Swords next to the Eight of Pentacles. Through Keter, the Ace is the idea at its root, with no skill attached yet; the Eight is the work that will give it a form. The reading becomes: the idea is sound, and now it has to come down the Tree, into someone’s hands.
 
 Several Aces at once are a crowd of beginnings, none of them shaped. That isn’t a bad sign. It says that beginnings need choosing, and the cards around them will often show which one has started to move.
 
-Keter adds no power to the Aces, and it doesn’t make a reading more serious. Cards aren’t magic, you are. If the Tree doesn’t speak to you, nothing is missing: the number and the element have said what matters, and [the complete path](/learn-tarot/) works without it.
+Keter adds no power to the Aces, and it doesn’t make a reading more serious. If the Tree doesn’t speak to you, nothing is missing: an Ace already speaks through its number and its element, and [the complete path](/learn-tarot/) works without the Tree.
 
 ## Sources {#sources}
 

@@ -45,7 +45,7 @@ Les cartes mineures n’ont pas de scènes. Un Cinq de Coupes, ce sont cinq coup
 
 ## Qui lui a donné son nom {#nom}
 
-Le nom est une étiquette du XIXe siècle : l’International Playing-Card Society note qu’il a été forgé à cette époque, par des érudits comme par des occultistes. Les occultistes ont pris ce modèle pour référence. En 1889, [Oswald Wirth](/fr/bibliotheque/figures-du-tarot/oswald-wirth/) dessine vingt-deux arcanes majeurs étroitement inspirés du Tarot de Marseille, publiés la même année avec le livre de Papus sur le tarot ; [la page sur le tarot occultiste](/fr/bibliotheque/histoire-du-tarot/tarot-occultiste-xixe-siecle/) raconte la suite.
+Le nom est une étiquette du XIXe siècle : l’International Playing-Card Society note qu’il a été forgé à cette époque, par des érudits comme par des occultistes. Les occultistes ont pris ce modèle pour référence : les vingt-deux arcanes majeurs qu’[Oswald Wirth](/fr/bibliotheque/figures-du-tarot/oswald-wirth/) dessine en 1889, publiés avec le livre de Papus sur le tarot, le suivent de près. [La page sur le tarot occultiste](/fr/bibliotheque/histoire-du-tarot/tarot-occultiste-xixe-siecle/) raconte la suite.
 
 C’est le XXe siècle qui a installé le nom. En 1930, Paul Marteau, qui dirige alors la maison Grimaud, publie *L’Ancien Tarot de Marseille*. Malgré le mot « ancien », c’est une édition du XXe siècle fondée sur des modèles du XVIIIe.
 

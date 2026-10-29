@@ -25,7 +25,7 @@ In the 20th century, tarot left the secret societies. In 1909 a London publisher
 
 ## 1909: a deck for everyone, from a secret society {#rws}
 
-In 1909, the occultist [Arthur Edward Waite](/library/tarot-figures/arthur-edward-waite/) (1857–1942) commissioned the artist [Pamela Colman Smith](/library/tarot-figures/pamela-colman-smith/) (1878–1951) to design a pack of 78 tarot cards. William Rider & Son published it in London in December 1909, and Waite’s companion book, *The Key to the Tarot*, followed in 1910. Both had been members of the Golden Dawn, and its correspondences run through the deck: [Strength is VIII, Justice XI](/library/tarot-history/golden-dawn-tarot/).
+In 1909, the occultist [Arthur Edward Waite](/library/tarot-figures/arthur-edward-waite/) (1857–1942) commissioned the artist [Pamela Colman Smith](/library/tarot-figures/pamela-colman-smith/) (1878–1951) to design a pack of 78 tarot cards. The London publisher William Rider & Son brought it out in December 1909, and Waite’s companion book, *The Key to the Tarot*, followed in 1910. Both had been members of the Golden Dawn, and its correspondences run through the deck: [Strength is VIII, Justice XI](/library/tarot-history/golden-dawn-tarot/).
 
 The Victoria and Albert Museum, which holds cards from the deck, describes the division of work. Waite gave Smith strict instructions for the major arcana. The minor arcana were entirely her design.
 
@@ -35,7 +35,7 @@ The deck still goes by several names. Many readers now say Rider-Waite-Smith, or
 
 ## The secrets go into print {#print}
 
-The Golden Dawn’s tarot teaching didn’t stay in the lodge for long. In 1912, Aleister Crowley printed a version of it, “A Description of the Cards of the Tarot”, in his journal *The Equinox*. Between 1937 and 1940, Israel Regardie published the Order’s rituals and teachings in four volumes in Chicago. What had been sworn to secrecy could now be borrowed from a library.
+The Golden Dawn’s tarot teaching didn’t stay in the lodge for long. Aleister Crowley put a version of it in his journal, *The Equinox*, in 1912, and Israel Regardie’s four volumes of the Order’s papers came out in Chicago between 1937 and 1940.
 
 [Aleister Crowley](/library/tarot-figures/aleister-crowley/) went on to design his own deck, the Thoth tarot, painted by Frieda Harris. It keeps the Golden Dawn’s astrology and decans and changes the look of everything else. [Thoth or Rider-Waite-Smith](/blog/thoth-vs-rider-waite/) compares the two for a reader.
 
@@ -51,7 +51,7 @@ Around the same time, U.S. Games Systems, founded by Stuart Kaplan in 1968, acqu
 
 ## France: the Marseille gets a standard edition {#france}
 
-In France, the century opened with Papus and Wirth’s occult tarot of 1889 already in circulation. In 1930, Paul Marteau, who ran the Paris card maker Grimaud, published *L’Ancien Tarot de Marseille*, a new edition drawn from 18th-century models. Its title fixed the name of the pattern. [The Tarot de Marseille page](/library/tarot-history/tarot-de-marseille-history/) tells where that pattern came from.
+In France, the century opened with Papus and Wirth’s occult tarot of 1889 already in circulation. The standard edition came in 1930, when Paul Marteau of the Paris card maker Grimaud brought out *L’Ancien Tarot de Marseille*, drawn from 18th-century decks; its title fixed the pattern’s name. [The Tarot de Marseille page](/library/tarot-history/tarot-de-marseille-history/) tells where that pattern came from.
 
 ## Tarot in the museum and the studio {#art}
 
@@ -69,7 +69,7 @@ If you’re starting out, start where Smith’s pictures make it possible: look 
 
 - [Victoria and Albert Museum, Rider-Waite-Smith tarot card by Pamela Colman Smith](https://collections.vam.ac.uk/item/O1028236) — the 1909 commission, and who designed which cards.
 - [The Morgan Library & Museum, *Tarot! Renaissance Symbols, Modern Visions*, press release](https://www.themorgan.org/press/2026/tarot-exhibition) — the 2026 exhibition, from the Milanese decks to modern artists.
-- [Museum of Witchcraft and Magic, Israel Regardie, *The Golden Dawn*](https://museumofwitchcraftandmagic.co.uk/library/314-golden-dawn-the/) — the 1937–1940 volumes that put the Order’s teaching into print.
-- [Yale University Library, *Ancien Tarot de Marseille* (Grimaud)](https://collections.library.yale.edu/catalog/10991686) — the catalogue record for Paul Marteau’s edition.
+- [Museum of Witchcraft and Magic, Israel Regardie, *The Golden Dawn*](https://museumofwitchcraftandmagic.co.uk/library/314-golden-dawn-the/) — the museum library’s entry for Regardie’s four-volume set.
+- [Yale University Library, *Ancien Tarot de Marseille* (Grimaud)](https://collections.library.yale.edu/catalog/10991686) — Yale’s catalogue entry for the Grimaud deck that Marteau published.
 - [Mary K. Greer, “Eden Gray’s Fool’s Journey”](https://marykgreer.com/2008/03/27/eden-grays-fools-journey/) — tarot historian and author: Eden Gray’s books and where the Fool’s Journey comes from.
 - [U.S. Games Systems](https://en.wikipedia.org/wiki/U.S._Games_Systems) — Wikipedia: the company, its founding in 1968 and the Rider-Waite rights.

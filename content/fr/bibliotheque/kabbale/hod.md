@@ -27,13 +27,13 @@ Hod (הוד) veut dire « gloire », « splendeur » ou « majesté ». C’est 
 
 Le mot partage sa racine avec hoda’ah, la reconnaissance, le merci, et l’enseignement hassidique lit Hod à travers lui : la gratitude et l’humilité. **Hod, c’est une splendeur qui sait d’où elle vient.** Pensez au chef d’orchestre qui, sous les applaudissements, se retourne aussitôt vers les musiciens : l’éclat et le merci tiennent dans le même geste.
 
-Sur le corps, Hod est la jambe gauche, face à [Netzah](/fr/bibliotheque/kabbale/netzah/), la droite : l’une pousse, l’autre stabilise. Les kabbalistes associent Netzah à Moïse et Hod à Aaron, son frère, le premier grand prêtre. Avec Netzah et [Yesod](/fr/bibliotheque/kabbale/yesod/), Hod forme la troisième triade, qu’on enseigne souvent comme celle de l’action. La [page de l’Arbre de Vie](/fr/bibliotheque/kabbale/arbre-de-vie/) les montre en place.
+Sur le corps, Hod est la jambe gauche, face à [Netzah](/fr/bibliotheque/kabbale/netzah/), la droite : l’une pousse, l’autre stabilise. Les kabbalistes associent Netzah à Moïse et Hod à Aaron, son frère, le premier grand prêtre. Avec Netzah et [Yesod](/fr/bibliotheque/kabbale/yesod/), Hod forme la [troisième triade](/fr/bibliotheque/kabbale/arbre-de-vie/), qu’on enseigne souvent comme celle de l’action.
 
 {{< tree-of-life highlight="hod" >}}
 
 ## Les quatre Huit {#cartes}
 
-Les correspondances du tarot ne sont pas juives. Elles viennent de la Qabale hermétique de la Golden Dawn, qui a emprunté l’Arbre pour en faire un système de cartes, de planètes et d’éléments. Un enseignement sur la majesté et la reconnaissance y devient la sphère de Mercure, celle de l’esprit. Je garde les deux séparées. Chaque sephirah y reçoit les quatre cartes mineures de son nombre : pour Hod, les Huit.
+Pour la Golden Dawn, un enseignement sur la majesté et la reconnaissance est devenu la sphère de Mercure, celle de l’esprit, et la huitième sphère a reçu les quatre Huit.
 
 {{< cards "wa08 cu08 sw08 pe08" >}}
 
@@ -48,9 +48,9 @@ Le nombre pose le cadre : le [8](/fr/bibliotheque/numerologie/chiffre-8/), c’e
 
 ## Hod et l’astrologie : Mercure {#astrologie}
 
-La Golden Dawn donne à Hod [Mercure](/fr/bibliotheque/astrologie/mercure/) : la pensée, le langage, le commerce, le messager. Les planètes descendent l’Arbre dans l’ordre ancien du ciel, de la plus lente à la plus rapide — Saturne, Jupiter, Mars, le Soleil, Vénus, puis Mercure.
+La Golden Dawn donne à Hod [Mercure](/fr/bibliotheque/astrologie/mercure/) : la pensée, le langage, le commerce, le messager. Des sept planètes qui descendent l’Arbre, Mercure est la sixième, juste après Vénus.
 
-Une carte montre le lien : le Huit de Bâtons, Hod dans la série du Feu, est Mercure en Sagittaire. Huit bâtons qui filent au-dessus de la campagne, sans personne pour les tenir : la planète messagère dans le signe des longs voyages. Dans mes notes, c’est aussi le verre à moitié plein ou à moitié vide — des bâtons qui volent ou qui tombent, selon qui regarde.
+Prenez le Huit de Bâtons : Hod dans la série du Feu, et Mercure en Sagittaire. Huit bâtons qui filent au-dessus de la campagne, sans personne pour les tenir : la planète messagère dans le signe des longs voyages. Dans mes notes, c’est aussi le verre à moitié plein ou à moitié vide — des bâtons qui volent ou qui tombent, selon qui regarde.
 
 C’est là que le système hermétique a déplacé la tradition. Dans les sources juives, Hod est majesté, reconnaissance et prophétie ; avec Mercure, les auteurs hermétiques en ont fait la sphère de l’intellect. Netzah ressent, Hod analyse : une jolie paire, mais une paire hermétique.
 
@@ -61,8 +61,6 @@ Ce que Hod peut apporter, c’est une question sur la part de l’esprit : est-c
 Imaginons le Huit d’Épées seul. Une femme ligotée, les yeux bandés, les épées plantées autour d’elle sans la toucher. Ma note sur cette carte : prisonnière d’elle-même alors qu’elle a tous les outils — elle peut retirer le bandeau. Avec Hod, les liens sont faits de pensées. Et le sens ancien du mot aide aussi : pour sortir, il faut d’abord reconnaître que le bandeau est là.
 
 À côté d’un Sept, Hod retrouve Netzah sur la table : l’envie de continuer, et l’analyse qui la vérifie. Lisez-les comme une conversation.
-
-Cela reste une clé de lecture facultative, à côté des cinq que j’enseigne. Gardez-la si elle affine votre lecture ; laissez-la si elle ne fait qu’alourdir.
 
 ## Sources {#sources}
 

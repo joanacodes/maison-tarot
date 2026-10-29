@@ -25,9 +25,9 @@ Au XIXe siècle, des occultistes français ont fait du tarot non plus un jeu de 
 
 ## Éliphas Lévi et les 22 lettres {#levi}
 
-[Éliphas Lévi](/fr/bibliotheque/figures-du-tarot/eliphas-levi/) est le nom de plume d’Alphonse-Louis Constant (1810-1875), un Parisien. Son *Dogme et rituel de la haute magie* paraît en deux volumes ; la Bibliothèque nationale de France en conserve l’édition parisienne de 1856. Chaque volume compte vingt-deux chapitres, un par atout. L’*Encyclopædia Universalis* date de 1856 l’« impulsion nouvelle » que le tarot reçoit du mouvement occultiste autour de Lévi, de Paul Christian et de quelques autres, et voit en Lévi le principal fondateur de ce mouvement en France.
+[Éliphas Lévi](/fr/bibliotheque/figures-du-tarot/eliphas-levi/) est le nom de plume d’Alphonse-Louis Constant (1810-1875), un Parisien. Son *Dogme et rituel de la haute magie* paraît en deux volumes ; la Bibliothèque nationale de France en conserve l’édition parisienne de 1856. Ses deux volumes suivent les atouts, à raison de vingt-deux chapitres chacun. L’*Encyclopædia Universalis* date de 1856 l’« impulsion nouvelle » que le tarot reçoit du mouvement occultiste autour de Lévi, de Paul Christian et de quelques autres, et voit en Lévi le principal fondateur de ce mouvement en France.
 
-Sa thèse est ambitieuse : le tarot serait la source originelle du symbolisme magique en Occident. Pour la tenir, il fait correspondre les cartes à l’alphabet hébreu dans l’ordre du Tarot de Marseille. Aleph va à la carte I, [le Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/) (le Bateleur au tarot de Marseille), Beth à la carte II, et ainsi de suite jusqu’à Resh pour le Jugement, carte XX. Le Mat, qui ne porte pas de numéro, prend Shin, la vingt et unième lettre, et se retrouve entre le Jugement et le Monde, qui prend Tav.
+Sa thèse est ambitieuse : le tarot serait la source originelle du symbolisme magique en Occident. Pour la tenir, il fait correspondre les cartes à l’alphabet hébreu dans l’ordre du Tarot de Marseille : [le Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/), carte I (le Bateleur au tarot de Marseille), prend Aleph, et le Mat, qui ne porte pas de numéro, est glissé vers la fin de l’alphabet.
 
 L’idée n’était pas tout à fait neuve : le comte de Mellet avait déjà rapproché les atouts des lettres hébraïques en 1781 (voyez [le tournant du XVIIIe siècle](/fr/bibliotheque/histoire-du-tarot/du-jeu-a-la-divination/)). Lévi en fait une doctrine.
 
@@ -43,19 +43,19 @@ La Kabbale est une tradition mystique juive. L’un de ses textes anciens, le *S
 
 Les héritiers de Lévi vont plus loin à la fin du siècle. En 1889, Gérard Encausse, qui écrit sous le nom de Papus, publie à Paris *Le Tarot des Bohémiens*. La même année, [Oswald Wirth](/fr/bibliotheque/figures-du-tarot/oswald-wirth/) dessine vingt-deux arcanes majeurs étroitement inspirés du Tarot de Marseille, qui paraissent avec le livre de Papus.
 
-Le titre porte un mythe. Les « Bohémiens », ce sont les Roms, et l’idée qu’ils auraient transporté le tarot à travers l’Europe plaisait aux occultistes français de l’époque. Les archives disent autre chose : les cartes à jouer sont en Europe dans les années 1370, des décennies avant que les premiers groupes roms apparaissent dans les archives d’Europe de l’Ouest. [La première page de cette histoire](/fr/bibliotheque/histoire-du-tarot/arrivee-des-cartes-en-europe/) donne les dates. Ce mythe colle aux Roms depuis ; il mérite d’être reposé avec douceur, une bonne fois.
+Le titre porte un mythe. Les « Bohémiens », ce sont les Roms, et l’idée qu’ils auraient transporté le tarot à travers l’Europe plaisait aux occultistes français de l’époque. Les archives disent autre chose : les cartes à jouer sont en Europe dans les années 1370, des décennies avant les premières traces de groupes roms en Europe de l’Ouest. [La première page de cette histoire](/fr/bibliotheque/histoire-du-tarot/arrivee-des-cartes-en-europe/) donne les dates. Ce mythe colle aux Roms depuis ; il mérite d’être reposé avec douceur, une bonne fois.
 
 ## La suite, de l’autre côté de la Manche {#suite}
 
 Le système français a traversé la Manche. À Londres, l’Ordre hermétique de la Golden Dawn, fondé en 1888, garde l’idée des lettres et des sentiers mais change l’ordre : il met le Mat en tête, sur Aleph, si bien que les cartes I à XX prennent chacune la lettre suivante. [La page sur la Golden Dawn](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/) raconte cette histoire.
 
-Voilà pourquoi vos livres ne sont pas d’accord. Un livre français qui suit Lévi ou Wirth donne Aleph au Bateleur ; un livre anglais qui suit la Golden Dawn le donne au Mat. Aucun ne se trompe. Ce sont deux systèmes, chacun cohérent à sa manière. [Le tableau des 22 lettres](/fr/bibliotheque/kabbale/lettres-hebraiques-arcanes-majeurs/) les met côte à côte.
+Voilà pourquoi vos livres ne sont pas d’accord. Un livre français qui suit Lévi ou Wirth donne Aleph au Bateleur ; un livre anglais qui suit la Golden Dawn le donne au Mat. Aucun ne se trompe. Ce sont deux systèmes, chacun cohérent à sa manière. [Le tableau des 22 lettres](/fr/bibliotheque/kabbale/lettres-hebraiques-arcanes-majeurs/) donne les deux ordres dans deux colonnes voisines.
 
 ## Ce que ça change à la table {#lecture}
 
 Les lettres sont une clé de lecture que certains adorent, et je le respecte. Elles ne sont pas obligatoires. À Maison Tarot, vous apprenez à lire une carte par ses couleurs, son nombre et son élément, que vous voyez sur la carte elle-même, avant tout système imprimé dans un livre.
 
-Si la Kabbale vous intéresse, allez vers elle comme vers une tradition à part entière, pas comme vers une clé qui ouvrirait le jeu. Et commencez par les cartes que vous avez devant vous : [le parcours complet](/fr/apprendre-le-tarot/) met les clés de lecture dans l’ordre.
+Si la Kabbale vous intéresse, allez vers elle comme vers une tradition à part entière, pas comme vers une clé qui ouvrirait le jeu. Et commencez par les cartes que vous avez devant vous : [le parcours complet](/fr/apprendre-le-tarot/) part de ce qui est imprimé dessus.
 
 ## Sources {#sources}
 

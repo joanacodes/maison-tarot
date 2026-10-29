@@ -9,7 +9,7 @@ short: The Tree of Life
 ---
 The Kabbalah is a Jewish mystical tradition: a way of reading the Torah and of thinking about how God and the world relate, carried by texts such as Sefer Yetzirah and the Zohar. Its best-known image is the Tree of Life, ten spheres joined by twenty-two paths.
 
-In the nineteenth century, occultists outside Judaism borrowed that Tree and reworked it into what is often spelled Qabalah, the Hermetic Qabalah. The Golden Dawn, in London, used it to sort the tarot: the numbered cards on the spheres, the major arcana on the paths, one Hebrew letter per trump. The letters on the card pages of this site come from there.
+The tarot correspondences are not Jewish. In the nineteenth century, occultists outside Judaism borrowed that Tree and reworked it into what is often spelled Qabalah, the Hermetic Qabalah. The Golden Dawn, in London, rebuilt it as a system for cards, planets and elements, and used it to sort the tarot: the numbered cards on the spheres, the major arcana on the paths, one Hebrew letter per trump. The letters on the card pages of this site come from there. I keep the two apart.
 
 At Maison Tarot this is an extra lens, not one of the five I teach. You can read the whole deck without it. These pages are for readers who want to know where the correspondences come from, and what each tradition actually says.
 

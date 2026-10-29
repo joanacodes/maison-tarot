@@ -62,7 +62,7 @@ That doesn’t make her a fraud, and it doesn’t make her a seer. She was a wor
 
 If you read Lenormand, you’re using a German game with a French name on the box, and that’s fine: the system works on its own terms. It isn’t tarot, and it isn’t hers. [Lenormand vs tarot](/blog/lenormand-vs-tarot/) explains how the two differ when you sit down to read.
 
-The other lesson is about famous clients. A list of names proves publicity, not accuracy. I count my misses — about one reading in ten, by my own notebook — and I say so when it happens. A miss is a miss.
+The other lesson is about famous clients. A list of names proves publicity, not accuracy. I count my misses — about one reading in ten, by my own notebook — and I say so when it happens.
 
 And it helps to remember why people went to her: revolution, war, prison, divorce. Most people who ask the cards are worried about someone, and that deserves care more than a show. It’s why I say plainly [what a reading at Maison Tarot can and can’t do](/disclaimers/#readings).
 

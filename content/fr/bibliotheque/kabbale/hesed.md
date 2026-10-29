@@ -27,13 +27,13 @@ Hesed (חסד) se traduit par « grâce », « bonté » ou « miséricorde » ;
 
 L’enseignement hassidique décrit le hesed comme un don sans limite — il veut faire du bien même à qui ne manque de rien. **Hesed, c’est la main qui s’ouvre avant de se demander si le cadeau est utile.** Pensez à la grand-mère qui prépare un gigot pour dix quand vous venez à quatre.
 
-La tradition la rattache à Abraham, qui dans la Genèse court accueillir trois inconnus sous sa tente. Sur l’Arbre, Hesed porte le numéro 4, sur la colonne de droite sous [Hokhmah](/fr/bibliotheque/kabbale/hokhmah/), face à [Gevurah](/fr/bibliotheque/kabbale/gevurah/) à gauche. Les deux se rejoignent en [Tiferet](/fr/bibliotheque/kabbale/tiferet/), au milieu, qui les équilibre ; les schémas hermétiques appellent ces trois-là le triangle éthique. La [page de l’Arbre de Vie](/fr/bibliotheque/kabbale/arbre-de-vie/) les montre en place.
+La tradition la rattache à Abraham, qui dans la Genèse court accueillir trois inconnus sous sa tente. Sur l’[Arbre](/fr/bibliotheque/kabbale/arbre-de-vie/), Hesed porte le numéro 4, sur la colonne de droite sous [Hokhmah](/fr/bibliotheque/kabbale/hokhmah/), face à [Gevurah](/fr/bibliotheque/kabbale/gevurah/) à gauche ; plus bas, sur la colonne du milieu, se trouve [Tiferet](/fr/bibliotheque/kabbale/tiferet/), où les deux trouvent leur équilibre.
 
 {{< tree-of-life highlight="chesed" >}}
 
 ## Les quatre Quatre {#cartes}
 
-Les correspondances du tarot ne sont pas juives. Elles viennent de la Qabale hermétique de la Golden Dawn, qui a emprunté l’Arbre pour en faire un système de cartes, de planètes et d’éléments. Un enseignement sur la façon dont Dieu donne y devient une sphère gouvernée par Jupiter, qui tient quatre cartes à jouer. Je garde les deux séparées. Chaque sephirah y reçoit les quatre cartes mineures de son nombre : pour Hesed, les Quatre.
+Entre les mains de la Golden Dawn, un enseignement sur la façon dont Dieu donne devient une sphère gouvernée par Jupiter, qui tient quatre cartes à jouer : les Quatre.
 
 {{< cards "wa04 cu04 sw04 pe04" >}}
 
@@ -52,9 +52,9 @@ Le Quatre de Pentacles est là où la clé devient intéressante. La Golden Dawn
 
 La Golden Dawn donne à Hesed [Jupiter](/fr/bibliotheque/astrologie/jupiter/) : l’expansion, la confiance, ce qu’on prend pour de la chance. Les planètes descendent l’Arbre dans l’ordre ancien du ciel, de la plus lente à la plus rapide — Saturne en Binah, puis Jupiter, puis Mars — si bien que Jupiter tombe sur la sephirah du don.
 
-Une carte rend le lien visible : le Quatre d’Épées, Hesed dans la série de l’Air, est Jupiter en Balance. Un chevalier couché au repos dans une église, trois épées au mur : la générosité de Jupiter, ici, c’est la permission de s’arrêter.
+On voit le rapprochement dans le Quatre d’Épées, Hesed dans la série de l’Air et Jupiter en Balance. Un chevalier couché au repos dans une église, trois épées au mur : la générosité de Jupiter, ici, c’est la permission de s’arrêter.
 
-Ces planètes appartiennent au système hermétique, pas à la définition juive de Hesed. Si l’[astrologie](/fr/bibliotheque/astrologie/) ne fait pas partie de vos clés de lecture, les cartes se lisent très bien sans elle.
+Si l’[astrologie](/fr/bibliotheque/astrologie/) ne fait pas partie de vos clés de lecture, les cartes se lisent très bien sans elle.
 
 ## Hesed dans un tirage {#tirage}
 
@@ -64,13 +64,11 @@ Imaginons qu’on tire le Quatre de Bâtons à côté du Cinq de Pentacles : une
 
 Ou le Quatre de Coupes seul : quelqu’un qui regarde trois coupes pendant qu’une main sortie d’un nuage lui en tend une quatrième. Hesed rappelle que le cadeau est là ; elle ne peut forcer personne à le prendre.
 
-Utilisez cette clé avec légèreté. C’est un supplément, à côté des cinq clés de lecture que j’enseigne, et elle marche mieux comme une question qu’on pose que comme une réponse qu’on impose.
-
 ## Sources {#sources}
 
 Toutes en anglais.
 
 - [Sefaria, « Ḥesed »](https://www.sefaria.org/topics/hesed) — la sephirah dans les sources juives : la quatrième des dix, la main droite de la structure.
 - [Chabad.org, « Ladder With No Snakes »](https://www.chabad.org/kabbalah/article_cdo/aid/379343/jewish/Ladder-With-No-Snakes.htm) — les patriarches et les sephirot : Abraham avec Hesed à droite, Isaac avec Gevurah à gauche.
-- [Encyclopædia Britannica, « Sefira »](https://www.britannica.com/topic/sefira) — les dix sephirot comme émanations, du Sefer Yetsira à la Kabbale plus tardive.
+- [Encyclopædia Britannica, « Sefira »](https://www.britannica.com/topic/sefira) — la définition d’une sefira par l’encyclopédie, et celle des dix ensemble.
 - [Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983)](https://discovery.nypl.org/research/research-catalog/bib/b10815500) — notice de bibliothèque d’une étude du tarot de la Golden Dawn sur l’Arbre de Vie, sephirah par sephirah.

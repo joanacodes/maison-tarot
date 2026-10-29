@@ -69,7 +69,7 @@ Quand vous regardez le Cinq de Coupes et que vous sentez la perte avant de conna
 
 C’est pour ça que je fais commencer tout le monde sur son jeu. Ma méthode s’appuie sur ce qui est dessiné : les [couleurs](/fr/bibliotheque/couleurs-tarot/), les nombres, les éléments. Ce sont ses choix — le rouge d’une cape, le gris d’un ciel — et ils tiennent sur les 78 cartes.
 
-Essayez avec les trois cartes ci-dessus. Regardez son Trois d’Épées, puis le Dix de Bâtons, et dites ce que vous voyez avant de dire ce qu’elles « veulent dire ». C’est le premier exercice du [parcours d’apprentissage](/fr/apprendre-le-tarot/). Comment le jeu est devenu la référence : c’est dans [l’article sur le Rider-Waite-Smith](/fr/blog/tarot-rider-waite-smith/) ; l’ordre auquel elle appartenait a sa page, [la Golden Dawn et son tarot](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/) ; et le siècle que ses cartes ont conquis se raconte dans [le tarot au XXe siècle](/fr/bibliotheque/histoire-du-tarot/le-tarot-au-xxe-siecle/).
+Essayez avec les trois cartes ci-dessus. Regardez son Trois d’Épées, puis le Dix de Bâtons, et dites ce que vous voyez avant de dire ce qu’elles « veulent dire ». C’est le premier exercice du [parcours d’apprentissage](/fr/apprendre-le-tarot/). Comment le jeu est devenu la référence : c’est dans [l’article sur le Rider-Waite-Smith](/fr/blog/tarot-rider-waite-smith/) ; l’ordre auquel elle appartenait a sa page, [la Golden Dawn et son tarot](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/) ; et [le tarot au XXe siècle](/fr/bibliotheque/histoire-du-tarot/le-tarot-au-xxe-siecle/) suit le siècle que ses cartes ont conquis.
 
 ## Sources {#sources}
 

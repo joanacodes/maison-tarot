@@ -33,7 +33,7 @@ Kabbalah also calls Malkhut the Shekhinah, a word from the Talmud for God’s pr
 
 ## The four Tens {#cards}
 
-The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of the Golden Dawn, and Malkhut is where the shift is easiest to see: in Jewish sources, it is God’s presence within the world; in the Golden Dawn’s tables, it is the world itself, the sphere of the elements, and the first grade of initiation, Zelator, 1=10. I keep the two apart. Each sephirah takes the four minor cards of its number, so Malkhut takes the Tens.
+Malkhut is where the Hermetic shift is easiest to see: in Jewish sources, it is God’s presence within the world; in the Golden Dawn’s tables, it is the world itself, the sphere of the elements, and the first grade of initiation, Zelator, 1=10. As the tenth sphere, it takes the four Tens.
 
 {{< cards "wa10 cu10 sw10 pe10" >}}
 
@@ -44,15 +44,15 @@ The tarot correspondences are not Jewish. They come from the Hermetic Qabalah of
 | [Ten of Swords](/library/tarot-cards/ten-of-swords/) | Lord of Ruin (Sun in Gemini) | the end touched, and the dawn behind it |
 | [Ten of Pentacles](/library/tarot-cards/ten-of-pentacles/) | Lord of Wealth (Mercury in Virgo) | three generations, the Tree drawn in coins |
 
-The number gives the frame: [ten](/library/numerology/number-10/) is the transition between two stages, the corridor between two rooms; its minus is that it can be short-lived, and it tells you to start something else. In my notes, the Ten of Pentacles is complete wealth at home, the whole family present; the Golden Dawn calls it the Lord of Wealth. Malkhut adds the landing. Through this lens, a Ten is the cycle arrived somewhere you can touch.
+Start with the number: [ten](/library/numerology/number-10/) is the transition between two stages, the corridor between two rooms; its minus is that it can be short-lived, and it tells you to start something else. In my notes, the Ten of Pentacles is complete wealth at home, the whole family present; the Golden Dawn calls it the Lord of Wealth. Malkhut adds the landing. Through this lens, a Ten is the cycle arrived somewhere you can touch.
 
 Look closely at the Ten of Pentacles: its ten coins are laid out in the shape of the Tree of Life, the whole structure brought down into one family’s courtyard.
 
 ## The court cards: the Princesses {#court}
 
-The Golden Dawn puts the court cards on the Tree by the four letters of the Name, YHVH. The final Heh — the Earth of each suit — goes to Malkhut: the Princess, a young woman standing on her own feet.
+Among the court cards, the Golden Dawn gives Malkhut the last letter of the Name, YHVH: the final Heh, the Earth of each suit. Its figure is the Princess, a young woman standing on her own feet.
 
-How the Rider-Waite-Smith courts map onto the Golden Dawn titles is debated, mostly over the Kings and Knights; the [Chokhmah page](/library/kabbalah/chokhmah/) sets out both readings. The Princesses are the clearer case. **By title and by picture, the Rider-Waite-Smith [Pages](/library/numerology/page/) are the Princesses**, and the card pages on this site agree: the Page of Wands is Earth of Fire.
+The matching with the Rider-Waite-Smith is disputed for the Kings and the Knights, and the [Chokhmah page](/library/kabbalah/chokhmah/) gives both sides. The Princesses are the clearer case. **By title and by picture, the Rider-Waite-Smith [Pages](/library/numerology/page/) are the Princesses**, and the card pages on this site agree: the Page of Wands is Earth of Fire.
 
 {{< cards "wapa cupa swpa pepa" >}}
 
@@ -70,7 +70,7 @@ What Malkhut can add is a question about the concrete: where does this land — 
 
 Say someone draws the Ten of Wands. Ten says a stage is complete and asks you to start something else. Malkhut adds that the load is real: carried by one person, towards an actual front door. The question becomes what can be put down at the threshold.
 
-A reading only reaches Malkhut when someone does something with it. I read; you decide. The lens is an optional extra beside the five I teach, and it’s at its best when it brings a reading back down to earth.
+A reading only reaches Malkhut when someone does something with it. This lens is at its best when it brings a reading back down to earth.
 
 ## Sources {#sources}
 
