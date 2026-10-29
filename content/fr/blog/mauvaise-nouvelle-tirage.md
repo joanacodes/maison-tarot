@@ -51,7 +51,7 @@ Voici la différence en pratique. Version dure : « Cette relation est finie. La
 
 **Une chose dure dite avec douceur reste vraie ; dite durement, elle n’en est pas plus honnête.**
 
-Quand j’ai lu le thème d’un ami que j’admirais, il était juste et dur. Ce que j’ai dit à voix haute, c’est : « Ta vie a été dure, mais on dirait que tu aimes ça, quelque part. » Il m’a répondu que c’était vrai, d’une certaine façon. La partie dure était là, le respect aussi. J’ai raconté [l’histoire de cette phrase](/fr/blog/lire-pour-quelquun-que-jadmirais/) à part.
+Quand j’ai lu le thème d’un ami que j’admirais, il était juste et dur. Ce que j’ai dit à voix haute, c’est : « Ta vie a été dure, mais on dirait que tu aimes ça, quelque part. » Il a reconnu que c’était vrai, à sa façon. La partie dure était là, le respect aussi. J’ai raconté [l’histoire de cette phrase](/fr/blog/lire-pour-quelquun-que-jadmirais/) à part.
 
 ## Quand la personne n’est pas prête {#pas-prete}
 

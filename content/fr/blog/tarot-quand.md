@@ -43,7 +43,7 @@ Et à cause de ce qu’une date fait à la personne qui la reçoit. Imaginons qu
 
 Le « quoi » et le « quand » d’un tirage sont deux affirmations distinctes, et l’une peut tenir pendant que l’autre glisse. Si vous tenez un carnet, donnez au « quand » sa propre ligne. Sinon, un tirage qui avait vu juste sur l’événement et faux sur le mois sera noté comme réussi, et vous ne verrez jamais où se concentrent vos ratés.
 
-Quand une date passe, je ne dis pas que les cartes parlaient d’un autre printemps. Un raté est un raté, il va dans le carnet, et j’ai écrit sur [ce qu’on fait quand un tirage est faux](/fr/blog/tirage-faux-que-faire/).
+Quand une date passe, je ne dis pas que les cartes parlaient d’un autre printemps. Le raté va dans le carnet, tel quel, et j’ai écrit sur [ce qu’on fait quand un tirage est faux](/fr/blog/tirage-faux-que-faire/).
 
 ## Ce que je lis à la place d’une date {#a-la-place-dune-date}
 
@@ -67,6 +67,6 @@ La question plus douce, ce n’est donc presque jamais « quand ? ». C’est «
 
 ## Essayez sur votre prochain « quand » {#essayer}
 
-Tirez une carte pour la question dont vous voulez une date, et ne regardez que le nombre. Demandez-vous quelle étape il montre, pas quel jour. La [clé de lecture des nombres](/fr/bibliotheque/numerologie/) vous donne le cycle complet de 1 à 10.
+Tirez une carte pour la question dont vous voulez une date, et ne regardez que le nombre. Demandez-vous quelle étape il montre, pas quel jour. Les dix étapes sont détaillées dans [la clé de lecture des nombres](/fr/bibliotheque/numerologie/).
 
 Si vous voulez la version large de cette réponse, j’ai écrit sur [ce que le tarot peut dire de l’avenir](/fr/blog/le-tarot-predit-il-lavenir/), et pourquoi je lis surtout le présent. C’est aussi dans [la liste de ce que je ne prétends pas](/fr/avertissements/#pretentions).

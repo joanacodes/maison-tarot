@@ -29,7 +29,7 @@ Mélangez comme vous voulez, puis posez trois cartes de gauche à droite.
 2. *La graine : ce qui est prêt à commencer.* Quelque chose qui existe déjà, en vous ou autour de vous, et qui veut démarrer. Pas un souhait : un début qui a ses conditions.
 3. *Le premier pas : ce que vous pouvez faire cette semaine.* Le geste concret. Lisez-le comme une action, avec un verbe.
 
-Avant de lire les cartes une par une, lisez-les comme une ligne. Les nombres montent-ils ou descendent-ils ? Une ligne 2, 5, 9 est un cycle qui avance ; 9, 5, 2, quelqu’un qui revient à une étape antérieure. Le [cycle de 1 à 10 de la numérologie](/fr/bibliotheque/numerologie/) fait l’essentiel du travail. Puis les éléments : la graine partage-t-elle l’élément du terrain, ou rompt-elle avec lui ?
+Avant de lire les cartes une par une, lisez-les comme une ligne. Regardez d’abord dans quel sens vont les nombres. Une ligne 2, 5, 9 est un cycle qui avance ; 9, 5, 2, quelqu’un qui revient à une étape antérieure. Le [cycle de 1 à 10 de la numérologie](/fr/bibliotheque/numerologie/) fait l’essentiel du travail. Puis les éléments : la graine partage-t-elle l’élément du terrain, ou rompt-elle avec lui ?
 
 ## Puis une intention {#intention}
 
@@ -41,7 +41,7 @@ Une intention, ici, est une phrase sur ce que vous allez faire, pas sur ce que v
 - Quelque chose que vous pourrez vérifier dans deux semaines, à la pleine lune, puis dans quatre, à la nouvelle lune suivante.
 - Une seule phrase. S’il vous en faut trois, vous avez trois intentions, et aucune ne tiendra.
 
-C’est là que mon tirage se sépare de la manifestation telle qu’on l’enseigne souvent en ligne. Je ne demande ni aux cartes ni à la lune de vous envoyer quoi que ce soit. Les cartes ne sont pas magiques, vous l’êtes : elles vous aident à voir, puis vous choisissez et vous agissez. Si l’autre approche vous intrigue, j’ai regardé [la manifestation et la loi de l’attraction](/fr/blog/manifestation-tarot/) dans un article à part.
+C’est là que mon tirage se sépare de la manifestation telle qu’on l’enseigne souvent en ligne. Je ne demande ni aux cartes ni à la lune de vous envoyer quoi que ce soit. Les cartes vous aident à voir ; ensuite, c’est vous qui choisissez et qui agissez. Si l’autre approche vous intrigue, j’ai regardé [la manifestation et la loi de l’attraction](/fr/blog/manifestation-tarot/) dans un article à part.
 
 **Une intention est une promesse qu’on peut vérifier, pas un vœu qu’on attend.**
 
@@ -51,7 +51,7 @@ Imaginons que vous vous asseyiez un soir de nouvelle lune et que vous tiriez le 
 
 {{< cards "pe05 waac pe08" >}}
 
-Les clés de lecture d’abord. Les nombres : 5, puis 1, puis 8 — une épreuve, un départ, puis la maîtrise par l’effort. Les éléments : Terre, Feu, Terre — quelque chose de matériel et d’un peu froid, une étincelle de chaleur créatrice, puis retour à l’établi.
+Les nombres : 5, puis 1, puis 8 — une épreuve, un départ, puis la maîtrise par l’effort. Les éléments : Terre, Feu, Terre — quelque chose de matériel et d’un peu froid, une étincelle de chaleur créatrice, puis retour à l’établi.
 
 Puis les cartes. Le terrain, c’est le Cinq de Pentacles : deux silhouettes qui marchent dans la neige devant un vitrail éclairé. Se sentir laissé dehors, à court de quelque chose, avec de la chaleur tout près que personne n’est allé demander. La graine, c’est l’As de Bâtons : une main sortie d’un nuage tient un bâton qui bourgeonne. Une idée qui a du feu. Le premier pas, c’est le Huit de Pentacles : un artisan à son établi, qui façonne un pentacle après l’autre. La pratique, la répétition, la partie qui ne brille pas.
 

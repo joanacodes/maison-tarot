@@ -33,7 +33,7 @@ La question plus douce, c’est celle qui se cache dessous : de quoi ai-je besoi
 
 ## Les cinq positions {#positions}
 
-Posez cinq cartes en ligne, de gauche à droite.
+Tirez cinq cartes et alignez-les devant vous : une question par carte.
 
 1. *Où j’en suis aujourd’hui.* Pas où vous devriez en être. Le portrait de cette semaine.
 2. *Ce à quoi je m’accroche.* Une habitude, un espoir, l’avenir que vous aviez imaginé, une rancune. S’accrocher n’a rien de mal ; la carte demande si cela vous sert encore.
@@ -71,4 +71,4 @@ Si la peine reste lourde des semaines durant, ou qu’elle atteint votre sommeil
 
 Mettez votre téléphone dans une autre pièce. Posez les cinq cartes, écrivez une ligne pour chacune, puis refermez le carnet et faites ce que demandait la cinquième carte, le soir même si vous le pouvez.
 
-Relisez cette page dans un mois : vous verrez le chemin parcouru, la seule chose qu’une rupture vous cache. Les cartes ne sont pas magiques, vous l’êtes, et [un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) est ce qui vous permet de le constater.
+Relisez cette page dans un mois : vous verrez le chemin parcouru, la seule chose qu’une rupture vous cache. Le chemin, c’est vous qui l’avez fait, et [un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) vous permet de le constater.

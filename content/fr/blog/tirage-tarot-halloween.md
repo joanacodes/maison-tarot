@@ -26,7 +26,7 @@ Dans une soirée entre amis pendant les vacances de la Toussaint, dans un salon 
 
 **Un bon tarologue demande toujours avant de vous lire, et s’arrête quand vous le lui demandez.** C’est tout le savoir-vivre qu’on attend de vous : vous avez le droit d’être curieux, sceptique, ou les deux.
 
-À Maison Tarot, il y a une règle de plus, avant la première étape. Ne me dites rien — ni votre question, ni votre situation. C’est étrange pendant une minute. C’est aussi la seule façon de savoir, à la fin, que je vous ai lu, vous, et pas ce que vous m’aviez raconté. [La règle du silence, expliquée](/fr/blog/regle-du-silence-tarot/).
+À Maison Tarot, il y a une règle de plus, avant la première étape : vous gardez pour vous votre question et votre situation. C’est étrange pendant une minute. C’est aussi la seule façon de savoir, à la fin, que je vous ai lu, vous, et pas ce que vous m’aviez raconté. [La règle du silence, expliquée](/fr/blog/regle-du-silence-tarot/).
 
 ## Les cartes vont-elles faire peur ? {#cartes-qui-font-peur}
 
@@ -60,7 +60,7 @@ Où que vous soyez, deux signes disent que ce n’est pas un tirage mais une ven
 
 Notez ce qui a été dit, le soir même, avant de décider ce que ça voulait dire. La mémoire retouche vite ; une semaine plus tard, vous vous souviendrez du tirage que vous vouliez, pas de celui que vous avez eu.
 
-Ensuite, n’agissez pas en fonction de lui. Agissez selon ce que vous ressentez. [Le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/), et un tirage de dix minutes en soirée encore moins.
+Ensuite, n’agissez pas en fonction de lui : [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/), et un tirage de dix minutes en soirée encore moins.
 
 Et si une partie a raté, c’est normal. À mon propre décompte, environ un tirage sur dix rate, et un bon tarologue le dit au lieu de tordre le raté pour en faire une réussite.
 

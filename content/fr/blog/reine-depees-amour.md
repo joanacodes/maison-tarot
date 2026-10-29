@@ -37,7 +37,7 @@ Après une rupture, c’est la clarté sur les raisons de la fin — sans rééc
 
 Avec cette carte, on demande souvent qui est l’autre femme. « C’est son ex ? » « C’est sa mère ? » « Quelqu’un s’immisce entre nous ? » C’est un réflexe compréhensible : une reine sur la table, ça ressemble à une personne, et quand on est inquiet, une personne ressemble vite à une menace.
 
-Je ne lis pas sur des personnes qui ne sont pas dans la pièce, et je préfère ne pas transformer une figure en suspecte. Une figure décrit une façon d’agir, et le plus souvent, elle vous décrit vous. J’explique comment je les lis dans [les figures du tarot, sans s’y perdre](/fr/blog/figures-du-tarot-valet-cavalier-reine-roi/). J’applique aussi à mes propres tirages la franchise qu’elle demande : quand quelque chose ne tient pas, je le dis clairement. Un raté est un raté.
+Je ne lis pas sur des personnes qui ne sont pas dans la pièce, et je préfère ne pas transformer une figure en suspecte. Une figure décrit une façon d’agir, et le plus souvent, elle vous décrit vous. J’explique comment je les lis dans [les figures du tarot, sans s’y perdre](/fr/blog/figures-du-tarot-valet-cavalier-reine-roi/). J’applique aussi à mes propres tirages la franchise qu’elle demande : quand quelque chose ne tient pas, je le dis clairement.
 
 Une question plus douce : « Où ai-je besoin de clarté, et comment le dire avec douceur ? » Elle pointe l’épée là où elle peut servir.
 

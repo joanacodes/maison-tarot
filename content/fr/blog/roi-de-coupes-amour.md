@@ -19,7 +19,7 @@ Le Roi de Coupes en amour, c’est la maturité émotionnelle : quelqu’un qui 
 
 Son rang, c’est [le Roi](/fr/bibliotheque/numerologie/roi/) : la maîtrise extérieure, la décision. Chaque Roi regarde le monde qu’il gère plutôt que son outil, et celui-ci ne regarde pas sa coupe. La question à poser à n’importe quel Roi : pour qui ? Un Roi de Coupes qui gouverne ses émotions pour les gens qui l’entourent rend une relation sûre. Celui qui ne les gouverne que pour lui tient tout le monde à distance.
 
-Son élément, c’est le Feu d’Eau. La famille est l’Eau — les émotions, les relations — et le rang apporte le Feu : l’élan, l’action. C’est donc un sentiment qui ne reste pas un sentiment ; il devient un geste, une décision, une façon d’être avec quelqu’un. Le Feu et l’Eau ne se mélangent pas facilement, et le dessin montre l’effort : un trône de pierre sur une mer qui bouge.
+Son élément, c’est le Feu d’Eau. La famille est l’Eau — les émotions, les relations — et le rang apporte le Feu : l’élan, l’action. C’est donc un sentiment qui ne reste pas un sentiment ; il devient un geste, une décision, une façon d’être avec quelqu’un.
 
 Son énergie est masculine, au sens où je l’entends, qui que vous soyez : agir, décider, se montrer. Elle peut décrire une femme aussi bien qu’un homme. Les couleurs sont sur [la page du Roi de Coupes](/fr/bibliotheque/cartes-tarot/roi-de-coupes/).
 
@@ -53,7 +53,7 @@ Après une rupture, c’est la dignité. Tout ressentir — la colère, le chagr
 
 Parce que c’est un Roi, on le prend souvent pour un homme en route vers soi, et la question suit : « C’est lui ? » « Est-ce qu’il m’aime ? » « C’est le bon ? » C’est bien naturel de l’espérer quand une carte aussi chaleureuse apparaît.
 
-Je ne lis pas ce que ressent une autre personne. C’est à elle de vous le dire, et une carte ne peut pas parler pour quelqu’un qui n’est pas dans la pièce. Et le Roi de Coupes, comme toutes les figures, décrit une façon d’être avant de décrire une personne. Il se pourrait bien que ce soit vous. S’il revient chaque fois que vous posez une question sur une personne en particulier, demandez-vous lesquelles de ses qualités vous espérez trouver chez elle, et lesquelles vous aimeriez trouver en vous.
+Ce que ressent quelqu’un d’autre, c’est à cette personne de vous le dire : une carte ne peut pas parler pour quelqu’un qui n’est pas dans la pièce. Et le Roi de Coupes, comme toutes les figures, décrit une façon d’être avant de décrire une personne. Il se pourrait bien que ce soit vous. S’il revient chaque fois que vous posez une question sur une personne en particulier, demandez-vous lesquelles de ses qualités vous espérez trouver chez elle, et lesquelles vous aimeriez trouver en vous.
 
 Une question plus douce : « Est-ce que je me sens libre de dire ce que je ressens dans cette relation — et est-ce que je rends ça possible pour l’autre ? » Ce que vous faites de la réponse vous appartient.
 

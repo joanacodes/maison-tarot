@@ -23,7 +23,7 @@ Si je le rends, ce n’est donc pas parce que la personne a dit une bêtise. C�
 
 Dans le tarot et tout autour, un don désigne une capacité avec laquelle on naît — voir, savoir, sentir — et que la plupart des gens n’ont pas. Le français a même ses expressions toutes faites : on dit d’une voyante qu’elle « a le don », on parle de « don de double vue ». Imaginons qu’une tarologue évoque une sœur dont vous n’avez jamais parlé. « Don », c’est le mot qui explique tout : elle n’est pas faite comme vous.
 
-Je ne crois pas que ce soit le cas. Nous recevons tous des impressions : des images, des sons, des mots, des odeurs, des sensations, des émotions. Certains sont plus aiguisés sur un canal que sur un autre — ils voient plus vite, ou entendent, ou ressentent — mais personne n’est privé de tout l’ensemble.
+Je ne crois pas que ce soit le cas. Ce qu’on appelle un don, ce sont des impressions — une image, un mot, une sensation — et tout le monde en reçoit. Certains sont plus aiguisés sur un canal que sur un autre — ils voient plus vite, ou entendent, ou ressentent — mais personne n’est privé de tous les canaux.
 
 Lire tient davantage de l’art que du sixième sens. Certains ont plus de facilités, et tout le monde y arrive en pratiquant. Quand j’ai fait essayer mes amis et ma famille, chacun a réussi à lire au premier, au deuxième ou au troisième essai. Si vous vous demandez s’il faut un don pour commencer, j’y ai répondu à part, [avec un test de dix minutes](/fr/blog/faut-il-un-don-pour-lire-les-cartes/).
 
@@ -58,6 +58,6 @@ Si vous avez déjà dit à quelqu’un qu’il avait un don, vous n’aviez pas 
 3. Dites ce que vous voyez avec des mots de tous les jours, détails bizarres compris, sans chercher à avoir raison.
 4. Laissez la personne vous dire si ça tenait, et notez-le dans tous les cas.
 
-Le moment qui m’a donné envie d’enseigner, c’est celui où quelqu’un fait exactement ça, dit une chose juste, et reste saisi par ce qu’il vient de dire. Je peux vous décrire ce moment, mais ça ne vous avancera pas beaucoup : ça ne se raconte pas, ça s’essaie.
+Le moment qui m’a donné envie d’enseigner, c’est celui où quelqu’un fait exactement ça, dit une chose juste, et reste saisi par ce qu’il vient de dire. Je peux vous décrire ce moment, mais ça ne vous avancera pas beaucoup.
 
 [Le parcours pour apprendre](/fr/apprendre-le-tarot/) est gratuit et commence par cette première carte. Si vous préférez vous faire tirer les cartes avant de les tirer vous-même, les [événements gratuits](/fr/evenements/) tirent les lectures au sort.

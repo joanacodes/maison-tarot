@@ -49,7 +49,7 @@ Décrire avant d’interpréter, c’est aussi la façon de bien dire une chose 
 
 Une fois le poids ajusté, rendez la carte à la personne pour qui vous l’avez lue. Une carte est une image ; la personne en face de vous connaît sa vie, et elle seule peut dire ce que l’image y signifie.
 
-Concrètement : « Voilà ce que je vois sur la carte. Quelle partie vous semble juste, et laquelle non ? » Puis écoutez, et laissez sa réponse mener. Imaginons qu’elle réponde : « La perte, c’est vrai, mais ce n’est pas mon couple, c’est mon travail. » Alors c’est ça, le tirage. Suivez-la là-bas et laissez votre première interprétation derrière vous. Si rien ne colle, dites-le et passez à autre chose : un raté est un raté. Environ un tirage sur dix rate, à mon décompte, et un tirage dur n’a pas plus de chances d’être juste qu’un tirage doux.
+Concrètement : « Voilà ce que je vois sur la carte. Quelle partie vous semble juste, et laquelle non ? » Puis écoutez, et laissez sa réponse mener. Imaginons qu’elle réponde : « La perte, c’est vrai, mais ce n’est pas mon couple, c’est mon travail. » Alors c’est ça, le tirage. Suivez-la là-bas et laissez votre première interprétation derrière vous. Si rien ne colle, dites-le et passez à autre chose. Environ un tirage sur dix rate, à mon décompte, et un tirage dur n’a pas plus de chances d’être juste qu’un tirage doux.
 
 Si vous la sentez prête à emporter votre phrase chez elle comme une consigne, dites-lui à voix haute que ce n’en est pas une.
 

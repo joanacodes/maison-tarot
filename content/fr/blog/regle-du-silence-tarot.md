@@ -67,6 +67,6 @@ La règle vaut pour vous autant que pour moi, et c’est l’exercice le plus ut
 3. Dites ce que vous voyez, à voix haute, sans regarder son visage plus que nécessaire.
 4. Laissez-la parler seulement quand vous avez fini.
 5. Notez deux colonnes : ce que vous avez dit, ce qu’elle a confirmé.
-6. Si c’est raté, écrivez « raté ». Pas de deuxième carte pour rattraper.
+6. Ce qui n’a pas été confirmé reste noté comme un raté : pas de deuxième carte pour rattraper.
 
 Faites-le dix fois et vous saurez quelque chose sur vous que personne ne peut vous raconter. Si vous préférez vous lancer avec quelqu’un à côté, c’est exactement ce qu’on fait aux [événements gratuits](/fr/evenements/) : on tire au sort, on ne dit rien, et on compare après.

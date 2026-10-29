@@ -21,7 +21,7 @@ Le verbe du Scorpion est *je désire*. Son élément est l’[Eau](/fr/bibliothe
 
 ## Le Scorpion, dans mes notes {#energie}
 
-L’énergie du Scorpion est très intense, et le Scorpion sait exactement où piquer pour que ça fasse mal. Tout son pouvoir est dans le dard. Ça le rend méfiant et observateur, et ça veut dire que cette énergie peut autant tuer que guérir. Côté lumière : un très bon observateur, un très bon guérisseur. Côté ombre : les relations toxiques, et une pente vers l’isolement.
+Le Scorpion est un signe d’une grande intensité, et tout son pouvoir est dans le dard. Ça le rend méfiant et observateur, et ça veut dire que cette énergie peut autant tuer que guérir. Côté lumière : un très bon observateur, un très bon guérisseur. Côté ombre : les relations toxiques, et une pente vers l’isolement.
 
 Son archétype, dans mes notes, c’est la personne qui ne dit rien en soirée et attire tous les regards sans le chercher. Imaginez-la dans le fauteuil au bord du salon, qui observe et ne prononce qu’une phrase de la soirée — celle dont tout le monde se souvient.
 
@@ -29,7 +29,7 @@ Signe fixe, le Scorpion tient bon, et ce à quoi il tient, c’est l’attacheme
 
 ## Sa carte : la Mort, et trois Coupes {#la-mort-et-les-coupes}
 
-La Mort n’annonce pas un décès. Dans mes notes, elle est liée à la moisson et au recommencement — la personne qui a perdu son but et veut rendre sa vie à nouveau fertile. On coupe ce qui est mûr pour pouvoir ressemer. La [page de la Mort](/fr/bibliotheque/cartes-tarot/la-mort/) la lit clé par clé. Au tarot de Marseille, c’est d’ailleurs l’arcane sans nom.
+La Mort n’annonce pas un décès. Dans mes notes, elle est liée à la moisson et au recommencement — la personne qui a perdu son but et veut rendre sa vie à nouveau fertile. On coupe ce qui est mûr pour pouvoir ressemer. La [page de la Mort](/fr/bibliotheque/cartes-tarot/la-mort/) la lit clé par clé. Au tarot de Marseille, d’ailleurs, elle ne porte pas de nom : on l’appelle l’arcane sans nom.
 
 {{< cards "ar13 cu05 cu06 cu07" >}}
 
@@ -53,6 +53,6 @@ Une chose que je laisserais de côté ce mois-ci, même si l’envie est forte :
 
 Elle ne prédit rien. Quand j’ai testé mon thème case par case, 30 à 40 % tenaient dans l’ensemble, et le signe solaire faisait partie des positions ordinaires, pas de celles à 75–90 % (c’étaient Saturne, Lilith et Chiron). [Le test, avec ses chiffres](/fr/blog/j-ai-teste-mon-theme-astral/), a son propre article. Une saison donne des questions, pas des événements.
 
-Ce n’est pas une excuse non plus. « C’est la saison du Scorpion, voilà pourquoi je suis jaloux » fait une bonne blague et une piètre explication.
+Elle n’excuse rien non plus : « C’est la saison du Scorpion, voilà pourquoi je suis jaloux » fait une bonne blague et une piètre explication.
 
 Tirez les trois cartes cette semaine, notez-les, et regardez-les de nouveau vers le 22 novembre, quand le Soleil entre dans le Sagittaire. Vous verrez ce qui a pris fin, et ce qui a poussé à la place.

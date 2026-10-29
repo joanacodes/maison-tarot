@@ -17,7 +17,7 @@ Voici comment je le dirais, depuis la chaise où je m’assieds le plus souvent,
 
 ## Avant le tirage {#avant}
 
-Venez avec une question en tête, et laissez-la où elle est. Ne me dites rien. Pas de contexte, pas de « c’est au sujet de mon ex », pas de prénom si on est en ligne. Ça paraît bizarre, je sais. C’est aussi la seule façon de savoir après coup si la lecture venait des cartes ou de ce que vous avez raconté ; je l’explique dans [la règle du silence](/fr/blog/regle-du-silence-tarot/).
+Venez avec une question en tête, et gardez-la pour vous, avec tout le reste : pas de contexte, pas de « c’est au sujet de mon ex », pas de prénom si on est en ligne. Ça paraît bizarre, je sais. C’est aussi la seule façon de savoir après coup si la lecture venait des cartes ou de ce que vous avez raconté ; je l’explique dans [la règle du silence](/fr/blog/regle-du-silence-tarot/).
 
 Laissez les autres en dehors. Un tirage est pour la personne assise en face, pas pour un conjoint, un patron ou une mère qui ne sont pas dans la pièce. Vous n’aimeriez pas qu’on fouille dans les tiroirs de votre chambre pendant votre absence, et lire l’énergie de quelqu’un sans son accord n’en est pas loin.
 
@@ -62,7 +62,7 @@ Et ensuite, décidez par vous-même. Un tirage n’est pas une consigne.
 
 Les manières du tarologue comptent tout autant, et elles sont un peu plus strictes.
 
-1. Demandez la permission avant de lire quelqu’un, à chaque fois.
+1. Obtenez un oui clair avant de lire quelqu’un, même une personne que vous avez déjà lue.
 2. Annoncez ce que vous ne lisez pas avant de commencer, tôt et avec douceur.
 3. Dites à la personne qu’elle peut vous arrêter quand elle veut.
 4. Dites « celui-là est raté » quand c’est raté. Pas de nouveau mélange, pas de carte supplémentaire pour rattraper.

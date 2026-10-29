@@ -19,11 +19,11 @@ Il lit votre côté : où vous en êtes, ce que vous donnez, ce dont vous avez b
 
 Il fonctionne que vous soyez en couple, entre deux histoires, ou pas du tout en recherche. Si vous êtes célibataire, la quatrième position lit le type de lien auquel vous faites de la place, plutôt qu’une personne précise.
 
-Les cartes ne savent pas ce qu’il y a dans la tête de quelqu’un d’autre. Elles ne savent pas non plus ce qu’il y a dans la vôtre, tant que vous ne regardez pas : les cartes ne sont pas magiques, vous l’êtes. **Ce qu’une lecture amoureuse peut voir, c’est ce que vous apportez à la table — et c’est la part que vous pouvez changer.**
+Les cartes ne savent pas ce qu’il y a dans la tête de quelqu’un d’autre. Elles ne savent pas non plus ce qu’il y a dans la vôtre, tant que vous ne regardez pas. **Ce qu’une lecture amoureuse peut voir, c’est ce que vous apportez à la table — et c’est la part que vous pouvez changer.**
 
 ## Les cinq positions {#positions}
 
-Posez cinq cartes en ligne, de gauche à droite.
+Une carte pour chacune de ces cinq positions, dans l’ordre.
 
 1. Où j’en suis en amour aujourd’hui. Votre état du moment : ouvert, fatigué, plein d’espoir, sur la défensive.
 2. Ce que j’apporte. Ce que vous donnez dans une relation — ce que les gens ressentent à vos côtés.
@@ -71,7 +71,7 @@ Parfois, le geste le plus doux est hors des cartes : poser la question à la per
 
 1. Écrivez les cinq positions sur un bout de papier.
 2. Mélangez, et posez cinq cartes en ligne.
-3. Avant tout sens, nommez l’élément, le nombre et la couleur principale de chaque carte.
+3. Avant d’interpréter, relevez ce que chaque carte affiche : un élément, un nombre, une couleur qui domine.
 4. Dites une seule phrase pour toute la ligne, à voix haute, en commençant par « je ».
 5. Notez-la, et relisez-la dans une semaine.
 

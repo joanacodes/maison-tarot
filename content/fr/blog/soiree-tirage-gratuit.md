@@ -55,7 +55,7 @@ J’ai une liste de [questions plus douces à proposer à la place](/fr/blog/que
 
 L’honnêteté, c’est ce qui fait qu’une soirée gratuite vaut plus qu’une séance payante qui cache ses ratés. Trois habitudes font l’essentiel du travail :
 
-- Dire les ratés à voix haute. Un raté est un raté : pas de deuxième carte pour le rattraper, pas de « vous comprendrez plus tard ».
+- Dire les ratés à voix haute, tels quels : pas de deuxième carte pour les rattraper, pas de « vous comprendrez plus tard ».
 - Ne rien vendre. Pas de « réservez un tirage privé pour approfondir » à la fin. Si vous enseignez, mentionnez-le une fois, à la fin, après une soirée passée à dire où vous avez raté.
 - Tout noter après : ce que vous avez dit, et ce qui a été confirmé.
 

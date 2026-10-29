@@ -9,7 +9,7 @@ tags: ["tirage faux", "tirage raté", "fiabilité du tarot", "carnet de tirage",
 image: "covers/tarot-reading-wrong.jpg"
 imageAlt: "Une main écrit une courte ligne dans un carnet ouvert, à côté d’une carte retournée sur une table en bois"
 imagePrompt: "A hand writing a short line in an open notebook next to a single face-up card on a wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Quand un tirage est faux, dites-le : « celui-là est raté ». À voix haute, à la personne, sans reformuler, sans tirer de carte de clarification, sans promettre que tout s’éclairera plus tard. Puis notez-le — ce que vous avez dit, ce qu’on vous a répondu — et passez au tirage suivant. À mon propre décompte, environ un tirage sur dix rate, et ce chiffre n’a de sens que parce que les ratés restent des ratés. Si c’est vous qu’on a lu, vous avez le droit de dire que ça ne collait pas et d’en rester là."
+summary: "Quand un tirage est faux, dites-le : « celui-là est raté ». À voix haute, à la personne, sans reformuler, sans tirer de carte de clarification, sans promettre que tout s’éclairera plus tard. Puis notez-le — ce que vous avez dit, ce qu’on vous a répondu — et passez au tirage suivant. À mon propre décompte, environ un tirage sur dix rate, et ce chiffre n’a de sens que parce qu’aucun raté n’est maquillé. Si c’est vous qu’on a lu, vous avez le droit de dire que ça ne collait pas et d’en rester là."
 ---
 Quand un tirage est faux, dites-le : « celui-là est raté ». À voix haute, à la personne, puis notez-le et passez à la suite. Pas de reformulation, pas de carte en plus, pas de « vous comprendrez plus tard ».
 
@@ -21,7 +21,7 @@ Vous avez fini de parler, et la personne répond : « Non, rien de tout ça. » 
 
 Les premières fois, on se sent à découvert. Puis on voit la personne se détendre. Elle n’a plus à faire semblant, à fouiller sa mémoire pour trouver quelque chose qui colle, ni à ménager votre amour-propre. Elle peut vous dire la vérité, et c’est ce qu’elle peut vous donner de plus utile.
 
-À mon propre décompte, environ un tirage sur dix rate. Le dire ne fait pas grimper ce chiffre ; ça le rend visible. **Un raté dit à voix haute vous coûte une seconde ; un raté qu’on maquille vous coûte la confiance de la personne.**
+Le dire ne fait pas grimper le nombre de ratés ; ça le rend visible. **Un raté dit à voix haute vous coûte une seconde ; un raté qu’on maquille vous coûte la confiance de la personne.**
 
 ## Trois façons de noyer le poisson {#noyer-le-poisson}
 
@@ -34,7 +34,7 @@ Une guirlande tendue sur quatre bâtons, un château derrière ; trois femmes qu
 Voici les trois sauvetages qui tentent tout le monde à ce moment-là :
 
 1. *Reformuler.* « C’est peut-être une fête que vous ne voyez pas encore venir. » Le tirage ne peut plus être faux — donc il ne peut plus être juste non plus.
-2. *La carte en plus.* Vous en tirez une autre pour « clarifier ». Elle ne clarifie rien ; elle ouvre une deuxième histoire. J’explique pourquoi je n’en tire pas dans [la carte de clarification](/fr/blog/carte-de-clarification-tarot/).
+2. *La carte en plus.* Vous en tirez une autre pour « clarifier ». Elle ne clarifie rien ; elle ouvre une deuxième histoire. [La carte de clarification](/fr/blog/carte-de-clarification-tarot/) a son article, avec mes raisons de m’en passer.
 3. *Aller à la pêche.* « Quelqu’un dans votre famille a une nouvelle ? Une amie ? » Posez assez de questions, et quelque chose finira par coller. Ce n’est plus du tarot, c’est de la [lecture froide](/fr/blog/lecture-froide-tarot/), même pratiquée de bonne foi.
 
 La réponse honnête est la plus courte : « Alors celui-là est raté. »
@@ -43,7 +43,7 @@ La réponse honnête est la plus courte : « Alors celui-là est raté. »
 
 Après le tirage, ouvrez votre carnet. Deux colonnes : ce que j’ai dit, ce qui a été confirmé. Pour celui-ci, la colonne de droite indique « non — seule depuis un mois ». Marquez-le comme raté.
 
-Compter, c’est ce qui transforme « je crois que ça marche » en « je sais quand ça marche ». J’ai tenu ce carnet pour mes lectures d’inconnus, et le chiffre d’un sur dix en vient : un décompte à la main, pas une étude. Le format est dans [comment je tiens mon carnet de tirages](/fr/blog/carnet-de-tirage-tarot/).
+J’ai tenu ce carnet pour mes lectures d’inconnus, et le chiffre d’un sur dix en vient : un décompte à la main, pas une étude. Le format est dans [comment je tiens mon carnet de tirages](/fr/blog/carnet-de-tirage-tarot/).
 
 Si la personne vous écrit quelques jours plus tard pour dire que quelque chose est arrivé, je vous suggère d’ajouter une ligne datée plutôt que de réécrire la première. Ma toute première lecture pour une inconnue s’est passée comme ça : un raté le jour même, puis, trois ou quatre jours plus tard, un message pour me dire que tout était arrivé. Les deux sont vrais, et un carnet doit pouvoir montrer les deux.
 
@@ -55,7 +55,7 @@ Les ratés vous apprennent aussi quelque chose, une fois que vous en avez quelqu
 
 Et les ratés vous disent quand vous arrêter. Deux ou trois d’affilée, c’est souvent de la fatigue, pas un jeu qui se retourne contre vous. Il m’arrive d’arrêter au bout de deux heures de lectures, par prudence, et je vous conseille d’en faire autant.
 
-Un raté est un raté. Ce n’est ni un échec ni un secret.
+Un raté n’est ni un échec ni un secret.
 
 ## Si c’est vous qu’on a lu {#si-on-vous-a-lu}
 

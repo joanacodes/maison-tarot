@@ -21,7 +21,7 @@ Voilà toute l’idée. Le reste, les questionnaires, les phases de la lune, le 
 
 ## Ce que ce n’est pas {#ce-que-ce-nest-pas}
 
-Ce n’est pas une thérapie, ni un substitut à une thérapie. Ce n’est pas une pratique à faire seul à deux heures du matin, quand on est déjà en train de tomber. [Tout n’est pas une histoire d’esprits](/fr/blog/tarot-et-sante-mentale/), ni d’ombre : parfois, ce que vous regardez demande une personne formée, pas une liste de questions. Peut-on le faire avec un ou une thérapeute ? Bien sûr, et je vous le conseille.
+Ce n’est pas une thérapie, ni un substitut à une thérapie. Ce n’est pas une pratique à faire seul à deux heures du matin, quand on est déjà en train de tomber. Parfois, ce que vous regardez demande [une personne formée](/fr/blog/tarot-et-sante-mentale/), pas une liste de questions. Peut-on le faire avec un ou une thérapeute ? Bien sûr, et je vous le conseille.
 
 Ce n’est pas spectaculaire non plus. La version TikTok donne l’impression de descendre dans une grotte. La plupart du temps, il s’agit de remarquer que la réussite d’un ami vous pique, et de vous le dire en mots clairs. C’est ça, le travail.
 

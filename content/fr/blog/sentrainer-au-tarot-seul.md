@@ -39,7 +39,7 @@ Quatre cartes, un seul [chiffre 5](/fr/bibliotheque/numerologie/chiffre-5/) : le
 
 On peut lire dans tout : un tableau, une photo dans le journal, le marc au fond d’une tasse de café. Les cartes sont une surface parmi d’autres.
 
-Un dimanche au musée, arrêtez-vous devant un tableau que vous ne connaissez pas. Ou ouvrez un magazine sur une photo jamais vue. Lisez-la comme une carte. Quelle couleur domine ? Le personnage se montre-t-il ou se cache-t-il ? Agit-il ou attend-il ? Dites ensuite, en une phrase, de quoi parle la scène.
+Un dimanche au musée, arrêtez-vous devant un tableau que vous ne connaissez pas. Ou ouvrez un magazine sur une photo jamais vue. Lisez-la comme une carte. Quelle couleur domine ? Vers quoi regarde le personnage ? Agit-il ou attend-il ? Dites ensuite, en une phrase, de quoi parle la scène.
 
 C’est le même muscle, sans le confort d’un nom de carte dont vous vous souvenez à moitié. Si vous savez lire le tableau d’un inconnu, une carte du Rider-Waite-Smith vous paraîtra généreuse.
 
@@ -51,7 +51,7 @@ Interrogez la journée, pas les grandes décisions. Le tarot n’est pas une aut
 
 Ne retirez pas une carte parce que la réponse ne vous plaisait pas. La deuxième carte est une négociation, pas une lecture.
 
-Et ne tirez pas vingt fois par jour. Si vous vous surprenez à attraper le jeu toutes les heures, ce n’est plus de l’entraînement, c’est une recherche de réassurance. Faites une pause avec vos cartes de temps en temps.
+Et ne tirez pas vingt fois par jour. Si vous vous surprenez à attraper le jeu toutes les heures, ce n’est plus de l’entraînement, c’est une recherche de réassurance.
 
 ## Tenez un carnet, même sans personne pour vérifier {#carnet}
 

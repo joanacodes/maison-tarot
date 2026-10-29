@@ -11,7 +11,7 @@ imageAlt: "Un jeu de tarot à côté d’un ordinateur portable et d’un carnet
 imagePrompt: "A tarot deck lying next to a closed laptop and an open notebook with two empty columns drawn in pencil, on a desk by a window. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Un tirage travail pour une décision pose le choix sur la table pour que vous le voyiez, puis vous le rend. Cinq cartes : où vous en êtes au travail aujourd’hui, ce que la première option demande et donne, ce que la seconde demande et donne, ce qui manque à votre liste, et ce que vous emportez dans tous les cas. Il n’y a volontairement aucune carte « laquelle choisir » : les cartes décrivent, vous décidez. Salaires, contrats et décisions d’argent relèvent de vrais chiffres et du bon professionnel, pas d’une carte."
 ---
-Un tirage travail pour une décision pose votre choix sur la table, là où vous pouvez le voir, puis vous le rend. Les cartes décrivent les options et ce que vous y apportez ; elles ne votent pas. Je lis ; vous décidez.
+Un tirage travail pour une décision pose votre choix sur la table, là où vous pouvez le voir, puis vous le rend. Les cartes décrivent les options et ce que vous y apportez ; elles ne votent pas.
 
 ## Ce que ce tirage fait, et ce qu’il ne fait pas {#ce-quil-fait}
 

@@ -25,7 +25,7 @@ Imaginez une ferme le dernier soir d’octobre : la récolte est rentrée, les b
 
 « Le voile s’amincit » veut dire ceci : à Samhain, la frontière entre notre monde et l’autre — les morts, le peuple des fées, l’Autre Monde des vieux récits irlandais — serait au plus ouvert. Les esprits passent plus facilement, et les vivants les perçoivent mieux. Pour beaucoup, c’est le cœur de la fête.
 
-Ma position est plus étroite. Je ne me sers pas du tarot pour appeler qui que ce soit, à Samhain ou un autre soir, parce qu’avec les esprits, on ne sait pas qui l’on appelle. Et quand une lecture d’octobre me paraît plus lourde, je regarde d’abord la personne en face de moi : la nuit qui tombe vers 17 h depuis le changement d’heure, l’anniversaire qu’elle n’a pas mentionné, l’année qui la rattrape. Tout n’est pas une histoire d’esprits. Parfois, c’est un deuil ; parfois, c’est [une porte qui est celle d’un thérapeute, pas la mienne](/fr/avertissements/#therapie).
+Ma position est plus étroite. Je ne me sers pas du tarot pour appeler qui que ce soit, à Samhain ou un autre soir, parce qu’avec les esprits, on ne sait pas qui l’on appelle. Et quand une lecture d’octobre me paraît plus lourde, je regarde d’abord la personne en face de moi : la nuit qui tombe vers 17 h depuis le changement d’heure, l’anniversaire qu’elle n’a pas mentionné, l’année qui la rattrape. Parfois, ce poids-là est un deuil ; parfois, c’est [une porte qui est celle d’un thérapeute, pas la mienne](/fr/avertissements/#therapie).
 
 Il y a un voile dans le jeu : derrière la Grande Prêtresse, entre ses deux colonnes, brodé de grenades. Elle ne le soulève pas ; elle est assise devant, calme, et en sait plus qu’elle n’en dit. Un meilleur modèle pour octobre que toute invocation ; voyez [ce que le voile signifie au tarot](/fr/bibliotheque/symboles-tarot/voile/).
 
@@ -59,7 +59,7 @@ Ce qui reste derrière, c’est le Huit de Coupes : une silhouette qui s’éloi
 
 Au chaud, le Quatre de Bâtons : le 4 est le sol stable après l’effort, le Feu l’énergie qui fait avancer, et le dessin montre une guirlande, deux personnes qui lèvent des bouquets, une maison derrière. Des fondations, un foyer.
 
-À voix haute : « Cette année vous a rendu ce que vous aviez construit. Il y a une habitude affective que vous pouvez poser — vous lui tournez déjà le dos. Pour l’hiver, prenez soin du foyer : les gens avec qui vous faites la fête, l’endroit où vous rentrez. Est-ce que ça vous parle ? » Si ce n’est pas le cas, notez-le comme un raté.
+À voix haute : « Cette année vous a rendu ce que vous aviez construit. Il y a une habitude affective que vous pouvez poser — vous lui tournez déjà le dos. Pour l’hiver, prenez soin du foyer : les gens avec qui vous faites la fête, l’endroit où vous rentrez. Est-ce que ça rejoint quelque chose chez vous ? » Si ce n’est pas le cas, notez-le comme un raté.
 
 ## Pour aller plus loin {#et-apres}
 

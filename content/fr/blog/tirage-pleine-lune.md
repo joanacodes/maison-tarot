@@ -62,7 +62,7 @@ La phrase à voix haute pourrait être : « Vous avez vu que le nœud était plu
 
 ## Une fois par mois, c’est bien assez {#une-fois-par-mois}
 
-Faites une pause avec vos cartes de temps en temps. Un tirage de pleine lune par mois suffit largement, et entre deux pleines lunes, le jeu peut rester dans son tiroir.
+Un tirage de pleine lune par mois suffit largement, et entre deux pleines lunes, le jeu peut rester dans son tiroir.
 
 Si vous voulez l’autre moitié du cycle, le [tirage de nouvelle lune](/fr/blog/tirage-nouvelle-lune/) pose la question inverse : quoi commencer. Et quand une éclipse de Lune tombe sur la pleine lune, les mêmes trois cartes fonctionnent ; [tirer les cartes pendant une éclipse](/fr/blog/tarot-eclipse/) explique pourquoi je m’en tiendrais à un seul tirage.
 

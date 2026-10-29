@@ -19,7 +19,7 @@ Oui. Se tirer les cartes, c’est mélanger, tirer et interpréter des cartes su
 
 Vous avez peut-être entendu le contraire : que ça porte malheur, que quelqu’un d’autre doit mélanger, qu’on ne peut pas se lire soi-même parce qu’on est trop impliqué. Les deux premières idées sont des habitudes que certains gardent, pas des règles. La troisième contient une part de vrai, et c’est de cette part de vrai que parle la suite.
 
-L’entrée est modeste. Une carte par jour, que vous décrivez avant de lui chercher un sens. Puis trois cartes, puis davantage. Imaginons que vous tiriez le Valet de Pentacles un mardi matin : un jeune homme debout dans un champ vert, qui tient un seul pentacle à hauteur des yeux et le regarde attentivement. Pas besoin d’un livre pour dire « aujourd’hui, je regarde une seule chose de près ». C’est une lecture. Une petite, et la vôtre.
+L’entrée est modeste. Une carte par jour, que vous décrivez avant de lui chercher un sens. Ensuite trois, puis davantage. Imaginons que vous tiriez le Valet de Pentacles un mardi matin : un jeune homme debout dans un champ vert, qui tient un seul pentacle à hauteur des yeux et le regarde attentivement. Pas besoin d’un livre pour dire « aujourd’hui, je regarde une seule chose de près ». C’est une lecture. Une petite, et la vôtre.
 
 Ce que le tirage pour soi vous apporte : de la pratique chaque jour sans avoir besoin de personne, une façon d’apprivoiser le jeu carte après carte, et — utilisé avec légèreté — un petit bilan de votre humeur et de votre état d’esprit, les pieds sur terre. Ce qu’il ne vous apporte pas, c’est quelqu’un pour vous dire que vous vous trompez.
 

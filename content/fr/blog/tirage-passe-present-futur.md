@@ -51,7 +51,7 @@ Ce que vous pouvez faire : le Six de Coupes — deux enfants dans un jardin de v
 
 En lisant la ligne : le Feu, puis l’Air, puis l’Eau — le bruit, puis une pensée, puis un sentiment. Les nombres 5, 8, 6 : le conflit, le point de blocage, la respiration. La phrase à voix haute : « Il y a beaucoup de bruit autour de vous et chacun tire de son côté ; ce qui vous retient, c’est l’idée que vous ne pouvez pas bouger ; cette semaine, faites quelque chose de petit et de doux pour vous, le genre de chose que vous faisiez enfant. »
 
-Puis demandez si ça résonne. Si non, dites-le et notez-le. Un raté est un raté — et il n’y a pas de [quatrième carte pour le rattraper](/fr/blog/carte-de-clarification-tarot/).
+Puis demandez si ça résonne. Si non, dites-le et notez-le : il n’y a pas de [quatrième carte pour rattraper un raté](/fr/blog/carte-de-clarification-tarot/).
 
 ## Lire trois cartes sans tirage {#sans-tirage}
 

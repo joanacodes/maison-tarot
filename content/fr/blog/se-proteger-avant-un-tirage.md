@@ -31,7 +31,7 @@ Mon chemin est allé dans l’autre sens : j’ai vendu de la sauge et des bougi
 
 ## L’empathie : ressentir sans prendre sur soi {#empathie}
 
-Dans mes notes, l’empathie, c’est ressentir et comprendre les émotions de l’autre tout en gardant les siennes. Les deux moitiés comptent. Sans la première, vous lisez les cartes comme un dictionnaire. Sans la seconde, vous rentrez chez vous avec le chagrin de quelqu’un d’autre.
+L’empathie, telle que je l’entends, a deux moitiés : ressentir ce que vit l’autre, et garder vos propres émotions. Sans la première, vous lisez les cartes comme un dictionnaire. Sans la seconde, vous rentrez chez vous avec le chagrin de quelqu’un d’autre.
 
 Les tarologues très empathiques peuvent finir par ressentir les émotions de l’autre, voire par les exprimer : une boule dans la gorge qui n’est pas la leur, des larmes au milieu de l’histoire d’un autre. Si ça vous arrive, ce n’est pas le signe que vous vous y prenez mal. C’est le signe qu’il vous faut un peu de distance. Écoutez l’émotion ; ne la laissez pas prendre le dessus.
 
@@ -59,7 +59,7 @@ Rester calme, c’est aussi être plus doux. Quand vous tressaillez devant une c
 
 La protection marche aussi dans l’autre sens. Demandez la permission avant de lire qui que ce soit : lire quelqu’un qui n’a pas dit oui, c’est entrer dans sa chambre et ouvrir ses tiroirs. Les bases sont dans [tirer les cartes pour quelqu’un d’autre](/fr/blog/tirer-les-cartes-pour-quelquun/).
 
-Et si ce qui vous inquiète, ce sont les esprits plutôt que les émotions : tout n’est pas une histoire d’esprits. L’essentiel de ce qu’on ressent pendant un tirage est humain, et vient de la personne assise en face. Tirer les cartes ne demande d’appeler personne, et je ne m’en sers pas ainsi, en partie parce qu’avec les esprits, on ne sait pas qui l’on appelle.
+Et si ce qui vous inquiète, ce sont les esprits plutôt que les émotions : l’essentiel de ce qu’on ressent pendant un tirage est humain, et vient de la personne assise en face. Tirer les cartes ne demande d’appeler personne, et je ne m’en sers pas ainsi, en partie parce qu’avec les esprits, on ne sait pas qui l’on appelle.
 
 ## À essayer lors de votre prochain tirage {#prochaine-etape}
 

@@ -19,7 +19,7 @@ Tout le monde entend tout. En tête-à-tête, une phrase arrive sur une seule pe
 
 La pression joue dans les deux sens. Mes notes le disent : parfois on ne voit rien dans les cartes, soit par blocage de votre côté, quand la pression est trop forte, soit du côté de la personne, qui a peur de ce qu’elle pourrait entendre. Un public ajoute aux deux. Attendez-vous à un démarrage plus lent, sans combler le vide avec des suppositions.
 
-En public, la règle du silence sert plus que partout ailleurs. *Ne me dites rien* : ni question, ni contexte, si bien que la salle en sait exactement autant que moi. Quand quelque chose tombe juste, tout le monde voit que rien ne m’a été soufflé avant. [Pourquoi je demande qu’on ne me dise rien](/fr/blog/regle-du-silence-tarot/) a son propre article.
+En public, la règle du silence sert plus que partout ailleurs. La personne lue ne me donne ni question ni contexte, si bien que la salle en sait exactement autant que moi. Quand quelque chose tombe juste, tout le monde voit que rien ne m’a été soufflé avant. [Pourquoi je demande qu’on ne me dise rien](/fr/blog/regle-du-silence-tarot/) a son propre article.
 
 ## Le consentement, deux fois {#consentement}
 
@@ -58,7 +58,7 @@ Quand le public est derrière un écran plutôt que dans la salle, [lire en dire
 Les mains peuvent trembler, le cœur s’emballer, la voix accélérer. C’est normal, et ça ne dit rien de la qualité du tirage. Ce qui aide quand c’est vous qui êtes à la table :
 
 - Ralentissez votre voix. Le trac fait accélérer, et la salle entend le calme avant d’entendre le contenu.
-- Décrivez la carte avant de l’interpréter. Une description est toujours juste, et elle laisse au trac le temps de retomber.
+- Commencez par décrire la carte, sans l’interpréter. Une description est toujours juste, et elle laisse au trac le temps de retomber.
 - Dites « rien ne vient pour l’instant » si rien ne vient. C’est honnête, et ça détend tout le monde.
 - Dites un raté à voix haute. Environ un tirage sur dix rate, à mon décompte, et vingt personnes apprennent plus d’un « celui-là est raté » honnête que d’un tirage rattrapé.
 - Arrêtez-vous avant d’être vidé. Il m’arrive de m’arrêter après deux heures de tirages, par prudence : interpréter demande de l’énergie.

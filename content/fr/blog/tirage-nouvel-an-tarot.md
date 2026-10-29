@@ -47,7 +47,7 @@ Le Dix d’Épées en mars ne veut donc pas dire « mars sera une catastrophe »
 
 **Une carte du mois est une question que vous emportez dans le mois, pas un rendez-vous que le mois devrait honorer.**
 
-Et certains mois ne devraient pas être interrogés du tout. « Serai-je enceinte en juin ? », « Quel mois l’argent va-t-il arriver ? » : ces questions viennent de l’espoir et de l’inquiétude, et je comprends les deux. Les cartes ne sont pas le bon outil ; pour ce mois-là, une question plus douce serait « qu’est-ce qui m’aide à traverser l’attente ? ».
+Et certains mois ne devraient pas être interrogés du tout. « Serai-je enceinte en juin ? », « L’argent arrivera-t-il avant l’été ? » : ces questions viennent de l’espoir et de l’inquiétude, et je comprends les deux. Les cartes ne sont pas le bon outil ; pour ce mois-là, une question plus douce serait « qu’est-ce qui m’aide à traverser l’attente ? ».
 
 ## Un exemple : le premier trimestre 2027 {#exemple}
 
@@ -61,6 +61,6 @@ En trimestre, ça donne : une étincelle en janvier, un février plein d’optio
 
 ## La garder, puis la vérifier {#verifier}
 
-Rangez la liste là où vous la retrouverez : à la fin de votre agenda, dans une note sur votre téléphone. Au début de chaque mois, regardez la carte du mois deux minutes avant d’ouvrir votre agenda. À la fin du mois, mettez une coche ou une croix. Un raté est un raté : n’étirez pas la carte jusqu’à ce qu’elle colle.
+Rangez la liste là où vous la retrouverez : à la fin de votre agenda, dans une note sur votre téléphone. Au début de chaque mois, regardez la carte du mois deux minutes avant d’ouvrir votre agenda. À la fin du mois, mettez une coche ou une croix, et n’étirez pas la carte jusqu’à ce qu’elle colle.
 
 Pour la méthode mois par mois en détail — comment je lis les douze ensemble, ce que je note, et pourquoi je ne publie pas de prédictions —, lisez [mon tirage de l’année, mois par mois](/fr/blog/tirage-de-lannee/). Et c’est [un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) qui donne sa valeur au bilan de décembre.

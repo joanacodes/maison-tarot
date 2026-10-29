@@ -48,13 +48,13 @@ Imaginons que quelqu’un s’assoie, ne vous dise rien, et que la croix donne c
 
 {{< cards "waac cu07 ar09 wa06 ar05" >}}
 
-Les clés de lecture d’abord. Pour vous : un As, un 1, l’initiateur — et le Feu, l’étincelle de quelque chose de neuf. Contre vous : le Sept de Coupes, sept coupes posées sur un nuage, chacune avec un trésor différent ; trop de choix, de l’Eau, des émotions qui tirent dans tous les sens. La voie : l’Ermite, manteau gris et lanterne, seul sur un sommet ; prendre du recul et regarder à sa propre lumière. La direction : un Six, le nombre où la machine tourne et où le succès arrive — un cavalier couronné de laurier.
+Pour vous : un As, un 1, l’initiateur — et le Feu, l’étincelle de quelque chose de neuf. Contre vous : le Sept de Coupes, sept coupes posées sur un nuage, chacune avec un trésor différent ; trop de choix, de l’Eau, des émotions qui tirent dans tous les sens. La voie : l’Ermite, manteau gris et lanterne, seul sur un sommet ; prendre du recul et regarder à sa propre lumière. La direction : un Six, le nombre où la machine tourne et où le succès arrive — un cavalier couronné de laurier.
 
 Deux cartes de Feu autour d’un obstacle d’Eau : l’énergie est là, et ce qui la freine, c’est le sentiment — vouloir toutes les options à la fois. La Terre de l’Ermite et du Hiérophante ramène tout ça au sol.
 
 Au centre : le [Hiérophante](/fr/bibliotheque/cartes-tarot/le-hierophante/) (le Pape au tarot de Marseille), un maître devant deux personnages agenouillés, et un 5, le nombre de l’essai, de l’apprentissage et des erreurs qu’on accepte.
 
-À voix haute, ça pourrait donner : « Vous avez l’étincelle d’un nouveau projet, et trop de versions de ce projet. Prenez un moment seul pour en choisir une. Ça peut bien se passer. Et le centre dit que vous le ferez mieux dans un cadre — une formation, un mentor, une méthode —, et que vous avez le droit de vous tromper en apprenant. Est-ce que ça vous parle ? »
+À voix haute, ça pourrait donner : « Vous avez l’étincelle d’un nouveau projet, et trop de versions de ce projet. Prenez un moment seul pour en choisir une. Ça peut bien se passer. Et le centre dit que vous le ferez mieux dans un cadre — une formation, un mentor, une méthode —, et que vous avez le droit de vous tromper en apprenant. Lequel de ces projets vous appelle en premier ? »
 
 Puis vous laissez la personne répondre, et vous notez ce qu’elle confirme et ce qu’elle ne confirme pas.
 

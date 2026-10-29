@@ -65,6 +65,6 @@ Une fois votre trio en main, j’aime ajouter Jupiter : son signe et sa maison.
 
 La plupart des livres d’astrologie font de Jupiter la planète de l’expansion et de la chance. Dans mes notes, sa maison et son signe montrent vos plus grandes difficultés. Une façon de tenir les deux ensemble : l’endroit où l’on vous demande de grandir est rarement le plus confortable. Disons que Jupiter se trouve dans votre maison VII, le couple et les relations en tête-à-tête : c’est là que je chercherais d’abord les leçons qui reviennent.
 
-Je veux être claire sur ce point. Jupiter ne faisait pas partie des chiffres de mon test : les 30 à 40 % dans l’ensemble, et les 75 à 90 % pour Saturne, Lilith et Chiron, ne le concernent pas. C’est une habitude à moi, pas un résultat. Ne prenez pas mes mots pour une vérité absolue : testez, et faites-en l’expérience vous-même.
+Je veux être claire sur ce point. Jupiter ne faisait pas partie des chiffres de mon test : les 30 à 40 % dans l’ensemble, et les 75 à 90 % pour Saturne, Lilith et Chiron, ne le concernent pas. C’est une habitude à moi, pas un résultat.
 
 Prochaine étape, donc. Écrivez vos trois signes sur une feuille, puis le signe et la maison de Jupiter. Cochez ou barrez chacun, aussi honnêtement que vous le feriez pour un inconnu, comme je l’ai fait quand j’ai [testé mon thème astral](/fr/blog/j-ai-teste-mon-theme-astral/). Puis montrez la feuille à quelqu’un qui vous connaît bien, et laissez-le cocher à son tour.

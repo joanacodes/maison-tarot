@@ -21,11 +21,11 @@ Chacune a sa page dans la Bibliothèque ; celle-ci les pose côte à côte, avec
 
 J’ai imprimé mon thème et je l’ai parcouru comme une facture : pour chaque position — planète, signe, maison —, une description simple, puis une coche ou une croix.
 
-Une coche voulait dire : ça me correspond d’une façon que je n’aurais pu écrire de personne d’autre. Une croix : vague, faux, ou valable pour ma voisine aussi. « Vous aimez qu’on vous apprécie » prend une croix par principe : tout le monde aime ça. Un raté est un raté, et une phrase flatteuse qui va à tout le monde en est un.
+Une coche voulait dire : ça me correspond d’une façon que je n’aurais pu écrire de personne d’autre. Une croix : vague, faux, ou valable pour ma voisine aussi. « Vous aimez qu’on vous apprécie » prend une croix par principe : tout le monde aime ça. Une phrase flatteuse qui va à tout le monde compte comme un raté.
 
 **Une coche devait être assez précise pour ne pouvoir appartenir à personne d’autre.**
 
-Puis pareil pour ma famille, mes amis et des inconnus, avec leur accord et sans qu’ils me disent rien. « Tenir à 75-90 % », c’est mériter sa coche entre trois fois sur quatre et neuf fois sur dix. Toute l’histoire est dans [comment j’ai testé mon thème astral](/fr/blog/j-ai-teste-mon-theme-astral/).
+Puis pareil pour ma famille, mes amis et des inconnus, avec leur accord et sans qu’ils me disent rien. « Tenir à 75-90 % », c’est mériter sa coche entre trois fois sur quatre et neuf fois sur dix. Le protocole complet est raconté dans [comment j’ai testé mon thème astral](/fr/blog/j-ai-teste-mon-theme-astral/).
 
 ## Saturne : la leçon qui prend des années {#saturne}
 

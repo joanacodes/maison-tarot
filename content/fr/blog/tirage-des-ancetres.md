@@ -59,4 +59,4 @@ Et si la perte est récente, ou si le deuil est lourd plutôt que tendre, commen
 
 Choisissez une soirée calme. Posez sur la table une photo ou un objet qui lui appartenait, si vous en avez un — une montre, une recette écrite à la main. Mélangez en pensant à cette personne, et arrêtez-vous dès que ça devient lourd ; les cartes attendront.
 
-Les cartes ne contiennent pas votre grand-père. C’est vous qui le portez. Les cartes ne sont pas magiques, vous l’êtes — et à Samhain, se souvenir, c’est tout le travail. Si vous voulez apprendre les clés de lecture que j’ai utilisées plus haut, commencez par [une carte, aujourd’hui](/fr/apprendre-le-tarot/).
+Les cartes ne contiennent pas votre grand-père. C’est vous qui le portez, et à Samhain, se souvenir, c’est tout le travail. Si vous voulez apprendre les clés de lecture que j’ai utilisées plus haut, commencez par [une carte, aujourd’hui](/fr/apprendre-le-tarot/).

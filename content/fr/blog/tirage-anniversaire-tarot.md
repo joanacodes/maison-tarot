@@ -58,7 +58,7 @@ La phrase, à voix haute, pourrait être : « Vous avez beaucoup porté cette an
 
 Il ne peut pas vous dire ce qui va arriver cette année, et je ne le voudrais pas. L’As de Bâtons ne promet ni un nouveau poste ni un nouvel amour ; il décrit une énergie que vous pouvez apporter à ce qui viendra. Une carte est un thème, pas un rendez-vous.
 
-Ce n’est pas non plus une lecture de votre révolution solaire. Si vous voulez l’astrologie, lisez le thème lui-même, et traitez-le de la même façon : une description de tendances, jamais un scénario. Je lis ; vous décidez.
+Ce n’est pas non plus une lecture de votre révolution solaire. Si vous voulez l’astrologie, lisez le thème lui-même, et traitez-le de la même façon : une description de tendances, jamais un scénario.
 
 Et si l’année qui se termine a été très dure, la première position peut faire mal à regarder. Vous pouvez la laisser face cachée et commencer par la deuxième carte. Le tirage vous appartient.
 

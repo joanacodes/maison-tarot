@@ -39,13 +39,13 @@ Et si attendre vous semble juste, attendez. On ne perd rien à laisser le jeu da
 
 Ce qui change, c’est le bruit. Les semaines d’éclipse arrivent avec leurs vidéos et leurs publications qui annoncent quelque chose d’énorme, et des gens qui tirent d’habitude une carte par semaine se mettent à en tirer plusieurs par jour. Chaque nouvelle carte est une occasion de plus de se faire peur.
 
-Imaginez que vous tiriez [la Tour](/fr/bibliotheque/cartes-tarot/la-tour/) une semaine d’éclipse. Certains vous diront qu’elle compte double. Ce n’est pas le cas. La Tour pendant une éclipse est la même Tour qu’un mardi ordinaire : quelque chose de construit sur une base fragile tombe, d’un coup, et laisse la place à quelque chose de plus solide. Son nombre, son élément et ses couleurs n’ont pas bougé.
+Imaginez que vous tiriez [la Tour](/fr/bibliotheque/cartes-tarot/la-tour/) une semaine d’éclipse. Certains vous diront qu’elle compte double. Pourtant, la Tour pendant une éclipse est la même Tour qu’un mardi ordinaire : quelque chose de construit sur une base fragile tombe, d’un coup, et laisse la place à quelque chose de plus solide. Son nombre, son élément et ses couleurs n’ont pas bougé.
 
 {{< cards "ar16" >}}
 
 Ce qu’un tirage peut porter en saison d’éclipses, c’est ce qu’il porte n’importe quelle semaine : ce que vous ressentez face à un changement déjà en route, ce que vous aimeriez laisser se refermer, où va votre énergie. Ce qu’il ne fait pas mieux que d’habitude, c’est vous donner la date où quelque chose arrivera.
 
-Votre jeu n’absorbe rien non plus. Les cartes ne sont pas magiques, vous l’êtes. Il n’y a rien à [purifier après coup](/fr/blog/purifier-son-jeu-de-tarot/) : si un tirage vous a pesé, c’est vous qui avez besoin de repos, pas les cartes.
+Votre jeu n’absorbe rien non plus. Il n’y a rien à [purifier après coup](/fr/blog/purifier-son-jeu-de-tarot/) : si un tirage vous a pesé, c’est vous qui avez besoin de repos, pas les cartes.
 
 Mon cadre habituel pour l’astrologie vaut ici aussi. Quand [j’ai testé mon thème astral case par case](/fr/blog/j-ai-teste-mon-theme-astral/), l’essentiel tenait 30 à 40 % du temps, et les éclipses n’ont jamais fait partie de ce test. Un tiers suffit pour faire d’une éclipse un thème de réflexion, pas pour la laisser décider du moment où vous avez le droit de battre les cartes.
 

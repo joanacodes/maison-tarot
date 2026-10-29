@@ -21,7 +21,7 @@ Imaginons que vous arriviez dans une équipe où tout le monde semble plus occup
 
 ## Les cinq positions {#positions}
 
-Posez cinq cartes en ligne, de gauche à droite.
+Tirez cinq cartes, une pour chaque question, dans cet ordre.
 
 1. *Ce que ce poste me demande.* Pas la fiche de poste — la vraie demande, celle que personne n’a écrite.
 2. *Ce que j’apporte et qu’on n’a pas encore vu.* Une force que vous n’avez pas encore eu l’occasion de montrer.
@@ -59,6 +59,6 @@ Les cartes ne sont pas le bon outil pour y répondre. Votre responsable n’est 
 
 Posez-le à la fin de votre première semaine, quand vous avez des visages à mettre sur les positions. Notez les cinq cartes, avec une phrase pour chacune. Puis rangez le jeu.
 
-Faites une pause avec vos cartes de temps en temps — et dans un nouveau poste, ça veut dire ne pas tirer une carte chaque matin avant de partir au bureau. Votre premier mois a besoin de votre attention sur le travail, pas sur la table.
+Dans un nouveau poste, mieux vaut ne pas tirer une carte chaque matin avant de partir au bureau. Votre premier mois a besoin de votre attention sur le travail, pas sur la table.
 
 Le dernier jour du mois, relisez vos cinq phrases et cochez ce qui a tenu. Si vous voulez apprendre les clés de lecture utilisées ici — le rang, l’élément, le nombre —, une [session individuelle](/fr/sessions/) les parcourt en une heure, avec vos propres cartes.

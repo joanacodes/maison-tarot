@@ -37,10 +37,10 @@ Ce sont les mots des cartes et de la lecture elle-même. Des mots comme empathe,
 13. **Lecture** — l’interprétation des cartes tirées, pour quelqu’un d’autre ou pour soi. Exemple : on peut faire un tirage en deux minutes et passer une demi-heure sur la lecture.
 14. **Position** — une place dans un tirage, avec son propre sens. Exemple : dans un tirage passé–présent–futur, la première carte occupe la position « passé ».
 15. **Tirer une carte** — prendre une carte dans le jeu. Exemple : « Aujourd’hui, j’ai tiré l’Étoile. » La [carte du jour](/fr/blog/carte-du-jour-tarot/) est l’exercice que je conseille à tous ceux qui débutent.
-16. **Battre** (ou mélanger) — mêler les cartes avant de tirer. Il n’y a pas de mauvaise façon. Exemple : les intercaler d’un geste de croupier, ou les étaler face cachée sur la table et les remuer.
+16. **Battre** (ou mélanger) — mêler les cartes avant de tirer. Toutes les techniques se valent. Exemple : les intercaler d’un geste de croupier, ou les étaler face cachée sur la table et les remuer.
 17. **Carte renversée** (ou inversée) — une carte qui sort à l’envers. Certains lui donnent un sens propre, d’autres la remettent à l’endroit. Exemple : un Soleil la tête en bas. Sur ce site, une carte renversée se lit comme la même carte, ralentie ou en excès.
 18. **Significateur** — une carte choisie pour représenter la personne avant le tirage, souvent une figure. Exemple : une Reine de Bâtons posée au centre pour quelqu’un de fougueux. Je lis sans, et [voici pourquoi](/fr/blog/carte-significatrice-tarot/).
-19. **Carte de clarification** — une carte supplémentaire tirée pour expliquer une carte qui laisse perplexe. Exemple : une Lune obscure suivie d’un Deux d’Épées « pour clarifier ». Je n’en tire pas. Quand une lecture ne tombe pas juste, un raté est un raté, et une carte de plus ne fait que brouiller.
+19. **Carte de clarification** — une carte supplémentaire tirée pour expliquer une carte qui laisse perplexe. Exemple : une Lune obscure suivie d’un Deux d’Épées « pour clarifier ». Je n’en tire pas. Quand une lecture ne tombe pas juste, je note le raté, et une carte de plus ne ferait que brouiller.
 
 ## La façon de lire {#la-facon-de-lire}
 

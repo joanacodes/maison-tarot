@@ -15,7 +15,7 @@ Vos tirages semblent se contredire parce que presque tout ce qui entoure les car
 
 ## Vous changez entre deux tirages {#vous-changez}
 
-Une lecture lit la personne au moment où elle a lieu : son humeur, ce qu’elle espère, ce qu’elle redoute. Vous le dimanche après-midi et vous le jeudi soir ne posez pas la même question, même avec les mêmes mots. Les cartes ne sont pas magiques, vous l’êtes — la lecture vient de vous, pas du carton —, donc quand vous changez, la lecture change avec vous.
+Une lecture lit la personne au moment où elle a lieu : son humeur, ce qu’elle espère, ce qu’elle redoute. Vous le dimanche après-midi et vous le jeudi soir ne posez pas la même question, même avec les mêmes mots. La lecture vient de vous, pas du carton : quand vous changez, elle change avec vous.
 
 Imaginons une micro-entrepreneuse qui interroge les cartes sur son activité un dimanche et tire le Six de Bâtons : un cavalier couronné de laurier, une foule qui lève ses bâtons autour de lui. Le succès, la reconnaissance. Le jeudi, même question, elle tire le Cinq de Pentacles : deux silhouettes qui avancent péniblement dans la neige, sous un vitrail éclairé.
 
@@ -33,7 +33,7 @@ La solution est pratique. Écrivez la question avant de mélanger, au présent, 
 
 ## Votre lecture change {#votre-lecture}
 
-Une même image peut se lire différemment d’une personne à l’autre, et d’un jour à l’autre. Regardez le [Huit de Bâtons](/fr/bibliotheque/cartes-tarot/huit-de-batons/) : huit bâtons qui traversent le ciel. Ils volent, ou ils tombent ? Un bon matin, vous direz qu’ils volent ; un soir de fatigue, qu’ils tombent. C’est le verre à moitié plein ou à moitié vide, et la carte contient les deux.
+Regardez le [Huit de Bâtons](/fr/bibliotheque/cartes-tarot/huit-de-batons/) : huit bâtons qui traversent le ciel. Ils volent, ou ils tombent ? Un bon matin, vous direz qu’ils volent ; un soir de fatigue, qu’ils tombent. C’est le verre à moitié plein ou à moitié vide, et la carte contient les deux.
 
 Ce n’est pas de l’incohérence, c’est de l’interprétation. Et vous pouvez la stabiliser. Les clés de lecture ne changent pas avec votre humeur : le nombre d’une carte, son élément, ses couleurs dominantes sont les mêmes le dimanche et le jeudi. Commencez chaque lecture par elles, et la part qui bouge avec votre humeur rétrécit.
 
@@ -45,7 +45,7 @@ Reprenons notre micro-entrepreneuse. Mettons qu’après le jeudi, elle décroch
 
 ## Parfois, l’un des deux est raté {#un-rate}
 
-À mon propre décompte, environ une lecture sur dix rate. Si deux tirages se contredisent et que l’un d’eux ne correspond à rien du tout, il est peut-être faux. Dites-le, notez-le, et ne cousez pas les deux ensemble en une seule histoire pour les sauver.
+Si deux tirages se contredisent et que l’un d’eux ne correspond à rien du tout, il est peut-être faux. Dites-le, notez-le, et ne cousez pas les deux ensemble en une seule histoire pour les sauver.
 
 Une façon de distinguer un raté d’un changement : un changement a une raison qu’on peut nommer — il s’est passé quelque chose entre les deux jours. Un raté n’en a pas. Il ne collait pas le jour où vous l’avez tiré, et il ne colle toujours pas. Je détaille la marche à suivre dans [que faire quand un tirage est faux ?](/fr/blog/tirage-faux-que-faire/)
 

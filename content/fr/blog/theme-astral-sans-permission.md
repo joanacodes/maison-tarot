@@ -25,7 +25,7 @@ La vraie question, c’est ce que le thème fait de cette compréhension quand l
 
 ## Un thème est une chambre, pas un profil public {#une-chambre}
 
-Quand j’explique un thème, je prends l’image d’une maison. L’ascendant, c’est l’extérieur, ce que tout le monde voit depuis la rue. Le Soleil, c’est l’intérieur de la maison. La Lune, c’est votre chambre, la pièce la plus intime. Je détaille les trois dans [Soleil, Lune, Ascendant](/fr/blog/soleil-lune-ascendant/).
+Quand j’explique un thème, je prends l’image d’une maison. L’ascendant, c’est l’extérieur, ce que tout le monde voit depuis la rue. Le Soleil, ce sont les pièces où vous vivez. La Lune, c’est votre chambre, la pièce la plus intime. Je détaille les trois dans [Soleil, Lune, Ascendant](/fr/blog/soleil-lune-ascendant/).
 
 Et il y a le reste. Quand j’ai testé des thèmes case par case, les positions qui tenaient le mieux — 75 à 90 % du temps — étaient Saturne, Lilith et Chiron : la leçon la plus dure, ce que la personne a appris à cacher, la blessure autour de laquelle elle tourne. **Les parties les plus justes d’un thème sont aussi les plus intimes.**
 

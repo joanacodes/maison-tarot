@@ -54,7 +54,7 @@ Ce désir mérite d’être entendu. Si l’on me demande un sort, j’entends :
 2. Trouvez le geste qui vous appartient : un message à envoyer ou à ne pas envoyer, une conversation, un budget, une porte à fermer.
 3. Si un rituel vous fait du bien, faites-le vôtre. Écrire une intention sur un bout de papier ne coûte rien, et personne n’a besoin de vous le vendre.
 4. Si un vendeur dit qu’il en faut davantage, arrêtez de payer et gardez les messages. « Il faut relancer le sort », c’est le même scénario que [l’arnaque à la malédiction](/fr/blog/malediction-voyance-arnaque/), raconté plus doucement.
-5. Si l’inquiétude ne s’éteint pas, quoi que vous fassiez, c’est une porte pour quelqu’un d’autre. Tout n’est pas une histoire d’esprits ; parfois, c’est [la porte d’un thérapeute](/fr/avertissements/#therapie), et c’est une bonne porte.
+5. Si l’inquiétude ne s’éteint pas, quoi que vous fassiez, c’est une porte pour quelqu’un d’autre : souvent [celle d’un thérapeute](/fr/avertissements/#therapie), et c’est une bonne porte.
 
 ## Une question que les cartes peuvent porter {#une-question}
 

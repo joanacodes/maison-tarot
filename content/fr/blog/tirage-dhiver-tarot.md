@@ -63,6 +63,6 @@ La limite honnête : un tirage ne soulage pas un moral lourd. Si les semaines so
 
 ## Commencer la nuit la plus longue {#commencer}
 
-Choisissez vos cinq soirs, posez le jeu là où vous le verrez, et tirez la première carte le soir du solstice. Lisez-la cinq minutes, écrivez trois lignes, et gardez le reste pour le lendemain. On ne peut pas vous raconter ce que ça fait. On ne peut qu’essayer.
+Choisissez vos cinq soirs, posez le jeu là où vous le verrez, et tirez la première carte le soir du solstice. Lisez-la cinq minutes, écrivez trois lignes, et gardez le reste pour le lendemain.
 
 Puis, quand l’année tourne, le [tirage du Nouvel An](/fr/blog/tirage-nouvel-an-tarot/) vous attend, avec une carte pour chaque mois à venir.

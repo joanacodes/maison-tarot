@@ -59,7 +59,7 @@ Dans mes notes, le Magicien (le Bateleur au tarot de Marseille) est la carte des
 
 Je ne me présente pas comme sorcière. Mais j’ai une définition, tirée de mes notes : une sorcière, c’est un être humain pleinement conscient de son pouvoir, qui n’a pas peur de s’en servir ni d’être lui-même.
 
-Alors, quelle sorcière suis-je ? **Vous n’avez pas besoin d’étiquette. Soyez vous-même — c’est déjà bien assez sorcier.**
+Alors, quelle sorcière suis-je ? **Peut-être aucune de la liste, et ce n’est pas un manque.**
 
 Les mots ci-dessus servent à comprendre ce que les gens veulent dire, comme n’importe quel glossaire. Comme case où se ranger, ils marchent à peu près aussi bien qu’un signe astrologique tout seul : vous n’êtes pas un signe, vous êtes un mélange de tout. Et c’est pareil pour les étiquettes qu’on choisit devant une vidéo — on ne décide pas de ce qu’on est grâce à un quiz, pas plus qu’on ne choisit son type de starseed (les mots [empathe, starseed et lightworker](/fr/blog/empathe-starseed-lightworker/) sont définis à part). Pratiquez un an, et vous découvrirez votre propre façon d’être sorcière, si vous tenez au mot.
 

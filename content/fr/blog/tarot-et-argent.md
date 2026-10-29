@@ -39,7 +39,7 @@ Ce n’est pas tout à fait « l’argent ne fait pas le bonheur ». C’est plu
 
 On m’interroge sur l’argent parce qu’il empêche de dormir : le loyer, un crédit, une offre d’emploi, un placement qu’un ami vous jure rentable. Cette inquiétude est réelle et je ne la prends pas à la légère.
 
-Mais une carte ne voit ni un contrat, ni un taux d’intérêt, ni un marché. À mon décompte, environ un tirage sur dix rate : c’est acceptable quand on parle de ce que vous ressentez, pas quand il s’agit de vos économies. Un « oui » du jeu peut aussi sonner comme une autorisation, et c’est un poids qu’une carte ne devrait pas porter — c’est pourquoi les décisions d’argent figurent dans [ce que je ne lis pas](/fr/avertissements/#refus). Je lis ; vous décidez.
+Mais une carte ne voit ni un contrat, ni un taux d’intérêt, ni un marché. À mon décompte, environ un tirage sur dix rate : c’est acceptable quand on parle de ce que vous ressentez, pas quand il s’agit de vos économies. Un « oui » du jeu peut aussi sonner comme une autorisation, et c’est un poids qu’une carte ne devrait pas porter — c’est pourquoi les décisions d’argent figurent dans [ce que je ne lis pas](/fr/avertissements/#refus).
 
 Pour la décision elle-même : un expert-comptable, un conseiller en gestion de patrimoine indépendant, votre banque — et, si les dettes s’accumulent, la commission de surendettement de la Banque de France. Pour l’inquiétude autour, les cartes peuvent aider avec des questions plus douces :
 

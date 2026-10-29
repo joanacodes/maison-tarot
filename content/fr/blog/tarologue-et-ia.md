@@ -54,7 +54,7 @@ Avant d’utiliser l’IA pour quoi que ce soit qui touche à une lecture, essay
 3. Ai-je tapé quelque chose qu’elle m’avait confié ?
 4. Est-ce que je m’en sers pour éviter de dire « je ne sais pas », ou « celle-là est ratée » ?
 
-Si une réponse vous met mal à l’aise, c’est votre limite, et elle peut se trouver un peu ailleurs que la mienne. Ne prenez pas mes mots pour une vérité absolue. Testez, et faites-en l’expérience vous-même.
+Si une réponse vous met mal à l’aise, c’est votre limite, et elle peut se trouver un peu ailleurs que la mienne.
 
 ## Que faire à la place {#a-la-place}
 

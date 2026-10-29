@@ -17,13 +17,13 @@ Le plus souvent, pas tout de suite. Un tirage fait en pleine tempête lit la tem
 
 Quand ça ne va pas, votre tête raconte déjà une histoire, et elle la raconte vite. Les cartes ne l’interrompent pas. Elles l’alimentent.
 
-Prenez le Cinq de Coupes. Une silhouette en cape noire regarde trois coupes renversées. Derrière elle, deux coupes tiennent encore debout, et un pont s’éloigne au loin. Dans mes notes, c’est la carte la plus lourde du jeu : la perte, l’émotion sombre, la solitude face à ses problèmes. Tirée un jour calme, vous remarquez aussi les deux coupes et le pont. Tirée quand vous êtes à vif, vous voyez trois coupes renversées, point final.
+Sur le Cinq de Coupes, une silhouette en cape noire regarde trois coupes renversées. Derrière elle, deux coupes tiennent encore debout, et un pont s’éloigne au loin. Un jour calme, vous remarquez aussi les deux coupes et le pont. Un jour où vous êtes à vif, vous voyez trois coupes renversées, point final.
 
 Le Neuf d’Épées fonctionne de la même façon. Quelqu’un est assis dans son lit, le visage dans les mains, neuf épées alignées dans le noir au-dessus de lui. Mes notes y lisent la sortie d’un cauchemar, la fin d’une longue période troublée, avec une protection au-dessus de vous. Un soir de peine, vous ne voyez que le cauchemar.
 
 {{< cards "cu05 sw09" >}}
 
-**Les cartes ne sont pas magiques, vous l’êtes — et c’est exactement pour ça qu’elles se lisent autrement quand vous êtes secoué.** L’image est la même qu’hier. La personne qui la regarde, non.
+**La lecture vient de vous, et c’est exactement pour ça qu’une carte se lit autrement quand vous êtes secoué.** L’image est la même qu’hier. La personne qui la regarde, non.
 
 ## Bouleversé, ou dans tous vos états ? {#bouleverse-ou-dans-tous-ses-etats}
 

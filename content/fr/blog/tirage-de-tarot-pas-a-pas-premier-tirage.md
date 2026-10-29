@@ -67,7 +67,7 @@ Regardez la carte avec la question en tête, et dites une phrase. Pas la signifi
 
 Avec vos mots. Si la phrase est « je fais semblant que ça va et ça ne va pas », dites ça.
 
-C'est l'étape que tout le monde veut sauter, et c'est toute la méthode. Quand je fais essayer mes amis, le moment pour lequel j'enseigne est celui où ils disent quelque chose de vrai et restent sidérés par ce qui vient de sortir de leur bouche. Ça ne se raconte pas, ça se vit, et une carte suffit pour y arriver.
+C'est l'étape que tout le monde veut sauter, et c'est toute la méthode. Quand je fais essayer mes amis, le moment pour lequel j'enseigne est celui où ils disent quelque chose de vrai et restent sidérés par ce qui vient de sortir de leur bouche. Une seule carte suffit pour vivre ce moment-là.
 
 Si rien ne vient, regardez le personnage sur la carte. Que fait-il ? Aimeriez-vous être à sa place ? Répondez à voix haute et vous verrez que vous avez répondu à la question.
 
@@ -75,8 +75,8 @@ Si rien ne vient, regardez le personnage sur la carte. Que fait-il ? Aimeriez-vo
 
 Notez la phrase, datée, à côté de la question. C'est votre première entrée de [carnet de tirage](/fr/blog/carnet-de-tirage-tarot/). Relisez-la dans une semaine ; la carte n'aura pas changé, mais vous saurez si ce que vous avez dit a tenu.
 
-Ne tirez pas une deuxième carte pour adoucir la première. Si elle a frappé trop fort, elle a frappé. Si elle n'avait aucun sens, c'est un raté, et un raté est un raté.
+Ne tirez pas une deuxième carte pour adoucir la première. Si elle a frappé trop fort, elle a frappé. Si elle n'avait aucun sens, c'est un raté : notez-le comme tel.
 
-Et ne faites rien à cause de la carte. Le tarot n'est pas une autorité. Agissez sur ce que vous sentez, pas sur ce qu'une carte a dit. Vous avez maintenant une phrase, dans votre voix, sur votre propre situation ; elle était à vous avant l'arrivée de la carte.
+Et ne faites rien à cause de la carte. Agissez sur ce que vous sentez, pas sur ce qu'une carte a dit. Vous avez maintenant une phrase, dans votre voix, sur votre propre situation ; elle était à vous avant l'arrivée de la carte.
 
 Quand vous voudrez les autres clés de lecture, celles qui transforment un tirage à une carte en lecture que vous pouvez faire pour quelqu'un d'autre, c'est autour de ça qu'est construit [l'apprentissage du tarot ici](/fr/apprendre-le-tarot/), et [apprendre à lire le tarot quand on débute](/fr/blog/apprendre-a-lire-le-tarot-debutant/) montre la méthode derrière la première carte.

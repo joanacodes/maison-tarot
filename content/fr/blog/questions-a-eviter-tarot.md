@@ -17,7 +17,7 @@ Je ne lis pas sur la santé, la mort, la grossesse, les procès, les décisions 
 
 Une carte lit un moment, en images. Elle ne pose pas de diagnostic, ne plaide pas, ne lit pas un contrat, n’entre pas dans la tête de quelqu’un d’autre. Ces sujets figurent sur [la liste de ce que je ne lis pas](/fr/avertissements/#refus), et ce n’est pas par pudeur.
 
-Le risque n’est pas qu’aucune carte ne tombe. Il en tombe toujours une. Le risque, c’est ce qu’une personne inquiète fait de la phrase qui l’accompagne. À mon propre décompte, environ une lecture sur dix rate. Quand la question est « qu’est-ce qui m’occupe cette semaine ? », un raté fait hausser les épaules. Quand la question est « est-ce que cette grosseur est grave ? », un raté peut empêcher quelqu’un de dormir pendant un mois, ou lui faire repousser un rendez-vous.
+Le risque n’est pas qu’aucune carte ne tombe. Il en tombe toujours une. Le risque, c’est ce qu’une personne inquiète fait de la phrase qui l’accompagne. Or n’importe quelle lecture peut rater, les miennes comprises. Quand la question est « qu’est-ce qui m’occupe cette semaine ? », un raté fait hausser les épaules. Quand la question est « est-ce que cette grosseur est grave ? », un raté peut empêcher quelqu’un de dormir pendant un mois, ou lui faire repousser un rendez-vous.
 
 **Plus la question est lourde, plus un raté coûte cher — et les cartes ne savent pas quelles questions sont lourdes.**
 
@@ -69,6 +69,6 @@ La question de l’ex a [un article à elle seule](/fr/blog/va-t-il-revenir-taro
 
 ## La question la plus douce, c’est parfois aucune {#aucune-question}
 
-Quand je lis pour quelqu’un, je lui demande une seule chose : ne me dites rien. Ni le sujet, ni la question. Ce qui pèse sur une personne finit en général par sortir tout seul, et quand ça ne sort pas, c’est aussi une information.
+Quand je lis pour quelqu’un, je ne veux connaître ni le sujet ni la question. Ce qui pèse sur une personne finit en général par sortir tout seul, et quand ça ne sort pas, c’est aussi une information.
 
 Vous pouvez l’essayer de votre côté. La prochaine fois que quelque chose de lourd vous occupe, mélangez sans question, tirez une carte, et regardez de quoi elle parle avant de décider de quoi elle « devrait » parler. Si vous voulez savoir pourquoi ça marche mieux qu’on ne le croit, je l’explique dans [la règle du silence](/fr/blog/regle-du-silence-tarot/).

@@ -61,7 +61,7 @@ Le deuil prend le temps qu’il prend, et il n’y a aucun calendrier à tenir. 
 
 Alors la porte est celle d’une personne : une amie d’abord, votre médecin traitant, un psychologue ou une association d’accompagnement du deuil. [Tout ne relève pas des cartes](/fr/avertissements/#therapie), et frapper à cette porte, ce n’est abandonner personne. Si vous pensez à mettre fin à vos jours, appelez maintenant : en France, le 3114 répond jour et nuit, gratuitement ; en cas de danger immédiat, le 15 ou le 112. Au Québec et dans tout le Canada, c’est le 988.
 
-Si vous tirez chaque soir, faites une pause avec vos cartes de temps en temps. Il ne s’agit pas d’oublier. Il s’agit de laisser de la place à celles et ceux qui sont encore là ; j’en parle dans [pourquoi poser son jeu un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
+Si vous tirez chaque soir, essayez quelques soirs sans le jeu. Il ne s’agit pas d’oublier. Il s’agit de laisser de la place à celles et ceux qui sont encore là ; j’en parle dans [pourquoi poser son jeu un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
 ## Un premier pas, en douceur {#premier-pas}
 

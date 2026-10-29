@@ -74,7 +74,7 @@ Dans les deux cas, je lis cette famille par son élément. [La Terre](/fr/biblio
 
 Moins qu’on ne le croit, et plus que rien. Une même image peut se lire différemment d’une personne à l’autre et d’un jour à l’autre ; la langue est une variable de plus. Si vous avez appris sur le Marseille, *the Magician* ne vous évoquera pas forcément votre Bateleur. Et un anglophone qui vous entend dire « Deniers » risque d’y lire une carte d’argent là où vous pensiez à quelque chose de plus large.
 
-Quand vous lisez pour quelqu’un dans sa deuxième langue, décrivez donc l’image avant de la nommer. « Un homme derrière une table, une main levée, tout son matériel posé devant lui » se comprend dans toutes les langues ; un nom ne fonctionne que si l’on partage le même jeu. Et une phrase passe la Manche sans rien perdre : les cartes ne sont pas magiques, vous l’êtes. *Cards aren’t magic, you are.*
+Quand vous lisez pour quelqu’un dans sa deuxième langue, décrivez donc l’image avant de la nommer. « Un homme derrière une table, une main levée, tout son matériel posé devant lui » se comprend dans toutes les langues ; un nom ne fonctionne que si l’on partage le même jeu.
 
 ## Essayez avec une carte {#essayer}
 

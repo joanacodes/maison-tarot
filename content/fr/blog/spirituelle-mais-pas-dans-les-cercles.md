@@ -27,7 +27,7 @@ Cette dernière raison compte. Si vous avez vécu quelque chose que vous ne vous
 
 Imaginons que chaque RER en retard devienne un signe, chaque désaccord une épreuve, chaque soirée de fatigue un message. Plus rien n’a le droit d’être seulement ce qu’il est. C’est épuisant à vivre, et ça ne laisse aucune place à l’explication la plus banale, qui est souvent la bonne.
 
-Tout n’est pas une histoire d’esprits. Parfois c’est psychologique, parfois plus que ça, et la bonne porte est alors [celle d’un thérapeute](/fr/avertissements/#therapie), pas celle d’un cercle. Le conseil que je donne pour développer ses sens vaut ici aussi : ne montez pas trop haut trop vite, vous risqueriez de ne plus retrouver le chemin de la maison. Allez-y crescendo.
+Et quand ce qui se passe pèse plus lourd qu’un RER en retard, la bonne porte est souvent [celle d’un thérapeute](/fr/avertissements/#therapie), pas celle d’un cercle. Le conseil que je donne pour développer ses sens vaut ici aussi : ne montez pas trop haut trop vite, vous risqueriez de ne plus retrouver le chemin de la maison. Allez-y crescendo.
 
 Ma version de l’ancrage est modeste. Quand il y a un bruit chez moi la nuit, je le laisse tranquille ; j’ai raconté [comment j’ai cessé d’avoir peur du noir](/fr/blog/peur-du-noir/).
 

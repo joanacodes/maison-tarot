@@ -65,6 +65,6 @@ Aucune des deux ne dit si quelqu’un va revenir. Ensemble, elles disent quelque
 3. Dites à voix haute, à une personne de confiance, ce que vous ressentez.
 4. Si la douleur reste lourde pendant des semaines, ou qu’elle gagne votre sommeil et votre travail, la porte d’un thérapeute vaut mieux qu’un jeu de cartes. Ce n’est pas un échec de vos cartes ; c’est le bon outil.
 
-Et quoi que dise un tirage, le vôtre ou le mien, [une carte n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/). Je lis ; vous décidez.
+Et quoi que dise un tirage, le vôtre ou le mien, [une carte n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
 
 Si vous voulez un tirage entier pensé pour prendre soin de vous plutôt que pour guetter la porte, j’en propose un dans [le tarot après une rupture](/fr/blog/tirage-apres-rupture/).

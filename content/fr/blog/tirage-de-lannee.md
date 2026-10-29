@@ -54,7 +54,7 @@ Il ne donne pas de dates. Une carte de mai parle d’un thème, jamais du 12. [P
 
 Il ne répond pas non plus aux questions de santé, de grossesse ou d’argent — « Vais-je aller bien cette année ? », « Quel mois l’argent va-t-il arriver ? » Ces questions viennent de l’inquiétude, et elles méritent de meilleurs outils : un médecin, un conseiller, un plan. Ce qu’une carte du mois peut porter, c’est la version plus douce : « Qu’est-ce qui m’aide à prendre soin de moi en mai ? »
 
-Et il ratera parfois. À mon propre décompte, environ un tirage sur dix rate. Mettez la croix, et passez au mois suivant.
+Et il ratera parfois. Mettez la croix, et passez au mois suivant.
 
 ## Pourquoi je ne publie pas de prédictions pour 2027 {#pas-de-predictions}
 
@@ -62,7 +62,7 @@ Chaque mois de décembre, les magazines et les réseaux se remplissent de prévi
 
 D’abord, je lis des personnes, une à la fois, sans rien savoir d’elles à l’avance. Une prévision pour tout le monde est un tirage pour personne. Ensuite, personne ne peut la vérifier. Quand elle rate, le raté n’est jamais compté — et [compter mes réussites et mes ratés](/fr/blog/le-tarot-marche-t-il-300-tirages/) est la seule raison pour laquelle j’ai confiance dans ce que je fais. Enfin, une prédiction devient vite une autorité. On attend son « bon mois » au lieu d’agir dans celui-ci, et [le tarot n’est pas une autorité](/fr/avertissements/#lectures).
 
-À mon sens, la meilleure façon de s’assurer un avenir agréable, c’est de s’ancrer dans le présent. Je lis ; vous décidez — et un tirage de votre propre année, vérifié mois après mois, laisse la décision entre vos mains.
+À mon sens, la meilleure façon de s’assurer un avenir agréable, c’est de s’ancrer dans le présent. Un tirage de votre propre année, vérifié mois après mois, laisse la décision entre vos mains.
 
 ## Faire votre propre tirage de l’année {#commencer}
 

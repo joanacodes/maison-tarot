@@ -53,7 +53,7 @@ Smith elle-même a été oubliée pendant des décennies ; des expositions comme
 
 Parce que les clés de lecture que j’enseigne se lisent directement sur le dessin. Le ciel jaune derrière le Mat et le Magicien dit la joie et la volonté avant même que vous connaissiez leur nom. Le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/) est, dans mes notes, la carte la plus lourde du jeu : la perte, l’émotion sombre, la solitude face à ses problèmes. Et pourtant Smith a dessiné deux coupes encore debout derrière la silhouette en cape noire, et un pont sur la rivière. Vous voyez le moins et le plus d’un seul regard.
 
-C’est ce qu’une scène apporte à un débutant : quelque chose de juste à dire avant d’avoir appris quoi que ce soit par cœur. Les cartes ne sont pas magiques, vous l’êtes — mais un bon dessin aide à démarrer.
+C’est ce qu’une scène apporte à un débutant : quelque chose de juste à dire avant d’avoir appris quoi que ce soit par cœur. La lecture reste la vôtre ; un bon dessin vous aide seulement à démarrer.
 
 La limite, honnêtement : le Rider-Waite-Smith n’est ni plus ancien, ni plus pur, ni plus « authentique » qu’un autre jeu. Sa symbolique vient d’un système de la fin du XIXe siècle, et le modèle de Marseille a bien deux siècles de plus. Je compare les deux dans [tarot de Marseille ou Rider-Waite-Smith](/fr/blog/tarot-de-marseille-ou-rider-waite/) ; et si un autre jeu vous parle davantage, lisez avec celui-là.
 

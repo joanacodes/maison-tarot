@@ -53,7 +53,7 @@ Ce qu’on peut chercher sur un profil avant de réserver :
 
 - Une publication qui explique comment elle travaille, avec ses propres mots.
 - Une liste des sujets qu’elle ne lit pas.
-- Un prix annoncé, sans rien d’ajouté à la fin.
+- Un prix affiché d’avance, sans supplément à la fin.
 - Des ratés mentionnés quelque part, même une fois.
 - Aucun message tombé du ciel pour vous dire qu’elle a « capté quelque chose » à votre sujet. C’est une entrée en matière commerciale, pas une lecture.
 
@@ -63,7 +63,7 @@ Et vous pouvez demander. Une tarologue qui a une méthode est en général conte
 
 Un fil a son rythme, et il peut devenir le vôtre. Vous regardez la carte du jour avant de choisir vos vêtements, puis avant d’envoyer un message, puis avant d’y répondre. Vous faites défiler les tas jusqu’à ce que l’un d’eux dise ce que vous espériez.
 
-Ce n’est pas de la bêtise ; c’est l’inquiétude qui cherche une main à tenir. Mais c’est une recherche de validation extérieure, et un fil vous en fournira indéfiniment. Si vous le remarquez, mettez quelques comptes en sourdine pendant une semaine et regardez ce que vous décidez sans eux. Faites une pause avec vos cartes de temps en temps, et avec celles des autres. J’en dis davantage dans [pourquoi arrêter de tirer les cartes, au moins un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
+Ce n’est pas de la bêtise ; c’est l’inquiétude qui cherche une main à tenir. Mais c’est une recherche de validation extérieure, et un fil vous en fournira indéfiniment. Si vous le remarquez, mettez quelques comptes en sourdine pendant une semaine et regardez ce que vous décidez sans eux. J’en dis davantage dans [pourquoi arrêter de tirer les cartes, au moins un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
 ## Et maintenant {#et-maintenant}
 

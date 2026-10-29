@@ -45,7 +45,7 @@ Inversé, c’est la douleur retenue : pas de pluie, pas de mots, « ça va ». 
 
 C’est la question qu’on apporte le plus souvent au Trois d’Épées, sous une forme ou une autre : est-ce que l’autre tenait vraiment à moi, est-ce qu’il y a quelqu’un d’autre, est-ce que quelque chose était vrai ? Elle vient de la partie la plus à vif d’un chagrin, et elle mérite une réponse douce.
 
-Je ne lis pas dessus, et voici pourquoi. L’autre n’est pas dans la pièce et n’a pas accepté d’être lu. Vous n’aimeriez pas que quelqu’un fouille dans votre chambre ; lire quelqu’un sans son accord, c’est à peu près la même chose. Et une carte interrogée sur le cœur de quelqu’un d’autre répond avec votre peur : vous repartez avec la même blessure, plus une image pour l’illustrer.
+Ce n’est pas une question que je pose aux cartes : l’autre n’est pas dans la pièce et n’a pas accepté d’être lu. Vous n’aimeriez pas que quelqu’un fouille dans votre chambre ; lire quelqu’un sans son accord, c’est à peu près la même chose. Et une carte interrogée sur le cœur de quelqu’un d’autre répond avec votre peur : vous repartez avec la même blessure, plus une image pour l’illustrer.
 
 Une question plus douce : « Qu’est-ce qui m’a fait mal, et qu’est-ce que j’ai besoin d’en dire ? » Si quelque chose ne colle pas, sa place est dans une conversation avec l’autre, ou avec un ami qui vous connaît tous les deux — pas dans un tirage.
 

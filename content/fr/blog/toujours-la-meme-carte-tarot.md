@@ -29,8 +29,6 @@ Vous retenez la carte qui compte pour vous et oubliez les vingt qui sont passée
 
 Le test, c’est de compter. Notez chaque carte tirée pendant un mois, avec la date, dans un carnet — la même habitude que je décris dans [tenir un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/). À la fin, regardez le vrai décompte. Parfois, la carte qui semblait vous poursuivre est sortie deux fois, comme plusieurs autres que vous n’aviez pas remarquées. Parfois, elle est vraiment sortie plus souvent que les autres. Dans les deux cas, vous le saurez au lieu de le ressentir.
 
-Ne prenez pas mes mots pour une vérité absolue. Testez, et faites-en l’expérience vous-même.
-
 ## Troisième explication : un thème autour duquel vous tournez {#un-theme}
 
 Parfois, une carte revient parce que ce qu’elle décrit continue d’être vrai. Pas un esprit qui frappe à la porte — une question à laquelle vous n’avez pas encore répondu.
@@ -49,7 +47,7 @@ Les cartes qui inquiètent quand elles reviennent, ce n’est presque jamais le 
 
 {{< cards "ar16 ar13 sw10" >}}
 
-La Tour, la Mort, le Dix d’Épées. En voir une trois fois dans la semaine peut ressembler à un avertissement. Ce n’en est pas un. La Mort ne parle pas de mourir ; dans mes notes, c’est la moisson, la fin d’une chose pour qu’une autre puisse être semée. La Tour, c’est un changement brusque, souvent de quelque chose qui était déjà fissuré. Le Dix d’Épées, c’est toucher le fond — et le ciel, au bas de la carte, est en train de s’éclaircir. Je les reprends une par une dans [les lames qui font peur, et pourquoi elles sont plus douces qu’il n’y paraît](/fr/blog/cartes-tarot-qui-font-peur/).
+La Tour, la Mort, le Dix d’Épées. En voir une trois fois dans la semaine peut ressembler à un avertissement ; aucune des trois n’en est un. La Mort ne parle pas de mourir ; dans mes notes, c’est la moisson, la fin d’une chose pour qu’une autre puisse être semée. La Tour, c’est un changement brusque, souvent de quelque chose qui était déjà fissuré. Le Dix d’Épées, c’est toucher le fond — et le ciel, au bas de la carte, est en train de s’éclaircir. Je les reprends une par une dans [les lames qui font peur, et pourquoi elles sont plus douces qu’il n’y paraît](/fr/blog/cartes-tarot-qui-font-peur/).
 
 Une carte lourde qui se répète n’annonce pas une catastrophe. Lisez-la comme n’importe quelle autre : le nombre, l’élément, les couleurs. Et si l’inquiétude est plus grande que la carte — vous rebattez le jeu la nuit, vous n’arrivez pas à vous poser —, rangez les cartes quelque temps. Elles vous attendront.
 

@@ -42,7 +42,7 @@ Quelques questions plus douces à poser aux cartes, ou à un carnet :
 3. Qu’est-ce que je garde pour moi et que je pourrais partager ?
 4. Qu’est-ce qui m’appartient, en dehors de cela, et dont je veux continuer à prendre soin ?
 
-J’en propose d’autres dans [les questions à poser à la place](/fr/blog/questions-a-eviter-tarot/). Et si vous tirez les cartes là-dessus tous les matins, je vous suggère, en douceur, de ranger le jeu dans un tiroir quelque temps. Faites une pause avec vos cartes de temps en temps : l’attente est assez lourde sans un verdict quotidien.
+J’en propose d’autres dans [les questions à poser à la place](/fr/blog/questions-a-eviter-tarot/). Et si vous tirez les cartes là-dessus tous les matins, je vous suggère, en douceur, de ranger le jeu dans un tiroir quelque temps : l’attente est assez lourde sans un verdict quotidien.
 
 ## Qui peut vraiment vous aider {#qui-consulter}
 

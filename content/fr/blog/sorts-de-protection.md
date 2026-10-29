@@ -52,7 +52,7 @@ Voici ce que je vous proposerais à la place, dans cet ordre.
 2. Répondez-y par un geste concret. Une nouvelle serrure, un numéro bloqué, un mot de passe changé, une voisine prévenue, une conversation que vous repoussez. Si quelqu’un vous menace réellement, c’est la police, la gendarmerie ou un avocat, pas un rituel.
 3. Gardez les habitudes qui apaisent sans rien coûter. Si allumer une bougie près de la porte le soir vous aide à dormir, cette habitude vous appartient. Personne n’a besoin de vous la vendre.
 4. Parlez-en à une personne. Une peur gardée secrète devient plus bruyante.
-5. Remarquez si la peur n’a pas d’objet. Si elle est là tous les soirs, dans chaque pièce, quoi que vous fassiez, c’est une porte pour un psychologue ou un médecin. Tout n’est pas une histoire d’esprits, et [la porte du thérapeute](/fr/avertissements/#therapie) est une bonne porte.
+5. Remarquez si la peur n’a pas d’objet. Si elle est là tous les soirs, dans chaque pièce, quoi que vous fassiez, [un psychologue ou un médecin](/fr/avertissements/#therapie) vous aidera mieux qu’un sort.
 
 ## Ce qu’un tirage peut porter à la place {#ce-quun-tirage-peut-porter}
 

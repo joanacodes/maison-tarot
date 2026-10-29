@@ -25,7 +25,7 @@ J’ai moi-même été du côté de ceux qui posent la question. J’ai lancé u
 
 On ne peut pas se braquer pour défendre une affirmation qu’on n’a jamais faite ; mieux vaut donc connaître sa liste par cœur. Voici la mienne :
 
-- Le tarot n’est pas une autorité. On agit selon ce qu’on ressent, pas selon ce qu’une carte a dit.
+- Une carte ne décide de rien pour personne. On agit selon ce qu’on ressent, pas selon ce qu’elle a dit.
 - Environ un tirage sur dix rate, selon mon propre décompte, fait à la main ([comment j’ai compté](/fr/blog/le-tarot-marche-t-il-300-tirages/)). C’est un relevé, pas une étude.
 - Je ne sais pas comment ça marche. Je connais certaines conditions qui l’aident, comme le fait que la personne ne dise rien d’elle avant.
 - Il n’y a pas de don. Tout le monde peut apprendre à lire.
@@ -38,7 +38,7 @@ Adaptez-les à votre voix. Aucune n’est une réplique pour l’emporter.
 
 À un ami curieux : « Franchement ? Je ne sais pas comment ça marche. Ça tombe juste assez souvent pour que je continue, et à peu près une fois sur dix, c’est raté. Tu veux essayer et vérifier ? »
 
-À un sceptique affûté, zététicien ou pas : « Bonne question. Je ne vous demande de croire à rien. Ne me dites rien sur vous, laissez-moi lire, et jugez après. Si c’est raté, je vous le dirai. »
+À un sceptique affûté, zététicien ou pas : « Bonne question. Je ne vous demande de croire à rien. Gardez tout pour vous, laissez-moi lire, et jugez après. Si c’est raté, je vous le dirai. »
 
 À quelqu’un d’inquiet pour un proche : « C’est gentil de vous en soucier. Je ne lis ni sur la santé, ni sur les procès, ni sur les décisions d’argent, et je dis à tout le monde de ne pas agir d’après une carte. Si votre amie tire les cartes toute la journée, ce n’est souvent pas une affaire de tarot, et une pause lui ferait du bien. »
 
@@ -52,7 +52,7 @@ Adaptez-les à votre voix. Aucune n’est une réplique pour l’emporter.
 
 Reconnaissez ce qui est juste. La lecture froide existe. L’effet Barnum existe. On se souvient des réussites et on oublie les ratés. Ce sont de bonnes objections, et ce sont justement les raisons pour lesquelles je demande qu’on ne me dise rien avant et pour lesquelles je compte mes ratés. J’ai écrit sur [la façon de distinguer lecture froide et tirage de tarot](/fr/blog/lecture-froide-tarot/). « Vous avez raison, c’est un vrai risque » clôt plus de débats que n’importe quelle repartie.
 
-Ensuite, lâchez prise. Une réponse calme ne convertira personne, et ce n’est pas son but. Le but, c’est que la personne reparte en sachant ce que vous faites vraiment, plutôt que ce qu’elle s’était imaginé. Vous n’avez pas besoin de son accord pour continuer à lire, et elle n’a pas besoin du vôtre pour continuer à douter. Ne prenez pas mes mots pour la vérité absolue. Testez, et faites-en l’expérience vous-même. C’est la phrase que je laisserais à n’importe qui, sceptique ou convaincu.
+Ensuite, lâchez prise. Une réponse calme ne convertira personne, et ce n’est pas son but. Le but, c’est que la personne reparte en sachant ce que vous faites vraiment, plutôt que ce qu’elle s’était imaginé. Vous n’avez pas besoin de son accord pour continuer à lire, et elle n’a pas besoin du vôtre pour continuer à douter.
 
 ## Ce qu’il vaut mieux ne pas dire {#a-eviter}
 

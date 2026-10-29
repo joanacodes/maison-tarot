@@ -62,6 +62,6 @@ Enfin, l’imagerie est chargée du système de Crowley : Thelema, l’astrologi
 
 Rien ne vous y oblige. Un seul jeu peut accompagner toute une vie de lecture, et le [Rider-Waite-Smith](/fr/blog/tarot-rider-waite-smith/) est un très bon compagnon. Mais si vous êtes curieux, la curiosité est une bonne raison.
 
-Une façon douce d’entrer : empruntez ou achetez un Thoth et, pendant une semaine, posez chaque jour une carte à côté de sa jumelle du Rider-Waite-Smith. Décrivez les deux, à voix haute, par le nombre, l’élément et la couleur, avant d’ouvrir le moindre livre. Notez où elles se rejoignent et où elles s’écartent. Ça ne se raconte pas ; ça s’essaie.
+Une façon douce d’entrer : empruntez ou achetez un Thoth et, pendant une semaine, posez chaque jour une carte à côté de sa jumelle du Rider-Waite-Smith. Décrivez les deux, à voix haute, par le nombre, l’élément et la couleur, avant d’ouvrir le moindre livre. Notez où elles se rejoignent et où elles s’écartent.
 
 Puis offrez au nouveau jeu sa propre première semaine, comme je le décris dans [comment apprivoiser un nouveau jeu de tarot](/fr/blog/nouveau-jeu-de-tarot/) : pas de rituel, quelques cartes par jour, et un carnet.

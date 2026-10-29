@@ -33,13 +33,13 @@ Un élève arrive là en deux minutes, sans rien croire sur l’origine d’une 
 
 Ensuite, l’élève ajoute ce qui lui vient : une image, un mot, une sensation. Cette partie-là est personnelle. C’est là que l’enseignement s’arrête et que la pratique commence.
 
-## Les cartes ne sont pas magiques, vous l’êtes {#pas-magiques}
+## D’où vient une lecture {#pas-magiques}
 
 Les cartes de tarot sont un support. Elles aident à lâcher prise et à lire ce qui vous entoure, ou ce qui entoure quelqu’un d’autre. Ce qui sort vient de vous, pas des cartes.
 
-C’est pour cela que tout le monde peut apprendre. Toutes les personnes que j’ai aidées à lire y sont arrivées entre le premier et le troisième essai. C’est comme le dessin : certains ont plus de facilité, et quiconque pratique y arrive. La seule pratique, c’est le lâcher-prise.
+C’est pour cela que tout le monde peut apprendre. Comme pour le dessin, certains ont plus de facilité, et quiconque pratique y arrive. La seule pratique, c’est le lâcher-prise.
 
-Cela veut dire aussi qu’un professeur ne transmet rien de mystérieux. Pas d’initiation, pas de passation, pas de don qui passerait d’une main à l’autre — j’explique ailleurs pourquoi [il n’est pas nécessaire d’avoir un don pour lire les cartes](/fr/blog/faut-il-un-don-pour-lire-les-cartes/). Si j’enseigne, c’est à cause d’un moment précis : celui où un ami essaie de lire, dit quelque chose de juste, et reste saisi par ce qu’il s’entend dire. Ce moment-là ne se raconte pas. Il se vit, et le travail d’un professeur est de lui laisser de la place.
+Cela veut dire aussi qu’un professeur ne transmet rien de mystérieux. Pas d’initiation, pas de passation, pas de don qui passerait d’une main à l’autre — j’explique ailleurs pourquoi [il n’est pas nécessaire d’avoir un don pour lire les cartes](/fr/blog/faut-il-un-don-pour-lire-les-cartes/). Si j’enseigne, c’est à cause d’un moment précis : celui où un ami essaie de lire, dit quelque chose de juste, et reste saisi par ce qu’il s’entend dire. Le travail d’un professeur est de laisser de la place à ce moment-là.
 
 ## Pour celles et ceux dont le tarot est spirituel {#respect}
 

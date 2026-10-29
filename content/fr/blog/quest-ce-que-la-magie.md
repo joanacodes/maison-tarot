@@ -41,7 +41,7 @@ Une partie, je sais l’expliquer. Certaines « réussites » iraient à n’imp
 
 Une autre partie, non. Après une lecture pour une amie, j’ai senti un jour son grand-père avec moi, chez moi, et le message qu’il m’a donné, un cinq et « sous la maison », l’a menée jusqu’au box numéro cinq de la cave de son immeuble, rempli de pots de peinture. Je raconte l’histoire en entier dans [ce qu’un grand-père très poli m’a appris](/fr/blog/le-tarot-est-il-malefique/).
 
-Je ne sais pas ce que c’était. Je sais que c’est arrivé, je ne sais pas l’expliquer : c’est exactement là que je le range.
+Je sais que c’est arrivé, je ne sais pas l’expliquer : c’est exactement là que je le range.
 
 Si vous voulez l’idée en deux cartes, prenez le Magicien (le Bateleur au tarot de Marseille) et la Grande Prêtresse. Dans mes notes, le Magicien a les quatre éléments sur sa table et sait tout faire ; son revers, c’est qu’il peut faire semblant, si on lui fait confiance les yeux fermés. Les deux sens du mot « magicien » dans une seule carte. La Grande Prêtresse sait beaucoup de choses et ne montre qu’une façade, comme la face cachée de la lune : ce qui existe et ne se voit pas encore.
 
@@ -49,7 +49,7 @@ Si vous voulez l’idée en deux cartes, prenez le Magicien (le Bateleur au taro
 
 ## Ce que cette définition ne prétend pas {#ce-quelle-ne-pretend-pas}
 
-Elle ne prétend pas à des pouvoirs. Je n’ai pas de capacités que les autres n’auraient pas ; tout le monde peut apprendre à lire. Les cartes ne sont pas magiques, vous l’êtes — c’est la même définition, tournée vers une personne. Ce qui se passe dans un tirage vient des deux personnes à la table, pas du carton, et personne ne sait encore l’expliquer tout à fait.
+Elle ne prétend pas à des pouvoirs. Je n’ai pas de capacités que les autres n’auraient pas ; tout le monde peut apprendre à lire. Ce qui se passe dans un tirage vient des deux personnes à la table, pas du carton, et personne ne sait encore l’expliquer tout à fait.
 
 Elle ne prétend pas que l’inexpliqué soit dangereux, maléfique ou saint. « Inexpliqué » décrit l’état de nos connaissances, pas la chose elle-même.
 

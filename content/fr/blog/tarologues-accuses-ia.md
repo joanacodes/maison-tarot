@@ -47,7 +47,7 @@ Si vous lisez pour les autres, la meilleure réponse à l’accusation arrive av
 2. Montrez le tirage. Une photo des vraies cartes sur votre vraie table, envoyée avec le texte.
 3. Lisez en direct quand vous le pouvez. Un appel en visio ou au téléphone se sous-traite mal, et la personne vous voit regarder les cartes.
 4. Demandez le silence. Quand la personne ne vous dit rien avant, [ce qui tombe juste ne peut venir ni d’elle](/fr/blog/regle-du-silence-tarot/), ni d’une consigne tapée dans une machine.
-5. Gardez vos ratés. Un modèle n’écrit jamais « cette partie-là n’a pas tenu ». Un tarologue qui l’écrit sonne humain, parce qu’il n’y a qu’un humain pour le faire. Un raté est un raté.
+5. Gardez vos ratés. Un modèle n’écrit jamais « cette partie-là n’a pas tenu ». Un tarologue qui l’écrit sonne humain, parce qu’il n’y a qu’un humain pour le faire.
 6. Lisez l’image, pas le livre. Vos propres mots sur ce qui est dessiné sont difficiles à confondre avec ceux de quelqu’un d’autre.
 
 Cette dernière habitude mérite un exemple. Voici une même carte, décrite de deux façons.

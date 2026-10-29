@@ -48,8 +48,8 @@ Aucune des deux réponses ne rend la période moins réelle. Une année difficil
 Quatre choses à garder en tête, quoi que vous pensiez de Saturne.
 
 - *C’est une révision, pas une condamnation.* Saturne est la planète de ce qui devient solide parce que c’était dur. C’est la fin de l’histoire, pas seulement le milieu.
-- *Ce n’est pas un alibi.* « C’est mon retour de Saturne » explique une humeur ; ça n’excuse pas de laisser les autres en plan. [L’astrologie n’est pas une excuse.](/fr/avertissements/#astrologie)
-- *La décision reste la vôtre.* Si vous apportez la question aux cartes, la règle est la même que d’habitude : je lis ; vous décidez.
+- *Ce n’est pas un alibi.* « C’est mon retour de Saturne » explique une humeur ; ça n’excuse pas de laisser les autres en plan, [pas plus que le reste de l’astrologie](/fr/avertissements/#astrologie).
+- *La décision reste la vôtre.* Que vous apportiez la question aux cartes ou non, ni Saturne ni un tirage ne la prennent à votre place.
 - *Si c’est plus lourd qu’une année difficile, parlez-en.* À un proche d’abord, à un thérapeute si ça ne passe pas. Ce n’est pas rater son retour de Saturne. C’est bien le vivre.
 
 ## Trois cartes pour votre retour de Saturne {#tirage}
@@ -64,4 +64,4 @@ Ces deux cartes donnent un petit tirage. Trois cartes, une fois — pas chaque s
 2. *Qu’est-ce que je porte qui n’a jamais été à moi ?* Celle du Diable.
 3. *Qu’est-ce que je veux construire ensuite ?* La vôtre.
 
-Lisez chaque carte par ses couleurs, son nombre et son élément avant de chercher quoi que ce soit. Notez les trois cartes et une phrase pour chacune dans votre carnet, et relisez la page le jour de vos 30 ans. Si vous aimez marquer les anniversaires avec les cartes, le [tirage d’anniversaire](/fr/blog/tirage-anniversaire-tarot/) le fait chaque année, et [Saturne, Lilith et Chiron](/fr/blog/saturne-lilith-chiron/) montre Saturne à côté des deux autres positions qui ont tenu dans mon test.
+Notez les trois cartes et une phrase pour chacune dans votre carnet, et relisez la page le jour de vos 30 ans. Si vous aimez marquer les anniversaires avec les cartes, le [tirage d’anniversaire](/fr/blog/tirage-anniversaire-tarot/) le fait chaque année, et [Saturne, Lilith et Chiron](/fr/blog/saturne-lilith-chiron/) montre Saturne à côté des deux autres positions qui ont tenu dans mon test.

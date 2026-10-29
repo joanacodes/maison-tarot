@@ -55,7 +55,7 @@ Si un tirage entièrement inversé vous a fait peur, c’est compréhensible : d
 
 Il n’y a rien à réparer non plus. Tirer une quatrième carte pour « éclaircir » les trois premières, ou remélanger jusqu’à ce qu’elles sortent à l’endroit, ne fait qu’enterrer la première lecture sous une deuxième. [Une carte de plus](/fr/blog/carte-de-clarification-tarot/) brouille un tirage bien plus souvent qu’elle ne l’éclaire.
 
-Et si vous remarquez que vous recommencez encore et encore en espérant un tirage à l’endroit cette fois, remarquez-le avec bienveillance. Faites une pause avec vos cartes de temps en temps. Reposer la même question en dit souvent plus sur le besoin de demander que sur la réponse ; [combien de temps attendre entre deux tirages](/fr/blog/combien-de-temps-entre-deux-tirages/) en parle plus longuement.
+Et si vous remarquez que vous recommencez encore et encore en espérant un tirage à l’endroit cette fois, remarquez-le avec bienveillance. Reposer la même question en dit souvent plus sur le besoin de demander que sur la réponse ; [combien de temps attendre entre deux tirages](/fr/blog/combien-de-temps-entre-deux-tirages/) en parle plus longuement.
 
 ## Essayez ce soir {#essayer}
 

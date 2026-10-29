@@ -23,7 +23,7 @@ Une bonne partie de ce qui change quand on vous regarde n’a rien à voir avec 
 
 ## Ce qui marche : vos règles, adaptées à la caméra {#ce-qui-marche}
 
-Ma règle ne change pas en live : ne me dites rien. Demandez aux gens de ne pas écrire leur question, leur âge ni leur situation. En commentaires, c’est plus dur à tenir qu’autour d’une table, et ça compte davantage : chaque spectateur peut lire ce qui a été écrit, et vous aussi. Voici [pourquoi je demande le silence](/fr/blog/regle-du-silence-tarot/).
+Ma règle ne change pas en live : la personne lue ne me dit rien avant. Demandez aux gens de ne pas écrire leur question, leur âge ni leur situation. En commentaires, c’est plus dur à tenir qu’autour d’une table, et ça compte davantage : chaque spectateur peut lire ce qui a été écrit, et vous aussi. Voici [pourquoi je demande le silence](/fr/blog/regle-du-silence-tarot/).
 
 Tirez au sort plutôt que de prendre ceux qui tapent le plus vite : en live, sinon, seule la vitesse dans les commentaires décide de qui sera lu.
 
@@ -52,7 +52,7 @@ Rester calme ne veut pas dire arrêter de trembler. Ça veut dire laisser trembl
 3. Si la vidéo reste en ligne en replay, dites-le à chaque personne avant qu’elle accepte d’être lue. Un tirage dans une salle s’arrête quand la salle se vide ; un replay, non.
 4. Testez le son et la lumière avec une amie qui regarde depuis un autre téléphone. Dites un mot et demandez-lui de l’écrire : l’écart que vous voyez, c’est votre décalage.
 5. Gardez de l’eau à portée de main, et sachez ce que vous ferez si la connexion saute : dire où vous en étiez, et reprendre.
-6. Ne lisez que les personnes présentes. « Qu’est-ce que mon chef pense de moi ? » est une question à mettre doucement de côté.
+6. Ne lisez que les personnes présentes. « Est-ce que mon chef m’apprécie ? » est une question à mettre doucement de côté.
 
 ## Pour aller plus loin {#prochaine-etape}
 

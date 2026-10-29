@@ -47,7 +47,7 @@ Ce qu’une lecture peut porter, c’est la relation vue de votre côté. Imagin
 
 D’autres personnes apparaissent dans les lectures, même quand personne n’a posé de question sur elles. Lors de [mon tout premier tirage pour une inconnue](/fr/blog/premier-tirage-tarot/), les cartes ont parlé d’une relation, et ont aussi montré qu’elle n’avait pas été très tendre avec l’autre personne.
 
-Regardez ce qu’a fait cette lecture : elle parlait d’elle, et de sa part à elle. Toute la différence est là. Quand quelqu’un apparaît dans vos cartes, lisez-le tel qu’il vit en vous : votre peur de lui, votre amour pour lui, votre part de l’histoire. Ça, c’est à vous de le regarder. Sa vie intérieure, non.
+Regardez ce qu’a fait cette lecture : elle parlait d’elle, et de sa part à elle. Quand quelqu’un apparaît dans vos cartes, lisez-le tel qu’il vit en vous : votre peur de lui, votre amour pour lui, votre part de l’histoire. Ça, c’est à vous de le regarder. Sa vie intérieure, non.
 
 Et si vous voulez savoir ce que pense l’autre, il existe une méthode qui se passe de cartes : lui demander. S’il est curieux, proposez-lui de s’asseoir, de dire oui, et d’être lu lui-même.
 

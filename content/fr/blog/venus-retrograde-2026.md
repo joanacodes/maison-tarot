@@ -62,7 +62,7 @@ Transformées en questions pour ces semaines-ci, elles donnent un tirage en troi
 2. Où est-ce que je serre trop fort ?
 3. De quoi ai-je cessé de prendre soin ?
 
-Tirez-le une fois — maintenant, ou le jour où Vénus repart en direct — et notez les réponses. Pas tous les soirs : faites une pause avec vos cartes de temps en temps, surtout quand vous attendez quelqu’un.
+Tirez-le une fois — maintenant, ou le jour où Vénus repart en direct — et notez les réponses. Pas tous les soirs, surtout quand vous attendez quelqu’un.
 
 ## Et ensuite {#et-ensuite}
 

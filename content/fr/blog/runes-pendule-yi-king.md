@@ -35,7 +35,7 @@ Imaginons que vous hésitiez entre deux couleurs de peinture pour votre chambre.
 
 Sa différence : il ne répond que oui ou non, sans dire pourquoi. L’explication habituelle de son mouvement, c’est l’effet idéomoteur : de minuscules mouvements de la main qu’on fait sans s’en rendre compte. Ça ne le rend pas inutile — c’est peut-être justement ce qui le rend utile, puisqu’il vous montre de quel côté votre corps penche déjà. C’est le même principe que les cartes : l’outil vous aide à vous concentrer, ou à lâcher prise, pour que vos propres pensées s’écartent.
 
-Gardez-le pour les petits choix. Je lis ; vous décidez — et un poids qui oscille ne devrait rien décider de grand pour vous non plus. C’est aussi pour ça que je réponds autrement aux [questions oui ou non](/fr/blog/tirage-oui-non-tarot/) avec le tarot, et que la santé, la grossesse ou les décisions d’argent font partie des [sujets sur lesquels je ne lis pas](/fr/avertissements/#refus), quel que soit l’outil.
+Gardez-le pour les petits choix : un poids qui oscille ne devrait rien décider de grand pour vous. C’est aussi pour ça que je réponds autrement aux [questions oui ou non](/fr/blog/tirage-oui-non-tarot/) avec le tarot, et que la santé, la grossesse ou les décisions d’argent font partie des [sujets sur lesquels je ne lis pas](/fr/avertissements/#refus), quel que soit l’outil.
 
 ## Qu’est-ce que le Yi King ? {#yi-king}
 
@@ -47,7 +47,7 @@ Le yin et le yang sont proches de la façon dont j’enseigne [les énergies fé
 
 ## Marc de café, tableaux : on peut lire dans tout {#lire-dans-tout}
 
-Nous sommes tous nés avec nos sens. Pour les affûter : méditer, lire, peindre — n’importe quel art méditatif. Puis lire le tarot, le marc de café, ou même un tableau au musée. On peut lire dans tout.
+Pour affûter vos sens : méditer, lire, peindre — n’importe quel art méditatif. Puis lire le tarot, le marc de café, ou même un tableau au musée. On peut lire dans tout.
 
 On dit « lire dans le marc de café » pour parler d’une prédiction au hasard. C’est pourtant une vraie pratique : après un café turc, on retourne la tasse sur sa soucoupe, on la laisse refroidir, puis on lit les formes que le marc a laissées sur les parois — un oiseau, une route, un visage. Un tableau se lit comme une carte : les couleurs d’abord, puis les personnages, puis ce qui vous vient. **L’outil vous concentre ; la lecture vient de vous.** C’est pour ça que [la grille des couleurs](/fr/bibliotheque/couleurs-tarot/) que j’utilise sur les cartes fonctionne aussi sur une toile.
 

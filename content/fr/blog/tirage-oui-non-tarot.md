@@ -27,7 +27,7 @@ Trois raisons, toutes pratiques.
 
 La première : une carte n’est pas un interrupteur. Le Quatre de Bâtons a un nombre, un élément, des couleurs, des personnages, une guirlande. Le réduire à « oui », c’est lire le premier mot d’une lettre et jeter le reste.
 
-La deuxième : un verdict déplace la décision sur du carton. [Le tarot n’est pas une autorité](/fr/avertissements/#lectures) : une lecture décrit un moment, et c’est vous qui vivez avec le choix. C’est le contrat de chaque lecture que je donne — je lis ; vous décidez. Le oui ou non le retourne sans en avoir l’air.
+La deuxième : un verdict déplace la décision sur du carton. [Le tarot n’est pas une autorité](/fr/avertissements/#lectures) : une lecture décrit un moment, et c’est vous qui vivez avec le choix. C’est le contrat de chaque lecture que je donne, et le oui ou non le retourne sans en avoir l’air.
 
 La troisième, c’est le deuxième mélange. Regardez ce que vous feriez d’un non. **Si un non vous ferait rebattre les cartes, la réponse que vous espériez est déjà votre réponse.** Vous n’aviez pas besoin de la carte pour ça, et vous y croirez davantage si elle vient de vous.
 
@@ -51,7 +51,7 @@ Aucune des trois n’est un verdict. Chacune donne une direction et une conditio
 
 Trois mouvements : du *est-ce que* au *qu’est-ce que*, de *l’autre* à *vous*, de *plus tard* à *maintenant*.
 
-- « Est-ce que je vais avoir le poste ? » → « Qu’est-ce que je dois apporter à cet entretien ? »
+- « Vais-je décrocher ce poste ? » → « Qu’est-ce que je dois apporter à cet entretien ? »
 - « Est-ce que je lui écris ? » → « Qu’est-ce que j’attends de ce message ? »
 - « Est-ce le bon appartement ? » → « De quoi ai-je besoin dans un logement, en ce moment ? »
 - « Est-ce que ça va marcher ? » → « Que puis-je faire cette semaine pour que ça marche ? »

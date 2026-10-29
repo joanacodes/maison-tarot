@@ -73,7 +73,7 @@ Avec une histoire comme celle de la voix, on est tenté de la sauver après coup
 
 Les ratés ne sont pas toujours mystérieux, d’ailleurs. Interpréter demande de l’énergie, et après une longue série de tirages, on peut se sentir très fatigué ; il m’arrive de m’arrêter au bout de deux heures de tirages, par prudence. Un tarologue fatigué a plus de chances de combler les trous avec des suppositions. Parfois, c’est le tarologue qui n’est pas en forme. Parfois, la personne a la tête ailleurs. Parfois, personne ne trouve de raison.
 
-Un raté est un raté. Le dire, à voix haute, c’est ce qui garde les neuf autres honnêtes.
+Dire le raté à voix haute, c’est ce qui garde les neuf autres honnêtes.
 
 Si vous sortez d’un tirage qui n’a pas tenu, j’ai écrit à part sur [ce qu’il faut faire quand un tirage est faux](/fr/blog/tirage-faux-que-faire/) — le côté pratique, pour la personne qui lit comme pour celle qui a été lue.
 

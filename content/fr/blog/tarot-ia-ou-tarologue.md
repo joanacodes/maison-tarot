@@ -11,7 +11,7 @@ imageAlt: "Une personne de dos assise à une petite table en bois, face à une c
 imagePrompt: "A person seen from behind sitting at a small wooden table, facing an empty chair across it, a closed tarot deck between them. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "La différence entre une IA et un tarologue n’est pas une question de justesse, c’est une question de responsabilité. Un tarologue qui sait ce qu’il fait ne reçoit aucun contexte, reconnaît ses ratés, laisse certaines questions de côté et lit la pièce : le tirage et le visage. Un modèle prend votre contexte, ne rate jamais parce qu’il ne s’engage sur rien, répond à tout et lit les cartes une par une. C’est un bon dictionnaire et un piètre lecteur."
 ---
-La question « IA ou humain ? » suppose que les deux font le même métier. Ce n’est pas le cas. Voici ce que fait chacun, et ce que ça change pour la personne qui s’assied.
+La question « IA ou humain ? » suppose que les deux font le même métier ; or ce sont deux métiers différents. Voici ce que fait chacun, et ce que ça change pour la personne qui s’assied.
 
 ## Ce que le tarologue fait et que la machine ne sait pas faire {#humain}
 

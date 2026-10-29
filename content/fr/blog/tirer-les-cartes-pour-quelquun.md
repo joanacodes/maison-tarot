@@ -57,16 +57,16 @@ On commence presque tous par ses amis, et c’est un bon endroit pour commencer.
 4. Ne devenez pas son oracle quotidien. Si le même ami revient chaque semaine avec la même question, dites-le gentiment et proposez une pause.
 5. Les sujets que je laisse de côté avec des inconnus, je les laisse de côté avec mes amis : santé, grossesse, décès, procédures judiciaires en cours, décisions d’argent. La [liste, avec mes raisons](/fr/avertissements/#refus), est publique.
 
-Quand un ami pose une de ces questions, c’est presque toujours l’inquiétude qui parle. Accueillez-la, dites doucement que les cartes ne sont pas le bon outil pour ça, et proposez une question plus douce. « Qu’est-ce qui m’aiderait à traverser cette semaine ? » : celle-là, les cartes savent la porter.
+Quand un ami pose une de ces questions, c’est presque toujours l’inquiétude qui parle. Accueillez-la, dites doucement que les cartes ne sont pas le bon outil pour ça, et proposez une question plus douce. « De quoi ai-je besoin pour tenir jusqu’à dimanche ? » : celle-là, les cartes savent la porter.
 
 ## Quand on ne voit rien, ou que c’est trop {#rien-ou-trop}
 
 Certains jours, vous regarderez les cartes et rien ne viendra. Le blocage peut venir de vous — trop de pression pour bien faire, c’est fréquent avec ceux qu’on aime — ou de l’autre, si une part de lui redoute ce qu’il va entendre. Posez les cartes, parlez, rassurez. Puis réessayez, ou pas.
 
-Si votre ami est en vraie détresse, ce n’est pas un soir de tirage. Faites une tisane, écoutez, et si c’est plus qu’une mauvaise semaine, aidez-le à trouver quelqu’un dont c’est le métier. Ce n’est pas un échec des cartes ; c’est la bonne porte.
+Si votre ami est en vraie détresse, ce n’est pas un soir de tirage. Faites une tisane, écoutez, et si c’est plus qu’une mauvaise semaine, aidez-le à trouver quelqu’un dont c’est le métier.
 
 Après coup, la fatigue peut tomber d’un coup. Interpréter demande de l’énergie. Reposez-vous.
 
 ## Et maintenant {#et-maintenant}
 
-Cette semaine, demandez à un ami s’il a envie d’un tirage. S’il dit oui, demandez-lui de ne rien vous dire, tirez trois cartes, décrivez avant d’interpréter, et laissez-le parler à la fin. Si quelque chose ne tient pas, [dites que c’est raté et passez à la suite](/fr/blog/tirage-faux-que-faire/). Puis refermez-le comme je l’explique dans [comment bien terminer un tirage](/fr/blog/terminer-un-tirage/) : en rendant la décision à la personne. Je lis ; vous décidez.
+Cette semaine, demandez à un ami s’il a envie d’un tirage. S’il dit oui, demandez-lui de ne rien vous dire, tirez trois cartes, décrivez avant d’interpréter, et laissez-le parler à la fin. Si quelque chose ne tient pas, [dites que c’est raté et passez à la suite](/fr/blog/tirage-faux-que-faire/). Puis refermez-le comme je l’explique dans [comment bien terminer un tirage](/fr/blog/terminer-un-tirage/) : en rendant la décision à la personne.

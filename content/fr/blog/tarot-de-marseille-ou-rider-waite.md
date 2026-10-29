@@ -67,7 +67,7 @@ Le Marseille, si les personnes qui vous transmettront le tarot le lisent, si les
 
 Le Rider-Waite-Smith, si vous voulez lire sans livre dès la première carte. C’est le jeu avec lequel je lis et j’enseigne, et celui sur lequel toute la Bibliothèque de la Maison est construite, parce que chaque carte est une scène.
 
-Ma limite, honnêtement : le carnet où je compte mes réussites et mes ratés, je l’ai tenu avec le Rider-Waite-Smith. Je n’ai donc rien à dire sur le jeu qui « marcherait mieux », et je me méfierais de quiconque prétend le savoir. Ne prenez pas mes mots pour une vérité absolue : testez, et faites-en l’expérience vous-même.
+Ma limite, honnêtement : le carnet où je compte mes réussites et mes ratés, je l’ai tenu avec le Rider-Waite-Smith. Je n’ai donc rien à dire sur le jeu qui « marcherait mieux », et je me méfierais de quiconque prétend le savoir.
 
 ## Essayez les deux sur la même carte {#essayer}
 
