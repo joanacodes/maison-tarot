@@ -17,7 +17,7 @@ The Ten of Swords is the worst drawing in the deck, and in a love reading it can
 
 ## The corridor between two rooms {#corridor}
 
-Ten, in my notes, is that passage: you’ve left one room and haven’t yet entered the next. Freedom, change, breathing again — and its minus, that it sends you off to begin something else. In love, the Ten of Swords is a full stop, and a full stop is also where the next sentence begins. My favourite image for the tens: **a ten can look like defeat to anyone watching, while the butterfly has already flown from its chrysalis.**
+Ten, in my notes, is that passage: you’ve left one room and haven’t yet entered the next. Freedom, change, breathing again — and its minus, that it sends you off to begin something else. In love, the Ten of Swords is a full stop, and a full stop is also where the next sentence begins. The image my notes give the tens: **a ten can look like defeat to anyone watching, while the butterfly has already flown from its chrysalis.**
 
 The element is Air, the mind, and ten swords for one man is more than anyone needs. That excess is the clue. The mind is very good at stabbing you ten times with the same thought: the last conversation, the thing you should have said.
 
