@@ -11,7 +11,7 @@ imageAlt: "A single tarot card lying face down apart from a fanned-out deck on a
 imagePrompt: "A single tarot card lying face down a little apart from a fanned-out deck on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "A tarot card you’ve never liked is usually a card you’ve only met from one side — its drawing, its reputation, or the bad day it once fell on. Don’t take it out of the deck. Read it by its lenses instead of its reputation: its number, its element, its colours. Then find its plus and its minus, because every card has both. Spend a week with it, describing it out loud each morning. You don’t have to love the card; you need to be able to read it when it turns up for someone."
 ---
-Each card has two faces, a gift and a cost, and a card you’ve never liked is usually one you’ve only met from one side. The answer isn’t to slip it out of the deck. It’s to meet it properly, through its lenses rather than its reputation.
+Each card has a side that gives and a side that takes, and a card you’ve never liked is usually one you’ve only met from one side. The answer isn’t to slip it out of the deck. It’s to meet it properly, through its lenses rather than its reputation.
 
 ## Why some cards put you off {#why}
 
