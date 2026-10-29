@@ -16,9 +16,9 @@ Le tirage à une carte, la fameuse carte du jour, est le meilleur entraînement 
 ## Comment tirer sa carte du jour {#tirer}
 
 1. Choisissez un moment fixe dans la journée. Le premier café fait très bien l’affaire.
-2. Mélangez comme vous voulez. Il n’y a pas de mauvaise façon.
+2. Mélangez comme vous voulez.
 3. Tirez une carte. Sans question, ou avec une question légère : « Qu’est-ce qui mérite mon attention aujourd’hui ? »
-4. Regardez une bonne minute avant de réfléchir. Décrivez ce qu’il y a dessus, ce que vous voyez, ce que vous recevez.
+4. Regardez une bonne minute avant de réfléchir. Puis décrivez-la : la scène, ce qui vous frappe, ce qui vous vient.
 5. Écrivez trois lignes, puis rangez le jeu.
 
 C’est tout le rituel. Rien à purifier, rien à réciter, pas de tapis spécial. Si vous n’avez encore jamais lu une seule carte, [votre premier tirage, pas à pas](/fr/blog/tirage-de-tarot-pas-a-pas-premier-tirage/) prend une dizaine de minutes.
@@ -57,7 +57,7 @@ Même jeu, même geste ; la différence tient à ce que vous faites de la carte.
 
 Si vous répondez oui à deux questions ou plus, la carte a glissé de l’entraînement vers la béquille. Ce n’est pas une faiblesse. C’est en général le doute qui cherche un appui, et le doute mérite de la douceur. Mais [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/), et une carte ne peut pas porter une décision à votre place. Agissez selon ce que vous ressentez.
 
-Le remède, c’est une pause. Rangez le jeu dans un tiroir une semaine, ou un mois, et regardez vers quoi vous tendez la main à la place. Faites une pause avec vos cartes de temps en temps ; [voici pourquoi je le conseille](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
+Le remède, c’est une pause. Rangez le jeu dans un tiroir une semaine, ou un mois, et regardez vers quoi vous tendez la main à la place. Le tiroir fermé fait partie de l’entraînement, lui aussi ; [voici pourquoi je le conseille](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
 ## Ce qu’une année de cartes du jour vous apporte {#une-annee}
 

@@ -16,9 +16,9 @@ A one-card pull, the card of the day, is the best daily practice I know for lear
 ## How to draw your card of the day {#how-to-draw}
 
 1. Pick a moment that's the same every day. The first coffee works well.
-2. Shuffle any way you like. There's no wrong way.
+2. Shuffle in whatever way your hands already know.
 3. Draw one card. No question, or a light one: "What's worth noticing today?"
-4. Look for a full minute before you think. Describe what's on it, what you see, what you receive.
+4. Look for a full minute before you think. Then put it into words: what's drawn, what catches your eye, what it stirs in you.
 5. Write three lines, then put the deck away.
 
 That's the whole ritual. Nothing to cleanse, nothing to recite, no special cloth. If you've never read a single card before, [your first pull, step by step](/blog/how-to-do-a-tarot-reading/) takes about ten minutes.
@@ -55,9 +55,9 @@ Same deck, same gesture; the difference is what you do with the card. Answer hon
 - Do you feel uneasy on a day without a card?
 - Is your morning question the same worry, every day?
 
-If two or more answers are yes, the card has drifted from practice to crutch. That isn't a weakness. It's usually doubt looking for something to lean on, and doubt deserves kindness. But [tarot is not an authority](/blog/tarot-is-not-an-authority/), and a card can't carry a decision for you. Act on what you feel.
+If two or more answers are yes, the card has drifted from practice to crutch. That isn't a weakness. It's usually doubt looking for something to lean on, and doubt deserves kindness. But [tarot is not an authority](/blog/tarot-is-not-an-authority/), and a card can't carry a decision for you.
 
-The fix is a pause. Put the deck in a drawer for a week, or a month, and notice what you reach for instead. Take a break from your cards now and then; [here's why I recommend it](/blog/why-you-should-quit-tarot-reading/).
+The fix is a pause. Put the deck in a drawer for a week, or a month, and notice what you reach for instead. I've written about [why that pause helps](/blog/why-you-should-quit-tarot-reading/).
 
 ## What a year of daily cards gives you {#a-year}
 

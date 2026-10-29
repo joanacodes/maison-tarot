@@ -52,7 +52,7 @@ What’s missing is a person. Nobody owns the hand, nobody drinks. The same [han
 
 An Ace is a 1, and a 1 is the start of a cycle: precious, and not usable yet. Here it’s a feeling at its very first stage — a love that’s starting, a friendship you didn’t expect, a heart opening again after a closed season. It already has its full value. It has no shape.
 
-The advice of [number one](/library/numerology/number-1/) is humility: get ready to learn. Instagram began as Burbn, an app that didn’t really work; a new feeling is the same — you don’t know yet what it’s for. The minus of 1 is deciding the ending on page one: “this is the one”, after a single coffee.
+For a feeling this new, [number one](/library/numerology/number-1/) asks for humility: you’re a beginner at it. Instagram began as Burbn, an app that didn’t really work; a new feeling is the same — you don’t know yet what it’s for. The minus of 1 is deciding the ending on page one: “this is the one”, after a single coffee.
 
 ## By element: Water {#element}
 
@@ -68,7 +68,7 @@ Then the grey of the background: neutrality, no particular will. Before you’ve
 
 ## By astrology: Root of Water {#astrology}
 
-The Golden Dawn, the tradition the Rider-Waite-Smith correspondences come from, gave the Aces no sign and no planet. Each Ace is the Root of the Powers of its element: here, Water in its raw state, before it divides into the three Water signs — Cancer, Scorpio, Pisces — that the Two to the Ten of Cups share between them.
+The Golden Dawn, the tradition the Rider-Waite-Smith correspondences come from, gave the Aces no sign and no planet. Each Ace is the root of its element: here, Water in its raw state, before it divides into the three Water signs — Cancer, Scorpio, Pisces — that the Two to the Ten of Cups share between them.
 
 So [astrology](/library/astrology/) adds little here, and that is the information: the feeling hasn’t got a character yet. If it isn’t one of your lenses, leave it aside.
 
@@ -84,7 +84,7 @@ Next to the [Four of Cups](/library/tarot-cards/four-of-cups/), it’s the same 
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Ace of Cups next to [the Hermit](/library/tarot-cards/the-hermit/). Lenses first. One next to nine: a beginning beside the end of a stage. Water next to Earth, since the Hermit is a Virgo card: a feeling arriving in a life that has been quiet and practical. Colours: the gold cup and the blue water beside the Hermit’s long grey cloak and his small lantern.
+Take a made-up spread: the overflowing cup of the Ace, with [the Hermit](/library/tarot-cards/the-hermit/) and his lantern beside it. One next to nine: a beginning beside the end of a stage. Water next to Earth, since the Hermit is a Virgo card: a feeling arriving in a life that has been quiet and practical. Colours: the gold cup and the blue water beside the Hermit’s long grey cloak and his small lantern.
 
 The sentence I’d say out loud: “You’ve been on your own for a while, maybe by choice, and something is opening again — wanting people around, or someone in particular.”
 

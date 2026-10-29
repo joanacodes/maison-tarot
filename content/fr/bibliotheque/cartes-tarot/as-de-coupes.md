@@ -51,9 +51,9 @@ Ce qui manque, c’est quelqu’un. Personne au bout de cette main, personne pou
 
 ## Par le nombre : un {#nombre}
 
-**un — le début, le diamant brut.** Un As est un 1, et le 1 ouvre un cycle : c’est précieux, et pas encore utilisable. Ici, c’est un sentiment à son tout premier stade — un amour qui commence, une amitié qu’on n’attendait pas, un cœur qui se rouvre après une saison fermée. Il a déjà toute sa valeur. Il n’a pas encore de forme.
+Un As est un 1, et le 1 ouvre un cycle : c’est précieux, et pas encore utilisable. Ici, c’est un sentiment à son tout premier stade — un amour qui commence, une amitié qu’on n’attendait pas, un cœur qui se rouvre après une saison fermée. Il a déjà toute sa valeur. Il n’a pas encore de forme.
 
-Le conseil du [chiffre 1](/fr/bibliotheque/numerologie/chiffre-1/), c’est l’humilité : se préparer à apprendre. Instagram a commencé sous le nom de Burbn, une application qui ne marchait pas vraiment ; un sentiment neuf, c’est pareil : on ne sait pas encore à quoi il sert. Le revers du 1, c’est d’écrire la fin dès la première page : « c’est la bonne personne », après un seul café en terrasse.
+Devant un sentiment aussi neuf, le [chiffre 1](/fr/bibliotheque/numerologie/chiffre-1/) demande de l’humilité : vous débutez. Instagram a commencé sous le nom de Burbn, une application qui ne marchait pas vraiment ; un sentiment neuf, c’est pareil : on ne sait pas encore à quoi il sert. Le revers du 1, c’est d’écrire la fin dès la première page : « c’est la bonne personne », après un seul café en terrasse.
 
 ## Par l’élément : Eau {#element}
 
@@ -69,7 +69,7 @@ Reste le gris du fond : la neutralité, aucune volonté particulière. Avant d�
 
 ## Par l’astrologie : Racine de l’Eau {#astrologie}
 
-La Golden Dawn, la tradition dont viennent les correspondances du Rider-Waite-Smith, n’a donné aux As ni signe ni planète. Chaque As est la « Racine des pouvoirs » de son élément : ici, l’Eau à l’état brut, avant qu’elle ne se partage entre les trois signes d’Eau — Cancer, Scorpion, Poissons — que se répartissent les cartes du Deux au Dix de Coupes.
+La Golden Dawn, la tradition dont viennent les correspondances du Rider-Waite-Smith, n’a donné aux As ni signe ni planète. Chaque As est la racine de son élément : ici, l’Eau à l’état brut, avant qu’elle ne se partage entre les trois signes d’Eau — Cancer, Scorpion, Poissons — que se répartissent les cartes du Deux au Dix de Coupes.
 
 L’[astrologie](/fr/bibliotheque/astrologie/) apporte donc peu ici, et c’est justement l’information : le sentiment n’a pas encore de caractère. Si elle ne fait pas partie de vos clés de lecture, laissez-la de côté.
 
@@ -85,7 +85,7 @@ Renversé, l’As de Coupes penche de l’autre côté. Soit le sentiment est re
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire l’As de Coupes à côté de [l’Ermite](/fr/bibliotheque/cartes-tarot/l-ermite/). Les clés de lecture d’abord. Un à côté de neuf : un début à côté de la fin d’une étape. L’Eau à côté de la Terre, puisque l’Ermite est une carte de la Vierge : un sentiment qui arrive dans une vie restée calme et pratique. Les couleurs : la coupe dorée et l’eau bleue à côté du long manteau gris de l’Ermite et de sa petite lanterne.
+Prenons un tirage inventé pour l’exercice : la coupe qui déborde de l’As, et [l’Ermite](/fr/bibliotheque/cartes-tarot/l-ermite/) avec sa lanterne juste à côté. Un à côté de neuf : un début à côté de la fin d’une étape. L’Eau à côté de la Terre, puisque l’Ermite est une carte de la Vierge : un sentiment qui arrive dans une vie restée calme et pratique. Les couleurs : la coupe dorée et l’eau bleue à côté du long manteau gris de l’Ermite et de sa petite lanterne.
 
 La phrase que je dirais à voix haute : « Cela fait un bon moment que vous menez votre vie de votre côté, peut-être par choix, et quelque chose se rouvre — l’envie d’avoir du monde autour de vous, ou quelqu’un en particulier. »
 
