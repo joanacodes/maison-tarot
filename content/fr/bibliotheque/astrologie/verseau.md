@@ -3,8 +3,7 @@ title: 'Verseau en astrologie et au tarot : sa carte (L’Étoile), son énergie
   archétype'
 description: 'Le signe du Verseau lu comme une clé de lecture du tarot : sa carte
   L’Étoile, son verbe « Je sais », Uranus, Air, mode fixe, énergie masculine. Créativité,
-  excentricité, omniprésence. Ses côtés favorables et défavorables, son archétype,
-  et comment le lire dans un tirage.'
+  excentricité, omniprésence.'
 translationKey: sign-aquarius
 type: library
 navTitle: Verseau

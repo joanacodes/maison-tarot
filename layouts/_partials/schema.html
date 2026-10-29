@@ -35,7 +35,8 @@
   {{- $nodes = $nodes | append $ev -}}
   {{- end -}}
 {{- end -}}
-{{- with .Params.faq -}}
+{{- /* FAQPage seulement là où la FAQ est affichée (cartes, offres, villes) : Google refuse le balisage d’un contenu invisible */ -}}
+{{- with and (in (slice "cards" "offer" "metro") .Type) .Params.faq -}}
   {{- $q := slice -}}
   {{- range . }}{{ $q = $q | append (dict "@type" "Question" "name" .q "acceptedAnswer" (dict "@type" "Answer" "text" .a)) }}{{ end -}}
   {{- $nodes = $nodes | append (dict "@type" "FAQPage" "mainEntity" $q) -}}

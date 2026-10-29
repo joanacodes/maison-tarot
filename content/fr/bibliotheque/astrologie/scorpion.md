@@ -3,8 +3,7 @@ title: 'Scorpion en astrologie et au tarot : sa carte (La Mort), son énergie, s
   archétype'
 description: 'Le signe du Scorpion lu comme une clé de lecture du tarot : sa carte
   La Mort, son verbe « Je désire », Pluton, Eau, mode fixe, énergie féminine. Intensité,
-  observation, guérison — et le dard. Ses côtés favorables et défavorables, son archétype,
-  et comment le lire dans un tirage.'
+  observation, guérison — et le dard.'
 translationKey: sign-scorpio
 type: library
 navTitle: Scorpion

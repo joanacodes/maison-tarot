@@ -2,8 +2,7 @@
 title: 'Lion en astrologie et au tarot : sa carte (La Force), son énergie, son archétype'
 description: 'Le signe du Lion lu comme une clé de lecture du tarot : sa carte La
   Force, son verbe « Je veux », Soleil, Feu, mode fixe, énergie masculine. La jeunesse,
-  le jeu, l’expressivité, le challenge, la fierté, l’innocence. Ses côtés favorables
-  et défavorables, son archétype, et comment le lire dans un tirage.'
+  le jeu, l’expressivité, le challenge, la fierté, l’innocence.'
 translationKey: sign-leo
 type: library
 navTitle: Lion

@@ -3,8 +3,7 @@ title: 'Sagittaire en astrologie et au tarot : sa carte (Tempérance), son éner
   son archétype'
 description: 'Le signe du Sagittaire lu comme une clé de lecture du tarot : sa carte
   Tempérance, son verbe « Je vois, j’essaie », Jupiter, Feu, mode mutable, énergie
-  masculine. Voyage, curiosité, partage, apprentissage. Ses côtés favorables et défavorables,
-  son archétype, et comment le lire dans un tirage.'
+  masculine. Voyage, curiosité, partage, apprentissage.'
 translationKey: sign-sagittarius
 type: library
 navTitle: Sagittaire

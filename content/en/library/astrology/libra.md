@@ -1,8 +1,7 @@
 ---
 title: 'Libra in astrology and tarot: its card (Justice), its energy, its archetype'
 description: 'The sign of Libra read as a tarot lens: its card Justice, its verb ''I
-  balance'', Venus, Air, cardinal mode, masculine energy. Diplomacy. Its favourable
-  and unfavourable sides, its archetype, and how to read it in a spread.'
+  balance'', Venus, Air, cardinal mode, masculine energy. Diplomacy.'
 translationKey: sign-libra
 type: library
 navTitle: Libra

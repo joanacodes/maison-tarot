@@ -3,8 +3,7 @@ title: 'Sagittarius in astrology and tarot: its card (Temperance), its energy, i
   archetype'
 description: 'The sign of Sagittarius read as a tarot lens: its card Temperance, its
   verb ''I see, I try'', Jupiter, Fire, mutable mode, masculine energy. Travel, curiosity,
-  sharing, learning. Its favourable and unfavourable sides, its archetype, and how
-  to read it in a spread.'
+  sharing, learning.'
 translationKey: sign-sagittarius
 type: library
 navTitle: Sagittarius

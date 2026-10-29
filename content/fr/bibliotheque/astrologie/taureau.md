@@ -3,8 +3,7 @@ title: 'Taureau en astrologie et au tarot : sa carte (Le Hiérophante), son éne
   son archétype'
 description: 'Le signe du Taureau lu comme une clé de lecture du tarot : sa carte
   Le Hiérophante, son verbe « J’ai », Vénus, Terre, mode fixe, énergie féminine. Énergie
-  gardienne, beauté, stabilité. Ses côtés favorables et défavorables, son archétype,
-  et comment le lire dans un tirage.'
+  gardienne, beauté, stabilité.'
 translationKey: sign-taurus
 type: library
 navTitle: Taureau

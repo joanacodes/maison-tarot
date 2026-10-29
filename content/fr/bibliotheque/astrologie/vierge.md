@@ -2,8 +2,7 @@
 title: 'Vierge en astrologie et au tarot : sa carte (L’Ermite), son énergie, son archétype'
 description: 'Le signe du Vierge lu comme une clé de lecture du tarot : sa carte L’Ermite,
   son verbe « J’analyse », Mercure, Terre, mode mutable, énergie féminine. Service,
-  commerce et communication, pragmatisme. Ses côtés favorables et défavorables, son
-  archétype, et comment le lire dans un tirage.'
+  commerce et communication, pragmatisme.'
 translationKey: sign-virgo
 type: library
 navTitle: Vierge

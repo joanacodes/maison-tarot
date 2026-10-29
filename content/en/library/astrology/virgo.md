@@ -2,8 +2,7 @@
 title: 'Virgo in astrology and tarot: its card (The Hermit), its energy, its archetype'
 description: 'The sign of Virgo read as a tarot lens: its card The Hermit, its verb
   ''I analyse'', Mercury, Earth, mutable mode, feminine energy. Service, trade and
-  communication, pragmatism. Its favourable and unfavourable sides, its archetype,
-  and how to read it in a spread.'
+  communication, pragmatism.'
 translationKey: sign-virgo
 type: library
 navTitle: Virgo

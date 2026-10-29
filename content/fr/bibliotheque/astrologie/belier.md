@@ -3,8 +3,7 @@ title: 'Bélier en astrologie et au tarot : sa carte (L’Empereur), son énergi
   archétype'
 description: 'Le signe du Bélier lu comme une clé de lecture du tarot : sa carte L’Empereur,
   son verbe « Je suis », Mars, Feu, mode cardinal, énergie masculine. Impulsivité,
-  militaire, guerrier, exécutant — le maçon plutôt que l’architecte. Ses côtés favorables
-  et défavorables, son archétype, et comment le lire dans un tirage.'
+  militaire, guerrier, exécutant — le maçon plutôt que l’architecte.'
 translationKey: sign-aries
 type: library
 navTitle: Bélier

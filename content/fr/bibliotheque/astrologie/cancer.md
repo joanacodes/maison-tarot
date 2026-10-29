@@ -3,8 +3,7 @@ title: 'Cancer en astrologie et au tarot : sa carte (Le Chariot), son énergie,
   son archétype'
 description: 'Le signe du Cancer lu comme une clé de lecture du tarot : sa carte Le
   Chariot, son verbe « Je ressens », Lune, Eau, mode cardinal, énergie féminine.
-  Nourrice, directrice, protectrice, très forte intuition. Ses côtés favorables et
-  défavorables, son archétype, et comment le lire dans un tirage.'
+  Nourrice, directrice, protectrice, très forte intuition.'
 translationKey: sign-cancer
 type: library
 navTitle: Cancer

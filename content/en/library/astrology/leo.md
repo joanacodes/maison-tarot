@@ -2,8 +2,7 @@
 title: 'Leo in astrology and tarot: its card (Strength), its energy, its archetype'
 description: 'The sign of Leo read as a tarot lens: its card Strength, its verb ''I
   will'', Sun, Fire, fixed mode, masculine energy. Youth, play, expressiveness, challenge,
-  pride, innocence. Its favourable and unfavourable sides, its archetype, and how
-  to read it in a spread.'
+  pride, innocence.'
 translationKey: sign-leo
 type: library
 navTitle: Leo

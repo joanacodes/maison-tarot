@@ -3,9 +3,7 @@ title: 'Poissons en astrologie et au tarot : sa carte (La Lune), son énergie, s
   archétype'
 description: 'Le signe du Poissons lu comme une clé de lecture du tarot : sa carte
   La Lune, son verbe « Je crois », Neptune, Eau, mode mutable, énergie féminine. Calme,
-  concentration, sagesse, écoute, émotion, aide — et l’étrange, le mystérieux, l’isolement.
-  Ses côtés favorables et défavorables, son archétype, et comment le lire dans un
-  tirage.'
+  concentration, sagesse, écoute, émotion, aide — et l’étrange, le mystérieux, l’isolement.'
 translationKey: sign-pisces
 type: library
 navTitle: Poissons

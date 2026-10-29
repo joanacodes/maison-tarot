@@ -2,8 +2,7 @@
 title: 'Gemini in astrology and tarot: its card (The Lovers), its energy, its archetype'
 description: 'The sign of Gemini read as a tarot lens: its card The Lovers, its verb
   ''I think'', Mercury, Air, mutable mode, masculine energy. Communication, exchange,
-  relay, connection. Its favourable and unfavourable sides, its archetype, and how
-  to read it in a spread.'
+  relay, connection.'
 translationKey: sign-gemini
 type: library
 navTitle: Gemini

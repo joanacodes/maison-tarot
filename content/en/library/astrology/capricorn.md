@@ -2,8 +2,7 @@
 title: 'Capricorn in astrology and tarot: its card (The Devil), its energy, its archetype'
 description: 'The sign of Capricorn read as a tarot lens: its card The Devil, its
   verb ''I use'', Saturn, Earth, cardinal mode, feminine energy. Leadership, calm,
-  teaching, work. Its favourable and unfavourable sides, its archetype, and how to
-  read it in a spread.'
+  teaching, work.'
 translationKey: sign-capricorn
 type: library
 navTitle: Capricorn

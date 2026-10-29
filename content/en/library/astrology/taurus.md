@@ -2,8 +2,7 @@
 title: 'Taurus in astrology and tarot: its card (The Hierophant), its energy, its archetype'
 description: 'The sign of Taurus read as a tarot lens: its card The Hierophant, its verb
   ''I have'', Venus, Earth, fixed mode, feminine energy. Guardian energy, beauty,
-  stability. Its favourable and unfavourable sides, its archetype, and how to read
-  it in a spread.'
+  stability.'
 translationKey: sign-taurus
 type: library
 navTitle: Taurus

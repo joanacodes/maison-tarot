@@ -3,8 +3,7 @@ title: 'Cancer in astrology and tarot: its card (The Chariot), its energy,
   its archetype'
 description: 'The sign of Cancer read as a tarot lens: its card The Chariot,
   its verb ''I feel'', Moon, Water, cardinal mode, feminine energy. Nurturer, director,
-  protector, very strong intuition. Its favourable and unfavourable sides, its archetype,
-  and how to read it in a spread.'
+  protector, very strong intuition.'
 translationKey: sign-cancer
 type: library
 navTitle: Cancer

@@ -2,8 +2,7 @@
 title: 'Aries in astrology and tarot: its card (The Emperor), its energy, its archetype'
 description: 'The sign of Aries read as a tarot lens: its card The Emperor, its verb
   ''I am'', Mars, Fire, cardinal mode, masculine energy. Impulse, the soldier, the
-  warrior, the doer — the bricklayer rather than the architect. Its favourable and
-  unfavourable sides, its archetype, and how to read it in a spread.'
+  warrior, the doer — the bricklayer rather than the architect.'
 translationKey: sign-aries
 type: library
 navTitle: Aries

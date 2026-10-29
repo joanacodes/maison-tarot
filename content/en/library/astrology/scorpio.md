@@ -2,8 +2,7 @@
 title: 'Scorpio in astrology and tarot: its card (Death), its energy, its archetype'
 description: 'The sign of Scorpio read as a tarot lens: its card Death, its verb ''I
   desire'', Pluto, Water, fixed mode, feminine energy. Intensity, observation, healing
-  — and the sting. Its favourable and unfavourable sides, its archetype, and how to
-  read it in a spread.'
+  — and the sting.'
 translationKey: sign-scorpio
 type: library
 navTitle: Scorpio

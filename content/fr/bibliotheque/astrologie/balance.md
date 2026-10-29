@@ -3,8 +3,7 @@ title: 'Balance en astrologie et au tarot : sa carte (La Justice), son énergie,
   archétype'
 description: 'Le signe du Balance lu comme une clé de lecture du tarot : sa carte
   La Justice, son verbe « J’équilibre », Vénus, Air, mode cardinal, énergie masculine.
-  Diplomatie. Ses côtés favorables et défavorables, son archétype, et comment le lire
-  dans un tirage.'
+  Diplomatie.'
 translationKey: sign-libra
 type: library
 navTitle: Balance

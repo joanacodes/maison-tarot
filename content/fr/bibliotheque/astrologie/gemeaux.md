@@ -3,8 +3,7 @@ title: 'Gémeaux en astrologie et au tarot : sa carte (Les Amoureux), son énerg
   son archétype'
 description: 'Le signe du Gémeaux lu comme une clé de lecture du tarot : sa carte
   Les Amoureux, son verbe « Je pense », Mercure, Air, mode mutable, énergie masculine.
-  Communication, échanges, relais, connexion. Ses côtés favorables et défavorables,
-  son archétype, et comment le lire dans un tirage.'
+  Communication, échanges, relais, connexion.'
 translationKey: sign-gemini
 type: library
 navTitle: Gémeaux

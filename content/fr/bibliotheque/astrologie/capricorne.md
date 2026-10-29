@@ -3,8 +3,7 @@ title: 'Capricorne en astrologie et au tarot : sa carte (Le Diable), son énergi
   son archétype'
 description: 'Le signe du Capricorne lu comme une clé de lecture du tarot : sa carte
   Le Diable, son verbe « J’utilise », Saturne, Terre, mode cardinal, énergie féminine.
-  Leadership, calme, enseignement, travail. Ses côtés favorables et défavorables,
-  son archétype, et comment le lire dans un tirage.'
+  Leadership, calme, enseignement, travail.'
 translationKey: sign-capricorn
 type: library
 navTitle: Capricorne

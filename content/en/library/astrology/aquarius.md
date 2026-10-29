@@ -2,8 +2,7 @@
 title: 'Aquarius in astrology and tarot: its card (The Star), its energy, its archetype'
 description: 'The sign of Aquarius read as a tarot lens: its card The Star, its verb
   ''I know'', Uranus, Air, fixed mode, masculine energy. Creativity, eccentricity,
-  omnipresence. Its favourable and unfavourable sides, its archetype, and how to read
-  it in a spread.'
+  omnipresence.'
 translationKey: sign-aquarius
 type: library
 navTitle: Aquarius

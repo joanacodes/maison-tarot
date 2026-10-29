@@ -2,8 +2,7 @@
 title: 'Pisces in astrology and tarot: its card (The Moon), its energy, its archetype'
 description: 'The sign of Pisces read as a tarot lens: its card The Moon, its verb
   ''I believe'', Neptune, Water, mutable mode, feminine energy. Calm, focus, wisdom,
-  listening, emotion, help — and the strange, the mysterious, the withdrawn. Its favourable
-  and unfavourable sides, its archetype, and how to read it in a spread.'
+  listening, emotion, help — and the strange, the mysterious, the withdrawn.'
 translationKey: sign-pisces
 type: library
 navTitle: Pisces
