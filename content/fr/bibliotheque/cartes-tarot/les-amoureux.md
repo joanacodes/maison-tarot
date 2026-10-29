@@ -99,4 +99,4 @@ Dans un tirage imaginé pour s’exercer, les Amoureux tombent à côté du [Deu
 
 Au carrefour, je dirais : « Un choix vous attend, et vous ménagez la chèvre et le chou pour ne pas avoir à trancher. »
 
-Je testerais la phrase ainsi : y a-t-il quelque chose dont vous gardez deux versions pour ne renoncer à aucune ? Si ça tombe juste, la question suivante, c’est laquelle la personne garderait s’il fallait décider ce soir. Si elle n’hésite entre rien, j’ai lu un carrefour qui n’existe pas, et je le dis.
+Je testerais la phrase ainsi : y a-t-il quelque chose dont vous gardez deux versions pour ne renoncer à aucune ? Si ça tombe juste, la question suivante, c’est laquelle la personne garderait s’il fallait décider ce soir. Si elle n’a rien à trancher, j’ai lu un carrefour qui n’existe pas, et je le dis.

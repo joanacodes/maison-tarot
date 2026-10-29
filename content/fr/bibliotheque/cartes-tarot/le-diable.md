@@ -96,4 +96,4 @@ Deux 6 : le 15 se ramène à 6, comme le Six de Coupes — une harmonie conforta
 
 Ma proposition de phrase : « Une habitude prise il y a longtemps parce qu’elle vous protégeait — ou un rôle dans la famille — vous tient encore, et c’est plus lâche que vous ne le croyez. »
 
-Ensuite, demandez si cela évoque à la personne quelque chose qu’elle fait sans l’avoir décidé, et laissez-la le nommer. Si rien ne la tient de cette façon, notez un raté, sans en avoir honte.
+Ensuite, demandez à la personne si cela lui rappelle quelque chose qu’elle fait sans l’avoir décidé, et laissez-la le nommer. Si rien ne la tient de cette façon, notez un raté, sans en avoir honte.

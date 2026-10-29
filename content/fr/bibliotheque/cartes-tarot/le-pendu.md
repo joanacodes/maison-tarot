@@ -67,7 +67,7 @@ Bilan de la palette : une énergie en suspens, des sentiments apaisés, et une t
 
 Pour la Golden Dawn, cette carte appartenait à l’élément Eau lui-même ; le lien avec [Neptune](/fr/bibliotheque/astrologie/neptune/) est venu plus tard, chez les lecteurs modernes, et il tient. Neptune, c’est le rêve, l’intuition, l’illusion, le flou entre soi et le reste.
 
-Je m’en méfie un peu, parce que c’est le placement qu’on utilise le plus pour excuser ce qu’on ne veut pas regarder. Je le lis à la manière du Pendu : un point de vue à retourner, pas un brouillard où s’installer. Sans astrologie, la carte se lit tout aussi bien : il suffit de retourner la tête avec lui.
+Je m’en méfie un peu, parce que c’est le placement qu’on utilise le plus pour excuser ce qu’on ne veut pas regarder. Je le lis à la manière du Pendu : un point de vue à retourner, pas un brouillard où s’installer. Sans astrologie, la carte se lit tout aussi bien, à condition de retourner la tête avec lui.
 
 ## En lecture {#lecture}
 
