@@ -45,9 +45,9 @@ Depuis, les impressions dures vont sur une étagère dans ma tête, avec une ét
 2. Parlez de maintenant, pas de plus tard. « Il y a une blessure ici » plutôt que « vous allez être blessé ».
 3. Demandez au lieu d’annoncer. « Est-ce que ça ressemble à quelque chose que vous vivez, ou à quelque chose de passé ? »
 4. Donnez honnêtement l’autre face de la carte. Pas du sucre : son propre plus.
-5. Rendez la décision. Je lis ; vous décidez.
+5. Rendez la décision. Ce qu’on fait d’une carte dure, c’est la personne qui le choisit, pas vous.
 
-Voici la différence en pratique. Version dure : « Cette relation est finie. La Tour le dit. » Version douce : « Je vois quelque chose qui tremble ici, quelque chose qui avait l’air solide. Ça peut faire mal, et ça peut aussi vous montrer ce qui tenait vraiment l’ensemble. Est-ce que ça vous parle ? »
+Voici la différence en pratique. Version dure : « Cette relation est finie. La Tour le dit. » Version douce : « Je vois quelque chose qui tremble ici, quelque chose qui avait l’air solide. Ça peut faire mal, et ça peut aussi vous montrer ce qui tenait vraiment l’ensemble. Qu’est-ce qui, chez vous, tient bon en ce moment ? »
 
 **Une chose dure dite avec douceur reste vraie ; dite durement, elle n’en est pas plus honnête.**
 

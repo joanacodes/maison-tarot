@@ -15,7 +15,7 @@ summary: "Une lecture gratuite à la Maison, c’est une leçon en public : vous
 
 ## Comment se passe un événement à la Maison {#comment}
 
-Vous vous inscrivez. Le soir, quelques personnes sont tirées au sort — six, en général. Chacune reçoit une lecture d’une dizaine de minutes, devant tout le monde, et voici la règle qui donne sa valeur à l’exercice : **vous ne me dites rien.** Ni votre question, ni votre situation. Je tire, je dis ce qui vient, et je m’attends à dire n’importe quoi, parce que [c’est la méthode](/fr/methode/).
+Vous vous inscrivez. Le soir, quelques personnes sont tirées au sort — six, en général. Chacune reçoit une lecture d’une dizaine de minutes, devant tout le monde, et voici la règle qui donne sa valeur à l’exercice : **je ne sais rien de vous avant de tirer.** Ni votre question, ni votre situation. Je tire, je dis ce qui vient, et je m’attends à dire n’importe quoi, parce que [c’est la méthode](/fr/methode/).
 
 Puis vous me dites si ça a pris. Si oui, tant mieux. Sinon, je dis « celle-là est ratée », ça va dans le carnet, et on passe à la personne suivante. Les autres regardent, posent des questions, apprennent — c’est le but de le faire en public. C’est une lecture, mais c’est aussi une leçon.
 

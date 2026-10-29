@@ -65,7 +65,7 @@ The Marseille, if the people who'll teach you read it, if numbers speak to you, 
 
 The Rider-Waite-Smith, if you want to read without a book from the first card. It's the deck I read and teach with, and the one the whole Maison Tarot Library is built on, because every card is a scene.
 
-My honest limit: the notebook where I count my hits and misses was kept with the Rider-Waite-Smith, so I have nothing to say about which deck “works better”, and I'd be wary of anyone who claims to know. Don't take my words as ultimate truth. Test it and experience it for yourself.
+My honest limit: the notebook where I count my hits and misses was kept with the Rider-Waite-Smith, so I have nothing to say about which deck “works better”, and I'd be wary of anyone who claims to know.
 
 ## Try both on the same card {#try-both}
 

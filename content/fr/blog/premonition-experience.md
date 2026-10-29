@@ -49,7 +49,7 @@ Quand je regarde la chose calmement, je vois au moins trois façons de la lire. 
 
 ## Pourquoi je laisse la question ouverte {#question-ouverte}
 
-Tout n’est pas une affaire d’esprits. Cette histoire n’en contient même pas. Pas de fantôme ici : seulement mon père, à Paris, à son temple, qui pensait à moi. Quand on entend ce genre de récit, on attrape volontiers l’explication la plus spectaculaire. Je préfère laisser à cette histoire sa vraie taille : étrange, et petite.
+Il n’y a pas d’esprit dans cette histoire, pas de fantôme : seulement mon père, à Paris, à son temple, qui pensait à moi. Quand on entend ce genre de récit, on attrape volontiers l’explication la plus spectaculaire. Je préfère laisser à cette histoire sa vraie taille : étrange, et petite.
 
 Forcer une conclusion coûte quelque chose, dans un sens comme dans l’autre. Faites-en une preuve, et vous commencez à bâtir des croyances sur un seul instant, en guettant le suivant. Balayez-la, et vous jetez quelque chose qui a compté. Laisser la question ouverte, ce n’est pas de l’indécision. C’est la chose la plus exacte que je puisse dire.
 

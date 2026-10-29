@@ -19,7 +19,7 @@ Oui. Se tirer les cartes, c’est mélanger, tirer et interpréter des cartes su
 
 Vous avez peut-être entendu le contraire : que ça porte malheur, que quelqu’un d’autre doit mélanger, qu’on ne peut pas se lire soi-même parce qu’on est trop impliqué. Les deux premières idées sont des habitudes que certains gardent, pas des règles. La troisième contient une part de vrai, et c’est de cette part de vrai que parle la suite.
 
-L’entrée est modeste. Une carte par jour. Décrivez ce qu’il y a dessus, ce que vous voyez, ce qui vous vient. Puis trois cartes, puis davantage. Imaginons que vous tiriez le Valet de Pentacles un mardi matin : un jeune homme debout dans un champ vert, qui tient un seul pentacle à hauteur des yeux et le regarde attentivement. Pas besoin d’un livre pour dire « aujourd’hui, je regarde une seule chose de près ». C’est une lecture. Une petite, et la vôtre.
+L’entrée est modeste. Une carte par jour, que vous décrivez avant de lui chercher un sens. Puis trois cartes, puis davantage. Imaginons que vous tiriez le Valet de Pentacles un mardi matin : un jeune homme debout dans un champ vert, qui tient un seul pentacle à hauteur des yeux et le regarde attentivement. Pas besoin d’un livre pour dire « aujourd’hui, je regarde une seule chose de près ». C’est une lecture. Une petite, et la vôtre.
 
 Ce que le tirage pour soi vous apporte : de la pratique chaque jour sans avoir besoin de personne, une façon d’apprivoiser le jeu carte après carte, et — utilisé avec légèreté — un petit bilan de votre humeur et de votre état d’esprit, les pieds sur terre. Ce qu’il ne vous apporte pas, c’est quelqu’un pour vous dire que vous vous trompez.
 
@@ -81,7 +81,7 @@ Se tirer les cartes est un bon entraînement. Ça peut aussi devenir une habitud
 
 - Quelque chose vous bouleverse et vous voulez que les cartes vous apaisent. Vous lirez le bouleversement, pas la carte.
 - Vous avez posé la même question plus de deux fois dans le mois. Ce n’est plus lire, c’est attendre une permission. J’en parle dans [ce que les tirages à répétition vous font](/fr/blog/combien-de-temps-entre-deux-tirages/).
-- Vous attendez qu’une carte prenne une décision que vous pourriez prendre aujourd’hui. Le tarot n’est pas une autorité. Agissez selon ce que vous ressentez.
+- Vous attendez qu’une carte prenne une décision que vous pourriez prendre aujourd’hui. Rangez le jeu et prenez-la vous-même : elle vous revient.
 - Les cartes tiennent la place d’une personne : une amie que vous n’avez pas appelée, un médecin à qui vous n’avez pas encore parlé, un ou une thérapeute. Parfois, ce qui se passe est d’ordre psychologique, et la bonne porte n’est pas un jeu de cartes. Il n’y a aucun échec à la franchir.
 
 Dans chacun de ces cas, quelques semaines sans les cartes font plus qu’un tirage de plus. Vous avez besoin de vous faire confiance, de décider, de vous tromper et de vivre avec un peu d’imperfection — et ces muscles-là ne se développent que quand le jeu ne porte pas la charge à votre place.
@@ -90,6 +90,6 @@ Dans chacun de ces cas, quelques semaines sans les cartes font plus qu’un tira
 
 Se tirer les cartes vous apprend le jeu. Lire pour quelqu’un d’autre vous apprend si vous savez lire. Seule une autre personne peut s’asseoir en face, se taire, puis vous dire ce qui a touché juste et ce qui est tombé à côté.
 
-Alors, après quelques semaines d’une carte chaque matin, trouvez une personne : une amie capable de garder un visage de joueur de poker, un inconnu dans un groupe de tarot, une correspondante. Tirez une carte, dites ce que vous voyez, et ne laissez la personne parler qu’à la fin. La première fois que vous direz quelque chose de vrai sur quelqu’un qui ne vous a rien dit, et que la surprise sera des deux côtés de la table, vous comprendrez pourquoi j’enseigne. On ne peut pas vous dire ce que ça fait. On peut seulement essayer.
+Alors, après quelques semaines d’une carte chaque matin, trouvez une personne : une amie capable de garder un visage de joueur de poker, un inconnu dans un groupe de tarot, une correspondante. Tirez une carte, dites ce que vous voyez, et ne laissez la personne parler qu’à la fin. La première fois que vous direz quelque chose de vrai sur quelqu’un qui ne vous a rien dit, et que la surprise sera des deux côtés de la table, vous comprendrez pourquoi j’enseigne.
 
 Si vous ne savez pas où chercher, voici [où trouver des personnes à qui tirer les cartes, et qui ne vous disent rien](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/).

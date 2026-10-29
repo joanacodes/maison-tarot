@@ -37,9 +37,9 @@ Beaucoup de tarologues utilisent des cartes de clarification, et certains avec s
 
 ## Ce que je fais quand une lecture ne tient pas {#quand-ca-rate}
 
-À mon propre décompte, environ une lecture sur dix rate. Quand la personne me dit « non, rien de tout ça », je dis « celle-là est ratée », je le note, et je ne retire pas de carte. Un raté est un raté.
+À mon propre décompte, environ une lecture sur dix rate. Quand la personne me dit « non, rien de tout ça », je dis « celle-là est ratée », je le note, et je ne retire pas de carte.
 
-Si je tirais une carte de clarification à ce moment-là, je ne lirais plus ; je négocierais. Et je perdrais le seul chiffre honnête dont je dispose. Mon décompte de ce qui a tenu et de ce qui n’a pas tenu n’a de sens que parce que les ratés restent des ratés. Compter est la colonne vertébrale de [ma méthode](/fr/methode/), et une seule lecture « sauvée » la fausserait sans bruit.
+Si je tirais une carte de clarification à ce moment-là, je ne lirais plus ; je négocierais. Et je perdrais le seul chiffre honnête dont je dispose. Mon décompte de ce qui a tenu et de ce qui n’a pas tenu n’a de sens que parce que je ne repêche aucun raté. Compter est la colonne vertébrale de [ma méthode](/fr/methode/), et une seule lecture « sauvée » la fausserait sans bruit.
 
 C’est aussi plus doux que ça en a l’air. La personne en face n’a pas à faire semblant qu’une troisième histoire lui parle pour me faire plaisir. Nous savons où nous en sommes, elle comme moi.
 

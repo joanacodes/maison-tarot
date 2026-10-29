@@ -45,7 +45,7 @@ It’s a gentle way to spend twenty minutes with new cards, and I can see why pe
 Fifteen minutes a day, with a notebook open beside you.
 
 1. *Day one: look at every card.* Face up, one by one, no reading. Notice which cards you like and which you’d rather skip. Write down three of each.
-2. *Day two: one card, described.* Draw one card. Describe what’s on it, what you see, what you receive. Write that down before you interpret anything.
+2. *Day two: one card, described.* Draw one card. Describe it in three passes: what this artist drew, what you notice first, what comes to mind. Write that down before you interpret anything.
 3. *Day three: one card, through its colours.* Which colour dominates? This is where a new deck differs most, and a change of palette changes the reading; the [colour grid](/library/tarot-colours/) shows how.
 4. *Day four: compare.* Put the same card from two decks side by side — the new one and one you know. What did the artist keep, add, leave out?
 5. *Day five: three cards.* One row, read as one sentence. Note the elements and the numbers.

@@ -65,4 +65,4 @@ Les positions qui ont vraiment tenu, à 75-90 %, étaient trois autres : [Saturn
 
 Trouvez la carte de votre ascendant dans [la table des douze signes](/fr/bibliotheque/astrologie/) et sortez-la du jeu. Montrez-la à quelqu’un qui vous connaît depuis moins d’un an, et posez une seule question : « C’est comme ça que je t’ai paru, la première fois ? »
 
-Notez la carte, sa réponse, et votre propre coche ou croix. Faites ensuite la même chose avec la carte de votre signe solaire, et comparez les deux pages. Ne prenez pas mes mots pour une vérité absolue. Testez, et faites-en l’expérience vous-même.
+Notez la carte, sa réponse, et votre propre coche ou croix. Faites ensuite la même chose avec la carte de votre signe solaire, et comparez les deux pages.

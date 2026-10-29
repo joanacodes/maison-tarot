@@ -49,9 +49,9 @@ Regardez ce qui manque : personne. Pas de visage, pas de corps, rien qui dise à
 
 ## Par le nombre : un {#nombre}
 
-**un — le début, le diamant brut.** Un As est un [1](/fr/bibliotheque/numerologie/chiffre-1/) : le début d’un cycle, plein de valeur et pas encore utilisable. C’est exactement cette branche. Elle vit, elle pousse, et vous ne pouvez rien en faire aujourd’hui — ce n’est ni une torche ni un outil. C’est du bois brut.
+Un As est un [1](/fr/bibliotheque/numerologie/chiffre-1/) : le début d’un cycle, plein de valeur et pas encore utilisable. C’est exactement cette branche. Elle vit, elle pousse, et vous ne pouvez rien en faire aujourd’hui — ce n’est ni une torche ni un outil. C’est du bois brut.
 
-Mon conseil devant un 1, c’est l’humilité : préparez-vous à apprendre. Avec cette carte, il compte plus que d’habitude, parce que le Feu déteste être débutant. L’élan dit « je sais où ça va » ; le nombre répond « vous êtes à la première page ». Pensez à Burbn devenu Instagram : une seule fonction qui marchait, et aucune preuve encore qu’elle valait quelque chose. Le revers du 1, c’est de faire comme si le diamant était déjà taillé.
+Avec cette carte, l’humilité que je demande devant tout 1 — se préparer à apprendre — compte plus que d’habitude, parce que le Feu déteste être débutant. L’élan dit « je sais où ça va » ; le nombre répond « vous êtes à la première page ». Pensez à Burbn devenu Instagram : une seule fonction qui marchait, et aucune preuve encore qu’elle valait quelque chose. Le revers du 1, c’est de faire comme si le diamant était déjà taillé.
 
 ## Par l’élément : Feu {#element}
 
@@ -67,7 +67,7 @@ Ensemble, avant toute signification : quelque chose de chaud et de vivant, tendu
 
 ## Par l’astrologie : Racine du Feu {#astrologie}
 
-Dans le système de la Golden Dawn, les mineurs du Deux au Dix reçoivent chacun un décan, une planète dans un signe. Pas les As : chacun est la « racine » de son élément, et celui-ci porte le titre de Racine des Pouvoirs du Feu (Root of the Powers of Fire). Ce n’est pas une position qu’on trouve dans un thème natal ; c’est la source où puise toute la famille, du Deux en Bélier au Dix en Sagittaire.
+Dans le système de la Golden Dawn, les mineurs du Deux au Dix reçoivent chacun un décan, une planète dans un signe. Pas les As : chacun est la racine de son élément, et celui-ci, la racine du Feu. Ce n’est pas une position qu’on trouve dans un thème natal ; c’est la source où puise toute la famille, du Deux en Bélier au Dix en Sagittaire.
 
 Si l’[astrologie](/fr/bibliotheque/astrologie/) vous parle, gardez l’image de la racine. Sinon, vous ne perdez rien : les autres clés de lecture l’ont déjà dit.
 
@@ -83,7 +83,7 @@ Renversé, la branche reste dans le nuage : le même projet raconté au dîner p
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire l’As de Bâtons à côté du Sept de Coupes. Les clés de lecture d’abord. Le nombre : un, puis sept — quelque chose commence, puis vient une pause pour peser. L’élément : le Feu, puis l’Eau — un élan, puis la rêverie. Les couleurs : l’orange et le vert, chauds, puis une silhouette sombre face à des coupes posées sur des nuages. Du net au flou.
+Supposons que l’As de Bâtons sorte avec le Sept de Coupes à côté : une seule branche vivante, puis sept coupes posées sur des nuages. Le nombre : un, puis sept — quelque chose commence, puis vient une pause pour peser. L’élément : le Feu, puis l’Eau — un élan, puis la rêverie. Les couleurs : l’orange et le vert, chauds, puis une silhouette sombre face à des coupes posées sur des nuages. Du net au flou.
 
 La phrase que je dirais à voix haute : « Vous avez une idée qui a très envie de démarrer, et vous savez laquelle. Mais il y en a plusieurs autour, et vous dépensez votre énergie à les regarder toutes au lieu d’en faire pousser une. »
 

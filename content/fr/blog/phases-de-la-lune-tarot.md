@@ -49,7 +49,7 @@ C’est aussi pour ça que je tiens à [la règle du silence](/fr/blog/regle-du-
 
 ## Comment le tester vous-même {#tester}
 
-Ne prenez pas mes mots pour une vérité absolue : testez, et faites-en l’expérience vous-même. Voici comment je m’y prendrais.
+Il vous faut un carnet, un calendrier et trois mois de patience.
 
 1. Ajoutez une colonne à votre [carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) : date, cartes, ce que vous avez dit, ce qui a été confirmé, coche ou croix. Laissez une colonne vide pour la phase.
 2. Ne regardez pas la phase au moment de lire. Remplissez cette colonne après coup, d’un seul coup, avec un calendrier. Si vous savez que c’est la pleine lune, vous lirez autrement — et vous jugerez autrement.

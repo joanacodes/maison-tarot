@@ -100,7 +100,7 @@ J’enseigne cinq clés de lecture. Les deux dernières affinent l’image une f
 
 Elles vous donnent le ton, l’étape et le domaine. Elles ne vous donnent pas l’histoire. Celle-ci vient de la scène dessinée, des cartes voisines dans le tirage, de ce qui monte quand vous regardez — et de la personne en face qui dit oui ou non.
 
-Et aucune antisèche ne peut vous dire si vous aviez raison. Ne prenez pas mes mots pour une vérité absolue : testez-les, faites-en l’expérience vous-même.
+Et aucune antisèche ne peut vous dire si vous aviez raison.
 
 ## Tout garder sur une page {#sur-une-page}
 

@@ -23,7 +23,7 @@ Les cartes voisines se lisent de la même façon.
 
 {{< cards "cu05 pe05 sw08" >}}
 
-Le Cinq de Pentacles montre deux silhouettes dans la neige qui passent devant le vitrail éclairé d’une église : la pauvreté, le froid, et l’endroit où l’on aurait pu trouver de la chaleur. Le Huit d’Épées montre une silhouette aux yeux bandés, entourée d’épées, ligotée mais les pieds libres : prisonnière d’elle-même alors qu’elle a tous les outils. Personne n’a besoin de vous l’apprendre. Vous le voyez.
+Sur le Cinq de Pentacles, deux personnes avancent sous la neige, l’une sur des béquilles, et longent une fenêtre d’église tout éclairée : vous avez froid pour elles avant de connaître le moindre sens. Le Huit d’Épées montre une silhouette aux yeux bandés, entourée d’épées, ligotée mais les pieds libres : prisonnière d’elle-même alors qu’elle a tous les outils. Personne n’a besoin de vous l’apprendre. Vous le voyez.
 
 **Une scène, on la lit dès le premier soir ; un symbole, il faut d’abord l’apprendre.** C’est toute la raison pour laquelle je fais commencer par là.
 

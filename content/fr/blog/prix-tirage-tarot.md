@@ -60,6 +60,6 @@ Certaines choses se vendent comme un supplément et ne devraient pas :
 
 Je ne vends pas de tirages, donc je suis en dehors de ce marché. Je vends des cours — des séances individuelles d’une heure, des ateliers de trois heures pour douze personnes — et les tirages sont gratuits aux événements. Le détail est dans [ce que je fais payer et ce que je donne](/fr/blog/ce-que-je-fais-payer/), et la raison de ce choix, avec ce que l’argent fait à une pratique, dans [le tarot doit-il être gratuit ?](/fr/blog/commercialisation-du-tarot/).
 
-Une limite honnête : aucune grille tarifaire ne vous dira ce qu’un tirage vaut pour vous. Ça dépend de ce que vous en faites ensuite, et un tirage n’est pas une raison d’agir. Agissez selon ce que vous ressentez.
+Une limite honnête : aucune grille tarifaire ne vous dira ce qu’un tirage vaut pour vous. Ça dépend de ce que vous en faites ensuite, et un tirage n’est pas une raison d’agir.
 
 Si vous voulez voir un tirage avant de payer pour un seul, [venez à un événement gratuit](/fr/evenements/). Les personnes sont tirées au sort, elles ne me disent rien, et les ratés sont dits à voix haute.

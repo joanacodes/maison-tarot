@@ -63,4 +63,4 @@ Je ne lis pas sur la santé, et je ne donne pas de conseils sur les substances ;
 
 Commencez par la petite taille. Dix minutes de [méditation pour celles et ceux qui pensent ne pas savoir méditer](/fr/blog/commencer-la-meditation/) : ne rien faire, lâcher le contrôle, ce qui est plus dur qu’il n’y paraît. Un dessin que vous ne montrez à personne. Une carte lue à voix haute pour un ami qui ne vous a rien dit.
 
-On ne peut pas vous raconter ce que ça fait. On peut seulement essayer. Si vous voulez essayer avec d’autres personnes dans la pièce, les [ateliers](/fr/ateliers/) commencent par une carte dans les dix premières minutes, avant toute explication.
+Pour tenter la petite taille avec d’autres personnes dans la pièce, les [ateliers](/fr/ateliers/) commencent par une carte dans les dix premières minutes, avant toute explication.

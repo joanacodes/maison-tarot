@@ -50,7 +50,7 @@ What’s missing is a person. Nobody owns the hand, nobody drinks. The same [han
 
 ## By number: one {#number}
 
-**one — the beginning, the rough diamond.** An Ace is a 1, and a 1 is the start of a cycle: precious, and not usable yet. Here it’s a feeling at its very first stage — a love that’s starting, a friendship you didn’t expect, a heart opening again after a closed season. It already has its full value. It has no shape.
+An Ace is a 1, and a 1 is the start of a cycle: precious, and not usable yet. Here it’s a feeling at its very first stage — a love that’s starting, a friendship you didn’t expect, a heart opening again after a closed season. It already has its full value. It has no shape.
 
 The advice of [number one](/library/numerology/number-1/) is humility: get ready to learn. Instagram began as Burbn, an app that didn’t really work; a new feeling is the same — you don’t know yet what it’s for. The minus of 1 is deciding the ending on page one: “this is the one”, after a single coffee.
 

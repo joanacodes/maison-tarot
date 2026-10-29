@@ -142,4 +142,4 @@ Renversé, un majeur est la même lame ralentie, bloquée ou en excès : l’Erm
 
 ## Et maintenant ? {#la-suite}
 
-Choisissez ce soir la famille de la semaine et posez-la sur la table. Quand les 22 vous seront familières, le [parcours pour apprendre le tarot](/fr/apprendre-le-tarot/) remet les mêmes clés de lecture dans l’ordre pour tout le jeu, une à la fois. Et quoi que vous lisiez ici, ne prenez pas mes mots pour une vérité absolue : testez, et faites-en l’expérience vous-même.
+Choisissez ce soir la famille de la semaine et posez-la sur la table. Quand les 22 vous seront familières, le [parcours pour apprendre le tarot](/fr/apprendre-le-tarot/) remet les mêmes clés de lecture dans l’ordre pour tout le jeu, une à la fois.

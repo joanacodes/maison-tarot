@@ -29,7 +29,7 @@ Quand ça arrive, les cartes ne sont plus le sujet. Ce que la personne veut, c�
 
 J’y ai beaucoup pensé, parce que je l’ai vue chez d’autres et sentie chez moi. Ce n’est jamais une histoire de cartes. **C’est une recherche de validation extérieure.** Quelque chose en vous sait déjà ce que vous pensez ; vous ne lui faites pas confiance ; vous cherchez une voix — n’importe laquelle — qui le dira à voix haute pour que vous n’ayez pas à l’assumer.
 
-Le tarot est dangereux ici précisément parce qu’il marche. Si c’était n’importe quoi, vous vous lasseriez. Comme ça tombe juste neuf fois sur dix, il est facile de croire que la dixième sera celle qui prendra enfin la décision à votre place. Non. [Le tarot n’est pas une autorité.](/fr/avertissements/#lectures) Agissez sur ce que vous ressentez, pas sur ce qu’une carte a dit.
+Le tarot est dangereux ici précisément parce qu’il marche. Si c’était n’importe quoi, vous vous lasseriez. Comme ça tombe juste neuf fois sur dix, il est facile de croire que la dixième sera celle qui prendra enfin la décision à votre place. Non. [Aucune lecture ne décide pour vous.](/fr/avertissements/#lectures) Agissez sur ce que vous ressentez, pas sur ce qu’une carte a dit.
 
 ## Le test {#le-test}
 

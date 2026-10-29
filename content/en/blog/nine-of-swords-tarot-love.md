@@ -21,7 +21,7 @@ Look at where the swords are. They hang on the wall above the bed, lined up and 
 
 The number is 9: the finish line, the end of a stage, last efforts — and keep moving. Nine isn’t ten. The cycle hasn’t closed, but it’s close, which is why I read this card as the end of a bad stretch rather than its beginning. The night is long, and it’s nearly over.
 
-The element is Air, the mind. When it works, it decides; when it doesn’t, it blocks or obsesses. At 3 a.m., Air spins: a thought becomes a scenario, the scenario becomes a certainty, and none of it has met daylight. The energy is masculine, the urge to act — send the message, check the phone, settle it now — at the one hour when nothing useful can be done. [The Nine of Swords page](/library/tarot-cards/nine-of-swords/) has the other lenses.
+Swords belong to Air, the mind. When it works, it decides; when it doesn’t, it blocks or obsesses. At 3 a.m., Air spins: a thought becomes a scenario, the scenario becomes a certainty, and none of it has met daylight. The energy is masculine, the urge to act — send the message, check the phone, settle it now — at the one hour when nothing useful can be done. [The Nine of Swords page](/library/tarot-cards/nine-of-swords/) has the other lenses.
 
 ## “Is he cheating on me?” at 3 a.m. {#at-3am}
 
@@ -43,7 +43,7 @@ After a break-up, it’s “what if I’d said…” on a loop, at the hour when
 
 ## When the worry follows you into the day {#into-the-day}
 
-Reversed, the same card slows down or goes too far. Slowed in the good direction, the hands come down from the face: the first night you sleep through, the morning you notice the worry has shrunk. That’s the nightmare ending.
+Reversed, this card either slows the worry down or lets it spill over. Slowed in the good direction, the hands come down from the face: the first night you sleep through, the morning you notice the worry has shrunk. That’s the nightmare ending.
 
 In excess, the worry leaks out of the night into the day. Checking someone’s phone, needing reassurance every hour — or the opposite, telling everyone you’re fine when you haven’t slept properly in weeks. If nights like that go on, a doctor or a therapist is the right door, and there’s no shame in knocking ([where the cards stop](/disclaimers/#therapy)).
 

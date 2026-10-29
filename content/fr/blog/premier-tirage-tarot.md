@@ -9,7 +9,7 @@ tags: ["premier tirage tarot", "tirage faux", "tirage raté", "tirer les cartes 
 image: "covers/first-tarot-reading-story.jpg"
 imageAlt: "Un téléphone à l’écran éteint posé à côté d’un carnet ouvert et d’un jeu de cartes fermé, sur une table en bois"
 imagePrompt: "A phone with a dark blank screen lying face up beside an open notebook and a closed deck of cards on a wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Mon premier tirage pour une inconnue, sur un serveur Discord trouvé via Tumblr, portait sur une relation. Elle m’a répondu que ça ne lui parlait pas : elle ne cherchait pas de relation. Ce jour-là, c’était un raté. Trois ou quatre jours plus tard, elle m’a écrit, secouée. Tout était arrivé, et le tirage avait aussi montré quelque chose de moins flatteur : elle n’avait pas été gentille avec l’autre personne. Ce que l’histoire enseigne : notez ce que vous avez dit, laissez le raté tel quel, et attendez. Parfois un raté reste un raté. Parfois la personne revient."
+summary: "Mon premier tirage pour une inconnue, sur un serveur Discord trouvé via Tumblr, portait sur une relation. Elle m’a répondu que ça ne lui parlait pas : elle ne cherchait pas de relation. Ce jour-là, c’était un raté. Trois ou quatre jours plus tard, elle m’a écrit, secouée. Tout était arrivé, et le tirage avait aussi montré quelque chose de moins flatteur : elle n’avait pas été gentille avec l’autre personne. Ce que l’histoire enseigne : notez ce que vous avez dit, laissez le raté tel quel, et attendez. Parfois, rien ne vient changer le raté. Parfois, la personne revient."
 ---
 Mon premier tirage pour une inconnue est tombé à côté. Elle m’a dit que ça ne lui parlait pas ; ce jour-là, c’était un raté. Trois ou quatre jours plus tard, elle m’a écrit, secouée : tout était arrivé. L’histoire ne prouve rien à elle seule, mais elle enseigne trois choses auxquelles je tiens toujours : noter ce qu’on dit, laisser un raté tel quel, et attendre.
 
@@ -33,7 +33,7 @@ L’amour n’est même pas le sujet où je suis le plus à l’aise ; les carri
 
 Il existe des façons de sauver ce moment-là, et tout tarologue en sent la tentation. On reformule : c’est peut-être quelqu’un que vous n’avez pas encore rencontré. On tire une carte de plus pour « clarifier ». On pose des questions jusqu’à ce que quelque chose colle. Chacune de ces manœuvres transforme un non net en peut-être, et un peut-être ne se vérifie jamais. J’ai écrit plus longuement sur [ce qu’il faut faire quand un tirage est faux](/fr/blog/tirage-faux-que-faire/), et ça revient surtout à le dire.
 
-Un raté est un raté. On le dit, on le note, on passe à la personne suivante.
+Un raté, on le dit, on le note, et on passe à la personne suivante.
 
 **Si vous discutez un « non » le jour même, le « oui » qui arrive plus tard ne vaut plus rien.** Le message reçu quelques jours après n’a de valeur que si personne ne l’a poussée vers lui. Un tarologue qui passe la soirée à convaincre quelqu’un que le tirage colle a aussi, sans bruit, écrit le message qu’il recevra la semaine suivante.
 

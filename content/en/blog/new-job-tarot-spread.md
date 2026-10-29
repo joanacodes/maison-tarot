@@ -21,7 +21,7 @@ Say you’ve joined a team where everyone seems busier than you. Without a frame
 
 ## The five positions {#positions}
 
-Lay five cards in a row, left to right.
+Deal the five cards side by side, one for each question below.
 
 1. *What this job asks of me.* Not the job description — the real demand, the one nobody wrote down.
 2. *What I bring that they haven’t seen yet.* A strength you haven’t had the chance to show.
@@ -59,6 +59,6 @@ The cards aren’t the right tool for them. Your manager isn’t in the room; a 
 
 Lay it at the end of your first week, when you have faces to put to the positions. Write the five cards down, with one sentence for each. Then put the deck away.
 
-Take a break from your cards now and then — and in a new job, that means not drawing a card every morning before you leave for work. Your first month needs your attention on the job, not on the table.
+Leave it there until the month is out. A card drawn every morning before work pulls your attention onto the table, and your first month needs it on the job.
 
 On the last day of the month, reread your five sentences and mark what held. If you’d like to learn the lenses I used here — rank, element, number — a [one-to-one session](/sessions/) goes through them in an hour, with your own cards.

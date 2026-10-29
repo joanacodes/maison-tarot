@@ -43,8 +43,8 @@ J’ai tenu ce carnet pendant environ trois cents lectures à l’aveugle, gratu
 
 Ce n’est pas le pourcentage qui m’a changée. Ce sont trois habitudes :
 
-1. Je m’attends à dire n’importe quoi. Plus la barre est basse, meilleure est la colonne de gauche.
-2. Je m’arrête quand c’est raté. Pas de deuxième carte pour rattraper, pas de reformulation. Un raté est un raté, et il va dans le carnet.
+1. Avant de tirer, je m’autorise à dire des bêtises. Plus la barre est basse, meilleure est la colonne de gauche.
+2. Je m’arrête quand c’est raté. Pas de deuxième carte pour rattraper, pas de reformulation. Le raté va dans le carnet tel quel.
 3. J’attends la colonne de droite. Certaines lectures ne se referment que des jours plus tard.
 
 ## Noter sa carte du jour {#carte-du-jour}

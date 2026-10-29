@@ -33,7 +33,7 @@ Le travail sur l’ombre, c’est s’occuper des choses qu’on repousse pour r
 
 Un tirage peut montrer la porte de cette cave. Disons que la Lune sort, ou le Cinq de Coupes : quelque chose n’est pas clair, ou une perte n’a pas fini d’être pleurée. La carte n’ouvre pas la porte à votre place ; elle vous montre qu’il y en a une. Il faut reconnaître le voile avant de pouvoir le retirer.
 
-C’est un travail difficile, et lent, même si le moment où l’on comprend peut être très rapide. Peut-on le faire avec un thérapeute ? Bien sûr, et c’est même souhaitable ; un tirage peut accompagner ce travail, jamais le remplacer. Pour commencer en douceur, [le travail sur l’ombre pour débuter](/fr/blog/travail-sur-lombre/) vous propose une carte par laquelle entrer.
+C’est un travail difficile, et lent, même si le moment où l’on comprend peut être très rapide. Le mieux est de le mener avec un thérapeute ; un tirage peut accompagner ce travail, jamais le remplacer. Pour commencer en douceur, [le travail sur l’ombre pour débuter](/fr/blog/travail-sur-lombre/) vous propose une carte par laquelle entrer.
 
 Et soyez aussi doux et tolérant avec vous-même qu’avec les autres. Cette partie-là compte plus que n’importe quelle carte.
 
@@ -62,4 +62,4 @@ Mais la date compte beaucoup moins que l’état dans lequel vous arrivez. Un ma
 4. Vous êtes prêt à entendre « celui-là est raté » sans reposer la question.
 5. Vous comptez prendre la décision vous-même, après.
 
-Quatre sur cinq, et c’est le bon moment. Faites une pause avec vos cartes de temps en temps ; quand vous y revenez, vous les entendez mieux. Je ne vends pas de tirages ; je les offre aux [événements gratuits](/fr/evenements/), où les personnes lues sont tirées au sort. Avant de venir, un petit guide des [bonnes manières d’un tirage](/fr/blog/savoir-vivre-tirage-tarot/) vous attend.
+Quatre sur cinq, et c’est le bon moment. Je ne vends pas de tirages ; je les offre aux [événements gratuits](/fr/evenements/), où les personnes lues sont tirées au sort. Avant de venir, un petit guide des [bonnes manières d’un tirage](/fr/blog/savoir-vivre-tirage-tarot/) vous attend.

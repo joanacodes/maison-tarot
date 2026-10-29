@@ -48,9 +48,9 @@ Notice what’s missing: nobody. No face, no body, nothing to say whose hand it 
 
 ## By number: one {#number}
 
-**one — the beginning, the rough diamond.** An Ace is a [1](/library/numerology/number-1/): the start of a cycle, full of value and not usable yet. That’s the branch exactly. It’s alive, it’s growing, and you can’t do anything with it today — it isn’t a torch or a tool. It’s raw wood.
+An Ace is a [1](/library/numerology/number-1/): the start of a cycle, full of value and not usable yet. That’s the branch exactly. It’s alive, it’s growing, and you can’t do anything with it today — it isn’t a torch or a tool. It’s raw wood.
 
-My advice with any 1 is humility: get ready to learn. With this card it matters more than usual, because Fire hates being a beginner. The urge says “I know where this goes”; the number says “you’re on page one”. Think of Burbn becoming Instagram: one feature that worked, and no proof yet it was worth anything. The minus of 1 is acting as if the diamond were already cut.
+With this card, the humility I ask of any 1 — get ready to learn — matters more than usual, because Fire hates being a beginner. The urge says “I know where this goes”; the number says “you’re on page one”. Think of Burbn becoming Instagram: one feature that worked, and no proof yet it was worth anything. The minus of 1 is acting as if the diamond were already cut.
 
 ## By element: Fire {#element}
 
@@ -66,7 +66,7 @@ Together, before any meaning: something warm and alive is held out above a green
 
 ## By astrology: Root of Fire {#astrology}
 
-In the Golden Dawn system, the minors from Two to Ten each receive a decan, a planet in a sign. The Aces don’t: each is the “root” of its element, and this one is titled the Root of the Powers of Fire. It isn’t a placement in a birth chart; it’s the source the rest of the suit draws from, from the Two in Aries to the Ten in Sagittarius.
+In the Golden Dawn system, the minors from Two to Ten each receive a decan, a planet in a sign. The Aces don’t: each is the root of its element, and this one is the root of Fire. It isn’t a placement in a birth chart; it’s the source the rest of the suit draws from, from the Two in Aries to the Ten in Sagittarius.
 
 If [astrology](/library/astrology/) speaks to you, keep the image of the root. If not, nothing is lost — the other lenses have said it.
 
@@ -82,7 +82,7 @@ Next to [the Magician](/library/tarot-cards/the-magician/), another 1, the idea 
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Ace of Wands next to the Seven of Cups. Lenses first. Number: one, then seven — something begins, then a pause to weigh it up. Element: Fire, then Water — an urge, then daydreams. Colours: warm orange and green, then a dark silhouette facing cups on clouds. From the clear to the hazy.
+Imagine the Ace of Wands turning up with the Seven of Cups beside it: one living branch, then seven cups floating on clouds. Number: one, then seven — something begins, then a pause to weigh it up. Element: Fire, then Water — an urge, then daydreams. Colours: warm orange and green, then a dark silhouette facing cups on clouds. From the clear to the hazy.
 
 The sentence I’d say out loud: “You’ve got an idea that really wants to start, and you know which one. But there are several around it, and you’re spending your energy looking at all of them instead of growing one.”
 

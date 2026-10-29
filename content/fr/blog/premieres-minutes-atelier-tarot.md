@@ -9,7 +9,7 @@ tags: ["atelier tarot", "apprendre le tarot", "cours de tarot", "tarot débutant
 image: "covers/first-ten-minutes-tarot-workshop.jpg"
 imageAlt: "Des personnes assises le long d’une grande table en bois, chacune avec une carte de tarot retournée devant elle"
 imagePrompt: "People seen from above seated along a long wooden table, each with a single tarot card face up in front of them and their hands resting on the wood. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Dans un atelier Maison Tarot, vous tirez une carte dans les dix premières minutes, avant la moindre explication. Pas de significations à apprendre, pas de théorie d’abord : vous regardez la carte et vous dites ce qu’il y a dessus, ce que vous y voyez et ce qui vous vient. Je procède ainsi parce que ce qu’on ressent à ce moment-là ne se raconte pas, il se vit, et parce qu’une explication donnée d’abord devient une leçon qu’on récite. La clé de lecture du jour — couleurs, nombres, ou éléments et énergies — vient ensuite, et elle se pose sur quelque chose que vous avez déjà remarqué vous-même."
+summary: "Dans un atelier Maison Tarot, vous tirez une carte dans les dix premières minutes, avant la moindre explication. Pas de significations à apprendre, pas de théorie d’abord : vous regardez la carte et vous dites ce qu’il y a dessus, ce que vous y voyez et ce qui vous vient. Je procède ainsi parce que ce qu’on ressent à ce moment-là, je peux le décrire mais pas vous le transmettre, et parce qu’une explication donnée d’abord devient une leçon qu’on récite. La clé de lecture du jour — couleurs, nombres, ou éléments et énergies — vient ensuite, et elle se pose sur quelque chose que vous avez déjà remarqué vous-même."
 ---
 Un atelier Maison Tarot ne commence pas par un exposé, mais par une carte entre vos mains. Dans les dix premières minutes, vous en tirez une, vous la regardez, et vous en dites quelque chose — avant que j’aie expliqué quoi que ce soit. L’explication vient après, et elle n’en porte que mieux.
 
@@ -19,7 +19,7 @@ Parce qu’une explication donnée en premier devient une récitation. Si j’ou
 
 Une carte posée seule, sans rien autour, vous laisse face à la seule chose qui compte : l’image, et ce qui monte quand vous la regardez. Le savoir-faire est là. Tout ce que j’enseigne ensuite sert à le soutenir, jamais à le remplacer.
 
-Il y a une deuxième raison, et c’est la raison même pour laquelle j’enseigne. Quand j’ai commencé à faire essayer mes amis et ma famille, il y avait toujours un moment où l’un d’eux disait quelque chose de juste et restait saisi par ce qui venait de sortir de sa propre bouche. Ce moment, je peux le décrire ; je ne peux pas vous le transmettre. **Ça ne se raconte pas : ça se vit.**
+Il y a une deuxième raison, et c’est la raison même pour laquelle j’enseigne. Quand j’ai commencé à faire essayer mes amis et ma famille, il y avait toujours un moment où l’un d’eux disait quelque chose de juste et restait saisi par ce qui venait de sortir de sa propre bouche. Ce moment, je peux le décrire ; je ne peux pas vous le transmettre.
 
 ## Ce que ces dix minutes vous demandent {#ce-que-vous-faites}
 
@@ -31,7 +31,7 @@ Inutile de connaître le nom de la carte. Inutile d’avoir lu quoi que ce soit.
 
 ## « Mais je n’y connais encore rien » {#je-ny-connais-rien}
 
-C’est tout l’intérêt. Toutes les personnes que j’ai aidées à lire y sont arrivées entre le premier et le troisième essai. Pas parce qu’elles avaient quelque chose de spécial — il n’y a pas d’élus — mais parce que lire, c’est surtout lâcher prise, et qu’on lâche plus facilement prise avant de s’être rempli la tête de règles.
+C’est tout l’intérêt. Arriver sans rien savoir n’est pas un handicap ici, plutôt un avantage. Non que vous ayez quelque chose de spécial — il n’y a pas d’élus —, mais lire, c’est surtout lâcher prise, et on lâche plus facilement prise avant de s’être rempli la tête de règles.
 
 Deux choses peuvent se passer, et les deux vont très bien.
 

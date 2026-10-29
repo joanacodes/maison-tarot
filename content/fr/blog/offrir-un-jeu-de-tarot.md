@@ -54,5 +54,3 @@ C’est la seule chose que je garderais de la vieille croyance : offrez un jeu �
 ## Un mot à glisser dans le paquet {#le-mot}
 
 Écrivez une seule suggestion sur l’étiquette : « Tirez une carte demain matin et décrivez ce que vous voyez avant de chercher quoi que ce soit. » C’est un meilleur départ que n’importe quel rituel, et la première semaine avec le jeu peut suivre le programme de [comment faire connaissance avec un nouveau jeu](/fr/blog/nouveau-jeu-de-tarot/).
-
-Et si vous voulez une phrase pour finir la carte : les cartes ne sont pas magiques, vous l’êtes.

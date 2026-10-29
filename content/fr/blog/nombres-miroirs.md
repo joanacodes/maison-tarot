@@ -79,7 +79,7 @@ Rien de tout ça ne vide le moment de son sens. Ce à quoi vous pensiez quand 44
 3. Notez la question, avec la date. Une ligne suffit.
 4. Laissez la décision là où elle était : chez vous.
 
-Je lis ; vous décidez. Un nombre peut ouvrir une question ; il ne peut pas la refermer — de la même façon que [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
+Un nombre peut ouvrir une question ; il ne peut pas la refermer — de la même façon que [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
 
 Si vous remarquez que vous attendez un nombre avant de choisir quoi que ce soit, ou que vous guettez l’horloge pour avoir un signe, ça vient en général de l’inquiétude, et l’inquiétude mérite une compagnie plus douce qu’une horloge : une amie, une marche, une décision assez petite pour être prise aujourd’hui. Posez les nombres un moment ; ils seront encore là.
 

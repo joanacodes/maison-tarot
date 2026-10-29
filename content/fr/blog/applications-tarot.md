@@ -57,4 +57,4 @@ Une bonne application vous montre l’éclair, la couronne arrachée du sommet, 
 
 ## Ce que j’utiliserais à la place, surtout {#a-la-place}
 
-Une application fait ce que font déjà un jeu et un carnet, avec plus de distractions. Une carte par jour, tirée à la main, décrite avec vos mots et relue le soir, c’est [la pratique quotidienne que je conseille](/fr/blog/carte-du-jour-tarot/). Notez-la dans un [carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) et vous aurez une trace que personne d’autre ne détient. Les cartes ne sont pas magiques, vous l’êtes. Si vous voulez apprendre à lire sans écran entre vous et la carte, [commencez ici](/fr/apprendre-le-tarot/).
+Une application fait ce que font déjà un jeu et un carnet, avec plus de distractions. Une carte par jour, tirée à la main, décrite avec vos mots et relue le soir, c’est [la pratique quotidienne que je conseille](/fr/blog/carte-du-jour-tarot/). Notez-la dans un [carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) et vous aurez une trace que personne d’autre ne détient. Si vous voulez apprendre à lire sans écran entre vous et la carte, [commencez ici](/fr/apprendre-le-tarot/).

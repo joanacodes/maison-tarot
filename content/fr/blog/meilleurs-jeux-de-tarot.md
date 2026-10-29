@@ -62,7 +62,7 @@ Les nombreuses versions redessinées du Rider-Waite-Smith. Certaines sont très 
 
 Les prix, parce qu’ils changent plus vite que cette page. Et tout ce dont je n’étais pas sûre de l’existence en magasin.
 
-La limite honnête : c’est la sélection d’une lectrice, pas un banc d’essai. Ne prenez pas mes mots pour une vérité absolue. Testez, et faites-en l’expérience vous-même.
+La limite honnête : c’est la sélection d’une lectrice, pas un banc d’essai.
 
 ## La suite {#la-suite}
 

@@ -70,7 +70,7 @@ Ce qui aide, concrètement :
 5. Si vous pensez qu’on a profité de la fragilité d’une personne, l’abus de faiblesse est un délit : c’est une plainte, et une question pour un avocat ou une association de consommateurs.
 6. Parlez-en à quelqu’un. Pour un parent, évitez le procès : demandez-lui ce que ces appels lui apportent — de la compagnie, une voix, une réponse — et cherchez ensemble où trouver cela ailleurs.
 
-Si la question qui vous fait décrocher porte sur l’argent, la santé ou une procédure en cours, ce sont des sujets que [je laisse de côté dans mes lectures](/fr/avertissements/#refus), parce qu’une phrase mal comprise y coûte trop cher. Une question plus douce, et plus utile, serait : « De quoi ai-je besoin pour prendre cette décision moi-même ? » Les cartes peuvent accompagner celle-là. La décision reste la vôtre : je lis ; vous décidez.
+Si la question qui vous fait décrocher porte sur l’argent, la santé ou une procédure en cours, ce sont des sujets que [je laisse de côté dans mes lectures](/fr/avertissements/#refus), parce qu’une phrase mal comprise y coûte trop cher. Une question plus douce, et plus utile, serait : « De quoi ai-je besoin pour prendre cette décision moi-même ? » Les cartes peuvent accompagner celle-là ; la décision, elle, vous revient.
 
 Parfois, le plus utile est de poser le téléphone, ou le jeu, pour un moment. J’en parle dans [pourquoi arrêter de tirer les cartes, au moins un temps](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 

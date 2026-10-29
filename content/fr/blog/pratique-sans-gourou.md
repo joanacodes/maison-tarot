@@ -1,6 +1,6 @@
 ---
 title: "Construire sa pratique de tarologue sans devenir un gourou"
-description: "Construire sa pratique de tarologue sans devenir un gourou : les trois ego du milieu spirituel, la phrase qui rend la décision, et les habitudes qui gardent honnête."
+description: "Construire sa pratique de tarologue sans devenir un gourou : les trois ego du milieu spirituel, rendre la décision à la personne, et les habitudes qui gardent honnête."
 translationKey: "post-tarot-practice-without-guru"
 type: blog
 date: 2026-10-24
@@ -35,9 +35,9 @@ On tombe en général dans l’un de ces ego après quelque chose qui a compté 
 
 **Chacun de ces ego met le lecteur au centre ; une pratique fonctionne quand c’est la personne lue qui y reste.** C’est aussi pour cela que je garde [un peu de distance avec les cercles « spirituels »](/fr/blog/spirituelle-mais-pas-dans-les-cercles/) : pas avec les gens, avec les échelles.
 
-## Je lis ; vous décidez {#vous-decidez}
+## Rendre la décision à la personne {#vous-decidez}
 
-C’est la phrase à laquelle je me tiens. Le tarot n’est pas une autorité. Une lecture peut mettre des mots sur quelque chose, montrer un angle que vous n’aviez pas vu, confirmer ce que vous saviez déjà. Elle ne peut pas décider à votre place, et j’explique pourquoi dans [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
+Une lecture peut mettre des mots sur quelque chose, montrer un angle que vous n’aviez pas vu, confirmer ce que vous saviez déjà. Elle ne peut pas décider à votre place, et j’explique pourquoi dans [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
 
 Un gourou ne peut pas se permettre de rater. Un tarologue, si. Environ une lecture sur dix a raté chez moi, d’après mon propre décompte, et je le dis à voix haute quand ça arrive. Dire « celle-là est ratée » devant quelqu’un est l’une des meilleures protections contre le fait de devenir un oracle à ses yeux.
 

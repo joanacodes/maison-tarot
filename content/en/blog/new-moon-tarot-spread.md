@@ -41,7 +41,7 @@ An intention, here, is a sentence about what you’ll do, not about what you’l
 - Something you can check in two weeks, at the full moon, and again in four, at the next new moon.
 - One sentence. If you need three, you have three intentions and none of them will hold.
 
-This is where my spread parts ways with manifestation as it’s often taught online. I’m not asking the cards, or the moon, to send anything. Cards aren’t magic, you are: they help you see, then you choose and act. If you’re curious about the other approach, I looked at [manifestation and the law of attraction](/blog/delulu-manifestation-tarot/) in a separate article.
+This is where my spread parts ways with manifestation as it’s often taught online. I’m not asking the cards, or the moon, to send anything. The cards help you see; then you choose, and you act. If you’re curious about the other approach, I looked at [manifestation and the law of attraction](/blog/delulu-manifestation-tarot/) in a separate article.
 
 **An intention is a promise you can check, not a wish you wait on.**
 

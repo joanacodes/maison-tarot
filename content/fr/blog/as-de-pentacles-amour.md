@@ -19,7 +19,7 @@ L’As de Pentacles en amour, c’est un début qu’on peut toucher. Pas un feu
 
 Deux clés de lecture font l’essentiel du travail. La première, c’est le nombre : le un, l’initiateur, le diamant brut, le début d’un cycle. Dans mes notes, le conseil du un est l’humilité — se préparer à apprendre — et son revers, d’en manquer, alors qu’on reste élève toute sa vie. En amour, c’est la différence entre un début qu’on explore et un début qu’on croit déjà connaître par cœur.
 
-La seconde, c’est l’élément : la Terre, pour moi tout ce qui a de la valeur à vos yeux, en argent ou en sentiment, avec une énergie surtout féminine — protectrice, stable, mère de toute croissance. Toutes les richesses ne sont pas en or. Entre deux personnes, la pièce, c’est du temps, de l’attention, un double des clés, un dimanche qu’on garde libre : des choses qui se comptent, et des choses qui tiennent.
+La seconde, c’est l’élément : la Terre, pour moi tout ce qui a de la valeur à vos yeux, en argent ou en sentiment, avec une énergie surtout féminine — protectrice, stable, mère de toute croissance. Entre deux personnes, la pièce, c’est du temps, de l’attention, un double des clés, un dimanche qu’on garde libre : des choses qui se comptent, et des choses qui tiennent.
 
 Mettez les deux ensemble, et la carte dit qu’on vous tend quelque chose de petit, de réel, qui vaut la peine d’être gardé. Un seul détail du dessin compte pour l’amour : le chemin du jardin est vide. Au tarot de Marseille, l’As de Deniers n’a d’ailleurs ni jardin ni chemin. Les couleurs et le reste du dessin sont sur [la page de l’As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/).
 
@@ -61,6 +61,6 @@ Une question plus douce : « Qu’ai-je envie de construire, et à quoi ressembl
 
 ## Trois appuis et une première pierre {#premiere-pierre}
 
-Notez trois choses sur lesquelles votre relation — ou votre vie, si vous êtes célibataire — repose vraiment aujourd’hui. Puis ajoutez-en une que vous aimeriez construire, en termes concrets : un jour, une habitude, un lieu. Gardez la liste et relisez-la dans un mois. Ne prenez pas mes mots pour une vérité absolue : testez, et faites-en l’expérience vous-même.
+Notez trois choses sur lesquelles votre relation — ou votre vie, si vous êtes célibataire — repose vraiment aujourd’hui. Puis ajoutez-en une que vous aimeriez construire, en termes concrets : un jour, une habitude, un lieu. Gardez la liste et relisez-la dans un mois.
 
 Si vous avez envie d’essayer de lire des cartes comme celle-ci avec d’autres personnes autour de la table, les [événements gratuits](/fr/evenements/) sont un bon point de départ.

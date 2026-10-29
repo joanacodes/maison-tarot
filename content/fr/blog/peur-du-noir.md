@@ -25,7 +25,7 @@ Avec le recul, j’appelle ça vivre dans la peur sans s’en rendre compte. C�
 
 Lumières éteintes. S’il y a un bruit dans la nuit, je ne panique pas. Ce que je me dis ressemble à peu près à ça : *bon, si c’était un esprit ou je ne sais quoi, qu’il en soit ainsi.*
 
-Cette phrase ne dit pas « il n’y a rien », et elle ne dit pas « c’est un esprit ». Elle laisse la question ouverte et cesse d’exiger une réponse. Tout n’est pas une histoire d’esprits ; la plupart des bruits de la nuit, c’est un bâtiment qui fait sa vie de bâtiment. Et si un bruit était un jour autre chose, la phrase tiendrait toujours : qu’il en soit ainsi.
+Cette phrase ne dit pas « il n’y a rien », et elle ne dit pas « c’est un esprit ». Elle laisse la question ouverte et cesse d’exiger une réponse. La plupart des bruits de la nuit, c’est un bâtiment qui fait sa vie de bâtiment. Et si un bruit était un jour autre chose, la phrase tiendrait toujours : qu’il en soit ainsi.
 
 Le noir est toujours aussi noir. Ce qui a changé a changé de mon côté de l’interrupteur, et c’est précisément ce côté-là que regarde le travail sur l’ombre.
 

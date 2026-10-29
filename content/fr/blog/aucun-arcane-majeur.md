@@ -54,7 +54,7 @@ Terre, Feu, Air : le travail, l’élan, la pensée. Huit, c’est l’effort et
 
 ## Ce qu’il vaut mieux éviter {#a-eviter}
 
-Ne tirez pas de cartes supplémentaires jusqu’à voir apparaître un majeur. Une carte tirée pour boucher un trou brouille la lecture au lieu de la compléter ; j’explique pourquoi dans [la carte de clarification](/fr/blog/carte-de-clarification-tarot/). Moi, je n’en tire jamais, pour la même raison que je ne rattrape pas une lecture qui a raté : un raté est un raté, et ce qui est sorti du jeu, c’est la lecture.
+Ne tirez pas de cartes supplémentaires jusqu’à voir apparaître un majeur. Une carte tirée pour boucher un trou brouille la lecture au lieu de la compléter ; j’explique pourquoi dans [la carte de clarification](/fr/blog/carte-de-clarification-tarot/). Moi, je n’en tire jamais, pour la même raison que je ne rattrape pas une lecture qui a raté : ce qui est sorti du jeu, c’est la lecture.
 
 Ne lisez pas l’absence comme « ça n’a pas d’importance ». La question de la personne compte exactement autant avec trois mineurs qu’avec trois majeurs. Le tirage décrit l’échelle de la situation, pas son poids dans une vie.
 

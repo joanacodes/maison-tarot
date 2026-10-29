@@ -33,7 +33,7 @@ Alors oui, sur le papier, je suis un exemple du mythe. Mais ce jeu était sur ma
 
 ## Acheter son propre jeu de tarot porte-t-il malheur ? {#malheur}
 
-Non. Pour qu’acheter un jeu porte malheur, il faudrait que le jeu fasse le travail, et ce n’est pas le cas. Les cartes ne sont pas magiques, vous l’êtes. La lecture vient de vous, pas du carton, et encore moins du ticket de caisse.
+Non. Pour qu’acheter un jeu porte malheur, il faudrait que le jeu fasse le travail, et ce n’est pas le cas. La lecture vient de vous, pas du carton, et encore moins du ticket de caisse.
 
 Les personnes qui posent cette question sont rarement superstitieuses ; elles sont prudentes. Elles veulent bien commencer, et c’est un bon réflexe. Mais bien commencer, c’est d’abord commencer.
 
@@ -41,7 +41,7 @@ Vous n’êtes pas obligé de me croire sur parole. Tenez un carnet avec votre j
 
 Si la croyance vous met encore mal à l’aise, il existe des façons douces de la contourner. Mettez le jeu sur votre liste d’anniversaire, comme je l’avais fait pour Noël. Ou demandez à une amie de venir le choisir avec vous. Dans tous les cas, n’attendez pas des mois pour commencer ; un jeu prêté fera l’affaire en attendant.
 
-Il existe d’ailleurs un autre « don » dont on parle beaucoup : celui qu’il faudrait avoir reçu à la naissance pour lire. Il n’y a pas d’élus. [Il ne faut pas de don pour lire les cartes](/fr/blog/faut-il-un-don-pour-lire-les-cartes/), et tous ceux qui pratiquent peuvent apprendre.
+Il existe d’ailleurs un autre « don » dont on parle beaucoup : celui qu’il faudrait avoir reçu à la naissance pour lire. [Il ne faut pas de don pour lire les cartes](/fr/blog/faut-il-un-don-pour-lire-les-cartes/), et tous ceux qui pratiquent peuvent apprendre.
 
 ## Jeux d’occasion, purification, mains des autres {#regles-voisines}
 

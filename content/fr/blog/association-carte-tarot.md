@@ -133,7 +133,7 @@ Ce sont les paires sur lesquelles on m’interroge le plus, et celles où l’or
 
 Le Soleil à côté du Cinq de Coupes a l’air d’une erreur. Ce n’en est pas une : la vie tient souvent les deux à la fois, et une paire qui tire dans deux sens décrit exactement cela. Lisez la tension elle-même — « une réussite avec un chagrin dedans » — avant de chercher quelle carte l’emporte.
 
-Ce que je ne fais pas, c’est tirer une troisième carte pour trancher. Une carte de plus brouille le tirage plus qu’elle ne l’éclaire, comme je l’explique dans [la carte de clarification](/fr/blog/carte-de-clarification-tarot/). Si la paire ne dit rien à la personne, c’est un raté, et un raté est un raté.
+Ce que je ne fais pas, c’est tirer une troisième carte pour trancher. Une carte de plus brouille le tirage plus qu’elle ne l’éclaire, comme je l’explique dans [la carte de clarification](/fr/blog/carte-de-clarification-tarot/). Si la paire ne dit rien à la personne, c’est un raté, et je le note comme tel.
 
 ## Entraînez-vous avec vos propres paires {#entrainement}
 

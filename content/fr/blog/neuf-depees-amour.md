@@ -43,7 +43,7 @@ Après une rupture, c’est le « et si j’avais dit… » en boucle, à l’he
 
 ## L’angoisse qui déborde sur la journée {#la-journee}
 
-À l’envers, la même carte ralentit ou va trop loin. Dans le bon sens, les mains quittent le visage : la première nuit complète, le matin où l’on remarque que l’inquiétude a rétréci. C’est le cauchemar qui se termine.
+À l’envers, le Neuf d’Épées peut tourner de deux façons. Dans le bon sens, les mains quittent le visage : la première nuit complète, le matin où l’on remarque que l’inquiétude a rétréci. C’est le cauchemar qui se termine.
 
 Dans l’excès, l’angoisse sort de la nuit et envahit le jour. Fouiller le téléphone de l’autre, avoir besoin d’être rassuré toutes les heures — ou l’inverse, répéter à tout le monde que ça va alors qu’on n’a pas fait une vraie nuit depuis des semaines. Si ces nuits-là durent, un médecin ou un thérapeute est la bonne porte, et il n’y a aucune honte à frapper ([là où les cartes s’arrêtent](/fr/avertissements/#therapie)).
 

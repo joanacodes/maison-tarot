@@ -71,6 +71,6 @@ Si vous tenez à un ordre, commencez par les nombres des mineurs, parce que le c
 
 ## À essayer cette semaine {#a-essayer}
 
-Faites dix tirages de trois cartes sur quelques jours et notez une seule chose à chaque fois : combien de majeurs. Puis relisez les jours à deux ou trois majeurs, et les jours sans aucun, en regardant ce que vous traversiez. On ne peut pas vous dire ce que ça fait. On ne peut que l’essayer.
+Faites dix tirages de trois cartes sur quelques jours et notez une seule chose à chaque fois : combien de majeurs. Puis relisez les jours à deux ou trois majeurs, et les jours sans aucun, en regardant ce que vous traversiez.
 
 Quand vous voudrez le parcours complet, dans l’ordre, il est sur [la page pour apprendre le tarot](/fr/apprendre-le-tarot/).

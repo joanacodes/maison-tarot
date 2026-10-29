@@ -25,7 +25,7 @@ Bref, il vous apporte du savoir. Lire, c’est autre chose.
 
 ## Ce que seule la pratique apprend {#ce-que-la-pratique-apprend}
 
-Quand j’ai fait essayer la lecture à mes amis et à ma famille, j’ai vu la même scène se répéter : ils disaient quelque chose de juste sur la personne en face, puis restaient saisis par ce qu’ils venaient de dire. C’est pour ce moment-là que j’enseigne. Aucune page ne peut le produire, parce que ce n’est pas une information. On ne peut pas vous raconter ce que ça fait ; on peut seulement essayer. C’est en forgeant qu’on devient forgeron, et le tarot ne fait pas exception.
+Quand j’ai fait essayer la lecture à mes amis et à ma famille, j’ai vu la même scène se répéter : ils disaient quelque chose de juste sur la personne en face, puis restaient saisis par ce qu’ils venaient de dire. Aucune page ne peut produire ce moment-là, parce que ce n’est pas une information. C’est en forgeant qu’on devient forgeron, et le tarot ne fait pas exception.
 
 Mes propres débuts ont suivi le même chemin. Mes amis m’ont offert mon premier jeu à Noël 2020, j’ai commencé à lire le 26 décembre, et ma première lecture était juste. Je pensais qu’il me faudrait une formation avant.
 

@@ -66,12 +66,12 @@ Quatre choses, aucune n’est magique.
 5. Dites-le à voix haute, en mots simples, à la personne. Pas « le Trois de Coupes signifie la célébration » — « trois personnes, des coupes levées, beaucoup de jaune : quelque chose s’est terminé et on le fête. Ça vous parle ? »
 6. Laissez-la répondre. Si ça ne colle pas, dites-le, et ne sauvez pas la lecture. Notez-la comme ratée.
 
-C’est tout. La première fois est étrange, et l’étrangeté est le but. Ce qu’on ressent en le faisant ne se raconte pas ; il faut le vivre. C’est pour ça que chaque [atelier](/fr/ateliers/) de la Maison commence par une carte dans les dix premières minutes, et l’explication après.
+C’est tout. La première fois est étrange, et l’étrangeté est le but. C’est pour ça que chaque [atelier](/fr/ateliers/) de la Maison commence par une carte dans les dix premières minutes, et l’explication après.
 
 ## Ce qu’il ne faut pas faire {#ne-pas-faire}
 
 - **Ne mémorisez pas les 78.** Vous finirez par réciter au lieu de lire, et vous vous figerez à la première carte oubliée. Les clés de lecture existent pour que vous n’en ayez jamais besoin.
-- **Ne purifiez pas votre jeu à la sauge.** Votre jeu n’a rien. Si quelque chose ne va pas, c’est vous qui avez besoin d’une pause, pas les cartes. ([Faites une pause avec vos cartes →](/fr/avertissements/#lectures))
+- **Ne purifiez pas votre jeu à la sauge.** Votre jeu n’a rien. Si quelque chose ne va pas, c’est vous qui avez besoin d’une pause, pas les cartes. ([Quand le besoin de tirer devient une habitude →](/fr/avertissements/#lectures))
 - **Ne lisez pas pour quelqu’un en détresse**, et ne lisez ni la santé, ni la mort, ni la grossesse, ni les procédures en cours, ni l’argent. Pas parce qu’une carte ne peut pas tomber, mais parce qu’un mot faux, là, fait des dégâts.
 - **Ne lisez pas pour vous vingt fois par jour.** Si vous vous surprenez à tirer des cartes toutes les heures, ce n’est pas une histoire de tarot ; c’est une recherche de validation extérieure, et une lecture n’est pas le bon outil.
 
@@ -79,7 +79,7 @@ C’est tout. La première fois est étrange, et l’étrangeté est le but. Ce 
 
 Quand ça marche, le visage de la personne change avant qu’elle ait décidé quoi dire. Ce regard vaut plus que n’importe quelle confirmation.
 
-Quand ça ne marche pas — et à mon décompte c’est environ une fois sur dix — vous dites « celle-là est ratée », vous la notez, et vous passez. Vous ne remélangez pas, vous ne reformulez pas, vous ne transformez pas un raté en « les cartes disent quelque chose que vous n’avez pas encore réalisé ». Un raté est un raté. Les lecteurs qui ne savent pas dire ce mot sont ceux qu’il faut éviter.
+Quand ça ne marche pas — et à mon décompte c’est environ une fois sur dix — vous dites « celle-là est ratée », vous la notez, et vous passez. Vous ne remélangez pas, vous ne reformulez pas, vous ne transformez pas un raté en « les cartes disent quelque chose que vous n’avez pas encore réalisé ». Les lecteurs qui ne savent pas dire « raté » sont ceux qu’il faut éviter.
 
 ## La version courte {#version-courte}
 

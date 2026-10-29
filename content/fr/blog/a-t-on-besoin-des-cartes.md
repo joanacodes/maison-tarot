@@ -55,8 +55,6 @@ Si vous lisez depuis longtemps et que les choses arrivent tôt chez vous aussi, 
 4. À la fin, comparez les deux avec ce que la personne confirme.
 5. Faites-le dix fois, et comptez.
 
-Ne prenez pas mes mots pour une vérité absolue. Testez, et faites-en l’expérience vous-même.
-
 ## Pour aller plus loin {#plus-loin}
 
 Se concentrer et se déconcentrer à volonté, cela se travaille aussi loin des cartes. Ce que je connais de plus proche, c’est rester immobile deux minutes par jour, et j’en parle pour celles et ceux qui sont sûrs de ne pas y arriver : [commencer la méditation quand on pense ne pas y arriver](/fr/blog/commencer-la-meditation/).

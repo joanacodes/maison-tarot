@@ -54,7 +54,7 @@ Earth, Fire, Air: work, drive, thought. Eight is effort and mastery; Three is th
 
 ## What not to do {#what-not-to-do}
 
-Don’t draw extra cards until a major turns up. A card pulled to fill a gap muddies the reading rather than completing it; I explain why in [the clarifier card](/blog/the-clarifier-card/). I don’t pull clarifiers at all, for the same reason I don’t rescue a reading that missed: a miss is a miss, and what came out of the deck is the reading.
+Don’t draw extra cards until a major turns up. A card pulled to fill a gap muddies the reading rather than completing it; I explain why in [the clarifier card](/blog/the-clarifier-card/). I don’t pull clarifiers at all, for the same reason I don’t rescue a reading that missed: what came out of the deck is the reading.
 
 Don’t read the absence as “this doesn’t matter”. The person’s question matters exactly as much with three minors as with three majors. The spread describes the scale of the situation, not its weight in someone’s life.
 

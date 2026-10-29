@@ -61,6 +61,6 @@ As a quarter, it reads: a spark in January, a February full of options that all 
 
 ## Keep it, then check it {#keep-it}
 
-Put the list somewhere you’ll find it: the back of your diary, a note on your phone. At the start of each month, look at that month’s card for two minutes before you look at your calendar. At the end of the month, put a tick or a cross. A miss is a miss: don’t stretch the card until it fits.
+Put the list somewhere you’ll find it: the back of your diary, a note on your phone. At the start of each month, look at that month’s card for two minutes before you look at your calendar. At the end of the month, put a tick or a cross, and don’t stretch the card until it fits.
 
 For the month-by-month method in more detail — how I read the twelve together, what I write down, and why I don’t publish predictions — read [my year-ahead reading, month by month](/blog/year-ahead-tarot-reading/). And [a reading notebook](/blog/tarot-journal/) is what makes the December check worth something.

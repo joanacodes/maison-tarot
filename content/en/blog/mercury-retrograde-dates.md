@@ -64,4 +64,4 @@ These are good weeks for it, because nothing new is asked of you. If you don't k
 
 Venus is retrograde at the same time this autumn, from 3 October, and the two planets turn direct within a day of each other in mid-November. The dates, and what they're said to mean for a relationship, are in [Venus retrograde 2026](/blog/venus-retrograde-2026/).
 
-Then keep this calendar somewhere you'll see it. Retrograde periods were never part of [my chart test](/blog/i-tested-my-birth-chart/), which looked at birth charts, so I have no number to give you; here's how to get your own. On each start date, write one line: what do I expect to go wrong? On each end date, read it again and give it a tick or a cross. Don't take my words as ultimate truth. Test it and experience it for yourself.
+Then keep this calendar somewhere you'll see it. Retrograde periods were never part of [my chart test](/blog/i-tested-my-birth-chart/), which looked at birth charts, so I have no number to give you; here's how to get your own. On each start date, write one line: what do I expect to go wrong? On each end date, read it again and give it a tick or a cross.

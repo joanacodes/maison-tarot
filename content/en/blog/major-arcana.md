@@ -140,4 +140,4 @@ Reversed, a major is the same card slowed down, blocked or in excess: the Hermit
 
 ## Where to go from here {#next-step}
 
-Pick this week’s family tonight and lay it out. When the 22 feel familiar, the [learn tarot path](/learn-tarot/) puts the same lenses in order for the whole deck, one at a time. And whatever you read here, don’t take my words as ultimate truth. Test it and experience it for yourself.
+Pick this week’s family tonight and lay it out. When the 22 feel familiar, the [learn tarot path](/learn-tarot/) puts the same lenses in order for the whole deck, one at a time.

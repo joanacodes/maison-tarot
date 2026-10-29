@@ -49,7 +49,7 @@ You don’t need to learn them one by one. Ten numbers and four suits cover the 
 
 Count the majors before you read anything. 22 cards out of 78 is a little over a quarter, so in a three-card spread you’d expect fewer than one major on average. About a third of three-card spreads have none at all; three majors out of three happens roughly once in fifty draws.
 
-That gives you a scale:
+So the number of majors tells you how large the matter is:
 
 - No major: the matter is everyday and in the person’s hands. Nothing larger is pressing on it. [A spread with no majors](/blog/no-major-arcana-in-spread/) has its own article.
 - One major: it sets the theme, and the minors say where it plays out.
@@ -69,6 +69,6 @@ If you’d like an order anyway, start with the numbers of the minors, because t
 
 ## Try it this week {#try-it}
 
-Draw ten three-card spreads over a few days and write down one thing each time: how many majors. Then look back at the days with two or three, and the days with none, and see what you were living through. You can’t be told what it’s like. You can only try.
+Draw ten three-card spreads over a few days and write down one thing each time: how many majors. Then look back at the days with two or three, and the days with none, and see what you were living through.
 
 When you want the whole path in order, it’s on [the learn tarot page](/learn-tarot/).

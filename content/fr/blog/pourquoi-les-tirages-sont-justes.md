@@ -23,7 +23,7 @@ Le test tient en une question : est-ce que cette phrase irait à mon voisin ? Si
 
 Dites vingt choses, dont quatre précises et seize vagues : la personne repart en se souvenant des quatre. Vous aussi. Une semaine plus tard, le tirage est devenu « elle savait tout ». Ce n’est pas de la malhonnêteté, c’est ainsi que fonctionne la mémoire, et c’est pour ça que toute personne qui lit sans compter se croit meilleure qu’elle ne l’est.
 
-La seule parade : tout noter *avant* que la personne réagisse, puis cocher après. Juste, raté, ou trop vague pour compter. **Le ratio dit la vérité ; l’impression, non.** À mon décompte, environ un tirage sur dix rate.
+La seule parade : tout noter *avant* que la personne réagisse, puis cocher après. Juste, raté, ou trop vague pour compter. **Le ratio dit la vérité ; l’impression, non.** Le mien tombe à environ un raté sur dix, et c’est ce chiffre-là que je donne, pas mon impression.
 
 ## Vous l’avez dit sans le savoir {#vous-lavez-dit}
 

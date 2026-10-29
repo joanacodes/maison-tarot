@@ -41,13 +41,13 @@ The deck itself is full of moons. In the Golden Dawn tradition the astrological 
 
 What I can’t tell you is whether my readings held better under a full moon. My notebook has two columns — what I said, what was confirmed — and no column for the sky.
 
-What I can tell you is what has changed a reading, in my experience. Tiredness: interpreting takes energy, and I sometimes stop after two hours of readings, out of caution. Pressure: when I want too much to be right, I see nothing. And the person in front of me: someone afraid of hearing something can block a reading as surely as I can. All three are things you can notice and act on tonight, whatever the moon is doing.
+What I can tell you is what has changed a reading, in my experience. Tiredness: interpreting takes energy, and when mine runs low, so does the reading. Pressure: when I want too much to be right, I see nothing. And the person in front of me: someone afraid of hearing something can block a reading as surely as I can. All three are things you can notice and act on tonight, whatever the moon is doing.
 
 That’s also why I keep [the silence rule](/blog/the-silence-rule/): the person tells me nothing first. If you want to test anything about readings — the moon included — you need confirmations that weren’t fed by what you already knew.
 
 ## How to test it yourself {#test-it}
 
-Don’t take my words as ultimate truth. Test it and experience it for yourself. Here is how I would set it up.
+Here is how I would set it up.
 
 1. Add a column to your [reading notebook](/blog/tarot-journal/): date, cards, what you said, what was confirmed, tick or cross. Leave one column blank for the phase.
 2. Don’t check the phase when you read. Fill that column afterwards, all at once, from a calendar. If you know it’s a full moon, you’ll read differently — and judge differently.

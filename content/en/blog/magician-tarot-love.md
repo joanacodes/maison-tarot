@@ -37,7 +37,7 @@ Say someone sits down, tells you nothing, and draws the Magician. A beginning, w
 
 That’s the question the Magician brings: should I make the first move, and do they feel the same way? It comes from hope, and from the fear of being turned down. Both are very human.
 
-I don’t read on what someone else feels. They aren’t in the room, their heart belongs to them, and a card that said “yes, they do” might send you in with a script instead of yourself. I’ve written about [reading tarot about someone else](/blog/reading-tarot-about-someone-else/), and why I’d rather not. Cards aren’t magic, you are — and the Magician says it more plainly than any other card: everything on his table is already yours.
+The second half of that question is one I leave out of the cards. They aren’t in the room, their heart belongs to them, and a card that said “yes, they do” might send you in with a script instead of yourself. I’ve written about [reading tarot about someone else](/blog/reading-tarot-about-someone-else/), and why I’d rather not. What the Magician says, more plainly than any other card, is that everything on his table is already yours.
 
 A kinder question: “What do I want to say, and would I mean it whatever the answer?” If the second half is a yes, you have your first move.
 

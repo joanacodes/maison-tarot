@@ -60,6 +60,6 @@ Sitting with your thoughts can also bring up more than you expected. If that hap
 
 ## Where to go next {#next}
 
-Two minutes, tonight. That’s the whole next step. You can’t be told what it’s like. You can only try.
+Two minutes, tonight. That’s the whole next step.
 
 If the quiet makes you curious about what else you could notice, the [learn tarot](/learn-tarot/) page is where I’d point you next: one card, one lens, and the same letting go.
