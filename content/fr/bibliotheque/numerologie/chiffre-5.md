@@ -1,8 +1,6 @@
 ---
 title: 'Le chiffre 5 au tarot : signification, cartes et conseil (numérologie du tarot)'
-description: Conflit, test, guerre ou bataille, élaborer, mettre en place, challenge,
-  faire avec ce qu’il reste. Le 5 est l’épreuve qui mesure. Les cinq cartes qui le
-  portent, un exemple que tout le monde connaît, et comment le lire dans un tirage.
+description: "Conflit, test, guerre ou bataille, élaborer, mettre en place, challenge, faire avec ce qu’il reste. Le 5 est l’épreuve qui mesure."
 translationKey: num-5
 type: library
 navTitle: Le chiffre 5

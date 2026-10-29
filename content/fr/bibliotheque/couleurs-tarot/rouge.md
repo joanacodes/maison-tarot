@@ -1,9 +1,7 @@
 ---
 title: 'Le rouge au tarot : signification, cartes où il domine et lecture (couleurs
   du tarot)'
-description: 'Le rouge dans le tarot Rider-Waite-Smith : passion, action, force, impulsion.
-  Où la couleur apparaît dans le jeu, ce qu’elle dit avant même de connaître la carte,
-  son revers, et comment la lire avec les autres clés.'
+description: "Le rouge dans le tarot Rider-Waite-Smith : passion, action, force, impulsion. Dans le Rider-Waite-Smith, il habille ceux qui agissent : le manteau du Magicien, la plume du Mat, les robes des Cavaliers."
 translationKey: col-red
 type: library
 navTitle: Le rouge

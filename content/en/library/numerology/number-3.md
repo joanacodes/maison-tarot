@@ -1,8 +1,6 @@
 ---
 title: 'Number 3 in tarot: meaning, cards and advice (tarot numerology)'
-description: 'The machine running, the contract working, siblings on good terms. Three
-  is the cadence found: it works, and it shows. The five cards that carry it, an example
-  everyone knows, and how to read it in a spread.'
+description: "The machine running, the contract working, siblings on good terms. Three is the cadence found: it works, and it shows."
 translationKey: num-3
 type: library
 navTitle: Number 3

@@ -51,9 +51,9 @@ L’intérieur d’une église de pierre, sous un arc brisé. Tout en haut de l�
 
 ## Par le nombre : trois {#nombre}
 
-**trois — créer, célébrer, le premier résultat.** Le [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/), c’est la cadence trouvée : la machine qui tourne, le contrat qui fonctionne, une fratrie qui s’entend. C’est le premier nombre où quelque chose est produit et se voit. Sur une carte de Pentacles, c’est littéral : un ouvrage fait à la main, que l’on peut venir regarder.
+Le [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/), c’est la cadence trouvée : la machine qui tourne, le contrat qui fonctionne, une fratrie qui s’entend. C’est le premier nombre où quelque chose est produit et se voit. Sur une carte de Pentacles, c’est littéral : un ouvrage fait à la main, que l’on peut venir regarder.
 
-Le conseil du 3, dans mes notes, c’est de finir un projet avant d’en commencer un autre ; son revers, c’est l’inverse — de nouveaux projets avant d’avoir terminé les anciens, et parfois la solitude ou la trahison. Sur cette carte, la cadence tient parce que trois personnes se sont mises d’accord sur un plan. Dans l’histoire d’Instagram, le 3, c’est le lancement qui marche : les gens s’inscrivent, publient, reviennent, et pour la première fois la chose tourne sans qu’on la pousse.
+Le conseil du 3, dans mes notes, c’est de finir un projet avant d’en commencer un autre ; son revers, c’est l’inverse — de nouveaux projets avant d’avoir terminé les anciens, et parfois la solitude ou la trahison. Sur cette carte, la cadence tient parce que trois personnes se sont mises d’accord sur un plan. Dans l’histoire d’Instagram, le 3, c’est un lancement réussi : un premier résultat que les autres peuvent voir et utiliser.
 
 ## Par l’élément : Terre {#element}
 
@@ -69,7 +69,7 @@ Lisez les couleurs avant la carte : un cadre solide et sobre, et toute la vie su
 
 ## Par l’astrologie : Mars en Capricorne {#astrologie}
 
-Dans la tradition Golden Dawn, le Trois de Pentacles correspond au deuxième décan du Capricorne, attribué à [Mars](/fr/bibliotheque/astrologie/mars/) ; son titre est « Seigneur des Travaux matériels ». Mars, c’est la façon d’agir — l’énergie brute, l’effort, le corps en mouvement. Le Capricorne dit *J’utilise* : le travail, la structure, savoir se servir de chaque outil. L’astrologie classique place Mars en exaltation dans le Capricorne : l’énergie à son meilleur quand elle a un plan.
+Dans la tradition Golden Dawn, le Trois de Pentacles correspond au deuxième décan du Capricorne, attribué à [Mars](/fr/bibliotheque/astrologie/mars/). Mars, c’est la façon d’agir — l’énergie brute, l’effort, le corps en mouvement. Le Capricorne dit *J’utilise* : le travail, la structure, savoir se servir de chaque outil. L’astrologie classique place Mars en exaltation dans le Capricorne : l’énergie à son meilleur quand elle a un plan.
 
 C’est exactement la carte, et ça reste facultatif : le nombre et la pierre disent la même chose.
 
@@ -87,8 +87,8 @@ Si la question derrière la carte est une augmentation ou un devis à accepter, 
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Trois de Pentacles à côté du [Quatre de Coupes](/fr/bibliotheque/cartes-tarot/quatre-de-coupes/). Les clés de lecture d’abord. Trois puis quatre : la cadence trouvée, puis la stabilité qui suit. La Terre puis l’Eau : le travail, puis ce qu’on ressent à son sujet. Les dessins : trois personnes autour d’une sculpture dans une église, puis un jeune homme assis sous un arbre, bras croisés, qui ne regarde pas la coupe qu’une main lui tend depuis un nuage.
+Disons qu’une collègue curieuse du tarot tire le Trois de Pentacles et le [Quatre de Coupes](/fr/bibliotheque/cartes-tarot/quatre-de-coupes/). Trois puis quatre : la cadence trouvée, puis la stabilité qui suit. La Terre puis l’Eau : le travail, puis ce qu’on ressent à son sujet. Les dessins : trois personnes autour d’une sculpture dans une église, puis un jeune homme assis sous un arbre, bras croisés, qui ne regarde pas la coupe qu’une main lui tend depuis un nuage.
 
 La phrase que je dirais à voix haute : « Votre travail se passe bien, on compte sur vous, et vous ne ressentez plus rien en le faisant. »
 
-Pour vérifier, je demande : « Est-ce que le travail ressemble à ça en ce moment — ça va, mais c’est plat ? » Si c’est oui, je laisse la personne en dire ce qu’elle veut. Si c’est non, c’est un raté, et je le note comme tel.
+Pour vérifier, je demande : « Est-ce que le travail ressemble à ça en ce moment — ça va, mais c’est plat ? » Si c’est oui, je laisse la personne en dire ce qu’elle veut. Si son travail la passionne encore, la phrase a raté, et je l’inscris au carnet.

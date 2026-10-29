@@ -50,7 +50,7 @@ The drawing is about **taking what you can carry, leaving the rest — and not a
 
 ## By number: seven {#number}
 
-**seven — doubt, assessment, patience.** Seven is reflection: analysis before action, negotiation, harvesting what has grown. In my notes, the Seven of Swords is the seven that must leave things behind but harvests a lot, and that’s exactly the drawing: five swords in his arms, two left in the ground. A trade-off. You can’t take everything, so you choose. The advice of [number 7](/library/numerology/number-7/) is that everything is temporary, good or bad. Instagram’s seventh stage was the negotiating table where Facebook changed the model: choosing what the thing would become, and what it would leave behind.
+Seven is reflection: analysis before action, negotiation, harvesting what has grown. In my notes, the Seven of Swords is the seven that must leave things behind but harvests a lot, and that’s exactly the drawing: five swords in his arms, two left in the ground. A trade-off. You can’t take everything, so you choose. The advice of [number 7](/library/numerology/number-7/) is that everything is temporary, good or bad. Instagram’s seventh stage was the negotiating table where Facebook changed the model: choosing what the thing would become, and what it would leave behind.
 
 ## By element: Air {#element}
 
@@ -62,7 +62,7 @@ The [yellow](/library/tarot-colours/yellow/) sky floods the card: joy, optimism,
 
 ## By astrology: Moon in Aquarius {#astrology}
 
-In the Golden Dawn tradition, the Seven of Swords is the Moon in the third decan of [Aquarius](/library/astrology/aquarius/), with the title Lord of Unstable Effort. Aquarius is the sign of the original idea and of “I know” — which I hear as “I think I know” — with a habit of ending up in awkward, unusual situations. The Moon is what you feel when nobody’s watching. Together: a private plan, carried out alone, very clever until it isn’t. Optional, like every astrological lens.
+In the Golden Dawn tradition, the Seven of Swords is the Moon in the third decan of [Aquarius](/library/astrology/aquarius/). Aquarius is the sign of the original idea and of “I know” — which I hear as “I think I know” — with a habit of ending up in awkward, unusual situations. The Moon is what you feel when nobody’s watching. Together: a private plan, carried out alone, very clever until it isn’t. You can skip this lens: the smile over his shoulder says as much.
 
 ## In a reading {#reading}
 
@@ -80,7 +80,7 @@ Next to [the Magician](/library/tarot-cards/the-magician/), skill and pretence s
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Seven of Swords next to the [Three of Wands](/library/tarot-cards/three-of-wands/). Lenses first. Seven then three: a harvest and a trade-off, then a rhythm that works. Air then Fire: a plan in the head, then drive and expansion. A yellow sky, then a man on high ground watching ships head out.
+What if someone you’re practising on drew the Seven of Swords, then the [Three of Wands](/library/tarot-cards/three-of-wands/)? Seven then three: a harvest and a trade-off, then a rhythm that works. Air then Fire: a plan in the head, then drive and expansion. A yellow sky, then a man on high ground watching ships head out.
 
 You might say: “You’re quietly leaving something, with more than you came in with, and you’re already looking further.”
 

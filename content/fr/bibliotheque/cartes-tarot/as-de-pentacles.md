@@ -51,7 +51,7 @@ Personne dans le jardin : personne pour prendre la pièce, personne sur le chemi
 
 ## Par le nombre : un {#nombre}
 
-**un — le début, le diamant brut.** Le [chiffre 1](/fr/bibliotheque/numerologie/chiffre-1/), c’est l’initiateur, le début d’un cycle : quelque chose de précieux qui ne sert encore à rien. Sur une carte de Pentacles, le diamant brut est presque littéral. Une pièce, une ressource, une ouverture concrète dont personne ne connaît encore la vraie valeur — une offre d’emploi, un premier client, un bout de terrain à bêcher.
+Le [chiffre 1](/fr/bibliotheque/numerologie/chiffre-1/), c’est l’initiateur, le début d’un cycle : quelque chose de précieux qui ne sert encore à rien. Sur une carte de Pentacles, le diamant brut est presque littéral. Une pièce, une ressource, une ouverture concrète dont personne ne connaît encore la vraie valeur — une offre d’emploi, un premier client, un bout de terrain à bêcher.
 
 Le conseil du 1, dans mes notes, c’est l’humilité : se préparer à apprendre. Son revers, c’est d’en manquer — prendre la pièce pour une fortune déjà faite, alors qu’on reste élève toute sa vie. Dans l’histoire d’Instagram, c’est Burbn qui devient Instagram : deux personnes gardent la seule fonction qui marche et repartent avec quelque chose d’assez petit pour tenir dans une main.
 
@@ -59,7 +59,7 @@ Le conseil du 1, dans mes notes, c’est l’humilité : se préparer à apprend
 
 La [Terre](/fr/bibliotheque/quatre-elements/element-terre/), c’est la matière, la prospérité, tout ce qui a de la valeur à vos yeux — de l’argent, ou quelque chose de sentimental. Toutes les richesses ne sont pas en or. La pièce de cette carte peut être un salaire, un logement, une relation qui a enfin les pieds sur terre. Ici, le début n’est plus une idée : c’est quelque chose qu’on peut tenir.
 
-La Terre, c’est aussi la ténacité, l’endurance — et l’entêtement. Un début de Pentacles est lent par nature : il demande à être planté et entretenu, pas admiré. Le jardin sous la main le rappelle : ce que deviendra la pièce dépend de ce que vous ferez pousser avec.
+La Terre apporte aussi de quoi tenir dans la durée, avec l’entêtement qui va avec. Un début de Pentacles est lent par nature : il demande à être planté et entretenu, pas admiré. Le jardin sous la main le rappelle : ce que deviendra la pièce dépend de ce que vous ferez pousser avec.
 
 ## Par les couleurs {#couleurs}
 
@@ -69,7 +69,7 @@ Lisez les couleurs avant la carte et vous avez déjà : quelque chose de précie
 
 ## Par l’astrologie : Racine de la Terre {#astrologie}
 
-Dans la tradition Golden Dawn, les As n’ont ni planète ni signe. Chacun est la racine de son élément — ici, « la Racine des Pouvoirs de la Terre » : la Terre entière, avant d’être partagée entre le Taureau, la Vierge et le Capricorne, dont les décans reviennent aux cartes du Deux au Dix.
+Dans la tradition Golden Dawn, les As n’ont ni planète ni signe. Chacun est la racine de son élément — ici, la Terre entière, avant d’être partagée entre le Taureau, la Vierge et le Capricorne, dont les décans reviennent aux cartes du Deux au Dix.
 
 Ce que ça ajoute : l’As contient toute la famille en germe. Si l’[astrologie](/fr/bibliotheque/astrologie/) est une clé qui vous parle, gardez celle-ci ; sinon, le nombre et l’élément ont déjà dit l’essentiel.
 
@@ -87,8 +87,8 @@ On vient souvent avec des questions d’argent sur cette carte, et je comprends 
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire l’As de Pentacles à côté du [Deux d’Épées](/fr/bibliotheque/cartes-tarot/deux-de-epees/). Les clés de lecture d’abord. Un puis deux : un début, puis un choix entre deux côtés. La Terre puis l’Air : quelque chose de concret, puis une décision qui reste dans la tête. Les dessins : une pièce d’or sur une main ouverte, puis une femme aux yeux bandés, deux épées croisées sur la poitrine.
+Supposons qu’un ami avec qui vous vous entraînez tire l’As de Pentacles, puis le [Deux d’Épées](/fr/bibliotheque/cartes-tarot/deux-de-epees/). Un puis deux : un début, puis un choix entre deux côtés. La Terre puis l’Air : quelque chose de concret, puis une décision qui reste dans la tête. Les dessins : une pièce d’or sur une main ouverte, puis une femme aux yeux bandés, deux épées croisées sur la poitrine.
 
 La phrase que je dirais à voix haute : « On vous propose quelque chose de concret, et vous gardez les yeux fermés pour ne pas avoir à choisir tout de suite. »
 
-Pour vérifier, je demande : « Y a-t-il en ce moment quelque chose sur la table à quoi vous n’avez pas encore répondu ? » Si c’est oui, je ne dis pas à la personne s’il faut accepter. Je lis ; vous décidez. Si c’est non, c’est un raté, et je le note comme tel.
+Pour vérifier, je demande : « Y a-t-il en ce moment quelque chose sur la table à quoi vous n’avez pas encore répondu ? » Si c’est oui, je ne dis pas à la personne s’il faut accepter. Si rien n’attend de réponse, la phrase a raté, et je l’écris noir sur blanc.

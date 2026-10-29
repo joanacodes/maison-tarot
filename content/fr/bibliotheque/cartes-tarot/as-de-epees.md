@@ -51,11 +51,11 @@ Le dessin ne parle que d’une chose : **une idée claire, tenue fermement, avan
 
 ## Par le nombre : un {#nombre}
 
-**un — le début, le diamant brut.** Le un est l’initiateur : il ouvre le cycle et ne sait rien de la suite. Ici, le diamant brut est une pensée, le moment où quelque chose devient clair dans votre tête. Ça vaut beaucoup, et ça ne sert encore à rien : une décision prise mais pas annoncée, une vérité vue mais pas dite. Instagram à son premier stade, c’était exactement ça, Burbn réduit à sa seule bonne idée. Le conseil du [chiffre 1](/fr/bibliotheque/numerologie/chiffre-1/), c’est l’humilité, et son revers va comme un gant à cette carte : la personne si sûre d’avoir raison qu’elle n’écoute plus.
+Le un est l’initiateur : il ouvre le cycle et ne sait rien de la suite. Ici, le diamant brut est une pensée, le moment où quelque chose devient clair dans votre tête. Ça vaut beaucoup, et ça ne sert encore à rien : une décision prise mais pas annoncée, une vérité vue mais pas dite. Instagram à son premier stade, c’était exactement ça, Burbn réduit à sa seule bonne idée. Le conseil du [chiffre 1](/fr/bibliotheque/numerologie/chiffre-1/), c’est l’humilité, et son revers va comme un gant à cette carte : la personne si sûre d’avoir raison qu’elle n’écoute plus.
 
 ## Par l’élément : Air {#element}
 
-L’As, c’est l’[Air](/fr/bibliotheque/quatre-elements/element-air/) à sa source : le mental, l’analyse, la décision. Dans mes notes, l’Air est le meilleur décideur des quatre éléments parce qu’il voit tout en même temps — le Feu est trop impulsif, l’Eau trop émotive, la Terre trop têtue. L’As, c’est cette capacité avant qu’elle ait servi : le brouillard se lève, et vous pouvez trancher.
+L’As, c’est l’[Air](/fr/bibliotheque/quatre-elements/element-air/) à sa source : le mental, l’analyse, la décision. Dans mes notes, l’Air est l’élément qui décide le mieux, parce qu’il embrasse tout d’un seul regard, là où le Feu s’emballe, l’Eau se laisse submerger et la Terre s’arc-boute. L’As, c’est cette capacité avant qu’elle ait servi : le brouillard se lève, et vous pouvez trancher.
 
 L’Air, c’est aussi la communication, bonne ou mauvaise. La même lame peut dire une vérité nettement ou devenir une langue de vipère. Une idée aussi affûtée se tient par la poignée, pas par le tranchant.
 
@@ -65,7 +65,7 @@ Le fond est presque entièrement [gris](/fr/bibliotheque/couleurs-tarot/gris/) :
 
 ## Par l’astrologie : Racine de l’Air {#astrologie}
 
-Dans la tradition Golden Dawn, les As n’ont ni signe ni planète. Ce sont les racines de leur élément : l’As d’Épées est la « Racine des puissances de l’Air », la graine d’où pousse toute la famille, tandis que les autres Épées se partagent les trois signes d’Air — Balance, Verseau et Gémeaux. L’As les contient donc tous les trois en germe : la pesée de la Balance, l’idée neuve du Verseau, la parole rapide des Gémeaux. Si l’[astrologie](/fr/bibliotheque/astrologie/) vous parle, gardez cette image ; sinon, le nombre et l’élément ont déjà dit l’essentiel.
+Dans la tradition Golden Dawn, les As n’ont ni signe ni planète. Ce sont les racines de leur élément : l’As d’Épées est la graine d’où pousse toute la famille, tandis que les autres Épées se partagent les trois signes d’Air — Balance, Verseau et Gémeaux. L’As les contient donc tous les trois en germe : la pesée de la Balance, l’idée neuve du Verseau, la parole rapide des Gémeaux. Si l’[astrologie](/fr/bibliotheque/astrologie/) vous parle, gardez cette image ; sinon, le nombre et l’élément ont déjà dit l’essentiel.
 
 ## En lecture {#lecture}
 
@@ -81,7 +81,7 @@ Renversé, la même lame est mal tenue. Brouillée à force de réfléchir : la 
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire l’As d’Épées à côté du [Deux de Pentacles](/fr/bibliotheque/cartes-tarot/deux-de-pentacles/). Les clés de lecture d’abord. Un puis deux : un début, puis un équilibre à tenir. L’Air puis la Terre : une pensée, puis du concret — de l’argent, du temps, un travail. Du gris et de l’acier, puis un personnage qui jongle avec deux pièces, des bateaux sur les vagues derrière lui.
+Prenons un exemple inventé : une inconnue retourne l’As d’Épées, et à côté le [Deux de Pentacles](/fr/bibliotheque/cartes-tarot/deux-de-pentacles/). Un puis deux : un début, puis un équilibre à tenir. L’Air puis la Terre : une pensée, puis du concret — de l’argent, du temps, un travail. Du gris et de l’acier, puis un personnage qui jongle avec deux pièces, des bateaux sur les vagues derrière lui.
 
 Vous pourriez dire : « Vous jonglez avec deux choses depuis un moment, et dans votre tête le choix est déjà fait. Ce qui manque, c’est de le dire. »
 

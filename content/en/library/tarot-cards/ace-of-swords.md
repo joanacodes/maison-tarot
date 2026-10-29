@@ -50,11 +50,11 @@ The drawing is about one thing: **a clear idea held firmly, before anyone has do
 
 ## By number: one {#number}
 
-**one — the beginning, the rough diamond.** One is the initiator: it opens the cycle and knows nothing of what comes next. Here the rough diamond is a thought, the moment something becomes clear in your head. Worth a lot, useful for nothing yet: a decision made but not announced, a truth seen but not said. Instagram’s first stage was exactly that, Burbn stripped down to its one good idea. The advice of [the number 1](/library/numerology/number-1/) is humility, and its minus fits this card closely: the person so sure they’re right that they stop listening.
+One is the initiator: it opens the cycle and knows nothing of what comes next. Here the rough diamond is a thought, the moment something becomes clear in your head. Worth a lot, useful for nothing yet: a decision made but not announced, a truth seen but not said. Instagram’s first stage was exactly that, Burbn stripped down to its one good idea. The advice of [the number 1](/library/numerology/number-1/) is humility, and its minus fits this card closely: the person so sure they’re right that they stop listening.
 
 ## By element: Air {#element}
 
-The Ace is [Air](/library/four-elements/air-element/) at its source: the mind, analysis, the decision. In my notes, Air is the best decision-maker of the four elements because it sees everything at once — Fire is too impulsive, Water too emotional, Earth too stubborn. The Ace is that capacity before it’s been used: the fog lifts, and you can cut.
+The Ace is [Air](/library/four-elements/air-element/) at its source: the mind, analysis, the decision. In my notes, Air is the element that decides best, because it sees everything at once: Fire rushes, Water feels too much, Earth digs in. The Ace is that capacity before it’s been used: the fog lifts, and you can cut.
 
 Air is also communication, good or bad. The same blade can say a true thing plainly or turn into the viper’s tongue. An idea this sharp is held by the hilt, not by the edge.
 
@@ -64,7 +64,7 @@ The background is almost all [grey](/library/tarot-colours/grey/): neutrality, a
 
 ## By astrology: Root of Air {#astrology}
 
-The Aces get no sign and no planet in the Golden Dawn tradition. They are the roots of their element: the Ace of Swords is the Root of the Powers of Air, the seed the suit grows from, while the other Swords are shared between the three Air signs — Libra, Aquarius and Gemini. So the Ace holds all three in potential: Libra’s weighing, Aquarius’s new idea, Gemini’s quick word. If [astrology](/library/astrology/) speaks to you, keep that picture; if not, the number and the element have already said what matters.
+The Aces get no sign and no planet in the Golden Dawn tradition. They are the roots of their element: the Ace of Swords is the seed the suit grows from, while the other Swords are shared between the three Air signs — Libra, Aquarius and Gemini. So the Ace holds all three in potential: Libra’s weighing, Aquarius’s new idea, Gemini’s quick word. If [astrology](/library/astrology/) speaks to you, keep that picture; if not, the number and the element have already said what matters.
 
 ## In a reading {#reading}
 
@@ -80,7 +80,7 @@ Next to [the Magician](/library/tarot-cards/the-magician/), another 1, the idea 
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Ace of Swords next to the [Two of Pentacles](/library/tarot-cards/two-of-pentacles/). Lenses first. One then two: a beginning, then a balance to keep. Air then Earth: a thought, then something concrete — money, time, a job. Grey and steel, then a figure juggling two coins with ships riding the waves behind.
+Imagine reading for a stranger who turns up the Ace of Swords beside the [Two of Pentacles](/library/tarot-cards/two-of-pentacles/). One then two: a beginning, then a balance to keep. Air then Earth: a thought, then something concrete — money, time, a job. Grey and steel, then a figure juggling two coins with ships riding the waves behind.
 
 You might say: “You’ve been juggling two things for a while, and in your head the choice is already made. What’s missing is saying it.”
 

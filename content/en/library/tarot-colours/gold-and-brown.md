@@ -1,9 +1,7 @@
 ---
 title: 'Gold and brown in tarot: meaning, cards where it dominates and how to read
   it (tarot colours)'
-description: 'Gold and brown in the Rider-Waite-Smith tarot: value earned, matter,
-  worked earth. Where the colour appears in the deck, what it says before you even
-  know the card, its flip side, and how to read it with the other lenses.'
+description: "Gold and brown in the Rider-Waite-Smith tarot: value earned, matter, worked earth. Two colours that say what it cost."
 translationKey: col-gold-and-brown
 type: library
 navTitle: Gold and brown

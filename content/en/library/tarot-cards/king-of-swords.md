@@ -49,9 +49,9 @@ His throne is grey stone, with a tall back that rises well above his head, carve
 
 ## By number: the King {#number}
 
-**the King — outer mastery, decision.** Every [King](/library/numerology/king/) sits on a throne that names his suit: salamanders for Fire, fish for Water, bulls for Earth, butterflies for Air. The King doesn’t look at his tool; he looks at the world he manages with it. The rank’s advice: decide, then answer for it.
+A [King](/library/numerology/king/) sits on a throne that names his suit, and this one is carved with Air’s butterfly. His job, as a King, is to decide and then answer for what he decided.
 
-The King of Swords is the King who judges. The question to ask him, as with every King, is: for whom? At his best he protects what he governs with clear, fair rules. At his worst he governs for himself, and calls it logic.
+The King of Swords is the King who judges, so ask whom his judgements serve. At his best he protects what he governs with clear, fair rules. At his worst he governs for himself, and calls it logic.
 
 ## By element: Air {#element}
 
@@ -67,7 +67,7 @@ Most of the card is pale [blue](/library/tarot-colours/blue/): the robe, the sky
 
 Upright, the King of Swords is a clear decision, owned: someone who thinks, weighs, judges and explains. An expert’s opinion, a manager who sets the rule, a teacher who knows the subject inside out. Or you, at the moment the choice is yours. **The King of Swords decides, and looks you in the eye while he does it.**
 
-Reversed, the same authority is slowed down or overdone. Slowed down: the person who should decide keeps putting it off, or hands down decisions without explaining them. Overdone: rules for the sake of rules, cold verdicts, intelligence used to win rather than to be fair.
+Reversed, his authority either stalls or hardens. Slowed down: the person who should decide keeps putting it off, or hands down decisions without explaining them. Overdone: rules for the sake of rules, cold verdicts, intelligence used to win rather than to be fair.
 
 Next to [the Emperor](/library/tarot-cards/the-emperor/), authority doubles: structure and decision in the same hands, and “for whom?” becomes the urgent question. Next to [Justice](/library/tarot-cards/justice/), a fair decision is made with all the facts on the table. Next to the [King of Cups](/library/tarot-cards/king-of-cups/), head and heart sit side by side: the verdict, and the calm to deliver it kindly.
 
@@ -75,8 +75,8 @@ Next to [the Emperor](/library/tarot-cards/the-emperor/), authority doubles: str
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the King of Swords next to the [Six of Pentacles](/library/tarot-cards/six-of-pentacles/). Lenses first. A King then a six: decision, then success and fair exchange. Fire of Air then Earth: a rule made in the head, then its effect in the real world. A king facing you with his sword, then a man holding a pair of scales and handing out coins.
+A draw to practise on: someone you don’t know turns up the King of Swords, then the [Six of Pentacles](/library/tarot-cards/six-of-pentacles/). A King then a six: decision, then success and fair exchange. Fire of Air then Earth: a rule made in the head, then its effect in the real world. A king facing you with his sword, then a man holding a pair of scales and handing out coins.
 
 Out loud, you might say: “You’re the one who has to decide how something gets shared — time, work, credit — and people will accept your decision if you explain your reasons.”
 
-Then check: “Are you in a position where you decide for other people right now?” If yes, ask who the decision is for. If no, it’s a miss: note it, and leave it there. I read; you decide.
+Then check: “Are you in a position where you decide for other people right now?” If yes, ask who the decision is for. If no, it’s a miss: note it, and leave it there.

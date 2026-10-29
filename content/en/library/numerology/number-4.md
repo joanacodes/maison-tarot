@@ -1,8 +1,6 @@
 ---
 title: 'Number 4 in tarot: meaning, cards and advice (tarot numerology)'
-description: The home, being at home, the structure. Four is stability achieved —
-  2 exalted, the alliance become a foundation. The five cards that carry it, an example
-  everyone knows, and how to read it in a spread.
+description: "The home, being at home, the structure. Four is stability achieved — 2 exalted, the alliance become a foundation."
 translationKey: num-4
 type: library
 navTitle: Number 4

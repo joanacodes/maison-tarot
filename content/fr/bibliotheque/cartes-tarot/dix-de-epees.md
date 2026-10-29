@@ -53,7 +53,7 @@ La moitié haute de la carte est un ciel noir. Tout en bas, juste au-dessus d’
 
 ## Par le nombre : dix {#nombre}
 
-**dix — la fin du cycle, la transition.** Le dix, c’est le couloir entre deux pièces : ce qui était est fini, ce qui vient n’a pas encore de nom. Il apporte la liberté, le changement, une respiration ; son revers, c’est qu’il vous pousse à commencer autre chose, prêt ou pas.
+Le dix ferme le cycle, et cet homme est étendu dans le couloir, entre une pièce qui se termine et une autre qui n’a pas encore de nom. Il apporte la liberté, le changement, une respiration ; son revers, c’est qu’il vous pousse à commencer autre chose, prêt ou pas.
 
 Mes notes sur le 10 contiennent une phrase faite pour cette carte : vu de l’extérieur, on peut avoir l’air à terre, alors qu’en réalité le papillon est déjà loin, sorti de sa chrysalide. Au dixième stade, Instagram avait tant changé que plus personne ne le reconnaissait. Le conseil du [chiffre 10](/fr/bibliotheque/numerologie/chiffre-10/) : ne pas confondre la mue avec la chute.
 
@@ -69,13 +69,13 @@ Le [noir](/fr/bibliotheque/couleurs-tarot/noir/) remplit le ciel : l’absence, 
 
 ## Par l’astrologie : Soleil en Gémeaux {#astrologie}
 
-Dans la tradition Golden Dawn, le Dix d’Épées correspond au [Soleil](/fr/bibliotheque/astrologie/soleil/) dans le troisième décan des Gémeaux, et porte un titre qui fait peur : « Seigneur de la ruine ». Les Gémeaux, c’est « je pense » ; le Soleil, c’est le centre, ce autour de quoi vous organisez votre vie. La ruine du centre : la façon de penser sur laquelle vous aviez tout bâti, terminée. Et le Soleil est dessiné sur la carte, dans cette bande jaune à l’horizon. Une clé facultative : le nombre dit déjà la même chose.
+Dans la tradition Golden Dawn, le Dix d’Épées correspond au [Soleil](/fr/bibliotheque/astrologie/soleil/) dans le troisième décan des Gémeaux. Les Gémeaux, c’est « je pense » ; le Soleil, c’est le centre, ce autour de quoi vous organisez votre vie. La ruine du centre : la façon de penser sur laquelle vous aviez tout bâti, terminée. Et le Soleil est dessiné sur la carte, dans cette bande jaune à l’horizon. Une clé facultative : le nombre dit déjà la même chose.
 
 ## En lecture {#lecture}
 
 Le Dix d’Épées fait partie des cartes qui font le plus peur, et je comprends pourquoi : c’est le dessin le plus dur du jeu. Il n’annonce ni une mort, ni une maladie, ni une agression, et je ne lis pas sur ces sujets. Il parle d’une fin dans votre vie — un travail, une relation, un rôle, un projet — qui est allée aussi loin qu’elle pouvait aller. Le fond du trou, et aussi le sol sur lequel on prend appui pour remonter. **Le Dix d’Épées, c’est la fin de la chute, pas son début.**
 
-Renversé, la même fin est freinée ou excessive. Freinée : se relever lentement, une épée après l’autre, une fois le pire passé. Excessive : refuser d’admettre que c’est fini et rester à terre — ou vivre chaque contretemps comme le fond du trou.
+Renversé, cette fin se quitte pas à pas, ou ne finit jamais. Freinée : se relever lentement, une épée après l’autre, une fois le pire passé. Excessive : refuser d’admettre que c’est fini et rester à terre — ou vivre chaque contretemps comme le fond du trou.
 
 Si quelqu’un tire cette carte alors que tout va vraiment au plus mal, la carte n’est pas le sujet. Demandez à la personne comment elle va. Si cela semble plus lourd que ce qu’une lecture peut porter, [un médecin ou un thérapeute est la bonne porte](/fr/avertissements/#therapie), et le dire avec douceur fait partie d’une bonne lecture.
 
@@ -97,8 +97,8 @@ Cette semaine, notez les dix épées : dix choses qui font mal dans cette fin. P
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Dix d’Épées à côté de l’As de Bâtons. Les clés de lecture d’abord. Dix, puis un : un cycle se ferme, un autre commence. L’Air puis le Feu : une façon de penser se termine, une nouvelle envie arrive. Un ciel noir avec de la lumière tout en bas, puis une main qui sort d’un nuage et tient un bâton couvert de jeunes feuilles.
+Dans un tirage d’entraînement pour une personne que vous ne connaissez pas, le Dix d’Épées pourrait sortir à côté de l’As de Bâtons. Dix, puis un : un cycle se ferme, un autre commence. L’Air puis le Feu : une façon de penser se termine, une nouvelle envie arrive. Un ciel noir avec de la lumière tout en bas, puis une main qui sort d’un nuage et tient un bâton couvert de jeunes feuilles.
 
 À voix haute, cela pourrait donner : « Quelque chose que vous portiez à bout de bras est arrivé à son terme, et c’est vraiment fini. Ce qui arrive, c’est un nouveau désir — quelque chose que vous avez envie de faire, pas quelque chose que vous devez réparer. »
 
-Puis vérifiez : « Est-ce que quelque chose s’est terminé pour vous récemment, quelque chose que vous vous battiez pour faire durer ? » Laissez la personne répondre avec ses mots. Si elle dit non, un raté est un raté : ne tordez pas la carte pour qu’elle colle.
+Puis vérifiez : « Est-ce que quelque chose s’est terminé pour vous récemment, quelque chose que vous vous battiez pour faire durer ? » Laissez-lui le temps de répondre. Si elle dit non, c’est un raté : ne tordez pas la carte pour qu’elle colle.

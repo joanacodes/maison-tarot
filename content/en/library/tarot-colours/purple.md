@@ -1,9 +1,7 @@
 ---
 title: 'Purple in tarot: meaning, cards where it dominates and how to read it (tarot
   colours)'
-description: 'Purple in the Rider-Waite-Smith tarot: the one chosen by a group. Where
-  the colour appears in the deck, what it says before you even know the card, its
-  flip side, and how to read it with the other lenses.'
+description: "Purple in the Rider-Waite-Smith tarot: the one chosen by a group. It's the colour of the chosen one — not the Chosen One who thinks he's special, but the one a group has appointed: the King, the Queen, the Hierophant."
 translationKey: col-purple
 type: library
 navTitle: Purple

@@ -50,9 +50,9 @@ Des quatre Cavaliers, c’est le seul dont le cheval reste immobile. **La carte 
 
 ## Par le nombre : le Cavalier {#nombre}
 
-**le Cavalier — l’action, la quête, l’excès.** Le [Cavalier](/fr/bibliotheque/numerologie/cavalier/) est l’élément en mouvement : ce que la famille fait quand elle agit. Le cheval dit tout — celui des Bâtons se cabre, celui des Épées charge, celui des Coupes avance au pas, celui des Pentacles reste planté. Ici, l’action est réelle, mais c’est celle de quelqu’un qui ne partira qu’une fois sûr de son coup.
+Le [Cavalier](/fr/bibliotheque/numerologie/cavalier/), c’est sa famille en marche, et pourtant celui-ci monte un cheval qui ne bouge pas. L’action est réelle, mais c’est celle de quelqu’un qui ne partira qu’une fois sûr de son coup.
 
-Le conseil du rang est de vérifier la direction avant la vitesse, et ce Cavalier ne fait que ça. Tout le monde connaît quelqu’un comme lui : l’ami qui demande douze devis avant de faire réparer sa chaudière, et dont la chaudière tourne ensuite vingt ans. L’excès du rang, c’est la qualité poussée trop loin — le treizième devis.
+Le rang demande à un Cavalier de savoir où il va avant de partir, et celui-ci ne fait que ça. Tout le monde connaît quelqu’un comme lui : l’ami qui demande douze devis avant de faire réparer sa chaudière, et dont la chaudière tourne ensuite vingt ans. Poussée trop loin, cette prudence donne le treizième devis.
 
 ## Par l’élément : Terre {#element}
 
@@ -68,7 +68,7 @@ Le cheval est [noir](/fr/bibliotheque/couleurs-tarot/noir/) et occupe la moitié
 
 À l’endroit : un progrès lent et fiable. Un projet qui avance pas à pas, un engagement tenu, une routine qui fonctionne. En tant que personne : quelqu’un de constant, méthodique, loyal — le collègue à qui l’on confie le dossier parce qu’on sait qu’il sera bouclé. **Lent ne veut pas dire bloqué, tant que le cheval finit par faire un pas.**
 
-Renversé, la même patience, freinée ou excessive. Freinée : le plan est vérifié si souvent qu’il ne démarre jamais ; la personne attend une certitude qui n’existe pas. Excessive : la méthode devient rigidité — le même trajet, la même façon, « parce qu’on a toujours fait comme ça » — et l’ami fiable devient celui qui ne bouge plus d’un pouce.
+Renversé, sa patience ne démarre jamais, ou se fige. Freinée : le plan est vérifié si souvent qu’il ne démarre jamais ; la personne attend une certitude qui n’existe pas. Excessive : la méthode devient rigidité — le même trajet, la même façon, « parce qu’on a toujours fait comme ça » — et l’ami fiable devient celui qui ne bouge plus d’un pouce.
 
 À côté du [Cavalier d’Épées](/fr/bibliotheque/cartes-tarot/cavalier-de-epees/), deux vitesses à la fois : l’un charge, l’autre n’est pas parti — une équipe, ou deux voix dans la même tête. À côté du [Sept de Pentacles](/fr/bibliotheque/cartes-tarot/sept-de-pentacles/), un autre homme qui regarde ses pièces : la patience avant la récolte, deux fois. À côté du [Chariot](/fr/bibliotheque/cartes-tarot/le-chariot/), l’immobilité se change en mouvement, ou rencontre quelqu’un qui n’attendra pas.
 
@@ -78,8 +78,8 @@ Si la question de fond porte sur l’argent — épargner, placer, dépenser —
 
 ## Exemple de tirage {#exemple}
 
-Mettons qu’une personne s’assoie, ne vous dise rien, et tire le Cavalier de Pentacles à côté du Huit de Bâtons. Les clés de lecture d’abord. Cavalier puis huit : une action tenue en bride, puis la vitesse — ma note pour le Huit de Bâtons, ce sont des bâtons qui volent ou qui tombent, le verre à moitié plein ou à moitié vide. Terre puis Feu : un plan lent, puis des choses qui vont vite. Un cheval immobile, puis huit bâtons qui traversent un ciel dégagé.
+Imaginez un tirage où le Cavalier de Pentacles sort d’abord et le Huit de Bâtons ensuite, pour quelqu’un que vous ne connaissez pas. Cavalier puis huit : une action tenue en bride, puis la vitesse — ma note pour le Huit de Bâtons, ce sont des bâtons qui volent ou qui tombent, le verre à moitié plein ou à moitié vide. Terre puis Feu : un plan lent, puis des choses qui vont vite. Un cheval immobile, puis huit bâtons qui traversent un ciel dégagé.
 
 À voix haute : « Vous êtes la personne prudente, et autour de vous les choses s’accélèrent d’un coup. Rien ne vous oblige à galoper. Mais vous allez peut-être devoir décider un peu plus vite que vous ne le voudriez. »
 
-Puis vérifiez : « Est-ce que quelque chose autour de vous va plus vite que vous ? » Si non, c’est un raté : dites-le, notez-le, et passez à la suite.
+Puis vérifiez : « Est-ce que quelque chose autour de vous va plus vite que vous ? » Si rien ne s’accélère autour de la personne, c’est un raté, à dire et à noter.

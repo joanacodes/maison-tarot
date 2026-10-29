@@ -1,9 +1,7 @@
 ---
 title: 'Le blanc au tarot : signification, cartes où il domine et lecture (couleurs
   du tarot)'
-description: 'Le blanc dans le tarot Rider-Waite-Smith : pureté, innocence, paix.
-  Où la couleur apparaît dans le jeu, ce qu’elle dit avant même de connaître la carte,
-  son revers, et comment la lire avec les autres clés.'
+description: "Le blanc dans le tarot Rider-Waite-Smith : pureté, innocence, paix. Dans le jeu, c’est la rose du Mat, le chien qui le suit, la robe du Magicien, le cheval du Soleil et celui de la Mort — le blanc n’est pas toujours du côté qu’on croit."
 translationKey: col-white
 type: library
 navTitle: Le blanc

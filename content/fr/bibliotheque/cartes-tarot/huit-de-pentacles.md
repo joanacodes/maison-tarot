@@ -51,15 +51,15 @@ Derrière lui, presque rien : un ciel gris pâle et, tout petit dans le coin en 
 
 ## Par le nombre : huit {#nombre}
 
-**huit — le mouvement, la maîtrise, le fruit du travail.** [Le 8, c’est l’empire](/fr/bibliotheque/numerologie/chiffre-8/) : le 4 exalté, la structure devenue force durable. Ma note pour cette carte tient en une ligne — entreprise prospère, maîtrise, effort nécessaire — et la fin compte autant que le début. Couchez un 8 sur le côté et vous obtenez le signe de l’infini au-dessus de la tête du Magicien : le contrôle, un geste qui revient sur lui-même.
+[Le 8, c’est l’empire](/fr/bibliotheque/numerologie/chiffre-8/) : le 4 exalté, la structure devenue force durable. Ma note pour cette carte tient en une ligne — entreprise prospère, maîtrise, effort nécessaire — et la fin compte autant que le début. Couchez un 8 sur le côté et vous obtenez le signe de l’infini au-dessus de la tête du Magicien : le contrôle, un geste qui revient sur lui-même.
 
 Dans l’histoire d’Instagram, le 8, c’est l’application devenue empire. Cette carte en montre la face discrète : les heures à l’établi que personne ne filme.
 
 ## Par l’élément : Terre {#element}
 
-Les Pentacles, c’est la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, ce qui a de la valeur à vos yeux, le résultat du travail. Ici, la Terre n’est ni un champ ni un trésor ; c’est un matériau qu’on façonne, avec ténacité, persévérance, endurance.
+Les Pentacles relèvent de la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, la valeur, et sur cette carte surtout le résultat du travail. Ici, la Terre n’est ni un champ ni un trésor ; c’est un matériau qu’on façonne, avec ténacité, persévérance, endurance.
 
-Le revers de la Terre, c’est l’entêtement, et il habite aussi cette carte : la même pièce, de la même façon, parce que « ça s’est toujours fait comme ça ». Toutes les richesses ne sont pas en or : le savoir-faire qu’il a dans les mains vaut plus que les six pièces du poteau.
+Le revers de la Terre, c’est l’entêtement, et il habite aussi cette carte : la même pièce, de la même façon, parce que « ça s’est toujours fait comme ça ». Le savoir-faire qu’il a dans les mains vaut plus que les six pièces du poteau.
 
 ## Par les couleurs {#couleurs}
 
@@ -69,7 +69,7 @@ Puis le corps : une tunique bleue pour les émotions apaisées et la vitalité, 
 
 ## Par l’astrologie : Soleil en Vierge {#astrologie}
 
-Dans le système de la Golden Dawn, cette carte correspond au Soleil dans le premier décan de la [Vierge](/fr/bibliotheque/astrologie/vierge/), sous le titre « Seigneur de la Prudence ». Le verbe de la Vierge, c’est « j’analyse » — l’ingénieur, l’exécutant hors pair — et le Soleil, ce autour de quoi une vie s’organise. Ensemble : quelqu’un dont le centre est de bien faire les choses.
+Dans le système de la Golden Dawn, cette carte correspond au Soleil dans le premier décan de la [Vierge](/fr/bibliotheque/astrologie/vierge/). Le verbe de la Vierge, c’est « j’analyse » — l’ingénieur, l’exécutant hors pair — et le Soleil, ce autour de quoi une vie s’organise. Ensemble : quelqu’un dont le centre est de bien faire les choses.
 
 À garder ici comme petite confirmation : la carte majeure de la Vierge est l’Ermite, et cet homme est un ermite avec un marteau. Si l’[astrologie](/fr/bibliotheque/astrologie/) n’est pas votre clé de lecture, laissez-la de côté ; le nombre et l’élément ont déjà tout dit.
 
@@ -77,7 +77,7 @@ Dans le système de la Golden Dawn, cette carte correspond au Soleil dans le pre
 
 À l’endroit : un travail en cours, et qui avance bien. Une formation, un apprentissage, un métier, un projet amélioré pièce après pièce ; la personne qui reste tard parce qu’elle veut que ce soit juste. **La maîtrise, c’est le même geste bien fait, encore et encore — la carte ne promet pas de raccourci, et n’en a pas besoin.**
 
-Renversée, le même établi, freiné ou excessif. Freiné : le geste fait en pilote automatique, l’apprentissage abandonné à la sixième pièce. Excessif : le perfectionnisme, ou tant d’heures à l’établi que la ville du coin, et les gens qui y vivent, se fondent dans l’horizon.
+Renversée, le travail à l’établi perd son soin, ou ne s’arrête plus. Freiné : le geste fait en pilote automatique, l’apprentissage abandonné à la sixième pièce. Excessif : le perfectionnisme, ou tant d’heures à l’établi que la ville du coin, et les gens qui y vivent, se fondent dans l’horizon.
 
 À côté du [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/), le travail de l’artisan est regardé par d’autres. À côté de [l’Ermite](/fr/bibliotheque/cartes-tarot/l-ermite/), la Vierge deux fois : le retrait pour l’ouvrage, très bien tant qu’il a une fin. À côté du [Mat](/fr/bibliotheque/cartes-tarot/le-mat/), quelque chose qu’on quitte sans plan, et un savoir-faire qu’on apprend en faisant.
 
@@ -87,7 +87,7 @@ Si la question de fond porte sur l’argent — une augmentation, un placement, 
 
 ## Exemple de tirage {#exemple}
 
-Mettons qu’une personne s’assoie, ne vous dise rien, et tire le Huit de Pentacles à côté du Sept de Coupes. Les clés de lecture d’abord. Huit puis sept : une maîtrise en construction, puis la réflexion — et, dans mes notes, l’embarras du choix. Terre puis Eau : les mains dans la matière, puis une tête pleine d’envies. Un homme qui ne voit que sa pièce, puis une silhouette face à sept coupes qui flottent dans un nuage.
+Mettez-vous en face de quelqu’un qui vient de retourner le Huit de Pentacles, avec le Sept de Coupes à côté. Huit puis sept : une maîtrise en construction, puis la réflexion — et, dans mes notes, l’embarras du choix. Terre puis Eau : les mains dans la matière, puis une tête pleine d’envies. Un homme qui ne voit que sa pièce, puis une silhouette face à sept coupes qui flottent dans un nuage.
 
 À voix haute : « Vous savez faire quelque chose bien, et vous le faites. Mais une partie de vous regarde d’autres vies possibles, et n’est pas sûre que l’établi suffise. »
 

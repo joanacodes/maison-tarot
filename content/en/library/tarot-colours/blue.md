@@ -1,9 +1,7 @@
 ---
 title: 'Blue in tarot: meaning, cards where it dominates and how to read it (tarot
   colours)'
-description: 'Blue in the Rider-Waite-Smith tarot: emotions, making pure, water, vitality.
-  Where the colour appears in the deck, what it says before you even know the card,
-  its flip side, and how to read it with the other lenses.'
+description: "Blue in the Rider-Waite-Smith tarot: emotions, making pure, water, vitality. It's the colour of the High Priestess and of almost every Cup."
 translationKey: col-blue
 type: library
 navTitle: Blue

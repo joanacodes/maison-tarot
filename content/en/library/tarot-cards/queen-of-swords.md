@@ -49,9 +49,9 @@ Her cloak is patterned with white clouds on blue, over a pale robe. The throne i
 
 ## By number: the Queen {#number}
 
-**the Queen — inner mastery, welcome.** Every [Queen](/library/numerology/queen/) is seated and holds her suit’s tool like something familiar: they know, they prove nothing. The Queen of Swords is the one who raises her hand for you to speak. The rank’s advice is to hold without holding on. At her best she welcomes and lets things through; at her worst she keeps — here, judgements and grudges — and mistakes clarity for control.
+A [Queen](/library/numerology/queen/) masters things from the inside, and this one does it with her sword upright and her free hand open: she’s the Queen who raises her hand for you to speak. At her best she lets people talk and lets things pass; at her worst she holds on to judgements and grudges, and mistakes clarity for control.
 
-Her energy is [feminine in the sense I give it](/library/feminine-masculine-energies/): thinking, patience, the intangible. It has nothing to do with being a woman. A man can be a Queen of Swords, and many are.
+Her energy is [feminine in the sense I give it](/library/feminine-masculine-energies/): thinking, patience, the intangible. The lucid friend this card describes can just as well be a man.
 
 ## By element: Air {#element}
 
@@ -75,8 +75,8 @@ Next to [Justice](/library/tarot-cards/justice/), clarity becomes a decision —
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Queen of Swords next to the Five of Cups. Lenses first. A Queen then a five: inner mastery, then conflict and loss. Water of Air then Water: a clear mind, then sorrow. A blue sky above the clouds, then a figure in a black cloak looking down at spilled cups.
+Here is a pairing worth practising on: someone draws the Queen of Swords, and beside it the Five of Cups. A Queen then a five: inner mastery, then conflict and loss. Water of Air then Water: a clear mind, then sorrow. A blue sky above the clouds, then a figure in a black cloak looking down at spilled cups.
 
 Out loud, you might say: “Something has been lost, and you’re the first to see it clearly. You’re ready to name what happened, even if the people around you are still looking at what’s spilled.”
 
-Then check: “Does that sound like where you are?” Let the person answer in their own words, without filling the gaps for them. If it doesn’t land, it’s a miss, and it goes in the notebook as one.
+Then check: “Does that sound like where you are?” Wait for the answer, and leave their silences alone. If it doesn’t fit, be as honest about the miss as this Queen would be.

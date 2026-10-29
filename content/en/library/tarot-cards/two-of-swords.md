@@ -50,7 +50,7 @@ The whole drawing says one thing: **a balance kept by refusing to look.**
 
 ## By number: two {#number}
 
-**two — to bind, to weigh, to cooperate.** Two is the contract between two parties, and its advice is to read the contract and weigh the pros and cons. The Two of Swords is that weighing done blindfold: two options held at equal distance, so that neither ever wins. Instagram’s second stage was signing with investors, the first moment you can lose something other than your own time. Here the person is still at the table, pen in hand, not signing. The minus of [number 2](/library/numerology/number-2/) is on the card too: stubbornness, solitude, the mind talking to itself.
+Two is the contract between two parties, and its advice is to read the contract and weigh the pros and cons. The Two of Swords is that weighing done blindfold: two options held at equal distance, so that neither ever wins. Instagram’s second stage was signing with investors, the first moment you can lose something other than your own time. Here the person is still at the table, pen in hand, not signing. The minus of [number 2](/library/numerology/number-2/) is on the card too: stubbornness, solitude, the mind talking to itself.
 
 ## By element: Air {#element}
 
@@ -62,7 +62,7 @@ The [white](/library/tarot-colours/white/) of the robe and the blindfold: peace,
 
 ## By astrology: Moon in Libra {#astrology}
 
-In the Golden Dawn tradition, the Two of Swords is the Moon in the first decan of Libra, and its title was the Lord of Peace Restored. [Libra](/library/astrology/libra/) balances: it wants each side to leave with the same thing, and it freezes before a dilemma where no scale can be level. The Moon is what you feel when nobody’s watching. Together: a feeling kept under wraps for the sake of balance. The crescent is drawn right there in her sky, which makes this one of the attributions you can actually see. Keep the lens if it helps; the card reads well without it.
+In the Golden Dawn tradition, the Two of Swords is the Moon in the first decan of Libra. [Libra](/library/astrology/libra/) balances: it wants each side to leave with the same thing, and it freezes before a dilemma where no scale can be level. The Moon adds the need to feel safe, and the blindfold buys her that. Together: a feeling kept under wraps for the sake of balance. The crescent is drawn right there in her sky, which makes this one of the attributions you can actually see. Keep the lens if it helps; the blindfold and the crossed arms say it without astrology.
 
 ## In a reading {#reading}
 
@@ -78,8 +78,8 @@ Next to [Justice](/library/tarot-cards/justice/), the difference jumps out: Just
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Two of Swords next to the [Knight of Swords](/library/tarot-cards/knight-of-swords/). Lenses first. Two, then a Knight: the weighing, then movement. Air and Air: the whole spread is happening in the head. White and grey, then a rider charging under a windy sky.
+Picture someone across the table turning over the Two of Swords, with the [Knight of Swords](/library/tarot-cards/knight-of-swords/) beside it. Two, then a Knight: the weighing, then movement. Air and Air: the whole spread is happening in the head. White and grey, then a rider charging under a windy sky.
 
 You might say: “You’ve been putting off a choice for a while, and something or someone is about to make you go faster than you’d like.”
 
-Then check: “Is there a decision you’ve been holding off? Is anyone pushing for an answer?” Let the person answer in their own words, and don’t fill in the blanks for them. I read; you decide — and with this card that’s the whole point, because nobody can take the blindfold off for someone else.
+Then check: “Is there a decision you’ve been holding off? Is anyone pushing for an answer?” Let the person answer in their own words, and don’t fill in the blanks for them. With this card that’s the whole point: nobody can take the blindfold off for someone else.

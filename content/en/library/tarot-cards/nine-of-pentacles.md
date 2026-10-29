@@ -50,15 +50,15 @@ She isn’t looking at us, or at the bird. Her eyes are lowered, almost closed, 
 
 ## By number: nine {#number}
 
-**nine — near completion, almost there.** [Nine is the home stretch](/library/numerology/number-9/): the end of a stage, the last efforts, introspection, patience — but keep moving. My note for this card: enjoying what comes, gratitude for everything you have. The carving of the Eight is done; the coins sit among the vines like fruit, and she’s allowed to stop and look.
+[Nine is the home stretch](/library/numerology/number-9/): nearly done, a time for patience and looking inward while you keep going. My note for this card: enjoying what comes, gratitude for everything you have. The carving of the Eight is done; the coins sit among the vines like fruit, and she’s allowed to stop and look.
 
 Allowed to stop, not to settle. In the story of Instagram, 9 is the redesign around Reels: the platform at its height, and already changing. Enjoy the garden, knowing it’s a season.
 
 ## By element: Earth {#element}
 
-[Earth](/library/four-elements/earth-element/) is matter, prosperity, whatever has value for you — money or sentimental. This is Earth at its most fertile: ripe grapes, a house, a garden tended long enough to give back.
+[Earth](/library/four-elements/earth-element/) is matter and plenty, the things you value and can touch. This is Earth at its most fertile: ripe grapes, a house, a garden tended long enough to give back.
 
-Earth’s minus is stubbornness, and here it takes a quiet form: the garden as a wall. “Not all riches are gold,” I wrote in my notes. The coins are there; the real wealth is the time to stand in a vineyard doing nothing.
+Earth’s minus is stubbornness, and here it takes a quiet form: the garden as a wall. The coins are there; the real wealth is the time to stand in a vineyard doing nothing.
 
 ## By colours {#colours}
 
@@ -68,7 +68,7 @@ The red of the cap, the flowers and the falcon’s hood adds drive and desire, k
 
 ## By astrology: Venus in Virgo {#astrology}
 
-In the Golden Dawn system, this card is [Venus](/library/astrology/venus/) in the second decan of [Virgo](/library/astrology/virgo/), titled “Lord of Material Gain”. Venus is what you love and find beautiful; Virgo is “I analyse”. Traditional astrology calls Venus “in fall” in Virgo — pleasure under a perfectionist’s eye. Here it reads as pleasure earned: the garden is beautiful because it has been tended.
+In the Golden Dawn system, this card is [Venus](/library/astrology/venus/) in the second decan of [Virgo](/library/astrology/virgo/). Venus is what you love and find beautiful; Virgo is “I analyse”. Traditional astrology calls Venus “in fall” in Virgo — pleasure under a perfectionist’s eye. Here it reads as pleasure earned: the garden is beautiful because it has been tended.
 
 Keep it if astrology speaks to you; the flowers on her robe already carry Venus. If not, number and element have said the same.
 
@@ -76,7 +76,7 @@ Keep it if astrology speaks to you; the flowers on her robe already carry Venus.
 
 Upright: enjoyment, gratitude, independence. Someone who has built a life that holds — a home, a craft, a routine that feeds them — and enjoys it without needing applause. It can be a person around you, or you, the day you stop asking whether you’ve done enough. **Gratitude is the nine’s work: look at what you have before you count what’s missing.**
 
-Reversed, the same garden, slowed down or overdone. Slowed: everything on the card is yours and you can’t enjoy it — guilt at resting, the eyes already on the next harvest. Overdone: comfort hardens into a wall; independence becomes “I don’t need anyone”, and the falcon never leaves the glove.
+Reversed, the garden either loses its pleasure or closes in on itself. Slowed: everything on the card is yours and you can’t enjoy it — guilt at resting, the eyes already on the next harvest. Overdone: comfort hardens into a wall; independence becomes “I don’t need anyone”, and the falcon never leaves the glove.
 
 Next to the [Ten of Pentacles](/library/tarot-cards/ten-of-pentacles/), the garden fills with people: what you enjoyed alone is shared across generations. Next to the [Nine of Cups](/library/tarot-cards/nine-of-cups/), two contentments: one shows off his cups, the other walks among her vines. Next to the [Queen of Pentacles](/library/tarot-cards/queen-of-pentacles/), the woman in the garden sits down and starts feeding others.
 
@@ -86,7 +86,7 @@ If someone hopes this card means a windfall, I’d rather look at what they alre
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Nine of Pentacles next to the [Eight of Cups](/library/tarot-cards/eight-of-cups/). Lenses first. Nine then eight: the last stretch of one cycle, then — in my notes — moving on from what you’re already doing. Earth then Water: a garden that holds, then feelings on the move. A woman standing still among her vines, then a figure in red walking away from eight stacked cups, towards the mountains.
+Here’s a made-up spread of two cards, for someone you’ve just met: the Nine of Pentacles, then the [Eight of Cups](/library/tarot-cards/eight-of-cups/). Nine then eight: the last stretch of one cycle, then — in my notes — moving on from what you’re already doing. Earth then Water: a garden that holds, then feelings on the move. A woman standing still among her vines, then a figure in red walking away from eight stacked cups, towards the mountains.
 
 Out loud: “You’ve built something comfortable, and you’re allowed to enjoy it. But part of you is already reaching for its coat — not because anything is wrong here, but because you’ve seen what there is to see.”
 

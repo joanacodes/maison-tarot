@@ -51,7 +51,7 @@ Le lit est en bois, avec une petite scène sculptée sur le panneau de côté. S
 
 ## Par le nombre : neuf {#nombre}
 
-**neuf — l’aboutissement, presque au bout.** Le neuf, c’est la ligne d’arrivée : la fin d’une étape, les derniers efforts, l’introspection, la patience — et la nécessité de continuer à avancer. Ma note sur cette carte : sortir d’un cauchemar, d’une longue période troublée, avec une protection au-dessus de soi. C’est ainsi que je lis les épées. Elles sont alignées au-dessus du lit comme un râtelier au mur, elles ne visent personne, et la personne s’est redressée : le rêve est fini, même si la peur n’est pas encore partie.
+Le neuf, c’est la ligne d’arrivée : la fin d’une étape, les derniers efforts, l’introspection, la patience — et la nécessité de continuer à avancer. Ma note sur cette carte : sortir d’un cauchemar, d’une longue période troublée, avec une protection au-dessus de soi. C’est ainsi que je lis les épées. Elles sont alignées au-dessus du lit comme un râtelier au mur, elles ne visent personne, et la personne s’est redressée : le rêve est fini, même si la peur n’est pas encore partie.
 
 Les nuits les plus dures arrivent souvent vers la fin d’une longue période, quand on est épuisé d’avoir tenu. Le neuvième stade d’Instagram, c’est la refonte qui a mis fin à tout ce qui le définissait. Le conseil du [chiffre 9](/fr/bibliotheque/numerologie/chiffre-9/) : ne pas s’arrêter à cent mètres de l’arrivée.
 
@@ -67,7 +67,7 @@ Le [noir](/fr/bibliotheque/couleurs-tarot/noir/) occupe presque toute la carte. 
 
 ## Par l’astrologie : Mars en Gémeaux {#astrologie}
 
-Dans la tradition Golden Dawn, le Neuf d’Épées correspond à Mars dans le deuxième décan des Gémeaux. [Mars](/fr/bibliotheque/astrologie/mars/) dit comment on agit et comment on se bat ; les Gémeaux, c’est « je pense », le signe des mots et des échanges. Ensemble : un combat qui se livre dans la tête — la dispute qu’on rejoue, la conversation du lendemain répétée dix fois. Une clé facultative, comme toutes les clés astrologiques.
+Dans la tradition Golden Dawn, le Neuf d’Épées correspond à Mars dans le deuxième décan des Gémeaux. [Mars](/fr/bibliotheque/astrologie/mars/) dit comment on agit et comment on se bat ; les Gémeaux, c’est « je pense », le signe des mots et des échanges. Ensemble : un combat qui se livre dans la tête — la dispute qu’on rejoue, la conversation du lendemain répétée dix fois. Laissez cette clé de côté si elle ne vous aide pas : les épées au-dessus du lit montrent déjà ce combat.
 
 ## En lecture {#lecture}
 
@@ -83,7 +83,7 @@ Si les mauvaises nuits durent depuis des semaines, ou si l’inquiétude envahit
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Neuf d’Épées à côté du Six de Coupes. Les clés de lecture d’abord. Un neuf puis un six : la fin d’une longue période, puis le repos et l’harmonie. L’Air puis l’Eau : des pensées qui tournent, puis des sentiments qui se posent. Du noir et de l’acier, puis une cour ensoleillée et des coupes remplies de fleurs blanches.
+Prenez une élève qui s’entraîne avec vous : elle tire le Neuf d’Épées et, juste à côté, le Six de Coupes. Un neuf puis un six : la fin d’une longue période, puis le repos et l’harmonie. L’Air puis l’Eau : des pensées qui tournent, puis des sentiments qui se posent. Du noir et de l’acier, puis une cour ensoleillée et des coupes remplies de fleurs blanches.
 
 À voix haute, cela pourrait donner : « Vous avez enchaîné les mauvaises nuits à cause de quelque chose qui vous trotte dans la tête. C’est presque fini, et ce qui vient est plus doux : du temps pour vous, quelque chose du passé qui vous fait du bien. »
 

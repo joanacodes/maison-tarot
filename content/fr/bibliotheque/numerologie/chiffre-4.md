@@ -1,8 +1,6 @@
 ---
 title: 'Le chiffre 4 au tarot : signification, cartes et conseil (numérologie du tarot)'
-description: Le foyer, être chez soi, la structure. Le 4 est la stabilité acquise
-  — le 2 exalté, l’alliance devenue fondation. Les cinq cartes qui le portent, un
-  exemple que tout le monde connaît, et comment le lire dans un tirage.
+description: "Le foyer, être chez soi, la structure. Le 4 est la stabilité acquise — le 2 exalté, l’alliance devenue fondation."
 translationKey: num-4
 type: library
 navTitle: Le chiffre 4

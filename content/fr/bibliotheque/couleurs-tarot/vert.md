@@ -1,9 +1,7 @@
 ---
 title: 'Le vert au tarot : signification, cartes où il domine et lecture (couleurs
   du tarot)'
-description: 'Le vert dans le tarot Rider-Waite-Smith : nature, croissance, naissance,
-  vie, prospérité. Où la couleur apparaît dans le jeu, ce qu’elle dit avant même de
-  connaître la carte, son revers, et comment la lire avec les autres clés.'
+description: "Le vert dans le tarot Rider-Waite-Smith : nature, croissance, naissance, vie, prospérité. Dans le jeu, il est au sol — l’herbe, les feuilles, les vignes — et il dit que quelque chose est vivant et en train de grandir."
 translationKey: col-green
 type: library
 navTitle: Le vert

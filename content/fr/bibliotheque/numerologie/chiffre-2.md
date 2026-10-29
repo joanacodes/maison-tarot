@@ -1,8 +1,6 @@
 ---
 title: 'Le chiffre 2 au tarot : signification, cartes et conseil (numérologie du tarot)'
-description: Signature de contrat, coopération entre deux parties, se lier. Le 2 est
-  le nombre de l’alliance — et de la prudence qu’elle demande. Les cinq cartes qui
-  le portent, un exemple que tout le monde connaît, et comment le lire dans un tirage.
+description: "Signature de contrat, coopération entre deux parties, se lier. Le 2 est le nombre de l’alliance — et de la prudence qu’elle demande."
 translationKey: num-2
 type: library
 navTitle: Le chiffre 2

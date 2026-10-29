@@ -50,15 +50,15 @@ There’s nobody in the garden: no one to take the coin, no one on the path. **T
 
 ## By number: one {#number}
 
-**one — the beginning, the rough diamond.** [Number one](/library/numerology/number-1/) is the initiator, the start of a cycle: something precious that can’t be used yet. On a Pentacles card the rough diamond is almost literal. A coin, a resource, a concrete opening whose real value nobody knows yet — a job offer, a first client, a plot to dig.
+[Number one](/library/numerology/number-1/) is the initiator, the start of a cycle: something precious that can’t be used yet. On a Pentacles card the rough diamond is almost literal. A coin, a resource, a concrete opening whose real value nobody knows yet — a job offer, a first client, a plot to dig.
 
-The advice of 1, in my notes, is humility: get ready to learn. Its minus is the lack of it — treating the coin as a fortune already made, when we’re all students our whole life. In the Instagram story, this is Burbn becoming Instagram: two people keep the one feature that works and start again with something small enough to fit in one hand.
+In my notes, what 1 needs most is humility, being ready to learn. Its minus is the lack of it — treating the coin as a fortune already made, when we’re all students our whole life. In the Instagram story, this is Burbn becoming Instagram: two people keep the one feature that works and start again with something small enough to fit in one hand.
 
 ## By element: Earth {#element}
 
-[Earth](/library/four-elements/earth-element/) is matter, prosperity, whatever has value for you — money, or something sentimental. Not all riches are gold. The coin on this card can be a salary, a home, a body you’ve started looking after, a relationship that finally has ground under it. That’s what Earth brings here: the beginning isn’t an idea any more, it’s something you can hold.
+[Earth](/library/four-elements/earth-element/) covers matter and prosperity: whatever you value, in money or in feeling. Not all riches are gold. The coin on this card can be a salary, a home, a body you’ve started looking after, a relationship that finally has ground under it. That’s what Earth brings here: the beginning isn’t an idea any more, it’s something you can hold.
 
-Earth is also tenacity and endurance — and stubbornness. A Pentacles beginning is slow by nature; it asks to be planted and tended, not admired. The garden under the hand is the reminder: what the coin becomes depends on what you grow with it.
+Earth also brings staying power, and the stubbornness that goes with it. A Pentacles beginning is slow by nature; it asks to be planted and tended, not admired. The garden under the hand is the reminder: what the coin becomes depends on what you grow with it.
 
 ## By colours {#colours}
 
@@ -68,7 +68,7 @@ Read the colours before the card and you already have: something valuable, offer
 
 ## By astrology: Root of Earth {#astrology}
 
-In the Golden Dawn tradition, the Aces get no planet and no sign. Each one is the root of its element — here, the Root of the Powers of Earth: Earth whole, before it’s shared out among Taurus, Virgo and Capricorn, whose decans go to the Two to the Ten.
+In the Golden Dawn tradition, the Aces get no planet and no sign. Each one is the root of its element — here, Earth whole, before it’s shared out among Taurus, Virgo and Capricorn, whose decans go to the Two to the Ten.
 
 What it adds is one idea: the Ace holds the whole suit in seed, and every Pentacle after it grows from this coin. Keep it if [astrology](/library/astrology/) speaks to you; the number and the element have already said the essential.
 
@@ -86,8 +86,8 @@ Next to [the Magician](/library/tarot-cards/the-magician/), another 1, the skill
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Ace of Pentacles next to the [Two of Swords](/library/tarot-cards/two-of-swords/). Lenses first. One then two: a beginning, then a choice between two sides. Earth then Air: something concrete, then a decision held in the head. The drawings: a gold coin on an open hand, then a blindfolded figure with two swords crossed over her chest.
+Suppose a friend you’re practising with draws the Ace of Pentacles, then the [Two of Swords](/library/tarot-cards/two-of-swords/). One then two: a beginning, then a choice between two sides. Earth then Air: something concrete, then a decision held in the head. The drawings: a gold coin on an open hand, then a blindfolded figure with two swords crossed over her chest.
 
 The sentence I’d say out loud: “Something concrete is being offered to you, and you’re keeping your eyes closed so you don’t have to choose yet.”
 
-To check, I ask: “Is there something on the table at the moment that you haven’t answered?” If it’s yes, I don’t tell the person whether to take it. I read; you decide. If it’s no, that’s a miss, and I write it down as one.
+To check, I ask: “Is there something on the table at the moment that you haven’t answered?” If it’s yes, I don’t tell the person whether to take it. If nothing is waiting for an answer, the sentence missed, and I write that down.

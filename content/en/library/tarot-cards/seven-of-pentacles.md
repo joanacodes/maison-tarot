@@ -48,7 +48,7 @@ He wears an orange tunic over blue sleeves, blue hose and boots. The ground is a
 
 ## By number: seven {#number}
 
-**seven — doubt, assessment, patience.** [Number seven](/library/numerology/number-7/) is analysis: you look at what you have before deciding what comes next. In my notes, 7 is reflection, patience, analysis before action — and harvesting. This card holds all of those at once: the crop is there, and the person isn’t picking it yet.
+[Number seven](/library/numerology/number-7/) is analysis: you look at what you have before deciding what comes next. In my notes, 7 is reflection, patience, analysis before action — and harvesting. This card holds all of those at once: the crop is there, and the person isn’t picking it yet.
 
 The advice of 7 is that everything is temporary: the situation you’re in, good or bad, will change. The bush will keep growing or start to wilt, and either way, standing still won’t last. In the Instagram story, 7 is the negotiating table — Facebook choosing to turn the app into an advertising platform: neither triumph nor fall, the moment you decide what the thing will become.
 
@@ -66,7 +66,7 @@ Read the colours before the card: a lot of life, a tired body, and nothing in th
 
 ## By astrology: Saturn in Taurus {#astrology}
 
-In the Golden Dawn tradition, the Seven of Pentacles is the third decan of Taurus, given to [Saturn](/library/astrology/saturn/); its title is the Lord of Success Unfulfilled. Saturn is time, limits, the work that takes years — and the place where you become solid because it was hard. Taurus says *I have*, patiently, in a fixed sign that doesn’t like being hurried. Together: slow growth, and the discomfort of waiting for it.
+In the Golden Dawn tradition, the Seven of Pentacles is the third decan of Taurus, given to [Saturn](/library/astrology/saturn/). Saturn is time, limits, the work that takes years — and the place where you become solid because it was hard. Taurus says *I have*, patiently, in a fixed sign that doesn’t like being hurried. Together: slow growth, and the discomfort of waiting for it.
 
 Saturn is one of the placements that held best when I tested astrology — 75 to 90%. Here it’s still optional: the number and the bush have said it already.
 
@@ -84,7 +84,7 @@ Next to the [Eight of Pentacles](/library/tarot-cards/eight-of-pentacles/), the 
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Seven of Pentacles next to the [Ace of Wands](/library/tarot-cards/ace-of-wands/). Lenses first. Seven then one: assessment, then a new start. Earth then Fire: slow growth, then a fresh urge. The drawings: a tired young man looking at his bush, then a hand from a cloud holding out a single wand that’s putting out leaves.
+A hypothetical pair, read for a stranger: the Seven of Pentacles, then the [Ace of Wands](/library/tarot-cards/ace-of-wands/). Seven then one: assessment, then a new start. Earth then Fire: slow growth, then a fresh urge. The drawings: a tired young man looking at his bush, then a hand from a cloud holding out a single wand that’s putting out leaves.
 
 The sentence I’d say out loud: “You’ve put a lot into something that hasn’t paid you back yet, and a new idea is starting to pull you somewhere else.”
 

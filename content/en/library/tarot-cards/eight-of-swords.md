@@ -50,7 +50,7 @@ Now look closer. The bands stop at her waist: her legs are free. The swords stan
 
 ## By number: eight {#number}
 
-**eight — movement, mastery, the fruit of work.** Eight is 4 exalted: the empire, structure become power. It’s also control — lay an 8 on its side and you get the Magician’s infinity sign. In the Eight of Swords, that control has turned inwards. In my notes, this card is someone who is a prisoner of themselves while holding every tool they need, and who can take the blindfold off.
+Eight is 4 exalted: the empire, structure become power. It’s also control — lay an 8 on its side and you get the Magician’s infinity sign. In the Eight of Swords, that control has turned inwards. In my notes, this card is someone who is a prisoner of themselves while holding every tool they need, and who can take the blindfold off.
 
 At its eighth stage, Instagram was an empire making billions a year, so established that nobody imagined it doing anything else. That’s the trap of this eight: a structure so solid in your head that you forget you built it, and that you could walk out. The advice of [number 8](/library/numerology/number-8/) is to keep working as if nothing were secured; here, the work is noticing which bars are real.
 
@@ -58,7 +58,7 @@ At its eighth stage, Instagram was an empire making billions a year, so establis
 
 Swords are [Air](/library/four-elements/air-element/): thinking, analysing, deciding. Air reaches everything at once, which makes it the best decision-maker — and it can also block, or obsess. The Eight of Swords is Air blocked. Every option has been thought through, and each one has a sword planted in front of it: “I can’t leave, because…”, “I can’t say it, because…”.
 
-My archetype for Air is the leader who takes the decisions nobody else can, and who can turn into a tyrant. On this card the tyrant lives inside the head, and the person obeying is the same one.
+Air’s leader, in my notes, can turn into a tyrant. On this card the tyrant lives inside the head, and the person obeying is the same one.
 
 ## By colours {#colours}
 
@@ -66,7 +66,7 @@ The [red](/library/tarot-colours/red/) of the robe is the warmest thing on the c
 
 ## By astrology: Jupiter in Gemini {#astrology}
 
-In the Golden Dawn tradition, the Eight of Swords is Jupiter in the first decan of [Gemini](/library/astrology/gemini/), with the title Lord of Shortened Force. Gemini is “I think”. Jupiter is expansion, confidence, excess. Together: thoughts that grow bigger than the situation, a mind that inflates every risk. “Shortened force” fits the drawing — the strength is all there, cut short at the arms. Optional, like every astrological lens.
+In the Golden Dawn tradition, the Eight of Swords is Jupiter in the first decan of [Gemini](/library/astrology/gemini/). Gemini is “I think”. Jupiter is expansion, confidence, excess. Together: thoughts that grow bigger than the situation, a mind that inflates every risk. On the card, the strength is all there, cut short at the arms. Optional, like every astrological lens.
 
 ## In a reading {#reading}
 
@@ -80,7 +80,7 @@ Next to the [Two of Swords](/library/tarot-cards/two-of-swords/), the blindfold 
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Eight of Swords next to the [Page of Pentacles](/library/tarot-cards/page-of-pentacles/). Lenses first. Eight then a Page: a structure that holds you, then the student. Air then Earth: a cage made of thoughts, then something concrete to learn. Grey and red, then a young man in a green field holding up a coin.
+Consider an imaginary reading in which the Eight of Swords comes up beside the [Page of Pentacles](/library/tarot-cards/page-of-pentacles/). Eight then a Page: a structure that holds you, then the student. Air then Earth: a cage made of thoughts, then something concrete to learn. Grey and red, then a young man in a green field holding up a coin.
 
 Out loud, you might say: “You feel stuck where you are, and you tell yourself you don’t know enough to leave. You know more than you think, and what gets you out is learning one practical thing.”
 

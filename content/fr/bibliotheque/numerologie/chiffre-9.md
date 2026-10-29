@@ -1,8 +1,6 @@
 ---
 title: 'Le chiffre 9 au tarot : signification, cartes et conseil (numérologie du tarot)'
-description: Dernière ligne droite, introspection, patience, derniers efforts. Le
-  9 est la fin qui se prépare. Les cinq cartes qui le portent, un exemple que tout
-  le monde connaît, et comment le lire dans un tirage.
+description: "Dernière ligne droite, introspection, patience, derniers efforts. Le 9 est la fin qui se prépare."
 translationKey: num-9
 type: library
 navTitle: Le chiffre 9

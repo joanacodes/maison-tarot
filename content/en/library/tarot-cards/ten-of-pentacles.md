@@ -50,7 +50,7 @@ Over the whole scene, ten pentacles are laid out in a pattern that ignores the p
 
 ## By number: ten {#number}
 
-**ten — the end of the cycle, transition.** [Ten is transition](/library/numerology/number-10/): the corridor between two rooms. My note for this card is one of my longest: complete wealth at home, celebration, the whole family present — may be short-lived; if you leave the cocoon, it will still be there.
+[Ten is transition](/library/numerology/number-10/): on this card, the archway between one room of life and the next. My note for this card is one of my longest: complete wealth at home, celebration, the whole family present — may be short-lived; if you leave the cocoon, it will still be there.
 
 In the story of Instagram, 10 is the platform turned into something else entirely. Here the cycle of building closes: the house exists, and can be handed on. A ten also tells you to start something else — and the young couple already stand under the arch, turned towards what lies beyond it.
 
@@ -66,15 +66,15 @@ It’s the busiest card of the suit. The archway is [grey](/library/tarot-colour
 
 ## By astrology: Mercury in Virgo {#astrology}
 
-In the Golden Dawn system, this card is [Mercury](/library/astrology/mercury/) in the third decan of [Virgo](/library/astrology/virgo/), titled “Lord of Wealth”. Mercury rules Virgo, so here it’s at home: the mind that counts, sorts and passes things on. It’s also the planet of exchange, fitting for a card about what passes between generations. Worth keeping, as a reminder that an inheritance is also a conversation; if astrology isn’t your lens, the number already said transmission.
+In the Golden Dawn system, this card is [Mercury](/library/astrology/mercury/) in the third decan of [Virgo](/library/astrology/virgo/). Mercury rules Virgo, so here it’s at home: the mind that counts, sorts and passes things on. It’s also the planet of exchange, fitting for a card about what passes between generations. Worth keeping, as a reminder that an inheritance is also a conversation; if astrology isn’t your lens, the number already said transmission.
 
 ## In a reading {#reading}
 
 Upright: a home that holds, a family gathered, something built and now handed on. It can be literal — a house, a family business, a celebration with everyone present — or a feeling: belonging to something older and larger than you. **A full house is a moment, not a fortress: enjoy it, and know you can leave and find it still there.**
 
-Reversed, the same house, slowed down or overdone. Slowed: everyone is present and nobody talks; the inheritance becomes a weight or a quarrel. Overdone: the cocoon becomes the whole world, and leaving it feels like betrayal.
+Reversed, the household either goes quiet or shuts its doors. Slowed: everyone is present and nobody talks; the inheritance becomes a weight or a quarrel. Overdone: the cocoon becomes the whole world, and leaving it feels like betrayal.
 
-Many people hope this card means an inheritance or a windfall. I understand: money worries are real, and heavy. But I don’t read on money predictions or decisions — I read; you decide. The card can show who is around you and what’s being passed down; more in [how I read the Pentacles around money](/blog/tarot-cards-for-money/).
+Many people hope this card means an inheritance or a windfall. I understand: money worries are real, and heavy. But I don’t read on money predictions or decisions. The card can show who is around you and what’s being passed down; more in [how I read the Pentacles around money](/blog/tarot-cards-for-money/).
 
 Next to the [Ten of Cups](/library/tarot-cards/ten-of-cups/), the same family seen from the heart — in my notes, happiness, family, children. Next to the [Eight of Cups](/library/tarot-cards/eight-of-cups/), someone walks out of the full house: the cocoon left, and still there. Next to the [Four of Pentacles](/library/tarot-cards/four-of-pentacles/), the house kept rather than handed on.
 
@@ -82,7 +82,7 @@ Next to the [Ten of Cups](/library/tarot-cards/ten-of-cups/), the same family se
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Ten of Pentacles next to the Page of Wands. Lenses first. Ten then Page: a cycle closing, then a student starting something. Earth then Fire: a house that holds, then a new urge. Three generations under an archway, then a young man alone in a desert, looking up at a wand that sprouts leaves.
+An exercise: someone draws the Ten of Pentacles, then the Page of Wands, and the reading is yours to make. Ten then Page: a cycle closing, then a student starting something. Earth then Fire: a house that holds, then a new urge. Three generations under an archway, then a young man alone in a desert, looking up at a wand that sprouts leaves.
 
 Out loud: “Something at home is complete, and it’s good. And someone young, maybe you, wants to try something of their own. It doesn’t have to be a break.”
 

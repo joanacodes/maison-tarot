@@ -50,15 +50,15 @@ Behind him, almost nothing: a pale grey sky and, small in the lower left corner,
 
 ## By number: eight {#number}
 
-**eight — movement, mastery, the fruit of work.** [Eight is the empire](/library/numerology/number-8/): four exalted, structure turned into lasting strength. My note for this card is short — prosperous business, mastery, necessary effort — and the third part matters as much as the first two. Lay an 8 on its side and you get the infinity sign above the Magician’s head: control, a gesture that loops back on itself.
+[Eight is the empire](/library/numerology/number-8/): four exalted, structure turned into lasting strength. My note for this card is short — prosperous business, mastery, necessary effort — and the third part matters as much as the first two. Lay an 8 on its side and you get the infinity sign above the Magician’s head: control, a gesture that loops back on itself.
 
 In the story of Instagram, 8 is the app turned into an empire. This card is the quiet side of the same number: the hours at the bench that nobody films.
 
 ## By element: Earth {#element}
 
-Pentacles are [Earth](/library/four-elements/earth-element/): matter, whatever has value for you, the result of work. Here Earth isn’t a field or a treasure; it’s a material being shaped, with tenacity, perseverance, endurance.
+Pentacles belong to [Earth](/library/four-elements/earth-element/): matter, value, and on this card above all the result of work. Here Earth isn’t a field or a treasure; it’s a material being shaped, with tenacity, perseverance, endurance.
 
-Earth’s flip side is stubbornness, and it lives here too: the same coin, the same way, because that’s how it’s done. Not all riches are gold — the skill in his hands is worth more than the six coins on the post.
+Earth’s flip side is stubbornness, and it lives here too: the same coin, the same way, because that’s how it’s done. The skill in his hands is worth more than the six coins on the post.
 
 ## By colours {#colours}
 
@@ -68,7 +68,7 @@ Then the body: a blue tunic for calm emotions and vitality, red hose for drive, 
 
 ## By astrology: Sun in Virgo {#astrology}
 
-In the Golden Dawn system, this card is the Sun in the first decan of [Virgo](/library/astrology/virgo/), titled “Lord of Prudence”. Virgo’s verb is “I analyse” — the engineer, the excellent executor — and the Sun is what a life is organised around. Together: someone whose centre is doing a thing properly.
+In the Golden Dawn system, this card is the Sun in the first decan of [Virgo](/library/astrology/virgo/). Virgo’s verb is “I analyse” — the engineer, the excellent executor — and the Sun is what a life is organised around. Together: someone whose centre is doing a thing properly.
 
 Worth keeping as a small confirmation: Virgo’s major card is the Hermit, and this man is a hermit with a hammer. If [astrology](/library/astrology/) isn’t your lens, leave it aside; number and element have said the same.
 
@@ -76,7 +76,7 @@ Worth keeping as a small confirmation: Virgo’s major card is the Hermit, and t
 
 Upright: work in progress, and going well. Training, an apprenticeship, a craft, a project improved piece by piece; the person who stays late because they want it right. **Mastery is the same gesture, made well, many times over — the card doesn’t promise a shortcut, and doesn’t need one.**
 
-Reversed, the same bench, slowed down or overdone. Slowed: the gesture made on autopilot, the apprenticeship dropped at the sixth coin. Overdone: perfectionism, or so many hours at the bench that the town in the corner, and the people in it, fade into the horizon.
+Reversed, the work at the bench either loses its care or never stops. Slowed: the gesture made on autopilot, the apprenticeship dropped at the sixth coin. Overdone: perfectionism, or so many hours at the bench that the town in the corner, and the people in it, fade into the horizon.
 
 Next to the [Three of Pentacles](/library/tarot-cards/three-of-pentacles/), the craftsman’s work is seen by others. Next to [the Hermit](/library/tarot-cards/the-hermit/), Virgo twice: withdrawal for the work, good as long as it ends. Next to [the Fool](/library/tarot-cards/the-fool/), something left without a plan, and a skill learned by doing.
 
@@ -86,7 +86,7 @@ If the question underneath is about money — a raise, an investment, leaving a 
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Eight of Pentacles next to the Seven of Cups. Lenses first. Eight then seven: mastery being built, then reflection — and in my notes, too many choices. Earth then Water: hands on the material, then a head full of wishes. A man who sees only his coin, then a figure facing seven cups floating in a cloud.
+Put yourself across the table from someone who has just turned over the Eight of Pentacles, with the Seven of Cups beside it. Eight then seven: mastery being built, then reflection — and in my notes, too many choices. Earth then Water: hands on the material, then a head full of wishes. A man who sees only his coin, then a figure facing seven cups floating in a cloud.
 
 Out loud: “You know how to do something well, and you’re doing it. But part of you keeps looking at other lives you could be living, and isn’t sure the bench is enough.”
 

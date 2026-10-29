@@ -1,8 +1,6 @@
 ---
 title: 'Le chiffre 7 au tarot : signification, cartes et conseil (numérologie du tarot)'
-description: 'Patience, calme, négociations, récolter. Le 7 est l’analyse : on regarde
-  ce qu’on a, et on décide de la suite. Les cinq cartes qui le portent, un exemple
-  que tout le monde connaît, et comment le lire dans un tirage.'
+description: "Patience, calme, négociations, récolter. Le 7 est l’analyse : on regarde ce qu’on a, et on décide de la suite."
 translationKey: num-7
 type: library
 navTitle: Le chiffre 7

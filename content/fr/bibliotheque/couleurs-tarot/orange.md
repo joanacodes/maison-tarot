@@ -1,9 +1,7 @@
 ---
 title: 'L’orange au tarot : signification, cartes où il domine et lecture (couleurs
   du tarot)'
-description: 'L’orange dans le tarot Rider-Waite-Smith : créativité, aridité, libido.
-  Où la couleur apparaît dans le jeu, ce qu’elle dit avant même de connaître la carte,
-  son revers, et comment la lire avec les autres clés.'
+description: "L’orange dans le tarot Rider-Waite-Smith : créativité, aridité, libido. C’est aussi la couleur de l’aridité — le sol sec, la chaleur qui donne soif."
 translationKey: col-orange
 type: library
 navTitle: L’orange

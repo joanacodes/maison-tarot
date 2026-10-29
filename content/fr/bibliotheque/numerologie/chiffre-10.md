@@ -1,9 +1,7 @@
 ---
 title: 'Le chiffre 10 au tarot : signification, cartes et conseil (numérologie du
   tarot)'
-description: 'Liberté, changement, voyage, respirer. Le 10 — ou le 0 — est la transition
-  : ce qui était finit, ce qui vient n’a pas encore de nom. Les cinq cartes qui le
-  portent, un exemple que tout le monde connaît, et comment le lire dans un tirage.'
+description: "Liberté, changement, voyage, respirer. Le 10 — ou le 0 — est la transition : ce qui était finit, ce qui vient n’a pas encore de nom."
 translationKey: num-10
 type: library
 navTitle: Le chiffre 10

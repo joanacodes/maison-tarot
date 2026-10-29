@@ -48,9 +48,9 @@ Notice what isn’t there: no table to put a coin down, no one to hand one to. *
 
 ## By number: two {#number}
 
-**two — to bind, to weigh, to cooperate.** [Number two](/library/numerology/number-2/) is two parties and the bond between them: a contract, an alliance, a choice being weighed. Here the two parties are two coins — two jobs, two budgets, work and home — and the green band is the bond. They’re tied together: move one and the other moves too.
+[Number two](/library/numerology/number-2/) is two parties and the bond between them: a contract, an alliance, a choice being weighed. Here the two parties are two coins — two jobs, two budgets, work and home — and the green band is the bond. They’re tied together: move one and the other moves too.
 
-The advice of 2, in my notes, is to read the contract and weigh the pros and cons. The minus of 2 is the mind that insists, stubbornness, solitude — and he is alone, sure he can keep it all going. In the Instagram story, 2 is signing with investors: the first moment there are two things to keep in balance, your idea and someone else’s money.
+In my notes, 2 says: read the contract, weigh both sides. The minus of 2 is the mind that insists, stubbornness, solitude — and he is alone, sure he can keep it all going. In the Instagram story, 2 is signing with investors: the first moment there are two things to keep in balance, your idea and someone else’s money.
 
 ## By element: Earth {#element}
 
@@ -66,7 +66,7 @@ Read the colours before the card: an active body in front of a moving sea. The a
 
 ## By astrology: Jupiter in Capricorn {#astrology}
 
-In the Golden Dawn tradition, the Two of Pentacles is the first decan of Capricorn, given to [Jupiter](/library/astrology/jupiter/); its title is the Lord of Harmonious Change. Jupiter is expansion, confidence, luck — and excess. Capricorn says *I use*: work, structure, pragmatism. Classical astrology places Jupiter in its fall in Capricorn: the planet that wants more, in the sign that counts. That tension is the card — growth kept inside a budget.
+In the Golden Dawn tradition, the Two of Pentacles is the first decan of Capricorn, given to [Jupiter](/library/astrology/jupiter/). Jupiter wants growth: confidence, luck, and the risk of too much. Capricorn says *I use*: work, structure, pragmatism. Classical astrology places Jupiter in its fall in Capricorn: the planet that wants more, in the sign that counts. That tension is the card — growth kept inside a budget.
 
 Optional: the number and the waves have already said most of it.
 
@@ -84,7 +84,7 @@ Next to [Temperance](/library/tarot-cards/temperance/), the juggling calms into 
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Two of Pentacles next to the [Ten of Wands](/library/tarot-cards/ten-of-wands/). Lenses first. Two then ten: a balance being kept, then the end of a cycle, the corridor between two rooms. Earth then Fire: practical life, then energy and drive. The drawings: a body dancing in front of the sea, then a man bent under a bundle of ten wands. In my notes, the Ten of Wands says keep the creative energy — without overloading.
+Here’s an invented reading: the person in front of you draws the Two of Pentacles, then the [Ten of Wands](/library/tarot-cards/ten-of-wands/). Two then ten: a balance being kept, then the end of a cycle, the corridor between two rooms. Earth then Fire: practical life, then energy and drive. The drawings: a body dancing in front of the sea, then a man bent under a bundle of ten wands. In my notes, the Ten of Wands says keep the creative energy — without overloading.
 
 The sentence I’d say out loud: “You’re keeping a lot going and you’re doing it well, but you’re carrying more than you need to, and something will have to be put down soon.”
 

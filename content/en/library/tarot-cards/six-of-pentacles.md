@@ -50,9 +50,9 @@ The man is standing; the other two are on their knees. **It’s a scene of givin
 
 ## By number: six {#number}
 
-**six — harmony regained, exchange.** [Number six](/library/numerology/number-6/) is 3 exalted: the machine isn’t only running, it’s fast, and there’s enough. After the trial of 5, things flow again, and it becomes possible to rest — or to give. In my notes, the Six of Pentacles is the scales: knowing value, and the kingdom lasting.
+[Number six](/library/numerology/number-6/) is 3 exalted: the machine isn’t only running, it’s fast, and there’s enough. After the trial of 5, things flow again, and it becomes possible to rest — or to give. In my notes, the Six of Pentacles is the scales: knowing value, and the kingdom lasting.
 
-The advice of 6 is to stay calm and humble when results flow, and the scales are that humility made into an object: give, but weigh. In the Instagram story, 6 is Facebook deciding to invest: what threatened the company becomes what drives it, and everything goes faster.
+The advice of 6 is to stay calm and humble when results flow, and the scales are that humility made into an object: give, but weigh. In the Instagram story, 6 is Facebook’s investment: money arriving from the very company that had looked like a threat.
 
 ## By element: Earth {#element}
 
@@ -68,7 +68,7 @@ The sky is grey, neutral. Read the colours before the card: one figure in the co
 
 ## By astrology: Moon in Taurus {#astrology}
 
-In the Golden Dawn tradition, the Six of Pentacles is the second decan of Taurus, given to the [Moon](/library/astrology/moon/); its title is the Lord of Material Success. The Moon is the need for safety, the way you comfort yourself and others. Taurus says *I have*. Classical astrology calls the Moon exalted in Taurus: feeling safe because there’s enough. Together: the comfort of having enough to share.
+In the Golden Dawn tradition, the Six of Pentacles is the second decan of Taurus, given to the [Moon](/library/astrology/moon/). The Moon is the need for safety, the way you comfort yourself and others. Taurus says *I have*. Classical astrology calls the Moon exalted in Taurus: feeling safe because there’s enough. Together: the comfort of having enough to share.
 
 Optional. The scales say most of it.
 
@@ -86,8 +86,8 @@ Next to [Justice](/library/tarot-cards/justice/), the scales again: fairness tha
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Six of Pentacles next to the [Four of Swords](/library/tarot-cards/four-of-swords/). Lenses first. Six then four: the flow of 6 — in my notes, the number where you can finally rest — then the stability of 4. Earth then Air: something given or received, then the mind going quiet. The drawings: gold passing from one hand to another, then a figure lying still on a tomb under a stained-glass window.
+Assume you’re shuffling for a friend, and the Six of Pentacles comes out with the [Four of Swords](/library/tarot-cards/four-of-swords/) beside it. Six then four: the flow of 6 — in my notes, the number where you can finally rest — then the stability of 4. Earth then Air: something given or received, then the mind going quiet. The drawings: gold passing from one hand to another, then a figure lying still on a tomb under a stained-glass window.
 
 The sentence I’d say out loud: “You’ve been giving a lot — time, help, maybe money — and now you need to stop and get your breath back.”
 
-To check, I ask: “Does that match the last few weeks?” If it’s yes, I let the person say as much or as little as they like. If it’s no, it’s a miss, and I say so.
+To check, I ask: “Does that match the last few weeks?” If it’s yes, I let the person say as much or as little as they like. If the last few weeks looked nothing like that, the miss is mine, and I own it.

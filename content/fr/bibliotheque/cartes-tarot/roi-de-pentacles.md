@@ -50,7 +50,7 @@ Ses yeux sont mi-clos, baissés vers la pièce. **La carte parle de ce qu’on a
 
 ## Par le nombre : le Roi {#nombre}
 
-**le Roi — la maîtrise extérieure, la décision.** Le [Roi](/fr/bibliotheque/numerologie/roi/) ne regarde pas son outil ; il regarde le monde qu’il gère avec. Chaque trône raconte sa famille : des salamandres pour le Feu, des poissons pour l’Eau, des papillons pour l’Air — des taureaux et des raisins pour la Terre. Le conseil du rang : décider, puis rendre des comptes. La question à poser à un Roi est toujours la même : pour qui ?
+Le trône d’un [Roi](/fr/bibliotheque/numerologie/roi/) dit sa famille, et celui-ci est sculpté de têtes de taureau, l’animal de la Terre, tandis que des raisins couvrent sa robe. Comme tout Roi, il décide et rend des comptes ; avec autant de terres, la vraie question est de savoir qui tout cela nourrit.
 
 Un exemple que tout le monde connaît : le boulanger du quartier qui a commencé avec un four et tient aujourd’hui trois boutiques. Il est toujours là à l’aube. Il décide aussi de tout, et personne d’autre ne touche à la recette.
 
@@ -68,7 +68,7 @@ La robe est presque [noire](/fr/bibliotheque/couleurs-tarot/noir/) : la réalit�
 
 À l’endroit : la réussite devenue stabilité. Quelqu’un qui a bâti quelque chose de solide — une entreprise, une maisonnée, une carrière, une œuvre — et le gère avec calme et compétence. Une figure d’autorité, un mentor, un patron ; ou vous, le jour où vous prenez la responsabilité de ce que vous avez fait pousser. **Sa maîtrise se mesure à ce qu’elle protège, pas à ce qu’elle accumule.**
 
-Renversé, la même maîtrise, freinée ou excessive. Freinée : la sécurité devient le seul but, et rien de neuf ne passe le mur du château. Excessive : le contrôle — le Roi qui décide pour tout le monde, traite les gens comme des actifs et confond avoir et être.
+Renversé, sa maîtrise cesse de grandir, ou serre trop fort. Freinée : la sécurité devient le seul but, et rien de neuf ne passe le mur du château. Excessive : le contrôle — le Roi qui décide pour tout le monde, traite les gens comme des actifs et confond avoir et être.
 
 Figure la plus prospère de sa famille, il fait parfois espérer de l’argent, ou on lui demande s’il faut placer, acheter, vendre. Je comprends cet espoir. Les décisions d’argent vous appartiennent ; la carte peut décrire comment quelqu’un gère ce qu’il a, et j’explique [ma façon de lire les Pentacles quand il est question d’argent](/fr/blog/tarot-et-argent/).
 
@@ -78,8 +78,8 @@ Figure la plus prospère de sa famille, il fait parfois espérer de l’argent, 
 
 ## Exemple de tirage {#exemple}
 
-Mettons qu’une personne s’assoie, ne vous dise rien, et tire le Roi de Pentacles à côté du Six de Coupes. Les clés de lecture d’abord. Roi puis six : la maîtrise extérieure, puis — dans mes notes — prendre du temps pour soi, l’enfance, refleurir. Terre puis Eau : ce qui a été construit, puis l’émotion et la mémoire. Un roi vêtu de sa propre vigne, puis deux enfants dans une vieille cour, l’un tendant à l’autre une coupe pleine de fleurs.
+Pour l’exercice, le Roi de Pentacles sort en premier et le Six de Coupes en second, pour quelqu’un que vous rencontrez pour la première fois. Roi puis six : la maîtrise extérieure, puis — dans mes notes — prendre du temps pour soi, l’enfance, refleurir. Terre puis Eau : ce qui a été construit, puis l’émotion et la mémoire. Un roi vêtu de sa propre vigne, puis deux enfants dans une vieille cour, l’un tendant à l’autre une coupe pleine de fleurs.
 
 À voix haute : « Vous avez bâti quelque chose de solide, et tout le monde compte sur vous. Une partie de vous regarde vers une époque où rien ne dépendait de vous — pas pour y retourner, mais pour en glisser un peu dans ce que vous menez aujourd’hui. »
 
-Puis vérifiez : « Est-ce que ça vous dit quelque chose ? » Si non, c’est un raté : dites-le et notez-le.
+Puis vérifiez : « Est-ce vous, la personne sur qui tout le monde compte, avec l’envie d’un temps plus léger ? » Si non, c’est un raté, à noter tel quel.

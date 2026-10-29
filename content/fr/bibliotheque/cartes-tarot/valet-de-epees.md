@@ -50,7 +50,7 @@ Le vent est partout : les cheveux cuivrés volent en arrière, de gros nuages gr
 
 ## Par le nombre : le Valet {#nombre}
 
-**le Valet — l’élève, le message, l’élan neuf.** Chaque [Valet](/fr/bibliotheque/numerologie/valet/) tient déjà l’outil de sa famille et le regarde comme quelque chose dont il ne sait pas encore bien se servir. C’est aussi le messager : la lettre, la nouvelle, l’invitation. Le conseil du rang : rester élève — le Valet qui se prend déjà pour un Roi rate la leçon.
+Ce [Valet](/fr/bibliotheque/numerologie/valet/) serre son épée à deux mains, comme un outil dont il ne sait pas encore se servir. Les Valets portent aussi des messages, et chez les Épées, c’est une nouvelle, ou un mot qui pique. Le conseil du rang : rester élève — et le piège, pour celui-ci, serait de croire que l’épée fait déjà de lui un Roi.
 
 Le Valet d’Épées, c’est le Valet qui fait le guet. L’épée est levée, prête, mais rien n’a encore été tranché : l’idée s’aiguise. Son énergie est [féminine au sens où je l’entends](/fr/bibliotheque/energies-feminine-masculine/) : observer, réfléchir, préparer en coulisses avant de monter sur scène.
 
@@ -68,7 +68,7 @@ Le ciel est bleu et encombré de nuages gris et blancs en mouvement : un mental 
 
 À l’endroit, le Valet d’Épées, c’est une idée neuve et l’envie de la comprendre : apprendre, poser des questions, rassembler des informations, observer comment les choses fonctionnent. Ce peut être une nouvelle en chemin, un message, une conversation qui ouvre un sujet. Ce peut être une personne jeune, l’esprit vif et la langue plus vive encore. **Le Valet d’Épées vient de ramasser l’idée : tournez-la dans tous les sens avant de frapper avec.**
 
-Renversé, la même curiosité est freinée ou excessive. Freinée : l’idée refuse de devenir nette, et vous observez sans jamais agir. Excessive : la méfiance, la surveillance, répéter ce qu’on a entendu avant d’y avoir réfléchi.
+Renversé, la curiosité du Valet se brouille, ou se met à fouiller. Freinée : l’idée refuse de devenir nette, et vous observez sans jamais agir. Excessive : la méfiance, la surveillance, répéter ce qu’on a entendu avant d’y avoir réfléchi.
 
 À côté de l’[As d’Épées](/fr/bibliotheque/cartes-tarot/as-de-epees/), l’idée arrive, nette, et le Valet apprend à la tenir. À côté du [Sept d’Épées](/fr/bibliotheque/cartes-tarot/sept-de-epees/), la vigilance tourne à la manœuvre en douce : demandez qui est observé, et pourquoi. À côté du [Valet de Coupes](/fr/bibliotheque/cartes-tarot/valet-de-coupes/), la tête et le cœur sont tous les deux jeunes — une idée neuve et un sentiment neuf qui arrivent ensemble.
 
@@ -76,8 +76,8 @@ Renversé, la même curiosité est freinée ou excessive. Freinée : l’idée r
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Valet d’Épées à côté du [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/). Les clés de lecture d’abord. Un Valet puis un trois : l’élève, puis un rythme qui fonctionne. La Terre d’Air puis la Terre : une idée qui cherche un sol, puis le sol lui-même. Un personnage seul sur une colline venteuse, puis trois personnes qui discutent d’un ouvrage sous une arche de pierre.
+Essayez cette paire avec un ami curieux de voir comment se passe une lecture : le Valet d’Épées, puis le [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/). Un Valet puis un trois : l’élève, puis un rythme qui fonctionne. La Terre d’Air puis la Terre : une idée qui cherche un sol, puis le sol lui-même. Un personnage seul sur une colline venteuse, puis trois personnes qui discutent d’un ouvrage sous une arche de pierre.
 
 À voix haute, cela pourrait donner : « Vous êtes en train d’apprendre quelque chose de nouveau, et vous l’observez de près. Vous apprendrez plus vite en travaillant avec d’autres qu’en regardant dans votre coin. »
 
-Puis vérifiez : « Est-ce que vous commencez à apprendre quelque chose en ce moment — un savoir-faire, un métier, un sujet ? » Si oui, demandez avec qui la personne pourrait l’apprendre. Si non, c’est un raté : notez-le et passez à la suite.
+Puis vérifiez : « Est-ce que vous commencez à apprendre quelque chose en ce moment — un savoir-faire, un métier, un sujet ? » Si oui, demandez avec qui la personne pourrait l’apprendre. Si non, la phrase a raté : notez-le, puis passez à autre chose.

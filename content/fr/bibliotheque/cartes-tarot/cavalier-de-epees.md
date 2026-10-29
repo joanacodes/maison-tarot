@@ -50,9 +50,9 @@ Le ciel est déchiré par le vent : des nuages étirés en longues traînées, d
 
 ## Par le nombre : le Cavalier {#nombre}
 
-**le Cavalier — l’action, la quête, l’excès.** Chaque [Cavalier](/fr/bibliotheque/numerologie/cavalier/) est sa famille en mouvement, et le cheval dit comment : celui des Bâtons se cabre, celui des Coupes avance au pas, celui des Pentacles ne bouge pas, celui des Épées charge. Le conseil du rang : agir, oui ; foncer, non — vérifier la direction avant la vitesse.
+Chaque [Cavalier](/fr/bibliotheque/numerologie/cavalier/) est sa famille en mouvement, et le cheval dit comment : celui-ci charge. Le conseil du rang : agir, oui ; foncer, non — vérifier la direction avant la vitesse.
 
-Ce conseil semble écrit pour ce Cavalier-là. L’excès d’un Cavalier, c’est sa qualité poussée trop loin. Ici, la qualité, c’est le courage et la vitesse de la pensée. L’excès, c’est de foncer tête baissée : la réponse envoyée trop vite, la décision prise avant d’avoir toutes les informations.
+Ce conseil semble écrit pour ce Cavalier-là. Sa qualité, c’est le courage et la vitesse de la pensée ; poussée trop loin, elle le fait foncer tête baissée : la réponse envoyée trop vite, la décision prise avant d’avoir toutes les informations.
 
 ## Par l’élément : Air {#element}
 
@@ -68,7 +68,7 @@ Le cheval est blanc et gris. Dans ma grille, le [blanc](/fr/bibliotheque/couleur
 
 À l’endroit, le Cavalier d’Épées, c’est la vitesse et la franchise : une décision prise sur-le-champ, une idée défendue bec et ongles, quelqu’un qui arrive vite et dit ce qu’il pense. Ce peut être le courage qu’il vous faut pour enfin dire quelque chose à voix haute. **Le Cavalier d’Épées arrive toujours le premier ; reste à savoir s’il a regardé où il allait.**
 
-Renversé, la même charge est freinée ou excessive. Freinée : toute cette énergie sans nulle part où aller — une décision prête et retenue, une frustration qui monte. Excessive : la charge sans direction — les mots qu’on ne peut pas reprendre, la dispute gagnée et la relation perdue.
+Renversé, la charge est soit bridée, soit lancée à l’aveugle. Freinée : toute cette énergie sans nulle part où aller — une décision prête et retenue, une frustration qui monte. Excessive : la charge sans direction — les mots qu’on ne peut pas reprendre, la dispute gagnée et la relation perdue.
 
 À côté du [Huit de Bâtons](/fr/bibliotheque/cartes-tarot/huit-de-batons/), la vitesse rencontre la vitesse : les choses vont aller très vite, peut-être plus vite que personne ne le souhaite. À côté du [Chariot](/fr/bibliotheque/cartes-tarot/le-chariot/), le même élan trouve une direction — une vitesse pilotée plutôt qu’une vitesse pour elle-même. À côté du [Cavalier de Pentacles](/fr/bibliotheque/cartes-tarot/cavalier-de-pentacles/), le plus rapide des Cavaliers croise le plus lent : deux tempos qui vont devoir apprendre à travailler ensemble. Le lièvre et la tortue, en somme.
 
@@ -76,7 +76,7 @@ Renversé, la même charge est freinée ou excessive. Freinée : toute cette én
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Cavalier d’Épées à côté du [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/). Les clés de lecture d’abord. Un Cavalier puis un quatre : l’action, puis la stabilité et le repos. L’Air d’Air puis l’Air : tout le tirage se passe dans la tête. Un cavalier qui charge sous un ciel déchiré, puis un chevalier allongé, immobile, sur un tombeau, les mains jointes.
+Un cas d’école : la personne en face de vous retourne le Cavalier d’Épées, puis le [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/). Un Cavalier puis un quatre : l’action, puis la stabilité et le repos. L’Air d’Air puis l’Air : de la pensée, du début à la fin. Un cavalier qui charge sous un ciel déchiré, puis un chevalier allongé, immobile, sur un tombeau, les mains jointes.
 
 À voix haute, cela pourrait donner : « Vous foncez sur quelque chose depuis des semaines, et la prochaine étape n’est pas une nouvelle charge : c’est de vous arrêter le temps de reprendre votre souffle. »
 

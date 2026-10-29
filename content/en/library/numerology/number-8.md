@@ -1,8 +1,6 @@
 ---
 title: 'Number 8 in tarot: meaning, cards and advice (tarot numerology)'
-description: Legacy, assured stability, prosperity. Eight is the empire — 4 exalted,
-  structure become power. The five cards that carry it, an example everyone knows,
-  and how to read it in a spread.
+description: "Legacy, assured stability, prosperity. Eight is the empire — 4 exalted, structure become power."
 translationKey: num-8
 type: library
 navTitle: Number 8

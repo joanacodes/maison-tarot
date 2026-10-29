@@ -49,9 +49,9 @@ The sky is torn by the wind: clouds pulled into long streaks, small birds high u
 
 ## By number: the Knight {#number}
 
-**the Knight — action, the quest, excess.** Every [Knight](/library/numerology/knight/) is the suit in motion, and the horse tells you how: the Knight of Wands rears, Cups walks, Pentacles stands still, Swords charges. The rank’s advice is act, yes; charge, no — check the direction before the speed.
+Every [Knight](/library/numerology/knight/) is the suit in motion, and the horse tells you how: this one charges. The rank’s advice is act, yes; charge, no — check the direction before the speed.
 
-That advice could have been written for this Knight. Each Knight’s excess is their quality pushed too far. Here the quality is courage and speed of thought. The excess is cutting without looking: the reply sent too fast, the decision made before the information is in.
+That advice could have been written for this Knight. His quality is courage and speed of thought; pushed too far, it becomes cutting without looking: the reply sent too fast, the decision made before the information is in.
 
 ## By element: Air {#element}
 
@@ -67,7 +67,7 @@ The horse is white and grey. In my grid, [white](/library/tarot-colours/white/) 
 
 Upright, the Knight of Swords is speed and directness: a decision taken on the spot, an idea defended hard, someone who arrives fast and says what they think. It can be the courage you need to finally say something out loud. **The Knight of Swords always gets there first; the question is whether he looked where he was going.**
 
-Reversed, the same charge is slowed down or overdone. Slowed down: all that energy with nowhere to go — a decision ready and held back, frustration building. Overdone: the charge without a direction — the words you can’t take back, the argument won and the relationship lost.
+Reversed, the charge is either reined in or runs wild. Slowed down: all that energy with nowhere to go — a decision ready and held back, frustration building. Overdone: the charge without a direction — the words you can’t take back, the argument won and the relationship lost.
 
 Next to the [Eight of Wands](/library/tarot-cards/eight-of-wands/), speed meets speed: things will move very fast, perhaps faster than anyone wants. Next to [the Chariot](/library/tarot-cards/the-chariot/), the same drive gets a direction — speed steered instead of speed for its own sake. Next to the [Knight of Pentacles](/library/tarot-cards/knight-of-pentacles/), the fastest Knight meets the slowest: two tempos that will have to find a way to work together.
 
@@ -75,7 +75,7 @@ Next to the [Eight of Wands](/library/tarot-cards/eight-of-wands/), speed meets 
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Knight of Swords next to the [Four of Swords](/library/tarot-cards/four-of-swords/). Lenses first. A Knight then a four: action, then stability and rest. Air of Air then Air: the whole spread happens in the head. A rider charging under a torn sky, then a knight lying still on a tomb, hands joined.
+A textbook case: the person in front of you turns over the Knight of Swords, then the [Four of Swords](/library/tarot-cards/four-of-swords/). A Knight then a four: action, then stability and rest. Air of Air then Air: thought from start to finish. A rider charging under a torn sky, then a knight lying still on a tomb, hands joined.
 
 Out loud, you might say: “You’ve been charging at something for weeks, and the next step isn’t another charge — it’s stopping long enough to get your breath back.”
 

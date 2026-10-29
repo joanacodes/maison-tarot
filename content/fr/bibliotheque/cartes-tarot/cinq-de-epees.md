@@ -49,7 +49,7 @@ Le dessin parle d’**une bataille terminée, où le vainqueur tient toutes les 
 
 ## Par le nombre : cinq {#nombre}
 
-**cinq — le conflit, l’épreuve, faire avec ce qui reste.** Le cinq, c’est le nombre de la bataille : essayer, ne pas avoir peur d’échouer ni de déplaire, et faire avec ce qui reste après. Dans mes notes, le Cinq d’Épées est un conflit d’Air — un conflit de décisions, entre des gens qui n’ont pas le même point de vue. Pas une bagarre : un désaccord, et quelqu’un l’a « gagné ». Le conseil du [chiffre 5](/fr/bibliotheque/numerologie/chiffre-5/) est d’éviter les conflits inutiles et d’être honnête avec soi-même ; son revers, c’est le déni. Les deux sont sur la carte : l’homme qui ramasse les épées ne se demande pas si ce combat valait la peine. Le cinquième stade d’Instagram, c’était Facebook qui débarque pour le racheter : l’épreuve venue de l’extérieur, celle où l’on découvre ce qui tient.
+Le cinq, c’est le nombre de la bataille : essayer, ne pas avoir peur d’échouer ni de déplaire, et faire avec ce qui reste après. Dans mes notes, le Cinq d’Épées est un conflit d’Air — un conflit de décisions, entre des gens qui n’ont pas le même point de vue. Pas une bagarre : un désaccord, et quelqu’un l’a « gagné ». Le conseil du [chiffre 5](/fr/bibliotheque/numerologie/chiffre-5/) est d’éviter les conflits inutiles et d’être honnête avec soi-même ; son revers, c’est le déni. Les deux sont sur la carte : l’homme qui ramasse les épées ne se demande pas si ce combat valait la peine. Le cinquième stade d’Instagram, c’était Facebook qui débarque pour le racheter : l’épreuve venue de l’extérieur, celle où l’on découvre ce qui tient.
 
 ## Par l’élément : Air {#element}
 
@@ -61,7 +61,7 @@ Le ciel, c’est la première chose qu’on voit : un bleu pâle coupé de nuage
 
 ## Par l’astrologie : Vénus en Verseau {#astrologie}
 
-Dans la tradition Golden Dawn, le Cinq d’Épées correspond à Vénus dans le premier décan du Verseau, sous le titre de « Seigneur de la défaite ». [Vénus](/fr/bibliotheque/astrologie/venus/), c’est ce que vous aimez et la façon dont vous vous liez ; le Verseau est le signe des idées, du « je sais », que j’entends comme « je crois savoir ». Ensemble : des liens sacrifiés à une idée, tenir davantage à avoir raison qu’aux personnes face à qui l’on a raison. C’est une clé facultative, mais sur cette carte elle tombe juste.
+Dans la tradition Golden Dawn, le Cinq d’Épées correspond à Vénus dans le premier décan du Verseau. [Vénus](/fr/bibliotheque/astrologie/venus/), c’est ce que vous aimez et la façon dont vous vous liez ; le Verseau est le signe des idées, du « je sais », que j’entends comme « je crois savoir ». Ensemble : des liens sacrifiés à une idée, tenir davantage à avoir raison qu’aux personnes face à qui l’on a raison. C’est une clé facultative, mais sur cette carte elle tombe juste.
 
 ## En lecture {#lecture}
 
@@ -77,7 +77,7 @@ Renversé, le conflit s’étire dans la tête, chaque réplique répétée bien
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Cinq d’Épées à côté du [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/). Les clés de lecture d’abord. Cinq puis trois : un conflit, puis un rythme qui fonctionne. L’Air puis la Terre : une dispute sur des décisions, puis quelque chose qu’on construit ensemble. Un ciel gris déchiré, puis un artisan au travail dans une église, deux autres à côté avec un plan.
+Pour vous exercer, imaginez une personne qui a tiré le Cinq d’Épées et le [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/). Cinq puis trois : un conflit, puis un rythme qui fonctionne. L’Air puis la Terre : une dispute sur des décisions, puis quelque chose qu’on construit ensemble. Un ciel gris déchiré, puis un artisan au travail dans une église, deux autres à côté avec un plan.
 
 Vous pourriez dire : « Vous avez gagné une dispute récemment, peut-être au travail, et vous allez bientôt avoir besoin des personnes avec qui vous n’étiez pas d’accord. »
 

@@ -1,10 +1,7 @@
 ---
 title: 'Le jaune au tarot : signification, cartes où il domine et lecture (couleurs
   du tarot)'
-description: 'Le jaune dans le tarot Rider-Waite-Smith : joie, optimisme, fierté,
-  l’enfant intérieur, l’expression de soi, la volonté. Où la couleur apparaît dans
-  le jeu, ce qu’elle dit avant même de connaître la carte, son revers, et comment
-  la lire avec les autres clés.'
+description: "Le jaune dans le tarot Rider-Waite-Smith : joie, optimisme, fierté, l’enfant intérieur, l’expression de soi, la volonté. Un ciel jaune, et la carte sourit avant même que vous l’ayez lue."
 translationKey: col-yellow
 type: library
 navTitle: Le jaune

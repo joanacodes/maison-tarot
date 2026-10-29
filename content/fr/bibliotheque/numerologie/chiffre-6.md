@@ -1,8 +1,6 @@
 ---
 title: 'Le chiffre 6 au tarot : signification, cartes et conseil (numérologie du tarot)'
-description: Réussite, triomphe, vitesse décuplée. Le 6 est l’expansion — le 3 exalté,
-  la machine qui non seulement tourne, mais accélère. Les cinq cartes qui le portent,
-  un exemple que tout le monde connaît, et comment le lire dans un tirage.
+description: "Réussite, triomphe, vitesse décuplée. Le 6 est l’expansion — le 3 exalté, la machine qui non seulement tourne, mais accélère."
 translationKey: num-6
 type: library
 navTitle: Le chiffre 6

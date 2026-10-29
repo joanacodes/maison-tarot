@@ -1,8 +1,6 @@
 ---
 title: 'Number 2 in tarot: meaning, cards and advice (tarot numerology)'
-description: Signing a contract, cooperation between two parties, binding. Two is
-  the number of the alliance — and of the caution it asks for. The five cards that
-  carry it, an example everyone knows, and how to read it in a spread.
+description: "Signing a contract, cooperation between two parties, binding. Two is the number of the alliance — and of the caution it asks for."
 translationKey: num-2
 type: library
 navTitle: Number 2

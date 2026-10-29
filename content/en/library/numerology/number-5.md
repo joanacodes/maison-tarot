@@ -1,8 +1,6 @@
 ---
 title: 'Number 5 in tarot: meaning, cards and advice (tarot numerology)'
-description: Conflict, test, war or battle, elaborating, setting up, challenge, making
-  do with what's left. Five is the trial that measures. The five cards that carry
-  it, an example everyone knows, and how to read it in a spread.
+description: "Conflict, test, war or battle, elaborating, setting up, challenge, making do with what’s left. Five is the trial that measures."
 translationKey: num-5
 type: library
 navTitle: Number 5

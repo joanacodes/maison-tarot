@@ -1,10 +1,7 @@
 ---
 title: 'Le noir au tarot : signification, cartes où il domine et lecture (couleurs
   du tarot)'
-description: 'Le noir dans le tarot Rider-Waite-Smith : absence, absorption d’énergie,
-  néant, pensées négatives, faire le vide, réalité. Où la couleur apparaît dans le
-  jeu, ce qu’elle dit avant même de connaître la carte, son revers, et comment la
-  lire avec les autres clés.'
+description: "Le noir dans le tarot Rider-Waite-Smith : absence, absorption d’énergie, néant, pensées négatives, faire le vide, réalité. Dans le jeu, il est rare et il compte : le Cinq de Coupes en manteau noir, le Diable sur fond noir, la Tour dans la nuit."
 translationKey: col-black
 type: library
 navTitle: Le noir

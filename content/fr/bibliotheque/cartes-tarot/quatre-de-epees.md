@@ -51,7 +51,7 @@ Le dessin parle d’**un arrêt choisi et protégé : les épées sont rangées,
 
 ## Par le nombre : quatre {#nombre}
 
-**quatre — les fondations, la stabilité.** Le quatre, c’est « le deux exalté » : le contrat est signé et maintenant il tient — la structure, le fruit de votre travail. Dans mes notes, son conseil est de rester souple, et son revers, de continuer alors qu’il faudrait s’arrêter. Le Quatre d’Épées, c’est le quatre qui s’est arrêté. Après la coupure du Trois, la structure devient un cadre pour le repos : quatre murs, un tombeau, une pause qui vous tient. Instagram, à ce stade, avait une forme, une équipe, des habitudes. Le [chiffre 4](/fr/bibliotheque/numerologie/chiffre-4/) peut protéger ou enfermer ; cette carte en est la version protectrice, tant que l’arrêt reste un arrêt et ne devient pas une cachette.
+Le quatre, c’est « le deux exalté » : le contrat est signé et maintenant il tient — la structure, le fruit de votre travail. Dans mes notes, son conseil est de rester souple, et son revers, de continuer alors qu’il faudrait s’arrêter. Le Quatre d’Épées, c’est le quatre qui s’est arrêté. Après la coupure du Trois, la structure devient un cadre pour le repos : quatre murs, un tombeau, une pause qui vous tient. Instagram, à ce stade, avait une forme, une équipe, des habitudes. Le [chiffre 4](/fr/bibliotheque/numerologie/chiffre-4/) peut protéger ou enfermer ; cette carte en est la version protectrice, tant que l’arrêt reste un arrêt et ne devient pas une cachette.
 
 ## Par l’élément : Air {#element}
 
@@ -63,7 +63,7 @@ Surtout du pâle : des murs blanc cassé et [gris](/fr/bibliotheque/couleurs-tar
 
 ## Par l’astrologie : Jupiter en Balance {#astrologie}
 
-Dans la tradition Golden Dawn, le Quatre d’Épées correspond à [Jupiter](/fr/bibliotheque/astrologie/jupiter/) dans le troisième décan de la Balance, sous le titre de « Seigneur du repos après la lutte ». Jupiter, c’est l’expansion et la générosité ; la Balance, l’équilibre. Ensemble : un équilibre accordé généreusement — du temps, de l’espace, une trêve assez longue pour récupérer. Le revers de Jupiter, c’est l’excès : un repos qui s’étend jusqu’à devenir de l’évitement. Une clé facultative ; le nombre et l’élément portent déjà la carte.
+Dans la tradition Golden Dawn, le Quatre d’Épées correspond à [Jupiter](/fr/bibliotheque/astrologie/jupiter/) dans le troisième décan de la Balance. Jupiter, c’est l’expansion et la générosité ; la Balance, l’équilibre. Ensemble : un équilibre accordé généreusement — du temps, de l’espace, une trêve assez longue pour récupérer. Le revers de Jupiter, c’est l’excès : un repos qui s’étend jusqu’à devenir de l’évitement. Une clé facultative ; le nombre et l’élément portent déjà la carte.
 
 ## En lecture {#lecture}
 
@@ -81,7 +81,7 @@ Renversé, la pause tourne mal. Freinée : vous n’arrivez pas à vous reposer,
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Quatre d’Épées à côté du [Huit de Bâtons](/fr/bibliotheque/cartes-tarot/huit-de-batons/). Les clés de lecture d’abord. Quatre puis huit : une structure au repos, puis une structure en plein mouvement. L’Air puis le Feu : la pensée mise de côté, puis la vitesse, l’élan. Du jaune pâle et du gris, puis huit bâtons qui filent dans un ciel ouvert.
+Faites comme si vous battiez les cartes, coupiez, et retourniez pour quelqu’un le Quatre d’Épées, puis le [Huit de Bâtons](/fr/bibliotheque/cartes-tarot/huit-de-batons/). Quatre puis huit : une structure au repos, puis une structure en plein mouvement. L’Air puis le Feu : la pensée mise de côté, puis la vitesse, l’élan. Du jaune pâle et du gris, puis huit bâtons qui filent dans un ciel ouvert.
 
 Vous pourriez dire : « Vous êtes dans une pause qui ne va plus durer très longtemps. Les choses vont bientôt aller vite : c’est maintenant qu’il faut prendre ce repos. »
 

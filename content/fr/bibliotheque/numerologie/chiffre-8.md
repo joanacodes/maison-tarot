@@ -1,8 +1,6 @@
 ---
 title: 'Le chiffre 8 au tarot : signification, cartes et conseil (numérologie du tarot)'
-description: Héritage, stabilité assurée, prospérité. Le 8 est l’empire — le 4 exalté,
-  la structure devenue puissance. Les cinq cartes qui le portent, un exemple que tout
-  le monde connaît, et comment le lire dans un tirage.
+description: "Héritage, stabilité assurée, prospérité. Le 8 est l’empire — le 4 exalté, la structure devenue puissance."
 translationKey: num-8
 type: library
 navTitle: Le chiffre 8

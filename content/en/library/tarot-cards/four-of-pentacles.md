@@ -50,9 +50,9 @@ Look at what his body can’t do. His arms are busy, his feet are pinned, and hi
 
 ## By number: four {#number}
 
-**four — foundations, stability.** [Number four](/library/numerology/number-4/) is 2 exalted: the contract has held, and now there’s a structure, a home, the fruit of your work. In my notes, 4 is already the most earthly number — material, abundance, Taurus, earth — so on a Pentacles card it’s doubled: stability on top of stability.
+[Number four](/library/numerology/number-4/) is 2 exalted: the contract has held, and now there’s a structure, a home, the fruit of your work. In my notes, 4 is already the most earthly number — material, abundance, Taurus, earth — so on a Pentacles card it’s doubled: stability on top of stability.
 
-The advice of 4 is to stay flexible and open to what you hadn’t planned. Its minus is carrying on when you should stop, and stubbornness. This card shows both: the foundations are real, and the grip is tight. In the Instagram story, 4 is the big success that comes fast — the moment a company starts believing it will never have to change.
+The advice of 4 is to stay flexible and open to what you hadn’t planned. Its minus is carrying on when you should stop, and stubbornness. This card shows both: the foundations are real, and the grip is tight. In the Instagram story, 4 is fast, enormous success; on this card, that success has turned into a grip.
 
 ## By element: Earth {#element}
 
@@ -68,7 +68,7 @@ Behind him, the grey sky: neutrality, matter that doesn’t move. The city has i
 
 ## By astrology: Sun in Capricorn {#astrology}
 
-In the Golden Dawn tradition, the Four of Pentacles is the third decan of Capricorn, given to the [Sun](/library/astrology/sun/); its title is the Lord of Earthly Power. The Sun is the centre, what a life organises itself around. Capricorn says *I use*: work, responsibility, the wish to depend on no one. Together: a person who has put their security at the centre of everything — power in its earthly sense, having and holding.
+In the Golden Dawn tradition, the Four of Pentacles is the third decan of Capricorn, given to the [Sun](/library/astrology/sun/). The Sun is the centre, what a life organises itself around. Capricorn says *I use*: work, responsibility, the wish to depend on no one. Together: a person who has put their security at the centre of everything — power in its earthly sense, having and holding.
 
 Optional, as always. The posture alone says it.
 
@@ -86,8 +86,8 @@ Next to [the Emperor](/library/tarot-cards/the-emperor/), the major 4, structure
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Four of Pentacles next to the [Eight of Cups](/library/tarot-cards/eight-of-cups/). Lenses first. Four then eight: stability, then 4 exalted — and in my notes, the Eight of Cups is moving on from what you’re already doing. Earth then Water: what you hold, then what you feel. The drawings: a man gripping his coins in front of a city, then a figure walking away from eight stacked cups, towards the mountains, under the moon.
+Lay out two cards in your mind for someone you’re reading for: the Four of Pentacles on the left, the [Eight of Cups](/library/tarot-cards/eight-of-cups/) on the right. Four then eight: stability, then 4 exalted — and in my notes, the Eight of Cups is moving on from what you’re already doing. Earth then Water: what you hold, then what you feel. The drawings: a man gripping his coins in front of a city, then a figure walking away from eight stacked cups, towards the mountains, under the moon.
 
 The sentence I’d say out loud: “You’re holding on very tight to something you’ve already started to leave.”
 
-To check, I ask: “Is there something you’re keeping out of habit, or out of fear of losing it, more than because you still want it?” If it’s yes, I don’t ask what. If it’s no, that’s a miss, and I say so plainly.
+To check, I ask: “Is there something you’re keeping out of habit, or out of fear of losing it, more than because you still want it?” If it’s yes, I don’t ask what. If they can’t think of anything, I tell them the sentence missed.

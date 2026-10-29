@@ -1,9 +1,7 @@
 ---
 title: 'Green in tarot: meaning, cards where it dominates and how to read it (tarot
   colours)'
-description: 'Green in the Rider-Waite-Smith tarot: nature, growth, birth, life, prosperity.
-  Where the colour appears in the deck, what it says before you even know the card,
-  its flip side, and how to read it with the other lenses.'
+description: "Green in the Rider-Waite-Smith tarot: nature, growth, birth, life, prosperity. In the deck it's on the ground — grass, leaves, vines — and it says something is alive and getting bigger."
 translationKey: col-green
 type: library
 navTitle: Green

@@ -1,10 +1,7 @@
 ---
 title: 'L’or et le brun au tarot : signification, cartes où il domine et lecture (couleurs
   du tarot)'
-description: 'L’or et le brun dans le tarot Rider-Waite-Smith : la valeur acquise,
-  la matière, la terre travaillée. Où la couleur apparaît dans le jeu, ce qu’elle
-  dit avant même de connaître la carte, son revers, et comment la lire avec les autres
-  clés.'
+description: "L’or et le brun dans le tarot Rider-Waite-Smith : la valeur acquise, la matière, la terre travaillée. Deux couleurs qui disent ce que ça a coûté."
 translationKey: col-gold-and-brown
 type: library
 navTitle: L’or et le brun

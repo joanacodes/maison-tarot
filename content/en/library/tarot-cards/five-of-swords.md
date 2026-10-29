@@ -48,7 +48,7 @@ The drawing is about **a fight that’s over, where the winner holds all the swo
 
 ## By number: five {#number}
 
-**five — conflict, trial, making do with what’s left.** Five is the number of the battle: trying, not being afraid to fail or to be disliked, and making do with what’s left afterwards. In my notes, the Five of Swords is an Air conflict — a conflict about decisions, between people who don’t share the same point of view. Not a brawl but a disagreement, and somebody “won” it. The advice of [number 5](/library/numerology/number-5/) is to avoid useless conflicts and to be honest with yourself; its minus is denial. Both are on the card: the man gathering swords isn’t asking whether this fight was worth having. Instagram’s fifth stage was Facebook arriving to buy it, the test from outside where you find out what holds.
+Five is the number of the battle: trying, not being afraid to fail or to be disliked, and making do with what’s left afterwards. In my notes, the Five of Swords is an Air conflict — a conflict about decisions, between people who don’t share the same point of view. Not a brawl but a disagreement, and somebody “won” it. The advice of [number 5](/library/numerology/number-5/) is to avoid useless conflicts and to be honest with yourself; its minus is denial. Both are on the card: the man gathering swords isn’t asking whether this fight was worth having. Instagram’s fifth stage was Facebook arriving to buy it, the test from outside where you find out what holds.
 
 ## By element: Air {#element}
 
@@ -60,7 +60,7 @@ The sky is the first thing you see: pale blue cut by ragged clouds, the grey of 
 
 ## By astrology: Venus in Aquarius {#astrology}
 
-In the Golden Dawn tradition, the Five of Swords is Venus in the first decan of Aquarius, under the title Lord of Defeat. [Venus](/library/astrology/venus/) is what you love and how you bond; Aquarius is the sign of ideas, “I know” — which I hear as “I think I know”. Together: bonds sacrificed to an idea, caring more about being right than about the people you’re right with. It’s an optional lens, but on this card it lands well.
+In the Golden Dawn tradition, the Five of Swords is Venus in the first decan of Aquarius. [Venus](/library/astrology/venus/) is what you love and how you bond; Aquarius is the sign of ideas, “I know” — which I hear as “I think I know”. Together: bonds sacrificed to an idea, caring more about being right than about the people you’re right with. It’s an optional lens, but on this card it lands well.
 
 ## In a reading {#reading}
 
@@ -76,7 +76,7 @@ Next to the [Five of Wands](/library/tarot-cards/five-of-wands/), it’s the Fir
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Five of Swords next to the [Three of Pentacles](/library/tarot-cards/three-of-pentacles/). Lenses first. Five then three: a conflict, then a rhythm that works. Air then Earth: an argument about decisions, then something built together. A torn grey sky, then a craftsman at work in a church, two others standing by with a plan.
+For practice, imagine a sitter who has drawn the Five of Swords and the [Three of Pentacles](/library/tarot-cards/three-of-pentacles/). Five then three: a conflict, then a rhythm that works. Air then Earth: an argument about decisions, then something built together. A torn grey sky, then a craftsman at work in a church, two others standing by with a plan.
 
 You might say: “You won an argument recently, maybe at work, and you’re about to need the very people you argued with.”
 

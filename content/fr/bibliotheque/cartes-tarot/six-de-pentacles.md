@@ -51,9 +51,9 @@ L’homme est debout ; les deux autres sont à genoux. **C’est une scène de d
 
 ## Par le nombre : six {#nombre}
 
-**six — l’harmonie retrouvée, l’échange.** Le [chiffre 6](/fr/bibliotheque/numerologie/chiffre-6/), c’est le 3 exalté : la machine ne fait pas que tourner, elle va vite, et il y a assez. Après l’épreuve du 5, les choses circulent de nouveau, et il devient possible de se reposer — ou de donner. Dans mes notes, le Six de Pentacles, c’est la balance : connaître la valeur, et le royaume qui dure.
+Le [chiffre 6](/fr/bibliotheque/numerologie/chiffre-6/), c’est le 3 exalté : la machine ne fait pas que tourner, elle va vite, et il y a assez. Après l’épreuve du 5, les choses circulent de nouveau, et il devient possible de se reposer — ou de donner. Dans mes notes, le Six de Pentacles, c’est la balance : connaître la valeur, et le royaume qui dure.
 
-Le conseil du 6, c’est de rester calme et humble quand les résultats affluent, et la balance, c’est cette humilité devenue objet : donner, mais peser. Dans l’histoire d’Instagram, le 6, c’est Facebook qui décide d’investir : ce qui menaçait l’entreprise devient ce qui la propulse, et tout va plus vite.
+Le conseil du 6, c’est de rester calme et humble quand les résultats affluent, et la balance, c’est cette humilité devenue objet : donner, mais peser. Dans l’histoire d’Instagram, le 6, c’est l’investissement de Facebook : de l’argent qui arrive de celui-là même qui avait l’air d’une menace.
 
 ## Par l’élément : Terre {#element}
 
@@ -69,7 +69,7 @@ Le ciel est gris, neutre. Lisez les couleurs avant la carte : une silhouette dan
 
 ## Par l’astrologie : Lune en Taureau {#astrologie}
 
-Dans la tradition Golden Dawn, le Six de Pentacles correspond au deuxième décan du Taureau, attribué à la [Lune](/fr/bibliotheque/astrologie/lune/) ; son titre est « Seigneur du Succès matériel ». La Lune, c’est le besoin de sécurité, la façon de se réconforter et de réconforter les autres. Le Taureau dit *J’ai*. L’astrologie classique place la Lune en exaltation dans le Taureau : se sentir en sécurité parce qu’il y a assez. Ensemble : le confort d’avoir assez pour partager.
+Dans la tradition Golden Dawn, le Six de Pentacles correspond au deuxième décan du Taureau, attribué à la [Lune](/fr/bibliotheque/astrologie/lune/). La Lune, c’est le besoin de sécurité, la façon de se réconforter et de réconforter les autres. Le Taureau dit *J’ai*. L’astrologie classique place la Lune en exaltation dans le Taureau : se sentir en sécurité parce qu’il y a assez. Ensemble : le confort d’avoir assez pour partager.
 
 Facultatif. La balance en dit l’essentiel.
 
@@ -87,8 +87,8 @@ On tire souvent cette carte autour de l’argent : prêter, emprunter, une dette
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Six de Pentacles à côté du [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/). Les clés de lecture d’abord. Six puis quatre : l’élan du 6 — dans mes notes, le nombre où l’on peut enfin se reposer — puis la stabilité du 4. La Terre puis l’Air : quelque chose de donné ou de reçu, puis l’esprit qui se tait. Les dessins : de l’or qui passe d’une main à l’autre, puis une silhouette allongée, immobile, sur un tombeau, sous un vitrail.
+Admettons que vous battiez les cartes pour une amie, et que le Six de Pentacles sorte avec le [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/) à côté. Six puis quatre : l’élan du 6 — dans mes notes, le nombre où l’on peut enfin se reposer — puis la stabilité du 4. La Terre puis l’Air : quelque chose de donné ou de reçu, puis l’esprit qui se tait. Les dessins : de l’or qui passe d’une main à l’autre, puis une silhouette allongée, immobile, sur un tombeau, sous un vitrail.
 
 La phrase que je dirais à voix haute : « Vous avez beaucoup donné — du temps, de l’aide, peut-être de l’argent — et maintenant il vous faut vous arrêter et reprendre votre souffle. »
 
-Pour vérifier, je demande : « Est-ce que ça correspond à ces dernières semaines ? » Si c’est oui, je laisse la personne en dire autant ou aussi peu qu’elle le veut. Si c’est non, c’est un raté, et je le dis.
+Pour vérifier, je demande : « Est-ce que ça correspond à ces dernières semaines ? » Si c’est oui, je laisse la personne en dire autant ou aussi peu qu’elle le veut. Si ces dernières semaines n’y ressemblent pas du tout, le raté est pour moi, et je l’assume.

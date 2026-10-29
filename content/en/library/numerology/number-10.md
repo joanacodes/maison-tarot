@@ -1,8 +1,6 @@
 ---
 title: 'Number 10 in tarot: meaning, cards and advice (tarot numerology)'
-description: 'Freedom, change, travel, breathing. Ten — or 0 — is the transition:
-  what was is finishing, what comes has no name yet. The five cards that carry it,
-  an example everyone knows, and how to read it in a spread.'
+description: "Freedom, change, travel, breathing. Ten — or 0 — is the transition: what was is finishing, what comes has no name yet."
 translationKey: num-10
 type: library
 navTitle: Number 10

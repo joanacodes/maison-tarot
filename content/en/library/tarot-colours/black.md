@@ -1,10 +1,7 @@
 ---
 title: 'Black in tarot: meaning, cards where it dominates and how to read it (tarot
   colours)'
-description: 'Black in the Rider-Waite-Smith tarot: absence, energy absorbed, void,
-  negative thoughts, emptying out, reality. Where the colour appears in the deck,
-  what it says before you even know the card, its flip side, and how to read it with
-  the other lenses.'
+description: "Black in the Rider-Waite-Smith tarot: absence, energy absorbed, void, negative thoughts, emptying out, reality. In the deck it's rare and it counts: the Five of Cups in a black cloak, the Devil on a black background, the Tower in the night."
 translationKey: col-black
 type: library
 navTitle: Black

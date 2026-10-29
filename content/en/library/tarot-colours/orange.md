@@ -1,9 +1,7 @@
 ---
 title: 'Orange in tarot: meaning, cards where it dominates and how to read it (tarot
   colours)'
-description: 'Orange in the Rider-Waite-Smith tarot: creativity, dryness, libido.
-  Where the colour appears in the deck, what it says before you even know the card,
-  its flip side, and how to read it with the other lenses.'
+description: "Orange in the Rider-Waite-Smith tarot: creativity, dryness, libido. It's also the colour of dryness — dry ground, heat that makes you thirsty."
 translationKey: col-orange
 type: library
 navTitle: Orange

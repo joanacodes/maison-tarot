@@ -1,8 +1,6 @@
 ---
 title: 'Number 6 in tarot: meaning, cards and advice (tarot numerology)'
-description: Success, triumph, speed multiplied. Six is expansion — 3 exalted, the
-  machine that not only runs but accelerates. The five cards that carry it, an example
-  everyone knows, and how to read it in a spread.
+description: "Success, triumph, speed multiplied. Six is expansion — 3 exalted, the machine that not only runs but accelerates."
 translationKey: num-6
 type: library
 navTitle: Number 6

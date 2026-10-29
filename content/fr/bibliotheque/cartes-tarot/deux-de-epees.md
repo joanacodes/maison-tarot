@@ -51,7 +51,7 @@ Tout le dessin dit une seule chose : **un équilibre tenu en refusant de regarde
 
 ## Par le nombre : deux {#nombre}
 
-**deux — se lier, peser, coopérer.** Le deux, c’est le contrat entre deux parties, et son conseil est de lire le contrat et de peser le pour et le contre. Le Deux d’Épées, c’est cette pesée faite les yeux bandés : deux options tenues à égale distance, pour qu’aucune ne l’emporte jamais. Le deuxième stade d’Instagram, c’était la signature avec les investisseurs, le premier moment où l’on peut perdre autre chose que son temps. Ici, la personne est encore à la table, stylo en main, et ne signe pas. Le revers du [chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/) est aussi sur la carte : l’entêtement, la solitude, le mental qui se parle à lui-même.
+Le deux, c’est le contrat entre deux parties, et son conseil est de lire le contrat et de peser le pour et le contre. Le Deux d’Épées, c’est cette pesée faite les yeux bandés : deux options tenues à égale distance, pour qu’aucune ne l’emporte jamais. Le deuxième stade d’Instagram, c’était la signature avec les investisseurs, le premier moment où l’on peut perdre autre chose que son temps. Ici, la personne est encore à la table, stylo en main, et ne signe pas. Le revers du [chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/) est aussi sur la carte : l’entêtement, la solitude, le mental qui se parle à lui-même.
 
 ## Par l’élément : Air {#element}
 
@@ -63,7 +63,7 @@ Le [blanc](/fr/bibliotheque/couleurs-tarot/blanc/) de la robe et du bandeau : la
 
 ## Par l’astrologie : Lune en Balance {#astrologie}
 
-Dans la tradition Golden Dawn, le Deux d’Épées correspond à la Lune dans le premier décan de la Balance, et porte le titre de « Seigneur de la paix rétablie ». La [Balance](/fr/bibliotheque/astrologie/balance/) cherche l’équilibre : elle voudrait que chaque partie reparte avec la même chose, et elle se fige devant un dilemme où aucun plateau ne peut rester à niveau. La Lune, c’est ce que vous ressentez quand personne ne regarde. Ensemble : un sentiment mis sous cloche pour préserver l’équilibre. Le croissant est dessiné juste là, dans son ciel — une des rares attributions qu’on voit vraiment sur la carte. Gardez cette clé si elle vous aide ; la carte se lit très bien sans.
+Dans la tradition Golden Dawn, le Deux d’Épées correspond à la Lune dans le premier décan de la Balance. La [Balance](/fr/bibliotheque/astrologie/balance/) cherche l’équilibre : elle voudrait que chaque partie reparte avec la même chose, et elle se fige devant un dilemme où aucun plateau ne peut rester à niveau. La Lune y ajoute le besoin de se sentir à l’abri, et c’est ce que le bandeau lui achète. Ensemble : un sentiment mis sous cloche pour préserver l’équilibre. Le croissant est dessiné juste là, dans son ciel — une des rares attributions qu’on voit vraiment sur la carte. Gardez cette clé si elle vous aide ; le bandeau et les bras croisés disent la même chose sans astrologie.
 
 ## En lecture {#lecture}
 
@@ -79,8 +79,8 @@ Renversé, le bandeau glisse. Soit la décision arrive d’un coup, les bras se 
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Deux d’Épées à côté du [Cavalier d’Épées](/fr/bibliotheque/cartes-tarot/cavalier-de-epees/). Les clés de lecture d’abord. Deux, puis un Cavalier : la pesée, puis le mouvement. L’Air et l’Air : tout le tirage se passe dans la tête. Du blanc et du gris, puis un cavalier lancé au galop sous un ciel de vent.
+Figurez-vous quelqu’un, en face de vous, qui retourne le Deux d’Épées, puis le [Cavalier d’Épées](/fr/bibliotheque/cartes-tarot/cavalier-de-epees/). Deux, puis un Cavalier : la pesée, puis le mouvement. L’Air et l’Air : tout le tirage se passe dans la tête. Du blanc et du gris, puis un cavalier lancé au galop sous un ciel de vent.
 
 Vous pourriez dire : « Vous repoussez un choix depuis un moment, et quelque chose ou quelqu’un va vous obliger à aller plus vite que vous ne le voudriez. »
 
-Puis vérifiez : « Y a-t-il une décision que vous retardez ? Quelqu’un attend-il une réponse de votre part ? » Laissez la personne répondre avec ses mots, sans remplir les blancs à sa place. Je lis ; vous décidez — et avec cette carte, c’est tout le sujet : personne ne peut retirer le bandeau à la place de quelqu’un d’autre.
+Puis vérifiez : « Y a-t-il une décision que vous retardez ? Quelqu’un attend-il une réponse de votre part ? » Laissez la personne répondre avec ses mots, sans remplir les blancs à sa place. Avec cette carte, c’est tout le sujet : personne ne peut retirer le bandeau à la place de quelqu’un d’autre.

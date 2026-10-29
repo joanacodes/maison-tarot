@@ -1,9 +1,7 @@
 ---
 title: 'White in tarot: meaning, cards where it dominates and how to read it (tarot
   colours)'
-description: 'White in the Rider-Waite-Smith tarot: purity, innocence, peace. Where
-  the colour appears in the deck, what it says before you even know the card, its
-  flip side, and how to read it with the other lenses.'
+description: "White in the Rider-Waite-Smith tarot: purity, innocence, peace. In the deck it's the Fool's rose, the dog that follows him, the Magician's robe, the Sun's horse and Death's — white isn't always on the side you'd expect."
 translationKey: col-white
 type: library
 navTitle: White

@@ -51,9 +51,9 @@ Regardez ce que son corps ne peut pas faire. Ses bras sont pris, ses pieds sont 
 
 ## Par le nombre : quatre {#nombre}
 
-**quatre — les fondations, la stabilité.** Le [chiffre 4](/fr/bibliotheque/numerologie/chiffre-4/), c’est le 2 exalté : le contrat a tenu, et maintenant il y a une structure, un foyer, le fruit du travail. Dans mes notes, le 4 est déjà le nombre le plus terrien — la matière, l’abondance, le Taureau, la terre —, alors sur une carte de Pentacles, il est doublé : de la stabilité sur de la stabilité.
+Le [chiffre 4](/fr/bibliotheque/numerologie/chiffre-4/), c’est le 2 exalté : le contrat a tenu, et maintenant il y a une structure, un foyer, le fruit du travail. Dans mes notes, le 4 est déjà le nombre le plus terrien — la matière, l’abondance, le Taureau, la terre —, alors sur une carte de Pentacles, il est doublé : de la stabilité sur de la stabilité.
 
-Le conseil du 4, c’est de rester souple et ouvert à l’imprévu. Son revers, c’est de continuer quand il faudrait s’arrêter, et l’entêtement. Cette carte montre les deux : les fondations sont réelles, et la prise est serrée. Dans l’histoire d’Instagram, le 4, c’est le grand succès qui arrive vite — le moment où une entreprise commence à croire qu’elle n’aura jamais à changer.
+Le conseil du 4, c’est de rester souple et ouvert à l’imprévu. Son revers, c’est de continuer quand il faudrait s’arrêter, et l’entêtement. Cette carte montre les deux : les fondations sont réelles, et la prise est serrée. Dans l’histoire d’Instagram, le 4, c’est un succès énorme et rapide ; sur cette carte, ce succès est devenu une prise.
 
 ## Par l’élément : Terre {#element}
 
@@ -69,7 +69,7 @@ Derrière lui, le ciel gris : la neutralité, la matière qui ne bouge pas. La v
 
 ## Par l’astrologie : Soleil en Capricorne {#astrologie}
 
-Dans la tradition Golden Dawn, le Quatre de Pentacles correspond au troisième décan du Capricorne, attribué au [Soleil](/fr/bibliotheque/astrologie/soleil/) ; son titre est « Seigneur de la Puissance terrestre ». Le Soleil, c’est le centre, ce autour de quoi une vie s’organise. Le Capricorne dit *J’utilise* : le travail, la responsabilité, le désir de ne dépendre de personne. Ensemble : quelqu’un qui a mis sa sécurité au centre de tout — le pouvoir au sens terrestre, avoir et tenir.
+Dans la tradition Golden Dawn, le Quatre de Pentacles correspond au troisième décan du Capricorne, attribué au [Soleil](/fr/bibliotheque/astrologie/soleil/). Le Soleil, c’est le centre, ce autour de quoi une vie s’organise. Le Capricorne dit *J’utilise* : le travail, la responsabilité, le désir de ne dépendre de personne. Ensemble : quelqu’un qui a mis sa sécurité au centre de tout — le pouvoir au sens terrestre, avoir et tenir.
 
 Facultatif, comme toujours. La posture suffit à le dire.
 
@@ -87,8 +87,8 @@ On interroge cette carte sur l’épargne, les dépenses, les placements. Je ne 
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Quatre de Pentacles à côté du [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/). Les clés de lecture d’abord. Quatre puis huit : la stabilité, puis le 4 exalté — et dans mes notes, le Huit de Coupes, c’est passer à autre chose que ce qu’on fait déjà. La Terre puis l’Eau : ce qu’on tient, puis ce qu’on ressent. Les dessins : un homme cramponné à ses pièces devant une ville, puis une silhouette qui s’éloigne de huit coupes empilées, vers les montagnes, sous la lune.
+Posons le cas d’un tirage à deux cartes pour quelqu’un : le Quatre de Pentacles à gauche, le [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/) à droite. Quatre puis huit : la stabilité, puis le 4 exalté — et dans mes notes, le Huit de Coupes, c’est passer à autre chose que ce qu’on fait déjà. La Terre puis l’Eau : ce qu’on tient, puis ce qu’on ressent. Les dessins : un homme cramponné à ses pièces devant une ville, puis une silhouette qui s’éloigne de huit coupes empilées, vers les montagnes, sous la lune.
 
 La phrase que je dirais à voix haute : « Vous vous accrochez très fort à quelque chose que vous avez déjà commencé à quitter. »
 
-Pour vérifier, je demande : « Y a-t-il quelque chose que vous gardez par habitude, ou par peur de le perdre, plus que parce que vous le voulez encore ? » Si c’est oui, je ne demande pas quoi. Si c’est non, c’est un raté, et je le dis franchement.
+Pour vérifier, je demande : « Y a-t-il quelque chose que vous gardez par habitude, ou par peur de le perdre, plus que parce que vous le voulez encore ? » Si c’est oui, je ne demande pas quoi. Si rien de tel ne lui vient, je lui dis que la phrase a raté.

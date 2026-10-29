@@ -1,9 +1,7 @@
 ---
 title: 'Le violet au tarot : signification, cartes où il domine et lecture (couleurs
   du tarot)'
-description: 'Le violet dans le tarot Rider-Waite-Smith : l’élu choisi par un groupe.
-  Où la couleur apparaît dans le jeu, ce qu’elle dit avant même de connaître la carte,
-  son revers, et comment la lire avec les autres clés.'
+description: "Le violet dans le tarot Rider-Waite-Smith : l’élu choisi par un groupe. C’est la couleur de l’élu — pas de l’Élu qui se croit spécial, mais de celui qu’un groupe a désigné : le Roi, la Reine, le Hiérophante."
 translationKey: col-purple
 type: library
 navTitle: Le violet

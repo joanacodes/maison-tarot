@@ -50,9 +50,9 @@ Son trône est en pierre grise, avec un haut dossier qui s’élève bien au-des
 
 ## Par le nombre : le Roi {#nombre}
 
-**le Roi — la maîtrise extérieure, la décision.** Chaque [Roi](/fr/bibliotheque/numerologie/roi/) siège sur un trône qui dit sa famille : des salamandres pour le Feu, des poissons pour l’Eau, des taureaux pour la Terre, des papillons pour l’Air. Le Roi ne regarde pas son outil ; il regarde le monde qu’il gouverne avec. Le conseil du rang : décider, puis en répondre.
+Un [Roi](/fr/bibliotheque/numerologie/roi/) siège sur un trône qui dit sa famille, et celui-ci porte le papillon de l’Air. Son travail de Roi : décider, puis répondre de ce qu’il a décidé.
 
-Le Roi d’Épées, c’est le Roi qui juge. La question à lui poser, comme à tout Roi, est : pour qui ? Au mieux, il protège ce qu’il gouverne avec des règles claires et justes. Au pire, il gouverne pour lui-même, et appelle ça de la logique.
+Le Roi d’Épées, c’est le Roi qui juge : demandez-vous qui ses jugements servent. Au mieux, il protège ce qu’il gouverne avec des règles claires et justes. Au pire, il gouverne pour lui-même, et appelle ça de la logique.
 
 ## Par l’élément : Air {#element}
 
@@ -68,7 +68,7 @@ L’essentiel de la carte est d’un [bleu](/fr/bibliotheque/couleurs-tarot/bleu
 
 À l’endroit, le Roi d’Épées, c’est une décision claire, assumée : quelqu’un qui réfléchit, pèse, juge et explique. L’avis d’un expert, une responsable qui fixe la règle, un professeur qui connaît son sujet sur le bout des doigts. Ou vous, au moment où le choix vous revient. **Le Roi d’Épées décide, et vous regarde dans les yeux pendant qu’il le fait.**
 
-Renversé, la même autorité est freinée ou excessive. Freinée : la personne qui devrait décider repousse sans cesse, ou annonce des décisions sans jamais les expliquer. Excessive : la règle pour la règle, les verdicts froids, l’intelligence mise au service de la victoire plutôt que de l’équité.
+Renversé, son autorité cale, ou se durcit. Freinée : la personne qui devrait décider repousse sans cesse, ou annonce des décisions sans jamais les expliquer. Excessive : la règle pour la règle, les verdicts froids, l’intelligence mise au service de la victoire plutôt que de l’équité.
 
 À côté de l’[Empereur](/fr/bibliotheque/cartes-tarot/l-empereur/), l’autorité double : la structure et la décision dans les mêmes mains, et « pour qui ? » devient la question urgente. À côté de la [Justice](/fr/bibliotheque/cartes-tarot/la-justice/), une décision juste se prend, toutes les cartes sur la table. À côté du [Roi de Coupes](/fr/bibliotheque/cartes-tarot/roi-de-coupes/), la tête et le cœur siègent côte à côte : le verdict, et le calme pour l’annoncer avec douceur.
 
@@ -76,8 +76,8 @@ Renversé, la même autorité est freinée ou excessive. Freinée : la personne 
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Roi d’Épées à côté du [Six de Pentacles](/fr/bibliotheque/cartes-tarot/six-de-pentacles/). Les clés de lecture d’abord. Un Roi puis un six : la décision, puis la réussite et l’échange équitable. Le Feu d’Air puis la Terre : une règle pensée dans la tête, puis son effet dans le monde réel. Un roi qui vous fait face, l’épée dressée, puis un homme qui tient une balance et distribue des pièces.
+Un tirage pour s’entraîner : une personne que vous ne connaissez pas tire le Roi d’Épées, puis le [Six de Pentacles](/fr/bibliotheque/cartes-tarot/six-de-pentacles/). Un Roi puis un six : la décision, puis la réussite et l’échange équitable. Le Feu d’Air puis la Terre : une règle pensée dans la tête, puis son effet dans le monde réel. Un roi qui vous fait face, l’épée dressée, puis un homme qui tient une balance et distribue des pièces.
 
 À voix haute, cela pourrait donner : « C’est à vous de décider comment quelque chose va être partagé — du temps, du travail, du mérite —, et les autres accepteront votre décision si vous expliquez vos raisons. »
 
-Puis vérifiez : « Êtes-vous en ce moment dans une position où vous décidez pour d’autres ? » Si oui, demandez pour qui est la décision. Si non, c’est un raté : notez-le, et restez-en là. Je lis ; vous décidez.
+Puis vérifiez : « Êtes-vous en ce moment dans une position où vous décidez pour d’autres ? » Si oui, demandez pour qui est la décision. Si non, c’est un raté : notez-le, et tenez-vous-en là.

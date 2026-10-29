@@ -51,7 +51,7 @@ Regardez mieux. Les liens s’arrêtent à la taille : ses jambes sont libres. L
 
 ## Par le nombre : huit {#nombre}
 
-**huit — le mouvement, la maîtrise, le fruit du travail.** Le huit, c’est le 4 exalté : l’empire, la structure devenue puissance. C’est aussi le contrôle — couchez un 8 et vous obtenez le signe de l’infini du Magicien. Dans le Huit d’Épées, ce contrôle s’est retourné vers l’intérieur. Dans mes notes, cette carte, c’est quelqu’un de prisonnier de soi-même alors qu’il a tous les outils en main — et qui peut retirer son bandeau.
+Le huit, c’est le 4 exalté : l’empire, la structure devenue puissance. C’est aussi le contrôle — couchez un 8 et vous obtenez le signe de l’infini du Magicien. Dans le Huit d’Épées, ce contrôle s’est retourné vers l’intérieur. Dans mes notes, cette carte, c’est quelqu’un de prisonnier de soi-même alors qu’il a tous les outils en main — et qui peut retirer son bandeau.
 
 Au huitième stade, Instagram était un empire qui rapportait des milliards chaque année, si bien installé que personne ne l’imaginait faire autre chose. C’est le piège de ce huit : une structure si solide dans votre tête que vous oubliez l’avoir construite, et que vous pourriez en sortir. Le conseil du [chiffre 8](/fr/bibliotheque/numerologie/chiffre-8/) est de continuer à travailler comme si rien n’était acquis ; ici, le travail consiste à repérer quels barreaux sont réels.
 
@@ -59,7 +59,7 @@ Au huitième stade, Instagram était un empire qui rapportait des milliards chaq
 
 Les Épées sont l’[Air](/fr/bibliotheque/quatre-elements/element-air/) : penser, analyser, décider. L’Air a accès à tout en même temps, ce qui en fait le meilleur décideur des quatre éléments — et il peut aussi bloquer, ou ressasser. Le Huit d’Épées, c’est l’Air bloqué. Chaque option a été pensée, et devant chacune une épée est plantée : « Je ne peux pas partir, parce que… », « Je ne peux pas le dire, parce que… ».
 
-Mon archétype de l’Air, c’est le chef qui prend les décisions que personne d’autre ne peut prendre, et qui peut devenir un tyran. Sur cette carte, le tyran habite la tête, et celle qui obéit, c’est la même personne.
+Le chef de l’Air, dans mes notes, peut tourner au tyran. Sur cette carte, le tyran habite la tête, et celle qui obéit, c’est la même personne.
 
 ## Par les couleurs {#couleurs}
 
@@ -67,7 +67,7 @@ Le [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) de la robe est ce qu’il y a
 
 ## Par l’astrologie : Jupiter en Gémeaux {#astrologie}
 
-Dans la tradition Golden Dawn, le Huit d’Épées correspond à Jupiter dans le premier décan des [Gémeaux](/fr/bibliotheque/astrologie/gemeaux/), et porte le titre de « Seigneur de la force écourtée ». Les Gémeaux, c’est « je pense ». Jupiter, c’est l’expansion, la confiance, l’excès. Ensemble : des pensées qui enflent plus vite que la situation, un mental qui grossit chaque risque. « Force écourtée » colle au dessin — toute la force est là, coupée net au niveau des bras. Une clé facultative, comme toutes les clés astrologiques.
+Dans la tradition Golden Dawn, le Huit d’Épées correspond à Jupiter dans le premier décan des [Gémeaux](/fr/bibliotheque/astrologie/gemeaux/). Les Gémeaux, c’est « je pense ». Jupiter, c’est l’expansion, la confiance, l’excès. Ensemble : des pensées qui enflent plus vite que la situation, un mental qui grossit chaque risque. Sur la carte, toute la force est là, coupée net au niveau des bras. Une clé facultative, comme toutes les clés astrologiques.
 
 ## En lecture {#lecture}
 
@@ -81,7 +81,7 @@ Renversé, la même cage se desserre ou se resserre. Elle se desserre : un lien 
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Huit d’Épées à côté du [Valet de Pentacles](/fr/bibliotheque/cartes-tarot/valet-de-pentacles/). Les clés de lecture d’abord. Un huit puis un Valet : une structure qui vous tient, puis l’élève. L’Air puis la Terre : une cage faite de pensées, puis quelque chose de concret à apprendre. Du gris et du rouge, puis un jeune homme dans un champ vert, une pièce levée devant lui.
+Considérez une lecture imaginaire où le Huit d’Épées sort à côté du [Valet de Pentacles](/fr/bibliotheque/cartes-tarot/valet-de-pentacles/). Un huit puis un Valet : une structure qui vous tient, puis l’élève. L’Air puis la Terre : une cage faite de pensées, puis quelque chose de concret à apprendre. Du gris et du rouge, puis un jeune homme dans un champ vert, une pièce levée devant lui.
 
 À voix haute, cela pourrait donner : « Vous avez l’impression de ne pas pouvoir bouger d’où vous êtes, et vous vous dites que vous n’en savez pas assez pour partir. Vous en savez plus que vous ne le pensez, et ce qui vous fera sortir, c’est d’apprendre une chose concrète. »
 

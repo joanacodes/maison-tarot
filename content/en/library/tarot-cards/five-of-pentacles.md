@@ -50,15 +50,15 @@ Above them, set in a grey stone wall, a stained-glass window glows: five gold pe
 
 ## By number: five {#number}
 
-**five — conflict, trial, making do with what’s left.** [Number five](/library/numerology/number-5/) is the trial in the middle of the cycle, the moment you find out what holds. In my notes, the Five of Pentacles is poverty, snow, and the church where warmth could be found. Five is also making do with what’s left, and these two are doing exactly that, together.
+[Number five](/library/numerology/number-5/) is the test halfway through the cycle; on this card, the cold is the test. In my notes, the Five of Pentacles is poverty, snow, and the church where warmth could be found. Five is also making do with what’s left, and these two are doing exactly that, together.
 
-The advice of 5 is to be honest with yourself and with the situation; its minus is denial. Here the denial is quiet: walking past the window as if it weren’t meant for you.
+Five asks for honesty about where you stand; its minus is denial. Here the denial is quiet: walking past the window as if it weren’t meant for you.
 
 ## By element: Earth {#element}
 
 [Earth](/library/four-elements/earth-element/) is matter and value, so the trial here is material: money running short, a job lost, a home that feels uncertain, a body that’s tired. The card doesn’t soften that, and I won’t either.
 
-But not all riches are gold, and Earth is whatever has value for you. The Five of Pentacles can be a poverty of warmth: feeling left out, outside the circle, not part of the group that’s inside. The two figures have each other and still look alone. Earth’s strength, endurance, is what keeps them walking; its flip side, stubbornness, is what keeps them from knocking.
+Earth also counts what money can’t buy. The Five of Pentacles can be a poverty of warmth: feeling left out, outside the circle, not part of the group that’s inside. The two figures have each other and still look alone. Earth’s strength, endurance, is what keeps them walking; its flip side, stubbornness, is what keeps them from knocking.
 
 ## By colours {#colours}
 
@@ -68,7 +68,7 @@ Then the window: yellow and gold, green leaves, red and blue in the frame. It’
 
 ## By astrology: Mercury in Taurus {#astrology}
 
-In the Golden Dawn tradition, the Five of Pentacles is the first decan of Taurus, given to [Mercury](/library/astrology/mercury/); its title is the Lord of Material Trouble. Mercury is how you think and speak. Taurus says *I have*: keeping what you hold dear — a fixed sign, slow to change its mind. Together: a mind stuck on what’s missing, turning the same worry over, and finding it hard to say the words that would bring help.
+In the Golden Dawn tradition, the Five of Pentacles is the first decan of Taurus, given to [Mercury](/library/astrology/mercury/). Mercury is how you think and speak. Taurus says *I have*: keeping what you hold dear — a fixed sign, slow to change its mind. Together: a mind stuck on what’s missing, turning the same worry over, and finding it hard to say the words that would bring help.
 
 Optional. The window has already said it.
 
@@ -86,8 +86,8 @@ Next to the [Six of Pentacles](/library/tarot-cards/six-of-pentacles/), the next
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Five of Pentacles next to the [Three of Cups](/library/tarot-cards/three-of-cups/). Lenses first. Five then three: a trial, then the cadence of 3 — siblings on good terms, people together. Earth then Water: something material, then relationships. The drawings: two figures in the snow under a lit window, then three women raising their cups together, fruit at their feet.
+Let’s invent a reading: someone turns over the Five of Pentacles, followed by the [Three of Cups](/library/tarot-cards/three-of-cups/). Five then three: a trial, then the cadence of 3 — siblings on good terms, people together. Earth then Water: something material, then relationships. The drawings: two figures in the snow under a lit window, then three women raising their cups together, fruit at their feet.
 
 The sentence I’d say out loud, gently: “You’re going through something hard on your own, and there are people close to you who would be glad to be asked.”
 
-To check, I ask: “Is there someone you’ve been meaning to ask, and haven’t?” and I wait. If it’s yes, I don’t ask for details; the person can tell me if they want to. If it’s no, it’s a miss, and I say so plainly.
+To check, I ask: “Is there someone you’ve been meaning to ask, and haven’t?” and I wait. If it’s yes, I don’t ask who; that’s theirs to share or keep. If there’s nobody like that, I say the sentence was wrong.

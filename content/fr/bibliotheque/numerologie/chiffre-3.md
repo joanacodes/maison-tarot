@@ -1,8 +1,6 @@
 ---
 title: 'Le chiffre 3 au tarot : signification, cartes et conseil (numérologie du tarot)'
-description: 'Machine lancée, contrat qui fonctionne, fratrie en bons termes. Le 3
-  est la cadence trouvée : ça marche, et ça se voit. Les cinq cartes qui le portent,
-  un exemple que tout le monde connaît, et comment le lire dans un tirage.'
+description: "Machine lancée, contrat qui fonctionne, fratrie en bons termes. Le 3 est la cadence trouvée : ça marche, et ça se voit."
 translationKey: num-3
 type: library
 navTitle: Le chiffre 3

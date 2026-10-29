@@ -51,7 +51,7 @@ Le dessin parle d’**une traversée : quitter les eaux agitées pour le calme, 
 
 ## Par le nombre : six {#nombre}
 
-**six — l’harmonie retrouvée, l’échange.** Le six, c’est « le trois exalté » : la machine est lancée et va vite ; le succès, et la possibilité, enfin, de se reposer ou de partir en vacances. Mon conseil pour un six : rester calme et humble quand les choses se mettent à couler. Sur cette carte, le succès est discret : on s’en est sorti. Les épées ne sont pas abandonnées — toutes les six voyagent dans la barque —, mais elles ne sont plus dans la main de personne. Le sixième stade d’Instagram, c’était Facebook qui investit : ce qui menaçait l’entreprise devient ce qui la porte. C’est le tournant que prend ici le [chiffre 6](/fr/bibliotheque/numerologie/chiffre-6/) : la partie difficile devient le véhicule.
+Le six, c’est « le trois exalté » : la machine est lancée et va vite ; le succès, et la possibilité, enfin, de se reposer ou de partir en vacances. Mon conseil pour un six : rester calme et humble quand les choses se mettent à couler. Sur cette carte, le succès est discret : on s’en est sorti. Les épées ne sont pas abandonnées — toutes les six voyagent dans la barque —, mais elles ne sont plus dans la main de personne. Le sixième stade d’Instagram, c’était Facebook qui investit : ce qui menaçait l’entreprise devient ce qui la porte. C’est le tournant que prend ici le [chiffre 6](/fr/bibliotheque/numerologie/chiffre-6/) : la partie difficile devient le véhicule.
 
 ## Par l’élément : Air {#element}
 
@@ -63,7 +63,7 @@ Un ciel gris pâle sur tout : neutre, stable, sans drame. L’eau est d’un [bl
 
 ## Par l’astrologie : Mercure en Verseau {#astrologie}
 
-Dans la tradition Golden Dawn, le Six d’Épées correspond à [Mercure](/fr/bibliotheque/astrologie/mercure/) dans le deuxième décan du Verseau, et son titre était le « Seigneur du succès mérité » — ce qui étonne, pour une carte qu’on dit souvent triste. Mercure, c’est la façon dont vous pensez et dont vous parlez ; le Verseau, l’idée neuve, le pont entre l’ancien et le nouveau. Ensemble : un esprit qui a trouvé le passage. Gardez cette clé si vous voulez ; la carte tient debout sans elle.
+Dans la tradition Golden Dawn, le Six d’Épées correspond à [Mercure](/fr/bibliotheque/astrologie/mercure/) dans le deuxième décan du Verseau. Mercure, c’est la façon dont vous pensez et dont vous parlez ; le Verseau, l’idée neuve, le pont entre l’ancien et le nouveau. Ensemble : un esprit qui a trouvé le passage. Gardez cette clé si vous voulez ; la carte tient debout sans elle.
 
 ## En lecture {#lecture}
 
@@ -79,7 +79,7 @@ Renversé, la traversée cale. La barque reste à quai, ou fait demi-tour à mi-
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Six d’Épées à côté de l’[As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/). Les clés de lecture d’abord. Six puis un : quelque chose qui avance vite, puis un nouveau départ. L’Air puis la Terre : un changement d’état d’esprit, puis du concret — de l’argent, un poste, un logement. Du gris et du bleu pâle, puis une main qui tend une pièce d’or au-dessus d’un jardin.
+Disposez le Six d’Épées et l’[As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/) côte à côte, comme pour quelqu’un que vous n’avez jamais vu. Six puis un : quelque chose qui avance vite, puis un nouveau départ. L’Air puis la Terre : un changement d’état d’esprit, puis du concret — de l’argent, un poste, un logement. Du gris et du bleu pâle, puis une main qui tend une pièce d’or au-dessus d’un jardin.
 
 Vous pourriez dire : « Vous sortez d’une période difficile, et de l’autre côté quelque chose de solide vous attend, quelque chose que vous pouvez tenir. »
 

@@ -51,15 +51,15 @@ Au-dessus d’eux, dans un mur de pierre grise, un vitrail brille : cinq pentacl
 
 ## Par le nombre : cinq {#nombre}
 
-**cinq — le conflit, l’épreuve, faire avec ce qui reste.** Le [chiffre 5](/fr/bibliotheque/numerologie/chiffre-5/), c’est l’épreuve au milieu du cycle, le moment où l’on découvre ce qui tient. Dans mes notes, le Cinq de Pentacles, c’est la pauvreté, la neige, et l’église où l’on pourrait trouver de la chaleur. Le 5, c’est aussi faire avec ce qui reste : ces deux-là le font ensemble.
+Le [chiffre 5](/fr/bibliotheque/numerologie/chiffre-5/), c’est l’épreuve à mi-parcours ; sur cette carte, l’épreuve, c’est le froid. Dans mes notes, le Cinq de Pentacles, c’est la pauvreté, la neige, et l’église où l’on pourrait trouver de la chaleur. Le 5, c’est aussi faire avec ce qui reste : ces deux-là le font ensemble.
 
-Le conseil du 5, c’est d’être honnête avec soi-même et avec la situation ; son revers, c’est le déni. Ici, le déni est discret : passer devant la fenêtre comme si elle n’était pas pour vous.
+Le 5 demande de regarder sa situation en face ; son revers, c’est le déni. Ici, le déni est discret : passer devant la fenêtre comme si elle n’était pas pour vous.
 
 ## Par l’élément : Terre {#element}
 
 La [Terre](/fr/bibliotheque/quatre-elements/element-terre/), c’est la matière et la valeur, alors l’épreuve est ici matérielle : l’argent qui manque, un emploi perdu, un logement incertain, un corps fatigué. La carte ne l’adoucit pas, et moi non plus.
 
-Mais toutes les richesses ne sont pas en or, et la Terre, c’est tout ce qui a de la valeur à vos yeux. Le Cinq de Pentacles peut être une pauvreté de chaleur : se sentir mis à l’écart, pas invité à l’intérieur. Les deux personnages sont ensemble et semblent pourtant seuls. L’endurance de la Terre les fait avancer ; son revers, l’entêtement, les empêche de frapper.
+La Terre compte aussi ce que l’argent n’achète pas. Le Cinq de Pentacles peut être une pauvreté de chaleur : se sentir mis à l’écart, pas invité à l’intérieur. Les deux personnages sont ensemble et semblent pourtant seuls. L’endurance de la Terre les fait avancer ; son revers, l’entêtement, les empêche de frapper.
 
 ## Par les couleurs {#couleurs}
 
@@ -69,7 +69,7 @@ Puis le vitrail : du jaune, de l’or, du vert, du rouge et du bleu. C’est la 
 
 ## Par l’astrologie : Mercure en Taureau {#astrologie}
 
-Dans la tradition Golden Dawn, le Cinq de Pentacles correspond au premier décan du Taureau, attribué à [Mercure](/fr/bibliotheque/astrologie/mercure/) ; son titre est « Seigneur des Soucis matériels ». Mercure, c’est la façon de penser et de parler. Le Taureau dit *J’ai* : garder ce qui vous est cher — un signe fixe, lent à changer d’avis. Ensemble : un esprit bloqué sur ce qui manque, qui ressasse le même souci et peine à trouver les mots qui feraient venir l’aide.
+Dans la tradition Golden Dawn, le Cinq de Pentacles correspond au premier décan du Taureau, attribué à [Mercure](/fr/bibliotheque/astrologie/mercure/). Mercure, c’est la façon de penser et de parler. Le Taureau dit *J’ai* : garder ce qui vous est cher — un signe fixe, lent à changer d’avis. Ensemble : un esprit bloqué sur ce qui manque, qui ressasse le même souci et peine à trouver les mots qui feraient venir l’aide.
 
 Facultatif. Le vitrail l’a déjà dit.
 
@@ -87,8 +87,8 @@ Renversée, la carte bouge. Soit l’un des deux lève enfin les yeux et trouve 
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Cinq de Pentacles à côté du [Trois de Coupes](/fr/bibliotheque/cartes-tarot/trois-de-coupes/). Les clés de lecture d’abord. Cinq puis trois : une épreuve, puis la cadence du 3 — une fratrie qui s’entend, des gens ensemble. La Terre puis l’Eau : quelque chose de matériel, puis les relations. Les dessins : deux silhouettes dans la neige sous un vitrail éclairé, puis trois femmes qui lèvent leurs coupes, des fruits à leurs pieds.
+Inventons une lecture : quelqu’un retourne le Cinq de Pentacles, suivi du [Trois de Coupes](/fr/bibliotheque/cartes-tarot/trois-de-coupes/). Cinq puis trois : une épreuve, puis la cadence du 3 — une fratrie qui s’entend, des gens ensemble. La Terre puis l’Eau : quelque chose de matériel, puis les relations. Les dessins : deux silhouettes dans la neige sous un vitrail éclairé, puis trois femmes qui lèvent leurs coupes, des fruits à leurs pieds.
 
 La phrase que je dirais à voix haute, doucement : « Vous traversez quelque chose de dur sans en parler, et il y a autour de vous des gens qui seraient heureux que vous leur demandiez. »
 
-Pour vérifier, je demande : « Y a-t-il quelqu’un à qui vous pensiez demander de l’aide, sans l’avoir encore fait ? » et j’attends. Si c’est oui, je ne demande pas de détails ; la personne m’en dira plus si elle le souhaite. Si c’est non, c’est un raté, et je le dis franchement.
+Pour vérifier, je demande : « Y a-t-il quelqu’un à qui vous pensiez demander de l’aide, sans l’avoir encore fait ? » et j’attends. Si c’est oui, je ne demande pas qui : c’est à la personne de le dire ou de le garder. S’il n’y a personne de tel, je dis que la phrase s’est trompée.

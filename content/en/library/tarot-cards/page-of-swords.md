@@ -49,7 +49,7 @@ The wind is everywhere: the copper hair blows back, big grey-white clouds sweep 
 
 ## By number: the Page {#number}
 
-**the Page — the student, the message, the new impulse.** Every [Page](/library/numerology/page/) already holds the suit’s tool and looks at it like something they don’t quite know how to use yet. They’re also the messenger: the letter, the news, the invitation. The rank’s advice is to stay a student — the Page who thinks they’re already a King fails the lesson.
+This [Page](/library/numerology/page/) grips the sword in both hands like a tool they haven’t learned to use yet. Pages also carry messages, and a Swords message is news, or a sharp word. The rank’s advice is to stay a student, and the trap for this one is believing the sword already makes them a King.
 
 The Page of Swords is the Page who keeps watch. The sword is up, ready, but nothing has been cut yet: the idea is sharpening. Its energy is [feminine in the sense I give the word](/library/feminine-masculine-energies/): watching, thinking, preparing behind the scenes before stepping on stage.
 
@@ -67,7 +67,7 @@ The sky is blue and crowded with moving grey-white clouds: a mind in motion, neu
 
 Upright, the Page of Swords is a new idea and the urge to understand it: learning, asking questions, gathering information, watching how something works. It can be news on its way, a message, a conversation that opens a subject. It can be a young person with a sharp mind and a sharper tongue. **The Page of Swords has just picked up the idea: look at it from every side before you swing it.**
 
-Reversed, the same curiosity is slowed down or overdone. Slowed down: the idea won’t come into focus, and you keep watching without ever acting. Overdone: suspicion, checking up on people, repeating what you heard before you’ve thought it through.
+Reversed, the Page’s curiosity either blurs or starts prying. Slowed down: the idea won’t come into focus, and you keep watching without ever acting. Overdone: suspicion, checking up on people, repeating what you heard before you’ve thought it through.
 
 Next to the [Ace of Swords](/library/tarot-cards/ace-of-swords/), the idea arrives clear and the Page learns to hold it. Next to the [Seven of Swords](/library/tarot-cards/seven-of-swords/), watching turns into sneaking: ask who is being watched, and why. Next to the [Page of Cups](/library/tarot-cards/page-of-cups/), head and heart are both young — a new idea and a new feeling arriving together.
 
@@ -75,8 +75,8 @@ Next to the [Ace of Swords](/library/tarot-cards/ace-of-swords/), the idea arriv
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Page of Swords next to the [Three of Pentacles](/library/tarot-cards/three-of-pentacles/). Lenses first. A Page then a three: the student, then a rhythm that works. Earth of Air then Earth: an idea looking for ground, then the ground itself. A figure alone on a windy hill, then three people discussing a piece of work under a stone arch.
+Try this pair with a friend who wants to see how a reading works: the Page of Swords, then the [Three of Pentacles](/library/tarot-cards/three-of-pentacles/). A Page then a three: the student, then a rhythm that works. Earth of Air then Earth: an idea looking for ground, then the ground itself. A figure alone on a windy hill, then three people discussing a piece of work under a stone arch.
 
 Out loud, you might say: “You’re learning something new and watching it closely. You’ll learn faster by working with others than by observing on your own.”
 
-Then check: “Are you starting to learn something right now — a skill, a job, a subject?” If yes, ask who they could learn it with. If no, it’s a miss: note it and move on.
+Then check: “Are you starting to learn something right now — a skill, a job, a subject?” If yes, ask who they could learn it with. If no, the sentence missed: note it and move on.

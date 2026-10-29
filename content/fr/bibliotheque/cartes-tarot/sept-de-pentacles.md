@@ -49,7 +49,7 @@ Il porte une tunique orange sur des manches bleues, des chausses bleues et des b
 
 ## Par le nombre : sept {#nombre}
 
-**sept — le doute, l’évaluation, la patience.** Le [chiffre 7](/fr/bibliotheque/numerologie/chiffre-7/), c’est l’analyse : on regarde ce qu’on a avant de décider de la suite. Dans mes notes, le 7, c’est la réflexion, la patience, l’analyse avant l’action — et la récolte. Cette carte tient tout cela à la fois : la récolte est là, et la personne ne la cueille pas encore.
+Le [chiffre 7](/fr/bibliotheque/numerologie/chiffre-7/), c’est l’analyse : on regarde ce qu’on a avant de décider de la suite. Dans mes notes, le 7, c’est la réflexion, la patience, l’analyse avant l’action — et la récolte. Cette carte tient tout cela à la fois : la récolte est là, et la personne ne la cueille pas encore.
 
 Le conseil du 7, c’est que tout est temporaire : la situation où vous êtes, bonne ou mauvaise, va changer. Le buisson continuera de pousser ou commencera à faner, et dans les deux cas, l’immobilité ne durera pas. Dans l’histoire d’Instagram, le 7, c’est la table de négociation — Facebook qui choisit d’en faire une plateforme de publicité : ni triomphe ni chute, le moment où l’on décide de ce que la chose va devenir.
 
@@ -67,7 +67,7 @@ Lisez les couleurs avant la carte : beaucoup de vie, un corps fatigué, et rien 
 
 ## Par l’astrologie : Saturne en Taureau {#astrologie}
 
-Dans la tradition Golden Dawn, le Sept de Pentacles correspond au troisième décan du Taureau, attribué à [Saturne](/fr/bibliotheque/astrologie/saturne/) ; son titre est « Seigneur du Succès non accompli ». Saturne, c’est le temps, les limites, le travail qui prend des années — et l’endroit où l’on devient solide justement parce que c’était dur. Le Taureau dit *J’ai*, patiemment, dans un signe fixe qui n’aime pas qu’on le presse. Ensemble : une croissance lente, et l’inconfort de l’attendre.
+Dans la tradition Golden Dawn, le Sept de Pentacles correspond au troisième décan du Taureau, attribué à [Saturne](/fr/bibliotheque/astrologie/saturne/). Saturne, c’est le temps, les limites, le travail qui prend des années — et l’endroit où l’on devient solide justement parce que c’était dur. Le Taureau dit *J’ai*, patiemment, dans un signe fixe qui n’aime pas qu’on le presse. Ensemble : une croissance lente, et l’inconfort de l’attendre.
 
 Saturne fait partie des placements qui ont le mieux tenu quand j’ai testé l’astrologie — 75 à 90 %. Ici, ça reste facultatif : le nombre et le buisson l’ont déjà dit.
 
@@ -85,7 +85,7 @@ Les questions de placements arrivent avec cette carte — laisser de l’argent 
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Sept de Pentacles à côté de l’[As de Bâtons](/fr/bibliotheque/cartes-tarot/as-de-batons/). Les clés de lecture d’abord. Sept puis un : le bilan, puis un nouveau départ. La Terre puis le Feu : une croissance lente, puis une envie toute neuve. Les dessins : un jeune homme fatigué qui regarde son buisson, puis une main sortie d’un nuage qui tend un seul bâton en train de bourgeonner.
+Une paire hypothétique, lue pour un inconnu : le Sept de Pentacles, puis l’[As de Bâtons](/fr/bibliotheque/cartes-tarot/as-de-batons/). Sept puis un : le bilan, puis un nouveau départ. La Terre puis le Feu : une croissance lente, puis une envie toute neuve. Les dessins : un jeune homme fatigué qui regarde son buisson, puis une main sortie d’un nuage qui tend un seul bâton en train de bourgeonner.
 
 La phrase que je dirais à voix haute : « Vous avez beaucoup mis dans quelque chose qui ne vous a pas encore rendu grand-chose, et une nouvelle idée commence à vous attirer ailleurs. »
 

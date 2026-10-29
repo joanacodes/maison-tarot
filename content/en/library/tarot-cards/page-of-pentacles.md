@@ -49,7 +49,7 @@ He stands on fresh grass, with worked earth further off. **The card is about a v
 
 ## By number: the Page {#number}
 
-**the Page — the student, the message, the new impulse.** The [Page](/library/numerology/page/) is young without being a child: they already hold their house’s tool, and look at it like something they don’t know how to use yet. In the tradition they’re also the messenger — the letter, the offer, the news.
+The [Page](/library/numerology/page/) is young without being a child, and this one holds his coin at eye level, still working out what it’s for. In the tradition they’re also the messenger — the letter, the offer, the news.
 
 In Pentacles, the message is concrete: a job offer, a place on a course, a first pay slip, a plot of land to look after. The rank’s advice is to stay a student. My note for number 1 fits him too: humility, get ready to learn — we are all students our whole life. A Page of Pentacles who thinks he’s already a King drops the coin.
 
@@ -67,7 +67,7 @@ That’s the card’s strength — tenacity, perseverance — and its flip side:
 
 Upright: the start of an apprenticeship. Someone learning a trade, beginning a course, taking a first job, or receiving a concrete offer and studying it before saying yes. It can be a young person, a student, a newcomer — or you, at the start of something you want to learn properly. It’s a card I’d hand anyone who wants to [learn tarot](/learn-tarot/) one card at a time. **The Page doesn’t need to know yet; he needs to keep looking, and then to start.**
 
-Reversed, the same student, slowed down or overdone. Slowed: the offer is admired but never used, the course is planned and never begun, the coin stays in the air. Overdone: studying becomes a way of not doing — one more training, one more book.
+Reversed, the student either never starts or can’t stop preparing. Slowed: the offer is admired but never used, the course is planned and never begun, the coin stays in the air. Overdone: studying becomes a way of not doing — one more training, one more book.
 
 Next to the [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/), the coin itself is offered from a hand out of a cloud, and the Page is the one who receives it. Next to the [Eight of Pentacles](/library/tarot-cards/eight-of-pentacles/), the student reaches the bench: a look becomes a gesture, repeated. Next to the [Knight of Pentacles](/library/tarot-cards/knight-of-pentacles/), the same coin on horseback: the student becomes the one who carries the plan.
 
@@ -75,7 +75,7 @@ Next to the [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/), the coin
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Page of Pentacles next to the [Two of Swords](/library/tarot-cards/two-of-swords/). Lenses first. Page then two: a student, then a choice between two sides — in my notes, a contract to read carefully, pros and cons to weigh. Earth then Air: something concrete in the hands, then a mind weighing it up. A young man gazing at a coin, then a blindfolded woman holding two crossed swords, the sea behind her.
+As an illustration, a neighbour asks you to try, and draws the Page of Pentacles beside the [Two of Swords](/library/tarot-cards/two-of-swords/). Page then two: a student, then a choice between two sides — in my notes, a contract to read carefully, pros and cons to weigh. Earth then Air: something concrete in the hands, then a mind weighing it up. A young man gazing at a coin, then a blindfolded woman holding two crossed swords, the sea behind her.
 
 Out loud: “Someone has offered you something real — a place, a job, a course — and you’re looking at it from every angle. You haven’t said yes or no. Maybe you’re waiting to feel sure, and that feeling may only come once you’ve started.”
 

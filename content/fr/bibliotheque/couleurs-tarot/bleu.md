@@ -1,9 +1,7 @@
 ---
 title: 'Le bleu au tarot : signification, cartes où il domine et lecture (couleurs
   du tarot)'
-description: 'Le bleu dans le tarot Rider-Waite-Smith : émotions, rendre pur, l’eau,
-  vitalité. Où la couleur apparaît dans le jeu, ce qu’elle dit avant même de connaître
-  la carte, son revers, et comment la lire avec les autres clés.'
+description: "Le bleu dans le tarot Rider-Waite-Smith : émotions, rendre pur, l’eau, vitalité. C’est la couleur de la Grande Prêtresse et de presque toutes les Coupes, et elle dit qu’une carte parle de ce qu’on ressent avant de parler de ce qu’on fait."
 translationKey: col-blue
 type: library
 navTitle: Le bleu

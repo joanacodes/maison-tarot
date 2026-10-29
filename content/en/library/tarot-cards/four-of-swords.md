@@ -50,7 +50,7 @@ The drawing is about **a deliberate, protected stop: the swords are put away, fo
 
 ## By number: four {#number}
 
-**four — foundations, stability.** Four is “two exalted”: the contract has been signed and now it holds — structure, the fruit of your work. In my notes, its advice is to stay flexible, and its minus is carrying on when you should stop. The Four of Swords is the four that has stopped. After the cut of the Three, the structure becomes a frame for rest: four walls, a tomb, a pause that holds you. At this stage Instagram had a shape, a team and habits. [Number 4](/library/numerology/number-4/) can protect or confine; this card is the protective version, as long as the stop stays a stop and doesn’t become a hiding place.
+Four is “two exalted”: the contract has been signed and now it holds — structure, the fruit of your work. In my notes, its advice is to stay flexible, and its minus is carrying on when you should stop. The Four of Swords is the four that has stopped. After the cut of the Three, the structure becomes a frame for rest: four walls, a tomb, a pause that holds you. At this stage Instagram had a shape, a team and habits. [Number 4](/library/numerology/number-4/) can protect or confine; this card is the protective version, as long as the stop stays a stop and doesn’t become a hiding place.
 
 ## By element: Air {#element}
 
@@ -62,7 +62,7 @@ Mostly pale: off-white and [grey](/library/tarot-colours/grey/) walls, the grey 
 
 ## By astrology: Jupiter in Libra {#astrology}
 
-In the Golden Dawn tradition, the Four of Swords is [Jupiter](/library/astrology/jupiter/) in the third decan of Libra, with the title Lord of Rest from Strife. Jupiter is expansion and generosity; Libra is balance. Together: balance granted generously — time, space, a truce long enough to recover. Jupiter’s own warning is excess: a rest that keeps expanding until it becomes avoidance. An optional lens; the number and the element already carry the card.
+In the Golden Dawn tradition, the Four of Swords is [Jupiter](/library/astrology/jupiter/) in the third decan of Libra. Jupiter is expansion and generosity; Libra is balance. Together: balance granted generously — time, space, a truce long enough to recover. Jupiter’s own warning is excess: a rest that keeps expanding until it becomes avoidance. An optional lens; the number and the element already carry the card.
 
 ## In a reading {#reading}
 
@@ -80,7 +80,7 @@ Next to [the Hanged Man](/library/tarot-cards/the-hanged-man/), the pause is lon
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Four of Swords next to the [Eight of Wands](/library/tarot-cards/eight-of-wands/). Lenses first. Four then eight: a structure at rest, then a structure in full motion. Air then Fire: the thought set aside, then speed and impulse. Pale yellow and grey, then eight wands flying through an open sky.
+Think of someone shuffling, cutting and turning up the Four of Swords, then the [Eight of Wands](/library/tarot-cards/eight-of-wands/). Four then eight: a structure at rest, then a structure in full motion. Air then Fire: the thought set aside, then speed and impulse. Pale yellow and grey, then eight wands flying through an open sky.
 
 You might say: “You’re in a pause that won’t last much longer. Things are about to move fast, so this is the rest to take now.”
 

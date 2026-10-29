@@ -1,9 +1,7 @@
 ---
 title: 'Grey in tarot: meaning, cards where it dominates and how to read it (tarot
   colours)'
-description: 'Grey in the Rider-Waite-Smith tarot: neutrality, absence of will, stability.
-  Where the colour appears in the deck, what it says before you even know the card,
-  its flip side, and how to read it with the other lenses.'
+description: "Grey in the Rider-Waite-Smith tarot: neutrality, absence of will, stability. It's the stability of stone — pillars, thrones, walls — and the absence of will of someone waiting."
 translationKey: col-grey
 type: library
 navTitle: Grey

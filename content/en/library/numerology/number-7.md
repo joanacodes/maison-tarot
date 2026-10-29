@@ -1,8 +1,6 @@
 ---
 title: 'Number 7 in tarot: meaning, cards and advice (tarot numerology)'
-description: 'Patience, calm, negotiations, harvesting. Seven is analysis: you look
-  at what you have, and decide what''s next. The five cards that carry it, an example
-  everyone knows, and how to read it in a spread.'
+description: "Patience, calm, negotiations, harvesting. Seven is analysis: you look at what you have, and decide what’s next."
 translationKey: num-7
 type: library
 navTitle: Number 7

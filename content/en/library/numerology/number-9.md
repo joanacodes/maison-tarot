@@ -1,8 +1,6 @@
 ---
 title: 'Number 9 in tarot: meaning, cards and advice (tarot numerology)'
-description: Home stretch, introspection, patience, last efforts. Nine is the end
-  preparing itself. The five cards that carry it, an example everyone knows, and how
-  to read it in a spread.
+description: "Home stretch, introspection, patience, last efforts. Nine is the end preparing itself."
 translationKey: num-9
 type: library
 navTitle: Number 9

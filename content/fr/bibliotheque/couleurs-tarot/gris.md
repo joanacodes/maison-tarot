@@ -1,9 +1,7 @@
 ---
 title: 'Le gris au tarot : signification, cartes où il domine et lecture (couleurs
   du tarot)'
-description: 'Le gris dans le tarot Rider-Waite-Smith : neutralité, absence de volonté,
-  stabilité. Où la couleur apparaît dans le jeu, ce qu’elle dit avant même de connaître
-  la carte, son revers, et comment la lire avec les autres clés.'
+description: "Le gris dans le tarot Rider-Waite-Smith : neutralité, absence de volonté, stabilité. C’est la stabilité de la pierre — les piliers, les trônes, les murs — et l’absence de volonté de celui qui attend."
 translationKey: col-grey
 type: library
 navTitle: Le gris

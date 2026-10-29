@@ -51,7 +51,7 @@ Par-dessus toute la scène, les dix pentacles dessinent une figure qui ignore le
 
 ## Par le nombre : dix {#nombre}
 
-**dix — la fin du cycle, la transition.** [Le 10, c’est la transition](/fr/bibliotheque/numerologie/chiffre-10/) : le couloir entre deux pièces. Ma note pour cette carte est l’une de mes plus longues : la richesse complète à la maison, la fête, toute la famille présente — peut être de courte durée ; si vous quittez le cocon, il sera toujours là.
+[Le 10, c’est la transition](/fr/bibliotheque/numerologie/chiffre-10/) : sur cette carte, l’arche entre une pièce de la vie et la suivante. Ma note pour cette carte est l’une de mes plus longues : la richesse complète à la maison, la fête, toute la famille présente — peut être de courte durée ; si vous quittez le cocon, il sera toujours là.
 
 Dans l’histoire d’Instagram, le 10, c’est la plateforme devenue tout autre chose. Ici se ferme le cycle de la construction : la maison existe, on peut la transmettre. Et un 10 dit aussi de commencer autre chose — le jeune couple est déjà sous l’arche, tourné vers ce qu’il y a au-delà.
 
@@ -67,15 +67,15 @@ C’est la carte la plus chargée de la série. L’arche est [grise](/fr/biblio
 
 ## Par l’astrologie : Mercure en Vierge {#astrologie}
 
-Dans le système de la Golden Dawn, cette carte correspond à [Mercure](/fr/bibliotheque/astrologie/mercure/) dans le troisième décan de la [Vierge](/fr/bibliotheque/astrologie/vierge/), sous le titre « Seigneur de la Richesse ». Mercure gouverne la Vierge : il est ici chez lui, l’esprit qui compte, trie et transmet. C’est aussi la planète de l’échange, qui va bien à une carte de transmission. À garder, pour se rappeler qu’un héritage est aussi une conversation ; si l’astrologie n’est pas votre clé de lecture, le nombre a déjà dit la transmission.
+Dans le système de la Golden Dawn, cette carte correspond à [Mercure](/fr/bibliotheque/astrologie/mercure/) dans le troisième décan de la [Vierge](/fr/bibliotheque/astrologie/vierge/). Mercure gouverne la Vierge : il est ici chez lui, l’esprit qui compte, trie et transmet. C’est aussi la planète de l’échange, qui va bien à une carte de transmission. À garder, pour se rappeler qu’un héritage est aussi une conversation ; si l’astrologie n’est pas votre clé de lecture, le nombre a déjà dit la transmission.
 
 ## En lecture {#lecture}
 
 À l’endroit : un foyer qui tient, une famille réunie, quelque chose de construit qu’on transmet. Ce peut être concret — une maison, une entreprise familiale, une fête où tout le monde est là — ou un sentiment : appartenir à quelque chose de plus ancien et de plus grand que soi. **Une maison pleine est un moment, pas une forteresse : profitez-en, et sachez que vous pouvez partir et la retrouver.**
 
-Renversée, la même maison, freinée ou excessive. Freinée : tout le monde est là et personne ne se parle ; l’héritage devient un poids ou une querelle. Excessive : le cocon devient le monde entier, et le quitter ressemble à une trahison.
+Renversée, la maisonnée se tait, ou ferme ses portes. Freinée : tout le monde est là et personne ne se parle ; l’héritage devient un poids ou une querelle. Excessive : le cocon devient le monde entier, et le quitter ressemble à une trahison.
 
-Beaucoup espèrent que cette carte annonce un héritage ou une rentrée d’argent. Je comprends : les soucis d’argent pèsent lourd. Mais je ne lis ni les prévisions ni les décisions financières — je lis ; vous décidez. La carte peut montrer qui vous entoure et ce qui se transmet ; j’en parle dans [ma façon de lire les Pentacles quand il est question d’argent](/fr/blog/tarot-et-argent/).
+Beaucoup espèrent que cette carte annonce un héritage ou une rentrée d’argent. Je comprends : les soucis d’argent pèsent lourd. Mais je ne lis ni les prévisions ni les décisions financières. La carte peut montrer qui vous entoure et ce qui se transmet ; j’en parle dans [ma façon de lire les Pentacles quand il est question d’argent](/fr/blog/tarot-et-argent/).
 
 À côté du [Dix de Coupes](/fr/bibliotheque/cartes-tarot/dix-de-coupes/), la même famille vue du cœur — dans mes notes, le bonheur, la famille, les enfants. À côté du [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/), quelqu’un sort de la maison pleine : le cocon quitté, et toujours là. À côté du [Quatre de Pentacles](/fr/bibliotheque/cartes-tarot/quatre-de-pentacles/), la maison gardée plutôt que transmise.
 
@@ -83,8 +83,8 @@ Beaucoup espèrent que cette carte annonce un héritage ou une rentrée d’arge
 
 ## Exemple de tirage {#exemple}
 
-Mettons qu’une personne s’assoie, ne vous dise rien, et tire le Dix de Pentacles à côté du Valet de Bâtons. Les clés de lecture d’abord. Dix puis Valet : un cycle qui se ferme, puis un élève qui commence quelque chose. Terre puis Feu : une maison qui tient, puis une envie neuve. Trois générations sous une arche, puis un jeune homme seul dans un paysage désertique, les yeux levés vers un bâton qui bourgeonne.
+Un exercice : quelqu’un tire le Dix de Pentacles, puis le Valet de Bâtons, et c’est à vous de lire. Dix puis Valet : un cycle qui se ferme, puis un élève qui commence quelque chose. Terre puis Feu : une maison qui tient, puis une envie neuve. Trois générations sous une arche, puis un jeune homme seul dans un paysage désertique, les yeux levés vers un bâton qui bourgeonne.
 
 À voix haute : « Quelque chose est complet à la maison, et c’est bien. Et quelqu’un de jeune, peut-être vous, a envie d’essayer quelque chose à soi. Ce n’est pas forcément une rupture. »
 
-Puis vérifiez : « Est-ce que ça vous parle ? » Si rien ne colle, c’est un raté : dites-le, notez-le, et ne tirez pas une autre carte pour le rattraper.
+Puis vérifiez : « Est-ce que ça ressemble à ce qui se passe chez vous ? » Si rien ne colle, c’est un raté : dites-le, notez-le, et ne tirez pas une autre carte pour le rattraper.

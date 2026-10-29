@@ -50,7 +50,7 @@ The drawing is about **a crossing: leaving rough water for calm, and taking the 
 
 ## By number: six {#number}
 
-**six — harmony regained, exchange.** Six is “three exalted”: the machine is launched and moving fast; success, and the chance, finally, to rest or take a holiday. My advice for a six is to stay calm and humble when things start to flow. On this card the success is quiet: you got out. The swords aren’t left behind — all six travel in the boat — but they’re no longer in anyone’s hand. Instagram’s sixth stage was Facebook investing, when what had threatened the company became what carried it. That’s the turn [number 6](/library/numerology/number-6/) makes here: the hard part becomes the vehicle.
+Six is “three exalted”: the machine is launched and moving fast; success, and the chance, finally, to rest or take a holiday. My advice for a six is to stay calm and humble when things start to flow. On this card the success is quiet: you got out. The swords aren’t left behind — all six travel in the boat — but they’re no longer in anyone’s hand. Instagram’s sixth stage was Facebook investing, when what had threatened the company became what carried it. That’s the turn [number 6](/library/numerology/number-6/) makes here: the hard part becomes the vehicle.
 
 ## By element: Air {#element}
 
@@ -62,7 +62,7 @@ A pale grey sky over everything: neutral, stable, no drama. The water is pale [b
 
 ## By astrology: Mercury in Aquarius {#astrology}
 
-In the Golden Dawn tradition, the Six of Swords is [Mercury](/library/astrology/mercury/) in the second decan of Aquarius, and its title was the Lord of Earned Success — which surprises people who know it as a sad card. Mercury is how you think and how you speak; Aquarius is the new idea, the bridge between old and new. Together: a mind that has found the way across. Keep it as a lens if you like; the card holds up without it.
+In the Golden Dawn tradition, the Six of Swords is [Mercury](/library/astrology/mercury/) in the second decan of Aquarius. Mercury is how you think and how you speak; Aquarius is the new idea, the bridge between old and new. Together: a mind that has found the way across. Keep it as a lens if you like; the card holds up without it.
 
 ## In a reading {#reading}
 
@@ -78,7 +78,7 @@ Next to the [Three of Swords](/library/tarot-cards/three-of-swords/), you can se
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Six of Swords next to the [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/). Lenses first. Six then one: something moving fast, then a new start. Air then Earth: a change of mind, then something concrete — money, a job, a home. Grey and pale blue, then a hand holding out a gold coin above a garden.
+Set the Six of Swords and the [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/) side by side, as if for someone you’ve never met. Six then one: something moving fast, then a new start. Air then Earth: a change of mind, then something concrete — money, a job, a home. Grey and pale blue, then a hand holding out a gold coin above a garden.
 
 You might say: “You’re coming out of a hard stretch, and on the other side there’s something solid waiting for you, something you can hold.”
 

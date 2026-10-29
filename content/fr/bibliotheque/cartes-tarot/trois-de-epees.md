@@ -53,7 +53,7 @@ Le dessin parle d’**une douleur qui a une forme précise : quelque chose de di
 
 ## Par le nombre : trois {#nombre}
 
-**trois — créer, célébrer, le premier résultat.** Le trois, c’est le bon rythme : la machine qui tourne, le contrat qui fonctionne, des frères et sœurs qui s’entendent. Alors pourquoi ce trois-là fait-il mal ? Parce que le revers du [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/), c’est la trahison et la solitude, et qu’en Air, trois peut faire une personne de trop dans une pensée. La lecture classique, c’est le triangle : deux personnes et une troisième, une phrase entendue par hasard, une décision prise par-dessus la tête de quelqu’un.
+Le trois, c’est le bon rythme : la machine qui tourne, le contrat qui fonctionne, des frères et sœurs qui s’entendent. Alors pourquoi ce trois-là fait-il mal ? Parce que le revers du [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/), c’est la trahison et la solitude, et qu’en Air, trois peut faire une personne de trop dans une pensée. La lecture classique, c’est le triangle : deux personnes et une troisième, une phrase entendue par hasard, une décision prise par-dessus la tête de quelqu’un.
 
 Mes notes ajoutent une autre lecture, à laquelle je tiens : le Trois d’Épées, c’est aussi un pacte de sang. Trois lames qui se rejoignent dans un seul cœur, comme le vieux geste de s’entailler la paume pour sceller une promesse. Parfois, c’est la douleur qui lie : deux personnes qui ont traversé la même perte, une loyauté jurée après une épreuve. Demandez laquelle des deux lectures est la bonne avant d’imaginer le pire.
 
@@ -67,7 +67,7 @@ Deux couleurs, presque rien d’autre. Le [rouge](/fr/bibliotheque/couleurs-taro
 
 ## Par l’astrologie : Saturne en Balance {#astrologie}
 
-Dans la tradition Golden Dawn, le Trois d’Épées correspond à Saturne dans le deuxième décan de la Balance, et son titre était le « Seigneur du chagrin » — on n’y mettait pas les formes. [Saturne](/fr/bibliotheque/astrologie/saturne/), c’est la leçon la plus dure, là où l’on devient solide justement parce que c’était difficile ; en astrologie traditionnelle, il est en exaltation dans la Balance, le signe de l’équilibre et des relations. Une leçon douloureuse sur un lien, donc, qui laisse mieux bâti après. Gardez cette clé si elle vous aide ; la carte parle sans elle.
+Dans la tradition Golden Dawn, le Trois d’Épées correspond à Saturne dans le deuxième décan de la Balance. [Saturne](/fr/bibliotheque/astrologie/saturne/), c’est la leçon la plus dure, là où l’on devient solide justement parce que c’était difficile ; en astrologie traditionnelle, il est en exaltation dans la Balance, le signe de l’équilibre et des relations. Une leçon douloureuse sur un lien, donc, qui laisse mieux bâti après. Gardez cette clé si elle vous aide ; le cœur transpercé parle de lui-même.
 
 ## En lecture {#lecture}
 
@@ -89,7 +89,7 @@ Au travail, cette blessure arrive souvent par des mots : une critique trop dure,
 
 Renversé au travail, la douleur est rentrée — « Ça va, c’est que le boulot », dit les dents serrées pendant des mois — ou le mail est relu jusqu’à le connaître par cœur.
 
-On demande : « Mon chef est-il contre moi ? L’a-t-il fait exprès ? » Se sentir en insécurité au travail est épuisant ; je comprends qu’on veuille savoir. Je ne lis pas là-dessus : le collègue n’est pas dans la pièce et [n’a pas accepté d’être lu](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/), et une carte à qui l’on demande « est-il contre moi ? » répond avec votre peur : lundi, vous serez encore plus sur vos gardes. Une question plus douce : « Qu’est-ce que cette phrase a touché en moi, et de quoi ai-je besoin maintenant — le dire, me reposer, ou demander de l’aide ? » Parler, rester ou partir, c’est à vous de le peser. Je lis ; vous décidez.
+On demande : « Mon chef est-il contre moi ? L’a-t-il fait exprès ? » Se sentir en insécurité au travail est épuisant ; je comprends qu’on veuille savoir. Je ne lis pas là-dessus : le collègue n’est pas dans la pièce et [n’a pas accepté d’être lu](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/), et une carte à qui l’on demande « est-il contre moi ? » répond avec votre peur : lundi, vous serez encore plus sur vos gardes. Une question plus douce : « Qu’est-ce que cette phrase a touché en moi, et de quoi ai-je besoin maintenant — le dire, me reposer, ou demander de l’aide ? » Parler, rester ou partir, c’est à vous de le peser.
 
 Si la blessure se répète — humiliations, pression, toujours la même personne visée —, ce n’est plus l’affaire d’une carte. Parlez-en aux RH, à un représentant du personnel ou à la médecine du travail, et à un avocat pour le droit ; une procédure en cours, aux prud’hommes ou ailleurs, je ne lis pas dessus. Si ça vous suit chaque soir chez vous, un médecin ou un thérapeute est la bonne porte.
 
@@ -97,7 +97,7 @@ Cette semaine, avant de répondre à quiconque, notez exactement ce qui a été 
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Trois d’Épées à côté du Quatre d’Épées. Les clés de lecture d’abord. Trois puis quatre : le rythme brisé, puis une structure qui tient. L’Air et l’Air : tout se passe dans les mots et dans la tête. Du rouge et du gris, puis un chevalier allongé, immobile, sur un tombeau, les mains jointes.
+Travaillez cette paire comme un exercice : quelqu’un tire le Trois d’Épées, puis le Quatre d’Épées. Trois puis quatre : le rythme brisé, puis une structure qui tient. L’Air et l’Air : tout se passe dans les mots et dans la tête. Du rouge et du gris, puis un chevalier allongé, immobile, sur un tombeau, les mains jointes.
 
 Vous pourriez dire, doucement : « Quelque chose vous a fait mal récemment, sans doute des mots, et ce qu’on vous demande maintenant, ce n’est pas de réparer, c’est de vous arrêter un moment. »
 

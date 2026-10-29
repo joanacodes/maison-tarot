@@ -51,7 +51,7 @@ Le dessin parle de **prendre ce qu’on peut porter, laisser le reste — et ne 
 
 ## Par le nombre : sept {#nombre}
 
-**sept — le doute, l’évaluation, la patience.** Le sept, c’est la réflexion : l’analyse avant l’action, la négociation, la récolte de ce qui a poussé. Dans mes notes, le Sept d’Épées est le sept qui doit laisser des choses derrière lui mais récolte beaucoup, et c’est exactement le dessin : cinq épées dans les bras, deux laissées en terre. Un compromis. On ne peut pas tout emporter, alors on choisit. Le conseil du [chiffre 7](/fr/bibliotheque/numerologie/chiffre-7/), c’est que tout est temporaire, le bon comme le mauvais. Le septième stade d’Instagram, c’était la table de négociation où Facebook change le modèle : choisir ce que la chose allait devenir, et ce qu’elle laisserait derrière elle.
+Le sept, c’est la réflexion : l’analyse avant l’action, la négociation, la récolte de ce qui a poussé. Dans mes notes, le Sept d’Épées est le sept qui doit laisser des choses derrière lui mais récolte beaucoup, et c’est exactement le dessin : cinq épées dans les bras, deux laissées en terre. Un compromis. On ne peut pas tout emporter, alors on choisit. Le conseil du [chiffre 7](/fr/bibliotheque/numerologie/chiffre-7/), c’est que tout est temporaire, le bon comme le mauvais. Le septième stade d’Instagram, c’était la table de négociation où Facebook change le modèle : choisir ce que la chose allait devenir, et ce qu’elle laisserait derrière elle.
 
 ## Par l’élément : Air {#element}
 
@@ -63,7 +63,7 @@ Le ciel [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) inonde la carte : la joi
 
 ## Par l’astrologie : Lune en Verseau {#astrologie}
 
-Dans la tradition Golden Dawn, le Sept d’Épées correspond à la Lune dans le troisième décan du [Verseau](/fr/bibliotheque/astrologie/verseau/), sous le titre de « Seigneur de l’effort instable ». Le Verseau est le signe de l’idée originale et du « je sais » — que j’entends comme « je crois savoir » —, avec une tendance à se retrouver dans des situations bizarres et inconfortables. La Lune, c’est ce que vous ressentez quand personne ne regarde. Ensemble : un plan personnel, mené seul, très malin jusqu’au moment où il ne l’est plus. Facultatif, comme toute clé astrologique.
+Dans la tradition Golden Dawn, le Sept d’Épées correspond à la Lune dans le troisième décan du [Verseau](/fr/bibliotheque/astrologie/verseau/). Le Verseau est le signe de l’idée originale et du « je sais » — que j’entends comme « je crois savoir » —, avec une tendance à se retrouver dans des situations bizarres et inconfortables. La Lune, c’est ce que vous ressentez quand personne ne regarde. Ensemble : un plan personnel, mené seul, très malin jusqu’au moment où il ne l’est plus. Vous pouvez laisser cette clé de côté : le sourire par-dessus l’épaule en dit autant.
 
 ## En lecture {#lecture}
 
@@ -81,7 +81,7 @@ Renversé, le plan sort au grand jour. Freiné, le secret devient trop lourd, tr
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Sept d’Épées à côté du [Trois de Bâtons](/fr/bibliotheque/cartes-tarot/trois-de-batons/). Les clés de lecture d’abord. Sept puis trois : une récolte et un compromis, puis un rythme qui fonctionne. L’Air puis le Feu : un plan dans la tête, puis l’élan, l’expansion. Un ciel jaune, puis un homme sur une hauteur qui regarde des bateaux prendre la mer.
+Et si, pendant un entraînement, quelqu’un tirait le Sept d’Épées, puis le [Trois de Bâtons](/fr/bibliotheque/cartes-tarot/trois-de-batons/) ? Sept puis trois : une récolte et un compromis, puis un rythme qui fonctionne. L’Air puis le Feu : un plan dans la tête, puis l’élan, l’expansion. Un ciel jaune, puis un homme sur une hauteur qui regarde des bateaux prendre la mer.
 
 Vous pourriez dire : « Vous êtes en train de quitter quelque chose sans bruit, avec plus que ce que vous aviez en arrivant, et vous regardez déjà plus loin. »
 

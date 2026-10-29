@@ -50,7 +50,7 @@ The bed is wooden, with a small scene carved on its side panel. Over the sleeper
 
 ## By number: nine {#number}
 
-**nine — near completion, almost there.** Nine is the finish line: the end of a stage, the last efforts, introspection, patience — and the need to keep moving. My note on this card: coming out of a nightmare, a long troubled period, with protection above you. That’s how I read the swords. They’re lined up above the bed like a rack on a wall, not aimed at anyone, and the person has sat up: the dream is over, even if the fear hasn’t left yet.
+Nine is the finish line: the end of a stage, the last efforts, introspection, patience — and the need to keep moving. My note on this card: coming out of a nightmare, a long troubled period, with protection above you. That’s how I read the swords. They’re lined up above the bed like a rack on a wall, not aimed at anyone, and the person has sat up: the dream is over, even if the fear hasn’t left yet.
 
 The hardest nights often come near the end of a long stretch, when you’re tired from holding on. Instagram’s ninth stage was the redesign that ended everything that had defined it. The advice of [number 9](/library/numerology/number-9/) is not to stop a hundred metres from the finish.
 
@@ -66,7 +66,7 @@ A thought at 3 a.m. feels like a fact. In daylight, the same thought often weigh
 
 ## By astrology: Mars in Gemini {#astrology}
 
-In the Golden Dawn tradition, the Nine of Swords is Mars in the second decan of Gemini. [Mars](/library/astrology/mars/) is how you act and how you fight; Gemini is “I think”, the sign of words and exchanges. Together: a fight that happens in the head — the argument replayed, tomorrow’s conversation rehearsed ten times. Optional, like every astrological lens.
+In the Golden Dawn tradition, the Nine of Swords is Mars in the second decan of Gemini. [Mars](/library/astrology/mars/) is how you act and how you fight; Gemini is “I think”, the sign of words and exchanges. Together: a fight that happens in the head — the argument replayed, tomorrow’s conversation rehearsed ten times. Leave this lens aside if it doesn’t help: the swords over the bed already show the fight.
 
 ## In a reading {#reading}
 
@@ -82,7 +82,7 @@ Next to [the Moon](/library/tarot-cards/the-moon/), the fear is bigger than the 
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Nine of Swords next to the Six of Cups. Lenses first. Nine then six: the end of a long stretch, then rest and harmony. Air then Water: thoughts that go round, then feelings that settle. Black and steel, then a sunny courtyard and cups full of white flowers.
+Take a student practising with you who draws the Nine of Swords, with the Six of Cups beside it. Nine then six: the end of a long stretch, then rest and harmony. Air then Water: thoughts that go round, then feelings that settle. Black and steel, then a sunny courtyard and cups full of white flowers.
 
 Out loud, you might say: “You’ve had a long run of bad nights over something you can’t stop thinking about. It’s nearly over, and what comes next is gentler: time for yourself, something from the past that does you good.”
 

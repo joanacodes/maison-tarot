@@ -50,9 +50,9 @@ Son manteau est semé de nuages blancs sur fond bleu, par-dessus une robe pâle.
 
 ## Par le nombre : la Reine {#nombre}
 
-**la Reine — la maîtrise intérieure, l’accueil.** Chaque [Reine](/fr/bibliotheque/numerologie/reine/) est assise et tient l’outil de sa famille comme quelque chose de familier : elles savent, elles ne prouvent rien. La Reine d’Épées, c’est celle qui lève la main pour vous donner la parole. Le conseil du rang : tenir sans retenir. Au mieux, elle accueille et laisse passer ; au pire, elle garde — ici, les jugements et les rancunes — et confond lucidité et contrôle.
+Une [Reine](/fr/bibliotheque/numerologie/reine/) maîtrise les choses de l’intérieur, et celle-ci le fait l’épée droite et la main libre ouverte : c’est la Reine qui lève la main pour vous donner la parole. Au mieux, elle laisse parler et laisse passer ; au pire, elle s’accroche aux jugements et aux rancunes, et confond lucidité et contrôle.
 
-Son énergie est [féminine au sens où je l’entends](/fr/bibliotheque/energies-feminine-masculine/) : la réflexion, la patience, l’intangible. Rien à voir avec le fait d’être une femme. Un homme peut être une Reine d’Épées, et beaucoup le sont.
+Son énergie est [féminine au sens où je l’entends](/fr/bibliotheque/energies-feminine-masculine/) : la réflexion, la patience, l’intangible. La personne lucide que décrit cette carte peut tout aussi bien être un homme.
 
 ## Par l’élément : Air {#element}
 
@@ -76,8 +76,8 @@ Renversée, la même lucidité est retenue ou trop tranchante. Retenue : vous sa
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire la Reine d’Épées à côté du Cinq de Coupes. Les clés de lecture d’abord. Une Reine puis un cinq : la maîtrise intérieure, puis le conflit et la perte. L’Eau d’Air puis l’Eau : un esprit clair, puis le chagrin. Un ciel bleu au-dessus des nuages, puis une silhouette en cape noire, tête baissée devant des coupes renversées.
+Voici une association à travailler : quelqu’un tire la Reine d’Épées, et à côté le Cinq de Coupes. Une Reine puis un cinq : la maîtrise intérieure, puis le conflit et la perte. L’Eau d’Air puis l’Eau : un esprit clair, puis le chagrin. Un ciel bleu au-dessus des nuages, puis une silhouette en cape noire, tête baissée devant des coupes renversées.
 
 À voix haute, cela pourrait donner : « Quelque chose a été perdu, et vous êtes la première personne à le voir clairement. Vous pouvez déjà nommer ce qui s’est passé, même si votre entourage en est encore à regarder les coupes renversées. »
 
-Puis vérifiez : « Est-ce que ça ressemble à ce que vous vivez ? » Laissez la personne répondre avec ses mots, sans remplir les blancs à sa place. Si ça ne parle pas, c’est un raté, et il va dans le carnet comme tel.
+Puis vérifiez : « Est-ce que ça ressemble à ce que vous vivez ? » Attendez la réponse, et laissez ses silences tranquilles. Si ça ne correspond pas, c’est un raté pour le carnet.

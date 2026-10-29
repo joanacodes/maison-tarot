@@ -49,9 +49,9 @@ Notez ce qui manque : pas de table pour poser une pièce, personne à qui en pas
 
 ## Par le nombre : deux {#nombre}
 
-**deux — se lier, peser, coopérer.** Le [chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/), ce sont deux parties et le lien entre elles : un contrat, une alliance, un choix qu’on pèse. Ici, les deux parties sont deux pièces — deux emplois, deux budgets, le travail et la maison — et le ruban vert est le lien. Elles sont attachées : bougez l’une, l’autre bouge aussi.
+Le [chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/), ce sont deux parties et le lien entre elles : un contrat, une alliance, un choix qu’on pèse. Ici, les deux parties sont deux pièces — deux emplois, deux budgets, le travail et la maison — et le ruban vert est le lien. Elles sont attachées : bougez l’une, l’autre bouge aussi.
 
-Le conseil du 2, dans mes notes, c’est de lire le contrat et de peser le pour et le contre. Son revers, c’est le mental qui s’obstine, l’entêtement, la solitude — et le jongleur est seul, convaincu de tout tenir. Dans l’histoire d’Instagram, le 2, c’est la signature avec les investisseurs : le premier moment où il y a deux choses à garder en équilibre, votre idée et l’argent de quelqu’un d’autre.
+Dans mes notes, le 2 dit : lisez le contrat, pesez les deux côtés. Son revers, c’est le mental qui s’obstine, l’entêtement, la solitude — et le jongleur est seul, convaincu de tout tenir. Dans l’histoire d’Instagram, le 2, c’est la signature avec les investisseurs : le premier moment où il y a deux choses à garder en équilibre, votre idée et l’argent de quelqu’un d’autre.
 
 ## Par l’élément : Terre {#element}
 
@@ -67,7 +67,7 @@ Lisez les couleurs avant la carte : un corps actif devant une mer agitée. L’a
 
 ## Par l’astrologie : Jupiter en Capricorne {#astrologie}
 
-Dans la tradition Golden Dawn, le Deux de Pentacles correspond au premier décan du Capricorne, attribué à [Jupiter](/fr/bibliotheque/astrologie/jupiter/) ; son titre est « Seigneur du Changement harmonieux ». Jupiter, c’est l’expansion, la confiance, la chance — et l’excès. Le Capricorne dit *J’utilise* : le travail, la structure, le pragmatisme. L’astrologie classique place Jupiter en chute dans le Capricorne : la planète qui veut plus, dans le signe qui compte. Cette tension, c’est la carte — la croissance tenue dans un budget.
+Dans la tradition Golden Dawn, le Deux de Pentacles correspond au premier décan du Capricorne, attribué à [Jupiter](/fr/bibliotheque/astrologie/jupiter/). Jupiter pousse à grandir : la confiance, la chance, et le risque d’en faire trop. Le Capricorne dit *J’utilise* : le travail, la structure, le pragmatisme. L’astrologie classique place Jupiter en chute dans le Capricorne : la planète qui veut plus, dans le signe qui compte. Cette tension, c’est la carte — la croissance tenue dans un budget.
 
 Facultatif : le nombre et les vagues en ont déjà dit l’essentiel.
 
@@ -85,7 +85,7 @@ Cette carte arrive souvent avec des soucis d’argent — quelle facture d’abo
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Deux de Pentacles à côté du [Dix de Bâtons](/fr/bibliotheque/cartes-tarot/dix-de-batons/). Les clés de lecture d’abord. Deux puis dix : un équilibre qu’on maintient, puis la fin d’un cycle, le passage d’une étape à l’autre. La Terre puis le Feu : la vie pratique, puis l’énergie et l’élan. Les dessins : un corps qui danse devant la mer, puis un homme courbé sous un fagot de dix bâtons. Dans mes notes, le Dix de Bâtons dit : garder l’énergie créative, sans se surcharger.
+Une lecture inventée : la personne en face de vous tire le Deux de Pentacles, puis le [Dix de Bâtons](/fr/bibliotheque/cartes-tarot/dix-de-batons/). Deux puis dix : un équilibre qu’on maintient, puis la fin d’un cycle, le passage d’une étape à l’autre. La Terre puis le Feu : la vie pratique, puis l’énergie et l’élan. Les dessins : un corps qui danse devant la mer, puis un homme courbé sous un fagot de dix bâtons. Dans mes notes, le Dix de Bâtons dit : garder l’énergie créative, sans se surcharger.
 
 La phrase que je dirais à voix haute : « Vous menez beaucoup de choses de front et vous le faites bien, mais vous portez plus que nécessaire, et il va falloir poser quelque chose bientôt. »
 

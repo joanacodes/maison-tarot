@@ -49,7 +49,7 @@ His eyes are half-closed, lowered towards the coin. **The card is about what you
 
 ## By number: the King {#number}
 
-**the King — outer mastery, decision.** The [King](/library/numerology/king/) doesn’t look at his tool; he looks at the world he manages with it. Every King’s throne tells his house: salamanders for Fire, fish for Water, butterflies for Air — bulls and grapes for Earth. The rank’s advice is to decide, then answer for it. The question to ask any King is always: for whom?
+A [King](/library/numerology/king/)’s throne tells his house, and this one is carved with bulls’ heads, Earth’s animal, while grapes cover his robe. He decides and answers for it, like every King; with this much land under him, the real question is who it all feeds.
 
 An example everyone knows: the baker on the corner who started with one oven and now runs three shops. He still comes in at dawn. He also decides everything, and nobody else touches the recipe.
 
@@ -69,7 +69,7 @@ Read before the card: reality, abundance growing on it, and a strong will at the
 
 Upright: success turned into stability. Someone who has built something solid — a business, a household, a career, a body of work — and manages it calmly and competently. An authority figure, a mentor, a boss; or you, the day you take responsibility for what you’ve grown. **His mastery is measured by who it protects, not by what it piles up.**
 
-Reversed, the same mastery, slowed down or overdone. Slowed: security becomes the only goal, and nothing new gets past the castle wall. Overdone: control — the King who decides for everyone, treats people like assets, and confuses having with being.
+Reversed, his mastery either stops growing or grips too hard. Slowed: security becomes the only goal, and nothing new gets past the castle wall. Overdone: control — the King who decides for everyone, treats people like assets, and confuses having with being.
 
 Because he’s the suit’s most prosperous figure, people sometimes hope he means money is coming, or ask him whether to invest, buy or sell. I understand the hope. Money decisions stay with you; the card can describe how someone manages what they have, and I explain [how I read the Pentacles around money](/blog/tarot-cards-for-money/).
 
@@ -79,8 +79,8 @@ Next to [the Emperor](/library/tarot-cards/the-emperor/), two fathers of structu
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the King of Pentacles next to the Six of Cups. Lenses first. King then six: outer mastery, then — in my notes — taking time for yourself, childhood, flowering again. Earth then Water: what has been built, then emotion and memory. A king robed in his own vineyard, then two children in an old courtyard, one handing the other a cup full of flowers.
+For the exercise, the King of Pentacles comes out first and the Six of Cups second, for someone you’re meeting for the first time. King then six: outer mastery, then — in my notes — taking time for yourself, childhood, flowering again. Earth then Water: what has been built, then emotion and memory. A king robed in his own vineyard, then two children in an old courtyard, one handing the other a cup full of flowers.
 
 Out loud: “You’ve built something solid, and everyone counts on you. Part of you is looking back at a time when nothing depended on you — not to go back, but to bring a little of it into what you run now.”
 
-Then check: “Does that mean anything to you?” If it doesn’t, call it a miss and note it.
+Then check: “Are you the one everyone relies on, and missing a lighter time?” If they aren’t, call it a miss and note it.

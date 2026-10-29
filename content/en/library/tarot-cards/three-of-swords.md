@@ -52,7 +52,7 @@ The drawing is about **a pain with a precise shape — something said, decided o
 
 ## By number: three {#number}
 
-**three — to create, to celebrate, the first result.** Three is the good rhythm: the machine running, the contract that works, siblings on good terms. So why is this three the painful one? Because the minus of [number 3](/library/numerology/number-3/) is betrayal and solitude, and in Air three can be one person too many in a thought. The classic reading is the triangle: two people and a third, a word overheard, a decision taken over someone’s head.
+Three is the good rhythm: the machine running, the contract that works, siblings on good terms. So why is this three the painful one? Because the minus of [number 3](/library/numerology/number-3/) is betrayal and solitude, and in Air three can be one person too many in a thought. The classic reading is the triangle: two people and a third, a word overheard, a decision taken over someone’s head.
 
 My notes add another reading, and I’m attached to it: the Three of Swords is also a blood pact. Three blades meeting in one heart, like the old gesture of cutting a palm to seal a promise. Sometimes the pain is what binds — two people who went through the same loss, a loyalty sworn after something hard. Ask which one it is before assuming the worst.
 
@@ -66,7 +66,7 @@ Two colours, almost nothing else. The [red](/library/tarot-colours/red/) of the 
 
 ## By astrology: Saturn in Libra {#astrology}
 
-In the Golden Dawn tradition, the Three of Swords is Saturn in the second decan of Libra, and its title was the Lord of Sorrow — they didn’t soften it. [Saturn](/library/astrology/saturn/) is the hardest lesson, the place where you become solid precisely because it was hard; in traditional astrology it is exalted in Libra, the sign of balance and of relationships. A painful lesson about a bond, then, that leaves you better built afterwards. Keep the lens if it helps; the card speaks without it.
+In the Golden Dawn tradition, the Three of Swords is Saturn in the second decan of Libra. [Saturn](/library/astrology/saturn/) is the hardest lesson, the place where you become solid precisely because it was hard; in traditional astrology it is exalted in Libra, the sign of balance and of relationships. A painful lesson about a bond, then, that leaves you better built afterwards. Keep the lens if it helps; the pierced heart speaks for itself.
 
 ## In a reading {#reading}
 
@@ -88,7 +88,7 @@ At work, the hurt of this card usually arrives in words: feedback harsher than i
 
 Reversed at work, the hurt is held in — “I’m fine, it’s only work”, said through a tight jaw for months — or the email is reread until you know it by heart.
 
-People ask: “Is my boss against me? Did they do it on purpose?” It comes from feeling unsafe at work, which is exhausting, and I understand wanting to know. I don’t read on that: the colleague isn’t in the room and [hasn’t agreed to be read](/blog/reading-tarot-about-someone-else/), and a card asked “are they against me?” answers with your fear, so you go back on Monday more on guard than before. A gentler question: “What did that sentence touch in me, and what do I need now — to say it, to rest, or to get help?” Whether you speak up, stay or leave is yours to weigh. I read; you decide.
+People ask: “Is my boss against me? Did they do it on purpose?” It comes from feeling unsafe at work, which is exhausting, and I understand wanting to know. I don’t read on that: the colleague isn’t in the room and [hasn’t agreed to be read](/blog/reading-tarot-about-someone-else/), and a card asked “are they against me?” answers with your fear, so you go back on Monday more on guard than before. A gentler question: “What did that sentence touch in me, and what do I need now — to say it, to rest, or to get help?” Whether you speak up, stay or leave is yours to weigh.
 
 If the hurt keeps repeating — humiliation, pressure, being singled out — it’s no longer a card’s business. Talk to HR, a staff representative or your occupational health service, and to a lawyer for the legal side; an ongoing case is something I don’t read on. If it follows you home every night, a doctor or a therapist is the right door.
 
@@ -96,7 +96,7 @@ This week, before you answer anyone, write down exactly what was said, then what
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Three of Swords next to the Four of Swords. Lenses first. Three then four: the rhythm broken, then a structure that holds. Air and Air: it’s happening in words and in the head. Red and grey, then a knight lying still on a tomb, hands joined.
+Work through this pair as an exercise: someone draws the Three of Swords, then the Four of Swords. Three then four: the rhythm broken, then a structure that holds. Air and Air: it’s happening in words and in the head. Red and grey, then a knight lying still on a tomb, hands joined.
 
 You might say, gently: “Something hurt you recently, probably something that was said, and what’s asked of you now isn’t to fix it but to stop for a while.”
 

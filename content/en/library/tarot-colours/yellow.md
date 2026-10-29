@@ -1,10 +1,7 @@
 ---
 title: 'Yellow in tarot: meaning, cards where it dominates and how to read it (tarot
   colours)'
-description: 'Yellow in the Rider-Waite-Smith tarot: joy, optimism, pride, the inner
-  child, self-expression, will. Where the colour appears in the deck, what it says
-  before you even know the card, its flip side, and how to read it with the other
-  lenses.'
+description: "Yellow in the Rider-Waite-Smith tarot: joy, optimism, pride, the inner child, self-expression, will. A yellow sky, and the card smiles before you've even read it."
 translationKey: col-yellow
 type: library
 navTitle: Yellow

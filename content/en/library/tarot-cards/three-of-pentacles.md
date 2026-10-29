@@ -50,9 +50,9 @@ On the right, by a pillar, two figures. One, in dark clothes with a thick collar
 
 ## By number: three {#number}
 
-**three — to create, to celebrate, the first result.** [Number three](/library/numerology/number-3/) is the cadence found: the machine running, the contract that works, siblings on good terms. Three is the first number where something is produced and can be seen. On a Pentacles card that’s literal — a piece of work, made by hand, that people can come and look at.
+[Number three](/library/numerology/number-3/) is the cadence found: the machine running, the contract that works, siblings on good terms. Three is the first number where something is produced and can be seen. On a Pentacles card that’s literal — a piece of work, made by hand, that people can come and look at.
 
-The advice of 3, in my notes, is to finish a project before starting another; its minus is the opposite — new projects before the old ones are done, and sometimes solitude or betrayal. On this card the cadence holds because three people agreed on one plan. In the Instagram story, 3 is the launch that works: people sign up, post, come back, and for the first time the thing turns without being pushed.
+The advice of 3, in my notes, is to finish a project before starting another; its minus is the opposite — new projects before the old ones are done, and sometimes solitude or betrayal. On this card the cadence holds because three people agreed on one plan. In the Instagram story, 3 is a launch that works, a first result people can see and use.
 
 ## By element: Earth {#element}
 
@@ -68,7 +68,7 @@ Read the colours before the card: a solid, sober frame, and all the life on the 
 
 ## By astrology: Mars in Capricorn {#astrology}
 
-In the Golden Dawn tradition, the Three of Pentacles is the second decan of Capricorn, given to [Mars](/library/astrology/mars/); its title is the Lord of Material Works. Mars is how you act — raw energy, effort, the body moving. Capricorn says *I use*: work, structure, knowing how to use every tool. Classical astrology calls Mars exalted in Capricorn: energy at its best when it has a plan.
+In the Golden Dawn tradition, the Three of Pentacles is the second decan of Capricorn, given to [Mars](/library/astrology/mars/). Mars is how you act — raw energy, effort, the body moving. Capricorn says *I use*: work, structure, knowing how to use every tool. Classical astrology calls Mars exalted in Capricorn: energy at its best when it has a plan.
 
 That’s the card exactly, and still optional: the number and the stone say the same.
 
@@ -86,8 +86,8 @@ Next to the [Eight of Pentacles](/library/tarot-cards/eight-of-pentacles/), the 
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Three of Pentacles next to the [Four of Cups](/library/tarot-cards/four-of-cups/). Lenses first. Three then four: the cadence found, then the stability that follows it. Earth then Water: the work, then the feelings about it. The drawings: three people around a carving in a church, then a young man sitting under a tree, arms folded, not looking at the cup a hand holds out to him from a cloud.
+Let’s make one up: a colleague who’s curious about tarot draws the Three of Pentacles and the [Four of Cups](/library/tarot-cards/four-of-cups/). Three then four: the cadence found, then the stability that follows it. Earth then Water: the work, then the feelings about it. The drawings: three people around a carving in a church, then a young man sitting under a tree, arms folded, not looking at the cup a hand holds out to him from a cloud.
 
 The sentence I’d say out loud: “Your work is going well, people count on you, and you’ve stopped feeling anything about it.”
 
-To check, I ask: “Does work feel like that at the moment — fine, and flat?” If it’s yes, I leave room for whatever the person wants to say about it. If it’s no, it’s a miss, and I note it as one.
+To check, I ask: “Does work feel like that at the moment — fine, and flat?” If it’s yes, I leave room for whatever the person wants to say about it. If their work still feels alive to them, the sentence missed, and it goes in my notebook as a miss.

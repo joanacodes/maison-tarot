@@ -51,15 +51,15 @@ Elle ne nous regarde pas, ni l’oiseau. Ses yeux sont baissés, presque fermés
 
 ## Par le nombre : neuf {#nombre}
 
-**neuf — l’aboutissement, presque au bout.** [Le 9, c’est la dernière ligne droite](/fr/bibliotheque/numerologie/chiffre-9/) : la fin d’une étape, les derniers efforts, l’introspection, la patience — mais on continue d’avancer. Ma note pour cette carte : profiter de ce qui vient, la gratitude pour tout ce qu’on a. Les pièces reposent parmi les vignes comme des fruits, et elle a le droit de s’arrêter pour regarder.
+[Le 9, c’est la dernière ligne droite](/fr/bibliotheque/numerologie/chiffre-9/) : presque fini, un temps pour la patience et le regard intérieur, en continuant de marcher. Ma note pour cette carte : profiter de ce qui vient, la gratitude pour tout ce qu’on a. Les pièces reposent parmi les vignes comme des fruits, et elle a le droit de s’arrêter pour regarder.
 
 S’arrêter, pas s’installer. Dans l’histoire d’Instagram, le 9, c’est la refonte autour des Reels : la plateforme à son sommet, et déjà en train de changer. Profitez du jardin, en sachant que c’est une saison.
 
 ## Par l’élément : Terre {#element}
 
-La [Terre](/fr/bibliotheque/quatre-elements/element-terre/), c’est la matière, la prospérité, ce qui a de la valeur à vos yeux — en argent ou en sentiment. Ici, elle est à son plus fertile : des raisins mûrs, une maison, un jardin entretenu assez longtemps pour donner à son tour.
+La [Terre](/fr/bibliotheque/quatre-elements/element-terre/), c’est la matière et l’abondance, ce qui compte pour vous et se touche. Ici, elle est à son plus fertile : des raisins mûrs, une maison, un jardin entretenu assez longtemps pour donner à son tour.
 
-Le revers de la Terre, l’entêtement, prend ici une forme discrète : le jardin comme un mur. « Toutes les richesses ne sont pas en or », ai-je noté un jour. Les pièces sont là ; la vraie richesse, c’est d’avoir le temps de rester dans sa vigne à ne rien faire.
+Le revers de la Terre, l’entêtement, prend ici une forme discrète : le jardin comme un mur. Les pièces sont là ; la vraie richesse, c’est d’avoir le temps de rester dans sa vigne à ne rien faire.
 
 ## Par les couleurs {#couleurs}
 
@@ -69,7 +69,7 @@ Le rouge du bonnet, des fleurs et du chaperon ajoute de l’élan et du désir, 
 
 ## Par l’astrologie : Vénus en Vierge {#astrologie}
 
-Dans le système de la Golden Dawn, cette carte correspond à [Vénus](/fr/bibliotheque/astrologie/venus/) dans le deuxième décan de la [Vierge](/fr/bibliotheque/astrologie/vierge/), sous le titre « Seigneur du Gain matériel ». Vénus, c’est ce qu’on aime et ce qu’on trouve beau ; la Vierge, « j’analyse ». L’astrologie traditionnelle dit Vénus « en chute » en Vierge — le plaisir sous l’œil d’une perfectionniste. Ici, cela se lit comme un plaisir mérité : le jardin est beau parce qu’il a été soigné.
+Dans le système de la Golden Dawn, cette carte correspond à [Vénus](/fr/bibliotheque/astrologie/venus/) dans le deuxième décan de la [Vierge](/fr/bibliotheque/astrologie/vierge/). Vénus, c’est ce qu’on aime et ce qu’on trouve beau ; la Vierge, « j’analyse ». L’astrologie traditionnelle dit Vénus « en chute » en Vierge — le plaisir sous l’œil d’une perfectionniste. Ici, cela se lit comme un plaisir mérité : le jardin est beau parce qu’il a été soigné.
 
 Gardez cette clé si l’astrologie vous parle ; sinon, le nombre et l’élément ont dit la même chose.
 
@@ -77,7 +77,7 @@ Gardez cette clé si l’astrologie vous parle ; sinon, le nombre et l’éléme
 
 À l’endroit : le plaisir, la gratitude, l’indépendance. Quelqu’un qui s’est construit une vie qui tient — une maison, un métier, un quotidien qui nourrit — et qui en profite sans avoir besoin d’applaudissements. Ce peut être une personne autour de vous, ou vous-même, le jour où vous cessez de vous demander si vous en avez fait assez. **La gratitude est le travail du 9 : regardez ce que vous avez avant de compter ce qui manque.**
 
-Renversée, le même jardin, freiné ou excessif. Freiné : tout ce qui est sur la carte vous appartient, et vous n’arrivez pas à en profiter — la culpabilité de se reposer, les yeux déjà sur la prochaine récolte. Excessif : le confort se durcit en mur ; l’indépendance devient « je n’ai besoin de personne », et le faucon ne quitte jamais le gant.
+Renversée, le plaisir du jardin s’éteint, ou s’enferme. Freiné : tout ce qui est sur la carte vous appartient, et vous n’arrivez pas à en profiter — la culpabilité de se reposer, les yeux déjà sur la prochaine récolte. Excessif : le confort se durcit en mur ; l’indépendance devient « je n’ai besoin de personne », et le faucon ne quitte jamais le gant.
 
 À côté du [Dix de Pentacles](/fr/bibliotheque/cartes-tarot/dix-de-pentacles/), le jardin se remplit de monde : ce qu’on savourait seul se partage entre générations. À côté du [Neuf de Coupes](/fr/bibliotheque/cartes-tarot/neuf-de-coupes/), deux contentements : l’un exhibe ses coupes, l’autre se promène dans ses vignes. À côté de la [Reine de Pentacles](/fr/bibliotheque/cartes-tarot/reine-de-pentacles/), la femme du jardin s’assoit et se met à nourrir les autres.
 
@@ -87,7 +87,7 @@ Si quelqu’un espère que cette carte annonce une rentrée d’argent, je préf
 
 ## Exemple de tirage {#exemple}
 
-Mettons qu’une personne s’assoie, ne vous dise rien, et tire le Neuf de Pentacles à côté du [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/). Les clés de lecture d’abord. Neuf puis huit : la dernière ligne droite d’un cycle, puis — dans mes notes — passer à autre chose que ce qu’on fait déjà. Terre puis Eau : un jardin qui tient, puis des émotions en mouvement. Une femme immobile dans sa vigne, puis une silhouette en rouge qui s’éloigne de huit coupes empilées, vers les montagnes.
+Voici un tirage fictif de deux cartes, pour quelqu’un que vous venez de rencontrer : le Neuf de Pentacles, puis le [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/). Neuf puis huit : la dernière ligne droite d’un cycle, puis — dans mes notes — passer à autre chose que ce qu’on fait déjà. Terre puis Eau : un jardin qui tient, puis des émotions en mouvement. Une femme immobile dans sa vigne, puis une silhouette en rouge qui s’éloigne de huit coupes empilées, vers les montagnes.
 
 À voix haute : « Vous avez construit quelque chose de confortable, et vous avez le droit d’en profiter. Mais une partie de vous enfile déjà son manteau — pas parce que quelque chose ne va pas, mais parce que vous avez fait le tour. »
 

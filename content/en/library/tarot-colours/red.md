@@ -1,9 +1,7 @@
 ---
 title: 'Red in tarot: meaning, cards where it dominates and how to read it (tarot
   colours)'
-description: 'Red in the Rider-Waite-Smith tarot: passion, action, strength, impulse.
-  Where the colour appears in the deck, what it says before you even know the card,
-  its flip side, and how to read it with the other lenses.'
+description: "Red in the Rider-Waite-Smith tarot: passion, action, strength, impulse. In the Rider-Waite-Smith it dresses those who act: the Magician's cloak, the Fool's feather, the Knights' robes."
 translationKey: col-red
 type: library
 navTitle: Red
