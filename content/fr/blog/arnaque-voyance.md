@@ -53,7 +53,7 @@ Vous êtes quelqu’un de spécial. Vous êtes une vieille âme. Vous avez un do
 
 ## 8. Il lit sur des sujets qu’un lecteur prudent laisse de côté {#sujets}
 
-Un diagnostic de santé, la mort, une grossesse, un procès en cours, la vie privée de quelqu’un d’autre, « est-ce que mon conjoint me trompe ? ». Une carte peut tomber sur ces sujets, mais là, une phrase maladroite blesse pour de bon, et aucun lecteur n’a raison à chaque fois. Ces questions naissent d’une vraie inquiétude ; elles méritent un médecin, un avocat ou une conversation franche. Un lecteur qui répond à tout n’a jamais pensé qu’il pouvait se tromper.
+Un diagnostic médical, un décès, une grossesse, une affaire encore devant les tribunaux, la vie privée d’un tiers, « est-ce que mon conjoint me trompe ? ». Une carte peut tomber sur ces sujets, mais là, une phrase maladroite blesse pour de bon, et aucun lecteur n’a raison à chaque fois. Ces questions naissent d’une vraie inquiétude ; elles méritent un médecin, un avocat ou une conversation franche. Un lecteur qui répond à tout n’a jamais pensé qu’il pouvait se tromper.
 
 ## 9. Les avis sont parfaits {#avis}
 
@@ -65,6 +65,6 @@ Quelqu’un qui vous dit sur quoi il ne lit pas, et pourquoi. Qui dit « c’est
 
 ## Si vous avez déjà payé {#deja-paye}
 
-D’abord, aucune honte : ces techniques sont conçues pour marcher sur des gens intelligents, au moment où ils sont fragiles. Arrêtez de payer. Ne discutez pas ; ils sont plus entraînés que vous à cette conversation. Gardez les messages. Une plateforme se signale à la plateforme elle-même et à la répression des fraudes, sur SignalConso. Un « désenvoûtement » payant relève de l’escroquerie presque partout, et mérite un signalement même sans espoir de revoir l’argent : la personne suivante sera peut-être épargnée.
+D’abord, aucune honte : ces techniques visent des gens tout à fait lucides, pris dans un moment de fragilité. Arrêtez de payer. Ne discutez pas ; ils sont plus entraînés que vous à cette conversation. Gardez les messages. Une plateforme se signale à la plateforme elle-même et à la répression des fraudes, sur SignalConso. Un « désenvoûtement » payant relève de l’escroquerie presque partout, et mérite un signalement même sans espoir de revoir l’argent : la personne suivante sera peut-être épargnée.
 
 Et que cette histoire ne vous dégoûte pas du tarot lui-même. L’arnaque marche parce que la version honnête marche, et la version honnête [s’apprend](/fr/apprendre-le-tarot/) : c’est le moyen le plus sûr de ne plus jamais vous faire avoir.

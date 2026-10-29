@@ -37,7 +37,7 @@ Antoine Court de Gébelin est un savant protestant qui, en 1781, a affirmé que 
 
 Il naît vers 1725, à Nîmes selon la plupart des sources (d’autres disent Genève), dans une famille protestante, à une époque où les Églises réformées de France se réunissent encore en cachette : c’est le « Désert ». Son père, Antoine Court, est le pasteur qui a réorganisé ces Églises clandestines. Le fils se forme au séminaire de Lausanne, y enseigne, puis s’installe à Paris en 1763 pour écrire.
 
-À Paris, il se lance dans un chantier immense : *Le Monde primitif analysé et comparé avec le monde moderne*, qui cherche la civilisation première derrière toutes les langues, tous les mythes, tous les calendriers. Neuf volumes paraissent entre 1773 et 1782. Il sert aussi de correspondant aux Églises réformées auprès des pays protestants, entre en franc-maçonnerie et fonde une société savante. Il meurt à Paris en 1784, l’œuvre inachevée.
+À Paris, il se lance dans un chantier immense, *Le Monde primitif*, qui cherche la civilisation première derrière toutes les langues, tous les mythes, tous les calendriers. Neuf volumes paraissent entre 1773 et 1782. Il sert aussi de correspondant aux Églises réformées auprès des pays protestants, entre en franc-maçonnerie et fonde une société savante. Il meurt à Paris en 1784, l’œuvre inachevée.
 
 ## Ce qu’il a fait pour le tarot {#tarot}
 
@@ -61,7 +61,7 @@ Et ce n’était pas un illuminé. C’était un érudit respecté, et sa démar
 
 Chaque fois qu’un livre ou une vidéo vous présente le tarot comme une « sagesse de l’Égypte ancienne », il répète 1781. L’idée est passée par Etteilla, puis par [Éliphas Lévi](/fr/bibliotheque/figures-du-tarot/eliphas-levi/) et les occultistes du XIXe siècle, jusqu’aux jeux qu’on trouve aujourd’hui en librairie.
 
-Alors, que garder ? Sa question était la bonne : que dit cette image ? Regarder une carte comme une image qui a un sens, et non comme un pion dans une partie, c’est là que commence la lecture. Ce que vous pouvez laisser tomber, c’est le pedigree. Une carte n’a pas besoin d’être ancienne pour être utile. Le jeu que j’utilise a été dessiné en 1909, et il fonctionne par ce qui est dessiné dessus et par ce que vous y remarquez, pas par son âge.
+Alors, que garder ? Sa question était la bonne : que dit cette image ? Regarder une carte comme une image qui a un sens, et non comme un pion dans une partie, c’est là que commence la lecture. Ce que vous pouvez laisser tomber, c’est le pedigree. Une carte n’a pas besoin d’être ancienne pour être utile. Le jeu avec lequel je lis date de 1909, et il fonctionne par ce qui est dessiné dessus et par ce que vous y remarquez, pas par son âge.
 
 Pour commencer là où il a commencé, par l’image, [le parcours](/fr/apprendre-le-tarot/) s’ouvre sur la couleur, la première chose que l’œil voit.
 

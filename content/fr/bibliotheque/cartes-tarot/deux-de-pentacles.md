@@ -39,7 +39,7 @@ tags:
 
 Un jeune homme coiffé d’un très haut chapeau rouge tient un pentacle dans chaque main, et un ruban vert fait le tour des deux pièces en dessinant un huit couché — le signe de l’infini. La pièce de gauche est à hauteur d’épaule, celle de droite à hauteur de hanche. Il a les genoux pliés et les pieds tournés dans deux directions, comme surpris au milieu d’un pas de danse. Sa tête penche ; son visage est calme, presque absent.
 
-Derrière lui, la mer se soulève en hautes vagues bleues, et deux navires les chevauchent — un petit au loin, un plus grand sur la crête. Lui se tient sur un sol gris et plat. Eux sont sur la houle.
+Derrière lui, la mer se soulève en hautes vagues bleues, et deux navires les chevauchent — un petit au loin, un plus grand sur la crête. Lui a les pieds sur une terre grise, toute plate. Eux sont sur la houle.
 
 Notez ce qui manque : pas de table pour poser une pièce, personne à qui en passer une. **Il fait tourner deux choses, et il le fait bien — pendant que, derrière lui, la mer monte et descend sans arrêt.**
 
@@ -63,7 +63,7 @@ Résumé en couleurs : un corps actif devant une mer agitée. L’action est dev
 
 ## Par l’astrologie : Jupiter en Capricorne {#astrologie}
 
-[Jupiter](/fr/bibliotheque/astrologie/jupiter/) gouverne le premier décan du Capricorne, et la Golden Dawn y a rangé le Deux de Pentacles. Jupiter pousse à grandir : la confiance, la chance, et le risque d’en faire trop. Le Capricorne dit *J’utilise* : le travail, la structure, le pragmatisme. L’astrologie classique place Jupiter en chute dans le Capricorne : la planète qui veut plus, dans le signe qui compte. Cette tension, c’est la carte — la croissance tenue dans un budget.
+[Jupiter](/fr/bibliotheque/astrologie/jupiter/) gouverne le premier décan du Capricorne, et la Golden Dawn y a rangé le Deux de Pentacles. Jupiter pousse à grandir : la confiance, la chance, et le risque d’en faire trop. Le verbe du Capricorne, *J’utilise*, parle de travail, de structure, de pragmatisme. L’astrologie classique place Jupiter en chute dans le Capricorne : la planète qui veut plus, dans le signe qui compte. Cette tension, c’est la carte — la croissance tenue dans un budget.
 
 Libre à vous de l’ignorer : les vagues derrière le jongleur racontent la même tension.
 
@@ -73,7 +73,7 @@ Libre à vous de l’ignorer : les vagues derrière le jongleur racontent la mê
 
 Renversée, le ruban se détend. Une pièce tombe, l’autre vacille : une échéance ratée, une fin de mois qui commence le 20, une journée où tout tombe en même temps. Ou bien, dans l’excès, le jonglage est devenu toute la vie, et la personne fait tourner les deux pièces pour ne jamais avoir à en choisir une.
 
-Cette carte arrive souvent avec des soucis d’argent — quelle facture d’abord, faut-il prendre un deuxième emploi. Je ne lis pas sur ces décisions : elles vous appartiennent, et les chiffres regardent quelqu’un qui peut les voir. Ce que la carte peut montrer, c’est ce que le jonglage vous fait vivre, et ce qu’il vous coûte ([lire les Pentacles les pieds sur terre](/fr/blog/tarot-et-argent/)).
+Cette carte arrive souvent avec des soucis d’argent — quelle facture d’abord, faut-il prendre un deuxième emploi. Ces choix-là, je ne les lis pas : ils vous appartiennent, et les chiffres regardent quelqu’un qui peut les voir. Ce qui se voit sur la carte, c’est ce que le jonglage vous fait vivre, et ce qu’il vous coûte ([lire les Pentacles les pieds sur terre](/fr/blog/tarot-et-argent/)).
 
 À côté de [Tempérance](/fr/bibliotheque/cartes-tarot/temperance/), le jonglage s’apaise en un versement régulier d’une coupe à l’autre : le même équilibre, sans la danse. À côté du [Deux d’Épées](/fr/bibliotheque/cartes-tarot/deux-de-epees/), l’autre visage du 2 : l’un fait tourner les deux options, l’autre se bande les yeux pour ne pas choisir. À côté du [Quatre de Pentacles](/fr/bibliotheque/cartes-tarot/quatre-de-pentacles/), le jongleur s’est arrêté et serre tout contre lui : le mouvement est devenu une prise.
 

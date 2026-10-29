@@ -53,13 +53,13 @@ Le soleil, c’est la lumière, la chaleur, un jour qui commence. C’est aussi 
 
 Souvenez-vous du lendemain d’une longue discussion, quand ce qui paraissait inextricable à minuit devient évident devant le café. Rien n’a changé, sauf la lumière. Le proverbe donne le mérite à la nuit ; c’est pourtant le matin qui éclaire.
 
-## Où il apparaît dans le jeu {#ou}
+## Six cartes sous le soleil {#ou}
 
 Sur le Mat, un soleil blanc est accroché dans le coin d’un ciel jaune. Le départ se fait en plein jour : rien n’y est secret, pas même la falaise.
 
 Sur les Amoureux, un soleil immense occupe tout le haut de la carte, derrière l’ange. Le choix entre les deux personnages se fait au grand jour.
 
-Sur la Mort, un petit soleil se tient à l’horizon entre deux tours, derrière le cavalier. Lever ou coucher ? Dans mes notes, la Mort est liée à la moisson et au fait de recommencer, et ce soleil porte les deux.
+Sur la Mort, un petit soleil se tient à l’horizon entre deux tours, derrière le cavalier. Lever ou coucher ? Dans mes notes, la Mort est liée à la fois aux moissons et aux nouveaux départs, et ce soleil porte les deux.
 
 Sur Tempérance, une lumière rayonnante se lève entre deux sommets, là où finit le chemin, et l’ange porte au front un petit cercle pointé — l’ancien signe du soleil.
 

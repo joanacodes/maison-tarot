@@ -12,7 +12,7 @@ imageAlt: "Deux chaises face à face autour d’une petite table en bois, un jeu
 imagePrompt: "Two empty chairs facing each other across a small wooden table with a closed tarot deck in the middle, seen from the side. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "La règle du silence, c’est ceci : la personne que je lis ne me dit rien avant le tirage. Ni sa question, ni sa situation, ni son prénom si on est en ligne. Je tire, je parle, et elle confirme ou non après. Je m’y tiens pour une raison qui n’a rien de mystérieux : c’est la seule façon de savoir, une fois la lecture finie, si j’ai lu la personne ou si j’ai brodé sur ce qu’elle venait de me raconter. C’est aussi ce qui me permet de compter mes ratés sans tricher. Le reste de l’article explique pourquoi ça marche, quand ça ne marche pas, et comment l’essayer."
 ---
-Quand quelqu’un s’assied en face de moi pour une lecture, je lui demande une seule chose : ne me dites rien. Pas de question, pas de contexte, pas de « c’est au sujet de mon travail ». Je tire, je parle, et c’est seulement après que la personne me dit si ça tenait ou non.
+Quand quelqu’un s’assied en face de moi pour une lecture, je lui demande une seule chose : ne me dites rien. Ni la question qui l’amène, ni sa situation, ni même « c’est à propos de mon travail ». Je tire, je parle, et c’est seulement après que la personne me dit si ça tenait ou non.
 
 Ce n’est pas une coquetterie de tarologue. C’est la partie de ma méthode qui m’empêche de me mentir.
 
@@ -52,7 +52,7 @@ Et quand ça ne sort pas, c’est aussi une information. Parfois la personne vie
 
 Soyons honnêtes sur les limites, parce qu’une règle qu’on ne critique pas devient un dogme.
 
-Le silence ne rend pas la lecture juste. À mon décompte, que je donne sur [la page de la méthode](/fr/methode/), environ un tirage sur dix rate, silence ou pas. Ce qu’il fait, c’est rendre le raté visible : quand la personne me dit « non, rien de tout ça », je n’ai aucune information à laquelle me raccrocher pour sauver la face. Je dis « celui-là est raté », je le note, je ne tire pas de carte de clarification.
+Le silence ne rend pas la lecture juste. À mon décompte, que je donne sur [la page de la méthode](/fr/methode/), environ un tirage sur dix rate, silence ou pas. Ce qu’il fait, c’est rendre le raté visible : quand la personne me dit « non, rien de tout ça », je n’ai aucune information à laquelle me raccrocher pour sauver la face. Je dis « celui-là est raté », je le consigne, sans qu’aucune carte supplémentaire vienne tenter de le sauver.
 
 Le silence ne me dispense pas non plus de mes refus. Si, au milieu d’une lecture, je sens qu’on dérive vers la santé, un décès, une grossesse, une procédure en cours ou une décision d’argent, j’arrête. Je ne peux pas le savoir à l’avance puisqu’on ne m’a rien dit ; je le découvre en route, et j’applique [les mêmes refus](/fr/avertissements/#refus) qu’en pleine connaissance de cause. Le silence n’est pas une excuse pour aller partout.
 

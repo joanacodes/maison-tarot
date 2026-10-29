@@ -63,7 +63,7 @@ Au sol, un patchwork de tenues qui ne vont jamais ensemble, comme cinq personnes
 
 ## Par l’astrologie : Saturne en Lion {#astrologie}
 
-Dans la tradition Golden Dawn, le Cinq de Bâtons correspond à Saturne en Lion, premier décan du signe. Le [Lion](/fr/bibliotheque/astrologie/lion/), c’est le jeu, le défi, la fierté, l’envie d’être vu. [Saturne](/fr/bibliotheque/astrologie/saturne/) apporte les limites, la structure, les leçons qui coûtent et le travail qui prend des années. Saturne en Lion, c’est la fierté qui rencontre une limite : tout le monde veut briller, et il n’y a pas de place pour cinq vedettes sur une seule scène.
+Saturne en Lion, premier décan du signe : c’est sous ce ciel que la Golden Dawn range le Cinq de Bâtons. Le [Lion](/fr/bibliotheque/astrologie/lion/), c’est le jeu, le défi, la fierté, l’envie d’être vu. [Saturne](/fr/bibliotheque/astrologie/saturne/) apporte les limites, la structure, les leçons qui coûtent et le travail qui prend des années. Saturne en Lion, c’est la fierté qui rencontre une limite : tout le monde veut briller, et il n’y a pas de place pour cinq vedettes sur une seule scène.
 
 On peut s’en passer, mais ici elle sert : elle transforme la mêlée en leçon. L’épreuve n’est pas de savoir qui gagne, mais d’apprendre à partager la scène.
 

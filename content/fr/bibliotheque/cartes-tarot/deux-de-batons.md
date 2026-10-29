@@ -81,7 +81,7 @@ Renversé, la préparation devient une cachette : le voyage encore repoussé, le
 
 ## Exemple de tirage {#exemple}
 
-Voici une paire inventée pour s’exercer : le Deux de Bâtons, avec le Huit de Coupes posé à côté. Le nombre : deux, puis huit — peser un lien, puis s’en aller loin de ce qu’on tient déjà. L’élément : le Feu, puis l’Eau — l’ambition, puis le sentiment. Les couleurs : l’homme en rouge sur sa pierre grise, puis une autre silhouette en rouge qui s’éloigne de huit coupes sous un ciel de nuit. Le même rouge, en marche cette fois.
+Voici une paire inventée pour s’exercer : le Deux de Bâtons, avec le Huit de Coupes posé à côté. Le nombre : deux, puis huit — peser un lien, puis s’en aller loin de ce qu’on tient déjà. L’élément : le Feu, puis l’Eau — l’ambition, puis le sentiment. Les couleurs : l’homme en rouge sur sa pierre grise, puis, de dos, un autre personnage vêtu de rouge qui quitte ses huit coupes sous un ciel de nuit. Le même rouge, en marche cette fois.
 
 La phrase que je dirais à voix haute : « Ça fait un moment que vous regardez une vie plus grande depuis l’endroit où vous êtes, et une partie de vous est déjà partie. La question n’est pas de savoir si c’est possible. C’est de savoir si vous allez vous laisser partir. »
 

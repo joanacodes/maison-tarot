@@ -31,7 +31,7 @@ Ces systèmes ne s’accordent pas entre eux. Selon le livre que vous ouvrez, le
 
 ## La voix qui m’a appris le timing {#la-voix}
 
-Ce n’était pas un tirage, et je raconte toute l’histoire dans [pourquoi un tirage peut être faux](/fr/blog/tirage-faux-tarot/). En bref : après la mort de mon meilleur ami, j’ai demandé en silence « qui est le prochain ? », et une voix m’a donné le prénom d’une autre amie, puis « va avoir un accident », sans dire quand. Quinze jours après, un camion heurtait sa voiture, et mon amie est aujourd’hui vivante et en pleine forme : l’événement est bien venu, mais le message était faux sur ce qui comptait.
+Ce n’était pas un tirage, et je raconte toute l’histoire dans [pourquoi un tirage peut être faux](/fr/blog/tirage-faux-tarot/). En bref : mon meilleur ami venait de mourir quand une question m’a traversée sans que je la prononce — « qui est le prochain ? » —, et une voix a nommé une autre amie, avec ces mots : « va avoir un accident », sans dire quand. Quinze jours après, un camion heurtait sa voiture, et mon amie est aujourd’hui vivante et en pleine forme : l’événement est bien venu, mais le message était faux sur ce qui comptait.
 
 Ce que j’en ai gardé, c’est une étagère dans ma tête, étiquetée *sceptique, mais si ça arrive, j’étais prévenue*. Les messages vont sur cette étagère. Les dates en particulier.
 
@@ -39,11 +39,11 @@ Ce que j’en ai gardé, c’est une étagère dans ma tête, étiquetée *scept
 
 Parce qu’un tirage montre une maturité, pas un agenda. Une carte peut montrer que quelque chose est mûr, bloqué, ou en train de finir. Elle ne voit pas les décisions de l’autre, le poste qui s’ouvre un mois plus tard que prévu, le train supprimé.
 
-Et à cause de ce qu’une date fait à la personne qui la reçoit. Imaginons qu’on vous annonce une rencontre « avant le printemps ». Vous passez l’hiver à attendre, et vous ne remarquez pas la personne qui arrive en novembre. Le printemps passe, et le tirage devient une déception, ou une raison de revenir poser la même question — la boucle que je décris dans [ce que la question « va-t-il revenir ? » vous fait](/fr/blog/va-t-il-revenir-tarot/).
+Et à cause de ce qu’une date fait à la personne qui la reçoit. Imaginons qu’on vous annonce une rencontre « avant le printemps ». Vous passez l’hiver à attendre, et vous ne remarquez pas la personne qui arrive en novembre. Le printemps passe, et le tirage devient une déception, ou une raison de revenir poser la même question — la boucle que je décris pour [les questions qu’on repose en attendant quelqu’un](/fr/blog/va-t-il-revenir-tarot/).
 
 Le « quoi » et le « quand » d’un tirage sont deux affirmations distinctes, et l’une peut tenir pendant que l’autre glisse. Si vous tenez un carnet, donnez au « quand » sa propre ligne. Sinon, un tirage qui avait vu juste sur l’événement et faux sur le mois sera noté comme réussi, et vous ne verrez jamais où se concentrent vos ratés.
 
-Quand une date passe, je ne dis pas que les cartes parlaient d’un autre printemps. Le raté va dans le carnet, tel quel, et j’ai écrit sur [ce qu’on fait quand un tirage est faux](/fr/blog/tirage-faux-que-faire/).
+Quand une date passe, je ne dis pas que les cartes parlaient d’un autre printemps. Je note le raté sans l’arranger, et j’ai écrit sur [la marche à suivre quand une lecture tombe à côté](/fr/blog/tirage-faux-que-faire/).
 
 ## Ce que je lis à la place d’une date {#a-la-place-dune-date}
 
@@ -61,7 +61,7 @@ Deux cartes montrent le piège et la sortie :
 
 {{< cards "wa08 ar10" >}}
 
-Le Huit de Bâtons est la carte que beaucoup de tarologues lisent comme « rapide ». J’y vois des bâtons qui volent ou qui tombent, selon qu’on regarde la scène avec espoir ou avec crainte, et l’image ne dit pas lequel. La Roue de Fortune, pour moi, dit que c’est à vous de tourner la roue : vous fabriquez une part de votre chance, et une part de votre timing.
+Le Huit de Bâtons est la carte que beaucoup de tarologues lisent comme « rapide ». J’y vois des bâtons qui volent ou qui tombent, selon qu’on regarde la scène avec espoir ou avec crainte, et l’image ne dit pas lequel. La Roue de Fortune, pour moi, vous associe au mouvement : votre chance, et votre timing aussi, se fabriquent en partie.
 
 La question plus douce, ce n’est donc presque jamais « quand ? ». C’est « qu’est-ce qui doit se passer d’abord ? » ou « qu’est-ce que je peux faire en attendant ? ». Celles-là ont des réponses qui se travaillent dès aujourd’hui.
 

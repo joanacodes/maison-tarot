@@ -11,7 +11,7 @@ imageAlt: "Un jeu de tarot neuf étalé en éventail sur une table en bois, à c
 imagePrompt: "A tarot deck fanned out in an arc on a wooden table, its open cardboard box lying beside it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Pour commencer le tarot, choisissez le Rider-Waite-Smith, publié en 1909 et dessiné par Pamela Colman Smith. Chacune de ses 78 cartes porte une scène, numérales comprises : vous pouvez lire une carte dès le premier soir, sans livre. Ses couleurs, ses nombres et ses familles se lisent facilement avec quelques clés de lecture, et la plupart des livres et des cours s’en servent. N’importe quelle édition avec les dessins d’origine convient. Gardez le tarot de Marseille et le Thoth pour plus tard, quand vous lirez un inconnu à partir d’une seule carte. Les oracles ne sont pas une étape sur cette route : profitez-en quand vous voulez."
 ---
-Pour commencer, je conseille le Rider-Waite-Smith, illustré en 1909 par Pamela Colman Smith. Sur chacune de ses 78 cartes, une scène se joue, que vous pouvez comprendre avant même d’ouvrir un livre. C’est le jeu avec lequel je lis, et celui par lequel je fais commencer tout le monde ; les autres viendront ensuite, et je vous dirai quand.
+Pour commencer, je conseille le Rider-Waite-Smith, illustré en 1909 par Pamela Colman Smith. Sur chacune de ses 78 cartes, une scène se joue, que vous pouvez comprendre avant même d’ouvrir un livre. Je lis moi-même avec ce jeu, et c’est celui que je mets en premier entre les mains de mes élèves ; les autres viendront ensuite, et je vous dirai quand.
 
 ## Pourquoi le Rider-Waite-Smith d’abord {#pourquoi}
 
@@ -33,7 +33,7 @@ Ce n’est pas le seul jeu avec lequel on lit bien. Beaucoup de lecteurs ont app
 
 Ma façon d’enseigner — par les couleurs, les nombres et les éléments plutôt que par 78 significations apprises — fonctionne au mieux sur ce jeu, parce que tout cela se voit sur chaque carte.
 
-Les couleurs sont voulues. Le jaune remplit le ciel derrière le Mat et le Magicien : la joie, la volonté, l’expression de soi. Le blanc domine Tempérance : la paix, ce qui n’est pas encore sali. Apprenez [la grille des couleurs](/fr/bibliotheque/couleurs-tarot/) et vous lisez avant de connaître le nom d’une seule carte.
+Les couleurs sont voulues. Le jaune remplit le ciel derrière le Mat et le Magicien : la joie, la volonté, l’expression de soi. Le blanc domine Tempérance : la paix, et une pureté que rien n’a encore entamée. Apprenez [la grille des couleurs](/fr/bibliotheque/couleurs-tarot/) et vous lisez avant de connaître le nom d’une seule carte.
 
 Les nombres et les familles sont inscrits clairement : le nombre situe l’étape que traverse la situation, la famille en donne le sujet. Et comme la plupart des livres, des cours et des vidéos utilisent ce jeu, ce que vous apprenez vous servira partout. Ses images sont aussi dans le domaine public, et c’est pour ça qu’on les retrouve sur chaque page de carte de ce site.
 
@@ -55,7 +55,7 @@ Le tarot de Marseille, c’est pour le moment où les scènes commencent à fair
 
 Le Thoth — l’idée de Crowley, le pinceau de Frieda Harris —, c’est pour le moment où vous voudrez comprendre pourquoi une carte est construite ainsi. Il est très travaillé, réaliste à sa manière, et chargé de symbolisme occulte ; dans mes propres notes, il est rangé sous « à explorer plus tard ». [Voici ce qui change quand on passe de l’un à l’autre](/fr/blog/thoth-ou-rider-waite/).
 
-Les oracles, eux, n’ont pas de moment, parce qu’ils ne sont pas une étape sur la même route. Ils comptent autant de cartes que leur auteur le souhaite, avec les significations qu’il a choisies. Ils se collectionnent volontiers, à la manière d’œuvres dont chaque image a quelque chose à dire : profitez-en quand vous voulez. La structure du tarot, en revanche, ce n’est pas eux qui vous l’enseigneront. [La différence est expliquée ici](/fr/blog/difference-entre-tarot-et-oracle/).
+Les oracles, eux, n’ont pas de moment, parce qu’ils ne sont pas une étape sur la même route. Le nombre de cartes et leur sens, c’est leur auteur qui les fixe. Ils se collectionnent volontiers, à la manière d’œuvres dont chaque image a quelque chose à dire : profitez-en quand vous voulez. La structure du tarot, en revanche, ce n’est pas eux qui vous l’enseigneront. [La différence est expliquée ici](/fr/blog/difference-entre-tarot-et-oracle/).
 
 ## Commencez par une carte {#commencer}
 

@@ -19,7 +19,7 @@ On peut partager le tarot avec un enfant ; un tirage, c’est autre chose. Une a
 
 Un tirage, au sens où je l’entends, c’est regarder les cartes de quelqu’un et lui dire quelque chose de sa vie : ce qui se passe, ce qui pourrait venir. Jouer avec les cartes, c’est se servir des images comme d’images : les décrire, inventer des histoires, remarquer les couleurs. Le premier pèse. Le second ne pèse presque rien, et c’est ce qui le rend si adapté aux enfants.
 
-Montrez le Soleil à un enfant. Un petit enfant chevauche un cheval blanc, les bras grands ouverts, des tournesols derrière un mur, une bannière rouge qui flotte. Demandez-lui ce qui se passe : vous aurez peut-être une histoire en dix secondes, « il était une fois » compris. Puis le Six de Coupes : un enfant tend à un autre une coupe pleine de fleurs blanches, dans une vieille cour. Qui donne ? Qui reçoit ? Ils sont amis ?
+Montrez le Soleil à un enfant. Un petit enfant chevauche un cheval blanc, les bras grands ouverts, des tournesols derrière un mur, une bannière rouge qui flotte. Demandez-lui ce qui se passe : vous aurez peut-être une histoire en dix secondes, « il était une fois » compris. Puis le Six de Coupes : dans une vieille cour, des fleurs blanches passent d’un enfant à l’autre dans une coupe. Qui donne ? Qui reçoit ? Ils sont amis ?
 
 {{< cards "ar19 cu06" >}}
 
@@ -31,7 +31,7 @@ C’est le même premier exercice que je donne aux adultes : une carte, puis dé
 
 Je demande toujours avant de lire quelqu’un. Vous n’aimeriez pas qu’on fouille dans votre chambre ; lire quelqu’un qui n’a pas dit oui, pour moi, c’est pareil. L’âge ne change rien à ce principe, même pour un jeu. Une façon raisonnable de l’appliquer avec un enfant : l’enfant dit oui, un parent est au courant, et l’enfant peut arrêter quand il veut, sans avoir à se justifier.
 
-Même chose pour tirer les cartes sur un enfant à distance — sur votre fils pendant qu’il est à l’école, par exemple. Il n’est pas dans la pièce, et il n’a rien accepté. Je ne lis pas sur les personnes absentes, [votre mère ou votre ex compris](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/), et à Maison Tarot, il n’y a pas de lecture pour un mineur, ni à son sujet. Si c’est votre enfant qui vous inquiète, il existe une question plus douce, et elle vous concerne : qu’ai-je besoin de comprendre, en tant que parent, cette semaine ?
+Même chose pour tirer les cartes sur un enfant à distance — sur votre fils pendant qu’il est à l’école, par exemple. Il n’est pas là, et il n’a rien accepté. Je ne lis pas sur les personnes absentes, [votre mère ou votre ex compris](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/), et à Maison Tarot, il n’y a pas de lecture pour un mineur, ni à son sujet. Si c’est votre enfant qui vous inquiète, la question utile vous concerne, vous : qu’ai-je besoin de comprendre, en tant que parent, cette semaine ?
 
 ## Y a-t-il un bon âge ? {#age}
 

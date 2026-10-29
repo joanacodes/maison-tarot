@@ -17,7 +17,7 @@ Vous n’avez pas besoin de tirages structurés pour lire le tarot. Un tirage es
 
 Un tirage, ou une disposition, c’est une manière fixe de poser les cartes, où chaque place — une position — porte une question définie à l’avance. Dans un tirage passé-présent-futur, la carte de gauche se lit comme le passé, quelle que soit la carte. Le Soleil à cette place, c’est un passé heureux ; le Soleil à droite, une direction heureuse.
 
-Les tarologues s’en servent de deux façons, et je trouve les deux légitimes. Certains suivent des dispositions fixes : un tirage travail posé comme ceci, un tirage amour comme cela, à chaque fois. D’autres suivent leur intuition et inventent un tirage pour chaque personne, ou posent les cartes en ligne et laissent l’histoire trouver sa forme. Deux tarologues peuvent regarder les mêmes cartes, y voir deux histoires différentes, et chacun expliquer pourquoi — une des raisons pour lesquelles je vois la lecture comme [proche d’un art](/fr/blog/le-tarot-est-il-un-art/).
+Les tarologues s’en servent de deux façons, et je trouve les deux légitimes. Certains suivent des dispositions fixes : un tirage travail posé comme ceci, un tirage amour comme cela, sans jamais varier. D’autres suivent leur intuition et inventent un tirage pour chaque personne, ou posent les cartes en ligne et laissent l’histoire trouver sa forme. Deux tarologues peuvent regarder les mêmes cartes, y voir deux histoires différentes, et chacun expliquer pourquoi — une des raisons pour lesquelles je vois la lecture comme [proche d’un art](/fr/blog/le-tarot-est-il-un-art/).
 
 ## Quand une disposition aide {#quand-ca-aide}
 
@@ -41,13 +41,13 @@ Et quand collectionner les tirages remplace la lecture. On peut posséder cent d
 
 ## Lire sans tirage {#sans-tirage}
 
-Décidez du nombre de cartes avant de mélanger — trois ou cinq — et posez-les en ligne, sans positions. Puis lisez la ligne comme une phrase, avec ses clés de lecture : quel élément domine, si les nombres montent ou descendent, quelle couleur passe d’une carte à l’autre. La carte qui détonne est souvent le cœur du sujet.
+Décidez du nombre de cartes avant de mélanger — trois ou cinq — et posez-les en ligne, sans positions. Puis lisez la ligne comme une phrase, avec ses clés de lecture : quel élément domine, si les nombres montent ou descendent, quelle couleur circule de carte en carte. Souvent, c’est la carte qui jure avec les autres qui porte l’essentiel.
 
 Imaginons que vous tiriez quatre cartes : la Reine d’Épées, le Sept d’Épées, le Deux d’Épées et l’As de Coupes.
 
 {{< cards "swqu sw07 sw02 cuac" >}}
 
-Trois Épées, puis une Coupe. Trois [cartes d’Air](/fr/bibliotheque/quatre-elements/element-air/) — penser, peser, trancher —, avec au milieu le gris du Deux d’Épées, neutre, indécis. Puis une seule carte d’Eau au bout : une coupe qui déborde dans une main sortie d’un nuage, un 1, un nouveau départ dans le ressenti. En une phrase : « Votre tête a fait tout le travail, à peser et à décider, et ce qui attend au bout de la ligne, c’est un sentiment qui ne fait que commencer. » Aucune position ne vous l’a dit. La ligne, si.
+Trois Épées, puis une Coupe. Trois [cartes d’Air](/fr/bibliotheque/quatre-elements/element-air/) — penser, peser, trancher —, avec au milieu le gris du Deux d’Épées, neutre, indécis. Puis une seule carte d’Eau au bout : l’As de Coupes, dont la coupe ruisselle au creux d’une main venue du ciel ; un 1, donc un début du côté du cœur. En une phrase : « Votre tête a fait tout le travail, à peser et à décider, et ce qui attend au bout de la ligne, c’est un sentiment qui ne fait que commencer. » Aucune position ne vous l’a dit. La ligne, si.
 
 Lire sans positions a un prix, et il vaut la peine de le dire. Quand rien n’est fixé à l’avance, on est tenté de tirer jusqu’à ce que l’histoire paraisse complète, ou de laisser la phrase glisser en voyant le visage de la personne. Deux règles vous gardent honnête : le nombre de cartes se décide avant le mélange, et la phrase s’écrit avant que quiconque la confirme.
 

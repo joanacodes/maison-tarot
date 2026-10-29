@@ -33,7 +33,7 @@ Alors oui, sur le papier, je suis un exemple du mythe. Mais ce jeu était sur ma
 
 ## Acheter son propre jeu de tarot porte-t-il malheur ? {#malheur}
 
-Non. Pour qu’acheter un jeu porte malheur, il faudrait que le jeu fasse le travail, et ce n’est pas le cas. La lecture vient de vous, pas du carton, et encore moins du ticket de caisse.
+Non. Pour qu’acheter un jeu porte malheur, il faudrait que le jeu fasse le travail, et ce n’est pas le cas. Ce qui lit, c’est vous : ni le carton, ni, encore moins, le ticket de caisse.
 
 Les personnes qui posent cette question sont rarement superstitieuses ; elles sont prudentes. Elles veulent bien commencer, et c’est un bon réflexe. Mais bien commencer, c’est d’abord commencer.
 
@@ -53,11 +53,11 @@ Certaines personnes pensent aussi qu’il faut « se lier » à un nouveau jeu a
 
 La purification appelle la même réponse ; je raconte ailleurs [pourquoi j’ai arrêté de vendre de la sauge, et ce que je fais à la place](/fr/blog/purifier-son-jeu-de-tarot/).
 
-Laisser d’autres personnes toucher vos cartes est une question de confort ou d’hygiène, pas de chance, et [chacun peut choisir qui touche son jeu](/fr/blog/laisser-toucher-ses-cartes-tarot/). Et si un jeu vous semble un jour « bizarre », c’est en général vous qui avez besoin d’une pause, pas les cartes.
+Laisser d’autres personnes toucher vos cartes est une question de confort ou d’hygiène, pas de chance, et [chacun peut choisir qui touche son jeu](/fr/blog/laisser-toucher-ses-cartes-tarot/). Et si un jeu vous semble un jour « bizarre », c’est en général à vous qu’il faut du repos ; les cartes n’en demandent pas.
 
 ## Acheter un jeu : quoi regarder {#acheter}
 
-Si vous l’achetez pour vous, commencez par un Rider-Waite-Smith : chaque carte porte une scène que vous pouvez lire dès le premier soir, et [voici pourquoi je le conseille à tout le monde](/fr/blog/quel-jeu-de-tarot-choisir/). N’importe quelle édition avec les dessins d’origine convient.
+Si vous l’achetez pour vous, commencez par un Rider-Waite-Smith : chaque carte porte une scène que vous pouvez lire dès le premier soir, et [voici pourquoi je le conseille à tout le monde](/fr/blog/quel-jeu-de-tarot-choisir/). Toute édition qui reprend les dessins d’origine fera l’affaire.
 
 Si vous l’achetez pour quelqu’un d’autre, un jeu est un très beau cadeau, et sa liste d’envies reste le guide le plus délicat. Choisissez une personne qui en veut un, qu’elle l’ait dit franchement ou à demi-mot : sinon, le jeu risque surtout de prendre la poussière. Pour les autres questions de cadeau, voyez [mon guide pour offrir un jeu de tarot](/fr/blog/offrir-un-jeu-de-tarot/).
 

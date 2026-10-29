@@ -57,7 +57,7 @@ La plupart des sites de thème astral affichent le Nœud Nord parmi les planète
 1. Notez le signe et la maison de votre Nœud Nord.
 2. Écrivez à côté le signe et la maison opposés : c’est votre Nœud Sud.
 3. Posez-vous trois questions. Qu’est-ce que je fais sans effort ? Où est-ce que j’en fais trop ? Qu’est-ce que l’autre côté me demande et que j’évite ?
-4. Cochez ou barrez chaque réponse, aussi honnêtement que vous le feriez pour un inconnu.
+4. Cochez ou barrez chaque réponse sans vous faire de cadeau, comme s’il s’agissait d’un inconnu.
 
 ## Ce que je peux en dire, et ce que je ne peux pas {#limites}
 

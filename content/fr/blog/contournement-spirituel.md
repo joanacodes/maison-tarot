@@ -36,7 +36,7 @@ Quelques schémas que je surveillerais, chez vous comme chez un tarologue :
 - « C’est mon signe », pour éviter de s’excuser. [L’astrologie comme excuse](/fr/blog/lastrologie-nest-pas-une-excuse/) est une proche cousine du contournement.
 - La pensée positive utilisée comme un couvercle : répéter que tout va bien pour ne pas avoir à vérifier si c’est vrai. Il y a une vraie différence entre [une affirmation et la positivité toxique](/fr/blog/affirmations-ou-positivite-toxique/).
 
-Une carte illustre très bien tout ça : le Huit d’Épées, une femme aux yeux bandés entourée de lames. Mes notes la décrivent enfermée par elle-même, avec pourtant de quoi s’en aller : le bandeau, elle peut l’enlever.
+Une carte illustre très bien tout ça : le Huit d’Épées, où une silhouette au bandeau se tient au milieu d’une clôture de lames. Mes notes la décrivent enfermée par elle-même, avec pourtant de quoi s’en aller : le bandeau, elle peut l’enlever.
 
 {{< cards "sw08" >}}
 
@@ -65,7 +65,7 @@ En douceur, et à peu près dans cet ordre :
 
 1. Dites la phrase toute bête avant de mélanger : « Je suis triste. » « Je suis en colère. » « J’ai peur de décider. » Si vous arrivez à la dire, vous n’aurez peut-être pas besoin des cartes pour celle-là.
 2. Interrogez-vous vous-même, pas la situation ni l’autre personne.
-3. Soyez aussi doux et tolérant avec vous-même que vous l’êtes avec les autres. Cette phrase vient de mes propres notes sur le travail sur l’ombre, et c’est celle à laquelle je reviens le plus.
+3. Accordez-vous la même indulgence que celle que vous offrez aux autres. L’idée vient de mes propres notes sur le travail sur l’ombre, et c’est celle à laquelle je reviens le plus.
 4. Quand c’est plus lourd que ce que des cartes peuvent porter, poussez une autre porte. Parfois, ce qu’on contourne est psychologique, et un thérapeute est la bonne personne. [Je dis où se trouve cette porte](/fr/avertissements/#therapie), et y frapper n’a rien d’un échec de votre pratique.
 
-Si vous cherchez par où commencer, [le travail sur l’ombre pour débuter](/fr/blog/travail-sur-lombre/) part d’une carte, de quelques questions honnêtes et d’un carnet, tournés vers ce que vous contournez depuis trop longtemps.
+Si vous cherchez par où commencer, [ma porte d’entrée vers le travail sur l’ombre](/fr/blog/travail-sur-lombre/) part d’une carte, de quelques questions honnêtes et d’un carnet, tournés vers ce que vous contournez depuis trop longtemps.

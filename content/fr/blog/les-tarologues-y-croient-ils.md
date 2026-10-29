@@ -29,7 +29,7 @@ Je ne crois pas que les cartes soient magiques. Ce sont 78 images dessinées en 
 
 Je ne crois pas non plus au don : mes élèves ont tous lu au bout d’un à trois essais.
 
-Et je ne prétends pas savoir comment ça marche. Personne ne le sait, y compris ceux qui vendent des certitudes à ce sujet. Je passe en revue les quatre explications sérieuses dans [comment marche vraiment le tarot ?](/fr/blog/comment-marche-le-tarot/) et je termine quand même sur « je ne sais pas ».
+Et je ne prétends pas savoir comment ça marche. Personne ne le sait, même parmi ceux qui affichent là-dessus de grandes certitudes. J’examine une à une les quatre explications sérieuses dans [comment marche vraiment le tarot ?](/fr/blog/comment-marche-le-tarot/) et je termine quand même sur « je ne sais pas ».
 
 ## Ce que je crois, parce que j’ai compté {#ce-que-j-ai-compte}
 

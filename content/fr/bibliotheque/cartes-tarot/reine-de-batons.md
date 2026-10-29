@@ -38,7 +38,7 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-Une reine est assise face à nous sur un trône posé sur une estrade de pierre grise. Elle porte une robe jaune, un manteau gris pâle et une couronne surmontée de feuilles vertes. Dans sa main droite, un grand bâton qui bourgeonne ; dans la gauche, un tournesol. Ses genoux sont écartés, ses pieds bien posés : elle est assise comme on l’est chez soi.
+Une reine est assise face à nous sur un trône posé sur une estrade de pierre grise. Elle porte une robe jaune, un manteau gris pâle et une couronne surmontée de feuilles vertes. Elle tient un long bâton en bourgeons de la main droite, un tournesol de la gauche. Ses genoux sont écartés, ses pieds bien posés : elle est assise comme on l’est chez soi.
 
 Des lions partout — des têtes sculptées sur les deux accoudoirs, deux lions rouges dressés sur le haut dossier, parmi des tournesols. Derrière elle, un ciel bleu pâle et, en bas à gauche, la pointe jaune d’une pyramide. Et à ses pieds, tout devant, un chat noir assis nous fait face.
 

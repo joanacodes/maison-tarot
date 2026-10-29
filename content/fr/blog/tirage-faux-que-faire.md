@@ -65,4 +65,4 @@ Quelqu’un de sérieux vous remerciera de votre franchise. Si l’on insiste po
 
 ## À essayer au prochain tirage {#a-essayer}
 
-Avant de commencer, choisissez la phrase que vous direz : « Celui-là est raté. » Dites-la la première fois qu’elle est vraie, notez-la, et regardez comment se passe le tirage suivant. Elle sert aussi entre amis, où elle est plus difficile à dire et compte davantage : voyez [tirer les cartes pour quelqu’un d’autre avec délicatesse](/fr/blog/tirer-les-cartes-pour-quelquun/). Et si vous voulez voir comment les ratés s’inscrivent dans le décompte d’ensemble, tout est sur la [page méthode](/fr/methode/).
+Avant de commencer, choisissez la phrase que vous direz : « Celui-là est raté. » Dites-la la première fois qu’elle est vraie, notez-la, et regardez comment se passe le tirage suivant. Elle sert aussi entre amis, où elle est plus difficile à dire et compte davantage : voyez [lire pour un proche sans abîmer l’amitié](/fr/blog/tirer-les-cartes-pour-quelquun/). La place des ratés dans mon décompte d’ensemble est détaillée sur la [page méthode](/fr/methode/).

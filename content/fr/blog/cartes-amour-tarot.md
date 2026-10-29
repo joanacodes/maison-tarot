@@ -15,7 +15,7 @@ N’importe quelle carte peut sortir dans un tirage amoureux, mais certaines par
 
 ## Ce qui fait d’une lame une carte de l’amour {#carte-de-l-amour}
 
-Trois clés de lecture font l’essentiel du tri. Les Coupes appartiennent à l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les émotions, les relations, les forces cachées. Dans mes notes, l’Eau vous porte si vous vous abandonnez au courant, et elle peut aussi vous engloutir ; ce qu’on ressent sans jamais s’en occuper gagne du terrain en silence, jusqu’à fragiliser toute la maison. Ensuite les nombres : le 2, ce sont deux parties qui se lient, un contrat ; le 6, l’harmonie, la chose qui tourne bien. Et les énergies : une relation, c’est aussi un équilibre entre retenir et agir, peu importe qui fait quoi.
+Trois clés de lecture font l’essentiel du tri. Les Coupes appartiennent à l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les sentiments, les attaches, et les forces qui travaillent sans se montrer. Dans mes notes, l’Eau vous porte si vous vous abandonnez au courant, et elle peut aussi vous engloutir ; ce qu’on ressent sans jamais s’en occuper gagne du terrain en silence, jusqu’à fragiliser toute la maison. Ensuite les nombres : le 2, l’alliance de deux parties, scellée comme un contrat ; le 6, l’harmonie, la chose qui tourne bien. Et les énergies : une relation, c’est aussi un équilibre entre retenir et agir, peu importe qui fait quoi.
 
 **Une carte de l’amour décrit le lien et la façon dont vous le vivez ; elle ne vous dit pas ce que pense l’autre.**
 
@@ -35,7 +35,7 @@ Trois autres ouvrent des portes. Le [Magicien](/fr/blog/le-bateleur-tarot-amour/
 
 ## Les cartes des tournants {#les-tournants}
 
-Celles-ci disent que quelque chose bouge, pas ce qu’il faut en faire. La [Roue de Fortune](/fr/blog/la-roue-de-fortune-tarot-amour/) est un tournant, et votre part dedans : dans mes notes, c’est à vous de tourner la roue. [Le Jugement](/fr/blog/le-jugement-tarot-amour/) est un second regard sur une relation, ni bon ni mauvais. [Le Pendu](/fr/blog/le-pendu-tarot-amour/), une pause, un autre angle, et quoi faire en attendant.
+Celles-ci disent que quelque chose bouge, pas ce qu’il faut en faire. La [Roue de Fortune](/fr/blog/la-roue-de-fortune-tarot-amour/) est un tournant, et votre part dedans : dans mes notes, c’est à vous de tourner la roue. [Le Jugement](/fr/blog/le-jugement-tarot-amour/) fait relire une histoire avec des yeux neufs, et ne tranche ni en bien ni en mal. [Le Pendu](/fr/blog/le-pendu-tarot-amour/), une pause, un autre angle, et quoi faire en attendant.
 
 [La Mort](/fr/blog/la-mort-tarot-amour/) met fin à une façon d’être ensemble — pas à une personne, et pas forcément à la relation. [La Tour](/fr/blog/la-tour-tarot-amour/), c’est quand tout tremble ; le français a d’ailleurs un mot pour la foudre en amour, le coup de foudre, sauf qu’ici elle fait tomber la tour. [La Lune](/fr/blog/la-lune-tarot-amour/), c’est le doute, et la façon de lire ce qui bouge sous la surface sans prendre une peur pour un fait.
 
@@ -43,7 +43,7 @@ Celles-ci disent que quelque chose bouge, pas ce qu’il faut en faire. La [Roue
 
 Le [Trois d’Épées](/fr/blog/trois-depees-amour/) est la peine de cœur ; mes notes y voient aussi un engagement signé avec le sang, ce qui change beaucoup de choses à côté du Deux de Coupes. Le [Cinq de Coupes](/fr/blog/cinq-de-coupes-amour/) pleure ce qui s’est renversé ; deux coupes tiennent encore debout derrière lui. Le [Neuf d’Épées](/fr/blog/neuf-depees-amour/), ce sont les nuits blanches de trois heures du matin, et comment les apaiser.
 
-Le [Huit d’Épées](/fr/blog/huit-depees-amour/), c’est se sentir pris au piège en tenant tous les outils — le bandeau peut tomber. Le [Dix d’Épées](/fr/blog/dix-depees-amour/) est le pire dessin du jeu, avec l’aube à l’horizon. [Le Diable](/fr/blog/le-diable-tarot-amour/), c’est l’attachement, et des chaînes dont on pourrait sortir la tête.
+Le [Huit d’Épées](/fr/blog/huit-depees-amour/), c’est se sentir pris au piège en tenant tous les outils — le bandeau peut tomber. Le [Dix d’Épées](/fr/blog/dix-depees-amour/) montre la scène la plus dure des 78 cartes, et pourtant l’aube pointe au fond. [Le Diable](/fr/blog/le-diable-tarot-amour/), c’est l’attachement, et des chaînes dont on pourrait sortir la tête.
 
 {{< cards "ar13 ar16 ar15 sw03 cu05 sw10" >}}
 
@@ -51,10 +51,10 @@ Les paires changent tout cela. Les Amoureux à côté du Diable, ce n’est pas 
 
 ## Ce que je ne lis pas en amour, et ce que je propose à la place {#ce-que-je-ne-lis-pas}
 
-« Va-t-il revenir ? » « Que pense-t-elle de moi ? » « Voit-il quelqu’un ? » Je comprends d’où viennent ces questions — du manque, ou de la peur. Mais elles portent sur une personne qui n’est pas dans la pièce. Lire quelqu’un sans son accord, c’est un peu comme fouiller sa chambre ; et quelqu’un qui ignore être lu reste fermé : vous n’en saisissez qu’un fragment, sur lequel on échafaude tout un récit.
+« Va-t-il revenir ? » « Que pense-t-elle de moi ? » « Voit-il quelqu’un ? » Je comprends d’où viennent ces questions — du manque, ou de la peur. Mais elles visent quelqu’un d’absent. Le lire à son insu revient à entrer dans sa chambre quand il n’est pas là ; et quelqu’un qui ignore être lu reste fermé : vous n’en saisissez qu’un fragment, sur lequel on échafaude tout un récit.
 
-Même chose pour le thème astral de quelqu’un qui vous plaît : dans mes notes, laissez la magie opérer entre vous deux. Ces questions vous font aussi attendre dans la vie de quelqu’un d’autre. Une question plus douce vous ramène dans la vôtre : « De quoi ai-je besoin dans une relation en ce moment ? » ou « À quoi est-ce que je m’accroche encore ? » J’explique celle-là dans [« Va-t-il revenir ? » et une question plus douce](/fr/blog/va-t-il-revenir-tarot/), et la règle générale dans [tirer les cartes sur quelqu’un d’autre](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/).
+Même chose pour le thème astral de quelqu’un qui vous plaît : mes notes disent de laisser faire la magie, à deux. Ces questions vous font aussi attendre dans la vie de quelqu’un d’autre. Ramenez plutôt la question dans votre propre vie : « De quoi ai-je besoin dans une relation en ce moment ? » ou « Qu’est-ce que je retiens encore, et pourquoi ? » J’explique celle-là dans [ma réponse à « Va-t-il revenir ? »](/fr/blog/va-t-il-revenir-tarot/), et la règle générale dans [tirer les cartes sur quelqu’un d’autre](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/).
 
 ## Un tirage amour à essayer {#a-essayer}
 
-Si vous voulez poser ces cartes sur une vraie question, le [tirage amour](/fr/blog/tirage-tarot-amour/) est une disposition honnête sur votre côté de la relation. Et si elle vient de se terminer, il y en a un plus doux dans [tarot après une rupture](/fr/blog/tirage-apres-rupture/), conçu pour prendre soin de vous plutôt que pour prédire le retour de qui que ce soit.
+Si vous voulez poser ces cartes sur une vraie question, le [tirage amour](/fr/blog/tirage-tarot-amour/) est une disposition honnête sur votre côté de la relation. Et si elle vient de se terminer, il y en a un plus doux dans [tarot après une rupture](/fr/blog/tirage-apres-rupture/), conçu pour vous remettre d’aplomb, sans rien prédire du retour de qui que ce soit.

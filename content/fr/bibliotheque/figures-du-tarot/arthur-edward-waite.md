@@ -43,13 +43,13 @@ Il entre dans l’Ordre hermétique de la Golden Dawn en janvier 1891, le quitte
 
 ## Ce qu’il a fait pour le tarot {#tarot}
 
-En 1909, il demande à Pamela Colman Smith, elle aussi membre de la Golden Dawn, de dessiner un jeu complet. William Rider & Son le publie à Londres en décembre 1909, avec un petit livre de Waite, *The Key to the Tarot*. Le *Pictorial Key to the Tarot*, plus complet, suit en 1910 (on le date souvent de 1911), illustré des 78 cartes de Smith et sous-titré « being fragments of a secret tradition under the veil of divination » : des fragments d’une tradition secrète, sous le voile de la divination.
+En 1909, il demande à Pamela Colman Smith, elle aussi membre de la Golden Dawn, de dessiner un jeu complet. L’éditeur londonien William Rider & Son le met en vente en décembre 1909, accompagné de *The Key to the Tarot*, un court texte de Waite. Le *Pictorial Key to the Tarot*, plus complet, suit en 1910 (on le date souvent de 1911), illustré des 78 cartes de Smith et sous-titré « being fragments of a secret tradition under the veil of divination » : des fragments d’une tradition secrète, sous le voile de la divination.
 
 Sa part, c’est le programme. Le Victoria and Albert Museum note qu’il a donné à Smith des consignes précises pour les majeurs, et plusieurs s’écartent nettement du Marseille. L’Amoureux, un jeune homme entre deux femmes au tarot de Marseille, devient les Amoureux : un homme et une femme nus sous un ange. Le Soleil, deux enfants au Marseille, devient un seul enfant sur un cheval blanc.
 
 {{< cards "ar06 ar19 ar08 ar11" >}}
 
-Et il inverse deux cartes. Si vous avez appris sur le Marseille, vous connaissez la Justice en VIII et la Force en XI. Waite donne le VIII à la [Force](/fr/bibliotheque/cartes-tarot/la-force/) et le XI à la Justice. Il suit la Golden Dawn, qui associe la huitième carte au Lion et la onzième à la Balance : le lion du signe va avec la Force, les plateaux avec la Justice. Dans le *Pictorial Key*, il refuse de s’en expliquer et écrit, en substance, que le changement ne signifie rien pour le lecteur.
+Et il inverse deux cartes. Si vous avez appris sur le Marseille, vous avez l’habitude de trouver la Justice au huitième rang et la Force au onzième. Waite donne le VIII à la [Force](/fr/bibliotheque/cartes-tarot/la-force/) et le XI à la Justice. Il suit la Golden Dawn, qui associe la huitième carte au Lion et la onzième à la Balance : le lion du signe va avec la Force, les plateaux avec la Justice. Dans le *Pictorial Key*, il refuse de s’en expliquer et écrit, en substance, que le changement ne signifie rien pour le lecteur.
 
 **Le livre compte autant que le jeu : Waite y donne pour chaque carte une courte signification divinatoire, à l’endroit et à l’envers, et bien des listes de mots-clés actuelles en gardent l’écho.**
 

@@ -26,12 +26,13 @@ related:
 - /bibliotheque/astrologie/mercure
 faq:
 - q: Quelle carte de tarot correspond à la Vierge ?
-  a: L’Ermite, dans la tradition Golden Dawn reprise par le Rider-Waite-Smith. Quand
-    elle sort, le signe donne son verbe, son élément et son mode d’un coup.
-- q: 'Je suis Vierge : est-ce que cette carte est « ma » carte ?'
-  a: C’est une entrée, pas une identité. La carte parle à n’importe qui de la même
-    chose ; votre signe vous aide seulement à la reconnaître plus vite. L’astrologie
-    n’est pas une excuse.
+  a: 'L’Ermite. Le rapprochement vient de la Golden Dawn, et le Rider-Waite-Smith
+    en hérite : un homme retiré à l’écart, qui examine avant de faire un pas — ce
+    que la Vierge sait faire de mieux.'
+- q: Une Vierge doit-elle lire l’Ermite comme son portrait ?
+  a: 'Il ne fait le portrait de personne : à quiconque le tire, il parle de recul et
+    d’examen attentif. Si vous êtes Vierge, posez-vous plutôt la question que le signe
+    oublie volontiers : au service de qui mettez-vous tout ce soin ?'
 gallery:
 - src: "visuals/sign-virgo/1.jpg"
   title: "Analyser, trier"
@@ -78,7 +79,7 @@ Jinx dans Arcane ; l’ingénieur, le conseiller du trône, le manager.
 
 ## Sa carte : L’Ermite {#carte}
 
-Quand [l’Ermite](/fr/bibliotheque/cartes-tarot/l-ermite/) sort, la Vierge est là : quelqu’un s’est retiré pour comprendre, analyse avant d’agir, éclaire un pas à la fois. Bien posé, c’est la solution que personne ne voyait. Mal posé, c’est le service rendu à la mauvaise cause.
+Sur [l’Ermite](/fr/bibliotheque/cartes-tarot/l-ermite/), la Vierge s’est mise à l’écart pour examiner les choses une à une ; sa lanterne n’éclaire jamais qu’un mètre devant elle, et c’est ce mètre-là qu’elle vérifie. De ce retrait sort parfois la réponse que tout le monde avait sous les yeux. Le même soin peut aussi servir, sans la moindre question, une cause qui ne le méritait pas.
 
 {{< cards "ar09" >}}
 

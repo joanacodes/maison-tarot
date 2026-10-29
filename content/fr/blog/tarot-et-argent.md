@@ -15,7 +15,7 @@ Les Pentacles sont la famille de l’argent, mais ils parlent de valeur plus que
 
 ## Quelles lames parlent d’argent au tarot {#lames-argent}
 
-Les Pentacles appartiennent à la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, la prospérité, ce qui a de la valeur pour vous. Lus par leurs nombres, ils racontent toute une histoire de sécurité.
+Les Pentacles appartiennent à la [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la prospérité, la matière, et les biens auxquels vous tenez, qu’ils aient un prix ou non. Lus par leurs nombres, ils racontent toute une histoire de sécurité.
 
 L’As de Pentacles est une pièce tendue au-dessus d’un jardin — du concret sur quoi bâtir. Le Quatre serre sa pièce des deux bras : une sécurité qui ne lâche rien. Le Cinq marche dans la neige sous une fenêtre éclairée : la dureté, avec une chaleur plus proche qu’il n’y paraît. Le Six tient une balance : connaître la valeur, donner et recevoir avec justesse. Le Neuf montre une femme dans sa vigne : profiter de ce qui est là, la gratitude pour ce qu’on a. Le Dix réunit toute une famille sous une arche : l’abondance complète au foyer.
 
@@ -27,9 +27,9 @@ Quelques majeurs les rejoignent. L’Impératrice nourrit — l’abondance, ce 
 
 **Les Pentacles décrivent votre rapport à la valeur ; ils ne prédisent pas votre solde bancaire.**
 
-## Toutes les richesses ne sont pas en or {#pas-tout-en-or}
+## Les Pentacles, au-delà de l’argent {#pas-tout-en-or}
 
-Dans mes notes, la Terre désigne ce qui a de la valeur *pour vous* — de l’argent, ou quelque chose de sentimental. C’est la ténacité et l’endurance, et l’entêtement aussi. Son archétype : le manager d’un artiste qui travaille dans l’ombre, stable et fiable, et qui parfois n’écoute plus parce que son plan « rapporte plus ».
+Dans mes notes, la Terre désigne ce qui vaut quelque chose *pour vous* — de l’argent, ou quelque chose de sentimental. C’est la ténacité et l’endurance, et l’entêtement aussi. Son archétype : le manager d’un artiste qui travaille dans l’ombre, stable et fiable, et qui parfois n’écoute plus parce que son plan « rapporte plus ».
 
 Une carte de Pentacles ne parle donc pas toujours de fiche de paie. Le [Dix de Pentacles](/fr/bibliotheque/cartes-tarot/dix-de-pentacles/) peut être la maison de la grand-mère pleine de monde le dimanche ; elle ne durera peut-être pas, et pourtant elle vous attendra si vous quittez le cocon. Un Neuf peut être un jardin dont vous avez enfin le temps de vous occuper. Même le Cinq, la lame la plus rude de la famille, réunit dans mes notes la misère, la neige *et* le vitrail allumé d’une église, abri possible à quelques pas : au plus bas, la Terre montre encore l’aide toute proche.
 

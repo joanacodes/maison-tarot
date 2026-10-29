@@ -51,7 +51,7 @@ Interrogez la journée, pas les grandes décisions. Le tarot n’est pas une aut
 
 Ne retirez pas une carte parce que la réponse ne vous plaisait pas. La deuxième carte est une négociation, pas une lecture.
 
-Et ne tirez pas vingt fois par jour. Si vous vous surprenez à attraper le jeu toutes les heures, ce n’est plus de l’entraînement, c’est une recherche de réassurance.
+Et ne tirez pas vingt fois par jour. Quand la main revient au jeu d’heure en heure, l’entraînement est devenu une recherche de réassurance.
 
 ## Tenez un carnet, même sans personne pour vérifier {#carnet}
 

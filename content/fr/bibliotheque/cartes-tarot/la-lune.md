@@ -29,7 +29,7 @@ faq:
 - q: 'Que signifie La Lune en amour ?'
   a: 'En amour, la Lune montre souvent ce qui n’est pas encore dit, d’un côté comme de l’autre, et les histoires qu’on se raconte dans les silences. Elle demande de la patience et des questions franches plutôt que des conclusions.'
 - q: 'Que dit La Lune pour le travail ?'
-  a: 'L’incertitude au travail : une rumeur, un entretien resté sans réponse, un poste que personne n’a vraiment défini. Elle vous demande de ne pas décider dans le brouillard, et de vérifier ce que vous savez vraiment.'
+  a: 'L’incertitude au travail : une rumeur, un entretien resté sans réponse, un poste que personne n’a vraiment défini. Le conseil : attendre que la brume se lève avant de trancher, et vérifier ce que vous savez vraiment.'
 categories:
 - Arcane majeur
 tags:

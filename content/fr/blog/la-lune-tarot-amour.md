@@ -9,15 +9,15 @@ tags: ["la Lune tarot amour", "la Lune relation", "la Lune inversée amour", "do
 image: "covers/moon-tarot-love.jpg"
 imageAlt: "La carte de la Lune du tarot Rider-Waite-Smith posée à l’endroit sur une table en bois nu."
 imagePrompt: "The Moon card from the 1909 Rider-Waite-Smith deck lying upright on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, the card in its original colours, warm natural colours around it that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "En amour, la Lune, c’est l’incertitude : vous ne voyez pas clair, et l’imagination comble les trous — avec des espoirs autant qu’avec des peurs. Elle ne prouve pas que quelqu’un ment ou cache quelque chose. C’est une carte d’Eau dont le 18 se ramène à 9, la dernière ligne droite d’une étape : le brouillard de la fin d’une période, pas le début d’une route perdue. Pour lire ce qui se cache sous la surface, séparez ce que vous savez de ce que vous imaginez, cherchez votre propre part avant celle de l’autre, et laissez passer du temps avant de décider quoi que ce soit."
+summary: "En amour, la Lune décrit une relation qu’on voit mal : là où l’information manque, l’imagination prend le relais, avec des espoirs autant qu’avec des peurs. Elle ne prouve pas que quelqu’un ment ou cache quelque chose. Carte d’Eau, elle porte le 18, réduit à 9 : la dernière ligne droite d’une étape : le brouillard de la fin d’une période, pas le début d’une route perdue. Pour lire ce qui se cache sous la surface, séparez ce que vous savez de ce que vous imaginez, cherchez votre propre part avant celle de l’autre, et laissez passer du temps avant de décider quoi que ce soit."
 ---
-La Lune en amour, c’est l’incertitude : vous ne voyez pas clair, et votre imagination comble les trous — avec des espoirs autant qu’avec des peurs. Elle ne prouve pas que quelqu’un vous ment. Sa question est moins « qu’est-ce qu’il me cache ? » que « qu’est-ce que je ne regarde pas encore ? »
+La Lune en amour, c’est le flou : vous ne voyez pas clair, et ce qui manque, votre imagination l’invente — en espoirs autant qu’en peurs. Elle ne prouve pas que quelqu’un vous ment. Sa question est moins « qu’est-ce qu’il me cache ? » que « qu’est-ce que je ne regarde pas encore ? »
 
 {{< cards "ar18" >}}
 
 ## La face cachée de l’eau dormante {#face-cachee}
 
-La Lune est une carte d’Eau, et l’Eau, c’est ce que deux personnes ressentent l’une pour l’autre. Dans mes notes, la Lune est ce qui fait bouger l’eau, et elle a une face cachée : l’eau dormante vous montre une surface et garde le reste. Dans une relation, c’est le sentiment que personne n’a encore nommé — celui de l’autre, et bien souvent le vôtre.
+La Lune appartient à l’Eau, et l’Eau, c’est ce que deux personnes ressentent l’une pour l’autre. Dans mes notes, la Lune est ce qui fait bouger l’eau, et elle a une face cachée : l’eau dormante vous montre une surface et garde le reste. Dans une relation, c’est le sentiment que personne n’a encore nommé — celui de l’autre, et bien souvent le vôtre.
 
 Son nombre, 18, se ramène à 1 + 8 = 9 : la dernière ligne droite d’une étape. La Lune sort donc rarement au début d’une histoire d’amour. Elle sort dans le brouillard de la fin d’une période, dans les semaines qui précèdent une conversation qui finit enfin par avoir lieu.
 
@@ -41,7 +41,7 @@ Le soupçon vise une personne absente de la lecture, et je ne lis pas sur elle ;
 
 Je vous propose plutôt trois questions à la suite : « Qu’est-ce que je sais pour de bon ? Qu’est-ce que j’invente ? Que faudrait-il lui demander en face ? » La réponse se trouve dans la troisième : dans une conversation, en plein jour.
 
-Le chien et le loup de la carte hurlent vers la même lumière. La peur de la nuit est vieille et très humaine, et avoir peur du noir, c’est parfois avoir peur de sa propre ombre — l’endroit où l’on range ce qu’on n’a jamais voulu regarder. Avant, j’attendais toujours la lumière pour entrer dans une pièce sombre ; j’ai écrit sur [ce qui a changé](/fr/blog/peur-du-noir/).
+Le chien et le loup de la carte hurlent vers la même lumière. La peur de la nuit est vieille et très humaine, et elle en cache parfois une autre : la crainte de notre ombre, ce recoin où dort ce qu’on a toujours refusé de voir. Moi-même, longtemps, je n’entrais dans aucune pièce obscure sans allumer d’abord ; j’ai écrit sur [ce qui a changé](/fr/blog/peur-du-noir/).
 
 ## Ce qui fait surface plus tard {#ce-qui-fait-surface}
 
@@ -62,7 +62,7 @@ Les cartes autour d’elle disent dans quel sens va le brouillard.
 
 {{< cards "swqu sw09 ar19" >}}
 
-À côté de la Reine d’Épées, il se lève par les mots : une question claire et bienveillante, posée à voix haute ([la Reine d’Épées en amour](/fr/blog/reine-depees-amour/) parle de la façon de la poser). À côté du Neuf d’Épées, il s’épaissit la nuit, aux heures où personne ne peut répondre. À côté du Soleil, la carte qui la suit dans le jeu, ce qui était flou arrive en plein jour.
+À côté de la Reine d’Épées, il se lève par les mots : une question claire et bienveillante, posée à voix haute ([la Reine d’Épées en amour](/fr/blog/reine-depees-amour/) parle de la façon de la poser). À côté du Neuf d’Épées, il s’épaissit la nuit, aux heures où personne ne peut répondre. Avec le Soleil, qui vient juste après elle parmi les arcanes, ce qui était flou arrive en plein jour.
 
 ## Ce qui remonte du bassin {#bassin}
 

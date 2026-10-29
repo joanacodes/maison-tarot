@@ -9,13 +9,13 @@ tags: ["faut-il croire au tarot", "le tarot marche-t-il si on n’y croit pas", 
 image: "covers/do-you-have-to-believe-in-tarot.jpg"
 imageAlt: "Une personne assise à une table, les bras croisés, une carte posée face visible devant elle"
 imagePrompt: "A person seen from the shoulders down sitting at a wooden table with arms folded, a single card lying face up in front of them. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Non. Rien, dans une lecture à l’aveugle, ne demande d’y croire : la personne ne dit rien, celle qui lit dit ce qui vient, et la personne dit à la fin si ça a tenu. Ceux qui doutent sont même, à mon avis, dans le meilleur état possible pour être lus : ils ne comblent pas les trous à la place de la tarologue, et leur « oui » vaut davantage. Ce qu’un tirage demande vraiment, c’est de l’ouverture — accepter d’être lu et répondre honnêtement — et ce qui le ferme, c’est plutôt la peur que le doute."
+summary: "Non. Rien, dans une lecture à l’aveugle, ne demande d’y croire : la personne ne dit rien, celle qui lit dit ce qui vient, et la personne dit à la fin si ça a tenu. Ceux qui doutent sont même, à mon avis, les mieux placés pour être lus : ils ne comblent pas les trous à la place de la tarologue, et leur « oui » vaut davantage. Ce qu’un tirage demande vraiment, c’est de l’ouverture — accepter d’être lu et répondre honnêtement — et ce qui le ferme, c’est plutôt la peur que le doute."
 ---
-Non. Certaines des personnes que j’ai lues doutaient ouvertement, et à mon avis le doute est le meilleur état possible pour quelqu’un qu’on lit. Ce qu’un tirage demande, ce n’est pas de la croyance. C’est de l’ouverture : quelqu’un qui accepte de s’asseoir, ne me dit rien, et répond honnêtement à la fin.
+Non. Certaines des personnes que j’ai lues doutaient ouvertement, et à mon avis, rien ne vaut le doute chez la personne qu’on lit. Ce qu’un tirage demande, ce n’est pas de la croyance. C’est de l’ouverture : quelqu’un qui accepte de s’asseoir, ne me dit rien, et répond honnêtement à la fin.
 
 ## Le tarot marche-t-il si on n’y croit pas ? {#reponse-courte}
 
-Dans ma façon de lire, la croyance n’intervient à aucun moment. La personne ne me dit rien — ni sa question, ni sa situation. Je tire, je dis ce qui vient, et elle me dit après coup si ça a tenu. Puis ça part dans mon carnet : tenu, ou raté.
+Dans ma façon de lire, la croyance n’intervient à aucun moment. La personne ne me dit rien — ni sa question, ni sa situation. Les cartes sortent, je parle, et c’est elle qui me dit après coup si ça a tenu. Puis ça part dans mon carnet : tenu, ou raté.
 
 Nulle part dans cette boucle la personne n’a besoin de croire quoi que ce soit. Il y a en revanche une étape où elle doit être honnête. C’est beaucoup moins demander, et beaucoup plus utile.
 
@@ -39,7 +39,7 @@ Ce qui ferme une lecture, d’après mon expérience, ce n’est pas le doute. C
 
 ## Et la personne qui lit, doit-elle y croire ? {#la-tarologue}
 
-Pas au sens où on l’entend d’habitude. J’ai commencé à lire le 26 décembre 2020, en m’attendant à devoir m’entraîner avant que quoi que ce soit tombe juste. Je n’y croyais pas, et la toute première lecture a tenu quand même.
+Pas au sens où on l’entend d’habitude. J’ai commencé à lire le 26 décembre 2020, persuadée qu’il me faudrait m’exercer avant de viser juste. Je n’y croyais pas, et la toute première lecture a tenu quand même.
 
 Aujourd’hui, avant chaque lecture, je me répète que je vais dire des absurdités. Plus j’abaisse mes attentes, plus c’est juste. Une tarologue sûre de son don a tendance à sauver ses lectures au lieu de dire ce qui vient.
 

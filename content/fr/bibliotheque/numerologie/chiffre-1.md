@@ -94,13 +94,13 @@ Vous savez déjà qu’elles parlent d’un début ; l’[élément](/fr/bibliot
 - [As de Bâtons](/fr/bibliotheque/cartes-tarot/as-de-batons/) — 1 + Feu : une envie, un élan, une idée qui pousse.
 - [As de Coupes](/fr/bibliotheque/cartes-tarot/as-de-coupes/) — 1 + Eau : une émotion neuve, une relation qui commence, un cœur qui se rouvre.
 - [As d’Épées](/fr/bibliotheque/cartes-tarot/as-de-epees/) — 1 + Air : une idée claire, une décision qui vient de tomber, une vérité qui perce.
-- [As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/) — 1 + Terre : une opportunité concrète, de l’argent qui arrive, un projet qui a enfin une base.
+- [As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/) — 1 + Terre : une opportunité concrète, de l’argent qui rentre, un projet qui trouve enfin son socle.
 
 {{< cards "ar01 waac cuac swac peac" >}}
 
 ## En lecture {#lecture}
 
-Un 1 dans un tirage dit : **quelque chose vient de commencer, ou est sur le point de le faire**. Regardez la carte d’à côté pour savoir si la personne le sait. À côté d’un [Dix](/fr/bibliotheque/numerologie/chiffre-10/), c’est la page qui se tourne. À côté d’un [Cinq](/fr/bibliotheque/numerologie/chiffre-5/), c’est un départ déjà contesté. Seul, c’est une invitation à ne pas courir.
+Un 1 dans un tirage dit : **quelque chose vient de commencer, ou est sur le point de le faire**. C’est sa voisine dans le tirage qui vous dira si la personne s’en est aperçue. À côté d’un [Dix](/fr/bibliotheque/numerologie/chiffre-10/), c’est la page qui se tourne. À côté d’un [Cinq](/fr/bibliotheque/numerologie/chiffre-5/), c’est un départ déjà contesté. Seul, c’est une invitation à ne pas courir.
 
 Un tirage entier sans aucun 1 dit autre chose : rien ne commence ici, tout est déjà en cours. C’est une information aussi.
 

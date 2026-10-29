@@ -21,7 +21,7 @@ Trois clés de lecture, lues pour un couple. Le nombre : 13 se ramène à 1 + 3 
 
 L’élément, c’est l’Eau : les émotions, les relations. Dans mes notes, une émotion négligée s’infiltre dans une maison comme la moisissure dans un mur — lentement, et plus profond que le feu n’ira jamais. En amour, la Mort arrive souvent après une chose restée longtemps non dite ; la lame, c’est le moment du grand ménage. L’énergie est féminine : le changement se fait d’abord à l’intérieur, et se voit après.
 
-Ma propre note sur cette carte parle de moisson, pas de tombe : elle est liée au recommencement, à l’envie de rendre la vie de nouveau fertile. Le tarot de Marseille donne une faux au squelette et laisse la lame sans titre ([pourquoi on l’appelle l’arcane sans nom](/fr/blog/arcane-sans-nom-tarot/)). Pour le squelette à cheval et les couleurs, voyez [la page de la Mort](/fr/bibliotheque/cartes-tarot/la-mort/).
+Dans mes notes, cette lame évoque la moisson plutôt que la tombe : elle est liée au recommencement, à l’envie de rendre la vie de nouveau fertile. Le tarot de Marseille donne une faux au squelette et laisse la lame sans titre ([pourquoi on l’appelle l’arcane sans nom](/fr/blog/arcane-sans-nom-tarot/)). Pour le squelette à cheval et les couleurs, voyez [la page de la Mort](/fr/bibliotheque/cartes-tarot/la-mort/).
 
 ## Le nom fait peur, alors on demande si c’est fini {#cest-fini}
 
@@ -29,7 +29,7 @@ C’est la question que presque tout le monde apporte avec cette lame, et elle s
 
 Cette question-là, je ne la lis pas, pour plusieurs raisons. D’abord, aucune carte ne décide à la place de deux personnes. L’autre n’assiste pas à la lecture, et ce qu’il ou elle ressent lui appartient : ce n’est pas à moi de le lire, ni à un jeu de cartes. Et « c’est fini ? », posé encore et encore, revient chaque fois un peu plus inquiet. Plus on demande, moins on entend.
 
-Une question plus douce : « Qu’est-ce qui, dans cette relation, a fini sa saison, et qu’est-ce que j’ai envie de semer ? » Ou, si vous êtes séparés : « Qu’est-ce que j’attends encore, et que ferais-je de mes soirées si j’arrêtais d’attendre ? » Ces questions-là ont des réponses sur lesquelles vous pouvez agir dès demain matin. Elles rendent aussi à la carte son vrai rôle : vous montrer le champ, pas vous dire qui en sortira.
+Changez plutôt de question, à l’image de la carte qui fauche pour laisser repousser : « Qu’est-ce qui, dans cette relation, est arrivé au bout de sa saison, et qu’est-ce que j’ai envie de semer ? » Ou, si vous êtes séparés : « Qu’est-ce que j’attends encore, et que ferais-je de mes soirées si j’arrêtais d’attendre ? » Ces questions-là ont des réponses sur lesquelles vous pouvez agir dès demain matin. Elles rendent aussi à la carte son vrai rôle : vous montrer le champ, pas vous dire qui en sortira.
 
 Une chose encore, dite clairement parce que le nom fait peur : la Mort n’annonce le décès de personne, et elle ne dit rien de la santé de qui que ce soit. Ce sont des questions sur lesquelles je ne lis pas du tout, et j’ai expliqué [pourquoi un tarologue prudent s’en écarte](/fr/blog/sante-grossesse-deces-tarot/).
 

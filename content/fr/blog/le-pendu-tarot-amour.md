@@ -19,7 +19,7 @@ En amour, le Pendu est une pause, pas un verdict. Quelque chose est en suspens �
 
 Le Pendu porte le 12, et 1 + 2 = [3](/fr/bibliotheque/numerologie/chiffre-3/) : un rythme trouvé, un accord qui tient ses promesses. Dans mes notes, le 3 demande de finir ce qu’on a commencé avant de se lancer ailleurs ; son revers, c’est d’accumuler les débuts sans rien boucler. En amour, c’est presque toute la lame : ne pas passer au chapitre suivant tant que celui-ci reste ouvert.
 
-L’élément est l’Eau — l’émotion, ce qui coule — et l’énergie est féminine : la patience, la réflexion, ce qui se joue en coulisses. Une pause en amour, c’est une affaire d’Eau. Les sentiments continuent de bouger pendant que rien ne se passe au-dehors, et un sentiment dont on ne parle pas ne reste pas immobile pour autant : c’est sous une surface tranquille qu’il travaille le plus. Dans mes notes, il s’infiltre partout avec le temps, comme la moisissure qui ronge lentement une maison.
+L’élément est l’Eau — l’émotion, ce qui coule — et l’énergie est féminine : la patience, la réflexion, ce qui se joue en coulisses. Une pause en amour, c’est une affaire d’Eau. Les sentiments continuent de bouger pendant que rien ne se passe au-dehors, et un sentiment dont on ne parle pas ne reste pas immobile pour autant : c’est sous une surface tranquille qu’il travaille le plus. Mes notes le comparent à l’eau qui finit par passer à travers tout, ou à l’humidité qui gagne un mur sans faire de bruit.
 
 Observez son visage : il est calme, et un halo de lumière entoure sa tête. **Le Pendu n’est pas coincé : il s’est arrêté, et toute la différence tient à ce que vous faites de ce temps.** Neptune et les couleurs sont sur [la page du Pendu](/fr/bibliotheque/cartes-tarot/le-pendu/).
 
@@ -31,7 +31,7 @@ Je ne lis pas ce que quelqu’un d’autre va décider, et je ne donne pas de da
 
 Certaines personnes reviennent avec la même question, encore et encore, et c’est souvent le Pendu qui est sur la table quand elles reviennent. Si vous l’avez tiré trois fois cette semaine en posant la même question, ce ne sont pas les cartes qui sont coincées : c’est la question ([pourquoi tirer en boucle ne fait pas avancer](/fr/blog/combien-de-temps-entre-deux-tirages/)).
 
-Une question plus douce : « Qu’est-ce que j’attends, au juste, et que ferais-je de ce temps si la réponse ne venait jamais ? » Celle-là a une réponse sur laquelle vous pouvez agir dès aujourd’hui.
+Puisque le Pendu parle d’attente, interrogez la vôtre : « Qu’est-ce que j’attends, au juste, et que ferais-je de ce temps si la réponse ne venait jamais ? » Celle-là a une réponse sur laquelle vous pouvez agir dès aujourd’hui.
 
 ## Remis à l’endroit trop tôt {#inverse}
 
@@ -53,9 +53,9 @@ Après une rupture, le Pendu, c’est l’entre-deux. La relation est finie et l
 
 {{< cards "ar20 cu02 cu08" >}}
 
-À côté du Jugement, la pause devient un bilan : vous portez un second regard sur une relation, et le Pendu vous invite à prendre votre temps pour le faire. J’en parle dans [le Jugement en amour](/fr/blog/le-jugement-tarot-amour/).
+À côté du Jugement, la pause devient un bilan : vous réexaminez une relation, et le Pendu vous invite à prendre votre temps pour le faire. J’en parle dans [le Jugement en amour](/fr/blog/le-jugement-tarot-amour/).
 
-À côté du Deux de Coupes, un lien réel mais en suspens : les deux coupes sont là, personne ne boit encore. La question utile, c’est de savoir qui attend que l’autre lève la sienne en premier, et si l’un de vous l’a dit.
+Près du Deux de Coupes, le lien existe mais reste suspendu : les deux coupes sont là, personne ne boit encore. La question utile, c’est de savoir qui attend que l’autre lève la sienne en premier, et si l’un de vous l’a dit.
 
 À côté du Huit de Coupes, la pause prépare un départ — quelqu’un comprend peu à peu qu’il est temps de quitter ce qu’il a construit.
 

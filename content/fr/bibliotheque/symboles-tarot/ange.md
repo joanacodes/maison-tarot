@@ -8,7 +8,7 @@ weight: 17
 categories: ["Symboles"]
 tags: ["symboles du tarot", "ange", "Tempérance", "le Jugement", "les Amoureux"]
 h1: "L’ange — un regard d’<em>en haut</em>"
-lede: "Dans le Rider-Waite-Smith, l’ange est une figure ailée placée au-dessus des personnages de la carte : il verse, il appelle, il veille sur un choix. Il représente une vue plus large que celle qu’on a depuis le sol."
+lede: "Un ange, au tarot, regarde la scène d’en haut : il verse sur Tempérance, sonne l’appel sur le Jugement, veille sur le choix des Amoureux. Il prête à la carte un point de vue que personne n’a depuis le sol."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/temperance
@@ -53,9 +53,9 @@ Sur une carte, l’ange est une figure ailée placée au-dessus des figures huma
 
 Ce que l’ange fait de ses mains dit le reste. Il verse, il appelle, il ouvre les bras.
 
-## Où il apparaît dans le jeu {#ou}
+## Trois grands anges, et un petit dans un coin {#ou}
 
-Tempérance porte l’ange le plus complet du jeu : des ailes rouges, une robe blanche, un triangle dans un carré sur la poitrine, un pied dans l’eau et l’autre sur la rive, qui verse d’une coupe dans l’autre. L’équilibre travaillé, goutte à goutte. [Sa page](/fr/bibliotheque/cartes-tarot/temperance/) va plus loin.
+Tempérance porte l’ange le plus complet du jeu : des ailes rouges, une robe blanche, un triangle dans un carré sur la poitrine, un pied dans l’eau et l’autre sur la rive, qui verse d’une coupe dans l’autre. L’équilibre travaillé, goutte à goutte : tout [Tempérance](/fr/bibliotheque/cartes-tarot/temperance/) tient dans ce geste.
 
 Sur [les Amoureux](/fr/bibliotheque/cartes-tarot/les-amoureux/), un ange aux ailes rouges et aux cheveux en flammes ouvre les bras au-dessus d’un homme et d’une femme nus, un immense soleil derrière lui. L’homme regarde la femme ; la femme lève les yeux vers l’ange. Le choix se fait sous son regard.
 
@@ -67,13 +67,13 @@ La Roue de Fortune en a un plus petit. Dans le coin en haut à gauche, une figur
 
 {{< zoom "angel" "rest" >}}
 
-Une comparaison à faire : posez les Amoureux à côté du [Diable](/fr/bibliotheque/cartes-tarot/le-diable/). Même composition — une figure ailée au-dessus d’un couple nu — mais les ailes sont celles d’une chauve-souris, et le couple est enchaîné.
+Le [Diable](/fr/bibliotheque/cartes-tarot/le-diable/) reprend la même composition — une figure ailée au-dessus d’un couple nu — mais les ailes sont celles d’une chauve-souris, et le couple est enchaîné.
 
 ## Comment le lire {#lecture}
 
 Quand un ange sort, regardez ce qu’il fait. Il verse, sur Tempérance : le mélange, la patience, la juste dose. Il préside, sur les Amoureux : un choix fait au grand jour. Il appelle, sur le Jugement : une décision qu’on ne peut plus repousser. À chaque fois, l’ange est au-dessus de la scène, pas dedans.
 
-La couleur : les trois grands anges ont des ailes rouges, et le rouge, dans [ma grille](/fr/bibliotheque/couleurs-tarot/rouge/), c’est l’action et l’élan. Ce ne sont pas des figures passives. La robe blanche de Tempérance ajoute la paix. L’élément : Tempérance et le Jugement sont des cartes de [Feu](/fr/bibliotheque/quatre-elements/element-feu/), les Amoureux d’Air. L’ange apporte de l’énergie et une tête claire, pas seulement de la douceur.
+Les trois grands anges ont des ailes [rouges](/fr/bibliotheque/couleurs-tarot/rouge/), couleur d’action et d’élan : ce ne sont pas des figures passives. La robe blanche de Tempérance ajoute la paix. Côté éléments, Tempérance et le Jugement relèvent du [Feu](/fr/bibliotheque/quatre-elements/element-feu/), les Amoureux de l’Air. L’ange apporte de l’énergie et une tête claire, pas seulement de la douceur.
 
 ## L’autre face {#revers}
 

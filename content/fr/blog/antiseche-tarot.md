@@ -11,7 +11,7 @@ imageAlt: "Une fiche bristol écrite à la main, appuyée contre un jeu de tarot
 imagePrompt: "A single handwritten index card propped against a closed tarot deck on a wooden table, a pencil lying beside it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Posez trois questions à n’importe quelle carte. Quelle couleur prend le plus de place ? Elle donne le ton : le jaune dit la joie, le bleu l’émotion, le noir l’absence. Quel est son nombre ? Il situe l’étape du cycle, du 1 qui ouvre au 10 qui referme. Quel est son élément ? Il nomme le domaine : les Bâtons sont le Feu et l’élan, les Coupes l’Eau et les sentiments, les Épées l’Air et les décisions, les Pentacles la Terre et le concret. Reliez les trois réponses en une phrase : vous avez lu la carte."
 ---
-Pas besoin de 78 significations sur une antisèche. Il vous faut trois questions à poser à n’importe quelle carte : quelle couleur prend le plus de place, quel est son nombre, à quel élément appartient-elle. La couleur donne l’humeur de la carte, le nombre situe l’étape, l’élément désigne le domaine de la vie. Reliez les trois, et vous lisez une carte que vous n’avez jamais vue.
+Pas besoin de 78 significations sur une antisèche. Il vous faut trois questions à poser à n’importe quelle carte : quelle couleur prend le plus de place, quel est son nombre, à quel élément appartient-elle. La couleur donne l’humeur de la carte, le nombre situe l’étape, l’élément désigne le domaine de la vie. Reliez les trois, et une carte croisée pour la première fois a déjà quelque chose à vous dire.
 
 Une antisèche, donc, au sens de celle qu’on glissait dans sa trousse avant un contrôle — sauf que celle-ci, on a le droit de la sortir.
 
@@ -35,7 +35,7 @@ Chaque couleur a [sa page dans la Bibliothèque](/fr/bibliotheque/couleurs-tarot
 
 ## Question 2 : quel est son nombre ? {#le-nombre}
 
-Les nombres des cartes ne sont pas des codes. Ce sont les dix étapes d’un cycle que vous connaissez déjà : celui d’un projet, d’une entreprise, d’une histoire d’amour.
+Pas de code secret derrière les nombres : de 1 à 10, ils suivent un cycle que vous avez déjà vécu, celui d’un projet, d’une entreprise ou d’une histoire d’amour.
 
 | Nombre | Où en est le cycle |
 |---|---|
@@ -69,9 +69,9 @@ Voici comment les trois questions se rejoignent, sur deux cartes.
 
 {{< cards "pe05 sw03" >}}
 
-Le Cinq de Pentacles : deux silhouettes dans la neige passent sous un vitrail éclairé. La couleur — une nuit noire, une neige blanche, et une seule petite fenêtre qui brille de jaune : l’absence, le froid, et un peu de chaleur à portée de main. Le nombre — cinq, la bataille, tenir avec ce qu’on a. L’élément — la Terre, le concret. En une phrase : « Une période difficile côté argent ou moyens, on tient avec ce qui reste, et l’aide est tout près, mais personne n’a levé les yeux pour la voir. »
+Le Cinq de Pentacles : un vitrail allumé, et en dessous deux passants transis, les pieds dans la neige. La couleur — une nuit noire, une neige blanche, et une seule petite fenêtre qui brille de jaune : l’absence, le froid, et un peu de chaleur à portée de main. Le nombre — cinq, la bataille, tenir avec ce qu’on a. L’élément — la Terre, le concret. En une phrase : « Une période difficile côté argent ou moyens, on tient avec ce qui reste, et l’aide est tout près, mais personne n’a levé les yeux pour la voir. »
 
-Le Trois d’Épées : un cœur rouge transpercé par trois épées sous un ciel gris et pluvieux. La couleur — la passion rouge au milieu de la neutralité grise. Le nombre — trois, un lien qui fonctionnait. L’élément — l’Air, les mots et les décisions. « Des mots qui ont tranché dans quelque chose qui marchait bien. » Mes notes y ajoutent une deuxième face : trois épées dans un même cœur, c’est aussi un pacte de sang. **Une carte a toujours deux faces, et les trois questions vous font voir l’une et l’autre.**
+Le Trois d’Épées : un cœur rouge transpercé par trois épées, et derrière lui la pluie qui tombe d’un ciel gris. La couleur — la passion rouge au milieu de la neutralité grise. Le nombre — trois, un lien qui fonctionnait. L’élément — l’Air, les mots et les décisions. « Des mots qui ont tranché dans quelque chose qui marchait bien. » Mes notes y ajoutent une deuxième face : trois épées dans un même cœur, c’est aussi un pacte de sang. **Une carte a toujours deux faces, et les trois questions vous font voir l’une et l’autre.**
 
 ## Lire une carte que vous n’avez jamais vue {#carte-inconnue}
 

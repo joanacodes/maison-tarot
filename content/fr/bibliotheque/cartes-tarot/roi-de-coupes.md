@@ -24,7 +24,7 @@ related:
 - /bibliotheque/astrologie
 faq:
 - q: 'Que signifie le Roi de Coupes ?'
-  a: 'La maturité émotionnelle : quelqu’un qui ressent fort, reste calme, et décide avec son cœur sans se laisser gouverner par lui. Le Roi est la maîtrise extérieure et la décision, et le Feu d’Eau, c’est l’émotion transformée en action.'
+  a: 'Une maturité émotionnelle : ressentir fort, garder son calme, et décider avec son cœur sans se laisser gouverner par lui. Par son rang, le Roi maîtrise ce qui l’entoure et tranche ; le Feu d’Eau, c’est l’émotion transformée en action.'
 - q: 'Le Roi de Coupes renversé, ça change quoi ?'
   a: 'Le calme devient un couvercle — des sentiments si bien tenus sous la surface que personne autour de lui ne sait ce qu’il ressent —, ou il tourne au contrôle, à moins qu’il ne se fissure quand la mer finit par atteindre le trône.'
 - q: 'Que signifie le Roi de Coupes en amour ?'
@@ -50,7 +50,7 @@ Pour le Roi de Coupes, ce qu’il gouverne, ce sont les émotions — les sienne
 
 ## Par l’élément : Eau {#element}
 
-La famille est l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/), et le rang du Roi ajoute le [Feu](/fr/bibliotheque/quatre-elements/element-feu/) : l’impulsion, l’élan, l’énergie qui agit. Le Feu d’Eau, c’est l’émotion transformée en décision — un sentiment qui ne reste pas un sentiment mais devient un choix, un geste, une façon de mener. Le français a un mot pour ça, et il marie justement le chaud et le froid : le sang-froid.
+La famille est l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) ; le rang de Roi, lui, apporte le [Feu](/fr/bibliotheque/quatre-elements/element-feu/) : l’impulsion, l’élan, l’énergie qui agit. Le Feu d’Eau, c’est l’émotion transformée en décision — ce qu’on ressent finit en choix, en geste, en façon de mener. Le français a un mot pour ça, et il marie justement le chaud et le froid : le sang-froid.
 
 Le Feu et l’Eau ne se mélangent pas facilement, et le dessin montre l’effort : un trône de pierre sur une mer qui bouge. L’eau s’infiltre, aussi : ce qu’il tient sous la surface ne disparaît pas. La maîtrise de ce Roi est réelle, mais la mer est toujours là. Le calme à la surface peut être de la sagesse — ou un couvercle.
 
@@ -62,7 +62,7 @@ Le [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) de la mer entoure tout : l’é
 
 À l’endroit : la maturité émotionnelle à l’œuvre. Une personne — un mentor, un parent, un ou une partenaire, une responsable — qui écoute, garde la tête froide quand les autres perdent la leur, et décide avec son cœur sans se laisser gouverner par lui. Ou le moment d’être cette personne vous-même. **Le Roi de Coupes ne ressent pas moins que les autres ; il a décidé de ce qu’il fait de ce qu’il ressent.**
 
-Renversé, le calme va trop loin. Tourné vers le dedans, il devient un couvercle : des sentiments tenus sous la surface depuis si longtemps que personne autour de lui ne sait ce qu’il ressent — parfois pas même lui. Tourné vers le dehors, il devient contrôle : se servir de sa compréhension des autres pour les diriger. Et parfois la tempête finit par atteindre le trône.
+Renversé, le calme va trop loin. Tourné vers le dedans, il devient un couvercle : des sentiments tenus sous la surface depuis si longtemps que personne autour de lui ne sait ce qu’il ressent — parfois pas même lui. Tourné vers le dehors, il devient contrôle : il comprend si bien les autres qu’il s’en sert pour les mener. Et parfois la tempête finit par atteindre le trône.
 
 En amour, c’est le ou la partenaire stable, qui n’a pas besoin de gagner la dispute ; un article entier lui est consacré : [le Roi de Coupes en amour](/fr/blog/roi-de-coupes-amour/). À côté du [Roi d’Épées](/fr/bibliotheque/cartes-tarot/roi-de-epees/), deux Rois côte à côte : le cœur et la tête se disputent le même trône. À côté de [Tempérance](/fr/bibliotheque/cartes-tarot/temperance/), le calme est authentique — l’émotion mêlée de patience. À côté du [Dix de Coupes](/fr/bibliotheque/cartes-tarot/dix-de-coupes/), c’est lui qui tient la maisonnée.
 

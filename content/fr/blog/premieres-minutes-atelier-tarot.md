@@ -23,7 +23,7 @@ Il y a une deuxième raison, et c’est la raison même pour laquelle j’enseig
 
 ## Ce que ces dix minutes vous demandent {#ce-que-vous-faites}
 
-Très peu, et c’est voulu. Vous tirez une carte. Vous la regardez. Vous dites à voix haute ce que vous remarquez : une couleur qui saute aux yeux, une posture, un mot, une sensation, une image qui n’a rien à voir avec le dessin.
+Très peu, et c’est voulu. Vous tirez une carte. Vous la regardez. Vous dites à voix haute ce que vous remarquez : une couleur qui saute aux yeux, une posture, un mot, une sensation, une image sans aucun rapport avec le dessin.
 
 L’exercice vient de mes propres notes, en trois temps : décrire ce qu’il y a sur la carte, puis ce que vous y voyez, puis ce que vous recevez. Le premier temps, tout le monde sait le faire. Le troisième, c’est celui que personne ne pense réussir, et que la plupart réussissent.
 
@@ -37,9 +37,9 @@ Deux choses peuvent se passer, et les deux vont très bien.
 
 Quelque chose vient. Vous le dites, avec un peu de surprise, sans trop savoir d’où ça sort. Parfait : c’est pour ça qu’on est là.
 
-Rien ne vient. Ça arrive aussi, et c’est le plus souvent la pression : vous voulez bien faire, alors la porte reste fermée. Décrivez plutôt ce qu’il y a sur la carte — les couleurs, le personnage, le décor. Ça compte déjà, et on en parle ensemble. J’ai écrit un article sur [ce qu’on peut faire quand on ne ressent rien](/fr/blog/je-ne-ressens-rien-tarot/).
+Rien ne vient. Ça arrive aussi, et c’est le plus souvent la pression : vous voulez bien faire, alors la porte reste fermée. Décrivez plutôt ce qu’il y a sur la carte — les couleurs, le personnage, le décor. Ça compte déjà, et on en parle ensemble. J’ai écrit un article pour [les jours où la carte reste muette](/fr/blog/je-ne-ressens-rien-tarot/).
 
-Personne n’est noté. Vous vous tromperez pendant ces trois heures, et on regardera pourquoi ensemble : c’est là qu’on apprend le plus. Quand quelqu’un d’autre lit, vous vous entraînerez à dire ce qui a résonné pour vous — [faire un retour avec bienveillance](/fr/blog/faire-un-retour-a-un-tarologue/) fait partie du travail.
+Personne n’est noté. Vous vous tromperez pendant ces trois heures, et chaque erreur sera examinée en groupe : ce sont elles qui font le plus progresser. Quand quelqu’un d’autre lit, vous vous entraînerez à dire ce qui a résonné pour vous — [faire un retour avec bienveillance](/fr/blog/faire-un-retour-a-un-tarologue/) fait partie du travail.
 
 ## Puis la clé de lecture arrive {#puis-la-cle}
 
@@ -59,4 +59,4 @@ Venez avec un Rider-Waite-Smith, ou prévenez en réservant s’il vous en faut 
 
 Si vous voulez goûter à ces dix minutes chez vous, tirez une carte ce soir et suivez à voix haute les trois temps décrits plus haut. [Comment lire le tarot quand on débute](/fr/blog/apprendre-a-lire-le-tarot-debutant/) vous donne la phrase à vous dire avant de commencer. Et si vous préférez regarder avant d’essayer, rejoignez un [événement gratuit](/fr/evenements/) : on y tire les cartes devant du monde.
 
-Quand vous aurez envie des trois heures complètes, les dates et les formats sont sur la [page des ateliers](/fr/ateliers/). Venez avec un jeu et votre curiosité ; c’est en forgeant qu’on devient forgeron.
+Quand vous aurez envie des trois heures complètes, la [page des ateliers](/fr/ateliers/) donne les dates et les formats. Venez avec un jeu et votre curiosité ; c’est en forgeant qu’on devient forgeron.

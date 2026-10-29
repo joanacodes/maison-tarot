@@ -21,7 +21,7 @@ Le 6, dans mes notes, c’est « le 3 exalté » : la machine tourne, et elle to
 
 L’élément, c’est l’Air, la pensée. L’Air perçoit toute la situation à la fois ; c’est pourquoi, des quatre éléments, c’est lui qui tranche le mieux — le Feu part trop vite, l’Eau se noie dans le ressenti, la Terre refuse de bouger. Une carte d’Eau parlerait de sentiments. Celle-ci parle de choisir, les yeux ouverts. Son énergie féminine dit comment : réfléchir d’abord, et aborder les sujets délicats par un détour plutôt que de front.
 
-Suivez les regards : lui la regarde, elle regarde l’ange au-dessus d’eux, et aucun ne touche l’autre. **Ce n’est pas le portrait de deux personnes amoureuses ; c’est le portrait de deux personnes qui décident.** Le tarot de Marseille, qui l’appelle l’Amoureux, au singulier, le dessine plus franchement encore : un jeune homme debout entre deux femmes. Les Gémeaux et les autres clés de lecture sont sur [la page de la lame](/fr/bibliotheque/cartes-tarot/les-amoureux/).
+Suivez les regards : lui la regarde, elle regarde l’ange au-dessus d’eux, et aucun ne touche l’autre. **Ce n’est pas le portrait de deux personnes amoureuses ; c’est le portrait de deux personnes qui décident.** Le tarot de Marseille, qui l’appelle l’Amoureux, au singulier, le dessine plus franchement encore : un jeune homme debout entre deux femmes. Pour les Gémeaux et les autres clés, [la lame est détaillée dans la Bibliothèque](/fr/bibliotheque/cartes-tarot/les-amoureux/).
 
 ## Se parler jusqu’à deux heures du matin {#se-parler}
 
@@ -47,7 +47,7 @@ Si quelqu’un s’asseyait en face de moi, ne me disait rien et tirait les Amou
 
 Cette garantie, je ne la cherche pas dans les cartes. « Le bon » ou « la bonne », c’est un choix transformé en quelque chose d’écrit d’avance, et les Amoureux sont précisément la lame qui dit que l’amour se choisit. L’autre n’est pas non plus dans la pièce ; ce qu’il ressent et ce qu’il décidera lui appartiennent. Une carte qui vous dirait « oui, c’est la bonne personne » vous retirerait une décision, à tous les deux.
 
-Une question plus douce : « Qu’est-ce que je choisis quand je choisis cette personne — et le choisirais-je encore aujourd’hui ? » Ou bien : « Comment est-ce que je veux qu’une relation se vive, un jour ordinaire ? » Ces questions ont leurs réponses en vous, et elles font de vous une meilleure compagnie pour l’autre, quel qu’il soit.
+La carte du choix appelle des questions sur le vôtre : « Qu’est-ce que je choisis quand je choisis cette personne — et le choisirais-je encore aujourd’hui ? » Ou bien : « Comment est-ce que je veux qu’une relation se vive, un jour ordinaire ? » Ces questions ont leurs réponses en vous, et elles font de vous une meilleure compagnie pour l’autre, quel qu’il soit.
 
 On me demande aussi si les Amoureux sont une carte « oui ». C’est tentant, et ce serait dommage : un oui délivré par un jeu de cartes saute la décision. J’ai écrit sur [pourquoi je réponds autrement aux tirages oui ou non](/fr/blog/tirage-oui-non-tarot/).
 

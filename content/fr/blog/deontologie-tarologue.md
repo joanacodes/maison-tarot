@@ -19,7 +19,7 @@ Je lis pour des gens qui veulent être lus, à ce moment-là, sur eux-mêmes. Pa
 
 Lire sur un tiers qui n’a rien demandé est le manquement le plus fréquent du métier, et on le commet sans y penser, parce que le tiers n’est pas dans la pièce. Il reste une personne. On ne lui ouvrirait pas son courrier ; on ne lui ouvre pas ses cartes non plus.
 
-**Quand on me demande « qu’est-ce qu’il ressent pour moi », je lis ce que ressent la personne en face de moi, et je dis pourquoi.** Ce n’est pas une esquive : c’est presque toujours là que se trouve la vraie question. Ce qu’elle attend de lui, ce qu’elle n’ose pas lui dire, ce qu’elle sait déjà.
+**Quand on me demande « qu’est-ce qu’il ressent pour moi », je lis ce que ressent la personne assise devant moi, et je dis pourquoi.** Ce n’est pas une esquive : c’est presque toujours là que se trouve la vraie question. Ce qu’elle attend de lui, ce qu’elle n’ose pas lui dire, ce qu’elle sait déjà.
 
 ## 2. Ne rien demander d’abord {#silence}
 
@@ -57,4 +57,4 @@ Ce qui n’est pas sur la carte : la confidentialité, tellement évidente que c
 
 Pourquoi court, alors ? Parce qu’une règle qu’on peut réciter à table est une règle qui vous arrête à table. Les longs codes sont faits pour les sites web. Le court est fait pour le moment où la personne en face demande « mais il va revenir, hein ? » et que vous sentez le oui se former, parce que ce serait si facile, que ça lui ferait tellement plaisir, et que ce soir ça ne coûte rien.
 
-Ce moment-là, c’est toute la déontologie de ce métier. Si vous voulez voir à quoi ça ressemble en pratique, [venez à une soirée de tirage gratuite](/fr/evenements/) : vous verrez les six règles appliquées, ratés compris.
+Ce moment-là, c’est toute la déontologie de ce métier. Pour voir à quoi ça ressemble en pratique, [venez à une soirée de tirage gratuite](/fr/evenements/) : vous verrez les six règles appliquées, ratés compris.

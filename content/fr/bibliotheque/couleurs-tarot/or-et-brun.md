@@ -73,6 +73,6 @@ Le revers de l’or est la cupidité — le Quatre de Pentacles qui serre ses pi
 
 ## Avec les autres clés {#cles}
 
-Sur le [Sept de Pentacles](/fr/bibliotheque/cartes-tarot/sept-de-pentacles/), l’or et le brun tombent sur un [7](/fr/bibliotheque/numerologie/chiffre-7/), l’étape où l’on regarde ce qu’on a avant de décider de la suite. Les pièces se comptent déjà, et le sol brun sous ses pieds, c’est le travail qu’elles ont coûté.
+Sur le [Sept de Pentacles](/fr/bibliotheque/cartes-tarot/sept-de-pentacles/), l’or et le brun tombent sur un [7](/fr/bibliotheque/numerologie/chiffre-7/), l’étape où l’on fait l’inventaire avant de choisir la suite. Les pièces se comptent déjà, et le sol brun sous ses pieds, c’est le travail qu’elles ont coûté.
 
 {{% six %}}

@@ -56,7 +56,7 @@ La Terre, c’est aussi la richesse au sens large, celle des comptes comme celle
 
 ## Par les couleurs {#couleurs}
 
-Le gris domine — la cape, le ciel, la roche. Dans ma grille, le gris, c’est la neutralité, l’absence de volonté particulière, la stabilité ([le gris](/fr/bibliotheque/couleurs-tarot/gris/)) : rien ne le pousse, rien ne le tire. Le blanc de la barbe et de la neige ajoute la paix. Puis, au milieu de tout ce gris, le jaune de la lanterne et du bâton : la volonté, l’expression de soi, l’enfant intérieur encore vivant ([le jaune](/fr/bibliotheque/couleurs-tarot/jaune/)).
+Le gris domine — la cape, le ciel, la roche. Dans ma grille, le gris, c’est la neutralité — pas de volonté marquée — et la stabilité ([le gris](/fr/bibliotheque/couleurs-tarot/gris/)) : rien ne le pousse, rien ne le tire. Le blanc de la barbe et de la neige ajoute la paix. Puis, au milieu de tout ce gris, le jaune de la lanterne et du bâton : la volonté, l’expression de soi, l’enfant intérieur encore vivant ([le jaune](/fr/bibliotheque/couleurs-tarot/jaune/)).
 
 Tout ce gris piqué d’un point jaune suffit à raconter une période calme et neutre, où un peu de volonté éclaire le chemin.
 

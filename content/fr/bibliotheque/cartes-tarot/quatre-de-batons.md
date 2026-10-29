@@ -59,7 +59,7 @@ On dit « pendre la crémaillère » : autrefois, la crémaillère était la tig
 
 ## Par les couleurs {#couleurs}
 
-Le [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) vif remplit le ciel : la joie, l’optimisme, l’enfant intérieur — la couleur du monde quand le monde va bien.
+Un [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) vif emplit le ciel — joie, optimisme, enfant intérieur : la couleur du monde quand le monde va bien.
 
 La guirlande ajoute du [vert](/fr/bibliotheque/couleurs-tarot/vert/) et du rouge, la croissance et la vie avec une pointe de passion. Les deux personnages reprennent la palette : le blanc pour la paix, le bleu pour l’émotion, le rouge pour la passion. Le seul gris, c’est le château : la structure solide derrière la fête, ce qui sera encore là demain matin.
 
@@ -77,7 +77,7 @@ On espère parfois que cette carte annonce un mariage ou un bébé, et c’est u
 
 Renversé, la fête n’a pas lieu, ou a lieu sans joie : la maison qui ne devient pas un chez-soi, un mariage organisé pour faire plaisir aux autres, un repas de famille où tout le monde est tendu. Ou le 4 en excès — s’accrocher à la structure, refuser de bouger ou de laisser entrer quelqu’un de nouveau.
 
-À côté du [Dix de Coupes](/fr/bibliotheque/cartes-tarot/dix-de-coupes/) — le bonheur, la famille —, le foyer est tout le sujet. À côté du [Deux de Coupes](/fr/bibliotheque/cartes-tarot/deux-de-coupes/), un lien entre deux personnes demande à devenir officiel. À côté du [Quatre de Pentacles](/fr/bibliotheque/cartes-tarot/quatre-de-pentacles/), le même nombre en Terre : la maison gardée plutôt que partagée.
+À côté du [Dix de Coupes](/fr/bibliotheque/cartes-tarot/dix-de-coupes/) — le bonheur, la famille —, le foyer est tout le sujet. Avec le [Deux de Coupes](/fr/bibliotheque/cartes-tarot/deux-de-coupes/), deux personnes liées voudraient rendre la chose officielle. À côté du [Quatre de Pentacles](/fr/bibliotheque/cartes-tarot/quatre-de-pentacles/), le même nombre en Terre : la maison gardée plutôt que partagée.
 
 {{< cards "cu10 cu02 pe04" >}}
 

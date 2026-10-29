@@ -31,7 +31,7 @@ On tire des lignes de trois ou cinq cartes, ou le grand tableau : les 36 cartes 
 
 ## Ce que le tarot lit autrement {#ce-que-le-tarot-lit}
 
-Un tarot compte 22 arcanes majeurs et 56 arcanes mineurs, et dans le Rider-Waite-Smith chaque carte est une scène complète : des personnages, des couleurs, un nombre, un élément, une posture. Une seule carte peut porter toute une lecture, et c’est pour ça que j’enseigne avec cinq clés de lecture plutôt qu’avec une liste de significations.
+Un tarot compte 22 arcanes majeurs et 56 arcanes mineurs, et le Rider-Waite-Smith donne à chacune de ces 78 cartes une scène complète : des personnages, des couleurs, un nombre, un élément, une posture. Une seule carte peut porter toute une lecture, et c’est pour ça que j’enseigne avec cinq clés de lecture plutôt qu’avec une liste de significations.
 
 Prenez le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/). Aucune carte n’est plus sombre dans mes notes : une perte, un chagrin noir, quelqu’un livré à ses problèmes. Pourtant, derrière le personnage endeuillé, deux coupes n’ont pas basculé. Les Souris du Lenormand vous diraient vite que quelque chose se perd. La carte de tarot vous montre ce que ça fait, et ce qui tient encore.
 

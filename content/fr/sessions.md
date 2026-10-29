@@ -33,7 +33,7 @@ faq:
   - q: "Et si la lecture est fausse ?"
     a: "Ça arrive, à peu près une fois sur dix à mon décompte. Je le dis, on regarde où ça a dérapé, et on ne rejoue pas. Une erreur n’est jamais transformée en « il faut une deuxième session »."
   - q: "Puis-je annuler ?"
-    a: "Les conditions exactes sont dans les CGV. Si vous traversez un moment difficile, dites-le : on reporte, sans frais, et une lecture n’est pas le bon outil pour ce moment-là."
+    a: "Les conditions exactes sont dans les CGV. Si vous traversez un moment difficile, dites-le : on reporte, sans frais. Pour un moment pareil, un tirage n’est pas l’outil qu’il vous faut."
 navTitle: "Sessions"
 ---
 ## Ce que la session n’est pas

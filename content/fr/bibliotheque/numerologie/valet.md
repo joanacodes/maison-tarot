@@ -61,7 +61,7 @@ gallery:
 ---
 ## Ce que dit le valet {#definition}
 
-Le Valet est jeune sans être un enfant : il a déjà l’outil de sa famille en main — la coupe, le bâton, l’épée, le pentacle — et il le regarde comme on regarde une chose qu’on ne sait pas encore utiliser. Dans la tradition, c’est aussi le messager : la lettre, la nouvelle, l’invitation.
+Le Valet a quitté l’enfance sans être encore adulte : il a déjà l’outil de sa famille en main — la coupe, le bâton, l’épée, le pentacle — et il le regarde comme on regarde une chose qu’on ne sait pas encore utiliser. Dans la tradition, c’est aussi le messager : la lettre, la nouvelle, l’invitation.
 
 ## Le conseil {#conseil}
 

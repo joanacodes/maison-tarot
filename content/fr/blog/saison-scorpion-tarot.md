@@ -25,7 +25,7 @@ Le Scorpion est un signe d’une grande intensité, et tout son pouvoir est dans
 
 Son archétype, dans mes notes, c’est la personne qui ne dit rien en soirée et attire tous les regards sans le chercher. Imaginez-la dans le fauteuil au bord du salon, qui observe et ne prononce qu’une phrase de la soirée — celle dont tout le monde se souvient.
 
-Signe fixe, le Scorpion tient bon, et ce à quoi il tient, c’est l’attachement affectif. Son Eau est de l’espèce lente. Dans mes notes sur les éléments, le feu détruit d’un coup, tandis que l’eau laissée à elle-même s’infiltre et abîme plus profond, plus longtemps, comme l’humidité qui ronge les fondations d’une maison. **La saison du Scorpion demande ce que vous laissez s’infiltrer, et ce que vous retenez au-delà de son temps.** La [page Scorpion de la Bibliothèque](/fr/bibliotheque/astrologie/scorpion/) dit le reste.
+Signe fixe, le Scorpion tient bon, et ce à quoi il tient, c’est l’attachement affectif. Son Eau est de l’espèce lente. Dans mes notes sur les éléments, le feu ravage tout en un instant, mais l’eau laissée à elle-même s’infiltre et abîme plus profond, plus longtemps, comme l’humidité qui ronge les fondations d’une maison. **La saison du Scorpion demande ce que vous laissez s’infiltrer, et ce que vous retenez au-delà de son temps.** La [page Scorpion de la Bibliothèque](/fr/bibliotheque/astrologie/scorpion/) dit le reste.
 
 ## Sa carte : la Mort, et trois Coupes {#la-mort-et-les-coupes}
 
@@ -33,7 +33,7 @@ La Mort n’annonce pas un décès. Dans mes notes, elle est liée à la moisson
 
 {{< cards "ar13 cu05 cu06 cu07" >}}
 
-Trois lames mineures portent aussi le signe, une par dizaine de jours de la saison, à peu près : le Cinq de Coupes (Mars en Scorpion), le Six de Coupes (le Soleil en Scorpion) et le Sept de Coupes (Vénus en Scorpion). L’ordre raconte une histoire. Je tiens le Cinq de Coupes pour la plus noire des 78 : la perte, le chagrin, l’isolement devant ses ennuis. Le Six, c’est prendre du temps pour soi, l’enfance, refleurir. Le Sept, l’indécision, trop de choix à la fois. Le chagrin, le réconfort, puis la question ouverte de la suite. Les [décans](/fr/blog/decans-tarot/) expliquent d’où viennent ces attributions.
+Trois lames mineures portent aussi le signe, une par dizaine de jours de la saison, à peu près : le Cinq de Coupes (Mars en Scorpion), le Six de Coupes (le Soleil en Scorpion) et le Sept de Coupes (Vénus en Scorpion). L’ordre raconte une histoire. Je tiens le Cinq de Coupes pour la plus noire des 78 : la perte, le chagrin, l’isolement devant ses ennuis. Le Six, c’est une parenthèse pour soi, un parfum d’enfance, l’envie de refleurir. Le Sept, l’indécision, trop de choix à la fois. Le chagrin, le réconfort, puis la question ouverte de la suite. Les [décans](/fr/blog/decans-tarot/) expliquent d’où viennent ces attributions.
 
 La saison traverse aussi [Samhain](/fr/blog/samhain-tarot/) et la Toussaint, quand on fleurit les tombes de chrysanthèmes et qu’on pense à ses morts. Si vous portez un deuil en ce moment, je suis désolée. Je ne lis pas sur la mort ni sur la santé : une carte n’annonce ni l’une ni l’autre, et un mot de travers peut faire beaucoup de mal. Ce qu’une lecture peut accueillir, c’est la façon dont vous le portez ; [pourquoi je mets ces questions de côté](/fr/blog/sante-grossesse-deces-tarot/) explique le reste.
 

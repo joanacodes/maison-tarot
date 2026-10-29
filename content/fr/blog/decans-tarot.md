@@ -19,7 +19,7 @@ Chaque signe du zodiaque couvre 30 degrés du chemin que le Soleil parcourt en u
 
 L’idée est ancienne. Les astronomes égyptiens utilisaient 36 groupes d’étoiles, qui se levaient l’un après l’autre à peu près tous les dix jours, pour compter les heures de la nuit ; les astrologues grecs les ont ensuite posés sur le zodiaque et ont attribué à chacun une planète ([l’article de Britannica sur les décans](https://www.britannica.com/topic/decan), en anglais).
 
-Les planètes se relaient dans ce qu’on appelle l’ordre chaldéen, de la plus lente à la plus rapide vues de la Terre : Saturne, Jupiter, Mars, le Soleil, Vénus, Mercure, la Lune. La suite commence avec Mars sur le premier décan du Bélier, puis tourne. Sept planètes ne divisent pas 36 : Mars hérite donc d’un décan de plus, le premier et le dernier du zodiaque.
+Les planètes se relaient dans ce qu’on appelle l’ordre chaldéen, qui les classe par vitesse apparente depuis la Terre, en partant de la plus lente : Saturne, Jupiter, Mars, le Soleil, Vénus, Mercure, la Lune. La suite commence avec Mars sur le premier décan du Bélier, puis tourne. Sept planètes ne divisent pas 36 : Mars hérite donc d’un décan de plus, le premier et le dernier du zodiaque.
 
 ## Comment la Golden Dawn les a posés sur les arcanes mineurs {#golden-dawn}
 
@@ -64,12 +64,12 @@ Le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), c’est Mars
 
 Le Huit d’Épées, c’est Jupiter en Gémeaux. Ma note : la personne s’est enfermée elle-même, outils en main, et peut défaire le bandeau quand elle le décide. Jupiter agrandit ; le verbe des Gémeaux, c’est « je pense ». Ensemble : un esprit où les pensées ont tellement poussé qu’il ne voit plus la sortie.
 
-Le Six de Coupes, c’est le Soleil en Scorpion. Ma note : prendre du temps pour soi, l’enfance, refleurir. Le Soleil qui éclaire les profondeurs du Scorpion, c’est une chaleur retrouvée dans des lieux anciens : un souvenir, une personne d’il y a longtemps.
+Le Six de Coupes, c’est le Soleil en Scorpion. Ma note : du temps à soi, l’enfance qui revient, une nouvelle floraison. Le Soleil qui éclaire les profondeurs du Scorpion, c’est une chaleur retrouvée dans des lieux anciens : un souvenir, une personne d’il y a longtemps.
 
 ## Comment utiliser les décans avec légèreté {#avec-legerete}
 
 1. Commencez par regarder la carte elle-même : couleurs, nombre, élément. Le décan vient en dernier, comme une nuance, jamais comme le sens.
-2. Si vous êtes curieux, cherchez la carte du décan de votre anniversaire. C’est une curiosité, pas une identité, et ce n’est pas la même chose que [la carte de naissance](/fr/blog/carte-de-naissance-tarot/) qu’on calcule par la numérologie.
+2. Si vous êtes curieux, cherchez la carte du décan de votre anniversaire. C’est une curiosité, pas une identité, et elle ne se confond pas avec [la carte de naissance](/fr/blog/carte-de-naissance-tarot/) qu’on calcule par la numérologie.
 3. Pour un thème de dix jours, posez la carte du décan en cours sur la table et notez ce que vous remarquez.
 4. Si l’astrologie ne vous parle pas, ignorez tout cela : les cartes s’en passent très bien.
 

@@ -53,7 +53,7 @@ Le raisin, c’est une récolte qu’on ne peut pas brusquer. Une jeune vigne me
 
 C’est aussi un fruit qui se partage. Personne ne mange une grappe d’une seule bouchée.
 
-## Où il apparaît dans le jeu {#ou}
+## Des vignes chez les Pentacles, une grappe à la fête {#ou}
 
 Sur [le Roi de Pentacles](/fr/bibliotheque/cartes-tarot/roi-de-pentacles/), le raisin est partout. Sa robe sombre est couverte de vignes et de grappes, d’autres vignes grimpent autour d’un trône sculpté de têtes de taureau, et un château se dresse derrière lui. La carte la plus prospère du jeu est habillée en vignoble.
 
@@ -77,7 +77,7 @@ Après des années à construire une petite entreprise, quelqu’un tire le Roi 
 
 ## L’autre face {#revers}
 
-Le raisin peut rester sur la vigne. La personne qui travaille pour la récolte et ne s’arrête jamais pour en profiter ; l’épargne à laquelle personne n’a le droit de toucher. Ou l’inverse : une récolte fêtée avant d’être rentrée, le Trois de Coupes qui danse encore alors que le travail n’est pas fini. Dans mes notes, le revers du 3, c’est lancer de nouveaux projets avant d’avoir fini les autres.
+Le raisin peut rester sur la vigne. La personne qui travaille pour la récolte et ne s’arrête jamais pour en profiter ; l’épargne à laquelle personne n’a le droit de toucher. Ou l’inverse : une récolte fêtée avant d’être rentrée, le Trois de Coupes qui danse encore alors que le travail n’est pas fini. Dans mes notes, le 3 a ce travers : commencer autre chose alors que rien n’est terminé.
 
 Et un fruit mûr ne se garde pas. Ce qu’on ne cueille pas à temps pourrit sur pied.
 

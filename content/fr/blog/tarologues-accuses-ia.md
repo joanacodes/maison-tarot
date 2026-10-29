@@ -37,7 +37,7 @@ Elle ne peut pas prouver qu’une machine a écrit le tirage. Un humain peut éc
 
 Ce que le soupçon désigne de façon fiable, en revanche, c’est un tirage générique. Et c’est souvent le vrai reproche. Si chaque phrase irait à n’importe qui, peu importe qui l’a tapée : vous n’avez pas été lu. Le même test fonctionne dans les deux cas. Barrez chaque phrase qu’on pourrait dire à un inconnu et regardez ce qui reste. S’il ne reste rien, vous avez sous les yeux [l’effet Barnum](/fr/blog/effet-barnum-tarot/), qu’un humain ou un modèle l’ait produit.
 
-Une limite honnête : je ne peux pas vous dire si tel tarologue a utilisé l’IA, et à partir du seul texte, vous non plus. Ce que vous pouvez juger, c’est si le tirage a dit sur vous quelque chose que vous n’aviez pas fourni.
+Je dois l’avouer : savoir si tel tarologue s’est servi de l’IA, j’en suis incapable, et à partir du seul texte, vous aussi. Ce que vous pouvez juger, c’est si le tirage a dit sur vous quelque chose que vous n’aviez pas fourni.
 
 ## Comment un tarologue peut être transparent {#etre-transparent}
 

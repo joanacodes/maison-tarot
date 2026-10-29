@@ -25,7 +25,7 @@ Ce n’est pas rien. Imaginez un certificat qui indique « 40 heures, 30 tirages
 
 Il ne prouve pas la justesse. Aucun certificat ne compte les ratés une fois la formation terminée. La seule trace de cela, c’est un carnet : d’un côté ce que le lecteur a dit, de l’autre ce que la personne a confirmé. C’est pour cela que je tiens [un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/), et que je demanderais à n’importe quel tarologue s’il en tient un.
 
-Il ne prouve pas non plus l’éthique. Un certificat ne vous dit pas si le lecteur demande la permission avant de lire quelqu’un, s’il se retire devant les questions de santé ou de procès, ou s’il va un jour « découvrir » un envoûtement et proposer de le lever contre paiement. Pour cela, [les signaux d’alerte d’une arnaque à la voyance](/fr/blog/arnaque-voyance/) servent davantage que n’importe quel cadre au mur.
+Il ne prouve pas non plus l’éthique. Un certificat ne vous dit pas si le lecteur demande la permission avant de lire quelqu’un, s’il se retire devant les questions de santé ou de procès, ou s’il va un jour « découvrir » un envoûtement et proposer de le lever contre paiement. Pour cela, [connaître les méthodes des arnaqueurs](/fr/blog/arnaque-voyance/) vous servira davantage que n’importe quel cadre au mur.
 
 Et il ne dit pas si la personne pratique encore. Un certificat d’il y a dix ans décrit celle qui a suivi la formation, pas celle qui vous lit aujourd’hui.
 
@@ -33,7 +33,7 @@ Et il ne dit pas si la personne pratique encore. Un certificat d’il y a dix an
 
 ## Existe-t-il un diplôme officiel de tarologue en France ? {#france}
 
-Non. En France, la tarologie n’est pas une profession réglementée : il n’existe pas de diplôme d’État de tarologue, ni d’autorisation à obtenir. La voyance est une activité libre depuis l’entrée en vigueur du nouveau Code pénal en 1994, et les règles générales sur l’escroquerie et la protection du consommateur s’y appliquent comme à n’importe quel commerce. J’entre dans le détail dans [la voyance est-elle encadrée par la loi en France ?](/fr/blog/voyance-legale-france/)
+Non. En France, la tarologie n’est pas une profession réglementée : il n’existe pas de diplôme d’État de tarologue, ni d’autorisation à obtenir. La voyance est une activité libre depuis l’entrée en vigueur du nouveau Code pénal en 1994, et les règles générales sur l’escroquerie et la protection du consommateur s’y appliquent comme à n’importe quel commerce. Je détaille ce cadre [dans un article consacré à la voyance face au droit français](/fr/blog/voyance-legale-france/).
 
 Un certificat délivré par une école française est donc un document de cette école. Cela ne le rend pas inutile. Cela en fait un document privé, à lire pour exactement ce qu’il dit : combien d’heures, quelle pratique, qui l’a signé.
 
@@ -63,4 +63,4 @@ Aucune de ces questions n’écarte un certificat, ni ne le rend indispensable. 
 
 Pour être claire sur ma propre maison : Maison Tarot ne propose aucune formation et ne délivre aucun certificat. C’est un endroit pour apprendre, avec des leçons pour qui en veut et des événements de temps en temps.
 
-Avant de payer une formation, où qu’elle ait lieu, regardez le professeur lire. Les [événements gratuits](/fr/evenements/) de Maison Tarot sont l’un des endroits où le faire : des lectures pour des personnes tirées au sort, qui ne me disent rien avant, pour que vous voyiez une méthode à l’œuvre et que vous la jugiez par vous-même. Et si vous êtes de l’autre côté de la table, en train de construire votre propre pratique, [le faire sans devenir un gourou](/fr/blog/pratique-sans-gourou/) est le complément de cette page.
+Avant de payer une formation, où qu’elle ait lieu, regardez le professeur lire. Les [événements gratuits](/fr/evenements/) que j’organise sont l’un des endroits où le faire : le hasard désigne les personnes lues, aucune ne me confie quoi que ce soit au préalable, et vous voyez une méthode à l’œuvre, à juger par vous-même. Et si vous êtes de l’autre côté de la table, en train de construire votre propre pratique, [le faire sans devenir un gourou](/fr/blog/pratique-sans-gourou/) est le complément de cette page.

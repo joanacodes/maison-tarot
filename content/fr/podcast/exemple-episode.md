@@ -16,7 +16,7 @@ tags: ["exemple"]
 ---
 ## De quoi on parle
 
-- 02:10 — Pourquoi la personne ne me dit rien avant un tirage.
+- 02:10 — Pourquoi je tire sans rien savoir de la personne.
 - 11:40 — Le carnet : ce qui compte comme juste, ce qui compte comme faux.
 - 24:05 — Le tirage que j’ai complètement raté, et ce que j’en ai appris.
 - 33:30 — Pourquoi je préfère enseigner que lire.

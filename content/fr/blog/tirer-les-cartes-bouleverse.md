@@ -62,4 +62,4 @@ Reportez. « Je ne suis pas en état de vous tirer les cartes ce soir » est une
 
 Si ça dure depuis des semaines, si ça ne passe ni avec le sommeil ni en parlant, ce n’est plus une question de tarot. C’est une porte vers quelqu’un de formé : un médecin, un psychologue, une ligne d’écoute. J’ai écrit sur [l’endroit où se trouve cette porte, et pourquoi ce n’est pas la mienne](/fr/blog/tarot-et-sante-mentale/), et [la page des avertissements](/fr/avertissements/#therapie) dit la même chose en moins de mots.
 
-Pour les jours difficiles ordinaires, le jeu sera encore là demain. Si vous voulez apprendre à le lire au calme, [commencez par le parcours pour apprendre le tarot](/fr/apprendre-le-tarot/), une carte à la fois.
+Pour les jours difficiles ordinaires, le jeu sera encore là demain. Pour apprendre à le lire au calme, sans rien brusquer, [suivez le parcours d’apprentissage](/fr/apprendre-le-tarot/) à votre rythme.

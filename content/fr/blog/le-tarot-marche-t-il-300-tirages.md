@@ -43,7 +43,7 @@ Et ça ne prouve pas que *je* suis spéciale. Trois cents tirages m’ont appris
 Trois choses.
 
 1. **Je m’attends à dire n’importe quoi.** À chaque fois. Plus je baisse l’attente, plus c’est juste. [C’est la première chose que j’enseigne.](/fr/blog/apprendre-a-lire-le-tarot-debutant/)
-2. **Je m’arrête quand ça rate.** Pas de remélange, pas de reformulation, pas de « les cartes disent quelque chose que vous n’avez pas encore réalisé ». Le tirage raté va dans le carnet, et on passe.
+2. **Je m’arrête quand ça rate.** Pas de remélange, pas de reformulation, pas de « les cartes savent quelque chose que vous ignorez encore ». Le tirage raté va dans le carnet, et on passe.
 3. **Je refuse certains sujets.** La santé, la mort, la grossesse, les procédures, l’argent, les « malédictions ». Rien n’empêche une carte de tomber dessus, mais à un raté sur dix, un mot faux là-dessus fait de vrais dégâts. [La liste complète est sur la page des avertissements.](/fr/avertissements/#refus)
 
 ## Essayez vous-même {#essayez}

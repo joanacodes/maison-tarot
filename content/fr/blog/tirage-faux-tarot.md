@@ -53,7 +53,7 @@ Les mots que j’ai reçus étaient « va avoir un accident ». « Le prochain �
 
 Les cartes fonctionnent pareil, avec plus d’étapes. Une image sort ; le tarologue en fait une phrase ; la personne qui l’écoute en fait un sens. Chaque étape est un endroit où la peur ou l’espoir peuvent se glisser.
 
-Prenez deux cartes que l’on redoute. [La Mort](/fr/bibliotheque/cartes-tarot/la-mort/), dans mes notes, ne parle pas du tout de mourir : elle est liée à la récolte, au recommencement, au fait de rendre la vie fertile à nouveau. La Tour montre une tour sur un rocher, frappée par la foudre, sa couronne arrachée, deux personnages qui tombent — une secousse soudaine, quelque chose qui ne pouvait plus tenir et qui s’effondre.
+Prenez deux cartes que l’on redoute. [La Mort](/fr/bibliotheque/cartes-tarot/la-mort/) n’a, selon mes notes, rien à voir avec l’idée de mourir : elle est liée à la récolte, au recommencement, au fait de rendre la vie fertile à nouveau. La Tour montre une tour sur un rocher, frappée par la foudre, sa couronne arrachée, deux personnages qui tombent — une secousse soudaine, quelque chose qui ne pouvait plus tenir et qui s’effondre.
 
 {{< cards "ar13 ar16" >}}
 
@@ -67,11 +67,11 @@ Et parfois, c’est l’inverse : rien ne vient. Dans mes notes, je l’écris a
 
 ## Et parfois, ça rate {#ca-rate}
 
-Je rate environ un tirage sur dix ; ce sont mes propres comptes. Pas « rate pour l’instant », pas « veut dire quelque chose que vous n’avez pas encore compris ». Rate.
+Je rate environ un tirage sur dix ; ce sont mes propres comptes. Pas « rate pour l’instant », pas « cache un sens qui vous échappe encore ». Rate.
 
 Avec une histoire comme celle de la voix, on est tenté de la sauver après coup : il y a *bien* eu un accident, donc ça compte. Je comprends l’envie. Mais pour que ça compte, il faudrait que je modifie discrètement la question posée pour que la réponse colle. Je ne le fais pas non plus avec les cartes : pas de carte de clarification, pas de nouveau mélange, pas de « les cartes voulaient dire quelque chose de plus profond ».
 
-Les ratés ne sont pas toujours mystérieux, d’ailleurs. Interpréter demande de l’énergie, et après une longue série de tirages, on peut se sentir très fatigué ; c’est pourquoi, par prudence, je clos parfois la séance sitôt la deuxième heure achevée. Un tarologue fatigué a plus de chances de combler les trous avec des suppositions. Parfois, c’est le tarologue qui n’est pas en forme. Parfois, la personne a la tête ailleurs. Parfois, personne ne trouve de raison.
+Les ratés ne sont pas toujours mystérieux, d’ailleurs. Lire puise dans vos forces, et une longue série de tirages peut laisser épuisé ; c’est pourquoi, par prudence, je clos parfois la séance sitôt la deuxième heure achevée. Un tarologue fatigué a plus de chances de combler les trous avec des suppositions. Parfois, c’est le tarologue qui n’est pas en forme. Parfois, la personne a la tête ailleurs. Parfois, personne ne trouve de raison.
 
 Dire le raté à voix haute, c’est ce qui garde les neuf autres honnêtes.
 
@@ -95,4 +95,4 @@ Si vous êtes en deuil et que quelque chose de ce genre vous arrive, parlez-en �
 
 La chose la plus utile que je puisse vous proposer, c’est un carnet à trois colonnes : ce qui a été dit, ce qui est arrivé, et quand. Les tirages que vous faites, ceux que vous recevez, les impressions qui arrivent toutes seules — tout.
 
-Au bout de quelques mois, vous verrez votre propre façon de rater. Moi, la voix m’a appris à surveiller d’abord le moment. Votre point faible est peut-être ailleurs, et vous ne le trouverez qu’en l’écrivant. C’est à ça que sert [un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) : non pas à prouver que vous aviez raison, mais à savoir comment vous avez tendance à vous tromper.
+Au bout de quelques mois, vous verrez votre propre façon de rater. Moi, la voix m’a appris à surveiller d’abord le moment. Votre point faible est peut-être ailleurs, et vous ne le trouverez qu’en l’écrivant. [Un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) existe pour ça : non pas prouver que vous aviez raison, mais apprendre comment vous avez tendance à vous tromper.

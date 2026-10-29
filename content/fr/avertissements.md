@@ -33,7 +33,7 @@ Ce n’est pas de la pruderie. Ce sont les sujets où une carte, même bien lue,
 
 ## C’est vous qui décidez, pas les cartes {#lectures}
 
-Agissez sur ce que vous ressentez, pas sur ce qui a été dit pendant une lecture. Une lecture n’est pas une injonction ; vous restez responsable de vos choix.
+Votre ressenti a le dernier mot, devant tout ce qu’une lecture a pu dire. Une lecture n’est pas une injonction ; vous restez responsable de vos choix.
 
 Si vous vous surprenez à consulter tout le temps, le tarot n’est pas le vrai sujet ; c’est une approbation extérieure que vous cherchez. [Éloignez-vous des tirages un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/), et entraînez le muscle qui décide.
 
@@ -41,7 +41,7 @@ Et si le tarot vous paraît maléfique : le mal qu’on y voit vient du regard q
 
 ## Quand la bonne porte est celle d’un thérapeute {#therapie}
 
-Parfois c’est psychologique, parfois psychiatrique. Dans ces cas-là, la bonne porte n’est pas la mienne, et je vous le dirai — sans détour, mais gentiment. Voir un thérapeute n’est pas un échec de vos cartes ; c’est le bon outil pour le bon travail.
+Parfois c’est psychologique, parfois psychiatrique. Dans ces cas-là, la bonne porte n’est pas la mienne, et je vous le dirai — sans détour, mais gentiment. Aller voir un thérapeute ne veut pas dire que le tarot a échoué : ce travail-là demande un autre outil que des cartes.
 
 ## L’astrologie n’est pas une excuse {#astrologie}
 

@@ -9,7 +9,7 @@ tags: ["Huit d’Épées amour", "Huit d’Épées inversé amour", "Huit d’É
 image: "covers/eight-of-swords-tarot-love.jpg"
 imageAlt: "La carte du Huit d’Épées du tarot Rider-Waite-Smith posée face visible sur une table en bois nue."
 imagePrompt: "The Eight of Swords card from the 1909 Rider-Waite-Smith deck lying upright on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, the card in its original colours, warm natural colours around it that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "En amour, le Huit d’Épées décrit le sentiment d’être pris au piège : dans une relation qui semble sans issue, dans l’attente de quelqu’un, ou dans la conviction que personne ne vous choisira. Mes notes y voient quelqu’un qui s’est enfermé lui-même et qui a pourtant de quoi sortir. La femme a les yeux bandés et le buste entravé, mais ses pieds sont libres et les épées ne ferment pas le cercle. Lue par le huit, chiffre du contrôle, et par l’Air, le mental, la prison est surtout faite de pensées — et la sortie commence par le bandeau qu’on retire."
+summary: "En amour, le Huit d’Épées décrit le sentiment d’être pris au piège : dans une relation qui semble sans issue, dans l’attente de quelqu’un, ou dans la conviction que personne ne vous choisira. Mes notes y voient quelqu’un qui s’est enfermé lui-même et qui a pourtant de quoi sortir. La femme a les yeux bandés et le buste entravé, mais ses pieds sont libres, et l’enclos d’épées garde une ouverture. Lue par le huit, chiffre du contrôle, et par l’Air, le mental, la prison est surtout faite de pensées — et la sortie commence par le bandeau qu’on retire."
 ---
 Le Huit d’Épées en amour décrit le sentiment d’être pris au piège — et, dans le même dessin, la sortie que vous avez déjà. Pour cette carte, j’ai noté sans détour : elle est sa propre geôlière, et elle a déjà de quoi se libérer. Le bandeau, on peut l’enlever.
 
@@ -21,7 +21,7 @@ Le huit, c’est le 4 exalté : le contrôle, l’empire, tout ce qui est tenu e
 
 En amour, le Huit d’Épées, c’est donc une relation, ou une vie de célibataire, que le mental mène contre lui-même. La prison est faite de phrases : « personne ne voudra de moi », « je ne peux pas partir maintenant », « si je parle, je gâche tout ». Chacune paraît aussi solide qu’une lame. **Elle ne manque pas de ressources ; elle ne les voit pas.**
 
-Baissez les yeux vers ses pieds : rien ne les attache. Le château, les flaques et Jupiter en Gémeaux sont sur [la page du Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/).
+Baissez les yeux vers ses pieds : rien ne les attache. Je laisse le château, les flaques et Jupiter en Gémeaux à [l’étude complète du Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/).
 
 ## Les épées qu’on plante soi-même {#epees-plantees}
 
@@ -55,7 +55,7 @@ Avec cette carte, on pose souvent des questions sur l’autre. « Va-t-il la qui
 
 Les choix d’une autre personne, je ne les lis pas : elle n’a pas pris part à la lecture, et ses décisions lui appartiennent. Lire quelqu’un à son insu, c’est fureter dans sa chambre en son absence ; et quelqu’un qu’on lit sans qu’il le sache reste fermé : on ne capte que des bribes, et on en tire des conclusions entières. J’en dis plus dans [tirer les cartes sur quelqu’un d’autre](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/). Il y a aussi une raison plus tendre : cette question garde le bandeau en place, parce qu’elle confie votre sortie à quelqu’un d’autre.
 
-Une question plus douce : « Laquelle de mes propres pensées me retient ici, et laquelle puis-je desserrer en premier ? » Elle est à vous, donc elle a une réponse, et le pas hors du cercle, c’est vous qui le faites.
+Celle-ci, en revanche, vous rend la clé : « Laquelle de mes propres pensées me retient ici, et laquelle puis-je desserrer en premier ? » Elle est à vous, donc elle a une réponse, et le pas hors du cercle, c’est vous qui le faites.
 
 ## Faits ou histoires : huit lignes à remplir {#huit-lignes}
 

@@ -23,7 +23,7 @@ Arthur Edward Waite a publié ce tirage dans le guide qu’il a écrit pour le R
 
 Vous trouverez des livres qui numérotent autrement les quatre cartes autour du centre. Choisissez une version, notez-la, et gardez-la : une disposition qui change chaque semaine ne peut rien vous apprendre.
 
-Ne la confondez pas avec le tirage en croix qu’on apprend en France, qui n’en partage guère que la silhouette : cinq cartes, pas de colonne, et une carte centrale qu’on calcule en additionnant les quatre autres. Celui-là a sa propre page, [le tirage en croix](/fr/blog/tirage-en-croix/) ; ici, il s’agit de la croix celtique, en dix cartes.
+Ne la confondez pas avec le tirage en croix qu’on apprend en France, qui n’en partage guère que la silhouette : cinq cartes, pas de colonne, et une carte centrale qu’on calcule en additionnant les quatre autres. Pour celui-là, voyez [le tirage en croix à la française](/fr/blog/tirage-en-croix/) ; ici, il s’agit de la croix celtique, en dix cartes.
 
 Waite commençait par choisir une carte pour représenter la personne — la carte significatrice — et posait le tirage par-dessus. Je saute cette étape. [Je lis sans carte significatrice](/fr/blog/carte-significatrice-tarot/) : la carte 1 sort du mélange, comme les autres.
 
@@ -54,7 +54,7 @@ L’œil file droit sur la carte 10. Beaucoup de livres l’appellent « le rés
 
 Et les contradictions. Dix cartes contiennent presque toujours une carte pleine d’espoir et une carte lourde. Les débutants essaient de les mettre d’accord, alors que la tension entre elles est souvent la lecture elle-même.
 
-Il y a un cinquième piège pour qui lit pour les autres. Si vous connaissez la question avant de poser les cartes, dix cartes vous offrent dix façons de la confirmer. Avec la règle du silence — la personne ne me dit rien avant —, la carte 1 devient un test : elle décrit sa situation, ou non. À mon décompte, environ une lecture sur dix rate, et un grand tirage n’y change rien. Il vous donne seulement plus de cartes derrière lesquelles vous cacher.
+Il y a un cinquième piège pour qui lit pour les autres. Si vous connaissez la question avant de poser les cartes, dix cartes vous offrent dix façons de la confirmer. Avec la règle du silence, qui veut que je ne sache rien avant de lire, la carte 1 devient un test : elle décrit sa situation, ou non. Par mon propre comptage, une lecture sur dix environ me file entre les doigts, et un grand tirage n’y change rien. Il vous donne seulement plus de cartes derrière lesquelles vous cacher.
 
 ## Une façon plus douce d’y entrer {#plus-douce}
 
@@ -64,7 +64,7 @@ Apprenez-la en trois temps, à peu près une semaine chacun.
 2. Le cercle : six cartes. Ajoutez les quatre autour. Vous avez toute la situation, toujours en une ou deux phrases.
 3. Les dix. Ajoutez la colonne, et lisez le tirage en trois phrases plutôt qu’en dix : une pour la croix, une pour le cercle, une pour la colonne.
 
-Deux habitudes aident dès le premier jour. Écrivez les dix positions sur un papier posé à côté du tirage, pour que votre mémoire n’ait pas à tout porter. Et lisez les clés de lecture sur les dix cartes avant toute position : combien d’arcanes majeurs, quel élément domine, quelle couleur l’emporte, si un nombre revient. Six Coupes sur dix, et c’est une affaire de sentiments, quelle que soit la question. Aucun arcane majeur, et la situation est entre des mains ordinaires : les vôtres.
+Deux habitudes aident dès le premier jour. Écrivez les dix positions sur un papier posé à côté du tirage, pour que votre mémoire n’ait pas à tout porter. Et lisez les clés de lecture sur les dix cartes avant toute position : combien d’arcanes majeurs, quel élément domine, quelle couleur l’emporte, si un nombre revient. Six Coupes sur dix : les émotions mènent la danse, quel que soit le sujet posé. Aucun arcane majeur, et la situation est entre des mains ordinaires : les vôtres.
 
 **Si les dix cartes vous paraissent encore trop, c’est une information, pas un échec.** [Un tirage en trois cartes](/fr/blog/tirage-passe-present-futur/) répond à la plupart des questions, et [savoir s’il vous faut un tirage structuré](/fr/blog/faut-il-des-tirages-structures/) est une vraie question à vous poser.
 
@@ -84,11 +84,11 @@ La croix. Une silhouette en cape rouge s’éloigne de nuit de huit coupes empil
 
 Le cercle. Au-dessus, l’Étoile : une femme verse l’eau de deux cruches sous une grande étoile jaune — l’espoir, le renouveau. En dessous, le Six de Coupes : des enfants et des fleurs blanches, quelque chose qu’on a aimé il y a longtemps. Derrière, le Cinq de Bâtons : le bruit et les disputes, qui s’éloignent. Devant, le Valet de Pentacles, les yeux fixés sur la pièce qu’il tient levée — apprendre, commencer petit.
 
-La colonne. Vous : le Deux d’Épées, bandeau noué, les bras croisés sur deux lames, du gris presque partout — indécise, et qui ne regarde pas tout à fait. Autour de vous : le Trois de Coupes, trois femmes qui lèvent leur coupe — des amis qui fêteraient ça avec vous. Espoirs et craintes : le Neuf d’Épées, quelqu’un assis dans son lit en pleine nuit, le visage dans les mains — la version trois heures du matin de tout ça, que mes notes lisent aussi comme la sortie d’une longue période agitée. La direction : l’As de Bâtons, une main sortant d’un nuage qui tient un bâton en bourgeons — le Feu, le chiffre 1, une étincelle neuve.
+La colonne. Vous : le Deux d’Épées, bandeau noué, les bras croisés sur deux lames, du gris presque partout — indécise, et qui ne regarde pas tout à fait. Autour de vous : le Trois de Coupes, trois femmes qui lèvent leur coupe — des amis qui fêteraient ça avec vous. Espoirs et craintes : le Neuf d’Épées, une silhouette redressée sur son oreiller au cœur de la nuit, la tête entre les mains — la version trois heures du matin de tout ça, que mes notes lisent aussi comme la sortie d’une longue période agitée. La direction : l’As de Bâtons, une main sortant d’un nuage qui tient un bâton en bourgeons — le Feu, le chiffre 1, une étincelle neuve.
 
 Trois phrases, à voix haute :
 
-« Vous vous éloignez de quelque chose qui vous remplissait autrefois, et une partie de vous s’accroche à la sécurité que ça vous donnait. Ce qui vous attire, c’est l’espoir, et quelque chose que vous aimiez il y a longtemps ; les disputes sont derrière vous, et ce qui vient, c’est apprendre, en commençant petit. Vous n’avez pas encore décidé et vous ne regardez pas tout à fait ; vos amis sont de votre côté, les nuits sont le plus dur, et la direction, si vous continuez, c’est un nouveau départ. »
+« Vous laissez derrière vous ce qui vous remplissait autrefois, et une partie de vous s’accroche à la sécurité que ça vous donnait. Ce qui vous attire, c’est l’espoir, et quelque chose que vous aimiez il y a longtemps ; les disputes sont derrière vous, et ce qui vient, c’est apprendre, en commençant petit. Vous n’avez pas encore décidé et vous ne regardez pas tout à fait ; vos amis sont de votre côté, les nuits sont le plus dur, et la direction, si vous continuez, c’est un nouveau départ. »
 
 C’est là que la règle du silence porte ses fruits : la personne attend que j’aie fini, puis me dit ce qui a tenu. Si le cœur de la situation ne résonne pas, les neuf autres cartes n’ont pas à le sauver, et il n’y a pas de onzième carte pour éclaircir.
 
@@ -98,4 +98,4 @@ La carte 10 se lit en dernier, et légèrement. C’est une direction, pas une p
 
 Le tarot ne commande rien : ce que vous ressentez pèse plus lourd que la carte posée en dixième position. Et un grand tirage n’ouvre pas la porte à ce que je laisse hors des lectures : maladie, décès, grossesse, affaires en justice, choix financiers, personnes absentes. [Mes refus et leurs raisons](/fr/avertissements/#refus) valent pour dix cartes comme pour une.
 
-Si vous voulez poser votre première croix celtique avec quelqu’un à côté de vous, un [atelier](/fr/ateliers/), c’est trois heures, douze personnes et beaucoup de cartes sur la table.
+Votre première croix celtique peut aussi se poser en groupe : un [atelier](/fr/ateliers/) réunit douze personnes pendant trois heures, et la table disparaît vite sous les cartes.

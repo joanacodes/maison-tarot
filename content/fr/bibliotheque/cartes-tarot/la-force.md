@@ -38,7 +38,7 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-Une femme en longue robe blanche se penche sur un grand lion fauve et lui tient la gueule à deux mains. Dans son guide du jeu, Waite écrit qu’elle la referme ; regardez son visage, vous n’y verrez aucun effort. Elle a des fleurs dans les cheveux et une guirlande de roses rouges à la taille. Au-dessus de sa tête flotte le signe qu’on a d’abord croisé chez le Magicien : une boucle d’infini.
+Une femme en longue robe blanche se penche sur un grand lion fauve et lui tient la gueule à deux mains. Dans son guide du jeu, Waite écrit qu’elle la referme ; regardez son visage, vous n’y verrez aucun effort. Elle a des fleurs dans les cheveux et une guirlande de roses rouges à la taille. Une boucle d’infini plane au-dessus d’elle, la même qu’on a d’abord vue chez le Magicien.
 
 La queue du lion est rentrée entre ses pattes arrière. Autour d’eux, une plaine verte, une montagne bleue au loin, un ciel jaune. Remarquez ce qui manque : pas d’arme, pas de chaîne, pas de fouet, pas de public. **Le dessin parle d’une force qui n’a pas besoin de se battre** : l’animal le plus dangereux de l’image a été calmé par quelqu’un qui n’a jamais haussé le ton.
 
@@ -50,7 +50,7 @@ Instagram passe ce cap le jour où il devient une infrastructure : plus personne
 
 ## Par l’élément : Feu {#element}
 
-La Force est une carte de [Feu](/fr/bibliotheque/quatre-elements/element-feu/), et le Feu, c’est le lion : la passion, l’élan, l’énergie qui met en mouvement. Le feu forge les outils et chauffe la maison ; livré à lui-même, il se propage et la fait brûler. La carte n’éteint pas le feu. Elle garde le lion vivant, et calme.
+Son élément est le [Feu](/fr/bibliotheque/quatre-elements/element-feu/), et ici le Feu a la forme du lion : la passion, l’élan, ce qui pousse à agir. Il sert à forger les outils et à chauffer la maison ; livré à lui-même, il se propage et la fait brûler. La carte n’éteint pas le feu. Elle garde le lion vivant, et calme.
 
 Pensez à un ado persuadé que rien ne lui résiste, avec toute l’énergie qui va avec. La Force n’est pas l’adulte qui écrase cette énergie ; c’est celui qui l’aide à durer. L’énergie de la carte est [féminine](/fr/bibliotheque/energies-feminine-masculine/) : la patience et la douceur font un travail que la force brute ferait mal. La Fontaine l’a dit en une ligne, à la fin de *Phébus et Borée* : « Plus fait douceur que violence. »
 
@@ -70,7 +70,7 @@ Le [Lion](/fr/bibliotheque/astrologie/lion/) revient à la Force dans la Golden 
 
 Renversée, le lion prend le dessus, ou la main serre trop fort. Deux images opposées : la colère qui déborde après des semaines à la ravaler, ou une maîtrise de soi si serrée qu’on a oublié à quoi servait le feu. Demandez laquelle des deux ; la personne le sait en général tout de suite.
 
-À côté du [Chariot](/fr/bibliotheque/cartes-tarot/le-chariot/), c’est la même victoire gagnée de deux façons : le Chariot par la direction, la Force par la douceur. À côté du [Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/), qui porte la même boucle au-dessus de la tête, c’est le savoir-faire tourné vers l’intérieur. À côté du [Cinq de Bâtons](/fr/bibliotheque/cartes-tarot/cinq-de-batons/), c’est la personne calme dans une pièce où tout le monde crie.
+À côté du [Chariot](/fr/bibliotheque/cartes-tarot/le-chariot/), c’est la même victoire gagnée de deux façons : le Chariot par la direction, la Force par la douceur. À côté du [Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/), qui porte la même boucle au-dessus de la tête, c’est le savoir-faire tourné vers l’intérieur. Avec le [Cinq de Bâtons](/fr/bibliotheque/cartes-tarot/cinq-de-batons/), elle devient la personne calme dans une pièce où tout le monde crie.
 
 {{< cards "ar07 ar01 wa05" >}}
 

@@ -13,7 +13,7 @@ summary: "Les nombres miroirs, qu’on appelle aussi « angel numbers » ou nomb
 ---
 Les nombres miroirs — les « angel numbers » des sites anglophones — sont des suites de chiffres répétés, comme 111, 222, 444 ou 777, que certaines personnes remarquent encore et encore et lisent comme un message, souvent venu d’anges ou de guides. Quoi que vous mettiez derrière, le nombre lui-même se lit : c’est un chiffre du cycle de 1 à 10, dit trois fois.
 
-Ça en fait une bonne question à vous poser, et rien à quoi vous devriez obéir.
+De quoi vous faire réfléchir, donc, et rien à quoi obéir.
 
 ## Ce que sont les nombres miroirs {#definition}
 
@@ -38,7 +38,7 @@ Lisez le chiffre, pas la répétition. La répétition dit « regardez » ; le c
 | 555 | 5 — l’épreuve | Quel conflit vaut la peine, et lequel est inutile ? |
 | 666 | 6 — l’expansion, la réussite | Puis-je rester calme pendant que tout roule ? |
 | 777 | 7 — l’analyse, la patience | Qu’est-ce qui demande réflexion avant d’agir ? |
-| 888 | 8 — l’empire, le contrôle | À quoi est-ce que je m’accroche, et que vais-je transmettre ? |
+| 888 | 8 — l’empire, le contrôle | Qu’est-ce que je n’arrive pas à lâcher, et que vais-je transmettre ? |
 | 999 | 9 — la dernière ligne droite | Qu’est-ce qui se termine, et quel est le dernier effort ? |
 | 000 | 0 ou 10 — la transition | Entre quelles deux pièces suis-je en train de passer ? |
 
@@ -85,4 +85,4 @@ Si vous remarquez que vous attendez un nombre avant de choisir quoi que ce soit,
 
 ## Pour aller plus loin {#pour-aller-plus-loin}
 
-Pour l’heure miroir la plus célèbre, lisez [voir 11h11 partout](/fr/blog/11h11-signification/). Et si vous voulez un nombre qui se calcule une fois et reste le vôtre, essayez votre [chemin de vie](/fr/blog/chemin-de-vie-numerologie/).
+Pour l’heure miroir la plus célèbre, lisez [voir 11h11 partout](/fr/blog/11h11-signification/). Un nombre qui ne bouge pas, lui, c’est votre [chemin de vie](/fr/blog/chemin-de-vie-numerologie/) : on le calcule d’après la date de naissance, une fois pour toutes.

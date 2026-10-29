@@ -64,7 +64,7 @@ Acheter d’autres jeux. Un deuxième jeu vous apprend un deuxième style de des
 
 Se tirer les cartes plusieurs fois par jour. Une lecture pour un inconnu vous en apprend plus que vingt sur vos propres inquiétudes.
 
-Les livres aident pour les clés de lecture ; pour les nombres, je conseille le livre de tarot de Corrine Kenner. Mais [ce qu’un livre ne peut pas vous donner](/fr/blog/apprendre-le-tarot-dans-un-livre/), c’est le moment où vous dites quelque chose de vrai sur quelqu’un et où vos propres mots vous surprennent.
+Les livres aident pour les clés de lecture — celui de Corrine Kenner, par exemple, quand on veut creuser les nombres. Mais [ce qu’un livre ne peut pas vous donner](/fr/blog/apprendre-le-tarot-dans-un-livre/), c’est l’instant où vous visez juste sur quelqu’un et en restez le premier surpris.
 
 ## Quand peut-on dire qu’on « sait » ? {#quand-on-sait}
 
@@ -74,6 +74,6 @@ Une ligne d’arrivée plus utile : vous lisez une carte sans tendre la main ver
 
 ## Commencer aujourd’hui {#commencer-aujourd-hui}
 
-Tirez une carte maintenant. Dites sa couleur, son nombre et son élément, puis une phrase. C’est le premier jour du calendrier.
+Tirez une carte maintenant. Nommez la couleur qui domine, le nombre, l’élément, et faites-en une phrase. C’est le premier jour du calendrier.
 
 Si vous préférez commencer avec quelqu’un à côté, chaque [atelier](/fr/ateliers/) s’ouvre sur une carte tirée dans les dix premières minutes, et [le parcours d’apprentissage](/fr/apprendre-le-tarot/) range les clés de lecture dans l’ordre.

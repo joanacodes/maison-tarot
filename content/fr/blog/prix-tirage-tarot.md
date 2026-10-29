@@ -24,13 +24,13 @@ En France, un tirage se vend sous une poignée de formes. **C’est la forme qui
 - *En forfait ou en abonnement.* Un paquet de questions ou une formule mensuelle, moins cher à l’unité. [Le paiement à la question et les abonnements](/fr/blog/tarot-payant-a-la-question/) méritent une page à eux seuls.
 - *En salon.* Quelques minutes sur un stand, dans un salon du bien-être ou un salon de la voyance.
 
-Vous ne trouverez pas de fourchette de prix sur cette page. Les prix publiés sont la grille de chaque tarologue : ils disent ce que demande une personne, pas ce que coûte un tirage. Pour obtenir une fourchette qui ait du sens là où vous vivez, prenez trois tarologues qui vendent la même formule pour la même durée, notez le total que chacun demanderait, et comparez ces trois chiffres. Un tarif à la minute à côté d’un prix à l’heure ne vous dit rien tant que vous n’avez pas converti les deux en total.
+Vous ne trouverez pas de fourchette de prix sur cette page. Les prix publiés sont la grille de chaque tarologue : ils disent ce que demande une personne, pas ce que coûte un tirage. Pour obtenir une fourchette qui ait du sens là où vous vivez, prenez trois tarologues qui vendent la même formule pour la même durée, notez le total que chacun demanderait, et comparez ces trois chiffres. Un tarif à la minute à côté d’un prix à l’heure reste muet tant que les deux ne sont pas convertis en total.
 
 ## Ce que paie un prix honnête {#ce-que-paie-un-prix}
 
 Du temps, d’abord, et plus que ce que vous voyez. Une heure de tirage, c’est de la préparation avant, des notes après, et du repos. Interpréter fatigue, au point que deux heures d’affilée suffisent parfois à me faire ranger le jeu ; quelqu’un qui travaille à la journée doit donc intégrer dans son prix les heures qu’il ne peut pas vendre.
 
-De l’expérience, mais pas celle qui se compte en années. Ce qui compte, c’est de savoir si la personne a vérifié son propre travail. Quelqu’un qui tient un carnet — ce qu’il a dit d’un côté, ce qui a été confirmé de l’autre — connaît son taux de ratés. Quelqu’un qui n’en tient pas devine sa propre justesse, et fait payer la devinette.
+De l’expérience, mais pas celle qui se compte en années. Ce qui compte, c’est de savoir si la personne a vérifié son propre travail. Quelqu’un qui tient un carnet, ses phrases d’un côté et ce qui s’est vérifié en face, connaît son taux de ratés. Quelqu’un qui n’en tient pas devine sa propre justesse, et fait payer la devinette.
 
 Ensuite, les frais que vous ne croisez jamais. Une plateforme ou une ligne de voyance garde une part de ce que vous payez. Un cabinet à Paris, ou dans le centre de n’importe quelle grande ville, a un loyer. Il y a les frais de paiement, un site, parfois une assurance. Et les cotisations : un tarologue à son compte — micro-entrepreneur, par exemple — en reverse une partie à l’URSSAF, sans compter l’impôt.
 
@@ -40,7 +40,7 @@ Imaginez deux tarologues qui demandent le même prix pour une heure. L’une lit
 
 Certaines choses se vendent comme un supplément et ne devraient pas :
 
-- *Un « don ».* Il n’y en a pas ; tout le monde peut apprendre à lire, donc rien à facturer en plus.
+- *Un « don ».* Il n’y en a pas ; lire les cartes est à la portée de chacun, donc rien à facturer en plus.
 - *Une lignée ou un titre*, avancés comme la raison du prix plutôt que comme un parcours.
 - *L’urgence.* « Je vois quelque chose de grave, rappelez-moi aujourd’hui. »
 - *Les objets et les rituels.* Bougies, bains, « nettoyages » ajoutés après la lecture.
@@ -62,4 +62,4 @@ Je ne vends pas de tirages, donc je suis en dehors de ce marché. Je vends des c
 
 Une limite honnête : aucune grille tarifaire ne vous dira ce qu’un tirage vaut pour vous. Ça dépend de ce que vous en faites ensuite, et un tirage n’est pas une raison d’agir.
 
-Si vous voulez voir un tirage avant de payer pour un seul, [venez à un événement gratuit](/fr/evenements/). Les personnes sont tirées au sort, elles ne me disent rien, et les ratés sont dits à voix haute.
+Avant de payer le moindre tirage, regardez-en quelques-uns [lors d’un événement gratuit](/fr/evenements/). Les personnes sont tirées au sort, elles ne me disent rien, et les ratés sont dits à voix haute.

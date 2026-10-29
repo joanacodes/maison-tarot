@@ -58,4 +58,4 @@ Ce désir mérite d’être entendu. Si l’on me demande un sort, j’entends :
 
 ## Une question que les cartes peuvent porter {#une-question}
 
-Une lecture ne changera le cœur de personne à votre place. Ce qu’elle peut faire, c’est regarder où vous en êtes. Au lieu de « Est-ce que le sort va marcher ? », essayez « Qu’est-ce qui m’aiderait à me sentir plus stable ce mois-ci ? ». Et si vous voulez voir une lecture qui ne coûte rien et ne promet rien, venez à l’un des [événements gratuits](/fr/evenements/).
+Une lecture ne changera le cœur de personne à votre place. Elle peut, en revanche, faire le point sur votre situation à vous. Plutôt que « Est-ce que le sort va marcher ? », demandez « Qu’est-ce qui me rendrait plus solide ce mois-ci ? ». Une lecture qui ne coûte rien et ne promet rien, c’est ce que proposent les [événements gratuits](/fr/evenements/).

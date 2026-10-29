@@ -68,7 +68,7 @@ L’énergie de la Balance se veut juste et recherche l’équilibre à tout pri
 
 ## Côtés favorables, côtés défavorables {#revers}
 
-**Favorables.** Se veut juste ; cherche l’équilibre à tout prix ; impartiale dans un conflit, parce qu’elle voudrait que chaque partie reparte avec la même chose.
+**Favorables.** Se veut juste ; cherche l’équilibre à tout prix ; impartiale dans un conflit, parce qu’elle tient à ce que personne n’en sorte plus lésé que l’autre.
 
 **Défavorables.** Indécision — paralysée devant un dilemme cornélien.
 

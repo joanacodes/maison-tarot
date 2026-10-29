@@ -17,7 +17,7 @@ Presque tout le monde fait la même douzaine d’erreurs le premier mois avec le
 
 ### 1. Apprendre le livret par cœur
 
-Le petit livret glissé dans la boîte donne quelques mots-clés par carte, et le premier réflexe est de tout réviser, comme pour un contrôle. Résultat : on récite au lieu de lire, et on bloque à la première carte oubliée. Apprenez plutôt trois questions à poser à n’importe quelle carte — sa couleur, son nombre, son élément. [L’antisèche](/fr/blog/antiseche-tarot/) tient sur une page.
+Le petit livret glissé dans la boîte donne quelques mots-clés par carte, et le premier réflexe est de tout réviser, comme pour un contrôle. Résultat : on récite au lieu de lire, et on bloque à la première carte oubliée. Apprenez plutôt à interroger chaque carte sur trois points : sa couleur, son nombre, son élément. [L’antisèche](/fr/blog/antiseche-tarot/) tient sur une page.
 
 ### 2. Attendre de se sentir doué
 

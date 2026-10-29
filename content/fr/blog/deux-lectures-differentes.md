@@ -37,7 +37,7 @@ Les deux peuvent mettre le doigt sur chaque phrase. Imaginons que la personne h�
 
 ## Un tirage se lit comme une œuvre {#une-oeuvre}
 
-Lire un tirage, pour moi, tient plus de l’art que du calcul. Certains tarologues suivent des schémas fixes : un tirage sur le travail se pose comme ceci, toujours. D’autres suivent leur intuition et inventent un tirage pour chaque personne. L’un voit une histoire, l’autre en voit une autre, et chacun peut expliquer pourquoi.
+Lire un tirage, pour moi, tient plus de l’art que du calcul. Certains tarologues suivent des schémas fixes : un tirage sur le travail se pose comme ceci, toujours. D’autres se fient à leur intuition et improvisent une disposition neuve à chaque consultation. L’un voit une histoire, l’autre en voit une autre, et chacun peut expliquer pourquoi.
 
 On l’a tous fait au lycée. Un même poème de Baudelaire, trente commentaires de texte, trente lectures différentes — et les bonnes notes vont à celles qui citent le texte, pas à celles qui « ont raison ». Un tirage, c’est aussi un moment : cette personne, ces cartes, ce lecteur, ce jour-là. Il ne reviendra pas pareil. J’en parle plus longuement dans [pourquoi je considère le tarot comme un art](/fr/blog/le-tarot-est-il-un-art/).
 
@@ -47,7 +47,7 @@ L’art est un des rares endroits où notre société accepte ce qu’elle ne sa
 
 Une lecture différente, ce n’est pas grave. Certaines différences méritent quand même un second regard :
 
-- *L’un connaissait votre histoire, l’autre non.* Celui qui savait lisait peut-être vous, et pas les cartes. C’est pour ça que je demande qu’on ne me dise rien, comme je l’explique dans [la règle du silence](/fr/blog/regle-du-silence-tarot/).
+- *L’un connaissait votre histoire, l’autre non.* Celui qui savait lisait peut-être vous, et pas les cartes. D’où mon habitude de lire sans rien savoir de la personne, que j’explique dans [la règle du silence](/fr/blog/regle-du-silence-tarot/).
 - *Le tarologue ne sait pas dire où il l’a vu.* Si rien sur la carte ne soutient une phrase, il n’y a rien à vérifier.
 - *Ils se contredisent sur un oui ou non à propos de l’avenir.* Le problème vient alors souvent de la question, pas des tarologues.
 - *Le second tirage servait à obtenir une meilleure réponse.* Ça s’appelle faire les magasins, et ça apaise rarement ; mieux vaut savoir [combien de temps laisser entre deux tirages](/fr/blog/combien-de-temps-entre-deux-tirages/).

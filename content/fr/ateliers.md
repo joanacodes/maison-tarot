@@ -4,7 +4,7 @@ description: "Les ateliers Maison Tarot : en ligne ou en personne, trois heures,
 translationKey: workshops
 type: offer
 eyebrow: "en groupe"
-h1: "Une clé de lecture à la fois, et vous lisez une carte que vous n’avez <em>jamais vue</em>."
+h1: "Une clé de lecture à la fois, et même une carte inconnue <em>vous répond</em>."
 lede: "Un atelier, c’est trois heures, douze personnes au plus, et une seule chose à apprendre : lire par les couleurs, ou par les nombres, ou par les éléments. À la fin, vous lisez une carte inconnue devant les autres. Ça marche presque toujours, et c’est ce moment-là qui compte."
 image: "workshop.jpg"
 imageAlt: "Une table longue, des cartes étalées, des gens penchés dessus"
@@ -39,7 +39,7 @@ faq:
   - q: "Faut-il avoir suivi un atelier avant un autre ?"
     a: "Non. Chaque atelier tient seul. Il n’y a pas de niveau 1, 2, 3 : la Maison n’aime pas les hiérarchies, même entre ateliers."
   - q: "En ligne ou en personne ?"
-    a: "Les deux existent. En ligne, dans votre fuseau. En présentiel, à Paris ou lors des étapes de la Maison dans d’autres villes — les dates sont sur la page Événements."
+    a: "Les deux existent. En ligne, dans votre fuseau. En présentiel, à Paris ou lors des étapes de la Maison dans d’autres villes : le calendrier des Événements donne les dates."
   - q: "Faut-il un jeu ?"
     a: "Oui, un Rider-Waite-Smith. Pas encore de jeu ? Prévenez au moment de réserver : il y a toujours moyen de s’arranger."
   - q: "Y a-t-il des notes, des examens ?"

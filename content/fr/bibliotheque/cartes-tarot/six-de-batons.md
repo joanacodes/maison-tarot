@@ -81,7 +81,7 @@ Renversé, le cortège ne vient pas. Le travail est fait et personne ne le remar
 
 ## Exemple de tirage {#exemple}
 
-Que feriez-vous du Six de Bâtons à côté du Quatre de Coupes ? Prenez-le comme un exercice. Le nombre : six, puis quatre — la réussite, puis une stabilité qui peut tourner à l’ennui. L’élément : le Feu, puis l’Eau — la reconnaissance publique, puis le ressenti intime. Les couleurs : le vert, le rouge et le bleu du cortège, puis un jeune homme sous un arbre, bras croisés, qui ignore la coupe qu’une main lui tend depuis un nuage.
+Que feriez-vous du Six de Bâtons à côté du Quatre de Coupes ? Prenez-le comme un exercice. Le nombre : six, puis quatre — la réussite, puis une stabilité qui peut tourner à l’ennui. L’élément : le Feu, puis l’Eau — la reconnaissance publique, puis le ressenti intime. Les couleurs : le vert, le rouge et le bleu du cortège, puis, adossé à un tronc, un jeune homme aux bras croisés qui ne voit pas la coupe tendue hors d’un nuage.
 
 Après le triomphe, l’ennui sous l’arbre : « Une réussite récente a été remarquée autour de vous. Mais à l’intérieur, ce n’est pas ce que vous imaginiez — quelque chose vous laisse à plat, et vous passez peut-être à côté d’une nouvelle proposition à cause de ça. »
 

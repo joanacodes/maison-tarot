@@ -19,7 +19,7 @@ En amour, l’Impératrice, c’est le soin : une relation qui vous nourrit, une
 
 L’Impératrice porte le 3, la machine qui tourne : quelque chose qui fonctionne, et qui se voit. Dans mes notes, le 3 veut qu’on achève une entreprise avant d’en lancer une autre ; mal vécu, il éparpille ses graines dans tous les sens. En amour, c’est une relation qui donne — et la tentation de prendre en charge les besoins de tout le monde, puisque ça marche si bien.
 
-Son élément, c’est la Terre : protectrice, stable, mère de toute croissance, et entêtée. Entre deux personnes, les richesses, ce sont les repas, le temps, l’attention, une maison qui ressemble à un foyer. Vénus, sa planète, y ajoute ce que vous aimez et la façon dont vous aimez.
+Son élément, c’est la Terre : protectrice, stable, mère de toute croissance, et entêtée. Entre deux personnes, les richesses, ce sont les repas, le temps, l’attention, une maison qui ressemble à un foyer. Vénus, sa planète, y ajoute vos goûts en amour et votre manière d’aimer.
 
 Son énergie est féminine, et chez moi ce mot ne désigne ni les femmes ni les hommes ([le féminin et le masculin, au sens où je les emploie](/fr/bibliotheque/energies-feminine-masculine/feminin-masculin/)). C’est une dynamique : la patience, la douceur, ce qui travaille en coulisses. N’importe qui peut porter l’Impératrice dans une relation — celle ou celui qui retient les rendez-vous de tout le monde, l’homme qui fait le pot-au-feu pour toute la famille le dimanche.
 
@@ -31,7 +31,7 @@ Parce que l’Impératrice est la lame de la mère, la question qui vient avec e
 
 Grossesse et fertilité : là, je ne tire pas les cartes. Pas parce que la question n’est pas importante : parce qu’elle l’est trop pour une carte. Un mot de travers, là, fait vraiment mal, dans un sens comme dans l’autre, et un médecin ou un spécialiste de la fertilité peut vous donner des réponses que je n’ai pas. J’ai écrit sur [les questions de grossesse, et ce que je lis à la place](/fr/blog/tarot-et-grossesse/).
 
-Ce que l’Impératrice peut porter en attendant, c’est son autre moitié : le soin de vous. Une question plus douce : « Qui prend soin de moi pendant que je prends soin de tout le monde ? » ou « Qu’est-ce qui me nourrirait vraiment, ce mois-ci ? » Mes notes sur le [travail de l’ombre](/fr/blog/travail-sur-lombre/) disent de se traiter avec autant de douceur et de tolérance qu’on en a pour les autres. L’Impératrice, c’est cette phrase, dessinée.
+Ce que l’Impératrice peut porter en attendant, c’est son autre moitié : le soin de vous. Appliquez-vous à vous-même le geste nourricier de la carte : « Qui prend soin de moi pendant que je prends soin de tout le monde ? » ou « Qu’est-ce qui me nourrirait vraiment, ce mois-ci ? » Mes notes sur le [travail de l’ombre](/fr/blog/travail-sur-lombre/) disent de se traiter avec autant de douceur et de tolérance qu’on en a pour les autres. L’Impératrice, c’est cette phrase, dessinée.
 
 ## Qui met le couvert, et pour qui {#qui-met-le-couvert}
 
@@ -53,7 +53,7 @@ Après une rupture, l’Impératrice tourne le soin vers vous. Mangez correcteme
 
 À côté de l’Étoile, le soin se tourne vers vous après une période difficile ; [l’Étoile en amour](/fr/blog/letoile-tarot-amour/) parle de garder cet espoir.
 
-À côté du Quatre de Coupes — un personnage assis sous un arbre, les bras croisés, qui ignore la coupe qu’on lui tend —, le soin est offert et pas reçu. Soit quelqu’un ne voit pas ce qu’on lui donne, soit il se lasse qu’on lui donne autant.
+À côté du Quatre de Coupes, où un jeune homme, l’air fermé, ne voit pas la coupe qu’on lui offre, le soin est donné et pas reçu. Soit quelqu’un ne voit pas ce qu’on lui donne, soit il se lasse qu’on lui donne autant.
 
 ## Inversée, quand le soin déborde ou se tarit {#inversee}
 

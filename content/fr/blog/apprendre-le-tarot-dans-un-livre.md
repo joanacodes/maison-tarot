@@ -65,4 +65,4 @@ C’est tout. Deux livres, un guide, et beaucoup de cartes posées sur beaucoup 
 
 ## Fermez le livre, ouvrez le jeu {#etape-suivante}
 
-Ce soir, tirez une carte et racontez ce qui est dessiné, livre fermé, avant toute définition. Puis lisez ce qu’en dit le livre, et notez où vous êtes d’accord. Si vous préférez essayer avec d’autres personnes autour de vous, dans les [ateliers](/fr/ateliers/), vous tenez déjà une carte quand la théorie n’a pas encore commencé — exprès.
+Ce soir, tirez une carte et racontez ce qui est dessiné, livre fermé, avant toute définition. Puis lisez ce qu’en dit le livre, et notez où vous êtes d’accord. En groupe, même principe : dans les [ateliers](/fr/ateliers/), vous tenez déjà une carte quand la théorie n’a pas encore commencé — exprès.

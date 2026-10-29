@@ -27,9 +27,9 @@ Voici ce que ça donne avec les trois personnes du titre, avec une carte pour ch
 
 ## Votre ex {#votre-ex}
 
-« Est-ce qu’il pense encore à moi ? » « Est-ce qu’elle a refait sa vie ? » « Va-t-il revenir ? » Ces questions viennent de cette douleur particulière qu’est le fait de ne pas savoir, et je les comprends. Mais une carte ne peut pas vous dire ce que ressent quelqu’un d’autre, et une lecture qui prétend le faire peut vous laisser attendre des mois.
+« Est-ce qu’il pense encore à moi ? » « Est-ce qu’elle a refait sa vie ? » « Va-t-il revenir ? » Ces questions viennent de cette douleur particulière qu’est le fait de ne pas savoir, et je les comprends. Mais ce que ressent quelqu’un d’autre, aucune carte ne peut vous l’apprendre, et une lecture qui prétend le faire peut vous laisser attendre des mois.
 
-Imaginons que vous demandiez plutôt « à quoi je m’accroche encore ? » et que le Huit de Coupes sorte : sous la lune, une silhouette drapée de rouge laisse derrière elle ses coupes bien rangées et part vers les hauteurs. C’est la carte de celui qui passe à autre chose et abandonne ce qui l’occupait jusque-là. Elle ne parle pas du tout de votre ex. Elle parle de vous, et d’une porte que vous êtes peut-être déjà en train de franchir. La version la plus douloureuse de cette question a son propre article : [l’attente d’un retour, et la question à poser à la place](/fr/blog/va-t-il-revenir-tarot/).
+Imaginons que vous demandiez plutôt « à quoi je m’accroche encore ? » et que le Huit de Coupes sorte : sous la lune, une silhouette drapée de rouge laisse derrière elle ses coupes bien rangées et part vers les hauteurs. C’est la carte de celui qui passe à autre chose et abandonne ce qui l’occupait jusque-là. Elle ne parle pas du tout de votre ex. Elle parle de vous, et d’une porte que vous êtes peut-être déjà en train de franchir. La version la plus douloureuse de cette question mérite une page entière : [l’attente d’un retour, et la question à poser à la place](/fr/blog/va-t-il-revenir-tarot/).
 
 ## Votre patron {#votre-patron}
 
@@ -49,8 +49,8 @@ D’autres personnes apparaissent dans les lectures, même quand personne n’a 
 
 Regardez ce qu’a fait cette lecture : elle parlait d’elle, et de sa part à elle. Quand quelqu’un apparaît dans vos cartes, lisez-le tel qu’il vit en vous : votre peur de lui, votre amour pour lui, votre part de l’histoire. Ça, c’est à vous de le regarder. Sa vie intérieure, non.
 
-Et si vous voulez savoir ce que pense l’autre, il existe une méthode qui se passe de cartes : lui demander. S’il est curieux, proposez-lui de s’asseoir, de dire oui, et d’être lu lui-même.
+Pour savoir ce que pense l’autre, il existe une méthode qui se passe de cartes : lui demander. S’il est curieux, proposez-lui de s’asseoir, de dire oui, et d’être lu lui-même.
 
 ## Une lecture sur vous, cette semaine {#cette-semaine}
 
-La prochaine fois que vous prenez votre jeu pour une question sur quelqu’un d’autre, réécrivez-la pour qu’elle commence par « je ». Pas « qu’est-ce qu’il ressent ? », mais « qu’est-ce que je ressens, et qu’est-ce que je veux en faire ? » Tirez une carte et répondez en trois lignes. Et si cette personne dit oui un jour, voici [comment tirer les cartes pour quelqu’un d’autre avec délicatesse](/fr/blog/tirer-les-cartes-pour-quelquun/).
+La prochaine fois que vous prenez votre jeu pour une question sur quelqu’un d’autre, réécrivez-la pour qu’elle commence par « je ». Pas « qu’est-ce qu’il ressent ? », mais « qu’est-ce que je ressens, et qu’est-ce que je veux en faire ? » Tirez une carte et répondez en trois lignes. Et le jour où cette personne dit oui, voici [comment lire pour elle sans la brusquer](/fr/blog/tirer-les-cartes-pour-quelquun/).

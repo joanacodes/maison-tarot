@@ -71,7 +71,7 @@ La phrase suit une forme que vous pouvez reprendre, avec un thème, une carte, o
 4. Laissez la porte ouverte : « Ça vous dit quelque chose ? » Puis acceptez ce qui revient, y compris « d’une certaine façon ».
 5. Arrêtez-vous là. Une seule phrase dure, bien dite, suffit. N’empilez pas les détails pour prouver que vous aviez raison.
 
-J’en dis davantage, y compris sur les sujets que je ne lis pas du tout, dans [comment annoncer une mauvaise nouvelle pendant un tirage](/fr/blog/mauvaise-nouvelle-tirage/).
+J’en dis davantage, y compris sur les sujets que je ne lis pas du tout, dans [ma façon de dire les choses difficiles en lecture](/fr/blog/mauvaise-nouvelle-tirage/).
 
 Et une limite honnête. Un thème dur n’est pas un verdict sur une personne. Dans mon test, l’astrologie a tenu dans 30 à 40 % des cas, et les positions qui tenaient le mieux sont celles qui décrivent une difficulté, ce qui explique peut-être en partie pourquoi elles sonnent si juste. Je garde l’astrologie comme clé de lecture, jamais comme explication de quelqu’un, et jamais comme [excuse](/fr/avertissements/#astrologie).
 
@@ -79,4 +79,4 @@ Et une limite honnête. Un thème dur n’est pas un verdict sur une personne. D
 
 Demandez d’abord, et pour de vrai : la personne peut dire non, et elle peut vous arrêter à tout moment. Décidez à l’avance que vous n’êtes pas là pour l’impressionner. Et avant de dire la chose dure, trouvez son autre moitié — la façon dont la personne la porte —, pour que ce que vous lui tendez soit le tableau entier, pas seulement le poids.
 
-Si vous voulez comprendre pourquoi Saturne, Lilith et Chiron ont si bien tenu quand je les ai testés, et comment vérifier les vôtres, ils ont [leur propre article](/fr/blog/saturne-lilith-chiron/). Et si vous voulez vous entraîner à mettre des mots doux sur des choses dures avec quelqu’un qui vous regarde faire, c’est exactement le genre de chose que permet une [séance individuelle](/fr/sessions/).
+Pourquoi Saturne, Lilith et Chiron ont si bien tenu quand je les ai testés, et comment vérifier les vôtres : je l’explique dans [un article consacré à ces trois points du thème](/fr/blog/saturne-lilith-chiron/). Mettre des mots doux sur des choses dures, avec quelqu’un qui vous regarde faire, c’est le genre de travail qu’on mène en [séance individuelle](/fr/sessions/).

@@ -54,13 +54,13 @@ Le passage des titres de la Golden Dawn aux figures du Rider-Waite-Smith fait d�
 
 {{< cards "waqu cuqu swqu pequ" >}}
 
-Quatre femmes assises sur un trône, aucune ne part nulle part. Dans ma lecture, la [Reine](/fr/bibliotheque/numerologie/reine/) tient : elle a absorbé son élément au point qu’il fait partie d’elle. Binah lui va bien — une compréhension devenue la vôtre.
+Quatre femmes assises sur un trône, aucune ne part nulle part. Dans ma lecture, la [Reine](/fr/bibliotheque/numerologie/reine/) tient : son élément, elle l’a si bien fait sien qu’on ne les distingue plus. Binah lui va bien — une compréhension devenue la vôtre.
 
 ## Binah et l’astrologie : Saturne {#astrologie}
 
 La Golden Dawn donne à Binah [Saturne](/fr/bibliotheque/astrologie/saturne/) : le temps, les limites, la structure, la leçon qui prend des années. C’est la première vraie planète en descendant l’Arbre, et la plus lente des sept que voyaient les Anciens. Une carte rend le lien visible : le Trois d’Épées, Binah dans la série de l’Air, est Saturne en Balance.
 
-Quand j’ai testé l’astrologie sur mon thème et sur ceux des autres, Saturne a fait partie des trois placements qui tenaient le mieux. C’est mon décompte, pas une étude — mais c’est pourquoi le rapprochement ne me paraît pas tiré par les cheveux : la forme, comme Saturne, fait durer les choses, et c’est aussi elle qui fait mal.
+Quand j’ai testé l’astrologie sur mon thème et sur ceux des autres, Saturne est sorti parmi les trois placements les plus solides. C’est mon décompte, pas une étude — mais c’est pourquoi le rapprochement ne me paraît pas tiré par les cheveux : la forme, comme Saturne, fait durer les choses, et c’est aussi elle qui fait mal.
 
 ## Binah dans un tirage {#tirage}
 

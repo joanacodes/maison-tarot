@@ -17,7 +17,7 @@ La plupart du temps, lire une carte n’a rien de spectaculaire : un mot ou une 
 
 Dans mes notes, les impressions passent par tous les canaux que nous avons : images, sons, mots, odeurs, sensations, émotions, et certaines personnes sont plus fines sur l’un d’eux. Quand vous lisez, elles arrivent comme arrivent les pensées. Pas de clochette, pas de voix particulière : ce qui vient parle avec votre propre voix, à la vitesse d’une pensée ordinaire.
 
-Imaginez que vous retourniez le Six de Coupes pour une amie : deux enfants dans une cour, l’un tend à l’autre une coupe remplie de fleurs. Dans mes notes, cette carte parle d’enfance, de temps pris pour soi, d’une seconde floraison. Mais le mot qui vous traverse l’esprit, c’est « école ». Pas un sens appris dans un livre, juste un mot. Ce mot-là, c’est à ça que ressemble une lecture.
+Imaginez que vous retourniez le Six de Coupes pour une amie : deux enfants dans une cour, le plus grand offre à la plus petite une coupe fleurie. Dans mes notes, cette carte parle d’enfance, de temps pris pour soi, d’une seconde floraison. Mais le mot qui vous traverse l’esprit, c’est « école ». Pas un sens appris dans un livre, juste un mot. Ce mot-là, c’est à ça que ressemble une lecture.
 
 {{< cards "cu06" >}}
 
@@ -49,7 +49,7 @@ Rien de tout cela n’est prouvé : je vous livre ce que j’ai vécu, et la fa�
 
 Il y a une troisième sensation, et c’est celle pour laquelle j’enseigne. J’ai fait essayer mes amis et ma famille, et le moment qui compte, c’est celui où quelqu’un dit quelque chose de juste sur la personne en face, et reste saisi par ce qu’il vient de dire.
 
-De l’intérieur, c’est comme entendre sortir de votre bouche une phrase dont vous ne saviez pas qu’elle était en vous. C’est pour ce moment-là que j’enseigne, et je l’ai raconté dans [ce que j’ai appris en faisant essayer mes amis](/fr/blog/enseigner-le-tarot/).
+De l’intérieur, c’est comme entendre sortir de votre bouche une phrase dont vous ne saviez pas qu’elle était en vous. C’est pour ce moment-là que j’enseigne, et je l’ai raconté dans [pourquoi j’ai fini par enseigner](/fr/blog/enseigner-le-tarot/).
 
 Si rien de tout cela ne vous est encore arrivé, c’est le point de départ de presque tout le monde. J’ai consacré une page entière à [ce qu’on peut faire quand on ne ressent rien](/fr/blog/je-ne-ressens-rien-tarot/), et la version courte tient en une phrase : dites ce que vous voyez, le reste suivra.
 

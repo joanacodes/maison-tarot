@@ -63,7 +63,7 @@ Tout cela compose un sentiment calme, de la joie, de la franchise — et une pas
 
 ## Par l’astrologie : Vénus en Cancer {#astrologie}
 
-Le premier décan du Cancer, gouverné par Vénus, est celui du Deux de Coupes. Vénus dit ce qu’on aime et comment on aime. Le [Cancer](/fr/bibliotheque/astrologie/cancer/) dit *Je sens* : la nourrice, la personne qui rend une maison vivable. Ensemble : un amour qui veut un foyer, du soin donné et reçu, l’attachement plus que la conquête.
+Le premier décan du Cancer, gouverné par Vénus, est celui du Deux de Coupes. Vénus règne sur nos goûts et sur notre manière d’aimer. Le [Cancer](/fr/bibliotheque/astrologie/cancer/) dit *Je sens* : la nourrice, la personne qui rend une maison vivable. Ensemble : un amour qui veut un foyer, du soin donné et reçu, l’attachement plus que la conquête.
 
 Facultatif, comme toujours : si l’astrologie ne fait pas partie de vos clés de lecture, le nombre et l’élément ont déjà tout dit.
 
@@ -81,6 +81,6 @@ Renversé, le Deux de Coupes montre deux coupes qui se manquent de peu. L’éch
 
 Posez, pour l’exercice, le Deux de Coupes à côté du [Huit de Pentacles](/fr/bibliotheque/cartes-tarot/huit-de-pentacles/) : personne de réel derrière, seulement la méthode. Deux puis huit : un lien, puis la maîtrise et l’effort régulier. L’Eau puis la Terre : un sentiment qui veut devenir concret. Les couleurs : le bleu doux du Deux à côté des pentacles jaunes et des chausses rouges d’un artisan penché sur son établi.
 
-Pour le lien et l’établi réunis, je proposerais : « Il y a quelqu’un avec qui vous travaillez bien — un collègue, un associé, peut-être un ami — et ce que vous partagez est en train de devenir quelque chose que vous construisez ensemble. » J’ajouterais que ce n’est pas forcément une histoire d’amour, parce que le Deux de Coupes donne envie à tout le monde d’entendre « amour ».
+Pour le lien et l’établi réunis, je proposerais : « Il y a quelqu’un avec qui vous travaillez bien — un collègue, un associé, peut-être un ami — et ce que vous partagez prend peu à peu la forme d’un projet commun. » J’ajouterais que ce n’est pas forcément une histoire d’amour, parce que le Deux de Coupes donne envie à tout le monde d’entendre « amour ».
 
 Puis je vérifie : « Est-ce que quelqu’un vous vient en tête ? » Je laisse la personne répondre, sans lui souffler le prénom. Si aucun prénom ne vient, la phrase n’a trouvé personne : c’est noté.

@@ -39,9 +39,9 @@ Imaginons quelqu’un qui se demande, en silence, « Dois-je accepter le poste �
 
 {{< cards "cu07 wa04 sw02" >}}
 
-Le [Sept de Coupes](/fr/bibliotheque/cartes-tarot/sept-de-coupes/) : un personnage face à sept coupes flottant dans un nuage, chacune contenant autre chose — un château, des bijoux, une couronne de laurier, un serpent. Un lecteur de oui ou non y verrait « non », ou « flou ». Moi, je dirais : vous ne choisissez pas entre oui et non, vous choisissez entre plusieurs rêves, et certains sont faits de nuage. Lequel est Lyon ?
+Le [Sept de Coupes](/fr/bibliotheque/cartes-tarot/sept-de-coupes/) : un personnage face à sept coupes suspendues dans les nuées, chacune garnie d’autre chose — un château, des bijoux, une couronne de laurier, un serpent. Un lecteur de oui ou non y verrait « non », ou « flou ». Moi, je dirais : vous ne choisissez pas entre oui et non, vous choisissez entre plusieurs rêves, et certains sont faits de nuage. Lequel est Lyon ?
 
-Le Quatre de Bâtons : quatre bâtons reliés par une guirlande, des gens qui font la fête derrière. Le quatre, ce sont les fondations, le fruit de votre travail ; pour moi cette carte, ce sont des racines, une maison qu’on construit. Elle ne dit pas « allez-y ». Elle demande si ce poste construit quelque chose où vous auriez envie de vivre.
+Le Quatre de Bâtons : une guirlande tendue entre quatre perches, et une fête au second plan. Le quatre, ce sont les fondations, le fruit de votre travail ; pour moi cette carte, ce sont des racines, une maison qu’on construit. Elle ne dit pas « allez-y ». Elle demande si ce poste construit quelque chose où vous auriez envie de vivre.
 
 Le Deux d’Épées : une femme assise, un bandeau sur le regard, garde deux lames croisées sur son cœur, dos à la mer. [Le deux est le chiffre du contrat](/fr/bibliotheque/numerologie/chiffre-2/), et il conseille de bien lire ce qu’on signe, en mettant avantages et inconvénients dans la balance. La carte dit : vous refusez de regarder. Enlevez le bandeau, puis décidez.
 
@@ -64,4 +64,4 @@ Certaines questions sont fermées parce qu’elles pèsent lourd : suis-je malad
 
 Jouez à pile ou face. Je suis sérieuse. Pendant que la pièce est en l’air, remarquez quel côté vous espérez. Ce petit sursaut, c’est l’information, et il ne coûte rien.
 
-Le tarot gagne à être pris avec légèreté, et une pièce est plus légère qu’un jeu de cartes. Gardez les cartes pour les questions qui méritent une scène. Si vous voulez voir la différence, venez à l’un des [événements gratuits](/fr/evenements/) avec une question fermée, gardez-la pour vous, et écoutez ce que la carte dit autour.
+Le tarot gagne à être pris avec légèreté, et une pièce est plus légère qu’un jeu de cartes. Gardez les cartes pour les questions qui méritent une scène. La différence s’entend aux [événements gratuits](/fr/evenements/) : venez avec une question fermée, gardez-la pour vous, et écoutez ce que la carte dit autour.

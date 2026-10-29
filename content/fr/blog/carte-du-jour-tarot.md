@@ -29,9 +29,9 @@ Certains matins, la carte aura l’air lourde : la Tour, le Dix d’Épées. Ce 
 
 ## Que noter {#que-noter}
 
-Le matin, la carte, puis ce que vous remarquez avec les clés de lecture : la couleur dominante, le nombre, l’élément. Le soir, ce que la journée a contenu, et si la note du matin tient. Écrivez la ligne du soir avant de relire celle du matin, sinon la journée se réarrangera poliment pour coller.
+Le matin, la carte, puis ce que vous remarquez avec les clés de lecture : la couleur dominante, le nombre, l’élément. Le soir, ce qui s’est passé, puis le verdict : votre impression du réveil a-t-elle tenu ? Rédigez ce bilan sans jeter un œil à ce que vous aviez noté le matin, sinon la journée se réarrangera poliment pour coller.
 
-Imaginons que mardi, vous tiriez le Quatre de Bâtons. Le matin : « Du jaune partout, une guirlande, deux silhouettes qui lèvent des bouquets, un château derrière. Quatre, le Feu : quelque chose de construit et de stable, un foyer, une fête. » La ligne du soir dira peut-être « Crémaillère chez une amie », ou peut-être « Rien de tout ça aujourd’hui ». Les deux sont utiles. C’est la seconde qui vous apprend quelque chose.
+Imaginons que mardi, vous tiriez le Quatre de Bâtons. Le matin : « Du jaune partout, une guirlande nouée entre quatre bâtons, deux personnages bouquets en l’air devant un château. Quatre, le Feu : quelque chose de construit et de stable, un foyer, une fête. » La ligne du soir dira peut-être « Crémaillère chez une amie », ou peut-être « Rien de tout ça aujourd’hui ». Les deux sont utiles. C’est la seconde qui vous apprend quelque chose.
 
 {{< cards "wa04" >}}
 
@@ -47,7 +47,7 @@ Les tirages plus larges viennent ensuite. Quand une carte seule se lit sans pein
 
 ## Entraînement ou béquille : le test {#entrainement-ou-bequille}
 
-Même jeu, même geste ; la différence tient à ce que vous faites de la carte. Répondez franchement :
+Même jeu, même geste ; tout se joue dans l’usage que vous faites de la carte. Répondez franchement :
 
 - Tirez-vous plus d’une fois par jour ?
 - Retirez-vous une carte quand la première ne vous plaît pas ?
@@ -55,7 +55,7 @@ Même jeu, même geste ; la différence tient à ce que vous faites de la carte.
 - Êtes-vous mal à l’aise un jour sans carte ?
 - Votre question du matin est-elle la même inquiétude, tous les jours ?
 
-Si vous répondez oui à deux questions ou plus, la carte a glissé de l’entraînement vers la béquille. Ce n’est pas une faiblesse. C’est en général le doute qui cherche un appui, et le doute mérite de la douceur. Mais une carte ne peut pas porter une décision à votre place : [un tirage n’a pas d’ordres à vous donner](/fr/blog/le-tarot-nest-pas-une-autorite/), et c’est votre ressenti qui tranche.
+Si vous répondez oui à deux questions ou plus, la carte a glissé de l’entraînement vers la béquille. Ce n’est pas une faiblesse. C’est en général le doute qui cherche un appui, et un doute se traite avec douceur. Mais une carte ne peut pas porter une décision à votre place : [un tirage n’a pas d’ordres à vous donner](/fr/blog/le-tarot-nest-pas-une-autorite/), et c’est votre ressenti qui tranche.
 
 Le remède, c’est une pause. Rangez le jeu dans un tiroir une semaine, ou un mois, et regardez vers quoi vous tendez la main à la place. Le tiroir fermé fait partie de l’entraînement, lui aussi ; [voici pourquoi je le conseille](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 

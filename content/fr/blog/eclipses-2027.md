@@ -53,7 +53,7 @@ Trois cartes, une fois en février et une fois en août. Pas à chaque éclipse,
 2. *Qu’est-ce qui commence sans bruit ?* La carte solaire : un début que vous n’avez peut-être pas encore remarqué.
 3. *Qu’est-ce que je peux laisser tranquille jusqu’à la prochaine éclipse ?* La plus bienveillante : la permission de ne pas tout régler maintenant.
 
-Lisez chaque carte par ses couleurs, son nombre et son élément avant de chercher quoi que ce soit. Inscrivez les trois cartes dans [le carnet où vous gardez vos tirages](/fr/blog/carnet-de-tirage-tarot/), une ligne pour chacune, avec la date. En août, avant de tirer à nouveau, relisez la page de février et marquez ce qui a tenu, ce qui est raté, et ce qu’il est trop tôt pour dire.
+Pour chaque carte, partez de ce qui se voit — couleurs, nombre, élément — avant toute recherche. Inscrivez les trois cartes dans [le carnet où vous gardez vos tirages](/fr/blog/carnet-de-tirage-tarot/), une ligne pour chacune, avec la date. En août, avant de tirer à nouveau, relisez la page de février et marquez ce qui a tenu, ce qui est raté, et ce qu’il est trop tôt pour dire.
 
 ## Et ensuite {#ensuite}
 

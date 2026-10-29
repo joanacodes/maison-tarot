@@ -56,7 +56,7 @@ L’Air, c’est aussi ce qui passe sans rester. Le cours d’eau devant lui est
 
 ## Par les couleurs {#couleurs}
 
-Le cheval est [blanc](/fr/bibliotheque/couleurs-tarot/blanc/) : la pureté, l’innocence, la paix. L’intention est propre ; il ne vient pas se battre. L’armure est [grise](/fr/bibliotheque/couleurs-tarot/gris/), la couleur de la stabilité et de l’absence de volonté particulière — l’acier est là, mais ce n’est pas le sujet. La coupe est dorée, la seule chose brillante et précieuse entre ses mains. Trois couleurs, et déjà tout un portrait : une approche paisible, un corps stable, quelque chose de précieux qu’on offre.
+Le cheval est [blanc](/fr/bibliotheque/couleurs-tarot/blanc/) : la pureté, l’innocence, la paix. L’intention est propre ; il ne vient pas se battre. L’armure est [grise](/fr/bibliotheque/couleurs-tarot/gris/) : une couleur neutre, stable, qui ne pousse dans aucune direction — l’acier est là, mais ce n’est pas le sujet. La coupe est dorée, la seule chose brillante et précieuse entre ses mains. Trois couleurs, et déjà tout un portrait : une approche paisible, un corps stable, quelque chose de précieux qu’on offre.
 
 ## En lecture {#lecture}
 

@@ -23,7 +23,7 @@ Si vous hésitez, commencez par le tarot et empruntez dès le premier jour un mo
 
 | | Tarot | Astrologie |
 | --- | --- | --- |
-| Pour commencer | Un jeu — j’utilise le Rider-Waite-Smith de 1909 | Une date, un lieu et, idéalement, une heure de naissance |
+| Pour commencer | Un jeu de 78 cartes (le mien : un Rider-Waite-Smith, version 1909) | Une date, un lieu et, idéalement, une heure de naissance |
 | Ce qu’on apprend | 78 lames, lues avec quelques clés | 12 signes, le Soleil, la Lune et huit planètes, plus Chiron et des points comme Lilith, 12 maisons, les angles entre eux |
 | Ce que ça décrit | Ce qui vous entoure, vous ou quelqu’un, maintenant | Des tendances fixées à la naissance |
 | Comment on vérifie | La personne confirme ou non, souvent sur-le-champ | Coche ou croix, position par position, sur des semaines |

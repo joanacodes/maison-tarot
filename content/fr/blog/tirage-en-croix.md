@@ -48,7 +48,7 @@ Une personne se tait sur sa question, et la croix donne ceci : l’As de Bâtons
 
 {{< cards "waac cu07 ar09 wa06 ar05" >}}
 
-Pour vous : un As, un 1, l’initiateur — et le Feu, l’étincelle de quelque chose de neuf. Contre vous : le Sept de Coupes, sept coupes posées sur un nuage, chacune avec un trésor différent ; trop de choix, de l’Eau, des émotions qui tirent dans tous les sens. La voie : l’Ermite, manteau gris et lanterne, seul sur un sommet ; prendre du recul et regarder à sa propre lumière. La direction : un Six, le nombre où la machine tourne et où le succès arrive — un cavalier couronné de laurier.
+Pour vous : un As, un 1, l’initiateur — et le Feu, ce qui allume un commencement. Contre vous : le Sept de Coupes, sept coupes posées sur un nuage, chacune avec un trésor différent ; trop de choix, de l’Eau, des émotions qui tirent dans tous les sens. La voie : l’Ermite, manteau gris et lanterne, seul sur un sommet ; prendre du recul et regarder à sa propre lumière. La direction : un Six, le nombre où la machine tourne et où le succès arrive — un cavalier couronné de laurier.
 
 Deux cartes de Feu autour d’un obstacle d’Eau : l’énergie est là, et ce qui la freine, c’est le sentiment — vouloir toutes les options à la fois. La Terre de l’Ermite et du Hiérophante ramène tout ça au sol.
 
@@ -68,4 +68,4 @@ Sa forme « pour et contre » rend aussi la croix tentante pour un procès ou un
 
 ## Pour aller plus loin {#pour-aller-plus-loin}
 
-Essayez la croix sur quelqu’un qui ne vous dit rien, et notez ce qui tombe juste. Si la forme vous plaît et que vous voulez plus de positions, la [croix celtique, expliquée position par position](/fr/blog/croix-celtique-tirage/), est un autre tirage : dix cartes, une colonne à côté de la croix, et rien à additionner. Et si vous voulez poser vos premiers tirages avec quelqu’un à côté de vous, un [atelier](/fr/ateliers/), c’est trois heures, douze personnes et beaucoup de cartes sur la table.
+Essayez la croix sur quelqu’un qui ne vous dit rien, et notez ce qui tombe juste. Si la forme vous plaît et que vous voulez plus de positions, la [croix celtique, expliquée position par position](/fr/blog/croix-celtique-tirage/), est un autre tirage : dix cartes, une colonne à côté de la croix, et rien à additionner. Vos premiers tirages peuvent aussi se poser en compagnie : en [atelier](/fr/ateliers/), la table se couvre de cartes pendant trois heures, et vous êtes douze autour.

@@ -43,11 +43,11 @@ Aucune n’est compliquée. Ensemble, elles remplacent la personne assise en fac
 
 1. *Écrivez la question avant de mélanger.* Les mots exacts, et la date. Une fois sur le papier, vous ne pouvez plus la déplacer en douce après avoir vu la carte.
 2. *Dites-vous : je vais dire n’importe quoi.* On dirait une plaisanterie. Ça fait taire en vous l’envie d’avoir raison, et laisse parler votre regard.
-3. *Décrivez avant d’interpréter.* Ce qu’il y a sur la carte, la couleur dominante, le nombre, l’[élément](/fr/bibliotheque/quatre-elements/) — à voix haute ou par écrit, avant de décider de ce que ça veut dire pour vous. Les clés de lecture se moquent de ce que vous espérez.
+3. *Décrivez avant d’interpréter.* Ce qu’il y a sur la carte, la couleur dominante, le nombre, l’[élément](/fr/bibliotheque/quatre-elements/) — à voix haute ou par écrit, et seulement ensuite le sens que vous lui donnez. Les clés de lecture se moquent de ce que vous espérez.
 4. *Tracez deux colonnes.* « Ce que je vois » à gauche, « ce que j’aimerais qu’elle dise » à droite. Si les deux lignes sont identiques, méfiez-vous de vous-même, gentiment.
 5. *Un seul tirage par question.* Pas de nouveau mélange, pas de carte en plus pour sauver une carte qui vous déplaît : [une carte de clarification](/fr/blog/carte-de-clarification-tarot/) ajoute une histoire au lieu d’éclairer la première.
 6. *Lisez au présent.* « Qu’est-ce qui se passe ? » plutôt que « qu’est-ce qui va arriver ? ». Le présent, vous pouvez le vérifier ; l’avenir, vous ne pouvez que l’attendre.
-7. *Relisez une semaine plus tard.* Cochez ce qui s’est confirmé, barrez le reste. C’est la plus importante des sept, et c’est l’habitude que je décris dans [tenir un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/).
+7. *Relisez une semaine plus tard.* Cochez ce qui s’est confirmé, barrez le reste. C’est la plus importante des sept, et c’est tout le principe de [mon carnet à deux colonnes](/fr/blog/carnet-de-tirage-tarot/).
 
 Voici à quoi ça ressemble sur une page. Imaginons que, un lundi, vous écriviez : « De quoi ai-je besoin avant de parler à ma sœur samedi ? » Vous mélangez, vous tirez une fois, et c’est la Reine d’Épées.
 
@@ -73,7 +73,7 @@ Les questions qui marchent le mieux portent sur vous, maintenant, et sur quelque
 
 Remarquez ce qu’elles ont en commun : aucune ne se règle par un oui, et toutes vous laissent la décision. Si une question commence dans votre tête par « est-ce qu’il va » ou « est-ce que ça va », retournez-la avant de mélanger. « Est-ce qu’il va appeler ? » devient « Qu’est-ce que j’ai envie de dire s’il appelle ? » — et celle-là, vous pouvez la vérifier.
 
-Les questions sur un résultat qui ne dépend pas de vous, ou sur ce que pense quelqu’un d’autre, marchent encore moins bien pour soi que pour les autres : le souhait est assis dans le fauteuil du lecteur. Et celles que je laisse entièrement de côté — un résultat médical, la peur d’un deuil, une grossesse, un litige, une grosse dépense — ne deviennent pas plus faciles quand on se lit soi-même. Elles deviennent plus difficiles, parce que c’est la peur qui tient le jeu. Pour chacune, il existe [une question plus douce qu’une carte peut porter](/fr/blog/questions-a-eviter-tarot/).
+Les questions sur un résultat qui ne dépend pas de vous, ou sur ce que pense quelqu’un d’autre, marchent encore moins bien pour soi que pour les autres : le souhait est assis dans le fauteuil du lecteur. Et celles que je laisse entièrement de côté — un résultat médical, la peur d’un deuil, une grossesse, un litige, une grosse dépense — ne deviennent pas plus faciles quand on se lit soi-même. Elles deviennent plus difficiles, parce que c’est la peur qui tient le jeu. Pour chacune, [une autre formulation existe, que les cartes savent accueillir](/fr/blog/questions-a-eviter-tarot/).
 
 ## Quand ranger le jeu {#ranger-le-jeu}
 

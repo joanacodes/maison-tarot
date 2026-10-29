@@ -15,7 +15,7 @@ Le tarot n’est pas une arnaque. Un jeu, ce sont 78 images, et les lire est un 
 
 ## Le problème, ce ne sont pas les cartes {#les-cartes}
 
-Un jeu de tarot est un ensemble d’images imprimées ; celui que j’utilise a été dessiné en 1909 par Pamela Colman Smith. Les cartes ne promettent rien. Les lire, c’est regarder une image et dire ce qu’elle montre de la personne en face, et tout le monde peut apprendre à le faire.
+Un jeu de tarot est un ensemble d’images imprimées ; le mien est le Rider-Waite-Smith, dont Pamela Colman Smith a signé les dessins en 1909. Les cartes ne promettent rien. Les lire, c’est regarder une image et dire ce qu’elle montre de la personne en face, et tout le monde peut apprendre à le faire.
 
 Ce qu’un tarologue honnête ne peut pas vous dire, c’est comment ça marche. Personne ne le sait. Je compte mes lectures : à peu près neuf sur dix tiennent, à peu près une sur dix rate, et je dis lesquelles. Ce n’est pas une garantie, c’est même le contraire. C’est aussi pour ça que la mention « à des fins de divertissement » ne me gêne pas.
 
@@ -29,11 +29,11 @@ Une lecture se suffit à elle-même. Elle commence, elle dit ce qu’elle voit, 
 
 Le tarologue peut travailler sans connaître votre histoire ; moi, je demande qu’on ne me dise rien. Il décrit ce qu’il y a sur les cartes et ce que ça évoque. Quand quelque chose ne touche pas, il le dit, sans « ça prendra sens plus tard » ni carte supplémentaire pour rattraper. À la fin, la décision vous revient, et rien ne reste en suspens.
 
-Même une carte lourde vous laisse libre. Imaginons que quelqu’un tire la Tour.
+Même une carte lourde vous laisse libre. Prenez la Tour, l’une des plus redoutées.
 
 {{< cards "ar16" >}}
 
-Une tour frappée par la foudre, sa couronne arrachée, deux personnages qui tombent. Un tarologue honnête parle de changement brutal et de ce que la personne peut en faire. Il n’ajoute pas « et moi seul peux l’arrêter ».
+La foudre arrache la couronne d’une tour, et deux personnes basculent dans le vide. Un tarologue honnête parle de changement brutal et de ce que la personne peut en faire. Il n’ajoute pas « et moi seul peux l’arrêter ».
 
 ## À quoi ressemble un hameçon {#un-hamecon}
 

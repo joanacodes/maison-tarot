@@ -37,7 +37,7 @@ Le Feu détruit d’un coup, visiblement — un incendie, une dispute, une déci
 
 ## Les éléments et les énergies {#energies}
 
-La Terre et l’Eau penchent vers l’[énergie féminine](/fr/bibliotheque/energies-feminine-masculine/) — ce qui se cache, ce qui porte, ce qui attend. Le Feu et l’Air penchent vers la masculine — ce qui se montre, ce qui agit, ce qui tranche. Ce n’est pas une histoire de sexes ; c’est une histoire de direction.
+La Terre et l’Eau penchent vers l’[énergie féminine](/fr/bibliotheque/energies-feminine-masculine/) : elles couvent, soutiennent, savent attendre. Le Feu et l’Air penchent vers la masculine : ils se montrent, agissent, tranchent. Ce n’est pas une histoire de sexes ; c’est une histoire de direction.
 
 ## Pour continuer {#continuer}
 

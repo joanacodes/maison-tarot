@@ -33,7 +33,7 @@ Et une carte ne voit pas un corps. Les cartes parlent en images, et une image de
 
 Un tirage peut porter l’attente. Pas l’issue — vous. Comment vous tenez le coup, ce qui prend toute la place dans votre tête, ce dont vous avez besoin de la part de vos proches, ce que vous pourriez poser pendant une semaine.
 
-Imaginons qu’une personne s’assoie, ne me dise rien, et tire le Neuf d’Épées : quelqu’un assis dans son lit, dans le noir. Si, à la fin, elle me dit qu’elle essaie depuis un an, je ne transforme pas la carte en résultat. Je lis les nuits — les pensées de trois heures du matin — et on parle de ce qui pourrait les rendre un peu plus légères.
+Imaginons une personne qui, sans m’avoir rien confié, tire le Neuf d’Épées : quelqu’un assis dans son lit, dans le noir. Si, à la fin, elle me dit qu’elle essaie depuis un an, je ne transforme pas la carte en résultat. Je lis les nuits — les pensées de trois heures du matin — et on parle de ce qui pourrait les rendre un peu plus légères.
 
 Quelques questions plus douces à poser aux cartes, ou à un carnet :
 
@@ -56,7 +56,7 @@ Après une perte, le chagrin est réel même si très peu de gens étaient au co
 
 Si vous tirez les cartes pour vos proches, cette question viendra. Une phrase qui marche : « Je ne lis pas là-dessus, parce qu’un mot de travers pourrait vous rester des mois. Ce que j’aimerais, c’est regarder comment vous allez pendant cette attente. » La plupart des gens entendent l’attention qu’il y a dedans.
 
-Comme la personne ne me dit rien avant le tirage, le sujet apparaît parfois en plein milieu. Quand c’est le cas, je le dis avec douceur, je mets ce fil de côté, et je reviens à ce que les cartes peuvent porter. J’explique comment le faire sans fermer la porte à quelqu’un dans [savoir orienter quelqu’un ailleurs](/fr/blog/limites-clients-tarologue/).
+Comme j’ignore tout de la situation avant de tirer, le sujet apparaît parfois en plein milieu. Quand c’est le cas, je le dis avec douceur, je mets ce fil de côté, et je reviens à ce que les cartes peuvent porter. J’explique comment le faire sans fermer la porte à quelqu’un dans [savoir orienter quelqu’un ailleurs](/fr/blog/limites-clients-tarologue/).
 
 C’est ma pratique, pas une loi pour tous les tarologues. Mais c’est pour cela qu’elle figure dans [ce que je ne lis pas](/fr/avertissements/#refus), à côté de la santé, des décès et des procédures en cours.
 

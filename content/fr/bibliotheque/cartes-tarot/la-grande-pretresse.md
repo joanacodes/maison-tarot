@@ -51,7 +51,7 @@ Le [chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/), c’est l’alliance : 
 
 La Grande Prêtresse est une carte d’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les émotions, les relations, les forces cachées. La lune, sur sa tête et à ses pieds, est ce qui fait bouger l’eau.
 
-Mais c’est une eau calme. Une eau agitée dit des émotions vives ; une eau immobile, des émotions apaisées, qui gardent pour elles ce qui dort au fond. Dans mes notes, l’eau s’infiltre partout avec le temps : une émotion qu’on ne regarde pas peut abîmer les fondations, lentement, comme la moisissure qui ronge une maison. C’est le revers de cette carte, et le proverbe le dit déjà : il faut se méfier de l’eau qui dort.
+Mais c’est une eau calme. Une eau agitée dit des émotions vives ; une eau immobile, des émotions apaisées, qui gardent pour elles ce qui dort au fond. Dans mes notes, l’eau s’infiltre partout avec le temps : une émotion qu’on ne regarde pas peut abîmer les fondations sans bruit, comme une moisissure qu’on découvre trop tard. C’est le revers de cette carte, et le proverbe le dit déjà : il faut se méfier de l’eau qui dort.
 
 Côté énergie, elle est [féminine](/fr/bibliotheque/energies-feminine-masculine/), dans le sens que je donne à ce mot — la patience, l’intangible, ce qui travaille en coulisses —, ce qui n’a rien à voir avec le fait d’être une femme.
 
@@ -61,7 +61,7 @@ Le bleu domine : le manteau, et l’eau qu’il devient. Le [bleu](/fr/bibliothe
 
 ## Par l’astrologie : Lune {#astrologie}
 
-La Golden Dawn associe la Grande Prêtresse à la [Lune](/fr/bibliotheque/astrologie/lune/) : ce qu’on ressent quand personne ne regarde. Quand j’explique un thème astral, je dis que la Lune, c’est « votre chambre », la pièce la plus intime de la maison — et c’est cette carte, une pièce qu’on ne vous fait pas visiter. La Lune a aussi une face qu’on ne voit jamais depuis la Terre ; la Grande Prêtresse fonctionne pareil, une façade et beaucoup de choses derrière.
+La Golden Dawn associe la Grande Prêtresse à la [Lune](/fr/bibliotheque/astrologie/lune/) : ce qu’on ressent quand personne ne regarde. Dans l’image de la maison dont je me sers pour expliquer un thème, la Lune est votre chambre, l’endroit le plus privé — et c’est cette carte, une pièce qu’on ne vous fait pas visiter. La Lune a aussi une face qu’on ne voit jamais depuis la Terre ; la Grande Prêtresse fonctionne pareil, une façade et beaucoup de choses derrière.
 
 ## En lecture {#lecture}
 

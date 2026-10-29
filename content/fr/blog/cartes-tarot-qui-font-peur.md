@@ -9,15 +9,15 @@ tags: ["cartes qui font peur tarot", "la Mort tarot", "la Tour tarot", "le Diabl
 image: "covers/scariest-tarot-cards.jpg"
 imageAlt: "Une main retourne une carte de tarot sur une table en bois dans la lumière du matin, une tasse de café à côté"
 imagePrompt: "A hand turning over a single tarot card on a plain wooden table in bright morning light, a cup of coffee beside it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Les lames qui font le plus peur sont la Mort, la Tour, le Diable et le Dix d’Épées. Aucune ne prédit un décès, une catastrophe ou une malédiction. La Mort (13 → 4, Eau) est une fin qui dégage le terrain pour reconstruire. La Tour (16 → 7, Feu) est un changement soudain qui fait tomber ce qui était bâti sur une fissure. Le Diable (15 → 6, Terre) est l’attachement, avec des chaînes assez lâches pour qu’on les retire. Le Dix d’Épées (10, Air) est le fond touché, avec l’aube à l’horizon. Chaque lame a un plus et un moins ; ces quatre-là portent leur moins à l’extérieur."
+summary: "Les quatre lames les plus redoutées sont la Mort, le Diable, la Tour et le Dix d’Épées. Aucune ne prédit un décès, une catastrophe ou une malédiction. La Mort (13 → 4, Eau) est une fin qui dégage le terrain pour reconstruire. La Tour (16 → 7, Feu) est un changement soudain qui fait tomber ce qui était bâti sur une fissure. Le Diable (15 → 6, Terre) est l’attachement, avec des chaînes assez lâches pour qu’on les retire. Le Dix d’Épées (10, Air) est le fond touché, avec l’aube à l’horizon. Chaque lame a un plus et un moins ; ces quatre-là portent leur moins à l’extérieur."
 ---
-Les quatre lames qui font sursauter sont la Mort, la Tour, le Diable et le Dix d’Épées. Aucune n’annonce un décès, une catastrophe ou une malédiction. Chaque lame a un plus et un moins ; ces quatre-là portent leur moins à l’extérieur — et lues avec leurs clés de lecture, ce sont parmi les cartes les plus utiles du jeu.
+Quatre lames font sursauter plus que les autres : le Dix d’Épées, la Mort, le Diable et la Tour. Aucune n’annonce un décès, une catastrophe ou une malédiction. Chaque lame a un plus et un moins ; ces quatre-là portent leur moins à l’extérieur — et lues avec leurs clés de lecture, ce sont parmi les cartes les plus utiles du jeu.
 
 ## Pourquoi certaines lames font si peur {#pourquoi-elles-font-peur}
 
 Pamela Colman Smith a dessiné des scènes, et ces quatre-là, elle les a dessinées avec du drame : un squelette à cheval, une tour frappée par la foudre, deux personnes enchaînées, un homme avec dix lames dans le dos. Le drame rend une carte mémorable. Il la rend aussi facile à mal lire, et le cinéma n’a pas aidé.
 
-Il y a aussi la couleur. Le noir domine les quatre, et dans ma grille le noir, c’est l’absence, le vide, la pensée négative — mais aussi vider son esprit, et la réalité. Une carte noire vous demande de regarder les choses telles qu’elles sont.
+Il y a aussi la couleur. Le noir domine les quatre, et dans ma grille le noir, c’est l’absence, le vide, la pensée négative — mais il sert aussi à mettre l’esprit au repos, et à voir le réel. Une carte noire vous demande de regarder les choses telles qu’elles sont.
 
 La peur fait aussi lire trop vite. L’œil s’arrête au squelette et n’atteint jamais le soleil à l’horizon ; il s’arrête à la foudre et ne remarque pas que c’est la couronne qui tombe en premier. Ralentissez, et décrivez toute la carte avant d’interpréter quoi que ce soit.
 
@@ -29,7 +29,7 @@ La peur fait aussi lire trop vite. L’œil s’arrête au squelette et n’atte
 
 *13 → 1 + 3 = 4 · Eau · Scorpion · féminine.* La Mort arrive à cheval, en armure, sa bannière à la rose blanche déployée. Devant elle, un roi renversé, un évêque qui lui fait face, un enfant qui la regarde — et à l’arrière-plan, une aube point entre deux tours.
 
-Dans mes notes, [la Mort](/fr/bibliotheque/cartes-tarot/la-mort/) n’est pas forcément mauvaise et ne parle pas de mourir. Elle est liée à la récolte et au recommencement : quelqu’un sans but qui veut rendre sa vie fertile à nouveau. Treize se réduit à quatre, le nombre de la structure : la lame dégage une structure pour faire place à une autre. L’Eau et le Scorpion en font un changement émotionnel, ressenti en profondeur, pas une formalité — et le verbe du Scorpion est « je désire » : ce que vous voulez ensuite commence à pousser dans cette clairière.
+Dans mes notes, [la Mort](/fr/bibliotheque/cartes-tarot/la-mort/) n’est pas forcément mauvaise et ne parle pas de mourir. Je la rattache à la moisson, puis à ce qui repart : quelqu’un sans but qui veut rendre sa vie fertile à nouveau. Treize se réduit à quatre, le nombre de la structure : la lame dégage une structure pour faire place à une autre. L’Eau et le Scorpion en font un changement émotionnel, ressenti en profondeur, pas une formalité — et le verbe du Scorpion est « je désire » : ce que vous voulez ensuite commence à pousser dans cette clairière.
 
 La Mort ne prévient d’aucun décès, d’aucune maladie. Si vous vous inquiétez pour la santé de quelqu’un, c’est l’affaire d’un médecin, et c’est pour cela que je ne lis pas là-dessus. Ce dont la Mort parle, c’est de la fin d’un rôle, d’une habitude, d’une façon d’être ensemble — en amour, la fin d’une manière d’être avec quelqu’un, pas forcément de la relation ; au travail, un chapitre qui se ferme. La page de la lame va plus loin sur les deux. Renversée, ou entourée de cartes lourdes, c’est la fin qu’on retient : s’accrocher à ce qui est déjà terminé. Au tarot de Marseille, la XIII reste d’ailleurs sans titre, et [pourquoi elle n’en a pas](/fr/blog/arcane-sans-nom-tarot/) est une histoire à part entière.
 
@@ -41,7 +41,7 @@ La Mort ne prévient d’aucun décès, d’aucune maladie. Si vous vous inquié
 
 Seize se réduit à sept, et le conseil du sept est celui à garder ici : rien ne dure, ni le pire ni le meilleur, et ce que vous vivez bougera. Dans le jeu, la Tour est suivie de l’Étoile, et je ne crois pas que ce soit un hasard. La question utile n’est pas « pourquoi ça m’arrive ? » mais « qu’est-ce qui était fissuré, et ai-je envie de reconstruire la même tour sur le même rocher ? »
 
-Imaginons qu’une personne ne me dise rien et tire la Tour à côté du Huit de Pentacles. Sept, puis huit ; le Feu, puis la Terre : après l’effondrement, on reconstruit à la main. Je dirais : « Quelque chose est tombé que vous aviez bâti sur un mauvais terrain, et vous êtes déjà en train de reconstruire — plus lentement, et mieux. » Puis je lui demanderais ce qui, là-dedans, lui parle.
+Supposons que quelqu’un, sans rien m’expliquer de sa vie, tire la Tour à côté du Huit de Pentacles. Sept, puis huit ; le Feu, puis la Terre : après l’effondrement, on reconstruit à la main. Je dirais : « Quelque chose est tombé que vous aviez bâti sur un mauvais terrain, et vous êtes déjà en train de reconstruire — plus lentement, et mieux. » Puis je lui demanderais ce qui, là-dedans, lui parle.
 
 ## Le Diable : des chaînes qu’on peut retirer {#le-diable}
 
@@ -57,7 +57,7 @@ Regardez maintenant les chaînes. Elles pendent lâchement autour des cous ; les
 
 Dix, c’est l’entre-deux, l’instant où une étape s’achève avant que l’autre ait commencé. [Le Dix d’Épées](/fr/bibliotheque/cartes-tarot/dix-de-epees/) est la dernière carte numérotée de sa famille : le pire est fait, on ne peut pas aller plus loin. L’Air, c’est la tête, et l’astrologie est d’accord : Soleil en Gémeaux, le signe dont le verbe est « je pense ». Le dessin montre exactement ce que fait la tête à trois heures du matin, une nuit blanche — dix épées là où une aurait suffi. C’est exagéré, et je crois que c’est exprès.
 
-Puis les couleurs : du noir en haut, du jaune à l’horizon. Dans ma grille, le jaune, c’est la joie et l’optimisme. L’aube est déjà dans l’image. Renversée, la carte, c’est se relever — lentement, les épées encore plantées, mais debout — ou parfois rester à terre plus longtemps que nécessaire.
+Puis les couleurs : du noir en haut, du jaune à l’horizon. Mon tableau des couleurs associe le jaune à la joie et à l’optimisme : l’aube est déjà dans l’image. Renversée, la carte, c’est se relever — lentement, les épées encore plantées, mais debout — ou parfois rester à terre plus longtemps que nécessaire.
 
 ## Les autres lames qui inquiètent {#les-autres}
 
@@ -72,7 +72,7 @@ Ce que je fais, et ce que je vous suggère :
 1. Respirez, et lisez les clés avant l’image : le nombre, l’élément, la couleur.
 2. Posez trois questions : qu’est-ce qui se termine, qu’est-ce qui se dégage, qu’est-ce qu’on me montre ?
 3. Regardez les voisines. La Mort à côté de l’Étoile n’est pas la Mort à côté du Cinq de Coupes.
-4. Si ça touche trop fort, arrêtez-vous et dites-le. Le tirage peut attendre.
+4. Si une carte vous remue plus que prévu, posez le jeu et mettez un mot sur ce que vous ressentez. Le tirage peut attendre.
 5. Ne retirez pas pour obtenir une carte plus gentille. La première était le tirage.
 
 Si vous lisez pour quelqu’un d’autre, dites le plus de la carte d’abord et son moins ensuite, avec des mots simples.

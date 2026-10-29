@@ -45,7 +45,7 @@ Les coupes ne reposent sur rien. Elles flottent sur les nuages, dans un ciel ble
 
 ## Par le nombre : sept {#nombre}
 
-Le 7, c’est l’analyse : on regarde ce qu’on a avant d’agir. C’est la négociation, la réflexion, la récolte qu’on pèse. Dans mes notes, le Sept de Coupes, c’est l’indécision — trop de choix —, autrement dit ce à quoi ressemble le 7 quand l’analyse ne s’arrête jamais.
+Le 7 demande d’examiner ce qu’on tient avant de bouger. C’est la négociation, la réflexion, la récolte qu’on pèse. Dans mes notes, le Sept de Coupes, c’est l’indécision — trop de choix —, autrement dit ce à quoi ressemble le 7 quand l’analyse ne s’arrête jamais.
 
 Le conseil du [chiffre 7](/fr/bibliotheque/numerologie/chiffre-7/) est celui dont cette carte a le plus besoin : tout est temporaire, et la situation dans laquelle vous êtes bougera quoi que vous fassiez. Ne pas choisir, c’est aussi choisir ; c’est laisser le temps décider à votre place. Au septième stade de son histoire, Instagram a dû choisir ce qu’il deviendrait — une plateforme publicitaire, parmi toutes les versions possibles de lui-même.
 

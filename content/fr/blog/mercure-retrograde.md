@@ -25,7 +25,7 @@ Toutes les planètes font ça, vues d’ici. Avec Mars, Jupiter ou Saturne, c’
 
 ## Ce que l’astrologie attribue à Mercure {#ce-que-dit-lastrologie}
 
-En astrologie, Mercure, c’est la façon dont vous pensez et dont vous parlez : la vitesse de l’esprit, le goût des mots, la manière d’apprendre ([la page de Mercure dans la Bibliothèque](/fr/bibliotheque/astrologie/mercure/) va plus loin). Par extension, il gouverne les messages, les contrats, le commerce, les petits déplacements, et les deux signes de l’esprit, les Gémeaux et la Vierge.
+En astrologie, Mercure, c’est la façon dont vous pensez et dont vous parlez : à quelle allure vos idées s’enchaînent, quel plaisir vous prenez aux mots, comment vous apprenez ([la page de Mercure dans la Bibliothèque](/fr/bibliotheque/astrologie/mercure/) va plus loin). Par extension, il gouverne les messages, les contrats, le commerce, les petits déplacements, et les deux signes de l’esprit, les Gémeaux et la Vierge.
 
 Quand Mercure semble marcher à reculons, les astrologues lisent donc trois semaines de mots en « re- » : revoir, réviser, relire, répondre, revenir. Les conseils habituels en découlent. Relire un contrat deux fois avant de signer. Sauvegarder son téléphone. Vérifier l’horaire du train. S’attendre à voir revenir de vieux sujets, et parfois de vieux contacts.
 

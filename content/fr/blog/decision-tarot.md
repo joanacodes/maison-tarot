@@ -19,7 +19,7 @@ Ce n’est pas de la modestie. C’est la condition pour que les cartes servent 
 
 Une carte ne vous dira pas quelle option est la bonne. Ce qu’elle fait bien, c’est déplacer votre attention une minute, pour que vos arguments habituels se taisent et que quelque chose d’autre ait la parole. Plus je lis, plus je vois les cartes comme un moyen de faire le point, ou au contraire de lâcher prise, le temps que vos réflexes de pensée et vos partis pris quittent le volant.
 
-Imaginons que vous hésitiez entre rester dans votre poste et le quitter, et que vous tiriez deux cartes : le Huit de Coupes et le Huit de Pentacles.
+Vous hésitez à garder votre emploi ou à partir, et vous tirez deux cartes : le Huit de Coupes et le Huit de Pentacles.
 
 {{< cards "cu08 pe08" >}}
 
@@ -51,7 +51,7 @@ Certaines décisions arrivent chargées d’inquiétude : prendre un crédit ou 
 
 Sur ces sujets-là, je pose le jeu, pour une raison claire : une erreur d’interprétation y coûte trop cher, et les cartes ne sont pas faites pour peser un contrat, un diagnostic ou une stratégie juridique. C’est le travail d’un conseiller financier, d’un médecin ou d’un avocat.
 
-Ce que les cartes peuvent accompagner pendant ce temps, c’est vous. Une question plus douce serait : « De quoi ai-je besoin pour rester stable pendant que je décide ? » Celle-là, les cartes y répondent bien.
+Ce que les cartes peuvent accompagner pendant ce temps, c’est vous. Demandez-leur plutôt : « De quoi ai-je besoin pour rester stable pendant que je décide ? » Celle-là, les cartes y répondent bien.
 
 ## Continuer d’entraîner le muscle qui décide {#entrainer-le-muscle}
 

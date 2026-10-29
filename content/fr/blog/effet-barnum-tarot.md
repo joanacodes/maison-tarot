@@ -38,7 +38,7 @@ Trois choses, dans un tirage, rendent le terrain fertile.
 
 Les cartes ont un sens large. Chacune a son bon et son mauvais côté — c’est comme ça que je les enseigne —, ce qui veut dire que n’importe quelle carte peut se lire dans deux directions. Cette largeur fait l’utilité du jeu, et c’est aussi par là qu’une phrase vague se glisse.
 
-Imaginons que quelqu’un tire le Deux d’Épées, la Lune et le Cinq de Coupes.
+Mettons trois cartes sur la table : le Deux d’Épées, la Lune et le Cinq de Coupes.
 
 {{< cards "sw02 ar18 cu05" >}}
 
@@ -58,7 +58,7 @@ C’est important pour l’effet Barnum, et d’une façon précise. Les phrases
 
 ## Deuxième vérification : le carnet {#carnet}
 
-La deuxième vérification se fait sur papier. Je tiens un carnet à deux colonnes : ce que j’ai dit, et ce qui a été confirmé. J’écris la phrase au moment où je la prononce, avant que la personne réagisse, et je la note après.
+La deuxième vérification se fait sur papier. Mon carnet a deux colonnes, l’une pour mes phrases, la seconde pour les confirmations de la personne. J’écris la phrase au moment où je la prononce, avant que la personne réagisse, et je la note après.
 
 En plus de « juste » et « raté », les phrases prises une à une reçoivent une troisième mention, plus souvent que je ne le voudrais : *trop vague pour compter*. Une phrase comme « vous avez beaucoup porté ces derniers temps » y va même si la personne dit oui, parce qu’un oui à une phrase vague n’est pas une réussite. C’est une phrase Barnum qui fait son travail.
 
@@ -66,13 +66,13 @@ Le carnet fait deux choses dont la mémoire est incapable. Il garde les ratés, 
 
 ## Troisième vérification : le test du voisin {#test-du-voisin}
 
-La troisième vérification tient en une question, que je pose à chaque phrase après coup : est-ce que cette phrase irait à mon voisin de palier ? Quand la réponse est oui, je la raye du décompte. J’ai déroulé ce comptage sur une lecture, phrase par phrase, dans [pourquoi les tirages semblent si justes](/fr/blog/pourquoi-les-tirages-sont-justes/) ; ici, je vous montre plutôt la différence sur deux cartes.
+La troisième vérification tient en une question, que je pose à chaque phrase après coup : mon voisin de palier pourrait-il s’y reconnaître aussi ? Quand la réponse est oui, je la raye du décompte. J’ai déroulé ce comptage sur une lecture, phrase par phrase, dans [pourquoi les tirages semblent si justes](/fr/blog/pourquoi-les-tirages-sont-justes/) ; ici, je vous montre plutôt la différence sur deux cartes.
 
 Prenons le Huit d’Épées et le Quatre de Bâtons.
 
 {{< cards "sw08 wa04" >}}
 
-Dans mes notes, le Huit d’Épées, c’est quelqu’un qui s’est fait son propre geôlier, alors que rien ne lui manque pour sortir — le bandeau peut tomber. Le Quatre de Bâtons, chez moi, c’est l’idée de poser des bases : un mariage, un foyer, une famille qui se fonde. La version Barnum de ces deux cartes, c’est « vous vous sentez bloqué, mais vous êtes plus libre que vous ne le pensez » : elle va à tout le monde, donc elle ne compte pas. La version précise nomme une situation, un rôle et une cause : « un projet de maison ou de mariage est en suspens, et c’est vous qui le retenez ». Elle peut être fausse, et c’est justement pour ça qu’elle vaut la peine d’être dite.
+Dans mes notes, le Huit d’Épées, c’est quelqu’un qui s’est fait son propre geôlier, alors que rien ne lui manque pour sortir — ce bandeau, rien ne l’empêche de l’ôter. Le Quatre de Bâtons, chez moi, c’est l’idée de poser des bases : un mariage, un foyer, une famille qui se fonde. La version Barnum de ces deux cartes, c’est « vous vous sentez bloqué, mais vous êtes plus libre que vous ne le pensez » : elle va à tout le monde, donc elle ne compte pas. La version précise nomme une situation, un rôle et une cause : « un projet de maison ou de mariage est en suspens, et c’est vous qui le retenez ». Elle peut être fausse, et c’est justement pour ça qu’elle vaut la peine d’être dite.
 
 **Une phrase qui peut être fausse est la seule qui vaille la peine d’être comptée.** Quand la personne répond non, je note un raté. Si elle dit oui, ça veut dire quelque chose, parce que ça aurait très bien pu être non.
 
@@ -96,8 +96,8 @@ Vous n’avez pas besoin de croire mes chiffres : voici comment obtenir les vôt
 
 1. Avant le tirage, convenez que la personne ne vous dit rien.
 2. Pendant la lecture, écrivez vos phrases au fur et à mesure, mot pour mot.
-3. Après coup, barrez toutes celles qui iraient à votre voisin.
-4. Dans ce qui reste, marquez ce qui a été confirmé et ce qui ne l’a pas été.
+3. La lecture finie, rayez chaque phrase qui conviendrait aussi bien à votre voisin.
+4. Sur les phrases survivantes, notez lesquelles ont été confirmées, et lesquelles non.
 5. Faites-le dix fois avant de tirer la moindre conclusion sur vous-même.
 
 Mettre côte à côte l’impression d’avoir vu juste et le score inscrit sur le papier, voilà ce qu’un lecteur peut s’offrir de plus utile. Si vous préférez le faire avec quelqu’un à côté, passez à [un de mes événements gratuits](/fr/evenements/) : le hasard désigne les personnes lues, et on compare à la fin.

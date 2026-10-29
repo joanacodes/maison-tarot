@@ -45,4 +45,4 @@ Je ne dis pas que personne n’a de perception inhabituelle. J’ai vécu des ch
 
 C’est un principe de Maison Tarot, et c’est pour ça que j’enseigne au lieu de vendre des lectures. Si lire demandait un don, l’enseigner serait une escroquerie. Ce n’est pas le cas, alors je l’enseigne, et je compte ce que font mes élèves comme je compte ce que je fais. Leurs carnets ressemblent au mien.
 
-Si vous voulez essayer avec quelqu’un à côté, les [événements gratuits](/fr/evenements/) sont faits pour ça : on vous lit, puis, si vous en avez envie, c’est vous qui lisez. Dix minutes. Aucun don requis, et aucun décerné.
+Pour un premier essai accompagné, rien de tel que les [événements gratuits](/fr/evenements/) : on vous lit, puis, si vous en avez envie, c’est vous qui lisez. Dix minutes. Aucun don requis, et aucun décerné.

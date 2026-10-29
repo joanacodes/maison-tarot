@@ -21,7 +21,7 @@ Le Jugement porte le 20, et 2 + 0 = [2](/fr/bibliotheque/numerologie/chiffre-2/)
 
 L’élément est le Feu : l’élan qui lance les choses et qui fait place nette. En amour, un second regard ne reste pas longtemps une pensée ; il veut bouger — une conversation, une décision, une porte qu’on ouvre ou qu’on ferme. L’énergie est masculine : se montrer, le dire.
 
-Regardez les silhouettes : personne, sur cette carte, n’est puni. Tout le monde répond. Pluton et les couleurs sont sur [la page du Jugement](/fr/bibliotheque/cartes-tarot/le-jugement/).
+Regardez les silhouettes : personne, sur cette carte, n’est puni. Tout le monde répond. Pluton et la palette des couleurs attendent [dans la lecture complète du Jugement](/fr/bibliotheque/cartes-tarot/le-jugement/).
 
 ## L’appel qu’on n’entend pas, ou qu’on n’entend plus que lui {#inverse}
 
@@ -43,11 +43,11 @@ Prenons une lecture sans contexte où le Jugement tombe en premier. Lisez les cl
 
 Avec cette lame, la question est souvent celle-là, ou « Est-ce qu’il va revenir ? ». Les deux portent beaucoup : de l’amour, de la peine, et la peur de refaire la même erreur. Je comprends qu’on aimerait qu’une carte décide à notre place. Cela enlèverait un poids.
 
-Je ne lis pas ce que l’autre ressent ou va faire. Cette personne n’est pas dans la pièce, et [tirer les cartes sur quelqu’un sans son accord](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/) est une limite que je garde pour le bien de tout le monde, le sien comme le vôtre. Je ne veux pas non plus qu’une carte prenne votre décision.
+Je ne lis pas ce que l’autre ressent ou va faire. Elle n’a pas pris place à la table, et [tirer les cartes sur quelqu’un sans son accord](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/) est une limite que je garde pour le bien de tout le monde, le sien comme le vôtre. Je ne veux pas non plus qu’une carte prenne votre décision.
 
 Ce qu’un tirage peut faire, c’est tourner le second regard vers vous. Ma [toute première lecture pour une inconnue](/fr/blog/premier-tirage-tarot/) parlait d’une relation, et montrait aussi qu’elle n’avait pas été tendre avec l’autre. **C’est ce second regard que demande le Jugement : sur ce que l’autre a fait, et sur votre propre part.**
 
-Une question plus douce : « Qu’aurais-je besoin de voir, cette fois, pour dire oui — et qu’est-ce qui me ferait dire non ? » Écrivez les deux listes. Elles vous en diront plus que n’importe quel tirage, et elles seront encore vraies le mois prochain.
+Sur la seconde chance, c’est vous que je questionnerais : « Qu’aurais-je besoin de voir, cette fois, pour dire oui — et qu’est-ce qui me ferait dire non ? » Écrivez les deux listes. Elles vous en diront plus que n’importe quel tirage, et elles seront encore vraies le mois prochain.
 
 ## Avec le Pendu ou la Mort dans le même tirage {#meme-tirage}
 

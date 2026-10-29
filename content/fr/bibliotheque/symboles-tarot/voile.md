@@ -8,7 +8,7 @@ weight: 12
 categories: ["Symboles"]
 tags: ["symboles du tarot", "voile", "Grande Prêtresse", "savoir caché", "symbolisme du tarot"]
 h1: "Le voile — ce qui est <em>caché</em>, pas perdu"
-lede: "Un voile n’enferme rien : il pend devant quelque chose qu’on devine presque. Dans le Rider-Waite-Smith, il marque un savoir qui existe et qui n’est pas encore donné — le secret de la Grande Prêtresse, la coupe que personne n’a découverte."
+lede: "Un voile n’enferme rien : il pend devant quelque chose qu’on devine presque. Partout où il pend, un savoir attend d’être livré : le secret de la Grande Prêtresse, la coupe que personne n’a découverte."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/la-grande-pretresse
@@ -53,7 +53,7 @@ Un voile, c’est un tissu léger tendu devant quelque chose. Il ne l’enferme 
 
 Dans un tirage, c’est le savoir qui existe mais qui n’a pas été transmis : un secret, une intuition pas encore mise en mots, une part de l’histoire que la personne n’est pas prête à regarder.
 
-## Où il apparaît dans le jeu {#ou}
+## Derrière la Grande Prêtresse, dans une coupe, sur une reine {#ou}
 
 La Grande Prêtresse est assise devant un voile tendu entre deux [colonnes](/fr/bibliotheque/symboles-tarot/colonnes/), imprimé de palmes et de grenades. Un long manteau bleu tombe aussi de sa couronne et lui couvre la tête. Deux voiles, donc : un derrière elle, un sur elle.
 
@@ -73,9 +73,9 @@ La Reine de Pentacles porte un voile vert qui tombe de sa couronne dans son dos 
 
 Un voile demande de la patience, pas de la force. Quand il sort, je n’essaie pas de nommer ce qu’il y a derrière. Je dis qu’il y a quelque chose derrière, et je laisse la personne décider si elle veut regarder.
 
-Sa couleur dit quel genre de secret c’est. Le bleu, sur la Grande Prêtresse et le Neuf de Coupes, c’est l’émotion et l’eau dans [ma grille des couleurs](/fr/bibliotheque/couleurs-tarot/bleu/) : un sentiment retenu. Le violet, sur la Justice, c’est « celui qu’un groupe a choisi » : une fonction, un rôle. Le blanc, sur le Sept de Coupes, c’est l’innocence — un choix qui paraît pur parce qu’on ne le voit pas. La Grande Prêtresse est une carte d’[Eau](/fr/bibliotheque/quatre-elements/element-eau/), et l’eau dormante cache sa profondeur de la même façon.
+Sa couleur dit quel genre de secret c’est. Le [bleu](/fr/bibliotheque/couleurs-tarot/bleu/), sur la Grande Prêtresse et le Neuf de Coupes, dit l’émotion et l’eau : un sentiment retenu. Le violet de la Justice est la couleur de qui a été désigné par les autres : il parle d’une charge qu’on occupe. Le blanc, sur le Sept de Coupes, c’est l’innocence — un choix qui paraît pur parce qu’on ne le voit pas. La Grande Prêtresse est une carte d’[Eau](/fr/bibliotheque/quatre-elements/element-eau/), et l’eau dormante cache sa profondeur de la même façon.
 
-Imaginons que quelqu’un tire le Sept de Coupes alors qu’il hésite entre plusieurs offres. La coupe voilée mérite une question : laquelle de ces options refusez-vous de regarder en face ?
+Plusieurs offres sur la table, et le Sept de Coupes qui sort : la coupe voilée mérite une question. Laquelle de ces options refusez-vous de regarder en face ?
 
 ## L’autre face {#revers}
 

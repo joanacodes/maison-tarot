@@ -9,19 +9,19 @@ tags: ["le Mat tarot amour", "le Mat signification", "le Mat inversé", "tirage 
 image: "covers/fool-tarot-love.jpg"
 imageAlt: "La carte du Mat du tarot Rider-Waite-Smith posée à l’endroit sur une table en bois nu"
 imagePrompt: "The Fool card from the 1909 Rider-Waite-Smith deck lying upright on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, the card in its original colours, warm natural colours around it that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "En amour, le Mat est un départ que rien ne justifie encore : un coup de cœur, un premier rendez-vous, une relation lancée sur l’enthousiasme, un saut après une rupture. C’est une lame libre, légère, ouverte, avec une condition : regarder où l’on met les pieds. Le jeune homme marche vers le bord d’une falaise sans regarder le sol, et le petit chien à ses pieds essaie de le lui rappeler. Le Mat ne dit pas si une nouvelle personne vous convient ni si cela va durer ; il montre comment vous y allez, et vous demande si vous savez que vous êtes au bord."
+summary: "En amour, le Mat est un élan qu’aucune raison ne soutient encore : un coup de cœur, un premier rendez-vous, une relation lancée sur l’enthousiasme, un saut après une rupture. C’est une lame libre, légère, ouverte, avec une condition : regarder où l’on met les pieds. Le jeune voyageur avance vers le vide sans baisser les yeux, et le petit chien à ses pieds essaie de le lui rappeler. Le Mat ne dit pas si une nouvelle personne vous convient ni si cela va durer ; il montre comment vous y allez, et vous demande si vous savez que vous êtes au bord."
 ---
-En amour, le Mat est un départ que rien ne justifie encore : un coup de cœur, un premier rendez-vous, une relation lancée sur le seul enthousiasme. C’est une très belle lame — libre, légère, ouverte — avec une condition : regarder où l’on met les pieds. Le petit chien sur la carte est là pour le lui rappeler, et pour vous le rappeler aussi.
+En amour, le Mat est un départ pris avant d’avoir des raisons : un coup de cœur, un premier rendez-vous, une relation lancée sur le seul enthousiasme. C’est une très belle lame — libre, légère, ouverte — avec une condition : regarder où l’on met les pieds. Le petit chien sur la carte est là pour le lui rappeler, et pour vous le rappeler aussi.
 
 {{< cards "ar00" >}}
 
 ## Avant le premier mot : le zéro et l’Air {#zero-et-air}
 
-Le Mat, c’est le zéro : le souffle avant le cycle, la page avant le premier mot. En amour, c’est le moment où rien n’a encore de nom — avant « on se voit », avant « on est ensemble ». Le zéro n’a pas non plus de place fixe. On peut mettre le Mat tout au début, l’innocence qui part, ou tout à la fin, celui ou celle qui a tout traversé et revient léger. Une première relation et une nouvelle après plusieurs peuvent tirer cette lame toutes les deux ; la seconde sait où se trouve la falaise, et y va exprès.
+Le Mat, c’est le zéro : l’inspiration qu’on prend avant que le cycle démarre, la feuille encore blanche. En amour, c’est le moment où rien n’a encore de nom — avant « on se voit », avant « on est ensemble ». Le zéro n’a pas non plus de place fixe. On peut le placer en ouverture du cycle, comme une innocence qui se met en route, ou à sa clôture, comme quelqu’un qui en a vu tout le parcours et repart allégé. Une première relation et une nouvelle après plusieurs peuvent tirer cette lame toutes les deux ; la seconde sait où se trouve la falaise, et y va exprès.
 
 Son élément, c’est l’Air, le mental : une relation qui vit surtout dans votre tête pour l’instant, toute en idées et sans poids. Son énergie est masculine — partir, se montrer, agir d’abord.
 
-Ma note sur lui a deux moitiés. Le plus : le bâton et le baluchon — il est libre de ses décisions et peut faire sa vie n’importe où. Le moins : il est naïf, et [le chien à ses pieds](/fr/bibliotheque/symboles-tarot/chien/) essaie de le lui rappeler. Les couleurs et Uranus sont sur [la page du Mat](/fr/bibliotheque/cartes-tarot/le-mat/).
+Ma note sur lui a deux moitiés. Le plus : le bâton et le baluchon — il est libre de ses décisions et peut faire sa vie n’importe où. Le moins : il est naïf, et [le chien à ses pieds](/fr/bibliotheque/symboles-tarot/chien/) essaie de le lui rappeler. Les couleurs et Uranus, je les détaille sur [la fiche du Mat](/fr/bibliotheque/cartes-tarot/le-mat/).
 
 ## Le coup de cœur, l’offre à l’étranger, la nouvelle coupe de cheveux {#partir-leger}
 
@@ -47,7 +47,7 @@ Après une rupture, le Mat, c’est l’envie de tout recommencer à zéro. Une 
 
 La question que j’entends avec cette lame, c’est « Est-ce que je me lance ? » ou « Est-ce que c’est la bonne personne ? ». C’est une question pleine d’espoir, et fragile : commencer quelque chose, c’est accepter de pouvoir le perdre, et l’on aimerait savoir avant de prendre le risque.
 
-Les cartes ne peuvent pas vous dire qui est quelqu’un d’autre, ni si cela va durer. Cette personne n’est pas dans la pièce, et l’avenir de deux personnes se fait à deux, jour après jour. Ce que le Mat peut faire, c’est vous montrer votre façon de marcher.
+Les cartes ne peuvent pas vous dire qui est quelqu’un d’autre, ni si cela va durer. L’autre ne s’est pas assis à votre table, et l’avenir d’un couple se fait à deux, jour après jour. Ce que le Mat peut faire, c’est vous montrer votre façon de marcher.
 
 Le chien du Mat vous souffle une question plus tendre : « Qu’est-ce que je sais déjà de l’endroit où je mets les pieds — et qu’est-ce que mon chien essaie de me dire ? » Tout le monde en a un : l’amie qui hausse un sourcil, la petite boule au ventre au deuxième rendez-vous, le détail que vous avez remarqué et décidé de ne pas voir. L’écouter ne veut pas dire ne pas sauter. Qui ne tente rien n’a rien, c’est vrai ; mais on peut tenter les yeux ouverts, en regardant le sol une seconde avant de relever la tête vers le ciel.
 

@@ -38,7 +38,7 @@ Trois cartes, parce que trois racontent une petite histoire et tiennent encore s
 Six étapes, une dizaine de minutes.
 
 1. Choisissez un soir à un jour près de la pleine lune. À l’intérieur, c’est très bien. Sous les nuages aussi.
-2. Battez les cartes comme vous voulez. Il n’y a pas de mauvaise façon.
+2. Battez les cartes à votre manière ; aucune n’est fausse.
 3. Tirez trois cartes et alignez-les sur ce que vous avez devant vous : une serviette, un set de table, la couverture d’un livre.
 4. Avant de chercher quoi que ce soit, lisez chaque carte par une clé de lecture : son nombre, son élément ou ses couleurs.
 5. Dites une phrase par carte, à voix haute.
@@ -48,7 +48,7 @@ Vous n’avez pas besoin de bougie. Si vous aimez en allumer une, faites-le parc
 
 ## Un exemple, pas à pas {#exemple}
 
-Imaginons que quelqu’un tire, de gauche à droite, le Huit d’Épées, le Dix de Bâtons et le Neuf de Pentacles.
+Exemple fictif, un soir de pleine lune : de gauche à droite sortent le Huit d’Épées, le Dix de Bâtons et le Neuf de Pentacles.
 
 {{< cards "sw08 wa10 pe09" >}}
 

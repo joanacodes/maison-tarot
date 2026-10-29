@@ -18,7 +18,7 @@ Un premier tirage de tarot à Halloween est bien plus calme que les citrouilles 
 Dans une soirée entre amis pendant les vacances de la Toussaint, dans un salon ou lors d’un événement en ligne, un premier tirage se passe en général ainsi.
 
 1. On vous demande si l’on peut vous tirer les cartes. Vous pouvez dire non, ou « pas ici ».
-2. Quelqu’un mélange — vous ou la personne qui lit. Il n’y a pas de mauvaise façon de faire.
+2. Quelqu’un mélange — vous ou la personne qui lit, de la manière qui lui vient.
 3. Une carte, trois cartes, parfois plus, sont posées face visible.
 4. La personne décrit ce qu’elle voit — les couleurs, les personnages, les nombres — et ce qui lui vient.
 5. Vous écoutez. Puis vous dites ce qui vous parle et ce qui tombe à côté.
@@ -46,19 +46,19 @@ Certaines questions reviennent davantage autour d’Halloween et de la Toussaint
 
 Je ne lis pas sur ces sujets, et voici pourquoi. Une carte ne pose pas de diagnostic, ne voit pas à l’intérieur d’un corps et ne date pas un décès, et un mot de travers sur ces questions peut rester des années dans une tête. Il en va de même pour les procès en cours, les décisions d’argent et les personnes qui ne sont pas là.
 
-Il y a souvent une question plus douce juste en dessous — « comment prendre soin de moi en attendant les résultats ? », « qu’est-ce que j’ai envie de dire à ma grand-mère cet hiver ? » — et celle-là, les cartes peuvent la porter. Voici [tous les sujets écartés à Maison Tarot, motifs compris](/fr/avertissements/#refus).
+Juste en dessous se cache souvent une demande plus tendre — « comment prendre soin de moi en attendant les résultats ? », « qu’est-ce que j’ai envie de dire à ma grand-mère cet hiver ? » — et celle-là, les cartes peuvent la porter. Voici [tous les sujets écartés à Maison Tarot, motifs compris](/fr/avertissements/#refus).
 
 ## Soirée, salon ou événement en ligne {#soiree-salon-en-ligne}
 
 Le lieu change ce qui vous attend. Dans une soirée, d’autres écoutent : une personne prudente reste légère, et vous pouvez demander à vous mettre à l’écart ou à arrêter. Dans un salon ou sur un stand, fixez votre budget avant de vous asseoir, et regardez si l’on vous laisse la place de dire « non, ça ne colle pas ».
 
-En ligne, lors d’un événement gratuit, vous serez peut-être l’une des personnes lues devant les autres. [Ce qu’il faut savoir avant une lecture gratuite en ligne](/fr/blog/avant-une-lecture-gratuite-en-ligne/) explique comment ça se passe à Maison Tarot, et ce qu’il faut surveiller ailleurs.
+En ligne, lors d’un événement gratuit, vous serez peut-être l’une des personnes lues devant les autres. [Mes conseils avant d’être lu en ligne](/fr/blog/avant-une-lecture-gratuite-en-ligne/) expliquent comment ça se passe à Maison Tarot, et ce qu’il faut surveiller ailleurs.
 
 Où que vous soyez, deux signes disent que ce n’est pas un tirage mais une vente : l’urgence (« il faut approfondir, aujourd’hui ») et un sort que seule cette personne saurait lever.
 
 ## Après votre premier tirage {#apres}
 
-Notez ce qui a été dit, le soir même, avant de décider ce que ça voulait dire. La mémoire retouche vite ; une semaine plus tard, vous vous souviendrez du tirage que vous vouliez, pas de celui que vous avez eu.
+Notez ce qui a été dit le soir même, avant toute interprétation. La mémoire retouche vite ; une semaine plus tard, vous vous souviendrez du tirage que vous vouliez, pas de celui que vous avez eu.
 
 Ensuite, n’agissez pas en fonction de lui : [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/), et un tirage de dix minutes en soirée encore moins.
 

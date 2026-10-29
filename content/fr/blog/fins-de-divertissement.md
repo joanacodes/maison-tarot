@@ -25,7 +25,7 @@ Ce qu’elle ne veut pas dire, c’est « c’est pour rire ». Un film est un d
 
 Au Royaume-Uni, on explique souvent cette habitude par une vieille loi visant les faux médiums, le Fraudulent Mediums Act de 1951. Ce que je peux affirmer avec certitude, c’est que cette loi [a été abrogée en 2008](https://www.legislation.gov.uk/ukpga/Geo6/14-15/33/introduction) et remplacée par les Consumer Protection from Unfair Trading Regulations 2008, des règles générales pour tous les commerçants plutôt qu’une loi sur les médiums. La formule a survécu à la loi dont on se souvient.
 
-En France, la voyance n’a pas de loi à elle, et la suite de l’histoire, de ce côté-ci de la Manche comme de l’autre, est dans [la voyance est-elle encadrée par la loi en France ?](/fr/blog/voyance-legale-france/) Je tire les cartes ; je ne suis pas juriste, et ceci n’est pas un conseil juridique.
+En France, la voyance n’a pas de loi à elle, et la suite de l’histoire, de ce côté-ci de la Manche comme de l’autre, est dans [la voyance est-elle encadrée par la loi en France ?](/fr/blog/voyance-legale-france/) Mon métier, ce sont les cartes, pas le droit : prenez ces lignes comme un repère, pas comme un conseil juridique.
 
 ## Ce que la mention ne fait pas {#ce-qu-elle-ne-fait-pas}
 
@@ -47,7 +47,7 @@ Mettons que quelqu’un tire le Huit de Coupes.
 
 Je peux dire ce que je vois : une silhouette qui s’éloigne de nuit de huit coupes encore debout, qui quitte quelque chose qui ne la nourrit plus. Que ce soit un travail, un appartement ou rien du tout, et qu’il faille partir ou non, c’est à la personne d’en décider. La version longue de ce principe est dans [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
 
-Et parce qu’elle protège la personne plus que le tarologue. Quelqu’un qui entend « les cartes disent de le quitter » risque de le quitter. Quelqu’un qui entend « voilà ce que montrent les cartes, le choix vous appartient » rentre chez lui avec son choix intact. C’est aussi pour ça que plusieurs questions n’entrent pas dans mes lectures : celles qui portent sur un corps malade, une grossesse, une mort, une décision d’argent ou un procès encore ouvert. Un mot de travers y coûte trop cher, divertissement ou pas. Ce qu’une lecture peut porter à la place, c’est la façon dont vous traversez la situation.
+Et parce qu’elle protège la personne plus que le tarologue. Quelqu’un qui entend « les cartes disent de le quitter » risque de le quitter. Quelqu’un qui entend « voilà ce que montrent les cartes, le choix vous appartient » rentre chez lui avec son choix intact. C’est aussi pour ça que plusieurs questions n’entrent pas dans mes lectures : celles qui portent sur un corps malade, une grossesse, une mort, une décision d’argent ou un procès encore ouvert. Un mot de travers y coûte trop cher, divertissement ou pas. Une lecture peut en revanche accompagner votre manière de traverser la situation.
 
 ## Comment la lire chez quelqu’un d’autre {#la-lire-ailleurs}
 

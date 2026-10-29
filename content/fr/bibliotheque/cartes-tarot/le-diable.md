@@ -23,9 +23,9 @@ related:
 - /bibliotheque/astrologie
 faq:
 - q: 'Que signifie Le Diable ?'
-  a: 'Le Diable parle d’un attachement : un travail, une habitude, une relation ou une image de soi qui vous tient plus que vous ne la tenez. Ce n’est ni un jugement ni un signe du mal, et les chaînes de la carte sont assez lâches pour s’enlever. Il se lit par son nombre (15, qui se ramène à 6), son élément (la Terre) et son fond noir.'
+  a: 'Le Diable parle d’un attachement : un travail, une habitude, une relation ou une image de soi qui a pris les commandes à votre place. Il ne vous juge pas et n’annonce rien de maléfique, et les chaînes de la carte sont assez lâches pour s’enlever. Il se lit par son nombre (15, qui se ramène à 6), son élément (la Terre) et son fond noir.'
 - q: 'Le Diable renversé, ça change quoi ?'
-  a: 'Renversé, le Diable, c’est souvent la chaîne qui commence à glisser : on voit ce qui nous tient et on commence à desserrer. Ce peut être aussi le même attachement en excès, plus têtu ou mieux caché. Dans les deux cas, le dessin ne change pas : les chaînes n’ont jamais été fermées à clé.'
+  a: 'Renversé, le Diable montre souvent une chaîne qui se relâche : on voit ce qui nous tient et on commence à desserrer. Ou bien le même attachement en excès, plus têtu ou mieux caché. Dans les deux cas, le dessin ne change pas : les chaînes n’ont jamais été fermées à clé.'
 - q: 'Le Diable est-il une mauvaise carte ?'
   a: 'Non. Chaque carte a un plus et un moins, et le plus du Diable, c’est le désir, l’ambition, l’énergie de vouloir. Son moins, c’est quand cette envie se met à vous mener, et la carte vous le montre pour que vous puissiez y faire quelque chose.'
 - q: 'Que dit Le Diable pour le travail ?'
@@ -66,9 +66,9 @@ Le Diable, chez la Golden Dawn, c’est le [Capricorne](/fr/bibliotheque/astrolo
 
 ## En lecture {#lecture}
 
-À l’endroit, le Diable, c’est un attachement : à un travail, à une personne, à une habitude, à une image de soi. Chaque carte a un plus et un moins, et le plus du Diable est bien réel — le désir, l’ambition, l’énergie de vouloir. Son moins, c’est quand l’envie vous mène par le bout du nez. La question n’est donc pas « qu’est-ce qui ne va pas chez vous ? » mais « qu’est-ce que vous tenez et que vous pourriez poser ? » Parfois, c’est le jeu lui-même : tirer tous les jours sur la même inquiétude, c’est aussi une chaîne.
+À l’endroit, le Diable, c’est un attachement : à un travail, à une personne, à une habitude, à une image de soi. Chaque carte a un plus et un moins, et le plus du Diable est tout à fait concret — le désir, l’ambition, l’énergie de vouloir. Il bascule dans son moins dès que l’envie tient la laisse. Inutile, alors, de chercher ce qui cloche chez vous ; la vraie question est : « qu’est-ce que vous tenez, et que vous pourriez poser ? » Parfois, c’est le jeu lui-même : tirer tous les jours sur la même inquiétude, c’est aussi une chaîne.
 
-Renversé, c’est souvent la chaîne qui commence à glisser : on remarque la boucle, on y porte la main. Ou le même attachement en excès — on s’entête, on le cache mieux, on appelle ça un choix.
+Renversé, l’attache commence à céder : on repère ce qui serre, on y porte la main. Ou le même attachement en excès — on s’entête, on le cache mieux, on appelle ça un choix.
 
 À côté des [Amoureux](/fr/bibliotheque/cartes-tarot/les-amoureux/), le Diable demande si un choix en est encore un. À côté du [Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/) — des liens qu’on s’impose alors que tout est là pour les défaire —, il répète que le bandeau peut s’enlever. À côté du [Quatre de Pentacles](/fr/bibliotheque/cartes-tarot/quatre-de-pentacles/), c’est serrer si fort ce qu’on a qu’on ne peut plus s’en servir.
 

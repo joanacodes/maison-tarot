@@ -35,11 +35,11 @@ Chaque position commence par « je » ou « la relation ». Aucune ne commence p
 
 ## Un tirage amour, pas à pas {#exemple}
 
-Imaginons que quelqu’un tire, pour sa relation, le Quatre de Coupes, la Reine de Pentacles, l’As de Coupes, le Deux d’Épées et le Valet de Coupes.
+Mettons qu’une question de couple fasse sortir le Quatre de Coupes, la Reine de Pentacles, l’As de Coupes, le Deux d’Épées et le Valet de Coupes.
 
 {{< cards "cu04 pequ cuac sw02 cupa" >}}
 
-Où j’en suis : le Quatre de Coupes. Un jeune homme assis sous un arbre, bras croisés, regarde trois coupes posées dans l’herbe, pendant qu’une main sortie d’un nuage lui en tend une quatrième. L’Eau, le chiffre 4 : stable, installé — et, côté moins, continuer par habitude. Du confort, un peu de fermeture, et ce qu’on vous offre qui passe inaperçu.
+Où j’en suis : le Quatre de Coupes. Adossé à son arbre, un garçon contemple les trois coupes alignées devant lui et ne remarque pas la quatrième, offerte par une main qui sort des nuages. L’Eau, le chiffre 4 : stable, installé — et, côté moins, continuer par habitude. Du confort, un peu de fermeture, et ce qu’on vous offre qui passe inaperçu.
 
 Ce que j’apporte : la Reine de Pentacles, assise dans un jardin, une pièce sur les genoux, un lapin à ses pieds. [La Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la stabilité, le soin concret, la personne qui fait d’un logement un vrai chez-soi.
 
@@ -63,9 +63,9 @@ Quoi demander à la place :
 
 - De quoi ai-je besoin dans cette relation, et l’ai-je dit ?
 - Qu’est-ce que j’apporte et que j’aimerais voir accueilli ?
-- Qu’est-ce qui m’aiderait à me sentir plus solide en attendant une réponse ?
+- De quoi aurais-je besoin pour tenir bon en attendant une réponse ?
 
-Parfois, le geste le plus doux est hors des cartes : poser la question à la personne. Si la question qui vous serre la poitrine, c’est [« va-t-il revenir ? »](/fr/blog/va-t-il-revenir-tarot/), un article entier parle de ce qu’elle vous fait, et d’une question plus douce à mettre à sa place.
+Parfois, le geste le plus doux est hors des cartes : poser la question à la personne. Si la question qui vous serre la poitrine, c’est [« va-t-il revenir ? »](/fr/blog/va-t-il-revenir-tarot/), un article entier parle de ce qu’elle vous fait, et de ce qu’on peut demander à sa place.
 
 ## Essayez ce soir {#essayer}
 

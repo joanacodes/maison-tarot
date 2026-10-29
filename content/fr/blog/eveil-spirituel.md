@@ -46,7 +46,7 @@ Parce qu’on l’emploie souvent d’une façon qui n’aide ni la personne qui
 
 Pour cette vidéo, j’emploie toujours le mot « éveil ». Pour tout ce qui est venu après, l’expression de mes propres notes est plus simple : développer ses sens. Elle désigne une pratique plutôt qu’un statut, elle ne classe personne, et elle ne laisse pas croire que c’est fini.
 
-Ces sens-là, tout le monde les a. On les développe en faisant des choses qui demandent de lâcher prise un peu : méditer, lire, peindre, n’importe quel art méditatif. Lire le tarot, le marc de café ou même un tableau en fait partie. Rien de tout cela n’est réservé à celles et ceux qui ont vécu un moment spectaculaire.
+Ces sens-là, tout le monde les a. On les développe par tout ce qui oblige à lâcher prise un peu : la méditation, la lecture, la peinture, tout art qui absorbe. Interpréter des cartes, une tasse bue jusqu’au marc ou une toile dans un musée en fait partie. Rien de tout cela n’est réservé à celles et ceux qui ont vécu un moment spectaculaire.
 
 Et un conseil tiré des mêmes notes, pour quiconque sent quelque chose s’ouvrir : allez-y par paliers, sans viser trop haut trop tôt, pour ne jamais perdre la route du retour.
 

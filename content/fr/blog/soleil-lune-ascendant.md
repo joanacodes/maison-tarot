@@ -55,7 +55,7 @@ Une façon de tenir les trois à la fois : donner à chacun son verbe. Dans mes 
 
 Voilà pourquoi « je suis Scorpion » dit si peu de choses, et pourquoi « je ne sors pas avec les Scorpions » juge une maison entière sur son adresse. Vous êtes un mélange de tout, et un thème va bien au-delà de trois positions. C’est aussi pour ça que [l’astrologie n’est pas une excuse](/fr/blog/lastrologie-nest-pas-une-excuse/) : une description n’est pas une autorisation.
 
-Si vous lisez le tarot, deux des trois ont une carte. Le Soleil a le Soleil, l’arcane XIX. La Lune a la Grande Prêtresse dans la tradition de la Golden Dawn ; j’appelle cette carte [une chambre qu’on ne vous montre pas](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/). L’arcane XVIII, la Lune, porte les Poissons et non la Lune, ce qui en trompe plus d’un.
+Si vous lisez le tarot, deux des trois ont une carte. Le Soleil a le Soleil, l’arcane XIX. La Lune revient à la Grande Prêtresse, attribution héritée de la Golden Dawn ; j’appelle cette carte [une chambre qu’on ne vous montre pas](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/). L’arcane XVIII, la Lune, porte les Poissons et non la Lune, ce qui en trompe plus d’un.
 
 {{< cards "ar19 ar02" >}}
 

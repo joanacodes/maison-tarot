@@ -49,7 +49,7 @@ Cherchez un personnage : il n’y en a pas. Aucune main ne lance les bâtons, pe
 
 Le [8](/fr/bibliotheque/numerologie/chiffre-8/), c’est le 4 exalté : ce qui a été bâti est devenu un empire, assez solide pour tourner sans qu’on pousse. Chez les Bâtons, cette solidité devient de l’élan : le travail est fait, maintenant il voyage. Côté Instagram, ce stade arrive avec le rachat par Facebook : l’application devient une infrastructure, et sa solidité ne fait plus débat.
 
-Ma note sur cette carte tient en une question d’angle : les bâtons volent, ou ils tombent — la vieille affaire du verre qu’on voit plein ou vide. Le dessin permet les deux, et la personne en face de vous aussi. « Tout arrive en même temps » peut être la meilleure nouvelle de l’année comme la semaine la plus stressante. Le 8 dit que c’est en route ; il ne dit pas de quel côté ça retombe.
+Dans mes notes, tout se joue sur l’angle : les bâtons volent, ou ils tombent — la vieille affaire du verre qu’on voit plein ou vide. Le dessin permet les deux, et la personne en face de vous aussi. « Tout arrive en même temps » peut être la meilleure nouvelle de l’année comme la semaine la plus stressante. Le 8 dit que c’est en route ; il ne dit pas de quel côté ça retombe.
 
 Je lis aussi le 8 comme une porte entre ce qu’on ne touche pas et ce qu’on touche. Ici, on assiste au passage lui-même : des idées en l’air qui descendent vers un champ.
 

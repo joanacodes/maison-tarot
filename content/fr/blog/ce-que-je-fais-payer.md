@@ -19,9 +19,9 @@ Deux choses, et les deux sont de l’enseignement.
 
 Une session, c’est une heure en visio, en tête-à-tête, dans votre fuseau horaire. Vous ne me donnez aucun contexte, on tire, vous lisez d’abord, je lis après vous, et on compare. Quand ça ne colle pas, on cherche pourquoi. Vous repartez avec les clés de lecture utilisées, par écrit, sans abonnement ni suite obligatoire.
 
-Un atelier dure trois heures, réunit douze personnes au plus et ne traite qu’une clé de lecture : les couleurs, les nombres, ou les éléments et les énergies. La première carte arrive avant la moindre théorie, et à la fin, chacun lit devant le groupe une carte qu’il n’a jamais étudiée. Il n’y a ni niveaux ni certificat.
+Un atelier dure trois heures, réunit douze personnes au plus et ne traite qu’une clé de lecture (les couleurs, ou les nombres, ou le duo éléments et énergies). La première carte arrive avant la moindre théorie, et à la fin, chacun lit devant le groupe une carte qu’il n’a jamais étudiée. Il n’y a ni niveaux ni certificat.
 
-Les prix, TTC, sont sur [la page des sessions](/fr/sessions/) et [celle des ateliers](/fr/ateliers/). Je préfère que vous les lisiez là plutôt que dans un article qui risque de vieillir.
+Les prix, TTC, figurent sur [la page des sessions](/fr/sessions/) et [celle des ateliers](/fr/ateliers/). Je préfère que vous les lisiez là plutôt que dans un article qui risque de vieillir.
 
 ## Ce que je donne {#ce-que-je-donne}
 
@@ -53,11 +53,11 @@ Mon choix est donc le mien, pas une règle pour tous. Je vends des cours parce q
 
 ## Le tarot devrait-il être gratuit ? {#gratuit}
 
-Une bonne partie l’est déjà, ici. La Bibliothèque, avec les couleurs, les nombres, les éléments, les énergies et chacune des cartes, ne coûte rien. Pas plus que les articles de ce blog, ma méthode et mes chiffres compris. Vous pouvez apprendre à lire sans me donner un euro.
+Une bonne partie l’est déjà, ici. La Bibliothèque ne coûte rien, qu’il s’agisse des fiches des 78 cartes ou des pages sur les couleurs, les éléments, les nombres et les énergies. Pas plus que les articles de ce blog, ma méthode et mes chiffres compris. Vous pouvez apprendre à lire sans me donner un euro.
 
 Le gratuit n’est pas forcément propre pour autant. Une lecture gratuite peut servir d’appât en haut d’un entonnoir, et ce qui compte, c’est ce qui vient après. Pendant mes événements, il ne vient rien après : la lecture se termine, et vous repartez avec.
 
-Ce que je fais payer, c’est mon temps, en direct, avec vous. La ligne me paraît juste. La question plus large, ce que devient une pratique quand elle se transforme en produit, sur les plateformes, dans les applis, en abonnements, mérite plus qu’un paragraphe ; elle a son propre article : [le tarot devrait-il être gratuit ?](/fr/blog/commercialisation-du-tarot/)
+Ce que je fais payer, c’est mon temps, en direct, avec vous. La ligne me paraît juste. La question plus large, ce que devient une pratique quand elle se transforme en produit, sur les plateformes, dans les applis, en abonnements, mérite plus qu’un paragraphe, et je l’ai traitée à part : [le tarot devrait-il être gratuit ?](/fr/blog/commercialisation-du-tarot/)
 
 ## Par où commencer {#par-ou-commencer}
 

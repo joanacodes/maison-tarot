@@ -25,7 +25,7 @@ Dans le tarot et tout autour, un don désigne une capacité avec laquelle on na�
 
 Je ne crois pas que ce soit le cas. Ce qu’on appelle un don, ce sont des impressions — une image, un mot, une sensation — et tout le monde en reçoit. Certains sont plus aiguisés sur un canal que sur un autre — ils voient plus vite, ou entendent, ou ressentent — mais personne n’est privé de tous les canaux.
 
-Lire tient davantage de l’art que du sixième sens. Certains ont plus de facilités, et tout le monde y arrive en pratiquant. Quand mes proches ont pris le jeu en main pour essayer, il ne leur a jamais fallu plus de trois tentatives pour lire. Si vous vous demandez s’il faut un don pour commencer, j’y ai répondu à part, [avec un test de dix minutes](/fr/blog/faut-il-un-don-pour-lire-les-cartes/).
+Lire tient davantage de l’art que du sixième sens. Certains démarrent avec plus d’aisance ; les autres y arrivent en s’exerçant. Quand mes proches ont pris le jeu en main pour essayer, il ne leur a jamais fallu plus de trois tentatives pour lire. Si vous vous demandez s’il faut un don pour commencer, j’y ai répondu à part, [avec un test de dix minutes](/fr/blog/faut-il-un-don-pour-lire-les-cartes/).
 
 ## Ce que j’ai vraiment arrêté de faire {#vouloir-avoir-raison}
 
@@ -53,7 +53,7 @@ Si vous avez déjà dit à quelqu’un qu’il avait un don, vous n’aviez pas 
 
 ## Comment découvrir que vous l’avez aussi {#essayer}
 
-1. Trouvez quelqu’un qui accepte de ne rien vous dire de sa question.
+1. Demandez à quelqu’un de garder sa question secrète.
 2. Tirez une carte.
 3. Dites ce que vous voyez avec des mots de tous les jours, détails bizarres compris, sans chercher à avoir raison.
 4. Laissez la personne vous dire si ça tenait, et notez-le dans tous les cas.

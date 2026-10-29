@@ -9,9 +9,9 @@ tags: ["thème astral", "qu’est-ce qu’un thème astral", "thème natal débu
 image: "covers/what-is-a-birth-chart.jpg"
 imageAlt: "Une roue de thème astral imprimée sur un bureau en bois, avec un crayon et un carnet ouvert à côté"
 imagePrompt: "A printed birth chart wheel lying on a wooden desk, a pencil and an open notebook beside it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Un thème astral, ou thème natal, est une carte du ciel à la minute et à l’endroit de votre naissance. Il montre où se trouvaient le Soleil, la Lune et les planètes, dans quels signes du zodiaque et dans quelles maisons, et les angles qu’elles formaient entre elles. La planète dit quoi, le signe dit comment, la maison dit où, et les aspects disent comment les planètes s’entendent. Pour dresser le vôtre, il faut votre date, votre heure et votre lieu de naissance ; un site gratuit comme Astro-Seek fait les calculs."
+summary: "Un thème astral, ou thème natal, est la carte du ciel de votre naissance, à la minute près et depuis le lieu exact où elle a eu lieu. Il montre où se trouvaient le Soleil, la Lune et les planètes, dans quels signes du zodiaque et dans quelles maisons, et les angles qu’elles formaient entre elles. La planète dit quoi, le signe dit comment, la maison dit où, et les aspects disent comment les planètes s’entendent. Pour dresser le vôtre, il faut votre date, votre heure et votre lieu de naissance ; un site gratuit comme Astro-Seek fait les calculs."
 ---
-Un thème astral est une carte du ciel à la minute et à l’endroit de votre naissance : où se trouvaient le Soleil, la Lune et les planètes, devant quels signes, et dans quelle partie du ciel. Pour le dresser, il faut trois informations, votre date, votre heure et votre lieu de naissance, et un site gratuit fait les calculs en quelques secondes.
+Un thème astral fige le ciel de votre naissance, à la minute près et pour la ville où vous êtes né : où se trouvaient le Soleil, la Lune et les planètes, devant quels signes, et dans quelle partie du ciel. Pour le dresser, il faut trois informations, votre date, votre heure et votre lieu de naissance, et un site gratuit fait les calculs en quelques secondes.
 
 ## Ce qu’est un thème astral {#definition}
 
@@ -38,7 +38,7 @@ En astrologie, on range le Soleil et la Lune parmi les « planètes », ce qui f
 | Neptune | Le rêve, l’intuition, l’illusion |
 | Pluton | Le pouvoir, la transformation |
 
-La plupart des thèmes affichent aussi deux points que je regarde de près : Lilith, un point calculé (ce que vous avez appris à cacher), et Chiron, un petit corps entre Saturne et Uranus (la blessure autour de laquelle vous tournez).
+La plupart des thèmes affichent aussi deux points que je regarde de près : Lilith, un point calculé (ce que vous avez appris à cacher), et Chiron, un petit astre dont l’orbite passe entre celles de Saturne et d’Uranus (la blessure autour de laquelle vous tournez).
 
 La vitesse compte. La Lune passe d’un signe à l’autre en deux jours et demi environ, le Soleil tous les mois, Jupiter tous les ans, Saturne tous les deux ans et demi ; Uranus, Neptune et Pluton restent sept ans ou davantage. Toute votre classe de CP partage ces planètes lentes : elles parlent d’une génération plus que de vous.
 
@@ -52,7 +52,7 @@ Mercure en Gémeaux pense donc vite et à voix haute ; Mercure en Vierge analyse
 
 ## Les maisons : le où {#maisons}
 
-Les maisons sont douze parts du ciel, calculées à partir de votre heure et de votre lieu de naissance. Chacune correspond à un domaine de la vie. La première commence à l’ascendant, c’est-à-dire au signe qui montait sur l’horizon oriental à l’instant de votre naissance ; j’explique [comment trouver le vôtre](/fr/blog/quel-est-mon-ascendant/).
+Les maisons sont douze parts du ciel, calculées d’après l’heure et le lieu où vous êtes né. Chacune correspond à un domaine de la vie. La première commence à l’ascendant, c’est-à-dire au signe qui montait sur l’horizon oriental à l’instant de votre naissance ; j’explique [comment trouver le vôtre](/fr/blog/quel-est-mon-ascendant/).
 
 | Maison | Domaine de la vie |
 | --- | --- |
@@ -62,7 +62,7 @@ Les maisons sont douze parts du ciel, calculées à partir de votre heure et de 
 | IV | Le foyer, la famille, les racines |
 | V | Le plaisir, la création, les amours, les enfants |
 | VI | Le travail au quotidien, les routines, l’hygiène de vie |
-| VII | Le couple et les relations en tête-à-tête |
+| VII | Le couple, les associations, les liens à deux |
 | VIII | Les ressources partagées, l’intimité, la transformation |
 | IX | Les voyages, les études, les convictions |
 | X | La carrière, l’image publique |

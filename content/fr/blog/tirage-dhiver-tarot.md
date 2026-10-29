@@ -41,7 +41,7 @@ Imaginons quelqu’un qui tire, sur cinq soirs, le Cinq de Pentacles, le Quatre 
 
 {{< cards "pe05 wa04 pe07 ar09 peac" >}}
 
-*Ce que l’année a usé :* le Cinq de Pentacles, deux silhouettes qui marchent dans la neige, l’une sur des béquilles, devant un vitrail éclairé. Mes notes y voient le dénuement et l’hiver, à deux pas d’une église qui pourrait les réchauffer. Fatigué, transi — et en train de passer devant l’aide qui est juste là.
+*Ce que l’année a usé :* le Cinq de Pentacles : deux personnes transies avancent dans la neige, l’une sur des béquilles, sous une fenêtre d’église allumée. Mes notes y voient le dénuement et l’hiver, à deux pas d’une église qui pourrait les réchauffer. Fatigué, transi — et en train de passer devant l’aide qui est juste là.
 
 *Ce qui me tient chaud :* le Quatre de Bâtons, des guirlandes tendues entre quatre bâtons et des personnes qui lèvent des bouquets devant un château. Dans mes notes : les fondations, le mariage, fonder une famille. La maison, et ceux qui l’habitent.
 
@@ -55,7 +55,7 @@ Trois Pentacles sur cinq : cet hiver parle du corps et des choses pratiques. La 
 
 ## L’obscurité n’est pas seulement à traverser {#obscurite}
 
-Dans ma grille des couleurs, [le noir](/fr/bibliotheque/couleurs-tarot/noir/), c’est l’absence et le vide, mais aussi vider son esprit, et la réalité : la chose nue, sans vernis. Les semaines sombres peuvent faire cela aussi. Moins d’heures de lumière, moins de projets, un peu plus de vérité.
+Le [noir](/fr/bibliotheque/couleurs-tarot/noir/), sur ma grille, désigne le manque et le vide, mais aussi vider son esprit, et la réalité : la chose nue, sans vernis. Les semaines sombres peuvent faire cela aussi. Moins d’heures de lumière, moins de projets, un peu plus de vérité.
 
 Longtemps, je n’osais pas franchir le seuil d’une pièce obscure sans allumer d’abord, et la nuit, tout restait éclairé : une peur que je ne voyais même pas. Désormais, je circule chez moi dans le noir, et les bruits nocturnes me laissent tranquille. J’ai raconté ce qui a changé, et le lien avec le travail sur l’ombre, dans [peur du noir](/fr/blog/peur-du-noir/).
 

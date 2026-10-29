@@ -28,7 +28,7 @@ faq:
 - q: Sept d’Épées renversé, ça change quoi ?
   a: 'Le plan sort au grand jour. Soit le secret devient trop lourd à porter, soit l’habileté déborde. Parfois, c’est le moment d’avouer et de remettre les épées en place.'
 - q: 'Le Sept d’Épées veut-il dire qu’on me trompe ?'
-  a: 'Il peut désigner quelque chose de caché, mais il ne peut pas dire ce que fait une personne qui n’est pas là. Une question plus douce : qu’est-ce que vous ne dites pas, vous, ou de quoi avez-vous besoin pour vous sentir en sécurité ?'
+  a: 'Il peut désigner quelque chose de caché, mais il ne peut pas dire ce que fait une personne qui n’est pas là. Il peut en revanche vous retourner la question : qu’est-ce que vous ne dites pas, vous, ou de quoi avez-vous besoin pour vous sentir en sécurité ?'
 categories:
 - Épées
 tags:
@@ -65,7 +65,7 @@ Le Sept d’Épées est rattaché à la Lune, dans le troisième décan du [Vers
 
 À l’endroit, le Sept d’Épées est une stratégie menée en douce : partir sans prévenir — filer à l’anglaise, comme on dit —, prendre ce qui est à vous (ou ce que vous croyez l’être), contourner un problème au lieu de l’affronter. Ce peut être de la débrouillardise, savoir quoi sauver et quoi laisser. Ce peut être de l’évitement, ou un mensonge. Le plus souvent, celui qui porte les épées, c’est la personne en face de vous, pas quelqu’un d’autre.
 
-On me demande souvent si cette carte veut dire qu’on vous trompe, et je comprends l’inquiétude. Elle peut désigner quelque chose de caché, mais elle ne peut pas dire ce que fait une personne qui n’est pas là, et [je ne lis pas sur les absents](/fr/avertissements/#refus). Une question plus douce : qu’avez-vous cessé de dire, vous ?
+On me demande souvent si cette carte veut dire qu’on vous trompe, et je comprends l’inquiétude. Elle peut désigner quelque chose de caché, mais elle ne peut pas dire ce que fait une personne qui n’est pas là, et [je ne lis pas sur les absents](/fr/avertissements/#refus). Ce qu’elle éclaire volontiers, c’est votre côté de la table : qu’avez-vous cessé de dire, vous ?
 
 Renversé, le plan sort au grand jour. Tantôt le secret devient trop lourd, trop d’épées pour deux bras ; tantôt le mensonge grossit et l’habileté tourne à la méfiance envers tout le monde. Parfois, la carte renversée, c’est le moment d’avouer et de remettre les épées en place.
 

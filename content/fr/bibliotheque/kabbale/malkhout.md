@@ -44,7 +44,7 @@ C’est sur Malkhout que le déplacement hermétique se voit le mieux : dans les
 | [Dix d’Épées](/fr/bibliotheque/cartes-tarot/dix-de-epees/) | Seigneur de la Ruine (Soleil en Gémeaux) | la fin touchée, et l’aube derrière |
 | [Dix de Pentacles](/fr/bibliotheque/cartes-tarot/dix-de-pentacles/) | Seigneur de la Richesse (Mercure en Vierge) | trois générations, l’Arbre dessiné en pièces |
 
-Commençons par le nombre : le [10](/fr/bibliotheque/numerologie/chiffre-10/), c’est le passage entre deux étapes, le couloir entre deux pièces ; son revers, c’est qu’il peut durer peu, et il vous dit de commencer autre chose. Dans mes notes, le Dix de Pentacles, c’est la richesse complète à la maison, toute la famille réunie ; la Golden Dawn l’appelle le Seigneur de la Richesse. Malkhout ajoute l’atterrissage : un Dix, c’est le cycle arrivé quelque part où l’on peut le toucher.
+Commençons par le nombre : le [10](/fr/bibliotheque/numerologie/chiffre-10/), c’est le passage entre deux étapes, le couloir entre deux pièces ; son revers : ce passage est parfois bref, et il pousse à entreprendre autre chose. Dans mes notes, le Dix de Pentacles, c’est la richesse complète à la maison, toute la famille réunie ; la Golden Dawn l’appelle le Seigneur de la Richesse. Malkhout ajoute l’atterrissage : un Dix, c’est le cycle arrivé quelque part où l’on peut le toucher.
 
 Regardez bien le Dix de Pentacles : ses dix pièces sont disposées selon le schéma de l’Arbre de Vie, tout l’édifice descendu dans la cour d’une famille.
 

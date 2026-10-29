@@ -37,7 +37,7 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-Un ange aux grandes ailes rouges se tient un pied dans un bassin, l’autre sur la berge. Robe blanche ; sur la poitrine, un triangle dans un carré ; sur le front, un petit cercle de lumière. L’ange verse l’eau d’une coupe dorée dans une autre, et le filet passe de l’une à l’autre. Des iris jaunes poussent au bord de l’eau. Derrière, un chemin monte du bassin vers deux montagnes, et entre elles brille une lumière dorée en forme de couronne.
+Un ange aux grandes ailes rouges a posé un pied sur la berge et plongé l’autre dans un bassin. Robe blanche ; sur la poitrine, un triangle dans un carré ; sur le front, un petit cercle de lumière. L’ange verse d’une coupe dorée dans une autre, et le filet passe de l’une à l’autre. Des iris jaunes poussent au bord de l’eau. Derrière, un chemin monte du bassin vers deux montagnes, et entre elles brille une lumière dorée en forme de couronne.
 
 Remarquez ce qui manque : pas de hâte, pas de public, pas d’instrument de mesure. **Le dessin parle du mélange — deux choses versées l’une dans l’autre jusqu’à en faire une troisième, au rythme qu’il faut.**
 

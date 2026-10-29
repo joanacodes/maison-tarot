@@ -8,7 +8,7 @@ weight: 29
 categories: ["Symboles"]
 tags: ["symboles du tarot", "tour", "château", "la Mort", "la Lune"]
 h1: "La tour — un <em>abri</em> à l’horizon"
-lede: "Une tour est faite pour voir loin et pour tenir les gens dehors. La carte de la Tour a sa propre page ; celle-ci suit les autres tours du Rider-Waite-Smith — deux à l’horizon de la Mort et de la Lune, des châteaux derrière le Quatre de Bâtons et le Huit d’Épées, une ruine de l’autre côté de la rivière dans le Cinq de Coupes."
+lede: "Une tour est faite pour voir loin et pour tenir les gens dehors. Hors de l’arcane XVI, le jeu en garde plusieurs debout : deux à l’horizon de la Mort et de la Lune, des châteaux derrière le Quatre de Bâtons et le Huit d’Épées, une ruine de l’autre côté de la rivière dans le Cinq de Coupes."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/la-tour
@@ -51,9 +51,9 @@ Une tour, c’est un bâtiment qui monte au lieu de s’étendre. Elle voit loin
 
 {{< zoom "tower" "lead" >}}
 
-Cette page suit les tours qui se tiennent à l’arrière-plan du jeu. Celle que frappe la foudre a [sa propre page](/fr/bibliotheque/cartes-tarot/la-tour/).
+Les tours de l’arrière-plan sont le sujet de cette page ; celle qui s’écroule sous l’éclair est l’arcane XVI, [la Tour](/fr/bibliotheque/cartes-tarot/la-tour/).
 
-## Où elle apparaît dans le jeu {#ou}
+## Deux tours à l’horizon, des châteaux, une ruine {#ou}
 
 Sur la Mort, deux tours grises se dressent à l’horizon, à droite, un soleil entre elles, au-delà de la rivière. Sur [la Lune](/fr/bibliotheque/cartes-tarot/la-lune/), deux tours se tiennent de chaque côté de la carte, et le chemin passe entre elles vers les montagnes. La même disposition sur deux cartes : une porte vue de loin. La page des [colonnes](/fr/bibliotheque/symboles-tarot/colonnes/) les appelle des cousines.
 
@@ -73,9 +73,9 @@ Des tours de château se dressent aussi derrière le Chariot, le Roi de Pentacle
 
 Quand une tour sort, demandez-vous si vous êtes dedans, à son pied, ou si vous la regardez de loin. Dedans, sur le Deux de Bâtons : un endroit sûr d’où préparer la suite, le monde dans la main. Derrière vous, sur le Quatre de Bâtons et le Dix de Pentacles : le foyer qu’on a bâti. Dans mes notes, le Quatre de Bâtons, ce sont les fondations, le mariage, fonder une famille. Au loin, sur la Mort et la Lune : la sortie, pas encore atteinte.
 
-Les clés de lecture : les tours sont en pierre, et la pierre est [grise](/fr/bibliotheque/couleurs-tarot/gris/) — dans ma grille, la neutralité, la stabilité, pas de volonté particulière. Le nombre : le 4, la structure, c’est le Quatre de Bâtons, et dans [ma table de numérologie](/fr/bibliotheque/numerologie/chiffre-4/), son conseil est de rester souple.
+Les tours sont en pierre, et la pierre est [grise](/fr/bibliotheque/couleurs-tarot/gris/) : le gris ne penche d’aucun côté, il tient, sans rien vouloir. Le nombre : le 4, la structure, c’est le Quatre de Bâtons, et dans [ma table de numérologie](/fr/bibliotheque/numerologie/chiffre-4/), son conseil est de rester souple.
 
-Imaginons que quelqu’un tire le Deux de Bâtons au moment de décider s’il quitte un emploi sûr. La tour pourrait dire : vous êtes à l’abri là-haut, et vous voyez très loin. Reste à savoir si vous descendrez l’escalier.
+Quelqu’un hésite à quitter un emploi sûr, et c’est le Deux de Bâtons qui sort. La tour pourrait dire : vous êtes à l’abri là-haut, et vous voyez très loin. Reste à savoir si vous descendrez l’escalier.
 
 ## L’autre face {#revers}
 

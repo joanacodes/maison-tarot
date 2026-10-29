@@ -45,4 +45,4 @@ Si vous créez ce contenu, ou si vous choisissez qui regarder :
 
 Le format, c’est un miroir au bout d’un bâton, tendu vers une foule. Quelqu’un qui lit bien l’oriente avec soin et vous prévient quand le reflet est faussé. Quelqu’un qui lit mal peint un sourire sur la vitre. Dans les deux cas, TikTok n’y est pour rien.
 
-Si vous voulez voir la version honnête d’un tirage public, c’est le principe des [événements gratuits](/fr/evenements/) de Maison Tarot : tirage au sort, personne ne me dit rien, et les ratés sont annoncés devant tout le monde. C’est du « pick a card » sans le tunnel de vente. Et il se trouve que c’était presque tout ce qu’il fallait enlever.
+La version honnête d’un tirage public existe, et c’est le principe de mes [événements gratuits](/fr/evenements/) : tirage au sort, personne ne me dit rien, et les ratés sont annoncés devant tout le monde. C’est du « pick a card » sans le tunnel de vente. Et il se trouve que c’était presque tout ce qu’il fallait enlever.

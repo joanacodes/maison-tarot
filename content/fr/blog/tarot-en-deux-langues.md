@@ -17,7 +17,7 @@ Une carte du Rider-Waite-Smith est exactement la même à Paris et à Londres. C
 
 En France, le jeu traditionnel est le tarot de Marseille, un modèle imprimé par les cartiers français pendant des siècles ([son histoire est dans la Bibliothèque](/fr/bibliotheque/histoire-du-tarot/histoire-du-tarot-de-marseille/)). Dans le tarot anglophone, la plupart des gens commencent avec le Rider-Waite-Smith. Quand une vidéo en anglais parle de *the Magician*, elle parle donc du Rider-Waite-Smith ; et si vous avez appris sur le Marseille, ce Magicien-là, c’est votre Bateleur.
 
-Petit décalage culturel au passage : chez nous, le tarot est aussi un jeu de cartes, avec ses vingt et un atouts et l’Excuse, qu’on sort en famille ou entre amis. Un anglophone qui entend « tarot » pense rarement à une partie de cartes.
+Petit décalage culturel au passage : chez nous, le tarot est aussi un jeu de cartes — vingt et un atouts plus l’Excuse — qu’on sort en famille ou entre amis. Un anglophone qui entend « tarot » pense rarement à une partie de cartes.
 
 Les jeux eux-mêmes diffèrent aussi : points ou scènes, vieilles gravures sur bois ou dessins de Pamela Colman Smith. Je les mets face à face [dans une comparaison détaillée](/fr/blog/tarot-de-marseille-ou-rider-waite/). Ici, je m’en tiens aux mots.
 

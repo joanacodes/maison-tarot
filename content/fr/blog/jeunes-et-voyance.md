@@ -37,7 +37,7 @@ Ce qui suit est ma lecture, pas une étude.
 
 L’âge des choix sans garantie. Entre dix-huit et vingt-quatre ans, on choisit des études, un premier travail, une ville, quelqu’un — souvent tout à la fois, sans savoir comment ça tournera. Le tarot ne choisit pas à votre place, mais il permet de poser la question à voix haute. Imaginons : vous avez vingt-deux ans, une place en master d’un côté, une offre d’emploi de l’autre. Un tirage ne tranchera pas ; mais poser deux chemins sur la table et dire tout haut ce que chaque carte vous fait ressentir montre souvent vers lequel vous penchiez déjà.
 
-Un langage en images, gratuit, dans la poche. Une génération a rencontré le tarot sur TikTok ou YouTube, pas dans une boutique ésotérique ; j’en parle dans [le TarotTok expliqué](/fr/blog/tarottok-francais/). Moi-même, c’est une vidéo « pick a card » qui a tout déclenché : jamais personne n’avait trouvé de mots aussi justes pour ma situation, et j’ai pleuré — la lectrice aussi, dans la vidéo. Je ne vais pas mépriser la porte par laquelle je suis entrée. J’ai écrit ailleurs ce que valent [les tirages « pick a card »](/fr/blog/tirage-pick-a-card/), avec leurs forces et leurs limites.
+Un langage en images, gratuit, dans la poche. Une génération a rencontré le tarot sur TikTok ou YouTube, pas dans une boutique ésotérique ; j’en parle dans [le TarotTok expliqué](/fr/blog/tarottok-francais/). Moi-même, c’est une vidéo « pick a card » qui a tout déclenché : jamais personne n’avait trouvé de mots aussi justes pour ma situation, et j’ai pleuré — la lectrice aussi, dans la vidéo. Je ne vais pas mépriser la porte par laquelle je suis entrée. J’ai pesé ailleurs [les forces et les limites des tirages « pick a card »](/fr/blog/tirage-pick-a-card/).
 
 Un rituel sans dogme. On peut se servir des cartes sans adhérer à rien, et les poser un jour sans renier personne. Pour qui se méfie des grandes institutions, c’est une forme de sens qui ne demande pas de carte de membre.
 
@@ -64,4 +64,4 @@ Pas des interdits, quelques repères.
 
 ## Apprendre plutôt que consulter {#apprendre}
 
-Si le tarot vous attire, le plus beau cadeau à vous faire est d’apprendre à le lire vous-même plutôt que de payer quelqu’un pour le faire. C’est moins cher, c’est plus honnête, et vous découvrirez assez vite ce que vous savez déjà. Tout commence sur [la page pour apprendre le tarot](/fr/apprendre-le-tarot/) ; et si vous voulez essayer à plusieurs, sans rien payer, il y a [les événements gratuits](/fr/evenements/).
+Si le tarot vous attire, le plus beau cadeau à vous faire est d’apprendre à le lire vous-même plutôt que de payer quelqu’un pour le faire. C’est moins cher, c’est plus honnête, et vous découvrirez assez vite ce que vous savez déjà. Tout commence sur [la page pour apprendre le tarot](/fr/apprendre-le-tarot/) ; pour essayer à plusieurs sans rien payer, il y a [les événements gratuits](/fr/evenements/).

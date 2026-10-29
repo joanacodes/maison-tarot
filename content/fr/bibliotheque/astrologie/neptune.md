@@ -16,8 +16,8 @@ tags:
 - Le Pendu
 - thème astral
 h1: Neptune — <em>Le Pendu</em>
-lede: 'Neptune dit où l’on se dissout : le rêve, l’intuition, l’illusion, le flou
-  entre soi et le reste.'
+lede: 'Neptune, c’est la part du thème qui brouille les contours : on y rêve, on
+  y pressent, on s’y raconte des histoires.'
 related:
 - /bibliotheque/astrologie
 - /bibliotheque/cartes-tarot/le-pendu
@@ -58,7 +58,7 @@ gallery:
 ---
 ## Ce qu’il fait dans un thème {#theme}
 
-Neptune dit où l’on se dissout : le rêve, l’intuition, l’illusion, le flou entre soi et le reste. Quatorze ans par signe — c’est un placement de génération, et le plus difficile de tous à vérifier, parce que ce qu’il décrit ne se laisse pas décrire. Signe régi : Poissons.
+Neptune dit où l’on se dissout : là où les contours s’effacent, dans les songes, les pressentiments, les mirages. Il reste environ quatorze ans dans chaque signe, et tous ceux qui naissent pendant cette période le partagent ; c’est aussi le plus difficile de tous à vérifier, parce que ce qu’il décrit ne se laisse pas décrire. Signe régi : Poissons.
 
 ## Les cartes qui le portent {#cartes}
 
@@ -68,6 +68,6 @@ Neptune dit où l’on se dissout : le rêve, l’intuition, l’illusion, le fl
 
 ## Ce que le test a montré {#test}
 
-[Difficile à tester](/fr/bibliotheque/astrologie/#le-test), et la Maison est prudente avec lui pour une raison précise : c’est le placement dont on se sert le plus pour excuser ce qu’on ne veut pas regarder. « C’est mon Neptune. » Non. La Maison le lit comme le Pendu : un point de vue à retourner, pas une brume à habiter.
+[Difficile à tester](/fr/bibliotheque/astrologie/#le-test), et la Maison est prudente avec lui pour une raison précise : aucun placement ne sert aussi souvent d’alibi quand on préfère ne pas voir. « C’est mon Neptune. » Non. La Maison le lit avec le Pendu, qui demande de changer d’angle plutôt que de s’installer dans la brume.
 
 {{% six %}}

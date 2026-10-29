@@ -15,13 +15,13 @@ Les choses les plus étranges arrivées pendant mes tirages n’avaient rien de 
 
 ## « Des frissons quand vous avez parlé de sorts » {#sorts}
 
-Un des avis que j’ai reçus sur Facebook dit que la personne a eu des frissons quand j’ai parlé de sorts.
+Sur Facebook, une personne a écrit dans son avis qu’elle avait eu des frissons quand j’ai parlé de sorts.
 
 Je l’aime parce qu’il est très précis. Pas « super tirage », pas « très juste » : un mot, parmi les centaines prononcés pendant un tirage, qui a assez touché pour qu’on l’écrive après coup.
 
 C’est étrange à voir depuis la place de celle qui lit. Vous dites ce qui vient, dans l’ordre, sans savoir quelle phrase comptera. Puis quelqu’un vous le dit, et c’est souvent une phrase que vous auriez rangée dans les détails. C’est une bonne raison de ne pas trier ce que vous recevez. La partie qui vous paraît bizarre est peut-être la seule qui était pour l’autre.
 
-Un autre avis vient de quelqu’un que j’avais lu pendant un live. On se souvient d’un tirage autrement que celle qui l’a fait, et c’est cette mémoire-là qui compte.
+Un autre avis est signé par quelqu’un à qui j’avais tiré les cartes en direct, pendant un live. On se souvient d’un tirage autrement que celle qui l’a fait, et c’est cette mémoire-là qui compte.
 
 ## Quand les messages sont arrivés avant de mélanger {#avant-de-melanger}
 
@@ -49,7 +49,7 @@ Quelques histoires étaient plus étranges que tout ce qui précède, et chacune
 
 Mon premier tirage pour une inconnue a été un raté qui s’est réalisé trois ou quatre jours plus tard : [mon tout premier tirage était « faux »](/fr/blog/premier-tirage-tarot/).
 
-Le grand-père d’une amie, beaucoup de pots de peinture et une cave numéro cinq : [ce qu’un grand-père très poli m’a appris](/fr/blog/le-tarot-est-il-malefique/).
+Le grand-père d’une amie, beaucoup de pots de peinture et une cave numéro cinq : [la visite que je n’avais pas invitée, racontée en entier](/fr/blog/le-tarot-est-il-malefique/).
 
 Une voix qui m’a donné le prénom d’une amie, et là où elle s’est trompée : [pourquoi un tirage peut se tromper](/fr/blog/tirage-faux-tarot/).
 

@@ -64,11 +64,11 @@ gallery:
 
 ## Le conseil du 9 {#conseil}
 
-Ne pas s’arrêter à cent mètres de l’arrivée. Le 9 demande de tenir un peu plus, et de regarder en soi ce que le cycle a changé avant de le refermer.
+Finir la course, surtout quand l’arrivée est en vue et que la fatigue pèse le plus. Le 9 demande de tenir un peu plus, et de regarder en soi ce que le cycle a changé avant de le refermer.
 
 ## Un exemple que tout le monde connaît {#exemple}
 
-Instagram transforme tout le design de sa plateforme et ne promeut plus que les Reels. Ce n’est pas encore une autre application (ce sera le 10), mais tout ce qui la définissait est en train de finir.
+Instagram transforme tout le design de sa plateforme et ne promeut plus que les Reels. L’application n’a pas encore changé de nature (ce sera le 10), mais ce qui faisait son identité touche à sa fin.
 
 ## Les cinq cartes qui portent le 9 {#cartes}
 

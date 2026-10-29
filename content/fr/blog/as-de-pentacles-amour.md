@@ -17,11 +17,11 @@ L’As de Pentacles en amour, c’est un début qu’on peut toucher. Pas un feu
 
 ## Le un et la Terre, quand on est deux {#le-un-et-la-terre}
 
-Deux clés de lecture font l’essentiel du travail. La première, c’est le nombre : le un, l’initiateur, le diamant brut, le début d’un cycle. Dans mes notes, le conseil du un est l’humilité — se préparer à apprendre — et son revers, d’en manquer, alors qu’on reste élève toute sa vie. En amour, c’est la différence entre un début qu’on explore et un début qu’on croit déjà connaître par cœur.
+Deux clés de lecture font l’essentiel du travail. La première, c’est le nombre : un, celui qui ouvre la marche et lance un cycle, un diamant encore brut. Mes notes lui donnent pour conseil la modestie de l’apprenti, et pour revers l’oubli de cette modestie, quand on ne cesse pourtant jamais d’apprendre. En amour, c’est la différence entre un début qu’on explore et un début qu’on croit déjà connaître par cœur.
 
 La seconde, c’est l’élément : la Terre, que je définis comme ce que vous jugez précieux, que ça se chiffre ou non, avec une énergie surtout féminine — protectrice, stable, mère de toute croissance. Entre deux personnes, la pièce, c’est du temps, de l’attention, un double des clés, un dimanche qu’on garde libre : des choses qui se comptent, et des choses qui tiennent.
 
-Mettez les deux ensemble, et la carte dit qu’on vous tend quelque chose de petit, de réel, qui vaut la peine d’être gardé. Du dessin, l’amour ne garde qu’une chose : le chemin du jardin est vide. Au tarot de Marseille, l’As de Deniers n’a d’ailleurs ni jardin ni chemin. Les couleurs et le reste du dessin sont sur [la page de l’As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/).
+Mettez les deux ensemble, et la carte dit qu’on vous tend quelque chose de petit, de réel, qui vaut la peine d’être gardé. Du dessin, l’amour ne garde qu’une chose : le chemin du jardin est vide. Au tarot de Marseille, l’As de Deniers n’a d’ailleurs ni jardin ni chemin. Le reste du dessin, couleurs comprises, se lit [dans la Bibliothèque, avec l’As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/).
 
 **La pièce est offerte et le chemin est vide : le début est réel, et la marche vous revient.**
 
@@ -29,7 +29,7 @@ Mettez les deux ensemble, et la carte dit qu’on vous tend quelque chose de pet
 
 Si quelqu’un tirait cette carte pour une question de cœur sans rien me dire avant, je partirais de ce qui est offert : « On vous tend quelque chose de petit et de solide, et vous vous demandez si vous pouvez vous y fier. » Ensuite je me tairais, et je laisserais la personne me dire si ça tombe juste, et de quoi il s’agit. Ce que ça touche dépend de l’endroit où elle en est.
 
-Si vous êtes célibataire, l’As de Pentacles est rarement un coup de foudre. Il montre un sol. Une vie assez stable pour accueillir quelqu’un, une semaine où il reste de la place, les gestes concrets qui rendent les rencontres possibles : accepter le dîner, s’inscrire au cours, rester pour un deuxième verre. Imaginons quelqu’un qui le tire après des mois à attendre l’étincelle. La carte suggère de chercher quelque chose de plus lent — une personne, ou une version de soi, avec qui construire.
+Si vous êtes célibataire, l’As de Pentacles est rarement un coup de foudre. Il montre un sol. Une vie assez stable pour accueillir quelqu’un, une semaine où il reste de la place, les gestes concrets qui rendent les rencontres possibles : accepter le dîner, s’inscrire au cours, rester pour un deuxième verre. Si vous le tirez après des mois passés à guetter l’étincelle, il suggère de chercher quelque chose de plus lent — une personne, ou une version de soi, avec qui construire.
 
 En couple, c’est une étape concrète. Emménager ensemble, un bail aux deux noms, un PACS, un projet commun, une habitude qui fait tenir la semaine. Pas une déclaration : une fondation. C’est aussi un bon moment pour vérifier sur quoi la relation repose vraiment. Tracez deux colonnes, une pour chacun de vous, et notez ce que vous avez apporté ce mois-ci — pas des sentiments, des choses : des heures, de l’argent, des corvées, des projets. Si une colonne est bien plus longue que l’autre, la pièce est portée par une seule main.
 
@@ -47,13 +47,13 @@ Quand quelque chose paraît enfin solide, c’est naturel de vouloir une garanti
 
 Je ne lis pas l’avenir de deux personnes, parce que la moitié de cet avenir appartient à l’autre, qui n’a rien tiré ni rien demandé, et qu’une carte ne peut pas signer un contrat à sa place. L’As offre une graine, pas une promesse. Certains lisent aussi cette carte comme un partenaire fortuné. Elle ne dit rien du compte en banque de personne, et les décisions d’argent ne font pas partie de ce que je lis ([lire les Pentacles les pieds sur terre](/fr/blog/tarot-et-argent/)).
 
-Une question plus douce : « Qu’ai-je envie de construire, et à quoi ressemblerait un premier pas concret ce mois-ci ? » Celle-là a une réponse que vous pouvez mettre en œuvre.
+Posez plutôt une question de bâtisseur : « Qu’ai-je envie de construire, et à quoi ressemblerait un premier pas concret ce mois-ci ? » Celle-là a une réponse que vous pouvez mettre en œuvre.
 
 ## Ce que l’As devient près du Deux de Coupes, du Roi de Coupes ou de la Mort {#a-cote}
 
 {{< cards "cu02 cuki ar13" >}}
 
-À côté du Deux de Coupes, le sentiment rencontre le sol : un lien avec quelque chose de solide en dessous ([le Deux de Coupes en amour](/fr/blog/deux-de-coupes-amour/)).
+Près du Deux de Coupes, l’émotion trouve un plancher : un lien qui a du solide sous les pieds ([le Deux de Coupes en amour](/fr/blog/deux-de-coupes-amour/)).
 
 À côté du Roi de Coupes, un début porté par quelqu’un d’émotionnellement stable — vous, ou la personne à vos côtés ([le Roi de Coupes en amour](/fr/blog/roi-de-coupes-amour/)).
 

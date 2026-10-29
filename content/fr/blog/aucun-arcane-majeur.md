@@ -11,11 +11,11 @@ imageAlt: "Trois cartes de tarot côte à côte sur une table en bois, le reste 
 imagePrompt: "Three minor arcana tarot cards laid side by side on a plain wooden table, the rest of the deck squared neatly beside them. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Aucun arcane majeur dans votre tirage veut dire que la situation se joue à l’échelle du quotidien : des choix, des émotions, un travail et des personnes sur lesquels vous pouvez agir cette semaine. Ce n’est pas le signe d’une lecture sans importance, ni que rien ne se passe. C’est aussi fréquent : environ un tiers des tirages de trois cartes ne contiennent aucun majeur. Lisez les mineurs avec tout ce qu’ils portent — la famille, le nombre, le rang — et vous aurez plus de matière, pas moins."
 ---
-Aucun arcane majeur dans votre tirage, c’est le signe que la situation se joue à l’échelle du quotidien : des décisions, des émotions, un travail, des personnes sur lesquels vous avez prise. Ça ne veut pas dire que la lecture est petite, ni qu’il ne se passe rien d’important. Et dans un tirage de trois cartes, ça arrive à peu près une fois sur trois.
+Sans arcane majeur, votre tirage parle d’une situation qui se joue à l’échelle du quotidien : des décisions, des émotions, un travail, des personnes sur lesquels vous avez prise. Ça ne veut pas dire que la lecture est petite, ni qu’il ne se passe rien d’important. Sur trois cartes, c’est même courant : environ un tirage sur trois n’en contient aucun.
 
 ## Arcanes majeurs et mineurs, en quelques lignes {#definitions}
 
-Les arcanes majeurs sont les 22 cartes qui portent un nom, du Mat (0) au Monde (21). Les arcanes mineurs sont les 56 autres : quatre familles de l’As au Dix, plus quatre figures chacune.
+Les arcanes majeurs s’étendent du Mat, numéro 0, au Monde, numéro 21 : 22 cartes qui ont chacune un titre. Les arcanes mineurs sont les 56 autres : quatre familles de l’As au Dix, plus quatre figures chacune.
 
 Les majeurs parlent d’un chapitre — des mois, parfois des années. Les mineurs parlent d’une situation — des jours, des semaines, ce que vous pouvez faire de vos mains. La comparaison complète, tableau compris, se trouve dans [arcanes majeurs et arcanes mineurs](/fr/blog/arcanes-majeurs-et-mineurs/). Ici, une seule question compte : ce que dit leur absence.
 

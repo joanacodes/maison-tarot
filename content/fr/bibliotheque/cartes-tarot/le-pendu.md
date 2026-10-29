@@ -75,7 +75,7 @@ Je m’en méfie un peu, parce que c’est le placement qu’on utilise le plus 
 
 Renversé, la pause est subie plutôt que choisie, ou elle dure trop. L’attente devient une excuse : « j’attends le bon moment », trois ans de suite. Ou l’inverse — tant d’agitation que rien ne se pose assez longtemps pour être vu autrement.
 
-À côté de la [Mort](/fr/bibliotheque/cartes-tarot/la-mort/), la carte qui le suit, la pause prépare une fin qui doit arriver. À côté du [Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/), la différence, c’est le choix : elle est ligotée, les yeux bandés, et se croit incapable de bouger ; lui est attaché et l’a accepté. À côté du [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/), c’est du repos, tout bonnement. J’ai écrit à part sur [le Pendu en amour](/fr/blog/le-pendu-tarot-amour/) ; le travail a sa propre section, plus bas.
+À côté de la [Mort](/fr/bibliotheque/cartes-tarot/la-mort/), la carte qui le suit, la pause prépare une fin qui doit arriver. À côté du [Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/), la différence, c’est le choix : elle est ligotée, les yeux bandés, et se croit incapable de bouger ; lui est attaché et l’a accepté. À côté du [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/), c’est du repos, tout bonnement. J’ai écrit à part sur [le Pendu en amour](/fr/blog/le-pendu-tarot-amour/) ; ses trois façons de mettre un travail en pause se lisent juste en dessous.
 
 {{< cards "ar13 sw08 sw04" >}}
 

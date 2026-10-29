@@ -54,7 +54,7 @@ Quatre choses à garder en tête, quoi que vous pensiez de Saturne.
 
 ## Trois cartes pour votre retour de Saturne {#tirage}
 
-La carte de Saturne, c’est [le Monde](/fr/bibliotheque/cartes-tarot/le-monde/) : la couronne de lauriers, la fin d’un cycle, ce qu’on a fini par construire. Par le Capricorne, le signe que Saturne gouverne, il porte aussi le Diable : la structure devenue chaîne.
+La carte de Saturne, c’est [le Monde](/fr/bibliotheque/cartes-tarot/le-monde/) : un cercle de lauriers, un cycle bouclé, l’édifice enfin terminé. Et comme Saturne gouverne le Capricorne, il hérite aussi du Diable, où le cadre se change en entrave.
 
 {{< cards "ar21 ar15" >}}
 

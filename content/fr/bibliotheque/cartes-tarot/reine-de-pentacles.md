@@ -58,7 +58,7 @@ Le revers vient des deux éléments. La Terre est têtue ; l’Eau négligée s�
 
 ## Par les couleurs {#couleurs}
 
-Le [rouge](/fr/bibliotheque/couleurs-tarot/rouge/), c’est sa robe : la passion, l’action, la force. Cette Reine n’est pas passive ; elle travaille. Le [vert](/fr/bibliotheque/couleurs-tarot/vert/), c’est son voile et le jardin : la nature, la croissance, la vie, la prospérité. Rouge et vert, ce sont aussi les couleurs des roses au-dessus d’elle — de tout ce qui pousse parce que quelqu’un s’en occupe. Le ciel jaune ajoute la joie, les manches blanches une touche de paix.
+Le [rouge](/fr/bibliotheque/couleurs-tarot/rouge/), c’est sa robe : la passion, l’action, la force. Cette Reine n’est pas passive ; elle travaille. Le [vert](/fr/bibliotheque/couleurs-tarot/vert/) habille son voile et le jardin : la vie qui pousse, la prospérité, la nature. Rouge et vert, ce sont aussi les couleurs des roses au-dessus d’elle — de tout ce qui pousse parce que quelqu’un s’en occupe. Le ciel jaune ajoute la joie, les manches blanches une touche de paix.
 
 ## En lecture {#lecture}
 

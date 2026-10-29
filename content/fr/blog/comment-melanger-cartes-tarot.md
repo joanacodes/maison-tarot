@@ -11,7 +11,7 @@ imageAlt: "Deux mains qui mélangent un jeu de tarot par petits paquets au-dessu
 imagePrompt: "Two hands shuffling a deck of tarot cards overhand just above a wooden table, sleeves rolled up, seen from the side. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Mélangez vos cartes de tarot comme vos mains s’y sentent bien. Le mélange par paquets fait passer de petites piles d’une main à l’autre et ménage les grandes cartes. Le mélange américain coupe le jeu en deux et laisse les moitiés tomber l’une dans l’autre : il mélange le plus vite, mais il courbe les cartes. Le mélange à plat consiste à étaler le jeu face cachée sur la table et à le remuer paumes à plat. Aucune méthode n’est fausse. La vraie différence, ce sont les cartes inversées : seul le mélange à plat, ou une moitié retournée, en fait apparaître."
 ---
-Mélangez vos cartes de tarot comme vos mains s’y sentent bien : par petits paquets, à l’américaine, ou étalées face cachée sur la table. Il n’y a pas de mauvaise façon, parce que le mélange ne charge les cartes de rien du tout. Il les brasse, et il vous laisse une minute pour vous poser.
+Mélangez vos cartes de tarot comme vos mains s’y sentent bien : par petits paquets, à l’américaine, ou étalées à plat, dos vers le haut. Aucune façon n’est fausse, parce que le mélange ne charge les cartes de rien du tout. Il les brasse, et il vous laisse une minute pour vous poser.
 
 La seule chose que votre méthode change vraiment, c’est l’apparition ou non de cartes inversées.
 
@@ -33,7 +33,7 @@ Pas besoin de rituel, donc : pas de petits coups sur le paquet, pas de purificat
 2. Avec le pouce de l’autre main, faites glisser de petits paquets du dessus vers cette main, l’un après l’autre, jusqu’à ce que tout le jeu soit passé.
 3. Recommencez autant de fois que vous voulez.
 
-C’est le plus doux pour des cartes de tarot, plus hautes et plus rigides que des cartes de belote, et le plus confortable pour les petites mains. Sa limite : il déplace les cartes par grappes, si bien que des voisines restent voisines un moment.
+Aucune méthode ne ménage mieux des cartes de tarot, plus hautes et plus rigides que des cartes de belote, et c’est la plus confortable pour les petites mains. Sa limite : il déplace les cartes par grappes, si bien que des voisines restent voisines un moment.
 
 ### Le mélange américain {#americain}
 

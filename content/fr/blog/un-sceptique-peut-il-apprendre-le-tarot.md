@@ -31,7 +31,7 @@ Je n’ai pas cessé d’être sceptique. J’ai commencé à compter. Quand mes
 
 Parce que les habitudes qui rendent une personne qui lit digne de confiance sont des habitudes de sceptique.
 
-Un sceptique tient un carnet honnête : à gauche ce que j’ai dit, à droite ce qui a été confirmé. Un sceptique dit « raté » sans chercher à sauver la lecture. Un sceptique n’accepte pas « les cartes parlent de quelque chose que vous n’avez pas encore compris » comme réponse. **Le doute n’est pas le contraire de la lecture ; c’est ce qui la garde honnête.**
+Un sceptique tient un carnet honnête : à gauche ce que j’ai dit, à droite ce qui a été confirmé. Un sceptique dit « raté » sans chercher à sauver la lecture. Un sceptique ne se contente pas d’un « les cartes ont vu ce que vous ne comprenez pas encore ». **Le doute n’est pas le contraire de la lecture ; c’est ce qui la garde honnête.**
 
 Il y a aussi la phrase que j’enseigne en premier. Avant de lire, vous vous dites : *je vais dire n’importe quoi.* Elle éteint la partie de vous qui veut avoir raison. Les sceptiques la trouvent en général la phrase la plus naturelle du monde.
 
@@ -51,14 +51,14 @@ C’est pour ça que j’enseigne comme je le fais. Quand mes proches ont essay�
 
 ## Comment un sceptique peut commencer {#commencer}
 
-1. Prenez un seul jeu, le Rider-Waite-Smith de 1909. Chaque carte porte une scène qu’on peut lire sans livre.
+1. Prenez un seul jeu, le Rider-Waite-Smith, paru en 1909 : chacune de ses cartes montre une scène qu’on lit sans livre.
 2. Apprenez une clé de lecture, pas 78 significations. Les couleurs sont l’entrée la plus rapide.
 3. Lisez pour quelqu’un qui garde sa question et son contexte pour lui.
 4. Dites la phrase, puis dites à voix haute ce que vous voyez.
 5. Gardez par écrit chaque phrase et son verdict. Comptez aussi les ratés.
 6. Faites-le dix fois avant de conclure quoi que ce soit.
 
-La première séance complète est dans [apprendre à lire le tarot quand on débute](/fr/blog/apprendre-a-lire-le-tarot-debutant/), et la façon de compter dans [comment je tiens mon carnet de tirages](/fr/blog/carnet-de-tirage-tarot/).
+Le déroulé d’une première séance complète est [dans mon article pour débutants](/fr/blog/apprendre-a-lire-le-tarot-debutant/), et la façon de compter dans [comment je tiens mon carnet de tirages](/fr/blog/carnet-de-tirage-tarot/).
 
 ## Ce à quoi vous n’avez pas à adhérer {#ce-qui-nest-pas-requis}
 

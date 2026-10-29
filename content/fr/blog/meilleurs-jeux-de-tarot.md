@@ -40,7 +40,7 @@ Selon l’édition, le petit livret fourni est en anglais ou en plusieurs langue
 
 **Toute édition qui garde les dessins de Smith se lit de la même façon ; choisissez celle que vous voyez bien et que vous aimez mélanger.**
 
-Un point d’attention avec les éditions recolorées : la couleur est l’une des clés de lecture que j’enseigne, et une nouvelle coloration peut adoucir ou aviver les tons mêmes que vous lisez. Une fois votre jeu en main, posez [la grille des couleurs](/fr/bibliotheque/couleurs-tarot/) à côté de quelques cartes et regardez ce que fait votre édition. Et si vous voulez connaître la femme derrière chacun de ces jeux, [Pamela Colman Smith](/fr/bibliotheque/figures-du-tarot/pamela-colman-smith/) a sa propre page.
+Un point d’attention avec les éditions recolorées : la couleur est l’une des clés de lecture que j’enseigne, et une nouvelle coloration peut adoucir ou aviver les tons mêmes que vous lisez. Une fois votre jeu en main, posez [la grille des couleurs](/fr/bibliotheque/couleurs-tarot/) à côté de quelques cartes et regardez ce que fait votre édition. La femme derrière chacun de ces jeux, [Pamela Colman Smith](/fr/bibliotheque/figures-du-tarot/pamela-colman-smith/), se découvre dans la Bibliothèque.
 
 ## Un tarot de Marseille, pour plus tard {#marseille}
 
@@ -56,7 +56,7 @@ C’est un jeu profond et superbe, dense en astrologie et en symboles, et dans m
 
 ## Ce que j’ai laissé de côté, et pourquoi {#laisse-de-cote}
 
-Les oracles, parce que ce ne sont pas des tarots : un nombre de cartes variable, des significations choisies par leurs auteurs. Agréables à posséder ; ils ne vous apprendront pas la structure du tarot.
+Les oracles, parce que ce ne sont pas des tarots : chacun fixe librement son nombre de cartes et le sens de chacune. Agréables à posséder ; ils ne vous apprendront pas la structure du tarot.
 
 Les nombreuses versions redessinées du Rider-Waite-Smith. Certaines sont très belles, et une fois l’original connu, elles peuvent être un vrai plaisir. Je préfère que vous en choisissiez une avec une édition de Smith à côté, pour voir ce que l’artiste a gardé et ce qu’il a changé.
 
@@ -66,4 +66,4 @@ La limite honnête : c’est la sélection d’une lectrice, pas un banc d’ess
 
 ## La suite {#la-suite}
 
-Choisissez une édition, pas trois. Quand elle arrive, passez une semaine à la regarder avant de lire quoi que ce soit à son sujet ; [la première semaine avec un nouveau jeu](/fr/blog/nouveau-jeu-de-tarot/) vous donne le programme. Et si vous l’offrez, le [guide pour offrir un jeu de tarot](/fr/blog/offrir-un-jeu-de-tarot/) dit quoi glisser dans le paquet avec lui.
+Choisissez une édition, pas trois. Quand elle arrive, passez une semaine à la regarder, sans rien lire sur elle ; [la première semaine avec un nouveau jeu](/fr/blog/nouveau-jeu-de-tarot/) vous donne le programme. Et si vous l’offrez, le [guide pour offrir un jeu de tarot](/fr/blog/offrir-un-jeu-de-tarot/) dit quoi glisser dans le paquet avec lui.

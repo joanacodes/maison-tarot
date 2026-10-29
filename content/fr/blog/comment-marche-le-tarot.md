@@ -47,4 +47,4 @@ Je lis depuis ce résidu. Je n’ai pas plus besoin d’un mécanisme pour faire
 
 Un tarologue qui sait comment ça marche doit défendre sa théorie. Celui qui ne sait pas doit seulement être honnête sur le résultat. La seconde position est plus solide, plus confortable et — ça m’a surprise — plus juste, parce que la certitude sur le mécanisme déborde vite en certitude sur la lecture, et que c’est de la certitude que viennent les ratés.
 
-Si vous voulez voir ce résidu de vos propres yeux, [lisez pour dix personnes qui ne vous disent rien](/fr/blog/apprendre-a-lire-le-tarot-debutant/), et notez tout.
+Ce résidu, vous pouvez le constater vous-même : [lisez pour dix personnes qui ne vous disent rien](/fr/blog/apprendre-a-lire-le-tarot-debutant/), et notez tout.

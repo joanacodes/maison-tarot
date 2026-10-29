@@ -75,7 +75,7 @@ Et si les planètes ne vous disent rien, la posture de l’homme suffit.
 
 Renversée, la prise se desserre, ou se resserre. Soit la personne commence à ouvrir les bras : elle partage, délègue, dépense pour quelque chose qui compte pour elle. Soit la peur de perdre grandit, et ce qui était protégé devient une cage — le contrôle, la méfiance, rien qui entre parce que rien n’a le droit de sortir.
 
-On interroge cette carte sur l’épargne, les dépenses, les placements. Je ne lis pas sur ces décisions : elles restent les vôtres et, pour les chiffres, celles d’un conseiller. Ce que la carte peut montrer, c’est la prise elle-même, et ce que vous avez peur de perdre ([les Pentacles et l’argent, lus calmement](/fr/blog/tarot-et-argent/)).
+On interroge cette carte sur l’épargne, les dépenses, les placements. Sur ces choix, je laisse le jeu de côté : ils restent les vôtres et, pour les chiffres, ceux d’un conseiller. Ce que la carte peut montrer, c’est la prise elle-même, et ce que vous avez peur de perdre ([les Pentacles et l’argent, lus calmement](/fr/blog/tarot-et-argent/)).
 
 À côté de [l’Empereur](/fr/bibliotheque/cartes-tarot/l-empereur/), le 4 des arcanes majeurs, la structure rencontre la propriété : la règle, le cadre, le trône — une bonne protection, ou une forteresse. À côté du [Quatre de Coupes](/fr/bibliotheque/cartes-tarot/quatre-de-coupes/), autre 4, le confort est devenu fade : à l’abri, et lassé. À côté du [Six de Pentacles](/fr/bibliotheque/cartes-tarot/six-de-pentacles/), les bras s’ouvrent : les mêmes pièces, données et reçues, et la balance de nouveau à niveau.
 

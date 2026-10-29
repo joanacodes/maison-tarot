@@ -19,7 +19,7 @@ Tout commence par quelque chose de bien. Une lecture tombe juste. La personne re
 
 Personne ne se lève un matin en voulant des disciples. Cela se fait à petits pas, et c’est pour cela qu’on le voit si mal de l’intérieur.
 
-Deux cartes résument bien le risque. Le Magicien, dans mes notes, sait se servir de tout ce qui est posé sur sa table, mais il peut jouer la comédie devant ceux qui le croient sur parole. L’Empereur donne des ordres et n’en reçoit pas, et comme le feu, il peut détruire ce qu’il a bâti. Un lecteur suivi par beaucoup de monde peut devenir l’un ou l’autre, sans qu’une seule carte du jeu ait changé.
+Deux cartes résument bien le risque. Le Magicien, dans mes notes, sait se servir de tout ce qui est posé sur sa table, mais il peut jouer la comédie devant ceux qui le croient sur parole. L’Empereur commande sans recevoir d’ordres de personne, et il a le revers du feu : ce qu’il a construit, il peut aussi le raser. Un lecteur suivi par beaucoup de monde peut devenir l’un ou l’autre, sans qu’une seule carte du jeu ait changé.
 
 {{< cards "ar01 ar04" >}}
 
@@ -54,7 +54,7 @@ Alors j’indique la bonne porte — un médecin, un avocat, un thérapeute — 
 ## Les habitudes qui gardent une pratique à sa juste taille {#habitudes}
 
 1. Avant de lire quelqu’un, obtenez son accord, à chaque fois.
-2. Demandez à la personne de ne rien vous dire d’abord, pour ne pas confondre son histoire avec votre lecture.
+2. Lisez avant d’apprendre quoi que ce soit de la personne, pour ne pas confondre son histoire avec votre lecture.
 3. Gardez par écrit vos lectures et leur verdict. Comptez les ratés et dites-les.
 4. Transmettez la méthode plutôt que de vendre des réponses. C’est pour cela que je vends des cours et que j’offre les lectures, gratuitement, lors des événements.
 5. Arrêtez-vous quand vous êtes fatigué. Moi-même, je range parfois le jeu dès la deuxième heure écoulée, par simple prudence.

@@ -8,7 +8,7 @@ weight: 20
 categories: ["Symboles"]
 tags: ["symboles du tarot", "cheval", "Cavaliers", "la Mort", "le Soleil"]
 h1: "Le cheval — l’énergie <em>en mouvement</em>"
-lede: "Un cheval, c’est une force qu’on monte au lieu de la porter. Dans le Rider-Waite-Smith, son allure en dit autant que son cavalier : les chevaux des Cavaliers se cabrent, galopent, marchent ou restent immobiles, et les chevaux blancs de la Mort et du Soleil font entrer un changement."
+lede: "Un cheval, c’est une force qu’on monte au lieu de la porter, et son allure en dit autant que son cavalier : les chevaux des Cavaliers se cabrent, galopent, marchent ou restent immobiles, et les chevaux blancs de la Mort et du Soleil font entrer un changement."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/numerologie/cavalier
@@ -18,7 +18,7 @@ faq:
 - q: "Pourquoi y a-t-il des chevaux sur tant de cartes du tarot ?"
   a: "Parce que les Cavaliers les montent, et que les Cavaliers sont le mouvement de la cour : l’élément qui va quelque part. Hors de la cour, les chevaux portent les grandes arrivées — la Mort, le Soleil, le vainqueur du Six de Bâtons."
 - q: "Que veut dire le cheval blanc sur la carte de la Mort ?"
-  a: "Il fait entrer le changement : la Mort ne marche pas, elle arrive, au pas, et chacun sur son chemin réagit à sa manière. Le blanc, dans ma grille des couleurs, c’est la pureté — une page blanche plus qu’une catastrophe."
+  a: "Il fait entrer le changement : la Mort ne marche pas, elle arrive, au pas, et chacun sur son chemin réagit à sa manière. Ce blanc dit la pureté : une page blanche plus qu’une catastrophe."
 gallery:
 - src: "visuals/sym-horse/1.jpg"
   title: "Une force qu’on emprunte"
@@ -51,7 +51,7 @@ Un cheval, c’est une force qu’on emprunte. On ne la porte pas ; c’est elle
 
 {{< zoom "horse" "lead" >}}
 
-## Où il apparaît dans le jeu {#ou}
+## Quatre allures chez les Cavaliers, trois chevaux blancs ailleurs {#ou}
 
 Les quatre Cavaliers sont les cartes du cheval par excellence, et l’allure est le message. Le cheval du Cavalier de Bâtons se cabre, celui du Cavalier d’Épées galope ventre à terre, celui du Cavalier de Coupes marche au pas, et le cheval noir du Cavalier de Pentacles reste immobile. Le même animal, quatre vitesses. [La page du Cavalier](/fr/bibliotheque/numerologie/cavalier/) les lit un par un.
 
@@ -69,9 +69,9 @@ Le Six de Bâtons place le vainqueur sur un cheval blanc couvert d’un drap ver
 
 Quand un cheval sort, regardez son allure avant tout le reste. Se cabrer, c’est l’impatience ; galoper, l’urgence ; marcher, le progrès régulier ; rester immobile, l’attente — ou le refus de bouger. Demandez ensuite si le cavalier dirige, ou s’il se laisse porter.
 
-La couleur vient ensuite. Les trois chevaux hors des Cavaliers — celui de la Mort, celui du Soleil, celui du Six de Bâtons — sont tous blancs, et le blanc, dans [ma grille](/fr/bibliotheque/couleurs-tarot/blanc/), c’est la pureté et le nouveau départ : tous trois font entrer quelque chose de neuf. Puis l’élément : les Cavaliers sont [les éléments](/fr/bibliotheque/quatre-elements/) en mouvement, alors lisez la série à travers l’allure du cheval.
+La couleur vient ensuite. Les trois chevaux hors des Cavaliers — celui de la Mort, celui du Soleil, celui du Six de Bâtons — sont tous blancs, la couleur de la pureté et des nouveaux départs ([le blanc](/fr/bibliotheque/couleurs-tarot/blanc/)) : tous trois font entrer quelque chose de neuf. Puis l’élément : les Cavaliers sont [les éléments](/fr/bibliotheque/quatre-elements/) en mouvement, alors lisez la série à travers l’allure du cheval.
 
-Imaginons que quelqu’un s’assoie, ne me dise rien, et tire le Cavalier d’Épées à côté du Quatre d’Épées. Un cheval au grand galop à côté d’un chevalier allongé, immobile, sur un tombeau : vous courez à toute allure, et quelque chose en vous demande de s’arrêter.
+Deux chevaliers, deux vitesses : le Cavalier d’Épées au grand galop, et à côté de lui le Quatre d’Épées, où un chevalier repose, étendu sans bouger sur son tombeau. À deux, ils diraient : vous courez à toute allure, et quelque chose en vous demande de s’arrêter.
 
 ## L’autre face {#revers}
 

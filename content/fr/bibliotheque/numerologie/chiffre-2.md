@@ -68,7 +68,7 @@ Lire chaque clause avant de signer. Mettre en balance les avantages et les risqu
 
 ## Un exemple que tout le monde connaît {#exemple}
 
-Systrom et Krieger signent avec des investisseurs. L’idée existe (le 1), et maintenant quelqu’un d’autre y met de l’argent, du temps et des conditions. C’est le premier moment où l’on peut perdre autre chose que son propre temps — d’où le conseil de lire le contrat.
+Systrom et Krieger signent avec des investisseurs. L’idée existe (le 1), et maintenant quelqu’un d’autre y met de l’argent, du temps et des conditions. Pour la première fois, ce qu’on risque ne se limite plus à ses propres heures — d’où le conseil de lire le contrat.
 
 ## Les cinq cartes qui portent le 2 {#cartes}
 

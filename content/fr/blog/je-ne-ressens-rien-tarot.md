@@ -9,13 +9,13 @@ tags: ["je ne ressens rien tarot", "intuition tarot", "tarot débutant", "lire l
 image: "covers/dont-feel-anything-reading-tarot.jpg"
 imageAlt: "Deux mains posées à plat sur une table en bois, de part et d’autre d’une seule carte de tarot retournée"
 imagePrompt: "Two hands resting flat and still on a wooden table on either side of a single face-up tarot card, a closed notebook nearby. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Ne rien ressentir en tirant les cartes, c’est le point de départ de presque tout le monde, et ça ne veut presque jamais dire que vous ne savez pas lire. Ce qui vient est en général plus discret qu’on ne l’imagine : un mot, une image, une intuition qui ressemble à votre propre pensée, et qu’on jette en attendant mieux. La pression, la fatigue ou une personne fermée peuvent aussi tout faire taire. Commencez par ce que vous voyez — la couleur, le nombre, l’élément —, dites-le sans chercher à avoir raison, notez les petites choses, et vérifiez après."
+summary: "Ne rien ressentir en tirant les cartes, c’est ainsi que la plupart des gens commencent, et ça ne veut presque jamais dire que vous ne savez pas lire. Ce qui vient est en général plus discret qu’on ne l’imagine : un mot, une image, une intuition qui ressemble à votre propre pensée, et qu’on jette en attendant mieux. La pression, la fatigue ou une personne fermée peuvent aussi tout faire taire. Commencez par ce que vous voyez — la couleur, le nombre, l’élément —, dites-le sans chercher à avoir raison, notez les petites choses, et vérifiez après."
 ---
 Si vous ne ressentez rien en tirant les cartes, vous êtes là où presque tout le monde commence, et ça ne veut presque jamais dire que vous ne savez pas lire. La plupart des gens attendent quelque chose de bien plus bruyant que ce qui vient réellement. Commencez par ce que vous voyez, continuez à parler, et vérifiez après.
 
 ## À quoi ressemble vraiment le « ressenti » {#a-quoi-ca-ressemble}
 
-Nous recevons tous des impressions : des images, des sons, des mots, des odeurs, des sensations, des émotions. Certaines personnes sont plus fines sur un canal que sur un autre. L’une voit une image, l’autre entend un mot, une troisième sent un poids dans la poitrine. Ce que presque personne ne reçoit, c’est un film projeté derrière les yeux avec une voix off.
+Nous recevons tous des impressions : des images, des sons, des mots, des odeurs, des sensations, des émotions. Chacun a un canal plus aiguisé que les autres. L’une voit une image, l’autre entend un mot, une troisième sent un poids dans la poitrine. Ce que presque personne ne reçoit, c’est un film projeté derrière les yeux avec une voix off.
 
 Le plus souvent, ça ressemble à votre propre pensée. Un mot arrive — « cuisine », « frère », « trop tard » — et il a exactement votre voix. C’est pour ça que tant de débutants concluent qu’ils n’ont rien ressenti : ce qui est venu était discret, banal, et ils l’ont jeté en attendant la vraie chose.
 
@@ -27,7 +27,7 @@ Imaginons que vous tiriez une carte pour une amie et que le mot « escalier » v
 
 Mes notes donnent deux raisons habituelles, et aucune des deux n’est « vous n’avez pas le don ». Ce don-là n’existe pas, à moins de dire que nous l’avons tous.
 
-La première, c’est votre propre blocage : trop de pression. Vous voulez que ça marche, vous vous regardez faire, et la partie de vous qui reçoit se tait. La seconde, c’est celui de l’autre : quelqu’un qui a peur d’entendre quelque chose peut être assis en face de vous comme une porte fermée. Il faut alors parler avec la personne et la rassurer avant de continuer : rien sur la table n’est un verdict, et elle peut vous arrêter quand elle veut.
+La première, c’est votre propre blocage : trop de pression. Vous voulez que ça marche, vous vous regardez faire, et la partie de vous qui reçoit se tait. La seconde, c’est celui de l’autre : une personne qui redoute ce qu’elle pourrait entendre peut s’asseoir en face de vous comme une porte fermée. Il faut alors parler avec la personne et la rassurer avant de continuer : rien sur la table n’est un verdict, et elle peut vous arrêter quand elle veut.
 
 J’en ajouterais deux. La fatigue, parce qu’interpréter demande de l’énergie, et qu’un réservoir vide lit vide. Et le fait de se tirer les cartes sur une question qui compte trop : difficile de recevoir quoi que ce soit quand on sait déjà quelle réponse on veut.
 
@@ -51,7 +51,7 @@ On ne s’entraîne pas à ressentir sur commande. On s’entraîne à lâcher p
 - Faites quelque chose de méditatif : [rester assis quelques minutes sans rien faire](/fr/blog/commencer-la-meditation/), peindre, ou regarder un tableau au musée comme vous regarderiez une carte.
 - Notez les petites choses — le mot égaré, l’image bizarre — même quand elles ne ressemblent à rien. Vérifiez plus tard si elles voulaient dire quelque chose. C’est aussi comme ça qu’on apprend à distinguer [lire et inventer](/fr/blog/est-ce-que-jinvente-tarot/).
 
-Ça vient avec la pratique. Dans mes notes de 2021, ma première année complète de lecture, j’ai écrit que plus je lisais, plus il m’arrivait de recevoir quelque chose avant même d’avoir mélangé le jeu, et que j’étalais les cartes surtout parce que la personne en face voulait les voir.
+Ça vient avec la pratique. En 2021, au fil de ma première année entière de tirages, j’ai noté que plus je lisais, plus il m’arrivait de recevoir quelque chose avant même d’avoir mélangé le jeu, et que j’étalais les cartes surtout parce que la personne en face voulait les voir.
 
 ## Quand « rien » est la réponse {#quand-rien-est-la-reponse}
 
@@ -59,4 +59,4 @@ Certains jours, rien ne vient, et c’est une information aussi. Fatigué, inqui
 
 Je ne peux pas vous promettre que vous ressentirez ce que je ressens. Les impressions viennent différemment à chacun, et rien de tout ça n’est prouvé ; c’est mon expérience, plus une chose que je peux compter : chez tous ceux que j’ai accompagnés, ça a marché en trois essais ou moins. Le ressenti que vous attendez n’est pas le ticket d’entrée. Dire ce que vous voyez, si.
 
-C’est pour ça qu’un [atelier à la Maison Tarot](/fr/ateliers/) commence par une carte posée devant vous, avant toute explication.
+C’est pour ça qu’en [atelier](/fr/ateliers/), vous avez une carte sous les yeux avant d’avoir entendu la moindre explication.

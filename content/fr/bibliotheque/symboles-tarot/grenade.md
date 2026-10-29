@@ -53,9 +53,9 @@ De l’extérieur, une grenade a l’air banale : une peau dure, rougeâtre, une
 
 Elle symbolise l’abondance et la fécondité depuis très longtemps, justement à cause de toutes ces graines.
 
-## Où elle apparaît dans le jeu {#ou}
+## Imprimée sur un voile, portée sur une robe {#ou}
 
-Sur [la Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), le voile tendu entre les deux colonnes derrière elle est imprimé de palmes et de grenades, plusieurs ouvertes sur leurs graines rouges. Le fruit se trouve juste derrière sa tête, sur ce qui cache ce qu’il y a derrière elle. Le [voile](/fr/bibliotheque/symboles-tarot/voile/), lui, mérite une page entière.
+Sur [la Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), le voile tendu entre les deux colonnes derrière elle est imprimé de palmes et de grenades, plusieurs ouvertes sur leurs graines rouges. Le fruit se trouve juste derrière sa tête, sur le tissu même qui dérobe le fond de la scène. Quant au [voile](/fr/bibliotheque/symboles-tarot/voile/), il a beaucoup à dire de son côté.
 
 Sur l’Impératrice, la robe blanche est imprimée de grenades rouges et vertes. Elle est adossée à ses coussins dans un champ de blé, une cascade derrière elle. Ici, le fruit n’est pas caché : elle le porte.
 

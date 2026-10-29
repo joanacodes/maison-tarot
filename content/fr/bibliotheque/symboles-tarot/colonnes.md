@@ -18,7 +18,7 @@ faq:
 - q: "Que veulent dire le B et le J sur les colonnes de la Grande Prêtresse ?"
   a: "On les lit traditionnellement comme Boaz et Jakin, les deux colonnes de l’entrée du Temple de Salomon dans la Bible. La carte ne les explique pas ; elle montre une colonne noire, une colonne blanche, et une femme assise entre les deux."
 - q: "Les deux tours de la Lune et de la Mort sont-elles aussi des colonnes ?"
-  a: "Elles ne sont pas dessinées comme des colonnes, mais elles font un travail voisin : deux montants et un passage entre eux. Je les lis comme une porte vue de loin."
+  a: "Elles ne sont pas dessinées comme des colonnes, mais elles font un travail voisin : deux montants et un passage entre eux, comme l’encadrement d’une porte aperçue au loin."
 gallery:
 - src: "visuals/sym-pillars/1.jpg"
   title: "Deux piliers, une entrée"

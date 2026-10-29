@@ -8,7 +8,7 @@ weight: 9
 categories: ["Symboles"]
 tags: ["symboles du tarot", "nuage tarot", "Sept de Coupes", "Trois d’Épées", "le Monde"]
 h1: "Le nuage — un temps qui <em>passe</em>"
-lede: "Un nuage couvre, porte la pluie, et s’en va. Dans le jeu de 1909, il y en a deux sortes : des nuages blancs et doux qui portent des anges et des créatures ailées, et des nuages gris, déchirés, qui remplissent le ciel des Épées."
+lede: "Un nuage couvre, porte la pluie, et s’en va. Les uns, blancs et doux, servent de siège aux anges et aux créatures ailées ; les autres, gris et déchirés, remplissent le ciel des Épées."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/quatre-elements/element-air
@@ -53,7 +53,7 @@ Un nuage, c’est la météo. Il se tient entre le ciel et la terre, cache le so
 
 Un exemple de tous les jours : la semaine où l’on attend des résultats — d’examen, d’entretien, de concours. Rien ne s’est passé. Vous ne voyez pas à travers. Et pourtant vous savez que ça passera, dans un sens ou dans l’autre.
 
-## Où il apparaît dans le jeu {#ou}
+## Nuages qui portent, nuages qui crèvent {#ou}
 
 Le jeu dessine deux sortes de nuages.
 
@@ -67,13 +67,13 @@ Sur [le Sept de Coupes](/fr/bibliotheque/cartes-tarot/sept-de-coupes/), ce sont 
 
 {{< zoom "cloud" "rest" >}}
 
-Le Valet, la Reine et le Roi d’Épées ont eux aussi des nuages derrière eux. Et cinq cartes font sortir une main d’un nuage — elle a [sa propre page](/fr/bibliotheque/symboles-tarot/main-sortant-du-nuage/).
+Le Valet, la Reine et le Roi d’Épées ont eux aussi des nuages derrière eux. Et cinq cartes font sortir d’un nuage [une main qui tend quelque chose](/fr/bibliotheque/symboles-tarot/main-sortant-du-nuage/).
 
 ## Comment le lire {#lecture}
 
 D’abord, quelle sorte de nuage ? Blanc et portant une figure, c’est un message qui arrive d’au-dessus de la situation. Gris et déchiré, c’est la situation elle-même : instable, bruyante, pas finie.
 
-Avec les clés : les nuages vont avec l’[Air](/fr/bibliotheque/quatre-elements/element-air/), l’élément de la pensée, des décisions et de la communication — d’où leur abondance chez les Épées. En couleur, ils sont blancs ou [gris](/fr/bibliotheque/couleurs-tarot/gris/) : dans ma grille, le gris, c’est la neutralité, aucune volonté particulière. Un nuage ne veut rien. Il passe.
+Les nuages vont avec l’[Air](/fr/bibliotheque/quatre-elements/element-air/), l’élément de la pensée, des décisions et de la communication — d’où leur abondance chez les Épées. En couleur, ils sont blancs ou [gris](/fr/bibliotheque/couleurs-tarot/gris/), et le gris est neutre : il ne pousse vers rien. Un nuage ne veut rien. Il passe.
 
 ## Le revers {#revers}
 

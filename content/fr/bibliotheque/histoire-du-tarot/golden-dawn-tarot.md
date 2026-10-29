@@ -58,7 +58,7 @@ Le fameux échange découle de cette règle. En comptant à partir du Mat, la ca
 
 ## Ce que les créateurs de jeux en ont fait {#jeux}
 
-Le Rider-Waite-Smith de 1909 suit la Golden Dawn : [la Force](/fr/bibliotheque/cartes-tarot/la-force/) y est VIII, la Justice XI, et l’astrologie des pages de cartes de ce site vient du même système. Waite et Smith avaient été membres ; quand l’Ordre s’est divisé, Smith a suivi Waite dans la branche qu’il dirigeait. [La page sur le XXe siècle](/fr/bibliotheque/histoire-du-tarot/le-tarot-au-xxe-siecle/) raconte ce qu’il est advenu de leur jeu.
+Paru en 1909, le Rider-Waite-Smith suit la Golden Dawn : il place [la Force](/fr/bibliotheque/cartes-tarot/la-force/) en huitième position et la Justice en onzième, et l’astrologie des pages de cartes de ce site vient du même système. Waite et Smith avaient été membres ; quand l’Ordre s’est divisé, Smith a suivi Waite dans la branche qu’il dirigeait. [La page sur le XXe siècle](/fr/bibliotheque/histoire-du-tarot/le-tarot-au-xxe-siecle/) raconte ce qu’il est advenu de leur jeu.
 
 Le tarot de Thoth de Crowley, peint par [Frieda Harris](/fr/bibliotheque/figures-du-tarot/frieda-harris/), garde les attributions zodiacales et les décans de l’Ordre, ainsi que les noms que la Golden Dawn donnait aux figures. Une différence à connaître : sur les pages de cartes de ce site, trois atouts portent une planète moderne — Uranus pour le Mat, Neptune pour le Pendu, Pluton pour le Jugement. Ce sont des ajouts plus tardifs ; l’Ordre donnait à ces trois cartes des éléments.
 

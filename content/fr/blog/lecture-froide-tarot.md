@@ -77,4 +77,4 @@ On ne s’arrête pas de remarquer les choses sur commande, et je ne fais pas ex
 
 La limite honnête : le silence n’éteint pas tous les indices. Une voix, un visage en visio, une hésitation portent encore de l’information, et je ne peux pas promettre de ne jamais m’en servir. Ce que fait le silence, c’est rendre le reste vérifiable. J’explique tout le dispositif sur la [page méthode](/fr/methode/).
 
-Si vous voulez voir comment ça se passe quand personne ne dit rien avant, les [événements gratuits](/fr/evenements/) fonctionnent exactement comme ça.
+Ce dispositif se regarde en direct aux [événements gratuits](/fr/evenements/) : personne n’y dit un mot avant d’être lu.

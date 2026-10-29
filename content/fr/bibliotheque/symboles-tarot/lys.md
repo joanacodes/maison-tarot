@@ -8,7 +8,7 @@ weight: 23
 categories: ["Symboles"]
 tags: ["symboles du tarot", "lys", "le Magicien", "As de Pentacles", "symbolisme du tarot"]
 h1: "Le lys — une <em>clarté</em> qui ne crie pas"
-lede: "Le lys est la fleur blanche du jeu : droite, claire, silencieuse. Dans le Rider-Waite-Smith, il pousse à côté des roses du Magicien, dans le jardin de l’As de Pentacles, sur une pierre sculptée du Deux de Bâtons — et flotte sous forme de nénuphars sous l’As de Coupes."
+lede: "Le lys est la fleur blanche du jeu : droite, claire, silencieuse. Il pousse à côté des roses du Magicien, dans le jardin de l’As de Pentacles, sur une pierre sculptée du Deux de Bâtons — et flotte sous forme de nénuphars sous l’As de Coupes."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/le-magicien
@@ -16,7 +16,7 @@ related:
 - /bibliotheque/symboles-tarot/rose
 faq:
 - q: "Que veulent dire les lys au tarot ?"
-  a: "Les lys sont blancs, et le blanc, dans ma grille des couleurs, c’est la pureté, l’innocence et la paix. Dans le Rider-Waite-Smith, ils poussent souvent à côté de roses rouges : l’intention claire à côté du désir. Je les lis comme des intentions nettes, pas comme un jugement moral sur qui que ce soit."
+  a: "Les lys sont blancs, et le blanc, dans ma grille des couleurs, c’est la pureté, l’innocence et la paix. Sur les cartes, ils poussent souvent à côté de roses rouges : l’intention claire à côté du désir. Je les lis comme des intentions nettes, pas comme un jugement moral sur qui que ce soit."
 - q: "Les fleurs jaunes de Tempérance sont-elles des lys ?"
   a: "Ce sont des iris, une autre plante, dessinés au bord de l’eau à droite de la carte. Je ne les compte pas comme des lys."
 gallery:
@@ -53,15 +53,15 @@ Un lys est une grande fleur blanche qui se tient droite sur sa tige. En France, 
 
 Clair ne veut pas dire mou. Un lys se tient tout seul.
 
-## Où il apparaît dans le jeu {#ou}
+## Du jardin du Magicien aux nénuphars de l’As de Coupes {#ou}
 
 Sur [le Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/), des lys blancs poussent parmi les roses rouges du jardin, à ses pieds. L’homme qui a tous les outils sur sa table a les deux fleurs : le désir et l’intention claire, cultivés ensemble.
 
-Sur [l’As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/), des lys blancs poussent dans le jardin sous la main qui tient la pièce, devant une haie percée d’une arche qui ouvre sur les montagnes. Un cadeau matériel, planté dans un jardin net.
+Sur [l’As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/), le jardin qui s’étend sous la main tenant la pièce est planté de lys blancs, devant une haie percée d’une arche qui ouvre sur les montagnes. Un cadeau matériel, planté dans un jardin net.
 
-Sur le Deux de Bâtons, une croix de fleurs est sculptée dans la pierre, à gauche : des rouges, et des blanches en forme de trompette, qu’on lit généralement comme des roses et des lys. L’homme au globe a les deux dans son mur.
+Sur le Deux de Bâtons, une croix de fleurs est taillée dans le mur de pierre, sur la gauche : des rouges, et des blanches en forme de trompette, qu’on prend d’ordinaire pour des roses et pour des lys. L’homme au globe a les deux dans son mur.
 
-Sur le Hiérophante (le Pape au tarot de Marseille), le tonsuré de droite porte une robe semée de fleurs blanches, qu’on lit généralement comme des lys ; celui de gauche porte des roses. Deux disciples, deux fleurs.
+Sur le Hiérophante (le Pape au tarot de Marseille), le tonsuré de droite a sur sa robe un semis de fleurs blanches — des lys, selon la lecture la plus courante ; celui de gauche porte des roses. Deux disciples, deux fleurs.
 
 Sur l’As de Coupes, des nénuphars flottent sur le bassin sous la coupe qui déborde, des fleurs rouges parmi les feuilles rondes. Ce n’est pas la même plante que le lys des jardins, et le jeu les place exactement là où l’eau retombe.
 
@@ -75,9 +75,9 @@ Deux que je laisse de côté : les fleurs jaunes de Tempérance sont des iris, e
 
 Quand des lys sortent, demandez-vous si quelque chose est gardé net. Chez le Magicien et sur le Deux de Bâtons, ils se tiennent à côté de roses : une décision où l’envie et la lucidité doivent partager le même jardin. Sur l’As de Pentacles, ils encadrent un nouveau départ dans la vie concrète — l’argent, le travail, un logement — pris proprement.
 
-Les clés de lecture : le lys est [blanc](/fr/bibliotheque/couleurs-tarot/blanc/), la pureté, l’innocence et la paix dans ma grille. Le nombre : le Deux de Bâtons porte le 2, et dans [ma table de numérologie](/fr/bibliotheque/numerologie/chiffre-2/), le 2, c’est le contrat : lisez-le avant de signer. Un lys sur un 2 pourrait dire : vérifiez que l’accord est aussi propre qu’il en a l’air.
+Le lys est [blanc](/fr/bibliotheque/couleurs-tarot/blanc/) : pureté, innocence, paix. Le nombre : le Deux de Bâtons porte le 2, et dans [ma table de numérologie](/fr/bibliotheque/numerologie/chiffre-2/), le 2, c’est le contrat : lisez-le avant de signer. Un lys sur un 2 pourrait dire : vérifiez que l’accord est aussi propre qu’il en a l’air.
 
-Imaginons que quelqu’un tire l’As de Pentacles avant de monter une affaire avec un ami. Les lys pourraient dire : commencez droit, tout par écrit, tant que tout le monde s’entend bien.
+Si l’As de Pentacles sort au moment où une association entre amis se prépare, les lys pourraient dire : commencez droit, tout par écrit, tant que tout le monde s’entend bien.
 
 ## L’autre face {#revers}
 

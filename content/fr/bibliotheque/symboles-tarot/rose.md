@@ -16,7 +16,7 @@ related:
 - /bibliotheque/symboles-tarot/lys
 faq:
 - q: "Pourquoi y a-t-il une rose blanche sur la carte de la Mort ?"
-  a: "La bannière noire de la Mort porte une grande rose blanche à cinq pétales. Je la lis comme ce qui survit à la fin : dans mes notes, la Mort est liée à la récolte et au recommencement, pas au fait de mourir."
+  a: "La bannière noire de la Mort porte une grande rose blanche à cinq pétales. Je la lis comme ce qui survit à la fin : cette carte, dans mes notes, est liée à la récolte et au recommencement, jamais au fait de mourir."
 - q: "Quelle différence entre roses rouges et roses blanches au tarot ?"
   a: "Le rouge, dans mes couleurs, dit la passion, l’action, l’élan ; le blanc, la pureté, l’innocence, la paix. Une rose rouge veut quelque chose ; une rose blanche promet quelque chose. Chez le Magicien, les roses rouges poussent à côté des lys blancs : le désir et la clarté dans le même jardin."
 gallery:
@@ -53,7 +53,7 @@ Une rose, c’est une beauté qu’on peut tenir, et qui pique si on la tient sa
 
 Ici, les roses sont rouges ou blanches, et l’essentiel du sens tient dans cette différence.
 
-## Où elle apparaît dans le jeu {#ou}
+## Du Mat à la bannière de la Mort {#ou}
 
 Le Mat porte une petite rose blanche dans sa main levée, en marchant vers la falaise. L’innocence, tenue avec légèreté.
 

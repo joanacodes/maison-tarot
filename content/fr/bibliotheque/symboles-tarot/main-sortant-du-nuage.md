@@ -8,7 +8,7 @@ weight: 10
 categories: ["Symboles"]
 tags: ["symboles du tarot", "main sortant du nuage", "As du tarot", "Quatre de Coupes", "As de Coupes"]
 h1: "La main sortant du nuage — un commencement <em>tendu</em>"
-lede: "Une main sort d’un nuage, sans corps derrière elle, et tend la suite de la carte. Dans le jeu de 1909, elle ouvre les quatre As, et revient une dernière fois sur le Quatre de Coupes, vers quelqu’un qui ne regarde pas."
+lede: "Une main sort d’un nuage, sans corps derrière elle, et tend la suite de la carte. Elle ouvre les quatre As, puis revient une dernière fois sur le Quatre de Coupes, vers quelqu’un qui ne regarde pas."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/symboles-tarot/nuage
@@ -53,7 +53,7 @@ Une main sort d’un nuage, sans bras ni corps derrière elle, et tend la suite 
 
 Un exemple de tous les jours : une amie vous transfère une offre d’emploi que vous n’auriez jamais trouvée. Vous ne cherchiez rien. Maintenant, elle est dans votre boîte mail, et la balle est dans votre camp.
 
-## Où elle apparaît dans le jeu {#ou}
+## Les quatre As, puis une coupe que personne ne prend {#ou}
 
 Sur l’As de Bâtons, la main serre un bâton qui bourgeonne encore, quelques feuilles qui s’en détachent. En bas, un château sur une colline et une rivière.
 
@@ -61,7 +61,7 @@ Sur l’As de Coupes, une paume ouverte porte une coupe d’où cinq filets d’
 
 Sur l’As d’Épées, la main serre une épée dressée dont la pointe traverse une couronne, des rameaux qui en pendent, des montagnes très loin en dessous.
 
-Sur l’As de Pentacles, une paume ouverte tend une pièce marquée d’une étoile à cinq branches, au-dessus d’un jardin et d’une arche de roses ouvrant sur des montagnes.
+Sur l’As de Pentacles, une paume ouverte présente une pièce frappée d’une étoile à cinq pointes, au-dessus d’un jardin et d’une arche de roses ouvrant sur des montagnes.
 
 Sur les quatre As, la main est entourée de petits rayons de lumière.
 
@@ -85,6 +85,6 @@ L’autre ombre, c’est le Quatre de Coupes lui-même : une offre refusée parc
 
 ## Avec les autres clés {#cles}
 
-La main vous dit que quelque chose est proposé ; la suite vous dit dans quel domaine, la couleur avec quelle humeur. La main sort d’un [nuage](/fr/bibliotheque/symboles-tarot/nuage/), qui a sa propre page.
+La main vous dit que quelque chose est proposé ; la suite vous dit dans quel domaine, la couleur avec quelle humeur. Elle surgit d’un [nuage](/fr/bibliotheque/symboles-tarot/nuage/), un symbole qui se lit aussi pour lui-même.
 
 {{% six %}}

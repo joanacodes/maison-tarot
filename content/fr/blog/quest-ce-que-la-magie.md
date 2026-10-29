@@ -35,7 +35,7 @@ Selon ma définition, les trois étaient de la magie, et deux ont à peu près c
 
 ## Où se place le tarot dans cette définition {#place-du-tarot}
 
-Ce dont je suis sûre : des gens disent des choses vraies sur des inconnus qui ne leur ont rien dit. [À mon propre décompte](/fr/blog/le-tarot-marche-t-il-300-tirages/), environ neuf de mes lectures sur dix ont tenu. Ce n’est pas une étude, mais c’est plus qu’une impression. Quand des amis essaient pour la première fois, ils disent quelque chose de vrai et restent saisis par ce qui vient de sortir de leur bouche. C’est ce visage-là qui me fait enseigner.
+Ce dont je suis sûre : des gens disent des choses vraies sur des inconnus qui ne leur ont rien dit. [À mon propre décompte](/fr/blog/le-tarot-marche-t-il-300-tirages/), environ neuf de mes lectures sur dix ont tenu. Ce n’est pas une étude, mais c’est plus qu’une impression. Quand des amis essaient pour la première fois, une phrase juste leur échappe, et je les vois stupéfaits de l’avoir dite. C’est ce visage-là qui me fait enseigner.
 
 Une partie, je sais l’expliquer. Certaines « réussites » iraient à n’importe qui, et c’est pour ça que je confronte mes lectures à [l’effet Barnum](/fr/blog/effet-barnum-tarot/). La mémoire garde les réussites et oublie les ratés. Un visage réagit avant que son propriétaire ne le décide.
 
@@ -63,4 +63,4 @@ Gardez une page, à la fin de votre carnet, pour ce que vous avez vu arriver san
 
 Certaines auront trouvé une explication ordinaire : une coïncidence, un souvenir qui s’est arrangé tout seul, quelque chose qu’on vous avait dit et que vous aviez oublié. D’autres non. Celles-là, je les classe à part : j’en doute, et je reste prévenue.
 
-Lisez ensuite [quatre théories sur le fonctionnement du tarot](/fr/blog/comment-marche-le-tarot/), et celle dont je n’ai pas besoin. Et si vous voulez rencontrer l’inexpliqué en personne, lisez une carte pour une personne dont vous ne savez rien. C’est ce qui se passe aux [événements gratuits](/fr/evenements/), devant tout le monde, avec les ratés dits à voix haute.
+Lisez ensuite [quatre théories sur le fonctionnement du tarot](/fr/blog/comment-marche-le-tarot/), et celle dont je n’ai pas besoin. Pour rencontrer l’inexpliqué en personne, rien ne vaut une carte lue pour quelqu’un dont vous ne savez rien. C’est ce qui se passe aux [événements gratuits](/fr/evenements/), devant tout le monde, avec les ratés dits à voix haute.

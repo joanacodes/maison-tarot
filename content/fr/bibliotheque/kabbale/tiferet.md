@@ -45,7 +45,7 @@ Sur le corps, c’est le torse et le cœur. On lui associe Jacob, après Abraham
 | [Six d’Épées](/fr/bibliotheque/cartes-tarot/six-de-epees/) | Seigneur du Succès mérité (Mercure en Verseau) | la traversée vers des eaux plus calmes, après les Cinq |
 | [Six de Pentacles](/fr/bibliotheque/cartes-tarot/six-de-pentacles/) | Seigneur du Succès matériel (Lune en Taureau) | la balance : donner et mesurer d’un même geste |
 
-À lui seul, le [6](/fr/bibliotheque/numerologie/chiffre-6/), c’est le 3 exalté, la machine lancée qui accélère — la réussite, le triomphe, un moment où l’on peut souffler. Son conseil : rester calme et humble quand les résultats arrivent. Tiferet ajoute la raison pour laquelle un Six tient : il est équilibré.
+À lui seul, le [6](/fr/bibliotheque/numerologie/chiffre-6/), c’est le 3 exalté, la machine lancée qui accélère : on réussit, on triomphe, et l’on peut enfin reprendre son souffle. Son conseil : garder la tête froide et rester modeste quand les résultats tombent. Tiferet ajoute la raison pour laquelle un Six tient : il est équilibré.
 
 C’est sur le Six de Pentacles que cette clé de lecture tombe le plus juste. Dans mes notes, c’est la balance, savoir ce que valent les choses. Un marchand donne des pièces d’une main et tient une balance de l’autre : Hesed et Gevurah dans un seul personnage, et Tiferet dans le geste qui les relie.
 

@@ -16,9 +16,8 @@ tags:
 - L’Ermite
 - thème astral
 h1: Chiron — <em>L’Ermite</em>
-lede: Chiron est un petit corps entre Saturne et Uranus, découvert en 1977, nommé
-  d’après le centaure qui soignait les autres d’une blessure qu’il ne pouvait pas
-  guérir chez lui.
+lede: Repéré en 1977 entre Saturne et Uranus, Chiron tient son nom d’un centaure
+  guérisseur qui ne parvint jamais à refermer sa propre plaie.
 related:
 - /bibliotheque/astrologie
 - /bibliotheque/cartes-tarot/l-ermite
@@ -60,7 +59,7 @@ gallery:
 ---
 ## Ce qu’il fait dans un thème {#theme}
 
-Chiron est un petit corps entre Saturne et Uranus, découvert en 1977, nommé d’après le centaure qui soignait les autres d’une blessure qu’il ne pouvait pas guérir chez lui. En astrologie, il dit exactement ça : la blessure autour de laquelle on tourne toute sa vie, et ce qu’on devient capable de soigner chez les autres à cause d’elle. Signe régi : aucun signe — un astéroïde.
+Ce petit astre croise entre les orbites de Saturne et d’Uranus ; découvert en 1977, il porte le nom du centaure qui soignait tout le monde sans pouvoir se soigner lui-même. En astrologie, il dit exactement ça : la blessure autour de laquelle on tourne toute sa vie, et ce qu’on devient capable de soigner chez les autres à cause d’elle. Signe régi : aucun signe — un astéroïde.
 
 ## Les cartes qui le portent {#cartes}
 

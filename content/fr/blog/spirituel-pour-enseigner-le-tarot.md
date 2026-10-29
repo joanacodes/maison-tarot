@@ -25,7 +25,7 @@ Un guide peut faire visiter Notre-Dame de Paris sans être croyant, et le faire 
 
 J’enseigne cinq clés de lecture : les couleurs, les quatre éléments, les nombres de 1 à 10, les énergies féminine et masculine, et les modes astrologiques, avec l’astrologie et les symboles en complément. Chacune est une manière de regarder dont un sceptique et un croyant se servent exactement de la même façon.
 
-Prenez le Six de Coupes. Dans mes notes, le 6 est un « 3 exalté » : la machine est lancée, elle tourne vite, et l’on peut enfin se reposer, voire partir en vacances. Les Coupes, c’est l’Eau : les émotions, les relations. Mettez les deux ensemble et vous obtenez quelque chose comme prendre du temps pour soi, retrouver ce qui vous rendait heureux enfant, une forme d’harmonie.
+Prenez le Six de Coupes. Dans mes notes, le 6 est un « 3 exalté » : la machine est lancée, elle tourne vite, et l’on peut enfin se reposer, voire partir en vacances. Les Coupes appartiennent à l’Eau, donc au monde des sentiments et des liens. Mettez les deux ensemble et vous obtenez quelque chose comme prendre du temps pour soi, retrouver ce qui vous rendait heureux enfant, une forme d’harmonie.
 
 {{< cards "cu06" >}}
 
@@ -35,9 +35,9 @@ Ensuite, l’élève ajoute ce qui lui vient : une image, un mot, une sensation.
 
 ## D’où vient une lecture {#pas-magiques}
 
-Les cartes de tarot sont un support. Elles aident à lâcher prise et à lire ce qui vous entoure, ou ce qui entoure quelqu’un d’autre. Ce qui sort vient de vous, pas des cartes.
+Les cartes de tarot ne font qu’ouvrir une porte : elles vous aident à cesser de tout contrôler, et à capter ce qui se passe autour de vous ou d’un autre. Ce qui sort vient de vous, pas des cartes.
 
-C’est pour cela que tout le monde peut apprendre. Comme pour le dessin, certains ont plus de facilité, et quiconque pratique y arrive. La seule pratique, c’est le lâcher-prise.
+C’est pour cela que tout le monde peut apprendre. Comme pour le dessin, le talent avance plus vite chez les uns, mais la pratique mène tout le monde au but. La seule pratique, c’est le lâcher-prise.
 
 Cela veut dire aussi qu’un professeur ne transmet rien de mystérieux. Pas d’initiation, pas de passation, pas de don qui passerait d’une main à l’autre — j’explique ailleurs pourquoi [il n’est pas nécessaire d’avoir un don pour lire les cartes](/fr/blog/faut-il-un-don-pour-lire-les-cartes/). Si j’enseigne, c’est à cause d’un moment précis : celui où un ami essaie de lire, dit quelque chose de juste, et reste saisi par ce qu’il s’entend dire. Le travail d’un professeur est de laisser de la place à ce moment-là.
 
@@ -54,7 +54,7 @@ Là où je pose une limite, c’est quand la spiritualité devient une échelle,
 Si vous pensez à enseigner, voici la liste à laquelle je me confronte moi-même.
 
 1. Une méthode que vous savez expliquer avec des mots simples, pour que vos élèves n’aient pas besoin de vous longtemps.
-2. Un carnet de vos propres lectures, chaque phrase notée en face de ce qui s’est vérifié — ou pas. Environ une lecture sur dix a raté chez moi, d’après mon propre décompte, et je le dis à chaque élève.
+2. Un carnet de vos propres lectures, chaque phrase notée en face de ce qui s’est vérifié — ou pas. Environ une lecture sur dix a raté chez moi, d’après mes comptes, et chaque élève l’entend de ma bouche.
 3. Une liste des sujets que vous laissez de côté — santé, mort, grossesse, procès en cours, décisions d’argent, envoûtements, personnes absentes — et la gentillesse d’expliquer pourquoi.
 4. Le consentement. Demandez avant de lire quelqu’un, et apprenez à vos élèves à demander aussi.
 5. Quatre petits mots que vous savez prononcer sans gêne : « Je ne sais pas. »
@@ -63,6 +63,6 @@ Rien dans cette liste ne demande ce que vous croyez. Elle demande comment vous t
 
 ## Par où commencer {#commencer}
 
-Si vous voulez voir de l’intérieur un cours qui part des clés de lecture, les [ateliers](/fr/ateliers/) durent trois heures, pour douze personnes, une clé de lecture à chaque fois, avec une carte sur la table avant toute explication.
+Un cours qui part des clés de lecture, ça se vit en [atelier](/fr/ateliers/) : douze participants, trois heures sur une seule clé, et une carte posée sur la table avant la moindre explication.
 
 Ou commencez demain, chez vous. Demandez à un ami de ne rien vous dire, tendez-lui une carte, et demandez-lui quelle couleur il voit en premier. Puis écoutez.

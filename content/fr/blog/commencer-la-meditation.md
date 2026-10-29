@@ -23,7 +23,7 @@ Ce va-et-vient n’est pas une méditation ratée. **Ce n’est pas l’esprit q
 
 ## Pourquoi « je n’y arrive pas » veut souvent dire qu’il vous la faut {#je-ny-arrive-pas}
 
-D’après mon expérience, les personnes qui disent ne pas réussir à méditer sont celles qui en ont le plus besoin.
+D’après mon expérience, plus quelqu’un m’assure qu’il n’arrive pas à méditer, plus la méditation lui ferait du bien.
 
 « Je n’y arrive pas » décrit en général un esprit qui ne s’arrête jamais : qui garde le contrôle sur tout, qui anticipe trois coups à l’avance, et qui attrape le téléphone après trente secondes de silence. Ce n’est pas un défaut. C’est un esprit qui a beaucoup travaillé, et à qui l’on n’a jamais demandé de poser quoi que ce soit.
 
@@ -50,11 +50,11 @@ Le lâcher-prise que l’on pratique assis sans bouger est le même que celui do
 7. Quand le minuteur sonne, arrêtez. Ne notez pas la séance.
 8. Recommencez le lendemain. Au bout d’une semaine, ajoutez une minute si vous en avez envie.
 
-Si vous aimez fermer le moment par un petit rituel, tirez une carte juste après et décrivez ce que vous voyez avant de penser à ce qu’elle veut dire. [La carte du jour](/fr/blog/carte-du-jour-tarot/) se prête très bien à ces deux minutes de calme.
+Si vous aimez fermer le moment par un petit rituel, tirez une carte juste après, et contentez-vous d’abord de la regarder : le sens attendra. [La carte du jour](/fr/blog/carte-du-jour-tarot/) se prête très bien à ces deux minutes de calme.
 
 ## Quand la méditation n’est pas le bon outil {#pas-le-bon-outil}
 
-La méditation n’est pas un traitement, et je ne fais pas de promesses de santé. Si l’anxiété est sérieuse — crises de panique, nuits sans sommeil, peur qui envahit vos journées —, la bonne personne à voir est un médecin ou un thérapeute, et il n’y a aucune honte à pousser cette porte. J’en parle dans [les cas où un thérapeute est la meilleure porte](/fr/avertissements/#therapie).
+La méditation n’est pas un traitement, et je ne fais pas de promesses de santé. Si l’anxiété est sérieuse — crises de panique, nuits sans sommeil, peur qui envahit vos journées —, la bonne personne à voir est un médecin ou un thérapeute, et il n’y a aucune honte à pousser cette porte. [Ma page d’avertissements](/fr/avertissements/#therapie) explique quand une thérapie passe avant tout le reste.
 
 Rester avec ses pensées peut aussi faire remonter plus de choses que prévu. Si cela arrive, ouvrez les yeux, levez-vous, buvez un verre d’eau, et parlez à quelqu’un de confiance. Allez doucement. Deux minutes, ce n’est pas peu ; c’est la bonne quantité pour commencer.
 

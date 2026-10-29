@@ -37,11 +37,11 @@ Supposons que cette carte sorte à l’aveugle. Une fin, la pensée qui tourne e
 
 « Va-t-il revenir ? », ou « va-t-elle revenir ? » : c’est la question qui accompagne si souvent le Dix d’Épées, et je la comprends entièrement. Quand on est à terre, on veut savoir si la personne partie va revenir nous relever.
 
-Je ne lis pas dessus, et voici pourquoi. Revenir ou non, c’est son choix à lui ou à elle, encore à faire, et cette personne n’est pas dans la pièce. Une carte qui dirait oui vous laisserait allongé là, à attendre ; une carte qui dirait non ferait mal pour rien, et pourrait se tromper. J’ai consacré tout un article à [ce que « va-t-il revenir ? » vous fait](/fr/blog/va-t-il-revenir-tarot/).
+Je ne lis pas dessus, et voici pourquoi. Revenir ou non, c’est une décision qui lui appartient, pas encore prise, et que cette personne prendra loin de notre table. Une carte qui dirait oui vous laisserait allongé là, à attendre ; une carte qui dirait non ferait mal pour rien, et pourrait se tromper. J’ai consacré tout un article [à cette question et à ce qu’elle vous coûte](/fr/blog/va-t-il-revenir-tarot/).
 
 La question plus douce : « Qu’est-ce qui se termine en moi, et qu’est-ce qui se lève ? » Ou, plus concrètement : « Qu’est-ce que je mettrais dans ma semaine si je cessais de guetter son retour ? » À celles-là, vous pouvez répondre.
 
-Et soyez aussi doux avec vous-même que vous le seriez avec un ami étendu sur cette rive. Vous ne lui diriez pas de se lever et d’arrêter son cinéma. Vous vous assiériez à côté de lui pour attendre la lumière ensemble.
+Et traitez-vous comme vous traiteriez un ami étendu sur cette rive. Vous ne lui diriez pas de se lever et d’arrêter son cinéma. Vous vous assiériez à côté de lui pour attendre la lumière ensemble.
 
 ## Le profil de l’ex, encore une fois {#le-profil}
 

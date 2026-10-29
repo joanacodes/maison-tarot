@@ -16,7 +16,7 @@ faq:
   - q: "Faut-il un don pour lire les cartes ?"
     a: "Non : ce n’est pas un don réservé à quelques-uns. Sur 300 tirages gratuits pour des inconnus, j’ai noté ce qui se confirmait et ce qui ratait ; la méthode est publiée, et elle s’apprend."
   - q: "Quel jeu de tarot choisir pour débuter ?"
-    a: "Le Rider-Waite-Smith de 1909. Chaque carte est une scène qui se lit sans livre, et toute la Bibliothèque est construite dessus."
+    a: "Celui de 1909, le Rider-Waite-Smith : une scène par carte, qu’on lit sans manuel, et toute la Bibliothèque est bâtie sur lui."
   - q: "Faut-il lire les cartes renversées ?"
     a: "C’est un choix, pas une règle. Commencez à l’endroit ; les clés disent déjà de quoi la carte parle, et le contexte dit si ça bloque ou si ça déborde."
 ---
@@ -34,7 +34,7 @@ C’est le principe de toute la [Bibliothèque](/fr/bibliotheque/) : des clés, 
 4. **[Les énergies féminine et masculine](/fr/bibliotheque/energies-feminine-masculine/)** — la carte se montre-t-elle, ou se cache-t-elle ? Agit-elle, ou réfléchit-elle ?
 5. **[Les modes astrologiques](/fr/bibliotheque/modes-astrologiques/)** — cardinal, fixe, mutable : commencer, tenir, changer. La clé qui dit le tempo.
 
-Avec les trois premières, vous lisez déjà la moitié du jeu. Les deux dernières affinent. L’[astrologie](/fr/bibliotheque/astrologie/) et les [symboles](/fr/bibliotheque/symboles-tarot/) viennent après, pour ceux qui veulent aller plus loin — et ils ne sont pas obligatoires.
+Avec les trois premières, vous lisez déjà la moitié du jeu. Les deux dernières affinent. L’[astrologie](/fr/bibliotheque/astrologie/) et les [symboles](/fr/bibliotheque/symboles-tarot/) viennent ensuite, en bonus : utiles si vous aimez creuser, jamais indispensables.
 
 ## Votre premier tirage, aujourd’hui {#premier-tirage}
 
@@ -44,7 +44,7 @@ La suite — la phrase à se dire avant, la règle du silence, le carnet pour co
 
 ## Ce que j’ai vérifié {#verifie}
 
-Trois cents tirages gratuits, chaque fois sans connaître ni la question ni la vie de la personne, et tous comptés. Le résultat — environ neuf fois sur dix, à mon décompte, avec les ratés inclus — et la façon de compter sont sur la page [Méthode](/fr/methode/). Vous n’avez pas à me croire : la méthode est là pour que vous la testiez.
+Trois cents tirages gratuits, chaque fois sans connaître ni la question ni la vie de la personne, et tous comptés. Le résultat — environ neuf fois sur dix, à mon décompte, avec les ratés inclus — est publié dans [la Méthode](/fr/methode/), avec ma façon de compter. Vous n’avez pas à me croire : la méthode est là pour que vous la testiez.
 
 ## Quand vous voulez quelqu’un en face {#en-face}
 

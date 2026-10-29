@@ -39,13 +39,13 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-Une cour dans un vieux village : une tour de pierre à gauche, une maison au toit d’ardoise grise derrière, tout en pierre jaune et chaude. Au milieu, un garçon en capuche rouge, tunique bleue et bas rouges se penche vers une fillette plus petite et lui tend une coupe pleine de fleurs. Elle porte un fichu rouge, une longue robe mouchetée et un gant blanc, et elle lève les yeux vers lui. Il a le visage tout près des fleurs, comme s’il les sentait avant de les donner.
+Une cour de village ancien, toute en pierre jaune et chaude : à gauche, une tour ; derrière, une maison au toit d’ardoise grise. Au milieu, un garçon en capuche rouge, tunique bleue et bas rouges se penche vers une fillette plus petite et lui tend une coupe débordant de fleurs. Elle porte un fichu rouge, une longue robe mouchetée et un gant blanc, et elle lève les yeux vers lui. Il a le visage tout près des fleurs, comme s’il les sentait avant de les donner.
 
 Il y a six coupes, et chacune contient une fleur blanche en forme d’étoile parmi des feuilles vertes. Quatre sont alignées au premier plan, une est entre les mains du garçon, une est posée sur un socle de pierre orné d’un écu marqué d’une croix en X. Tout à gauche, une petite silhouette munie d’un bâton s’éloigne en montant des marches, de dos. **C’est une scène de gentillesse entre enfants, dans un endroit sûr, pendant que la seule autre personne s’en va.**
 
 ## Par le nombre : six {#nombre}
 
-Le 6, c’est le 3 redoublé : après l’épreuve du 5, les choses fonctionnent de nouveau, et plus vite. Dans mes notes, c’est le nombre des résultats qui arrivent — et du droit de se reposer, de prendre des vacances. Dans le Six de Coupes, ce repos a une saveur particulière : prendre du temps pour soi, l’enfance, refleurir, l’harmonie.
+Le 6, c’est le 3 redoublé : après l’épreuve du 5, les choses fonctionnent de nouveau, et plus vite. Dans mes notes, c’est le nombre des résultats qui arrivent — et du droit de se reposer, de prendre des vacances. Dans le Six de Coupes, ce repos a une saveur particulière : du temps rien qu’à soi, un retour à l’enfance, une seconde floraison, l’harmonie.
 
 C’est pour ça qu’il suit si bien le Cinq : les deux coupes restées debout sont devenues six, remplies de fleurs. Le [chiffre 6](/fr/bibliotheque/numerologie/chiffre-6/) demande de rester posé, sans fanfaronner, quand tout roule ; ici, ça veut dire profiter de la douceur sans essayer d’y vivre pour toujours. Dans l’histoire d’Instagram, le 6, c’est Facebook qui investit ; après la frayeur du 5, une période plus douce commence.
 

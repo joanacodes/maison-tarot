@@ -27,7 +27,7 @@ faq:
 - q: 'Le Soleil renversé, ça change quoi ?'
   a: 'Renversé, le Soleil, c’est la même lumière retenue, une réussite qu’on ne s’autorise pas à savourer, ou poussée à l’excès, quand être vu devient le but. La bonne nouvelle est toujours là ; la question est ce que vous en faites.'
 - q: 'Le Soleil annonce-t-il une grossesse ?'
-  a: 'Je comprends que l’enfant de la carte fasse poser la question, souvent par espoir ou par inquiétude. Une carte ne peut pas vous le dire, et je ne lis pas sur la grossesse : un médecin ou un test sont les bons outils. Ce que le Soleil peut porter, c’est la joie et la chaleur autour de ce que vous espérez.'
+  a: 'Je comprends que l’enfant de la carte fasse poser la question, souvent par espoir ou par inquiétude. Ce n’est pas une réponse qu’une carte peut donner, et la grossesse n’entre pas dans mes tirages : un médecin ou un test sont les bons outils. Ce que le Soleil peut porter, c’est la joie et la chaleur autour de ce que vous espérez.'
 - q: 'Que dit Le Soleil pour le travail ?'
   a: 'Une réussite qu’on peut savourer au grand jour : un projet qui marche, une reconnaissance après un long effort, un travail qu’on peut montrer sans rien cacher. Il ne promet ni promotion ni augmentation ; il vous demande de remarquer le bon moment et de remercier ceux qui ont aidé.'
 categories:
@@ -70,7 +70,7 @@ Renversé, c’est la même lumière retenue — une réussite qu’on ne s’au
 
 Certaines personnes voient l’enfant et demandent si la carte annonce une grossesse, souvent avec beaucoup d’espoir, parfois avec inquiétude. Ce sujet, je le laisse aux médecins, pour [les mêmes raisons que la santé](/fr/avertissements/#refus) : eux peuvent répondre, et le Soleil, lui, peut porter la joie autour de ce que vous espérez.
 
-À côté de [la Lune](/fr/bibliotheque/cartes-tarot/la-lune/), le Soleil, c’est le matin après une longue nuit. À côté du [Six de Bâtons](/fr/bibliotheque/cartes-tarot/six-de-batons/), un autre cavalier sur un cheval blanc, c’est la réussite que les autres voient. À côté de [la Roue de Fortune](/fr/bibliotheque/cartes-tarot/la-roue-de-fortune/), un autre 10, il rappelle que c’est à vous de tourner la roue : faites votre propre chance tant que la lumière est bonne.
+À côté de [la Lune](/fr/bibliotheque/cartes-tarot/la-lune/), le Soleil, c’est le matin après une longue nuit. À côté du [Six de Bâtons](/fr/bibliotheque/cartes-tarot/six-de-batons/), un autre cavalier sur un cheval blanc, c’est la réussite que les autres voient. À côté de [la Roue de Fortune](/fr/bibliotheque/cartes-tarot/la-roue-de-fortune/), un autre 10, il rappelle que la roue ne tourne pas toute seule : provoquez votre chance tant que la lumière est bonne.
 
 {{< cards "ar18 wa06 ar10" >}}
 

@@ -11,7 +11,7 @@ imageAlt: "Deux tasses de thé sur une table de cuisine, une chaise reculée, un
 imagePrompt: "Two cups of tea on a kitchen table, one chair pulled back, a closed deck of cards lying between the cups. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Les questions à éviter au tarot sont les plus lourdes : un souci médical, un décès, une grossesse espérée, un procès qui court, un choix financier, et ce que pense ou fera quelqu’un d’absent. On les pose par peur ou par amour, et cela mérite de l’attention. Mais une carte ne voit pas l’intérieur d’un corps, ne lit pas un contrat et ne parle pas à la place d’un autre ; ici, une maladresse peut faire beaucoup de mal. Chacune a une question plus douce qu’une carte peut porter — sur l’attente, sur vous, sur ce que vous pouvez faire — et un professionnel pour le reste."
 ---
-Certaines questions restent hors de mes tirages : un diagnostic, la mort d’un proche, une grossesse, un litige devant le juge, l’argent à placer ou à engager, et les pensées d’une personne absente. Ces questions-là, on les apporte parce qu’on a peur, ou parce qu’on aime quelqu’un, et ça mérite autre chose qu’une porte fermée. Alors pour chacune, voici ce qui empêche une carte d’y répondre, et la question que je poserais à la place.
+Certaines questions restent hors de mes tirages : un diagnostic, la mort d’un proche, une grossesse, un litige devant le juge, l’argent à placer ou à engager, et les pensées d’une personne absente. Ces questions-là naissent de la peur, ou de l’amour qu’on porte à quelqu’un, et elles méritent mieux qu’un refus sec. Alors pour chacune, voici ce qui empêche une carte d’y répondre, et la question que je poserais à la place.
 
 ## Pourquoi certaines questions ne regardent pas les cartes {#pourquoi}
 
@@ -61,7 +61,7 @@ Elles naissent presque toujours de l’amour, d’une blessure, ou de ce tourmen
 
 Les questions plus douces se retournent vers vous :
 
-- « De quoi ai-je besoin dans cette relation ? »
+- « Dans cette relation, de quoi est-ce que j’ai besoin ? »
 - « Que ferais-je si je connaissais déjà la réponse ? »
 - « Comment ai-je envie qu’on me traite ? »
 
@@ -69,6 +69,6 @@ La question de l’ex a [un article à elle seule](/fr/blog/va-t-il-revenir-taro
 
 ## La question la plus douce, c’est parfois aucune {#aucune-question}
 
-Quand je lis pour quelqu’un, je ne veux connaître ni le sujet ni la question. Ce qui pèse sur une personne finit en général par sortir tout seul, et quand ça ne sort pas, c’est aussi une information.
+Quand je lis pour quelqu’un, je ne veux connaître ni le sujet ni la question. Ce qui pèse sur une personne finit en général par sortir tout seul ; et si rien ne sort, ce silence-là m’apprend quelque chose aussi.
 
 Vous pouvez l’essayer de votre côté. La prochaine fois que quelque chose de lourd vous occupe, mélangez sans question, tirez une carte, et regardez de quoi elle parle avant de décider de quoi elle « devrait » parler. Si vous voulez savoir pourquoi ça marche mieux qu’on ne le croit, je l’explique dans [la règle du silence](/fr/blog/regle-du-silence-tarot/).

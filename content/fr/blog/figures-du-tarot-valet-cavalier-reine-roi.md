@@ -25,7 +25,7 @@ Les figures déroutent pour une bonne raison. Une carte numérotée montre un é
 
 ## Les quatre rangs : quatre étapes de maîtrise {#les-rangs}
 
-Le [Valet](/fr/bibliotheque/numerologie/valet/) apprend. Il tient déjà l’outil de sa famille et le regarde comme un objet dont il ne sait pas encore se servir. C’est aussi le messager : une nouvelle, une lettre, une invitation. Un Valet n’a pas d’âge ; on peut l’être à cinquante ans.
+Le [Valet](/fr/bibliotheque/numerologie/valet/) apprend. Il tient déjà l’outil de sa famille et l’examine en débutant, sans en connaître encore le maniement. C’est aussi le messager : une nouvelle, une lettre, une invitation. Un Valet n’a pas d’âge ; on peut l’être à cinquante ans.
 
 Le [Cavalier](/fr/bibliotheque/numerologie/cavalier/) agit. Regardez le cheval : il se cabre chez les Bâtons, charge chez les Épées, marche au pas chez les Coupes et reste immobile chez les Pentacles. Les Cavaliers sont faits pour partir, pas pour arriver.
 
@@ -50,7 +50,7 @@ Les deux sont possibles, et je ne tranche pas seule. Quatre indices aident :
 1. La position. Une figure placée dans une position qui parle de la personne elle-même est le plus souvent un état. Dans une position qui parle de son entourage, ce peut être quelqu’un.
 2. Le nombre de figures. Une figure seule au milieu de cartes numérotées est souvent un état d’esprit. Trois ou quatre dans un petit tirage, c’est une distribution de personnages.
 3. L’histoire autour. Si les cartes numérotées racontent une histoire, la figure est souvent celle qui agit dedans.
-4. Dire les deux à voix haute. La personne ne me dit rien avant le tirage, donc je ne sais pas qui fait partie de sa vie — et c’est tout l’intérêt. Je nomme les deux lectures, et vous saurez laquelle est la vôtre.
+4. Dire les deux à voix haute. Je tire sans connaître l’entourage de la personne, puisqu’elle ne m’a rien confié — et c’est tout l’intérêt. Je nomme les deux lectures, et vous saurez laquelle est la vôtre.
 
 Imaginons quelqu’un qui tire le Roi d’Épées à côté du Deux de Coupes. Un Roi décide ; les Épées sont l’Air, la pensée. Le Deux de Coupes, c’est un lien entre deux personnes. Vous pourriez dire : « Il y a une décision prise à froid au milieu d’une relation. Soit quelqu’un près de vous est en train de la prendre — soit c’est vous, et ces derniers temps vous avez été plus juge que partenaire. Lequel des deux ? »
 

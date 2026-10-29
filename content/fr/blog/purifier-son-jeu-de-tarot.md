@@ -9,9 +9,9 @@ tags: ["purifier son jeu de tarot", "purification des cartes", "sauge et tarot",
 image: "covers/cleanse-tarot-deck.jpg"
 imageAlt: "Un jeu de tarot dans sa boîte en carton ouverte, sur le rebord d’une fenêtre de cuisine, à côté d’une coupelle de gros sel"
 imagePrompt: "A tarot deck in its open cardboard box on a kitchen windowsill next to a small plain dish of coarse salt, a tap out of focus behind. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Non, vous n’avez pas besoin de purifier votre jeu de tarot : rien ne reste coincé dans les cartes. On purifie un jeu avec la sauge, la lune, le gros sel, quelques petits coups ou un long mélange, pour chasser ce qu’il aurait absorbé ou marquer un nouveau départ. Si un rituel vous aide à vous poser avant de lire, gardez-le. En 2021, j’ai vendu de la sauge, des bougies et des cartes « canalisées ». J’ai arrêté, et rien de tout ça n’a amélioré un tirage. Ce que je propose à la place ne coûte rien : ranger le jeu dans un tiroir quelques jours."
+summary: "Non, vous n’avez pas besoin de purifier votre jeu de tarot : rien ne reste coincé dans les cartes. On purifie un jeu avec la sauge, la lune, le gros sel, quelques petits coups ou un long mélange, pour chasser ce qu’il aurait absorbé ou marquer un nouveau départ. Si un rituel vous apaise avant de lire, gardez-le. En 2021, j’ai vendu de la sauge, des bougies et des cartes « canalisées ». J’ai arrêté, et rien de tout ça n’a amélioré un tirage. Ce que je propose à la place ne coûte rien : laisser le jeu de côté quelques jours."
 ---
-Non. Rien ne reste coincé dans vos cartes, et elles n’ont pas besoin d’être nettoyées pour bien parler. Si un rituel vous aide à vous poser, gardez-le ; j’ai vendu de la sauge en 2021, et je ne suis pas là pour me moquer de qui s’en sert encore.
+Non. Rien ne reste coincé dans vos cartes, et elles n’ont pas besoin d’être nettoyées pour bien parler. Si un rituel vous rend plus calme avant de lire, rien ne vous oblige à l’abandonner ; j’ai vendu de la sauge en 2021, et je ne suis pas là pour me moquer de qui s’en sert encore.
 
 ## Ce que veut dire purifier un jeu {#ce-que-ca-veut-dire}
 
@@ -26,7 +26,7 @@ L’idée derrière, c’est qu’un jeu fonctionne un peu comme une éponge. Ce
 Voici les plus courantes, décrites comme les décriraient les personnes qui les pratiquent.
 
 - *La sauge.* On allume un bouquet de sauge séchée, on éteint la flamme, et on passe les cartes dans la fumée, parfois une à une, souvent en disant à voix haute ce qu’on veut chasser. La fumée sert à purifier les lieux dans bien des traditions ; c’en est la version tarot.
-- *La lune.* On laisse le jeu toute une nuit sur le rebord de la fenêtre, en général à la pleine lune, pour qu’il soit nettoyé et « rechargé » par sa lumière. Certains étalent les cartes face visible, pour que chacune ait sa part.
+- *La lune.* On pose le jeu près d’une vitre pour la nuit, en général à la pleine lune, pour qu’il soit nettoyé et « rechargé » par sa lumière. Certains étalent les cartes face visible, pour que chacune ait sa part.
 - *Le gros sel.* Le jeu repose à côté d’une coupelle de gros sel, ou dans un sachet fermé posé sur un lit de sel, parce que le sel est un purificateur traditionnel, et que le gros sel attend déjà dans presque tous les placards de cuisine. Si vous le faites, gardez les cartes au sec : le carton n’aime pas l’humidité.
 - *Les petits coups.* On toque sur le paquet, une fois ou trois, pour le réveiller ou chasser le tirage précédent. Ça prend une seconde, alors on le fait souvent entre deux personnes.
 - *Le mélange.* Un mélange long et appliqué, ou les soixante-dix-huit cartes remises une à une dans leur ordre d’origine, pour repartir de zéro.
@@ -51,9 +51,9 @@ Et quand les tirages sonnent creux, c’est en général la personne qui lit qui
 
 ## Ce que je fais à la place : une pause {#une-pause}
 
-La pause est toute mon alternative à la purification. Rangez le jeu dans un tiroir quelques jours, une semaine, jusqu’à ce qu’il vous manque. Si vous vous surprenez à le sortir plusieurs fois par jour, ou à reposer la même question avec d’autres mots, le problème n’est pas dans les cartes ; il est dans l’habitude, et une pause est la façon la plus douce de s’en rendre compte. Je ne veux pas que le tarot devienne un cercle de dépendance, ni pour moi ni pour les personnes à qui je tire les cartes, et je vous souhaite la même chose. J’en parle davantage à propos [des raisons de lâcher le jeu un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
+La pause est toute mon alternative à la purification. Mettez le jeu de côté, au fond d’un tiroir, et laissez-l’y le temps qu’il vous manque, qu’il s’agisse de quelques jours ou d’une semaine. Si vous vous surprenez à le sortir plusieurs fois par jour, ou à reposer la même question avec d’autres mots, le problème n’est pas dans les cartes ; il est dans l’habitude, et une pause est la façon la plus douce de s’en rendre compte. Je ne veux pas que le tarot devienne un cercle de dépendance, ni pour moi ni pour les personnes à qui je tire les cartes, et je vous souhaite la même chose. J’en parle davantage à propos [des raisons de lâcher le jeu un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
-Entre deux tirages, un mélange suffit, et [il n’y a pas de mauvaise façon de mélanger](/fr/blog/comment-melanger-cartes-tarot/).
+Entre deux tirages, un mélange suffit, [quelle que soit votre manière de battre les cartes](/fr/blog/comment-melanger-cartes-tarot/).
 
 ## Si vous venez d’acheter un jeu {#jeu-neuf}
 

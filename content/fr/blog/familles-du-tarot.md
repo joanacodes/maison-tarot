@@ -15,7 +15,7 @@ Les arcanes mineurs se répartissent en quatre familles, et chaque famille est u
 
 ## Ce qu’est une famille au tarot {#definition}
 
-Une famille, c’est un ensemble de quatorze cartes qui partagent un même objet : un As, les cartes de 2 à 10, et quatre figures — Valet, Cavalier, Reine, Roi, qui ont [leur propre article](/fr/blog/figures-du-tarot-valet-cavalier-reine-roi/). Le tarot partage ses familles avec les cartes à jouer, et la parenté se voit encore.
+Une famille, c’est un ensemble de quatorze cartes qui partagent un même objet : un As, les cartes de 2 à 10, et quatre figures — Valet, Cavalier, Reine, Roi, [que je présente à part](/fr/blog/figures-du-tarot-valet-cavalier-reine-roi/). Le tarot partage ses familles avec les cartes à jouer, et la parenté se voit encore.
 
 | Famille | Élément | De quoi elle parle | Ce qui est dessiné | Au jeu de cartes |
 | --- | --- | --- | --- | --- |
@@ -46,7 +46,7 @@ Une carte pour l’exemple : le Quatre de Bâtons, quatre bâtons reliés par un
 
 Les Coupes sont l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les émotions, les relations, les forces qu’on ne montre pas. Sur les cartes, l’eau déborde largement des coupes : les cinq filets qui tombent de l’As dans un bassin de nénuphars, des rivières, la mer derrière le Valet et sous le trône du Roi. Et des poissons : l’un sort la tête de la coupe du Valet, un autre bondit hors des vagues à côté du Roi.
 
-Une carte pour l’exemple : le Six de Coupes, deux enfants dans une cour de village, l’un tendant à l’autre une coupe remplie de fleurs blanches. Dans mes notes : prendre du temps pour soi, l’enfance, refleurir, l’harmonie.
+Une carte pour l’exemple : le Six de Coupes, deux enfants dans une cour de village, le plus grand tendant au plus jeune un bouquet de fleurs blanches posé dans une coupe. J’y ai noté le droit de s’accorder du répit, de renouer avec l’enfance, de fleurir à nouveau, et l’harmonie.
 
 ### Épées : l’Air {#epees}
 
@@ -62,7 +62,7 @@ Une carte pour l’exemple : le Neuf de Pentacles, une femme seule dans une vign
 
 ## Lire les familles dans un tirage {#dans-un-tirage}
 
-Avant de lire une seule carte, comptez les familles sur la table. Imaginons que quelqu’un tire cinq cartes sans rien vous dire : l’As, le Trois et le Huit de Bâtons, puis le Deux et le Six d’Épées.
+Avant de lire une seule carte, comptez les familles sur la table. Disons qu’on vous tend un tirage de cinq cartes, sans un mot de contexte : l’As, le Trois et le Huit de Bâtons, puis le Deux et le Six d’Épées.
 
 {{< cards "waac wa03 wa08 sw02 sw06" >}}
 

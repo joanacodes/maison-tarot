@@ -15,7 +15,7 @@ Un tirage se termine bien quand la personne repart plus légère, sa décision e
 
 ## Laisser la personne parler en premier {#laisser-parler}
 
-À la Maison, la personne ne me dit rien avant un tirage. La fin, c’est le moment où tout s’inverse : la parole est à elle. Quatre questions de clôture fonctionnent bien :
+À la Maison, la personne se tait pendant que je tire. La fin, c’est le moment où tout s’inverse : la parole est à elle. Quatre questions de clôture fonctionnent bien :
 
 1. Qu’est-ce qui a tenu ?
 2. Qu’est-ce qui n’a pas tenu ?

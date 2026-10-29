@@ -1,7 +1,7 @@
 ---
 title: 'Le chiffre 10 au tarot : signification, cartes et conseil (numérologie du
   tarot)'
-description: "Liberté, changement, voyage, respirer. Le 10 — ou le 0 — est la transition : ce qui était finit, ce qui vient n’a pas encore de nom."
+description: "Liberté, changement, voyage, respirer : le 10 — ou le 0 — est le seuil où un cycle se ferme avant que le suivant ait un visage."
 translationKey: num-10
 type: library
 navTitle: Le chiffre 10
@@ -60,7 +60,7 @@ gallery:
 ---
 ## Ce que dit le 10 {#definition}
 
-**Le 10, c’est transition.** Liberté, changement, voyage, respirer. Le 10 — ou le 0 — est la transition : ce qui était finit, ce qui vient n’a pas encore de nom. Il clôt ce que le 9 terminait, et rouvre sur le 1 : [les dix étapes](/fr/bibliotheque/numerologie/) recommencent.
+**Le 10, c’est transition.** Liberté, changement, voyage, respirer. Le 10 — ou le 0 — est la transition : l’ancien s’achève, et le suivant reste encore sans nom. Il clôt ce que le 9 terminait, et rouvre sur le 1 : [les dix étapes](/fr/bibliotheque/numerologie/) recommencent.
 
 ## Le conseil du 10 {#conseil}
 

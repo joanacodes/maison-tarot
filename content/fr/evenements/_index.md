@@ -10,4 +10,4 @@ navTitle: "Événements"
 ---
 Trois formats reviennent. Les **lectures gratuites en ligne** : une soirée, quelques personnes tirées au sort, une lecture chacune, devant les autres, sans rien savoir d’elles. Les **rencontres en personne** : à Paris, et là où la Maison fait étape, pour lire à plusieurs, confronter les lectures et en parler. Les **webinaires** : une heure sur une clé de lecture, ouverte à tous, avec questions.
 
-Aucun n’est une consultation. Tous sont proposés à des fins de divertissement, et vous restez la personne qui décide.
+Aucun n’est une consultation. Tous relèvent du divertissement, et c’est vous qui tranchez, toujours.

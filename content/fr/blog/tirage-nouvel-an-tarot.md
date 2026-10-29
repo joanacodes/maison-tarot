@@ -55,7 +55,7 @@ Imaginons que janvier, février et mars donnent l’As de Bâtons, le Sept de Co
 
 {{< cards "waac cu07 pe08" >}}
 
-Janvier, c’est l’As de Bâtons : une main sortie d’un nuage tend un bâton qui bourgeonne déjà. Le 1, c’est l’initiateur, le diamant brut ; le Feu, c’est l’élan. Lancez quelque chose — avec l’humilité d’un débutant. Février, c’est le Sept de Coupes : sept coupes dans les nuages, chacune avec son rêve. Trop de choix, et le 7 demande de la patience, de l’analyse avant l’action. Mars, c’est le Huit de Pentacles : un artisan à son établi, qui grave la même pièce encore et encore. La maîtrise, et l’effort qu’elle coûte.
+Janvier, c’est l’As de Bâtons : un bâton déjà en bourgeons, tendu par une main qui surgit des nuages. Le 1, c’est l’initiateur, le diamant brut ; le Feu, c’est l’élan. Lancez quelque chose — avec l’humilité d’un débutant. Février, c’est le Sept de Coupes : sept coupes dans les nuages, chacune avec son rêve. Trop de choix, et le 7 demande de la patience, de l’analyse avant l’action. Mars, c’est le Huit de Pentacles : un artisan à son établi, qui grave la même pièce encore et encore. La maîtrise, et l’effort qu’elle coûte.
 
 En trimestre, ça donne : une étincelle en janvier, un février plein d’options qui ont toutes l’air bonnes, et un mois de mars où vous en choisissez une et vous vous y mettez. Dans le carnet : « Janvier : qu’est-ce que je commence ? Février : quelle option je choisis ? Mars : qu’est-ce que je travaille ? »
 

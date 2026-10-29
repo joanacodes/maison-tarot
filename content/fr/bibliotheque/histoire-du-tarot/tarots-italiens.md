@@ -43,7 +43,7 @@ Le jeu Visconti-Sforza est le plus complet de tous, et on le rattache à Frances
 
 La Morgan catalogue deux de ses atouts sous les noms de *Love* et *Time*, l’Amour et le Temps ; vous les connaissez comme les Amoureux et l’Ermite. Les figures sont là ; les sens ne sont pas encore fixés.
 
-Cette année, la Morgan a consacré la première moitié de son exposition *Tarot! Renaissance Symbols, Modern Visions*, close le 4 octobre 2026, à ces trois jeux milanais.
+Cette année, ces trois jeux milanais ont rempli la première moitié de *Tarot! Renaissance Symbols, Modern Visions*, l’exposition de la Morgan, close le 4 octobre 2026.
 
 ## Tous les « tarocchi » ne sont pas des tarots {#mantegna}
 

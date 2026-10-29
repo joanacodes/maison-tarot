@@ -49,7 +49,7 @@ Ce qui manque : le contact — leurs mains ne se touchent pas. Pas d’alliance,
 
 ## Par le nombre : 6 {#nombre}
 
-Le [chiffre 6](/fr/bibliotheque/numerologie/chiffre-6/), c’est le 3 exalté : la machine est lancée et elle va vite, l’harmonie revient après l’épreuve du 5. Sur cette carte, le 6, c’est l’échange entre deux personnes — et le choix qu’il implique, parce que s’accorder avec quelqu’un, c’est lui dire oui et dire non à autre chose.
+Avec le [chiffre 6](/fr/bibliotheque/numerologie/chiffre-6/), le 3 monte d’un cran : la machine est lancée et elle va vite, l’harmonie revient après l’épreuve du 5. Sur cette carte, le 6, c’est l’échange entre deux personnes — et le choix qu’il implique, parce que s’accorder avec quelqu’un, c’est lui dire oui et dire non à autre chose.
 
 Quand Facebook décide d’investir dans Instagram, au 6, la menace du 5 devient le moteur, tout s’accélère, et les petites lignes ne retiennent plus l’attention. Le 6 demande de ne pas s’emballer ni se croire arrivé quand tout sourit ; une union heureuse mérite quand même qu’on en lise les termes.
 
@@ -61,7 +61,7 @@ La carte est donc un choix plus qu’une romance : deux personnes qui parlent, q
 
 ## Par les couleurs {#couleurs}
 
-Le rouge et le jaune dominent le haut de la carte. Dans [ma grille des couleurs](/fr/bibliotheque/couleurs-tarot/rouge/), le rouge, c’est la passion, l’action, l’élan ; sur les ailes de l’ange et dans les flammes de l’arbre de l’homme, c’est une énergie qui pousse. Le jaune du soleil : la joie, la volonté, un choix fait en plein jour.
+Le rouge et le jaune dominent le haut de la carte. Le [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) — passion, action, élan — habille les ailes de l’ange et les flammes de l’arbre de l’homme : une énergie qui pousse. Le jaune du soleil : la joie, la volonté, un choix fait en plein jour.
 
 ## Par l’astrologie : Gémeaux {#astrologie}
 
@@ -71,7 +71,7 @@ Les Amoureux répondent aux [Gémeaux](/fr/bibliotheque/astrologie/gemeaux/) dan
 
 À l’endroit, les Amoureux disent : un choix, fait avec quelqu’un ou à propos de quelque chose qu’on aime. Parfois c’est une relation ; souvent c’est un carrefour — deux chemins, deux offres, deux versions de sa vie — et la carte demande de choisir les yeux ouverts. En amour, c’est [un choix plus qu’une romance](/fr/blog/les-amoureux-tarot-amour/) ; au travail, c’est choisir sa voie, ce que je développe un peu plus loin.
 
-On espère souvent que cette carte dira si quelqu’un nous aime, et je comprends l’envie. Mais je lis la personne en face de moi, pas quelqu’un qui n’est pas dans la pièce : les Amoureux parlent donc de votre choix, pas des sentiments de l’autre ([tirer les cartes sur quelqu’un d’autre, et pourquoi je m’en abstiens](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/)).
+On espère souvent que cette carte dira si quelqu’un nous aime, et je comprends l’envie. Mais je ne lis que la personne assise devant moi, jamais un absent : les Amoureux parlent donc de votre choix, pas des sentiments de l’autre ([tirer les cartes sur quelqu’un d’autre, et pourquoi je m’en abstiens](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/)).
 
 Renversés, le choix est repoussé ou fait pour de mauvaises raisons. Soit la personne reste au carrefour, incapable de renoncer à quoi que ce soit, soit l’échange se brise — deux personnes qui parlent sans s’entendre, chacune sûre d’avoir été claire.
 

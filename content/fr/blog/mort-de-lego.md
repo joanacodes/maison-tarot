@@ -47,7 +47,7 @@ Imaginez quelqu’un qui bouleverse toute sa semaine pour aider une amie à dém
 
 ## Quand quelqu’un dit l’avoir vécue {#la-revendiquer}
 
-Méfiez-vous d’une chose, avec bienveillance : l’ego qui revendique sa propre mort. La personne qui a « dépassé l’ego » et se sent désormais au-dessus de tous ceux qui ne l’ont pas fait. Celle qui croit sauver le monde, ou appartenir à un petit groupe doté de capacités que les autres n’ont pas.
+Méfiez-vous d’une chose, avec bienveillance : l’ego qui revendique sa propre mort. La personne qui a « dépassé l’ego » et se sent désormais au-dessus de tous ceux qui ne l’ont pas fait. Celle qui croit sauver le monde, ou se compte parmi les rares à percevoir ce qui échappe aux autres.
 
 C’est très humain. Après une expérience immense, on voudrait tous qu’elle nous ait rendus spéciaux. Mais « j’ai tué mon ego », porté comme une médaille, c’est l’ego qui a changé de costume. C’est une des raisons pour lesquelles [je me tiens un peu à l’écart des milieux « spirituels »](/fr/blog/spirituelle-mais-pas-dans-les-cercles/).
 

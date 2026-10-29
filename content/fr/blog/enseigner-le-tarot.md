@@ -29,7 +29,7 @@ Puis laissez parler, sans corriger. Imaginons qu’on regarde le Trois de Coupes
 
 C’est ainsi que commencent mes [ateliers : une carte dans les dix premières minutes](/fr/blog/premieres-minutes-atelier-tarot/), l’explication après. Ceux qui apprennent la signification d’abord ont tendance à la réciter, comme une poésie apprise par cœur à l’école. Ceux qui regardent d’abord ont tendance à lire.
 
-Ensuite, avancez par étapes : une carte par jour pendant un moment, puis trois cartes, puis davantage. Dites tôt que deux élèves devant la même image n’y liront pas forcément la même chose, et que le même élève peut la lire autrement le lendemain. Ça évite bien des inquiétudes sur la « bonne » réponse.
+Ensuite, avancez par paliers : d’abord la carte quotidienne, jusqu’à ce qu’elle devienne familière, ensuite des tirages de trois, et seulement après des tirages plus longs. Dites tôt que deux élèves devant la même image n’y liront pas forcément la même chose, et que le même élève peut la lire autrement le lendemain. Ça évite bien des inquiétudes sur la « bonne » réponse.
 
 ## Des clés de lecture plutôt que 78 significations {#cles-de-lecture}
 
@@ -51,7 +51,7 @@ Ce qui aide :
 4. Changez la personne lue. Certains lisent plus librement un inconnu que leur propre sœur.
 5. Arrêtez pour aujourd’hui. C’est souvent le deuxième ou le troisième essai qui est le bon.
 
-Quoi qu’il arrive, ne dites à personne qu’il a un don, ni qu’il n’en a pas : la lecture s’apprend, pour tous. C’est comme le dessin : certains ont du talent, et quiconque pratique y arrive. J’explique pourquoi [il ne faut pas de don pour lire les cartes](/fr/blog/faut-il-un-don-pour-lire-les-cartes/).
+Quoi qu’il arrive, ne dites à personne qu’il a un don, ni qu’il n’en a pas : la lecture s’apprend, pour tous. C’est comme le dessin : certains ont du talent, et quiconque pratique y arrive. J’explique ailleurs [pourquoi l’idée du « don » ne tient pas](/fr/blog/faut-il-un-don-pour-lire-les-cartes/).
 
 ## Les règles à enseigner dès le premier jour {#regles}
 
@@ -61,11 +61,11 @@ Enseignez-les avant que la pratique ne devienne une habitude, parce qu’elles s
 - La personne ne dit rien avant. [La règle du silence](/fr/blog/regle-du-silence-tarot/) est ce qui permet à un débutant de se vérifier après coup.
 - Noter ce qu’on a dit et ce qui a été confirmé.
 - Dire un raté à voix haute, sans tirer de deuxième carte pour le rattraper.
-- Certains sujets ne sont pas pour les cartes : un diagnostic, un décès, une grossesse, une affaire en justice, une décision financière. Apprenez à proposer une question plus douce à la place.
+- Certains sujets ne sont pas pour les cartes : un diagnostic, un décès, une grossesse, une affaire en justice, une décision financière. Apprenez à proposer, à la place, une question que les cartes peuvent porter sans faire de mal.
 - Le tarot ne remplace jamais une thérapie, et il ne doit pas devenir une habitude qu’on ne peut plus lâcher, ni pour qui lit ni pour qui est lu.
 
 ## Et ensuite {#prochaine-etape}
 
 Si vous initiez une amie ce week-end, commencez par une carte et les trois questions ci-dessus, et laissez-vous trois essais avant de conclure quoi que ce soit. Quand vos élèves auront besoin de personnes sur qui s’exercer, vous pouvez [organiser ensemble une soirée de tirages gratuits en ligne](/fr/blog/soiree-tirage-gratuit/).
 
-Et si vous voulez voir comment j’enseigne de l’intérieur : chaque [atelier](/fr/ateliers/) se consacre à une seule clé de lecture, sur trois heures et à douze au plus, et les [sessions](/fr/sessions/) durent soixante minutes en tête-à-tête, en visio.
+Mon enseignement, vu de l’intérieur, tient en deux formats : chaque [atelier](/fr/ateliers/) se consacre à une seule clé de lecture, sur trois heures et à douze au plus, et les [sessions](/fr/sessions/) durent soixante minutes en tête-à-tête, en visio.

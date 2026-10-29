@@ -15,11 +15,11 @@ Arrêtez-vous, restez là, et laissez la personne pleurer. Les larmes pendant un
 
 ## Pourquoi on pleure pendant un tirage {#pourquoi-on-pleure}
 
-Je connais ça depuis l’autre chaise. Une vidéo « pick a card » de Kloee Taylor m’a fait sangloter — pas les yeux qui piquent : de vrais sanglots. C’était la première fois que quelqu’un mettait des mots sur ma situation, et ce qui m’a fait pleurer, c’est de l’entendre dite à voix haute par quelqu’un d’autre. J’ai raconté [l’histoire de cette vidéo](/fr/blog/tirage-pick-a-card/) en entier.
+Je connais ça depuis l’autre chaise. Kloee Taylor, dans une de ses vidéos « pick a card », m’a fait sangloter — pas les yeux qui piquent : de vrais sanglots. C’était la première fois que quelqu’un mettait des mots sur ma situation, et ce qui m’a fait pleurer, c’est de l’entendre dite à voix haute par quelqu’un d’autre. J’ai raconté [l’histoire de cette vidéo](/fr/blog/tirage-pick-a-card/) en entier.
 
 Si vous lisez pour d’autres assez longtemps, ça arrivera aussi à votre table. On pleure pendant un tirage pour toutes sortes de raisons : le soulagement, le fait de se reconnaître, un chagrin qu’on retient depuis des mois, la fatigue, l’étrangeté d’entendre quelqu’un qu’on ne connaît pas dire quelque chose de vrai. Très peu de ces larmes sont de la tristesse à cause d’une carte.
 
-Imaginons que vous tiriez le Six de Coupes pour quelqu’un : deux enfants, une coupe pleine de fleurs blanches, une vieille cour. Mes notes y lisent le temps pris pour soi, l’enfance, le fait de refleurir. Vous parlez de repos, du droit de ralentir. Rien de triste. Et la personne en face se met à pleurer, parce que personne ne lui a dit ça depuis longtemps.
+Disons que le Six de Coupes sort pour quelqu’un que vous lisez : deux enfants, une coupe pleine de fleurs blanches, une vieille cour. Mes notes y voient une pause qu’on s’accorde, l’enfance retrouvée, un second printemps. Vous parlez de repos, du droit de ralentir. Rien de triste. Et la personne en face se met à pleurer, parce que personne ne lui a dit ça depuis longtemps.
 
 {{< cards "cu06" >}}
 
@@ -54,7 +54,7 @@ Si c’est une carte difficile qui l’a fait pleurer, la façon de mettre les m
 
 Ce qui compte, c’est de garder vos propres émotions tout en ressentant les siennes. C’est ce que veut dire l’empathie pour moi : ressentir et comprendre les émotions de l’autre en gardant les siennes. Les lecteurs très empathiques peuvent finir par ressentir, voire exprimer, l’émotion de la personne en face. Laissez venir une larme si elle vient, mais restez celui ou celle qui tient debout, pour que la personne ne finisse pas par s’occuper de vous.
 
-Après, reposez-vous. Interpréter demande de l’énergie, et un tirage avec des larmes en demande davantage. N’enchaînez pas sur le suivant.
+Ensuite, accordez-vous du repos : lire les cartes fatigue, et une lecture traversée de larmes fatigue plus encore. N’enchaînez pas sur le suivant.
 
 ## Quand c’est la porte de quelqu’un d’autre {#la-porte-du-therapeute}
 

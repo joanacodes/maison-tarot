@@ -11,13 +11,13 @@ short: Montrer ou cacher
 ---
 ## Rien à voir avec les femmes et les hommes {#definition}
 
-Les énergies féminine et masculine ne parlent pas d’être une femme ou un homme. Ce sont des dynamiques, comme le yin et le yang : chacune contient une part de l’autre, elles se valent, et chacune a ses bons côtés et ses côtés moins bons. **Nous portons toutes et tous les deux, dans des proportions différentes — soixante-dix/trente d’un côté, soixante/quarante de l’autre — et le dosage peut bouger.**
+Ici, le sexe de la personne n’entre pas en jeu : féminin et masculin désignent des dynamiques, à la manière du yin et du yang. Chacune abrite un peu de l’autre, aucune ne vaut plus que sa voisine, et toutes deux ont leurs forces et leurs travers. **Nous portons toutes et tous les deux, dans des proportions différentes — soixante-dix/trente d’un côté, soixante/quarante de l’autre — et le dosage peut bouger.**
 
 ## Deux façons d’être au monde {#deux-facons}
 
 L’énergie féminine, c’est réfléchir, la patience, l’imagination, l’art, l’intangible. Elle se cache, elle agit en coulisses, elle est douce — et quand elle devient violente, sa violence est psychologique. Dans la conversation, elle prend des détours et des métaphores pour aborder un sujet délicat : excellente pour négocier et planifier, elle peut se figer quand il faut décider vite.
 
-L’énergie masculine, c’est agir, l’impatience, la science, le tangible, construire. Elle se montre, elle est sur scène — et quand elle devient violente, sa violence est physique, son revers la brutalité. Dans la conversation, elle va droit au but et peut braquer l’autre, mais elle tranche vite : précieuse sur le champ de bataille, pour exécuter le plan.
+L’énergie masculine, c’est agir, l’impatience, la science, le tangible, construire. Elle se montre, elle est sur scène — et quand elle devient violente, sa violence est physique, son revers la brutalité. Dans la conversation, elle va droit au but et peut braquer l’autre, mais elle tranche vite : c’est elle qu’on veut au front, quand le plan doit être mené à bien.
 
 ## Pourquoi la frontière n’est jamais nette {#frontiere}
 

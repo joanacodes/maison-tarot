@@ -9,9 +9,9 @@ tags: ["la Roue de Fortune tarot amour", "la Roue de Fortune signification", "la
 image: "covers/wheel-of-fortune-tarot-love.jpg"
 imageAlt: "La carte de la Roue de Fortune du tarot Rider-Waite-Smith posée à l’endroit sur une table en bois nu"
 imagePrompt: "The Wheel of Fortune card from the 1909 Rider-Waite-Smith deck lying upright on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, the card in its original colours, warm natural colours around it that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "En amour, la Roue de Fortune est un tournant : une rencontre, une fin, une relation qui passe à une autre étape. On la lit souvent comme une chance qui vous arrive ; ma note sur cette lame dit l’inverse — c’est à vous de faire tourner la roue, et de créer votre propre chance. Le 10 est une transition, le couloir entre deux pièces ; l’élément Feu, l’élan qui met les choses en mouvement. La lame ne dit pas quand votre vie amoureuse va changer, ni si quelque chose est « écrit ». Elle vous demande quelle part vous prenez au tournant."
+summary: "En amour, la Roue de Fortune est un tournant : une rencontre, une fin, une relation qui passe à une autre étape. Beaucoup y voient un coup de chance venu d’ailleurs ; mes notes disent le contraire : la chance se fabrique, et la roue attend votre main. Le 10 est une transition, le couloir entre deux pièces ; l’élément Feu, l’élan qui met les choses en mouvement. La lame ne dit pas quand votre vie amoureuse va changer, ni si quelque chose est « écrit ». Elle vous demande quelle part vous prenez au tournant."
 ---
-En amour, la Roue de Fortune est un tournant : quelque chose change — une rencontre, une fin, une relation qui passe à une autre étape. On la lit souvent comme une chance qui tombe du ciel. Ma note sur cette lame dit l’inverse : c’est à vous de faire tourner la roue.
+En amour, la Roue de Fortune est un tournant : quelque chose change — une rencontre, une fin, une relation qui passe à une autre étape. Beaucoup y voient un cadeau du hasard. Pour moi, c’est l’inverse : la roue ne bouge que si vous la poussez.
 
 {{< cards "ar10" >}}
 
@@ -53,7 +53,7 @@ C’est la question qui vient avec cette lame, et le plus souvent sous la forme 
 
 Je ne lis pas la Roue comme un calendrier, et je ne crois pas que quiconque puisse vous dire ce qui est « écrit ». C’est sur le timing que je me trompe le plus, et j’explique pourquoi dans [ce que le tarot peut dire, ou non, du « quand »](/fr/blog/tarot-quand/). Et je l’ai noté un jour : un futur qui vous plaise se construit les pieds bien posés dans l’instant présent ([ma réponse quand on attend du tarot une prédiction](/fr/blog/le-tarot-predit-il-lavenir/)).
 
-On dit « la roue tourne » pour se consoler. Une question plus douce, et plus active : « Quel tour pourrais-je donner moi-même à la roue ce mois-ci ? » Un endroit inconnu, une conversation repoussée, une habitude que vous aimeriez lâcher.
+On dit « la roue tourne » pour se consoler. Mieux vaut se demander où poser la main : « Quel tour pourrais-je donner moi-même à la roue ce mois-ci ? » Un endroit inconnu, une conversation repoussée, une habitude que vous aimeriez lâcher.
 
 ## Votre part du tournant {#votre-part}
 
@@ -61,4 +61,4 @@ Voilà « votre part », celle du titre. L’un des grands tournants de ma propr
 
 Si la Roue est sortie pour vous cette semaine, notez les trois derniers tournants de votre vie amoureuse et, à côté de chacun, une chose que vous avez faite et qui l’a aidé à tourner : une invitation acceptée, une conversation lancée, une porte enfin refermée. Puis ajoutez le tournant auquel vous résistez en ce moment. Vous trouverez sans doute davantage votre main sur la roue que vous ne le pensiez.
 
-Et si vous voulez voir pourquoi je lis les cartes de cette façon — les clés de lecture d’abord, et un décompte de ce qui tient et de ce qui rate —, [ma méthode est expliquée ici](/fr/methode/).
+Pourquoi je lis les cartes de cette façon, les clés de lecture d’abord et un décompte de ce qui tient et de ce qui rate : [ma méthode le détaille pas à pas](/fr/methode/).

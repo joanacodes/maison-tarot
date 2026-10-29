@@ -17,7 +17,7 @@ Un jeu de cartes n’est pas dangereux. Une lecture peut l’être, dans quelque
 
 Souvent, la question vient d’ailleurs : une famille qui ne voulait pas de cartes à la maison, une religion qui met en garde, un film. Cette peur mérite le respect, et je n’essaie d’en dissuader personne.
 
-Ce que je peux dire, c’est ce que j’ai vu. Une carte reste un dessin : un écran sur lequel on projette, et c’est surtout cette projection qui fait peur. J’ai écrit sur [la question de savoir si le tarot est maléfique](/fr/blog/le-tarot-est-il-malefique/), y compris la seule fois où quelque chose a semblé me suivre jusqu’à la maison. Le danger que j’ai réellement vu, à la table, vient de l’usage qu’on fait d’une lecture. Voici les trois situations.
+Je m’en tiens à ce que j’ai vu. Une carte reste un dessin : un écran sur lequel on projette, et c’est surtout cette projection qui fait peur. J’ai écrit sur [la question de savoir si le tarot est maléfique](/fr/blog/le-tarot-est-il-malefique/), y compris la seule fois où quelque chose a semblé me suivre jusqu’à la maison. Le danger que j’ai réellement vu, à la table, vient de l’usage qu’on fait d’une lecture. Voici les trois situations.
 
 ## 1. Quand quelqu’un est en détresse {#detresse}
 
@@ -39,7 +39,7 @@ Les signes valent la peine d’être connus, pour vous autant que pour les perso
 
 - Depuis le début du mois, la même question est revenue sur la table trois fois ou plus.
 - Vous vous êtes senti plus mal après le dernier tirage, et vous en vouliez un autre quand même.
-- Il y a une décision que vous pourriez prendre aujourd’hui, et vous attendez qu’une carte la prenne à votre place.
+- Une décision est à votre portée dès aujourd’hui, et vous attendez qu’une carte la prenne à votre place.
 - Vous tirez des cartes pour vous-même plusieurs fois par jour, pour vous rassurer.
 
 Quand je vois ça, je propose en général qu’on ne tire pas. Ce n’est pas un jugement : un autre tirage n’offrirait que dix minutes de plus sans décider.
@@ -48,13 +48,13 @@ Ce qui aide : [ranger le jeu dans un tiroir pendant un mois](/fr/blog/pourquoi-a
 
 ## 3. Quand une carte est prise pour une autorité {#autorite}
 
-Imaginons que quelqu’un tire la Tour à propos de son travail et pose sa démission le lendemain matin. Ou tire la Mort à propos d’une relation et y met fin le soir même.
+Le scénario que je redoute : la Tour sort sur une question de travail, et la démission part le lendemain matin. Ou la Mort sort sur une relation, et la rupture tombe le soir même.
 
 {{< cards "ar13 ar16" >}}
 
 La Mort, telle que je la lis, ne désigne aucun décès : elle parle de récolte et de recommencement, d’une existence qui redevient fertile après une période à la dérive. Et la Tour, c’est un changement soudain, pas l’ordre d’en provoquer un. Aucune des deux ne vous dit quoi faire lundi.
 
-Une lecture peut vous montrer une situation sous un angle que vous n’aviez pas essayé ; la décision reste la vôtre, et la responsabilité aussi. Une question plus douce aide ici aussi : au lieu de « Dois-je démissionner ? », essayez « Qu’est-ce que je dois regarder avant de décider ? », puis décidez avec votre propre tête. Si vous remarquez que vous ne pouvez plus agir sans la permission d’une carte, c’est ce muscle-là qu’il faut entraîner, et j’explique comment dans [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
+Une lecture peut vous montrer une situation sous un angle que vous n’aviez pas essayé ; la décision reste la vôtre, et la responsabilité aussi. Reformuler aide ici aussi : au lieu de « Dois-je démissionner ? », essayez « Qu’est-ce que je dois regarder avant de décider ? », puis décidez avec votre propre tête. Si vous remarquez que vous ne pouvez plus agir sans la permission d’une carte, c’est ce muscle-là qu’il faut entraîner, et j’explique comment dans [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
 
 ## Un mot pour celles et ceux qui lisent {#pour-qui-lit}
 

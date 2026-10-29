@@ -45,7 +45,7 @@ Ce que je ne peux pas vous dire, c’est si mes lectures tenaient mieux un soir 
 
 Ce que je peux vous dire, c’est ce qui a changé une lecture, d’après mon expérience. La fatigue : interpréter demande de l’énergie, et passé deux heures de tirages, je préfère parfois poser le jeu, par précaution. La pression : quand je veux trop tomber juste, je ne vois plus rien. Et la personne en face : quelqu’un qui a peur d’entendre quelque chose peut bloquer une lecture aussi sûrement que moi. Ces trois-là, vous pouvez les remarquer et agir dessus ce soir, quoi que fasse la lune.
 
-C’est aussi pour ça que je tiens à [la règle du silence](/fr/blog/regle-du-silence-tarot/) : la personne ne me dit rien avant. Pour tester quoi que ce soit sur les lectures — la lune comprise —, il faut des confirmations qui n’ont pas été nourries par ce que vous saviez déjà.
+C’est aussi pour ça que je tiens à [la règle du silence](/fr/blog/regle-du-silence-tarot/) : je tire sans rien connaître de ce qui amène la personne. Pour tester quoi que ce soit sur les lectures — la lune comprise —, il faut des confirmations qui n’ont pas été nourries par ce que vous saviez déjà.
 
 ## Comment le tester vous-même {#tester}
 

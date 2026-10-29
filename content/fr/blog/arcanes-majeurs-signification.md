@@ -9,7 +9,7 @@ tags: ["arcanes majeurs", "signification des arcanes majeurs", "signification de
 image: "covers/major-arcana.jpg"
 imageAlt: "Vingt-deux cartes de tarot posées face visible en trois rangées sur une table en bois, vues du dessus, un carnet au bord"
 imagePrompt: "Twenty-two tarot cards laid face up in three neat rows on a plain wooden table, seen from directly above, an open notebook and a pencil at the edge. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Les 22 arcanes majeurs vont du Mat (0) au Monde (21) et portent les grands thèmes d’un tirage : un départ, un choix, une fin, un renouveau. Inutile de les apprendre par cœur. Chaque lame contient déjà un nombre (de 11 à 21, on additionne les chiffres : 13 donne 4), un élément, un signe ou une planète et une énergie féminine ou masculine. Une fois réduits, les nombres rangent les 22 en dix familles — le Magicien, la Roue de Fortune et le Soleil sont tous des 1 —, si bien que vous pouvez apprendre deux ou trois lames à la fois. Chaque lame a un plus et un moins, la Mort comprise."
+summary: "Les 22 arcanes majeurs vont du Mat (0) au Monde (21) et portent les grands thèmes d’un tirage : un départ, un choix, une fin, un renouveau. Inutile de les apprendre par cœur. Chaque lame contient déjà un nombre (de 11 à 21, on additionne les chiffres : 13 donne 4), un élément, un signe ou une planète et une énergie féminine ou masculine. Une fois réduits, les nombres rangent les 22 en dix familles — le Magicien, la Roue de Fortune et le Soleil sont tous des 1 —, si bien que vous pouvez apprendre deux ou trois lames à la fois. Aucune n’est entièrement bonne ou mauvaise, pas même la Mort."
 ---
 Les 22 arcanes majeurs sont les grandes scènes du jeu, du Mat qui prend la route (0) au Monde qui danse à la fin (21). Inutile d’apprendre 22 significations par cœur : chaque lame porte déjà un nombre, un élément, un signe ou une planète et une énergie, et avec ces quatre clés de lecture vous pouvez en dire quelque chose de juste avant d’avoir ouvert un livre. Ci-dessous, les 22 tiennent dans un seul tableau, rangées en familles à apprendre deux ou trois à la fois, et chaque lame renvoie à sa propre page, où son dessin est lu en détail.
 
@@ -21,16 +21,16 @@ Leurs numéros racontent une histoire, et il est utile d’en connaître la form
 
 Cet arc permet de garder les 22 lames en tête comme une seule histoire plutôt que comme 22 faits isolés. Un tirage ne les sort jamais dans l’ordre : ne prenez donc pas cet arc pour un calendrier.
 
-**Chaque lame a deux faces, l’une qui porte et l’autre qui pèse, et vos clés de lecture vous les montrent toutes les deux.** Dans mes notes, le Jugement n’est ni bon ni mauvais, et la Mort n’est pas forcément mauvaise non plus : même le dessin le plus sombre a son plus.
+**Chaque lame a deux faces, l’une qui porte et l’autre qui pèse, et vos clés de lecture vous les montrent toutes les deux.** Mes notes placent le Jugement hors du bien et du mal, et ne condamnent pas davantage la Mort : même le dessin le plus sombre a son plus.
 
 ## Les 22 lames par leurs clés de lecture {#cles-de-lecture}
 
 Je lis chaque majeur avec les mêmes clés que le reste du jeu. Les deux premières font l’essentiel du travail.
 
 1. Le nombre. Les lames 0 à 10 se placent directement sur le [cycle des nombres](/fr/bibliotheque/numerologie/), du départ (1) au couloir entre deux pièces (10). De 11 à 21, on additionne les chiffres : 13 donne 1 + 3 = 4, 18 donne 9. La lame joue alors son nombre sur une scène plus grande.
-2. L’élément. Chaque majeur a le Feu, l’Eau, l’Air ou la Terre — les mêmes [quatre éléments](/fr/bibliotheque/quatre-elements/) que les familles des mineurs. Le Feu agit, l’Eau ressent, l’Air pense et tranche, la Terre construit et garde.
-3. L’astrologie. À la fin du XIXe siècle, la Golden Dawn a donné à chaque majeur un signe, une planète ou un élément ; les astrologues modernes ont ajouté plus tard Uranus, Neptune et Pluton. L’[astrologie](/fr/bibliotheque/astrologie/) est une clé en plus, à prendre ou à laisser selon ce qu’elle vous apporte.
-4. L’énergie. [Féminin et masculin](/fr/bibliotheque/energies-feminine-masculine/feminin-masculin/), ici, ne parlent pas des femmes et des hommes. Le féminin garde, attend, imagine, travaille en coulisses ; le masculin agit, se montre, construit, décide vite. Chacun de nous porte les deux.
+2. L’élément. Chaque majeur relève de l’un des [quatre éléments](/fr/bibliotheque/quatre-elements/), ceux-là mêmes qui régissent les quatre familles des mineurs. Le Feu agit, l’Eau ressent, l’Air pense et tranche, la Terre construit et garde.
+3. L’astrologie. À la fin du XIXe siècle, la Golden Dawn a rattaché chaque majeur à une planète, à un signe du zodiaque ou à l’un des éléments ; plus tard, les astrologues modernes y ont ajouté Uranus, Neptune et Pluton. L’[astrologie](/fr/bibliotheque/astrologie/) est une clé en plus, à prendre ou à laisser selon ce qu’elle vous apporte.
+4. L’énergie. [Féminin et masculin](/fr/bibliotheque/energies-feminine-masculine/feminin-masculin/), ici, ne parlent pas des femmes et des hommes. Le féminin patiente, garde et invente à l’abri des regards ; le masculin passe à l’acte, s’expose, bâtit et tranche sans traîner. Chacun de nous porte les deux.
 
 Ensuite, regardez le dessin. Pamela Colman Smith a donné une scène à chaque lame en 1909, et la page de chaque lame la lit avec vous.
 
@@ -61,7 +61,7 @@ Ensuite, regardez le dessin. Pamela Colman Smith a donné une scène à chaque l
 
 Ces correspondances sont un système construit au fil du temps, pas des vérités gravées dans les cartes. Ce sont des poignées : servez-vous de celles qui vous aident à voir.
 
-Je lis le Rider-Waite-Smith. Si vous venez du tarot de Marseille, sept noms changent : le Bateleur devient le Magicien, la Papesse la Grande Prêtresse, le Pape le Hiérophante, l’Amoureux les Amoureux, l’Hermite l’Ermite, la Maison Dieu la Tour, et la lame XIII, l’arcane sans nom, s’appelle ici la Mort.
+Je lis le Rider-Waite-Smith. Si vous venez du tarot de Marseille, sept noms changent. Votre Bateleur s’appelle ici le Magicien et votre Papesse la Grande Prêtresse ; le Pape devient le Hiérophante, l’Amoureux passe au pluriel, l’Hermite perd son h, la Maison Dieu se nomme la Tour, et la lame XIII, l’arcane sans nom, reçoit celui de la Mort.
 
 Imaginons que vous tiriez Tempérance sans rien savoir d’elle. Quatorze donne 1 + 4 = 5 : l’épreuve, faire avec ce qui reste. Le Feu : l’énergie, l’élan. Le Sagittaire : « je vois, j’essaie ». Le féminin : la patience, savoir tenir. Mis bout à bout : « Quelque chose vous met à l’épreuve, et la sortie passe par la patience avec votre propre feu — essayer, ajuster, essayer encore. » Puis regardez le dessin, un ange qui verse d’une coupe dans l’autre, et voyez s’il est d’accord.
 
@@ -91,7 +91,7 @@ Quatre, c’est la structure, la maison debout, le fruit du travail. L’Empereu
 
 ### 5 : le Hiérophante et Tempérance {#les-cinq}
 
-Cinq, c’est l’épreuve : essayer, faire avec, ne pas avoir peur d’échouer. Chez le Hiérophante, c’est la règle qui est mise à l’épreuve — la suivre, la questionner, la dépasser. Tempérance traite l’épreuve par le dosage : elle verse jusqu’à trouver la juste mesure, et met de l’eau dans son vin au sens propre. Le conseil du 5 : évitez les combats inutiles, et soyez honnête avec vous-même.
+Cinq, c’est l’épreuve : essayer, faire avec, ne pas avoir peur d’échouer. Chez le Hiérophante, c’est la règle qui est mise à l’épreuve — la suivre, la questionner, la dépasser. Tempérance traite l’épreuve par le dosage : elle transvase jusqu’à tomber sur la bonne proportion. Le conseil du 5 : évitez les combats inutiles, et soyez honnête avec vous-même.
 
 ### 6 : les Amoureux et le Diable {#les-six}
 

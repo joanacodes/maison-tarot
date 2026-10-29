@@ -27,7 +27,7 @@ Des lectures qui parlent fort. Chaque majeur décrit quelque chose qui prend des
 
 Des réponses brèves et marquantes. Trois majeurs font une phrase qu’on retient — pratique quand quelqu’un n’a que cinq minutes, ou quand on veut une lecture dont on se souviendra encore dans un an.
 
-Et les clés de lecture fonctionnent toujours. Chaque majeur a un nombre (on réduit ceux qui dépassent 10 : la Tour — la Maison Dieu au tarot de Marseille —, numéro 16, joue un 7), un élément, des couleurs et une correspondance astrologique. [Les 22 majeurs sur une seule page](/fr/blog/arcanes-majeurs-signification/) les présente tous.
+Et les clés de lecture fonctionnent toujours. Chaque majeur a un nombre (on réduit ceux qui dépassent 10 : le 16 de la Tour, lame que le jeu de Marseille appelle Maison Dieu, joue un 7), un élément, des couleurs et une correspondance astrologique. [Les 22 majeurs sur une seule page](/fr/blog/arcanes-majeurs-signification/) les présente tous.
 
 ## Ce qu’on y perd {#ce-qu-on-perd}
 
@@ -47,7 +47,7 @@ Imaginons quelqu’un qui ne vous dit rien et tire trois majeurs : l’Ermite, l
 
 {{< cards "ar09 ar10 ar17" >}}
 
-L’Ermite, un 9 en Terre : une silhouette grise, seule sur un sommet, une lanterne à la main — la fin d’un cycle, l’introspection. La Roue de Fortune, un 10 en Feu : une grande roue qui tourne, et aucune main dessus. Dans mes notes, c’est à vous de tourner la roue ; votre chance, vous la fabriquez. L’Étoile, 17 réduit à 8, en Air : une femme qui verse de l’eau sous un ciel dégagé, qui donne sans compter après une période difficile.
+L’Ermite, un 9 en Terre : une silhouette grise, seule sur un sommet, une lanterne à la main — la fin d’un cycle, l’introspection. La Roue de Fortune, un 10 en Feu : une grande roue qui tourne, et aucune main dessus. Dans mes notes, cette main manquante, c’est la vôtre : la chance ne tombe pas toute seule, on la pousse. L’Étoile, 17 réduit à 8, en Air : une femme qui verse de l’eau sous un ciel dégagé, qui donne sans compter après une période difficile.
 
 En une phrase : « Vous êtes resté en retrait un bon moment, à terminer quelque chose seul. Un tournant arrive, et personne ne le prendra à votre place. Après, quelque chose qui ressemble à de l’espoir. »
 

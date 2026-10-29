@@ -63,7 +63,7 @@ gallery:
 
 ## Le conseil du 8 {#conseil}
 
-La maîtrise se prouve par le geste répété, pas par le titre. Le 8 conseille de continuer à travailler comme si rien n’était acquis — parce que c’est ainsi que ça l’est resté.
+La maîtrise se prouve par le geste répété, pas par le titre. Le 8 conseille de rester au travail comme au premier jour, sans rien tenir pour gagné — c’est même ce qui permet de le garder.
 
 ## Un exemple que tout le monde connaît {#exemple}
 

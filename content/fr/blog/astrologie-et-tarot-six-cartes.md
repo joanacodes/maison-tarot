@@ -17,7 +17,7 @@ Douze arcanes majeurs portent un signe du zodiaque. Sur la plupart, le signe ré
 
 Ces associations viennent de la Golden Dawn, l’ordre de la fin du XIXe siècle auquel appartenaient Arthur Edward Waite et Pamela Colman Smith. Chaque signe va à un arcane majeur, et il apporte trois choses d’un coup.
 
-Un verbe, tiré de mes notes : Gémeaux « je pense », Vierge « j’analyse », Capricorne « j’utilise ». Un élément : Feu, Eau, Air ou Terre. Et un mode : les signes cardinaux lancent, les signes fixes tiennent, les signes mutables s’adaptent.
+Un verbe, tiré de mes notes : Gémeaux « je pense », Vierge « j’analyse », Capricorne « j’utilise ». Un élément : Feu, Eau, Air ou Terre. Et un mode, qui dit comment le signe se met en mouvement : il démarre s’il est cardinal, il dure s’il est fixe, il se plie aux circonstances s’il est mutable.
 
 Les mineurs du Deux au Dix portent eux aussi une planète dans un signe. Cette couche plus fine, celle des [décans](/fr/blog/decans-tarot/), se traite à part. Ici, je reste sur les majeurs.
 
@@ -46,7 +46,7 @@ Un vieil homme seul sur un sommet enneigé, une lanterne à la main. Sans le sig
 
 ### Tempérance {#temperance}
 
-Un ange verse de l’eau d’une coupe dans l’autre, un pied dans un bassin. Tout, dans l’image, dit l’Eau et la patience. Son signe, le Sagittaire, est un signe de Feu : « je vois, j’essaie », le voyageur qui part chercher du savoir, puis le mélange pour voir ce que ça donne. **Tempérance est pleine d’eau et porte un signe de Feu, et c’est dans cet écart que la lecture change.** Elle devient une expérience plus qu’une pause : on essaie le mélange, on ajuste, on recommence. La [page de Tempérance](/fr/bibliotheque/cartes-tarot/temperance/) détaille tout le dessin.
+Un ange fait couler l’eau entre ses deux coupes, un pied trempé dans l’étang. Tout, dans l’image, dit l’Eau et la patience. Son signe, le Sagittaire, est un signe de Feu : « je vois, j’essaie », le voyageur qui part chercher du savoir, puis le mélange pour voir ce que ça donne. **Tempérance est pleine d’eau et porte un signe de Feu, et c’est dans cet écart que la lecture change.** Elle devient une expérience plus qu’une pause : on essaie le mélange, on ajuste, on recommence. La [page de Tempérance](/fr/bibliotheque/cartes-tarot/temperance/) détaille tout le dessin.
 
 ## Deux signes fixes : la Mort et l’Étoile {#fixes}
 
@@ -62,9 +62,9 @@ Une femme à genoux vide deux cruches à la fois sous une grande étoile : un fi
 
 ## Un signe cardinal : le Diable {#cardinal}
 
-Les signes cardinaux lancent les choses, et le Capricorne les lance avec pragmatisme.
+Cardinal, le Capricorne fait partie des signes qui démarrent les choses, et il les démarre avec pragmatisme.
 
-Le dessin : une figure cornue sur un piédestal, un homme et une femme enchaînés à elle, les chaînes assez lâches pour qu’on les retire. Sans le signe, on file droit vers la tentation et le mal. Le Capricorne, c’est la Terre et « j’utilise » : l’ambition, la structure, le travail. **Avec le Capricorne, le Diable parle rarement du mal, et souvent d’une chose utile qui a pris le pouvoir.** Un travail qui était un outil et qui est devenu le maître. Un salaire autour duquel on organise tout.
+Le dessin : une figure cornue sur un piédestal, un homme et une femme enchaînés à elle, les chaînes assez lâches pour qu’on les retire. Sans le signe, on file droit vers la tentation et le mal. Le Capricorne, c’est la Terre et « j’utilise » : l’ambition, le travail, les cadres qu’on se donne. **Avec le Capricorne, le Diable parle moins du mal que d’un moyen qui s’est pris pour une fin.** Un travail qui était un outil et qui est devenu le maître. Un salaire autour duquel on organise tout.
 
 Parmi les archétypes du Capricorne dans mes notes, il y a Miranda Priestly, et le film s’appelle *Le Diable s’habille en Prada*. Je n’aurais pas pu mieux tomber. Disons que quelqu’un tire le Diable à propos de sa carrière : avec le signe, je poserais cette question : qu’est-ce que vous utilisez qui a fini par vous utiliser ? La [page du Diable](/fr/bibliotheque/cartes-tarot/le-diable/) va plus loin.
 

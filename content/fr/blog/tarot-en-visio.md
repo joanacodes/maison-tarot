@@ -55,6 +55,6 @@ Une partie de mes lectures s’est faite devant d’autres personnes : en appels
 4. Gardez un visage neutre si vous pouvez ; réagissez à la fin.
 5. Notez ce qui a été dit. Les confirmations arrivent parfois des jours plus tard.
 
-Mes [sessions](/fr/sessions/) individuelles se font en visio, une heure. Ce sont des cours plutôt que des lectures : vous lisez la carte d’abord, je lis après vous, et on compare. Si vous voulez savoir ce qu’un écran fait à une lecture, c’est une bonne façon de le découvrir des deux côtés.
+Mes [sessions](/fr/sessions/) individuelles se font en visio, une heure. Ce sont des cours plutôt que des lectures : vous ouvrez la lecture de la carte, je donne la mienne ensuite, et nous confrontons les deux. Pour savoir ce qu’un écran fait à une lecture, c’est une bonne façon de le découvrir des deux côtés.
 
 Et si vous apprenez et cherchez des gens sur qui vous entraîner, c’est en ligne que j’ai trouvé les miens, grâce à un groupe Discord, des groupes Facebook et une application de correspondance. J’ai rassemblé [mes pistes pour dénicher des gens à lire](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/), des personnes ravies de ne rien vous dire.

@@ -15,7 +15,7 @@ Le Rider-Waite-Smith est le tarot de 78 cartes publié à Londres en décembre 1
 
 ## Ce qu’est le jeu Rider-Waite-Smith {#ce-que-cest}
 
-C’est un tarot de 78 cartes : 22 arcanes majeurs numérotés de 0 à 21, et 56 arcanes mineurs en quatre familles — Bâtons, Coupes, Épées et Pentacles — qui vont chacune de l’As au Dix, plus un Valet, un Cavalier, une Reine et un Roi.
+C’est un tarot de 78 cartes, dont 22 arcanes majeurs numérotés de 0 à 21. Les 56 arcanes mineurs se partagent entre Bâtons, Coupes, Épées et Pentacles. Dans chaque famille, les cartes vont de l’As au Dix, suivies de quatre figures, les mêmes partout : Roi, Reine, Cavalier, Valet.
 
 Deux personnes l’ont fait. [Arthur Edward Waite](/fr/bibliotheque/figures-du-tarot/arthur-edward-waite/), auteur d’ouvrages sur la mystique installé à Londres, a choisi la symbolique et écrit le livre qui l’accompagne, *The Pictorial Key to the Tarot* (1910). [Pamela Colman Smith](/fr/bibliotheque/figures-du-tarot/pamela-colman-smith/), illustratrice et décoratrice de théâtre, a dessiné les 78 cartes en 1909. Tous deux étaient passés par l’Ordre hermétique de la Golden Dawn, une société occultiste fondée à Londres en 1888, dont le système de correspondances traverse tout le jeu. C’est pour cela que Waite a interverti deux lames : la Force devient VIII et la Justice XI, l’inverse de l’ordre du tarot de Marseille. [La Golden Dawn et son tarot](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/) explique d’où ça vient.
 
@@ -37,7 +37,7 @@ Dans les jeux qu’on utilisait avant, à commencer par le tarot de Marseille qu
 
 {{< cards "sw03 cu05 pe08" >}}
 
-Elle avait un modèle. Le Sola Busca, un jeu italien de la fin du XVe siècle, illustrait déjà ses mineures, et elle en a très probablement vu des photographies à Londres. Mais c’est son jeu à elle qui a fait des mineures illustrées la norme.
+Elle avait un modèle. Le Sola Busca, un jeu né en Italie dans les dernières années du XVe siècle, illustrait déjà ses mineures, et elle en a très probablement vu des photographies à Londres. Mais c’est son jeu à elle qui a fait des mineures illustrées la norme.
 
 ### Une édition bon marché aux États-Unis
 

@@ -47,13 +47,13 @@ gallery:
 ---
 ## Ce que dit l’eau {#definition}
 
-L’eau coule, remplit, reflète et prend la forme de son récipient. Dans mes notes, ce sont les émotions, les relations, les forces cachées : elle vous porte de A à B quand vous la laissez faire, et elle peut vous noyer. L’eau liquide finit aussi par s’infiltrer partout — une émotion négligée peut abîmer les fondations, comme l’humidité qui ronge lentement une maison. **L’eau sur une carte, c’est un sentiment, et le dessin vous dit s’il bouge ou s’il dort.**
+L’eau coule, remplit, reflète et prend la forme de son récipient. Dans mes notes, l’eau dit ce qu’on ressent, ce qui nous relie, ce qui agit sans se montrer. Elle vous mène de A à B si vous la laissez faire ; elle peut aussi vous engloutir. L’eau liquide finit aussi par s’infiltrer partout — une émotion négligée peut abîmer les fondations, comme l’humidité qui ronge lentement une maison. **L’eau sur une carte, c’est un sentiment, et le dessin vous dit s’il bouge ou s’il dort.**
 
 {{< zoom "water" "lead" >}}
 
 Dans la vie courante, c’est le verre d’eau qu’on vous sert quand vous arrivez bouleversé. Personne n’a rien réglé. Mais on s’occupe de quelque chose.
 
-## Où elle apparaît dans le jeu {#ou}
+## Coupes, cruches, bassins et une cascade {#ou}
 
 Cette page suit l’eau à portée de main. [La rivière](/fr/bibliotheque/symboles-tarot/riviere/) et [la mer](/fr/bibliotheque/symboles-tarot/mer/) ont chacune leur page.
 

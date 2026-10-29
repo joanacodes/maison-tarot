@@ -25,7 +25,7 @@ Prenons une tarologue qui reçoit une amie venue parler d’une rupture douloure
 
 Pas au sens où un tirage serait dangereux sans. Beaucoup de tarologues ne seraient pas d’accord avec moi, et c’est leur droit. Je respecte tous ceux que leur rituel aide à se sentir stables. Un geste qui dit à votre corps « maintenant je lis », puis « maintenant j’ai fini », fait quelque chose de réel.
 
-Mon chemin est allé dans l’autre sens : j’ai vendu de la sauge et des bougies à une époque, et j’explique ailleurs [pourquoi j’ai arrêté](/fr/blog/purifier-son-jeu-de-tarot/).
+Mon chemin est allé dans l’autre sens : il fut un temps où je vendais moi-même sauge et bougies, et j’explique ailleurs [pourquoi j’ai arrêté](/fr/blog/purifier-son-jeu-de-tarot/).
 
 **La protection sur laquelle je compte n’est pas un objet : c’est savoir ce qui est à moi.**
 
@@ -57,9 +57,9 @@ C’est la partie qui vous protège tous les deux. Si la peur de quelqu’un mon
 
 Rester calme, c’est aussi être plus doux. Quand vous tressaillez devant une carte, la personne lit votre visage avant d’entendre vos mots. Quand vous restez stable, elle peut entendre une carte difficile sans y entendre une catastrophe.
 
-La protection marche aussi dans l’autre sens. Demandez la permission avant de lire qui que ce soit : lire quelqu’un qui n’a pas dit oui, c’est entrer dans sa chambre et ouvrir ses tiroirs. Les bases sont dans [tirer les cartes pour quelqu’un d’autre](/fr/blog/tirer-les-cartes-pour-quelquun/).
+La protection marche aussi dans l’autre sens. Demandez la permission avant de lire qui que ce soit : lire quelqu’un qui n’a pas dit oui, c’est entrer dans sa chambre et ouvrir ses tiroirs. Les bases sont dans [ce qu’il faut savoir avant de lire pour un ami, ou pour un inconnu](/fr/blog/tirer-les-cartes-pour-quelquun/).
 
-Et si ce qui vous inquiète, ce sont les esprits plutôt que les émotions : l’essentiel de ce qu’on ressent pendant un tirage est humain, et vient de la personne assise en face. Tirer les cartes ne demande d’appeler personne, et je ne m’en sers pas ainsi, en partie parce qu’avec les esprits, on ne sait pas qui l’on appelle.
+Et si ce qui vous inquiète, ce sont les esprits plutôt que les émotions : l’essentiel de ce qu’on ressent pendant un tirage est humain, et vient de la personne assise en face. Tirer les cartes ne demande d’appeler personne, et je ne m’en sers pas ainsi, en partie parce que, du côté des esprits, impossible de savoir qui répondrait.
 
 ## À essayer lors de votre prochain tirage {#prochaine-etape}
 

@@ -35,7 +35,7 @@ Sur l’Arbre, Keter porte le numéro 1, au sommet de la colonne du milieu. Avec
 
 ## Les quatre As {#cartes}
 
-Le lien entre l’Arbre et les cartes est venu tard. Des savants chrétiens ont emprunté l’Arbre, des occultistes du XIXe siècle — en France, notamment Éliphas Lévi — l’ont rapproché du tarot, et l’Ordre hermétique de la Golden Dawn, fondé à Londres en 1888, y a donné une place à chaque carte, chaque planète et chaque élément. [Le tarot de la Golden Dawn](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/) a sa propre page.
+Le lien entre l’Arbre et les cartes est venu tard. Des savants chrétiens ont emprunté l’Arbre, des occultistes du XIXe siècle — en France, notamment Éliphas Lévi — l’ont rapproché du tarot, et l’Ordre hermétique de la Golden Dawn, fondé à Londres en 1888, y a donné une place à chaque carte, chaque planète et chaque élément. Comment cet ordre a distribué les cartes sur l’Arbre, c’est tout le sujet de [la page sur le tarot de la Golden Dawn](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/).
 
 Son manuscrit sur le tarot, le Livre T, range les cartes numérotées par nombre : chaque sephirah reçoit les quatre cartes de son nombre, une par série. Keter — que certaines sources juives ne comptent même pas — reçoit les As.
 

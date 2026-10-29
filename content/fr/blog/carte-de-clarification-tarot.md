@@ -29,7 +29,7 @@ Beaucoup de tarologues utilisent des cartes de clarification, et certains avec s
 
 *C’est une nouvelle carte, pas une carte plus claire.* Le Cavalier de Bâtons n’a pas expliqué le Quatre de Coupes. Il a ajouté un cavalier, un cheval et une direction que la première carte n’avait pas. Vous n’avez pas regardé de plus près ce qui vous déroutait ; vous avez regardé ailleurs.
 
-*Avec assez de cartes, tout finit par coller.* Chaque carte en plus ajoute des significations, et l’histoire d’ensemble s’élargit et devient floue jusqu’à pouvoir correspondre à presque tout ce que la personne dira ensuite. C’est ainsi que des phrases qui vont à tout le monde finissent par sembler personnelles — le mécanisme contre lequel je me vérifie dans [l’effet Barnum et le tarot](/fr/blog/effet-barnum-tarot/).
+*Avec assez de cartes, tout finit par coller.* Chaque carte en plus ajoute des significations, et l’histoire d’ensemble s’élargit et devient floue jusqu’à pouvoir correspondre à presque tout ce que la personne dira ensuite. C’est ainsi que des phrases passe-partout finissent par sembler écrites pour vous — le mécanisme de [l’effet Barnum, que je guette jusque dans mes propres lectures](/fr/blog/effet-barnum-tarot/).
 
 *Elle déplace les poteaux.* Remarquez à quel moment l’envie d’en tirer une arrive. Rarement quand la personne acquiesce. Plutôt quand la lecture n’a pas pris.
 
@@ -37,7 +37,7 @@ Beaucoup de tarologues utilisent des cartes de clarification, et certains avec s
 
 ## Ce que je fais quand une lecture ne tient pas {#quand-ca-rate}
 
-Mes comptes donnent à peu près un raté toutes les dix lectures. Quand la personne me dit « non, rien de tout ça », je dis « celle-là est ratée », je le note, et je ne retire pas de carte.
+Mes comptes donnent à peu près un raté toutes les dix lectures. Si la personne ne reconnaît rien de ce que je viens de dire, je le dis : « celle-là est ratée ». Je le note, et je ne retire pas de carte.
 
 Si je tirais une carte de clarification à ce moment-là, je ne lirais plus ; je négocierais. Et je perdrais le seul chiffre honnête dont je dispose. Mon décompte de ce qui a tenu et de ce qui n’a pas tenu n’a de sens que parce que je ne repêche aucun raté. Compter est la colonne vertébrale de [ma méthode](/fr/methode/), et une seule lecture « sauvée » la fausserait sans bruit.
 
@@ -47,7 +47,7 @@ C’est aussi plus doux que ça en a l’air. La personne en face n’a pas à f
 
 Une carte déroutante est souvent une carte qu’on n’a pas regardée assez longtemps. Revenez vers elle au lieu de vous en éloigner.
 
-1. *Décrivez le dessin à voix haute.* Le Quatre de Coupes : un jeune homme assis sous un arbre, les bras croisés, trois coupes dans l’herbe devant lui, et une main sortie d’un nuage qui lui en tend une quatrième, qu’il ne regarde pas.
+1. *Décrivez le dessin à voix haute.* Le Quatre de Coupes : le dos contre un tronc, bras noués, un jeune homme fixe trois coupes posées dans l’herbe ; une main surgie d’un nuage lui en présente une quatrième, qu’il ignore.
 2. *Lisez les clés de lecture.* Le quatre, c’est la stabilité, la structure, le fruit de votre travail ; [son conseil](/fr/bibliotheque/numerologie/chiffre-4/), c’est de rester ouvert à l’imprévu, et son piège, de s’obstiner quand il serait temps d’arrêter. Côté famille, les Coupes sont l’Eau, le domaine des émotions.
 3. *Dites ce que vous voyez, même si c’est peu.* « Vous êtes bien installé — peut-être trop — et on vous propose quelque chose que vous n’avez pas encore regardé. »
 4. *Laissez la personne répondre, après.* Si ça tient, tant mieux. Si ça ne tient pas, c’est aussi une réponse.

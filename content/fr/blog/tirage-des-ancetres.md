@@ -43,7 +43,7 @@ Imaginons quelqu’un qui pense à un grand-père qui tenait un potager et répa
 
 Trois Pentacles sur cinq, ça dit déjà beaucoup. [La Terre](/fr/bibliotheque/quatre-elements/element-terre/), c’est la matière, ce qu’on construit de ses mains, ce qui compte vraiment pour vous, en argent comme en affection. Le Roi, sur un trône sculpté de taureaux et couvert de raisins, est le portrait de quelqu’un de solide, qui pourvoyait. Le Huit de Pentacles — un établi, des pièces alignées — dit la transmission : la patience au travail, l’effort qui devient maîtrise.
 
-Le Cinq d’Épées, c’est ce qui n’est pas à vous : un homme qui ramasse les épées pendant que deux autres s’éloignent. Le 5, c’est le conflit ; les Épées, c’est la pensée — peut-être une habitude familiale de devoir gagner chaque dispute. On peut la poser.
+Le Cinq d’Épées, c’est ce qui n’est pas à vous : un personnage les bras chargés d’épées, et deux autres qui lui laissent le terrain. Le 5, c’est le conflit ; les Épées relèvent de la tête — peut-être une habitude familiale de devoir gagner chaque dispute. On peut la poser.
 
 La gratitude, c’est le Dix de Pentacles : un vieil homme assis près d’une arche, des chiens à ses pieds, toute la famille réunie. Et ce qu’il faut garder vivant, c’est le Six de Coupes : un enfant qui tend à un autre une coupe pleine de fleurs — l’enfance, prendre son temps, refleurir. Dans le carnet, ça peut devenir une ligne : « Planter quelque chose avec un enfant au printemps, comme il le faisait avec moi. »
 

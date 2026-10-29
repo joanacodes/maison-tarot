@@ -39,13 +39,13 @@ Avec cette carte, on demande souvent qui est l’autre femme. « C’est son ex 
 
 Je ne lis pas sur des absents, et je préfère ne pas transformer une figure en suspecte. Une figure décrit une façon d’agir, et le plus souvent, elle vous décrit vous. J’explique comment je les lis dans [les figures du tarot, sans s’y perdre](/fr/blog/figures-du-tarot-valet-cavalier-reine-roi/). J’applique aussi à mes propres tirages la franchise qu’elle demande : quand quelque chose ne tient pas, je le dis clairement.
 
-Une question plus douce : « Où ai-je besoin de clarté, et comment le dire avec douceur ? » Elle pointe l’épée là où elle peut servir.
+La question qui sied à cette Reine : « Où ai-je besoin de clarté, et comment le dire avec douceur ? » Elle pointe l’épée là où elle peut servir.
 
 ## Avec le Roi de Coupes, le Huit ou le Trois d’Épées {#avec}
 
 {{< cards "cuki sw08 sw03" >}}
 
-À côté du Roi de Coupes, la tête et le cœur s’assoient côte à côte : des mots clairs et un cœur calme, dans un même couple ou chez une même personne ([le Roi de Coupes en amour](/fr/blog/roi-de-coupes-amour/)). À côté du Huit d’Épées, elle montre la suite : le bandeau est tombé, et l’épée se lève droite dans la main de quelqu’un qui a tranché ([le Huit d’Épées en amour](/fr/blog/huit-depees-amour/)). À côté du Trois d’Épées, le chagrin a un nom : un cœur brisé qui a appris la clarté. La douleur est venue d’abord ; la phrase claire en est sortie.
+Avec le Roi de Coupes pour voisin, la raison et le sentiment s’assoient ensemble : des mots clairs et un cœur calme, dans un même couple ou chez une même personne ([ce Roi-là, lu en amour](/fr/blog/roi-de-coupes-amour/)). À côté du Huit d’Épées, elle montre la suite : le bandeau est tombé, et l’épée se lève droite dans la main de quelqu’un qui a tranché ([le Huit d’Épées en amour](/fr/blog/huit-depees-amour/)). À côté du Trois d’Épées, le chagrin a un nom : un cœur brisé qui a appris la clarté. La douleur est venue d’abord ; la phrase claire en est sortie.
 
 ## Une phrase qui reste dans la gorge {#dans-la-gorge}
 

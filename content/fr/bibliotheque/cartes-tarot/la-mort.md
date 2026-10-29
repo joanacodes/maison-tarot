@@ -27,7 +27,7 @@ faq:
 - q: La Mort renversée, ça change quoi ?
   a: 'La fin est refusée ou elle traîne : une situation terminée qu’on maintient, un changement fait à moitié. La question qu’elle pose : qu’est-ce que vous tenez encore et qui est déjà fini ?'
 - q: La carte de la Mort annonce-t-elle un décès ?
-  a: 'Non. Une carte n’annonce ni un décès ni une maladie. Ces sujets-là ne passent pas par mes cartes, parce qu’une parole mal choisie peut semer une peur inutile. Si la santé de quelqu’un vous inquiète, c’est un médecin qu’il faut voir ; un tirage peut porter le changement que vous traversez.'
+  a: 'Non. Une carte n’annonce ni un décès ni une maladie. Ces sujets-là ne passent pas par mes cartes, parce qu’une parole mal choisie peut semer une peur inutile. Si vous vous faites du souci pour la santé de quelqu’un, parlez-en à un médecin ; un tirage peut porter le changement que vous traversez.'
 - q: Que dit La Mort pour le travail ?
   a: 'Elle n’annonce pas un licenciement : elle décrit une saison professionnelle qui se termine, comme un poste devenu trop étroit ou une façon de travailler qui ne vous va plus. La question qu’elle pose : qu’est-ce qui a fini sa saison, et qu’avez-vous envie de faire pousser ensuite ?'
 categories:
@@ -90,7 +90,7 @@ Au travail, ma note sur la moisson va surtout à quelqu’un qui n’est ni lice
 
 À l’envers, la moisson est en retard : le poste qu’on a déjà quitté dans sa tête et où l’on retourne chaque matin. Dans l’excès, c’est démissionner sur un coup de colère un lundi matin, brûler le champ au lieu de le moissonner.
 
-« Est-ce que je vais perdre mon travail ? » C’est la question qu’on apporte avec cette lame, et la peur est bien réelle : le loyer, la famille, l’idée de soi qui vient avec un métier. Je ne lis pas sur cette question. Une carte ne voit pas les décisions d’une entreprise, et un mot de travers peut pousser à démissionner dans la panique ou à se figer au moment d’agir ; les décisions d’argent figurent elles aussi sur [la liste de mes refus](/fr/avertissements/#refus). Pour le concret, un bilan de compétences ou un conseiller en évolution professionnelle sont les bons interlocuteurs. Une question qui aide davantage : « Qu’est-ce qui, dans mon travail, a fini sa saison, et qu’ai-je envie de faire pousser ensuite ? »
+« Est-ce que je vais perdre mon travail ? » C’est la question qu’on apporte avec cette lame, et la peur est bien réelle : payer son logement, faire vivre les siens, savoir qui l’on est sans son poste. Je ne lis pas sur cette question. Ce qui se décide dans un bureau de direction échappe aux cartes, et un mot de travers peut pousser à démissionner dans la panique ou à se figer au moment d’agir ; les décisions d’argent figurent elles aussi sur [la liste de mes refus](/fr/avertissements/#refus). Pour le concret, un bilan de compétences ou un conseiller en évolution professionnelle sont les bons interlocuteurs. Une question qui aide davantage : « Qu’est-ce qui, dans mon travail, a fini sa saison, et qu’ai-je envie de faire pousser ensuite ? »
 
 Cette semaine, écrivez deux listes courtes : ce qui est mûr dans votre travail, et ce que vous aimeriez semer. Gardez-les un mois, et regardez laquelle pousse.
 

@@ -38,7 +38,7 @@ tags:
 ---
 ## Ce qu’on voit sur la carte {#la-carte}
 
-Un jeune homme se tient debout dans un désert, de profil, un grand bâton dressé entre les deux mains. Il ne s’en sert pas. Il lève les yeux vers le sommet, d’où sortent des pousses vertes, comme on regarde un objet qu’on vient de recevoir.
+Un jeune homme se tient debout dans un désert, de profil, un grand bâton dressé entre les deux mains. Il ne s’en sert pas. Il lève les yeux vers le sommet, d’où sortent des pousses vertes, avec la curiosité qu’on a pour un cadeau tout juste déballé.
 
 Son chapeau est clair, avec une plume rouge orangé qui monte comme une flamme. Sa tunique jaune est semée de salamandres noires — le petit animal qui, dans les vieilles histoires, vivait dans le feu. Une cape jaune-vert tombe de ses épaules, et ses bottes jaunes ont des revers découpés en flammes. Autour de lui : du sable, des pyramides orange sur la droite, un ciel bleu pâle.
 

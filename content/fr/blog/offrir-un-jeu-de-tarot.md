@@ -17,7 +17,7 @@ Le meilleur tarot à offrir à un débutant, c’est un Rider-Waite-Smith avec l
 
 Cinq choses, par ordre d’utilité.
 
-1. *Un jeu Rider-Waite-Smith.* Celui que Pamela Colman Smith a illustré en 1909, où chaque carte, numérales comprises, porte une scène. En France, on pense souvent d’abord au tarot de Marseille, et c’est une belle tradition ; pour commencer, je conseille quand même celui-ci. Vérifiez que la boîte ou la description mentionne les dessins d’origine : il en existe plusieurs éditions, aux couleurs et aux formats différents, et j’en compare quelques-unes dans [ma sélection de jeux pour débuter](/fr/blog/meilleurs-jeux-de-tarot/). La taille compte plus qu’on ne croit : les éditions de poche ou en boîte métal conviennent aux petites mains et aux sacs à main, les grandes cartes aux yeux fatigués.
+1. *Un jeu Rider-Waite-Smith.* Celui que Pamela Colman Smith a illustré en 1909, où chaque carte, numérales comprises, porte une scène. En France, on pense souvent d’abord au tarot de Marseille, et c’est une belle tradition ; pour commencer, je conseille quand même celui-ci. Vérifiez que la boîte ou la description mentionne les dessins d’origine : il en existe plusieurs éditions, aux couleurs et aux formats différents, et j’en compare quelques-unes dans [ma sélection de jeux pour débuter](/fr/blog/meilleurs-jeux-de-tarot/). La taille compte plus qu’on ne croit : une édition de poche ou en boîte métal se glisse dans un sac et convient à une main menue ; pour une vue qui fatigue, prenez les grandes cartes.
 2. *Un carnet.* Simple, solide, qui s’ouvre à plat sur la table. Il devient l’objet le plus utile du kit : une colonne pour ce qu’on a annoncé, l’autre pour ce que la personne a confirmé. J’explique comment dans [tenir un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/).
 3. *Un bon livre, si la personne aime lire.* Un seul, pas cinq. Ceux que je conseille sont dans [ce que les livres apportent, et ce que seule la pratique donne](/fr/blog/apprendre-le-tarot-dans-un-livre/). Si elle s’intéresse aussi à l’astrologie et lit l’anglais, le livre que je tends aux gens est *The Only Astrology Book You’ll Ever Need*, signé Joanna Martine Woolfolk.
 4. *De quoi poser les cartes, et de quoi les ranger.* Un tissu de coton uni ou un torchon propre garde les cartes à l’abri d’une table qui colle ; une petite boîte ou une pochette garde le jeu entier au fond d’un sac. Pratique, pas magique.
@@ -33,7 +33,7 @@ Certains extras sont vendus comme si un débutant ne pouvait pas commencer sans 
 - *Les cristaux vendus comme indispensables.* Ce sont de beaux objets, et un joli cadeau en soi. Une pierre ne rend pas un tirage plus juste, en revanche ; ne l’achetez pas parce qu’une annonce précise « pour le tarot ».
 - *Un oracle, si on vous a demandé un tarot.* Les oracles sont un autre objet : un nombre de cartes variable, des significations choisies par leur auteur. Ils sont agréables à posséder, mais ils n’apprennent pas la structure du tarot.
 - *Un Marseille ou un Thoth comme premier jeu*, sauf si c’est ce qu’on vous a demandé. Les deux sont magnifiques, et les deux ont des cartes numérales sans scènes, ce qui rend les premiers mois plus durs. Ils font un merveilleux deuxième jeu.
-- *Les coffrets où l’on ne sait pas quel jeu se trouve à l’intérieur.* Si la description ne dit pas de qui sont les dessins, cherchez ailleurs.
+- *Les coffrets où l’on ne sait pas quel jeu se trouve à l’intérieur.* Si la description ne dit pas qui a dessiné les cartes, cherchez ailleurs.
 
 ## Si la personne tire déjà les cartes {#si-elle-tire-deja}
 
@@ -53,4 +53,4 @@ C’est la seule chose que je garderais de la vieille croyance : offrez un jeu �
 
 ## Un mot à glisser dans le paquet {#le-mot}
 
-Écrivez une seule suggestion sur l’étiquette : « Tirez une carte demain matin et décrivez ce que vous voyez avant de chercher quoi que ce soit. » C’est un meilleur départ que n’importe quel rituel, et la première semaine avec le jeu peut suivre le programme de [comment faire connaissance avec un nouveau jeu](/fr/blog/nouveau-jeu-de-tarot/).
+Écrivez une seule suggestion sur l’étiquette : « Demain matin, tirez une carte et dites ce qu’elle montre ; les définitions attendront. » C’est un meilleur départ que n’importe quel rituel, et la première semaine avec le jeu peut suivre le programme de [comment faire connaissance avec un nouveau jeu](/fr/blog/nouveau-jeu-de-tarot/).

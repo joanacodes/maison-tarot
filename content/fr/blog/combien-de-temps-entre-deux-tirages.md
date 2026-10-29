@@ -15,7 +15,7 @@ On peut reposer la même question au tarot. Rien ne se casse, et les cartes ne s
 
 ## Peut-on poser deux fois la même question au tarot ? {#peut-on}
 
-Oui. Aucune règle ne l’interdit, et l’idée que les cartes s’agacent, ou [se « fatiguent » à force d’être interrogées](/fr/blog/cartes-tarot-fatiguees/), ne tient pas. Un jeu, c’est du carton et de l’encre.
+Oui. Aucune règle ne l’interdit, et l’idée que les cartes s’agacent, ou [se « fatiguent » à force d’être interrogées](/fr/blog/cartes-tarot-fatiguees/), ne tient pas. Ce sont des cartons imprimés, et rien en eux ne se lasse de vos questions.
 
 La vraie question, c’est pourquoi vous voulez redemander. La plupart du temps, ce n’est pas parce que le premier tirage était flou. C’est parce qu’il n’a pas dit ce que vous espériez, ou parce qu’il l’a dit et que vous aimeriez l’entendre encore une fois. Les deux sont humains. Les deux méritent d’être remarqués avant de rebattre les cartes.
 
@@ -23,7 +23,7 @@ Une question aide beaucoup : que ferais-je de différent si la deuxième carte d
 
 ## Ce que les tirages à répétition vous font {#ce-que-ca-fait}
 
-Imaginons quelqu’un qui demande le lundi : « Est-ce que je vais avoir le poste ? » et tire le Huit de Pentacles, où un compagnon penché sur l’ouvrage cisèle ses disques l’un après l’autre. De l’effort, du savoir-faire, du travail encore à fournir. Une réponse honnête.
+Imaginons quelqu’un qui demande le lundi : « Le poste sera-t-il pour moi ? » et tire le Huit de Pentacles, où un compagnon penché sur l’ouvrage cisèle ses disques l’un après l’autre. De l’effort, du savoir-faire, du travail encore à fournir. Une réponse honnête.
 
 Le mardi, toujours nerveux, il redemande et tire le Cinq de Bâtons : cinq personnages qui agitent leurs bâtons, sans aucune coordination. Le mercredi soir, la Lune : deux bêtes qui hurlent vers le ciel, une écrevisse qui remonte de l’eau, et un sentier qui s’enfonce au loin, entre deux tours.
 
@@ -35,7 +35,7 @@ Le mercredi, il a trois tirages et y voit moins clair que le lundi. Les cartes n
 
 Il y a un deuxième effet, plus discret. Une fois que vous avez trois réponses, vous choisissez celle que vous préférez. Le tirage devient une carte de restaurant, et vous commandez. À ce stade, vous ne consultez plus rien ; vous cherchez une permission.
 
-Et il y en a un troisième, que j’ai vu chez d’autres : la boucle, quand la même question revient encore et encore, portée par le doute plutôt que par la curiosité. Quand quelqu’un vient me voir dans cet état, en général, je ne lis pas pour cette personne ce jour-là ; je m’en explique dans [pourquoi vous devriez arrêter de tirer les cartes, un moment au moins](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
+Et il y en a un troisième, que j’ai vu chez d’autres : la boucle, quand la même question revient encore et encore, portée par le doute plutôt que par la curiosité. Quand quelqu’un vient me voir dans cet état, en général, je ne lis pas pour cette personne ce jour-là ; je m’en explique dans [ce que coûte la boucle, et ce qu’une pause lui oppose](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
 ## Combien de temps attendre entre deux tirages sur la même question ? {#combien-de-temps}
 

@@ -35,7 +35,7 @@ Pourquoi elle s’est imposée, personne ne l’a écrit. On avance en général
 2. *L’image le disait déjà.* Un squelette à la faux était l’une des images les plus familières d’Europe. Un titre n’ajoutait rien.
 3. *La copie.* Les cartiers gravaient leurs bois d’après les jeux des autres. Dès qu’un modèle très copié avait un cartouche vide, le cartouche vide voyageait.
 
-On ne sait pas laquelle est vraie, ni s’il s’agit d’un mélange. Je préfère vous le dire franchement plutôt que de choisir la plus jolie histoire. Et l’expression « Arcane sans nom » vient des lecteurs, pas des cartiers : c’est ainsi qu’on a fini par appeler une lame qui n’avait pas de titre à elle.
+On ne sait pas laquelle est vraie, ni s’il s’agit d’un mélange. Je vous laisse donc les deux, avec ce doute, plutôt que de retenir la version la plus jolie. Et l’expression « Arcane sans nom » vient des lecteurs, pas des cartiers : c’est ainsi qu’on a fini par appeler une lame qui n’avait pas de titre à elle.
 
 ## Pourquoi le Rider-Waite-Smith l’appelle la Mort {#la-mort-rider-waite}
 
@@ -55,7 +55,7 @@ Regardez la lame de Marseille sans titre : vous voyez quelqu’un qui fauche, et
 
 Regardez la carte du Rider-Waite-Smith : vous lisez le nom avant de remarquer le soleil à l’horizon ou l’enfant qui lève les yeux. On réagit au mot, et parfois on n’arrive jamais jusqu’au dessin.
 
-Les clés de lecture aident dans les deux cas. Treize se réduit à 1 + 3 = 4, et [le chiffre 4](/fr/bibliotheque/numerologie/chiffre-4/), ce sont les fondations, la structure — avec un revers : continuer alors qu’il faudrait s’arrêter. La Mort répond à ce revers. C’est une carte d’Eau, lente plutôt que soudaine, et la tradition de la Golden Dawn lui associe le Scorpion. Tout cela est détaillé sur [la page de la Mort](/fr/bibliotheque/cartes-tarot/la-mort/).
+Les clés de lecture aident dans les deux cas. Treize se réduit à 1 + 3 = 4, et [le chiffre 4](/fr/bibliotheque/numerologie/chiffre-4/), ce sont les fondations, la structure — avec un revers : poursuivre sur sa lancée alors que l’heure est venue de poser les outils. La Mort arrive précisément à cet endroit. C’est une carte d’Eau, lente plutôt que soudaine, et la tradition de la Golden Dawn lui associe le Scorpion. Le détail se trouve sur [la fiche de la lame XIII](/fr/bibliotheque/cartes-tarot/la-mort/).
 
 Essayez avec votre propre jeu. Cachez le nom en bas de votre carte de la Mort avec une bande de papier et décrivez le dessin à voix haute pendant une minute : les couleurs, les personnages, ce qui bouge, ce qui pousse. Puis retirez le papier. Remarquez ce qui change dans votre voix. C’est l’expérience de Marseille, dans un Rider-Waite-Smith.
 
@@ -63,8 +63,8 @@ Essayez avec votre propre jeu. Cachez le nom en bas de votre carte de la Mort av
 
 Si vous avez tiré cette carte et que vous arrivez ici inquiet ou inquiète, pour vous ou pour quelqu’un que vous aimez, je comprends : le mot fait cet effet-là. Dans un jeu comme dans l’autre, aucune lame ne prédit qu’on va tomber malade ou mourir. Je laisse ces sujets en dehors de mes tirages : une phrase maladroite suffirait à affoler quelqu’un sans raison, et une inquiétude de santé mérite un médecin et l’oreille de vos proches. J’explique ce choix plus en détail [à propos de la maladie, de la grossesse et du deuil](/fr/blog/sante-grossesse-deces-tarot/).
 
-Ce que la carte peut accueillir, c’est un changement que vous êtes en train de vivre : un chapitre qui se ferme, une habitude qui s’arrête, une version de vous qui a fait son temps.
+Ce que la carte peut accueillir, c’est un changement que vous êtes en train de vivre : un chapitre qui se ferme, une habitude qui s’arrête, une façon d’être que vous avez dépassée.
 
 ## Pour aller plus loin {#pour-aller-plus-loin}
 
-Si vous voulez voir ce qui sépare les deux jeux au-delà de cette seule lame, je les compare dans [tarot de Marseille ou Rider-Waite-Smith](/fr/blog/tarot-de-marseille-ou-rider-waite/). Et si la Mort est sortie dans un tirage sur votre couple, [la Mort en amour](/fr/blog/la-mort-tarot-amour/) regarde, avec douceur, ce qu’elle y dit le plus souvent.
+Ce qui sépare les deux jeux dépasse cette seule lame, et je les mets côte à côte dans [une comparaison détaillée](/fr/blog/tarot-de-marseille-ou-rider-waite/). Et si la Mort est sortie dans un tirage sur votre couple, [la Mort en amour](/fr/blog/la-mort-tarot-amour/) regarde, avec douceur, ce qu’elle y dit le plus souvent.

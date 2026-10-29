@@ -17,11 +17,11 @@ Le Trois d’Épées, c’est le chagrin dessiné aussi franchement qu’une car
 
 ## Un lien qui marchait, et ce qui l’a coupé {#lien-coupe}
 
-Le 3, dans mes notes, c’est le bon rythme : la machine qui tourne, un contrat qui fonctionne. Son moins, c’est la solitude et la trahison. En amour, le Trois d’Épées se tient pile sur cette ligne — un lien qui fonctionnait, et quelque chose qui l’a entaillé.
+Le 3, dans mes notes, c’est quand la cadence est bonne : les rouages tournent, l’accord passé tient ses promesses. Son moins, c’est la solitude et la trahison. En amour, le Trois d’Épées se tient pile sur cette ligne — un lien qui fonctionnait, et quelque chose qui l’a entaillé.
 
 L’élément, c’est l’Air : la pensée, les décisions, les mots, y compris la langue de vipère. Ce cœur n’a pas été touché par une pierre ; il a été coupé par quelque chose de net et de précis, très souvent une phrase, dite ou lue. L’énergie est masculine, et la parole masculine, dans mes notes, est directe et rapide, et peut être assez brutale pour fermer les gens. C’est comme ça qu’une seule remarque reste plantée en quelqu’un pendant des mois.
 
-Sur ce dessin, l’amour se lit dans la pluie : la seule eau dans une carte d’Air. Des larmes, autrement dit. Si l’astrologie vous parle, la carte correspond à Saturne en Balance, une leçon difficile sur la justice entre deux personnes ; Saturne fait partie des placements qui ont tenu entre 75 et 90 % quand [j’ai testé mon propre thème](/fr/blog/j-ai-teste-mon-theme-astral/). Les autres clés sont sur [la page de la carte](/fr/bibliotheque/cartes-tarot/trois-de-epees/).
+Sur ce dessin, l’amour se lit dans la pluie : la seule eau dans une carte d’Air. Des larmes, autrement dit. Si l’astrologie vous parle, la carte correspond à Saturne en Balance, une leçon difficile sur la justice entre deux personnes ; Saturne fait partie des placements qui ont tenu entre 75 et 90 % quand [j’ai testé mon propre thème](/fr/blog/j-ai-teste-mon-theme-astral/). Le reste des clés se lit sur [la page de la carte](/fr/bibliotheque/cartes-tarot/trois-de-epees/).
 
 ## Un pacte scellé sous la pluie {#pacte}
 
@@ -45,9 +45,9 @@ Inversé, c’est la douleur retenue : pas de pluie, pas de mots, « ça va ». 
 
 C’est la question qu’on apporte le plus souvent au Trois d’Épées, sous une forme ou une autre : est-ce que l’autre tenait vraiment à moi, est-ce qu’il y a quelqu’un d’autre, est-ce que quelque chose était vrai ? Elle vient de la partie la plus à vif d’un chagrin, et elle mérite une réponse douce.
 
-Cette question, je ne la confie pas aux cartes : l’autre n’a pas pris place à la table, et n’a rien accepté. Sonder quelqu’un dans ces conditions, c’est un peu s’installer dans sa chambre sans y avoir été convié. Et une carte interrogée sur le cœur de quelqu’un d’autre répond avec votre peur : vous repartez avec la même blessure, plus une image pour l’illustrer.
+Cette question, je ne la confie pas aux cartes : l’autre ne participe pas, et n’a rien accepté. Sonder quelqu’un dans ces conditions, c’est un peu s’installer dans sa chambre sans y avoir été convié. Et une carte interrogée sur le cœur de quelqu’un d’autre répond avec votre peur : vous repartez avec la même blessure, plus une image pour l’illustrer.
 
-Une question plus douce : « Qu’est-ce qui m’a fait mal, et qu’est-ce que j’ai besoin d’en dire ? » Si quelque chose ne colle pas, sa place est dans une conversation avec l’autre, ou avec un ami qui vous connaît tous les deux — pas dans un tirage.
+Mieux vaut demander aux cartes ce que la blessure attend de vous : « Qu’est-ce qui m’a fait mal, et qu’est-ce que j’ai besoin d’en dire ? » Si quelque chose ne colle pas, sa place est dans une conversation avec l’autre, ou avec un ami qui vous connaît tous les deux — pas dans un tirage.
 
 ## Refermer la coupure {#refermer}
 
@@ -59,7 +59,7 @@ Pas de remède, et pas de promesse. Ce qui aide, en général, et les cartes qui
 2. Dites-le à voix haute à quelqu’un. C’est une carte d’Air : les mots coupent, et les mots commencent aussi à refermer la coupure. Le Trois de Coupes, trois amies qui lèvent leurs coupes, ce sont les gens qui vous tiennent pendant qu’il pleut.
 3. Reposez-vous, comme le Quatre d’Épées : allongez-vous, raccrochez les lames au mur pour un temps.
 4. Ne décidez rien dans l’orage. Envoyer, bloquer, déménager, pardonner : presque tout peut attendre une semaine.
-5. Faites de ce pacte un pacte tendre. À côté du Deux de Coupes, le Trois d’Épées, ce sont deux personnes plus proches parce qu’elles ont traversé la douleur ensemble, et non en la contournant ; [le Deux de Coupes en amour](/fr/blog/deux-de-coupes-amour/) parle de garder ce lien à égalité.
+5. Faites de ce pacte un pacte tendre. À côté du Deux de Coupes, le Trois d’Épées raconte un couple que la douleur a rapproché, parce qu’il l’a traversée à deux au lieu de l’éviter ; [le Deux de Coupes en amour](/fr/blog/deux-de-coupes-amour/) parle de garder ce lien à égalité.
 6. Si la douleur reste aussi vive pendant des semaines, ou se met à envahir vos journées, voyez un thérapeute ou un médecin plutôt que de reprendre vos cartes. Je parle ailleurs du [tarot dans les jours de deuil](/fr/blog/tarot-et-deuil/), et du moment où il faut quelqu’un.
 
 ## Sous la pluie, un seul geste {#un-geste}

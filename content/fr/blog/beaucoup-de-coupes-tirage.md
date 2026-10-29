@@ -59,6 +59,6 @@ Mettez-le dans une phrase que vous pourriez dire à la personne : « Beaucoup d�
 
 Compter les familles donne une première impression, jamais un verdict. Ça vous dit où regarder, pas ce qui va arriver.
 
-Et si la personne en face de vous est submergée, les cartes peuvent mettre un nom sur ce qu’elle ressent ; elles ne sont pas l’endroit où le porter. Parfois, ce qui aide, c’est [la porte d’un thérapeute plutôt qu’un tirage](/fr/avertissements/#therapie), et le dire avec douceur fait partie d’une bonne lecture.
+Et si la personne en face de vous est submergée, les cartes peuvent mettre un nom sur ce qu’elle ressent ; elles ne sont pas l’endroit où le porter. Parfois, ce qui aide, c’est [la porte d’un thérapeute plutôt qu’un tirage](/fr/avertissements/#therapie), et l’indiquer avec tact, c’est encore faire son travail de lecteur.
 
 La prochaine fois que vous étalez un tirage, comptez les familles avant de lire la moindre carte. Pour voir comment les quatre s’équilibrent, commencez par [les quatre familles du tarot expliquées](/fr/blog/familles-du-tarot/).

@@ -28,7 +28,7 @@ faq:
 - q: 'Le Dix d’Épées renversé, ça change quoi ?'
   a: 'Soit on se relève lentement, une épée après l’autre, une fois le pire passé ; soit on refuse d’admettre que c’est fini, ou l’on vit chaque contretemps comme le fond du trou.'
 - q: 'Le Dix d’Épées annonce-t-il une mort ?'
-  a: 'Non. Une carte n’annonce ni une mort, ni une maladie, ni une agression, et je ne lis pas sur ces sujets. Le Dix d’Épées parle d’une fin dans votre vie — une étape, un rôle, une histoire que vous vous racontiez — et de ce qui vient après.'
+  a: 'Non. Aucune carte n’annonce la mort de quelqu’un, ni une maladie, ni une agression, et je ne tire jamais les cartes là-dessus. Le Dix d’Épées parle d’une fin dans votre vie — une étape, un rôle, une histoire que vous vous racontiez — et de ce qui vient après.'
 - q: 'Que dit le Dix d’Épées pour le travail ?'
   a: 'Le fond du trou au travail : un poste, un projet ou une façon de travailler arrivés au bout de ce qu’ils pouvaient donner. Il ne prédit pas un licenciement ; il marque la fin de la chute et demande sur quelle petite chose vous pouvez vous relever.'
 categories:
@@ -49,7 +49,7 @@ La moitié haute de la carte est un ciel noir. Tout en bas, juste au-dessus d’
 
 ## Par le nombre : dix {#nombre}
 
-Le dix ferme le cycle, et cet homme est étendu dans le couloir, entre une pièce qui se termine et une autre qui n’a pas encore de nom. Il apporte la liberté, le changement, une respiration ; son revers, c’est qu’il vous pousse à commencer autre chose, prêt ou pas.
+Le dix ferme le cycle, et cet homme est étendu dans le couloir, entre une pièce qui se termine et une autre qu’on ne sait pas encore nommer. Ce nombre-là libère, change la donne, laisse respirer ; son revers, c’est qu’il vous pousse à commencer autre chose, prêt ou pas.
 
 Mes notes sur le 10 contiennent une phrase faite pour cette carte : vu de l’extérieur, on peut avoir l’air à terre, alors qu’en réalité le papillon est déjà loin, sorti de sa chrysalide. Au dixième stade, Instagram avait tant changé que plus personne ne le reconnaissait. Le conseil du [chiffre 10](/fr/bibliotheque/numerologie/chiffre-10/) : ne pas confondre la mue avec la chute.
 
@@ -69,7 +69,7 @@ Le troisième décan des Gémeaux, attribué au [Soleil](/fr/bibliotheque/astrol
 
 ## En lecture {#lecture}
 
-Le Dix d’Épées fait partie des cartes qui font le plus peur, et je comprends pourquoi : c’est le dessin le plus dur du jeu. Il n’annonce ni une mort, ni une maladie, ni une agression, et je ne lis pas sur ces sujets. Il parle d’une fin dans votre vie — un travail, une relation, un rôle, un projet — qui est allée aussi loin qu’elle pouvait aller. Le fond du trou, et aussi le sol sur lequel on prend appui pour remonter. **Le Dix d’Épées, c’est la fin de la chute, pas son début.**
+Le Dix d’Épées fait partie des cartes qui font le plus peur, et je comprends pourquoi : c’est le dessin le plus dur du jeu. Il ne prédit ni décès, ni maladie, ni agression, et ces sujets-là restent en dehors de mes lectures. Il parle d’une fin dans votre vie — un travail, une relation, un rôle, un projet — qui est allée aussi loin qu’elle pouvait aller. Le fond du trou, et aussi le sol sur lequel on prend appui pour remonter. **Le Dix d’Épées, c’est la fin de la chute, pas son début.**
 
 Renversé, cette fin se quitte pas à pas, ou ne finit jamais. Pas à pas : se relever lentement, une épée après l’autre, une fois le pire passé. Sans fin : refuser d’admettre que c’est fini et rester à terre — ou vivre chaque contretemps comme le fond du trou.
 
@@ -87,7 +87,7 @@ La lecture classique, c’est le coup de poignard dans le dos, parfois à raison
 
 Renversé au travail, les épées sortent une à une — une première candidature envoyée, une vraie nuit de sommeil —, ou la fin est refusée, et vous restez à terre dans un poste qui en a fini avec vous.
 
-Cette carte apporte une question : « Ma carrière est-elle finie ? », souvent avec « Vais-je perdre mon poste ? » derrière. Elle vient d’une peur très concrète : le loyer, la famille, l’idée de soi qui va avec un métier. Je ne lis ni sur un licenciement à venir ni sur l’argent : une carte ne voit pas les décisions d’une entreprise. Si vous êtes à bout au point que le travail vous suit chaque soir jusqu’à la maison, c’est la porte d’un médecin, pas celle d’un jeu de cartes. Et l’aide est souvent plus proche qu’il n’y paraît : les amis, les anciens collègues, les conseillers de France Travail dont c’est le métier. Une question plus douce : « Qu’est-ce qui s’est terminé, et sur quelle petite chose puis-je me relever cette semaine ? »
+Cette carte apporte une question : « Ma carrière est-elle finie ? », souvent avec « Vais-je perdre mon poste ? » derrière. Elle vient d’une peur très concrète : le loyer, la famille, l’idée de soi qui va avec un métier. Je ne lis ni sur un licenciement à venir ni sur l’argent : une carte ne voit pas les décisions d’une entreprise. Si vous êtes à bout au point que le travail vous suit chaque soir jusqu’à la maison, c’est la porte d’un médecin, pas celle d’un jeu de cartes. Et l’aide est souvent plus proche qu’il n’y paraît : les amis, les anciens collègues, les conseillers de France Travail dont c’est le métier. Sur cette carte, je préfère poser ceci : « Qu’est-ce qui s’est terminé, et sur quelle petite chose puis-je me relever cette semaine ? »
 
 Cette semaine, notez les dix épées : dix choses qui font mal dans cette fin. Puis barrez celles qui sont des pensées plutôt que des faits. Ce qui reste — presque toujours moins de dix — est le vrai terrain pour reconstruire.
 

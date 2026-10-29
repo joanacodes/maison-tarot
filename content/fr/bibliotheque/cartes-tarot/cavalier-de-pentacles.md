@@ -66,7 +66,7 @@ Le cheval est [noir](/fr/bibliotheque/couleurs-tarot/noir/) et occupe la moitié
 
 Renversé, sa patience ne démarre jamais, ou se fige. Dans le premier cas, le plan est vérifié si souvent qu’il ne part jamais ; la personne attend une certitude qui n’existe pas. Dans le second, la méthode devient rigidité — le même trajet, la même façon, « parce qu’on a toujours fait comme ça » — et l’ami fiable devient celui qui ne bouge plus d’un pouce.
 
-À côté du [Cavalier d’Épées](/fr/bibliotheque/cartes-tarot/cavalier-de-epees/), deux vitesses à la fois : l’un charge, l’autre n’est pas parti — une équipe, ou deux voix dans la même tête. À côté du [Sept de Pentacles](/fr/bibliotheque/cartes-tarot/sept-de-pentacles/), un autre homme qui regarde ses pièces : la patience avant la récolte, deux fois. À côté du [Chariot](/fr/bibliotheque/cartes-tarot/le-chariot/), l’immobilité se change en mouvement, ou rencontre quelqu’un qui n’attendra pas.
+À côté du [Cavalier d’Épées](/fr/bibliotheque/cartes-tarot/cavalier-de-epees/), deux vitesses à la fois : l’un charge, l’autre n’est pas parti — une équipe, ou deux voix dans la même tête. Le [Sept de Pentacles](/fr/bibliotheque/cartes-tarot/sept-de-pentacles/) à côté de lui, et ce sont deux hommes qui regardent leurs pièces : la patience avant la récolte, en double. À côté du [Chariot](/fr/bibliotheque/cartes-tarot/le-chariot/), l’immobilité se change en mouvement, ou rencontre quelqu’un qui n’attendra pas.
 
 {{< cards "swkn pe07 ar07" >}}
 

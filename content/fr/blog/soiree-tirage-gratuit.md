@@ -63,4 +63,4 @@ Certaines personnes, déjà passées par un tirage gratuit ailleurs, arrivent su
 
 ## Votre première soirée {#prochaine-etape}
 
-Choisissez une date, un créneau de quatre-vingt-dix minutes et un maximum de six tirages, et mettez les règles dans l’invitation. Faites la première avec des amis d’amis si vous avez le trac ; ça reste une pièce pleine de gens qui ne vous diront rien. Et si vous voulez en voir une de l’intérieur avant d’organiser la vôtre, venez regarder l’un des [événements gratuits](/fr/evenements/).
+Choisissez une date, un créneau de quatre-vingt-dix minutes et un maximum de six tirages, et mettez les règles dans l’invitation. Faites la première avec des amis d’amis si vous avez le trac ; ça reste une pièce pleine de gens qui ne vous diront rien. Avant d’organiser la vôtre, observez-en une de l’intérieur en venant regarder l’un des [événements gratuits](/fr/evenements/).

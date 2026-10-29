@@ -17,9 +17,9 @@ On peut apprendre le tarot à tout âge, et commencer à 40, 50 ou 60 ans a un v
 
 Non. Il n’y a pas d’âge pour ça, et pas de don qu’il aurait fallu recevoir jeune. Les gens que j’ai fait lire y sont tous parvenus vite, en trois tentatives au maximum, dès qu’ils ont laissé de côté l’envie d’avoir raison.
 
-C’est un peu comme le piano ou l’aquarelle : certains ont des facilités, et tous ceux qui pratiquent y arrivent. La seule pratique qui compte vraiment au tarot, c’est le lâcher-prise, et le lâcher-prise n’a pas de limite d’âge.
+C’est un peu comme le piano ou l’aquarelle : certains partent avec une longueur d’avance, mais quiconque s’exerce finit par y arriver. La seule pratique qui compte vraiment au tarot, c’est le lâcher-prise, et le lâcher-prise n’a pas de limite d’âge.
 
-Ce qu’il vous faut n’a pas changé depuis vos vingt ans : un jeu, une façon de regarder, quelqu’un qui ne vous dit rien, et un carnet. Le [guide pour débuter](/fr/blog/apprendre-a-lire-le-tarot-debutant/) couvre les quatre, et si vous vous demandez quel jeu prendre, [voici pourquoi je conseille le Rider-Waite-Smith](/fr/blog/quel-jeu-de-tarot-choisir/) : chaque carte porte une scène, et ce sont les scènes que l’expérience lit le mieux.
+Ce qu’il vous faut n’a pas changé depuis vos vingt ans : un jeu, une façon de regarder, quelqu’un qui ne vous dit rien, et un carnet. Le [guide pour débuter](/fr/blog/apprendre-a-lire-le-tarot-debutant/) couvre les quatre, et si vous hésitez sur le jeu, [voici pourquoi le Rider-Waite-Smith convient à un débutant de tout âge](/fr/blog/quel-jeu-de-tarot-choisir/) : même ses cartes numérotées racontent une petite scène, et ces scènes, l’expérience de la vie les lit mieux que n’importe quelle liste.
 
 ## Pourquoi l’expérience de la vie aide à lire {#experience}
 
@@ -27,9 +27,9 @@ Une carte de tarot montre une situation. La lire, c’est reconnaître ce qui s�
 
 {{< cards "pe10 pe05 cu06 ar13" >}}
 
-Le Dix de Pentacles montre trois générations dans une cour : un vieil homme dans un manteau brodé, un couple, un enfant, deux chiens. Ma note sur cette carte : la richesse complète à la maison, toute la famille réunie — et peut-être pour peu de temps. Si vous avez été l’enfant, puis le parent, puis que vous avez vu vos propres parents vieillir, vous lisez ce « peut-être pour peu de temps » d’une façon qu’à vingt ans on ne peut que deviner.
+Le Dix de Pentacles montre trois générations dans une cour : un vieil homme dans un manteau brodé, un couple, un enfant, deux chiens. Ma note sur cette carte : l’abondance sous un même toit, chaque génération présente — et peut-être pour peu de temps. Si vous avez été l’enfant, puis le parent, puis que vous avez vu vos propres parents vieillir, vous lisez ce « peut-être pour peu de temps » d’une façon qu’à vingt ans on ne peut que deviner.
 
-Le Cinq de Pentacles montre deux silhouettes dans la neige qui passent devant le vitrail éclairé d’une église : la pauvreté, le froid, et l’endroit où l’on aurait pu trouver de la chaleur. Si vous avez traversé un hiver difficile, vous remarquerez plus facilement la fenêtre.
+Le Cinq de Pentacles fait passer deux mendiants, en pleine neige, sous la fenêtre allumée d’une église : la pauvreté, le froid, et l’endroit où l’on aurait pu trouver de la chaleur. Si vous avez traversé un hiver difficile, vous remarquerez plus facilement la fenêtre.
 
 Le Six de Coupes, c’est l’enfance, le temps pris pour soi, le fait de refleurir. À cinquante ans, l’enfance est un endroit qu’on regarde de loin, avec une certaine tendresse.
 
@@ -53,7 +53,7 @@ Le temps compte moins qu’on ne le croit. Dix minutes par jour suffisent pour c
 
 Lire, ce n’est pas seulement voir. C’est aussi savoir le dire. Parfois, vous sentez qu’une chose gagne à attendre, ou à prendre un autre chemin : en face, on a peur, ou on n’est pas encore en état de l’entendre. C’est une compétence que la vie enseigne mieux qu’un cours : quand attendre, quand adoucir, quand se taire.
 
-Pareil pour les moments où rien ne vient. Souvent, c’est que la personne a peur de ce qu’elle va entendre, et la réponse consiste à poser les cartes, parler et la rassurer avant de reprendre. Des années de conversations au travail, en famille et autour de la table de la cuisine vous y ont préparé.
+Pareil pour les moments où rien ne vient. Souvent, la personne en face redoute ce qui pourrait sortir, et la réponse consiste à poser les cartes, parler et la rassurer avant de reprendre. Des années de conversations au travail, en famille et autour de la table de la cuisine vous y ont préparé.
 
 Vous savez aussi, souvent, quelles questions relèvent d’ailleurs. Santé, décès, grossesse, procès en cours, argent à engager : derrière ces demandes, il y a presque toujours une peur ou de l’amour, et ce n’est pas à un tirage d’y répondre. Si vous avez déjà attendu un résultat d’examen, vous comprenez pourquoi sans qu’on vous l’explique. [J’explique où je m’arrête, et pourquoi](/fr/avertissements/#refus).
 
@@ -61,4 +61,4 @@ Vous savez aussi, souvent, quelles questions relèvent d’ailleurs. Santé, dé
 
 Choisissez le rythme qui vous convient. Un [atelier](/fr/ateliers/), c’est trois heures, douze personnes et une clé de lecture, avec une carte en main dès les dix premières minutes. Une [session individuelle](/fr/sessions/), c’est soixante minutes à votre vitesse, avec de la place pour toutes les questions que vous n’oseriez pas poser en groupe.
 
-Dans les deux cas, le premier pas est le même : une carte, une personne qui ne vous dit rien, et le courage de dire ce que vous voyez.
+Dans les deux cas, le premier pas est le même : une carte, quelqu’un dont vous ignorez la question, et le courage de dire ce que vous voyez.

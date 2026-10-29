@@ -8,7 +8,7 @@ weight: 6
 categories: ["Symboles"]
 tags: ["symboles du tarot", "rivière tarot", "la Mort", "Cinq de Coupes", "Six d’Épées"]
 h1: "La rivière — de l’eau qui a une <em>direction</em>"
-lede: "Une rivière vient de quelque part et va quelque part, et on ne l’arrête pas. Dans le jeu de 1909, elle coule derrière la Mort, devant le Cinq de Coupes et sous l’arc-en-ciel du Dix de Coupes — le temps et le sentiment qui passent."
+lede: "Une rivière vient de quelque part et va quelque part, et on ne l’arrête pas. On la voit couler derrière la Mort, au pied du Cinq de Coupes, sous l’arc-en-ciel du Dix de Coupes."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/symboles-tarot/eau
@@ -53,9 +53,9 @@ Une rivière, c’est de l’eau qui a une direction. Elle part d’une source, 
 
 Un exemple de tous les jours : une amitié qui s’est éloignée doucement. Personne n’a rien décidé ; le courant a fait le travail. Des années plus tard, vous êtes chacun sur votre rive, sans pouvoir dire quand c’est arrivé. Beaucoup d’eau a coulé sous les ponts, comme on dit.
 
-## Où elle apparaît dans le jeu {#ou}
+## De la barque de la Mort à la maison du Dix de Coupes {#ou}
 
-Sur la Mort, une rivière coule derrière le cheval blanc, avec une petite barque à voile. Dans mes notes, la Mort, c’est la moisson et le fait de recommencer : la rivière continue au-delà de la fin.
+Sur la Mort, une rivière coule derrière le cheval blanc, avec une petite barque à voile. La Mort, je la lis avec la moisson et le recommencement : la rivière continue au-delà de la fin.
 
 Sur [le Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), une rivière passe entre le personnage en cape et un donjon en ruine. Un pont, à droite, permet de traverser. Lui regarde les trois coupes renversées et ne le voit pas. Dans mes notes, c’est la carte la plus négative du jeu — seul avec ses problèmes —, et la rivière, c’est tout ce qui continue de bouger autour de lui.
 
@@ -75,7 +75,7 @@ Sur l’As de Bâtons, une rivière coule dans le paysage sous la main ; sur le 
 
 Demandez-vous dans quel sens va l’eau, et où se tient la personne par rapport à elle. Au bord (Cinq de Coupes), elle regarde la vie passer. Dessus (Six d’Épées), elle se fait porter de l’autre côté. Le long (Cavalier de Coupes), elle suit ses sentiments. La rivière du Dix de Coupes, c’est le même courant, arrivé à la maison.
 
-Avec les clés : une rivière, c’est de l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/), donc du sentiment. Mais c’est de l’eau qui bouge, ce qui dans mes notes veut dire émotion forte — ni le bassin immobile de [l’eau à portée de main](/fr/bibliotheque/symboles-tarot/eau/), ni l’horizon ouvert de [la mer](/fr/bibliotheque/symboles-tarot/mer/).
+Une rivière, c’est de l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/), donc du sentiment. Mais c’est de l’eau qui bouge, ce qui dans mes notes veut dire émotion forte — ni le bassin immobile de [l’eau à portée de main](/fr/bibliotheque/symboles-tarot/eau/), ni l’horizon ouvert de [la mer](/fr/bibliotheque/symboles-tarot/mer/).
 
 ## Le revers {#revers}
 

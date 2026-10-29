@@ -27,7 +27,7 @@ Ne rien attendre, c’est lâcher le frein. J’arrête de vérifier à chaque p
 
 ## Comment j’ai compté ? {#decompte}
 
-Dans un carnet à deux colonnes : ce que j’ai dit, et ce que la personne a confirmé. Environ trois cents tirages pour des inconnus, tous gratuits, surtout en ligne — des serveurs Discord, des appels de groupe, un live — et quelques-uns en face à face.
+Dans un carnet à deux colonnes : ce que j’ai dit, et ce que la personne a confirmé. Environ trois cents tirages pour des inconnus, tous gratuits : la plupart à distance, sur Discord, en appel de groupe ou pendant un live, et quelques-uns en face à face.
 
 Juste, quand la personne se reconnaissait, qu’elle réagisse pendant que je parlais ou qu’elle le confirme après. Raté, quand rien ne touchait ou qu’elle me le disait. Un raté est un raté. Je ne le reformule pas, je n’ajoute aucune carte pour le rattraper, et il ne change de colonne que si la personne revient avec quelque chose qui s’est réellement passé.
 
@@ -39,7 +39,7 @@ Un tirage montre où vous en êtes, émotionnellement, le jour où il a lieu, et
 
 ## Qu’est-ce qui ne marche pas ? {#ce-qui-ne-marche-pas}
 
-La pression, la mienne ou celle de l’autre. Parfois, rien ne vient : je force trop, ou la personne a peur de ce qu’elle pourrait entendre. La peur en général joue contre la lecture, parce que lire demande de s’ouvrir et que la peur fait se fermer, se recroqueviller. Moins je nourris mon imagination de choses effrayantes, plus la lecture devient facile.
+La pression, la mienne ou celle de l’autre. Parfois, rien ne vient : je force trop, ou la personne redoute ce que les cartes pourraient lui apprendre. La peur en général joue contre la lecture, parce que lire demande de s’ouvrir et que la peur fait se fermer, se recroqueviller. Moins je nourris mon imagination de choses effrayantes, plus la lecture devient facile.
 
 Lire quelqu’un qui n’a rien demandé. Une personne lue sans le savoir reste close : on attrape trois mots, et on en fait une certitude. D’où, entre autres, [ma règle de ne pas lire sur les absents](/fr/avertissements/#refus).
 
@@ -57,4 +57,4 @@ C’est sur la page des avertissements, avec tout le reste, pour ne pas le rép�
 
 ## Et maintenant ?
 
-Si vous voulez voir ce que ça donne : [les événements gratuits](/fr/evenements/). Si vous voulez l’apprendre : [les ateliers](/fr/ateliers/) ou [une session](/fr/sessions/). Si vous préférez d’abord vérifier : [la Bibliothèque](/fr/bibliotheque/) est gratuite, et le [blog](/fr/blog/) publie les chiffres au fur et à mesure.
+Envie de voir ce que ça donne, en direct : [les événements gratuits](/fr/evenements/). Envie d’apprendre : [les ateliers](/fr/ateliers/) ou [une session](/fr/sessions/). Besoin de vérifier d’abord : [la Bibliothèque](/fr/bibliotheque/) est gratuite, et le [blog](/fr/blog/) publie les chiffres au fur et à mesure.

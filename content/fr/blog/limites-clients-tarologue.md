@@ -27,7 +27,7 @@ Deux autres situations appellent une limite, même sur un sujet anodin. Quelqu�
 
 1. Reconnaître pourquoi la personne demande. C’est presque toujours l’inquiétude, l’amour ou la peur, et ça mérite d’être nommé en premier : « Vous demandez parce que vous avez peur pour elle. C’est normal. »
 2. Dire avec douceur ce qui empêche un tirage d’y répondre. Pas « je ne peux pas », mais « voilà pourquoi » : « La santé reste en dehors de mes tirages. Je me trompe parfois — à peu près une lecture sur dix —, et sur cette question, une erreur pourrait vous faire du mal. »
-3. Proposer ce qui aide : [une question plus douce à poser](/fr/blog/questions-a-eviter-tarot/), ce qu’un tirage peut accueillir en attendant, ou le professionnel qui a vraiment la réponse.
+3. Proposer ce qui aide : [une question reformulée](/fr/blog/questions-a-eviter-tarot/), ce qu’un tirage peut accueillir en attendant, ou le professionnel qui a vraiment la réponse.
 
 Imaginons qu’une personne s’assoie, ne vous dise rien, et vous demande à la fin du tirage si l’opération de son père va bien se passer. Première étape : « Bien sûr que vous voulez savoir. Vous l’aimez. » Deuxième : « C’est une question pour son chirurgien, et je n’aimerais pas qu’une carte prenne la place de sa réponse. » Troisième : « Ce que je peux regarder avec vous, c’est comment vous tenez le coup pendant l’attente. On y va ? »
 
@@ -44,7 +44,7 @@ La bonne porte dépend de la question.
 | Un procès, un litige, un contrat | Un avocat | Ce qui l’aide à tenir pendant la procédure |
 | Un placement, une dette, un gros achat | Un conseiller financier | Ce que « valeur » veut dire pour elle, au-delà du montant |
 | Un poids porté depuis longtemps | Un psy, un thérapeute | Le nommer, pas le porter |
-| « Est-ce qu’il m’aime ? », « Qu’est-ce qu’elle prépare ? » | La personne concernée, en lui parlant | Ce que ressent la personne en face de moi |
+| « Est-ce qu’il m’aime ? », « Qu’est-ce qu’elle prépare ? » | La personne concernée, en lui parlant | Les sentiments de la personne qui consulte |
 
 Les malédictions ont droit à leur ligne. Quelqu’un qui se croit maudit est en général épuisé par une série de coups durs, et cette fatigue est réelle. La réponse gentille, c’est que personne ne devrait lui faire payer un désenvoûtement, parce que [cette offre est l’arnaque elle-même](/fr/blog/malediction-voyance-arnaque/), et qu’une série de mois difficiles mérite d’être déposée chez quelqu’un dont c’est le métier.
 

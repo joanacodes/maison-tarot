@@ -57,6 +57,6 @@ whereTitle: "Où la Maison reçoit, en français"
 ---
 Bienvenue à Maison Tarot. Ici, on apprend à lire les cartes, on vérifie si ça marche, et on garde ce qui tient.
 
-Trois cents tirages sans indice de départ, chacun noté puis vérifié : mes chiffres sont publiés, erreurs comprises. Je ne vends pas de don, parce que je n’en ai pas que vous n’ayez pas. J’enseigne une méthode : des clés de lecture pour lire une carte que vous n’avez jamais vue, sans mémoriser les 78.
+Trois cents tirages sans indice de départ, chacun noté puis vérifié : mes chiffres sont publiés, erreurs comprises. Je ne vends pas de don, parce que je n’en ai pas que vous n’ayez pas. J’enseigne une méthode : des clés de lecture grâce auxquelles même une carte inconnue vous parle, sans apprendre les 78 par cœur.
 
 La Maison a des règles. Pas de hiérarchie entre lecteurs, pas de dépendance, pas de gourou. Vous êtes la personne qui décide ; les cartes ne servent que de support. Le but, écrit noir sur blanc : que vous n’ayez plus besoin de nous.

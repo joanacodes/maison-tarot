@@ -28,7 +28,7 @@ faq:
 - q: Roi de Bâtons renversé, ça change quoi ?
   a: 'Le feu devient tyrannique, avec l’impatience, les colères et le chef qui n’écoute personne, ou bien il s’éteint, et le visionnaire cesse de croire à sa propre idée. Posez la question du Roi : ce pouvoir sert qui, maintenant ?'
 - q: Le Roi de Bâtons, c’est une personne ?
-  a: 'Ce peut être un patron, un mentor ou un entrepreneur autour de vous, homme ou femme. Ce peut être vous aussi, au moment où l’on vous demande de mener votre propre projet au lieu d’attendre une permission.'
+  a: 'Ce peut être un patron, un mentor ou un entrepreneur autour de vous, homme ou femme. Ou bien vous-même, quand on vous demande de prendre la tête de votre propre projet plutôt que d’attendre une permission.'
 categories:
 - Bâtons
 tags:

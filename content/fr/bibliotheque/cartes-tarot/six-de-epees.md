@@ -59,7 +59,7 @@ Un ciel gris pâle sur tout : neutre, stable, sans drame. L’eau est d’un [bl
 
 ## Par l’astrologie : Mercure en Verseau {#astrologie}
 
-Le deuxième décan du Verseau, sous [Mercure](/fr/bibliotheque/astrologie/mercure/), revient au Six d’Épées. Mercure, c’est la façon dont vous pensez et dont vous parlez ; le Verseau, l’idée neuve, le pont entre l’ancien et le nouveau. Ensemble : un esprit qui a trouvé le passage. Prenez cette clé ou non ; la barque avance sans elle.
+Le deuxième décan du Verseau, sous [Mercure](/fr/bibliotheque/astrologie/mercure/), revient au Six d’Épées. Mercure règle votre façon de réfléchir et de vous exprimer ; le Verseau apporte l’idée neuve, celle qui relie ce qui était à ce qui vient. Ensemble : un esprit qui a trouvé le passage. Prenez cette clé ou non ; la barque avance sans elle.
 
 ## En lecture {#lecture}
 
@@ -67,7 +67,7 @@ Le deuxième décan du Verseau, sous [Mercure](/fr/bibliotheque/astrologie/mercu
 
 Renversé, la traversée cale. La barque reste à quai, ou fait demi-tour à mi-chemin parce que les eaux agitées, au moins, on les connaissait. Dans l’excès, c’est la personne qui part chaque fois que ça devient dur, une nouvelle barque à chaque fois, les six épées toujours à bord.
 
-À côté du [Trois d’Épées](/fr/bibliotheque/cartes-tarot/trois-de-epees/), on voit ce qu’on laisse : la peine est derrière, doucement. À côté du [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/), c’est un départ choisi : on s’éloigne de quelque chose qu’on a construit. À côté du [Chariot](/fr/bibliotheque/cartes-tarot/le-chariot/), la barque lente devient un véhicule, avec une direction et une volonté.
+À côté du [Trois d’Épées](/fr/bibliotheque/cartes-tarot/trois-de-epees/), on voit ce qu’on laisse : la peine est derrière, doucement. Avec le [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/), le départ est voulu : on laisse derrière soi ce qu’on a construit. À côté du [Chariot](/fr/bibliotheque/cartes-tarot/le-chariot/), la barque lente devient un véhicule, avec une direction et une volonté.
 
 {{< cards "sw03 cu08 ar07" >}}
 

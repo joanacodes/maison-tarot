@@ -48,7 +48,7 @@ Regardez ce que le dessin ne montre pas : personne à l’intérieur pour étein
 
 Seize se ramène à [7](/fr/bibliotheque/numerologie/chiffre-7/), le nombre du Chariot : la réflexion, l’analyse avant l’action, la négociation. Sur la Tour, le 7, c’est le bilan qu’on n’avait pas prévu — ce qui ne passe pas l’épreuve tombe, et ce qui reste, c’est ce sur quoi vous pouvez compter.
 
-Le conseil du 7 va à cette carte mieux qu’à aucune autre : tout est temporaire, et votre situation, bonne ou mauvaise, va changer. Dans l’histoire d’Instagram, le 7, c’est la table de négociation où Facebook change le modèle : on y décide ce que l’application deviendra. La Tour, c’est ce moment-là qui arrive sans frapper.
+Le conseil du 7 va à cette carte mieux qu’à aucune autre : tout est temporaire, et votre situation, bonne ou mauvaise, va changer. Dans l’histoire d’Instagram, le 7, c’est Facebook qui revoit le modèle et décide de ce que l’application deviendra. La Tour, c’est ce moment-là qui arrive sans frapper.
 
 ## Par l’élément : Feu {#element}
 

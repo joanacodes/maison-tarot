@@ -60,4 +60,4 @@ Si l’envie vous prend plus tard, à tous les deux, posez les deux thèmes sur 
 3. Si c’est non, c’est la réponse. On en reste là.
 4. Si vous avez déjà regardé, pas de drame. Rangez-le, ne le lui ressortez pas, et ne le laissez rien décider. Vous pouvez aussi le lui avouer ; ça fera peut-être une jolie anecdote.
 
-Et si votre curiosité porte vraiment sur l’astrologie, il existe un thème que vous pouvez lire autant que vous voulez sans rien demander à personne : le vôtre. Commencez par [ce qu’est un thème astral et comment obtenir le vôtre](/fr/blog/quest-ce-quun-theme-astral/), puis testez-le, case par case.
+Et si votre curiosité porte vraiment sur l’astrologie, il existe un thème que vous pouvez lire autant que vous voulez sans rien demander à personne : le vôtre. Commencez par [obtenir votre propre thème, et apprendre à le déchiffrer](/fr/blog/quest-ce-quun-theme-astral/), puis testez-le, case par case.

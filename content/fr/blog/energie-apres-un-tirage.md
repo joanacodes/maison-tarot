@@ -46,7 +46,7 @@ Rien de tout ça ne demande de rituel. Ce sont les conseils que vous donneriez �
 
 Sur la durée, prenez aussi quelques jours sans tirer du tout : on revient souvent en revoyant vraiment les images. J’ai écrit [pourquoi ces pauses font du bien à celui qui lit](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
-Certains aiment marquer la fin par un petit geste : se laver les mains, remettre le jeu dans l’ordre, refermer la boîte. Si ça vous aide à vous arrêter, gardez-le. Je passe en revue ce que l’on fait avant et après un tirage, et ce sur quoi je compte à la place, dans [faut-il se protéger avant de tirer les cartes](/fr/blog/se-proteger-avant-un-tirage/).
+Certains aiment marquer la fin par un petit geste : se laver les mains, remettre le jeu dans l’ordre, refermer la boîte. Si ça vous aide à vous arrêter, gardez-le. Je passe en revue ce que l’on fait avant et après un tirage, et ce sur quoi je compte à la place, dans [ce que je pense des précautions avant de tirer](/fr/blog/se-proteger-avant-un-tirage/).
 
 ## La carte que j’épinglerais au-dessus du bureau {#quatre-d-epees}
 
@@ -54,9 +54,9 @@ Si une carte devait représenter cet article, ce serait le Quatre d’Épées : 
 
 {{< cards "sw04" >}}
 
-Lue avec les clés de lecture, elle dit la même chose que votre corps. Les Épées, c’est l’Air, le mental. Le quatre, c’est la structure, le fruit de votre travail, et dans mes notes son revers, c’est continuer quand il faudrait s’arrêter. Le [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/), c’est le mental posé au repos, avec tous les outils encore à portée de main pour demain.
+Lue avec les clés de lecture, elle dit la même chose que votre corps. Les Épées, c’est l’Air, le mental. Le quatre, c’est la structure, le fruit de votre travail ; mes notes lui prêtent un revers, l’obstination à poursuivre quand l’heure serait à la pause. Le [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/), c’est le mental posé au repos, avec tous les outils encore à portée de main pour demain.
 
-Elle rappelle aussi que ce ne sont pas les cartes qui se fatiguent. Si vous vous posiez la question : [votre jeu n’a pas besoin de repos](/fr/blog/cartes-tarot-fatiguees/). Vous, si.
+Elle rappelle aussi qui se fatigue vraiment, et ce n’est pas le jeu. Si vous vous posiez la question : [votre jeu n’a pas besoin de repos](/fr/blog/cartes-tarot-fatiguees/). Vous, si.
 
 ## Quand la fatigue ne passe pas {#quand-ca-dure}
 
@@ -68,4 +68,4 @@ Je comprends la tentation de l’expliquer par l’énergie : vous auriez absorb
 
 ## Avant votre prochaine soirée de tirages {#prochaine-etape}
 
-Notez trois choses sur un papier avant la première carte : l’heure à laquelle vous vous arrêterez, le nombre de personnes, et ce que vous mangerez après. Puis tenez-vous-y, même si la soirée se passe bien. Si c’est vous qui organisez la soirée, [organiser une soirée de tirages gratuits en ligne](/fr/blog/soiree-tirage-gratuit/) détaille le minutage, les pauses et la limite de temps par personne.
+Notez trois choses sur un papier avant la première carte : l’heure à laquelle vous vous arrêterez, le nombre de personnes, et ce que vous mangerez après. Puis tenez-vous-y, même si la soirée se passe bien. Si c’est vous qui organisez la soirée, [mon guide pour animer une soirée de lectures en ligne](/fr/blog/soiree-tirage-gratuit/) détaille le minutage, les pauses et la limite de temps par personne.

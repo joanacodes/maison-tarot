@@ -17,7 +17,7 @@ Le tarot ne ramène personne, et il ne peut pas vous dire si la personne disparu
 
 Le deuil n’est pas un seul sentiment. C’est de la tristesse, mais aussi de la colère, de la culpabilité, de l’engourdissement, parfois du soulagement, souvent tout cela dans le même après-midi. Quand mon meilleur ami est mort d’un cancer, j’étais en colère, pas seulement triste. La colère fait partie du deuil, elle aussi, et elle mérite une place sur la table.
 
-Une carte peut lui donner cette place. Imaginons que vous tiriez le Cinq d’Épées un soir où vous en voulez à tout le monde, y compris à la personne partie. Pas besoin de livre : un homme qui ramasse des épées pendant que deux autres s’éloignent vous dit qu’il y a une dispute en vous, et personne avec qui l’avoir. La voir dessinée aide à la dire à voix haute.
+Une carte peut lui donner cette place. Un soir où vous en voulez à tout le monde, y compris à la personne partie, le Cinq d’Épées sort du paquet. Pas besoin de livre : un vainqueur qui rafle les lames, deux silhouettes qui tournent le dos, et vous comprenez qu’une dispute se joue en vous, sans personne en face pour la mener. La voir dessinée aide à la dire à voix haute.
 
 Les cartes peuvent aussi tenir un souvenir, le temps d’un instant. Une carte chaleureuse fait revenir un dîner, une blague, une promenade, et vous pouvez l’écrire avant qu’il ne s’efface. Et les soirs trop longs, mélanger donne à vos mains quelque chose de doux à faire.
 
@@ -27,7 +27,7 @@ Les cartes peuvent aussi tenir un souvenir, le temps d’un instant. Une carte c
 
 Est-elle en paix ? M’entend-il ? M’a-t-elle pardonné ? Aurais-je pu faire quelque chose ? Quand est-ce que ça cessera de faire mal ?
 
-Ce sont les questions qu’on apporte, et elles viennent de l’amour, souvent aussi d’une culpabilité qui ne sait pas où aller. Je comprends qu’on veuille qu’une carte y réponde. Je ne lis pas sur ces questions, et voici pourquoi : une carte ne peut pas savoir, et si elle semble répondre, c’est vous qui remplissez la réponse. Sur un sujet aussi tendre, une mauvaise réponse peut vous accompagner des années. Chez moi, une lecture sur dix passe à côté ; c’est acceptable pour une question sur votre semaine, c’est trop pour celle-ci. J’en dis plus dans [pourquoi je m’écarte des questions de santé et de décès](/fr/blog/sante-grossesse-deces-tarot/).
+Ce sont les questions qu’on apporte, et elles viennent de l’amour, souvent aussi d’une culpabilité qui ne sait pas où aller. Je comprends qu’on veuille qu’une carte y réponde. Je ne lis pas sur ces questions, et voici pourquoi : une carte ne peut pas savoir, et si elle semble répondre, c’est vous qui remplissez la réponse. Sur un sujet aussi tendre, une mauvaise réponse peut vous accompagner des années. Chez moi, une lecture sur dix passe à côté ; c’est acceptable pour une question sur votre semaine, c’est trop pour celle-ci. J’en dis plus dans [ce qui me tient à l’écart des questions de mort et de maladie](/fr/blog/sante-grossesse-deces-tarot/).
 
 Ce qui aide à la place : écrivez-lui une lettre avec la question dedans, et gardez-la. Racontez votre souvenir à quelqu’un qui l’a connu. Et interrogez les cartes sur vous : c’est la part qu’elles peuvent porter.
 
@@ -59,7 +59,7 @@ Le deuil prend le temps qu’il prend, et il n’y a aucun calendrier à tenir. 
 - vous tirez les cartes chaque soir pour vous sentir près de la personne, ou pour reposer la même question ;
 - vous avez des pensées de ne plus vouloir être là.
 
-Alors la porte est celle d’une personne : une amie d’abord, votre médecin traitant, un psychologue ou une association d’accompagnement du deuil. [Tout ne relève pas des cartes](/fr/avertissements/#therapie), et frapper à cette porte, ce n’est abandonner personne. Si vous pensez à mettre fin à vos jours, appelez maintenant : en France, le 3114 répond jour et nuit, gratuitement ; en cas de danger immédiat, le 15 ou le 112. Au Québec et dans tout le Canada, c’est le 988.
+Alors la porte est celle d’une personne : une proche pour commencer, votre généraliste, un psychologue ou une association d’accompagnement du deuil. [Un chagrin peut demander plus qu’un tirage](/fr/avertissements/#therapie), et frapper à cette porte, ce n’est abandonner personne. Si vous pensez à mettre fin à vos jours, appelez maintenant : en France, le 3114 est joignable gratuitement, à toute heure ; si le danger est immédiat, faites le 15 ou le 112. Au Québec et dans tout le Canada, c’est le 988.
 
 Si vous tirez chaque soir, essayez quelques soirs sans le jeu. Il ne s’agit pas d’oublier. Il s’agit de laisser de la place à celles et ceux qui sont encore là ; j’en parle dans [pourquoi poser son jeu un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 

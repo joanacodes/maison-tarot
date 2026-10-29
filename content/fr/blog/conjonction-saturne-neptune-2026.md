@@ -33,7 +33,7 @@ Le précédent préféré des astrologues, c’était 1989. La dernière rencont
 
 ## Ce qu’elle voulait dire, huit mois après {#huit-mois-apres}
 
-Je ne peux pas vous dire ce qu’elle a fait au monde, et je me méfierais de quiconque prétend le pouvoir. Les prévisions étaient larges : des fins, des débuts, des illusions qui tombent, des idéaux qui prennent forme. Sur huit milliards de vies, une prévision aussi large ne peut pas rater — quelque chose finit toujours, quelque chose commence toujours. Une correspondance trouvée après coup fait une belle histoire ; une prévision écrite avant, assez précise pour être fausse, fait un test.
+Ce qu’elle a fait au monde, je ne peux pas vous le dire, et je resterais prudente devant toute personne qui l’affirme. Les prévisions étaient larges : des fins, des débuts, des illusions qui tombent, des idéaux qui prennent forme. Sur huit milliards de vies, une prévision aussi large ne peut pas rater — quelque chose finit toujours, quelque chose commence toujours. Une correspondance trouvée après coup fait une belle histoire ; une prévision écrite avant, assez précise pour être fausse, fait un test.
 
 **Il faut aussi dire ce que couvrent mes propres chiffres.** Dans mon test, Saturne tenait à 75-90 % comme position de naissance : là où il se trouvait, les gens reconnaissaient leur leçon la plus dure ([les trois positions qui ont tenu](/fr/blog/saturne-lilith-chiron/)). Cela mesure Saturne natal décrivant une personne. Cela ne dit rien des transits de Saturne, ni des événements du monde. Je ne les ai jamais testés, et les chiffres ne vont pas jusque-là.
 

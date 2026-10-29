@@ -61,7 +61,7 @@ Un ciel [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) : l’émotion, la vitalit
 
 ## Par l’astrologie : Mars en Poissons {#astrologie}
 
-Le dernier décan des Poissons, celui du Dix de Coupes, revient à [Mars](/fr/bibliotheque/astrologie/mars/). Mars, c’est l’action, le désir, la façon de prendre ce qu’on veut. Dans les Poissons, cette énergie sert à protéger et à pourvoir plutôt qu’à se battre. L’association est étrange pour une carte aussi paisible, et elle dit quelque chose d’utile : ce bonheur-là a été travaillé.
+Le dernier décan des Poissons, celui du Dix de Coupes, revient à [Mars](/fr/bibliotheque/astrologie/mars/). Mars, c’est l’action et l’appétit : aller chercher ce qu’on désire. Dans les Poissons, cette énergie sert à protéger et à pourvoir plutôt qu’à se battre. L’association est étrange pour une carte aussi paisible, et elle dit quelque chose d’utile : ce bonheur-là a été travaillé.
 
 Rien ne vous oblige à la garder : la famille sous l’arc-en-ciel suffit.
 

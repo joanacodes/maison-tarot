@@ -17,7 +17,7 @@ Voici comment je le dirais, depuis la chaise où je m’assieds le plus souvent,
 
 ## Avant le tirage {#avant}
 
-Venez avec une question en tête, et gardez-la pour vous, avec tout le reste : pas de contexte, pas de « c’est au sujet de mon ex », pas de prénom si on est en ligne. Ça paraît bizarre, je sais. C’est aussi la seule façon de savoir après coup si la lecture venait des cartes ou de ce que vous avez raconté ; je l’explique dans [la règle du silence](/fr/blog/regle-du-silence-tarot/).
+Venez avec une question en tête, et gardez-la pour vous, avec tout le reste : ni contexte, ni allusion à votre ex, ni prénom quand on se voit en ligne. Ça paraît bizarre, je sais. Sans ça, impossible de savoir après coup si la lecture venait des cartes ou de ce que vous avez raconté ; je l’explique dans [la règle du silence](/fr/blog/regle-du-silence-tarot/).
 
 Laissez les autres en dehors. Un tirage est pour la personne assise en face, pas pour un conjoint, un patron ou une mère qui ne sont pas dans la pièce. Vous n’aimeriez pas qu’on fouille dans les tiroirs de votre chambre pendant votre absence, et lire l’énergie de quelqu’un sans son accord n’en est pas loin.
 
@@ -42,7 +42,7 @@ Demandez avant de toucher le jeu de quelqu’un d’autre. Il n’y a rien de my
 
 Si quelque chose vous paraît trop lourd, dites-le. Un bon tarologue ralentira, changera ses mots, ou s’arrêtera. Il y a des choses qu’on n’est pas prêt à entendre un jour donné, et c’est permis.
 
-Retournez votre téléphone. Et si vous voulez garder une trace de ce qui se dit, demandez si vous pouvez prendre des notes.
+Retournez votre téléphone. Pour garder une trace des échanges, demandez d’abord la permission de noter.
 
 ## Après le tirage {#apres}
 
@@ -52,7 +52,7 @@ Dites clairement ce qui a touché juste et ce qui n’a rien donné. « Ça, c�
 
 Laissez reposer. Certains tirages prennent sens sur le moment, d’autres au bout de quelques jours. [Mon tout premier tirage pour une inconnue](/fr/blog/premier-tirage-tarot/) avait « raté » le jour même, et s’est réalisé quelques jours plus tard. Si quelque chose fait tilt plus tard, le dire à votre tarologue est un très joli geste.
 
-Écrivez-le le jour même, avant que votre mémoire ne fasse le ménage. En une semaine, on retient en général ce qui a touché juste et on oublie le reste ; une note garde les deux, et c’est la seule façon de juger le tirage honnêtement plus tard.
+Écrivez-le le jour même, avant que votre mémoire ne fasse le ménage. En une semaine, on retient en général ce qui a touché juste et on oublie le reste ; une note garde les deux, et vous pourrez ainsi juger le tirage honnêtement plus tard.
 
 Ne reposez pas la même question tout de suite. Un deuxième tirage sur la même inquiétude nourrit souvent l’inquiétude plutôt que la réponse ; j’en parle dans [reposer la même question au tarot](/fr/blog/combien-de-temps-entre-deux-tirages/).
 
@@ -73,4 +73,4 @@ Les manières du tarologue comptent tout autant, et elles sont un peu plus stric
 
 Avant : le consentement, le silence, pas d’absents. Pendant : un visage calme, demander avant de toucher, dire stop si besoin. Après : un retour honnête, pas de question répétée, votre propre décision.
 
-Si vous voulez voir ces bonnes manières en pratique avant de vous asseoir pour votre propre tirage, venez à l’un des [événements gratuits](/fr/evenements/) : les personnes que je lis y sont choisies au hasard, personne ne dit rien avant, et tout se confronte à la fin.
+Pour observer ces bonnes manières avant de vous asseoir pour votre propre tirage, passez à l’un des [événements gratuits](/fr/evenements/) : les personnes que je lis y sont choisies au hasard, personne ne dit rien avant, et tout se confronte à la fin.

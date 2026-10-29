@@ -55,11 +55,11 @@ Quand Instagram connaît son grand succès, très vite, il se dote d’une équi
 
 L’Empereur est une carte de [Feu](/fr/bibliotheque/quatre-elements/element-feu/) : la création, la destruction, l’impulsion. Dans mes notes, c’est le père, et le Feu explique son genre d’autorité — il forge, il protège, il éclaire. Il donne des ordres ; il n’en reçoit pas.
 
-Un 4 de Feu, c’est le feu dans l’âtre : contenu, utile, qui chauffe la maison. Sous sa robe de roi, il est prêt pour la guerre, et c’est le revers que je note pour cette carte : comme le feu, il peut tout détruire, vite, quand personne ne surveille les flammes.
+Un 4 de Feu, c’est le feu dans l’âtre : contenu, utile, qui chauffe la maison. Sous sa robe de roi, il est prêt pour la guerre, et mes notes lui donnent ce moins-là : comme le feu, il peut tout détruire, vite, quand personne ne surveille les flammes.
 
 ## Par les couleurs {#couleurs}
 
-Le rouge et l’orange dominent : la robe, le ciel, les montagnes. Ce [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) porte la passion et l’action, la force, l’élan : l’énergie masculine, un corps qui agit. Celui de l’Empereur est un rouge profond, mûr ; dans ma grille, cette nuance tire vers le violet, la couleur de celui qu’un groupe a désigné pour le diriger. Le gris du trône : la stabilité, la matière qui ne bouge pas. L’or de la couronne et du globe : un pouvoir gagné, ou pris.
+Le rouge et l’orange dominent : la robe, le ciel, les montagnes. Ce [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) porte la passion et l’action, la force, l’élan : l’énergie masculine, un corps qui agit. Celui de l’Empereur est un rouge profond, mûr ; dans ma grille, cette nuance tire vers le violet, la couleur de celui qu’un groupe a désigné pour le diriger. Le gris du trône dit la stabilité : une matière qui reste en place. L’or de la couronne et du globe : un pouvoir gagné, ou pris.
 
 ## Par l’astrologie : Bélier {#astrologie}
 
@@ -71,7 +71,7 @@ La Golden Dawn donne à l’Empereur le [Bélier](/fr/bibliotheque/astrologie/be
 
 Renversé, le feu sort de l’âtre ou s’éteint. Soit les règles se durcissent et l’autorité tourne au contrôle — le chef qui ne délègue rien, le parent qui décide de tout —, soit il n’y a plus de structure du tout, et rien ne tient.
 
-À côté de l’[Impératrice](/fr/bibliotheque/cartes-tarot/l-imperatrice/), c’est 3 puis 4 : ce qui pousse, puis ce qui le protège. À côté du [Deux de Bâtons](/fr/bibliotheque/cartes-tarot/deux-de-batons/) — un autre homme globe en main, qui regarde au loin du haut d’un rempart, et une carte du Bélier, elle aussi —, le royaume commence à paraître petit. À côté de la [Tour](/fr/bibliotheque/cartes-tarot/la-tour/), la structure va être mise à l’épreuve par le feu. **L’Empereur protège ce qu’il gouverne, et la lecture demande si les murs servent encore ceux qui vivent dedans.**
+Avec l’[Impératrice](/fr/bibliotheque/cartes-tarot/l-imperatrice/) juste avant lui, le 3 passe au 4 : la croissance, puis l’enceinte qui la garde. À côté du [Deux de Bâtons](/fr/bibliotheque/cartes-tarot/deux-de-batons/) — un autre homme globe en main, qui regarde au loin du haut d’un rempart, et une carte du Bélier, elle aussi —, le royaume commence à paraître petit. À côté de la [Tour](/fr/bibliotheque/cartes-tarot/la-tour/), la structure va être mise à l’épreuve par le feu. **L’Empereur protège ce qu’il gouverne, et la lecture demande si les murs servent encore ceux qui vivent dedans.**
 
 {{< cards "ar03 wa02 ar16" >}}
 
@@ -85,7 +85,7 @@ Imaginons quelqu’un qui vient d’être promu à la tête de l’équipe dont 
 
 Renversé, les règles se durcissent en contrôle — relire chaque mail, confondre respect et peur —, ou le trône reste vide et plus personne ne décide.
 
-« Qu’est-ce que mon chef pense de moi ? » Question naturelle avec cette carte : cette personne tient une part de votre vie professionnelle. Mais votre chef n’est pas dans la pièce. L’Empereur donne des ordres ; un tirage ne devrait pas. Une question plus douce : « De quoi ai-je besoin de mes supérieurs, et comment le leur demander clairement ? » Si l’inquiétude porte sur votre contrat ou la façon dont on vous traite, les RH ou un élu du CSE vous diront où vous en êtes.
+« Qu’est-ce que mon chef pense de moi ? » Question naturelle avec cette carte : cette personne tient une part de votre vie professionnelle. Mais votre chef n’est pas dans la pièce. L’Empereur donne des ordres ; un tirage ne devrait pas. La question qui vous rend la main : « De quoi ai-je besoin de mes supérieurs, et comment le leur demander clairement ? » Si l’inquiétude porte sur votre contrat ou la façon dont on vous traite, les RH ou un élu du CSE vous diront où vous en êtes.
 
 Cette semaine, demandez un retour à une personne et appliquez-en un point — la seule chose que l’Empereur ne fait jamais.
 

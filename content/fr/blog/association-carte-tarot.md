@@ -115,7 +115,7 @@ Ce sont les paires sur lesquelles on m’interroge le plus, et celles où l’or
 
 ### La Tour, puis le Huit de Pentacles {#tour-huit-pentacles}
 
-*7 → 8 · Feu → Terre.* Après l’effondrement, on reconstruit à la main, pierre par pierre — Rome ne s’est pas faite en un jour. Le Feu et la Terre sont neutres l’un pour l’autre : l’énergie du choc passe dans le travail.
+*7 → 8 · Feu → Terre.* Ce qui s’est écroulé se rebâtit ensuite de ses propres mains, une pierre après l’autre — Rome ne s’est pas faite en un jour. Le Feu et la Terre sont neutres l’un pour l’autre : l’énergie du choc passe dans le travail.
 
 ### L’Étoile, puis le Soleil {#etoile-soleil}
 
@@ -133,7 +133,7 @@ Ce sont les paires sur lesquelles on m’interroge le plus, et celles où l’or
 
 Le Soleil à côté du Cinq de Coupes a l’air d’une erreur. Ce n’en est pas une : la vie tient souvent les deux à la fois, et une paire qui tire dans deux sens décrit exactement cela. Lisez la tension elle-même — « une réussite avec un chagrin dedans » — avant de chercher quelle carte l’emporte.
 
-Ce que je ne fais pas, c’est tirer une troisième carte pour trancher. Une carte de plus brouille le tirage plus qu’elle ne l’éclaire, comme je l’explique dans [la carte de clarification](/fr/blog/carte-de-clarification-tarot/). Si la paire ne dit rien à la personne, c’est un raté, et je le note comme tel.
+Ce que je ne fais pas, c’est tirer une troisième carte pour trancher. Une carte de plus brouille le tirage plus qu’elle ne l’éclaire, comme je l’explique dans [la carte de clarification](/fr/blog/carte-de-clarification-tarot/). Si la paire ne parle pas à la personne, j’inscris un raté dans mon carnet, sans chercher à le rattraper.
 
 ## Entraînez-vous avec vos propres paires {#entrainement}
 

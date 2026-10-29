@@ -47,7 +47,7 @@ gallery:
 ---
 ## Ce que dit la clé {#definition}
 
-Une clé, c’est une permission qu’on tient dans la main. Celui qui l’a décide qui entre. **La clé dit : il y a un accès, et toute la question est de savoir qui le détient — vous, ou quelqu’un à qui il faut le demander.** Pensez au premier matin dans un nouveau travail, quand on vous remet votre badge : le bâtiment n’a pas changé, mais ses portes s’ouvrent désormais pour vous.
+Une clé, c’est une permission qu’on tient dans la main. Celui qui l’a décide qui entre. **La clé dit : il y a un accès, reste à savoir entre quelles mains il se trouve — les vôtres, ou celles de quelqu’un à qui il faut le demander.** Pensez au premier matin dans un nouveau travail, quand on vous remet votre badge : le bâtiment n’a pas changé, mais ses portes s’ouvrent désormais pour vous.
 
 {{< zoom "key" "lead" >}}
 
@@ -61,7 +61,7 @@ Sur [le Hiérophante](/fr/bibliotheque/cartes-tarot/le-hierophante/), deux clés
 
 Pour autant que je puisse en juger sur l’édition de 1909, ce sont les seules clés du jeu. Ça les rend d’autant plus parlantes.
 
-Plusieurs cartes parlent d’accès sans dessiner de clé. La Grande Prêtresse est assise devant un voile, un rouleau à moitié caché dans sa robe : ce qu’il y a derrière elle n’est pas sous clé, et ce n’est pas distribué non plus. Le Huit d’Épées montre une femme ligotée, les yeux bandés, au milieu des épées, sans la moindre serrure ; dans mes notes, elle est prisonnière d’elle-même alors qu’elle a tous les outils, et elle peut retirer son bandeau. Le Quatre de Pentacles serre une pièce contre sa poitrine et en garde d’autres sous ses pieds et sur sa couronne : un homme devenu sa propre serrure.
+Plusieurs cartes parlent d’accès sans dessiner de clé. Derrière la Grande Prêtresse pend un voile, et un rouleau dépasse à moitié de sa robe : ce que le voile dérobe n’est pas sous clé, et ce n’est pas distribué non plus. Le Huit d’Épées montre une femme ligotée, les yeux bandés, au milieu des épées, sans la moindre serrure ; dans mes notes, elle est prisonnière d’elle-même alors qu’elle a tous les outils, et elle peut retirer son bandeau. Le Quatre de Pentacles serre une pièce contre sa poitrine et en garde d’autres sous ses pieds et sur sa couronne : un homme devenu sa propre serrure.
 
 {{< cards "ar02 sw08 pe04" >}}
 

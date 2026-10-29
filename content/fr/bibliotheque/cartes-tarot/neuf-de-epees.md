@@ -63,7 +63,7 @@ Le [noir](/fr/bibliotheque/couleurs-tarot/noir/) occupe presque toute la carte. 
 
 ## Par l’astrologie : Mars en Gémeaux {#astrologie}
 
-On range le Neuf d’Épées sous Mars, dans le deuxième décan des Gémeaux. [Mars](/fr/bibliotheque/astrologie/mars/) dit comment on agit et comment on se bat ; les Gémeaux, c’est « je pense », le signe des mots et des échanges. Ensemble : un combat qui se livre dans la tête — la dispute qu’on rejoue, la conversation du lendemain répétée dix fois. Si cette clé ne vous dit rien, les épées au-dessus du lit montrent déjà ce combat.
+On range le Neuf d’Épées sous Mars, dans le deuxième décan des Gémeaux. [Mars](/fr/bibliotheque/astrologie/mars/) règle la manière d’agir et de se battre ; les Gémeaux, c’est « je pense », le signe des mots et des échanges. Ensemble : un combat qui se livre dans la tête — la dispute qu’on rejoue, la conversation du lendemain répétée dix fois. Si cette clé ne vous dit rien, les épées au-dessus du lit montrent déjà ce combat.
 
 ## En lecture {#lecture}
 

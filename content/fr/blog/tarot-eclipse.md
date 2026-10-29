@@ -15,9 +15,9 @@ Oui, vous pouvez tirer les cartes pendant une éclipse. Une éclipse n’abîme 
 
 ## Ce qu’est une éclipse, et la saison des éclipses {#definitions}
 
-Une éclipse de Soleil, c’est quand la Lune passe entre la Terre et le Soleil et le cache en partie ou en totalité. Elle ne peut arriver qu’à la nouvelle lune. Une éclipse de Lune, c’est quand l’ombre de la Terre tombe sur la Lune, et elle ne peut arriver qu’à la pleine lune.
+Une éclipse de Soleil se produit quand la Lune s’interpose entre nous et le Soleil, au point de le masquer en partie ou en totalité. Elle ne peut arriver qu’à la nouvelle lune. Une éclipse de Lune, c’est quand l’ombre de la Terre tombe sur la Lune, et elle ne peut arriver qu’à la pleine lune.
 
-La saison des éclipses, c’est la fenêtre pendant laquelle les éclipses sont possibles : un peu plus d’un mois, environ deux fois par an, quand une nouvelle ou une pleine lune tombe près des deux points où la trajectoire de la Lune croise celle du Soleil. La plupart des saisons comptent deux éclipses, à deux semaines d’intervalle — une solaire, une lunaire —, et parfois trois. En astrologie, ces deux points de croisement sont le [Nœud Nord et le Nœud Sud](/fr/blog/noeud-nord-noeud-sud/).
+La saison des éclipses, c’est la fenêtre pendant laquelle les éclipses sont possibles : un peu plus d’un mois, environ deux fois par an, quand la Lune, nouvelle ou pleine, passe à proximité des deux points où son orbite coupe la route apparente du Soleil. La plupart des saisons comptent deux éclipses, à deux semaines d’intervalle — une solaire, une lunaire —, et parfois trois. En astrologie, ces deux points de croisement sont le [Nœud Nord et le Nœud Sud](/fr/blog/noeud-nord-noeud-sud/).
 
 Les astrologues lisent une éclipse de Soleil comme une nouvelle lune amplifiée : un début, souvent imprévu. Une éclipse de Lune, comme une pleine lune amplifiée : quelque chose arrive à son comble ou se referme. Les dates, les signes et les heures de l’année qui vient sont dans [Éclipses 2027](/fr/blog/eclipses-2027/).
 

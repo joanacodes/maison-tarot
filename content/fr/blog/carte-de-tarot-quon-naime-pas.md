@@ -29,7 +29,7 @@ Si vous ne savez pas laquelle est la vôtre, observez ce qui se passe en vous qu
 
 Les goûts et les couleurs ne se discutent pas, dit-on. Au tarot, les couleurs se discutent très bien, et c’est par elles, entre autres, que je vous propose de reprendre la carte. Mettez de côté tout ce que vous en avez entendu, et dites trois choses à voix haute : son nombre, son élément, sa couleur dominante.
 
-Le Dix d’Épées, lu de cette façon. [Le 10](/fr/bibliotheque/numerologie/chiffre-10/) marque un passage : une pièce est derrière vous, la suivante pas encore ouverte. Les Épées sont [l’Air](/fr/bibliotheque/quatre-elements/element-air/) : la pensée, les décisions, l’esprit qui tranche net et qui peut aussi tourner en rond. Les couleurs : un ciel noir au-dessus du personnage, et en dessous, le long de l’horizon, une bande de lumière.
+Le Dix d’Épées, lu de cette façon. [Le 10](/fr/bibliotheque/numerologie/chiffre-10/) marque un passage : une pièce est derrière vous, la suivante pas encore ouverte. Les Épées relèvent de [l’Air](/fr/bibliotheque/quatre-elements/element-air/), le domaine de la tête : on y décide, on y tranche net, on peut aussi y tourner en rond. Les couleurs : un ciel noir au-dessus du personnage, et en dessous, le long de l’horizon, une bande de lumière.
 
 Mis ensemble : une manière de penser est allée aussi loin qu’elle pouvait aller, et c’est fini. Le pire est déjà à terre ; la lumière est au bord de l’image. **Les clés de lecture lisent la carte que vous avez sous les yeux, pas celle qu’on vous a racontée.**
 
@@ -50,7 +50,7 @@ Quand vous avez trouvé les deux faces d’une carte que vous n’aimez pas, vou
 3. Écrivez une ligne dans votre carnet.
 4. Au bout de la semaine, remettez-la dans le jeu, et voyez ce que vous ressentez la prochaine fois qu’elle sort.
 
-D’un jour sur l’autre, l’image vous raconte autre chose, et une carte regardée à neuf chaque matin cesse peu à peu d’être celle que vous aviez décidé qu’elle était. Ça fonctionne comme la carte du jour de [s’entraîner au tarot quand on n’a personne](/fr/blog/sentrainer-au-tarot-seul/), avec une seule carte gardée toute une semaine.
+D’un jour sur l’autre, l’image vous raconte autre chose, et une carte regardée à neuf chaque matin cesse peu à peu d’être celle que vous aviez décidé qu’elle était. Ça fonctionne comme la carte du jour [des exercices en solitaire](/fr/blog/sentrainer-au-tarot-seul/), sauf qu’une seule carte vous accompagne toute la semaine.
 
 ## Quand le rejet vient d’un souvenir {#souvenir}
 

@@ -57,7 +57,7 @@ Dans ses bons jours, cet homme incarne l’archétype de l’Eau, la personne ch
 
 ## Par les couleurs {#couleurs}
 
-Le [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) remplit tout le fond : la joie, l’optimisme, l’expression de soi — et la fierté, qui est sur la même ligne de ma grille. C’est la couleur de quelqu’un d’heureux d’être exactement là où il est. Le tissu [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) sous les coupes, c’est l’émotion, ce qui porte : ce sont littéralement les sentiments qui soutiennent la vitrine. Le bonnet rouge met une pointe d’élan sur sa tête. Bilan des teintes : la joie, la fierté, et des émotions soigneusement rangées.
+Le [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) remplit tout le fond : joie, optimisme, envie de se montrer tel qu’on est — et la fierté, qui est sur la même ligne de ma grille. C’est la couleur de quelqu’un d’heureux d’être exactement là où il est. Le tissu [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) sous les coupes, c’est l’émotion, ce qui porte : ce sont littéralement les sentiments qui soutiennent la vitrine. Le bonnet rouge met une pointe d’élan sur sa tête. Bilan des teintes : la joie, la fierté, et des émotions soigneusement rangées.
 
 ## Par l’astrologie : Jupiter en Poissons {#astrologie}
 

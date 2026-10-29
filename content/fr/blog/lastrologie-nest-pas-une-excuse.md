@@ -26,7 +26,7 @@ Se servir de l’astrologie comme d’une excuse, c’est désigner un signe ou 
 
 La plupart sont des demi-plaisanteries, et j’aime bien que l’astrologie donne aux gens un vocabulaire commun pour rire d’eux-mêmes. Je n’ai aucune envie de gâcher le jeu. La limite que je tracerais est celle-ci : une description, volontiers ; une permission, non.
 
-## Vous n’êtes pas un signe, vous êtes un mélange de tout {#un-melange}
+## « Je suis Scorpion » ne dit qu’une partie du thème {#un-melange}
 
 Quand quelqu’un dit « je suis Scorpion », il veut dire que le Soleil était en Scorpion à sa naissance. C’est une position parmi beaucoup d’autres.
 
@@ -34,17 +34,17 @@ Je l’explique avec une maison. Le Soleil, c’est l’intérieur de la maison.
 
 **Un signe n’est qu’une pièce de la maison ; c’est le thème entier qui vous compose.**
 
-C’est pour ça que « je ne sors pas avec les Scorpions » ne tient pas. On juge toute une maison sur une seule pièce, et on écarte un douzième des gens qu’on pourrait rencontrer sur la foi d’une ligne. Et si vous avez un coup de cœur, j’irais plus loin : [ne cherchez pas son thème du tout](/fr/blog/theme-astral-sans-permission/). Laissez la magie opérer entre vous deux.
+C’est pour ça que « je ne sors pas avec les Scorpions » ne tient pas. On juge toute une maison sur une seule pièce, et on écarte un douzième des gens qu’on pourrait rencontrer sur la foi d’une ligne. Et si vous avez un coup de cœur, j’irais plus loin : [ne cherchez pas son thème du tout](/fr/blog/theme-astral-sans-permission/), et laissez ce qui naît entre vous deux se découvrir sans mode d’emploi.
 
 ## Ce que j’ai trouvé en testant mon propre thème {#ce-que-jai-trouve}
 
-Au départ, l’astrologie n’était pour moi qu’un sujet de moquerie. J’ai lancé une vidéo pour rire, j’ai lu mon propre thème, et il était trop précis pour que j’en rie. Alors je l’ai vérifié position par position, en marquant chacune juste ou fausse, puis j’ai fait de même avec ma famille, mes amis et des inconnus.
+Au départ, l’astrologie n’était pour moi qu’un sujet de moquerie. J’ai lancé une vidéo pour rire, puis j’ai regardé ma propre carte du ciel, et sa précision m’a coupé l’envie de me moquer. Alors je l’ai vérifié position par position, en marquant chacune juste ou fausse, puis j’ai fait de même avec ma famille, mes amis et des inconnus.
 
 Sur l’ensemble des cases, entre 30 et 40 % ont tenu : assez pour décrire une tendance, pas pour excuser quoi que ce soit. Saturne, Lilith et Chiron tenaient bien davantage, de 75 à 90 % du temps. Toute l’histoire est dans [comment j’ai testé mon thème astral](/fr/blog/j-ai-teste-mon-theme-astral/).
 
 Ce que ça veut dire ici : la description d’un signe tombe juste environ une fois sur trois. C’est assez pour être intéressant. Ce n’est pas assez pour vous excuser, et certainement pas pour écarter quelqu’un.
 
-Et puisque le Scorpion est dans le titre : dans mes notes, son verbe est « je désire ». C’est un signe fixe — stable, endurant, et de l’autre côté lent à lâcher prise, surtout sur ses attachements affectifs. Son archétype, c’est la personne qui ne dit rien en soirée et qui attire tous les regards. Vous trouverez davantage sur [la page Scorpion de la Bibliothèque](/fr/bibliotheque/astrologie/scorpion/). Le Scorpion a pour carte la Mort, qui dans mes notes ne parle pas de mourir : c’est la récolte, le recommencement, rendre la vie fertile à nouveau.
+Et puisque le Scorpion est dans le titre : dans mes notes, son verbe est « je désire ». C’est un signe fixe — stable, endurant, et de l’autre côté lent à lâcher prise, surtout sur ses attachements affectifs. Son archétype : l’invité silencieux d’une fête, que tout le monde finit par regarder. Le reste est sur [la fiche du Scorpion](/fr/bibliotheque/astrologie/scorpion/). Le Scorpion a pour carte la Mort, que mes notes séparent de toute idée de décès : elle parle de récolte, de recommencement, d’une vie qu’on rend fertile à nouveau.
 
 {{< cards "ar13" >}}
 
@@ -68,7 +68,7 @@ Les usages que je poserais doucement de côté :
 
 - Excuser un comportement qui blesse quelqu’un.
 - Choisir ou écarter un partenaire selon son signe solaire.
-- Lire le thème de quelqu’un sans le lui demander.
+- Lire le thème de quelqu’un à son insu.
 - La laisser décider pour vous. À une fois sur trois, elle se tromperait deux fois sur trois.
 
 C’est d’ailleurs écrit sur ma [page d’avertissements](/fr/avertissements/#astrologie) : l’astrologie n’est pas une excuse. La prochaine fois que vous vous entendrez dire « parce que je suis… », essayez de finir la phrase autrement : « … et ce que je vais en faire, c’est… ».

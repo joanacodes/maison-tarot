@@ -46,13 +46,13 @@ Dans mon test, Vénus tenait environ une fois sur trois — comme la plupart des
 - Si un ex reprend contact, la question est la même que n’importe quel autre mois : qu’est-ce qui a changé ? Si rien n’a changé, la rétrogradation n’est pas une raison de réessayer. Si quelque chose a changé, elle n’est pas une raison de refuser.
 - Si un mariage, un premier rendez-vous ou un déménagement tombe pendant ces semaines, gardez la date. Rien dans mes chiffres ne justifie de la déplacer.
 - Si le calendrier vous pousse à partir ou à rester, ne confiez pas cette décision à une planète. Elle vous appartient, et vous vivrez avec bien après le 14 novembre.
-- Si vous attendez un signe de quelqu’un, je vous dirais doucement de reposer le téléphone. « Est-ce qu’il va revenir ? » porte sur une personne qui n’est pas dans la pièce, et les cartes ne peuvent pas répondre à sa place. J’explique ailleurs [ce que coûtent les tirages « no contact »](/fr/blog/est-ce-quil-pense-a-moi-tarot/).
+- Si vous attendez un signe de quelqu’un, je vous dirais doucement de reposer le téléphone. « Est-ce qu’il va revenir ? » porte sur un absent, et les cartes ne peuvent pas répondre à sa place. J’explique ailleurs [ce que coûtent les tirages « no contact »](/fr/blog/est-ce-quil-pense-a-moi-tarot/).
 
 **Une rétrogradation peut ouvrir une conversation sur votre couple ; elle ne peut pas l’avoir à votre place.** Et si l’envie vous prend de regarder le thème de quelqu’un avant un rendez-vous, je m’abstiendrais : [laissez la magie opérer entre vous deux](/fr/blog/theme-astral-sans-permission/).
 
 ## Lire Vénus dans les cartes {#dans-les-cartes}
 
-La carte de Vénus, c’est [l’Impératrice](/fr/bibliotheque/cartes-tarot/l-imperatrice/) : son symbole est dessiné sur le bouclier de la reine. L’Impératrice nourrit, donne et fait pousser — le blé à ses pieds le dit. Son revers : elle peut étouffer à force de soins, ou cesser de nourrir. Le Deux de Coupes, gouverné par Vénus, montre deux personnes qui échangent leurs coupes d’égal à égal : l’équité de la Balance en une image.
+La carte de Vénus, c’est [l’Impératrice](/fr/bibliotheque/cartes-tarot/l-imperatrice/) : son symbole est dessiné sur le bouclier de la reine. L’Impératrice nourrit, donne et fait pousser — le blé à ses pieds le dit. Son revers : elle peut étouffer à force de soins, ou cesser de nourrir. Le Deux de Coupes, gouverné par Vénus, montre un couple qui se tend les coupes à hauteur égale : l’équité de la Balance en une image.
 
 {{< cards "ar03 cu02" >}}
 

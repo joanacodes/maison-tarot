@@ -21,7 +21,7 @@ Lue avec les nombres, 11h11 est un 1 dit quatre fois, ou un 11 qui se réduit à
 
 Les lectures varient. La plus connue est une coutume qu’on apprend souvent enfant : faire un vœu à 11h11. D’autres y voient le signe qu’on est aligné avec ce qu’on veut, une porte qui s’ouvre, ou un message d’anges ou de guides. Parmi les [nombres miroirs](/fr/blog/nombres-miroirs/), où un même chiffre revient en série, 11h11 tient le rôle de vedette.
 
-**Quoi que vous mettiez derrière, 11h11 est une pause qu’on vous tend, et c’est à vous de décider à quoi elle sert.**
+**Que vous y voyiez un signe ou non, 11h11 est une pause qu’on vous tend, et c’est à vous de décider à quoi elle sert.**
 
 ## 11h11 en numérologie {#numerologie}
 
@@ -66,4 +66,4 @@ La méthode reste la même : lisez les chiffres. 22h22, c’est 2 et 2, ou 22 �
 
 ## Pour aller plus loin {#pour-aller-plus-loin}
 
-Si vous voulez un nombre qui ne dépend pas d’un coup d’œil à l’horloge, calculez votre [chemin de vie](/fr/blog/chemin-de-vie-numerologie/) : il vient de votre date de naissance et reste le vôtre. La prochaine fois que 11h11 passera, vous aurez deux nombres à comparer.
+Pour un nombre qui ne dépend pas d’un coup d’œil à l’horloge, calculez votre [chemin de vie](/fr/blog/chemin-de-vie-numerologie/) : il vient de votre date de naissance et reste le vôtre. La prochaine fois que 11h11 passera, vous aurez deux nombres à comparer.

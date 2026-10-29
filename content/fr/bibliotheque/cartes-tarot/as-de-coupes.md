@@ -55,7 +55,7 @@ Devant un sentiment aussi neuf, le [chiffre 1](/fr/bibliotheque/numerologie/chif
 
 Les Coupes, c’est l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/) : les émotions, les relations, ce qui nous nourrit de l’intérieur. Dans l’As, c’est la source à l’état pur. Elle n’a pas encore choisi son lit ; elle passe par-dessus le bord de tous les côtés, sans viser personne.
 
-L’eau qui bouge, ce sont les émotions fortes, et celle-ci n’est que mouvement. C’est pour ça que l’As de Coupes parle aux personnes qui ressentent quelque chose avant de savoir le nommer. La carte ne dit pas à qui ce sentiment est destiné. Elle dit que le robinet est ouvert.
+Quand l’eau bouge, les sentiments sont forts, et celle-ci ne fait que bouger. C’est pour ça que l’As de Coupes parle aux personnes qui ressentent quelque chose avant de savoir le nommer. La carte ne dit pas à qui ce sentiment est destiné. Elle dit que le robinet est ouvert.
 
 ## Par les couleurs {#couleurs}
 

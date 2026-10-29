@@ -65,4 +65,4 @@ Ce carnet montre aussi ce qu’aucune lecture isolée ne montre : à quelle fré
 
 Prenez n’importe quel cahier, celui du supermarché fera l’affaire, et tracez le trait ce soir. Tirez les cartes pour dix personnes qui se taisent jusqu’à la fin de la lecture, remplissez les deux colonnes, mettez une marque à chaque fois, et comptez. Dix suffisent pour voir ce que vous faites quand vous ratez.
 
-Si vous ne savez pas encore pour qui tirer, voici [où j’ai trouvé des personnes prêtes à ne rien me dire](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/). Et si vous voulez voir des lectures vérifiées sous vos yeux, chaque [événement gratuit](/fr/evenements/) se termine ainsi : les personnes qui ont reçu une lecture disent ce qui était juste, et on compare.
+Si vous ne savez pas encore pour qui tirer, voici [où j’ai trouvé des personnes prêtes à ne rien me dire](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/). Des lectures vérifiées sous vos yeux, c’est ainsi que se termine chaque [événement gratuit](/fr/evenements/) : les personnes lues disent ce qui était juste, et on compare.

@@ -27,7 +27,7 @@ Ce que j’ajouterais aujourd’hui, c’est ce que ça voulait dire, et ce que 
 
 C’est une phrase de mes notes de 2021. À force de lire, les messages me venaient de plus en plus souvent avant même le mélange, et si je sortais encore les cartes, c’était d’abord pour la personne en face, qui tenait à les voir.
 
-L’idée derrière cette phrase, je l’enseigne. Les cartes sont un support qui aide à lâcher prise et à lire ce qu’il y a autour de vous, ou autour de quelqu’un. **Ce qui vient, vient de vous, pas du carton.**
+L’idée derrière cette phrase, je l’enseigne. Le jeu sert d’appui : il vous aide à relâcher votre contrôle et à percevoir ce qui vous entoure, vous ou la personne en face. **Ce qui vient, vient de vous, pas du carton.**
 
 Mais les mêmes notes donnent aux cartes un travail, même quand le message arrive avant elles. Elles aident à fixer l’attention, ou au contraire à la relâcher, le temps que vos idées et vos partis pris passent au second plan. Et la personne a quelque chose à regarder : une image à laquelle confronter mes mots, plutôt que de me croire sur parole.
 
@@ -39,7 +39,7 @@ En 2021, ces trois produits faisaient partie de ce que je vendais. J’ai arrêt
 
 Ça vaut la peine de voir pourquoi ces objets se vendent si bien. Un accessoire promet de faire la partie difficile à votre place : purifier le jeu, poser l’ambiance, apporter le message. Or la partie difficile, c’est le lâcher-prise, et personne ne peut vous le vendre. L’habit ne fait pas le moine, et la bougie ne fait pas la lecture.
 
-Ce n’est pas un jugement sur ceux qui aiment une bougie sur la table. Allumez-la si ça vous fait plaisir. Mais quand une lecture sonne faux, la pause nécessaire est presque toujours celle du lecteur, pas celle du jeu. J’en dis davantage dans [l’article sur la purification du jeu](/fr/blog/purifier-son-jeu-de-tarot/).
+Je n’ai rien contre une bougie sur la table. Allumez-la si ça vous fait plaisir. Mais quand une lecture sonne faux, la pause nécessaire est presque toujours celle du lecteur, pas celle du jeu. J’en dis davantage dans [l’article sur la purification du jeu](/fr/blog/purifier-son-jeu-de-tarot/).
 
 ## L’astrologie : je la prenais pour une blague {#astrologie}
 
@@ -53,7 +53,7 @@ Ce que je pense aujourd’hui est plus mesuré que l’une comme l’autre. Un t
 
 ## Ce à quoi je tiens le plus aujourd’hui : un raté compte {#rates}
 
-À peu près une lecture sur dix rate, à mon propre décompte, et je le dis. Pas de reformulation, pas de carte en plus pour rattraper.
+À peu près une lecture sur dix rate, à mon propre décompte, et je le dis. Je ne réinterprète pas après coup, et je ne tire aucune carte de rattrapage.
 
 [Ma première lecture pour une inconnue](/fr/blog/premier-tirage-tarot/) montre pourquoi c’est difficile à tenir : ce jour-là, c’était un raté ; puis, trois ou quatre jours après, un message : tout s’était produit.
 

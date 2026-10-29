@@ -37,7 +37,7 @@ gallery: []
 
 Aleister Crowley naît en 1875 à Royal Leamington Spa, en Angleterre, et meurt à Hastings en 1947. L’Encyclopaedia Britannica le présente comme occultiste, écrivain et alpiniste. Il grandit dans une famille de Plymouth Brethren, un courant évangélique, rompt tôt avec cette éducation, étudie à Trinity College, à Cambridge, et en part en 1898 sans diplôme.
 
-La même année, il entre dans l’Ordre hermétique de la Golden Dawn, où il apprend le système de correspondances qui relie chaque carte du tarot à une lettre hébraïque, une planète, un signe ou un élément. En 1904, au Caire, il écrit *The Book of the Law* (le Livre de la Loi), qu’il présente comme dicté, et qui devient le texte fondateur de son propre mouvement religieux, Thelema.
+La même année, il est admis dans la Golden Dawn, l’ordre hermétique où il apprend le système de correspondances qui associe à chaque carte du tarot une lettre hébraïque, plus un astre, un signe ou un élément. En 1904, au Caire, il écrit *The Book of the Law* (le Livre de la Loi), qu’il présente comme dicté, et qui devient le texte fondateur de son propre mouvement religieux, Thelema.
 
 Les décennies suivantes, il écrit, voyage, fonde des groupes et collectionne les scandales. La presse populaire anglaise des années 1920 le surnomme « the wickedest man in the world », l’homme le plus malfaisant du monde. La Britannica résume la trajectoire en une ligne : dénoncé de son vivant, il devient une figure culte après sa mort. Ici, la question est plus étroite : qu’a-t-il fait pour le tarot ?
 
@@ -57,7 +57,7 @@ Il change aussi le vocabulaire du jeu. Quatre majeurs sont rebaptisés : la Just
 
 Il n’a pas peint le jeu. Chaque carte est l’œuvre de Harris. Deja Whitehouse, dans une étude récente parue chez Oxford University Press, va plus loin : selon elle, le rôle de Harris dépasse de loin l’exécution de consignes.
 
-Il n’a pas vu les cartes imprimées. *The Book of Thoth* est sorti à 200 exemplaires, et le jeu n’a été imprimé sous forme de cartes qu’après la mort de Crowley et de Harris ; la première édition est en général datée de 1969.
+Il n’a pas vu les cartes imprimées. *The Book of Thoth* est sorti à 200 exemplaires, et il a fallu attendre la mort de Crowley, puis celle de Harris, pour que le jeu existe en cartes ; la première édition est en général datée de 1969.
 
 Il n’a pas inventé les correspondances. Le schéma dont il part, chaque majeur relié à une lettre hébraïque et à une attribution astrologique, est celui de la Golden Dawn, qui reprenait lui-même ce qu’avaient proposé [Éliphas Lévi](/fr/bibliotheque/figures-du-tarot/eliphas-levi/) et les occultistes français. Crowley a révisé une partie du système ; il ne l’a pas créé. [La page sur la Golden Dawn](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/) montre d’où il vient.
 

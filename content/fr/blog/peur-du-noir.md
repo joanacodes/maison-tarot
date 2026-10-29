@@ -47,7 +47,7 @@ Deux cartes sont proches de cette idée. [La Lune](/fr/bibliotheque/cartes-tarot
 
 {{< cards "ar18 sw09" >}}
 
-Dépasser ce genre de peur demande un long chemin, et aussi une fraction de seconde. C’est comme un voile qu’on retire. **Mais il faut d’abord voir qu’il y a un voile.** L’essentiel du chemin, c’est ça.
+Dépasser ce genre de peur demande un long chemin, et aussi une fraction de seconde : le temps de faire tomber un voile. **Encore faut-il avoir remarqué qu’il était là.** L’essentiel du chemin, c’est ça.
 
 ## Si le noir pèse lourd pour vous {#si-c-est-lourd}
 
@@ -59,4 +59,4 @@ Mais si la peur est lourde — si elle vous empêche de dormir, de rester chez v
 
 Si votre peur est légère, voici une expérience. La prochaine fois que votre main cherche l’interrupteur, attendez le temps d’une respiration avant d’appuyer. Remarquez ce que vous vous attendiez à trouver. Notez-le, en une ligne. Puis allumez ; il n’y a rien à gagner à rester dans le noir.
 
-Faites-le pendant une semaine et relisez vos lignes. Si la même chose revient soir après soir, ça mérite qu’on s’y arrête : c’est rarement la pièce. Et si vous voulez apporter ce que vous trouvez aux cartes, le [tirage en trois cartes pour le travail sur l’ombre](/fr/blog/travail-sur-lombre/) est une façon douce de commencer.
+Faites-le pendant une semaine et relisez vos lignes. Si la même chose revient soir après soir, ça mérite qu’on s’y arrête : c’est rarement la pièce. Pour porter ensuite ce que vous trouvez jusqu’aux cartes, le [tirage en trois cartes pour le travail sur l’ombre](/fr/blog/travail-sur-lombre/) offre un début en douceur.

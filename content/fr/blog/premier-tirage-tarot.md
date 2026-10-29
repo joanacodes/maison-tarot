@@ -29,9 +29,9 @@ Voilà toute l’histoire, telle qu’elle s’est passée. Je préfère vous en
 
 Quand quelqu’un vous dit qu’un tirage ne lui correspond pas, la chose honnête à faire, c’est de le croire. C’était elle qui vivait sa vie ; moi, je la décrivais à partir de quelques cartes. « Je ne cherche pas de relation », c’est une réponse claire, et elle mérite d’être prise comme telle.
 
-L’amour n’est même pas le sujet où je suis le plus à l’aise ; les carrières et le développement personnel me viennent plus facilement. Mais on ne choisit pas ce qui vient. On le dit.
+L’amour n’est même pas le sujet où je suis le plus à l’aise ; les questions de carrière et de développement personnel me viennent plus facilement. Mais ce qui se présente ne se trie pas : il se dit.
 
-Il existe des façons de sauver ce moment-là, et tout tarologue en sent la tentation. On reformule : c’est peut-être quelqu’un que vous n’avez pas encore rencontré. On tire une carte de plus pour « clarifier ». On pose des questions jusqu’à ce que quelque chose colle. Chacune de ces manœuvres transforme un non net en peut-être, et un peut-être ne se vérifie jamais. J’ai écrit plus longuement sur [ce qu’il faut faire quand un tirage est faux](/fr/blog/tirage-faux-que-faire/), et ça revient surtout à le dire.
+Il existe des façons de sauver ce moment-là, et tout tarologue en sent la tentation. On reformule : c’est peut-être quelqu’un que vous n’avez pas encore rencontré. On tire une carte de plus pour « clarifier ». On pose des questions jusqu’à ce que quelque chose colle. Chacune de ces manœuvres transforme un non net en peut-être, et un peut-être ne se vérifie jamais. J’ai écrit plus longuement sur [la conduite à tenir face à un tirage raté](/fr/blog/tirage-faux-que-faire/), et ça revient surtout à le dire.
 
 Un raté, on le dit, on le note, et on passe à la personne suivante.
 

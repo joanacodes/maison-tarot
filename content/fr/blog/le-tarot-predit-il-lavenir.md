@@ -9,7 +9,7 @@ tags: ["le tarot prédit-il l’avenir", "tarot et avenir", "tarot ou voyance", 
 image: "covers/can-tarot-predict-the-future.jpg"
 imageAlt: "Une carte posée face visible sur une table de cuisine à côté d’une tasse de café, un calendrier mural flou à l’arrière-plan"
 imagePrompt: "A single tarot card lying face up on a kitchen table beside a cup of coffee, a paper wall calendar out of focus behind it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Un tirage touche parfois quelque chose qui se produit plus tard ; je l’ai vu. Mais je ne pratique pas le tarot comme de la voyance : je ne peux ni garantir une prédiction ni la dater, et environ un tirage sur dix rate selon mon décompte. Ce que je lis, c’est le présent — où vous en êtes, ce que vous évitez —, parce que le meilleur moyen de s’assurer un avenir agréable, c’est de s’ancrer dans le présent. Le tarot ne donne ni dates, ni choix d’autrui, ni réponses sur la santé, la grossesse, la justice ou l’argent. Il aide à voir aujourd’hui assez clair pour choisir."
+summary: "Un tirage touche parfois quelque chose qui se produit plus tard ; je l’ai vu. Mais je ne pratique pas le tarot comme de la voyance : je ne peux ni garantir une prédiction ni la dater, et mon carnet relève environ une erreur toutes les dix lectures. Ce que je lis, c’est le présent — où vous en êtes, ce que vous évitez —, parce que le meilleur moyen de s’assurer un avenir agréable, c’est de s’ancrer dans le présent. Le tarot ne donne ni dates, ni choix d’autrui, ni réponses sur la santé, la grossesse, la justice ou l’argent. Il aide à voir aujourd’hui assez clair pour choisir."
 ---
 Oui, parfois : un tirage touche quelque chose qui arrive plus tard, et je l’ai vu se produire. Mais je ne lis pas le tarot comme on fait de la voyance, et je ne construis pas un tirage autour de l’avenir. Je lis le présent, parce que le meilleur moyen de s’assurer un avenir agréable, c’est de s’ancrer dans le présent.
 
@@ -19,7 +19,7 @@ Honnêtement : de temps en temps, et jamais d’une façon que quiconque puisse 
 
 [Mon premier tirage pour une parfaite étrangère](/fr/blog/premier-tirage-tarot/) l’illustre. Ce que je lui disais ne lui évoquait rien ; à peine quelques jours plus tard, son message m’apprenait que tout s’était produit.
 
-Quelque chose dans un tirage peut donc pointer vers la suite. Ce que je ne peux pas faire, c’est vous dire quand, vous garantir que ça arrivera, ou l’affirmer avec la certitude qu’exige une prédiction. Environ un tirage sur dix rate, selon mon propre décompte, et quand ce que j’ai vu arrive, ça n’arrive pas toujours comme on l’imaginait, ni vous ni moi. Ce n’est pas une base suffisante pour dire à quelqu’un ce que sera sa vie.
+Quelque chose dans un tirage peut donc pointer vers la suite. Ce que je ne peux pas faire, c’est vous dire quand, vous garantir que ça arrivera, ou l’affirmer avec la certitude qu’exige une prédiction. Sur dix tirages, j’en compte à peu près un qui échoue, et quand ce que j’ai vu arrive, ça n’arrive pas toujours comme on l’imaginait, ni vous ni moi. Ce n’est pas une base suffisante pour dire à quelqu’un ce que sera sa vie.
 
 Il y a aussi une raison plus discrète. Une prédiction change la personne qui l’entend. Annoncez à quelqu’un qu’un nouveau poste arrive, et il risque d’arrêter de chercher, ou de se mettre à chercher partout ; dans les deux cas, l’avenir dans lequel il entre n’est plus celui sur lequel on a tiré les cartes. Le présent, lui, ne bouge pas comme ça quand on le nomme. Il reste immobile assez longtemps pour qu’on le regarde.
 
@@ -43,14 +43,14 @@ Dans le Sept de Coupes, une silhouette vue de dos contemple sept coupes en suspe
 
 Une lecture tournée vers l’avenir se demanderait laquelle des coupes va se réaliser. Une lecture du présent dit : vous êtes coincé entre trop d’options, et vous vous retenez vous-même alors que tout ce dont vous avez besoin est à portée de main. Cette deuxième phrase ne prédit rien. Elle vous donne quelque chose à faire lundi.
 
-C’est ce que le tarot fait mieux que tout ce que je connais : il met des mots sur ce que vous n’aviez pas encore dit. Comme je demande aux gens de ne rien me dire avant, ce qui sort est en général ce qui les occupe vraiment, pas la question qu’ils ont répétée en chemin. Utilisé ainsi, un tirage est un bilan de votre énergie et de votre état d’esprit — utile, tant que vous gardez les pieds sur terre.
+C’est ce que le tarot fait mieux que tout ce que je connais : il donne une forme à des choses que vous gardiez encore pour vous. Comme je ne sais rien des gens avant de tirer, ce qui sort est en général ce qui les occupe vraiment, pas la question qu’ils ont répétée en chemin. Utilisé ainsi, un tirage est un bilan de votre énergie et de votre état d’esprit — utile, tant que vous gardez les pieds sur terre.
 
 ## Ce que le tarot ne peut pas vous dire {#ce-quil-ne-peut-pas}
 
 Certaines questions sortent de ce qu’une carte peut contenir, et je préfère le dire avec douceur plutôt que faire semblant :
 
 - *Quand.* Les dates et les échéances sont le point faible d’un tirage. J’en parle dans [le tarot et le timing](/fr/blog/tarot-quand/).
-- *Ce que quelqu’un d’autre va faire.* Ses choix lui appartiennent, et cette personne n’est pas dans la pièce. Si c’est la question qui vous occupe, il y en a [une plus douce à poser](/fr/blog/va-t-il-revenir-tarot/).
+- *Ce que quelqu’un d’autre va faire.* Ses choix lui appartiennent, et cette personne n’assiste pas au tirage. Si c’est la question qui vous occupe, il y en a [une plus douce à poser](/fr/blog/va-t-il-revenir-tarot/).
 - *Les maladies, les décès, les grossesses, les procès, l’argent à placer, les malédictions.* Une carte peut sortir sur ces sujets comme sur d’autres ; c’est la phrase qui l’accompagne qui, mal tournée, blesse. Ces questions-là relèvent d’un médecin, d’un avocat ou d’un conseiller financier, et [la page qui recense ces sujets](/fr/avertissements/#refus) explique ma position.
 - *Ce que vous devriez faire.* Un tirage peut vous montrer quelque chose ; [le choix reste le vôtre](/fr/blog/le-tarot-nest-pas-une-autorite/).
 
@@ -58,7 +58,7 @@ Certaines questions sortent de ce qu’une carte peut contenir, et je préfère 
 
 Transformez « est-ce que… ? » en « qu’est-ce que je peux… ? » :
 
-- « Est-ce que je vais avoir le poste ? » devient « Qu’est-ce que je dois apporter à cet entretien ? »
+- « Est-ce que je vais avoir le poste ? » devient « Comment me préparer au mieux pour cet entretien ? »
 - « Est-ce que je vais rencontrer quelqu’un cette année ? » devient « À quoi suis-je prêt, et à quoi ne le suis-je pas ? »
 - « Est-ce que ce déménagement va bien se passer ? » devient « Qu’est-ce que j’ai peur de laisser derrière moi ? »
 

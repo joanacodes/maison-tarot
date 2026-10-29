@@ -63,7 +63,7 @@ Chaque nombre a aussi ses cartes. Un chemin de vie 7 renvoie au [Chariot](/fr/bi
 
 Le Sept de Coupes ne sait plus choisir, perdu entre trop de possibles. Le Sept d’Épées laisse des choses derrière lui et récolte quand même beaucoup. Le Sept de Pentacles s’appuie sur sa houe et regarde ce qui pousse. Trois façons de marquer une pause avant le coup suivant.
 
-Si vous préférez tomber sur un arcane majeur plutôt que sur un chiffre, [la carte de naissance au tarot](/fr/blog/carte-de-naissance-tarot/) part de la même date mais l’additionne autrement : le jour, le mois et l’année comme des nombres entiers, puis les chiffres du total, en s’arrêtant dès que le résultat tombe à 22 ou moins. Pour le 3 août 1976, cela donne 3 + 8 + 1976 = 1987, puis 25, puis 7 : de nouveau le Chariot.
+Si vous préférez tomber sur un arcane majeur plutôt que sur un chiffre, la même date peut se compter autrement et donner [votre carte de naissance, version tarot](/fr/blog/carte-de-naissance-tarot/) : le jour, le mois et l’année s’additionnent comme des nombres entiers, puis les chiffres du total, en s’arrêtant dès que le résultat tombe à 22 ou moins. Pour le 3 août 1976, cela donne 3 + 8 + 1976 = 1987, puis 25, puis 7 : de nouveau le Chariot.
 
 ## Ce que le chemin de vie ne peut pas dire {#limites}
 
@@ -75,4 +75,4 @@ Et je le tiens avec légèreté. J’ai compté mes tirages de tarot et vérifi�
 
 ## Essayez sur trois personnes {#a-essayer}
 
-Calculez votre chemin de vie, puis celui de deux proches que vous connaissez bien. Lisez la ligne du tableau pour chacun, et cochez ou barrez : la question colle-t-elle à ce que vous voyez de leur vie ? Trois coches ou trois croix vous en apprendront plus qu’un livre. Et si vous voulez parcourir tout le cycle avec d’autres, les nombres font l’objet d’un [atelier](/fr/ateliers/) entier.
+Calculez votre chemin de vie, puis celui de deux proches que vous connaissez bien. Lisez la ligne du tableau pour chacun, et cochez ou barrez : la question colle-t-elle à ce que vous voyez de leur vie ? Trois coches ou trois croix vous en apprendront plus qu’un livre. Les dix étapes du cycle se travaillent aussi en groupe : les nombres ont droit à un [atelier](/fr/ateliers/) entier.

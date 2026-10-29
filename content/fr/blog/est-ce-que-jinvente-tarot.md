@@ -9,7 +9,7 @@ tags: ["est-ce que j’invente tarot", "intuition ou imagination", "fiabilité t
 image: "covers/am-i-making-it-up-tarot.jpg"
 imageAlt: "Une main qui écrit dans un petit carnet à côté d’une carte de tarot retournée et d’une tasse de thé"
 imagePrompt: "A hand writing with a pencil in a small notebook beside a single face-up tarot card, a mug of tea at the edge of a wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Sur le moment, impossible de savoir si vous lisez ou si vous inventez : les impressions arrivent avec votre propre voix et ressemblent en tout point à vos pensées. On le découvre après. Avant chaque carte, dites-vous que vous allez dire n’importe quoi, pour cesser de vouloir avoir raison. Puis vérifiez : saviez-vous quelque chose avant, est-ce que ça vaudrait pour n’importe qui, avez-vous suivi les réactions de la personne, est-ce que ça vous a surpris ? Et tenez un carnet où chaque phrase prononcée attend sa confirmation, juste ou raté, puis comptez."
+summary: "Sur le moment, impossible de savoir si vous lisez ou si vous inventez : les impressions arrivent avec votre propre voix et ressemblent en tout point à vos pensées. On le découvre après. Avant chaque carte, accordez-vous le droit de dire n’importe quoi, pour cesser de vouloir avoir raison. Puis vérifiez : saviez-vous quelque chose avant, est-ce que ça vaudrait pour n’importe qui, avez-vous suivi les réactions de la personne, est-ce que ça vous a surpris ? Et tenez un carnet où chaque phrase prononcée attend sa confirmation, juste ou raté, puis comptez."
 ---
 Sur le moment, vous ne pouvez pas le savoir, et ce n’est pas ce qu’on vous demande. L’impression d’inventer, c’est ce que la lecture fait ressentir de l’intérieur. Vous le découvrez après, sur le papier, quand chaque phrase trouve ou non sa confirmation.
 
@@ -33,16 +33,16 @@ La vraie invention, celle qui mérite qu’on s’en inquiète, vient de l’env
 
 Vous ne pouvez pas sentir la différence, mais vous pouvez vérifier quatre choses.
 
-1. Saviez-vous quelque chose avant ? Si la personne vous a donné sa question, tout ce que vous avez dit n’en est peut-être qu’une reformulation. C’est pour ça que je demande qu’on ne me dise rien : [la règle du silence](/fr/blog/regle-du-silence-tarot/) existe précisément pour répondre à ça.
-2. Est-ce que ça vaudrait pour n’importe qui ? « Vous avez traversé des changements ces derniers temps » vaut pour toute personne vivante, comme l’horoscope du journal gratuit qu’on feuillette dans le métro. L’effet Barnum, c’est notre tendance à accepter une phrase vague et générale comme une description précise de nous-mêmes, et c’est [la façon la plus courante d’inventer sans s’en rendre compte](/fr/blog/effet-barnum-tarot/).
+1. Saviez-vous quelque chose avant ? Si vous connaissiez sa question, tout ce que vous avez dit n’en est peut-être qu’une reformulation. C’est pour ça que je demande qu’on ne me dise rien : [la règle du silence](/fr/blog/regle-du-silence-tarot/) existe précisément pour répondre à ça.
+2. Est-ce que ça vaudrait pour n’importe qui ? « Vous avez traversé des changements ces derniers temps » vaut pour toute personne vivante, comme l’horoscope d’un magazine feuilleté chez le coiffeur. L’effet Barnum, c’est notre tendance à accepter une phrase vague et générale comme une description précise de nous-mêmes, et c’est [la façon la plus courante d’inventer sans s’en rendre compte](/fr/blog/effet-barnum-tarot/).
 3. Avez-vous ajusté en route ? Si vous avez guetté son visage et tordu la lecture vers chaque hochement de tête, vous lisiez son visage.
 4. Est-ce que ça vous a surpris ? Les détails qui comptent sont souvent ceux que vous n’auriez jamais choisis : trop précis, trop bizarres ou trop peu flatteurs pour avoir été inventés pour faire plaisir.
 
-Imaginons que vous tiriez le Huit d’Épées : une silhouette ligotée, les yeux bandés, des épées tout autour, et la sortie ouverte derrière elle. « Vous vous sentez un peu coincé » est vrai de presque tout le monde, presque tous les jours. « Vous attendez une permission que vous avez déjà » pourrait être faux — et c’est justement ce qui rend la phrase utile à dire, et à vérifier.
+Le Huit d’Épées sort, par exemple : quelqu’un d’attaché, un bandeau sur les yeux, encerclé d’épées, avec pourtant un passage libre dans son dos. « Vous vous sentez un peu coincé » est vrai de presque tout le monde, presque tous les jours. « Vous attendez une permission que vous avez déjà » pourrait être faux — et c’est justement ce qui rend la phrase utile à dire, et à vérifier.
 
 {{< cards "sw08" >}}
 
-[La première fois que j’ai lu pour une inconnue](/fr/blog/premier-tirage-tarot/), un détail de ce genre est sorti, qui ne nous plaisait ni à l’une ni à l’autre : elle n’avait pas été très tendre avec l’autre personne. Sur le moment, rien ne lui évoquait quoi que ce soit ; peu après, elle m’a fait savoir que la lecture s’était vérifiée, cette partie-là comprise. Jamais je n’aurais inventé ce détail pour plaire à une parfaite inconnue.
+[La première fois que j’ai lu pour une inconnue](/fr/blog/premier-tirage-tarot/), un détail de ce genre est sorti, qui ne nous plaisait ni à l’une ni à l’autre : elle avait manqué de gentillesse envers l’autre personne. Sur le moment, rien ne lui évoquait quoi que ce soit ; peu après, elle m’a fait savoir que la lecture s’était vérifiée, cette partie-là comprise. Jamais je n’aurais inventé ce détail pour plaire à une parfaite inconnue.
 
 ## Le carnet : la seule vraie réponse {#le-carnet}
 

@@ -61,7 +61,7 @@ C’est l’Impératrice que j’enseigne : la mère, la terre, celle qui nourri
 
 ## Par les couleurs {#couleurs}
 
-Le vert et l’or dominent : les arbres, le blé. Le [vert](/fr/bibliotheque/couleurs-tarot/vert/) dit la nature, la croissance, la naissance, la vie, la prospérité — ce qui a été planté et qui donne. Le jaune du ciel et des cheveux : la joie, l’optimisme. Le rouge des coussins : le désir, un corps au repos mais bien vivant. Le blanc de la robe : la paix. C’est l’un des dessins les plus chaleureux du jeu.
+Le vert et l’or dominent : les arbres, le blé. Le [vert](/fr/bibliotheque/couleurs-tarot/vert/) parle de nature et de prospérité, de ce qui naît, grandit et vit — ce qui a été planté et qui donne. Le jaune du ciel et des cheveux : la joie, l’optimisme. Le rouge des coussins : le désir, un corps au repos mais bien vivant. Le blanc de la robe : la paix. C’est l’un des dessins les plus chaleureux du jeu.
 
 ## Par l’astrologie : Vénus {#astrologie}
 
@@ -71,7 +71,7 @@ La Golden Dawn attribue l’Impératrice à [Vénus](/fr/bibliotheque/astrologie
 
 À l’endroit, l’Impératrice dit que quelque chose pousse et qu’on en prend soin. C’est souvent la carte de quelqu’un qui s’occupe des autres, au travail comme à la maison, et en amour, elle demande s’il reste de la place pour vous dans le soin que vous donnez ([l’Impératrice en amour](/fr/blog/limperatrice-tarot-amour/)).
 
-Beaucoup de gens espèrent ou redoutent que cette carte annonce une grossesse, et je comprends pourquoi : c’est la carte de la mère, et la question arrive chargée d’espoir ou d’inquiétude. Mais une carte ne peut pas vous le dire, et une parole de travers là-dessus peut faire mal ; c’est une question pour un médecin et un test. Ce que l’Impératrice peut éclairer, c’est tout ce qu’il y a autour : ce que vous faites grandir, et la façon dont vous prenez soin de vous ([la grossesse, et ce que je lis à la place](/fr/blog/tarot-et-grossesse/)).
+Beaucoup de gens espèrent ou redoutent que cette carte annonce une grossesse, et je comprends pourquoi : c’est la carte de la mère, et la question arrive chargée d’espoir ou d’inquiétude. Mais là-dessus, aucune carte n’a de réponse, et une parole de travers peut faire mal ; c’est une question pour un médecin et un test. Ce que l’Impératrice peut éclairer, c’est tout ce qu’il y a autour : ce que vous faites grandir, et la façon dont vous prenez soin de vous ([pourquoi je laisse la grossesse aux médecins](/fr/blog/tarot-et-grossesse/)).
 
 Renversée, le soin devient lourd ou se tarit. Soit l’Impératrice retient trop fort — le parent qui ne lâche rien, la responsable qui refait le travail de toute l’équipe —, soit elle a cessé de nourrir, souvent elle-même en premier.
 

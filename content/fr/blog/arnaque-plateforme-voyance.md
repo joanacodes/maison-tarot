@@ -70,10 +70,10 @@ Ce qui aide, concrètement :
 5. Si vous pensez qu’on a profité de la fragilité d’une personne, l’abus de faiblesse est un délit : c’est une plainte, et une question pour un avocat ou une association de consommateurs.
 6. Parlez-en à quelqu’un. Pour un parent, évitez le procès : demandez-lui ce que ces appels lui apportent — de la compagnie, une voix, une réponse — et cherchez ensemble où trouver cela ailleurs.
 
-Si la question qui vous fait décrocher porte sur l’argent, la santé ou une procédure en cours, ce sont des sujets que [je laisse de côté dans mes lectures](/fr/avertissements/#refus), parce qu’une phrase mal comprise y coûte trop cher. Une question plus douce, et plus utile, serait : « De quoi ai-je besoin pour prendre cette décision moi-même ? » Les cartes peuvent accompagner celle-là ; la décision, elle, vous revient.
+Si la question qui vous fait décrocher porte sur l’argent, la santé ou une procédure en cours, ce sont des sujets que [je laisse de côté dans mes lectures](/fr/avertissements/#refus), parce qu’une phrase mal comprise y coûte trop cher. Une autre question vous servirait bien davantage : « De quoi ai-je besoin pour prendre cette décision moi-même ? » Les cartes peuvent accompagner celle-là ; la décision, elle, vous revient.
 
 Parfois, le plus utile est de poser le téléphone, ou le jeu, pour un moment. J’ai écrit sur [ce qu’apporte une pause loin des tirages](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
 ## Une lecture sans compteur {#sans-compteur}
 
-Pour assister à une lecture où personne ne facture la minute, venez à [un événement gratuit de Maison Tarot](/fr/evenements/). Les personnes lues y sont tirées au sort, elles ne me disent rien, et je dis quand je me trompe — environ une fois sur dix, à mon compte. Personne ne vous rappellera la semaine prochaine pour savoir si ça a bougé.
+Pour assister à une lecture où personne ne facture la minute, venez à [un événement gratuit de Maison Tarot](/fr/evenements/). On y lit des personnes désignées par tirage au sort, qui gardent tout pour elles, et je dis quand je me trompe — environ une fois sur dix, à mon compte. Personne ne vous rappellera la semaine prochaine pour savoir si ça a bougé.

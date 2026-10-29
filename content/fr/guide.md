@@ -1,9 +1,9 @@
 ---
 title: "Le Guide du lecteur — gratuit, toujours"
-description: "Le Guide du lecteur de Maison Tarot : comment lire une carte que vous n’avez jamais vue, sans mémoriser les 78. Gratuit, par email, avec les prochains événements en ligne."
+description: "Le Guide du lecteur de Maison Tarot : par où commencer devant une carte inconnue, sans mémoriser les 78. Gratuit, par email, avec les prochains événements en ligne."
 translationKey: guide
 eyebrow: "gratuit"
-h1: "Lire une carte que vous n’avez <em>jamais vue</em>."
+h1: "Devant une carte inconnue, <em>savoir par où commencer</em>."
 lede: "Le Guide du lecteur tient en quelques pages : les clés de lecture — couleurs, nombres, éléments, énergies — et une façon de les poser sur n’importe quelle carte du Rider-Waite-Smith. C’est ce que la Maison donnera toujours gratuitement."
 navTitle: "Le Guide du lecteur"
 ---

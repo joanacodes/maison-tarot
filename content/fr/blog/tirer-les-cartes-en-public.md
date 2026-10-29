@@ -17,7 +17,7 @@ Lire devant vingt personnes ne change pas les cartes. Ça change la salle : qui 
 
 Tout le monde entend tout. En tête-à-tête, une phrase arrive sur une seule personne, qui peut y repenser chez elle. En public, elle tombe devant des amis ou des inconnus, et la personne ne peut plus faire comme si elle n’avait rien entendu.
 
-La pression joue dans les deux sens. Mes notes le disent : parfois on ne voit rien dans les cartes, soit par blocage de votre côté, quand la pression est trop forte, soit du côté de la personne, qui a peur de ce qu’elle pourrait entendre. Un public ajoute aux deux. Attendez-vous à un démarrage plus lent, sans combler le vide avec des suppositions.
+La pression joue dans les deux sens. Mes notes le disent : il arrive que les cartes restent muettes, soit parce que la pression vous bloque, soit parce que la personne redoute ce qu’elle pourrait apprendre. Un public ajoute aux deux. Attendez-vous à un démarrage plus lent, sans combler le vide avec des suppositions.
 
 En public, la règle du silence sert plus que partout ailleurs. La personne lue ne me donne ni question ni contexte, si bien que la salle en sait exactement autant que moi. Quand quelque chose tombe juste, tout le monde voit que rien ne m’a été soufflé avant. C’est tout l’intérêt de [demander qu’on ne me dise rien](/fr/blog/regle-du-silence-tarot/).
 
@@ -65,4 +65,4 @@ Les mains peuvent trembler, le cœur s’emballer, la voix accélérer. C’est 
 
 ## Avant votre premier tirage en public {#avant}
 
-Annoncez les règles dès le début : la personne ne dit rien d’elle avant, certains sujets restent hors de la table, les ratés arrivent et vous le direz, et chacun peut arrêter à tout moment. La salle sait à quoi s’attendre, et vous aussi. Pour voir comment ça se passe avant d’essayer, venez regarder un [événement gratuit](/fr/evenements/) ; et si vous voulez organiser le vôtre, voici [comment animer une soirée de tirages gratuits en ligne](/fr/blog/soiree-tirage-gratuit/).
+Annoncez les règles dès le début : la personne ne dit rien d’elle avant, certains sujets restent hors de la table, les ratés arrivent et vous le direz, et chacun peut arrêter à tout moment. La salle sait à quoi s’attendre, et vous aussi. Pour voir comment ça se passe avant d’essayer, venez regarder un [événement gratuit](/fr/evenements/) ; le jour où vous voudrez organiser le vôtre, voici [comment animer une soirée de tirages gratuits en ligne](/fr/blog/soiree-tirage-gratuit/).

@@ -75,7 +75,7 @@ Laissez-la si les astres ne sont pas votre langue : la vigne soignée dit déjà
 
 Renversée, le plaisir du jardin s’éteint, ou s’enferme. Éteint : tout ce qui est sur la carte vous appartient, et vous n’arrivez pas à en profiter — la culpabilité de se reposer, les yeux déjà sur la prochaine récolte. Enfermé : le confort se durcit en mur ; l’indépendance devient « je n’ai besoin de personne », et le faucon ne quitte jamais le gant.
 
-À côté du [Dix de Pentacles](/fr/bibliotheque/cartes-tarot/dix-de-pentacles/), le jardin se remplit de monde : ce qu’on savourait seul se partage entre générations. À côté du [Neuf de Coupes](/fr/bibliotheque/cartes-tarot/neuf-de-coupes/), deux contentements : l’un exhibe ses coupes, l’autre se promène dans ses vignes. À côté de la [Reine de Pentacles](/fr/bibliotheque/cartes-tarot/reine-de-pentacles/), la femme du jardin s’assoit et se met à nourrir les autres.
+À côté du [Dix de Pentacles](/fr/bibliotheque/cartes-tarot/dix-de-pentacles/), le jardin se remplit de monde : ce qu’on savourait seul se partage entre générations. À côté du [Neuf de Coupes](/fr/bibliotheque/cartes-tarot/neuf-de-coupes/), deux contentements : l’un exhibe ses coupes, l’autre se promène dans ses vignes. Que la [Reine de Pentacles](/fr/bibliotheque/cartes-tarot/reine-de-pentacles/) vienne à côté, et la femme du jardin s’assoit pour nourrir les autres.
 
 {{< cards "pe10 cu09 pequ" >}}
 

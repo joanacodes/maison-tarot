@@ -47,7 +47,7 @@ Ce qui manque : les rênes. Il ne tient rien qui dirige les sphinx, et ils ne so
 
 Une carte en mouvement rangée sous le 7 de la patience, ça ressemble à une contradiction. Ça n’en est pas une : le [chiffre 7](/fr/bibliotheque/numerologie/chiffre-7/), c’est l’analyse avant l’action, la pause où l’on regarde ce qu’on a et où l’on décide de la suite. Le Chariot, c’est le 7 qui a fini de réfléchir et qui avance parce qu’il sait où il va.
 
-Le 7 d’Instagram, c’est Facebook qui en fait une plateforme de publicité : ni triomphe ni chute, une table de négociation où l’on choisit ce que la chose va devenir. Le conseil du 7 va bien à un conducteur : tout est temporaire. La position où vous êtes, bonne ou mauvaise, va bouger — raison de plus pour diriger plutôt que de vous crisper.
+Le 7 d’Instagram, c’est le virage publicitaire voulu par Facebook : un tournant négocié, ni victoire ni effondrement, où l’on choisit ce que l’application va devenir. Le conseil du 7 va bien à un conducteur : tout est temporaire. Votre position, heureuse ou non, finira par bouger — raison de plus pour diriger plutôt que de vous crisper.
 
 ## Par l’élément : Eau {#element}
 

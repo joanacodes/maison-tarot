@@ -17,7 +17,7 @@ Un live de tarot fonctionne si vous gardez vos règles, en sachant que le format
 
 Un live de tarot, c’est un tirage, ou une série de tirages, diffusé en direct à qui regarde, pendant que les spectateurs commentent. Certains tarologues font un tirage général pour tout le monde. D’autres choisissent des spectateurs et les lisent un par un.
 
-Quelques mois après mes débuts, je faisais des tirages dans des groupes de tarot sur Facebook, et des lives là-bas. Un des avis que j’ai reçus sur Facebook vient de quelqu’un que j’avais lu pendant un live. Si vous choisissez Instagram, vérifiez ses outils de live tels qu’ils sont aujourd’hui. Pour la question plus large du tarot sur cette plateforme, j’ai écrit sur [la tarologue que vous suivez et celle dont vous avez besoin](/fr/blog/tarot-instagram/).
+Quelques mois après mes débuts, je faisais des tirages dans des groupes de tarot sur Facebook, et des lives là-bas. Sur Facebook, l’une des recommandations qu’on m’a laissées vient de quelqu’un que j’avais lu pendant un live. Si vous choisissez Instagram, vérifiez ses outils de live tels qu’ils sont aujourd’hui. Pour la question plus large du tarot sur cette plateforme, j’ai écrit sur [la tarologue que vous suivez et celle dont vous avez besoin](/fr/blog/tarot-instagram/).
 
 Une bonne partie de ce qui change quand on vous regarde n’a rien à voir avec la caméra, et [tirer les cartes en public](/fr/blog/tirer-les-cartes-en-public/) en parle : le consentement, ce qui se dit tout haut et ce qui attend, décliner une question avec douceur, le trac. Cette page porte sur ce qu’un live ajoute : une caméra, un décalage et un fil de commentaires.
 

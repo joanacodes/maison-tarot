@@ -24,7 +24,7 @@ La compatibilité astrologique, c’est l’idée que certains signes s’entend
 | Air | Gémeaux, Balance, Verseau | Feu |
 | Eau | Cancer, Scorpion, Poissons | Terre |
 
-Prenez un Lion et une Balance : Feu et Air. Dans mes [notes sur les éléments](/fr/bibliotheque/quatre-elements/), le Feu est l’élan et la création, l’Air la pensée et la décision. L’air nourrit le feu — et, mal maîtrisé, l’attise.
+Prenez un Lion et une Balance : Feu et Air. Selon [la façon dont je définis les éléments](/fr/bibliotheque/quatre-elements/), le Feu crée et pousse en avant, l’Air réfléchit et tranche. L’air nourrit le feu — et, mal maîtrisé, l’attise.
 
 La version complète s’appelle la synastrie : on pose deux thèmes natals entiers côte à côte et on les compare position par position. Où tombe la Vénus de l’un dans le thème de l’autre ? Comment la Lune de l’un se place-t-elle face au Saturne de l’autre ? Certains astrologues construisent aussi un thème composite, un seul thème fait des points médians des deux.
 

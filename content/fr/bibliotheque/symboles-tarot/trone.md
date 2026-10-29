@@ -8,7 +8,7 @@ weight: 13
 categories: ["Symboles"]
 tags: ["symboles du tarot", "trône", "Empereur", "cartes de cour", "symbolisme du tarot"]
 h1: "Le trône — un pouvoir qui <em>reste</em> en place"
-lede: "Un trône, c’est un siège que personne d’autre ne peut prendre. Dans le Rider-Waite-Smith, celui qui s’y assied a cessé de voyager : il tient une place, et il en répond. Regardez de quoi le trône est fait avant de regarder qui est dessus."
+lede: "Un trône, c’est un siège que personne d’autre ne peut prendre. Celui qui s’y assied a cessé de voyager : il tient une place, et il en répond. Regardez de quoi le trône est fait avant de regarder qui est dessus."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/l-empereur
@@ -53,7 +53,7 @@ Un trône, c’est une chaise qui a une fonction. On ne s’y assied pas pour se
 
 C’est l’inverse du cheval ou de la route. Sur un trône, le pouvoir a cessé de bouger et il est devenu un lieu.
 
-## Où il apparaît dans le jeu {#ou}
+## De la pierre de l’Empereur aux coussins de l’Impératrice {#ou}
 
 L’Empereur siège sur un grand bloc de pierre grise sculpté de quatre têtes de bélier, l’armure visible sous sa robe rouge. Le siège le plus dur du jeu, et celui qui est fait pour durer.
 
@@ -73,13 +73,13 @@ Les huit Reines et Rois sont assis eux aussi, et chaque trône dit la série : d
 
 Posez deux questions : de quoi est fait le trône, et la personne a-t-elle l’air à l’aise dessus ? La pierre, c’est la permanence, et la rigidité. Les coussins, c’est le confort et le soin. Un trône posé sur l’eau, c’est un pouvoir qui repose sur les émotions.
 
-Puis les clés de lecture. La couleur : le rouge mûr de l’Empereur est, dans ma grille, proche du [violet](/fr/bibliotheque/couleurs-tarot/violet/) — « celui qu’un groupe a choisi ». Un trône est donné par les autres avant d’être tenu. Le nombre : l’Empereur porte le [4](/fr/bibliotheque/numerologie/chiffre-4/), la stabilité, la structure, le fruit du travail. L’élément : les trônes de Terre (l’Impératrice, le Hiérophante) gardent et nourrissent ; les trônes de Feu (l’Empereur, la cour des Bâtons) gouvernent par l’élan.
+Au tour des autres clés. Le rouge mûr de l’Empereur voisine avec le [violet](/fr/bibliotheque/couleurs-tarot/violet/), que j’associe à « celui qu’un groupe a choisi » : un trône est donné par les autres avant d’être tenu. L’Empereur porte le [4](/fr/bibliotheque/numerologie/chiffre-4/) : la stabilité, la structure, ce que le travail a rapporté. Et par l’élément, les trônes de Terre (l’Impératrice, le Hiérophante) gardent et nourrissent ; ceux de Feu (l’Empereur, la cour des Bâtons) gouvernent par l’élan.
 
-Imaginons que l’Empereur sorte pour quelqu’un qui vient d’être promu. Le trône demande : est-ce vous qui occupez la place, ou la place qui vous occupe ?
+Pour une promotion toute fraîche, le trône de l’Empereur pose une question : est-ce vous qui occupez la place, ou la place qui vous occupe ?
 
 ## L’autre face {#revers}
 
-L’autre face du trône, c’est la personne qui ne se lève plus. Un pouvoir qui reste en place devient un pouvoir qui ne peut plus bouger : le chef qui décide de tout depuis son fauteuil, le parent qui règne encore sur la maison d’enfants devenus adultes. Ma note sur l’Empereur : il donne des ordres, il n’en reçoit pas — et, comme le feu, il peut tout détruire.
+L’autre face du trône, c’est la personne qui ne se lève plus. Un pouvoir qui reste en place devient un pouvoir qui ne peut plus bouger : le chef qui décide de tout depuis son fauteuil, le parent qui règne encore sur la maison d’enfants devenus adultes. Ma note sur l’Empereur : des ordres, il en donne mais n’en reçoit pas — et, comme le feu, il peut tout détruire.
 
 Le trône moelleux de l’Impératrice a sa propre ombre : le soin qui étouffe, la protection qui empêche de grandir.
 

@@ -79,7 +79,7 @@ La personne toujours calme, toujours là, dont on découvre des années plus tar
 
 ## Sa carte : La Lune {#carte}
 
-[La Lune](/fr/bibliotheque/cartes-tarot/la-lune/) montre le monde où vivent les Poissons : ce qui se passe sous la surface, l’intuition qui n’a pas encore de mots, parfois l’illusion. Il y a la sagesse qui attend le bon moment pour parler, et il y a celui qui a plongé et ne dit plus quand il remonte.
+[La Lune](/fr/bibliotheque/cartes-tarot/la-lune/) montre le monde où vivent les Poissons : ce qui se passe sous la surface, une intuition encore sans paroles, parfois l’illusion. Il y a la sagesse qui attend son heure pour parler, et il y a la personne descendue si profond qu’on ne sait plus quand elle reviendra à la surface.
 
 {{< cards "ar18" >}}
 

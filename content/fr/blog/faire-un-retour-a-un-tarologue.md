@@ -41,7 +41,7 @@ Demandez avant de commenter la forme : « Vous voulez un mot sur la manière, ou
 
 Si vous lisez aussi, la tentation est grande de dire « moi, j’aurais lu cette carte autrement ». Résistez, sauf s’il vous le demande. La critique est aisée, et l’art est difficile.
 
-Deux lecteurs peuvent regarder le même tirage, y voir deux histoires différentes, et chacun expliquer pourquoi. C’est ce qui rapproche la lecture d’un art plutôt que d’un code ; [quand deux lecteurs ne voient pas la même chose](/fr/blog/deux-lectures-differentes/), aucun des deux n’a forcément tort. Votre retour porte sur ce qui a résonné pour vous, la personne lue. Ce n’est pas une correction du sens du Cinq de Coupes.
+Devant le même tirage, deux lecteurs racontent parfois deux histoires, chacun avec ses raisons. C’est ce qui rapproche la lecture d’un art plutôt que d’un code ; [quand deux lecteurs ne voient pas la même chose](/fr/blog/deux-lectures-differentes/), aucun des deux n’a forcément tort. Votre retour porte sur ce qui a résonné pour vous, la personne lue. Ce n’est pas une correction du sens du Cinq de Coupes.
 
 ## Deux compliments à laisser de côté {#a-laisser-de-cote}
 

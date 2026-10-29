@@ -8,7 +8,7 @@ weight: 3
 categories: ["Symboles"]
 tags: ["symboles du tarot", "lune tarot", "la Grande Prêtresse", "la Lune", "Deux d’Épées"]
 h1: "La lune — la lumière qui <em>change</em>"
-lede: "La lune, c’est la lumière qui vous guide la nuit : réelle, mais empruntée, et jamais la même deux soirs de suite. Dans le jeu de 1909, elle apparaît sur cinq cartes, toujours là où quelque chose ne se voit pas encore tout à fait."
+lede: "La lune, c’est la lumière qui vous guide la nuit : réelle, mais empruntée, et jamais la même deux soirs de suite. Cinq cartes la dessinent, chaque fois là où quelque chose ne se voit pas encore tout à fait."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/la-lune
@@ -53,7 +53,7 @@ La lune, c’est la lumière de la nuit. Elle est réelle, mais réfléchie ; el
 
 Un exemple de tous les jours : rentrer tard par une rue que vous connaissez par cœur, et la trouver étrange. Même trottoir, mêmes platanes — mais les ombres ont bougé, et votre imagination fait le reste. C’est l’heure « entre chien et loup » : on reconnaît la forme, plus le détail.
 
-## Où elle apparaît dans le jeu {#ou}
+## Du croissant de la Grande Prêtresse au ciel de la carte XVIII {#ou}
 
 Sur la Grande Prêtresse, un grand croissant repose à ses pieds, contre la robe qui s’écoule comme de l’eau. Sur sa tête, deux cornes entourent un disque blanc plein, où beaucoup de lecteurs voient la lune dans ses phases. Dans mes notes, elle est Eau, la lune attire l’eau, et sa part cachée, c’est la face cachée de la lune : elle montre une façade, pas le reste.
 
@@ -69,17 +69,17 @@ Et [la Lune](/fr/bibliotheque/cartes-tarot/la-lune/), XVIII, lui donne tout le c
 
 {{< zoom "moon" "rest" >}}
 
-Un mot sur les noms : la Lune astrologique a [sa propre page](/fr/bibliotheque/astrologie/lune/), et elle va avec la Grande Prêtresse, pas avec la carte de la Lune. Cette page suit la lune dessinée.
+Un mot sur les noms : [la Lune des astrologues](/fr/bibliotheque/astrologie/lune/) va avec la Grande Prêtresse, pas avec la carte de la Lune ; ici, on ne suit que la lune dessinée.
 
 ## Comment la lire {#lecture}
 
 Demandez-vous ce qu’on ne voit pas encore clairement, et ce qui comble le vide : l’intuition, ou l’inquiétude. Sur le Deux d’Épées, une décision est repoussée dans le noir. Sur le Huit de Coupes, quelqu’un part sans voir où il va — et part quand même.
 
-Avec les autres clés : ici, la lune est posée sur des ciels [bleus](/fr/bibliotheque/couleurs-tarot/bleu/), la couleur de l’émotion et de l’eau. Elle va avec l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/), l’élément des sentiments et des forces cachées. Et elle penche vers l’[énergie féminine](/fr/bibliotheque/energies-feminine-masculine/) : l’intangible, ce qui travaille en coulisses.
+Côté clés, la lune est posée ici sur des ciels [bleus](/fr/bibliotheque/couleurs-tarot/bleu/), la couleur de l’émotion et de l’eau. Elle va avec l’[Eau](/fr/bibliotheque/quatre-elements/element-eau/), l’élément des sentiments et des forces cachées. Et elle penche vers l’[énergie féminine](/fr/bibliotheque/energies-feminine-masculine/) : l’intangible, ce qui travaille en coulisses.
 
 ## Le revers {#revers}
 
-Au clair de lune, les choses paraissent plus grandes, plus proches ou plus étranges qu’elles ne sont. Son ombre, c’est l’illusion : décider dans le brouillard comme si on y voyait. Son autre ombre, c’est l’humeur — un sentiment qui croît et décroît et qu’on prend pour un fait.
+Au clair de lune, les choses paraissent plus grandes, plus proches ou plus étranges qu’elles ne sont. Son ombre, c’est l’illusion : trancher à l’aveugle en se croyant lucide. Son autre ombre, c’est l’humeur — un sentiment qui croît et décroît et qu’on prend pour un fait.
 
 Mais la lune revient aussi. Ce qui est sombre ce soir ne le restera pas toujours.
 

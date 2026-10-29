@@ -47,7 +47,7 @@ Pas de coupe brisée, pas de coupe renversée, personne pour l’accompagner, pa
 
 Le 8, c’est le 4 exalté : [l’empire, la stabilité acquise](/fr/bibliotheque/numerologie/chiffre-8/). D’où le paradoxe : la pile est le fruit du travail, montée avec soin, et l’homme lui tourne le dos. Dans mes notes de numérologie, le Huit de Coupes tient en une ligne : quitter ce qu’on fait déjà pour autre chose. Pas échouer — avoir fait, et aller voir ailleurs.
 
-Le 8 est aussi une porte entre le tangible et l’intangible : ici, d’un côté des coupes qu’on peut compter, de l’autre une montagne dans la nuit qui ne promet rien. Dans l’histoire d’Instagram qui me sert à raconter le cycle, le 8 est l’empire, une fois l’application chez Facebook — et c’est, dans la réalité, l’étape où ses deux fondateurs sont partis.
+Le 8 marque aussi un seuil entre ce qui se touche et ce qui échappe aux mains : ici, d’un côté des coupes qu’on peut compter, de l’autre une montagne dans la nuit qui ne promet rien. Dans l’histoire d’Instagram qui me sert à raconter le cycle, le 8 est l’empire, une fois l’application chez Facebook — et c’est, dans la réalité, l’étape où ses deux fondateurs sont partis.
 
 ## Par l’élément : Eau {#element}
 
@@ -57,7 +57,7 @@ Et l’eau s’infiltre. Une émotion négligée pendant des années ronge les f
 
 ## Par les couleurs {#couleurs}
 
-Le [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) est sur l’homme — la cape, les bottes : l’action, l’impulsion, le corps qui se met en marche. Il habille celui qui décide. Les coupes sont dorées : ce qui reste derrière a de la valeur, et il le sait. Le ciel de nuit, ce qu’il y a de plus proche du [noir](/fr/bibliotheque/couleurs-tarot/noir/) dans ma grille, dit l’absence et le vide qu’on fait — mais aussi la réalité, la chose nue, sans vernis. Le rouge, l’or et la nuit racontent à eux seuls quelqu’un qui agit, une valeur laissée derrière, un moment de vérité.
+Le [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) est sur l’homme — la cape, les bottes : l’action, l’impulsion, le corps qui se met en marche. Il habille celui qui décide. Les coupes sont dorées : ce qui reste derrière a de la valeur, et il le sait. Le ciel de nuit, ce qu’il y a de plus proche du [noir](/fr/bibliotheque/couleurs-tarot/noir/) dans ma grille, dit l’absence et le vide qu’on fait — mais aussi le réel tel qu’il est, sans fard. Le rouge, l’or et la nuit racontent à eux seuls quelqu’un qui agit, une valeur laissée derrière, un moment de vérité.
 
 ## Par l’astrologie : Saturne en Poissons {#astrologie}
 

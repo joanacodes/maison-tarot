@@ -14,8 +14,8 @@ tags:
 - signification couleur tarot
 h1: Le jaune — la <em>joie</em>, l’enfant intérieur, la volonté
 lede: 'Le jaune est la couleur la plus fréquente du Rider-Waite-Smith, et la plus
-  généreuse : la joie, l’optimisme, la fierté, l’expression de soi. Un ciel jaune,
-  et la carte sourit avant même que vous l’ayez lue.'
+  généreuse : la joie et l’optimisme, mais aussi la fierté et le besoin de s’exprimer.
+  Un ciel jaune, et la carte sourit avant même que vous l’ayez lue.'
 related:
 - /bibliotheque/couleurs-tarot
 - /bibliotheque/quatre-elements

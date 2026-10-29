@@ -32,7 +32,7 @@ Le tirage d’interview est un court tirage qu’on pose avec un nouveau jeu com
 5. Comment travailler au mieux avec toi ?
 6. Où va notre relation ?
 
-On tire une carte par position et on lit les réponses comme le jeu qui se présente lui-même. Imaginons qu’en position trois, « tes limites », sorte le Sept de Coupes : un personnage face à sept coupes qui flottent dans un nuage, chacune avec son propre contenu, des bijoux jusqu’au serpent.
+On tire une carte par position et on lit les réponses comme le jeu qui se présente lui-même. Imaginons qu’en position trois, « tes limites », sorte le Sept de Coupes : devant un personnage plongé dans l’ombre flottent sept coupes, chacune remplie d’autre chose, des bijoux jusqu’au serpent.
 
 {{< cards "cu07" >}}
 
@@ -58,7 +58,7 @@ C’est l’ordre que j’enseigne pour n’importe quel jeu : une carte par jou
 
 Beaucoup de jeux vendus aujourd’hui suivent le Rider-Waite-Smith de 1909 : mêmes scènes, nouveau style. La question du quatrième jour est la porte d’entrée la plus rapide, carte après carte : qu’est-ce qui a changé ? Un Trois de Coupes peint en bleus et en gris plutôt qu’en jaunes chauds ne se lit pas pareil par la clé de lecture des couleurs, même avec les trois mêmes personnages.
 
-Certains jeux ne sont pas des variantes du tout. En France, beaucoup ont d’abord croisé le tarot de Marseille : ses cartes mineures montrent des bâtons, des coupes, des épées ou des deniers disposés en motif, pas des scènes, alors on s’appuie sur le nombre et la famille plutôt que sur un dessin. Les différences sont détaillées dans [mon comparatif du Marseille et du Rider-Waite-Smith](/fr/blog/tarot-de-marseille-ou-rider-waite/). Le Thoth, peint par Frieda Harris pour Aleister Crowley, est très développé et bien plus occulte — un jeu à explorer plus tard. Si c’est votre premier jeu, je commencerais par le Rider-Waite-Smith, pour les raisons que je donne dans [quel jeu de tarot choisir pour commencer](/fr/blog/quel-jeu-de-tarot-choisir/).
+Certains jeux ne sont pas des variantes du tout. En France, beaucoup ont d’abord croisé le tarot de Marseille : ses cartes mineures montrent des bâtons, des coupes, des épées ou des deniers disposés en motif, pas des scènes, alors on s’appuie sur le nombre et la famille plutôt que sur un dessin. Les différences sont détaillées dans [mon comparatif du Marseille et du Rider-Waite-Smith](/fr/blog/tarot-de-marseille-ou-rider-waite/). Le Thoth, né de la collaboration entre Aleister Crowley et la peintre Frieda Harris, est très développé et bien plus occulte — un jeu à explorer plus tard. Si c’est votre premier jeu, je commencerais par le Rider-Waite-Smith, pour les raisons que je donne dans [quel jeu de tarot choisir pour commencer](/fr/blog/quel-jeu-de-tarot-choisir/).
 
 ## Si le jeu ne vous parle pas {#pas-le-declic}
 

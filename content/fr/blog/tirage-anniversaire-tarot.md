@@ -46,7 +46,7 @@ Prenons une personne qui souffle ses trente-cinq bougies sans rien confier aux c
 
 *Ce que j’emporte :* le Huit de Pentacles, et son artisan qui recommence le même geste jusqu’à le maîtriser. Le 8, c’est la maîtrise, l’effort nécessaire qui devient savoir-faire. Quoi qu’ait coûté cette année lourde, elle vous a appris à bien faire quelque chose.
 
-*Le thème de l’année qui vient :* l’As de Bâtons, un seul bâton, déjà en bourgeons, et un château au loin. Le 1, c’est le début d’un cycle, le diamant brut. Les Bâtons, c’est le Feu : la création, l’élan, l’énergie qui fait démarrer. Et le conseil du 1, dans mes notes, c’est l’humilité : préparez-vous à apprendre.
+*Le thème de l’année qui vient :* l’As de Bâtons, un seul bâton, déjà en bourgeons, et un château au loin. Le 1, c’est le début d’un cycle, le diamant brut. Les Bâtons, c’est le Feu : la création, l’élan, l’énergie qui fait démarrer. Mes notes associent au 1 un conseil d’humilité : préparez-vous à apprendre.
 
 Regardez les deux nombres de part et d’autre de l’espace : 10, puis 1. Le cycle repart à zéro, exactement comme un anniversaire.
 
@@ -64,6 +64,6 @@ Et si l’année qui se termine a été très dure, la première position peut f
 
 ## Le jour même {#le-jour-meme}
 
-Tirez les quatre cartes le matin de votre anniversaire, ou la veille au soir, et écrivez une ligne pour chacune. Puis refermez le carnet et gardez la page pour l’an prochain : relire le tirage de l’année passée à votre anniversaire suivant, c’est le meilleur moment, parce que vous verrez ce que le thème voulait vraiment dire.
+Tirez les quatre cartes le matin de votre anniversaire, ou la veille au soir, et consacrez une ligne à chaque carte. Le carnet refermé, gardez la page pour l’an prochain : relire le tirage de l’année passée à votre anniversaire suivant, c’est le meilleur moment, parce que vous verrez ce que le thème voulait vraiment dire.
 
 Si vous voulez une carte qui vous suive bien au-delà de cette année, [votre carte de naissance au tarot](/fr/blog/carte-de-naissance-tarot/) se calcule à partir de la même date et vous accompagne toute la vie.

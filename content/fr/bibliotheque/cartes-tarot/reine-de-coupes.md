@@ -64,7 +64,7 @@ Le [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) et le [blanc](/fr/bibliotheque/
 
 Renversée, la profondeur se referme ou déborde. Refermée : le couvercle reste en place — des sentiments si bien gardés que personne ne peut les atteindre, une intuition entendue puis ignorée. Débordante : l’eau passe par-dessus — vous absorbez les émotions des autres, vous rapportez leurs humeurs chez vous, et vous perdez la trace des vôtres jusqu’à ne plus savoir ce que vous voulez.
 
-À côté de [la Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), l’intuition est doublée : ce qui n’est pas dit est entendu. À côté de la [Reine d’Épées](/fr/bibliotheque/cartes-tarot/reine-de-epees/), les deux Reines se partagent le travail : l’une recueille ce qui se ressent, l’autre le nomme. À côté de [la Lune](/fr/bibliotheque/cartes-tarot/la-lune/), le sentiment risque de tourner à l’illusion, et il vaut la peine de vérifier ce qui vient de vous et ce qui vient de la peur.
+À côté de [la Grande Prêtresse](/fr/bibliotheque/cartes-tarot/la-grande-pretresse/), l’intuition est doublée : ce qui n’est pas dit est entendu. À côté de la [Reine d’Épées](/fr/bibliotheque/cartes-tarot/reine-de-epees/), les deux Reines se partagent le travail : l’une recueille ce qui se ressent, l’autre le nomme. À côté de [la Lune](/fr/bibliotheque/cartes-tarot/la-lune/), le sentiment risque de tourner à l’illusion : faites le tri entre ce qui vient de vous et ce qui vient de la peur.
 
 {{< cards "cuqu ar02 swqu ar18" >}}
 

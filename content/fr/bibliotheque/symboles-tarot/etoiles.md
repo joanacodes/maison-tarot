@@ -8,7 +8,7 @@ weight: 4
 categories: ["Symboles"]
 tags: ["symboles du tarot", "étoiles tarot", "l’Étoile", "l’Impératrice", "le Chariot", "pentacle"]
 h1: "Les étoiles — une lumière pour se <em>guider</em>"
-lede: "Une étoile, c’est une lumière qu’on n’atteint pas mais qu’on peut suivre. Dans le jeu de 1909, les étoiles couronnent l’Impératrice, couvrent le dais du Chariot, remplissent le ciel de l’Étoile — et se cachent, à cinq branches, dans chaque Pentacle."
+lede: "Une étoile, c’est une lumière qu’on n’atteint pas mais qu’on peut suivre. On en trouve en couronne sur l’Impératrice, semées sur le dais du Chariot, plein le ciel de l’Étoile — et, à cinq branches, au cœur de chaque Pentacle."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/l-etoile
@@ -53,7 +53,7 @@ Une étoile, c’est un point de lumière très lointain, qui bouge peu d’une 
 
 Un exemple de tous les jours : ce à quoi vous revenez toujours quand vous pensez aux cinq prochaines années — le métier que vous feriez si l’argent ne comptait pas, la ville où vous aimeriez vivre. Vous n’y êtes pas. Mais vous savez de quel côté c’est. On dit bien « suivre sa bonne étoile ».
 
-## Où elles apparaissent dans le jeu {#ou}
+## Du ciel de l’Étoile aux pièces des Pentacles {#ou}
 
 Sur [l’Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/), XVII, une grande étoile jaune à huit branches brille au-dessus de sept plus petites, blanches, et d’une femme qui verse de l’eau dans un bassin et sur la terre. C’est le ciel d’après la Tour : plus rien ne tombe.
 
@@ -71,7 +71,7 @@ Et sur chaque carte de Pentacles, le signe de la suite est une étoile à cinq b
 
 {{< zoom "stars" "rest" >}}
 
-La carte de l’Étoile a sa propre page, et son signe dans la Golden Dawn, le [Verseau](/fr/bibliotheque/astrologie/verseau/), en a une autre. Cette page suit les étoiles dessinées.
+Ces lignes ne lisent ni la carte XVII en entier ni le [Verseau](/fr/bibliotheque/astrologie/verseau/) que la Golden Dawn lui associe : elles suivent seulement les étoiles dessinées, d’une carte à l’autre.
 
 ## Comment les lire {#lecture}
 

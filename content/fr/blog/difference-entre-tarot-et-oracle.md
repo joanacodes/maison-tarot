@@ -17,11 +17,11 @@ Les deux se lisent. Un seul vous apprend une grammaire que vous emporterez d’u
 
 ## Qu’est-ce qu’un jeu de tarot ? {#le-tarot}
 
-Un tarot, c’est 78 cartes en deux groupes. Les 22 arcanes majeurs sont des figures nommées et numérotées : le Mat, le Magicien, la Mort, le Monde. Les 56 arcanes mineurs forment quatre familles de quatorze cartes — Bâtons, Coupes, Épées et Pentacles —, chacune de l’As au Dix, suivies de quatre figures : Valet, Cavalier, Reine, Roi.
+Un tarot, c’est 78 cartes partagées entre deux ensembles. D’un côté, 22 arcanes majeurs, chacun avec un nom et un numéro : le Mat, le Magicien, la Mort, le Monde. De l’autre, 56 arcanes mineurs, rangés en quatre séries : Bâtons, Coupes, Épées et Pentacles. Chaque série monte de l’As jusqu’au Dix, puis aligne quatre personnages de cour.
 
 Cette structure tient dans le Rider-Waite-Smith de 1909, dans un tarot de Marseille, dans un jeu contemporain illustré de chats. Les noms bougent un peu, le dessin change du tout au tout, le squelette reste. Ouvrez un jeu que vous n’avez jamais vu : vous savez déjà où habite le Trois de Coupes.
 
-**C’est ce squelette qui vous permet de lire une carte que vous n’avez jamais apprise.** Chaque mineur porte un nombre et un élément. Prenez les quatre Huit :
+**Grâce à ce squelette, une carte inconnue reste lisible.** Chaque mineur porte un nombre et un élément. Prenez les quatre Huit :
 
 {{< cards "wa08 cu08 sw08 pe08" >}}
 
@@ -55,7 +55,7 @@ Une clé de lecture passe d’un monde à l’autre sans perte : la couleur. Le 
 
 ## Par lequel commencer ? {#par-lequel-commencer}
 
-Le tarot — idéalement le Rider-Waite-Smith, où chacune des 78 cartes est une scène qu’on lit sans livre. J’explique [pourquoi je fais commencer tout le monde avec ce jeu](/fr/blog/quel-jeu-de-tarot-choisir/). Apprenez la structure une fois, et chaque tarot suivant s’ouvrira tout seul.
+Le tarot — idéalement le Rider-Waite-Smith, où chacune des 78 cartes est une scène qu’on lit sans livre. J’explique [ce qui fait de lui mon premier jeu conseillé](/fr/blog/quel-jeu-de-tarot-choisir/). Apprenez la structure une fois, et chaque tarot suivant s’ouvrira tout seul.
 
 Un oracle fait un très joli deuxième jeu. Certains tarologues tirent une carte d’oracle en fin de tirage, comme une note finale ; d’autres en gardent un pour les matins sans envie de nombres. Pour moi, des jeux se collectionnent comme des tableaux, chaque carte pouvant porter un message, et un bel oracle a autant sa place dans la collection qu’un tarot.
 

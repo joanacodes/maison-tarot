@@ -49,11 +49,11 @@ Lisez les trois comme une seule phrase avant de les lire une par une, puis écri
 
 ## Un tirage de Samhain, en exemple {#exemple}
 
-Imaginons que quelqu’un tire le Neuf de Pentacles, le Huit de Coupes et le Quatre de Bâtons.
+Voici un tirage inventé pour l’exemple : le Neuf de Pentacles, le Huit de Coupes et le Quatre de Bâtons.
 
 {{< cards "pe09 cu08 wa04" >}}
 
-La récolte, c’est le [Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/). Le 9 est la ligne d’arrivée d’un cycle ; les Pentacles sont la Terre — la matière, l’argent, et plus largement ce qui compte à vos yeux. Une femme dans son jardin, au milieu des vignes, un oiseau sur le gant : quelque chose a été construit, et ça a payé.
+La récolte, c’est le [Neuf de Pentacles](/fr/bibliotheque/cartes-tarot/neuf-de-pentacles/). Le 9 marque l’arrivée au bout d’un cycle ; les Pentacles sont la Terre — la matière, l’argent, et plus largement ce qui compte à vos yeux. Une femme dans son jardin, au milieu des vignes, un oiseau sur le gant : quelque chose a été construit, et ça a payé.
 
 Ce qui reste derrière, c’est le Huit de Coupes : un personnage s’en va et laisse huit coupes soigneusement rangées. Les Coupes sont l’émotion ; ce huit-là, c’est quitter ce que l’on fait déjà pour autre chose. Sans doute pas une personne — une manière d’aimer qui a fait son temps.
 

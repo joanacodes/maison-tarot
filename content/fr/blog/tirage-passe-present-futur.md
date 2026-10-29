@@ -47,7 +47,7 @@ Ce qui est là : le Cinq de Bâtons — cinq jeunes gens armés de bâtons qui o
 
 Ce qui bloque : le [Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/) — une femme aux yeux bandés, attachée sans serrer, huit épées plantées autour d’elle, un château sur une colline derrière. L’Air, le chiffre 8. Dans mes notes, cette carte décrit une prison bâtie par soi-même, avec pourtant tout le nécessaire pour en sortir — et ce bandeau-là s’enlève. Le blocage est une pensée, pas un mur.
 
-Ce que vous pouvez faire : le Six de Coupes — deux enfants dans un jardin de village, l’un tend à l’autre une coupe pleine de fleurs blanches, toute la scène dans des jaunes chauds. L’Eau, le chiffre 6 : prendre du temps pour soi, l’enfance, l’harmonie. Et le jaune, dans ma grille des couleurs, c’est la joie et l’enfant intérieur.
+Ce que vous pouvez faire : le Six de Coupes — une cour de village baignée de jaunes chauds, où un enfant présente à un plus petit une coupe garnie de fleurs blanches. L’Eau, le chiffre 6 : prendre du temps pour soi, l’enfance, l’harmonie. Et le jaune, dans ma grille des couleurs, c’est la joie et l’enfant intérieur.
 
 En lisant la ligne : le Feu, puis l’Air, puis l’Eau — le bruit, puis une pensée, puis un sentiment. Les nombres 5, 8, 6 : le conflit, le point de blocage, la respiration. Résumé pour la personne : « Ça s’agite beaucoup autour de vous et chacun tire de son côté ; ce qui vous retient, c’est l’idée que vous ne pouvez pas bouger ; cette semaine, faites quelque chose de petit et de doux pour vous, le genre de chose que vous faisiez enfant. »
 

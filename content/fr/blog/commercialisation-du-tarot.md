@@ -9,7 +9,7 @@ tags: ["tarot gratuit", "payer un tirage de tarot", "tarot et argent", "tarologu
 image: "covers/tarot-and-capitalism.jpg"
 imageAlt: "Un jeu de tarot fermé et quelques pièces de monnaie posés côte à côte sur une table en bois."
 imagePrompt: "A closed tarot deck and a few coins side by side on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Le tarot n’a pas à être gratuit, et faire payer un tirage n’a rien de malhonnête : le temps, la formation et l’attention d’une personne qui lit sont du travail. Ce qui change quand une pratique devient un produit, c’est ce qu’elle récompense. Un produit vit des visites répétées, des options et des questions les plus demandées, qui sont souvent les plus risquées. Le gratuit n’est pas pur pour autant : il peut servir d’appât. Ma réponse : je vends des cours et je donne les tirages aux événements gratuits, pour que rien ne me pousse à faire revenir qui que ce soit."
+summary: "Le tarot n’a pas à être gratuit, et faire payer un tirage n’a rien de malhonnête : le temps, la formation et l’attention d’une personne qui lit sont du travail. Ce qui change quand une pratique devient un produit, c’est ce qu’elle récompense. Un produit vit des visites répétées, des options et des questions les plus demandées, qui sont souvent les plus risquées. Le gratuit n’est pas pur pour autant : il peut servir d’appât. Ma réponse : mes revenus viennent des cours, et les tirages restent gratuits, réservés aux événements, pour que rien ne me pousse à faire revenir qui que ce soit."
 ---
 Non, le tarot n’a pas à être gratuit, et quelqu’un qui fait payer ses tirages ne fait rien de mal. Toute peine mérite salaire : le temps, la formation et l’attention sont du travail. Ce qui m’intéresse, c’est ce que l’argent fait à une pratique quand elle devient un produit — il change les choses en douce, même chez des gens bien — et pourquoi j’ai fini par vendre des cours et donner les tirages.
 
@@ -59,7 +59,7 @@ Je peux me le permettre parce que les cours, eux, sont payants. Tout le monde n�
 
 Je vends des cours : des séances individuelles d’une heure, et des ateliers où douze personnes passent trois heures sur une seule clé de lecture. Les tirages, eux, ont lieu aux événements gratuits, tirés au sort, devant tout le monde.
 
-Toujours pour une question d’intérêt. Une pratique qui vit des tirages a besoin qu’on revienne pour des tirages. Une pratique qui vit de l’enseignement a besoin qu’on reparte en sachant plus, et en ayant moins besoin de moi. Et à un événement gratuit, dire « celui-là est raté » ne me coûte rien, alors je le dis à chaque fois.
+Toujours pour une question d’intérêt. Une pratique qui vit des tirages a besoin qu’on revienne pour des tirages. Une pratique qui vit de l’enseignement, elle, réussit quand vous repartez plus capable, et que vous pouvez davantage vous passer de moi. Et à un événement gratuit, dire « celui-là est raté » ne me coûte rien, alors je le dis à chaque fois.
 
 J’ai détaillé à part [ce qui est payant chez moi, et ce qui ne l’est pas](/fr/blog/ce-que-je-fais-payer/). Pour comparer des tarologues payants, voyez [ce qui se cache dans le prix d’un tirage](/fr/blog/prix-tirage-tarot/).
 
@@ -74,4 +74,4 @@ Si vous préférez payer quelqu’un — et beaucoup de bons tarologues font pay
 5. La séance se termine sans suspense.
 6. Personne ne vous annonce que vous avez « quelque chose sur vous » que lui seul peut retirer.
 
-Si vous voulez voir à quoi ressemble un tirage quand rien n’est à vendre derrière, [venez à un événement gratuit](/fr/evenements/). Les personnes que j’y lis ne me disent rien avant que je commence, et vous pourrez compter mes ratés avec moi.
+Les [soirées de tirage gratuites](/fr/evenements/) montrent à quoi ressemble un tirage quand rien n’est à vendre derrière. Les personnes que j’y lis ne me disent rien avant que je commence, et vous pourrez compter mes ratés avec moi.

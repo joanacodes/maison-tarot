@@ -37,9 +37,9 @@ Après une rupture, la Tour, c’est souvent le moment où vous avez compris. Ou
 
 On m’apporte cette lame avec de la peur dans la voix, et souvent avec cette question-là. Ou bien : est-ce que c’est la fin ? C’est une question naturelle. Quand le sol bouge, on voudrait qu’on nous dise où il va se stabiliser.
 
-La suite de la relation après la Tour, je ne la lis pas : elle dépend de deux personnes, de leurs choix dans les semaines et les mois qui viennent, et de beaucoup de choses qu’aucune des deux ne sait encore. L’autre n’est pas dans la pièce. Une carte ne peut pas répondre à sa place, et un tirage qui prétendrait le faire ne ferait qu’ajouter un second choc au premier.
+La suite de la relation après la Tour, je ne la lis pas : elle dépend de deux personnes, de leurs choix dans les semaines et les mois qui viennent, et de beaucoup de choses qu’aucune des deux ne sait encore. L’autre personne ne participe pas à ce tirage, et aucune carte ne répondra à sa place ; un tirage qui prétendrait le faire ne ferait qu’ajouter un second choc au premier.
 
-Une question plus douce : « Qu’est-ce que ça m’a montré que je ne voulais pas voir ? » Puis : « De quoi ai-je besoin cette semaine pour me sentir stable ? » Celles-là trouvent leur réponse chez vous. Elles mènent aussi, tout naturellement, à la conversation qui décidera du reste — celle avec l’autre, pas avec un jeu de cartes.
+Ce qui reste debout se lit mieux avec deux autres questions. D’abord : « Qu’est-ce que ça m’a montré que je ne voulais pas voir ? » Puis : « De quoi ai-je besoin cette semaine pour me sentir stable ? » Celles-là trouvent leur réponse chez vous. Elles mènent aussi, tout naturellement, à la conversation qui décidera du reste — celle avec l’autre, pas avec un jeu de cartes.
 
 Si une carte semble un jour vous dire de rester ou de partir, rappelez-vous que [le tarot n’a pas le dernier mot](/fr/blog/le-tarot-nest-pas-une-autorite/) : fiez-vous à ce que vous ressentez pour agir, avec les personnes concernées, à votre rythme.
 

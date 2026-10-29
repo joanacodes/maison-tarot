@@ -71,4 +71,4 @@ Il n’y a aucune honte à tout ça. Ces modèles sont faits pour paraître peti
 
 ## Ma position {#ma-position}
 
-Je ne vends pas de lectures, ni à la question ni autrement. Je vends des cours, et les lectures sont gratuites lors des événements. C’est [mon choix, et ce qui l’explique](/fr/blog/ce-que-je-fais-payer/), pas une règle pour tout le monde. Si vous comparez des tarologues payants, [ce qui entre dans un prix honnête](/fr/blog/prix-tirage-tarot/) complète cette page. Et si vous voulez voir une lecture sans compteur ni suite à payer, [venez à un événement gratuit](/fr/evenements/).
+Je ne vends pas de lectures, ni à la question ni autrement. Je vends des cours, et les lectures sont gratuites lors des événements. C’est [mon choix, et ce qui l’explique](/fr/blog/ce-que-je-fais-payer/), pas une règle pour tout le monde. Si vous comparez des tarologues payants, [ce qui entre dans un prix honnête](/fr/blog/prix-tirage-tarot/) complète cette page. Une lecture sans compteur ni suite à payer, ça existe : [venez la voir à un événement gratuit](/fr/evenements/).

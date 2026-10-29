@@ -51,7 +51,7 @@ Une case est une poignée, pas une définition. Elle vous donne un point de dép
 
 Prenez un nombre et lisez-le à travers les quatre familles. C’est le moyen le plus rapide que je connaisse pour comprendre à la fois le nombre et les familles, parce qu’une seule chose change à la fois.
 
-Les Cinq sont les plus parlants. Cinq, c’est la lutte et l’essai, quand il faut composer avec ce qu’on a sous la main. Dans mes notes, les personnages du Cinq de Bâtons semblent se battre, sans aucune coordination. De toutes les lames, la plus négative à mes yeux reste le Cinq de Coupes : perdre, broyer du noir, porter seul ses problèmes. Le Cinq d’Épées est un conflit d’Air, autour des décisions : on n’a pas le même point de vue. Le Cinq de Pentacles, c’est la pauvreté dans la neige, en passant devant l’église où l’on trouverait de la chaleur. Une bagarre, une perte, un désaccord, un hiver difficile. Le conseil du 5 est le même pour les quatre : évitez les combats inutiles, et soyez honnête avec vous-même et avec la situation.
+Les Cinq sont les plus parlants. Cinq, c’est la lutte et l’essai, quand il faut composer avec ce qu’on a sous la main. Dans mes notes, les personnages du Cinq de Bâtons semblent se battre, sans aucune coordination. De toutes les lames, la plus négative à mes yeux reste le Cinq de Coupes : perdre, broyer du noir, porter seul ses problèmes. Le Cinq d’Épées est un conflit d’Air, autour des décisions, entre gens qui ne regardent pas du même endroit. Le Cinq de Pentacles, c’est la pauvreté dans la neige, en passant devant l’église où l’on trouverait de la chaleur. Une bagarre, une perte, un désaccord, un hiver difficile. Le conseil du 5 vaut pour les quatre : ne livrez que les batailles qui en valent la peine, et regardez la situation, votre part comprise, sans vous mentir.
 
 {{< cards "wa05 cu05 sw05 pe05" >}}
 
@@ -73,7 +73,7 @@ C’est pour cela qu’un tirage rempli d’une seule famille vous dit le plan a
 
 ## Les figures : Valet, Cavalier, Reine, Roi {#figures}
 
-Chaque famille a quatre figures. Le rang montre la manière, la famille le terrain. Dans la convention que j’utilise, chaque rang apporte aussi un élément à sa famille — la Terre au Valet, l’Air au Cavalier, l’Eau à la Reine, le Feu au Roi — si bien que la Reine de Coupes est l’Eau de l’Eau. **Une figure peut être une personne de votre vie ou un état que vous traversez, et c’est la personne en face qui vous dit lequel.** J’y reviens en détail dans [les figures du tarot](/fr/blog/figures-du-tarot-valet-cavalier-reine-roi/).
+Chaque famille a quatre figures. Le rang montre la manière, la famille le terrain. Dans la convention que j’utilise, chaque rang apporte aussi un élément à sa famille — la Terre au Valet, l’Air au Cavalier, l’Eau à la Reine, le Feu au Roi —, et chaque figure se lit alors comme un mélange de deux éléments. **Une figure peut être une personne de votre vie ou un état que vous traversez, et c’est la personne en face qui vous dit lequel.** J’y reviens en détail dans [les figures du tarot](/fr/blog/figures-du-tarot-valet-cavalier-reine-roi/).
 
 | Rang | Bâtons | Coupes | Épées | Pentacles |
 |---|---|---|---|---|
@@ -82,13 +82,13 @@ Chaque famille a quatre figures. Le rang montre la manière, la famille le terra
 | Reine | [la chaleur et l’assurance](/fr/bibliotheque/cartes-tarot/reine-de-batons/) | [le sentiment profond, l’intuition](/fr/bibliotheque/cartes-tarot/reine-de-coupes/) | [la clarté et les limites](/fr/bibliotheque/cartes-tarot/reine-de-epees/) | [le soin concret](/fr/bibliotheque/cartes-tarot/reine-de-pentacles/) |
 | Roi | [la vision, l’art de mener](/fr/bibliotheque/cartes-tarot/roi-de-batons/) | [le calme sous la surface](/fr/bibliotheque/cartes-tarot/roi-de-coupes/) | [la décision que personne d’autre ne prendra](/fr/bibliotheque/cartes-tarot/roi-de-epees/) | [faire prospérer](/fr/bibliotheque/cartes-tarot/roi-de-pentacles/) |
 
-Le [Valet](/fr/bibliotheque/numerologie/valet/) apprend, regarde, essaie, et porte le message. Le [Cavalier](/fr/bibliotheque/numerologie/cavalier/) s’en va : il a appris ce qu’il fallait, ou il le croit, et chacun se lit à son cheval, de celui qui se cabre au seul qui reste immobile. La [Reine](/fr/bibliotheque/numerologie/reine/) ne part pas et ne commande pas : elle tient, une maîtrise de l’intérieur. Le [Roi](/fr/bibliotheque/numerologie/roi/) décide, puis il en répond. La question à poser à chaque Roi : pour qui ?
+Le [Valet](/fr/bibliotheque/numerologie/valet/) apprend, regarde, essaie, et porte le message. Le [Cavalier](/fr/bibliotheque/numerologie/cavalier/) s’en va : il a appris ce qu’il fallait, ou il le croit, et chacun se lit à son cheval, de celui qui se cabre au seul qui reste immobile. La [Reine](/fr/bibliotheque/numerologie/reine/) reste sur place sans donner d’ordres : elle maîtrise son élément du dedans. Le [Roi](/fr/bibliotheque/numerologie/roi/) décide, puis il en répond. La question à poser à chaque Roi : pour qui ?
 
-Le double élément explique beaucoup de mots-clés. Le Roi d’Épées est le Feu de l’Air : une tête qui décide, et vite, d’où la décision que personne d’autre ne prendra. Le Cavalier de Bâtons est l’Air du Feu, du vent sur une flamme : le départ avant le plan. Le Valet de Pentacles est la Terre de la Terre, le plus concret des seize : l’apprenti qui apprend en faisant. La Reine de Coupes est l’Eau de l’Eau, le sentiment tenu à l’intérieur du sentiment.
+Le double élément explique beaucoup de mots-clés. Le Roi d’Épées est le Feu de l’Air : une tête qui décide, et vite, d’où la décision que personne d’autre ne prendra. Le Cavalier de Bâtons est l’Air du Feu, du vent sur une flamme : le départ avant le plan. Le Valet de Pentacles est la Terre de la Terre, le plus concret des seize : l’apprenti qui apprend en faisant. Quant à la Reine de Coupes, elle cumule deux fois l’Eau : une émotion contenue dans une autre émotion.
 
 ## Lire une lame mineure en trente secondes {#comment-lire}
 
-Le nombre d’abord, la famille ensuite, le dessin en dernier. Imaginons qu’on tire le Sept de Pentacles. Sept : la réflexion, la patience, la récolte. Pentacles : la Terre, le travail, le concret. Le dessin : un homme appuyé sur sa houe, qui regarde ce qui pousse. À voix haute, cela donne : « Vous avez fait le travail. Maintenant il faut du temps, et ce n’est pas en tirant sur l’herbe qu’elle pousse plus vite. » Puis vous demandez si ça parle — et si ça ne parle pas, vous notez un raté.
+Le nombre d’abord, la famille ensuite, le dessin en dernier. Imaginons qu’on tire le Sept de Pentacles. Sept : la réflexion, la patience, la récolte. Pentacles : la Terre, le travail, le concret. Le dessin : un jardinier en pause, les mains sur le manche de son outil, qui observe ses pièces mûrir sur le buisson. À voix haute, cela donne : « Vous avez fait le travail. Maintenant il faut du temps, et ce n’est pas en tirant sur l’herbe qu’elle pousse plus vite. » Puis vous demandez si ça parle — et si ça ne parle pas, vous notez un raté.
 
 Renversée, une lame mineure reste dans sa case : la même étape sur le même plan, ralentie, bloquée ou en excès. Le Huit de Bâtons qui n’arrive pas à décoller ; le Quatre de Pentacles qui serre encore plus fort, ou qui lâche enfin prise. Pas besoin d’une deuxième grille.
 
@@ -100,4 +100,4 @@ Commencez par les quatre As : une graine par élément, et la façon la plus dir
 
 Chaque jour, avant de chercher quoi que ce soit, décrivez ce qu’il y a sur la carte, ce que vous voyez et ce que vous recevez. Puis vérifiez sur sa page.
 
-Si vous préférez apprendre avec d’autres, les [ateliers](/fr/ateliers/) fonctionnent de la même façon : trois heures, douze personnes, une clé de lecture.
+Si vous préférez apprendre avec d’autres, les [ateliers](/fr/ateliers/) avancent de la même manière : chaque séance de trois heures réunit douze personnes autour d’une seule clé.

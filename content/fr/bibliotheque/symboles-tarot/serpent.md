@@ -8,7 +8,7 @@ weight: 18
 categories: ["Symboles"]
 tags: ["symboles du tarot", "serpent", "les Amoureux", "Roue de Fortune", "symbolisme du tarot"]
 h1: "Le serpent — la <em>tentation</em> et la mue"
-lede: "Le serpent change de peau et se glisse là où on ne l’attend pas. Dans le Rider-Waite-Smith, il s’enroule autour de l’arbre des Amoureux, descend le long de la Roue de Fortune et sort de l’une des coupes du Sept de Coupes : le désir, le changement, et la voix qui rend une mauvaise idée séduisante."
+lede: "Le serpent change de peau et se glisse là où on ne l’attend pas. On le trouve enroulé à l’arbre des Amoureux, glissant le long de la Roue de Fortune, sortant d’une coupe du Sept de Coupes : le désir, le changement, et la voix qui rend une mauvaise idée séduisante."
 related:
 - /bibliotheque/symboles-tarot
 - /bibliotheque/cartes-tarot/les-amoureux
@@ -53,7 +53,7 @@ Un serpent avance sans pattes, change de peau, et on le voit rarement venir. Ces
 
 Ce n’est pas seulement un méchant. La mue, c’est le renouveau : la vieille peau laissée sur une pierre, l’animal qui continue sans elle.
 
-## Où il apparaît dans le jeu {#ou}
+## Dans l’arbre, sur la Roue, au fond d’une coupe {#ou}
 
 Sur [les Amoureux](/fr/bibliotheque/cartes-tarot/les-amoureux/), un serpent vert s’enroule autour du tronc de l’arbre fruitier, derrière la femme. La scène emprunte au jardin d’Éden, et le choix dont parle la carte arrive avec sa tentation intégrée.
 
@@ -73,9 +73,9 @@ Sur le Magicien, le guide de Waite décrit la ceinture comme un serpent qui se m
 
 Quand un serpent sort, demandez-vous si quelque chose est en train de muer, ou si quelque chose est en train de s’infiltrer. Le même animal, deux directions.
 
-Les clés de lecture : les Amoureux sont une carte d’[Air](/fr/bibliotheque/quatre-elements/element-air/), et dans mes notes l’Air, c’est la communication, bonne ou mauvaise — la langue de vipère. Le serpent y est la voix qui persuade, en vous ou hors de vous. Le Sept de Coupes porte le [7](/fr/bibliotheque/numerologie/chiffre-7/) : l’indécision, trop de choix, et le serpent est l’option qui ressemble à toutes les autres. La couleur : les serpents de la Roue et du Sept de Coupes sont jaunes, la volonté et la fierté ; celui des Amoureux est vert, la croissance et l’appétit.
+Les Amoureux sont une carte d’[Air](/fr/bibliotheque/quatre-elements/element-air/), l’élément de la parole sous toutes ses formes, y compris la langue de vipère. Le serpent y est la voix qui persuade, en vous ou hors de vous. Le Sept de Coupes porte le [7](/fr/bibliotheque/numerologie/chiffre-7/) : l’indécision, trop de choix, et le serpent est l’option qui ressemble à toutes les autres. Les serpents de la Roue et du Sept de Coupes sont jaunes, la volonté et la fierté ; celui des Amoureux est vert, la croissance et l’appétit.
 
-Imaginons que quelqu’un tire les Amoureux à côté du Sept de Coupes. Deux serpents, deux choix, et la question utile n’est pas « lequel ? » mais « quelle voix est en train de me convaincre ? ».
+Les Amoureux et le Sept de Coupes côte à côte : deux serpents, deux choix, et la question utile n’est pas « lequel ? » mais « quelle voix est en train de me convaincre ? ».
 
 ## L’autre face {#revers}
 

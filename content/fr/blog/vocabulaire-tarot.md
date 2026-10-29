@@ -9,7 +9,7 @@ tags: ["vocabulaire du tarot", "lexique du tarot", "lame de tarot", "arcane", "t
 image: "covers/tarot-terms-glossary.jpg"
 imageAlt: "Un carnet ouvert avec des listes de mots écrites à la main, à côté d’une petite pile de cartes de tarot sur un bureau en bois"
 imagePrompt: "An open notebook with short handwritten lists on both pages, a small stack of tarot cards and a pencil beside it on a wooden desk. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Le vocabulaire du tarot est plus simple qu’il n’en a l’air. Un jeu compte 78 cartes, qu’on appelle aussi lames ou arcanes : 22 arcanes majeurs, du Mat au Monde, et 56 arcanes mineurs répartis en quatre familles — Bâtons, Coupes, Épées, Pentacles — avec des cartes numérales de l’As au Dix et quatre figures. Le tirage, c’est sortir les cartes ; la lecture, c’est les interpréter. Un significateur représente la personne, une carte de clarification s’ajoute pour expliquer, et une lecture à l’aveugle se fait sans rien savoir. Voici 25 mots, chacun avec un exemple."
+summary: "Le vocabulaire du tarot est plus simple qu’il n’en a l’air. Un jeu compte 78 cartes, qu’on appelle aussi lames ou arcanes : 22 arcanes majeurs, du Mat au Monde, puis les 56 mineurs, rangés par familles (Bâtons, Coupes, Épées, Pentacles), chacune avec ses cartes numérales de l’As au Dix et ses quatre figures. Le tirage, c’est sortir les cartes ; la lecture, c’est les interpréter. Un significateur représente la personne, une carte de clarification s’ajoute pour expliquer, et une lecture à l’aveugle se fait sans rien savoir. Voici 25 mots, chacun avec un exemple."
 ---
 Le tarot a son propre vocabulaire, et la plupart des mots sont plus simples qu’ils n’en ont l’air. Voici 25 termes que vous croiserez dans les livres, les vidéos et les tirages, chacun défini en une phrase et illustré par un exemple. Quand j’emploie un mot autrement, ou pas du tout, je le dis après la définition.
 
@@ -17,15 +17,15 @@ Ce sont les mots des cartes et de la lecture elle-même. Des mots comme empathe,
 
 ## Le jeu : lames, arcanes et familles {#le-jeu}
 
-1. **Jeu de tarot** — un ensemble de 78 cartes : 22 arcanes majeurs et 56 arcanes mineurs. Exemple : le Rider-Waite-Smith suit exactement cette structure, comme la plupart des tarots vendus aujourd’hui.
+1. **Jeu de tarot** — un ensemble de 78 cartes : les 22 arcanes majeurs, puis les 56 arcanes mineurs. Exemple : le Rider-Waite-Smith suit exactement cette structure, comme la plupart des tarots vendus aujourd’hui.
 2. **Lame** — un autre mot pour « carte » au tarot, surtout employé en français. Exemple : « la lame XIII », c’est la Mort.
 3. **Arcane** — du latin *arcanum*, « secret » ; au tarot, le mot désigne les cartes elles-mêmes. Exemple : au tarot de Marseille, la lame XIII ne porte pas de nom, d’où son surnom d’« Arcane sans nom ».
 4. **Arcanes majeurs** — les 22 cartes qui portent un nom, du Mat au Monde. Elles parlent des grands chapitres d’une vie. Exemple : l’arcane majeur numéro 1 est le Magicien, que les jeux marseillais nomment le Bateleur.
 5. **Arcanes mineurs** — les 56 autres cartes, en quatre familles de quatorze. Elles parlent des jours à l’intérieur de ces chapitres. Exemple : le Trois de Coupes. Tout l’écart entre les deux groupes est expliqué dans [majeurs et mineurs, la différence](/fr/blog/arcanes-majeurs-et-mineurs/).
-6. **Famille** (ou enseigne) — l’un des quatre groupes des arcanes mineurs, chacun lié à un élément : Bâtons (Feu), Coupes (Eau), Épées (Air), Pentacles (Terre). Exemple : au tarot de Marseille, les Pentacles s’appellent les Deniers.
+6. **Famille** (ou enseigne) — l’un des quatre groupes des arcanes mineurs, chacun lié à un élément : Bâtons (Feu), Coupes (Eau), Épées (Air), Pentacles (Terre). Exemple : ce que le Rider-Waite-Smith nomme Pentacles, le tarot de Marseille l’appelle Deniers.
 7. **Cartes numérales** — les mineurs numérotés, de l’As au Dix, quarante en tout. Exemple : le Cinq de Pentacles est une numérale.
 8. **Figures** (ou cartes de cour) — les seize cartes « personnages » : Valet, Cavalier, Reine et Roi de chaque famille. Exemple : le Roi de Coupes, souvent lu comme une personne, ou comme une manière d’agir.
-9. **Rider-Waite-Smith** — le jeu publié à Londres en 1909, conçu par Arthur Edward Waite et dessiné par Pamela Colman Smith, où chaque carte porte une scène, numérales comprises. Exemple : toutes les cartes affichées sur ce site en viennent.
+9. **Rider-Waite-Smith** — le jeu publié à Londres en 1909 : Arthur Edward Waite l’a conçu, Pamela Colman Smith l’a illustré, et chaque carte y porte une scène, numérales comprises. Exemple : toutes les cartes affichées sur ce site en viennent.
 10. **Tarot de Marseille** — le modèle français traditionnel, dont les numérales montrent les symboles disposés sur la carte, sans scène. Exemple : son Trois de Coupes montre trois coupes, pas trois femmes qui les lèvent.
 11. **Oracle** — un jeu sans structure fixe : autant de cartes que l’auteur le souhaite, avec les significations qu’il a choisies. Exemple : un oracle de 44 cartes avec un mot imprimé sur chacune. Ce n’est pas un tarot, et [voici ce qui les distingue](/fr/blog/difference-entre-tarot-et-oracle/).
 
@@ -55,4 +55,4 @@ Ce sont les mots des cartes et de la lecture elle-même. Des mots comme empathe,
 
 Inutile de connaître les 25 pour commencer. Trois suffisent pour une première soirée : tirer une carte, l’élément, la clé de lecture. Tirez une carte, nommez son élément, regardez-la avec une seule clé, et dites ce que vous voyez.
 
-Le reste viendra en lisant. Quand vous voudrez voir les clés de lecture dans l’ordre, elles sont sur [la page méthode](/fr/methode/).
+Le reste viendra en lisant. Quand vous voudrez voir les clés de lecture dans l’ordre, [la page méthode](/fr/methode/) les présente une à une.

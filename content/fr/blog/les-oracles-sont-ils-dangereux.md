@@ -31,7 +31,7 @@ C’est tout ce qu’un jeu sait faire : montrer une image et un mot. Il ne vous
 
 Une personne qui tire l’oracle peut vous offrir une demi-heure douce et utile. Une personne qui promet peut vous coûter de l’argent, du temps, et la confiance en votre propre jugement. Voici les signes que je surveillerais :
 
-- Elle promet un résultat : « il reviendra d’ici trois semaines ». Ce sont les prospectus glissés dans les boîtes aux lettres, qui garantissent le « retour de l’être aimé » sous quinzaine, en version consultation.
+- Elle promet un résultat : « il reviendra d’ici trois semaines ». C’est le papier qu’on trouve parfois dans sa boîte aux lettres, celui qui garantit le « retour de l’être aimé » sous quinzaine, passé en version consultation.
 - Elle trouve une malédiction, un blocage ou une « énergie noire » qu’elle seule peut lever, moyennant paiement. C’est [l’une des plus vieilles arnaques du métier](/fr/blog/malediction-voyance-arnaque/).
 - Elle vous explique qu’il vous faut une autre séance, puis une autre, puis un forfait.
 - Elle vous fait peur d’abord, et vous rassure ensuite, contre paiement.
@@ -46,7 +46,7 @@ C’est le seul risque propre aux oracles. Une carte de tarot montre une scène 
 
 Ce n’en est pas un. Une carte n’est pas une autorité, et c’est vous qui décidez de ce que vous faites. Imaginons que vous tiriez « Lâcher prise » le matin d’un entretien d’embauche : il s’agit peut-être du trac, pas du poste. Demandez-vous ce que ce mot pourrait vouloir dire d’autre aujourd’hui, et écrivez votre réponse avant de décider quoi que ce soit.
 
-Si une carte de votre jeu vous serre toujours l’estomac, retirez-la. C’est votre jeu.
+Quand une carte vous noue le ventre à chaque fois, sortez-la du paquet : ce jeu est le vôtre.
 
 ## Quand l’habitude devient le problème {#l-habitude}
 
@@ -64,4 +64,4 @@ Enfin, certaines personnes se servent des cartes pour essayer de joindre des esp
 4. Notez ce que vous avez dit, et vérifiez une semaine plus tard si ça vous a aidé.
 5. Si quelqu’un commence à promettre, fermez l’onglet.
 
-Si vous hésitez encore entre deux jeux, j’ai expliqué [la différence entre tarot et oracle](/fr/blog/difference-entre-tarot-et-oracle/). Et si vous voulez savoir ce que promettent vraiment les mots qu’on lit sur les sites de voyance, [guidance, voyance et lecture](/fr/blog/guidance-ou-voyance/) y sont définis sans détour.
+Si vous hésitez encore entre deux jeux, j’ai expliqué [la différence entre tarot et oracle](/fr/blog/difference-entre-tarot-et-oracle/). Quant aux mots qu’on lit sur les sites de voyance, et à ce qu’ils promettent vraiment, [guidance, voyance et lecture](/fr/blog/guidance-ou-voyance/) y sont définis sans détour.

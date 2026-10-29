@@ -44,7 +44,7 @@ D’un enseignement sur l’endurance, la Golden Dawn a tiré la sphère de Vén
 | [Sept d’Épées](/fr/bibliotheque/cartes-tarot/sept-de-epees/) | Seigneur de l’Effort instable (Lune en Verseau) | durer par la ruse : emporter ce qu’on peut |
 | [Sept de Pentacles](/fr/bibliotheque/cartes-tarot/sept-de-pentacles/) | Seigneur du Succès inaccompli (Saturne en Taureau) | la longue attente avant la récolte |
 
-D’abord le nombre : le [7](/fr/bibliotheque/numerologie/chiffre-7/) invite à réfléchir, à patienter, à analyser avant d’agir ; c’est aussi la récolte et la négociation. Son conseil : aucune situation n’est définitive, heureuse ou non. Mes notes voient dans le Sept de Coupes quelqu’un qui ne sait plus choisir, devant trop d’options ; le Sept d’Épées doit laisser des choses derrière lui, mais récolte beaucoup. Netzah ajoute l’endurance : un Sept demande alors si la patience vaut ce qu’elle protège.
+D’abord le nombre : le [7](/fr/bibliotheque/numerologie/chiffre-7/) invite à réfléchir, à patienter, à analyser avant d’agir ; c’est aussi la récolte et la négociation. Son conseil : aucune situation n’est définitive, heureuse ou non. Mes notes voient dans le Sept de Coupes quelqu’un qui ne sait plus choisir, devant trop d’options ; le Sept d’Épées renonce à une partie de ce qu’il pourrait prendre, et repart pourtant avec une belle récolte. Netzah ajoute l’endurance : un Sept demande alors si la patience vaut ce qu’elle protège.
 
 Regardez le Sept de Pentacles : un jeune paysan appuyé sur sa houe, qui regarde un buisson de pièces qu’il ne peut pas presser. C’est Netzah en une image — la victoire, c’est de ne pas avoir lâché.
 

@@ -63,7 +63,7 @@ Le [gris](/fr/bibliotheque/couleurs-tarot/gris/) des corps et des cercueils : la
 
 ## Par l’astrologie : Pluton {#astrologie}
 
-La Golden Dawn a attribué le Jugement à l’élément Feu, par la lettre hébraïque Shin, et non à une planète. Les lecteurs modernes l’ont ensuite associé à [Pluton](/fr/bibliotheque/astrologie/pluton/), découverte en 1930 : la planète de la transformation, là où l’on meurt et renaît de son vivant, ce qu’on enterre et ce qui remonte. Par le Scorpion, Pluton relie aussi le Jugement à la Mort : deux cartes qui font peur en image et disent la même chose, que quelque chose finit pour que quelque chose d’autre commence. Et Pluton est une planète de génération : elle reste des années dans le même signe, si bien qu’elle parle d’une génération plus que d’une personne.
+La Golden Dawn a attribué le Jugement à l’élément Feu, par la lettre hébraïque Shin, et non à une planète. Les lecteurs modernes l’ont ensuite associé à [Pluton](/fr/bibliotheque/astrologie/pluton/), découverte en 1930 : la planète de la transformation, des renaissances en cours de vie, de ce qu’on enfouit et qui finit par ressortir. Par le Scorpion, Pluton rattache aussi le Jugement à la Mort : deux images qui effraient, pour un même message — une fin qui fait place à un début. Et Pluton est une planète de génération : elle reste des années dans le même signe, si bien qu’elle parle d’une génération plus que d’une personne.
 
 ## En lecture {#lecture}
 

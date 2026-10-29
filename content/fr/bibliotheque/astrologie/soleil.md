@@ -58,7 +58,7 @@ gallery:
 ---
 ## Ce qu’il fait dans un thème {#theme}
 
-Le Soleil est le signe que tout le monde connaît — celui qu’on donne quand on demande « tu es quoi ? ». Il dit le centre : ce autour de quoi la personne organise sa vie, la lumière qu’elle veut projeter. C’est aussi le placement le plus facile à flatter, et celui que j’ai trouvé le moins fiable au test. Signe régi : Lion.
+Le Soleil, c’est le signe que chacun connaît par cœur — celui qu’on donne quand on demande « tu es quoi ? ». Il marque le pivot d’une vie, ce qui la fait tourner, et l’éclat qu’on aimerait renvoyer. C’est aussi le placement le plus facile à flatter, et celui que j’ai trouvé le moins fiable au test. Signe régi : Lion.
 
 ## Les cartes qui le portent {#cartes}
 

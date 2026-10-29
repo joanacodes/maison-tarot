@@ -28,7 +28,7 @@ faq:
 - q: As de Bâtons renversé, ça change quoi ?
   a: 'Renversé, l’élan est là mais ne passe pas à l’action : le projet dont on parle depuis des mois, l’enthousiasme qui retombe avant le premier pas, ou dix débuts sans suite. On regarde ce qui retient l’étincelle, ou ce qui l’éparpille.'
 - q: Que veut dire l’As de Bâtons en amour ?
-  a: 'Il parle d’un désir qui arrive : une attirance nouvelle, une étincelle, ou une relation qui retrouve son énergie. Il ne dit rien de la durée ; elle dépend de ce que les deux personnes en feront.'
+  a: 'Il parle d’un désir qui arrive : une attirance nouvelle, une étincelle, ou une relation qui retrouve son énergie. Il ne dit rien de la durée : ça, c’est l’affaire des deux personnes concernées.'
 categories:
 - Bâtons
 tags:

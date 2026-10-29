@@ -45,7 +45,7 @@ Il est né en 1884 à Fairport, dans l’État de New York. Vers 1920, il était
 
 Il l’a enseigné par correspondance. Le principe, en France, on le connaît par le CNED : vous vous inscrivez, les leçons arrivent par la poste une à une, vous les travaillez chez vous, dans l’ordre, et vous passez à la suivante quand vous êtes prêt. Appliqué au tarot, cela veut dire qu’on apprend les cartes comme une langue : un peu à la fois, avec des exercices, sur des mois. Un livre vous donne tout d’un coup ; un cours décide de l’ordre pour vous, et l’ordre fait une bonne part de l’enseignement.
 
-C’était un vrai changement de décor. Dans l’Ordre hermétique de la Golden Dawn, où [Arthur Edward Waite](/fr/bibliotheque/figures-du-tarot/arthur-edward-waite/) et Aleister Crowley ont appris leur tarot, l’enseignement se transmettait à l’intérieur de l’ordre, grade après grade, à des initiés. Un cours par correspondance envoie les leçons jusqu’à la table de la cuisine.
+C’était un vrai changement de décor. À la Golden Dawn, l’école où [Arthur Edward Waite](/fr/bibliotheque/figures-du-tarot/arthur-edward-waite/) et Aleister Crowley ont appris leur tarot, l’enseignement restait entre initiés, transmis grade après grade à l’intérieur de l’ordre. Un cours par correspondance envoie les leçons jusqu’à la table de la cuisine.
 
 **Le modèle de Case fait du tarot une matière qu’on étudie dans l’ordre, chez soi, plutôt qu’un secret dans lequel on attend d’être admis.**
 

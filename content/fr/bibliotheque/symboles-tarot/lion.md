@@ -53,11 +53,11 @@ Un lion, c’est une force qui n’a pas besoin de faire ses preuves — jusqu�
 
 Sa crinière ressemble déjà à une couronne, et c’est pour ça qu’il finit sur les trônes et les blasons. C’est l’animal de quiconque veut paraître fort.
 
-## Où il apparaît dans le jeu {#ou}
+## De la Force aux trônes des Bâtons {#ou}
 
 La Force est la carte du lion : une femme en blanc se penche sur un grand lion rouge et lui referme la gueule sans effort. Le lion n’est ni tué ni enchaîné ; il est calmé. Pour la carte entière, voyez [la Force](/fr/bibliotheque/cartes-tarot/la-force/) ; pour le signe qui se tient derrière, [le Lion](/fr/bibliotheque/astrologie/lion/).
 
-La Roue de Fortune et le Monde gardent tous deux un lion dans le coin en bas à droite — ailé, un livre ouvert devant lui, sur la Roue, une tête dans les nuages sur le Monde. C’est l’une des quatre créatures, avec le taureau, l’aigle et la figure humaine, qu’on lit généralement comme les quatre signes [fixes](/fr/bibliotheque/modes-astrologiques/fixe/).
+Le Monde et la Roue de Fortune gardent tous deux un lion dans le coin en bas à droite : sur la Roue, il a des ailes et un livre ouvert devant lui ; sur le Monde, on ne voit que sa tête, posée sur un nuage. C’est l’une des quatre créatures, avec le taureau, l’aigle et la figure humaine, qu’on lit généralement comme les quatre signes [fixes](/fr/bibliotheque/modes-astrologiques/fixe/).
 
 La Reine de Bâtons siège sur un trône aux accoudoirs sculptés de têtes de lion, avec des lions sur le dossier. Le Roi de Bâtons a des lions noirs sur son trône, parmi des salamandres. Le lion est l’animal des Bâtons : le feu de la série rendu visible.
 

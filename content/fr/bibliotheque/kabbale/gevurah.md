@@ -50,7 +50,7 @@ Le nombre les encadre : le [5](/fr/bibliotheque/numerologie/chiffre-5/), c’est
 
 ## Gevurah et l’astrologie : Mars {#astrologie}
 
-Gevurah devient, pour la Golden Dawn, la sphère de [Mars](/fr/bibliotheque/astrologie/mars/) : l’énergie brute, la colère, le désir, la façon de se battre. Mars est la troisième planète en descendant, après Saturne et Jupiter : il tombe donc sur la sephirah du jugement, face à la générosité de Jupiter.
+Gevurah devient, pour la Golden Dawn, la sphère de [Mars](/fr/bibliotheque/astrologie/mars/), planète de la force qui pousse, de la colère et du désir, et de la manière de livrer bataille. Mars est la troisième planète en descendant, après Saturne et Jupiter : il tombe donc sur la sephirah du jugement, face à la générosité de Jupiter.
 
 Le Cinq de Coupes réunit les deux : Gevurah dans la série de l’Eau, Mars en Scorpion. Une silhouette en cape devant trois coupes renversées, deux encore debout derrière elle : Mars, ici, c’est la force du chagrin, pas celle de l’attaque.
 

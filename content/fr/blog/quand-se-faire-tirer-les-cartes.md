@@ -17,7 +17,7 @@ Le bon moment pour se faire tirer les cartes, c’est quand vous êtes assez sta
 
 Voyez-le comme la révision de la voiture quand rien n’est cassé. Vous ne cherchez pas une catastrophe ; vous regardez où part votre énergie, ce que vous portez, et ce que vous avez cessé de remarquer.
 
-Imaginons que vous vous asseyiez, que vous ne disiez rien, et que vous tiriez le Dix de Bâtons à côté du Quatre d’Épées.
+Prenons une séance où vous vous taisez et où sortent, côte à côte, le Dix de Bâtons et le Quatre d’Épées.
 
 {{< cards "wa10 sw04" >}}
 
@@ -33,7 +33,7 @@ Le travail sur l’ombre, c’est s’occuper des choses qu’on repousse pour r
 
 Un tirage peut montrer la porte de cette cave. Disons que la Lune sort, ou le Cinq de Coupes : quelque chose n’est pas clair, ou une perte n’a pas fini d’être pleurée. La carte n’ouvre pas la porte à votre place ; elle vous montre qu’il y en a une. Il faut reconnaître le voile avant de pouvoir le retirer.
 
-C’est un travail difficile, et lent, même si le moment où l’on comprend peut être très rapide. Le mieux est de le mener avec un thérapeute ; un tirage peut accompagner ce travail, jamais le remplacer. Pour commencer en douceur, [le travail sur l’ombre pour débuter](/fr/blog/travail-sur-lombre/) vous propose une carte par laquelle entrer.
+C’est un travail difficile, et lent, même si le moment où l’on comprend peut être très rapide. Le mieux est de le mener avec un thérapeute ; un tirage peut accompagner ce travail, jamais le remplacer. Pour commencer en douceur, [ce guide pour aborder sa propre ombre](/fr/blog/travail-sur-lombre/) vous propose une carte par laquelle entrer.
 
 Et soyez aussi doux et tolérant avec vous-même qu’avec les autres. Cette partie-là compte plus que n’importe quelle carte.
 
@@ -41,12 +41,12 @@ Et soyez aussi doux et tolérant avec vous-même qu’avec les autres. Cette par
 
 Le moment qui compte le plus, c’est le vôtre, et certains états rendent un tirage inutile.
 
-- *Vous posez la même question pour la troisième fois.* À ce stade, les cartes ne répondent plus à rien ; c’est le doute qui pose la question. Le [moment où il vaut mieux poser le jeu](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/) a sa propre page, qui va de pair avec celle-ci.
+- *Vous posez la même question pour la troisième fois.* À ce stade, les cartes ne répondent plus à rien ; c’est le doute qui pose la question. Je consacre un article voisin [au moment où il vaut mieux poser le jeu](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/) ; il se lit en miroir de celui-ci.
 - *Vous voulez que les cartes choisissent pour vous.* Un tirage peut éclairer une décision, mais [le choix doit rester le vôtre](/fr/blog/decision-tarot/).
 - *Vous êtes en pleine tempête.* Ce qui aide alors, c’est de respirer, de prendre une décision, ou de traverser ce qui vous fait peur — pas un tirage de plus.
 - *La question porte sur la santé, une grossesse, un décès, un procès ou l’argent.* Ces questions naissent de l’inquiétude ou de l’amour, et je comprends qu’on les pose. Je les laisse en dehors de mes lectures, pour [des raisons que je détaille ailleurs](/fr/avertissements/#refus) ; ce sont un médecin, un avocat, un conseiller qui vous aideront le mieux, et un tirage peut tout de même accueillir la façon dont vous tenez le coup.
 
-Si votre vie est plutôt stable, vous pouvez jouer un peu plus avec le tarot. Si elle ne l’est pas, c’est le muscle de la décision qui a besoin d’entraînement, pas le jeu de cartes.
+Quand votre vie est plutôt stable, le tarot peut devenir un peu plus un jeu. Si elle ne l’est pas, c’est le muscle de la décision qui a besoin d’entraînement, pas le jeu de cartes.
 
 ## Le calendrier compte-t-il ? {#calendrier}
 

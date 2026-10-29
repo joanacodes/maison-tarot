@@ -39,7 +39,7 @@ Trois cartes. Pas de bougies. Ne formulez rien : tirez avant de penser à la que
 2. *Ce que je cache.* Ce qu’il y a derrière.
 3. *Ce que ça me coûte.* Ce que cacher me prend, chaque jour.
 
-Pour chaque carte, dites à voix haute ce que vous voyez avant d’interpréter : la couleur, le nombre, ce que fait le personnage. Puis écrivez une phrase par carte. Fermez le carnet. Ne le relisez pas avant une semaine.
+Pour chaque carte, décrivez d’abord tout haut ce qui est dessiné, avant d’interpréter : la couleur, le nombre, ce que fait le personnage. Puis écrivez une phrase par carte. Fermez le carnet. Ne le relisez pas avant une semaine.
 
 Si vous préférez une seule carte, prenez le [Diable](/fr/bibliotheque/cartes-tarot/le-diable/). Regardez les chaînes. Elles sont lâches. La question, c’est pourquoi les deux personnages ne les ont pas retirées.
 

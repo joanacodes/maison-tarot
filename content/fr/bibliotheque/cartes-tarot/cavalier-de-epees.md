@@ -52,7 +52,7 @@ Ce conseil semble écrit pour ce Cavalier-là. Sa qualité, c’est le courage e
 
 ## Par l’élément : Air {#element}
 
-Les Épées sont l’[Air](/fr/bibliotheque/quatre-elements/element-air/), et le rang du Cavalier ajoute encore de l’Air : l’Air d’Air, le mental au carré. La pensée pure, à pleine vitesse. L’Air tranche mieux que les trois autres éléments, puisqu’il voit l’ensemble ; doublé, il décide vite — parfois avant d’avoir regardé quoi que ce soit.
+Famille d’[Air](/fr/bibliotheque/quatre-elements/element-air/), rang d’Air aussi : le Cavalier double l’élément, et cela donne l’Air d’Air, le mental au carré. La pensée pure, à pleine vitesse. L’Air tranche mieux que les trois autres éléments, puisqu’il voit l’ensemble ; doublé, il décide vite — parfois avant d’avoir regardé quoi que ce soit.
 
 Son énergie est [masculine au sens où je l’entends](/fr/bibliotheque/energies-feminine-masculine/) : directe, sur le devant de la scène, prompte à décider. Parfaite sur un champ de bataille, où suivre le plan vite est ce qui compte. Moins à sa place autour d’une table de cuisine, où la même franchise peut fermer les gens.
 

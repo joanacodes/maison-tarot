@@ -50,7 +50,7 @@ Lequel des deux ? La personne en face de vous le sait en général en une second
 
 Les listes de sens inversés donnent souvent le contraire de la carte à l’endroit. Les contraires transforment chaque carte en pile ou face — pile c’est bon, face c’est mauvais — et l’image ne compte plus.
 
-Les clés de lecture, elles, ne se retournent pas. Un Cinq de Coupes inversé reste un 5, le nombre du conflit et de l’essai ; reste de l’Eau ; reste une silhouette en cape noire devant trois coupes renversées. À l’envers, il ne devient pas une carte joyeuse. Il devient le même chagrin, soit retenu, pas encore pleuré, soit débordant dans toutes les pièces. [Le cycle des nombres](/fr/bibliotheque/numerologie/) et les quatre éléments restent intacts : tout ce que vous avez déjà appris continue de servir.
+Les clés de lecture, elles, ne se retournent pas. Un Cinq de Coupes inversé reste un 5, le nombre du conflit et de l’essai ; reste de l’Eau ; garde sa figure drapée de noir, penchée sur les coupes tombées. À l’envers, il ne devient pas une carte joyeuse. Il devient le même chagrin, soit retenu, pas encore pleuré, soit débordant dans toutes les pièces. [Le cycle des nombres](/fr/bibliotheque/numerologie/) et les quatre éléments restent intacts : tout ce que vous avez déjà appris continue de servir.
 
 Et inversée ne veut pas dire mauvaise. Dans un sens comme dans l’autre, une carte garde un côté qui aide et un côté qui coince. Un Chariot inversé n’est pas une catastrophe ; c’est une semaine pour arrêter de pousser et regarder de quel côté se tournent les sphinx.
 
@@ -62,4 +62,4 @@ Et inversée ne veut pas dire mauvaise. Dans un sens comme dans l’autre, une c
 4. Notez une phrase dans votre carnet, et le soir, si elle a tenu.
 5. À la fin de la semaine, comparez avec une semaine sans inversions.
 
-Si un jour tout un tirage sort à l’envers, ne remélangez pas dans la précipitation : [vérifiez d’abord le mélange](/fr/blog/toutes-les-cartes-a-lenvers/), puis lisez-le. Et si vous voulez voir le raccourci à l’œuvre sur des cartes que vous n’avez jamais étudiées, le [parcours pour apprendre le tarot](/fr/apprendre-le-tarot/) commence par les trois clés de lecture sur lesquelles il repose.
+Si un jour tout un tirage sort à l’envers, ne remélangez pas dans la précipitation : [vérifiez d’abord le mélange](/fr/blog/toutes-les-cartes-a-lenvers/), puis lisez-le. Ce raccourci se vérifie sur des cartes que vous n’avez jamais étudiées, à condition d’avoir en main les trois clés de lecture sur lesquelles il repose : [mon parcours d’apprentissage commence justement par elles](/fr/apprendre-le-tarot/).

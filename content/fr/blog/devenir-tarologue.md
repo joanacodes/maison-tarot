@@ -55,4 +55,4 @@ Aucune des cinq questions ne se règle depuis un fauteuil. Donc, dans l'ordre :
 4. Rédigez votre liste de refus et imaginez-vous éconduire la personne qui vous aurait payé le plus.
 5. Ensuite seulement, décidez de ce que vous vendez.
 
-Si vous voulez voir à quoi ressemblent des lectures gratuites quand rien n'est à vendre après, [venez à un événement](/fr/evenements/). Apportez un carnet, gardez votre question pour vous, et comptez-moi aussi.
+Des lectures gratuites, sans rien à vendre à la sortie, c’est ce qui se passe à [chaque événement](/fr/evenements/). Apportez un carnet, gardez votre question pour vous, et comptez-moi aussi.

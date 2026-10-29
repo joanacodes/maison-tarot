@@ -47,4 +47,4 @@ Ce qu’il n’est pas, c’est un lecteur. Et le danger n’est pas qu’il soi
 
 Servez-vous-en pour apprendre les images, pas pour être lu. Demandez-lui ce qu’il y a sur une carte, pas ce qu’une carte signifie pour vous. Et si vous vous surprenez à taper votre situation avant de poser la question — ça arrivera, c’est le geste naturel —, remarquez que vous venez de tout dire au lecteur, et que ce qui revient était déjà à vous.
 
-Si vous voulez voir à quoi ressemble une lecture où l’on n’a rien fourni, c’est le rôle des [événements gratuits](/fr/evenements/). Apportez la réponse de l’IA ; on comparera les carnets.
+Pour comparer avec une lecture faite sans rien fournir, rendez-vous à un [événement gratuit](/fr/evenements/), la réponse de l’IA en poche ; on comparera les carnets.

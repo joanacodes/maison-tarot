@@ -21,7 +21,7 @@ Une carte, ce n’est pas ça. C’est une image qui aide à regarder. Elle peut
 
 Imaginons quelqu’un qui a reçu une offre d’emploi dont il a secrètement envie, tire la Tour, et refuse le poste. Un mois plus tard, il dira « les cartes m’ont dit non ». Elles n’ont rien dit de tel. La peur a emprunté la voix d’une carte, et une tour frappée par la foudre avait exactement la bonne forme pour ça.
 
-**Une carte peut vous montrer quelque chose ; elle ne peut ni vous donner la permission, ni vous la retirer.**
+**Une carte éclaire un point ; la permission, elle ne la donne pas, et elle ne la reprend pas non plus.**
 
 ## Pourquoi une carte ne peut pas porter une décision {#pourquoi-pas}
 
@@ -63,4 +63,4 @@ Rangez-le dans un tiroir pendant quelques semaines. Pas comme une punition : com
 
 ## Et maintenant {#et-maintenant}
 
-Si vous voulez comprendre comment fonctionne une lecture plutôt que d’en recevoir une, [apprenez à lire les cartes vous-même](/fr/apprendre-le-tarot/). C’est le moyen le plus sûr d’arrêter d’en faire une autorité : une fois que vous avez vu une image devenir une phrase dans votre propre bouche, vous savez qui a écrit la phrase. Et si vous voulez voir comment un tirage se trompe — par le moment, par l’interprétation, ou par un simple raté —, je le décortique dans [pourquoi un tirage peut se tromper](/fr/blog/tirage-faux-tarot/).
+Pour comprendre comment fonctionne une lecture plutôt que d’en recevoir une, [apprenez à lire les cartes vous-même](/fr/apprendre-le-tarot/). C’est le moyen le plus sûr d’arrêter d’en faire une autorité : une fois que vous avez vu une image devenir une phrase dans votre propre bouche, vous savez qui a écrit la phrase. Quant aux façons dont un tirage se trompe — par le moment, par l’interprétation, ou par un simple raté —, je les décortique dans [pourquoi un tirage peut se tromper](/fr/blog/tirage-faux-tarot/).

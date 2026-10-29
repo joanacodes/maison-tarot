@@ -5,8 +5,8 @@ description: 'L’élément Eau dans le tarot : le monde des émotions, les rela
 translationKey: el-water
 type: library
 weight: 2
-lede: L’Eau, c’est le monde des émotions, des relations, des forces et des richesses
-  cachées en nous. Les Coupes en parlent — et elles parlent aussi de ce qui arrive
+lede: L’Eau règne sur ce qu’on ressent, sur ce qui nous lie aux autres, et sur les
+  forces et les richesses enfouies en nous. Les Coupes en parlent — et elles parlent aussi de ce qui arrive
   quand on les néglige.
 related:
 - /bibliotheque/quatre-elements/terre
@@ -51,7 +51,7 @@ gallery:
 
 Nous sommes faits d’eau presque en totalité ; c’est la chose dont on a besoin pour vivre. Elle nous déplace d’une rive à l’autre, pour peu qu’on se laisse bercer. Et paradoxalement, elle peut nous tuer si l’on en manque — ou nous noyer.
 
-Les Coupes parlent de tout ça : **les émotions, les relations, ce qui nous nourrit de l’intérieur**, et la façon dont on le laisse circuler ou non.
+Les Coupes parlent de tout ça : **les sentiments, les liens avec les autres, tout ce qui nous remplit le cœur**, et la façon dont on le laisse circuler ou non.
 
 ## Le point important : l’eau s’infiltre
 

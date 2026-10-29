@@ -75,7 +75,7 @@ Avec l’astrologie, la carte gagne ce côté intime, la peur sous la garde ; sa
 
 Renversé, la vigilance tourne à la méfiance : chaque message lu comme une menace, chaque main tendue refusée, la palissade devenue un mur que personne ne franchit. Ou bien les forces lâchent, et il s’assied à quelques pas de la fin, trop fatigué pour planter le dernier bâton. Demandez-vous lequel des deux.
 
-À côté du [Sept de Bâtons](/fr/bibliotheque/cartes-tarot/sept-de-batons/), vous voyez le combat d’avant : le Sept défend une hauteur contre six bâtons qui montent d’en bas, le Neuf y a survécu et attend. À côté de [l’Ermite](/fr/bibliotheque/cartes-tarot/l-ermite/), l’autre 9, la garde se tourne vers l’intérieur — moins surveiller les collines, davantage regarder ce que les combats ont changé. À côté du [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/), le conseil est le repos : le bandage a besoin de temps plus que d’un tour de garde supplémentaire.
+À côté du [Sept de Bâtons](/fr/bibliotheque/cartes-tarot/sept-de-batons/), vous voyez le combat d’avant : le Sept défend une hauteur contre six bâtons qui montent d’en bas, le Neuf y a survécu et attend. À côté de [l’Ermite](/fr/bibliotheque/cartes-tarot/l-ermite/), l’autre 9, la garde se tourne vers l’intérieur — moins surveiller les collines, davantage regarder ce que les combats ont changé. Si le [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/) tombe à côté, c’est du repos qu’il faut : le bandage a besoin de temps plus que d’un tour de garde supplémentaire.
 
 {{< cards "wa07 ar09 sw04" >}}
 
