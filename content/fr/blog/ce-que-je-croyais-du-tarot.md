@@ -19,7 +19,7 @@ Mes amis m’ont offert mon premier jeu ce Noël-là, choisi dans ma liste d’e
 
 Ma première lecture était juste. Je ne m’étais pas formée.
 
-Ce que j’ajouterais aujourd’hui, c’est ce que ça voulait dire, et ce que ça ne voulait pas dire. Ça ne prouvait rien sur moi. Depuis, j’ai fait essayer mes amis et ma famille, et chaque personne que j’ai aidée à lire y est arrivée au premier, au deuxième ou au troisième essai. Lire, c’est comme en art : certains ont plus de talent, et tout le monde y arrive en pratiquant. La seule pratique, c’est le lâcher-prise.
+Ce que j’ajouterais aujourd’hui, c’est ce que ça voulait dire, et ce que ça ne voulait pas dire. Ça ne prouvait rien sur moi. Depuis, j’ai fait essayer mes amis et ma famille, et chaque personne que j’ai aidée à lire y est arrivée au premier, au deuxième ou au troisième essai. Lire, c’est comme en art : certains ont plus de talent, et tout le monde y arrive en pratiquant.
 
 **Cette première lecture m’a appris quelque chose sur la lecture, pas sur moi.** C’est pour ça que je rends [le compliment « tu as un don »](/fr/blog/tu-as-un-don/), et que [le parcours pour apprendre](/fr/apprendre-le-tarot/) vous fait lire une carte dès le premier jour au lieu de tester votre talent.
 
@@ -27,7 +27,7 @@ Ce que j’ajouterais aujourd’hui, c’est ce que ça voulait dire, et ce que 
 
 C’est une phrase de mes notes de 2021. Plus je lisais, plus les messages arrivaient avant même que je mélange, et je me servais des cartes surtout parce que la personne en face voulait les voir.
 
-L’idée derrière cette phrase, je l’enseigne. **Les cartes ne sont pas magiques, vous l’êtes.** Elles sont un support qui aide à lâcher prise et à lire ce qu’il y a autour de vous, ou autour de quelqu’un. Ce qui vient, vient de vous, pas du carton.
+L’idée derrière cette phrase, je l’enseigne. Les cartes sont un support qui aide à lâcher prise et à lire ce qu’il y a autour de vous, ou autour de quelqu’un. **Ce qui vient, vient de vous, pas du carton.**
 
 Mais les mêmes notes donnent aux cartes un travail, même quand le message arrive avant elles. Elles aident à se concentrer, ou à se déconcentrer, pour que vos propres pensées et vos biais s’écartent un instant. Et la personne a quelque chose à regarder : une image à laquelle confronter mes mots, plutôt que de me croire sur parole.
 

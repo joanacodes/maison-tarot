@@ -47,7 +47,7 @@ C’est aussi plus doux que ça en a l’air. La personne en face n’a pas à f
 
 Une carte déroutante est souvent une carte qu’on n’a pas regardée assez longtemps. Revenez vers elle au lieu de vous en éloigner.
 
-1. *Décrivez le dessin à voix haute.* Le Quatre de Coupes : un jeune homme assis sous un arbre, les bras croisés, trois coupes dans l’herbe devant lui, et une main sortie d’un nuage qui lui en tend une quatrième. Il ne la regarde pas.
+1. *Décrivez le dessin à voix haute.* Le Quatre de Coupes : un jeune homme assis sous un arbre, les bras croisés, trois coupes dans l’herbe devant lui, et une main sortie d’un nuage qui lui en tend une quatrième, qu’il ne regarde pas.
 2. *Lisez les clés de lecture.* Le quatre, c’est la stabilité, la structure, le fruit de votre travail ; [son conseil](/fr/bibliotheque/numerologie/chiffre-4/), c’est de rester ouvert à l’imprévu, et son revers, c’est de continuer quand il faudrait s’arrêter. Les Coupes, c’est l’Eau : les émotions.
 3. *Dites ce que vous voyez, même si c’est peu.* « Vous êtes bien installé — peut-être trop — et on vous propose quelque chose que vous n’avez pas encore regardé. »
 4. *Laissez la personne répondre, après.* Si ça tient, tant mieux. Si ça ne tient pas, c’est aussi une réponse.

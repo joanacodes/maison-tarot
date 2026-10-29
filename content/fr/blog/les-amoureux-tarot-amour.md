@@ -29,7 +29,7 @@ Célibataire, les Amoureux vous demandent souvent ce que vous voulez vraiment, p
 
 Les Gémeaux y ajoutent leur couleur : cette lame arrive souvent dans la phase où l’on se parle. Les messages, les longs vocaux, les premières conversations qui durent jusqu’à deux heures du matin. L’Air adore cette étape, et c’est un vrai plaisir. C’est aussi là qu’on peut tomber amoureux d’une version de quelqu’un faite surtout de mots. Dans mes notes, les Gémeaux, au mieux, c’est le grand reporter ; au pire, le téléphone arabe : l’histoire qui grossit un peu à chaque message, jusqu’à ne plus être tout à fait vraie. Alors la lame vous demande de rencontrer la personne autant que la conversation.
 
-S’il y a un béguin, un conseil tiré de mes propres notes : n’allez pas regarder son thème astral. Laissez la magie opérer entre vous deux. J’explique pourquoi dans un article sur [le fait de regarder le thème de quelqu’un sans lui demander](/fr/blog/theme-astral-sans-permission/).
+S’il y a un béguin, un conseil tiré de mes propres notes : n’allez pas regarder son thème astral. J’explique pourquoi dans un article sur [le fait de regarder le thème de quelqu’un sans lui demander](/fr/blog/theme-astral-sans-permission/).
 
 ## Un oui qui date de plusieurs années {#un-vieux-oui}
 
@@ -45,11 +45,11 @@ Si quelqu’un s’asseyait en face de moi, ne me disait rien et tirait les Amou
 
 « Est-ce que c’est le bon ? », ou « la bonne » : c’est la question que cette lame attire plus que toute autre, et je la comprends. Vous avez rencontré quelqu’un, ça compte, et vous aimeriez une garantie avant d’ouvrir davantage votre cœur.
 
-Je ne lis pas sur cette question, et voici pourquoi. « Le bon » ou « la bonne », c’est un choix transformé en quelque chose d’écrit d’avance, et les Amoureux sont précisément la lame qui dit que l’amour se choisit. L’autre n’est pas non plus dans la pièce ; ce qu’il ressent et ce qu’il décidera lui appartiennent. Une carte qui vous dirait « oui, c’est la bonne personne » vous retirerait une décision, à tous les deux.
+Cette garantie, je ne la cherche pas dans les cartes. « Le bon » ou « la bonne », c’est un choix transformé en quelque chose d’écrit d’avance, et les Amoureux sont précisément la lame qui dit que l’amour se choisit. L’autre n’est pas non plus dans la pièce ; ce qu’il ressent et ce qu’il décidera lui appartiennent. Une carte qui vous dirait « oui, c’est la bonne personne » vous retirerait une décision, à tous les deux.
 
 Une question plus douce : « Qu’est-ce que je choisis quand je choisis cette personne — et le choisirais-je encore aujourd’hui ? » Ou bien : « Comment est-ce que je veux qu’une relation se vive, un jour ordinaire ? » Ces questions ont leurs réponses en vous, et elles font de vous une meilleure compagnie pour l’autre, quel qu’il soit.
 
-On me demande aussi si les Amoureux sont une carte « oui ». C’est tentant, et ce serait dommage : un oui délivré par un jeu de cartes saute la décision. J’ai écrit sur [pourquoi je réponds autrement aux tirages oui ou non](/fr/blog/tirage-oui-non-tarot/). Je lis ; vous décidez.
+On me demande aussi si les Amoureux sont une carte « oui ». C’est tentant, et ce serait dommage : un oui délivré par un jeu de cartes saute la décision. J’ai écrit sur [pourquoi je réponds autrement aux tirages oui ou non](/fr/blog/tirage-oui-non-tarot/).
 
 ## Au milieu du carrefour {#carrefour}
 

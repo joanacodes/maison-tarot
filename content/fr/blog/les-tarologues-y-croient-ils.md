@@ -25,9 +25,9 @@ Les tarologues y répondent dans toutes les combinaisons. Certains parlent ouver
 
 ## Ce que je ne crois pas {#ce-que-je-ne-crois-pas}
 
-Je ne crois pas que les cartes soient magiques. Ce sont 78 images dessinées en 1909 par Pamela Colman Smith, et une édition bon marché se lit aussi bien qu’une belle. Les cartes ne sont pas magiques, vous l’êtes : le jeu aide à se concentrer, ou à lâcher prise, pour que vos propres pensées et vos a priori s’écartent.
+Je ne crois pas que les cartes soient magiques. Ce sont 78 images dessinées en 1909 par Pamela Colman Smith, et une édition bon marché se lit aussi bien qu’une belle. Le jeu aide à se concentrer, ou à lâcher prise, pour que vos propres pensées et vos a priori s’écartent.
 
-Je ne crois pas non plus au don. Toutes les personnes que j’ai aidées à lire y sont arrivées en un à trois essais.
+Je ne crois pas non plus au don : chez les personnes que j’ai aidées à lire, il a toujours suffi d’un à trois essais.
 
 Et je ne prétends pas savoir comment ça marche. Personne ne le sait, y compris ceux qui vendent des certitudes à ce sujet. Je passe en revue les quatre explications sérieuses dans [comment marche vraiment le tarot ?](/fr/blog/comment-marche-le-tarot/) et je termine quand même sur « je ne sais pas ».
 

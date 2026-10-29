@@ -58,7 +58,7 @@ Laissez le mélange la choisir. Retournez la première carte et lisez-la comme �
 
 La Terre, un Cavalier — l’Air de la Terre dans le système des figures : quelqu’un qui avance à son rythme, posément, qu’on ne bouscule pas. La personne a maintenant une carte qui la représente, et ce n’est pas vous qui l’avez choisie. La [page du Cavalier de Pentacles](/fr/bibliotheque/cartes-tarot/cavalier-de-pentacles/) va plus loin.
 
-Ou gardez votre significatrice habituelle, mais comptez. Notez dans votre carnet les tirages faits avec et ceux faits sans, et comparez au bout d’un mois. Ne prenez pas mes mots pour une vérité absolue : testez, et faites-en l’expérience vous-même.
+Ou gardez votre significatrice habituelle, mais comptez. Notez dans votre carnet les tirages faits avec et ceux faits sans, et comparez au bout d’un mois.
 
 ## Et ensuite {#ensuite}
 

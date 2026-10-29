@@ -19,7 +19,7 @@ Je n’avais pas prévu d’enseigner. J’ai fait essayer mes amis et ma famill
 
 Quelqu’un dit une chose vraie sur la personne en face, puis reste saisi par ce qu’il vient de dire. Son visage change avant même qu’il ait décidé quoi en penser. C’est pour ce moment-là que j’enseigne.
 
-Je ne sais pas le décrire de façon à lui rendre justice. On ne peut pas vous dire ce que ça fait. On peut seulement essayer. C’est aussi la première leçon pour qui enseigne : vos explications comptent moins que le moment où vous vous effacez pour laisser l’autre parler.
+Je ne sais pas le décrire de façon à lui rendre justice. C’est aussi la première leçon pour qui enseigne : vos explications comptent moins que le moment où vous vous effacez pour laisser l’autre parler.
 
 ## La carte d’abord, l’explication ensuite {#la-carte-d-abord}
 

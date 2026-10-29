@@ -23,7 +23,7 @@ Imaginons que vous tiriez le Huit d’Épées. Un livre vous parlera d’entrave
 
 {{< cards "sw08" >}}
 
-Les cartes aident, mais elles ne sont pas la source. Les cartes ne sont pas magiques, vous l’êtes. Elles sont un support qui permet à vos pensées habituelles et à vos a priori de s’écarter assez longtemps pour que vous remarquiez ce que, sinon, vous auriez couvert de votre propre voix.
+Les cartes aident, mais elles ne sont pas la source. Elles sont un support qui permet à vos pensées habituelles et à vos a priori de s’écarter assez longtemps pour que vous remarquiez ce que, sinon, vous auriez couvert de votre propre voix.
 
 ## Comment lâcher prise quand on tire les cartes {#lacher-prise}
 
@@ -44,7 +44,7 @@ Il arrive qu’on regarde les cartes et qu’on ne voie rien du tout. D’après
 
 Dans les deux cas, parlez. Posez les cartes un instant et rassurez-la — sur la lecture, pas sur sa question, que vous n’avez toujours pas besoin de connaître. Rassurez-vous aussi. Une lecture qui démarre après deux minutes de chaleur ordinaire se passe souvent mieux qu’une lecture forcée dans un silence crispé.
 
-D’autres fois, quelque chose vient et vous sentez que vous ne devriez pas le dire, ou pas comme ça. La personne n’est pas prête, elle a peur, elle se méfie. Adaptez votre attitude et vos mots. Rien ne vous oblige à tout dire à la seconde où ça arrive.
+D’autres fois, quelque chose vient et vous sentez que vous ne devriez pas le dire, ou pas comme ça. La personne n’est pas prête, elle a peur, elle se méfie. Rien ne vous oblige à tout dire à la seconde où ça arrive, ni avec les premiers mots qui vous sont venus.
 
 ## Comment vous vérifier vous-même {#verifier}
 
@@ -58,7 +58,7 @@ La limite honnête : une confirmation reste le jugement de la personne, et les g
 
 ## Allez-y doucement {#doucement}
 
-Le conseil que je donne le plus souvent ici, c’est de développer votre intuition doucement : une carte par jour pendant un moment, puis trois cartes, puis une personne. [La carte du jour](/fr/blog/carte-du-jour-tarot/) est faite pour cette première étape. À côté, tout ce qui est méditatif entraîne la même attention : la peinture, la lecture, la méditation, rester devant un tableau au musée d’Orsay en se demandant ce qu’il raconte. On peut lire dans tout.
+Le conseil que je donne le plus souvent ici, c’est de développer votre intuition doucement : une carte par jour pendant un moment, puis trois cartes, puis une personne. [La carte du jour](/fr/blog/carte-du-jour-tarot/) est faite pour cette première étape. À côté, tout ce qui est méditatif entraîne la même attention : la peinture, la lecture, la méditation, rester devant un tableau au musée d’Orsay en se demandant ce qu’il raconte.
 
 Tirer les cartes demande de l’énergie. Après une séance, vous pouvez vous sentir très fatigué, parce qu’interpréter est un travail. Écoutez votre corps et reposez-vous. Il m’arrive moi-même de m’arrêter au bout de deux heures.
 

@@ -37,9 +37,9 @@ Après une rupture, la Tour, c’est souvent le moment où vous avez compris. Ou
 
 On m’apporte cette lame avec de la peur dans la voix, et souvent avec cette question-là. Ou bien : est-ce que c’est la fin ? C’est une question naturelle. Quand le sol bouge, on voudrait qu’on nous dise où il va se stabiliser.
 
-Je ne lis pas sur cette question, et voici pourquoi. Qu’une relation survive à un choc dépend de deux personnes, de leurs choix dans les semaines et les mois qui viennent, et de beaucoup de choses qu’aucune des deux ne sait encore. L’autre n’est pas dans la pièce. Une carte ne peut pas répondre à sa place, et un tirage qui prétendrait le faire ne ferait qu’ajouter un second choc au premier.
+La suite de la relation après la Tour, je ne la lis pas : elle dépend de deux personnes, de leurs choix dans les semaines et les mois qui viennent, et de beaucoup de choses qu’aucune des deux ne sait encore. L’autre n’est pas dans la pièce. Une carte ne peut pas répondre à sa place, et un tirage qui prétendrait le faire ne ferait qu’ajouter un second choc au premier.
 
-Une question plus douce : « Qu’est-ce que ça m’a montré que je ne voulais pas voir ? » Puis : « De quoi ai-je besoin cette semaine pour me sentir stable ? » À celles-là, vous pouvez répondre. Elles mènent aussi, tout naturellement, à la conversation qui décidera du reste — celle avec l’autre, pas avec un jeu de cartes.
+Une question plus douce : « Qu’est-ce que ça m’a montré que je ne voulais pas voir ? » Puis : « De quoi ai-je besoin cette semaine pour me sentir stable ? » Celles-là trouvent leur réponse chez vous. Elles mènent aussi, tout naturellement, à la conversation qui décidera du reste — celle avec l’autre, pas avec un jeu de cartes.
 
 Si une carte semble un jour vous dire de rester ou de partir, souvenez-vous que [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/). Agissez selon ce que vous ressentez, avec les personnes concernées, à votre rythme.
 
@@ -52,7 +52,7 @@ C’est la partie du titre qui compte le plus. La carte ne peut pas vous dire la
 3. Faites deux listes : ce qui est tombé, et ce qui tient encore. La seconde est presque toujours plus longue que prévu.
 4. Parlez quand le feu est retombé. Une conversation trois jours plus tard en dit plus qu’une conversation hurlée à minuit.
 5. Si vous avez peur de quelqu’un, ce n’est pas une question pour une carte. Parlez-en à une personne de confiance, et tournez-vous vers un professionnel ou une ligne d’écoute spécialisée : en France, le 3919, gratuit et anonyme, répond jour et nuit ; ailleurs, le service équivalent de votre pays. En cas de danger immédiat, appelez le 17 ou le 112. Les cartes peuvent accueillir ce que vous ressentez ; elles ne peuvent pas vous protéger.
-6. Posez le jeu un moment. Tirer une carte toutes les heures après un choc, c’est le choc qui parle. Faites une pause avec vos cartes de temps en temps — surtout maintenant.
+6. Posez le jeu un moment. Tirer une carte toutes les heures après un choc, c’est le choc qui parle.
 
 ## Les cartes qui entourent la chute {#la-chute}
 

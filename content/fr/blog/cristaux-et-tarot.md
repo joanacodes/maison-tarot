@@ -29,7 +29,7 @@ Pas d’après ce que j’ai pu observer. En 2021, je [vendais de la sauge, des 
 
 Ce que j’ai vu changer une lecture se trouve déjà sur la table. La personne m’a-t-elle dit quelque chose avant que je commence ? Est-ce que je lisais depuis deux heures, fatiguée ? Est-ce que j’essayais d’avoir raison au lieu de dire ce qui venait ? Aucun objet ne règle ces trois questions, et aucune n’en a besoin.
 
-Les cartes ne sont pas magiques, vous l’êtes — et ce qui est posé à côté d’elles ne l’est pas davantage. **Une lecture tombe juste grâce à la personne qui lit et à celle qui est lue, pas grâce à ce qui se trouve sur la table.**
+**Une lecture tombe juste grâce à la personne qui lit et à celle qui est lue, pas grâce à ce qui se trouve sur la table.**
 
 Je ne peux pas prouver qu’une pierre ne fait rien pour vous. Je peux vous dire que ce que j’enseigne n’en a pas besoin.
 

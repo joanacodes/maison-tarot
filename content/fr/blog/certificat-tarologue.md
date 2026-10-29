@@ -55,7 +55,7 @@ Parfois, la lignée est présentée comme une garantie : mon professeur a été 
 4. Puis-je vous voir lire pour un inconnu qui ne vous dit rien ?
 5. S’il y a un certificat, qu’indique-t-il exactement — des heures, des tirages, un examen ?
 
-La première question compte plus que les autres. Un raté est un raté, et un professeur capable de le dire calmement, chiffres à l’appui, vous montre quelque chose qu’aucun certificat ne peut montrer.
+La première question compte plus que les autres. Un professeur capable de dire calmement combien de fois il rate, chiffres à l’appui, vous montre quelque chose qu’aucun certificat ne peut montrer.
 
 Aucune de ces questions n’écarte un certificat, ni ne le rend indispensable. Une formation qui en délivre un peut très bien répondre aux cinq ; une formation qui n’en délivre aucun peut y répondre mal. Le certificat vous renseigne sur la formation ; les réponses, sur le professeur.
 

@@ -56,7 +56,7 @@ La réponse honnête à « est-ce que j’invente ? », c’est : comptons.
 
 J’ai tenu ce carnet pendant toutes mes lectures gratuites à l’aveugle pour des inconnus. À mon propre décompte, environ neuf sur dix ont tenu et environ un sur dix a raté. C’est un décompte tenu par la personne qui lisait, pas une étude, et il ne dit rien de la façon dont le tarot fonctionne. Ce qu’il me dit, c’est que je n’inventais pas tout — en tout cas pas neuf fois sur dix. [Comment tenir un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/) est expliqué pas à pas ailleurs.
 
-Un raté est un raté. On ne le rattrape pas avec une deuxième carte, et on ne le transforme pas en « vous comprendrez plus tard ». Si la personne revient d’elle-même quelques jours après, ajoutez son message avec la date. N’allez pas le lui demander. J’en dis plus sur [quoi faire quand un tirage est faux](/fr/blog/tirage-faux-que-faire/), et l’essentiel, c’est de le dire à voix haute.
+On ne rattrape pas un raté avec une deuxième carte, et on ne le transforme pas en « vous comprendrez plus tard ». Si la personne revient d’elle-même quelques jours après, ajoutez son message avec la date. N’allez pas le lui demander. J’en dis plus sur [quoi faire quand un tirage est faux](/fr/blog/tirage-faux-que-faire/), et l’essentiel, c’est de le dire à voix haute.
 
 ## Et si le carnet dit que vous inventez ? {#si-vous-ratez}
 

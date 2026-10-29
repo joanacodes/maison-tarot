@@ -54,7 +54,7 @@ Le Neuf de Pentacles complète les quatre : une femme seule dans sa vigne, un fa
 
 Une lame joyeuse n’est pas un ordre d’être heureux. Ce serait de la positivité toxique, et j’ai écrit sur [la différence entre ça et une affirmation bienveillante](/fr/blog/affirmations-ou-positivite-toxique/). Souvent, la lame désigne la petite partie qui fonctionne — une amitié, une matinée, un savoir-faire — ou ce qui vient après la période que vous traversez. Parfois, elle ne colle pas du tout, et c’est un raté.
 
-Le revers des lames joyeuses tient aussi aux mains qui mélangent. Si vous vous surprenez à tirer encore et encore jusqu’à ce que le Soleil sorte, ce ne sont plus les cartes qui comptent, c’est le besoin d’être rassuré. Faites une pause avec vos cartes de temps en temps.
+Le revers des lames joyeuses tient aussi aux mains qui mélangent. Si vous vous surprenez à tirer encore et encore jusqu’à ce que le Soleil sorte, ce ne sont plus les cartes qui comptent, c’est le besoin d’être rassuré.
 
 ## Et maintenant {#la-suite}
 

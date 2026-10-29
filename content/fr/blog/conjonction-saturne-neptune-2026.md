@@ -46,7 +46,7 @@ Le bilan qui a du sens, c’est le vôtre, fait comme j’ai [testé mon thème 
 1. Retrouvez ce que vous avez écrit autour de février 2026 : un carnet, une application de notes, des messages à une amie.
 2. Listez ce que vous attendiez : une fin, un début, une désillusion, un rêve qui devient réel.
 3. À côté de chaque ligne, coche ou croix. Cochez seulement si c’est arrivé d’une façon que vous n’auriez pu dire de personne d’autre.
-4. Comptez. Si une attente a raté, notez-la comme ratée. Un raté est un raté.
+4. Comptez. Si une attente a raté, notez-la comme ratée.
 
 Si vous lisez le tarot, il y a aussi une image pour ça. La carte de Saturne est le Monde, celle de Neptune [le Pendu](/fr/bibliotheque/cartes-tarot/le-pendu/), et le Bélier appartient à l’Empereur. Côte à côte : un cycle qui se ferme, un regard retourné tête en bas, et celui qui donne le premier ordre.
 

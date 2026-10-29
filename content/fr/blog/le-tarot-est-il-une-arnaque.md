@@ -27,7 +27,7 @@ Se demander si le tarot est une arnaque, c’est un peu comme se demander si la 
 
 Une lecture se suffit à elle-même. Elle commence, elle dit ce qu’elle voit, et elle se termine.
 
-Le tarologue peut travailler sans connaître votre histoire ; moi, je demande qu’on ne me dise rien. Il décrit ce qu’il y a sur les cartes et ce que ça évoque. Quand quelque chose ne touche pas, il le dit. Un raté est un raté : pas de « ça prendra sens plus tard », pas de carte supplémentaire pour rattraper. À la fin, la décision vous revient, et rien ne reste en suspens.
+Le tarologue peut travailler sans connaître votre histoire ; moi, je demande qu’on ne me dise rien. Il décrit ce qu’il y a sur les cartes et ce que ça évoque. Quand quelque chose ne touche pas, il le dit, sans « ça prendra sens plus tard » ni carte supplémentaire pour rattraper. À la fin, la décision vous revient, et rien ne reste en suspens.
 
 Même une carte lourde vous laisse libre. Imaginons que quelqu’un tire la Tour.
 

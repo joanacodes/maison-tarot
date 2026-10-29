@@ -21,9 +21,9 @@ Citez la phrase. Pas « c’était super », mais « quand vous avez parlé d’
 
 ## Dites les ratés sans détour {#les-rates}
 
-« Ça, ça n’a pas résonné. » Dites-le calmement, et arrêtez-vous là. N’ajoutez pas « mais ça prendra peut-être sens plus tard », et ne tordez pas votre vie pour qu’une phrase y entre. Un raté est un raté.
+« Ça, ça n’a pas résonné. » Dites-le calmement, et arrêtez-vous là. N’ajoutez pas « mais ça prendra peut-être sens plus tard », et ne tordez pas votre vie pour qu’une phrase y entre.
 
-Ça peut sembler dur. Ça ne l’est pas. À mon décompte, environ un tirage sur dix rate, et les lecteurs qui progressent sont ceux qui peuvent écrire ce mot dans leur carnet sans broncher. **Le retour le plus bienveillant, c’est le retour exact.** Pour le lecteur qui reçoit ce genre de retour, j’ai écrit [que faire quand un tirage est faux](/fr/blog/tirage-faux-que-faire/).
+Ça peut sembler dur. Ça ne l’est pas. À mon décompte, environ un tirage sur dix rate, et les lecteurs qui progressent sont ceux qui peuvent écrire « raté » dans leur carnet sans broncher. **Le retour le plus bienveillant, c’est le retour exact.** Pour le lecteur qui reçoit ce genre de retour, j’ai écrit [que faire quand un tirage est faux](/fr/blog/tirage-faux-que-faire/).
 
 Et si quelque chose résonne plus tard, écrivez-lui. C’est un retour aussi, et souvent le plus utile. Dites-lui ce qui a changé, pour qu’il puisse déplacer sa note d’une colonne à l’autre en toute honnêteté. C’est ce qui est arrivé à mon [premier tirage pour une inconnue](/fr/blog/premier-tirage-tarot/) : il a changé de colonne quand elle m’a écrit, quelques jours plus tard.
 
@@ -45,7 +45,7 @@ Deux lecteurs peuvent regarder le même tirage, y voir deux histoires différent
 
 ## Deux compliments à laisser de côté {#a-laisser-de-cote}
 
-« Tu as un don. » C’est dit avec chaleur, et je comprends pourquoi on le dit. Mais ce compliment sort la lecture des mains du lecteur : si c’est un don, il n’y a rien à travailler ni à vérifier. Il n’y a pas d’élus, seulement quelqu’un qui a lâché prise au bon moment, et ça peut se refaire. Nommez plutôt ce qu’il a fait — « vous avez fait confiance à la première image et vous l’avez dite tout de suite » — pour qu’il sache quoi refaire. J’explique pourquoi dans [le compliment que je rends gentiment](/fr/blog/tu-as-un-don/).
+« Tu as un don. » C’est dit avec chaleur, et je comprends pourquoi on le dit. Mais ce compliment sort la lecture des mains du lecteur : si c’est un don, il n’y a rien à travailler ni à vérifier. Il y a seulement quelqu’un qui a lâché prise au bon moment, et ça peut se refaire. Nommez plutôt ce qu’il a fait — « vous avez fait confiance à la première image et vous l’avez dite tout de suite » — pour qu’il sache quoi refaire. J’explique pourquoi dans [le compliment que je rends gentiment](/fr/blog/tu-as-un-don/).
 
 « Vous êtes meilleur que le dernier tarologue que j’ai vu. » Les comparaisons ont l’air généreuses et n’apprennent rien ; le lecteur ne peut rien en faire. Restez sur ce tirage, cette phrase, cette carte.
 

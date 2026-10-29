@@ -41,7 +41,7 @@ C’est la théorie que je trouve la plus utile, parce qu’elle explique ce qui
 
 La règle du silence retire la lecture froide. Le carnet retire l’effet Barnum. La synchronicité, je la tiens à distance ; le miroir, je m’en sers tous les jours. Ce qui reste, c’est un résidu de réussites précises que je ne sais pas expliquer, qui arrivent à une fréquence que je peux chiffrer, et des ratés que je peux nommer.
 
-Je lis depuis ce résidu. Je n’ai pas plus besoin d’un mécanisme pour faire ce travail que vous n’avez besoin de comprendre l’électricité pour allumer la lumière. Ce qu’il me faut, c’est connaître les conditions dans lesquelles ça arrive plus souvent, et elles sont assez claires pour s’enseigner : ne me dites rien d’abord, attendez-vous à ce que je raconte n’importe quoi, laissez-moi m’arrêter quand c’est raté, et comptez. C’est [la méthode](/fr/methode/), celle que finissent par utiliser les personnes à qui j’apprends, avec le même résultat.
+Je lis depuis ce résidu. Je n’ai pas plus besoin d’un mécanisme pour faire ce travail que vous n’avez besoin de comprendre l’électricité pour allumer la lumière. Ce qu’il me faut, c’est connaître les conditions dans lesquelles ça arrive plus souvent, et elles sont assez claires pour s’enseigner : gardez votre question pour vous au départ, attendez-vous à ce que je raconte n’importe quoi, laissez-moi m’arrêter quand c’est raté, et comptez. C’est [la méthode](/fr/methode/), celle que finissent par utiliser les personnes à qui j’apprends, avec le même résultat.
 
 ## Pourquoi « je ne sais pas » est le bon point de départ {#ne-pas-savoir}
 

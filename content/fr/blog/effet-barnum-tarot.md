@@ -25,7 +25,7 @@ Ce n’est pas la même chose que la [lecture froide](/fr/blog/lecture-froide-ta
 
 Les phrases Barnum ont quelques traits en commun :
 
-- *Elles sont vraies de presque tous les adultes.* « Vous donnez plus que vous ne recevez. » « Il y a quelqu’un que vous n’avez pas tout à fait pardonné. »
+- *Elles sont vraies de presque tous les adultes.* « Vous en demandez parfois plus à vous-même qu’aux autres. » « Il vous est arrivé de regretter de ne pas avoir parlé. »
 - *Elles ont deux faces.* « Vous pouvez être très sociable, mais vous avez besoin de moments seul pour recharger. » Quel que soit votre côté du jour, ça colle.
 - *Elles sont plutôt flatteuses.* « Vous avez un potentiel que vous n’exploitez pas encore pleinement. » Personne ne proteste.
 - *Elles visent un ressenti, pas un fait.* « Une part de vous attend encore que quelque chose change. »
@@ -66,7 +66,7 @@ Le carnet fait deux choses dont la mémoire est incapable. Il garde les ratés, 
 
 ## Troisième vérification : le test du voisin {#test-du-voisin}
 
-La troisième vérification tient en une question, que je pose à chaque phrase après coup : est-ce que cette phrase irait à mon voisin de palier ? Si oui, elle ne compte pas. J’ai déroulé ce comptage sur une lecture, phrase par phrase, dans [pourquoi les tirages semblent si justes](/fr/blog/pourquoi-les-tirages-sont-justes/) ; ici, je vous montre plutôt la différence sur deux cartes.
+La troisième vérification tient en une question, que je pose à chaque phrase après coup : est-ce que cette phrase irait à mon voisin de palier ? Quand la réponse est oui, je la raye du décompte. J’ai déroulé ce comptage sur une lecture, phrase par phrase, dans [pourquoi les tirages semblent si justes](/fr/blog/pourquoi-les-tirages-sont-justes/) ; ici, je vous montre plutôt la différence sur deux cartes.
 
 Prenons le Huit d’Épées et le Quatre de Bâtons.
 
@@ -92,10 +92,10 @@ L’autre limite honnête, c’est moi. Mes vérifications réduisent l’effet 
 
 ## Essayez au prochain tirage {#essayer}
 
-Vous n’avez pas besoin de croire mes chiffres. Ne prenez pas mes mots pour une vérité absolue : testez, et faites-en l’expérience vous-même.
+Vous n’avez pas besoin de croire mes chiffres : voici comment obtenir les vôtres.
 
 1. Avant le tirage, convenez que la personne ne vous dit rien.
-2. Notez chaque phrase que vous dites, au moment où vous la dites.
+2. Pendant la lecture, écrivez vos phrases au fur et à mesure, mot pour mot.
 3. Après coup, barrez toutes celles qui iraient à votre voisin.
 4. Dans ce qui reste, marquez ce qui a été confirmé et ce qui ne l’a pas été.
 5. Faites-le dix fois avant de tirer la moindre conclusion sur vous-même.

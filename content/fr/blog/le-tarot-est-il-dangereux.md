@@ -44,7 +44,7 @@ Les signes valent la peine d’être connus, pour vous autant que pour les perso
 
 Quand je vois ça, je propose en général qu’on ne tire pas. Ce n’est pas un jugement : un autre tirage n’offrirait que dix minutes de plus sans décider.
 
-Ce qui aide : ranger le jeu dans un tiroir pendant un mois, et faire le premier petit pas de la décision sans rien demander à personne. J’en parle dans [pourquoi arrêter de tirer les cartes, au moins un temps](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/). Si le doute ne s’apaise pas une fois les cartes rangées, ce n’est plus une affaire de tarot, et [la porte d’un thérapeute est la bonne](/fr/avertissements/#therapie).
+Ce qui aide : [ranger le jeu dans un tiroir pendant un mois](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/), et faire le premier petit pas de la décision sans rien demander à personne. Si le doute ne s’apaise pas une fois les cartes rangées, ce n’est plus une affaire de tarot, et [la porte d’un thérapeute est la bonne](/fr/avertissements/#therapie).
 
 ## 3. Quand une carte est prise pour une autorité {#autorite}
 
@@ -54,7 +54,7 @@ Imaginons que quelqu’un tire la Tour à propos de son travail et pose sa démi
 
 La Mort, telle que je la lis, ne parle pas de la mort elle-même. Elle est liée à la récolte, au recommencement : rendre la vie de nouveau fertile après une période sans but. Et la Tour, c’est un changement soudain, pas l’ordre d’en provoquer un. Aucune des deux ne vous dit quoi faire lundi.
 
-Le tarot n’est pas une autorité. Une lecture peut vous montrer une situation sous un angle que vous n’aviez pas essayé ; la décision reste la vôtre, et la responsabilité aussi. Je lis ; vous décidez. Une question plus douce aide ici aussi : au lieu de « Dois-je démissionner ? », essayez « Qu’est-ce que je dois regarder avant de décider ? », puis décidez avec votre propre tête. Si vous remarquez que vous ne pouvez plus agir sans la permission d’une carte, c’est ce muscle-là qu’il faut entraîner, et j’explique comment dans [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
+Une lecture peut vous montrer une situation sous un angle que vous n’aviez pas essayé ; la décision reste la vôtre, et la responsabilité aussi. Une question plus douce aide ici aussi : au lieu de « Dois-je démissionner ? », essayez « Qu’est-ce que je dois regarder avant de décider ? », puis décidez avec votre propre tête. Si vous remarquez que vous ne pouvez plus agir sans la permission d’une carte, c’est ce muscle-là qu’il faut entraîner, et j’explique comment dans [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
 
 ## Un mot pour celles et ceux qui lisent {#pour-qui-lit}
 

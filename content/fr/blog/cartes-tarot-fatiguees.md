@@ -49,9 +49,9 @@ Si deux de ces phrases vous parlent, le jeu va bien. C’est vous qui avez besoi
 
 ## Comment faire une vraie pause {#faire-une-pause}
 
-Faites une pause avec vos cartes de temps en temps. Rangez le jeu dans un tiroir. Il n’y a pas de règle sur la durée : quelques jours, une semaine, jusqu’à ce qu’il vous manque. En attendant, faites quelque chose qui n’a rien à voir avec le tarot — une marche, une vraie nuit de sommeil, un dessin, quelques minutes assis sans rien faire.
+Rangez le jeu dans un tiroir. Il n’y a pas de règle sur la durée : quelques jours, une semaine, jusqu’à ce qu’il vous manque. En attendant, faites quelque chose qui n’a rien à voir avec le tarot — une marche, une vraie nuit de sommeil, un dessin, quelques minutes assis sans rien faire.
 
-Si vous n’arrivez pas à tenir deux jours sans tirer, ça vous dit quelque chose aussi, et il vaut mieux le remarquer maintenant, avec douceur. J’ai écrit sur [pourquoi arrêter les tirages un moment fait du bien](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/), et ça vaut pour les tarologues autant que pour les personnes qu’ils lisent.
+Si vous n’arrivez pas à tenir deux jours sans tirer, ça vous dit quelque chose aussi, et il vaut mieux le remarquer maintenant, avec douceur. J’ai écrit sur [ce besoin de tirer, et sur ce qu’une pause lui fait](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
 Quand vous revenez, commencez petit : une carte, décrite à voix haute, avant tout sens. Vous remarquerez souvent de nouveau les images — la couleur d’un ciel, un détail dans un coin que vous ne voyiez plus. C’est la fraîcheur qu’on espérait que le rituel rende au jeu.
 

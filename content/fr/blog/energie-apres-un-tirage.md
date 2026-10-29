@@ -44,7 +44,7 @@ Rien de tout ça ne demande de rituel. Ce sont les conseils que vous donneriez �
 5. Laisser une pause entre deux tirages. Se lever, ouvrir la fenêtre, poser les cartes.
 6. Décider du nombre de tirages, ou de l’heure de fin, avant la première carte.
 
-Faites aussi une pause avec vos cartes de temps en temps. Quelques jours sans tirer, et on revient souvent en revoyant vraiment les images. J’ai écrit [pourquoi arrêter les tirages un moment fait du bien](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/), et ça vaut pour les tarologues autant que pour les personnes qu’ils lisent.
+Sur la durée, prenez aussi quelques jours sans tirer du tout : on revient souvent en revoyant vraiment les images. J’ai écrit [pourquoi ces pauses font du bien à celui qui lit](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
 Certains aiment marquer la fin par un petit geste : se laver les mains, remettre le jeu dans l’ordre, refermer la boîte. Si ça vous aide à vous arrêter, gardez-le. Je passe en revue ce que l’on fait avant et après un tirage, et ce sur quoi je compte à la place, dans [faut-il se protéger avant de tirer les cartes](/fr/blog/se-proteger-avant-un-tirage/).
 

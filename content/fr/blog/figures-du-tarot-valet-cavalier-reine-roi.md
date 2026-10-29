@@ -50,7 +50,7 @@ Les deux sont possibles, et je ne tranche pas seule. Quatre indices aident :
 1. La position. Une figure placée dans une position qui parle de la personne elle-même est le plus souvent un état. Dans une position qui parle de son entourage, ce peut être quelqu’un.
 2. Le nombre de figures. Une figure seule au milieu de cartes numérotées est souvent un état d’esprit. Trois ou quatre dans un petit tirage, c’est une distribution de personnages.
 3. L’histoire autour. Si les cartes numérotées racontent une histoire, la figure est souvent celle qui agit dedans.
-4. Dire les deux à voix haute. La personne ne me dit rien avant le tirage, donc je ne sais pas qui fait partie de sa vie — et c’est tout l’intérêt. Ne me dites rien ; je nomme les deux lectures, et vous saurez laquelle est la vôtre.
+4. Dire les deux à voix haute. La personne ne me dit rien avant le tirage, donc je ne sais pas qui fait partie de sa vie — et c’est tout l’intérêt. Je nomme les deux lectures, et vous saurez laquelle est la vôtre.
 
 Imaginons quelqu’un qui tire le Roi d’Épées à côté du Deux de Coupes. Un Roi décide ; les Épées sont l’Air, la pensée. Le Deux de Coupes, c’est un lien entre deux personnes. Vous pourriez dire : « Il y a une décision prise à froid au milieu d’une relation. Soit quelqu’un près de vous est en train de la prendre — soit c’est vous, et ces derniers temps vous avez été plus juge que partenaire. Lequel des deux ? »
 

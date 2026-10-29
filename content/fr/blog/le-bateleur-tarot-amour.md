@@ -37,7 +37,7 @@ Imaginons quelqu’un qui s’assied, ne vous dit rien, et tire le Magicien. Un 
 
 C’est la question que le Magicien apporte : dois-je faire le premier pas, et l’autre ressent-il la même chose ? Elle vient de l’espoir, et de la peur d’essuyer un refus. Les deux sont très humains.
 
-Je ne lis pas ce que ressent quelqu’un d’autre. Cette personne n’est pas dans la pièce, son cœur lui appartient, et une carte qui dirait « oui, c’est réciproque » pourrait vous envoyer au rendez-vous avec un texte appris par cœur plutôt qu’avec vous-même. J’ai écrit sur [le fait de tirer les cartes sur quelqu’un d’autre](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/), et j’y explique pourquoi je préfère ne pas le faire. Les cartes ne sont pas magiques, vous l’êtes — et le Magicien le dit plus clairement qu’aucune autre lame : tout ce qui est sur sa table est déjà à vous.
+Je ne lis pas ce que ressent quelqu’un d’autre. Cette personne n’est pas dans la pièce, son cœur lui appartient, et une carte qui dirait « oui, c’est réciproque » pourrait vous envoyer au rendez-vous avec un texte appris par cœur plutôt qu’avec vous-même. J’ai écrit sur [le fait de tirer les cartes sur quelqu’un d’autre](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/), et j’y explique pourquoi je préfère ne pas le faire. Et le Magicien, plus qu’aucune autre lame, vous rappelle que tout ce qui est sur sa table est déjà à vous.
 
 Une question plus douce : « Qu’est-ce que je veux dire, et est-ce que je le penserais quelle que soit la réponse ? » Si la seconde moitié est un oui, vous tenez votre premier pas.
 

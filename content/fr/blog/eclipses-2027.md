@@ -47,7 +47,7 @@ Voilà pour la tradition. Ce que je peux ajouter, c’est mon propre décompte, 
 
 ## Un tirage tout en douceur pour les éclipses de 2027 {#tirage}
 
-Trois cartes, une fois en février et une fois en août. Pas à chaque éclipse, ni chaque jour de la saison : c’est pendant les semaines d’éclipse que les questions se multiplient, et chaque carte de plus est une occasion de plus de s’inquiéter. Faites une pause avec vos cartes de temps en temps.
+Trois cartes, une fois en février et une fois en août. Pas à chaque éclipse, ni chaque jour de la saison : c’est pendant les semaines d’éclipse que les questions se multiplient, et chaque carte de plus est une occasion de plus de s’inquiéter.
 
 1. *Qu’est-ce qui est prêt à se terminer tout seul ?* La carte lunaire : quelque chose qui a fait son temps.
 2. *Qu’est-ce qui commence sans bruit ?* La carte solaire : un début que vous n’avez peut-être pas encore remarqué.

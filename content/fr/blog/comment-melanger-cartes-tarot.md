@@ -17,7 +17,7 @@ La seule chose que votre méthode change vraiment, c’est l’apparition ou non
 
 ## Y a-t-il une bonne façon de mélanger ? {#bonne-facon}
 
-Non. Un jeu, c’est du carton et de l’encre. Les cartes ne sont pas magiques, vous l’êtes — et le mélange est la petite pause où ça commence. Pendant que vos mains travaillent, votre tête a un moment pour sortir de la conversation et laisser vos idées toutes faites s’écarter, pour que ce que vous direz ensuite vienne de la carte, et pas de ce que vous attendiez.
+Non. Ce qui compte se passe de votre côté de la table, et le mélange est la petite pause où ça commence. Pendant que vos mains travaillent, votre tête a un moment pour sortir de la conversation et laisser vos idées toutes faites s’écarter, pour que ce que vous direz ensuite vienne de la carte, et pas de ce que vous attendiez.
 
 En face à face, le mélange peut revenir à la personne ou au lecteur ; les deux fonctionnent. Et la plupart de mes lectures pour des inconnus se sont faites en ligne, sur des serveurs Discord et en appels de groupe, où la personne n’a jamais touché mes cartes. Si une lecture dépendait des mains qui ont mélangé, ces lectures-là n’auraient eu prise sur rien.
 

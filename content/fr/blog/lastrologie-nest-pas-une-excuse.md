@@ -40,7 +40,7 @@ C’est pour ça que « je ne sors pas avec les Scorpions » ne tient pas. On ju
 
 Je suis venue à l’astrologie pour m’en moquer. J’ai lancé une vidéo pour rire, j’ai lu mon propre thème, et il était trop précis pour que j’en rie. Alors je l’ai testé case par case — une coche ou une croix pour chaque position —, puis j’ai fait de même avec ma famille, mes amis et des inconnus.
 
-Au total, 30 à 40 % tenaient. Saturne, Lilith et Chiron tenaient bien davantage, de 75 à 90 % du temps. Toute l’histoire est dans [comment j’ai testé mon thème astral](/fr/blog/j-ai-teste-mon-theme-astral/).
+Sur l’ensemble des cases, entre 30 et 40 % ont tenu : assez pour décrire une tendance, pas pour excuser quoi que ce soit. Saturne, Lilith et Chiron tenaient bien davantage, de 75 à 90 % du temps. Toute l’histoire est dans [comment j’ai testé mon thème astral](/fr/blog/j-ai-teste-mon-theme-astral/).
 
 Ce que ça veut dire ici : la description d’un signe tombe juste environ une fois sur trois. C’est assez pour être intéressant. Ce n’est pas assez pour vous excuser, et certainement pas pour écarter quelqu’un.
 

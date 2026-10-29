@@ -11,11 +11,11 @@ imageAlt: "Des mains tendent un jeu de tarot face cachée, par-dessus une table 
 imagePrompt: "One person’s hands passing a face-down tarot deck across a wooden table into another person’s open hands. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Oui, vous pouvez laisser quelqu’un toucher vos cartes de tarot. Un jeu, c’est du carton et de l’encre, et un tirage vient de la personne qui lit, pas des derniers doigts posés sur le paquet. Beaucoup de tarologues gardent pourtant leur jeu pour eux, pour des raisons qui se tiennent : c’est un cadeau, ils veulent qu’il dure, ils se concentrent mieux ainsi, ou ils pensent qu’un jeu garde l’énergie de ceux qui le manipulent. Une préférence parle de vous ; une superstition est une règle sur les cartes. Gardez les préférences que vous voulez, et dites non avec gentillesse."
 ---
-Oui, vous pouvez laisser quelqu’un toucher vos cartes de tarot. Un jeu, c’est du carton et de l’encre, et quoi qu’il fasse fonctionner un tirage, ce ne sont pas les derniers doigts posés dessus. Les laisser toucher ou non relève de la préférence — et les préférences sont permises, tant qu’on sait que c’en sont.
+Oui, vous pouvez laisser quelqu’un toucher vos cartes de tarot. Quoi qu’il fasse fonctionner un tirage, ce ne sont pas les derniers doigts posés sur le jeu. Les laisser toucher ou non relève de la préférence — et les préférences sont permises, tant qu’on sait que c’en sont.
 
 ## Peut-on laisser quelqu’un toucher ses cartes ? {#peut-on}
 
-Oui. Les cartes ne sont pas magiques, vous l’êtes. Le jeu est un support : il aide à lâcher prise et à lire ce qui entoure une personne. Il ne garde rien en mémoire dont le tirage suivant aurait besoin.
+Oui. Le jeu est un support : il aide à lâcher prise et à lire ce qui entoure une personne. Il ne garde rien en mémoire dont le tirage suivant aurait besoin.
 
 Ma propre pratique en est le meilleur exemple. La plupart de mes lectures pour des inconnus se sont faites en ligne, sur des serveurs Discord et en appels de groupe. Personne d’autre que moi n’a touché mes cartes, et ça n’a pas empêché les lectures de tomber juste. Si c’était le toucher qui reliait une personne aux cartes, ces lectures n’auraient eu aucun appui.
 

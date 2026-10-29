@@ -39,7 +39,7 @@ Ce n’est pas non plus un label de qualité. Un tarologue soigneux et un tarolo
 
 Parce qu’elle est vraie. Personne ne sait comment le tarot fonctionne, moi comprise. Je compte mes lectures, et environ une sur dix ne tient pas, d’après mon propre décompte : un carnet, pas une étude. Prétendre davantage que « une lecture peut vous montrer quelque chose », ce serait faire semblant, et dire « divertissement », c’est promettre de ne pas faire semblant.
 
-Parce qu’elle rend la décision. Une lecture n’est pas un ordre ; vous agissez selon ce que vous ressentez, pas selon ce que j’ai dit. Je lis ; vous décidez. La mention le met par écrit, là où chacun de nous peut le lire.
+Parce qu’elle rend la décision. Une lecture n’est pas un ordre ; vous agissez selon ce que vous ressentez, pas selon ce que j’ai dit. La mention le met par écrit, là où chacun de nous peut le lire.
 
 Mettons que quelqu’un tire le Huit de Coupes.
 

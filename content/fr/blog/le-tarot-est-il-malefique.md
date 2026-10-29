@@ -49,6 +49,6 @@ Ce que le tarot fait, au quotidien, est bien moins spectaculaire et bien plus ut
 
 ## Ce que je dirais à quelqu’un qui en a peur {#si-vous-avez-peur}
 
-Ne le faites pas. Vraiment — si les images vous font peur, il n’y a aucun prix à forcer. La peur lit mal. Et si vous le faites quand même et que ça vous effraie *davantage*, [rangez le jeu](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/). Tout n’est pas une histoire d’esprits ; parfois ce qui fait peur est à l’intérieur, et la bonne porte est celle d’un thérapeute, pas d’un lecteur.
+Ne le faites pas. Vraiment — si les images vous font peur, il n’y a aucun prix à forcer. La peur lit mal. Et si vous le faites quand même et que ça vous effraie *davantage*, [rangez le jeu](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/). Parfois ce qui fait peur est à l’intérieur, et la bonne porte est celle d’un thérapeute, pas d’un lecteur.
 
 Mais si ce dont vous avez peur, c’est qu’on vous dise une chose vraie — c’est la seule chose que le tarot m’ait jamais faite. Je le recommande.

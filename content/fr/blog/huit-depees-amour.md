@@ -55,7 +55,7 @@ Avec cette carte, on pose souvent des questions sur l’autre. « Va-t-il la qui
 
 Je ne lis pas les choix d’une autre personne. Elle n’est pas dans la pièce, et ses décisions lui appartiennent. Lire quelqu’un sans son accord, c’est comme fouiller sa chambre pendant son absence ; et une personne qui ne sait pas qu’on la lit n’est pas ouverte, alors on n’attrape qu’une moitié de phrase et on bâtit toute une histoire dessus. J’en dis plus dans [tirer les cartes sur quelqu’un d’autre](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/). Il y a aussi une raison plus tendre : cette question garde le bandeau en place, parce qu’elle confie votre sortie à quelqu’un d’autre.
 
-Une question plus douce : « Laquelle de mes propres pensées me retient ici, et laquelle puis-je desserrer en premier ? » Elle est à vous, donc elle a une réponse. Les cartes ne sont pas magiques, vous l’êtes — et le pas hors du cercle, c’est vous qui le faites.
+Une question plus douce : « Laquelle de mes propres pensées me retient ici, et laquelle puis-je desserrer en premier ? » Elle est à vous, donc elle a une réponse, et le pas hors du cercle, c’est vous qui le faites.
 
 ## Faits ou histoires : huit lignes à remplir {#huit-lignes}
 

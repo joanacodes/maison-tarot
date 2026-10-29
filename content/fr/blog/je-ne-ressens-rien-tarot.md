@@ -48,7 +48,7 @@ Puis dites la phrase que je donne à chaque débutant : *je vais dire n’import
 On ne s’entraîne pas à ressentir sur commande. On s’entraîne à lâcher prise, et d’après mon expérience, c’est le seul entraînement qui existe.
 
 - Tirez une carte par jour. Décrivez ce qu’il y a dessus, ce que vous voyez, ce que vous recevez. Puis trois cartes, puis davantage.
-- Faites quelque chose de méditatif : [rester assis quelques minutes sans rien faire](/fr/blog/commencer-la-meditation/), peindre, ou regarder un tableau au musée comme vous regarderiez une carte. On peut lire dans tout.
+- Faites quelque chose de méditatif : [rester assis quelques minutes sans rien faire](/fr/blog/commencer-la-meditation/), peindre, ou regarder un tableau au musée comme vous regarderiez une carte.
 - Notez les petites choses — le mot égaré, l’image bizarre — même quand elles ne ressemblent à rien. Vérifiez plus tard si elles voulaient dire quelque chose. C’est aussi comme ça qu’on apprend à distinguer [lire et inventer](/fr/blog/est-ce-que-jinvente-tarot/).
 
 Ça vient avec la pratique. Dans mes notes de 2021, ma première année complète de lecture, j’ai écrit que plus je lisais, plus il m’arrivait de recevoir quelque chose avant même d’avoir mélangé le jeu, et que j’étalais les cartes surtout parce que la personne en face voulait les voir.

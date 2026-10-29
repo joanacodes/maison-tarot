@@ -40,7 +40,7 @@ Mes débuts se sont passés ainsi. Mes amis m’ont offert mon premier jeu à No
 
 ## Le premier mois : une carte, puis trois {#le-premier-mois}
 
-Les premières semaines, tirez [une carte par jour](/fr/blog/carte-du-jour-tarot/). Décrivez ce qu’il y a dessus, ce que vous voyez, ce que vous recevez. Écrivez-en une ligne. Vous ferez ainsi connaissance avec une bonne partie du jeu, carte après carte, sans rien apprendre par cœur.
+Les premières semaines, tirez [une carte par jour](/fr/blog/carte-du-jour-tarot/). Écrivez-en une ligne. Vous ferez ainsi connaissance avec une bonne partie du jeu, carte après carte, sans rien apprendre par cœur.
 
 Quand une carte commence à vous sembler peu, passez à trois, lues comme une seule phrase. Puis trouvez un proche qui accepte de ne rien vous dire, et lisez pour lui. C’est là que vous ferez la plupart des [erreurs classiques du premier mois](/fr/blog/erreurs-debutant-tarot/) — remélanger, rattraper un raté, demander des explications d’abord — et c’est normal. Tout le monde passe par là.
 
@@ -64,7 +64,7 @@ Acheter d’autres jeux. Un deuxième jeu vous apprend un deuxième style de des
 
 Se tirer les cartes plusieurs fois par jour. Une lecture pour un inconnu vous en apprend plus que vingt sur vos propres inquiétudes.
 
-Les livres aident pour les clés de lecture ; pour les nombres, je conseille le livre de tarot de Corrine Kenner. Mais [ce qu’un livre ne peut pas vous donner](/fr/blog/apprendre-le-tarot-dans-un-livre/), c’est le moment où vous dites quelque chose de vrai sur quelqu’un et où vos propres mots vous surprennent. C’est pour ce moment-là que j’enseigne.
+Les livres aident pour les clés de lecture ; pour les nombres, je conseille le livre de tarot de Corrine Kenner. Mais [ce qu’un livre ne peut pas vous donner](/fr/blog/apprendre-le-tarot-dans-un-livre/), c’est le moment où vous dites quelque chose de vrai sur quelqu’un et où vos propres mots vous surprennent.
 
 ## Quand peut-on dire qu’on « sait » ? {#quand-on-sait}
 
@@ -74,6 +74,6 @@ Une ligne d’arrivée plus utile : vous lisez une carte sans tendre la main ver
 
 ## Commencer aujourd’hui {#commencer-aujourd-hui}
 
-Tirez une carte maintenant. Dites sa couleur, son nombre et son élément, puis une phrase. C’est le premier jour du calendrier. On ne peut pas vous dire ce que ça fait. On ne peut que l’essayer.
+Tirez une carte maintenant. Dites sa couleur, son nombre et son élément, puis une phrase. C’est le premier jour du calendrier.
 
 Si vous préférez commencer avec quelqu’un à côté, chaque [atelier](/fr/ateliers/) s’ouvre sur une carte tirée dans les dix premières minutes, et [le parcours d’apprentissage](/fr/apprendre-le-tarot/) range les clés de lecture dans l’ordre.

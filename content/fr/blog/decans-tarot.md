@@ -60,7 +60,7 @@ Voici ce que le décan ajoute à trois cartes sur lesquelles j’ai mes propres 
 
 {{< cards "cu05 sw08 cu06" >}}
 
-Le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), c’est Mars en Scorpion. Dans mes notes, c’est la carte la plus lourde du jeu : la perte, l’émotion sombre, la solitude face à ses problèmes. Mars y ajoute de la chaleur, la colère qui se loge dans le chagrin ; le Scorpion, l’attachement. Ça fait aussi mal parce que ça comptait autant. Le 24 octobre, au moment où j’écris, le Soleil vient d’entrer en Scorpion : nous voilà dans le décan du Cinq de Coupes jusqu’au 1er novembre environ, dix jours pour regarder ce qui s’est renversé, et les deux coupes encore debout. La suite est dans [la saison du Scorpion au tarot](/fr/blog/saison-scorpion-tarot/).
+Le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), c’est Mars en Scorpion : une silhouette en noir penchée sur trois coupes renversées, la perte sans détour. Mars y ajoute de la chaleur, la colère qui se loge dans le chagrin ; le Scorpion, l’attachement. Ça fait aussi mal parce que ça comptait autant. Le 24 octobre, au moment où j’écris, le Soleil vient d’entrer en Scorpion : nous voilà dans le décan du Cinq de Coupes jusqu’au 1er novembre environ, dix jours pour regarder ce qui s’est renversé, et les deux coupes encore debout. La suite est dans [la saison du Scorpion au tarot](/fr/blog/saison-scorpion-tarot/).
 
 Le Huit d’Épées, c’est Jupiter en Gémeaux. Ma note : prisonnier de soi-même alors qu’on a tous les outils, et on peut retirer le bandeau. Jupiter agrandit ; le verbe des Gémeaux, c’est « je pense ». Ensemble : un esprit où les pensées ont tellement poussé qu’il ne voit plus la sortie.
 
@@ -73,7 +73,7 @@ Le Six de Coupes, c’est le Soleil en Scorpion. Ma note : prendre du temps pour
 3. Pour un thème de dix jours, posez la carte du décan en cours sur la table et notez ce que vous remarquez.
 4. Si l’astrologie n’est pas votre clé de lecture, laissez tout cela de côté. Les cartes se lisent très bien sans.
 
-La limite, honnêtement : c’est un système élégant, mais c’est une couche du XIXe siècle posée sur un jeu de cartes du XVe, pas quelque chose que le tarot a toujours eu. Quand j’ai testé mon propre thème, les positions tenaient environ 30 à 40 % du temps au total, et je n’ai jamais testé les décans : je n’ai donc aucun chiffre à vous donner. Prenez-les comme une façon de regarder de plus, et souvenez-vous que [l’astrologie n’est pas une excuse](/fr/avertissements/#astrologie). Ne prenez pas mes mots pour une vérité absolue : testez, et faites-en vous-même l’expérience.
+La limite, honnêtement : c’est un système élégant, mais c’est une couche du XIXe siècle posée sur un jeu de cartes du XVe, pas quelque chose que le tarot a toujours eu. Quand j’ai testé mon propre thème, les positions tenaient environ 30 à 40 % du temps au total, et je n’ai jamais testé les décans : je n’ai donc aucun chiffre à vous donner. Prenez-les comme une façon de regarder de plus, et souvenez-vous que [l’astrologie n’est pas une excuse](/fr/avertissements/#astrologie).
 
 ## Et ensuite {#ensuite}
 

@@ -59,6 +59,6 @@ Une lecture différente, ce n’est pas grave. Certaines différences méritent 
 2. Soulignez ce que les deux ont dit. Deux personnes qui ne se sont pas concertées et qui se recoupent valent plus que chacune seule.
 3. Pour le reste, demandez-vous quelles phrases vous reconnaissez, pas lesquelles vous plaisent.
 4. Laissez de côté ce qui n’a pas touché. Un raté ne devient pas vrai parce que quelqu’un d’autre a dit quelque chose d’approchant.
-5. Puis décidez, avec votre tête. Je lis ; vous décidez.
+5. Puis décidez, avec votre tête.
 
 Vous pouvez voir tout cela de l’intérieur avec un ami. Tirez trois cartes, écrivez chacun votre lecture sans vous parler, puis comparez. Vous verrez à quel point deux personnes regardent différemment, et combien de fois vous vous retrouvez quand même au milieu. Les tarologues se disputent sur bien d’autres sujets ; je passe en revue les grands débats, et où je me situe, dans [ce qui divise les tarologues](/fr/blog/ce-qui-divise-les-tarologues/).

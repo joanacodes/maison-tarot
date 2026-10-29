@@ -35,7 +35,7 @@ Ce qui me frappe aujourd’hui, c’est la banalité des ingrédients : une vid�
 
 Parce qu’on l’emploie souvent d’une façon qui n’aide ni la personne qui l’emploie, ni son entourage.
 
-- *Comme un grade.* Certaines personnes qui se disent éveillées finissent par se sentir au-dessus des autres, comme s’il existait une liste et qu’elles y figuraient. Il n’y a pas d’élus. Cette idée va souvent avec un compliment, [celui du « don », que je rends gentiment](/fr/blog/tu-as-un-don/).
+- *Comme un grade.* Certaines personnes qui se disent éveillées finissent par se sentir au-dessus des autres, comme s’il existait une liste et qu’elles y figuraient. Cette idée va souvent avec un compliment, [celui du « don », que je rends gentiment](/fr/blog/tu-as-un-don/).
 - *Comme une excuse.* « Je les ai dépassés » peut être vrai. Ça peut aussi être une façon de laisser tomber des gens, des obligations ou des émotions qu’on préfère ne pas regarder — autrement dit, du [contournement spirituel](/fr/blog/contournement-spirituel/) sous un nom plus flatteur.
 - *Comme une ligne d’arrivée.* Comme si l’on se réveillait une fois pour toutes. Personne n’a fini.
 - *Comme un produit.* Quand un tournant devient quelque chose qu’on vend, la personne qui le traverse devient une cliente.
@@ -46,7 +46,7 @@ Parce qu’on l’emploie souvent d’une façon qui n’aide ni la personne qui
 
 Pour cette vidéo, j’emploie toujours le mot « éveil ». Pour tout ce qui est venu après, l’expression de mes propres notes est plus simple : développer ses sens. Elle désigne une pratique plutôt qu’un statut, elle ne classe personne, et elle ne laisse pas croire que c’est fini.
 
-Nous sommes tous nés avec nos sens. On les développe en faisant des choses qui demandent de lâcher prise un peu : méditer, lire, peindre, n’importe quel art méditatif. Lire le tarot, le marc de café ou même un tableau — on peut lire dans tout. Rien de tout cela n’est réservé à celles et ceux qui ont vécu un moment spectaculaire.
+Ces sens-là, tout le monde les a. On les développe en faisant des choses qui demandent de lâcher prise un peu : méditer, lire, peindre, n’importe quel art méditatif. Lire le tarot, le marc de café ou même un tableau en fait partie. Rien de tout cela n’est réservé à celles et ceux qui ont vécu un moment spectaculaire.
 
 Et un conseil tiré des mêmes notes, pour quiconque sent quelque chose s’ouvrir : ne montez pas trop haut trop vite, vous pourriez ne plus retrouver le chemin de la maison. Commencez crescendo.
 
@@ -55,7 +55,7 @@ Et un conseil tiré des mêmes notes, pour quiconque sent quelque chose s’ouvr
 1. Gardez les pieds sur terre : dormez, mangez, conservez quelques habitudes.
 2. Restez proche des gens qui vous connaissaient avant. Ce sont vos meilleurs garde-fous.
 3. Allez doucement avec les grandes décisions tant que tout vous paraît nouveau.
-4. Si ça devient effrayant, ou que vous ne dormez plus, c’est la porte d’un médecin ou d’un thérapeute qu’il faut pousser, pas celle d’un jeu de cartes. [Tout n’est pas une histoire d’esprits](/fr/avertissements/#therapie), et il n’y a aucune honte à choisir l’autre porte.
+4. Si ça devient effrayant, ou que vous ne dormez plus, c’est la porte d’un médecin ou d’un thérapeute qu’il faut pousser, pas celle d’un jeu de cartes. Ce qu’on prend pour un éveil peut avoir une cause [qu’un professionnel saura voir](/fr/avertissements/#therapie), et il n’y a aucune honte à choisir l’autre porte.
 5. Si vous voulez une pratique pour accompagner tout ça, commencez petit. [Commencer la méditation quand on pense ne pas y arriver](/fr/blog/commencer-la-meditation/), c’est par là que je commencerais.
 
 Et si ce commencement vous a rendu curieux des cartes elles-mêmes, [apprendre à les lire](/fr/apprendre-le-tarot/) est une façon ancrée de le suivre : une carte, une clé de lecture, et quelqu’un qui ne vous dit rien.

@@ -43,13 +43,13 @@ Quand une lecture ne touche pas, je dis « celle-là, c’est un raté » et je 
 
 Les ratés sont le prix de la précision. Une lecture assez vague pour ne jamais rater ne dit rien à personne. Une lecture assez précise pour servir va, de temps en temps, se planter franchement, et c’est ce moment-là qui vous dit si vous avez affaire à quelqu’un d’honnête.
 
-**Cacher ses ratés est le début de toutes les pratiques malhonnêtes que je connais.** D’abord on repêche une lecture avec une deuxième carte. Puis on apprend à parler assez flou pour ne plus jamais avoir tort. Puis on finit par croire qu’on ne se trompe jamais, et là, on est dangereux. Un raté est un raté. Il se compte, il se dit, et on passe à la suite.
+**Cacher ses ratés est le début de toutes les pratiques malhonnêtes que je connais.** D’abord on repêche une lecture avec une deuxième carte. Puis on apprend à parler assez flou pour ne plus jamais avoir tort. Puis on finit par croire qu’on ne se trompe jamais, et là, on est dangereux. Un raté se compte, il se dit, et on passe à la suite.
 
 ## 5. Rien à vendre après, et la carte n’est pas une raison {#apres}
 
 Une lecture à Maison Tarot s’arrête quand elle s’arrête. Pas de « réservez une séance plus approfondie », pas de nettoyage énergétique, pas de suivi nécessaire. C’est facile pour moi puisque [je ne vends pas de lectures du tout](/fr/methode/) — j’enseigne, et les lectures sont gratuites aux événements — mais le principe vaut pour n’importe qui : si votre lecture est suivie d’un tunnel de vente, le tunnel façonne la lecture. On trouve toujours un peu plus de « blocages » chez quelqu’un qui pourrait payer pour les lever.
 
-Et je dis à chaque personne, à la fin : n’agissez pas là-dessus. Agissez sur ce que vous ressentez. Une lecture peut vous montrer quelque chose ; elle ne peut pas décider à votre place, et la tarologue qui la laisse décider prend une responsabilité qui n’est pas la sienne. [Le tarot n’est pas une autorité](/fr/avertissements/#lectures). Moi non plus. Je lis ; vous décidez.
+Et je dis à chaque personne, à la fin : n’agissez pas là-dessus. Une lecture peut vous montrer quelque chose ; elle ne peut pas décider à votre place, et la tarologue qui la laisse décider prend une responsabilité qui n’est pas la sienne. [Le tarot n’est pas une autorité](/fr/avertissements/#lectures). Moi non plus.
 
 ## Pourquoi une liste si courte {#pourquoi-court}
 

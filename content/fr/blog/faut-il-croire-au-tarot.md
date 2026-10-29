@@ -39,7 +39,7 @@ Ce qui ferme une lecture, d’après mon expérience, ce n’est pas le doute. C
 
 ## Et la personne qui lit, doit-elle y croire ? {#la-tarologue}
 
-Pas au sens où on l’entend d’habitude. J’ai commencé à lire le 26 décembre 2020, en m’attendant à devoir m’entraîner avant que quoi que ce soit tombe juste. Ma première lecture était juste. Je n’y croyais pas ; c’est arrivé quand même.
+Pas au sens où on l’entend d’habitude. J’ai commencé à lire le 26 décembre 2020, en m’attendant à devoir m’entraîner avant que quoi que ce soit tombe juste. Je n’y croyais pas, et la toute première lecture a tenu quand même.
 
 Aujourd’hui, avant chaque lecture, je me dis : *je vais dire n’importe quoi.* Plus j’abaisse mes attentes, plus c’est juste. Une tarologue sûre de son don a tendance à sauver ses lectures au lieu de dire ce qui vient.
 
@@ -49,8 +49,8 @@ Ce que j’ai à la place de la croyance, c’est un décompte, ratés compris. 
 
 S’il y a une personne pour qui je m’inquiète, ce n’est pas celle qui doute. C’est celle qui croit chaque mot : qui ressort d’un tirage avec une consigne, démissionne à cause d’une carte, ou revient chaque semaine chercher la même réponse.
 
-Le tarot n’est pas une autorité. Une lecture peut vous montrer quelque chose ; c’est vous qui décidez quoi en faire. J’ai écrit sur [les situations où je repose les cartes](/fr/blog/le-tarot-est-il-dangereux/), et trop y croire en fait partie.
+Une lecture peut vous montrer quelque chose ; c’est vous qui décidez quoi en faire. J’ai écrit sur [les situations où je repose les cartes](/fr/blog/le-tarot-est-il-dangereux/), et trop y croire en fait partie.
 
 ## Venez le tester en sceptique {#tester}
 
-Ne prenez pas mes mots pour une vérité absolue. Testez, et faites-en l’expérience vous-même. Venez à l’un des [événements gratuits](/fr/evenements/), les bras croisés si ça vous chante. Ne me dites rien, écoutez jusqu’au bout, et dites honnêtement si ça a tenu. Si ce n’est pas le cas, je dirai « raté » devant tout le monde, et vous aurez appris quelque chose vous aussi.
+Venez à l’un des [événements gratuits](/fr/evenements/), les bras croisés si ça vous chante. Asseyez-vous sans rien m’expliquer, écoutez jusqu’au bout, et dites honnêtement si ça a tenu. Si ce n’est pas le cas, je dirai « raté » devant tout le monde, et vous aurez appris quelque chose vous aussi.

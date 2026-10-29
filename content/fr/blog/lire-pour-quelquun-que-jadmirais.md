@@ -29,7 +29,7 @@ Lire pour quelqu’un qu’on admire fait monter la pression d’une façon qui 
 
 Dans mes notes, l’une des deux raisons habituelles pour lesquelles rien ne vient pendant une lecture, c’est le blocage du lecteur lui-même : trop de pression. Or l’admiration, c’est de la pression. Vous voulez avoir raison devant cette personne. Vous voulez qu’elle pense du bien de vous. Vous ne voulez pas être celle ou celui qui lui fait mal.
 
-Avec lui, la pression avait une forme précise : je l’admirais trop pour vouloir qu’il me croie folle. Je l’ai fait quand même.
+Avec lui, la pression avait une forme précise : je l’admirais trop pour vouloir qu’il me croie folle, et j’ai lu son thème malgré tout.
 
 Cette pression pousse dans deux directions, et les deux sont des pièges. La première : adoucir la partie dure jusqu’à ce qu’elle ne dise plus rien. « Tu as eu quelques épreuves, comme tout le monde. » La seconde : faire ses preuves en étant brutal, parce que la précision a l’air d’une compétence. « Ton thème est terrible. » L’une vous protège de sa déception, l’autre cherche à l’impressionner. Aucune des deux ne parle de la personne en face.
 
@@ -59,7 +59,7 @@ Pas un oui franc, et je crois que c’était la réponse la plus honnête qu’i
 
 C’est aussi un rappel sur la façon de compter. Si vous tenez un carnet de ce que vous avez dit et de ce qui a été confirmé, « d’une certaine façon » reste « d’une certaine façon ». Vous ne le transformez pas en réussite parce que le moment vous a paru important, et vous ne le jetez pas parce qu’il était incomplet.
 
-C’est ce que protège la forme de la phrase : la partie dure est dite, et personne n’en sort diminué. Je lis ; vous décidez. C’est lui qui a décidé quelle part de cette phrase lui revenait, et c’était la bonne personne pour en décider.
+C’est ce que protège la forme de la phrase : la partie dure est dite, et personne n’en sort diminué. C’est lui qui a décidé quelle part de cette phrase lui revenait, et c’était la bonne personne pour en décider.
 
 ## Comment dire une chose dure avec douceur {#avec-douceur}
 

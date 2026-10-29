@@ -17,7 +17,7 @@ Je fais payer les cours, et je donne les lectures. Une session ou un atelier co�
 
 Deux choses, et les deux sont de l’enseignement.
 
-Une session, c’est une heure en visio, en tête-à-tête, dans votre fuseau horaire. Vous ne me dites rien, on tire, vous lisez d’abord, je lis après vous, et on compare. Quand ça ne colle pas, on cherche pourquoi. Vous repartez avec les clés de lecture utilisées, par écrit, sans abonnement ni suite obligatoire.
+Une session, c’est une heure en visio, en tête-à-tête, dans votre fuseau horaire. Vous ne me donnez aucun contexte, on tire, vous lisez d’abord, je lis après vous, et on compare. Quand ça ne colle pas, on cherche pourquoi. Vous repartez avec les clés de lecture utilisées, par écrit, sans abonnement ni suite obligatoire.
 
 Un atelier, c’est trois heures, douze personnes au maximum, et une seule clé de lecture : les couleurs, les nombres, ou les éléments et les énergies. Vous tirez une carte dans les dix premières minutes, avant toute explication, et à la fin vous lisez devant les autres une carte que vous ne connaissez pas. Il n’y a ni niveaux ni certificat.
 
@@ -41,7 +41,7 @@ Il y a aussi la personne en face. Quand quelqu’un revient avec la même questi
 
 J’ai aussi essayé de vendre les objets autour du tarot : de la sauge, des bougies et des cartes « canalisées », en 2021. J’ai arrêté, pour des raisons que je donne dans [faut-il purifier son jeu de tarot](/fr/blog/purifier-son-jeu-de-tarot/).
 
-Un cours fonctionne dans l’autre sens. Son rôle, c’est que vous ayez moins besoin de moi. Si vous sortez d’un atelier en lisant une carte que vous n’aviez jamais vue, il a rempli son office. On ne peut pas vous raconter ce que ça fait ; on peut seulement essayer. Vous aider à essayer, ça, je n’ai aucun mal à le faire payer.
+Un cours fonctionne dans l’autre sens. Son rôle, c’est que vous ayez moins besoin de moi. Si vous sortez d’un atelier en lisant une carte que vous n’aviez jamais vue, il a rempli son office. Vous mettre une carte entre les mains et vous laisser la lire, ça, je n’ai aucun mal à le faire payer.
 
 ## Un tarologue doit-il se faire payer ? {#faut-il-payer}
 
@@ -61,4 +61,4 @@ Ce que je fais payer, c’est mon temps, en direct, avec vous. La ligne me para�
 
 ## Par où commencer {#par-ou-commencer}
 
-Si vous voulez une lecture, venez à un des [événements gratuits](/fr/evenements/) : vous ne me dites rien, et vous voyez comment je travaille avant d’avoir dépensé quoi que ce soit. Si vous préférez apprendre, choisissez la clé de lecture qui vous parle et réservez un atelier, ou une session si vous aimez mieux travailler en tête-à-tête.
+Si vous voulez une lecture, venez à un des [événements gratuits](/fr/evenements/) : sans rien me raconter de vous, vous voyez comment je travaille avant d’avoir dépensé quoi que ce soit. Si vous préférez apprendre, choisissez la clé de lecture qui vous parle et réservez un atelier, ou une session si vous aimez mieux travailler en tête-à-tête.

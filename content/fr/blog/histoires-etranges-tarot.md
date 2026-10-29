@@ -57,9 +57,9 @@ Mon père qui m’appelait par mon prénom depuis un autre pays : [la nuit où j
 
 ## Ce que ces histoires ne prouvent pas {#limites}
 
-Elles ne prouvent pas que le tarot prédit, ni que je suis spéciale. Environ un tirage sur dix a raté, à mon propre décompte, et dans mon carnet un raté reste un raté. Je n’en ferais pas un « attendez de voir » ; celui qui s’est réalisé plus tard est l’exception qui fait une bonne histoire, pas la règle.
+Elles ne prouvent pas que le tarot prédit, ni que je suis spéciale. Environ un tirage sur dix a raté, à mon propre décompte, et dans mon carnet chacun reste noté comme tel. Je n’en ferais pas un « attendez de voir » ; celui qui s’est réalisé plus tard est l’exception qui fait une bonne histoire, pas la règle.
 
-Une histoire marque parce qu’elle sort de l’ordinaire. Les tirages ordinaires, ceux qui ont tenu sans bruit ou raté sans bruit, ne font pas d’articles, et ils sont l’essentiel du travail. Prenez donc celles-ci pour ce qu’elles sont : des choses arrivées à une tarologue. Ne prenez pas mes mots pour une vérité absolue. Testez, et faites-en l’expérience vous-même.
+Une histoire marque parce qu’elle sort de l’ordinaire. Les tirages ordinaires, ceux qui ont tenu sans bruit ou raté sans bruit, ne font pas d’articles, et ils sont l’essentiel du travail. Prenez donc celles-ci pour ce qu’elles sont : des choses arrivées à une tarologue.
 
 ## Commencez votre propre liste {#prochaine-etape}
 

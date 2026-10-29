@@ -58,7 +58,7 @@ Et inversée ne veut pas dire mauvaise. Chaque carte a un plus et un moins, à l
 
 1. Avant de mélanger, décidez : cette semaine, je lis les inversions.
 2. Donnez des inversions à votre jeu : retournez-en la moitié, puis mélangez comme d’habitude. [Toutes les façons de mélanger se valent](/fr/blog/comment-melanger-cartes-tarot/), du moment que vous retournez les cartes de la même manière chaque fois que vous les posez.
-3. Tirez une carte par jour. Si elle est inversée, lisez-la d’abord à l’endroit, puis demandez-vous : retenue, ou débordante ?
+3. Chaque matin, tirez une carte. Si elle est inversée, lisez-la d’abord à l’endroit, puis demandez-vous : retenue, ou débordante ?
 4. Notez une phrase dans votre carnet, et le soir, si elle a tenu.
 5. À la fin de la semaine, comparez avec une semaine sans inversions.
 

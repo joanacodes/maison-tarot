@@ -49,7 +49,7 @@ Un repère approximatif :
 - *Une situation* (un travail, une relation, un déménagement) : redemandez quand il y a du nouveau.
 - *La même question plus de deux fois dans le mois :* voyez-y un signal d’alarme. Rangez le jeu dans un tiroir pour quelques semaines.
 
-Faites une pause avec vos cartes de temps en temps. Elles seront toujours là, et vous les lirez mieux.
+Vos cartes seront toujours là à votre retour, et vous les lirez mieux.
 
 ## Quand redemander aide vraiment {#quand-ca-aide}
 

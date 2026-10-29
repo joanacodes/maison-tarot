@@ -43,7 +43,7 @@ Et si vous vous surprenez à tirer les cartes sur la même perte tous les soirs,
 
 ## L’Étoile, le Huit de Coupes : ce qui peut venir ensuite {#ensuite}
 
-Une carte ne parle jamais seule. Trois voisines qui la changent dans un tirage amoureux :
+Trois voisines qui changent le Cinq de Coupes dans un tirage amoureux :
 
 {{< cards "cu02 cu08 ar17" >}}
 

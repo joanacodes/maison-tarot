@@ -11,7 +11,7 @@ imageAlt: "Une main tenant un stylo au-dessus d’un carnet ouvert, une carte re
 imagePrompt: "A hand holding a pen above an open notebook on a kitchen table, a single tarot card face up beside it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Le tarot peut vous aider à prendre une décision sans la prendre à votre place. Bien utilisées, les cartes montrent ce qui vous attire de chaque côté, ce qui vous fait peur, et la façon dont vous décidez : avec la tête, le cœur, l’entêtement ou l’impatience. Ensuite, vous refermez le jeu et vous choisissez. Notez ce que vous choisiriez avant de tirer, lisez les cartes pour ce qu’elles disent de vous plutôt que de l’issue, et laissez l’argent, la santé et le droit aux professionnels. La décision reste la vôtre, et le muscle qui la prend aussi."
 ---
-Le tarot peut vous aider à voir une décision plus clairement, et son rôle s’arrête là. Les cartes posent sur la table ce qui entoure le choix — ce qui vous attire, ce qui vous fait peur, ce que vous savez déjà — et le choix vous revient. Je lis ; vous décidez.
+Le tarot peut vous aider à voir une décision plus clairement, et son rôle s’arrête là. Les cartes posent sur la table ce qui entoure le choix — ce qui vous attire, ce qui vous fait peur, ce que vous savez déjà — et le choix vous revient.
 
 Ce n’est pas de la modestie. C’est la condition pour que les cartes servent à quelque chose.
 

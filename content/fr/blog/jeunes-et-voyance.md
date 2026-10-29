@@ -55,8 +55,8 @@ Garder la main. Tirer une carte, c’est faire quelque chose quand on a l’impr
 
 Pas des interdits, quelques repères.
 
-1. Vous n’avez besoin d’aucun don. Tout le monde peut apprendre à lire, et chaque personne que j’ai aidée y est arrivée entre le premier et le troisième essai. Les cartes ne sont pas magiques, vous l’êtes.
-2. Le tarot n’est pas une autorité. Si une lecture vous dit de rester et que vous sentez qu’il faut partir, écoutez ce que vous sentez.
+1. Vous n’avez besoin d’aucun don. Tout le monde peut apprendre à lire, et chaque personne que j’ai aidée y est arrivée entre le premier et le troisième essai.
+2. Si une lecture vous dit de rester et que vous sentez qu’il faut partir, écoutez ce que vous sentez.
 3. Tirer toutes les heures, ce n’est plus du tarot : c’est chercher une validation à l’extérieur. Faites une pause ; j’explique pourquoi dans [pourquoi arrêter de tirer les cartes](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 4. Méfiez-vous des lectures payantes « en lien dans la bio », des malédictions à lever, des « il va revenir » vendus à des milliers d’inconnus. [Les neuf signaux d’une arnaque à la voyance](/fr/blog/arnaque-voyance/) les attrapent presque tous.
 5. Certaines questions ont une autre porte. Votre santé regarde un médecin ; ce qui pèse trop, et depuis trop longtemps, mérite [un ou une psy](/fr/avertissements/#therapie). Les cartes peuvent accompagner ce que vous ressentez en attendant ; elles ne remplacent pas ces rendez-vous.

@@ -23,7 +23,7 @@ Tout ça mérite une réponse franche plutôt qu’un sourire en coin. Si votre 
 
 Un oracle est un jeu de cartes de réflexion ou de divination qui ne suit pas la structure fixe du tarot. Son créateur décide du nombre de cartes, du sens de chacune, et imprime souvent un mot ou une phrase dessus. L’Oracle Belline, que beaucoup de Français ont croisé un jour, en est un classique. Imaginons que vous tiriez une carte montrant une porte fermée, avec le mot « Patience » en dessous : le créateur a écrit le message, la carte vous le tend.
 
-C’est tout ce qu’un jeu sait faire : montrer une image et un mot. Il ne vous choisit pas, ne vous suit pas chez vous, n’attend rien de vous. Les cartes ne sont pas magiques, vous l’êtes : ce qui se passe pendant une lecture vient de la personne qui lit, pas de la boîte.
+C’est tout ce qu’un jeu sait faire : montrer une image et un mot. Il ne vous choisit pas, ne vous suit pas chez vous, n’attend rien de vous. Ce qui se passe pendant une lecture vient de la personne qui lit, pas de la boîte.
 
 **Le carton ne fait rien tout seul ; ce qui compte, c’est ce que dit la personne qui le tient.**
 

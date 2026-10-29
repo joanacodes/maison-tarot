@@ -41,7 +41,7 @@ Une carte n’annonce ni un décès ni une maladie. Si vous vous inquiétez pour
 
 Seize se réduit à sept, et le conseil du sept est celui à garder ici : tout est temporaire, et votre situation, bonne ou mauvaise, va changer. Dans le jeu, la Tour est suivie de l’Étoile, et je ne crois pas que ce soit un hasard. La question utile n’est pas « pourquoi ça m’arrive ? » mais « qu’est-ce qui était fissuré, et ai-je envie de reconstruire la même tour sur le même rocher ? »
 
-Imaginons qu’une personne ne me dise rien et tire la Tour à côté du Huit de Pentacles. Sept, puis huit ; le Feu, puis la Terre : après l’effondrement, on reconstruit à la main. Je dirais : « Quelque chose est tombé que vous aviez bâti sur un mauvais terrain, et vous êtes déjà en train de reconstruire — plus lentement, et mieux. » Puis je demanderais si ça parle.
+Imaginons qu’une personne ne me dise rien et tire la Tour à côté du Huit de Pentacles. Sept, puis huit ; le Feu, puis la Terre : après l’effondrement, on reconstruit à la main. Je dirais : « Quelque chose est tombé que vous aviez bâti sur un mauvais terrain, et vous êtes déjà en train de reconstruire — plus lentement, et mieux. » Puis je lui demanderais ce qui, là-dedans, lui parle.
 
 ## Le Diable : des chaînes qu’on peut retirer {#le-diable}
 
@@ -49,7 +49,7 @@ Imaginons qu’une personne ne me dise rien et tire la Tour à côté du Huit de
 
 Quinze se réduit à six, le nombre des Amoureux, et le dessin fait écho au leur : deux personnes, une figure plus grande au-dessus. [Le Diable](/fr/bibliotheque/cartes-tarot/le-diable/) est un lien devenu attachement — à un travail, une personne, une habitude, l’argent, un écran. La Terre et le Capricorne le rendent matériel et têtu. Le verbe du Capricorne est « j’utilise » — et ici, ce qu’on utilise a commencé à nous utiliser.
 
-Regardez maintenant les chaînes. Elles pendent lâchement autour des cous ; les deux pourraient les retirer. On pense à La Boétie et à sa servitude volontaire. C’est le plus de la carte, et il est de taille : elle vous montre la chaîne. Le Diable n’est ni maléfique ni une malédiction ; c’est l’image de ce qui vous retient. Les cartes elles-mêmes peuvent vous retenir aussi. Si le Diable sortait pour quelqu’un qui tire tous les matins depuis des mois, je ne lirais pas de malédiction ; je demanderais, doucement, si le jeu n’est pas devenu l’une des chaînes. Faites une pause avec vos cartes de temps en temps. En amour, cette chaîne s’appelle l’attachement ; au travail, c’est un emploi qui vous retient.
+Regardez maintenant les chaînes. Elles pendent lâchement autour des cous ; les deux pourraient les retirer. On pense à La Boétie et à sa servitude volontaire. C’est le plus de la carte, et il est de taille : elle vous montre la chaîne. Le Diable n’est ni maléfique ni une malédiction ; c’est l’image de ce qui vous retient. Les cartes elles-mêmes peuvent vous retenir aussi. Si le Diable sortait pour quelqu’un qui tire tous les matins depuis des mois, je ne lirais pas de malédiction ; je demanderais, doucement, si le jeu n’est pas devenu l’une des chaînes. En amour, cette chaîne s’appelle l’attachement ; au travail, c’est un emploi qui vous retient.
 
 ## Le Dix d’Épées : toucher le fond, et l’aube derrière {#dix-d-epees}
 

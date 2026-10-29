@@ -17,7 +17,7 @@ Orienter quelqu’un ailleurs est l’un des gestes les plus gentils d’un taro
 
 Il y a des sujets sur lesquels je ne lis pas : la santé, la mort, la grossesse et la fertilité, les procédures judiciaires en cours, les décisions d’argent, les malédictions, et les personnes absentes. [La liste complète est publique](/fr/avertissements/#refus), pour que personne ne la découvre en plein tirage.
 
-La raison tient de l’arithmétique plus que du principe. À mon décompte, environ un tirage sur dix rate. Sur une question de nouveau poste, un raté coûte un haussement d’épaules. Sur une question d’examen médical, de grossesse ou de procès, un raté peut faire attendre quelqu’un qui devrait agir, ou paniquer quelqu’un qui pourrait souffler. J’explique ailleurs [pourquoi je m’écarte de la santé, de la grossesse et du décès](/fr/blog/sante-grossesse-deces-tarot/).
+La raison tient de l’arithmétique plus que du principe : d’après mon carnet, je rate à peu près un tirage sur dix. Sur une question de nouveau poste, un raté coûte un haussement d’épaules. Sur une question d’examen médical, de grossesse ou de procès, un raté peut faire attendre quelqu’un qui devrait agir, ou paniquer quelqu’un qui pourrait souffler. J’explique ailleurs [pourquoi je m’écarte de la santé, de la grossesse et du décès](/fr/blog/sante-grossesse-deces-tarot/).
 
 Deux autres situations appellent une limite, même sur un sujet anodin. Quelqu’un en pleine détresse, pour qui un tirage n’est pas le bon outil ce jour-là. Et quelqu’un qui revient sans cesse avec la même question : là, en général, je décline, pour les raisons que j’explique dans [pourquoi vous devriez arrêter de tirer les cartes un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
@@ -60,7 +60,7 @@ Laissez de côté les phrases qui claquent la porte : « je ne peux rien pour vo
 
 ## Quand la porte est celle d’un psy {#psy}
 
-Tout n’est pas une histoire d’esprits. Parfois, ce qui remonte pendant un tirage est psychologique, parfois plus, et la bonne porte est celle d’un psy. [Là où mon rôle s’arrête](/fr/avertissements/#therapie) est écrit noir sur blanc, précisément pour ça.
+Parfois, ce qui remonte pendant un tirage est psychologique, parfois plus, et la bonne porte est celle d’un psy. [Là où mon rôle s’arrête](/fr/avertissements/#therapie) est écrit noir sur blanc, précisément pour ça.
 
 Vous ne posez pas de diagnostic. Vous n’en avez pas la compétence, et moi non plus. Vous dites une fois, avec douceur, ce que vous avez remarqué et où ça pourrait aller : « On dirait que c’est là depuis longtemps. Ça mérite plus qu’un tirage. Est-ce qu’il y a quelqu’un à qui vous pourriez en parler ? » Pas de sermon, pas de carte en plus pour adoucir.
 

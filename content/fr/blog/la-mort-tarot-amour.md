@@ -33,7 +33,7 @@ Une question plus douce : « Qu’est-ce qui, dans cette relation, a fini sa sai
 
 Une chose encore, dite clairement parce que le nom fait peur : la Mort n’annonce le décès de personne, et elle ne dit rien de la santé de qui que ce soit. Ce sont des questions sur lesquelles je ne lis pas du tout, et j’ai expliqué [pourquoi un tarologue prudent s’en écarte](/fr/blog/sante-grossesse-deces-tarot/).
 
-**Je lis ; vous décidez.** Quoi que montre la Mort, le choix de ce qu’on fauche et de ce qu’on garde appartient aux deux personnes de la relation, et une carte n’a aucune autorité là-dessus.
+**Quoi que montre la Mort, le choix de ce qu’on fauche et de ce qu’on garde appartient aux deux personnes de la relation, et une carte n’a aucune autorité là-dessus.**
 
 ## Ce qui arrive à maturité dans votre histoire {#ce-qui-est-mur}
 

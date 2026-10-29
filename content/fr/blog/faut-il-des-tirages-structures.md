@@ -59,4 +59,4 @@ Lire sans positions a un prix, et il vaut la peine de le dire. Quand rien n’es
 4. Si vous voudrez comparer sur plusieurs mois, choisissez une disposition et gardez-la — ou [créez la vôtre en quatre questions](/fr/blog/creer-son-tirage-tarot/).
 5. Si c’est un vrai carrefour et que vous avez une heure devant vous, essayez la [croix celtique](/fr/blog/croix-celtique-tirage/), deux cartes à la fois.
 
-Puis testez au lieu de me croire sur parole : une semaine avec une disposition, une semaine sans, les deux dans votre carnet. Ne prenez pas mes mots pour une vérité absolue. Testez, et faites-en l’expérience vous-même.
+Puis comparez : une semaine avec une disposition, une semaine sans, les deux dans votre carnet.

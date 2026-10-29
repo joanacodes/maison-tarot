@@ -53,13 +53,13 @@ Il y a une carte que j’aime bien pour ça. Dans mes notes, la Roue de Fortune 
 
 {{< cards "ar10 ar04" >}}
 
-Un tirage ne devrait jamais devenir votre Empereur. Et quand [la Roue de Fortune](/fr/bibliotheque/cartes-tarot/la-roue-de-fortune/) sort alors que vous attendez que les cartes décident, je la lis comme une façon de vous renvoyer la balle : la roue a une poignée, et elle est de votre côté. Les cartes ne sont pas magiques, vous l’êtes.
+Un tirage ne devrait jamais devenir votre Empereur. Et quand [la Roue de Fortune](/fr/bibliotheque/cartes-tarot/la-roue-de-fortune/) sort alors que vous attendez que les cartes décident, je la lis comme une façon de vous renvoyer la balle : la roue a une poignée, et elle est de votre côté.
 
 ## Quand on finit par demander avant chaque choix {#dependance}
 
 Si vous vous surprenez à tirer une carte avant chaque décision — quoi mettre, envoyer ou non ce message, quelle ligne de métro prendre —, ce n’est plus une affaire de tarot. C’est une quête de validation extérieure, et le jeu est devenu une béquille.
 
-Rangez-le dans un tiroir pendant quelques semaines. Pas comme une punition : comme un entraînement. Vous avez besoin d’avoir confiance en vous, de prendre des décisions et de vous tromper, d’accepter d’être imparfait. C’est un muscle, et aucun tirage ne soulèvera la charge à votre place. Si vous avez la chance d’avoir une vie stable, vous pouvez jouer un peu plus avec les cartes. J’en parle dans [pourquoi arrêter de tirer les cartes, au moins un temps](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
+Rangez-le dans un tiroir pendant quelques semaines. Pas comme une punition : comme un entraînement. Vous avez besoin d’avoir confiance en vous, de prendre des décisions et de vous tromper, d’accepter d’être imparfait. C’est un muscle, et aucun tirage ne soulèvera la charge à votre place. Si vous avez la chance d’avoir une vie stable, vous pouvez jouer un peu plus avec les cartes. J’ai consacré un article entier à [ces semaines sans tirage et à ce qu’elles entraînent](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
 ## Et maintenant {#et-maintenant}
 

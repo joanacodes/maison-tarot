@@ -21,7 +21,7 @@ Le petit livret glissé dans la boîte donne quelques mots-clés par carte, et l
 
 ### 2. Attendre de se sentir doué
 
-Beaucoup de débutants attendent un signe qui prouverait qu’ils « ont quelque chose ». Il n’y a pas d’élus. Toutes les personnes que j’ai aidées à lire y sont arrivées entre le premier et le troisième essai, dès qu’elles ont arrêté de vouloir avoir raison. C’est comme le dessin : certains ont plus de facilités, et tous ceux qui pratiquent y arrivent. Ce que vous attendez de ressentir, vous avez plus de chances de le ressentir après la première carte qu’avant.
+Beaucoup de débutants attendent un signe qui prouverait qu’ils « ont quelque chose ». Toutes les personnes que j’ai aidées à lire y sont arrivées entre le premier et le troisième essai, dès qu’elles ont arrêté de vouloir avoir raison. Ce que vous attendez de ressentir, vous avez plus de chances de le ressentir après la première carte qu’avant.
 
 ### 3. Acheter le rituel avant d’apprendre le jeu
 
@@ -65,7 +65,7 @@ Quelqu’un vous interroge sur une échographie, une grossesse, une audience au 
 
 ### 11. Ne rien noter — et rattraper les ratés
 
-Sans carnet, on se souvient des lectures qui ont tapé juste et on oublie les autres. Notez la date, les cartes, ce que vous avez dit et ce qui a été confirmé — pour [un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/), un cahier à grands carreaux fait très bien l’affaire. Quand quelque chose ne tient pas, écrivez « raté ». Un raté est un raté : pas de carte supplémentaire pour le sauver, pas de « vous comprendrez plus tard ». À mon propre décompte, environ une lecture sur dix rate encore chez moi.
+Sans carnet, on se souvient des lectures qui ont tapé juste et on oublie les autres. Notez la date, les cartes, ce que vous avez dit et ce qui a été confirmé — pour [un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/), un cahier à grands carreaux fait très bien l’affaire. Quand quelque chose ne tient pas, écrivez « raté », sans carte supplémentaire pour le sauver ni « vous comprendrez plus tard ». À mon propre décompte, environ une lecture sur dix rate encore chez moi.
 
 ### 12. Tirer toutes les heures
 

@@ -52,7 +52,7 @@ Certaines questions sortent de ce qu’une carte peut contenir, et je préfère 
 - *Quand.* Les dates et les échéances, c’est là que les tirages glissent le plus. J’en parle dans [le tarot et le timing](/fr/blog/tarot-quand/).
 - *Ce que quelqu’un d’autre va faire.* Ses choix lui appartiennent, et cette personne n’est pas dans la pièce. Si c’est la question qui vous occupe, il y en a [une plus douce à poser](/fr/blog/va-t-il-revenir-tarot/).
 - *La santé, la mort, la grossesse, les procédures en justice, les décisions d’argent, les malédictions.* Non pas parce qu’une carte ne peut pas tomber, mais parce qu’un mot de travers fait là de vrais dégâts. Ces questions-là reviennent à un médecin, un avocat ou un conseiller financier, et elles figurent sur [la liste des sujets sur lesquels je ne lis pas](/fr/avertissements/#refus).
-- *Ce que vous devriez faire.* Un tirage peut vous montrer quelque chose ; le choix reste le vôtre. [Le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
+- *Ce que vous devriez faire.* Un tirage peut vous montrer quelque chose ; [le choix reste le vôtre](/fr/blog/le-tarot-nest-pas-une-autorite/).
 
 ## Interroger l’avenir sans demander une prophétie {#comment-demander}
 

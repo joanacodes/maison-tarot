@@ -61,7 +61,7 @@ En une phrase : « Vous en avez envie pour elle-même ; ce qui vous retient, c�
 
 ## Construire un tirage pour quelqu’un qui ne vous dit rien {#a-l-aveugle}
 
-Quand je lis pour quelqu’un, la personne ne me donne pas sa question. Ne me dites rien. Je ne peux donc pas bâtir le tirage autour d’elle, et j’utilise des positions qui vont à n’importe quelle vie : ce qui est là, ce qui bloque, ce que vous pouvez faire. La personne garde sa question pour elle et vérifie à la fin si elle a reçu une réponse. C’est [la règle du silence](/fr/blog/regle-du-silence-tarot/), et elle vaut pour un tirage maison comme pour un classique.
+Quand je lis pour quelqu’un, la personne ne me donne pas sa question. Je ne peux donc pas bâtir le tirage autour d’elle, et j’utilise des positions qui vont à n’importe quelle vie : ce qui est là, ce qui bloque, ce que vous pouvez faire. La personne garde sa question pour elle et vérifie à la fin si elle a reçu une réponse. C’est [la règle du silence](/fr/blog/regle-du-silence-tarot/), et elle vaut pour un tirage maison comme pour un classique.
 
 C’est ma façon de faire, pas la seule. Certains tarologues posent le même schéma pour toutes les questions de travail ; d’autres inventent une disposition pour chaque personne, et tous savent expliquer pourquoi — une des raisons pour lesquelles je vois la lecture comme [un art à part entière](/fr/blog/le-tarot-est-il-un-art/). Chaque tirage saisit un moment qui ne reviendra pas : construisez celui qui lui va.
 

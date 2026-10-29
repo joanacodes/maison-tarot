@@ -36,7 +36,7 @@ Quelques schémas que je surveillerais, chez vous comme chez un tarologue :
 - « C’est mon signe », pour éviter de s’excuser. [L’astrologie comme excuse](/fr/blog/lastrologie-nest-pas-une-excuse/) est une proche cousine du contournement.
 - La pensée positive utilisée comme un couvercle : répéter que tout va bien pour ne pas avoir à vérifier si c’est vrai. Il y a une vraie différence entre [une affirmation et la positivité toxique](/fr/blog/affirmations-ou-positivite-toxique/).
 
-Une carte illustre très bien tout ça. Le Huit d’Épées montre une femme ligotée et les yeux bandés, debout au milieu de huit épées plantées dans le sol. Dans mes notes, elle est prisonnière d’elle-même alors qu’elle a tous les outils pour sortir : elle peut retirer son bandeau.
+Une carte illustre très bien tout ça : le Huit d’Épées, une femme aux yeux bandés entourée de lames. Dans mes notes, elle est prisonnière d’elle-même alors qu’elle a tous les outils pour sortir : elle peut retirer son bandeau.
 
 {{< cards "sw08" >}}
 
@@ -57,7 +57,7 @@ Quatre questions à vous poser après un tirage :
 3. Aurais-je pu entendre un « non » ? Si une seule réponse était acceptable, le tirage était un mot d’excuse signé d’avance.
 4. Est-ce la même question que la semaine dernière ?
 
-Si les réponses vous inquiètent, rangez le jeu dans un tiroir quelques semaines. Ce n’est pas une punition ; c’est laisser au muscle qui décide l’occasion de travailler. J’en parle dans [pourquoi arrêter de tirer les cartes, au moins un temps](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
+Si les réponses vous inquiètent, [rangez le jeu dans un tiroir quelques semaines](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/). Ce n’est pas une punition ; c’est laisser au muscle qui décide l’occasion de travailler.
 
 ## Ce qui aide à la place {#ce-qui-aide}
 
@@ -66,6 +66,6 @@ En douceur, et à peu près dans cet ordre :
 1. Dites la phrase toute bête avant de mélanger : « Je suis triste. » « Je suis en colère. » « J’ai peur de décider. » Si vous arrivez à la dire, vous n’aurez peut-être pas besoin des cartes pour celle-là.
 2. Interrogez-vous vous-même, pas la situation ni l’autre personne.
 3. Soyez aussi doux et tolérant avec vous-même que vous l’êtes avec les autres. Cette phrase vient de mes propres notes sur le travail sur l’ombre, et c’est celle à laquelle je reviens le plus.
-4. Quand c’est plus lourd que ce que des cartes peuvent porter, poussez une autre porte. Tout n’est pas une histoire d’esprits : parfois, c’est psychologique, et un thérapeute est la bonne personne. [Je dis où se trouve cette porte](/fr/avertissements/#therapie), et y frapper n’a rien d’un échec de votre pratique.
+4. Quand c’est plus lourd que ce que des cartes peuvent porter, poussez une autre porte. Parfois, ce qu’on contourne est psychologique, et un thérapeute est la bonne personne. [Je dis où se trouve cette porte](/fr/avertissements/#therapie), et y frapper n’a rien d’un échec de votre pratique.
 
 Si vous cherchez par où commencer, [le travail sur l’ombre pour débuter](/fr/blog/travail-sur-lombre/) part d’une carte, de quelques questions honnêtes et d’un carnet, tournés vers ce que vous contournez depuis trop longtemps.

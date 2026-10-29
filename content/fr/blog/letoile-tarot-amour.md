@@ -53,7 +53,7 @@ Une question plus douce : « De quoi aurais-je besoin pour me sentir assez solid
 
 Dans mes notes, chaque carte a un plus et un moins, et les plus lumineuses ne font pas exception. Inversée, l’Étoile retient son espoir, ou le verse tout entier.
 
-Retenu : vous avez passé le pire mais vous n’y croyez pas encore, alors vous gardez les deux cruches pleines et vous ne versez rien. Personne de nouveau n’a sa chance, parce que vous attendez la prochaine tempête. Versé tout entier : vous donnez tout à quelqu’un d’autre et vous ne gardez rien pour votre propre terre. Ni l’un ni l’autre n’est un échec. Le premier demande de la patience avec vous-même ; le second, de garder une cruche pour vous. Le revers des lames les plus lumineuses est un sujet à part entière, et j’y ai consacré un article : [les lames les plus joyeuses, et leur revers](/fr/blog/cartes-tarot-joyeuses/).
+Retenu : vous avez passé le pire mais vous n’y croyez pas encore, alors vous gardez les deux cruches pleines et vous ne versez rien. Personne de nouveau n’a sa chance, parce que vous attendez la prochaine tempête. Versé tout entier : vous donnez tout à quelqu’un d’autre et vous ne gardez rien pour votre propre terre. Le premier demande de la patience avec vous-même ; le second, de garder une cruche pour vous. Le revers des lames les plus lumineuses est un sujet à part entière, et j’y ai consacré un article : [les lames les plus joyeuses, et leur revers](/fr/blog/cartes-tarot-joyeuses/).
 
 ## Verser un peu chaque jour {#verser}
 

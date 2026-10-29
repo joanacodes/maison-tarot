@@ -25,7 +25,7 @@ Et une sorcière ? Ma définition, tirée de mes notes, est celle-ci : **une sor
 
 ## Commencez par vos sens, pas par une liste d’achats {#vos-sens}
 
-Nous sommes tous nés avec nos sens. Pour les développer : méditer, lire, peindre — n’importe quel art méditatif. Lire le tarot, le marc de café, un tableau. On peut lire dans tout.
+Nous sommes tous nés avec nos sens. Pour les développer : méditer, lire, peindre — n’importe quel art méditatif. Lire le tarot, le marc de café, un tableau.
 
 Ce qui a affûté mes propres sens, ce n’est rien de ce que j’ai acheté, et je parle en connaissance de cause : j’ai moi-même [vendu de la sauge et des bougies](/fr/blog/purifier-son-jeu-de-tarot/) à une époque. Manger plus frais m’a aidée. Vivre seule dans mon propre appartement a été le vrai déclic.
 
@@ -36,8 +36,8 @@ Ce qui a affûté mes propres sens, ce n’est rien de ce que j’ai acheté, et
 Elles ne coûtent rien, et elles servent quel que soit le chemin que vous prendrez ensuite.
 
 1. Quelques minutes de méditation. Méditer, c’est l’art de ne rien faire du tout : lâcher le contrôle, laisser les choses circuler dans votre tête. C’est difficile, et les personnes qui disent ne pas pouvoir méditer sont celles qui en ont le plus besoin. Ce que j’ai remarqué en commençant : des décisions plus nettes, moins de doutes sur moi-même. Voici [la méditation pour celles et ceux qui pensent ne pas y arriver](/fr/blog/commencer-la-meditation/).
-2. Un carnet de pratique. Beaucoup de sorcières tiennent un livre des ombres : un carnet personnel de leur pratique — ce qu’elles ont fait, quand, et ce qui s’est passé. Mon carnet de tarot suit la même idée : d’un côté ce que j’ai dit, de l’autre ce qui a été confirmé. Notez aussi ce qui n’a pas marché. Un raté est un raté, et il vous apprend plus qu’une réussite.
-3. Une carte par jour. Le tarot n’est pas de la sorcellerie — j’ai écrit sur [ce qui les distingue](/fr/blog/le-tarot-est-il-de-la-sorcellerie/) —, mais une seule carte chaque matin entraîne très bien l’attention. Décrivez ce qu’il y a dessus, ce que vous voyez, ce que vous recevez.
+2. Un carnet de pratique. Beaucoup de sorcières tiennent un livre des ombres : un carnet personnel de leur pratique — ce qu’elles ont fait, quand, et ce qui s’est passé. Mon carnet de tarot suit la même idée : d’un côté ce que j’ai dit, de l’autre ce qui a été confirmé. Notez aussi ce qui n’a pas marché ; ces lignes-là vous apprennent plus que les réussites.
+3. Une carte par jour. Le tarot n’est pas de la sorcellerie — j’ai écrit sur [ce qui les distingue](/fr/blog/le-tarot-est-il-de-la-sorcellerie/) —, mais une seule carte chaque matin entraîne très bien l’attention.
 
 Si vous en voulez une quatrième, suivez les saisons. Beaucoup de sorcières marquent la Roue de l’année, huit fêtes réparties sur l’année. L’une d’elles est Samhain, la nuit du 31 octobre : la fin des récoltes, l’entrée dans la moitié sombre de l’année, et un moment pour se souvenir des morts. J’ai écrit sur [Samhain et le tarot](/fr/blog/samhain-tarot/) si vous voulez une porte d’entrée tranquille.
 
@@ -54,7 +54,7 @@ Ce que je laisserais attendre :
 - Appeler les esprits. Avec les esprits, vous ne savez pas qui vous appelez.
 - Les malédictions et les sorts contre quelqu’un. Je ne lis pas sur les malédictions, et si quelqu’un vous dit que vous êtes maudite ou maudit et vous demande de l’argent pour lever le sort, c’est [la plus vieille arnaque du métier](/fr/blog/malediction-voyance-arnaque/), pas un diagnostic.
 - Lire ou agir sur des personnes sans leur demander. Vous n’aimeriez pas qu’on fouille dans votre chambre ; c’est pareil.
-- Quiconque vous dit faire partie d’une poignée d’élus. Il n’y a pas d’élus.
+- Quiconque vous dit faire partie d’une poignée d’élus.
 
 ## Quelle sorcière êtes-vous ? {#quelle-sorciere}
 

@@ -59,7 +59,7 @@ Je peux me le permettre parce que les cours me font vivre. Tout le monde n’a p
 
 Je vends des cours : des séances individuelles d’une heure, et des ateliers de trois heures pour douze personnes, une clé de lecture par atelier. Les tirages, eux, ont lieu aux événements gratuits, tirés au sort, devant tout le monde.
 
-Toujours pour une question d’intérêt. Une pratique qui vit des tirages a besoin qu’on revienne pour des tirages. Une pratique qui vit de l’enseignement a besoin qu’on reparte en sachant plus, et en ayant moins besoin de moi. Et à un événement gratuit, dire « celui-là est raté » ne me coûte rien, alors je le dis à chaque fois. Un raté est un raté.
+Toujours pour une question d’intérêt. Une pratique qui vit des tirages a besoin qu’on revienne pour des tirages. Une pratique qui vit de l’enseignement a besoin qu’on reparte en sachant plus, et en ayant moins besoin de moi. Et à un événement gratuit, dire « celui-là est raté » ne me coûte rien, alors je le dis à chaque fois.
 
 J’ai détaillé à part [ce que je fais payer et ce que je donne](/fr/blog/ce-que-je-fais-payer/). Pour comparer des tarologues payants, voyez [ce qui se cache dans le prix d’un tirage](/fr/blog/prix-tirage-tarot/).
 

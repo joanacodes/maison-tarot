@@ -45,7 +45,7 @@ La même carte se lit différemment d’une personne à l’autre, et d’un jou
 
 ### 6. Tout le monde peut apprendre ; certains ont plus de facilité
 
-Toutes les personnes que j’ai aidées à lire y sont arrivées dans leurs trois premiers essais. Comme pour le dessin : certains ont plus de talent, et tous ceux qui pratiquent y arrivent. Il n’y a pas d’élus, et c’est pour ça que je [rends gentiment le compliment « tu as un don »](/fr/blog/tu-as-un-don/).
+Toutes les personnes que j’ai aidées à lire y sont arrivées dans leurs trois premiers essais. Comme pour le dessin : certains ont plus de talent, et tous ceux qui pratiquent y arrivent. C’est pour ça que je [rends gentiment le compliment « tu as un don »](/fr/blog/tu-as-un-don/).
 
 ### 7. Sa seule vraie technique, c’est le lâcher-prise
 
@@ -59,7 +59,7 @@ Certains tarologues se font payer des milliers d’euros ; d’autres lisent pou
 
 ### 9. Chaque tirage est un moment qu’on ne retrouvera pas
 
-On peut photographier les cartes. On ne peut pas photographier ce qui est venu, le visage en face, le silence juste avant « comment vous saviez ? ». Comme un concert, ça n’a lieu qu’une fois. On ne peut pas vous raconter ce que ça fait. On peut seulement essayer.
+On peut photographier les cartes. On ne peut pas photographier ce qui est venu, le visage en face, le silence juste avant « comment vous saviez ? ». Comme un concert, ça n’a lieu qu’une fois.
 
 ### 10. On trouve ça bidon, ou on ne jure que par ça
 

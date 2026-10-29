@@ -78,7 +78,7 @@ Puis la colonne, de bas en haut : le Deux d’Épées, le Trois de Coupes, le Ne
 
 {{< cards "sw02 cu03 sw09 waac" >}}
 
-D’abord les clés de lecture. Un seul arcane majeur sur dix, [l’Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/) : c’est une situation à taille humaine, entre les mains de la personne. Les Coupes sont la famille la plus présente, avec trois des neuf arcanes mineurs : il s’agit d’abord de ce que la personne ressent. Les couleurs : le ciel de nuit du Huit de Coupes et le mur noir du Neuf d’Épées ; le gris du Deux d’Épées ; puis le vert des feuilles de l’As de Bâtons à la dernière place. Le sombre est au cœur et dans les craintes. Le vert est dans la direction.
+Avant de lire position par position, je passe les dix cartes aux clés de lecture. Un seul arcane majeur sur dix, [l’Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/) : c’est une situation à taille humaine, entre les mains de la personne. Les Coupes sont la famille la plus présente, avec trois des neuf arcanes mineurs : il s’agit d’abord de ce que la personne ressent. Les couleurs : le ciel de nuit du Huit de Coupes et le mur noir du Neuf d’Épées ; le gris du Deux d’Épées ; puis le vert des feuilles de l’As de Bâtons à la dernière place. Le sombre est au cœur et dans les craintes. Le vert est dans la direction.
 
 La croix. Une silhouette en cape rouge s’éloigne de nuit de huit coupes empilées — dans mes notes, passer à autre chose que ce qu’on fait déjà —, tandis qu’en travers un homme couronné serre une pièce contre sa poitrine. Un 8 croisé par un 4, l’Eau croisée par la Terre : partir, et s’accrocher à la sécurité construite.
 
@@ -90,7 +90,7 @@ Trois phrases, à voix haute :
 
 « Vous vous éloignez de quelque chose qui vous remplissait autrefois, et une partie de vous s’accroche à la sécurité que ça vous donnait. Ce qui vous attire, c’est l’espoir, et quelque chose que vous aimiez il y a longtemps ; les disputes sont derrière vous, et ce qui vient, c’est apprendre, en commençant petit. Vous n’avez pas encore décidé et vous ne regardez pas tout à fait ; vos amis sont de votre côté, les nuits sont le plus dur, et la direction, si vous continuez, c’est un nouveau départ. »
 
-C’est là que la règle du silence porte ses fruits. Ne me dites rien jusqu’à ce que j’aie fini — puis dites-moi ce qui a tenu. Si le cœur de la situation ne résonne pas, les neuf autres cartes n’ont pas à le sauver, et il n’y a pas de onzième carte pour éclaircir.
+C’est là que la règle du silence porte ses fruits : la personne attend que j’aie fini, puis me dit ce qui a tenu. Si le cœur de la situation ne résonne pas, les neuf autres cartes n’ont pas à le sauver, et il n’y a pas de onzième carte pour éclaircir.
 
 ## Ce que je fais de la carte dix {#carte-dix}
 

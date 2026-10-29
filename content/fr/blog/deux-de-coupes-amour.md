@@ -17,7 +17,7 @@ En amour, le Deux de Coupes est un lien choisi des deux côtés : deux personnes
 
 ## Un contrat du cœur {#contrat}
 
-Le 2, dans mes notes, c’est le contrat : deux parties, un lien, et les conditions qui vont avec. Son conseil : lire le contrat, peser le pour et le contre. Son moins : l’entêtement — l’ego qui attend que l’autre fasse tout le chemin. En amour, ces deux lignes disent l’essentiel de la carte.
+Le 2, dans mes notes, c’est le contrat : deux parties, un lien, et les conditions qui vont avec. Son conseil : relire ce que chacun attend de l’autre avant de s’engager. Son moins : l’entêtement — l’ego qui attend que l’autre fasse tout le chemin. En amour, ces deux lignes disent l’essentiel de la carte.
 
 L’élément, c’est l’Eau : c’est donc un contrat de sentiments. Les coupes sont pleines et rien ne déborde : des émotions assez posées pour être partagées plutôt que déversées sur quelqu’un. L’énergie est féminine — la patience, le soin, les choses délicates abordées par un détour. C’est précieux pour la tendresse, et ça peut se figer quand l’un de vous a besoin d’une réponse franche.
 

@@ -71,7 +71,7 @@ Toutes les personnes nées le même jour le partagent, et avec seulement neuf r�
 
 Ce n’est pas une excuse non plus. « Je suis un 1, je ne sais pas travailler en équipe », c’est la version numérologique de [« c’est parce que je suis Scorpion »](/fr/blog/lastrologie-nest-pas-une-excuse/).
 
-Et je le tiens avec légèreté. J’ai compté mes tirages de tarot et vérifié mon thème astral case par case ; je n’ai pas fait le même test sur les chemins de vie. Ne prenez pas mes mots pour une vérité absolue : testez, et faites-en l’expérience vous-même.
+Et je le tiens avec légèreté. J’ai compté mes tirages de tarot et vérifié mon thème astral case par case ; je n’ai pas fait le même test sur les chemins de vie.
 
 ## Essayez sur trois personnes {#a-essayer}
 

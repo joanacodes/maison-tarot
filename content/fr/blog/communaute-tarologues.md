@@ -17,7 +17,7 @@ Maison Tarot est écrite pour qu’une personne curieuse puisse partir de rien, 
 
 Si vous tirez les cartes depuis un moment, vous n’avez sans doute pas besoin d’une liste de significations de plus. À ce stade, ce qui aide est ailleurs : une nouvelle porte d’entrée sur des cartes que vous croyez connaître, un moyen de savoir combien de fois vous tombez juste, et des gens devant qui essayer.
 
-C’est autour de ça que la Maison est construite. Autant dire aussi ce qu’elle n’est pas. Pas de niveaux, pas de certificat, pas de hiérarchie entre lecteurs, et personne ici ne détient la vérité ultime. Si vous cherchez un diplôme ou une voie pour vendre des tirages, Maison Tarot ne vous le donnera pas : j’enseigne la lecture, pas le commerce qui va avec.
+C’est autour de ça que la Maison est construite. Autant dire aussi ce qu’elle n’est pas. Pas de niveaux, pas de certificat, pas de hiérarchie entre lecteurs, et personne ici n’a le dernier mot. Si vous cherchez un diplôme ou une voie pour vendre des tirages, Maison Tarot ne vous le donnera pas : j’enseigne la lecture, pas le commerce qui va avec.
 
 ## La Bibliothèque : une deuxième porte sur des cartes connues {#bibliotheque}
 
@@ -41,7 +41,7 @@ Pour qui a appris les significations par cœur, ces clés sont une deuxième por
 
 Pour une débutante, ce dernier exercice est une première. Pour un lecteur, c’est de l’entraînement sous un peu de pression, avec jusqu’à onze personnes capables de dire ce qui a porté et ce qui n’a pas porté. Faire ce genre de retour est un savoir-faire à part entière, et j’ai écrit sur [la façon de faire un retour à un autre tarologue avec tact](/fr/blog/faire-un-retour-a-un-tarologue/).
 
-Les sessions fonctionnent de la même manière, en tête-à-tête : une heure en visio, vous lisez d’abord, je lis ensuite, et on compare. J’enseigne pour un moment précis : quand quelqu’un dit une chose juste et reste saisi par ce qu’il vient de dire. Ça ne se raconte pas. Ça s’essaie.
+Les sessions fonctionnent de la même manière, en tête-à-tête : une heure en visio, vous lisez d’abord, je lis ensuite, et on compare. J’enseigne pour un moment précis : quand quelqu’un dit une chose juste et reste saisi par ce qu’il vient de dire.
 
 ## Les événements : là où les tirages se font à découvert {#evenements}
 

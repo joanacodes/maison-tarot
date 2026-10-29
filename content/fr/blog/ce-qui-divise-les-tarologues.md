@@ -51,14 +51,14 @@ Ma position : l’IA est un bon dictionnaire et une mauvaise lectrice. Demandez-
 
 ## Tirages fixes ou tirages libres {#tirages}
 
-Certains tarologues suivent des schémas fixes : le tirage en croix, très répandu en France, ou un tirage sur le travail toujours posé de la même façon, chaque position décidée d’avance. D’autres suivent leur intuition et inventent un tirage pour chaque personne. Le premier camp tient à la structure et à la possibilité de comparer les lectures dans le temps. Le second tient à l’ajustement.
+Certains tarologues suivent des schémas fixes : le tirage en croix, très répandu en France, ou un tirage sur le travail toujours posé de la même façon, chaque position décidée d’avance. D’autres composent leur tirage sur le moment, selon la personne qui s’assoit. Le premier camp tient à la structure et à la possibilité de comparer les lectures dans le temps. Le second tient à l’ajustement.
 
 Imaginons quelqu’un qui hésite entre deux emplois. Un tirage fixe, ce serait la croix, cinq positions décidées bien avant qu’il ne s’assoie. Un tirage libre, ce pourrait être deux colonnes de trois cartes, une par emploi, inventées sur le moment. Les deux peuvent marcher. Le risque d’un côté, c’est de faire entrer une personne dans des cases qui ne lui vont pas ; de l’autre, c’est de décider du sens d’une position après avoir vu ce qui y est tombé.
 
-Ma position : les deux sont un artisanat, et j’en suis venue à voir un tirage comme plus proche de l’art que d’un formulaire à remplir. L’un voit une histoire, l’autre en voit une autre, et chacun peut expliquer pourquoi. C’est ainsi que deux tarologues peuvent [lire différemment les mêmes cartes](/fr/blog/deux-lectures-differentes/) sans qu’aucun se trompe. Quel que soit votre choix, décidez du sens de chaque position avant de retourner les cartes.
+Ma position : les deux sont un artisanat, et j’en suis venue à voir un tirage comme plus proche de l’art que d’un formulaire à remplir. C’est ainsi que deux tarologues peuvent [lire différemment les mêmes cartes](/fr/blog/deux-lectures-differentes/) sans qu’aucun se trompe. Quel que soit votre choix, décidez du sens de chaque position avant de retourner les cartes.
 
 ## Ce qu’il y a sous les débats, et à vous de jouer {#a-vous}
 
 Sous ces six débats, les tarologues que je respecte ont souvent quelques points en commun. Une lecture n’est pas un ordre. Personne n’a raison à chaque fois, et le dire fait partie du travail. La personne en face compte plus que la méthode. Deux tarologues d’accord là-dessus peuvent être en désaccord sur tout le reste et valoir tous les deux qu’on s’assoie à leur table.
 
-Quant à mes positions : ne prenez pas mes mots pour une vérité absolue. Testez, et faites-en l’expérience vous-même. Choisissez un débat, essayez pendant une semaine le camp qui n’est pas le vôtre, et notez ce qui change dans [votre carnet de tirages](/fr/blog/carnet-de-tirage-tarot/). Vous finirez peut-être là où je suis, ou quelque part de mieux.
+Quant à mes positions, le meilleur usage que vous puissiez en faire est de les contredire une semaine : choisissez un débat, essayez le camp qui n’est pas le vôtre, et notez ce qui change dans [votre carnet de tirages](/fr/blog/carnet-de-tirage-tarot/). Vous finirez peut-être là où je suis, ou quelque part de mieux.

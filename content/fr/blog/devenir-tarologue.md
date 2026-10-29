@@ -29,7 +29,7 @@ Maintenant, la partie qui gratte. Ce sont précisément les questions pour lesqu
 
 Lors d'un événement gratuit, c'est facile. Rien ne s'est passé, je me suis trompée, je le dis, on passe à la suite. L'argent change l'incitation d'une façon qu'on sent dans la poitrine : un client qui a payé n'est pas venu entendre « non », et trois bouées de sauvetage sont déjà prêtes. « Ça prendra peut-être sens plus tard. » « C'est peut-être quelqu'un de votre entourage. » Une carte de plus, pour clarifier.
 
-Un raté est un raté. Pas de recadrage, pas de carte de clarification. La version professionnelle de cette phrase, c'est « ça n'a pas fait mouche, dites-moi où je me suis trompée », suivie d'un remboursement si c'était payant. Si vous n'arrivez pas à vous imaginer [le dire à voix haute](/fr/blog/tirage-faux-que-faire/) à quelqu'un qui tient un reçu, la carte de visite vous désapprendra l'honnêteté plus vite que n'importe quelle mauvaise habitude.
+Pas de recadrage, pas de carte de clarification. La version professionnelle de « c'est raté », c'est « ça n'a pas fait mouche, dites-moi où je me suis trompée », suivie d'un remboursement si c'était payant. Si vous n'arrivez pas à vous imaginer [le dire à voix haute](/fr/blog/tirage-faux-que-faire/) à quelqu'un qui tient un reçu, la carte de visite vous désapprendra l'honnêteté plus vite que n'importe quelle mauvaise habitude.
 
 ## Que vendez-vous : des lectures, ou la capacité de lire ? {#ce-que-vous-vendez}
 
@@ -43,7 +43,7 @@ J'ajoute la partie dont je ne suis pas fière. En 2021, je vendais de la sauge, 
 
 Lire pendant deux heures puis ranger le jeu, même quand il reste des gens qui attendent, est une règle que je garde par prudence. Je ne comprends pas tout à fait ce qui me fatigue au bout de deux heures ; je sais que ce que je dis passé ce cap vaut moins, et je préfère ne pas découvrir combien moins sur quelqu'un qui m'a fait confiance.
 
-Un agenda professionnel veut une journée remplie. Douze créneaux à la suite, une pause déjeuner si vous êtes organisé. Avant de vous engager là-dedans, prenez au sérieux [ce que deux heures font à un tarologue](/fr/blog/energie-apres-un-tirage/), et faites une pause loin de vos cartes de temps en temps. La dépendance marche dans les deux sens.
+Un agenda professionnel veut une journée remplie. Douze créneaux à la suite, une pause déjeuner si vous êtes organisé. Avant de vous engager là-dedans, prenez au sérieux [ce que deux heures font à un tarologue](/fr/blog/energie-apres-un-tirage/), et gardez des jours où vous ne lisez pour personne. La dépendance marche dans les deux sens.
 
 ## Que faire avant la carte {#avant-la-carte}
 
@@ -55,4 +55,4 @@ Aucune des cinq questions ne se règle depuis un fauteuil. Donc, dans l'ordre :
 4. Rédigez votre liste de refus et imaginez-vous éconduire la personne qui vous aurait payé le plus.
 5. Ensuite seulement, décidez de ce que vous vendez.
 
-Si vous voulez voir à quoi ressemblent des lectures gratuites quand rien n'est à vendre après, [venez à un événement](/fr/evenements/). Apportez un carnet, ne me dites rien, et comptez-moi aussi.
+Si vous voulez voir à quoi ressemblent des lectures gratuites quand rien n'est à vendre après, [venez à un événement](/fr/evenements/). Apportez un carnet, gardez votre question pour vous, et comptez-moi aussi.

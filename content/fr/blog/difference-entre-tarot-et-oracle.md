@@ -59,7 +59,7 @@ Le tarot — idéalement le Rider-Waite-Smith, où chacune des 78 cartes est une
 
 Un oracle fait un très joli deuxième jeu. Certains tarologues tirent une carte d’oracle en fin de tirage, comme une note finale ; d’autres en gardent un pour les matins sans envie de nombres. Collectionner les jeux, pour moi, c’est comme collectionner l’art : chaque carte est une image à travers laquelle on peut voir des messages, et c’est aussi vrai d’un bel oracle que d’un tarot.
 
-Ce qu’aucun jeu ne peut faire, c’est lire à votre place. Les cartes ne sont pas magiques, vous l’êtes. La lecture vient de la personne qui tient les cartes, quelles qu’elles soient.
+Ce qu’aucun jeu ne peut faire, c’est lire à votre place. La lecture vient de la personne qui tient les cartes, quelles qu’elles soient.
 
 ## L’oracle est-il plus faible, ou plus risqué ? {#faible-ou-risque}
 
