@@ -1,6 +1,6 @@
 ---
 title: "Ce qu’il faut savoir avant une lecture de tarot gratuite en ligne (et comment se passent les événements de la Maison)"
-description: "Les lectures gratuites en ligne de Maison Tarot : vous ne dites rien au lecteur, quelques personnes sont tirées au sort, chacune reçoit une lecture devant les autres, et les ratés sont dits à voix haute. À quoi s’attendre, ce qui est refusé, quoi faire de ce que vous entendez — et les quatre signes qu’une « lecture gratuite » ailleurs est un hameçon."
+description: "Les lectures gratuites en ligne de Maison Tarot : vous ne dites rien au lecteur, quelques personnes sont tirées au sort, chacune reçoit une lecture devant les autres, et les ratés sont dits à voix haute. À quoi s’attendre, ce qui est refusé, quoi faire de ce que vous entendez — et comment reconnaître, ailleurs, une « lecture gratuite » qui est un hameçon."
 translationKey: post-free
 type: blog
 date: 2026-09-06
@@ -34,14 +34,9 @@ Et si vous allez mal ce soir-là : dites-le, en privé, et je vous passerai. Une
 - **Notez ce qui a été dit**, tout de suite après, avant de décider ce que ça voulait dire. Vous serez surpris·e de ce dont vous vous souviendrez autrement une semaine plus tard.
 - **N’agissez pas dessus.** Agissez sur ce que vous ressentez. [Le tarot n’est pas une autorité](/fr/avertissements/#lectures), et une lecture devant vingt inconnus encore moins.
 
-## Les quatre signes de l’hameçon {#l-hamecon}
+## Reconnaître l’hameçon {#l-hamecon}
 
-Ailleurs, une lecture gratuite est souvent le premier coup. Quatre choses la trahissent :
-
-1. **Elle finit par de l’urgence.** « Je vois quelque chose de grave, il faut aller plus loin — en privé, aujourd’hui. » La peur, puis un prix.
-2. **Elle trouve une malédiction.** Ou un blocage, un attachement, une énergie négative — toujours quelque chose qu’eux seuls peuvent enlever, toujours contre de l’argent. [C’est la définition même de l’arnaque.](/fr/avertissements/#refus)
-3. **Elle n’a jamais tort.** Un lecteur qui ne sait pas dire « celle-là est ratée » ne vous lit pas. Il vous garde.
-4. **Elle demande vos informations d’abord.** Votre nom, votre date de naissance, votre question, le prénom de votre ex. Tout ce qu’il faut à une lecture à froid pour paraître juste. La Maison ne demande rien, exprès.
+Ailleurs, une lecture gratuite est souvent le premier coup : elle finit sur quelque chose d’urgent que seul le lecteur peut régler, contre un prix, et elle n’admet jamais un raté. Ce sont les premiers signaux d’alarme d’un [faux tarologue](/fr/blog/arnaque-voyance/). Maison Tarot ne vous demande rien avant, exprès.
 
 ## Où sont les lectures {#ou}
 

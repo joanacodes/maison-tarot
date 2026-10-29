@@ -1,6 +1,6 @@
 ---
 title: "What to know before a free online tarot reading (and how Maison Tarot’s events work)"
-description: "Free online readings at Maison Tarot: you tell the reader nothing, a few people are drawn at random, each gets one reading in front of the others, and the misses are said out loud. What to expect, what’s refused, what to do with what you hear — and the four signs that a “free reading” elsewhere is a hook."
+description: "Free online readings at Maison Tarot: you tell the reader nothing, a few people are drawn at random, each gets one reading in front of the others, and the misses are said out loud. What to expect, what’s refused, what to do with what you hear — and how to recognise a “free reading” elsewhere that is really a hook."
 translationKey: post-free
 type: blog
 date: 2026-09-06
@@ -34,14 +34,9 @@ And if you're in distress that evening: say so, privately, and I'll skip you. A 
 - **Write down what was said**, right after, before you decide what it meant. You'll be surprised what you remember differently a week later.
 - **Don't act on it.** [Tarot is not an authority](/disclaimers/#readings), and a reading in front of twenty strangers even less so.
 
-## The four signs of a hook {#the-hook}
+## How to recognise a hook {#the-hook}
 
-Elsewhere, a free reading is often the opening move. Four things give it away:
-
-1. **It ends with urgency.** "I see something serious, we need to go deeper — privately, today." Fear, followed by a price.
-2. **It finds a curse.** Or a block, or an attachment, or negative energy — always something only they can remove, always for money. [This is the definition of a scam.](/disclaimers/#refusals)
-3. **It's never wrong.** A reader who cannot say "that one missed" is not reading you. They're keeping you.
-4. **It asks for your details first.** Your name, your birth date, your question, your ex's name. Everything a cold reader needs to look accurate. Maison Tarot asks for nothing, on purpose.
+Elsewhere, a free reading is often the opening move: it ends on something urgent that only the reader can fix, for a price, and it never admits a miss. Those are the first of the [nine red flags of a fake tarot reader](/blog/how-to-spot-a-fake-tarot-reader/). Maison Tarot asks you for nothing first, on purpose.
 
 ## Where the readings are {#where}
 
