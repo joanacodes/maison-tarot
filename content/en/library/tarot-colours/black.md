@@ -68,7 +68,7 @@ Black says **absence, negative thoughts, emptying out, reality**. A black card i
 
 ## The flip side {#flip-side}
 
-Black has a right side and a wrong side. Right side up, it's the useful void — making room, looking at reality. Wrong side up, it's the hole where energy disappears: depression, denial, the Tower you didn't see coming. The neighbouring card says which.
+Black has a right side and a wrong side. Right side up, it's the useful void — making room, looking at reality. Wrong side up, it's the hole where energy disappears: denial, the Tower you didn't see coming. The neighbouring card says which.
 
 ## With the other lenses {#lenses}
 

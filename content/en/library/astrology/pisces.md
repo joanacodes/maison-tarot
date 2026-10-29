@@ -66,7 +66,7 @@ A fish lives in water, not on land breathing oxygen: in an environment humans ca
 
 **Favourable.** Friendly, a listener, knows how to keep itself: doesn't spend energy on a pointless conversation, but gives its view when it matters — and that view, rare, is precious.
 
-**Unfavourable.** Depression, self-erasure.
+**Unfavourable.** Self-erasure.
 
 ## The archetype {#archetype}
 
