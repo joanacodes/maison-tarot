@@ -1,6 +1,6 @@
 ---
 title: "Les oracles sont-ils dangereux ? Ce qui l’est vraiment"
-description: "Les oracles sont-ils dangereux ? Non : un jeu, c’est du carton et de l’encre. Ce qui peut nuire : quelqu’un qui promet, un mot pris pour un verdict, une habitude."
+description: "Les oracles sont-ils dangereux ? Non : des cartes imprimées ne peuvent rien contre vous. Ce qui peut nuire : quelqu’un qui promet, un mot pris pour un verdict, une habitude."
 translationKey: "post-are-oracle-cards-dangerous"
 type: blog
 date: 2026-10-24
@@ -11,7 +11,7 @@ imageAlt: "Un jeu d’oracle posé dans sa boîte en carton ouverte sur une tabl
 imagePrompt: "An oracle card deck lying in its open cardboard box on a kitchen table, one card face down beside it, a coffee cup at the edge of the frame. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Les oracles ne sont pas dangereux : un jeu, c’est du carton imprimé, et rien en lui ne peut agir sur vous. Ce qui peut faire du mal, c’est l’usage qu’on en fait. D’abord quelqu’un qui promet — le retour de l’être aimé, la levée d’une malédiction, la certitude de ce qui va arriver — puis réclame plus d’argent ou plus de séances. Ensuite un mot imprimé pris pour un verdict un jour de fatigue, l’habitude de tirer toutes les heures, et les questions de santé, de grossesse, de décès, de justice ou d’argent qu’aucun jeu ne peut porter. Chacun a sa solution, sans drame."
 ---
-Non. Un oracle, c’est du carton et de l’encre, et rien en lui ne peut vous faire de mal. Ce qui le peut, c’est l’usage qu’on en fait — et surtout quelqu’un qui promet : de faire revenir une personne, de lever une malédiction, de vous dire exactement ce qui va se passer. C’est là que je placerais l’inquiétude.
+Non. Un oracle n’est que du carton imprimé, et rien en lui ne peut vous faire de mal. Ce qui le peut, c’est l’usage qu’on en fait — et surtout quelqu’un qui promet : de faire revenir une personne, de lever une malédiction, de vous dire exactement ce qui va se passer. C’est là que je placerais l’inquiétude.
 
 ## Pourquoi on se pose la question {#pourquoi-cette-question}
 

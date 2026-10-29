@@ -1,6 +1,6 @@
 ---
 title: "Quel jeu de tarot choisir pour commencer ? Pourquoi je conseille le Rider-Waite-Smith"
-description: "Pour débuter, choisissez le Rider-Waite-Smith : chaque carte porte une scène lisible sans livre. Pourquoi je le conseille, même en France, et quand en changer."
+description: "Pour débuter, choisissez le Rider-Waite-Smith : ses 78 cartes montrent des scènes lisibles sans livre. Pourquoi je le conseille, même en France, et quand en changer."
 translationKey: "post-best-tarot-deck-for-beginners"
 type: blog
 date: 2026-10-24
