@@ -11,7 +11,7 @@ heroAlt: "Une tarologue, cartes en main, dans une pièce boisée"
 ticker: ["Les cartes ne sont pas magiques. Vous, si.", "Ne vous forcez pas.", "Demystify mysticism."]
 statement: "Une école, une bibliothèque, un salon de thé. <em>Pas de gourou.</em>"
 stepsTitle: "On essaie d’abord. On explique <em>après</em>."
-stepsText: "Ce qu’on ressent en lisant une carte ne se raconte pas. Alors vous tirez une carte dans les dix premières minutes, et le reste vient de là."
+stepsText: "On commence par la pratique : vous tirez une carte dans les dix premières minutes, et tout le reste part de ce que vous y voyez."
 steps:
   - { title: "Vous tirez", text: "Une carte que vous n’avez jamais vue, tout de suite. Sans vocabulaire, sans significations. Juste ce que vous voyez.", image: "step-1.jpg", alt: "Une main retourne une carte" }
   - { title: "Vous lisez avec une clé de lecture", text: "Les couleurs, le nombre, l’élément. Une seule à la fois. La carte se met à parler sans que vous l’ayez apprise.", image: "step-2.jpg", alt: "Une carte, un carnet, une note" }

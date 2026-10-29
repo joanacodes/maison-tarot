@@ -32,7 +32,7 @@ formats:
 formatsNote: "No levels, no certificate, no mandatory path: start with the lens that speaks to you. A workshop is a good gift, or an evening out with friends: the price per person drops from seven people."
 stepsTitle: "How it goes"
 steps:
-  - { title: "We try before we explain", text: "You draw a card within the first ten minutes. What you feel right then can’t be described; it has to be lived.", image: "step-1.jpg" }
+  - { title: "We try before we explain", text: "You draw a card within the first ten minutes, before any explanation, and we start from what you say about it.", image: "step-1.jpg" }
   - { title: "One lens only", text: "Three hours on one thing, not thirty minutes on ten. We turn it over until it becomes a reflex.", image: "step-2.jpg" }
   - { title: "Blind reading", text: "At the end, everyone reads a card they don’t know, in front of the others. The moment you think “oh — I can actually do this” is what we’re here for.", image: "step-3.jpg" }
 faq:

@@ -11,7 +11,7 @@ heroAlt: "A tarot reader, cards in hand, in a wood-panelled room"
 ticker: ["Cards aren’t magic. You are.", "Don’t force yourself.", "Demystify mysticism."]
 statement: "A school, a library, a tea room. <em>No guru.</em>"
 stepsTitle: "We try first. We explain <em>after</em>."
-stepsText: "What you feel while reading a card can’t be told. So you draw a card in the first ten minutes, and everything else follows from that."
+stepsText: "Practice comes first: you draw a card in the first ten minutes, and everything else starts from what you see in it."
 steps:
   - { title: "You draw", text: "A card you’ve never seen, right away. No vocabulary, no meanings. Just what you see.", image: "step-1.jpg", alt: "A hand turning over a card" }
   - { title: "You read with a lens", text: "The colours, the number, the element. One at a time. The card starts talking without you having learned it.", image: "step-2.jpg", alt: "A card, a notebook, a note" }

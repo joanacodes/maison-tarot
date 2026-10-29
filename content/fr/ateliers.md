@@ -32,7 +32,7 @@ formats:
 formatsNote: "Pas de niveaux, pas de certificat, pas de parcours obligatoire : on commence par la clé de lecture qui vous parle. Un atelier s’offre, ou se vit entre amis : le prix par personne baisse à partir de sept."
 stepsTitle: "Comment ça se passe"
 steps:
-  - { title: "On essaie avant d’expliquer", text: "Vous tirez une carte dans les dix premières minutes. Ce que vous ressentez à ce moment-là ne se raconte pas ; il faut le vivre.", image: "step-1.jpg" }
+  - { title: "On essaie avant d’expliquer", text: "Vous tirez une carte dans les dix premières minutes, avant la moindre explication, et on part de ce que vous en dites.", image: "step-1.jpg" }
   - { title: "Une seule clé de lecture", text: "Trois heures sur une chose, pas trente minutes sur dix. On la tourne dans tous les sens jusqu’à ce qu’elle devienne un réflexe.", image: "step-2.jpg" }
   - { title: "Lecture à l’aveugle", text: "À la fin, chacun lit une carte qu’il ne connaît pas, devant les autres. Le moment où vous vous dites « ah, je sais faire ça » — c’est pour ça qu’on est là.", image: "step-3.jpg" }
 faq:
