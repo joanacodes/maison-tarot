@@ -121,7 +121,7 @@ strong { font-weight: 600; }
 
 /* ——— Grille et gabarits ——— */
 .wrap { width: min(100% - 2 * var(--gutter), var(--wide)); margin-inline: auto; }
-.grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 1.5rem; }
+.grid { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 1.5rem; }
 .grid > * { grid-column: span 12; }
 @media (min-width: 1000px) {
   .s3 { grid-column: span 3; } .s4 { grid-column: span 4; } .s5 { grid-column: span 5; } .s6 { grid-column: span 6; } .s7 { grid-column: span 7; } .s8 { grid-column: span 8; } .s9 { grid-column: span 9; }
@@ -137,6 +137,8 @@ strong { font-weight: 600; }
 .prose table { border-collapse: collapse; width: 100%; font-size: var(--t-s); }
 .prose th, .prose td { border-bottom: 1px solid var(--line); padding: 0.55em 0.7em 0.55em 0; text-align: left; vertical-align: top; }
 .prose th { font-weight: 600; }
+/* Sur téléphone, un tableau large défile dans son propre cadre au lieu d'élargir toute la page. */
+@media (max-width: 999px) { .prose table { display: block; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; } }
 .cols-2 { column-count: 2; column-gap: 2.5rem; }
 .cols-2 p { break-inside: avoid; }
 @media (max-width: 999px) { .cols-2 { column-count: 1; } }
@@ -169,7 +171,9 @@ section.band, .band { padding-block: clamp(3rem, 7vw, 6rem); }
 
 /* ——— Faits (rangée de cases) ——— */
 .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 8rem), 1fr)); border: 1px solid var(--line-2); border-radius: var(--r); overflow: hidden; }
-.facts.two { grid-template-columns: 1fr 1fr; }
+.facts.two { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+/* Un mot long (« l’aboutissement », « correspondences ») ne doit jamais élargir la page sur un petit écran : il se coupe s'il ne tient pas sur la ligne. */
+h1, h2, .facts .v { overflow-wrap: anywhere; }
 .facts.two div { border-right: 1px solid var(--line-2); border-top: 1px solid var(--line-2); }
 .facts.two div:nth-child(-n+2) { border-top: 0; }
 .facts.two div:nth-child(even) { border-right: 0; }
@@ -335,7 +339,9 @@ details > *:not(summary) { padding-bottom: 1.2rem; max-width: var(--measure); fo
 .article-head .visual .img-reveal.card, .article-head .visual .img-placeholder.card { aspect-ratio: 3 / 5; }
 .article-meta { font: var(--t-xs) var(--font-mono); letter-spacing: 0.04em; color: var(--muted); line-height: 1.8; }
 .article-meta b { color: var(--fg); font-weight: 400; }
-.article-body { display: grid; gap: 2.5rem; margin-top: clamp(2rem, 5vw, 4rem); padding-top: 2rem; border-top: 1px solid var(--fg); }
+.article-body { display: grid; grid-template-columns: minmax(0, 1fr); gap: 2.5rem; margin-top: clamp(2rem, 5vw, 4rem); padding-top: 2rem; border-top: 1px solid var(--fg); }
+/* Sans minmax(0, …), la colonne prend la largeur « min-content » de son contenu et dépasse l'écran du téléphone. */
+.article-body > * { min-width: 0; }
 @media (min-width: 1000px) { .article-body { grid-template-columns: 3fr 6fr 3fr; } .article-body .rail { position: sticky; top: calc(var(--header-h) + 1rem); align-self: start; } }
 .toc { font-size: var(--t-s); }
 .toc ul { list-style: none; padding: 0; margin: 0; }
@@ -364,6 +370,7 @@ details > *:not(summary) { padding-bottom: 1.2rem; max-width: var(--measure); fo
 /* ——— Header ——— */
 /* Bandeau « site en construction » : au-dessus du header, fond or, texte blanc */
 .construction { position: fixed; top: 0; left: 0; right: 0; z-index: 53; height: var(--notice-h); display: flex; align-items: center; justify-content: center; gap: 0.55em; padding: 0 var(--gutter); background: var(--gold); color: #fff; font-family: var(--font-mono); font-size: var(--t-xs); letter-spacing: 0.04em; text-align: center; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+@media (max-width: 480px) { .construction { font-size: 0.68rem; letter-spacing: 0.01em; } }
 .construction-star { display: inline-block; line-height: 1; font-size: 1.35em; font-family: 'Segoe UI Symbol', 'Apple Symbols', 'Noto Sans Symbols 2', var(--font-body); animation: construction-spin 8s linear infinite; }
 @keyframes construction-spin { to { transform: rotate(360deg); } }
 @media (prefers-reduced-motion: reduce) { .construction-star { animation: none; } }
@@ -475,7 +482,7 @@ body.menu-open { overflow: hidden; }
 .site-footer .bottom { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.5rem 2rem; margin-top: 2.5rem; padding-top: 1.2rem; border-top: 1px solid var(--line); font: var(--t-xs) var(--font-mono); color: var(--muted); }
 
 /* ——— Divers ——— */
-.crumbs { font: var(--t-xs) var(--font-mono); letter-spacing: 0.04em; color: var(--muted); margin-bottom: 1.2rem; }
+.crumbs { font: var(--t-xs) var(--font-mono); letter-spacing: 0.04em; color: var(--muted); margin-bottom: 1.2rem; overflow-wrap: anywhere; }
 .crumbs a { text-decoration: none; }
 .crumbs span { margin: 0 0.5em; }
 .todo { color: var(--gold); font-style: italic; }
