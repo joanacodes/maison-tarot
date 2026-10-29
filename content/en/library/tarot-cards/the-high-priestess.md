@@ -48,7 +48,7 @@ What’s missing: action, landscape, anyone else. She isn’t showing you what s
 
 ## By number: 2 {#number}
 
-**2 — two — to bind, to weigh, to cooperate.** The [number 2](/library/numerology/number-2/) is the alliance: two parties, a bond, a contract. Here it’s drawn on the card itself — one black pillar, one white — and she sits between them, weighing. The advice of 2 is to read the contract before you commit, and the scroll in her lap is half hidden: a contract nobody has read to the end. In the Instagram story on my numerology pages, it’s the founders signing with investors, the best moment to read slowly. The minus of 2 shows too: solitude, or a mind so busy weighing that it stops sharing.
+The [number 2](/library/numerology/number-2/) is the alliance: two parties, a bond, a contract. Here it’s drawn on the card itself — one black pillar, one white — and she sits between them, weighing. The advice of 2 is to read the contract before you commit, and the scroll in her lap is half hidden: a contract nobody has read to the end. In the Instagram story on my numerology pages, it’s the founders signing with investors, the best moment to read slowly. The minus of 2 shows too: solitude, or a mind so busy weighing that it stops sharing.
 
 ## By element: Water {#element}
 
@@ -64,7 +64,7 @@ Blue dominates: the mantle, and the water it turns into. In [my colour grid](/li
 
 ## By astrology: Moon {#astrology}
 
-In the Golden Dawn tradition, the High Priestess goes with the [Moon](/library/astrology/moon/): what you feel when nobody’s watching. When I explain a birth chart, I call the Moon “your own room”, the most private place in the house — and that’s this card, a room you aren’t shown. The Moon also has a face we never see from Earth; the High Priestess works the same way, a façade with a great deal behind it. It’s an optional lens; the drawing already says it.
+In the Golden Dawn tradition, the High Priestess goes with the [Moon](/library/astrology/moon/): what you feel when nobody’s watching. When I explain a birth chart, I call the Moon “your own room”, the most private place in the house — and that’s this card, a room you aren’t shown. The Moon also has a face we never see from Earth; the High Priestess works the same way, a façade with a great deal behind it.
 
 ## In a reading {#reading}
 
@@ -78,10 +78,10 @@ Next to [the Magician](/library/tarot-cards/the-magician/), it’s 1 and 2: one 
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the High Priestess next to the [Eight of Cups](/library/tarot-cards/eight-of-cups/): a figure in a red cloak walking away from eight stacked cups, towards the mountains, under a moon.
+Picture the High Priestess coming out beside the [Eight of Cups](/library/tarot-cards/eight-of-cups/): someone in red turning their back on eight stacked cups and heading for the mountains by moonlight.
 
-Lenses first. 2 then 8: a bond being weighed, then what you leave behind — my note for the Eight of Cups is moving on from what you’re already doing. Water and Water: feelings, not logistics. Her blue and white, then a red cloak walking away; and a moon on both cards.
+2 then 8: a bond being weighed, then what you leave behind — my note for the Eight of Cups is moving on from what you’re already doing. Water and Water: feelings, not logistics. Her blue and white, then a red cloak walking away; and a moon on both cards.
 
 What I’d say out loud: “You’ve already decided to leave something, and you haven’t told anyone yet.”
 
-Then I’d check: does that land, and if so, is it a place, a person or a habit? If the answer is no, it was a miss, and I say so.
+Then I’d check: does that land, and if so, is it a place, a person or a habit? If none of it fits, I call it a miss on the spot.

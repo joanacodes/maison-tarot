@@ -59,7 +59,7 @@ The Fool is an [Air](/library/four-elements/air-element/) card: the mind, the id
 
 ## By astrology: Uranus {#astrology}
 
-The Golden Dawn gave the Fool to the element of Air; modern astrologers later linked it to **Uranus** — the planet of breaks, of what arrives unannounced, of freedom taken rather than asked for. It isn’t the sign of caution. If [astrology](/library/astrology/) is a lens that speaks to you, keep it; if not, the three above are enough.
+The Golden Dawn gave the Fool to the element of Air; modern [astrology](/library/astrology/) later linked it to **Uranus** — the planet of breaks, of what arrives unannounced, of freedom taken rather than asked for. It isn’t the sign of caution.
 
 ## In a reading {#reading}
 

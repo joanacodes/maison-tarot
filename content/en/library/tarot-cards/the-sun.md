@@ -49,7 +49,7 @@ Look at what’s missing: no saddle, no reins, no adult, no clothes. The child i
 
 ## By number: 19 {#number}
 
-**19 — 1 + 9 = 10 — the end of the cycle, transition.** Nineteen comes back to [10](/library/numerology/number-10/), the number of the Wheel of Fortune: the corridor between two rooms, freedom, change, room to breathe. Ten can be short-lived, and it folds back to 1: the Sun is a finish line that’s also a beginning.
+Nineteen comes back to [10](/library/numerology/number-10/), the number of the Wheel of Fortune: the corridor between two rooms, freedom, change, room to breathe. Ten can be short-lived, and it folds back to 1: the Sun is a finish line that’s also a beginning.
 
 In the Instagram story, 10 is the point where people no longer recognise the platform, because it has become something else entirely: the cycle closes, and a new story starts with its own 1. The Sun is that moment seen from the bright side. You came through the night of the Moon, 18, and for now there’s nothing left to cross.
 
@@ -63,7 +63,7 @@ The Sun is a [Fire](/library/four-elements/fire-element/) card, and here Fire is
 
 ## By astrology: Sun {#astrology}
 
-In the Golden Dawn tradition, this card belongs to [the Sun](/library/astrology/sun/) itself — the placement everyone knows, the answer to “what sign are you?”. It says the centre: what someone organises their life around, the light they want to show. In my own test it was one of the least reliable placements, about a third accurate: the shop window rather than the shop. That’s a fair way to read the card too — what shows itself willingly. If astrology isn’t your lens, leave it aside.
+In the Golden Dawn tradition, this card belongs to [the Sun](/library/astrology/sun/) itself — the placement everyone knows, the answer to “what sign are you?”. It says the centre: what someone organises their life around, the light they want to show. In my own test it was one of the least reliable placements, about a third accurate: the shop window rather than the shop. That’s a fair way to read the card too — what shows itself willingly.
 
 ## In a reading {#reading}
 
@@ -91,10 +91,10 @@ This week, write down what made it work while you still remember — it’s your
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Sun next to the [Four of Swords](/library/tarot-cards/four-of-swords/).
+Turn to a brighter exercise: the Sun, next to the [Four of Swords](/library/tarot-cards/four-of-swords/).
 
-Lenses first. Numbers: 19 comes back to 10, the end of a cycle; the Four of Swords is 4, stability, rest after the work. Elements: Fire and Air — energy, and a mind that has been resting. The pictures: the Sun’s open yellow beside the grey stillness of the Four of Swords, a knight lying at rest in a quiet chapel.
+Numbers: 19 comes back to 10, the end of a cycle; the Four of Swords is 4, stability, rest after the work. Elements: Fire and Air — energy, and a mind that has been resting. The pictures: the Sun’s open yellow beside the grey stillness of the Four of Swords, a knight lying at rest in a quiet chapel.
 
 The sentence you’d say out loud: “Something has finished, and it went well. You’ve rested; you’re allowed to get up and enjoy it now.”
 
-Then check it. Ask what it brings up, and let them say it before you do. If it doesn’t land, it’s a miss, and you note it. When it does, you’ll understand something no page can give you: you can’t be told what it’s like, you can only try.
+Then check it. Ask what it brings up, and let them say it before you do. If it misses, note it. When it lands, take a moment to enjoy it with them before you move on.

@@ -50,7 +50,7 @@ L’image fait penser au Jugement dernier sculpté au portail central de Notre-D
 
 ## Par le nombre : 20 {#nombre}
 
-**20 — 2 + 0 = 2 — se lier, peser, coopérer.** Vingt se ramène à [2](/fr/bibliotheque/numerologie/chiffre-2/), le nombre de la Grande Prêtresse : deux parties, un contrat, un lien. Son conseil : lire le contrat, peser le pour et le contre ; son moins : l’entêtement, la solitude, le mental qui tourne en rond.
+Vingt se ramène à [2](/fr/bibliotheque/numerologie/chiffre-2/), le nombre de la Grande Prêtresse : deux parties, un contrat, un lien. Son conseil : lire avant de s’engager, peser avant de répondre ; son moins : l’entêtement, la solitude, le mental qui tourne en rond.
 
 Sur le Jugement, les deux parties, ce sont l’appel et la réponse : la trompette sonne, et quelqu’un doit décider s’il se lève. Dans l’histoire d’Instagram, le 2, c’est le moment où les fondateurs signent avec des investisseurs — l’idée engage désormais quelqu’un d’autre, et l’on peut perdre plus que son propre temps. Le Jugement a ce poids-là : répondre engage.
 
@@ -66,7 +66,7 @@ Le [gris](/fr/bibliotheque/couleurs-tarot/gris/) des corps et des cercueils : la
 
 ## Par l’astrologie : Pluton {#astrologie}
 
-La Golden Dawn a attribué le Jugement à l’élément Feu, par la lettre hébraïque Shin, et non à une planète. Les lecteurs modernes l’ont ensuite associé à [Pluton](/fr/bibliotheque/astrologie/pluton/), découverte en 1930 : la planète de la transformation, là où l’on meurt et renaît de son vivant, ce qu’on enterre et ce qui remonte. Par le Scorpion, Pluton relie aussi le Jugement à la Mort : deux cartes qui font peur en image et disent la même chose, que quelque chose finit pour que quelque chose d’autre commence. C’est une clé facultative, et une planète de génération ; le nombre et l’élément vous mèneront plus loin.
+La Golden Dawn a attribué le Jugement à l’élément Feu, par la lettre hébraïque Shin, et non à une planète. Les lecteurs modernes l’ont ensuite associé à [Pluton](/fr/bibliotheque/astrologie/pluton/), découverte en 1930 : la planète de la transformation, là où l’on meurt et renaît de son vivant, ce qu’on enterre et ce qui remonte. Par le Scorpion, Pluton relie aussi le Jugement à la Mort : deux cartes qui font peur en image et disent la même chose, que quelque chose finit pour que quelque chose d’autre commence. Et Pluton est une planète de génération : elle reste des années dans le même signe, si bien qu’elle parle d’une génération plus que d’une personne.
 
 ## En lecture {#lecture}
 
@@ -74,7 +74,7 @@ Le Jugement n’est ni bon ni mauvais. Chaque carte a un plus et un moins, et ce
 
 Renversé, c’est le même appel resté sans réponse : on l’entend et on reste couché, ou l’on repasse le passé en revue sans rien décider. En excès, c’est se juger, ou juger les autres, sans fin.
 
-Parce que le dessin montre des morts qui se relèvent, certaines personnes craignent qu’il s’agisse de quelqu’un qu’elles ont perdu. Je le comprends. Une carte n’apporte pas de nouvelles des défunts, et je ne lis pas sur la mort. Tout n’est pas une histoire d’esprits : ce qui se relève ici, c’est le plus souvent quelque chose à vous qu’on avait mis de côté — un projet, une part de vous, une relation qui mérite un second regard.
+Parce que le dessin montre des morts qui se relèvent, certaines personnes craignent qu’il s’agisse de quelqu’un qu’elles ont perdu. Je le comprends. Une carte n’apporte pas de nouvelles des défunts, et je ne lis pas sur la mort. Ce qui se relève ici, c’est le plus souvent quelque chose à vous qu’on avait mis de côté — un projet, une part de vous, une relation qui mérite un second regard.
 
 À côté de [la Mort](/fr/bibliotheque/cartes-tarot/la-mort/), le Jugement, c’est ce qui revient après la moisson. À côté du [Monde](/fr/bibliotheque/cartes-tarot/le-monde/), la carte qui le suit, c’est le dernier appel avant qu’un cycle se referme. À côté du [Six de Coupes](/fr/bibliotheque/cartes-tarot/six-de-coupes/) — l’enfance, la floraison qui revient —, c’est quelque chose du passé qui revient sous une forme dont vous pouvez vous servir aujourd’hui.
 
@@ -94,9 +94,9 @@ Cette semaine, prévoyez un petit essai : un stage d’un week-end, un café ave
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Jugement à côté de l’[As de Bâtons](/fr/bibliotheque/cartes-tarot/as-de-batons/).
+Pour cet exercice, le Jugement sort avec l’[As de Bâtons](/fr/bibliotheque/cartes-tarot/as-de-batons/) à côté.
 
-Les clés de lecture d’abord. Les nombres : 20 se ramène à 2, un lien, un engagement ; l’As est un 1, le début brut d’un cycle. Les éléments : Feu et Feu, donc une fois que ça bouge, ça va vite. Les images : une trompette qui appelle et, sur l’As, une main qui sort d’un nuage en tenant une branche qui bourgeonne encore.
+Les nombres : 20 se ramène à 2, un lien, un engagement ; l’As est un 1, le début brut d’un cycle. Les éléments : Feu et Feu, donc une fois que ça bouge, ça va vite. Les images : une trompette qui appelle et, sur l’As, une main qui sort d’un nuage en tenant une branche qui bourgeonne encore.
 
 La phrase que vous diriez à voix haute : « Quelque chose que vous avez laissé de côté il y a un moment vous rappelle, et cette fois, ça vient avec l’énergie de le commencer pour de bon. »
 

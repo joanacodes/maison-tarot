@@ -51,7 +51,7 @@ What’s missing: the scythe that older decks put in the skeleton’s hands, and
 
 ## By number: 13 {#number}
 
-**13 — 1 + 3 = 4 — foundations, stability.** Add the digits and 13 becomes [the number 4](/library/numerology/number-4/): foundations, structure, the fruit of your work. That sounds like the opposite of Death until you look at 4’s minus: carrying on when you should stop. Death is the answer to that minus. It clears what no longer works so that something stable can be built on clean ground.
+Add the digits and 13 becomes [the number 4](/library/numerology/number-4/): foundations, structure, the fruit of your work. That sounds like the opposite of Death until you look at 4’s minus: carrying on when you should stop. Death is the answer to that minus. It clears what no longer works so that something stable can be built on clean ground.
 
 In the Instagram story, 4 is the app at its most solid — the moment a company starts believing it will never change again. Death is the card that reminds you it will.
 
@@ -95,13 +95,13 @@ At work, my harvest note usually belongs to someone who isn’t fired or in cris
 
 Reversed, the harvest is late: the job you’ve already left in your head and still go to every morning. In excess, it’s resigning in anger on a Monday, burning the field instead of harvesting it.
 
-“Am I going to lose my job?” is the question this card brings, and the fear behind it is real: the rent, the family, the sense of who you are. I don’t read on that. A card can’t see a company’s decisions, and a wrong word can make someone quit in a panic or freeze when they should act; money decisions stay out of my readings too ([what I don’t read on, and why](/disclaimers/#refusals)). For the concrete side, a careers adviser is the right person to see. A gentler question: “What in my work has finished its season, and what do I want to grow next?” I read; you decide.
+“Am I going to lose my job?” is the question this card brings, and the fear behind it is real: the rent, the family, the sense of who you are. I don’t read on that. A card can’t see a company’s decisions, and a wrong word can make someone quit in a panic or freeze when they should act; money decisions stay out of my readings too ([what I don’t read on, and why](/disclaimers/#refusals)). For the concrete side, a careers adviser is the right person to see. A gentler question: “What in my work has finished its season, and what do I want to grow next?”
 
 This week, write two short lists: what in your work feels ripe, and what you’d like to plant. Keep them for a month and see which one grows.
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws Death next to the Ace of Pentacles. Lenses first: 13, so 4, then 1 — foundations cleared, then a new start. Water then Earth: feelings first, then something concrete. Black and white on one card; gold and green on the other.
+Death comes out first in this imagined reading, and the Ace of Pentacles follows. 13, so 4, then 1 — foundations cleared, then a new start. Water then Earth: feelings first, then something concrete. Black and white on one card; gold and green on the other.
 
 The sentence I’d say: “Something has ended for you, or is ending, and it’s been heavy — but right behind it there’s a very concrete new start, something you can build with your hands.”
 

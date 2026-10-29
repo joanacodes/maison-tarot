@@ -16,7 +16,7 @@ related:
 - /bibliotheque/histoire-du-tarot/golden-dawn-tarot
 faq:
 - q: "Quand le Rider-Waite-Smith a-t-il été publié ?"
-  a: "En décembre 1909, à Londres, par l’éditeur William Rider & Son. Arthur Edward Waite l’a dirigé et Pamela Colman Smith en a dessiné les 78 cartes ; le livre de Waite qui l’accompagne, The Key to the Tarot, a suivi en 1910."
+  a: "En décembre 1909, à Londres, par l’éditeur William Rider & Son. Arthur Edward Waite l’a dirigé et Pamela Colman Smith en a dessiné les 78 cartes ; le petit livre de Waite, The Key to the Tarot, était vendu avec."
 - q: "Pourquoi tant de gens apprennent-ils avec le Rider-Waite-Smith ?"
   a: "Chaque carte, les 56 mineures comprises, montre une scène avec des personnes en action : vous pouvez la lire avant de connaître le moindre sens. C’est pour ça que j’enseigne avec ce jeu."
 gallery: []
@@ -25,7 +25,7 @@ Au XXe siècle, le tarot sort des sociétés secrètes. En 1909, un éditeur lon
 
 ## 1909 : un jeu pour tous, venu d’une société secrète {#rws}
 
-En 1909, l’occultiste [Arthur Edward Waite](/fr/bibliotheque/figures-du-tarot/arthur-edward-waite/) (1857-1942) commande à l’artiste [Pamela Colman Smith](/fr/bibliotheque/figures-du-tarot/pamela-colman-smith/) (1878-1951) les dessins d’un jeu de 78 cartes. Le jeu paraît en décembre 1909 chez William Rider & Son, à Londres, et le livre de Waite qui l’accompagne, *The Key to the Tarot*, suit en 1910. Tous deux avaient été membres de la Golden Dawn, et ses correspondances traversent le jeu : [la Force y est VIII, la Justice XI](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/).
+En 1909, l’occultiste [Arthur Edward Waite](/fr/bibliotheque/figures-du-tarot/arthur-edward-waite/) (1857-1942) commande à l’artiste [Pamela Colman Smith](/fr/bibliotheque/figures-du-tarot/pamela-colman-smith/) (1878-1951) les dessins d’un jeu de 78 cartes. Le jeu paraît en décembre 1909 chez William Rider & Son, à Londres, avec un petit livre de Waite, *The Key to the Tarot* ; l’édition illustrée, *The Pictorial Key to the Tarot*, paraît en 1910. Tous deux avaient été membres de la Golden Dawn, et ses correspondances traversent le jeu : [la Force y est VIII, la Justice XI](/fr/bibliotheque/histoire-du-tarot/golden-dawn-tarot/).
 
 Le Victoria and Albert Museum de Londres, qui conserve des cartes de ce jeu, décrit le partage du travail. Waite a donné à Smith des instructions strictes pour les arcanes majeurs. Les arcanes mineurs sont entièrement de sa conception à elle.
 

@@ -52,7 +52,7 @@ What’s missing: an audience, a road, anything finished. **The drawing is about
 
 ## By number: 1 {#number}
 
-**1 — one — the beginning, the rough diamond.** The [number 1](/library/numerology/number-1/) opens the cycle: precious, and not yet usable, like a stone nobody has cut. On the Magician that’s literal — four tools, no result. He can do everything; he hasn’t done anything yet. In the Instagram story on my numerology pages, it’s Burbn becoming Instagram: two founders keep the one feature people used and start again from it. The advice of 1 is humility: a Magician who forgets he’s on page one starts selling the ending.
+The [number 1](/library/numerology/number-1/) opens the cycle: precious, and not yet usable, like a stone nobody has cut. On the Magician that’s literal — four tools, no result. He can do everything; he hasn’t done anything yet. In the Instagram story on my numerology pages, it’s Burbn becoming Instagram: two founders keep the one feature people used and start again from it. The advice of 1 is humility: a Magician who forgets he’s on page one starts selling the ending.
 
 The infinity sign over his head is an 8 lying down, and 8, in my notes, is mastery. Above his 1, the card draws what the beginning could become.
 
@@ -68,7 +68,7 @@ Yellow fills the background: joy, self-expression, will. In [my colour grid](/li
 
 ## By astrology: Mercury {#astrology}
 
-In the Golden Dawn tradition, the Magician goes with [Mercury](/library/astrology/mercury/), the messenger: how you think, speak and learn. It suits a figure who relays between sky and ground. Mercury rules Gemini, who talks, and Virgo, who checks; the Magician needs both. Keep this lens if astrology speaks to you. If not, the number, the element and the colours have said it already.
+In the Golden Dawn tradition, the Magician goes with [Mercury](/library/astrology/mercury/), the messenger: how you think, speak and learn. It suits a figure who relays between sky and ground. Mercury rules Gemini, who talks, and Virgo, who checks; the Magician needs both.
 
 ## In a reading {#reading}
 
@@ -84,7 +84,7 @@ Next to [the Fool](/library/tarot-cards/the-fool/), it’s 0 then 1: an urge bec
 
 At work, the Magician is the moment your skills meet a starting point: a new job where you’ll use everything you know, a project you’ve been asked to lead, a pitch, a first client, or the freelance plan you keep sketching in a notebook. He’s someone who can catch an idea and land it on the ground. In a career change, he’s also the beginner again: we are all students our whole life, and the first months in a new trade belong in the toolkit.
 
-The four tools make a good check-up. The wand: do you still want this? The cup: do you care about the people it’s for? The sword: have you thought it through? The pentacle: does it hold up in practice — time, materials, the plain logistics? Most people are strong on two and quietly avoid the other two. Cards aren’t magic, you are, and the same goes for the man at the table.
+The four tools make a good check-up. The wand: do you still want this? The cup: do you care about the people it’s for? The sword: have you thought it through? The pentacle: does it hold up in practice — time, materials, the plain logistics? Most people are strong on two and quietly avoid the other two.
 
 Reversed at work, it’s the pitch better than the product — or the opposite worry, real skill you don’t dare show because you’re sure someone will find you out. A raw diamond is still a diamond.
 
@@ -94,10 +94,10 @@ This week, draw four columns on a sheet of paper: wand, cup, sword, pentacle. Un
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Magician next to the Four of Cups: a young man under a tree, arms crossed, three cups on the grass, ignoring a fourth that a hand offers him from a cloud.
+Try this pairing as an exercise: the Magician, then the Four of Cups, where a young man with folded arms sits beneath a tree, three cups lined up on the grass, not taking the fourth that a hand holds out from a cloud.
 
-Lenses first. 1 then 4: a beginning, then a comfort that has set. Air then Water: a decision, then a mood. The Magician’s loud yellow, then a quieter, greener card. The means are there; the energy has gone flat.
+1 then 4: a beginning, then a comfort that has set. Air then Water: a decision, then a mood. The Magician’s loud yellow, then a quieter, greener card. The means are there; the energy has gone flat.
 
 What I’d say out loud: “You have what you need to start something, and you keep waiting for a better offer before you use it.”
 
-Then I’d check: is there something you’ve been ready to begin for a while? If not, I don’t pull another card to rescue the sentence. A miss is a miss.
+Then I’d check: is there something you’ve been ready to begin for a while? If not, I don’t pull another card to rescue the sentence.

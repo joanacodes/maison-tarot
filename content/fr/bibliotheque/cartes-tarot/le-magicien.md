@@ -53,7 +53,7 @@ Ce qui manque : un public, une route, quoi que ce soit d’achevé. Au tarot de 
 
 ## Par le nombre : 1 {#nombre}
 
-**1 — un — le début, le diamant brut.** Le [chiffre 1](/fr/bibliotheque/numerologie/chiffre-1/) ouvre le cycle : précieux, et pas encore utilisable, comme une pierre que personne n’a taillée. Sur le Magicien, c’est littéral — quatre outils, aucun résultat. Il sait tout faire ; il n’a encore rien fait. Dans l’histoire d’Instagram de mes pages de numérologie, c’est Burbn qui devient Instagram : deux fondateurs gardent la seule fonction qu’on utilisait et repartent de là. Le conseil du 1, c’est l’humilité : un Magicien qui oublie qu’il en est à la première page se met à vendre la fin.
+Le [chiffre 1](/fr/bibliotheque/numerologie/chiffre-1/) ouvre le cycle : précieux, et pas encore utilisable, comme une pierre que personne n’a taillée. Sur le Magicien, c’est littéral — quatre outils, aucun résultat. Il sait tout faire ; il n’a encore rien fait. Dans l’histoire d’Instagram de mes pages de numérologie, c’est Burbn qui devient Instagram : deux fondateurs gardent la seule fonction qu’on utilisait et repartent de là. Le conseil du 1, c’est l’humilité : un Magicien qui oublie qu’il en est à la première page se met à vendre la fin.
 
 Le signe de l’infini au-dessus de sa tête, c’est un 8 couché, et le 8, dans mes notes, c’est la maîtrise. Au-dessus de son 1, la carte dessine ce que le début pourrait devenir.
 
@@ -69,7 +69,7 @@ Le jaune remplit le fond : la joie, l’expression de soi, la volonté. Dans [ma
 
 ## Par l’astrologie : Mercure {#astrologie}
 
-Dans la tradition Golden Dawn, le Magicien correspond à [Mercure](/fr/bibliotheque/astrologie/mercure/), le messager : la façon de penser, de parler, d’apprendre. Ça colle à un personnage qui fait le lien entre le ciel et le sol. Mercure gouverne les Gémeaux, qui parlent, et la Vierge, qui vérifie ; le Magicien a besoin des deux. Clé facultative : le nombre, l’élément et les couleurs l’ont déjà dit.
+Dans la tradition Golden Dawn, le Magicien correspond à [Mercure](/fr/bibliotheque/astrologie/mercure/), le messager : la façon de penser, de parler, d’apprendre. Ça colle à un personnage qui fait le lien entre le ciel et le sol. Mercure gouverne les Gémeaux, qui parlent, et la Vierge, qui vérifie ; le Magicien a besoin des deux.
 
 ## En lecture {#lecture}
 
@@ -95,10 +95,10 @@ Cette semaine, tracez quatre colonnes sur une feuille : bâton, coupe, épée, p
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : une personne s’assoit, ne vous dit rien, et tire le Magicien à côté du Quatre de Coupes — un jeune homme assis sous un arbre, bras croisés, trois coupes dans l’herbe, qui ignore la quatrième qu’une main lui tend depuis un nuage.
+Un exercice à deux cartes : le Magicien, puis le Quatre de Coupes, où un jeune homme aux bras repliés, assis au pied d’un arbre devant trois coupes alignées, ne prend pas la quatrième qu’une main lui tend d’un nuage.
 
-D’abord les clés de lecture. 1 puis 4 : un début, puis un confort qui s’est figé. L’Air puis l’Eau : une décision, puis une humeur. Le jaune éclatant du Magicien, puis une carte plus calme, plus verte. Les moyens sont là ; l’énergie est retombée.
+1 puis 4 : un début, puis un confort qui s’est figé. L’Air puis l’Eau : une décision, puis une humeur. Le jaune éclatant du Magicien, puis une carte plus calme, plus verte. Les moyens sont là ; l’énergie est retombée.
 
 Ce que je dirais à voix haute : « Vous avez ce qu’il faut pour lancer quelque chose, et vous attendez une meilleure offre avant de vous y mettre. »
 
-Puis je vérifierais : y a-t-il quelque chose que vous repoussez alors que tout est prêt ? Si ce n’est pas le cas, je ne tire pas une carte de plus pour sauver la phrase. Un raté est un raté.
+Puis je vérifierais : y a-t-il quelque chose que vous repoussez alors que tout est prêt ? Si ce n’est pas le cas, je ne tire pas une carte de plus pour sauver la phrase.

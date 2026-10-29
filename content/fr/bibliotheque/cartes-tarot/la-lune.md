@@ -49,7 +49,7 @@ Il n’y a personne sur cette carte — seulement des animaux, un chemin et une 
 
 ## Par le nombre : 18 {#nombre}
 
-**18 — 1 + 8 = 9 — l’aboutissement, presque au bout.** Dix-huit se ramène à [9](/fr/bibliotheque/numerologie/chiffre-9/), le nombre de l’Ermite : la ligne d’arrivée en vue, la fin d’une étape, les derniers efforts, l’introspection — et la patience, sans s’arrêter de marcher. C’est le chemin de la Lune : long, flou, et presque fini.
+Dix-huit se ramène à [9](/fr/bibliotheque/numerologie/chiffre-9/), le nombre de l’Ermite : la ligne d’arrivée en vue, la fin d’une étape, les derniers efforts, l’introspection — et la patience, sans s’arrêter de marcher. C’est le chemin de la Lune : long, flou, et presque fini.
 
 Dans l’histoire d’Instagram, le 9, c’est la refonte autour des Reels : ce n’est pas encore une autre application, mais tout ce qui définissait l’ancienne est en train de finir. Sur cette carte, cet entre-deux ressemble à du brouillard. C’est pourtant un 9 : vous êtes plus près de la fin que du début.
 
@@ -65,7 +65,7 @@ Le [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) domine, dans le ciel et dans le
 
 ## Par l’astrologie : Poissons {#astrologie}
 
-Dans la tradition Golden Dawn, la Lune revient aux [Poissons](/fr/bibliotheque/astrologie/poissons/), le signe dont le verbe est « Je crois ». Un poisson vit là où nous ne pouvons pas respirer : vue de dehors, la surface est immobile, et dessous, l’eau grouille de vie. C’est cette carte — calme en surface, tout un monde en dessous. Bien placés, les Poissons sont la sagesse qui attend le bon moment ; mal placés, celui qui a plongé et ne dit plus quand il remonte. Gardez cette clé si elle vous aide ; la carte se lit très bien sans elle.
+Dans la tradition Golden Dawn, la Lune revient aux [Poissons](/fr/bibliotheque/astrologie/poissons/), le signe dont le verbe est « Je crois ». Un poisson vit là où nous ne pouvons pas respirer : vue de dehors, la surface est immobile, et dessous, l’eau grouille de vie. C’est cette carte — calme en surface, tout un monde en dessous. Bien placés, les Poissons sont la sagesse qui attend le bon moment ; mal placés, celui qui a plongé et ne dit plus quand il remonte.
 
 ## En lecture {#lecture}
 
@@ -93,10 +93,10 @@ Cette semaine, tracez deux colonnes : ce que je sais, ce que j’imagine. Le poi
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire la Lune à côté du [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/).
+Prenez la Lune, et glissez le [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/) à côté d’elle.
 
-Les clés de lecture d’abord. Les nombres : 18 se ramène à 9, presque au bout ; le Huit de Coupes est un 8, passer à autre chose que ce qu’on faisait déjà. Les éléments : Eau et Eau, donc c’est émotionnel avant d’être pratique. Les images vont dans le même sens : le Huit de Coupes a sa propre lune, au-dessus d’un personnage qui s’éloigne vers les montagnes.
+Les nombres : 18 se ramène à 9, presque au bout ; le Huit de Coupes est un 8, passer à autre chose que ce qu’on faisait déjà. Les éléments : Eau et Eau, donc c’est émotionnel avant d’être pratique. Les images vont dans le même sens : le Huit de Coupes a sa propre lune, au-dessus d’un personnage qui s’éloigne vers les montagnes.
 
 La phrase que vous diriez à voix haute : « Vous êtes en train de laisser quelque chose derrière vous sans pouvoir dire encore vers quoi vous marchez. Ce n’est pas une erreur ; le chemin est là, même si vous n’en voyez pas le bout. »
 
-Puis vérifiez avec la personne, et c’est là que la règle du silence montre son intérêt. « Ne me dites rien », je le demande avant chaque lecture, pour que ce qui revient ensuite soit une vraie réponse et pas l’écho de ce qu’on m’a raconté. Si ça ne tombe pas juste, notez un raté.
+Vérifiez-la avec la personne, et vous verrez à quoi sert la règle du silence : je ne veux rien savoir avant une lecture, pour que ce qui revient ensuite soit une vraie réponse et pas l’écho de ce qu’on m’a raconté. Si ça ne tombe pas juste, notez un raté.

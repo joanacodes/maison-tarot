@@ -52,7 +52,7 @@ What’s missing: walls, armour, work in progress — and people. No child, even
 
 ## By number: 3 {#number}
 
-**3 — three — to create, to celebrate, the first result.** The [number 3](/library/numerology/number-3/) is the machine running: the contract works, it shows, it gives. After the 1 who has the tools and the 2 who weighs, the Empress is the first card where something has come out: the wheat is ripe.
+The [number 3](/library/numerology/number-3/) is the machine running: the contract works, it shows, it gives. After the 1 who has the tools and the 2 who weighs, the Empress is the first card where something has come out: the wheat is ripe.
 
 In the Instagram story on my numerology pages, 3 is the launch that works: the thing turns without being pushed. The advice of 3 is to finish a project before starting the next; its minus is starting new ones before the others are done. Abundance invites exactly that — when everything grows, you want to plant everywhere.
 
@@ -60,7 +60,7 @@ In the Instagram story on my numerology pages, 3 is the launch that works: the t
 
 The Empress is an [Earth](/library/four-elements/earth-element/) card: matter, prosperity, whatever has value for you, money or not. In my notes, Earth is protective and stable, the mother of all growth.
 
-That’s the Empress I teach: the mother, the earth, the one who feeds — the wheat at her feet — who gives and creates life in the widest sense: a project, a home, a garden, a team. Her minus comes from the same place. She can smother with her care, protect so much that nobody grows, or one day stop feeding and leave behind people who depended on her. Not all riches are gold, and not all care is light.
+That’s the Empress I teach: the mother, the earth, the one who feeds — the wheat at her feet — who gives and creates life in the widest sense: a project, a home, a garden, a team. Her minus comes from the same place. She can smother with her care, protect so much that nobody grows, or one day stop feeding and leave behind people who depended on her. Not all care is light.
 
 ## By colours {#colours}
 
@@ -70,7 +70,7 @@ It’s one of the warmest drawings in the deck.
 
 ## By astrology: Venus {#astrology}
 
-In the Golden Dawn tradition, the Empress goes with [Venus](/library/astrology/venus/), and the card doesn’t hide it: the sign is drawn on her shield. Venus says what you love and how: taste, attraction, what you find beautiful, what you’re willing to tend. It adds a nuance worth keeping — the Empress doesn’t only feed others; she enjoys. If astrology isn’t your lens, the shield and the cushions say it anyway.
+In the Golden Dawn tradition, the Empress goes with [Venus](/library/astrology/venus/), and the card doesn’t hide it: the sign is drawn on her shield. Venus says what you love and how: taste, attraction, what you find beautiful, what you’re willing to tend. It adds a nuance worth keeping — the Empress doesn’t only feed others; she enjoys.
 
 ## In a reading {#reading}
 
@@ -98,10 +98,10 @@ This week, hand one task to someone else and keep one evening for yourself.
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Empress next to the Ten of Wands — a man bent forward, carrying ten heavy wands in his arms towards a town.
+Suppose the Empress lands next to the Ten of Wands — a man hunched over the ten heavy wands he hugs to his chest, on his way to a town.
 
-Lenses first. 3 then 10: the first result, then the end of a cycle — my note for the Ten of Wands is to keep the creative energy without overloading. Earth then Fire: what grows next to what burns. The Empress’s open green and gold, next to a man whose face is hidden behind his load.
+3 then 10: the first result, then the end of a cycle — my note for the Ten of Wands is to keep the creative energy without overloading. Earth then Fire: what grows next to what burns. The Empress’s open green and gold, next to a man whose face is hidden behind his load.
 
 The sentence I’d say out loud: “You’re the one feeding everyone at the moment, and it has started to feel like a load instead of a pleasure.”
 
-Then I’d check: who are you looking after right now — and who’s looking after you? If it doesn’t land, it’s a miss, and I note it as one.
+Then I’d check: who are you looking after right now — and who’s looking after you? If that picture isn’t theirs, I write the reading down as a miss.

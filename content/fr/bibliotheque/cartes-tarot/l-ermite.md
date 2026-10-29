@@ -48,7 +48,7 @@ Remarquez ce qui manque : pas de chemin, pas de maison, pas de compagnon, ni sol
 
 ## Par le nombre : 9 {#nombre}
 
-**9 — neuf — l’aboutissement, presque au bout.** Le [chiffre 9](/fr/bibliotheque/numerologie/chiffre-9/), c’est la dernière ligne droite : la fin d’une étape, les derniers efforts, l’introspection, la patience — sans cesser d’avancer. C’est exactement la posture de l’Ermite. Il a presque tout gravi, et au lieu de fêter ça, il s’arrête pour regarder en lui avant le dernier pas.
+Le [chiffre 9](/fr/bibliotheque/numerologie/chiffre-9/), c’est la dernière ligne droite : la fin d’une étape, les derniers efforts, l’introspection, la patience — sans cesser d’avancer. C’est exactement la posture de l’Ermite. Il a presque tout gravi, et au lieu de fêter ça, il s’arrête pour regarder en lui avant le dernier pas.
 
 Dans l’histoire d’Instagram, le 9, c’est la refonte qui met fin à tout ce qui définissait l’application, juste avant qu’elle devienne autre chose. L’Ermite, c’est ce moment dans une vie : ce qui vous définissait se referme, et il vous faut un temps calme pour voir ce que vous gardez.
 
@@ -56,7 +56,7 @@ Dans l’histoire d’Instagram, le 9, c’est la refonte qui met fin à tout ce
 
 L’Ermite est une carte de [Terre](/fr/bibliotheque/quatre-elements/element-terre/), ce qui surprend ceux qui le voient comme un pur esprit. La Terre, c’est la patience, la ténacité, l’endurance — et l’entêtement. C’est l’ascension faite à pied, un pas après l’autre, appuyé sur un bâton. Personne ne l’a porté jusque-là.
 
-La Terre, c’est aussi ce qui a de la valeur pour vous, argent ou pas. Toutes les richesses ne sont pas en or : les siennes tiennent dans une lanterne, un bâton, et ce qu’il a appris en montant.
+La Terre, c’est aussi ce qui a de la valeur pour vous, argent ou pas. Ses richesses à lui tiennent dans une lanterne, un bâton, et ce qu’il a appris en montant.
 
 ## Par les couleurs {#couleurs}
 
@@ -67,8 +67,6 @@ Ne lisez que les couleurs et vous avez la carte : une période calme et neutre, 
 ## Par l’astrologie : Vierge {#astrologie}
 
 Dans la tradition Golden Dawn, l’Ermite correspond à la [Vierge](/fr/bibliotheque/astrologie/vierge/), le signe dont le verbe est « J’analyse ». La Vierge est solitaire par nature et veut pourtant servir quelque chose de plus grand qu’elle — l’ingénieur, le conseiller du trône. C’est la lanterne de l’Ermite : une lumière trouvée seul, puis levée pour les autres.
-
-Gardez cette clé si l’astrologie vous aide. Les trois précédentes suffisent pour lire la carte.
 
 ## En lecture {#lecture}
 
@@ -84,7 +82,7 @@ Renversé, le retrait dure trop ou tourne à l’aigre : l’isolement à la pla
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assoit, ne vous dit rien, et tire l’Ermite à côté du Trois de Coupes. Les clés de lecture d’abord : 9 puis 3, la fin d’une étape puis un premier résultat qui marche. La Terre puis l’Eau : quelque chose de lent et de solide, puis des sentiments. Du gris et une seule lumière jaune d’un côté ; de l’autre, trois femmes en robes vives qui lèvent leurs coupes.
+L’Ermite est seul sur son sommet ; posez le Trois de Coupes à côté de lui, et regardez ce qui change. 9 puis 3 : la fin d’une étape, puis un premier résultat qui marche. La Terre puis l’Eau : quelque chose de lent et de solide, puis des sentiments. Du gris et une seule lumière jaune d’un côté ; de l’autre, trois femmes en robes vives qui lèvent leurs coupes.
 
 La phrase que je dirais : « Ça fait un moment que vous gardez vos distances, à régler quelque chose de votre côté, et les gens autour de vous attendent votre retour — ils sont plus chaleureux que vous ne le pensez. »
 

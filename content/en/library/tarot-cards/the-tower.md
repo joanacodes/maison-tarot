@@ -49,7 +49,7 @@ Look at what the drawing leaves out: no one inside fighting the fire, no rain, a
 
 ## By number: 16 {#number}
 
-**16 — 1 + 6 = 7 — doubt, assessment, patience.** Sixteen comes back to [7](/library/numerology/number-7/), the number of the Chariot: reflection, analysis before action, negotiation. On the Tower, 7 is the assessment you didn’t schedule — what doesn’t pass the test falls, and what remains is what you can count on.
+Sixteen comes back to [7](/library/numerology/number-7/), the number of the Chariot: reflection, analysis before action, negotiation. On the Tower, 7 is the assessment you didn’t schedule — what doesn’t pass the test falls, and what remains is what you can count on.
 
 The advice of 7 suits this card better than any other: everything is temporary, and your situation, good or bad, will change. In the Instagram story, 7 is the negotiating table where Facebook changes the model; neither triumph nor fall, the moment you choose what the thing becomes. The Tower is that moment arriving without asking first.
 
@@ -65,7 +65,7 @@ The sky is [black](/library/tarot-colours/black/): absence, void, and reality wi
 
 ## By astrology: Mars {#astrology}
 
-In the Golden Dawn tradition, the Tower belongs to [Mars](/library/astrology/mars/): how you act and how you fight, raw energy, anger, the body that moves. I read Mars as the Tower and the Emperor together — the same force, depending on whether it has a plan. Here it hasn’t one; it strikes. It’s an optional lens, and if astrology doesn’t help you, the number and the element already say that this card is fast, hot and temporary.
+In the Golden Dawn tradition, the Tower belongs to [Mars](/library/astrology/mars/): how you act and how you fight, raw energy, anger, the body that moves. Here that energy has no plan; it strikes.
 
 ## In a reading {#reading}
 
@@ -91,10 +91,10 @@ This week, before deciding anything, make two lists: what fell, and what’s sti
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Tower next to the [Four of Wands](/library/tarot-cards/four-of-wands/).
+A harder pair to practise on: the Tower beside the [Four of Wands](/library/tarot-cards/four-of-wands/).
 
-Lenses first. Numbers: 16 comes back to 7, the assessment; the Four of Wands is 4, stability, the fruit of your work — foundations, a marriage, a family being built. Elements: Fire and Fire, so whatever happens, happens quickly. Colours: the Tower’s black sky beside the bright yellow of the Four of Wands.
+Numbers: 16 comes back to 7, the assessment; the Four of Wands is 4, stability, the fruit of your work — foundations, a marriage, a family being built. Elements: Fire and Fire, so whatever happens, happens quickly. Colours: the Tower’s black sky beside the bright yellow of the Four of Wands.
 
 The sentence you’d say out loud: “Something you built is being shaken, and what’s still standing afterwards is what you’ll build on next. The celebration isn’t cancelled; it’s moving to firmer ground.”
 
-Then check it, gently: is something they rely on — a home, a plan, a team — being tested right now? Let them answer in their own words. If it doesn’t fit, don’t stretch the cards to make it. A miss is a miss.
+Then check it, gently: is something they rely on — a home, a plan, a team — being tested right now? Let them answer in their own words. If it doesn’t fit, don’t stretch the cards to make it.

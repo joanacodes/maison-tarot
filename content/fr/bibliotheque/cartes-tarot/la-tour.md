@@ -49,7 +49,7 @@ Regardez ce que le dessin ne montre pas : personne à l’intérieur pour étein
 
 ## Par le nombre : 16 {#nombre}
 
-**16 — 1 + 6 = 7 — le doute, l’évaluation, la patience.** Seize se ramène à [7](/fr/bibliotheque/numerologie/chiffre-7/), le nombre du Chariot : la réflexion, l’analyse avant l’action, la négociation. Sur la Tour, le 7, c’est le bilan qu’on n’avait pas prévu — ce qui ne passe pas l’épreuve tombe, et ce qui reste, c’est ce sur quoi vous pouvez compter.
+Seize se ramène à [7](/fr/bibliotheque/numerologie/chiffre-7/), le nombre du Chariot : la réflexion, l’analyse avant l’action, la négociation. Sur la Tour, le 7, c’est le bilan qu’on n’avait pas prévu — ce qui ne passe pas l’épreuve tombe, et ce qui reste, c’est ce sur quoi vous pouvez compter.
 
 Le conseil du 7 va à cette carte mieux qu’à aucune autre : tout est temporaire, et votre situation, bonne ou mauvaise, va changer. Dans l’histoire d’Instagram, le 7, c’est la table de négociation où Facebook change le modèle ; ni triomphe ni chute, le moment où l’on choisit ce que la chose va devenir. La Tour, c’est ce moment-là qui arrive sans frapper.
 
@@ -65,7 +65,7 @@ Le ciel est [noir](/fr/bibliotheque/couleurs-tarot/noir/) : l’absence, le vide
 
 ## Par l’astrologie : Mars {#astrologie}
 
-Dans la tradition Golden Dawn, la Tour revient à [Mars](/fr/bibliotheque/astrologie/mars/) : la façon d’agir et de se battre, l’énergie brute, la colère, le corps qui bouge. Je lis Mars comme la Tour et l’Empereur ensemble — la même force, selon qu’elle a un plan ou non. Ici, elle n’en a pas : elle frappe. C’est une clé facultative ; si l’astrologie ne vous aide pas, le nombre et l’élément disent déjà que cette carte est rapide, brûlante et passagère.
+Dans la tradition Golden Dawn, la Tour revient à [Mars](/fr/bibliotheque/astrologie/mars/) : la façon d’agir et de se battre, l’énergie brute, la colère, le corps qui bouge. Ici, cette énergie n’a pas de plan : elle frappe.
 
 ## En lecture {#lecture}
 
@@ -91,10 +91,10 @@ Cette semaine, sans rien décider, faites deux listes : ce qui est tombé, et ce
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire la Tour à côté du [Quatre de Bâtons](/fr/bibliotheque/cartes-tarot/quatre-de-batons/).
+Corsons l’exercice : la Tour à côté du [Quatre de Bâtons](/fr/bibliotheque/cartes-tarot/quatre-de-batons/).
 
-Les clés de lecture d’abord. Les nombres : 16 se ramène à 7, le bilan ; le Quatre de Bâtons est un 4, la stabilité, le fruit du travail — des fondations, un mariage, une famille qui se construit. Les éléments : Feu et Feu, donc ce qui arrive arrive vite. Les couleurs : le ciel noir de la Tour à côté du jaune lumineux du Quatre de Bâtons.
+Les nombres : 16 se ramène à 7, le bilan ; le Quatre de Bâtons est un 4, la stabilité, le fruit du travail — des fondations, un mariage, une famille qui se construit. Les éléments : Feu et Feu, donc ce qui arrive arrive vite. Les couleurs : le ciel noir de la Tour à côté du jaune lumineux du Quatre de Bâtons.
 
 La phrase que vous diriez à voix haute : « Quelque chose que vous avez construit est en train d’être secoué, et ce qui restera debout, c’est ce sur quoi vous bâtirez ensuite. La fête n’est pas annulée ; elle déménage sur un terrain plus solide. »
 
-Puis vérifiez, avec douceur : est-ce que quelque chose sur quoi la personne s’appuie — un logement, un projet, une équipe — est mis à l’épreuve en ce moment ? Laissez-la répondre avec ses mots. Si ça ne colle pas, ne tordez pas les cartes pour que ça colle. Un raté est un raté.
+Puis vérifiez, avec douceur : est-ce que quelque chose sur quoi la personne s’appuie — un logement, un projet, une équipe — est mis à l’épreuve en ce moment ? Laissez-la répondre avec ses mots. Si ça ne colle pas, ne tordez pas les cartes pour que ça colle.

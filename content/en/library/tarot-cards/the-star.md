@@ -47,7 +47,7 @@ After the Tower, the sky is clear again: nothing falls. No clothes, no crown, no
 
 ## By number: 17 {#number}
 
-**17 — 1 + 7 = 8 — movement, mastery, the fruit of work.** Seventeen comes back to [8](/library/numerology/number-8/), the number of Strength: “4 exalted”, lasting stability, what is no longer a bet. Eight is also a gate between the tangible and the intangible — the lemniscate, infinity lying down. The Star shows that gate: one jug for the land, one for the water, what you can touch and what you feel, fed at the same time.
+Seventeen comes back to [8](/library/numerology/number-8/), the number of Strength: “4 exalted”, lasting stability, what is no longer a bet. Eight is also a gate between the tangible and the intangible — the lemniscate, infinity lying down. The Star shows that gate: one jug for the land, one for the water, what you can touch and what you feel, fed at the same time.
 
 After the Tower’s 7, the assessment, 8 is what you rebuild on. In the Instagram story, 8 is the empire nobody questions any more because it works; the Star is the quieter version, something that lasts because you keep tending it.
 
@@ -63,7 +63,7 @@ So the Star is hope as a decision rather than a mood — you decide where your a
 
 ## By astrology: Aquarius {#astrology}
 
-In the Golden Dawn tradition, the Star belongs to [Aquarius](/library/astrology/aquarius/), the water-bearer — and the woman with her two jugs is exactly that. Aquarius is an Air sign whose verb is “I know”, to be heard as “I think I know”: the new idea, the bridge between old and new, the urge to share what you’ve found. It adds a social touch: the water isn’t kept, it’s given. If astrology isn’t your lens, leave it; the drawing says the same.
+In the Golden Dawn tradition, the Star belongs to [Aquarius](/library/astrology/aquarius/), the water-bearer — and the woman with her two jugs is exactly that. Aquarius is an Air sign whose verb is “I know”, to be heard as “I think I know”: the new idea, the bridge between old and new, the urge to share what you’ve found. It adds a social touch: the water isn’t kept, it’s given.
 
 ## In a reading {#reading}
 
@@ -79,10 +79,10 @@ Next to [the Tower](/library/tarot-cards/the-tower/), it’s the calm right afte
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Star next to the [Six of Swords](/library/tarot-cards/six-of-swords/).
+Deal the Star and then the [Six of Swords](/library/tarot-cards/six-of-swords/), as you would for someone you’ve just met.
 
-Lenses first. Numbers: 17 comes back to 8, what lasts; the Six of Swords is 6, the machine running, possible to rest. Elements: Air and Air, so this is about decisions and the mind, not only feelings. The pictures help too: the Star’s open sky, and on the Six of Swords, a boat crossing water towards a calmer shore.
+Numbers: 17 comes back to 8, what lasts; the Six of Swords is 6, the machine running, possible to rest. Elements: Air and Air, so this is about decisions and the mind, not only feelings. The pictures help too: the Star’s open sky, and on the Six of Swords, a boat crossing water towards a calmer shore.
 
 The sentence you’d say out loud: “You’re past the hardest part and you know it, even if you’re still crossing. What’s helping now is something you decided, not something that happened to you.”
 
-Then check it. Ask what it brings up, and let them answer before you add anything. If it lands, notice that you got there with three lenses and no memorised meaning: cards aren’t magic, you are. If it doesn’t, write it down as a miss.
+Then check it. Ask what it brings up, and let them answer before you add anything. If it lands, notice that you got there with three lenses and no memorised meaning. If it doesn’t, record the miss and carry on.

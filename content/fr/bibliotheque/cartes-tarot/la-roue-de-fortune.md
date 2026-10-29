@@ -49,7 +49,7 @@ Remarquez ce qui manque : une main. Personne ne fait tourner la roue, et il n’
 
 ## Par le nombre : 10 {#nombre}
 
-**10 — dix — la fin du cycle, la transition.** Le [chiffre 10](/fr/bibliotheque/numerologie/chiffre-10/), c’est le couloir entre deux pièces : ce qui était se termine, ce qui vient n’a pas encore de nom. Il apporte la liberté, le changement, le voyage, une bouffée d’air. Son revers : ça peut être de courte durée, et ça vous dit de commencer autre chose.
+Le [chiffre 10](/fr/bibliotheque/numerologie/chiffre-10/), c’est le couloir entre deux pièces : ce qui était se termine, ce qui vient n’a pas encore de nom. Il apporte la liberté, le changement, le voyage, une bouffée d’air. Son revers : ça peut être de courte durée, et ça vous dit de commencer autre chose.
 
 Dans l’histoire d’Instagram, le 10, c’est quand l’application a tellement changé que les gens ne la reconnaissent plus ; le cycle est bouclé, un autre commence avec son propre 1. C’est pour ça que la roue est un cercle : le 10 vous ramène au 1.
 
@@ -69,7 +69,7 @@ Lue sans le titre : quelque chose de chaud et de créatif en mouvement, l’acti
 
 Dans la tradition Golden Dawn, la Roue correspond à [Jupiter](/fr/bibliotheque/astrologie/jupiter/) : l’expansion, la confiance, la générosité, l’excès — la chance, ou ce qu’on prend pour de la chance. C’est le placement qui fait dire « ça va aller », et c’est pour ça que je le tiens à distance ici.
 
-Sur cette carte, Jupiter sert à une chose : quand ça monte, le conseil est de rester humble. Si l’astrologie n’est pas votre clé, laissez-la ; le nombre et l’élément ont dit l’essentiel.
+Sur cette carte, Jupiter sert à une chose : quand ça monte, le conseil est de rester humble.
 
 ## En lecture {#lecture}
 
@@ -85,8 +85,8 @@ Renversée, la roue semble bloquée, ou elle tourne sans vous. Le même problèm
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assoit, ne vous dit rien, et tire la Roue de Fortune à côté du Magicien. Les clés de lecture d’abord : 10 puis 1, un cycle qui se ferme et un nouveau qui commence aussitôt. Le Feu puis l’Air : de l’énergie, puis une idée qui lui donne une direction. De l’orange et du bleu sur la première carte ; du rouge et du blanc sur la seconde, un homme qui a ses quatre outils sur la table.
+Ici, la Roue de Fortune sort à côté du Magicien, dans un tirage d’entraînement. 10 puis 1 : un cycle qui se ferme et un nouveau qui commence aussitôt. Le Feu puis l’Air : de l’énergie, puis une idée qui lui donne une direction. De l’orange et du bleu sur la première carte ; du rouge et du blanc sur la seconde, un homme qui a ses quatre outils sur la table.
 
 La phrase que je dirais : « Quelque chose se termine, et vous avez déjà ce qu’il faut pour la suite — la question, c’est de savoir si vous attendez que ça arrive ou si vous le lancez vous-même. »
 
-Puis la vérification. Un changement se rapproche-t-il ? Y a-t-il un projet repoussé de mois en mois ? Si ça ne tient pas, je le dis : le tarot n’est pas une autorité, et la personne en face de moi connaît sa vie mieux que n’importe quelle carte.
+Puis la vérification. Un changement se rapproche-t-il ? Y a-t-il un projet repoussé de mois en mois ? Si ça ne tient pas, je le dis : la personne en face de moi connaît sa vie mieux que n’importe quelle carte.

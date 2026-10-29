@@ -49,7 +49,7 @@ What’s missing is a judge. No scales, no sword, no one being sent away — com
 
 ## By number: 20 {#number}
 
-**20 — 2 + 0 = 2 — to bind, to weigh, to cooperate.** Twenty comes back to [2](/library/numerology/number-2/), the number of the High Priestess: two parties, a contract, a bond. Its advice is to read the contract and weigh the pros and cons; its minus is stubbornness, solitude, the mind going round on its own.
+Twenty comes back to [2](/library/numerology/number-2/), the number of the High Priestess: two parties, a contract, a bond. Its advice is to read the contract and weigh the pros and cons; its minus is stubbornness, solitude, the mind going round on its own.
 
 On Judgement, the two parties are the call and the answer: the trumpet sounds, and someone has to decide whether to stand up. In the Instagram story, 2 is the moment the founders sign with investors — the idea now involves someone else, and you can lose more than your own time. Judgement carries that weight: answering commits you.
 
@@ -65,7 +65,7 @@ Fire is the only attribution the Golden Dawn gave this card, and that says somet
 
 ## By astrology: Pluto {#astrology}
 
-The Golden Dawn gave Judgement to the element Fire, through the Hebrew letter Shin, and not to a planet. Modern readers later linked it to [Pluto](/library/astrology/pluto/), discovered in 1930: the planet of power and transformation, where you die and are reborn while alive, what you bury and what comes back up. Through Scorpio, Pluto also ties Judgement to Death: two cards that frighten in the picture and say the same thing, that something ends so something else can begin. It’s an optional lens, and a generational planet; the number and the element will take you further.
+The Golden Dawn gave Judgement to the element Fire, through the Hebrew letter Shin, and not to a planet. Modern readers later linked it to [Pluto](/library/astrology/pluto/), discovered in 1930: the planet of power and transformation, where you die and are reborn while alive, what you bury and what comes back up. Through Scorpio, Pluto also ties Judgement to Death: two cards that frighten in the picture and say the same thing, that something ends so something else can begin. And Pluto is a generational planet: it stays in one sign for years on end, so it speaks to a generation more than to one person.
 
 ## In a reading {#reading}
 
@@ -73,7 +73,7 @@ Judgement is neither good nor bad. Every card has a plus and a minus, and this o
 
 Reversed, it’s the same call left unanswered: you hear it and stay lying down, or you keep reviewing the past without deciding anything. In excess, it’s judging yourself, or others, without end.
 
-Because the drawing shows the dead rising, some people fear it’s about someone they’ve lost. I understand why. A card doesn’t carry news of the dead, and I don’t read on death. Not everything is about spirits: what rises here is usually something of yours that was put aside — a project, a part of you, a relationship worth a second look.
+Because the drawing shows the dead rising, some people fear it’s about someone they’ve lost. I understand why. A card doesn’t carry news of the dead, and I don’t read on death. What rises here is usually something of yours that was put aside — a project, a part of you, a relationship worth a second look.
 
 Next to [Death](/library/tarot-cards/death/), Judgement is what comes back after the harvest. Next to [the World](/library/tarot-cards/the-world/), the card that follows it, it’s the last call before a cycle closes. Next to the [Six of Cups](/library/tarot-cards/six-of-cups/) — childhood, flowering again — it’s something from the past returning in a form you can use now.
 
@@ -93,9 +93,9 @@ This week, book one small test: a weekend course, a coffee with someone who does
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws Judgement next to the [Ace of Wands](/library/tarot-cards/ace-of-wands/).
+For this exercise, Judgement comes out with the [Ace of Wands](/library/tarot-cards/ace-of-wands/) beside it.
 
-Lenses first. Numbers: 20 comes back to 2, a bond, a commitment; the Ace is 1, the raw start of a cycle. Elements: Fire and Fire, so this moves fast once it moves. The pictures: a trumpet calling, and on the Ace, a hand coming out of a cloud holding a branch that’s still putting out leaves.
+Numbers: 20 comes back to 2, a bond, a commitment; the Ace is 1, the raw start of a cycle. Elements: Fire and Fire, so this moves fast once it moves. The pictures: a trumpet calling, and on the Ace, a hand coming out of a cloud holding a branch that’s still putting out leaves.
 
 The sentence you’d say out loud: “Something you put down a while ago is calling you back, and this time it comes with the energy to start it properly.”
 

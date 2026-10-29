@@ -49,7 +49,7 @@ Le nom est un vieux titre grec : le hiérophante était le prêtre qui révélai
 
 ## Par le nombre : 5 {#nombre}
 
-**5 — cinq — le conflit, l’épreuve, faire avec ce qui reste.** Un pape en 5, ça peut surprendre, jusqu’à ce qu’on voie ce que fait le 5. Le [chiffre 5](/fr/bibliotheque/numerologie/chiffre-5/), c’est l’épreuve qui mesure : on rencontre ce qui nous teste, et on découvre ce qui tient. Pour le Hiérophante, l’épreuve, c’est la règle — l’école, une tradition, une foi, la façon de faire d’une entreprise — et la question de ce qu’on en garde.
+Un pape en 5, ça peut surprendre, jusqu’à ce qu’on voie ce que fait le 5. Le [chiffre 5](/fr/bibliotheque/numerologie/chiffre-5/), c’est l’épreuve qui mesure : on rencontre ce qui nous teste, et on découvre ce qui tient. Pour le Hiérophante, l’épreuve, c’est la règle — l’école, une tradition, une foi, la façon de faire d’une entreprise — et la question de ce qu’on en garde.
 
 Dans l’histoire d’Instagram de mes pages de numérologie, le 5, c’est Facebook qui débarque pour racheter l’entreprise, une institution qui entre avec ses règles. Le conseil du 5 va bien à cette carte : éviter les conflits inutiles, et être honnête avec soi-même sur la situation. Son revers, c’est le déni — suivre la règle pour ne jamais avoir à se demander si elle est encore la nôtre.
 
@@ -65,11 +65,11 @@ Le gris domine : le fond et les colonnes. Dans [ma grille des couleurs](/fr/bibl
 
 ## Par l’astrologie : Taureau {#astrologie}
 
-Dans la tradition Golden Dawn, le Hiérophante correspond au [Taureau](/fr/bibliotheque/astrologie/taureau/) : « j’ai », gouverné par Vénus, un signe [fixe](/fr/bibliotheque/modes-astrologiques/fixe/). Les signes fixes sont stables, endurants, et peuvent être lents et têtus ; le Taureau est têtu en terrain connu, ce qui va bien à une carte de tradition. Sur la page du Taureau, vous trouverez l’Impératrice, par Vénus, sa planète ; la Golden Dawn donne le signe lui-même à cette carte. Gardez cette clé si elle vous aide, laissez-la sinon.
+Dans la tradition Golden Dawn, le Hiérophante correspond au [Taureau](/fr/bibliotheque/astrologie/taureau/) : « j’ai », gouverné par Vénus, un signe [fixe](/fr/bibliotheque/modes-astrologiques/fixe/). Les signes fixes sont stables, endurants, et peuvent être lents et têtus ; le Taureau est têtu en terrain connu, ce qui va bien à une carte de tradition.
 
 ## En lecture {#lecture}
 
-À l’endroit, le Hiérophante dit : apprenez de quelqu’un. Un maître, une formation, une tradition, une cérémonie — un mariage, une remise de diplôme, l’entrée dans quelque chose de plus grand que soi. C’est aussi la carte du conseil de ceux qui en savent plus, ce qui m’amène à ma mise en garde préférée, faite pour cette carte : ne prenez pas mes mots pour une vérité absolue ; testez, et faites-en l’expérience vous-même. Le tarot compris — [une carte n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/), et la personne qui la lit non plus.
+À l’endroit, le Hiérophante dit : apprenez de quelqu’un. Un maître, une formation, une tradition, une cérémonie — un mariage, une remise de diplôme, l’entrée dans quelque chose de plus grand que soi. C’est aussi la carte du conseil de ceux qui en savent plus, et un bon maître accepte qu’on vérifie ce qu’il enseigne. Le tarot compris — [une carte n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/), et la personne qui la lit non plus.
 
 Renversé, l’épreuve du 5 tourne mal. Soit la règle est suivie si aveuglément que la personne disparaît derrière, à tout faire « comme il faut », soit elle est rejetée en bloc, avant qu’on ait vérifié ce qui valait la peine d’être gardé. Les deux arrêtent l’apprentissage.
 
@@ -79,10 +79,10 @@ Renversé, l’épreuve du 5 tourne mal. Soit la règle est suivie si aveugléme
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : une personne s’assoit, ne vous dit rien, et tire le Hiérophante à côté du [Valet de Pentacles](/fr/bibliotheque/cartes-tarot/valet-de-pentacles/) — un jeune homme debout dans un champ, qui tient un pentacle levé devant lui et l’étudie.
+Posez le Hiérophante sur la table, et le [Valet de Pentacles](/fr/bibliotheque/cartes-tarot/valet-de-pentacles/) à côté de lui — un jeune homme planté dans un champ, les yeux fixés sur le pentacle qu’il tient levé à deux mains.
 
-D’abord les clés de lecture. 5 puis un Valet : l’épreuve de la règle à côté de l’élève. La Terre et la Terre : du concret — le travail, les études, l’argent, un savoir-faire. Le gris et le rouge de l’institution, puis le vert d’un champ ouvert.
+5 puis un Valet : l’épreuve de la règle à côté de l’élève. La Terre et la Terre : du concret — le travail, les études, l’argent, un savoir-faire. Le gris et le rouge de l’institution, puis le vert d’un champ ouvert.
 
 Ce que je dirais à voix haute : « Vous apprenez quelque chose dans les règles de l’art, et une partie de vous voudrait savoir si les règles ont raison. »
 
-Puis je vérifierais : y a-t-il une formation, des études ou un nouveau poste où l’on vous apprend une façon de faire ? Si oui, je demanderais ce que la personne y changerait. Si non, c’est un raté, et je le note sans l’enjoliver.
+Puis je vérifierais : y a-t-il une formation, des études ou un nouveau poste où l’on vous apprend une façon de faire ? Si oui, je demanderais ce que la personne y changerait. Si non, ça a raté, et je le note sans l’enjoliver.

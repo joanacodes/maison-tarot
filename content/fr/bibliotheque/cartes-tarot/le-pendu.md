@@ -50,7 +50,7 @@ Remarquez ce qui manque : pas de corde au cou, pas de bourreau, pas de lutte, au
 
 ## Par le nombre : 12 {#nombre}
 
-**12 — 1 + 2 = 3 — créer, célébrer, le premier résultat.** Douze se réduit au [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/) : la machine se lance, la première chose fonctionne. Pour une carte où l’on reste suspendu, c’est surprenant, et c’est la clé. Le résultat du Pendu, c’est un nouveau point de vue, la première chose qui sort de la pause — et il y a un triangle dessiné dans ses propres bras.
+Douze se réduit au [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/) : la machine se lance, la première chose fonctionne. Pour une carte où l’on reste suspendu, c’est surprenant, et c’est la clé. Le résultat du Pendu, c’est un nouveau point de vue, la première chose qui sort de la pause — et il y a un triangle dessiné dans ses propres bras.
 
 Le conseil du 3 lui va aussi : finir un projet avant d’en commencer un autre. Dans l’histoire d’Instagram, le 3, c’est le lancement qui tourne sans qu’on le pousse : les gens reviennent d’eux-mêmes. C’est la leçon du Pendu — parfois les choses avancent parce qu’on a arrêté de pousser.
 
@@ -92,13 +92,13 @@ Au travail, le Pendu décrit une pause, et il en existe trois sortes. Celle qu�
 
 Renversé, la pause ne sert plus à rien : le sacrifice que personne n’a demandé, ou chaque heure remplie de tâches pour ne jamais regarder votre travail sous un autre jour. Aucun des deux n’est un verdict.
 
-« Quand est-ce que ça va bouger ? » C’est la question qui accompagne cette lame. Attendre au travail est dur : vos journées, parfois vos revenus, sont entre les mains de quelqu’un d’autre ; je comprends qu’on veuille une date. Je n’en donne pas. C’est sur le timing que les tirages se trompent le plus ([pourquoi je me trompe surtout sur le « quand »](/fr/blog/tarot-quand/)), et une date sortie d’une carte vous donnerait quelque chose à attendre, pas quelque chose à faire. Je lis ; vous décidez. Une question plus douce : « Qu’est-ce que je vois d’ici que je ne voyais pas quand je courais ? » Et si la mise au placard ressemble à une poussée vers la sortie, les RH ou un élu du CSE peuvent vous dire où vous en êtes.
+« Quand est-ce que ça va bouger ? » C’est la question qui accompagne cette lame. Attendre au travail est dur : vos journées, parfois vos revenus, sont entre les mains de quelqu’un d’autre ; je comprends qu’on veuille une date. Je n’en donne pas. C’est sur le timing que les tirages se trompent le plus ([pourquoi je me trompe surtout sur le « quand »](/fr/blog/tarot-quand/)), et une date sortie d’une carte vous donnerait quelque chose à attendre, pas quelque chose à faire. Une question plus douce : « Qu’est-ce que je vois d’ici que je ne voyais pas quand je courais ? » Et si la mise au placard ressemble à une poussée vers la sortie, les RH ou un élu du CSE peuvent vous dire où vous en êtes.
 
 Cette semaine, notez tout ce que vous avez en cours au travail. Choisissez une chose à terminer et une à abandonner, puis regardez le reste à l’envers : qu’en feriez-vous si vous commenciez aujourd’hui ?
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assoit, ne vous dit rien, et tire le Pendu à côté du Huit de Coupes. Les clés de lecture d’abord : 12, donc 3, puis 8 — un premier résultat, puis quelque chose de construit qu’on quitte. Deux fois l’Eau : des sentiments du début à la fin. Du bleu et du gris sur une carte ; sur l’autre, une silhouette en rouge qui s’éloigne sous un ciel de nuit.
+Voici une paire à lire vous-même : le Pendu, puis le Huit de Coupes. 12, donc 3, puis 8 — un premier résultat, puis quelque chose de construit qu’on quitte. Deux fois l’Eau : des sentiments du début à la fin. Du bleu et du gris sur une carte ; sur l’autre, une silhouette en rouge qui s’éloigne sous un ciel de nuit.
 
 La phrase que je dirais : « Vous attendez depuis un moment quelque chose qui compte pour vous, et pendant cette attente vous avez commencé à le voir autrement — assez pour que partir ne vous fasse plus peur. »
 

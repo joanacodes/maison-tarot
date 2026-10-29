@@ -47,7 +47,7 @@ Après la Tour, le ciel est dégagé : plus rien ne tombe. Pas de vêtement, pas
 
 ## Par le nombre : 17 {#nombre}
 
-**17 — 1 + 7 = 8 — le mouvement, la maîtrise, le fruit du travail.** Dix-sept se ramène à [8](/fr/bibliotheque/numerologie/chiffre-8/), le nombre de la Force : le « 4 exalté », la stabilité qui dure, ce qui n’est plus un pari. Le 8 est aussi une porte entre le tangible et l’intangible — la lemniscate, l’infini couché. L’Étoile montre cette porte : une cruche pour la terre, une pour l’eau, ce qu’on touche et ce qu’on ressent, nourris en même temps.
+Dix-sept se ramène à [8](/fr/bibliotheque/numerologie/chiffre-8/), le nombre de la Force : le « 4 exalté », la stabilité qui dure, ce qui n’est plus un pari. Le 8 est aussi une porte entre le tangible et l’intangible — la lemniscate, l’infini couché. L’Étoile montre cette porte : une cruche pour la terre, une pour l’eau, ce qu’on touche et ce qu’on ressent, nourris en même temps.
 
 Après le 7 de la Tour, le bilan, le 8 est ce sur quoi on reconstruit. Dans l’histoire d’Instagram, le 8, c’est l’empire qu’on ne remet plus en question parce qu’il marche ; l’Étoile en est la version discrète, quelque chose qui dure parce qu’on continue d’en prendre soin.
 
@@ -63,7 +63,7 @@ Le [bleu](/fr/bibliotheque/couleurs-tarot/bleu/) du ciel et du bassin : l’émo
 
 ## Par l’astrologie : Verseau {#astrologie}
 
-Dans la tradition Golden Dawn, l’Étoile revient au [Verseau](/fr/bibliotheque/astrologie/verseau/), le porteur d’eau — et la femme aux deux cruches, c’est exactement lui. Le Verseau est un signe d’Air dont le verbe est « Je sais », à entendre comme « je crois savoir » : l’idée neuve, le pont entre l’ancien et le nouveau, l’envie de partager ce qu’on a trouvé. Il ajoute à la carte une dimension collective : l’eau n’est pas gardée, elle est donnée. Si l’astrologie n’est pas votre clé, laissez-la ; le dessin dit la même chose.
+Dans la tradition Golden Dawn, l’Étoile revient au [Verseau](/fr/bibliotheque/astrologie/verseau/), le porteur d’eau — et la femme aux deux cruches, c’est exactement lui. Le Verseau est un signe d’Air dont le verbe est « Je sais », à entendre comme « je crois savoir » : l’idée neuve, le pont entre l’ancien et le nouveau, l’envie de partager ce qu’on a trouvé. Il ajoute à la carte une dimension collective : l’eau n’est pas gardée, elle est donnée.
 
 ## En lecture {#lecture}
 
@@ -79,10 +79,10 @@ Renversée, c’est le même espoir, bloqué ou excessif. Bloqué : vous avez pa
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire l’Étoile à côté du [Six d’Épées](/fr/bibliotheque/cartes-tarot/six-de-epees/).
+Disposez l’Étoile, puis le [Six d’Épées](/fr/bibliotheque/cartes-tarot/six-de-epees/), et lisez la paire sans rien savoir de la personne.
 
-Les clés de lecture d’abord. Les nombres : 17 se ramène à 8, ce qui dure ; le Six d’Épées est un 6, la machine lancée, la possibilité de se reposer. Les éléments : Air et Air, donc il s’agit de décisions et de mental, pas seulement de sentiments. Les images aident aussi : le ciel ouvert de l’Étoile et, sur le Six d’Épées, une barque qui traverse l’eau vers une rive plus calme.
+Les nombres : 17 se ramène à 8, ce qui dure ; le Six d’Épées est un 6, la machine lancée, la possibilité de se reposer. Les éléments : Air et Air, donc il s’agit de décisions et de mental, pas seulement de sentiments. Les images aident aussi : le ciel ouvert de l’Étoile et, sur le Six d’Épées, une barque qui traverse l’eau vers une rive plus calme.
 
 La phrase que vous diriez à voix haute : « Vous avez passé le plus dur et vous le savez, même si vous êtes encore en train de traverser. Ce qui vous aide maintenant, c’est quelque chose que vous avez décidé, pas quelque chose qui vous est arrivé. »
 
-Puis vérifiez. Demandez à la personne ce que cela lui évoque, et laissez-la répondre avant d’ajouter quoi que ce soit. Si ça tombe juste, remarquez le chemin : trois clés de lecture, aucune signification apprise par cœur. Les cartes ne sont pas magiques, vous l’êtes. Sinon, notez un raté.
+Puis vérifiez. Demandez à la personne ce que cela lui évoque, et laissez-la répondre avant d’ajouter quoi que ce soit. Si ça tombe juste, remarquez le chemin : trois clés de lecture, aucune signification apprise par cœur. Sinon, notez un raté.

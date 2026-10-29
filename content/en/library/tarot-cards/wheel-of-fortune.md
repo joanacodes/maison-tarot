@@ -48,7 +48,7 @@ Notice what’s missing: a hand. Nobody is turning the wheel, and there’s no h
 
 ## By number: 10 {#number}
 
-**10 — ten — the end of the cycle, transition.** [The number 10](/library/numerology/number-10/) is the corridor between two rooms: what was is finishing, what comes doesn’t have a name yet. It brings freedom, change, travel, a breath of air. Its minus: it can be short-lived, and it tells you to start something else.
+[The number 10](/library/numerology/number-10/) is the corridor between two rooms: what was is finishing, what comes doesn’t have a name yet. It brings freedom, change, travel, a breath of air. Its minus: it can be short-lived, and it tells you to start something else.
 
 In the Instagram story, 10 is when the app has changed so much that people no longer recognise it; the cycle is closed and another begins with its own 1. That’s why the wheel is a circle. Ten brings you back to one.
 
@@ -68,7 +68,7 @@ Read without the title: something warm and creative in motion, action rising on 
 
 In the Golden Dawn tradition, the Wheel corresponds to [Jupiter](/library/astrology/jupiter/): expansion, confidence, generosity, excess — luck, or what we take for luck. It’s the placement that makes people say “it’ll be fine”, and that’s why I hold it lightly here.
 
-Jupiter is useful on this card for one thing: when things go up, the advice is to stay humble. If astrology isn’t your lens, leave it; the number and the element have said the essential.
+Jupiter is useful on this card for one thing: when things go up, the advice is to stay humble.
 
 ## In a reading {#reading}
 
@@ -84,8 +84,8 @@ Next to [the Magician](/library/tarot-cards/the-magician/), the hand is found: s
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Wheel of Fortune next to the Magician. Lenses first: 10 then 1, a cycle closing and a new one starting straight away. Fire then Air: energy, then an idea that gives it direction. Orange and blue on the first card; red and white on the second, a man with all four tools on his table.
+Here the Wheel of Fortune comes out next to the Magician, in a draw invented for the exercise. 10 then 1: a cycle closing and a new one starting straight away. Fire then Air: energy, then an idea that gives it direction. Orange and blue on the first card; red and white on the second, a man with all four tools on his table.
 
 The sentence I’d say: “Something is ending, and you already have what you need for the next thing — the question is whether you wait for it to happen or start it yourself.”
 
-Then the check. Does a change feel close? Is there a plan they keep postponing? If it doesn’t land, I say so: tarot isn’t an authority, and the person in front of me knows their life better than any card.
+Then the check. Does a change feel close? Is there a plan they keep postponing? If it doesn’t land, I say so: the person in front of me knows their life better than any card.

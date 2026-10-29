@@ -45,7 +45,7 @@ Notice what isn’t there: no hurry, no audience, no measuring instrument. **The
 
 ## By number: 14 {#number}
 
-**14 — 1 + 4 = 5 — conflict, trial, making do with what’s left.** Fourteen reduces to [the number 5](/library/numerology/number-5/), the number of trying: creating, testing, not being afraid to fail, accepting mistakes, making do with what’s left. On Temperance, the 5 isn’t a fight. It’s the trial of the alloy: you pour, you look, you adjust.
+Fourteen reduces to [the number 5](/library/numerology/number-5/), the number of trying: creating, testing, not being afraid to fail, accepting mistakes, making do with what’s left. On Temperance, the 5 isn’t a fight. It’s the trial of the alloy: you pour, you look, you adjust.
 
 Five’s advice is to avoid useless conflicts and to be honest with yourself about the situation — which is what the angel does with two cups. In the Instagram story, 5 is the test, a buyer at the door or a feature that flops, and you find out what holds. Temperance is what comes after: blending what’s left into something that works.
 
@@ -65,8 +65,6 @@ Read in a row: peace in front, energy behind, feelings at your feet, and a light
 
 In the Golden Dawn tradition, Temperance corresponds to [Sagittarius](/library/astrology/sagittarius/), whose verb is “I see, I try”. Sagittarius is the traveller who gathers knowledge by leaving, then mixes it to see what it gives together — the angel’s work with two cups. It’s also the sign that judges more slowly than the others: Temperance doesn’t choose between its cups, it combines them.
 
-Keep it if it helps; the other lenses already carry the card.
-
 ## In a reading {#reading}
 
 Upright, Temperance is the right measure, found by trying. Two things that seemed incompatible — work and rest, two people, two sides of yourself — blended into a balance that holds. It’s patient, adjusted, and rarely spectacular. When it comes up, the message is often: you’re closer than you think, keep adjusting.
@@ -81,8 +79,8 @@ Next to [the Devil](/library/tarot-cards/the-devil/), the card that follows it, 
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws Temperance next to the Two of Pentacles. Lenses first: 14, so 5, then 2 — trying, then two things to hold together. Fire then Earth: energy, then something concrete, money or time. White and red on the first card; on the second, a young man juggling two coins in front of a rough sea.
+To try the lenses, read Temperance with the Two of Pentacles beside it. 14, so 5, then 2 — trying, then two things to hold together. Fire then Earth: energy, then something concrete, money or time. White and red on the first card; on the second, a young man juggling two coins in front of a rough sea.
 
 The sentence I’d say: “You’re juggling two very concrete things — work and something else, perhaps — and rather than give one up, you’re trying to make them fit together. You’re getting there, slowly.”
 
-Then the check. Is there a balance they’re trying to find? Two things they refuse to choose between? If not, it’s a miss; I note it and move on.
+Then the check. Is there a balance they’re trying to find? Two things they refuse to choose between? If not, I write down a miss and leave it at that.

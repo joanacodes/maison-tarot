@@ -49,7 +49,7 @@ Ce qui manque : les rênes. Il ne tient rien qui dirige les sphinx, et ils ne so
 
 ## Par le nombre : 7 {#nombre}
 
-**7 — sept — le doute, l’évaluation, la patience.** Une carte en mouvement rangée sous le 7 de la patience, ça ressemble à une contradiction. Ça n’en est pas une : le [chiffre 7](/fr/bibliotheque/numerologie/chiffre-7/), c’est l’analyse avant l’action, la pause où l’on regarde ce qu’on a et où l’on décide de la suite. Le Chariot, c’est le 7 qui a fini de réfléchir et qui avance parce qu’il sait où il va.
+Une carte en mouvement rangée sous le 7 de la patience, ça ressemble à une contradiction. Ça n’en est pas une : le [chiffre 7](/fr/bibliotheque/numerologie/chiffre-7/), c’est l’analyse avant l’action, la pause où l’on regarde ce qu’on a et où l’on décide de la suite. Le Chariot, c’est le 7 qui a fini de réfléchir et qui avance parce qu’il sait où il va.
 
 Dans l’histoire d’Instagram de mes pages de numérologie, le 7, c’est Facebook qui fait de l’appli une plateforme de publicité : ni triomphe ni chute, une table de négociation où l’on choisit ce que la chose va devenir. Le conseil du 7 va bien à un conducteur : tout est temporaire. La position où vous êtes, bonne ou mauvaise, va bouger — raison de plus pour diriger plutôt que de vous crisper.
 
@@ -65,7 +65,7 @@ Le jaune remplit le ciel. Dans [ma grille des couleurs](/fr/bibliotheque/couleur
 
 ## Par l’astrologie : Cancer {#astrologie}
 
-Dans la tradition Golden Dawn, le Chariot correspond au [Cancer](/fr/bibliotheque/astrologie/cancer/) : « je ressens », gouverné par la Lune, un signe cardinal qui dirige avec humanité. Le crabe est une bonne clé pour cette carte — carapace dure, intérieur tendre, comme un guerrier en armure avec des lunes sur les épaules. Dans mes notes, le Cancer se plaint mais tient bon : il porte 78 kilos quand d’autres en soulèvent 4, et il continue. Sur la page du Cancer, vous trouverez la Grande Prêtresse, par la Lune ; la Golden Dawn donne le signe lui-même au Chariot. Facultatif, comme toujours.
+Dans la tradition Golden Dawn, le Chariot correspond au [Cancer](/fr/bibliotheque/astrologie/cancer/) : « je ressens », gouverné par la Lune, un signe cardinal qui dirige avec humanité. Le crabe est une bonne clé pour cette carte — carapace dure, intérieur tendre, comme un guerrier en armure avec des lunes sur les épaules. Dans mes notes, le Cancer se plaint mais tient bon : il porte 78 kilos quand d’autres en soulèvent 4, et il continue.
 
 ## En lecture {#lecture}
 
@@ -79,9 +79,9 @@ Renversé, les sphinx tirent chacun de leur côté. La personne fonce sans savoi
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : une personne s’assoit, ne vous dit rien, et tire le Chariot à côté du [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/) — le gisant d’un chevalier allongé sur un tombeau dans une église, les mains jointes, une épée sous lui et trois au mur.
+Par contraste, associez le Chariot au [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/) — la statue d’un chevalier couchée sur un tombeau, mains jointes en prière, une épée sous lui et trois accrochées au mur d’une église.
 
-D’abord les clés de lecture. 7 puis 4 : une volonté en marche à côté d’une immobilité. L’Eau puis l’Air : des sentiments tenus, puis un mental qui a besoin de silence. Le ciel jaune vif du Chariot à côté du gris d’une pièce fermée.
+7 puis 4 : une volonté en marche à côté d’une immobilité. L’Eau puis l’Air : des sentiments tenus, puis un mental qui a besoin de silence. Le ciel jaune vif du Chariot à côté du gris d’une pièce fermée.
 
 Ce que je dirais à voix haute : « Vous menez tout de front depuis un moment, sans rênes, et le prochain geste, c’est de vous arrêter exprès, avant que quelque chose ne vous arrête. »
 

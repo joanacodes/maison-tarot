@@ -48,7 +48,7 @@ What’s missing: reins. He holds nothing that steers the sphinxes, and they are
 
 ## By number: 7 {#number}
 
-**7 — seven — doubt, assessment, patience.** A card in motion filed under the patient 7 looks like a contradiction. It isn’t: the [number 7](/library/numerology/number-7/) is analysis before action, the pause where you look at what you have and decide what comes next. The Chariot is the 7 that has done its thinking and moves because it knows where it’s going.
+A card in motion filed under the patient 7 looks like a contradiction. It isn’t: the [number 7](/library/numerology/number-7/) is analysis before action, the pause where you look at what you have and decide what comes next. The Chariot is the 7 that has done its thinking and moves because it knows where it’s going.
 
 In the Instagram story on my numerology pages, 7 is Facebook turning the app into an advertising platform: neither triumph nor fall, a negotiating table where you choose what the thing will become. The advice of 7 suits a driver: everything is temporary. The position you’re in, good or bad, will move — which is a reason to steer rather than to grip.
 
@@ -64,7 +64,7 @@ Yellow fills the sky. In [my colour grid](/library/tarot-colours/yellow/), yello
 
 ## By astrology: Cancer {#astrology}
 
-In the Golden Dawn tradition, the Chariot goes with [Cancer](/library/astrology/cancer/): “I feel”, ruled by the Moon, a cardinal sign that leads humanely. The crab is a good key to this card — hard shell, soft inside, like a warrior in armour with moons on his shoulders. In my notes Cancer is whiny but tough: it carries 78 kilos while others lift 4, and keeps going. On the Cancer page you’ll find the High Priestess, through the Moon; the Golden Dawn gives the sign itself to the Chariot. Optional, as always.
+In the Golden Dawn tradition, the Chariot goes with [Cancer](/library/astrology/cancer/): “I feel”, ruled by the Moon, a cardinal sign that leads humanely. The crab is a good key to this card — hard shell, soft inside, like a warrior in armour with moons on his shoulders. In my notes Cancer is whiny but tough: it carries 78 kilos while others lift 4, and keeps going.
 
 ## In a reading {#reading}
 
@@ -78,9 +78,9 @@ Next to [the Emperor](/library/tarot-cards/the-emperor/), the one who gives orde
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Chariot next to the [Four of Swords](/library/tarot-cards/four-of-swords/): the effigy of a knight lying on a tomb in a church, hands joined, one sword beneath him and three on the wall.
+For contrast, pair the Chariot with the [Four of Swords](/library/tarot-cards/four-of-swords/): the effigy of a knight lying on a tomb in a church, hands joined, one sword beneath him and three on the wall.
 
-Lenses first. 7 then 4: a will in motion next to a stillness. Water then Air: feelings held steady, then a mind that needs quiet. The Chariot’s bright yellow sky next to the grey of a closed room.
+7 then 4: a will in motion next to a stillness. Water then Air: feelings held steady, then a mind that needs quiet. The Chariot’s bright yellow sky next to the grey of a closed room.
 
 The sentence I’d say out loud: “You’ve been driving everything forward with no reins for a while, and the next move is to stop on purpose, before something stops you.”
 

@@ -51,13 +51,13 @@ No lock, no guard, no door; black from edge to edge, with no sky. The drawing is
 
 ## By number: 15 {#number}
 
-**15 — 1 + 5 = 6 — harmony regained, exchange.** Fifteen comes back to [6](/library/numerology/number-6/), the number of the Lovers — hence the familiar couple. Six is success running fast, and its advice is to stay calm and humble while things go well; the Devil is the 6 that forgot it. In the Instagram story, 6 is the moment Facebook invests: everything speeds up, and nobody reads the conditions any more. That’s the Devil in one line — a deal that pays, and small print you stopped reading.
+Fifteen comes back to [6](/library/numerology/number-6/), the number of the Lovers — hence the familiar couple. Six is success running fast, and its advice is to stay calm and humble while things go well; the Devil is the 6 that forgot it. In the Instagram story, 6 is the moment Facebook invests: everything speeds up, and nobody reads the conditions any more. That’s the Devil in one line — a deal that pays, and small print you stopped reading.
 
 ## By element: Earth {#element}
 
 The Devil is an [Earth](/library/four-elements/earth-element/) card: matter, and whatever has value for you, money or sentimental. Earth is tenacity and endurance — and stubbornness. It’s what holds, and here holding is the whole subject: the job you keep because it pays, the habit you keep because it soothes, the relationship you keep because it’s familiar.
 
-I often say of Earth that not all riches are gold. What chains you is usually something you value, which is exactly why it’s hard to see it as a chain.
+What chains you is usually something you value, which is exactly why it’s hard to see it as a chain.
 
 ## By colours {#colours}
 
@@ -65,11 +65,11 @@ I often say of Earth that not all riches are gold. What chains you is usually so
 
 ## By astrology: Capricorn {#astrology}
 
-In the Golden Dawn tradition, the Devil belongs to [Capricorn](/library/astrology/capricorn/): its verb is “I use”, its animal the goat — the horns this creature wears. Capricorn is ambition, structure and work; well placed, it’s responsibility taken, badly placed, the tool that became the master. A good way into a card that is rarely about evil, and far more often about something useful that took over. Optional, like every astrology lens.
+In the Golden Dawn tradition, the Devil belongs to [Capricorn](/library/astrology/capricorn/): its verb is “I use”, its animal the goat — the horns this creature wears. Capricorn is ambition, structure and work; well placed, it’s responsibility taken, badly placed, the tool that became the master. A good way into a card that is rarely about evil, and far more often about something useful that took over.
 
 ## In a reading {#reading}
 
-Upright, the Devil is an attachment: to a job, a person, a habit, a picture of yourself. Every card has a plus and a minus, and the Devil’s plus is real — desire, ambition, the energy to want things. Its minus is when the wanting runs you. So the question isn’t “what’s wrong with you?” but “what are you holding that you could put down?” Sometimes it’s the deck itself: if you pull cards every day about the same worry, take a break from your cards now and then.
+Upright, the Devil is an attachment: to a job, a person, a habit, a picture of yourself. Every card has a plus and a minus, and the Devil’s plus is real — desire, ambition, the energy to want things. Its minus is when the wanting runs you. So the question isn’t “what’s wrong with you?” but “what are you holding that you could put down?” Sometimes it’s the deck itself: pulling cards every day about the same worry is a chain too.
 
 Reversed, it’s often the chain starting to slip: you notice the loop and lift a hand to it. Or the same attachment in excess — doubling down, hiding it better, calling it a choice.
 
@@ -93,10 +93,10 @@ Reversed at work, the chain often starts to slip: the first evening you leave at
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Devil next to the [Six of Cups](/library/tarot-cards/six-of-cups/).
+Now imagine you’re the reader: the Devil comes out beside the [Six of Cups](/library/tarot-cards/six-of-cups/).
 
-Lenses first. Two sixes: 15 comes back to 6, like the Six of Cups — one harmony comfortable, one chained. Earth and Water: what holds and what you feel. The Devil’s black beside the warm yellow of the Six of Cups: something heavy next to something sweet and old, from childhood.
+Two sixes: 15 comes back to 6, like the Six of Cups — one harmony comfortable, one chained. Earth and Water: what holds and what you feel. The Devil’s black beside the warm yellow of the Six of Cups: something heavy next to something sweet and old, from childhood.
 
 The sentence you’d say out loud: “Something you started long ago because it kept you safe — a habit, a role in your family — still holds you, and it’s looser than you think.”
 
-Then check it. Ask whether that speaks to something they do without deciding to, and let them name it. If they say no, write it down as a miss. About one reading in ten misses, by my own count, and there’s no shame in it.
+Then check it. Ask whether that speaks to something they do without deciding to, and let them name it. If they say no, note a miss; there’s no shame in it.

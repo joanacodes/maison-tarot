@@ -59,7 +59,7 @@ Le **jaune** partout — le ciel, les bottes, le baluchon : la joie, l’intelli
 
 ## Par l’astrologie : Uranus {#astrologie}
 
-La Golden Dawn rattachait le Mat à l’élément Air ; les astrologues modernes l’ont ensuite associé à **Uranus** — la planète des ruptures, de ce qui arrive sans prévenir, de la liberté prise plutôt que demandée. Ce n’est pas le signe de la prudence. Si l’[astrologie](/fr/bibliotheque/astrologie/) est une clé qui vous parle, gardez-la : sinon, les trois précédentes suffisent.
+La Golden Dawn rattachait le Mat à l’élément Air ; l’[astrologie](/fr/bibliotheque/astrologie/) moderne l’a ensuite associé à **Uranus** — la planète des ruptures, de ce qui arrive sans prévenir, de la liberté prise plutôt que demandée. Ce n’est pas le signe de la prudence.
 
 ## En lecture {#lecture}
 

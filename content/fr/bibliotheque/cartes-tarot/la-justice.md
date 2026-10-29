@@ -47,7 +47,7 @@ Remarquez ce qui manque : le bandeau. Les allégories de la Justice qu’on voit
 
 ## Par le nombre : 11 {#nombre}
 
-**11 — 1 + 1 = 2 — se lier, peser, coopérer.** Additionnez les chiffres de 11 et vous arrivez au [chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/) : deux parties, le contrat, le lien. Son conseil pourrait être écrit sur la carte — lire le contrat, peser le pour et le contre. Son revers, c’est l’entêtement de celui qui a tranché avant d’avoir rien pesé.
+Additionnez les chiffres de 11 et vous arrivez au [chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/) : deux parties, le contrat, le lien. Son conseil pourrait être écrit sur la carte : lisez avant de signer, pesez avant de trancher. Son revers, c’est l’entêtement de celui qui a tranché avant d’avoir rien pesé.
 
 Dans l’histoire d’Instagram, le 2, c’est le moment où les fondateurs signent avec des investisseurs : l’argent et les conditions de quelqu’un d’autre entrent en jeu, et mieux vaut avoir lu les petites lignes. La Justice, c’est cette signature. (Au tarot de Marseille, la Justice est le 8 et la Force le 11 ; Waite les a inversées.)
 
@@ -67,8 +67,6 @@ Avant même de connaître le nom de la carte, les couleurs vous ont tout dit : q
 
 Dans la tradition Golden Dawn, la Justice correspond à la [Balance](/fr/bibliotheque/astrologie/balance/), dont le symbole est justement une balance. Son verbe est « J’équilibre » : le diplomate, l’arbitre, celui qui veut que chacun reparte avec la même part. C’est la force de la carte et son piège — devant un vrai dilemme, celui où aucun plateau ne peut être à niveau, la Balance peut se figer.
 
-Utile en complément. Si l’astrologie n’est pas votre clé, le nombre et l’élément ont déjà tout dit.
-
 ## En lecture {#lecture}
 
 À l’endroit, la Justice est une décision juste, un équilibre retrouvé, la conséquence de ce qui a été fait. Un contrat signé après l’avoir lu, un choix fait après l’avoir pesé, des comptes soldés. Vous récoltez ce que vous avez mis — ni plus, ni moins.
@@ -85,8 +83,8 @@ Quand cette carte sort, certaines personnes pensent à une procédure en cours, 
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assoit, ne vous dit rien, et tire la Justice à côté du Deux d’Épées. Les clés de lecture d’abord : 11, donc 2, à côté d’un autre 2 — deux fois le nombre des deux parties et du lien. Deux fois l’Air : tout se passe dans la tête. Du rouge, du vert et du violet sur la première carte ; sur la seconde, une femme aux yeux bandés assise sur un banc de pierre, sous un ciel de nuit.
+La Justice, puis le Deux d’Épées : une paire pour vous faire la main. 11, donc 2, à côté d’un autre 2 — deux fois le nombre des deux parties et du lien. Deux fois l’Air : tout se passe dans la tête. Du rouge, du vert et du violet sur la première carte ; sur la seconde, une femme aux yeux bandés assise sur un banc de pierre, sous un ciel de nuit.
 
 La phrase que je dirais : « Il y a un choix entre deux options que vous retournez depuis longtemps, et vous savez déjà laquelle est juste — vous ne vous êtes pas encore donné le droit de la regarder. »
 
-Puis la vérification. Y a-t-il une décision repoussée ? La personne reconnaît-elle les deux options ? Sinon, c’est un raté, et il va dans le carnet comme tel. Je lis ; vous décidez.
+Puis la vérification. Y a-t-il une décision repoussée ? La personne reconnaît-elle les deux options ? Sinon, c’est un raté, et il va dans le carnet comme tel.

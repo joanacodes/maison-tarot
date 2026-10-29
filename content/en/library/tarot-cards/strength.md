@@ -48,7 +48,7 @@ The lion’s tail is tucked between its hind legs. Around them, a green plain, a
 
 ## By number: 8 {#number}
 
-**8 — eight — movement, mastery, the fruit of work.** In my reading of [the number 8](/library/numerology/number-8/), eight is the empire: 4 doubled, structure turned into power, mastery proved by a gesture repeated until it no longer shows. Look above the woman’s head — the infinity sign is an 8 lying down. The number is drawn on the card. Here the empire isn’t a territory; it’s the hold you have over yourself.
+In my reading of [the number 8](/library/numerology/number-8/), eight is the empire: 4 doubled, structure turned into power, mastery proved by a gesture repeated until it no longer shows. Look above the woman’s head — the infinity sign is an 8 lying down. The number is drawn on the card. Here the empire isn’t a territory; it’s the hold you have over yourself.
 
 In the Instagram story, 8 is the moment the app becomes infrastructure and nobody asks any more whether it works. Strength is that stage inside a person. (In Marseille decks Strength is 11 and Justice 8; Waite swapped them, and I read in the Rider-Waite-Smith order.)
 
@@ -68,8 +68,6 @@ Read them in that order and you have the card before its name: a peaceful will h
 
 In the Golden Dawn tradition, Strength corresponds to [Leo](/library/astrology/leo/), and the lion on the card makes it hard to miss. Leo is play, pride and expressiveness, the sign whose verb is “I will” — the opera singer who wants to be seen. The card shows Leo at its best: the will is all there, and it no longer needs an audience.
 
-Keep it if astrology speaks to you; if not, the other three lenses have already given you the card.
-
 ## In a reading {#reading}
 
 Upright, Strength is courage that doesn’t shout. Someone holding a difficult situation — a temper, a fear, a person, a habit — with patience rather than force, and winning. It often turns up when someone is doing more than they realise: they think they’re “only” staying calm, and staying calm is the achievement.
@@ -84,8 +82,8 @@ Next to [the Chariot](/library/tarot-cards/the-chariot/), it’s the same victor
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws Strength next to the Five of Wands. Lenses first: 8 then 5, mastery facing a fight. Fire twice, so a lot of heat in one place. On one card, white and yellow, calm; on the other, five young men swinging staves, dressed in every colour.
+Put Strength next to the Five of Wands, as if a stranger had just drawn them. 8 then 5: mastery facing a fight. Fire twice, so a lot of heat in one place. On one card, white and yellow, calm; on the other, five young men swinging staves, dressed in every colour.
 
 The sentence I’d say out loud: “There’s a lot of noise around you at the moment, and you’re the one keeping things from catching fire — it’s costing you more than you show.”
 
-Then I’d stop and check. Does that land? If yes, I’d ask who or what the lion is. If no, it’s a miss, and a miss is a miss: I’d note it as one and not try to rescue it.
+Then I’d stop and check. Does that land? If yes, I’d ask who or what the lion is. If no, it’s a miss: I’d note it as one and not try to rescue it.

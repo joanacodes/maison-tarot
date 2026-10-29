@@ -51,7 +51,7 @@ Ce qui manque : toute forme de douceur. Pas de plante, personne d’autre, aucun
 
 ## Par le nombre : 4 {#nombre}
 
-**4 — quatre — les fondations, la stabilité.** Le [chiffre 4](/fr/bibliotheque/numerologie/chiffre-4/), c’est le 2 exalté : l’alliance devenue structure, le fruit du travail, quelque chose qui tient. Regardez le trône : un bloc de pierre, carré, d’aplomb. L’Empereur, c’est un 4 assis sur un 4.
+Le [chiffre 4](/fr/bibliotheque/numerologie/chiffre-4/), c’est le 2 exalté : l’alliance devenue structure, le fruit du travail, quelque chose qui tient. Regardez le trône : un bloc de pierre, carré, d’aplomb. L’Empereur, c’est un 4 assis sur un 4.
 
 Dans l’histoire d’Instagram de mes pages de numérologie, le 4, c’est le grand succès arrivé vite : une forme, une équipe, des habitudes — et le moment où une entreprise commence à croire qu’elle n’aura plus jamais à changer. D’où le conseil du 4 : rester souple, rester ouvert à ce qu’on n’avait pas prévu. Son revers : continuer quand il faudrait s’arrêter, par pur entêtement.
 
@@ -67,7 +67,7 @@ Le rouge et l’orange dominent : la robe, le ciel, les montagnes. Dans [ma gril
 
 ## Par l’astrologie : Bélier {#astrologie}
 
-Dans la tradition Golden Dawn, l’Empereur correspond au [Bélier](/fr/bibliotheque/astrologie/belier/), premier signe du zodiaque : « je suis », gouverné par Mars, cardinal — le signe qui fonce. Les têtes de bélier sur le trône en sont la signature. Le Bélier ajoute ce que la pierre cache : l’impatience, l’envie de lancer et de commander. C’est le maçon qui pose la première pierre sans lire le plan, et l’Empereur, c’est ce maçon une fois qu’il a un royaume. Un complément utile ; si l’astrologie n’est pas pour vous, l’armure l’a déjà dit.
+Dans la tradition Golden Dawn, l’Empereur correspond au [Bélier](/fr/bibliotheque/astrologie/belier/), premier signe du zodiaque : « je suis », gouverné par Mars, cardinal — le signe qui fonce. Les têtes de bélier sur le trône en sont la signature. Le Bélier ajoute ce que la pierre cache : l’impatience, l’envie de lancer et de commander. C’est le maçon qui pose la première pierre sans lire le plan, et l’Empereur, c’est ce maçon une fois qu’il a un royaume.
 
 ## En lecture {#lecture}
 
@@ -89,16 +89,16 @@ Imaginons quelqu’un qui vient d’être promu à la tête de l’équipe dont 
 
 Renversé, les règles se durcissent en contrôle — relire chaque mail, confondre respect et peur —, ou le trône reste vide et plus personne ne décide.
 
-« Qu’est-ce que mon chef pense de moi ? » Question naturelle avec cette carte : cette personne tient une part de votre vie professionnelle. Mais votre chef n’est pas dans la pièce, et ne prenez pas mes mots pour une vérité absolue non plus : testez-les, faites-en l’expérience vous-même. L’Empereur donne des ordres ; un tirage ne devrait pas. Une question plus douce : « De quoi ai-je besoin de mes supérieurs, et comment le leur demander clairement ? » Si l’inquiétude porte sur votre contrat ou la façon dont on vous traite, les RH ou un élu du CSE vous diront où vous en êtes.
+« Qu’est-ce que mon chef pense de moi ? » Question naturelle avec cette carte : cette personne tient une part de votre vie professionnelle. Mais votre chef n’est pas dans la pièce. L’Empereur donne des ordres ; un tirage ne devrait pas. Une question plus douce : « De quoi ai-je besoin de mes supérieurs, et comment le leur demander clairement ? » Si l’inquiétude porte sur votre contrat ou la façon dont on vous traite, les RH ou un élu du CSE vous diront où vous en êtes.
 
 Cette semaine, demandez un retour à une personne et appliquez-en un point — la seule chose que l’Empereur ne fait jamais.
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : une personne s’assoit, ne vous dit rien, et tire l’Empereur à côté du [Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/) — une femme ligotée, les yeux bandés, entourée d’épées plantées dans le sol, un château derrière elle.
+Inventons un tirage : l’Empereur, puis le [Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/), où une prisonnière aux yeux bandés se tient, les bras ligotés, dans un enclos lâche de huit épées plantées en terre, un château sur la hauteur derrière elle.
 
-D’abord les clés de lecture. 4 puis 8 : une structure, puis le 4 exalté, le contrôle poussé à sa limite. Le Feu puis l’Air : une volonté, puis des pensées qui tournent en rond. Le rouge et l’orange de l’Empereur disent la volonté et la chaleur ; à côté d’une silhouette qui ne voit rien, cette chaleur ne sait pas où aller.
+4 puis 8 : une structure, puis le 4 exalté, le contrôle poussé à sa limite. Le Feu puis l’Air : une volonté, puis des pensées qui tournent en rond. Le rouge et l’orange de l’Empereur disent la volonté et la chaleur ; à côté d’une silhouette qui ne voit rien, cette chaleur ne sait pas où aller.
 
 Ce que je dirais à voix haute : « Vous avez construit des règles pour vous protéger, et maintenant ce sont des murs que vous ne voyez plus. »
 
-Puis je vérifierais : y a-t-il une de vos règles — au travail, à la maison — que vous laisseriez tomber demain si personne ne regardait ? Ma note pour le Huit d’Épées, c’est être prisonnier de soi-même alors qu’on a tous les outils : le bandeau peut s’enlever. Si la réponse est non, c’est un raté, et je le note.
+Puis je vérifierais : y a-t-il une de vos règles — au travail, à la maison — que vous laisseriez tomber demain si personne ne regardait ? Ma note pour le Huit d’Épées, c’est être prisonnier de soi-même alors qu’on a tous les outils : le bandeau peut s’enlever. Si la réponse est non, le raté va dans mon carnet.

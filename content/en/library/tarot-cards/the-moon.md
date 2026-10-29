@@ -49,7 +49,7 @@ There is no person on this card — only animals, a path, and a light that isn�
 
 ## By number: 18 {#number}
 
-**18 — 1 + 8 = 9 — near completion, almost there.** Eighteen comes back to [9](/library/numerology/number-9/), the number of the Hermit: the finish line in sight, the end of a stage, last efforts, introspection — and patience, while you keep moving. That’s the Moon’s path: long, unclear, and nearly done.
+Eighteen comes back to [9](/library/numerology/number-9/), the number of the Hermit: the finish line in sight, the end of a stage, last efforts, introspection — and patience, while you keep moving. That’s the Moon’s path: long, unclear, and nearly done.
 
 In the Instagram story, 9 is the redesign around Reels: not yet another app, but everything that defined the old one is ending. On this card, that in-between feels like fog. It is still a 9: you’re closer to the end than to the start.
 
@@ -65,7 +65,7 @@ The crayfish climbing out of the pool is that emotion surfacing. The Moon doesn�
 
 ## By astrology: Pisces {#astrology}
 
-In the Golden Dawn tradition, the Moon belongs to [Pisces](/library/astrology/pisces/), the sign whose verb is “I believe”. A fish lives where we can’t breathe: from outside the surface is still, and underneath the water teems. That’s this card — calm on top, a whole world below. Well placed, Pisces is the wisdom that waits for the right moment; badly placed, it’s the one who dived and no longer says when they’ll come up. Keep the lens if it helps; the card reads fine without it.
+In the Golden Dawn tradition, the Moon belongs to [Pisces](/library/astrology/pisces/), the sign whose verb is “I believe”. A fish lives where we can’t breathe: from outside the surface is still, and underneath the water teems. That’s this card — calm on top, a whole world below. Well placed, Pisces is the wisdom that waits for the right moment; badly placed, it’s the one who dived and no longer says when they’ll come up.
 
 ## In a reading {#reading}
 
@@ -93,10 +93,10 @@ This week, draw two columns: what I know, what I’m imagining. Most of the weig
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Moon next to the [Eight of Cups](/library/tarot-cards/eight-of-cups/).
+Take the Moon and set the [Eight of Cups](/library/tarot-cards/eight-of-cups/) beside it.
 
-Lenses first. Numbers: 18 comes back to 9, almost at the end; the Eight of Cups is 8, moving on from what you were already doing. Elements: Water and Water, so this is emotional before it’s practical. The pictures agree: the Eight of Cups has its own moon, above a figure walking away towards the mountains.
+Numbers: 18 comes back to 9, almost at the end; the Eight of Cups is 8, moving on from what you were already doing. Elements: Water and Water, so this is emotional before it’s practical. The pictures agree: the Eight of Cups has its own moon, above a figure walking away towards the mountains.
 
 The sentence you’d say out loud: “You’re leaving something behind without being able to say yet what you’re walking towards. That isn’t a mistake; the path is there, even if you can’t see the end of it.”
 
-Then check it with the person, and this is where the silence rule earns its keep. Tell me nothing, I ask before every reading, so that whatever comes back afterwards is a real answer and not an echo of what I was told. If it doesn’t land, note it as a miss.
+Then check it with the person, and this is where the silence rule earns its keep: I want to know nothing before a reading, so that whatever comes back afterwards is a real answer and not an echo of what I was told. If it doesn’t land, note it as a miss.

@@ -49,7 +49,7 @@ Ce qui manque : l’action, le paysage, quelqu’un d’autre. Au tarot de Marse
 
 ## Par le nombre : 2 {#nombre}
 
-**2 — deux — se lier, peser, coopérer.** Le [chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/), c’est l’alliance : deux parties, un lien, un contrat. Ici, il est dessiné sur la carte même — une colonne noire, une blanche — et elle est assise entre les deux, à peser. Le conseil du 2, c’est de lire le contrat avant de s’engager, et le rouleau sur ses genoux est à moitié caché : un contrat dont personne n’a lu les petites lignes. Dans l’histoire d’Instagram de mes pages de numérologie, ce sont les fondateurs qui signent avec des investisseurs, le meilleur moment pour lire lentement. Le revers du 2 se voit aussi : la solitude, ou un mental si occupé à peser qu’il ne partage plus rien.
+Le [chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/), c’est l’alliance : deux parties, un lien, un contrat. Ici, il est dessiné sur la carte même — une colonne noire, une blanche — et elle est assise entre les deux, à peser. Le conseil du 2, c’est de lire le contrat avant de s’engager, et le rouleau sur ses genoux est à moitié caché : un contrat dont personne n’a lu les petites lignes. Dans l’histoire d’Instagram de mes pages de numérologie, ce sont les fondateurs qui signent avec des investisseurs, le meilleur moment pour lire lentement. Le revers du 2 se voit aussi : la solitude, ou un mental si occupé à peser qu’il ne partage plus rien.
 
 ## Par l’élément : Eau {#element}
 
@@ -65,7 +65,7 @@ Le bleu domine : le manteau, et l’eau qu’il devient. Dans [ma grille des cou
 
 ## Par l’astrologie : Lune {#astrologie}
 
-Dans la tradition Golden Dawn, la Grande Prêtresse correspond à la [Lune](/fr/bibliotheque/astrologie/lune/) : ce qu’on ressent quand personne ne regarde. Quand j’explique un thème astral, je dis que la Lune, c’est « votre chambre », la pièce la plus intime de la maison — et c’est cette carte, une pièce qu’on ne vous fait pas visiter. La Lune a aussi une face qu’on ne voit jamais depuis la Terre ; la Grande Prêtresse fonctionne pareil, une façade et beaucoup de choses derrière. C’est une clé facultative ; le dessin le dit déjà.
+Dans la tradition Golden Dawn, la Grande Prêtresse correspond à la [Lune](/fr/bibliotheque/astrologie/lune/) : ce qu’on ressent quand personne ne regarde. Quand j’explique un thème astral, je dis que la Lune, c’est « votre chambre », la pièce la plus intime de la maison — et c’est cette carte, une pièce qu’on ne vous fait pas visiter. La Lune a aussi une face qu’on ne voit jamais depuis la Terre ; la Grande Prêtresse fonctionne pareil, une façade et beaucoup de choses derrière.
 
 ## En lecture {#lecture}
 
@@ -79,10 +79,10 @@ Renversée, l’eau qui dort stagne. Le secret est gardé si longtemps qu’il d
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : une personne s’assoit, ne vous dit rien, et tire la Grande Prêtresse à côté du [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/) — une silhouette en manteau rouge qui s’éloigne de huit coupes empilées, vers les montagnes, sous une lune.
+Représentez-vous la Grande Prêtresse qui sort à côté du [Huit de Coupes](/fr/bibliotheque/cartes-tarot/huit-de-coupes/) — quelqu’un en rouge qui tourne le dos à huit coupes empilées et part vers les montagnes, au clair de lune.
 
-D’abord les clés de lecture. 2 puis 8 : un lien qu’on pèse, puis ce qu’on laisse derrière soi — ma note pour le Huit de Coupes, c’est passer à autre chose que ce qu’on fait déjà. L’Eau et l’Eau : des sentiments, pas de la logistique. Son bleu et son blanc, puis un manteau rouge qui s’en va ; et une lune sur les deux cartes.
+2 puis 8 : un lien qu’on pèse, puis ce qu’on laisse derrière soi — ma note pour le Huit de Coupes, c’est passer à autre chose que ce qu’on fait déjà. L’Eau et l’Eau : des sentiments, pas de la logistique. Son bleu et son blanc, puis un manteau rouge qui s’en va ; et une lune sur les deux cartes.
 
 Ce que je dirais à voix haute : « Vous avez déjà décidé de quitter quelque chose, et vous ne l’avez encore dit à personne. »
 
-Puis je vérifierais : est-ce que ça vous parle, et si oui, s’agit-il d’un lieu, d’une personne ou d’une habitude ? Si la réponse est non, c’est un raté, et je le dis.
+Puis je vérifierais : est-ce que cela correspond à quelque chose, et si oui, s’agit-il d’un lieu, d’une personne ou d’une habitude ? Si rien ne correspond, je parle de raté, sans détour.

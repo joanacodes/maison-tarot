@@ -47,7 +47,7 @@ Rien n’est inachevé sur cette carte. Pas de sol sous ses pieds, pas de route,
 
 ## Par le nombre : 21 {#nombre}
 
-**21 — 2 + 1 = 3 — créer, célébrer, le premier résultat.** Vingt et un se ramène à [3](/fr/bibliotheque/numerologie/chiffre-3/), le nombre de l’Impératrice : le bon rythme, la machine qui tourne, un contrat qui marche. Son conseil : finir un projet avant d’en commencer un autre ; son moins : lancer du neuf avant d’avoir fini l’ancien.
+Vingt et un se ramène à [3](/fr/bibliotheque/numerologie/chiffre-3/), le nombre de l’Impératrice : le bon rythme, la machine qui tourne, un contrat qui marche. Son conseil : finir un projet avant d’en commencer un autre ; son moins : lancer du neuf avant d’avoir fini l’ancien.
 
 Sur la dernière carte des arcanes majeurs, le 3 dit que le travail est devenu un résultat, et que ce résultat tourne tout seul. Dans l’histoire d’Instagram, le 3, c’est le lancement qui marche : les gens s’inscrivent, postent, reviennent, et pour la première fois la chose tourne sans qu’on la pousse. C’est la danseuse dans sa couronne : aucun effort visible, tout en mouvement.
 
@@ -63,7 +63,7 @@ Le [vert](/fr/bibliotheque/couleurs-tarot/vert/) de la couronne : la croissance,
 
 ## Par l’astrologie : Saturne {#astrologie}
 
-Dans la tradition Golden Dawn, le Monde revient à [Saturne](/fr/bibliotheque/astrologie/saturne/), et à la Terre aussi. Saturne, c’est la leçon la plus dure : là où l’on est limité, tenu de faire ses preuves, en retard sur ce qu’on voulait — et là où, avec le temps, on devient solide précisément parce que ça a été difficile. Quand j’ai testé l’astrologie case par case, Saturne a fait partie des trois placements justes de 75 à 90 % du temps, et c’est ce résultat qui m’a fait garder l’astrologie. Je lis donc cette carte comme la récompense de Saturne : ce qu’on a fini par construire. Clé facultative ; le nombre et l’élément le disent aussi.
+Dans la tradition Golden Dawn, le Monde revient à [Saturne](/fr/bibliotheque/astrologie/saturne/), et à la Terre aussi. Saturne, c’est la leçon la plus dure : là où l’on est limité, tenu de faire ses preuves, en retard sur ce qu’on voulait — et là où, avec le temps, on devient solide précisément parce que ça a été difficile. Quand j’ai testé l’astrologie case par case, Saturne a fait partie des trois placements justes de 75 à 90 % du temps, et c’est ce résultat qui m’a fait garder l’astrologie. Je lis donc cette carte comme la récompense de Saturne : ce qu’on a fini par construire.
 
 ## En lecture {#lecture}
 
@@ -79,10 +79,10 @@ Renversé, c’est le même accomplissement au ralenti : les derniers pas qu’o
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Monde à côté de l’[As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/).
+Le cycle se referme sur cette carte : essayez-la donc à côté d’un commencement, l’[As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/).
 
-Les clés de lecture d’abord. Les nombres : 21 se ramène à 3, le premier résultat ; l’As est un 1, un diamant brut, le début d’un cycle, dont le conseil est l’humilité — se préparer à apprendre. Les éléments : Terre et Terre, donc du concret, quelque chose qu’on peut tenir. Les images : la couronne verte du Monde et, sur l’As, une main sortant d’un nuage qui offre une pièce d’or au-dessus d’un jardin.
+Les nombres : 21 se ramène à 3, le premier résultat ; l’As est un 1, un diamant brut, le début d’un cycle, dont le conseil est l’humilité — se préparer à apprendre. Les éléments : Terre et Terre, donc du concret, quelque chose qu’on peut tenir. Les images : la couronne verte du Monde et, sur l’As, une main sortant d’un nuage qui offre une pièce d’or au-dessus d’un jardin.
 
 La phrase que vous diriez à voix haute : « Quelque chose sur quoi vous travaillez depuis longtemps est accompli, et la suite est déjà dans votre main. Elle est plus petite, et c’est normal : vous voilà de nouveau au début, avec tout ce que vous avez appris. »
 
-Puis vérifiez. Demandez à la personne ce que cela lui évoque, et laissez-la dire ce qui se termine et ce qui commence. Si ça ne colle pas, c’est un raté. Si ça colle, ce qu’elle en fait lui appartient : je lis ; vous décidez.
+Puis vérifiez. Demandez à la personne ce que cela lui évoque, et laissez-la dire ce qui se termine et ce qui commence. Si rien ne se termine pour elle, c’est un raté. Si quelque chose se termine, la pièce que tend l’As est à elle, à prendre ou à laisser.

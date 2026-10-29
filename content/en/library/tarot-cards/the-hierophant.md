@@ -48,7 +48,7 @@ The name is an old Greek title: the hierophant was the priest who showed initiat
 
 ## By number: 5 {#number}
 
-**5 — five — conflict, trial, making do with what’s left.** A pope as a 5 can look odd, until you see what 5 does. The [number 5](/library/numerology/number-5/) is the trial that measures: you meet something that tests you, and you find out what holds. For the Hierophant, the trial is the rule — school, a tradition, a faith, a company’s way of doing things — and the question of what you keep of it.
+A pope as a 5 can look odd, until you see what 5 does. The [number 5](/library/numerology/number-5/) is the trial that measures: you meet something that tests you, and you find out what holds. For the Hierophant, the trial is the rule — school, a tradition, a faith, a company’s way of doing things — and the question of what you keep of it.
 
 In the Instagram story on my numerology pages, 5 is Facebook arriving to buy the company, an institution walking in with its rules. The advice of 5 suits this card: avoid useless conflicts, and be honest with yourself about the situation. Its minus is denial — following the rule so you never have to ask whether it’s still yours.
 
@@ -64,11 +64,11 @@ Grey dominates: the background and the pillars. In [my colour grid](/library/tar
 
 ## By astrology: Taurus {#astrology}
 
-In the Golden Dawn tradition, the Hierophant goes with [Taurus](/library/astrology/taurus/): “I have”, ruled by Venus, a [fixed](/library/astrological-modes/fixed/) sign. Fixed signs are stable and enduring, and can be slow and stubborn; Taurus is stubborn on familiar ground, which suits a card about tradition. On the Taurus page you’ll find the Empress, through Venus, the sign’s ruler; the Golden Dawn gives the sign itself to this card. Keep the lens if it helps, drop it if it doesn’t.
+In the Golden Dawn tradition, the Hierophant goes with [Taurus](/library/astrology/taurus/): “I have”, ruled by Venus, a [fixed](/library/astrological-modes/fixed/) sign. Fixed signs are stable and enduring, and can be slow and stubborn; Taurus is stubborn on familiar ground, which suits a card about tradition.
 
 ## In a reading {#reading}
 
-Upright, the Hierophant says: learn from someone. A teacher, a training, a tradition, a ceremony — a wedding, a graduation, joining something larger than you. It’s also the card of advice from people who know more, which brings me to my favourite caution, made for this card: don’t take my words as ultimate truth; test them and experience them for yourself. Tarot included — [a card is not an authority](/blog/tarot-is-not-an-authority/), and neither is the person reading it.
+Upright, the Hierophant says: learn from someone. A teacher, a training, a tradition, a ceremony — a wedding, a graduation, joining something larger than you. It’s also the card of advice from people who know more, and a good teacher expects to be checked. Tarot included — [a card is not an authority](/blog/tarot-is-not-an-authority/), and neither is the person reading it.
 
 Reversed, the trial of 5 turns sour. Either the rule is followed so blindly that the person disappears behind it, doing everything “the way it’s done”, or it’s thrown out wholesale before anyone has checked what was worth keeping. Both stop the learning.
 
@@ -78,10 +78,10 @@ Next to [the Emperor](/library/tarot-cards/the-emperor/), it’s 4 then 5: the l
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Hierophant next to the [Page of Pentacles](/library/tarot-cards/page-of-pentacles/): a young man standing in a field, holding up a pentacle and studying it.
+Lay the Hierophant down and put the [Page of Pentacles](/library/tarot-cards/page-of-pentacles/) beside him: a young man standing in a field, holding up a pentacle and studying it.
 
-Lenses first. 5 then a Page: the trial of the rule next to the student. Earth and Earth: something concrete — work, study, money, a skill. The grey and red of the institution, then the green of an open field.
+5 then a Page: the trial of the rule next to the student. Earth and Earth: something concrete — work, study, money, a skill. The grey and red of the institution, then the green of an open field.
 
 The sentence I’d say out loud: “You’re learning something by the book, and part of you wants to know whether the book is right.”
 
-Then I’d check: is there a course, a training or a new job where you’re being taught a way of doing things? If yes, I’d ask what they would change in it. If no, that’s a miss, and I note it without dressing it up.
+Then I’d check: is there a course, a training or a new job where you’re being taught a way of doing things? If yes, I’d ask what they would change in it. If no, the reading missed, and I note it without dressing it up.

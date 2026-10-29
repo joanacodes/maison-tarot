@@ -47,7 +47,7 @@ Nothing on the card is unfinished. No ground under her feet, no road, no task le
 
 ## By number: 21 {#number}
 
-**21 — 2 + 1 = 3 — to create, to celebrate, the first result.** Twenty-one comes back to [3](/library/numerology/number-3/), the number of the Empress: good rhythm, the machine running, a contract that works. Its advice is to finish one project before starting another; its minus is starting new things before the old ones are done.
+Twenty-one comes back to [3](/library/numerology/number-3/), the number of the Empress: good rhythm, the machine running, a contract that works. Its advice is to finish one project before starting another; its minus is starting new things before the old ones are done.
 
 On the last card of the major arcana, 3 says the work has become a result, and the result keeps turning on its own. In the Instagram story, 3 is the launch that works: people sign up, post and come back, and for the first time the thing runs without being pushed. That’s the dancer in the wreath: no effort showing, everything moving.
 
@@ -63,7 +63,7 @@ The [green](/library/tarot-colours/green/) of the wreath: growth, life, prosperi
 
 ## By astrology: Saturn {#astrology}
 
-In the Golden Dawn tradition, the World belongs to [Saturn](/library/astrology/saturn/), and to Earth as well. Saturn is the hardest lesson: where you’re limited, made to prove yourself, late on what you wanted — and where, in time, you become solid precisely because it was hard. When I tested astrology box by box, Saturn was one of the three placements that held 75 to 90% of the time, and that result is why I kept astrology at all. So I read this card as Saturn’s reward: what you ended up building. Still optional; the number and the element say it too.
+In the Golden Dawn tradition, the World belongs to [Saturn](/library/astrology/saturn/), and to Earth as well. Saturn is the hardest lesson: where you’re limited, made to prove yourself, late on what you wanted — and where, in time, you become solid precisely because it was hard. When I tested astrology box by box, Saturn was one of the three placements that held 75 to 90% of the time, and that result is why I kept astrology at all. So I read this card as Saturn’s reward: what you ended up building.
 
 ## In a reading {#reading}
 
@@ -79,10 +79,10 @@ Next to [the Fool](/library/tarot-cards/the-fool/), who comes after it when the 
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the World next to the [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/).
+The cycle closes on this card, so try it next to a beginning: the World beside the [Ace of Pentacles](/library/tarot-cards/ace-of-pentacles/).
 
-Lenses first. Numbers: 21 comes back to 3, the first result; the Ace is 1, a raw diamond, the start of a cycle, whose advice is humility — get ready to learn. Elements: Earth and Earth, so this is concrete, something you can hold. The pictures: the World’s green wreath, and on the Ace, a hand from a cloud offering a golden coin above a garden.
+Numbers: 21 comes back to 3, the first result; the Ace is 1, a raw diamond, the start of a cycle, whose advice is humility — get ready to learn. Elements: Earth and Earth, so this is concrete, something you can hold. The pictures: the World’s green wreath, and on the Ace, a hand from a cloud offering a golden coin above a garden.
 
 The sentence you’d say out loud: “Something you’ve worked on for a long time is complete, and the next thing is already in your hand. It’s smaller, and that’s how it should be: you’re a beginner again, with everything you’ve learned.”
 
-Then check it. Ask what it brings up, and let them say what is finishing and what is starting. If it doesn’t fit, it’s a miss. If it does, whatever they do with it is theirs: I read; you decide.
+Then check it. Ask what it brings up, and let them say what is finishing and what is starting. If nothing is finishing for them, that’s a miss. If something is, the coin the Ace holds out is theirs to take or leave.

@@ -53,7 +53,7 @@ Ce qui manque : des murs, une armure, un chantier en cours — et du monde. Pas 
 
 ## Par le nombre : 3 {#nombre}
 
-**3 — trois — créer, célébrer, le premier résultat.** Le [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/), c’est la machine qui tourne : le contrat marche, ça se voit, ça donne. Après le 1 qui a les outils et le 2 qui pèse, l’Impératrice est la première carte où quelque chose est sorti : le blé est mûr.
+Le [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/), c’est la machine qui tourne : le contrat marche, ça se voit, ça donne. Après le 1 qui a les outils et le 2 qui pèse, l’Impératrice est la première carte où quelque chose est sorti : le blé est mûr.
 
 Dans l’histoire d’Instagram de mes pages de numérologie, le 3, c’est le lancement qui marche : la chose tourne sans qu’on la pousse. Le conseil du 3 : finir un projet avant d’en commencer un autre. Son revers : lancer du neuf avant d’avoir fini. L’abondance y invite — quand tout pousse, on a envie de semer partout.
 
@@ -61,7 +61,7 @@ Dans l’histoire d’Instagram de mes pages de numérologie, le 3, c’est le l
 
 L’Impératrice est une carte de [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, la prospérité, ce qui a de la valeur pour vous, argent ou pas. Dans mes notes, la Terre est protectrice et stable, la mère de toute croissance.
 
-C’est l’Impératrice que j’enseigne : la mère, la terre, celle qui nourrit — le blé à ses pieds —, qui donne et crée la vie au sens large : un projet, un foyer, un jardin, une équipe. Son revers vient du même endroit. Elle peut étouffer à force de soins — la mère poule —, protéger au point que rien ne grandit, ou un jour cesser de nourrir et laisser derrière elle des gens qui dépendaient d’elle. Toutes les richesses ne sont pas en or, et tous les soins ne sont pas légers.
+C’est l’Impératrice que j’enseigne : la mère, la terre, celle qui nourrit — le blé à ses pieds —, qui donne et crée la vie au sens large : un projet, un foyer, un jardin, une équipe. Son revers vient du même endroit. Elle peut étouffer à force de soins — la mère poule —, protéger au point que rien ne grandit, ou un jour cesser de nourrir et laisser derrière elle des gens qui dépendaient d’elle. Tous les soins ne sont pas légers.
 
 ## Par les couleurs {#couleurs}
 
@@ -69,7 +69,7 @@ Le vert et l’or dominent : les arbres, le blé. Dans [ma grille des couleurs](
 
 ## Par l’astrologie : Vénus {#astrologie}
 
-Dans la tradition Golden Dawn, l’Impératrice correspond à [Vénus](/fr/bibliotheque/astrologie/venus/), et la carte ne s’en cache pas : le signe est dessiné sur son bouclier. Vénus dit ce qu’on aime et comment : le goût, l’attirance, ce qu’on trouve beau, ce qu’on accepte d’entretenir. Elle ajoute une nuance qui vaut la peine : l’Impératrice ne fait pas que nourrir les autres ; elle profite. Si l’astrologie n’est pas votre clé de lecture, le bouclier et les coussins le disent quand même.
+Dans la tradition Golden Dawn, l’Impératrice correspond à [Vénus](/fr/bibliotheque/astrologie/venus/), et la carte ne s’en cache pas : le signe est dessiné sur son bouclier. Vénus dit ce qu’on aime et comment : le goût, l’attirance, ce qu’on trouve beau, ce qu’on accepte d’entretenir. Elle ajoute une nuance qui vaut la peine : l’Impératrice ne fait pas que nourrir les autres ; elle profite.
 
 ## En lecture {#lecture}
 
@@ -97,10 +97,10 @@ Cette semaine, confiez une tâche à quelqu’un d’autre et gardez une soirée
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : une personne s’assoit, ne vous dit rien, et tire l’Impératrice à côté du Dix de Bâtons — un homme penché en avant, qui porte dix lourds bâtons dans ses bras vers une ville.
+Supposons que l’Impératrice tombe à côté du Dix de Bâtons — un homme voûté sur les dix lourds bâtons qu’il serre contre lui, en route vers une ville.
 
-D’abord les clés de lecture. 3 puis 10 : le premier résultat, puis la fin d’un cycle — ma note pour le Dix de Bâtons, c’est garder l’énergie créative sans se surcharger. La Terre puis le Feu : ce qui pousse à côté de ce qui brûle. Le vert et l’or de l’Impératrice, ouverts et chauds, à côté d’un homme dont le visage disparaît derrière son fardeau.
+3 puis 10 : le premier résultat, puis la fin d’un cycle — ma note pour le Dix de Bâtons, c’est garder l’énergie créative sans se surcharger. La Terre puis le Feu : ce qui pousse à côté de ce qui brûle. Le vert et l’or de l’Impératrice, ouverts et chauds, à côté d’un homme dont le visage disparaît derrière son fardeau.
 
 Ce que je dirais à voix haute : « En ce moment, c’est vous qui nourrissez tout le monde, et ça commence à peser comme une charge au lieu d’un plaisir. »
 
-Puis je vérifierais : qui portez-vous en ce moment — et qui vous porte, vous ? Si ça ne tombe pas juste, c’est un raté, et je le note comme tel.
+Puis je vérifierais : qui portez-vous en ce moment — et qui vous porte, vous ? Si ce tableau n’est pas le sien, je note un raté.

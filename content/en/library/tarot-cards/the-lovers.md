@@ -52,7 +52,7 @@ What’s missing: contact — their hands don’t touch. No ring, no crowd, no c
 
 ## By number: 6 {#number}
 
-**6 — six — harmony regained, exchange.** The [number 6](/library/numerology/number-6/) is 3 exalted: the machine is launched and fast, and harmony comes back after the trial of 5. On this card the 6 is the exchange between two people — and the choice it implies, because agreeing with someone means saying yes to them and no to something else.
+The [number 6](/library/numerology/number-6/) is 3 exalted: the machine is launched and fast, and harmony comes back after the trial of 5. On this card the 6 is the exchange between two people — and the choice it implies, because agreeing with someone means saying yes to them and no to something else.
 
 In the Instagram story on my numerology pages, 6 is Facebook deciding to invest: the threat of the 5 becomes the engine, everything speeds up, and nobody reads the conditions any more. The advice of 6 is to stay calm and humble while it’s going well; a happy union still deserves a look at its terms.
 
@@ -70,7 +70,7 @@ Read before the card: desire, will, and a decision taken in full light.
 
 ## By astrology: Gemini {#astrology}
 
-In the Golden Dawn tradition, the Lovers go with [Gemini](/library/astrology/gemini/): “I think”, ruled by Mercury, a mutable sign that changes in order to communicate. Twins, two of something — the card’s pair. At its best Gemini is the great reporter who says exactly what was meant; at its worst it’s a game of Chinese whispers, where the version going round is no longer the true one. A useful nuance for a love card: what’s being said, and by whom. Optional, like all the astrology here.
+In the Golden Dawn tradition, the Lovers go with [Gemini](/library/astrology/gemini/): “I think”, ruled by Mercury, a mutable sign that changes in order to communicate. Twins, two of something — the card’s pair. At its best Gemini is the great reporter who says exactly what was meant; at its worst it’s a game of Chinese whispers, where the version going round is no longer the true one. A useful nuance for a love card: what’s being said, and by whom.
 
 ## In a reading {#reading}
 
@@ -92,16 +92,16 @@ Next to the Seven of Cups — in my notes, indecision, too many choices — the 
 
 Reversed at work, the choice is avoided: one foot in each job, a side business that never gets a real decision, while time decides for you.
 
-“Which job should I take?” is the question this card attracts, and it makes sense: a big decision, two decent options, and you’d love someone to settle it. I read; you decide. The people making the offers aren’t in the room, the salary side is a money decision I don’t read on, and a card that chose for you would take away the one part of the decision that’s yours. A careers adviser can help you compare the concrete side. A more useful question: “What am I choosing when I choose this one, and what am I saying no to?” I go further in [tarot for decision making](/blog/tarot-for-decision-making/).
+“Which job should I take?” is the question this card attracts, and it makes sense: a big decision, two decent options, and you’d love someone to settle it. The people making the offers aren’t in the room, the salary side is a money decision I don’t read on, and a card that chose for you would take away the one part of the decision that’s yours. A careers adviser can help you compare the concrete side. A more useful question: “What am I choosing when I choose this one, and what am I saying no to?” I go further in [tarot for decision making](/blog/tarot-for-decision-making/).
 
 This week, draw two cards, one for each path, and describe them before you decide which is “better”. Write one sentence for each; you’ll often find you had already chosen.
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Lovers next to the [Two of Pentacles](/library/tarot-cards/two-of-pentacles/): a young man juggling two pentacles joined by a ribbon in a figure of eight, with ships riding high waves behind him.
+In a reading made up for practice, the Lovers sit beside the [Two of Pentacles](/library/tarot-cards/two-of-pentacles/): a young man juggling two pentacles joined by a ribbon in a figure of eight, with ships riding high waves behind him.
 
-Lenses first. 6 then 2: a choice that should bring harmony, next to a 2 still weighing. Air then Earth: a decision about something concrete — money, time, a job, a home. The Lovers’ red and yellow, a decision in full light, next to a card in motion.
+6 then 2: a choice that should bring harmony, next to a 2 still weighing. Air then Earth: a decision about something concrete — money, time, a job, a home. The Lovers’ red and yellow, a decision in full light, next to a card in motion.
 
 The sentence I’d say out loud: “There’s a choice in front of you, and you’ve been juggling both options so you don’t have to pick one.”
 
-Then I’d check: is there something you’re keeping two of, so you don’t have to give either up? If it lands, the next question is which one they’d keep if they had to decide tonight. If it doesn’t, that’s a miss, and I say so plainly.
+Then I’d check: is there something you’re keeping two of, so you don’t have to give either up? If it lands, the next question is which one they’d keep if they had to decide tonight. If it doesn’t, I tell them plainly that it missed.

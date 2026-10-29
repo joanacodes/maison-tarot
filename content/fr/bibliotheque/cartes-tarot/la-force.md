@@ -48,7 +48,7 @@ La queue du lion est rentrée entre ses pattes arrière. Autour d’eux, une pla
 
 ## Par le nombre : 8 {#nombre}
 
-**8 — huit — le mouvement, la maîtrise, le fruit du travail.** Dans ma lecture du [chiffre 8](/fr/bibliotheque/numerologie/chiffre-8/), le huit, c’est l’empire : le 4 doublé, la structure devenue puissance, une maîtrise qui se prouve par le geste répété jusqu’à ce qu’il ne se voie plus. Regardez au-dessus de la tête de la femme : le signe de l’infini, c’est un 8 couché. Le nombre est dessiné sur la carte. Ici, l’empire n’est pas un territoire ; c’est la prise qu’on a sur soi-même.
+Dans ma lecture du [chiffre 8](/fr/bibliotheque/numerologie/chiffre-8/), le huit, c’est l’empire : le 4 doublé, la structure devenue puissance, une maîtrise qui se prouve par le geste répété jusqu’à ce qu’il ne se voie plus. Regardez au-dessus de la tête de la femme : le signe de l’infini, c’est un 8 couché. Le nombre est dessiné sur la carte. Ici, l’empire n’est pas un territoire ; c’est la prise qu’on a sur soi-même.
 
 Dans l’histoire d’Instagram, le 8, c’est le moment où l’application devient une infrastructure et où plus personne ne se demande si ça marche. La Force, c’est cette étape à l’intérieur d’une personne. (Au tarot de Marseille, la Force porte le 11 et la Justice le 8 ; Waite les a inversées, et je lis dans l’ordre du Rider-Waite-Smith.)
 
@@ -68,8 +68,6 @@ Lisez-les dans cet ordre et vous avez la carte avant son nom : une volonté pais
 
 Dans la tradition Golden Dawn, la Force correspond au [Lion](/fr/bibliotheque/astrologie/lion/), et l’animal sur la carte ne laisse guère de doute. Le Lion, c’est le jeu, la fierté, l’expressivité — le chanteur d’opéra qui veut être vu. La carte montre le Lion sous son meilleur jour : la volonté est entière, et elle n’a plus besoin de public.
 
-Gardez cette clé si l’astrologie vous parle ; sinon, les trois autres vous ont déjà donné la carte.
-
 ## En lecture {#lecture}
 
 À l’endroit, la Force, c’est le courage qui ne crie pas. Quelqu’un qui tient une situation difficile — une colère, une peur, une personne, une habitude — par la patience plutôt que par la force, et qui l’emporte. Elle sort souvent quand quelqu’un en fait plus qu’il ne le croit : il pense « seulement » garder son calme, et garder son calme, c’est justement l’exploit.
@@ -84,8 +82,8 @@ Renversée, le lion prend le dessus, ou la main serre trop fort. Deux images opp
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assoit, ne vous dit rien, et tire la Force à côté du Cinq de Bâtons. Les clés de lecture d’abord : 8 puis 5, la maîtrise face à la bagarre. Deux fois le Feu, donc beaucoup de chaleur au même endroit. D’un côté du blanc et du jaune, du calme ; de l’autre, cinq jeunes gens qui agitent des bâtons, habillés de toutes les couleurs.
+Mettez la Force à côté du Cinq de Bâtons, comme si quelqu’un que vous ne connaissez pas venait de les tirer. 8 puis 5 : la maîtrise face à la bagarre. Deux fois le Feu, donc beaucoup de chaleur au même endroit. D’un côté du blanc et du jaune, du calme ; de l’autre, cinq jeunes gens qui agitent des bâtons, habillés de toutes les couleurs.
 
 La phrase que je dirais à voix haute : « Il y a beaucoup de bruit autour de vous en ce moment, et c’est vous qui empêchez que ça prenne feu — ça vous coûte plus que vous ne le montrez. »
 
-Puis je m’arrêterais pour vérifier. Est-ce que ça vous parle ? Si oui, je demanderais qui, ou quoi, est le lion. Si non, c’est un raté, et un raté est un raté : je le noterais comme tel, sans chercher à le rattraper.
+Puis je m’arrêterais pour vérifier. Est-ce que ça vous parle ? Si oui, je demanderais qui, ou quoi, est le lion. Si non, je le noterais comme un raté, sans chercher à le rattraper.

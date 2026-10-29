@@ -50,7 +50,7 @@ What’s missing: softness of any kind. No plants, no other people, no gesture o
 
 ## By number: 4 {#number}
 
-**4 — four — foundations, stability.** The [number 4](/library/numerology/number-4/) is 2 exalted: the alliance has become a structure, the fruit of your work, something that holds. Look at the throne: a block of stone, square and level. The Emperor is a 4 sitting on a 4.
+The [number 4](/library/numerology/number-4/) is 2 exalted: the alliance has become a structure, the fruit of your work, something that holds. Look at the throne: a block of stone, square and level. The Emperor is a 4 sitting on a 4.
 
 In the story of Instagram on my numerology pages, 4 is the big success that came fast: a shape, a team, habits — and the moment a company starts believing it will never have to change again. Hence the advice of 4: stay flexible, stay open to what you hadn’t planned. Its minus is carrying on when you should stop, out of pure stubbornness.
 
@@ -66,7 +66,7 @@ Red and orange dominate: the robe, the sky, the mountains. In [my colour grid](/
 
 ## By astrology: Aries {#astrology}
 
-In the Golden Dawn tradition, the Emperor goes with [Aries](/library/astrology/aries/), the first sign of the zodiac: “I am”, ruled by Mars, cardinal — the sign that charges. The rams’ heads on the throne are its signature. Aries adds what the stone hides: impatience, the urge to start and to command. Aries is the bricklayer who lays the first stone without reading the plan, and the Emperor is that bricklayer once he has a kingdom. A useful extra; if astrology isn’t for you, the armour has already said it.
+In the Golden Dawn tradition, the Emperor goes with [Aries](/library/astrology/aries/), the first sign of the zodiac: “I am”, ruled by Mars, cardinal — the sign that charges. The rams’ heads on the throne are its signature. Aries adds what the stone hides: impatience, the urge to start and to command. Aries is the bricklayer who lays the first stone without reading the plan, and the Emperor is that bricklayer once he has a kingdom.
 
 ## In a reading {#reading}
 
@@ -88,15 +88,15 @@ Say someone has just been promoted to lead the team they used to belong to. The 
 
 Reversed at work, the rules harden into control — checking every email, confusing respect with fear — or the throne sits empty and nobody decides anything.
 
-“What does my boss think of me?” is a natural question with this card: that person holds part of your working life. But your boss isn’t in the room, and don’t take my words as ultimate truth either: test them and experience them for yourself. The Emperor gives orders; a reading shouldn’t. A kinder question: “What do I need from the people above me, and how can I ask for it clearly?” If the worry is about your contract or how you’re being treated, HR or a staff representative can tell you where you stand.
+“What does my boss think of me?” is a natural question with this card: that person holds part of your working life. But your boss isn’t in the room. The Emperor gives orders; a reading shouldn’t. A kinder question: “What do I need from the people above me, and how can I ask for it clearly?” If the worry is about your contract or how you’re being treated, HR or a staff representative can tell you where you stand.
 
 This week, ask one person for feedback and act on one piece of it — the one thing the Emperor never does.
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Emperor next to the [Eight of Swords](/library/tarot-cards/eight-of-swords/): a woman bound and blindfolded, surrounded by swords planted in the ground, a castle behind her.
+An invented two-card draw: the Emperor, then the [Eight of Swords](/library/tarot-cards/eight-of-swords/) — a blindfolded woman, her arms tied, standing inside a loose fence of eight swords stuck in the ground, with a castle on the hill behind her.
 
-Lenses first. 4 then 8: a structure, then the 4 exalted, control pushed to its limit. Fire then Air: a will, then thoughts going round in circles. The Emperor’s red and orange say will and heat; beside a figure who can’t see, that heat has nowhere to go.
+4 then 8: a structure, then the 4 exalted, control pushed to its limit. Fire then Air: a will, then thoughts going round in circles. The Emperor’s red and orange say will and heat; beside a figure who can’t see, that heat has nowhere to go.
 
 The sentence I’d say out loud: “You’ve built rules to protect yourself, and now they’re walls you can’t see past.”
 

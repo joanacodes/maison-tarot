@@ -47,7 +47,7 @@ Notice what’s missing: the blindfold. The figures of Justice you see on statue
 
 ## By number: 11 {#number}
 
-**11 — 1 + 1 = 2 — to bind, to weigh, to cooperate.** Add the digits of 11 and you land on [the number 2](/library/numerology/number-2/): two parties, the contract, the bond. Its advice could be written on this card — read the contract, weigh the pros and cons. Its minus is the stubbornness of someone who decided before weighing anything.
+Add the digits of 11 and you land on [the number 2](/library/numerology/number-2/): two parties, the contract, the bond. Its advice could be written on this card — read the contract, weigh the pros and cons. Its minus is the stubbornness of someone who decided before weighing anything.
 
 In the Instagram story, 2 is the moment the founders sign with investors: someone else’s money and conditions come in, and you’d better have read the small print. Justice is that signature. (In Marseille decks, Justice is 8 and Strength 11; Waite swapped them.)
 
@@ -67,8 +67,6 @@ Before you know the card’s name, the colours have told you: someone given the 
 
 In the Golden Dawn tradition, Justice corresponds to [Libra](/library/astrology/libra/), whose symbol is the scales. Libra’s verb is “I balance”: the diplomat, the referee, the one who wants everyone to leave with the same share. That’s the card’s strength and its trap — before a real dilemma, where no scale can be level, Libra can freeze.
 
-Useful as an extra. If astrology isn’t your lens, the number and the element have already said it.
-
 ## In a reading {#reading}
 
 Upright, Justice is a fair decision, a balance restored, the consequence of what has been done. A contract signed after reading it, a choice made after weighing it, an account settled. You get back what you put in — no more, no less.
@@ -85,8 +83,8 @@ When this card comes up, some people think of an ongoing court case, and I under
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws Justice next to the Two of Swords. Lenses first: 11, so 2, next to another 2 — twice the number of two sides and a bond. Air twice: it’s all happening in the head. Red, green and purple on the first card; on the second, a blindfolded woman on a stone bench under a night sky.
+Justice, then the Two of Swords, in a draw you set up yourself. 11, so 2, next to another 2 — twice the number of two sides and a bond. Air twice: it’s all happening in the head. Red, green and purple on the first card; on the second, a blindfolded woman on a stone bench under a night sky.
 
 The sentence I’d say: “There’s a choice between two options you’ve been turning over for a long time, and you already know which one is fair — you haven’t let yourself look at it yet.”
 
-Then the check. Is there a decision being put off? Do they recognise the two sides? If not, it’s a miss and it goes in the notebook as one. I read; you decide.
+Then the check. Is there a decision being put off? Do they recognise the two sides? If not, it’s a miss and it goes in the notebook as one.

@@ -49,7 +49,7 @@ Notice what isn’t there: no rope at his neck, no executioner, no struggle, no 
 
 ## By number: 12 {#number}
 
-**12 — 1 + 2 = 3 — to create, to celebrate, the first result.** Twelve reduces to [the number 3](/library/numerology/number-3/): the machine starts running, the first thing works. For a card about hanging still, that’s surprising, and it’s the key. The Hanged Man’s result is a new point of view, the first thing that comes out of the pause — and there’s a triangle drawn in his own arms.
+Twelve reduces to [the number 3](/library/numerology/number-3/): the machine starts running, the first thing works. For a card about hanging still, that’s surprising, and it’s the key. The Hanged Man’s result is a new point of view, the first thing that comes out of the pause — and there’s a triangle drawn in his own arms.
 
 The advice of 3 fits him too: finish one project before you start another. In the Instagram story, 3 is the launch that turns without being pushed: people come back on their own. That’s the Hanged Man’s lesson — sometimes things move because you stopped pushing.
 
@@ -69,7 +69,7 @@ Read without the title: energy on hold, feelings at peace, and a head that has l
 
 The Golden Dawn gave this card to the element of Water itself; the link to [Neptune](/library/astrology/neptune/) came later, from modern readers, and it fits. Neptune is dream, intuition, illusion, the blur between you and everything else.
 
-I’m careful with it, because it’s the placement most used to excuse what people don’t want to look at. I read it the Hanged Man’s way: a viewpoint to turn over, not a fog to live in. If astrology isn’t your lens, leave it.
+I’m careful with it, because it’s the placement most used to excuse what people don’t want to look at. I read it the Hanged Man’s way: a viewpoint to turn over, not a fog to live in.
 
 ## In a reading {#reading}
 
@@ -91,13 +91,13 @@ At work, the Hanged Man describes a pause, and there are three kinds. The one yo
 
 Reversed at work, the pause has stopped serving anything: the sacrifice nobody asked for, or every hour filled with tasks so you never have to look at your work from another side. Neither is a verdict.
 
-“When will things move?” is the question this card brings. Waiting at work is hard, because it puts your days, and sometimes your income, in someone else’s hands; I understand wanting a date. I don’t give one. Timing is where readings miss most ([why timing is where I miss](/blog/tarot-timing/)), and a date from a card would give you something to wait for, not something to do. I read; you decide. A kinder question: “What can I see from here that I couldn’t see while I was running?” And if being sidelined starts to feel like being pushed out, HR or a staff representative can tell you where you stand.
+“When will things move?” is the question this card brings. Waiting at work is hard, because it puts your days, and sometimes your income, in someone else’s hands; I understand wanting a date. I don’t give one. Timing is where readings miss most ([why timing is where I miss](/blog/tarot-timing/)), and a date from a card would give you something to wait for, not something to do. A kinder question: “What can I see from here that I couldn’t see while I was running?” And if being sidelined starts to feel like being pushed out, HR or a staff representative can tell you where you stand.
 
 This week, write down everything you have open at work. Pick one thing to finish and one to drop, then look at the rest upside down: what would you do with it if you were starting today?
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Hanged Man next to the Eight of Cups. Lenses first: 12, so 3, then 8 — a first result, then something built that you walk away from. Water twice: feelings, all the way through. Blue and grey on one card; on the other, a figure in red walking away under a night sky.
+Give yourself this pair to read: the Hanged Man, then the Eight of Cups. 12, so 3, then 8 — a first result, then something built that you walk away from. Water twice: feelings, all the way through. Blue and grey on one card; on the other, a figure in red walking away under a night sky.
 
 The sentence I’d say: “You’ve been waiting on something that matters to you, and while you waited you started to see it differently — enough that leaving no longer frightens you.”
 

@@ -51,7 +51,7 @@ Ce qui manque : la faux que les jeux plus anciens mettaient entre les mains du s
 
 ## Par le nombre : 13 {#nombre}
 
-**13 — 1 + 3 = 4 — les fondations, la stabilité.** Additionnez les chiffres et 13 devient le [chiffre 4](/fr/bibliotheque/numerologie/chiffre-4/) : les fondations, la structure, le fruit du travail. Ça semble l’inverse de la Mort, jusqu’à ce qu’on regarde le revers du 4 : continuer alors qu’il faudrait s’arrêter. La Mort répond à ce revers-là. Elle dégage ce qui ne marche plus pour qu’on puisse bâtir du solide sur un terrain propre.
+Additionnez les chiffres et 13 devient le [chiffre 4](/fr/bibliotheque/numerologie/chiffre-4/) : les fondations, la structure, le fruit du travail. Ça semble l’inverse de la Mort, jusqu’à ce qu’on regarde le revers du 4 : continuer alors qu’il faudrait s’arrêter. La Mort répond à ce revers-là. Elle dégage ce qui ne marche plus pour qu’on puisse bâtir du solide sur un terrain propre.
 
 Dans l’histoire d’Instagram, le 4, c’est l’application à son plus solide — le moment où une entreprise commence à croire qu’elle ne changera plus jamais. La Mort, c’est la carte qui rappelle que si.
 
@@ -70,8 +70,6 @@ Avant même le nom, les couleurs disent : un vide qu’on fait, une page blanche
 ## Par l’astrologie : Scorpion {#astrologie}
 
 Dans la tradition Golden Dawn, la Mort correspond au [Scorpion](/fr/bibliotheque/astrologie/scorpion/), le signe dont le verbe est « Je désire ». Le Scorpion, c’est l’intensité, l’observation attentive, la transformation menée jusqu’au bout, voulue ou non. Il donne de la profondeur à la carte : ce qui se termine ici, c’est quelque chose auquel on tenait.
-
-Clé facultative : le nombre et l’élément ont déjà tout dit.
 
 ## En lecture {#lecture}
 
@@ -95,13 +93,13 @@ Au travail, ma note sur la moisson va surtout à quelqu’un qui n’est ni lice
 
 À l’envers, la moisson est en retard : le poste qu’on a déjà quitté dans sa tête et où l’on retourne chaque matin. Dans l’excès, c’est démissionner sur un coup de colère un lundi matin, brûler le champ au lieu de le moissonner.
 
-« Est-ce que je vais perdre mon travail ? » C’est la question qu’on apporte avec cette lame, et la peur est bien réelle : le loyer, la famille, l’idée de soi qui vient avec un métier. Je ne lis pas sur cette question. Une carte ne voit pas les décisions d’une entreprise, et un mot de travers peut pousser à démissionner dans la panique ou à se figer au moment d’agir ; les décisions d’argent restent elles aussi hors de mes tirages ([ce que je ne lis pas, et pourquoi](/fr/avertissements/#refus)). Pour le concret, un bilan de compétences ou un conseiller en évolution professionnelle sont les bons interlocuteurs. Une question plus douce : « Qu’est-ce qui, dans mon travail, a fini sa saison, et qu’ai-je envie de faire pousser ensuite ? » Je lis ; vous décidez.
+« Est-ce que je vais perdre mon travail ? » C’est la question qu’on apporte avec cette lame, et la peur est bien réelle : le loyer, la famille, l’idée de soi qui vient avec un métier. Je ne lis pas sur cette question. Une carte ne voit pas les décisions d’une entreprise, et un mot de travers peut pousser à démissionner dans la panique ou à se figer au moment d’agir ; les décisions d’argent restent elles aussi hors de mes tirages ([ce que je ne lis pas, et pourquoi](/fr/avertissements/#refus)). Pour le concret, un bilan de compétences ou un conseiller en évolution professionnelle sont les bons interlocuteurs. Une question plus douce : « Qu’est-ce qui, dans mon travail, a fini sa saison, et qu’ai-je envie de faire pousser ensuite ? »
 
 Cette semaine, écrivez deux listes courtes : ce qui est mûr dans votre travail, et ce que vous aimeriez semer. Gardez-les un mois, et regardez laquelle pousse.
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assoit, ne vous dit rien, et tire la Mort à côté de l’As de Pentacles. Les clés de lecture d’abord : 13, donc 4, puis 1 — des fondations dégagées, puis un nouveau départ. L’Eau puis la Terre : les sentiments d’abord, ensuite quelque chose de concret. Du noir et du blanc d’un côté ; de l’or et du vert de l’autre.
+La Mort sort la première dans ce tirage imaginaire, et l’As de Pentacles la suit. 13, donc 4, puis 1 — des fondations dégagées, puis un nouveau départ. L’Eau puis la Terre : les sentiments d’abord, ensuite quelque chose de concret. Du noir et du blanc d’un côté ; de l’or et du vert de l’autre.
 
 La phrase que je dirais : « Quelque chose s’est terminé pour vous, ou se termine, et ça a été lourd — mais juste derrière, il y a un nouveau départ très concret, quelque chose que vous pouvez construire de vos mains. »
 

@@ -16,7 +16,7 @@ related:
 - /library/tarot-history/golden-dawn-tarot
 faq:
 - q: "When was the Rider-Waite-Smith deck published?"
-  a: "In December 1909, in London, by the publisher William Rider & Son. Arthur Edward Waite directed it and Pamela Colman Smith drew all 78 cards; Waite’s companion book, The Key to the Tarot, followed in 1910."
+  a: "In December 1909, in London, by the publisher William Rider & Son. Arthur Edward Waite directed it and Pamela Colman Smith drew all 78 cards; Waite’s small companion book, The Key to the Tarot, was sold with it."
 - q: "Why do so many people learn with the Rider-Waite-Smith?"
   a: "Every card, the 56 minor cards included, shows a scene with people doing something, so a beginner can read it before knowing any meaning. That’s why I teach with it."
 gallery: []
@@ -25,7 +25,7 @@ In the 20th century, tarot left the secret societies. In 1909 a London publisher
 
 ## 1909: a deck for everyone, from a secret society {#rws}
 
-In 1909, the occultist [Arthur Edward Waite](/library/tarot-figures/arthur-edward-waite/) (1857–1942) commissioned the artist [Pamela Colman Smith](/library/tarot-figures/pamela-colman-smith/) (1878–1951) to design a pack of 78 tarot cards. The London publisher William Rider & Son brought it out in December 1909, and Waite’s companion book, *The Key to the Tarot*, followed in 1910. Both had been members of the Golden Dawn, and its correspondences run through the deck: [Strength is VIII, Justice XI](/library/tarot-history/golden-dawn-tarot/).
+In 1909, the occultist [Arthur Edward Waite](/library/tarot-figures/arthur-edward-waite/) (1857–1942) commissioned the artist [Pamela Colman Smith](/library/tarot-figures/pamela-colman-smith/) (1878–1951) to design a pack of 78 tarot cards. The London publisher William Rider & Son brought it out in December 1909 with Waite’s small companion book, *The Key to the Tarot*; the illustrated *Pictorial Key to the Tarot* came in 1910. Both had been members of the Golden Dawn, and its correspondences run through the deck: [Strength is VIII, Justice XI](/library/tarot-history/golden-dawn-tarot/).
 
 The Victoria and Albert Museum, which holds cards from the deck, describes the division of work. Waite gave Smith strict instructions for the major arcana. The minor arcana were entirely her design.
 

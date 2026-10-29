@@ -51,13 +51,13 @@ Pas de cadenas, pas de gardien, pas de porte ; du noir d’un bord à l’autre,
 
 ## Par le nombre : 15 {#nombre}
 
-**15 — 1 + 5 = 6 — l’harmonie retrouvée, l’échange.** Quinze se ramène à [6](/fr/bibliotheque/numerologie/chiffre-6/), le nombre des Amoureux — d’où ce couple qui vous dit quelque chose. Le 6, c’est la réussite qui file, et son conseil est de rester calme et humble quand tout va bien ; le Diable, c’est le 6 qui l’a oublié. Dans l’histoire d’Instagram, le 6, c’est Facebook qui investit : tout va plus vite, et personne ne lit plus les conditions. Le Diable en une image : un contrat qui rapporte, et des petites lignes qu’on ne lit plus.
+Quinze se ramène à [6](/fr/bibliotheque/numerologie/chiffre-6/), le nombre des Amoureux — d’où ce couple qui vous dit quelque chose. Le 6, c’est la réussite qui file, et son conseil est de rester calme et humble quand tout va bien ; le Diable, c’est le 6 qui l’a oublié. Dans l’histoire d’Instagram, le 6, c’est Facebook qui investit : tout va plus vite, et personne ne lit plus les conditions. Le Diable en une image : un contrat qui rapporte, et des petites lignes qu’on ne lit plus.
 
 ## Par l’élément : Terre {#element}
 
 Le Diable est une carte de [Terre](/fr/bibliotheque/quatre-elements/element-terre/) : la matière, et tout ce qui a de la valeur pour vous, en argent ou en sentiment. La Terre, c’est la ténacité, l’endurance — et l’entêtement. C’est ce qui tient, et ici, tenir est tout le sujet : le CDI qu’on garde parce qu’il rassure, l’habitude qu’on garde parce qu’elle apaise, la relation qu’on garde parce qu’on la connaît par cœur.
 
-Je dis souvent de la Terre que toutes les richesses ne sont pas en or. Ce qui vous enchaîne, c’est presque toujours quelque chose auquel vous tenez, et c’est justement pour ça qu’on a du mal à y voir une chaîne.
+Ce qui vous enchaîne, c’est presque toujours quelque chose auquel vous tenez, et c’est justement pour ça qu’on a du mal à y voir une chaîne.
 
 ## Par les couleurs {#couleurs}
 
@@ -65,11 +65,11 @@ Du [noir](/fr/bibliotheque/couleurs-tarot/noir/) d’un bord à l’autre : dans
 
 ## Par l’astrologie : Capricorne {#astrologie}
 
-Dans la tradition Golden Dawn, le Diable revient au [Capricorne](/fr/bibliotheque/astrologie/capricorne/) : son verbe est « J’utilise », son animal la chèvre ou le bouc — les cornes que porte la créature. Le Capricorne, c’est l’ambition, la structure, le travail ; bien placé, la responsabilité assumée, mal placé, l’outil devenu maître. Bonne porte d’entrée pour une carte qui parle rarement du mal, et bien plus souvent d’une chose utile qui a pris le dessus. Une clé facultative, comme toute l’astrologie.
+Dans la tradition Golden Dawn, le Diable revient au [Capricorne](/fr/bibliotheque/astrologie/capricorne/) : son verbe est « J’utilise », son animal la chèvre ou le bouc — les cornes que porte la créature. Le Capricorne, c’est l’ambition, la structure, le travail ; bien placé, la responsabilité assumée, mal placé, l’outil devenu maître. Bonne porte d’entrée pour une carte qui parle rarement du mal, et bien plus souvent d’une chose utile qui a pris le dessus.
 
 ## En lecture {#lecture}
 
-À l’endroit, le Diable, c’est un attachement : à un travail, à une personne, à une habitude, à une image de soi. Chaque carte a un plus et un moins, et le plus du Diable est bien réel — le désir, l’ambition, l’énergie de vouloir. Son moins, c’est quand l’envie vous mène par le bout du nez. La question n’est donc pas « qu’est-ce qui ne va pas chez vous ? » mais « qu’est-ce que vous tenez et que vous pourriez poser ? » Parfois, c’est le jeu lui-même : si vous tirez tous les jours sur la même inquiétude, faites une pause avec vos cartes de temps en temps.
+À l’endroit, le Diable, c’est un attachement : à un travail, à une personne, à une habitude, à une image de soi. Chaque carte a un plus et un moins, et le plus du Diable est bien réel — le désir, l’ambition, l’énergie de vouloir. Son moins, c’est quand l’envie vous mène par le bout du nez. La question n’est donc pas « qu’est-ce qui ne va pas chez vous ? » mais « qu’est-ce que vous tenez et que vous pourriez poser ? » Parfois, c’est le jeu lui-même : tirer tous les jours sur la même inquiétude, c’est aussi une chaîne.
 
 Renversé, c’est souvent la chaîne qui commence à glisser : on remarque la boucle, on y porte la main. Ou le même attachement en excès — on s’entête, on le cache mieux, on appelle ça un choix.
 
@@ -93,10 +93,10 @@ Renversé, la chaîne commence souvent à glisser : le premier soir où vous par
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Diable à côté du [Six de Coupes](/fr/bibliotheque/cartes-tarot/six-de-coupes/).
+Cette fois, c’est vous qui tenez le jeu : le Diable sort à côté du [Six de Coupes](/fr/bibliotheque/cartes-tarot/six-de-coupes/).
 
-Les clés de lecture d’abord. Deux 6 : le 15 se ramène à 6, comme le Six de Coupes — une harmonie confortable, une harmonie enchaînée. La Terre et l’Eau : ce qui tient et ce qu’on ressent. Le noir du Diable à côté du jaune chaleureux du Six de Coupes : quelque chose de lourd à côté de quelque chose de doux et d’ancien, qui vient de l’enfance.
+Deux 6 : le 15 se ramène à 6, comme le Six de Coupes — une harmonie confortable, une harmonie enchaînée. La Terre et l’Eau : ce qui tient et ce qu’on ressent. Le noir du Diable à côté du jaune chaleureux du Six de Coupes : quelque chose de lourd à côté de quelque chose de doux et d’ancien, qui vient de l’enfance.
 
 La phrase que vous diriez à voix haute : « Quelque chose que vous avez commencé il y a longtemps parce que ça vous protégeait — une habitude, un rôle dans la famille — vous tient encore, et c’est plus lâche que vous ne le croyez. »
 
-Puis vérifiez. Demandez à la personne si cela lui évoque quelque chose qu’elle fait sans l’avoir décidé, et laissez-la le nommer. Si c’est non, notez un raté. Environ une lecture sur dix rate, à mon propre décompte, et il n’y a aucune honte à ça.
+Puis vérifiez. Demandez à la personne si cela lui évoque quelque chose qu’elle fait sans l’avoir décidé, et laissez-la le nommer. Si c’est non, notez un raté, sans en avoir honte.

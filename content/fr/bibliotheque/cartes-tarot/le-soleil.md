@@ -49,7 +49,7 @@ Regardez ce qui manque : pas de selle, pas de rênes, pas d’adulte, pas de vê
 
 ## Par le nombre : 19 {#nombre}
 
-**19 — 1 + 9 = 10 — la fin du cycle, la transition.** Dix-neuf se ramène à [10](/fr/bibliotheque/numerologie/chiffre-10/), le nombre de la Roue de Fortune : le couloir entre deux pièces, la liberté, le changement, l’air qu’on reprend. Le 10 peut être de courte durée, et il se ramène lui-même à 1 : le Soleil est une ligne d’arrivée qui est aussi un départ.
+Dix-neuf se ramène à [10](/fr/bibliotheque/numerologie/chiffre-10/), le nombre de la Roue de Fortune : le couloir entre deux pièces, la liberté, le changement, l’air qu’on reprend. Le 10 peut être de courte durée, et il se ramène lui-même à 1 : le Soleil est une ligne d’arrivée qui est aussi un départ.
 
 Dans l’histoire d’Instagram, le 10, c’est le moment où les gens ne reconnaissent plus la plateforme, parce qu’elle est devenue tout autre chose : le cycle est bouclé, et une nouvelle histoire commence avec son propre 1. Le Soleil, c’est ce moment vu du bon côté. Vous avez traversé la nuit de la Lune, le 18, et pour l’instant, il n’y a plus rien à traverser.
 
@@ -63,7 +63,7 @@ Du [jaune](/fr/bibliotheque/couleurs-tarot/jaune/) partout — le soleil, les to
 
 ## Par l’astrologie : Soleil {#astrologie}
 
-Dans la tradition Golden Dawn, cette carte revient au [Soleil](/fr/bibliotheque/astrologie/soleil/) lui-même — le placement que tout le monde connaît, la réponse à « vous êtes de quel signe ? ». Il dit le centre : ce autour de quoi une personne organise sa vie, la lumière qu’elle veut montrer. Dans mon propre test, c’était l’un des placements les moins fiables, exact environ une fois sur trois : la vitrine plutôt que la boutique. C’est une bonne façon de lire la carte aussi — ce qui se montre volontiers. Si l’astrologie n’est pas votre clé, laissez-la de côté.
+Dans la tradition Golden Dawn, cette carte revient au [Soleil](/fr/bibliotheque/astrologie/soleil/) lui-même — le placement que tout le monde connaît, la réponse à « vous êtes de quel signe ? ». Il dit le centre : ce autour de quoi une personne organise sa vie, la lumière qu’elle veut montrer. Dans mon propre test, c’était l’un des placements les moins fiables, exact environ une fois sur trois : la vitrine plutôt que la boutique. C’est une bonne façon de lire la carte aussi — ce qui se montre volontiers.
 
 ## En lecture {#lecture}
 
@@ -91,10 +91,10 @@ Cette semaine, notez ce qui a marché, tant que vous vous en souvenez — c’es
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assied, ne vous dit rien, et tire le Soleil à côté du [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/).
+Place à une carte lumineuse : le Soleil, à côté du [Quatre d’Épées](/fr/bibliotheque/cartes-tarot/quatre-de-epees/).
 
-Les clés de lecture d’abord. Les nombres : 19 se ramène à 10, la fin d’un cycle ; le Quatre d’Épées est un 4, la stabilité, le repos après le travail. Les éléments : Feu et Air — de l’énergie, et un mental qui s’est reposé. Les images : le jaune grand ouvert du Soleil à côté de l’immobilité grise du Quatre d’Épées, un chevalier allongé au repos dans une chapelle silencieuse.
+Les nombres : 19 se ramène à 10, la fin d’un cycle ; le Quatre d’Épées est un 4, la stabilité, le repos après le travail. Les éléments : Feu et Air — de l’énergie, et un mental qui s’est reposé. Les images : le jaune grand ouvert du Soleil à côté de l’immobilité grise du Quatre d’Épées, un chevalier allongé au repos dans une chapelle silencieuse.
 
 La phrase que vous diriez à voix haute : « Quelque chose s’est terminé, et ça s’est bien passé. Vous vous êtes reposé ; vous avez le droit de vous lever et d’en profiter maintenant. »
 
-Puis vérifiez. Demandez à la personne ce que cela lui évoque, et laissez-la le dire avant vous. Si ça ne tombe pas juste, c’est un raté, et vous le notez. Quand ça tombe juste, vous comprendrez quelque chose qu’aucune page ne peut donner : on ne peut pas vous raconter ce que ça fait, on ne peut qu’essayer.
+Puis vérifiez. Demandez à la personne ce que cela lui évoque, et laissez-la le dire avant vous. Si ça rate, notez-le. Quand ça tombe juste, prenez le temps d’en profiter avec la personne avant de passer à la suite.

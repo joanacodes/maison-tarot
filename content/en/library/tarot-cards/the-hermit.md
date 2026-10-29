@@ -48,7 +48,7 @@ Notice what isn’t there: no path, no house, no companion, no sun or moon. He h
 
 ## By number: 9 {#number}
 
-**9 — nine — near completion, almost there.** [The number 9](/library/numerology/number-9/) is the finish line in sight: the end of a stage, the last efforts, introspection, patience — while you keep moving. That’s the Hermit’s posture exactly. He has climbed nearly all the way, and instead of celebrating he stops to look inward before the last step.
+[The number 9](/library/numerology/number-9/) is the finish line in sight: the end of a stage, the last efforts, introspection, patience — while you keep moving. That’s the Hermit’s posture exactly. He has climbed nearly all the way, and instead of celebrating he stops to look inward before the last step.
 
 In the Instagram story, 9 is the redesign that ends everything that defined the app, before it becomes something else. The Hermit is that moment in a life: what defined you is closing, and you need a quiet stretch to see what you’ll keep.
 
@@ -56,7 +56,7 @@ In the Instagram story, 9 is the redesign that ends everything that defined the 
 
 The Hermit is an [Earth](/library/four-elements/earth-element/) card, which surprises people who see him as pure spirit. Earth is patience, tenacity, endurance — and stubbornness. It’s the climb done on foot, one step after another, leaning on a staff. Nobody carried him up there.
 
-Earth is also whatever has value for you, money or not. Not all riches are gold: his are a lantern, a staff, and what he learned on the way up.
+Earth is also whatever has value for you, money or not. His riches are a lantern, a staff, and what he learned on the way up.
 
 ## By colours {#colours}
 
@@ -67,8 +67,6 @@ Read only the colours and you have the card: a calm, neutral stretch of life, wi
 ## By astrology: Virgo {#astrology}
 
 In the Golden Dawn tradition, the Hermit corresponds to [Virgo](/library/astrology/virgo/), the sign whose verb is “I analyse”. Virgo is solitary by nature and still wants to be useful to something bigger than itself — the engineer, the adviser to the throne. That’s the Hermit’s lantern: light found alone, then held up for others.
-
-Keep it if astrology helps you. The three lenses above are enough to read the card.
 
 ## In a reading {#reading}
 
@@ -84,7 +82,7 @@ Next to [the High Priestess](/library/tarot-cards/the-high-priestess/), it’s k
 
 ## A reading, as an example {#example}
 
-Say someone sits down, tells you nothing, and draws the Hermit next to the Three of Cups. Lenses first: 9 then 3, the end of a stage and then a first result that works. Earth then Water: something slow and solid, then feelings. Grey and a single yellow light on one card; on the other, three women in bright robes raising their cups.
+The Hermit is alone on his peak; put the Three of Cups beside him and see what changes. 9 then 3: the end of a stage, then a first result that works. Earth then Water: something slow and solid, then feelings. Grey and a single yellow light on one card; on the other, three women in bright robes raising their cups.
 
 The sentence I’d say: “You’ve kept to yourself for a while, working something out on your own, and the people around you are waiting for you to come back — they’re warmer than you think.”
 

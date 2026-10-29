@@ -53,7 +53,7 @@ Ce qui manque : le contact — leurs mains ne se touchent pas. Pas d’alliance,
 
 ## Par le nombre : 6 {#nombre}
 
-**6 — six — l’harmonie retrouvée, l’échange.** Le [chiffre 6](/fr/bibliotheque/numerologie/chiffre-6/), c’est le 3 exalté : la machine est lancée et elle va vite, l’harmonie revient après l’épreuve du 5. Sur cette carte, le 6, c’est l’échange entre deux personnes — et le choix qu’il implique, parce que s’accorder avec quelqu’un, c’est lui dire oui et dire non à autre chose.
+Le [chiffre 6](/fr/bibliotheque/numerologie/chiffre-6/), c’est le 3 exalté : la machine est lancée et elle va vite, l’harmonie revient après l’épreuve du 5. Sur cette carte, le 6, c’est l’échange entre deux personnes — et le choix qu’il implique, parce que s’accorder avec quelqu’un, c’est lui dire oui et dire non à autre chose.
 
 Dans l’histoire d’Instagram de mes pages de numérologie, le 6, c’est Facebook qui décide d’investir : la menace du 5 devient le moteur, tout s’accélère, et personne ne lit plus les conditions. Le conseil du 6, c’est de rester calme et humble quand tout va bien ; une union heureuse mérite quand même qu’on en lise les termes.
 
@@ -69,7 +69,7 @@ Le rouge et le jaune dominent le haut de la carte. Dans [ma grille des couleurs]
 
 ## Par l’astrologie : Gémeaux {#astrologie}
 
-Dans la tradition Golden Dawn, les Amoureux correspondent aux [Gémeaux](/fr/bibliotheque/astrologie/gemeaux/) : « je pense », gouvernés par Mercure, un signe mutable qui change pour communiquer. Des jumeaux, deux de quelque chose — le couple de la carte. Au mieux, les Gémeaux sont le grand reporter qui rapporte exactement ce qui a été dit ; au pire, c’est le téléphone arabe, où la version qui circule n’est plus la vraie. Nuance utile pour une carte d’amour : ce qui se dit, et par qui. Facultatif, comme toute l’astrologie ici.
+Dans la tradition Golden Dawn, les Amoureux correspondent aux [Gémeaux](/fr/bibliotheque/astrologie/gemeaux/) : « je pense », gouvernés par Mercure, un signe mutable qui change pour communiquer. Des jumeaux, deux de quelque chose — le couple de la carte. Au mieux, les Gémeaux sont le grand reporter qui rapporte exactement ce qui a été dit ; au pire, c’est le téléphone arabe, où la version qui circule n’est plus la vraie. Nuance utile pour une carte d’amour : ce qui se dit, et par qui.
 
 ## En lecture {#lecture}
 
@@ -91,16 +91,16 @@ Au travail, les Amoureux posent un choix sur la table : deux propositions d’em
 
 Renversés, c’est le choix évité : un pied dans chaque poste, une activité à côté qui n’obtient jamais de vraie décision, pendant que le temps décide pour vous.
 
-« Quel poste dois-je prendre ? » C’est la question que cette carte attire, et elle se comprend : une grosse décision, deux options honnêtes, l’envie que quelqu’un tranche. Je lis ; vous décidez. Les recruteurs ne sont pas dans la pièce, le salaire relève des décisions d’argent sur lesquelles je ne lis pas, et une carte qui choisirait pour vous vous retirerait la seule part de la décision qui vous appartient. Pour comparer le concret, un conseiller en évolution professionnelle peut vous aider. Une question plus utile : « Qu’est-ce que je choisis en choisissant celui-ci, et à quoi est-ce que je dis non ? » J’en dis plus dans [le tarot pour prendre une décision](/fr/blog/decision-tarot/).
+« Quel poste dois-je prendre ? » C’est la question que cette carte attire, et elle se comprend : une grosse décision, deux options honnêtes, l’envie que quelqu’un tranche. Les recruteurs ne sont pas dans la pièce, le salaire relève des décisions d’argent sur lesquelles je ne lis pas, et une carte qui choisirait pour vous vous retirerait la seule part de la décision qui vous appartient. Pour comparer le concret, un conseiller en évolution professionnelle peut vous aider. Une question plus utile : « Qu’est-ce que je choisis en choisissant celui-ci, et à quoi est-ce que je dis non ? » J’en dis plus dans [le tarot pour prendre une décision](/fr/blog/decision-tarot/).
 
 Cette semaine, tirez deux cartes, une pour chaque voie, et décrivez-les avant de décider laquelle est « la meilleure ». Écrivez une phrase pour chacune : souvent, vous aviez déjà choisi.
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : une personne s’assoit, ne vous dit rien, et tire les Amoureux à côté du [Deux de Pentacles](/fr/bibliotheque/cartes-tarot/deux-de-pentacles/) — un jeune homme qui jongle avec deux pentacles reliés par un ruban en forme de huit, des bateaux sur de hautes vagues derrière lui.
+Dans un tirage imaginé pour s’exercer, les Amoureux tombent à côté du [Deux de Pentacles](/fr/bibliotheque/cartes-tarot/deux-de-pentacles/) — un jeune homme qui fait danser deux pentacles dans une boucle de ruban en forme de huit, pendant que des bateaux montent et descendent sur de hautes vagues derrière lui.
 
-D’abord les clés de lecture. 6 puis 2 : un choix qui devrait apporter l’harmonie, à côté d’un 2 qui pèse encore. L’Air puis la Terre : une décision sur quelque chose de concret — l’argent, le temps, un poste, un logement. Le rouge et le jaune des Amoureux, une décision en pleine lumière, à côté d’une carte en mouvement.
+6 puis 2 : un choix qui devrait apporter l’harmonie, à côté d’un 2 qui pèse encore. L’Air puis la Terre : une décision sur quelque chose de concret — l’argent, le temps, un poste, un logement. Le rouge et le jaune des Amoureux, une décision en pleine lumière, à côté d’une carte en mouvement.
 
 Ce que je dirais à voix haute : « Il y a un choix devant vous, et vous ménagez la chèvre et le chou pour ne pas avoir à trancher. »
 
-Puis je vérifierais : y a-t-il quelque chose dont vous gardez deux versions pour ne renoncer à aucune ? Si ça tombe juste, la question suivante, c’est laquelle la personne garderait s’il fallait décider ce soir. Sinon, c’est un raté, et je le dis franchement.
+Puis je vérifierais : y a-t-il quelque chose dont vous gardez deux versions pour ne renoncer à aucune ? Si ça tombe juste, la question suivante, c’est laquelle la personne garderait s’il fallait décider ce soir. Sinon, je dis franchement que ça a raté.

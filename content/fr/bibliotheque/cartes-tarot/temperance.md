@@ -46,7 +46,7 @@ Remarquez ce qui manque : pas de hâte, pas de public, pas d’instrument de mes
 
 ## Par le nombre : 14 {#nombre}
 
-**14 — 1 + 4 = 5 — le conflit, l’épreuve, faire avec ce qui reste.** Quatorze se réduit au [chiffre 5](/fr/bibliotheque/numerologie/chiffre-5/), le nombre de l’essai : créer, tester, ne pas avoir peur d’échouer, accepter ses erreurs, faire avec ce qui reste. Sur Tempérance, le 5 n’est pas une bagarre. C’est l’épreuve de l’alliage : on verse, on regarde, on ajuste.
+Quatorze se réduit au [chiffre 5](/fr/bibliotheque/numerologie/chiffre-5/), le nombre de l’essai : créer, tester, ne pas avoir peur d’échouer, accepter ses erreurs, faire avec ce qui reste. Sur Tempérance, le 5 n’est pas une bagarre. C’est l’épreuve de l’alliage : on verse, on regarde, on ajuste.
 
 Le conseil du 5, c’est d’éviter les conflits inutiles et d’être honnête avec soi-même sur la situation — exactement ce que fait l’ange avec ses deux coupes. Dans l’histoire d’Instagram, le 5, c’est l’épreuve, un acheteur à la porte ou une fonction qui fait un flop, et on découvre ce qui tient. Tempérance, c’est ce qui vient après : mélanger ce qui reste pour en faire quelque chose qui marche.
 
@@ -66,8 +66,6 @@ Lues dans l’ordre : la paix devant, l’énergie derrière, les sentiments à 
 
 Dans la tradition Golden Dawn, Tempérance correspond au [Sagittaire](/fr/bibliotheque/astrologie/sagittaire/), dont le verbe est « Je vois, j’essaie ». Le Sagittaire, c’est le voyageur qui accumule les savoirs en partant, puis les mélange pour voir ce qu’ils donnent ensemble — le travail même de l’ange avec ses deux coupes. C’est aussi le signe qui juge plus lentement que les autres : Tempérance ne choisit pas entre ses coupes, elle les combine.
 
-Gardez cette clé si elle vous aide ; les autres portent déjà la carte.
-
 ## En lecture {#lecture}
 
 À l’endroit, Tempérance, c’est la juste mesure trouvée en essayant. Deux choses qui semblaient incompatibles — le travail et le repos, deux personnes, deux côtés de vous-même — mélangées en un équilibre qui tient. C’est patient, ajusté, rarement spectaculaire : mettre de l’eau dans son vin, au sens propre comme au figuré. Quand elle sort, le message est souvent : vous êtes plus près que vous ne le pensez, continuez d’ajuster.
@@ -82,8 +80,8 @@ Renversée, le mélange tourne mal : trop d’une coupe, rien de l’autre. L’
 
 ## Exemple de tirage {#exemple}
 
-Imaginons : quelqu’un s’assoit, ne vous dit rien, et tire Tempérance à côté du Deux de Pentacles. Les clés de lecture d’abord : 14, donc 5, puis 2 — l’essai, puis deux choses à tenir ensemble. Le Feu puis la Terre : de l’énergie, puis quelque chose de concret, de l’argent ou du temps. Du blanc et du rouge sur la première carte ; sur la seconde, un jeune homme qui jongle avec deux pièces devant une mer agitée.
+Tempérance, avec le Deux de Pentacles à côté : de quoi vous exercer. 14, donc 5, puis 2 — l’essai, puis deux choses à tenir ensemble. Le Feu puis la Terre : de l’énergie, puis quelque chose de concret, de l’argent ou du temps. Du blanc et du rouge sur la première carte ; sur la seconde, un jeune homme qui jongle avec deux pièces devant une mer agitée.
 
 La phrase que je dirais : « Vous jonglez avec deux choses très concrètes — le travail et autre chose, peut-être — et plutôt que d’en lâcher une, vous essayez de les faire tenir ensemble. Vous y arrivez, doucement. »
 
-Puis la vérification. Y a-t-il un équilibre que la personne cherche ? Deux choses entre lesquelles elle refuse de choisir ? Sinon, c’est un raté ; je le note et je passe à la suite.
+Puis la vérification. Y a-t-il un équilibre que la personne cherche ? Deux choses entre lesquelles elle refuse de choisir ? Sinon, je l’inscris comme un raté, sans m’y attarder.
