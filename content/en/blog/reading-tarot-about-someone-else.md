@@ -53,4 +53,4 @@ And if you want to know what the other person thinks, there’s a way that needs
 
 ## A reading about you, this week {#this-week}
 
-Next time you reach for the deck to ask about someone else, rewrite the question so it starts with “I”. Not “what does he feel?” but “what do I feel, and what do I want to do about it?” Draw one card and answer it in three lines. And if that person does say yes one day, here’s [how to read tarot for someone else with care](/blog/read-tarot-for-someone-else/).
+Next time you reach for the deck to ask about someone else, rewrite the question so it starts with “I”. Not “what does he feel?” but “what do I feel, and what do I want to do about it?” Draw one card and answer it in three lines. And if that person does say yes one day, these are [the rules I follow once someone has agreed](/blog/read-tarot-for-someone-else/).

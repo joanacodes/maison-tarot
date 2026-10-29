@@ -9,9 +9,9 @@ tags: ["cleanse tarot deck", "how to cleanse tarot cards", "sage and tarot", "ta
 image: "covers/cleanse-tarot-deck.jpg"
 imageAlt: "A tarot deck in its open cardboard box on a kitchen windowsill, next to a small dish of coarse salt"
 imagePrompt: "A tarot deck in its open cardboard box on a kitchen windowsill next to a small plain dish of coarse salt, a tap out of focus behind. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "No, you don’t need to cleanse your tarot deck: nothing gets stuck in the cards. Readers cleanse with sage smoke, moonlight, salt, a knock on the deck or a long shuffle, usually to clear what they feel the cards have absorbed, or to mark a fresh start. If a ritual helps you settle before you read, keep it. In 2021 I sold sage, candles and ‘channelled’ cards. I stopped, and nothing in any of it improved a reading. What I suggest instead costs nothing: put the deck away for a while."
+summary: "No, you don’t need to cleanse your tarot deck: nothing gets stuck in the cards. Readers cleanse with sage smoke, moonlight, salt, a knock on the deck or a long shuffle, usually to clear what they feel the cards have absorbed, or to mark a fresh start. If a ritual steadies you before you read, keep it. In 2021 I sold sage, candles and ‘channelled’ cards. I stopped, and nothing in any of it improved a reading. What I suggest instead costs nothing: put the deck away for a while."
 ---
-No. Nothing gets stuck in your cards, and they don’t need clearing before they’ll read well. If a ritual helps you settle, keep it; I sold sage in 2021, and I’m not here to laugh at anyone who still uses it.
+No. Nothing gets stuck in your cards, and they don’t need clearing before they’ll read well. Any ritual that calms you before a reading is worth keeping; I sold sage in 2021, and I’m not here to laugh at anyone who still uses it.
 
 ## What cleansing a deck means {#what-it-means}
 
@@ -29,7 +29,7 @@ Here are the most common, described the way the people who use them would descri
 - *Moonlight.* The deck is left on a windowsill overnight, usually at the full moon, to be cleared and “recharged” by its light. Some readers lay the cards out face up so each one gets its share.
 - *Salt.* The deck rests next to a dish of salt, or sits in a sealed bag on a bed of salt, because salt is a traditional purifier. If you do this, keep the cards dry: cardboard and damp don’t mix.
 - *Knocking.* You knock on the deck, once or three times, to wake it up or knock out the last reading. It takes a second, so readers often do it between two people.
-- *Shuffling.* A long, thorough shuffle, or putting all seventy-eight cards back in their original order, one by one, to start again from zero.
+- *Shuffling.* A long, thorough shuffle, or sorting all seventy-eight cards back into the order they came in, to start again from zero.
 
 Each of these does one thing for certain: it makes you stop for a moment before you read again.
 

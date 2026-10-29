@@ -47,4 +47,4 @@ If you want one card instead of three: the [Devil](/library/tarot-cards/the-devi
 
 Looking at a thing you'd rather not is uncomfortable, and discomfort is normal here. What isn't normal is the floor giving way. If you draw the cards and what comes up is not "I'm envious" but something that makes it hard to breathe, or something that's been there for years and you've never told anyone — stop. That isn't shadow work; it's the edge of something that needs a professional, and there's no failure in that.
 
-The cards will still be there afterwards. And you'll read them better, because the thing you were avoiding will have a name.
+The cards will still be there afterwards. You'll read them better, too, because the thing you were avoiding will have a name.

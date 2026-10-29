@@ -9,13 +9,13 @@ tags: ["is tarot a scam", "tarot scam", "psychic scam", "fake tarot reading", "p
 image: "covers/is-tarot-a-scam.jpg"
 imageAlt: "A folded paper receipt beside a closed deck of cards on a bare wooden counter, a coat sleeve at the edge of the frame"
 imagePrompt: "A folded paper receipt lying beside a closed deck of cards on a bare wooden counter, the sleeve of a coat at the edge of the frame. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Tarot itself isn’t a scam: it’s a deck of 78 pictures and a way of reading them that anyone can learn, and honest readers say plainly that nobody knows how it works. What can be a scam is the business built around some readings. The difference shows at the end. A reading finishes, names its misses and hands the decision back to you. A sales hook leaves something open, a danger, a secret, a next step, and puts a price on closing it. If a reading ends with a reason to pay again, you’ve met a hook."
+summary: "Tarot itself isn’t a scam: it’s 78 printed pictures plus a reading skill anyone can learn, and honest readers say plainly that nobody knows how it works. What can be a scam is the business built around some readings. The difference shows at the end. A reading finishes, names its misses and hands the decision back to you. A sales hook leaves something open, a danger, a secret, a next step, and puts a price on closing it. If a reading ends with a reason to pay again, you’ve met a hook."
 ---
 Tarot isn’t a scam. A deck is 78 pictures, and reading them is a skill anyone can learn. What can be a scam is a business built around readings: one where the reading is the advertisement and the real product comes afterwards. The two look different, and the difference shows most clearly at the end.
 
 ## The cards aren’t the problem {#the-cards}
 
-A tarot deck is a set of printed images; the one I use was drawn in 1909 by Pamela Colman Smith. The cards don’t promise anything. Reading them means looking at a picture and saying what it shows about the person in front of you, and anyone can learn to do it.
+A tarot deck is a set of printed images; mine is Pamela Colman Smith’s, from 1909. The cards don’t promise anything. Reading them means looking at a picture and saying what it shows about the person in front of you, and anyone can learn to do it.
 
 What honest readers can’t tell you is how it works. Nobody knows. I count my readings: about nine in ten hold, about one in ten misses, and I say which. That isn’t a guarantee; it’s the opposite of one. It’s also why I’m comfortable with the label “for entertainment”.
 
@@ -29,7 +29,7 @@ A reading is complete in itself. It starts, it says what it sees, and it ends.
 
 The reader can work without your story; I ask people to tell me nothing. They describe what’s on the cards and what it suggests. When something doesn’t land, they say so: no “it’ll make sense later”, no extra card to rescue it. At the end, the decision goes back to you, and nothing is left hanging.
 
-Even a heavy card leaves you free. Say someone draws the Tower.
+Even a heavy card leaves you free, the Tower included.
 
 {{< cards "ar16" >}}
 

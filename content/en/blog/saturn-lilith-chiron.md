@@ -9,9 +9,9 @@ tags: ["Saturn in astrology", "Black Moon Lilith", "Chiron in astrology", "birth
 image: "covers/saturn-lilith-chiron.jpg"
 imageAlt: "Three tarot cards face down in a row beside a printed birth chart with three placements circled in pencil"
 imagePrompt: "Three tarot cards lying face down in a row beside a printed birth chart with three small pencil circles on a wooden desk. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "When I tested my birth chart placement by placement, tick or cross, most of it held 30 to 40% of the time. Saturn, Lilith and Chiron came in far higher, at 75 to 90%, for me and for the people I tested afterwards. Saturn is the hardest lesson: where you’re limited and slowly become solid. Lilith, a calculated point on the Moon’s orbit, is what you learned to hide. Chiron, a small body between Saturn and Uranus, is the wound you keep circling and end up helping others with. All three describe a difficulty, which may be why they ring so true."
+summary: "When I tested my birth chart one placement at a time, most of it held 30 to 40% of the time. Saturn, Lilith and Chiron came in far higher, at 75 to 90%, in my chart and then in the charts I checked afterwards. Saturn is the hardest lesson: where you’re limited and slowly become solid. Lilith, a calculated point on the Moon’s orbit, is what you learned to hide. Chiron, a small body between Saturn and Uranus, is the wound you keep circling and end up helping others with. All three describe a difficulty, which may be why they ring so true."
 ---
-When I tested my birth chart box by box, most placements held 30 to 40% of the time. Three held far more often — 75 to 90%, for me and then for the people I tested: Saturn, Lilith and Chiron. All three describe a difficulty: the hardest lesson, the thing you learned to hide, the wound you keep circling.
+When I tested my birth chart box by box, most placements held 30 to 40% of the time. Three held far more often — 75 to 90%, first in my own chart and then in everyone else's I checked: Saturn, Lilith and Chiron. All three describe a difficulty: the hardest lesson, the thing you learned to hide, the wound you keep circling.
 
 The Library gives each of them a page. This one puts them side by side: what each is, plainly, what “held” means, and how to check yours. In tarot I read them with three cards: the World for Saturn, the Devil for Lilith, the Hermit for Chiron.
 
@@ -51,7 +51,7 @@ Say someone's Chiron sits in the third house, the house of speech and siblings. 
 
 ## Why these three, and what I don't claim {#what-i-dont-claim}
 
-All three describe a difficulty, and people may know their difficulties better than their qualities. That's a hypothesis too. It's also a warning: a hard sentence can feel true because it's hard. I checked these three more than the rest, because I didn't want the result to be true.
+All three describe a difficulty, and people may know their difficulties better than their qualities. That's a hypothesis too. It's also a warning: a hard sentence can feel true because it's hard. These three got more checking than the others, precisely because I was hoping the result was wrong.
 
 The usual caveat applies: I counted by hand, mostly on people I knew, and the tally sits in a notebook — it was never research.
 

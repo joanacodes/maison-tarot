@@ -23,7 +23,7 @@ What it doesn’t mean is “this is a joke”. A film is entertainment, and a g
 
 ## Where the habit comes from {#where-it-comes-from}
 
-In the UK, readers often explain the habit with an old law aimed at fake mediums, the Fraudulent Mediums Act 1951. What I can say for certain is that the Act [was repealed in 2008](https://www.legislation.gov.uk/ukpga/Geo6/14-15/33/introduction) and replaced by the Consumer Protection from Unfair Trading Regulations 2008, general rules for every trader rather than a law about mediums. The phrase outlived the law it’s remembered for.
+In the UK, readers often explain the habit with an old law aimed at fake mediums, the Fraudulent Mediums Act 1951. What I can say for certain is that the Act [was repealed in 2008](https://www.legislation.gov.uk/ukpga/Geo6/14-15/33/introduction) and replaced, the same year, by the consumer protection regulations on unfair trading: general rules for every trader rather than a law about mediums. The phrase outlived the law it’s remembered for.
 
 The rest of that story, France included, and what has changed since, is in [is tarot reading legal?](/blog/is-tarot-reading-legal/) I read cards; I’m not a lawyer, and this isn’t legal advice.
 
@@ -41,7 +41,7 @@ Because it’s true. Nobody knows how tarot works, me included. I count my readi
 
 Because it hands the decision back. What I say in a reading is information, never an order: what you do next follows your own feeling, not my words. The phrase puts that in writing, where both of us can see it.
 
-Say someone draws the Eight of Cups.
+One case: the Eight of Cups turns up for someone.
 
 {{< cards "cu08" >}}
 

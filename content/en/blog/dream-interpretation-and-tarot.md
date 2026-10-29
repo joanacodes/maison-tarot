@@ -25,7 +25,7 @@ I lean on the third, with the first as a starting point. A picture doesn't mean 
 
 In late 2020 I had vivid dreams. Every night, a tsunami came. It was gigantic, and it was gentle, and it was telling me to surrender.
 
-I didn't. I hid in a house with other people.
+I didn't. Along with other people, I hid inside a house.
 
 Another night, I dreamt I was dying, and I was disappointed to wake up.
 
@@ -43,7 +43,7 @@ As for dying in a dream: dream dictionaries usually read it as the end of a stag
 
 {{< cards "ar18 ar02 ar13" >}}
 
-The Moon is night, uncertainty, the path you can't see the end of. The High Priestess is Water too — her robe falls like a waterfall — and she keeps a hidden side, like still water: a surface, and what's under it. And [Death](/library/tarot-cards/death/) isn't about dying either. It's the harvest: a field cleared and made ready to plant again. **A dream image, like a card, asks a question before it gives an answer.**
+The Moon is night, uncertainty, the path you can't see the end of. The High Priestess is Water too: her robe spills to the floor like a waterfall; she also keeps a hidden side, like still water — a surface, and what's under it. And [Death](/library/tarot-cards/death/) isn't about dying either. It's the harvest: a field cleared and made ready to plant again. **A dream image, like a card, asks a question before it gives an answer.**
 
 ## How to use tarot on a dream {#how-to}
 
@@ -51,7 +51,7 @@ The Moon is night, uncertainty, the path you can't see the end of. The High Prie
 2. Circle the element: water, fire, air, earth.
 3. Note how you felt on waking. It often says more than the plot.
 4. Draw one card with the question: “What is this dream pointing at in my day?” Not “what will happen?”
-5. Read the card through its number, element and colours, then set it next to the dream. Where they agree, look there.
+5. Take in the card's colours, number and element, and only then set it next to the dream. Where they agree, look there.
 6. If nothing lands, write that down too, and leave it.
 
 Recurring images are worth following over weeks. If something keeps coming back, it's often something you keep pushing away — which is where [shadow work](/blog/shadow-work-beginners/) begins.
@@ -64,4 +64,4 @@ A dream of someone you've lost can be a visit, a memory, or your mind sorting a 
 
 ## Try it for one week {#next-step}
 
-Keep a pen by the bed. Each morning, write the dream, circle the element, draw one card, and write one sentence that links them. At the end of the week, read the seven pages in a row; the pattern is usually in the feelings, not the stories. If you'd like to learn the lenses properly first, the [free path](/learn-tarot/) takes them one at a time.
+Keep a pen by the bed. Each morning, write the dream, circle the element, draw one card, and write one sentence that links them. At the end of the week, read the seven pages in a row; the pattern is usually in the feelings, not the stories. Learning the lenses first will make the week richer: the [free path](/learn-tarot/) takes them one at a time.

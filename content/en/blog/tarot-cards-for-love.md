@@ -15,7 +15,7 @@ Any card can come up in a love reading, but some really do talk about relationsh
 
 ## What makes a tarot card a love card {#what-makes-a-love-card}
 
-Three lenses do most of the sorting. The Cups belong to [Water](/library/four-elements/water-element/): emotions, relationships, hidden strengths. In my notes, Water will bear you along if you trust it, and it can just as easily sink you; a feeling ignored for too long seeps in slowly, like damp in a wall. Then the numbers: 2 is two parties binding together, a contract; 6 is harmony, the thing running well. And the energies: a relationship is also a balance between holding and acting, whoever does which.
+Three lenses do most of the sorting. The Cups belong to [Water](/library/four-elements/water-element/): emotions, relationships, hidden strengths. In my notes, Water will bear you along if you trust it, and it can just as easily sink you; a feeling ignored for too long works its way in, like damp creeping through plaster. Then the numbers: 2 is two parties binding together, a contract; 6 is harmony, the thing running well. And the energies: a relationship is also a balance between holding and acting, whoever does which.
 
 **A love card describes the bond and how you’re living it; it doesn’t tell you what the other person thinks.**
 
@@ -35,7 +35,7 @@ Three more open doors. [The Magician](/blog/magician-tarot-love/) is the first m
 
 ## The cards of turning points {#turning-points}
 
-These say something is moving, not what to do about it. The [Wheel of Fortune](/blog/wheel-of-fortune-tarot-love/) is a turning point, and your part in it: my notes say the wheel turns when you put your hand to it. [Judgement](/blog/judgement-tarot-love/) is a second look at a relationship, neither good nor bad. [The Hanged Man](/blog/hanged-man-tarot-love/) is a pause, a new angle, and what to do while you wait.
+These say something is moving, not what to do about it. The [Wheel of Fortune](/blog/wheel-of-fortune-tarot-love/) is a turning point, and your part in it: my notes say the wheel turns when you put your hand to it. [Judgement](/blog/judgement-tarot-love/) means taking stock of a relationship again — neither good nor bad. [The Hanged Man](/blog/hanged-man-tarot-love/) is a pause, a new angle, and what to do while you wait.
 
 [Death](/blog/death-tarot-love/) ends a way of being together — not a person, and not necessarily the relationship. [The Tower](/blog/tower-tarot-love/) is when things shake, and how to steady yourself. [The Moon](/blog/moon-tarot-love/) is uncertainty, and how to read what moves under the surface without taking a fear for a fact.
 
@@ -43,7 +43,7 @@ These say something is moving, not what to do about it. The [Wheel of Fortune](/
 
 The [Three of Swords](/blog/three-of-swords-tarot-love/) is heartbreak, though my notes also read it as a pact sealed in blood, which changes a lot when it sits next to the Two of Cups. The [Five of Cups](/blog/five-of-cups-tarot-love/) mourns what spilled; two cups are still standing behind him. The [Nine of Swords](/blog/nine-of-swords-tarot-love/) is the 3 a.m. worry, and how to quiet it.
 
-The [Eight of Swords](/blog/eight-of-swords-tarot-love/) is feeling trapped while holding every tool — the blindfold can come off. The [Ten of Swords](/blog/ten-of-swords-tarot-love/) is the worst drawing in the deck, with dawn on its horizon. [The Devil](/blog/devil-tarot-love/) is attachment, with chains loose enough to lift.
+The [Eight of Swords](/blog/eight-of-swords-tarot-love/) is feeling trapped while holding every tool — the blindfold can come off. The [Ten of Swords](/blog/ten-of-swords-tarot-love/) looks like the cruellest picture of the 78, yet dawn is breaking on its horizon. [The Devil](/blog/devil-tarot-love/) is attachment, though nothing stops the pair from taking off their chains.
 
 {{< cards "ar13 ar16 ar15 sw03 cu05 sw10" >}}
 
@@ -53,7 +53,7 @@ Pairs change all of this. The Lovers next to the Devil isn’t the Lovers next t
 
 “Will he come back?” “What does she think of me?” “Is he seeing someone?” I understand why these come — they come from missing someone, or from fear. But they’re about a person who isn’t in the room. A reading done without someone’s yes is a small intrusion, like opening their wardrobe uninvited; and someone read without their knowledge stays closed: what reaches you is a fragment, and guesses fill the gaps.
 
-The same goes for looking up a crush’s birth chart. My notes are short on that one: don’t spoil what you could find out together. These questions also keep you waiting on someone else’s life. A gentler question puts you back in yours: “What do I need from a relationship right now?” or “What am I still holding on to?” I explain this one in [‘Will they come back?’ and a kinder question](/blog/will-they-come-back-tarot/), and the wider rule in [reading tarot about someone else](/blog/reading-tarot-about-someone-else/).
+The same goes for looking up a crush’s birth chart. My notes are short on that one: don’t spoil what you could find out together. These questions also keep you waiting on someone else’s life. A gentler question puts you back in yours: “What do I need from a relationship right now?” or “What am I still holding on to?” I explain this one in [‘Will they come back?’ and a better question to ask](/blog/will-they-come-back-tarot/), and the wider rule in [reading tarot about someone else](/blog/reading-tarot-about-someone-else/).
 
 ## A love reading to try {#try}
 

@@ -21,7 +21,7 @@ It's especially common in France, where many readers first met the Tarot de Mars
 
 ## What you gain {#what-you-gain}
 
-A smaller deck to learn. Twenty-two scenes, each with a name and a story you can tell without a book. Draw one a day, set it aside, and you'll have met them all in twenty-two days.
+A smaller deck to learn. Twenty-two scenes, each one named, each one a story you can follow with no guidebook open. Draw one a day, set it aside, and you'll have met them all in twenty-two days.
 
 Readings that speak loudly. Each major describes something that takes months or years: a beginning with no plan, a long withdrawal, an ending that clears the ground. When the question is “what is this period of my life about?”, a majors-only spread answers in the right register.
 

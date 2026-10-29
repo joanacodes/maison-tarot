@@ -9,17 +9,17 @@ tags: ["11:11 meaning", "seeing 11:11", "11:11 make a wish", "mirror hours", "an
 image: "covers/11-11-meaning.jpg"
 imageAlt: "A plain round wall clock without numerals above a kitchen doorway, showing eleven minutes past eleven."
 imagePrompt: "A plain round wall clock without numerals hanging above a kitchen doorway, its hands showing eleven minutes past eleven, seen slightly from below. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Seeing 11:11 everywhere means glancing at a clock exactly when it shows four ones, again and again. Many people take it as a sign: make a wish, you’re on the right track, pay attention. Read through numerology, 11:11 is the 1 of beginnings repeated, or an 11 that reduces to 2 — two things being weighed, an agreement, a choice. In the Rider-Waite-Smith deck, card 11 is Justice, with her scales. Either way, the useful part is the pause: a coincidence is a good moment to ask yourself what you’re weighing right now."
+summary: "Seeing 11:11 everywhere means glancing at a clock exactly when it shows four ones, again and again. Many people take it as a sign: make a wish, you’re on the right track, pay attention. Read through numerology, 11:11 is the 1 of beginnings repeated, or an 11 that reduces to 2 — two things being weighed, an agreement, a choice. In the Rider-Waite-Smith deck, card 11 is Justice, with her scales. Either way, the useful part is the pause: a coincidence like this is a chance to ask yourself what you’re weighing right now."
 ---
 Seeing 11:11 means glancing at a clock exactly when it shows four ones — and then noticing it again, and again. Many people take it as a sign: make a wish, you’re on the right track, pay attention.
 
-Read through numbers, 11:11 is a 1 said four times, or an 11 that reduces to 2: a beginning, or two things being weighed. Either way, it’s a good moment to ask yourself a question.
+Read through numbers, 11:11 is a 1 said four times, or an 11 that reduces to 2: a beginning, or two things being weighed. Either way, it hands you something to ask yourself before the clock moves on.
 
 ## What 11:11 means {#meaning}
 
 11:11 is the one minute on the clock where every digit is a 1. “Seeing 11:11 everywhere” means catching it often enough that it stops feeling like chance. You look up from your laptop and it’s 11:11. That night, the microwave says 11:11. The next morning, again.
 
-The readings people give it vary. The best known is a custom many of us learned as children: make a wish at 11:11. Others see it as a sign that they’re aligned with what they want, a door opening, or a message from angels or guides. It’s the most famous of the [angel numbers](/blog/angel-numbers/), the repeated sequences people notice on receipts and number plates.
+The readings people give it vary. The best known is a custom many of us learned as children: make a wish at 11:11. Others see it as a sign that they’re aligned with what they want, a door opening, or a message from angels or guides. It’s the most famous of the [angel numbers](/blog/angel-numbers/), those strings of one repeated digit that seem to follow some people from receipts to number plates.
 
 **Whatever you put behind it, 11:11 is a pause someone handed you; what you do with the pause is yours.**
 
@@ -27,7 +27,7 @@ The readings people give it vary. The best known is a custom many of us learned 
 
 There are three ways to read it, and they don’t contradict each other.
 
-- The 1, four times. In the cycle I teach, 1 is the initiator, the rough diamond, the start of something. Its advice is humility: get ready to learn.
+- The 1, four times. In the cycle I teach, 1 opens things: a diamond still in the rough, the first step of a cycle. What it asks for is humility: get ready to learn.
 - The 11. Many numerologists call it a master number and leave it as it is. I reduce it the way I reduce the major arcana: 1 + 1 = 2. And [number 2](/library/numerology/number-2/) is the moment two sides join forces and sign something that ties them. It counsels you to go through the terms before signing, and to set what you’d gain against what you’d give up. Its flip side: stubbornness, solitude, the ego digging in.
 - The whole thing. 1 + 1 + 1 + 1 = 4: stability, what’s been built.
 

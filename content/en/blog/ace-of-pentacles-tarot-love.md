@@ -29,7 +29,7 @@ Lay the two together and the card says that something small, real and worth keep
 
 If someone drew this card for a love question and told me nothing first, my first words would be close to: “Something small and solid is being offered to you, and you’re wondering whether to trust it.” Then I’d stop. They tell me if that’s true, and what the offer is. What it turns out to be depends on where they stand.
 
-When you’re single, the Ace of Pentacles is rarely a lightning bolt. It points at ground. A life steady enough to welcome someone, a week with room in it, the practical steps that make meeting people possible: saying yes to the dinner, joining the class, staying for a second drink. Say someone draws it after months of waiting for chemistry to strike. The card suggests looking for something slower — a person, or a version of yourself, you can build with.
+When you’re single, the Ace of Pentacles is rarely a lightning bolt. It points at ground. A life steady enough to welcome someone, a week with room in it, the practical steps that make meeting people possible: saying yes to the dinner, joining the class, staying for a second drink. If it turns up after months of waiting for chemistry to strike, the card suggests looking for something slower — a person, or a version of yourself, you can build with.
 
 When you’re together, it’s a concrete step. Moving in, a lease signed with both names, a shared project, a habit that makes the week work. Not a declaration: a foundation. It’s also a good moment to check what the relationship actually rests on. List what each of you has put on the table this month — not feelings, things: hours, money, chores, plans. If one column is much longer than the other, the coin is being carried by one hand.
 
@@ -47,7 +47,7 @@ When something finally feels solid, it’s natural to want a guarantee. “Is th
 
 I don’t read on the future of two people: half of it belongs to someone absent from the table, and a card can’t sign a contract on their behalf. The Ace offers a seed, not a promise. Some people also read this card as a partner with money. It says nothing about anyone’s bank account, and money decisions aren’t something I read on ([why a coin in a love reading isn’t a bank balance](/blog/tarot-cards-for-money/)).
 
-A kinder question: “What am I ready to build, and what would a first concrete step look like this month?” That one has an answer you can carry out.
+The coin can answer something else: “What am I ready to build, and what would a first concrete step look like this month?” That one has an answer you can carry out.
 
 ## Beside the Two of Cups, the King of Cups or Death {#neighbours}
 
@@ -63,4 +63,4 @@ Next to Death, the harvest and the seed in the same spread: something has ended,
 
 Write down three things your relationship — or your life, if you’re single — is actually built on today. Then add one thing you’d like to build, in concrete terms: a day, a habit, a place. Keep the list, and look at it again in a month.
 
-If you’d like to try reading cards this way in company, the [free events](/events/) are where I’d begin.
+Reading a card this way flows better with others around the table; the [free events](/events/) give you exactly that.

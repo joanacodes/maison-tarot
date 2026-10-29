@@ -9,7 +9,7 @@ tags: ["strange tarot reading stories", "weird tarot experiences", "tarot reader
 image: "covers/weird-tarot-reading-stories.jpg"
 imageAlt: "A handwritten letter and its open envelope on a wooden table, a single card lying face down beside them"
 imagePrompt: "A handwritten letter and its open envelope on a wooden table, a single tarot card lying face down beside them. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "The strangest things in my readings were rarely dramatic. Someone wrote in a Facebook review that they got chills when I mentioned spells. The more I read, the more messages came before I’d even shuffled, until the cards were mostly there for the person to see. And a man on a pen-pal app wrote back to ask whether I could read minds, or was a magician. None of it proves how tarot works, and about one reading in ten still missed. These are things that happened to one reader, told as they happened."
+summary: "The strangest things in my readings were rarely dramatic. Someone wrote in a Facebook review that they got chills when I mentioned spells. The more I read, the more messages came before I’d even shuffled, until the cards were mostly there for the person to see. And a man on a pen-pal app wrote back wanting to know if I was a mind reader or a magician. None of it proves how tarot works, and about one reading in ten still missed. These are things that happened to one reader, told as they happened."
 ---
 The strangest things that happened in my readings weren’t spectacular. A one-line review I still smile at, cards that started arriving late to their own reading, and a stranger who wanted to know if I was a magician. Here they are, told as they happened, with nothing added.
 
@@ -27,7 +27,7 @@ Another review came from someone I read during a live. People remember a reading
 
 This one crept up on me. In my notes from 2021, I wrote that the more I read, the more messages came before I’d shuffled. Today I use the cards mostly because the person wants to see them.
 
-It sounds grander than it is. The cards help you focus, or unfocus, so that your own thoughts and biases step aside. After enough readings, some of that happens without them, a little like a cook who stops measuring the salt. I’ve written about whether [you still need the cards once you can read](/blog/do-you-still-need-tarot-cards/), and why mine stay on the table.
+It sounds grander than it is. The cards sharpen your attention, or loosen it, until your own thoughts and biases get out of the way. After enough readings, some of that happens without them, a little like a cook who stops measuring the salt. I’ve written about whether [you still need the cards once you can read](/blog/do-you-still-need-tarot-cards/), and why mine stay on the table.
 
 **It isn’t a power I have and you don’t; it’s what practice looks like after a few hundred readings.** The people I’ve taught were all reading after a try or three, and this is further along the same road.
 
@@ -35,7 +35,7 @@ If you read already, there’s a way to watch it happen in yourself. Before you 
 
 ## The man who asked if I was a magician {#magician}
 
-For a while I practised on a pen-pal app, sending “letters” to strangers. One man wrote back to ask whether I could read minds, or whether I was a magician.
+For a while I practised on a pen-pal app, sending “letters” to strangers. One man answered with a question of his own: could I read minds, or was I a magician?
 
 I laughed, and then I saw his point: a total stranger had just written to him about his own life. A letter is an odd way to read: no face, no voice, no reaction to steer by. Whatever lands, lands without any help from you. I tell more about [the places I found people to read for](/blog/where-to-find-people-to-read-for/), letters included.
 

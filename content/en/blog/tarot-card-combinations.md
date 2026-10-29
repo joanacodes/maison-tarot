@@ -65,7 +65,7 @@ These twenty pairs use twelve cards on purpose: watching the same card change wi
 
 ### Death, then the Ace of Wands {#death-ace-of-wands}
 
-*4 → 1 · Water → Fire.* In my notes Death is the harvest and the start again, and the Ace of Wands is a staff in leaf. The elements pull apart, so grief and appetite sit together awkwardly. “You’ve cleared the field. Something wants to grow, and it’s fine if that feels too early.”
+*4 → 1 · Water → Fire.* Death, in my notes, is harvest time and a fresh start; the Ace of Wands is a staff in leaf. The elements pull apart, so grief and appetite sit together awkwardly. “You’ve cleared the field. Something wants to grow, and it’s fine if that feels too early.”
 
 ## Tarot combinations for love and attachment {#love}
 

@@ -58,6 +58,6 @@ If you've ever told a reader they have a gift, you weren't wrong to feel what yo
 3. Say what you see in plain words, odd details included, without trying to be right.
 4. Let them tell you whether it held, and write it down either way.
 
-The moment that made me want to teach is the one where someone does this, gets something right, and can hardly believe the words were theirs. The four steps above are how you find that moment for yourself.
+Teaching, for me, began with one moment: someone does this, gets something right, and can hardly believe the words were theirs. The four steps above are how you find that moment for yourself.
 
 The [learn path](/learn-tarot/) is free and starts with that first card. If you'd rather be read before you read, the [free events](/events/) draw readings at random.

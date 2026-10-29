@@ -63,4 +63,4 @@ I don’t read on health, and I won’t advise on substances; if you’re consid
 
 Start with the small size. Ten minutes of [meditation for people who think they can’t](/blog/meditation-for-beginners/): doing nothing, letting go of control, which is harder than it sounds. A drawing you don’t show anyone. One card read aloud for a friend who’s told you nothing.
 
-If you’d like to try with other people in the room, the [workshops](/workshops/) put a card in every hand before a word of theory.
+Letting go in company is its own practice: the [workshops](/workshops/) put a card in every hand before a word of theory.

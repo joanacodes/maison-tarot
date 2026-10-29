@@ -17,7 +17,7 @@ Neither is the “real” tarot. They train different muscles, and I'll try to b
 
 ## What is the Tarot de Marseille? {#what-is-marseille}
 
-The Tarot de Marseille is a pattern — a standard design that French cardmakers printed for centuries from carved woodblocks, then coloured by stencil in a handful of flat colours: red, blue, yellow, flesh, green, black. Marseille was one of the cities that produced it in quantity; the name stuck later. The story of how the pattern travelled is in the [history of the Marseille tarot](/library/tarot-history/tarot-de-marseille-history/).
+Strictly speaking, Marseille names a pattern rather than a single deck: a standard design that French cardmakers printed for centuries from carved woodblocks, then coloured by stencil in a handful of flat colours: red, blue, yellow, flesh, green, black. Marseille, one of several cities that turned it out in quantity, lent the pattern its name only later. The story of how the pattern travelled is in the [history of the Marseille tarot](/library/tarot-history/tarot-de-marseille-history/).
 
 Its suits are Batons, Cups, Swords and Coins, and its court cards are the Valet, the Knight, the Queen and the King. Its numbered majors carry Roman numerals, written the old way — four is IIII, nine is VIIII. And its numbered minors show no people at all. The Eight of Cups is eight cups arranged in rows between stylised flowers. That's the whole card.
 
@@ -29,7 +29,7 @@ Its suits are Wands, Cups, Swords and Pentacles. In its Eight of Cups, a red-clo
 
 ## Numbered pips or pictures: how you read each {#pips-or-pictures}
 
-On a Marseille pip, the number and the suit are almost all you have, so that's what you read. Eight is four “exalted”: lasting stability, control, a gate. Cups are Water, the emotions. Put them together and you get emotional stability that holds — and the question of what you do with it. The arrangement on the card helps: are the cups packed tight or spread out, is something growing between them?
+On a Marseille pip, the number and the suit are almost all you have, so that's what you read. Eight is four doubled: stability that lasts, control, a gateway. Cups are Water, the emotions. Put them together and you get emotional stability that holds, which leaves you deciding what to build on it. The arrangement on the card helps: are the cups packed tight or spread out, is something growing between them?
 
 On a Rider-Waite-Smith card, you read the scene first and the number comes to confirm it. My note for that Eight of Cups is about leaving behind what you've been busy with, and the departing figure says it without a word.
 
@@ -61,7 +61,7 @@ And XIII has a number but, in the Marseille, no name: a skeleton mowing a field.
 
 ## Which deck should you learn on? {#which-deck}
 
-The Marseille, if the people who'll teach you read it, if numbers speak to you, or if you'd like to read with the majors alone, as plenty of Marseille readers do — [what you gain and lose with only the 22 majors](/blog/major-arcana-only/) is worth weighing first. It's an old pattern with a long line of readers behind it.
+The Marseille, if the people who'll teach you read it, if numbers speak to you, or if reading with the majors alone appeals to you, as it does to plenty of Marseille readers — [what you gain and lose with only the 22 majors](/blog/major-arcana-only/) is worth weighing first. It's an old pattern with a long line of readers behind it.
 
 The Rider-Waite-Smith, if you want to read without a book from the first card. It's the deck I read and teach with, and the one the whole Maison Tarot Library is built on, because every card is a scene.
 

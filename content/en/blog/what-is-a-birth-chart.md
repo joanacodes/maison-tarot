@@ -9,9 +9,9 @@ tags: ["birth chart", "what is a birth chart", "natal chart for beginners", "ast
 image: "covers/what-is-a-birth-chart.jpg"
 imageAlt: "A printed birth chart wheel on a wooden desk, with a pencil and an open notebook beside it"
 imagePrompt: "A printed birth chart wheel lying on a wooden desk, a pencil and an open notebook beside it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "A birth chart, or natal chart, is a map of the sky at the minute and place you were born. It shows where the Sun, the Moon and the planets were, in which zodiac signs and in which houses, and the angles between them. The planet says what, the sign says how, the house says where, and the aspects say how the planets get along. To draw yours you need your date, time and place of birth; a free site such as Astro-Seek does the maths."
+summary: "A birth chart, or natal chart, is a map of the sky as it stood at the exact time and place of your birth. It shows where the Sun, the Moon and the planets were, in which zodiac signs and in which houses, and the angles between them. The planet says what, the sign says how, the house says where, and the aspects say how the planets get along. To draw yours you need your date, time and place of birth; a free site such as Astro-Seek does the maths."
 ---
-A birth chart is a map of the sky at the minute and place you were born: where the Sun, the Moon and the planets were, against which signs, and in which part of the sky. To draw one you need three things, your date, time and place of birth, and a free site does the maths in seconds.
+A birth chart is a snapshot of the sky over your birthplace at your birth time: where the Sun, the Moon and the planets were, against which signs, and in which part of the sky. To draw one you need three things, your date, time and place of birth, and a free site does the maths in seconds.
 
 ## What a birth chart is {#definition}
 
@@ -27,7 +27,7 @@ In astrology, “planets” includes the Sun and the Moon, which astronomers wou
 
 | Planet | What it describes |
 | --- | --- |
-| Sun | Your centre, what you organise your life around |
+| Sun | Your core, the thing your life turns around |
 | Moon | What you feel when nobody’s watching |
 | Mercury | How you think and speak |
 | Venus | What you love, and how |
@@ -38,7 +38,7 @@ In astrology, “planets” includes the Sun and the Moon, which astronomers wou
 | Neptune | Dream, intuition, illusion |
 | Pluto | Power, transformation |
 
-Most charts also show two points I watch closely: Lilith, a calculated point (what you learned to hide), and Chiron, a small body between Saturn and Uranus (the wound you keep circling).
+Most charts also show two points I watch closely: Lilith, a calculated point (what you were taught to keep hidden), and Chiron, a minor body orbiting between Saturn and Uranus (an old hurt you return to again and again).
 
 Speed matters. The Moon crosses a sign in two days and a half, the Sun in a month, Jupiter in a year, Saturn in about thirty months; Uranus, Neptune and Pluto stay seven years or more. Everyone in your school year shares those slow planets, so they say more about a generation than about you.
 
@@ -93,4 +93,4 @@ Say someone has the Moon square Saturn. The need for comfort (Moon) and the sens
 
 No birth time? You still get the Sun and the planets in their signs, and usually the Moon. The rising sign and the houses won’t be reliable.
 
-Then don’t read everything at once. Start with three placements: [your Sun, Moon and rising](/blog/sun-moon-rising-big-three/). After that, test it. When I [tested my own chart box by box](/blog/i-tested-my-birth-chart/), 30 to 40% held overall, and [Saturn, Lilith and Chiron](/blog/saturn-lilith-chiron/) were right far more often: 75% at the least, 90% at best. A chart is a lens to look through, not a verdict, so print yours, take a pencil, and tick or cross.
+Then don’t read everything at once. Start with three placements: [your Sun, Moon and rising](/blog/sun-moon-rising-big-three/). After that, test it. When I [went through my own chart placement by placement](/blog/i-tested-my-birth-chart/), 30 to 40% held overall, and [Saturn, Lilith and Chiron](/blog/saturn-lilith-chiron/) were right far more often: 75% at the least, 90% at best. A chart is a lens to look through, not a verdict, so print yours, take a pencil, and tick or cross.

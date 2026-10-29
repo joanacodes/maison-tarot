@@ -57,7 +57,7 @@ This is the part that protects both of you. If someone’s fear rises in you whi
 
 A calm reader is also a kinder one. When you flinch at a card, the person reads your face before they hear your words. When you stay steady, they can hear a hard card without hearing doom in it.
 
-Protection works in the other direction too. Ask permission before you read anyone: reading someone who hasn’t agreed is like walking into their bedroom and opening the drawers. The basics are in [how to read tarot for someone else](/blog/read-tarot-for-someone-else/).
+Protection works in the other direction too. Ask permission before you read anyone: reading someone who hasn’t agreed is like walking into their bedroom and opening the drawers. I’ve put the basics in [a page on reading for a friend or a stranger](/blog/read-tarot-for-someone-else/).
 
 And if what worries you is spirits rather than emotions: most of what a reader feels during a reading is human, and comes from the person across the table. Reading tarot doesn’t require calling on anyone, and I don’t use the cards that way, partly because nobody calling on spirits can know who will turn up.
 

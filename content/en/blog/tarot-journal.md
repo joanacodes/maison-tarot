@@ -11,7 +11,7 @@ imageAlt: "An open notebook with a pencil line down the middle of the page, two 
 imagePrompt: "An open paper notebook on a wooden table with a pencil line ruled down the middle of the page, a pencil and two tarot cards lying beside it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "A tarot journal that makes you better has two columns. On the left, what you said during the reading, written before you hear the answer. On the right, what the person confirmed, in their words. Under both, one mark: held or missed, with no third box. Every ten readings, count the marks and look at what the misses have in common. The same two columns work for a daily card: the morning note on the left, what the day held on the right. Counting is what turns practice into progress."
 ---
-A tarot journal that makes you better has two columns: what I said, and what was confirmed. That's the whole method. Sketches, colour codes and pretty layouts are welcome, but they don't teach you anything. The two columns do, because they let you count.
+A tarot journal that makes you better has two columns: what I said, and what the other person confirmed. The method stops there. Sketches, colour codes and pretty layouts are welcome, but they don't teach you anything. The two columns do, because they let you count.
 
 ## What to write in a tarot journal {#two-columns}
 
@@ -39,7 +39,7 @@ Every ten readings, count. Not to grade yourself, but to see what your misses ha
 
 ## What my notebook says {#what-it-says}
 
-I kept this notebook through about three hundred free blind readings for strangers, and by my count about nine in ten held and one in ten missed. [The full count, with what it doesn't prove](/blog/does-tarot-work-300-readings/), has its own page.
+I kept this notebook through about three hundred free blind readings for strangers, and by my count roughly ninety per cent held, with about a tenth missing. [The full count, with what it doesn't prove](/blog/does-tarot-work-300-readings/), is written up separately.
 
 The percentage isn't what changed me. Three habits did:
 
@@ -65,4 +65,4 @@ The log also shows something no single reading can: how often you reach for the 
 
 Take any notebook, the cheap kind is fine, and rule the line tonight. Find ten people who'll sit down without explaining anything, read for each, fill both columns, mark each one, and count. Ten is enough to see what you do when you miss.
 
-If you don't know who to read for yet, here's [where I found people who'd tell me nothing](/blog/where-to-find-people-to-read-for/). And if you'd like to watch readings checked in front of you, every [free event](/events/) ends that way: the people read say what held, and we compare.
+If you don't know who to read for yet, here's [where I found people who'd tell me nothing](/blog/where-to-find-people-to-read-for/). Readings get checked in front of everyone at the [free events](/events/), too: the people read say what held, and we compare.

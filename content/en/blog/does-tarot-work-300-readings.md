@@ -50,4 +50,4 @@ Three things.
 
 You don't have to believe any of this. Read for ten strangers who say nothing beforehand, note what you said beside what they confirmed, count. If your notebook looks like mine, you'll understand why I don't need to argue about whether it works. If it doesn't, write to me — a second notebook is worth more than a second opinion.
 
-The [free events](/events/) are where I still do this, in front of people, with the notebook open.
+I still do this at the [free events](/events/), in front of people, with the notebook open.

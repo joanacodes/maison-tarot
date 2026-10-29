@@ -9,7 +9,7 @@ tags: ["major arcana", "major arcana meanings", "tarot card meanings", "Rider-Wa
 image: "covers/major-arcana.jpg"
 imageAlt: "Twenty-two tarot cards laid face up in three rows on a wooden table, seen from above, a notebook at the edge"
 imagePrompt: "Twenty-two tarot cards laid face up in three neat rows on a plain wooden table, seen from directly above, an open notebook and a pencil at the edge. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "The 22 major arcana run from the Fool (0) to the World (21) and carry the big themes of a reading: a beginning, a choice, an ending, a renewal. You don’t need to memorise them. Each card already holds a number (from 11 to 21, add the digits: 13 becomes 4), an element, a sign or planet and a feminine or masculine energy. Reduced, the numbers sort the 22 into ten families — the Magician, the Wheel of Fortune and the Sun are all 1 — so you can learn two or three cards at a time. Each card has a light side and a heavy side, Death included."
+summary: "The 22 major arcana open with the Fool (0), close with the World (21) and carry the big themes of a reading: a beginning, a choice, an ending, a renewal. You don’t need to memorise them. Each card already holds a number (from 11 to 21, add the digits: 13 becomes 4), an element, a sign or planet and a feminine or masculine energy. Reduced, the numbers sort the 22 into ten families — the Magician, the Wheel of Fortune and the Sun are all 1 — so you can learn two or three cards at a time. Each card has a light side and a heavy side, Death included."
 ---
 The 22 major arcana are the big scenes of the deck, from the Fool setting off (0) to the World dancing at the end (21). You don’t need to learn 22 meanings by heart: each card already carries a number, an element, a sign or planet and an energy, and with those four you can say something true about it before you’ve opened a book. Below, all 22 sit in one table, sorted into families you can learn two or three at a time, and every card links to its own page, where its drawing is read in detail.
 
@@ -30,7 +30,7 @@ I read every major through the same lenses I use for the rest of the deck. The f
 1. The number. Cards 0 to 10 sit directly on the [cycle of numbers](/library/numerology/), from the start (1) to the corridor between two rooms (10). From 11 to 21, add the digits: 13 becomes 1 + 3 = 4, 18 becomes 9. The card then plays its number on a bigger stage.
 2. The element. Each major has Fire, Water, Air or Earth — the same [four elements](/library/four-elements/) as the minor suits. Fire acts, Water feels, Air thinks and decides, Earth builds and keeps.
 3. The astrology. At the end of the nineteenth century the Golden Dawn gave each major a sign, a planet or an element; Uranus, Neptune and Pluto were added later by modern astrologers. [Astrology](/library/astrology/) is an extra lens: keep it if it speaks to you.
-4. The energy. [Feminine and masculine](/library/feminine-masculine-energies/feminine-masculine/) here aren’t about women and men. Feminine holds, waits, imagines, works behind the scenes; masculine acts, shows itself, builds, decides fast. We all carry both.
+4. The energy. [Feminine and masculine](/library/feminine-masculine-energies/feminine-masculine/) here aren’t about women and men. Feminine is patience, imagination, the work done out of sight; masculine is action, building, stepping on stage and choosing quickly. We all carry both.
 
 Then look at the drawing. Pamela Colman Smith gave every card a scene in 1909, and each card’s page reads it with you.
 
@@ -67,7 +67,7 @@ Say you draw Temperance and know nothing about it. Fourteen gives 1 + 4 = 5: the
 
 Once you reduce the numbers, the 22 majors fall into ten families. Learn a family and you’ve learned two or three cards at once: they share a stage of the cycle, and each one plays it differently.
 
-One caution before you start. In a Marseille deck, Strength is 11 and Justice is 8; the Golden Dawn swapped them and Waite followed. So with a Marseille deck, Strength joins the 2s and Justice the 8s. Reduce the number printed on your own cards, not the one in a book.
+One caution before you start. In a Marseille deck, Strength is 11 and Justice is 8; Waite kept the Golden Dawn’s reversal of the pair. So with a Marseille deck, Strength joins the 2s and Justice the 8s. Reduce the number printed on your own cards, not the one in a book.
 
 {{< cards "ar01 ar10 ar19 ar02 ar11 ar20" >}}
 
@@ -85,7 +85,7 @@ Three is the machine running well, the project that works. The Empress nourishes
 
 ### 4: the Emperor and Death {#fours}
 
-Four is structure, the house standing, the fruit of work. The Emperor builds it and gives the orders — and, in my notes, like fire he can also destroy everything. Death answers 4’s minus, carrying on when you should stop: it’s the harvest, cutting what’s ripe so the field can be sown again.
+Four is structure, the house standing, the fruit of work. The Emperor builds it and gives the orders — and, in my notes, like fire he can also destroy everything. Death answers the weak side of 4, the habit of pressing on when it’s time to quit: it’s the harvest, the ripe crop cut down so the ground is ready for sowing.
 
 ### 5: the Hierophant and Temperance {#fives}
 
@@ -93,7 +93,7 @@ Five is the trial: trying, making do, not being afraid to fail. The Hierophant t
 
 ### 6: the Lovers and the Devil {#sixes}
 
-Six is harmony and success, the machine running fast. The Devil is drawn as an echo of the Lovers, two figures under a larger one. One is a choice made with open eyes; the other is a choice that hardened into attachment, with chains loose enough to lift off.
+Six is harmony and success, the machine running fast. The Devil is drawn as an echo of the Lovers, two figures under a larger one. One is a choice made with open eyes; the other is a choice that hardened into attachment, though the chains hang so slack the two could slip free.
 
 ### 7: the Chariot and the Tower {#sevens}
 
@@ -113,7 +113,7 @@ He stands outside the count, or at the 10 that opens the next cycle: the corrido
 
 ### By element {#elements}
 
-The elements give you a second way to sort them. Fire has seven majors — the Emperor, Strength, the Wheel, Temperance, the Tower, the Sun and Judgement: creation and destruction, the energy that gets things moving and spreads fast when nobody masters it. Water has five — the High Priestess, the Chariot, the Hanged Man, Death and the Moon: the slow cards, where things seep in rather than strike. Air has five — the Fool, the Magician, the Lovers, Justice and the Star: decisions and words, a mind that can cut cleanly or go round in circles. Earth has five — the Empress, the Hierophant, the Hermit, the Devil and the World: matter, endurance, and stubbornness too, with wealth counted in more than money.
+The elements give you a second way to sort them. Fire has seven majors — the Emperor, Strength, the Wheel, Temperance, the Tower, the Sun and Judgement: creation and destruction, the push that gets things moving, and a blaze if no one keeps it in check. Water has five — the High Priestess, the Chariot, the Hanged Man, Death and the Moon: the slow cards, where things seep in rather than strike. Air has five — the Fool, the Magician, the Lovers, Justice and the Star: decisions and words, a mind that can cut cleanly or go round in circles. Earth has five — the Empress, the Hierophant, the Hermit, the Devil and the World: matter, endurance, and stubbornness too, with wealth counted in more than money.
 
 The element sort pays off in a spread. Several Fire majors together and something is moving fast, perhaps faster than anyone planned; several Water majors, and it’s being felt more than decided.
 
@@ -121,7 +121,7 @@ The element sort pays off in a spread. Several Fire majors together and somethin
 
 Not with a list of 22 to memorise. Here’s the order I’d suggest.
 
-1. Draw one major a day. Before you read anything, describe what’s on it, what you see and what you receive. It’s the exercise I give beginners: you’re reading before anyone has told you what to think.
+1. Draw one major a day. Before you read anything, say what’s drawn on it, then what you notice in it, then what comes to you. It’s the exercise I give beginners: you’re reading before anyone has told you what to think.
 2. Say the four lenses out loud, then open the card’s page and check.
 3. Once a week, take one family out of the deck and lay its cards side by side. Say what changes from one card to the next. In ten weeks you’ve met all 22.
 4. When single cards feel familiar, draw three at a time, then more.

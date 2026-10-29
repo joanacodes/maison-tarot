@@ -17,7 +17,7 @@ Both can be read. Only one of them teaches you a grammar you can carry to the ne
 
 ## What is a tarot deck? {#what-is-tarot}
 
-A tarot deck is 78 cards in two groups. The 22 major arcana are named, numbered figures: the Fool, the Magician, Death, the World. The 56 minor arcana are four suits of fourteen cards — Wands, Cups, Swords and Pentacles — each running from Ace to Ten, followed by four court cards: Page, Knight, Queen, King.
+Every tarot deck holds the same 78 cards, in two families. First, 22 major arcana: named, numbered figures such as the Fool, the Magician, Death, the World. Then the 56 minor arcana: Wands, Cups, Swords and Pentacles, fourteen cards in each suit, running from Ace to Ten and topped by four court figures, Page, Knight, Queen and King.
 
 That structure holds in the 1909 Rider-Waite-Smith, in a Marseille deck, in a modern deck full of cats. The names shift a little, the art changes completely, the skeleton stays. Pick up a deck you've never seen and you still know where the Three of Cups lives.
 
@@ -25,7 +25,7 @@ That structure holds in the 1909 Rider-Waite-Smith, in a Marseille deck, in a mo
 
 {{< cards "wa08 cu08 sw08 pe08" >}}
 
-In my [numerology table](/library/numerology/number-8/), eight is four “exalted”: lasting stability, control, a gate between what you can touch and what you can't. Put it in Fire and the wands may be soaring or tumbling, depending on whether you see the glass as half full. In Water, it's moving on from what you're already doing. In Air, a prisoner of yourself who has every tool to get out: you can take off the blindfold. In Earth, a prosperous business, mastery, the effort it costs. One number, four houses, four readings, and you memorised none of them.
+In my [numerology table](/library/numerology/number-8/), eight is four “exalted”: lasting stability, control, a gate between what you can touch and what you can't. Put it in Fire and the wands may be soaring or tumbling, depending on whether you see the glass as half full. In Water, it's leaving behind what you're currently doing. In Air, a prisoner of yourself who has every tool to get out: you can take off the blindfold. In Earth, a prosperous business, mastery, the effort it costs. One number, four houses, four readings, and you memorised none of them.
 
 ## What is an oracle deck? {#what-is-an-oracle}
 

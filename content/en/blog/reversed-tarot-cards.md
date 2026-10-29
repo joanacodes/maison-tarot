@@ -9,13 +9,13 @@ tags: ["reversed tarot cards", "tarot reversals", "upside down tarot card", "rev
 image: "covers/reversed-tarot-cards.jpg"
 imageAlt: "A single tarot card lying upside down on a plain wooden table next to a cup of tea."
 imagePrompt: "A single tarot card lying face up and upside down on a plain wooden table next to a cup of tea. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "A reversed card is a card that comes out upside down when you turn it over. In your first weeks, turn it the right way up and read it as usual: reversals are a second lesson. Once upright cards talk to you, read them — but don’t memorise 78 extra meanings. A reversed card is the same card, slowed down or in excess: the same number, element and colours, with the energy held back or overflowing. Decide before you shuffle whether you read them, and keep to it."
+summary: "A reversed card is a card that comes out upside down when you turn it over. In your first weeks, set it upright and read it as usual: reversals can come later. Once upright cards talk to you, read them — but don’t memorise 78 extra meanings. A reversed card is the same card, slowed down or in excess: the same number, element and colours, with the energy held back or overflowing. Decide before you shuffle whether you read them, and keep to it."
 ---
 A reversed card is a card that lands upside down when you turn it over. Should you read them? Not in your first weeks: turn the card the right way up and carry on. After that, yes — and without learning a second list of 78 meanings, because a reversed card is the same card, slowed down or in excess.
 
 ## What a reversed card is {#what-it-is}
 
-When you shuffle, some cards turn round in your hands. Lay one out and the picture is upside down: the three women of the Three of Cups dancing with their heads at the bottom, the child of the Sun riding along the ceiling. That’s a reversed card, or a reversal.
+When you shuffle, some cards turn round in your hands. Lay one out and the picture is upside down: the Three of Cups’ dancers with their heads at the bottom, the child of the Sun riding along the ceiling. That’s a reversed card, or a reversal.
 
 Readers split on them, and both camps read well. Some keep every card upright, always. Others read each card in the direction it lands. Many of the little booklets sold with decks give every card a second, reversed meaning, which turns 78 meanings into 156.
 
@@ -23,7 +23,7 @@ Nothing on the drawing changes when the card turns. The Three of Cups is still t
 
 ## Should you read them? My answer {#my-answer}
 
-Not at first. In your first weeks you’re learning to look at 78 pictures, and that’s plenty. If a card lands upside down, turn it the right way up and read it as it is. It’s the same advice I give in [your first reading, step by step](/blog/how-to-do-a-tarot-reading/): reversals are a second lesson, not a first.
+Not at first. In your first weeks you’re learning to look at 78 pictures, and that’s plenty. When a card lands reversed, flip it round and read the picture as drawn. I say the same in [your first reading, step by step](/blog/how-to-do-a-tarot-reading/): reversals can wait until the upright pictures feel familiar.
 
 Turn them on when upright cards start talking to you — when you look at a card and its colour, number and element arrive before the effort does. There’s no date for that. Your notebook will tell you.
 
@@ -62,4 +62,4 @@ And reversed doesn’t mean bad. Any card can help or hurt, whichever way up it 
 4. Write one sentence in your notebook, and in the evening, whether it held.
 5. At the end of the week, compare with a week of upright-only cards.
 
-If a whole spread comes out upside down one day, don’t reshuffle in a hurry: [check the shuffle first](/blog/all-cards-reversed-tarot/), then read it. And if you’d like to see the shortcut at work on cards you’ve never studied, the [learn-tarot path](/learn-tarot/) starts with the three lenses it relies on.
+If a whole spread comes out upside down one day, don’t reshuffle in a hurry: [check the shuffle first](/blog/all-cards-reversed-tarot/), then read it. The shortcut works on cards you’ve never studied, and the [learn-tarot path](/learn-tarot/) starts with the three lenses it relies on.

@@ -49,7 +49,7 @@ Read the three as one sentence before you read them one by one, then write that 
 
 ## A Samhain spread, as an example {#example}
 
-Say someone draws the Nine of Pentacles, the Eight of Cups and the Four of Wands.
+Imagine the cards that land are the Nine of Pentacles, the Eight of Cups and the Four of Wands.
 
 {{< cards "pe09 cu08 wa04" >}}
 

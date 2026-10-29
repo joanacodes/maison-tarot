@@ -77,7 +77,7 @@ That's it. The first time is strange, and the strangeness is the point. What you
 
 ## What happens when it works — and when it doesn't {#what-happens}
 
-When it works, the person's face changes before they've decided what to say. That look is worth more than any confirmation.
+When it works, the person's expression shifts before they've found their words. That look is worth more than any confirmation.
 
 When it doesn't — and by my count that's about one time in ten — you say "that one's a miss", you note it, and you move on. You don't reshuffle, you don't reframe, you don't turn a miss into "the cards mean something you haven't realised yet". It stays a miss. Readers who can't say that word are the ones to avoid.
 

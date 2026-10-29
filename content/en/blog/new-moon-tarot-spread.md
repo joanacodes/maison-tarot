@@ -69,4 +69,4 @@ You don’t need the exact minute of the new moon either. The evening before or 
 
 The spread has a second half. At the full moon, open your notebook to the intention and tick or cross: did you do it? Not “did it work” — did you do it. That check is what turns a ritual into something that teaches you about yourself. If you want cards that night too, the [full moon spread](/blog/full-moon-tarot-spread/) picks up where this one stops.
 
-If you’d like to read three cards with lenses rather than a book of meanings, the [learn-tarot path](/learn-tarot/) starts with exactly that.
+Reading three cards with lenses instead of a book of meanings is the very first step on the [learn-tarot path](/learn-tarot/).

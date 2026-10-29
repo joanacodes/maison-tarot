@@ -51,7 +51,7 @@ Different is fine. A few differences deserve a second look:
 - *The reader can’t say where they saw it.* If nothing on the card supports a sentence, there’s nothing to check.
 - *They contradict each other on a yes-or-no about the future.* Then the trouble is usually the question, not the readers.
 - *You went to the second reader to get a better answer.* That’s shopping, and it rarely calms anyone. More in [asking the same question twice](/blog/ask-tarot-the-same-question-twice/).
-- *Nobody ever misses.* A reader who never says “that one didn’t land” isn’t more accurate; they’re reframing.
+- *Nobody ever misses.* A reader who never admits a card fell flat isn’t more accurate; they’re reframing.
 
 ## What to do with two different readings {#what-to-do}
 

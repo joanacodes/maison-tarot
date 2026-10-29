@@ -40,7 +40,7 @@ The King, the Knight, the Queen and the Page of Wands. Under Waite’s rule, Wan
 
 Three reasons.
 
-The first is the silence rule. The person I read for tells me nothing beforehand: no question, no context. Choosing a significator means knowing their age, their looks, their star sign or their question — exactly what I’ve asked them to keep to themselves. Online, I often have a username and a voice; I couldn’t pick one if I wanted to. I explain the rule in [why I ask you to tell me nothing](/blog/the-silence-rule/).
+The first is the silence rule. Whoever sits down with me says nothing beforehand: no question, no context. Choosing a significator means knowing their age, their looks, their star sign or their question — exactly what I’ve asked them to keep to themselves. Online, I often know little more than a screen name and how someone sounds; I couldn’t pick one if I wanted to. I explain the rule in [why I ask you to tell me nothing](/blog/the-silence-rule/).
 
 The second is the court cards themselves. I read a rank as a temperament, not a hair colour: [a Queen](/library/numerology/queen/) is a way of holding power, whoever holds it. I go further into that in [court cards explained](/blog/court-cards-explained/). Fixing someone to a card by their looks before the reading starts tells the cards who they are, instead of letting the cards show it.
 

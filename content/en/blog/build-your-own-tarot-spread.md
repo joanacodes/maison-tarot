@@ -9,7 +9,7 @@ tags: ["build your own tarot spread", "custom tarot spread", "how to make a taro
 image: "covers/build-your-own-tarot-spread.jpg"
 imageAlt: "A hand writing a short numbered list in an open notebook, three face-down tarot cards beside it on a wooden table."
 imagePrompt: "A hand writing a short numbered list in an open notebook beside three face-down tarot cards on a wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "To build your own tarot spread, answer four questions on paper before you shuffle. What do I want to know, in one sentence? What do I need to see to answer it — each answer becomes a position, written as a question? How many cards does that take, and in what shape? And how will I know whether the reading held — can every position produce a sentence someone could confirm or contradict? Keep it to three to five positions, decide the number before you draw, and write the cards and your sentences down."
+summary: "To build your own tarot spread, answer four questions on paper before you shuffle. What do I want to know, in one sentence? What must the cards show to answer it — each answer becomes a position, written as a question? How many cards does that take, and in what shape? And how will I know whether the reading held — can every position produce a sentence someone could confirm or contradict? Keep it to three to five positions, decide the number before you draw, and write the cards and your sentences down."
 ---
 A tarot spread is a set of positions, each one a question, laid out before you shuffle. You can build your own with four questions: what do I want to know, what do I need to see to answer it, how many cards does that take, and how will I know whether the reading held.
 
@@ -33,7 +33,7 @@ Two rules keep positions kind and useful. Make each one about the person in fron
 
 ## Question 3: how many cards, and in what shape? {#shape}
 
-As few as the question needs. One card answers one thing. Three hold a situation with something stuck in it, which is why, after a few weeks of one card a day, I move people on to [three cards, all about now](/blog/three-card-tarot-spread/). Five give room for a real crossroads. Beyond seven, most beginners stop reading and start listing.
+As few as the question needs. One card answers one thing. Three hold a situation with something stuck in it, which is why, once someone has drawn one card daily for a few weeks, I move them on to [three cards, all about now](/blog/three-card-tarot-spread/). Five give room for a real crossroads. Beyond seven, most beginners stop reading and start listing.
 
 Shape matters less than people think, but it does something. A row reads left to right, like a sentence. A cross puts one card at the centre and lets the others lean on it. A circle has no first card, which suits a question about something that keeps coming round.
 
@@ -73,4 +73,4 @@ That's my way, not the only one. Some readers lay the same pattern for every car
 4. Check that each position can produce a sentence someone could contradict.
 5. Decide the number, shuffle, lay the cards, write.
 
-If you'd like to compare with ready-made layouts first, I've set out [when a spread helps and when it gets in the way](/blog/do-you-need-tarot-spreads/).
+Before you build, you can compare with ready-made layouts: I've set out [when a spread helps and when it gets in the way](/blog/do-you-need-tarot-spreads/).

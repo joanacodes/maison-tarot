@@ -51,7 +51,7 @@ The first line of my card notes gives each card an upside and a downside, and ho
 
 Take [the Five of Cups](/library/tarot-cards/five-of-cups/), the bleakest card of the 78 for me: a loss, a heavy mood, and the sense of facing it with nobody beside you. A toxic-positive reading jumps straight to the two cups still standing behind the figure. An honest one names the three spilled cups first, stays there long enough for the person to feel heard, and only then turns round.
 
-The Nine of Swords works the same way: a long, troubled night, and protection above you that you can’t see yet. The Star’s hope arrives once the worst has passed: it follows the hard stretch, it doesn’t replace it.
+Same order for the Nine of Swords: first the long, troubled night, then the protection overhead that the person can’t see yet. The Star’s hope arrives once the worst has passed: it follows the hard stretch, it doesn’t replace it.
 
 {{< cards "cu05 sw09 ar17" >}}
 

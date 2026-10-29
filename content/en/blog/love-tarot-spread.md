@@ -9,7 +9,7 @@ tags: ["love tarot spread", "relationship tarot spread", "tarot spread for love"
 image: "covers/love-tarot-spread.jpg"
 imageAlt: "Two cups of coffee on a small café table with a tarot deck between them, one chair pulled back."
 imagePrompt: "Two cups of coffee on a small café table with a closed tarot deck between them, one chair pulled back from the table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "An honest love tarot spread reads two things: you, and the relationship as it is between you. Five cards: where you are in love right now, what you bring, what you need, the relationship as it stands, and one thing you can do this week. It works whether you’re single or together. It leaves aside “does he love me?” — not because the question is silly, but because the other person has no say in the reading, and any card would be read through your hope or your fear. A kinder question: what do I need, and have I said it?"
+summary: "An honest love tarot spread reads two things: you, and the relationship as it is between you. Five cards: where you are in love right now, what you bring, what you need, the relationship as it stands, and one thing you can do this week. It works whether you’re single or together. It leaves aside “does he love me?” — not because the question is silly, but because the other person has no say in the reading, and any card would be read through your hope or your fear. Ask instead: what do I need, and have I said it?"
 ---
 An honest love spread reads two things: you, and the relationship as it is between you. It doesn’t read the other person’s mind. Five cards, a question you can act on, and room for everything you feel about it.
 
@@ -35,7 +35,7 @@ Every position starts with “I” or “the relationship”. None starts with �
 
 ## A love spread, worked through {#example}
 
-Say someone draws, for their relationship, the Four of Cups, the Queen of Pentacles, the Ace of Cups, the Two of Swords and the Page of Cups.
+Take a reading laid for a relationship, with these five: the Four of Cups, the Queen of Pentacles, the Ace of Cups, the Two of Swords and the Page of Cups.
 
 {{< cards "cu04 pequ cuac sw02 cupa" >}}
 
@@ -75,4 +75,4 @@ And sometimes the kindest step is outside the cards altogether: ask the person. 
 4. Sum up the row in one sentence that starts with “I”, and say it aloud.
 5. Write it down, and reread it in a week.
 
-If you’d like to know which cards really talk about relationships, [the cards for love](/blog/tarot-cards-for-love/) are gathered in one place. And if you’d rather read this spread with someone who knows the lenses, a [one-to-one session](/sessions/) is an hour, one spread, read by both of us.
+Which cards really talk about relationships? I’ve gathered [the cards that speak of love](/blog/tarot-cards-for-love/) in one place. And if you’d rather read this spread with someone who knows the lenses, a [one-to-one session](/sessions/) is an hour, one spread, read by both of us.

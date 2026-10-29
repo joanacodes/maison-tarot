@@ -57,7 +57,7 @@ Most chart sites list the North Node among the planets, sometimes as “Node”,
 1. Note your North Node’s sign and house.
 2. Write the opposite sign and house next to it: that’s your South Node.
 3. Ask three questions. What do I do without effort? Where does it go too far? What does the other side ask of me that I keep avoiding?
-4. Tick or cross each answer, as honestly as you would for a stranger.
+4. Tick or cross each answer, and be no softer on yourself than on anyone else.
 
 ## What I can and can’t say about them {#limits}
 

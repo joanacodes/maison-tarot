@@ -34,7 +34,7 @@ You may well meet one of the three cards people fear most: Death, the Tower or t
 
 {{< cards "ar13 ar16 ar15" >}}
 
-Death, in Pamela Colman Smith’s 1909 drawing, rides a white horse while a sun sits on the horizon between two towers. It’s about an ending that makes room: closer to the harvest than to the grave, a season closing so another can start. The Tower is a shake-up — a structure that wasn’t holding, coming down fast. The Devil is attachment: two figures chained so loosely they could lift the chains off themselves.
+Death, in Pamela Colman Smith’s 1909 drawing, rides a white horse, and in the distance a sun hangs low between two towers. It’s about an ending that makes room: closer to the harvest than to the grave, a season closing so another can start. The Tower is a shake-up — a structure that wasn’t holding, coming down fast. The Devil is attachment: two figures chained so loosely they could lift the chains off themselves.
 
 No card is all light or all shadow, and these three have as much light as any. [The cards people dread most](/blog/scariest-tarot-cards/) get a closer look, one by one, in another article.
 
@@ -52,7 +52,7 @@ There’s usually a gentler question underneath — “how do I look after mysel
 
 Where it happens changes what to expect. At a party, other people are listening, so a careful reader keeps it light, and you can ask to step aside or stop. At a fair or a stall, decide what you’re willing to spend before you sit down, and notice whether the reader gives you room to say “no, that doesn’t fit”.
 
-Online, at a free event, you may be one of several people read in front of the others. [What to know before a free online reading](/blog/before-a-free-online-reading/) explains how that works at Maison Tarot, and what to watch for elsewhere.
+Online, at a free event, you may be one of several people read in front of the others. I’ve written [a short guide for anyone about to be read for free](/blog/before-a-free-online-reading/): how it works at Maison Tarot, and what to watch for elsewhere.
 
 Wherever you are, two signs tell you it isn’t a reading but a sale: urgency (“we need to go deeper, today”) and a curse that only this person can lift.
 
@@ -60,7 +60,7 @@ Wherever you are, two signs tell you it isn’t a reading but a sale: urgency (�
 
 Write down what was said, the same evening, before you decide what it meant. Memory edits fast; a week later you’ll remember the reading you wanted, not the one you had.
 
-Then don’t act on it. [Tarot is not an authority](/blog/tarot-is-not-an-authority/), and a ten-minute reading at a party even less so.
+Then don’t let it decide for you. [The cards hold no authority over your choices](/blog/tarot-is-not-an-authority/), and a ten-minute reading at a party holds even less.
 
 And if some of it missed, that’s normal. Misses make up about a tenth of the readings in my notebook, and a good reader says so rather than bending the miss into a hit.
 

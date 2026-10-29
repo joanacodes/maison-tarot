@@ -35,7 +35,7 @@ By my definition, all three were magic, and two of them have mostly stopped bein
 
 ## Where tarot sits in that definition {#where-tarot-sits}
 
-What I know happens: people say true things about strangers who’ve told them nothing. [By my own count](/blog/does-tarot-work-300-readings/), about nine in ten of my readings held. It isn’t a study, but it’s more than a feeling. When friends try it for the first time, they say something true and look shocked by what came out of their own mouth. That look is why I teach.
+What I know happens: people say true things about strangers who’ve told them nothing. [By my own count](/blog/does-tarot-work-300-readings/), about nine in ten of my readings held. It isn’t a study, but it’s more than a feeling. When friends try it for the first time, they land something true and are visibly thrown by their own sentence. That look is why I teach.
 
 Part of it I can explain. Some of what feels like a hit is general enough to fit anyone, which is why I check my readings against [the Barnum effect](/blog/barnum-effect-tarot/). Memory keeps the hits and drops the misses. A face reacts before its owner decides to.
 
@@ -53,7 +53,7 @@ It doesn’t claim powers. I don’t have abilities other people lack; anyone ca
 
 It doesn’t claim that the unexplained is dangerous, evil or holy. “Unexplained” describes the state of our knowledge, not the thing itself.
 
-And it doesn’t claim certainty. When [a pen-pal once asked whether I could read minds or was a magician](/blog/where-to-find-people-to-read-for/), the honest answer was neither, and also that I can’t fully explain how a reading works — which is exactly where my definition begins.
+And it doesn’t claim certainty. When [a pen-pal once asked me to choose between mind reader and magician](/blog/where-to-find-people-to-read-for/), the honest answer was neither, and also that I can’t fully explain how a reading works — which is exactly where my definition begins.
 
 The limit, said calmly: calling something magic is an admission, not an explanation. The risk is stopping there.
 
@@ -63,4 +63,4 @@ Keep a page at the back of your notebook for things you’ve seen happen and can
 
 Some entries will have found an ordinary explanation: a coincidence, a memory that tidied itself up, something you’d been told and forgot. Some won’t. Those stay on a shelf marked doubtful, in case one ever comes true and I can say I’d been warned.
 
-[Four theories of how tarot works](/blog/how-does-tarot-work/), and the one I don’t need, are a good next read. And if you’d like to meet the unexplained first-hand, read one card for someone who’s told you nothing. That’s what happens at the [free events](/events/), with everyone watching and the misses said out loud.
+[Four theories of how tarot works](/blog/how-does-tarot-work/), and the one I don’t need, are a good next read. And to meet the unexplained first-hand, read one card for someone who’s told you nothing. That’s what happens at the [free events](/events/), with everyone watching and the misses said out loud.

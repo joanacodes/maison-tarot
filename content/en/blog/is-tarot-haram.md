@@ -45,7 +45,7 @@ The question rarely comes from a taste for theology. It comes from a curiosity t
 
 So I won't try to convince a Muslim that tarot fits with their faith. It isn't my role, and it would be disrespectful to someone who takes their tradition seriously. I've explained in [is tarot a sin?](/blog/is-tarot-a-sin/) why I never tell anyone what their religion permits.
 
-What I can tell you is what I do. I don't claim to know the hidden. I call on no spirits, promise nothing, and never present a reading as a verdict, because [a card has no say over your choices](/disclaimers/#readings). I mostly read the present of the person in front of me. But I won't conclude from that that it's halal: that would be convenient, and it isn't mine to say.
+My own practice I can describe. I don't claim to know the hidden. I call on no spirits, promise nothing, and never pass a reading off as a verdict, because [a card has no say over your choices](/disclaimers/#readings). I mostly read the present of the person in front of me. But I won't conclude from that that it's halal: that would be convenient, and it isn't mine to say.
 
 If you're Muslim, you've been reading cards and you now feel uneasy, guilt isn't a good adviser either. Talk it through with someone you trust in your tradition, and whatever you decide, decide it calmly: a choice made in fear rarely holds, in either direction.
 
@@ -55,7 +55,7 @@ If a decision is weighing on you, your tradition has *istikhara*, and an imam yo
 
 For a time my father belonged to a branch of Buddhism; I read cards. I never had to look down on his way of taking the invisible seriously to keep mine, and that's what I try to hold to here.
 
-I don't ask anyone's religion before a reading. I only ask whether they want to be read, and a hesitation counts as a no. If you read for others, do the same: don't guess anyone's faith from their name or their appearance, and ask every time. At [the free events](/events/), the people read are drawn at random, and I always ask before I begin; nobody has to explain a no.
+I don't ask anyone's religion before a reading. I only ask whether they want to be read, and a hesitation counts as a no. If you read for others, do the same: don't guess anyone's faith from their name or their appearance, and ask every time. At [the free events](/events/), names are drawn by lot, and I always ask before I begin; nobody has to explain a no.
 
 **Giving up tarot out of faithfulness isn't superstition; it's consistency, and it deserves respect.** And a Muslim who reads cards doesn't need me to put them on trial either: that's between them, their faith and those who guide them in it.
 

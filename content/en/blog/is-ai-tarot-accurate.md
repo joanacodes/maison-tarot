@@ -47,4 +47,4 @@ What it isn't is a reader. And the danger isn't that it's bad; it's that it's co
 
 Use it to learn the pictures, not to be read. Ask it what's on a card, never what a card means for you. And if you find yourself typing your situation in before you ask — which you will, because it's the natural thing to do — notice that you've just told the reader everything, and that whatever comes back was already yours.
 
-If you'd like to see what a reading with nothing supplied looks like, that's what the [free events](/events/) are for. Bring the AI's answer; we'll compare notebooks.
+Curious what a reading with nothing supplied looks like? That's what the [free events](/events/) are for. Bring the AI's answer; we'll compare notebooks.

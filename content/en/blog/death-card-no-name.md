@@ -9,9 +9,9 @@ tags: ["card with no name", "Death tarot card", "arcane XIII", "Tarot de Marseil
 image: "covers/death-card-no-name.jpg"
 imageAlt: "Two cards numbered thirteen side by side on a wooden table, one from a Marseille deck and the Death card of the Rider-Waite-Smith"
 imagePrompt: "Card XIII from a Tarot de Marseille deck and the Death card from the 1909 Rider-Waite-Smith deck lying upright side by side on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, the cards in their original colours, warm natural colours around them that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "In most Tarot de Marseille decks, card XIII shows a skeleton with a scythe and a number, but no title: it is the only major arcanum without a name, which is why French readers call it l’Arcane sans nom. Nobody knows for certain why. The early Italian cards had no titles at all, and the oldest known Marseille-type deck, Jean Noblet’s of around 1650, does write ‘La Mort’. In 1909 the Rider-Waite-Smith printed the name, Death, and replaced the reaper with a rider. Without the name, you see the harvest first; with it, the fear arrives before the picture."
+summary: "In most Tarot de Marseille decks, card XIII shows a skeleton with a scythe and a number, but no title: it is the only major arcanum without a name, which is why it’s known in French as l’Arcane sans nom. Nobody knows for certain why. The early Italian cards had no titles at all, and the oldest known Marseille-type deck, Jean Noblet’s of around 1650, does write ‘La Mort’. In 1909 the Rider-Waite-Smith printed the name, Death, and replaced the reaper with a rider. Without the name, you see the harvest first; with it, the fear arrives before the picture."
 ---
-In most Tarot de Marseille decks, card XIII has a number and a picture — a skeleton with a scythe — but no name. It's the only one of the 22 major arcana like that, and French readers call it *l'Arcane sans nom*, the nameless arcanum. Nobody knows for certain why: no card maker left an explanation. The Rider-Waite-Smith did the opposite in 1909, printing the name, Death, and redrawing the card from scratch. Both choices change what you feel before you've read a thing.
+In most Tarot de Marseille decks, card XIII has a number and a picture — a skeleton with a scythe — but no name. It's the only one of the 22 major arcana like that; in France it goes by *l'Arcane sans nom*, the nameless arcanum. Nobody knows for certain why: no card maker left an explanation. The Rider-Waite-Smith did the opposite in 1909, printing the name, Death, and redrawing the card from scratch. Both choices change what you feel before you've read a thing.
 
 ## What card XIII looks like in the Tarot de Marseille {#marseille-xiii}
 
@@ -61,10 +61,10 @@ Try this with your own deck. Cover the name at the bottom of your Death card wit
 
 ## If the card frightened you {#if-it-frightened-you}
 
-If you drew this card and came here worried, for yourself or for someone you love, I understand; the word does that. In either deck, no card foretells that someone will die or fall ill. Those are questions I leave aside, since one clumsy sentence can scare a person needlessly, and a health worry belongs with a doctor and with the people close to you. I explain this more fully in [why I step back from health, pregnancy and death questions](/blog/health-pregnancy-death-tarot/).
+If you drew this card and came here worried, for yourself or for someone you love, I understand; the word does that. In either deck, no card foretells that someone will die or fall ill. Those are questions I leave aside, since one clumsy sentence can scare a person needlessly, and a health worry belongs with a doctor and with the people close to you. I explain this more fully in [the reasons I don't read on illness or death](/blog/health-pregnancy-death-tarot/).
 
 What the card can hold is a change you're living through: a chapter closing, a habit ending, a version of you that has done its time.
 
 ## Where to go from here {#next-step}
 
-If you'd like to see how the two decks differ beyond this one card, I compare them in [Marseille or Rider-Waite-Smith](/blog/marseille-vs-rider-waite/). And if Death turned up in a reading about a relationship, [Death in love](/blog/death-tarot-love/) looks at what it usually means there, gently.
+Card XIII is only one of the places where the two decks part ways; I go through the others in [a side-by-side of the Rider-Waite-Smith and the Marseille](/blog/marseille-vs-rider-waite/). And if Death turned up in a reading about a relationship, [Death in love](/blog/death-tarot-love/) looks at what it usually means there, gently.

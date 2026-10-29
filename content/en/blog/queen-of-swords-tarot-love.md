@@ -17,7 +17,7 @@ The Queen of Swords in love is clarity: knowing what you want, saying it, and ke
 
 ## Hold without holding on {#hold}
 
-Her rank is the Queen: inner mastery, someone who no longer needs to run. The Queen’s advice is to hold without holding on. At her worst she keeps people, feelings and grudges, and mistakes mastery for control. In love, that’s the line between a boundary and a wall.
+Her rank is the Queen: mastery from within, the calm of someone who has stopped running. A Queen keeps a hand on things without clutching them. On a bad day she hoards people, feelings and grudges, and confuses mastery with control. In love, that’s the line between a boundary and a wall.
 
 Her element is Water of Air. Air, in my notes, is the best decision-maker of the four, because it sees everything at once — and on a bad day it’s the viper’s tongue. Water brings feeling into it. So she isn’t a mind without a heart. She’s a mind that has felt, and decides with that knowledge rather than in spite of it.
 
@@ -27,7 +27,7 @@ Her energy is feminine, whoever happens to carry it: patience, thinking before a
 
 ## Standards, a boundary, and the ex’s fifth message {#standards}
 
-On your own, she’s standards: knowing what you want, and not apologising for it. A first date where you say, “I’m looking for something serious,” and mean it. Say someone draws her after a string of almost-relationships. The card suggests saying out loud what they’ve only been thinking. Her minus here is a list so precise that nobody could fit it, or a wall built after being hurt and called standards.
+On your own, she’s standards: knowing what you want, and not apologising for it. A first date where you say, “I’m looking for something serious,” and mean it. When she follows a string of almost-relationships, she suggests saying out loud what’s only been thought until now. Her minus here is a list so precise that nobody could fit it, or a wall built after being hurt and called standards.
 
 In a couple, she’s the honest conversation. A boundary said calmly: “I need you to tell me when you’ll be late.” One sentence, not a scene. And she listens to the answer, because her other hand is open.
 
@@ -39,7 +39,7 @@ This card often brings a question about another woman. “Is she the ex?” “I
 
 I don’t read on absent people, and I’d rather not turn a court card into a suspect. A court card describes a way of acting, and most often it describes you. I explain how I read them in [court cards explained](/blog/court-cards-explained/). I also hold my own readings to the honesty she asks for: when something doesn’t land, I say so plainly.
 
-A kinder question: “Where do I need to be clearer, and how can I say it kindly?” It points the sword where it can help.
+Ask her about your own words instead: “Where do I need to be clearer, and how can I say it kindly?” It points the sword where it can help.
 
 ## Who sits with her: a King, an Eight, a broken heart {#who-sits-with-her}
 

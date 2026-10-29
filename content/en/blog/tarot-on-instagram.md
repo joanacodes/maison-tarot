@@ -63,7 +63,7 @@ And you can ask. A reader with a method is usually glad to explain it, misses in
 
 A feed has a rhythm, and it can become yours. You check the card of the day before deciding what to wear, then before sending a message, then before answering one. You swipe through piles until one says what you hoped to hear.
 
-That isn’t foolishness; it’s worry looking for a hand to hold. But it’s a search for outside validation, and a feed will supply it for ever. If you notice it, mute a few accounts for a week and see what you decide without them. Your own deck can have that week off too. I’ve written more on [why stepping back helps](/blog/why-you-should-quit-tarot-reading/).
+That isn’t foolishness; it’s worry looking for a hand to hold. But what it’s hunting for is approval from outside, and a feed will supply that for ever. If you notice it, mute a few accounts for a week and see what you decide without them. Your own deck can have that week off too. I’ve written more on [why stepping back helps](/blog/why-you-should-quit-tarot-reading/).
 
 ## Where to go from here {#next-step}
 

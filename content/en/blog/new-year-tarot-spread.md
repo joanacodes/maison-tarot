@@ -35,7 +35,7 @@ Some readers add a collective year card from the digits of the year. For 2027: 2
 
 {{< cards "ar11 ar02" >}}
 
-[Justice](/library/tarot-cards/justice/) sits between two pillars with a raised sword and a pair of scales: weighing, deciding, living with the consequences. Two, in [my numerology table](/library/numerology/number-2/), is cooperation between two sides, a deal, a bond: check every clause, weigh the for and the against, and beware of its minus, stubbornness. The High Priestess adds what isn’t said: still water, the side of the moon we don’t see. Put together: a year for agreements made with your eyes open.
+[Justice](/library/tarot-cards/justice/) sits between two pillars, holding up her sword and her scales: weighing, deciding, living with the consequences. Two, in [my numerology table](/library/numerology/number-2/), is cooperation between two sides, a deal, a bond: check every clause, weigh the for and the against, and beware of its minus, stubbornness. The High Priestess adds what isn’t said: still water, the side of the moon we don’t see. Put together: a year for agreements made with your eyes open.
 
 That card is the same for everyone, so treat it as a conversation starter, not your forecast. For something personal, do the same sum with your own birthday: born on 14 March, 1 + 4 + 0 + 3 + 2 + 0 + 2 + 7 = 19, the Sun. [How birth cards are worked out](/blog/tarot-birth-card/) goes further.
 
@@ -55,7 +55,7 @@ Say January, February and March come out as the Ace of Wands, the Seven of Cups 
 
 {{< cards "waac cu07 pe08" >}}
 
-January is the Ace of Wands, a hand from a cloud holding out a wand that is already sprouting. One is the initiator, the raw diamond; Fire is impulse. Start something — with the humility of a beginner. February is the Seven of Cups: seven cups floating in clouds, each holding a different dream. Too many choices, and seven asks for patience and analysis before action. March is the Eight of Pentacles: a craftsman at his bench, carving the same coin again and again. Mastery, and the effort it takes.
+January is the Ace of Wands: one wand already putting out leaves, gripped by a hand in the sky. One is the initiator, the raw diamond; Fire is impulse. Start something — with the humility of a beginner. February is the Seven of Cups: seven cups floating in clouds, each holding a different dream. Too many choices, and seven asks for patience and analysis before action. March is the Eight of Pentacles: a craftsman at his bench, carving the same coin again and again. Mastery, and the effort it takes.
 
 As a quarter, it reads: a spark in January, a February full of options that all look good, and a March where you pick one and get to work. In the notebook: “January — what am I starting? February — which option am I choosing? March — what am I practising?”
 

@@ -62,4 +62,4 @@ Postpone. "I'm not in the right place to read for you tonight" is a complete sen
 
 If the upset has lasted weeks, if it doesn't lift with sleep or with talking, it isn't a tarot question any more. It's a door to someone trained: a doctor, a therapist, a helpline. I've written about [where that door is and why it isn't mine](/blog/tarot-and-mental-health/), and [the disclaimers page](/disclaimers/#therapy) says the same thing in fewer words.
 
-For the ordinary hard days, the deck will still be there tomorrow. If you'd like to learn to read it calmly, [start with the learn path](/learn-tarot/), one card at a time.
+For the ordinary hard days, the deck will still be there tomorrow. On a calmer day, [start with the learn path](/learn-tarot/) and learn to read it one card at a time.

@@ -37,7 +37,7 @@ Read the row as one story first, then card by card. Keep a notebook open; [the w
 
 ## An ancestor spread, card by card {#example}
 
-Say someone thinks of a grandfather who kept a vegetable garden and mended everything in the house, then draws the King of Pentacles, the Eight of Pentacles, the Five of Swords, the Ten of Pentacles and the Six of Cups.
+Say someone thinks of a grandfather who kept a vegetable garden and mended everything in the house, then draws the King of Pentacles, the Eight of Pentacles, the Five of Swords, the Ten of Pentacles and, last, the Six of Cups.
 
 {{< cards "peki pe08 sw05 pe10 cu06" >}}
 

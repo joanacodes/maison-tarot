@@ -9,7 +9,7 @@ tags: ["how to teach tarot", "teaching tarot to beginners", "tarot lessons", "te
 image: "covers/how-to-teach-tarot.jpg"
 imageAlt: "Two people at a kitchen table seen from behind, one holding up a single card while the other points at it"
 imagePrompt: "Two people at a kitchen table seen from behind over their shoulders, one holding up a single tarot card while the other points at a detail on it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Teach tarot by making people read before you explain anything. Put one card in their hands, ask them to describe what they see and what they receive, and let them say what comes without trying to be right. Every person I’ve helped to read managed it within one to three tries. Then give them lenses instead of a list of 78 meanings: colours, numbers, elements. Teach the rules on day one: ask permission, the person tells you nothing, a miss is said out loud. The rest comes from practice, which nobody can do for them."
+summary: "Teach tarot by making people read before you explain anything. Put one card in their hands, ask them to describe what they see and what they receive, and let them say what comes without trying to be right. Everyone I’ve taught so far got there in one to three tries. Then give them lenses instead of a list of 78 meanings: colours, numbers, elements. Teach the rules on day one: ask permission, the person tells you nothing, a miss is said out loud. The rest comes from practice, which nobody can do for them."
 ---
 Teach tarot by making people try before you explain. Hand someone a card, ask what they see, and let them talk. Each person I’ve taught to read managed it within one to three tries; what they needed from me was permission and a few tools, not a lecture.
 
@@ -27,9 +27,9 @@ Start with one card, not with the history of tarot or the 78 meanings. Put it fa
 
 Then let them talk, and don’t correct. Say they look at the Three of Cups and tell you it’s friends celebrating something that’s already over. That’s a reading. You can add context later; you can’t give back the confidence you took by correcting the first sentence.
 
-It’s how my [workshops start: a card in the first ten minutes](/blog/first-ten-minutes-tarot-workshop/), the explanation after. People who learn the meaning first tend to recite it. People who look first tend to read.
+My [workshops open the same way: cards on the table first](/blog/first-ten-minutes-tarot-workshop/), theory second. People who learn the meaning first tend to recite it. People who look first tend to read.
 
-Then build in steps: one card a day for a while, then three cards, then more. Tell them early that two readers can find different things in one card, and so can one reader on two different days. It saves them a lot of worrying about whether they’ve got it “right”.
+Then build in steps: one card each day to begin with, three-card spreads once that feels comfortable, and more after that. Tell them early that two readers can find different things in one card, and so can one reader on two different days. It saves them a lot of worrying about whether they’ve got it “right”.
 
 ## Give them lenses, not 78 meanings {#lenses}
 
@@ -57,15 +57,15 @@ Whatever happens, don’t tell them they have a gift, or that they don’t. Anyo
 
 Teach these before reading becomes a habit, because they’re harder to add later:
 
-- Ask permission before reading anyone. Reading someone who hasn’t agreed is like opening the drawers in their bedroom.
+- Ask permission before reading anyone. Going ahead without a yes is like rifling through the drawers in their bedroom.
 - The person tells you nothing first. [The silence rule](/blog/the-silence-rule/) is what lets a beginner check themselves afterwards.
 - Write down what you said and what was confirmed.
 - Say a miss out loud, with no second card drawn to rescue it.
-- Some subjects aren’t for the cards: health, death, pregnancy, court cases, money decisions. Teach a kinder question to offer instead.
+- Some subjects aren’t for the cards: health, death, pregnancy, court cases, money decisions. Teach them what to offer in their place: a question about the person’s own next step.
 - Tarot never replaces therapy, and it shouldn’t turn into a habit nobody can put down, for the reader or the person being read.
 
 ## Where to take it next {#next-step}
 
 If you’re teaching a friend this weekend, start with one card and the three questions above, and give it three tries before anyone decides anything. When your learners need people to practise on, you can [host a free reading night online](/blog/free-tarot-event-online/) together.
 
-And if you’d like to see how I teach from the inside: [workshops](/workshops/) are three hours for twelve people, one lens each, and [sessions](/sessions/) are sixty minutes one to one, by video.
+To watch my own teaching from the inside, there are [workshops](/workshops/), where twelve people spend three hours on a single lens, and [sessions](/sessions/), sixty minutes one to one, by video.

@@ -26,7 +26,7 @@ A suit is a family of fourteen cards that share one object: the Ace, nine number
 
 Other decks rename them — Rods or Staves for Wands, Coins or Disks for Pentacles. Same families. You may also read that Wands are Air and Swords are Fire: a few schools swap the two. I follow the Rider-Waite-Smith pairing, and its drawings back it up, as you’ll see below.
 
-The Aces show the four objects at their plainest: a hand comes out of a cloud holding the suit’s object, and that’s all there is.
+The Aces show the four objects at their plainest: one object, offered from a cloud by a single hand, and nothing else.
 
 {{< cards "waac cuac swac peac" >}}
 
@@ -46,7 +46,7 @@ Example card: the Four of Wands, four wands with a garland strung between them a
 
 Cups are [Water](/library/four-elements/water-element/): feelings, relationships, the strengths you don’t show. On the cards, water runs well beyond the cups: five streams pouring from the Ace into a pond of water lilies, rivers, the sea behind the Page and under the King’s throne. And fish: one looks out of the Page’s cup, another leaps from the waves beside the King.
 
-Example card: the Six of Cups, two children in a village courtyard, the taller one holding out a flower-filled cup to the smaller. In my notes: taking time for yourself, childhood, flowering again, harmony.
+Example card: the Six of Cups, two children in a village courtyard, the taller one holding out a flower-filled cup to the smaller. My notes give it harmony, a door back into childhood, rest you allow yourself, and flowers opening again.
 
 ### Swords: Air {#swords}
 
@@ -58,7 +58,7 @@ Example card: the Eight of Swords, a woman bound and blindfolded among eight swo
 
 Pentacles are [Earth](/library/four-elements/earth-element/): money, the body, work, and whatever has value for you; in my notes, not all riches are gold. On the cards, gold coins marked with a five-pointed star, and around them land that has been worked: gardens, vines, a ploughed field behind the Knight, a craftsman’s bench. The King sits in a robe covered with grapes, on a throne carved with bulls’ heads — the bull of Taurus, an Earth sign.
 
-Example card: the Nine of Pentacles, a woman alone in a vineyard with a bird on her gloved hand. Enjoying what comes, and gratitude for everything you have.
+Example card: the Nine of Pentacles, a woman alone in a vineyard with a bird on her gloved hand. Delight in whatever comes, and thanks for all you already hold.
 
 ## Reading the suits in a spread {#in-a-spread}
 

@@ -23,7 +23,7 @@ What changed my mind was teaching. I sat friends down, people who'd come to make
 
 Three things, all learnable.
 
-**Lowered expectation.** The single most important one. Before every reading I tell myself I'm about to talk nonsense. It sounds like a joke; it's the mechanism. The moment you try to be right, you start constructing — and constructing is the opposite of reading. People with "the gift" are usually people who accidentally learned to stop trying.
+**Lowered expectation.** The single most important one. Before every reading I tell myself I'm about to talk nonsense. That sounds like a joke; it's the mechanism. The moment you try to be right, you start constructing — and constructing is the opposite of reading. People with "the gift" are usually people who accidentally learned to stop trying.
 
 **Attention to the picture.** The cards were drawn to be read. Colour, number, element, posture: [five lenses](/learn-tarot/) that tell you what a card is about before you've learned it. Most of what looks like intuition is fast pattern-reading of pictures, done by someone who's stopped second-guessing.
 
@@ -37,7 +37,7 @@ Do it five times with five people. Count. If you land two or three specific thin
 
 ## Why the sure ones worry me {#the-sure-ones}
 
-The person who tells me "I've always known I was psychic" reads worse, on average, than the sceptic. Certainty about the gift becomes certainty about the reading, and certainty is where the misses hide. The sceptic says "that's probably wrong, but here's what I see" — and that's precisely the state the work needs.
+The person who tells me "I've always known I was psychic" reads worse, on average, than the sceptic. Certainty about the gift becomes certainty about the reading, which is exactly where misses hide. The sceptic says "that's probably wrong, but here's what I see" — and that's precisely the state the work needs.
 
 I'm not saying nobody has unusual perception. I've had experiences I can't explain, and [I've written about some of them](/blog/is-tarot-evil/). I'm saying that none of it was required to read a card, and that treating it as required keeps out the people who'd be best at this: the ones who doubt themselves enough to check.
 
@@ -45,4 +45,4 @@ I'm not saying nobody has unusual perception. I've had experiences I can't expla
 
 It's a Maison Tarot principle and it's the reason I teach rather than read. If reading required a gift, teaching it would be fraud. It doesn't, so I teach it, and I count what my students do the same way I count what I do. Their notebooks look like mine.
 
-If you'd like to try with someone watching, the [free events](/events/) are for that — you'll be read, and then, if you want, you'll read. Ten minutes. No gift required, and none granted.
+For a first try in front of other people, there are the [free events](/events/) — you'll be read, and then, if you want, you'll read. Ten minutes. No gift required, and none granted.

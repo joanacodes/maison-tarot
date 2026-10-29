@@ -19,7 +19,7 @@ It starts with something good. A reading lands. The person comes back, then come
 
 Nobody wakes up wanting followers. It happens by small steps, and that’s why it’s hard to see from the inside.
 
-Two cards hold the risk well. In my notes, the Magician knows how to use everything on his table, but trusted blindly he can pretend. The Emperor gives orders and doesn’t receive them, and like fire he can destroy what he built. A reader with a following can become either, without changing a single card in the deck.
+Two cards hold the risk well. In my notes, the Magician knows how to use everything on his table, but trusted blindly he can pretend. The Emperor is the one who commands and never takes orders, and, being Fire, he can burn down what he built. A reader with a following can become either, without changing a single card in the deck.
 
 {{< cards "ar01 ar04" >}}
 
@@ -37,7 +37,7 @@ People usually fall into these after something that mattered: a reading that hel
 
 ## Hand the decision back {#you-decide}
 
-A reading can put words on something, show an angle you’d missed, confirm what you already knew. It can’t decide for you, and I’ve written why in [tarot is not an authority](/blog/tarot-is-not-an-authority/).
+A reading can name something, point to what you hadn’t noticed, or back up what you suspected. The choice is still yours, and I’ve set out [why no reader, and no deck, gets the final word](/blog/tarot-is-not-an-authority/).
 
 A guru can’t afford to miss. A reader has to. My notebook has its share of misses, and I say each one out loud when it happens. Saying “that one’s a miss” in front of someone is one of the best protections against becoming an oracle in their eyes.
 

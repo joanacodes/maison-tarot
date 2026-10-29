@@ -51,4 +51,4 @@ Cléo's scene gets one more thing right. She's waiting for a medical result, and
 
 ## The next step {#next-step}
 
-Death is one of four cards people fear most, with the Tower, the Devil and the Ten of Swords. I've written about [why the scariest tarot cards are kinder than they look](/blog/scariest-tarot-cards/). And if you'd like to see what happens when Death comes up at a real table, with someone who tells the reader nothing first, the [free events](/events/) are the place.
+Death shares its bad reputation with three other cards — the Tower, the Devil, the Ten of Swords — and I've written about [why the scariest tarot cards are kinder than they look](/blog/scariest-tarot-cards/). Death comes up at real tables too, drawn for people who tell the reader nothing first, and you can see that live at the [free events](/events/).

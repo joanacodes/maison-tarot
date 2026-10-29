@@ -9,7 +9,7 @@ tags: ["host a free tarot reading night", "online tarot event", "free tarot read
 image: "covers/free-tarot-event-online.jpg"
 imageAlt: "A laptop on a kitchen table showing a blurred grid of video call windows, a deck of cards and a kitchen timer beside it"
 imagePrompt: "A laptop open on a kitchen table showing a blurred grid of video call windows, a closed tarot deck and a kitchen timer beside it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "To host a free tarot reading night online, keep it small and clear: a video call of about ninety minutes, people who registered, five or six of them drawn at random, around ten minutes each, read in front of the others. Ask consent before each reading. Say at the start which subjects stay off the table (medical worries, death, pregnancy, lawsuits, money choices, curses, anyone absent) and have a kinder question ready to offer instead. Say misses out loud, sell nothing, and stop before you’re tired. That’s what keeps a free night honest."
+summary: "To host a free tarot reading night online, keep it small and clear: a video call of about ninety minutes, people who registered, five or six of them drawn at random, around ten minutes each, read in front of the others. Ask consent before each reading. Say at the start which subjects stay off the table (medical worries, death, pregnancy, lawsuits, money choices, curses, anyone absent) and have a softer question ready to offer instead. Say misses out loud, sell nothing, and stop before you’re tired. That’s what keeps a free night honest."
 ---
 A free reading night works when it’s small, clear and honest: a set time, a few people drawn at random, a short reading each, and nothing sold at the end. Here’s how I’d set one up, from the format to the questions you’ll gently set aside.
 
@@ -55,12 +55,12 @@ I keep a list of [kinder questions to offer instead](/blog/questions-to-avoid-as
 
 Honesty is what makes a free night worth more than a paid one that hides its misses. Three habits do most of the work:
 
-- Say misses out loud, with no second card drawn to rescue them and no “you’ll understand later”.
-- Sell nothing. No “book a private reading to go deeper” at the end. If you teach, mention it once, at the end, after an evening of saying where you got it wrong.
+- Name each miss as a miss, aloud — no extra card pulled to save it, and no “you’ll understand later”.
+- Sell nothing: no closing pitch for a paid one-to-one reading. If you teach, mention it once, at the end, after an evening of saying where you got it wrong.
 - Write it down afterwards: what you said, and what was confirmed.
 
 People who’ve been to a free reading elsewhere sometimes arrive braced for a pitch. [What to know before a free online reading](/blog/before-a-free-online-reading/) is the page I’d send them before the night, so they know what to expect.
 
 ## Your first night {#next-step}
 
-Pick a date, a ninety-minute slot and a cap of six readings, and put the rules in the invitation. Run the first one with friends of friends if you’re nervous; it’s still a room of people who’ll tell you nothing. And if you’d like to see one from the inside before hosting your own, come and watch one of the [free events](/events/).
+Pick a date, a ninety-minute slot and a cap of six readings, and put the rules in the invitation. Run the first one with friends of friends if you’re nervous; it’s still a room of people who’ll tell you nothing. Before hosting your own, you’re welcome to watch one of mine from the inside at the [free events](/events/).

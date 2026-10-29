@@ -29,7 +29,7 @@ I don’t believe the cards are magic. They’re 78 pictures drawn in 1909 by Pa
 
 I don’t believe in a gift, either. When friends and family have tried reading with me, they’ve said true things without one.
 
-And I don’t claim to know how it works. Nobody does, including the people who sell certainty about it. I walk through the four serious explanations in [how does tarot actually work?](/blog/how-does-tarot-work/) and still end on “I don’t know”.
+And I don’t claim to know how it works. Nobody does — not even the people whose business is sounding sure. I walk through the four serious explanations in [how does tarot actually work?](/blog/how-does-tarot-work/) and still end on “I don’t know”.
 
 ## What I do believe, because I counted {#what-i-counted}
 
@@ -57,6 +57,6 @@ So ask: how do you check? Do you count your misses? Do you ask me to tell you no
 
 ## Do you have to believe to try? {#do-you-have-to-believe}
 
-No. I didn’t. You can come as a sceptic, read for someone who tells you nothing, and write down what happens. If you’d like to know what belief changes in a reading and what it doesn’t, I’ve written about [whether you have to believe in tarot for it to work](/blog/do-you-have-to-believe-in-tarot/).
+No. I didn’t. You can come as a sceptic, read for someone who tells you nothing, and write down what happens. What belief changes in a reading, and what it leaves alone, is the subject of [whether you have to believe in tarot for it to work](/blog/do-you-have-to-believe-in-tarot/).
 
-Or come to one of the [free events](/events/) and watch with your arms crossed. Nobody minds.
+Or watch a [free event](/events/) as a sceptic, arms crossed. Nobody minds.

@@ -17,11 +17,11 @@ Yes, and doubt is a good starting kit. My own doubt was aimed at astrology first
 
 Yes. Learning to read doesn’t ask you to believe anything. It asks you to look at a card, say what you see, and check afterwards whether it landed. Everything in that sequence can be done with your eyebrows raised.
 
-By my own count, every single person I’ve helped read managed it on the first, second or third try. That isn’t a study; it’s my notebook. But it’s why I say anyone can learn, and why I don’t believe in Chosen Ones. Reading is like art: some people have more talent, and anyone who practises can do it. There’s [no gift you need to have first](/blog/do-you-need-psychic-abilities/).
+By my own count, every single person I’ve helped read managed it on the first, second or third try. That isn’t a study; it’s my notebook. But it’s why I say anyone can learn, and why I don’t believe in Chosen Ones. Reading is like any art: talent is unevenly shared, and practice is what gets everyone reading. There’s [no gift you need to have first](/blog/do-you-need-psychic-abilities/).
 
 ## What I did with my own doubt {#my-story}
 
-During the pandemic I played an astrology video purely to laugh at it. Then I read my own birth chart, and it was too precise to wave away.
+During the pandemic I played an astrology video purely to laugh at it. Then I tried it on my own birth chart: too precise to wave away.
 
 So I did what a sceptic does. I gave every placement in my chart a mark, right or wrong, and then marked my family’s, my friends’ and strangers’. Across all of it, 30 to 40% held, which didn’t impress me much. But three placements stood out at 75 to 90%: Saturn, Lilith and Chiron. I wrote up [the whole experiment, numbers included](/blog/i-tested-my-birth-chart/).
 
@@ -31,7 +31,7 @@ I didn’t stop being sceptical. I started counting. When my friends gave me my 
 
 Because the habits that make a reader trustworthy are sceptical habits.
 
-A sceptic keeps an honest notebook: what I said on the left, what was confirmed on the right. A sceptic says “that’s a miss” without trying to rescue it. A sceptic doesn’t accept “it’ll make sense one day” as an answer. **Doubt isn’t the opposite of reading; it’s what keeps a reading honest.**
+A sceptic keeps an honest notebook: every sentence I said, set against what the person actually confirmed. A sceptic says “that’s a miss” without trying to rescue it. A sceptic doesn’t accept “it’ll make sense one day” as an answer. **Doubt isn’t the opposite of reading; it’s what keeps a reading honest.**
 
 There’s also the sentence I teach first, said to yourself before you read: a warning that what comes next could be nonsense. It switches off the part of you that tries to be right. Sceptics tend to find it the most natural sentence in the world.
 
@@ -66,4 +66,4 @@ No belief, no gift, no spiritual identity, no shopping list beyond a deck and a 
 
 The honest limit: if you try it fairly, ten readings or more with people who told you nothing, and your notebook says it doesn’t work for you, that’s a result. I’d rather hear about it than argue with it.
 
-If you’d like to try with someone beside you, a [workshop](/workshops/) has you reading a card within ten minutes, theory afterwards, and ends with everyone reading a card they’ve never seen.
+Doubt travels well in company: a [workshop](/workshops/) has you reading a card within ten minutes, theory afterwards, and ends with everyone reading a card they’ve never seen.

@@ -9,7 +9,7 @@ tags: ["tarot reading wrong", "tarot miss", "tarot accuracy", "tarot journal", "
 image: "covers/tarot-reading-wrong.jpg"
 imageAlt: "A hand writing a short line in an open notebook next to a single face-up card on a wooden table"
 imagePrompt: "A hand writing a short line in an open notebook next to a single face-up card on a wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "When a tarot reading is wrong, say so: “that one’s a miss.” Say it out loud, to the person, without reframing it, without drawing a clarifier card, and without promising it will make sense later. Then write it down — what you said, what they answered — and move on to the next reading. By my own count, about one reading in ten misses, and that number only means something because the misses stay misses. If you were the one being read, you’re allowed to say it didn’t fit and leave it there."
+summary: "When a tarot reading is wrong, say so: “that one’s a miss.” Say it out loud, to the person, without reframing it, without drawing a clarifier card, and without promising it will make sense later. Then write it down — what you said, what they answered — and move on to the next reading. By my own count, about one reading in ten misses, and that figure is worth something only as long as no miss gets turned into a hit. If you were the one being read, you’re allowed to say it didn’t fit and leave it there."
 ---
 When a tarot reading is wrong, say so: “that one’s a miss.” Out loud, to the person, then write it down and move on. No reframing, no extra card, no “it’ll make sense later”.
 
@@ -65,4 +65,4 @@ A good reader will thank you for it. If a reader insists you’ll understand lat
 
 ## Try it at your next reading {#next-step}
 
-Before you start, decide on the sentence you’ll use: “That one’s a miss.” Say it the first time it’s true, write it down, and notice how the next reading goes. It works with friends too, where it’s harder to say and matters more — there’s more on that in [reading tarot for someone else with care](/blog/read-tarot-for-someone-else/). If you’d like to see how misses fit into the larger count, it’s all on the [method page](/method/).
+Before you start, decide on the sentence you’ll use: “That one’s a miss.” Say it the first time it’s true, write it down, and notice how the next reading goes. It works with friends too, where it’s harder to say and matters more — there’s more on that in [reading tarot for someone else with care](/blog/read-tarot-for-someone-else/). How misses fit into the larger count is all on the [method page](/method/).

@@ -22,7 +22,7 @@ That isn't my interpretation. A French MP raised it in a written question in 202
 In practice, a French reader registers like any other self-employed person and follows everyone's rules: tax, price information, consumer law. What French law does punish:
 
 - Fraud (*escroquerie*, article 313-1 of the penal code): getting money out of someone through staged deception, not a mere lie. Up to five years in prison and a €375,000 fine. The curse "discovered" at the end of a reading, to sell the ritual that lifts it, is the textbook case; I've walked through [that script act by act](/blog/lift-the-curse-scam/).
-- Exploiting vulnerability (*abus de faiblesse*, article 223-15-2): taking advantage of someone made fragile by age, illness or disability to make them act against themselves. Since a law of 10 May 2024 on cult-like abuses, psychological subjection has its own article.
+- Exploiting vulnerability (*abus de faiblesse*, article 223-15-2): taking advantage of someone made fragile by age, illness or disability to make them act against themselves. Since a law of 10 May 2024 on cult-like abuses, psychological subjection is an offence in its own right.
 - Consumer law: misleading or aggressive commercial practices, enforced by the consumer authority, the DGCCRF. Complaints go through its SignalConso service.
 
 An honest limit: these laws act after the fact, and someone has to prove something. A wrong reading isn't a crime; a reading sold through staged deception can be. Between the two lies a lot of grey, and sorting it out is a judge's work, not mine.
@@ -51,8 +51,8 @@ For you: legal doesn't mean vetted. Nobody checks a reader's competence before t
 
 If you think you've been taken in, there's no shame in it: these methods are built to work on intelligent people at the moment they're struggling. Stop paying, keep everything, report it (Trading Standards via Citizens Advice in the UK; SignalConso in France), and see a lawyer or a consumer association if you want your money back.
 
-For me: I don't sell readings. I sell lessons, on the terms set out in [my terms of sale](/terms/); my readings cost nothing and happen at public events. And ongoing court cases are among the subjects [I leave out of readings](/disclaimers/#refusals). A legal question deserves a lawyer, not a card. What a reading can hold meanwhile is how you're living through the wait.
+For me: I don't sell readings. I sell lessons, on the terms set out in [my terms of sale](/terms/); my readings cost nothing and happen at public events. And a court case that's still running is something [I keep out of the cards](/disclaimers/#refusals). A legal question deserves a lawyer, not a card. What a reading can hold meanwhile is how you're living through the wait.
 
 ## Before you consult anyone {#before-you-consult}
 
-Before you call a reader or pay for a session, take ten minutes with [the nine red flags of a fake tarot reader](/blog/how-to-spot-a-fake-tarot-reader/). They won't tell you whether a reading is right. They'll tell you whether someone is trying to sell you fear, and that's most of the protection you need.
+Before you call a reader or pay for a session, take ten minutes with [the nine signs I'd check a reader against](/blog/how-to-spot-a-fake-tarot-reader/). They won't tell you whether a reading is right. They'll tell you whether someone is trying to sell you fear, and that's most of the protection you need.

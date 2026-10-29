@@ -35,7 +35,7 @@ Five things, in the order I’d check them.
 
 - Notifications that push you to draw. “Your card is waiting” is about keeping you in the app, not about insight.
 - Streaks and daily rewards, which turn a practice into a habit loop.
-- Yes-or-no answers about health, money, pregnancy or someone else’s feelings. Those are subjects I leave out of readings, because a wrong word there does damage, and a screen can’t see your face when it lands.
+- Yes-or-no answers about health, money, pregnancy or someone else’s feelings. I keep those subjects out of readings: a mistaken sentence on them hurts, and a screen can’t see your face when it lands.
 - AI “readings” built on what you type. You give it your situation, and it hands it back to you in warmer words. I tested that in [is AI tarot accurate?](/blog/is-ai-tarot-accurate/)
 - Paid readers inside the app, billed by the minute or in credits, with a counter you can’t easily see.
 
@@ -57,4 +57,4 @@ A good app shows you the lightning, the crown knocked from the top, the two figu
 
 ## What I’d use instead, mostly {#what-id-use}
 
-An app does what a deck and a notebook already do, with more distractions. One card a day, drawn by hand, described in your own words and checked in the evening, is [the daily practice I’d recommend](/blog/one-card-tarot-pull/). Write it in a [reading notebook](/blog/tarot-journal/) and you’ll keep a record nobody else holds. If you’d like to learn to read without a screen in between, [start here](/learn-tarot/).
+An app does what a deck and a notebook already do, with more distractions. One card a day, drawn by hand, described in your own words and checked in the evening, is [the daily practice I’d recommend](/blog/one-card-tarot-pull/). Write it in a [reading notebook](/blog/tarot-journal/) and you’ll keep a record nobody else holds. Learning to read with no screen in between [starts here](/learn-tarot/).

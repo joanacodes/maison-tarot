@@ -9,7 +9,7 @@ tags: ["same question twice tarot", "repeat tarot readings", "how often to read 
 image: "covers/ask-tarot-the-same-question-twice.jpg"
 imageAlt: "A deck of cards tied with string resting on a windowsill, rain on the glass"
 imagePrompt: "A deck of cards tied with a piece of string resting on a windowsill, raindrops on the glass behind it. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Yes, you can ask tarot the same question twice: nothing breaks and the cards don’t take offence. But a second reading on the same question rarely adds information. It usually reads your anxiety about the first one, and after three or four you have less clarity than you started with. Rather than counting days, wait until something has changed — you’ve acted, news has arrived, the situation has moved. If you’ve asked the same thing more than twice in a month, that’s the signal to put the deck away for a while."
+summary: "Yes, you can ask tarot the same question twice: nothing breaks and the cards don’t take offence. But a second reading on the same question rarely adds information. It usually reads your anxiety about the first one, and after three or four you have less clarity than you started with. Rather than counting days, wait until something has changed — you’ve acted, news has arrived, the situation has moved. If you’ve asked the same thing more than twice in a month, that’s your signal to leave the cards alone for a few weeks."
 ---
 You can ask tarot the same question twice. Nothing breaks, and the cards don’t take offence. But a second reading on the same question rarely tells you anything new; it usually tells you how worried you’ve become since the first. The useful rule isn’t a number of days. It’s whether something has changed.
 
@@ -25,7 +25,7 @@ One question helps here: what would I do differently if the second card said exa
 
 Say someone asks on Monday, “Will I get the job?” and draws the [Eight of Pentacles](/library/tarot-cards/eight-of-pentacles/): a man with hammer and chisel, his finished coins hung up beside him and one more taking shape under his hands. Effort, skill, work still to do. A fair answer.
 
-On Tuesday, still nervous, they ask again and draw the Five of Wands: five figures swinging staffs, nobody coordinated. On Wednesday night, the Moon: a path running between two towers, a dog and a wolf howling, a crayfish crawling out of a pool.
+On Tuesday, still nervous, they ask again and draw the Five of Wands: five figures swinging staffs, nobody coordinated. On Wednesday night, the Moon: two towers with a path running between them, two animals baying at the sky, a crayfish dragging itself from a pool.
 
 {{< cards "pe08 wa05 ar18" >}}
 

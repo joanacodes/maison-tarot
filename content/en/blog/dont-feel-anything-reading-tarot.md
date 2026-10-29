@@ -15,7 +15,7 @@ If you don't feel anything when you read tarot, you're where almost everyone sta
 
 ## What “feeling something” actually feels like {#what-it-feels-like}
 
-We all receive impressions: images, sounds, words, smells, sensations, emotions. Some people are sharper in one channel than another. One person sees a picture, another hears a word, a third feels a weight in their chest. What almost nobody gets is a film playing behind their eyes with a narrator.
+We all receive impressions: images, sounds, words, smells, sensations, emotions. The strongest channel differs from person to person: one sees a picture, another hears a word, a third feels a weight in their chest. What almost nobody gets is a film playing behind their eyes with a narrator.
 
 More often, it feels like your own thought. A word turns up — "kitchen", "brother", "too late" — and it sounds exactly like you. That's why so many beginners decide they felt nothing: what came was quiet and ordinary, and they threw it away while waiting for the real thing.
 
@@ -35,7 +35,7 @@ I'd add two more. Tiredness, because interpreting takes energy, and an empty tan
 
 You don't need to feel anything to begin. You need to look.
 
-Say you draw the Nine of Pentacles. A woman stands in a garden heavy with grapes, in a yellow robe, a bird on her gloved hand. Before any feeling: yellow is joy and optimism. Nine is the final stretch, the push before the finish line. Pentacles are Earth: whatever has value for you, the result of work. My notes on this card say enjoying what comes, and gratitude for everything you have.
+Say you draw the Nine of Pentacles: yellow robe, heavy vines, a bird resting on a gloved hand. Before any feeling: yellow is joy and optimism. Nine is the final stretch, the push before the finish line. Pentacles are Earth: the things that matter to you, and what your work has earned. My notes on this card say enjoying what comes, and gratitude for everything you have.
 
 {{< cards "pe09" >}}
 
@@ -51,7 +51,7 @@ You can't train yourself to feel on command. You can train yourself to let go, a
 - Do something meditative: [sitting still for a few minutes](/blog/meditation-for-beginners/), painting, or looking at a painting the way you'd look at a card.
 - Write down the small things — the stray word, the odd image — even when they feel like nothing. Check later whether they meant something. That's also how you learn to tell [reading from making it up](/blog/am-i-making-it-up-tarot/).
 
-It grows with practice. My notes from 2021, my first full year of reading, show impressions turning up sooner and sooner, often before any shuffle, until I was laying out cards mainly because the sitter liked to see them.
+It grows with practice. My 2021 notes, kept through my first whole year with a deck, show impressions turning up sooner and sooner, often before any shuffle, until I was laying out cards mainly because the sitter liked to see them.
 
 ## When nothing is the answer {#when-nothing-is-the-answer}
 

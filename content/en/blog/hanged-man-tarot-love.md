@@ -31,7 +31,7 @@ Someone else’s decision isn’t something I read on, and I don’t give dates.
 
 The same worry, brought back week after week, often finds the Hanged Man waiting on the table. If you’ve drawn it three times this week asking the same thing, the cards aren’t stuck; the question is ([what repeat readings do to you](/blog/ask-tarot-the-same-question-twice/)).
 
-A kinder question is: “What am I waiting for — and if no answer ever came, how would I spend this time?” You can act on that one today.
+Turn the question round to face you: “What am I waiting for — and if no answer ever came, how would I spend this time?” You can act on that one today.
 
 ## Upright again, and that’s the trouble {#reversed}
 
@@ -55,7 +55,7 @@ After a break-up, the Hanged Man is the in-between. The relationship is over and
 
 Next to Judgement, the pause turns into a review: you’re taking a second look at a relationship, and the Hanged Man says take your time doing it. I go into that card in [Judgement in love](/blog/judgement-tarot-love/).
 
-Next to the Two of Cups, a bond that’s real but on hold: both cups are there, nobody is drinking yet. The useful question is who is waiting for whom to lift theirs first, and whether either of you has said so.
+Paired with the Two of Cups, the bond is real but on pause: both cups are there, nobody is drinking yet. The useful question is who is waiting for whom to lift theirs first, and whether either of you has said so.
 
 Next to the Eight of Cups, the pause is preparing a departure — someone is slowly understanding that it’s time to walk away from what they built.
 
@@ -63,4 +63,4 @@ Next to the Eight of Cups, the pause is preparing a departure — someone is slo
 
 Pick one thing that is in your hands — a friendship you’ve neglected, a project, your sleep — and give it the attention you were giving to the wait. A week is enough to notice the difference. Waiting shrinks when it stops being the only thing you’re doing.
 
-Then, if you’d like to look at the relationship with the cards, use a layout that keeps you at the centre: [my love spread](/blog/love-tarot-spread/) reads you and the bond between you, never what the other person is thinking.
+Then, when you do turn the cards on the relationship, use a layout that keeps you at the centre: [my love spread](/blog/love-tarot-spread/) reads you and the bond between you, never what the other person is thinking.

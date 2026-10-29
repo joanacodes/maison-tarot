@@ -64,7 +64,7 @@ The [Five of Cups](/library/tarot-cards/five-of-cups/) is Mars in Scorpio. My no
 
 The Eight of Swords is Jupiter in Gemini. My note: a cell of your own making while every tool to open it is already yours, and nothing but you keeps the blindfold on. Jupiter enlarges; Gemini's verb is “I think”. Together: a mind that has grown too many thoughts to see the way out.
 
-The Six of Cups is the Sun in Scorpio. My note: taking time for yourself, childhood, flowering again. The Sun lighting up Scorpio's depths reads as warmth found in old, deep places — a memory, a person from long ago.
+The Six of Cups is the Sun in Scorpio. My note keeps it close to childhood: time kept for yourself, and a second bloom. The Sun lighting up Scorpio's depths reads as warmth found in old, deep places — a memory, a person from long ago.
 
 ## How to use the decans lightly {#use-lightly}
 
@@ -73,7 +73,7 @@ The Six of Cups is the Sun in Scorpio. My note: taking time for yourself, childh
 3. For a ten-day theme, put the current decan's card on your table and note what you notice. Nothing more.
 4. If astrology isn't your lens, skip all of this. The cards read perfectly well without it.
 
-The honest limit: this is an elegant system, but it's a nineteenth-century layer on a fifteenth-century card game, not something tarot always had. When I tested my own chart, placements held about 30–40% of the time overall, and I've never tested the decans at all, so I have no number to give you. Treat them as one more way of looking, and remember that [astrology is not an excuse](/disclaimers/#astrology).
+The honest limit: this is an elegant system, but it's a nineteenth-century layer on a fifteenth-century card game, not something tarot always had. When I tested my own chart, placements held about 30–40% of the time overall, and the decans were never part of that test, so I can't put a figure on them. Treat them as one more way of looking, and remember that [astrology is not an excuse](/disclaimers/#astrology).
 
 ## The next step {#next-step}
 

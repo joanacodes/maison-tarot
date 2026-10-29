@@ -46,7 +46,7 @@ Say someone, a few months after a loss, draws the Five of Cups, the Three of Cup
 
 {{< cards "cu05 cu03 ar09 cuqu" >}}
 
-The Five of Cups is the most sorrowful card I know, and it fits a loss like this one: grief, a darkened mood, and solitude inside it. A cloaked figure looks down at three spilled cups. Two still stand behind them, and a bridge crosses the river, though the figure hasn’t turned round yet. The Three of Cups, three women dancing with their cups raised, might bring back a celebration: a birthday, a wedding, a good evening with friends. Three is the number of a bond that works.
+The Five of Cups is the most sorrowful card I know, and it fits a loss like this one: grief, a darkened mood, and solitude inside it. A cloaked figure looks down at three spilled cups. Two still stand behind them, and a bridge crosses the river, though the figure hasn’t turned round yet. The Three of Cups, three women dancing with their cups raised, might bring back a celebration: a birthday, a wedding, a good evening with friends. In my number notes, three means people on good terms, a rhythm that holds.
 
 The Hermit holds a lantern on a snowy peak: withdraw a little this week, with just enough light for the next step. And the Queen of Cups sits at the water’s edge, looking into an ornate cup. [Water](/library/four-elements/water-element/) is feeling; she’s someone warm who listens without hurrying you. Who in your life is like her? That’s who to call.
 
@@ -65,6 +65,6 @@ If you’re drawing every night, try a few evenings without the deck. It isn’t
 
 ## A first gentle step {#first-step}
 
-Tonight, if you’d like to: one card, one line about them, one line about you. Then put the deck away and send a message to someone who knew them.
+Tonight, if it feels right: one card, one line about them, one line about you. Then put the deck away and send a message to someone who knew them.
 
 At this time of year, with All Saints and the evenings drawing in, some people prefer a quieter, older ritual of remembering. If that’s you, [the ancestor spread](/blog/ancestor-tarot-spread/) is built for it, and it’s gentle too.

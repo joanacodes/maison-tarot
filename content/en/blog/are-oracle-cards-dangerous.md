@@ -21,7 +21,7 @@ All of those deserve a straight answer rather than a smile. If your faith asks y
 
 ## What an oracle deck is, and what it can't do {#what-it-is}
 
-An oracle deck is a set of cards for reflection or divination that doesn't follow tarot's fixed structure. Its creator decides how many cards there are, what each one means, and often prints a word or a phrase on each. Say you draw a card showing a closed door with the word “Wait” underneath: the creator has written the message, and the card hands it to you.
+Oracle decks are made for reflection or divination, to whatever plan their maker chooses: how many cards there are, what each one means, and often a word or a phrase printed on each. Say you draw a card showing a closed door with the word “Wait” underneath: the creator has written the message, and the card hands it to you.
 
 That's all a deck can do: show a picture and a word. It doesn't choose you, follow you home or need anything from you. Whatever happens in a reading comes from the person reading, not from the box.
 
@@ -64,4 +64,4 @@ And some people use cards to try to reach spirits. My own view is cautious: if y
 4. Write down what you said, and check in a week whether it helped.
 5. If a reader starts promising, close the tab.
 
-If you're still choosing between decks, I've explained [the difference between tarot and oracle cards](/blog/tarot-vs-oracle-cards/). And if you'd like to know what the words readers use actually promise, [guidance, clairvoyance and reading](/blog/guidance-or-clairvoyance/) are defined plainly.
+If you're still choosing between decks, I've explained [the difference between tarot and oracle cards](/blog/tarot-vs-oracle-cards/). And for what the words readers use actually promise, [guidance, clairvoyance and reading](/blog/guidance-or-clairvoyance/) are defined plainly.

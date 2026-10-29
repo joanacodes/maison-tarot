@@ -77,4 +77,4 @@ Nobody stops noticing things on command, and I’m no exception. What I can do i
 
 The honest limit: silence doesn’t switch off every cue. A voice, a face on a video call, a hesitation still carry information, and I can’t promise I never use them. What the silence does is make the rest checkable. I explain the full set-up on the [method page](/method/).
 
-If you’d like to watch it done with nothing said first, the [free events](/events/) work exactly that way.
+Everything on that list is applied live at every [free event](/events/): nobody says a word before their card is read.

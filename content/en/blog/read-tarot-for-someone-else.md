@@ -9,7 +9,7 @@ tags: ["reading tarot for others", "tarot for friends", "tarot consent", "silenc
 image: "covers/read-tarot-for-someone-else.jpg"
 imageAlt: "Two people at a kitchen table seen from the shoulders down, one turning over a single card while the other holds a mug"
 imagePrompt: "Two people at a kitchen table seen from the shoulders down, one turning over a single card while the other holds a mug with both hands. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "To read tarot for someone else with care, start with a real yes: ask permission, and accept a no. Then ask them to tell you nothing, so you read the cards rather than what you already know — which matters twice as much with friends. Describe the drawing before you interpret it, and choose words the person can carry: you may leave something unsaid, but never say what you don’t see. Leave health, pregnancy, death, court cases and money decisions aside, and end by handing the decision back."
+summary: "Careful reading for someone else starts with a real yes: ask permission, and accept a no. Then ask them to tell you nothing, so you read the cards rather than what you already know — which matters twice as much with friends. Describe the drawing before you interpret it, and choose words the person can carry: you may leave something unsaid, but never say what you don’t see. Leave health, pregnancy, death, court cases and money decisions aside, and end by handing the decision back."
 ---
 Reading for someone else starts before the cards come out, with a yes. Ask permission, ask the person to tell you nothing, and choose words they can carry home. With friends, the same rules apply, plus one more: the friendship comes first and the reading second.
 
@@ -39,7 +39,7 @@ So describe the drawing first, out loud, before you go anywhere near what you kn
 
 Sometimes a sentence will feel wrong to say, or wrong to say that way: they may not be ready, they may be frightened, or they may not trust the whole thing yet. Adapt your attitude and your words. **Leave a thing unsaid if you need to, but never say something you don’t see.**
 
-Even a heavy card has a lighter side, and it’s still a drawing with more than one thing in it. Say your friend draws the Ten of Swords and the Five of Cups.
+Even a heavy card has a lighter side, and it’s still a drawing with more than one thing in it. Suppose your friend turns up the Ten of Swords, then the Five of Cups.
 
 {{< cards "sw10 cu05" >}}
 
@@ -57,7 +57,7 @@ Friends are where almost everyone starts, and it’s a good place. It’s also w
 4. Don’t become their daily oracle. If the same friend asks about the same thing every week, say so kindly and suggest a pause.
 5. The subjects I leave aside with strangers, I leave aside with friends: health, pregnancy, death, ongoing court cases, money decisions. The [list, with my reasons](/disclaimers/#refusals), is public.
 
-When a friend asks about one of those, it’s almost always worry talking. Acknowledge it, say gently that the cards aren’t the right tool for that, and offer a kinder question: “What would make this week easier to carry?” is one the cards can hold.
+When a friend asks about one of those, it’s almost always worry talking. Acknowledge it, say gently that the cards aren’t the right tool for that, and offer something they can ask instead: “What would make this week easier to carry?” is one the cards can hold.
 
 ## When you see nothing, or it’s too much {#nothing-or-too-much}
 

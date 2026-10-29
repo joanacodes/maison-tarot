@@ -31,7 +31,7 @@ That’s the question with this card, nearly every time. It’s a brave one — 
 
 I don’t read what another person feels. They’re not in the room, they haven’t agreed, and anything a card “said” about their heart would really be your hope or your fear, dressed up as theirs. I’ve written about [why I leave other people’s hearts out of my readings](/blog/reading-tarot-about-someone-else/).
 
-A kinder question: “What am I bringing to this cup — and what would I need to see to know it’s mutual?” The second half isn’t answered by cards. It’s answered by how the other person behaves when you’re both at the table.
+Hold the cup up to yourself: “What am I bringing to this cup — and what would I need to see to know it’s mutual?” The second half isn’t answered by cards. It’s answered by how the other person behaves when you’re both at the table.
 
 The [first time I read for a stranger](/blog/first-tarot-reading-story/) is a good reminder of where the cards look: at your side of the cup.
 
@@ -65,4 +65,4 @@ The card answers the second half of its own title: the cups stay level, and the 
 
 Something to try this week, if you’re in a relationship: each of you writes down three things you bring and three things you receive. Then compare the lists. If they’re roughly level, so are the cups. If they aren’t, you’ve found the conversation to have — gently, at the same height, the way the card draws it.
 
-If you’d like to look at a relationship with the cards, [my love spread](/blog/love-tarot-spread/) keeps both of you in view without trying to read anyone’s mind.
+For a relationship read with the cards, [my love spread](/blog/love-tarot-spread/) keeps both of you in view without trying to read anyone’s mind.

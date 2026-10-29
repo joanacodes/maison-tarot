@@ -62,4 +62,4 @@ I don’t sell readings, so I’m outside this market. I sell lessons — one-to
 
 One honest limit: no price list tells you what a reading is worth to you. That depends on what you do with it afterwards, and a reading isn’t a reason to act.
 
-If you’d like to see a reading before you ever pay for one, [come to a free event](/events/). People are drawn at random, they tell me nothing, and the misses are said out loud.
+Before you ever pay for a reading, you can watch one for nothing at a [free event](/events/). People are drawn at random, they tell me nothing, and the misses are said out loud.

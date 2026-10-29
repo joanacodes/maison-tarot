@@ -13,7 +13,7 @@ summary: "Mercury is retrograde three times in 2026: 26 February to 20 March in 
 ---
 Mercury goes retrograde three times in 2026 and three times in 2027, for about three weeks each time. The last one of 2026 began on 24 October, in Scorpio, and ends on 13 November. Below are all six periods with their signs, then what I'd actually expect from them — which is less than the internet promises.
 
-If you'd like to know what a retrograde is before you look at the calendar, it's all in [my plain explainer on Mercury retrograde](/blog/mercury-retrograde/). Here, only the dates and how to live with them.
+This page is only the calendar and how to live with it; for what a retrograde actually is, start with [my plain explainer on Mercury retrograde](/blog/mercury-retrograde/).
 
 ## Mercury retrograde 2026: the three periods {#dates-2026}
 
@@ -43,7 +43,7 @@ These dates agree across the ephemerides and almanacs I checked, including [Cafe
 
 ## What to expect, honestly {#what-to-expect}
 
-Expect three things around each of these dates. A wave of warnings first: posts and videos about lost emails and returning exes, starting a few days before the station. Then the usual advice, which is sound in any month: read a contract twice before you sign it, back up your phone, check the train times. And then three weeks much like any others. Why I don't blame the planet for what goes wrong in them is in the explainer linked above, so I won't repeat it here.
+Expect three things around each of these dates. A wave of warnings first: posts and videos about lost emails and returning exes, starting a few days before the station. Then the usual advice, sound in any month: reread contracts before signing, save copies of your photos and files, double-check your journeys. And then three weeks much like any others. Why I don't blame the planet for what goes wrong in them is in the explainer linked above, so I won't repeat it here.
 
 If you follow the signs, these six have a pattern. All three retrogrades of 2026 sit in Water signs. Each one in 2027 starts in a Water sign and backs into an Air sign. With the verbs from my notes, 2026 asks you to go back over what you believe (Pisces), what you feel (Cancer) and what you desire (Scorpio); 2027 carries each of those into the head, towards what you know (Aquarius), what you think (Gemini) and how you weigh things up (Libra). That's a way of reading the calendar, not a forecast.
 

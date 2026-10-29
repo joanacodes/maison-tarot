@@ -21,7 +21,7 @@ Say you sit down, say nothing, and draw the Ten of Wands next to the Four of Swo
 
 {{< cards "wa10 sw04" >}}
 
-The Ten of Wands is someone carrying a bundle of wands so big they can’t see where they’re going. In my notes, it says keep the creative energy, without overloading. The Four of Swords is a figure lying still, at rest. Together: you’re carrying more than you need to, and some rest wouldn’t be a luxury.
+The Ten of Wands is someone carrying a bundle of wands so big they can’t see where they’re going. My notes give it one instruction: keep the creative energy, but don’t overload. The Four of Swords is a figure lying still, at rest. Together: the load is heavier than it has to be, and some rest wouldn’t be a luxury.
 
 **A check-up reads the present, not the future.** It won’t tell you what happens next month. It can show you how you’re walking into it, which is the part you can change. Every few months is plenty; once a week stops being a check-up.
 
@@ -62,4 +62,4 @@ But the date matters much less than the state you arrive in. A calm Tuesday beat
 4. You’re ready to hear “that’s a miss” and not ask again.
 5. You plan to make the decision yourself afterwards.
 
-Four out of five, and it’s a good time. Fewer, and it can wait; you’ll hear the cards better for the pause. I don’t sell readings; I give them away at the [free events](/events/), where the people read are drawn at random. Before you come, there’s a short guide to [reading etiquette before, during and after](/blog/tarot-reading-etiquette/).
+Four out of five, and it’s a good time. Fewer, and it can wait; you’ll hear the cards better for the pause. I don’t charge for readings: you’ll find them at the [free events](/events/), where the people read are drawn at random. Before you come, there’s a short guide to [reading etiquette before, during and after](/blog/tarot-reading-etiquette/).

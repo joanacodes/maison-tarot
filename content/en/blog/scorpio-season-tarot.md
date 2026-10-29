@@ -21,7 +21,7 @@ Scorpio’s verb is *I desire*. Its element is [Water](/library/four-elements/wa
 
 ## Scorpio, in my notes {#scorpio-energy}
 
-Intensity is the first thing to know about Scorpio, and its strength sits in the sting: it can always find the place that hurts. That makes it wary and observant, and it means this energy can kill as well as it can heal. On the good side: a very good observer, a very good healer. On the other: toxic ties, and a pull towards isolation.
+Intensity is the first thing to know about Scorpio, and its strength sits in the sting: it can always find the place that hurts. That makes it wary and observant, and it means this energy can harm as surely as it can heal. At its best, Scorpio watches closely and heals well. On the other side: toxic ties, and a pull towards isolation.
 
 Its archetype, in my notes, is the guest who stays silent at a party and still has the whole room looking their way. Picture them in the armchair at the edge of the room, watching, saying one sentence all evening — the one everyone remembers.
 
@@ -33,9 +33,9 @@ The card called Death doesn’t foretell anyone’s death. My notes connect it t
 
 {{< cards "ar13 cu05 cu06 cu07" >}}
 
-Three minor cards carry the sign too, one for each ten days of the season, roughly: the Five of Cups (Mars in Scorpio), the Six of Cups (the Sun in Scorpio) and the Seven of Cups (Venus in Scorpio). The order tells a story. The Five of Cups marks the low point, of these three and, in my notes, of the whole deck: loss, a dark mood, problems faced alone. The Six is taking time for yourself, childhood, flowering again. The Seven can’t choose, with too much on offer at once. Grief, comfort, then the open question of what next. The [decans](/blog/decans-tarot/) explain how these attributions work.
+Three minor cards carry the sign too, one for each ten days of the season, roughly: the Five of Cups (Mars in Scorpio), the Six of Cups (the Sun in Scorpio) and the Seven of Cups (Venus in Scorpio). The order tells a story. The Five of Cups marks the low point, of these three and, in my notes, of the whole deck: loss, a dark mood, problems faced alone. The Six is a pause just for you, a return to childhood, things starting to grow again. The Seven can’t choose, with too much on offer at once. Grief, comfort, then the open question of what next. The [decans](/blog/decans-tarot/) explain how these attributions work.
 
-The season also crosses [Samhain](/blog/samhain-tarot/) and All Saints, when many people remember their dead. If you’re carrying a loss right now, I’m sorry. I don’t read on death or on health, because a card doesn’t announce either, and a wrong word there can do real harm. What a reading can hold is how you’re carrying it; [why I step back from those questions](/blog/health-pregnancy-death-tarot/) explains the rest.
+The season also crosses [Samhain](/blog/samhain-tarot/) and All Saints, when many people remember their dead. If you’re carrying a loss right now, I’m sorry. I don’t read on death or on health: a card doesn’t announce either, and on those subjects a careless sentence can hurt someone badly. What a reading can hold is how you’re carrying it; [why I step back from those questions](/blog/health-pregnancy-death-tarot/) explains the rest.
 
 ## What to read for this month {#what-to-read-for}
 

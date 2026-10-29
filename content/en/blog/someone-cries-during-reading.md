@@ -15,7 +15,7 @@ Stop, stay, and let them cry. Tears during a reading rarely mean something went 
 
 ## Why people cry during a reading {#why-people-cry}
 
-I know this from the other chair. A pick-a-card video by Kloee Taylor once made me sob, not tear up. Nobody had ever named what I was living through until then, and what made me cry was hearing it said out loud by someone else. I've told [the story of that video](/blog/do-pick-a-card-readings-work/) in full.
+I know this from the other chair. One of Kloee Taylor's pick-a-card videos once made me sob, not tear up. Nobody had ever named what I was living through until then, and what made me cry was hearing it said out loud by someone else. I've told [the story of that video](/blog/do-pick-a-card-readings-work/) in full.
 
 If you read for other people for long enough, it will happen at your table too. People cry in readings for all sorts of reasons: relief, recognition, a grief they've been holding for months, tiredness, the strangeness of hearing a stranger say something true. Very few of those are sadness about a card.
 

@@ -31,7 +31,7 @@ Because the Empress is the mother card, the question that comes with her is ofte
 
 Pregnancy and fertility are outside what I read. Not because the question isn’t important — because it’s too important for a card. A wrong word there does real harm, in either direction, and a doctor or a fertility specialist can give you answers I can’t. I’ve written about [pregnancy questions, and what I’d read instead](/blog/tarot-cards-pregnancy/).
 
-What the Empress can hold meanwhile is the other half of her: care for you. A kinder question is “Who looks after me while I look after everyone else?” or “What would make me feel nourished this month?” My notes on [shadow work](/blog/shadow-work-beginners/) say to be as gentle and tolerant with yourself as you are with others. The Empress is that sentence, drawn.
+What the Empress can hold meanwhile is the other half of her: care for you. Ask her something closer to home: “Who looks after me while I look after everyone else?” or “What would make me feel nourished this month?” My notes on [shadow work](/blog/shadow-work-beginners/) say to be as gentle and tolerant with yourself as you are with others. The Empress is that sentence, drawn.
 
 ## Who feeds whom: single, together, after a break-up {#who-feeds}
 
@@ -67,4 +67,4 @@ Both are tiring, and both start to shift with the same question: who looks after
 
 Pick one thing this week that feeds you and nobody else: a meal you cook only for yourself, a long walk, an afternoon with no one to look after. Notice whether it comes naturally or takes effort. Either answer tells you something.
 
-If you’d like to explore the Empress and her lenses with other people, [the workshops](/workshops/) take one lens at a time: three hours, twelve people round a table.
+Her lenses are easier to see when other people are looking too: [the workshops](/workshops/) take one lens at a time, with three hours and twelve people round a table.

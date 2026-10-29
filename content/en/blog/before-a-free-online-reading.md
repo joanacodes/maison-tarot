@@ -23,7 +23,7 @@ Nobody is sold anything. There is no "book a private reading to go deeper", beca
 
 ## What's refused, even for free {#refused}
 
-Health, death, pregnancy, an ongoing court case, money, and anything to do with a "curse". If your question is one of those, I'll say so kindly and move on. Not because a card can't fall on them — because a wrong word there does damage, and I'm wrong one time in ten. [The full list, and why.](/disclaimers/#refusals)
+Health, death, pregnancy, a pending court case, money, and anything to do with a "curse". If your question is one of those, I'll say so kindly and move on. Not because the cards are blind to them — because a wrong word there does damage, and I'm wrong one time in ten. [The full list, and why.](/disclaimers/#refusals)
 
 And if you're in distress that evening: say so, privately, and I'll skip you. A reading is not the right tool for that night. A break is.
 

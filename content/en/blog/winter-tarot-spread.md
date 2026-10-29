@@ -37,11 +37,11 @@ On the fifth evening, read the row as one story.
 
 ## A winter spread, card by card {#example}
 
-Say someone draws, over five evenings, the Five of Pentacles, the Four of Wands, the Seven of Pentacles, the Hermit and the Ace of Pentacles.
+Here’s an imagined draw, one card a night over five evenings: the Five of Pentacles, the Four of Wands, the Seven of Pentacles, the Hermit and the Ace of Pentacles.
 
 {{< cards "pe05 wa04 pe07 ar09 peac" >}}
 
-*What the year used up:* the Five of Pentacles, two figures walking through the snow, one on crutches, past a lit church window. In my notes it’s poverty, snow, and the church where warmth could be found. Tired and cold — and walking past the help that’s right there.
+*What the year used up:* the Five of Pentacles, two figures walking through the snow, one on crutches, past a lit church window. My notes sum it up as hardship in the snow, with warmth to be had in the church. Tired and cold — and walking past the help that’s right there.
 
 *What keeps me warm:* the Four of Wands, garlands hung between four wands and people raising flowers in front of a castle. In my notes, foundations, marriage, building a family. Home, and the people in it.
 
@@ -57,7 +57,7 @@ Three Pentacles out of five: this winter is about the body and the practical thi
 
 In my colour grid, [black](/library/tarot-colours/black/) is absence and void, and also emptying the mind and reality: the bare thing, without varnish. The dark weeks can do that too. Fewer hours of light, fewer plans, a little more truth.
 
-I used to wait for a light to come on before I walked into a dark room; turning on every light at night was living in fear without noticing it. Today I walk through my place with the lights off, and a noise at night doesn’t frighten me. I wrote about that change, and what shadow work has to do with it, in [afraid of the dark](/blog/afraid-of-the-dark/).
+I used to wait for a light to come on before I walked into a dark room; switching on every lamp at night was a fear I hadn’t even noticed. These days I cross my place without switching anything on, and a noise at night doesn’t frighten me. I wrote about that change, and what shadow work has to do with it, in [afraid of the dark](/blog/afraid-of-the-dark/).
 
 The honest limit: a spread doesn’t lift a heavy mood. If the dark weeks weigh on you every year more than rest can fix, mention it to your doctor; that’s a question for a person, not a deck.
 

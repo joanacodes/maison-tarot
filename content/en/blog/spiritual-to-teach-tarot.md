@@ -25,7 +25,7 @@ You can teach art history without being religious, and you can guide people roun
 
 I teach five lenses: colours, the four elements, the numbers 1 to 10, feminine and masculine energies, and the astrological modes, with astrology and symbols as extras. Each one is a way of looking that a sceptic and a believer can use in exactly the same way.
 
-Take the Six of Cups. In my notes, the number 6 is “3 exalted”: the machine is launched and running fast, and it’s possible to rest, even take a holiday. Cups are Water: emotions, relationships. Put the two together and you get something like taking time for yourself, going back to what made you happy as a child, harmony.
+Take the Six of Cups. My notes make 6 a doubled 3: the machine is up and running at speed, and there’s room to rest, even take a holiday. Cups are Water: emotions, relationships. Put the two together and you get something like time set aside for yourself, a return to what made you happy as a child, harmony.
 
 {{< cards "cu06" >}}
 
@@ -63,6 +63,6 @@ Nothing on that list asks what you believe. It asks how you work.
 
 ## Where to start {#start}
 
-If you want to see a lens-first class from the inside, the [workshops](/workshops/) last three hours, for twelve people, one lens each, with a card on the table before any explanation.
+For a lens-first class seen from the inside, the [workshops](/workshops/) last three hours, for twelve people, one lens each, with a card on the table before any explanation.
 
 Or start tomorrow, at home. Ask a friend to tell you nothing, hand them one card, and ask them which colour they see first. Then listen.

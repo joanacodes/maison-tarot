@@ -9,9 +9,9 @@ tags: ["major arcana", "minor arcana", "major vs minor arcana", "tarot for begin
 image: "covers/major-vs-minor-arcana.jpg"
 imageAlt: "Two piles of face-down tarot cards on a wooden table, one small and one much taller."
 imagePrompt: "Two face-down piles of tarot cards side by side on a wooden kitchen table, one small and one much taller. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "A tarot deck has 78 cards in two groups. The 22 major arcana are numbered 0 to 21 and each has its own name — the Fool, Death, the World: they speak about the big chapters of a life. The 56 minor arcana are four suits (Wands, Cups, Swords, Pentacles), each with Ace to Ten and four court cards: they speak about the days inside those chapters. In a spread, count them first. Several majors say something larger than the question is open; mostly minors say the matter is everyday and in the person’s hands."
+summary: "A tarot deck has 78 cards in two groups. The 22 major arcana are numbered 0 to 21 and each has its own name — the Fool, Death, the World: they stand for the long stretches that shape a life. The 56 minor arcana are four suits (Wands, Cups, Swords, Pentacles), each with Ace to Ten and four court cards: they stand for the everyday moments within those stretches. In a spread, count them first. Several majors say something larger than the question is open; mostly minors say the matter is everyday and in the person’s hands."
 ---
-A tarot deck has 78 cards, and they fall into two groups. The 22 major arcana are the named cards — the Fool, the Lovers, Death, the World — and they speak about the big chapters of a life. The 56 minor arcana are the four suits, and they speak about the days inside those chapters.
+A tarot deck has 78 cards, and they fall into two groups. The 22 major arcana are the named cards — the Fool, the Lovers, Death, the World — and they mark the big chapters a life falls into. The 56 minor arcana are the four suits, and they fill in the day-to-day of each chapter.
 
 That’s the whole difference. What makes it useful is counting them when they land on the table.
 
@@ -23,7 +23,7 @@ They describe themes that take months or years, not afternoons. A beginning with
 
 {{< cards "ar00 ar09 ar13 ar21" >}}
 
-I read them with the same lenses as any other card — colour, number, element — and they also carry an astrological attribution, which you can take or leave. Their numbers above 10 reduce: the Devil, 15, becomes 1 + 5 = 6. If you want all 22 in one place, [the major arcana page](/blog/major-arcana/) gives each one a paragraph.
+I read them through the lenses I use on every card — colour, number, element — and they also carry an astrological attribution, which you can take or leave. Their numbers above 10 reduce: the Devil, 15, becomes 1 + 5 = 6. If you want all 22 in one place, [the major arcana page](/blog/major-arcana/) gives each one a paragraph.
 
 ## What the minor arcana are {#minor-arcana}
 
