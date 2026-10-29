@@ -1,6 +1,6 @@
 ---
 title: "Le chemin dans le tarot : ce que le symbole veut dire, et les cartes où il apparaît"
-description: "Le chemin dans le tarot Rider-Waite-Smith : Tempérance, la Lune, l’As et le Huit de Pentacles, et le Huit de Coupes sans route. Ce qu’il dit, et comment le lire."
+description: "Le chemin dans le tarot Rider-Waite-Smith : Tempérance, la Lune, l’As et le Huit de Pentacles, et le Huit de Coupes sans route. Où mène chacun, et comment le lire."
 translationKey: "sym-path"
 type: library
 navTitle: "Le chemin"

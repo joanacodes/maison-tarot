@@ -14,10 +14,8 @@ related:
 - /bibliotheque/quatre-elements/air
 - /bibliotheque/energies-feminine-masculine
 notClaim:
-- Les correspondances élément–enseigne sont celles de la tradition du Rider-Waite-Smith.
-  D’autres jeux font d’autres choix.
-- 'Un élément est une clé de lecture, pas un verdict : il dit de quoi la carte parle,
-  pas ce qui va arriver.'
+- "L’association Pentacles–Terre est celle du Rider-Waite-Smith ; d’autres jeux sont libres d’en choisir une autre."
+- "La Terre dit qu’une carte de Pentacles parle de valeur — l’argent, un foyer, un corps, le travail et ce qu’il rapporte. Elle ne dit pas ce que tout cela vaudra l’an prochain."
 categories:
 - Elements
 tags:

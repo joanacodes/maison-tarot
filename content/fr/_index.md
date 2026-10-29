@@ -26,11 +26,11 @@ offers:
     alt: "Un ordinateur, une carte, une main"
     details:
       - { q: "Ce qui est inclus", a: "Une heure en visio, un tirage lu à deux, les clés de lecture utilisées envoyées par écrit après. Aucun abonnement." }
-      - { q: "Déroulé", a: "Vous ne me dites rien. On tire, vous lisez d’abord, je lis ensuite, on compare." }
+      - { q: "Déroulé", a: "Vous ne me dites rien. Une carte tombe, vous la lisez la première, puis moi, et on met les deux lectures côte à côte." }
       - { q: "Prix", a: "60 € l’heure, TTC. Une session s’offre." }
   - kicker: "en groupe · 3 h · 12 personnes"
     title: "Ateliers"
-    text: "Une clé de lecture par atelier : les couleurs, les nombres, les éléments et les énergies. À la fin, vous lisez une carte inconnue devant les autres."
+    text: "Une clé de lecture par atelier : les couleurs, les nombres, les éléments et les énergies. Pour finir, chacun lit devant le groupe une carte qu’il découvre."
     cta: "Voir les ateliers"
     ref: "/ateliers"
     image: "workshop.jpg"

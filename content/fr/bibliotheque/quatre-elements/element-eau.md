@@ -14,8 +14,8 @@ related:
 - /bibliotheque/quatre-elements/air
 - /bibliotheque/energies-feminine-masculine
 notClaim:
-- Les correspondances élément–enseigne sont celles de la tradition du Rider-Waite-Smith.
-- Un élément dit de quoi la carte parle, pas ce qui va arriver.
+- "Les Coupes à l’Eau, c’est la convention du jeu de 1909 qu’utilisent toutes les pages de la Bibliothèque, pas une règle universelle."
+- "L’Eau désigne le terrain — les sentiments, les liens, ce qu’on a laissé s’infiltrer — et s’arrête là. Aucune Coupe ne prédit si un amour va durer."
 categories:
 - Elements
 tags:

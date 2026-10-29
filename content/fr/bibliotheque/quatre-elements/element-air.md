@@ -14,9 +14,8 @@ related:
 - /bibliotheque/quatre-elements/feu
 - /bibliotheque/energies-feminine-masculine
 notClaim:
-- Les correspondances élément–enseigne sont celles de la tradition du Rider-Waite-Smith.
-  Certaines écoles inversent Air et Feu ; la Maison suit le Rider-Waite-Smith.
-- Un élément dit de quoi la carte parle, pas ce qui va arriver.
+- "Les Épées sont l’Air dans le jeu de Waite et Smith. Certaines écoles les donnent au Feu ; je garde l’attribution de 1909."
+- "L’Air montre qu’une carte d’Épées parle de penser et de trancher. Dans quel sens tombera la décision, il ne peut pas le dire."
 categories:
 - Elements
 tags:

@@ -3,36 +3,85 @@
 Everything on the branch `claude/write-all-articles` that needs you, most important first. Nothing here blocks publishing: every article is complete as it stands.
 
 - **Decisions** (below): a short answer each, then I make the edits on every page concerned.
-- **Questions** ([`docs/QUESTIONNAIRE.md`](QUESTIONNAIRE.md), 125 questions): details only you know. Each answer adds a line of first-hand experience to an article — the thing Google rewards and nobody else can write.
+- **Questions** ([`docs/QUESTIONNAIRE.md`](QUESTIONNAIRE.md), 124 questions): details only you know. Each answer adds a line of first-hand experience to an article — the thing Google rewards and nobody else can write.
 - **Pictures**: [`docs/IMAGES.md`](IMAGES.md).
 
-## Decisions only you can make
+## Still open
 
-Each of these affects several pages. One answer from you, then a few minutes of edits on my side.
+1. **A business phone number for the legal notice.**
+   - French law (the LCEN) asks a person who publishes a site professionally for a name, an address and a phone number.
+   - A professional number is fine, such as a second line or a virtual number. It goes in `hugo.toml`, `phone = ""` under `[params.legal]`.
+   - Until then the legal notice shows a gold "to complete" mark.
+2. **A consumer mediator.**
+   - Because you sell lessons to the public, French law asks you to name a consumer mediator customers can turn to, free for them.
+   - You sign up with one (several approved mediators exist, for a yearly fee), then put its name and website in `mediator = ""`. The terms already have the sentence waiting for it.
 
-1. **Your sign ↔ card table.** Your sign pages, the modes page and *I tested my birth chart* give Taurus → the Empress and Cancer → the High Priestess. The card pages, the Tree of Life and the Golden Dawn give Taurus → the Hierophant and Cancer → the Chariot. The new articles avoid the two disputed cards. Choose one:
-   - keep both, and say on the sign pages that yours is a personal table;
-   - or align everything on one of the two.
-2. **Jupiter.** Your published Jupiter page reads it as luck and says it held "a third" in your test. Your notes say Jupiter (its house and sign = your biggest struggles) and the Nodes were *not* part of your tested numbers. The new big-three article follows your notes. Which is right?
-3. **The sign verbs in French.** The French Library says « Je vais » for Leo's "I will" and « Je sens » for Cancer's "I feel"; one French article says « je veux » and « je ressens ». The usual formulas are « Je veux » (will as volonté, not the future tense) and « Je ressens ». Pick yours and every French page will match.
-4. **Your sayings.** Each article was allowed one of your eight sayings, so each saying now appears on 6 to 35 pages. "A miss is a miss" and "I read; you decide" are on 35 each, "Test it and experience it for yourself" on 25. As a signature that works, but someone who reads ten of your articles will meet the same line several times. Keep them as they are, or name the ones to keep only where they're the point and I'll let the other pages end on their own sentence.
-5. **Timing.** Several articles said "timing is where I miss most". Neither your notes nor your published pages say that. Your method page does say a reading is "poor at telling you exactly what happens next week", so the articles now say that ("timing is the weak spot"). If timing really is where your misses gather, say so and the first-person line goes back.
-6. **The 12 €.** Your published pages tie a 12 € figure to three different things:
-   - "a phone number" (*pick-a-card criticism*);
-   - "the phone line" (*no contact readings*);
-   - "one of the country's most-followed young readers" (*TarotTok*).
+## Worth knowing
 
-   Which is true? The new articles use it only as a model price.
-7. **"Raised between two".** *Is tarot a sin?* promises "from someone raised between two" in its title, but the body never says which two. Your father's Buddhism is in two newer pages; what's the other?
-8. **The Fool page example** tells its example as a real reading ("She had resigned the week before…"). Every other card page uses a clearly hypothetical example. If it happened, keep it. If not, I'll make it hypothetical.
-9. **Certificates.** Your 2024 course FAQ offered a certificate; your brand book says no certification. The certificates article stays neutral until you say.
-10. **Prices.** The sessions and workshops pages show no price yet, and the reading-price article explains why it gives no market figures.
-11. **Author name.** `hugo.toml` has an empty author name and publisher name. Without a name, no author markup reaches Google, and that is the strongest "a real person wrote this" signal you can send. Fill in `params.author.name`, `authorShortDescription` (both languages) and `publisherName`.
-12. **The method page is yours.** Its intro says "I'm writing it myself", so its five empty sections were left for you (the silence rule, expecting to talk nonsense, how you counted, what doesn't work, why you stop). Many articles now link to it, which makes it the most important page to finish.
-13. **French versions of two sayings.** "Don't take my words as ultimate truth. Test it and experience it for yourself." and "You can't be told what it's like. You can only try." were translated by the writers, in a few variants. Give me your French and I'll use it everywhere.
-14. **Golden Dawn card titles** ("Lord of Swiftness", "Lord of Ruin"…) appear on some minor card pages and the Kabbalah pages. Keep them as background, or drop them from the card pages.
-15. **Helplines.** The Tower, Devil and Eight of Swords love pages tell anyone afraid of a partner to reach a support service, but give no number. If you want numbers, check and add France's 3919 and the UK's National Domestic Abuse Helpline.
-16. **Events.** The Halloween and Samhain articles don't claim a Maison Tarot event. Add one to the events page if you plan it, and link it.
+- **Your registration.** The public listing you sent shows two things worth checking with the guichet unique (INPI) or your accountant:
+  - It still gives Sucy-en-Brie, so the registry should get your new address.
+  - It lists your activity as "artistic creation (plastic arts)". Selling tarot lessons may need adding as an activity.
+- **Cookies.** No banner is needed today. The site stores only your visitors' language and theme choices, and loads no tracker or advertising. That changes if you add an analytics or advertising tool: tell me first and I'll set it up the compliant way.
+- **A date clash, fixed.** The page on 20th-century tarot said Waite's *Key to the Tarot* came out in 1910. The Waite and Pamela Colman Smith pages, which cite their source, say it was sold with the deck from December 1909, and that the illustrated *Pictorial Key* followed in 1910. The 20th-century page now says that too.
+- **Sign colours, aligned.** The table on the astrology page gave eight signs different colours from their own pages; Virgo, for instance, was "beige, brown" in the table and "blue, grey" on its page. The table now follows the sign pages, which come from your notes.
+- **Depression.** Your notes ask that nothing about depression be used. Pisces and Black listed it among their keywords; they no longer do, in either language. Two of your published articles, *Tarot and mental health* and *Shadow work for beginners*, name depression as a reason to see a professional. They're yours, and unchanged.
+- **Legal texts keep their legal wording.** The terms of sale and the disclaimers kept their exact sentences, even where another page quotes them.
+- **Without sales** a legal notice would still be required. A private person with a non-commercial site may stay anonymous by giving their details to the host only, but selling lessons is a professional activity, so the notice names you. It now shows your business address, never your home.
+
+## Your answers, applied
+
+- **Sign ↔ card.** Your Taurus and Cancer pages said their cards were the Empress and the High Priestess "in the Golden Dawn tradition". In that tradition, Taurus is the Hierophant and Cancer is the Chariot. The Empress and the High Priestess belong to Venus and the Moon, the planets that rule those two signs. Both pages, the modes tables and *I tested my birth chart* now give the right cards, and each sign page mentions its ruling planet's card.
+- **Jupiter** no longer claims a test result. It now says it wasn't part of your tested numbers.
+  - Three pages in each language also said you "distrust" Jupiter, or "hold it lightly": the Jupiter page, the Wheel of Fortune and the Nine of Cups. Your notes say the opposite: you like adding it, and its sign and house show someone's biggest struggles. The Jupiter page now says that and links to *Sun, Moon, rising*, where you explain it.
+  - The card pages keep only the planet's usual meaning.
+- **French verbs:** « Je veux » for Leo, « Je ressens » for Cancer, everywhere.
+- **No repeats.** Each of your sayings now lives on one page in each language:
+  - "I read; you decide": sessions;
+  - "A miss is a miss": method;
+  - "Take a break from your cards": *Why you should quit tarot reading*;
+  - "Tell me nothing": *The silence rule*;
+  - "Not everything is about spirits": *Tarot and mental health*;
+  - "Don't take my words as ultimate truth": about;
+  - "You can't be told what it's like": *What reading tarot feels like*.
+
+  "The cards aren't magic. You are." is now your tagline under every article.
+
+  Beyond the sayings, nothing repeats any more:
+  - no sentence appears on two pages, nor any run of eight words or more;
+  - the one exception is your legal disclaimer. The article on "for entertainment purposes only" restates it close to word for word on purpose, because explaining it is that article's job.
+
+  In practice:
+  - **Card pages.** Every card page opens with its own line: what its drawing shows and the question it asks. All 78 used to open with the same template. The pages also lost "Lenses first.", their identical example openings and the Golden Dawn titles.
+  - **Stock lines.** The lines that came back from page to page are gone, or written differently each time. Examples: "The sentence I'd say out loud", "A kinder question", "Say someone draws…", "In the Instagram story", "Read the colours before the card".
+  - **Love articles** no longer describe a card in its card page's words.
+  - **Your stories and definitions** keep their exact wording on one page. Elsewhere they get a short mention in other words, with the same meaning and nothing added.
+  - **Library sections.** Each sign, symbol, colour, element and sephirah page has its own FAQ answers and headings. What applies to a whole section is said once, on the section's main page.
+- **Timing.** Some articles used to say, in your voice, that your misses are mostly about *when* things happen. Your notes don't say that. They say a reading is "not the best" at telling exactly what happens in the next days, so the articles now say that. That was seven pages in each language, the Hanged Man among them. Nothing for you to do.
+- **12 €.** Three of your published articles quoted a 12 € price with no source. Since you didn't recognise it, it's gone. It stays only where an article clearly uses it as an example price for the arithmetic.
+- **Raised between two.** *Is tarot a sin?* now says it in your words: a Christian family that didn't practise, you wanting peace and fairness for everyone, then your father going into a branch of Buddhism and later leaving it. Two pages that said he "prays at his temple" today now say it in the past.
+- **The Fool page** example is now hypothetical, like every other card's.
+- **No course, no certificate.** The certificates article says it plainly. "My course notes" became "my notes" everywhere.
+- **Prices:**
+  - one-to-one lesson: £60 / 60 €;
+  - group: £45 / 46 € per person, £39.99 / 39,99 € from seven people.
+
+  They're on the sessions, workshops and home pages.
+- **Author:** "Joana from Maison Tarot" / "Joana de Maison Tarot". A short description from your notes ends with your tagline. It shows under every article and is sent to Google as the author. `params.author.name` was simply the setting where your name goes.
+- **The method page** is written from your notes. It covers the silence, expecting to talk nonsense, how you counted, what doesn't work, and why you stop after two hours.
+- **The two sayings in French:**
+  - « Ne prenez pas mes mots pour une vérité absolue. Testez, et faites-en l'expérience vous-même. »
+  - « Ça ne se raconte pas. Ça s'essaie. »
+- **Golden Dawn titles** are the old names a 19th-century occult society gave the minor cards, like "Lord of Swiftness". They stay on the Kabbalah pages, where they're the subject, and left the card pages.
+- **Helplines:**
+  - France's 3919: free, anonymous, day and night;
+  - the UK's National Domestic Abuse Helpline: 0808 2000 247, free, 24 hours.
+
+  Both are on the Tower, Devil and Eight of Swords love pages, with the emergency numbers.
+- **Events.** "Halloween 2027: a free online readings night" (Sunday 31 October 2027) and "Samhain 2027: one hour on the Samhain spread" (Monday 1 November 2027). Both are online and free, and linked from their articles. Registration links are empty until you have them.
+- **City pages.** London (English) and Paris (English and French) have their own pages now. The 72 other cities and their country pages redirect to one page per language: "Learn tarot online, wherever you are" / « Apprendre le tarot en ligne, où que vous soyez ». Their old addresses keep working.
+- **Prices from seven people:** £39.99 on the English site, 39,99 € on the French one, per person.
+- **Legal notice:** Joana Mehou-Loko EI, entrepreneur individuel, 47 rue Vivienne, 75002 Paris, SIREN 908 032 139. You are the publication director. The host is GitHub, with its phone number.
+- **Pictures:** you plan about sixty, redesigned with CSS. The 747-prompt list stays in `docs/` as a reference only.
 
 ## Your published articles: what the check found
 
@@ -54,11 +103,11 @@ What's left is yours to decide:
 | Shadow work for beginners | No sentence of yours: the definition is general Jung. | Add one or two lines from your shadow-work notes (the cell where you hide what you couldn't deal with; the veil you have to acknowledge before you take it off; "be as gentle and tolerant with yourself as you are with others") and link *Afraid of the dark*. |
 | Delulu is the solulu | Little of yours; "it's well documented" has no source; "I've heard this said to grieving people" isn't in your notes. | One line of yours, and either a source or "in my view". |
 | No contact readings | Strict tone ("I refuse it", "every honest reader refuses it"); "I've watched people do a no-contact reading every day for a month" isn't in your notes. | Your consent line (reading someone without consent is like going through their bedroom), and "I don't read on that, and here's why". The new *Will they come back?* now links here. |
-| Pick-a-card criticism / TarotTok | They share the same argument, the same list and nearly the same closing line, so Google may see them as variants. | Rewrite the closing line of one, and cut its shared list to a sentence plus a link to the other. |
+| Pick-a-card criticism / TarotTok | They shared the same argument, list and closing line. | DONE: under your no-repeats rule, one keeps the list and the other links to it. |
 | How to spot a fake tarot reader | "I spend a surprising amount of my time helping people who've been fleeced" isn't in your notes. Heading 8 ("no ethical reader touches") is strict. | Confirm or soften the opening; soften heading 8. |
-| Before a free online reading | Its "four signs of a hook" repeats flags 1–4 of *How to spot a fake tarot reader* almost word for word. | Cut it to two sentences and a link, so the page stays about your events. |
-| Is tarot a sin? | "Raised between two" is never explained (see decision 7). A light aside on Judaism could read as flippant. | Name the two; consider dropping the aside. |
-| I tested my birth chart | "The High Priestess is Cancer" (decision 1); "a mockery vibe" uses a word your brand book avoids. | Decide the table; "a mocking look". |
+| Before a free online reading | Its "four signs of a hook" repeated *How to spot a fake tarot reader*. | DONE: cut to two sentences and a link. |
+| Is tarot a sin? | "Raised between two" is now explained in your words. A light aside on Judaism could read as flippant. | Consider dropping the aside. |
+| I tested my birth chart | "The High Priestess is Cancer" is corrected to the Chariot. "A mockery vibe" uses a word your brand book avoids. | "A mocking look". |
 
 ## Softer titles and headings for pages that were already published
 
@@ -88,14 +137,6 @@ These pages were already online, so I haven't touched their text. Each line give
 
 These are pages of the site, not articles: your method, your sessions and workshops, and the legal pages. They hold gold notes that show only when you run `hugo server -D`. No article has any left.
 
-- `content/en/about.md`
-  - [First Last — in hugo.toml]
-- `content/en/method.md`
-  - TO WRITE — the silence rule: what it makes checkable, what it rules out (cold reading, Barnum effect), and how it was born.
-  - TO WRITE — the anti-ego stance, expectation at zero, curiosity over wanting to be right, and the finding: the lower I go, the more accurate it gets.
-  - TO WRITE — what you call “accurate” (visible reaction during, verbal confirmation after), one or two anonymised examples, and the cases counted as misses.
-  - TO WRITE — the failures, the conditions under which it degrades, what you stopped doing.
-  - TO WRITE — the state during a reading, the fatigue after two hours, the session you cut short out of caution. It’s your ethics; say it.
 - `content/en/privacy.md`
   - TO FILL, e.g. 3 years after the last service
   - TO FILL (Brevo — hosted in France)
@@ -109,8 +150,6 @@ These are pages of the site, not articles: your method, your sessions and worksh
   - TO FILL — free cancellation window, rescheduling, no-shows, cancellation by the publisher (full refund). Special case: a person in distress → free rescheduling, always.
 - `content/en/workshops.md`
   - TO WRITE, by you — the exact run of a first workshop, minute by minute if you like; what you have people do from the very start.
-- `content/fr/a-propos.md`
-  - [Prénom Nom — dans hugo.toml]
 - `content/fr/ateliers.md`
   - À COMPLÉTER par vous — le déroulé exact d’un premier atelier, minute par minute si vous voulez ; ce que vous faites faire dès l’ouverture.
 - `content/fr/cgv.md`
@@ -122,12 +161,6 @@ These are pages of the site, not articles: your method, your sessions and worksh
   - À COMPLÉTER (Brevo — hébergé en France)
   - À COMPLÉTER si un outil d’audience ou de publicité est ajouté : nom, exemption ou bandeau de consentement conforme CNIL.
   - À COMPLÉTER — localisation des serveurs et garanties de transfert hors UE.
-- `content/fr/methode.md`
-  - À COMPLÉTER — la règle du silence : ce qu’elle rend vérifiable, ce qu’elle empêche (lecture à froid, effet Barnum), et comment elle est née.
-  - À COMPLÉTER — l’anti-ego, l’attente à zéro, la curiosité plutôt que la volonté d’avoir raison, et le constat : plus je baisse, plus c’est juste.
-  - À COMPLÉTER — ce que vous appelez « juste » (réaction visible pendant, confirmation verbale après), un ou deux exemples anonymisés, et les cas comptés comme faux.
-  - À COMPLÉTER — les échecs, les conditions où ça se dégrade, ce que vous avez arrêté de faire.
-  - À COMPLÉTER — l’état pendant une lecture, la fatigue après deux heures, la séance interrompue par prudence. C’est votre éthique ; dites-la.
 - `content/fr/sessions.md`
   - À COMPLÉTER par vous — un paragraphe sur ce qu’on ressent pendant, et le cadre que vous demandez : au calme, personne d’autre dans la pièce, un jeu de cartes sous la main.
 

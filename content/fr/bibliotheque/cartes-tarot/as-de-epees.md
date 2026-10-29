@@ -26,7 +26,7 @@ faq:
 - q: Que signifie As d’Épées ?
   a: 'Quelque chose devient clair : une décision prise, une vérité qui perce, le mot juste enfin trouvé. Son nombre (un) dit que c’est un début, son élément (l’Air) que tout se passe dans la tête. Reste à en faire quelque chose.'
 - q: As d’Épées renversé, ça change quoi ?
-  a: 'Une clarté mal tenue. Soit elle se brouille à force de réfléchir, la décision prise puis reprise ; soit elle déborde, et avoir raison devient une arme. Les cartes autour vous disent laquelle.'
+  a: 'Une clarté mal tenue. Soit elle se brouille à force de réfléchir, la décision prise puis reprise ; soit elle déborde, et avoir raison devient une arme. Les voisines dans le tirage font pencher d’un côté ou de l’autre.'
 - q: 'Que signifie l’As d’Épées en amour ?'
   a: 'Une conversation qui remet les choses à plat, ou une décision sur la relation qui s’impose d’elle-même. La carte parle de ce que vous pensez et dites, pas de ce que l’autre ressent.'
 categories:

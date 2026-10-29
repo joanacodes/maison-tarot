@@ -1,6 +1,6 @@
 ---
 title: "The lily in tarot: what the symbol means, and the cards where it appears"
-description: "The lily in the Rider-Waite-Smith tarot: the Magician’s garden, the Ace of Pentacles, the Two of Wands, the Ace of Cups’ water lilies. What it says, how to read it."
+description: "The lily in the Rider-Waite-Smith tarot: the Magician’s garden, the Ace of Pentacles, the Two of Wands, the Ace of Cups’ water lilies. What the flower means, and how to read it in a spread."
 translationKey: "sym-lily"
 type: library
 navTitle: "The lily"

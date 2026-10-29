@@ -25,7 +25,7 @@ related:
 - /bibliotheque/figures-du-tarot/etteilla
 - /bibliotheque/histoire-du-tarot/tarots-italiens
 faq:
-- q: "Le tarot vient-il de l’Égypte ancienne ?"
+- q: "Court de Gébelin avait-il raison sur l’Égypte ?"
   a: "Non. Les plus anciennes cartes de tarot connues sont italiennes, du XVe siècle, et elles servaient à jouer. L’origine égyptienne est une théorie de Court de Gébelin, publiée en 1781, quand personne ne savait lire les hiéroglyphes ; rien de ce qu’on a trouvé depuis ne la confirme."
 - q: "Qu’est-ce que le Livre de Thot ?"
   a: "C’est le nom que le tome VIII du Monde primitif, en 1781, donne au tarot, d’après Thot, le dieu égyptien de l’écriture. Il désigne une idée sur les cartes, pas un livre ancien qui aurait existé."

@@ -23,7 +23,7 @@ Don’t take my words as ultimate truth. Test it and experience it for yourself.
 
 ## Why “entertainment”?
 
-Because I don’t know how this works. The line at the bottom of every page isn’t a loophole: it’s a promise not to pretend. I know it works at a certain rate, under certain conditions. That is exactly what I say, no more, no less.
+Because I don’t know how this works. The line at the bottom of every page isn’t a loophole: it’s a promise not to pretend. What I know is a rate, and the conditions it holds under. That is exactly what I say, no more, no less.
 
 And because some of what people bring to the cards isn’t for the cards: when it’s psychological, or psychiatric, the right door is a therapist’s, and I’ll tell you so.
 

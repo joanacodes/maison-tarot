@@ -18,7 +18,7 @@ faq:
 - q: "What does the snake on the Lovers card mean?"
   a: "It’s wound around the fruit tree behind the woman, which recalls the Garden of Eden. I read it as the temptation that comes with any real choice: the option that sounds wise and isn’t, or the frightening one that’s right."
 - q: "Is the snake a bad sign in tarot?"
-  a: "Not on its own. It can be temptation or deceit, and it can be renewal: a snake sheds its skin and carries on. The cards around it tell you which."
+  a: "Not on its own. It can be temptation or deceit, and it can be renewal: a snake sheds its skin and carries on. Its neighbours in the spread decide which."
 gallery:
 - src: "visuals/sym-snake/1.jpg"
   title: "It slips in"

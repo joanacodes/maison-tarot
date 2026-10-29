@@ -1,6 +1,6 @@
 ---
 title: "The path in tarot: what the symbol means, and the cards where it appears"
-description: "The path in the Rider-Waite-Smith tarot: Temperance, the Moon, the Ace and Eight of Pentacles, and the Eight of Cups with no road. What it says, and how to read it."
+description: "The path in the Rider-Waite-Smith tarot: Temperance, the Moon, the Ace and Eight of Pentacles, and the Eight of Cups with no road. Where each one leads, and how to read it."
 translationKey: "sym-path"
 type: library
 navTitle: "The path"

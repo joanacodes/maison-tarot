@@ -11,7 +11,7 @@ imageAlt: "Five cards in a row on a table, a hand pointing at one"
 categories: ["Learn"]
 tags: ["learn tarot", "how to read tarot", "tarot for beginners", "lenses"]
 faq:
-  - q: "How long does it take to learn tarot?"
+  - q: "How soon can I read a card on my own?"
     a: "With the lenses, you read an unknown card in the first hour. Reading *well* — knowing when you're wrong — takes a few dozen counted readings. Not years."
   - q: "Do you need a gift to read cards?"
     a: "No. Reading isn't reserved for a few people born with something extra. Over 300 free readings for strangers I kept a tally of hits and misses, and the method is published so you can learn it."

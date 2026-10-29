@@ -24,14 +24,14 @@ faq:
 | Taurus | The Hierophant | I have | Venus | Earth | Fixed | Feminine | Green, pale blue, mauve |
 | Gemini | The Lovers | I think | Mercury | Air | Mutable | Masculine | Blue |
 | Cancer | The Chariot | I feel | Moon | Water | Cardinal | Feminine | Green, silver |
-| Leo | Strength | I will | Sun | Fire | Fixed | Masculine | Gold, orange |
-| Virgo | The Hermit | I analyse | Mercury | Earth | Mutable | Feminine | Beige, brown |
-| Libra | Justice | I balance | Venus | Air | Cardinal | Masculine | Pink, light blue |
-| Scorpio | Death | I desire | Pluto, Mars | Water | Fixed | Feminine | Black, dark red |
-| Sagittarius | Temperance | I see | Jupiter | Fire | Mutable | Masculine | Purple, blue |
-| Capricorn | The Devil | I use | Saturn | Earth | Cardinal | Feminine | Grey, black |
-| Aquarius | The Star | I know | Uranus, Saturn | Air | Fixed | Masculine | Electric blue |
-| Pisces | The Moon | I believe | Neptune, Jupiter | Water | Mutable | Feminine | Sea green, purple |
+| Leo | Strength | I will | Sun | Fire | Fixed | Masculine | Orange, gold, yellow |
+| Virgo | The Hermit | I analyse | Mercury | Earth | Mutable | Feminine | Blue, grey |
+| Libra | Justice | I balance | Venus | Air | Cardinal | Masculine | Blue, lavender blue |
+| Scorpio | Death | I desire | Pluto, Mars | Water | Fixed | Feminine | Burgundy, dark brown |
+| Sagittarius | Temperance | I see | Jupiter | Fire | Mutable | Masculine | Purple |
+| Capricorn | The Devil | I use | Saturn | Earth | Cardinal | Feminine | Black, brown |
+| Aquarius | The Star | I know | Uranus, Saturn | Air | Fixed | Masculine | Blue, silver |
+| Pisces | The Moon | I believe | Neptune, Jupiter | Water | Mutable | Feminine | Turquoise, pale green |
 
 The twelve sign pages listed below give each sign’s keywords, its favourable and unfavourable sides, its archetype and its animal — from my notes, which are not horoscopes.
 

@@ -24,14 +24,14 @@ faq:
 | Taureau | Le Hiérophante | J’ai | Vénus | Terre | Fixe | Féminine | Vert, bleu pâle, mauve |
 | Gémeaux | Les Amoureux | Je pense | Mercure | Air | Mutable | Masculine | Bleu |
 | Cancer | Le Chariot | Je ressens | Lune | Eau | Cardinal | Féminine | Vert, argent |
-| Lion | La Force | Je veux | Soleil | Feu | Fixe | Masculine | Or, orange |
-| Vierge | L’Ermite | J’analyse | Mercure | Terre | Mutable | Féminine | Beige, brun |
-| Balance | La Justice | J’équilibre | Vénus | Air | Cardinal | Masculine | Rose, bleu clair |
-| Scorpion | La Mort | Je désire | Pluton, Mars | Eau | Fixe | Féminine | Noir, rouge sombre |
-| Sagittaire | Tempérance | Je vois | Jupiter | Feu | Mutable | Masculine | Violet, bleu |
-| Capricorne | Le Diable | J’utilise | Saturne | Terre | Cardinal | Féminine | Gris, noir |
-| Verseau | L’Étoile | Je sais | Uranus, Saturne | Air | Fixe | Masculine | Bleu électrique |
-| Poissons | La Lune | Je crois | Neptune, Jupiter | Eau | Mutable | Féminine | Vert d’eau, violet |
+| Lion | La Force | Je veux | Soleil | Feu | Fixe | Masculine | Orange, or, jaune |
+| Vierge | L’Ermite | J’analyse | Mercure | Terre | Mutable | Féminine | Bleu, gris |
+| Balance | La Justice | J’équilibre | Vénus | Air | Cardinal | Masculine | Bleu, bleu lavande |
+| Scorpion | La Mort | Je désire | Pluton, Mars | Eau | Fixe | Féminine | Bordeaux, marron foncé |
+| Sagittaire | Tempérance | Je vois | Jupiter | Feu | Mutable | Masculine | Violet |
+| Capricorne | Le Diable | J’utilise | Saturne | Terre | Cardinal | Féminine | Noir, marron |
+| Verseau | L’Étoile | Je sais | Uranus, Saturne | Air | Fixe | Masculine | Bleu, argenté |
+| Poissons | La Lune | Je crois | Neptune, Jupiter | Eau | Mutable | Féminine | Turquoise, vert pâle |
 
 Chaque signe a sa page, avec ses mots-clés, ses côtés favorables et défavorables, son archétype et son animal — à partir de mes notes, qui ne sont pas des horoscopes.
 

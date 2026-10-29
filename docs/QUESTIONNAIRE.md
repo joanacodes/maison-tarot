@@ -4,7 +4,7 @@ Every article on the branch is complete as it stands: none of these questions is
 
 **How to answer:** reply in the chat with the number and your answer (“Q12: the Five of Cups, because…”), a few at a time if you like. A sentence or two is plenty. Skip any question you’d rather not answer; the article stays as it is.
 
-125 questions on 107 articles.
+124 questions on 106 articles.
 
 ## The cards in love, and the card hubs
 
@@ -62,8 +62,8 @@ Every article on the branch is complete as it stands: none of these questions is
 ### The Hanged Man in love: a pause, a new angle, and what to do while you wait
 `/blog/hanged-man-tarot-love/`
 
-**Q10.** I wrote that timing is where your misses gather (from the title of your timing article). Is that true of your notebook, and is there one timing miss on a love question you’d share in a sentence?
-<br><small>Where your answer goes: #how-long, second paragraph; confirms the claim and adds a concrete example after it.</small>
+**Q10.** Is there one love question where what you saw held but the “when” didn’t, that you’d share in a sentence?
+<br><small>Where your answer goes: #how-long, as a concrete example.</small>
 
 ### Judgement in love: a second look at a relationship
 `/blog/judgement-tarot-love/`
@@ -661,22 +661,16 @@ Every article on the branch is complete as it stands: none of these questions is
 **Q115.** Which edition do you read with yourself, and is it still the deck your friends gave you?
 <br><small>Where your answer goes: #rws-editions, one first-hand sentence under that edition’s entry</small>
 
-### New Year tarot spread 2027: one card a month, no promises
-`/blog/new-year-tarot-spread/`
-
-**Q116.** Does your notebook show that timing is the part of a reading you miss most often? If yes, the line can go back to the first person.
-<br><small>Where your answer goes: #no-promises, replaces “Timing is where readings slip most easily” with “Timing is where I miss most”</small>
-
 ### Samhain tarot: why October is when people finally ask
 `/blog/samhain-tarot/`
 
-**Q117.** What do you notice in October, at your events or in the messages you get? For example: more requests than usual, different questions, more people bringing a loss. One or two sentences, no names.
+**Q116.** What do you notice in October, at your events or in the messages you get? For example: more requests than usual, different questions, more people bringing a loss. One or two sentences, no names.
 <br><small>Where your answer goes: #why-october, a first-hand line just before “Put together, October lowers the cost of asking.” (replaces the todo box that was removed)</small>
 
 ### Year-ahead tarot reading: how I do it, month by month
 `/blog/year-ahead-tarot-reading/`
 
-**Q118.** Do you draw a year-ahead reading for yourself? If so, when: New Year’s Day, your birthday, another date? A plain “no” is a fine answer too.
+**Q117.** Do you draw a year-ahead reading for yourself? If so, when: New Year’s Day, your birthday, another date? A plain “no” is a fine answer too.
 <br><small>Where your answer goes: #what-it-is, one first-hand sentence after “It’s a month to notice what hurts, and to say it out loud rather than carry it.” (replaces the todo box that was removed). If the answer is no, the title’s “how I do it” reads as how you read the table, which the article already describes.</small>
 
 ## Trends
@@ -684,38 +678,38 @@ Every article on the branch is complete as it stands: none of these questions is
 ### Should tarot readers use AI at all? Where I draw the line
 `/blog/should-tarot-readers-use-ai/`
 
-**Q119.** Beyond looking up symbols, do you use AI anywhere in your own work: posts, admin, translation? Where does your own line sit in that grey zone?
+**Q118.** Beyond looking up symbols, do you use AI anywhere in your own work: posts, admin, translation? Where does your own line sit in that grey zone?
 <br><small>Where your answer goes: #grey-zone, one first-hand sentence after “That’s admin rather than reading, and it’s your call.”</small>
 
 ### Tarot apps: are they any good? What to look for
 `/blog/tarot-apps/`
 
-**Q120.** Have you tried a tarot app yourself? What did you think of it, in a sentence or two? No app will be named on the page.
+**Q119.** Have you tried a tarot app yourself? What did you think of it, in a sentence or two? No app will be named on the page.
 <br><small>Where your answer goes: #what-id-use, as the opening line of the section (replaces the todo box that was removed)</small>
 
 ### Tarot on Instagram: the reader you follow and the reader you need
 `/blog/tarot-on-instagram/`
 
-**Q121.** Do you post tarot on Instagram yourself, as Maison Tarot or personally? If so, what do you post, and what do you choose not to post?
+**Q120.** Do you post tarot on Instagram yourself, as Maison Tarot or personally? If so, what do you post, and what do you choose not to post?
 <br><small>Where your answer goes: #the-platform-changes, one or two sentences after the bold line “A reader with a method reads the same way in a caption, a Reel or a live.” (your lives so far are on Facebook; the article says nothing about your own Instagram)</small>
 
-**Q122.** When you scroll tarot on Instagram, what makes you stop on a post, and what makes you unfollow an account?
+**Q121.** When you scroll tarot on Instagram, what makes you stop on a post, and what makes you unfollow an account?
 <br><small>Where your answer goes: #the-reader-you-follow, after the two Star captions, as a first-hand line next to the hypothetical example.</small>
 
 ### Readers accused of using AI: how the accusation works
 `/blog/tarot-readers-accused-of-ai/`
 
-**Q123.** Has anyone ever asked whether one of your readings or posts was written with AI, or have you suspected it of a reading someone gave you? What happened, in a sentence or two?
+**Q122.** Has anyone ever asked whether one of your readings or posts was written with AI, or have you suspected it of a reading someone gave you? What happened, in a sentence or two?
 <br><small>Where your answer goes: #if-accused, a short real example before “Answer the question, not the tone.”</small>
 
 ### Tarot subscriptions, ‘extended readings’ and pay-per-question: how the model works
 `/blog/tarot-subscriptions/`
 
-**Q124.** Have you ever paid for a reading by the question, by the minute or by subscription yourself (before or after you started reading)? What did you notice?
+**Q123.** Have you ever paid for a reading by the question, by the minute or by subscription yourself (before or after you started reading)? What did you notice?
 <br><small>Where your answer goes: #who-earns-what, after the bold line, as a first-hand example next to the model price of 12 €.</small>
 
 ### Why young people are turning to tarot (and what it says about now)
 `/blog/young-people-and-tarot/`
 
-**Q125.** At your events and workshops, what do the people under 25 tend to come with, or ask most, compared with older people?
+**Q124.** At your events and workshops, what do the people under 25 tend to come with, or ask most, compared with older people?
 <br><small>Where your answer goes: #why-them, after “What follows is my reading, not a study.”, as one observed example to sit beside the survey figures.</small>

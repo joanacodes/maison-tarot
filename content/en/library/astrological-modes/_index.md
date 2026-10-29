@@ -12,7 +12,7 @@ faq:
   - q: "Why are the modes among the five essential lenses?"
     a: "Because they answer the question the other lenses don't ask: what's the tempo? The same situation reads differently depending on whether it's starting, lasting or transforming."
   - q: "Do the minor cards have a mode?"
-    a: "Through their decan — a planet in a sign — yes. Each card page says which. But you start with the twelve majors, which are enough to grasp the lens."
+    a: "Through their decan — a planet in a sign — yes, and you’ll find it on every card page. But you start with the twelve majors, which are enough to grasp the lens."
 ---
 ## The three, in one table {#table}
 

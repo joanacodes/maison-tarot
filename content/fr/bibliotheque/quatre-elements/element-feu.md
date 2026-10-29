@@ -14,8 +14,8 @@ related:
 - /bibliotheque/quatre-elements/air
 - /bibliotheque/energies-feminine-masculine
 notClaim:
-- Les correspondances élément–enseigne sont celles de la tradition du Rider-Waite-Smith.
-- Un élément dit de quoi la carte parle, pas ce qui va arriver.
+- "Le Feu va aux Bâtons dans le Rider-Waite-Smith ; quelques écoles donnent plutôt les Bâtons à l’Air."
+- "Le Feu dit de quoi parle une carte de Bâtons — l’élan, la création, la vitesse —, pas comment les choses tourneront."
 categories:
 - Elements
 tags:
