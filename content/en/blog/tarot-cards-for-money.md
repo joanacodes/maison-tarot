@@ -21,7 +21,7 @@ The Ace of Pentacles is a coin held out over a garden — something real to buil
 
 {{< cards "peac pe04 pe05 pe06 pe09 pe10" >}}
 
-A few majors join them. The Empress feeds — abundance, things growing. The Wheel of Fortune, as I read it, leaves the turning to you, so the luck is partly of your own making. The Devil, an Earth card, shows the chain — and money can be one. The King of Pentacles, among his grapes and bulls, makes things prosper. The rest of the suit is laid out in the [minor arcana grid](/blog/minor-arcana/).
+A few majors join them. The Empress feeds — abundance, things growing. The Wheel of Fortune, as I read it, leaves the turning to you: your luck is your own doing. The Devil, an Earth card, shows the chain — and money can be one. The King of Pentacles, among his grapes and bulls, makes things prosper. The rest of the suit is laid out in the [minor arcana grid](/blog/minor-arcana/).
 
 {{< cards "ar03 ar10 ar15 peki" >}}
 

@@ -9,7 +9,7 @@ tags: ["tarot is not an authority", "tarot and decisions", "trust your intuition
 image: "covers/tarot-is-not-an-authority.jpg"
 imageAlt: "A hand writing in an open notebook beside a single face-up card on a kitchen table"
 imagePrompt: "A hand writing in an open notebook beside a single face-up tarot card on a kitchen table, a mug at the edge of the frame. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Tarot is not an authority. A reading can put words on something you hadn’t said, show you an angle you’d missed, or confirm what you already knew. It can’t decide for you, and it shouldn’t: readings miss — about one in ten of mine did, by my own count — the same card reads differently on different days, and the reader is human. So act on what you feel, not on what a card said. Use the reading as a question to check against your gut; when the two disagree, go with your gut and write down what happens."
+summary: "Tarot is not an authority. A reading can put words on something you hadn’t said, show you an angle you’d missed, or confirm what you already knew. It can’t decide for you, and it shouldn’t: readings miss — about one in ten of mine did, by my own count — the same card reads differently on different days, and the reader is human. So let your own feeling decide, not a card. Use the reading as a question to check against your gut; when the two disagree, go with your gut and write down what happens."
 ---
 A tarot reading is not an instruction. It can show you something you hadn’t put into words; what you do next is yours. So my position fits in one line: your feelings get the last word, not the card.
 
@@ -29,7 +29,7 @@ Three reasons, all of them ordinary.
 
 Readings miss. In my own notebook, about one in ten didn’t hold, and I’ve published [how I counted, misses included](/blog/does-tarot-work-300-readings/). One in ten is a good rate for a conversation. It’s a poor rate for handing over your life.
 
-Images move. The same card can read differently from one person to the next, and from one day to the next for the same person. A Tower on a calm Tuesday and a Tower after a sleepless night won’t say the same thing, and neither is a ruling.
+Images move. A card isn’t a fixed sentence: who is reading it changes what it says, and so does the day. A Tower on a calm Tuesday and a Tower after a sleepless night won’t say the same thing, and neither is a ruling.
 
 Readers are human. In my notes on the Magician, his minus side is that he can pretend: trust him blindly and he can lie to you. That’s true of any reader, me included. Not always from bad intent; sometimes we’re tired, sometimes we want to please. A good reading leaves room for you to say “no, that’s not it”.
 
@@ -49,7 +49,7 @@ And if you can’t tell what you feel, that’s information too. Give yourself a
 
 ## The Wheel is turned by you {#the-wheel}
 
-There’s a card I like for this. In my notes, the Wheel of Fortune isn’t luck landing on you: it’s up to you to turn the wheel, to create your own luck. Next to it I’d put the Emperor, who sits armoured under his robe and gives orders without ever taking them.
+There’s a card I like for this. In my notes, the Wheel of Fortune isn’t luck landing on you: it’s yours to turn, and the luck that comes of it is something you make. Next to it I’d put the Emperor, who sits armoured under his robe and gives orders without ever taking them.
 
 {{< cards "ar10 ar04" >}}
 
@@ -59,7 +59,7 @@ A reading should never become your Emperor. And when [the Wheel of Fortune](/lib
 
 If you catch yourself pulling a card before every decision — what to wear, whether to text, which train to take — that isn’t about tarot any more. It’s a search for outside validation, and the deck has become a crutch.
 
-Put it in a drawer for a few weeks. Not as a punishment: as training. You need to be confident in yourself, to make decisions and mistakes, to accept being imperfect. That’s a muscle, and a reading can’t lift the weight for you. If you’re lucky enough to have a stable life, you can play with the cards a little more. More on that in [why you should quit tarot reading, for a while at least](/blog/why-you-should-quit-tarot-reading/).
+Put it in a drawer for a few weeks. Not as a punishment: as training. You need to be confident in yourself, to make decisions and mistakes, to accept being imperfect. That’s a muscle, and a reading can’t lift the weight for you. If you’re lucky enough to have a stable life, you can play with the cards a little more. More on that in [the case for time off from the cards](/blog/why-you-should-quit-tarot-reading/).
 
 ## Where to go from here {#from-here}
 

@@ -61,6 +61,6 @@ And next to the Two of Cups, the second look brings two people back to the same 
 
 ## What was said, what happened {#notebook}
 
-Take a sheet of paper and draw two columns, the way I keep my reading notebook: what was said, and what happened. Fill it in for the relationship you’re reviewing, facts only. Then sit with it for a day before you act.
+Draw two columns on a sheet of paper, the way I keep my reading notebook: what was said, and what happened. Fill it in for the relationship you’re reviewing, facts only. Then sit with it for a day before you act.
 
 If you’d like help reading what comes up in your own cards, that’s what a one-to-one [session](/sessions/) is for — an hour in which you learn to read, rather than one in which I read for you.

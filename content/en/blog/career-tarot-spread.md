@@ -47,7 +47,7 @@ Option B, going: the Three of Wands, a man on a cliff with his back to us, looki
 
 What I’m not counting: the Four of Swords, a knight at rest on his tomb, hands in prayer, the blades hung up above him. Air, number 4: rest. Whichever you choose, your list forgot to count recovery.
 
-What I take with me: the Eight of Pentacles, a craftsman carving coins at his bench. Earth, number 8: mastery, necessary effort. That skill goes with you either way.
+What I take with me: the Eight of Pentacles, someone at a workbench shaping one coin after another. Earth, number 8: mastery, necessary effort. That skill goes with you either way.
 
 Across the row: two Fire, two Earth, one Air. And [two 4s](/library/numerology/number-4/) — stability is the real subject, in the job and in you. Told in one breath to the person weighing the move: “You’re carrying too much; staying means holding on to security you’ve earned; going means a wider view, if you finish what you start; what’s missing from your list is rest; and your craft comes with you either way.”
 

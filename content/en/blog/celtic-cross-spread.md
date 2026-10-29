@@ -64,7 +64,7 @@ Learn it in three stages, a week or so each.
 2. The circle: six cards. Add the four around them. You now have the whole situation, still in one or two sentences.
 3. The full ten. Add the column, and read the spread in three sentences rather than ten: one for the cross, one for the circle, one for the column.
 
-Two habits help from the first day. Write the ten positions on a slip of paper and lay it beside the spread, so your memory isn’t doing the work. And read the lenses across all ten cards before any position: how many major arcana, which element leads, which colour dominates, whether a number repeats. Six Cups out of ten make it about feelings whatever the question was. No major at all, and the situation is in ordinary hands: yours.
+Two habits help from the first day. Write the ten positions on a slip of paper and lay it beside the spread, so your memory isn’t doing the work. And read the lenses across all ten cards before any position: how many major arcana, which element leads, which colour dominates, whether a number repeats. Six Cups out of ten turn it into a story about feelings, whatever was asked. No major at all, and the situation is in ordinary hands: yours.
 
 **If the full ten still feels like too much, that’s information, not failure.** [A three-card spread](/blog/three-card-tarot-spread/) answers most questions, and [whether you need a set spread at all](/blog/do-you-need-tarot-spreads/) is a fair thing to ask.
 

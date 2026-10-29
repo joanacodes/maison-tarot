@@ -63,6 +63,6 @@ The log also shows something no single reading can: how often you reach for the 
 
 ## Start with ten readings {#start}
 
-Take any notebook, the cheap kind is fine, and rule the line tonight. Read for ten people who tell you nothing, fill both columns, mark each one, and count. Ten is enough to see what you do when you miss.
+Take any notebook, the cheap kind is fine, and rule the line tonight. Find ten people who’ll sit down without explaining anything, read for each, fill both columns, mark each one, and count. Ten is enough to see what you do when you miss.
 
 If you don't know who to read for yet, here's [where I found people who'd tell me nothing](/blog/where-to-find-people-to-read-for/). And if you'd like to watch readings checked in front of you, every [free event](/events/) ends that way: the people read say what held, and we compare.

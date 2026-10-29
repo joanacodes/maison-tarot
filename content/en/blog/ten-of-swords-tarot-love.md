@@ -11,7 +11,7 @@ imageAlt: "The Ten of Swords card from the Rider-Waite-Smith deck lying face up 
 imagePrompt: "The Ten of Swords card from the 1909 Rider-Waite-Smith deck lying upright on a plain wooden table. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, the card in its original colours, warm natural colours around it that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "In love, the Ten of Swords is a full stop: the end of a cycle in a relationship, or the moment you feel nothing worse can happen. It doesn’t predict a break-up or anyone’s feelings. Read through its lenses, ten is a passage from one stage to the next, and Air is the mind, which can stab you ten times with the same thought. Behind the man on the ground, the sky is turning yellow. The card is an ending and a dawn in the same frame, and it asks what is dawning in you."
 ---
-The Ten of Swords is the worst drawing in the deck, and in a love reading it can feel like the worst news. Look again, though: behind the man on the ground, the sky is turning yellow. The card is an ending and a dawn in the same frame, and it never tells you what someone else will do.
+The Ten of Swords is the worst drawing in the deck, and in a love reading it can feel like the worst news. Look again, though: behind the man on the ground, the sky is turning yellow. The card is an ending and a dawn in the same frame, and it has no say over what someone else will do.
 
 {{< cards "sw10" >}}
 
@@ -37,7 +37,7 @@ Say someone draws this card and tells you nothing. An end, the mind going round,
 
 “Will they come back?” is the question the Ten of Swords so often comes with, and I understand it completely. When you’re on the ground, you want to know whether the person who left is coming to help you up.
 
-I don’t read on it, and here’s why. Whether someone comes back is their choice, still to be made, and they aren’t in the room. A card that said yes would keep you lying there, waiting; a card that said no would hurt for nothing, and might be wrong. I’ve written a whole piece on [what that question does while you’re still on the ground](/blog/will-they-come-back-tarot/).
+I don’t read on it, and here’s why. Whether someone comes back is their choice, still to be made, and they aren’t here to be asked. A card that said yes would keep you lying there, waiting; a card that said no would hurt for nothing, and might be wrong. I’ve written a whole piece on [what that question does while you’re still on the ground](/blog/will-they-come-back-tarot/).
 
 The gentler question: “What is ending in me, and what is dawning?” Or, more practically: “If I gave up the waiting, what would this week look like?” Those you can answer.
 
@@ -57,4 +57,4 @@ Next to the Nine of Swords, it’s the 3 a.m. version, the worries that grow in 
 
 The dawn behind this card isn’t a reunion or a new person on the way. It’s smaller and more reliable than that: the first morning you think about something else before you think about them, the first plan you make that doesn’t include them. The Ten of Swords is also the last card of its suit. After ten, the Swords start again at the Ace, one clean blade held up in a hand: Air ends a cycle so it can think freshly. It’s among [the cards that frighten people most](/blog/scariest-tarot-cards/), and one of the most hopeful once you see where it’s pointing.
 
-Draw one card for the yellow band on the horizon: “What is dawning for me?” Write it down, and put it where you’ll see it in the morning. If the heartbreak is still raw, read [the Three of Swords in love](/blog/three-of-swords-tarot-love/) first: it’s the earlier, rainier part of the same story.
+Draw one card for the yellow band on the horizon: “What is dawning for me?” Write it down, and leave it by the bed for the morning. If the heartbreak is still raw, read [the Three of Swords in love](/blog/three-of-swords-tarot-love/) first: it’s the earlier, rainier part of the same story.

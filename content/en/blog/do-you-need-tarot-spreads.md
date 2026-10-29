@@ -47,7 +47,7 @@ Say you draw four cards: the Queen of Swords, the Seven of Swords, the Two of Sw
 
 {{< cards "swqu sw07 sw02 cuac" >}}
 
-Three Swords, then one Cup. Three [Air cards](/library/four-elements/air-element/) — thinking, weighing, cutting — with the grey of the Two of Swords in the middle, neutral, undecided. Then one Water at the end: a cup overflowing from a hand in a cloud, a number 1, a new start in feeling. As a sentence: “Your head has been doing all the work, weighing and deciding, and what’s waiting at the end of the row is a feeling that’s only beginning.” No position told you that. The row did.
+Three Swords, then one Cup. Three [Air cards](/library/four-elements/air-element/) — thinking, weighing, cutting — with the grey of the Two of Swords in the middle, neutral, undecided. Then one Water at the end: an overflowing cup held out from a cloud, a 1, the first stirring of a feeling. As a sentence: “Your head has been doing all the work, weighing and deciding, and what’s waiting at the end of the row is a feeling that’s only beginning.” No position told you that. The row did.
 
 Reading without positions has a cost, and it’s worth saying. With nothing fixed in advance, it’s tempting to keep drawing until the story feels finished, or to let the sentence drift once you see the person’s face. Two rules keep it honest: the number of cards is decided before the shuffle, and the sentence is written down before anyone confirms it.
 

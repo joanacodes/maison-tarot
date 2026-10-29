@@ -44,7 +44,7 @@ The rest — the sentence to say first, the silence rule, the notebook for count
 
 ## What I've checked {#checked}
 
-Three hundred strangers got a free reading from me, none of them saying a word about themselves first, and I kept count. The result — about nine times in ten by my count, misses included — and the way of counting are on the [Method](/method/) page. You don't have to believe it: the method is there so you can test it.
+Three hundred strangers got a free reading from me, none of them saying a word about themselves first, and I kept count. The result — about nine times in ten by my count, misses included — and the way of counting are set out in [the method](/method/). You don't have to believe it: the method is there so you can test it.
 
 ## When you want someone in front of you {#in-front}
 

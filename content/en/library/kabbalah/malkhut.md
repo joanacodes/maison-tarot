@@ -44,7 +44,7 @@ Malkhut is where the Hermetic shift is easiest to see: in Jewish sources, it is 
 | [Ten of Swords](/library/tarot-cards/ten-of-swords/) | Lord of Ruin (Sun in Gemini) | the end touched, and the dawn behind it |
 | [Ten of Pentacles](/library/tarot-cards/ten-of-pentacles/) | Lord of Wealth (Mercury in Virgo) | three generations, the Tree drawn in coins |
 
-Start with the number: [ten](/library/numerology/number-10/) is the transition between two stages, the corridor between two rooms; its weak point is that the moment may not last, and it pushes you towards something new. In my notes, the Ten of Pentacles is complete wealth at home, the whole family present; the Golden Dawn calls it the Lord of Wealth. Malkhut adds the landing. Through this lens, a Ten is the cycle arrived somewhere you can touch.
+Start with the number: [ten](/library/numerology/number-10/) is the transition between two stages, the corridor between two rooms; its weak point is that the moment may not last, and it pushes you towards something new. In my notes, the Ten of Pentacles is complete wealth at home, the whole family present; the Golden Dawn calls it the Lord of Wealth. Malkhut adds the landing. With Malkhut behind it, a Ten is the cycle arrived somewhere you can touch.
 
 Look closely at the Ten of Pentacles: its ten coins are laid out in the shape of the Tree of Life, the whole structure brought down into one family’s courtyard.
 

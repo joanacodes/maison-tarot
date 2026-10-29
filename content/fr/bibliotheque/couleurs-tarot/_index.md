@@ -20,17 +20,17 @@ faq:
 
 | Couleur | Ce qu’elle dit | Énergie |
 | --- | --- | --- |
-| Rouge | Passion, action, force, impulsion | Masculine |
+| Rouge | Passion, action, force | Masculine |
 | Orange | Créativité, aridité, libido | — |
-| Jaune | Joie, optimisme, fierté, l’enfant intérieur, l’expression de soi, la volonté | — |
-| Vert | Nature, croissance, naissance, vie, prospérité | — |
-| Bleu | Émotions, rendre pur, l’eau, vitalité | Féminine |
+| Jaune | Joie, optimisme, fierté | — |
+| Vert | Nature, croissance, vie | — |
+| Bleu | Émotions, eau, vitalité | Féminine |
 | Blanc | Pureté, innocence, paix | — |
-| Noir | Absence, absorption d’énergie, néant, pensées négatives, faire le vide, réalité | — |
-| Gris | Neutralité, absence de volonté, stabilité | — |
-| Violet / fuchsia | L’élu choisi par un groupe | — |
+| Noir | Absence, néant, réalité | — |
+| Gris | Neutralité, stabilité | — |
+| Violet / fuchsia | Désigné par d’autres | — |
 
-Chaque couleur a sa page, juste en dessous, avec les cartes où elle domine et ce qu’elle y fait.
+Ces mots ne sont qu’un rappel : chaque couleur a sa page, juste en dessous, avec sa liste complète, les cartes où elle domine et ce qu’elle y fait.
 
 ## Comment poser cette clé {#comment}
 

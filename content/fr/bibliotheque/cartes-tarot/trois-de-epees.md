@@ -16,11 +16,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/sw03.webp
 h1: Trois d’Épées — <em>trois</em>, l’Air
-lede: 'Avant de chercher ce que « signifie » Trois d’Épées, regardez ce que vous
-  avez déjà : trois, l’élément Air, Saturne en Balance. Vous lisez la carte. Le nombre
-  dit trois — créer, célébrer, le premier résultat ; l’élément dit le mental, ce qu’on
-  décide. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous
-  parle déjà — le reste de la page vous montre comment.'
+lede: 'Sous la pluie et les nuages gris, un cœur rouge flotte, transpercé par trois épées qui se croisent en son centre, sans personne autour. Quels mots, quelle décision l’ont atteint ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-air
@@ -30,7 +26,7 @@ faq:
 - q: Que signifie Trois d’Épées ?
   a: 'Une blessure qui a une forme précise : quelque chose de dit, de décidé ou de compris qui est allé droit au cœur. Son nombre (trois) et son élément (l’Air) renvoient aux mots et aux pensées, souvent à un triangle. La carte montre le moment de la blessure, pas la fin de l’histoire.'
 - q: Trois d’Épées renversé, ça change quoi ?
-  a: 'La même peine, gardée pour soi ou ressassée : un chagrin dont personne ne parle, une scène qu’on rejoue sans cesse. La question qu’elle pose : à qui pourriez-vous en parler ?'
+  a: 'Une peine gardée pour soi ou ressassée : un chagrin dont personne ne parle, une scène qu’on rejoue sans cesse. La question qu’elle pose : à qui pourriez-vous en parler ?'
 - q: 'Que signifie le Trois d’Épées en amour ?'
   a: 'Un chagrin d’amour, une déception, parfois une troisième personne dans le tableau. La carte décrit ce qui fait mal maintenant ; elle ne dit pas si la relation se termine ou se répare.'
 - q: 'Que dit le Trois d’Épées pour le travail ?'
@@ -53,7 +49,7 @@ Le dessin parle d’**une douleur qui a une forme précise : quelque chose de di
 
 ## Par le nombre : trois {#nombre}
 
-Le trois, c’est le bon rythme : la machine qui tourne, le contrat qui fonctionne, des frères et sœurs qui s’entendent. Alors pourquoi ce trois-là fait-il mal ? Parce que le revers du [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/), c’est la trahison et la solitude, et qu’en Air, trois peut faire une personne de trop dans une pensée. La lecture classique, c’est le triangle : deux personnes et une troisième, une phrase entendue par hasard, une décision prise par-dessus la tête de quelqu’un.
+Le trois, c’est le bon rythme : la mécanique lancée, l’accord qui tient, des frères et sœurs qui s’entendent. Alors pourquoi ce trois-là fait-il mal ? Parce que le revers du [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/), c’est la trahison et la solitude, et qu’en Air, trois peut faire une personne de trop dans une pensée. La lecture classique, c’est le triangle : deux personnes et une troisième, une phrase entendue par hasard, une décision prise par-dessus la tête de quelqu’un.
 
 Mes notes ajoutent une autre lecture, à laquelle je tiens : le Trois d’Épées, c’est aussi un pacte de sang. Trois lames qui se rejoignent dans un seul cœur, comme le vieux geste de s’entailler la paume pour sceller une promesse. Parfois, c’est la douleur qui lie : deux personnes qui ont traversé la même perte, une loyauté jurée après une épreuve. Demandez laquelle des deux lectures est la bonne avant d’imaginer le pire.
 
@@ -63,19 +59,19 @@ Mes notes ajoutent une autre lecture, à laquelle je tiens : le Trois d’Épée
 
 ## Par les couleurs {#couleurs}
 
-Deux couleurs, presque rien d’autre. Le [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) du cœur : la passion, la vie, la force. C’est un cœur vivant, encore plein. Autour, du gris partout — nuages, pluie, fond —, la couleur de l’absence de volonté particulière, le temps maussade des jours d’après. Lue comme ça, avant tout « sens », la carte dit : un cœur qui bat encore, sous un ciel qui finira par changer. Après la pluie, le beau temps : ce n’est pas une promesse, c’est la météo.
+Deux couleurs, presque rien d’autre. Le [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) du cœur : la passion, la vie, la force. C’est un cœur vivant, encore plein. Autour, du gris partout — nuages, pluie, fond —, la couleur de l’absence de volonté particulière, le temps maussade des jours d’après. Ces deux couleurs suffisent à raconter un cœur qui bat encore, sous un ciel qui finira par changer. Après la pluie, le beau temps : ce n’est pas une promesse, c’est la météo.
 
 ## Par l’astrologie : Saturne en Balance {#astrologie}
 
-Dans la tradition Golden Dawn, le Trois d’Épées correspond à Saturne dans le deuxième décan de la Balance. [Saturne](/fr/bibliotheque/astrologie/saturne/), c’est la leçon la plus dure, là où l’on devient solide justement parce que c’était difficile ; en astrologie traditionnelle, il est en exaltation dans la Balance, le signe de l’équilibre et des relations. Une leçon douloureuse sur un lien, donc, qui laisse mieux bâti après. Gardez cette clé si elle vous aide ; le cœur transpercé parle de lui-même.
+Saturne et le deuxième décan de la Balance : telle est l’attribution du Trois d’Épées. [Saturne](/fr/bibliotheque/astrologie/saturne/) apprend par l’épreuve : on en sort plus solide là où ça a coûté ; en astrologie traditionnelle, il est en exaltation dans la Balance, le signe de l’équilibre et des relations. Une leçon douloureuse sur un lien, donc, qui laisse mieux bâti après. Elle reste en option ; le cœur transpercé parle de lui-même.
 
 ## En lecture {#lecture}
 
 À l’endroit, le Trois d’Épées, c’est le cœur brisé, le deuil, la déception — une vraie blessure, nommée sans détour. Je ne l’enjolive pas, et je ne la lis pas non plus comme une sentence : la carte montre le moment de la blessure, pas la suite de l’histoire. Souvent, la personne sait déjà de quoi il s’agit, et la carte le pose sur la table pour qu’on puisse en parler.
 
-Un cœur transpercé sur une carte n’annonce ni un problème cardiaque ni la mort de quelqu’un. Si c’est votre corps qui vous inquiète, c’est une question pour un médecin, et [la santé fait partie des sujets sur lesquels je ne lis pas](/fr/avertissements/#refus) ; les cartes peuvent accueillir l’inquiétude, pas poser un diagnostic.
+Un cœur transpercé sur une carte n’annonce ni un problème cardiaque ni la mort de quelqu’un. Si c’est votre corps qui vous inquiète, c’est une question pour un médecin, et [je laisse la santé en dehors de mes lectures](/fr/avertissements/#refus) ; les cartes peuvent accueillir l’inquiétude, pas poser un diagnostic.
 
-Renversé, la même peine est gardée pour soi : la blessure dont personne ne parle, le chagrin ravalé pour tenir. Ou bien elle déborde — la scène rejouée encore et encore, les épées retirées puis renfoncées. Dans les deux cas, la question est la même : à qui pourriez-vous dire tout ça ?
+Renversé, cette peine est gardée pour soi : la blessure dont personne ne parle, le chagrin ravalé pour tenir. Ou bien elle déborde — la scène rejouée encore et encore, les épées retirées puis renfoncées. Dans les deux cas, la question est la même : à qui pourriez-vous dire tout ça ?
 
 À côté du [Trois de Coupes](/fr/bibliotheque/cartes-tarot/trois-de-coupes/), le triangle se voit : trois personnes, dont une qui souffre. À côté du [Six d’Épées](/fr/bibliotheque/cartes-tarot/six-de-epees/), la traversée a commencé, et la peine reste derrière, doucement. À côté de l’[Étoile](/fr/bibliotheque/cartes-tarot/l-etoile/), la pluie s’est arrêtée et quelqu’un verse de nouveau de l’eau : réparer est possible, à son rythme. J’en dis plus sur [le Trois d’Épées en amour](/fr/blog/trois-depees-amour/).
 
@@ -89,7 +85,7 @@ Au travail, cette blessure arrive souvent par des mots : une critique trop dure,
 
 Renversé au travail, la douleur est rentrée — « Ça va, c’est que le boulot », dit les dents serrées pendant des mois — ou le mail est relu jusqu’à le connaître par cœur.
 
-On demande : « Mon chef est-il contre moi ? L’a-t-il fait exprès ? » Se sentir en insécurité au travail est épuisant ; je comprends qu’on veuille savoir. Je ne lis pas là-dessus : le collègue n’est pas dans la pièce et [n’a pas accepté d’être lu](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/), et une carte à qui l’on demande « est-il contre moi ? » répond avec votre peur : lundi, vous serez encore plus sur vos gardes. Une question plus douce : « Qu’est-ce que cette phrase a touché en moi, et de quoi ai-je besoin maintenant — le dire, me reposer, ou demander de l’aide ? » Parler, rester ou partir, c’est à vous de le peser.
+On demande : « Mon chef est-il contre moi ? L’a-t-il fait exprès ? » Se sentir en insécurité au travail est épuisant ; je comprends qu’on veuille savoir. Je ne lis pas là-dessus : le collègue est absent, et [personne ne lui a demandé son accord](/fr/blog/tirer-les-cartes-sur-quelquun-dautre/), et une carte à qui l’on demande « est-il contre moi ? » répond avec votre peur : lundi, vous serez encore plus sur vos gardes. Une question plus douce : « Qu’est-ce que cette phrase a touché en moi, et de quoi ai-je besoin maintenant — le dire, me reposer, ou demander de l’aide ? » Parler, rester ou partir, c’est à vous de le peser.
 
 Si la blessure se répète — humiliations, pression, toujours la même personne visée —, ce n’est plus l’affaire d’une carte. Parlez-en aux RH, à un représentant du personnel ou à la médecine du travail, et à un avocat pour le droit ; une procédure en cours, aux prud’hommes ou ailleurs, je ne lis pas dessus. Si ça vous suit chaque soir chez vous, un médecin ou un thérapeute est la bonne porte.
 
@@ -97,8 +93,8 @@ Cette semaine, avant de répondre à quiconque, notez exactement ce qui a été 
 
 ## Exemple de tirage {#exemple}
 
-Travaillez cette paire comme un exercice : quelqu’un tire le Trois d’Épées, puis le Quatre d’Épées. Trois puis quatre : le rythme brisé, puis une structure qui tient. L’Air et l’Air : tout se passe dans les mots et dans la tête. Du rouge et du gris, puis un chevalier allongé, immobile, sur un tombeau, les mains jointes.
+Travaillez cette paire comme un exercice : quelqu’un tire le Trois d’Épées, puis le Quatre d’Épées. Trois puis quatre : le rythme brisé, puis une structure qui tient. L’Air et l’Air : tout se passe dans les mots et dans la tête. Du rouge et du gris, puis la pierre pâle d’un gisant en prière.
 
-Vous pourriez dire, doucement : « Quelque chose vous a fait mal récemment, sans doute des mots, et ce qu’on vous demande maintenant, ce n’est pas de réparer, c’est de vous arrêter un moment. »
+Avec douceur, j’avancerais ceci : « Quelque chose vous a fait mal récemment, sans doute des mots, et ce qu’on vous demande maintenant, ce n’est pas de réparer, c’est de vous arrêter un moment. »
 
-Puis vérifiez, avec tact : « Est-ce que ça vous parle ? » — et laissez de la place. Si la personne veut en dire plus, écoutez ; sinon, c’est très bien aussi. Si ça ne correspond pas, c’est un raté, et vous le dites plutôt que d’aller chercher une douleur qui n’existe pas.
+Puis vérifiez, avec tact : « Cette blessure-là, vous la reconnaissez ? » — et laissez de la place. Si la personne veut en dire plus, écoutez ; sinon, c’est très bien aussi. Si ça ne correspond pas, dites-le plutôt que d’aller chercher une douleur qui n’existe pas.

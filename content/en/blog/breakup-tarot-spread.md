@@ -15,7 +15,7 @@ After a breakup, the kindest reading is one about you. This spread has five card
 
 ## What a breakup tarot spread is for {#what-its-for}
 
-A breakup spread is a set of card positions you lay out after a relationship ends, to look at how you’re doing and what would help. It’s a check-up, not a verdict.
+A breakup spread is a handful of card positions you lay out after a relationship ends, to look at how you’re doing and what would help. It’s a check-up, not a verdict.
 
 Say it’s been ten days. You’ve cried, slept badly and reread old messages. The spread doesn’t ask whether the phone will ring. It asks what you need on Saturday morning, and what you’re gripping that you could put down.
 
@@ -45,7 +45,7 @@ Read the five together first, from today to that small step, before you take the
 
 ## A breakup spread, card by card {#example}
 
-Say someone, three weeks after a breakup, tells the cards nothing and draws the Three of Swords, the Four of Pentacles, the Four of Swords, the Six of Pentacles and the Star.
+Say someone, three weeks after a breakup, keeps their story to themselves and draws the Three of Swords, the Four of Pentacles, the Four of Swords, the Six of Pentacles and the Star.
 
 {{< cards "sw03 pe04 sw04 pe06 ar17" >}}
 

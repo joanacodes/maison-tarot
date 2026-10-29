@@ -22,8 +22,8 @@ related:
 - /bibliotheque/energies-feminine-masculine
 faq:
 - q: Le noir est-il une couleur maléfique ?
-  a: Non. C’est une couleur d’absence. Le tarot n’est maléfique que pour ceux qui
-    voient le mal partout — le noir n’est que ce qui manque.
+  a: Non. C’est une couleur d’absence, et le noir n’est que ce qui manque. Voir du
+    mal dans une couleur en dit plus sur le regard que sur la carte.
 - q: Pourquoi si peu de noir dans le jeu ?
   a: Parce que Pamela Colman Smith réservait le noir aux moments où quelque chose
     est réellement absent. Quand vous le voyez, il compte.

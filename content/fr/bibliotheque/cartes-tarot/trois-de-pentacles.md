@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/pe03.webp
 h1: Trois de Pentacles — <em>trois</em>, la Terre
-lede: 'Avant de chercher ce que « signifie » Trois de Pentacles, regardez ce que vous
-  avez déjà : trois, l’élément Terre, Mars en Capricorne. Vous lisez la carte. Le
-  nombre dit trois — créer, célébrer, le premier résultat ; l’élément dit la matière,
-  ce qui tient. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte
-  vous parle déjà — le reste de la page vous montre comment.'
+lede: 'Perché sur un banc, un jeune artisan sculpte l’arche d’une église, tandis que deux personnes, plans déroulés, suivent son travail. Un ouvrage gagne-t-il à être regardé par d’autres ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre
@@ -65,13 +61,13 @@ L’archétype de la Terre, dans mes notes, c’est le manager de l’artiste �
 
 La carte est surtout [grise](/fr/bibliotheque/couleurs-tarot/gris/) et noire : la pierre, l’arche, l’obscurité de l’église derrière. Le gris, c’est la stabilité, la matière qui ne bouge pas ; le noir, dans ma grille, c’est la réalité — et le vide que l’ouvrage vient remplir. Sur ce fond, la couleur n’est que sur les personnes. La cape à capuche est [orange](/fr/bibliotheque/couleurs-tarot/orange/) à pois rouges : la créativité, la chaleur, l’élan. L’artisan porte une tunique sombre, des chausses bleues, un tablier jaune.
 
-Lisez les couleurs avant la carte : un cadre solide et sobre, et toute la vie sur les corps de ceux qui travaillent dedans.
+Au bout du compte, un cadre solide et sobre, et toute la vie sur les corps de ceux qui travaillent dedans.
 
 ## Par l’astrologie : Mars en Capricorne {#astrologie}
 
-Dans la tradition Golden Dawn, le Trois de Pentacles correspond au deuxième décan du Capricorne, attribué à [Mars](/fr/bibliotheque/astrologie/mars/). Mars, c’est la façon d’agir — l’énergie brute, l’effort, le corps en mouvement. Le Capricorne dit *J’utilise* : le travail, la structure, savoir se servir de chaque outil. L’astrologie classique place Mars en exaltation dans le Capricorne : l’énergie à son meilleur quand elle a un plan.
+Le deuxième décan du Capricorne appartient à [Mars](/fr/bibliotheque/astrologie/mars/) ; c’est celui du Trois de Pentacles. Mars, c’est la façon d’agir — l’énergie brute, l’effort, le corps en mouvement. Le Capricorne dit *J’utilise* : le travail, la structure, savoir se servir de chaque outil. L’astrologie classique place Mars en exaltation dans le Capricorne : l’énergie à son meilleur quand elle a un plan.
 
-C’est exactement la carte, et ça reste facultatif : le nombre et la pierre disent la même chose.
+L’accord avec le dessin est parfait, et pourtant facultatif : la pierre sculptée dit la même chose.
 
 ## En lecture {#lecture}
 
@@ -89,6 +85,6 @@ Si la question derrière la carte est une augmentation ou un devis à accepter, 
 
 Disons qu’une collègue curieuse du tarot tire le Trois de Pentacles et le [Quatre de Coupes](/fr/bibliotheque/cartes-tarot/quatre-de-coupes/). Trois puis quatre : la cadence trouvée, puis la stabilité qui suit. La Terre puis l’Eau : le travail, puis ce qu’on ressent à son sujet. Les dessins : trois personnes autour d’une sculpture dans une église, puis un jeune homme assis sous un arbre, bras croisés, qui ne regarde pas la coupe qu’une main lui tend depuis un nuage.
 
-La phrase que je dirais à voix haute : « Votre travail se passe bien, on compte sur vous, et vous ne ressentez plus rien en le faisant. »
+Le chantier, puis la coupe ignorée ; voici ce que j’en dirais : « Votre travail se passe bien, on compte sur vous, et vous ne ressentez plus rien en le faisant. »
 
-Pour vérifier, je demande : « Est-ce que le travail ressemble à ça en ce moment — ça va, mais c’est plat ? » Si c’est oui, je laisse la personne en dire ce qu’elle veut. Si son travail la passionne encore, la phrase a raté, et je l’inscris au carnet.
+Je vérifie avec la question la plus directe : « Est-ce que le travail ressemble à ça en ce moment — ça va, mais c’est plat ? » Si c’est oui, je laisse la personne en dire ce qu’elle veut. Si son travail la passionne encore, l’erreur est de mon côté, et je l’inscris au carnet.

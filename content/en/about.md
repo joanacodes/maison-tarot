@@ -11,7 +11,7 @@ navTitle: "About"
 
 My name is Joana. I read tarot from Paris, in French and in English, and mostly I teach it.
 
-I came to all this through the back door. I wanted to understand why people believed in astrology — the way you’d want to understand flat-earthers; it was mockery. Two friends gave me a deck. I read for the people around me, and what I saw shut me up. So I did what you do when you don’t understand: I tested it. Three hundred readings, free, for strangers who gave me nothing to go on, counting what held and what didn’t. I publish the tally on the [Method](/method/) page.
+I came to all this through the back door. I wanted to understand why people believed in astrology — the way you’d want to understand flat-earthers; it was mockery. Two friends gave me a deck. I read for the people around me, and what I saw shut me up. So I did what you do when you don’t understand: I tested it. Three hundred readings, free, for strangers who gave me nothing to go on, counting what held and what didn’t. [The Method page](/method/) carries the tally.
 
 What I like most isn’t reading. It’s getting someone to read for the first time and watching them be shocked by what they just said.
 

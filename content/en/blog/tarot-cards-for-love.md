@@ -35,7 +35,7 @@ Three more open doors. [The Magician](/blog/magician-tarot-love/) is the first m
 
 ## The cards of turning points {#turning-points}
 
-These say something is moving, not what to do about it. The [Wheel of Fortune](/blog/wheel-of-fortune-tarot-love/) is a turning point, and your part in it: in my notes, the wheel turns when you put your hand to it. [Judgement](/blog/judgement-tarot-love/) is a second look at a relationship, neither good nor bad. [The Hanged Man](/blog/hanged-man-tarot-love/) is a pause, a new angle, and what to do while you wait.
+These say something is moving, not what to do about it. The [Wheel of Fortune](/blog/wheel-of-fortune-tarot-love/) is a turning point, and your part in it: my notes say the wheel turns when you put your hand to it. [Judgement](/blog/judgement-tarot-love/) is a second look at a relationship, neither good nor bad. [The Hanged Man](/blog/hanged-man-tarot-love/) is a pause, a new angle, and what to do while you wait.
 
 [Death](/blog/death-tarot-love/) ends a way of being together — not a person, and not necessarily the relationship. [The Tower](/blog/tower-tarot-love/) is when things shake, and how to steady yourself. [The Moon](/blog/moon-tarot-love/) is uncertainty, and how to read what moves under the surface without taking a fear for a fact.
 

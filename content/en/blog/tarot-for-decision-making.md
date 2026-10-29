@@ -17,13 +17,13 @@ That isn’t modesty. It’s the condition for the cards being useful at all.
 
 ## What tarot can actually do for a decision {#what-it-can-do}
 
-A card won’t tell you which option is right. What it does well is shift your attention for a minute, so your usual arguments step aside and something else gets a word in. The more I read, the more I’ve seen the cards work as a way to focus or unfocus, so your own thoughts and biases stop running the show.
+A card won’t tell you which option is right. What it does well is shift your attention for a minute, so your usual arguments step aside and something else gets a word in. The more I read, the more I’ve seen the cards sharpen or soften your attention, until your habits of mind loosen their grip.
 
 Say you’re torn between staying in a job and leaving it, and you draw two cards: the Eight of Cups and the Eight of Pentacles.
 
 {{< cards "cu08 pe08" >}}
 
-Both are Eights, the number of mastery and solid ground. The Eight of Cups is someone walking away from cups they stacked themselves — moving on from what you’re already doing. The Eight of Pentacles is someone bent over the bench, coin after coin: mastery, and the effort it still asks. Same number, two directions.
+Both are Eights, the number of mastery and solid ground. The Eight of Cups is someone walking away from cups they stacked themselves — turning from what currently fills your days. The Eight of Pentacles is someone bent over the bench, coin after coin: mastery, and the effort it still asks. Same number, two directions.
 
 Now notice your body. Which card made your shoulders drop, and which made your jaw tighten? **That reaction is information about you, not a forecast.** It’s often the first honest thing you’ve heard on the subject in weeks.
 
@@ -33,13 +33,13 @@ Because [tarot is not an authority](/disclaimers/#readings): what you feel about
 
 There’s also a plain numbers reason: my own readings miss about once in every ten. If you hand your decision to the cards, you accept a one-in-ten chance that the hand steering your life is wrong — and you won’t know which time it is.
 
-And there’s the reason that matters most. Deciding is a muscle. Every time a deck does the lifting, it gets weaker, and the next decision feels heavier, so you reach for the deck again. That loop is how a helpful tool turns into a habit that feeds doubt; I wrote about it in [why you should quit tarot reading for a while](/blog/why-you-should-quit-tarot-reading/).
+And there’s the reason that matters most. Deciding is a muscle. Every time a deck does the lifting, it gets weaker, and the next decision feels heavier, so you reach for the deck again. That loop is how a helpful tool turns into a habit that feeds doubt; I wrote about it in [why stepping away from readings rebuilds that muscle](/blog/why-you-should-quit-tarot-reading/).
 
 ## A three-card method that keeps you in charge {#three-card-method}
 
 1. Write the decision in one sentence, then write what you’d choose if you had to answer right now. Do this before you shuffle. It stops the cards from becoming the first opinion you hear.
 2. Draw three cards: what pulls you towards the first option, what pulls you towards the second, and what you’re afraid of.
-3. Read the elements first. Fire is impulse, Water is emotion, Earth is holding on, Air is thinking. My notes call [Air the best decision-maker](/library/four-elements/air-element/), because it sees everything at once — Fire is too impulsive, Water too emotional, Earth too stubborn. If your spread has no Swords at all, you may be deciding with everything except your head.
+3. Read the elements first. Fire is impulse, Water is emotion, Earth is holding on, Air is thinking. My notes call [Air the best decision-maker](/library/four-elements/air-element/), because it sees everything at once, while each of its neighbours overdoes something: rash Fire, swept-away Water, obstinate Earth. If your spread has no Swords at all, you may be deciding with everything except your head.
 4. Close the deck and decide. Today, or by a date you set now.
 5. Write the decision next to your first answer. Did it change? Why?
 
@@ -49,9 +49,9 @@ For a work choice, the [career spread](/blog/career-tarot-spread/) goes position
 
 Some decisions arrive with a lot of worry attached: whether to take a loan or invest your savings, whether to start a treatment, whether to settle a court case. I understand why people bring them to the cards. When the stakes are that high, any extra voice feels like help.
 
-I don’t read on those, and here’s why: a wrong word there costs too much, and the cards aren’t built to weigh a contract, a diagnosis or a legal strategy. That’s one for a financial adviser, a doctor or a lawyer.
+I don’t read on those, and here’s why: the price of a mistaken sentence is too high, and no deck is designed to weigh a contract, a diagnosis or a legal strategy. That’s one for a financial adviser, a doctor or a lawyer.
 
-What a reading can hold meanwhile is you. A gentler question is “What do I need to feel steady while I decide?” — and that one, the cards answer well.
+Meanwhile, the reading can focus on you rather than on the choice. A gentler question is “What do I need to feel steady while I decide?” — and that one, the cards answer well.
 
 ## Keep training the muscle that decides {#keep-training}
 
@@ -62,4 +62,4 @@ The goal is to need the cards less for decisions, not more.
 - Don’t draw twice on the same decision. If you catch yourself reshuffling, the question isn’t open any more — the doubt is.
 - Keep a record. Decisions in one column, how they turned out in the other. After a few months you’ll trust yourself more than any spread.
 
-If you’d like to see what a reading can and can’t do before you lean on one, start with [when it’s a good time to get a tarot reading](/blog/when-to-get-a-tarot-reading/). And if you’d rather learn to lay out a decision yourself, that’s exactly the kind of thing we work on in a [one-to-one session](/sessions/).
+Before you lean on a reading, it helps to know its limits, and [the moments when a reading actually helps](/blog/when-to-get-a-tarot-reading/) sets them out. And if you’d rather learn to lay out a decision yourself, that’s exactly the kind of thing we work on in a [one-to-one session](/sessions/).

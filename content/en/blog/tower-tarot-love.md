@@ -51,7 +51,7 @@ This is the part of the title that matters most. The card can’t tell you what 
 2. Find ground under your own feet first. Sleep, eat, walk, call the friend who doesn’t take sides. Fire calms when it has nothing left to burn.
 3. Make two lists: what fell, and what is still standing. There’s usually more on the second list than you expect.
 4. Talk when the fire is down. A conversation held three days later says more than one shouted at midnight.
-5. If you’re ever afraid of someone, that isn’t a question for a card. Tell someone you trust, and reach for a professional or a support line: in the UK, the National Domestic Abuse Helpline on 0808 2000 247 is free and answers day and night; in France, the 3919 is free and anonymous. If there’s immediate danger, call your local emergency number (999 in the UK, 17 or 112 in France). The cards can hold what you feel; they can’t keep you safe.
+5. If you’re ever afraid of someone, a card is the wrong place to take it. Tell someone you trust, and reach for a professional or a support line: in the UK, the National Domestic Abuse Helpline on 0808 2000 247 is free and answers day and night; in France, the 3919 is free and anonymous. If there’s immediate danger, call your local emergency number (999 in the UK, 17 or 112 in France). The cards can hold what you feel; they can’t keep you safe.
 6. Put the deck down for a while: an hourly card can’t calm a shock, it only feeds it.
 
 ## What the cards around it say about the fall {#around-the-fall}

@@ -9,7 +9,7 @@ tags: ["tarot debates", "tarot reversals debate", "clarifier cards", "cleansing 
 image: "covers/what-tarot-readers-disagree-about.jpg"
 imageAlt: "Two decks of cards on a wooden table, one card from the second deck turned upside down, an open notebook and a pencil between them"
 imagePrompt: "Two decks of cards side by side on a wooden table, one card from the second deck turned upside down, an open notebook and a pencil lying between them. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Tarot readers disagree most about six things: whether to read reversed cards, whether to draw clarifiers, whether a deck needs cleansing, whether to charge for readings, whether AI has a place, and whether to use set spreads or build your own. Good readers sit on both sides of each. Where I stand: reversals later, read as the same card slowed down or in excess; no clarifiers; no cleansing; lessons paid and readings free; AI as a dictionary, not a reader; and spreads as a craft with room for both camps. Test the other side before you settle."
+summary: "Tarot readers disagree most about six things: whether to read reversed cards, whether to draw clarifiers, whether a deck needs cleansing, whether to charge for readings, whether AI has a place, and whether to use set spreads or build your own. Good readers sit on both sides of each. Where I stand: reversals later, each read as its upright card held back or overdone; no clarifiers; no cleansing; lessons paid and readings free; AI as a dictionary, not a reader; and spreads as a craft with room for both camps. Test the other side before you settle."
 ---
 Tarot readers agree on less than you’d think. Six debates come up again and again: reversed cards, clarifier cards, cleansing, money, AI and spreads. Good readers sit on both sides of every one. Here is each debate as fairly as I can put it, then where I stand, as one reader’s position rather than a ruling.
 
@@ -17,15 +17,15 @@ Tarot readers agree on less than you’d think. Six debates come up again and ag
 
 *Reversals.* When a card lands upside down, some readers turn it upright and read it as usual, every time. Others read the direction as part of the message, and many booklets give each card a second, reversed meaning, which turns 78 meanings into 156. The upright camp says the picture is the picture. The reversed camp says the direction adds a layer it would be a shame to throw away. Both read well.
 
-Where I stand: not in your first weeks, then yes, but without a second list. A reversed card is the same card, slowed down or in excess: the same number, element and colours, with the energy held back or spilling over. Say the Chariot lands reversed.
+Where I stand: not in your first weeks, then yes, but without a second list. To me a reversal changes the pace, not the card: number, element and colours all stay put, and the energy either stalls or overflows. Say the Chariot lands reversed.
 
 {{< cards "ar07" >}}
 
-Upright, it’s moving forward with the reins in hand. Reversed, it’s either stalled, the two sphinxes pulling apart, or charging through when it should slow down. And decide before you shuffle, not after you’ve seen the card. The full shortcut is in [reversed tarot cards](/blog/reversed-tarot-cards/).
+Upright, it’s moving forward with the reins in hand. Reversed, it’s either stalled, the two sphinxes pulling apart, or charging through when it should slow down. And make that choice with the deck still unshuffled. The full shortcut is in [reversed tarot cards](/blog/reversed-tarot-cards/).
 
 *Clarifiers.* A clarifier is an extra card drawn to explain one that’s unclear. Plenty of readers use them, and use them carefully, and the case for them is real: a reading is a conversation, and sometimes you want one more word.
 
-Where I stand: I don’t draw them. One more card doesn’t clarify the first; it adds a second picture and a second story. And the urge for one tends to arrive when a reading hasn’t landed, which is the moment I’d rather say so. I explain why in [the clarifier card](/blog/the-clarifier-card/).
+Where I stand: I don’t draw them. An extra card doesn’t sharpen the first one; it brings in a new image with its own story. And the urge for one tends to arrive when a reading hasn’t landed, which is the moment I’d rather say so. I explain why in [the clarifier card](/blog/the-clarifier-card/).
 
 **On both questions, the rule that matters most is deciding before you see the cards, not after.**
 
@@ -41,7 +41,7 @@ Some readers charge for readings and see it as skilled work like any other, whic
 
 Where I stand: in the middle, in a specific way. I charge for lessons, one-hour sessions and three-hour workshops, and I give readings away at events. I’ve never sold a reading. That isn’t a judgement on readers who do. It’s about incentives: I’d rather be paid for making you more independent than for your next question.
 
-**What I’d watch isn’t whether a reader charges, but whether the price rewards keeping you uncertain.** Pay-per-question and self-renewing subscriptions do; a stated price for a stated hour doesn’t. I set out my side in [what I charge for and what I give away](/blog/what-i-charge-for/).
+**What I’d watch isn’t whether a reader charges, but whether the price rewards keeping you uncertain.** Pay-per-question and self-renewing subscriptions do; a stated price for a stated hour doesn’t. I set out my side in [the page on my fees and free readings](/blog/what-i-charge-for/).
 
 ## AI and tarot {#ai}
 

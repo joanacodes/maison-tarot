@@ -69,7 +69,7 @@ Tarot divides people the way contemporary art does: “my child could do that”
 
 A painting can’t be wrong. A reading can.
 
-When I tell someone something specific, I’m making a claim that can be checked, and about one in ten of mine fails that check. Calling tarot an art doesn’t excuse it from that. I still say “that’s a miss”, write it down, and don’t dress it up as a deeper meaning. And just as a painting doesn’t make your decisions, neither should a reading.
+When I tell someone something specific, I’m making a claim that can be checked, and a tenth of mine, more or less, fail that check. Calling tarot an art doesn’t excuse it from that. I still say “that’s a miss”, write it down, and don’t dress it up as a deeper meaning. And just as a painting doesn’t make your decisions, neither should a reading.
 
 ## Try it as an art {#try-it}
 

@@ -27,7 +27,7 @@ La peur fait aussi lire trop vite. L’œil s’arrête au squelette et n’atte
 
 ## La Mort : une fin qui dégage le terrain {#la-mort}
 
-*13 → 1 + 3 = 4 · Eau · Scorpion · féminine.* La Mort arrive à cheval, en armure, sa bannière à la rose blanche déployée. Devant elle, un roi est à terre, un évêque lui fait face, un enfant la regarde — et à l’arrière-plan, une aube point entre deux tours.
+*13 → 1 + 3 = 4 · Eau · Scorpion · féminine.* La Mort arrive à cheval, en armure, sa bannière à la rose blanche déployée. Devant elle, un roi renversé, un évêque qui lui fait face, un enfant qui la regarde — et à l’arrière-plan, une aube point entre deux tours.
 
 Dans mes notes, [la Mort](/fr/bibliotheque/cartes-tarot/la-mort/) n’est pas forcément mauvaise et ne parle pas de mourir. Elle est liée à la récolte et au recommencement : quelqu’un sans but qui veut rendre sa vie fertile à nouveau. Treize se réduit à quatre, le nombre de la structure : la lame dégage une structure pour faire place à une autre. L’Eau et le Scorpion en font un changement émotionnel, ressenti en profondeur, pas une formalité — et le verbe du Scorpion est « je désire » : ce que vous voulez ensuite commence à pousser dans cette clairière.
 

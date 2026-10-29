@@ -21,7 +21,7 @@ Son rang, c’est la Reine : la maîtrise intérieure, l’état de celle ou cel
 
 Son élément, c’est l’Eau de l’Air. L’Air, dans mes notes, est le meilleur décideur des quatre, parce qu’il voit tout en même temps — et, les mauvais jours, c’est la langue de vipère. L’Eau y ajoute le ressenti. Elle n’est donc pas un esprit sans cœur. C’est un esprit qui a ressenti, et qui décide avec ce savoir plutôt que malgré lui.
 
-Son énergie est féminine — un mot qui, chez moi, ne parle pas de genre : la patience, réfléchir avant d’agir, aborder les sujets délicats par un détour. La Reine d’Épées y ajoute la lame : le soin d’abord, la phrase qu’il faut dire ensuite. Ses deux mains le disent pour l’amour : l’une tient l’épée bien droite, l’autre se lève, ouverte, comme pour vous inviter à parler. [La page de la Reine d’Épées](/fr/bibliotheque/cartes-tarot/reine-de-epees/) détaille toutes les autres clés.
+Son énergie est féminine — un mot qui, chez moi, ne parle pas de genre : la patience, réfléchir avant d’agir, aborder les sujets délicats par un détour. La Reine d’Épées y ajoute la lame : le soin d’abord, la phrase qu’il faut dire ensuite. Ses deux mains le disent pour l’amour : l’une tient l’épée bien droite, l’autre se lève, ouverte, comme pour vous inviter à parler. [La page de la Reine d’Épées](/fr/bibliotheque/cartes-tarot/reine-de-epees/) la reprend clé par clé.
 
 **Une main tranche, l’autre est ouverte : c’est toute sa franchise.**
 

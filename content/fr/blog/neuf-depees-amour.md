@@ -21,7 +21,7 @@ Regardez où sont les épées. Elles sont accrochées au mur au-dessus du lit, a
 
 Le nombre, c’est le 9 : l’arrivée est en vue, l’étape se termine, encore un dernier effort — et continuer d’avancer. Neuf n’est pas dix. Le cycle n’est pas bouclé, mais il en est tout près, et c’est pour ça que je lis cette carte comme la fin d’une mauvaise passe plutôt que son début. La nuit est longue, et elle touche à sa fin.
 
-L’élément, c’est l’Air, le mental. Quand il fonctionne, il décide ; quand il ne fonctionne pas, il bloque ou ressasse. À 3 heures du matin, l’Air tourne à vide : une pensée devient un scénario, le scénario une certitude, et rien de tout ça n’a vu la lumière du jour. À cette heure-là, la nuit n’apporte pas de conseils : elle apporte des épées. L’énergie est masculine : l’envie d’agir — envoyer le message, vérifier le téléphone, régler ça tout de suite — à la seule heure où rien d’utile ne peut se faire. [La page du Neuf d’Épées](/fr/bibliotheque/cartes-tarot/neuf-de-epees/) détaille les autres clés.
+L’élément, c’est l’Air, le mental. Quand il fonctionne, il décide ; quand il ne fonctionne pas, il bloque ou ressasse. À 3 heures du matin, l’Air tourne à vide : une pensée devient un scénario, le scénario une certitude, et rien de tout ça n’a vu la lumière du jour. À cette heure-là, la nuit n’apporte pas de conseils : elle apporte des épées. L’énergie est masculine : l’envie d’agir — envoyer le message, vérifier le téléphone, régler ça tout de suite — à la seule heure où rien d’utile ne peut se faire. Les couleurs et l’astrologie de la carte vous attendent sur [la page du Neuf d’Épées](/fr/bibliotheque/cartes-tarot/neuf-de-epees/).
 
 ## La question qu’on pose au plafond {#au-plafond}
 

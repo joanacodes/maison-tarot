@@ -46,7 +46,7 @@ The Golden Dawn turned a teaching about how judgement tempers kindness into a sp
 
 My notes on these cards are not gentle. On the Five of Wands, five young men seem to fight without coordinating. The Five of Swords is a conflict of decisions, two points of view that don’t meet. The Five of Pentacles is poverty and snow, with the church where warmth could be found. The Five of Cups is, for me, the most negative card in the deck: losing, alone with your problems.
 
-The number frames them: [five](/library/numerology/number-5/) is conflict and trial, trying without fear of failing, making do with what’s left. Its advice is to avoid useless conflicts and be honest with yourself; its minus is denial. Gevurah adds a function to the conflict. Through this lens, a Five marks a boundary — and asks where it is, and who drew it.
+The number frames them: [five](/library/numerology/number-5/) is conflict and trial, trying without fear of failing, making do with what’s left. Its advice is to avoid useless conflicts and be honest with yourself; its minus is denial. Gevurah adds a function to the conflict. Read with Gevurah, a Five marks a boundary — and asks where it is, and who drew it.
 
 ## Gevurah and astrology: Mars {#astrology}
 

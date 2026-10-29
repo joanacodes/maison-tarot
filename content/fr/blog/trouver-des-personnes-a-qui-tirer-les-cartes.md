@@ -37,7 +37,7 @@ Demandez-leur donc deux choses. D’abord, ne rien vous dire — ni la question,
 
 ## Comment demander, et sur quoi se mettre d’accord {#comment-demander}
 
-Qui ne demande rien n’a rien, dit le proverbe ; au tarot, on pourrait ajouter : qui ne demande pas ne lit pas. Lire quelqu’un sans lui demander, c’est pousser la porte de sa chambre sans frapper. C’est aussi moins juste : sans le savoir, la personne reste fermée, et l’on se retrouve à tirer des conclusions entières d’un fragment. Le consentement passe en premier, à chaque fois.
+Qui ne demande rien n’a rien, dit le proverbe ; au tarot, on pourrait ajouter : qui ne demande pas ne lit pas. Lire quelqu’un sans lui demander, c’est pousser la porte de sa chambre sans frapper. C’est aussi moins juste : sans le savoir, la personne reste fermée, et l’on se retrouve à tirer des conclusions entières d’un fragment. Le consentement vient d’abord, à chaque fois.
 
 Une phrase peut suffire : « J’apprends le tarot et je m’entraîne avec des volontaires ; c’est gratuit, ne me dites pas votre question, et dites-moi à la fin ce qui vous a parlé et ce qui ne vous a pas parlé. » Derrière cette phrase, voici ce sur quoi je vous conseille de vous entendre avant de commencer :
 

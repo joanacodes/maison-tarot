@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/pepa.webp
 h1: Valet de Pentacles — <em>le Valet</em>, la Terre de terre
-lede: 'Avant de chercher ce que « signifie » Valet de Pentacles, regardez ce que vous
-  avez déjà : le Valet, l’élément Terre de Terre. Vous lisez la carte. Le nombre dit
-  le Valet — l’élève, le message, l’élan neuf ; l’élément dit la matière, ce qui tient.
-  Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte vous parle déjà
-  — le reste de la page vous montre comment.'
+lede: 'Seul dans un pré fleuri, un jeune homme élève une pièce à hauteur d’yeux, du bout des doigts, tandis qu’un champ labouré l’attend en contrebas. Quand le regard deviendra-t-il un geste ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-terre
@@ -30,7 +26,7 @@ faq:
 - q: 'Que signifie Valet de Pentacles ?'
   a: 'Un début dans le concret : quelqu’un qui apprend un métier, commence une formation, ou tient une première vraie occasion et la regarde de près. Le Valet est l’élève et la Terre la matière : la carte parle d’un apprentissage patient et pratique.'
 - q: 'Valet de Pentacles renversé, ça change quoi ?'
-  a: 'Le même apprentissage, freiné ou excessif. Freiné : l’occasion est admirée mais jamais saisie, la formation jamais commencée. Excessif : tant de préparation que rien ne se fait, ou un regard si fixé sur un seul but que le reste du champ disparaît.'
+  a: 'L’apprentissage ne démarre pas — l’occasion admirée mais jamais saisie, la formation jamais commencée —, ou il devient une fin en soi : tant de préparation que rien ne se fait, ou un regard si fixé sur un seul but que le reste du champ disparaît.'
 - q: 'Le Valet de Pentacles est-il une personne ?'
   a: 'Parfois : un jeune, un étudiant, un apprenti, quelqu’un qui débute dans un poste. Plus souvent, il décrit un état — le début d’un vrai apprentissage — et la personne en face de vous vous dira lequel des deux.'
 categories:
@@ -68,7 +64,7 @@ Le [vert](/fr/bibliotheque/couleurs-tarot/vert/) l’habille, lui et le pré : l
 
 À l’endroit : le début d’un apprentissage. Quelqu’un qui apprend un métier, commence une formation, prend un premier poste, ou reçoit une offre concrète et l’étudie avant de dire oui. Ce peut être un jeune, un étudiant, un nouveau venu — ou vous, au début de quelque chose que vous voulez apprendre pour de bon. C’est une carte que je confierais à toute personne qui veut [apprendre le tarot](/fr/apprendre-le-tarot/) une carte à la fois. **Le Valet n’a pas besoin de savoir déjà ; il a besoin de continuer à regarder, puis de commencer.**
 
-Renversé, l’élève ne commence jamais, ou n’en finit plus de se préparer. Freiné : l’offre est admirée mais jamais saisie, la formation prévue et jamais commencée, la pièce reste en l’air. Excessif : étudier devient une façon de ne pas faire — encore une formation, encore un livre.
+Renversé, l’élève ne commence jamais, ou n’en finit plus de se préparer. D’un côté, l’offre admirée mais jamais saisie, la formation prévue et jamais commencée, la pièce qui reste en l’air. De l’autre, l’étude devenue une façon de ne pas faire — encore une formation, encore un livre.
 
 À côté de l’[As de Pentacles](/fr/bibliotheque/cartes-tarot/as-de-pentacles/), la pièce elle-même est offerte par une main sortie d’un nuage, et le Valet est celui qui la reçoit. À côté du [Huit de Pentacles](/fr/bibliotheque/cartes-tarot/huit-de-pentacles/), l’élève arrive à l’établi : le regard devient un geste, répété. À côté du [Cavalier de Pentacles](/fr/bibliotheque/cartes-tarot/cavalier-de-pentacles/), la même pièce à cheval : l’élève devient celui qui porte le plan.
 
@@ -76,8 +72,8 @@ Renversé, l’élève ne commence jamais, ou n’en finit plus de se préparer.
 
 ## Exemple de tirage {#exemple}
 
-À titre d’illustration, une voisine vous demande d’essayer et tire le Valet de Pentacles à côté du [Deux d’Épées](/fr/bibliotheque/cartes-tarot/deux-de-epees/). Valet puis deux : un élève, puis un choix entre deux côtés — dans mes notes, un contrat à lire attentivement, le pour et le contre à peser. Terre puis Air : quelque chose de concret dans les mains, puis un esprit qui soupèse. Un jeune homme qui contemple une pièce, puis une femme aux yeux bandés qui tient deux épées croisées, la mer derrière elle.
+À titre d’illustration, une voisine vous demande d’essayer et tire le Valet de Pentacles à côté du [Deux d’Épées](/fr/bibliotheque/cartes-tarot/deux-de-epees/). Valet puis deux : un élève, puis un choix entre deux côtés — dans mes notes, un contrat à lire attentivement, le pour et le contre à peser. Terre puis Air : quelque chose de concret dans les mains, puis un esprit qui soupèse. Un jeune homme qui contemple une pièce, puis une silhouette au bandeau blanc, deux lames croisées contre la poitrine, la mer dans son dos.
 
-À voix haute : « On vous a proposé quelque chose de réel — une place, un poste, une formation — et vous le regardez sous tous les angles. Vous n’avez dit ni oui ni non. Vous attendez peut-être une certitude, et elle ne viendra sans doute qu’une fois le premier pas fait. »
+L’élève à la pièce, puis les lames croisées ; je formulerais : « On vous a proposé quelque chose de réel — une place, un poste, une formation — et vous le regardez sous tous les angles. Vous n’avez dit ni oui ni non. Vous attendez peut-être une certitude, et elle ne viendra sans doute qu’une fois le premier pas fait. »
 
 Puis vérifiez : « Y a-t-il une offre de ce genre autour de vous en ce moment ? » Si la réponse est non, c’est un raté ; notez-le, et n’allez pas chercher un autre sens.

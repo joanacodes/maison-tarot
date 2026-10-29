@@ -31,7 +31,7 @@ I don’t read on what a partner does when they aren’t in the room. A card can
 
 If you catch yourself asking it again and again, that’s usually doubt talking rather than a need for an answer, and [a break from readings](/blog/why-you-should-quit-tarot-reading/) will help more than another card.
 
-A gentler question: “What am I afraid of, and what would I need to ask, in daylight, to feel safe?” That one leads to a conversation, which is where the real answer lives.
+A gentler question: “What am I afraid of, and which question, asked in daylight, would help me feel safe?” That one leads to a conversation, which is where the real answer lives.
 
 ## Whose night the card describes {#whose-night}
 

@@ -29,7 +29,7 @@ Its astrology is Venus in Cancer: love that wants a home. In my notes, Cancer is
 
 That’s the question with this card, nearly every time. It’s a brave one — it means you’ve already put something in your cup — and it’s natural to want reassurance before you drink.
 
-I don’t read what another person feels. They’re not in the room, they haven’t agreed, and anything a card “said” about their heart would really be your hope or your fear, dressed up as theirs. I’ve written about [reading tarot about someone who isn’t there](/blog/reading-tarot-about-someone-else/), and why I’d rather not.
+I don’t read what another person feels. They’re not in the room, they haven’t agreed, and anything a card “said” about their heart would really be your hope or your fear, dressed up as theirs. I’ve written about [why I leave other people’s hearts out of my readings](/blog/reading-tarot-about-someone-else/).
 
 A kinder question: “What am I bringing to this cup — and what would I need to see to know it’s mutual?” The second half isn’t answered by cards. It’s answered by how the other person behaves when you’re both at the table.
 

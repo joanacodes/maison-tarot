@@ -21,7 +21,7 @@ Le 10, dans mes notes, c’est un seuil : on a quitté une étape sans être enc
 
 L’élément, c’est l’Air, la pensée, et dix épées pour un seul homme, c’est bien plus que nécessaire. La carte en fait des tonnes, et cet excès est l’indice. La pensée sait très bien vous poignarder dix fois avec la même idée : la dernière conversation, ce que vous auriez dû dire.
 
-L’énergie est masculine — le visible, ce qui se passe sur scène —, et c’est pour ça qu’une fin façon Dix d’Épées se vit rarement en privé. Tout le monde a l’air d’être au courant. Pour l’amour, gardez l’œil sur la bande de lumière jaune le long de l’horizon, sous le ciel noir. [La page de la carte](/fr/bibliotheque/cartes-tarot/dix-de-epees/) détaille les autres clés.
+L’énergie est masculine — le visible, ce qui se passe sur scène —, et c’est pour ça qu’une fin façon Dix d’Épées se vit rarement en privé. Tout le monde a l’air d’être au courant. Pour l’amour, gardez l’œil sur la bande de lumière jaune le long de l’horizon, sous le ciel noir. Pour les couleurs et l’astrologie, passez par [la page de la carte](/fr/bibliotheque/cartes-tarot/dix-de-epees/).
 
 ## « Là, j’arrête » {#j-arrete}
 

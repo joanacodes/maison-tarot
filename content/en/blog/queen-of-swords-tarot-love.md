@@ -35,7 +35,7 @@ After a break-up, she’s clarity about why it ended — without rewriting the s
 
 ## “Who is she?” {#who-is-she}
 
-With this card, people often ask about another woman. “Is she the ex?” “Is it his mother?” “Is someone coming between us?” It’s an understandable reflex: a queen on the table looks like a person, and when you’re worried, a person looks like a threat.
+This card often brings a question about another woman. “Is she the ex?” “Is it his mother?” “Is someone coming between us?” It’s an understandable reflex: a queen on the table looks like a person, and when you’re worried, a person looks like a threat.
 
 I don’t read on absent people, and I’d rather not turn a court card into a suspect. A court card describes a way of acting, and most often it describes you. I explain how I read them in [court cards explained](/blog/court-cards-explained/). I also hold my own readings to the honesty she asks for: when something doesn’t land, I say so plainly.
 

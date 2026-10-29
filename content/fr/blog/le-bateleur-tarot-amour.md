@@ -21,7 +21,7 @@ Dans mes notes, le Magicien (le Bateleur au tarot de Marseille) est la lame des 
 
 Son nombre, c’est le 1 : l’initiateur, le diamant brut. Son conseil, c’est l’humilité — se préparer à apprendre —, et son revers, c’est d’oublier qu’on reste élève toute sa vie. Avec quelqu’un de nouveau, vous redevenez débutant, quel que soit le nombre d’histoires derrière vous.
 
-Son énergie est masculine : agir, se montrer, dire les choses en face. C’est pour ça qu’il fait le premier pas au lieu d’attendre d’être choisi. En amour, ses mains parlent : l’une lève la baguette, l’autre pointe vers le sol. Dans mes notes, la baguette reçoit et transmet. Un premier pas est un message, et les messages vont dans les deux sens. [La page du Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/) détaille toutes les autres clés.
+Son énergie est masculine : agir, se montrer, dire les choses en face. C’est pour ça qu’il fait le premier pas au lieu d’attendre d’être choisi. En amour, ses mains parlent : l’une lève la baguette, l’autre pointe vers le sol. Dans mes notes, la baguette reçoit et transmet. Un premier pas est un message, et les messages vont dans les deux sens. [La page du Magicien](/fr/bibliotheque/cartes-tarot/le-magicien/) le lit aussi par ses couleurs et son astrologie.
 
 ## Oser le premier message {#premier-message}
 

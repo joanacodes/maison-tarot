@@ -15,11 +15,7 @@ energy: Feminine
 kabbalah: ''
 image: cards/swqu.webp
 h1: Queen of Swords — <em>the Queen</em>, Water of Air
-lede: 'Before looking up what Queen of Swords “means”, look at what you already have:
-  the Queen, the element Water of Air. You’re reading the card. The number says the
-  Queen — inner mastery, welcome; the element says the mind, what you decide. Lay
-  the two over each other, add the colours, and the card is already talking — the
-  rest of the page shows you how.'
+lede: 'Seated in profile above a bank of clouds, a queen holds her sword straight up and opens her other hand towards someone we can’t see. Can you be clear and still invite people to speak?'
 related:
 - /library/numerology
 - /library/four-elements/air-element
@@ -29,7 +25,7 @@ faq:
 - q: What does Queen of Swords mean?
   a: 'Clarity with a hand held out: someone who sees things as they are, says them plainly, and still listens. The Queen is inner mastery, and Water of Air is a mind that has been through feeling. It can be a person, or a moment of lucidity of your own.'
 - q: What about Queen of Swords reversed?
-  a: 'The same clarity, held back or too sharp. Held back: the true thing you know and don’t say. Too sharp: the cutting remark, judging before listening, keeping everyone at arm’s length.'
+  a: 'Clarity held back or too sharp. Held back: the true thing you know and don’t say. Too sharp: the cutting remark, judging before listening, keeping everyone at arm’s length.'
 - q: 'What does the Queen of Swords mean in love?'
   a: 'Clarity and boundaries: knowing what you will and won’t accept, and saying it kindly. I read it as the lucidity of the person in front of me, not as a portrait of someone who isn’t in the room.'
 categories:
@@ -45,7 +41,7 @@ A queen sits in profile on a grey stone throne, facing right. In her right hand 
 
 Her cloak is patterned with white clouds on blue, over a pale robe. The throne is carved with a winged child’s head and butterflies. Clouds bank up around the base of the throne, but above her the sky is clear blue, with a single bird high up. Dark trees stand at the far left.
 
-**The drawing is about seeing clearly from above the clouds — and still holding out a hand.**
+**She sees clearly from above the clouds — and still holds out a hand.**
 
 ## By number: the Queen {#number}
 
@@ -61,13 +57,13 @@ Water seeps into everything with time; Air cuts cleanly. Together they make some
 
 ## By colours {#colours}
 
-[Blue](/library/tarot-colours/blue/) dominates: the sky, the cloak. In my grid, blue is emotion, water, what purifies — feelings that have settled and become clear. The [white](/library/tarot-colours/white/) of the clouds and the robe is purity, peace: nothing hidden. The grey stone of the throne is neutrality and stability; she doesn’t take sides before she has listened. The gold of the crown and the orange-red trim add a little warmth. Before the name: settled feelings, clean intentions, a fair seat.
+[Blue](/library/tarot-colours/blue/) dominates: the sky, the cloak. In my grid, blue is emotion, water, what purifies — feelings that have settled and become clear. The [white](/library/tarot-colours/white/) of the clouds and the robe is purity, peace: nothing hidden. The grey stone of the throne is neutrality and stability; she doesn’t take sides before she has listened. The gold of the crown and the orange-red trim add a little warmth. Settled feelings, clean intentions, a fair seat.
 
 ## In a reading {#reading}
 
 Upright, the Queen of Swords is clarity: seeing a situation as it is, saying it plainly, setting a boundary. She’s the friend who tells you the truth because she cares, the person who has been through something hard and come out lucid. **The Queen of Swords tells you the truth and holds out her hand while she does it.**
 
-Reversed, the same clarity is held back or too sharp. Held back: you know exactly what’s wrong and don’t say it. Too sharp: the remark that cuts, judging before listening, keeping everyone at arm’s length so nobody can hurt you again.
+Reversed, her clarity is held back or too sharp. Held back: you know exactly what’s wrong and don’t say it. Too sharp: the remark that cuts, judging before listening, keeping everyone at arm’s length so nobody can hurt you again.
 
 Next to [Justice](/library/tarot-cards/justice/), clarity becomes a decision — fair, and final. Next to the [Three of Swords](/library/tarot-cards/three-of-swords/), the grief she has come through is still visible: lucidity born of a heartbreak. Next to the [Queen of Cups](/library/tarot-cards/queen-of-cups/), head and heart work together — understanding first, then a clear word. In love, this Queen is about [clarity, boundaries and a kind honesty](/blog/queen-of-swords-tarot-love/).
 
@@ -77,6 +73,6 @@ Next to [Justice](/library/tarot-cards/justice/), clarity becomes a decision —
 
 Here is a pairing worth practising on: someone draws the Queen of Swords, and beside it the Five of Cups. A Queen then a five: inner mastery, then conflict and loss. Water of Air then Water: a clear mind, then sorrow. A blue sky above the clouds, then a figure in a black cloak looking down at spilled cups.
 
-Out loud, you might say: “Something has been lost, and you’re the first to see it clearly. You’re ready to name what happened, even if the people around you are still looking at what’s spilled.”
+Her lucidity next to the mourner’s cloak sounds like this: “Something has been lost, and you’re the first to see it clearly. You’re ready to name what happened, even if the people around you are still looking at what’s spilled.”
 
-Then check: “Does that sound like where you are?” Wait for the answer, and leave their silences alone. If it doesn’t fit, be as honest about the miss as this Queen would be.
+Then put the question: “Does that sound like where you are?” Wait for the answer, and leave their silences alone. If it doesn’t fit, be as honest about the miss as this Queen would be.

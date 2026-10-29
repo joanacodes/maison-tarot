@@ -41,7 +41,7 @@ On ne sait pas laquelle est vraie, ni s’il s’agit d’un mélange. Je préf�
 
 Arthur Edward Waite ne partageait pas cette réticence. Il a fait imprimer le nom en bas de la carte, DEATH, et il a demandé une autre image à Pamela Colman Smith. Dans son propre livre, [*The Pictorial Key to the Tarot*](https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot), il s’en explique ; je traduis : « Le voile ou le masque de la vie se perpétue dans le changement, la transformation et le passage de l’inférieur au supérieur, et cela est mieux représenté dans le tarot rectifié par l’une des visions de l’Apocalypse que par l’idée grossière du squelette faucheur. »
 
-Autrement dit : le squelette à la faux était trop brutal pour ce qu’il voulait dire, à savoir le changement et le passage. Smith a donc remplacé le faucheur par un cavalier : un squelette cuirassé de noir, sur une monture blanche, avec une bannière sombre où fleurit une rose blanche. Devant lui, chacun réagit à sa façon — le roi est tombé, l’évêque prie, la jeune femme se détourne, l’enfant le regarde en face. Plus loin coule une rivière, et le soleil pointe entre deux tours.
+Autrement dit : le squelette à la faux était trop brutal pour ce qu’il voulait dire, à savoir le changement et le passage. Smith a donc remplacé le faucheur par un cavalier : un squelette en cuirasse sombre, sur une monture blanche, avec une bannière sombre où fleurit une rose blanche. Devant lui, chacun réagit à sa façon — le roi est tombé, l’évêque prie, la jeune femme se détourne, l’enfant le regarde en face. Plus loin coule une rivière, et le soleil pointe entre deux tours.
 
 {{< cards "ar13" >}}
 

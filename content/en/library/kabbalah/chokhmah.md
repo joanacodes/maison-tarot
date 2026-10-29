@@ -46,7 +46,7 @@ On the Golden Dawn’s Tree, the second sphere takes the second card of every su
 | [Two of Swords](/library/tarot-cards/two-of-swords/) | Lord of Peace Restored (Moon in Libra) | the answer already known, eyes closed |
 | [Two of Pentacles](/library/tarot-cards/two-of-pentacles/) | Lord of Harmonious Change (Jupiter in Capricorn) | the knack of keeping two things moving |
 
-The number gives the ground: [two](/library/numerology/number-2/) is cooperation, the contract, the moment you weigh pros and cons. Chokhmah adds the speed of the first insight. Through this lens, a Two is a decision you’ve already half made by instinct — and the advice of the number still holds: read the contract before you sign.
+The number gives the ground: [two](/library/numerology/number-2/) is cooperation, the contract, the moment you weigh pros and cons. Chokhmah adds the speed of the first insight. Seen this way, a Two is a decision you’ve already half made by instinct — and the advice of the number still holds: read the contract before you sign.
 
 ## The court cards: Kings or Knights? {#court}
 
@@ -66,7 +66,7 @@ That suits the Twos, the first cards in each suit to receive a decan, a planet i
 
 ## Chokhmah in a reading {#reading}
 
-What Chokhmah can add is modest: a question about whether the person already knows. Twos are often read as hesitation. Through this lens, they can also be an intuition that hasn’t been trusted yet.
+What Chokhmah can add is modest: a question about whether the person already knows. Twos are often read as hesitation. With Chokhmah in mind, they can also be an intuition that hasn’t been trusted yet.
 
 Say someone draws the Two of Swords next to the Two of Wands. A blindfold on one side, a globe in the hand on the other: someone who can’t decide, and someone who already sees the whole map. Through Chokhmah, they can be the same person at two moments — the answer came first, the fear of it came after.
 

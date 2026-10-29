@@ -25,7 +25,7 @@ What I’d add now is what that meant, and what it didn’t. It wasn’t proof o
 
 ## ‘I don’t need the cards anymore’ {#the-cards}
 
-That’s a line from my 2021 notes. The more I read, the more messages came before I’d even shuffled, and I was using the cards mostly because the person in front of me wanted to see them.
+That’s a line from my 2021 notes. With practice, messages had started arriving before I’d even mixed the deck, and the cards were there largely for the person across from me, who wanted to see them.
 
 The idea underneath it is one I teach. The cards are a medium, something that helps you let go long enough to notice what surrounds you or another person. **What comes, comes from you, not from the cardboard.**
 
@@ -49,18 +49,18 @@ This one comes before the deck. I put on an astrology video to mock it, read my 
 
 So I moved twice: from mocking astrology to being struck by it, and from being struck by it to counting. **Both first reactions were stronger than the numbers.**
 
-What I hold now is narrower than either. A chart can be worth reading, and it is never an excuse. “It’s because I’m a Taurus” doesn’t settle anything: you’re not one sign, you’re a mix of everything, and if something keeps hurting the people around you, it’s worth checking yourself rather than your Moon. More on that in [when astrology becomes an excuse](/blog/astrology-is-not-an-excuse/).
+What I hold now is narrower than either. A chart can be worth reading, and it is never an excuse. “It’s because I’m a Taurus” doesn’t settle anything: a person is a whole chart, not a single sign, and if the same behaviour keeps causing pain to people you love, examine yourself before you examine your Moon. More on that in [when astrology becomes an excuse](/blog/astrology-is-not-an-excuse/).
 
 ## What I hold most firmly now: misses count {#misses}
 
 My notebook counts a miss in roughly every ten readings, and I say so out loud. No reframing, no extra card to rescue it.
 
-[My first reading for a stranger](/blog/first-tarot-reading-story/) shows what makes that hard to hold: on the day it was a miss, and three or four days later she texted me that everything had happened.
+[My first reading for a stranger](/blog/first-tarot-reading-story/) shows what makes that hard to hold: it missed on the day, and then, before the week was out, word came from her that every part of it had come true.
 
 A story like that makes it tempting to treat every miss as a hit running late. I don’t. She came back on her own; a reading nobody comes back about stays a miss in the notebook. **A reader who can’t say “that one was wrong” can’t learn anything from being right.**
 
 ## What hasn’t changed {#unchanged}
 
-The surprise. The moment that made me want to teach is still the reason I teach: someone I’m teaching says something true about another person, and is shocked by what they’ve just said.
+The surprise. The moment that made me want to teach is still the reason I teach: someone I’m teaching says something true about another person, then stops, amazed that it came from them.
 
 My own first reading, the one I thought I’d need training for, gave me that same surprise. If you’d like to find it for yourself, the [workshops](/workshops/) are three hours, twelve people, and one lens each.

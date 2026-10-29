@@ -44,7 +44,7 @@ For the Golden Dawn, a teaching about majesty and acknowledgement became the sph
 | [Eight of Swords](/library/tarot-cards/eight-of-swords/) | Lord of Shortened Force (Jupiter in Gemini) | the mind that ties itself up |
 | [Eight of Pentacles](/library/tarot-cards/eight-of-pentacles/) | Lord of Prudence (Sun in Virgo) | craft repeated until it shines |
 
-The number gives the frame: [eight](/library/numerology/number-8/) is four exalted — the empire, guaranteed stability, control; the Magician’s lemniscate, an eight lying down; a doorway from what you can touch to what you can’t. In my notes, the Eight of Pentacles is mastery and the effort it takes; the Eight of Cups, leaving behind what you were busy with. Hod adds form. Through this lens, an Eight is something given its shape, its method, its words.
+The number gives the frame: [eight](/library/numerology/number-8/) is four exalted — the empire, guaranteed stability, control; the Magician’s lemniscate, an eight lying down; a doorway from what you can touch to what you can’t. In my notes, the Eight of Pentacles is mastery and the effort it takes; the Eight of Cups, leaving behind what you were busy with. Hod adds form. In Hod’s light, an Eight is something given its shape, its method, its words.
 
 ## Hod and astrology: Mercury {#astrology}
 

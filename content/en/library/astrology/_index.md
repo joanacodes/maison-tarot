@@ -37,7 +37,7 @@ The twelve sign pages listed below give each sign’s keywords, its favourable a
 
 ## What the test showed {#the-test}
 
-I took my birth chart and checked it box by box, the way you check an invoice; then I did the same with the charts of friends and strangers — a manual count, not a study. Overall: 30 to 40% accurate. For three bodies in particular — Saturn, Lilith, Chiron — 75 to 90%. That's little and a lot at once: enough to keep astrology as a lens, not enough to hand it a decision. The detail is on the [Method](/method/) page and in [the article that tells the test](/blog/i-tested-my-birth-chart/); the blog then takes it body by body.
+I took my birth chart and checked it box by box, the way you check an invoice; then I did the same with the charts of friends and strangers — a manual count, not a study. Overall: 30 to 40% accurate. For three bodies in particular — Saturn, Lilith, Chiron — 75 to 90%. That's little and a lot at once: enough to keep astrology as a lens, not enough to hand it a decision. The detail sits in [the method write-up](/method/) and in [the article that tells the test](/blog/i-tested-my-birth-chart/); the blog then takes it body by body.
 
 That frame holds for every sign and every body in this section. **No sign explains anyone, not even yours.**
 

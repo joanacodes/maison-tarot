@@ -44,7 +44,7 @@ The Golden Dawn made a teaching about endurance into the sphere of Venus — a r
 | [Seven of Swords](/library/tarot-cards/seven-of-swords/) | Lord of Unstable Effort (Moon in Aquarius) | lasting by cunning: carrying off what you can |
 | [Seven of Pentacles](/library/tarot-cards/seven-of-pentacles/) | Lord of Success Unfulfilled (Saturn in Taurus) | the long wait before the harvest |
 
-First, the number: [seven](/library/numerology/number-7/) is reflection, patience, analysis before action, the harvest, negotiation. Its advice: everything is temporary, good or bad. In my notes, the Seven of Cups can’t pick because there’s too much on offer; the Seven of Swords has to leave things behind but harvests a lot. Netzach adds stamina. Through this lens, a Seven asks whether the patience is worth what it protects.
+First, the number: [seven](/library/numerology/number-7/) is reflection, patience, analysis before action, the harvest, negotiation. Its advice: everything is temporary, good or bad. In my notes, the Seven of Cups can’t pick because there’s too much on offer; the Seven of Swords has to leave things behind but harvests a lot. Netzach adds stamina. On this reading, a Seven asks whether the patience is worth what it protects.
 
 Look at the Seven of Pentacles: a young farmer leaning on his hoe, looking at a bush of coins that he can’t hurry. That’s Netzach in one picture — the victory is not having given up.
 

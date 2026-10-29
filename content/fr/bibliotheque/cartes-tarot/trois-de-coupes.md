@@ -16,11 +16,7 @@ energy: Féminine
 kabbalah: ''
 image: cards/cu03.webp
 h1: Trois de Coupes — <em>trois</em>, l’Eau
-lede: 'Avant de chercher ce que « signifie » Trois de Coupes, regardez ce que vous
-  avez déjà : trois, l’élément Eau, Mercure en Cancer. Vous lisez la carte. Le nombre
-  dit trois — créer, célébrer, le premier résultat ; l’élément dit les émotions, ce
-  qui circule. Posez les deux l’une sur l’autre, ajoutez les couleurs, et la carte
-  vous parle déjà — le reste de la page vous montre comment.'
+lede: 'Bras mêlés, coupes brandies au-dessus des têtes, trois amies dansent sur leur récolte de raisin et de citrouille, sans public. Avec qui fêtez-vous ce qui a poussé ?'
 related:
 - /bibliotheque/numerologie
 - /bibliotheque/quatre-elements/element-eau
@@ -51,7 +47,7 @@ Trois jeunes femmes dansent en rond, chacune levant une coupe dorée au-dessus d
 
 Le 3, c’est la machine qui tourne : après le lien du 2, quelque chose fonctionne, et ça se voit. Dans mes notes, le 3, c’est aussi « des frères et sœurs qui s’entendent bien », et c’est exactement cette carte — des gens qui s’entendent, une bande où le courant passe. Dans l’histoire d’Instagram, le 3, c’est le lancement qui marche — et, comme après une bonne soirée, les gens reviennent.
 
-En pleine fête, le conseil du [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/) paraît étrange : finir un projet avant d’en commencer un autre. Et pourtant, le Trois de Coupes est le moment où les idées fusent autour de la table à minuit — un voyage, une boîte, un groupe de musique. Le revers du 3, c’est précisément ça : le projet suivant lancé avant que celui-ci soit fini, et la solitude, parfois la trahison, quand la bande se disperse.
+En pleine fête, le conseil du [chiffre 3](/fr/bibliotheque/numerologie/chiffre-3/) paraît étrange : mener une chose à son terme avant de lancer la suivante. Et pourtant, le Trois de Coupes est le moment où les idées fusent autour de la table à minuit — un voyage, une boîte, un groupe de musique. Le revers du 3, c’est précisément ça : le projet suivant lancé avant que celui-ci soit fini, et la solitude, parfois la trahison, quand la bande se disperse.
 
 ## Par l’élément : Eau {#element}
 
@@ -63,13 +59,13 @@ L’eau bouge — elles dansent —, mais elle bouge ensemble, en cercle. C’es
 
 Le ciel bleu pâle encadre la scène : les émotions, la vitalité. Au milieu, le grand manteau [rouge](/fr/bibliotheque/couleurs-tarot/rouge/) — la passion, l’action, l’élan : l’énergie de la danse. Le blanc à gauche : l’innocence, la paix. À droite et à leurs pieds, la tunique brune, la citrouille et les fruits orange : dans ma grille, le brun, c’est la valeur gagnée et la terre travaillée ([l’or et le brun](/fr/bibliotheque/couleurs-tarot/or-et-brun/)), et l’orange, la créativité. Les coupes sont jaune doré : la joie.
 
-Avant même la carte : de la joie, du mouvement, de la chaleur, et une récolte posée par terre — on fête quelque chose qui a poussé.
+Joie, mouvement, chaleur, et une récolte posée par terre : on fête quelque chose qui a poussé.
 
 ## Par l’astrologie : Mercure en Cancer {#astrologie}
 
-Dans la tradition Golden Dawn, le Trois de Coupes correspond au deuxième décan du Cancer, gouverné par [Mercure](/fr/bibliotheque/astrologie/mercure/). Le Cancer, c’est *Je sens*, le signe du foyer ; Mercure apporte les mots. Ensemble : la conversation de gens qui se sentent chez eux les uns avec les autres — des nouvelles qu’on se donne, des histoires qu’on se raconte, des rires autour d’une tablée qui s’éternise.
+Le Trois de Coupes répond au deuxième décan du Cancer, sous le gouvernement de [Mercure](/fr/bibliotheque/astrologie/mercure/). Le Cancer, c’est *Je sens*, le signe du foyer ; Mercure apporte les mots. Ensemble : la conversation de gens qui se sentent chez eux les uns avec les autres — des nouvelles qu’on se donne, des histoires qu’on se raconte, des rires autour d’une tablée qui s’éternise.
 
-Facultatif, comme toujours : vous ne perdez rien à la laisser de côté.
+Vous pouvez la sauter : la ronde des trois danseuses raconte la même chaleur.
 
 ## En lecture {#lecture}
 
@@ -77,7 +73,7 @@ Facultatif, comme toujours : vous ne perdez rien à la laisser de côté.
 
 Renversé, le Trois de Coupes voit son cercle se briser ou déborder. Trop de fête : la célébration qui devient une façon de ne pas regarder quelque chose. Ou un groupe où quelqu’un se sent à l’écart, une amie qui parle dans votre dos — le revers du 3, la trahison, est là. Parfois, ce sont trois personnes là où il devrait y en avoir deux.
 
-À côté du [Trois d’Épées](/fr/bibliotheque/cartes-tarot/trois-de-epees/), on voit l’autre face du 3 : le cercle où trois cœurs peuvent aussi se briser (dans mes notes, cette carte est aussi un pacte de sang). À côté du [Quatre de Bâtons](/fr/bibliotheque/cartes-tarot/quatre-de-batons/), la fête devient fondation — un foyer, un mariage, une famille qui se construit. À côté du [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), les amis des bons moments sont ceux dont on aura besoin pour le mauvais.
+À côté du [Trois d’Épées](/fr/bibliotheque/cartes-tarot/trois-de-epees/), on voit l’autre face du 3 : le cercle où trois cœurs peuvent aussi se briser (j’y lis aussi, d’après mes notes, un pacte scellé par le sang). À côté du [Quatre de Bâtons](/fr/bibliotheque/cartes-tarot/quatre-de-batons/), la fête devient fondation — un foyer, un mariage, une famille qui se construit. À côté du [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/), les amis des bons moments sont ceux dont on aura besoin pour le mauvais.
 
 {{< cards "sw03 wa04 cu05" >}}
 
@@ -85,6 +81,6 @@ Renversé, le Trois de Coupes voit son cercle se briser ou déborder. Trop de f�
 
 Représentez-vous les danseuses du Trois de Coupes à côté du [Trois de Pentacles](/fr/bibliotheque/cartes-tarot/trois-de-pentacles/), dans un tirage créé de toutes pièces pour cette page. Deux 3 : la machine tourne, deux fois. L’Eau puis la Terre : quelque chose de ressenti qui devient quelque chose de construit. Les couleurs : le rouge, le blanc et le brun de la danse à côté de la pierre grise d’une église où trois personnes discutent d’un ouvrage.
 
-La phrase que je dirais à voix haute : « Il y a un groupe de personnes avec qui vous adorez être, et vous êtes sur le point de faire quelque chose avec elles — un projet, un événement, une association, peut-être une petite entreprise. » Puis le conseil du 3, avec douceur : finissez ce que vous commencez avec elles avant d’ajouter l’idée suivante.
+La ronde et le chantier, en une seule phrase : « Il y a un groupe de personnes avec qui vous adorez être, et vous êtes sur le point de faire quelque chose avec elles — un projet, un événement, une association, peut-être une petite entreprise. » Puis le conseil du 3, avec douceur : finissez ce que vous commencez avec elles avant d’ajouter l’idée suivante.
 
-Pour vérifier, je demande qui pourrait être ce groupe, et je laisse la personne répondre. Si la réponse est « ces temps-ci, je suis plutôt de mon côté », la phrase a raté, et je la note comme un raté.
+Ensuite, je demande qui pourrait être ce groupe, et je laisse la personne répondre. Si la réponse est « ces temps-ci, je suis plutôt de mon côté », la ronde se dansait sans elle, et je l’inscris dans le carnet.

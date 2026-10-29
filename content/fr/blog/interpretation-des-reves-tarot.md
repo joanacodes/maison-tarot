@@ -23,7 +23,7 @@ Je m’appuie sur la troisième, avec la première comme point de départ. Une i
 
 ## Le tsunami tout doux : mes rêves de fin 2020 {#le-tsunami}
 
-Fin 2020, mes nuits ont été habitées par des rêves très nets. Chaque nuit revenait la même vague : un tsunami immense et pourtant doux, qui me demandait de m’abandonner.
+Fin 2020, j’ai traversé une période de rêves d’une netteté frappante. Chaque nuit revenait la même vague : un tsunami immense et pourtant doux, qui me demandait de m’abandonner.
 
 Je n’ai pas obéi. J’ai préféré m’abriter avec d’autres, à l’intérieur d’une maison.
 

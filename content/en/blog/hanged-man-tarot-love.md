@@ -31,7 +31,7 @@ Someone else’s decision isn’t something I read on, and I don’t give dates.
 
 The same worry, brought back week after week, often finds the Hanged Man waiting on the table. If you’ve drawn it three times this week asking the same thing, the cards aren’t stuck; the question is ([what repeat readings do to you](/blog/ask-tarot-the-same-question-twice/)).
 
-A kinder question is: “What am I waiting for — and if no answer ever came, how would I spend this time?” That one has an answer you can act on today.
+A kinder question is: “What am I waiting for — and if no answer ever came, how would I spend this time?” You can act on that one today.
 
 ## Upright again, and that’s the trouble {#reversed}
 

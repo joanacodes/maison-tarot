@@ -19,7 +19,7 @@ Quand ça ne va pas, votre tête raconte déjà une histoire, et elle la raconte
 
 Sur le Cinq de Coupes, une silhouette en cape noire regarde trois coupes renversées. Derrière elle, deux coupes tiennent encore debout, et un pont s’éloigne au loin. Un jour calme, vous remarquez aussi les deux coupes et le pont. Un jour où vous êtes à vif, vous voyez trois coupes renversées, point final.
 
-Même chose avec le Neuf d’Épées. Quelqu’un est assis dans son lit, le visage dans les mains, neuf épées alignées dans le noir au-dessus de lui. Dans mes notes, cette lame parle au contraire d’un cauchemar qui s’achève, d’une période longue et tourmentée qui se termine, et d’une protection qui plane au-dessus de vous. Un soir de peine, vous ne voyez que le cauchemar.
+Même chose avec le Neuf d’Épées. Quelqu’un s’est redressé dans son lit, le visage dans les mains, neuf épées alignées dans le noir au-dessus de lui. Dans mes notes, cette lame parle au contraire d’un cauchemar qui s’achève, d’une période longue et tourmentée qui se termine, et d’une protection qui plane au-dessus de vous. Un soir de peine, vous ne voyez que le cauchemar.
 
 {{< cards "cu05 sw09" >}}
 
