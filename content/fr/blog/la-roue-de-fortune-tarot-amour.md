@@ -51,7 +51,7 @@ Emballée, c’est l’autre sens : les changements s’enchaînent sans laisser
 
 C’est la question qui vient avec cette lame, et le plus souvent sous la forme d’un « quand ». Parfois, c’est « Est-ce que c’était écrit ? ». Les deux viennent de la même fatigue : vous avez essayé, ça n’a pas marché, et vous aimeriez que la roue fasse le travail un moment. C’est profondément humain, et personne ne devrait se sentir bête de le demander.
 
-Je ne lis pas la Roue comme un calendrier, et je ne crois pas que quiconque puisse vous dire ce qui est « écrit ». C’est sur le timing que je me trompe le plus, et j’explique pourquoi dans [ce que le tarot peut dire, ou non, du « quand »](/fr/blog/tarot-quand/). Et je l’ai noté un jour : un futur qui vous plaise se prépare en gardant les deux pieds dans aujourd’hui ([ma réponse quand on attend du tarot une prédiction](/fr/blog/le-tarot-predit-il-lavenir/)).
+Je ne lis pas la Roue comme un calendrier, et je ne crois pas que quiconque puisse vous dire ce qui est « écrit ». C’est sur le timing que je me trompe le plus, et j’explique pourquoi dans [ce que le tarot peut dire, ou non, du « quand »](/fr/blog/tarot-quand/). Et je l’ai noté un jour : un futur qui vous plaise se construit les pieds bien posés dans l’instant présent ([ma réponse quand on attend du tarot une prédiction](/fr/blog/le-tarot-predit-il-lavenir/)).
 
 On dit « la roue tourne » pour se consoler. Une question plus douce, et plus active : « Quel tour pourrais-je donner moi-même à la roue ce mois-ci ? » Un endroit inconnu, une conversation repoussée, une habitude que vous aimeriez lâcher.
 

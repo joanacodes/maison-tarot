@@ -43,7 +43,7 @@ My own first reading surprised me the same way. I'd expected to need training fi
 
 ## Why I'd rather you didn't believe in my gift {#why-hand-it-back}
 
-Because of what the word does next. If I have something you don't, my words start to weigh more than yours, about your own life. A reading is something to think with, not an instruction. You act on what you feel, not on what a special person told you; that's why I hold that [tarot is not an authority](/blog/tarot-is-not-an-authority/).
+Because of what the word does next. If I have something you don't, my words start to weigh more than yours, about your own life. A reading is something to think with, not an instruction. You go by your own feeling, not by what a special person told you; that's why I hold that [tarot is not an authority](/blog/tarot-is-not-an-authority/).
 
 The word also makes a reader hard to leave. If the gift is hers alone, you need her every time a question comes up, and tarot should never turn into a circle of dependency, for you or for the person reading. I sell lessons, never readings. A gift couldn't be taught; this can.
 
@@ -58,6 +58,6 @@ If you've ever told a reader they have a gift, you weren't wrong to feel what yo
 3. Say what you see in plain words, odd details included, without trying to be right.
 4. Let them tell you whether it held, and write it down either way.
 
-The moment that made me want to teach is the one where someone does this, says something true, and is shocked by what they've just said. The four steps above are how you find that moment for yourself.
+The moment that made me want to teach is the one where someone does this, gets something right, and can hardly believe the words were theirs. The four steps above are how you find that moment for yourself.
 
 The [learn path](/learn-tarot/) is free and starts with that first card. If you'd rather be read before you read, the [free events](/events/) draw readings at random.

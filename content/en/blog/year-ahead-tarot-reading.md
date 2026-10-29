@@ -62,7 +62,7 @@ Every December, feeds fill with forecasts: the year for each sign, the collectiv
 
 First, I read people, one at a time, knowing nothing about them beforehand. A forecast for everyone is a reading for no one. Second, nobody can check it. When it misses, the miss is never counted — and [counting my hits and misses](/blog/does-tarot-work-300-readings/) is the only reason I trust what I do. Third, a prediction quietly becomes an authority. People wait for their “good month” instead of acting in this one, and [tarot is not an authority](/disclaimers/#readings).
 
-As I see it, the best way to ensure an enjoyable future is to anchor yourself in the present. A reading of your own year, checked month by month, keeps the deciding with you.
+As I see it, the way to look after the year ahead is to stand squarely in today. A reading of your own year, checked month by month, keeps the deciding with you.
 
 ## Start your own year-ahead reading {#start}
 

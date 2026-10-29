@@ -63,7 +63,7 @@ Et l’enseignement par courrier n’a pas fait de son tarot un tarot au rabais.
 
 ## Pourquoi ça compte pour vous aujourd’hui {#aujourdhui}
 
-Tous les cours de tarot qu’on peut suivre de chez soi reposent sur l’idée dont Case a fait une école : les cartes s’apprennent, pas à pas, par quiconque fait le travail. C’est aussi ma position. Il n’y a pas d’élus ; il y a des gens qui pratiquent.
+Tous les cours de tarot qu’on peut suivre de chez soi reposent sur l’idée dont Case a fait une école : les cartes s’apprennent, pas à pas, par quiconque fait le travail. C’est aussi ma position. Personne n’est choisi d’avance ; il y a des gens qui pratiquent.
 
 La limite qu’il rencontrait reste celle à surveiller. Des leçons peuvent vous donner les symboles, les [nombres](/fr/bibliotheque/numerologie/) et la structure. Elles ne peuvent pas vous dire quand vous avez mal lu une carte. C’est pour ça que je vous suggère de tenir un carnet, ce que vous avez dit d’un côté, ce qui a été confirmé de l’autre, et que j’enseigne en [ateliers](/fr/ateliers/), avec des gens dans la pièce.
 

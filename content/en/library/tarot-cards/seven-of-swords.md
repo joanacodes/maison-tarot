@@ -15,11 +15,7 @@ energy: Masculine
 kabbalah: ''
 image: cards/sw07.webp
 h1: Seven of Swords — <em>seven</em>, Air
-lede: 'Before looking up what Seven of Swords “means”, look at what you already have:
-  seven, the element Air, Moon in Aquarius. You’re reading the card. The number says
-  seven — doubt, assessment, patience; the element says the mind, what you decide.
-  Lay the two over each other, add the colours, and the card is already talking —
-  the rest of the page shows you how.'
+lede: 'Under a bright yellow sky, a man tiptoes out of a camp with an armful of swords held awkwardly by their blades, grinning over his shoulder, while a pair stays planted in the ground. What are you slipping away with?'
 related:
 - /library/numerology
 - /library/four-elements/air-element
@@ -27,7 +23,7 @@ related:
 - /library/astrology
 faq:
 - q: What does Seven of Swords mean?
-  a: 'A strategy carried out quietly: leaving with what you can carry and leaving the rest behind. Its number (seven) is the harvest and the trade-off, its element (Air) the plan in your head. It can be resourcefulness or a half-truth; the cards around it tell you which.'
+  a: 'A strategy carried out quietly: leaving with what you can carry and leaving the rest behind. Its number (seven) is the harvest and the trade-off, its element (Air) the plan in your head. It can be resourcefulness or a half-truth, and the cards beside it settle the question.'
 - q: What about Seven of Swords reversed?
   a: 'The plan comes into the open. Either the secret gets too heavy to carry, or the cleverness tips into excess. Sometimes it’s the moment of owning up and putting the swords back.'
 - q: 'Does the Seven of Swords mean someone is cheating?'
@@ -46,11 +42,11 @@ Against a bright yellow sky, a man creeps away from a camp with five swords bund
 
 Two swords stay planted upright in the ground behind him. Beyond them stand the tents of a camp, patterned and colourful, flags on top. Far off on the left, a small group of figures, one holding up a spear, next to a little grey cloud. Nobody seems to have noticed him go.
 
-The drawing is about **taking what you can carry, leaving the rest — and not announcing it.**
+The scene comes down to **taking what you can carry, leaving the rest — and not announcing it.**
 
 ## By number: seven {#number}
 
-Seven is reflection: analysis before action, negotiation, harvesting what has grown. In my notes, the Seven of Swords is the seven that must leave things behind but harvests a lot, and that’s exactly the drawing: five swords in his arms, two left in the ground. A trade-off. You can’t take everything, so you choose. The advice of [number 7](/library/numerology/number-7/) is that everything is temporary, good or bad. Instagram’s seventh stage was the negotiating table where Facebook changed the model: choosing what the thing would become, and what it would leave behind.
+Seven is reflection: analysis before action, negotiation, harvesting what has grown. In my notes, the Seven of Swords is the seven that must leave things behind but harvests a lot, and that’s exactly the drawing: five swords in his arms, two left in the ground. A trade-off. You can’t take everything, so you choose. The advice of [number 7](/library/numerology/number-7/) is that everything is temporary, good or bad. When Instagram hit its 7, Facebook changed the model: a choice about what the app would turn into, and what it would leave behind.
 
 ## By element: Air {#element}
 
@@ -62,7 +58,7 @@ The [yellow](/library/tarot-colours/yellow/) sky floods the card: joy, optimism,
 
 ## By astrology: Moon in Aquarius {#astrology}
 
-In the Golden Dawn tradition, the Seven of Swords is the Moon in the third decan of [Aquarius](/library/astrology/aquarius/). Aquarius is the sign of the original idea and of “I know” — which I hear as “I think I know” — with a habit of ending up in awkward, unusual situations. The Moon is what you feel when nobody’s watching. Together: a private plan, carried out alone, very clever until it isn’t. You can skip this lens: the smile over his shoulder says as much.
+The Golden Dawn paired this card with the Moon in [Aquarius](/library/astrology/aquarius/)’s final decan. Aquarius is the sign of the original idea and of “I know” — which I hear as “I think I know” — with a habit of ending up in awkward, unusual situations. The Moon is what you feel when nobody’s watching. Combine the two and you get a private plan, carried out alone, very clever until it isn’t. You can skip this lens: the smile over his shoulder says as much.
 
 ## In a reading {#reading}
 
@@ -70,7 +66,7 @@ Upright, the Seven of Swords is a strategy carried out quietly: leaving without 
 
 People often ask whether it means they’re being cheated on, and I understand the worry. The card can point to something hidden, but it can’t say what someone who isn’t in the room is doing, and [I don’t read on third parties](/disclaimers/#refusals). A gentler question is what you’ve stopped saying yourself.
 
-Reversed, the plan comes out. Slowed down, the secret gets too heavy, too many swords for two arms. In excess, the lie grows and the cleverness tips into suspicion of everyone. Sometimes reversed is the moment of owning up and putting the swords back.
+Reversed, the plan comes out. The secret may get too heavy — too many swords for two arms — or the lie may grow until the cleverness tips into suspicion of everyone. Sometimes reversed is the moment of owning up and putting the swords back.
 
 Next to [the Magician](/library/tarot-cards/the-magician/), skill and pretence sit side by side; in my notes the Magician can lie if you trust him blindly. Next to [the Moon](/library/tarot-cards/the-moon/), what’s hidden gets murkier, so check your facts before you accuse anyone. Next to the [Seven of Pentacles](/library/tarot-cards/seven-of-pentacles/), another seven looking at its harvest: what you leave with was worth the effort.
 
@@ -82,6 +78,6 @@ Next to [the Magician](/library/tarot-cards/the-magician/), skill and pretence s
 
 What if someone you’re practising on drew the Seven of Swords, then the [Three of Wands](/library/tarot-cards/three-of-wands/)? Seven then three: a harvest and a trade-off, then a rhythm that works. Air then Fire: a plan in the head, then drive and expansion. A yellow sky, then a man on high ground watching ships head out.
 
-You might say: “You’re quietly leaving something, with more than you came in with, and you’re already looking further.”
+The sly exit beside the man watching his ships adds up to: “You’re quietly leaving something, with more than you came in with, and you’re already looking further.”
 
-Then check: “Are you leaving something you haven’t announced yet?” If the person says no, don’t push; it’s a miss. If yes, the next question is what they’re leaving on the ground, and whether that’s on purpose.
+Then check it against their life: “Are you leaving something you haven’t announced yet?” If they say no, don’t push; it’s a miss. If yes, the next question is what they’re leaving on the ground, and whether that’s on purpose.

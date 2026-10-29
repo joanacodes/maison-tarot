@@ -49,7 +49,7 @@ Sa part, c’est le programme. Le Victoria and Albert Museum note qu’il a donn
 
 {{< cards "ar06 ar19 ar08 ar11" >}}
 
-Et il inverse deux cartes. Si vous avez appris sur le Marseille, vous connaissez la Justice en VIII et la Force en XI. Waite met la [Force](/fr/bibliotheque/cartes-tarot/la-force/) en VIII et la Justice en XI. Il suit la Golden Dawn, qui associe la huitième carte au Lion et la onzième à la Balance : le lion du signe va avec la Force, les plateaux avec la Justice. Dans le *Pictorial Key*, il refuse de s’en expliquer et écrit, en substance, que le changement ne signifie rien pour le lecteur.
+Et il inverse deux cartes. Si vous avez appris sur le Marseille, vous connaissez la Justice en VIII et la Force en XI. Waite donne le VIII à la [Force](/fr/bibliotheque/cartes-tarot/la-force/) et le XI à la Justice. Il suit la Golden Dawn, qui associe la huitième carte au Lion et la onzième à la Balance : le lion du signe va avec la Force, les plateaux avec la Justice. Dans le *Pictorial Key*, il refuse de s’en expliquer et écrit, en substance, que le changement ne signifie rien pour le lecteur.
 
 **Le livre compte autant que le jeu : Waite y donne pour chaque carte une courte signification divinatoire, à l’endroit et à l’envers, et bien des listes de mots-clés actuelles en gardent l’écho.**
 

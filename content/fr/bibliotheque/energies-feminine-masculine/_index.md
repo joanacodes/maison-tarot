@@ -25,6 +25,6 @@ Une designer se sert de l’art (féminin) et du calcul (masculin) pour créer u
 
 ## Sur les cartes {#cartes}
 
-Chaque carte penche d’un côté. Devant une carte que vous ne connaissez pas, posez-vous d’abord une seule question : est-ce que ça se montre, ou est-ce que ça se cache ? Vous avez déjà la moitié de la lecture.
+Chaque carte penche d’un côté. Devant une carte que vous ne connaissez pas, posez-vous d’abord une seule question : cette carte s’expose-t-elle, ou se tient-elle en retrait ? Vous avez déjà la moitié de la lecture.
 
 [La page complète sur les deux énergies](/fr/bibliotheque/energies-feminine-masculine/feminin-masculin/) détaille le tableau, les exemples et le champ de bataille. [Les quatre éléments](/fr/bibliotheque/quatre-elements/) montrent de quel côté penche chaque suite, et [le parcours complet](/fr/apprendre-le-tarot/) pose cette clé à côté des autres.

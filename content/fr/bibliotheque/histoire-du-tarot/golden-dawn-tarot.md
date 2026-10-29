@@ -15,7 +15,7 @@ related:
 - /bibliotheque/histoire-du-tarot/le-tarot-au-xxe-siecle
 - /bibliotheque/astrologie
 faq:
-- q: "Pourquoi la Force et la Justice n’ont-elles pas le même numéro selon les jeux ?"
+- q: "D’où vient l’échange de numéros entre la Force et la Justice ?"
   a: "Parce que la Golden Dawn les a échangées. Avec le Mat sur Aleph, la carte VIII tombait sur Teth, la lettre du Lion, et la carte XI sur Lamed, la lettre de la Balance. La Force a le lion, la Justice la balance : elles ont changé de place. Le Rider-Waite-Smith a suivi en 1909 ; les Marseille gardent l’ordre ancien."
 - q: "Faut-il connaître les correspondances de la Golden Dawn pour lire le tarot ?"
   a: "Non. Elles expliquent les signes, les planètes et les lettres hébraïques imprimés dans beaucoup de livres et de jeux, et elles peuvent ajouter une couche à une lecture. Les couleurs, les nombres et les éléments des cartes suffisent pour commencer."

@@ -13,7 +13,7 @@ summary: "Tarot has sixteen court cards: a Page, a Knight, a Queen and a King in
 ---
 The court cards are the sixteen people of the minor arcana: a Page, a Knight, a Queen and a King in each of the four suits. Their rank says how far someone has got with the element — learning it, acting with it, holding it, deciding with it — and their suit says which element.
 
-In a reading, a court card may be a person or a state of mind; whoever you're reading for is the one who recognises which.
+In a reading, a court card may be a person or a state of mind; whoever you’re reading for is the one who recognises which.
 
 ## What the court cards are {#what-they-are}
 

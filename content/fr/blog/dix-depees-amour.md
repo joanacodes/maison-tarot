@@ -17,7 +17,7 @@ Le Dix d’Épées est le pire dessin du jeu, et dans un tirage amoureux il peut
 
 ## Un point final, et la phrase d’après {#point-final}
 
-Le 10, dans mes notes, c’est un seuil : on a quitté une étape sans être encore dans la suivante, comme dans un couloir. La liberté, le changement, respirer à nouveau — et son moins : il vous dit de commencer autre chose. En amour, le Dix d’Épées est un point final, et un point final, c’est aussi l’endroit où commence la phrase suivante. Ma phrase préférée pour les dix : **vu du dehors, on vous croirait abattu ; le papillon, lui, a quitté la chrysalide et vole déjà loin.**
+Le 10, dans mes notes, c’est un seuil : on a quitté une étape sans être encore dans la suivante, comme dans un couloir. La liberté, le changement, respirer à nouveau — et son moins : il vous dit de commencer autre chose. En amour, le Dix d’Épées est un point final, et un point final, c’est aussi l’endroit où commence la phrase suivante. Mon image préférée pour les dix : **vu du dehors, on vous croirait abattu ; le papillon, lui, a quitté la chrysalide et vole déjà loin.**
 
 L’élément, c’est l’Air, la pensée, et dix épées pour un seul homme, c’est bien plus que nécessaire. La carte en fait des tonnes, et cet excès est l’indice. La pensée sait très bien vous poignarder dix fois avec la même idée : la dernière conversation, ce que vous auriez dû dire.
 

@@ -17,7 +17,7 @@ A tarot live works if you keep your rules and accept that the format will try to
 
 A tarot live is a reading, or a series of readings, broadcast in real time to whoever is watching, while viewers write in the comments. Some readers do one general reading for everyone. Others pick viewers and read for them one at a time.
 
-A few months after I started reading, I was doing readings in Facebook tarot groups, and lives there. One of the reviews I received on Facebook came from someone I’d read during a live. If you’re choosing Instagram, check its live tools as they are today. For the wider question of tarot on that platform, I’ve written about [the reader you follow and the reader you need](/blog/tarot-on-instagram/).
+A few months after I started reading, I was doing readings in Facebook tarot groups, and lives there. A Facebook review I received came from a viewer I’d read in one of those lives. If you’re choosing Instagram, check its live tools as they are today. For the wider question of tarot on that platform, I’ve written about [the reader you follow and the reader you need](/blog/tarot-on-instagram/).
 
 Much of what changes when people watch has nothing to do with the camera, and [reading tarot in public](/blog/reading-tarot-in-public/) covers it: consent, what’s said aloud and what waits, declining a question kindly, nerves. This page is about what a live adds: a camera, a delay and a comment stream.
 
@@ -27,7 +27,7 @@ My rule doesn’t change in a live: tell me nothing. Ask people not to type thei
 
 Pick people at random rather than the fastest typists. In a live, speed in the comments is otherwise the only thing that decides who gets read.
 
-Show every card to the camera. In my 2021 notes, I wrote that the more I read, the more messages came before I’d shuffled, and that I use the cards mostly because the person wants to see them. In a live that’s doubly true. If something comes before you’ve laid a card, say it, then show the card anyway so people can follow. **In a live, viewers can only follow what you put in front of the lens.** I answer [whether you still need the cards](/blog/do-you-still-need-tarot-cards/) at more length elsewhere.
+Show every card to the camera. My notes from 2021 record that, with practice, messages began to come before I’d so much as shuffled, and that these days the cards are on the table largely because people want to see them. In a live that’s doubly true. If something comes before you’ve laid a card, say it, then show the card anyway so people can follow. **In a live, viewers can only follow what you put in front of the lens.** I answer [whether you still need the cards](/blog/do-you-still-need-tarot-cards/) at more length elsewhere.
 
 And say misses out loud, as you would in any room. The replay will keep them either way, so you may as well be the one who names them.
 

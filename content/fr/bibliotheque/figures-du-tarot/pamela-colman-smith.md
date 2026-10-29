@@ -55,7 +55,7 @@ Elle est payée au forfait. En novembre 1909, elle écrit à Stieglitz qu’elle
 
 ## Ce qu’elle n’a pas fait {#idees-recues}
 
-Elle n’a pas fixé le programme des majeurs. C’est Waite, et l’ordre des cartes vient de lui aussi : la Force en VIII et la Justice en XI, à l’inverse du Marseille, c’est la Golden Dawn, par son intermédiaire. [Sa page](/fr/bibliotheque/figures-du-tarot/arthur-edward-waite/) raconte cette partie.
+Elle n’a pas fixé le programme des majeurs. C’est Waite, et l’ordre des cartes vient de lui aussi : la Force placée huitième et la Justice onzième, à l’inverse du Marseille, c’est la Golden Dawn, par son intermédiaire. [Le portrait de Waite](/fr/bibliotheque/figures-du-tarot/arthur-edward-waite/) raconte cette partie.
 
 Elle n’a pas recopié un jeu ancien. Les emprunts au Sola Busca sont réels, mais ils tiennent en une poignée de cartes. Les enfants du Six de Coupes, la femme ligotée du Huit d’Épées, la famille du Dix de Pentacles : à ce qu’on en sait, tout cela vient d’elle. The World of Playing Cards le résume avec justesse : elle a parfois repris une posture ou une composition, mais les scènes sont les siennes.
 

@@ -9,7 +9,7 @@ tags: ["tarot in French", "French tarot card names", "Marseille tarot names", "t
 image: "covers/tarot-in-french-and-english.jpg"
 imageAlt: "Two face-down tarot decks with different card backs side by side on a wooden kitchen table, a pencil and a closed notebook between them"
 imagePrompt: "Two face-down tarot decks with different card backs side by side on a wooden kitchen table, a pencil and a closed notebook between them. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "A Rider-Waite-Smith card looks the same in Paris and in London; what changes is the words around it. French tarot grew up on the Tarot de Marseille, so many French names are Marseille names: the Bateleur for the Magician, the Papesse for the High Priestess, the nameless arcane for Death, the Maison Dieu for the Tower. The coins are Deniers in the Marseille and Pentacles in the Rider-Waite-Smith. And the vocabulary shifts: a card is a lame, a spread and a reading are both a tirage, a reader is a tarologue."
+summary: "A Rider-Waite-Smith card looks the same in Paris and in London; what changes is the words around it. French tarot grew up on the Tarot de Marseille, so many French names are Marseille names: the Magician is the Bateleur, the High Priestess the Papesse, Death the nameless arcane, the Tower the Maison Dieu. The coins are Deniers in the Marseille and Pentacles in the Rider-Waite-Smith. And the vocabulary shifts: a card is a lame, a spread and a reading are both a tirage, a reader is a tarologue."
 ---
 A Rider-Waite-Smith card looks exactly the same in Paris and in London. What changes is everything we say about it: the names of a few majors, the suit of coins, and the words for the reading itself. I'm bilingual, I lived in London in 2019, and today I read and teach from Paris, in French and in English. Here's what moves when tarot speaks French.
 
@@ -41,7 +41,7 @@ Most majors translate word for word: the Hanged Man is le Pendu, the Star is l'�
 
 The singular matters more than it looks. The Marseille's Amoureux is one young man standing between two women, with Cupid aiming above him: a choice. Waite's Lovers are a couple under an angel. Read the French name and you think of one person in love; read the English and you think of two.
 
-And if someone says "l'arcane VIII", ask which deck before you answer. In the Marseille it's Justice; in the Rider-Waite-Smith it's Strength. The card that frightens people most also changes its label: [why Death is the card with no name](/blog/death-card-no-name/) has the full story.
+And if someone says "l'arcane VIII", ask which deck before you answer. In the Marseille it's Justice; in the Rider-Waite-Smith it's Strength. The card that frightens people most also changes its label; I trace [why French decks leave card XIII unnamed](/blog/death-card-no-name/) separately.
 
 ## Lame, arcane, tirage: the vocabulary {#vocabulary}
 
@@ -68,11 +68,11 @@ Three suits translate cleanly: Wands are Bâtons, Cups are Coupes, Swords are É
 
 Deniers are old coins, and the word pulls a French reader straight towards money. Pentacles are discs carrying a five-pointed star, which is what Pamela Colman Smith drew. In French you'll meet both words; on Maison Tarot, the French pages say "Pentacles", which matches the drawing.
 
-Either way, I read the suit through its element. [Earth](/library/four-elements/earth-element/) is matter, prosperity, whatever has value for you, money or sentimental. **Whatever the word on the card, the suit is about what you value, and not all riches are gold.**
+Either way, I read the suit through its element. [Earth](/library/four-elements/earth-element/) is the element of material things and of thriving, of whatever you prize, whether its worth is counted in euros or in memories. **Whatever the word on the card, the suit is about what you value, and gold is only one kind of wealth.**
 
 ## What changes in the reading itself {#reading-across}
 
-Less than you'd think, and more than nothing. The same image can read differently from one person to another and from one day to another; the language is one more thing that shifts. A French speaker who learnt on the Marseille may hear "the Magician" and not connect it with their Bateleur. An English speaker may hear "Deniers" and read a money card where you meant something broader.
+Less than you'd think, and more than nothing. A picture already shifts with the reader and with the day; language is one more thing that moves it. A French speaker who learnt on the Marseille may hear "the Magician" and not connect it with their Bateleur. An English speaker may hear "Deniers" and read a money card where you meant something broader.
 
 So when you read for someone in their second language, describe the picture before you name it. "A man at a table, one hand raised, everything laid out in front of him" works in any language; a name only works if you share the same deck.
 
