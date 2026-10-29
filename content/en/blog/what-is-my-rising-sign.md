@@ -37,7 +37,7 @@ If your time is approximate — “around lunchtime” — look at the degree. A
 
 ## The door, not the house {#door-not-house}
 
-In my notes, the rising sign is the outside of the house: the front door, the façade, the path people walk up before they meet you. The Sun and the Moon live inside.
+In my notes, the rising sign is the house seen from the street: the front door, the façade, the path people walk up before they meet you. The Sun and the Moon live inside.
 
 **Your rising sign is how people come in, not who lives there.**
 

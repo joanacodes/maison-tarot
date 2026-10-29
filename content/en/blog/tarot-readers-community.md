@@ -21,7 +21,7 @@ That's what this place is built around. It's also worth saying what it isn't. Th
 
 ## The Library: a second way into cards you know {#library}
 
-The [Library](/library/) is free and holds everything I teach: colours, the four elements, numbers 1 to 10, feminine and masculine energies, astrological modes, and astrology and symbols for those who want them. Each of the 78 cards has its own page, linked to its lenses.
+The [Library](/library/) is free and holds everything I teach: colours, the four elements, the numbers up to ten, the two energies (feminine and masculine), astrological modes, and astrology and symbols for those who want them. Each of the 78 cards has its own page, linked to its lenses.
 
 For someone who learnt meanings by heart, the lenses are a second way in. Take the Eight of Swords. You may know it as "trapped". Through the number, eight is control, and a door between what's material and what isn't. Through the element, Air is the mind. Put together, my note reads: shut in by your own thoughts while holding all the keys, free to slip the blindfold whenever you choose.
 

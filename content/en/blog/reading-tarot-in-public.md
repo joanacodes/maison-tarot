@@ -17,9 +17,9 @@ Reading in front of twenty people doesn't change the cards. It changes the room:
 
 Everyone hears everything. In a one-to-one reading, a sentence lands on one person, who can take it home and think it over. In public, it lands in front of friends or strangers, and the person can't un-hear it with everyone looking.
 
-The pressure goes both ways. My notes say that sometimes you can't see anything in the cards, for one of two reasons: your own block, from too much pressure, or the person's, because they're afraid of what they might hear. An audience adds to both. Expect a slower start, and don't fill the gap with guesses.
+The pressure goes both ways. My notes say that some readings stay blank, for one of two reasons: your own block, from too much pressure, or the person's, out of fear of what the cards might say. An audience adds to both. Expect a slower start, and don't fill the gap with guesses.
 
-The silence rule helps more in public than anywhere else. The person gives no question and no context, so the room knows exactly as much as I do. When something lands, everyone can see it wasn't fed to me first. I’ve set out [why I ask people to say nothing](/blog/the-silence-rule/) in full.
+The silence rule helps more in public than anywhere else. The person gives no question and no context, so the room knows exactly as much as I do. When something lands, everyone can see it wasn't fed to me first. I've set out [why I ask people to say nothing](/blog/the-silence-rule/) in full.
 
 ## Consent, twice {#consent}
 

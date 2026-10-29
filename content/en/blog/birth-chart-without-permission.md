@@ -27,7 +27,7 @@ The question is what a chart does to that understanding when the person isn’t 
 
 When I explain a chart, I use a house. The rising sign is the outside, what anyone sees from the street. The Sun is the inside, where you only go when you’re invited in. The Moon is your own room, the most private place of all. I go through the three in [Sun, Moon and rising](/blog/sun-moon-rising-big-three/).
 
-Now the rest. When I tested charts box by box, the placements that held best — 75 to 90% of the time — were Saturn, Lilith and Chiron: the hardest lesson, what the person learned to hide, the wound they keep circling. **The most accurate parts of a chart are also the most intimate ones.**
+Now the rest. When I went through charts one box at a time, the placements that held best — 75 to 90% of the time — were Saturn, Lilith and Chiron: the hardest lesson, what the person learned to hide, the wound they keep circling. **The most accurate parts of a chart are also the most intimate ones.**
 
 You wouldn’t want someone snooping in your bedroom. Opening someone’s chart behind their back is close to that. It’s also why, in tarot, I always ask before reading someone, and why I don’t read about [people who aren’t in the room](/disclaimers/#refusals).
 

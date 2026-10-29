@@ -44,10 +44,10 @@ The Library tells the cycle of [numerology](/library/numerology/) through the st
 | 1 | Initiator, the rough diamond | What are you starting, and are you ready to learn? | Forgetting we’re all students our whole life |
 | 2 | Cooperation, the contract | What are you bound to, and have you read it? | Stubbornness, solitude, ego |
 | 3 | Cadence, the machine running | Can you finish this before starting the next? | Too many projects at once |
-| 4 | Stability, the fruit of work | What have you built, and can you stay flexible? | Carrying on when you should stop |
+| 4 | Stability, the fruit of work | Which structure have you built, and can it still bend? | Carrying on when you should stop |
 | 5 | Trial | Can you try, fail, and be disliked? | Denial |
 | 6 | Expansion, success | Can you stay calm and humble when it flows? | Losing your footing when it works |
-| 7 | Analysis, patience | What needs thinking through before you act? | Too many choices, no decision |
+| 7 | Analysis, patience | What do you need to think over before acting? | Too many choices, no decision |
 | 8 | Empire, control | What do you hold, and what will you pass on? | Holding on too tight |
 | 9 | Home stretch | What are you finishing? | Stopping one effort too early |
 

@@ -51,7 +51,7 @@ Each of the others belongs to a different moment.
 
 The Tarot de Marseille, the French tradition, is for the moment the scenes start doing too much of the work. Its numbered cards, like the Five of Cups above, have nobody in them, so the number and the element have to carry the reading alone. If they do, the lenses are yours. [The two decks side by side](/blog/marseille-vs-rider-waite/) show exactly what you lose and what you keep.
 
-The Thoth, designed by Aleister Crowley and painted by Frieda Harris, is for the moment you want to know why a card is built the way it is. It's richly developed, realistic in its own way, and heavy with occult symbolism; in my own notes it sits under "to explore later". [Here's what changes when you switch](/blog/thoth-vs-rider-waite/).
+The Thoth, which Frieda Harris painted to Aleister Crowley's design, is for the moment you want to know why a card is built the way it is. It's richly developed, realistic in its own way, and heavy with occult symbolism; in my own notes it sits under "to explore later". [Here's what changes when you switch](/blog/thoth-vs-rider-waite/).
 
 Oracle decks have no moment, because they aren't a step on the same road. They have any number of cards, with meanings set by each author. I see a shelf of oracle decks the way I'd see a small gallery, every card an artwork you can find a message in, so enjoy them whenever you like. What they can't give you is tarot's own frame of suits and numbers. [The difference is explained here](/blog/tarot-vs-oracle-cards/).
 

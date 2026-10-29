@@ -64,7 +64,7 @@ Buying more decks. A second deck teaches you a second art style, not a second sk
 
 Reading for yourself many times a day. You learn more from one reading for a stranger than from twenty for your own worries.
 
-Books help with the lenses; for the numbers, I recommend Corrine Kenner's tarot book. But [what a book can't give you](/blog/learn-tarot-from-a-book/) is the moment you say something true about a person and are surprised by your own words.
+Books help with the lenses; for the numbers, I recommend Corrine Kenner's tarot book. But [what a book can't give you](/blog/learn-tarot-from-a-book/) is the jolt of hearing yourself say something true about the person in the other chair.
 
 ## When is tarot “learned”? {#learned}
 

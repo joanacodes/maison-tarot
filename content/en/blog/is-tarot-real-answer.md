@@ -17,7 +17,7 @@ When someone asks "is this real?", the calm answer is the honest one: I don't kn
 
 It can feel like an attack on something you care about, or on your intelligence. Most of the time it isn't. It's curiosity, a test, a joke to break the ice, or worry for a friend who has started reading a lot.
 
-I've been on the asking side myself: an astrology video I'd put on for a laugh described my own chart so precisely that I ended up checking it point by point. When someone raises an eyebrow at my deck, I recognise the look: [learning as a sceptic](/blog/can-a-sceptic-learn-tarot/) is how I began, and I’d still call doubt a healthy starting point.
+I've been on the asking side myself: an astrology video I'd put on for a laugh described my own chart so precisely that I ended up checking it point by point. When someone raises an eyebrow at my deck, I recognise the look: [learning as a sceptic](/blog/can-a-sceptic-learn-tarot/) is how I began, and I'd still call doubt a healthy starting point.
 
 **Most people who ask aren't attacking; they're curious, and curiosity deserves a straight answer.**
 
@@ -26,7 +26,7 @@ I've been on the asking side myself: an astrology video I'd put on for a laugh d
 You can't be defensive about a claim you never made, so it helps to know your own list by heart. Here's mine:
 
 - A card gives no orders; the person decides what to do with it.
-- I get it wrong: nine readings in ten hold up, the tenth doesn’t ([how I counted](/blog/does-tarot-work-300-readings/)). It's a tally, not a study.
+- I get it wrong: nine readings in ten hold up, the tenth doesn't ([how I counted](/blog/does-tarot-work-300-readings/)). It's a tally, not a study.
 - I don't know how it works. I know some conditions under which it works better, like the person saying nothing about themselves first.
 - There's no gift; reading is a skill anyone can pick up.
 

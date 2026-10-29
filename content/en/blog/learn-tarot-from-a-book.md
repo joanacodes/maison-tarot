@@ -27,7 +27,7 @@ What it gives you, in short, is knowledge. Reading is something else.
 
 When I first made my friends and family try reading, I watched the same thing happen again and again: they'd hit on something true about whoever sat across the table, then be amazed at what had come out of their mouths. No page can produce that moment, because it isn't information.
 
-My own start went the same way: a gift from friends that Christmas, a first reading on Boxing Day 2020, and it landed, with no study behind it at all.
+My own start went the same way: a present from friends that Christmas, a first reading on Boxing Day 2020, and it landed, with no study behind it at all.
 
 Practice teaches the things a book can only name. Letting go, which is the only real practice there is. Which channel your impressions come through — images, words, sounds, a feeling in the body. When to say something gently, or differently, because the person isn't ready. And, most of all, **when you're wrong — which no book can tell you, because the book isn't in the room.**
 

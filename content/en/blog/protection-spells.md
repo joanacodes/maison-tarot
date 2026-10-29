@@ -56,7 +56,7 @@ Here is what I’d suggest instead, in this order.
 
 ## What a reading can hold instead {#what-a-reading-can-hold}
 
-A reading won’t put a shield around you. What it can do is look at where you stand, and where your strength already is. Instead of “Am I being attacked?”, try “What would help me feel steady this month?” or “Where am I stronger than I think?” I keep a list of [kinder questions to ask the cards](/blog/questions-to-avoid-asking-tarot/).
+A reading won’t put a shield around you. It can, though, show you your footing, and where your strength already is. Instead of “Am I being attacked?”, try “What would help me feel steady this month?” or “Where am I stronger than I think?” There are more of these in [my list of gentler questions for the cards](/blog/questions-to-avoid-asking-tarot/).
 
 Three cards are worth knowing when fear is the subject, and none of them is a threat:
 

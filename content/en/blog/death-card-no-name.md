@@ -55,7 +55,7 @@ Look at the Marseille card without its title and what you see is someone mowing,
 
 Look at the Rider-Waite-Smith card and you read DEATH before you notice the sun on the horizon or the child looking up. People react to the word, then sometimes never get to the drawing.
 
-The lenses help either way. Thirteen reduces to 1 + 3 = 4, and [the number 4](/library/numerology/number-4/) is foundations, structure — with a minus side: refusing to stop when it’s time. Death answers that minus. It's a Water card, slow rather than sudden, and its sign, in the system behind the Rider-Waite-Smith, is Scorpio. All of this is on [the Death card page](/library/tarot-cards/death/).
+The lenses help either way. Thirteen reduces to 1 + 3 = 4, and [the number 4](/library/numerology/number-4/) is foundations, structure — with a minus side: digging in long after you should have let go. Death answers that minus. It's a Water card, slow rather than sudden, and its sign, in the system behind the Rider-Waite-Smith, is Scorpio. All of this is on [the Death card page](/library/tarot-cards/death/).
 
 Try this with your own deck. Cover the name at the bottom of your Death card with a strip of paper and describe the drawing out loud for one minute: colours, figures, what's moving, what's growing. Then take the paper off. Notice what changes in your voice. That's the Marseille experience, in a Rider-Waite-Smith.
 

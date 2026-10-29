@@ -25,7 +25,7 @@ Consent also covers who the reading is about. **Read for the person in front of 
 
 ## Ask them to tell you nothing {#tell-me-nothing}
 
-Once they’ve said yes, ask for silence: no question, no context, no “it’s about work”. You draw, you say what you see, and at the end they tell you what held and what didn’t. That’s [the silence rule](/blog/the-silence-rule/), and it’s what lets you check yourself afterwards.
+Once they’ve said yes, ask for silence: not the question, not the backstory, not even “it’s about work”. You draw, you say what you see, and at the end they tell you what held and what didn’t. That’s [the silence rule](/blog/the-silence-rule/), and it’s what lets you check yourself afterwards.
 
 With friends it matters twice as much, because you already know their story. Say your friend is planning a wedding and draws the Four of Wands.
 
@@ -37,7 +37,7 @@ So describe the drawing first, out loud, before you go anywhere near what you kn
 
 ## Choose words they can carry {#kind-words}
 
-Sometimes you’ll feel you shouldn’t say something, or should say it differently: the person isn’t ready, or they’re scared, or wary of the whole thing. Adapt your attitude and your words. **Leave a thing unsaid if you need to, but never say something you don’t see.**
+Sometimes a sentence will feel wrong to say, or wrong to say that way: they may not be ready, they may be frightened, or they may not trust the whole thing yet. Adapt your attitude and your words. **Leave a thing unsaid if you need to, but never say something you don’t see.**
 
 Even a heavy card has a lighter side, and it’s still a drawing with more than one thing in it. Say your friend draws the Ten of Swords and the Five of Cups.
 
@@ -57,11 +57,11 @@ Friends are where almost everyone starts, and it’s a good place. It’s also w
 4. Don’t become their daily oracle. If the same friend asks about the same thing every week, say so kindly and suggest a pause.
 5. The subjects I leave aside with strangers, I leave aside with friends: health, pregnancy, death, ongoing court cases, money decisions. The [list, with my reasons](/disclaimers/#refusals), is public.
 
-When a friend asks about one of those, it’s almost always worry talking. Acknowledge it, say gently that the cards aren’t the right tool for that, and offer a kinder question: “What would help you get through this week?” is one the cards can hold.
+When a friend asks about one of those, it’s almost always worry talking. Acknowledge it, say gently that the cards aren’t the right tool for that, and offer a kinder question: “What would make this week easier to carry?” is one the cards can hold.
 
 ## When you see nothing, or it’s too much {#nothing-or-too-much}
 
-Some days you’ll look at the cards and get nothing. It can be your block — too much pressure to get it right, which is common with people you love — or theirs, if part of them is afraid of what they’ll hear. Put the cards down, talk, reassure them. Then try again, or don’t.
+Some days you’ll look at the cards and get nothing. It can be your block — trying too hard to be right, which is common with people you love — or theirs, if part of them is afraid of what they’ll hear. Put the cards down, talk, reassure them. Then try again, or don’t.
 
 If your friend is in real distress, it isn’t a reading night. Make tea, listen, and if it’s more than a bad week, help them find someone trained for it.
 
