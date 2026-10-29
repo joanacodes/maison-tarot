@@ -17,29 +17,29 @@ Ce n’est pas de la modestie. C’est la condition pour que les cartes servent 
 
 ## Ce que le tarot peut vraiment faire pour une décision {#ce-quil-peut-faire}
 
-Une carte ne vous dira pas quelle option est la bonne. Ce qu’elle fait bien, c’est déplacer votre attention une minute, pour que vos arguments habituels se taisent et que quelque chose d’autre ait la parole. Plus je lis, plus je vois les cartes comme un moyen de faire le point, ou au contraire de lâcher prise, pour que vos propres pensées et vos biais cessent de tenir le volant.
+Une carte ne vous dira pas quelle option est la bonne. Ce qu’elle fait bien, c’est déplacer votre attention une minute, pour que vos arguments habituels se taisent et que quelque chose d’autre ait la parole. Plus je lis, plus je vois les cartes comme un moyen de faire le point, ou au contraire de lâcher prise, le temps que vos réflexes de pensée et vos partis pris quittent le volant.
 
 Imaginons que vous hésitiez entre rester dans votre poste et le quitter, et que vous tiriez deux cartes : le Huit de Coupes et le Huit de Pentacles.
 
 {{< cards "cu08 pe08" >}}
 
-Deux Huit, le nombre de la maîtrise et du terrain solide. Le Huit de Coupes, c’est quelqu’un qui tourne le dos à des coupes qu’il a lui-même empilées : passer à autre chose que ce qu’on fait déjà. Le Huit de Pentacles, c’est quelqu’un penché sur son établi, une pièce après l’autre : la maîtrise, et l’effort qu’elle demande encore. Même nombre, deux directions.
+Deux Huit, le nombre de la maîtrise et du terrain solide. Le Huit de Coupes, c’est quelqu’un qui tourne le dos à des coupes qu’il a lui-même empilées : quitter son activité du moment pour aller voir ailleurs. Le Huit de Pentacles, c’est quelqu’un penché sur son établi, une pièce après l’autre : un métier qu’on maîtrise à force d’y revenir. Même nombre, deux directions.
 
 Maintenant, écoutez votre corps. Quelle carte vous a fait relâcher les épaules, et laquelle vous a serré la mâchoire ? **Cette réaction est une information sur vous, pas une prédiction.** C’est souvent la première chose honnête que vous entendez sur le sujet depuis des semaines.
 
 ## Pourquoi je ne laisse pas les cartes décider {#pourquoi-pas}
 
-Parce que [le tarot n’est pas une autorité](/fr/avertissements/#lectures). Agissez selon ce que vous ressentez, pas selon ce qu’une carte a dit.
+Parce qu’[une lecture n’a jamais valeur d’ordre](/fr/avertissements/#lectures). Votre ressenti doit compter davantage que ce qu’une carte a montré.
 
-Il y a aussi une raison toute simple, chiffrée. À mon décompte, environ un tirage sur dix rate. Si vous confiez votre décision aux cartes, vous acceptez une chance sur dix que la main qui tient le volant de votre vie se trompe — sans savoir laquelle des dix fois.
+Il y a aussi une raison toute simple, chiffrée. Je compte mes ratés : il y en a un, en gros, tous les dix tirages. Si vous confiez votre décision aux cartes, vous acceptez une chance sur dix que la main qui tient le volant de votre vie se trompe — sans savoir laquelle des dix fois.
 
-Et il y a la raison qui compte le plus. Décider, c’est un muscle. Chaque fois qu’un jeu de cartes soulève le poids à votre place, il s’affaiblit, la décision suivante paraît plus lourde, et vous retournez vers le jeu. C’est par cette boucle qu’un outil utile devient une habitude qui nourrit le doute ; j’en parle dans [pourquoi arrêter de tirer les cartes un moment](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
+Et il y a la raison qui compte le plus. Décider, c’est un muscle. Chaque fois qu’un jeu de cartes soulève le poids à votre place, il s’affaiblit, la décision suivante paraît plus lourde, et vous retournez vers le jeu. C’est par cette boucle qu’un outil utile devient une habitude qui nourrit le doute ; c’est pour la briser que je conseille parfois [de ranger le jeu quelque temps](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
 ## Une méthode en trois cartes qui vous laisse aux commandes {#methode-trois-cartes}
 
 1. Écrivez la décision en une phrase, puis ce que vous choisiriez s’il fallait répondre tout de suite. Faites-le avant de mélanger. Ça évite que les cartes deviennent le premier avis que vous entendez.
 2. Tirez trois cartes : ce qui vous attire vers la première option, ce qui vous attire vers la seconde, et ce qui vous fait peur.
-3. Lisez d’abord les éléments. Le Feu, c’est l’élan ; l’Eau, l’émotion ; la Terre, ce qu’on retient ; l’Air, la réflexion. Dans mes notes, [l’Air est le meilleur décideur](/fr/bibliotheque/quatre-elements/element-air/), parce qu’il voit tout en même temps — le Feu est trop impulsif, l’Eau trop émotive, la Terre trop têtue. Si votre tirage ne contient aucune Épée, vous êtes peut-être en train de décider avec tout, sauf avec la tête.
+3. Lisez d’abord les éléments. Le Feu, c’est l’élan ; l’Eau, l’émotion ; la Terre, ce qu’on retient ; l’Air, la réflexion. Dans mes notes, [l’Air est le meilleur décideur](/fr/bibliotheque/quatre-elements/element-air/), parce qu’il voit tout en même temps, là où les trois autres pèchent : trop d’impulsion pour le Feu, trop d’émotion pour l’Eau, trop d’obstination pour la Terre. Si votre tirage ne contient aucune Épée, vous êtes peut-être en train de décider avec tout, sauf avec la tête.
 4. Refermez le jeu et décidez. Aujourd’hui, ou à une date que vous fixez maintenant.
 5. Écrivez la décision à côté de votre première réponse. A-t-elle changé ? Pourquoi ?
 
@@ -49,9 +49,9 @@ Pour un choix professionnel, le [tirage travail](/fr/blog/tirage-tarot-travail/)
 
 Certaines décisions arrivent chargées d’inquiétude : prendre un crédit ou placer ses économies, commencer un traitement, accepter ou non un arrangement dans une procédure. Je comprends qu’on les apporte aux cartes. Quand l’enjeu est si lourd, n’importe quelle voix de plus ressemble à de l’aide.
 
-Je ne lis pas sur ces sujets, et voici pourquoi : un mot de travers y coûte trop cher, et les cartes ne sont pas faites pour peser un contrat, un diagnostic ou une stratégie juridique. C’est le travail d’un conseiller financier, d’un médecin ou d’un avocat.
+Sur ces sujets-là, je pose le jeu, pour une raison claire : une erreur d’interprétation y coûte trop cher, et les cartes ne sont pas faites pour peser un contrat, un diagnostic ou une stratégie juridique. C’est le travail d’un conseiller financier, d’un médecin ou d’un avocat.
 
-Ce qu’un tirage peut porter en attendant, c’est vous. Une question plus douce serait : « De quoi ai-je besoin pour rester stable pendant que je décide ? » Celle-là, les cartes y répondent bien.
+Ce que les cartes peuvent accompagner pendant ce temps, c’est vous. Une question plus douce serait : « De quoi ai-je besoin pour rester stable pendant que je décide ? » Celle-là, les cartes y répondent bien.
 
 ## Continuer d’entraîner le muscle qui décide {#entrainer-le-muscle}
 

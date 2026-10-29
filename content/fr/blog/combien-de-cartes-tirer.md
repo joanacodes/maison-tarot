@@ -9,7 +9,7 @@ tags: ["combien de cartes tirer", "tirages de tarot", "carte du jour", "tirage e
 image: "covers/how-many-tarot-cards-to-pull.jpg"
 imageAlt: "Trois cartes posées face cachée en rangée sur une table en bois, le reste du jeu empilé à côté"
 imagePrompt: "Three tarot cards laid face down in a row on a wooden table, the rest of the deck stacked beside them. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Tirez aussi peu de cartes que la question en demande, et décidez du nombre avant de mélanger. Une carte pour une seule chose, aujourd’hui. Trois pour une situation où quelque chose coince : ce qui est là, ce qui bloque, ce que vous pouvez faire. Cinq quand vous hésitez entre deux options. Dix, comme dans la croix celtique, seulement pour un vrai carrefour et une heure devant vous. Plus de cartes ne rendent pas un tirage plus juste ; elles le rendent plus large et plus difficile à vérifier. Et certaines questions se passent très bien de cartes."
+summary: "Tirez aussi peu de cartes que la question en demande, et décidez du nombre avant de mélanger. Une carte pour une seule chose, aujourd’hui. Trois pour une situation où quelque chose coince : l’état des lieux, le blocage, votre marge d’action. Cinq quand vous hésitez entre deux options. Dix, comme dans la croix celtique, seulement pour un vrai carrefour et une heure devant vous. Plus de cartes ne rendent pas un tirage plus juste ; elles le rendent plus large et plus difficile à vérifier. Et certaines questions se passent très bien de cartes."
 ---
 Tirez aussi peu de cartes que la question en demande, et décidez combien avant de mélanger. Une pour la journée, trois pour une situation, cinq pour un choix, dix pour un vrai carrefour avec une heure devant vous. Plus de cartes ne rendent pas un tirage plus vrai ; elles le rendent plus difficile à vérifier.
 
@@ -18,7 +18,7 @@ Tirez aussi peu de cartes que la question en demande, et décidez combien avant 
 | Votre question | Cartes | Comment les poser |
 |---|---|---|
 | Une seule chose, aujourd’hui : « Qu’est-ce qui mérite mon attention aujourd’hui ? » | 1 | Une carte, décrite avant d’être interprétée |
-| Une situation où quelque chose coince | 3 | Ce qui est là, ce qui bloque, ce que vous pouvez faire |
+| Une situation où quelque chose coince | 3 | L’état des lieux, le blocage, votre marge d’action |
 | Un choix entre deux options | 5 | Une pour vous, puis deux par option : où elle mène, ce qu’elle vous demande |
 | Un point mensuel que vous referez chaque mois | 3 à 5 | Les mêmes positions à chaque fois, pour pouvoir comparer |
 | Un vrai carrefour, avec une heure devant vous | 10 | [La croix celtique](/fr/blog/croix-celtique-tirage/), lue deux cartes par deux cartes |
@@ -32,17 +32,17 @@ Une carte bien lue en apprend plus que dix récitées. Avec une carte, toute vot
 
 Moins de cartes, c’est aussi plus facile à vérifier. « Cette carte, c’est ce qui bloque » est une affirmation que la personne peut confirmer ou contredire. Dix cartes contiennent tant de significations que quelque chose finira par coller à ce qui sera dit ensuite — le mécanisme des phrases qui semblent personnelles et vont à tout le monde, contre lequel je me vérifie dans [l’effet Barnum et le tarot](/fr/blog/effet-barnum-tarot/).
 
-C’est pour ça que j’enseigne le même ordre à tout le monde : une carte par jour, puis trois, puis davantage. **Le nombre de cartes devrait suivre la question, pas la taille de l’inquiétude.**
+C’est pour ça que j’enseigne le même ordre à tout le monde : d’abord une carte chaque jour, ensuite trois, plus tard un tirage plus large. **Le nombre de cartes devrait suivre la question, pas la taille de l’inquiétude.**
 
 ## Un exemple : trois cartes pour une situation qui coince {#exemple}
 
-Imaginons que vous ayez commencé un nouveau poste, encore en période d’essai, que ça ne se passe pas comme vous l’espériez, et que vous tiriez pour vous-même. Vous écrivez la question, choisissez trois cartes et trois positions avant de mélanger — ce qui est là, ce qui bloque, ce que vous pouvez faire — et vous tirez le Valet de Pentacles, le Cinq de Bâtons et le Huit de Pentacles.
+Imaginons que vous ayez commencé un nouveau poste, encore en période d’essai, que ça ne se passe pas comme vous l’espériez, et que vous tiriez pour vous-même. Vous écrivez la question, choisissez trois cartes et trois positions avant de mélanger — l’état des lieux, le blocage, votre marge d’action — et vous tirez le Valet de Pentacles, le Cinq de Bâtons et le Huit de Pentacles.
 
 {{< cards "pepa wa05 pe08" >}}
 
-Ce qui est là : un jeune homme debout dans un champ vert, qui tient un pentacle à bout de bras et l’étudie. La Terre, un Valet : quelqu’un qui apprend, prudent, tout au début. Ce qui bloque : cinq jeunes gens armés de bâtons qui semblent se battre, sans aucune coordination. Le Feu, le nombre cinq : le conflit, et une énergie qui part dans tous les sens. Ce que vous pouvez faire : un artisan à son établi, qui grave des pentacles l’un après l’autre. Dans mes notes, le Huit de Pentacles, c’est la maîtrise, et l’effort qu’elle demande.
+L’état des lieux : un jeune homme debout dans un champ vert, qui tient un pentacle à bout de bras et l’étudie. La Terre, un Valet : quelqu’un qui apprend, prudent, tout au début. Le blocage : cinq jeunes gens armés de bâtons qui semblent se battre, sans aucune coordination. Le Feu, le nombre cinq : le conflit, et une énergie qui part dans tous les sens. Votre marge d’action : un artisan à son établi, qui grave des pentacles l’un après l’autre. Mes notes y lisent la maîtrise d’un métier, payée d’un vrai effort.
 
-En une phrase : « Je débute et j’apprends ; autour de moi, chacun tire de son côté ; je peux garder la tête dans le travail lui-même, une pièce après l’autre. » Trois cartes, une phrase, et chaque morceau se vérifie dans la semaine. Cette disposition a sa propre page : [le tirage en trois cartes](/fr/blog/tirage-passe-present-futur/).
+En une phrase : « Je débute et j’apprends ; autour de moi, chacun tire de son côté ; je peux garder la tête dans le travail lui-même, une pièce après l’autre. » Trois cartes, une phrase, et chaque morceau se vérifie dans la semaine. Je reviens sur cette disposition dans [le tirage en trois cartes](/fr/blog/tirage-passe-present-futur/).
 
 ## Décider avant de mélanger {#decider-avant}
 
@@ -58,4 +58,4 @@ Ce qui aide, c’est une autre question. « Mes résultats d’analyses seront-i
 
 ## Commencez cette semaine {#cette-semaine}
 
-Pendant une semaine, tirez une carte chaque matin. La semaine suivante, prenez une vraie situation et tirez-en trois. Notez chaque tirage en deux colonnes : ce que vous avez dit, ce qui s’est passé. Au bout de quinze jours, vous saurez quel nombre va avec quelle question mieux qu’aucun tableau ne pourrait vous le dire. L’habitude quotidienne a son propre article : [la carte du jour](/fr/blog/carte-du-jour-tarot/).
+Pendant une semaine, tirez une carte chaque matin. La semaine suivante, prenez une vraie situation et tirez-en trois. Pour chaque tirage, notez vos mots à gauche et la suite des événements à droite. Au bout de quinze jours, vous saurez quel nombre va avec quelle question mieux qu’aucun tableau ne pourrait vous le dire. Pour l’habitude quotidienne, lisez [comment tirer la carte du jour](/fr/blog/carte-du-jour-tarot/).

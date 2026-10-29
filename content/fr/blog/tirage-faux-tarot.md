@@ -43,7 +43,7 @@ Un message, une carte ou une impression vous montre quelque chose. Rarement le q
 
 Dans les tirages de cartes, le moment est le point faible. J’y ai consacré [un article entier sur le tarot et les délais](/fr/blog/tarot-quand/) pour cette raison.
 
-Le moment joue aussi dans l’autre sens. [Mon tout premier tirage pour une inconnue](/fr/blog/premier-tirage-tarot/) semblait complètement raté, et trois ou quatre jours plus tard, elle m’écrivait que tout était arrivé. Le jour même, je l’aurais noté comme un raté. Quatre jours après, ce n’en était plus un.
+Le moment joue aussi dans l’autre sens. [Mon tout premier tirage pour une inconnue](/fr/blog/premier-tirage-tarot/) semblait complètement raté, jusqu’au message qu’elle m’a envoyé peu de temps après : tout s’était bel et bien produit. Le jour même, je l’aurais noté comme un raté. Quatre jours après, ce n’en était plus un.
 
 Un tirage peut donc sembler faux aujourd’hui et se révéler juste vendredi. Il peut aussi se révéler « juste » vendredi d’une façon que personne n’attendait, comme la voix. Aucun des deux cas ne dit que le tirage ne servait à rien. Les deux disent de tenir le calendrier d’une main légère, et de ne pas trancher trop vite sur le sens d’un message avant qu’il ait fini d’arriver.
 
@@ -67,11 +67,11 @@ Et parfois, c’est l’inverse : rien ne vient. Dans mes notes, je l’écris a
 
 ## Et parfois, ça rate {#ca-rate}
 
-Selon mon propre décompte, environ un tirage sur dix rate. Pas « rate pour l’instant », pas « veut dire quelque chose que vous n’avez pas encore compris ». Rate.
+Je rate environ un tirage sur dix ; ce sont mes propres comptes. Pas « rate pour l’instant », pas « veut dire quelque chose que vous n’avez pas encore compris ». Rate.
 
 Avec une histoire comme celle de la voix, on est tenté de la sauver après coup : il y a *bien* eu un accident, donc ça compte. Je comprends l’envie. Mais pour que ça compte, il faudrait que je modifie discrètement la question posée pour que la réponse colle. Je ne le fais pas non plus avec les cartes : pas de carte de clarification, pas de nouveau mélange, pas de « les cartes voulaient dire quelque chose de plus profond ».
 
-Les ratés ne sont pas toujours mystérieux, d’ailleurs. Interpréter demande de l’énergie, et après une longue série de tirages, on peut se sentir très fatigué ; il m’arrive de m’arrêter au bout de deux heures de tirages, par prudence. Un tarologue fatigué a plus de chances de combler les trous avec des suppositions. Parfois, c’est le tarologue qui n’est pas en forme. Parfois, la personne a la tête ailleurs. Parfois, personne ne trouve de raison.
+Les ratés ne sont pas toujours mystérieux, d’ailleurs. Interpréter demande de l’énergie, et après une longue série de tirages, on peut se sentir très fatigué ; c’est pourquoi, par prudence, je clos parfois la séance sitôt la deuxième heure achevée. Un tarologue fatigué a plus de chances de combler les trous avec des suppositions. Parfois, c’est le tarologue qui n’est pas en forme. Parfois, la personne a la tête ailleurs. Parfois, personne ne trouve de raison.
 
 Dire le raté à voix haute, c’est ce qui garde les neuf autres honnêtes.
 

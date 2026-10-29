@@ -17,7 +17,7 @@ Oui, vous pouvez laisser quelqu’un toucher vos cartes de tarot. Quoi qu’il f
 
 Oui. Le jeu est un support : il aide à lâcher prise et à lire ce qui entoure une personne. Il ne garde rien en mémoire dont le tirage suivant aurait besoin.
 
-Ma propre pratique en est le meilleur exemple. La plupart de mes lectures pour des inconnus se sont faites en ligne, sur des serveurs Discord et en appels de groupe. Personne d’autre que moi n’a touché mes cartes, et ça n’a pas empêché les lectures de tomber juste. Si c’était le toucher qui reliait une personne aux cartes, ces lectures n’auraient eu aucun appui.
+Ma propre pratique en est le meilleur exemple. Mes lectures pour des inconnus, je les ai surtout faites à distance — sur Discord, ou lors d’appels à plusieurs. Personne d’autre que moi n’a touché mes cartes, et ça n’a pas empêché les lectures de tomber juste. Si c’était le toucher qui reliait une personne aux cartes, ces lectures n’auraient eu aucun appui.
 
 L’inverse vaut aussi. Quand c’est quelqu’un d’autre qui mélange, en face à face, le carton reste le même carton après son passage, et le tirage dépend encore d’un regard attentif sur ce qui sort. **Un tirage vient de la personne qui lit, pas des empreintes sur le jeu.**
 
@@ -44,7 +44,7 @@ Si la réponse parle de vous — « je serais moins concentré », « j’aurais
 
 Si la réponse parle des cartes — « les tirages seraient faussés », « son énergie resterait dans le jeu » — c’est une croyance sur le fonctionnement du tarot, et vous pouvez la mettre à l’épreuve. Pendant quinze jours, laissez la personne mélanger un tirage sur deux et notez chaque résultat dans votre carnet. Puis comparez les deux colonnes. Si les tirages mélangés par quelqu’un d’autre ratent plus souvent, vous avez appris quelque chose sur votre pratique. Sinon, vous voilà délesté d’une règle.
 
-Purifier son jeu après le passage de quelqu’un d’autre, c’est le même genre de règle ; j’explique à part [pourquoi j’ai arrêté de vendre de la sauge pour ça](/fr/blog/purifier-son-jeu-de-tarot/). Et si vous craignez que les cartes s’usent d’une façon moins visible, [les cartes de tarot se fatiguent-elles ?](/fr/blog/cartes-tarot-fatiguees/) se penche sur la question.
+Purifier son jeu après le passage de quelqu’un d’autre, c’est le même genre de règle ; [mon article sur la purification des cartes](/fr/blog/purifier-son-jeu-de-tarot/) raconte aussi pourquoi mes ventes de sauge ont pris fin. Et si vous craignez que les cartes s’usent d’une façon moins visible, [les cartes de tarot se fatiguent-elles ?](/fr/blog/cartes-tarot-fatiguees/) se penche sur la question.
 
 ## Laisser la personne mélanger — ou couper {#melanger-ou-couper}
 

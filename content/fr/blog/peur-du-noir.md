@@ -35,7 +35,7 @@ L’ombre, c’est le mot de Carl Jung pour les parts de soi qu’on a repoussé
 
 Prenons quelqu’un qui a grandi dans une maison où la colère n’était pas la bienvenue. Adulte, c’est la personne calme du groupe, toujours. La colère n’est pas partie pour autant. Elle sort de biais : un ton sec pour une broutille, une plaisanterie qui pique plus fort que prévu. Le travail sur l’ombre, ce serait remarquer le motif, nommer la colère, et se demander où elle a été rangée, et pourquoi.
 
-C’est un travail difficile. Peut-on le faire avec un thérapeute ? Bien sûr, et c’est même ce qu’il faut faire. Le tarot peut aider à regarder, mais il ne doit jamais remplacer une thérapie ; j’ai écrit sur [l’endroit où se trouve cette porte](/fr/blog/tarot-et-sante-mentale/).
+C’est un travail difficile. Peut-on le faire avec un thérapeute ? Bien sûr, et c’est même ce qu’il faut faire. Le tarot peut aider à regarder, mais il ne doit jamais remplacer une thérapie ; je détaille ailleurs [où s’arrête le tarot quand il s’agit de santé mentale](/fr/blog/tarot-et-sante-mentale/).
 
 ## Ce que le noir a à voir là-dedans {#le-noir}
 
@@ -43,7 +43,7 @@ Voici mon hypothèse, et c’est la mienne, pas une règle : avoir peur du noir,
 
 Un interrupteur est une réponse raisonnable à une pièce sombre. C’est une réponse moins utile à une pièce qu’on porte en soi, parce qu’il n’y a pas de mur où le fixer.
 
-Deux cartes sont proches de cette idée. [La Lune](/fr/bibliotheque/cartes-tarot/la-lune/) montre un chemin qui file entre deux tours, la nuit, un chien et un loup qui hurlent, une créature qui sort de l’eau : ce qui remonte quand la lumière baisse. Le français a d’ailleurs un mot pour cette heure-là : entre chien et loup. Le [Neuf d’Épées](/fr/bibliotheque/cartes-tarot/neuf-de-epees/), tel que je le lis, c’est sortir d’un cauchemar, d’une longue période troublée, avec une protection au-dessus de soi.
+Deux cartes sont proches de cette idée. [La Lune](/fr/bibliotheque/cartes-tarot/la-lune/) montre un chemin qui file entre deux tours, la nuit, deux bêtes qui hurlent — un chien, un loup —, une créature qui sort de l’eau : ce qui remonte quand la lumière baisse. Le français a d’ailleurs un mot pour cette heure-là : entre chien et loup. Le [Neuf d’Épées](/fr/bibliotheque/cartes-tarot/neuf-de-epees/), tel que je le lis, c’est enfin s’éveiller d’un cauchemar après une longue passe difficile, avec, plus haut, de quoi vous abriter.
 
 {{< cards "ar18 sw09" >}}
 

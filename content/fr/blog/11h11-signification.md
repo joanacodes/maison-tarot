@@ -21,21 +21,21 @@ Lue avec les nombres, 11h11 est un 1 dit quatre fois, ou un 11 qui se réduit à
 
 Les lectures varient. La plus connue est une coutume qu’on apprend souvent enfant : faire un vœu à 11h11. D’autres y voient le signe qu’on est aligné avec ce qu’on veut, une porte qui s’ouvre, ou un message d’anges ou de guides. C’est le plus célèbre des [nombres miroirs](/fr/blog/nombres-miroirs/), ces suites répétées qu’on remarque sur un ticket ou une plaque d’immatriculation.
 
-**Quoi que vous mettiez derrière, 11h11 est une pause qu’on vous tend ; ce que vous en faites vous appartient.**
+**Quoi que vous mettiez derrière, 11h11 est une pause qu’on vous tend, et c’est à vous de décider à quoi elle sert.**
 
 ## 11h11 en numérologie {#numerologie}
 
 Il y a trois façons de la lire, et elles ne se contredisent pas.
 
 - Le 1, quatre fois. Dans le cycle que j’enseigne, le 1 est l’initiateur, le diamant brut, le début de quelque chose. Son conseil : l’humilité, se préparer à apprendre.
-- Le 11. Beaucoup de numérologues en font un nombre maître et le gardent tel quel. Je le réduis comme je réduis les arcanes majeurs : 1 + 1 = 2. Et [le chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/), c’est la coopération entre deux parties, un contrat, un lien. Son conseil : lire le contrat, peser le pour et le contre. Son revers : l’entêtement, la solitude, l’ego qui se braque.
+- Le 11. Beaucoup de numérologues en font un nombre maître et le gardent tel quel. Je le réduis comme je réduis les arcanes majeurs : 1 + 1 = 2. Et [le chiffre 2](/fr/bibliotheque/numerologie/chiffre-2/), c’est la coopération entre deux parties, un contrat, un lien. Il invite à savoir ce qu’on signe et à mettre chaque option en balance ; il tourne mal quand on se bute, qu’on s’isole ou que l’ego prend la main.
 - Le tout. 1 + 1 + 1 + 1 = 4 : la stabilité, ce qui a été construit.
 
-Je pars du 2, parce que c’est comme ça que je lis tous les 11 du jeu. Dans le Rider-Waite-Smith, l’arcane 11 est [la Justice](/fr/bibliotheque/cartes-tarot/la-justice/) : une figure assise entre deux colonnes, une épée levée dans une main, une balance dans l’autre. Peser, puis trancher. Le 1, c’est le Magicien ; le 2, la Grande Prêtresse.
+Je pars du 2, parce que c’est comme ça que je lis tous les 11 du jeu. Dans le Rider-Waite-Smith, l’arcane 11 est [la Justice](/fr/bibliotheque/cartes-tarot/la-justice/) : une figure assise entre deux colonnes, une épée levée dans une main, une balance dans l’autre. Peser, puis trancher. Le Magicien porte le 1, la Grande Prêtresse le 2.
 
 {{< cards "ar11 ar01 ar02" >}}
 
-Un détail si vous avez découvert le tarot avec celui de Marseille : là-bas, l’arcane XI est la Force, et la Justice porte le VIII. Le Rider-Waite-Smith les a inversées — [les différences entre les deux jeux](/fr/blog/tarot-de-marseille-ou-rider-waite/) ont leur propre article.
+Un détail si vous avez découvert le tarot avec celui de Marseille : là-bas, l’arcane XI est la Force, et la Justice porte le VIII. Le Rider-Waite-Smith les a inversées, et ce n’est pas [la seule différence entre les deux jeux](/fr/blog/tarot-de-marseille-ou-rider-waite/).
 
 Mis bout à bout, 11h11 se lit comme un choix entre deux choses, qui attend d’être pesé honnêtement. Imaginons quelqu’un qui la croise toute une semaine pendant qu’il hésite entre deux offres d’emploi. Le nombre ne choisit pas à sa place. Il demande s’il a vraiment lu les deux contrats — et à quoi chacun l’engagerait.
 
@@ -56,7 +56,7 @@ Faire un vœu, c’est le plus ancien usage de 11h11. Servez-vous-en, en lui don
 
 Imaginons que le vœu soit « je voudrais que ça s’arrange avec ma sœur ». Le 2 demande sur quoi vous êtes d’accord, elle et vous, que ce soit dit ou non. La phrase pourrait devenir : « Je vais l’appeler dimanche et lui demander comment elle voit les choses. » Ce vœu-là peut se réaliser, parce que c’est vous qui le tenez.
 
-Et si 11h11 commence à ressembler à un verdict — un feu vert sans lequel vous n’osez plus avancer — mettez-la de côté. L’horloge ne connaît pas votre situation ; vous, si. [Le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/), et une horloge non plus.
+Et si 11h11 commence à ressembler à un verdict — un feu vert sans lequel vous n’osez plus avancer — mettez-la de côté. L’horloge ne connaît pas votre situation ; vous, si. Elle n’a aucune autorité sur vos choix, [pas plus qu’un tirage de tarot](/fr/blog/le-tarot-nest-pas-une-autorite/).
 
 ## Les heures miroirs : 22h22, 12h21 et les autres {#heures-miroirs}
 

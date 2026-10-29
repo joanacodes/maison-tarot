@@ -17,13 +17,13 @@ Le tirage à une carte, la fameuse carte du jour, est le meilleur entraînement 
 
 1. Choisissez un moment fixe dans la journée. Le premier café fait très bien l’affaire.
 2. Mélangez comme vous voulez.
-3. Tirez une carte. Sans question, ou avec une question légère : « Qu’est-ce qui mérite mon attention aujourd’hui ? »
+3. Tirez une carte. Sans question, ou avec une question légère : « Sur quoi poser mon regard aujourd’hui ? »
 4. Regardez une bonne minute avant de réfléchir. Puis décrivez-la : la scène, ce qui vous frappe, ce qui vous vient.
 5. Écrivez trois lignes, puis rangez le jeu.
 
 C’est tout le rituel. Rien à purifier, rien à réciter, pas de tapis spécial. Si vous n’avez encore jamais lu une seule carte, [votre premier tirage, pas à pas](/fr/blog/tirage-de-tarot-pas-a-pas-premier-tirage/) prend une dizaine de minutes.
 
-Certains matins, la carte aura l’air lourde : la Tour, le Dix d’Épées. Ce n’est pas la météo de votre journée. Chaque carte a un plus et un moins, et une carte lourde se lit comme les autres — ce qu’il y a dessus, ce que vous voyez. Le Dix d’Épées, par exemple, a une aube qui se lève derrière la silhouette étendue au sol.
+Certains matins, la carte aura l’air lourde : la Tour, le Dix d’Épées. Ce n’est pas la météo de votre journée. Les cartes lourdes ont, elles aussi, leur versant positif, et elles se lisent comme les autres — ce qu’il y a dessus, ce que vous voyez. Le Dix d’Épées, par exemple, a une aube qui se lève derrière la silhouette étendue au sol.
 
 {{< cards "ar16 sw10" >}}
 
@@ -55,7 +55,7 @@ Même jeu, même geste ; la différence tient à ce que vous faites de la carte.
 - Êtes-vous mal à l’aise un jour sans carte ?
 - Votre question du matin est-elle la même inquiétude, tous les jours ?
 
-Si vous répondez oui à deux questions ou plus, la carte a glissé de l’entraînement vers la béquille. Ce n’est pas une faiblesse. C’est en général le doute qui cherche un appui, et le doute mérite de la douceur. Mais [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/), et une carte ne peut pas porter une décision à votre place. Agissez selon ce que vous ressentez.
+Si vous répondez oui à deux questions ou plus, la carte a glissé de l’entraînement vers la béquille. Ce n’est pas une faiblesse. C’est en général le doute qui cherche un appui, et le doute mérite de la douceur. Mais une carte ne peut pas porter une décision à votre place : [un tirage n’a pas d’ordres à vous donner](/fr/blog/le-tarot-nest-pas-une-autorite/), et c’est votre ressenti qui tranche.
 
 Le remède, c’est une pause. Rangez le jeu dans un tiroir une semaine, ou un mois, et regardez vers quoi vous tendez la main à la place. Le tiroir fermé fait partie de l’entraînement, lui aussi ; [voici pourquoi je le conseille](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 

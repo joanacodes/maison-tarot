@@ -9,7 +9,7 @@ tags: ["le tarot c’est vrai", "répondre aux sceptiques", "conseils tarologue"
 image: "covers/is-tarot-real-answer.jpg"
 imageAlt: "Deux tasses de café sur une petite table de bistrot, un jeu de tarot fermé entre elles, la main ouverte d’une personne posée sur la table"
 imagePrompt: "Two cups of coffee on a small café table with a closed tarot deck between them, one person’s open hand resting on the table mid-conversation, no faces in frame. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Quand on vous demande « c’est vrai, ton truc ? », la réponse calme est la réponse honnête. Dites ce que vous affirmez et ce que vous n’affirmez pas : le tarot n’est pas une autorité, personne ne sait exactement comment il fonctionne, et à mon décompte environ un tirage sur dix rate. Puis proposez un essai plutôt qu’un débat : la personne ne dit rien d’elle, et juge après. On se braque quand on croit devoir gagner. Ce n’est pas le cas. Reconnaissez ce que le doute a de juste, sans moquerie, envers les sceptiques comme envers ceux qui y croient plus que vous."
+summary: "Quand on vous demande « c’est vrai, ton truc ? », la réponse calme est la réponse honnête. Dites ce que vous affirmez et ce que vous n’affirmez pas : le tarot n’est pas une autorité, personne ne sait exactement comment il fonctionne, et je rate environ une lecture sur dix, carnet à l’appui. Puis proposez un essai plutôt qu’un débat : la personne ne dit rien d’elle, et juge après. On se braque quand on croit devoir gagner. Ce n’est pas le cas. Reconnaissez ce que le doute a de juste, sans moquerie, envers les sceptiques comme envers ceux qui y croient plus que vous."
 ---
 Quand quelqu’un vous demande « c’est vrai, ton truc ? », la réponse calme est la réponse honnête : je ne sais pas exactement comment ça marche, je sais à peu près à quelle fréquence ça marche pour moi, et vous êtes libre de vérifier. On se met sur la défensive quand on croit devoir gagner la discussion. Vous n’avez rien à gagner.
 
@@ -17,7 +17,7 @@ Quand quelqu’un vous demande « c’est vrai, ton truc ? », la réponse calme
 
 Elle peut ressembler à une attaque contre quelque chose qui vous tient à cœur, ou contre votre intelligence. La plupart du temps, ce n’en est pas une. C’est de la curiosité, un test, une blague pour briser la glace, ou l’inquiétude pour une amie qui s’est mise à tirer les cartes très souvent.
 
-J’ai moi-même été du côté de ceux qui posent la question. J’ai lancé une vidéo d’astrologie pour m’en moquer, j’ai lu mon propre thème, et je l’ai trouvé bien trop précis. Alors je l’ai vérifié, case par case. Quand quelqu’un hausse un sourcil devant mon jeu, je reconnais le regard. Je raconte cette histoire dans [un sceptique peut-il apprendre le tarot ?](/fr/blog/un-sceptique-peut-il-apprendre-le-tarot/), et la version courte, c’est que le doute est un bon point de départ.
+J’ai moi-même été du côté de ceux qui posent la question. Un jour, j’ai mis une vidéo d’astrologie dans l’idée de me moquer, j’ai regardé mon propre thème au passage, et il était bien trop juste. Alors je l’ai vérifié, case par case. Quand quelqu’un hausse un sourcil devant mon jeu, je reconnais le regard. Je raconte cette histoire dans [un sceptique peut-il apprendre le tarot ?](/fr/blog/un-sceptique-peut-il-apprendre-le-tarot/), et la version courte, c’est que le doute est un bon point de départ.
 
 **La plupart des gens qui demandent n’attaquent pas : ils sont curieux, et la curiosité mérite une réponse franche.**
 
@@ -28,7 +28,7 @@ On ne peut pas se braquer pour défendre une affirmation qu’on n’a jamais fa
 - Une carte ne décide de rien pour personne. On agit selon ce qu’on ressent, pas selon ce qu’elle a dit.
 - Environ un tirage sur dix rate, selon mon propre décompte, fait à la main ([comment j’ai compté](/fr/blog/le-tarot-marche-t-il-300-tirages/)). C’est un relevé, pas une étude.
 - Je ne sais pas comment ça marche. Je connais certaines conditions qui l’aident, comme le fait que la personne ne dise rien d’elle avant.
-- Il n’y a pas de don. Tout le monde peut apprendre à lire.
+- Il n’y a pas de don : la lecture s’apprend, quelle que soit la personne.
 
 Tout ce que [je ne prétends pas](/fr/avertissements/#pretentions) est écrit noir sur blanc, à la vue de tous. Et si vous avez lu [les théories sur le fonctionnement du tarot](/fr/blog/comment-marche-le-tarot/), vous savez que personne n’a tranché la question. Vous n’avez pas à la trancher non plus, à la terrasse d’un café, pour continuer à lire.
 

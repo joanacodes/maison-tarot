@@ -43,7 +43,7 @@ Quand je regarde la chose calmement, je vois au moins trois façons de la lire. 
 
 *Le moment.* Un parent dont l’enfant vit à l’étranger pense souvent à lui. La plupart de ces instants passent sans que personne ne s’en aperçoive. De temps en temps, l’un d’eux coïncide avec quelque chose de l’autre côté, et c’est celui-là qu’on retient ; personne ne raconte le jour où il n’a rien entendu. Son point faible : elle peut tout expliquer, donc elle ne peut pas vraiment être vérifiée.
 
-*Autre chose.* L’idée que deux personnes qui s’aiment peuvent se rejoindre à distance d’une façon que nous ne comprenons pas. Ma définition de travail de [la magie](/fr/blog/quest-ce-que-la-magie/), ce sont les choses dont on sait qu’elles existent sans pouvoir les expliquer, et ceci n’en est pas loin. Son point faible : je ne peux ni le prouver ni l’exclure.
+*Autre chose.* L’idée que deux personnes qui s’aiment peuvent se rejoindre à distance d’une façon que nous ne comprenons pas. Pour moi, [la magie](/fr/blog/quest-ce-que-la-magie/) désigne ce qu’on sait réel sans parvenir à l’expliquer, et ceci n’en est pas loin. Son point faible : je ne peux ni le prouver ni l’exclure.
 
 **Je n’ai pas besoin de choisir une de ces lectures pour garder l’expérience.**
 
@@ -67,6 +67,6 @@ Il y a là une leçon pour la lecture aussi. Ce qui est arrivé était minuscule
 4. Ne prenez pas de décision là-dessus. Un instant reste un instant, pas une règle.
 5. Si cela arrive souvent, si ça vous fait peur, ou si d’autres choses vous inquiètent en même temps, parlez-en à un médecin. Non que vous ayez eu tort d’entendre ce que vous avez entendu, mais certaines expériences de ce genre ont des causes qu’un médecin peut aider à traiter, et vérifier est une gentillesse envers vous-même. Parfois, [la porte d’un thérapeute est la bonne](/fr/avertissements/#therapie).
 
-Si d’autres choses que je ne m’explique pas tout à fait vous intéressent, les moments les plus étranges de mes tirages ont [leur propre article](/fr/blog/histoires-etranges-tarot/), et les rêves très vifs que j’ai faits fin 2020 sont dans [interprétation des rêves et tarot](/fr/blog/interpretation-des-reves-tarot/). Lisez-les comme j’aimerais que vous lisiez celui-ci : des choses qui sont arrivées, racontées à leur vraie taille.
+Si d’autres choses que je ne m’explique pas tout à fait vous intéressent, j’ai réuni [les moments les plus étranges de mes tirages](/fr/blog/histoires-etranges-tarot/), et les rêves très vifs que j’ai faits fin 2020 sont dans [interprétation des rêves et tarot](/fr/blog/interpretation-des-reves-tarot/). Lisez-les comme j’aimerais que vous lisiez celui-ci : des choses qui sont arrivées, racontées à leur vraie taille.
 
 Et si vous vous demandez comment ses prières et mes cartes vivent côte à côte, j’en parle dans [le tarot est-il un péché ?](/fr/blog/le-tarot-est-il-un-peche/)

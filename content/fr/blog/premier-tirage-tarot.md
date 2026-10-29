@@ -47,17 +47,17 @@ Le moment peut aussi faire l’inverse, et donner raison à un message d’une f
 
 Le détail que je montrerais à toute personne qui débute, c’est le détail peu aimable. Personne n’invente un trait peu flatteur pour faire plaisir à une inconnue. Qui cherche à deviner ce que l’autre veut entendre laisse ce genre de chose de côté en premier. Ce n’est agréable à entendre de la part de personne, encore moins d’une inconnue. C’était pourtant vrai, et c’était à elle de le savoir.
 
-Imaginez que vous tiriez les cartes à une amie et que quelque chose sorte que vous préféreriez taire : elle a été sèche avec quelqu’un, ou elle évite une personne qui mérite mieux. La tentation, c’est de garder la moitié agréable et de passer le reste sous silence. Cette moitié-là, n’importe qui aurait pu la deviner. La règle que j’ai gardée tient en une ligne : n’essayez pas de dire quelque chose de juste. Dites ce qui monte.
+Imaginez que vous tiriez les cartes à une amie et que quelque chose sorte que vous préféreriez taire : elle a été sèche avec quelqu’un, ou elle évite une personne qui mérite mieux. La tentation, c’est de garder la moitié agréable et de passer le reste sous silence. Cette moitié-là, n’importe qui aurait pu la deviner. La règle que j’ai gardée tient en une ligne : ne cherchez pas à tomber juste, laissez sortir ce qui vient.
 
 ## Ce que j’en ai retenu {#ce-que-jen-retiens}
 
 Trois habitudes, que je donnerais à n’importe qui débute.
 
-1. **Notez ce que vous avez dit avant que la personne réponde.** Avec vos mots, sur le moment. La mémoire arrange un tirage après coup ; le papier, non. Mon carnet a deux colonnes : ce que j’ai dit, ce qui a été confirmé. Le principe est expliqué dans [comment je tiens mon carnet de tirages](/fr/blog/carnet-de-tirage-tarot/).
+1. **Notez ce que vous avez dit avant que la personne réponde.** Avec vos mots, sur le moment. La mémoire arrange un tirage après coup ; le papier, non. Mon carnet sépare ce que j’annonce de ce que la personne confirme, sur deux colonnes ; [voici comment je le tiens au quotidien](/fr/blog/carnet-de-tirage-tarot/).
 2. Notez aussi la réponse, y compris quand c’est non. Si c’est raté, écrivez « raté ». Pas de troisième case « on verra ».
 3. Attendez, et ne relancez pas. N’écrivez pas à la personne pour lui demander si c’est arrivé : c’est de la pêche aux informations, avec un temps de retard. Si elle revient d’elle-même, ajoutez une nouvelle ligne datée. Ne réécrivez pas la première. Ce jour-là c’était raté, plus tard ça ne l’était plus, et un carnet doit pouvoir garder les deux.
 
-Je reste prudente avec cette histoire, parce que c’est le genre d’histoire qu’on a envie de transformer en règle. Ce n’en est pas une. À mon propre décompte, environ un tirage sur dix rate, et je ne considère aucun d’eux comme une réussite qui tarderait à venir. Si vous commencez à croire que chaque non finira en oui, vous ne vérifiez plus rien, et votre carnet devient une liste de choses que vous attendez.
+Je reste prudente avec cette histoire, parce que c’est le genre d’histoire qu’on a envie de transformer en règle. Ce n’en est pas une. Environ un de mes tirages sur dix rate, et je ne considère aucun de ces ratés comme une réussite qui tarderait à venir. Si vous commencez à croire que chaque non finira en oui, vous ne vérifiez plus rien, et votre carnet devient une liste de choses que vous attendez.
 
 Ce que cette histoire offre à qui débute, ce n’est pas une preuve. C’est la permission de se tromper devant quelqu’un, et de laisser le carnet en garder la trace.
 
@@ -67,4 +67,4 @@ Parce que la peur de se tromper bloque beaucoup de débutants, et que mon premie
 
 L’histoire montre aussi pourquoi je demande aux gens de ne rien me dire. Imaginez le même tirage si elle avait commencé par « je ne cherche personne ». La tentation aurait été d’adoucir ce qui venait, de glisser vers le travail ou la famille, et de ne jamais le dire : un peu moins faux ce jour-là, et d’aucune utilité pour elle quelques jours plus tard. C’est [la règle du silence](/fr/blog/regle-du-silence-tarot/), et voilà à quoi elle sert.
 
-Si vous voulez votre propre histoire, il vous faut des personnes qui ne vous disent rien et qui ne vous en voudront pas d’un raté. J’ai trouvé les premières sur un serveur Discord découvert via Tumblr ; vous trouverez d’autres pistes dans [où trouver des personnes à qui tirer les cartes](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/). Ou venez à l’un des [événements gratuits](/fr/evenements/) : les personnes qui reçoivent une lecture sont tirées au sort, personne n’explique rien avant, et un raté se dit à voix haute. Prenez un carnet.
+Si vous voulez votre propre histoire, il vous faut des personnes qui ne vous disent rien et qui ne vous en voudront pas d’un raté. J’ai trouvé les premières sur un serveur Discord découvert via Tumblr ; d’autres pistes vous attendent dans [l’article consacré aux personnes sur qui s’entraîner](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/). Ou passez à [un événement gratuit](/fr/evenements/) : le hasard choisit qui reçoit une lecture, personne n’explique rien avant, et un raté se dit à voix haute. Prenez un carnet.

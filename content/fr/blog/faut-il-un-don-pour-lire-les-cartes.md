@@ -11,7 +11,7 @@ imageAlt: "Deux amis à une table de cuisine, l’un montre une carte de tarot �
 imagePrompt: "Two friends at a kitchen table, one holding up a single tarot card toward the other, both laughing, seen from over the shoulder so neither face is recognisable. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
 summary: "Il n’y a pas d’élus. Toutes les personnes à qui j’ai appris à lire — sceptiques, ingénieurs, amis venus pour rire — ont lu juste pour un inconnu en quelques essais, dès qu’elles ont arrêté de vouloir avoir raison. Ce qu’on appelle un don, c’est un état qui s’apprend, plus une méthode. Le test tient en une carte, un inconnu et une phrase, et il prend dix minutes."
 ---
-« J’aimerais bien tirer les cartes, mais je n’ai pas le don. » J’entends cette phrase tous les mois, et tous les mois je réponds la même chose : il n’y en a pas. Ou plutôt, tout le monde a le même, et ce n’est pas ce que vous croyez.
+« J’aimerais bien tirer les cartes, mais je n’ai pas le don. » J’entends cette phrase tous les mois, et tous les mois je réponds la même chose : ce don-là n’existe pas — ou alors, nous l’avons tous, et il ne ressemble pas à ce que vous imaginez.
 
 ## D’où vient l’idée du don {#d-ou-vient-l-idee}
 

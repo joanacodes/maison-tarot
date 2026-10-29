@@ -25,7 +25,7 @@ Imaginons que vous tiriez Fehu. Vous obtenez un mot : richesse, possessions. Pos
 
 {{< cards "peac" >}}
 
-Une main sortie d’un nuage tend une pièce au-dessus d’un jardin, avec une arche taillée dans la haie au loin. Soit un nombre (un : un début), un élément (la Terre : la matière, ce qui a de la valeur pour vous) et une scène — quelque chose vous est offert, et il vous reste à passer sous l’arche. La rune est un mot ; la carte est une phrase.
+Une main sortie d’un nuage tend une pièce au-dessus d’un jardin, avec une arche taillée dans la haie au loin. Soit un nombre (un : un début), un élément (la Terre : la matière, tout ce qui a du prix pour vous) et une scène — quelque chose vous est offert, et il vous reste à passer sous l’arche. La rune est un mot ; la carte est une phrase.
 
 ## Qu’est-ce qu’un pendule ? {#pendule}
 
@@ -35,7 +35,7 @@ Imaginons que vous hésitiez entre deux couleurs de peinture pour votre chambre.
 
 Sa différence : il ne répond que oui ou non, sans dire pourquoi. L’explication habituelle de son mouvement, c’est l’effet idéomoteur : de minuscules mouvements de la main qu’on fait sans s’en rendre compte. Ça ne le rend pas inutile — c’est peut-être justement ce qui le rend utile, puisqu’il vous montre de quel côté votre corps penche déjà. C’est le même principe que les cartes : l’outil vous aide à vous concentrer, ou à lâcher prise, pour que vos propres pensées s’écartent.
 
-Gardez-le pour les petits choix : un poids qui oscille ne devrait rien décider de grand pour vous. C’est aussi pour ça que je réponds autrement aux [questions oui ou non](/fr/blog/tirage-oui-non-tarot/) avec le tarot, et que la santé, la grossesse ou les décisions d’argent font partie des [sujets sur lesquels je ne lis pas](/fr/avertissements/#refus), quel que soit l’outil.
+Gardez-le pour les petits choix : un poids qui oscille ne devrait rien décider de grand pour vous. C’est aussi pour ça que je réponds autrement aux [questions oui ou non](/fr/blog/tirage-oui-non-tarot/) avec le tarot, et que la santé, la grossesse ou les décisions d’argent restent [à l’écart de mes tirages](/fr/avertissements/#refus), quel que soit l’outil.
 
 ## Qu’est-ce que le Yi King ? {#yi-king}
 

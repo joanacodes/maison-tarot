@@ -43,9 +43,9 @@ Quand vous voulez être lu, les critères changent. Trois choses comptent, et au
 
 La méthode. Sait-elle dire comment elle lit ? Pas « j’ai un don », parce qu’il n’y en a pas et que tout le monde peut apprendre, mais ce qu’elle regarde : les couleurs, les nombres, les éléments, la scène. Une tarologue qui a une méthode peut expliquer pourquoi elle a dit ce qu’elle a dit.
 
-L’honnêteté. Dit-elle parfois « celle-là était ratée » ? Personne ne lit juste à cent pour cent ; d’après mon décompte, environ une lecture sur dix ne tient pas. Une tarologue dont les publications ne parlent jamais d’un raté soit ne compte pas, soit ne le dit pas.
+L’honnêteté. Dit-elle parfois « celle-là était ratée » ? Personne ne lit juste à cent pour cent ; dans mon propre carnet, une lecture sur dix ne se vérifie pas. Une tarologue dont les publications ne parlent jamais d’un raté soit ne compte pas, soit ne le dit pas.
 
-Les limites. Sur quoi ne lit-elle pas ? Je laisse de côté la santé, la mort, la grossesse, les procédures en cours, les décisions d’argent, les malédictions et les personnes absentes, et [je le dis publiquement](/fr/avertissements/#refus). Une tarologue sans limites n’a pas beaucoup réfléchi à l’idée de se tromper.
+Les limites. Sur quoi ne lit-elle pas ? Je laisse de côté la maladie et les décès, la grossesse, les démarches en justice, les choix d’argent, les malédictions et les tiers absents, et [je le dis publiquement](/fr/avertissements/#refus). Une tarologue sans limites n’a pas beaucoup réfléchi à l’idée de se tromper.
 
 **Suivez pour les images ; choisissez pour la méthode.**
 

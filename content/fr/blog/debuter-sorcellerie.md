@@ -19,13 +19,13 @@ Je suis tarologue, pas sorcière, alors je vous réponds depuis mon côté de la
 
 Une baby witch, c’est une débutante — ou un débutant — en sorcellerie : quelqu’un qui commence à lire sur le sujet, à pratiquer, ou à se dire sorcière. Le terme est partout sur TikTok et Instagram, où l’on partage son premier autel, son premier sort, son premier rituel de saison. C’est affectueux, pas moqueur. Tout le monde a débuté un jour.
 
-La sorcellerie elle-même est un mot large pour des pratiques — sorts, rituels, travail avec les plantes, les saisons, les éléments, avec ou sans divinités — qui visent à changer quelque chose dans le monde ou en soi par l’intention. Pour certains, c’est une religion ; pour d’autres, un artisanat sans croyance ; pour d’autres encore, surtout une esthétique. En France, l’essai de Mona Chollet, *Sorcières*, a aussi rendu au mot une certaine fierté.
+La sorcellerie elle-même recouvre beaucoup de pratiques : jeter des sorts, mener des rituels, travailler avec les herbes, suivre les saisons ou les éléments, avec ou sans divinités, toujours pour changer quelque chose autour de soi ou en soi par l’intention. Certains la vivent comme une religion, d’autres comme un savoir-faire sans foi particulière, d’autres encore surtout comme un style. En France, l’essai de Mona Chollet, *Sorcières*, a aussi rendu au mot une certaine fierté.
 
-Et une sorcière ? Ma définition, tirée de mes notes, est celle-ci : **une sorcière, c’est un être humain pleinement conscient de son pouvoir, qui n’a pas peur de s’en servir ni d’être lui-même.** Avec cette définition, beaucoup de gens sont sorciers sans une seule bougie chez eux. Je ne me présente pas comme sorcière ; je lis les cartes. Mais c’est une définition que je confierais volontiers à quiconque débute.
+Et une sorcière ? Mes notes en donnent une définition qui me plaît : **quelqu’un qui sait de quoi il est capable, et qui ne craint ni de s’en servir ni de se montrer tel qu’il est.** À ce compte-là, beaucoup de gens sont sorciers sans une seule bougie chez eux, et c’est la définition que je confierais volontiers à quiconque débute.
 
 ## Commencez par vos sens, pas par une liste d’achats {#vos-sens}
 
-Nous sommes tous nés avec nos sens. Pour les développer : méditer, lire, peindre — n’importe quel art méditatif. Lire le tarot, le marc de café, un tableau.
+Nous sommes tous nés avec nos sens, et on les aiguise par tout ce qui apaise l’esprit : méditer, lire, peindre. On peut aussi lire dans n’importe quoi — des cartes, un fond de tasse, un tableau.
 
 Ce qui a affûté mes propres sens, ce n’est rien de ce que j’ai acheté, et je parle en connaissance de cause : j’ai moi-même [vendu de la sauge et des bougies](/fr/blog/purifier-son-jeu-de-tarot/) à une époque. Manger plus frais m’a aidée. Vivre seule dans mon propre appartement a été le vrai déclic.
 
@@ -43,17 +43,17 @@ Si vous en voulez une quatrième, suivez les saisons. Beaucoup de sorcières mar
 
 ## Allez doucement : commencez crescendo {#doucement}
 
-« Ne montez pas trop haut trop vite, sinon vous risquez de ne plus retrouver le chemin de la maison. Commencez crescendo. » C’est dans mes notes, et c’est le conseil que je donnerais à toute personne qui débute, dans n’importe quelle pratique.
+Mes notes contiennent un conseil que je reprends volontiers : on ne grimpe pas tout en haut d’emblée, on avance crescendo, pour savoir toujours rentrer chez soi. C’est celui que je donnerais à toute personne qui débute, dans n’importe quelle pratique.
 
 {{< cards "ar00" >}}
 
-Pensez au Mat : un bagage léger, beaucoup d’enthousiasme, libre de créer n’importe où. Sa faiblesse, c’est la naïveté — le petit chien à ses pieds essaie de lui rappeler où il pose le pied. Soyez le Mat, et écoutez le chien.
+Pensez au Mat : un bagage léger, beaucoup d’enthousiasme, libre de créer n’importe où. Sa faiblesse, c’est la naïveté, et le chien qui bondit à côté de lui tente de le mettre en garde. Soyez le Mat, et écoutez le chien.
 
 Ce que je laisserais attendre :
 
 - Appeler les esprits. Avec les esprits, vous ne savez pas qui vous appelez.
 - Les malédictions et les sorts contre quelqu’un. Je ne lis pas sur les malédictions, et si quelqu’un vous dit que vous êtes maudite ou maudit et vous demande de l’argent pour lever le sort, c’est [la plus vieille arnaque du métier](/fr/blog/malediction-voyance-arnaque/), pas un diagnostic.
-- Lire ou agir sur des personnes sans leur demander. Vous n’aimeriez pas qu’on fouille dans votre chambre ; c’est pareil.
+- Lire ou agir sur des personnes sans leur demander : c’est entrer dans leur chambre sans frapper.
 - Quiconque vous dit faire partie d’une poignée d’élus.
 
 ## Quelle sorcière êtes-vous ? {#quelle-sorciere}

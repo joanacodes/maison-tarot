@@ -29,7 +29,7 @@ Quand j’explique un thème, je prends l’image d’une maison. L’ascendant,
 
 Et il y a le reste. Quand j’ai testé des thèmes case par case, les positions qui tenaient le mieux — 75 à 90 % du temps — étaient Saturne, Lilith et Chiron : la leçon la plus dure, ce que la personne a appris à cacher, la blessure autour de laquelle elle tourne. **Les parties les plus justes d’un thème sont aussi les plus intimes.**
 
-Vous n’aimeriez pas que quelqu’un fouille dans votre chambre. Ouvrir le thème de quelqu’un dans son dos, ça y ressemble. C’est aussi pour ça qu’au tarot je demande toujours la permission avant de lire une personne, et que je ne tire pas sur [les gens qui ne sont pas là](/fr/avertissements/#refus).
+Vous n’aimeriez pas que quelqu’un fouille dans votre chambre. Ouvrir le thème de quelqu’un dans son dos, ça y ressemble. C’est aussi pour ça qu’au tarot, personne n’est lu sans avoir dit oui, et que je ne tire pas sur [les gens qui ne sont pas là](/fr/avertissements/#refus).
 
 Il y a aussi un indice très concret. Un thème complet demande une heure de naissance, et elle figure rarement sur un profil. Si vous vous surprenez à la demander à sa mère sans le lui dire, arrêtez-vous une seconde là-dessus.
 
@@ -39,7 +39,7 @@ Quand j’ai testé des thèmes — ma famille, mes amis, puis des inconnus —,
 
 Sans la personne, personne ne peut dire « ce n’est pas moi ». Et dans l’ensemble, 30 à 40 % seulement de ce que j’ai vérifié tenait. Lisez le thème de quelqu’un seul dans votre coin, et deux lignes sur trois peuvent être fausses sans que vous sachiez lesquelles.
 
-Il y a un second effet, que j’ai remarqué aussi en lecture. Quelqu’un qui ne sait pas qu’on le lit n’est pas ouvert : on obtient la moitié d’une phrase et on bâtit toute une affirmation dessus. Ensuite, on lit son comportement à travers cette affirmation. Un message qui tarde devient « tellement sa Lune ». Ce n’est que mon expérience et l’hypothèse que j’en tire ; rien n’a été prouvé scientifiquement.
+Il y a un second effet, que j’ai remarqué aussi en lecture. Quand la personne ignore qu’on la lit, rien ne s’ouvre de son côté : il ne vous arrive qu’un fragment, et vous en faites une affirmation complète. Ensuite, on lit son comportement à travers cette affirmation. Un message qui tarde devient « tellement sa Lune ». Je le tiens de mon expérience, pas d’une étude : c’est une hypothèse, que la science n’a jamais vérifiée.
 
 ## Y compris votre crush (surtout votre crush) {#votre-crush}
 

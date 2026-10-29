@@ -33,7 +33,7 @@ On tire des lignes de trois ou cinq cartes, ou le grand tableau : les 36 cartes 
 
 Un tarot compte 22 arcanes majeurs et 56 arcanes mineurs, et dans le Rider-Waite-Smith chaque carte est une scène complète : des personnages, des couleurs, un nombre, un élément, une posture. Une seule carte peut porter toute une lecture, et c’est pour ça que j’enseigne avec cinq clés de lecture plutôt qu’avec une liste de significations.
 
-Prenez le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/). Dans mes notes, c’est la carte la plus lourde du jeu : la perte, l’émotion sombre, la solitude face à ses problèmes. Mais le dessin montre aussi deux coupes encore debout derrière la silhouette en deuil. Les Souris du Lenormand vous diraient vite que quelque chose se perd. La carte de tarot vous montre ce que ça fait, et ce qui tient encore.
+Prenez le [Cinq de Coupes](/fr/bibliotheque/cartes-tarot/cinq-de-coupes/). Aucune carte n’est plus sombre dans mes notes : une perte, un chagrin noir, quelqu’un livré à ses problèmes. Pourtant, derrière le personnage endeuillé, deux coupes n’ont pas basculé. Les Souris du Lenormand vous diraient vite que quelque chose se perd. La carte de tarot vous montre ce que ça fait, et ce qui tient encore.
 
 {{< cards "cu05" >}}
 
@@ -52,7 +52,7 @@ La différence se voit dans les questions auxquelles chaque jeu répond bien. «
 
 Ni l’un ni l’autre n’est un oracle au sens moderne, d’ailleurs : les deux ont une structure fixe, partagée par tous les lecteurs, ce que la plupart des oracles n’ont pas. J’explique cette différence dans [tarot ou oracle](/fr/blog/difference-entre-tarot-et-oracle/).
 
-Un mot, avec douceur, sur les cartes les plus concrètes. Le Lenormand a un Cercueil, une Faux et une Croix, et comme le jeu paraît très littéral, on a envie de lui demander si quelqu’un va guérir, ou si un procès tournera en votre faveur. Je comprends pourquoi : c’est presque toujours l’inquiétude, ou l’amour. Mais quel que soit le jeu, je ne lis pas sur la santé, la mort, la grossesse, les procédures en cours ou les décisions d’argent, parce qu’un mot de travers y fait de vrais dégâts ; un médecin ou un avocat est la bonne personne. Ce qu’un tirage peut accueillir, c’est la façon dont vous portez cette inquiétude. [Mes refus](/fr/avertissements/#refus) valent pour les deux jeux.
+Un mot, avec douceur, sur les cartes les plus concrètes. Le Lenormand a un Cercueil, une Faux et une Croix, et comme le jeu paraît très littéral, on a envie de lui demander si quelqu’un va guérir, ou si un procès tournera en votre faveur. Je comprends pourquoi : c’est presque toujours l’inquiétude, ou l’amour. Mais avec l’un comme avec l’autre, je laisse les cartes de côté devant la maladie, le décès, la grossesse, un procès qui court encore ou un choix financier : une parole mal comprise y pèse trop lourd, et un médecin ou un avocat est la bonne personne. Ce qu’un tirage peut accueillir, c’est la façon dont vous portez cette inquiétude. [Mes refus](/fr/avertissements/#refus) valent pour les deux jeux.
 
 ## Par lequel commencer ? {#par-lequel-commencer}
 

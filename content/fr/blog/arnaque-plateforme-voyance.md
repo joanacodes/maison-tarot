@@ -72,8 +72,8 @@ Ce qui aide, concrètement :
 
 Si la question qui vous fait décrocher porte sur l’argent, la santé ou une procédure en cours, ce sont des sujets que [je laisse de côté dans mes lectures](/fr/avertissements/#refus), parce qu’une phrase mal comprise y coûte trop cher. Une question plus douce, et plus utile, serait : « De quoi ai-je besoin pour prendre cette décision moi-même ? » Les cartes peuvent accompagner celle-là ; la décision, elle, vous revient.
 
-Parfois, le plus utile est de poser le téléphone, ou le jeu, pour un moment. J’en parle dans [pourquoi arrêter de tirer les cartes, au moins un temps](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
+Parfois, le plus utile est de poser le téléphone, ou le jeu, pour un moment. J’ai écrit sur [ce qu’apporte une pause loin des tirages](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
 
 ## Une lecture sans compteur {#sans-compteur}
 
-Si vous voulez voir à quoi ressemble une lecture quand personne ne facture la minute, venez à [un événement gratuit de Maison Tarot](/fr/evenements/). Les personnes lues y sont tirées au sort, elles ne me disent rien, et je dis quand je me trompe — environ une fois sur dix, à mon compte. Personne ne vous rappellera la semaine prochaine pour savoir si ça a bougé.
+Pour assister à une lecture où personne ne facture la minute, venez à [un événement gratuit de Maison Tarot](/fr/evenements/). Les personnes lues y sont tirées au sort, elles ne me disent rien, et je dis quand je me trompe — environ une fois sur dix, à mon compte. Personne ne vous rappellera la semaine prochaine pour savoir si ça a bougé.

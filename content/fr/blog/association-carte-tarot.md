@@ -37,7 +37,7 @@ Quand je ne sais pas ce que veut dire une paire, je décris le mouvement à la p
 
 ## Associations de lames après une carte difficile {#apres-une-carte-difficile}
 
-Ces vingt paires utilisent douze cartes, exprès : voir la même lame changer selon sa voisine, c’est la façon la plus rapide d’apprendre les associations. Les plus lourdes ont [leur propre page](/fr/blog/cartes-tarot-qui-font-peur/), si elles vous inquiètent.
+Ces vingt paires utilisent douze cartes, exprès : voir la même lame changer selon sa voisine, c’est la façon la plus rapide d’apprendre les associations. Si les plus lourdes vous inquiètent, lisez [ce que valent vraiment la Mort, la Tour et leurs voisines](/fr/blog/cartes-tarot-qui-font-peur/).
 
 {{< cards "ar06 ar13 ar15 ar16 ar17 ar19" >}}
 
@@ -107,7 +107,7 @@ Ce sont les paires sur lesquelles on m’interroge le plus, et celles où l’or
 
 ### L’As de Bâtons, puis le Huit de Pentacles {#as-batons-huit-pentacles}
 
-*1 → 8 · Feu → Terre.* Une idée qui trouve des mains. Le un monte au huit : la graine devient un métier. C’est en forgeant qu’on devient forgeron : « Ce qui a commencé comme une envie devient un savoir-faire, si vous y mettez les heures. »
+*1 → 8 · Feu → Terre.* Une idée qui trouve des mains. Le un monte au huit : la graine devient un métier, à force de pratique. « Ce qui a commencé comme une envie devient un savoir-faire, si vous y mettez les heures. »
 
 ### Le Huit de Pentacles, puis le Diable {#huit-pentacles-diable}
 

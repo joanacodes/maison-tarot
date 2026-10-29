@@ -36,7 +36,7 @@ Les recherches suivantes ont montré que l’effet se renforce quand on croit la
 
 Trois choses, dans un tirage, rendent le terrain fertile.
 
-Les cartes ont un sens large. Chaque carte a un plus et un moins — c’est comme ça que je les enseigne —, ce qui veut dire que n’importe quelle carte peut se lire dans deux directions. Cette largeur fait l’utilité du jeu, et c’est aussi par là qu’une phrase vague se glisse.
+Les cartes ont un sens large. Chacune a son bon et son mauvais côté — c’est comme ça que je les enseigne —, ce qui veut dire que n’importe quelle carte peut se lire dans deux directions. Cette largeur fait l’utilité du jeu, et c’est aussi par là qu’une phrase vague se glisse.
 
 Imaginons que quelqu’un tire le Deux d’Épées, la Lune et le Cinq de Coupes.
 
@@ -50,7 +50,7 @@ La troisième, c’est le tarologue. Quelqu’un qui parle avec assurance donne 
 
 ## Première vérification : la règle du silence {#regle-du-silence}
 
-La première vérification a lieu avant même que je tire une carte. La personne ne me dit rien : ni question, ni contexte, ni situation.
+La première vérification a lieu avant même que je tire une carte. Je commence sans rien savoir : on ne m’a donné ni la question, ni le contexte, ni la situation.
 
 C’est important pour l’effet Barnum, et d’une façon précise. Les phrases vagues deviennent convaincantes quand elles rencontrent une histoire connue. Si vous me dites « c’est au sujet de mon couple » et que je réponds « il y a quelque chose que vous ne lui avez pas encore dit », vous trouverez la chose — tout le monde en a une. Si vous ne m’avez rien dit, je n’ai rien sur quoi ajuster une phrase vague, et la tentation d’en utiliser une diminue.
 
@@ -72,21 +72,21 @@ Prenons le Huit d’Épées et le Quatre de Bâtons.
 
 {{< cards "sw08 wa04" >}}
 
-Dans mes notes, le Huit d’Épées, c’est quelqu’un prisonnier de lui-même alors qu’il a tous les outils en main — le bandeau peut tomber. Le Quatre de Bâtons, ce sont les fondations : le mariage, construire une famille. La version Barnum de ces deux cartes, c’est « vous vous sentez bloqué, mais vous êtes plus libre que vous ne le pensez » : elle va à tout le monde, donc elle ne compte pas. La version précise nomme une situation, un rôle et une cause : « un projet de maison ou de mariage est en suspens, et c’est vous qui le retenez ». Elle peut être fausse, et c’est justement pour ça qu’elle vaut la peine d’être dite.
+Dans mes notes, le Huit d’Épées, c’est quelqu’un qui s’est fait son propre geôlier, alors que rien ne lui manque pour sortir — le bandeau peut tomber. Le Quatre de Bâtons, chez moi, c’est l’idée de poser des bases : un mariage, un foyer, une famille qui se fonde. La version Barnum de ces deux cartes, c’est « vous vous sentez bloqué, mais vous êtes plus libre que vous ne le pensez » : elle va à tout le monde, donc elle ne compte pas. La version précise nomme une situation, un rôle et une cause : « un projet de maison ou de mariage est en suspens, et c’est vous qui le retenez ». Elle peut être fausse, et c’est justement pour ça qu’elle vaut la peine d’être dite.
 
-**Une phrase qui peut être fausse est la seule qui vaille la peine d’être comptée.** Si la personne dit non, c’est un raté, et je l’écris. Si elle dit oui, ça veut dire quelque chose, parce que ça aurait très bien pu être non.
+**Une phrase qui peut être fausse est la seule qui vaille la peine d’être comptée.** Quand la personne répond non, je note un raté. Si elle dit oui, ça veut dire quelque chose, parce que ça aurait très bien pu être non.
 
 Quand je sens une phrase vague sur le point de sortir, j’essaie de la pousser d’un cran : pas « vous vous sentez bloqué », mais bloqué où, avec qui, depuis quand. Si rien de plus précis ne vient, je préfère ne pas la dire.
 
-J’ai fait la même chose quand j’ai mis l’astrologie à l’épreuve : mon propre thème astral case par case, une coche si une position me décrivait d’une façon que je n’aurais pas pu écrire pour quelqu’un d’autre, une croix si elle allait à mon voisin, puis les thèmes de ma famille, de mes amis et d’inconnus. Au total, environ 30 à 40 % ont tenu ; pour Saturne, Lilith et Chiron, 75 à 90 %. L’histoire est dans [j’ai testé mon thème astral case par case](/fr/blog/j-ai-teste-mon-theme-astral/).
+J’ai fait la même chose quand j’ai mis l’astrologie à l’épreuve : mon propre thème astral case par case, une coche si une position me décrivait d’une façon que je n’aurais pas pu écrire pour quelqu’un d’autre, une croix si elle allait à mon voisin, puis les thèmes de ma famille, de mes amis et d’inconnus. Au total, environ 30 à 40 % ont tenu ; pour Saturne, Lilith et Chiron, 75 à 90 %. Je raconte ce test dans [le récit de mon thème passé au crible](/fr/blog/j-ai-teste-mon-theme-astral/).
 
 ## Ce que l’effet Barnum n’explique pas {#limites}
 
 L’effet Barnum explique très bien pourquoi un tirage vague paraît juste. Il faut être tout aussi clair sur ce qu’il ne couvre pas.
 
-Il prédit un accord immédiat. Mon [tout premier tirage pour une inconnue](/fr/blog/premier-tirage-tarot/) est allé dans l’autre sens : elle m’a répondu que ça ne lui parlait pas, puis, quelques jours plus tard, elle m’a réécrit que tout était arrivé. Une phrase Barnum obtient un oui sur-le-champ. Ce tirage-là a obtenu un non, puis un fait.
+Il prédit un accord immédiat. Mon [tout premier tirage pour une inconnue](/fr/blog/premier-tirage-tarot/) est allé dans l’autre sens : sur le moment, rien ne résonnait pour elle ; quelques jours après, elle est revenue me dire que tout s’était produit. Une phrase Barnum obtient un oui sur-le-champ. Ce tirage-là a obtenu un non, puis un fait.
 
-C’est une histoire, et une histoire seule ne prouve rien. Je ne sais pas pourquoi les réussites précises arrivent, et je ne prétends pas le savoir ; j’ai passé en revue [les quatre théories habituelles](/fr/blog/comment-marche-le-tarot/), et aucune ne l’explique entièrement. Ce que je peux dire, c’est qu’une fois les phrases vagues barrées, il reste quelque chose, à une fréquence que je peux donner, avec des ratés que je nomme.
+C’est une histoire, et une histoire seule ne prouve rien. Je ne sais pas pourquoi les réussites précises arrivent, et je ne prétends pas le savoir ; j’ai passé en revue [les quatre théories habituelles](/fr/blog/comment-marche-le-tarot/), et aucune ne l’explique entièrement. Ce que je peux dire, c’est qu’une fois les phrases vagues barrées, il reste quelque chose : une proportion que je peux donner en chiffres, et des erreurs que j’assume.
 
 L’autre limite honnête, c’est moi. Mes vérifications réduisent l’effet Barnum ; elles ne le suppriment pas. Je trouve encore des phrases vagues dans mon propre carnet, et je pense que j’en trouverai toujours. Les repérer, c’est le travail.
 
@@ -100,4 +100,4 @@ Vous n’avez pas besoin de croire mes chiffres : voici comment obtenir les vôt
 4. Dans ce qui reste, marquez ce qui a été confirmé et ce qui ne l’a pas été.
 5. Faites-le dix fois avant de tirer la moindre conclusion sur vous-même.
 
-L’écart entre la justesse que vous avez ressentie et celle que vous avez comptée est la chose la plus utile qu’un lecteur puisse voir. Si vous préférez le faire avec quelqu’un à côté, venez à l’un des [événements gratuits](/fr/evenements/) : les personnes lues sont tirées au sort, et on compare à la fin.
+Mettre côte à côte l’impression d’avoir vu juste et le score inscrit sur le papier, voilà ce qu’un lecteur peut s’offrir de plus utile. Si vous préférez le faire avec quelqu’un à côté, passez à [un de mes événements gratuits](/fr/evenements/) : le hasard désigne les personnes lues, et on compare à la fin.

@@ -21,7 +21,7 @@ La mémoire est une très mauvaise comptable. Elle garde la lecture où la dame 
 
 ## Qu'allez-vous refuser ? {#refus}
 
-Voici la liste avec laquelle je travaille : la santé, la mort, la grossesse, les procès en cours, les décisions d'argent, les malédictions, et toute personne qui n'est pas dans la pièce et n'a rien demandé. [Maison Tarot refuse tout cela](/fr/avertissements/#refus), non pas parce qu'une carte ne peut pas tomber sur ces sujets, mais parce qu'un mot de travers y fait de vrais dégâts, et j'ai établi que je me trompe une fois sur dix.
+Voici la liste avec laquelle je travaille : les questions de santé, de décès ou de grossesse, les affaires judiciaires en cours, les choix financiers, les malédictions, et toute personne qui n'est pas dans la pièce et n'a rien demandé. [Maison Tarot refuse tout cela](/fr/avertissements/#refus), non pas parce qu'une carte ne peut pas tomber sur ces sujets, mais parce qu'une maladresse y blesse pour de vrai, et j'ai établi que je me trompe une fois sur dix.
 
 Maintenant, la partie qui gratte. Ce sont précisément les questions pour lesquelles on paie le plus. « Est-ce qu'il me trompe », « vais-je tomber enceinte », « dois-je accepter cet argent » : c'est le moteur du marché payant. Les refuser n'est pas une note de bas de page sur votre site ; c'est une décision sur ce que vous allez gagner. Un tarologue qui répond à tout est un tarologue qui n'a pas réfléchi à l'idée de se tromper. Décidez lequel vous êtes avant de décider d'un tarif.
 
@@ -37,7 +37,7 @@ Je vends des cours. Des sessions de soixante minutes, des ateliers de trois heur
 
 Une activité qui vit des lectures a besoin que les gens reviennent pour des lectures. Ce n'est pas une faute morale ; c'est de l'arithmétique, et elle façonne tout en silence, de la façon dont une séance se termine aux questions qu'on cesse de refuser pendant un mois creux. Une activité qui vit de l'enseignement a besoin que les gens repartent en sachant plus et en ayant moins besoin de vous. [Ce que je fais payer et ce que je donne](/fr/blog/ce-que-je-fais-payer/), c'est la forme de cette arithmétique.
 
-J'ajoute la partie dont je ne suis pas fière. En 2021, je vendais de la sauge, des bougies et des cartes « canalisées » à côté du reste. J'ai arrêté, parce que rien dans ce carton n'a jamais amélioré une lecture, et parce que la boutique, c'est là où l'argent est facile et où l'honnêteté part en premier. Si votre plan comprend une boutique, demandez-vous à quoi servent les objets.
+J'ajoute la partie dont je ne suis pas fière. En 2021, je proposais aussi à la vente sauge, bougies et cartes « canalisées ». J'ai arrêté, parce que rien dans ce carton n'a jamais amélioré une lecture, et parce que la boutique, c'est là où l'argent est facile et où l'honnêteté part en premier. Si votre plan comprend une boutique, demandez-vous à quoi servent les objets.
 
 ## Savez-vous vous arrêter ? {#arreter}
 

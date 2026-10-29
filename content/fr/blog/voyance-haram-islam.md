@@ -45,7 +45,7 @@ La question arrive rarement par goût de la théologie. Elle vient d’une curio
 
 Je ne vais donc pas essayer de convaincre un musulman que le tarot est compatible avec sa foi. Ce n’est pas mon rôle, et ce serait manquer de respect à quelqu’un qui prend sa tradition au sérieux. J’ai expliqué dans [le tarot est-il un péché ?](/fr/blog/le-tarot-est-il-un-peche/) pourquoi je ne dis jamais à personne ce que sa religion permet.
 
-Ce que je peux dire, c’est ce que je fais. Je ne prétends pas connaître le caché. Je n’appelle aucun esprit, je ne promets rien, et je ne présente jamais une lecture comme un verdict ; [le tarot n’est pas une autorité](/fr/avertissements/#lectures). Je lis surtout le présent de la personne en face de moi. Mais je ne vais pas en conclure que c’est halal : ce serait commode, et ce n’est pas à moi de le dire.
+Ce que je peux dire, c’est ce que je fais. Je ne prétends pas connaître le caché. Je n’appelle aucun esprit, je ne promets rien, et je ne présente jamais une lecture comme un verdict ; [les cartes ne commandent rien](/fr/avertissements/#lectures). Je lis surtout le présent de la personne en face de moi. Mais je ne vais pas en conclure que c’est halal : ce serait commode, et ce n’est pas à moi de le dire.
 
 Si vous êtes musulman, que vous tirez les cartes et que vous vous sentez mal à l’aise, la culpabilité n’est pas non plus une bonne conseillère. Parlez-en à quelqu’un de confiance dans votre tradition, et quoi que vous décidiez, décidez-le au calme : un choix fait dans la peur tient rarement, dans un sens comme dans l’autre.
 

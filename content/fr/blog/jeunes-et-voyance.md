@@ -37,11 +37,11 @@ Ce qui suit est ma lecture, pas une étude.
 
 L’âge des choix sans garantie. Entre dix-huit et vingt-quatre ans, on choisit des études, un premier travail, une ville, quelqu’un — souvent tout à la fois, sans savoir comment ça tournera. Le tarot ne choisit pas à votre place, mais il permet de poser la question à voix haute. Imaginons : vous avez vingt-deux ans, une place en master d’un côté, une offre d’emploi de l’autre. Un tirage ne tranchera pas ; mais poser deux chemins sur la table et dire tout haut ce que chaque carte vous fait ressentir montre souvent vers lequel vous penchiez déjà.
 
-Un langage en images, gratuit, dans la poche. Une génération a rencontré le tarot sur TikTok ou YouTube, pas dans une boutique ésotérique ; j’en parle dans [le TarotTok expliqué](/fr/blog/tarottok-francais/). Moi-même, c’est une vidéo « pick a card » qui a tout déclenché : pour la première fois, quelqu’un mettait des mots sur ma situation, et j’ai pleuré — la lectrice aussi, dans la vidéo. Je ne vais pas mépriser la porte par laquelle je suis entrée. J’ai écrit ailleurs ce que valent [les tirages « pick a card »](/fr/blog/tirage-pick-a-card/), avec leurs forces et leurs limites.
+Un langage en images, gratuit, dans la poche. Une génération a rencontré le tarot sur TikTok ou YouTube, pas dans une boutique ésotérique ; j’en parle dans [le TarotTok expliqué](/fr/blog/tarottok-francais/). Moi-même, c’est une vidéo « pick a card » qui a tout déclenché : jamais personne n’avait trouvé de mots aussi justes pour ma situation, et j’ai pleuré — la lectrice aussi, dans la vidéo. Je ne vais pas mépriser la porte par laquelle je suis entrée. J’ai écrit ailleurs ce que valent [les tirages « pick a card »](/fr/blog/tirage-pick-a-card/), avec leurs forces et leurs limites.
 
 Un rituel sans dogme. On peut se servir des cartes sans adhérer à rien, et les poser un jour sans renier personne. Pour qui se méfie des grandes institutions, c’est une forme de sens qui ne demande pas de carte de membre.
 
-Se raconter. **Une carte est souvent un prétexte pour dire enfin ce qu’on pense de sa propre vie.** Imaginez le Cinq de Coupes posé sur la table : une silhouette en cape noire, trois coupes renversées, deux encore debout derrière elle. Il suffit parfois de cette image pour que quelqu’un parle d’une perte qu’il n’avait jamais nommée.
+Se raconter. **Une carte est souvent un prétexte pour dire enfin ce qu’on pense de sa propre vie.** Imaginez le Cinq de Coupes posé sur la table : quelqu’un en cape sombre, les yeux sur trois coupes répandues, sans un regard pour les deux qui tiennent encore. Il suffit parfois de cette image pour que quelqu’un parle d’une perte qu’il n’avait jamais nommée.
 
 {{< cards "cu05" >}}
 
@@ -55,10 +55,10 @@ Garder la main. Tirer une carte, c’est faire quelque chose quand on a l’impr
 
 Pas des interdits, quelques repères.
 
-1. Vous n’avez besoin d’aucun don. Tout le monde peut apprendre à lire, et chaque personne que j’ai aidée y est arrivée entre le premier et le troisième essai.
+1. Vous n’avez besoin d’aucun don. Lire s’apprend, et chacune des personnes que j’ai accompagnées y est parvenue en trois essais au plus.
 2. Si une lecture vous dit de rester et que vous sentez qu’il faut partir, écoutez ce que vous sentez.
 3. Tirer toutes les heures, ce n’est plus du tarot : c’est chercher une validation à l’extérieur. Faites une pause ; j’explique pourquoi dans [pourquoi arrêter de tirer les cartes](/fr/blog/pourquoi-arreter-de-tirer-les-cartes/).
-4. Méfiez-vous des lectures payantes « en lien dans la bio », des malédictions à lever, des « il va revenir » vendus à des milliers d’inconnus. [Les neuf signaux d’une arnaque à la voyance](/fr/blog/arnaque-voyance/) les attrapent presque tous.
+4. Méfiez-vous des lectures payantes « en lien dans la bio », des malédictions à lever, des « il va revenir » vendus à des milliers d’inconnus. [Ma liste des signes qui doivent vous alerter](/fr/blog/arnaque-voyance/) les attrape presque tous.
 5. Certaines questions ont une autre porte. Votre santé regarde un médecin ; ce qui pèse trop, et depuis trop longtemps, mérite [un ou une psy](/fr/avertissements/#therapie). Les cartes peuvent accompagner ce que vous ressentez en attendant ; elles ne remplacent pas ces rendez-vous.
 6. Tenez un carnet : à gauche ce que vous avez vu dans les cartes, à droite ce qui s’est réellement passé. C’est le meilleur remède à la crédulité comme au cynisme, et vous saurez vite quand vous lisez juste.
 

@@ -29,7 +29,7 @@ Quand je lis pour quelqu’un, je lui demande de ne rien me dire : ni question, 
 
 Avec vous-même, pas de silence possible. Vous connaissez la question, vous connaissez l’histoire jusqu’ici, et vous savez ce que vous voulez entendre. Votre tête construit le récit plus vite que vos yeux n’atteignent la carte. En général, ça dérape dans l’une de deux directions : vous lisez votre espoir, ou vous lisez votre peur.
 
-Imaginons que vous attendiez un signe pour quitter la ville où vous vivez, et que vous tiriez le Huit de Coupes : un personnage en manteau rouge qui s’éloigne de huit coupes empilées, vers les montagnes, de nuit. Vous lirez « pars » en une demi-seconde. C’est peut-être juste. Mais vous auriez lu « pars » dans presque n’importe quelle carte.
+Imaginons que vous attendiez un signe pour quitter la ville où vous vivez, et que vous tiriez le Huit de Coupes : une silhouette qui laisse ses coupes derrière elle et s’en va, de nuit, vers les montagnes. Vous lirez « pars » en une demi-seconde. C’est peut-être juste. Mais vous auriez lu « pars » dans presque n’importe quelle carte.
 
 Imaginons maintenant que vous redoutiez une conversation, et que vous tiriez la Tour : la foudre, la couronne arrachée du sommet d’une tour, deux personnages qui tombent. Vous lirez « catastrophe ». Pourtant, la Tour peut être le soulagement d’une chose enfin dite — une construction fissurée depuis des mois qui s’effondre, pour que vous cessiez de la tenir à bout de bras.
 
@@ -42,12 +42,12 @@ Imaginons maintenant que vous redoutiez une conversation, et que vous tiriez la 
 Aucune n’est compliquée. Ensemble, elles remplacent la personne assise en face.
 
 1. *Écrivez la question avant de mélanger.* Les mots exacts, et la date. Une fois sur le papier, vous ne pouvez plus la déplacer en douce après avoir vu la carte.
-2. *Dites-vous : je vais dire n’importe quoi.* On dirait une plaisanterie. Ça coupe la partie de vous qui veut avoir raison, et laisse celle qui regarde.
+2. *Dites-vous : je vais dire n’importe quoi.* On dirait une plaisanterie. Ça fait taire en vous l’envie d’avoir raison, et laisse parler votre regard.
 3. *Décrivez avant d’interpréter.* Ce qu’il y a sur la carte, la couleur dominante, le nombre, l’[élément](/fr/bibliotheque/quatre-elements/) — à voix haute ou par écrit, avant de décider de ce que ça veut dire pour vous. Les clés de lecture se moquent de ce que vous espérez.
 4. *Tracez deux colonnes.* « Ce que je vois » à gauche, « ce que j’aimerais qu’elle dise » à droite. Si les deux lignes sont identiques, méfiez-vous de vous-même, gentiment.
-5. *Un seul tirage par question.* Pas de nouveau mélange, pas de carte en plus pour sauver une carte qui vous déplaît ; j’explique pourquoi dans [la carte de clarification](/fr/blog/carte-de-clarification-tarot/).
+5. *Un seul tirage par question.* Pas de nouveau mélange, pas de carte en plus pour sauver une carte qui vous déplaît : [une carte de clarification](/fr/blog/carte-de-clarification-tarot/) ajoute une histoire au lieu d’éclairer la première.
 6. *Lisez au présent.* « Qu’est-ce qui se passe ? » plutôt que « qu’est-ce qui va arriver ? ». Le présent, vous pouvez le vérifier ; l’avenir, vous ne pouvez que l’attendre.
-7. *Relisez une semaine plus tard.* Notez ce qui a tenu et ce qui n’a pas tenu. C’est la plus importante des sept, et c’est l’habitude que je décris dans [tenir un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/).
+7. *Relisez une semaine plus tard.* Cochez ce qui s’est confirmé, barrez le reste. C’est la plus importante des sept, et c’est l’habitude que je décris dans [tenir un carnet de tirages](/fr/blog/carnet-de-tirage-tarot/).
 
 Voici à quoi ça ressemble sur une page. Imaginons que, un lundi, vous écriviez : « De quoi ai-je besoin avant de parler à ma sœur samedi ? » Vous mélangez, vous tirez une fois, et c’est la Reine d’Épées.
 
@@ -73,23 +73,23 @@ Les questions qui marchent le mieux portent sur vous, maintenant, et sur quelque
 
 Remarquez ce qu’elles ont en commun : aucune ne se règle par un oui, et toutes vous laissent la décision. Si une question commence dans votre tête par « est-ce qu’il va » ou « est-ce que ça va », retournez-la avant de mélanger. « Est-ce qu’il va appeler ? » devient « Qu’est-ce que j’ai envie de dire s’il appelle ? » — et celle-là, vous pouvez la vérifier.
 
-Les questions sur un résultat qui ne dépend pas de vous, ou sur ce que pense quelqu’un d’autre, marchent encore moins bien pour soi que pour les autres : le souhait est assis dans le fauteuil du lecteur. Et celles que je laisse entièrement de côté — la santé, la mort, la grossesse, les procès, les décisions d’argent — ne deviennent pas plus faciles quand on se lit soi-même. Elles deviennent plus difficiles, parce que c’est la peur qui tient le jeu. Pour chacune, il existe [une question plus douce qu’une carte peut porter](/fr/blog/questions-a-eviter-tarot/).
+Les questions sur un résultat qui ne dépend pas de vous, ou sur ce que pense quelqu’un d’autre, marchent encore moins bien pour soi que pour les autres : le souhait est assis dans le fauteuil du lecteur. Et celles que je laisse entièrement de côté — un résultat médical, la peur d’un deuil, une grossesse, un litige, une grosse dépense — ne deviennent pas plus faciles quand on se lit soi-même. Elles deviennent plus difficiles, parce que c’est la peur qui tient le jeu. Pour chacune, il existe [une question plus douce qu’une carte peut porter](/fr/blog/questions-a-eviter-tarot/).
 
 ## Quand ranger le jeu {#ranger-le-jeu}
 
 Se tirer les cartes est un bon entraînement. Ça peut aussi devenir une habitude qui produit l’inverse de ce que vous cherchiez. Quelques signes :
 
 - Quelque chose vous bouleverse et vous voulez que les cartes vous apaisent. Vous lirez le bouleversement, pas la carte.
-- Vous avez posé la même question plus de deux fois dans le mois. Ce n’est plus lire, c’est attendre une permission. J’en parle dans [ce que les tirages à répétition vous font](/fr/blog/combien-de-temps-entre-deux-tirages/).
+- Voilà trois fois ce mois-ci que vous posez la même question. Ce n’est plus lire, c’est attendre une permission. J’ai écrit sur [l’attente qu’il vaut mieux respecter avant de reposer une question](/fr/blog/combien-de-temps-entre-deux-tirages/).
 - Vous attendez qu’une carte prenne une décision que vous pourriez prendre aujourd’hui. Rangez le jeu et prenez-la vous-même : elle vous revient.
-- Les cartes tiennent la place d’une personne : une amie que vous n’avez pas appelée, un médecin à qui vous n’avez pas encore parlé, un ou une thérapeute. Parfois, ce qui se passe est d’ordre psychologique, et la bonne porte n’est pas un jeu de cartes. Il n’y a aucun échec à la franchir.
+- Les cartes tiennent la place d’une personne : une amie que vous n’avez pas appelée, un médecin à qui vous n’avez pas encore parlé, un ou une thérapeute. Parfois, ce qui se passe est d’ordre psychologique, et la bonne porte n’est pas un jeu de cartes. Pousser cette porte-là n’a rien d’une défaite.
 
 Dans chacun de ces cas, quelques semaines sans les cartes font plus qu’un tirage de plus. Vous avez besoin de vous faire confiance, de décider, de vous tromper et de vivre avec un peu d’imperfection — et ces muscles-là ne se développent que quand le jeu ne porte pas la charge à votre place.
 
 ## Ensuite, lisez pour quelqu’un qui ne vous dit rien {#lire-pour-les-autres}
 
-Se tirer les cartes vous apprend le jeu. Lire pour quelqu’un d’autre vous apprend si vous savez lire. Seule une autre personne peut s’asseoir en face, se taire, puis vous dire ce qui a touché juste et ce qui est tombé à côté.
+Se tirer les cartes vous apprend le jeu. Lire pour quelqu’un d’autre vous apprend si vous savez lire. Seule une autre personne peut s’asseoir en face, se taire, puis vous dire où vous avez visé juste et où vous êtes tombé à côté.
 
-Alors, après quelques semaines d’une carte chaque matin, trouvez une personne : une amie capable de garder un visage de joueur de poker, un inconnu dans un groupe de tarot, une correspondante. Tirez une carte, dites ce que vous voyez, et ne laissez la personne parler qu’à la fin. La première fois que vous direz quelque chose de vrai sur quelqu’un qui ne vous a rien dit, et que la surprise sera des deux côtés de la table, vous comprendrez pourquoi j’enseigne.
+Alors, après quelques semaines d’une carte chaque matin, trouvez une personne : une amie capable de rester de marbre, un inconnu dans un groupe de tarot, une correspondante. Tirez une carte, dites ce que vous voyez, et ne laissez la personne parler qu’à la fin. La première fois que vous direz quelque chose de vrai sur quelqu’un qui ne vous a rien dit, et que la surprise sera des deux côtés de la table, vous comprendrez pourquoi j’enseigne.
 
-Si vous ne savez pas où chercher, voici [où trouver des personnes à qui tirer les cartes, et qui ne vous disent rien](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/).
+Si vous ne savez pas où chercher, [voici les pistes qui m’ont servi au début](/fr/blog/trouver-des-personnes-a-qui-tirer-les-cartes/).

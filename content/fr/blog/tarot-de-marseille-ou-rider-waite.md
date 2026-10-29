@@ -27,13 +27,13 @@ Petite parenthèse : pour beaucoup de Français, « le tarot », c’est d’abo
 
 Le Rider-Waite-Smith est le jeu publié à Londres en 1909, dessiné par Pamela Colman Smith sous la direction d’Arthur Edward Waite. À qui appartiennent les trois noms, et comment il est devenu la référence, c’est [une histoire à part](/fr/blog/tarot-rider-waite-smith/). Ce qui compte ici : il garde la structure de 78 cartes et transforme complètement les mineurs. Chacun des 56 a sa scène, avec des personnages en action.
 
-Ses familles sont les Bâtons, les Coupes, les Épées et les Pentacles. Le Huit de Coupes y montre un personnage en manteau rouge qui s’éloigne de huit coupes empilées, vers les montagnes, sous la lune. Vous comprenez qu’on laisse quelque chose derrière soi avant d’avoir compté.
+Ses familles sont les Bâtons, les Coupes, les Épées et les Pentacles. Le Huit de Coupes y montre un voyageur vêtu de rouge qui abandonne huit coupes bien rangées et gagne les montagnes, sous la lune. Vous comprenez qu’on laisse quelque chose derrière soi avant d’avoir compté.
 
 ## Cartes de points ou images : comment on lit chacune {#points-ou-images}
 
-Sur une carte de points du Marseille, le nombre et la famille sont presque tout ce que vous avez, alors c’est ça que vous lisez. Le huit est un quatre « exalté » : une stabilité durable, le contrôle, une porte. Les Coupes, c’est l’Eau, les émotions. Ensemble : une stabilité émotionnelle qui tient — et la question de ce qu’on en fait. La disposition aide : coupes serrées ou espacées, quelque chose qui pousse entre elles ?
+Sur une carte de points du Marseille, le nombre et la famille sont presque tout ce que vous avez, alors c’est ça que vous lisez. Le huit, c’est le quatre porté plus haut : une stabilité qui dure, la maîtrise, un passage. Les Coupes, c’est l’Eau, les émotions. Ensemble : une stabilité émotionnelle qui tient — et la question de ce qu’on en fait. La disposition aide : coupes serrées ou espacées, quelque chose qui pousse entre elles ?
 
-Sur une carte du Rider-Waite-Smith, vous lisez la scène d’abord, et le nombre vient confirmer. Ma note pour ce Huit de Coupes, c’est « quitter ce qu’on est déjà en train de faire », et le personnage qui s’en va le dit sans un mot.
+Sur une carte du Rider-Waite-Smith, vous lisez la scène d’abord, et le nombre vient confirmer. Ma note pour ce Huit de Coupes : tourner la page de ce qui nous occupe en ce moment, et le personnage qui s’en va le dit sans un mot.
 
 **Les points font penser en nombres ; les images font regarder.** C’est pour ça que le Marseille vous pousse à connaître votre [numérologie](/fr/bibliotheque/numerologie/) sur le bout des doigts, et que le Rider-Waite-Smith vous laisse lire une carte dès le premier jour. Les clés de lecture que j’enseigne fonctionnent sur les deux : sur un point du Marseille, nombre et élément font presque tout le travail ; sur une carte du Rider-Waite-Smith, ils vérifient ce que l’image a déjà dit.
 

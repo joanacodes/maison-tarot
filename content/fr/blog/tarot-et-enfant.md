@@ -45,9 +45,9 @@ Un enfant de six ans qui invente une histoire sur le Soleil joue. Une collégien
 
 ## Les cartes qui peuvent leur faire peur {#cartes-qui-font-peur}
 
-La Mort, la Tour, le Dix d’Épées : certaines images sont dures, et un enfant posera des questions. Répondez franchement. Dans mes notes, la Mort ne parle pas du tout de mourir ; elle est liée à la moisson, au fait de recommencer. La Tour, c’est un bâtiment frappé par la foudre, quelque chose qui avait l’air solide et qui tremble. Vous pouvez l’expliquer comme on explique une page qui fait peur dans un livre d’images : quelque chose se termine, quelque chose de neuf commence.
+La Mort, la Tour, le Dix d’Épées : certaines images sont dures, et un enfant posera des questions. Répondez franchement. Telle que je la note, la Mort ne désigne pas le fait de mourir : elle évoque ce qu’on récolte et ce qui recommence. La Tour, c’est un bâtiment frappé par la foudre, quelque chose qui avait l’air solide et qui tremble. Vous pouvez l’expliquer comme on explique une page qui fait peur dans un livre d’images : quelque chose se termine, quelque chose de neuf commence.
 
-Si une carte le bouleverse, rangez-la, et ne lui faites rien dire. [Les lames qui font peur sont plus douces qu’elles n’en ont l’air](/fr/blog/cartes-tarot-qui-font-peur/), mais un enfant n’a pas à le croire sur parole à l’heure du coucher.
+Si une carte le bouleverse, rangez-la, et ne lui faites rien dire. [Les cartes les plus effrayantes cachent souvent un sens plus tendre](/fr/blog/cartes-tarot-qui-font-peur/), mais un enfant n’a pas à le croire sur parole à l’heure du coucher.
 
 ## Ce qu’on peut lui apprendre à la place de l’avenir {#quoi-apprendre}
 

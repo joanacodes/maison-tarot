@@ -9,9 +9,9 @@ tags: ["tarot de Thoth", "Thoth ou Rider-Waite", "tarot Aleister Crowley", "Frie
 image: "covers/thoth-vs-rider-waite.jpg"
 imageAlt: "Deux cartes de tarot de jeux différents posées côte à côte sur une table en bois, un carnet ouvert et un crayon à côté"
 imagePrompt: "Two tarot cards from two different decks lying side by side on a wooden table, an open notebook and a pencil next to them. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Le tarot de Thoth est le jeu conçu par Aleister Crowley et peint par Frieda Harris entre 1938 et 1943 ; il n’a été imprimé en jeu de cartes qu’en 1969, après leur mort à tous les deux. Passer du Rider-Waite-Smith au Thoth change trois choses. Plusieurs arcanes majeurs changent de nom (la Force devient Lust, la Justice Adjustment, Tempérance Art). Les figures deviennent Chevalier, Reine, Prince et Princesse, et les Pentacles des Disques. Et les mineures perdent leurs scènes : vous lisez un nombre, un élément, des couleurs, un titre d’un mot et un signe astrologique."
+summary: "Le tarot de Thoth associe la symbolique d’Aleister Crowley aux tableaux de Frieda Harris, peints entre 1938 et 1943 ; il n’a été imprimé en jeu de cartes qu’en 1969, après leur mort à tous les deux. Passer du Rider-Waite-Smith au Thoth change trois choses. Plusieurs arcanes majeurs changent de nom (la Force devient Lust, la Justice Adjustment, Tempérance Art). Les figures deviennent Chevalier, Reine, Prince et Princesse, et les Pentacles des Disques. Et les mineures perdent leurs scènes : vous lisez un nombre, un élément, des couleurs, un titre d’un mot et un signe astrologique."
 ---
-Le tarot de Thoth est le jeu conçu par Aleister Crowley et peint par Frieda Harris entre 1938 et 1943 ; il n’a été imprimé en jeu de cartes qu’en 1969, après leur mort à tous les deux. Passer du Rider-Waite-Smith au Thoth change trois choses : les mineures perdent leurs scènes, plusieurs majeurs et toutes les figures changent de nom, et l’astrologie est imprimée sur les cartes. Dans mes propres notes, le Thoth est rangé sous « à explorer plus tard » : très abouti, puissant, avec un côté très occulte. Ce qui suit est donc la comparaison d’une lectrice du Rider-Waite-Smith, pas un cours sur le Thoth.
+Le tarot de Thoth, c’est la symbolique d’Aleister Crowley mise en peinture par Frieda Harris entre 1938 et 1943 ; il n’a été imprimé en jeu de cartes qu’en 1969, après leur mort à tous les deux. Passer du Rider-Waite-Smith au Thoth change trois choses : les mineures perdent leurs scènes, plusieurs majeurs et toutes les figures changent de nom, et l’astrologie est imprimée sur les cartes. Dans mes propres notes, le Thoth est rangé sous « à explorer plus tard » : très abouti, puissant, avec un côté très occulte. Ce qui suit est donc la comparaison d’une lectrice du Rider-Waite-Smith, pas un cours sur le Thoth.
 
 ## Ce qu’est le tarot de Thoth {#ce-que-cest}
 
@@ -30,7 +30,7 @@ Huit des 22 majeurs changent de nom, et deux changent de numéro. Les noms du Th
 | I Le Magicien | I The Magus (le Mage) |
 | II La Grande Prêtresse | II The Priestess (la Prêtresse) |
 | VIII La Force | XI Lust (le désir ardent) |
-| X La Roue de Fortune | X Fortune |
+| X Roue de Fortune | X Fortune |
 | XI La Justice | VIII Adjustment (l’Ajustement) |
 | XIV Tempérance | XIV Art |
 | XX Le Jugement | XX The Aeon (l’Éon) |

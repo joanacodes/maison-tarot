@@ -23,13 +23,13 @@ Imaginez que vous retourniez le Six de Coupes pour une amie : deux enfants dans 
 
 Comme il a votre voix, on est tenté de le jeter, ou de se soupçonner de l’avoir inventé. Il existe des façons de [distinguer une lecture d’une invention](/fr/blog/est-ce-que-jinvente-tarot/), et aucune ne se joue sur le moment : elles interviennent après coup, quand vous vérifiez.
 
-Les cartes aident, modestement. Elles donnent à vos yeux un endroit où se poser, si bien que vos propres pensées et vos a priori s’écartent le temps que quelque chose d’autre passe. Avec la pratique, le mot peut arriver avant même que vous ayez mélangé. Je l’ai noté pendant ma première année complète de lecture, et j’ai remis [cette phrase de mes notes de 2021](/fr/blog/ce-que-je-croyais-du-tarot/) dans son contexte ailleurs.
+Les cartes aident, modestement. Elles donnent à vos yeux un endroit où se poser, si bien que vos idées toutes faites cèdent la place, le temps que quelque chose d’autre passe. Avec la pratique, le mot peut arriver avant même que vous ayez mélangé. Je l’ai noté pendant ma première année complète de lecture, et j’ai remis [cette phrase de mes notes de 2021](/fr/blog/ce-que-je-croyais-du-tarot/) dans son contexte ailleurs.
 
 ## Parfois, c’est une émotion qui n’est pas la vôtre {#pas-la-votre}
 
 À l’autre bout de l’échelle, ce qui arrive n’est pas un mot mais un ressenti. Les sensations et les émotions sont des canaux, elles aussi, et chez certains tarologues ce sont les plus bruyants.
 
-Imaginez que vous lisiez pour quelqu’un et qu’une lourdeur s’installe en vous, qui n’était pas là une minute plus tôt. Rien dans votre propre journée ne l’explique. C’est à ça que l’empathie peut ressembler quand on lit. Dans mes notes, l’empathie, c’est ressentir et comprendre les émotions de l’autre tout en gardant les siennes. Les tarologues très empathiques peuvent finir par ressentir les émotions de la personne, et parfois par les exprimer, comme si elles leur appartenaient.
+Imaginez que vous lisiez pour quelqu’un et qu’une lourdeur s’installe en vous, qui n’était pas là une minute plus tôt. Rien dans votre propre journée ne l’explique. C’est à ça que l’empathie peut ressembler quand on lit. Mes notes la définissent ainsi : percevoir ce que vit l’autre et le comprendre, sans perdre le fil de ce que vous vivez vous-même. Chez les plus empathiques, la frontière peut céder : on se met à éprouver ce que ressent la personne, parfois jusqu’à l’exprimer à sa place, comme si c’était à soi.
 
 C’est là qu’il faut faire attention. Si vous pleurez les larmes de la personne en face, vous ne lisez plus pour elle ; c’est elle qui s’occupe de vous.
 
@@ -41,9 +41,9 @@ C’est là qu’il faut faire attention. Si vous pleurez les larmes de la perso
 2. Ralentissez. Gardez une voix posée et des mots sobres. « Il y a beaucoup d’émotion autour de ça » aide la personne ; un commentaire en direct de ce qui se passe dans votre poitrine, non.
 3. Écoutez l’émotion sans la laisser prendre le dessus. C’est une information sur le tirage, pas un ordre.
 4. Si c’est trop, arrêtez. On peut toujours finir un autre jour, et personne n’a droit à un tirage à vos dépens.
-5. Après, reposez-vous. Interpréter demande de l’énergie, et on peut se sentir très fatigué après un tirage ; écoutez votre corps. Il m’arrive de m’arrêter au bout de deux heures de tirages, par prudence. J’ai écrit sur [la fatigue après un tirage](/fr/blog/energie-apres-un-tirage/) et sur ce qui aide.
+5. Après, reposez-vous. Interpréter demande de l’énergie, et on peut se sentir très fatigué après un tirage ; écoutez votre corps. Moi-même, il me semble plus sage, parfois, de m’interrompre une fois passées deux heures. J’ai écrit sur [la fatigue après un tirage](/fr/blog/energie-apres-un-tirage/) et sur ce qui aide.
 
-Rien de tout cela n’est prouvé. C’est mon expérience, et l’hypothèse que j’en tire.
+Rien de tout cela n’est prouvé : je vous livre ce que j’ai vécu, et la façon dont je me l’explique.
 
 ## Le moment où l’on se surprend soi-même {#se-surprendre}
 

@@ -9,7 +9,7 @@ tags: ["carte de clarification", "carte supplémentaire tarot", "tirer une carte
 image: "covers/the-clarifier-card.jpg"
 imageAlt: "Trois cartes face cachée alignées sur une table en bois, une quatrième posée à l’écart au bord"
 imagePrompt: "Three cards lying face down in a row on a wooden table, a fourth card set apart at the edge of the table, also face down. Editorial photograph, 35mm, one soft light source (daylight or a lamp), shallow depth of field, warm natural colours that also read well in black and white, strong contrast and light film grain, plain background, no text, no logo, 4:3. No candles, crystals, incense, smoke, moons, stars, galaxies, hands hovering over cards, purple light, crystal balls, mystical props, watermarks, text."
-summary: "Une carte de clarification est une carte supplémentaire tirée après un tirage pour expliquer une carte qui semble obscure. Je n’en tire pas. Une carte de plus n’éclaire pas la première : elle ajoute une deuxième image et une deuxième histoire, et avec assez de cartes, n’importe quel tirage finit par coller. On la tire souvent quand la lecture n’a pas touché juste, ce qui cache la seule chose utile à savoir : qu’elle a raté. Quand une carte me déroute, je la décris, je lis son nombre, son élément et ses couleurs, je dis ce que je vois, et si ça ne tient toujours pas, j’appelle ça un raté."
+summary: "Une carte de clarification est une carte supplémentaire tirée après un tirage pour expliquer une carte qui semble obscure. Je n’en tire pas. La carte ajoutée ne rend pas la première plus lisible : elle apporte une autre image et une autre histoire, et avec assez de cartes, n’importe quel tirage finit par coller. On la tire souvent quand la lecture n’a pas touché juste, ce qui cache la seule chose utile à savoir : qu’elle a raté. Quand une carte me déroute, je la décris, je lis son nombre, son élément et ses couleurs, je dis ce que je vois, et si ça ne tient toujours pas, j’appelle ça un raté."
 ---
 Une carte de clarification, c’est une carte supplémentaire qu’on tire quand une partie du tirage reste obscure, pour expliquer la carte qui pose problème. Je n’en tire pas. Une carte de plus éclaire rarement un tirage : elle vous donne une deuxième histoire à coudre sur la première, et elle cache la seule chose qu’il faut savoir — si la première lecture a touché juste.
 
@@ -37,7 +37,7 @@ Beaucoup de tarologues utilisent des cartes de clarification, et certains avec s
 
 ## Ce que je fais quand une lecture ne tient pas {#quand-ca-rate}
 
-À mon propre décompte, environ une lecture sur dix rate. Quand la personne me dit « non, rien de tout ça », je dis « celle-là est ratée », je le note, et je ne retire pas de carte.
+Mes comptes donnent à peu près un raté toutes les dix lectures. Quand la personne me dit « non, rien de tout ça », je dis « celle-là est ratée », je le note, et je ne retire pas de carte.
 
 Si je tirais une carte de clarification à ce moment-là, je ne lirais plus ; je négocierais. Et je perdrais le seul chiffre honnête dont je dispose. Mon décompte de ce qui a tenu et de ce qui n’a pas tenu n’a de sens que parce que je ne repêche aucun raté. Compter est la colonne vertébrale de [ma méthode](/fr/methode/), et une seule lecture « sauvée » la fausserait sans bruit.
 
@@ -48,7 +48,7 @@ C’est aussi plus doux que ça en a l’air. La personne en face n’a pas à f
 Une carte déroutante est souvent une carte qu’on n’a pas regardée assez longtemps. Revenez vers elle au lieu de vous en éloigner.
 
 1. *Décrivez le dessin à voix haute.* Le Quatre de Coupes : un jeune homme assis sous un arbre, les bras croisés, trois coupes dans l’herbe devant lui, et une main sortie d’un nuage qui lui en tend une quatrième, qu’il ne regarde pas.
-2. *Lisez les clés de lecture.* Le quatre, c’est la stabilité, la structure, le fruit de votre travail ; [son conseil](/fr/bibliotheque/numerologie/chiffre-4/), c’est de rester ouvert à l’imprévu, et son revers, c’est de continuer quand il faudrait s’arrêter. Les Coupes, c’est l’Eau : les émotions.
+2. *Lisez les clés de lecture.* Le quatre, c’est la stabilité, la structure, le fruit de votre travail ; [son conseil](/fr/bibliotheque/numerologie/chiffre-4/), c’est de rester ouvert à l’imprévu, et son piège, de s’obstiner quand il serait temps d’arrêter. Côté famille, les Coupes sont l’Eau, le domaine des émotions.
 3. *Dites ce que vous voyez, même si c’est peu.* « Vous êtes bien installé — peut-être trop — et on vous propose quelque chose que vous n’avez pas encore regardé. »
 4. *Laissez la personne répondre, après.* Si ça tient, tant mieux. Si ça ne tient pas, c’est aussi une réponse.
 5. *Si ça n’a toujours aucun sens, dites-le.* « Je ne sais pas ce que fait celle-ci. » Une carte non lue est plus honnête qu’une carte rafistolée.

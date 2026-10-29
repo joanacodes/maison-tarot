@@ -27,7 +27,7 @@ Les cartes peuvent aussi tenir un souvenir, le temps d’un instant. Une carte c
 
 Est-elle en paix ? M’entend-il ? M’a-t-elle pardonné ? Aurais-je pu faire quelque chose ? Quand est-ce que ça cessera de faire mal ?
 
-Ce sont les questions qu’on apporte, et elles viennent de l’amour, souvent aussi d’une culpabilité qui ne sait pas où aller. Je comprends qu’on veuille qu’une carte y réponde. Je ne lis pas sur ces questions, et voici pourquoi : une carte ne peut pas savoir, et si elle semble répondre, c’est vous qui remplissez la réponse. Sur un sujet aussi tendre, une mauvaise réponse peut vous accompagner des années. D’après mon propre décompte, environ une lecture sur dix rate ; c’est acceptable pour une question sur votre semaine, c’est trop pour celle-ci. J’en dis plus dans [pourquoi je m’écarte des questions de santé et de décès](/fr/blog/sante-grossesse-deces-tarot/).
+Ce sont les questions qu’on apporte, et elles viennent de l’amour, souvent aussi d’une culpabilité qui ne sait pas où aller. Je comprends qu’on veuille qu’une carte y réponde. Je ne lis pas sur ces questions, et voici pourquoi : une carte ne peut pas savoir, et si elle semble répondre, c’est vous qui remplissez la réponse. Sur un sujet aussi tendre, une mauvaise réponse peut vous accompagner des années. Chez moi, une lecture sur dix passe à côté ; c’est acceptable pour une question sur votre semaine, c’est trop pour celle-ci. J’en dis plus dans [pourquoi je m’écarte des questions de santé et de décès](/fr/blog/sante-grossesse-deces-tarot/).
 
 Ce qui aide à la place : écrivez-lui une lettre avec la question dedans, et gardez-la. Racontez votre souvenir à quelqu’un qui l’a connu. Et interrogez les cartes sur vous : c’est la part qu’elles peuvent porter.
 

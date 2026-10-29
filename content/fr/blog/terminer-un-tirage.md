@@ -20,7 +20,7 @@ Un tirage se termine bien quand la personne repart plus légère, sa décision e
 1. Qu’est-ce qui a tenu ?
 2. Qu’est-ce qui n’a pas tenu ?
 3. Qu’est-ce qui vous a étonné ?
-4. Y a-t-il quelque chose que vous vous attendiez à entendre et qui n’est pas venu ?
+4. Qu’espériez-vous entendre qui n’est pas venu ?
 
 Écoutez sans vous défendre. Si quelque chose a raté, dites « celui-là est raté » et restez-en là ; je détaille la marche à suivre dans [que faire quand un tirage est faux ?](/fr/blog/tirage-faux-que-faire/)
 
@@ -30,7 +30,7 @@ La quatrième question compte plus qu’elle n’en a l’air. Parfois, ce pour 
 
 Ensuite, rendez le tirage à qui il appartient. Un tirage peut montrer quelque chose ; il ne peut pas choisir, et le tarologue qui le laisse décider porte une responsabilité qui n’est pas la sienne. Pour conclure, il y a une idée à laquelle je tiens : n’agissez pas sur une carte, agissez selon ce que vous ressentez.
 
-Vous pouvez le formuler ainsi : « Voilà ce que je vois. Ce que vous en faites vous appartient. Si quelque chose ne vous paraît pas juste, faites-vous confiance plutôt qu’aux cartes. »
+Vous pouvez le formuler ainsi : « Voilà ce que je vois. La suite, c’est vous qui la choisissez. Si quelque chose ne vous paraît pas juste, faites-vous confiance plutôt qu’aux cartes. »
 
 **Le dernier mot d’un tirage devrait revenir à la personne, pas aux cartes.** J’explique pourquoi dans [le tarot n’est pas une autorité](/fr/blog/le-tarot-nest-pas-une-autorite/).
 
@@ -38,11 +38,11 @@ Vous pouvez le formuler ainsi : « Voilà ce que je vois. Ce que vous en faites 
 
 Ne terminez pas par le récapitulatif de toutes les cartes. Choisissez une phrase que la personne peut emporter, idéalement quelque chose qu’elle peut faire cette semaine. Finir sur une bonne note, ce n’est pas enjoliver ; c’est donner une prise.
 
-Si la dernière carte est lourde, lisez-la jusqu’au bout au lieu de vous arrêter à son pire mot. Imaginons que le tirage se ferme sur le Neuf d’Épées : une silhouette assise dans son lit, dans le noir, le visage dans les mains, neuf épées alignées sur le mur derrière elle.
+Si la dernière carte est lourde, lisez-la jusqu’au bout au lieu de vous arrêter à son pire mot. Imaginons que le tirage se ferme sur le Neuf d’Épées : une silhouette assise dans son lit, dans le noir, la tête enfouie dans ses mains, sous neuf épées accrochées au mur.
 
 {{< cards "sw09" >}}
 
-« Angoisse », c’est le mot que tout le monde connaît. Mais dans mes notes, le [Neuf d’Épées](/fr/bibliotheque/cartes-tarot/neuf-de-epees/), c’est aussi sortir d’un cauchemar : la fin d’une longue période troublée, avec une protection au-dessus de soi. Les épées sont au mur, pas dans le lit. La phrase de fin pourrait être : « Vous sortez de quelque chose qui vous a empêché de dormir. Une seule chose cette semaine : la nuit porte conseil, ne décidez rien avant d’avoir dormi dessus. »
+« Angoisse », c’est le mot que tout le monde connaît. Mais dans mes notes, le [Neuf d’Épées](/fr/bibliotheque/cartes-tarot/neuf-de-epees/), c’est aussi le réveil après le cauchemar : un long passage difficile qui s’achève, sous une protection placée plus haut. Les épées sont au mur, pas dans le lit. La phrase de fin pourrait être : « Vous sortez de quelque chose qui vous a empêché de dormir. Une seule chose cette semaine : la nuit porte conseil, ne décidez rien avant d’avoir dormi dessus. »
 
 Voilà une fin qu’on peut emporter. Une liste de dix significations, non.
 
@@ -50,7 +50,7 @@ Voilà une fin qu’on peut emporter. Une liste de dix significations, non.
 
 C’est à la fin que les tirages déraillent, souvent avec les meilleures intentions :
 
-- *Une carte « pour l’issue ».* Si le tirage n’en prévoyait pas, ne l’ajoutez pas sur le pas de la porte. Une dernière carte réécrit tout ce qui précède ; j’explique pourquoi dans [la carte de clarification](/fr/blog/carte-de-clarification-tarot/).
+- *Une carte « pour l’issue ».* Si le tirage n’en prévoyait pas, ne l’ajoutez pas sur le pas de la porte. Une dernière carte réécrit tout ce qui précède : c’est le piège de [la carte de clarification](/fr/blog/carte-de-clarification-tarot/).
 - *« Une dernière petite question ? »* Avec douceur : « On va s’arrêter là pour aujourd’hui. Ce qu’on a suffit pour réfléchir. »
 - *Le prochain rendez-vous.* « Revenez la semaine prochaine, on verra » transforme un tirage en abonnement. Un tirage se termine quand il se termine.
 - *Une date à attendre.* « Vous rencontrerez quelqu’un avant le printemps » renvoie la personne chez elle pour attendre au lieu de vivre. Finissez sur ce qu’elle peut faire, pas sur ce qui va lui arriver.
@@ -66,6 +66,6 @@ Et si l’on vous demande quand revenir, la réponse honnête est : quand quelqu
 
 ## Une fois la personne partie {#apres}
 
-Notez ce que vous avez dit et ce qu’elle a confirmé tant que c’est frais, en deux colonnes. Puis occupez-vous de vous. Interpréter demande de l’énergie, et une grosse fatigue après un tirage est fréquente ; il m’arrive d’arrêter au bout de deux heures de lectures, par prudence. J’en parle dans [la fatigue après un tirage](/fr/blog/energie-apres-un-tirage/).
+Tant que c’est frais, consignez vos phrases d’un côté et ses confirmations de l’autre. Puis occupez-vous de vous. Interpréter demande de l’énergie, et une grosse fatigue après un tirage est fréquente ; de mon côté, il arrive que je range les cartes au terme de deux heures de suite, par prudence. J’en parle dans [la fatigue après un tirage](/fr/blog/energie-apres-un-tirage/).
 
 La prochaine fois que vous tirez les cartes pour quelqu’un, essayez les quatre questions de clôture et une phrase qui rend la décision. Et si c’est un ami en face de vous, la même délicatesse vaut dès la première carte : [tirer les cartes pour quelqu’un d’autre](/fr/blog/tirer-les-cartes-pour-quelquun/).

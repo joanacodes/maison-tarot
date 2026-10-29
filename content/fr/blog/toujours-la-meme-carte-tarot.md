@@ -37,7 +37,7 @@ Imaginons quelqu’un qui tire le Huit d’Épées cinq fois en deux semaines.
 
 {{< cards "sw08" >}}
 
-Une femme debout, ligotée et les yeux bandés, huit épées plantées dans le sol autour d’elle. Ses pieds ne sont pas attachés, et les épées ne ferment pas le cercle. Pour moi, [le Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/), c’est être prisonnier de soi-même alors qu’on a tous les outils en main : on peut enlever le bandeau. Si cette personne répète depuis des semaines qu’elle ne peut pas quitter son travail, ce n’est pas la carte qui est coincée. C’est elle, et elle le sait.
+Une femme debout, ligotée et les yeux bandés, huit épées plantées dans le sol autour d’elle. Ses pieds ne sont pas attachés, et les épées ne ferment pas le cercle. Pour moi, [le Huit d’Épées](/fr/bibliotheque/cartes-tarot/huit-de-epees/), c’est s’emprisonner soi-même alors que chaque outil nécessaire est déjà là : le bandeau, on peut l’enlever. Si cette personne répète depuis des semaines qu’elle ne peut pas quitter son travail, ce n’est pas la carte qui est coincée. C’est elle, et elle le sait.
 
 Que faire ? Traitez la carte qui revient comme une question plutôt que comme un verdict. Écrivez : « Si cette carte avait raison à mon sujet, que ferais-je cette semaine ? » Puis faites la plus petite version de la réponse. Parfois, dès que quelque chose bouge, la carte cesse de sortir — ou vous cessez de la remarquer, ce qui, comme on l’a vu plus haut, revient parfois au même.
 
@@ -47,7 +47,7 @@ Les cartes qui inquiètent quand elles reviennent, ce n’est presque jamais le 
 
 {{< cards "ar16 ar13 sw10" >}}
 
-La Tour, la Mort, le Dix d’Épées. En voir une trois fois dans la semaine peut ressembler à un avertissement ; aucune des trois n’en est un. La Mort ne parle pas de mourir ; dans mes notes, c’est la moisson, la fin d’une chose pour qu’une autre puisse être semée. La Tour, c’est un changement brusque, souvent de quelque chose qui était déjà fissuré. Le Dix d’Épées, c’est toucher le fond — et le ciel, au bas de la carte, est en train de s’éclaircir. Je les reprends une par une dans [les lames qui font peur, et pourquoi elles sont plus douces qu’il n’y paraît](/fr/blog/cartes-tarot-qui-font-peur/).
+La Tour, la Mort, le Dix d’Épées. En voir une trois fois dans la semaine peut ressembler à un avertissement ; aucune des trois n’en est un. La Mort ne parle pas de mourir ; mes notes y voient une moisson : une chose finit pour qu’une autre puisse être semée. La Tour, c’est un changement brusque, souvent de quelque chose qui était déjà fissuré. Le Dix d’Épées, c’est toucher le fond — et le ciel, au bas de la carte, est en train de s’éclaircir. Je les reprends une par une dans [mon article sur les cartes redoutées](/fr/blog/cartes-tarot-qui-font-peur/).
 
 Une carte lourde qui se répète n’annonce pas une catastrophe. Lisez-la comme n’importe quelle autre : le nombre, l’élément, les couleurs. Et si l’inquiétude est plus grande que la carte — vous rebattez le jeu la nuit, vous n’arrivez pas à vous poser —, rangez les cartes quelque temps. Elles vous attendront.
 

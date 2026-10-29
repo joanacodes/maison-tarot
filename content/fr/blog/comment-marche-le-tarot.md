@@ -17,7 +17,7 @@ La réponse honnête à « comment marche le tarot ? », c’est que je ne sais 
 
 La lecture froide, c’est la technique des voyants de scène : on observe la personne, on lance des hameçons, on dit quelque chose de vague, on regarde ce qui accroche, et on suit. « Je sens une perte… un homme… plus âgé… », et le visage en face vous dit quand vous brûlez. Ça marche, c’est un savoir-faire, et une bonne partie de ce qui se présente comme du tarot, c’est de la lecture froide avec des cartes en guise d’accessoire.
 
-Je la prends au sérieux parce que c’est la façon la plus facile de se tromper soi-même. Alors j’ai retiré ce dont elle se nourrit. La personne ne me dit rien : ni question, ni contexte, parfois même pas son prénom. En visio, je lis souvent un carré noir. Sans visage à lire ni rien où lancer l’hameçon, la lecture froide n’a plus de prise, et les lectures tombent juste quand même. Ça ne réfute pas la théorie pour les autres lecteurs. Ça l’écarte pour moi.
+Je la prends au sérieux parce que c’est la façon la plus facile de se tromper soi-même. Alors j’ai retiré ce dont elle se nourrit. On ne me confie rien avant de commencer : aucune question, aucun contexte, parfois pas même un prénom. En visio, je lis souvent un carré noir. Sans visage à lire ni rien où lancer l’hameçon, la lecture froide n’a plus de prise, et les lectures tombent juste quand même. Ça ne réfute pas la théorie pour les autres lecteurs. Ça l’écarte pour moi.
 
 ## Deuxième théorie : l’effet Barnum {#effet-barnum}
 

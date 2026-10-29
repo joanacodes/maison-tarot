@@ -61,7 +61,7 @@ La plupart des sites de thème astral affichent le Nœud Nord parmi les planète
 
 ## Ce que je peux en dire, et ce que je ne peux pas {#limites}
 
-Je n’ai aucun chiffre pour les Nœuds. Quand j’ai [testé mon thème astral case par case](/fr/blog/j-ai-teste-mon-theme-astral/), les 30 à 40 % dans l’ensemble et les 75 à 90 % pour Saturne, Lilith et Chiron venaient d’autres positions. J’aime les Nœuds comme façon de regarder ; je ne les ai pas vérifiés.
+Je n’ai aucun chiffre pour les Nœuds. Quand j’ai [vérifié mon thème position par position](/fr/blog/j-ai-teste-mon-theme-astral/), mes résultats — 30 à 40 % de positions justes au total ; Saturne, Lilith et Chiron, eux, montaient entre 75 et 90 % — concernaient d’autres points du thème. J’aime les Nœuds comme façon de regarder ; je ne les ai pas vérifiés.
 
 Deux autres limites, sans détour. Tous ceux qui sont nés dans le même intervalle d’un an et demi partagent vos signes de Nœuds : c’est la maison qui est la plus personnelle. Et ils n’ont pas de carte de tarot dans les correspondances de la Golden Dawn qu’utilise ce site.
 

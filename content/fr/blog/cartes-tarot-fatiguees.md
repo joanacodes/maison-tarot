@@ -23,7 +23,7 @@ Imaginons que vous ayez tiré les cartes à six amis dans la même soirée, et q
 
 ## Ce qui se passe vraiment {#ce-qui-se-passe}
 
-Ce qui se fatigue, c’est votre attention. Interpréter demande de l’énergie, et après un tirage on peut se sentir très fatigué ; le tirage suivant en paie le prix. Il m’arrive de m’arrêter après deux heures de lectures, par prudence — pas parce que le jeu en a assez, mais parce que moi, oui.
+Ce qui se fatigue, c’est votre attention. Interpréter demande de l’énergie, et après un tirage on peut se sentir très fatigué ; le tirage suivant en paie le prix. Il y a des jours où je range le jeu après deux heures de lectures, par simple précaution — pas parce qu’il en a assez, mais parce que moi, oui.
 
 **Le carton est le même qu’hier. Vous, non.**
 
