@@ -34,29 +34,28 @@ function wheel(cx, cy) {
   ];
 }
 
-// un sphinx couché, celui de gauche ; celui de droite en est le reflet. Derrière, le corps de lion couché de
-// profil : le poitrail, les pattes de devant allongées au sol (une fente les sépare du poitrail), le dos, la croupe
-// et la cuisse repliée. Devant, détachée du corps par une marge pour que le menton se lise entre les pans, la tête
-// de face sous le némès, qui s'évase sous les oreilles et retombe en pans rayés
-const BODY = [[290, 740], [338, 730], [400, 738], [420, 760], [440, 772], [458, 762], [474, 760], [486, 776],
-  [494, 806], [494, 846], [490, 884], [494, 906], [488, 922], [470, 926], [400, 926], [330, 926], [300, 924],
-  [262, 924], [240, 922], [228, 914], [226, 902], [232, 890], [246, 882], [268, 880], [270, 850], [272, 810],
-  [280, 770]];
-const LEG = [[264, 880], [330, 882]];
-const THIGH = [[432, 906], [436, 880], [450, 852], [470, 838]];
-const NEMES = [[338, 612], [362, 615], [380, 626], [386, 644], [386, 668], [398, 684], [412, 700], [418, 716],
-  [418, 742], [416, 768], [408, 790], [388, 792], [378, 772], [360, 764], [338, 768], [316, 764], [298, 772],
-  [288, 792], [268, 790], [260, 768], [258, 742], [258, 716], [264, 700], [278, 684], [290, 668], [290, 644],
-  [296, 626], [314, 615]];
-const STRIPES = [[[309, 640], [367, 640]], [[309, 660], [367, 660]], [[278, 724], [298, 724]], [[278, 752], [298, 752]],
-  [[378, 724], [398, 724]], [[378, 752], [398, 752]]];
+// un sphinx couché, celui de gauche ; celui de droite en est le reflet. Le corps de lion couché de profil, long et
+// bas : le poitrail, la patte de devant allongée au sol (une fente la sépare du poitrail), le dos, la croupe et la
+// cuisse repliée. Devant, détachée du corps par une marge pour que le menton se lise entre les pans, la tête de face
+// sous le némès, qui s'évase sous les oreilles et retombe en pans rayés ; elle est un peu plus petite que sur la
+// carte, sans quoi le corps n'était plus qu'un socle sous elle
+const BODY = [[262, 790], [304, 784], [350, 786], [372, 790], [400, 796], [428, 790], [454, 778], [474, 780],
+  [488, 796], [494, 826], [494, 870], [488, 900], [494, 918], [484, 926], [400, 926], [300, 926], [250, 925],
+  [232, 920], [226, 906], [230, 892], [244, 884], [262, 882], [262, 850], [256, 820]];
+const LEG = [[260, 882], [320, 884]];
+const THIGH = [[430, 906], [434, 880], [448, 856], [466, 842]];
+const NEMES = [[304, 656], [323, 658], [338, 667], [342, 682], [342, 701], [352, 714], [363, 726], [368, 739],
+  [368, 760], [366, 781], [360, 798], [344, 800], [336, 784], [322, 778], [304, 781], [286, 778], [272, 784],
+  [264, 800], [248, 798], [242, 781], [240, 760], [240, 739], [245, 726], [256, 714], [266, 701], [266, 682],
+  [270, 667], [285, 658]];
+const STRIPES = [[[285, 680], [323, 680]], [[285, 704], [323, 704]], [[258, 756], [280, 756]], [[328, 756], [350, 756]]];
 // la queue, au seul sphinx blanc comme sur la carte : relevée derrière la croupe, la touffe tournée vers la tête
-const TAIL = [[484, 790], [492, 756], [488, 728], [470, 714]];
+const TAIL = [[484, 800], [494, 770], [490, 742], [474, 728]];
 
 function sphinx(flip) {
   const f = (pts) => (flip ? mirror(pts) : pts);
   const body = [blob(f(BODY))];
-  if (flip) body.push(line(f(TAIL), 14), ellipse(...f([[458, 714]])[0], 13, 9));
+  if (flip) body.push(line(f(TAIL), 14), ellipse(...f([[462, 728]])[0], 13, 9));
   const head = blob(f(NEMES));
   return [
     ...body.map(halo),
@@ -104,9 +103,10 @@ export function draw() {
     ...driver,
     cut(line([[422, 470], [578, 470]], 10)),
     // la caisse du char et son rebord, posés après la marge du conducteur pour qu'il s'y tienne debout, et le
-    // disque ailé découpé sur sa face
+    // disque ailé découpé sur sa face ; la face s'arrête au-dessus des sphinx, pour que leurs dos de lion se
+    // détachent sur le fond au lieu de se fondre dans la caisse
     poly([[344, 538], [656, 538], [662, 556], [338, 556]]),
-    poly([[350, 550], [650, 550], [650, 800], [350, 800]]),
+    poly([[350, 550], [650, 550], [650, 700], [350, 700]]),
     cut(circle(500, 612, 14)),
     ...[false, true].map((flip) => cut(poly((flip ? mirror : (p) => p)([[488, 606], [470, 596], [446, 590], [420, 590],
       [396, 598], [418, 608], [404, 618], [432, 620], [420, 630], [456, 628], [488, 622]])))),

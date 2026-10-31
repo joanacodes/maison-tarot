@@ -74,7 +74,8 @@ export function draw() {
     line([[270, 546], [284, 528], [290, 514]], 14),
     ellipse(293, 494, 12, 21, 18),
   ];
-  // la femme, tournée vers l'ange : la longue chevelure dans le dos, une main pendante, l'autre ouverte vers l'homme
+  // la femme, à gauche comme sur la carte, tournée vers l'ange : la longue chevelure dans le dos, une main
+  // pendante, l'autre ouverte vers l'homme
   const woman = [
     blob([[344, 496], [354, 489], [366, 488], [377, 493], [383, 502], [388, 508], [383, 514], [385, 520], [380, 528],
       [376, 535], [366, 540], [354, 538], [344, 530], [338, 516], [338, 504]]),
@@ -127,7 +128,7 @@ export function draw() {
     ...serpent.map(halo),
     ...serpent,
     // l'arbre de flammes derrière l'homme : les flammes sur de courtes branches, la plus haute au bout du tronc
-    poly([[737, 897], [740, 620], [741, 400], [751, 400], [752, 620], [757, 897]]),
+    poly([[736, 897], [738, 620], [739, 400], [753, 400], [754, 620], [758, 897]]),
     ...[[720, 445], [720, 525], [770, 480], [770, 560], [770, 640], [770, 720], [768, 800]].map(([x, y]) => line([[746, y + 36], [x, y + 10]], 14)),
     ...[[746, 384], [720, 445], [720, 525], [770, 480], [770, 560], [770, 640], [770, 720], [768, 800]].map(([x, y]) => flame(x, y)),
     // la montagne entre eux, ses pentes creusées qui s'évasent vers le pied
