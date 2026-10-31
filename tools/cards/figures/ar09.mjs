@@ -10,7 +10,9 @@ function star(cx, cy, outer, inner) {
   }));
 }
 
-// le bâton, à peine arqué comme sur la carte : une courbe du second degré, du bout arrondi jusqu'à la neige
+// le bâton, à peine arqué comme sur la carte : une courbe du second degré, du bout arrondi jusqu'à la neige. Son
+// haut et le visage sont un peu écartés l'un de l'autre par rapport à la carte : entre les deux passe le creux sombre
+// où se lit le profil
 const STAFF = Array.from({ length: 13 }, (_, i) => {
   const t = i / 12;
   const [a, b, c] = [[404, 146], [462, 520], [474, 893]];
