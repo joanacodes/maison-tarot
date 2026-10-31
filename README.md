@@ -55,6 +55,24 @@ Puis http://localhost:1313/ — la racine est le site anglais ; le français est
 - Podcast : `content/<lang>/podcast/` (section `type: podcast`, un `.md` par épisode, modèle fourni). Plateformes dans `hugo.toml` → `[params.podcast]` ; un épisode avec `start:` futur affiche un compte à rebours.
 - Badge « Disponible en … » (vert) ; ligne de lecture réduite aux cinq essentiels ; page cartes : header et héros noirs, survol = ouvre, clic = verrouille.
 
+## Images des cartes pour les réseaux
+
+Chaque carte dessinée en silhouette d’après l’image de Pamela Colman Smith (1909), puis rendue dans les huit dessins noir et blanc des réseaux de The Astro Study : trait, pinceau, pointillé, trame, mosaïque, constellation, gravure sur bois, papier découpé. Ces images ne servent qu’aux publications : le site ne les lit pas, Hugo ne les copie pas.
+
+| Quoi | Où |
+| --- | --- |
+| Les images, 2000 × 2000 px, en quatre versions : blanc sur noir, noir sur blanc, encre blanche ou noire sur fond transparent | `images/cards/<dessin>/<id>-<slug>--<version>.png` |
+| La silhouette seule, noire sur fond transparent, à recolorer | `images/cards/silhouettes/<id>-<slug>.svg` |
+| Le dessin de chaque carte (formes du kit, commentées) | `tools/cards/figures/<id>.mjs` |
+| Le kit et les huit dessins, copiés tels quels de The Astro Study | `tools/cards/kit/` |
+
+```
+node tools/cards/check.mjs ar00                 # la carte de 1909, le dessin, et l'un sur l'autre (pour dessiner)
+node tools/cards/render.mjs                     # toutes les images ; ou : render.mjs woodcut --cards ar00,ar01
+node tools/cards/page.mjs /tmp/page             # une page pour tout voir d'un coup
+```
+Il faut Node et Playwright (Chromium) pour le rendu, Python et Pillow pour les niveaux de gris et la transparence.
+
 ## Avant la mise en ligne
 
 1. `baseURL` dans `hugo.toml` + `static/CNAME` avec le domaine choisi (un seul ; les autres domaines redirigent en 301 chez le registrar).
