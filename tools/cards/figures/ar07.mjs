@@ -1,5 +1,5 @@
 // Le Chariot (The Chariot, VII), d'après la carte de Pamela Colman Smith, 1909 : le conducteur en armure debout dans le char carré sous son dais, la baguette en main, la couronne à l'étoile, les deux sphinx couchés devant, les roues.
-import { blob, circle, cut, ellipse, line, poly } from '../kit/silhouettes/lib.mjs';
+import { blob, circle, cut, line, poly } from '../kit/silhouettes/lib.mjs';
 
 const rad = (d) => (d * Math.PI) / 180;
 
@@ -34,37 +34,33 @@ function wheel(cx, cy) {
   ];
 }
 
-// un sphinx couché, celui de gauche ; celui de droite en est le reflet. Le corps de lion couché de profil, long et
-// bas : le poitrail, la patte de devant allongée au sol (une fente la sépare du poitrail), le dos, la croupe et la
-// cuisse repliée. Devant, détachée du corps par une marge pour que le menton se lise entre les pans, la tête de face
-// sous le némès, qui s'évase sous les oreilles et retombe en pans rayés ; elle est un peu plus petite que sur la
-// carte, sans quoi le corps n'était plus qu'un socle sous elle
-const BODY = [[262, 790], [304, 784], [350, 786], [372, 790], [400, 796], [428, 790], [454, 778], [474, 780],
-  [488, 796], [494, 826], [494, 870], [488, 900], [494, 918], [484, 926], [400, 926], [300, 926], [250, 925],
-  [232, 920], [226, 906], [230, 892], [244, 884], [262, 882], [262, 850], [256, 820]];
-const LEG = [[260, 882], [320, 884]];
-const THIGH = [[430, 906], [434, 880], [448, 856], [466, 842]];
-const NEMES = [[304, 656], [323, 658], [338, 667], [342, 682], [342, 701], [352, 714], [363, 726], [368, 739],
-  [368, 760], [366, 781], [360, 798], [344, 800], [336, 784], [322, 778], [304, 781], [286, 778], [272, 784],
-  [264, 800], [248, 798], [242, 781], [240, 760], [240, 739], [245, 726], [256, 714], [266, 701], [266, 682],
-  [270, 667], [285, 658]];
-const STRIPES = [[[285, 680], [323, 680]], [[285, 704], [323, 704]], [[258, 756], [280, 756]], [[328, 756], [350, 756]]];
-// la queue, au seul sphinx blanc comme sur la carte : relevée derrière la croupe, la touffe tournée vers la tête
-const TAIL = [[484, 800], [494, 770], [490, 742], [474, 728]];
+// un sphinx couché, celui de gauche ; celui de droite en est le reflet. Ils sont de profil et se font face, alors que
+// la carte les montre de face : de face, une tête sous le némès posée sur un corps couché ne se lit pas en silhouette,
+// de profil le sphinx se reconnaît d'emblée. Le corps de lion, la cuisse repliée marquée d'une fente, les pattes de
+// devant allongées vers le milieu ; la tête humaine, le nez et le menton en avant, sous le némès qui s'évase derrière
+// la tête jusqu'aux épaules, ses rayures découpées, le pan de devant tombant sur le poitrail
+const BODY = [[232, 812], [270, 800], [315, 796], [360, 798], [395, 806], [415, 826], [425, 856], [432, 880],
+  [470, 886], [490, 894], [494, 910], [486, 921], [410, 921], [300, 921], [232, 921], [213, 910], [206, 880],
+  [212, 840]];
+const HEAD = [[386, 688], [404, 680], [422, 684], [432, 696], [434, 708], [438, 722], [446, 736], [437, 741],
+  [440, 750], [433, 761], [422, 765], [420, 772], [426, 800], [428, 830], [410, 832], [404, 800], [398, 790],
+  [372, 798], [366, 770], [372, 730], [378, 704]];
+const THIGH = [[300, 921], [284, 884], [262, 862], [236, 854]];
+const STRIPES = [714, 740, 766].map((y) => [[360, y], [402, y]]);
+// la tête agrandie autour du cou : à la taille du corps, le visage et les rayures se perdaient
+const big = (pts) => pts.map(([x, y]) => [405 + (x - 405) * 1.3, 805 + (y - 805) * 1.3]);
 
 function sphinx(flip) {
   const f = (pts) => (flip ? mirror(pts) : pts);
-  const body = [blob(f(BODY))];
-  if (flip) body.push(line(f(TAIL), 14), ellipse(...f([[462, 728]])[0], 13, 9));
-  const head = blob(f(NEMES));
+  const body = blob(f(BODY));
+  const head = blob(f(big(HEAD)));
   return [
-    ...body.map(halo),
-    ...body,
-    cut(line(f(LEG), 10)),
-    cut(line(f(THIGH), 10)),
+    halo(body),
     halo(head),
+    body,
     head,
-    ...STRIPES.map((s) => cut(line(f(s), 10))),
+    cut(line(f(THIGH), 10)),
+    ...STRIPES.map((s) => cut(line(f(big(s)), 12))),
   ];
 }
 
@@ -89,9 +85,9 @@ export function draw() {
   // la baguette, tenue de biais dans la main droite, sa pointe en fer de lance
   const wand = [line([[356, 540], [327, 300]], 14), blob([[318, 276], [328, 290], [332, 306], [322, 316], [312, 306], [312, 290]])];
   return [
-    // les roues au flanc du char, derrière tout
-    ...wheel(282, 604),
-    ...wheel(718, 604),
+    // les roues au flanc du char, derrière tout, au niveau de la caisse
+    ...wheel(296, 640),
+    ...wheel(704, 640),
     // le dais : la frange relevée au milieu en deux festons, et les tentures qui pendent aux coins ; ses étoiles
     // brodées sont laissées de côté
     blob([[306, 110], [694, 110], [694, 150], [682, 180], [640, 192], [590, 196], [550, 182], [520, 158], [500, 144],
@@ -118,6 +114,6 @@ export function draw() {
     // les deux sphinx couchés devant le char, le noir à gauche, le blanc à droite ; le sol est posé après leur marge
     ...sphinx(false),
     ...sphinx(true),
-    poly([[236, 918], [764, 918], [764, 937], [236, 937]]),
+    poly([[200, 918], [800, 918], [800, 937], [200, 937]]),
   ];
 }
